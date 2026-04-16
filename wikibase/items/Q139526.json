@@ -1,0 +1,519 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arsaces I of Parthia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139526$6330C806-6FF4-445E-90EF-5497615169B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00717544"
+          },
+          "hash": "350ae13b203ff5cbedc285545e426dd208ca8ccc",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139526$65358DD1-B38E-40BF-B522-FA9F6941779A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141367",
+              "numeric-id": 141367
+            }
+          },
+          "hash": "48fa1a0307023f473a68787a671c322efac3750e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139526$7FB824BE-4D96-45BB-959D-BF0C0AC7192B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139526$88C06D82-EDF0-4891-BB38-ADAE9B1FD714",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139526$1AB3229B-B1C1-4DB2-A2E1-A02546F26F7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139525",
+              "numeric-id": 139525
+            }
+          },
+          "hash": "ae45758bd07aa3002032b4dcf491e44b82451d29",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139526$F9F6DB36-E700-4B49-9BCE-2DD3AA72AEA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139526$AAB84513-6761-46D7-AD31-5DD2D6254C13",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0217-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d405c5057213b11ff5197e4c7cdb77e34ef649e6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139526$D72BDFBE-2827-4D44-9894-B55AF4A2449C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q315913"
+          },
+          "hash": "1b3b1aec8a6396602bb130e63a54b625054510f7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q139526$209DBFBD-AEAF-4903-932F-2598084ED197",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52219"
+          },
+          "hash": "ab885e96a93c98ef7d46fe2511fb1c736e155db4",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139526$57953041-0B3F-40D3-8EA5-112490748454",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arsaces I of Parthia Arms.svg"
+          },
+          "hash": "d19b07183d6d9bd0ae7548cc0aef153b5e3bbfe9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gründer der Partherreiches und der Arsakiden-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "first Parthian king (247–217 BC)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "fondinto de la Parta Imperdio kaj de la Arsarka dinastio"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نخستین پادشاه اشکانی (۲۴۷–۲۱۷ پ.م)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi parthe"
+    },
+    "he": {
+      "language": "he",
+      "value": "המלך הראשון של האימפריה הפרתית"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पार्थिया के प्रथम राजा"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "pártus király"
+    },
+    "it": {
+      "language": "it",
+      "value": "capostipite della dinastia arsacide, primo re dei parti (r. 247-217 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Parthische Rijk (-217v Chr)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "вождь племени парнов и правитель Парфии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İlk Part kralı (247–217 MÖ)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "перший з відомих каранів, який об'єднав частину племен парнів. Фундатор династії Аршакідів."
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سلطنت اشکانیان کا بانی اور شہنشاہ فارس جس نے 247 قبل مسیح سے 217 قبل مسیح تک حکومت کی۔"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安息帝國的開國君主"
+    }
+  },
+  "id": "Q139526",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Arsakes I van Partië"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أرشك الأول ملك فرثية"
+    },
+    "arc": {
+      "language": "arc",
+      "value": "ࡀࡔࡂࡀࡍ"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیرینجی ارشک"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Аршак I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Àrsaces I de Pàrtia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Arsakés I."
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Аршак I (Пархи патши)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Arsakes I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρσάκης της Παρθίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arsaces I of Parthia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Arsaces I of Parthia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Arsaces I of Parthia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Arsako/Arŝako la 1-a de Partio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arsaces"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Arsazes I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ارشک یکم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Arsace Ier de Parthie"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארסאקס הראשון"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "आर्ससिज़ प्रथम"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Arsak I. Partski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Arsak pártus király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արշակ Ա Պարթև"
+    },
+    "id": {
+      "language": "id",
+      "value": "Arsaces I dari Parthia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Arsace I di Partia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルサケス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არშაკ I"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Arşak I"
+    },
+    "ku-arab": {
+      "language": "ku-arab",
+      "value": "ئارشاک I"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Arşak I"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Arsaka I"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "ارشک اول"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Arsakes I av Parthia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arsaces I"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Arsaces Ièr"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Arsakes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ársaces I da Pártia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ársaces I da Pártia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Arsaces I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аршак I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Arsak I od Partije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Arsak I."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Арсак I од Партије"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Arsakes I"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "முதலாம் அர்செஸ்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Аршак"
+    },
+    "tk": {
+      "language": "tk",
+      "value": "Ärsag I"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Arsakes"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аршак I"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ارشک اول"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Arshak"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Arsaces I của Parthia"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "阿尔沙克一世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿尔沙克一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿尔沙克一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿尔沙克一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿爾沙克一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿爾沙克一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿尔沙克一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿爾沙克一世"
+    }
+  },
+  "lastrevid": 17558041,
+  "modified": "2025-09-17T11:57:22Z",
+  "ns": 860,
+  "pageid": 167911,
+  "sitelinks": {},
+  "title": "Item:Q139526",
+  "type": "item"
+}

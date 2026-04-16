@@ -1,0 +1,396 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Aemilius Lepidus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139669$ABB5AF2A-55B9-4AC0-864F-A961536D81BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446800"
+          },
+          "hash": "5d7d6d8fa3348a957bf4bfb9189dde7f263ffd29",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139669$59DDA562-DE79-49CD-9CCF-19702CED24B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139669$D241DABC-96C1-41B7-969D-FE1834B710D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139669$7631D62D-15D0-43EC-B17D-9ADE0CB2299C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus_Aemilius_Lepidus_(executed_39)_(1)"
+          },
+          "hash": "6ff273e4e7ae078cf0dce539aa4e6195e78e847e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139669$79445C70-9D58-45B7-ACAD-D82082B15C91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138459",
+              "numeric-id": 138459
+            }
+          },
+          "hash": "49ecaf2086edc39a651a552f6fca6fafbaaffe03",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139669$6169383F-37CF-43F5-9249-D8655D52A682",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139631",
+              "numeric-id": 139631
+            }
+          },
+          "hash": "1e901d981893c4bc77e5b349a746e2da922574e8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139669$F4F870EF-F197-433A-81C5-7A04EF7603ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139603",
+              "numeric-id": 139603
+            }
+          },
+          "hash": "048253372f5587b4f83a6b65b648fd84a70d9665",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139669$F0A7373D-A112-42EE-8CFD-CD44EDB4B553",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139669$69BB6975-4C61-4A44-A096-D013F54C9BBB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0014-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d955cf16dac52ce1298129cf7658760afabe0d91",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139669$AFA4A1B7-63DB-44D5-9848-BFA1C64C42A3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0039-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4116a026b1605ba38a6668a528b3897b24cbcb74",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139669$74F233CF-BF3E-4116-ADB1-691E0CC8B49F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q878550"
+          },
+          "hash": "ba1c446dfe6ebc22cec267d36447517ba1cd9792",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139669$02D2E1D7-3470-400A-BB53-F56DD6178126",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Aemilius Lepidus Arms.svg"
+          },
+          "hash": "fc62be534080cc774f5e1dc87e9e3c3526f52052",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي روماني أعدمه كاليجولا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من روما القديمه"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker, Schwager Caligulas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος πολιτικός και σύζηγος της Ιουλίας Δρουσίλλας, αδερφή του Καλιγούλα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman politician and husband of emperor Caligula's younger sister, Julia Drusilla (6 AD-39 AD) (14-39)"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposo de Drusila"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain, époux de Drusilla"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי רומאי, בעלה של דרוסילה"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile romano del I secolo, marito di Drusilla, sorella minore di Caligola"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (14-39)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Roman polityka realizowana przez Caligula"
+    }
+  },
+  "id": "Q139669",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ماركوس أميليوس ليبيدوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ماركوس اميليوس ليبيدوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Емилий Лепид"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Emili Lèpid"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Αιμίλιος Λέπιδος (εκτελέστηκε το 39)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Emilio Lépido"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרקוס אמיליוס לפידוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Emilio Lepido"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・アエミリウス・レピドゥス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Marek Emiliusz Lepidus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Эмилий Лепид"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Емілій Лепід"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "马库斯·埃米利乌斯·雷比达斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "馬可仕・埃米利烏斯・萊比達斯"
+    }
+  },
+  "lastrevid": 17558277,
+  "modified": "2025-09-17T12:00:43Z",
+  "ns": 860,
+  "pageid": 168054,
+  "sitelinks": {},
+  "title": "Item:Q139669",
+  "type": "item"
+}

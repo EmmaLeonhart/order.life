@@ -1,0 +1,337 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oleg II Svyatoslavich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141183$443F3683-9FF0-4E92-B215-2F8247A1177D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "798"
+          },
+          "hash": "3f158a36f4d2a95ff89189a9236b2df7f6127f86",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141183$CD05E0D5-0F70-4AF2-808E-E61ED093F8C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143685",
+              "numeric-id": 143685
+            }
+          },
+          "hash": "461145c97117507d60caf7e8b85aa9a8fbff610c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141183$D362A08B-EB13-470E-85EA-915CB7D6FD14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141183$F1578702-985B-4A91-A995-49A5FEA67817",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141183$0156C491-AF97-485B-960A-D097F501EC09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127034",
+              "numeric-id": 127034
+            }
+          },
+          "hash": "f994789e8c51137adabd12694055c83eb785f563",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141183$54A25704-1B49-4161-AF53-10B0A376C224",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126970",
+              "numeric-id": 126970
+            }
+          },
+          "hash": "527d59778325396e9d41ecd3549809bc248937e5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141183$F4ED3655-C81A-4D6C-8B36-2AD54708ADC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141180",
+              "numeric-id": 141180
+            }
+          },
+          "hash": "2b453db7d52d3ec416179d2d91c9fb92290f5064",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141183$333FCDAA-9435-4B0E-99FC-4C5CF66486AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141183$02B84243-D94A-4676-9785-E5303DA6FA53",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1137-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "561b13d1d2b5278bc4fd75b3c72a6b717f821445",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141183$5FC5CDD1-2DA1-42A1-8A66-7D6BB5FC6172",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1180-01-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5d1ced1a28df8c03496020be04730307c6cf0bc0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141183$1E16904E-FDF7-4A5C-A105-C24BE26FC66F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4333476"
+          },
+          "hash": "4630d45e64796f7ff609d71394f51a29216e6621",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q141183$1CDCE8E9-48C8-40DC-9BA0-0C2050962B46",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=oleg;n=rurikides;oc=7"
+          },
+          "hash": "675a36ff1fcfcc8fcce30c86df0e561bb8120c6c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141183$44838C2C-4471-44E3-8566-32AD09740EA4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oleg II Svyatoslavich Arms.svg"
+          },
+          "hash": "9689ac3c05eebdaa18e70c2ef4a4d29ed7ff14a3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Prince of Novgorod-Seversk"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince slave du 12e siècle"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь Путивльский (1157—1159), Курский (1159—1164), Новгород-Северский (с 1164)"
+    }
+  },
+  "id": "Q141183",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اوليج التانى سفياتوسلافيتش"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Oleg II Svyatoslavich"
+    },
+    "de": {
+      "language": "de",
+      "value": "Oleg Swjatoslawitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oleg II Svyatoslavich"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Oleg Sviatoslavitch de Novgorod-Severski"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オレグ・スヴャトスラヴィチ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Oleg II Svyatoslavich"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Олег Святославич (князь новгород-северский)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Oleg II Svjatoslavitj"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Олег Святославич"
+    }
+  },
+  "lastrevid": 17560823,
+  "modified": "2025-09-17T12:37:56Z",
+  "ns": 860,
+  "pageid": 169568,
+  "sitelinks": {},
+  "title": "Item:Q141183",
+  "type": "item"
+}

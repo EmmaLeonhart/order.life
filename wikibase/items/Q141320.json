@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adelgis II"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141320$DB56FEE7-5A67-4F17-90C6-7707D0A82BD3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00772014"
+          },
+          "hash": "57c2b2976977d6e7eca4a0240cb44b41143ef3cf",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141320$0EF0B02A-217A-486C-B42C-93C2801E1FDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141320$6B2FB6E8-D362-448A-AFDB-D0799D7822F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141320$1711E32B-6F1E-4B15-9C5C-D1DEF94732E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124129",
+              "numeric-id": 124129
+            }
+          },
+          "hash": "c3b02cc5cfe6f76797b053cc0fab7a28c2fba42d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141320$F3A21DBF-FC02-4860-B6CD-31A40B944E9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141320$C4F1E5E9-443A-48C8-8CC4-67B93FCCBF47",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0880-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ad3af04582c37bc149559eb147ac753b287fc169",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141320$56D19360-0BCA-43BA-9A36-44DE448C80CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0902-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a71908e44d5bdc4e03eb6a3bbcbc57d1ccadab3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141320$00D41B26-2673-4D0F-A183-E9AC244EE01E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2176375"
+          },
+          "hash": "83a1f2476c686ed1f5f827c4ce761baf6f4ff396",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q141320$2B2BA976-4E5C-45BB-850E-8A13F6CD4877",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=adelgis;n=di spoleto;oc=2"
+          },
+          "hash": "6993578b26d8c4940d475f9117af9ec54ad31019",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141320$0683936B-64F2-4CD7-B25B-10E914C27B3B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adelgis II Arms.svg"
+          },
+          "hash": "222cd154f412dbca117a96def79238eab03866c7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "it": {
+      "language": "it",
+      "value": "conte di Piacenza"
+    }
+  },
+  "id": "Q141320",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Adelgis II"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adelgis II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Adalgiso II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Adelgis II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adelgis II"
+    }
+  },
+  "lastrevid": 17561082,
+  "modified": "2025-09-17T12:42:09Z",
+  "ns": 860,
+  "pageid": 169705,
+  "sitelinks": {},
+  "title": "Item:Q141320",
+  "type": "item"
+}

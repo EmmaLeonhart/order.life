@@ -1,0 +1,325 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Petronius Mamertinus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141781$1C7FEAA3-6093-4818-83CC-AA5407B63564",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141783",
+              "numeric-id": 141783
+            }
+          },
+          "hash": "f38438b84be87d50d08a4c25e873bf4b2087a2a7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141781$D2FD4C61-AB2F-4B2B-B39C-6C7C923B72C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139839",
+              "numeric-id": 139839
+            }
+          },
+          "hash": "b2a7bb224473075b578172a257ea5ef712262b24",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141781$1215BFE0-C6E0-4F43-B21B-798C0A36FD3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141781$A7144701-2677-474A-8ED5-050241A94B29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141781$3D311291-CCDC-4CE8-87E4-5BB35BB032A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus_Petronius_Mamertinus_(1)"
+          },
+          "hash": "f83feb40dcfe6a3be151d0021946e87f3701dd26",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141781$42C11584-D87A-40B7-95F7-C67B7B411646",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141782",
+              "numeric-id": 141782
+            }
+          },
+          "hash": "1faa686ed22dfa8fa589d6c50823272da7f64eab",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141781$4EFD0E75-3301-4E1B-BA1E-F5E5A797BFD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141781$F68A45B1-0CF9-4646-80B7-844C2A64A3BC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141781$3B601671-972E-4291-B45A-28E7CB8EDB59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1499768144a70e82ec71698e222238d1443a9064",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141781$86855F1A-D1B5-47E9-B35F-F7075D3FAFCA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1631940"
+          },
+          "hash": "6b2ec8c42c0c47b179e3c36eb6afd4367ca1bb6a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141781$5E67A357-BEDD-493A-85EA-102153E0A6A5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Petronius Mamertinus Arms.svg"
+          },
+          "hash": "365981bd75e83a1f08e5b370965b9c23cbf7a0bd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Präfekt der Provinz Ägypten, Suffektkonsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "2nd century Roman senator, governor and praetorian prefect"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 150"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q141781",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Marcus Petronius Mamertinus"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Петроний Мамертин"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Petronius Mamertinus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Petronius Mamertinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Petronio Mamertino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Petronius Mamertinus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marcus Petronius Mamertinus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Petronio Mamertino"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Petronius Mamertinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Petronius Mamertinus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Петроний Мамертин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Петроній Мамерцін"
+    }
+  },
+  "lastrevid": 17561830,
+  "modified": "2025-09-17T12:52:57Z",
+  "ns": 860,
+  "pageid": 170166,
+  "sitelinks": {},
+  "title": "Item:Q141781",
+  "type": "item"
+}

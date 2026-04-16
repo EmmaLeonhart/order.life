@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Gronwy ab Ieuan ap Lleision ap Rhys ap Morgan Fychan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q140339$6D88DD53-50EE-4AF6-A51E-B0EDD7EF2F3A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00697996"
+          },
+          "hash": "d58b68a75e45e1ca9700632de9373c132c6aed90",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140339$7D72862B-15F9-4077-97D4-4408A35F89C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140332",
+              "numeric-id": 140332
+            }
+          },
+          "hash": "3adf6dad403149a35d7411e033b027faecfad19f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140339$938B2703-D225-4B30-AC8D-EAE314BB575B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142573",
+              "numeric-id": 142573
+            }
+          },
+          "hash": "ba69faeff5785c40f69ac8e565f0049316a3e82f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140339$72DC43FD-8A8D-4379-B0A3-D49C167204CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140339$417732E2-1DBC-47DC-97FB-ECBAF7CD85E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q140339$1F0B91F6-58C8-4CE5-AC09-E5A8F6CC27C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138870",
+              "numeric-id": 138870
+            }
+          },
+          "hash": "bb9ba189965ffbe35c804fcf6222e274859685ba",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140339$35E1FA04-22A3-4EB8-96CB-4E8FF984DC53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145648",
+              "numeric-id": 145648
+            }
+          },
+          "hash": "42c17c47f915a4d1e9d1974ec830ba5b0a2c0feb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140339$7662E106-3938-4CE9-9B1A-4BEF19B0E5DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140327",
+              "numeric-id": 140327
+            }
+          },
+          "hash": "1c42b93eed0c9716eec7461e506dcd6eff84bc93",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q140339$509E2A82-C203-460D-BD62-FAB796A756F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138875",
+              "numeric-id": 138875
+            }
+          },
+          "hash": "d73be0c0d21ea8d3b6c14c5ce93b798bbdf46b96",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140339$9A5B13F3-CF82-447B-B74E-3AF22646EDC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140339$5F8292F0-1CAC-460B-9A8B-E8576514AEEE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110621986"
+          },
+          "hash": "4457947689f5b03bd17ba627e87f38f49a29bb57",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q140339$5A87FAA6-AEFC-4ACD-B4A0-6F11EADA9BAB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Gronwy ab Ieuan ap Lleision ap Rhys ap Morgan Fychan"
+          },
+          "hash": "1e5c63784e41259709d2dd7b182847a2e71afa4e",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140339$A7A7956C-B00B-4BA3-B411-BC2181726F47",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Gronwy ab Ieuan ap Lleision ap Rhys ap Morgan Fychan Arms.svg"
+          },
+          "hash": "6ec8dd9ce7346ae6285deb4f9bd92c6b7f977ad8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q140339",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir Gronwy ab Ieuan ap Lleision ap Rhys ap Morgan Fychan"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Sir Gronwy ab Ieuan ap Lleision ap Rhys ap Morgan Fychan"
+    }
+  },
+  "lastrevid": 17559507,
+  "modified": "2025-09-17T12:18:25Z",
+  "ns": 860,
+  "pageid": 168724,
+  "sitelinks": {},
+  "title": "Item:Q140339",
+  "type": "item"
+}

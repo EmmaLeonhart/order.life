@@ -1,0 +1,274 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Junius Brutus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141473$1F6193DE-8E58-4234-A126-B9978D07B473",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1464981"
+          },
+          "hash": "90393c762403d576c7c679b22628153bb6a71db2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141473$DA98A263-0A7A-4D89-AA12-59B4E3289ED5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144121",
+              "numeric-id": 144121
+            }
+          },
+          "hash": "703688e3cfdc457e2bd0ee855110f809acf9df09",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141473$A318ACC7-9349-4976-BB5B-559614A0CD36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141473$D6B5D4E8-66D8-4D03-84CA-DB71166BEDAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141473$0D882477-978B-4A43-A866-11F9E906A773",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73059",
+              "numeric-id": 73059
+            }
+          },
+          "hash": "43018845b681f8a29fef292673c02c4055ec3259",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141473$955ADE57-B556-41C0-8D3F-33284286F470",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141473$55EDA296-5EF6-4FAE-A752-2327E812D7CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "022069ba4b6f2fafb5cc5b35534f1444ceeb4c16",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141473$2CAD9247-D2C1-4C7A-867E-1A96E8265E66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11935164"
+          },
+          "hash": "e8f0a54673ab45d7c51e4aa01702aa65b690b38e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141473$2495A1C1-C877-4B31-8659-B6B7AD160CCF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Junius Brutus Arms.svg"
+          },
+          "hash": "96ee89f1f9dbcecd63ea4a9748c1f43ed8a0f0cc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "jurista romà"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Jurist"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman jurist"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "juriste romain, préteur avant 139 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "giurista e storico romano"
+    }
+  },
+  "id": "Q141473",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Marcus Iunius Brutus"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Юний Брут (претор 140 пр.н.е.)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Juni Brutus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Iunius Brutus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Ιούνιος Βρούτος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Junius Brutus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Junio Bruto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Junius Brutus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Giunio Bruto"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Iunius Brutus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Юний Брут"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Junius Brutus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Юній Брут"
+    }
+  },
+  "lastrevid": 17561338,
+  "modified": "2025-09-17T12:45:59Z",
+  "ns": 860,
+  "pageid": 169858,
+  "sitelinks": {},
+  "title": "Item:Q141473",
+  "type": "item"
+}

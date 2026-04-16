@@ -1,0 +1,348 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Kenelm"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q141350$03450829-F362-438B-AE0A-3C0C4AD0B089",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mercia-245"
+          },
+          "hash": "c504bb9324612dc826053e632291e17940814462",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141350$6C9919B0-407B-4C1F-8E6B-D9AF4F15895A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141350$97BFD9EA-FAF4-4424-B759-3BC5CFEBA3E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q141350$4FF6AC8E-1987-413D-9341-0FC825BAAACD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15255.htm#i152549"
+          },
+          "hash": "16472c057570a0a03be4859c58365c024a5f1690",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141350$A907B65C-6C2E-4470-BE70-0EABA8A1C959",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139495",
+              "numeric-id": 139495
+            }
+          },
+          "hash": "93d3666842c0c2499a69af838a997c2d480cec2e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141350$C9389DB3-9932-428D-87B2-ECB5FBF2E160",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141349",
+              "numeric-id": 141349
+            }
+          },
+          "hash": "094d871b0ca7dffbc636f7ceef8ca9ec3a8eae35",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141350$530F1C94-024B-427C-A561-39091DAFBD05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141350$F9BDBA5A-BEAB-4344-AC4B-815324F8623C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0786-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f674f805db2e23850475159c3f75276b84bd1c1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141350$FB35CE25-401C-42AC-A61C-D9E165AC6932",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0821-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "519f0f129b5c2fe01691b86d3bd327bb62e54aaf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141350$8ADB0AF0-A67B-4AA9-A244-44560D7D1A06",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1063344"
+          },
+          "hash": "c3cc732538d6a0a889ac24c964af6d4d43683f9a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q141350$F681B8AA-2342-4CC9-992E-2154B0B96421",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=cynehelm;n=of mercia"
+          },
+          "hash": "d99319390843cf60d8a3c504d1fad53d6ec76d59",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141350$36172EE5-8266-4BD3-BBE8-2438314B2065",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saint Kenelm Arms.svg"
+          },
+          "hash": "c1b06580b0f39d85252c6f03c7b84ffb9cb5b7f4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Mercian monarch and saint"
+    },
+    "la": {
+      "language": "la",
+      "value": "puer, martyr in Anglia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Angelsaksische heilige"
+    }
+  },
+  "id": "Q141350",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "القديس كينيلم"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sant Kenelm"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άγιος Κένελμ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saint Kenelm"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Kenelm"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kenelm"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kenelm"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kenelm"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cenelm"
+    },
+    "la": {
+      "language": "la",
+      "value": "Kenelmus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Saint Kenelm"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kenelm"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "São Kenelm"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "São Kenelm"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кинехельм"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Saint Kenelm"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Kenelmi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кінегельм"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "海內爾姆"
+    }
+  },
+  "lastrevid": 17561132,
+  "modified": "2025-09-17T12:42:53Z",
+  "ns": 860,
+  "pageid": 169735,
+  "sitelinks": {},
+  "title": "Item:Q141350",
+  "type": "item"
+}

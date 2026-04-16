@@ -1,0 +1,278 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Sulpicius Rufus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141369$00FE4F00-15E6-4195-A83A-10B127BA58E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141370",
+              "numeric-id": 141370
+            }
+          },
+          "hash": "e33dba38329f3ed92475240ccaa810598b860cc7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141369$31EE6F0E-0582-4DBE-BF4D-4D0EBFDDF719",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141369$F2B18A86-9E07-45BE-B297-8A125E7A4C3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141369$E2AD9695-1A19-45A3-8881-B353FB448126",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139531",
+              "numeric-id": 139531
+            }
+          },
+          "hash": "f595045eaad74042f7bdf0822927e4b235048d9d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141369$51B2A0A2-E535-45FA-AA91-8DC8DAD7CC17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144029",
+              "numeric-id": 144029
+            }
+          },
+          "hash": "511897608724f67e36193289ca7694661564974c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141369$DA7DA28E-E126-4811-9D95-354F5C4D1077",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141369$C5309EAC-C3EC-476D-A16C-503E43C9AFE8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141369$9C50A269-D79C-4CA0-826E-CA7C222BC657",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3631240"
+          },
+          "hash": "ecff5bf80aac4450a5f706b53f7b6abb24876bf5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141369$4E29573D-AE60-4368-8A88-2F4BE49C55AC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Sulpicius Rufus Arms.svg"
+          },
+          "hash": "59d91a1eec21670a85343381c7fd125202c2fdb6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "pretor"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Feldherr und Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "praetor 48 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "censor en el año 42 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "censeur romain en 42 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Oude Rome (98v Chr-42v Chr)"
+    }
+  },
+  "id": "Q141369",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Сулпиций Руф (цензор)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Sulpici Rufus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Sulpicius Rufus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Sulpicius Rufus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Sulpicio Rufo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Sulpicius Rufus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Sulpicio Rufo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Sulpicius Rufus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Sulpicius Rufus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Сульпиций Руф"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Sulpicius Rufus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Сульпіцій Руф"
+    }
+  },
+  "lastrevid": 17561166,
+  "modified": "2025-09-17T12:43:22Z",
+  "ns": 860,
+  "pageid": 169754,
+  "sitelinks": {},
+  "title": "Item:Q141369",
+  "type": "item"
+}

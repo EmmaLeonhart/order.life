@@ -1,0 +1,265 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hywel ab Edwin"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q138723$ED9CA3F8-C807-4D5A-8E67-60ECFE60364D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138723$3126A060-3414-4F36-BB3A-3F4926FB613A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138723$98975210-92C3-4EE2-B413-61C90A3BAFC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hywal_Ap_Edwin_(1)"
+          },
+          "hash": "14ea248c206130d8d2df3324ffdc5a8831240d62",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138723$CCE46E8E-AB09-47AC-A0D3-A7583ABAE767",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137894",
+              "numeric-id": 137894
+            }
+          },
+          "hash": "3e2011471fa97702f8d0302d9d93dd0c6b33f267",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138723$F7BE6CAD-3BA8-4A85-9CFC-16AFFC96B0B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138723$76EA3C50-29D6-4859-8ADF-5C119F4CBF3E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1044-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "439d455a2f3468d605bcc1701f38defed23f4a0b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138723$A6384A90-1571-44FB-B64B-76F7EC64778C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2519809"
+          },
+          "hash": "c499eeeac08635f8c2de799eb3c3c7fe7f7be9f7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138723$1B441818-3D39-4D7B-B32D-D917D0B55945",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hywel ab Edwin Arms.svg"
+          },
+          "hash": "fd2265692c21a6d5c68ed6bac0164725e12042c1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "monarca galés"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenin Deheubarth"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Deheubarth"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi de Deheubarth"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Welsh monarch (????-1044)"
+    }
+  },
+  "id": "Q138723",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hywel ab Edwin"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hywel ab Edwin"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Hywel ab Edwin"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hywel ab Edwin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hywel ab Edwin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hywel ab Edwin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hywel ab Edwin"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Hywel ab Edwin"
+    },
+    "it": {
+      "language": "it",
+      "value": "Hywel ab Edwin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハウエル・アブ・エドゥイン"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hywel ab Edwin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хивел ап Эдвин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hywel ab Edwin"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "海韦尔·阿普·埃德温"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "海韦尔·阿普·埃德温"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "海韋爾·阿普·埃德溫"
+    }
+  },
+  "lastrevid": 17556769,
+  "modified": "2025-09-17T11:39:28Z",
+  "ns": 860,
+  "pageid": 167108,
+  "sitelinks": {},
+  "title": "Item:Q138723",
+  "type": "item"
+}

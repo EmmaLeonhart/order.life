@@ -1,0 +1,382 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Artaxias II"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137653$EF79D05A-2300-4B8B-B396-6880EF9961F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1105042"
+          },
+          "hash": "8bb12e54fc1ade6a03303ff0b83ea82b5d1dbefb",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q137653$254445EA-3403-4721-9949-6473630E69BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736432"
+          },
+          "hash": "a78b83ba3466ae6459aeab534ab95dcc7ddf46ea",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137653$B7919526-0C8B-4428-BD6D-5D08D1DBC897",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137653$A890B605-F9A6-49B3-93BC-BB1B15334692",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137653$3A7F0A8D-4BCE-407E-82BB-5ED94B6FA722",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137130",
+              "numeric-id": 137130
+            }
+          },
+          "hash": "33acd81960e293239efdba56d79c0f8c93e8b098",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137653$D2F366C3-8606-4854-9391-AFC277CE4092",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137653$EE8AFB3F-598B-4921-B5AA-3CB2A2FCC3A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137653$1E72B437-92C1-43EB-ADCC-442E2C41714E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0020-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "92e1802ad08cbef1ae843fd7fe4139676d215111",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137653$5D424F9B-49E9-4CD3-A865-D6724B563E35",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q442772"
+          },
+          "hash": "822543e0769641f1ad675b90dd0c05cdd37da895",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137653$D26BF57B-E3A1-4B50-AFBD-9E8E61B610EA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artaxias II Arms.svg"
+          },
+          "hash": "9732f483dac0cf1f766d8263f200795a417f4ada",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Armenien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Armenian prince"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Armenia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Arménie"
+    },
+    "he": {
+      "language": "he",
+      "value": "שליט ארמניה (34-20 לפנה\"ס)"
+    },
+    "it": {
+      "language": "it",
+      "value": "re d'Armenia (r. 34-20 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Armenië (100v Chr-20v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król starożytnej Armenii"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kung av Armenien"
+    }
+  },
+  "id": "Q137653",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أرضاشيس الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ارضاشيس التانى"
+    },
+    "avk": {
+      "language": "avk",
+      "value": "Artashes II"
+    },
+    "az": {
+      "language": "az",
+      "value": "II Artaşes"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арташэс II"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Арташес II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Artaxes II d'Armènia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Artaxias II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρταξέρξης Β΄ της Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artaxias II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Artaxias II de Armenia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرتاشس دوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artaxias II"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארטאשס השני"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արտաշես Բ"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Արտաշէս Բ"
+    },
+    "it": {
+      "language": "it",
+      "value": "Artaxias II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルタクシアス2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არტაშეს II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artaxias II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Artakses II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Artaxias II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Artaxias II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арташес II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Artaksija II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Artaxias II av Armenien"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Арташеси II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Арташес II"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Artaxias II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞爾塔什斯一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "亞爾塔什斯一世"
+    }
+  },
+  "lastrevid": 17555053,
+  "modified": "2025-09-17T11:14:53Z",
+  "ns": 860,
+  "pageid": 166038,
+  "sitelinks": {},
+  "title": "Item:Q137653",
+  "type": "item"
+}

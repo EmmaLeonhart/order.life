@@ -1,0 +1,263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwenllian ferch Madog ap Gwilym ab Owain"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138045$A0C1171F-866B-4AF4-A97B-89F1BE457F86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00706991"
+          },
+          "hash": "5068d000d6b3cf7030a97410907d25bb776c5f3f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138045$D61A4A8C-F217-4B40-8040-BD700F5A32AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137405",
+              "numeric-id": 137405
+            }
+          },
+          "hash": "06f8b0f76f75e93f63fa57116850ba5f8c4399dc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138045$1118063A-B4FB-43EB-BE2E-A00A6701C101",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139015",
+              "numeric-id": 139015
+            }
+          },
+          "hash": "313b135d335fdd6facc1b59d93c370032b728560",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138045$04DF7DE2-F523-4BBF-B4FC-2E2C297E5738",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138045$5E8258AF-18D9-4984-9E93-4BE0EE40FEBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138045$82A71E77-D7DC-4561-9F9C-B8632DAD5C3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138044",
+              "numeric-id": 138044
+            }
+          },
+          "hash": "22f09967b2853524997d5a581287ee645e1ccc84",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138045$850D5B0E-AF64-4258-B768-871C32B3395B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139016",
+              "numeric-id": 139016
+            }
+          },
+          "hash": "86a4f829329926b43ed1ee119477e8b12a6339b4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138045$82B26D9D-D483-47BA-88B8-B1C9067889AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139017",
+              "numeric-id": 139017
+            }
+          },
+          "hash": "3d00f52d42c97d1bdfa557702700c5eeeb0dadf8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138045$A0839BEC-C4AB-48F1-B205-C02041BED3BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138045$5CEFD4EF-DAE9-42CF-B5A6-6B56DF63963D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110621966"
+          },
+          "hash": "3fbf6059a183c1b4579cadf85698495c121079cc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q138045$635114F0-7D2C-40A3-B3B9-CFE564471743",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwenllian ferch Madog ap Gwilym ab Owain"
+          },
+          "hash": "1edefaefc7ec2a2d3ab516dd147b793e4f5426b8",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138045$1681381C-CDAA-4480-84BA-AC332B7AB542",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwenllian ferch Madog ap Gwilym ab Owain Arms.svg"
+          },
+          "hash": "b51206d0b0753cbdf1d0502a3ab19fdba8e55d29",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q138045",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gwenllian ferch Madog ap Gwilym ab Owain"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gwenllian ferch Madog ap Gwilym ab Owain"
+    }
+  },
+  "lastrevid": 17555757,
+  "modified": "2025-09-17T11:24:56Z",
+  "ns": 860,
+  "pageid": 166430,
+  "sitelinks": {},
+  "title": "Item:Q138045",
+  "type": "item"
+}

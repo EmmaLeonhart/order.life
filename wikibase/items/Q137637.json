@@ -1,0 +1,391 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Acrotatus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137637$70DAE21D-4970-45F1-A84A-834425573B24",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1028102"
+          },
+          "hash": "8340aa354985bddc58f0402896fe8df93e9c60c2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137637$312E3CA5-3D5F-48B6-B6A2-AF854EC74D9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137638",
+              "numeric-id": 137638
+            }
+          },
+          "hash": "b215649892cfa174bb123349ae867fe5926ee55b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137637$14B7DCD1-E708-4AC9-863C-B92CD1F3D58E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137637$EBFA16EC-66D5-4C23-9120-D5A61595C170",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137637$B2D061A3-D680-4002-984B-DC58E1726543",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137124",
+              "numeric-id": 137124
+            }
+          },
+          "hash": "9172f73c04dc1387cc60f87b36c4807b3ff9f0eb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137637$6EFB94F7-B7FB-4849-9A53-AF62473E8975",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137123",
+              "numeric-id": 137123
+            }
+          },
+          "hash": "bffdfe8b4c9407b199812299ed3a8afd9108b378",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137637$2A428938-17F1-4A94-8F98-D221D56AEE9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137637$2CFC8CF6-0126-41BA-9299-70E6B95CE88A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137637$4F00E640-83AF-4751-AB67-4C3224E0B3B5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0262-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2147291fa3ce89d9d5170a2b81a76eee684ee9d4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137637$82819D3B-662A-4A10-BC60-FDE171424DBF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q421184"
+          },
+          "hash": "2002ad9e274f4d823463976b12cdce032f1829e2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137637$E450668C-4BFD-4FAA-901E-758DE5DDC172",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Acrotatus Arms.svg"
+          },
+          "hash": "a550ab6de4385dd848998c61c26530ca75d48519",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "král Sparty"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Sparta"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασιλιάς της Σπάρτης (265 - 262 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agiad King of Sparta from 265 to 262 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ספרטה בשנים 265-262 לפנה\"ס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Sparta (-262v Chr)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Царь Спарты"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Цар Спарти"
+    }
+  },
+  "id": "Q137637",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "آكروتاتوس الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اكروتاتوس التانى"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Acrotatos d'Esparta"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Akrotatos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Akrotatos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ακρότατος ο Λακεδαιμόνιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Acrotatus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Acrotatus II"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Acrotatus II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Acrótato"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Acrotatos"
+    },
+    "he": {
+      "language": "he",
+      "value": "אקרוטאטוס השני"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Akrotatosz spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "Acrotato"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アクロタトス (スパルタ王)"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "აკროტატე II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Acrotatus van Sparta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Acrótato (filho de Areu I)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Acrótato"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Акротат II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Akrotat II"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Akrotatos (kráľ Sparty)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Acrotatus II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Акротат II"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Acrotatus II"
+    }
+  },
+  "lastrevid": 17555027,
+  "modified": "2025-09-17T11:14:30Z",
+  "ns": 860,
+  "pageid": 166022,
+  "sitelinks": {},
+  "title": "Item:Q137637",
+  "type": "item"
+}

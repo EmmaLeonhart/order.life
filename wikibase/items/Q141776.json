@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Antistius Adventus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141776$8DA2E718-138E-4497-BC36-5C39CC1369C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "561553"
+          },
+          "hash": "8cbf9d86907497cdf0dfe70271e529cd2b436882",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141776$323D8D5B-AE41-4E40-931F-56CF0C089B08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139835",
+              "numeric-id": 139835
+            }
+          },
+          "hash": "bfa591d33c7001fe3b93a0831a09d9a479f2e41f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141776$EC64815B-F6AE-4191-8D3F-098A13C1A419",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141776$D332725E-62AF-4DC3-A9B7-ACBC492601CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141776$B9F85B00-039B-4C47-BFBA-97237690115A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141776$153CE5BC-6834-43FC-B983-8906F94727D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5d3ce2da9c118d7cfe5140d7f7ab93cfa94c03d2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141776$0118E7A2-8BC8-44A5-9FFB-C703E0E3E126",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fd1e1335d54e460730b3321900450e794fd306b3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141776$5285F6DA-B8E9-4198-830A-5D0D25CD4B66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1365424"
+          },
+          "hash": "361d1d00caa6d3fe51321dbb618ef2b05f908d75",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141776$68F7670D-9772-469C-9BF9-8E6845A519A5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Antistius Adventus Arms.svg"
+          },
+          "hash": "cb0765b51a6183bf8c4d51eba18f0ea892be0049",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol romà el 167"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul 167 (?)"
+    },
+    "en": {
+      "language": "en",
+      "value": "2nd century Roman politician and general"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain vers 167"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare imperiale romano del II secolo d.C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (200-200)"
+    }
+  },
+  "id": "Q141776",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Антисций Адвент Постумий Аквилин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Antisti Advent"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Antistius Adventus Postumius Aquilinus"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Quintus Antistius Adventus Postumius Aquilinus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Antistius Adventus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Quintus Antistius Adventus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Quintus Antistius Adventus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Antistio Advento"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Antistius Adventus Postumius Aquilinus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quinto Antistio Advento"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Antistio Advento Postumio Aquilino"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Antistius Adventus Postumius Aquilinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Antistius Adventus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Антистий Адвент Постумий Аквилин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Антістій Адвент Постумій Аквілін"
+    }
+  },
+  "lastrevid": 17561820,
+  "modified": "2025-09-17T12:52:49Z",
+  "ns": 860,
+  "pageid": 170161,
+  "sitelinks": {},
+  "title": "Item:Q141776",
+  "type": "item"
+}

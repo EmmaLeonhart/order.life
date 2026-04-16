@@ -1,0 +1,367 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Valerius Messalla Appianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138433$069B9C90-5A6F-4FA4-B777-2ADB8BFDDFBF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00695430"
+          },
+          "hash": "e65b1acafa2382d4c9b6b24e811727c8e99de67d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138433$C5DB7BE4-2F9A-4E14-BD35-D58889015E60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138436",
+              "numeric-id": 138436
+            }
+          },
+          "hash": "4e0bc9201c6ceed152a37d54b8bde47b4c4b7543",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138433$526C5691-7F44-4615-8B3F-58BFDF0C4A31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138433$402E3EF9-7895-4DE3-8D8D-E4B7AA342A16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138433$045D9A0D-F820-4531-B3D9-8742AE1A7C13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137689",
+              "numeric-id": 137689
+            }
+          },
+          "hash": "24e3f9ffb08737c1e6c387aae2ce3f60324fa521",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138433$496C8AE5-9945-4D75-A48E-A70944722267",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139556",
+              "numeric-id": 139556
+            }
+          },
+          "hash": "8447a468329abe86e2ca58fe56a96a8619ac2549",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138433$CC47A88A-DCFD-4A73-BD9E-3613DB877ED1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138433$926705BA-71F1-4313-A8F9-8DCA1DF41C00",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0045-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a56e40adf693ee4e794d7d5f73d6514962c2385",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138433$0277E21B-AC2E-4EB0-A16E-D8B19BF0A4AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0012-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4a7a95bd3a643109dda68ac7a58eee2d35ad4881",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138433$F3ED3206-28CF-4CDB-B086-BC33274832D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q705383"
+          },
+          "hash": "7878fc7fdc66d6e2e0a9a8142f92e5720d874433",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138433$DB5115AE-049C-4A2B-AB9E-91A7EF6F2293",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Valerius Messalla Appianus Arms.svg"
+          },
+          "hash": "4a3de0b1e3d1f3d44e0fea411175c3fd69cd21f3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol 12 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 12 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 12 BC"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 12 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (45v Chr-12v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q138433",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Валерий Месала Барбат Апиан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Valeri Messal·la Apià"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Valerius Messalla Barbatus Appianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Βαλέριος Μεσσάλα Αππιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Valerius Messalla Appianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Valerio Mesala Apiano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مارکوس والریوس مسالا آپیانوس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Valerius Messalla Appianus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Valerio Mesala Barbato Apiano"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Valerio Messalla Appiano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Valerius Messalla Barbatus Appianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Valerius Messalla Appianus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Marek Waleriusz Messala Appianus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Valério"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Valério"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Валерий Мессала Барбат Аппиан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Valerije Mesala Apijan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Валерій Мессала Барбат Аппіан"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Marcus Valerius Messalla Appianus"
+    }
+  },
+  "lastrevid": 17556271,
+  "modified": "2025-09-17T11:32:20Z",
+  "ns": 860,
+  "pageid": 166818,
+  "sitelinks": {},
+  "title": "Item:Q138433",
+  "type": "item"
+}

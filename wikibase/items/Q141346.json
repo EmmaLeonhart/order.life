@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Morcar"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q141346$5EFDBD98-D5F2-4A71-9FA2-6878B64627FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mercia-274"
+          },
+          "hash": "30f0e52b021a0190a6385dcbf8b720dfe104bf2a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141346$4890B56A-6BAD-4389-A8D6-A240D45142A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141346$301EC3E4-02D2-4489-A123-E4134969474B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141346$5BD44869-29F5-4406-814F-8FA153567529",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Morcar_of_England_(1)"
+          },
+          "hash": "c59dbbfc30f867887cf173f48cc81558dcf5eefe",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141346$FE925744-FE5B-4DBE-B73E-669AE5690D81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141345",
+              "numeric-id": 141345
+            }
+          },
+          "hash": "cd3b7ca45a9aacd45434e5bb478052d346f8ec40",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141346$949FCCDF-E8C1-45A3-BB0C-E09AE9CFCBB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141346$915D23B9-26E6-4FB0-BB93-1E2CCB11F3F2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0901-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ecc0589780bacef8dcf758b68be1b8fcb380dd2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141346$B3577BD5-6847-4D93-BF5C-E08CEBC2030C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1015-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a78ebe8e3396f2d8dedafc870b94d388c3c26144",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141346$E469E83E-D8AF-46B5-B63E-7682D708B944",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6909515"
+          },
+          "hash": "c61b884d13432343745702b4dbb080440e01d685",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141346$CDA175E7-4C5B-4091-BE77-7C9CF2A220A9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Morcar Arms.svg"
+          },
+          "hash": "caf72c56891faffeb218d8d18892d933e4eb5436",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Anglo-saxon noble"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "thegn mort en 1015"
+    }
+  },
+  "id": "Q141346",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Morcar"
+    },
+    "en": {
+      "language": "en",
+      "value": "Morcar"
+    },
+    "es": {
+      "language": "es",
+      "value": "Morcar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Morcar"
+    }
+  },
+  "lastrevid": 17561124,
+  "modified": "2025-09-17T12:42:45Z",
+  "ns": 860,
+  "pageid": 169731,
+  "sitelinks": {},
+  "title": "Item:Q141346",
+  "type": "item"
+}

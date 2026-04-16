@@ -1,0 +1,500 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Decimus Junius Brutus Albinus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141477$3314B7E3-5A94-45F9-BE41-9AE206AAC277",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1464991"
+          },
+          "hash": "e370a90a3a999fd9e1a9c362187af70c0b1b2e5a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141477$C452F9A8-F6C6-45C7-94BF-B672A9AC062B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141477$2202C5A1-1E9A-42AC-BC89-730A988B682B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141477$3D898E68-D824-4AA8-941E-E29461BA7907",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144128",
+              "numeric-id": 144128
+            }
+          },
+          "hash": "5a46df43dc23064f0cd04a941351d47dd25c73b8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141477$897B8845-121D-46CA-BDF2-7851A3877CD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139612",
+              "numeric-id": 139612
+            }
+          },
+          "hash": "b8dcd7e533c2ea0910fe8454b29850bdca524860",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141477$A67F0ACD-E3C2-4097-912E-EEF4BAE6B9D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141475",
+              "numeric-id": 141475
+            }
+          },
+          "hash": "b0ea38d1bef1779eecbaea6b43f4037e71a2dca8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141477$0D7BED0C-ECE3-44A3-B57F-EAB15C7EFD24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141477$671FAC92-50DB-4FD7-9A9B-96E7126EB5CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0085-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b75e80b32c3f6bdde0972622b04d51d7a34a25d5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141477$6E9A73A1-3C81-4551-928E-89E9F633F75C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0043-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fecb8ad9ad1a27d4044497a5512d95c0951a93e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141477$B4F9B58E-BC86-4325-87A5-F347A1421A7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q294846"
+          },
+          "hash": "cddb2257dd4ff4d6dd4a17641d22a5ff6808778b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q141477$BD9A1EEA-1AFF-4735-8661-DFA99E4B644F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:25711"
+          },
+          "hash": "8f3e8598291a3a17487a95ab9041b8c6f233ae2a",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141477$4EEF9900-894E-420D-9274-A5C896C81E58",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Decimus Junius Brutus Albinus Arms.svg"
+          },
+          "hash": "a9403273ca7dbf523afc6ab1b43699f4012a4a70",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "assassí de Juli Cèsar"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský politik a voják"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker und Soldat, einer der Mörder Julius Caesars"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman general, politician, and assassin of Julius Caesar (81–43 BC)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "roomalainen kenraali"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain, un des assassins de César"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-42v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "oficer i adiutant Juliusza Cezara"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "rimski general, politik in atentator na Julija Cezarja (81–43 pr. n. št.)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q141477",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "دسيموس جونيوس بروتوس ألبينوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "دسيموس جونيوس بروتوس البينوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Децим Брут"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Dècim Juni Brutus Albí"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Decimus Iunius Brutus Albinus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Decimus Junius Brutus Albinus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Decimus Iunius Brutus Albinus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δέκιμος Ιούνιος Βρούτος Αλβίνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Decimus Junius Brutus Albinus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Decimo Junio Bruto Albino"
+    },
+    "es": {
+      "language": "es",
+      "value": "Décimo Junio Bruto Albino"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Dezimo Bruto"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دکیموس یونیوس بروتوس آلبینوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Decimus Junius Brutus Albinus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Decimus Junius Brutus Albinus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Décimo Xunio Bruto Albino"
+    },
+    "he": {
+      "language": "he",
+      "value": "דקימוס יוניוס ברוטוס אלבינוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Decimus Junius Brutus Albinus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Decimus Iunius Brutus Albinus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Decimo Giunio Bruto Albino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "デキムス・ユニウス・ブルトゥス・アルビヌス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "დეციმუს იუნიუს ალბინუს ბრუტუსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "데키무스 유니우스 브루투스 알비누스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Decimus Iunius Brutus Albinus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Decimus Junius Brutus Albinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Decimus Junius Brutus Albinus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Decimus Junius Brutus Albinus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Decymus Juniusz Brutus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Décimo Júnio Bruto Albino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Décimo Júnio Bruto Albino"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Decimus Brutus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Децим Юний Брут Альбин"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Decimus Junius Brutus Albinus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Decim Junije Brut Albin"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Decim Junij Brut Albin"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Decimus Junius Brutus Albinus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Децим Јуније Брут"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Децим Јуније Брут"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Decim Junije Brut"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Decimus Junius Brutus Albinus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Decimus Junius Brutus Albinus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Децім Юній Брут Альбін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "布鲁图·阿尔比努斯"
+    }
+  },
+  "lastrevid": 17561346,
+  "modified": "2025-09-17T12:46:06Z",
+  "ns": 860,
+  "pageid": 169862,
+  "sitelinks": {},
+  "title": "Item:Q141477",
+  "type": "item"
+}

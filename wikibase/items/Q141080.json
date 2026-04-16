@@ -1,0 +1,341 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kol Kalisson"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141080$C423BF1B-87EC-4352-A859-BDEF8C9843D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00544679"
+          },
+          "hash": "3b7567183c5566880d56dbac50b0051cd5429a4b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141080$152D9B0C-ADE3-4836-B916-2168169A0D69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141081",
+              "numeric-id": 141081
+            }
+          },
+          "hash": "88c53483ddc57590f65c435579d2b7932fa3e881",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141080$9B3F13FF-AB86-488C-9361-0593AE5F56DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141080$BDB12C1A-DBE5-46E8-B7F9-725E9965AB33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141080$B5389D3D-AE1E-41D2-ABCE-AD90B6A94B6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139333",
+              "numeric-id": 139333
+            }
+          },
+          "hash": "707d1eeeca5570e084aad864311b37e7d165bbc6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q141080$ED9EDD51-0B74-4834-956C-17EBEE25D418",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p19831.htm#i198302"
+          },
+          "hash": "312f9463f09366676eb77a229749efab5ecc789e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141080$351B52B6-0DB8-4A1A-9FAC-0CEA0D920C17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143602",
+              "numeric-id": 143602
+            }
+          },
+          "hash": "802822735d1bc2b9b7e49d5250883b72723ce85a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141080$C9456CAB-944C-4243-B9A4-352D6D3B071B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141080$CE469FCD-6A9E-4598-BED7-048F75EFE8A7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1060-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e6876a456da87c2bcffbf4c581331109c8b68e3f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141080$CB677396-9FE1-43CF-B86A-502E34F9DA40",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1199-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d26b8c49f9480664ce28d97af16d6316801cea36",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141080$1EBD3E7F-12CE-47CA-9532-BF3CE4ED5DCF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15728990"
+          },
+          "hash": "d76db8954a6f4a6dd663157b979d08e3831cc479",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q141080$A2366463-4348-4931-BA71-EEF969B5D94B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001169130795"
+          },
+          "hash": "fe0e5bc72022717d063101b98e738a4e047216ab",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141080$C916A618-78AB-4A86-BFCB-8475314FBF3A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kol Kalisson Arms.svg"
+          },
+          "hash": "c8d0dc287ce87c09c290dfbd314806de39342e25",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=198302"
+    },
+    "es": {
+      "language": "es",
+      "value": "caudillo vikingo noruego"
+    }
+  },
+  "id": "Q141080",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kol Kalisson"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Kol Kalisson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kol Kalisson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kol Kalisson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kol Kalisson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kol Kalisson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kol Kalisson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Kol Kalisson"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Kol Kalisson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kol Kalisson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kol Kalison"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kol Kalisson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kol Kalisson"
+    }
+  },
+  "lastrevid": 17560723,
+  "modified": "2025-09-17T12:36:31Z",
+  "ns": 860,
+  "pageid": 169465,
+  "sitelinks": {},
+  "title": "Item:Q141080",
+  "type": "item"
+}

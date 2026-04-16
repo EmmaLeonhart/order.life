@@ -1,0 +1,278 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Angotus Crespin, Seigneur du Bec"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137511$C20FA13B-0245-4E59-8B28-3D505454122B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00079573"
+          },
+          "hash": "30867e14e137562796dc1afa322e919a6959ad98",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137511$7EDEFB1E-327F-4507-AECB-4347F1EDF50B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138204",
+              "numeric-id": 138204
+            }
+          },
+          "hash": "2c90db102040814b4e1b74414271f596bf709be5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137511$08FE9921-7430-42FA-95A9-34B600056300",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138205",
+              "numeric-id": 138205
+            }
+          },
+          "hash": "ab579cca67c4c0c87acf3d31bad0abb7c8d98888",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137511$66F28F56-65C5-4600-9D55-F4DDD05E4C28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137511$6412CEF6-7A2D-4960-A259-F6E8942AFE64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137511$7FCC67BF-9DC9-4B3F-A331-E0B2D2AB84BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126279",
+              "numeric-id": 126279
+            }
+          },
+          "hash": "1959396673a9f94d22d3b1510b7c7e95af83fedc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137511$B824645C-BD9B-4CA4-B2FC-6D2AFC3CC9FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126111",
+              "numeric-id": 126111
+            }
+          },
+          "hash": "214f11dfe2195d41ee1c3d4233f89f97dce97188",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137511$64254B8C-4B85-4896-849A-B6D83DD63D5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137511$C3470442-80E6-4DC5-95AD-029D3873480F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0945-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "03f1bfb3201a895fa247a1cfea52639d4f21d098",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137511$2F968070-7171-42BE-A9EF-4379E3050ACE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1010-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60065a8a71f11e325eb4b95178ff7d2a82483a98",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137511$152CE16A-4C13-43DC-935A-273A39760ADB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116005814"
+          },
+          "hash": "2054ecd3989b00e2f6c2a84c068e2f923d4ad666",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137511$2B378D3A-457B-42E1-B4BE-84CDAF8CAFE6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Angotus Crespin, Seigneur du Bec Arms.svg"
+          },
+          "hash": "b2224a5e089d6609fd306d7cf5729ec7f55363c5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "es": {
+      "language": "es",
+      "value": "noble normando"
+    }
+  },
+  "id": "Q137511",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Angotus Crespin, Seigneur du Bec"
+    },
+    "es": {
+      "language": "es",
+      "value": "Crispin du Bec"
+    }
+  },
+  "lastrevid": 17554867,
+  "modified": "2025-09-17T11:12:11Z",
+  "ns": 860,
+  "pageid": 165896,
+  "sitelinks": {},
+  "title": "Item:Q137511",
+  "type": "item"
+}

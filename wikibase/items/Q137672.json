@@ -1,0 +1,440 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Cornelius Lentulus Sura"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137672$151440B5-F663-4A89-A1CB-67F06DE8901A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465130"
+          },
+          "hash": "c03737792c571927bc71803b1a3dd93504840e80",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q137672$96913E7F-5B75-475D-B16E-B7B5913F8CCB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00241342"
+          },
+          "hash": "4958843c30101a9c5d6732865c2eca2781b0f347",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137672$9124D79F-90E2-4938-BFC8-5682663B60B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137672$F05A0E54-52D3-4332-9F3B-DB7A2833188D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137672$107D5892-2B59-4F8D-893C-EEEE06370B65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78174",
+              "numeric-id": 78174
+            }
+          },
+          "hash": "418973155f51650234128b2e4ee1758de1933165",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137672$BB5C2616-DFF2-4575-A92C-77A44D3B1343",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138391",
+              "numeric-id": 138391
+            }
+          },
+          "hash": "fb6554c3f5d50e64dc5928ab18cf4e6f59443e15",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137672$FC9BAEF6-CAA3-412C-9C9A-1C00C0B337DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137672$4B721799-9954-4267-BBB0-96A582FBF8A8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0114-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "89a493b7e0b60e74c79dcaa29cb2260aafc89047",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137672$0E8E9516-9E6A-492A-8CEB-1582E376921F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0063-12-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "454c83bb5af0294432de8a4e58689baf72299ba0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137672$D22178CD-F46D-4FB6-8789-88573F5B3FA0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q366203"
+          },
+          "hash": "2fdbc8ae64fae4cd2ebc325f02a8500ab5f2896e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137672$EA8A8E50-E868-45E0-9FAA-20362911BA24",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Cornelius Lentulus Sura"
+          },
+          "hash": "011a2a974bdd9379d4ab0d1da52b122ffc19a7b6",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137672$E4909356-CCA9-446A-9576-5D84BC6636AF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Cornelius Lentulus Sura Arms.svg"
+          },
+          "hash": "76b74fc25c255ad211d23629c17422a87a5aebb2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "nevlastní otec Marca Antonia"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "step-father of Mark Antony"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 71 av. J.-C."
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "senatore romano"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-63v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "polityk rzymski, konsul"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q137672",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Корнелий Лентул Сура"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Corneli Lèntul Sura"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Publius Cornelius Lentulus Sura"
+    },
+    "da": {
+      "language": "da",
+      "value": "Publius Cornelius Lentulus Sura"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Cornelius Lentulus Sura"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Κορνήλιος Λέντουλος Σούρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Cornelius Lentulus Sura"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Cornelio Léntulo Sura"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Publio Kornelio Lentulo Sura"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Publius Cornelius Lentulus Sura"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Cornelius Lentulus Sura"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Publije Kornelije Lentul Sura"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publius Cornelius Lentulus Sura"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Cornelio Lentulo Sura"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プブリウス・コルネリウス・レントゥルス・スラ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Cornelius Lentulus Sura"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Publius Cornelius Lentulus Sura"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Cornelius Lentulus Sura"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Publiusz Korneliusz Lentulus Sura"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Cornélio Lêntulo Sura"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Cornélio Lêntulo Sura"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Корнелий Лентул Сура"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Publije Kornelije Lentul Sura"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Cornelius Lentulus Sura"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Publius Cornelius Lentulus Sura"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Корнелій Лентул Сура"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普布利乌斯·科尔内利乌斯·雷恩图卢斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "普布利乌斯·科尔内利乌斯·雷恩图卢斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "普布利乌斯·科尔内利乌斯·雷恩图卢斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普布利烏斯·科爾內利烏斯·雷恩圖盧斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "普布利烏斯·科爾內利烏斯·雷恩圖盧斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "普布利乌斯·科尔内利乌斯·雷恩图卢斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "普布利烏斯·科爾內利烏斯·雷恩圖盧斯"
+    }
+  },
+  "lastrevid": 17555081,
+  "modified": "2025-09-17T11:15:17Z",
+  "ns": 860,
+  "pageid": 166057,
+  "sitelinks": {},
+  "title": "Item:Q137672",
+  "type": "item"
+}

@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bagasis"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137658$F8D59A09-FAB3-45BF-A983-F97D5E3464DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00717538"
+          },
+          "hash": "d77f51731355557d0fb38f9c16f6836214d68b25",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137658$E136C41F-3661-405F-87EC-1C9935F8F157",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137658$4B593D2E-A15D-4128-B024-E81C51080157",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137658$BB287086-39B5-4546-ADAD-88F636729ABB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137140",
+              "numeric-id": 137140
+            }
+          },
+          "hash": "d4ec36ccf71931ba7eee5428fafd29fbb66c01ee",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137658$D07E703D-CD65-41E3-AEBD-547E99A60E4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137658$3DDB529B-1575-4BF8-A51C-33522C1A136A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137658$E90E8295-B608-4C2E-8354-3B9B1D5A78B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q28502125"
+          },
+          "hash": "54b2519b601df39a530f259822a79adf0185233a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137658$3DA1FE23-AC41-4C42-A000-32C9A80379C9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bagasis Arms.svg"
+          },
+          "hash": "82f2932cba11abbe7df3bbb01dde2015df57f2dc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Sàtrapa de Mèdia"
+    },
+    "en": {
+      "language": "en",
+      "value": "satrap of Media"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сатрап Мидии и гипотетический царь Парфии"
+    }
+  },
+  "id": "Q137658",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Bagasis de Partia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Bagasis"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bagasis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bagasis de Partia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "باگاسیس (شاهزاده اشکانی)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Багаз"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "巴加西斯"
+    }
+  },
+  "lastrevid": 17555063,
+  "modified": "2025-09-17T11:15:02Z",
+  "ns": 860,
+  "pageid": 166043,
+  "sitelinks": {},
+  "title": "Item:Q137658",
+  "type": "item"
+}

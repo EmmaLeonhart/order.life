@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Decimus Junius Silanus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141435$E4121AE8-A338-4DB3-A30F-7294307C3D2C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465791"
+          },
+          "hash": "4a61f1d4f47f92d7259441a34cb82d8a81ab9ec4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141435$20ADC163-9339-4863-B9AB-A7E46CE910F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141466",
+              "numeric-id": 141466
+            }
+          },
+          "hash": "8ac14e6f636d3cc235b8b5df18dcf250d2200c0b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141435$59B93392-A0BC-4E54-A148-F7B2E2AC575A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141435$86053DB8-507C-4679-AF11-C068B509E284",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141435$6A7EE495-A4FF-4410-93BE-94E37A20D599",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139603",
+              "numeric-id": 139603
+            }
+          },
+          "hash": "fdbfc722839acd2c60d0751e12e722f25fd6f3f5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141435$7B39EAEF-9B37-4E6B-B392-FBD50683EDC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141433",
+              "numeric-id": 141433
+            }
+          },
+          "hash": "351c113a542a8d2b3e75a343f1418b3e3e02a7b5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141435$7F23E262-EB55-4E8F-891D-329A5ADC8605",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139578",
+              "numeric-id": 139578
+            }
+          },
+          "hash": "33c89d6fff934b0261e3ba48924ef8f418ba983f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141435$A3967FD4-1560-4BB8-B392-5F2EE749E48A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141435$B45433E1-E5CF-4AF7-8D45-C2421C3B5815",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141435$4688846D-9B28-4F04-8B0B-876F1CA45F95",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3021006"
+          },
+          "hash": "9a2e9ca1d3d876f20e06a04ebee6efbf61156952",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141435$6FBAABB6-3CD5-4A81-958F-0C00D771ACC9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Decimus Junius Silanus Arms.svg"
+          },
+          "hash": "cb78e92b85f52b72f64fb2ea394884eb0e98e684",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "lover of Vipsania Julia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyen romain, amant de Julia Vipsania"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q141435",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dècim Juni Silà"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Dècim Juni Silà"
+    },
+    "de": {
+      "language": "de",
+      "value": "Decimus Iunius Silanus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Decimus Junius Silanus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Décimo Junio Silano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Decimus Junius Silanus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Decimo Giunio Silano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Decimus Iunius Silanus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Decimus Iunius Silanus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Décimo Silano (exilado por Augusto)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Децим Юній Сілан"
+    }
+  },
+  "lastrevid": 17561280,
+  "modified": "2025-09-17T12:44:59Z",
+  "ns": 860,
+  "pageid": 169820,
+  "sitelinks": {},
+  "title": "Item:Q141435",
+  "type": "item"
+}

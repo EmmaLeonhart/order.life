@@ -1,0 +1,383 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Calpurnius Piso Frugi Licinianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141594$91D72655-CBE6-4022-825E-65ADA84E7D68",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736031"
+          },
+          "hash": "879b7c167c294057ce3402903781e2d244ad8ef9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141594$B369CEF3-27F2-4CDD-B8A8-ACF9D6F59B0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141594$1FBE6854-C492-40B2-B51F-D044503CAA67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141594$76D845CC-E037-408A-85E0-1CC71871BF65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144257",
+              "numeric-id": 144257
+            }
+          },
+          "hash": "40f5f20570edef863a7b73d2c13c816b8150a143",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141594$424A81B4-4512-4B17-9AD1-A74552B3C79F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69296",
+              "numeric-id": 69296
+            }
+          },
+          "hash": "8d134a3a30f5c49ddfd2d36a08bd9e9892733691",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141594$938C3524-A9B0-4923-920C-2952CD901313",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69263",
+              "numeric-id": 69263
+            }
+          },
+          "hash": "796c937520e0bf010b105a1fbd8264459bbd7994",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141594$ED2479D2-1371-4BA3-8FA9-B66DBFC1A92C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141594$5A9F6538-926F-4D78-A9B6-2B9AE9233F31",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0038-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8c305c2b4818991126fd855a24407a3b246b16a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141594$9F1EF391-2E2B-486F-97C1-B8575C3E0B92",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0069-01-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f1a9846ded0e99d55acfe8dfc13f33c1363cd404",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141594$330A0B70-B773-426E-8612-DD5CDFF07A6A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q882953"
+          },
+          "hash": "6afa41663befc3ca7f79a34737dc1c881bfeb273",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141594$F31FC7F0-6068-4621-B95F-B9C228B3054B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Calpurnius Piso Frugi Licinianus Arms.svg"
+          },
+          "hash": "edf2b2ca8d59f7da55bdf313bc0f20560a595c39",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Senator"
+    },
+    "en": {
+      "language": "en",
+      "value": "adoptive son and heir of Roman emperor Galba"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin roomalainen senaattori"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sénateur romain, héritier de Galba"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (38-69)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "jovem romano, filho adotivo do imperador Galba"
+    }
+  },
+  "id": "Q141594",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "لوسيوس كالبورنيوس بيزو فروجى ليسينيانوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Луций Калпурний Пизон Фруги Лициниан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Calpurni Pisó Licinià"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Calpurnius Piso Frugi Licinianus"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Lucius Calpurnius Piso Frugi Licinianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Καλπούρνιος Πίσων Φρούγι Λικινιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Calpurnius Piso Frugi Licinianus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Lucius Calpurnius Piso Licinianus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Lucius Calpurnius Piso Licinianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Calpurnio Pisón Liciniano"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Lucius Calpurnius Piso Frugi Licinianus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Calpurnius Piso Frugi Licinianus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Lucius Calpurnius Piso Frugi Licinianus"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Լուցիոս Կալպուրնիոս Պիզոն Լիցինիոս"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Calpurnio Pisone Frugi Liciniano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ピソ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Calpurnius Piso Frugi Licinianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Calpurnius Piso Licinianus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lucjusz Kalpurniusz Pizon Frugi Licynianus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pisão Frugi Liciniano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pisão Frugi Liciniano"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lucije Kalpurnije Pizon Licinijan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lucius Calpurnius Piso Frugi Licinianus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Кальпурній Пізон Фругі Ліциніан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卢基乌斯·卡尔普尔尼乌斯·皮索·李锡尼亚努斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "卢基乌斯·卡尔普尔尼乌斯·皮索·李锡尼亚努斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "盧基烏斯·卡爾普爾尼烏斯·皮索·李錫尼亞努斯"
+    }
+  },
+  "lastrevid": 17561540,
+  "modified": "2025-09-17T12:48:49Z",
+  "ns": 860,
+  "pageid": 169979,
+  "sitelinks": {},
+  "title": "Item:Q141594",
+  "type": "item"
+}

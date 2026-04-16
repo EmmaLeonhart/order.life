@@ -1,0 +1,193 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rhûn Rhydd Baladr ap Llari ap Casfar Wledig"
+      },
+      {
+        "language": "en",
+        "value": "Rhun Rhydd Baladr ap Llari ap Casfar Wledig"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139926$1F63A0B7-F0DB-42D5-97AA-FED5FD7F668D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00753865"
+          },
+          "hash": "9cdf7ccb65deb544e89b8e772c08a6e5e7d477d7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139926$DCB3E26F-84CB-477E-99E3-5EA09AE6AA47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138626",
+              "numeric-id": 138626
+            }
+          },
+          "hash": "6ad9c8c689bb50ace120a527a8c2391267d93007",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139926$7F5B9FE1-7573-4A8C-9B25-48710B2A8349",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139926$71C0C809-EAA0-4404-A0AA-5015E7943AAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139926$B21237CA-7C2A-4D8F-9784-BD213109CE16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141909",
+              "numeric-id": 141909
+            }
+          },
+          "hash": "93d12d6f8192a9b5bd526a64baeb2cf880e4469f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139926$D11172F1-6A7A-4447-A052-B73C408EA6DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139926$1281A48B-C170-4832-BF7C-99EB8F1C0802",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116052933"
+          },
+          "hash": "e6a3fd5a15af4246d7364f35b9601f43688ecebd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139926$5D9F681B-799C-413C-A066-12A0DDF40211",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhûn Rhydd Baladr ap Llari ap Casfar Wledig Arms.svg"
+          },
+          "hash": "cc36af8be5e5b83d9fd2c600962893da4f5c4d4a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q139926",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Rhûn Rhydd Balaap Llari ap Casfar Wledig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rhûn Rhydd Baladr ap Llari ap Casfar Wledig"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rhûn Rhydd Baladr ap Llari ap Casfar Wledig"
+    }
+  },
+  "lastrevid": 17558689,
+  "modified": "2025-09-17T12:06:31Z",
+  "ns": 860,
+  "pageid": 168311,
+  "sitelinks": {},
+  "title": "Item:Q139926",
+  "type": "item"
+}

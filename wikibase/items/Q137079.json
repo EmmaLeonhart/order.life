@@ -1,0 +1,453 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thorstein Eiriksson"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137079$10D690C5-1416-402E-A460-8F10B40B311B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "145243"
+          },
+          "hash": "56bfdc2ff2c4384698e5a3cff0ab2ace032f2f0f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137079$A55DC3E2-20F4-40FA-8B31-90730D1748D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137079$39DBBF67-47DB-4FA9-B6F1-636262584CEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137079$1A2846A1-2F90-49BD-AD7C-CCA8B72773C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137578",
+              "numeric-id": 137578
+            }
+          },
+          "hash": "e543e51b23c3be4c0e98843edf9edc0c6617ca2e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137079$FA446208-64B9-4C02-A405-8C9F1547A715",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137076",
+              "numeric-id": 137076
+            }
+          },
+          "hash": "a75d60ac34d6b1c8f79ff6ee7503f581d3904107",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137079$69EE417B-BDC7-4D4E-A5B2-895119B6B3F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136689",
+              "numeric-id": 136689
+            }
+          },
+          "hash": "b2821a67bd75b31fc0e5144d9317454592b92b98",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137079$5E7A715B-A408-4EF5-BEC5-DBEC98CE4103",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137079$BBF616C4-BCE6-474E-89A2-FED81A2F6B90",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0979-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "caa6b29ccce8f9753ed2ce559ddc400a1d31752b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137079$289DB865-E61C-4D89-9B1F-1B9E67650FA4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1004-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ae2a1d66a6b84b9179dd7d1f23d6b13acacb3043",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137079$273428C9-29A9-40F3-8C5F-8A4B67267DF0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1771200"
+          },
+          "hash": "2bf3b655290024eb796d134b410ccda3d73bd7ed",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q137079$4951FDCA-A76E-4A93-A2CA-DB3F2A773657",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645908780"
+          },
+          "hash": "a6fceeb33aba0e81b7b0a733a320d89ee1d5c2ab",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137079$8133D172-76F2-4AEC-AE4C-1C727E63D7C4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Þórsteinn Eiríksson"
+          },
+          "hash": "b5cdfda63283e57de00b2707b79833b4d94a5d7e",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137079$B5351E29-6424-4B66-B9D5-541E508B2796",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thorstein Eiriksson Arms.svg"
+          },
+          "hash": "fea3909b030389a717e09efbacd951bb5e00254d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مستكشف آيسلندي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "esplorador islandés"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "আইসল্যান্ডীয় অনুসন্ধানকারী"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "explorador islandès"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wikinger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Icelandic explorer"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Icelandic explorer"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Icelandic explorer"
+    },
+    "es": {
+      "language": "es",
+      "value": "explorador islandés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Islandi maadeavastaja"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کاشف آیسلندی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "explorateur islandais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "taiscéalaí Íoslannach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "explorador islandés"
+    },
+    "he": {
+      "language": "he",
+      "value": "חוקר ארצות איסלנדי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "islandski istraživač"
+    },
+    "it": {
+      "language": "it",
+      "value": "esploratore islandese"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ദേശപരിവേക്ഷകന്"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "ontdekkingsreiziger uit IJsland"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "islandzki odkrywca"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "explorator islandez"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "eksplorues islandez"
+    }
+  },
+  "id": "Q137079",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Thorsteinn Eriksson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Thorstein Eiriksson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Thorstein Eiriksson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Thorsteinn Eriksson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Thorsteinn Ericson"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Thorstein Eriksson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Thorstein Eiriksson"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Thorsteinn Eriksson"
+    },
+    "it": {
+      "language": "it",
+      "value": "Þorsteinn Eiríksson"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ソルステイン・エイリークソン"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Þórsteinn Eiríksson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thorstein Eriksson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Торстейн Эйрикссон"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Thorstein Eiriksson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Thorstein Eiriksson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Thorstein Eiriksson"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Торстейн Ейрікссон"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "索尔斯泰恩·埃里克松"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "索尔斯泰恩·埃里克松"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "索尔斯泰恩·埃里克松"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "索爾斯泰恩·埃里克鬆"
+    }
+  },
+  "lastrevid": 17554159,
+  "modified": "2025-09-17T11:02:14Z",
+  "ns": 860,
+  "pageid": 165464,
+  "sitelinks": {},
+  "title": "Item:Q137079",
+  "type": "item"
+}

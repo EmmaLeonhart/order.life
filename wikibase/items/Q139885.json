@@ -1,0 +1,273 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwrgeneu ab Einion ab Owain"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139885$EAD5457B-CEDE-483A-9085-3CDDD41BE8E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00714723"
+          },
+          "hash": "aca0d7f821e86267c727391f4586f99a950e0692",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139885$932545F0-4B24-4F6E-8F8A-5B29F38C3831",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141846",
+              "numeric-id": 141846
+            }
+          },
+          "hash": "510d086ff556ac64b8100f12b93556b56273d34f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q139885$6085FEEB-DBFF-4486-BDB9-69ED85C1DE0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ab_Einion-19"
+          },
+          "hash": "b5e6bfdf7d615810626d83f3096227ec94b41cf6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139885$FEF4533A-EA7F-4E84-AB38-F93037433D52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139885$303A18C4-2DEB-4EF5-9B07-054E6A6F4D72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139885$5AEC674F-E763-48DB-A5E0-2373C64954AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127762",
+              "numeric-id": 127762
+            }
+          },
+          "hash": "c70dcb2c119447018d629d46ecdbba7099bf24d6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139885$17CF96EC-7AE7-4AE2-BD20-B07136F180F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141845",
+              "numeric-id": 141845
+            }
+          },
+          "hash": "e55609c272e3d5e9067080746150491cff5c249e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139885$C0AA9B2E-7565-4CFA-852C-D8BE1B0F10FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139885$E488A1C7-BFE4-42BE-866E-986FEC4C2F79",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139885$34AEA343-3638-485B-B458-E35769F6D73D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110560382"
+          },
+          "hash": "7cc877612696f24e1bd29ed34ecea2f427f2d24e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139885$D6F6485F-80BA-475D-A095-470C8AD18EED",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwrgeneu ab Einion ab Owain"
+          },
+          "hash": "c23da0fdc74e5317d3eb5e1ef11c2a00345e7bf2",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139885$98A9D8BC-7B05-4D9F-9CB2-BB6D99F725C9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwrgeneu ab Einion ab Owain Arms.svg"
+          },
+          "hash": "b62ecdf77c616b18d326bd25069253dcd3819801",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1150 -"
+    }
+  },
+  "id": "Q139885",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Gwrgeneu ab Einion ab Owain"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gwrgeneu ab Einion ab Owain"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gwrgeneu ab Einion ab Owain"
+    }
+  },
+  "lastrevid": 17558607,
+  "modified": "2025-09-17T12:05:22Z",
+  "ns": 860,
+  "pageid": 168270,
+  "sitelinks": {},
+  "title": "Item:Q139885",
+  "type": "item"
+}

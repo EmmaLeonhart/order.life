@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sempronius Gracchus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141481$BCCDA504-5085-435C-9F66-77545783D0CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141481$3A0BD340-91C6-4AF5-8F12-A41BE659501F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141481$3C04D538-14E3-49BF-8D29-C111AC8B49DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141480",
+              "numeric-id": 141480
+            }
+          },
+          "hash": "a4577b711ba59e25c7e82c15f3774b80215883a4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141481$B1041248-C38B-45E2-9300-AB0C01BB6B04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139614",
+              "numeric-id": 139614
+            }
+          },
+          "hash": "959ca10cee5653cecc3ac69dda116b9e2da55fc4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141481$B341C2F1-3B91-4522-8175-4E3A72B4588B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141481$DF48C07C-2205-4291-B543-AD678E013716",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141481$C01776DC-420B-447E-87ED-EFE2D5FC9539",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q97666578"
+          },
+          "hash": "aa6b17333c472bce9b5a2ac697a7af6a3d045015",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141481$728614DC-5002-4785-BA48-3D9987BC5A9A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sempronius Gracchus Arms.svg"
+          },
+          "hash": "2f7266ea25db9273fcc978e6c0f1f44eeffe302a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Gaius Gracchus"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Cayo Graco"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils du tribun Caius Sempronius Gracchus"
+    }
+  },
+  "id": "Q141481",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Sempronius Gracchus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sempronius Gracchus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sempronius Gracchus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sempronio Graco"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sempronius Gracchus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sempronio Graccho"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sempronius Gracchus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sempronio Graco"
+    }
+  },
+  "lastrevid": 17561354,
+  "modified": "2025-09-17T12:46:12Z",
+  "ns": 860,
+  "pageid": 169866,
+  "sitelinks": {},
+  "title": "Item:Q141481",
+  "type": "item"
+}

@@ -1,0 +1,226 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jane ferch Robert ap Robert ap Llywarch"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138648$251DD3C5-5F11-497B-9E01-B5487BA45F8D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00583196"
+          },
+          "hash": "bbeb24e242156bc387966ca1440038d521d02ee6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138648$D5CDE77A-88E5-4C16-AA21-E5DEE7741A15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137841",
+              "numeric-id": 137841
+            }
+          },
+          "hash": "125c6e1957c77ed2f9b91c8944e40d8382e10d93",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138648$37DCD4A0-B663-4F25-8A7B-5482289A85AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138648$E98529D2-5DCB-4DB9-A273-D7D62520CAE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138648$82916871-8DBC-4E82-8FA2-AC5A8CBBDE0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137285",
+              "numeric-id": 137285
+            }
+          },
+          "hash": "27a98945ca81fd3d76542d90497e59a1ce67dc0a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138648$E05AE957-49FF-42C2-9C29-8C2CA28A4631",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139949",
+              "numeric-id": 139949
+            }
+          },
+          "hash": "b89da5c10eb9119d1ad8498cde50b07fcbd8e191",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138648$DD77E0EC-AC60-411B-87A2-EFD2FE1631C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138648$04DC9E3A-788B-47FA-B7A0-BAA3171DCB37",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1914-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e07d900c25f5fdb9f6aa8feba243b8e0fa369a89",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138648$083A8F99-43B8-4431-9E1F-A9F4A245C717",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116054840"
+          },
+          "hash": "7dc696911cd2ac11bff320f9bb997bde99c7d9f3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138648$1B7B754C-B886-4F29-9FB1-50A481EFA127",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jane ferch Robert ap Robert ap Llywarch Arms.svg"
+          },
+          "hash": "84d837e5886a6ed487cfb8cab491a743f2b0c549",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q138648",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jane ferch Robert ap Robert ap Llywarch"
+    }
+  },
+  "lastrevid": 17556619,
+  "modified": "2025-09-17T11:37:21Z",
+  "ns": 860,
+  "pageid": 167033,
+  "sitelinks": {},
+  "title": "Item:Q138648",
+  "type": "item"
+}

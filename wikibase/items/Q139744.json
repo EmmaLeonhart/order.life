@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pompeia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139744$558F8AB9-DA59-42E5-BCC8-2D458D63B485",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735553"
+          },
+          "hash": "e76c7200d9fec0e2d9f52d26ee97a9d9a39d72c9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139744$358F7AD0-EE54-4511-9DAD-54708083A830",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139744$DE60F775-FFB5-4969-A7FF-28D4A030520D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139744$78D3B2AD-08EB-4956-9C7D-04780D399004",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pompeia_(daughter_of_Sextus_Pompeius)_(1)"
+          },
+          "hash": "fd32624a38f888f0e3095d456103719b6a14de5c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139744$DE188611-3E29-4E6F-A1DD-8BBE387B20AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141652",
+              "numeric-id": 141652
+            }
+          },
+          "hash": "4fc2a2e9801f2278823cbad076195bcb2ce89564",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139744$3D5758F3-0603-40CA-B245-2C0DAA1E42AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138506",
+              "numeric-id": 138506
+            }
+          },
+          "hash": "ba3a578c02672bd1b7c76952a6dff7367affe65e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139744$E5513C8A-B537-4ABB-8D4F-C8125575566B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139743",
+              "numeric-id": 139743
+            }
+          },
+          "hash": "0245084a852c30b184dd89abcaf6c482f00d411d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139744$7C8226F9-B491-4FDF-A525-77C03A74880B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139744$66523B78-F96C-43EC-BD1D-C141FAC99698",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0040-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a00ed194fc4ca6297a6f807647adfb17b769f01f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139744$4BC9D3AE-BA1F-4EF8-BB45-62B86810D87A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q435912"
+          },
+          "hash": "2fbd0903069660b20f99861814fd6eb365d06bdd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139744$BE5DA247-36E8-40FD-85FB-99C07E89C2AB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pompeia Arms.svg"
+          },
+          "hash": "a24a671d51a61dacf4dd4545217fd9ee1f71cea1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tochter des Sextus Pompeius"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Sextus Pompeius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille de Sextus Pompée"
+    }
+  },
+  "id": "Q139744",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Pompeia"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Помпея"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pompeia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pompeia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pompeia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πομπηία (κόρη του Σέξτου Πομπήιου)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pompeia"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Pompeia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pompeia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pompeia"
+    },
+    "he": {
+      "language": "he",
+      "value": "פומפייה"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pompeia"
+    }
+  },
+  "lastrevid": 17558401,
+  "modified": "2025-09-17T12:02:28Z",
+  "ns": 860,
+  "pageid": 168129,
+  "sitelinks": {},
+  "title": "Item:Q139744",
+  "type": "item"
+}

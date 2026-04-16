@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tiberius Claudius Pompeianus Quintianus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q138586$B1FE6CD4-45BA-43AE-A8E2-EBCF4E726456",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138586$25433E3C-257F-4EBA-A9A6-DC380C9C446B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138586$6BEACCD9-7D9E-4FFD-BC48-A236C59B2FE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137785",
+              "numeric-id": 137785
+            }
+          },
+          "hash": "4fcfd7badf89270c162d59717bf82a76584de7ab",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138586$D4DD05C8-67C6-4BC8-9620-D0613FA9FD7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138586$7340C097-634C-4013-8999-3276AE0B25AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0182-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b1039d058f62a8929ef40d2c1c7278bd36054ac4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138586$D3949EBD-7DD2-44C8-8215-EFC95073365C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q353938"
+          },
+          "hash": "2ea8368de213418f4ddfd4db0e098950b96c9e52",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q138586$50C06DF1-401E-48C1-996F-87A30A5781AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000041412061243"
+          },
+          "hash": "5e4ed6909d6f781d4ed572258de8e6c5054e81ff",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138586$FF05FA8F-AFB0-4B83-AEDC-8ABF79EA9BA9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tiberius Claudius Pompeianus Quintianus Arms.svg"
+          },
+          "hash": "3d3dc466164f3a25761c7f8e7e0551ffd3e35ad5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Verschwörer gegen Kaiser Commodus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Step-son of Lucilla, plotting against Commodus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Beau-fils de Lucilla, complote contre Commode"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Oude Rome"
+    }
+  },
+  "id": "Q138586",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Тиберий Клавдий Помпеян Квинтиан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tiberi Claudi Pompeià Quintià"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tiberius Claudius Pompeianus Quintianus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tiberius Claudius Pompeianus Quintianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pompeianus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tiberius Claudius Pompeianus Quintianus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tiberio Claudio Pompeiano Quinziano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Tiberius Claudius Pompeianus Quintianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pompeianus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тиберий Клавдий Помпеян  Квинтиан"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tiberius Claudius Pompeianus Quintianus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тиберій Клавдій Помпеян Квінціан"
+    }
+  },
+  "lastrevid": 17556513,
+  "modified": "2025-09-17T11:35:47Z",
+  "ns": 860,
+  "pageid": 166971,
+  "sitelinks": {},
+  "title": "Item:Q138586",
+  "type": "item"
+}

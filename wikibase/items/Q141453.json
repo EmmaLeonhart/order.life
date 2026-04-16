@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Cornelius Lentulus Marcellinus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141453$51C1AB4C-71A6-45E5-BECE-1DD0E22948AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141453$CCA1AB0D-4554-4090-9A46-9943C445C3B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141453$FDF54086-0D4A-4528-B23A-AAE317E0A20D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141454",
+              "numeric-id": 141454
+            }
+          },
+          "hash": "3bb1284101cf9e6324d0c56b39d698721e77811f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141453$9A4E01BA-E61C-4BA4-9DED-730D30114A97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141453$5FC2B007-FB28-436D-B8A9-6B7F68A45371",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0052-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "665cc519c2d41e250ddc263cae82e13a44aeeb61",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141453$5B54377E-F947-4C9E-8D6F-B6E87A17D172",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1230850"
+          },
+          "hash": "9b4f5ea19daab29c1607fb7059719301cc66552c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141453$732ECE3D-CDDC-4FBD-AAAA-1F2167EABD95",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Cornelius Lentulus Marcellinus Arms.svg"
+          },
+          "hash": "70a588cf9006574284287e7b77d5e63e1774b627",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul des Jahres 18 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 18 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 18 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (52v Chr-18v Chr)"
+    }
+  },
+  "id": "Q141453",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Корнелий Лентул Марцелин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Corneli Lèntul Marcel·lí"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Cornelius Lentulus Marcellinus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Κορνήλιος Λέντουλος Μαρκελλίνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Cornelius Lentulus Marcellinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Cornelio Léntulo Marcelino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Cornelius Lentulus Marcellinus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publio Cornelio Léntulo Marcelino"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Cornelio Lentulo Marcellino"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Cornelius Lentulus Marcellinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Cornelius Lentulus Marcellinus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Cornélio Lêntulo Marcelino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Cornélio Lêntulo Marcelino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Корнелий Лентул Марцеллин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Корнелій Лентул Марцеллін"
+    }
+  },
+  "lastrevid": 17561312,
+  "modified": "2025-09-17T12:45:36Z",
+  "ns": 860,
+  "pageid": 169838,
+  "sitelinks": {},
+  "title": "Item:Q141453",
+  "type": "item"
+}

@@ -1,0 +1,783 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Otho"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141542$DDE7CA2E-7B28-401D-B04F-ED378A09B93E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446805"
+          },
+          "hash": "0770d6d5b89ca75bc96da9068727f1ba0055bdfd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141542$1D04ABC2-2530-45B1-A13F-CBAEC2BC5431",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141542$A8393004-8E29-4659-80AD-C4F041BAFB14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141542$915846B6-D6A3-4926-B937-2A5D1D1724AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139651",
+              "numeric-id": 139651
+            }
+          },
+          "hash": "d2ae81eefe039a8aa9642ac6c495421198ec79f1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141542$89F68FC0-1334-4274-B0A4-4DC44D5DFA46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144190",
+              "numeric-id": 144190
+            }
+          },
+          "hash": "c92ed2d9e8c9e409cb1404d7caaa8b3b5b40e190",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141542$DC2C8BE6-B6C0-4841-8E23-1861964F7DF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144191",
+              "numeric-id": 144191
+            }
+          },
+          "hash": "d4639df3fe7f650859b1b53e420db25e8472d70e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q141542$894EBEEB-7CC6-4AE4-B3E2-CE0D4857BCA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "34507127"
+          },
+          "hash": "9bd42c056573f58d9992ef6385a2ee2b5e3684ec",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141542$125F7A30-CF27-4FEF-9F9B-EFA49B5F95EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141542$C365D389-80D5-4120-A51C-D3B3F6C36BFC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0032-04-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5d590902903d46c213448e2b927eff88fda952a9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141542$7A7AD6BF-B90C-4014-8146-F8C4A19B45AE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0069-04-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "addefe488c5cf076044473d65832a136fe3c8d49",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141542$4B866478-E397-47F2-B3CC-05FC7092E5A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1416"
+          },
+          "hash": "d6960e207db0722e78cacd4458e5204623356e92",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q141542$D180C035-7F8D-402D-AC11-64A59E653344",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006858145415"
+          },
+          "hash": "d03d1163be26dc68140a9594f046d1868149001d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q141542$FBDB0DE4-9992-4FED-9314-BD3AEA5FE800",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:26428"
+          },
+          "hash": "3b45a242a446b7ff06d01b172ab51ed79530e7d3",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141542$EA65BDF3-0DFA-4E2A-A426-F311F5A0BF85",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Otho Arms.svg"
+          },
+          "hash": "fd75594d980cbd965f90cbb2c4f404bdfdfaebce",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q141542$B45886A0-A8C3-4B07-AB0C-0B6265EF6528",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/F717993B-B50B-40D1-B4FD-1DEB947198A6"
+          },
+          "hash": "78e8633fb9dc5253f56055fd4d04ca4b3fcfe209",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "az": {
+      "language": "az",
+      "value": "Roma imperatoru"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador de la Roma Antiga"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "7. römischer Kaiser"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "seventh Emperor of Ancient Rome (32-69)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano (69)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "septième empereur romain en 69"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano no 69"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Római Birodalom császára"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi yang berkuasa selama tiga bulan dari Januari hingga April 69 M, selama periode yang dikenal sebagai Tahun Empat Kaisar"
+    },
+    "is": {
+      "language": "is",
+      "value": "Rómverskur keisari árið 69 e.Kr"
+    },
+    "it": {
+      "language": "it",
+      "value": "settimo imperatore romano (r. 69)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ローマ帝国皇帝（四皇帝の年の第2番目の皇帝）"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Romas imperators 69. gadā"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk keiser"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (32-69)"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਪ੍ਰਾਚੀਨ ਰੋਮ ਦਾ ਸੱਤਵਾਂ ਸਮਰਾਟ (32-69)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "imperador Romano (15 de janeiro de 69 a 16 de abril de 69)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "седьмой римский император"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rímsky cisár"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk kejsare januari–april 69"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "hoàng đế thứ bảy của Rô-ma cổ đại (32-69)"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "罗马帝国的皇帝"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "羅馬帝國皇帝"
+    }
+  },
+  "id": "Q141542",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Otho"
+    },
+    "am": {
+      "language": "am",
+      "value": "ኦጦ"
+    },
+    "an": {
+      "language": "an",
+      "value": "Marco Salvio Otón"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أوثو"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "أتونو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Otón"
+    },
+    "az": {
+      "language": "az",
+      "value": "Oton"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "اتو"
+    },
+    "be": {
+      "language": "be",
+      "value": "Марк Сальвій Атон"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Отон"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ওথো"
+    },
+    "br": {
+      "language": "br",
+      "value": "Marcus Salvius Otho"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Oton"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Salvi Otó"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئۆتۆ"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Otho"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Otho"
+    },
+    "da": {
+      "language": "da",
+      "value": "Otho"
+    },
+    "de": {
+      "language": "de",
+      "value": "Otho"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Otho"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Otho"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Σάλβιος Όθων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Otho"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Otho"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Otho"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Oto"
+    },
+    "es": {
+      "language": "es",
+      "value": "Otón"
+    },
+    "et": {
+      "language": "et",
+      "value": "Otho"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Oton"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اتو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Otho"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Othon"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Oto"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Otho"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Otón"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ὄθων"
+    },
+    "he": {
+      "language": "he",
+      "value": "אותו"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Oton"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Otho római császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Օտոն"
+    },
+    "id": {
+      "language": "id",
+      "value": "Otho"
+    },
+    "io": {
+      "language": "io",
+      "value": "Otho"
+    },
+    "is": {
+      "language": "is",
+      "value": "Otho"
+    },
+    "it": {
+      "language": "it",
+      "value": "Otone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オト"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ოტონი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오토"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Otho"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Salvius Otho"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Otonas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Otons"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Отон"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "मार्कस साल्व्हियस ओथो"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "اوتو"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Otho"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Otho"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Otho"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Otho av Romarriket"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Oton"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਓਥੋ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Marek Salwiusz Oton"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Otòn"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Otão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Otão"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Otho"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Отон"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Otoni"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Otho"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Oton"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Otho"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "قیصر اوتھو"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Oton"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Otho"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Отон"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Otho"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Kaizari Otho"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิออโท"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Otho"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Otho"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Отон"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "اوتھو"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Oton"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Otho"
+    },
+    "war": {
+      "language": "war",
+      "value": "Otho"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "奥托"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ოტონი"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Otho"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "奧托"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奧索"
+    }
+  },
+  "lastrevid": 17561454,
+  "modified": "2025-09-17T12:47:35Z",
+  "ns": 860,
+  "pageid": 169927,
+  "sitelinks": {},
+  "title": "Item:Q141542",
+  "type": "item"
+}

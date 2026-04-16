@@ -1,0 +1,408 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Licinius Crassus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141651$71247D3C-8F94-47AB-A7FB-4803C5AA63AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736037"
+          },
+          "hash": "3370f2f6c422f2c78ee67a1907a72db9faa305f4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141651$D6A126B9-B309-4B7D-BE95-BA4FF0B7ACA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141612",
+              "numeric-id": 141612
+            }
+          },
+          "hash": "8bb5d42d06705acb636527be2f263dfe8f4798ed",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141651$D21F69FA-7964-422D-B8AF-053AEE003E4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141651$20DEE5DE-A535-474F-8098-5F7043723A9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141651$C514A8CA-9685-43A1-93BE-F8EEBFFB0E94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144277",
+              "numeric-id": 144277
+            }
+          },
+          "hash": "f65f4d58268d48d221c97ea708967eda5e6d7486",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141651$A2BE1DB9-2230-4AAA-AB58-156DCEFC830B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72466",
+              "numeric-id": 72466
+            }
+          },
+          "hash": "77f466b59ad9257475097594a2ce2eda3785368b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141651$368FEB6A-2523-4CF2-9C77-5DBD9F7E2D94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72463",
+              "numeric-id": 72463
+            }
+          },
+          "hash": "4e3e679921603b040fb310d78024fb67a62f6935",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141651$D44F840D-75D7-4B96-A729-1711DB5F409F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141651$ADD23A03-433C-458C-A1B0-DC8FABC0E43B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0086-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2648bce1fd0b62bad857924168cdee94b7cff0b5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141651$AC12F297-B095-4B9E-A16A-A7E2E25EA1DE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0049-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60cbb987e54c3c5c81293575d2e55355ebe71c44",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141651$1BF8E34C-48DA-49DE-AF8A-5B13B715192A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q468932"
+          },
+          "hash": "1b9cfb5f939d2b3bcfdb2d27f8e6ca3ac2f5293f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141651$74B24591-4D4E-4D11-BE5F-52BA29B6474B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Licinius Crassus Arms.svg"
+          },
+          "hash": "043bcea135894792b2a1b036f3be9e1e19c12aa6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "старажытнарымскі палітык"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "fil gran del triumvir Marc Licini Cras i de Tertul·la"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn des Triumvirn Marcus Licinius Crassus"
+    },
+    "en": {
+      "language": "en",
+      "value": "quaestor 54 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo del triunviro Marco Licinio Craso"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "questeur romain, fils de Crassus"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q141651",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ماركوس ليسينيوس كراسوس"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Марк Ліцыніюс Крас"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Лициний Крас"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Licini Cras"
+    },
+    "da": {
+      "language": "da",
+      "value": "Marcus Licinius Crassus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Licinius Crassus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Λικίνιος Κράσσος (ταμίας το 54 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Licinius Crassus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Licinio Craso"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Licinius Crassus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Marco Licinio Craso"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרקוס ליקיניוס קראסוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Licinio Craso"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Licinio Crasso"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・リキニウス・クラッスス (紀元前54年の財務官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Mapcus Licinius Crassus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Licinius Crassus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Marcus Licinius Crassus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Лициний Красс Див"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Licinius Crassus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcus Licinius Crassus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Ліциній Красс"
+    }
+  },
+  "lastrevid": 17561626,
+  "modified": "2025-09-17T12:50:02Z",
+  "ns": 860,
+  "pageid": 170036,
+  "sitelinks": {},
+  "title": "Item:Q141651",
+  "type": "item"
+}

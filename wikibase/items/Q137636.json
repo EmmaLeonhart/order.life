@@ -1,0 +1,600 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aspasia"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q137636$D4E9F5C0-623D-4068-8BBB-637614AC81E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137119",
+              "numeric-id": 137119
+            }
+          },
+          "hash": "60f2324a82939a59249cf615a701481b87481a48",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137636$E57EA187-2FF6-4E4A-BA17-B2AB981EB950",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137636$0B319B4F-DA75-4696-B1D0-AED132A5B033",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137636$2BC28CC1-8DD3-455A-B425-158615EAE6D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137118",
+              "numeric-id": 137118
+            }
+          },
+          "hash": "f762d1d0200f3c16f137e68345bc2a705cbc617f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137636$F0DE4394-CAC0-463C-BCE5-0BF3404E48DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138353",
+              "numeric-id": 138353
+            }
+          },
+          "hash": "5a0e944b6a5829d4f74a4d4b989d57752d3c66cb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137636$BDC646FD-0AD1-4551-817E-9602A3BFE6DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137636$29BB013D-4F8B-4E94-B3F1-36B574FABF7B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0470-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d79c681f4ec53b86aaf221e5933317c950d829fa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137636$0E43BD31-5C3B-4110-9D8E-75969635BE91",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137636$EE17F192-AB85-4613-85F8-1D984F40FC02",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q228564"
+          },
+          "hash": "1abc5294fdda869d2edb034865bf445ce5b9be92",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137636$CC205640-7AB1-4C20-8052-51EDA530A999",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aspasia Arms.svg"
+          },
+          "hash": "f5d2ea12e243d099e6351fae875e3a29e2dd6bab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "امرأة يونانية بارزة من ميليتوس اشتهرت بعلاقتها مع السياسي الأثيني بريكليس"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "খ্রিস্টপূর্ব ৫ম শতাব্দীর এথেনীয় রাষ্ট্রনায়ক পেরিক্লেসের অংশীদার"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "filòsofa grega"
+    },
+    "da": {
+      "language": "da",
+      "value": "retoriker fra Milet, partner med Perikles og mor til sønnen af samme navn. Metoik, traditionelt beskrevet som hetære"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philosophin der Antike"
+    },
+    "el": {
+      "language": "el",
+      "value": "αγαπημένη του Περικλή (490-429)"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th-century BC partner of Athenian statesman Pericles"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "5-a jarcento a.K. kunulino de atena ŝtatisto Periklo"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin kreikkalainen henkilö"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "philosophe antique"
+    },
+    "he": {
+      "language": "he",
+      "value": "בת זוגו של פריקלס"
+    },
+    "it": {
+      "language": "it",
+      "value": "antica greca, seconda moglie di Pericle"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichter uit Oude Athene (470v Chr-400v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "towarzyszka życia Peryklesa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "mulher meteca de Atenas Antiga"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "mulher meteca de Atenas Antiga"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "filozoafă antică, partenera lui Pericle"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "возлюбленная Перикла (490—429)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "antik grekisk entreprenör och maka till Perikles"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tarihi kişilik, Atina'lı Perikles'in partneri"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "邁爾斯婦女，與雅典政治家珀里克利斯有關"
+    }
+  },
+  "id": "Q137636",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أسبازيا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Aspasia de Mileto"
+    },
+    "az": {
+      "language": "az",
+      "value": "Aspaziya"
+    },
+    "be": {
+      "language": "be",
+      "value": "Аспасія"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Аспазия"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "আসপাসিয়া"
+    },
+    "br": {
+      "language": "br",
+      "value": "Aspasia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Aspàsia de Milet"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئەسپاسیا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Aspasia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Aspasia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aspasia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ασπασία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aspasia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Aspasia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Aspasia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Aspasia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aspasia de Mileto"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Miletoko Aspasia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آسپاسیا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aspasia"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Aspasia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aspasie"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Aspasia"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Aspasia"
+    },
+    "he": {
+      "language": "he",
+      "value": "אספאסיה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ասպասիա"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Ասփասիա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Aspasia"
+    },
+    "is": {
+      "language": "is",
+      "value": "Aspasía"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aspasia di Mileto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アスパシア"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ასპასია"
+    },
+    "kl": {
+      "language": "kl",
+      "value": "Aspasia"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಆಸ್ಪೇಷಿಯ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아스파시아"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "Aspahsija"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aspasia"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Aspasija"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "阿斯帕西雅"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Аспасија"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "അസ്പേഷെ"
+    },
+    "mwl": {
+      "language": "mwl",
+      "value": "Aspásia"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "آسپاسیا"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Aspasia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aspasia"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Aspasia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Aspazja"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "اسپيزيا"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aspásia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Aspásia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Aspasia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аспасия"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Aspazija"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Aspazija iz Mileta"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Aspasia"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Аспасија"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Аспасија"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Aspasija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Aspasia"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Aspasia"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "அசுபாசியா"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Miletli Aspasia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аспасія"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "阿斯帕齊婭"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿斯帕齊婭"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿斯帕齐娅"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿斯帕齐娅"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿斯帕齊婭"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿斯帕齊婭"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿斯帕齐娅"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿斯帕齊婭"
+    }
+  },
+  "lastrevid": 17555025,
+  "modified": "2025-09-17T11:14:29Z",
+  "ns": 860,
+  "pageid": 166021,
+  "sitelinks": {},
+  "title": "Item:Q137636",
+  "type": "item"
+}

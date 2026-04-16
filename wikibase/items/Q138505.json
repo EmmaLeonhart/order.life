@@ -1,0 +1,484 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Pompeius Magnus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138505$FC8E3922-9DE3-412A-9B0F-EBE1BE27DC13",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735666"
+          },
+          "hash": "421f87592d2541dcb28c49b109104524122f23e6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138505$CBF20B30-854C-40AD-AD93-D4C2CE4BF97B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138505$6429D541-E6F2-43CA-B112-582A73E3ACA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138505$AF184CEB-396F-4C9F-8CDC-E0A174612844",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus_Pompeius_(1)"
+          },
+          "hash": "913277e9e163525751630c4244c68a5b13cff8a0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138505$BDCDE086-8C20-4F96-BED7-7769769FB8CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139558",
+              "numeric-id": 139558
+            }
+          },
+          "hash": "25662a5483b64fd446ba274ae343b2f10d1cfae8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138505$4683DFA0-2F64-4780-83CE-2CDD7084F369",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72269",
+              "numeric-id": 72269
+            }
+          },
+          "hash": "9d91286cff9faf9602c07972ed744e9bd4f9e0be",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138505$B577E661-7383-40D2-850F-A223B4AF2BB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72266",
+              "numeric-id": 72266
+            }
+          },
+          "hash": "cb3f0e4b1239ac53f9bc3bd009047542c6d5ab29",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138505$1B713DA4-FC91-45E0-922E-AE4E2E89E31A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138505$DE138486-2A0B-4914-9D1F-B98EAE2E1C46",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0080-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecde69b1f925ad90303f1a646574b6ab30ed130e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138505$AEA9048A-4B6A-4178-B7D3-2473B26433B2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0045-04-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3806209eded30ea2d12805db669bcc74b6bde664",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138505$BFFD43AA-EFC9-40D4-AC3B-D7263EDE782E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q473280"
+          },
+          "hash": "300b95cfba1b6ccb218f98e7d41cd2108b387ca8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138505$20F07D26-F340-4304-9BE9-C20AE0E378FA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Pompeius Magnus Arms.svg"
+          },
+          "hash": "a04c95527a8965026f607c95fe74dfaa21187cf4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "az": {
+      "language": "az",
+      "value": "Qədim Roma siyasətçisi və hərbi xadimi"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "mab hynaf Pompey Fawr"
+    },
+    "da": {
+      "language": "da",
+      "value": "italiensk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker und General"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Πομπήιου του Μεγάλου"
+    },
+    "en": {
+      "language": "en",
+      "value": "eldest son of Pompey the Great"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار ایتالیایی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "italialainen poliitikko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique et militaire romain, fils de Pompée le Grand"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "italiensk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Italiaans politicus (75v Chr-45v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "italiensk politikar"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "político e general romano"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "äldsta son till Pompejus den store"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗马将领格奈乌斯·庞培之子"
+    }
+  },
+  "id": "Q138505",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "جنايوس بومبيوس ماجنس (ابن بومبيوس)"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جنايوس پومپيوس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Qney Pompey Maqn (kiçik)"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гней Помпей"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gneu Pompeu"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gnaeus Pompeius"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gnaeus Pompeius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Pompeius der Jüngere"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γναίος Πομπήιος (γιος του Πομπήιου)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Pompeius Magnus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Gnaeus Pompeius"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Gnaeus Pompeius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Pompeyo el Joven"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Gneo Ponpeio"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Gnaeus Pompeius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pompée le Jeune"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gnaeus Pompeius"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Cneo Pompeio o Mozo"
+    },
+    "he": {
+      "language": "he",
+      "value": "גנאיוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cneo Pompeyo el Joven"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gnaeus Pompeius (putra Pompeius Agung)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Pompeo il Giovane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グナエウス・ポンペイウス・ミノル"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그나이우스 폼페이우스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Pompeius Iunior"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gnaeus Pompeius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaeus Pompeius Magnus minor"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Gnaeus Pompeius - den yngre"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gnejusz Pompejusz Młodszy"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pompeu, o Jovem"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pompeu, o Jovem"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гней Помпей Младший"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gnej Pompej"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gnaeus Pompeius"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гнеј Помпеј Млађи"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pompejus den yngre"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gnaeus Pompeius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Помпей Магн Молодший"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "格奈乌斯·庞培"
+    }
+  },
+  "lastrevid": 17556391,
+  "modified": "2025-09-17T11:34:04Z",
+  "ns": 860,
+  "pageid": 166890,
+  "sitelinks": {},
+  "title": "Item:Q138505",
+  "type": "item"
+}

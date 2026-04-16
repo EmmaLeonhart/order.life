@@ -1,0 +1,363 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Freydís Eiríksdóttir"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137080$3A2F1593-A8CA-4D0B-B470-B218CF2980C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137080$88B98D0B-08B5-4BF0-A2CB-3C687C68B7AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137080$3E4E7040-A6F8-4CC4-ACE8-54C7C9FB2C58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137076",
+              "numeric-id": 137076
+            }
+          },
+          "hash": "a75d60ac34d6b1c8f79ff6ee7503f581d3904107",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137080$25E0AE4E-F7DD-4229-8E56-389442A8D593",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136689",
+              "numeric-id": 136689
+            }
+          },
+          "hash": "b2821a67bd75b31fc0e5144d9317454592b92b98",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137080$EC0D47CF-1A46-4CFA-8F94-C791A9C0E1CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137080$C58B0EC0-5A38-4E95-A549-0118AF784C52",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0980-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c63a72cb9f3cd94546b32afcef0a8a02981cad6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137080$16DDFEF9-235B-4F9A-B3FA-6FC5803EEE9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q451114"
+          },
+          "hash": "8c64945cdbb8d36f6a3113181d89c31f838e1422",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q137080$E964A048-6351-4F71-9058-37994300B2D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645908790"
+          },
+          "hash": "ad0ba0f099856f95c5abc62454f3901e3fa82234",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137080$696FBFD1-33E5-4CB6-942B-4DE92EDE12BE",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Freydís Eiríksdóttir"
+          },
+          "hash": "9cab81a3343d8ff8b43bcd4436744f7f6f85de7c",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137080$4CC98D1D-906C-4F8F-AD68-506FF09F0D41",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Freydís Eiríksdóttir Arms.svg"
+          },
+          "hash": "0fb0f12c5d4ff32d5c68e098f3e48fef49609ead",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tochter des Wikingers Erik der Rote und Halbschwester von Leif Eriksson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Daughter of Erik the Red"
+    },
+    "es": {
+      "language": "es",
+      "value": "exploradora vikinga"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "exploratrice viking, fille d'Erik le Rouge"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ദേശപരിവേക്ഷകന്"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "ontdekkingsreiziger"
+    }
+  },
+  "id": "Q137080",
+  "labels": {
+    "ary": {
+      "language": "ary",
+      "value": "فرييديس بنت إيريك"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Freydís Eiríksdóttir"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Freydís Eiríksdóttir"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Freydís Eiríksdóttir"
+    },
+    "de": {
+      "language": "de",
+      "value": "Freydís Eiríksdóttir"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φρέυντις Έιρικσντοττιρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Freydís Eiríksdóttir"
+    },
+    "es": {
+      "language": "es",
+      "value": "Freydís Eiríksdóttir"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فریدیس اریکسدوتیر"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Freydis Eiriksdottir"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Freydís Eiríksdóttir"
+    },
+    "he": {
+      "language": "he",
+      "value": "פריידיס איריקסדוטיר"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ֆրեյդիս Էրիկսդոտիր"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Freydís Eiríksdóttir"
+    },
+    "it": {
+      "language": "it",
+      "value": "Freydís Eiríksdóttir"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フレイディース・エイリークスドッティ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프레위디스 에이릭스도티르"
+    },
+    "la": {
+      "language": "la",
+      "value": "Freydis Eirici filia"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Freydís Eiríksdóttir"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Frøydis Eiriksdatter"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Freydís Eiríksdóttir"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Freydís Eiríksdóttir"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фрейдис Эриксдоттир"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Freydis Eiriksdottir"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Frejdis Eriksdotter"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фрейдіс Еріксдоттір"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "弗蕾迪絲"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "弗蕾迪丝·埃里克斯多蒂尔"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "弗蕾迪丝·埃里克斯多蒂尔"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "弗蕾迪絲·埃里克斯多蒂爾"
+    }
+  },
+  "lastrevid": 17554161,
+  "modified": "2025-09-17T11:02:15Z",
+  "ns": 860,
+  "pageid": 165465,
+  "sitelinks": {},
+  "title": "Item:Q137080",
+  "type": "item"
+}

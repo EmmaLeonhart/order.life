@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sico of Salerno"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141308$EDC8626F-2C35-4EAC-9F8B-937ACB0F427C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141308$D4C9C7DB-B7E6-45B5-9DF5-BD9632279E50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141308$3895BD5B-813F-4839-ADD2-63A286B9DD3C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sico_of_Salerno_(1)"
+          },
+          "hash": "e2df58dd9551cc48cc43e1fee95853618f080bae",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141308$B2D921EC-4D91-4BB7-AEA0-0D9BC8B11A7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139455",
+              "numeric-id": 139455
+            }
+          },
+          "hash": "439a9c4e69f351460360cbac683c24f1348dad08",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141308$35445516-AF16-428B-AA67-EBE51896B417",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141308$E2FA4050-7DC3-4B10-950B-42020E7F8D6D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22704ee4efe0ee654eac343970919d68633e5816",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141308$C163F282-4253-484B-8177-8F7A965FC940",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0855-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b9c5c04dedd70e188a38543da26108687eefddeb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141308$F8017598-649A-4261-93C6-C3D7D677A19B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2518603"
+          },
+          "hash": "7c371ee4aa3626d687c0fd922e6ff31362b99ead",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141308$E228E730-0D78-4E97-8DFF-A58B8803FEDF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sico of Salerno Arms.svg"
+          },
+          "hash": "4288810fc1ab602fb7f9b15428d930eaeb4dee98",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Italian prince"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince de Salerne du IXe siècle"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "príncipe longobardo de Salerno"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe longobardo"
+    }
+  },
+  "id": "Q141308",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Σίκο του Σαλέρνο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sico of Salerno"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sicón II de Salerno"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sicon de Salerne"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Sicón II de Salerno"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sicone II di Salerno"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sico of Salerno"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Sico al II-lea de Salerno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сико"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сіко II"
+    }
+  },
+  "lastrevid": 17561064,
+  "modified": "2025-09-17T12:41:53Z",
+  "ns": 860,
+  "pageid": 169693,
+  "sitelinks": {},
+  "title": "Item:Q141308",
+  "type": "item"
+}

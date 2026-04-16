@@ -1,0 +1,399 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vologases II of Parthia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139777$F166BBC6-1FE1-40CE-9C7C-8D7AFD2FEBAC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139814"
+          },
+          "hash": "4e87fe4080646cdae8fb85bc0818d3f7618cadd4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q139777$FBEE3429-3E19-4C62-899D-468DBF8B068D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00717497"
+          },
+          "hash": "201f2dd79497f7262a6eb88dd17c225be05b22ed",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139777$6CDC57B0-D2A9-4E05-8D18-D8A05C64E1E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141700",
+              "numeric-id": 141700
+            }
+          },
+          "hash": "8dccfd1cedbabcf9c88a64044c74f353d7bcfbf4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139777$2E8F87A9-19B9-40CB-A68D-A61608E1DDC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139777$D6F49218-81AE-4F74-9E3B-87759D470D91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139777$53C68EC0-C862-41FB-8C48-E836BA3F3B12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138530",
+              "numeric-id": 138530
+            }
+          },
+          "hash": "4e98c0910dd6406e2550e7d5e6bcb2e0ed587b60",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139777$B2E5CB4F-F3DA-459D-A5B5-DF5ADC84B79F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139777$113B7333-FA59-448A-A55B-0EC1F0E720B4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139777$1D5394B7-7130-4A34-8792-8E0DA04E3920",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0080-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f4291b457cca4c1632c167b2708951ffcd6bae4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139777$48298F78-8E0D-404D-B606-7C93461710B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q363104"
+          },
+          "hash": "63264feee4c3434c82b86165966c3b18e022f97b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139777$A1AB6FCA-BD41-49AB-B623-96187754ADD2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vologases II of Parthia Arms.svg"
+          },
+          "hash": "e3a88b6e8c258adda7c02e42defa8f3d087ed5df",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Usurpator im Partherreich"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century AD Parthian prince"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi parthe"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero partico (r. 78-80)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "1. Yüzyıl Part prensi"
+    }
+  },
+  "id": "Q139777",
+  "labels": {
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی بالاش"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Вологаз II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Vologès II de Pàrtia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vologaisés II."
+    },
+    "de": {
+      "language": "de",
+      "value": "Vologaeses II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Βολογέσης Β΄ της Παρθίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vologases II of Parthia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vologès II de Pàrtia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Vologeso II.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بلاش دوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Vologèse II"
+    },
+    "he": {
+      "language": "he",
+      "value": "וולוגסס השני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Vologaz II. Partski"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վաղարշ Պարթև"
+    },
+    "it": {
+      "language": "it",
+      "value": "Vologase II di Partia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヴォロガセス2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ვოლოგეზ II"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "볼로가세스 2세"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "ولاش دوم"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Vologases II av Parthia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vologases II"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Vologés II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wologazes II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Vologases II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Vologases II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вологез II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Vologas II od Partije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Vologas II."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Vologases II of Parthia"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Балоши II"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Vologases"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Вологез II"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Vologases II của Parthia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "沃洛吉斯二世"
+    }
+  },
+  "lastrevid": 17558455,
+  "modified": "2025-09-17T12:03:13Z",
+  "ns": 860,
+  "pageid": 168162,
+  "sitelinks": {},
+  "title": "Item:Q139777",
+  "type": "item"
+}

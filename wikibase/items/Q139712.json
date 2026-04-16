@@ -1,0 +1,362 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Cinna"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139712$6FBDD6F7-4FB3-4D9D-A149-055722DBAC32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "580855"
+          },
+          "hash": "6cea8a2e0b708081a8e855b853e6fcf900794d54",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139712$1CECC4B6-08D9-4E6E-B705-D2085138197E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139746",
+              "numeric-id": 139746
+            }
+          },
+          "hash": "e26e0e222d3e150228cc90b0ae4a59139cd97cf9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139712$81F79C38-38F6-462E-BA63-E0709FDCE863",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139745",
+              "numeric-id": 139745
+            }
+          },
+          "hash": "ab2d990b709a37ad13818bda0abbb88186363bfd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139712$0E923B56-8F80-47CD-A3A7-DB4238969CB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139712$16376D9E-0576-441E-B7A0-90032DCD4AD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139712$DD254D64-E093-49B7-87FD-0BF860644D7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70970",
+              "numeric-id": 70970
+            }
+          },
+          "hash": "cdffcbb98089206c07816f7f5c00d808a0d57067",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139712$6331BEA2-B954-407E-BF14-4444C9205BE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138489",
+              "numeric-id": 138489
+            }
+          },
+          "hash": "6ed2f50cd4e6796a0ee6839e898b6e01dbb96c49",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139712$D6EE8E3F-FC36-4712-A58C-402A3BF85FBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139712$CC0F5547-B7DC-413C-80EF-F4F96BFBAE67",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0077-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16fb33fabb9b64237a99e1b925eaa41302740d63",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139712$864BBBB8-5F43-4255-A6D9-E0355DF826CD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0021-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7e5133b1df09b5f1bb8a84da5029254bb33f9189",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139712$40A05D5D-01A8-47CB-BF62-1B3591819C82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q664229"
+          },
+          "hash": "d4e9aea7ac7dbc3a5ac4a7dc667e18a5ffd80a2e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139712$04C7D494-D9F7-458E-8627-03A2DACAA78F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Cinna Arms.svg"
+          },
+          "hash": "20f3268349d03b4799cdde85d9b3479e0a9008c6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol sufecte l'any 32 aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul 32 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "suffect consul 32 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul sufecto en el año 32 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 32 av. J.-C."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ifjabb"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (77v Chr-21v Chr)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політичний, державний та військовий діяч Римської республіки"
+    }
+  },
+  "id": "Q139712",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Корнелий Цина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Corneli Cinna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Κορνήλιος Κίννα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cornelio Cinna"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Cinna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・コルネリウス・キンナ (紀元前32年の補充執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Cornélio Cina"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Cornélio Cina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Корнелий Цинна"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Цинна (консул-суфект 32 року до н. е.)"
+    }
+  },
+  "lastrevid": 17558353,
+  "modified": "2025-09-17T12:01:48Z",
+  "ns": 860,
+  "pageid": 168097,
+  "sitelinks": {},
+  "title": "Item:Q139712",
+  "type": "item"
+}

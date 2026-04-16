@@ -1,0 +1,598 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Cornelius Lentulus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139539$5F5D31B6-D52F-410B-B6BA-495962D167CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465102"
+          },
+          "hash": "137f22ef4c9fa17d0ba28a217d49c4cdc65109bb",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139539$CCCD69EE-7F5B-4CB1-97F9-8D0CDC4BE9E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141386",
+              "numeric-id": 141386
+            }
+          },
+          "hash": "b979b7c186ece59a791808bed07facc70058460d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139539$2CE3F3B8-B3B4-4DF2-8929-690DCBCE8832",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138391",
+              "numeric-id": 138391
+            }
+          },
+          "hash": "4dcec5bbb9efadac84435980f9fbd152dfb49525",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139539$3CB8490D-8E02-4E44-B3B0-3A5D0AAE1B74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139539$D4F33252-2415-49E2-A0B9-2CE8456BA8E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139539$700AAC95-397C-4572-BC6D-3A060FAA2D4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141385",
+              "numeric-id": 141385
+            }
+          },
+          "hash": "b74d890e601b8940742298ce02531e9ce02624d4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139539$B8327E4C-0AB4-478C-8FE5-759C53994835",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139539$BC09B076-153B-441D-A4A5-4A014FDE3D17",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0205-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e1449b2c58e174f59d17c180008124638dc10721",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139539$F335261E-9003-4176-A7B7-19756FDC2845",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0121-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f1b3c119f9f7544b7edbff0068bf0afdf07a2a25",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139539$BF0CEE5B-22B3-4DA7-B7CC-73F3F08CE947",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q568003"
+          },
+          "hash": "e3da55a4b0ce6ef1084526afeeae579bcad0c701",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139539$EB498143-BDA6-4444-A0F5-8110A8B010CF",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Cornelius Lentulus"
+          },
+          "hash": "e6b36f9d1053b898bd29844ea279d32ca09d19ae",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139539$72F8AF2B-9497-4EA7-887F-7C723B4E628A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Cornelius Lentulus Arms.svg"
+          },
+          "hash": "fdf768f773917eb56dc8bcaff4ab1e917333e615",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul 162 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul suffectus in 162 BCE"
+    },
+    "es": {
+      "language": "es",
+      "value": "político y militar de la Antigua Roma, cónsul «suffectus» en el año 162 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 162 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 162 года до н. э."
+    }
+  },
+  "id": "Q139539",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "an": {
+      "language": "an",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Публий Корнелий Лентул"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Corneli Lèntul"
+    },
+    "co": {
+      "language": "co",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "dsb": {
+      "language": "dsb",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Κορνήλιος Λέντουλος (ύπατος το 162 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Cornelio Léntulo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "ht": {
+      "language": "ht",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publio Cornelio Léntulo"
+    },
+    "is": {
+      "language": "is",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Cornelio Lentulo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グナエウス・ドミティウス・アヘノバルブス (紀元前162年の補充執政官)"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Cornelius L.f. Lentulus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "li": {
+      "language": "li",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "mwl": {
+      "language": "mwl",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "pdc": {
+      "language": "pdc",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "pfl": {
+      "language": "pfl",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "pi": {
+      "language": "pi",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Cornélio Lêntulo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Cornélio Lêntulo"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Корнелий Лентул"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "stq": {
+      "language": "stq",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "szl": {
+      "language": "szl",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Корнелій Лентул"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Publius Cornelius Lentulus"
+    },
+    "zea": {
+      "language": "zea",
+      "value": "Publius Cornelius Lentulus"
+    }
+  },
+  "lastrevid": 17558061,
+  "modified": "2025-09-17T11:57:39Z",
+  "ns": 860,
+  "pageid": 167924,
+  "sitelinks": {},
+  "title": "Item:Q139539",
+  "type": "item"
+}

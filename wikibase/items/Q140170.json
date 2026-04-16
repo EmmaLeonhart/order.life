@@ -1,0 +1,798 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Llywelyn ab Iorwerth"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q140170$F025D3D4-6FA3-4C96-9708-25A51B696B6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "123341"
+          },
+          "hash": "b31021a7d2103bcf88219d384ece34e5883973ef",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q140170$66820B83-49AA-4A71-942A-822F6DC5B90C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00013706"
+          },
+          "hash": "910c1a666aeba33db4c02b71b128629a3933adbc",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140170$E1F6179E-04E0-4000-82E6-579DD8A170D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139906",
+              "numeric-id": 139906
+            }
+          },
+          "hash": "eef9c538c828644624b0a0d024c4d2e4fab18ec3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140170$47FD9401-5AB8-4AC4-8622-76E850373DC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140131",
+              "numeric-id": 140131
+            }
+          },
+          "hash": "aa586c156e64642dbdb58f034d0fad0c71d846db",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140170$4E83E0E1-32B8-4963-A0F2-ABCA33E37899",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140171",
+              "numeric-id": 140171
+            }
+          },
+          "hash": "2b3ebcd177d89c7b2e470f42ab31fe2bfcf85330",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140170$6B3D0C57-96EC-401F-9A78-07515240E035",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138784",
+              "numeric-id": 138784
+            }
+          },
+          "hash": "922b8e3b3369c679e8837766f0b1410e0c273cf5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140170$2FF8043F-9570-40A7-B7F2-EB6D5DE44C2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140032",
+              "numeric-id": 140032
+            }
+          },
+          "hash": "f8c1eec6343039d11a98a1dc37b1d49a17379a07",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140170$F8D92F9A-5473-4B87-862E-F2752AF8FB33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140033",
+              "numeric-id": 140033
+            }
+          },
+          "hash": "1abff7c2a30a8ba7b326ac4b5c418a27f8e4b190",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140170$489F17CB-A07A-4EF1-B108-B7D7BE190C5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140172",
+              "numeric-id": 140172
+            }
+          },
+          "hash": "929061c522cd719f6b1f4abe9e0db6d5963aa640",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140170$12C50ECA-A342-4335-8C15-7188B64A8F01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142236",
+              "numeric-id": 142236
+            }
+          },
+          "hash": "2da87ea69bf9de716bbf9da88eddb1508452e9e0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q140170$C345EA83-1EDE-4411-97B1-4463D10EAB03",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "9HFS-PKH"
+          },
+          "hash": "30f8230bdb5f7e1541765a3500470fb1e5186f84",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q140170$7A3F24F6-164D-4C3E-A791-9638B597F3DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Iorwerth-26"
+          },
+          "hash": "c129a7146cc775f8ebcca0a3c7453b3414dfe800",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140170$5F16DC53-D016-4383-8FCC-D4A1675CB879",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140170$B2CC97C9-D1DC-4AEE-AFE7-17BE52F69680",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q140170$597244F5-BCDE-4A1A-A2FE-F9A3AC530053",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Llywelyn_the_Great_(1)"
+          },
+          "hash": "905704caf92eb4aee1edc2aed346a9f0413ab5f8",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q140170$3C3B6E04-7E9F-4E9A-AFE3-1BB3C3550337",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141868",
+              "numeric-id": 141868
+            }
+          },
+          "hash": "bce9aef5af9fd7b8b14b0f6e253446a50f7af966",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140170$1B74B377-7399-4B53-B1E5-01524653E6EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122953",
+              "numeric-id": 122953
+            }
+          },
+          "hash": "2eba3d8426ba3095d878a6455ab951cad8f34922",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140170$9B676574-54AE-4AA7-9413-8EC9DCC49ED9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141852",
+              "numeric-id": 141852
+            }
+          },
+          "hash": "c1a62843c1314e490112f88432cabb4242392861",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q140170$7FD6EBB3-2E5C-4497-B560-463C25C76F8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10791.htm#i107904"
+          },
+          "hash": "4fabe30ab5e54f2f729a8e54c6ca7e96f11866cb",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140170$3F1B954F-1A85-4CAD-ADF0-8FFF7C3A2988",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127890",
+              "numeric-id": 127890
+            }
+          },
+          "hash": "6559148821881011d44527ccdee65e6b90567cd4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q140170$7AD7C840-0EF3-41D8-B678-358C78637D2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140119",
+              "numeric-id": 140119
+            }
+          },
+          "hash": "0323374b063f27cf933ebca6b52d878a2a1be4b3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140170$9455DD3D-FB07-4896-8C83-819137EF6189",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q140170$EFC5C661-999D-4BE4-8832-B83E068B8C82",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1173-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "58be713945bd7f3347027b0f2ab5226067c4af1a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q140170$B8C60FFE-59F2-45AB-82CB-F6F6ACBFA4EB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1240-04-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ab3383cf29f6435897006c25e7d04faaa844ed74",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140170$B88C4EF0-49A3-4A29-81DE-AE388F24A712",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q467685"
+          },
+          "hash": "ca60615074766c425256a15670dd2a2c5780a81d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q140170$64239A96-405B-4855-8A01-65A7A9175810",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Llywelyn ab Iorwerth"
+          },
+          "hash": "c05ec5d3b565d782f094a74bccf9804f77b8ad05",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q140170$38B10E82-BF02-4B11-AC09-88ECC2F2260C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=llywelyn;n=of gwynedd"
+          },
+          "hash": "bdc2bd8a066ec06423fee71428d0908914fc8910",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140170$C6AF9D92-5158-46B5-BE84-5B347337B197",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Llywelyn ab Iorwerth Arms.svg"
+          },
+          "hash": "aa6ac8d11c560151285b6c223c24dc0eda94f85e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "monarca galés (1173–1240)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "vládce Walesu"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "tywysog Gwynedd"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fürst von Gwynedd in Nordwales"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of Gwynedd and de facto Prince of Wales"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Prince of Gwynedd and de facto Prince of Wales"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Gwynedd"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Ree Gwynedd as Prinse Vretyn de facto"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano gallese"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "książę Walii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "правитель королевства Гвинед и де-факто почти всего Уэльса"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "walesisk regent"
+    }
+  },
+  "id": "Q140170",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ليويلين اب ايورويرث"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ліўэлін Вялікі"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лиуелин Велики"
+    },
+    "br": {
+      "language": "br",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Llywelyn el Gran"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Llywelyn ap Iorwerth"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Llywelyn Fawr"
+    },
+    "da": {
+      "language": "da",
+      "value": "Llywelyn den Store"
+    },
+    "de": {
+      "language": "de",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λιουέλιν ο Μέγας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "es": {
+      "language": "es",
+      "value": "Llywelyn el Grande"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Llywelyn Handia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Llywelyn le Grand"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Llywelyn Fawr"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Llywelyn Mòr"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Llywelyn Fawr"
+    },
+    "he": {
+      "language": "he",
+      "value": "ל'ואלין הגדול"
+    },
+    "id": {
+      "language": "id",
+      "value": "Llywelyn yang Agung"
+    },
+    "it": {
+      "language": "it",
+      "value": "Llywelyn il Grande"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "大ルウェリン"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Лливелин ап Иорверт"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "허웰린 압 요르웨르스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Leolinus Magnus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Llywelyn den store"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Llywelyn den store"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Llywelyn le Grand"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Llywelyn ap Iorwerth"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лливелин ап Иорверт"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Llywelyn Fawr"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Луелин Велики"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Llywelyn ab Iorwerth"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Muhteşem Llywelyn"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ллівелин ап Йорверт"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Llywelyn Fawr"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗埃林大王"
+    }
+  },
+  "lastrevid": 17559171,
+  "modified": "2025-09-17T12:13:36Z",
+  "ns": 860,
+  "pageid": 168555,
+  "sitelinks": {},
+  "title": "Item:Q140170",
+  "type": "item"
+}

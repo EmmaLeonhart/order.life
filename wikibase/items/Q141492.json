@@ -1,0 +1,613 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lepidus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141492$6E3B0D80-38FC-4C17-A97F-3EF87CACCA36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144148",
+              "numeric-id": 144148
+            }
+          },
+          "hash": "69bd5b5f747066fd71f32f0b5a73198d339ca8d2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141492$CCC91DB6-4D5C-4392-BB08-1B3E51D46A35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141656",
+              "numeric-id": 141656
+            }
+          },
+          "hash": "0a61f265b393b7c896c11716820dd13039051e79",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141492$8D7A4A49-9E7C-46EE-B331-8DD77D68F956",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144147",
+              "numeric-id": 144147
+            }
+          },
+          "hash": "f27eb34386a0e70bf97d9371810a3491f1449ac7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141492$26EECA9B-1CD3-4B67-B2A9-44E73881C044",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141492$F62C8FFD-78A0-4442-883E-9A7C32456118",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141492$ECECCFED-BF93-4B16-85B0-3E128EB6AE3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72308",
+              "numeric-id": 72308
+            }
+          },
+          "hash": "18838548bc07d7a5ca63344eeb93f7a03b8f84db",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141492$08E251C2-9B30-4E48-BE84-F74175EF8F96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72514",
+              "numeric-id": 72514
+            }
+          },
+          "hash": "372027103f8b37810b433e905cf13c8ac357345f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141492$48134464-ABA5-44AA-8E65-7AA90F5C0652",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72517",
+              "numeric-id": 72517
+            }
+          },
+          "hash": "e4e398546ea87123450a9c0c21e8d073c7a7ecc8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141492$47EBF5E0-D819-4D3A-9F56-F3508E71262C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141492$F5F1A7B9-A9A8-47CB-B924-6D3D200BA980",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0090-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c6850fc42406cf43d2bfa6754af57223b4e2c411",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141492$36090B40-6E16-4C50-9F53-E67238714DD3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0013-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "effb1797a42c878ec825965f3304da29efc1cc80",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141492$6CAF5DA9-1ACA-4686-B68F-ED10D070DBFF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q105452"
+          },
+          "hash": "d854bc1a61ab70d21e1b65c251a2cd8dd1a0f9ba",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141492$FA4720E2-AB65-41E1-B09C-AEE8BAF07B4D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "South East Busway Arms.svg"
+          },
+          "hash": "1da91639c0cc019efb6f00f031d474f92f47c971",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي وقنصل روماني وأحد أعضاء الثلاثية الثانية"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "patricijský římský politik"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος στρατιωτικός και πολιτικός, οπαδός του Ιουλίου Καίσαρα και συνιδρυτής αργότερα με τον Αντώνιο και τον Οκταβιανό της Β Τριανδρίας."
+    },
+    "en": {
+      "language": "en",
+      "value": "member of the Second Triumvirate of Rome"
+    },
+    "es": {
+      "language": "es",
+      "value": "uno de los triunviros, cónsul en los años 46 y 42 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاست‌مدار در روم باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin roomalainen poliitikko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain, triumvir avec Marc Antoine et Auguste"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római politikus és katonatiszt"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano, membro del secondo triumvirato"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "古代ローマの政治家・軍人。共和政末期ローマで、第二回三頭政治の一頭。"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고대 로마의 정치가이자 장군"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "triumvir"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "polityk rzymski"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 46 и 42 годов до н. э., участник второго триумвирата"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римський консул 46 і 42 років до нашої ери, учасник другого тріумвірату"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Chính khách và tướng quân La Mã"
+    }
+  },
+  "id": "Q141492",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ماركوس أميليوس ليبيدوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ماركوس اميليوس ليبيدوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Емилий Лепид"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lèpid el triumvir"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Lepidus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Αιμίλιος Λέπιδος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lepidus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Marko Lepido"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lépido"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Marko Emilio Lepido"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مارکوس امیلیوس لپیدوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Lepidus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lépide"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרקוס איימיליוס לפידוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Marko Emilije Lepid"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մարկոս Լեպիդոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Emilio Lepido"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・アエミリウス・レピドゥス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მარკუს ემილიუს ლეპიდუსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마르쿠스 아이밀리우스 레피두스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Markas Emilijus Lepidas"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "മാർക്കസ് ലെപിഡസ്"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Marek Emiliusz Lepidus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lépido"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lépido"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Эмилий Лепид"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Emilije Lepid"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mark Emilij Lepid"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Марко Емилије Лепид"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Марко Емилије Лепид"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Marko Emilije Lepid"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lepidus"
+    },
+    "th": {
+      "language": "th",
+      "value": "มาร์กุส ไอมิลิอุส แลปิดุส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Lepido"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Емілій Лепід"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "马尔库斯·埃米利乌斯·雷必达"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "马尔库斯·埃米利乌斯·雷必达"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "雷必达"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "雷必达"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "雷必達"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "雷必達"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "雷必达"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "雷必達"
+    }
+  },
+  "lastrevid": 17598487,
+  "modified": "2025-09-17T21:18:01Z",
+  "ns": 860,
+  "pageid": 169877,
+  "sitelinks": {},
+  "title": "Item:Q141492",
+  "type": "item"
+}

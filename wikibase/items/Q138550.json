@@ -1,0 +1,398 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hildeprand"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138550$9929816F-81E8-4F5B-9B0F-5E237A9452C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "364430"
+          },
+          "hash": "d7df4889ce672870af0523dc8c63f220973b5f2d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138550$EA8E9EAA-2F2C-435F-AB36-B66A0CBBB514",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138550$25301AD6-CCC5-42D0-8ED8-8CCF9F4FB300",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138550$6FCB7A84-BE74-4B58-B21C-F29698951A9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139802",
+              "numeric-id": 139802
+            }
+          },
+          "hash": "4ff5a83a394d98ac3015e56b738fbe404078a35c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138550$C690A4B5-35E2-405C-AB96-4C21FDC0FC57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123654",
+              "numeric-id": 123654
+            }
+          },
+          "hash": "336490360104bc840f616fa14ae9b524bd8a2529",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138550$8759918E-152F-49F7-836C-DF7885FB634E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138550$7CF2A476-B992-4B59-9642-8D00EE0AC77F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0800-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d240ab2ead5742a62e159c6c19ff3d25f3c4d8d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138550$3F7A0547-408E-427C-B4EC-43FBE231D971",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0744-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "24f5bc474e113fdc2ed6a5ee1d2294bc0e05b85e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138550$F3AFE6E4-FA50-46F4-86B1-B082B9891052",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q261136"
+          },
+          "hash": "0c86464139b35b977d4cd286166a3ca45f8c93ef",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138550$D3029384-396B-4A04-B73A-6DA7E2455E3B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hildeprand Arms.svg"
+          },
+          "hash": "8d84f11764d9218e603046b1c8425d1106cf2e72",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König der Langobarden"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of the Lombards"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de los lombardos (f. 744)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi des Lombards"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "longobárd király"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Eze nke Lombards"
+    },
+    "it": {
+      "language": "it",
+      "value": "re dei longobardi in Italia (r. 744)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Langobardisk konge"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Longobardów"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av det langobardiska riket"
+    }
+  },
+  "id": "Q138550",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Хилдепранд"
+    },
+    "br": {
+      "language": "br",
+      "value": "Hildeprand"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hildeprand"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hildeprand"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hildeprand"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hildeprand"
+    },
+    "el": {
+      "language": "el",
+      "value": "Χιλδεπράνδος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hildeprand"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ildebrando"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Hildeprand"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hildeprand"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Hildeprando"
+    },
+    "he": {
+      "language": "he",
+      "value": "הילדפרנד"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hildeprand longobárd király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ildebrando"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Hildeprand"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ildebrando"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イルデブランド"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hildeprand"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hildebrand van de Longobarden"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Hildeprand"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hildebrando"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Hildebrando"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Hildeprand al longobarzilor"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гильдепранд"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Hildeprand"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hildeprand"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хилдепранд"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hildeprand"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гільдепранд"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "希尔德普兰德"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "希尔德普兰德"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "希爾德普蘭德"
+    }
+  },
+  "lastrevid": 17556459,
+  "modified": "2025-09-17T11:35:01Z",
+  "ns": 860,
+  "pageid": 166935,
+  "sitelinks": {},
+  "title": "Item:Q138550",
+  "type": "item"
+}

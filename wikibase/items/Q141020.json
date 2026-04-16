@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pribislaw"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141020$D5B9AF8A-C629-48F8-8670-AAD94203A775",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143543",
+              "numeric-id": 143543
+            }
+          },
+          "hash": "f0e1aa58a4da9a8114cd634d4f999170f7437736",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141020$2D6F353C-FAB7-49B8-8331-A7AED82ABA7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141020$BAD2B236-4E91-44EE-A579-5A60762BE0E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141020$163FA13C-8C5E-4346-9E0C-1487A22EC691",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139293",
+              "numeric-id": 139293
+            }
+          },
+          "hash": "51e207c9850fa6603085b8cb983ee7294ee06898",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141020$A8ABD5CD-4EB7-4495-B0AB-A92F13257EF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143542",
+              "numeric-id": 143542
+            }
+          },
+          "hash": "2fa57c5d29ec899d2b2eb3b28ebcd71f0b5d6d7d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141020$DC14AA15-D1FF-43E7-B5CC-3994158B361D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141020$723CB5E8-9D02-43BC-89BE-2B326908C908",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141020$C559B336-C6A5-47B0-82FE-CAC4891106DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q28112456"
+          },
+          "hash": "5c421db7c44af7297556013719686ea80f631c5a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141020$3979A6F1-9749-488B-B270-5E782C745478",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pribislaw Arms.svg"
+          },
+          "hash": "62e4e8a8abdcee60b11919cd32e92eec178a3f8d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "slawischer Fürst in Brandenburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of Hevelli"
+    }
+  },
+  "id": "Q141020",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Pribislaw"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pribislaw"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Przybysław stodorański"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Прибислав"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Прібислав"
+    }
+  },
+  "lastrevid": 17560629,
+  "modified": "2025-09-17T12:35:12Z",
+  "ns": 860,
+  "pageid": 169405,
+  "sitelinks": {},
+  "title": "Item:Q141020",
+  "type": "item"
+}

@@ -1,0 +1,427 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fulvia (or Crossutia)"
+      },
+      {
+        "language": "en",
+        "value": "Cossutia"
+      },
+      {
+        "language": "en",
+        "value": "Fulvia"
+      },
+      {
+        "language": "en",
+        "value": "/ Cossutia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q72927$60454911-00CF-48A0-A630-23F72C9D15CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1209094"
+          },
+          "hash": "8902ced8cc3ece9d72290250bc94f0dc53f290ef",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q72927$5DCC1B76-8017-41BC-A0D1-33E97D475FAF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00695423"
+          },
+          "hash": "e70e136164ab572200c1011104eb90cb691a0061",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72927$D3FC5115-88BE-4512-83FF-9CBFE4D6D26F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72759",
+              "numeric-id": 72759
+            }
+          },
+          "hash": "15b5bd0451d14c230e8244b2215b43e3ad642b0f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72927$8ACA035B-4093-4918-A85E-3C10D07D7FE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78174",
+              "numeric-id": 78174
+            }
+          },
+          "hash": "6c879e9bcf8aabb62db3fb711fdee81d4ae83de7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72927$A0BC2595-C6EF-439B-A349-288576E6051D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137671",
+              "numeric-id": 137671
+            }
+          },
+          "hash": "bf5d38e2a62bbf3efc364df02f18468e4000e174",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72927$27D5E0F6-89BD-4150-8D11-DE387076C0C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72927$862C4A27-7B3D-4104-95D9-1A07A2591C16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72927$8DA942C8-CEDF-4366-97EE-96E52A87145B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72924",
+              "numeric-id": 72924
+            }
+          },
+          "hash": "c19a1186fd7411d980564a9ec82f34a0556dde84",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72927$E32FE5FE-6362-428B-A183-5CDA2332CD2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73077",
+              "numeric-id": 73077
+            }
+          },
+          "hash": "3a2043ca5dc0e4fe90f2a3c896ad5d7d33263d0d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72927$6E3AD4BA-59AC-4842-8B54-5DE60CFAC1B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73080",
+              "numeric-id": 73080
+            }
+          },
+          "hash": "2f0ea2a4e29c0b9af73b5203e6ea66555cf97831",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q72927$8DCCAE2B-F4AF-4600-98CE-152E94593225",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "/Cossutia/"
+            }
+          },
+          "hash": "fe1d6399579e5fe3ebd380b7885945f233bf0275",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72927$285F2DEF-2ABE-402D-8217-1CA6F627D7A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72927$41048015-DBD8-41B5-A12C-EE3EA74EC96D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72927$C22BFEB5-5261-460A-8974-9FC83B3981BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12297787"
+          },
+          "hash": "0a054163e67ff8176bab314e5b406eab6ea9a4f8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72927$0BEA97A5-5720-4DA9-81A2-4F929471B43C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000005757895476"
+          },
+          "hash": "aecc7c90fd627eb0ec9c0784c238e3fdd88de435",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72927$DDCA7519-AA53-4343-9990-AD13D858328C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fulvia Arms.svg"
+          },
+          "hash": "c9c116390cff25b0e60bbb29c481d49da04f641c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "babička Marca Antonia z matčiny strany"
+    },
+    "en": {
+      "language": "en",
+      "value": "maternal grandmother of Mark Antony"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposa de Lucio César"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyenne romaine, fille de Marcus Fulvius Flaccus (consul en 124 av. J.-C.)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "mormor till Marcus Antonius"
+    }
+  },
+  "id": "Q72927",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Фулвия (дъщеря на Марк Фулвий Флак)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fulvia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fulvia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φουλβία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fulvia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fulvia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fulvia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fulvia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Fulvia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Fulvia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fulvia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фульвия"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fulvia"
+    }
+  },
+  "lastrevid": 17485546,
+  "modified": "2025-09-16T18:36:24Z",
+  "ns": 860,
+  "pageid": 87758,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72927",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72927"
+    }
+  },
+  "title": "Item:Q72927",
+  "type": "item"
+}

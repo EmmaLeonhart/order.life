@@ -1,0 +1,231 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ælfwig"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q139308$A4C320BE-D3C2-4D0A-BF3D-2D77F682957B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wessex-388"
+          },
+          "hash": "c1525e05f2e03b5551fd945cac92147a644e6b94",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139308$1816F326-D346-4D64-A422-73D40D66816C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139308$225D2D0E-FBDC-4E5A-A656-AEDEDF16A6FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139308$09567A18-316B-4C04-B8CF-0B1E75E4401D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Abbot_Elfwig_(1)"
+          },
+          "hash": "c73926ba92dedf4cef4eb754b215e6f742dc966e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139308$BBDEB0C5-9AA6-494F-9D66-B47FFA6FB947",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126863",
+              "numeric-id": 126863
+            }
+          },
+          "hash": "b7c8da57127a91a7da7bcb5b08722b51a42f38f7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139308$BAF56608-6261-4211-9601-A388D870D1A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139308$4DB62A99-9533-41A4-AEAC-2D0DDB5E407D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1066-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4cbf615bda32664c76e4da32c255d58d7cd252c7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139308$95C95BBB-31F2-4D91-96C1-01869E44BDCD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8077325"
+          },
+          "hash": "071edaac7d76450b53b683149c61fe2b9e03b93c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q139308$30CF54D2-8B99-4AE2-825E-CEA32CEA9C62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=elfig;n=of wessex"
+          },
+          "hash": "5a9b736dffe72134ead9639dd5207e5e463139c1",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139308$31361DCD-0092-4C95-9D45-EB9377A7DDC7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ælfwig Arms.svg"
+          },
+          "hash": "b8ac84b14d3317f2e664252af659104ced9ebcfb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "English abbot"
+    }
+  },
+  "id": "Q139308",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ælfwig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ælfwig"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ælfwig"
+    }
+  },
+  "lastrevid": 17557741,
+  "modified": "2025-09-17T11:53:02Z",
+  "ns": 860,
+  "pageid": 167693,
+  "sitelinks": {},
+  "title": "Item:Q139308",
+  "type": "item"
+}

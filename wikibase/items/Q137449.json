@@ -1,0 +1,263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lleuki|Nest ferch Gwerstan ap Gwaithfoed"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137449$754205E7-B666-48E8-895F-A7C8352D4E3C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00750999"
+          },
+          "hash": "b8055c87944f3745b4439a7af20eadb0a82d21dc",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137449$E48E642B-3446-4905-A229-02326FA9F31D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136996",
+              "numeric-id": 136996
+            }
+          },
+          "hash": "cfdba33cf7d4bcc94357b9bc370dfc85b68c61ec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137449$2E214455-6C51-4D5E-A690-F61C2DEFEAAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136995",
+              "numeric-id": 136995
+            }
+          },
+          "hash": "41a18ac0e7c26e4bb58d50821ceb6c708123fdad",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137449$5006134B-2196-43E5-B088-F232AF4EEFF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137449$8464B97C-1D31-4F1D-8551-5447C72E15A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137449$C8EE8B8F-72E6-46BD-BAB4-741545105940",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136627",
+              "numeric-id": 136627
+            }
+          },
+          "hash": "146e35678a13959da4867d9bca6a0227afd6d119",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137449$C0BE51D6-EF96-4C79-BE25-060A368D3519",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137320",
+              "numeric-id": 137320
+            }
+          },
+          "hash": "111c03be97a1bdff3ff54b55fcc1be7a61d0f245",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137449$13DA2057-7041-4BA1-8C81-7613BBFBD5BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137321",
+              "numeric-id": 137321
+            }
+          },
+          "hash": "574e95f99d86bda6482bdb34bd01d3fe61b45ef2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137449$B0583778-CE19-43CA-B8E5-9D6D78C751C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137449$0A85692D-CB20-4839-A49E-0AB0268CE845",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110582810"
+          },
+          "hash": "9ed395d3d8db823e81ca5396ff1b91e233e9c2bd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137449$330F6294-4EEE-409D-BE4F-5D952840D496",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Lleuki|Nest ferch Gwerstan ap Gwaithfoed"
+          },
+          "hash": "f5305bf7a6754030a5eaa66909968e5ed113a395",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137449$1C6DFD5D-35DD-4E80-9D9B-43A308BE26FA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lleuki|Nest ferch Gwerstan ap Gwaithfoed Arms.svg"
+          },
+          "hash": "9527daeb2d4bf0af21591d6c45d6c4d2bcd506a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q137449",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Lleuki|Nest ferch Gwerstan ap Gwaithfoed"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Lleuki|Nest ferch Gwerstan ap Gwaithfoed"
+    }
+  },
+  "lastrevid": 17554823,
+  "modified": "2025-09-17T11:11:33Z",
+  "ns": 860,
+  "pageid": 165834,
+  "sitelinks": {},
+  "title": "Item:Q137449",
+  "type": "item"
+}

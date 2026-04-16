@@ -1,0 +1,355 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Licinia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141647$D25737CE-5E40-4B51-9AAC-98755F5DC043",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735591"
+          },
+          "hash": "01d7c7ed7d34fd0b023d764f7a6d05ba33e84989",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141647$D23A3277-7FFD-4958-8B49-F487061EF37C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139740",
+              "numeric-id": 139740
+            }
+          },
+          "hash": "f3f50841b34d8b9d6740d8acb7c01e597c9465bc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141647$09B73761-48C7-47FC-A11E-123DD99F2128",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141648",
+              "numeric-id": 141648
+            }
+          },
+          "hash": "ace2d85af3722fdd1537d504b1844556f11f8ee5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141647$CDF1661F-11B0-4D32-B4ED-42E8954E0419",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141647$55AC62B4-DE5E-4872-B297-FDE4D72935A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141647$A20DBFB1-289B-46BE-B83D-283FFA262DCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141645",
+              "numeric-id": 141645
+            }
+          },
+          "hash": "2148406546e4dd00dcfdfc5d396f0dfd6fdacff4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141647$40DDAEE5-3BAE-4B31-B211-E08D9867AE21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144267",
+              "numeric-id": 144267
+            }
+          },
+          "hash": "e341ee99ece0cbdcfbb6e16fed7ba761ca64eb61",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141647$36585BAE-0C80-45E2-8EC8-735864C9B63D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144268",
+              "numeric-id": 144268
+            }
+          },
+          "hash": "69eeae74a28584e8c9739aea5ecb0bc8f80a5590",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141647$3120BD5A-4AC9-4249-87E5-47B3916A1E1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141647$74FB577E-4272-49F9-A990-BBBB4BAC64D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141647$B6E44BA6-0AD1-4BA8-ADBE-7D6488BD3486",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141647$2D960107-015F-49AE-89F2-9C46E84F8935",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q544348"
+          },
+          "hash": "edf104a4d36f600386d1982eb85423048794331e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141647$9907E0DD-B2AA-4CAF-990D-1C5D589FD965",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Licinia Arms.svg"
+          },
+          "hash": "783840066c95bc14b70a85653375103912693092",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gattin des Scipio Nasica"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Publius Cornelius Scipio Nasica"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate romaine, fille aînée de Lucius Licinius Crassus (consul en 95 av. J.-C.)"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשתו של פובליוס קורנליוס סקיפיו נאסיקה"
+    }
+  },
+  "id": "Q141647",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Лициния"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Licínia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Licinia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λικινία Πρίμα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Licinia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Licinia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Licinia"
+    },
+    "he": {
+      "language": "he",
+      "value": "ליקיניה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Licinia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Licínia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Licínia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лициния"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ліцинія Пріма"
+    }
+  },
+  "lastrevid": 17561622,
+  "modified": "2025-09-17T12:49:58Z",
+  "ns": 860,
+  "pageid": 170032,
+  "sitelinks": {},
+  "title": "Item:Q141647",
+  "type": "item"
+}

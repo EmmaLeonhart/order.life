@@ -1,0 +1,482 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Sulpicius Quirinius"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141491$CCC45CF8-CB8B-42F1-A336-41C678891EFE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735678"
+          },
+          "hash": "d704b9c05d9252350ed9e1ba7989971c7e165888",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141491$0D1B1B5A-F67E-4DF8-9744-DCFA64C1BB32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141491$6728C78C-DD8C-4452-97C5-9A150F8230E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141491$BC1F1395-824B-4601-B4ED-1D5317C2D82B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139627",
+              "numeric-id": 139627
+            }
+          },
+          "hash": "aed5456cc56536682d9b66c663d3c2660edeef16",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141491$9C3E30E0-CE47-4677-B723-41D4E851091F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141657",
+              "numeric-id": 141657
+            }
+          },
+          "hash": "4e41406b1b751133e616f92256e82523ec75130f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141491$A006250C-D359-4571-AE05-AB4DB5C14CFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144145",
+              "numeric-id": 144145
+            }
+          },
+          "hash": "11e5f3c099d0c857e97f1cca8528749e14951634",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141491$53F81456-3FD7-4931-92B3-331A98C0DE20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141491$FCA95154-9DA9-4323-9F9E-98C6FD630A4F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0045-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "85151ae67c6c3981bc51abc19596935a2a0eb2c7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141491$9D9C169F-9763-46EB-8C28-D8147F55DD13",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0021-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7e5133b1df09b5f1bb8a84da5029254bb33f9189",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141491$7BD5EA6B-44A3-4F50-9B2E-EA88E9E30FBA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313398"
+          },
+          "hash": "79bd821e245183a9c63d7facca277a291eb0d9cf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q141491$F270091A-93F1-4CF5-AC37-CF5A3E316EAE",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Sulpicius Quirinius"
+          },
+          "hash": "1e4c05663e677acb5ec9f8088c334c24f8c28dad",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141491$723B38F4-C2E7-4CF3-BCDB-22F4FAE3AE9B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Sulpicius Quirinius Arms.svg"
+          },
+          "hash": "d6e6bd8e9617fca61eadd7d4c4777a6956115ed0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "شخصيه من العهد الجديد"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "governador de Síria"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský aristokrat a úředník"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Senator, Statthalter der Provinz Syrien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman legate, consul and governor of Syria (c.51 BC-AD 21)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "romia senatano, konsulo en 12 antaŭ nia erao, provincestro de la romia provinco Sirio"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سرباز در روم باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin roomalainen senaattori"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 12 av. J.-C."
+    },
+    "he": {
+      "language": "he",
+      "value": "קונסול רומאי"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soldaat uit Oude Rome (45v Chr-21)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 12 года до н. э."
+    }
+  },
+  "id": "Q141491",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كيرينيوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كيرينيوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Публій Сульпіцый Квірыній"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Публий Сулпиций Квириний"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Sulpici Quirini"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Publius Sulpicius Quirinius"
+    },
+    "da": {
+      "language": "da",
+      "value": "Publius Sulpicius Quirinius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Sulpicius Quirinius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κουιρίνιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Sulpicius Quirinius"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Publius Sulpicius Quirinius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Sulpicio Quirinio"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کوئیرینیوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Publius Sulpicius Quirinius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Sulpicius Quirinius"
+    },
+    "he": {
+      "language": "he",
+      "value": "קוויריניוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publio Sulpicio Quirinio"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kirenius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Sulpicio Quirinio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クレニオ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Sulpicius Quirinius"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Публиј Сулпициј Квириниј"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Publius Sulpicius Quirinius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kvirinius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Sulpicius Quirinius"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Kvirinius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kwiryniusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Sulpício Quirino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Sulpício Quirino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Сульпиций Квириний"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kvirinije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Publius Sulpicius Quirinius"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Kvirinije"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Квириније"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Kvirinije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Publius Sulpicius Quirinius"
+    },
+    "th": {
+      "language": "th",
+      "value": "คีรินิอัส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Publio Sulpicio Quirinio"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квіріній"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "کورنیس"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薩爾皮丘·奎里紐"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "奎利纽斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "奎利紐斯"
+    }
+  },
+  "lastrevid": 17561366,
+  "modified": "2025-09-17T12:46:22Z",
+  "ns": 860,
+  "pageid": 169876,
+  "sitelinks": {},
+  "title": "Item:Q141491",
+  "type": "item"
+}

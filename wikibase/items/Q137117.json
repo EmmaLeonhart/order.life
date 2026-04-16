@@ -1,0 +1,347 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elpinice"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137117$426E108F-9323-413C-BF80-A5634B624ED7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "481818"
+          },
+          "hash": "533531aee7d68ad73e3935d7ed39a07da47c710e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137117$103388D3-FE38-470D-8625-F368A5C5A356",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136716",
+              "numeric-id": 136716
+            }
+          },
+          "hash": "983780e8e170606f53e5f139d824812123d37a4c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137117$61798783-468B-4B92-9173-8B8184AE0079",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137117$C3F7A8D3-5479-4650-A2A7-9ADA1840F1A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137117$DE7B9DB1-6780-4ABE-831D-9DA7B3CEEFF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137116",
+              "numeric-id": 137116
+            }
+          },
+          "hash": "c8c392135c5f7fccd1f6400e4b76722b45de7a7b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137117$8D9847E8-FFC5-4B93-805E-E2119A703339",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137632",
+              "numeric-id": 137632
+            }
+          },
+          "hash": "ddbd0329d1d9fa2d577552a53ed5b53e6810a1b2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137117$8B8C284F-7F81-4EBC-AB50-DC9F50B2E697",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137117$130A7E9F-5893-408E-8C06-479B5C001093",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a2a9e4e2db5ed6e5a0a3d28134489b93b4389d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137117$F4AAC92D-E016-45F5-ADE7-97E5ED451E75",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44119c959cac6afb87e8e6eebf60598f9ed02743",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137117$CEF552B1-77A7-4DDB-AE39-A3AAAA7C65DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q270287"
+          },
+          "hash": "ff7e81fcfe35caf4aa98f640ea69ff78f3802a13",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137117$019332DF-E435-4BB9-BFB3-889E41D2CA18",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elpinice Arms.svg"
+          },
+          "hash": "f5f242f2ae754248a53e1f076e6ee1ff96fe2498",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "noble atenesa"
+    },
+    "de": {
+      "language": "de",
+      "value": "athenische Adlige, Halbschwester und Ehefrau des Kimon"
+    },
+    "el": {
+      "language": "el",
+      "value": "κόρη του Μιλτιάδη και αδελφή του Κίμωνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th-century BC Athenian noblewoman"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille de Miltiade"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlia di Milziade e sorella di Cimone"
+    }
+  },
+  "id": "Q137117",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Эльпініка"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Elpinice"
+    },
+    "de": {
+      "language": "de",
+      "value": "Elpinike"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ελπινίκη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Elpinice"
+    },
+    "es": {
+      "language": "es",
+      "value": "Elpinice"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Elpinize"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Elpinike"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Elpinice"
+    },
+    "id": {
+      "language": "id",
+      "value": "Elpinice"
+    },
+    "it": {
+      "language": "it",
+      "value": "Elpinice"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エルピニケ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Elpinice"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elpinice"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Elpinice"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Elpinice"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эльпиника"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Elpinike"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ельпініка"
+    }
+  },
+  "lastrevid": 17554209,
+  "modified": "2025-09-17T11:02:56Z",
+  "ns": 860,
+  "pageid": 165502,
+  "sitelinks": {},
+  "title": "Item:Q137117",
+  "type": "item"
+}

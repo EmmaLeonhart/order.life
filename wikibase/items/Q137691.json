@@ -1,0 +1,352 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pythodoros of Tralles"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137691$10BD9CFD-156D-4CD9-8088-FD3437523DBD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "401236"
+          },
+          "hash": "fbc4b56ac0740c2fc1aeb8d7073e777d36b5415b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q137691$BD7BCC7B-A37E-4670-87E9-AF3FFE2148CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738165"
+          },
+          "hash": "91eef2f08df2ccd85b97a0dc5c9a3c40db7ab498",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137691$3ABA1C02-1BFE-40A3-8F0F-0FB7CB94DF7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137692",
+              "numeric-id": 137692
+            }
+          },
+          "hash": "0e779bfae524a0da03f4c4ce06557f98660f0d3e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137691$68F3E1DE-253C-4CD3-9CE4-BEC15F32B7B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137691$0E6E3441-3F26-4F42-A3A1-11E9FFD8593E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137691$A717D6A8-6DF5-4DBE-84D6-BAB9C2DE11C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pythodoros_of_Tralles_(1)"
+          },
+          "hash": "4733c6267f8ad84c5558c5a0e6b3fb2b00a72ea8",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137691$DFAA49CE-0D18-4AEE-ACA4-D373A6D0AD84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137154",
+              "numeric-id": 137154
+            }
+          },
+          "hash": "479126148d7938fb4d6b60419ef2e11406459276",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137691$05E641C1-9043-49A5-BFAF-15D54F7D36AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137691$3FA541AE-B704-4D62-A47E-4D880066B528",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0070-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eae8f974fbfc64d244ec1918892a186bad4b670e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137691$D203D78C-CDE8-430A-8BAC-0ACD6031D4B8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "19585ebc3231970eccfe06ed51100345dc7e3572",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137691$51A39BB3-7D8E-4B0F-BD9E-51FE64197648",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3298190"
+          },
+          "hash": "b96aa726eed4366ce5dc42fd482b24bc5f247f1a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137691$0867F907-1384-46AB-A21D-34E43B79A3EB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pythodoros of Tralles Arms.svg"
+          },
+          "hash": "d705e72a58485def035af559cd44cbe18cf4ee2b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "gendre de Marc Antoni"
+    },
+    "de": {
+      "language": "de",
+      "value": "Griechischer Politiker der Antike"
+    },
+    "en": {
+      "language": "en",
+      "value": "son-in-law of Mark Antony"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyen de Tralles, beau-fils de Marc Antoine"
+    },
+    "it": {
+      "language": "it",
+      "value": "genero di Marco Antonio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q137691",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Питодор"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pitodor de Tral·les"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pythodoros von Tralleis"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πυθόδωρος ο Τραλλιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pythodoros of Tralles"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pythodoros of Tralles"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pythodoros of Tralles"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pitodoro de Trales"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pythodoros de Tralles"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיתודורוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pitodoro di Tralle"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pythodoros of Tralles"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pytodoros z Tralles"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pitódoro de Trales"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pitódoro de Trales"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пифодор из Тралл"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Піфодор з Тралл"
+    }
+  },
+  "lastrevid": 17555111,
+  "modified": "2025-09-17T11:15:43Z",
+  "ns": 860,
+  "pageid": 166076,
+  "sitelinks": {},
+  "title": "Item:Q137691",
+  "type": "item"
+}

@@ -1,0 +1,406 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Appius Claudius Pulcher"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139556$5FCBC4DD-E59C-46B0-8751-1DDB0197AEC5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00695429"
+          },
+          "hash": "47d13633607c5536f0ade6968931e4042fa4d159",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139556$8E8C132A-3E98-4EEA-839D-24C6283CF58F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139627",
+              "numeric-id": 139627
+            }
+          },
+          "hash": "a31a52a45d73199fa5de9e348eaf5920dd5c51bc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139556$28B0089F-B9B9-4FC6-8B0C-BA52CB08E19F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138433",
+              "numeric-id": 138433
+            }
+          },
+          "hash": "57d99079d94062058abe45744b3508b159e3abd7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139556$6CB9F7D8-1F4A-46BD-B4D6-E200E856AB6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139556$C758D72F-264B-4A48-8F3B-4A232E634544",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139556$F0273825-61FC-4DF4-A796-FE3C931A9B59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138401",
+              "numeric-id": 138401
+            }
+          },
+          "hash": "adfca9d3b7b95eb2090e3a90ed0926c22273a495",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139556$D9821F47-E62F-46C0-BB34-7299770392DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139556$A6B93100-2415-4934-AEF1-66FFF60BE49C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0075-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cb22c59828d6e2b9aab65a88fb3a8fd56b523bb4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139556$677EE051-0C6A-4EEC-B86B-7A391F53788A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139556$56441C85-330D-41B9-BF05-0CEB7D3DB2E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q621137"
+          },
+          "hash": "b706f3b6e19cf3fac457ee9af40b67c9c7a0274c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139556$ED695620-DF73-4D4E-BCED-ADB98023CB87",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Appius Claudius Pulcher"
+          },
+          "hash": "861d7764ea61f6965048019d4d7d3196498935bb",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139556$35AFA193-4AED-4D26-8B90-E9C53FF13D44",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Appius Claudius Pulcher Arms.svg"
+          },
+          "hash": "3e1c92b6ee9eb24f3b2cd187c8bd3658fd278579",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol 38 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 38 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 38 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul 38 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 38 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 38 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "consul uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 38 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk konsul 38 f.Kr."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "давньоримський консул"
+    }
+  },
+  "id": "Q139556",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Apiu Claudio Pulcro"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Апий Клавдий Пулхер (консул 38 пр.н.е.)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Api Claudi Pulcre"
+    },
+    "de": {
+      "language": "de",
+      "value": "Appius Claudius Pulcher"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άππιος Κλαύδιος Πούλχερ (ύπατος το 38 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Appius Claudius Pulcher"
+    },
+    "es": {
+      "language": "es",
+      "value": "Apio Claudio Pulcro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Appius Claudius Pulcher"
+    },
+    "he": {
+      "language": "he",
+      "value": "אפיוס קלאודיוס פולכר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Apio Claudio Pulcro"
+    },
+    "it": {
+      "language": "it",
+      "value": "Appio Claudio Pulcro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アッピウス・クラウディウス・プルケル"
+    },
+    "la": {
+      "language": "la",
+      "value": "Appius Claudius Pulcher"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Appius Claudius Pulcher"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Appius Claudius Pulcher"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Appiusz Klaudiusz Pulcher (konsul 38 p.n.e.)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ápio Cláudio Pulcro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ápio Cláudio Pulcro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аппий Клавдий Пульхр"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Appius Claudius Pulcher"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Appius Claudius Pulcher"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аппій Клавдій Пульхр"
+    }
+  },
+  "lastrevid": 17558093,
+  "modified": "2025-09-17T11:58:06Z",
+  "ns": 860,
+  "pageid": 167941,
+  "sitelinks": {},
+  "title": "Item:Q139556",
+  "type": "item"
+}

@@ -1,0 +1,347 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Faustus Cornelius Sulla"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138449$CFD0BB4C-783D-4970-9E3D-7A26320CCCAF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735464"
+          },
+          "hash": "f22ac0bcbe005d2b25459a3a20ec3b15349cdd12",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138449$CDA87D75-DB48-4560-8522-E7DCC97ED1DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138453",
+              "numeric-id": 138453
+            }
+          },
+          "hash": "760169b451f889c21322cfb38080a1bc0b04badc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138449$B0FD701E-3E11-4C52-9232-7115A787AA59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138449$F0B1A83D-A18F-47DC-BBC3-0674143AA117",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138449$9D25DA58-44D5-4319-89BC-FB323CE851B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137701",
+              "numeric-id": 137701
+            }
+          },
+          "hash": "73a0edb84c41943a0b8d9a94da5577cfcd5bdc2b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138449$EDA47091-DB62-47C8-B076-A37E559B663E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139656",
+              "numeric-id": 139656
+            }
+          },
+          "hash": "7b109db019b6eb800a07238d8214fc1feba094a2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138449$C0B80879-D305-48B0-A17D-62934B97EED4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138449$A2462645-2469-4F9E-92DA-B8E932B46552",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138449$C6E3419D-9B62-4F2C-9E55-E1C803374663",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "093131f0722b63dbcc4c162246fd7b69c288b5b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138449$4C352C5B-8E39-44AB-BEBE-0B178BF97855",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1365457"
+          },
+          "hash": "ceb0a298d8ac1bf61712ef989524fd79ced21b53",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138449$228E6B6B-72EE-4CBD-91E2-BE5E7BA72DB6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Faustus Cornelius Sulla Arms.svg"
+          },
+          "hash": "50e960ae96287a004bdd510bb130297db033287f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من روما القديمه"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul 31"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century AD Roman senator"
+    },
+    "es": {
+      "language": "es",
+      "value": "Senador romano y cónsul sufecto en el año 31"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 31"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    }
+  },
+  "id": "Q138449",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فاوستس كورنيليوس سولا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фауст Корнелий Сула"
+    },
+    "de": {
+      "language": "de",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φαύστος Κορνήλιος Σύλλα (ύπατος το 31)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fausto Cornelio Sila"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "he": {
+      "language": "he",
+      "value": "פאוסטוס קורנליוס סולה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fausto Cornelio Silla"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ファウストゥス・コルネリウス・スッラ・ルクッルス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Faustus Cornelius Sulla Lucullus III"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Faustus Korneliusz Sulla Feliks (konsul 31 n.e.)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fausto Cornélio Sula Lúculo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fausto Cornélio Sula Lúculo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фавст Корнелий Сулла Лукулл"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фавст Корнелій Сулла Лукулл"
+    }
+  },
+  "lastrevid": 17556303,
+  "modified": "2025-09-17T11:32:47Z",
+  "ns": 860,
+  "pageid": 166834,
+  "sitelinks": {},
+  "title": "Item:Q138449",
+  "type": "item"
+}

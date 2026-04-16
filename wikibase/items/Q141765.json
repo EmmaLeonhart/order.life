@@ -1,0 +1,584 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Ummidius Quadratus Annianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141765$B1D757C0-7E15-470A-B0CB-86D52D760D54",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "722399"
+          },
+          "hash": "d5031dd323b525079a278864a3e09773e73d3bc1",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141765$B19177F2-93FD-4072-863A-FD0906A8C742",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141765$213C8CB8-3433-411B-BBEB-E62216CCE081",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141765$511C75E3-B2B7-4624-BCF5-CE95F9365594",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus_Ummidius_Quadratus_Annianus_(1)"
+          },
+          "hash": "b06ec06a4b330a8bfa09dfdc7c450f621c865e07",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141765$4A93E310-9A89-499B-86B3-B6ACFD531673",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65192",
+              "numeric-id": 65192
+            }
+          },
+          "hash": "ad0f7feb10673299a576a35d0dedf64e576e2b27",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141765$2559C434-F72B-4145-9FFB-F52C9831FF8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65225",
+              "numeric-id": 65225
+            }
+          },
+          "hash": "483019674a84efaa50fee8224f1b4fec31eea619",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141765$BC0288D1-6A8B-4B26-9516-B1B63F2636B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141765$11F9DDCF-83D7-47A0-A403-521DF9C6B57E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0138-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a2f05444327a3d59aca56a0bbd904f41618d035e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141765$5D5BF407-9C8F-4CA5-B1CD-1FAB5FCD50A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0182-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "273807a0775e636738ff62971c073d5646e12c2a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141765$DFEA0258-3808-431B-AADA-CCC84A9E3E13",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q26471"
+          },
+          "hash": "60c51938f58f5c9902557d9307b42c1eba8fb08f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q141765$1F6D2CE1-3A19-41F1-AB74-E35C284423C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000041282806339"
+          },
+          "hash": "6a814f78bcd407c3127e96b8ccec976782fd296e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141765$B028B499-A703-459D-9340-51ACF6A0E5E0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Ummidius Quadratus Annianus Arms.svg"
+          },
+          "hash": "2ae87856dfc9afb467cef88ec6979c8e5ee709e6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من روما القديمه"
+    },
+    "da": {
+      "language": "da",
+      "value": "italiensk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 167"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος πολιτικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman senator and consul (138-182)"
+    },
+    "es": {
+      "language": "es",
+      "value": "político"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار ایتالیایی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "italialainen poliitikko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 167"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "italiensk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Italiaans politicus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "italiensk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "italiensk politiker"
+    }
+  },
+  "id": "Q141765",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "an": {
+      "language": "an",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ماركوس اميديوس كوادراتوس انيانوس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Умидий Квадрат Аниан"
+    },
+    "br": {
+      "language": "br",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ummidi Quadrat (cònsol)"
+    },
+    "co": {
+      "language": "co",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Marco Numidio Quadrato"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Ουμίδιος Κουαδράτος Αννιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Ummidius Quadratus Annianus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Umidio Cuadrato Anniano"
+    },
+    "et": {
+      "language": "et",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Marcus Ummidius Quadratus Annianus"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Numidio Quadrato"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마르쿠스 움미디우스 콰드라투스 안니아누스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "li": {
+      "language": "li",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Marco Numidio Quadrato"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Marco Numidio Quadrato"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ummidiusz Kwadratus"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Уммидий Квадрат Анниан"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Umidije Kvadrat Anijan"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marco Numidio Quadrato"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Marcus Ummidius Quadratus Annianus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Уммідій Квадрат"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Marcus Ummidius Quadratus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "馬爾庫斯·烏米迪烏斯·夸德拉圖斯"
+    }
+  },
+  "lastrevid": 17561802,
+  "modified": "2025-09-17T12:52:34Z",
+  "ns": 860,
+  "pageid": 170150,
+  "sitelinks": {},
+  "title": "Item:Q141765",
+  "type": "item"
+}

@@ -1,0 +1,569 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Julia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137159$2281A62C-6E75-44E0-9BC6-4FAEBA7DF9B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446751"
+          },
+          "hash": "b9d590e0237d319fda906b746d1d820f23878697",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137159$6D1BD6D6-6943-4306-82AF-97ED332A633D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137714",
+              "numeric-id": 137714
+            }
+          },
+          "hash": "c803ffba94830ec74ba65c23e09ba1c827087946",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137159$65007D83-425D-44DD-A187-1564BF30D917",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137159$7F0D739A-57B4-465D-92DC-366C4FE1D0A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137159$3AAA933A-3069-445F-AD43-18AE8A674360",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Julia_(daughter_of_Julius_Caesar)_(1)"
+          },
+          "hash": "7e0c98740fd9a3ee4da7a235f9d8180beca4ef48",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137159$C137A18B-2EB4-47A4-B932-50170FBB8AAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72269",
+              "numeric-id": 72269
+            }
+          },
+          "hash": "6fa2544579c3259dd8f134e58a70dc43119b3c95",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137159$9EE4CB30-CB93-4E2F-8A93-1BAFCADD46FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137158",
+              "numeric-id": 137158
+            }
+          },
+          "hash": "6c35e02a4d47c4fa18c8b8c0680578582506247a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137159$E62FB60A-3B24-48C5-9CCC-877369BB7087",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137710",
+              "numeric-id": 137710
+            }
+          },
+          "hash": "9f5e603bdfe436b6244fed9644e26f589de8f7b3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137159$9CEA9D07-7F51-4972-A4E7-C1C023020B5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137159$8839F2F5-6890-4D02-BA44-B51499326EA3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0073-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d9f2e82119bbf8a87b0ee8a5832273af83570b95",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137159$2DDD8500-F58D-48B5-94D1-717AECE94943",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0054-08-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "394495297174e78b8c0a144e9b0aba20bf27c73b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137159$021D91F6-D5D3-456B-BA8D-C1B310ADE33F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q235087"
+          },
+          "hash": "38fa8eab479ebae27c0e82457f13cd62cc6221c7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137159$903D5B8F-FA70-4B68-AD0A-176FBE630942",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Julia Arms.svg"
+          },
+          "hash": "3314be47538ca7a41aaf99fa783e4bafe0fbabd9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ابنة يوليوس قيصر"
+    },
+    "az": {
+      "language": "az",
+      "value": "Qədim Roma matronu, Qay Yuli Sezarın qızı və Qney Pompeyin həyat yoldaşı"
+    },
+    "be": {
+      "language": "be",
+      "value": "дачка Юлія Цэзара"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "дачка Юліюса Цэзара і Карнэліі Цыны-малодшай"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "merch Iŵl Cesar a Cornelia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter Caesars"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιουλίου Καίσαρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Julius Caesar and Cornelia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "filino de Julio Cezaro kaj Korneliino Cinna"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija de Julio César"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Julius Caesarin tytär"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille de Jules César et de Cornelia Cinna"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "filla de Xulio César e Cornelia"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana, figlia di Gaio Giulio Cesare e moglie di Gneo Pompeo Magno"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dochter van Julius Caesar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римская матрона, дочь Гая Юлия Цезаря"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "dotter till Julius Caesar"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Julius Caesar ve Cornelia Cinna'nın kızı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римська патриціанка"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "con gái của Julius Caesar và Cornelia Cinna minor"
+    }
+  },
+  "id": "Q137159",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "جوليا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جوليا"
+    },
+    "az": {
+      "language": "az",
+      "value": "Yuliya"
+    },
+    "be": {
+      "language": "be",
+      "value": "Юлія Цэзарыс"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Юлія"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Юлия"
+    },
+    "br": {
+      "language": "br",
+      "value": "Julia"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Julija Cezaris (kćer Julija Cezara)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Júlia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Julia Caesaris"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Iulia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Julia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Iulia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιουλία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Julia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Julia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Julia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Juliino"
+    },
+    "es": {
+      "language": "es",
+      "value": "Julia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Julia Zesaris"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ژولیا (دختر سزار)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Julia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Julia"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Julia"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xulia"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוליה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Iulia Caesaris"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հուլիա Կեսար"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giulia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ユリア"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iulia"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ജൂലിയ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Julia Cæsaris"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Iulia Caesaris"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Julia Cæsaris"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Julia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Júlia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Júlia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Iulia Caesaris"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юлия Цезарис"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Julija Cezaris (kćer Julija Cezara)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Julia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Julia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юлія Цезаріс"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "جولیا"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Julia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "茱利亚"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "茱莉亚 (凯撒之女)"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "茱利亚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "茱莉亞 (凱撒之女)"
+    }
+  },
+  "lastrevid": 17554285,
+  "modified": "2025-09-17T11:04:02Z",
+  "ns": 860,
+  "pageid": 165544,
+  "sitelinks": {},
+  "title": "Item:Q137159",
+  "type": "item"
+}

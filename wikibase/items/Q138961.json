@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Thomas Barry, of Ewyas Lacy"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138961$0263C1A3-24B1-4C63-9AD4-28AEFFBF3C9D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00700888"
+          },
+          "hash": "3c31a432bbcf45c91f3728fc18b27c87ac07b13d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138961$DF572EF2-5F1F-4C49-AD82-50657F5ABE1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138001",
+              "numeric-id": 138001
+            }
+          },
+          "hash": "ccc242d859d7960fd817b0b341f1d79869b2fb12",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138961$1957AC3C-6961-4BA4-9B82-4B05948BBFC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138000",
+              "numeric-id": 138000
+            }
+          },
+          "hash": "8b04f297f4fea322e41eb2de3b6eec401be2f4e3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138961$19712209-0E4C-4B2A-B4A5-63D2A4A52774",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138961$A10FADF7-E273-4797-98A8-45344550D939",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138961$AB1271EF-45CE-4751-A397-B1C9E80A644F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137372",
+              "numeric-id": 137372
+            }
+          },
+          "hash": "2c0e051f2fd3e844312d453586698ba1e15aecad",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138961$C24EC3A8-6632-4BD6-9E6F-C403C57F533B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140501",
+              "numeric-id": 140501
+            }
+          },
+          "hash": "182169f5d00b78db7309b21d4d933b3693542970",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138961$7846E1AE-2C3A-4696-B846-C40D33EF7FF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140502",
+              "numeric-id": 140502
+            }
+          },
+          "hash": "3923429f151e206f94dd375cf6c261aa74f14966",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138961$CF6CAADD-418F-4CFE-BBBE-E2245B215143",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138961$44AAB261-008E-4C05-9C89-0AFBE1684FD2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99084921"
+          },
+          "hash": "388e6d58ca58706cb81e8945471413609cd962c4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138961$7E2D1B77-8B2D-4E4F-A775-1653F735732B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Thomas Barry, of Ewyas Lacy Arms.svg"
+          },
+          "hash": "6f2f628d2b7788239f99a64559ae08ba07401095",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q138961",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir Thomas Barry, of Ewyas Lacy"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir Thomas Barry, of Ewyas Lacy"
+    }
+  },
+  "lastrevid": 17557243,
+  "modified": "2025-09-17T11:46:09Z",
+  "ns": 860,
+  "pageid": 167346,
+  "sitelinks": {},
+  "title": "Item:Q138961",
+  "type": "item"
+}

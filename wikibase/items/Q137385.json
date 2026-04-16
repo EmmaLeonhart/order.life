@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137385$5D22D355-0DC9-495E-A0F6-4144357B8B70",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00758939"
+          },
+          "hash": "cb12ea20a2363ac72cfa053c267d5c6533e11fa7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137385$4B2E7EAC-6C94-454E-83D0-71D557D45DEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136958",
+              "numeric-id": 136958
+            }
+          },
+          "hash": "1609465dd013bd62f502677f1699cab205fcc311",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q137385$726FFD04-2F6D-429A-A7F7-B0F1AEE0B933",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Iorwerth-36"
+          },
+          "hash": "8a973d6dce8a67564ad32bdb55c134245089b1f6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137385$2A587414-0CEF-4550-9176-6A4EA7B549F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137385$135F19DC-51DF-405F-9066-60BE44223F60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137385$CB6D5591-6E42-4AA8-8162-87FC47C12FFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136996",
+              "numeric-id": 136996
+            }
+          },
+          "hash": "b3cc05581c49755a9190cdeaa70db4e8eeb103c4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137385$6AEA0D9F-CF71-4E4A-BECA-0AB3E10AB2F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137385$C3D348F0-8CEE-46EA-8CF1-BDCEF1167415",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1015-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dae63500bf1fc2a43bccf73f5862da223a3482ce",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137385$088D8AA3-FD70-4064-B465-1EECD9B22D42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110560367"
+          },
+          "hash": "3ed163073856136406adcb11f8fcd174b6e3ccc3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137385$48FC31D5-1E9A-409D-A605-14D55F0922DB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick"
+          },
+          "hash": "985744915674ada90c41faad1e13bfa862fa6939",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137385$05591B88-A273-4E9E-887F-EEF7B8A3B0F6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick Arms.svg"
+          },
+          "hash": "c3692151c144010af40fd328cbcb6e6482800107",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1015 - est."
+    }
+  },
+  "id": "Q137385",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick"
+    }
+  },
+  "lastrevid": 17554695,
+  "modified": "2025-09-17T11:09:45Z",
+  "ns": 860,
+  "pageid": 165770,
+  "sitelinks": {},
+  "title": "Item:Q137385",
+  "type": "item"
+}

@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Pompeius"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q139720$A1085AFD-F1C7-4A5F-AA0C-0B2152946929",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139720$C2E95FC3-6125-4FD7-AE12-B0DCFD290C92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139720$666D1B9F-DDC2-473A-8414-8337B72FFE2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138494",
+              "numeric-id": 138494
+            }
+          },
+          "hash": "44b53019275e45b136968cbf105566bc73bdf47a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139720$0D99275C-A23A-465D-A7AE-07F509CE38FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139720$1B991AB0-C9CF-4351-9B4B-E4A19C1CE6D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139720$1E631EFF-F391-48F2-AEF2-32877DB72F93",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0014-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4066e10f07764cc3902b98e61bda6856dc09ba62",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139720$FB14CF6F-F722-4C5E-A41B-184BAE8EA243",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1533153"
+          },
+          "hash": "5b10eb91aa78f284a7ed02098f9929e93ee14700",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139720$752E44BE-A099-481A-BAFE-AD2BC69F72A9",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Pompeius"
+          },
+          "hash": "d3dafbb5e3e5120c8449dedc0f2ca48d566f675d",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139720$593F96B6-F301-4167-BCEA-9FB37F5D0C34",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Pompeius Arms.svg"
+          },
+          "hash": "e9a0f58fa36d5cb1ca11d47bc4d46cb35aba8a4d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul 31 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman suffect consul in 31 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 31 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-14)"
+    }
+  },
+  "id": "Q139720",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гней Помпей (консул 31 пр.н.е.)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gneu Pompeu (cònsol 31 aC)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Pompeius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γναίος Πομπήιος (ύπατος το 31 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Pompeius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Pompeyo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Pompeius"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cneo Pompeyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グナエウス・ポンペイウス (紀元前31年の補充執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Pompeius"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gnaeus Pompeius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaeus Pompeius"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cneu Pompeu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cneu Pompeu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гней Помпей (консул-суффект 31 года до н. э.)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gnaeus Pompeius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Помпей"
+    }
+  },
+  "lastrevid": 17558365,
+  "modified": "2025-09-17T12:01:58Z",
+  "ns": 860,
+  "pageid": 168105,
+  "sitelinks": {},
+  "title": "Item:Q139720",
+  "type": "item"
+}

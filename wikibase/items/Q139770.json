@@ -1,0 +1,395 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Julia Balbilla"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139770$9B57CBAB-351C-417C-8994-DBAF258F43DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738048"
+          },
+          "hash": "deb969ae72110500fc9356b704a9207fb9ca529d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139770$75E695E5-17BA-45C5-AE72-0F18AA93AF51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139770$70183613-15E2-4C43-B568-808FB3A1A503",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139770$9C10E03F-9732-4FA2-A543-002AF40E5FDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138516",
+              "numeric-id": 138516
+            }
+          },
+          "hash": "9bc191ce6bc660c7745d922752d9b38f21cea513",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139770$B12F0B9B-DB65-411A-9D32-63587F48B869",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139769",
+              "numeric-id": 139769
+            }
+          },
+          "hash": "2030fcd8c1e7891344ed7094de2d7defc8f04b39",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139770$05DF0539-5C01-425B-A048-2F6117F80B55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139770$CE1C35A7-E9C1-4598-B909-DC1F0A63B6AD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0072-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e4f335bc0245ba68612b995b8a202826723da3dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139770$23A36C63-67FF-43FD-8C53-65A05C32543B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0130-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "546ae828162fe762326eaf20f98f1d27213b75b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139770$805C8CCB-B6A9-46C9-B775-D07DF943483A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q441786"
+          },
+          "hash": "f4f8f9cc4caf54693c3fe032b417675d4a0c93fb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139770$1AACB37F-19C2-42A9-9A6A-BEE576FE6BA3",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Julia Balbilla"
+          },
+          "hash": "3d6b930613e337ab17e02850abb89bfefad9a055",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139770$603DB58A-C494-4C0D-BF04-60937F056991",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Julia Balbilla Arms.svg"
+          },
+          "hash": "dfb9a61825b9e951a7a4ffc35873895b6562f5ca",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "شاعره من روما القديمه"
+    },
+    "de": {
+      "language": "de",
+      "value": "römische Dicherin"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman noble woman and poet"
+    },
+    "es": {
+      "language": "es",
+      "value": "poetisa romana"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نویسنده و شاعر ایتالیایی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poétesse romaine"
+    },
+    "he": {
+      "language": "he",
+      "value": "משוררת וסופרת רומאית"
+    },
+    "it": {
+      "language": "it",
+      "value": "poetessa greca antica"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Italiaans dichter (100-200)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk författare"
+    }
+  },
+  "id": "Q139770",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "جوليا بالبيلا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جوليا بالبيلا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Юлия Балбила"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জুলিয়া বলবিলা"
+    },
+    "br": {
+      "language": "br",
+      "value": "Julia Balbilla"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Júlia Balbil·la"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Julia Balbilla"
+    },
+    "da": {
+      "language": "da",
+      "value": "Giulia Balbilla"
+    },
+    "de": {
+      "language": "de",
+      "value": "Iulia Balbilla"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιουλία Βαλβίλλα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Julia Balbilla"
+    },
+    "es": {
+      "language": "es",
+      "value": "Julia Balbilla"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Julia Balbila"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Julia Balbilla"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוליה בלבילה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Julia Balbilla"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giulia Balbilla"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iulia Balbilla"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Julia Balbilla"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Giulia Balbilla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Julia Balbilla"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Giulia Balbilla"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਜੂਲੀਆ ਬਾਲਬਿਲਾ"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Julija Balbila"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Julia Balbilla"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Julia Balbilla"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юлія Бальбілла"
+    }
+  },
+  "lastrevid": 17558443,
+  "modified": "2025-09-17T12:03:03Z",
+  "ns": 860,
+  "pageid": 168155,
+  "sitelinks": {},
+  "title": "Item:Q139770",
+  "type": "item"
+}

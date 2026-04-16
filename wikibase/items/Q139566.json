@@ -1,0 +1,584 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Quinctilius Varus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139566$FD97AD00-0180-47F0-A86E-E42ABC5B158D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735509"
+          },
+          "hash": "f7b52c984d139829e70f597e44711d1d67ea70b5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139566$967DEF1E-0F23-494C-8DCD-A4EA2C4FCB37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139567",
+              "numeric-id": 139567
+            }
+          },
+          "hash": "8e5dd089b293962cc5d752408cdd2bfd1b0a4523",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139566$894C6BCF-7686-4DA0-BC6B-64917903A38B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139566$629D42D6-7E85-46BF-94F2-084614B2242A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139566$BF649F0A-C4FA-4C80-8C5E-111656F8D332",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138408",
+              "numeric-id": 138408
+            }
+          },
+          "hash": "7fc8041985f09ae30d0c345d63f3b4abaf072c3b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139566$47606E4A-2399-4D1B-83F3-5DE7DD73EF15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138431",
+              "numeric-id": 138431
+            }
+          },
+          "hash": "1861dded15b9c2556ebefc24f1e06a5feccb4523",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139566$B362CA3F-10DF-4E00-A942-9F2FACCC79B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72404",
+              "numeric-id": 72404
+            }
+          },
+          "hash": "d1d5889de4845bff8158a73ef436b5eb83fb9f56",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139566$21ED1851-08A6-4AAE-835E-D653D86682CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72401",
+              "numeric-id": 72401
+            }
+          },
+          "hash": "75c701fb17dca06b397d1604adaa8715703af9a8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139566$1F3E3D14-909F-4431-B2E6-F33F896CE150",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139566$259E2FE4-92D4-4406-83FE-687FED9A9065",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0046-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "53d2d3fbdef4525af15c9593a8961fc7aa02c7ef",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139566$1328193C-1B7A-4AE3-9411-C697BDAF3014",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0009-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "87fcd8ce5d742767ff885d891b02757d31512d85",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139566$CB33E944-70B9-4EB1-A775-C27F9B21F88B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q214765"
+          },
+          "hash": "b479075c9fe883e1e9bf54b88dbaeb13d2798f77",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139566$7C1251E2-CAF5-4075-992A-470466FD4D76",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Quinctilius Varus"
+          },
+          "hash": "87a3e35acea6b6b3b694d02e36b6d2edc3df9083",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139566$65969468-9690-4844-B6CE-CB44E6D6ED73",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Quinctilius Varus Arms.svg"
+          },
+          "hash": "dcde2becc71e3adae690c8a6e7fe7ada4117bf8b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من روما القديمه حكم المانيا"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "governador i militar romà"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský politik a vojevůdce"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul und Feldherr"
+    },
+    "en": {
+      "language": "en",
+      "value": "early Roman Imperial governor of Germania"
+    },
+    "es": {
+      "language": "es",
+      "value": "gobernador y militar romano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "général et homme politique romain"
+    },
+    "id": {
+      "language": "id",
+      "value": "Jendral dan politisi Roma"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e generale romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (46v Chr-9n Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский военачальник и политический деятель"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Romalı devlet adamı ve general"
+    }
+  },
+  "id": "Q139566",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Publius Quinctilius Varus"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بوبليوس كوينكتيليوس فاروس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "پوبليوس كوينكتيليوس ڤاروس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Публий Квинтилий Вар"
+    },
+    "br": {
+      "language": "br",
+      "value": "Varus"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Publije Kvintilije Var"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Quintili Var"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Publius Quinctilius Varus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Publius Quinctilius Varus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Quinctilius Varus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Κουινκτίλιος Βάρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Quinctilius Varus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Publio Kvintilio Varo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Quintilio Varo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Publius Quinctilius Varus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Varo"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Publius Quinctilius Varus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Varus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Publius Quinctilius Varus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Publio Quintilio Varo"
+    },
+    "he": {
+      "language": "he",
+      "value": "פובליוס קווינקטיליוס וארוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publius Quinctilius Varus"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Քվինտիլիոս Վարոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Publius Quinctilius Varus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Publius Quinctilius Varus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Quintilio Varo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プブリウス・クィンクティリウス・ウァルス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პუბლიუს კვინტილიუს ვარუსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "푸블리우스 큉크틸리우스 바루스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Quinctilius Varus"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Publijs Kvintīlijs Vārs"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Публиј Квинтилиј Вар"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Publius Quinctilius Varus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Publius Quinctilius Varus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Publius Quinctilius Varus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Quinctilius Varus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Publius Quinctilius Varus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Warus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Quintílio Varo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Quintílio Varo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Publius Quinctilius Varus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Квинтилий Вар"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Publius Quinctilius Varus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Publije Kvintilije Var"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Publij Kvintilij Var"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Quinctilius Varus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Публије Квинтилије Вар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Varus"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Varus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Publius Quinctilius Varus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Квінтілій Вар"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Publius Quinctilius Varus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "瓦盧斯"
+    }
+  },
+  "lastrevid": 17558113,
+  "modified": "2025-09-17T11:58:23Z",
+  "ns": 860,
+  "pageid": 167951,
+  "sitelinks": {},
+  "title": "Item:Q139566",
+  "type": "item"
+}

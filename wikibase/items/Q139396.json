@@ -1,0 +1,390 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Olaf (II) Haraldsen"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139396$DF3AF14D-0094-4000-92D5-118302B84015",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00722372"
+          },
+          "hash": "d8f8ffe3db4cac2f003b7da3c5c0fd4d3ecb0670",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139396$AB3BFDF2-37ED-46D7-9783-31ABB8820FC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141225",
+              "numeric-id": 141225
+            }
+          },
+          "hash": "93beab6c01e47cdea46c7d88892999ca5792bfd5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q139396$950EB940-03DE-4A33-8D36-C843DD356BD0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Haraldsen-1"
+          },
+          "hash": "674d9aee3f82ca6fc99f84edaac07418159da615",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139396$0F17E2C3-F169-43AE-B9B8-D46FDD3A4E8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139396$FEE15C23-E4D0-44A2-8A4C-7FD8701DC5C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139396$31F23921-3CF1-4070-BED9-FBD0573C8945",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139171",
+              "numeric-id": 139171
+            }
+          },
+          "hash": "51db90c5eb3d41baa0d1cff6fa03942bfd5030a3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139396$5BF4C57A-9ADD-4D2E-86B3-557E1EFF926E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138268",
+              "numeric-id": 138268
+            }
+          },
+          "hash": "f7f9ef7a10a4dea663a684c21b21478754d4afc9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139396$4846C1D7-1252-4E11-B831-3DC0D7B224A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139396$AB838DC3-AB91-4759-AED4-90ED63DD78A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139396$D350DE90-E410-4721-953A-E0E9B7AC6819",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1143-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "710a81f625b02035820037abc881a22a4c99be6e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139396$F510F69D-FCD8-47F1-9E75-20118166C98A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2632997"
+          },
+          "hash": "f0a1a3f7d59b6798bff33a217b4682c7ede775b9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q139396$9C6CEDF0-DD58-486A-9ED6-6855750B637A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000923023748"
+          },
+          "hash": "188ca5179674d07f93186f52d8ae6dfc93049dc4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q139396$F536CDA3-C58E-4CAB-995A-9E7C5F012183",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=oluf;n=de danemark;oc=1"
+          },
+          "hash": "20f5e782faec32597fa00899d908f198569a0161",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139396$55141C68-272C-422D-AA9F-D24E8D7002DB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Olaf (II) Haraldsen Arms.svg"
+          },
+          "hash": "bbb3d29889efdd479e5190727d541e8b5815266a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "monarca danés (1150–1143)"
+    },
+    "da": {
+      "language": "da",
+      "value": "Konge i Skåne 1140-1143"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Danish siyaasa nira ŋun nyɛ doo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anti-king who ruled Scania"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "dán ellenkirály és Skåne uralkodója"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Deens monarch (-1143)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "датский анти-король-бунтовщик"
+    }
+  },
+  "id": "Q139396",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Олуф II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Oluf Haraldsen"
+    },
+    "da": {
+      "language": "da",
+      "value": "Oluf Haraldsen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Olaf (II) Haraldsen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Olaf (II) Haraldsen"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Oluf Haraldsen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Oluf Haraldsen"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Olaf Haraldsen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オーロフ・ハーラルセン"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Oluf II Haraldsen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Olaf (II) Haraldsen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Olaf Haraldsen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Олуф II"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Olaf II Haraldsen"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Olaf (II) Haraldsen"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Olof Haraldsson"
+    }
+  },
+  "lastrevid": 17557819,
+  "modified": "2025-09-17T11:54:14Z",
+  "ns": 860,
+  "pageid": 167781,
+  "sitelinks": {},
+  "title": "Item:Q139396",
+  "type": "item"
+}

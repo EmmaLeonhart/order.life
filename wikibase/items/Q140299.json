@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aron ab Einion ap Hywel Gôch ap Cynwrig"
+      },
+      {
+        "language": "en",
+        "value": "Aron ab Einion ap Hywel Goch ap Cynwrig"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q140299$6D81CDD9-B2CC-4149-9682-8F46F6AFE050",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00760941"
+          },
+          "hash": "71fbcac60ab9c2463f6049fa68069f1f9da890d1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140299$AC2645F0-810E-46D5-8656-0C8CAC27E5E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138843",
+              "numeric-id": 138843
+            }
+          },
+          "hash": "c33f946bbb3489895389c023d9079d3b4807bb84",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140299$4DBB0E9D-6937-41F9-BC57-BF4FB9613376",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142524",
+              "numeric-id": 142524
+            }
+          },
+          "hash": "d8885426fa4e04d9cea0fbf445aa0c354d5c1b90",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140299$43014AD1-4323-4866-9E90-B02120AD3966",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140299$B60737BB-B52A-4C94-A865-9FE1095C1F06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140299$60872D62-BD47-42CD-A760-E1AC54EA7619",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142523",
+              "numeric-id": 142523
+            }
+          },
+          "hash": "79f176635b969083e06101c3b67d4c7eebcb229b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140299$0D9A79EF-611E-405D-BA39-71CA9B3BFEEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140299$B69C1AE8-6B81-432A-8D0A-5CEA6133C2FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116812412"
+          },
+          "hash": "3a18e0ae0c70ed3acb171bab9fe98e39b8b9515e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140299$56B2B9AA-1D09-4764-A0E3-6B8DD6A421BD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aron ab Einion ap Hywel Gôch ap Cynwrig Arms.svg"
+          },
+          "hash": "d69b35fc910ab6196901a9393b41afc30a791a2e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q140299",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Aron ab Einion ap Hywel Gôch ap Cynwrig"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aron ab Einion ap Hywel Gôch ap Cynwrig"
+    }
+  },
+  "lastrevid": 17559427,
+  "modified": "2025-09-17T12:17:17Z",
+  "ns": 860,
+  "pageid": 168684,
+  "sitelinks": {},
+  "title": "Item:Q140299",
+  "type": "item"
+}

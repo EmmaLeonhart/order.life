@@ -1,0 +1,217 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Burgheard"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q141041$C935136C-B007-4FC7-A9F3-DA43BC563203",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mercia-33"
+          },
+          "hash": "58b9145f74346c02c0739c13d5bc79a7719e664c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141041$B2231D16-51E8-43FA-8352-CE577072C46C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141041$96820169-3075-4088-B670-64CF688E2C64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141041$D345FFAB-4105-47D0-BF4D-BC7562BB63A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141040",
+              "numeric-id": 141040
+            }
+          },
+          "hash": "34164c454fa05a28141d3cb566d51b3b08cd8cea",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141041$9ED61194-B0C8-4214-9512-FE93967A5BB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141041$D3576D9A-D5B8-4A67-9707-5C3C96D8D0F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1061-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f9f80a6cc9261762af58318020549f990430f260",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141041$DE2BAE1C-DD95-446E-9E97-A715E7B527D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22712857"
+          },
+          "hash": "d70637127dec4c04d16444928bb6c8d8bc24201d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141041$834DF7C4-57EA-42F0-92E6-3440814BF8AF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Burgheard Arms.svg"
+          },
+          "hash": "0e1ee3c100127fc97d27059b7d975891094a4fa5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Ælfgar Earl of Mercia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils d'Ælfgar, comte de Mercie"
+    }
+  },
+  "id": "Q141041",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Burgheard"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Burgheard"
+    },
+    "de": {
+      "language": "de",
+      "value": "Burgheard"
+    },
+    "en": {
+      "language": "en",
+      "value": "Burgheard"
+    },
+    "es": {
+      "language": "es",
+      "value": "Burgheard"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Burgheard"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Burgheard"
+    }
+  },
+  "lastrevid": 17560669,
+  "modified": "2025-09-17T12:35:46Z",
+  "ns": 860,
+  "pageid": 169426,
+  "sitelinks": {},
+  "title": "Item:Q141041",
+  "type": "item"
+}

@@ -1,0 +1,488 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rikdag"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q138220$9184B4D2-ED20-4AE9-991E-D7BEE874D859",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126726",
+              "numeric-id": 126726
+            }
+          },
+          "hash": "f830ff70fe7a4e804371eb9b0783e6d0362a4246",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138220$ADF3CFCC-8B60-4CAB-993D-6BDCF99D0148",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138220$52E72857-2241-47EE-A206-4900F376747A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138220$970532E0-6668-4B5C-A52F-4E25C2E62C0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125630",
+              "numeric-id": 125630
+            }
+          },
+          "hash": "493e5cd523d32919b6d4cf63561829590575edce",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q138220$2C86BD1D-748F-4E45-8683-4434B9684A3C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8066804|39919326"
+          },
+          "hash": "2028344b0ef95ab84ae021926f420c6d95377610",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138220$B2CA30AD-9F2A-4F15-AD86-F83E100D4EF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138220$15B67E4C-4E3F-4FFF-ABDD-264EF9C7CF89",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1000-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bfaeffd93c9ae612a427a0a168b2db21b0ead38e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138220$0144D1B5-49BB-42C9-B201-F18466471351",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0985-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a175f8e713ede7072bd13f903573e24b73fcd983",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138220$28A25675-59E3-401F-8125-3E1EF4860441",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q44927"
+          },
+          "hash": "a3b953d9f71021feb5fba94364733afa2e8df43c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q138220$E82414BF-0333-4CC9-8DD9-1FCAD3FA8E41",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000066833288855"
+          },
+          "hash": "077e7396a29b27f1718d3b5d7d91145f592c123b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q138220$80C7B42B-319E-451D-81AB-1947544B84F2",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Joseph Lanner"
+          },
+          "hash": "8de0cec39a2bc0e66ad6ae1f5b3a2c5d773c1e7d",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138220$A8305C12-7D03-4181-A27A-4A51A7F26E9C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Joseph Lanner Arms.svg"
+          },
+          "hash": "1fff1de40cab0b7f4c7fe95c7c225ff73072cee1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "австрийски композитор"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "rakouský hudební skladatel"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "cyfansoddwr a aned yn 1801"
+    },
+    "de": {
+      "language": "de",
+      "value": "österreichischer Komponist und Violinist"
+    },
+    "en": {
+      "language": "en",
+      "value": "Austrian dance music composer (1801–1843)"
+    },
+    "es": {
+      "language": "es",
+      "value": "compositor austríaco"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "musikagile austriarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "compositeur, violoniste et chef d'orchestre autrichien"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "osztrák zeneszerző"
+    },
+    "it": {
+      "language": "it",
+      "value": "compositore e direttore d'orchestra austriaco"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オーストリアの作曲家 (1801-1843)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Oostenrijks dirigent (1801–1843)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "compositor de músicas para dança austríaco"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "австрийский композитор"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Joseph Lanner (1801-1843), аустријски композитор и диригент"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "österrikisk musiker och tonsättare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Avusturyalı besteci (1801-1843)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奥地利作曲家"
+    }
+  },
+  "id": "Q138220",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "چوزيف لانير"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Joseph Lanner"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йозеф Ланер"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Josef Lanner"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joseph Lanner"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Josef Lanner"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Joseph Lanner"
+    },
+    "da": {
+      "language": "da",
+      "value": "Joseph Lanner"
+    },
+    "de": {
+      "language": "de",
+      "value": "Joseph Lanner"
+    },
+    "en": {
+      "language": "en",
+      "value": "Joseph Lanner"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Joseph Lanner"
+    },
+    "es": {
+      "language": "es",
+      "value": "Josef Lanner"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Joseph Lanner"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Joseph Lanner"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Joseph Lanner"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Joseph Lanner"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Joseph Lanner"
+    },
+    "it": {
+      "language": "it",
+      "value": "Joseph Lanner"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨーゼフ・ランナー"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "요제프 라너"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Joseph Lanner"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Joseph Lanner"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Joseph Lanner"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Joseph Lanner"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Joseph Lanner"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Joseph Lanner"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Josef Lanner"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Joseph Lanner"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Joseph Lanner"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Йозеф Ланнер"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Josef Lanner"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Joseph Lanner"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Joseph Lanner"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Jозеф Ланер"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Joseph Lanner"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Joseph Lanner"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Йозеф Ланнер"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Joseph Lanner"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约瑟夫·兰纳"
+    }
+  },
+  "lastrevid": 17555975,
+  "modified": "2025-09-17T11:28:05Z",
+  "ns": 860,
+  "pageid": 166605,
+  "sitelinks": {},
+  "title": "Item:Q138220",
+  "type": "item"
+}

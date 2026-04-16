@@ -1,0 +1,196 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Laodice de Comagene"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137165$0E9EAA1A-80AB-452A-B277-00811E6A0BED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137165$DE80E040-919C-44C2-AFE8-159DCB2D89A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137165$80291803-CF5D-4503-B2F1-7140C523BC13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72359",
+              "numeric-id": 72359
+            }
+          },
+          "hash": "ff2b59d0df73d381268137a5a8d0483dc8e368b3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137165$93A93E8F-E8BB-43BB-873F-B714392DA290",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137165$DF9D528D-7D5F-4EEB-B429-AEF52162DDB6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137165$FD1346CC-1C44-440F-81AB-A7D33164E0ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5805745"
+          },
+          "hash": "cf91e54f8b596010b3d785dbe7cdf58b45538655",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137165$C958B59F-2511-49BA-8FD2-2FD28EA9FC59",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Laodice de Comagene Arms.svg"
+          },
+          "hash": "a9094a50d757f055697b3d5b6d41ef7877a25900",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "wife of King Mithridates II of Commagene"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "жена царя Митридата II Коммагенского"
+    }
+  },
+  "id": "Q137165",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Laodice de Comagene"
+    },
+    "en": {
+      "language": "en",
+      "value": "Laodice de Comagene"
+    },
+    "es": {
+      "language": "es",
+      "value": "Laodice de Comagene"
+    },
+    "it": {
+      "language": "it",
+      "value": "Laodice de Comagene"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Laodice de Comagene"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лаодика Коммагенская"
+    }
+  },
+  "lastrevid": 17554291,
+  "modified": "2025-09-17T11:04:06Z",
+  "ns": 860,
+  "pageid": 165550,
+  "sitelinks": {},
+  "title": "Item:Q137165",
+  "type": "item"
+}

@@ -1,0 +1,441 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Valeria Maximilla"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137233$C497E527-B94E-45F2-954F-0577619177D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446943"
+          },
+          "hash": "3ebbb9c89d10ac93b928b74a5b4686eebdcd75c2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137233$48DA5F0C-E4EB-403B-9902-B253FBF70937",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137234",
+              "numeric-id": 137234
+            }
+          },
+          "hash": "e2af1c39155141a56e22bb4cce16206559c7f9ef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q137233$D6F10901-9F1C-4E64-98E2-3C9AAD1AF382",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Maximilla-1"
+          },
+          "hash": "a68e21991c5c0845a83686b80d2558a92a3b1c9c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137233$B3334C41-E3DA-40A4-89F9-27303AD3261B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137233$75EA3C73-9B62-4DD2-911E-44560CCC8889",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137233$5C63CF9E-F637-4BFF-A634-9CD730BE4A10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136814",
+              "numeric-id": 136814
+            }
+          },
+          "hash": "543ce983852377b8717bf9aed1a16f02a3c8b183",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137233$93ECD5AB-CF33-45E8-ACE4-F19DC9691C0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137230",
+              "numeric-id": 137230
+            }
+          },
+          "hash": "a8ec495b6fb941f34221a58f996e870c59a2004b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137233$FFE4DFC1-383F-412B-B773-5F4C058596AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137233$80C24770-FAC5-4D53-BE5A-0312C5961242",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0280-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "28acf573236dccf108bb84693f306907c480358c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137233$2C2A2AA6-2E70-4FA1-83D3-E6889C401932",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0312-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "983d054d9933fa3284ae1aced3c60ff279f58161",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137233$7274BF3D-8515-4BF5-ADBC-F7DA3308B482",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45535"
+          },
+          "hash": "2aae82692189cde3ebb96ed53b9209eec39578fe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137233$18DBA2E5-A3DA-4563-9642-54A0D1F207CD",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Valeria Maximilla"
+          },
+          "hash": "df1959ec17535d34cf27e975f406a0204e58606d",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137233$060AF5C6-823B-40DC-8897-06820C4FD4B9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Valeria Maximilla Arms.svg"
+          },
+          "hash": "f8149e584176a25b5f2c1f86ddd1100277c3102a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman empress and wife of Emperor Maxentius"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana consorte"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice romaine"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római császárné"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Massenzio"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "împărăteasă romană"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римская императрица"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римська імператорка-консорт"
+    }
+  },
+  "id": "Q137233",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Valeria Maximila"
+    },
+    "be": {
+      "language": "be",
+      "value": "Валерыя Максіміла"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Валерия Максимила"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Valeria Maximilla"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Valeria Maximilla"
+    },
+    "de": {
+      "language": "de",
+      "value": "Valeria Maximilla"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βαλερία Μαξιμίλλα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Valeria Maximilla"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Valeria Maximilla"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Valeria Maximilla"
+    },
+    "es": {
+      "language": "es",
+      "value": "Valeria Maximila"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "والریا ماکسیمیلا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Valeria Maximilla"
+    },
+    "he": {
+      "language": "he",
+      "value": "ולריה מקסימילה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Valeria Maximilla"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վալերի Մաքսիմիլլա"
+    },
+    "it": {
+      "language": "it",
+      "value": "Valeria Massimilla"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウァレリア・マクシミラ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Valeria Maximilla"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Valeria Maximilla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Valeria Maximilla"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Valeria Maximilla"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Valeria Maximila"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Valeria Maximila"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Valeria Maximilla"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Валерия Максимилла"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Valeria Maximilla"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Valeria Maximilla"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Валерія Максимілла"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "瓦莱里亚·马克西米拉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "瓦莱里亚·马克西米拉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "瓦萊里亞·馬克西米拉"
+    }
+  },
+  "lastrevid": 17554405,
+  "modified": "2025-09-17T11:05:44Z",
+  "ns": 860,
+  "pageid": 165618,
+  "sitelinks": {},
+  "title": "Item:Q137233",
+  "type": "item"
+}

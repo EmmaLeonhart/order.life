@@ -1,0 +1,250 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ælfwine"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139797$FCC36157-CE23-4987-A8BD-1A25FB04BF31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00349181"
+          },
+          "hash": "b23642e92932f6d9f08acd9cd28c56d5cd857c1c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139797$61ED21F7-E327-424D-A959-87385A097B59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139797$C29B1E28-8262-458D-B955-9633AFF0F6F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q139797$3B4A0518-EB75-40E0-A3E8-A892366EBC5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p17566.htm#i175657"
+          },
+          "hash": "87c448d6d954ea24efba9205eef8b287c5451f6e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139797$962845AB-7482-4A7D-8B07-8E5DCD74C7BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138546",
+              "numeric-id": 138546
+            }
+          },
+          "hash": "150ecfbe644b268d121fdd956aae59f6d3a2e971",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139797$72773BCD-D0D1-4714-B205-FD04262E9F97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139797$F27BC1E0-4123-44E4-9467-AE2F365B8C39",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e8163df404d9994b40f680a1364f0bb46039df56",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139797$3663BD19-5FB1-41D2-8560-7835D48DA854",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0791-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "797430a7d066ef2cb69ef4da0960c5db36cda2fc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139797$A20878A4-3F9E-464F-9152-4A873C87EFB1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9252665"
+          },
+          "hash": "944a1f89e5a2ab3345697854de8b62d0e061e5ba",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139797$D7EEC475-EC92-40CC-988A-461507059A80",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ælfwine Arms.svg"
+          },
+          "hash": "1cc33cbe15ed5671d4eab01708ea3f6490967a28",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Northumbrian prince"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince northumbrien"
+    }
+  },
+  "id": "Q139797",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Ælfwine"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ælfwine"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ælfwine"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ælfwine"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Elfwine z Nortumbrii"
+    }
+  },
+  "lastrevid": 17558489,
+  "modified": "2025-09-17T12:03:42Z",
+  "ns": 860,
+  "pageid": 168182,
+  "sitelinks": {},
+  "title": "Item:Q139797",
+  "type": "item"
+}

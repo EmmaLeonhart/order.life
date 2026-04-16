@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wulfstan, ealdorman of Wiltshire"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137763$68F7C6CF-C92D-49A9-BB5B-FCECA254D9C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137763$10350053-0C01-4DA5-B6E5-2ED59C1CCBB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137763$23F537F0-2573-4EBD-BBA7-E9C6F51DFC2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wulfstan_of_Wiltshire_(1)"
+          },
+          "hash": "b0cf3a44aabc6d8ed13b8c49341893fc4befaeb3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137763$615413E0-A1DC-479A-B687-5BA392915F74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137203",
+              "numeric-id": 137203
+            }
+          },
+          "hash": "2b54ff193e7d1c6a5d271ea919e548250fe7149a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q137763$2013A3D0-9284-4A3E-A243-9B4221A13D9D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10643.htm#i106429"
+          },
+          "hash": "07f3533dc39e47f57c5b58f1773691b9deac88d4",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137763$BF9B975A-2917-4695-8641-8E4D75B94376",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137763$2DA98816-DEDC-4B7D-BAD2-FA9EC427FB3E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0701-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a554c7ff86988519b6b4b59e89ab9bb4e914800",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137763$013F8CA4-3ED0-45FA-B093-CE08C064CF85",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0802-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dd239a23892fd76945586dba899fa5fe3301b5ee",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137763$EA629143-5572-4AD7-8CCF-0FAED516C504",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8039190"
+          },
+          "hash": "139b150933736444e357c914a463cc16b6ee5ca8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137763$07026612-A7D5-4130-B82A-68A06B72ED81",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wulfstan, ealdorman of Wiltshire Arms.svg"
+          },
+          "hash": "b8f6b57b27991602783e0c2b2c729194dd2f9799",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Ruler of Wessex"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "ealdorman du Wiltshire"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "officier"
+    }
+  },
+  "id": "Q137763",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Wulfstan, ealdorman of Wiltshire"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wulfstan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Wulfstan, ealdorman of Wiltshire"
+    }
+  },
+  "lastrevid": 17555215,
+  "modified": "2025-09-17T11:17:10Z",
+  "ns": 860,
+  "pageid": 166148,
+  "sitelinks": {},
+  "title": "Item:Q137763",
+  "type": "item"
+}

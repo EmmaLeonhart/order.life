@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wichman II Count of Hamalant"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139476$E18DCF5D-2D7C-4E68-8107-7D83E43C799E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1174904"
+          },
+          "hash": "79c5f49a151d51ae9cf581d801bdb9baec891ee7",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139476$4E6E2B8A-C4BF-437F-BCAC-51D4292329AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139477",
+              "numeric-id": 139477
+            }
+          },
+          "hash": "ad75c666c9b9ca25177cecbed3bd2cdcd7f194b8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139476$6F54652B-3117-4B3F-9351-6D58C59B02DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139476$18582821-7B7F-4EAB-8324-767A34B781B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139476$DCB87E37-85D1-452C-9128-48A206728041",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138310",
+              "numeric-id": 138310
+            }
+          },
+          "hash": "0034b040c5d5dc9f67e9fa82092a0af26cf305d1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q139476$150CF0DF-6438-4DCC-934B-87E54A9653AE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p67250.htm#i672496"
+          },
+          "hash": "b6833d504aedf99c8c3c9b62f0c21a1047b02a46",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139476$4B810804-21F0-4E9D-9808-873A450374E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140832",
+              "numeric-id": 140832
+            }
+          },
+          "hash": "c300aa2b667ae3bebf84958ee447e33d8436862a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139476$97E3E3C3-1C4E-44FF-B3D2-20370CF6EFC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139476$A5C5445F-7DF6-4924-B9C5-E4A12F35599B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0881-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "035c8a24933f0b8de9bd967d81e0703dcd1fcf57",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139476$DFD3459D-DE9D-48AA-BF60-669946D7A9DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76299824"
+          },
+          "hash": "565f28b7d6a021db77ec569dac58f2b83b2396d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139476$7974360E-DE6D-4030-A428-952CD16ADA2F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wichman II Count of Hamalant Arms.svg"
+          },
+          "hash": "49f2e7d332952679c61d10fa372e391105f8e0b8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=672496"
+    }
+  },
+  "id": "Q139476",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Wichman II Count of Hamalant"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wichman II Graf von Hamalant"
+    }
+  },
+  "lastrevid": 17557951,
+  "modified": "2025-09-17T11:56:07Z",
+  "ns": 860,
+  "pageid": 167861,
+  "sitelinks": {},
+  "title": "Item:Q139476",
+  "type": "item"
+}

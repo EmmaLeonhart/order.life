@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jernskjegge"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q137025$C42865A3-326A-4D8A-AFD4-DE47724732C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137026",
+              "numeric-id": 137026
+            }
+          },
+          "hash": "1c0d6076a792fac581de192e34bb5c1bad648555",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137025$57472FF3-CBE2-4843-9947-4C9D4ED7FA22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136664",
+              "numeric-id": 136664
+            }
+          },
+          "hash": "0d70574c03b5890a15d22b6b74011a4e1d1463ef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q137025$72402DC1-1F88-4748-8121-371E0F500B01",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Asbjørnsson-1"
+          },
+          "hash": "c62db41c5ca38b77f689f1a7c8dbbe62df667302",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137025$DB6DF60D-9BBB-4AE3-846F-1DE794F10DBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137025$881A1C5A-C7CD-46FE-8E01-633F7C7C7B6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137025$355A5AE3-2BBE-497E-AEF4-2F92C4061CE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126129",
+              "numeric-id": 126129
+            }
+          },
+          "hash": "6b6989cd0884339938163b61ec3c411a5a836d71",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137025$1796E9D7-A4A6-4724-A710-16A7FDC75A15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137025$5EC49F1B-6F92-4531-A7FF-B454842F0B02",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0997-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "838f9d0d8b2a99dd8b2622337ff7369571cd5ba9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137025$2878F5FA-D369-4528-AE47-D76C38DC5E87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11684521"
+          },
+          "hash": "67cc4caf089eff99c9fb9226d2902b1cd0d610e1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137025$25049819-46F2-4C99-A455-CF8D2D592EB4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jernskjegge Arms.svg"
+          },
+          "hash": "6bbc9899c31518247755880e68bfe75b3e43b8eb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "norsk stormand, død 997"
+    },
+    "en": {
+      "language": "en",
+      "value": "997"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "trøndersk stormann, død 997"
+    }
+  },
+  "id": "Q137025",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Jernskjegge"
+    },
+    "da": {
+      "language": "da",
+      "value": "Jernskjegge"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jernskjegge"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jarnskegge"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jernskjegge"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Jernskjegge"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jernskjegge"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jernskjegge"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jernskjegge"
+    }
+  },
+  "lastrevid": 17554097,
+  "modified": "2025-09-17T11:01:21Z",
+  "ns": 860,
+  "pageid": 165410,
+  "sitelinks": {},
+  "title": "Item:Q137025",
+  "type": "item"
+}

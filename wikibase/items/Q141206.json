@@ -1,0 +1,510 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sæmundr fróði"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141206$03BD6506-B952-4607-8D9F-70C88DF98A7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139386",
+              "numeric-id": 139386
+            }
+          },
+          "hash": "b781c8d034bff161a35b320754ff0c174ac0c81c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141206$3FCB46DD-E2C1-4603-B4EC-4547751425DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143868",
+              "numeric-id": 143868
+            }
+          },
+          "hash": "346b22cb5193fd16fdb6c96c326c8b8bf66fd649",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q141206$495F9EE9-C848-469E-A0D1-BEC33DC0D9C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sigfússon-16"
+          },
+          "hash": "bb56cb043ccd5b68dd15d9ac4cb4884a74c0edfd",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141206$DE68CE95-9D83-4735-BA94-3E6BA1869D05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141206$4ADC120F-FFFA-45C0-87E4-CBBAC13EF1BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141206$C113ADF4-0E41-435B-AF01-69D863E9F3A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139412",
+              "numeric-id": 139412
+            }
+          },
+          "hash": "8c7b91cd930de31ad6a425d8bbc6af9d40d7ed98",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141206$2A2AC55D-C1F8-4128-84C6-6C0167184F76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141206$88313C76-D7C1-43CF-A320-F46C68C329BC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1056-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "91ce6d3fa247ee9a0720ffd5080c40473f329bdf",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141206$3E7C5E68-2561-4B40-8B3E-6FBF68B8700C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1133-05-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6c85cf1dc4d09b1e0bc32d162717580d92e1be5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141206$CB6DD650-BDE3-4313-96A6-AF1EA195E42C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q283943"
+          },
+          "hash": "cfa49cbe02283164352ba27aaf293bc96516f7b2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q141206$6FD79046-B521-415D-9142-65308908EB4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006798159405"
+          },
+          "hash": "4e3836ffb2740f32cb1b7b802d87aea1f6dd5fcb",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141206$05CD066E-5185-4773-90EA-2D61C5F85E8F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sæmundr fróði Arms.svg"
+          },
+          "hash": "6c9c16aa6c928677949df38eeca4ebe65d867dc8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كاتب آيسلندي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "مؤرخ من ايسلاندا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "escritor islandés"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "আইসল্যান্ডীয় লেখক"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "escriptor islandès"
+    },
+    "da": {
+      "language": "da",
+      "value": "islandsk præst og skribent"
+    },
+    "de": {
+      "language": "de",
+      "value": "isländischer Priester und Gelehrter"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Icelandic writer"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Icelandic writer"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Icelandic writer"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "islanda pastro kaj verkisto"
+    },
+    "es": {
+      "language": "es",
+      "value": "escritor islandés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Islandi kirjanik"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "idazle islandiarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نویسنده و کشیش آیسلندی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "islantilainen pappi ja kirjailija"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "écrivain islandais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "scríbhneoir Íoslannach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "escritor islandés"
+    },
+    "he": {
+      "language": "he",
+      "value": "סופר איסלנדי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "islandski pisac"
+    },
+    "it": {
+      "language": "it",
+      "value": "scrittore e sacerdote islandese"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "islandsk prest og skribent"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "IJslands schrijver"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "islandsk prest og skribent"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "islandzki pisarz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "escritor islandês"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "scriitor islandez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "исландский священник, писатель, учёный XII века"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "shkrimtar islandez"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "isländsk präst och författare"
+    }
+  },
+  "id": "Q141206",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "سيموندر الحكيم"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Sæmundr fróði"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sæmundr el Savi"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Sæmundur Sigfússon"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sæmundur fróði Sigfússon"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sæmundur fróði"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sæmundr fróði"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Sæmundr Sigfússon, \"la Klera\""
+    },
+    "es": {
+      "language": "es",
+      "value": "Sæmundr fróði"
+    },
+    "et": {
+      "language": "et",
+      "value": "Sæmundr Õpetatu"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Sæmundr fróði"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Sæmundr fróði"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sæmundr Sigfússon"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Sæmundr fróði"
+    },
+    "is": {
+      "language": "is",
+      "value": "Sæmundur fróði Sigfússon"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sæmundr Sigfússon"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セームンドル・シグフースソン"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Семунд Мудриот"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sæmund Frode"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sæmundur Sigfússon"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Sæmundur fróði Sigfússon"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sæmundr Sigfússon"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sæmundr fróði"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sæmundr fróði"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сэмунд Мудрый"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Sæmundr fróði"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Saemundr frodi"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sämund Frode"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Саймундр Мудрий"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "賽門杜·巴金斯"
+    }
+  },
+  "lastrevid": 17560869,
+  "modified": "2025-09-17T12:38:37Z",
+  "ns": 860,
+  "pageid": 169591,
+  "sitelinks": {},
+  "title": "Item:Q141206",
+  "type": "item"
+}

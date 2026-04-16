@@ -1,0 +1,673 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antipas"
+      },
+      {
+        "language": "en",
+        "value": "אנטיפס\\אנטיפטרוס"
+      },
+      {
+        "language": "en",
+        "value": "Antipas\\Antipater"
+      },
+      {
+        "language": "en",
+        "value": "אנטיפס\\אנטיפטרוס Governor of Idumaea"
+      },
+      {
+        "language": "en",
+        "value": "Antipas\\Antipaterus Governor of Idumaea"
+      },
+      {
+        "language": "en",
+        "value": "Antipas I, Governor of Idumaea"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q99725$A619BA02-8F29-43D7-B6F2-6B44D95C23EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78348",
+              "numeric-id": 78348
+            }
+          },
+          "hash": "4e3e06857564d2db67004dba81a6cf1ee1c9f142",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99725$5354E8B6-932A-4074-B5E5-E2A3C4A61456",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141666",
+              "numeric-id": 141666
+            }
+          },
+          "hash": "431c3a03364fb27f0a6331398c7086be4dc2c12d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99725$795854D2-D1D6-4181-B811-ABE6237D64B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141668",
+              "numeric-id": 141668
+            }
+          },
+          "hash": "01ca40bfd09213440f93f2b0fd72e2a29078b31c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99725$A070ED26-9EF0-466F-BF2E-B3ACD98CD463",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141667",
+              "numeric-id": 141667
+            }
+          },
+          "hash": "a97b7a81a3a7670645aa885403eff3529e2f53f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99725$B42D9A02-81EA-4495-AF40-87BAE865C856",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78189",
+              "numeric-id": 78189
+            }
+          },
+          "hash": "bf5e687bac2b8dfbf742546c95b6ee20c1a740b7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99725$6C82BBD7-A64B-402E-A3C2-912E1989E7BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141669",
+              "numeric-id": 141669
+            }
+          },
+          "hash": "05d75c603c38e02ceb283106e83716e8a10231c7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q99725$7560D7A9-A8F6-4451-BB05-BCD6657709A8",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "אנטיפס\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\אנטיפטרוס"
+            }
+          },
+          "hash": "fc64a78b0f242ce02a644925082bbae150a4985a",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99725$DD12E6F1-F95B-47A6-A719-F378ABDC6564",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Antipater the Idumaean"
+            }
+          },
+          "hash": "35ea165707c00299428ffd040b40eda9793ae3fa",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q99725$797C41D4-3D31-4574-9C17-A23061DC96D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99725$396488DD-C169-4B82-934B-6E554DE1064D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q99725$DB51CBB2-D762-4C19-8C06-7F573F5CAC56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78351",
+              "numeric-id": 78351
+            }
+          },
+          "hash": "62ac3458f70385c8b53c8808f60677d745f2768f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q99725$399F640B-4721-45E8-BA41-5C7C6574C7A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99727",
+              "numeric-id": 99727
+            }
+          },
+          "hash": "e4407da4b1e5b8a677c7d2426e860b4e0c9c4531",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99725$7DB7C915-A1EF-471D-8F97-B0CDE7ED0391",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144298",
+              "numeric-id": 144298
+            }
+          },
+          "hash": "8c5b5c449fff10e2730bbd7cdf93431c8e5c2e77",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99725$F23D44C2-E81C-43C2-B986-AD9FA81B6F5B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "אנטיפס\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\אנטיפטרוס //"
+            }
+          },
+          "hash": "5a47990d9f9024ca30d30c9b7970cd804fb1fad0",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99725$7C01E6E9-AB5F-4125-92F1-A9A3A2528B72",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Antipater the Idumaean //"
+            }
+          },
+          "hash": "3b3d9cf32e65a4a01cb1dd524d4aada4c123abbb",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q99725$8404F20B-012D-49AD-9D0A-DB7B384BC1F4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Governor of Idumaea"
+          },
+          "hash": "89899785e66ee9aa4a52ad6e2617ac932e6bbcfa",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q99725$E6193CC2-5833-43D2-9F2F-E62720C2CB94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q99725$2837ED86-0FEB-411F-A073-FA8D9AED6D37",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0148-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fb4522112174b0f3de80ac14a4019673a85cbd5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q99725$6E5D3910-CBCE-4E41-BC3D-33CBCE7CEE5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q319075"
+          },
+          "hash": "209310d903f9782b025fa4e1cbbb3831a10f5741",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99725$F1DB448F-E508-4AE0-A5D0-A2A7CA241E5A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003646041241"
+          },
+          "hash": "4179b0fd0d144a02e219eb5737869310109bc8db",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q99725$05F95593-5AD1-4038-8EA2-E8DE554833EA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antipater the Idumaean Arms.svg"
+          },
+          "hash": "03469d20a175dc8155f2a721859732742cfd969b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "pare d'Herodes el Gran"
+    },
+    "de": {
+      "language": "de",
+      "value": "Vater von Herodes dem Großen"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century BCE King of Judea"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Juudean kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "père du roi Hérode le Grand"
+    },
+    "he": {
+      "language": "he",
+      "value": "אביו של הורדוס הגדול, אפוטרופוס על יהודה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raja Yudea"
+    },
+    "it": {
+      "language": "it",
+      "value": "amministratore della Giudea, capostipite della dinastia erodiana"
+    },
+    "la": {
+      "language": "la",
+      "value": "Herodis Magni pater"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Idumea"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj Judeje v 1 stol. pr. n. št."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римський управитель Юдеї"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "公元前1世纪的犹大国王"
+    }
+  },
+  "id": "Q99725",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنتيباتر الأدومي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انتيباتر الادومى"
+    },
+    "be": {
+      "language": "be",
+      "value": "Антыпатр Ідумеянін"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антипатър Идумейски"
+    },
+    "br": {
+      "language": "br",
+      "value": "Antipater"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antípatre d'Idumea"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antipatros Idumejský"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antipater"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antipatros"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίπατρος ο Ιδουμαίος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antipater the Idumaean"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Antipatro la 1-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antípatro de Idumea"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antipater"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antipater"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיפטרוס האדומי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Antipater Idumejac"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Antipater"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Անտիպատրոս Եդումեացի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antipatros orang Edom"
+    },
+    "it": {
+      "language": "it",
+      "value": "Erode Antipatro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティパトロス (ヘロデ大王の父)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Antipater"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Антипатар Идумеецот"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antipatros fra Idumea"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antipater"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antypater I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antípatro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antípatro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антипатр Идумеянин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antipater Idumejac"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Antipater"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Antipater the Idumaean"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Антипатер Идумејац"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Антипатер Идумејац"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Antipater Idumejac"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antipater I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антипатр Ідуменянин"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "انتیپاتر ادومی"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "אנטיפטרוס"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "以土买的安提帕"
+    }
+  },
+  "lastrevid": 17514325,
+  "modified": "2025-09-17T01:23:04Z",
+  "ns": 860,
+  "pageid": 117173,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q99725",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q99725"
+    }
+  },
+  "title": "Item:Q99725",
+  "type": "item"
+}

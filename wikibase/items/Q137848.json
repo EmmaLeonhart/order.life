@@ -1,0 +1,338 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rhydderch Hael"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137848$F11AE5D8-46E6-4387-8C85-ED778C2280FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "150582"
+          },
+          "hash": "eb84dcfddd1f4c0ba60efeaf3f3f6f1a810f5fd9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137848$4159C5EA-B3E7-4CB2-88A5-DAF524C4B7A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138671",
+              "numeric-id": 138671
+            }
+          },
+          "hash": "3910d3afe4dd2ea4e02fa94f33b1bc694244de31",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137848$90CC56DA-B15E-440A-9BE8-1227257F849E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137848$B193ECD9-0DAE-4F6D-8C65-F1CCFE015CD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137848$6C76091A-C144-4A38-8318-C6E0F6DB8690",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137291",
+              "numeric-id": 137291
+            }
+          },
+          "hash": "15e9259faaf6e5b11cf0ac47319b053efa0bdfad",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137848$C229F3F5-7FE8-4C02-8D4F-C0042A9044CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137848$A85F47FF-5E68-4695-911A-A156EF634006",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0600-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6773e58a41ac2720d23156b178c8d63adc7c1afd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137848$AE5D6C47-6371-4501-8600-FDF242DE1338",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0614-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3f583fe6a7d6d7ee6964c2ea91e27d3ab5dc9d97",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137848$FB94E92C-40C1-4F48-9C59-FD8EA6940A0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q887367"
+          },
+          "hash": "31c682429da99b2bb97039230efef88b2d01d299",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137848$B08CC13E-2044-460E-93D6-D2142CEA3EE6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhydderch Hael Arms.svg"
+          },
+          "hash": "2c9ea89aca204836203d4c3f79f59902ed1b1e6c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "Brenin teyrnas Frythonig Ystrad Clud yn yr Hen Ogledd"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Schottland"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ruler of Alt Clut"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Strathclyde (Alt Clut)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "governante de Alt Clut"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Стратклайда"
+    }
+  },
+  "id": "Q137848",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Rhydderch Hael"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Rhydderch Hael"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rhydderch Hael"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rhydderch Hael"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Rhydderch Hael"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rhydderch Hael"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rhydderch Hael"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rhydderch Hael"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Rhydderch Hael"
+    },
+    "it": {
+      "language": "it",
+      "value": "Riderch Hael"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "러데르흐 1세 하엘"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rhydderch Hael"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Riderch I de Alt Clut"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Riderch I de Alt Clut"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ридерх Щедрый"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Riderch I od Alt Cluta"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Rhydderch Hael"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Рідерх I ап Тутагуал"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "拉德奇·哈尔"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "拉德奇·哈尔"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "赖泽赫·哈尔"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "拉德奇·哈爾"
+    }
+  },
+  "lastrevid": 17555365,
+  "modified": "2025-09-17T11:19:17Z",
+  "ns": 860,
+  "pageid": 166233,
+  "sitelinks": {},
+  "title": "Item:Q137848",
+  "type": "item"
+}

@@ -1,0 +1,335 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Marcius Philippus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139575$FFEF2A98-C517-45D5-A754-841DD5888C8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735596"
+          },
+          "hash": "5e6d2bbbfaf5ef16f6ed1baee37fbecb218079c7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139575$1EBE97AD-B735-4717-A916-58F31136E930",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139576",
+              "numeric-id": 139576
+            }
+          },
+          "hash": "3c4a4cc3f287f2985ef78767c58a78cdef6044e7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139575$A07522EB-FFF1-4189-A75F-B20416FAF4BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139575$403B0A80-4F1D-4BE6-8D2B-7ACF1248E035",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139575$7285CADC-4028-4BFD-BF76-818B510E3FB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138414",
+              "numeric-id": 138414
+            }
+          },
+          "hash": "3b93dbd50b331f8475479e065d0dfa66c92ac9b1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139575$DA0649D9-FB0C-46C3-9933-A0534B1D609D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138416",
+              "numeric-id": 138416
+            }
+          },
+          "hash": "dc9724f9231c86f699616d55b79397ba9851057f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139575$BAD6F2A7-1292-4C87-84C0-AB8798706325",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139575$EA9B1495-7D2A-4082-B305-205D1E3B57F6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0037-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9dad33edd17fcf0853fb42b262187052855f6623",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139575$B39A42A3-A1F9-46BD-AE45-82AF133C9E65",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139575$9BFB46CC-07B3-4E23-AC81-DA22F3F58259",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q251964"
+          },
+          "hash": "00c28b4cb785e1e799a4a58d13a532850e2eca83",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139575$2061A97A-FC20-47D3-8D39-D7BC6BE2FC0D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Marcius Philippus Arms.svg"
+          },
+          "hash": "65a11e08b8218855a2ebe3bb7c2afd01c14255fb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 38 BC, step-brother of emperor Augustus"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en 38 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 38 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (37v Chr-)"
+    }
+  },
+  "id": "Q139575",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Марций Филип"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Marci Filip"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Marcius Philippus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Μάρκιος Φίλιππος (ύπατος το 38 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Marcius Philippus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Marcio Filipo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Marcius Philippus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Marcio Filipo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Marcio Filippo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・マルキウス・ピリップス (紀元前38年の補充執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Marcius Philippus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Marcius Philippus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Márcio Filipo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Márcio Filipo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Марций Филипп"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Marcius Philippus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Марцій Філіп"
+    }
+  },
+  "lastrevid": 17558127,
+  "modified": "2025-09-17T11:58:35Z",
+  "ns": 860,
+  "pageid": 167960,
+  "sitelinks": {},
+  "title": "Item:Q139575",
+  "type": "item"
+}

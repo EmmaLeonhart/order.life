@@ -1,0 +1,666 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Joachim"
+      },
+      {
+        "language": "en",
+        "value": "Joachim HaDavid"
+      },
+      {
+        "language": "en",
+        "value": "Joachim  HaDavid"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137750$E37E2BEB-B202-4C0A-80EB-58D3C40BF13C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "80035|407793"
+          },
+          "hash": "57e3dbfb9951fd8dc30b9532ac7cb8a31ca98497",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137750$40B169B6-318D-424F-8292-3D17B1CC54C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138539",
+              "numeric-id": 138539
+            }
+          },
+          "hash": "b28e831878932d2255db2efb5aac70b7608c4a81",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137750$999D0ACB-152F-44D1-B82C-EB394D466968",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137750$A4C87F5B-7BDE-4D0F-8900-46BDEC395804",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137750$05E7F418-44D8-4B77-B067-C43B1BF4732A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138538",
+              "numeric-id": 138538
+            }
+          },
+          "hash": "f6395e24cc71edc91955d7a82d3f2c3aa5edf251",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137750$946C5E47-5824-4DBF-B656-47EFE4A3DC8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51792",
+              "numeric-id": 51792
+            }
+          },
+          "hash": "cad6ebe5fd115b2f5dd9e4e9cbecd4528fccd61e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137750$B094B721-3860-4AF2-B48E-503E68857468",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137189",
+              "numeric-id": 137189
+            }
+          },
+          "hash": "29c2ad54cf2432af775132365dff43cea5f7fff7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137750$481228AC-501D-44ED-9B80-663E147727BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137750$20BBAD16-D7C9-4DC4-973D-5CC561B53B8B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137750$4A609865-FE4B-40BB-A5AE-593D9F24CB7A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0010-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "31b3663cb03338f74665f7e141764c0af06a90df",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137750$5B8E815A-EF72-43D3-AE58-26DE3EC66723",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q314700"
+          },
+          "hash": "419f0ed7a476ec965d27e7298cd0e0fe2fafd686",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q137750$D60B0887-9584-43B5-9C97-FA03683281AE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "5416375301440105039"
+          },
+          "hash": "d9963272eac6f332fdd7800a0692a34b5055b45d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137750$9320F8B3-E029-4608-AB96-95C7128E54F1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Joachim Arms.svg"
+          },
+          "hash": "bd2bdee3b1baa663bec1b899f98ba89d5660b8e3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q137750$18E50FA6-CC0A-4AD3-AC41-306C1693B381",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/ff7c4b80-e886-434e-8597-fac991d548a1"
+          },
+          "hash": "a186100fc34e82f44dc8b2c1a1cd8d6dd18e1692",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أبو مريم العذراء"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "maríu d'Ana y padre de María nes relixones basaes na Biblia"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "біблійная асоба"
+    },
+    "br": {
+      "language": "br",
+      "value": "tudenn eus ar Bibl"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "marit d'Anna i pare de Maria, mare de Jesús"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "otec Panny Marie, manžel svaté Anny"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "tad y Forwyn Fair yn ôl traddodiad"
+    },
+    "da": {
+      "language": "da",
+      "value": "Jesus' morfar"
+    },
+    "de": {
+      "language": "de",
+      "value": "legendärer Großvater Jesu Christi"
+    },
+    "el": {
+      "language": "el",
+      "value": "βιβλικό πρόσωπο"
+    },
+    "en": {
+      "language": "en",
+      "value": "traditional father of the Virgin Mary"
+    },
+    "es": {
+      "language": "es",
+      "value": "padre de la Virgen María"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "père de Marie de Nazareth"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "pai da Virxe María, esposo de Santa Ana"
+    },
+    "he": {
+      "language": "he",
+      "value": "אביה של מרים הבתולה לפי המסורת הנוצרית"
+    },
+    "it": {
+      "language": "it",
+      "value": "padre di Maria Vergine"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jomfru Marias far"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "naar christelijke traditie de vader van Maria"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "dziadek Jezusa z Nazaretu, święty chrześcijański"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "pai da Virgem Maria e avô de Jesus Cristo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Tatăl Fecioarei Maria în tradiția creștină"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дед Иисуса Христа по матери"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "otec Panny Márie, manžel sv. Anny a svätec"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "mož svete Ane in oče Device Marije, svetnik"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "figur i bibeln"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Meryem'in babası, İsa'nın dedesi"
+    }
+  },
+  "id": "Q137750",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "يهوياقيم"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يواقيم"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Xuacu"
+    },
+    "be": {
+      "language": "be",
+      "value": "Святы Іаакім"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "сьвяты Якім"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Свети Йоаким"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জোয়াকিম"
+    },
+    "bpy": {
+      "language": "bpy",
+      "value": "সাও জোয়াকুইম"
+    },
+    "br": {
+      "language": "br",
+      "value": "Joachim"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joaquim"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "svatý Jáchym"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Joachim"
+    },
+    "da": {
+      "language": "da",
+      "value": "Joakim"
+    },
+    "de": {
+      "language": "de",
+      "value": "Joachim"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωακείμ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Joachim"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Joakimo, patro de Maria"
+    },
+    "es": {
+      "language": "es",
+      "value": "San Joaquín"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Joakim"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "عمران"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Joachim"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Joachim"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Joachim"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xoaquín"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἰωακείμ"
+    },
+    "he": {
+      "language": "he",
+      "value": "יהויקים הקדוש"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "इमरान"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sveti Joakim"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szent Joachim"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yoakhim"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gioacchino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨアキム"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "წმინდა იოაკიმე"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "요아킴"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ioachimus (sanctus)"
+    },
+    "ln": {
+      "language": "ln",
+      "value": "Santu Yoakima"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Jôakima (rain' i Maria)"
+    },
+    "min": {
+      "language": "min",
+      "value": "Yoakhim"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Свети Јоаким"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "യോവാക്കീം"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Yehoyaqim"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Joakim"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Joachim"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Joachim"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "São Joaquim"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "São Joaquim"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Sfântul Ioachim"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Святой Иоаким"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Joachim"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "sveti Joahim"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Свети Јоаким"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Свети Јоаким"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Sveti Joakim"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Joakim"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Yohakimu"
+    },
+    "th": {
+      "language": "th",
+      "value": "โยอาคิม"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "San Joaquin"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İmran"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Святий Йоаким"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "عمران (والد کنواری مریم)"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Joachin"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Gioakim"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "若雅"
+    }
+  },
+  "lastrevid": 17555197,
+  "modified": "2025-09-17T11:16:55Z",
+  "ns": 860,
+  "pageid": 166135,
+  "sitelinks": {},
+  "title": "Item:Q137750",
+  "type": "item"
+}

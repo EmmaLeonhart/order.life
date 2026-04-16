@@ -1,0 +1,274 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eccard de Mâcon"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q137099$BCD7FDD3-EA80-478A-8D7E-69B8BE6CC9D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Autun-33"
+          },
+          "hash": "3328607e4f7a8be0c15b4cedad377aba87a3e238",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137099$6DA536DE-02C4-40A8-B439-79C2FAF7C213",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137099$63D765A6-9DCE-449C-9CCF-8FB3BC3B5E72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137099$2363DD08-41C8-4738-8488-F1074A2EE823",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137616",
+              "numeric-id": 137616
+            }
+          },
+          "hash": "6d66353812534a2b46dce070af0e916b7bce38b4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137099$DB191E56-1CD1-410F-A6DB-2D7CEB467C24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137617",
+              "numeric-id": 137617
+            }
+          },
+          "hash": "96f8a301d21cb587160c27cde4a12679b14de1c3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137099$834B4406-69E9-4A1F-B96F-998E2E1E60A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123829",
+              "numeric-id": 123829
+            }
+          },
+          "hash": "3ba6fcb64eb5d05c346202573db03af49e3fbd59",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137099$A90BF69D-F6CE-4E01-8D6F-C10C73D838BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137099$6B427BAD-DFFF-4EDB-AC66-94D29B0A2C82",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0876-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "95869e1dbf07d3b4882a7d56bc5564100b0bf1fa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137099$EAD28504-8925-4700-BEE4-C02071F70282",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3046904"
+          },
+          "hash": "b8d8ec6745b689bbeb7b54e8755b05f8bd178e6b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q137099$C784DA32-CA25-4AAE-88B2-5EFF476FBA49",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=eccard;n=d autun|p=ecchard;n=de herstal"
+          },
+          "hash": "5cf3b336d3186225df4fed62a679dd196bec615a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137099$12FAA897-4D1F-4735-A40A-1F84DD365D37",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eccard de Mâcon Arms.svg"
+          },
+          "hash": "863e3d05fc5eaf2e603e9894b329c2cc6c5d781c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "(810/815 - 876/877) nibelúngida"
+    },
+    "en": {
+      "language": "en",
+      "value": "810-877"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Mâcon"
+    }
+  },
+  "id": "Q137099",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Eccard"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eccard de Mâcon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eccard"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eccardo di Mâcon"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eccard de Mâcon"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Экхард (граф Шалона)"
+    }
+  },
+  "lastrevid": 17554173,
+  "modified": "2025-09-17T11:02:25Z",
+  "ns": 860,
+  "pageid": 165484,
+  "sitelinks": {},
+  "title": "Item:Q137099",
+  "type": "item"
+}

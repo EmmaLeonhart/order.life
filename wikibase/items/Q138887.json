@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "NN ferch Llywelyn ap Hywel ab Einion Sais"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138887$B8C4D506-EB70-4722-90FA-787614B628C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00759157"
+          },
+          "hash": "7043d8c338996a01cd7ca4006975c8135408b2cc",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138887$97C4BB32-0A0D-4A8B-A0B0-5C36D51A070F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140366",
+              "numeric-id": 140366
+            }
+          },
+          "hash": "1f3fe464841e1e356942c38de5ba47598de48904",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138887$6F071925-29CF-42B6-809B-8509CA97B0DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140367",
+              "numeric-id": 140367
+            }
+          },
+          "hash": "4be644caa55ed8239b0c77c0353e03c5294078e6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138887$BA063216-2EC1-4FFE-898D-1C6AAEA67534",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138887$552176BC-37EB-46AD-AFE8-38BFA37C7DCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138887$8FED1662-1F32-4AE0-85A5-76402800F00B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140225",
+              "numeric-id": 140225
+            }
+          },
+          "hash": "2d4bbb42cd358a0addc6fdb7a6a54d6930790835",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138887$912DFE62-4200-4A0C-89A8-AB5C8EC719BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137969",
+              "numeric-id": 137969
+            }
+          },
+          "hash": "c5d866b38993ce34c1d46f38c3b5404932512760",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138887$DAE71887-49A2-4FF2-BEF3-2058F5046DEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140356",
+              "numeric-id": 140356
+            }
+          },
+          "hash": "b48186c59479292f31e842b8a456374a3359d001",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138887$79C3B77E-BBDE-4899-8AAB-43D5A7867B0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138887$264743D5-ECFE-47B5-84EB-B3C6C72B59C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116468840"
+          },
+          "hash": "27a3860320fb70442c325363554c4974eb75baf0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138887$9DF2EB51-1FEA-4AA8-B03B-0D371A8BDB22",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "NN ferch Llywelyn ap Hywel ab Einion Sais Arms.svg"
+          },
+          "hash": "2138b1ea4a6972a640c2a7e48c5351652766484e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q138887",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "NN ferch Llywelyn ap Hywel ab Einion Sais"
+    }
+  },
+  "lastrevid": 17557097,
+  "modified": "2025-09-17T11:44:07Z",
+  "ns": 860,
+  "pageid": 167272,
+  "sitelinks": {},
+  "title": "Item:Q138887",
+  "type": "item"
+}

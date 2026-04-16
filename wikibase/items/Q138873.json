@@ -1,0 +1,181 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Fleming, of Monkton"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138873$884317E1-312F-40A6-8F45-00D7D94569A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00752351"
+          },
+          "hash": "f0f95656350bf5907a967f7dee3cb35ab1ca3c9c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138873$82B07ABC-D43F-4C26-83CA-669450E2A959",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137963",
+              "numeric-id": 137963
+            }
+          },
+          "hash": "c77417b1a8957684b4ae4fd003b03cbe3a8f7103",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138873$4D742C73-E215-48D0-A162-F321DFF38CC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138873$06FD69C7-2571-4386-BCF5-023724CEF541",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138873$7EDC1A20-9A65-4F88-96A2-EC33C2D09BE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138873$6B6834A1-FEC4-42C5-9EE6-F4267CAA6B0C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110622283"
+          },
+          "hash": "f0aa1abf23bb46fba16f64624ffbf4f2e09410dc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q138873$376D94E4-6138-4007-AEB5-7B972A05A82A",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "John Fleming, of Monkton"
+          },
+          "hash": "5228220ce086cedcbe72d65703e7a46424e1d36e",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138873$A40D86C4-B12A-4227-B0A6-493C7E7EE7EB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Fleming, of Monkton Arms.svg"
+          },
+          "hash": "e724ed8d91d9f1d354359a399e927b1ac0d2fbe3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q138873",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Fleming, of Monkton"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "John Fleming, of Monkton"
+    }
+  },
+  "lastrevid": 17557069,
+  "modified": "2025-09-17T11:43:42Z",
+  "ns": 860,
+  "pageid": 167258,
+  "sitelinks": {},
+  "title": "Item:Q138873",
+  "type": "item"
+}

@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hoedlyw ap Cadwgan ab Elystan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138125$D14E9A5B-C8F1-4A10-954D-377E3AD67F99",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00755164"
+          },
+          "hash": "a973dbb40aa04a7da9463a8262b53641a4cf6d35",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138125$A6E88C1C-30E8-444A-BC90-2E8F29F186A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137458",
+              "numeric-id": 137458
+            }
+          },
+          "hash": "99391c1d5b159da0e036724778b5a0d1090e62f4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138125$35967917-6613-4697-AAC2-384A0FE81C4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137457",
+              "numeric-id": 137457
+            }
+          },
+          "hash": "8620d19af6cde7eaeef1c5627df322106a66f81d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138125$A2BB3C55-D401-4996-B7A1-98F8B2DE188E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138125$26DF5F29-3052-40B3-B961-32C78375A09F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138125$481C3619-8621-4909-9226-3AD56EBEEF5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136999",
+              "numeric-id": 136999
+            }
+          },
+          "hash": "39ff2e100ded7f430b3fcf263bf70d9ac2f69c14",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138125$17F85918-64A9-4414-B7EC-9EF23F772A6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138727",
+              "numeric-id": 138727
+            }
+          },
+          "hash": "2348a631311f87e42d847891d57968b0fd6b5d7a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138125$85491382-D9C8-4CD6-A097-A18DE54A88BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138118",
+              "numeric-id": 138118
+            }
+          },
+          "hash": "b3da05d2858746455baa00dad712a07176c87bcf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138125$4480A91F-2DF1-4875-954F-73FDF4C2E8E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138125$3EFDDC76-49FE-49D7-B95E-C64129D6611C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116147122"
+          },
+          "hash": "4646d8f85b138d8de9ddf7d3337f9bba79d9d86f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138125$F2068D7C-3AD1-4EEF-B22F-315E766C6BEA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hoedlyw ap Cadwgan ab Elystan Arms.svg"
+          },
+          "hash": "5c9afaffcede28626c755f7f76557a314a205f77",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q138125",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hoedlyw ap Cadwgan ab Elystan"
+    }
+  },
+  "lastrevid": 17555917,
+  "modified": "2025-09-17T11:27:13Z",
+  "ns": 860,
+  "pageid": 166510,
+  "sitelinks": {},
+  "title": "Item:Q138125",
+  "type": "item"
+}

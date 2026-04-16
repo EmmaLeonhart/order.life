@@ -1,0 +1,267 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John ap Gwilym ap Wilcox ap Caradog of Newton"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139038$175066DE-D3B7-4031-9862-07D1870BEFA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00755197"
+          },
+          "hash": "ac3c8a568d53c7fc07658304605abaaa3d6adf44",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139038$268708DC-B27E-4F71-A8AF-336908B8E19F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138058",
+              "numeric-id": 138058
+            }
+          },
+          "hash": "d8e39bcead5142f9f529df152c6d0d044816484d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139038$B64B822F-D7F0-43CA-A43F-1C8032539BC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138059",
+              "numeric-id": 138059
+            }
+          },
+          "hash": "03cd1b9d12ff1a0d045dc1cc6a2c9302ba0a8c5d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139038$BC431362-2A0A-4D32-9755-6A4B24262107",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139038$6847DA72-E1BD-4901-B755-6E07E1FABA9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139038$79BA1608-2A04-450F-A52F-A56317D27180",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137413",
+              "numeric-id": 137413
+            }
+          },
+          "hash": "b5526323555ec0c42ac26cdfd99e97b90778f8ba",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139038$A4176924-4575-4426-A224-B89C7D1635ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140632",
+              "numeric-id": 140632
+            }
+          },
+          "hash": "49d1ae0b6c03a9c20f0e6f7b5da1779c682aad0f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139038$1711F7EA-879A-4480-9A48-F90A488A41E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140633",
+              "numeric-id": 140633
+            }
+          },
+          "hash": "ae8dc64a7f0d078fa854b38768ad04b67d85ecfd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139038$6FF6ACE1-8440-483F-92AA-44C2087C1AA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139038$F4E13B02-90D3-489B-8CE5-11F3DE98D419",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110413081"
+          },
+          "hash": "1541fe93fa3c92005dc61f67d7978b6c6e15a77d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139038$4471C4B3-B653-4DD8-8037-0189D28EBE5E",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "John ap Gwilym ap Wilcox ap Caradog of Newton"
+          },
+          "hash": "2396b8eb087cb362643f28b6e9c5a26672b0b52f",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139038$D139282C-CA3C-4982-BF00-EA0ED9C2AF5A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John ap Gwilym ap Wilcox ap Caradog of Newton Arms.svg"
+          },
+          "hash": "8c2af993f3d411a44db821515ba6047eea0a87ea",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q139038",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John ap Gwilym ap Wilcox ap Caradog of Newton"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "John ap Gwilym ap Wilcox ap Caradog of Newton"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John ap Gwilym ap Wilcox ap Caradog of Newton"
+    }
+  },
+  "lastrevid": 17557397,
+  "modified": "2025-09-17T11:48:18Z",
+  "ns": 860,
+  "pageid": 167423,
+  "sitelinks": {},
+  "title": "Item:Q139038",
+  "type": "item"
+}

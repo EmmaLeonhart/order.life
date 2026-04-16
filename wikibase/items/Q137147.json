@@ -1,0 +1,347 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antonia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137147$CE5D4FDE-C257-4D6C-837F-5C6C3C533EE8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736101"
+          },
+          "hash": "cf2a26c631722ded17e57c1383c88b9d94a45d7a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137147$CA73C02F-069A-4760-8004-E9A2A48F3ADD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137147$BC9BF41C-45C5-4FD3-977A-370A498673FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137147$A261FF50-2FF5-4C23-87BD-7AB7CDECB35A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137673",
+              "numeric-id": 137673
+            }
+          },
+          "hash": "3b84465504bf796a791fee1c04b27910b30c1528",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137147$C5A52122-EF90-48C4-930E-0E5F6078C48D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78171",
+              "numeric-id": 78171
+            }
+          },
+          "hash": "d2a756badbf643efec37e957869726a12848f7c3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137147$38FB3CDC-36D7-4D7E-958B-E4D6A86EB850",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78174",
+              "numeric-id": 78174
+            }
+          },
+          "hash": "b92eb8d37de352c334d26d04a98aad2989bf24c0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137147$16494A27-DC4F-4997-9498-E0A9BD4FF4B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137147$B1C2AB46-8542-4E61-AC51-EDF04C3CF4D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0085-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "18a622e22c54750f4d63766815d0cab53cf01ac4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137147$9FC18B1C-815A-458E-9783-9FF47939A1E3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0055-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de8f023d9f63bb185aee09065cd59d860a8744fc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137147$CA16ECF3-DB07-4AE5-9DC2-BDF95A36D5E6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3618991"
+          },
+          "hash": "1595903d6afb374337916f1adcb51fbc74421bf2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137147$D53514E3-136F-4063-B41C-A71D46F782BC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antonia Arms.svg"
+          },
+          "hash": "c35def5bd63bee8f5247efe29df14891fb85e85a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "wife of Publius Vatinius"
+    },
+    "es": {
+      "language": "es",
+      "value": "dama romana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble romaine"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "datter av Marcus Antonius Creticus og Julia Antonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "consul uit Oude Rome (85v Chr-55v Chr)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "žena Publija Vatinija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fru till Publius Vatinius"
+    }
+  },
+  "id": "Q137147",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Antonia"
+    },
+    "br": {
+      "language": "br",
+      "value": "Antonia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antonia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antonia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antonia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antonia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antonia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antonia"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Antonia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antonia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antonia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antonia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антония"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Antonija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antonia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Antonia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антонія"
+    }
+  },
+  "lastrevid": 17554263,
+  "modified": "2025-09-17T11:03:42Z",
+  "ns": 860,
+  "pageid": 165532,
+  "sitelinks": {},
+  "title": "Item:Q137147",
+  "type": "item"
+}

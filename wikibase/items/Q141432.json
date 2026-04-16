@@ -1,0 +1,310 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Paullus Fabius Persicus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141432$602F195E-790A-45EF-84E4-88E72D68852C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735633"
+          },
+          "hash": "21453b96e36e9f3f7be93433f5c163e53c62f586",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141432$13680BC8-4381-4FE2-93DE-84AAAA047021",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141432$D61AC250-80C5-490F-9908-CF360863115D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141432$3081E66D-B089-472B-9592-93342AC99225",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141431",
+              "numeric-id": 141431
+            }
+          },
+          "hash": "08dc58038fee60e39e72dd2c76d4d04f698430f3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141432$1EE38F77-F297-45A3-ACFB-82B3BE57C68E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139576",
+              "numeric-id": 139576
+            }
+          },
+          "hash": "8ef20bf4b35c0f4fc7917dc6cb4daa7cb5dff9f5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141432$D1B02EB6-8857-43BF-9372-5E787BF676C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141432$559CCD2E-E376-47A9-80CF-FDD3D8E73E1D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd2518e0a186c79fba27561cecab35c84933b097",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141432$EE07EA63-1E11-4058-81D2-C76CB64797D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0054-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "62b94eb59331a5e092b81b5b836f4f5b56ca6876",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141432$EE5D5C6B-D745-4402-AD9C-CF5C08BE9DD7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1233815"
+          },
+          "hash": "685abea72b4e8eb8748fed91dd5073613c0fd6b9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141432$D086991A-6CDB-4B05-9E0E-05B45E3D0DB6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Paullus Fabius Persicus Arms.svg"
+          },
+          "hash": "a25f0cb95123d80d50f9ead5a2d5053916474811",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol romà el 34 dC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Senator"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 34 AD"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (1v Chr-54)"
+    }
+  },
+  "id": "Q141432",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Павел Фабий Персик"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Paulus Fabi Pèrsic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Paullus Fabius Persicus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Παύλος Φάβιος Περσικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Paullus Fabius Persicus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Paulo Fabio Pérsico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Paullus Fabius Persicus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Paullus Fabius Persicus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Paullus Fabius Persicus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Paolo Fabio Persico"
+    },
+    "la": {
+      "language": "la",
+      "value": "Paullus Fabius Persicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Paullus Fabius Persicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Paulo Fábio Pérsico"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Paulo Fábio Pérsico"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Павел Фабий Персик"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Paul Fabije Persik"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Павло Фабій Персік"
+    }
+  },
+  "lastrevid": 17561274,
+  "modified": "2025-09-17T12:44:54Z",
+  "ns": 860,
+  "pageid": 169817,
+  "sitelinks": {},
+  "title": "Item:Q141432",
+  "type": "item"
+}

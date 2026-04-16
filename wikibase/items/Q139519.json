@@ -1,0 +1,321 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tiberius Julius Rhescuporis I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139519$6410A1B0-E857-48EB-BD39-95F19EC0FAF8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "401216"
+          },
+          "hash": "9cf7c61d84cbcae524d691f605ae6c48de21d2b4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q139519$CCB41254-59D3-4008-987F-A02182C2B598",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736383"
+          },
+          "hash": "f5d14f575c7db11479e3209869d599767c4c42e1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139519$8B76912D-0A16-4CEE-B499-A165EFB17700",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141364",
+              "numeric-id": 141364
+            }
+          },
+          "hash": "5835e9341c60ca7fbc341d41d3d126f78187931d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139519$A391B8D8-7D5C-4B4C-AE06-4240DD188030",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139519$5DABA1D6-D113-4872-9B40-C9FDB3FFEFF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139519$30605A30-3317-49C7-B275-AFC66A11BAB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138365",
+              "numeric-id": 138365
+            }
+          },
+          "hash": "c02d510f6f5bca353374157a0ea7772c29780cd5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139519$4382A7A5-172D-4BDD-91C3-B64F5E2BF903",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139518",
+              "numeric-id": 139518
+            }
+          },
+          "hash": "7019df83aef64b3cd7d4a56b16df6836099e8547",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139519$48EC6EE9-4EA0-441E-B276-D194911806BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139519$6FC209C5-F1DF-4A9E-864B-F1DBB08A3209",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0090-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2683d4604c463fb83f9374b9016363b5b60a69b9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139519$0E4E89C4-60A2-4F0C-8AFE-A85FD97A05FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q769067"
+          },
+          "hash": "8bbd2307c5d8f7799972bbf5225c682e943195e6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q139519$4CC75BDA-EF7A-4FE5-84D6-B3A521F15D56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:51957"
+          },
+          "hash": "be80a0f98616167993fa5fe459738d34ec73b573",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139519$9F34BD8B-0023-4407-BA92-617C8D0AF6BD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tiberius Julius Rhescuporis I Arms.svg"
+          },
+          "hash": "31a2d251ad956e827b5b028a842a15f3a52ddd05",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1st century Roman client king of the Bosporan Kingdom"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey cliente romano del Reino del Bósforo en el siglo I d. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi du Bosphore"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Oude Rome (?-90)"
+    }
+  },
+  "id": "Q139519",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Тиберий Юлий Раскупорис I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Rescuporis I"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τιβέριος Ιούλιος Ρησκούπορις Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tiberius Julius Rhescuporis I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rescuporis I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rhescuporis Ier du Bosphore"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tiberius Julius Rhescuporis I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Reskuporis I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Рескупорид II"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tiberius Julius Rhescuporis I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tiberius Julius Rhescuporis I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Рескупорід II"
+    }
+  },
+  "lastrevid": 17558029,
+  "modified": "2025-09-17T11:57:12Z",
+  "ns": 860,
+  "pageid": 167904,
+  "sitelinks": {},
+  "title": "Item:Q139519",
+  "type": "item"
+}

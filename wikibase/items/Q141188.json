@@ -1,0 +1,454 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Piotr Włostowic"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141188$572274B7-9BA7-4F49-8AB8-F33D235BDF79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "603077"
+          },
+          "hash": "438ca1e14a3d280f5bfd309568574825a22c44e5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q141188$59FE04D3-FC57-4F1E-B243-560117A38A61",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00118401"
+          },
+          "hash": "16b1618ce90b61938f72cf025c930a1249828937",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141188$CD2A74A4-B23F-4A4A-9287-203443B0C474",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143850",
+              "numeric-id": 143850
+            }
+          },
+          "hash": "b7df2a54fd799f6218fd794ccfd6ea8fdc632468",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141188$A813E9B9-55DA-4881-AE1A-96AB6707574E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141188$5C003BFA-8768-450E-AD41-8FCCEEF0F481",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141188$DC2C5697-B3C7-4DCF-B11E-2865855E402F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126974",
+              "numeric-id": 126974
+            }
+          },
+          "hash": "881f639ee406463a27108cadf5f25e6157595f7a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141188$614EDD09-BA6D-4115-A635-0A1249AA8F42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141188$07B8FBAA-1C96-4F9D-B1DB-7AC19EE5CBD6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1080-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e865d18ee20de4f864a76f0231000410200d3d6b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141188$C7B07679-1FA6-4B7D-8A3F-329BE9BF18ED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1153-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3cc44b0b41d1fa3c8970497d9487e0cf681a7157",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141188$F56B82FF-D8D8-4781-980C-51062136D30C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1888873"
+          },
+          "hash": "902ef5500fe24d62c159f07efcb0312b74d28e4e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q141188$D2764A21-2BF1-44E0-9F98-FC7D644F2432",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009168599523"
+          },
+          "hash": "1d8ac66012b5bd4c334024b659583c0f17c83890",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q141188$A2E11A34-2538-49D0-AA24-BDD15AF2A4C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=pierre;n=wlast|p=piotr;n=wlostwowic"
+          },
+          "hash": "9db813e563c443edc58bd18abdbc45d6ecd58a9b",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q141188$77EB8945-E11C-469F-AD53-E56CCE339808",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.6503"
+          },
+          "hash": "220309c924d59267bb10a338f61e5ae45210829c",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141188$DC2823C5-3035-4C2C-A9E1-998E20E85872",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Piotr Włostowic Arms.svg"
+          },
+          "hash": "30db19c60f540c799180fe227342112b03295588",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "دبلوماسي بولندي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "diplomáticu polacu (1080–1153)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "diplomàtic polonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "polský šlechtic a vojvoda"
+    },
+    "de": {
+      "language": "de",
+      "value": "polnischer Adliger, Statthalter in Schlesien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Polish noble (c. 1080 – 1153)"
+    },
+    "es": {
+      "language": "es",
+      "value": "diplomático polaco"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "diplomazialari poloniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "diplomate polonais"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "diplomático polaco"
+    },
+    "it": {
+      "language": "it",
+      "value": "diplomatico polacco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pools diplomaat (1080-1153)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "kasztelan sieradzki"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "diplomata polaco"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "nobil silezian"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "польский воевода"
+    }
+  },
+  "id": "Q141188",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Piotr Włostowic"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пётр Уластовіц"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Пётар Уластовіц"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Piotr Włostowic"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Petr Vlastovec"
+    },
+    "da": {
+      "language": "da",
+      "value": "Piotr Włostowic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Piotr Włostowic"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πιοτρ Βουοστόβιτς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Piotr Włostowic"
+    },
+    "es": {
+      "language": "es",
+      "value": "Piotr Włostowic"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Piotr Włostowic"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Piotr Włostowic"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיוטר ולוסטוביץ'"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Piotr Włostowic"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Piotr Włostowic"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Piotr Włostowic"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Piotr Włostowic"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Piotr Włostowic"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пётр Властович"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Piotr Włostowic"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Piotr Włostowic"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Piotr Włostowic"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Петр Властович"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "彼德‧沃斯托維奇"
+    }
+  },
+  "lastrevid": 17560833,
+  "modified": "2025-09-17T12:38:07Z",
+  "ns": 860,
+  "pageid": 169573,
+  "sitelinks": {},
+  "title": "Item:Q141188",
+  "type": "item"
+}

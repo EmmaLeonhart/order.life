@@ -1,0 +1,334 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Aurelius Avianius Symmachus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138593$74478EA6-EDD9-4962-B8C0-D0CA82F54138",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "405538"
+          },
+          "hash": "968cb351e6db91a1a7cd700b9fdbb5110164a5aa",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138593$F2951062-AA42-4209-A510-C149500C9350",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137794",
+              "numeric-id": 137794
+            }
+          },
+          "hash": "017a35ed1312804d699f29c3c7ed87f698d35380",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138593$4EDCBD66-B414-4FE6-B80D-643001239574",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138593$399CEBA1-CC50-4C5F-96AE-28FC530CF26E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138593$34A1892A-4169-4BD4-A432-6819A3EDC81E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139858",
+              "numeric-id": 139858
+            }
+          },
+          "hash": "284ff508ebd3e161ba412dd5b90258911d99582b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138593$94A284E5-9871-4E35-BCFC-1CCBE7277FF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138593$85A87B59-4672-4184-AF98-7BD4759A2862",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138593$18732A1A-FE31-4F46-9938-27A15984012E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0376-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2d6623282fdccc671158b3b7713f03ef06f02d1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138593$66C8C199-D364-4604-A103-6D4FC11DA6FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q936716"
+          },
+          "hash": "8ab65cf0df61f9f49b4686a76982fd0c7283f9c9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138593$466A3B6E-DFBE-444E-9B72-5499ED2E41D1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Aurelius Avianius Symmachus Arms.svg"
+          },
+          "hash": "b368189a6800cbea5d51965dd02bbc3fded95553",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "spätantiker römische Senator"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman politician"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sénateur romain"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-376)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q138593",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Аврелий Авианий Симах"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Aureli Aviani Simmac"
+    },
+    "da": {
+      "language": "da",
+      "value": "Lucius Aurelius Avianius Symmachus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Aurelius Avianius Symmachus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Αυρήλιος Αβιάνιος Σύμμαχος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Aurelius Avianius Symmachus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Aurelius Avianius Symmachus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Lucius Aurelius Avianius Symmachus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Luci Aureli Aviani Simmac"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Aurelio Avianio Simmaco"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Aurelius Avianius Symmachus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Aurelius Avianius Symmachus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Aurélio Aviânio Símaco Fosfório"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Aurélio Aviânio Símaco Fosfório"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Аврелий Авианий Симмах"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lucius Aurelius Avianius Symmachus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Аврелій Авіаній Сіммах"
+    }
+  },
+  "lastrevid": 17556515,
+  "modified": "2025-09-17T11:35:48Z",
+  "ns": 860,
+  "pageid": 166978,
+  "sitelinks": {},
+  "title": "Item:Q138593",
+  "type": "item"
+}

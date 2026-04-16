@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lleucu ferch Elidir ap Rhys ap Gronwy"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q140601$56079B63-630B-480D-88B6-B3AF53E9A6A7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00709814"
+          },
+          "hash": "af4d8e29c07636e6784eb84b52acd9e0accc9b86",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140601$746FCC95-EA0C-44AF-9F9B-7168A0662240",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142538",
+              "numeric-id": 142538
+            }
+          },
+          "hash": "57865910a8d8c7a53fde9a324eec611822c5c7ea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140601$01B496F8-6D03-4369-A46B-75D764806BB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142923",
+              "numeric-id": 142923
+            }
+          },
+          "hash": "5ca0f6e49f2949200af4bac1a6e530dc241c798b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140601$99103DBF-3F18-4D9F-A594-CC0856D97769",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140601$EF5E22F9-4F9A-4BC0-9475-F78863749710",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q140601$0FAB402B-8C81-44A1-8AD0-8118A3207F23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145611",
+              "numeric-id": 145611
+            }
+          },
+          "hash": "11ef1dec1a07dfa2a36283204abb46183b08a8c9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140601$490490AD-9CC7-4692-9B0D-D97CB61BB607",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139025",
+              "numeric-id": 139025
+            }
+          },
+          "hash": "d1b4c7d88fa81c51740cc00ba63601ac0429903e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q140601$A2BA85E5-5C89-41B4-A43C-E13FF7397626",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139026",
+              "numeric-id": 139026
+            }
+          },
+          "hash": "4688cb0ee4a1679e3a3993b7cf9c37ebcbc974d7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140601$29A3AAE3-0D3A-4047-863A-700EA42899F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140601$C044EE34-9A91-4891-9955-8AFB858F6E15",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q128855656"
+          },
+          "hash": "d9ed39de042115742aab6eb26a15654f3e68f1b8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140601$E748AEC8-196C-4CAF-993D-A22E4AE321EF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lleucu ferch Elidir ap Rhys ap Gronwy Arms.svg"
+          },
+          "hash": "31ab01b04dbefff357e5fcb32b5e27504fad8903",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q140601",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Lleucu ferch Elidir ap Rhys ap Gronwy"
+    }
+  },
+  "lastrevid": 17560029,
+  "modified": "2025-09-17T12:26:14Z",
+  "ns": 860,
+  "pageid": 168986,
+  "sitelinks": {},
+  "title": "Item:Q140601",
+  "type": "item"
+}

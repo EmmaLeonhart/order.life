@@ -1,0 +1,402 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Caecilius Metellus Caprarius"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141403$F840AC67-DC11-4D58-9604-A3AFAA54741D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735446"
+          },
+          "hash": "946c7217344010473c7e46a1cef359ef69321336",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141403$D98BCC73-51D7-4F4A-A3E3-BF0D876B6144",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141638",
+              "numeric-id": 141638
+            }
+          },
+          "hash": "30333f4cafa7c8478a7ac79aacdc2ce9271a287f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141403$21561588-14A9-4426-AA9A-43D8BAEAB015",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141639",
+              "numeric-id": 141639
+            }
+          },
+          "hash": "6d1cf7c4cb007ac7c7dda52e494f7092f67b1a95",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141403$BC9BBEF2-E9CA-420F-9866-83BC4AC1FC1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141636",
+              "numeric-id": 141636
+            }
+          },
+          "hash": "f0b7fa7c9246bdf2d6b1d2bc7139dee2a1cf360e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141403$610B898F-F69D-41B9-ADF2-71A97F82CEC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141403$5CCC482D-4D3B-4B05-9298-01F0F75064A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141403$B7BDF900-08AC-4E47-B219-968312B1B87B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius_Caecilius_Metellus_Caprarius_(1)"
+          },
+          "hash": "54de3b133b60300efacd295ce2fbc0a5dd05b02a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141403$3006AF1F-B948-4567-AA1D-D04A65F4727F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72858",
+              "numeric-id": 72858
+            }
+          },
+          "hash": "f532867bc9ef3c66f1d94c997e5522643ca1b467",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141403$CE08BC7F-B5C7-45F5-8510-D3BA3AE37772",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141403$9BA1A409-9CED-4A49-99EA-0465B591DF8E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0157-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "98988abd782cd50b57e7559c2f803a4f8d739830",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141403$19DD1131-66FC-475B-BF81-2B4BB32EC921",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "19585ebc3231970eccfe06ed51100345dc7e3572",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141403$E335BD40-990B-4602-BD7B-6A3762A65020",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q459853"
+          },
+          "hash": "dc33ee2a947cd316a2c65e01eb4c11bf46245a90",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q141403$9366C387-720C-4775-8BDB-2E87C35DA6D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:25594"
+          },
+          "hash": "5ca1fde7fbf38bff44315720d2791fbc47c5c0f3",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141403$00D44E8D-DA88-4E2C-ABFC-CACA5AFC1F89",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Caecilius Metellus Caprarius Arms.svg"
+          },
+          "hash": "df116dbb7d05ed929d95c33cfa3fc42bff241f93",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ancient Roman consul (113 BC)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 113 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 113 года до н. э., цензор 102 года до н. э."
+    }
+  },
+  "id": "Q141403",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Цецилий Метел Капрарий"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Cecili Metel Caprari"
+    },
+    "da": {
+      "language": "da",
+      "value": "Caecilius Metellus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Caecilius Metellus Caprarius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Καικίλιος Μέτελλος Καπράριος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Caecilius Metellus Caprarius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Cecilio Metelo Caprario"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Caecilius Metellus Caprarius"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Caius Caecilius Metellus Caprarius"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gaius Caecilius Metellus Caprarius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Cecilio Metello Caprario"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイウス・カエキリウス・メテッルス・カプラリウス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Caecilius Metellus Caprarius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Caecilius Metellus Caprarius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gajusz Cecyliusz Metellus Kaprariusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Cecílio Metelo Caprário"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Cecílio Metelo Caprário"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Цецилий Метелл Капрарий"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaj Cecilije Metel Kaprarije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Caecilius Metellus Caprarius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Цецилій Метелл Капрарій"
+    }
+  },
+  "lastrevid": 17561224,
+  "modified": "2025-09-17T12:44:12Z",
+  "ns": 860,
+  "pageid": 169788,
+  "sitelinks": {},
+  "title": "Item:Q141403",
+  "type": "item"
+}

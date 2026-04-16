@@ -1,0 +1,580 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Lentulus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139540$36B8AE68-045F-48E7-9D99-75DDC9BF1D38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465104"
+          },
+          "hash": "e8eccb4356c0d8c432effbc117d1315c34522450",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139540$8BF35863-DF1D-4BB7-B7B3-1142ECD4990F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138392",
+              "numeric-id": 138392
+            }
+          },
+          "hash": "eaa04c431b6679d8e9aa15a0113eea7854c13940",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139540$06272D7F-149D-4156-8F72-81E6426FC539",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139541",
+              "numeric-id": 139541
+            }
+          },
+          "hash": "0a051624c79d4843867e6d59036209c991b69811",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139540$7525DD46-2F49-4027-992C-1BC1AF8D8C9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139540$C91B98FD-2551-4A33-83C6-A8ADE18D630B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139540$C68348D5-1C4A-47AB-A207-BE85A35D9D7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139540$2D5E070C-6E91-4DD6-B4EF-873A743CB2AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139540$C43AE60C-E8DC-427D-AC3C-3858121BF962",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0130-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "546ae828162fe762326eaf20f98f1d27213b75b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139540$86AC3D30-F8BA-499A-9C58-B1F9DD40255B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q174536"
+          },
+          "hash": "da747120834db1489998289b3ad6a512793a1ce2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139540$95E6DD9A-7A10-4AA5-B4DC-5D1433790A2E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Lentulus Arms.svg"
+          },
+          "hash": "d064a1507c08d3908510a8a2e82ce889d70e6dab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "cònsol romà l'any 130 aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 130 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 130 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 130 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 130 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano, console nel 130 a.C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (????--129)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "консул 130 года до н. э."
+    }
+  },
+  "id": "Q139540",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "an": {
+      "language": "an",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "لوسيوس كورنيليوس لينتولوس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Луций Корнелий Лентул"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Corneli Lèntul"
+    },
+    "co": {
+      "language": "co",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "dsb": {
+      "language": "dsb",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Lucio Kornelio Lentulo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cornelio Léntulo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "ht": {
+      "language": "ht",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Cornelio Léntulo"
+    },
+    "is": {
+      "language": "is",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Lentulo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・コルネリウス・レントゥルス"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "li": {
+      "language": "li",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "mwl": {
+      "language": "mwl",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "pdc": {
+      "language": "pdc",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "pfl": {
+      "language": "pfl",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "pi": {
+      "language": "pi",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Cornélio Lêntulo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Cornélio Lêntulo"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Корнелий Лентул"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "stq": {
+      "language": "stq",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "szl": {
+      "language": "szl",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Лентул"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "zea": {
+      "language": "zea",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卢基乌斯·科尔内利乌斯·莱恩图鲁斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "卢基乌斯·科尔内利乌斯·莱恩图鲁斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "盧基烏斯·科爾內利烏斯·萊恩圖魯斯"
+    }
+  },
+  "lastrevid": 17558063,
+  "modified": "2025-09-17T11:57:41Z",
+  "ns": 860,
+  "pageid": 167925,
+  "sitelinks": {},
+  "title": "Item:Q139540",
+  "type": "item"
+}

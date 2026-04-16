@@ -1,0 +1,825 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Annia Galeria Faustina Minor Faustina"
+      },
+      {
+        "language": "en",
+        "value": "Annia Galeria Faustina Minor, Roman Empress"
+      },
+      {
+        "language": "en",
+        "value": "Annia Galeria Faustina"
+      },
+      {
+        "language": "en",
+        "value": "Faustina the Younger"
+      },
+      {
+        "language": "en",
+        "value": "Annia Galeria  Faustina"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q63747$19643809-153E-41CD-8754-4ADEE93E9046",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "246077"
+          },
+          "hash": "3f3f7acbb7aa5f9c52941eeda91dff1eb655a9a6",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q63747$7F153A11-27B1-4CB3-A8FC-3577FDB8C26B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446848"
+          },
+          "hash": "9c5a20d1f06881e5b051c92617e77fce74e0eebd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q63747$9372F960-57E2-4426-BFB5-43547BA6CB07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63192",
+              "numeric-id": 63192
+            }
+          },
+          "hash": "e4a311c28942ab911bb25aeb1839b781ebf62a63",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63747$634E1585-0708-4556-A905-E6B9C99C364A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76508",
+              "numeric-id": 76508
+            }
+          },
+          "hash": "fbf6c55b7547c3056b5033bdca93532981371aec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63747$8916FB66-0844-48D3-9F86-6A2795C684F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138583",
+              "numeric-id": 138583
+            }
+          },
+          "hash": "356ea8eba24816903f803f342158d52e3dbd9cba",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63747$0CAAC5D9-8DA3-47E7-B18F-CA4FA2E84B62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138576",
+              "numeric-id": 138576
+            }
+          },
+          "hash": "4348a08f23c46baddd690a1565d1f1325b93a67e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63747$BD60AE73-6A25-4D0D-BA5D-0EE343DDC248",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138582",
+              "numeric-id": 138582
+            }
+          },
+          "hash": "53edda327cdd898fb553ca713368edacf50436bb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63747$18505250-1069-4A1A-960D-C8FA45DFFB08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138579",
+              "numeric-id": 138579
+            }
+          },
+          "hash": "829780cbd2618d76e1052108f6f0b809e14d8b2b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63747$1A213238-90F1-4081-9B21-CC417A4BF2F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138578",
+              "numeric-id": 138578
+            }
+          },
+          "hash": "8e178d1d7932f0f309bc1b8400f86ed8fa6b82df",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63747$429B6AE8-D260-4C5C-AA22-DF67CFA9F5EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138580",
+              "numeric-id": 138580
+            }
+          },
+          "hash": "78593ee0138cb976c1f62ca4c0ded51537541e32",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63747$49438A9F-A567-49C2-AE50-89857384E0EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138581",
+              "numeric-id": 138581
+            }
+          },
+          "hash": "88b2bf397bbbf453d2a4bd17ec0c6cce11fa6523",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q63747$EF25A62E-485E-4A85-8EA6-C5807DF40C5F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Faustina-1"
+          },
+          "hash": "3fc9b7f6a8ea51327fa4c6660ebf9f8c534fcebe",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q63747$B26C3AB6-1B5B-41DB-A9A5-10ED13D40545",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63747$A83E725F-80CD-448D-A0E2-5D2BA862FA9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q63747$DBF5BD1B-BB2F-43A9-A304-B0A848D32258",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Faustina_Unknown_(1)"
+          },
+          "hash": "47947b9ddd29ed75f6328b3fd2042b07898a475f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q63747$CBC7832E-0569-4DF9-995B-DD8574DEEF89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63780",
+              "numeric-id": 63780
+            }
+          },
+          "hash": "101b01950946b6314560d565249f95628e3e2dc2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q63747$59B06A68-AF60-440D-AA34-8665186B4D00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64516",
+              "numeric-id": 64516
+            }
+          },
+          "hash": "d6bfa5157252601019f6dbf1c3d846b120142fa0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q63747$E2BD7677-1FD6-4EDA-A6CE-0CF7BA944A65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64483",
+              "numeric-id": 64483
+            }
+          },
+          "hash": "86f0d787c5a741435bf1db35c1fefaa44363b416",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q63747$35E81826-A43E-473D-AB81-2DC917C3916A",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Annia Galeria /Faustina/"
+            }
+          },
+          "hash": "77de3b3c7e480ec95623a4547e868cf7bd120801",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63747$6B1C9B02-918E-4BFA-900D-C610B354C8F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63747$4CDE4CD9-E8DE-4C88-9D62-97718AB12B6D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0125-02-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4a9997886b41adf50cdaa235e4d66edaf5e4fa0b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63747$33A3E283-8D08-483E-91C1-D317ECA9C126",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0175-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2c1a228a62c08ab02806075822c18ea5a82d5c40",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63747$E857AA1E-2FD1-4C98-BC8C-9973D4122AD7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q236936"
+          },
+          "hash": "124598512b5fd11ecabdbed0ea12cdec55221de9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q63747$FCCBCFB2-F1AB-43C6-BF69-6988296451C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002005998997"
+          },
+          "hash": "4a5c77582ee412ca30d7884c5bc187e418329eed",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q63747$EB6DE359-87DB-43AA-B56B-D0678A57BF2B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:33586"
+          },
+          "hash": "279d8080467db4374f7a3b7ffdd727b316522165",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63747$77B248F5-A5E7-4D27-AD75-C2D0D00E3164",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Faustina the Younger Arms.svg"
+          },
+          "hash": "1a00063fbb08fc9377327d7d73411a59974ad935",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q63747$1089D055-9799-452D-9C40-EC487FB8DD05",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/C3A24E7F-7641-4551-A991-662A52060022|term/4804AC12-15FD-4BAB-986E-B4DD93DB26B1"
+          },
+          "hash": "67ec7e3998bb7b1ca89df29d7440e31d03106aba",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسيه من روما القديمه"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římská císařovna (130 př. n. l.)"
+    },
+    "de": {
+      "language": "de",
+      "value": "römische Kaiserin, Gattin Mark Aurels"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Empress and wife to Roman Emperor Marcus Aurelius"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "edzino de Marko Aŭrelio, imperiestro de Romio; filino de Antonio Pio, imperiestro de Romio"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "keisari Marcus Aureliuksen puoliso"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice romaine"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשת הקיסר הרומי מרקוס אורליוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Marco Aurelio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politica uit Oude Rome (125-175)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Rzymianka"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "imperatriz romana"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "împărăteasă romană"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римская императорица, жена Марка Аврелия"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk kejsarinna"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "உரோமானிய பேரரசி"
+    }
+  },
+  "id": "Q63747",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فوستينا الصغرى"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فوستينا الصغرى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Faustina la Menor"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фаустина Млада"
+    },
+    "br": {
+      "language": "br",
+      "value": "Faustina ar Yaouankañ"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Faustina Mlađa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Faustina Menor"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Faustina"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Faustina yr Ieuengaf"
+    },
+    "da": {
+      "language": "da",
+      "value": "Faustina den yngre"
+    },
+    "de": {
+      "language": "de",
+      "value": "Faustina die Jüngere"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φαυστίνα η Νεότερη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Faustina the Younger"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Faustina the Younger"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Faustina the Younger"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Faŭstino la Juna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Faustina la Menor"
+    },
+    "et": {
+      "language": "et",
+      "value": "Faustina noorem"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Faustina Gaztea"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Faustina nuorempi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Faustine la Jeune"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Faustina Óg"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Faustina Bheag"
+    },
+    "he": {
+      "language": "he",
+      "value": "פאוסטינה הצעירה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ֆաուստինա Կրտսեր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Faustina Minor"
+    },
+    "it": {
+      "language": "it",
+      "value": "Faustina minore"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンニア・ガレリア・ファウスティナ・ミノル"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "소 파우스티나"
+    },
+    "la": {
+      "language": "la",
+      "value": "Annia Galeria Faustina Minor"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "芙絲汀娜"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "جوون فائوستینا"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Faustina den yngre"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Faustina de Jongere"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Faustina den yngre"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Faustina la Jove"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Faustyna Młodsza"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Faustina"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Faustina, a Jovem"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Faustina cea Tânără"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фаустина Младшая"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Faustina Mlađa"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Фаустина Млађа"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Faustina d.y."
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பாஸ்டினா தி யங்கர்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Faustina Genç"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фаустіна Молодша"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小福斯蒂娜"
+    }
+  },
+  "lastrevid": 17473806,
+  "modified": "2025-09-16T15:47:29Z",
+  "ns": 860,
+  "pageid": 78578,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q63747",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q63747"
+    }
+  },
+  "title": "Item:Q63747",
+  "type": "item"
+}

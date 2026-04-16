@@ -1,0 +1,327 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Pomponius Graecinus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141576$138AB62F-4EA8-44B5-AD2C-D42D61C39181",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "187094"
+          },
+          "hash": "5e37d87d2944075fc5433e5c1896b4f692ac2a17",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q141576$233ED9A0-3E83-4859-8488-022F68D087B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736090"
+          },
+          "hash": "255455c72ace1bf72a36ce3cf7c28d25b961b546",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141576$A8CE027E-D76B-49B4-90D1-F1E523A2404F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141577",
+              "numeric-id": 141577
+            }
+          },
+          "hash": "79bee5f2b05439a83ee3ff6faa15aa2be6fb5b01",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141576$92934CD1-5807-4382-BC29-BB3C3B6DCD31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141576$748696AA-4167-4200-8996-94E5C4FEA9ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141576$A2EE2FAD-0729-48D5-9C54-35869A934AAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139678",
+              "numeric-id": 139678
+            }
+          },
+          "hash": "305cdf3ad14ee4c52e7ef25cc2762df0e9830b8b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141576$99194939-D5D0-446C-9B5B-B2A6CE145E4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141576$A7BAAC30-B6F2-4152-9A14-5C82C7F8E950",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141576$55EF574D-345A-4A18-810B-E49D670FB791",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0038-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5ccdd2859df9d63fbb2248292edffdb85578679d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141576$474D5D4E-BCAC-4EAD-AE7F-F8257D544546",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q984421"
+          },
+          "hash": "eb1367af30a9b8a37bdf6f9eb5e58c2e60937759",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141576$CA02E7AE-CFC9-4438-B4AF-E95809E025DA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Pomponius Graecinus Arms.svg"
+          },
+          "hash": "1263c5dd16fd049684ffb343db049ab8e5102b60",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Senator"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman senator and consul active during the reign of Tiberius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul, frère arvale"
+    },
+    "it": {
+      "language": "it",
+      "value": "magistrato e militare romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-38)"
+    }
+  },
+  "id": "Q141576",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Помпоний Грецин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Pomponi Grecí"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Pomponius Graecinus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Πομπόνιος Γκραικίνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Pomponius Graecinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Pomponio Grecino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Pomponius Graecinus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Pomponio Grecino"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Pomponius Graecinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Pomponius Graecinus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Pompônio Grecino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Pompônio Grecino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Помпоний Грецин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Pomponius Graecinus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Помпоній Грецин"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蓋烏斯•龐波尼烏斯•葛萊西亞"
+    }
+  },
+  "lastrevid": 17561512,
+  "modified": "2025-09-17T12:48:25Z",
+  "ns": 860,
+  "pageid": 169961,
+  "sitelinks": {},
+  "title": "Item:Q141576",
+  "type": "item"
+}

@@ -1,0 +1,324 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Aemilius Scaurus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139739$8802417A-DB6D-40F8-BCA7-33A230CA9F2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735680"
+          },
+          "hash": "a8f184dbed7c55d8b9365d6547fe07d1bfa913b8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139739$CDDEE25A-BE1C-4FED-AA66-E3D65750F8A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141644",
+              "numeric-id": 141644
+            }
+          },
+          "hash": "cf35302194cf27597f31f278be890c091507bf2f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139739$AAC89E6E-2E7F-484A-9DBE-5DF319A26E4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139739$CB36F643-0BE5-44AD-A56D-FED3A81B3C10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139739$C926639E-0995-40C9-A584-FF27DF6A2497",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus_Aemilius_Scaurus_(1)"
+          },
+          "hash": "b764a426e6aabe7f30c06b36abb536c19f821b50",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139739$6BB71D66-D55F-4B25-ABF8-75605DEC5E51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139734",
+              "numeric-id": 139734
+            }
+          },
+          "hash": "20922977ea5b9293a9d912e316ab58d56076161f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139739$D943CDE4-AF89-45D0-A600-F6D108B91534",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72266",
+              "numeric-id": 72266
+            }
+          },
+          "hash": "cb3f0e4b1239ac53f9bc3bd009047542c6d5ab29",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139739$20A4564A-0B28-464C-962B-E84BD75280F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139739$A71D9059-985F-4F34-B5CE-F2678F0A51E8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0060-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b98e80082d823002cf6c3fa6f4113e9b7c461679",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139739$AB229E69-73F1-4A73-ABB4-3F794F5EE955",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3655539"
+          },
+          "hash": "52047abf9f52b57995ae62cc0daad3c743d12619",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139739$F0A261CE-2877-46A2-9515-DD8CB4CA8586",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Aemilius Scaurus Arms.svg"
+          },
+          "hash": "7919c20a8b4f08ce4b380bc02f1b36bd1449111b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1st century BC Roman military officer"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain, partisan d'Antoine"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q139739",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Емилий Скавър"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Emili Escaure (pompeià)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Aemilius Scaurus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Aemilius Scaurus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Emilio Escauro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Aemilius Scaurus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Emilio Scauro"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Aemilius Scaurus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Aemilius Scaurus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Marek Emiliusz Skaurus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marcos Emílio Escauro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marcos Emílio Escauro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Эмилий Скавр"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Емілій Скавр"
+    }
+  },
+  "lastrevid": 17558391,
+  "modified": "2025-09-17T12:02:20Z",
+  "ns": 860,
+  "pageid": 168124,
+  "sitelinks": {},
+  "title": "Item:Q139739",
+  "type": "item"
+}

@@ -1,0 +1,779 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John the Apostle"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141709$CAF8B7AD-DA29-4BD0-B060-95830005F60C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "505981|304127|1230277"
+          },
+          "hash": "8e2560b5c7e0bfb9188a58ef1d2fc2bb31d68c8e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141709$F91B40E2-74FA-4B3C-AEA5-67D44B48716F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141709$B12B566B-7E70-48F1-A666-C6230A7E086E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141709$A42DF167-7491-4AF7-83CA-D849AD220FD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141707",
+              "numeric-id": 141707
+            }
+          },
+          "hash": "39f4e2c44538aefaae070ab7c35463f6128b5eef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141709$97231E81-4E4E-444E-9999-0463D53C9863",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139789",
+              "numeric-id": 139789
+            }
+          },
+          "hash": "337e9e4a9c6a8a3875ea2fec920623ff946dcee5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q141709$C744AF34-2162-4957-B6F0-E0C4A8614EEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6021"
+          },
+          "hash": "eb3d32c52b27f3ef8e8d42d03072be7d68417ae4",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141709$C6C8E028-380C-458B-8A32-F4B2FF388526",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141709$489700D6-2C77-48B3-BE61-24750A960901",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0011-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "853cd157c6d1c9bf69cd4f8c6db053fc9db10d7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141709$2A6016BF-E5A2-422B-9C38-6723C3F093EE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0099-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b41170fb446f74cbfd75191fbce794e4059c3661",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141709$5E3ED81F-4FA8-4EC9-90D3-C25D2BA936DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q44015"
+          },
+          "hash": "307acd7099bccf6fa536708a004eabc0c3bc7705",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141709$C6C50C7A-9166-45F2-B324-193BFCC01284",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John the Apostle Arms.svg"
+          },
+          "hash": "f2345283d1a20d8349fc25cfc727e73c0ab0e36b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أحد تلاميذ يسوع المسيح الاثني عشر"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "апостал Ісусаў"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "apòstol de Jesús"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "apoštol Ježíše Krista; bratr Jakuba"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "apostol yng Nghristnogaeth"
+    },
+    "de": {
+      "language": "de",
+      "value": "Apostel Jesu"
+    },
+    "en": {
+      "language": "en",
+      "value": "apostle of Jesus; son of Zebedee and Salome, brother of James; traditionally identified with John the Evangelist, John of Patmos, and the Beloved Disciple"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "apostolo de Jesuo"
+    },
+    "es": {
+      "language": "es",
+      "value": "apóstol de Jesús de Nazaret"
+    },
+    "et": {
+      "language": "et",
+      "value": "apostel"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "apostolua"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "apostoli"
+    },
+    "fon": {
+      "language": "fon",
+      "value": "Ahwanvu Jezu tɔn"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "apôtre, évangéliste et disciple de Jésus-Christ"
+    },
+    "he": {
+      "language": "he",
+      "value": "אחד משנים עשר השליחים של ישו"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "őskeresztény apostol, evangélista"
+    },
+    "id": {
+      "language": "id",
+      "value": "salah satu dari Para Rasul, Santo Katolik"
+    },
+    "it": {
+      "language": "it",
+      "value": "apostolo di Gesù ed evangelista"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "예수 그리스도의 12사도 중 하나"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "apòstolo do Gêxù"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "viens no divpadsmit Jēzus Kristus apustuļiem"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "апостол"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "leerling van Jezus, mogelijk dezelfde als Johannes de Evangelist"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "uczeń Chrystusa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "apóstolo de Jesus, filho de Zebedeu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "apóstolo de Jesus, filho de Zebedeu"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "apostol creștin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "апостол Иисуса Христа и святой"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "apoštol Ježiša Krista; brat Jakuba"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jezusov apostol; sin Zebedeja in Salome, Jakobov brat; tradicionalno ga enačijo z Janezom Evangelistom, Janezom s Patmosa in Ljubljenim učencem"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "апостол и хришћански светитељ"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Апостол Исуса и светац"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "en av Jesu tolv apostlar"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இயேசுவின் பன்னிரு திருத்தூதர்களில் ஒருவர்"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Một trong 12 Tông Đồ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "耶稣门徒，传统观点认为即《约翰福音》作者"
+    }
+  },
+  "id": "Q141709",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Johannes die Apostel"
+    },
+    "an": {
+      "language": "an",
+      "value": "Sant Chuan"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "يوحنا بن زبدي"
+    },
+    "arc": {
+      "language": "arc",
+      "value": "ܝܘܚܢܢ ܫܠܝܚܐ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يوحنا الرسول"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Xuan l'Apóstol"
+    },
+    "az": {
+      "language": "az",
+      "value": "Həvari İoann"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "یوحنا"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Johannes"
+    },
+    "be": {
+      "language": "be",
+      "value": "Іаан Багаслоў"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Ян"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йоан Богослов"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "প্রেরিত যোহন"
+    },
+    "br": {
+      "language": "br",
+      "value": "Yann an Avielour"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan l'Apòstol"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Iók-hâng"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "apoštol Jan"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ioan"
+    },
+    "da": {
+      "language": "da",
+      "value": "Apostlen Johannes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johannes"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Yuhanna"
+    },
+    "el": {
+      "language": "el",
+      "value": "Απόστολος Ιωάννης"
+    },
+    "en": {
+      "language": "en",
+      "value": "John the Apostle"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Johano la Apostolo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan el Apóstol"
+    },
+    "et": {
+      "language": "et",
+      "value": "Apostel Johannes"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Joan"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یوحنا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Johannes"
+    },
+    "fon": {
+      "language": "fon",
+      "value": "Jăan Mɛsɛdo ɔ"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Sent Jian l'èvangilista"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Jehannes"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Eoin Soiscéalaí"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xoán o Apóstolo"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוחנן בן זבדי"
+    },
+    "ho": {
+      "language": "ho",
+      "value": "Aposetolo Ioane"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sveti Ivan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "János apostol"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հովհաննես առաքյալ"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Յովհաննէս Առաքեալ"
+    },
+    "iba": {
+      "language": "iba",
+      "value": "Rasul John"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yohanes"
+    },
+    "is": {
+      "language": "is",
+      "value": "Jóhannes postuli"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨハネ"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Yohanes"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იოანე ღვთისმეტყველი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사도 요한"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ioannes (apostolus)"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Jang"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "San Gioâne"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "San Gioann"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Apaštalas Jonas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Apustulis Jānis"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Jaona apostoly"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Јован Богослов"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "യോഹന്നാൻ ശ്ലീഹാ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Santo Yohanes"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "San Ġwann Appostlu"
+    },
+    "my": {
+      "language": "my",
+      "value": "ရှင်ယောဟန်"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Apostelen Johannes"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Johannes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Johannes de apostel"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Apostelen Johannes"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Joan"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Saint Jean chl'Apostoéle"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan Apostoł"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Gioann"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "یوحنا بن زبدی"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Apostolul Ioan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн Богослов"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Apostol Ivan"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Ján apoštol"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Janez Apostol"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gjoni (apostull)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Апостол Јован"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Апостол Јован"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Johannes"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Mtume Yohane"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "யோவான்"
+    },
+    "th": {
+      "language": "th",
+      "value": "ยอห์นอัครทูต"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Juan ang Alagad"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan Jowane"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yuhanna"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Яхъя Зебедәй улы"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іван Богослов"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "یوحنا بن زبدی"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Yuhanno"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Joani apòstoło"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Gioan Tông đồ"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Djihan"
+    },
+    "war": {
+      "language": "war",
+      "value": "Juan nga apostol"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "约翰 (使徒)"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "聖若望"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "使徒約翰"
+    }
+  },
+  "lastrevid": 17561722,
+  "modified": "2025-09-17T12:51:23Z",
+  "ns": 860,
+  "pageid": 170094,
+  "sitelinks": {},
+  "title": "Item:Q141709",
+  "type": "item"
+}

@@ -1,0 +1,339 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Joseph"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141669$2645B5A3-0393-42BC-9534-C60789E6682D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738003"
+          },
+          "hash": "629476968948ef504e2a40459ca9e895227702e7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141669$D77C1A21-3A68-4275-ACC3-B64D67D1C627",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144305",
+              "numeric-id": 144305
+            }
+          },
+          "hash": "046180710aad474f9a2755b3faff7eb198cf435e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141669$D480E10C-EA06-446C-8DA5-E9D19B2B3930",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141669$46396290-474B-4CC9-8B01-0CD375F2B129",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141669$F620D19A-6A92-4915-AAAB-7FA7032CB6FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141668",
+              "numeric-id": 141668
+            }
+          },
+          "hash": "90be219ceaea9d931d05b9a92b8a9719f48001e1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141669$7EE8BCE2-4D78-4919-8363-38935BA990CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78348",
+              "numeric-id": 78348
+            }
+          },
+          "hash": "fc6fc528126bc3070db7d180cb8291cc568de581",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141669$D5E79493-BF08-47C2-8398-D530DD5C5B34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141669$E731B9D4-DF09-448B-A0E4-07320E9D1D08",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141669$300351A6-EA6C-485D-A3A6-CFF4AE981307",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0038-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "98c3d0f2fd81c4873e5ddfb4c7df170e6fedc5ae",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141669$6F8FDC26-6A3A-4F48-9869-B4EED82B3C33",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10308667"
+          },
+          "hash": "83d792e0e7b9fa5dadebf0815b352f0576387c07",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141669$8D83F564-587E-442E-AC22-81DB880C37D3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Joseph Arms.svg"
+          },
+          "hash": "1374b0cdc0c3e54c93660fc9e7a03201044a6e27",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "germà d'Herodes el gran"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "bratr Heroda Velikého"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Αντίπατρου του Ιδουμαίου"
+    },
+    "en": {
+      "language": "en",
+      "value": "brother of Herod the Great"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "frato de Herodo la Granda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "frère d'Hérode le Grand"
+    },
+    "he": {
+      "language": "he",
+      "value": "אחיו של הורדוס הגדול"
+    },
+    "it": {
+      "language": "it",
+      "value": "fratello di Erode il Grande"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "brat Heroda Velikega"
+    }
+  },
+  "id": "Q141669",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Josep"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Josef"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωσήφ Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Joseph"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Jozefo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Joseph II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Joseph II"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Iósaf"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוסף"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giuseppe II"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iosephus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Józef II (brat Heroda Wielkiego)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "José (irmão de Herodes)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jožef"
+    }
+  },
+  "lastrevid": 17561650,
+  "modified": "2025-09-17T12:50:22Z",
+  "ns": 860,
+  "pageid": 170054,
+  "sitelinks": {},
+  "title": "Item:Q141669",
+  "type": "item"
+}

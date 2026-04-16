@@ -1,0 +1,305 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pseudo-Marius"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141603$9528AA7E-8B68-491F-9DA4-606B3AE74542",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141603$F0FD8120-832A-46F6-9FBA-2FDC9ECFED7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141603$EA01B5CB-1411-49DA-8D67-89759012193D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139698",
+              "numeric-id": 139698
+            }
+          },
+          "hash": "34e52bd060f570571310712dd0d7ac4fe8cc7763",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141603$04498A2A-E412-4F7B-9EE0-99EA321A1C7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141602",
+              "numeric-id": 141602
+            }
+          },
+          "hash": "8530e3fab459ca134e7d555a7dbc6abdd22b0493",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141603$0082EC08-292E-4149-B690-9772A5DDF49B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141603$D652DDDB-73E3-45FD-B9B0-142A7934717C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141603$5FE32051-4494-46FA-9124-1AD8CBAD9954",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0044-04-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4d6432bc8e4e8d0fc21727a2088b534334af4355",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141603$871362C2-2BC4-4511-94A8-6A7D6018D3B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q98998"
+          },
+          "hash": "aa3cad9b61f3a5ec87d7709b0f53b88d1aff245a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141603$D58ABB85-C1EB-454F-9F6A-F20CBDF9AEE6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Max Steen Arms.svg"
+          },
+          "hash": "5ac5987daf6c7738c3e8197b138ea3d68e3522dd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كاتب ومؤلف ألماني"
+    },
+    "de": {
+      "language": "de",
+      "value": "deutscher Lehrer und Heimatforscher"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "German author"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نویسنده آلمانی"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "údar Gearmánach"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits auteur (1898-1997)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "німецький письменник"
+    }
+  },
+  "id": "Q141603",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ماكس ستين"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Max Steen"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Max Steen"
+    },
+    "da": {
+      "language": "da",
+      "value": "Max Steen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Max Steen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Max Steen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Max Steen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Max Steen"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Max Steen"
+    },
+    "it": {
+      "language": "it",
+      "value": "Max Steen"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Max Steen"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Max Steen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Max Steen"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Max Steen"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Max Steen"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Max Steen"
+    }
+  },
+  "lastrevid": 17561556,
+  "modified": "2025-09-17T12:49:02Z",
+  "ns": 860,
+  "pageid": 169988,
+  "sitelinks": {},
+  "title": "Item:Q141603",
+  "type": "item"
+}

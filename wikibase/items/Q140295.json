@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Efa ferch Maredudd ap Thomas ap Llywelyn"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q140295$3DBFCE9B-7AC2-4583-AB6D-2F5B7985E445",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00701141"
+          },
+          "hash": "5990a85a21ad181021e6aa621bc7454199ee5ed3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140295$C3D024D5-4D9E-4A44-816B-B94B48C94874",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142517",
+              "numeric-id": 142517
+            }
+          },
+          "hash": "18c565499cec00f575ae78889958edf2881e51e8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140295$E332D521-9397-4652-8A1B-1293BE2BEF82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142518",
+              "numeric-id": 142518
+            }
+          },
+          "hash": "29997dfaf57a1b2b26506756b29d90b02fcc8e76",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140295$37503359-A00E-4184-A015-72986C178B87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140295$4F7BEB2B-ED83-4C6C-998B-081CADAE9BEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q140295$294B2990-277B-42FC-9CCC-0A61DAC5EB47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145588",
+              "numeric-id": 145588
+            }
+          },
+          "hash": "60bc557ad5ae2bea1b3f8d261afa1d60ccf7c7f1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140295$1C58F893-F817-4036-A462-5B3C0BF5BC08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142514",
+              "numeric-id": 142514
+            }
+          },
+          "hash": "970f9b0b6590896677134a5d443d46598324df60",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q140295$8CD7483F-3EBF-41E3-8F65-3D396B3A4048",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138840",
+              "numeric-id": 138840
+            }
+          },
+          "hash": "25626ea3ac738ba96cb572fe9a287f9fa8e99059",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140295$40C148B2-EB7B-471F-A4F9-F14EFA8A2EC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140295$1857EBE0-1499-4725-B86F-58249F4D2ED6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130359193"
+          },
+          "hash": "2c68f822975b0c6c0a46624088b597a56cf62c29",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140295$6F62E3EA-95C7-4A52-9102-6B102A24CBDD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Efa ferch Maredudd ap Thomas ap Llywelyn Arms.svg"
+          },
+          "hash": "094bcad80ab4a032de9738df6f331bd80e15c0b4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q140295",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Efa ferch Maredudd ap Thomas ap Llywelyn"
+    }
+  },
+  "lastrevid": 17559419,
+  "modified": "2025-09-17T12:17:10Z",
+  "ns": 860,
+  "pageid": 168680,
+  "sitelinks": {},
+  "title": "Item:Q140295",
+  "type": "item"
+}

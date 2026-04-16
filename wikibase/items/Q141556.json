@@ -1,0 +1,316 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lollia Saturnina"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141556$07D82AE8-CD42-4C56-870C-090F4988E768",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465184"
+          },
+          "hash": "56e9918b834dc7605d6c30cc59fc47e19c88bc4f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141556$83AC76A3-E597-4BCC-9869-B19CE890DD9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144205",
+              "numeric-id": 144205
+            }
+          },
+          "hash": "a3901667024d5b34f127df390d7eb033ef63af5f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141556$3F00A593-D9D9-4070-8D98-6CCA931AB6FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141556$6A5D1CBA-CE62-44C1-9674-132887B8A08A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141556$5D15A5FE-E55D-48B6-8336-810E8F830C97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144204",
+              "numeric-id": 144204
+            }
+          },
+          "hash": "d50a0a1a0ebbd9203dba421fe4a562a12695c983",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141556$43680D0E-A8A9-4EA6-A05E-F64D81695552",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141554",
+              "numeric-id": 141554
+            }
+          },
+          "hash": "d559853ec1a1bb3d8520e52162aa3bedb665b450",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141556$634B4622-A2FC-433A-8F1D-E96AFDB3877A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141555",
+              "numeric-id": 141555
+            }
+          },
+          "hash": "1462660df01d878403912790e2f66fe1b54e8dd7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141556$842610BF-5ADD-42FE-AAE0-8D38FFD486B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141556$4972A791-30E6-4352-A7B1-FA0C45DB3F06",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0010-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "69fddfab783759b609d0e7476944dc813f5190e4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141556$92A5516C-EF10-4554-918F-B9AAC5F0674A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0041-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9575031045f8c62f500833269bf383ec2c684a10",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141556$17C5A7F9-3222-4DC8-857E-E094ED08F0F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4266052"
+          },
+          "hash": "46f01681e13d25941a0df79bfe5a839445e7e00f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141556$BBBEA494-BCD7-4740-83B5-C5676593B796",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lollia Saturnina Arms.svg"
+          },
+          "hash": "e290d5902a6ae97a91e98f6633455835020db649",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "sister-in-law of emperor Caligula"
+    }
+  },
+  "id": "Q141556",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Lollia Saturnina"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лолия Сатурнина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lòl·lia Saturnina"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lollia Saturnina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λολλία Σατουρνίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lollia Saturnina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lolia Saturnina"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lollia Saturnina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lollia Saturnina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лоллия Сатурнина"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лоллія Сатурніна"
+    }
+  },
+  "lastrevid": 17561480,
+  "modified": "2025-09-17T12:47:58Z",
+  "ns": 860,
+  "pageid": 169941,
+  "sitelinks": {},
+  "title": "Item:Q141556",
+  "type": "item"
+}

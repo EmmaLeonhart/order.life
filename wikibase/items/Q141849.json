@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwenllian ferch Rhirid ap Trahaearn ap Pasgen"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141849$FE106D65-9C66-47EA-B551-12F5789E33BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00707868"
+          },
+          "hash": "5770471955e1ceaecbba7021a51ee56c1e108bb5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141849$354E4D2D-ACE6-42C3-A8B6-B5DDC7E9BBF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139887",
+              "numeric-id": 139887
+            }
+          },
+          "hash": "07fb9edd555b7265144ef8573c19fa62c4799ff7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q141849$E889ADCD-C395-4B88-9995-A838B7A3724D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ferch_Rhirid-1"
+          },
+          "hash": "888ae5067ebc4d5003091ec3929d7a80fadf99a3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141849$9FE01CC2-3E7B-461F-B099-C6360C45FC2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141849$4E4D76D6-1324-4B5D-A567-E52C16AAED03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141849$940C4568-9A24-4C88-9023-35373C5F301C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141848",
+              "numeric-id": 141848
+            }
+          },
+          "hash": "e93ae43feb210985d491167cc2d1871af2432c43",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141849$D365124F-9379-4FD9-8907-FC514F34B215",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144515",
+              "numeric-id": 144515
+            }
+          },
+          "hash": "8b13599e888e9fc2521e7c05e9a467776044b8f7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141849$8936D790-32DD-4228-80B4-229DBDB5B4AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141849$51BB10F0-80D0-4E83-A378-A6E7A332F8E9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1102-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c8924565f5bfb11f21464be62f544c905a78a347",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141849$38CDBC39-AF76-4D41-BCEE-97B7992F487D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1147-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "032e80fed96b16325921661b8b18c96a89a8faca",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141849$34EFCF84-8DDE-4833-BCDB-9D9D4219F604",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110662889"
+          },
+          "hash": "2780534b8ceb09d7abdfac0cf0f62717d7a86e1a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q141849$F1501E17-D968-4C56-9EB0-BD548F001908",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwenllian ferch Rhirid ap Trahaearn ap Pasgen"
+          },
+          "hash": "5cfd87fb548ab110c673801dc84e04827d3ed626",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141849$CEE28FFB-C202-4F2E-9A15-BD6A675A60BE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwenllian ferch Rhirid ap Trahaearn ap Pasgen Arms.svg"
+          },
+          "hash": "f3966be738f3699fc6147241402c7c17e1318405",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1102 - 1147"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1102-1147)"
+    }
+  },
+  "id": "Q141849",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gwenllian ferch Rhirid ap Trahaearn ap Pasgen"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gwenllian ferch Rhirid ap Trahaearn ap Pasgen"
+    }
+  },
+  "lastrevid": 17561946,
+  "modified": "2025-09-17T12:54:39Z",
+  "ns": 860,
+  "pageid": 170234,
+  "sitelinks": {},
+  "title": "Item:Q141849",
+  "type": "item"
+}

@@ -1,0 +1,263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gronwy Fychan ap Gronwy ap Llywarch"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q140469$CEDB3B3D-76C1-4FD1-B362-559E0066CF11",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00706632"
+          },
+          "hash": "5cd18a4ec4578ac0d2f338ce5e1b17f927a76794",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140469$84C91F51-4095-47BB-B587-EC45365F305B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138941",
+              "numeric-id": 138941
+            }
+          },
+          "hash": "bff8541b6ddc86114e3b4c17f92a392113cc154e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q140469$0F9D0CFF-A2E4-4BC2-AA15-2F0DCA2E37BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Gronwy-32"
+          },
+          "hash": "1801ea1ae1764c91958d1fd51bd06d5f8b1eb08c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140469$47A6A472-1AF8-4CB7-9704-DD843D543D07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140469$62191DF2-DFF6-4855-AACC-8E2E2FC267C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140469$A303BAE3-DDE8-4796-89EE-271FEFC7C85A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139018",
+              "numeric-id": 139018
+            }
+          },
+          "hash": "14b4893118b4c891aa99e0dd5163eb265405f605",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140469$43E244CB-09AA-41C9-93E0-78A757DC74D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q140469$2ED432F7-A7B0-455E-9B57-541E75A96B30",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q140469$DDA040A7-366E-433F-A3E9-D6F418C995E2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1270-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c606a2489729877ed25a3e6dd285290a04c10d1b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140469$50758961-3CF5-4438-AE8B-D65B1E742B15",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99083963"
+          },
+          "hash": "6c37e67be918216efd5abecf430f2edc4bea66ab",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140469$0062C42B-1848-454D-87CC-95270F1B0BC0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gronwy Fychan ap Gronwy ap Llywarch Arms.svg"
+          },
+          "hash": "d03329b9c074b76f8c711ee4f6f575945c4c64c2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(1200-1270)"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1200 - 1270)"
+    }
+  },
+  "id": "Q140469",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Gronwy Fychan ap Gronwy ap Llywarch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gronwy Fychan ap Gronwy ap Llywarch"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gronwy Fychan ap Gronwy ap Llywarch"
+    }
+  },
+  "lastrevid": 17559765,
+  "modified": "2025-09-17T12:22:14Z",
+  "ns": 860,
+  "pageid": 168854,
+  "sitelinks": {},
+  "title": "Item:Q140469",
+  "type": "item"
+}

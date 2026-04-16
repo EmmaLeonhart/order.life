@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "NN ferch Rhys ap Gronwy Gôch ab Y Bach"
+      },
+      {
+        "language": "en",
+        "value": "NN ferch Rhys ap Gronwy Goch ab Y Bach"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138862$5D5B9E40-AC3A-415E-A6A2-8BF182792CC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00760724"
+          },
+          "hash": "f9a6ba5ef028df0759bea0086d272e36369a1df2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138862$96CC2BCD-FF64-4312-AA74-E810D0226E0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137959",
+              "numeric-id": 137959
+            }
+          },
+          "hash": "303e23be3baf67b644f58d63388f1e8bbe95ca13",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138862$4639F21B-1CCE-43B0-A459-D45BF4527CF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138862$8B296137-157D-4DF5-88A5-5CE23292CD9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138862$FDABBD7D-859F-4BCD-8748-FAE2A6453420",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137350",
+              "numeric-id": 137350
+            }
+          },
+          "hash": "7288a54bc60097a48641f1de7743477d43b712ee",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138862$7ACCAA2C-319C-4522-BFF0-2BBC6F766FB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140320",
+              "numeric-id": 140320
+            }
+          },
+          "hash": "c67a6722c24d35d2b325fcaa53c6c49e5e7d16db",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138862$A8655546-F1D3-4EE3-A69A-2594008EA44D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138862$E7087A27-307F-4E7B-9C3B-6FE8AB9F57FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116469754"
+          },
+          "hash": "8b74acce34ab34ad9d36317181e0624ca90a95a5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138862$F26B7D0C-3B7E-49C0-A594-9183DD67AA4D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "NN ferch Rhys ap Gronwy Gôch ab Y Bach Arms.svg"
+          },
+          "hash": "77530940d10077a840b7a762d2bbd0e63ecdb21c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q138862",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "NN ferch Rhys ap Gronwy Gôch ab Y Bach"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "NN ferch Rhys ap Gronwy Gôch ab Y Bach"
+    }
+  },
+  "lastrevid": 17557047,
+  "modified": "2025-09-17T11:43:24Z",
+  "ns": 860,
+  "pageid": 167247,
+  "sitelinks": {},
+  "title": "Item:Q138862",
+  "type": "item"
+}

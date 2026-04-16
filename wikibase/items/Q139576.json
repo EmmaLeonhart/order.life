@@ -1,0 +1,351 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139576$D18C6026-7A43-4B85-8364-81DDDE555BA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735632"
+          },
+          "hash": "ce4097769e7aa89cee6715bf9e4b976882d3dda2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139576$4FF7DC53-AB95-4082-846F-557CF7173C0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141432",
+              "numeric-id": 141432
+            }
+          },
+          "hash": "58f1c87f1178cdcf38e4cc6652c9e50a0288a27d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139576$876C5D81-6525-4FB7-BF9C-DDC21E8A08A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141425",
+              "numeric-id": 141425
+            }
+          },
+          "hash": "e7f4c9364554185805409c5ed9312e07df085aaa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139576$8FAA4905-343E-4E49-B6B1-5FEEE5963A13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139576$5A75ACBD-9E5C-4EE9-A1B0-0F56350DE0C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139576$1D8046A3-92BB-43B1-B44E-EFB40F736422",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141431",
+              "numeric-id": 141431
+            }
+          },
+          "hash": "4eaef76c1412a5dc15a4b9e14fed3f2bd408331a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139576$4905A0E3-C3FE-4BD9-A115-8E36CF1F324B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139575",
+              "numeric-id": 139575
+            }
+          },
+          "hash": "6cdd92d9184b1a94e543bd301dcc968527b48759",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139576$03698C72-A351-4FB4-8EE7-CA9D309663C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138414",
+              "numeric-id": 138414
+            }
+          },
+          "hash": "5b67b9cc15f88ff4cc0c29f0175b2c0fd8cc4f20",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139576$246CF469-40A6-4ADE-A761-1ACD4603E790",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139576$9210D1DD-3B59-4E0B-9CEB-3A5F12001CA2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139576$FC694942-8B3F-4630-A494-0E5434DEA10D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0014-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4066e10f07764cc3902b98e61bda6856dc09ba62",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139576$AB0F5C2E-DF33-4E5D-A417-6096D201C986",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q544421"
+          },
+          "hash": "9e8bb9ada62b4023a53c56b9b7e116dae64618b1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139576$890141F3-145B-4670-8D87-B7E3D2202AF6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcia Arms.svg"
+          },
+          "hash": "ac3f78e68c39beec06aaf692576436519d42029e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gattin des Paullus Fabius Maximus"
+    },
+    "en": {
+      "language": "en",
+      "value": "cousin of Augustus"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija de Marcio Filipo, cónsul del año 38 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse de Paullus Fabius Maximus"
+    },
+    "it": {
+      "language": "it",
+      "value": "moglie di Paullo Fabio Massimo"
+    }
+  },
+  "id": "Q139576",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Marcia"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марция"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Màrcia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marcia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marcia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Màrcia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марція"
+    }
+  },
+  "lastrevid": 17558129,
+  "modified": "2025-09-17T11:58:37Z",
+  "ns": 860,
+  "pageid": 167961,
+  "sitelinks": {},
+  "title": "Item:Q139576",
+  "type": "item"
+}

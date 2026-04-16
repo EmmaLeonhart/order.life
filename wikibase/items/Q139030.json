@@ -1,0 +1,206 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Aubrey"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139030$14E3265A-A2CE-40A6-9981-0EF1F98F2D2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00699775"
+          },
+          "hash": "b03af9eb496f13f0dc2eae76cffd5a6f71e41693",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139030$B07FE865-BD50-4C99-81DE-96826714C0CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140617",
+              "numeric-id": 140617
+            }
+          },
+          "hash": "97c63f827cc58a2dd92dcb18a3940cbe0863e396",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139030$089BF5A5-400C-42F6-AB93-CF73F8339143",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139030$FF444E90-D4C3-4CBA-92B1-78FEBAF4DE3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139030$9D2078F4-DAB8-4B5F-9530-F2127A8B203E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140616",
+              "numeric-id": 140616
+            }
+          },
+          "hash": "fc558dd4edf53bc679a3a78bc10e87c8d0e59873",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139030$57ADF2C9-B73E-413B-AFE8-2B07D8491144",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138055",
+              "numeric-id": 138055
+            }
+          },
+          "hash": "21e9210db34741a8d41d8fc0600a52ce484b6bdf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139030$9CFA0BCA-FD79-40E0-B2E3-0BA8077AEFBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139030$8536FC3E-AEED-462B-82BA-5B8EBC4639F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99800536"
+          },
+          "hash": "9b6a43965ebd59259cd1c8b05a885186e5b4a014",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139030$93E00FBB-63BA-4D48-ABB1-3876F93B082C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Aubrey Arms.svg"
+          },
+          "hash": "9393783c77ff3a81a3d870ad9ad7c33c361f5b1c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q139030",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Aubrey"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Aubrey"
+    }
+  },
+  "lastrevid": 17557381,
+  "modified": "2025-09-17T11:48:05Z",
+  "ns": 860,
+  "pageid": 167415,
+  "sitelinks": {},
+  "title": "Item:Q139030",
+  "type": "item"
+}

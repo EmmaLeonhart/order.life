@@ -1,0 +1,473 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agrippa Postumus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138426$7B8FD04C-45FF-42A3-AB81-9A2B3F3AC4C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446785"
+          },
+          "hash": "448c28952d1c1a2dec947fdef89f60ffd7964fab",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138426$DC947E3E-BD75-4CDB-A2CF-A24ACA807DE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138426$91622633-BFAB-4425-BDBA-AFE153049461",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138426$F1F9704D-EE1F-4D73-88D0-B31B01EAD7CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Agrippa_Postumus_(1)"
+          },
+          "hash": "f6dbddec5b82df429f810a106341836419eaef5f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138426$C8FBA03C-7FA9-43E7-A794-01E24DEAC76C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72335",
+              "numeric-id": 72335
+            }
+          },
+          "hash": "02d8628d068fece93ed95f4bb8a5367957fa0a47",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138426$7A9DD10C-137F-4576-8D4F-248BFD345AB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72332",
+              "numeric-id": 72332
+            }
+          },
+          "hash": "baba8c4029a6a766d081fc2e5da5ddca76d5bc3b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138426$72DB88DA-5105-405A-BA72-907E4ADBB2A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138426$B90B83EB-D737-4211-9688-38A55DA8B2BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0012-06-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "629f8b6af61b0074a4ce77ac633557c632a4158c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138426$ECC4E904-4162-465F-81A8-92F9F16B618B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0014-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4066e10f07764cc3902b98e61bda6856dc09ba62",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138426$81D00440-FE66-4812-876F-C3C9DA6CFA5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q325906"
+          },
+          "hash": "75b6c8214c854f89af491f65a20cdeffaa287668",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q138426$36D9EC24-FE39-4920-A29B-F0DB32D01CDF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007150951000"
+          },
+          "hash": "07b7bf1d32cd5a426d4a6291914d3f75895c0858",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q138426$CCB739E8-8718-4B59-B16B-C872354F34C1",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Agrippa Postumus"
+          },
+          "hash": "26b04216ce3ff802e6a4bc465734bcd88cd0e1e4",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138426$F18EAFDF-8FC3-4628-8EA9-DD4925B4F560",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agrippa Postumus Arms.svg"
+          },
+          "hash": "1fd47a7cd6719798d85e0fc783bae726931f7c5c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Patrizier"
+    },
+    "en": {
+      "language": "en",
+      "value": "Youngest son of Marcus Agrippa and Julia the Elder (12 BC – AD 14)"
+    },
+    "es": {
+      "language": "es",
+      "value": "nieto de Augusto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain, fils d'Agrippa et de Julia"
+    },
+    "he": {
+      "language": "he",
+      "value": "אציל רומאי"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile romano, figlio di Agrippa e Giulia maggiore"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aristocraat uit Oude Rome (12v Chr-14)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "syn Marka Agrypy i Julii, córki Augusta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "внук императора Октавиана Августа"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "yngsta dotterson till Kejsare Augustus"
+    }
+  },
+  "id": "Q138426",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أغريبا بوستوموس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اجريبا بوستوموس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Агрипа Постум"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pòstum Agripa"
+    },
+    "da": {
+      "language": "da",
+      "value": "Agrippa Postumus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Agrippa Postumus"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Agrippa Postumus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγρίππας Πόστουμος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agrippa Postumus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Agrippa Postumus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Agrippa Postumus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Agripo Postumo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Agripa Póstumo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Postumo Agripa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آگریپا پوستوموس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Agrippa Postumus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agrippa Postumus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Aigripe Postumus"
+    },
+    "he": {
+      "language": "he",
+      "value": "אגריפה פוסטומוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Agrippa Postumus"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Ակրիփփա Փոսթումուս"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Vipsanio Agrippa Postumo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アグリッパ・ポストゥムス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "აგრიპა პოსტუმუსი"
+    },
+    "la": {
+      "language": "la",
+      "value": "Agrippa Postumus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Agrippa Postumus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Marcus Postumus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Vipsanius Agrippa Postumus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Agrypa Postumus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Agripa Póstumo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Agripa Póstumo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Випсаний Агриппа Постум"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Agripa Postum"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Agrippa Postumus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Агрипа Постум"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Agrippa Postumus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Agrippa Postumus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Віпсаній Агріппа Постум"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿格里帕·波斯杜姆斯"
+    }
+  },
+  "lastrevid": 17556265,
+  "modified": "2025-09-17T11:32:15Z",
+  "ns": 860,
+  "pageid": 166811,
+  "sitelinks": {},
+  "title": "Item:Q138426",
+  "type": "item"
+}

@@ -1,0 +1,347 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dag the Wise"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141279$CF3A84EF-24AD-4606-92E6-774B9090AF99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139431",
+              "numeric-id": 139431
+            }
+          },
+          "hash": "ec5214b36e2336856a33b18ac5f40246339be806",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q141279$38B8DE54-8788-4812-B4A9-DD6C20CC430D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dyggvesson-1"
+          },
+          "hash": "505de2f376cce39119ed70c2bf1f9b2e0b651b47",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141279$AFAC9D8B-0D0A-44CC-BFD5-C31DA0AF0242",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141279$9A626F2E-F772-4229-8423-1D2CCF0253CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141279$B0B9FF0D-AE97-4EBC-8FB1-596BD89C25FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dag_Unknown_(2)"
+          },
+          "hash": "01934bac9830cc928489f78bed55dedc458a2b9c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141279$73B38D52-C91C-4A34-96AB-17150E2A69AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143941",
+              "numeric-id": 143941
+            }
+          },
+          "hash": "a3d0074523f8eb32fc5906368eb569bef95facf1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141279$616D4854-F5E5-4CB4-AE07-D53CEA109B7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141279$FDC6CF53-AF1D-4E3C-9481-BBB24A9FBE1D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0201-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "491a281d4a97b007a8f7eda5336cc0a21e0da813",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141279$68352D63-89E9-4DB0-9A41-61C12ECBCF0A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141279$014E5954-6824-4FDC-90F4-687F56A95BE6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q949122"
+          },
+          "hash": "cc79ef8771b7717679b4783aa1f62e853f395c48",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141279$A096A6D9-8984-4A68-A7F6-4B64E6FE7FB5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dag the Wise Arms.svg"
+          },
+          "hash": "26179fcb59d90868d7b586af9a30663bc8df0aa8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "mythological Swedish king"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey vikingo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi suédois légendaire"
+    },
+    "it": {
+      "language": "it",
+      "value": "re mitologico sueune"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "mitološki švedski kralj"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İskandinav mitolojisinde efsanevi İsveç kralı"
+    }
+  },
+  "id": "Q141279",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Dag die Wyse"
+    },
+    "be": {
+      "language": "be",
+      "value": "Даг Мудры"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Даг Мъдрия"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dag the Wise"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dag el Sabio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Dag le Sage"
+    },
+    "he": {
+      "language": "he",
+      "value": "דאג החכם"
+    },
+    "it": {
+      "language": "it",
+      "value": "Dag il saggio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "賢明なダグ"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Dag den vise"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Dag den vise"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dag the Wise"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Dag Dygveson"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Dag, o Sábio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Даг Мудрый"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Dag Modri"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Dag den vise"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bilge Dag"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Даг Мудрий"
+    }
+  },
+  "lastrevid": 17561014,
+  "modified": "2025-09-17T12:41:10Z",
+  "ns": 860,
+  "pageid": 169664,
+  "sitelinks": {},
+  "title": "Item:Q141279",
+  "type": "item"
+}

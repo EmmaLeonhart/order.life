@@ -1,0 +1,372 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Manius Aemilius Lepidus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141658$CF3BD37F-FF99-4413-BAFF-6B846007A7B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716810"
+          },
+          "hash": "e6372519cb181074fea02f651be12ece5cd80420",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141658$35379C78-7424-4B56-A913-7007ED18975B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144291",
+              "numeric-id": 144291
+            }
+          },
+          "hash": "da7d77811e832f98ab3595e6a4fa5d2ff94cabcf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141658$C8A972EB-D32C-40C0-95D3-247D959661F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141658$60C82A44-09D4-4836-ABE9-554991963E78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141658$A6BAEAFC-ACB5-409C-8B3B-6D0BABB7E5AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Manius_Aemilius_Lepidus_(consul_11)_(1)"
+          },
+          "hash": "5131d41bee4f94facd2d3823db7c409d3bc69414",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141658$E1E3F768-0756-4E87-ACE3-A2F2E7255061",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141656",
+              "numeric-id": 141656
+            }
+          },
+          "hash": "d6edf080468682ad245204d39ceea5eedd83df3b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141658$80570C96-2EA0-4409-ACE1-5A937C2705CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139748",
+              "numeric-id": 139748
+            }
+          },
+          "hash": "bb0dff918e08f3f1bdc4f48b68db71b5d89bdc6f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141658$DB986625-7EFA-40D7-910B-1183D0D0C5D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141658$3F5A71DA-536A-436A-A2AA-B50F4DA94D01",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141658$F3FDFEA0-8BE1-4412-B14C-B4E23EDD1A8E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aeadc470c76de18d73f3b016a929b758575aa3fa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141658$F52C6F2B-29A7-4077-BA04-BB1BC764E6A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q666302"
+          },
+          "hash": "d07979008f76a321799bcfef871950e91d4e4ef5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141658$C8A815D9-87D0-422B-B893-F40597A08F6E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Manius Aemilius Lepidus Arms.svg"
+          },
+          "hash": "008f1c4e69adb7b34a6dd6cf07f446eab857c8b8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 11"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 11 AD"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul en 11"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 11"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano, console 11 d.C. nipote del Lepido triumviro"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q141658",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Маний Емилий Лепид"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Emili Lèpid"
+    },
+    "de": {
+      "language": "de",
+      "value": "Manius Aemilius Lepidus"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Manius Aemilius Lepidus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάνιος Αιμίλιος Λέπιδος (ύπατος το 11)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Manius Aemilius Lepidus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Manius Aemilius Lepidus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Manius Aemilius Lepidus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Manio Emilio Lépido"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Manius Aemilius Lepidus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Manius Aemilius Lepidus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Manio Emilio Lepido"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マニウス・アエミリウス・レピドゥス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Manius Aemilius Lepidus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Manius Aemilius Lepidus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Maniusz Emiliusz Lepidus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mânio Emílio Lépido"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mânio Emílio Lépido"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Маний Эмилий Лепид"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Manius Aemilius Lepidus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Маній Емілій Лепід"
+    }
+  },
+  "lastrevid": 17561638,
+  "modified": "2025-09-17T12:50:12Z",
+  "ns": 860,
+  "pageid": 170043,
+  "sitelinks": {},
+  "title": "Item:Q141658",
+  "type": "item"
+}

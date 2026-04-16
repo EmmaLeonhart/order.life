@@ -1,0 +1,313 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Livius Drusus Libo"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139601$22C6D216-3C2B-4F22-B547-D09065FFC79C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735552"
+          },
+          "hash": "c40878e917bd04afbc90614b650e49002eb7d7f6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139601$ABF5B578-8862-4786-89F0-E1E089983896",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70988",
+              "numeric-id": 70988
+            }
+          },
+          "hash": "1ee7f59f7f5ac821c560a6960e8de44fcf7eb307",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139601$592A5958-87F0-4658-A046-4D083CAF8515",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141462",
+              "numeric-id": 141462
+            }
+          },
+          "hash": "05b0862155aed5fe2665b9b39a98fe043365d507",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139601$F2A0EBFE-87A1-4CCE-9E04-02947E7A2E38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139601$1E26EB9A-37B9-443F-8ED6-0C2966AC0AC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139601$19AB5F3D-9F66-48EB-9DD7-A62F8445C36A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70988",
+              "numeric-id": 70988
+            }
+          },
+          "hash": "51d91460f8b9699374b99d8b3a33f1489cc744a8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139601$31567C8A-1B5F-4EF0-8877-6A850CD29816",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139601$8DA579FE-B6DF-47ED-B818-E95D857BAE66",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd2518e0a186c79fba27561cecab35c84933b097",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139601$114B6462-F444-49E1-9D8A-7FEBC7D9CB68",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q544382"
+          },
+          "hash": "583393967a597f07a5160e8b0822d186e2ed618c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139601$9F15A27A-8812-4D2C-B576-15A48FB35C78",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Livius Drusus Libo Arms.svg"
+          },
+          "hash": "3cd2d44b3135d45b54ce21e6bbfb061224ad6de5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "adoptive brother of Roman empress Livia."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 15 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "adoptivbror till kejsarinnan Livia Drusilla"
+    }
+  },
+  "id": "Q139601",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Ливий Друз Либон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Livi Drus Libó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Livius Drusus Libo"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Λίβιος Δρούσος Λίβων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Livius Drusus Libo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Livio Druso Libón"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مارکوس لیویوس دروس لیبو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Livius Drusus Libo"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Livio Druso Libón"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Livio Druso Libone"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Livius Drusus Libo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Livius Drusus Libo"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Lívio Druso Libão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Lívio Druso Libão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Ливий Друз Либон"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Livije Druz Libon"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcus Livius Drusus Libo"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Лівій Друз Лібон"
+    }
+  },
+  "lastrevid": 17558167,
+  "modified": "2025-09-17T11:59:09Z",
+  "ns": 860,
+  "pageid": 167986,
+  "sitelinks": {},
+  "title": "Item:Q139601",
+  "type": "item"
+}

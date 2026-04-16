@@ -1,0 +1,209 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q140863$F305DC8A-24D6-460E-8039-81B74E3749B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140863$60AA5868-32E4-4FF4-969D-D9A1B65F425C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140863$2DF6A96B-6DFE-44D9-A857-514236EC20C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139179",
+              "numeric-id": 139179
+            }
+          },
+          "hash": "8d39a1a60e0b858088dc719cd0c98de8637d9a41",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140863$B353198A-551D-47CE-82E6-4A0082375CA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q140863$C968E6A3-AF9D-4426-8D19-66E3758FDE21",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1129-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a049111d28fdf4c90b53da610f1b0084c20750b6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140863$259C01C8-B458-4ABB-9FA3-E8CCC4FD1295",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4411612"
+          },
+          "hash": "021506497ac7f79e3a20fdf566ee3c83573853c2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140863$EB284FFE-3BFD-49EF-9F3C-3738588A0BBC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Svantepolk Arms.svg"
+          },
+          "hash": "16e28c15d7d868bc4ec0274111fd065ff9a0ae13",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "pl": {
+      "language": "pl",
+      "value": "książę obodrzycki"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь бодричей"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande furste av obotriterna"
+    }
+  },
+  "id": "Q140863",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Svantepolk"
+    },
+    "en": {
+      "language": "en",
+      "value": "Svantepolk"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sviatopolk"
+    },
+    "it": {
+      "language": "it",
+      "value": "Svjatopolk (re degli obodriti)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Svantepolk"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Świętopełk"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Świętopełk"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Святополк"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sviatopolk av obotriterna"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Свентіполк"
+    }
+  },
+  "lastrevid": 17560537,
+  "modified": "2025-09-17T12:33:47Z",
+  "ns": 860,
+  "pageid": 169248,
+  "sitelinks": {},
+  "title": "Item:Q140863",
+  "type": "item"
+}

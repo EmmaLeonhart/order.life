@@ -1,0 +1,336 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cadwallon ab Ieuaf"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138642$08EF488E-B8A1-4EEA-80D8-1C88EBCBF7E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "414224"
+          },
+          "hash": "00f83c017d52e35c1530c5cfd48185e4f32c8a82",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138642$13500726-00D9-4D87-8BC8-8777B7355AF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138642$3048B673-AB61-4B2A-AF99-59214A0A65F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138642$8AB182A8-5EA1-43E0-9C32-300B35625896",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cadwallon_ab_Ieuaf_(1)"
+          },
+          "hash": "e96e6a3739e080ae04edc0e9dede306dc8bc8167",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q138642$B4A8A15A-993B-41F8-8966-E54961FB6759",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10259.htm#i102588"
+          },
+          "hash": "64999542ade387809f647f0d2902891cb551e395",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138642$9760DF7A-AF23-4FEB-9B83-854E82DD5226",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137836",
+              "numeric-id": 137836
+            }
+          },
+          "hash": "3689cceaa89f8e8164b88e0a65e9339bfc7bc1fc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138642$17980E2F-9E1E-4B94-A765-FDE3B972B954",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138642$7F217CF8-14B1-426D-8257-44E9BB145D22",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0901-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ecc0589780bacef8dcf758b68be1b8fcb380dd2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138642$104CD274-C752-4880-BD65-45E0D9893AC4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0986-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5ab793b8ebee34ef55285849fe36c69b19360f55",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138642$A92F70AA-E22D-416B-8DDB-6E51DAD3858C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2178315"
+          },
+          "hash": "b2097b437539f7cdfa45bbab4126de7027d8b171",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q138642$5E44ED9C-EBD7-4AAC-9B5B-E4DE6CF18EAA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=cadwallon;n=of gwynedd;oc=2"
+          },
+          "hash": "48dda8de1241ec52a709800ad2a597154fce3b35",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138642$45A3B68E-F750-48B6-9772-FA6181985956",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cadwallon ab Ieuaf Arms.svg"
+          },
+          "hash": "ee314f3327cb9a1e335fb0c7e2d1a293705eeeca",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "brenin Teyrnas Gwynedd"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Kingdom of Gwynedd"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi de Gwynedd"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Gwynedd"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning"
+    }
+  },
+  "id": "Q138642",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Cadwallon ab Ieuaf"
+    },
+    "be": {
+      "language": "be",
+      "value": "Кадвалан ап Іеяў"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cadwallon ab Ieuaf"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cadwallon ab Ieuaf"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cadwallon ab Ieuaf"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Cadwallon ab Ieuaf"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Cadwallon ab Ieuaf"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cadwallon ab Ieuaf"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cadwallon ab Ieuaf"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cadwallon ab Ieuaf"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カドゥアソン・アブ・イェイアヴ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cadwallon ab Ieuaf"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кадваллон ап Иейав"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Cadwallon ab Ieuaf"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卡德瓦隆·阿普·耶阿夫"
+    }
+  },
+  "lastrevid": 17556607,
+  "modified": "2025-09-17T11:37:12Z",
+  "ns": 860,
+  "pageid": 167027,
+  "sitelinks": {},
+  "title": "Item:Q138642",
+  "type": "item"
+}

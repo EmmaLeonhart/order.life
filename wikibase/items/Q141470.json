@@ -1,0 +1,370 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Claudius Marcellus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141470$4A13EF3E-D7CB-4A75-8A33-4AC9879120D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735963"
+          },
+          "hash": "fabb73ab4e4df311f425d3545cacdc133bdac4df",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141470$9C13C113-48D9-4D31-9960-87A33FF2B008",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72915",
+              "numeric-id": 72915
+            }
+          },
+          "hash": "821d5066cde29f2b6bdfb82871ed2ee5b997e10e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141470$4B67D232-7569-4EC0-99C2-D28B73C4307F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141470$C7836CFC-A86A-4C16-8995-06765799A325",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141470$F1438B8C-0286-483F-8F80-71406883DCB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144118",
+              "numeric-id": 144118
+            }
+          },
+          "hash": "4a2bc6df535ccb5c3bfbf3cf975c5614fe0abda5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141470$D94BC589-A506-4E5C-84AA-6FCC0E602BF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141470$148AB509-C488-41F8-A0CC-CDAE110FBDD1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0208-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "74613b2a3fd61db72bf409ea43bfb1c7323ccc78",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141470$7FB8FD95-4544-4FBA-8EA6-CE5F70F3D679",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0148-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "121b367c9ee91ffd821434c19e12d7d5c925692d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141470$28B64ABD-40ED-48A5-80E5-739E78D4FE52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q521485"
+          },
+          "hash": "d49273c8b6f9d2eccff4e86cd7dc53b99a7f4e47",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141470$D221BA2E-C231-47C6-8D25-E21CAB4043AF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Claudius Marcellus Arms.svg"
+          },
+          "hash": "f6086e2b2bb2822527181199544a4c9c8038649b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol romà el 166 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul (166 v. Chr.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 166 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 166 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 166 av. J.-C."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római politikus, hadvezér"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano, console nel 166 a.C."
+    },
+    "ja": {
+      "language": "ja",
+      "value": "古代ローマの執政官"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "consul in 166 v.Chr."
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 166, 155 и 152 годов до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk konsul 166 f.Kr."
+    }
+  },
+  "id": "Q141470",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ماركوس كلوديوس مارسيلوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Клавдий Марцел"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Claudi Marcel VI"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Κλαύδιος Μάρκελλος (ύπατος το 166 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Claudio Marcelo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Marco Claudio Marcelo"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Claudio Marcello"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・クラウディウス・マルケッルス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Cláudio Marcelo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Cláudio Marcelo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Клавдий Марцелл"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Klaudije Marcel"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Клавдій Марцелл"
+    }
+  },
+  "lastrevid": 17561334,
+  "modified": "2025-09-17T12:45:55Z",
+  "ns": 860,
+  "pageid": 169855,
+  "sitelinks": {},
+  "title": "Item:Q141470",
+  "type": "item"
+}

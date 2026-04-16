@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Annes ferch Gronwy ap Cynwrig ab Iorwerth"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138667$CC8F5425-17B4-4B00-B138-36B769FA5A98",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00706262"
+          },
+          "hash": "8ab6549c55c7f3fc92d6cbbe81bdaaaff4dc1146",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138667$0D94F0B5-812B-4B33-8894-9C80E1C1895E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139990",
+              "numeric-id": 139990
+            }
+          },
+          "hash": "cba49d9efc9d966132c83dcb59fbeeeadb44c5b2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138667$B0F93B5D-7216-409D-AE29-768EDC334351",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139991",
+              "numeric-id": 139991
+            }
+          },
+          "hash": "71fcf8b5a5b59b70321d7d863524085a328e093e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138667$44B593EA-E737-4A17-9257-C10C3092DADA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138667$77DAA682-3E01-463D-8E73-5F9FDC5BCC26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138667$46746A04-1A4F-4C69-A6C6-E655615D78C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141997",
+              "numeric-id": 141997
+            }
+          },
+          "hash": "f3ea35dd717fa6d8ee95403d584467579444164a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138667$FF4B2CE9-EC71-433F-B5A0-E447E6024FF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137845",
+              "numeric-id": 137845
+            }
+          },
+          "hash": "cde159d0cd9530f98b7c7b481f9b3ef9ec38fc7b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138667$7AD38F91-69C1-4473-A7A1-350179C84870",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139989",
+              "numeric-id": 139989
+            }
+          },
+          "hash": "c025fa5ec995bb921a322f22398cf51537b41ef6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138667$23CEA816-AF24-4F2A-9912-73D051ED1ECA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138667$94C83A10-DCF6-4370-9D7A-5EB2C2CCD424",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116054483"
+          },
+          "hash": "ca1fc80978262632cded8ed5cc160909dbb1e593",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138667$3817ACFC-C575-41FA-8C64-29F4F1E9B3C3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Annes ferch Gronwy ap Cynwrig ab Iorwerth Arms.svg"
+          },
+          "hash": "c94691a6d3765360c193dba2141f2557ffef0388",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q138667",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Annes ferch Gronwy ap Cynwrig ab Iorwerth"
+    }
+  },
+  "lastrevid": 17556657,
+  "modified": "2025-09-17T11:37:54Z",
+  "ns": 860,
+  "pageid": 167052,
+  "sitelinks": {},
+  "title": "Item:Q138667",
+  "type": "item"
+}

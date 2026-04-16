@@ -1,0 +1,602 @@
+{
+  "aliases": {
+    "bg": [
+      {
+        "language": "bg",
+        "value": "Октавий Ленат"
+      },
+      {
+        "language": "bg",
+        "value": "Гай Октавий Ленат"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Octavius Laenas"
+      },
+      {
+        "language": "en",
+        "value": "Octavius Laenas"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q70122$8C8375B1-8D50-4E77-B374-C359898BC9CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735612"
+          },
+          "hash": "8706a91daab8073a4bf3df1501a2adf39cbab52b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q70122$69D274F7-9ED3-4215-8811-15E697CE2026",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68488",
+              "numeric-id": 68488
+            }
+          },
+          "hash": "bf36038dc9082e5d810ffe534a213298d89e77de",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70122$47A19FA0-ED3C-4EF8-9DBD-9071E1CD76BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69972",
+              "numeric-id": 69972
+            }
+          },
+          "hash": "56e9a3972c642a5b24eb62b22197009582134fdf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70122$5C203B37-1F64-40C3-A172-D2DA9690F6B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76945",
+              "numeric-id": 76945
+            }
+          },
+          "hash": "cfc9eb3e5a8153d09829d01f25fccf1ff2be7017",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70122$E26932B5-0114-4732-BB7C-2EA9BE996F21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77158",
+              "numeric-id": 77158
+            }
+          },
+          "hash": "97282d9677607e72c4f41ec064cccec15b83f5ad",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70122$52D0B5C7-12EF-4780-84D4-D93C38647ACF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141587",
+              "numeric-id": 141587
+            }
+          },
+          "hash": "c6d8181b230106f3588341c23660b887bb87a3d7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70122$04FF09E5-D718-4B61-80B8-C66C0AF0A18D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141588",
+              "numeric-id": 141588
+            }
+          },
+          "hash": "e8f1c199126f3e7ef0b79847af6bd0aa3a249e0f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70122$D225719A-B62F-44F8-A7DB-9D1CDB502CEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70122",
+              "numeric-id": 70122
+            }
+          },
+          "hash": "6b2848e92fcf3ab799cea98858f4d8a8bb43dbe0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70122$4409D24B-981A-4517-B123-3CD75D538EA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144247",
+              "numeric-id": 144247
+            }
+          },
+          "hash": "91663407c2c100a142c6351fdc3a7e89d6dbd869",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q70122$939804AA-3334-431E-BA72-F7275D364CC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70122$7861C5B0-C466-47F7-8333-8C9D513EC6FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q70122$2B43352C-AEB8-4E16-9285-00378587EDEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70152",
+              "numeric-id": 70152
+            }
+          },
+          "hash": "69927ae7539894d6a01a908f43e5fade8a71b321",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70122$84DFD2B0-546F-4792-AB97-9002859B5B26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139691",
+              "numeric-id": 139691
+            }
+          },
+          "hash": "f0f9f6f583699b7a41246ab1f0c1acd681df5707",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70122$2EADBE9D-31A5-4D3D-B01B-97B33B8AC25A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70652",
+              "numeric-id": 70652
+            }
+          },
+          "hash": "4c8394d66ac39b7a0a1273fe97ec860924a4426a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70122$70106C69-EFFF-4341-BED6-97E82D122F85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144242",
+              "numeric-id": 144242
+            }
+          },
+          "hash": "94bec811fe45a80a04fd15947030319d55c9dcdb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q70122$D6CD94C9-CADC-4B87-BC1B-5E93F23D881A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70685",
+              "numeric-id": 70685
+            }
+          },
+          "hash": "57f5429039db6aaa52ec2ff29774ee7b078b476c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q70122$54F833E6-18DD-4863-90AF-F57B7582E49C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70652",
+              "numeric-id": 70652
+            }
+          },
+          "hash": "f8aeca989d65ed462f85797b6612b824792f8f7c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q70122$D4B5A995-D543-4C92-AF50-EA33FEAB6AA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q70122$BB3A8FC6-7245-4A98-AF71-1D0ABAC3C582",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q70122$F11D2ACB-9B03-4F20-9A26-F96E0291170F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1242010"
+          },
+          "hash": "208921ef446fe626a673121d2f7990d9b4d4f3b1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70122$B8872789-9EFC-4210-A41C-564EEF3EB6A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12289187"
+          },
+          "hash": "7d6e917ebdf414d7ec900258adca1bbe341fe7a9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q70122$25EE5595-AB9E-4BE8-9661-11F91BB98B8B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645864857"
+          },
+          "hash": "74885af8cd884b0e03e91bb27f90a9237cafa493",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70122$ABB1C2C7-A986-4F01-AB05-2E50F2EB241A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645864863"
+          },
+          "hash": "1f917486250c8c438d9d41a4f376785cb978137e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q70122$8F0D1F09-C4EF-422C-A08A-DA2293041992",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Octavius Laenas Arms.svg"
+          },
+          "hash": "7ea17a60fc29c52616332de48557f350667d9e10",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Senator, Suffektkonsulat und Vater des römischen Kaisers Nerva"
+    },
+    "en": {
+      "language": "en",
+      "value": "grandfather of emperor Nerva"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul de la Antigua Roma en el año 33"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 33"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "로마 원로원 의원"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q70122",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Октавий Ленат"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Octavius Laenas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Οκτάβιος Λαίνας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Octavius Laenas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Octavio Lenas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Octavius Laenas"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Ottavio Lenate"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "가이우스 옥타비우스 라이나스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Octavius Laenas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Octavius Laenas"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Octávio Lenas"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Otávio Lenas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Октавий Ленат"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Октавій Ленат"
+    }
+  },
+  "lastrevid": 17481852,
+  "modified": "2025-09-16T17:44:06Z",
+  "ns": 860,
+  "pageid": 84953,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q70122",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q70122"
+    }
+  },
+  "title": "Item:Q70122",
+  "type": "item"
+}

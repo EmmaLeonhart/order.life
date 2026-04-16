@@ -1,0 +1,392 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aristobulus Minor"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q139773$C119ECE8-5D5B-420F-89DA-29A949DCA184",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139774",
+              "numeric-id": 139774
+            }
+          },
+          "hash": "97ac6964b708f44c2587c3ca6ab74d06a394e25e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139773$BF5F9B6A-BECC-42EA-B5B4-DC82D2E6CDB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139773$41BEB034-5B4C-48CE-A53C-342CEBD34A46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139773$6F7FAC49-7BDD-4BAD-B9F6-CF55AA0F38BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Aristobulus_Minor_(1)"
+          },
+          "hash": "a71045ea26b630d93a0735a071130cb5454d44f0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139773$3ADCD7FF-0B86-4122-A565-3740CAA884D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138518",
+              "numeric-id": 138518
+            }
+          },
+          "hash": "a86e8c4dcd28e0f9a263e61b1873e224abb7f409",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139773$F6B9EB97-07B9-4EF6-99D6-B0C0406CBFA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141676",
+              "numeric-id": 141676
+            }
+          },
+          "hash": "d5e78f70f3ee49c766ebbfdf60962a38ddfd2f59",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139773$6C252575-882A-4F01-845C-F852386F53D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141685",
+              "numeric-id": 141685
+            }
+          },
+          "hash": "cc549c9dee57c4e2b23d68f559a11035f0f909fe",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139773$103A55E8-8670-417E-9AFB-90ABC8A35470",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139773$7FE365CF-774F-463E-8BC7-BB90C7974B17",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139773$4B605E5F-F5C1-446B-91C6-5F26FA090152",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0060-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94f88214bf3994a254f4048f613bd3d206e99077",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139773$3DF14136-766D-41E9-8266-EE4998C346FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1370654"
+          },
+          "hash": "ec856bcebb1ae9f67efd4b839b72b60fb51ba8aa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139773$EDC81273-4FEA-459E-8747-F45E685C1BDB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aristobulus Minor Arms.svg"
+          },
+          "hash": "e1b95e380ef9d27c09d3796a2b05ac4bb6a06d6c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Enkel des jüdischen Königs Herodes des Großen"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century prince from the Herodian Dynasty"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe de la dinastía herodiana del siglo I d. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince de la dynastie hérodienne"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "принц из Иродијске династије"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "herodiansk prins"
+    }
+  },
+  "id": "Q139773",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أرسطوبولس الأصغر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ارسطوبولس الاصغر"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Aristobul el Jove"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aristobulos der Jüngere"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Aristobulos der Jüngere"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αριστόβουλος ο Νεώτερος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aristobulus Minor"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Aristobulus Minor"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Aristobulus Minor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aristóbulo el Joven"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Aristobulo Gaztea"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aristobule le Mineur"
+    },
+    "he": {
+      "language": "he",
+      "value": "אריסטובולוס הצעיר"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aristobulo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小アリストブロス"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Aristobulus den yngre"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aristobulus Minor"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Arystobul II (wnuk Heroda Wielkiego)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aristóbulo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Aristóbulo (irmão de Herodes Agripa I)"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Aristobul Mlađi"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Aristobulus Minor"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Аристобулије Мали"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Aristobulus Minor"
+    }
+  },
+  "lastrevid": 17558447,
+  "modified": "2025-09-17T12:03:06Z",
+  "ns": 860,
+  "pageid": 168158,
+  "sitelinks": {},
+  "title": "Item:Q139773",
+  "type": "item"
+}

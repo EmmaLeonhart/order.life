@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Clopas"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q139794$22C2A101-8B81-440D-8876-722C9F96DC2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139794$FBD381D9-A59B-4978-ADB2-96D9B6F6BC5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139794$67A6B2FF-1879-4617-90B6-1886D0C31A66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139788",
+              "numeric-id": 139788
+            }
+          },
+          "hash": "f2fd9fe8450937c3fe24710b5122d108d682f214",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139794$F11BCA94-D0BB-4ED2-8CBD-297F79C0D6E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139794$5715ACE0-2850-4D92-BF26-59F2A869E74F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aeadc470c76de18d73f3b016a929b758575aa3fa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139794$CE9E36C5-C3FC-471D-9214-4093E68D7D5F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2979581"
+          },
+          "hash": "9bfad8af728a1a318a7f9cf0c6408af9605203c0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139794$5D56121A-F0BD-42F3-809A-74E49E797199",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Clopas Arms.svg"
+          },
+          "hash": "78c9359e5143c17d1e55085a3873774996ffc489",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "person i Bibelen (Johannesevangeliet)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Figur des Neuen Testaments"
+    },
+    "en": {
+      "language": "en",
+      "value": "Biblical figure present at Calvary; \"Near the cross of Jesus stood his mother, his mother's sister, Mary the wife of Clopas, and Mary Magdalene.\""
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage du Nouveau Testament"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מהברית החדשה"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Yuhanna 19:25)"
+    }
+  },
+  "id": "Q139794",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Clopas"
+    },
+    "da": {
+      "language": "da",
+      "value": "Klopas"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kleophas"
+    },
+    "en": {
+      "language": "en",
+      "value": "Clopas"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Klopas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Clopas"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Clópas"
+    },
+    "he": {
+      "language": "he",
+      "value": "קלופאס"
+    },
+    "id": {
+      "language": "id",
+      "value": "Klopas"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クロパ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "글로바"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Clopas"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Clopas"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Clopas"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Klopas"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "革羅罷"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "革羅罷"
+    }
+  },
+  "lastrevid": 17558485,
+  "modified": "2025-09-17T12:03:38Z",
+  "ns": 860,
+  "pageid": 168179,
+  "sitelinks": {},
+  "title": "Item:Q139794",
+  "type": "item"
+}

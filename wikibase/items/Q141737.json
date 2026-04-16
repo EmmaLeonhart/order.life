@@ -1,0 +1,311 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lugaid mac Lóegairi"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141737$9D42A25A-A0B5-4582-8348-7D591701EB3E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "87862"
+          },
+          "hash": "c90b7a3a45960830a9966a40989ab4a9755f294a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q141737$02D12E25-FE45-4FF6-95E4-79EBED3F488E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mac_Lóegairi-1"
+          },
+          "hash": "1bb725ac43a8fed4f95d931a76d514967aa96462",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141737$A86B56AE-BD75-47C1-BF0E-B8939C5F256A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141737$A1559D5C-9AD7-4D4A-BD5D-BE19B597B52C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q141737$EC606272-2143-419C-BE79-E6A198263210",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15006.htm#i150051"
+          },
+          "hash": "9cabd7f5941e88cd736dd635c05909ecff87f15a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141737$9F5450FF-9DEB-46EA-8E23-D55EF87D90D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139809",
+              "numeric-id": 139809
+            }
+          },
+          "hash": "9f23daca7263d98e2c8be8093a91e56ffdbe919c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141737$2895629D-8C7A-40AC-801F-7F1941E7302F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141737$EE83B85F-CF05-449E-8495-6C859A7D6DE7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0401-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecd0b3ed6408515ad7c3c643e7fed582623778e4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141737$CC8CD473-B88D-489A-85BF-61D7BCC10D4E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0507-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "613aae5e4fd239deabe23851d48c1193e390e7dc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141737$9B85C9B3-BD6B-46C8-B85F-9552D3ED6D72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1272142"
+          },
+          "hash": "504c8c74e9f7d7848a6ded0acc17c35a82ff7423",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141737$C8B67F6D-1094-4E28-9B81-C764D692E672",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lugaid mac Lóegairi Arms.svg"
+          },
+          "hash": "22e9e7a76d3ac04a1cb88337525e572266e8effc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish king"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ard Rí Érenn au VIe siècle"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "rí Éireannach"
+    },
+    "it": {
+      "language": "it",
+      "value": "re irlandese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning uit Ierland (?-)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "верховный король Ирландии"
+    }
+  },
+  "id": "Q141737",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Lugaid mac Lóegairi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lugaid mac Lóegairi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lugaid mac Lóegairi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lugaid mac Lóegairi"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Lughaidh mac Laoghaire"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lughaid mac Loeguire"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Lughaid mac Loeguire"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lugaid mac Lóegairi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лугайд, сын Лоэгайре"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lugaid mac Lóegairi"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Lugaid mac Lóegairi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лугайд мак Лоегайре"
+    }
+  },
+  "lastrevid": 17561762,
+  "modified": "2025-09-17T12:51:58Z",
+  "ns": 860,
+  "pageid": 170122,
+  "sitelinks": {},
+  "title": "Item:Q141737",
+  "type": "item"
+}

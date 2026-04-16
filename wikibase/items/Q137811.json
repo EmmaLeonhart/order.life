@@ -1,0 +1,215 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Annun Ddû, 'King of Greece'"
+      },
+      {
+        "language": "en",
+        "value": "Annun Ddu, 'King of Greece'"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137811$5521FB24-77D9-4756-B533-09891886044D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00759087"
+          },
+          "hash": "d07ca995a81d1daea49e0b6194dc7d3ab0e420f9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137811$0A8F4782-38F6-4668-9CE7-3B93477FDA1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137256",
+              "numeric-id": 137256
+            }
+          },
+          "hash": "366e241c373d95f7c48e02dba5d6809d8cba7a30",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137811$4C173319-8E03-4DB7-8923-60E7B6C57F6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138623",
+              "numeric-id": 138623
+            }
+          },
+          "hash": "b28e01c82db0ce63cbb623b036ca347e049856f6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137811$CC7231E7-4AE6-4389-85ED-BD53CA74F3FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138624",
+              "numeric-id": 138624
+            }
+          },
+          "hash": "b3693ef04c37a388f64bd8bf15ddfe9ba26a3616",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137811$7B50E64C-7289-4C72-96D9-86BD97F3F564",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137811$A32E9174-B5A9-4FA7-8967-73A8A985B5F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137811$2B43AA6E-2D7D-47A9-98B3-E534905B48EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137811$508BE35F-44FE-40A9-AC32-AA43743FA7B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116112718"
+          },
+          "hash": "978911e7b363e27f1916ae019ab66e4e32bcff65",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137811$90CF8EA1-4E87-4D45-AA6C-EFA235960A50",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Annun Ddû, 'King of Greece' Arms.svg"
+          },
+          "hash": "2dfac28b4fad0bdf6a5e35a620e741a12b3b78cd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Est 200 -"
+    }
+  },
+  "id": "Q137811",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Annun Ddu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Annun Ddû, 'King of Greece'"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Annun Ddû, 'King of Greece'"
+    }
+  },
+  "lastrevid": 17555291,
+  "modified": "2025-09-17T11:18:15Z",
+  "ns": 860,
+  "pageid": 166196,
+  "sitelinks": {},
+  "title": "Item:Q137811",
+  "type": "item"
+}

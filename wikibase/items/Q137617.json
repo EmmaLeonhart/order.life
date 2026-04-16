@@ -1,0 +1,254 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Richildis of Amiens"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q137617$1FA4C0F0-F0B3-4CBB-82AA-75664F97E16E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Amiens-30"
+          },
+          "hash": "87c041463a9f6398806a6661433b577425ad265b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137617$9098E17F-3295-41C8-9A46-FD081AD4A11B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137617$2C3240E5-5C4A-4CB1-AEAD-F59DB2F85D09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137617$23F9A285-2983-42F9-84EB-C55B1DD85644",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137099",
+              "numeric-id": 137099
+            }
+          },
+          "hash": "8bb448a482dfdc68a94199211c3347293ef4950f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137617$43D3EA43-AFD2-4B77-BDC7-46C9CBDF6A7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137617$785D2EE7-EF2D-4DC1-8FFD-427A86B9C587",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0815-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0a959dd903ef39d1559373c751603334082c66d1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137617$3829B80A-9D75-46BC-8389-2484C85C63A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0882-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17336e18d72cdaad7ff6a3e5847df031faec4cf5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137617$97B26BDC-80E7-45B0-AC69-0BBDDE1A5118",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q23015581"
+          },
+          "hash": "1cbd7ed3ba6374b83a3b7951335b20419f8d08a8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q137617$06BD0C22-71DE-429C-967D-21E55CE75FA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=richilde;n=bosonides;oc=1"
+          },
+          "hash": "61c01be979369a14a7b315590484c306ea18b146",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137617$33CF717F-C2B6-4CDF-92F0-A57563086192",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Richildis of Amiens Arms.svg"
+          },
+          "hash": "8e01089d19f4d290c4accf22a338b62db2307e65",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "wife of Eccard of Mâcon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse d'Eccard de Mâcon"
+    }
+  },
+  "id": "Q137617",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Richilde d'Amiens"
+    },
+    "en": {
+      "language": "en",
+      "value": "Richildis of Amiens"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Richilde"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Richildis of Amiens"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ришильда Амьенская"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Richildis of Amiens"
+    }
+  },
+  "lastrevid": 17554991,
+  "modified": "2025-09-17T11:13:58Z",
+  "ns": 860,
+  "pageid": 166002,
+  "sitelinks": {},
+  "title": "Item:Q137617",
+  "type": "item"
+}

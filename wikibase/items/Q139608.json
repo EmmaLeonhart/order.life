@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Claudia  Claudius"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q139608$4B0A3BE4-B11C-402A-B523-4C01BEFDE673",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139608$D9DAB3BC-D6AA-48F1-97D5-0493900F69D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139608$93EB3ABB-564E-4003-B369-3497E727153A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77827",
+              "numeric-id": 77827
+            }
+          },
+          "hash": "dc227bef88bc9e728263dc032fafb6964443fbcf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139608$3064954D-E859-4FBA-BE8B-EEF6DB69934D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72239",
+              "numeric-id": 72239
+            }
+          },
+          "hash": "643d13d77c7a944e3c87bb34b5d807783866e103",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139608$21792399-BB8B-4A21-943C-A3C111467042",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139608$487980BD-A51B-4C62-904A-F5785DE800DE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0011-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "853cd157c6d1c9bf69cd4f8c6db053fc9db10d7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139608$3A05A963-0BFE-4903-BF06-24E3FA3D1836",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q118275074"
+          },
+          "hash": "45808dfdc31612970bf1010d1cb06f6c25abf9bd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139608$71B08D4D-37CF-45BB-B85A-D5A567D6ACD6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Claudia/Claudius Arms.svg"
+          },
+          "hash": "88b3ad9e33b3471fc0147bac463c8f2ca26f06b5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "muligvis dødfødt barn af Tiberius og Vipsania"
+    },
+    "en": {
+      "language": "en",
+      "value": "possibly stillborn child of Tiberius and Vipsania"
+    }
+  },
+  "id": "Q139608",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Claudia/Claudius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Claudia/Claudius"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Claudia/Claudius"
+    }
+  },
+  "lastrevid": 17558179,
+  "modified": "2025-09-17T11:59:19Z",
+  "ns": 860,
+  "pageid": 167993,
+  "sitelinks": {},
+  "title": "Item:Q139608",
+  "type": "item"
+}

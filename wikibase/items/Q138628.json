@@ -1,0 +1,280 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Caradog ap Gwyn ap Gollwyn ab Endywain of Arwystli"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138628$3B9AF90D-935C-4CD5-B11A-7C3AFF026FEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00751679"
+          },
+          "hash": "d3fac63adf5216fcb34b1004a36560b2789f793c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138628$B89F2135-59E8-47BC-9B4A-E41184482050",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138742",
+              "numeric-id": 138742
+            }
+          },
+          "hash": "e184e5a837151e76766c6e602d7e170d67e4113c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q138628$D3CD7048-DB49-4DC2-AE4B-D0F3B5F58776",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Gwyn-9"
+          },
+          "hash": "bec55277b51b11dec0ccde7ebcc03d364901fe00",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138628$AF5D4DDF-510C-4510-9F44-B6C6A2A93567",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138628$4791D3BA-47B3-4BEE-872C-85D379AC28DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138628$E83F5799-35D6-498E-8F67-EB340FCA6348",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137901",
+              "numeric-id": 137901
+            }
+          },
+          "hash": "4b8f9f9e55ce5702b84dea7efa3ee5eb0c5106be",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138628$3446801B-CCE9-470D-9E96-65BEF6D60F4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137816",
+              "numeric-id": 137816
+            }
+          },
+          "hash": "1568a457e442786a86474bdab8176a684215049b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138628$0265697C-179F-4B2D-84AB-4436BD80D4AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138628$BAE7E978-8E5C-467B-BEB1-15A9D3BA8273",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "022069ba4b6f2fafb5cc5b35534f1444ceeb4c16",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138628$3E19D42F-8D2B-4383-BC3A-66C6AC3604DF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1044-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8445c832033e26e62b0d1079dd4c7a6ae7f3e883",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138628$513B68D3-6776-4310-A584-600FC504CDDB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116113221"
+          },
+          "hash": "21d300db88f14315870cfebd9a892825a3457548",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138628$C5FB36C3-E44B-4F33-A6DA-8675AE25BAC8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Caradog ap Gwyn ap Gollwyn ab Endywain of Arwystli Arms.svg"
+          },
+          "hash": "235ac58d616a4c5d3887cee04e97f52a94af10d6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1000 - 1044"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1000-1044)"
+    }
+  },
+  "id": "Q138628",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Caradog ap Gwyn ap Gollwyn ab Endywain o Arwydystli"
+    },
+    "en": {
+      "language": "en",
+      "value": "Caradog ap Gwyn ap Gollwyn ab Endywain of Arwystli"
+    }
+  },
+  "lastrevid": 17556579,
+  "modified": "2025-09-17T11:36:43Z",
+  "ns": 860,
+  "pageid": 167013,
+  "sitelinks": {},
+  "title": "Item:Q138628",
+  "type": "item"
+}

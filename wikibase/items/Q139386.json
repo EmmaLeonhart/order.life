@@ -1,0 +1,365 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Loftur Sæmundsson"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139386$B71C69EC-46F2-4D7B-87F8-0060AFC0EEF0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00279866"
+          },
+          "hash": "a1d9914b58a2b5582c673dbb044bdb20ae7111c8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139386$DE39B610-4496-4124-9E81-9DE393705C3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139387",
+              "numeric-id": 139387
+            }
+          },
+          "hash": "de7da534b00b5a0b398754aea543ed6030d3ea81",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q139386$1C029D14-AAD1-4750-944E-D57DE94D6057",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sæmundsson-58"
+          },
+          "hash": "a8e50b25ab450ff10e62fc3adf972aedc698df32",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139386$CEDEA275-BEEA-470B-ADF8-94C4A8E26877",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139386$FAEBB6B7-6717-4525-85F4-5B2BB6A73A9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139386$D7B7EDAB-4A60-4DDE-B0FA-E5E805FE4FD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138265",
+              "numeric-id": 138265
+            }
+          },
+          "hash": "c1e4cfe493ed96b4410af3743ec67d6c67777e71",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139386$73EDEFC9-75E0-40C9-8CD1-50D6C07ABFD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141206",
+              "numeric-id": 141206
+            }
+          },
+          "hash": "b8ab370bd9494ab523399313ff78b9f0fb7e72b4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139386$7C9AE399-2960-432D-A9B8-EA0612BED0F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139386$20FC0CFD-0B01-4CE5-AD56-8ED8840A2E6A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1085-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "99624450295925ba51b54a9f2886ea7658192ebc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139386$ACF66A56-CF94-4978-AAFA-1E7066E57263",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1133-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "410f53512132da7766110692b08183cacd30f5c6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139386$4C076451-B9A9-4DF2-BD1A-56682B717714",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3481458"
+          },
+          "hash": "e3ecfb258602200839f128f0c3a76edd9ad3db45",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q139386$240F7C3C-75C8-457D-983B-4EAC0875BB6A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4074661"
+          },
+          "hash": "d3f9398c257b1ee6194e10fd52379e17f0096850",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139386$B055E04F-6B3F-4C14-8CA0-16BB7091BB29",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Loftur Sæmundsson Arms.svg"
+          },
+          "hash": "da227deca52f26e2036b53f3f9b0f96f2f33b7e2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "قس آيسلندي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "sacerdote islandés (1085–1133)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Icelandic priest"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "sagart Íoslannach"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "høvding"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "priester uit IJsland (?-1133)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "islandzki kapłan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "isländsk hövding och präst"
+    }
+  },
+  "id": "Q139386",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Loftur Sæmundsson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Loftur Sæmundsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Loftur Sæmundsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Loftur Sæmundsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Loftur Sæmundsson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Loftur Sæmundsson"
+    },
+    "is": {
+      "language": "is",
+      "value": "Loftur Sæmundsson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Loftur Sæmundsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Loftur Sæmundsson"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Loftur Sæmundsson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Loftur Sæmundsson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Loft Sämundsson"
+    },
+    "th": {
+      "language": "th",
+      "value": "ลอฟตูร์ แซร์มุนด์สัน"
+    }
+  },
+  "lastrevid": 17557799,
+  "modified": "2025-09-17T11:53:55Z",
+  "ns": 860,
+  "pageid": 167771,
+  "sitelinks": {},
+  "title": "Item:Q139386",
+  "type": "item"
+}

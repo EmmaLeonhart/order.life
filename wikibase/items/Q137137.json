@@ -1,0 +1,412 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ariarathes X of Cappadocia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137137$FD93B342-D423-4F34-9707-CF588C11AB92",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736271"
+          },
+          "hash": "da2c7e8e2fe365acb5fe917c45c1dcdafb3eb09b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137137$9E205E1A-2E6C-49FC-B5E0-F7E2468C0858",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137137$6478476A-0B38-4A00-A365-126F4677D0CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137137$7AEEB12B-8A97-4D03-AF11-DE4CA04C8452",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariarathes_X_of_Cappadocia_(1)"
+          },
+          "hash": "98ace5410505e0af5a16b05b905690d80efb76fe",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137137$33B8BDA8-AA94-460C-A243-27DBB5F14E42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137135",
+              "numeric-id": 137135
+            }
+          },
+          "hash": "b0e659a4d3c550dc6cb9f389519730d393f1f9f0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137137$7202499B-2C11-4895-AA9A-6F015BBA173D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136736",
+              "numeric-id": 136736
+            }
+          },
+          "hash": "c0acd1a7757eb2fd878637439ff141128f7f96f0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137137$A80C821D-9818-4E27-B70C-C04FA0727144",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137137$45A67B35-7FDE-40AA-B7DC-EF2E827BBD85",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137137$D62BC524-FAF3-414D-B2BB-2FC66E5CD622",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0036-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3ed9d4ebf9b1f17b6e842e868d126d5730a01b78",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137137$315A5654-96F3-459A-A956-70964964BEFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q469714"
+          },
+          "hash": "7a4ecb0f50551c7bc4d64f6b308c351832c104a1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q137137$80931124-9BD3-4AA2-A981-6C587C58AC54",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52167"
+          },
+          "hash": "c91d574ab03f92b3fc888d4150c87c4dfbe49cfa",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137137$097A28A6-7D79-40B5-B027-07C639CE8A21",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariarathes X of Cappadocia Arms.svg"
+          },
+          "hash": "41f56f5d661e82a1ac9e33932c6d7489a2974425",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Kappadokien"
+    },
+    "en": {
+      "language": "en",
+      "value": "reigned c. 42 BC – 36 BC, became king after his brother Ariobarzanes III Philoromaios"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Cappadoce"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kappadókiai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Cappadocia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Kappadokien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Каппадокії"
+    }
+  },
+  "id": "Q137137",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ariarathes X"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ارياراتيس العاشر من كابادوكيا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арыярат X"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ariarates X"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ariarathes 10. af Kappadokien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ariarathes X."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αριαράθης Ι΄ της Καππαδοκίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ariarathes X of Cappadocia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Ariarathes X of Cappadocia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Ariarathes X of Cappadocia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ariarates X Eusebio Filadelfo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ariarates X.a Eusebio Filadelfo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ariarathe X"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "X. Ariarathész"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ariarate X di Cappadocia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ariarathes X of Cappadocia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ariarates X Eusebes Filadelf"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ariarate"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ariarate"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ариарат X"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Arijarat X od Kapadokije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ariarathes X av Kappadokien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аріарат X"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ariarathes X của Cappadocia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿里阿拉特十世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿里阿拉特十世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿里阿拉特十世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿里阿拉特十世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿里阿拉特十世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿里阿拉特十世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿里阿拉特十世"
+    }
+  },
+  "lastrevid": 17554247,
+  "modified": "2025-09-17T11:03:29Z",
+  "ns": 860,
+  "pageid": 165522,
+  "sitelinks": {},
+  "title": "Item:Q137137",
+  "type": "item"
+}

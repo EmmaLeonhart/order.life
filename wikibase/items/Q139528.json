@@ -1,0 +1,379 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sextus Julius Caesar"
+      },
+      {
+        "language": "en",
+        "value": "Sextus Julius Caesar, II"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73239$EFC03AC9-E9C3-4FF4-AED5-D3E7D315D943",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00619491"
+          },
+          "hash": "6eaab33a52fc18e56acf09cfe10ee52483777239",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73239$005ED5E1-BAAC-4CF6-AAA8-EC383A16E8C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73071",
+              "numeric-id": 73071
+            }
+          },
+          "hash": "284eefe3ff9937743fd19197fa67b6227ba98eaf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73239$A1B97021-C5B0-42BF-8951-4C14EE3A89EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139529",
+              "numeric-id": 139529
+            }
+          },
+          "hash": "ff33cfba98e3cc8000f4f4176ef4b74250e741be",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73239$0593006E-EBE9-4FAD-8C8E-066C7EA39B7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73239$A53DE698-E463-46AF-955D-FC8502824DCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73239$05C5F8C5-D7A5-4764-9224-6D6DC9F5D3BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73242",
+              "numeric-id": 73242
+            }
+          },
+          "hash": "dc0b0031da577275d80b2eee6a242a59261967c1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73239$2DE0286F-C0CD-47B6-9D8F-0427E98D68B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73389",
+              "numeric-id": 73389
+            }
+          },
+          "hash": "609235457f205cd51a4434a43c60cdd5f2acd3ed",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73239$A312EAD0-3B78-4F84-8735-9EF074E3FE87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73239$1C154FA5-7E5F-44C1-B5A6-F1C19C8DFBE2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0201-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "491a281d4a97b007a8f7eda5336cc0a21e0da813",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73239$9B2E080E-E928-47C3-BAC3-A6501F7EF5D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q615040"
+          },
+          "hash": "7d3133bcc425540cb496d39c271d584ba9a8bb2f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73239$D7BF08D2-FB14-40F3-BE10-8CB559309DBF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000005768265987"
+          },
+          "hash": "d1e76504be323f3d678a98896436578e91300d94",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73239$4802D056-935E-40CD-91E2-73E4EEAA6FA2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sextus Julius Caesar Arms.svg"
+          },
+          "hash": "763f3ec3321b626661e4844376947b66600105ef",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römische Konsul im Jahr 157 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in the year 157 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul de la Antigua Roma en el año 157 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul en 157 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "console nel 157 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk konsul"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "公元前157年罗马执政官"
+    }
+  },
+  "id": "Q73239",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "سيكستوس چوليوس كايسار"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Секст Юлий Цезар"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sext Juli Cèsar"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sextus Iulius Caesar"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σέξτος Ιούλιος Καίσαρ ΙΙ (ύπατος το 157 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sextus Julius Caesar"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sexto Julio César"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sextus Julius Caesar"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sexto Julio César"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սեքստուս Հուլիոս Կեսար"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sesto Giulio Cesare"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セクストゥス・ユリウス・カエサル"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sextus Iulius Caesar"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sextus Julius Cæsar"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sextus Iulius Caesar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sexto Júlio César"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sexto Júlio César"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Секст Юлий Цезарь"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sextus Julius Caesar"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Секст Юлій Цезар"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塞克斯图斯·尤利乌斯·凯撒_(前157年执政官)"
+    }
+  },
+  "lastrevid": 17485950,
+  "modified": "2025-09-16T18:42:14Z",
+  "ns": 860,
+  "pageid": 88070,
+  "sitelinks": {},
+  "title": "Item:Q73239",
+  "type": "item"
+}

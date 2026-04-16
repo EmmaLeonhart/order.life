@@ -1,0 +1,418 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Enrique"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q139179$D2F833CD-26F1-4920-A9DA-7AFFD8422BCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140864",
+              "numeric-id": 140864
+            }
+          },
+          "hash": "0bfcf88a0f661a0d01ea35f705cdfc5bded7b00d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139179$BD8A06EF-398A-4B71-B3C6-99B137A9802B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140863",
+              "numeric-id": 140863
+            }
+          },
+          "hash": "561447e208e3ab97c285de9bdc19a1d741f9defe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139179$EF864F34-E2CD-4C92-A0F5-292284417A00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139179$42744051-CB32-44C6-9833-4A060E1EC643",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139179$2CB094F5-B1BC-4FCA-B85F-946674580238",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140862",
+              "numeric-id": 140862
+            }
+          },
+          "hash": "16fca988a1f39e694aacbdea628754a358b3f7d6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139179$05EBFBFA-4BC5-44E1-910E-D60F55E7BD69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138208",
+              "numeric-id": 138208
+            }
+          },
+          "hash": "e35de7caaac6f615ceab1fdb814eb74220293a0d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139179$8F1E58EF-6E2A-427C-A8A5-B86F932BBCA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123253",
+              "numeric-id": 123253
+            }
+          },
+          "hash": "b3142b1934e2bada8774f82f99026b6b5fbc0246",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139179$23D1E0A9-8206-4859-AC5E-3906E0C950C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139179$9ABD5DE6-EF27-4C55-903B-F7B56786B6EC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1127-03-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3cb5b93d37498e4b5974484d09ff0afa0a011b17",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139179$93342A90-D211-45C0-B67A-11D16B4219CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q470177"
+          },
+          "hash": "1d2a4d16d3104f39105b3a15aa58464f248b3692",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q139179$678C77C1-21DB-4A12-AEEF-E0C03EA3E8FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007718311626"
+          },
+          "hash": "4379961c5a68d4c7d6be2b5e4d0b9463df723a00",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139179$4AEABEE8-4E63-4243-A67C-D02407638AA0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry Arms.svg"
+          },
+          "hash": "ed34eea3930005fadced9961451a858f1af88b4e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q139179$B0FA029F-BDC2-4DEB-806B-30E0BA5202FE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/ebe0aa46-52b8-4062-b713-207fa78c1418"
+          },
+          "hash": "6e765e9291f5c8919ea3865e1a802cbd752b22e7",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كوندوتييرو ألماني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Condottiere alemán"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "obodritský kníže nebo král;"
+    },
+    "de": {
+      "language": "de",
+      "value": "abodritischer Fürst aus der Dynastie der Nakoniden"
+    },
+    "en": {
+      "language": "en",
+      "value": "Obotrite prince or king"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe abodrita de la dinastía nakónida (f. 1127)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Prince des Abrodites"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero tedesco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits Condottiero (1066-1127)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "książę obodrycki"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь бодричей"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "obodritski knez"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande furste eller kung av obotriterna"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "князь ободритів"
+    }
+  },
+  "id": "Q139179",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "هنرى"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Генрык Готшалкавіч"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Heinrich von Alt-Lübeck"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jindřich Obodritský"
+    },
+    "da": {
+      "language": "da",
+      "value": "Henrik"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heinrich von Alt-Lübeck"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry"
+    },
+    "es": {
+      "language": "es",
+      "value": "Enrique de los abodritas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri prince des Abodrites"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հենրիխ Լյուբեկ (բոդրիչիների իշխան)"
+    },
+    "id": {
+      "language": "id",
+      "value": "Henryk dari Obotrite"
+    },
+    "it": {
+      "language": "it",
+      "value": "Enrico dell'Antica Lubecca"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Henrik"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik van Oud-Lübeck"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Henryk Gotszalkowic"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Henrik"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Heinrich von Alt-Lübeck"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Генріх"
+    }
+  },
+  "lastrevid": 17557663,
+  "modified": "2025-09-17T11:51:55Z",
+  "ns": 860,
+  "pageid": 167564,
+  "sitelinks": {},
+  "title": "Item:Q139179",
+  "type": "item"
+}

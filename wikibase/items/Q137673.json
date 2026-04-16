@@ -1,0 +1,475 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Vatinius"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137673$2B47FC9B-686E-430A-A25E-8A6188B7BB7B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736100"
+          },
+          "hash": "10a9d3194264db1fae59703bdad2b20f96dd8868",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137673$20631F90-8F73-4E28-ADC2-D922E6BC8559",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137673$66DBBA64-9160-466B-9792-2962EFF7718F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137673$292E568A-4D3A-4D1B-8993-6BA35838FF17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137147",
+              "numeric-id": 137147
+            }
+          },
+          "hash": "d79b6e57d5344c4b89e3e494f028989b1430149c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137673$D7FD974E-8CEF-4ACA-87FD-C314B0A0FDC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138393",
+              "numeric-id": 138393
+            }
+          },
+          "hash": "92d658f8b03ea0388c08d4b3ac11d2d67d616e47",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137673$B0127E9F-3545-4610-8D58-2BD20FA044BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137711",
+              "numeric-id": 137711
+            }
+          },
+          "hash": "81c7c29329b5e161432baf18dfd661fe14f9d4cb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137673$93B379CC-DA6E-47C6-80BF-72E616F2A5B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137673$67A4B7A0-ABED-4108-8E61-9DAF7E68D2A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137673$7FCC66DF-1F70-4F45-B8F7-5FFBE0F5720F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0050-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f09fbd13a92ad6da2ebbb9ff24393de29f04ea1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137673$38E78F1B-4372-466F-8D0B-263FE7267E0C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q521446"
+          },
+          "hash": "e2fc4b15b0f672adc0628278f0a95b555c96792a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137673$5E23744C-7819-4959-821B-2A1784CF6E49",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Vatinius Arms.svg"
+          },
+          "hash": "4d37efd04cebc8706284a4007e5b761e5122f545",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Magistrat romà del segle I a.C"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 47 BC"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Roman consul 47 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul en el año 47 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 47 av. J.-C."
+    },
+    "he": {
+      "language": "he",
+      "value": "מדינאי ואיש צבא רומי, בין תומכיו של יוליוס קיסר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori római politikus és hadvezér"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "共和政ローマの政治家・軍人"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "polityk rzymski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "rimski sufektni konzul (47 pr. n. št.)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політик"
+    }
+  },
+  "id": "Q137673",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "بوبليوس فاتينيوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Публий Вациний"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Vatini"
+    },
+    "da": {
+      "language": "da",
+      "value": "Publius Vatinius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Vatinius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Βατίνιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Vatinius"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Publius Vatinius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Vatinio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Vatinius"
+    },
+    "he": {
+      "language": "he",
+      "value": "פובליוס וטניוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publius Vatinius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Vatinio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プブリウス・ウァティニウス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Vatinius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Publius Vatinius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Vatinius"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Publius Vatinius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Publiusz Watyniusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Vatínio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Vatínio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Ватиний"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Publije Vacinije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Publij Vatinij"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Vatinius"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Publius Vatinius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Ватіній"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普布利乌斯·瓦提尼乌斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "普布利乌斯·瓦提尼乌斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "普布利乌斯·瓦提尼乌斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普布利烏斯·瓦提尼烏斯"
+    }
+  },
+  "lastrevid": 17555083,
+  "modified": "2025-09-17T11:15:19Z",
+  "ns": 860,
+  "pageid": 166058,
+  "sitelinks": {},
+  "title": "Item:Q137673",
+  "type": "item"
+}

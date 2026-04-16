@@ -1,0 +1,826 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Galerius"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137230$492FFAC9-7DDA-48A5-AAF0-90374F2EF5AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "360563"
+          },
+          "hash": "848087a1938b02956b9e4a37304665739f84962d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q137230$06DBCE19-8912-40BD-B17E-0EEC4F40D34F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446936"
+          },
+          "hash": "3b8a04fa7f1f61be9ac9fdb984b9124ec2799e84",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137230$499D37F9-7B17-4B89-BD59-F56E876A0859",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137780",
+              "numeric-id": 137780
+            }
+          },
+          "hash": "104c4eab38f30bdf964038fdd6880db933091437",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137230$4438CAFA-9CF6-4AE7-83C8-94C34C55BFB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137233",
+              "numeric-id": 137233
+            }
+          },
+          "hash": "9edc713f760cff4b1fab0a0b5853aa1c460d3985",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137230$2F1B290E-0B3A-4AAC-9481-5B65014BA2FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138573",
+              "numeric-id": 138573
+            }
+          },
+          "hash": "7a526a0c6662215b27081340590cec97d1ce8680",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q137230$6DD868ED-6D00-491B-9B30-12C35836E2F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Maximianus-1"
+          },
+          "hash": "92cf27c2ab998a3f91b7374bf9cc6928b1a7871f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137230$EDDF80FF-8532-4489-A108-54C14DA8FB42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137230$AFE12E4F-6984-4DD9-8C02-641BE8389D1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137230$43EA4236-D13F-4EFD-88DF-454B6C96DB2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137229",
+              "numeric-id": 137229
+            }
+          },
+          "hash": "609168579e642ba0443763bacc46ad0ebce65678",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137230$41646550-75DF-4E93-983E-7C0BC58F3299",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137782",
+              "numeric-id": 137782
+            }
+          },
+          "hash": "5d424e3a68270831adff4cc3e12c89845d733a93",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137230$F8507F80-463F-4D35-BB0C-9FFF90AE5F59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132032",
+              "numeric-id": 132032
+            }
+          },
+          "hash": "512219899e505b8a9ce34300c685886daecf1031",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137230$A1AFF325-C2F0-4A0C-BBCA-69169C857D90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137781",
+              "numeric-id": 137781
+            }
+          },
+          "hash": "7c04d7623c5c841560bf71602237da879f0765e5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q137230$AAC6B485-AF8D-4176-B693-B111D7CD9736",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "35827724"
+          },
+          "hash": "3aae3a552cbc91b0448c65b1adfc519cb890cd91",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137230$E25973CB-E3EB-4372-B126-7456AD1F74D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137230$0AA89074-5DB4-4489-BF84-56AC900C4980",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0250-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8239dfcdc674a074c88e97a44c331344239bd4f4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137230$C91E977C-B6F3-4A07-83B0-E7CB902A1817",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0311-05-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a98aa21ba777c2e9b29d9b66cff5b16de2ea0389",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137230$522C7A1D-4845-41A4-9125-3AEE8B714A73",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q172168"
+          },
+          "hash": "4bc790c6388940a85e2ca6dba12a41a81d493e7e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q137230$9B598EF3-4212-47B6-80EA-ED396D0E71BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006101378871"
+          },
+          "hash": "97d8fce48d02d80408e9fe962cf86e7e9d02bb75",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137230$FBE6EF12-1F55-4E40-BADC-557C4200EF7F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Galerius Arms.svg"
+          },
+          "hash": "c319d2574ea1f7e84c042ccb45ee71a32fe02788",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q137230$DADECD4E-1119-42A0-B2AA-13AB8A7CCAA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/ae32cac4-eecd-4b36-9aff-9bcb4374b63d"
+          },
+          "hash": "27ef300b3c52a1e6634a1bee9ab1c001bbf05d84",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور روماني"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "римски император"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador romà (250-311)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser des Römischen Reiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman emperor (250-311)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano de oriente (305-311)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain de 305 à 311"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano entre 305 e 311"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר רומאי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Római Birodalom császára"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi dalam sistem Tetrarki, sebagai Caesar dari tahun 293 hingga 305 dan sebagai Augustus dari tahun 305 hingga 311"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore romano, cesare (r. 293-305) e poi augusto (r. 305-311) d'Oriente"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "305년부터 311년까지 로마 황제"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Mperatore Rummano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (250-311)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "împărat roman"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Римский император"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk kejsare"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римський імператор у 305—311 рр."
+    },
+    "ur": {
+      "language": "ur",
+      "value": "رومی شہنشاہ (250-311)"
+    }
+  },
+  "id": "Q137230",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "غاليريوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جاليريوس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Qaleri"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "قالریوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Галерый"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Галерий"
+    },
+    "br": {
+      "language": "br",
+      "value": "Galerius"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Galeri"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Galerius"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Galerius"
+    },
+    "da": {
+      "language": "da",
+      "value": "Galerius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Galerius"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Galerius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γαλέριος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Galerius"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Kajo Galerio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Galerio"
+    },
+    "et": {
+      "language": "et",
+      "value": "Galerius"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Galerio"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گالریوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Galerius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Galère"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Galerius"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Galerius"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Galerio"
+    },
+    "he": {
+      "language": "he",
+      "value": "גלריוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Galerije"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Caius Galerius Valerius Maximianus római császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գալերիոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Galerius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Galerio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガレリウス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გალერიუსი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Галерий"
+    },
+    "kk-arab": {
+      "language": "kk-arab",
+      "value": "گالەرىيي"
+    },
+    "kk-cn": {
+      "language": "kk-cn",
+      "value": "گالەرىيي"
+    },
+    "kk-cyrl": {
+      "language": "kk-cyrl",
+      "value": "Галерий"
+    },
+    "kk-kz": {
+      "language": "kk-kz",
+      "value": "Галерий"
+    },
+    "kk-latn": {
+      "language": "kk-latn",
+      "value": "Galerïý"
+    },
+    "kk-tr": {
+      "language": "kk-tr",
+      "value": "Galerïý"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "갈레리우스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Galerius"
+    },
+    "la": {
+      "language": "la",
+      "value": "Galerius"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Galērijs"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Галериј"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Galerius"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Galerio"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Galerius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Galerius"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Galerius"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Galeri"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Galeriusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Galério"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Galério"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Galerius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Галерий"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Galerius"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Galerije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Galerius"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Галерије"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Галерије"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Galerije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Galerius"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Galerius"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิกาเลริอุส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Galerius"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Galerius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Галерій"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "گالیریوس"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Galerius"
+    },
+    "war": {
+      "language": "war",
+      "value": "Galerius"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "伽列里乌斯"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Galerius"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伽列里乌斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "伽列里乌斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "伽列里乌斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "伽列里烏斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "伽列里烏斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "伽列里乌斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "伽列里烏斯"
+    }
+  },
+  "lastrevid": 17554399,
+  "modified": "2025-09-17T11:05:39Z",
+  "ns": 860,
+  "pageid": 165615,
+  "sitelinks": {},
+  "title": "Item:Q137230",
+  "type": "item"
+}

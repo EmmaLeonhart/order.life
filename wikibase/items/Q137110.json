@@ -1,0 +1,508 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agis IV"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137110$94D059CF-89C7-4684-BF4E-F44DB1E85D89",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "824632"
+          },
+          "hash": "cae026569ca00997ce7c11e0ca1c5ca6a672d0cc",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137110$C5239BB4-79DA-4770-88CC-A0DD1ECC5480",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137625",
+              "numeric-id": 137625
+            }
+          },
+          "hash": "210107070beaedcaca7fcf5fbd0fac8cb16e4f84",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137110$D99338A3-F0B9-466A-9254-BE1613F399FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137110$0B7F32C1-39D4-48AC-A46A-18857CB7F379",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137110$11D98AAC-74E0-4564-8213-C4BA7FC33786",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137624",
+              "numeric-id": 137624
+            }
+          },
+          "hash": "b4317fabbcabe8fe7e3858202735f3da5b1db581",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137110$9D4FB182-7584-46F2-A887-9701FB3FD981",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137109",
+              "numeric-id": 137109
+            }
+          },
+          "hash": "58ad2125865ce9260f88e4748f550a75d50aea7d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137110$09D39EF7-DD27-4CB3-A7A0-32399A68DCE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136711",
+              "numeric-id": 136711
+            }
+          },
+          "hash": "cfde1cdf77b8f8bc1a69a044ff70fc99bf17694a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137110$239A7EE0-B863-47A2-B7D6-BD92F916D411",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137110$2F1A1529-1E3A-4738-9C0C-A73A26699DEE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0265-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b7ab448265894b80cf1e3fbbc2ce06927473eb99",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137110$F558D75E-9070-41E7-8019-41107DE2336E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0241-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a79ff299f6e8375db420f447871d56cad772ae9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137110$95417646-C056-4001-8B98-444C2DDC5D04",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q299479"
+          },
+          "hash": "039cf767d20c9d78c2d772872138d0a8f405277b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137110$1B688AF4-8156-4DD2-8270-31CD0329BF1E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agis IV Arms.svg"
+          },
+          "hash": "2891046e9db820ac4425dc19b9f2eb4f1c7111d0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "král Sparty"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Sparta"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Sparta"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Esparta en 244 a. C"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך העיר ספרטה בין השנים 244 לפנה\"ס ל-241 לפנה\"ס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Sparty"
+    }
+  },
+  "id": "Q137110",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أجيس الرابع"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اجيس الرابع"
+    },
+    "az": {
+      "language": "az",
+      "value": "IV Agis"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Агис IV"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Agis IV"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Agis IV."
+    },
+    "da": {
+      "language": "da",
+      "value": "Agis IV"
+    },
+    "de": {
+      "language": "de",
+      "value": "Agis IV."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Agis IV."
+    },
+    "el": {
+      "language": "el",
+      "value": "Άγις Δ΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agis IV"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Agis IV"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Agis IV"
+    },
+    "es": {
+      "language": "es",
+      "value": "Agis IV"
+    },
+    "et": {
+      "language": "et",
+      "value": "Agis IV"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Agis IV"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agis IV"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἆγις"
+    },
+    "he": {
+      "language": "he",
+      "value": "אגיס הרביעי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IV. Agisz"
+    },
+    "id": {
+      "language": "id",
+      "value": "Agis IV"
+    },
+    "it": {
+      "language": "it",
+      "value": "Agide IV"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アギス4世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "აგის IV"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아기스 4세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Agis IV"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Agidas IV"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Agis 4."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Agis IV van Sparta"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Agis 4."
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Agis IV"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ágis IV"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ágis IV"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агис IV"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Agis IV"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Agis IV."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Agis IV"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Агис IV"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Агис IV"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Agis IV"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Agis IV"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Агіс IV"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Agis IV"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Agis IV"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亚基斯四世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "亚基斯四世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "亚基斯四世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "亞基斯四世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "亞基斯四世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "亚基斯四世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "亞基斯四世"
+    }
+  },
+  "lastrevid": 17554195,
+  "modified": "2025-09-17T11:02:44Z",
+  "ns": 860,
+  "pageid": 165495,
+  "sitelinks": {},
+  "title": "Item:Q137110",
+  "type": "item"
+}

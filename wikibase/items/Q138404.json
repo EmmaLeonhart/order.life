@@ -1,0 +1,324 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Clodia Tertia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138404$B3F07CBE-F314-4356-8520-2A015A4B0BF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735668"
+          },
+          "hash": "885f55a68621480f6f5e28650e75c01125dbfa70",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138404$EE4FC90C-7E73-438A-B203-81030A342C08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139562",
+              "numeric-id": 139562
+            }
+          },
+          "hash": "7167da88b5e46ed63d31d9561b96edb3952aadbc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138404$2FA5A575-147D-4944-AA12-325C2BE48FD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138404$850876E2-228A-4D9C-ACFB-0225B10D9432",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138404$59F62504-FAA9-4699-B7C5-B5969A3EB62E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139561",
+              "numeric-id": 139561
+            }
+          },
+          "hash": "e2716b2b0ae54ba2add09ba47232544a4e37de37",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138404$4BB6BE78-90E0-4C79-A9E9-7D9EDB34287B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78243",
+              "numeric-id": 78243
+            }
+          },
+          "hash": "d175cd114d4121f868555ebe9d29729ffbdd337f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138404$3056ECDD-9549-4FD1-B947-7B9100915818",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138399",
+              "numeric-id": 138399
+            }
+          },
+          "hash": "06f37e705e1513f976cb14767b7aa473abb42c7a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138404$3E623502-F538-4FE1-AFF9-66EE4359C072",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138404$8CE9DA1E-EB22-4F70-934C-46D400483D5F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138404$CFDDAFD1-5C56-40E5-AAC5-5703CEBDBCA8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0061-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "284b079327e32fbd31ae14e6d2ce58575c627346",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138404$480F8356-5C2C-4A49-9A66-B4AB230FF3CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12899377"
+          },
+          "hash": "232cf004ad1706d0c41fd584de5370a8a76d427f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138404$639FDF79-D831-41DE-928E-625370FED8B2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Clodia Tertia Arms.svg"
+          },
+          "hash": "b5e21ea615056c7af2019979ec81fe29a43bb7a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "filla gran d'Api Claudi Pulcre i esposa de Quint Marci Rex"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Quintus Marcius Rex and sister of Clodius"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposa de Marcio Rex, hermana de Clodio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse de Quintus Marcius Rex, sœur de Clodius"
+    },
+    "la": {
+      "language": "la",
+      "value": "Q. Marcii Regis uxor"
+    }
+  },
+  "id": "Q138404",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Clàudia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Clòdia Pulcra Tèrcia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Clodia Tertia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κλοδία Τέρτια"
+    },
+    "en": {
+      "language": "en",
+      "value": "Clodia Tertia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Clodia Tercia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Clodia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Clodia Tertia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Clodia Tertia"
+    }
+  },
+  "lastrevid": 17556235,
+  "modified": "2025-09-17T11:31:48Z",
+  "ns": 860,
+  "pageid": 166789,
+  "sitelinks": {},
+  "title": "Item:Q138404",
+  "type": "item"
+}

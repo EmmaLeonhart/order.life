@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Granius"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q139700$9B117967-D09C-4F71-A4DF-27FB604F889E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139700$196DC713-F193-45A2-BBA1-F5898EA77175",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139700$A26575BC-34C0-4550-A9B9-EE21AD9FBD09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138479",
+              "numeric-id": 138479
+            }
+          },
+          "hash": "c4eadbb9071b7ed5af917c9990cef8b9960f3e5e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139700$BC8570BC-6F3D-4306-941C-975D145E7CB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139700$3E0853B8-7A20-476F-B552-F91E0306BA6D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139700$796663CD-3DB5-4119-A5CC-BE3035EED020",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aeadc470c76de18d73f3b016a929b758575aa3fa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139700$035042A2-1731-4937-9AA5-63E8D078CC89",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q48961773"
+          },
+          "hash": "55c79345429d63d6c8b92306dbdb2cb31f694148",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139700$31D2AFE9-B3EC-4B04-B1FF-5F232F179C8D",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Granius"
+          },
+          "hash": "90a4e9c3e6343ce753bbeecfea8c2589b6aeac5c",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139700$9800E3A1-B86A-4F87-AAEB-8F393386E035",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Granius Arms.svg"
+          },
+          "hash": "94079fe261337a6465e9b21478bb2b4c5e147362",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "step-son of Gaius Marius"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo adoptivo de Cayo Mario"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q139700",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Quintus Granius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Γράνιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Granius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Granio"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Granio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クイントゥス・グラニウス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Granius"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Quintus Granius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Granius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Граний"
+    }
+  },
+  "lastrevid": 17558337,
+  "modified": "2025-09-17T12:01:33Z",
+  "ns": 860,
+  "pageid": 168085,
+  "sitelinks": {},
+  "title": "Item:Q139700",
+  "type": "item"
+}

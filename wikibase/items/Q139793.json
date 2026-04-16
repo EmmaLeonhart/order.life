@@ -1,0 +1,420 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cleopas"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139793$88375A08-67DB-49F2-AE14-4929DD73AA0B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "407821"
+          },
+          "hash": "312639b55d6cc4efd323129822a5e14fecd2974f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139793$0B7E4C42-4D2B-4365-A628-1D58FCAF960E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138543",
+              "numeric-id": 138543
+            }
+          },
+          "hash": "eb05fb033c7bdf9c4d12d5ea894213ce00be95a7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139793$EF3AB7A9-7C3F-4880-BEEB-5BF833D1EF71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138541",
+              "numeric-id": 138541
+            }
+          },
+          "hash": "b570628129555858f853409d6430804060340145",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139793$57645BD6-D227-407C-B725-B570A7983EC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141715",
+              "numeric-id": 141715
+            }
+          },
+          "hash": "cbde27168e1aa1d13a96a59bc053fa40fbb3a983",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139793$FEF7CC6D-CC90-480A-85E7-75FC4B458069",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139793$76135B06-06FF-4E83-B64E-0F897EDB7485",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139793$AEC0BC1D-BABE-43BD-885E-61609D0E3D1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139788",
+              "numeric-id": 139788
+            }
+          },
+          "hash": "f2fd9fe8450937c3fe24710b5122d108d682f214",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139793$D8A657BE-6415-4FF8-A049-8A110C7E715E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139793$C7DE5BFE-9DA7-4804-A749-06CF4B8D6C2A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0b73d802fb7f925bd3bd4fb20dfc4848cc36948d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139793$14CA0E3F-B286-4731-BD71-CC527B287354",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q711072"
+          },
+          "hash": "47eed55a873a4d7a5db1e9765a4c78d5fe89fd67",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139793$B17CFEC2-5895-43C2-986F-F70D3504F1EE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleopas Arms.svg"
+          },
+          "hash": "7143549fd0ba7fe5639ebd37462718f5ca62aa17",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سيمون ابن يوسف، ظهر المسيح له و صار هو رسول له أحدَ السبعين رسولا له، صار أسقف اورشليم."
+    },
+    "da": {
+      "language": "da",
+      "value": "person i Bibelen (Lukasevangeliet)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jünger Jesu"
+    },
+    "en": {
+      "language": "en",
+      "value": "biblical character (Gospel of Luke); went to Emmaus with Peter"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje bíblico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage du Nouveau Testament"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מהברית החדשה (הבשורה על פי לוקאס), הלך לאמאוס עם פטרוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "1세기 기독교 성인"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "еден од 70-те апостоли"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "święty"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "personaj biblic"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "апостол от семидесяти"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Luka 24:17)"
+    }
+  },
+  "id": "Q139793",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كليوباس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كليوباس"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Clopas d'Emmaús"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Svatý Kleofáš"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kleofas"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kleopas"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cleopas"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Klopas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cleofás"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cléophas"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cleopas"
+    },
+    "he": {
+      "language": "he",
+      "value": "קליופס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kleofa"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kleopas"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cleofa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クレオパ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "글레오파"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cleophas"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Клеопа"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kleopas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kleopas"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kleofas"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cléofas"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Cleopas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Клеопа"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Апостол Клеопа"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Kleofa"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kleopas"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Клеопа"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "کلیوپاس"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "革流巴"
+    }
+  },
+  "lastrevid": 17558483,
+  "modified": "2025-09-17T12:03:37Z",
+  "ns": 860,
+  "pageid": 168178,
+  "sitelinks": {},
+  "title": "Item:Q139793",
+  "type": "item"
+}

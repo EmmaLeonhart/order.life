@@ -1,0 +1,423 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Rutilius Rufus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139702$B789DD68-1701-413A-9407-160CB37C91EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "168160"
+          },
+          "hash": "4c4f5ebc57d36c93f8be4bb5812e7c101768751c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q139702$929D96E4-478E-4A16-85A8-73632342B6A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735704"
+          },
+          "hash": "9859854cb96d306b70997dc872a09ab6fd510cc5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139702$BE4AFDE7-3EC2-46CD-B708-26854F9038A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139702$69C33EA9-310F-48A5-8294-38F6E3CE4981",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139702$EE4A4D17-C069-44F9-AD69-A9C673EF2C20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141604",
+              "numeric-id": 141604
+            }
+          },
+          "hash": "e667c3d496e4f6a793e4c8419e09ec62404f0f2a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139702$3A80B447-B2DF-44D9-83AD-C63C96F0EED3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73338",
+              "numeric-id": 73338
+            }
+          },
+          "hash": "acb5dc68606743cfb500120022f92b4e8cd9f4de",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139702$7701DF65-33EB-4ECB-85EC-89C569D67513",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139702$22C26C89-01FD-48F5-9C0E-C9CFF5827B41",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0158-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "05c493fcd93832769741964018b9b7e3e3518eaa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139702$645D7F35-BCBD-4C8D-A678-2D22742FB181",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q442449"
+          },
+          "hash": "5df2247d66231b175a654458d5b3795a35d0b7d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139702$C1115A55-59BF-42BA-97E9-0F33E970AD24",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Rutilius Rufus Arms.svg"
+          },
+          "hash": "564d00144bbe7580ae1d49c57b478671a5704d4b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان هيستوريان من روما القديمه"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Římský konzul 105 př. n. l."
+    },
+    "da": {
+      "language": "da",
+      "value": "italiensk historiker og politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος Ύπατος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 105 BC"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Roman consul 105 BC"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار و تاریخنگار ایتالیایی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "italialainen poliitikko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique, orateur et historien romain"
+    },
+    "he": {
+      "language": "he",
+      "value": "מדינאי, מצביא והיסטוריון רומאי"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale, politico e storico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "italiensk historiker og politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Italiaans politicus (158v Chr-78v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "italiensk historikar og politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político e helenista romano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 105 года до н. э."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "rimski politik, govornik in zgodovinar; konzul"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "italiensk historiker och politiker"
+    }
+  },
+  "id": "Q139702",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "بوبليوس روتيليوس روفوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Публий Рутилий Руф"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Rutili Rufus"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Publius Rutilius Rufus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Publius Rutilius Rufus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Rutilius Rufus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Ρουτίλιος Ρούφος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Rutilius Rufus"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Publius Rutilius Rufus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Publius Rutilius Rufus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Rutilio Rufo"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Publius Rutilius Rufus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Rutilius Rufus"
+    },
+    "he": {
+      "language": "he",
+      "value": "פובליוס רוטיליוס רופוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publio Rutilio Rufo"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պուբլիոս Ռուտիլիոս Ռուֆոս"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Rutilio Rufo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プブリウス・ルティリウス・ルフス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Rutilius Rufus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Publius Rutilius Rufus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Rutilius Rufus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Publius Rutilius Rufus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Rutílio Rufo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Rutílio Rufo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Рутилий Руф"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Publije Rutilije Ruf"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Publij Rutilij Ruf"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Rutilius Rufus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Публије Рутилије Руф"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Publius Rutilius Rufus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Publius Rutilius Rufus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Рутілій Руф"
+    }
+  },
+  "lastrevid": 17558339,
+  "modified": "2025-09-17T12:01:36Z",
+  "ns": 860,
+  "pageid": 168087,
+  "sitelinks": {},
+  "title": "Item:Q139702",
+  "type": "item"
+}

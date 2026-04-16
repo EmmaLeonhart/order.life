@@ -1,0 +1,390 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thrasyllus of Mendes"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138521$FA9099CA-1BF8-46B4-977E-A8EBCDF40CA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "169086"
+          },
+          "hash": "4cab44154b479ad34702e85c5bbeb431f07a970e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q138521$C49393E6-502B-4ED8-BB84-4967B2CD4644",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738787"
+          },
+          "hash": "5116ed7384da8223970c715f027dd5ab97c9d5a2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138521$B424CA7A-DFD9-4E18-84B7-F560D2D232BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138523",
+              "numeric-id": 138523
+            }
+          },
+          "hash": "d3c66c87e927ca13b2d3848badbb8b8630697911",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138521$66632E98-DB40-4EAA-B371-8F3BB92F0740",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138522",
+              "numeric-id": 138522
+            }
+          },
+          "hash": "b6fc673b4882f193668a461575e1e5a2e6f3d295",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138521$74253A05-3C90-4796-92E0-B9B57562BD20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138521$0414CB17-7FFF-4E3B-B9DD-C4ACB18B27B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138521$0D671316-99A1-4798-82AC-F90E403F850F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137719",
+              "numeric-id": 137719
+            }
+          },
+          "hash": "9dffc622a40fffc502dc3f767f2fdeddd6e46737",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138521$9A8B1B64-E905-49B0-869A-1B2AFC5AA2C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138521$2AF93D91-B91A-42CF-8F3F-FBE32B23FD49",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138521$C53C28E0-68DD-4A5D-A95B-C47C7F669DA9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0036-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3ed9d4ebf9b1f17b6e842e868d126d5730a01b78",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138521$80D625D5-2ABF-4774-A610-A93D6E56B193",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q725225"
+          },
+          "hash": "d73a22b853bdce496497df76077bda6a9be18f79",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138521$26F5DF32-3849-4C19-A3E6-12EF10819321",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thrasyllus of Mendes Arms.svg"
+          },
+          "hash": "6d707ae894ee7cc64a2109ebd2eb9bc4817e01e2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "filòsof del segle I aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "filosof"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philosoph der Antike"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st-century AD Egyptian Greek astrologer and philosopher"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "philosophe antique"
+    },
+    "it": {
+      "language": "it",
+      "value": "astrologo e grammatico greco antico"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "filosof"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "astroloog uit Romeinse Keizerrijk (-36)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "философ-платоник"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mısırlı Yunan astrolog, filozof"
+    }
+  },
+  "id": "Q138521",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ثراسيلوس اوف مينديس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Трасил"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Trasil"
+    },
+    "da": {
+      "language": "da",
+      "value": "Thrasyllos fra Alexandria"
+    },
+    "de": {
+      "language": "de",
+      "value": "Thrasyllos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θράσυλλος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Thrasyllus of Mendes"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Thrasyllos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Thrasylle de Mendès"
+    },
+    "is": {
+      "language": "is",
+      "value": "Þrasýllos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Trasillo di Mende"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "トラシュロス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Thrasyllus Mendesius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Thrasyllos fra Alexandria"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thrasyllus of Mendes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Trazyllos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Трасилл"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Trazil iz Mendesa"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Thrasyllus of Mendes"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mendesli Thrasyllos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Трасилл Мендес"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "門德斯的斯拉蘇盧斯"
+    }
+  },
+  "lastrevid": 17556409,
+  "modified": "2025-09-17T11:34:19Z",
+  "ns": 860,
+  "pageid": 166906,
+  "sitelinks": {},
+  "title": "Item:Q138521",
+  "type": "item"
+}

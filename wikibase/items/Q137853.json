@@ -1,0 +1,211 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Egri"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137853$76B9AFAE-E07C-40A2-BF23-4A93C91C4D92",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00769335"
+          },
+          "hash": "f0845e73d5044eeafae6cb57ca045ab1b910fb39",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137853$E2ADFC5C-B19F-4BF0-BD8F-5092452E02FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138676",
+              "numeric-id": 138676
+            }
+          },
+          "hash": "ac0c2bc7f6922293cc7d9f5697bafe82d2240a58",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137853$08DA178E-348E-4E37-BBD9-CE974770EA2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137853$2864B354-A843-48BA-A532-60F7BA8318F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137853$924610F8-56DD-40DA-8C4E-3BC12E9C439E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137295",
+              "numeric-id": 137295
+            }
+          },
+          "hash": "41929114f84a7435be69a656345a9b103f1799dc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137853$1817D41A-904A-476C-B748-474D0893FF56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137853$6DF399ED-30C2-4376-B84A-5377C094C6D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q112532086"
+          },
+          "hash": "1e7e7b169e61b7e1afc9dbe5826a3d32112d3d13",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137853$88CBB585-45E1-496C-9102-8F979FACD9F2",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Egri"
+          },
+          "hash": "9a51e5151099d7626fce7e75b12a715c3e542f98",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137853$904D9B17-A6D6-445C-BB01-452869C3C9C9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Egri Arms.svg"
+          },
+          "hash": "d43bde2384b0ecc10d70d595276e082b3eb20b59",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Welsh nobleman"
+    }
+  },
+  "id": "Q137853",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Egri ap Morien Mynog ap March ap Meirchion o Fodegri a Thalybolion"
+    },
+    "en": {
+      "language": "en",
+      "value": "Egri"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Egri"
+    }
+  },
+  "lastrevid": 17555373,
+  "modified": "2025-09-17T11:19:24Z",
+  "ns": 860,
+  "pageid": 166238,
+  "sitelinks": {},
+  "title": "Item:Q137853",
+  "type": "item"
+}

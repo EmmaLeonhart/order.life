@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wifred II"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141319$5C6A6AE2-C09C-4327-B03C-11FE3C313C06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141319$7FAD07E3-2340-4C01-BE09-96E44FB153DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141319$F30BC49E-5213-46C9-8953-2602BBA6629A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124129",
+              "numeric-id": 124129
+            }
+          },
+          "hash": "c3b02cc5cfe6f76797b053cc0fab7a28c2fba42d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141319$D88D2709-3D37-4F1A-8E57-41A2CF3B1FF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141319$F8973BAC-83E2-4CCF-879F-81D965A9A7EA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0901-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ecc0589780bacef8dcf758b68be1b8fcb380dd2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141319$303B7387-D83C-422A-8851-E95DC03CF8D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "90c12ea8b46a6dc107d9cc0d6a40fef1646aec37",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141319$0B9964A2-9F15-4ACE-87E7-4FB011500DF9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4019727"
+          },
+          "hash": "9b56977f03577ef0a87c031cd5efef56b1c79372",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q141319$74EA98C2-6322-458D-B04A-D8E5C89D3098",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=wifred;n=di spoleto"
+          },
+          "hash": "9ae7d8e54fb332b508647232874f731356679009",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141319$07549173-9AB6-4110-955E-E0027E229D93",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wifred II Arms.svg"
+          },
+          "hash": "8a20715890938d539862edb9e2538cd2d97f7f7f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q141319",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wifred II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Wifred II."
+    },
+    "en": {
+      "language": "en",
+      "value": "Wifred II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Wifred II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wifred II"
+    }
+  },
+  "lastrevid": 17561080,
+  "modified": "2025-09-17T12:42:07Z",
+  "ns": 860,
+  "pageid": 169704,
+  "sitelinks": {},
+  "title": "Item:Q141319",
+  "type": "item"
+}

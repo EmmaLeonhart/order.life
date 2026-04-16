@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gronwy ap Llywarch"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139018$263BA805-9C16-417B-A7C6-D64856905739",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00706633"
+          },
+          "hash": "965e735a89597a8a641dc06092309f655f87ad22",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139018$34B66EF8-FDD9-4D9D-A03D-3350A635B43C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138046",
+              "numeric-id": 138046
+            }
+          },
+          "hash": "be62aca602f3e0462d8d9e187be0bf0cf67bb6e9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139018$9999BBBA-6DEE-4F41-8D11-D49A912ABC33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140469",
+              "numeric-id": 140469
+            }
+          },
+          "hash": "4e61bcb1629aff8a65826fed23d7ce6d4aca3634",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q139018$62076340-6EBF-4830-B3E7-847EB9A716D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Llywarch-18"
+          },
+          "hash": "22a6a4d87c5b42f90341f0fed778616df495437d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139018$377BBFC4-E913-4372-8DD4-55A11C98EBF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139018$EE0F8947-FFDC-4B25-9A87-40F91244759F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139018$FA9F3D32-22B8-4AF2-B718-9812BE85F907",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140588",
+              "numeric-id": 140588
+            }
+          },
+          "hash": "f8dc60bf3855745607c095805314b7ff1ec4c236",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139018$9BE3C2E1-F7E5-4D54-9CE5-79A3197CDC35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139018$0F9A0DA4-EAF9-4605-B369-0BD7319B5FEC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1164-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "55bdd25395c5afe462283c60e77c24ac75390e51",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139018$1C167842-EF4E-4EA5-BCDD-0B177A019721",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a9cd3a3f007c2aaee8f4809bbb4ad610298d9d56",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139018$39EA6047-9CDA-4BFB-9D36-5F5938A6CD4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99211906"
+          },
+          "hash": "1f8940e1a1d19bef504b437f114ce7242b2c5f71",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139018$1DE6BBFD-7A20-4CB2-B742-5D278FB1E6D8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gronwy ap Llywarch Arms.svg"
+          },
+          "hash": "8d0a706325f86fb2d30af717127974320f609a47",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(1164-1250)"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1164 - 1250)"
+    }
+  },
+  "id": "Q139018",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Gronwy ap Llywarch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gronwy ap Llywarch"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gronwy ap Llywarch"
+    }
+  },
+  "lastrevid": 17557357,
+  "modified": "2025-09-17T11:47:45Z",
+  "ns": 860,
+  "pageid": 167403,
+  "sitelinks": {},
+  "title": "Item:Q139018",
+  "type": "item"
+}

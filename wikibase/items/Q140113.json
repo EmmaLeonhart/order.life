@@ -1,0 +1,271 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iorwerth Goch ap Maredudd"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q140113$4EAB547F-B998-4B0F-B0FE-304833E711A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "973017"
+          },
+          "hash": "ad3684bc30c13b850c3e08b41df06d8e9334b7a2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q140113$33174FF5-07CB-47A2-8A2A-A8E395F27D6E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Maredudd-36"
+          },
+          "hash": "70c5ba3f761dcb9c4d0d78eda39a62c9fa912b0b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140113$7D3526C1-13C6-4A93-A298-06D2BB4E3C0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140113$49B023B1-65C7-4136-B14F-15EE388A0EF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q140113$D5CBE1D1-E91F-4F2C-91A6-EA7656C17576",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Iorwerth_Unknown_(5)"
+          },
+          "hash": "77f08e35d1dda23de1794ebbf4d43ca0ebbb83fb",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140113$68FA0024-E39E-4A01-862C-490D0209121E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139144",
+              "numeric-id": 139144
+            }
+          },
+          "hash": "70ecf7585ce1b87e8e9e0bb643dfaaa3d74eb43d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140113$BE74293A-4CD5-4A0A-A8BF-97FDF4893549",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q140113$8D938197-0808-4C51-B486-26FF69EE5F6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q140113$2AD3A632-7FCF-4DE2-879A-67EF67968CBA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1171-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eca794ab2c7b43484ad369f418b6729c68f862cb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140113$8BA6255C-5664-4051-8A01-773E046CD9BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6064812"
+          },
+          "hash": "41b8d1f40e8afecdeefd668a1e69bd7e6ffbfbfa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140113$C9DFF58B-135D-4CB6-9D27-714700A314F6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iorwerth Goch ap Maredudd Arms.svg"
+          },
+          "hash": "55063d7f30149b5591d3a16dc800a2b701bd7786",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(1200-1171)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lord von Powys (Wales)"
+    },
+    "en": {
+      "language": "en",
+      "value": "1200-1171"
+    }
+  },
+  "id": "Q140113",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Iorwerth Goch ap Maredudd"
+    },
+    "de": {
+      "language": "de",
+      "value": "Iorwerth Goch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Iorwerth Goch ap Maredudd"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Iorwerth Goch ap Maredudd"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Iowerth Goch ap Maredudd"
+    }
+  },
+  "lastrevid": 17559061,
+  "modified": "2025-09-17T12:12:02Z",
+  "ns": 860,
+  "pageid": 168498,
+  "sitelinks": {},
+  "title": "Item:Q140113",
+  "type": "item"
+}

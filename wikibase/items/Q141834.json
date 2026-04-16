@@ -1,0 +1,258 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Thomas fitz Robert"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141834$523D8F47-A944-4545-BD9E-66DEBE23CBA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00733364"
+          },
+          "hash": "9eacaaf1b1e5d1d9d162f2f47195021b51cd438c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141834$D362DC51-6FDC-4255-B990-E4C11AEA626F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144498",
+              "numeric-id": 144498
+            }
+          },
+          "hash": "3957b4463149bcdbf857152e006d02b476af190f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141834$F6928903-44C4-48AF-8661-06B8333555EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144497",
+              "numeric-id": 144497
+            }
+          },
+          "hash": "a4ca3cb2c5e363e31fb8dae0e0b319da92821db1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141834$CEC8750F-630E-43D3-9100-6E5262C04600",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141834$B4F1D98D-BE4E-4198-B02A-F12EFD97B9CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q141834$3EB1FE72-CD39-408D-89BD-D39A0E303729",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15881.htm#i158806"
+          },
+          "hash": "2624b84c7977eb91ce8c7c5a39d5c8cd1e04330c",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141834$76428966-EE61-4EA2-85E2-6CE8A35E1D7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127780",
+              "numeric-id": 127780
+            }
+          },
+          "hash": "37936264cc4c06c03b77a675c56e117f9f4d950f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141834$D2C109FD-05AC-4777-A6C8-2B52A5CC5460",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141834$4814AA58-65E3-4BC5-AF74-7FB96D0A5DF0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1280-06-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "83107bc4e3c235193fc27f700cba6e98652fda05",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141834$2DC91F0A-A438-4C70-82EC-B3F04AC4DA9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75464721"
+          },
+          "hash": "f43a3cf50fe1579886a2012fb8a22db29da0c36c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141834$BCB34624-8015-4542-87E6-7E59176266D8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Thomas fitz Robert Arms.svg"
+          },
+          "hash": "0ba7ef16789bf0cdcc55c9206c0ae03e8e187d14",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "( -1280) o dras fonheddig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=158806"
+    }
+  },
+  "id": "Q141834",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Thomas Fitz Robert"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sir Thomas fitz Robert"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir Thomas fitz Robert"
+    }
+  },
+  "lastrevid": 17561916,
+  "modified": "2025-09-17T12:54:11Z",
+  "ns": 860,
+  "pageid": 170219,
+  "sitelinks": {},
+  "title": "Item:Q141834",
+  "type": "item"
+}

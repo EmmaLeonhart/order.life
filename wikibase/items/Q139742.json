@@ -1,0 +1,432 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Licinius Crassus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139742$2A05C48C-B817-4DA0-A003-085402610961",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736015"
+          },
+          "hash": "fb0c46d169b78ab6a6f9d670a909c3e54826465c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139742$A89CDDEC-5812-4826-920F-1266B2954404",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139742$EF6EF477-0314-44AA-BF77-FB1E18F3A45A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139742$F8B0720D-FEAD-43D3-B1E4-1674425127D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138504",
+              "numeric-id": 138504
+            }
+          },
+          "hash": "20ebd636fb4103a60d3ad86c2f8ca125b602b84d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139742$28135C43-4525-4884-880A-335B2EE00BB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72466",
+              "numeric-id": 72466
+            }
+          },
+          "hash": "77f466b59ad9257475097594a2ce2eda3785368b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139742$1B4CD737-444B-42D8-B789-337FD554E073",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72463",
+              "numeric-id": 72463
+            }
+          },
+          "hash": "4e3e679921603b040fb310d78024fb67a62f6935",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139742$28455D39-A646-486E-BA7F-247F428BCE65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139742$7D4842C9-2378-40D8-AB0A-5811762BD335",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0082-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a099d44af9cce32be8e14518e763ba7f36a35442",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139742$A7AF61F6-C5D0-4516-8A6D-72D2ABDDF7F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0053-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6853c7615090b162a94b7f0db4cab410c236bad0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139742$11D9B470-5005-4791-AA49-A0D132A458E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q382280"
+          },
+          "hash": "bf1b785d79bd1ff14edc2af2eb005d84ed23a39b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q139742$B6B90A5D-A950-4D46-BE9C-78DE9414AE85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:25700"
+          },
+          "hash": "3faf138b9e40b8f5e21012907fdea32a5b2977f1",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139742$87A6DDE3-F726-4973-99AE-C51D643D6183",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Licinius Crassus Arms.svg"
+          },
+          "hash": "dec98f8ac9bd680af33e17fcbfc466499e011ea0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "старажытнарымскі вайскавод"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "fill de Cras el Triumvir"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Heerführer, Sohn des Marcus Licinius Crassus"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Crassus the triumvir"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo del triunviro Marco Licinio Craso"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "roomalainen sotapäällikkö"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "militaire romain, fils du triumvir Crassus"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (86v Chr-53v Chr)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнеримский полководец, сын Марка Лициния Красса"
+    }
+  },
+  "id": "Q139742",
+  "labels": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Публіюс Ліцыніюс Крас"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Публий Лициний Крас"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Licini Cras"
+    },
+    "da": {
+      "language": "da",
+      "value": "Publius Licinius Crassus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Licinius Crassus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Λικίνιος Κράσσος (γιος του Μάρκου)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Licinius Crassus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Licinio Craso"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Publio Lizinio Kraso"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پوبلیوس لیکینیوس کراسوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Publius Crassus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Licinius Crassus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Publio Licinio Craso"
+    },
+    "he": {
+      "language": "he",
+      "value": "פובליוס ליקיניוס קראסוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publio Licinio Craso"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Licinio Crasso"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プブリウス・リキニウス・クラッスス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "푸블리우스 리키니우스 크라수스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Licinius Crassus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius crassus"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Publius Crassus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Publiusz Krassus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Licínio Crasso"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Licínio Crasso"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Лициний Красс"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Licinius Crassus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Publius Licinius Crassus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Ліциній Красс"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Publius crassus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普布里乌斯·克拉苏斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "普布里乌斯·克拉苏斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普布里烏斯·克拉蘇斯"
+    }
+  },
+  "lastrevid": 17558397,
+  "modified": "2025-09-17T12:02:25Z",
+  "ns": 860,
+  "pageid": 168127,
+  "sitelinks": {},
+  "title": "Item:Q139742",
+  "type": "item"
+}

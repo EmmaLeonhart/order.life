@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert of Rhuddlan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141012$8218D893-4673-4FAF-B5BF-105FA85B1713",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141012$64FB4642-A14A-4F2F-BD5F-05F73A15C765",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141012$AB1B2EF7-528C-448D-86C2-DBDD07FBEC94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139286",
+              "numeric-id": 139286
+            }
+          },
+          "hash": "faafd6aff1cf1cbd5e71e646a6290665bc85a44e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141012$63679C21-0C29-4B58-AFB7-FD1EA8AA1E0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141012$F229A3AE-C661-482F-B71E-58388F1173F3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1055-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aef629ddd31bdfa1d27d15b8e9ebd97a8b03f04f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141012$9D563BC0-EB16-4803-B7BA-6A37B4481DEE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1093-07-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dafe50356b2fa089770b87ea2bd067ded6180740",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141012$6CAFCD04-D077-46D6-8E2A-C24EDB407AF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3398203"
+          },
+          "hash": "cfbd6804c6bcfa78fb71372eeec819ca38ac485c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141012$B7425A95-E7DD-4A9B-9DC0-C8ED228B7F58",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert of Rhuddlan Arms.svg"
+          },
+          "hash": "37b17104018099a26071741613e6db58dc345521",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "normannischer Ritter und Abenteurer"
+    },
+    "en": {
+      "language": "en",
+      "value": "Norman adventurer"
+    },
+    "es": {
+      "language": "es",
+      "value": "aventurero normando"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    }
+  },
+  "id": "Q141012",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Robert o Ruddlan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Robert of Rhuddlan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Robert of Rhuddlan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Robert de Rhuddlan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Robert of Rhuddlan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ロバート・オブ・リズラン"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert of Rhuddlan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Роберт Рудланский"
+    }
+  },
+  "lastrevid": 17560615,
+  "modified": "2025-09-17T12:34:59Z",
+  "ns": 860,
+  "pageid": 169397,
+  "sitelinks": {},
+  "title": "Item:Q141012",
+  "type": "item"
+}

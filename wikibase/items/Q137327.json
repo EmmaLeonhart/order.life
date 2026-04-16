@@ -1,0 +1,273 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Caradog ap Richard ab Einion ap Gollwyn"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137327$2C71C604-D654-4EA7-A054-D6DCCAF994C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00586416"
+          },
+          "hash": "54195086cd0fd9665ff2b5fd186e9e070efeb742",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137327$F2462319-507E-44A5-86FA-D575A8ACA66E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137913",
+              "numeric-id": 137913
+            }
+          },
+          "hash": "c548bc920d48c8107f438a03717c91bcfaafae17",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q137327$9CA24DFB-DB4B-45BE-A036-6AC9B5527B84",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Richard-19"
+          },
+          "hash": "bdb602f79d986ce707934d8fd45104e890de9eaa",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137327$83461593-FCFB-4359-BE44-2761EE4BF728",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137327$5566018A-BC44-4B9E-80CF-D71537966402",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137327$87C72992-CB02-4372-8815-74B7E379505E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137906",
+              "numeric-id": 137906
+            }
+          },
+          "hash": "d9f636a59eff775b114cd29ffd046ec2cee28412",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137327$CCC898D7-20A9-4F78-B032-0AF3BB6CBBE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136927",
+              "numeric-id": 136927
+            }
+          },
+          "hash": "9e227eb5593490dde1a2de7cae0e49f75f027ed6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137327$D455B6B7-40C5-4913-92E5-C2772D181A31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137327$CE72E3FE-6DBA-4A4E-9FC3-AFBEB68B95CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1205-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "08a0256f43dba8b5892f8fb1346b6e504ee8ea58",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137327$C0815BAB-AC5E-4EA2-A11D-F22FF25BAB12",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110413740"
+          },
+          "hash": "e46f4f04cc7a33afd7cae3512ca545be5b09d147",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137327$CA180A42-DFC2-41A1-A40F-E4BC29E6A885",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Caradog ap Richard ab Einion ap Gollwyn"
+          },
+          "hash": "b718a8e71a90ae7410580b6ab245b708c61f8bfd",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137327$9342E3D0-974C-4465-9173-4F7964B0F7DB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Caradog ap Richard ab Einion ap Gollwyn Arms.svg"
+          },
+          "hash": "396c772fe16820ecacfeed576e388f08987e56aa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1205 -"
+    }
+  },
+  "id": "Q137327",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Caradog ap Richard ab Einion ap Gollwyn"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Caradog ap Richard ab Einion ap Gollwyn"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Caradog ap Richard ab Einion ap Gollwyn"
+    }
+  },
+  "lastrevid": 17554579,
+  "modified": "2025-09-17T11:08:09Z",
+  "ns": 860,
+  "pageid": 165712,
+  "sitelinks": {},
+  "title": "Item:Q137327",
+  "type": "item"
+}

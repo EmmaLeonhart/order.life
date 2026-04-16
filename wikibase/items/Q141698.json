@@ -1,0 +1,311 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iamblichus of Emesa"
+      },
+      {
+        "language": "en",
+        "value": "Iamblichus I, Priest-King of Emesa"
+      },
+      {
+        "language": "en",
+        "value": "Iamblichus I"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q72347$D8A6727B-CE22-4E3A-A231-EEECB336EB89",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738051"
+          },
+          "hash": "42bcff37256b52941e847e2c8b408c66dfc55354",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72347$57937A2F-5990-456B-A771-300CD7E9949B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71718",
+              "numeric-id": 71718
+            }
+          },
+          "hash": "71954eb5e570acd54b2fadd5b628239a6fd1af1f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72347$9BE5559A-6428-4D40-B776-F1805FD171E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72347$68402B41-3895-49EE-ACD9-92A45BCD7130",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72347$5469B44D-9E45-4E46-99AB-F8F02AA2DEBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72535",
+              "numeric-id": 72535
+            }
+          },
+          "hash": "13565c8f6fad6916c56eb0b96dd104d1fbd7d826",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q72347$1F460270-89DB-44DE-B563-EA984731CB8A",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Priest-King of Emesa"
+          },
+          "hash": "aabb9d69cfca680df9fccc32469cc118e2f45b4c",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72347$73CC2857-1258-4A98-91E5-52675758B1E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72347$491DCB25-6F57-432D-9266-4880709F12B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0031-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1e507d548283648c592e15053992d7a2914b2bdc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72347$9E13280C-51A7-4921-95BA-0B1493307590",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5980697"
+          },
+          "hash": "4ec25e22488b8ceeddeafa893e4b362c6dc1439f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72347$490401F8-03A1-4CBF-A882-07E2AB53DC88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645997033"
+          },
+          "hash": "663a27e96f7be5370da9aedffe305b04bbfaeb69",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72347$CA8DF55D-C952-4BB4-B791-2F0D18F694BD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iamblichus I Arms.svg"
+          },
+          "hash": "3a815b7e8393e51963b6227a02ed097bbe2df376",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أمير عربي حمصي في القرن 1"
+    },
+    "de": {
+      "language": "de",
+      "value": "arabischer Dynast"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century BC Emesene phylarch"
+    },
+    "es": {
+      "language": "es",
+      "value": "filarca emésida del siglo I a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi sampsigéramide"
+    }
+  },
+  "id": "Q72347",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "آل شمسيغرام"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Iàmblic I"
+    },
+    "de": {
+      "language": "de",
+      "value": "Iamblichos I."
+    },
+    "en": {
+      "language": "en",
+      "value": "Iamblichus I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jámblico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jamblique Ier"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Iamblichus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jâmblico I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ямвлих I"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Iamblichus I"
+    }
+  },
+  "lastrevid": 17484786,
+  "modified": "2025-09-16T18:25:41Z",
+  "ns": 860,
+  "pageid": 87178,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72347",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72347"
+    }
+  },
+  "title": "Item:Q72347",
+  "type": "item"
+}

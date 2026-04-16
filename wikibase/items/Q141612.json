@@ -1,0 +1,371 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Licinius Crassus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141612$D545D37F-A206-4998-A4E0-25289B53FEF9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736036|I00800999"
+          },
+          "hash": "61bb65722d431f7255abbc9b369d439a2651fcda",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141612$4C18E0CF-A80E-45A0-A8BC-8B621566C85A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141612$16855380-20C0-4448-BBC0-1FD2B883D059",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141612$BD337D07-6084-4BA6-96BC-022F81ED806C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141651",
+              "numeric-id": 141651
+            }
+          },
+          "hash": "d4ad9ada952428d7af1d61240dc4801e0f262151",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141612$1201CF84-3182-465F-B827-5E26B56CABD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144277",
+              "numeric-id": 144277
+            }
+          },
+          "hash": "9d46ad0870bebfd689765f4b0ef8941f29e53499",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141612$BA11DFE4-7E95-4674-A1E5-73D910075A68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141612$55EA8698-DFAF-4653-8BD9-209E055E25F0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141612$FAEB6011-CD18-4774-934A-4F683BDF99B8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0050-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f09fbd13a92ad6da2ebbb9ff24393de29f04ea1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141612$C3B11BC6-927E-4D2B-B0CC-50D8423448C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q770792"
+          },
+          "hash": "63d50d5487dd2655c9ae0156ffa47b72195b7a67",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q141612$5D373134-CFAC-4163-84C7-FA5E9128A175",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Licinius Crassus"
+          },
+          "hash": "fc94ba9f8bcbfa9ccce88d2e6f457f23b64a3cc5",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141612$DE0A4AB8-8A46-45D9-8EDB-4C3C94E51523",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Licinius Crassus Arms.svg"
+          },
+          "hash": "043bcea135894792b2a1b036f3be9e1e19c12aa6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 30 aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker und Feldherr, Konsul 30 v. Chr."
+    },
+    "el": {
+      "language": "el",
+      "value": "ύπατος το 30 π.Χ."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman general, consul in 30 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul 30 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سرباز در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 30 av. J.-C."
+    },
+    "he": {
+      "language": "he",
+      "value": "קונסול רומי"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e console dell'Impero romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soldaat uit Oude Rome"
+    }
+  },
+  "id": "Q141612",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Лициний Крас"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Licini Cras"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Licinius Crassus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Λικίνιος Κράσσος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Licinius Crassus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Licinio Craso"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مارکوس لیسینیوس کراسوس (کنسول ۳۰ پیش از میلاد)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Licinius Crassus"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרקוס ליקיניוס קראסוס הצעיר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marc Licini Cras Dives II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Licinio Crasso"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・リキニウス・クラッスス (紀元前30年執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Licinius Crassus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Marcus Licinius Crassus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Licinius Crassus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Licínio Crasso"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Licínio Crasso"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Marcus Licinius Crassus (consul în 30 î.Hr.)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Лициний Красс"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Licinije Kras"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Licinius Crassus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Ліциній Красс"
+    }
+  },
+  "lastrevid": 17561572,
+  "modified": "2025-09-17T12:49:16Z",
+  "ns": 860,
+  "pageid": 169997,
+  "sitelinks": {},
+  "title": "Item:Q141612",
+  "type": "item"
+}

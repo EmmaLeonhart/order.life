@@ -1,0 +1,435 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mithridates IV of Parthia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137722$84E0E3AD-2EDA-4D75-97BC-D527666CA1A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "402416"
+          },
+          "hash": "08654abc36474bc9c8463235ba55a2c39f62297a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q137722$101C7479-7524-41EB-B8DD-FE973908AE34",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00717502"
+          },
+          "hash": "1fe9294731c0a42883d278403fe5bdb4c7eb13c2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137722$576D43A9-A8DD-44D2-9031-03072E25FC0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137722$9E682B7A-C407-4133-AA34-283F62D34E44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137722$1061DA64-6AB0-49A1-A95B-20DF481E4353",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mithridates_III_of_Parthia_(1)"
+          },
+          "hash": "55a4be64c54f3e4246778c0503483ce5924e731f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137722$3B754E29-6B70-4439-8CB6-DEB1AC73FB28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137721",
+              "numeric-id": 137721
+            }
+          },
+          "hash": "5b796fd60d3beb1c0ba379698173a5589020e107",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137722$60C82425-43EA-4005-9EB4-7B5BA3F4F25B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137722$14E1AA8A-021C-4515-ADBD-0F274C6775A8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0054-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "62b94eb59331a5e092b81b5b836f4f5b56ca6876",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137722$704DD150-4992-4ABA-9337-7B694C2D344C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q317695"
+          },
+          "hash": "eca754fe40f09ca049d935f5e9a0bdaf9f498e31",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137722$5AE0E0D9-8F92-4958-9587-D41289191D05",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mithridates IV of Parthia Arms.svg"
+          },
+          "hash": "66e00dc0f79e112ee4cf214d160ba056430f1ee2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "parthischer König"
+    },
+    "en": {
+      "language": "en",
+      "value": "Parthian king from to 57 to 54 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey de los Partos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Parthie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pártus Birodalom királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero partico (r. 57-54 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Iran (?-80v Chr)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Partherriket"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Part kralı"
+    }
+  },
+  "id": "Q137722",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Mitridates IV van Partië"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Митридат III"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mitridates III de Pàrtia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mithradatés III."
+    },
+    "de": {
+      "language": "de",
+      "value": "Mithridates IV."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Mithridates III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Μιθριδάτης Δ’ της Παρθίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mithridates IV of Parthia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Mithridates III of Parthia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Mithridates III of Parthia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mitrídates IV de Partia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Mitridates III.a Partiakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مهرداد سوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mithridate IV de Parthie"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Mitrídates III de Partia"
+    },
+    "he": {
+      "language": "he",
+      "value": "מיתרידטס השלישי, מלך פרתיה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Mitridat III. Partski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Mithridatész"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Միհրդատ Գ Պարթև"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mitridate IV di Partia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ミトラダテス3世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მითრიდატე III"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "미트리다테스 3세"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "مهرداد چاروم"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mitridates III av Partia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mithridates III"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Mitridates III (rei part)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mitrydates III"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mitrídates III da Pártia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mitrídates III da Pártia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Митридат III"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Mitridat III od Partije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mitridat III. Partski"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Mithridates IV of Parthia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mithridates IV"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Меҳрдоди IV"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "IV. Mithridatis (Part kralı)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мітрідат III (цар Парфії)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Mithridates III của Parthia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "米特里達梯三世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "米特里达梯三世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "米特里达梯三世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "米特里達梯三世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "米特里達梯三世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "米特里达梯三世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "米特里達梯三世"
+    }
+  },
+  "lastrevid": 17555147,
+  "modified": "2025-09-17T11:16:13Z",
+  "ns": 860,
+  "pageid": 166107,
+  "sitelinks": {},
+  "title": "Item:Q137722",
+  "type": "item"
+}

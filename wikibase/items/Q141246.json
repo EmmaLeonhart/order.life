@@ -1,0 +1,732 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kenneth MacAlpin"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141246$048F6F3F-4D40-4627-9DB6-05BC2EF90276",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "141434"
+          },
+          "hash": "c2d84cc0aebd38566ad10813fa94f0257a61bb8f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q141246$04F2C6BE-4739-4E10-82CA-DDA66348CFCF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00022616"
+          },
+          "hash": "14b40f183b2af4534241595f6d3806b2f162cdd1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141246$088B8669-9815-468D-804A-FC4A39835D8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141247",
+              "numeric-id": 141247
+            }
+          },
+          "hash": "871d7232652bce4a281bbacefb355bee5bd4fd04",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141246$121FE84B-8212-45C2-B51C-4C2B39A05F4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141248",
+              "numeric-id": 141248
+            }
+          },
+          "hash": "1225a869ab2dcca3e31d01ac399838ef2c2cc96c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141246$CF3AF83E-BD15-481F-89F8-774C26B7F72C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139410",
+              "numeric-id": 139410
+            }
+          },
+          "hash": "3c99a6cfa336cdb42ef50c5265997fd06981ee75",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141246$EC105F24-44BF-4598-B6F3-E2522DD056B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143907",
+              "numeric-id": 143907
+            }
+          },
+          "hash": "4cb4fb843ccb06e6d6e8bc8cb7c59bfdb6b4ab30",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141246$FC290654-C446-4F56-B8E6-0496E67EC026",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143908",
+              "numeric-id": 143908
+            }
+          },
+          "hash": "0ad09e1d2bbbe14d521b42c543baf5d41a5c4ad0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q141246$579F9BAB-82F1-4739-A0FA-37ADBF38E290",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "MacAlpin-11"
+          },
+          "hash": "64fa9c25604f299a44d2c01bda7c4f62842971e1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141246$7CC0BE5A-9AD7-43F0-AB13-F33141584EA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141246$67A265F0-884F-48A0-96DC-62F06F57D9C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141246$76E71061-D0E5-48DC-ABDB-EFF1FC6E9959",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Kenneth_Macalpin_(1)"
+          },
+          "hash": "75b18ea44b8fa02bc85735700e56ca36bdb66f98",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q141246$15AD5DCA-750F-4856-9C87-07C6E8790616",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10291.htm#i102901"
+          },
+          "hash": "4776c749fa505fe276f0b9bfb5bef400651b7b8e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141246$96220FDA-6B5D-4AFD-89AF-C526053BDE7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141911",
+              "numeric-id": 141911
+            }
+          },
+          "hash": "2f474ffb5cc7ebdf69fd6504cc1767ef0c2fa1aa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141246$F35CB3D4-99E1-47E6-8F44-38C66EEE8643",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141246$87F0BB13-19B3-4D6F-A845-D49859CCE1C7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0810-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "314dac6dcc3cd4248525347028e6b1946cce5ad7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141246$8442D56F-3ADD-447C-A521-9478E29A0AC7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0858-02-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c147ac1aa922bf9c68d8b353f319f9b7a386e2f0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141246$CB38492F-68B4-4C71-8F55-0B580AFC42B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q298263"
+          },
+          "hash": "0e1f268b6bdbbb89919b800267fb3946715af009",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q141246$278A6834-3E70-4A79-853B-65A7B9470B6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001041559796"
+          },
+          "hash": "ed2e964821ebfaae73e1b85471682b6368e1948c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q141246$76C475FD-4CB3-40AC-9359-454E82B554F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=cinaed mac ailpin;n=of scotland;oc=1"
+          },
+          "hash": "42077517e56b0ee0c12cd045967b364911007e56",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141246$BFE620B5-E4FA-4003-B930-53CFDCB769AD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kenneth MacAlpin Arms.svg"
+          },
+          "hash": "d4710849ff878a50af2ee9cb554b3ac04503074d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك البيكتيون"
+    },
+    "az": {
+      "language": "az",
+      "value": "Albanın (Şotlandiya) birinci kralı."
+    },
+    "be": {
+      "language": "be",
+      "value": "кароль Шатландыі (843—858)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "skotský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "erster König von Schottland (843-858)"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of the Picts"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de los pictos"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Skotlannin kuningas vuosina 843–858"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fondateur de la dynastie écossaise"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rí na gCruithneach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Rei dos pictos e primeiro rei dos escoceses"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך סקוטלנד"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Skócia királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Scozia (r. 843-858)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "konge"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Dalriady i Piktów"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "первый король Альбы (Шотландии)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "король Дал Ріади"
+    }
+  },
+  "id": "Q141246",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Kenneth MacAlpin"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Cenneþ Alpining"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "كينيث ماك ألبين"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كينيث ماك البين"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Kenneth I d'Escocia"
+    },
+    "az": {
+      "language": "az",
+      "value": "I Kennet"
+    },
+    "be": {
+      "language": "be",
+      "value": "Кенет I Мак-Альпін"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Кенет I"
+    },
+    "br": {
+      "language": "br",
+      "value": "Kenneth Iañ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Kenneth I d'Escòcia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kenneth I. Skotský"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cináed mac Ailpín"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kenneth 1. af Skotland"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kenneth I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Κένεθ Α΄ της Σκωτίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kenneth MacAlpin"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Kenneth MacAlpin"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Kenneth MacAlpin"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Kenneth la 1-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kenneth I de Escocia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Kenneth I.a Eskoziakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کنت مک آلپین"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kenneth I MacAlpin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kenneth Ier"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Kenneth MacAlpin"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Coinneach Mac Ailpín"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Coinneach I na h-Alba"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Kenneth I de Escocia"
+    },
+    "he": {
+      "language": "he",
+      "value": "קנת הראשון"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "केनेथ १"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kenneth I. MacAlpin"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Kenneth skót király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Քեննեթ ՄաքԱլփին"
+    },
+    "id": {
+      "language": "id",
+      "value": "Cináed mac Ailpín"
+    },
+    "it": {
+      "language": "it",
+      "value": "Kenneth I di Scozia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ケネス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კენეთ I"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "키나드 막 알핀"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Kenetas I"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kenneth I av Skottland"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kenneth I"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Kenneth I av Skottland"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kenneth I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Kenneth I da Escócia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Kenneth I da Escócia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Kenneth I al Scoției"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кеннет I"
+    },
+    "sa": {
+      "language": "sa",
+      "value": "केनेथ १"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Kenneth MacAlpin"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kenneth MacAlpin"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kenneth mac Alpin"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Кенет Мекалпин"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kenneth I av Skottland"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кеннет I"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "کینتھ مک ایلپن"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "კენეთ I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "肯尼思一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "肯尼思一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "肯尼思一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "肯尼思一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "肯尼思一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "肯尼思一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "肯尼思一世"
+    }
+  },
+  "lastrevid": 17560948,
+  "modified": "2025-09-17T12:40:15Z",
+  "ns": 860,
+  "pageid": 169631,
+  "sitelinks": {},
+  "title": "Item:Q141246",
+  "type": "item"
+}

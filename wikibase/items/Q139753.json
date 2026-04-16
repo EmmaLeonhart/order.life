@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Salome"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q139753$AB4D0C7D-FCCC-4D2C-9826-8CB834C508BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139753$72337954-3C32-4819-B0DE-BD62285F2284",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139753$5FF70449-09C2-4A9A-AD41-EB34123898F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78189",
+              "numeric-id": 78189
+            }
+          },
+          "hash": "f3935e3bbccd431394bf6d10f71750a6f9e1b7f6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139753$20FB3D63-DF45-438D-9282-C906F8D7FD85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141674",
+              "numeric-id": 141674
+            }
+          },
+          "hash": "c3f4ccfd59dc16756051b4c1fcfbeed779369d7a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139753$9A97D7D7-008C-40A9-8848-C390549BB4CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139753$3152A30F-A17C-459A-A8E7-7B6A6016D174",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd2518e0a186c79fba27561cecab35c84933b097",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139753$B4D87EC7-AC5D-4597-9449-1C580A081B5E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3267247"
+          },
+          "hash": "46fe2b27ca76cd2a2b92b66dab08313061a5b5d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139753$4F76D38F-43CF-41E0-BBF2-B4073B53434C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Salome Arms.svg"
+          },
+          "hash": "80ae30aecbb88c6834f609673e5fdad4e75d87bb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "filla d'Herodes el gran"
+    },
+    "el": {
+      "language": "el",
+      "value": "κόρη του Ηρώδη Α΄ του Μεγάλου"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Herod the Great"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille d'Hérode Ier le Grand"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "filha de Herodes, o Grande"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "hči Heroda Velikega"
+    }
+  },
+  "id": "Q139753",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Саламея II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Salomé"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Salome II"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σαλώμη Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Salome"
+    },
+    "es": {
+      "language": "es",
+      "value": "Salome"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Salomé"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Salome"
+    },
+    "he": {
+      "language": "he",
+      "value": "שלומית בת הורדוס"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սալոմե"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "サロメ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Salome, datter av Herodes den store"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Salome"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Salome II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Salomé"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Salomé"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Saloma"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سلومی"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "莎樂美"
+    }
+  },
+  "lastrevid": 17558415,
+  "modified": "2025-09-17T12:02:40Z",
+  "ns": 860,
+  "pageid": 168138,
+  "sitelinks": {},
+  "title": "Item:Q139753",
+  "type": "item"
+}

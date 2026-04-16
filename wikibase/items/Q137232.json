@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Afranius Hannibalianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137232$29B40E90-FCCC-4C42-86F9-C498A9A6579E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446939"
+          },
+          "hash": "069fd8c69f612c032dc1b75e327099bf02827391",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137232$0610B695-B0DF-40D4-A4BB-C5B7BCCACC2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136812",
+              "numeric-id": 136812
+            }
+          },
+          "hash": "b906c2657749a82b6e455567efdb3dda643fca16",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q137232$34C1E7B8-6037-4893-9AB5-D1704EA309B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hanniballianus-1"
+          },
+          "hash": "132f1318de5848f3634f7dac078ab3d9cd3f7901",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137232$F72111B4-3663-4574-AC85-55FC3AAA5E0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137232$BB192FE0-4786-415C-86AA-58F9F3BA1A14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137232$8A86D4BA-B057-4475-86A7-001358362BF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137232$AC562AD5-C1FE-4B3C-8A9D-0BBBAF3EC48D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0251-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8fc2c4759bcb619502702a82ee0c8c2f96f834c3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137232$D2119F89-0A2A-42B2-9E5D-A47D4FF6DCFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q607934"
+          },
+          "hash": "b3df2392a8b2913e74fd047579f6ae2140027c2f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137232$E26EA77D-7E0D-458F-9274-7B45CCEAA666",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Afranius Hannibalianus Arms.svg"
+          },
+          "hash": "037e573e994d6bcce3e47106ed1433900e013360",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman consul 292 AD"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 292"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (251-)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "государственный деятель Римской империи конца III века"
+    }
+  },
+  "id": "Q137232",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Афраний Ханибалиан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Afrani Annibalià"
+    },
+    "de": {
+      "language": "de",
+      "value": "Afranius Hannibalianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αφράνιος Αννιβαλιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Afranius Hannibalianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Afranio Anibaliano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "افرانیوس هانیبالیانوس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Afranius Hannibalianus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Flavius Afranius Hannibalianus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Afranio Annibaliano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Afranius Hannibalianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Afranius Hannibalianus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Afrânio Hanibaliano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Afrânio Hanibaliano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Афраний Ганнибалиан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Afranius Hannibalianus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Афраній Ганнібаліан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿弗拉尼乌斯·汉尼拔利安努斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿弗拉尼乌斯·汉尼拔利安努斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿弗拉尼烏斯·漢尼拔利安努斯"
+    }
+  },
+  "lastrevid": 17554403,
+  "modified": "2025-09-17T11:05:42Z",
+  "ns": 860,
+  "pageid": 165617,
+  "sitelinks": {},
+  "title": "Item:Q137232",
+  "type": "item"
+}

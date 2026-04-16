@@ -1,0 +1,393 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mamercus Aemilius Lepidus Livianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139719$4D32C826-B07C-4A1E-9C46-B47CDBDB1228",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735588"
+          },
+          "hash": "0b02d4dbba3046bc7db94680b18bc75ef7d11940",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139719$B92A757C-67ED-4D86-A52C-C75DD92502F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139741",
+              "numeric-id": 139741
+            }
+          },
+          "hash": "19a6e4dcfb36b7973364c964d27520c8bf43df3d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139719$ADF72BC6-F9C7-4BC0-92FB-0199EC2F9FFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139719$1E141A52-52CE-4339-986B-23863CFB6AD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139719$464F40A4-444E-4933-BD21-72AB5045E021",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138493",
+              "numeric-id": 138493
+            }
+          },
+          "hash": "b22028007a0abfd2b244f540eb077a31e4e7e717",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139719$58C7E747-1EF5-4DC3-970B-E3ED1618CFE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73011",
+              "numeric-id": 73011
+            }
+          },
+          "hash": "de2e8aed37d3669feb37c7cd5e5d85a1c2e578ef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139719$D14112E5-0020-47B3-9E50-AA732F7775B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72801",
+              "numeric-id": 72801
+            }
+          },
+          "hash": "3130fdd3c8f506a5fe15fa55999bafaab34d2f6f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139719$F83B484A-C877-4F5B-8E06-9DE660CAA6C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139719$9C88C62F-4F6C-4411-AF7A-3EAD0ECDDB12",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139719$116D5F67-E9EF-4B0B-B2A9-EF130F5B2A1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q721477"
+          },
+          "hash": "a244582023e4de34434608b3ceffd8705bd463aa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139719$E5477791-0533-4B0E-8D56-4F238FC34503",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Mamercus Aemilius Lepidus Livianus"
+          },
+          "hash": "04bf3fa893b8c8119f2d10b6e5b18aa074c01735",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139719$E08AB902-F7B9-4C6E-A802-EC297A8B3B56",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mamercus Aemilius Lepidus Livianus Arms.svg"
+          },
+          "hash": "7ddf75e1042fc2cf9d5df51802903201eeb74a21",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 77 BC"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 77 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk konsul 77 f.Kr."
+    }
+  },
+  "id": "Q139719",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Мамерк Емилий Лепид Ливиан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mamerc Emili Lèpid Livià"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mamercus Aemilius Lepidus Livianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαμέρκος Αιμίλιος Λέπιδος Λιβιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mamercus Aemilius Lepidus Livianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mamerco Emilio Lépido Liviano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mamercus Aemilius Lepidus Livianus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Mamerco Emilio Lépido Liviano"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Mamerko Emilije Lepid Livijan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Mamerco Emilio Lépido Liviano"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mamerco Emilio Lepido Liviano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マメルクス・アエミリウス・レピドゥス・リウィアヌス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Mamercus Aemilius Lepidus Livianus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Mamercus Aemilius Lepidus Livianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mamercus Aemilius Lepidus Livianus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mamerkus Emiliusz Lepidus Livianus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mamerco Emílio Lépido Liviano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mamerco Emílio Lépido Liviano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мамерк Эмилий Лепид Ливиан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Mamerko Emilije Lepid Livijan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Mamercus Aemilius Lepidus Livianus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mamercus Aemilius Lepidus Livianus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мамерк Емілій Лепід Лівіан"
+    }
+  },
+  "lastrevid": 17558363,
+  "modified": "2025-09-17T12:01:56Z",
+  "ns": 860,
+  "pageid": 168104,
+  "sitelinks": {},
+  "title": "Item:Q139719",
+  "type": "item"
+}

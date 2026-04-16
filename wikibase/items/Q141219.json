@@ -1,0 +1,322 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eystein Meyla"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141219$9738C352-7F9F-435B-9F61-5276EE686645",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141219$D4EE49FB-1857-4CCA-8827-6F45229A91C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141219$231BCA2A-C043-4283-9763-E7CF8840EE1F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eystein_Meyla_(1)"
+          },
+          "hash": "a4d624e199aa1ef9fedd4d841c560a4dbdebcb0f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141219$7C6F3740-9401-4872-AB6C-EE06611BF660",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139390",
+              "numeric-id": 139390
+            }
+          },
+          "hash": "84853294779278431de8ad5c77ded8908acf713f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141219$41BA24D4-9394-467A-B90D-810808256D5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141219$E78680FF-C954-4BEA-BCDF-A0F82D482B45",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1157-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71600fd15934050064b33c88b4f147ee117c5276",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141219$83CA68D9-F718-4902-9FC4-D32F5DB5CB6B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1177-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d6293efb2476bacaeca8ed16c6bc17b774b018ee",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141219$B0B4E2A2-C76C-4465-8B55-82DEC362036F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q329848"
+          },
+          "hash": "3e117e991fb05cbb65c6cceec0f5ccd8e6746fb7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q141219$CC34A58C-3FAC-49D3-92D2-5A6C95E1E1D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000004648342245"
+          },
+          "hash": "42b653321235d9082490916ef4b5a4de17c7b16c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141219$E11403A4-1E7B-4193-89A7-03D553337AF1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eystein Meyla Arms.svg"
+          },
+          "hash": "d5d78d64ee9eccbed2033d18b1eaaa37982b9569",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "кароль Нарвегіі (1176—1177)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Birkebeinerkönig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Elected a rival King of Norway during the Norwegian Civil War (1157–1177)"
+    }
+  },
+  "id": "Q141219",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Эйстэйн III Дзяўчынка"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йойстейн Мейла"
+    },
+    "da": {
+      "language": "da",
+      "value": "Øystein Øysteinsson Møyla"
+    },
+    "de": {
+      "language": "de",
+      "value": "Øystein Møyla"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άισταϊν Μάιλα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eystein Meyla"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Eystein Meyla"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Eystein Meyla"
+    },
+    "es": {
+      "language": "es",
+      "value": "Øystein Møyla"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Eystein Meyla"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eystein Eysteinsson"
+    },
+    "he": {
+      "language": "he",
+      "value": "אייסטיין מוליה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eystein Meyla"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エイステイン・メイヤー"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Øystein Øysteinsson Møyla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Øystein Møyla"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Øystein Øysteinsson Møyla"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Eystein Eysteinsson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эйстейн III Девчушка"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ейстейн III"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃斯泰因·梅拉"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "埃斯泰因·梅拉"
+    }
+  },
+  "lastrevid": 17560896,
+  "modified": "2025-09-17T12:39:18Z",
+  "ns": 860,
+  "pageid": 169604,
+  "sitelinks": {},
+  "title": "Item:Q141219",
+  "type": "item"
+}

@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Claudius Pulcher"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138407$1BACB51C-841D-4291-854A-3EE76181466A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736133"
+          },
+          "hash": "3acddea8ebda08f9d46042d01a5272695d078e5c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138407$56A1F023-733C-4671-8E62-A5A7F405A289",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138407$6AE8E809-5244-448C-B91C-44782C1DAE98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138407$D4B5EE3F-28E6-47D5-AFB7-00810C5B8526",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137680",
+              "numeric-id": 137680
+            }
+          },
+          "hash": "bcf58ca4e4fc67d308437e3e03f26ad81b62ba87",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138407$A0B7AAD0-A653-447F-A2F0-8AF41C313773",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138407$9CF388AD-5D8B-4894-A7EB-EFC6B6051EA1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0030-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c25e453ebe88b68d4c3359f3f661dcd1e23005eb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138407$BE135F59-B590-4110-9E95-FF0368CABF23",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0002-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6f0e13f51a3763d13d469f7b36effc90d72f2655",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138407$5895DFD7-D218-478D-852A-4B1069378985",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4068176"
+          },
+          "hash": "7fdafc62a250ceabb5b971174970fb2e38be8b56",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138407$9CECAD6A-E8A5-41DA-BB43-BCC2B40A5818",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Claudius Pulcher Arms.svg"
+          },
+          "hash": "be3e3b6e1d2fbfc5060daf435c051aa5aed43abf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman moneyer in 11 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "triumvir monétaire romain en 11 AEC"
+    }
+  },
+  "id": "Q138407",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Appius Claudius Pulcher"
+    },
+    "en": {
+      "language": "en",
+      "value": "Claudius Pulcher"
+    },
+    "es": {
+      "language": "es",
+      "value": "Apio Claudio Pulcro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Appius Claudius Pulcher"
+    },
+    "it": {
+      "language": "it",
+      "value": "Appio Claudio Pulcro"
+    },
+    "la": {
+      "language": "la",
+      "value": "Appius Claudius Pulcher"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Appius Claudius Pulcher"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аппий Клавдий Пульхр"
+    }
+  },
+  "lastrevid": 17556241,
+  "modified": "2025-09-17T11:31:53Z",
+  "ns": 860,
+  "pageid": 166792,
+  "sitelinks": {},
+  "title": "Item:Q138407",
+  "type": "item"
+}

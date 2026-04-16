@@ -1,0 +1,375 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Titus Statilius Taurus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141509$1DF8C5A4-C79F-4F2D-BDD9-3C06B7B1277D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735935"
+          },
+          "hash": "d172cd63c598876e0798af7814d66de754356cee",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141509$DC98CF7E-FD9C-4A06-8AA3-DA1E363CA22D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141510",
+              "numeric-id": 141510
+            }
+          },
+          "hash": "b8663ef4ee3d7cd3e4ff1e365cfe434b7aa923e3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141509$FA3EA9DB-C4A1-4F54-A077-465131D39977",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141511",
+              "numeric-id": 141511
+            }
+          },
+          "hash": "2962e85a006d78dcb96c6c290a6e1c5961fe8ba2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141509$EFDE3B6F-D384-4A83-9830-1D1811799E0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141509$92889140-4792-4ED5-8F7D-35AA60D5E9CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141509$299D0049-D5D2-42A6-A18E-E2871046991F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139634",
+              "numeric-id": 139634
+            }
+          },
+          "hash": "5a61ee2749da35f1e032a541761cda6caf97f190",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141509$0AD7AE6E-5F7B-4865-8433-BDB34108FBBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144164",
+              "numeric-id": 144164
+            }
+          },
+          "hash": "63768e71e55bc81c0041eb9f30169d3416e72f7e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141509$FA20CF82-85F6-4274-9166-6993971E0689",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144165",
+              "numeric-id": 144165
+            }
+          },
+          "hash": "8a45d30661a56a380dbccdf7a14de943222d96e6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141509$8A4155A7-A1F0-4971-99E4-F389B6028F7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141509$90AFA9F2-31FF-463F-84BC-8C82300346B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141509$F65541EB-F23F-43CC-A874-E217BB44D13C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "093131f0722b63dbcc4c162246fd7b69c288b5b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141509$F3948118-4B18-46C5-87AF-C28B5A6DAE7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q718560"
+          },
+          "hash": "7014fc0a8f5c1a3043bdabdc23ccfc8ff950c3a9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141509$DA20F7A8-68F8-4657-916A-BBD1A7F741ED",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Titus Statilius Taurus Arms.svg"
+          },
+          "hash": "10fa5e85507d1a37c469a67cb197bc09ccde8680",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol l'any 11"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 11"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman politician, consul in 11 CE"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul 11"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 11"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 11 года"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політичний, державний та військовий діяч Римської республіки"
+    }
+  },
+  "id": "Q141509",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Тит Статилий Тавър"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Titus Estatili Taure"
+    },
+    "de": {
+      "language": "de",
+      "value": "Titus Statilius Taurus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Titus Statilius Taurus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tito Estatilio Tauro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Titus Statilius Taurus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tito Estatilio Tauro"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tito Statilio Tauro"
+    },
+    "la": {
+      "language": "la",
+      "value": "Titus Statilius Taurus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Titus Statilius Taurus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tito Estatílio Tauro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tito Estatílio Tauro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тит Статилий Тавр"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тит Статілій Тавр"
+    }
+  },
+  "lastrevid": 17561398,
+  "modified": "2025-09-17T12:46:49Z",
+  "ns": 860,
+  "pageid": 169894,
+  "sitelinks": {},
+  "title": "Item:Q141509",
+  "type": "item"
+}

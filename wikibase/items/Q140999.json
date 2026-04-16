@@ -1,0 +1,947 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Teresa Alfonso"
+      },
+      {
+        "language": "en",
+        "value": "of Castile Theresa"
+      },
+      {
+        "language": "en",
+        "value": "Teresa de Leão, condessa de Portugal"
+      },
+      {
+        "language": "en",
+        "value": "Teresa Alfonso de Castilla"
+      },
+      {
+        "language": "en",
+        "value": "Theresa of León"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q104135$AC24E04E-6859-495D-A0F9-DFD0C82BDC03",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "29309|12848"
+          },
+          "hash": "0b076d0029755156911cab594fcc8e5a1072053e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q104135$82534351-D230-4525-B9BE-1E8B228FCB1E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020555"
+          },
+          "hash": "551324dba52a5226cc23c735aa247b5e6df09235",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q104135$7B7740C7-5E84-4481-8C98-F2F110FD1738",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q102397",
+              "numeric-id": 102397
+            }
+          },
+          "hash": "a0dbf7cd71c644079a671011af76f88bcd7ff891",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$A15F6F99-CC82-494D-8D17-950F0EAE05E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113784",
+              "numeric-id": 113784
+            }
+          },
+          "hash": "515ea08f59a69349e1838eea3cf54d2dbf6c5abb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$8CD9E6F3-245B-4249-925A-9A2EC9107235",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104139",
+              "numeric-id": 104139
+            }
+          },
+          "hash": "ad1c7e30e514b28baf3cc037e8d5ec5af31af629",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$293940EE-FE46-4215-BF28-76D51786D5A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113782",
+              "numeric-id": 113782
+            }
+          },
+          "hash": "8ddbaaae8308932ecb8d433206eb464c1728703d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$50D9BBFC-EE80-4B0F-9FCF-9A012EE98DCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104141",
+              "numeric-id": 104141
+            }
+          },
+          "hash": "0924171137ffb8b57eb1fe86926f37c9aa0a7cea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$672F62FE-7DC3-4638-8852-EAAFE22F46FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104143",
+              "numeric-id": 104143
+            }
+          },
+          "hash": "8a91e6bd3c02e582643531eff8f610f29c9ce3ad",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$D77895D0-7170-45E7-B49F-3F9A3F8461F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113786",
+              "numeric-id": 113786
+            }
+          },
+          "hash": "55097e668e67527b2c2db083ec9b25ba66d1291a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$1B39D92A-3518-4449-8E4C-A263805AB144",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104145",
+              "numeric-id": 104145
+            }
+          },
+          "hash": "6d3eb0365c969d7bcd197200884225e03163bcf7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$D2110B11-4B7E-44B1-B808-AF7E36AA9A8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104129",
+              "numeric-id": 104129
+            }
+          },
+          "hash": "9c51e1b95729074efe5249b3edfb481c86d5f59c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$1CDC130E-766F-4A5F-9908-91E14659382B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104147",
+              "numeric-id": 104147
+            }
+          },
+          "hash": "7bc57fb0a04c9cd310e73dd2dd1ec80c6072a6f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$9499586C-A89A-4102-A04F-E9B3CA4E3C06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118419",
+              "numeric-id": 118419
+            }
+          },
+          "hash": "fafa18ef5e415ea074fddad4e7396c6813d42f74",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$C6FA59D0-B437-40E9-A677-EBB2D584A303",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118421",
+              "numeric-id": 118421
+            }
+          },
+          "hash": "c573c1afbdb321a72f317725e3172fc68c162d61",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$BDC6D46A-DF20-4E34-BB6A-D30BAF55C0F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118423",
+              "numeric-id": 118423
+            }
+          },
+          "hash": "10f7e01804fc9fb6e2e2ad571270a084d2347656",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$80154CC1-4FC7-477D-9C9C-92A1DA99018A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113788",
+              "numeric-id": 113788
+            }
+          },
+          "hash": "a3b3197506150bc6dd60b4109990e72fe3020f35",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q104135$F1F66698-3D2C-4B2A-9C90-D203779F460E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Castilla-61"
+          },
+          "hash": "50498a25b8057458e302f1f81b428911ba6dd6db",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q104135$DDC414CB-4E72-43C1-B682-64FDB94FD591",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$BB881A4E-8837-40D6-83E4-0B1CE06FE799",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q104135$CBCC5A42-FCA5-48D5-9AA3-332410E37019",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Teresa_Castile_(1)|Theresa,_Countess_of_Portugal_(1)"
+          },
+          "hash": "49dab4c55ae7c39463bc28940aae118ef769306c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q104135$1B2BEC26-8681-486E-95F4-773B7A6986DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104137",
+              "numeric-id": 104137
+            }
+          },
+          "hash": "e852acc291b96f167ae860f75e13a43c8f53f0f0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$0F788D05-C977-4F46-9A95-96C2FAE69B91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104465",
+              "numeric-id": 104465
+            }
+          },
+          "hash": "841f8ac7bc1d0afb284e4d4451ee98ed8b6f12ca",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$31BD4BFC-AB2D-41FA-A974-C3CD704063BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116044",
+              "numeric-id": 116044
+            }
+          },
+          "hash": "9277981d559b8dd93ee8f358ffc73c27fd38f916",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q104135$5FD1393C-1163-4CC1-89DE-918CDA0BE559",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11429.htm#i114284"
+          },
+          "hash": "06c5acb4ca81f460d89c27da9d063b006f483718",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q104135$0224C8E1-A30A-43D4-9CAD-01AA17B082DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104013",
+              "numeric-id": 104013
+            }
+          },
+          "hash": "a3226282c44da199adb09a1c4f2cad56817cfadf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q104135$BD9690EC-2CD6-48E4-B9A2-7F4D7CFFE606",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114176",
+              "numeric-id": 114176
+            }
+          },
+          "hash": "c4dcbbc9f574dce36f049b14acbd0f87664ff6ea",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104135$A1EF8564-5CD8-4198-BA5F-07CD266092C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111675",
+              "numeric-id": 111675
+            }
+          },
+          "hash": "ec5919b9a3c663241eebbe7718698bec1b89e049",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q104135$5931CB81-60D5-4297-B7A6-A7FFDC567FB2",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Condesa de Portugal"
+          },
+          "hash": "ae60ece71c75cd5ad32b823e65ab73640d7650da",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q104135$7D74BA28-1F40-485D-9D6E-92D4D28C71DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q104135$C1E71A3E-EFA4-4C15-9515-5C5C3CB678BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1080-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e865d18ee20de4f864a76f0231000410200d3d6b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q104135$372D5F67-1DD8-4C25-BB24-31CE7D4775CD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1130-11-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "45338b984bc175c6bb975e3477a0e627c348816e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q104135$4DA13334-C6D5-4F8F-9B9B-3B687E3F52B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q237987"
+          },
+          "hash": "1b6e8dfa697e087fd4c58e711d4a62278049b975",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q104135$7414BD68-B6C5-457C-B0B9-7AD52606B7C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000717776836"
+          },
+          "hash": "5ca957596d7748d901c41d13bfd2a13bdf371f39",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q104135$A027F4C7-46FA-4272-A455-A2E1C5AC8DCE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=tereza;n=de castilla"
+          },
+          "hash": "f7ac896d06d761611178f0966a9cc947e41ec229",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q104135$3363A278-79B8-4CC3-98B3-506AA931B3FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "sw.980527"
+          },
+          "hash": "b738b6676564ea586b4821842361f35e8119e4ab",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q104135$D7B53CDA-62E5-4805-A842-EF3AC9DC2455",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Theresa of León Arms.svg"
+          },
+          "hash": "20fe9d84b5d26918271485d7dfd96d05c8572be3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسيه من مملكه ليون"
+    },
+    "be": {
+      "language": "be",
+      "value": "графіня Партугаліі (1112—1128)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "portugalská hraběnka-královna"
+    },
+    "da": {
+      "language": "da",
+      "value": "Grevinde af Portugal"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gräfin, Regentin und Königin von Portugal"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόμησσα-Βασίλισσα της Πορτογαλίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Countess-Queen of Portugal"
+    },
+    "es": {
+      "language": "es",
+      "value": "Condesa-Reina de Portugal"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comtesse-Reine de Portugal"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "nobre galega"
+    },
+    "it": {
+      "language": "it",
+      "value": "contessa di Portogallo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politica uit Koninkrijk León (1080-1130)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "condessa-Rainha de Portugal"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "графиня Португалии"
+    }
+  },
+  "id": "Q104135",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "تيريزا كونتيسة البرتغال"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "تيريزا كونتيسة البرتجال"
+    },
+    "az": {
+      "language": "az",
+      "value": "Leonlu Tereza (Portuqaliya qrafinyası)"
+    },
+    "be": {
+      "language": "be",
+      "value": "Тэрэза Леонская"
+    },
+    "br": {
+      "language": "br",
+      "value": "Teresa de León"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Teresa de Lleó i Núñez"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tereza Leónská"
+    },
+    "da": {
+      "language": "da",
+      "value": "Teresa af León"
+    },
+    "de": {
+      "language": "de",
+      "value": "Theresia von León"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θηρεσία του Λεόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Theresa of León"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teresa de León"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ترزا، کنتس پرتغال"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Teresa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Thérèse de León"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Tareixa, condesa de Portugal"
+    },
+    "he": {
+      "language": "he",
+      "value": "תרזה מלאון, רוזנת פורטוגל"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Terezija, portugalska grofica"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Teréz portugál grófnő"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Թերեզա Լեոնցի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Teresa dari Portugal"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teresa di León"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テレサ・デ・レオン"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ტერეზა ლეონელი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "레온의 테레사"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "León ê Teresa"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Teresa av Portugal"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Teresa van León"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teresa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teresa de Leão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teresa de Leão"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Theresa, contesă de Portugalia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тереза Леонская"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Teresa od Leona"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Teresa av Leon"
+    },
+    "th": {
+      "language": "th",
+      "value": "เตเรซาแห่งเลออน"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тереза Леонська"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "特蕾莎"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "葡萄牙女伯爵特里萨"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "葡萄牙女伯爵特里薩"
+    }
+  },
+  "lastrevid": 17516883,
+  "modified": "2025-09-17T02:08:17Z",
+  "ns": 860,
+  "pageid": 123102,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q104135",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q104135"
+    }
+  },
+  "title": "Item:Q104135",
+  "type": "item"
+}

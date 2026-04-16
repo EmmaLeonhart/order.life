@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eadwulf Cudel"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q141341$1080A279-9A47-46F7-B5EC-4B560B30BDC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cudel-1"
+          },
+          "hash": "d160d6192cb230649274d25480171e52286c982b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141341$822136F4-D9C6-495D-9201-47C241E6B7F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141341$BA4CDFED-21B3-464C-9103-079133F22FD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141341$E6C005EA-4701-4053-A3A2-19025A46B562",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eadwulf_Cudel_(1)"
+          },
+          "hash": "8ec2102cbb98978924cf034f095b435ce1eca8f8",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141341$F74039CA-AE27-4270-BD5F-CB52A0CC2B2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141340",
+              "numeric-id": 141340
+            }
+          },
+          "hash": "c03dcf4a39584ed989428d247364d9deef6f9e86",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141341$D837429A-FB01-4E44-A2C3-678B1D165D30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141341$DFEFC19B-C2F6-4E9A-9AE6-4163B3579D2F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1019-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b801a4aff5b966649ef19eee36954f21ee3c6d8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141341$398F9A3C-902B-4FCD-970F-0E9051EB01B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3046324"
+          },
+          "hash": "551f387775e3fdeeeac6b4f3fa9ba9fea415e91d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141341$20B4A90F-EF6B-49DC-95FE-E7EF8EABE760",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eadwulf Cudel Arms.svg"
+          },
+          "hash": "deb2450b77d1ede6fbc9f9d28fa9d0c2baccd369",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "English noble"
+    }
+  },
+  "id": "Q141341",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ايدولف كودل"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eadwulf Cudel"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eadwulf Cudel"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eadwulf Cudel"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eadwulf Cudel"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eadwulf Cudel di Bernicia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eadwulf Cudel"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Eadwulf Cudel"
+    }
+  },
+  "lastrevid": 17561114,
+  "modified": "2025-09-17T12:42:37Z",
+  "ns": 860,
+  "pageid": 169726,
+  "sitelinks": {},
+  "title": "Item:Q141341",
+  "type": "item"
+}

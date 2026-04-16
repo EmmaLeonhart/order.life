@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adam ap Gronwy Gôch ab Y Bach ap Gwaithfoed"
+      },
+      {
+        "language": "en",
+        "value": "Adam ap Gronwy Goch ab Y Bach ap Gwaithfoed"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139021$FC8ED82B-C832-4E29-BB12-BE91BD7C9604",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00777319"
+          },
+          "hash": "f0329249829b79755aa68d851b15e2f1d9f25e97",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139021$FE4306C2-9417-4753-9226-C43831EBF082",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138050",
+              "numeric-id": 138050
+            }
+          },
+          "hash": "a59d0c9a8b044ce1722accea7e8be38763650fa1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139021$E2040D28-6FCD-4FC1-B089-F683AF3E29DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139021$7F0F6F91-A9AA-4265-AB9E-A03E80737330",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139021$13E4352F-CA97-490A-A51E-80432636322F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137409",
+              "numeric-id": 137409
+            }
+          },
+          "hash": "b20b7291ca7b681ae357cc3fdb61e5e898de5a11",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139021$A94C7152-8CB2-44B1-8F88-5306E64CC53F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140074",
+              "numeric-id": 140074
+            }
+          },
+          "hash": "a81c75d0497354563e8f475e46c0cd884c752287",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139021$A347692D-0F8C-4B1B-B292-FD0B25ED3E91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139021$1B9287FA-EF3D-48E9-9C21-76BBB299DCEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q131741105"
+          },
+          "hash": "1392d4ae3be326e6b26eccc8416efc8c68c7f101",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139021$B9AD57CE-9065-4088-A4BB-1FECB5006DB6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adam ap Gronwy Gôch ab Y Bach ap Gwaithfoed Arms.svg"
+          },
+          "hash": "4007eeac8f6299705912fd1bcf0f25c123c5194e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q139021",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Adam ap Gronwy Gôch ab Y Bach ap Gwaithfoed"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Adam ap Gronwy Gôch ab Y Bach ap Gwaithfoed"
+    }
+  },
+  "lastrevid": 17557363,
+  "modified": "2025-09-17T11:47:50Z",
+  "ns": 860,
+  "pageid": 167406,
+  "sitelinks": {},
+  "title": "Item:Q139021",
+  "type": "item"
+}

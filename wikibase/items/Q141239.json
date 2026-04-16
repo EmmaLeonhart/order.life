@@ -1,0 +1,271 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hallkjell Jonsson"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q141239$4D4644D1-0CED-4627-B200-8870488A89B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Jonsson-541"
+          },
+          "hash": "35627c8d7d77f9334e4cf2dabfbcfc261dd19a9f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141239$0823F882-6728-48C4-A721-6FA23062E718",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141239$2B5B0766-85E3-4E4E-9ACB-45A2E199D762",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141239$EF97DD69-B545-4280-84E7-F5EF3A9FCCE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141204",
+              "numeric-id": 141204
+            }
+          },
+          "hash": "761e83f6311256acbb7c3c2490da826337868b9e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141239$D4022DB7-28AC-4DF3-A1D4-E7B9376C7CA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139402",
+              "numeric-id": 139402
+            }
+          },
+          "hash": "ab97239ad6967478a4e28aebfdcc8bd05c3cb0bc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141239$765EB9B4-45DC-4C9A-985B-3D89CB20D695",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141239$0753D6F4-DB9C-473B-BB53-2F5EBD12BF61",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141239$517C7FE4-E77B-4017-B930-84C420F413F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1194-04-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "000f2f4417175ff619a446cdbf2bf886b316c6a4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141239$D8D2F7E3-35BD-4440-85D3-5064DCC8E922",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18418043"
+          },
+          "hash": "27a5f3678da5dcfe2c5d81641b18c917f5ab47df",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q141239$E9AC6CD1-CFC3-473C-B8FB-535E6CFFD6CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645671274"
+          },
+          "hash": "e83a0c52c64de2ec58ea7627e7ddcea8ca302cbc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141239$D1656365-E41B-4FF2-B23E-9978CB414BD2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hallkjell Jonsson Arms.svg"
+          },
+          "hash": "4a54532ee6adcfa4bb2cd69c1a395d952a13750f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1150 - 3 Apr 1194"
+    }
+  },
+  "id": "Q141239",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hallkjell Jonsson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hallkjell Jonsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hallkjell Jonsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hallkjell Jonsson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hallkell Jonsson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Hallkell Jonsson"
+    }
+  },
+  "lastrevid": 17560934,
+  "modified": "2025-09-17T12:40:03Z",
+  "ns": 860,
+  "pageid": 169624,
+  "sitelinks": {},
+  "title": "Item:Q141239",
+  "type": "item"
+}

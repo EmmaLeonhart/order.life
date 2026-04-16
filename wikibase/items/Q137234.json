@@ -1,0 +1,384 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Valerius Romulus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137234$D7423455-4D73-454C-B7D5-C49D8EC7E81A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446944"
+          },
+          "hash": "211f285eacc26813bb6d0ee1abbdb4a45793844e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137234$A2FA0856-501A-40F9-8451-5A6B76D8D354",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137234$798D0E40-A445-4082-BD7C-E010E537870D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137234$9038B7A8-86A7-4D01-8EE2-A7F50E5E36B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136814",
+              "numeric-id": 136814
+            }
+          },
+          "hash": "3ec792366a003949947a40e459053a074f06b557",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137234$356E1F60-3713-4C41-8F02-BA996E9EF51B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137233",
+              "numeric-id": 137233
+            }
+          },
+          "hash": "d303c52af101364c3a3f91cfccec81dd2da24d83",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137234$0B10E616-DFD0-49D9-9597-FB5EC411B089",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137234$BB3ABA30-505D-4AF5-B8FD-9768505A79E2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0294-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2464882c9ab38cbec857527bbb9ee4f16fd4ca9e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137234$65B94324-7F5F-4A98-85CF-2E69B5F69175",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0309-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d5e7a69e2d70fd7bab9f2d587eeb813382af6ab6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137234$C2DF20DE-AF78-47A9-A321-C222E00BAB21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q443147"
+          },
+          "hash": "823346bacca037e3faf8dc253c1ca041569e8541",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q137234$15E9BCE5-0164-46EA-B58F-2011CB1A9CD9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:35395"
+          },
+          "hash": "82d0fc6b4976f65dbbc44532ebe6d397ebde95db",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137234$2C09AA88-D42F-49C6-B794-B9341A607F39",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Valerius Romulus Arms.svg"
+          },
+          "hash": "2a83080ac088b256425cfe789ab8d89790e05d2d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q137234$AAFAA804-D7D9-4313-B91E-E3E33D2F2305",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/bf76e225-1e73-40ae-be5a-3534a822fe9f"
+          },
+          "hash": "8f8b25f7668f3b92564f7ccaf9aae58cd85f3433",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Sohn des römischen Usurpators Maxentius"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Roman Emperor Maxentius (died 309)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Consul romain du début du IVe siècle"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe romano, figlio di Massenzio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (294-309)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "var den västromerske kejsar Maxentius äldste son"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "син римського імператора Максенція"
+    }
+  },
+  "id": "Q137234",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فاليريوس رومولس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Валерый Ромул"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Валерий Ромул"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ròmul"
+    },
+    "de": {
+      "language": "de",
+      "value": "Valerius Romulus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βαλέριος Ρωμύλος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Valerius Romulus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Valerio Rómulo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "والریوس رومولوس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Valérius Romulus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Valerio Rómulo"
+    },
+    "he": {
+      "language": "he",
+      "value": "ולריוס רומולוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marcus Valerius Romulus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Valerio Romolo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウァレリウス・ロムルス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Valerius Romulus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Valerius Romulus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Valerius Romulus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Valério Rómulo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Valério Rômulo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Валерий Ромул"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Valerius Romulus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Valerius Romulus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Валерій Ромул"
+    }
+  },
+  "lastrevid": 17554407,
+  "modified": "2025-09-17T11:05:45Z",
+  "ns": 860,
+  "pageid": 165619,
+  "sitelinks": {},
+  "title": "Item:Q137234",
+  "type": "item"
+}

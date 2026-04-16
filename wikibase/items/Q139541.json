@@ -1,0 +1,290 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Lentulus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139541$BEA93969-4D6A-4372-B232-F15C00BEEE39",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465105"
+          },
+          "hash": "d1bf1794734ac8fa649e773e3ca6e66b62fe33d2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139541$C640EDCB-F686-499F-89A4-A78EAE07724C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141387",
+              "numeric-id": 141387
+            }
+          },
+          "hash": "9f72335fce2dca349d263e76d3d7f65c2aa2be4a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139541$AE794B7A-EAB5-4FF8-80A2-347186024895",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139541$14CDE96B-577F-4B70-A3F2-22E0A0078887",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139541$08A26F39-04A9-420E-9E00-B49ABD49370F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139540",
+              "numeric-id": 139540
+            }
+          },
+          "hash": "dd1088f7c9c4200b9eb874e5a8f0fe1353df58ef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139541$E73C7619-5572-4F00-8A9C-FE713185C795",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139541$3933A6AD-3AB7-407E-A777-5005D20889D7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0132-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dff5ee9fdb841769b8114235c7becf8e2846bcb4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139541$8B1531E9-970F-4AF1-8591-FB280DA61192",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0082-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "092b0ac7428be1c6ab9250dfde3a412467760317",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139541$78730758-8ABA-4AEF-911B-451411AD7579",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q958946"
+          },
+          "hash": "f4fbecf205bf40a76657e96b006a9eed8cbeaac3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139541$FBD84D6C-3D4E-41AD-A59B-15CE72ECDE60",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Lentulus Arms.svg"
+          },
+          "hash": "d064a1507c08d3908510a8a2e82ce889d70e6dab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Prokonsul 82 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "praetor 82 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "político de la Antigua Roma"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "proconsul romain en 82 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (132v Chr-82v Chr)"
+    }
+  },
+  "id": "Q139541",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Корнелий Лентул"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Lucio Kornelio Lentulo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cornelio Léntulo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Lentulo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Корнелий Лентул"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Лентул (претор 89 року до н. е.)"
+    }
+  },
+  "lastrevid": 17558065,
+  "modified": "2025-09-17T11:57:43Z",
+  "ns": 860,
+  "pageid": 167926,
+  "sitelinks": {},
+  "title": "Item:Q139541",
+  "type": "item"
+}

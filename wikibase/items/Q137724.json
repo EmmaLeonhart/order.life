@@ -1,0 +1,456 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Phraates V of Parthia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137724$D6B95639-5148-46E2-BA8F-AFC1B5D98718",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00717524"
+          },
+          "hash": "070f69dce7d47b4c3ac63e54e3c089eda5af3c84",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137724$DA1C88DC-DD94-4AD4-AA91-4834AE00AFBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137724$BD7226AE-1477-420B-90AC-7DCCE961C8BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137724$B4531CDE-DFCF-414B-ADA5-04E84514D3ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Phraates_V_of_Parthia_(1)"
+          },
+          "hash": "f437bab7368a87a9bcf78a3aeec4512ecf975e6b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137724$A226768A-8371-48BB-9685-7BD7697420DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137170",
+              "numeric-id": 137170
+            }
+          },
+          "hash": "d813aa18d1b7fc05b014c58e25cb01b74f4c8e39",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137724$8D1C519A-791D-43B9-A91E-AE6049B696AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137723",
+              "numeric-id": 137723
+            }
+          },
+          "hash": "49c89036f566a257b0c3326633ddaa09283cecc2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137724$BC9796B2-36A5-4D80-AD5D-21662574F8E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137724$848DA10F-DFCF-4F24-A883-0C1B5857E753",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137724$7B2F3F75-5541-4C7A-9685-9983B2FB235D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0004-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "550c66f369783a74a610d8d24648c368f96f0fe5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137724$9F4A65F8-A66C-40B7-AE52-00CCB86FF628",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q314793"
+          },
+          "hash": "663628465a7b59a0fc78920d46e0c14773125364",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q137724$2E5CD346-9CDF-4F7C-89DD-BAE202D2DB32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52234"
+          },
+          "hash": "83f435c202d85c2e6d07c8e11a811e330d3c9993",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137724$741D09FF-DE5F-4AF0-A4BD-CE0AEC1176A2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Phraates V of Parthia Arms.svg"
+          },
+          "hash": "e4e0499092e4f8c1cdb83e6551e56335621d05fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "parthský velkokrál"
+    },
+    "de": {
+      "language": "de",
+      "value": "parthischer König"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Kings of the Parthian Empire from 2 BC to 4 AD"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "grand roi arsacide (2 av. J.-C.-4 ap. J.-C.)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "pártus király"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero partico (r. 2 a.C. - 4 d.C.)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Partherriket"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Part kralı"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "自公元前2年至公元4年的安息帝國王中之王"
+    }
+  },
+  "id": "Q137724",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Fraates V van Partië"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فراتس الخامس من بارثيا"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیرینجی فرهاد"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фраат V"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fraates V de Pàrtia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fraatés V."
+    },
+    "de": {
+      "language": "de",
+      "value": "Phraates V."
+    },
+    "el": {
+      "language": "el",
+      "value": "Φραάτης Ε΄ της Παρθίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Phraates V of Parthia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fraataces"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Praates V.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فرهاد پنجم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Phraatès V"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Fraataces"
+    },
+    "he": {
+      "language": "he",
+      "value": "פראטס החמישי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Fraat V. Partski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "XVII. Arsak pártus király"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fraate V"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フラーテス5世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ფრაატ V"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프라아테스 5세"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "弗拉塔西斯五世"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "فرهاد پنجم"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Fraates V av Parthia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Phraataces"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Fraates V"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Fraates V"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fraates V da Pártia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fraates V da Pártia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фраат V"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Fraat V od Partije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Fraat V."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Фраат V од Партије"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fraates V"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Фарҳоди V"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "V. Fraates"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фраат V"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "فرہاد پنجم"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Phraates V của Parthia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "弗拉特斯五世"
+    }
+  },
+  "lastrevid": 17555151,
+  "modified": "2025-09-17T11:16:16Z",
+  "ns": 860,
+  "pageid": 166109,
+  "sitelinks": {},
+  "title": "Item:Q137724",
+  "type": "item"
+}

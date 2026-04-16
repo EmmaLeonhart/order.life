@@ -1,0 +1,379 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Cinna consul 127 BCE"
+      },
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Cinna"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q72445$9FBEB89D-8FA0-4F05-8D2D-312ED7867FCF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735880"
+          },
+          "hash": "b87cbb111b1b095379c1b6fd4ced8a2dc47011cb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72445$AB8FE6DC-2BFD-40B9-9F31-EABA852146BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72260",
+              "numeric-id": 72260
+            }
+          },
+          "hash": "a8d2fde360ad9138820d284090d76b7e1dc67686",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72445$C4A63D79-889D-4035-8448-489A82D397F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72445$3BD5299D-16A0-497D-80D0-C39E40952126",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72445$550B65AE-6F2B-4A8B-87B5-7D1021F66F83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72630",
+              "numeric-id": 72630
+            }
+          },
+          "hash": "a349d312e7535c7619d0f682443ba9ba02557fd3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q72445$4011F86D-94B5-4790-9F07-B6FE4606E9C2",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "consul 127 BCE"
+          },
+          "hash": "a7110171640dd06dc84033c9d6bb2a45fa3d9959",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72445$6996F6D0-0D8D-48BA-BE28-104210A4E2C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72445$5B6112A5-8F6E-4BA1-8824-2BFF478F5B9F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72445$BE0547E3-384F-4DCE-B9E0-E5603DD8171E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72445$31492851-DD3F-405F-ACA3-AB3E9080B4FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q720358"
+          },
+          "hash": "c18920485e393dc585e83abdf464322211dd9e19",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72445$49EE2441-5143-45E2-9809-C957B8B377B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012967303075"
+          },
+          "hash": "97d46cb44e726c66019877a2c5463d8d66c83472",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72445$3D07FD50-A202-4DC7-9387-115A7E46E475",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Cinna Arms.svg"
+          },
+          "hash": "20f3268349d03b4799cdde85d9b3479e0a9008c6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol romà l'any 127 aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 127 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 127 BCE"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 127 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano, console nel 127 a.C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Romeinse Republiek (-169--126)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політичний, державний та військовий діяч Римської республіки"
+    }
+  },
+  "id": "Q72445",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Корнелий Цина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Corneli Cinna"
+    },
+    "da": {
+      "language": "da",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Κορνήλιος Κίννας (ύπατος το 127 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cornelio Cinna"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Cornelio Cina"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Cinna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・コルネリウス・キンナ (紀元前127年の執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Cornélio Cina"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Cornélio Cina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Корнелий Цинна"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Цінна (консул 127 року до н. е.)"
+    }
+  },
+  "lastrevid": 17484918,
+  "modified": "2025-09-16T18:27:33Z",
+  "ns": 860,
+  "pageid": 87276,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72445",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72445"
+    }
+  },
+  "title": "Item:Q72445",
+  "type": "item"
+}

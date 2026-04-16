@@ -1,0 +1,379 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Scribonius Curio"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138405$7813AEC4-F6B0-476B-894C-F5AF69A0FCAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736043"
+          },
+          "hash": "984c74cea858d4a9bf75277565be3188fc496148",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138405$F602071B-42BA-401D-893E-B97464DBACE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137679",
+              "numeric-id": 137679
+            }
+          },
+          "hash": "ae5e62481bba97d165e39e416c6390cae69227ca",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138405$693C7214-A44B-4328-BFEE-A22F9F32C769",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138405$69AD2148-FB5F-4007-9238-0303D71DC03D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138405$A3897D18-E7F6-4A0E-9E7F-346F2B5FCD98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138406",
+              "numeric-id": 138406
+            }
+          },
+          "hash": "4d962ffbb9d8fb5999e15dfaec86cd73e4dbbe31",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138405$287C1137-DC38-4D29-A007-A0394317A961",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139563",
+              "numeric-id": 139563
+            }
+          },
+          "hash": "cfc75de902445431afe172a8d744722b14a15c42",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138405$DA090E30-D062-4755-B0DC-BB32E24C4184",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138405$9306AA4A-4536-458A-905C-2B4EA18509F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0124-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8f26f910d4b3e5017940aba21da59ede8a87593",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138405$0A6DDF7B-7CF9-47D4-B252-B8FCE4F7F261",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0053-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6853c7615090b162a94b7f0db4cab410c236bad0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138405$8642CA92-0BC6-4CC3-8193-557E6C4632C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1401126"
+          },
+          "hash": "a32ec043cfe8221815aa391607660ccfbfcbf29f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138405$A0B8F1B3-6452-4188-9488-9F8522641721",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Scribonius Curio Arms.svg"
+          },
+          "hash": "7a56ce8a19fed5470b797c6a432a1dabfd060241",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 76 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 76 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 76 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 76 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "console nel 76 a.C."
+    },
+    "ja": {
+      "language": "ja",
+      "value": "紀元前76年に執政官を務めた共和政ローマの政治家・軍人"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (200v Chr-53v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski polityk I w. p.n.e., konsul w 76 p.n.e."
+    },
+    "ro": {
+      "language": "ro",
+      "value": "politician și soldat roman"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 76 года до н. э."
+    }
+  },
+  "id": "Q138405",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "غايوس سكريبونيوس كوريو"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гай Скрибоний Курион"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Escriboni Curió"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Scribonius Curio"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Σκριβώνιος Κουρίων (ύπατος το 76 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Scribonius Curio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Escribonio Curión"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Scribonius Curio"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gayo Escribonio Curión"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Scribonio Curione"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイウス・スクリボニウス・クリオ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Scribonius Curio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Scribonius Curio"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gajusz Skryboniusz Kurion"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Escribônio Curião"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Escribônio Curião"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Gaius Scribonius Curio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Скрибоний Курион"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaj Skribonije Kurion"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Scribonius Curio"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гај Скрибоније Курион"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Скрибоній Куріон (консул)"
+    }
+  },
+  "lastrevid": 17556237,
+  "modified": "2025-09-17T11:31:50Z",
+  "ns": 860,
+  "pageid": 166790,
+  "sitelinks": {},
+  "title": "Item:Q138405",
+  "type": "item"
+}

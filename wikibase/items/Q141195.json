@@ -1,0 +1,309 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rostyslav Volodarovych"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141195$7BF4F4AF-634D-473F-8DC5-49F87561F6D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "134"
+          },
+          "hash": "7f9a49aed1f391665aed97447f91028b9611b18e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141195$08F7B9C6-F04C-4595-89DB-4F081B04BBF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143858",
+              "numeric-id": 143858
+            }
+          },
+          "hash": "b93f8188e213401c6adafff4765045587c7b0a36",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q141195$0800F699-17D9-4FB3-B46A-D190B9039214",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Volodarevich-2"
+          },
+          "hash": "95b3202a6ffa57a629a8803c337064aa7a90041d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141195$D4F26D91-8092-44EE-8308-93126AFD6F24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141195$4F299C3E-D45F-45AE-AAAD-3340B5C3CF34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141195$7941B786-1C8D-404F-9901-8E25AC89D5D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126976",
+              "numeric-id": 126976
+            }
+          },
+          "hash": "c29167343811169af2c6d5c50bf529b07bfb336d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141195$6268A2E5-CDD2-4346-B089-BC1FEF14DDD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141194",
+              "numeric-id": 141194
+            }
+          },
+          "hash": "7c4f70034fff2f8b0e01e264915ca50cf3b23da7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141195$304E5B64-D825-4EA1-B515-DA96FC294E73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141195$CBD60DDE-4DFD-44DE-B1CB-B0A3BF34F782",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1128-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "33eabf73b9af5d55445f87b341d5bbaa06ef3495",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141195$1EC8B741-1DE1-4B59-92DF-8827254EBAFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q949706"
+          },
+          "hash": "b0a319463238230cc5e03f17626478e3a569e06a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q141195$A6BDAEFE-1D9E-4B55-9EC4-9D18EB75A705",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=rostislav;n=rurikides;oc=8"
+          },
+          "hash": "c887a61ef41286cd543464e22ae82585df6e92ce",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141195$7E85C5F5-3613-402C-91A5-9F0FB17D524A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rostyslav Volodarovych Arms.svg"
+          },
+          "hash": "6dd3fbca77a90246730aca4f401cd78fd8a2addc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "? - 1128"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe de Zvenýhorod y Przemyśl (? - 1128)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "князь перемиський"
+    }
+  },
+  "id": "Q141195",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Rościsław Wołodarewicz"
+    },
+    "be": {
+      "language": "be",
+      "value": "Расціслаў Валадаравіч"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rostyslaw Wolodarowytsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rostyslav Volodarovych"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rostyslav Volodárovych"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ロスチスラフ・ヴォロダレヴィチ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rościsław Wołodarewicz"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Rościsław Wołodarewicz"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ростислав Володаревич"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ростислав Володарович"
+    }
+  },
+  "lastrevid": 17560847,
+  "modified": "2025-09-17T12:38:18Z",
+  "ns": 860,
+  "pageid": 169580,
+  "sitelinks": {},
+  "title": "Item:Q141195",
+  "type": "item"
+}

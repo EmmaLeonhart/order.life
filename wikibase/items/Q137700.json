@@ -1,0 +1,490 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Domitius Ahenobarbus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137700$5ED745E7-0453-4ABB-928B-672B637F216A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446774"
+          },
+          "hash": "42da23b2e1e95dcc7112750a60e749a02eab99ec",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137700$0EDB36CF-CEC0-497C-B574-854D8DA13409",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138448",
+              "numeric-id": 138448
+            }
+          },
+          "hash": "127da3646af3ae5d8632f322f1e4778758aa5e81",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137700$E485ADD0-5012-4E96-96EA-AD14B5381F12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137700$E4D78808-2842-48B4-8D1E-0E4002EAE2DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137700$080502AA-D35B-4879-9411-66193F40608B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus_Domitius_Ahenobarbus_(consul_32)_(1)"
+          },
+          "hash": "e719f561c56a148414ce194de9291805c9e753a0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137700$C02987D5-78EA-4FB2-951D-651F65B184A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138447",
+              "numeric-id": 138447
+            }
+          },
+          "hash": "731d3f0b9c0f9cf5318b9bd9bafa15559bd80fb4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137700$1830955A-AB06-4742-93A5-DB97EADE15A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137696",
+              "numeric-id": 137696
+            }
+          },
+          "hash": "7cc30ae336e181aa9c416b84becfa7416eca28af",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137700$F2EC26E9-3621-431E-9F16-AD2B35510852",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137157",
+              "numeric-id": 137157
+            }
+          },
+          "hash": "3e0bf2e4feaf0c5dcd4cb8876558d8bd9cc2070b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137700$D123F951-153F-4E20-B97A-1C86438A1013",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137700$08AC4F58-FFD7-4710-875C-624FCC062265",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0040-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ff53be6e3ebe709ad36cac92a23fc4404b9af78d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137700$6B686B3A-20FD-4DCE-8593-C1C00FBE142D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q351503"
+          },
+          "hash": "890bcc23edc44228250498b230b960f36f7865c4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137700$AB12E12A-CC1F-4C79-8C63-D63C9FAF5387",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Domitius Ahenobarbus"
+          },
+          "hash": "c26a73b54de7a0d6c14426b3f581deb605161848",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137700$1FAD0078-9F41-457F-9DE1-2A7860A1BE9A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Domitius Ahenobarbus Arms.svg"
+          },
+          "hash": "53ef9f01019199802aef96ad81d8b89e35efc33c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من روما القديمه"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 32 dC"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "otec císaře Nerona"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 32"
+    },
+    "el": {
+      "language": "el",
+      "value": "έγινε ύπατος το 32 μ.Χ."
+    },
+    "en": {
+      "language": "en",
+      "value": "father of emperor Nero"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 32, père de Néron"
+    },
+    "he": {
+      "language": "he",
+      "value": "מגיסטראט רומאי, אביו של נרון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano, marito di Agrippina minore e padre di Nerone"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "consul in 32 n.Chr."
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 32 года н. э."
+    },
+    "sh": {
+      "language": "sh",
+      "value": "konzul 32"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски политичар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "far till Kejsare Nero"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "chấp chính quan năm 32"
+    }
+  },
+  "id": "Q137700",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جناوس دوميتيوس اهينوباربوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гней Домиций Ахенобарб"
+    },
+    "br": {
+      "language": "br",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gneu Domici Ahenobarb"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Cnaeus Domitius Ahenobarbus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γναίος Δομίτιος Αηνόβαρβος VII (ύπατος το 32)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Domicio Enobarbo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گنائوس دومیتیوس آهنوباربوس (پدر نرون)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Domitius Ahenobarbus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "he": {
+      "language": "he",
+      "value": "גנאיוס דומיטיוס אהנובארבוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cnaeus Domitius Ahenobarbus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Domizio Enobarbo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グナエウス・ドミティウス・アヘノバルブス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaius Domitius Ahenobarbus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gnejusz Domicjusz Ahenobarbus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cneu Domício Enobarbo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cneu Domício Enobarbo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гней Домиций Агенобарб"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gnej Domicije Ahenobarb"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гнеј Домиције Ахенобарб"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Доміцій Агенобарб"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "多米提烏斯·阿赫諾巴爾比"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "格奈乌斯·多米迪乌斯·海诺巴布斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "格奈烏斯·多米迪烏斯·海諾巴布斯"
+    }
+  },
+  "lastrevid": 17555129,
+  "modified": "2025-09-17T11:15:58Z",
+  "ns": 860,
+  "pageid": 166085,
+  "sitelinks": {},
+  "title": "Item:Q137700",
+  "type": "item"
+}

@@ -1,0 +1,344 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Coenred"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137194$EAE1186C-F2B3-41DB-91C5-0690B709B5F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "141992"
+          },
+          "hash": "b1f2c2eff142f9d376b11a026fba700568d10e89",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q137194$68CB4E0E-CC0D-4D9C-884E-2697F39E1263",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00349154"
+          },
+          "hash": "05efc15edad49be1118aa69ad48c3f7484b871c3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137194$48820166-2523-4000-A5D8-875493EF41C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137194$ACDB192D-AA35-4CC6-A42A-0A8363223178",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q137194$E23F4F16-B7AE-4EB5-9EEA-8EA2B616308A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15030.htm#i150300"
+          },
+          "hash": "db055f84294086a42e6b2858dc972b97927f683c",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137194$79949592-9C30-4F77-8766-692576AF88DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136781",
+              "numeric-id": 136781
+            }
+          },
+          "hash": "2c05cafe594d120cae911bddc56afc189e3433ec",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137194$50D1838A-B1D9-4725-855D-F44A66EA2B8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137194$B6080CC2-308B-4A2B-9992-007476A37202",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0700-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1df0d1f7be99978f9e1ad4f177d09a6b95941413",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137194$4E84F108-DC9A-407A-9DB3-078062F08DBF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0718-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0469025d0ddc91e3dbb8070961b3377d9ad37261",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137194$81620FBF-637B-4070-91B9-0E6BCC8E6A5A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q889974"
+          },
+          "hash": "eab2122914f94c0e61ccb11ebf7668be23946a56",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137194$223D4854-258F-4C3D-873A-0A6F3ACAB87C",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Coenred"
+          },
+          "hash": "87efc5dec084c5f1667d0a09544d2f5705951ba0",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137194$48538F88-1700-4998-A0E1-B1BF42496E27",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Coenred Arms.svg"
+          },
+          "hash": "2dd4d4bd4c0be0ab2397d331dea49cae42863e13",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Northumbria"
+    },
+    "en": {
+      "language": "en",
+      "value": "8th-century Northumbrian monarch"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey de Northumbria"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Northumbrie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Northumbria királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re"
+    }
+  },
+  "id": "Q137194",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كوينريد"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Coenred de Northúmbria"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cenred"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κοένρεντ της Νορθουμβρίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Coenred"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Coenred"
+    },
+    "es": {
+      "language": "es",
+      "value": "Coenred of Northumbria"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cenred"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Coenred de Northumbria"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cœnred northumbriai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "Coenred di Northumbria"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Coenred"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Coenred of Northumbria"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Cenred z Nortumbrii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Коэнред"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Коенред"
+    }
+  },
+  "lastrevid": 17554339,
+  "modified": "2025-09-17T11:04:47Z",
+  "ns": 860,
+  "pageid": 165579,
+  "sitelinks": {},
+  "title": "Item:Q137194",
+  "type": "item"
+}

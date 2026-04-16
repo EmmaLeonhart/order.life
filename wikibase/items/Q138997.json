@@ -1,0 +1,263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "NN ferch John de Avene"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138997$290EB309-02C3-41D9-BC17-18BB6CE079B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00760508"
+          },
+          "hash": "a07199092ce4f245e39404ffe1c6c343c095cc0b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138997$0294B0AD-8E5B-4854-B1DD-D11D792EB0EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138032",
+              "numeric-id": 138032
+            }
+          },
+          "hash": "af524acc5f8d5dc318d0910788c92b667a5725bc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138997$17AB6583-28CD-49D8-97FF-C2A98606D7AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138033",
+              "numeric-id": 138033
+            }
+          },
+          "hash": "0db445cdfedb974d20e5dd96df7e89e0b2f21597",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138997$FB423E5B-7FF1-4147-9A21-E08C859730F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138997$66D79A45-DA6F-42B3-9FE6-677CA53ECE88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138997$BDE70817-CE95-44C2-836E-6E15D152DA42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137395",
+              "numeric-id": 137395
+            }
+          },
+          "hash": "434e7291b8510f6e58a32af7d9203adf52387d22",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138997$E125603A-863B-4B14-A3CD-640B772EE7C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140566",
+              "numeric-id": 140566
+            }
+          },
+          "hash": "399dfa1ce7dbc58c3ee584ef84c10d4059ee1590",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138997$81B5EB1D-35F9-4413-B8D1-EE8BC3AF4E3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140567",
+              "numeric-id": 140567
+            }
+          },
+          "hash": "0b4d4b59fb0afb6de85cc1614aea0a4c3d67b28e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138997$E4588C6A-AA4C-4AE4-AED9-F076650683E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138997$C52C8004-0A87-4111-8003-79D2691ECB95",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110622178"
+          },
+          "hash": "c3d7fe98fd804dde103f5cd8bd062d2182690edf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q138997$2AF33CE1-D799-47F3-B3DD-499151B534AF",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "NN ferch John de Avene"
+          },
+          "hash": "b4d82a3e665a4609a7e8d236a149416e6befd36e",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138997$8C0E26C5-53DB-4877-9233-1C9E98109A13",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "NN ferch John de Avene Arms.svg"
+          },
+          "hash": "337597e8e0853f4c4a0d0e5551148b920650ca95",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q138997",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "NN ferch John de Avene"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "NN ferch John de Avene"
+    }
+  },
+  "lastrevid": 17557315,
+  "modified": "2025-09-17T11:47:10Z",
+  "ns": 860,
+  "pageid": 167382,
+  "sitelinks": {},
+  "title": "Item:Q138997",
+  "type": "item"
+}

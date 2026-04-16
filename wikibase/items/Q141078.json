@@ -1,0 +1,490 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lulach"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141078$0121AEDE-42F2-4A51-BA40-5D2CD3D3B0CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143600",
+              "numeric-id": 143600
+            }
+          },
+          "hash": "1e769fb6813951236ce851bf770112455ec98979",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141078$4EE15ADA-D7F4-40DE-846C-A99688FD0E5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143601",
+              "numeric-id": 143601
+            }
+          },
+          "hash": "78bbf73a7e8f34926ad82ce77f86cce8a6b272fe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141078$6E781B62-2003-4D0F-A986-5BFF3B650F3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141078$D87EC139-91C3-47F9-B32A-F84AF8775120",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141078$8B9A2F72-3C5C-4D8B-A813-DF321BC65C8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143599",
+              "numeric-id": 143599
+            }
+          },
+          "hash": "b9cb4f67803850fe5d32212d68e3e724f12b7559",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141078$AE3B44B5-2688-480F-B1B7-EE2D6543D711",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141077",
+              "numeric-id": 141077
+            }
+          },
+          "hash": "3656841aba8de6af53d82673e2dd9fd0b2924843",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141078$E6A70BD8-F9D7-4A5E-87D1-C90450327292",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139330",
+              "numeric-id": 139330
+            }
+          },
+          "hash": "2eb38e1d0ec0c7d41594321bbbbaa52e5e112338",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141078$CCF07CE2-3F74-4B23-AC82-81B08B91868B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141078$A3572BF4-5EDB-4548-9726-2F4A20B56726",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1030-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2fdd58ab83d3ae2ef80e1cc1b2ff8ce5e65290bb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141078$7CDB9224-9CBC-40A8-B5AC-360D2171067F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1058-03-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e79b6dd1b5ce5b2863400f0288f0de0aef55b370",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141078$28A3AFAB-9A99-403C-B964-2285632A359B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q105979"
+          },
+          "hash": "c69b55455c9210a9eced099636cf3331a31bacdc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141078$B5C6BDC9-F456-4E30-8912-C4C24F94D51A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gudrun Gut Arms.svg"
+          },
+          "hash": "724b969d90bf01ecaae68829bbf890f243b8b6d2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "موسيقية ألمانية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "موسيقيه من المانيا"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জার্মান সুরকার"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "músic alemanya"
+    },
+    "de": {
+      "language": "de",
+      "value": "deutsche Musikerin, DJ, Moderatorin und Produzentin"
+    },
+    "en": {
+      "language": "en",
+      "value": "German musician"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "German musician"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "German musician"
+    },
+    "es": {
+      "language": "es",
+      "value": "música alemana"
+    },
+    "et": {
+      "language": "et",
+      "value": "Saksamaa muusik"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تهیهکننده موسیقی آلمانی"
+    },
+    "fat": {
+      "language": "fat",
+      "value": "German ndwomtonyi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "musicienne allemande"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "ceoltóir Gearmánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "música alemá"
+    },
+    "he": {
+      "language": "he",
+      "value": "מוזיקאית גרמנייה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "njemačka glazbenica"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "tysk musiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits muziekproducente"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "muziciană germană"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "muzikante gjermane"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "German ndwomtoni"
+    }
+  },
+  "id": "Q141078",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جودرون جوت"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Gudrun Gut"
+    },
+    "br": {
+      "language": "br",
+      "value": "Gudrun Gut"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gudrun Gut"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gudrun Gut"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gudrun Gut"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gudrun Gut"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gudrun Gut"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gudrun Gut"
+    },
+    "et": {
+      "language": "et",
+      "value": "Gudrun Gut"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Gudrun Gut"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gudrun Gut"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gudrun Gut"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gudrun Gut"
+    },
+    "is": {
+      "language": "is",
+      "value": "Gudrun Gut"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gudrun Gut"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グートルン・グート"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gudrun Gut"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gudrun Gut"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Gudrun Gut"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Gudrun Gut"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gudrun Gut"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gudrun Gut"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Gudrun Gut"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гудрун Гут"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Gudrun Gut"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Gudrun Gut"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gudrun Gut"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gudrun Gut"
+    },
+    "th": {
+      "language": "th",
+      "value": "กูดรุน กัต"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gudrun Gut"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "古德伦·古特"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "古德倫·古特"
+    }
+  },
+  "lastrevid": 17560719,
+  "modified": "2025-09-17T12:36:28Z",
+  "ns": 860,
+  "pageid": 169463,
+  "sitelinks": {},
+  "title": "Item:Q141078",
+  "type": "item"
+}

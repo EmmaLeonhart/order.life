@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Richard de Clare"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q140127$744627EC-0410-4553-AA3B-F3B1A4BF01E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Clare-316"
+          },
+          "hash": "182652b206a80025952c233a430e8522715b9eaa",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140127$1EF4BBB9-D3F7-4270-B5F4-D2FEA113BCAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140127$FA75E4D1-3F52-4BB9-8E28-BF3044F5C0D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q140127$775D751D-C229-4CEF-8B87-E17185979E2B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p64747.htm#i647463"
+          },
+          "hash": "9b0999dd0d228a7775df5490b086443fd3f091b8",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140127$D559C802-DA32-4C0B-B618-D6060D3C0E50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138761",
+              "numeric-id": 138761
+            }
+          },
+          "hash": "132a231b510f4ac437921b9b110e6558c5f59d25",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q140127$D245FCC4-00F1-45C0-9FAC-ABAB1E05B04E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127804",
+              "numeric-id": 127804
+            }
+          },
+          "hash": "6220ee20d5c18f91f63aac288d85aa2ee2164311",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140127$4E8BF926-5A21-44EF-8E06-D2E310E5BF42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q140127$B73D39D4-A4B3-4FE5-9E3B-97D75ECD7B56",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1186-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9fc402b51649f1aaf14c41a41d9eab488162925a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q140127$E78FE95B-CE3E-4F5F-8D18-1A7E1238BF2F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1228-03-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d78a14939005f1d84e2a0d0a27e9363e16cf0f23",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140127$A44B4966-43DE-4BBF-BAA6-0AAC039CDB4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76264293"
+          },
+          "hash": "fcb406cfd911afb9317d89ecc0c1c05e17d89b70",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140127$7EE97AEF-721B-4907-A06C-559C7DAF3A2D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Richard de Clare Arms.svg"
+          },
+          "hash": "1ba89f72fd98f279cb62471abdfeb9002cf6a8ec",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=647463"
+    }
+  },
+  "id": "Q140127",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Richard de Clare"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Richard de Clare"
+    }
+  },
+  "lastrevid": 17559089,
+  "modified": "2025-09-17T12:12:26Z",
+  "ns": 860,
+  "pageid": 168512,
+  "sitelinks": {},
+  "title": "Item:Q140127",
+  "type": "item"
+}

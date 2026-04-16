@@ -1,0 +1,630 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Poppaea Sabina"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139651$26A40249-A167-4D97-9968-CB2AA8820961",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "86106"
+          },
+          "hash": "b03f2a4cf7af5585f62309f13a8bc15cad24018c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q139651$BD371007-718B-4300-B0E3-BE0ADDF84BF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446778"
+          },
+          "hash": "41e6c1716a7c28abbfba7379c1f611c6f9a3c5e9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139651$2DEC91E6-9E06-448C-BE3F-E1E77D34CD3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141543",
+              "numeric-id": 141543
+            }
+          },
+          "hash": "59cb534315451b2f5fbd737e7540ad4488714ef8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139651$928F05F3-AEA1-4FEA-A7DC-D2A950B41F49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139655",
+              "numeric-id": 139655
+            }
+          },
+          "hash": "f335088edc82dc8f9220db014efb70d54856c1b2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139651$634116F2-3302-4DA9-8100-89FEE828D2FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139651$1201463B-6CF6-4255-94F2-DF8833AA369D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139651$AF32BA37-E94F-48A7-B7AA-4B0DD7F88E83",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Poppaea_Sabina_(1)"
+          },
+          "hash": "690d884cf91c35ceb19e641998082cb3ab9ae35f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139651$F8D2AD01-2868-42EA-8C14-4FE7C4A69C98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141541",
+              "numeric-id": 141541
+            }
+          },
+          "hash": "225de2db02a1df5b995ff56ce27df28a31ac9fa1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139651$044FA6C3-75F1-40B9-B710-EF8734FB99C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141542",
+              "numeric-id": 141542
+            }
+          },
+          "hash": "fa4bb418bc952ea6238629ac27b69a1a36f679e6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139651$6F8D98F9-43B0-4C3C-8875-63E24F0E20BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138448",
+              "numeric-id": 138448
+            }
+          },
+          "hash": "42ba83382987f5437687cf1b2abd9847eb16d79e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139651$EF6D6180-A784-479D-9B1F-5544100DDAB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141538",
+              "numeric-id": 141538
+            }
+          },
+          "hash": "6b3b0507bf075fc4164eb4eaa48316e96caad810",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139651$6FCA13F5-89A6-40B2-8D1B-E9D515C77DB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141539",
+              "numeric-id": 141539
+            }
+          },
+          "hash": "71fbe8e89e67632a82bcff6f1f55f6b3fc0cce7e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q139651$8684AE86-455D-4E4C-A1C4-9270C7187D9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "33332339"
+          },
+          "hash": "ce64fd60e81d6519f23fed2c339050475c4f4ff6",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139651$5F7B0315-C419-416A-88B4-A61480038C0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139651$CE50FF8C-5583-48C2-8276-FB24A1D43955",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0030-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c25e453ebe88b68d4c3359f3f661dcd1e23005eb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139651$318B5FBA-84A2-4402-A987-D5E65E02ABFE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0065-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "684b87cf4b78de6d402478265db48017b725c4b3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139651$27726893-E880-4FC3-BC02-F9B1970D75FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q230716"
+          },
+          "hash": "873e26b449f952b00e84458dd40ddb1d13281274",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q139651$A1C3F7C5-2E0F-4443-BA54-47E7E1C8F4A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006858827010"
+          },
+          "hash": "572c2c93875d3d4ed90afa31c24285a07e20e9f2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139651$7A26EBD8-D5CB-4F0E-9056-195D8DF5A769",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Poppaea Sabina Arms.svg"
+          },
+          "hash": "590c820771399f5be64c4b1d5a197be79dbdb841",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q139651$95D108D5-0CBB-439E-8292-3DC3A8BD0287",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/1a3ccb82-2c71-4d43-a0fa-951b5f85a0f8"
+          },
+          "hash": "66a0a72cbcbd6c91b9bbd4afe723f074ccff9118",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "manželka císaře Nerona"
+    },
+    "de": {
+      "language": "de",
+      "value": "römische Kaiserin, Frau Neros"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαία αυτοκράτειρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "second wife of the Emperor Nero (30-65 AD)"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana consorte"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "keisari Neron puoliso"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seconde épouse de l'empereur Néron"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשתו השנייה של נירון קיסר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római császárné, Néró császár második felesége"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Nerone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ローマ皇帝ネロの2番目の妻"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Oude Rome (30-65)"
+    }
+  },
+  "id": "Q139651",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بوبايا سابينا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بوبايا سابينا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Popea Sabina"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Попея Сабина"
+    },
+    "br": {
+      "language": "br",
+      "value": "Poppea"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Popea Sabina"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Poppaea Sabina"
+    },
+    "da": {
+      "language": "da",
+      "value": "Poppaea Sabina"
+    },
+    "de": {
+      "language": "de",
+      "value": "Poppaea Sabina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ποππαία Σαβίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Poppaea Sabina"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Popea Sabina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Popea Sabina"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Popea Sabina"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پوپایا سابینا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Poppaea Sabina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Poppée"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Poppaea Sabina"
+    },
+    "he": {
+      "language": "he",
+      "value": "פופיאה סבינה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Poppaea Sabina"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պոպեա Սաբինա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Poppaea Sabina"
+    },
+    "it": {
+      "language": "it",
+      "value": "Poppea"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ポッパエア・サビナ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "포파이아 사비나"
+    },
+    "la": {
+      "language": "la",
+      "value": "Poppaea Sabina"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Popėja Sabina"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Попеја Сабина"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Poppæa Sabina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Poppaea Sabina"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Poppæa Sabina"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Poppea Sabina"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Popeia Sabina"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Popeia Sabina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Поппея Сабина"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Popeja Sabina"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Попеја Сабина"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Poppaea Sabina"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Poppea Sabina"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Поппея Сабіна"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "波皮亞·塞賓娜"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "波派亚·萨比娜"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "波派亞·薩比娜"
+    }
+  },
+  "lastrevid": 17558251,
+  "modified": "2025-09-17T12:00:21Z",
+  "ns": 860,
+  "pageid": 168036,
+  "sitelinks": {},
+  "title": "Item:Q139651",
+  "type": "item"
+}

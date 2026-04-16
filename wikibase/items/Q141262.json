@@ -1,0 +1,315 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Conchobar mac Donnchada"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q141262$F6C5F9CB-0E60-4F29-9B74-D6983851CADA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mac_Donnchada-8"
+          },
+          "hash": "413bcabcb6293028510cf2a19a88bdbfaca7dae2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141262$3A86FD3D-7B25-4BC0-B970-00182D25D061",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141262$B843DDE2-5912-4BC1-B6CB-590CB02915AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141262$40831003-E9C3-486E-B602-B8BF84631A1B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Conchobar_mac_Donnchada_(1)"
+          },
+          "hash": "432ef13d32c39ae1a61453944d5b0ae79863a12b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q141262$C31A11B4-40CF-45E4-8EB2-68109CA05633",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15012.htm#i150113"
+          },
+          "hash": "183022f053c3190a2c9409b312703812421639aa",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141262$7B098BDE-C5E0-4A78-8710-B1ED76E498B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141255",
+              "numeric-id": 141255
+            }
+          },
+          "hash": "0e60cf005fac29c881f07e60768e38844bcdc382",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141262$AFB5AAA5-D31D-47A0-A63F-DFD3AE7D20B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141262$921AB5F0-33F7-4141-BFF8-3FD8841A1DDD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e8163df404d9994b40f680a1364f0bb46039df56",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141262$8A5DFC90-4390-4037-ACB3-601A7EEC4FA7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0833-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1d6437062cd092a0f90031909a60a2344442b7ce",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141262$06AF92A7-F85F-4C5E-A922-853DB5BDE447",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1283158"
+          },
+          "hash": "965ca5f5ee64bdb2891cb8dbc15d7a2b3169f1f6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141262$7F2D5B5A-0168-4E17-94C8-C1A8B542F7F7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Conchobar mac Donnchada Arms.svg"
+          },
+          "hash": "a0f6aa72fdff591d4da94d1b528f078b58ea68d7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "High King of Ireland"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ard-Rí na hÉireann"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano irlandese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Ierland (?-833)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Миде, верховный король Ирландии"
+    }
+  },
+  "id": "Q141262",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Conchobar mac Donnchada"
+    },
+    "de": {
+      "language": "de",
+      "value": "Conchobar mac Donnchada"
+    },
+    "en": {
+      "language": "en",
+      "value": "Conchobar mac Donnchada"
+    },
+    "es": {
+      "language": "es",
+      "value": "Conchobar mac Donnchada"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Conchobar mac Donnchada"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Conchobar mac Donnchada"
+    },
+    "it": {
+      "language": "it",
+      "value": "Conchobar mac Donnchada"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Conchobar mac Donnchada"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Conchobar mac Donnchada"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Конхобар мак Доннхада"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Conchobar mac Donnchada"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Conchobar mac Donnchada"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Conchobar mac Donnchada"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Конхобар мак Доннхада"
+    }
+  },
+  "lastrevid": 17560980,
+  "modified": "2025-09-17T12:40:42Z",
+  "ns": 860,
+  "pageid": 169647,
+  "sitelinks": {},
+  "title": "Item:Q141262",
+  "type": "item"
+}

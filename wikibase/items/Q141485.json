@@ -1,0 +1,356 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Cornelius Dolabella"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141485$FDBC1A8B-C651-4B4C-B234-83348DC9CE5C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "580869"
+          },
+          "hash": "415ed2857cb75aca2123870893c4f2623b973bf7",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141485$9C8A1434-F98D-4FA3-9D20-B824B0B85199",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144137",
+              "numeric-id": 144137
+            }
+          },
+          "hash": "b9d6fcc597dc6227890a670e99afa86e52fdabe6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141485$7F506FD8-C8C4-4729-8C97-47DBA4A4CA91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141485$FA22C379-5BBA-4631-86BC-829BDF2BE975",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141485$16E3CED1-C233-4A18-BF46-1B24F31A2066",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144136",
+              "numeric-id": 144136
+            }
+          },
+          "hash": "09d0c1392a4462037691989dd5081ee877e23802",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141485$EC81E03A-60E1-4785-957B-CF55D850ECCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141484",
+              "numeric-id": 141484
+            }
+          },
+          "hash": "d648bdbf4dfbe715eb5b374c4ad6506f99123ae0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141485$A1143D9E-2005-4824-B192-15DD05946A3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139616",
+              "numeric-id": 139616
+            }
+          },
+          "hash": "7d5c1a90ca5567d2d0a098a5dbacbe25f77121c3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141485$C0F96CA4-05AB-44A1-948A-267EBF93AB8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141485$62C4849E-B3DE-4885-856C-C03F7C458B73",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141485$116A60FF-84AB-4723-A9E0-564082F69F0B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "093131f0722b63dbcc4c162246fd7b69c288b5b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141485$796DCE0B-6FD9-450E-A3F1-EE604BBCC356",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1236503"
+          },
+          "hash": "c868d1329877150dbe8518f3fdbedb3fe224e22f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141485$418E261E-02BB-46DD-BA67-918F26B9B0B5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Cornelius Dolabella Arms.svg"
+          },
+          "hash": "bf86478c88fb9d3697f4f5a106aef1447e1fad5e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Politiker der frühen römischen Kaiserzeit"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 10 AD"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 10"
+    },
+    "it": {
+      "language": "it",
+      "value": "consule romano nel 10 d.C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    }
+  },
+  "id": "Q141485",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Корнелий Долабела"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Corneli Dolabel·la"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Cornelius Dolabella"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Κορνήλιος Δολαβέλλας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Cornelius Dolabella"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Cornelio Dolabela"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Cornelius Dolabella"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Publije Kornelije Dolabella"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publius Cornelius Dolabella"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Cornelio Dolabella il Giovane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プブリウス・コルネリウス・ドラベッラ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Cornelius Dolabella"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Cornelius Dolabella"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Cornélio Dolabela"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Cornélio Dolabela"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Publije Kornelije Dolabela"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Корнелій Долабелла"
+    }
+  },
+  "lastrevid": 17561360,
+  "modified": "2025-09-17T12:46:17Z",
+  "ns": 860,
+  "pageid": 169870,
+  "sitelinks": {},
+  "title": "Item:Q141485",
+  "type": "item"
+}

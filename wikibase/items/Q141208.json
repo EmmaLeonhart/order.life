@@ -1,0 +1,391 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Páll Jónsson"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q141208$A95F13D6-44A8-46A3-8E4C-D6253C57E196",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Jonsson-629"
+          },
+          "hash": "6e4379162e39a7df8c3764c4719bb968844696ee",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141208$41D9E08E-20F8-4FA1-B409-91FE93CEE04A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141208$B8902CAD-C657-4F34-9BA0-63FE78A604D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141208$E9DA87DF-3962-400C-B45D-AF706603C6F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139387",
+              "numeric-id": 139387
+            }
+          },
+          "hash": "cf3b842a873136769c33cc8d42dd1f5cfae9ca90",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141208$4BEA8FB0-8DCE-40A0-85FC-D5E7F32258B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143871",
+              "numeric-id": 143871
+            }
+          },
+          "hash": "c7769f9f1f70b94fb559a63d741a55ce492957c6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141208$1B1369BC-15D0-414E-A63A-38C473B2E242",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141208$D4BFF313-051D-4936-A5AB-F2540503B99D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1155-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6c6f7c7d3185ea7b16fc9a59cea65c5a7ce0e469",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141208$B04B0D9C-35BB-424B-8339-6BF75DD2C741",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1211-11-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e5cb6f86da027ef4d4dd6ad93327a772c751b5ed",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141208$EB1FE1B1-A035-447D-9A7C-E323F17239AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q471905"
+          },
+          "hash": "7b8c8d2ade3e975fe31a910e1df5c01abc912227",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q141208$E2109DBC-40E7-45B7-862C-77D3AE22CF69",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008060356693"
+          },
+          "hash": "23175f3bf2938c0cc667935947fef66c5871f341",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141208$E2817B2B-4A2F-4140-A701-FE7B603CCE1A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Páll Jónsson Arms.svg"
+          },
+          "hash": "8efb02c21ab35a3c086410b4c62bfedbcb585c42",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "قس آيسلندي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "sacerdote islandés (1155–1211)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "bisbe catòlic"
+    },
+    "da": {
+      "language": "da",
+      "value": "islandsk præst"
+    },
+    "de": {
+      "language": "de",
+      "value": "isländischer Geistlicher, Bischof von Skálholt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Catholic bishop"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo católico"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کشیش آیسلندی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "islantilainen katolinen piispa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque catholique"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "easpag Caitliceach"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կաթոլիկ եկեղեցու եպիսկոպոս"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "islandsk prest"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "priester uit IJsland (-1211)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "islandsk prest"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "islandzki kapłan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "епископ Скалхольта"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "isländsk präst"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римо-католицький єпископ"
+    }
+  },
+  "id": "Q141208",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Páll Jónsson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Páll Jónsson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Páll Jónsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Páll Jónsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Páll Jónsson"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Páll Jónsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Páll Jónsson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Páll Jónsson"
+    },
+    "is": {
+      "language": "is",
+      "value": "Páll Jónsson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Páll Jónsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Páll Jónsson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Páll Jónsson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Паль Йонссон"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Páll Jónsson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pall Jonsson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Páll Jónsson"
+    }
+  },
+  "lastrevid": 17560873,
+  "modified": "2025-09-17T12:38:41Z",
+  "ns": 860,
+  "pageid": 169593,
+  "sitelinks": {},
+  "title": "Item:Q141208",
+  "type": "item"
+}

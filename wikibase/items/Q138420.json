@@ -1,0 +1,756 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Scribonia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q72242$0996D673-5124-4F16-99A0-629E9D425745",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446757"
+          },
+          "hash": "8586c24c859fd7e8d79af0413058bf16e02dc498",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72242$DB995E01-547F-4B99-BE1B-E6C932334C4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70940",
+              "numeric-id": 70940
+            }
+          },
+          "hash": "b7f377615fe0d8f1c590314224bf03c84083e897",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$3CF8E3BC-CC6F-4D3F-9F44-04DF5EBE0943",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70949",
+              "numeric-id": 70949
+            }
+          },
+          "hash": "eb511b81a9dfd4ce3b05b4d42f0ac7a5aa6a4ebc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$48A459CA-A0D1-49E1-BAB3-230F3BD0DC56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72332",
+              "numeric-id": 72332
+            }
+          },
+          "hash": "c078e748e95ec42500d3367efdf3aadbb142dc01",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$35A53132-B1BB-41A0-8DCA-027B1AE2634D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139598",
+              "numeric-id": 139598
+            }
+          },
+          "hash": "a90db1594f20abc2fafdf4d3ac2e3c4947a66020",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$1510A96A-D410-46C4-AA4D-8DC423F026D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139597",
+              "numeric-id": 139597
+            }
+          },
+          "hash": "4928e97169b8aa7d7a75014197d3c5f7ec2fe8f4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72242$04F8BBC3-41DD-412F-B110-CD8FF13E4930",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$4AC56B96-AE54-43EB-9949-573A99107996",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$3de73f19-48df-7340-9bc7-8235c58d41ee",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153800",
+              "numeric-id": 153800
+            }
+          },
+          "hash": "3b66e417f1e200d14b1e40ba27fab7789c815575",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72242$D6038629-F568-4B5C-BAF2-B80D6E7CB881",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Scribonia_Unknown_(1)"
+          },
+          "hash": "71d45ed66daf49b7cfa7849721a12d08c320c510",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72242$A6768D9F-8D1B-40C0-A174-F76D7DF50941",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72245",
+              "numeric-id": 72245
+            }
+          },
+          "hash": "92d511fab587d80839ac964e22358b4e1e754702",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$719D2E4F-FAD2-48E1-ACDD-267ECC300ECE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72248",
+              "numeric-id": 72248
+            }
+          },
+          "hash": "722a62650ce5c394d5b2d6c4de65eca9120dcb08",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$B3889E64-3E7D-457C-9D44-7B9D63764901",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72529",
+              "numeric-id": 72529
+            }
+          },
+          "hash": "6e41e95de1364119ffd1c5cc96268cd7be1ab17b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$A5F485E4-F45C-44B2-AEBA-68E64BA4FB3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139594",
+              "numeric-id": 139594
+            }
+          },
+          "hash": "e543015cdf63abb69f22de60eb9543708a597b7f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$8C5959C7-3B75-407C-A906-5A02EEAA09CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139595",
+              "numeric-id": 139595
+            }
+          },
+          "hash": "75b49b5db6b0207b69106dd59569815136291954",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$CC43F391-9D2F-48ED-AB35-AB69BABADAEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139596",
+              "numeric-id": 139596
+            }
+          },
+          "hash": "0e657d3d196efc94ba9ab4ee2a9939aa6eb1ad63",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72242$5759C043-C921-40B6-A1AD-76501F02EE1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72272",
+              "numeric-id": 72272
+            }
+          },
+          "hash": "f79db3b8e50bda99adca8a9b085b40133129e90d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72242$51886DAF-98DC-4C22-89F3-A7B1E8095557",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72275",
+              "numeric-id": 72275
+            }
+          },
+          "hash": "917e07cb645d270156df2c85d4b8683eae90e17f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72242$B610E103-F24D-4A36-8576-B73BBE766CD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72242$D6CAF8C9-4E30-AFBC-7B1A-5078BBAD5A95",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-0070-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ee445f1099d91e66933f4b0818f5802b927b5e69",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$3BF4342C-7F5A-4D72-AC99-0583DC5839C7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0070-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eae8f974fbfc64d244ec1918892a186bad4b670e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72242$227A2266-4AEC-87BB-3B7F-39C66D901533",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0016-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c06f52aa940268c627d59e95f916b63fa1b87e4f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$C0342D47-9BAA-40D9-816F-7F103251FDAF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0016-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ff8c1730a4e2f07f79e78e6664698e5810e5316",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72242$9FB30C27-4A42-7413-2986-AE5C5097A4C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q233444"
+          },
+          "hash": "ee9210fc385eb2c52f87671a27c5a1f171c849d6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72242$8D4447A2-FDD7-4B4F-A43B-DBBDD0FD9DFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000700912476"
+          },
+          "hash": "1ab4497e9e96020e28ea035668779102636d1a20",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72242$28998738-C3F1-4D60-9CAE-9442E252DFD7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008218463991"
+          },
+          "hash": "2f11c0a42846dc2bcd64e4eb5ca4205b9c80da41",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q72242$8C34A398-EBE3-4A70-8EF7-CDD4B521EB18",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Scribonia"
+          },
+          "hash": "7a2ce2b94e1a986b7519f9174e33ba15c1ec52a3",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72242$AC006EBA-595B-4778-8EC2-D7356665B6A1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Scribonia Arms.svg"
+          },
+          "hash": "272b064f0a4ebbb7c36c20e07cd495de6a2a14c4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "druhá manželka římského císaře Augusta"
+    },
+    "de": {
+      "language": "de",
+      "value": "zweite Ehefrau des Augustus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman noblewoman, second wife of Augustus and mother of Julia the Elder"
+    },
+    "es": {
+      "language": "es",
+      "value": "segunda esposa del emperador Augusto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyenne romaine, fille de Lucius Scribonius Libo (préteur en 80 av. J.-C.)"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana, seconda moglie di Gaio Giulio Cesare Ottaviano, madre di Giulia Maggiore"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "tweede echtgenote van Octavianus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "żona Oktawiana Augusta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "вторая жена Октавиана Августа"
+    }
+  },
+  "id": "Q72242",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سكريبونيا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Скрибония"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Escribònia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Scribonia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Scribonia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Scribonia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σκριβωνία (σύζυγος του Οκταβιανού)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Scribonia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Skribonia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Escribonia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اسکریبونیا (همسر آگوستوس)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Scribonia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Scribonia"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Scribonia"
+    },
+    "he": {
+      "language": "he",
+      "value": "סקריבוניה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Scribonia"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Սքրիպոնիա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Scribonia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Scribonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スクリボニア"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სკრიბონია"
+    },
+    "la": {
+      "language": "la",
+      "value": "Scribonia"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Scribonia"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Scribonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Scribonia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Skrybonia I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Escribónia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Escribônia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Скрибония"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Skribonija"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Скрибонија"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Scribonia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Scribonia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Скрибонія"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "史克莉波妮亞"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "斯里柏尼娅"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "斯里柏尼娅"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "斯里柏尼婭"
+    }
+  },
+  "lastrevid": 17613952,
+  "modified": "2025-09-20T22:21:53Z",
+  "ns": 860,
+  "pageid": 87073,
+  "sitelinks": {},
+  "title": "Item:Q72242",
+  "type": "item"
+}

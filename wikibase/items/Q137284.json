@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ceretic of Elmet"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137284$3C128EB9-52C1-4CCD-9F49-A1D3BC0A3E24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137284$9135B37B-7BAD-447A-9F3C-5F6328134774",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137284$80D8DD2F-596F-4AF8-A218-70300C680D2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136882",
+              "numeric-id": 136882
+            }
+          },
+          "hash": "a0f0b0bbe8cf5b65f54f61be7a780721c06336f5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137284$C32289B1-6646-4B22-A1FD-9067F6A97EAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137284$FE59008C-FA15-467A-9DB5-06A94044C718",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0617-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0a473b37ff1e58b5115ed5ea479920693ea6ecf3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137284$7BCD0DC0-2C08-4C8E-AA2B-381E1EF0054D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2606192"
+          },
+          "hash": "19c72b71f3afc4533a8f7c2760c758e4fa60332f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137284$328D7BAC-007F-4043-AE3F-E56D00D576A2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ceretic of Elmet Arms.svg"
+          },
+          "hash": "7905bdf1f9a277f170ad37032d184fbad5f3a456",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "7th-century king in sub-Roman Britain"
+    }
+  },
+  "id": "Q137284",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Ceredig ap Gwallog"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ceredig ap Gwallog"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ceretic of Elmet"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ceretic of Elmet"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ceredig ap Gwallog"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ceredig ap Gwallog"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ceredig ap Gwallog"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ケレティク"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ceretic of Elmet"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кередиг ап Гваллог"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ceretic of Elmet"
+    }
+  },
+  "lastrevid": 17554493,
+  "modified": "2025-09-17T11:06:58Z",
+  "ns": 860,
+  "pageid": 165669,
+  "sitelinks": {},
+  "title": "Item:Q137284",
+  "type": "item"
+}

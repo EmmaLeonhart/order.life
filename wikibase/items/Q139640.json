@@ -1,0 +1,389 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Junius Blaesus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139640$241A7E3B-D7CF-401D-97EA-91B82F95EF57",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00801080"
+          },
+          "hash": "ca3477fcfe7a0ccce064b2b4feb55781417a1019",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139640$6E44F967-102C-4B6D-9F57-BDFE068D4A37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138439",
+              "numeric-id": 138439
+            }
+          },
+          "hash": "59c9966ed78a2f5770d5b4a2bee36aa3ba30e6fe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139640$FC74DBA1-6B8F-4832-8EDB-627783DA0192",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138443",
+              "numeric-id": 138443
+            }
+          },
+          "hash": "e92d16c8342335d99c84ae7888833b14e64edbe9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139640$52DFEB9C-5BE9-4843-A466-1EC46C179BD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139640$3B85B05A-32AE-49D9-8FBD-FC7FD23F9B8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139640$CDB33A76-F16E-41EF-A504-D024A0B49394",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141516",
+              "numeric-id": 141516
+            }
+          },
+          "hash": "94cd93b44dfa735a63816e8fa76d007628ae7c09",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139640$C733D698-8091-4954-B5C4-A217D580474A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139640$A7335571-05EA-4517-BCA5-AA81D6226EEC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139640$AB0FEC1E-5FE8-4FB3-88C6-48C5796CEDD8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "093131f0722b63dbcc4c162246fd7b69c288b5b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139640$3A4863A1-F0AA-4BB0-A163-499EC53B3580",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q761736"
+          },
+          "hash": "ab8a7ee5bc90c45882c068e5ceb5af90a2dd13e0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139640$A2218A73-0F5F-4E66-A092-D60276A0657A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Junius Blaesus Arms.svg"
+          },
+          "hash": "dee618faa745186bcbafb2d23af227920748471c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Юний Блез (на латински: Quintus Iunius Blaesus; † 31 г.) e политик и сенатор на ранната Римска империя през началото на 1 век"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "magistrat romà que va viure al segle i. Formava part de la gens Júnia, i portava el cognomen de Bles"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul 10"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman commander and proconsul during the reigns of Augustus and Tiberius, maternal uncle of Sejanus"
+    },
+    "es": {
+      "language": "es",
+      "value": "homo novus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 10"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "politikus és katona"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "、ローマ帝政初期の元老院議員、紀元10年の補充執政官"
+    },
+    "la": {
+      "language": "la",
+      "value": "post annum 31) senator Romanus temporibus Augusti et Tiberii imperatorum fuit"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "senador romano nomeado cônsul sufecto em 10 com Sérvio Cornélio Lêntulo Maluginense"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "senador romano nomeado cônsul sufecto em 10 com Sérvio Cornélio Lêntulo Maluginense"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул-суффект 10 года н. э."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Юній Блез (лат"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "政治人物和軍人"
+    }
+  },
+  "id": "Q139640",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Юний Блез"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Juni Bles"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Iunius Blaesus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Ιούνιος Βλαίσος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Junius Blaesus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Junio Bleso"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Junius Blaesus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quinto Junio Bleso"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Giunio Bleso"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・ユニウス・ブラエスス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Iunius Blaesus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Junius Blaesus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Júnio Bleso"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Júnio Bleso"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Юний Блез"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Junius Blaesus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Юній Блез"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "贝尔苏斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "贝尔苏斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "貝爾蘇斯"
+    }
+  },
+  "lastrevid": 17558229,
+  "modified": "2025-09-17T12:00:02Z",
+  "ns": 860,
+  "pageid": 168025,
+  "sitelinks": {},
+  "title": "Item:Q139640",
+  "type": "item"
+}

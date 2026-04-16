@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antistia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141392$406F9867-1E5C-4C1D-AF66-7F7D64145665",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735602"
+          },
+          "hash": "5b8e279d685b6bf4aa943e8906d9e43e98871655",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141392$D071CC58-8107-4579-8E47-C3A4A9559300",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139547",
+              "numeric-id": 139547
+            }
+          },
+          "hash": "9659e1c5f2a94097c2eb0574510f36cd17461ce4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141392$53DB18C4-58FA-4C6E-8D2A-F2BA617C86BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139549",
+              "numeric-id": 139549
+            }
+          },
+          "hash": "1bef5b1d17ae61bd8ab4fdf0d9def5416a2b95e7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141392$1E276D3D-8BFC-44E4-858E-77C7DEBC2050",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139548",
+              "numeric-id": 139548
+            }
+          },
+          "hash": "b1324037615b638c905a31aa2a8ebb50f36d451b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141392$F9621E00-F570-4229-B324-1239C1AFF586",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141392$70F58F1F-2A24-49AC-9A6E-43D4CA159219",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141392$7AF720B2-10F4-4469-9674-A788EE54A15A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78393",
+              "numeric-id": 78393
+            }
+          },
+          "hash": "6ccc4faa6eac18c4986d5405fac5d59360d10b3d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141392$93A44513-6FFD-4D52-9F43-8207441CDF71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141392$7F387B09-CA17-4E5C-977C-23DDC5B955F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141392$68A04913-2347-4F24-A59F-85270C46849E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q583523"
+          },
+          "hash": "65ec85ef8075b645aac1cde0d69c66c94039b7ae",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141392$F723B4DE-E458-4AD8-BB23-5E835941D949",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antistia Arms.svg"
+          },
+          "hash": "608273a711bbdfc6cc0b23d3a184434fd04b4c66",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Römerin, Ehefrau von Appius Claudius Pulcher"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Appius Claudius Pulcher"
+    },
+    "es": {
+      "language": "es",
+      "value": "ciudadana romana, esposa de Apio Claudio Pulcro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyenne romaine, épouse d'Appius Claudius Pulcher"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Romeinse matrona, echtgenote van Appius Claudius Pulcher"
+    }
+  },
+  "id": "Q141392",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Antistia"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антисция (съпруга на Апий Клавдий Пулхер)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antistia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντιστία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antistia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antistia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antistia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antistia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антистия"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antistia"
+    }
+  },
+  "lastrevid": 17561204,
+  "modified": "2025-09-17T12:43:54Z",
+  "ns": 860,
+  "pageid": 169777,
+  "sitelinks": {},
+  "title": "Item:Q141392",
+  "type": "item"
+}

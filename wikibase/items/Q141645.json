@@ -1,0 +1,403 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Cornelius Scipio Nasica"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141645$FD003D0C-184C-451D-8579-6382D1687357",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735590"
+          },
+          "hash": "f5e258aff866198e2a346aa6df06892a42977cb3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141645$BEA51EA1-BDFF-4C28-9246-A0E642ACEA8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139740",
+              "numeric-id": 139740
+            }
+          },
+          "hash": "f3f50841b34d8b9d6740d8acb7c01e597c9465bc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141645$35A1FF1D-00DC-4C5E-985B-A53DE72CF879",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141648",
+              "numeric-id": 141648
+            }
+          },
+          "hash": "ace2d85af3722fdd1537d504b1844556f11f8ee5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141645$06340CFC-540F-4ACE-A98B-8808EE8754F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141645$E56F3186-600B-4E1B-BA3E-8AE2AC7AADF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141645$F8D0EE70-C227-4D6C-B82F-F043E41E729D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141647",
+              "numeric-id": 141647
+            }
+          },
+          "hash": "dcb7b07af1b8b05115f5640ec695320f4425b3e8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141645$EA9B17B9-D276-4EC7-855A-D50A77961211",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144067",
+              "numeric-id": 144067
+            }
+          },
+          "hash": "ec3004d9542bc21932df6aff01d4ab1b63229585",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141645$5621332E-6C2B-43DC-885E-BD58DBE3EB41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141404",
+              "numeric-id": 141404
+            }
+          },
+          "hash": "a03817aaf277b74bc1da1b07981b407b3e70b874",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141645$22E93D3E-BACE-4A1E-8A44-F4949B3A4B19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141645$76B2F928-D8F7-4589-AC80-834650E062B7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141645$D8CE9CD6-5CFF-4A3B-BEA9-2008381D7A68",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141645$B7A88EF1-E0E0-45D5-9411-F74B86C70F81",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1241384"
+          },
+          "hash": "5860a1090e98d7aea15d135df2e6fa82c0807034",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141645$B2B85FAD-DEAB-46D3-AC30-46298F72A750",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Cornelius Scipio Nasica Arms.svg"
+          },
+          "hash": "d05c65f2e807c30913a3f614a92fff3194614cdc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "pretor el 93 aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Prätor 93 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "pretor romano a principios del siglo I a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préteur romain en 93 av. J.-C."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kr. e. 93"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano, pretore nel 93 a.C."
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політик"
+    }
+  },
+  "id": "Q141645",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Корнелий Сципион Назика"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Corneli Escipió Nasica"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Cornelius Scipio Nasica"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Κορνήλιος Σκιπίων Νασίκα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Cornelius Scipio Nasica"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Cornelio Escipión Nasica"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Cornelius Scipio Nasica"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publius Cornelius Scipio Nasica"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Cornelio Scipione Nasica"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Cornelius Scipio Nasica"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Cornelius Scipio Nasica"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Корнелий Сципион Назика"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Корнелій Сципіон Назіка"
+    }
+  },
+  "lastrevid": 17561618,
+  "modified": "2025-09-17T12:49:55Z",
+  "ns": 860,
+  "pageid": 170030,
+  "sitelinks": {},
+  "title": "Item:Q141645",
+  "type": "item"
+}

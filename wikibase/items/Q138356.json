@@ -1,0 +1,315 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agesipolis"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138356$4BF508D9-C5BF-4249-B2B0-C8031D60DCB6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1028106"
+          },
+          "hash": "145dd676c28a1cd28aa24c62c97403d2b7b74282",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138356$049ECF0D-E380-478E-8726-13D398F51DE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139510",
+              "numeric-id": 139510
+            }
+          },
+          "hash": "7ac5cf0d3e148ffd1d214f863718777d70d14533",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138356$2094B148-4A64-4AB3-A861-F5A255CC9115",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138356$6EF9FBDA-95D8-46B9-ADBB-F90DAA89A32B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138356$CFAD6E28-70C4-47DF-8321-5545AD68CEB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138355",
+              "numeric-id": 138355
+            }
+          },
+          "hash": "738443e94a538fe1525a29c4f29d8441703c6ebf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138356$BF55ABDA-3CFA-4BCA-AB7D-2281FCEFA7B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137640",
+              "numeric-id": 137640
+            }
+          },
+          "hash": "c4599e740fe93cd48f015511e04a0944b067809f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138356$E6249BCA-1CF6-4612-BA6E-5B3208C35A34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138356$E135C33C-E5F8-463E-9DDC-D2C77B89B4F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138356$B50F7C62-E1DC-4C53-B67D-0782EC6F34BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0240-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9aa27b0bd3c4742f2591c63b995517414604c5b6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138356$EAB4B54C-9899-4690-8BE3-91DEEC241105",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q393058"
+          },
+          "hash": "4886b2b8622882785ea84960d38bd599b6384e9f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138356$0172B156-6CBF-400B-95C7-64DC6C34B991",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agesipolis Arms.svg"
+          },
+          "hash": "c727503966bbb50cacb72110c44ffe5066718c8b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Spartaner, Sohn von Kleombrotos II."
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Cleombrotus II of Sparta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince spartiate, fils de Cléombrote II et de Chélonis"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Cleombroto II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "zoon van Cleombrotus"
+    }
+  },
+  "id": "Q138356",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Agesipolis"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Agesipolis"
+    },
+    "de": {
+      "language": "de",
+      "value": "Agesipolis"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agesipolis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Agesipolis"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agésipolis"
+    },
+    "it": {
+      "language": "it",
+      "value": "Agesipoli"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Agesipolis"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агесиполид"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Agesipolis"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Agesipolis"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Агесіполід"
+    }
+  },
+  "lastrevid": 17556157,
+  "modified": "2025-09-17T11:30:41Z",
+  "ns": 860,
+  "pageid": 166741,
+  "sitelinks": {},
+  "title": "Item:Q138356",
+  "type": "item"
+}

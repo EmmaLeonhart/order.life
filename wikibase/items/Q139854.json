@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Anastasia"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q139854$44AF0FBE-253C-4BF0-989E-CA9A3AD1E21D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139854$CBE8B13A-41D2-49C0-B21B-D65B4185BCBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139854$99EA1E97-F8B5-46B1-8FC9-FCEF0681ADE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123622",
+              "numeric-id": 123622
+            }
+          },
+          "hash": "eebdd3d94a00f365749249fc02596798dee802b0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139854$4834FDDC-BDD3-46F9-9C6D-09C764BBB3A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139852",
+              "numeric-id": 139852
+            }
+          },
+          "hash": "38a5adeb3526a64797b82174d1dc03e46b71249c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139854$BB665F21-F453-491A-8533-7892517FBA3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139854$7E8BFAE7-4837-494C-B182-A56FABFEC010",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139854$000A900F-B2AF-46C4-A091-B485608D9C32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4064906"
+          },
+          "hash": "cfab674ffba9e57e9604afa848d5ff4506fe9c74",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139854$963C3DD2-0F53-43B9-AA73-EF85B8184D54",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Anastasia Arms.svg"
+          },
+          "hash": "e401ddffce2962cf4f57a3a01abb88694f69dfc6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "alleged daughter of Roman emperor Valens"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь Валента II"
+    }
+  },
+  "id": "Q139854",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Anastasia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Anastasia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Анастасия"
+    }
+  },
+  "lastrevid": 17558569,
+  "modified": "2025-09-17T12:04:51Z",
+  "ns": 860,
+  "pageid": 168239,
+  "sitelinks": {},
+  "title": "Item:Q139854",
+  "type": "item"
+}

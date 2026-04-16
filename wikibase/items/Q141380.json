@@ -1,0 +1,305 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Claudius Marcellus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141380$0295B594-9DA5-4219-AD39-00D5FA99F722",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139535",
+              "numeric-id": 139535
+            }
+          },
+          "hash": "6a5743ff07c88eea070973485dea4ad6029104cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141380$E3C46DEA-DA54-4C00-8A3C-9AB62BD446B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141450",
+              "numeric-id": 141450
+            }
+          },
+          "hash": "4c09cb808332dd8657ffc3f2a2331fec238d7528",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141380$943CA6F9-EF3D-4DBE-A220-941DB2B95A11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144039",
+              "numeric-id": 144039
+            }
+          },
+          "hash": "e0292d22dd9b05b355548975d906861cf1853429",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141380$EA349FD8-D639-4B65-888D-B2EB248921EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144038",
+              "numeric-id": 144038
+            }
+          },
+          "hash": "094dd3aaa87f074d677e7534240dc97be5a075ee",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141380$311C9582-7CAF-498D-BFB8-8CC6FFA56937",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141380$30BC0844-6890-430D-A9FE-65E8E75BF702",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141380$677F0EDF-F97A-4D0D-9EF2-114BAE197FDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141380$BD3D0FDF-691D-4E72-B7C7-56DEB04C434D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141380$A33EA253-1DFB-416A-891F-9B5E26C02238",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q357148"
+          },
+          "hash": "e3db566e5e7fa4aa1f288b93ca547c05125b1049",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141380$52FF1FAE-C32E-4CD2-8958-5E74416FB643",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Claudius Marcellus Arms.svg"
+          },
+          "hash": "f6086e2b2bb2822527181199544a4c9c8038649b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Prätor"
+    },
+    "en": {
+      "language": "en",
+      "value": "legate of Marius in 90 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "pretor romano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "militaire romain"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kr. e. 102"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (150v Chr-81v Chr)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский легат, около 150 — после 81 года до н. э."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політичний, військовий діяч, красномовець Римської республіки, легат Гая Марія у 90 році до н. е."
+    }
+  },
+  "id": "Q141380",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Клавдий Марцел"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Claudi Marcel"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Claudio Marcelo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Claudio Marcelo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Claudio Marcello"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Клавдий Марцелл"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Клавдій Марцелл"
+    }
+  },
+  "lastrevid": 17561182,
+  "modified": "2025-09-17T12:43:35Z",
+  "ns": 860,
+  "pageid": 169765,
+  "sitelinks": {},
+  "title": "Item:Q141380",
+  "type": "item"
+}

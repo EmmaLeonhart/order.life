@@ -1,0 +1,413 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pacorus I of Parthia"
+      }
+    ],
+    "fa": [
+      {
+        "language": "fa",
+        "value": "پاکور یکم پارتی"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137169$0F387D05-FA8B-40DF-A004-AD173F3389CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00717528"
+          },
+          "hash": "aaca9b12d12019b48d214888595e03808c04649d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137169$FEEDDDF6-619A-4654-91F1-0FB9D604D329",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137169$27B4C64E-E555-404F-AA7E-8C535EE6F629",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137169$CE640F34-841D-4BF2-B8C2-F49E84C78155",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pacorus_I_of_Parthia_(1)"
+          },
+          "hash": "282e2df888fbf9fe4133e9af29ea99acda234627",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137169$ACE08ABF-A941-4580-8C7D-0C869EDDB796",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137168",
+              "numeric-id": 137168
+            }
+          },
+          "hash": "b70dcc8955480f4cdcb69df904784f571ebf4e9f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137169$2B8ED339-FCF2-48B9-8195-DFC8F8312176",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136755",
+              "numeric-id": 136755
+            }
+          },
+          "hash": "be3702d7a50ff5de25cce0dee9f9b83d4e9d4aa7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137169$DB35B724-6594-42F9-B0E9-1CFDAB235658",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137169$A148066C-56DB-40A8-A1D4-BBF322D330A7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0067-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "03f1c1719096bcad99f42b2fd1354a1a4feddd5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137169$B082F78C-FFB9-48E6-AC6F-1E9FF9507EF9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0038-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5ccdd2859df9d63fbb2248292edffdb85578679d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137169$793F9A41-4270-4161-B947-D444173FF2C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q358097"
+          },
+          "hash": "bcdabda905ead5b4ec16ddd0de58cd1852fc9efd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137169$5B776453-6434-4BE0-A6DF-68D06DF763FA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pacorus I of Parthia Arms.svg"
+          },
+          "hash": "2c73c315d28f562016631a9862c740904328de52",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Sohn von Orodes II."
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of the Parthian Empire (died 38 BC)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاهزاده اشکانی از ۶۳ تا ۳۸ پ.م."
+    },
+    "it": {
+      "language": "it",
+      "value": "principe partico"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Partów"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Парфии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Partherriket"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Part prensi (ö. 38 MÖ)"
+    }
+  },
+  "id": "Q137169",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "باكورس الاول من بارثيا"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیرینجی پاکور پارتی"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Пакор I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pacoros I de Pàrtia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pakoros I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Πάκωρος Α΄ της Παρθίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pacorus I of Parthia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pacoro I de Partia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Pakorus I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پاکور یکم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pakoros I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pacorus Ier"
+    },
+    "he": {
+      "language": "he",
+      "value": "פקורוס הראשון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Pakor I. Partski"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Բակուր"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pacoro I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "パコルス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პაკორ I"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "پاکور اول"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Pacorus I av Parthia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pacorus I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pakorus I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pácoro I da Pártia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pácoro I da Pártia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пакор I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pakor I od Partije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pakor I."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pacorus I"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Покури I"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Pakorus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Пакор I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Pacorus I của Parthia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "帕科鲁斯"
+    }
+  },
+  "lastrevid": 17554297,
+  "modified": "2025-09-17T11:04:11Z",
+  "ns": 860,
+  "pageid": 165554,
+  "sitelinks": {},
+  "title": "Item:Q137169",
+  "type": "item"
+}

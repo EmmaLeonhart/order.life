@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jonet ferch Thomas ap Philip ab Adam Fychan of Y Grysmwnt"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q140562$206D89AC-F53E-44BA-A96E-7D972B69CF00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00707738"
+          },
+          "hash": "991fc8105113026966c90858b779442b5515e77e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140562$111CD231-1F72-469E-8F81-95EF1AB9D80D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138994",
+              "numeric-id": 138994
+            }
+          },
+          "hash": "b0aa20244446a99c04ff0d89ccb8edbbde548799",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q140562$2AAB3BD6-72AE-408E-9886-15E76FF056EC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ferch_Thomas-5"
+          },
+          "hash": "04e2dfb0feda5533b253c0b8cbe9107ba6f17ba7",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140562$D39953D9-89CA-411A-BFFF-B077C9A24489",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140562$71309774-C710-4721-A22A-68AA163F0D3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q140562$125F0E7F-AF69-452E-9480-A8252E3DAE41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138026",
+              "numeric-id": 138026
+            }
+          },
+          "hash": "f2423220cff391c73c56641dba2a7fc3a3d11dd0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140562$2A247637-2551-433E-9716-44D130AA3AEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142880",
+              "numeric-id": 142880
+            }
+          },
+          "hash": "3e921a7f483b54530806e5cd186836cbec409143",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140562$E98216C1-E6D8-4383-B6C0-1D96FFA4DC6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q140562$C124D473-1D22-456A-ADC2-5A41A2A2C644",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1324-11-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9291b44d1b80ccc57ca7fbf31b93894083669208",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q140562$37D72AEB-1182-44D5-B067-3F51D6F86267",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1345-11-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "11e7b417bc975c1a4844afa387a8bb3f3fc2c3df",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140562$E90AB8BD-DBCE-495E-B130-3004052B1071",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99084489"
+          },
+          "hash": "4c0a2d4b352c80f7164751e76cd2849de4d2f2ed",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140562$E67A96EB-0670-46F7-9300-5388DDEEB9AE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jonet ferch Thomas ap Philip ab Adam Fychan of Y Grysmwnt Arms.svg"
+          },
+          "hash": "a69b196b316e3326855e8d9191351d8557815968",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1325-1346)"
+    }
+  },
+  "id": "Q140562",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jonet ferch Thomas ap Philip ab Adam Fychan of Y Grysmwnt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jonet ferch Thomas ap Philip ab Adam Fychan of Y Grysmwnt"
+    }
+  },
+  "lastrevid": 17559951,
+  "modified": "2025-09-17T12:25:06Z",
+  "ns": 860,
+  "pageid": 168947,
+  "sitelinks": {},
+  "title": "Item:Q140562",
+  "type": "item"
+}

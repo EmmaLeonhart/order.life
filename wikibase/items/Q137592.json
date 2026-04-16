@@ -1,0 +1,710 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pepin, Count of Vermandois"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Pépin II, seigneur de Péronne"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137592$3AA57239-6683-4212-AAF9-88A4137AB572",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8671"
+          },
+          "hash": "cca2ac9409a8695f157ba9b19434a1fdf7d421bd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q137592$195FE411-ACED-4BEB-8932-DB5725F86024",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020185"
+          },
+          "hash": "38ee94d897f8492b9acdc52d3d0a5226a454bf12",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137592$23D71EDE-D6B7-472A-B461-7DA4128A4172",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113846",
+              "numeric-id": 113846
+            }
+          },
+          "hash": "b0518e0a11eff62f7a732f56f8d9e954f02bfca5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137592$E22180DE-C514-4BFE-AE38-B9C39BECCAC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116166",
+              "numeric-id": 116166
+            }
+          },
+          "hash": "c8cffcdc202710343b6c0b36f56266011e298109",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137592$9B2845B9-F9DF-4654-9A7A-2A1EB0EB1984",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116164",
+              "numeric-id": 116164
+            }
+          },
+          "hash": "cdf45714e732d244a10c1a4ab3371c03b93ea24f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137592$F14AD570-B568-4D69-B5BD-91DFF0F40CDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q206172",
+              "numeric-id": 206172
+            }
+          },
+          "hash": "b9418d94c16d1a169986dfcb9db5af31b4df2c17",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137592$3714BFD0-EA82-4FB5-8392-25CEE8F38A98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q207431",
+              "numeric-id": 207431
+            }
+          },
+          "hash": "4c3a8fa830d77ac7b0a3f8e3a09ab14470881efe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137592$06125E2E-3BFD-4122-A597-BE9B556844D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q206106",
+              "numeric-id": 206106
+            }
+          },
+          "hash": "0e4aa4d6a2a627386cf7520f325e07075efcabb5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137592$55A900D0-87FF-4CB2-8C4C-B4DC734CFDF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q205485",
+              "numeric-id": 205485
+            }
+          },
+          "hash": "4cb45d12b1d5ad4c89b2a08d8431becd7596a7c7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q137592$1ED035B2-333F-4354-89A1-A9A00D1B8B06",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "LCZN-T6T"
+          },
+          "hash": "8452ed5f13dd56d39eadb2457d93b031dff615f6",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q137592$23CA98B1-0058-406D-8E1D-477AC4871936",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Vermandois-246"
+          },
+          "hash": "c3f97b2acaa74ff2da3ad3b1c5fe205128835cb4",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137592$BFE395E3-8805-4C45-9DD9-D4E765DD6165",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137592$5E531E92-E923-4AC6-8FB3-872373D50BA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137592$D9FF64DA-37D5-42B0-9E13-5963F331AEFF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pepin d'Italie_(1)"
+          },
+          "hash": "89f460cd225084d68256ab5e545c891c927ea234",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137592$61A9A382-77D6-4432-963E-C507208B0DB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116162",
+              "numeric-id": 116162
+            }
+          },
+          "hash": "dac9ccd6c249fdfd030b20794c6a60d9e6a04f46",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137592$B914E4BE-553C-46A8-A206-AA5064BB4121",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q206597",
+              "numeric-id": 206597
+            }
+          },
+          "hash": "c1294c0f1c2f8d89cc2f9db5a782a059aec0c2ce",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q137592$0DF5B030-BE3A-4CCF-875A-6F5BD32EFEAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p64.htm#i636"
+          },
+          "hash": "def529e6fe20b85a81eb537be87c392aaa382a1f",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137592$6CE6BA57-8813-46FE-B226-AE6155A58907",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q115552",
+              "numeric-id": 115552
+            }
+          },
+          "hash": "3caa2afb10a086bd6e6db459db916043054cc5d8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137592$DC007EE1-7C22-4AEB-99F9-CF13A639E3EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118973",
+              "numeric-id": 118973
+            }
+          },
+          "hash": "38c9eafb919f0623b246dd24dc38fdb812531712",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137592$29ABC00F-15C0-4E0D-8632-46DBC0EAA83D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q205174",
+              "numeric-id": 205174
+            }
+          },
+          "hash": "6d69eda57247f71a4fb66312cba9bbb2a0244495",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137592$027C1EF0-463C-4D51-B722-7986C88D1A95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137592$509B009A-A161-464F-8A23-643DFFCBD13C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0815-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9fd24088264cc521b131878869348d46425f9c6b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137592$C11A0CEA-7FD1-40AF-9187-37B6336D47C3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0900-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "03bd423e5964d2e9339bfa3495c7d90af695a4a8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137592$C8A476D3-398E-4E74-AE6A-3A48DDEE1F77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q559062"
+          },
+          "hash": "125b3dca77af851b4d6b001ad3f66ce4595b0024",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q137592$091AC513-5541-4D8D-A6B4-FB3AFB0A2114",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000172841572"
+          },
+          "hash": "276632c1ae80c8dea7e228dfc3773f1b40a2834f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q137592$0B97780F-0916-4B89-8085-561F3664480C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=pepin;n=de vermandois;oc=2"
+          },
+          "hash": "8b6fed62c53a5d95397fee2a26dbc55e836e874a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q137592$5FB7B414-D64E-4EC7-8994-442A6E21EE8E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.7757"
+          },
+          "hash": "431b53f9642ee36f8cf61d064ea6ec871a242527",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137592$CEE06EF0-A526-4A10-95E3-259E036D4C60",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pepin, Count of Vermandois Arms.svg"
+          },
+          "hash": "8f9c810f17bea731a879c612f233f6afbb0a391a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "Frankiese adelike"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "hrabě z Vermandois 9. století"
+    },
+    "da": {
+      "language": "da",
+      "value": "fransk adelsmand"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pippin, Sohn König Bernhards von Italien, Karolinger"
+    },
+    "en": {
+      "language": "en",
+      "value": "9th-century Count of Vermandois"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sin Bernarda, kralja Italije"
+    },
+    "it": {
+      "language": "it",
+      "value": "conte di Vermandois"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сеньор Санлиса"
+    }
+  },
+  "id": "Q137592",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Pepyn van Vermandois"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بيبين، كونت فرماندوا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Піпін I дэ Вермандуа"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Пипин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pipí de Péronne"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pipin z Vermandois"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pepin de Vermandois"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pippin"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πεπίνος, κόμης του Βερμαντουά"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pepin, Count of Vermandois"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pepin, Count of Vermandois"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pepin, Count of Vermandois"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pipino de Vermandois"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pépin"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Pipin, grof Vermandoisa"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pepin, Count of Vermandois"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pépin, Pangeran Vermandois"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pipino I di Vermandois"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ピピン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "피핀 2세"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pepijn van Vermandois"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pepin de Péronne"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pepino de Vermandois"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pepino de Vermandois"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Pepin de Vermandois"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пипин I де Вермандуа"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pippin av Vermandois"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Pepeyn van Vermandois"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "韦尔芒杜瓦伯爵丕平"
+    }
+  },
+  "lastrevid": 17554965,
+  "modified": "2025-09-17T11:13:34Z",
+  "ns": 860,
+  "pageid": 165977,
+  "sitelinks": {},
+  "title": "Item:Q137592",
+  "type": "item"
+}

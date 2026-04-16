@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hwfa ap Cynwrig ap Rhiwallon ap Dingad"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137441$9FF972D5-4E7D-4634-AD8C-37CA641DC74A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00759342"
+          },
+          "hash": "a5ac4046de6792e226faefa0cfb2b4d39daa4732",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137441$CF6075B1-6994-4C1E-B762-BF180E621F79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138102",
+              "numeric-id": 138102
+            }
+          },
+          "hash": "02c7536c01e5aa9422b4cbb30e732c41ab5dfe6f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q137441$61BB450C-5E6F-43D3-A0A0-3F8994E3FB6A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Cynwrig-24"
+          },
+          "hash": "0e4e5f0a17f3399ed99df86e4dfd9fbf65c90cd8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137441$63D4D088-7B0B-4425-B909-23FDAB8330CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137441$67F350F7-E7F2-4608-B434-649F6BA148D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137441$A6CEA8EE-A486-4A3E-BC06-88C185660E39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136992",
+              "numeric-id": 136992
+            }
+          },
+          "hash": "4642b0adee7303525f9002b21e688bec09dd6d12",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137441$B4485438-0AF6-47FE-A336-15AB41BD1588",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138096",
+              "numeric-id": 138096
+            }
+          },
+          "hash": "255a7a46ff32854b62c24434204098344ee55e0f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137441$C13C6DCB-BE71-4DE7-991B-96E8EF928EAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137441$9B339FD5-E440-461C-9576-D711322DDE07",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1130-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16c81f4c995c5dfb15be6ce4996341ca3801bd58",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137441$B1D2BC54-8C20-4857-AAB9-D755AA80CF84",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110662892"
+          },
+          "hash": "e7c6c9dd80c88565595c5b0d1d0cba9ffa4864c5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137441$8A2FA4A7-62C2-43C7-BEBD-CE047D091005",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Hwfa ap Cynwrig ap Rhiwallon ap Dingad"
+          },
+          "hash": "e4de81ca8ebb43f7e5fcc06aecc7428c975e4986",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137441$2233F0CF-38BC-4F5A-9DD5-AF8B08FC76CE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hwfa ap Cynwrig ap Rhiwallon ap Dingad Arms.svg"
+          },
+          "hash": "8f5f33e956178f5ff0bb4825929b36c206418b70",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1130 -"
+    }
+  },
+  "id": "Q137441",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hwfa ap Cynwrig ap Rhiwallon ap Dingad"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Hwfa ap Cynwrig ap Rhiwallon ap Dingad"
+    }
+  },
+  "lastrevid": 17554807,
+  "modified": "2025-09-17T11:11:20Z",
+  "ns": 860,
+  "pageid": 165826,
+  "sitelinks": {},
+  "title": "Item:Q137441",
+  "type": "item"
+}

@@ -1,0 +1,390 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tigranes IV"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138370$4C2ECA6B-3F9D-46DF-B3F9-BB61281945B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738117"
+          },
+          "hash": "6bc033d293c2d287b1fcb3fed1ebe081524185d9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138370$AF598700-28BF-4FED-90AD-9EA330D7D47D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138370$4F6E9CCE-D20D-48FB-9433-0D526510CB6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138370$6415AB27-0454-4A30-A7F7-1E90B480DCCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138371",
+              "numeric-id": 138371
+            }
+          },
+          "hash": "a52bd5412778c9eb7f9c0c6705fd632543786838",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138370$558A7EAE-E4F4-4370-B094-2D4EA6A73B8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137652",
+              "numeric-id": 137652
+            }
+          },
+          "hash": "cff7501efbfb207ece686da4eaaac33a0094bb4d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138370$03A870B2-BF1F-4569-86AC-069BE689BBA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138370$6E6C89B4-8A6E-4B9E-BDE1-26EF4771A106",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0035-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b2ea7477e1bac19d055df3941e15cf3b375fb477",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138370$96A0B304-D082-4F3A-B7F3-CCE500893EBF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aeadc470c76de18d73f3b016a929b758575aa3fa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138370$A0B1BE37-60A3-4FA7-A56B-EEEBE1F7FB81",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2357126"
+          },
+          "hash": "755d77a1538e80190ea7d3c2be8a9587844ce42a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138370$DDE51A6B-92D2-4FE4-B489-A782913EE094",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tigranes IV Arms.svg"
+          },
+          "hash": "1596083843a3fae366de4cb1d1cd49d101f63a38",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "soberanu armeniu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Armenian sovereign"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Arménie"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "tiarna Airméanach"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "örmény uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "re d'Armenia (r. 8-5 a.C., 2 a.C. - 1 d.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Armenië"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Великой Армении"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Armenien"
+    }
+  },
+  "id": "Q138370",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ديكرانوس الرابع"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ديكرانوس الرابع"
+    },
+    "avk": {
+      "language": "avk",
+      "value": "Tigranes IV"
+    },
+    "az": {
+      "language": "az",
+      "value": "IV Tiqran"
+    },
+    "be": {
+      "language": "be",
+      "value": "Тыгран IV"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Тигран IV"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tigranes IV d'Armènia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tigranes IV"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τιγράνης Δ΄ της Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tigranes IV"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Tigranes IV"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Tigranes IV"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tigranes IV de Armenia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تیگران چهارم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tigrane IV"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tigranes IV"
+    },
+    "he": {
+      "language": "he",
+      "value": "טיגראנס הרביעי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IV. Tigranész"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Տիգրան Դ"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tigrane IV"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ティグラネス4世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ტიგრან IV"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "IV Тигран"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tigranes IV"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tigranes IV"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tigranes IV"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tigranes IV"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тигран IV"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tigranes IV av Armenien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тигран IV"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "提格蘭四世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "提格蘭四世"
+    }
+  },
+  "lastrevid": 17556181,
+  "modified": "2025-09-17T11:31:00Z",
+  "ns": 860,
+  "pageid": 166755,
+  "sitelinks": {},
+  "title": "Item:Q138370",
+  "type": "item"
+}

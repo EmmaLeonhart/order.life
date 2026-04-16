@@ -1,0 +1,319 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Domitius Ahenobarbus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139711$9D5CA617-5965-436C-A277-D25C01BC200C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735895"
+          },
+          "hash": "665fb643efaff3a8cd1f9b578145cbe1b440236f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139711$1B9F4ED8-92C8-4B1F-85F0-4B9F550AB057",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139711$C53B695F-98E6-444F-81E4-E35B8784FCC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139711$8FC2400D-42A6-4A69-A21C-D5D70F730A76",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus_Domitius_Ahenobarbus_(died_81_BC)_(1)"
+          },
+          "hash": "a10994897c9b04acaa4e66bd866ee4af5ca7a485",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139711$D1D0F862-8FDB-45F3-AA61-10CC1E57032B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138488",
+              "numeric-id": 138488
+            }
+          },
+          "hash": "95e4520eb183883cf6d5c1cb10d97c69f0042a54",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139711$EDDF64D0-6EFE-49CA-A41C-E9770E3C7D07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141377",
+              "numeric-id": 141377
+            }
+          },
+          "hash": "0ba7192439a0d7438ab6023d9bb45c7651b46275",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139711$0F14A702-D9BE-4009-8F47-601470A9FCDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139711$F6BD84A6-19F6-4E60-A5EE-2DEE54109689",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0110-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a2e21fcfe407cca43c862cdb022b9bb4756bda4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139711$0D9E351F-DCE3-4F01-8A9B-776A12D56276",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0081-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dfade4dbb94dccd0674d0302a6a85b9e3b324dfc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139711$ECDEAC2F-D3D5-4261-A578-7E339BCE32F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q579263"
+          },
+          "hash": "6d69181c59ba65484c8fa000ddfbe2801210ec52",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139711$E9BFDEB0-A90A-4D3F-A760-CDE531A54E21",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Domitius Ahenobarbus Arms.svg"
+          },
+          "hash": "53ef9f01019199802aef96ad81d8b89e35efc33c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Marian supporter"
+    },
+    "es": {
+      "language": "es",
+      "value": "político de la Antigua Roma"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain, tué en 81 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "praetor in Sicilia"
+    }
+  },
+  "id": "Q139711",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гней Домиций Ахенобарб"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gneu Domici Ahenobarb"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γναίος Δομίτιος Αηνόβαρβος V (απεβ. 81 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Domicio Enobarbo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Domitius Ahenobarbus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cnaeus Domitius Ahenobarbus"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グナエウス・ドミティウス・アヘノバルブス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Domitius Ahenobarbus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaius Domitius Ahenobarbus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cneu Domício Enobarbo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cneu Domício Enobarbo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гней Домиций Агенобарб"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Доміцій Агенобарб"
+    }
+  },
+  "lastrevid": 17558351,
+  "modified": "2025-09-17T12:01:46Z",
+  "ns": 860,
+  "pageid": 168096,
+  "sitelinks": {},
+  "title": "Item:Q139711",
+  "type": "item"
+}

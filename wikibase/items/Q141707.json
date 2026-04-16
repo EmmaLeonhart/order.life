@@ -1,0 +1,460 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zebedee"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141707$E125CD71-A5F5-48D9-A4E9-8F0AF78A1A4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141710",
+              "numeric-id": 141710
+            }
+          },
+          "hash": "a3408f0740ed1ee08bd1917e8c5f42ec664759f8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141707$427A2377-C557-408F-B2D4-E7D48EA313C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141708",
+              "numeric-id": 141708
+            }
+          },
+          "hash": "c6c56bed67ea54379b33d81b99c1942eb199d909",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141707$2F07C3DF-5B7E-419A-9D13-2977FE6CF878",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141709",
+              "numeric-id": 141709
+            }
+          },
+          "hash": "3c282092999dfec182f3e65d2a61d4bb311fecbc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141707$075F8FB2-0D2F-4ECB-94EF-2F8964C2FD4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141707$36F2AAE3-7129-455D-AF0A-1F821F8A45C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141707$47A7856E-F2F7-45BA-B38E-601D0FF581EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139789",
+              "numeric-id": 139789
+            }
+          },
+          "hash": "c45f7061c9a0e3465df093cf0eb7816e0fb4452b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141707$8CFD1134-46FE-40A1-A573-577621C07A25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141707$FFD6B3B5-537F-4E4F-8F34-4EACECDAF77B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141707$5F13A18A-6EEE-46C3-B30A-77AB1B65EC2E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "093131f0722b63dbcc4c162246fd7b69c288b5b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141707$FEC34536-4DC4-4415-8D5B-586EA3437037",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q169363"
+          },
+          "hash": "2f0a69402747e9c697d2ead1cc30d7e815eab67f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141707$A2E383CB-EF58-4EAE-9C87-3B98DFAE7247",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zebedee Arms.svg"
+          },
+          "hash": "14607da12878b0034184c105e20fcff5eeb12552",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q141707$A1D8E103-408E-4855-894A-3879F2F5C435",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/0de9eb5c-346c-4588-9ff7-bf7da6b0cdac"
+          },
+          "hash": "12dee3d92d96e13404fb21d4689a9e724f3ac827",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "Бацька Якава і Яна, двух значных апосталаў Ісуса Хрыста"
+    },
+    "de": {
+      "language": "de",
+      "value": "neutestamentarischer Fischer, Vater der beiden Apostel Jakobus d. Ä. und Johannes"
+    },
+    "en": {
+      "language": "en",
+      "value": "father of James and John, two disciples of Jesus"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la Biblia (Nuevo Testamento), padre de Santiago y Juan"
+    },
+    "it": {
+      "language": "it",
+      "value": "padre di due dei dodici apostoli di Cristo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "visser"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rybak i szkutnik z Kafarnaum, ojciec apostołów Jakuba i Jana"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "pai de Tiago e João, discípulo de Jesus"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "pai de Tiago e João, discípulo de Jesus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский персонаж, отец апостолов Иоанна и Иакова, муж Саломеи"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "oče Jakoba in Janeza (Jezusovih učencev)"
+    }
+  },
+  "id": "Q141707",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Зевядзей"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Zebedeu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Zebedeus"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Sebedeus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sebedeus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Zebedäus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ζεβεδαίος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zebedee"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Zebedeo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zebedeo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "زبدی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Zébédée"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Sebedéus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Zeibidé"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Zebedeo"
+    },
+    "he": {
+      "language": "he",
+      "value": "זבדי"
+    },
+    "id": {
+      "language": "id",
+      "value": "Zebedeus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Zebedeo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ゼベダイ"
+    },
+    "km": {
+      "language": "km",
+      "value": "សេបេដេ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "세베대"
+    },
+    "la": {
+      "language": "la",
+      "value": "Zebedeus"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Zebedeo"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Заведеј"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sebedeus"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Zebedäus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zebedeüs"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Zebedeusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Zebedeu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Zebedeu"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Zevedeu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Зеведей"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Zebedej"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Заведеј"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sebedaios"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Zebedayo"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Zebedeo"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西庇太"
+    }
+  },
+  "lastrevid": 17561718,
+  "modified": "2025-09-17T12:51:20Z",
+  "ns": 860,
+  "pageid": 170092,
+  "sitelinks": {},
+  "title": "Item:Q141707",
+  "type": "item"
+}

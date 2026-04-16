@@ -1,0 +1,370 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Atius Balbus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73023$AFCCA9A5-9263-4FD1-B8B2-D5CDD5F6F913",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735480"
+          },
+          "hash": "c8097715efda955a9c363a4c8f7e04c28e658b92",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73023$71CCF423-D26B-4FB1-A717-38035AB83A06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72873",
+              "numeric-id": 72873
+            }
+          },
+          "hash": "128579f83e268ba7e0d95ce7305a4b9524e2086c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73023$2F415E3A-8252-48F2-A68A-D3BCA5900427",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73023$8F1EEE59-CB51-469A-832D-453D6A0313BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73023$E422746C-542B-4EB7-A4EA-7D32EF76CD85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73020",
+              "numeric-id": 73020
+            }
+          },
+          "hash": "8699e8193173622ece51199b5276bee6a3a15d52",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73023$133074CD-C4FB-421D-A5CD-F2F53FB8CD8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139574",
+              "numeric-id": 139574
+            }
+          },
+          "hash": "04d42fda186a9f938c0f9e35a968b067957f6a0b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73023$D791C749-5BE1-4B85-99E2-32B4A58A65A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73176",
+              "numeric-id": 73176
+            }
+          },
+          "hash": "17925f2c9dfe255f3c55eaf19ba0c81e3787eb3b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73023$F18099FE-EBDC-4260-A407-4E9842260000",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73023$3974852A-6D00-46E8-A364-45FF4F55BB2C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0148-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fb4522112174b0f3de80ac14a4019673a85cbd5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73023$D71F2A9C-42FF-43BB-B4EA-D8DA77A16B79",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0087-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "54794d5400ce4ce13020d8638dd4e8052b25c49f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73023$20BCEB63-7694-4F9C-8651-9D265D793095",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12286061"
+          },
+          "hash": "63ed513642caaa540506862571a69cc9e777c29d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73023$758B8448-2371-442F-B83F-175E40101BD7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006901336072"
+          },
+          "hash": "094d9e2061da432cd74ee224c8fb13140e76a2b7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73023$4A481D97-C8EE-40AC-94A4-F9AF2158AEA1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Atius Balbus Arms.svg"
+          },
+          "hash": "3b2ab864d3998eb643536e3bf5a0508933091c45",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "great-grandfather of the emperor Augustus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sénateur romain"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (148v Chr-87v Chr)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q73023",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Аций Балб Стари"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marcus Atius Balbus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Marcus Atius Balbus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Atius Balbus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Atius Balbus"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Marcus Atius Balbus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Acio Balbo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Atius Balbus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Azio Balbo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Atius Balbus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Atius Balbus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Атий Бальб"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcus Atius Balbus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Атій Бальб Старший"
+    }
+  },
+  "lastrevid": 17485670,
+  "modified": "2025-09-16T18:38:09Z",
+  "ns": 860,
+  "pageid": 87854,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73023",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73023"
+    }
+  },
+  "title": "Item:Q73023",
+  "type": "item"
+}

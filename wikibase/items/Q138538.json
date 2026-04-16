@@ -1,0 +1,813 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Anne"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138538$833DBF8B-616D-48D7-9E4C-405598AEEC60",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "407807|174329"
+          },
+          "hash": "6ae32af19343a064f010339767feab9d23c36b5e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138538$80578886-1A4F-4241-B3B6-6B5E35541825",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138539",
+              "numeric-id": 138539
+            }
+          },
+          "hash": "b28e831878932d2255db2efb5aac70b7608c4a81",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138538$23A3D8A2-A0B6-407A-BA79-9F6217DFC55D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138538$E2339803-9F14-460B-855D-98D6EA350A62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138538$337bcc39-4606-0e6f-281d-4d3f5fee19c4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153800",
+              "numeric-id": 153800
+            }
+          },
+          "hash": "3b66e417f1e200d14b1e40ba27fab7789c815575",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138538$7135F4A6-0F9C-4F6F-9664-438A0658D41D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137750",
+              "numeric-id": 137750
+            }
+          },
+          "hash": "a98e80c2be5e06f6e6dd08354436f4c675d52f34",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138538$83b9d252-4f67-475e-b2ba-3520cae2aef8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153796",
+              "numeric-id": 153796
+            }
+          },
+          "hash": "f6a44b636da635532b231af8180b3f33ba51f274",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138538$650F0B60-2429-4141-ACA9-DAF9050B8171",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139785",
+              "numeric-id": 139785
+            }
+          },
+          "hash": "02d8c3c24a859c8f3c28dcaf625667cb012ee1a5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138538$4B8BA918-CB9E-4FEE-82DD-04B658D1CBDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138538$AB252D90-5985-46D2-BA1E-BCAED5B16050",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0055-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3041b77473bd885b7f17a44fbddef1bc2ab28905",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138538$7D9EE3FF-FBF7-4894-8696-FB3633042954",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0012-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3764675e1697ab73e1b82633a7431acef06e5805",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138538$FB2212D2-C0CA-4E64-A632-B47C6684C073",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q164294"
+          },
+          "hash": "20a2d4a83156a843d18f1642bbaaeb70a68d2f09",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q138538$2985D6BD-63C5-4FFA-ACA3-E3A61A563162",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "5416397034490026906"
+          },
+          "hash": "7021060a5beeebead76d98ebc3d847769a17817c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138538$CD6FD58A-6882-4C84-A8BA-3F9166F22CCA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saint Anne Arms.svg"
+          },
+          "hash": "5a5d8875c28be770913a1f24a048db1adb1d6f23",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q138538$FFCF9D0B-2208-4698-921F-A8AB6DDCA991",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/1F92AF47-A1D4-4855-A1B6-8A1F4D213007"
+          },
+          "hash": "10fadaa06f9684e520a403fb4e979d9df9a82cea",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "والدة مريم بنت عمران"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "хрысьціянская сьвятая, маці Божай Маці"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "майка на Богородица"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "mare de la Mare de Déu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "matka Panny Marie podle křesťanské tradice"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "mam y Forwyn Fair yn ôl traddodiad"
+    },
+    "da": {
+      "language": "da",
+      "value": "mor til Jomfru Maria"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mutter Marias"
+    },
+    "el": {
+      "language": "el",
+      "value": "η μητέρα της Μαρίας, της μητέρας του Ιησού Χριστού"
+    },
+    "en": {
+      "language": "en",
+      "value": "mother of Virgin Mary in Christian and Islamic traditions; unnamed in the New Testament or Quran"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "patrino de Maria; ne nomata en la Nova Testamento aŭ Korano, sed la nomo Anna estas tradicia en kristanismo kaj islamo"
+    },
+    "es": {
+      "language": "es",
+      "value": "según la tradición cristiana e islámica, madre de la virgen María"
+    },
+    "es-419": {
+      "language": "es-419",
+      "value": "baranoa atlantico ( colombia)"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Mariaren ama"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Neitsyt Marian äiti"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "mère de Marie de Nazareth"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "figura bíblica, nai da Virxe María"
+    },
+    "he": {
+      "language": "he",
+      "value": "אמה של מרים הבתולה לפי המסורת הנוצרית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Mária anyja"
+    },
+    "it": {
+      "language": "it",
+      "value": "madre della Vergine Maria"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "聖母マリアの母親で、正教会・カトリック教会・聖公会では聖人として崇敬される"
+    },
+    "la": {
+      "language": "la",
+      "value": "mater Mariae"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "moeder van Maria"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "babka Jezusa Chrystusa, święta różnych wyznań"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "mãe da Virgem Maria e avó de Jesus"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "mãe de Maria, mãe de Jesus Cristo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "mama Fecioarei Maria și bunica lui Iisus Hristos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "мать Богородицы в христианской и исламской традиции"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "mither o the Virgin Mary an guidmither o Jesus Christ"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "matka Panny Márie podľa kresťanskej tradície"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "mati Device Marije in svetnica v krščanskem in islamskem izročilu"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "jungfru Maras mor, helgon"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Meryem'in annesi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "мати Діви Марії"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "بی بی پاکدامن مریم کنواری کی ماں"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "基督教和伊斯蘭教傳統中的聖母瑪利亞之母; 在新約或古蘭經中未命名"
+    }
+  },
+  "id": "Q138538",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Santa Ana"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "حنة"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "حنه (ام مريم العدرا)"
+    },
+    "az": {
+      "language": "az",
+      "value": "Müqəddəs Anna"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Si Saint Anne"
+    },
+    "be": {
+      "language": "be",
+      "value": "Святая Ганна"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Сьвятая Ганна"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Анна"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "হান্না (মরিয়মের মাতা)"
+    },
+    "br": {
+      "language": "br",
+      "value": "Santez Anna"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Hana bint Fakud"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Santa Anna"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Хьаннат"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "svatá Anna"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ann"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sankt Anna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heilige Anna"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Anna (Heilige)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγία Άννα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saint Anne"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Saint Anne"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Saint Anne"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Anna, patrino de Maria"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ana"
+    },
+    "et": {
+      "language": "et",
+      "value": "Anna"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ana"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "حنا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pyhä Anna"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Anne"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Anna"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Naomh Áine"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Santa Ana"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "St. Anna"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנה הקדושה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sveta Ana"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szent Anna"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Աննա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Anna"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sant'Anna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンナ"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Anna"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "წმინდა ანა"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안나"
+    },
+    "la": {
+      "language": "la",
+      "value": "Anna"
+    },
+    "li": {
+      "language": "li",
+      "value": "Anna"
+    },
+    "ln": {
+      "language": "ln",
+      "value": "Santu Anna"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Šventoji Ona"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Svētā Anna"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Ana (renin' i Maria)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Света Ана"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "വിശുദ്ധ അന്ന"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Hana"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Anna av Jerusalem"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Anna"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Âone"
+    },
+    "os": {
+      "language": "os",
+      "value": "Сыгъдæг Аннæ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Święta Anna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Santa Ana"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Santa Ana"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Sfânta Ana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Святая Анна"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Sant'Anna"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Saunt Anne"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sveta Ana"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "svätá Anna"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "sveta Ana"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Света Ана"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Света Ана"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Sveta Ana"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Anna, Marias moder"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Ana"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "தூய அன்னா"
+    },
+    "th": {
+      "language": "th",
+      "value": "นักบุญอันนา"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Santa Ana"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hanne"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Анна"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "حنا (مریم کی ماں)"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Sant'Ana"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Anna"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "圣安妮"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "聖安妮"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "圣安妮"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "圣安妮"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "聖安妮"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "聖安妮"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "圣安妮"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "聖安妮"
+    }
+  },
+  "lastrevid": 17613955,
+  "modified": "2025-09-20T22:24:05Z",
+  "ns": 860,
+  "pageid": 166923,
+  "sitelinks": {},
+  "title": "Item:Q138538",
+  "type": "item"
+}

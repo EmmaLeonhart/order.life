@@ -1,0 +1,280 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Máel Fithrich mac Áedo"
+      },
+      {
+        "language": "en",
+        "value": "Mael Fithrich mac Aedo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q139816$D1793977-F1D5-4F11-8563-72AF28DB5E87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141745",
+              "numeric-id": 141745
+            }
+          },
+          "hash": "94189daf9c738b1157d6965565a44187ede350c4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q139816$1560EBC3-6FC8-4D11-A2C8-1290983FF028",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mac_Áed_Uaridnach-1"
+          },
+          "hash": "b2c490cafd675191f86f6c6cde393fc1eeabb949",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139816$48FFE00A-BAB6-4D85-A12C-AFBA72DC1BD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139816$6BF1D4F1-AFE3-4F7D-AAF7-10959EA696F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139816$E698B48E-8F51-40C2-8E18-179F3587883F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Máel_Fithrich_mac_Áedo_(1)"
+          },
+          "hash": "6c642cdb7d4af012cd654b55a956c28c55055b0c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q139816$CC3F44EF-6203-44E8-816D-4DAB40E23104",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15010.htm#i150091"
+          },
+          "hash": "ee0fe2cd641607e8dde3862fd6e27cd337d82b3b",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139816$4B41D70B-8726-4F05-8BEC-C692DF999151",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138563",
+              "numeric-id": 138563
+            }
+          },
+          "hash": "8d6ccac51397cb8f8497e9b5314c1c98d0bf680a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139816$9A2F445B-997E-4529-885F-74FFDB96E6FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139816$63A6467F-7C35-4933-8264-ADEDE1C4AE0F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0633-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bff9df24512c11e094734369c36f31fe906939bd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139816$9B510AAF-3367-46B3-9209-2B7C05F121C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16201049"
+          },
+          "hash": "42a0bec59018a9295f55c86a177e54656ddc84d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139816$7A621A5B-930F-44F4-9AD6-6C59C58B0B45",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Máel Fithrich mac Áedo Arms.svg"
+          },
+          "hash": "10fded0849db564e1554ccd715d43da8dcf3724f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "7th-century Irish monarch"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "rí in Éirinn sa 7ú haois"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Айлеха"
+    }
+  },
+  "id": "Q139816",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Máel Fithrich mac Áedo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Máel Fithrich mac Áedo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Máel Fithrich mac Áedo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Máel Fithrich mac Áedo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Máel Fithrich mac Áedo"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Maol Fithrigh mac Aodha"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Маэл Фитрих мак Аэдо"
+    }
+  },
+  "lastrevid": 17558513,
+  "modified": "2025-09-17T12:04:03Z",
+  "ns": 860,
+  "pageid": 168201,
+  "sitelinks": {},
+  "title": "Item:Q139816",
+  "type": "item"
+}

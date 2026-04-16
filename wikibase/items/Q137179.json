@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alyattes I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137179$F315B62C-A646-4190-B0B7-D9D00011C3CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "410265"
+          },
+          "hash": "da05e9d29f489f5a34e928222193836a99e7fc9f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137179$E9B0EB8E-FDE2-4D51-ADC4-1D92157527CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136766",
+              "numeric-id": 136766
+            }
+          },
+          "hash": "135f9243bea38df958cbca7cfc09ba538a60b295",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137179$C74420FC-16E7-412E-B6EC-E8DA5596B1B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137179$569652EE-C7F0-4D20-8322-BC4384A2A285",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137179$CC85A88A-3840-4A78-8116-391ABD0C8608",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137738",
+              "numeric-id": 137738
+            }
+          },
+          "hash": "f66635b2af0b3f113f65703a7529785a6b376910",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137179$18459DCB-F9D1-430F-A2C2-77388B8C30B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137179$11F9DCF4-9965-4E57-B1D9-433EC92ADB0C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0745-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "356df21babbed51490b2b3807e9aae14015e03ee",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137179$096E5233-010A-4CE9-A9A3-B90D4B3AD4CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q428645"
+          },
+          "hash": "c6934db17dc0475d0ffdfd05255fc7a217aa4186",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137179$F11C6936-F268-432D-BD19-2E43818263F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alyattes I Arms.svg"
+          },
+          "hash": "9a786aa2146f24ff032333915244cf2c0f67b654",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "King of Lydia"
+    },
+    "it": {
+      "language": "it",
+      "value": "re"
+    }
+  },
+  "id": "Q137179",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Aliates I"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alyattes I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alyattes I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alyatte Ier"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aliatte I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alyattes I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Alijat I"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Alyattes I."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аліатт I"
+    }
+  },
+  "lastrevid": 17554313,
+  "modified": "2025-09-17T11:04:25Z",
+  "ns": 860,
+  "pageid": 165564,
+  "sitelinks": {},
+  "title": "Item:Q137179",
+  "type": "item"
+}

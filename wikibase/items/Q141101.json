@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Werner III. von Veltheim"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141101$2E7453F3-592B-40EA-A73B-6077CDA03045",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141102",
+              "numeric-id": 141102
+            }
+          },
+          "hash": "4758ea4d80bab30941ec4239edcc0ff5565b6cc1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141101$4365FE57-1CDB-4BFC-BC12-D12B20A17517",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141101$83AE8A8C-C22F-4C9B-9133-A002D4651914",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141101$3B018B94-C84B-4A8F-8351-28105A7C51C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126586",
+              "numeric-id": 126586
+            }
+          },
+          "hash": "8d4ef2498505ae014ce3ed213aa5aaa4351ccfac",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141101$BBDE540C-4943-40E7-BB3F-3216F0FDD549",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143663",
+              "numeric-id": 143663
+            }
+          },
+          "hash": "d800f47410441caa532abcde953290058d106002",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141101$FE63E3F3-A6ED-4276-A63B-9AA455409016",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141101$4B1C1DAC-553E-401B-8C3A-648E665F6FBD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1169-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4484594ab8d4038171608016ec38956cff04bd75",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141101$EAC10B4C-99D4-4440-A59C-0D38944BF73A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q125341422"
+          },
+          "hash": "732b3ebb157844f644b9d995d131f0d0d7a91021",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141101$24543EB9-2943-44DE-B5C8-20DFBD9EE721",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Werner III. von Veltheim Arms.svg"
+          },
+          "hash": "5b28851f04bf805ba8545eedd9478c275c5aeb98",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q141101",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Werner III. von Veltheim"
+    }
+  },
+  "lastrevid": 17560735,
+  "modified": "2025-09-17T12:36:42Z",
+  "ns": 860,
+  "pageid": 169486,
+  "sitelinks": {},
+  "title": "Item:Q141101",
+  "type": "item"
+}

@@ -1,0 +1,453 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Caecilius Metellus Dalmaticus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q72660$766F6847-A478-46CD-A44E-BBA86F20BC42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735450"
+          },
+          "hash": "0c4572511ae1fdcbcf03fdab23dd1e9dea2f21d7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72660$5720A4EA-3AEC-4B72-B289-7491726858A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72475",
+              "numeric-id": 72475
+            }
+          },
+          "hash": "2ac39a0c43668279d903c0e59f16c1421029cc74",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72660$13A87CD8-A200-49B3-BD86-F32DEC019C42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72660$5AA70A2C-EFEA-4B76-81DB-3AE16FD45E83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72660$CF528248-1A92-46E7-B5EC-B257C4D59B88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius_Caecilius_Metellus_Dalmaticus_(1)"
+          },
+          "hash": "8b811ad5018c0129ed4b3a013b8f2f5a89f56c81",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72660$5E563C83-1C9C-490F-8D4E-0B119C8B9F22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72663",
+              "numeric-id": 72663
+            }
+          },
+          "hash": "96c44c584a91428e16eec8bb473a5ff52fa32404",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72660$9F8756B4-32D1-4687-A7F8-1300308776C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72834",
+              "numeric-id": 72834
+            }
+          },
+          "hash": "a847a86d3d760e206d089eda9fce39f2e5102232",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72660$C754F78B-5326-4AA3-B677-B6BB276A4E25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72837",
+              "numeric-id": 72837
+            }
+          },
+          "hash": "e75b6eee5f9aa1a35a35f68071d5bcbe7ec77826",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72660$8ED42616-A611-4D8C-8AEB-8A0B43439183",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72660$AB2120C8-DB10-4F12-8FBC-30ECBA0E099D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0161-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "907509da78a4814692cf6be9a2df14873c44ba7b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72660$8F354B66-1CAB-4A3C-B9DB-BB18952A1E64",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0103-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "946bfabad1ccdb6e1b0b23be4d32a66de1b08e39",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72660$51E88F18-CA4A-408E-B40C-EB5273EE3182",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q703362"
+          },
+          "hash": "2de662d55e7006ff31eac89f736ce40aaaa0a9fd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72660$1C339599-3BD3-435A-8C8E-212286E1C1E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003828196714"
+          },
+          "hash": "944af657954cf735f8dba072ce6cce49d462b2b8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72660$43604327-DC32-4790-A939-06FDAB213AE7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Caecilius Metellus Dalmaticus Arms.svg"
+          },
+          "hash": "ba93a85f3e9cd8d598b1e329b752cb726184de45",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 119 BCE"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 119 av. J.-C."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori római politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 119 a.C."
+    },
+    "ja": {
+      "language": "ja",
+      "value": "共和政ローマの執政官"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-103v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski polityk"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 119 года до н. э. и великий понтифик в 114—104 годах до н. э."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "rimski konzul"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q72660",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Цецилий Метел Далматик"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Cecili Metel Dalmàtic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Caecilius Metellus Delmaticus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Καικίλιος Μέτελλος Δαλματικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Caecilius Metellus Dalmaticus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cecilio Metelo Dalmático"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Caecilius Metellus Delmaticus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucius Caecilius Metellus Dalmaticus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cecilio Metello Dalmatico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・カエキリウス・メテッルス・ダルマティクス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Caecilius Metellus Dalmaticus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Caecilius Metellus Dalmaticus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lucjusz Cecyliusz Metellus Dalmatyński"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Cecílio Metelo Dalmático"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Cecílio Metelo Dalmático"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Цецилий Метелл Далматик"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lucije Cecilije Metel Dalmatik"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Lucij Cecilij Metel Dalmatik"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Caecilius Metellus Dalmaticus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lucius Caecilius Metellus Dalmaticus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Цецілій Метелл Далматік"
+    }
+  },
+  "lastrevid": 17485198,
+  "modified": "2025-09-16T18:31:32Z",
+  "ns": 860,
+  "pageid": 87491,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72660",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72660"
+    }
+  },
+  "title": "Item:Q72660",
+  "type": "item"
+}

@@ -1,0 +1,540 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Aurelius Symmachus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137794$CF667189-D6B8-4E74-AAE0-7A0A639899AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "405537"
+          },
+          "hash": "2bb391563835d38fa1951ea798dedd9e7322f50b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137794$FCEC7054-1A63-4718-83C3-5A849ACA8614",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137795",
+              "numeric-id": 137795
+            }
+          },
+          "hash": "844b833427ff6fc36274e7749dde6efcfb1bb0f6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137794$F7BE4C29-0DB9-41E6-A1BE-E39BF952A776",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137796",
+              "numeric-id": 137796
+            }
+          },
+          "hash": "2b04d2961930c9333da1a69c3f2988c287316107",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137794$B60E5F92-986E-4366-8F63-83DD0D2EAD90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137794$AA6910EC-1D44-4BDC-B48D-B5EA2E37B38E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137794$D6AA48FE-371B-4220-BDDF-B24B5E547C7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137247",
+              "numeric-id": 137247
+            }
+          },
+          "hash": "56f7d8edeb597ebafb78e79a5bcb72026e167434",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137794$12F49549-1B61-4666-AF8F-EF04021DACC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138593",
+              "numeric-id": 138593
+            }
+          },
+          "hash": "a7b4c0ec2edbb75555371dd81aafb344efb57f26",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137794$57D057CF-9C7F-458A-A4C3-C6E677E2504C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137794$135C079C-CDB2-45A1-A545-D77AAE2978B8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0345-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "372550bb27c7b898a968f04c0a814719da00f4c9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137794$9A38AD30-AE05-4FDC-AC34-4DBB3879A57C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0402-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5690c0fe4c45feb772850861a364a56a87290eea",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137794$00B39FC5-6378-48A8-BB77-F8FA3287693B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q355720"
+          },
+          "hash": "5c13f5f8b81ffdf7702b5c4fb728f7c7d0702421",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137794$7BDA99F6-F543-4E61-ABBF-358B3CDB129C",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Aurelius Symmachus"
+          },
+          "hash": "cf84b3f28a37e37e6d11424916a8cdb525564cb7",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q137794$1A7D5A0F-13EA-49DF-948E-F399CD112300",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:56147"
+          },
+          "hash": "a956842d32b96b229d5ec30fade8344cfedf53a6",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137794$B6418239-44F4-4214-8EEA-4DA39A666BB3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Aurelius Symmachus Arms.svg"
+          },
+          "hash": "fae4a4b0cf8becf59c6f455148d05142f364c0c7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من روما القديمه"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský spisovatel, řečník a státník"
+    },
+    "da": {
+      "language": "da",
+      "value": "italiensk skribent"
+    },
+    "de": {
+      "language": "de",
+      "value": "Prokonsul von Africa 373, Stadtpräfekt von Rom, Konsul 391"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "consul of the Roman Empire 391, orator (340-402)"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul del Imperio Romano 391, orador (340-402)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نویسنده ایتالیایی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "orateur, sénateur et écrivain romain"
+    },
+    "he": {
+      "language": "he",
+      "value": "מדינאי, נואם ואיש ספר רומאי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római szenátor"
+    },
+    "it": {
+      "language": "it",
+      "value": "oratore, senatore e scrittore romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "italiensk politiker og skribent"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Italiaans schrijver"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "italiensk skribent"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "italiensk författare"
+    }
+  },
+  "id": "Q137794",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كوينتوس أوريليوس سيماكوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كوينتوس اوريليوس سيماكوس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Quintu Aurelio Símaco"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Аврелий Симах"
+    },
+    "br": {
+      "language": "br",
+      "value": "Symmachus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Aureli Simmac"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Quintus Aurelius Symmachus Eusebius"
+    },
+    "da": {
+      "language": "da",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Αυρήλιος Σύμμαχος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Aurelio Símaco"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کوئینتوس اورلیوس سیمماخوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Aurelius Symmaque"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Quinto Aurelio Símaco"
+    },
+    "he": {
+      "language": "he",
+      "value": "קווינטוס אורליוס סימאכוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kvint Aurelije Simah"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Symmachus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Aurelio Simmaco"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・アウレリウス・シュンマクス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "퀸투스 아우렐리우스 심마쿠스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Quinto Aurelio Simmaco"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kwintus Aureliusz Symmachus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Símaco (prefeito pretoriano da África)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Símaco (prefeito pretoriano da África)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Аврелий Симмах"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kvint Aurelije Simah"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Quinto Aurelio Simmaco"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Quintus Aurelius Symmachus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Аврелій Сіммах"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "叙马库斯"
+    }
+  },
+  "lastrevid": 17555257,
+  "modified": "2025-09-17T11:17:46Z",
+  "ns": 860,
+  "pageid": 166179,
+  "sitelinks": {},
+  "title": "Item:Q137794",
+  "type": "item"
+}

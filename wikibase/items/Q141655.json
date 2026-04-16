@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Scribonius Drusus Libo"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141655$2CF1BC98-9541-4FFD-AF15-730A3FC37920",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735547"
+          },
+          "hash": "9985dc5ea307579287bf7665591250d68fc5c436",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141655$E7F0D7D4-C34E-44AB-9E02-FE49EDE3159F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141655$205CA0EB-BC0A-41F6-A1A1-BD1A69230AE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141655$FD68E1F4-861B-4AD8-A784-CDDA38A722AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70988",
+              "numeric-id": 70988
+            }
+          },
+          "hash": "51d91460f8b9699374b99d8b3a33f1489cc744a8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141655$F9E3E3EE-3B29-4670-9DE3-5D12C1C05A4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139746",
+              "numeric-id": 139746
+            }
+          },
+          "hash": "7f53ac484d619c036c1e3214799b36b0a1eaabdb",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141655$6326475C-2E4D-466F-A3F1-111DAFD40D3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141655$6273AF82-238F-4D96-AF18-4F78B0222E16",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141655$0E4EF25A-400F-42C1-9700-F5E2E344ED05",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0016-09-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c69b34332aef1ac1b350a6fdf6951654596cf83",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141655$C9D02625-771B-4CF2-89A1-BA63CE1A8ABC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q723485"
+          },
+          "hash": "6f14c7e23953fc866ad294578d5acd26f5434b78",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141655$216F6EB9-238A-4A0E-82C2-E139FD683CC5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Scribonius Drusus Libo Arms.svg"
+          },
+          "hash": "fce2c959b90c5f274d51a9c4b1e3fdb6ffccb479",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker, Prätor 16"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman senator accused of conspiring against the Roman Emperor Tiberius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sénateur romain"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-16)"
+    }
+  },
+  "id": "Q141655",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Скрибоний Либон Друз"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Scribonius Libo Drusus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Σκριβώνιος Λίβων Δρούσος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Scribonius Drusus Libo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Escribonio Libón Druso"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Scribonius Libo Drusus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Scribonio Libone Druso"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Scribonius Libo Drusus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Marcus Scribonius Libo Drusus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Scribonius Libo Drusus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Marek Skryboniusz Libon Druzus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Скрибоній Лібон Друз"
+    }
+  },
+  "lastrevid": 17561632,
+  "modified": "2025-09-17T12:50:07Z",
+  "ns": 860,
+  "pageid": 170040,
+  "sitelinks": {},
+  "title": "Item:Q141655",
+  "type": "item"
+}

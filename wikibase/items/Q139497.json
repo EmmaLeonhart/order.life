@@ -1,0 +1,381 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cuthred of Kent"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q139497$DC2CD3B4-D2B9-41C4-8F01-DCDE19680109",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141353",
+              "numeric-id": 141353
+            }
+          },
+          "hash": "6e17d2aaec86be9e2fe7a1bb2b42696d2cb1f257",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139497$5B2DEE1A-930D-4CF6-AA16-194831E06F3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139497$10F52DAF-E4FA-4D5D-9CFE-9D1B0CB240A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139497$D7EA6EAB-87A7-4B86-94E6-C0F0F56B8C48",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cuthræd_of_Mercia_(1)"
+          },
+          "hash": "41b1125e058f8574757f6d23e283384893d1edce",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q139497$48874071-4601-4B23-B3F2-475A2BD76D7C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15028.htm#i150274"
+          },
+          "hash": "a8fdff9073cb18ddea221c4f0f32e26b435866c8",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139497$7FA21B7B-6130-4B87-AD69-4202751198B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138332",
+              "numeric-id": 138332
+            }
+          },
+          "hash": "7dfd8dad0b3e4ab456e28b1f6698f832b99ec89d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139497$13842BEB-DE15-46EE-82EC-3EEE52CAFFA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139497$5C05DD26-9D72-4A71-99BB-CFD4814BA82C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0800-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da10f947cef07e79febc7fa6eaeda36d2594d776",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139497$42A942E5-2D13-44C8-BA1A-8BD450934326",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0807-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32f4dae4208df26e46e1446a2db4b925244118e0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139497$AE003BCE-8F10-4CC0-A295-DD2772B4FFF9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q878926"
+          },
+          "hash": "6bd12d52cde101899571d5c28a95b646fa43d657",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q139497$2AE1E9A2-1A3A-4A2B-9F19-2678754BF3DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=cuthred;n=of mercia"
+          },
+          "hash": "f20306003393ae9edf4266c73ad7a37a6f5619bb",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139497$C068B076-CC2A-4EBF-8EC6-F4EDBC281C1E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cuthred of Kent Arms.svg"
+          },
+          "hash": "606570fa40fa1788b18450b24c2845a8b54a22a6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q139497$D294E860-77CB-45C7-B96D-1E5EA6537EE8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/954bd9c5-11ed-409e-bf9c-ac7b70a6aaa6"
+          },
+          "hash": "4a209d51b99916d64d3fd8f07a1fbe3df1e55556",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك كنت"
+    },
+    "de": {
+      "language": "de",
+      "value": "König in Kent"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Kent"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Kent"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Кента"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "engelsk monark"
+    }
+  },
+  "id": "Q139497",
+  "labels": {
+    "ang": {
+      "language": "ang",
+      "value": "Cuþræd"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "كوثريد"
+    },
+    "br": {
+      "language": "br",
+      "value": "Cuthred, roue Kent"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cuthred de Kent"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cuthred"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κάθριντ του Κεντ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cuthred of Kent"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cuthred of Kent"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Cuthred"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cuthred"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Cuthred de Kent"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cuthred del Kent"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cuthred of Kent"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кутред"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Cuthred od Kenta"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cuthred of Kent"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Cuthred av Kent"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кутред"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "肯特的卡斯雷德"
+    }
+  },
+  "lastrevid": 17557985,
+  "modified": "2025-09-17T11:56:36Z",
+  "ns": 860,
+  "pageid": 167882,
+  "sitelinks": {},
+  "title": "Item:Q139497",
+  "type": "item"
+}

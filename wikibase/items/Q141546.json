@@ -1,0 +1,302 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Silius"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141546$961C430D-A0D4-49E3-A171-3E76205391AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139659",
+              "numeric-id": 139659
+            }
+          },
+          "hash": "7518e1697fee3d9e1c020c442390051eaf0bb8e3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141546$53438061-D891-42E7-ABA7-5009FD94EC52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141546$2AAF9662-0E32-497A-A4FF-5422A019E8FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141546$6182B45C-47C7-4971-8108-7EB0DF331857",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141547",
+              "numeric-id": 141547
+            }
+          },
+          "hash": "3f4638271083f5f9281a2b5fb949d31279e692a0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141546$FB9745D3-270D-441D-878B-50098D3D452E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144195",
+              "numeric-id": 144195
+            }
+          },
+          "hash": "fca1b832c8a1603e03c99b9e5278c7ef4e4f3694",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141546$A18DB7DB-3661-437E-B0DC-565C0DAC53DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141546$459662D8-014E-4ABA-998C-7E2F9C8AED73",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0024-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "61612e18299e542d6c9150a22fbaf147437eca69",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141546$DDDDD935-E18B-47FB-AA1F-B88BF07AC73D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q14852482"
+          },
+          "hash": "1b218d3e7c10f130e32a67c053e5d27283981c56",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141546$8FE27E47-4570-4C61-AC2E-DA3EC5EB09F5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Silius Arms.svg"
+          },
+          "hash": "849841e16b65e85c8c856474dbfad5ad00d6bbe3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 13 und Feldherr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 13 AD"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cónsul del Imperio romano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 13"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Romeins consul in 13 en veldheer"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 13 года н. э."
+    }
+  },
+  "id": "Q141546",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Силий Авъл Цецина Ларг"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Sili"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Silius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Σίλιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Silius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Silio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Silius"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gaius Silius Aulus Caecina Largus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Silio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイウス・シリウス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Silius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gaius Silius Aulus Caecina Largus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Silius Aulus Caecina Largus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Sílio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Sílio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Силий Авл Цецина Ларг"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Silius Aulus Caecina Largus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Сілій Авл Цецина Ларг"
+    }
+  },
+  "lastrevid": 17561462,
+  "modified": "2025-09-17T12:47:42Z",
+  "ns": 860,
+  "pageid": 169931,
+  "sitelinks": {},
+  "title": "Item:Q141546",
+  "type": "item"
+}

@@ -1,0 +1,709 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Geiseric"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138294$C2842D27-DA25-444A-9B80-9C84D351BBF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "103228"
+          },
+          "hash": "d316f01e8c8e9d9b93d4c545807f4a6574227c3f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q138294$A6067D84-6413-4424-B83E-41B56EF241FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00248940"
+          },
+          "hash": "49cd9315e2e9078243ccd30657f68a138f7415d3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138294$84EBA8DC-5B14-46AC-B717-32D39DF2F7F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109842",
+              "numeric-id": 109842
+            }
+          },
+          "hash": "d42324cb787140e70b7e136ca9e33e43e8d34000",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138294$C6F1E651-A451-4F19-AAC7-CE279BD657C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110184",
+              "numeric-id": 110184
+            }
+          },
+          "hash": "25e581860b6bf18c5974dcb86594d4faab7682df",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138294$7B951949-6F0E-4B0D-B43A-A5A90F3CA6DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110652",
+              "numeric-id": 110652
+            }
+          },
+          "hash": "c51767d7944447a7eab0824e6ed2665c215829e3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q138294$5EAAA8F4-EF02-4A24-834C-E8701F4AF545",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Vandals-25"
+          },
+          "hash": "ec8e585cb0de4ba168c8fd3a421a5e9112b7d491",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138294$73D534D1-3558-4664-BE2C-F3CDC45E2964",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138294$BB1C8CA4-565C-4017-8BFF-B484198FF844",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138294$249607D1-51BF-4C2E-BB0E-FA8F2ADEF267",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Genseric_Unknown_(1)"
+          },
+          "hash": "b352c28db7f7226d88f5481b36447e8f4b4edcce",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138294$EE01842C-B03D-45B3-8309-2870CE053EE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110648",
+              "numeric-id": 110648
+            }
+          },
+          "hash": "e33edb5ddd1892ea4b8f14460c00ea30d82fd294",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138294$22B60DEC-24DC-4A8A-B26C-5B5C63ED1A60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138294$547ADC22-BECB-4A7C-971F-85FDE22CF428",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0389-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b41c61bad45c7fd0e441475cc0a80cc5a2ece66b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138294$89219132-8888-442F-AFD5-E4C89CFA9264",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0477-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c5e1d2d952c113b403f216ca34c8d33509fd02df",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138294$999BC451-51BB-4EB7-B242-187D3968136B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q152127"
+          },
+          "hash": "9469753f3321874755ea551086a0e6e6c11ae1aa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q138294$4481ACC8-CC72-42A2-9351-C4872F200F59",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000010556294402"
+          },
+          "hash": "ab39b43570a2c2cbd5e0623a43a3d3fb4b176c98",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q138294$4168EB5D-9E55-4FD3-A8BF-FEDC92BBF2D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=geiseric;n=hasdingi"
+          },
+          "hash": "bc5f883649ef5598eee658d3309d781ebf3e7826",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138294$A02B23E4-4D11-451B-95AE-7EF5D98153F2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Geiseric Arms.svg"
+          },
+          "hash": "9561f3f0382675ed70f51341036b07c124ca74a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König der Vandalen"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασιλιάς των Βανδάλων και των Αλανών"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of the Vandals and Alans"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "reganto de vandaloj kaj analoj"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de los vándalos y los alanos"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "vandaalien kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi des Vandales et des Alains (428-477)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "rei dos vándalos e alanos entre 428 e 477"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "vandál király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re dei Vandali e degli Alani"
+    },
+    "la": {
+      "language": "la",
+      "value": "Rex Vandalorum"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Vandaalse Rijk (389-477)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Wandalów i Alanów"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король вандалов"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "vandalisk kung"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Mfalme wa Vandali na waalani"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Vandalların ve Alanların Kralı"
+    }
+  },
+  "id": "Q138294",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Geiserik"
+    },
+    "an": {
+      "language": "an",
+      "value": "Chenserico"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Genseric Wendla Cyning"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "جنسريق"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جنسريك"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Xenserico"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "قایسریک"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гейзерых"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гейзерик"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Gajzerih"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Genseric"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Geiserich"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Geiseric"
+    },
+    "da": {
+      "language": "da",
+      "value": "Geiserik"
+    },
+    "de": {
+      "language": "de",
+      "value": "Geiserich"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Geiserich"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γιζέριχος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Geiseric"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Genseric"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Genseric"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Gaisariks"
+    },
+    "es": {
+      "language": "es",
+      "value": "Genserico"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Genseriko"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گایسریک"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Geiserik"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Genséric"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Geiserik"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xenserico"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Gaiseric"
+    },
+    "he": {
+      "language": "he",
+      "value": "גאיזריק"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "गैसेरिक"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Gajzerik"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Geiserich vandál király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գեյզերիխ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Genserik"
+    },
+    "it": {
+      "language": "it",
+      "value": "Genserico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイセリック"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გაიზერიხი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "가이세리크"
+    },
+    "la": {
+      "language": "la",
+      "value": "Geisericus"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Genserico"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Geizerichas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Geiserik"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Geiserik"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Geiserik"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Genseric"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Genzeryk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Genserico"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Genserico"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Genseric"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гейзерих"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Genseric"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gajzerik"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Geiserich"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Gajserik"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гејсерих"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Гејсерих"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Gejserih"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Geiserik"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Genseriki"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Genserico"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Genseric"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гейзеріх"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Genseric"
+    },
+    "war": {
+      "language": "war",
+      "value": "Genseric"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "გაიზერიხი"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蓋薩里克"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "盖萨里克"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "盖萨里克"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蓋薩里克"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "蓋薩里克"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "盖萨里克"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "蓋薩里克"
+    }
+  },
+  "lastrevid": 17556071,
+  "modified": "2025-09-17T11:29:27Z",
+  "ns": 860,
+  "pageid": 166679,
+  "sitelinks": {},
+  "title": "Item:Q138294",
+  "type": "item"
+}

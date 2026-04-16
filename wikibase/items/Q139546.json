@@ -1,0 +1,371 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Claudius Pulcher"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139546$85DC526A-D6DD-4098-921B-6D443058E18D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736135"
+          },
+          "hash": "e706035b0f5c23c47fde638c5e7f32c0f601ef7d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139546$48A6AC9D-02EE-4B8B-B3D0-4514E4C61399",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141393",
+              "numeric-id": 141393
+            }
+          },
+          "hash": "2fc4d747a74ea3006500b3e59d6ba9d54e8c9470",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139546$39AFA911-FF99-4CB5-A8B7-746D4FC4A303",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139546$CFB05CC1-8C1A-4BCB-9948-BDC8BBB3C208",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139546$EFB043D1-218C-4182-B4B8-CC9578740060",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78393",
+              "numeric-id": 78393
+            }
+          },
+          "hash": "66347c2c46c6ca72cfb10bd482a64e22916679a1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139546$7CE57F9B-74CA-4B53-90ED-E22808DB841F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139546$1D7B4E89-6F29-4874-9C76-22A0AF7DBED3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139546$951E0102-FC4D-4FB5-B8F1-16750091A5EA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139546$937B37CF-E6F6-4456-89B7-F32509ED40A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1283518"
+          },
+          "hash": "97a6c84b816815e1180b18f1630c65400fa360c8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q139546$45064250-CC53-4AE2-9955-AE21212CB994",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:25626"
+          },
+          "hash": "b9593d2976db5e8e3254c13b843cfacd28a1c43b",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139546$2512917C-BE73-4A0B-A185-15E98E650E9E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Claudius Pulcher Arms.svg"
+          },
+          "hash": "e5e1b4ddb6903f699ead519e29614ecb2482160a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 92 v. Chr."
+    },
+    "el": {
+      "language": "el",
+      "value": "ύπατος το 92 π.Χ."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 92 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 92 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 92 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 92 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (200v Chr-100v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 92 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk konsul 92 f.Kr"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "公元前92年的古罗马领事"
+    }
+  },
+  "id": "Q139546",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Клавдий Пулхер"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Claudi Pulcre"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Claudius Pulcher"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Κλαύδιος Πούλχερ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Claudius Pulcher"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Claudio Pulcro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Claudius Pulcher"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cayo Claudio Pulcro"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Claudio Pulcro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイウス・クラウディウス・プルケル"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Claudius Pulcher"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Claudius Pulcher"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Cláudio Pulcro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Cláudio Pulcro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Клавдий Пульхр"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaj Klaudije Pulher"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Claudius Pulcher"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Клавдій Пульхр"
+    }
+  },
+  "lastrevid": 17558073,
+  "modified": "2025-09-17T11:57:49Z",
+  "ns": 860,
+  "pageid": 167931,
+  "sitelinks": {},
+  "title": "Item:Q139546",
+  "type": "item"
+}

@@ -1,0 +1,304 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hippocrates"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q138352$64ABD738-8D55-40C5-A9C0-8CE543826C57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138352$24490C8A-CB32-4156-894F-E341B484832F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138352$31C10734-C021-4176-82B6-E4D4E75D5140",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137635",
+              "numeric-id": 137635
+            }
+          },
+          "hash": "3e38d77e4ebc6d1494cd266108dd457ace51630d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138352$8FF7158D-F4EE-46C4-9A99-A1EDE847ECDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138352$4C6E4581-379D-477C-8F92-C998DB189FD8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138352$B8583171-B590-4927-828C-0D57743D3E0E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0424-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "85e2830736b722492fa43e016ddac0b71d6f2f89",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138352$4ED3A0D8-866D-434B-946A-1B669506B5CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1620003"
+          },
+          "hash": "b595de88bb2c32a78ff622c89505bb38f5c5cf1b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138352$7F18A90F-FAD0-4658-ADB4-BDD72E616AF5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hippocrates Arms.svg"
+          },
+          "hash": "3a32c2475ea0edd13a48fe77e87280f92965b237",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "general de l'antiga Atenes"
+    },
+    "de": {
+      "language": "de",
+      "value": "athenischer Stratege"
+    },
+    "en": {
+      "language": "en",
+      "value": "Athenian general (c. 459 – 424 BC)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Atena generalo"
+    },
+    "es": {
+      "language": "es",
+      "value": "general"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "stratège athénien"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "athéni hadvezér"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale ateniese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militaire organisatie uit Oude Athene (-424v Chr)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "афинский полководец"
+    }
+  },
+  "id": "Q138352",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "هيپوكراتيس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хипократ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hipòcrates"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hippokrates"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιπποκράτης ο Αθηναίος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hippocrates"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Hipokrato de Ateno"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hipócrates"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hippocrate"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Athéni Hippokratész"
+    },
+    "id": {
+      "language": "id",
+      "value": "Hippokrates dari Athena"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ippocrate di Atene"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヒポクラテス (アテナイの将軍)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Hippocrates"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hippokrates (general)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hippocrates of Athens"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гиппократ"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Hipokrat iz Atene"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hippocrates"
+    }
+  },
+  "lastrevid": 17556149,
+  "modified": "2025-09-17T11:30:34Z",
+  "ns": 860,
+  "pageid": 166737,
+  "sitelinks": {},
+  "title": "Item:Q138352",
+  "type": "item"
+}
