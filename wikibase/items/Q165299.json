@@ -1,0 +1,874 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cleopatra"
+      },
+      {
+        "language": "en",
+        "value": "Cleopatra II, Queen of Egypt"
+      },
+      {
+        "language": "en",
+        "value": "Cleopatra II of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73194$6A8CEC12-EAA1-415B-9559-00237180DBBE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567201"
+          },
+          "hash": "d565a71e6b5d5906f3ff5a5f5ddbda18c1f23a76",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73194$3968BD07-F1F5-4B0D-9E94-14A69896CA6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73035",
+              "numeric-id": 73035
+            }
+          },
+          "hash": "1d035132209c670928511257a4438b764385b5f9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$C96F6AF4-7AE2-4395-8518-E5CDDAC4A973",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73044",
+              "numeric-id": 73044
+            }
+          },
+          "hash": "588b940af5253b245d7af7a81568dbc9d84fb232",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$483A1305-7D15-49A2-AEDD-86BD076613A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78402",
+              "numeric-id": 78402
+            }
+          },
+          "hash": "9846bbb85f39d689f77380a3893e07e115984bb4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$B44D064B-65B7-4576-90E6-AB7657327627",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78719",
+              "numeric-id": 78719
+            }
+          },
+          "hash": "555e7bef9f56254f83ed65860a3a564edaa92e30",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$3FE98DE3-B045-4A0C-B6BC-4E7C123C6B99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135917",
+              "numeric-id": 135917
+            }
+          },
+          "hash": "5f6b8e7a53f920e1ed0379397a3278b45e834007",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$724B5E37-2274-4318-8EE7-739CB19818A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135915",
+              "numeric-id": 135915
+            }
+          },
+          "hash": "c82f092ec3be18af788dd46756146f4b627a06c3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$7A68AAB2-D8B2-4D69-87D4-1A8F38F64650",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51818",
+              "numeric-id": 51818
+            }
+          },
+          "hash": "3e67a95200edccee5d1d521f09d6b97f3273de65",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$7D44D18E-3ACD-4D4D-AEFB-7B611FC74C79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165392",
+              "numeric-id": 165392
+            }
+          },
+          "hash": "aabd51a91da90cebd30c606a9379388d9fef0d8f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$631790CC-4E62-422E-96A5-39DAF1F01CB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165393",
+              "numeric-id": 165393
+            }
+          },
+          "hash": "f8f99605940f8f66ac952abae3a481e41f5cf214",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$05B3EC08-C684-47A4-B39E-D97A5051EFC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165394",
+              "numeric-id": 165394
+            }
+          },
+          "hash": "d349159875aed3548edd65891ac8d9f0fd3022da",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$6AE52527-F14B-4C5D-839E-FBEFCE29BABA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165395",
+              "numeric-id": 165395
+            }
+          },
+          "hash": "e3b932529f2e058494b047c9867d91c14d1e1a42",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$16D5697F-88B6-41B9-B88F-6207C72CD710",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165396",
+              "numeric-id": 165396
+            }
+          },
+          "hash": "4c1878ea56c39de7bbba8add184c89bf9eea039e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$280C9253-F8EB-4EB9-A5E9-A76A29F97D27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165397",
+              "numeric-id": 165397
+            }
+          },
+          "hash": "febe9aa8528a692641f07f6b63f20156c91e5213",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73194$A791890E-2250-4480-8207-AAD1B0EB1EC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$E082B545-4096-46D9-A632-2F589F581E80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73194$946BE7FD-8E68-4AE1-80E2-46C3D27BFD65",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleopatra_II_of_Egypt_(1)"
+          },
+          "hash": "65b612d4cf8f29975825e06a0e385ac6f0260a7b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73194$41E5F2B9-1ABA-4D3D-9FCF-4143EA3FD84F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73197",
+              "numeric-id": 73197
+            }
+          },
+          "hash": "d14275e84fe8c76c5ae6ddee48a74485532c151d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$556185CF-0AC8-42EF-AB2E-0BF350934B3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99394",
+              "numeric-id": 99394
+            }
+          },
+          "hash": "f042cd9fc4613f1e1eaa319878d6839aa7d37e9e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$BBADA6F9-C535-4F50-B710-64344BB9C8A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73038",
+              "numeric-id": 73038
+            }
+          },
+          "hash": "2734f8941439896c34273408ee5b12bdff322bc2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73194$6EBD21ED-B869-430C-B6BD-9812485DAB86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73200",
+              "numeric-id": 73200
+            }
+          },
+          "hash": "b89d5fcc509ab37e197dd77e06b11623dd55c040",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73194$C40FC60F-3987-472C-9474-842294C5B42F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99396",
+              "numeric-id": 99396
+            }
+          },
+          "hash": "03fbc7187161381ca94b3fbe1ca140c14b1cb473",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73194$07CA97C4-B4D8-4625-99BB-02260EED1AED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73203",
+              "numeric-id": 73203
+            }
+          },
+          "hash": "23c7f42eca1cc1b2ee8668d54cad9732575ab201",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73194$6A634831-71DE-4D31-BD32-48D9C53A7711",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73194$DC0FFB53-531F-4636-9837-525075251D06",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0187-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "03c7b5f0b65f636f051b3db4b3c9904f7dc6e443",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73194$D0647852-3CC7-4173-9CAC-7DA6626EDE2E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0116-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0edad5e9e8121f52b580f9c239658be2364d7ace",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73194$DC325771-D746-4670-96F4-96F6B5CFDF3B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q40247"
+          },
+          "hash": "1d6eff98f80776086f98d6d5a46c28ae2a931b7c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73194$BE67F50F-2145-4CCF-8ADB-CFD46ED18586",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645853743"
+          },
+          "hash": "69abcc845ae2f90c7b654fdb74bb85c78ad8b226",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73194$F4F5962D-CA4B-418E-9A51-C993170EB778",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleopatra II of Egypt Arms.svg"
+          },
+          "hash": "e6a9a7cc27b2c5eef4392d3dd7c3e02d3b8e5756",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Königin von Ägypten"
+    },
+    "en": {
+      "language": "en",
+      "value": "queen of Ptolemaic Egypt"
+    },
+    "es": {
+      "language": "es",
+      "value": "reina del Egipto Ptolemaico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine d’Égypte"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכת מצריים התלמית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi ptolemaida királyné"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Եգիպտոսի թագուհի"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina egizia"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프톨레마이오스 왕조의 파라오"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit het oude Egypte (185v Chr-116v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "królowa Egiptu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rainha-Consorte do Egito Ptolemaico"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rainha-Consorte do Egito Ptolemaico"
+    },
+    "si": {
+      "language": "si",
+      "value": "ටොලමයික ඊජිප්තුවේ රැජින"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цариця Єгипту (175—116 до н. е.)"
+    }
+  },
+  "id": "Q73194",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كليوباترا الثانية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كليوباترا التانيه"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Cleopatra II d'Exiptu"
+    },
+    "be": {
+      "language": "be",
+      "value": "Клеапатра II"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Клеопатра II"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "মিশরের ২য় ক্লিওপেট্রা"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cleòpatra II"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "کلیۆپاترای دووەم"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Клеопатра II"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kleopatra 2. af Egypten"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kleopatra II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Κλεοπάτρα Β΄ της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cleopatra II of Egypt"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Cleopatra II of Egypt"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Cleopatra II of Egypt"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Kleopatro la 2-a de Egiptio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cleopatra II de Egipto"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Kleopatra II.a Egiptokoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کلئوپاترای دوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kleopatra II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cléopâtre II"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cléópátra II na hÉigipte"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Κλεοπάτρα"
+    },
+    "he": {
+      "language": "he",
+      "value": "קלאופטרה השנייה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Kleopátra"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կլեոպատրա II"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kleopatra II"
+    },
+    "is": {
+      "language": "is",
+      "value": "Kleópatra 2."
+    },
+    "it": {
+      "language": "it",
+      "value": "Cleopatra II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クレオパトラ2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კლეოპატრა II"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "클레오파트라 2세 필로메토라 소테이라"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cleopatra II"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Kleopatra 2-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kleopatra II av Egypt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cleopatra II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kleopatra II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cleópatra II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cleópatra II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Клеопатра II"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Cleopatra II o Egyp"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kleopatra II od Egipta"
+    },
+    "si": {
+      "language": "si",
+      "value": "ඊජිප්තුවේ IIවන ක්ලියෝපැට්රා"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kleopatra II."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cleopatra II of Egypt"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Клеопатра II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kleopatra II"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இரண்டாம் கிளியோபாட்ரா"
+    },
+    "th": {
+      "language": "th",
+      "value": "คลีโอพัตราที่ 2"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Kleopatra"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Клеопатра ІІ"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cleopatra II của Ai Cập"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "克娄巴特拉二世"
+    }
+  },
+  "lastrevid": 17485892,
+  "modified": "2025-09-16T18:41:26Z",
+  "ns": 860,
+  "pageid": 88025,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73194",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73194"
+    }
+  },
+  "title": "Item:Q73194",
+  "type": "item"
+}

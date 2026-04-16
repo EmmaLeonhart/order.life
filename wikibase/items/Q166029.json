@@ -1,0 +1,682 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Ὀλυμπιάς"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Olympias"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135218$A446E37A-77A1-4BDB-986F-70791FECD74B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139895|90691"
+          },
+          "hash": "38e9712fbcf236352e8d63c088a62c4061c2c8e0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135218$6D633927-21F5-4EB2-8D6D-EB5E10DE2DDA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00712876"
+          },
+          "hash": "7dee9b025d424324d6d0855aea26d217ec35c68e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135218$CD4808EA-5A0C-414F-BE7F-F0987D18E870",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135225",
+              "numeric-id": 135225
+            }
+          },
+          "hash": "8e32d11c0535bf8a09c2358919cadae39a2605d3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135218$2DAD62DD-F10F-4C12-BCD6-291D554CB9BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135223",
+              "numeric-id": 135223
+            }
+          },
+          "hash": "0024fa8b1c948596d266f81a5876e0448d305364",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135218$43E47E22-F78F-4965-B22F-BE8CA248FB98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135218$F08E44A7-4EAE-420E-9E4B-272BEE6BC2CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q135218$EF3A1A30-5782-4AA3-B988-979F9892BAB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Olympias_(1)"
+          },
+          "hash": "172efc80dc93bfde9aa0619e9e11c94f7a42cfe9",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135218$6E401249-0CD8-4186-A841-6942C634FE00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135177",
+              "numeric-id": 135177
+            }
+          },
+          "hash": "0672f6e24aaf3e1cf8bb35c88a5cf992f02c72b6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135218$36495FE6-B7E7-4892-87AA-5A7D27D27BF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165964",
+              "numeric-id": 165964
+            }
+          },
+          "hash": "fc3b2950309b4d3cea5963cc083d89b336bfa12b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135218$FD1CB0C0-9876-4CC9-89E6-7E42A1BC646D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135274",
+              "numeric-id": 135274
+            }
+          },
+          "hash": "5a6ab731f85a8c4cb5a79539830b387c1661a8db",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135218$E8E1B87A-B63C-4E61-8ADC-E548B44B72CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135218$3FAB899D-41F6-488D-95ED-EEA8EDF011C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0375-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22fb39688a811bc12dcefeb6c872211412e44ee9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135218$22F80685-AA6D-44D9-83D4-DBB8E28AEF81",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0316-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "662ddae4f592131e351156c398e7dc79fc05ee26",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135218$2BEB9318-6CF3-4A75-8948-FBD4209F1287",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q223134"
+          },
+          "hash": "6612718efdb2b0934c671f12574688f4650dc449",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q135218$1081D1A9-2484-4249-8233-897D1D705F87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000351102192"
+          },
+          "hash": "e67cbddca72d7de9a512504ec625bd496ee053f3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135218$E7D6D07A-A361-4304-A48D-34D4332121AB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Olympias Arms.svg"
+          },
+          "hash": "ea28cd640f04ff28a8a518f113d32eda49d44060",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "والدة الإسكندر الأكبر"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Съпруга на Филип ΙΙ и майка на Александър ΙΙΙ Македонски"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "mare d'Alexandre el Gran"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "matka Alexandra Velikého"
+    },
+    "de": {
+      "language": "de",
+      "value": "durch Heirat Königin von Makedonien, Mutter Alexanders des Großen"
+    },
+    "el": {
+      "language": "el",
+      "value": "μητέρα του Μεγάλου Αλεξάνδρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "mother of Alexander the Great"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposa del rey Filipo II de Macedonia y madre de Alejandro Magno"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aleksanteri Suuren äiti"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "mère d'Alexandre le Grand"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "મેસેડોનના ફીલીફ દ્વિતિયની પત્નિ"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשתו הרביעית של פיליפוס השני מלך מוקדון, אמו של אלכסנדר הגדול"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "makedón királyné (i. e. 357–316)"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մակեդոնիայի արքա Փիլիպոս II-ի կինը"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina macedone, moglie di Filippo II e madre di Alessandro Magno"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "четврта жена на македонскиот крал Филип II и мајка на Александар III Македонски"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politica uit Macedonië (375v Chr-316v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "królowa Macedonii, matka Aleksandra Wielkiego"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "esposa do rei Filipe II da Macedônia e mãe de Alexandre, o Grande"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "mãe de Alexandre, o Grande"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эпирская царевна, царица Македонии, мать Александра Македонского"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "mor till Alexander den Store"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İskender'in annesi"
+    }
+  },
+  "id": "Q135218",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أوليمبياس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اوليمبياس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Olimpia d'Epiru"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "المپیاس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Алімпіяда Эпірская"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Олимпиада"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "অলিম্পিয়াস"
+    },
+    "br": {
+      "language": "br",
+      "value": "Olympias"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Olímpia de l'Epir"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Olympias"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Olympias"
+    },
+    "da": {
+      "language": "da",
+      "value": "Olympias"
+    },
+    "de": {
+      "language": "de",
+      "value": "Olympias von Epirus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ολυμπιάδα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Olympias"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Olimpia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Olimpia de Epiro"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Olinpia Epirokoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "المپیاس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Olympias"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Olympias"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Olympias"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Olimpia do Épiro"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "ઓલીમ્પીઅસ"
+    },
+    "he": {
+      "language": "he",
+      "value": "אולימפיאס"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "ओलंपियस"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Olimpijada"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Olümpiasz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Օլիմպիադա Էպիրացի"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Ողիմպիատա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Olimpias"
+    },
+    "it": {
+      "language": "it",
+      "value": "Olimpiade d'Epiro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オリュンピアス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ოლიმპიადა ეპირელი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "올림피아스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Olympias"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Olimpija"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Олимпија"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "ऑलिंपियास"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Olympias"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Olympias"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Olympias"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Olimpias"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "اولمپاس"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Olímpia do Epiro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Olímpia do Epiro"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Olimpia din Epir"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Олимпиада Эпирская"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Olimpijada"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Mirtal"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Олимпијада"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Olympias"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Olimpias"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Олімпіада Епірська"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "اولمپیاس"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奧林匹亞絲"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "奥林匹亚丝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "奥林匹亚丝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "奧林匹亞絲"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "奧林匹亞絲"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "奥林匹亚丝"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "奧林匹亞絲"
+    }
+  },
+  "lastrevid": 17551180,
+  "modified": "2025-09-17T10:19:31Z",
+  "ns": 860,
+  "pageid": 163603,
+  "sitelinks": {},
+  "title": "Item:Q135218",
+  "type": "item"
+}

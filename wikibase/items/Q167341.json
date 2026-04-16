@@ -1,0 +1,536 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Andronikos III of Trebizond //"
+      },
+      {
+        "language": "en",
+        "value": "Andronikos III of Trebizond"
+      },
+      {
+        "language": "en",
+        "value": "Andronikos III Megas /Komnenos/"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q46203$173CFC14-C67C-4D2B-A851-AD9192E113D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "350262"
+          },
+          "hash": "986dc71d1daab37ae374c74dab0ac7e2e9b1cf96",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q46203$86CAC624-31F5-456B-A14C-6C98D50AEC80",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00764360"
+          },
+          "hash": "d53569245288f5a440fd899206a373ed7e61c8df",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q46203$CD430FE0-F0AE-437D-84BD-3D713B3DE345",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50103",
+              "numeric-id": 50103
+            }
+          },
+          "hash": "f523d6f9b3c2382aeed50df86bf759f73a28b547",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46203$9D6C5A8A-7E52-444B-A4B7-735128C35E9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167360",
+              "numeric-id": 167360
+            }
+          },
+          "hash": "caec78a8f2b578982cc616a6e6536f7d2a0b8aac",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q46203$3BDD74C3-3F46-4B5E-9680-0FEBA07D0738",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46203$06C72570-441D-4161-AE50-2BA55C2A3154",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q46203$DD746BB6-16E4-488A-9A07-EEFFCEE8DE89",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Andronikos_III_of_Trebizond_(1)"
+          },
+          "hash": "b8a2695542adb0a34c40be1de6d989464062b0a7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q46203$99974FF6-2F74-4340-94D7-AF6D3555AFC9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p21912.htm#i219118"
+          },
+          "hash": "08a96dd77234bf26ff606c95eeb7b5670b7cbe3a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q46203$4101C5C5-BF4D-46B1-AF5F-91FFDABF21DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43298",
+              "numeric-id": 43298
+            }
+          },
+          "hash": "2f2b37b73c9a18629a36ad79871c6c94f9536290",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46203$DC869E20-245E-426D-9F8A-A311C9DB9074",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167322",
+              "numeric-id": 167322
+            }
+          },
+          "hash": "8ec82b1173ad9b3151d93340733a087990857e8c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q46203$A7C9FCED-E93C-4202-BD5C-182224D6B96A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46195",
+              "numeric-id": 46195
+            }
+          },
+          "hash": "30e60b90088f4964578bbe0f40568a766fa338ab",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46203$D04442B2-1E30-4A85-BCC4-A542F39EDA68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167318",
+              "numeric-id": 167318
+            }
+          },
+          "hash": "2c96e2eea9928a157aec2df82dddf8533e88a6f9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46203$E8592E8E-6810-4EF8-A6EB-2A67FD5DED3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q46203$D5CD47C0-A4D8-404E-ADC2-B987C5D5EAC8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1310-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e3fc234c292844c02bb13f8ef28b8ecc8711da73",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q46203$006325E2-E95E-4212-ABD6-7E1434905D06",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1332-01-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e312250ccd08512e3e58e2aa64bcd0fc7f33eb1f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46203$64EEBFCA-B054-4DBC-BE15-4738DA865402",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q365659"
+          },
+          "hash": "d209974e967f9850aa7beea56c9e486d763e6096",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q46203$E746727F-47B7-4693-8924-EF38325DA000",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008384003915"
+          },
+          "hash": "bfe72308eb456a17b07b59758d465c5eb01ae3d4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46203$9ECEC95E-73FE-4C0D-A0F3-926016D840F9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Andronikos III of Trebizond Arms.svg"
+          },
+          "hash": "fd75770781482b54acce21a67419f8c96d31a01a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Kaiser von Trapezunt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Trebizond"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador de Trebisonda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur de Trébizonde (1330-1332)"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore trapezuntino"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit keizerrijk Trebizonde (1310-1332)"
+    }
+  },
+  "id": "Q46203",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أندرونيكوس الثالث الطربزوني"
+    },
+    "az": {
+      "language": "az",
+      "value": "III Andronik (Trabzon imperatoru)"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "اۆچونجو آندرونیکوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Андроник III Велики Комнин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Andrònic III Comnè"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Andronik III. Trapezuntský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Andronikos III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ανδρόνικος Γ' Μέγας Κομνηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Andronikos III of Trebizond"
+    },
+    "es": {
+      "language": "es",
+      "value": "Andrónico III de Trebisonda"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آندرونیکوس سوم ترابوزان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Andronic III de Trébizonde"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Andrónico III de Trebisonda"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Andronik III. Trapezuntski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Andronikosz trapezunti császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "Andronico III di Trebisonda"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ანდრონიკე III"
+    },
+    "la": {
+      "language": "la",
+      "value": "Andronicus III"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Andronikas III Megas Komninas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Andronikos III Megas Komnenos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Andronikos III Megas Komnenos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Andronik III Wielki Komnen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Andrônico III da Trebizonda"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Andrônico III da Trebizonda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Андроник III Великий Комнин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Andronikos III of Trebizond"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Андроник III Велики Комнин"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Андроник III Велики Комнин"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Andronik III Veliki Komnin"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Andronikos III av Trabzon"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "III. Andronikos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Андронік III (імператор Трапезунда)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安德洛尼卡三世"
+    }
+  },
+  "lastrevid": 17451070,
+  "modified": "2025-09-16T10:09:13Z",
+  "ns": 860,
+  "pageid": 62332,
+  "sitelinks": {},
+  "title": "Item:Q46203",
+  "type": "item"
+}

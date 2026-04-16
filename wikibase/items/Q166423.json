@@ -1,0 +1,856 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Flavia Iulia Helena Augusta"
+      },
+      {
+        "language": "en",
+        "value": "Helena Auguta Britannica"
+      },
+      {
+        "language": "en",
+        "value": "Saint Helena of the Cross"
+      },
+      {
+        "language": "en",
+        "value": "Helena Augusta"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q61664$75E5FA94-0FA8-4656-9575-A8971C64AE3C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "179089"
+          },
+          "hash": "4b30c576016c46c6251e4bd3890a6f4f769858cf",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q61664$10DD5469-1E04-403E-BF0C-AC8D1BFDA817",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00313515"
+          },
+          "hash": "a5c26a8918a45200974af0cd2a8004bd287810bf",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q61664$8E209C13-CEC6-4DA3-B0E5-69FE22A3F53C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61367",
+              "numeric-id": 61367
+            }
+          },
+          "hash": "63251829e1a4030af372910f8d9ce6e3765eb5be",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61664$D2208360-DDFA-41FD-BE76-C84F67C31F22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62555",
+              "numeric-id": 62555
+            }
+          },
+          "hash": "4378cc8de4a1e33ffadcf328f55b7eedaaa35da8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q61664$CD198DF9-6872-4BA6-964B-6F527819A3FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Unknown-322710"
+          },
+          "hash": "8522165d6326add74082519506ee1eb29df1d0c2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q61664$A392BB1C-FA8A-4D02-9ADA-07B6C933DA12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61664$3B5E5F6D-DB4B-4D30-BA8D-DA0F6FA73EB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q61664$1FAAAF1A-84E3-44F4-B973-DAC3C2B65170",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Helena_Unknown_(8)"
+          },
+          "hash": "1d1a09b7d7004ff0043ea21079d20d36d527b694",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q61664$8B74400C-AB61-4037-971F-437A1DC38525",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61565",
+              "numeric-id": 61565
+            }
+          },
+          "hash": "cd49229a3aa5cba073d756f3f08fc5b4ae771a1e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q61664$6C5B8D06-D7DA-45CB-B472-E986CF45D333",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61990",
+              "numeric-id": 61990
+            }
+          },
+          "hash": "08f3fed7d0f4d84b32a3188a05c803e8000685e1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61664$C3AA63D2-D6EB-4FD3-AF4A-78DD74C30721",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136016",
+              "numeric-id": 136016
+            }
+          },
+          "hash": "d8c00ab4f3a2b5a5e5caf3b17b0e133a9a050c9d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q61664$C1E01F56-7843-435C-B68C-6C6D5AA04D39",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "10694843|36709110"
+          },
+          "hash": "477c391bc64c291085e5ac5beb129bf58605b7b9",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q61664$D7265060-123D-4B23-8302-2FC5DE226FB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q61664$A6A879DC-05F6-4153-8B0C-42041033B753",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "368dc1e752474150a1da591be3284477af436fc7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q61664$73CC6411-B09D-4E1F-9BD4-F247340655F0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0330-08-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bb9fabe1042d55d40edab7d19dec9636557572e6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q61664$B59C0395-04B1-42AB-A40F-57E7BCAA26B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q170164"
+          },
+          "hash": "794c3c55b0b71aa828ccef8af427751a0aa602fb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q61664$7509F377-AC36-4078-B7A9-C888C3B7A51D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002122805101"
+          },
+          "hash": "a00bdf2168a64ad6bf56045765e1719976385d4d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q61664$EBD268FF-288D-438E-B99F-8C16742DCA3F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:35373"
+          },
+          "hash": "a3e59111ccb782d6525a6230527f5b127c84e803",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q61664$8AF44298-8385-4D93-8280-5CB70F87C639",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Helena Augusta Arms.svg"
+          },
+          "hash": "7f86ec77f4ab7f4bb494ec0f91d4a7837b597ebd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q61664$A05946F7-2711-4A50-A3ED-7DC0725E3B0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/ca3b1488-b012-4fa3-93ea-ab5e305dc504"
+          },
+          "hash": "c3d22a6c381f960b72cf274d5cf202f1d39ffbd1",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "والدة الإمبراطور الروماني قسطنطين الأول"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "рымская імпэратарка, маці Канстанціна Вялікага"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Emperadriu de l'Imperi Romà i mare de l'Emperador Constantí el Gran(250-330)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "manželka římského císaře Constantia I. Chlora, matka Konstantina Velikého"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "gwraig gyntaf yr ymerawdwr Rhufeinig Constantius Chlorus, a mam yr ymerawdwr Cystennin Fawr (250-330)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mutter des römischen Kaisers Konstantin"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγία, Αυτοκράτειρα, μητέρα Μ. Κωνσταντίνου"
+    },
+    "en": {
+      "language": "en",
+      "value": "saint, first wife of Roman emperor Constantius Chlorus, and mother of Emperor Constantine the Great (250-330)"
+    },
+    "es": {
+      "language": "es",
+      "value": "madre del emperador Constantino, santa cristiana"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Konstantinus Suuren äiti"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice romaine, mère de Constantin Ier"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסרית רומית"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "रोम की महारानी और क्रिसचियनिटी की एक संत"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana, moglie di Costanzo Cloro e madre di Costantino I, venerata come santa da varie Chiese cristiane"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "chrëschtlech Helleg an réimesch Keeserin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heilige, moeder van de Romeinse keizer Constantijn de Grote"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "mãe do imperador romano Constantino I"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "mama împăratului Constantin cel Mare"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "мать римского императора Константина Великого"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "manželka rímskeho cisára Konstantia Chlora, matka Konštantína Veľkého, patrónka archeológov"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "prva žena rimskega cesarja Konstancija Klora in mati cesarja Konstantina Velikega (250–330)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "мајка римског цара Константина I Великог"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "mor till den romerske kejsaren Konstantin den Store"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma imparatoru 1. Konstantin'in annesi"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Рим империясе императрицасы, император Бөек Константин анасы"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "thân mẫu của Constantinus Đại đế (246/248–330)"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "רוימישע קייסערטע"
+    }
+  },
+  "id": "Q61664",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Helena van Konstantinopel"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Elene Constantinoples"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "هيلانة"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "القديسه هيلانه"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Helena de Constantinopla"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "سنت هلنا"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Elena kan Constantinople"
+    },
+    "be": {
+      "language": "be",
+      "value": "Святая Алена"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Сьвятая Алена"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Флавия Юлия Елена"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "হেলেনা, প্রথম কনস্টান্টিনের মাতা"
+    },
+    "br": {
+      "language": "br",
+      "value": "Flavia Iulia Helena"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Helena de Constantinoble"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Svatá Helena"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Елена Апостола-танскер"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Helena o Gaergystennin"
+    },
+    "da": {
+      "language": "da",
+      "value": "Helena"
+    },
+    "de": {
+      "language": "de",
+      "value": "Helena"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγία Ελένη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Helena Augusta"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Helena de Konstantinopolo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Helena de Constantinopla"
+    },
+    "et": {
+      "language": "et",
+      "value": "Helena Konstantinoopolist"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Helena Konstantinoplakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سنت هلنا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pyhä Helena"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hélène de Constantinople"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Helena fan Konstantinopel"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Helena Augusta"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Helena de Constantinopla"
+    },
+    "he": {
+      "language": "he",
+      "value": "פלוויה יוליה הלנה"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "हेलेना"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sveta Helena"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szent Ilona"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հեղինե Կոստանդնուպոլսեցի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Helena"
+    },
+    "it": {
+      "language": "it",
+      "value": "Flavia Giulia Elena"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "聖ヘレナ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მოციქულთასწორი ელენე"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "성녀 헬레나"
+    },
+    "kv": {
+      "language": "kv",
+      "value": "Лёна лун"
+    },
+    "la": {
+      "language": "la",
+      "value": "Helena"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Helena vu Konstantinopel"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Šv. Elena"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Helena (renin' i Kônstantino)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Света Елена"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Helena"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Helena"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Helena"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Helena av Konstantinopel"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Elena de Constantinòble"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Święta Helena"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Helena de Constantinopla"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Helena de Constantinopla"
+    },
+    "qu": {
+      "language": "qu",
+      "value": "Helena"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Flavia Iulia Helena"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Елена Равноапостольная"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Helena Carigradska"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Svätá Helena"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Helena Avgusta"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јелена"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Јелена"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Jelena"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Helena"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Helena Mtakatifu"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดินีเฮเลนา"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Santa Elena"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Helena"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Изге Елена"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Олена Константинопольська"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "مقدسہ ہیلینا"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Flàvia Jùlia Ełena de Costantinòpułi"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thánh Helena"
+    },
+    "war": {
+      "language": "war",
+      "value": "Helena han Constantinopla"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "圣海伦纳"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "העלענע"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "聖海倫納"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "圣海伦纳"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "圣海伦纳"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "聖海倫納"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "聖海倫納"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "圣海伦纳"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "聖海倫納"
+    }
+  },
+  "lastrevid": 17613914,
+  "modified": "2025-09-20T21:36:02Z",
+  "ns": 860,
+  "pageid": 76495,
+  "sitelinks": {},
+  "title": "Item:Q61664",
+  "type": "item"
+}

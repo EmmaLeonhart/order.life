@@ -1,0 +1,823 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Αντίοχος"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochus"
+      },
+      {
+        "language": "en",
+        "value": "Αντίοχος"
+      },
+      {
+        "language": "en",
+        "value": "Antiochus I Soter"
+      },
+      {
+        "language": "en",
+        "value": "Antiochus I, ruler of the Seleucid Empire"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73737$EBA467B5-DCDB-4B01-9119-70A142E6E57D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139880"
+          },
+          "hash": "8de5b8396baee4ce60f26a077b14a101ce79f1f2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73737$74D49BDC-C19D-480B-9113-78A359967222",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736274"
+          },
+          "hash": "4ce962b5ac6560c58fb7a6c77c74fe897cb0a556",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73737$717EC7CD-F40C-4316-8485-5753DC8578F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73620",
+              "numeric-id": 73620
+            }
+          },
+          "hash": "c83ed879494f4980e2dab42372bbc647d77fa28a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73737$A90D1145-8DDF-4749-820A-3B429CD89C2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73632",
+              "numeric-id": 73632
+            }
+          },
+          "hash": "fa8dbfc9a97215ba0205fb817b66f228f2fddf39",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73737$5709EF4B-54A6-44FB-9FFD-99772BEA2B62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135495",
+              "numeric-id": 135495
+            }
+          },
+          "hash": "c3fe08ef229beaa790f6902c49ffe5fe3bb12a9f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73737$4FC5C1EB-190C-4BCC-9219-AA6F7B3A6F48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135494",
+              "numeric-id": 135494
+            }
+          },
+          "hash": "fa985e4cf86c3dfc3475df35296dee56562fe3b0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73737$206C6313-06FF-46E1-ACA3-5BA28F79E5E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135496",
+              "numeric-id": 135496
+            }
+          },
+          "hash": "3c60a1a30d9a25312e3482566f7059cae2958b08",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73737$52974F7E-924A-4309-B858-E35D364D8405",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165160",
+              "numeric-id": 165160
+            }
+          },
+          "hash": "6cbe43091b9bc3b1beeaef707bfd9d7292fc1b01",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73737$FA726768-3010-43BB-8752-C844517A8B74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165161",
+              "numeric-id": 165161
+            }
+          },
+          "hash": "19b062d86a7374f2350351f1aff26d6c1f0fbe4a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73737$B5F60D11-6F7F-45D3-B4DB-78DFC95C48D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165162",
+              "numeric-id": 165162
+            }
+          },
+          "hash": "2d59abf13b368db352d4004db5a8c86db103a31b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73737$1D0DC16A-EC60-4E46-B574-78C9D4CC08E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73737$02F61834-6AFC-45BE-8047-F645056972E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73737$FEFD1E9E-B34D-429F-9F54-08DED416B240",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus_I_Soter_(1)"
+          },
+          "hash": "28a5a69cdfae070555989dad85150c5cc84ed754",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73737$7C9A5335-6C7B-4F42-9813-6BF393987E8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73740",
+              "numeric-id": 73740
+            }
+          },
+          "hash": "f22d251bc7aa819e6eaa49b98e7fccec8378f6c4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73737$250ECAA1-ED37-4F6A-BF85-F9C3411DD003",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73854",
+              "numeric-id": 73854
+            }
+          },
+          "hash": "31e8a0080a670a9ef88bf728c9d5bb2e7ac727e2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73737$6C9E2CF1-6FCE-4AD8-8486-225EDD6B539E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73851",
+              "numeric-id": 73851
+            }
+          },
+          "hash": "999af07880c3405ce9b698485dbeaa60cf769301",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73737$4B079888-DA8D-45AE-BB35-F70134817440",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73737$D9E8D3EB-4DAF-420E-A4D4-7826EF74E50E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0324-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9872580f2f0598d4e4f66757656bf2e0e93e4b07",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73737$D660546C-2A0A-4DF8-ABFD-7A02AB69DE13",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0261-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de5c300ea8886b0f234fd4ad904e321d063824b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73737$56A669DD-15E0-4FF2-8ABA-F640C2624F03",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q211488"
+          },
+          "hash": "57e8dcbab156af617cefa56312427670b36c902c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73737$D1F5D837-7DFC-4EEE-A4B9-506DB0F5DCDF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006011320007"
+          },
+          "hash": "231c26fe4a94f7b7b28fcce233a75697482a7348",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q73737$3CD6C0C1-3F35-41F2-8B80-9BCFE10844C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52174"
+          },
+          "hash": "1802d79ec1b349089cc8e542c1c52e39754dcd4c",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73737$BAB88495-D601-4A55-B067-10ECE8C7E95C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus I Soter Arms.svg"
+          },
+          "hash": "038c3c5565cf49f86c05c9cf04f92dc06c018605",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q73737$D65924FD-4DFA-48BC-886B-984C53578941",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/0a8867e2-88b4-4f1f-bfa8-543f7b23601f"
+          },
+          "hash": "d901f7aa4ea199f3f626a8d79d4333dd72def7c3",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ثاني ملوك الدولة السلوقية"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei de l'Imperi Selèucida"
+    },
+    "de": {
+      "language": "de",
+      "value": "König des Seleukidenreiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ruler of the Seleucid Empire from 281 to 261 BC"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Persian kuningas (281 eaa.–261 eaa.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "he": {
+      "language": "he",
+      "value": "ממלכה הסלאוקית בין השנים 281 ל-261 לפנה\"ס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "penguasa Kekaisaran Seleukia"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide (r. 281-261 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セレウコス朝の君主"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "македонски крал на Персија"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Seleucidische rijk (324v Chr-261v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król z dynastii Seleucydów"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Государства Селевкидов в 281 — 261 до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "hellenistisk kung i det seleukidiska riket"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "правитель держави Селевкідів"
+    }
+  },
+  "id": "Q73737",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنطيوخوس الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انطيوخوس الاول"
+    },
+    "az": {
+      "language": "az",
+      "value": "I Antiox Soter"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیرینجی آنتیوخوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Антыёх I Сатэр"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антиох I Сотер"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antíoc I Soter"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antiochos I. Sótér"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Антиох I Сотер"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antiochos 1. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antiochos I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίοχος Α΄ Σωτήρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochus I Soter"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antíoco I Sóter"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antioko I.a Soter"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنتیوخوس یکم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiokhos I Soter"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antiochos Ier"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Αντίοχος Α' Σωτήρ"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיוכוס הראשון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Antiokhosz szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antiokhos I Soter"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antioco I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティオコス1世ソテル"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ანტიოქე I სოტერი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안티오코스 1세 소테르"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Antîoxos I Sotêr"
+    },
+    "la": {
+      "language": "la",
+      "value": "Antiochus I Soter"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Antiochas I Soteras"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Antiohs I Soters"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Antiokosy I Sotera"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Антиох I Сотер"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "അന്ത്യോക്യാ I സോട്ടർ"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "I Антиох Сотер"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antiokos I Soter"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochus I Soter"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Antiokos I Soter"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Antiòc Ièr"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antioch I Soter"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antíoco I Sóter"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antíoco I Sóter"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антиох I Сотер"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antioh I Soter"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Antioh I. Soter"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Антиох I Сотер"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Антиох I Сотер"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Antioh I Soter"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antiochos I"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "முதலாம் அந்தியோசூஸ் சோத்தர்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Антиохи I Сотер"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Antiochus I Soter"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Antiokhos Soter"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антіох I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Antiochos I Soter"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安条克一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安条克一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安条克一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安條克一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安條克一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安条克一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安條克一世"
+    }
+  },
+  "lastrevid": 17486524,
+  "modified": "2025-09-16T18:50:20Z",
+  "ns": 860,
+  "pageid": 88568,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73737",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73737"
+    }
+  },
+  "title": "Item:Q73737",
+  "type": "item"
+}

@@ -1,0 +1,812 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Flavia Maxima Fausta"
+      },
+      {
+        "language": "en",
+        "value": "Flavia Maximiana"
+      },
+      {
+        "language": "en",
+        "value": "Flavia Maximiana Fausta"
+      },
+      {
+        "language": "en",
+        "value": "Fausta"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q61334$B4A8EB4C-CA56-4D35-922A-C8BB1FE1ABB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "144086"
+          },
+          "hash": "c6af7dc86a07f4aa272c635445ef490bf01d8285",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q61334$156C8E90-D494-4534-9318-B95FED7FAC9F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00313513"
+          },
+          "hash": "a60d79b0f5c494b9ec0bcb548b9bb6c6ca0e015a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q61334$813DBA8D-7834-4226-8890-BD55C36E07A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61041",
+              "numeric-id": 61041
+            }
+          },
+          "hash": "6bfb4dbb5bb63ff3a84b735f327fb9ed185dfe65",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61334$FBC486AD-04C1-404B-953D-D5B9DC0053CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123558",
+              "numeric-id": 123558
+            }
+          },
+          "hash": "770f9d7fd65c1595ce49a0c6547e72f15f4ae3a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61334$8788B46F-A03D-429E-9AA6-4BC7D14459B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118394",
+              "numeric-id": 118394
+            }
+          },
+          "hash": "60f6ef32515b939425a6eaa92071a4ee864b6bde",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61334$4AD4425C-E003-4EC1-B736-B30C5C4F01C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123560",
+              "numeric-id": 123560
+            }
+          },
+          "hash": "093d71e9b871226b932cbd82efaf5d0741584a53",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61334$081C4442-6C89-4893-B75E-E5A55BC9E6A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123556",
+              "numeric-id": 123556
+            }
+          },
+          "hash": "37ab8ff9cee51ea53a39c4171d5b7f351e289d0a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61334$BFB20EE3-ADB8-4275-8A7E-9A5011AA0259",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123562",
+              "numeric-id": 123562
+            }
+          },
+          "hash": "4d73db4e177b3e955d0b625ae58bf7db7575bd31",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61334$5C81B947-7B24-4955-A992-DAF3E92154D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166494",
+              "numeric-id": 166494
+            }
+          },
+          "hash": "a0266e48225014bf42b5d66e7770594e169f9373",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61334$CDEB87A2-4C1F-4EFD-9B75-72F5B0BE0350",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166495",
+              "numeric-id": 166495
+            }
+          },
+          "hash": "2a239a1e983e39eadb2e4487c2bb080eb5d9f9cc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61334$9CB74460-2AB8-450E-8E23-097A1DA2AB67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166497",
+              "numeric-id": 166497
+            }
+          },
+          "hash": "6189c85581d5472f829171f58418b284f228df61",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q61334$C34D051C-68F4-4F52-849C-9A9363FBD557",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Fausta-1"
+          },
+          "hash": "093b037fa4de141dab54cc28db696577faaac666",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q61334$D53A70CA-9E9A-4E22-A35F-034E51983308",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61334$0152AB01-6AAB-45CD-9223-D34C0F1859F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q61334$0CFC66ED-8B1E-4CBD-BCC0-A83524A8AFB4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Fausta_(1)"
+          },
+          "hash": "5965cec9995adf73cbd1b73c392cda0c3419fafa",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q61334$E2CFC0A6-14D1-45B8-AD18-49B158D8169D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61367",
+              "numeric-id": 61367
+            }
+          },
+          "hash": "e139722b8611d69a146204cde11fc34626d6fca3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61334$F6631E47-1D06-4A03-A3CB-3C4200E86899",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62555",
+              "numeric-id": 62555
+            }
+          },
+          "hash": "319664627a646ed43d0ee95b9af2c57db04202bd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q61334$48A983C1-8A06-482B-99A2-2A45DFAAD76E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61598",
+              "numeric-id": 61598
+            }
+          },
+          "hash": "c6a4e67745400e6fb8746eda2e4f10252c522910",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q61334$561BEDAA-7C06-4273-AC35-FA270FF3ACFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61631",
+              "numeric-id": 61631
+            }
+          },
+          "hash": "ddd52b4fc046f367d7729dcea3ea29833d50892b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q61334$4A72B709-507F-4F6F-9896-2094714D0B64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q61334$D3991427-9BB1-45D6-AF21-4828AC44C42B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0289-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70bf864a97727337dcf864ab6f6a10e7b8cd8d7e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q61334$BE8F29E5-8F18-4421-A212-4523D0401ED8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0326-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bf3e0109ff19214f8bbd57a34fadae842981a57a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q61334$EA185E6F-4BC6-44F6-9C36-15C77721211E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q231063"
+          },
+          "hash": "b88602bec160f1102ac58b941a49f6a5d1922049",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q61334$D6E0FD8B-356F-4DE3-8A24-E0BCDEB5E80A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008211661175"
+          },
+          "hash": "749e50b1e4a2f8cf724989d76e4d4c6810ffe22e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q61334$C821D9D0-3A32-4C70-A2FD-E1AF78DBCFD8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:35457"
+          },
+          "hash": "92780233270b99da2d0388d253e18d0c3ad2562d",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q61334$757C5869-B772-475F-845A-F2DCEC68F0C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fausta Arms.svg"
+          },
+          "hash": "bd890da86029675edf52938bf155efa01c1887fc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q61334$05F36BB5-7A88-4E09-9AB6-5E42A554BDF4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/fd07e051-aa27-4dec-bf68-3fbd5a20e826"
+          },
+          "hash": "2c23f08d303765ebbe841caf6ed0c581b308c0b1",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "římská císařovna a dcera římského císaře Maximiana"
+    },
+    "de": {
+      "language": "de",
+      "value": "römische Kaiserin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman empress and second wife of Constantine I"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana consorte"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice romaine, épouse de Constantin Ier"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Costantino I"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "réimesch Keeserin"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "imperatriz romana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римская императрица"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "rimska cesarica in druga žena Konstantina Velikega"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римська імператорка"
+    }
+  },
+  "id": "Q61334",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فاوستا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ماريوس فوسطا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Fausta"
+    },
+    "be": {
+      "language": "be",
+      "value": "Флавія Максіма Фауста"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фауста"
+    },
+    "br": {
+      "language": "br",
+      "value": "Fausta Flavia Maxima"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Flàvia Maximiana Fausta"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fausta"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Fausta"
+    },
+    "da": {
+      "language": "da",
+      "value": "Fausta"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fausta"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φαύστα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fausta"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Faŭsta"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fausta"
+    },
+    "et": {
+      "language": "et",
+      "value": "Fausta"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فاوستا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Fausta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fausta"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Fausta"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Fausta"
+    },
+    "he": {
+      "language": "he",
+      "value": "פאוסטה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Fausta Flavia Maxima"
+    },
+    "id": {
+      "language": "id",
+      "value": "Fausta"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fausta"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ファウスタ・フラウィア・マクシマ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ფლავია მაქსიმა ფაუსტა"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "파우스타"
+    },
+    "la": {
+      "language": "la",
+      "value": "Fausta"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Fausta"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Fausta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fausta"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Fausta"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Fausta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fausta"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fausta"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Fausta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Флавия Максима Фауста"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Fausta"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Fausta"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Фауста"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Фауста"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Fausta"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fausta"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fausta"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фавста"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "فاوستا"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "פאוסטא"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "法烏斯塔"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "法乌斯塔"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "法乌斯塔"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "法烏斯塔"
+    }
+  },
+  "lastrevid": 17470828,
+  "modified": "2025-09-16T15:01:06Z",
+  "ns": 860,
+  "pageid": 76165,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q61334",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q61334"
+    }
+  },
+  "title": "Item:Q61334",
+  "type": "item"
+}

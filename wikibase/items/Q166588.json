@@ -1,0 +1,986 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Flavius Valentinianus (Flavius Valentinianus)"
+      },
+      {
+        "language": "en",
+        "value": "Valentinian I, Roman Emperor"
+      },
+      {
+        "language": "en",
+        "value": "Valentinianus I (Flavius Valentinianus)"
+      },
+      {
+        "language": "en",
+        "value": "Valentinian I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73089$AE85901A-97BA-4B18-A522-BD43B0572930",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "31823"
+          },
+          "hash": "069176d595d75950d3a242e1022d75490ea8adad",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73089$EBC59F8F-B646-4D90-93E7-D9E3F3CEE5D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00248950"
+          },
+          "hash": "9b678dae8e4858372ff075935349052b33a9c2ef",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73089$7EA0AECF-46D0-4B79-B111-C7FFA2890D58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62668",
+              "numeric-id": 62668
+            }
+          },
+          "hash": "558d911ce736e1c1c459c6f4bc63ab2993f94498",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73089$228CAE53-6970-417A-AB0D-5621DBAEBA19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118478",
+              "numeric-id": 118478
+            }
+          },
+          "hash": "6fc6c5aef7ca317ac54dc715f182a82b1e11c8b3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73089$A664DAC5-6C1D-49ED-AB0C-BD53BD1FF4CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118476",
+              "numeric-id": 118476
+            }
+          },
+          "hash": "a34baf9834f0a744c422222c7d87cf128a46d29e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73089$4F18DBA3-5A6C-4691-AE10-C2F4E2A04DA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118474",
+              "numeric-id": 118474
+            }
+          },
+          "hash": "8313c961b3db1430545737a0c1c0d2221e19c44e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73089$FBDB8D01-869A-4775-A63E-89BA49E64A8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166659",
+              "numeric-id": 166659
+            }
+          },
+          "hash": "e590547c869d45edfc731c2770408b0fcd205555",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73089$77C8413F-E1E5-4611-B59E-CF5A50ABF8C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166662",
+              "numeric-id": 166662
+            }
+          },
+          "hash": "257b56c26a0de7154a28b4f285c0183b9a262ffc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73089$78203DA5-A06B-46B6-9BD9-0E16BEA4974B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166664",
+              "numeric-id": 166664
+            }
+          },
+          "hash": "b2b70a4d8e8a52b66720e971fa642618cce6fbfa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73089$F7EFA95A-A657-48B5-984F-D96365896685",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166665",
+              "numeric-id": 166665
+            }
+          },
+          "hash": "c50a7064bac91db8a05f9436b6a1939da6a177a5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73089$0BE21EA0-DFEF-4CCF-A0C4-594BA7C2F6A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166666",
+              "numeric-id": 166666
+            }
+          },
+          "hash": "f47bd3536112de57bba675fefea9ba706be2b2ec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q73089$7814721A-DB22-471A-B05D-08203CE13E41",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Valentinianus-1"
+          },
+          "hash": "887ab2e0d039348a8ef2fe582dde358953889315",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73089$2C4F7AB7-93BC-4D0D-B2C0-69D4C9BB91A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73089$C76D96B8-26FF-4DD6-AAD1-29AC0C136CAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73089$8A45AC3A-3503-45CC-81DA-3C91DB4FC8EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Valentinian_I_(1)"
+          },
+          "hash": "2dcb676f8121589ac6ec2834b6eb897f8055cd58",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73089$CB9C7B14-5EA4-41FE-A786-1F8A5BDC6A51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73086",
+              "numeric-id": 73086
+            }
+          },
+          "hash": "f2f20adcf603a9252dcd7969c37091695e3bfa0e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73089$A370E5C4-879F-4B77-81F3-6DBAECF83B32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123624",
+              "numeric-id": 123624
+            }
+          },
+          "hash": "309479505ef9b974047c4b4e8e9507911e1f3811",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73089$CAB3E284-77B8-4375-A53C-BB491B5677D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166658",
+              "numeric-id": 166658
+            }
+          },
+          "hash": "ab8367c003c6e300d351a6e31060d5927be951e5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73089$16E26D7C-E4C1-40FE-AA6B-3FD6D2246189",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166660",
+              "numeric-id": 166660
+            }
+          },
+          "hash": "1ad4699d4e367c17636d8245d7d1919fa3254e13",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73089$77B23E56-3580-4C70-BDA7-C11F9577B97D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61008",
+              "numeric-id": 61008
+            }
+          },
+          "hash": "0237267c4dd4cb28a403f743e1731b0bfb70b2f4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73089$D2A971AE-579C-456E-AD1D-BA769A7EDB62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61041",
+              "numeric-id": 61041
+            }
+          },
+          "hash": "84d6b6e417fa6e159197fb78a18315561ffaffd6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q73089$ADB74090-CFB6-4864-A74F-17B535B9FB3B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "37079307"
+          },
+          "hash": "130e74fb3f116e9630b4026c6c6f38634add51da",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73089$03F0CC78-D4A9-4104-AFDA-2059A5FA835B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73089$4CA56414-FB90-43F1-A9AE-B7A808D939F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0321-07-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f9305248bdd4e8b0a4d24b6a50fd29121b543596",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73089$3D5B0799-8DC7-4DC5-9C57-ACA8F4C93453",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0375-11-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3acf8bc6dbcc895480c04e8de4bb73d1e99ba917",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73089$FC0EF26A-CF2E-4B75-B55F-7E385AA49998",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q46720"
+          },
+          "hash": "142a34163d627a78a602a534117670a23ad3dd4d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73089$B6C952AE-91D9-4960-870D-A56ACFE52DE6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006267614247"
+          },
+          "hash": "92347b849e3c0b47bddaa8568001b516a05cc699",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73089$ED6120CE-EA85-4143-86BC-990BB4A04BDA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Valentinian I Arms.svg"
+          },
+          "hash": "bcb18cd4804859caefd1729fb3e59cd643d7e3c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q73089$0233B2A3-8DDE-4B00-8F49-3FD551EBC523",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/4c279701-12c2-4af7-9906-ca1d191a3122"
+          },
+          "hash": "25b1d2ea31eb199fd00e3c452814b27a246186e5",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور روماني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "إمبراطور روماني حكم من ٣٦٤ ل ٣٧٥ ميلادي"
+    },
+    "az": {
+      "language": "az",
+      "value": "364–375-ci illərdə taxtda olmuş Roma imperatoru"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador romà"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Kaiser im Westen (364–375)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman emperor from 364 to 375"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano de occidente (364-375)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Länsi-Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain de 364 à 375"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano entre 364 e 375"
+    },
+    "he": {
+      "language": "he",
+      "value": "אוגוסטוס של האימפריה הרומית משנת 364 עד לשנת 375."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Római Birodalom császára"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi yang memerintah dari tahun 364 hingga 375 Masehi"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore romano (r. 364-375)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ローマ皇帝"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Romas imperators no 364. līdz 375. gadam"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Keizer van het Oude Rome (321-375)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский император"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rímsky cisár"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "رومی شہنشاہ 364 سے 375 تک"
+    }
+  },
+  "id": "Q73089",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Valentinianus I"
+    },
+    "an": {
+      "language": "an",
+      "value": "Valentinián I"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "فالنتينيان الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فالنتينيان الاول"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Valentiniano I"
+    },
+    "az": {
+      "language": "az",
+      "value": "I Valentinian"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیرینجی والنتینیان"
+    },
+    "be": {
+      "language": "be",
+      "value": "Валентыніян I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Валентиниан I"
+    },
+    "br": {
+      "language": "br",
+      "value": "Valentinian Iañ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Valentinià I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Valentinianus I."
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Valentinian I"
+    },
+    "da": {
+      "language": "da",
+      "value": "Valentinian I"
+    },
+    "de": {
+      "language": "de",
+      "value": "Valentinian I."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Valentinianus I"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ουαλεντινιανός Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Valentinian I"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Valentiniano la 1-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Valentiniano I"
+    },
+    "et": {
+      "language": "et",
+      "value": "Valentinianus I"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Valentiniano I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "والنتینیان یکم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Valentinianus I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Valentinien Ier"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Falentinianus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Valentiniano I"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Valentinian 1-sṳ"
+    },
+    "he": {
+      "language": "he",
+      "value": "ולנטיניאנוס הראשון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Valentinijan I."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Valentinianus római császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վալենտինիան I"
+    },
+    "id": {
+      "language": "id",
+      "value": "Valentinianus I"
+    },
+    "is": {
+      "language": "is",
+      "value": "Valentinianus 1."
+    },
+    "it": {
+      "language": "it",
+      "value": "Valentiniano I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウァレンティニアヌス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ვალენტინიანე I"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "발렌티니아누스 1세"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Valentînianus I"
+    },
+    "la": {
+      "language": "la",
+      "value": "Valentinianus I"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Valentiniāns I"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Valentinien Ier"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Валентинијан I"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "व्हॅलेंटिनियन पहिला"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Valentinian I"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Valentinianus 1-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Valentinian I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Valentinianus I"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Valentinian I"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Valentinian Ier"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Walentynian I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Valentiniano I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Valentiniano I"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Valentinian I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Валентиниан I"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Valintinianu I"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Valentinian I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Valentinijan I"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Valentinián I."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Valentinijan I."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Valentiniani I"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Валентинијан I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Valentinianus I"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Valentinian I"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Valentinianus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Валентиніан I"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "والنتینیان اول"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Valentinian I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Valentinianus I"
+    },
+    "war": {
+      "language": "war",
+      "value": "Valentinianus I"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "瓦伦提尼安一世"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Valentinian 1k"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "華倫提尼安一世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "瓦伦提尼安一世"
+    }
+  },
+  "lastrevid": 17485758,
+  "modified": "2025-09-16T18:39:25Z",
+  "ns": 860,
+  "pageid": 87920,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73089",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73089"
+    }
+  },
+  "title": "Item:Q73089",
+  "type": "item"
+}
