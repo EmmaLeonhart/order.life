@@ -1,0 +1,438 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Julius Libo"
+      },
+      {
+        "language": "en",
+        "value": "Lucius Julius Libo consul 267 BC"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73866$74A2174F-2D6A-4737-A7FB-A1F1017C7EE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "86116"
+          },
+          "hash": "e5a4653eb9bf08585cb9ff49a880d3e0c02191de",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73866$9DD2701E-3D4E-44AA-A946-7C7DBAFA91D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73761",
+              "numeric-id": 73761
+            }
+          },
+          "hash": "78b80d8cd15b0df417bbe8c479d5438950be7c74",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73866$01BCBDB7-DB90-4354-9417-F085502A501E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144027",
+              "numeric-id": 144027
+            }
+          },
+          "hash": "302006b7392b6674c5867203aa9a46d57db6ecb9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73866$A3D59BD8-B6C7-4651-9A2A-D9E25CCB5223",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151462",
+              "numeric-id": 151462
+            }
+          },
+          "hash": "605b6fb87ce02b1afc0e0ab1d062fbd3cf11f1f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73866$7872FAB3-26F1-43F4-8C2E-ADDA06E736EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73866$B74B4E4A-827C-4A5D-8112-66174F9315CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73866$BFA8ABC7-CC4D-49C3-9DB3-7FF7B1A3330C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73869",
+              "numeric-id": 73869
+            }
+          },
+          "hash": "ebbc6834a64fd816a55fa054c241d23207c4fdc8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73866$4C047173-A4F2-4B2F-8992-2EB75D7F9B19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73955",
+              "numeric-id": 73955
+            }
+          },
+          "hash": "6e902c5d3d81bb199f84e1e9d66fc8e81a054bce",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q73866$569B71CC-ACC8-48CA-BF0F-374975CC2FAA",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "consul 267 BC"
+          },
+          "hash": "57ec267f44afadf651676a2974a12eea70f61fca",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73866$430AB5E2-7BC1-461A-88A7-5441CA7B6E54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73866$C9D1B2DA-D625-4F03-9FC8-5D4C87D77117",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73866$8F43FDA1-517D-4208-97F2-C55C51E91B51",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q324602"
+          },
+          "hash": "69428080a4b41f30eb5447e437f968967c916b8e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73866$A692304A-88E1-44FE-BDAE-1305996ADA38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003051250763"
+          },
+          "hash": "40c54e37dc884fb3af1acb7cab2485d3217583e2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73866$814CAE58-CF5E-4D99-B318-EF3716111D23",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Julius Libo Arms.svg"
+          },
+          "hash": "23df3aa52c13520e95e500fd1fbef2420741ae0b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "Conswl Rhufeinig 267 CC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 267 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul en el año 267 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 267 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q73866",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Юлий Либон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Juli Libó"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Lucius Julius Libo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Iulius Libo"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Ιούλιος Λίβων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Julius Libo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Julio Libón"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لوسیوس ژولیوس لیبو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Julius Libo"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Julio Libón"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Giulio Libone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・ユリウス・リボ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Iulius L.f. Libo"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Lucius Julius Libo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Julius Libo"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Júlio Libão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Júlio Libão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Юлий Либон"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lucije Julije Libon"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Julius Libo"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Юлій Лібон"
+    }
+  },
+  "lastrevid": 17486690,
+  "modified": "2025-09-16T18:52:43Z",
+  "ns": 860,
+  "pageid": 88697,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73866",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73866"
+    }
+  },
+  "title": "Item:Q73866",
+  "type": "item"
+}

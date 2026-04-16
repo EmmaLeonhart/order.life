@@ -1,0 +1,368 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Marcius Rex"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73344$18943EB7-8249-43E8-ACF1-77387F4D3524",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735687"
+          },
+          "hash": "0c7baf4dc8ac81d5520cfaa4f8b5dbaa912523e2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73344$93D8E607-2BB3-4E1E-8011-377888DA60E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73185",
+              "numeric-id": 73185
+            }
+          },
+          "hash": "3a14f089198b55eca9ebede6a23afca7f33fa78e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73344$B5F12EB7-F59F-4DCD-A350-03FEB4E2F112",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139696",
+              "numeric-id": 139696
+            }
+          },
+          "hash": "ecae7ff36b992a78ffb6a8d42420866ad99c252e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73344$B6453889-FE86-478D-A3C1-AE0B64516B05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139695",
+              "numeric-id": 139695
+            }
+          },
+          "hash": "7e21d0bad6a60a7fe1f1e082e6547a1a1749a6e1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73344$5E337FCD-3686-4B8A-9A22-4E33FA78CD3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73344$DC1A0411-E5D9-41D4-A919-195BF5D33AE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73344$67836164-A88E-4238-A7B1-12C97591EE2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73488",
+              "numeric-id": 73488
+            }
+          },
+          "hash": "e3e8452d94c7388a00009076b220210f6793214d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73344$B7A3C046-B96F-4CD3-89F7-7403158B6CE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73344$04C9D5B3-28A4-4A2C-847D-2955CF2D0903",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73344$763ACB3F-46B3-4745-8BBE-C87BEFEA2A2B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0143-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c161b5f1a0ae5f6fa6de562e785b18093891655e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73344$EB29365B-662E-47C4-BCD9-E0F2BF4637B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1872296"
+          },
+          "hash": "01ad0109bca0cd271874f0f2aec61119ad2a9a9b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73344$5A0BDD7C-5EDB-4F3F-A0C9-46AA0F8378BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645697522"
+          },
+          "hash": "6c125a4023110007edc8a734992274be2895a691",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73344$3EF8ADBB-B110-48F0-876A-6B7D5B24A710",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Marcius Rex Arms.svg"
+          },
+          "hash": "78739aaa6b30554aeced9b7ee7e39f28d82e1f3c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "praetor in 144 BC, namesake of Aqua Marcia"
+    },
+    "es": {
+      "language": "es",
+      "value": "pretor en el año 144 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préteur romain en 144 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "praetor in 144 v.Chr."
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Pháp quan năm 144 TCN"
+    }
+  },
+  "id": "Q73344",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Марций Рекс"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Marci Rex (pretor)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Marcius Rex"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Marcius Rex"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Marcio Rex"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Marcius Rex"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Marcio Rex"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・マルキウス・レクス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Marcius Rex"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Marcius Rex"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Марций Рекс"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Quintus Marcius Rex"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Марцій Рекс"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Quintus Marcius Rex"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "昆图斯·马尔丘斯·雷克斯"
+    }
+  },
+  "lastrevid": 17486080,
+  "modified": "2025-09-16T18:44:03Z",
+  "ns": 860,
+  "pageid": 88175,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73344",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73344"
+    }
+  },
+  "title": "Item:Q73344",
+  "type": "item"
+}

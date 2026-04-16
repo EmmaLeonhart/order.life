@@ -1,0 +1,388 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Junius Silanus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q72484$894B0DE1-F8B4-4A4E-B9B5-BA458B456493",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1464964"
+          },
+          "hash": "01efb127d759af7309184045a43cb113bb1767d3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72484$DE2E4335-E685-4614-A110-997B69AED240",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72287",
+              "numeric-id": 72287
+            }
+          },
+          "hash": "c52c34d72dee1039e9c9491726130b2de4a5e68b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72484$8956DE6E-5D4D-4E91-A148-79A633F3F83F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72484$47F8D93B-7230-4A0C-B26D-0423674DD52F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72484$3821FD88-EBB1-42F0-BADF-DEAAEEA5A0DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72487",
+              "numeric-id": 72487
+            }
+          },
+          "hash": "f2a7146e45fa15c6c17f794c488dd0bbe44f316f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72484$586675EB-06A8-4363-976B-E331B9888EDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72675",
+              "numeric-id": 72675
+            }
+          },
+          "hash": "3587d7a2732fb88c4492ab4678332fb66d62e1f9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72484$8C5D03D2-D1F8-444A-B4CD-C87DA681C365",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72484$9D1F21C6-0401-45F4-9BB7-5A8E6BB73C53",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0152-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aaa0998293d99e3402baae0203332b9708db9710",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72484$A62D8B8E-3A42-4874-B08A-4FD6627ECF72",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0160-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "535ccc0701e0738a953e70f2adc3ade105ff0676",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72484$697408D3-295C-4943-9F66-3208A2E9EF33",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1283595"
+          },
+          "hash": "57eca572a0d368ffd6cf872a1428a55d64462936",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72484$E8A10015-76A7-4B25-A2F3-5866CD42A049",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003828399783"
+          },
+          "hash": "c9c4057a72e3c1d936770f8bd503485e4661d1dd",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72484$079EAAF8-9292-42B1-B232-63067449F6C3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Junius Silanus Arms.svg"
+          },
+          "hash": "5d58245ca2ab6afe8920d42272f16d20f2210871",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "Konsul des Jahres 109 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "consul 109 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul 109 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 109 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 109 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q72484",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Юний Силан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Juni Silà"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Iunius Silanus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Ιούνιος Σιλανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Junius Silanus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Junio Silano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Junius Silanus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Junio Silano"
+    },
+    "id": {
+      "language": "id",
+      "value": "Marcus Junius Silanus (konsul 109 SM)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Giunio Silano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・ユニウス・シラヌス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Iunius Silanus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Junius Silanus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Júnio Silano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Júnio Silano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Юний Силан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Junije Silan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Junius Silanus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Юній Сілан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "马尔库斯·尤尼乌斯·西拉努斯"
+    }
+  },
+  "lastrevid": 17484968,
+  "modified": "2025-09-16T18:28:18Z",
+  "ns": 860,
+  "pageid": 87315,
+  "sitelinks": {},
+  "title": "Item:Q72484",
+  "type": "item"
+}

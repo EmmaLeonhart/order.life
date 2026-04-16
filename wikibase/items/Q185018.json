@@ -1,0 +1,718 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Livia Drusilla Julia Augusta Drusilla"
+      },
+      {
+        "language": "en",
+        "value": "Livia Drusilla, Roman empress"
+      },
+      {
+        "language": "en",
+        "value": "Livia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q78000$A6ADF6D6-C55E-4D25-9289-A68D86920513",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "86065"
+          },
+          "hash": "0034e0baf11b6e3dc37c7778adb88b1ed869b67e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q78000$4C0D61BB-7870-4974-9F21-FEFCEA02964A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446759"
+          },
+          "hash": "cef3144225039d546114f4de8a1a30656bc20f31",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q78000$B08F3637-BB85-4481-91BD-599F26C9439E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77827",
+              "numeric-id": 77827
+            }
+          },
+          "hash": "d20b3a7b79ec8737288cdb65a3d3d2742d1f34b4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78000$EC8DE85E-2E9A-45AE-9E3F-A4157632C7D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77833",
+              "numeric-id": 77833
+            }
+          },
+          "hash": "e8f5dc71db3ee49279fe740d5182838bf1e87f22",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78000$497C07FA-1223-4819-A868-FD1F08F27B3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78000$CDF94087-EF08-40F0-8D0E-0881FC583DE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q78000$A25868F6-9125-4305-AD49-13D9DFDD75E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Livia_Drusilla_(2)"
+          },
+          "hash": "7e96de7be5c53aef18e9b679903191f86751ee66",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78000$834D5C2A-6AB1-4F16-83AD-5FD1FDDC7F85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78003",
+              "numeric-id": 78003
+            }
+          },
+          "hash": "1282a74217c361b7d509c11d76b4e5425b9c32b4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78000$FF864714-4542-4699-AEB4-F739BA74AE2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72529",
+              "numeric-id": 72529
+            }
+          },
+          "hash": "6e41e95de1364119ffd1c5cc96268cd7be1ab17b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78000$FCDA8F86-FA26-4B91-A3D2-22C5AF7414DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78156",
+              "numeric-id": 78156
+            }
+          },
+          "hash": "3ec64db5d835fd01f246fc296b83e73e3f36c2d8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q78000$BFA2C28E-873B-4F01-A954-5C19D158DA2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78153",
+              "numeric-id": 78153
+            }
+          },
+          "hash": "179ede5bb22348906f28017e50d9c746e4fba17f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q78000$38ABB163-55A6-4F24-A030-704CD18127A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "13140151"
+          },
+          "hash": "a6aeb72a745cbb82083057435092bf67db3449d4",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q78000$CEEFD984-75CF-4AB1-A7DB-31D53411D666",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Roman empress"
+          },
+          "hash": "53990a082e1292416517582eaecf28634c017257",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78000$7F5C8047-6FDA-433C-8AEE-E78ADBA99437",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78000$7574AF98-1BF1-4F42-B0BA-9375934274BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0059-01-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "42f32078623b057547e9821821c3150ba56f0bda",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78000$FC9AFBF6-45DB-48A9-AB2D-2654695B67E2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0029-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ab09628c74e64a6bee5ab79988293baa5f2c0ff3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78000$EF4387AD-F264-40C7-9DFC-87E86D1CB4B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q469701"
+          },
+          "hash": "857db84d738209cea413cd5f736a648a77581f70",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78000$B6EA6A9A-1599-48D5-B716-C8D1137F8E93",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000424886603"
+          },
+          "hash": "04dd1bbb86216c6704ffb8a756fc5a5ad35226b4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78000$83D4D2F6-860C-4D8B-A5EE-B55FE247066D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Livia Arms.svg"
+          },
+          "hash": "ac959962969469d20f8c62555464c771d95e0cdd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "زوجة ومستشارة الإمبراطور الروماني أغسطس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سياسيه من روما القديمه"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římská císařovna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ehefrau des römischen Kaisers Augustus"
+    },
+    "en": {
+      "language": "en",
+      "value": "first Roman empress as consort to Augustus, as well as mother of emperor Tiberius"
+    },
+    "es": {
+      "language": "es",
+      "value": "tercera esposa del emperador romano Octavio Augusto"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Rooman keisarinna"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice romaine, conjointe d'Auguste et mère de Tibère"
+    },
+    "is": {
+      "language": "is",
+      "value": "rómversk keisaraynja (58 f.Kr.-29 e.Kr.)"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana, moglie di Augusto e madre di Tiberio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ローマ皇帝アウグストゥスの妻"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아우구스투스의 아내, 로마의 첫 황후"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Romeins politica (057 VC-0029)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "primeira imperatriz romana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "жена Октавиана Августа, мать императора Тиберия"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "prva rimska cesarica, soproga Avgusta in mati cesarja Tiberija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "första Romerska Kejsarinnan"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "پہلی رومی ملکہ آگسٹس کی ہمسر ملکہ کے ساتھ ساتھ شہنشاہ تیبیریوس کی والدہ بھی"
+    }
+  },
+  "id": "Q78000",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ليفيا دروسيلا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ليفيا دروسيلا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Livia Drusila"
+    },
+    "az": {
+      "language": "az",
+      "value": "Liviya Druzilla"
+    },
+    "be": {
+      "language": "be",
+      "value": "Лівія Друзіла"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ливия"
+    },
+    "br": {
+      "language": "br",
+      "value": "Livia Drusilla"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lívia Drusiŀla"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Livia Drusilla"
+    },
+    "da": {
+      "language": "da",
+      "value": "Livia Drusilla"
+    },
+    "de": {
+      "language": "de",
+      "value": "Livia Drusilla"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λιβία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Livia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Livia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Livia Drusila"
+    },
+    "et": {
+      "language": "et",
+      "value": "Livia Drusilla"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Livia Drusila"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لیویا دروسیلا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Livia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Livie"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Livia Drusilla"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Livia"
+    },
+    "he": {
+      "language": "he",
+      "value": "ליוויה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Livija"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Livia Drusilla Augusta"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Լիվիա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Livia"
+    },
+    "is": {
+      "language": "is",
+      "value": "Livia Drusilla"
+    },
+    "it": {
+      "language": "it",
+      "value": "Livia Drusilla"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "リウィア・ドルシッラ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ლივია დრუზილა"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "리비아 드루실라"
+    },
+    "la": {
+      "language": "la",
+      "value": "Livia Drusilla"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Livia Drusilla"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Ливија Друсила"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Livia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Livia Drusilla II"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Livia Drusilla"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Liwia Druzylla"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lívia Drusa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lívia Drusa"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Livia Drusilla"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ливия Друзилла"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Livija"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Livija Druzila"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ливија Друзила"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Ливија"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Livija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Livia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Livia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лівія Друзілла"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "لیویا"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "莉薇娅"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "莉薇婭"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "莉薇娅"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "莉薇娅"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "莉薇婭"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "莉薇婭"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "莉薇娅"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "莉薇婭"
+    }
+  },
+  "lastrevid": 17491966,
+  "modified": "2025-09-16T20:06:40Z",
+  "ns": 860,
+  "pageid": 92831,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q78000",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q78000"
+    }
+  },
+  "title": "Item:Q78000",
+  "type": "item"
+}

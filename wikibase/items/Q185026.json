@@ -1,0 +1,973 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Vipsanius Agrippa"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q72335$69FFDB70-27E7-4F0C-AD16-85A45ED3C4CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "86072"
+          },
+          "hash": "9cc2a46c8d42c6f288b038d79a21486827d6b78e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q72335$3F8A0000-4F76-435E-8063-6E51FD7E8900",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446760"
+          },
+          "hash": "602791b4a30b448d1b4a4f7fca52acd08e8144a9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72335$7690BC12-62E5-481D-ACFA-6AA7562EF48D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71598",
+              "numeric-id": 71598
+            }
+          },
+          "hash": "10297eda35b427aa6824d4b0f9bfded3a60723fb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72335$94EACCB5-C2D4-4BD0-9ECF-E3DADFD431BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72239",
+              "numeric-id": 72239
+            }
+          },
+          "hash": "0c0343d60a221ab55d569a961ab39edd43dec332",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72335$1D783AC6-4A2F-4184-A822-EFC10E09E1DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139606",
+              "numeric-id": 139606
+            }
+          },
+          "hash": "4f76c5a38f93db600af6e01a26b52759cfc2f5ce",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72335$2C3E002C-4D39-4B77-9FC3-40F9ADA4510E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138432",
+              "numeric-id": 138432
+            }
+          },
+          "hash": "26a5c8cb7cc59c4a97e04f43b0f4727b73b752d5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72335$20F8308C-6E04-4263-9CAD-02EC74BF9C95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138431",
+              "numeric-id": 138431
+            }
+          },
+          "hash": "6305553011fc8f11ed1a5bf86675486944b7d515",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72335$9E7AEBA7-AA20-42E2-83B9-0B2423D004CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138456",
+              "numeric-id": 138456
+            }
+          },
+          "hash": "02f4651a8b70544d44123634bc4753d0a8c2a7a3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72335$DBD09FFB-281F-4858-A473-45A7FB5D510C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139603",
+              "numeric-id": 139603
+            }
+          },
+          "hash": "ab3fc9e8bffda6c6d60fd6b13258e4890f9497c7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72335$C4F64D25-FCDD-4EF3-AFF5-A72A3D85E1B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138423",
+              "numeric-id": 138423
+            }
+          },
+          "hash": "7cf0f84d640a93692667e82847684fb9022c35a4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72335$04FD85C2-7049-41B8-AEC0-8C6E4CE6F1CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138424",
+              "numeric-id": 138424
+            }
+          },
+          "hash": "830f22c4f13d1e2a5911379a967eae091f606cb0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72335$FB0C9998-970A-4C4F-A30B-EDBEB0DC24EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138426",
+              "numeric-id": 138426
+            }
+          },
+          "hash": "b5d8eec660f37979289053e1c70e11c60af991e9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72335$38CF4F4E-D390-4513-BB63-7FE622DF53D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72335$B4798A07-BF4D-4172-BCF4-C14E7B08FD23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72335$bf3520f7-4f08-e825-a6f4-9e6cb740584b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153800",
+              "numeric-id": 153800
+            }
+          },
+          "hash": "3b66e417f1e200d14b1e40ba27fab7789c815575",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72335$50F87741-4F05-49F0-BBBA-43A4BF544B43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus_Vipsanius_Agrippa_(1)"
+          },
+          "hash": "d312be57a7ae50c338b6651db399ee8c53c76628",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72335$7AD3579C-F4EF-45BB-A2C5-BC82283217C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72332",
+              "numeric-id": 72332
+            }
+          },
+          "hash": "4f149288f1883f63dee4508e4aa502ce94d01ba1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72335$8B219382-1632-4D45-9893-FD55F9B9397B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72425",
+              "numeric-id": 72425
+            }
+          },
+          "hash": "389a06c3bafad84ef5457434d682644fe6dbef5f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72335$514C3A08-3BC7-4CAC-902B-D209AE9DD7F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137688",
+              "numeric-id": 137688
+            }
+          },
+          "hash": "62d5ce4de110cc73de80e8e32532fe8b08210bf2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72335$310C8CD0-B372-45B9-AB25-0F45B33A86D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72532",
+              "numeric-id": 72532
+            }
+          },
+          "hash": "bac357774ff9b259e42188751602ecbda7849932",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72335$3DAC6F63-93AC-4222-9373-B59D64A629F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139619",
+              "numeric-id": 139619
+            }
+          },
+          "hash": "4a11f53de3884ee66aa9f18b6ea1816d62c3f4f6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72335$6655FA00-A509-4248-865F-F06FA910C168",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72335$444E23F3-1F09-40BE-B13B-D14B14256A51",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0063-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "865ee4c3e198ac0674b72122ab0e6916ea6051d5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72335$20E9FA8E-4A4D-4075-A1A4-1EFCBA1FC0A7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0012-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4a7a95bd3a643109dda68ac7a58eee2d35ad4881",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72335$A9157147-727E-400D-A23C-6C40A8821A8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q48174"
+          },
+          "hash": "e24598a86745e23c230eda713026fd6ba498a4e7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72335$89698CBE-411A-4EA4-9C63-73824E48F5EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000701119762"
+          },
+          "hash": "d54e395f62c36d24413e630711d293e8d9183bca",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q72335$6A51DBD4-A5DB-4B3F-A4C4-44B69EC2C2BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:26313"
+          },
+          "hash": "0bcb78985f64c250f879538a25da2c31d7820d3b",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72335$04E0A374-2375-464B-9D2F-4540B2C0FCC5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Vipsanius Agrippa Arms.svg"
+          },
+          "hash": "393156500b054566062fdee9ca6fcd7237803d50",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q72335$CC8BCE93-C4EF-46C3-AA50-187381A7DA4F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/0DC22F18-BD82-4184-AA1E-1E33A9DAAF5B"
+          },
+          "hash": "c695bdb2b68cf6999467a63809590e9f12e1444b",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "رجل دولة وقائد عسكري في روما القديمة"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "mà dreta d'Octavi August"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský generál"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk arkitekt og politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Feldherr und Politiker, enger Vertrauter des Augustus"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος πολιτικός και στρατιωτικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "ancient Roman statesman and general"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Romia politikisto kaj generalo"
+    },
+    "es": {
+      "language": "es",
+      "value": "amigo y yerno de Augusto, tres veces cónsul del Estado romano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار و معمار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "général et homme politique romain"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xeneral e cónsul romano, xenro de Augusto"
+    },
+    "he": {
+      "language": "he",
+      "value": "מדינאי ומצביא רומי"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "रोमन राजनेता और सैन्य नेता (63 ईसा पूर्व -12 ईसा पूर्व)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római államférfi és hadvezér"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico, militare e architetto romano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "古代ローマの軍人、政治家。初代皇帝アウグストゥスの側近、娘婿"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "로마 공화정의 집정관"
+    },
+    "la": {
+      "language": "la",
+      "value": "dux et politicus et architectus"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "римски државник и војсководец"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk arkitekt og politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (63v Chr-12v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk arkitekt og politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Rzymianin, polityk i dowódca wojskowy"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Político romano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский полководец и флотоводец"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "стари римски државник и генерал"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk arkitekt och politiker"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Romalı devlet adamı, general ve mimar"
+    }
+  },
+  "id": "Q72335",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ماركوس فيبسانيوس أغريبا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ماركوس فيبسانيوس اجريبا"
+    },
+    "az": {
+      "language": "az",
+      "value": "Markus Vipsanius Aqrippa"
+    },
+    "be": {
+      "language": "be",
+      "value": "Агрыпа"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Агрыпа"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Випсаний Агрипа"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Vipsani Agripa"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Marcus Agrippa"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "da": {
+      "language": "da",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Βιψάνιος Αγρίππας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Marko Vipsanio Agripo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Vipsanio Agripa"
+    },
+    "et": {
+      "language": "et",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Marko Agripa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مارکوس ویپسانیوس آگریپا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Marco Vipsanio Agripa"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרקוס ויפסניוס אגריפה"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मार्कस अग्रिप्पा"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Marko Vipsanije Agripa"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մարկոս Վիպսանիոս Ագրիպպա"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Marco Vipsanio Agrippa"
+    },
+    "id": {
+      "language": "id",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "is": {
+      "language": "is",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Vipsanio Agrippa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・ウィプサニウス・アグリッパ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მარკუს ვიპსანიუს აგრიპა"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Агриппа"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಅಗ್ರಿಪ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마르쿠스 빕사니우스 아그리파"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Markas Vipsanijus Agripa"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Марко Випсаниј Агрипа"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "മാർക്കസ് വിപ്സേനിയസ് അഗ്രിപ്പ"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Маркус Агриппа"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Marcus Visanius Agrippa"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Marco Vipsanio Agrippa"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Marek Agrypa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Vipsânio Agripa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Vipsânio Agripa"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Випсаний Агриппа"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Vipsanije Agripa"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mark Vipsanij Agripa"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Марко Випсаније Агрипа"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "th": {
+      "language": "th",
+      "value": "มาร์กุส วิปซานิอุส อากริปปา"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Віпсаній Агріппа"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Agrippa Mark Vipsaniy"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Marcus Vipsanius Agrippa"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "玛尔库斯·维普撒尼乌斯·阿格里帕"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "瑪爾庫斯·維普撒尼烏斯·阿格里帕"
+    }
+  },
+  "lastrevid": 17613950,
+  "modified": "2025-09-20T22:19:36Z",
+  "ns": 860,
+  "pageid": 87166,
+  "sitelinks": {},
+  "title": "Item:Q72335",
+  "type": "item"
+}

@@ -1,0 +1,515 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Cornelius Scipio Nasica Corculum"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73128$72108B05-3AA5-4714-9E73-BEA0D97DE013",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735583"
+          },
+          "hash": "650c4f6da990993743449d8bae52460e034bcc3f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73128$A5B2EF81-321C-4BA1-A086-06A8D23AA004",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72957",
+              "numeric-id": 72957
+            }
+          },
+          "hash": "e9cfaccf0d34c9e39d9e0d300a9a018066e43071",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73128$F495FD21-EB1F-4EFA-9A0B-FD18BD965559",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148071",
+              "numeric-id": 148071
+            }
+          },
+          "hash": "bc8f88645e0b156c5969f881277a430fc5b952b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73128$92D8ABF7-52EE-4871-9484-5B8FC0AFD41E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73128$1AAD30DD-7E84-496C-A118-8D1D1171B156",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73128$E0CED0C2-BCB1-4EEE-B899-1ABAFE2FAE46",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius_Cornelius_Scipio_Nasica_Corculum_(1)"
+          },
+          "hash": "eafdf5e9655e4decf511e0718895fb199b81f15b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73128$C2813878-F842-46BF-8481-1C054D844B52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73131",
+              "numeric-id": 73131
+            }
+          },
+          "hash": "5891dc1ba7f29ce2dfa5668d0e1c44c37d292aab",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73128$2D3F63AB-E5EE-4B85-93F9-7FF7A8124486",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99368",
+              "numeric-id": 99368
+            }
+          },
+          "hash": "17a7148085f598e434f27f0a20e6c45f460407c5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73128$7B8F18AB-5CCE-4D2A-887C-DC89BA543A96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73293",
+              "numeric-id": 73293
+            }
+          },
+          "hash": "449d2dda9aa90e486b46d7ca2b318ce59d2e0f39",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73128$A158D329-A56A-4EC7-AC97-454FBB75948F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99386",
+              "numeric-id": 99386
+            }
+          },
+          "hash": "e8884f4a60854eb61a045e61a355af5ba70e9281",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73128$E6EA44C2-038E-44AC-BB18-103CF540C4C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99384",
+              "numeric-id": 99384
+            }
+          },
+          "hash": "e28aeb82bced0b443f420dad36668d7b56d1de24",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73128$6E2A78EF-09D7-45B6-952B-45DB76523214",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73128$6C1D777A-26C6-4C9B-9505-11F9A1EAB40E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0205-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e1449b2c58e174f59d17c180008124638dc10721",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73128$49C47E58-D1D9-42C1-9D65-BE1DD626C49D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0141-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6dd4ebac5ba8c12406a1ba45b86b8a49e8dc7c18",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73128$B5A5C745-FA61-463C-B61D-FE69EB46F61F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q503320"
+          },
+          "hash": "c78d6ac23e66fdd07a89796f4402da70f689f9d9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73128$23AFD472-DB14-499E-9C97-29ED45380705",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001412384166"
+          },
+          "hash": "4682d8076e3c157895be34380aa5fe481d035831",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73128$56185831-BEB9-453C-8B10-D30C48F49C0F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Cornelius Scipio Nasica Corculum Arms.svg"
+          },
+          "hash": "24e7baaa113143600a5f5015dbb0f8188dcc8182",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 162 i el 155 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "2nd century BC Roman politician and general"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "2nd century BC Roman politician and general"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 162 et en 155 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano, console nel 162 e nel 155 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-141v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 162 и 155 годов до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q73128",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "پوبليوس كورنيليوس سيپيو ناسيكا كوركولوم"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Публий Корнелий Сципион Назика Коркул"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Corneli Escipió Nasica Còrculum"
+    },
+    "da": {
+      "language": "da",
+      "value": "Publius Cornelius Scipio Nasica Corculum"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Cornelius Scipio Nasica Corculum"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Κορνήλιος Σκιπίων Νασίκα Κορκούλον"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Cornelius Scipio Nasica Corculum"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Publius Cornelius Scipio Nasica Corculum"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Cornelio Escipión Nasica Córculo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "E155"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Publius Cornelius Scipio Nasica Corculum"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Cornelius Scipio Nasica Corculum"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publius Cornelius Scipio Nasica Corculum"
+    },
+    "id": {
+      "language": "id",
+      "value": "Publius Cornelius Scipio Nasica Corculum"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Cornelio Scipione Nasica Corculo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プブリウス・コルネリウス・スキピオ・ナシカ・コルクルム"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "푸블리우스 코르넬리우스 스키피오 나시카 코르쿨룸"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Cornelius Scipio Nasica Corculum"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Cornelius Scipio Nasica Corculum"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Cornélio Cipião Násica Córculo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Cornélio Cipião Násica Córculo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Корнелий Сципион Назика Коркул"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Publije Kornelije Scipion Nasika Korkul"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Cornelius Scipio Nasica Corculum"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Корнелій Сципіон Назіка Коркул"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普布利乌斯·科内利乌斯·西皮奥·纳西卡·科库伦"
+    }
+  },
+  "lastrevid": 17485810,
+  "modified": "2025-09-16T18:40:08Z",
+  "ns": 860,
+  "pageid": 87959,
+  "sitelinks": {},
+  "title": "Item:Q73128",
+  "type": "item"
+}
