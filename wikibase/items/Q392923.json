@@ -1,0 +1,450 @@
+{
+  "aliases": {
+    "es": [
+      {
+        "language": "es",
+        "value": "Haplogrupo C ADN Y"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "M130"
+      },
+      {
+        "language": "ru",
+        "value": "Гаплогруппа C3"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q392923$DC9CF6B0-9E81-4340-B498-7055EDBBB4F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "83135"
+          },
+          "hash": "0b3d8683de46bbd52d495a32a2a51779e07dc2f2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "Q392923$1B527A47-48E9-4EC9-B71B-AAFEABEC9055",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "C"
+            }
+          },
+          "hash": "fce2666f357ba05022d644691855a9f58e47ed5f",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q392923$94BC08B4-DEC0-4F80-858C-3A00A6555A42",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "C"
+            }
+          },
+          "hash": "c58c487cac716f3f355efb2759c135a0a0fbee70",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q392923$F396E3B9-51FC-4F35-AD08-13941E683D82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5651742",
+              "numeric-id": 5651742
+            }
+          },
+          "hash": "5a6e4f390ffba607fbf7212bb50f0eef37cbd872",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q392923$C04E5430-6410-43F1-93DA-99A642E967AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21010904",
+              "numeric-id": 21010904
+            }
+          },
+          "hash": "83ad663859180e2d8707ca33f59939591dce8298",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q392923$9C6B0968-A431-4E80-9099-0DB1E9A5490E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6581097",
+              "numeric-id": 6581097
+            }
+          },
+          "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q392923$088CFC4D-9715-4564-885D-6BFA9A4B15B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q392923$37DA5AC3-9473-4DC3-AC7A-15573B5C799D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup C of Y-DNA"
+          },
+          "hash": "8ebb87f514e300df82d4b0b4746a9b65a56badec",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q392923$5EC496CD-F0B2-4223-B720-650A7C9DF638",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q392923$045648DA-92B6-473B-B32C-D4978D6E7376",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q392923$6CFB2AFD-5F0B-42E7-8F37-D4B7DE185C34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5651749",
+              "numeric-id": 5651749
+            }
+          },
+          "hash": "9f72dd0ad6ef7f30efe6db08d7338349744db7ae",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q392923$66080CDC-FFDB-4BE0-83A7-B9CAA634F41E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q392923$EECC8F65-ABAC-41D9-A38C-AD91FA2ADFED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q392923"
+          },
+          "hash": "6bd8be2b2062a7cae706a9c068e7abc086006b2b",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P646": [
+      {
+        "id": "Q392923$CD65B995-F411-4BC9-AEA9-C4375E3580FA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "/m/0blp8c"
+          },
+          "hash": "3be795efbacecc69fa9cfec8b54be2350e2135b9",
+          "property": "P646",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q392923$88CFCA85-D4D0-4FFB-B4A7-5F94755BB971",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup C Arms.svg"
+          },
+          "hash": "cd8d5c3713dec214d52894c1b374665ca5c3ed28",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q392923$4E174CCD-9834-413D-A67F-50926B963CAC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.yfull.com/tree/C/"
+          },
+          "hash": "c365249200a6f76a2b429aebfe2cb4b64ae996bf",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كلادوبلاست لـالمجموعة الفردانية C"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cladoplast von Haplogruppe C"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup C"
+    },
+    "es": {
+      "language": "es",
+      "value": "cladoplasto de Haplogrupo C ADN-Y"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "cladoplaste de haplogroupe C"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पितृवंश समूह सी का क्लैडोप्लास्ट"
+    },
+    "it": {
+      "language": "it",
+      "value": "cladoplasto di Aplogruppo C (Y-DNA)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループCのクラドプラスト"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하플로그룹 C의 클라도플라스트"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "cladoplasto de Haplogrupo C (ADN-Y)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "кладопласт Гаплогруппа C"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "kladoplast Haplogrup C-M130 (Y-DNA)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "单倍群C-M130的克拉多质体"
+    }
+  },
+  "id": "Q392923",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "المجموعة الفردانية C"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "haplogrup C del cromosoma Y humà"
+    },
+    "de": {
+      "language": "de",
+      "value": "Haplogruppe C"
+    },
+    "en": {
+      "language": "en",
+      "value": "Haplogroup C"
+    },
+    "es": {
+      "language": "es",
+      "value": "Haplogrupo C ADN-Y"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä C"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "haplogroupe C"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पितृवंश समूह सी"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aplogruppo C (Y-DNA)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループC"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하플로그룹 C"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хаплогрупа C-M130"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Haplogrupo C (ADN-Y)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гаплогруппа C"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Haplogrup C-M130 (Y-DNA)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "单倍群C-M130"
+    }
+  },
+  "lastrevid": 17613708,
+  "modified": "2025-09-18T01:03:22Z",
+  "ns": 860,
+  "pageid": 203071,
+  "sitelinks": {},
+  "title": "Item:Q392923",
+  "type": "item"
+}

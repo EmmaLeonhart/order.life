@@ -1,0 +1,370 @@
+{
+  "aliases": {
+    "es": [
+      {
+        "language": "es",
+        "value": "Haplogrupo O ADN Y"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Haplogroup O"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "Гаплогруппа O1"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q428871$F4A7DA70-BD70-4A30-9956-0097E8C7CADD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "83107"
+          },
+          "hash": "c5532737a9835790dd419e186a71b0788efb2458",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q428871$146ED0C6-F24F-42C9-AA0C-BAA3F2CB7624",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q428845",
+              "numeric-id": 428845
+            }
+          },
+          "hash": "afd01b5187d829c9792f67d3a18168a41b56f33b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q428871$873A9208-65D3-444A-958E-C8122970069F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99302735",
+              "numeric-id": 99302735
+            }
+          },
+          "hash": "a2409fc265b5e07259970b4d94a6a357362ad797",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q428871$649D41BF-07E1-46BE-B105-A50AAEB6F055",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q428871$0116F42E-0EA3-4362-A728-51E1FEC28647",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup O of Y-DNA"
+          },
+          "hash": "04e4daf9ee4a5290ee3a5682495689c80a7e8816",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q428871$0E5E92E9-51F6-4690-BE00-ADB1CDEAE453",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q428871$EE0E75C3-A168-445D-9503-BB9927A4D427",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q428871$7078231B-782D-4CAD-BD8B-1D2378AF8BD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2047511",
+              "numeric-id": 2047511
+            }
+          },
+          "hash": "228c9887f4009c875e06878d7ca00f7cc7a2395f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q428871$1F046F36-4AA4-75FA-C01D-3409B665A032",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q428871$5C52DFC1-5BAA-47A7-A3DF-72704B9F3BDA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q428871"
+          },
+          "hash": "41c05bf64d3a191e4af841360027a5602d5f2ea1",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P646": [
+      {
+        "id": "Q428871$78CF7143-2DA5-4F98-B6F0-69682C289B5F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "/m/0blq56"
+          },
+          "hash": "579a885e4df4666bcde93ffe17c6c0e5f479406e",
+          "property": "P646",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q428871$6FEC6791-B7DD-4EC4-90EF-C1B8984E1D95",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup O-M175 Arms.svg"
+          },
+          "hash": "f3b14b9b2c60ecfab322646ad14c73d9d87a4196",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كلادوبلاست لـالمجموعة الفردانية O"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cladoplast von Haplogruppe O"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup O-M175"
+    },
+    "es": {
+      "language": "es",
+      "value": "cladoplasto de Haplogrupo O ADN-Y"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "cladoplaste de Haplogroupe O"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पितृवंश समूह ओ का क्लैडोप्लास्ट"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループOのクラドプラスト"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하플로그룹 O의 클라도플라스트"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "cladoplasto de Haplogrupo O (ADN-Y)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "кладопласт гаплогруппа O"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "cladoplast của Haplogroup O-M175"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "单倍群O-M175的克拉多质体"
+    }
+  },
+  "id": "Q428871",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "المجموعة الفردانية O"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "هاپلوقروپ O-M175"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "haplogrup O del cromosoma Y humà"
+    },
+    "de": {
+      "language": "de",
+      "value": "Haplogruppe O"
+    },
+    "en": {
+      "language": "en",
+      "value": "Haplogroup O-M175"
+    },
+    "es": {
+      "language": "es",
+      "value": "Haplogrupo O ADN-Y"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Haplogroupe O"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पितृवंश समूह ओ"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループO"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하플로그룹 O"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хаплогрупа О-М175"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Haplogrupo O (ADN-Y)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "гаплогруппа O"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Haplogroup O-M175"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "单倍群O-M175"
+    }
+  },
+  "lastrevid": 17613720,
+  "modified": "2025-09-18T01:06:40Z",
+  "ns": 860,
+  "pageid": 203092,
+  "sitelinks": {},
+  "title": "Item:Q428871",
+  "type": "item"
+}

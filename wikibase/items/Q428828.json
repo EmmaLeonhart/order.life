@@ -1,0 +1,411 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "haplogroup L"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Haplogrupo L ADN Y"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Haplogroup L"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "L單倍群"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q428828$7CBE4DC7-C12F-47C1-AE15-291025169879",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "83095"
+          },
+          "hash": "ec52488937675390385ab209d592e3b8d0734428",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "Q428828$44F0DD9A-4FA9-428A-85D8-8B6DAD3EB991",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "L"
+            }
+          },
+          "hash": "07d09358ae25bbe31071d97f3621a940a366457d",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q428828$C8E0CD44-DC8C-41AA-81B1-40D18DB45276",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "L"
+            }
+          },
+          "hash": "374e36e13a6d00bd8adbf258fcbd7ba4c7fb854f",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q428828$685D5A1A-42CE-40A2-9943-2B7A32C8B123",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99464041",
+              "numeric-id": 99464041
+            }
+          },
+          "hash": "92e715043966df3aa1648de06bd039b9b87579d8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q428828$41C7AC24-CCC2-4EC5-A977-48DCBDD599A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q428828$CAAD0056-8CD2-48CD-820D-45BA9D267A47",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup L of Y-DNA"
+          },
+          "hash": "7a265467dabcb7a3960dac689a4c5e0ac1a7fa87",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q428828$CF6BBA8A-1DFF-4B36-9C1E-D4F887E14029",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q428828$E5876192-748E-45E8-919B-EF3A086E74A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q428828$78F60D87-D42F-4573-9C51-1EDAF32210C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24975477",
+              "numeric-id": 24975477
+            }
+          },
+          "hash": "eb58733bec8bfc711db595b910c8ffd22c6239b9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q428828$AEB5E2B8-4D7E-4977-AC9A-C6954EEBDF4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q428828$8DEE2D97-DDD8-4A84-A593-2CE483315700",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q428828"
+          },
+          "hash": "8d671492650de131b69c3d6f780e72611e48af2b",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P646": [
+      {
+        "id": "Q428828$1CBF1152-7679-47C5-8D27-8C0BC5521DB0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "/m/0blq1b"
+          },
+          "hash": "c766fa6c8c060a40e74705e882770edd4b7e644d",
+          "property": "P646",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q428828$463F9E97-B993-475B-8282-9A6FE8F74796",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup L-M20 Arms.svg"
+          },
+          "hash": "56ac1e19b97e3f4117ee5688b3819b66b1da9615",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q428828$61363320-E5EC-497D-8F84-4D78D279508A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.yfull.com/tree/L/"
+          },
+          "hash": "5567b7ad96b7a7f89b58722bdd4d293d8a520264",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كلادوبلاست لـهابلوغروب Y-DNA) L)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cladoplast von Haplogruppe L"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup L-M20"
+    },
+    "es": {
+      "language": "es",
+      "value": "cladoplasto de Haplogrupo L ADN-Y"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "cladoplaste de Haplogroupe L"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पितृवंश समूह ऍल का क्लैडोप्लास्ट"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループLのクラドプラスト"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하플로그룹 L의 클라도플라스트"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "cladoplasto de haplogrupo L (ADN-Y)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "кладопласт Гаплогруппа L"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "kladoplast Haplogrup L-M20 (Y-DNA)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "單倍型類群 L的克拉多质体"
+    }
+  },
+  "id": "Q428828",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هابلوغروب Y-DNA) L)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "haplogrup L del cromosoma Y humà"
+    },
+    "de": {
+      "language": "de",
+      "value": "Haplogruppe L"
+    },
+    "en": {
+      "language": "en",
+      "value": "Haplogroup L-M20"
+    },
+    "es": {
+      "language": "es",
+      "value": "Haplogrupo L ADN-Y"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "haploryhmä L"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Haplogroupe L"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पितृवंश समूह ऍल"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループL"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하플로그룹 L"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Haplogrupa L (Y-DNS)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "haplogrupo L (ADN-Y)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гаплогруппа L"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Haplogrup L-M20 (Y-DNA)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "單倍型類群 L"
+    }
+  },
+  "lastrevid": 17613712,
+  "modified": "2025-09-18T01:06:33Z",
+  "ns": 860,
+  "pageid": 203088,
+  "sitelinks": {},
+  "title": "Item:Q428828",
+  "type": "item"
+}

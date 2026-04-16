@@ -1,0 +1,380 @@
+{
+  "aliases": {
+    "zh": [
+      {
+        "language": "zh",
+        "value": "單倍群 A"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q1584149$44036029-059A-4860-9D98-3A204E8843D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "767959"
+          },
+          "hash": "81eb82c59ef2514a17b3102cfe817b77856a0da4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "Q1584149$8CE6D072-49DE-C6D8-F7F4-56D31178EC75",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "A"
+            }
+          },
+          "hash": "1a56c5d1e0d8a952fef8fc98495b5cee61b9937c",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1584149$2F96E7FA-D50E-48AA-A733-57E3D46B1991",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "A"
+            }
+          },
+          "hash": "ead24398f3771b69742714eafde2abdaf2cdc027",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q1584149$1504E26C-4B63-4AFB-A360-5E03BDD275E5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6581072",
+              "numeric-id": 6581072
+            }
+          },
+          "hash": "5760796ff6ebc63aae12cdcbf509b07ebf0bd201",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q1584149$C2A5A6CF-4CD2-4557-B955-8A8EDB5B2DF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q1584149$A2DE3CAC-CE1C-455D-A4D3-16F1708738F4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup A (mtDNA)"
+          },
+          "hash": "6560f871c3a43a3fa2654efc492fca837c76ae93",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q1584149$BEB1D3A2-18D7-453D-AC4E-598328F27575",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1187100",
+              "numeric-id": 1187100
+            }
+          },
+          "hash": "820e45076a21d4a0da90ef73aabf6c4c10ffc0d8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q1584149$F85E803C-C0E2-46A4-ADF2-385923837339",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q1584149$D7BD2FA3-3617-4C8B-8D2F-2041FFC4780C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1584149"
+          },
+          "hash": "36b05ef7ebd01304466a2eb8977659460feb4ef9",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6366": [
+      {
+        "id": "Q1584149$E088383F-EE50-44F6-AC01-71B700DF2ED8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "117236756"
+          },
+          "hash": "b0080d81d6a1510ebb13405d9c8ed9e5c9c08340",
+          "property": "P6366",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P646": [
+      {
+        "id": "Q1584149$61FCC4AF-7DD1-490D-8626-4D7673B902AC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "/m/0bljng"
+          },
+          "hash": "93e82000691a77991dc79a01ce0524bd9bc4c3cb",
+          "property": "P646",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q1584149$85E30C57-BDA5-4C14-941A-15C71A9B1FE3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup A Arms.svg"
+          },
+          "hash": "401e6ff103b6545cae9f811a47a6a2a84d4abb4b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q1584149$B3D5C2F1-4181-0669-A4BE-04C220E67D8B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "http://haplogroup.org/mtdna/rsrs/l123456/l23456/l2346/l346/l34/l3/n/a/"
+          },
+          "hash": "cdeb4a433d2896649d93f03cd47cc667aefb91a1",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كلادوبلاست لـهابلوغروب A الميتوكوندرية"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "jedna z haploskupin lidské mitochondriální DNA"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cladoplast von Haplogruppe A"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup A"
+    },
+    "es": {
+      "language": "es",
+      "value": "cladoplasto de Haplogrupo A (ADNmt)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ihmisen äitilinjan haplotyyppi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "cladoplaste de haplogroupe A"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मातृवंश समूह ए का क्लैडोप्लास्ट"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループAのクラドプラスト"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "جینز دا ایک گروہ جیہڑا نشاندہی کردا اے کہ متعلقہ جانداراں دا آبائی تعلق کیہڑے خطے نال اے"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "кладопласт Гаплогруппа A (мтДНК)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "človeška mitohondrijska haploskupina"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ہیپلو گروپ A کا کلادوپلاسٹ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "单倍群A的克拉多质体"
+    }
+  },
+  "id": "Q1584149",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هابلوغروب A الميتوكوندرية"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "haplogrup mitocondrial humà A"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Haploskupina A (mtDNA)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Haplogruppe A"
+    },
+    "en": {
+      "language": "en",
+      "value": "Haplogroup A"
+    },
+    "es": {
+      "language": "es",
+      "value": "Haplogrupo A (ADNmt)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä A"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "haplogroupe A"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मातृवंश समूह ए"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループA"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хаплогрупа А (мтДНК)"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "ہیپلو گروپ A"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гаплогруппа A (мтДНК)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "haploskupina A"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ہیپلو گروپ A"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "单倍群A"
+    }
+  },
+  "lastrevid": 17238717,
+  "modified": "2025-09-10T03:47:57Z",
+  "ns": 860,
+  "pageid": 202911,
+  "sitelinks": {},
+  "title": "Item:Q1584149",
+  "type": "item"
+}

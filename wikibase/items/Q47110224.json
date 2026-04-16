@@ -1,0 +1,164 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1813": [
+      {
+        "id": "Q47110224$A872680C-BBD3-41F5-8DC7-2C35071EDE26",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "D2"
+            }
+          },
+          "hash": "f827961008f2400b41acb4b93f8aa1d09a65a977",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47110224$A30E6CBC-0176-48DF-9F43-2CB988F4DD9D",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "D2"
+            }
+          },
+          "hash": "6bc5604cb411164cefbe58ceb22d95cd7ed86664",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q47110224$18CD185C-4C9A-4537-821B-E03625D07A15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47110224$12D8A940-5A06-4A6E-82C5-97BBF5CF0732",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q339685",
+              "numeric-id": 339685
+            }
+          },
+          "hash": "8b63a4c2dc8d826a42766f7b135cc990688d5936",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47110224$644D9045-AAFE-448D-9A63-FD6145CA61A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q47110224$C839470C-113D-43F2-B52B-CB57F8899B0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q47110224"
+          },
+          "hash": "c9bdda9d2e1190918fb0c89ea51ebd86ba7dd7bb",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47110224$1CC9ECD5-135B-4B61-A1A3-B31696C64E11",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup D2 Arms.svg"
+          },
+          "hash": "b9ccae89008707a0cec4b2e5d7fb00a4010b90f7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup D2"
+    }
+  },
+  "id": "Q47110224",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haplogroup D2"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä D2"
+    }
+  },
+  "lastrevid": 17308779,
+  "modified": "2025-09-10T04:26:25Z",
+  "ns": 860,
+  "pageid": 203111,
+  "sitelinks": {},
+  "title": "Item:Q47110224",
+  "type": "item"
+}

@@ -1,0 +1,144 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ante-Adam"
+      },
+      {
+        "language": "en",
+        "value": "Anteadam"
+      }
+    ]
+  },
+  "claims": {
+    "P156": [
+      {
+        "id": "Q105575574$0E32BFD7-495E-24F8-2A0F-3A4048A95147",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134750",
+              "numeric-id": 134750
+            }
+          },
+          "hash": "74c9fa4aa1885631236846e01450273d74123bfd",
+          "property": "P156",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q105575574$22E7C58A-4855-CDDD-A8A7-BA150AFDD967",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134750",
+              "numeric-id": 134750
+            }
+          },
+          "hash": "493edb0459fa12c3b014decd0951fb5de598aac5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q105575574$D55AC6A9-407B-7F65-110D-7F3168995E9D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 6,
+              "time": "-588000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd97d7dcea6f97525612bb4c5eee5ccd657a8901",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q105575574$FDB3974E-444D-0707-C1D6-7667F24A60FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q105575574"
+          },
+          "hash": "0deb17cb79d6f36c127aad70881c58d9efee06cf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q105575574$C46CF743-835E-4173-B2CD-1A5B58B49F04",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ante Adam Arms.svg"
+          },
+          "hash": "f982929fdce5e4c195493b2ab83f3c83ec4cfed4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "most recent common ancestor (TMRCA) of Neandertal and modern human Y chromosomes"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "najrecentnejši skupni prednik (TMRCA) neandertalskega in sodobnega človeškega Y kromosoma"
+    }
+  },
+  "id": "Q105575574",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ante Adam"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pred-Adam"
+    }
+  },
+  "lastrevid": 17396640,
+  "modified": "2025-09-11T19:34:30Z",
+  "ns": 860,
+  "pageid": 203156,
+  "sitelinks": {},
+  "title": "Item:Q105575574",
+  "type": "item"
+}

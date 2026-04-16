@@ -1,0 +1,200 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1813": [
+      {
+        "id": "Q47074426$1EF972E5-1541-4F10-A559-C3C032A600F3",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "C1f"
+            }
+          },
+          "hash": "2598b9b08a459f2411f2b715a8eacf085ae4a08e",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47074426$AB08AC47-D501-456B-A037-B930F356ADF0",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "C1f"
+            }
+          },
+          "hash": "2ce7011b09d956a54134550db9cfd29b075ad7b0",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P242": [
+      {
+        "id": "Q47074426$0F1D4789-4E65-3CEF-750E-D3CE2FAAA9FE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Approximate geographical distribution of the C1 sub-clades in modern and Mesolithic Yuzhnyy Oleni Ostrov populations.png"
+          },
+          "hash": "167148b025e0b283b4a454661df4d56d6182f769",
+          "property": "P242",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q47074426$1DC24E60-7480-4407-BB00-EECA1E6D7F32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q47074426$4381233C-4729-4AB6-A94E-A749E0D3474B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47069023",
+              "numeric-id": 47069023
+            }
+          },
+          "hash": "3895848909bde9aa8d7a89f5b6a3fb4739661d46",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47074426$ECBE3BD1-0684-4239-BA7F-665F6B5F1A7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q47074426$864A1E8E-3092-485C-B044-CF3A3396129A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q47074426"
+          },
+          "hash": "441d5e324560a08b77caf8c1f12e9acec91345c0",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47074426$E387E620-D29B-44CC-B2F4-6B37BDB58514",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup C1f Arms.svg"
+          },
+          "hash": "52d31bc2fd3864f6ecd3f9e0487f1d10b0a6b451",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q47074426$6ABB6555-A36D-4D3E-B2B7-A8DBAA97B166",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "http://haplogroup.org/mtdna/rsrs/l123456/l23456/l2346/l346/l34/l3/m/m8/cz/c/c1/c1f/"
+          },
+          "hash": "0fb939f3b082ba2e6b90786b1bcb58cb994d22cc",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup C1f"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "ihmisen äitilinjan haploryhmä"
+    }
+  },
+  "id": "Q47074426",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haplogroup C1f"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä C1f"
+    }
+  },
+  "lastrevid": 17308675,
+  "modified": "2025-09-10T04:26:15Z",
+  "ns": 860,
+  "pageid": 203022,
+  "sitelinks": {},
+  "title": "Item:Q47074426",
+  "type": "item"
+}

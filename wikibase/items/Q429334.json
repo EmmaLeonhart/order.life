@@ -1,0 +1,530 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Haplogroup I (Y-DNA)"
+      },
+      {
+        "language": "en",
+        "value": "Haplogroup I"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Haplogrupo I del cromosoma Y"
+      },
+      {
+        "language": "es",
+        "value": "Haplogrupo I ADN Y"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Haplogroup I"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "Aplogruppi I"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "单倍型类群I (Y-DNA)"
+      }
+    ],
+    "zh-hant": [
+      {
+        "language": "zh-hant",
+        "value": "單倍型類群I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q429334$8A0FE4B4-911B-42BB-9700-7611D0D9A135",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "83101"
+          },
+          "hash": "d2111e791ba333ec7fad9e72dd0b4361eed0c1f1",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "Q429334$72EAAD00-7EC4-491C-A711-1EF2F9E81B2D",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "I"
+            }
+          },
+          "hash": "428256b5f2a517c541b21df1af38be221b80c97f",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q429334$1F66AEA1-1CDB-447E-BF64-C8F7DEA8ECFB",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "I"
+            }
+          },
+          "hash": "7bd888c248684c1e9bb18dc5802f59c72a9ce3a3",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1889": [
+      {
+        "id": "Q429334$B79CE375-451A-80AA-F071-7A52BBFA00AD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1584157",
+              "numeric-id": 1584157
+            }
+          },
+          "hash": "07ae6d8de8fbea57b98a4296657fb4195e30b880",
+          "property": "P1889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q429334$9C2CDC3D-CF6C-4F69-AE7C-BB46FE31E63E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q428853",
+              "numeric-id": 428853
+            }
+          },
+          "hash": "30ba1e42d954b6a60b07072614ebbf5d253e3bf2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q429334$9382F887-874C-4642-AA6B-CAC2061DDE61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2512235",
+              "numeric-id": 2512235
+            }
+          },
+          "hash": "a5de40e4f2edf16f281008729d8c3a2234dbd904",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q429334$4924ECAF-2110-4F0D-AB82-0A6FE00FCCC2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6581097",
+              "numeric-id": 6581097
+            }
+          },
+          "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q429334$29628499-C4DA-4A06-8A1C-D4EA283A53B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q429334$875AFB8C-8B60-4407-A308-C5F9F89EFD61",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup I of Y-DNA"
+          },
+          "hash": "3eea848b9ceaac4c439ae9b506edf4fa7d3f87d3",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q429334$3E0EC48B-35A4-4D26-8DD5-6FBB4935D9B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q429334$1FC89C1A-3724-42A4-B93B-4B7B256BF195",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q429334$628C2282-B23C-499B-B000-C96988581B52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2468156",
+              "numeric-id": 2468156
+            }
+          },
+          "hash": "80426289ff9982fd8a33622f8334290e8144dd8d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q429334$CFFF7A88-4F41-6AAD-008B-2358DAA53238",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q429334$D0C387C9-16B1-4456-9514-17A9D0149CE2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q429334"
+          },
+          "hash": "fadd4d6fc46eeb79a684fe4279353bdf92d19291",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P646": [
+      {
+        "id": "Q429334$41DD5BEA-44B4-44B1-8781-F778E3BC7438",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "/m/097s7p"
+          },
+          "hash": "a27be5c97fb28dcef59032562332925c940a321f",
+          "property": "P646",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q429334$CB8379A7-4D49-46CB-9DF7-FE523F71122C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup I-M170 Arms.svg"
+          },
+          "hash": "7f98553a5d2f0f0e2a2c3675b62c196975dd8724",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q429334$61F43EB8-1B7F-4913-BE2C-C0190216729B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.yfull.com/tree/I/"
+          },
+          "hash": "7b387aa2763075fc03039b0a4cb5c6dcac1bb4ec",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كلادوبلاست لـالمجموعة الفردانية I"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cladoplast von Haplogruppe I"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup I-M170"
+    },
+    "es": {
+      "language": "es",
+      "value": "cladoplasto de Haplogrupo I ADN-Y"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "isälinjan haploryhmän tyyppi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "cladoplaste de Haplogroupe I"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पितृवंश समूह आई का क्लैडोप्लास्ट"
+    },
+    "it": {
+      "language": "it",
+      "value": "cladoplasto di Aplogruppo I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループIのクラドプラスト"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하플로그룹 I의 클라도플라스트"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "cladoplast van Haplogroup I-M170"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "cladoplasto de Haplogrupo I (ADN-Y)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "кладопласт Гаплогруппа I"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "једна од хаплогрупа у људској генетици"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "單倍型類羣I-M170的克拉多质体"
+    }
+  },
+  "id": "Q429334",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "المجموعة الفردانية I"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "هاپلوقروپ I-M170"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Haplogroup I-M170"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "haplogrup I del cromosoma Y humà"
+    },
+    "de": {
+      "language": "de",
+      "value": "Haplogruppe I"
+    },
+    "en": {
+      "language": "en",
+      "value": "Haplogroup I-M170"
+    },
+    "es": {
+      "language": "es",
+      "value": "Haplogrupo I ADN-Y"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "I haplotalde"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Haplogroupe I"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पितृवंश समूह आई"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aplogruppo I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループI"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하플로그룹 I"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Haplogrupa I (Y-DNS)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хаплогрупа I-M170"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Haplogroup I-M170"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Haplogrupo I (ADN-Y)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гаплогруппа I"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хаплогрупа I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "單倍型類羣I-M170"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "單倍型類群 I"
+    }
+  },
+  "lastrevid": 17613724,
+  "modified": "2025-09-18T01:06:46Z",
+  "ns": 860,
+  "pageid": 203094,
+  "sitelinks": {},
+  "title": "Item:Q429334",
+  "type": "item"
+}

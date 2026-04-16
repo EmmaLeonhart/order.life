@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "ru": [
+      {
+        "language": "ru",
+        "value": "гаплогруппа E1 (Y-ДНК)"
+      },
+      {
+        "language": "ru",
+        "value": "гаплогруппа E-P147"
+      },
+      {
+        "language": "ru",
+        "value": "E-P147"
+      },
+      {
+        "language": "ru",
+        "value": "E1"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q4133443$0AFFD832-3CCB-4A2B-A951-02372B512743",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4133457",
+              "numeric-id": 4133457
+            }
+          },
+          "hash": "fd125a9abf30e4d2c8e459642d6d30565778f9e9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q4133443$8C31E355-4ABC-4A8D-9386-65750F62192D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17119078",
+              "numeric-id": 17119078
+            }
+          },
+          "hash": "88eb72b46e17ce7f5aa92997da89e066341bd991",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q4133443$F779078C-A3F0-4AD2-A592-A20ACC9A0F10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q4133443$09BF3DBF-A691-40CA-91C5-A5AB15864C14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1033982",
+              "numeric-id": 1033982
+            }
+          },
+          "hash": "a5b59e23d3eb26613c35858fd3de41e905fdad70",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q4133443$F80E5213-6A48-47B1-9D81-75A35596B441",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q4133443$78347C94-613A-45D1-9CE9-7FD668C4D4CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4133443"
+          },
+          "hash": "aca61b4a51eee9cc619cd2cc349c59cdea46a646",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P646": [
+      {
+        "id": "Q4133443$EB473DEE-3E27-4160-83F2-EE9EC4AC7814",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "/m/05q9fz2"
+          },
+          "hash": "0eeb55b7f88e9c5ee358aeb1f1f3c3e2bb51e4fc",
+          "property": "P646",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q4133443$05647112-B556-456C-95CC-3DE4A934F723",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup E-P147 Arms.svg"
+          },
+          "hash": "f2357982e9726b29b5c4aa38c60ce586fffc09e8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كلادوبلاست لـالمجموعة الفردانية E-P147"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup E-P147"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "кладопласт гаплогруппа E1"
+    }
+  },
+  "id": "Q4133443",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "المجموعة الفردانية E-P147"
+    },
+    "en": {
+      "language": "en",
+      "value": "Haplogroup E-P147"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä E-P147"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хаплогрупа Е-П147"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "гаплогруппа E1"
+    }
+  },
+  "lastrevid": 17300887,
+  "modified": "2025-09-10T04:22:03Z",
+  "ns": 860,
+  "pageid": 203074,
+  "sitelinks": {},
+  "title": "Item:Q4133443",
+  "type": "item"
+}
