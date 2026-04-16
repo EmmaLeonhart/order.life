@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hendrik II, Heer van Breda"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143625$57F61142-D901-4ED9-91C8-5129228AA798",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00197089"
+          },
+          "hash": "22be7136c9eca0aa1b78f8b666f1dd3390b42d9c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143625$7DB9E168-F09D-4E38-BB8A-175FE0AAB460",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147094",
+              "numeric-id": 147094
+            }
+          },
+          "hash": "f87eca3737f1124eacd64ac8e6eec5b9504e6cfc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143625$E2BC9D14-1500-48C8-9E99-54A5B00722E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Breda-32"
+          },
+          "hash": "cc09b5761a67b06a9912753a0440d18c54e73b22",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143625$D2232876-D006-451D-9F48-151F9197EFD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143625$B7C7CA4B-52C4-455E-B92A-6D97C95E572C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143625$69B530B4-DC39-4C86-B04F-98F53BF79411",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143624",
+              "numeric-id": 143624
+            }
+          },
+          "hash": "8e3252e31e7f460281162a641b6b6bbbe484a5ea",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143625$41A8818D-E08D-4016-8373-A745ADE8E5DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128473",
+              "numeric-id": 128473
+            }
+          },
+          "hash": "9791ac3649e6c76f0ad4cfef6828bd99e0766c21",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143625$3C0EB2B7-5B20-4E06-8122-947A3308AD28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143625$D8275E6A-66EC-454E-A9BF-C13F3F4B0698",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1130-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16c81f4c995c5dfb15be6ce4996341ca3801bd58",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143625$F2639FB8-6E6F-442E-AC4C-E4C347196158",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q105983222"
+          },
+          "hash": "1e22376f48cf0cfc6e9d850c58172956966ef528",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143625$754C7FBA-B6DD-4B67-B3D2-FE493C741B2B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hendrik II, Heer van Breda Arms.svg"
+          },
+          "hash": "e5448690effdcf935e130b2927d7de7b0fdcf8f8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- 1192"
+    }
+  },
+  "id": "Q143625",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Jindřich II. z Bredy"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hendrik II, Heer van Breda"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik II, Heer van Breda"
+    }
+  },
+  "lastrevid": 17565198,
+  "modified": "2025-09-17T13:41:38Z",
+  "ns": 860,
+  "pageid": 172010,
+  "sitelinks": {},
+  "title": "Item:Q143625",
+  "type": "item"
+}

@@ -1,0 +1,231 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jane Havard, of Aberbrân"
+      },
+      {
+        "language": "en",
+        "value": "Jane Havard, of Aberbran"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145953$7C650377-2B46-4419-808A-58F7C21D3E1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00693391"
+          },
+          "hash": "3980c87bb69716b619affd36e0b338f2f23af537",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145953$A982F1CB-D98E-462C-BE83-7D427CA769E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150534",
+              "numeric-id": 150534
+            }
+          },
+          "hash": "52beb5c8fe87e6c4def9a6783939e1e9427bdc73",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145953$81A80057-E92A-4903-B823-C5ED235052F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145953$E1F2A950-FD5F-4CC0-9B34-CD7C5461BEBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145953$507EE8B1-7192-432C-9F5D-CF5F4927698B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150418",
+              "numeric-id": 150418
+            }
+          },
+          "hash": "7662e01ce9825b75470cdc520052c996ca207256",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145953$E0C8139C-7DAF-4A44-9EE0-180674B35A6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150205",
+              "numeric-id": 150205
+            }
+          },
+          "hash": "b849ebf92761cfb24fc5f0bd06c884009a6751d2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145953$6790CCB3-166E-43B4-B36F-8795064A0F94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142792",
+              "numeric-id": 142792
+            }
+          },
+          "hash": "88853de1ec63f27451af1e0b4d968465a22ddb80",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145953$08FEDF66-68B3-42FD-8886-C144302978E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145953$A92D95E8-9055-4A5A-8358-0E9B0AC86BE3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116027274"
+          },
+          "hash": "598f40ca1a30907585b1f721d788ce8399860794",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145953$754D75E8-2C6F-4D35-B379-17DED0FDE350",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jane Havard, of Aberbrân Arms.svg"
+          },
+          "hash": "8906b04c1197856dd834023b8d0198b7175da63a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q145953",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jane Havard, of Aberbrân"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jane Havard, of Aberbrân"
+    }
+  },
+  "lastrevid": 17569516,
+  "modified": "2025-09-17T14:43:49Z",
+  "ns": 860,
+  "pageid": 174338,
+  "sitelinks": {},
+  "title": "Item:Q145953",
+  "type": "item"
+}

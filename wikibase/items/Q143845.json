@@ -1,0 +1,337 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Roman II Igorevich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143845$3FFB7027-996C-479E-AC65-DA53A35BBEC1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "626800"
+          },
+          "hash": "323450fe54f9979cd5fb460800a47e863e614ec6",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143845$A4EA1D74-CD59-4BA9-9155-D46E5860397A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143845$D679874F-729B-414A-82CB-9F8175F765C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143845$ECA35961-EB39-4372-A326-2AEAD3903404",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Roman_II_Igorevich_(1)"
+          },
+          "hash": "89fe33da7df5baea1c3fa4d968588eb11bce9ebc",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143845$F90CF935-A99A-4461-8998-E8845406B293",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141182",
+              "numeric-id": 141182
+            }
+          },
+          "hash": "106ae0e0588356eaa3af245dd36055b1b7c38268",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143845$AD9DCF58-C048-4662-8C3E-E57C2EEBA41D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127120",
+              "numeric-id": 127120
+            }
+          },
+          "hash": "1dcdf7605557eeb1bdb9c373586566b0467c9b8f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143845$B0584E5D-30BC-4195-9DD5-FAEA644725DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143845$4F2EF7E4-29EE-4941-AA4A-8494EF11D5AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1170-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "93a4d42adaae6c89bf37013170694cf66a57fc1e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143845$4E825E67-EB6A-4825-8F43-D77D102DDB66",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1211-09-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8e6446ed6b336d36232c0e08df57031176b2545f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143845$5787AA68-C799-4E79-96EF-02757EAAE027",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4397026"
+          },
+          "hash": "398bd70c486d44b036550ab1a589e31adbe95077",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143845$DE4E75D2-7CD6-459F-BAD1-59DBAA3D2846",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=roman;n=rurikides;oc=7"
+          },
+          "hash": "c0e87ebba0e0f48fdfe131f3eaf257254a4ddf77",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q143845$EE35053D-5625-46B9-A4E4-FD23FF3997EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.1715"
+          },
+          "hash": "39635a91fe9c8388fd3172f97024d606b7501a18",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143845$2A99D4E4-D712-4811-B380-B40453385F65",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Roman II Igorevich Arms.svg"
+          },
+          "hash": "243449d67284a3e8e05dc4e23a4cecf0082f7afb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "πρίγκιπας του Ζβενίγκοροντ και της Γαλικίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Russian prince"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince russe du Moyen Âge"
+    }
+  },
+  "id": "Q143845",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Roman II. Igorevič"
+    },
+    "de": {
+      "language": "de",
+      "value": "Roman Igorewitsch"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρόμαν Β΄ Ιγκόρεβιτς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman II Igorevich"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Romain II Igorévitch"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ロマン・イゴレヴィチ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Roman II Igorevich"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Roman II Igorowicz"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Роман Игоревич (князь галицкий)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Roman II Igorevitj"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Роман Ігорович"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "羅曼·伊戈羅維奇"
+    }
+  },
+  "lastrevid": 17565526,
+  "modified": "2025-09-17T13:46:18Z",
+  "ns": 860,
+  "pageid": 172230,
+  "sitelinks": {},
+  "title": "Item:Q143845",
+  "type": "item"
+}

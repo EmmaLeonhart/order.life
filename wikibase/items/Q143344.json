@@ -1,0 +1,222 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert de Essex"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q143344$7D95A71F-E7C9-43BD-8735-349ACBF0222B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143344$368AF071-E0FC-4128-9E5F-F58EC419C8E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143344$EF9132C0-82F1-45A3-A0E8-8EFFF6EA7170",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124577",
+              "numeric-id": 124577
+            }
+          },
+          "hash": "783034ca0087a827e68b6db2727843880959c99d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143344$F3D2C29D-F083-4BDA-9FCE-A4D9D46D1605",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143341",
+              "numeric-id": 143341
+            }
+          },
+          "hash": "5d55a0c5cca87e118dc6dece311b9299d190c7d8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143344$3E04B204-76B1-430D-AEB7-E5FADC1BC008",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140896",
+              "numeric-id": 140896
+            }
+          },
+          "hash": "358bbe3cc30a24bd9454e5453e93101f50f3bacd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143344$DDFB58E8-42BE-4695-B895-E2D98B025B38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143344$2B6E3D62-0E3E-472D-81D0-43D7FA872AED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1130-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ba750570fd89ade7a29f89dd780b667148fa7fb2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143344$34799A91-2C5F-44B7-A57D-FB94C2FBC604",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q101251562"
+          },
+          "hash": "ae0e3271d49402597b7a2f98ab732b4f8d70714d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143344$DA71709B-1008-4D91-8521-25FFE40F1D1C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de Essex Arms.svg"
+          },
+          "hash": "98bb1eba12f09b848de800fca353befc32bbfa70",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ru": {
+      "language": "ru",
+      "value": "барон Рейли в Эссексе"
+    }
+  },
+  "id": "Q143344",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Robert de Essex"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert de Essex"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Роберт де Эссекс"
+    }
+  },
+  "lastrevid": 17564846,
+  "modified": "2025-09-17T13:36:40Z",
+  "ns": 860,
+  "pageid": 171729,
+  "sitelinks": {},
+  "title": "Item:Q143344",
+  "type": "item"
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bogo de Clare"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q144905$43F6963E-FE97-42E6-9EB9-4194577231DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Clare-112"
+          },
+          "hash": "25491a3bf6ab7e408ce05068dee8d344031e6ae2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144905$C1787EDE-684F-460C-8745-3BDA29D4BCAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144905$843E3144-4134-4DCC-937F-65C4ABCD29AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144905$F0FD5E8D-280E-4A41-85F8-89EB6029A22F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54773",
+              "numeric-id": 54773
+            }
+          },
+          "hash": "ff27ea22c1bf542727ea8e067645ce1b8e5d776f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144905$7A836329-1302-44A7-AF77-ECB077F4B2D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144905$6680CACD-453C-4406-B3B2-4A5A70829CFC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1248-07-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "31f525cd0d3ab86a84b168b9a1df270cdbe64686",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144905$E45637A4-776A-4E58-BBDF-75DC1DC80F8E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1294-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e62f66a616106c3ff56a21389a46f2a1012fe4c4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144905$2A0DEE75-AC7C-4EC4-BB16-BC80C568756B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4937683"
+          },
+          "hash": "8982f09fe3a776f3576477603c9befae52424be9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144905$6D48E4F6-6E93-4FF7-B24B-C6C8D1A8D9EF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bogo de Clare Arms.svg"
+          },
+          "hash": "01abb0534ad84aa4c3796049eac5e5027b69b57f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "englischer Geistlicher"
+    },
+    "en": {
+      "language": "en",
+      "value": "English noble"
+    }
+  },
+  "id": "Q144905",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Bogo de Clare"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bogo de Clare"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bogo de Clare"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bogo de Clare"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bogo de Clare"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bogo de Clare"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Bogo de Clare"
+    }
+  },
+  "lastrevid": 17567438,
+  "modified": "2025-09-17T14:14:14Z",
+  "ns": 860,
+  "pageid": 173290,
+  "sitelinks": {},
+  "title": "Item:Q144905",
+  "type": "item"
+}

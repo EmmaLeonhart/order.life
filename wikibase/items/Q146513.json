@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Werner von Kyburg"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q146513$4603F045-BA0D-4FA4-A776-E482E2D8C8C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146513$37138572-78E0-400F-86F6-6B5A32F806F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146513$81084DFA-7117-4827-9960-73DE570818D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143251",
+              "numeric-id": 143251
+            }
+          },
+          "hash": "258097b89632b1c4be7411df1e5ea03f96934c8a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146513$2C4DC2E4-6BD7-47C6-80AD-5659398FE896",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146513$128B8AA0-5228-4294-88F8-37DA99BD6E7D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0980-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c63a72cb9f3cd94546b32afcef0a8a02981cad6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146513$2F0745EF-98FD-4950-8EFC-7290E80E5A5E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1030-08-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f2e2d79bbb61278ef63236e86ca97c84e9ef82fa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146513$AE82B4E2-8690-482D-B6D9-9986C5F7766F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2563034"
+          },
+          "hash": "ce950c0ff2011d42ecf62ece02c605be3d0c8c3f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146513$21CD1892-3B28-4081-A7AD-382F57571F75",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Werner von Kyburg Arms.svg"
+          },
+          "hash": "87fec0008d9a086351ab38435063171d5506c98a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf aus dem Adelsgeschlecht der Kyburger"
+    }
+  },
+  "id": "Q146513",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Werner von Kyburg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Werner von Kyburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Werner von Kyburg"
+    },
+    "es": {
+      "language": "es",
+      "value": "Werner von Kyburg"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Werner von Kyburg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guarniero di Kyburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Werner von Kyburg"
+    }
+  },
+  "lastrevid": 17570636,
+  "modified": "2025-09-17T14:59:45Z",
+  "ns": 860,
+  "pageid": 174898,
+  "sitelinks": {},
+  "title": "Item:Q146513",
+  "type": "item"
+}

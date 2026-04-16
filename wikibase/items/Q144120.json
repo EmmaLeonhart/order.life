@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Junius Brutus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144120$EE78CA91-6B65-4E95-A3C3-8513EF17CCB8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1464984"
+          },
+          "hash": "ec9c9c24be51390febdaef206ba7fe114a98b047",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144120$3E838D7F-57F6-4A58-A876-4B89C42AA3FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144120$A3055E8E-38A4-41C0-ADD3-C1BF7AE05673",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144120$34DC7D06-6491-4A47-8F42-144A7ABE83F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73227",
+              "numeric-id": 73227
+            }
+          },
+          "hash": "5483859aafdbdc29d853adb056f6db576f5bdf68",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144120$06C051BB-2312-4A25-BA27-7409101121C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144120$47BE2080-905A-4E6A-A62D-3B7D8D9AF826",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0220-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f4889b75fa3b396e6e56057b79a1484c60ee1f57",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144120$BD061A8D-7741-4654-B08D-2FB7F24FE92F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11033881"
+          },
+          "hash": "c50b2fc335f08105e16dcc5043b9c588addbcd26",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144120$68DF5765-4357-42C8-8C94-CDD981FC9565",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Junius Brutus Arms.svg"
+          },
+          "hash": "05b9884aa251d8c8182646bf20f07224f00651d8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "pretor el 190 aC"
+    },
+    "en": {
+      "language": "en",
+      "value": "tribune of the plebs 195 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "pretor en el año 190 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préteur romain en 190 av. J.-C."
+    }
+  },
+  "id": "Q144120",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Юний Брут"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Juni Brutus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Iunius Brutus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Junius Brutus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Junio Bruto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Junius Brutus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Giunio Bruto"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Iunius Brutus"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Junius Brutus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Publius Junius Brutus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Юній Брут"
+    }
+  },
+  "lastrevid": 17566026,
+  "modified": "2025-09-17T13:53:23Z",
+  "ns": 860,
+  "pageid": 172505,
+  "sitelinks": {},
+  "title": "Item:Q144120",
+  "type": "item"
+}

@@ -1,0 +1,263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Joan Mortimer"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q145120$DBC13BF2-7F53-4822-9BA0-F300555F9695",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mortimer-142"
+          },
+          "hash": "b0d94876d642dfb7399595f47328908bae893863",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145120$3B2F295C-7BD3-4B3F-865D-71C14CE30DEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145120$6BB03B5E-CF65-4EEA-AECF-E648A2B85B77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q145120$3FAC9A57-5CDD-4850-A61C-E24BABC0B1DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p40547.htm#i405462"
+          },
+          "hash": "a17cdfc4e6f803418573daa0ef1eb1ef477ad9d7",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145120$9FCDE1B2-AFF3-4EFA-84F4-E8B2CEF24DEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142258",
+              "numeric-id": 142258
+            }
+          },
+          "hash": "59e6e39168eb5d51416e0638d4ca8b42833d7fa3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145120$EB536243-0E99-4FA1-81E9-111064E86558",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145115",
+              "numeric-id": 145115
+            }
+          },
+          "hash": "b824590fac4f320e55225e7757e5046569f6ab86",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145120$3DD771DA-42C5-41A7-A340-F75D53B01C5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145120$0EEB0611-6EE9-4D7E-AD9A-9DA415BCF698",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1292-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "184e4fa4789341010d5141813d3fd14b80a87f9c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145120$DFC6A31F-BE54-4107-801C-4452352D7535",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1319-04-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2a16f6585920e5bc4502ece12f9e2e1aa0cf7ca6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145120$23246D93-0376-4F21-9A89-E3FC837FF507",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75922737"
+          },
+          "hash": "50a1d1bfd3bc11b7da7fb9c16cd5f5df9cf940d5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145120$C4C92884-0465-4720-BD0B-39C791C00EFD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Joan Mortimer Arms.svg"
+          },
+          "hash": "aadefbde0698dcc0d39e28e56861433f15560e84",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=405462"
+    }
+  },
+  "id": "Q145120",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Joan Mortimer"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jeanne Mortimer"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Joan Mortimer"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Джоанна Мортимер"
+    }
+  },
+  "lastrevid": 17567860,
+  "modified": "2025-09-17T14:20:11Z",
+  "ns": 860,
+  "pageid": 173505,
+  "sitelinks": {},
+  "title": "Item:Q145120",
+  "type": "item"
+}

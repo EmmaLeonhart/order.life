@@ -1,0 +1,910 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Birger Jarl"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q146532$621B6ACE-0455-4522-AA53-DEBD3C1DEBF6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "863136|572569"
+          },
+          "hash": "b099a7f93d50401669e8460942bf5ec4bda5f207",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q146532$8A02F740-AB99-46E3-AA21-C6F21B2EE87F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00027037"
+          },
+          "hash": "db0f4483934e77d5eb843fcce167ae5d77fd3518",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146532$ADD3F024-B40C-4B05-BB6C-B759A85AC0D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151251",
+              "numeric-id": 151251
+            }
+          },
+          "hash": "49f67fed134aa6528e5efcc4cb31e5dd3e23fe52",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146532$A4A908B6-29BE-4182-904D-9777C3AC22A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151247",
+              "numeric-id": 151247
+            }
+          },
+          "hash": "e64f642a2ba9f3ac1aa1fce9a6aa1c0bfac293a7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146532$47FBA2EB-6D25-4EDC-904E-57A373F69D4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151246",
+              "numeric-id": 151246
+            }
+          },
+          "hash": "9f5b05a566b4cbe00b868d52eb742674b3774ec9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146532$924EF9DD-6971-47F2-A2B0-B8E17EEB0C6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151243",
+              "numeric-id": 151243
+            }
+          },
+          "hash": "776681a376b54d2631e820b4525d851de4d9af59",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146532$8EDE1473-EB24-4A6C-AD6B-E64DB2418A00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151245",
+              "numeric-id": 151245
+            }
+          },
+          "hash": "817e20178b6d7efc4ff0d52a3206faa050ceb58c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146532$A792C3DF-F592-40D8-99C1-2DBE6D105D4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151250",
+              "numeric-id": 151250
+            }
+          },
+          "hash": "d60de39f3fbe36d5dceb8a172d4c6b85eb484d98",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146532$9B8022CB-7BD9-468A-90E0-088412DC5B76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151249",
+              "numeric-id": 151249
+            }
+          },
+          "hash": "d234f7011bc7f48a0dc0470876520d7c8e0831ce",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146532$9FFE5784-A968-456D-B685-20D85BD1E46D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151248",
+              "numeric-id": 151248
+            }
+          },
+          "hash": "618a937dbf860ff60374e18a71dcee84646078a7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146532$27AED6A2-A410-42C3-8486-CF4F6325F312",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151244",
+              "numeric-id": 151244
+            }
+          },
+          "hash": "b608d10d4e7eee41425f8dcd016f9048abf99a93",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146532$29B462DA-1724-4852-9A87-7B4C31F56D88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Magnusson-193"
+          },
+          "hash": "427b3635e4903cd343c5a9c33f60e8604f25313e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3217": [
+      {
+        "id": "Q146532$CB41415A-EB9B-483C-A0F8-996CBDEC6C40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "18238"
+          },
+          "hash": "cc55a4e7b7b112b52f3a76b21ab1e6915721703f",
+          "property": "P3217",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146532$C7488A9A-C11A-4E49-A823-917886703DF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146532$4A17A670-68F9-4FDD-AC1B-ECC6DAC5C461",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146532$13A9D3CD-A615-4E4B-96DD-6C4E6FA51D21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Birger_Folkunga_(2)|Birger_Magnusson_(1)"
+          },
+          "hash": "24b3adfe18561eb040ac2ed74ba3dc9f80c49019",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q146532$9D394753-8718-45A1-B84B-1CC21FFCE6ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146553",
+              "numeric-id": 146553
+            }
+          },
+          "hash": "adeeaaf5c69a38e2ebf0080ce170666294abd83a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146532$1999B39F-D51A-47BC-8A92-AEF8BF391EE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151242",
+              "numeric-id": 151242
+            }
+          },
+          "hash": "b2ac027df69957853188c6222fe0faccb5239352",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q146532$9C8592CD-0476-4DF2-A28B-D9E5472B9CD0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11305.htm#i113041"
+          },
+          "hash": "7b746044b758990cc9b1cce9de26e4882f8343e5",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146532$9323BB30-96CB-4EA3-8AD8-9565E0E007D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143270",
+              "numeric-id": 143270
+            }
+          },
+          "hash": "f7a6f95b88333829ac5930d444b3a07c147889aa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146532$D3599ED1-B75C-4E63-8929-DA1FA66E3FEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146529",
+              "numeric-id": 146529
+            }
+          },
+          "hash": "7e14c3e1767f66de4401cb27d0e1c2c85972ed11",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q146532$C08CF5E8-D5D2-462D-B7D5-9C487086F2A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "15919686"
+          },
+          "hash": "04784380a48fbd1240d64465df4450f67e1307ce",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146532$1E492EA4-BFAB-4857-AB0C-46933AFC1C94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146532$B95332BB-E4E3-4DA3-A3E5-E4B673CE343C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1210-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d653b1b2636e35fc89fc0acbe518c00b2bbfce8d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146532$358BA0B3-FC77-444A-8319-3C7E21641F57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1266-10-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7f81129d7897a59e29525f6b116fdd4004aaedde",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146532$ADD4DDF4-9809-4C75-A7C1-E53A95BAA008",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q316828"
+          },
+          "hash": "030ebbe671370210112fe510d28de4b459d33e72",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q146532$D0A5932C-B85E-412E-974F-3D2AC39C6AA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000010160609967"
+          },
+          "hash": "4252866763fc7213024a0cdb8c172b6227c01f47",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q146532$93B3A426-C65A-477E-AE0D-102D8D000C4D",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Birger Jarl"
+          },
+          "hash": "008f11005817b9448c832d8841244d69e0775613",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146532$20DB655B-E021-4CBD-9C71-378130776427",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=birger;n=folkungaatten;oc=1"
+          },
+          "hash": "19810c05068575728b9b80f32218865db15862cc",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q146532$F300DD2B-4060-4154-9A6E-D405A53E3D67",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.1437"
+          },
+          "hash": "15d85287ea6fda6978bdf26d4f3cc5b46e2f8229",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146532$D442461D-A66B-4C4A-8BB3-9D3D409BC2D7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Birger Jarl Arms.svg"
+          },
+          "hash": "3c5a9edcad8b2b96a7f168fb81d83d94bcac9117",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q146532$97D39D26-AAAF-4A16-ACF5-2E8942761C61",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/A6EF03E1-A872-495C-9560-C0704FF09984"
+          },
+          "hash": "502e3a62ed09e394a1f239cde9817d0392ed30cd",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي سويدي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من السويد"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu suecu (1210–1266)"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "швэдзкі дзяржаўны дзяяч"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "švédský vládce"
+    },
+    "da": {
+      "language": "da",
+      "value": "svensk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "schwedischer Staatsmann und (seit 1248) Jarl von Schweden"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σουηδός ευγενής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jarl and ruler of Sweden (c.1210–1266)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار سوئدی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "ruotsalainen jaarli"
+    },
+    "he": {
+      "language": "he",
+      "value": "עוצר שוודיה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "svéd államférfi"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico svedese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スウェーデンの貴族"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბირგელ იარლი"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "svensk politiker (1210-1266)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zweeds politicus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "svensk politikar"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko suiso"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "regent Szwecji w XIII wieku"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "правитель Швеции из рода Фолькунгов, ярл Швеции с 1248 года"
+    },
+    "se": {
+      "language": "se",
+      "value": "ruoŧa politihkkár"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "svensk jarl och storman"
+    }
+  },
+  "id": "Q146532",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بيرغر يارل"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بيرجر يارل"
+    },
+    "be": {
+      "language": "be",
+      "value": "Біргер Ярль"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Біргер ярль"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Биргер Ярл"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Birger Jarl"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Birger"
+    },
+    "da": {
+      "language": "da",
+      "value": "Birger Jarl"
+    },
+    "de": {
+      "language": "de",
+      "value": "Birger Jarl"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μπίργιερ Γιαρλ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Birger Jarl"
+    },
+    "es": {
+      "language": "es",
+      "value": "Birger Jarl"
+    },
+    "et": {
+      "language": "et",
+      "value": "Birger jarl"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Birger Jarl"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Birger-jaarli"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Birger Jarl"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Birger Jarl"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Birger Jarl"
+    },
+    "he": {
+      "language": "he",
+      "value": "בירגר יארל"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Birger Jarl"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Բիրգեր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Birger Jarl"
+    },
+    "is": {
+      "language": "is",
+      "value": "Birgir jarl"
+    },
+    "it": {
+      "language": "it",
+      "value": "Birger Magnusson"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ビルイエル"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბირგერ იარლი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "비르예르 얄"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Birger Jarl"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Birger jarl"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Birger Jarl"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Birger jarl"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Birger Jarl"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Birger jarl"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Birger Jarl"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Birger Jarl"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Биргер"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Birger jarl"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Birger Jarl"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Birger Jarl"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Биргер Јарл"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Birger jarl"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Birger Jarl"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Біргер Ярл"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "比列爾·雅爾"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "比尔格·雅尔"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "比尔格·雅尔"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "比爾格·雅爾"
+    }
+  },
+  "lastrevid": 17570672,
+  "modified": "2025-09-17T15:00:16Z",
+  "ns": 860,
+  "pageid": 174917,
+  "sitelinks": {},
+  "title": "Item:Q146532",
+  "type": "item"
+}

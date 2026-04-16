@@ -1,0 +1,317 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guðrøðr Rǫgnvaldsson"
+      },
+      {
+        "language": "en",
+        "value": "Gurr Rognvaldsson"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145280$1D2D0FDC-A544-4950-8D10-2481E28BBD37",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00195717"
+          },
+          "hash": "83864e57e99a1d9017ff36b3158a3426fc2850a4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145280$010AD86E-39EA-4F65-83A6-C50302C16807",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149625",
+              "numeric-id": 149625
+            }
+          },
+          "hash": "c959d14cb01ea7f9be66388d120be55d3c1f3b60",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q145280$0B0C292A-4CD5-479E-A5AF-6FA95F71AF2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ragnaldsson-3"
+          },
+          "hash": "1b01213c7de6f423c9f6b1765929e31fc0320b54",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145280$2776C25D-1B65-497F-8FED-FC37C6D83F56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145280$90F4F634-8DB6-45B0-89EB-3513D2A191CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q145280$62CA0881-978E-4574-9391-12E5287C5D00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Godred_Ragnaldsson_(1)"
+          },
+          "hash": "85f3b44e0e9c747084e217f94e0eee58e425de46",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145280$CC33FE75-7D07-493C-A987-CF412B21E065",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142336",
+              "numeric-id": 142336
+            }
+          },
+          "hash": "3533fd7038b44b2a7c3a1227406c051d60de338e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145280$B8F102A0-5D11-4A7A-8B7F-CEBE27FD4819",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145280$BE83252C-FFE5-4982-BDE3-7C1BE61D371A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145280$E79FE4A6-95A7-4F9A-A5D0-A2A28D24C583",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1231-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bed717005c624057f338aaac49ae21db15c4329d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145280$CD439AEB-2953-40C7-A231-79F805F3E805",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3109804"
+          },
+          "hash": "d44fd7e077062e1c9551425a54a925bc74fec4b0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q145280$EE36AEA4-6340-4012-BE89-D0A7D5F18852",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gudrod;n=ragnvaldsson"
+          },
+          "hash": "000f9ee14ceb1590fcfbae2be4cb641546f35190",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145280$CB63C43C-7CCC-46B3-814C-3F205AA09B8E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guðrøðr Rǫgnvaldsson Arms.svg"
+          },
+          "hash": "db61c94d86346786f622d353008edd02461ba0aa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König der Inseln"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of the Isles"
+    }
+  },
+  "id": "Q145280",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "غودرور روجنفالدسون"
+    },
+    "de": {
+      "language": "de",
+      "value": "Godred Don"
+    },
+    "en": {
+      "language": "en",
+      "value": "Guðrøðr Rǫgnvaldsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guðrøðr Rǫgnvaldsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guðrøðr Rǫgnvaldsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gofraid Donn"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Годред III"
+    }
+  },
+  "lastrevid": 17568180,
+  "modified": "2025-09-17T14:24:47Z",
+  "ns": 860,
+  "pageid": 173665,
+  "sitelinks": {},
+  "title": "Item:Q145280",
+  "type": "item"
+}

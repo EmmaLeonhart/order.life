@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Bruttius Crispinus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q144403$FBC4BBE2-4202-4054-A167-3C0AC0560AA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144403$254D70EC-8DE1-4E96-9CE9-73BC61F7F689",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q144403$B9BF3A49-C9DD-4EF5-99AE-D430A6BCBAEC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius_Unknown_(8)"
+          },
+          "hash": "5d4c348198a65c1a1962bfdec7fe89facc324f74",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144403$ACD7A04D-E308-4052-BBC8-6FC148ED0351",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141771",
+              "numeric-id": 141771
+            }
+          },
+          "hash": "7f9dbc2a002602535794e16f58e7971efb1e648b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144403$90C8B047-1C17-4CC4-9157-FB346EF6274C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144403$AF9D3C7D-ACC4-422E-BF41-50E48E6E0B4F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144403$06874F87-BE36-4D97-9A61-56AB12720215",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11934047"
+          },
+          "hash": "6becee93bbff499029d17a461d4e8ce9d919a81d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144403$53CC9E76-36FD-4C93-912D-40FD080FD175",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Bruttius Crispinus Arms.svg"
+          },
+          "hash": "b2f74d0208d1e7d64acfffae9205c14801c3f517",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol l'any 224"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul (224)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman politician, consul 224"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 224"
+    }
+  },
+  "id": "Q144403",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Брутий Криспин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Bruti Quinti Crispí"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Bruttius Crispinus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Bruttius Crispinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Brutio Crispino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Bruttius Crispinus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Bruttio Crispino"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Bruttius Crispinus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Бруттий Криспин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Bruttius Crispinus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Бруттій Криспін"
+    }
+  },
+  "lastrevid": 17566490,
+  "modified": "2025-09-17T14:00:09Z",
+  "ns": 860,
+  "pageid": 172788,
+  "sitelinks": {},
+  "title": "Item:Q144403",
+  "type": "item"
+}

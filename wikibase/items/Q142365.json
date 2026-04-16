@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jane ferch Owain ap Bleddyn ab Owain Brogyntyn"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q142365$50121C5D-CAA6-4C23-9F05-318DDE7FE3B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00706887"
+          },
+          "hash": "b40f7123dd9ac945aafd06f0819937fb6064d107",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142365$F894FB9C-F724-482A-AE8B-E6BE4979AD17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140217",
+              "numeric-id": 140217
+            }
+          },
+          "hash": "c7f8765e681d866cc3ed32cfb16848baefebb09e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142365$D56B6B30-D378-4DC6-8457-BE8E0D3838DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140218",
+              "numeric-id": 140218
+            }
+          },
+          "hash": "e298a482c7948ab978b2e6042ebad7469f5a84d5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142365$FFFE9A0D-A6DE-421D-95DB-09FFAD75A9E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142365$AAF10022-3147-474D-9147-7F10557D8211",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q142365$0E516C44-7980-44A1-A075-C193C002BF4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138799",
+              "numeric-id": 138799
+            }
+          },
+          "hash": "9d409fa73eab75bb6dff9b05051f6590f42d50b1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142365$D94F7FD3-2FDE-4A80-AD68-DA8DC5F9B01A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144586",
+              "numeric-id": 144586
+            }
+          },
+          "hash": "d398a079c76a91dd76aa360e0b109cb0ecc8ae59",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142365$179B0E51-F198-452A-9455-44F5A16FACB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140729",
+              "numeric-id": 140729
+            }
+          },
+          "hash": "3de9e2a8fff28bad71377d27997a3d3d80f01563",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142365$B030BDD0-8942-4449-B3D1-DB2BAB807405",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142365$5E1C8A90-61BA-4902-8047-25C8ED998D1C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116112343"
+          },
+          "hash": "545d2747218d3dec2cecf5d6ae4977c396255d41",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142365$9234FD55-B0BE-46E3-926A-F0D207587B8C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jane ferch Owain ap Bleddyn ab Owain Brogyntyn Arms.svg"
+          },
+          "hash": "54b6d8478722c47a788dc73a0396312db13cf136",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q142365",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jane ferch Owain ap Bleddyn ab Owain Brogyntyn"
+    }
+  },
+  "lastrevid": 17562956,
+  "modified": "2025-09-17T13:09:08Z",
+  "ns": 860,
+  "pageid": 170750,
+  "sitelinks": {},
+  "title": "Item:Q142365",
+  "type": "item"
+}

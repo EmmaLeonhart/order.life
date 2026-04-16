@@ -1,0 +1,262 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wichmann III."
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q143264$65F33692-1468-4B9C-A22F-92DBE017D74E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Padergau-2"
+          },
+          "hash": "cd759ab88296df32c6e16eb25eaf0686e265abc4",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143264$CA5944FE-0369-4898-8975-334BB0D836F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143264$D7D91701-87FD-4314-90D7-DC5CC865DDDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143264$EEDC3EF8-D494-4EF9-855A-85F5FEB79085",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125558",
+              "numeric-id": 125558
+            }
+          },
+          "hash": "588ccb23f57da54b5c7d5b2b42c4a79d69fea31f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143264$BF11239F-C7CC-456A-96A6-8D8126B2D7F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143264$02DE852D-BA74-4979-BFF8-281B26DABC4D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1000-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bfaeffd93c9ae612a427a0a168b2db21b0ead38e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143264$73AC12ED-A7C0-4F0F-AE0F-7BCD41B17180",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1016-10-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b919cd9ff878c6187f9f6523ad7a85fc535dea7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143264$C7AB95D7-801B-4F35-997C-08EE147706DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2567498"
+          },
+          "hash": "86fa52a3a086cd4cb5ee31c4249abe2621d3acea",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143264$17090927-2F35-405C-8BD4-87EE975452C9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wichmann III. Arms.svg"
+          },
+          "hash": "39545666b6627994793e486acae7654bfd36d74e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q143264$4DB54326-35BE-48E7-829E-C0D73045D772",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/adb2e02b-c0e3-4a66-8bc8-c110f1c4834f"
+          },
+          "hash": "4ab00a2ead65f831b017d06a6fac32fcfd02b313",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "sächsischer Graf"
+    },
+    "en": {
+      "language": "en",
+      "value": "967-1016"
+    }
+  },
+  "id": "Q143264",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Wichmann III."
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Wichmann III."
+    },
+    "de": {
+      "language": "de",
+      "value": "Wichmann III."
+    },
+    "en": {
+      "language": "en",
+      "value": "Wichmann III."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wichmann III."
+    },
+    "it": {
+      "language": "it",
+      "value": "Wichmann III"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wichman van Vreden"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Wichmann III."
+    }
+  },
+  "lastrevid": 17564738,
+  "modified": "2025-09-17T13:35:11Z",
+  "ns": 860,
+  "pageid": 171649,
+  "sitelinks": {},
+  "title": "Item:Q143264",
+  "type": "item"
+}

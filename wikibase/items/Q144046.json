@@ -1,0 +1,361 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Lentulus Caudinus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144046$7E2A26B5-BD37-4FC2-B042-D336F669B709",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465100"
+          },
+          "hash": "eeed8a9d864f24f08962f172882c0a976ba13b21",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144046$FEA6DAED-6860-477A-90AF-D7756E7CDEC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144047",
+              "numeric-id": 144047
+            }
+          },
+          "hash": "3c031de7a8aeef9cda7199e9029e9f568b8af97b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144046$969507F3-D856-46BF-B1EE-1038B69144E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141385",
+              "numeric-id": 141385
+            }
+          },
+          "hash": "f7b479096eca57642dcc8a382b9fb6ecacfc1aef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144046$F355C8E9-4034-4573-9994-A04B03DA125F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144046$2F216E07-6EF6-44C1-A7CF-05A5DAF021B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144046$C8885E61-2011-4CF7-BE45-555A4A24F2FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148042",
+              "numeric-id": 148042
+            }
+          },
+          "hash": "772a001d30c64a422f3a3a8dbea904de8fea36e6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144046$5232E32B-C638-45E9-83E4-30CFF3752626",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144046$02AA05C1-1E83-4F7D-A03B-DD8193166F96",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0279-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "81a6301b57fb5c82d3a48dcb1f84924a2d98b9d1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144046$2E405FFA-F889-469E-AA38-FC7264B98B9C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0213-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d325722f7feda969b911627662a1faa00b2bc31f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144046$C98DB84D-BB04-4316-BF63-32ECFD907D5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q934699"
+          },
+          "hash": "7b0a4a7405dbc35e6809289ee5233f1d02a16ae3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144046$81358595-87EB-4F04-A7C7-1EEBB2C10E51",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Lentulus Caudinus Arms.svg"
+          },
+          "hash": "6bc6491ee1400c375dbac38ce2f027d45d485ef6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 237 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 237 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 237 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 237 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 237 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano, console nel 237 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (300v Chr-213v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 237 года до н. э."
+    }
+  },
+  "id": "Q144046",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Корнелий Лентул Кавдин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Corneli Lèntul Caudí"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Lentulus Caudinus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Κορνήλιος Λέντουλος Καυδινός (ύπατος το 237 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Lentulus Caudinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cornelio Léntulo Caudino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Cornelius Lentulus Caudinus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Cornelio Léntulo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Lentulo Caudino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・コルネリウス・レントゥルス・カウディヌス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius L.f. Lentulus Caudinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cornelius Lentulus Caudinus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Cornélio Lêntulo Caudino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Cornélio Lêntulo Caudino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Корнелий Лентул Кавдин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Cornelius Lentulus Caudinus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Лентул Кавдін"
+    }
+  },
+  "lastrevid": 17565910,
+  "modified": "2025-09-17T13:51:43Z",
+  "ns": 860,
+  "pageid": 172431,
+  "sitelinks": {},
+  "title": "Item:Q144046",
+  "type": "item"
+}

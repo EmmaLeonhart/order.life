@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William de Roumare, 2nd Earl of Lincoln"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146627$C50C88E2-55A4-42A6-BD8D-29E43F74980B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00330878"
+          },
+          "hash": "fd254d28e2f50d276991b714253676bad1facd31",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146627$D32FD005-E0AC-4120-A646-4C6C41DBBE7E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Roumare-4"
+          },
+          "hash": "054e9242135f4d74c10494765be1730e8b1b2cf3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146627$DA9C7E6C-D192-4269-B700-84AD26035EEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146627$472EA1BC-3690-4483-A9C2-68E2EBB63683",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146627$F751B87D-0996-4579-9696-4AF57D4FBAB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "William_de_Roumare_(2)"
+          },
+          "hash": "43f6d60bc484c5a9509eb066ee10b4276bc0d585",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q146627$FAE63563-0A94-4928-B023-6D2BA7528787",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123231",
+              "numeric-id": 123231
+            }
+          },
+          "hash": "02d9797ddd512044c2d377eb62ee257206043aa8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146627$8F177547-A3CE-40AC-A11C-7A66BA884501",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146627$079F9363-28A2-4B57-8254-BEFA04D4B855",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1145-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f4fa2f46359f65744b111bb9a33235935dead80",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146627$B60316DA-754D-4C34-9E36-2B521D60A416",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1198-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "73321ea67788374ed248b72aa80d03480a6e6499",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146627$5A964356-D695-4A17-AC07-80519E0847FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111234485"
+          },
+          "hash": "13cd3d8c1bd7a6b257b66cf2a648b219a47d3f59",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q146627$CF36A48B-5635-4A1C-A497-D9B73D609CAA",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "William de Roumare, 2nd Earl of Lincoln"
+          },
+          "hash": "ae0dd918f1cc480a84250fec1184e824fe8547fb",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146627$367A5870-5EB8-4E1E-A2DF-B0098FE18143",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=william;n=de roumare;oc=1"
+          },
+          "hash": "c93e2e0659890c2b2b143794c8cf42a8b589d467",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146627$AC8BF287-C682-4216-B12D-614AC80B12A4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William de Roumare, 2nd Earl of Lincoln Arms.svg"
+          },
+          "hash": "2068614fef8206ddbc69176a54620f0cc601a3e4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1145 - 1198"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1145-1198)"
+    }
+  },
+  "id": "Q146627",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "William de Roumare, 2nd Earl of Lincoln"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "William de Roumare, 2nd Earl of Lincoln"
+    }
+  },
+  "lastrevid": 17570814,
+  "modified": "2025-09-17T15:02:16Z",
+  "ns": 860,
+  "pageid": 175012,
+  "sitelinks": {},
+  "title": "Item:Q146627",
+  "type": "item"
+}

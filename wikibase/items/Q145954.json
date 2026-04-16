@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir John Herle"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145954$82C1CE55-43E6-4D29-9A3A-06677A55FBAD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00713967"
+          },
+          "hash": "e7976e1aba3d2c80d6d4da3cab18dd111f288054",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145954$04892CCF-BDD1-48AA-80E0-3815D1E71203",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142793",
+              "numeric-id": 142793
+            }
+          },
+          "hash": "609f86c0114c337dfd9ee7a7fa002b3471a7b275",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145954$0DE03FB9-30B0-4393-8096-75898E0D52DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150535",
+              "numeric-id": 150535
+            }
+          },
+          "hash": "00b1615347d509272ec144790d278891351e2f72",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145954$BC257B94-FA31-4B08-8418-D961295D98ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145954$67071E31-357B-462B-8B4D-D0209B28B928",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145954$65ADB566-A573-4436-8689-E8CCB2FE3687",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145955",
+              "numeric-id": 145955
+            }
+          },
+          "hash": "27f04a0a0a05870fb4e536d1d76c8211b5b43e0e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145954$3519DB75-E831-4C5C-809F-8FC700436267",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145954$2ABD4C80-EEB9-4004-B6D7-9B5617D35343",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110559689"
+          },
+          "hash": "921d597c4119ac078699ea7648d0602b64f4b70c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q145954$A346A6C3-4027-4D5D-987B-EDD671209212",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir John Herle"
+          },
+          "hash": "106d48193863a775d2accbd5fbfada73b74e3e41",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145954$8B88399F-CF0C-4961-A0E4-288D83D2CBFE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir John Herle Arms.svg"
+          },
+          "hash": "83270ea8ce34a59c8232258564863bd62ebdef5f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q145954",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir John Herle"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Sir John Herle"
+    }
+  },
+  "lastrevid": 17569518,
+  "modified": "2025-09-17T14:43:50Z",
+  "ns": 860,
+  "pageid": 174339,
+  "sitelinks": {},
+  "title": "Item:Q145954",
+  "type": "item"
+}

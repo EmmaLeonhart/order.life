@@ -1,0 +1,263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Richard Talbot"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q142302$901254A8-C748-40B6-9E60-0CDA9DBD31BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00337617"
+          },
+          "hash": "653b425d1bd39b1ad09e6a8cb8afed43881c9ef6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142302$D4A85B23-D963-409C-AFE9-1A933B9B1FF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140192",
+              "numeric-id": 140192
+            }
+          },
+          "hash": "8c022c3b3c7e9371b8be8076972777e8fec733f6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q142302$2A65EE6D-EA48-48D3-BF44-081C37A007D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Talbot-541"
+          },
+          "hash": "45d4a1541d1f39d693f8890ae8c5a7bd383c9f3d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142302$64E3FBE6-02EC-4EDE-AA25-40077F3F40FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142302$67238FC3-AA55-48AD-B29D-C540D41657A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q142302$4DC794D6-3839-45DD-9030-73B01E603D91",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p21342.htm#i213411"
+          },
+          "hash": "627f87094f1626db2766b25fae136b1b9e6c22ab",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142302$E4F9AAE8-3311-4625-A262-AEED0D4F674F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q142302$F792E01F-D899-4E44-8419-58FE51E0842E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1122-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "216a031f3494af4893896b31574e526129fc8eb8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q142302$CD6FC60F-C03C-4911-AD7D-FD19E2E11F36",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1175-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "564a714ddcacf838373978ae69fb398a7dbead27",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142302$1C71947E-F12F-428C-8751-28DA7F24C581",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75561253"
+          },
+          "hash": "f6512ccc09257fb913c93bf4a2ca17bd158fb8f3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142302$9C46BCC8-A51A-4068-814E-FFB6DF4A0EB7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Richard Talbot Arms.svg"
+          },
+          "hash": "2c537bafb3c636c190896e286d0f6d73c9f039f3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "( -1175) o dras fonheddig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=213411"
+    }
+  },
+  "id": "Q142302",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "রিচার্ড ট্যালবট"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Richard Talbot"
+    },
+    "en": {
+      "language": "en",
+      "value": "Richard Talbot"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Richard Talbot"
+    }
+  },
+  "lastrevid": 17562830,
+  "modified": "2025-09-17T13:07:11Z",
+  "ns": 860,
+  "pageid": 170687,
+  "sitelinks": {},
+  "title": "Item:Q142302",
+  "type": "item"
+}

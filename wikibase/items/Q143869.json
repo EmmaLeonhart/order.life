@@ -1,0 +1,267 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hálfdan Sæmundsson"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q143869$3C879F14-1FEF-401B-B083-C2F572B2382A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sæmundsson-13"
+          },
+          "hash": "9b27381cdf7e190e57ea8ae412fc08b1aae11417",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143869$C7E12730-CFDB-48F2-BA02-E32CE7DD7F42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143869$9D9FC300-C05C-4824-89FE-373EEF9287F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143869$D584AFBC-1E2A-4854-988B-38546A9638DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147689",
+              "numeric-id": 147689
+            }
+          },
+          "hash": "8f11ac7029e8c32418a8f197ced3b536f857c49d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143869$B93AA67F-5DF8-4C27-8E33-B100E2EDB0F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141207",
+              "numeric-id": 141207
+            }
+          },
+          "hash": "64cf65eda3b80ac1a494611f3b107c663e0034fa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143869$98F9EA56-64E9-4768-839C-EE1EBD0795B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143869$D1FD3E92-13D8-4638-87FC-433D5A96E5DF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1218-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "367c3b93f36b7ee1f7b8be5d6a202a777f4ffbd0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143869$6B8D71A4-8408-4510-8D5B-B62FBE43B039",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1265-04-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "67e441ef7d9962b4bc24ae15804e349fb593e0dd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143869$602F07EC-7107-4DF9-A7AA-554675F4894D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9006142"
+          },
+          "hash": "c271aa4211490ae947365a6d8c8a6cff8b7c49bf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143869$904F8905-4B03-4543-ABE1-1214955313A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001886725389"
+          },
+          "hash": "ac3bce5758310939231c9375cb352414d28993d8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143869$BCCF2C75-CE32-4C11-A73F-DEB88D777E78",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hálfdan Sæmundsson Arms.svg"
+          },
+          "hash": "95e5c7b7fe7b75312006e7121e31bf04a896adb7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1218-1265)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1218-1265)"
+    }
+  },
+  "id": "Q143869",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hálfdan Sæmundsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hálfdan Sæmundsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hálfdan Sæmundsson"
+    },
+    "is": {
+      "language": "is",
+      "value": "Hálfdan Sæmundsson"
+    }
+  },
+  "lastrevid": 17565574,
+  "modified": "2025-09-17T13:46:59Z",
+  "ns": 860,
+  "pageid": 172254,
+  "sitelinks": {},
+  "title": "Item:Q143869",
+  "type": "item"
+}

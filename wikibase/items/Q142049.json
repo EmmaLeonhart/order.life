@@ -1,0 +1,268 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marared"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q142049$A1E11C03-FF56-4A27-A201-2F81D05F0D71",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00309500"
+          },
+          "hash": "dae608282b05cff8b8939486d67a79b4a7bc3a47",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142049$C4AD457A-10FE-45C4-8EB5-779AAF11A463",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144778",
+              "numeric-id": 144778
+            }
+          },
+          "hash": "6ca03a0decae241d78411cfa140f71506b0e2190",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142049$E67E50AD-3B45-4DFC-A35B-8EC3BF1FC57D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144777",
+              "numeric-id": 144777
+            }
+          },
+          "hash": "8dfd41889b8069bc05f402dce86d48c5a9d13658",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142049$7F9F6F2E-644E-4D9F-9470-18F8D8DC02BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142049$B0659901-0D8F-42D6-B910-D4E4328B52B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q142049$09E5C4FC-C02A-4732-BCD6-DF99222A8DE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144616",
+              "numeric-id": 144616
+            }
+          },
+          "hash": "4f35be85cfe4d76c2b0e8ff1879112114d8a4834",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142049$F8A38752-2AC4-492B-860C-B273CA255D09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140089",
+              "numeric-id": 140089
+            }
+          },
+          "hash": "a107d86cad449e7cf41cf4244acec7e82044e111",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142049$E9EC67A7-D211-4055-A367-2C70E754A99D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140032",
+              "numeric-id": 140032
+            }
+          },
+          "hash": "272a2c8c560eb0d563fe6607c4953f3f5ddf4d1d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142049$70A2461D-C68D-4002-9FAC-C4CABDB21EC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142049$2946D9AF-B43E-4E86-BE84-90145BC386AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110636945"
+          },
+          "hash": "b87af5aae8cfa58964211d81106b1b31ddfa72b9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q142049$677DA110-E89E-43CF-8F48-324F2AA7C5F0",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Marared"
+          },
+          "hash": "5afbeb54765dd5ecc6f69a0f24ebc270dd87e7f6",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142049$568A2BD3-F5AC-4C2A-B159-60B5ABD40457",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marared Arms.svg"
+          },
+          "hash": "2afa5f7caf751250a3161ad8c840d56fc74b976f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- 25 Sep 1255"
+    }
+  },
+  "id": "Q142049",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Marared"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Marared"
+    }
+  },
+  "lastrevid": 17562344,
+  "modified": "2025-09-17T13:00:14Z",
+  "ns": 860,
+  "pageid": 170434,
+  "sitelinks": {},
+  "title": "Item:Q142049",
+  "type": "item"
+}

@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alexas"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144303$58BB11F4-FA6E-43E5-BE58-2978817B466F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738015"
+          },
+          "hash": "ca1651ecceb00f1509d01df346d7a926642f9f00",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144303$15224994-EA8E-4410-9C50-E7F7A46627BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144303$69F85C8F-6370-42CB-9EE4-39E337A26EDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144303$319835F3-FD39-4373-A0FE-0243F9B95EEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141668",
+              "numeric-id": 141668
+            }
+          },
+          "hash": "90be219ceaea9d931d05b9a92b8a9719f48001e1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144303$8BFA7164-E581-48CA-A26F-8D013C4EDBDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144303$9B037B38-BDD0-4B28-8281-8D8245625D8F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144303$E557CBDD-48D0-4941-87ED-8E0662571CBB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11685220"
+          },
+          "hash": "2a73f9fd35fc9c551364598aa9aafed2555441b7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144303$D04DEFE6-5B48-4D3D-A120-AB1AE5290A38",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alexas Arms.svg"
+          },
+          "hash": "a00cf5a48d09376f43b2cc77f1e86a2fe66ef013",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "2ος σύζυγος της Σαλώμης Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Herodian noble, husband of Salome"
+    },
+    "he": {
+      "language": "he",
+      "value": "בעלה של שלומית אחות הורדוס"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q144303",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Αλεξάς Χελκίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alexas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alexas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alexas"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלכסא"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Aleksas I"
+    }
+  },
+  "lastrevid": 17566342,
+  "modified": "2025-09-17T13:57:50Z",
+  "ns": 860,
+  "pageid": 172688,
+  "sitelinks": {},
+  "title": "Item:Q144303",
+  "type": "item"
+}

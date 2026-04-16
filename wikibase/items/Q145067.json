@@ -1,0 +1,882 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eleanor of Provence"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q145067$E771F534-1135-4F3C-84B0-BE0ECDBADE7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "11723"
+          },
+          "hash": "772f7a4cbc9aba7f153f407486e09e60ec8aaa8c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q145067$989BA1E3-5FCE-4C96-88DD-3FCD28293B9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00002879"
+          },
+          "hash": "50e46032ecc1d578150a45234e9330d4882ee018",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145067$B556C8A0-1533-4B81-B648-A03565603400",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145069",
+              "numeric-id": 145069
+            }
+          },
+          "hash": "2c03455cc56f18bba4726e5674ba770c8b9047b5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145067$9F1204AC-D96D-4FE1-B95F-5BED70FDB50E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145070",
+              "numeric-id": 145070
+            }
+          },
+          "hash": "cbf0880418170ca8a247f405598fc38e0f797663",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145067$0C1D2F95-0759-480A-B6D6-C185FA152B71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145072",
+              "numeric-id": 145072
+            }
+          },
+          "hash": "b3d1770d3887bc1b74db741c970ec956442ebba1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145067$5F33B9DE-6874-4F82-A00D-857EA53D6E9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145071",
+              "numeric-id": 145071
+            }
+          },
+          "hash": "f945b44683a1cab2a5e5a496e66a41e032cbbd7e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145067$EB5A78F2-9005-48FE-9DE3-1F3ACC8A2DA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145068",
+              "numeric-id": 145068
+            }
+          },
+          "hash": "a95bff71eeac6f882a8f3fc07b5f2f15002a5d24",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145067$5DB486C3-655F-4D1E-86E1-540C32FDE038",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145073",
+              "numeric-id": 145073
+            }
+          },
+          "hash": "5a5ccc28f599472297612ad24e43dc26cdbf3c11",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145067$CB7F8262-F8B6-4AA5-B01F-50DF285283E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145074",
+              "numeric-id": 145074
+            }
+          },
+          "hash": "d73d350ff455cc6d0e38d036416c73403f9c41d3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145067$0D2D16AA-ACF9-4E21-9BD3-F6D9C41AFED0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145075",
+              "numeric-id": 145075
+            }
+          },
+          "hash": "462893273a2e5a5b3f25d3e62b665791fa0456c6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145067$F21CD8F1-074F-4FA2-A6AE-036A984A0287",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145076",
+              "numeric-id": 145076
+            }
+          },
+          "hash": "959eaf9481ffc3d0a88a9cf8bff53f46629f5a46",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q145067$899924B6-1B75-46A8-8C56-DFC8BE3CA44D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "9HD3-MC1"
+          },
+          "hash": "a5a2cc7528455416983874ac724c6a9552495507",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q145067$FE7A3F06-06A7-4CC8-B06B-948816D25D27",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Provence-162"
+          },
+          "hash": "e6e43b0acc4452e29714bbb6e3a66495d73f4f1c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q145067$A5295F01-B758-47F6-B028-6DD06E84FC03",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I1306"
+          },
+          "hash": "fd3c670f129921963e463c2311c91a46f4249a30",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145067$6F2BBE1F-FE49-435B-BD8B-F9C04CC0B5AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145067$0A95118B-C6E0-49DC-8CE4-2A342F3D1296",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q145067$6A3B8616-429D-4305-AF5C-88FFE5CCB603",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eleanor_of_Provence_(1)"
+          },
+          "hash": "4ca30905e2f8d9420684ccb4d5790b7fc73ad734",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145067$2CA9EE99-764B-4B6E-99BC-22D6AA326EB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122943",
+              "numeric-id": 122943
+            }
+          },
+          "hash": "294c523b5bec196bc6abf2df57bee0c1cd3e418e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q145067$798F6A58-3AAD-4F08-B7CC-86A7238F8CA0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10193.htm#i101924"
+          },
+          "hash": "8aab40e2852a8df6cf98369f2f9a3098495162e3",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145067$3AC09205-0376-44B5-BB05-A0593E423EFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124749",
+              "numeric-id": 124749
+            }
+          },
+          "hash": "fba57814cdb724642460454cba83d4b33a13da9f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145067$1A594838-9A7A-4A74-A0DF-DC5EE61FDB71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149191",
+              "numeric-id": 149191
+            }
+          },
+          "hash": "2635b9d1c5b016d3bfe6b7edefcc263d7fa622dd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q145067$50416DBE-5B6B-4DA4-A903-5B011B275102",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8323576"
+          },
+          "hash": "a97e91232f4c8ce6bfd809beebe04dd52d0f25f3",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145067$84CEB6CA-457E-4499-A380-B5A7A46303B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145067$56BD900F-8519-4EEC-B9EB-8E2FCF0E1A55",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1223-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8d94499e61bf35a3e3f8f8b72394a52c57cf22c7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145067$D73BA07D-27ED-4856-B75D-41C031CDD3D7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1291-06-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "400e1948771a00b42f238d75655c48824d8d8528",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145067$3B348581-2F26-42C0-8933-3D90C0F5CFDE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q228885"
+          },
+          "hash": "53dd99ace9d89194c5c96e0fe361994fcac2f9f1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q145067$3B9DACF8-6AAF-44A8-B5F6-F63E96F99983",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007386881233"
+          },
+          "hash": "7afc1726c794cf89ccfdd756b93aa0644f79c0f9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q145067$1152D13E-E2C9-412B-AE67-A832E499DB08",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=eleonore;n=de provence"
+          },
+          "hash": "11e13448a1686f32459870988c8d8fd07dae9731",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q145067$23CF11F5-6A40-43F2-B600-E2F2E4B1A6D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "sw.108695"
+          },
+          "hash": "33bde6dbafeff35bd0bcf9ed19809068508d6f10",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145067$600D442A-F161-41CC-8A55-9788F988D1DE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eleanor of Provence Arms.svg"
+          },
+          "hash": "5a4337044da9e1ce9cab57ce2fa8008ad26c5b45",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قديسه كاثوليكيه من مملكة فرنسا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "anglická královna"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenhines Lloegr (gwraig Harri III; tua 1223 – 1291)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Königin von England"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen of England (1223-1291)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Reina de Inglaterra"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ingalaterrako erregina"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Englannin kuningatar (1223–1291)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine d'Angleterre"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "rêna d’Anglletèrra"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "raíña de Inglaterra"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "angol királyné"
+    },
+    "id": {
+      "language": "id",
+      "value": "seorang permaisuri Inggris, sebagai istri Raja Henry III dari Inggris"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina consorte d'Inghilterra"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プランタジネット朝イングランド王ヘンリー3世の王妃"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Brits politica (1223-1291)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "королева Англии"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "英格兰王后"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "英格蘭王后"
+    }
+  },
+  "id": "Q145067",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "إليانور من بروفانس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ليانور من بروفانس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Lleonor de Provenza"
+    },
+    "be": {
+      "language": "be",
+      "value": "Элеанора Праванская"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Elionor de Provença"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Eleonora Provensálská"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Elinor o Brofens"
+    },
+    "da": {
+      "language": "da",
+      "value": "Eleonora af Provence"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eleonore von der Provence"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ελεονώρα της Προβηγκίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eleanor of Provence"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Eleanora de Provenco"
+    },
+    "es": {
+      "language": "es",
+      "value": "Leonor de Provenza"
+    },
+    "et": {
+      "language": "et",
+      "value": "Provence'i Eleanor"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Leonor Proventzakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "النور پرووانس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Eleonora Provencelainen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Éléonore de Provence"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Léonora de Provence"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Eleanor na Proibhinse"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Aliénor da Provenza"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלינור מפרובנס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Provence-i Eleonóra"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Էլեանոր Պրովանսացի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Éléonore dari Provence"
+    },
+    "is": {
+      "language": "is",
+      "value": "Elinóra af Provence"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eleonora di Provenza"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エリナー・オブ・プロヴァンス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ელეანორ პროვანსელი"
+    },
+    "la": {
+      "language": "la",
+      "value": "Alienora Provinciae"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Eleanor av Provence"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eleonora van Provence"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Eleanor av Provence"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Alienòr de Provença"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Eleonora Prowansalska"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Leonor da Provença"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Leonor da Provença"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Eleanor de Provence"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Элеонора Прованская"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Eleonóra Provensalská"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Eleanor of Provence"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Елеонора од Провансе"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Eleonora av Provence"
+    },
+    "th": {
+      "language": "th",
+      "value": "อะลิอูโนแห่งพรอว็องส์"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Eleanor (Provence)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Елеонора Прованська"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Éléonore xứ Provence"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普罗旺斯的埃莉诺"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "普罗旺斯的埃莉诺"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "普罗旺斯的埃莉诺"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普羅旺斯的埃莉諾"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "普羅旺斯的埃莉諾"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "普罗旺斯的埃莉诺"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "普羅旺斯的埃莉諾"
+    }
+  },
+  "lastrevid": 17567756,
+  "modified": "2025-09-17T14:18:41Z",
+  "ns": 860,
+  "pageid": 173452,
+  "sitelinks": {},
+  "title": "Item:Q145067",
+  "type": "item"
+}

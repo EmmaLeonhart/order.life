@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aeantides of Lampsacus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q144019$68721148-E635-4D01-880E-387071C5A164",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144019$1DACAC69-18C6-4F40-8341-51F26BECD4E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144019$924DB47D-3635-48B3-82F0-143A37C6F270",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141358",
+              "numeric-id": 141358
+            }
+          },
+          "hash": "e5fd08c4dd0cbcf2ed17c746006cb76878db6fc9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144019$FA9F65F5-383C-41B9-8186-305CA6EA06A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148021",
+              "numeric-id": 148021
+            }
+          },
+          "hash": "327596d419605f5134b8d853eaf8990c37caac1f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144019$71A289D5-4192-4185-8B24-C4F866A26C44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144019$F0CD47FA-6B40-4B0B-9C09-A0EDF9FB216F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144019$A4B1067E-3168-4B1C-B411-9B2DEDF69B3A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q403403"
+          },
+          "hash": "f805f9c7d4871b083f907ac8337f89b73553e9df",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144019$05E2F27B-6945-4ACB-86CC-B59EB82E0118",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aeantides of Lampsacus Arms.svg"
+          },
+          "hash": "81d03cba89000437dfe89ee9d05e7cd70091ae15",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "antiker griechischer Tyrann von Lampsakos"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lampsacus politician"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "tyran de Lampsaque"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Lampsacus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "тиран Лампсака"
+    }
+  },
+  "id": "Q144019",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Aiantides von Lampsakos"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aeantides of Lampsacus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eántides de Lámpsaco"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Éantidès de Lampsaque"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eantide di Lampsaco"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aeantides Lampsacenus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aeantides"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эантид"
+    }
+  },
+  "lastrevid": 17565860,
+  "modified": "2025-09-17T13:50:59Z",
+  "ns": 860,
+  "pageid": 172404,
+  "sitelinks": {},
+  "title": "Item:Q144019",
+  "type": "item"
+}

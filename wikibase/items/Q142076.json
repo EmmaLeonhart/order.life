@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Watkin Llwyd ab Ieuan ap Watkin ap Hywel"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q142076$232EDD6B-6415-4110-89B0-2F163F331F09",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00696709"
+          },
+          "hash": "9ef4e8bdedb4da9b00ec0281644f71c631cda57a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142076$43381206-E2CA-4F2B-8AF7-838E5C095B06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144812",
+              "numeric-id": 144812
+            }
+          },
+          "hash": "211f8c7d2f8fb6107357143b37da42cbbade646a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142076$7B5F5F08-0DD1-48EB-A98E-85F90DC3B2D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142785",
+              "numeric-id": 142785
+            }
+          },
+          "hash": "ab11e3f8d59f517a13971a556b6e9719673b393c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142076$862817D7-AA27-48D6-8AA8-05AB47BDDC13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142076$4591B888-F611-46E0-AB77-4079653554E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q142076$5B574EAF-2CD0-4D91-A885-CC924CA9BC7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145937",
+              "numeric-id": 145937
+            }
+          },
+          "hash": "1d94ddcec019b7066de58aabdfb20c37832c0de4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142076$913CBFCF-CB53-49B1-AA73-508C28B3FA62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140375",
+              "numeric-id": 140375
+            }
+          },
+          "hash": "f60ae6344331537213a3052539661ae45e2d1876",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142076$9608A6CF-8D44-4485-9542-D7BBD2305FBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140057",
+              "numeric-id": 140057
+            }
+          },
+          "hash": "6c2f6b6d54a660d40da64cceb6254adb2b3054eb",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142076$D5A1713D-2DEE-4BFC-9639-0CCBE97F2F77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142076$A8E664FC-F104-47A3-83C5-672ED07162BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99084997"
+          },
+          "hash": "2b0dbd75d401abec598e35a779a4a0a1f418e0ca",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142076$E830EF5B-B292-45D6-99D6-F88015CE3E93",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Watkin Llwyd ab Ieuan ap Watkin ap Hywel Arms.svg"
+          },
+          "hash": "0d46013ab3a5f8a9352b6e41cbfb92119274bb53",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q142076",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir Watkin Llwyd ab Ieuan ap Watkin ap Hywel"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir Watkin Llwyd ab Ieuan ap Watkin ap Hywel"
+    }
+  },
+  "lastrevid": 17562398,
+  "modified": "2025-09-17T13:00:59Z",
+  "ns": 860,
+  "pageid": 170461,
+  "sitelinks": {},
+  "title": "Item:Q142076",
+  "type": "item"
+}

@@ -1,0 +1,300 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143281$A9AD980E-8429-42C1-997D-1A6EAE144321",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00425695"
+          },
+          "hash": "509331f66742c0d92d5b9fe03389733c5b41c628",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143281$5A2FD7DF-5B0D-4AA4-AF7D-8B1D3CD034A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143281$0AE6DE15-603B-4BD9-BC28-066904331D91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143281$F1E342A7-D368-40F8-8AFF-85F6A2923B03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140850",
+              "numeric-id": 140850
+            }
+          },
+          "hash": "495466b025ae66dbdef9adc9e7e40c5c3b60eb9a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143281$E5B90E12-C038-491F-9AD1-7BAC18A48322",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146567",
+              "numeric-id": 146567
+            }
+          },
+          "hash": "48fd35e24f0b80f10ada8229779f7a4c5b49f90e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143281$D3E7930E-912B-4008-A93F-D465757944B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143281$41B543B1-E289-4289-9C22-75F38BA63D56",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1115-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8b94cbbb41a40c755e4a573bf340664e48047400",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143281$2B98BD90-50D2-4CAA-9B85-A7831EE49DC9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1165-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f2467d33fbe89d45e1084189e74bfb5584e15da3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143281$CDDEDF7C-A51E-4CD1-B5F0-A9E15F094C0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6162664"
+          },
+          "hash": "3f90bb58404467fc09cfba7867c1ed5434e3de97",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q143281$15FF1280-EF78-4A03-BB24-DCC640FB45DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.6508"
+          },
+          "hash": "487bdc01bebee16378267daeff8c71d8fdba6f0f",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143281$3F32CB46-9325-47D2-BC99-BE3E61412EAB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prislav Arms.svg"
+          },
+          "hash": "fa465730e0e8323e0402768f46d7faea8e678856",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "lollandský jarl"
+    },
+    "da": {
+      "language": "da",
+      "value": "jarl af Lolland"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fürst der Abodriten"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "fyrste av obodriterne"
+    }
+  },
+  "id": "Q143281",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Прыслаў"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Prislav"
+    },
+    "da": {
+      "language": "da",
+      "value": "Prislav"
+    },
+    "de": {
+      "language": "de",
+      "value": "Prislav"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πρίσλαβ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prislav"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Prislav de Laaland"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Prislav av Lolland"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Prislav"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Przesław"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Прислав"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Prislav av Lolland"
+    }
+  },
+  "lastrevid": 17564766,
+  "modified": "2025-09-17T13:35:34Z",
+  "ns": 860,
+  "pageid": 171666,
+  "sitelinks": {},
+  "title": "Item:Q143281",
+  "type": "item"
+}

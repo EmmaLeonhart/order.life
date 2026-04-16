@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert de Trevers"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q146775$70A9A2C5-9F1B-4B32-902E-B04266C00A27",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Trevers-2"
+          },
+          "hash": "80d4ab3fc8db4d56cfb67ec01cdeb2abacfefbf0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146775$52F039E1-1F34-4482-A4B5-320065C95AF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146775$8FC6BF7D-D469-4F4E-B262-7342447C88D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q146775$B75EEC7F-534D-4D5B-84A2-42296925B2A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126429",
+              "numeric-id": 126429
+            }
+          },
+          "hash": "f77ab8b7f2e529e2aba9838596a21854a7361ebb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q146775$87977DB9-DF2F-465F-B7FE-ED98046BAFDF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p25300.htm#i252997"
+          },
+          "hash": "a1b2dae8a3a5c72356ed0508bb94040301fa4692",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146775$537AF874-53B0-47FC-9D2F-DE79391E7D40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146775$4E76AB36-103F-45AC-BD3F-1C844A2FF80E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1065-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "850c2d48bc15e6fffb2305b1ccda484f87d9ef26",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146775$B7D8F0C1-228F-4EDA-96F2-3E91DAAB7757",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1135-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a192667e5b16b41521d6927eb1dd9a4fb32959d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146775$93A4E2AC-4904-45A6-A899-F92624AC0111",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75624272"
+          },
+          "hash": "2c75b879fcbcd759bc04b64fd9abc2749a94b56c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146775$DBF51C68-E418-4C38-A5A6-1E209991FEDC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de Trevers Arms.svg"
+          },
+          "hash": "0ab8c5b551e0e5893c206ac932a071e0e1c49dee",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=252997"
+    }
+  },
+  "id": "Q146775",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Robert de Trevers"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert de Trevers"
+    }
+  },
+  "lastrevid": 17571070,
+  "modified": "2025-09-17T15:07:01Z",
+  "ns": 860,
+  "pageid": 175160,
+  "sitelinks": {},
+  "title": "Item:Q146775",
+  "type": "item"
+}

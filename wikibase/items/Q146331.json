@@ -1,0 +1,215 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hywel ap Cynwrig"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146331$81A24F9F-8188-4E82-9002-0E823ABB25F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00804973"
+          },
+          "hash": "a8ab376f1fd90debffbd0de9dab069b3786a27fe",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146331$CC27010D-BE2F-4525-9829-56B38636C072",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151022",
+              "numeric-id": 151022
+            }
+          },
+          "hash": "ce8f5d0e128150a9fe2115ee4283e5db12b0e278",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146331$19D444D9-D0A8-4993-9E77-C509ECEB0ABE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146331$CEB5568F-17FC-4F31-BB89-6C6E514A2C66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q146331$42FBAE0B-8000-4A04-8EF2-81F9CB37DCE5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p60229.htm#i602283"
+          },
+          "hash": "948343946b6f3b846a4da41fa19c6c5e28267bfb",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146331$B760F3B1-3007-4665-93D9-89D335C72383",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143099",
+              "numeric-id": 143099
+            }
+          },
+          "hash": "51da0d0d2ca83e3878e87196828305e4a53e375c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146331$6FEF40DE-AA63-4DB1-AA95-9538D0C4C986",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146331$27479BD3-38ED-4415-B63B-EF4A644F4412",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76204605"
+          },
+          "hash": "21fda5cffaab3bfeff3c04c0d0326f3051836963",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146331$40E680D4-15B8-4B0E-8FEA-4785D83CDB55",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hywel ap Cynwrig Arms.svg"
+          },
+          "hash": "6b314858cc7554f2987510128b601a8d84fc9532",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "o dras fonheddig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=602283"
+    }
+  },
+  "id": "Q146331",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Hywel ap Cynwrig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hywel ap Cynwrig"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hywel ap Cynwrig"
+    }
+  },
+  "lastrevid": 17570272,
+  "modified": "2025-09-17T14:54:23Z",
+  "ns": 860,
+  "pageid": 174716,
+  "sitelinks": {},
+  "title": "Item:Q146331",
+  "type": "item"
+}

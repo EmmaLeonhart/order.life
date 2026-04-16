@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Grigair mac Ailpín"
+      },
+      {
+        "language": "en",
+        "value": "Grigair mac Ailpin"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q144602$794461FD-EA40-4B04-832A-65FC0FF2B4AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144602$39E91BF5-F2E2-49CA-98FB-DCC067A95F85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q144602$211C9E82-A3F8-4166-B136-45E8B26ADE5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p56017.htm#i560169"
+          },
+          "hash": "cf736a0d21001727bb1c413114bc2ed634a817ee",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144602$9A1FA7F0-ED65-451D-B426-52726F17497D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141911",
+              "numeric-id": 141911
+            }
+          },
+          "hash": "2f474ffb5cc7ebdf69fd6504cc1767ef0c2fa1aa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144602$47433A6A-38E0-4D33-BC83-8FC532F8F71C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144602$89EDE59A-2FAB-4BA4-8DC3-8D1E71EFCD04",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0868-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "824080bb49e994ccb5a30631f0256b0ddf7dac6e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144602$564F3C1A-AAF1-40AC-9299-562931A22283",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76141706"
+          },
+          "hash": "53f436f82240e0ea818b0537cbb939fb01c0fc46",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144602$0CE6E482-5B43-4E37-BF77-867AEEDC1F57",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Grigair mac Ailpín Arms.svg"
+          },
+          "hash": "dfe98148b61c0e84ab37a5a9ce98568765241f71",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=560169"
+    }
+  },
+  "id": "Q144602",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Grigair mac Ailpín"
+    },
+    "es": {
+      "language": "es",
+      "value": "Grigair mac Ailpín"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Griogair mac Ailpín"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grigair mac Ailpín"
+    }
+  },
+  "lastrevid": 17566838,
+  "modified": "2025-09-17T14:04:59Z",
+  "ns": 860,
+  "pageid": 172987,
+  "sitelinks": {},
+  "title": "Item:Q144602",
+  "type": "item"
+}

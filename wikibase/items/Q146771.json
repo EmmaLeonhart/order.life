@@ -1,0 +1,318 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alfred de Fougères"
+      },
+      {
+        "language": "en",
+        "value": "Alfred de Fougeres"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q146771$76427779-695B-454C-8789-A6D6D99931CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1371273|1240670"
+          },
+          "hash": "367d44522d4e65eae46a0f7b25972aac1e730972",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146771$C4E9566D-34D4-45FA-A0E2-393EA06286C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146907",
+              "numeric-id": 146907
+            }
+          },
+          "hash": "481a953fd68a9db0996591938ab7be939a1badb6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146771$8923BE90-73CD-4B83-B432-C4319969E054",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Fougères-21"
+          },
+          "hash": "6349865b28d1399c71e7ef2a1d96b30e08bb24c7",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146771$AE40A88B-5267-4213-A27E-A02206F4701E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146771$E21DA18F-79D3-49B3-ADE7-DAD806D0F965",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146771$1D902C79-7303-4880-A06C-7D2A0A74E44C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Unknown_Auffroy_(1)"
+          },
+          "hash": "dc32008d08c33dd6db24a70ebca51a1e05d1a7da",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146771$AB10B673-4C2B-4C3A-8194-640DBD194CB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126087",
+              "numeric-id": 126087
+            }
+          },
+          "hash": "0af0342429dfa2b63573b4e2bc97ed7fd475d280",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146771$D720E56A-00BF-4AB8-8A9D-8B8F83B77094",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146771$CBA0E4B1-29B5-456F-BEDB-6DFF25898EBE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0999-11-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "33bc9cf7f317d0900b873362ced739659e50211c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146771$3DCF0166-695D-4FA0-97F5-43ADEB9343A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1047-11-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c969beaf3f71d9ef5820d52b8ef12c8bbd47e2c0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146771$390E55DF-BA39-4EF8-89B5-50A84D61EE7A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108273979"
+          },
+          "hash": "7b81a22735daa24f833afa829a80f1af7d7d6ad9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q146771$C9EE70A9-AA2B-4B0D-9FDF-2A95504C8D1E",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Alfred de Fougères"
+          },
+          "hash": "d32d9148fba10a79a1edcbf19f189708d82a2e57",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146771$B9DBA0B0-E264-443D-AB21-921C8CFFBE78",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=alfred;n=de fougeres"
+          },
+          "hash": "1899ef3ec90597b108d625883f89800eb293a87f",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146771$023AABB2-7B5B-41A5-84CC-AE80B85CC3E4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alfred de Fougères Arms.svg"
+          },
+          "hash": "2f09406926f91e7d857fb7cebc534cd497f92609",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1000-1048)"
+    }
+  },
+  "id": "Q146771",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alfred de Fougères"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alfred de Fougères"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Alfred de Fougères"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alfred de Fougères"
+    }
+  },
+  "lastrevid": 17571062,
+  "modified": "2025-09-17T15:06:54Z",
+  "ns": 860,
+  "pageid": 175156,
+  "sitelinks": {},
+  "title": "Item:Q146771",
+  "type": "item"
+}

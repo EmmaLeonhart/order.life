@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wichburg"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q146708$13622FB4-DB35-4373-9407-C6535E842760",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146708$75EAA1B2-675C-4963-9AD2-B9F2D2EFB057",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146708$96F9FC7C-C75B-4BBA-A2C7-4E46DED363DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125602",
+              "numeric-id": 125602
+            }
+          },
+          "hash": "b022bfd787d4eb2df4c26eb39b576f288efb3357",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146708$E47B981D-2665-4145-9E9A-199A4AB1F06A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146708$FB40A83B-CE9C-4A10-A558-A719238F08AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0960-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "046750540f633a785fdf704a64d719980f017d38",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146708$A3D748E0-EE25-4C99-AB61-AB86F713E612",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1030-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5864090d5b3e6afb9dbea4ba665f1f5f57113b03",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146708$06F408EE-513B-4ED2-949A-30F43E947F50",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2567387"
+          },
+          "hash": "fab5febc837cbfb07f4241be3256f71e9fed5370",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146708$6568810C-3A37-4D68-AAAA-FFD9C6AE390D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wichburg Arms.svg"
+          },
+          "hash": "493ffede2e5a65258922f5bb0b3528f6bd89da1d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gräfin im Pustertal und Lurngau"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "grevinne i Pustertal og Lurngau"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь пфальцграфа Баварии Хартвига I"
+    }
+  },
+  "id": "Q146708",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wichburg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wichburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wichburg"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Wichburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wichburg"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вихбурга Баварская"
+    }
+  },
+  "lastrevid": 17570960,
+  "modified": "2025-09-17T15:04:58Z",
+  "ns": 860,
+  "pageid": 175093,
+  "sitelinks": {},
+  "title": "Item:Q146708",
+  "type": "item"
+}

@@ -1,0 +1,222 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Máel Coluim of Moray"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143598$E7DB56D7-10B0-4FE5-8048-295C3581994F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "142616"
+          },
+          "hash": "16d943049e92b20d8a507615380cea95df034834",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143598$F7681B13-19A3-4F39-AC9D-7F5F6CF21653",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143598$7A684BF2-ADB9-4010-A2BA-00D089E41396",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143598$392AD339-7980-49AC-B9F6-24C6ECF49580",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Máel_of_Moray_(1)"
+          },
+          "hash": "aa97ba488b6df0adf24033bed8d7f8d631a08cd9",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143598$F22614A1-B154-4165-812B-A3C6D29A98BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141076",
+              "numeric-id": 141076
+            }
+          },
+          "hash": "39c100e20d7a0e9535a9ad97c10576fb8e085197",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143598$7A18F9C6-6DC5-4672-A6AD-D95F38F37291",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143598$631EBC60-8759-4AF4-B7BE-76CA4AF6EE40",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1029-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d032b7501d01778d3ee584901e9dad4da0c8b702",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143598$F12CB38B-5460-46F9-90DB-6B97CED7840B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3281738"
+          },
+          "hash": "f20ca80a36bcc6e1bcc572700af5e0283b0cf96c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143598$C9580A8D-9430-40F9-B678-456E2F16FC16",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Máel Coluim of Moray Arms.svg"
+          },
+          "hash": "a87a606a86971208b90a9509d9a6f49535b88c4c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Scottish king"
+    }
+  },
+  "id": "Q143598",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Máel Coluim of Moray"
+    },
+    "es": {
+      "language": "es",
+      "value": "Máel Coluim of Moray"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Malcolm mac Maelbrigte"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Máel Coluim of Moray"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Máel Coluim o Moray"
+    }
+  },
+  "lastrevid": 17565154,
+  "modified": "2025-09-17T13:41:01Z",
+  "ns": 860,
+  "pageid": 171983,
+  "sitelinks": {},
+  "title": "Item:Q143598",
+  "type": "item"
+}

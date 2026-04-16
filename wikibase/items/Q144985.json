@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Richard (Jenkin) Cradock, of Swansea"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144985$8DE6E822-4AE9-4EC1-9B45-9B202A0CB1B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00586390"
+          },
+          "hash": "487eac8245ad8b7d163e9a66cef576edd0172407",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144985$B7548EA9-A9AA-4EE2-9A81-1893D17E4699",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149086",
+              "numeric-id": 149086
+            }
+          },
+          "hash": "65164fb82b8ea28ff0a7e6f39edc89b76f97f51a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q144985$6BC08CCE-6D5C-4361-962E-C887BF02CB54",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cradock-37"
+          },
+          "hash": "b83c49dc4b072c1b6b855401c9a788da5e98d578",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144985$A4068B3C-082E-4281-A0FF-A63F1B8919C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144985$A3043181-2F5C-4249-BD10-6CE973A6EA7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144985$F7DAFD13-14ED-43CD-82E0-8CD7FE943FBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142197",
+              "numeric-id": 142197
+            }
+          },
+          "hash": "397663719b9a1da446b5d6e3f7080c9f158fcfa2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144985$75F1AE0A-BB2D-4D77-B892-D54BF6874953",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142582",
+              "numeric-id": 142582
+            }
+          },
+          "hash": "8b97f153b9783fca23c8fb0e5162ff303f1729cc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144985$1E72B3A2-A3F4-4BFC-B1B0-14618920C755",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144985$35590322-478F-4255-86D4-A7007C4589E6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1425-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "82b7929ba98e4b8954842e87bf8895e25953036a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144985$323251ED-9352-4652-8242-648141A9D8B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99067835"
+          },
+          "hash": "38fc2b4951c47b61968886b01a322afbd8bde62b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144985$3E0CD3D1-6E57-4855-81BD-ED86DC01EE90",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Richard (Jenkin) Cradock, of Swansea Arms.svg"
+          },
+          "hash": "4ba33dd5767fe370e57c500ecd31b2741779f5fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1425"
+    }
+  },
+  "id": "Q144985",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Richard (Jenkin) Cradock, of Swansea"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Richard (Jenkin) Cradock, of Swansea"
+    }
+  },
+  "lastrevid": 17567594,
+  "modified": "2025-09-17T14:16:25Z",
+  "ns": 860,
+  "pageid": 173370,
+  "sitelinks": {},
+  "title": "Item:Q144985",
+  "type": "item"
+}

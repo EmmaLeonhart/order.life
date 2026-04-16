@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Godwin (?)"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144962$5F6449B1-FFCD-41D9-80E3-D23403777EB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00759033"
+          },
+          "hash": "3536ec64fb9c1eb28ae5025ff62becdab77a2495",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144962$2922E95C-7C60-414F-81BF-82A3AB80C528",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142179",
+              "numeric-id": 142179
+            }
+          },
+          "hash": "9de012edb5d2eaf61074e1bb9bf174b8a922bded",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q144962$46F18F6F-FA5E-4D39-8785-237BCDB8D087",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ab_Albert-1"
+          },
+          "hash": "5851dc052805b07da0148f6597a2edfb6262e79b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144962$E76A8158-15DA-4D13-8710-1B11BEFB6B31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144962$74C3C304-9944-4D7D-95B5-92907B2DDD06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q144962$E46403BA-DA7E-45B1-B616-2DE3BDFA65AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p67585.htm#i675845"
+          },
+          "hash": "2885a4642b4eb10ebd36494d2527050fa81f57da",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144962$301ADC1D-F001-4D72-83CF-D67C8FED3EAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144962$03ED90B8-D2EF-4F8B-BC28-3B9A8E9D6A6F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1120-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7dcebff35cd4b29d069ca4177d79c1f74b5713c9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144962$9DDCDD04-D35F-4ECD-8B64-FDF0AE5A2992",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1199-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d26b8c49f9480664ce28d97af16d6316801cea36",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144962$B24E0B3F-15BD-4C2C-B8A9-AF9297868293",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76304873"
+          },
+          "hash": "794e0aacfc9f016fd69cfb7a9a5c23519bb7c0e9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144962$03DA41F1-BE49-4F0A-B5A1-1E59203A337C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Godwin (?) Arms.svg"
+          },
+          "hash": "dc6c1cc9097c9f1d83527d5e58f43feef80bcc07",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "( -1199) o dras fonheddig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=675845"
+    }
+  },
+  "id": "Q144962",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Godwin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Godwin (?)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Godwin"
+    }
+  },
+  "lastrevid": 17567548,
+  "modified": "2025-09-17T14:15:46Z",
+  "ns": 860,
+  "pageid": 173347,
+  "sitelinks": {},
+  "title": "Item:Q144962",
+  "type": "item"
+}

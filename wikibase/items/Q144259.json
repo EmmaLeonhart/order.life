@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Marcius Rex"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q144259$01104CC4-7346-4069-93FF-8A98E8FBB9E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144259$1432AB52-5958-4D0D-90E4-83C0399CD008",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144259$F885B366-D576-4948-BA89-D83E1FE07E96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73608",
+              "numeric-id": 73608
+            }
+          },
+          "hash": "32b7f503ac2ca9f3737d959e53b19023e156227f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144259$2875E9D3-37ED-4A1D-9C0D-3B85E0B1D53A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144259$93726C9D-3707-4E3E-A83C-F2A29ABEAD21",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144259$4237B25E-7295-483C-B825-DFE431C59E7E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1499768144a70e82ec71698e222238d1443a9064",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144259$05EE7604-0EFF-4F96-9744-5CFFE35CFA5E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q94525761"
+          },
+          "hash": "cca4b00d8dacdbd5f1847bfcb1248557100a4d95",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144259$DE932DC2-12ED-45D3-BE4E-E20C4A0DA816",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Marcius Rex Arms.svg"
+          },
+          "hash": "7718dcfe7611bb6bb210828e723815e4ba80dad0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "legate in 171 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "embajador del Senado romano ante el cónsul Casio Longino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "légat romain en 171 av. J.-C;"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "diplomaat uit Oude Rome (-)"
+    }
+  },
+  "id": "Q144259",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Publius Marcius Rex"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Marcius Rex"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Marcio Rex"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Marcius Rex"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Marcio Re"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Marcius Rex"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Marcius Rex"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Марций Рекс"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Marcius Rex"
+    }
+  },
+  "lastrevid": 17566262,
+  "modified": "2025-09-17T13:56:42Z",
+  "ns": 860,
+  "pageid": 172644,
+  "sitelinks": {},
+  "title": "Item:Q144259",
+  "type": "item"
+}

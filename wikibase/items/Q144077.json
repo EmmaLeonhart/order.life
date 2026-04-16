@@ -1,0 +1,383 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Licinius Lucullus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144077$B57F555E-01D2-414F-A0BF-35BA75EB4084",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465838"
+          },
+          "hash": "3e8cca2f5281ec14ecfa439ebf44bf3540859de3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q144077$FF7E6504-2EFC-492C-AB5B-153E0B6F11F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736105"
+          },
+          "hash": "5f3f634253ff6a1da0aba005922ad4a37050a6f1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144077$3A0D6030-20C2-4431-A42D-0B277597B338",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141413",
+              "numeric-id": 141413
+            }
+          },
+          "hash": "71d4f06e650d0a244f32305995d1bb5ce8111149",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144077$E95EEDBD-88E1-4661-953C-7AA6E6C60A7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144077$4472CA02-20B6-4ED0-A13F-58A78435F54E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144077$D252A491-7F5E-4463-9E1B-13531A55F212",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148080",
+              "numeric-id": 148080
+            }
+          },
+          "hash": "acf6417edadd476a25eae6c418a96eca81732e92",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144077$7E738FD7-050B-4458-93E9-13174FAB9711",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144077$AFEDB7F8-21D6-4C89-BF14-E0E39B8F3BED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144077$87E3E9FD-55FB-477D-A82C-533927D12CA0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1499768144a70e82ec71698e222238d1443a9064",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144077$A7DCB63C-D068-40D7-B21C-C72ABE96AC7A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q691847"
+          },
+          "hash": "3e7ec3f08a9b5af22d6865c631fde1347e1468d0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144077$E53C4D15-588F-485F-903B-827A5C2FC5E5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Licinius Lucullus Arms.svg"
+          },
+          "hash": "462e765a0d4bda385aff783da4f7f7f3886ade3b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol romà el 151 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 151 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 151 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 151 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "roomalainen konsuli"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 151 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "Console romano nel 151 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 151 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q144077",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Лициний Лукул"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Licini Lucul"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Licinius Lucullus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Λικίνιος Λούκουλος (ύπατος το 151 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Licinius Lucullus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Licinio Lúculo"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Lucius Licinius Lucullus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Licinius Lucullus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Licinio Lúculo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Licinio Lucullo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・リキニウス・ルクッルス (紀元前151年の執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Licinius Lucullus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Licinius Lucullus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Licínio Luculo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Licínio Luculo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Лициний Лукулл"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lucije Licinije Lukul"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Licinius Lucullus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Lucije Licinije Lukul Stariji"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Ліциній Лукулл"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卢基乌斯·李锡尼·卢库鲁斯"
+    }
+  },
+  "lastrevid": 17565958,
+  "modified": "2025-09-17T13:52:24Z",
+  "ns": 860,
+  "pageid": 172462,
+  "sitelinks": {},
+  "title": "Item:Q144077",
+  "type": "item"
+}

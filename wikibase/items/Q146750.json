@@ -1,0 +1,193 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Werner von Kyborg"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q146750$39F521B3-387A-4D38-923A-59471D47BFB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146750$8F473D5C-186A-4AA6-A28E-0BCF32D865E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q146750$2F86EB39-6AE0-402D-93E0-B6D71E401B6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126529",
+              "numeric-id": 126529
+            }
+          },
+          "hash": "b2ac4cff7c38d0ccea1b126768a2e4833be18f3c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q146750$1B77A185-926C-4750-A69A-A21153411F78",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p67259.htm#i672586"
+          },
+          "hash": "1644317bba54e9e2094e2d96e9b9aca96cef3b60",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146750$FD4D5735-AD39-41B4-8608-73B04E3AE9ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146750$5BA882BE-236A-4567-B2A9-04455897B9DB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1068-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "438142e92cad3cd2704c5bec6d27b3a1f2dd1da6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146750$28B7F555-1D4D-4D7F-9E53-60F51FFC4F85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76299936"
+          },
+          "hash": "13994e0f595a121d5119b96cca4454b19b9b3f85",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146750$FACC8695-796D-43FB-9C62-67FBB6DB7667",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Werner von Kyborg Arms.svg"
+          },
+          "hash": "8b2938624fce7aa13965e88f440371501ae7a4e0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=672586"
+    }
+  },
+  "id": "Q146750",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Werner von Kyborg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Werner von Kyborg"
+    }
+  },
+  "lastrevid": 17571030,
+  "modified": "2025-09-17T15:06:09Z",
+  "ns": 860,
+  "pageid": 175135,
+  "sitelinks": {},
+  "title": "Item:Q146750",
+  "type": "item"
+}

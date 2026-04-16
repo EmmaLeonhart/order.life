@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John le Botiler of Wem"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q145297$7D14E2A1-690F-45C2-96FD-2B2285E8A0B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Botiler-13"
+          },
+          "hash": "bafc146b40491ba0b392269c8fc70edb61529338",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145297$E2CB2381-92A0-40A4-97D7-0560109DC574",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145297$D127B035-EC5F-4081-A223-D0EBBCF39411",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145297$2782A8DE-7D1B-4B46-B6DE-70282A36CCA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149657",
+              "numeric-id": 149657
+            }
+          },
+          "hash": "72e66187641c6ecf7409817a2b0fdc5b13d2b10e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q145297$5B77987E-A75A-40E7-89CD-C4D1F59878AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p13768.htm#i137671"
+          },
+          "hash": "2c5a59d8579f4d1565089498a58f5e57bdb019a8",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145297$D1DC406F-45B9-47CE-A1B1-FB960E6FE801",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145295",
+              "numeric-id": 145295
+            }
+          },
+          "hash": "d448246b079102f96587f9043b871328059514f0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145297$EEC2A86C-2616-4C11-87D2-381DDF9EC672",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142344",
+              "numeric-id": 142344
+            }
+          },
+          "hash": "e4f34b4542556866f509a565aa3cb1c656e303ec",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145297$0808A883-447C-413F-B3C6-7DF28CC886C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145297$DD9989AF-B21B-4E12-A86E-0B48DDE538F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1266-07-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "36d661208d6cb4622eed105ac072fe4b96622dd5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145297$50A9D101-8FAA-4645-AD7F-758BE4247A69",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1287-09-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f941e623213a7374b98a9cc04307e57338684701",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145297$A6EAB5C8-AA54-496F-AD03-D1D220C03FE6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75431762"
+          },
+          "hash": "8286703161e01c4a2976007cafeaf6290c57ed7f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145297$409855DB-3484-4224-840D-DF67BD77C678",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John le Botiler of Wem Arms.svg"
+          },
+          "hash": "1f5622a8ad507a865c61564fed1dd963578760c4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=137671"
+    }
+  },
+  "id": "Q145297",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John le Botiler of Wem"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John le Botiler of Wem"
+    }
+  },
+  "lastrevid": 17568214,
+  "modified": "2025-09-17T14:25:15Z",
+  "ns": 860,
+  "pageid": 173682,
+  "sitelinks": {},
+  "title": "Item:Q145297",
+  "type": "item"
+}

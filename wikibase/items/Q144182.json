@@ -1,0 +1,290 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Junius Silanus Torquatus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144182$A52B927B-1117-4345-905C-3BC37BF7FC64",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465171"
+          },
+          "hash": "2388179e80af9f930aba2da7e2e50da62e32cdb1",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q144182$29AB022F-5F81-4B8E-830D-FBBB65A50FE2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735518"
+          },
+          "hash": "532731e28879bf0285429d7e304468383744e029",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144182$E4D8EAE1-EC11-423C-B3CB-2C0214069739",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144182$F28BC38F-A417-42B4-9526-2FEEA68E4616",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144182$88A7F99A-DE6A-40A1-AE7A-CC6B75C00D90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141534",
+              "numeric-id": 141534
+            }
+          },
+          "hash": "5d0780039a140a7aa1088ca85dfbabe3da9612d5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144182$F4358078-2B84-49C1-B1C5-CFEF6332E92D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144182$1A6A023B-D3CC-459A-9985-55B618B88755",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144182$2294831A-7D0B-46AD-8434-698796C8EF53",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0065-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "684b87cf4b78de6d402478265db48017b725c4b3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144182$27A7960E-E5A5-4CB3-AD3B-CAA476C60017",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1713818"
+          },
+          "hash": "00ea3caf2d53b683f374f23ff6eabd44195b2f40",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144182$318BBA67-CA50-47F0-A569-2654BA0C758C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Junius Silanus Torquatus Arms.svg"
+          },
+          "hash": "8837dfeb83928f4460f3ec04db0768de0d585db3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Verwandter des iulisch-claudischen Kaiserhauses"
+    },
+    "en": {
+      "language": "en",
+      "value": "great great great grandson of emperor Augustus, rival of emperor Nero"
+    },
+    "es": {
+      "language": "es",
+      "value": "sacerdote y político romano del siglo I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "priester uit Oude Rome (-65)"
+    }
+  },
+  "id": "Q144182",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Юний Силан Торкват"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Juni Torquat Silà"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Iunius Silanus Torquatus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Junius Silanus Torquatus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Junio Silano Torcuato"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Junius Silanus Torquatus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Giunio Silano Torquato"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Iunius Silanus Torquatus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Iunius Silanus Torquatus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Юний Силан Торкват"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Junius Silanus Torquatus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Юній Сілан Торкват"
+    }
+  },
+  "lastrevid": 17566128,
+  "modified": "2025-09-17T13:54:47Z",
+  "ns": 860,
+  "pageid": 172567,
+  "sitelinks": {},
+  "title": "Item:Q144182",
+  "type": "item"
+}

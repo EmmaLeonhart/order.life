@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emma d'Arques"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143620$8289C535-4AA3-416A-AF60-F4076BCAAB80",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00647128"
+          },
+          "hash": "cffc4a839adf5572fa465f1d3b24ef40fc75654f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143620$4D0FE04A-5170-44D6-B092-ACD3A0F5F0CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143621",
+              "numeric-id": 143621
+            }
+          },
+          "hash": "111314c8636d0f487e9cdfe8195c6db64a70266c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143620$F967F574-ADD7-490B-ADFB-7AE0926AE86F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143620$47BB547E-7B20-4307-BDA2-076FBDC5BC77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143620$86ACC292-853D-470D-8099-CC5F2CC9ECF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141089",
+              "numeric-id": 141089
+            }
+          },
+          "hash": "d16f1005ed5edc1eb19f5f009090d11bf9c9a853",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143620$40A16E5E-96C0-4B59-BF30-4FBEABA01294",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143620$5F0D3CFB-A225-4BCC-A2D9-EED57F387FA8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q112201526"
+          },
+          "hash": "25567a1cefd02edada82073152c80b55ac0d4932",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143620$F73B5350-D096-4797-BC58-35E6F53D286E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=emma;n=giffard"
+          },
+          "hash": "5812d2065097dd9c1cd30ac302e95f4a87478051",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143620$07D30694-CBB1-4CED-B1E5-2E5CB196129F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emma d'Arques Arms.svg"
+          },
+          "hash": "e5dde368d55023864306c034f62c1be2dc1c3cc9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q143620",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Emma d'Arques"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Emma Giffard"
+    }
+  },
+  "lastrevid": 17565192,
+  "modified": "2025-09-17T13:41:32Z",
+  "ns": 860,
+  "pageid": 172005,
+  "sitelinks": {},
+  "title": "Item:Q143620",
+  "type": "item"
+}

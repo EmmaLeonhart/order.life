@@ -1,0 +1,627 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Isabella de Beauchamp"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q142315$F0CD192B-3D5D-4DC5-A86F-7168DA11E8E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "595759"
+          },
+          "hash": "86ca12bfc9b649277652ee3064349133936c7f03",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q142315$D823787B-551B-4BA3-BB35-DD2B07E702C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00101369"
+          },
+          "hash": "f37f8940b51d34b01efbbc568c15864b646f9008",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142315$AD8C63E9-EBDC-46D0-91BA-03B8FA4259C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144960",
+              "numeric-id": 144960
+            }
+          },
+          "hash": "9375ffcb0c1376b6ec4a77db3ef0255d42ec1883",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142315$75FC1D7A-EC8B-4ABA-906C-494B3310E75F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145228",
+              "numeric-id": 145228
+            }
+          },
+          "hash": "b0fe33c5981db6dd5526fb3ea1b58f5c3917c27d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142315$D3DD727F-F754-4322-BF73-624CF2BD8E07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142445",
+              "numeric-id": 142445
+            }
+          },
+          "hash": "beb0cff71e841bc02b1c9ebc9fe2b5e1e517db78",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142315$A494B3A2-7C73-4539-847D-6D1271A1D38A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145226",
+              "numeric-id": 145226
+            }
+          },
+          "hash": "108cca0119abd14c45cdb3fc87197feb9e91418a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142315$35BB258F-8080-45C1-A51E-6494CD2F7A33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145225",
+              "numeric-id": 145225
+            }
+          },
+          "hash": "a3531a39c623c597ee7344fc44b072570416627f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142315$3A613B3F-3E74-4067-9970-E622B72530BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145227",
+              "numeric-id": 145227
+            }
+          },
+          "hash": "49d953ad7288603fa2be984182bae9ebf907b163",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q142315$CAD4AE24-040E-4DEE-8DF3-AD32C6E75204",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "LB6W-M1K"
+          },
+          "hash": "ba12aaf498e00340ed926dae258f74f2c0fcee59",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q142315$56E8614E-30A2-4A05-AB41-69B042A53124",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Beauchamp-101"
+          },
+          "hash": "b38db05c5c871de60c5025d7ab870c7342df9964",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q142315$0FF16877-0D5C-4011-92CE-15483FF14DE2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I5485"
+          },
+          "hash": "816ec2d7d0a8e72a6cbb288e94c4186283a6ea71",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142315$5385DA1E-3F77-45BA-A0E0-D638FD004B00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142315$F1ADBD1F-CCAE-4FD8-A196-E368337B6199",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q142315$34B141E1-DAB8-4BDC-A892-725729C6ED58",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Isabel_de_Beauchamp_(1)"
+          },
+          "hash": "df948a0ff83ac4ded86e836b60a68b6bf13800e7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q142315$8721E2A5-247F-4E42-8677-AB2A8D936210",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142177",
+              "numeric-id": 142177
+            }
+          },
+          "hash": "799b266b641eb5e09fc472b803a7163cde2d2857",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142315$8C4E1455-86A0-4BFB-9C23-49A81DBFCA8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145222",
+              "numeric-id": 145222
+            }
+          },
+          "hash": "e092a4d6d5b7bd60e585a5a61276bdd60027cafc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142315$CA019345-BB97-4B39-B73A-61487AEB6807",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145223",
+              "numeric-id": 145223
+            }
+          },
+          "hash": "6f1ccc3538f1e77f799d52d1f8bee4f781f67280",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142315$F081D9F4-202B-415B-B66E-E58133ABDC84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145224",
+              "numeric-id": 145224
+            }
+          },
+          "hash": "22ab2f433814028d3f7d711a6ed83e280c5b7256",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q142315$2F930B38-48F0-477C-823B-9CB1BE3CC483",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10687.htm#i106863"
+          },
+          "hash": "eee5283a5558c7d35d2bc3ff778b7fce77ab8321",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142315$F59D711A-5B26-421E-BC3E-E605F6AE8BF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140197",
+              "numeric-id": 140197
+            }
+          },
+          "hash": "b3a779f09ca793a688141d65950d12a38d197273",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142315$FE4B3499-388E-428A-8BD6-BF318DC1DD74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140198",
+              "numeric-id": 140198
+            }
+          },
+          "hash": "14a1dae34a1ab9fa552bb8b66cfcb7af7113f014",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142315$B4C54E1E-0339-4038-89C4-F83188DEF142",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q142315$7A53A173-E0FC-4951-9A66-98734FFEA402",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cd499ea07e9098e107be2add177004bf6d253a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q142315$CCF4192F-C206-48E2-A4EC-38F08C9BA61A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1306-05-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1fce3b4310ea87f8c5ad860eb898b43da6de9c1b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142315$ADDB16E3-C4B8-4B01-B63D-41AE4F62932B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3802304"
+          },
+          "hash": "991111c3099d9f2c2348f0b2ad21ca35d0e5a3ed",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q142315$E0DC592F-A169-490E-A643-6E2A826FAD23",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001625543412"
+          },
+          "hash": "c571c0f510159e480784bd6ba15e12607176fbb7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142315$4FFBBE30-07DA-4999-8BC7-7AB7DD037D00",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Isabella de Beauchamp Arms.svg"
+          },
+          "hash": "b2969d3a5865d121cff0e95a3416404d23027470",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(1300-1306)"
+    },
+    "de": {
+      "language": "de",
+      "value": "englische Adlige"
+    },
+    "en": {
+      "language": "en",
+      "value": "Medieval English noblewoman"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble anglaise"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "графиня Уинчестер"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "графиня Вінчестер"
+    }
+  },
+  "id": "Q142315",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Isabella de Beauchamp"
+    },
+    "de": {
+      "language": "de",
+      "value": "Isabella de Beauchamp"
+    },
+    "en": {
+      "language": "en",
+      "value": "Isabella de Beauchamp"
+    },
+    "es": {
+      "language": "es",
+      "value": "Isabella de Beauchamp"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Isabelle de Beauchamp"
+    },
+    "it": {
+      "language": "it",
+      "value": "Isabella di Beauchamp"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イザベラ・ド・ビーチャム"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Isabella de Beauchamp"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Isabella de Beauchamp"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Изабелла де Бошан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Isabella de Beauchamp"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ізабелла де Бошан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊莎贝拉·德·比彻姆"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "伊莎贝拉·德比彻姆"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "伊莎贝拉·德·比彻姆"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "伊莎貝拉·德比徹姆"
+    }
+  },
+  "lastrevid": 17562856,
+  "modified": "2025-09-17T13:07:34Z",
+  "ns": 860,
+  "pageid": 170700,
+  "sitelinks": {},
+  "title": "Item:Q142315",
+  "type": "item"
+}

@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Guy de Brian"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146097$65D3678D-7F69-4D7B-8A48-AA8FE63DFCCA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00708388"
+          },
+          "hash": "9c2e537a8e86f57020f3927b11ee24c713fe725f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146097$099DD2E6-EA2F-46E5-A702-6D425BD67E7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142901",
+              "numeric-id": 142901
+            }
+          },
+          "hash": "ecd91b79655520634e5939cce9689285015649a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146097$6799ADF4-5EF6-45A7-9BF2-E1A7F0F604B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150728",
+              "numeric-id": 150728
+            }
+          },
+          "hash": "cc6061f7a7ec5bcef47404dfd5fe0780f21bb30c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146097$E208FD9E-39DB-4941-9784-1ADB6A3F02AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146097$B2A8A7F6-F5F4-42C7-9B15-F835862F38BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146097$5A895CD7-0576-45A8-B966-4F6A92A55FCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146097$8CC0CD7A-9696-4042-8CF2-D2DC0322FB95",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110621952"
+          },
+          "hash": "b858c0b90b8e6dad0c91b1e986cac63d9d3afeb8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q146097$034DACA6-51A1-4F31-9173-64889475EE90",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Guy de Brian"
+          },
+          "hash": "7d5abfe589ddfd63a7ad466689cf3d8567064954",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146097$E6336AC0-35EA-4D67-BCF5-8CB49FC5EA14",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Guy de Brian Arms.svg"
+          },
+          "hash": "aafa9871bc1e4464aadec7d19d2d03f8cf5b2d35",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q146097",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir Guy de Brian"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Sir Guy de Brian"
+    }
+  },
+  "lastrevid": 17569804,
+  "modified": "2025-09-17T14:47:50Z",
+  "ns": 860,
+  "pageid": 174482,
+  "sitelinks": {},
+  "title": "Item:Q146097",
+  "type": "item"
+}

@@ -1,0 +1,460 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Magnus Broka"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143888$6E2A1B52-C2EB-4571-A023-C2F4973E1C31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00280175"
+          },
+          "hash": "6852c43bb898b8e68fa117c9177a7af423dec3ac",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143888$344F1287-0F69-43C3-8058-70CEDDAB86B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147713",
+              "numeric-id": 147713
+            }
+          },
+          "hash": "da68d80437277f30fae52f3f120d6ef5cf7eab7e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143888$27838297-DAA4-4FBA-8BBF-1BAA00AC5338",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Birgersson-46"
+          },
+          "hash": "152c6142ebd04b2e86c6fa72c93e34652f16599a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143888$B7FD344D-9D6C-41CB-A4C4-3C41D1DA47D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143888$FE638824-34EC-4201-82B5-8855A1F40F3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143888$21282AC9-1215-43C7-A638-809185F73F17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143706",
+              "numeric-id": 143706
+            }
+          },
+          "hash": "3cb383d049f8008a3b555366290ed10506f6e1f3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143888$4A3AA993-423E-4E3A-8DA9-F1018B0B7F95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141224",
+              "numeric-id": 141224
+            }
+          },
+          "hash": "a3f5444020a7bc75029a0cce4e7e1f3f594d9782",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143888$49F1CF28-B1E7-4CDB-ACB0-CB86D3685FEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143888$210ED0E6-4F91-4AB1-A9CB-743BC7D20283",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143888$F68D3097-62F1-4029-A6F4-1A5E3DBB95C6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "85e790af0df6de3464957d154a2818a921d6c29f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143888$19540BB4-7FB9-43B5-95A5-BDE2CA88AB90",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q519386"
+          },
+          "hash": "776fb735f70c12ea3d3fb0a5315ba5d714f7a3f8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143888$81DFD2F6-439B-4A43-8317-7A1EC156C7CF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Magnus Broka Arms.svg"
+          },
+          "hash": "85bfed9389b19c657e9f5e8ab66b22ec361e7178",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي سويدي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu suecu (1200–1300)"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "সুয়েডীয় রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític suec"
+    },
+    "da": {
+      "language": "da",
+      "value": "svensk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn von Jarl Knut Birgersson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Swedish politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "político sueco"
+    },
+    "et": {
+      "language": "et",
+      "value": "Rootsi poliitik"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari suediarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار سوئدی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique suédois"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "polaiteoir Sualannach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político sueco"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי שוודי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "švedski političar"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico svedese"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스웨덴 정치인"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zweeds politicus (-)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "svensk politikar"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko suiso"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político sueco"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "politician suedez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "шведский дворянин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan suedez"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "svensk politiker"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "шведський шляхтич"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "chính trị gia người Thụy Điển"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "瑞典政治人物"
+    }
+  },
+  "id": "Q143888",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Magnus Broka"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Magnus Broka"
+    },
+    "da": {
+      "language": "da",
+      "value": "Magnus Broka"
+    },
+    "de": {
+      "language": "de",
+      "value": "Magnus Broka"
+    },
+    "en": {
+      "language": "en",
+      "value": "Magnus Broka"
+    },
+    "es": {
+      "language": "es",
+      "value": "Magnus Broka"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Magnus Broka"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Magnus Broka"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Magnus Broka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マグヌス・ブロカ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "망누스 브로카"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Magnus Broka"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Magnus Broka"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Magnus Broka"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Magnus Broka"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Магнус Брока"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Magnus Broka"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Magnus Broka"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Magnus Broka"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Маґнус Брока"
+    }
+  },
+  "lastrevid": 17565612,
+  "modified": "2025-09-17T13:47:30Z",
+  "ns": 860,
+  "pageid": 172273,
+  "sitelinks": {},
+  "title": "Item:Q143888",
+  "type": "item"
+}

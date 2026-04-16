@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philagrius"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q144342$8BE77A55-FF9E-4F11-8476-1C7993A9C1AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123818",
+              "numeric-id": 123818
+            }
+          },
+          "hash": "63ed245e0b3fd5a2d8abaa564884cc516bbf95cb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q144342$15BA54F4-DD15-44C8-9CFF-D7B87CB5606A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Philagrius-3"
+          },
+          "hash": "59c98a6879f96bc4b2d2f74661df4f841971c3f5",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144342$F5A47EA9-FBDE-4898-8E1F-28C74159C2D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144342$4875DEC4-C199-4681-8CB5-BF04CB9BB009",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144342$C98626E0-ECC3-4002-B9A4-3DF7423BF542",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144342$38CD4FA8-81C3-4065-90C3-FC0B886D52B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0295-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f2645185946e2eb9732c1f3ed5cfb35f231c974",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144342$40BD1A93-14A0-407C-82C0-BEBA7FF0BC56",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0350-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6e8b1768681843794740f348371f341f56b10252",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144342$21BD4E91-B127-4A54-BFFC-D689127E29A7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7182911"
+          },
+          "hash": "4b1c137e1fdbd2de36362b70be75178427011e9e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144342$71893DE2-BC5F-4525-842D-D5EB77E79134",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philagrius Arms.svg"
+          },
+          "hash": "9d809317038ccef67ed2f77fd7837393ce793a95",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman state official under the emperors Constantine I and Constantius II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préfet d'Égypte entre 337 et 340"
+    }
+  },
+  "id": "Q144342",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Philagrius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philagrius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Flavio Filagrio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Flavius Eparchius"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Flávio Filágrio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Flávio Filágrio"
+    }
+  },
+  "lastrevid": 17566404,
+  "modified": "2025-09-17T13:58:44Z",
+  "ns": 860,
+  "pageid": 172727,
+  "sitelinks": {},
+  "title": "Item:Q144342",
+  "type": "item"
+}

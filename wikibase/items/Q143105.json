@@ -1,0 +1,250 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ednywain Bendew (I) ap Neiniad ap Gwaithfoed"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143105$D8FEB441-50BF-4423-82BA-2C52F76FBFA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00705927"
+          },
+          "hash": "4494df58cc9e5f09013193a6d41352dbc73f4128",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143105$AC7F389B-66D7-4A9C-8104-64149A716E9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140724",
+              "numeric-id": 140724
+            }
+          },
+          "hash": "6b42679069257a126cc7add5eb79691f04de307e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143105$FB1EE214-6BFD-4B67-88FC-173532A68639",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146339",
+              "numeric-id": 146339
+            }
+          },
+          "hash": "ca7b428a58f30db3ce107ffaef0f8daf0073dcd8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143105$5E17AEE3-F324-4878-900D-79E5D242AAC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Neiniad-6"
+          },
+          "hash": "26030ed434b8d0bb7aa5208d0fff4c47fcc5c390",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143105$0EEE520E-C8B7-470D-9C73-B346E92108B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143105$92F23F39-7350-4EBB-85C9-D40095A50778",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143105$744CD51E-941D-4B7F-9C68-4E1C83B2EE21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144820",
+              "numeric-id": 144820
+            }
+          },
+          "hash": "ff6a4c7e348b3a567556fe9f459c375776f57787",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143105$6BA94850-F026-4C62-A4EE-980FE27416FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143105$C84E266A-755D-4CD3-A123-893B107C620D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1020-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e536bb6227c670e003dbde5e5d0bd73a8cc9977e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143105$737A5A66-C540-4225-9B39-DC48105F5372",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110152926"
+          },
+          "hash": "e72ead58b9b56f66a20000c67262294f5f7ac69e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143105$7557D579-5327-4EC4-951C-E8E52F191899",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ednywain Bendew (I) ap Neiniad ap Gwaithfoed Arms.svg"
+          },
+          "hash": "e82d7389dc6917f17fcf41cde15332fd91f77157",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1020 - aft. 1079"
+    }
+  },
+  "id": "Q143105",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ednywain Bendew (I) ap Neiniad ap Gwaithfoed"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ednywain Bendew"
+    }
+  },
+  "lastrevid": 17564422,
+  "modified": "2025-09-17T13:30:44Z",
+  "ns": 860,
+  "pageid": 171490,
+  "sitelinks": {},
+  "title": "Item:Q143105",
+  "type": "item"
+}

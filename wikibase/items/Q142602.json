@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jenkin ap Llywelyn ap Hywel Fychan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q142602$BA8035B4-A812-4952-9723-D193DA71DF8E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00777388"
+          },
+          "hash": "ad7aa0d5bd814c72063b5e6b3e8e4e03abf10573",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142602$BE67D1C9-D0A3-48FA-BCC2-1EF8BAA64CEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145688",
+              "numeric-id": 145688
+            }
+          },
+          "hash": "9660cefa5314b07fb12214ee441327bca2ab524b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q142602$EDCFE90F-137B-4645-B32A-F8A0A85E2A9B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Llewelyn-92"
+          },
+          "hash": "0f37341c6f5fcddea2ced7e686acb8b388dbdc00",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142602$2E9E7A2F-6052-4269-825C-A49A9656BAE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142602$E6CFC0F7-9992-451A-BD26-887315FB378D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142602$3E2B7114-5566-4EA6-9C7C-DE853403AC49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140357",
+              "numeric-id": 140357
+            }
+          },
+          "hash": "e88b86320477d6832ea1aca8444a7ac728560618",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142602$A13F2CCA-3EC5-4236-A728-181EED337669",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142891",
+              "numeric-id": 142891
+            }
+          },
+          "hash": "197b5483ba090be92b2a9cbdfe9312e2c6c8ef23",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142602$30D9FE87-3123-4359-BE4F-85C87B7C43DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q142602$AC663E89-1607-4A4B-95BA-1576C1F4EF54",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1355-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f84de8b876814173c76dca34ef78164401287846",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142602$EE2B0490-5275-4166-A222-FA1F69131241",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116812252"
+          },
+          "hash": "1ab7311ab2b89547aa6d9df2099536d4d2445cf3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142602$50F7F6CC-1CE2-4E6E-BEAC-57065480443B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jenkin ap Llywelyn ap Hywel Fychan Arms.svg"
+          },
+          "hash": "d39d2a21bd89774ffdf5d3407814ee537ca8b41d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1355 -"
+    }
+  },
+  "id": "Q142602",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jenkin ap Llywelyn ap Hywel Fychan"
+    }
+  },
+  "lastrevid": 17563420,
+  "modified": "2025-09-17T13:16:02Z",
+  "ns": 860,
+  "pageid": 170987,
+  "sitelinks": {},
+  "title": "Item:Q142602",
+  "type": "item"
+}

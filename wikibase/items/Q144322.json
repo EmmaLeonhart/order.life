@@ -1,0 +1,582 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Plancia Magna"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q144322$4C387936-0FC8-4534-AEEB-C6E1618B2319",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148241",
+              "numeric-id": 148241
+            }
+          },
+          "hash": "c9e818b41566aaccc419c91ffd15f0472d620c97",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144322$8CF9794D-E76D-490E-80C8-FAE731C4B2AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148240",
+              "numeric-id": 148240
+            }
+          },
+          "hash": "28ed2ffc2bbc4bd557e4d11801d31985016c9027",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144322$9673C241-9461-4494-BC1B-69665B63041F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144322$4430E275-0EA3-459E-AEB9-FFB339C75F04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144322$431A7E3A-2419-44AB-9F76-9AF8FD31B448",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148239",
+              "numeric-id": 148239
+            }
+          },
+          "hash": "7553adb8f766c0960cb0a0ac98839c17aaf98e5c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144322$CCB63697-AB04-4648-A79A-448CF96CA098",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144320",
+              "numeric-id": 144320
+            }
+          },
+          "hash": "9d623ee5307c42df59b9a7627f653fbf303a1ccc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144322$F797654E-3C66-4CCE-B071-A7DC87A9E4E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141689",
+              "numeric-id": 141689
+            }
+          },
+          "hash": "4d4053fb34b88266e0daa93e808c10b3b507856f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144322$FC910BD7-DEB5-46A3-82CF-53CC5E4D2BD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144322$7536F560-D5A7-47BE-AC1D-282B33652053",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0075-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cb22c59828d6e2b9aab65a88fb3a8fd56b523bb4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144322$5FECA4E0-68D5-4F9F-BE07-B4A541FFB50D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7200984"
+          },
+          "hash": "e0f6d120b17d2e4678a7e0fcc0ca9bfff8e43c7c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144322$5DE277D4-F926-462D-BCEB-2A40A2435B1D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Plancia Magna Arms.svg"
+          },
+          "hash": "3ebe8ab239843227fd301cc34b97eda790b252a6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "antike römische Honoratiorin zu Beginn des 2. Jahrhunderts in der phrygischen Stadt Perge"
+    },
+    "en": {
+      "language": "en",
+      "value": "ancient Roman woman"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyenne romaine de Pergé"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk prästinna, filantrop och stadsbyggare"
+    }
+  },
+  "id": "Q144322",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Plancia Magna"
+    },
+    "an": {
+      "language": "an",
+      "value": "Plancia Magna"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Plancia Magna"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Plancia Magna"
+    },
+    "bm": {
+      "language": "bm",
+      "value": "Plancia Magna"
+    },
+    "br": {
+      "language": "br",
+      "value": "Plancia Magna"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Plancia Magna"
+    },
+    "co": {
+      "language": "co",
+      "value": "Plancia Magna"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Plancia Magna"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Plancia Magna"
+    },
+    "da": {
+      "language": "da",
+      "value": "Plancia Magna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Plancia Magna"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Plancia Magna"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Plancia Magna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Plancia Magna"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Plancia Magna"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Plancia Magna"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Plancia Magna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Plancia Magna"
+    },
+    "et": {
+      "language": "et",
+      "value": "Plancia Magna"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Plancia Magna"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Plancia Magna"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Plancia Magna"
+    },
+    "frc": {
+      "language": "frc",
+      "value": "Plancia Magna"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Plancia Magna"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Plancia Magna"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Plancia Magna"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Plancia Magna"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Plancia Magna"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Plancia Magna"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Plancia Magna"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Plancia Magna"
+    },
+    "id": {
+      "language": "id",
+      "value": "Plancia Magna"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Plancia Magna"
+    },
+    "io": {
+      "language": "io",
+      "value": "Plancia Magna"
+    },
+    "it": {
+      "language": "it",
+      "value": "Plancia Magna"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Plancia Magna"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Plancia Magna"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Plancia Magna"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Plancia Magna"
+    },
+    "li": {
+      "language": "li",
+      "value": "Plancia Magna"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Plancia Magna"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Plancia Magna"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Plancia Magna"
+    },
+    "min": {
+      "language": "min",
+      "value": "Plancia Magna"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Plancia Magna"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Plancia Magna"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Plancia Magna"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Plancia Magna"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Plancia Magna"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Plancia Magna"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Plancia Magna"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Plancia Magna"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Plancia Magna"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Plancia Magna"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Plancia Magna"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Plancia Magna"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Plancia Magna"
+    },
+    "prg": {
+      "language": "prg",
+      "value": "Plancia Magna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Plancia Magna"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Plancia Magna"
+    },
+    "rgn": {
+      "language": "rgn",
+      "value": "Plancia Magna"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Plancia Magna"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Plancia Magna"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Plancia Magna"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Plancia Magna"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Plancia Magna"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Plancia Magna"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Plancia Magna"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Plancia Magna"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Plancia Magna"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Plancia Magna"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Plancia Magna"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Plancia Magna"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Plancia Magna"
+    },
+    "vmf": {
+      "language": "vmf",
+      "value": "Plancia Magna"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Plancia Magna"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Plancia Magna"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Plancia Magna"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Plancia Magna"
+    }
+  },
+  "lastrevid": 17566374,
+  "modified": "2025-09-17T13:58:17Z",
+  "ns": 860,
+  "pageid": 172707,
+  "sitelinks": {},
+  "title": "Item:Q144322",
+  "type": "item"
+}

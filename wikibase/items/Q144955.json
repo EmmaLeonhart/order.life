@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert de Breuse"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q144955$55F0167D-67E0-42E1-BEA7-5975CF9B53DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "De_Brewes-7"
+          },
+          "hash": "1aec2509e911c9e117b499425bcf85712164038c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144955$E460EF0C-9EF6-44E4-B78D-89E994F1306E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144955$10730BCB-F26F-4D95-B923-28EABFF85314",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144955$07C398E5-FE7C-4A01-84D9-9B08DEB6B5F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145507",
+              "numeric-id": 145507
+            }
+          },
+          "hash": "6f5dddb58b0ebd20dab9c5fa17b2d47fa466a6f9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q144955$48B77D5D-05B8-4534-95DD-7D73520B923D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15183.htm#i151822"
+          },
+          "hash": "5ccd2c9cad4d986c8629551334d376b60808c18a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144955$9D0BE2A2-D633-43E4-85D1-C8F116507F3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142172",
+              "numeric-id": 142172
+            }
+          },
+          "hash": "6d3c925a714b1633ad9af7512d3dc212a7d7c168",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144955$73FED555-1381-4A40-AC83-50770405D2CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144952",
+              "numeric-id": 144952
+            }
+          },
+          "hash": "20ef47008297e64b959bbcc4b685634d0de6399f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144955$7F5C9675-8625-42D1-BD77-0792D4DC5AED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144955$03111B6D-57FE-4455-9E74-30D33CD4B2D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1305-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "14b18150709db3f4b1fd23f8c43ca1810dee574b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144955$C36BC69E-B622-446C-AD10-BA96792EBEAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75453800"
+          },
+          "hash": "ecf344fdb6fec6be3e6dec8da1540753e22caa7f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144955$F5118FA6-4A49-4A1D-88A6-0B4A25067E9C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de Breuse Arms.svg"
+          },
+          "hash": "da3a6e21a144b93a8a5f60fe4f638cf0b4cea5f4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=151822"
+    }
+  },
+  "id": "Q144955",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Robert de Breuse"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert de Breuse"
+    }
+  },
+  "lastrevid": 17567534,
+  "modified": "2025-09-17T14:15:34Z",
+  "ns": 860,
+  "pageid": 173340,
+  "sitelinks": {},
+  "title": "Item:Q144955",
+  "type": "item"
+}

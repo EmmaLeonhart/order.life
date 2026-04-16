@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwladys ferch Dafydd"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q145100$6F586818-ADCA-46E3-898B-9AFE0F572925",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145100$66168A48-89E4-4FC9-9208-EA55F869B764",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145100$3D385D07-7D11-4101-B935-96577BCCB39E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142252",
+              "numeric-id": 142252
+            }
+          },
+          "hash": "6661993c23e284f8df4dac4b1ae0df7b164bcb8e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145100$B4588359-B554-4AA5-B4C3-3F49E4781FBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145100$29FC86FE-1853-4F2E-A71E-5CD815CBBB94",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1201-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44ba8602f685cbd68acb321f4ca16da5b03d339c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145100$913AB9A8-BFA0-49DF-8059-3BB6C742407E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1336-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e3183ea3df1798ac097e0f8bf2be56bc3b184fef",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145100$D7622484-5F7E-4372-8F30-573C2FC1244C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5623707"
+          },
+          "hash": "a8fe9ed0207630dd0787a28d116ba52da72269e6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145100$184A0C96-73EC-4E64-9C36-0882D6AA468F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwladys ferch Dafydd Arms.svg"
+          },
+          "hash": "3704ed41cd20b406a7df2794209416b8689bec29",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "Tywysoges Gymreig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh royal"
+    }
+  },
+  "id": "Q145100",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gwladys ferch Dafydd"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gwladys ferch Dafydd ap Gruffudd"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gwladys ferch Dafydd"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gwladys ferch Dafydd"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gwladys ferch Dafydd"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gwladys ferch Dafydd"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gwladys ferch Dafydd"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gwladys ferch Dafydd"
+    }
+  },
+  "lastrevid": 17567820,
+  "modified": "2025-09-17T14:19:35Z",
+  "ns": 860,
+  "pageid": 173485,
+  "sitelinks": {},
+  "title": "Item:Q145100",
+  "type": "item"
+}

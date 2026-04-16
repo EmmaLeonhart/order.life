@@ -1,0 +1,407 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Aelius Lamia"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q144088$2A208C78-AB9A-4854-BFF6-3D41BED280EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77269",
+              "numeric-id": 77269
+            }
+          },
+          "hash": "1d8ff0b9799500956d681625038aafee87c519b5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144088$717DE631-8A6B-480E-8A76-3B6A67479F02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144088$A5483151-AEA6-42A5-8270-3EB17E6D501A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144088$E7E9DE05-ABE2-4D2B-B427-F771D3F574C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141426",
+              "numeric-id": 141426
+            }
+          },
+          "hash": "ba8eb31204fad8476d20d1e2b997346a03344b0c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144088$4223BA36-8E06-4734-815E-09D2DCFB0271",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148085",
+              "numeric-id": 148085
+            }
+          },
+          "hash": "c5654d361ce7471a28be97dfe750067ddfbfea3f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144088$4148D2E4-8C37-4A06-8024-616D7172E51C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144088$A7D5EF5D-0B77-44B1-9992-CF643EADCDD7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144088$1235883C-8693-46BC-ABA1-478C7F61F050",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0033-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "49bcb25efb27433ce211d7d641592f5da58b392b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144088$85F23E4F-A1D9-4886-B651-EE157813E870",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q666605"
+          },
+          "hash": "758c571288518361b2fb47ec6a3a1cbcf947f372",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q144088$6AB276B1-293A-471A-97A1-847245A764CD",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Aelius Lamia"
+          },
+          "hash": "30fc71e5ec00c7cc2cfa55f0f08ff84e516076e0",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144088$3DE80ADA-35CE-43E5-B81F-592ADB6F7C48",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Aelius Lamia Arms.svg"
+          },
+          "hash": "b9874beba1092314b146aceee11bb0045f510412",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος συγκλητικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Senator who held a number of offices under Augustus and Tiberius"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 3"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (100v Chr-33)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "консул 3 года"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "konsul år 3"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "консул Римської імперії"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗马帝国执政官"
+    }
+  },
+  "id": "Q144088",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Елий Ламия"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Eli Làmia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Aelius Lamia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Αίλιος Λάμια"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Aelius Lamia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Elio Lamia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Aelius Lamia"
+    },
+    "he": {
+      "language": "he",
+      "value": "לוקיוס איליוס למיה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucius Aelius Lamia"
+    },
+    "id": {
+      "language": "id",
+      "value": "Lucius Aelius Lamia (konsul 3)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Elio Lamia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Aelius Lamia"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Lucius Aelius Lamia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Aelius Lamia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lucjusz Eliusz Lamia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Élio Lamia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Élio Lamia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Элий Ламия"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lucije Elije Lamija"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Aelius Lamia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lucius Aelius Lamia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Елій Ламія"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卢修斯·艾利乌斯·拉米亚"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "卢修斯·艾利乌斯·拉米亚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "盧修斯·艾利烏斯·拉米亞"
+    }
+  },
+  "lastrevid": 17565980,
+  "modified": "2025-09-17T13:52:43Z",
+  "ns": 860,
+  "pageid": 172473,
+  "sitelinks": {},
+  "title": "Item:Q144088",
+  "type": "item"
+}

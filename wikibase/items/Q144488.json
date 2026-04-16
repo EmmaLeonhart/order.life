@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Geoffrey FitzRobert"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q144488$D2CD3038-8755-4577-9B16-CBCF79D0CFAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Fitz_Robert-25"
+          },
+          "hash": "3c935dddc8f5009bfa1136fc15db80898651d0b8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144488$5ADE26B3-C38A-431D-9A45-3BE2EA7C986E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144488$1FF4C58F-4464-4AD3-B18C-D3B7B0929D74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144488$C86FDEF9-6799-44EE-9194-60EBABBCC911",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141831",
+              "numeric-id": 141831
+            }
+          },
+          "hash": "750b044afc80b5e84f515bd28bc0dbb57e5c370f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q144488$A746BA9E-6D41-4B6B-B6FD-044C8D1EEBCB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p35429.htm#i354284"
+          },
+          "hash": "6ef5355d82419104bcde08b9aae969ad2226d054",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144488$5F39F491-C468-4AEC-9DB9-4EF84ECCDE8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144488$D1A518C9-23AF-4992-B812-FD22EF64D2E1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1154-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a4a41c9be8c03d4767759a543f1dc61acaaaccc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144488$311BEA3E-F2AC-45D7-A3E9-B23A489F2249",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1211-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d37decea78a9b9a8620c02263fceb1bad8e4ce4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144488$471CA42D-F621-40A7-895C-8C5677523AAF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75849954"
+          },
+          "hash": "19952b699034d8770e8c770027b1be02d2bd5b49",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144488$AB2E23E9-A40E-465F-929E-CB84A763A27E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Geoffrey FitzRobert Arms.svg"
+          },
+          "hash": "9e869da761386a7e89ae9968d2605fb132b53225",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=354284"
+    }
+  },
+  "id": "Q144488",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Geoffrey FitzRobert"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Geoffrey FitzRobert"
+    }
+  },
+  "lastrevid": 17566612,
+  "modified": "2025-09-17T14:01:50Z",
+  "ns": 860,
+  "pageid": 172873,
+  "sitelinks": {},
+  "title": "Item:Q144488",
+  "type": "item"
+}

@@ -1,0 +1,535 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Roger Mortimer of Wigmore"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q142256$173D1B52-2F2E-4143-A8B4-0072CB66AF0C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "124848"
+          },
+          "hash": "69f39768c8867650b5cba315bb111c7e3b4a0c1d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q142256$5C95736B-6516-4EF8-922F-E0A6E942AA80",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00175554"
+          },
+          "hash": "c7817a3f3276c93a1661d7fdbc21cfa2d2f9633b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142256$8A968E1F-CBE2-4B8C-B679-B47F203F3CDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145106",
+              "numeric-id": 145106
+            }
+          },
+          "hash": "cfcd2bf39eef172a23e5e5dcf67db75e0a873111",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142256$16C2B130-F174-429D-93F2-F820447116FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142310",
+              "numeric-id": 142310
+            }
+          },
+          "hash": "cb788a9a4f7e68bfeb89cdea4119900446a01702",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142256$7E018BF4-E61C-404B-B5C7-BF7C26A9C966",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140173",
+              "numeric-id": 140173
+            }
+          },
+          "hash": "d7ac56e7928249282a477bbef7fdb93313d65a76",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142256$CAF3FAB6-B7D6-4F7E-8A8B-C9A2BDFB52BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145109",
+              "numeric-id": 145109
+            }
+          },
+          "hash": "f334b85ae2e27d86e09015962a8b832274465925",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142256$DE50F077-A914-4EB2-9403-BE22C73A10E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145110",
+              "numeric-id": 145110
+            }
+          },
+          "hash": "c5941778fbbd6be114cd70202ab2e288e131a7b5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142256$53CBF53C-283E-41E6-A94F-7398A3A81A7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145111",
+              "numeric-id": 145111
+            }
+          },
+          "hash": "ce1ee2b819428b9dc9ae7be6a1515d4545395389",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142256$1F0C9B89-2E3B-44D9-AC77-A3380D0DEC97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145112",
+              "numeric-id": 145112
+            }
+          },
+          "hash": "a5bfd6672f69925bf5e829ce466a787602952ad2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142256$9915159E-32CA-4B8A-9DDE-6B11F710DED9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145107",
+              "numeric-id": 145107
+            }
+          },
+          "hash": "9c02d15cf6bb1c380de5797a5c0e5c35c868c21a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142256$D3B235A8-C241-4028-B870-BCF7635ADB94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145108",
+              "numeric-id": 145108
+            }
+          },
+          "hash": "8196e3d4f66aaf0e56df8fa7c3e108b93ba9b47b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q142256$9DA5A591-6599-4FCE-91F5-ACD2E3675824",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mortimer-86"
+          },
+          "hash": "6fa4cb5fdbfc40426249e1ac68ef7ddbe53050d3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142256$1DA15CA5-C70A-42CA-AF1D-AA6F5239C7A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142256$4ED81237-BF24-4F99-802F-A5031817B3BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q142256$E4E96705-0908-4BC1-B74E-9131994A19C3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Roger_Mortimer_of_Wigmore_(1)"
+          },
+          "hash": "edb787da6d2fb13ab00b70904d682d165f3b502d",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q142256$6D2BCCCE-9337-4878-BD91-DFE266763D40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142257",
+              "numeric-id": 142257
+            }
+          },
+          "hash": "c6649d5b9cef469decf217154bfae7946f6fc3da",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142256$A0D634F5-2482-48D6-9D99-38AB1F0D21E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144995",
+              "numeric-id": 144995
+            }
+          },
+          "hash": "5924487c0eddfb499f96d8384e45bb2186b038a9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q142256$4BE3F47C-80DD-4B82-90E7-9BFBC5914DB0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p21221.htm#i212201"
+          },
+          "hash": "a98970ea195760eff399aa958fb8f74b05601adc",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142256$F2C37599-8086-424F-A51E-77471FC2489C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140973",
+              "numeric-id": 140973
+            }
+          },
+          "hash": "c2760c189d383c387844f2b71acfba7bb5ad1d04",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142256$936471D0-257D-47A0-BD68-02D383287E42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129181",
+              "numeric-id": 129181
+            }
+          },
+          "hash": "03616d7a5c7af8451c7f143a9ebced9db0ad34b4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142256$B4CD9600-579E-4575-B2BC-AE9D49F13486",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q142256$07120381-65E8-43AA-921A-309D42838E6D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1214-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "195ed844d752838ea2a5e877d0dd40366fc24c3b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142256$C9FCC323-5F69-4832-B334-87B1676FA2C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7358690"
+          },
+          "hash": "e783ba14a1cedbb057b21c55154eabf3ef230b82",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142256$435561DD-EB65-4EC3-8527-BCAB9148AA3E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Roger Mortimer of Wigmore Arms.svg"
+          },
+          "hash": "e3babe66dff159213dddc1c40654ec4de4fb18fb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "person milwrol ( -1214)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anglo-Norman noble"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble anglo-normand"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "лорд Вигмор"
+    }
+  },
+  "id": "Q142256",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Roger Mortimer of Wigmore"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Roger Mortimer o Wigmore"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρότζερ Μόρτιμερ του Γουίγκμορ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roger Mortimer of Wigmore"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Roger Mortimer of Wigmore"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Roger Mortimer of Wigmore"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roger Mortimer de Wigmore"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Роджер де Мортимер"
+    }
+  },
+  "lastrevid": 17562740,
+  "modified": "2025-09-17T13:05:57Z",
+  "ns": 860,
+  "pageid": 170641,
+  "sitelinks": {},
+  "title": "Item:Q142256",
+  "type": "item"
+}

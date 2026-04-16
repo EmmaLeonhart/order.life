@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agnes de St.Clair"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144990$9703B0A0-BBF4-4B04-9CE5-F8CBC7E74EB3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00139659"
+          },
+          "hash": "0d7df24437d46d6a3fb022564c88f2a23a09dcbd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144990$04361B7D-1354-4277-90C7-CE00A5984F27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142205",
+              "numeric-id": 142205
+            }
+          },
+          "hash": "6c2663e88183ac5295634cc933ddd9171118e9f7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q144990$14DD6B3E-0142-444B-91AF-9923DBDCB54D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "St_Clair-315"
+          },
+          "hash": "ac53381bec77dea2ec8822eba5f222cddc8b427c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144990$CA3452C7-1A07-4CF4-A19B-E71D269E2964",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144990$846BB4EA-18CF-48CE-8899-B14320BA9DB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144990$C33CB5FB-ADF9-4ACA-8E6A-51571A8D31F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144989",
+              "numeric-id": 144989
+            }
+          },
+          "hash": "57cfc09f6f9955f6e57d844181e9e25072b6ce58",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144990$853F1F96-26FC-46EE-8627-E82D4A0B59DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149091",
+              "numeric-id": 149091
+            }
+          },
+          "hash": "bcfdeea261b00b58c8ad6afb500a5fc595fc4ce2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144990$C742CA9D-1ED4-4C3B-B7BE-6A8EA96BDA46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144990$4786D57E-4102-4E17-888A-12155F2B9A9D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1053-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc55363a3750750262a212b534075a5a6d5b22e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144990$720B9505-E4D8-4F28-92EC-F6CA254932BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110641567"
+          },
+          "hash": "591eadda31f2599c3bc1ab266afcfb3f03a6be9c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144990$608A8AFA-9F2E-433E-9071-739BABD90C63",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agnes de St.Clair Arms.svg"
+          },
+          "hash": "7b624c629d7e467e411cfcdbdd9f5fb78186e1a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1053 - uncertain"
+    }
+  },
+  "id": "Q144990",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Agnes de St.Clair"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агнес де Сен-Клер"
+    }
+  },
+  "lastrevid": 17567604,
+  "modified": "2025-09-17T14:16:33Z",
+  "ns": 860,
+  "pageid": 173375,
+  "sitelinks": {},
+  "title": "Item:Q144990",
+  "type": "item"
+}

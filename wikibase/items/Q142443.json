@@ -1,0 +1,592 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matilda of Chester, Countess of Huntingdon"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q142443$DD37BE1B-D214-46A4-A337-8F3944F6AA92",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "123216"
+          },
+          "hash": "59f6bf281672343c5fd7ec8b02b16d64f3e93246",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q142443$6488F175-F860-4FBC-A524-6B9E2888CFE1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00027682"
+          },
+          "hash": "ca6e79b82df93719ca18c83d487f88f7ccd83c0b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142443$DB27158F-3427-4D30-9DB1-6D52FEFC2F81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142050",
+              "numeric-id": 142050
+            }
+          },
+          "hash": "4b222a5efa72237107e1efa0185eb2d81e250f0b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142443$2EEE543A-3746-42C1-8B3D-E3F5B1A4ED3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144780",
+              "numeric-id": 144780
+            }
+          },
+          "hash": "52f6fd390b65096166b877c5101b2835aac4fe25",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142443$3FF6468B-95F7-491A-918F-4F47C2DDF760",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140251",
+              "numeric-id": 140251
+            }
+          },
+          "hash": "a95e6a6cf6c9a4d99661df73c8052fa00f943a80",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142443$0B0A7CAC-DD57-4659-87CC-A4AE9BAA6B3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144779",
+              "numeric-id": 144779
+            }
+          },
+          "hash": "5dda082290f980684b42ed17a71fa79ef0df70eb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142443$92ECA633-A02E-4C5E-AA2C-A9A78713261B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145478",
+              "numeric-id": 145478
+            }
+          },
+          "hash": "55f4cd1e77363655dcde7f82e832fdeae5a697fb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142443$EA861198-0F35-4550-B55B-8F1B752FB74C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145479",
+              "numeric-id": 145479
+            }
+          },
+          "hash": "d30164d038f476b2daef9c883fe93f2f6e3f79c0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142443$8109F644-69B3-4748-89DC-078845EC054E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145481",
+              "numeric-id": 145481
+            }
+          },
+          "hash": "d892ff89ddf0e41f01944211676c41403a068703",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142443$99A9BBE4-30C4-4DD5-AEBD-D97909723442",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145480",
+              "numeric-id": 145480
+            }
+          },
+          "hash": "fb4d8fa67f25376410fc3902d0a45dca30f5b4b6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q142443$1A86F0A5-88FC-45D1-B6DB-986E0988AFC2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Chester-395"
+          },
+          "hash": "2eac60816eb74b2db7dfc05a293343a35e6290ba",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142443$0E4EA335-4943-47D1-BDCF-056523617CD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142443$93CD2282-A06F-41FB-8FB2-6BF3E9DE0E4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q142443$2EC890FD-F832-4B12-8257-6947A7424695",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Matilda_Unknown_(297)"
+          },
+          "hash": "217bd619cd802134df34512522ccceb14af3b77a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q142443$4A2B3A93-CD4A-43F1-A904-188D1CC66976",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142442",
+              "numeric-id": 142442
+            }
+          },
+          "hash": "8b8179e1ec87af2484309e8ad18f7b3fc248275f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q142443$DCC56622-84F1-4EA7-9FD0-24B25E3840C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10248.htm#i102480"
+          },
+          "hash": "b63e9d5ac68a23feac56b7860438258fcdd7a1c4",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142443$A4001219-C5DD-41F5-B001-3B110912D39D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127810",
+              "numeric-id": 127810
+            }
+          },
+          "hash": "0ffd775679705f5ea859a07f1b13e7822e3d825f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142443$6B3B5DBA-E5A4-44F9-928A-AD96D700F6F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129081",
+              "numeric-id": 129081
+            }
+          },
+          "hash": "6555c4e0b0496637fdf518c97403c2b71325e8f1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q142443$EAE06C31-7BD7-4583-9C6D-12ECC1E67777",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "69827822"
+          },
+          "hash": "3998c62af1e57a4d7ac77315830ebc986ef0cdee",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142443$D6328041-01A7-4758-9782-9835AA48D9A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q142443$3A3564DD-0B38-4DB1-A42E-4EFCC3DFDA15",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1171-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3c3f52c3c572a3c31754fdc1a22e28dfd3b86778",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q142443$21DF1CCD-5A43-4AEF-B140-37FE629B2257",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1233-01-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d355fc606d096e2a39675b8d63f104ced4a272a5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142443$64F81D40-2B8F-4CB8-A081-DFE979EE04DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6787527"
+          },
+          "hash": "39502628cfdd71b8d8a8f7961e25d5d055f2098c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q142443$CECEF14C-3052-4AE4-ABD2-715012C087AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000424875913"
+          },
+          "hash": "67fd455e40a076ac3dc7538b6080f85bf325c5bd",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q142443$AB71386D-A9FB-4308-9562-795DB7AF3104",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=maud;n=le meschin;oc=4"
+          },
+          "hash": "13490773608e3e206e6b98e3d241356b9e4a998d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142443$3C2B4529-C012-46A1-A1BB-142DC8C04D21",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matilda of Chester, Countess of Huntingdon Arms.svg"
+          },
+          "hash": "6a4baaa99f47af12db4a90054f96953bad307eb1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "anglonormannische Adlige"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anglo-Norman noblewoman (1171–1233)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comtesse de Huntingdon"
+    },
+    "it": {
+      "language": "it",
+      "value": "contessa scozzese"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "графиня Хантингдон"
+    }
+  },
+  "id": "Q142443",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ماتيلدا من تشيستر كونتيسه هانتينجدون"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matilda von Chester, Countess of Huntingdon"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ματίλντα του Τσέστερ, Κόμισσα του Χάντινγκτον"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matilda of Chester, Countess of Huntingdon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matilda de Chester, condesa de Huntingdon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mathilde de Chester"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Matilda of Chester, Countess of Huntingdon"
+    },
+    "it": {
+      "language": "it",
+      "value": "Matilda di Chester"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "モード・オブ・チェスター"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Matilda av Chester"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Матильда Честерская"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Matilda of Chester"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "切斯特的瑪蒂爾達"
+    }
+  },
+  "lastrevid": 17563102,
+  "modified": "2025-09-17T13:11:11Z",
+  "ns": 860,
+  "pageid": 170828,
+  "sitelinks": {},
+  "title": "Item:Q142443",
+  "type": "item"
+}

@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Winnoc"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144598$AA6C1495-29C2-4A3D-AF6B-8529214ED2E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1371340"
+          },
+          "hash": "d59efcb471a7eda86a66c34ef2e82bd8469453c5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144598$8F4C6443-CFF9-4C3F-9FB2-1201E384A221",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144598$3704C447-642D-466E-90C2-EAFB723FBBAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144598$864046E3-2DFF-43EA-A812-F560C289C50D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141906",
+              "numeric-id": 141906
+            }
+          },
+          "hash": "d41810775151b633a503e528a7c0bb14a098f92d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144598$58B199EE-6754-4A4F-9AE6-D43EFDC12C12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144598$F9AC9C63-0CC6-4710-9E13-2EB0B9AA3B21",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0640-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6f0572c9c9c0fe66a45cc2ac1ab0cfd0578d784e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144598$D04CECE5-3408-47C6-A6DD-3CE1A7DCD2F3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0716-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c94510cf6a22034e09ec114bb273244c0f52b250",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144598$B4945DD7-4443-42BB-B183-55869E70AE18",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2353144"
+          },
+          "hash": "649d2a0462b1d5cc7461f8632446ef95b1e50769",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144598$A20AC9DF-6FF8-474D-BD27-58C4C95C83A6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Winnoc Arms.svg"
+          },
+          "hash": "bc2bb9164b4338a184049dcfcd2cbfd248bbf29d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Klostergründer und Abt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Breton saint"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "saint chrétien du VIIe siècle"
+    },
+    "la": {
+      "language": "la",
+      "value": "abbas Wormholtensis"
+    }
+  },
+  "id": "Q144598",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Winog"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Winoc de Bergues"
+    },
+    "de": {
+      "language": "de",
+      "value": "Winoc"
+    },
+    "en": {
+      "language": "en",
+      "value": "Winnoc"
+    },
+    "es": {
+      "language": "es",
+      "value": "Winnoc"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Winoc de Bergues"
+    },
+    "it": {
+      "language": "it",
+      "value": "Winnoc"
+    },
+    "la": {
+      "language": "la",
+      "value": "Winnocus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Winok"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Winoc de Bergues"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Winoc de Bergues"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Винок из Берга"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Winoko"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Winok"
+    }
+  },
+  "lastrevid": 17566830,
+  "modified": "2025-09-17T14:04:52Z",
+  "ns": 860,
+  "pageid": 172983,
+  "sitelinks": {},
+  "title": "Item:Q144598",
+  "type": "item"
+}

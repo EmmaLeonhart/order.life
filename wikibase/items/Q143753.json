@@ -1,0 +1,280 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Domnall Ban MacWilliam"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143753$6DEF1C14-0281-4951-A608-4A704F43B283",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00076185"
+          },
+          "hash": "e842c1b5c57f33b67ca9fbf2616219ed975eb582",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143753$1D567320-78B7-4592-BD4C-DC4A8F7FF7D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "MacWilliam-11"
+          },
+          "hash": "349688de2527307a75de3fa46b816e430b499336",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143753$8CD60D9B-8D2A-422F-BD8F-74B02A674E4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143753$80119A00-B730-4ED4-9BD3-FF6A2E2A4981",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q143753$3CE9C5B8-8646-47C9-92C6-4C7183D7B429",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10773.htm#i107723"
+          },
+          "hash": "6d5efa3d59de5531cfc32b946c2da3294fb32a11",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143753$153199A2-6BEC-4358-A18F-5655EFDDD0AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141141",
+              "numeric-id": 141141
+            }
+          },
+          "hash": "5a8d4a315b750a62d1d500f3e9ddbe9feaad6231",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143753$617384D5-B946-47BC-B7CC-CB1649510D27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143753$818BE7B4-F84B-4098-BF52-C5CD5EE7FF6F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143753$5E067ADD-1229-47E4-B9FE-7530726871AE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1215-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8ae9184ed664428ff7596149185a82e76aaba750",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143753$273B8CC9-D48A-47EF-B737-8EE5D0F9308A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3035603"
+          },
+          "hash": "fd34b8054d7df9141f422e8a4211dc40ae5ec382",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143753$C56E7FE0-AACD-4778-99A3-0F61A38082A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=donald;n=macwilliam;oc=1"
+          },
+          "hash": "5e62e96129c62c0a8bb97ab1c99463c1fce83e49",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143753$EFCE9984-ABD7-40EC-B073-79BB1D2A0AD0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Domnall Ban MacWilliam Arms.svg"
+          },
+          "hash": "2fce64aa0af4dd1bd3a3486ba6de8d7552967a0f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=107723"
+    }
+  },
+  "id": "Q143753",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Domnall Ban MacWilliam"
+    },
+    "en": {
+      "language": "en",
+      "value": "Domnall Ban MacWilliam"
+    },
+    "es": {
+      "language": "es",
+      "value": "Domnall Ban MacWilliam"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Domnall Ban MacWilliam"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Domnall Ban MacWilliam"
+    }
+  },
+  "lastrevid": 17565402,
+  "modified": "2025-09-17T13:44:33Z",
+  "ns": 860,
+  "pageid": 172138,
+  "sitelinks": {},
+  "title": "Item:Q143753",
+  "type": "item"
+}

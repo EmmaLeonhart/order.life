@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thomas de Neville"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q145145$E28E555C-A6C0-434B-9A55-527CCD886367",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Neville-605"
+          },
+          "hash": "d1de152f3e4fc0e6a5a47543a4667fe7fd7e46a0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145145$1A4FD49A-0AAA-4352-8143-35EAEFB3A1D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145145$B475BF67-A69F-4F03-90C8-9F9039E595D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q145145$FDBA4E58-8367-46E2-89FD-BCD882ABB396",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p37222.htm#i372217"
+          },
+          "hash": "415288915f8ce904971f331d9b93d187f134abb8",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145145$D668BDFC-07FC-4C45-AAE4-B48322CB0FA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145135",
+              "numeric-id": 145135
+            }
+          },
+          "hash": "b5fdb49c4eae53e5f551aad7ad5d46f4aab302ee",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145145$A441031C-86BC-4298-9DF1-DC2919E3C163",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142268",
+              "numeric-id": 142268
+            }
+          },
+          "hash": "b7537f33ad2f218a04cddd4f21bf90d0064c7417",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145145$9859943D-6D4B-4BDE-9F7B-B91DDE49B59F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145145$8F3441B8-B349-431F-9F1D-EEFE6F4A1E6F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1332-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cef2a529a626ff716eb819616ecb798d2d38a6a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145145$7E567626-42AC-4D34-A84E-BAB0B5EBBC6F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1361-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "900d197cae2b1714cdc4aa900f974c1dff4dcd5c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145145$D704E707-1209-4A38-B2D8-11FA2D071B75",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75874513"
+          },
+          "hash": "4a043e839984e6ee1af12b8f268acaf9e8e61781",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145145$D4F31456-AF03-465D-900C-0BEAF721E5B4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thomas de Neville Arms.svg"
+          },
+          "hash": "c3c89aab9c861f6dfd6609bf8c0578d180d00fd4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1332-1361)"
+    }
+  },
+  "id": "Q145145",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Thomas de Neville"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thomas de Neville"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Томас де Невилл"
+    }
+  },
+  "lastrevid": 17567910,
+  "modified": "2025-09-17T14:20:53Z",
+  "ns": 860,
+  "pageid": 173530,
+  "sitelinks": {},
+  "title": "Item:Q145145",
+  "type": "item"
+}

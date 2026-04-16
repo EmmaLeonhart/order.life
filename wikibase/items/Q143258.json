@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry, Count of Walbeck"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q143258$45D45253-7BAD-466D-BB5B-3097CC742C68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143258$B44E232A-5148-4C64-A438-945749CB2774",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143258$3F6466F8-9B38-4D4D-B5DD-F99FF3E20E7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126616",
+              "numeric-id": 126616
+            }
+          },
+          "hash": "14efd341527b958c194cb79d032e8cbc7e3f38e7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143258$6293C654-66DB-4F40-9003-940EBF7808E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125374",
+              "numeric-id": 125374
+            }
+          },
+          "hash": "10a98fe9501d849eb0cac114c37ff22e62b3a269",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143258$1F5A723F-0299-44C3-95D2-082C70AC8981",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143258$37B9C82E-62D1-4EA5-B618-DEEE48FEE83A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0973-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "725faa0b2af482c914af3d81943afc90084dc922",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143258$E8B9912F-06D4-47DA-A0CF-7EB4139FA4A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24971221"
+          },
+          "hash": "37273c23c82a7881a44fef4f1080d6a4caaded8d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143258$4F134446-4D36-44A3-A1F4-DC444E4291B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=heinrich;n=von walbeck"
+          },
+          "hash": "e11fc45e000257de89c542b73dc9c298a2227ff3",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143258$8454B49E-8D6D-4DF7-8746-939C406F871E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry, Count of Walbeck Arms.svg"
+          },
+          "hash": "8340a1535fad9d152a639a16a6fefbd18cce61d4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q143258",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "هنرى كونت والبيك"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хайнрих фон Валбек"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Graf Siegfried von Walbeck"
+    },
+    "da": {
+      "language": "da",
+      "value": "Heinrich von Walbeck"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf Siegfried von Walbeck"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερρίκος του Βάλμπεκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry, Count of Walbeck"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Heinrich von Walbeck"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Heinrich von Wahlbeck"
+    },
+    "it": {
+      "language": "it",
+      "value": "Enrico di Walbeck"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik van Walbeck"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Henrique, Conde de Walbeck"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Henrique, Conde de Walbeck"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих фон Вальбек"
+    }
+  },
+  "lastrevid": 17564726,
+  "modified": "2025-09-17T13:35:00Z",
+  "ns": 860,
+  "pageid": 171643,
+  "sitelinks": {},
+  "title": "Item:Q143258",
+  "type": "item"
+}

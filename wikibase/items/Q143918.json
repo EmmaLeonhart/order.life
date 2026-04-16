@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Muiredach mac Domnaill Midi"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q143918$DAC21A1F-4E33-409E-9C7F-37869DDE2990",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mac_Domnaill-13"
+          },
+          "hash": "c58a12c46dd8496352ca70a6b94a0a9e9b757817",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143918$4F40E771-0E06-402E-BE87-9D29B15D362A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143918$8134C7D4-81E2-4DD4-B0CD-D8FC0B8E953F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143918$4BC43DBD-CC2A-43BA-8AF4-E9753CF35548",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Muiredach_mac_Domnaill_Midi_(1)"
+          },
+          "hash": "81eb1308f7979f572b9be25b272e761f58828a30",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143918$F9931223-B465-4DAD-8C3A-42EC6A999F86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143917",
+              "numeric-id": 143917
+            }
+          },
+          "hash": "1f453bb1046064e25713e92709239b9ad69a3076",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143918$39778755-CA34-4CA1-B0EB-3AF9A134CDE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143918$385A9DC4-190C-4015-B914-246AF50B7FAA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0802-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dd239a23892fd76945586dba899fa5fe3301b5ee",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143918$B67C3E5A-723B-4109-B4C6-952067CFC88E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2589416"
+          },
+          "hash": "8a362bcb0200855de0f2b93e80859706f707d041",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143918$98AA41A0-E9C2-4633-8617-98F11B0F30FC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Muiredach mac Domnaill Midi Arms.svg"
+          },
+          "hash": "c994029f8830ea260818e8fd88f08b7497f3aa61",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish king"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "rí Éireannach"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Миде"
+    }
+  },
+  "id": "Q143918",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Muiredach mac Domnaill Midi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Muiredach mac Domnaill Midi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Muiredach mac Domnaill Midi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Muiredach mac Domnaill Midi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Muiredach mac Domnaill Midi"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Muiredach mac Domnaill Midi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Muiredach mac Domnaill Midi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Муйредах мак Домнайлл Миди"
+    }
+  },
+  "lastrevid": 17565670,
+  "modified": "2025-09-17T13:48:19Z",
+  "ns": 860,
+  "pageid": 172303,
+  "sitelinks": {},
+  "title": "Item:Q143918",
+  "type": "item"
+}

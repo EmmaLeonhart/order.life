@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir John Norris, of Pen-llin Castle"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145888$7AA8A03E-654D-425E-A356-04415484E601",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00706635"
+          },
+          "hash": "13520ee2b12d68432921efffcb53040436fa53fe",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145888$04DF7E81-9CE0-47D1-BE54-33DDBC04050B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150444",
+              "numeric-id": 150444
+            }
+          },
+          "hash": "89bf8d50af11c1539d6ff977b0a4299819d5ad99",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145888$8E988A3D-E747-41A7-8459-53693272BA51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142831",
+              "numeric-id": 142831
+            }
+          },
+          "hash": "46d89252a077e0008b2fe39da134b44dbf1f52c8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145888$1F738E52-39F0-4952-B15F-3674EE1041D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142752",
+              "numeric-id": 142752
+            }
+          },
+          "hash": "4808f37dc6cd222908c7d4b7aa2a5798e413e3df",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q145888$4FB8DE76-FA17-4D56-B044-32CD7EE64796",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Norris-25"
+          },
+          "hash": "1b9ecb0fee02792f1e25dc660c740b4ed5b637c6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145888$2DF63909-66D6-461A-B75C-BD1B823CC735",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145888$3782B388-44DC-4655-A0CC-68133AD286C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145888$14E4BB8D-F586-4C5D-AA42-31A8060DDDC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145888$BC5D96F0-C3EA-4BFB-9B61-7A322CF7BAE5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1295-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a8d5d8adc44fe2bfb656d9d8909339ffe81d5dbb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145888$D6BB1E76-27A0-4D7E-B731-92CE615E20B2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1360-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "032c4d952eadfe439e102e9c9054b3c0c8c9a490",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145888$652A547E-2C15-4130-A3A0-B6D35ADC745A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99083980"
+          },
+          "hash": "c94b6025baaf216872ce5e3c598a89df1aa5ab64",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145888$038DCB4A-D2C9-4F56-AB49-0F5E20293F82",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir John Norris, of Pen-llin Castle Arms.svg"
+          },
+          "hash": "8df1a1abc18d98e7a03b011ca6560192485c1a06",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- Aft 1349"
+    }
+  },
+  "id": "Q145888",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir John Norris, of Pen-llin Castle"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir John Norris, of Pen-llin Castle"
+    }
+  },
+  "lastrevid": 17569386,
+  "modified": "2025-09-17T14:42:00Z",
+  "ns": 860,
+  "pageid": 174273,
+  "sitelinks": {},
+  "title": "Item:Q145888",
+  "type": "item"
+}

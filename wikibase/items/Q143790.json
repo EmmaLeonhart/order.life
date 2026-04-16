@@ -1,0 +1,291 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marie de Breuillet"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143790$1A8B462E-1B61-4191-BF6E-B69C279C0424",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00386339"
+          },
+          "hash": "b15ead0960bd8b08e6967843c120b11b6d593ee9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143790$657647ED-3BD3-49B1-B4AC-0D52ACF33B73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124958",
+              "numeric-id": 124958
+            }
+          },
+          "hash": "c50b34a97a1a0ca5e71332c74b1c15562529509d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143790$F74EEB16-BBCD-4607-87E2-C22BF17850BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143790$DDB1E27B-04B1-456D-9A71-6BD28796ACA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143790$C41B9C0C-B69B-427E-9850-C91295137C28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119624",
+              "numeric-id": 119624
+            }
+          },
+          "hash": "0e7d970a0a267407716c0da6a40113d2424a0e62",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143790$6349ED08-A44B-44FE-A318-97EFE4023C76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143790$1102689F-0620-446E-BF94-6DFEFEA7A3A2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1080-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a954f8337ff1f1c2cc1debff495005b13d8e64a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143790$BBFFBAB8-853B-4D9C-A0E5-7DD50FBCDCE4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1119-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71bbfcb1091e87bce07c7dbf1bc55c9dc6cd0af1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143790$FFC79674-2934-4D00-BD25-8C260BEFDAF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q44280315"
+          },
+          "hash": "8abd3f68a7909124729ca8a122c64136e3339fb5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143790$24EB4E36-8327-4E67-B06A-3D30B9C42509",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=marie;n=de breuillet"
+          },
+          "hash": "76ba886a8ea58f6708c29e527826762e3f1b6627",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143790$A7B3A5A1-598D-4422-A394-E4984AEC1342",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marie de Breuillet Arms.svg"
+          },
+          "hash": "13e0d12dfd948e2edc6b971438b959a2fc5dba39",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "French royal mistress (1080–1119)"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble francesa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "maîtresse de Louis VI"
+    }
+  },
+  "id": "Q143790",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Marie de Breuillet"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marie de Breuillet"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marie de Breuillet"
+    },
+    "es": {
+      "language": "es",
+      "value": "María de Breuillet"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marie de Breuillet"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マリー・ド・ブルイエ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Marie de Breuillet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marie de Breuillet"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marie de Breuillet"
+    }
+  },
+  "lastrevid": 17565446,
+  "modified": "2025-09-17T13:45:10Z",
+  "ns": 860,
+  "pageid": 172175,
+  "sitelinks": {},
+  "title": "Item:Q143790",
+  "type": "item"
+}

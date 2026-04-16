@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Caradog ap Henry"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146283$BAD8A371-C8E5-402D-B4C2-7D3706A00986",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00708977"
+          },
+          "hash": "d5fe57dcbdd477eff90de52fa56e10669c8e3117",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146283$13CB403A-50A0-44B1-B7C8-C1AF61FAA304",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143051",
+              "numeric-id": 143051
+            }
+          },
+          "hash": "39252b47c55c21a23365ef4973d96d80d7838213",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146283$72E76620-FC04-4EAE-917A-991482FC2CC2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Henry-3"
+          },
+          "hash": "3e77eea6fcae27d24ef29b941b5027d41ea3ded6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146283$F410F483-3337-4DD5-A123-8F6635D2FBE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146283$22D61312-E32A-4F59-B84A-D1F0576AD4D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146283$076FFE4D-6E62-4E42-96FC-3DB0AB49D266",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150972",
+              "numeric-id": 150972
+            }
+          },
+          "hash": "43dc0d9c5365f215221cad4e0015fd944e460338",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146283$EBB6F187-0B67-478F-8084-16E0F7720E12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146283$2E5B3F8A-E1BD-4A2F-B5AC-F0F92889B753",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130342850"
+          },
+          "hash": "da897a80f421cf369b01af61a6c17eae01dee4bb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146283$B6447036-005D-4E33-AD54-DF47B4EA4307",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Caradog ap Henry Arms.svg"
+          },
+          "hash": "4298222a67b0439f8b4e123b1686392e60c0d1f5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "est. 1300 - est."
+    }
+  },
+  "id": "Q146283",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Caradog ap Henry"
+    }
+  },
+  "lastrevid": 17570176,
+  "modified": "2025-09-17T14:53:03Z",
+  "ns": 860,
+  "pageid": 174668,
+  "sitelinks": {},
+  "title": "Item:Q146283",
+  "type": "item"
+}

@@ -1,0 +1,267 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Morfudd ferch Iorwerth ap Gruffudd ab Iorwerth"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143119$AA2924CE-B4C5-4645-B0D0-5A6F1BB8F2DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00706038"
+          },
+          "hash": "d585152b30d2b9dce03909af46a523050444dc96",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143119$CC4EA30D-31A7-46F0-A7B0-626ACFBC1671",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145380",
+              "numeric-id": 145380
+            }
+          },
+          "hash": "65413b4d0c6f408b2f4089bd6b8d3ac749181094",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143119$F4808C9F-97DA-4102-903F-0C599F662814",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145381",
+              "numeric-id": 145381
+            }
+          },
+          "hash": "0f465b8109155d6f5088684b18ee74589f247919",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143119$42C371FC-E465-4C0A-AEBB-57EA99316537",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143119$A0C78773-89E8-47C4-86F2-07495B030F64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143119$66DF45A5-42B4-429B-9926-25E6587A199F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142386",
+              "numeric-id": 142386
+            }
+          },
+          "hash": "1294e6cb0cfa43b258e970ad483fb991d6485bbd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143119$45A52E10-0097-45B8-8E07-6B047211DC26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140734",
+              "numeric-id": 140734
+            }
+          },
+          "hash": "549aa2441080a37769c253afc48e9b76451253cd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143119$3CF406C4-D098-40DE-9840-1DACF1E1994B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146353",
+              "numeric-id": 146353
+            }
+          },
+          "hash": "df3c9a3f6f4ee0210800b4f5c9f3ec1e43efcad9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143119$38375C95-4836-40C3-BB4B-B3F42B366639",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143119$5D7F167C-0862-4468-A1C2-D13A84A08C02",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110290198"
+          },
+          "hash": "586a82420d746c165edc0d377e6b4016390ee83a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q143119$09A40728-CA98-4587-B9B9-D6B6A831697B",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Morfudd ferch Iorwerth ap Gruffudd ab Iorwerth"
+          },
+          "hash": "3527a1dbbbde0a117d8a6070494d0753883a6a7e",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143119$08BFAF6E-3207-42F6-A47F-9D1467D08AE8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Morfudd ferch Iorwerth ap Gruffudd ab Iorwerth Arms.svg"
+          },
+          "hash": "4ad9518e8faf318fc1ffba0d587ed2b6d9c70bf7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q143119",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Morfudd ferch Iorwerth ap Gruffudd ab Iorwerth"
+    },
+    "en": {
+      "language": "en",
+      "value": "Morfudd ferch Iorwerth ap Gruffudd ab Iorwerth"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Morfudd ferch Iorwerth ap Gruffudd ab Iorwerth"
+    }
+  },
+  "lastrevid": 17564450,
+  "modified": "2025-09-17T13:31:07Z",
+  "ns": 860,
+  "pageid": 171504,
+  "sitelinks": {},
+  "title": "Item:Q143119",
+  "type": "item"
+}

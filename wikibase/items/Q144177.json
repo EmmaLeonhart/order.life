@@ -1,0 +1,510 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Terentia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144177$985C9EE8-C82E-421B-B7F7-2FAC019CF8E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00800997"
+          },
+          "hash": "9628aed130aff7f6fe1ba619a2d78299d4777508",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144177$CDB10634-DC4E-4FE6-AF45-2D6368FB6F29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148093",
+              "numeric-id": 148093
+            }
+          },
+          "hash": "3a8a6ef28c0a22a82670a7baad11df4acaa801ea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144177$6B27EA62-598A-458B-840B-393DA0DC7512",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148140",
+              "numeric-id": 148140
+            }
+          },
+          "hash": "84e2b7d37c8c6eb080cd6da46d7701ede0b5b83b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144177$DE7B734B-2393-46B2-B122-D5395DEBC0CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144177$48254277-B79D-4EB3-802B-DF4426FE7CC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144177$9DD3FA5C-0EF9-401D-BE41-9CEFB3014B86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141527",
+              "numeric-id": 141527
+            }
+          },
+          "hash": "d9ad7e9202de9bce7b7280e7a1a3548d33dcceb8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144177$67F61564-0C26-4182-BED1-0F9BEFC38A27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148139",
+              "numeric-id": 148139
+            }
+          },
+          "hash": "f695dec39c6f02d22ae6ae6aa13af56242f04e1c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144177$A78D8F31-0B34-4C99-B6CE-A1F83BCA39C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144177$06D6B338-6DA0-457D-BC1A-C20CFDC9E149",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0098-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4cb06e198f3f881c4e95094b4ab0cba88a9d6952",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144177$680E1720-9EB8-49E2-A12C-16EF8E363ADC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0006-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "191e8d712af922dacf99c06d01ff8227b600248a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144177$D17E0F78-3DEE-4C52-813D-2255DB6EAAC9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q435936"
+          },
+          "hash": "d0f753bc2c59fd865474773b78d1145702ccfb64",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q144177$FC1F8484-ADDC-422C-B821-327DB4243839",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012716347577"
+          },
+          "hash": "8caaf78dec5974155f292715cb643de6b929a178",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q144177$C8F5CFBA-D344-4DF2-92FF-14CF54F01DD4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Terentia"
+          },
+          "hash": "68f6204789fea6d9fa7015596f2b4eae4f3d9c24",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144177$ED06862E-4BEB-4710-A683-6F1CC1BDBB1A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Terentia Arms.svg"
+          },
+          "hash": "188aaf56e2a66a2c962425c907b8752db5b5571f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "manželka Marka Tullia Cicera"
+    },
+    "de": {
+      "language": "de",
+      "value": "Frau Marcus Tullius Ciceros"
+    },
+    "en": {
+      "language": "en",
+      "value": "first wife of orator and politician Marcus Cicero"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposa de Cicerón"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "erromatar matrona"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ciceron vaimo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "romaine issue d'une riche famille plébéienne, épouse de Cicéron"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשתו הראשונה של קיקרו, רומאית ממשפחה פלבאית עשירה"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana, prima moglie di Cicerone"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politica uit Oude Rome (-097-0004)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "жена Марка Туллия Цицерона"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "prva žena politika in govornika Marka Tulija Cicerona"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fru till Cicero"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Рим аксөякбикәсе, Марк Туллий Цицеронның хатыны"
+    }
+  },
+  "id": "Q144177",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Тэрэнцыя"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Теренция"
+    },
+    "br": {
+      "language": "br",
+      "value": "Terentia"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Terencija"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Terència"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Terentia"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Terentia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Terentia Varrones"
+    },
+    "de": {
+      "language": "de",
+      "value": "Terentia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Terentia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Terencia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Terentzia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Terentia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Terentia"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Terentia"
+    },
+    "he": {
+      "language": "he",
+      "value": "טרנטיה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Տերենտիա"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Թերենթիա"
+    },
+    "it": {
+      "language": "it",
+      "value": "Terenzia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テレンティア"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ტერენცია"
+    },
+    "la": {
+      "language": "la",
+      "value": "Terentia"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Terentia"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Terentia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Terentia Varrones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Terentia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Terência"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Terência"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Теренция"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Terencija"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Terentia"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Terencija"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Теренција"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Terentia"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Terentia"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Теренция"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Теренція Варрона"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "特伦提亚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "特倫提亞"
+    }
+  },
+  "lastrevid": 17566120,
+  "modified": "2025-09-17T13:54:41Z",
+  "ns": 860,
+  "pageid": 172562,
+  "sitelinks": {},
+  "title": "Item:Q144177",
+  "type": "item"
+}

@@ -1,0 +1,574 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oleg of Kiev"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143764$1A2DE308-04C9-4919-AFD7-A484E36FF51E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "34652|658899"
+          },
+          "hash": "f6c283be08719b16fc5b6e256879e90ee3abfc5d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143764$38941C1E-2436-449D-9774-59EC60D53F4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127948",
+              "numeric-id": 127948
+            }
+          },
+          "hash": "d6dd51d218bbf4768f3385bf44d703b54ffb9b4f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143764$892B255A-C380-4B10-AC9B-AB94D2A619DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143764$A3233AF7-212F-4FDB-A4AF-9F7C6719B27E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143764$E4535A51-E2A7-47E4-B198-4F21ABC2F8AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143764$04A66265-D996-4997-B70A-662A7099F782",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0845-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a482aef9e23f3f39ad6636b14d17f2a84a33e220",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143764$A439FF8E-77D3-4852-B936-B07D3F05C41D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0912-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "608e877abf6d127120d2327c3b203e1e6b5ed5ba",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143764$D8E474C9-78C2-469B-AB22-31285B705F33",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6131983"
+          },
+          "hash": "9f5f81343b34c0613e9952a138642df0f9abbb6f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143764$2BD0B585-2F3C-4309-A64C-E8914955E624",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oleg of Kiev Arms.svg"
+          },
+          "hash": "d417525c9389bea9a9306f89e185948d901a7a0b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q143764$E08011A2-89E8-47FC-B40C-EB57B4B8E359",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/0325D06F-75DE-4117-8ECF-1FE8442E0D06"
+          },
+          "hash": "84d8e514b69afe064ecf93b015a6e2804c75a5c2",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "князь русаў, князь кіеўскі, родзіч Рурыка"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "княз на Новгород и Киев"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "kyjevský velkokníže"
+    },
+    "de": {
+      "language": "de",
+      "value": "Regent über das spätere Großfürstentum Kiew und Gründer des Kiewer Reiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of Rus de Kiev'"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kiovan ruhtinaskunnan perustaja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "régent du futur grand-duché de Kyiv et fondateur de l'empire de Kiev (?-912)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kijevi nagyfejedelem"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe Rus' e fondatore della Rus' di Kiev"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ძველი რუსი მთავარი, კიევისა და ნოვგოროსის გამაერთიანებელი 882 წელს"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Русь кінәзі"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "fyrste av Rus, grunnlegger av Kyivriket"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Legendarny książę Rusi"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Príncipe de Kiev"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Príncipe de Kiev"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь-воевода Новгородский и князь Киевский"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Кнез новгорода и ладоги"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Grundaren av Kievriket"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "руський князь Києва, князь-регент Новгорода"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗斯大公"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "扳手腕"
+    }
+  },
+  "id": "Q143764",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Oleg van Kiëf"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Halga Snotor"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أوليغ النبوي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اوليج النبوى"
+    },
+    "az": {
+      "language": "az",
+      "value": "Oleq Veşiy"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "الق نووقورود"
+    },
+    "be": {
+      "language": "be",
+      "value": "Алег"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Алег Вешчы"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Олег"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Oleg, veliki knez Kijeva"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Oleg de Kíev"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Oleg Kyjevský"
+    },
+    "cu": {
+      "language": "cu",
+      "value": "Ольгъ Вѣщии"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Oleg o Novgorod"
+    },
+    "da": {
+      "language": "da",
+      "value": "Oleg af Novgorod"
+    },
+    "de": {
+      "language": "de",
+      "value": "Oleg"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Oleg"
+    },
+    "el": {
+      "language": "el",
+      "value": "Όλεγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oleg of Kiev"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Oleg of Novgorod"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Oleg of Novgorod"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Olego la Saĝa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oleg de Nóvgorod"
+    },
+    "et": {
+      "language": "et",
+      "value": "Oleg"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Oleg Novgorodekoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "الگ نووگورود"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Oleg Viisas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Oleg le Sage"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Oleg de Kíiv"
+    },
+    "he": {
+      "language": "he",
+      "value": "אולג מנובגורוד, נסיך קייב"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Oleg, veliki knez Kijeva"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Oleg kijevi fejedelem"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Օլեգ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Oleg dari Novgorod"
+    },
+    "it": {
+      "language": "it",
+      "value": "Oleg di Kiev"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オレグ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ოლეგი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Көреген Олег"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "올레크 베시"
+    },
+    "la": {
+      "language": "la",
+      "value": "Helgus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Olegas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Oļegs"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Олег"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Oleg av Novgorod"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Oleg de Wijze"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Oleg lo Savi"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Oleg Mądry"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "الیگ ویشچی"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Oleg de Kiev"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Oleg de Kiev"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Oleg din Novgorod"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Олег Вещий"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Oleg od Novgoroda"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Oleg"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Oleg Novgorodski"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Олег од Новгорода"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Oleg av Kiev"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Oleg ng Novgorod"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Oleg"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Олег Күрәзә"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Олег Віщий"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "الیگ ویشچی"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Oleg Bashoratchi"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Oleg xứ Novgorod"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ოლეგი (კიევიშ რუსეთი)"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "奧列格"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奥列格"
+    }
+  },
+  "lastrevid": 17565424,
+  "modified": "2025-09-17T13:44:52Z",
+  "ns": 860,
+  "pageid": 172149,
+  "sitelinks": {},
+  "title": "Item:Q143764",
+  "type": "item"
+}

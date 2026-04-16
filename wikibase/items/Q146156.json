@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cecily ferch Jenkin ap Morgan Aubrey"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146156$9C0358E3-6B4F-4262-939C-035AD3717CF3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00698110"
+          },
+          "hash": "65bebfdd8bf77344804d270de922f3d97cda282e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146156$E20FBA1B-F155-4825-84BB-2EA0B673C8E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146059",
+              "numeric-id": 146059
+            }
+          },
+          "hash": "aa0a8f2167b4f8ebcc5b98bde7999cb538f6ce25",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146156$196429D5-2A6D-431D-B579-7D447F1C9B74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146058",
+              "numeric-id": 146058
+            }
+          },
+          "hash": "06d3643d8b26fa105ec5fd28a6b8ff0e4436b453",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146156$977101C7-A007-4454-9C22-6C37B863AA25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146156$9853725E-1615-4C73-9849-BB768CC343CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q146156$2CB074B7-419D-4A9D-BFAD-8E0F58BDBC79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142851",
+              "numeric-id": 142851
+            }
+          },
+          "hash": "3c29610e01f38621fcbf85c4fd42a0a01e467adb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146156$DB5EE882-419C-4B78-985D-A50F7FA2F75E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142951",
+              "numeric-id": 142951
+            }
+          },
+          "hash": "6eb6f0afcbf55a0730e56873fd4e485af76770ea",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146156$891149D9-F73F-4658-A327-98BBEE70D8EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145701",
+              "numeric-id": 145701
+            }
+          },
+          "hash": "f3fe57f9c9a51b688aa15c7c1d463ab75fa7cfb0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146156$B0DDF089-C47B-4237-85F4-E90BF33090B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146156$39DB5CBF-F14C-47C3-B4D5-95195006B681",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116812219"
+          },
+          "hash": "0453509a5b6fdae04ac1c2c268eed3e02537c956",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146156$817D19BE-53EA-4CC6-A62C-D335120F47F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cecily ferch Jenkin ap Morgan Aubrey Arms.svg"
+          },
+          "hash": "4a51d646b68478df9ff1661e8f66a0c9851d6931",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q146156",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Cecily ferch Jenkin ap Morgan Aubrey"
+    }
+  },
+  "lastrevid": 17569922,
+  "modified": "2025-09-17T14:49:31Z",
+  "ns": 860,
+  "pageid": 174541,
+  "sitelinks": {},
+  "title": "Item:Q146156",
+  "type": "item"
+}

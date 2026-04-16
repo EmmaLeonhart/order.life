@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwyn ap Rhydderch"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q142639$2C519E87-625A-4364-950F-A0D042452030",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736928"
+          },
+          "hash": "8c4d69a912f7a4c0245916665ed24c6f41b983c0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142639$7D4EE773-BE67-48AB-8603-B137108BEB7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140388",
+              "numeric-id": 140388
+            }
+          },
+          "hash": "48827feb9538f4a479d2ed6d59e1aee6a3793035",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q142639$9FBEADBB-E000-471C-8F88-9FF664D8D4A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Rhydderch-19"
+          },
+          "hash": "bb219698854611c32115c00a8aba877467676b73",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142639$009BE1F0-1A01-4805-8E7E-763F38CD8B6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142639$DE590664-E602-47C0-9482-950549118857",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142639$3CAACF43-6505-4AE3-9C31-06480EB50D02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145723",
+              "numeric-id": 145723
+            }
+          },
+          "hash": "f54949252bfd78f42d48ab20bd31113b4ddabcbe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142639$B24F19FA-63D1-4DAC-B0AD-0DEF3B5A1342",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q142639$671AA8F5-B3E9-41D1-ABD8-50D226D78399",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0965-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "87ec5f5550827cd41f305dc4557247f3a819eff5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q142639$6D8D3E0C-9B4D-41E4-9135-1024D3431A5B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1030-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5864090d5b3e6afb9dbea4ba665f1f5f57113b03",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142639$AE434D37-7A82-4B04-ADE2-0AA182E2FDC9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110622313"
+          },
+          "hash": "d01d6b07349a76dcdd7560f3472499c9b0aa1a0a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q142639$ADC624EA-F432-47EB-B4EB-B54924485DE1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002043193751"
+          },
+          "hash": "7663ef4bce5f94e557ec38a0875510d10fc81f96",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q142639$55AE5F99-B298-44A0-9BF1-DD778BDED857",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwyn ap Rhydderch"
+          },
+          "hash": "b7185934ef69e8d3871352e674a7562c67b47cfb",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142639$A3E36170-B61A-429E-8245-811A1C24543B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwyn ap Rhydderch Arms.svg"
+          },
+          "hash": "0f0b348571adc3b4b3dfafa9bbe769d77cecb403",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "970 - 1030"
+    }
+  },
+  "id": "Q142639",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gwyn ap Rhydderch"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gwyn ap Rhydderch"
+    }
+  },
+  "lastrevid": 17563494,
+  "modified": "2025-09-17T13:17:04Z",
+  "ns": 860,
+  "pageid": 171024,
+  "sitelinks": {},
+  "title": "Item:Q142639",
+  "type": "item"
+}

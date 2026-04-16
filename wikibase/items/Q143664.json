@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Siegfried von Osterburg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143664$784AD3F6-E788-4312-ADF5-608B1A0E2FB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00310976"
+          },
+          "hash": "e61ca16b869b30a0a83de3d75c620e0ff7c6082a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143664$8944DF23-BD2C-419F-8C72-355A6F050AC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143664$892066BD-3EAB-48A3-A655-F2AFF6B440F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143664$D074A750-E60C-48D4-BFD2-6E754CA9821D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141102",
+              "numeric-id": 141102
+            }
+          },
+          "hash": "8273fd32be325fb4137ef1d3aed887e209f251fc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143664$C32BDC92-200B-4ED6-A35A-581C74F09B57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143664$669C9E5A-47FC-4B71-865E-085F476A3FCB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143664$21D65F44-3DEB-402D-B3CC-D58166093DC2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1238-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "48d1b0f88cd7526e491ad2bffe1bdf0df9fe2a74",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143664$229664F6-E6AC-413A-BFDC-D140126C9393",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20758294"
+          },
+          "hash": "3511dd4564beb3f5d8ea17edd1a9c172e4c4462e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143664$6769D284-F613-4D87-9977-B16845F4DCF2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Siegfried von Osterburg Arms.svg"
+          },
+          "hash": "fb9fed854d3e7dd2497483091c7f0d9af6dc06c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Osterburg"
+    }
+  },
+  "id": "Q143664",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Siegfried von Osterburg"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Зигфрид II фон Остербург"
+    },
+    "de": {
+      "language": "de",
+      "value": "Siegfried von Osterburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Siegfried von Osterburg"
+    },
+    "es": {
+      "language": "es",
+      "value": "Siegfried von Osterburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Siegfried von Osterburg"
+    }
+  },
+  "lastrevid": 17565246,
+  "modified": "2025-09-17T13:42:19Z",
+  "ns": 860,
+  "pageid": 172049,
+  "sitelinks": {},
+  "title": "Item:Q143664",
+  "type": "item"
+}

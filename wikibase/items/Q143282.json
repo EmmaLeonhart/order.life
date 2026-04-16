@@ -1,0 +1,226 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Magnus Eriksson"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q143282$0C95F3B0-B636-4E9C-8E70-D4A086944671",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143282$95E24642-66BF-4919-B193-2CAE70BACB48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q143282$092257C7-EEFC-4596-8B22-CC992FFE6EC0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10546.htm#i105452"
+          },
+          "hash": "e0d358d5293e2b5f94405c468851c07b7404f868",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143282$BFA4710A-6A6D-458D-815C-BDAB890C7463",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127170",
+              "numeric-id": 127170
+            }
+          },
+          "hash": "bdc4c649bd6d4ad73379065f9e3dcd9244cba6c7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143282$16C00B9C-D3B0-437C-93C6-8CFADBD32E01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143282$69D4238D-97CC-4667-8964-F28801B7CD5E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0f06eb64a36ac7576bf4a559a229ea93027f7a2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143282$17C12375-9E4E-4B2E-AB69-9CCB3DA168F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75385252"
+          },
+          "hash": "faa0c5859235ccb75c4d2187fb48858477f78a62",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q143282$9634E4B9-2DF4-4B96-B7C3-B56DD501700C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.698"
+          },
+          "hash": "63f52ccbd7f632ebf2d677fa62347955e01fab80",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143282$EDA12043-E360-4FC8-931A-FFF542E7B8D3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Magnus Eriksson Arms.svg"
+          },
+          "hash": "63471ba7aad13a69f8e5eabcd9975f3e6d3be82a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=105452"
+    }
+  },
+  "id": "Q143282",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Магнус Эрыксан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Magnus Eriksen"
+    },
+    "da": {
+      "language": "da",
+      "value": "Magnus Eriksen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Magnus Eriksson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Magnus Eriksson"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Magnus Eriksson"
+    }
+  },
+  "lastrevid": 17564768,
+  "modified": "2025-09-17T13:35:36Z",
+  "ns": 860,
+  "pageid": 171667,
+  "sitelinks": {},
+  "title": "Item:Q143282",
+  "type": "item"
+}

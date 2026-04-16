@@ -1,0 +1,313 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sophie von Weimar-Orlamünde"
+      },
+      {
+        "language": "en",
+        "value": "Sophie von Weimar-Orlamunde"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146561$76893705-EEE1-4826-BA05-704DF875130D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00030497"
+          },
+          "hash": "e307432df1774df650846132e2633f6e9f40bc60",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146561$7762E7AD-D6B8-4DB0-8D71-39C9767AA4C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Orlamünde-17"
+          },
+          "hash": "720e06f1995390cbfce006e6570d25940dd895ba",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146561$BB5C3297-8C55-4531-B3B4-2B11ACA4986A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146561$15511CB3-0302-452C-8ACF-F0B1A893459E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q146561$005D162D-FA81-4EE5-AA0B-51FF6E96D943",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p67328.htm#i673275"
+          },
+          "hash": "1172a10ed1c2f5b4cede4152b1d9f86c89a8ea61",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146561$7688D9D7-6F03-4D5B-869F-C0161B6D311C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143660",
+              "numeric-id": 143660
+            }
+          },
+          "hash": "cad9b198e3250229f337259a864ee613904f79c5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146561$1D7A444C-2393-44F2-A375-E2A8E144D965",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128024",
+              "numeric-id": 128024
+            }
+          },
+          "hash": "eb274c9d832a785b2dd3145ace998ef24e83e0ad",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146561$25E7652B-4F95-4B1B-8CD7-1D0145242CFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146561$7371A451-3173-4966-8057-D74A0CFF101B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1189-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "833612ca4c3f3cb091b389f4c026deb7008c3984",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146561$5E6FD94A-A43B-45B4-BC39-DDB17870B8BA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1244-09-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1e0142b3aad819be2bc56595c70ce4296cfbbd43",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146561$A1004BE5-5A01-40BB-AC66-561820BFE71B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76300801"
+          },
+          "hash": "0586dbe3d82f144872ec19cc34bf0034197b21ce",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146561$2FB1ECF0-2D8F-400C-A841-5E03356CD243",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=sophie;n=von orlamunde;oc=2"
+          },
+          "hash": "52d93932f73cfa86498c4de6c763f0f2cde894ee",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146561$A69519B1-8C24-464B-9320-900A2CF0E951",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sophie von Weimar-Orlamünde Arms.svg"
+          },
+          "hash": "d91c4375fb91adfc08bedf648192a56789262cce",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=673275"
+    }
+  },
+  "id": "Q146561",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Žofie Výmarská"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sophie von Weimar-Orlamünde"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sophie von Weimar-Orlamünde"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sophie von Weimar-Orlamünde"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sophie von Weimar-Orlamünde"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sophie von Weimar-Orlamünde"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "София фон Веймар-Орламюнде"
+    }
+  },
+  "lastrevid": 17570720,
+  "modified": "2025-09-17T15:00:57Z",
+  "ns": 860,
+  "pageid": 174946,
+  "sitelinks": {},
+  "title": "Item:Q146561",
+  "type": "item"
+}

@@ -1,0 +1,444 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Inge Magnusson"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143864$9A0A69E7-CC49-4A96-9E6A-FD6B99586DD7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1435967"
+          },
+          "hash": "aa74b8452c27cfd9dff0713d2407a4bd78dad9f3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143864$9D79D570-54A9-409D-976A-B571795198CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Magnusson-199"
+          },
+          "hash": "c67bea1df1950e0c2576d30c1726dc30aaa6c789",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143864$7CE7347A-67A1-4657-83C1-82393B1BFE44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143864$8FC46BF3-4BAD-4BD9-99C0-36FC4E63887D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143864$52049390-947D-4C1A-8984-19B9E0A9E389",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Inge_Magnusson_(1)"
+          },
+          "hash": "7462a818199458e45f75201c287be5826c809245",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143864$21AD8B39-C348-4C4E-8409-779DABDFF2C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141202",
+              "numeric-id": 141202
+            }
+          },
+          "hash": "5ea90e142a307c69ecccc1ef9eabd8b6ce582634",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143864$833E913D-6DA8-4CB1-BDC3-B87F68BABBF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143864$0EF990C2-0C15-4C13-B69A-D50E7149CA84",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1185-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b4f172cedd5d97ffa52fbb0fabbdea962b1ff01b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143864$31C74620-49F7-47BF-86AC-220A0491DFBB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1202-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5b3cd78f2f88aef016c96d64f60794609d4d3b87",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143864$B32A7B5D-4502-40F6-B6C8-B1EEEB4C2A35",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q888200"
+          },
+          "hash": "f5f730babd005111860c1c0874894fad37683399",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143864$65FB4698-BB5A-483C-B6E9-3D630AC0EA7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "353466568960001728"
+          },
+          "hash": "c494a7e30816e926b5808e82490e8716af694bb0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143864$574304AB-4A8F-4C4D-A5BB-38ACF6FD8C75",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Inge Magnusson Arms.svg"
+          },
+          "hash": "bb71e3185cd66eb7aa7b0f9a94b3ddcfc2a6e510",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "políticu noruegu (ca. 1182–1202)"
+    },
+    "be": {
+      "language": "be",
+      "value": "прэтэндэнт на нарвежскі трон каля 1200 года"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític noruec"
+    },
+    "de": {
+      "language": "de",
+      "value": "norwegischer Gegenkönig der Bagler"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pretender to the Norwegian throne"
+    },
+    "es": {
+      "language": "es",
+      "value": "pretendiente al trono noruego"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari norvegiarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prétendant au trône de Norvège"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político noruegués"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile norvegese"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "norsk konge"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Noors politicus (ca. 1182–1202)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko noruega"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político norueguês"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "norsk politiker"
+    }
+  },
+  "id": "Q143864",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "إنجي ماجنوسون"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Inge Magnusson"
+    },
+    "be": {
+      "language": "be",
+      "value": "Інгэ Магнусан"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Инге Магнусон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Inge Magnusson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Inge Magnusson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Inge Magnusson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Inge Magnusson"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Inge Magnusson"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Inge Magnusson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Inge Magnusson"
+    },
+    "et": {
+      "language": "et",
+      "value": "Inge Magnusson"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Inge Magnusson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Inge Magnusson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Inge Magnusson"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Inge Magnusson"
+    },
+    "it": {
+      "language": "it",
+      "value": "Inge Magnusson"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "インゲ・マグヌソン"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Inge Magnusson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Inge Magnusson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Inge Magnusson"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Inge Magnusson"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Inge Magnusson"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Inge Magnusson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Инге Магнуссон"
+    },
+    "simple": {
+      "language": "simple",
+      "value": "Inge Magnusson"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Inge Magnusson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Inge Magnusson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Inge Magnusson"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Інге II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "英格·馬格努森"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "英格·馬格努森"
+    }
+  },
+  "lastrevid": 17565564,
+  "modified": "2025-09-17T13:46:51Z",
+  "ns": 860,
+  "pageid": 172249,
+  "sitelinks": {},
+  "title": "Item:Q143864",
+  "type": "item"
+}

@@ -1,0 +1,365 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Owain Goch ap Gruffydd"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q142251$338EF08D-6838-45F2-BB4D-2691240CF676",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Gruffudd-39"
+          },
+          "hash": "69b51510b2496f2e3a5e5fc3a2f3c8c0a5a71e98",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142251$7623BEA0-B5F5-48E4-9918-5BBAAA5920C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142251$C3C0A984-9ED3-4BF5-8EA9-208BE5852D6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q142251$E7A28365-D2B6-4D70-887D-B5913E899114",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Owain_Goch_ap_Gruffydd_(1)"
+          },
+          "hash": "5e5de8547f58d7d93787698e4ca5709003c10635",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q142251$3564FEC7-8457-4C7D-9254-24775F1E3670",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p16859.htm#i168589"
+          },
+          "hash": "0e6754ca2f09ac5cd36348b3899f2040f66dda6c",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142251$4692F34E-476D-47A2-BF56-7C0B80CB22D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140172",
+              "numeric-id": 140172
+            }
+          },
+          "hash": "b62e344ea657bb8a884b8cf331e2bd6c1e2f6562",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142251$77DC9CB2-55E6-4B5E-AE14-16403B1DF7B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142249",
+              "numeric-id": 142249
+            }
+          },
+          "hash": "c4c1714f18f4b3a76b70689ac2e675a06026c6d9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142251$E3D3C3AB-4FD0-4236-81EC-B76F2ADCBF20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q142251$D7C4F931-83CD-4276-92B9-712C4065DF23",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cd499ea07e9098e107be2add177004bf6d253a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q142251$BAECD719-79A4-4CAC-AA07-0D3E2B1C8C72",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1282-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da8cf2de3988e13a58eace87354874246734c93b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142251$CD880623-0A37-43E6-B4E0-38E891BA1490",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2739279"
+          },
+          "hash": "2c2f247252d1085a68728761134d3bec08fe5e94",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q142251$2793866F-E3FD-4287-9C9C-A3A9C5851979",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=owain;n=of gwynedd;oc=2"
+          },
+          "hash": "4947a5665871f2edf3f8efb61a9ccb6cd4f08482",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142251$1181E18D-5B8E-454D-9AED-AF3507E08BDF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Owain Goch ap Gruffydd Arms.svg"
+          },
+          "hash": "599af03c96cf238fa763949d53d5ad55dab85b98",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "Owain Goch, brawd Llywelyn II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fürst von Gwynedd in Nordwales"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh monarch"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Prétendant au royaume de Gwynedd"
+    },
+    "it": {
+      "language": "it",
+      "value": "monarca gallese medievale"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning"
+    }
+  },
+  "id": "Q142251",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Owain Goch"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Owain Goch ap Gruffydd"
+    },
+    "de": {
+      "language": "de",
+      "value": "Owain Goch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Owain Goch ap Gruffydd"
+    },
+    "es": {
+      "language": "es",
+      "value": "Owain Goch ap Gruffydd"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Owain le Rouge"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Owain Goch ap Gruffydd"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Owain Goch ap Gruffydd"
+    },
+    "it": {
+      "language": "it",
+      "value": "Owain Goch ap Gruffydd"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オーワイン・ゴッホ・アプ・グリフィズ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Owain Goch ap Gruffydd"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Оуайн Гох ап Грифид"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Owain Goch ap Gruffydd"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "欧文·戈赫·阿普·格鲁菲兹"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "欧文·戈赫·阿普·格鲁菲兹"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "歐文·戈赫·阿普·格魯菲茲"
+    }
+  },
+  "lastrevid": 17562730,
+  "modified": "2025-09-17T13:05:49Z",
+  "ns": 860,
+  "pageid": 170636,
+  "sitelinks": {},
+  "title": "Item:Q142251",
+  "type": "item"
+}

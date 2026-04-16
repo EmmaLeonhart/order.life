@@ -1,0 +1,321 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Claudius Marcellus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144039$89661F6B-3A4D-47CA-8C4D-CAC1D4981157",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735965"
+          },
+          "hash": "2690b19bee1f3e5dff59523959648fec229ebaa2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144039$6815E7B3-2723-4687-9630-3F783A6EF557",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148035",
+              "numeric-id": 148035
+            }
+          },
+          "hash": "4d2238f75ca9cddce1be7428069a7f81697dabda",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144039$5CC51C07-D5BB-4A5E-8070-4D49873DDD10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148036",
+              "numeric-id": 148036
+            }
+          },
+          "hash": "60d9b53418d6b9bfa720649d21d69f80cb330729",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144039$EDA79869-A067-4A6C-80F1-76FCDF52808F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144039$87D84C6A-0F25-4E13-87FF-3758D5768DAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144039$B831716A-B306-4249-A8D4-CE872008F3B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141380",
+              "numeric-id": 141380
+            }
+          },
+          "hash": "9b603b545d5366f3664f7b53b90980024de6da36",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144039$2D853592-6CE3-41CC-9D73-17B48EB89A23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144039$D293FDFA-ED1F-4AFE-B810-0D8BA80EEAD7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0128-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fd4810bfce448ee1299b59180c23a1a17ef0b79",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144039$0E9171B1-E3F8-407A-A805-6A12C2F95F37",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0074-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4637972e2c71f3c92d7ceb56ebb4ece2d1803433",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144039$0AC600B9-7921-41D0-A37C-49D2FDAC73F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4281785"
+          },
+          "hash": "7ec274c5c96b71072482052a202b15daabdca092",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144039$F5BCC2DF-83C2-4A0B-A50D-E05DB091E5C5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Claudius Marcellus Arms.svg"
+          },
+          "hash": "f6086e2b2bb2822527181199544a4c9c8038649b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "edil curul el 91 aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Ädil 91 v. Chr. (2)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman aedile 91 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "edil curul en el año 91 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "édile curule romain en 91 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "edile curule nel 91 a.C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q144039",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Claudi Marcel"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Κλαύδιος Μάρκελλος (αγορανόμος το 91 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Claudio Marcelo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Claudio Marcello"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Клавдий Марцелл XI"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Клавдій Марцелл"
+    }
+  },
+  "lastrevid": 17565896,
+  "modified": "2025-09-17T13:51:32Z",
+  "ns": 860,
+  "pageid": 172424,
+  "sitelinks": {},
+  "title": "Item:Q144039",
+  "type": "item"
+}

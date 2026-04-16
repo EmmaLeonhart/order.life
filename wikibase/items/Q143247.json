@@ -1,0 +1,312 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philip de Harcourt"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143247$10D90194-3274-4FB0-B8B2-804D8C3A0BA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00028876"
+          },
+          "hash": "7c2f492eb5cfd937ccd7c3ddee5b5ca85d4a9347",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143247$4A3AD601-D363-4171-AA21-B9EC10884FC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Harcourt-467"
+          },
+          "hash": "0f4aec8c5fa938d61625b338a193677c729941e1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143247$C5D2101A-0449-4A1C-A243-6B03754A5024",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143247$3E411806-3B7B-43B5-8AA5-46F5B6E1B390",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143247$0A769276-3459-4895-ADDF-4FBB89D4275A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Philipe_d'Harcourt_(1)"
+          },
+          "hash": "0e4819f8e198cac904bd3641f951197bbfea3f77",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143247$D6ED5BDD-520A-421E-9B61-1FA08206CB8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140830",
+              "numeric-id": 140830
+            }
+          },
+          "hash": "8787371dd397f124ab18e7c94d2dddbc39a393fe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143247$3291AB45-D9AB-4E10-96DD-C48D5B3D7F40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143247$95AB6D5E-49B2-4203-9669-530C8AA4A43F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc14efe6d96336a34324dc61d6c96d5d9c81e3e5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143247$134D3B87-E2FB-4702-9040-A2C98FA4E151",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1163-02-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0e6585f2191e4ed0bb8452c77239efe06a8af584",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143247$2D08E529-DF25-4670-8D9A-99319DDB62F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2086520"
+          },
+          "hash": "895f09f03c29be9352dcb3c028f86fa163dba83a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143247$4795DA58-0C7F-4578-89F2-57C1BEB23CC9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=philippe;n=d harcourt;oc=4"
+          },
+          "hash": "0ec7c43eb378acf86f16be498e44af9ca19c6aba",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143247$60BE0213-E434-4285-996A-DEDDA6BA2843",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip de Harcourt Arms.svg"
+          },
+          "hash": "a3701f7ea3446e98670c142f46bd81e43890e49a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "zvolený salisburský biskup, anglický lord kancléř, bayeuxský biskup"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lordkanzler und Siegelbewahrer von England, Dekan von Beaumont und Lincoln, sowie Bischof von Evreaux"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bishop of Salisbury elect; Lord Chancellor of England; Bishop of Bayeux"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque de Bayeux et un chancelier d'Angleterre"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "rechter"
+    }
+  },
+  "id": "Q143247",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Filip Harcourtský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philip de Harcourt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philip de Harcourt"
+    },
+    "es": {
+      "language": "es",
+      "value": "Philip de Harcourt"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philippe d'Harcourt"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Philip de Harcourt"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フィリップ・ド・ハーコート"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Philip de Harcourt"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Philip de Harcourt"
+    }
+  },
+  "lastrevid": 17564706,
+  "modified": "2025-09-17T13:34:42Z",
+  "ns": 860,
+  "pageid": 171632,
+  "sitelinks": {},
+  "title": "Item:Q143247",
+  "type": "item"
+}

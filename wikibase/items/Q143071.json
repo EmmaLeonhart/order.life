@@ -1,0 +1,223 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Joan ferch Gruffudd ap Cadwgan Fychan ab Ieuan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143071$4C371D71-DBC3-4C9B-B647-C5D21C9EA3B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00801919"
+          },
+          "hash": "193c062a7e963ed9744314f23f57b80d624727f3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143071$2912D72A-E1D2-43BC-8A1B-3F71F4D3E2E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142539",
+              "numeric-id": 142539
+            }
+          },
+          "hash": "c96a8b9ebdbff1e6b62336b99a8878dbf001aa4b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143071$2B4CE9AF-FD48-4B1D-96F3-1F056CD320E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143071$62843B3C-FBD4-4690-AEFD-23E5057A53C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143071$EC83C27B-43DF-4CA0-94AB-2A7BB2580307",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140309",
+              "numeric-id": 140309
+            }
+          },
+          "hash": "23e5a501e0036486b259976b8e532fe6dac59cf6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143071$3ED3A5EE-FF6C-44A9-A738-B38DBD08B1E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144978",
+              "numeric-id": 144978
+            }
+          },
+          "hash": "9c397dff62715ad6c01b8bc0e273c6a9b11f5b9e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143071$CEC919F4-4040-4CFC-A2CE-911A8B586E76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140690",
+              "numeric-id": 140690
+            }
+          },
+          "hash": "bdbd5cdcc62df2ec20389bc1f1fa41a1592e68a3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143071$74970C70-A451-42BD-8CFE-5FCA73594D92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143071$9E0E8A88-F8C9-48BA-A8C1-1E1DF48B82A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q128855545"
+          },
+          "hash": "e9b562249b794e20ea07be6b587b866c44b41597",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143071$3D0CEFAD-95FB-43E8-B644-A8E64BE32CD5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Joan ferch Gruffudd ap Cadwgan Fychan ab Ieuan Arms.svg"
+          },
+          "hash": "e6007a2ea8a2b740ed42a58ae851fea7b71f568a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q143071",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Joan ferch Gruffudd ap Cadwgan Fychan ab Ieuan"
+    }
+  },
+  "lastrevid": 17564354,
+  "modified": "2025-09-17T13:29:47Z",
+  "ns": 860,
+  "pageid": 171456,
+  "sitelinks": {},
+  "title": "Item:Q143071",
+  "type": "item"
+}

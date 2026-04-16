@@ -1,0 +1,379 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eyvindr skáldaspillir"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143718$B36E33CF-7A81-4EE4-ABF5-CDDBA9F1C01B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00500649"
+          },
+          "hash": "ba3b50b8283de058ed8f7e347b4e411b54e2e0ff",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143718$710DCDA4-823A-4FED-8C69-95C4372927F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141128",
+              "numeric-id": 141128
+            }
+          },
+          "hash": "f1105f293cafcb87ab022976d2fd4caf6cae7cb6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143718$0CAB3BAF-6EC3-49FA-B2EC-3BA2EF488C0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143718$D7247226-DCD1-4615-A627-88C4973B64DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143718$BFCBF496-BF13-4A90-8821-126F61C08411",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143719",
+              "numeric-id": 143719
+            }
+          },
+          "hash": "c703db34d813fb949095f29707a12e6a93a5154f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143718$540FA396-DEE7-49B1-92A1-E9C64FF2F278",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143718$FB92C02F-BBD6-412E-B71C-D14B5C00E022",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0910-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b2b0bf32319172d2db8b351483441a2cd2d8c77",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143718$F253687C-551E-4677-8E28-5FA90DAF3A6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0990-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec90c50802c265531331f71644bc973b58c96bb2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143718$FB77C44E-2FA2-44E0-ADE6-BA8968123F2B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q741327"
+          },
+          "hash": "9cd92b2aaba8a251790537f6dee10e1a112aff41",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143718$27215062-1F12-4AFD-BB16-7C60D1826CCB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001169174983"
+          },
+          "hash": "2d8a8002697abe2112176b28ae8514399b07df84",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143718$61D751A4-77A3-42F5-B944-724F99085AAD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eyvindr skáldaspillir Arms.svg"
+          },
+          "hash": "b650e3e615da123b07f1a69c90ed0580a12fb4c5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "norsk poet"
+    },
+    "de": {
+      "language": "de",
+      "value": "norwegischer Skalde"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Norwegian poet and author"
+    },
+    "es": {
+      "language": "es",
+      "value": "escaldo de Hålogaland, Noruega"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاعر نروژی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "norjalainen skaldi"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "file agus údar Ioruach"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "norsk poet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Noors auteur"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "norsk poet"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta noruega"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "prawnuk króla Haralda Pięknowłosego"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "norsk poet"
+    }
+  },
+  "id": "Q143718",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Эйвінд Загубнік Скальдаў"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Eyvindr skáldaspillir"
+    },
+    "da": {
+      "language": "da",
+      "value": "Eyvind Skaldaspillir"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eyvindr Skáldaspillir"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eyvindr skáldaspillir"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eyvindr Finnsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Øyvind Skaldespiller"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Eyvindr skáldaspillir"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エイヴィンド・フィンソン"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Øyvind Skaldespiller"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eyvindr skáldaspillir"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Øyvind Finnson Skaldespille"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Eyvindr skáldaspillir"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Øyvind Finnsson Skaldespillar"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Eyvindr Skáldaspillir"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эйвинд Погубитель Скальдов"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Eyvindr skáldaspillir"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Eyvindr skáldaspillir"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Eyvindr Skáldaspillir"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ейвінн Фіннсон Губитель Скальдів"
+    }
+  },
+  "lastrevid": 17565336,
+  "modified": "2025-09-17T13:43:36Z",
+  "ns": 860,
+  "pageid": 172103,
+  "sitelinks": {},
+  "title": "Item:Q143718",
+  "type": "item"
+}

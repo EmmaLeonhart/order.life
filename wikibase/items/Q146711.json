@@ -1,0 +1,755 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Benedict VIII"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q146711$C8A43DBE-6282-41D7-9E70-F53AE9C90A50",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "447812"
+          },
+          "hash": "db9c5b1170f4518439eecace091f8096b9b3637f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q146711$7FEF7782-1DBA-43F6-9D93-F7D09236428F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00312819"
+          },
+          "hash": "777a98b3de889eb1904c55a2df3e0fc2b761cfc4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146711$CE3F3AA7-1C0A-4E9D-8D33-30FEAC257A42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Tuscolo-2"
+          },
+          "hash": "f7db9691a5d59dcd990db48bbe26b0454452afc2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146711$8A5CCA0B-9804-4C8B-A427-DBEB421868C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146711$B52C77B5-840B-47F6-9184-63704EF479BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146711$58B5E43C-952C-4F8F-82D2-8BE463387083",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Theophylact_of_Tusculum_(1)"
+          },
+          "hash": "85695cd4f85453277079fb6d9aa4f28aedd2688a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146711$B4F359BC-6156-4864-8B2E-DC9CD650EF08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125642",
+              "numeric-id": 125642
+            }
+          },
+          "hash": "b0fd3073acab6440fb06c64aa40f7053d160126d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146711$45DE18C4-EC46-4EF0-852E-B7E98C1C610B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146710",
+              "numeric-id": 146710
+            }
+          },
+          "hash": "f346e48f391294c9d9336fd97c66ebd4f92dd3ce",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146711$37A32FA5-C5C7-453B-8660-E3D0EF7CF19F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146711$ADF73AF0-AD6E-46D3-9711-642E22B16A48",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0980-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c63a72cb9f3cd94546b32afcef0a8a02981cad6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146711$BFC44DAE-EAD6-4A62-AC1E-7A4C8DF42EBD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1024-04-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d0bf97db092ea5281097fc5fb9d3107ec8ae6f6a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146711$FC7AC929-1465-49F8-8B66-26C5D0E74491",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q162102"
+          },
+          "hash": "5e903320823e64bbc84f6376e31d87064c4d1247",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146711$A940E3F8-DBFA-49FD-A723-B88FC979529F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=theophylacte;n=di spoleto|p=theophylacte;n=di tuscolo;oc=1"
+          },
+          "hash": "c64285dcfddb780fd8223c7cfb86b0b3f267b3e0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8094": [
+      {
+        "id": "Q146711$F2EAA269-42F0-4F4A-B8B7-4BD3F84ECD57",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "detusculumt0"
+          },
+          "hash": "38f41fb672241e5f49224ef969fc85668955fda7",
+          "property": "P8094",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146711$7F3579E0-2FD3-46CF-8351-655DC2EC29F0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Benedict VIII Arms.svg"
+          },
+          "hash": "7c9c66544f175ec83a83abd6b4b8ab02a3dbee0f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "papa de l'església catòlica"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "papež"
+    },
+    "da": {
+      "language": "da",
+      "value": "italiensk præst"
+    },
+    "de": {
+      "language": "de",
+      "value": "Papst (1012–1024)"
+    },
+    "en": {
+      "language": "en",
+      "value": "pope"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "papo de la katolika eklezio"
+    },
+    "es": {
+      "language": "es",
+      "value": "143.er papa de la Iglesia Católica"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کشیش ایتالیایی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "paavi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "pape de l’Église catholique romaine"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "pápa"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "papa"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a római katolikus egyház 145. pápája"
+    },
+    "id": {
+      "language": "id",
+      "value": "Paus Gereja Katolik dari tahun 1012 hingga 1024"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "Papa ti Katoliko a Simbaan"
+    },
+    "it": {
+      "language": "it",
+      "value": "143° vescovo di Roma e papa della Chiesa cattolica dal 1012 al 1024"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Romas pāvests no 1012. līdz 1024. gadam"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "italiensk prest"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Italiaans priester (980-1024)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "italiensk prest"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "papież XI-wieczny"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "папа римский"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "поглавар Римокатоличке цркве"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Påve i romersk-katolska kyrkan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "天主教會第143任教宗"
+    }
+  },
+  "id": "Q146711",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Pous Benedictus VIII"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بندكت الثامن"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بنديكتوس التامن"
+    },
+    "az": {
+      "language": "az",
+      "value": "VIII Benedikt"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Papa Benedicto VIII"
+    },
+    "be": {
+      "language": "be",
+      "value": "Бенедыкт VIII, Папа Рымскі"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Бэнэдыкт VIII"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Бенедикт VIII"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "পোপ অষ্টম বেনেডিক্ট"
+    },
+    "br": {
+      "language": "br",
+      "value": "Benead VIII"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Benet VIII"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Gáu-huòng Benedictus 8-sié"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Benedikt VIII."
+    },
+    "da": {
+      "language": "da",
+      "value": "Pave Benedikt 8."
+    },
+    "de": {
+      "language": "de",
+      "value": "Benedikt VIII."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Benedikt VIII."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Benedictus VIII"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πάπας Βενέδικτος Η΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Benedict VIII"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pope Benedict VIII"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pope Benedict VIII"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Benedikto la 8-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Benedicto VIII"
+    },
+    "et": {
+      "language": "et",
+      "value": "Benedictus VIII"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Benedikto VIII.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بندیکت هشتم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Benedictus VIII"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Benoît VIII"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Pápa Beinidict VIII"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Bieito VIII"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Kau-fòng Benedictus 8-sṳ"
+    },
+    "he": {
+      "language": "he",
+      "value": "בנדיקטוס השמיני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Benedikt VIII."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "VIII. Benedek pápa"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Բենեդիկտոս VIII"
+    },
+    "id": {
+      "language": "id",
+      "value": "Paus Benediktus VIII"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "Papa Benedicto VIII"
+    },
+    "io": {
+      "language": "io",
+      "value": "Papo Benedictus la 8ma"
+    },
+    "it": {
+      "language": "it",
+      "value": "papa Benedetto VIII"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ベネディクトゥス8世"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Paus Benediktus VIII"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბენედიქტე VIII"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "교황 베네딕토 8세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Benedictus VIII"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Benediktas VIII"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Benedikts VIII"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Папа Бенедикт VIII"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Paus Benedictus VIII"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "بندیکت هشتم"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Kàu-hông Benedictus 8-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Benedikt VIII"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Paus Benedictus VIII"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Benedikt VIII"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Beneset VIII"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Benedykt VIII"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Papa Bento VIII"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Papa Bento VIII"
+    },
+    "qu": {
+      "language": "qu",
+      "value": "Binidiktu VIII"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Papa Benedict al VIII-lea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бенедикт VIII"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Binidittu VIII"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Benedict VIII"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Benedikt VIII"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Benedikt VIII."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Papež Benedikt VIII."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Papa Benedikti VIII"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Папа Бенедикт VIII"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Benedictus VIII"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Papa Benedikto VIII"
+    },
+    "th": {
+      "language": "th",
+      "value": "สมเด็จพระสันตะปาปาเบเนดิกต์ที่ 8"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Benedicto VIII"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "VIII. Benedictus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Бенедикт VIII"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "پوپ بینیڈکٹ ہشتم"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Giáo hoàng Biển Đức VIII"
+    },
+    "war": {
+      "language": "war",
+      "value": "Papa Benedicto VIII"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "本笃八世"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Pópù Benedict 8k"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "本篤八世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "本篤八世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "本笃八世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "本笃八世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "本篤八世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "本篤八世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "本笃八世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "本篤八世"
+    }
+  },
+  "lastrevid": 17570964,
+  "modified": "2025-09-17T15:05:01Z",
+  "ns": 860,
+  "pageid": 175096,
+  "sitelinks": {},
+  "title": "Item:Q146711",
+  "type": "item"
+}

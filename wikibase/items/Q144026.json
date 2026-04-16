@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Parnavaz II of Iberia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144026$21172510-A3B7-4114-9382-8CF630D3948C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738135"
+          },
+          "hash": "76d4829c64013260b4d299085dbb15b1c318dc49",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144026$8C16265B-38F8-4617-BE9D-5219F12ABE0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144026$5E64C437-4113-4F8E-B658-3975E86BCD24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144026$D8B09755-2526-451D-8BF4-6E47FE76C742",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141365",
+              "numeric-id": 141365
+            }
+          },
+          "hash": "e10834077870447605e4c3d70096ed6b5c2fcf58",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144026$E8AB8725-D123-4DC7-ABC8-846086748021",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144026$28D82420-ABE9-4595-A0D5-3D9A8D5AA1BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144026$94059194-1D5E-4FB9-B029-2E59416C8673",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0030-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4551d2cc8efaf4284ccd01fab6d054e57e809432",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144026$3A47D96C-E6EF-4D4A-A03A-ECE02B27DCE2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1269387"
+          },
+          "hash": "b166a2353bddc2da3e876aed6563eb0aa718d0d2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144026$1DB0C1D7-2714-49AD-B1C0-3407070837A3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Parnavaz II of Iberia Arms.svg"
+          },
+          "hash": "4c19d57c1cdccd33478793db57e0c3022284b8dd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "king of Iberia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Ibérie de la dynastie artaxiade"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Kaukasisch Iberië (-30v Chr)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj Iberije iz dinastije Artaksidov"
+    }
+  },
+  "id": "Q144026",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "II Parnavaz"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Parnavaz II d'Ibèria"
+    },
+    "en": {
+      "language": "en",
+      "value": "Parnavaz II of Iberia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Parnavazo la 2-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Parnavaz II de Iberia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Pharnavaz II.a Iberiakoa"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Parnavaz II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pharnabaze II"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Farnavaz II. od Iberije"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Փառնավազ II"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ქარძამი"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Parnavaz II of Iberia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фарнаваз II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Parnavaz II od Iberije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Farnavaz II."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Parnavaz II of Iberia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фарнаваз II"
+    }
+  },
+  "lastrevid": 17565874,
+  "modified": "2025-09-17T13:51:11Z",
+  "ns": 860,
+  "pageid": 172411,
+  "sitelinks": {},
+  "title": "Item:Q144026",
+  "type": "item"
+}

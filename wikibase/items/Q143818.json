@@ -1,0 +1,335 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Basil Argyros"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143818$1C118052-DCB1-4673-B401-4FEBCC44FE22",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "646425"
+          },
+          "hash": "d1eea6592ace9756c4048f14ab0e13dbacc6472a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143818$D7A539D3-C7DF-4B1D-8A5B-88213C275F3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147436",
+              "numeric-id": 147436
+            }
+          },
+          "hash": "8ff352a5b644738a8a16632d73a323f58b383dbf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143818$1F953115-AF74-4BF8-B883-2D8DD11CE9A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143818$BEC77F94-69B5-4A34-8B31-3D90FA51BCD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143818$00C8C3B3-D609-4E3F-B242-192645CD579B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Basil_Argyros_(1)"
+          },
+          "hash": "51d3e390c4c9083f728de6b5222970c8a3b1d502",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143818$C71FB735-9B62-4A38-BA36-FD932C507AA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143817",
+              "numeric-id": 143817
+            }
+          },
+          "hash": "cc668c911633f65c93ccc2865bcad9ec8333a7c0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143818$51272654-34B0-419F-AD34-082673CD651A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143818$A9AED4AD-DCEB-4CD7-987A-50DAA2E10F4E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0970-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1a6a22a3a333c2314b8fb9c764b41a5835c2c379",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143818$25469523-4C2E-4261-8684-B9B0EF841DB0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1030-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7b4dbfe19f9d148d4b32aac7df5a61f547d453f9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143818$1E549640-25D5-4122-B268-3BD3745CB57F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3131727"
+          },
+          "hash": "1e5ea3e7b86ac8341d48c62ae5101106dbdfc3da",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143818$7D66F94B-7419-48C1-B1BA-6FE189ED941A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Basil Argyros Arms.svg"
+          },
+          "hash": "51eed99a8c6ebb443639051ab423cfcadf323587",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "noble romà d'Orient"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine nobleman"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Byzantijnse Rijk (970-)"
+    }
+  },
+  "id": "Q143818",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Василий Аргир"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Basili Argir"
+    },
+    "de": {
+      "language": "de",
+      "value": "Basil Argyros"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασίλειος Αργυρός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Basil Argyros"
+    },
+    "es": {
+      "language": "es",
+      "value": "Basilio Argiro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Basile Argyre"
+    },
+    "id": {
+      "language": "id",
+      "value": "Basil Argyros"
+    },
+    "it": {
+      "language": "it",
+      "value": "Basilio Argiro"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბასილ არგიროსი"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Basil Argyros"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Basílio Argiro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Basílio Argiro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Василий Аргир"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Basil Argyros"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Василије Аргир"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Василь Аргир"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "巴西尔·阿尔吉鲁斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "巴西尔·阿尔吉鲁斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "巴西爾·阿爾吉魯斯"
+    }
+  },
+  "lastrevid": 17565492,
+  "modified": "2025-09-17T13:45:49Z",
+  "ns": 860,
+  "pageid": 172203,
+  "sitelinks": {},
+  "title": "Item:Q143818",
+  "type": "item"
+}

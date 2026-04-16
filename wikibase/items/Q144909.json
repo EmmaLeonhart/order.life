@@ -1,0 +1,797 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert de Brus, 6th Lord of Annandale"
+      }
+    ],
+    "hu": [
+      {
+        "language": "hu",
+        "value": "Robert de Brus, 6th Lord of Annandale"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144909$AC5EE307-9CF7-4EB3-8A63-037C7300F3C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "49299"
+          },
+          "hash": "6c6cc3cd87a664618cd9a83b9d288b9d6dabf49a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q144909$4A9763EA-4C45-4993-8B03-DC3F2DF2BBFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00027619"
+          },
+          "hash": "a4ec45b39226d5635cbf8e08a65d312d4862ddc6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144909$BFAB7FEA-95F6-44D5-BEAD-843762DC55BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148960",
+              "numeric-id": 148960
+            }
+          },
+          "hash": "fefdd37e5e9b5ed5a0ce38cfcc5a26a40854f9aa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$389B8173-1CA7-48F0-8FFA-BBEF5C45E185",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148967",
+              "numeric-id": 148967
+            }
+          },
+          "hash": "82d6dd33a53243a26aee1b4ba95633f7301eb359",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$D12AAC21-06D7-4364-9543-33C9AD9EB1A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148969",
+              "numeric-id": 148969
+            }
+          },
+          "hash": "3510a400226e47f8a2ac7dce891fac2a0fb0495f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$A94AF13C-2B3F-4D42-9BC6-80B29ACA301A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148961",
+              "numeric-id": 148961
+            }
+          },
+          "hash": "74f79347770b98fa7ebf2cf3271d1542459f0e50",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$E58C05B5-BC41-41AB-8994-2F64EAA477C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148963",
+              "numeric-id": 148963
+            }
+          },
+          "hash": "4b7559b5919d35986785441ed2c64dbce3c020d9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$795D2E78-7723-45B6-B4FA-ED4058389DC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148965",
+              "numeric-id": 148965
+            }
+          },
+          "hash": "8b169c2753fb075942036929afea1c5c2526ed67",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$1E6FC843-03FF-4D4E-B281-16BC8BD70E44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148970",
+              "numeric-id": 148970
+            }
+          },
+          "hash": "b7c476ef111c73a316ce2b8c6ebc1597d1ac9ae0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$9AFAA3D0-2ADA-4A6B-85EA-419AD1DE2286",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148964",
+              "numeric-id": 148964
+            }
+          },
+          "hash": "ca222c27c3618d2d2a324f5aedaeb2479947f606",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$231FA14D-BBDB-4FC8-9408-2090982FC5A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148962",
+              "numeric-id": 148962
+            }
+          },
+          "hash": "77249faf0ee7e550666447a2edcde4107f1778c5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$7E481896-4FD2-4F43-8C57-0A14E29E65A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148966",
+              "numeric-id": 148966
+            }
+          },
+          "hash": "a4c47b37b1ae2f698a9e6b2b16a1d8bf7bd35a19",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$2774C29C-0273-4A40-8694-CD8FC60ECFC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148968",
+              "numeric-id": 148968
+            }
+          },
+          "hash": "f5d4b0de987167ee021d64cf0baa18328bc028ea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$508AF418-180A-4319-845B-1E02EF029077",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148957",
+              "numeric-id": 148957
+            }
+          },
+          "hash": "0af810378670e82578a319b2784b1cd9a847c7b4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q144909$8BA7B6FB-7298-42FC-9CE6-9EA2F0039708",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "L8MB-67G"
+          },
+          "hash": "b48e2c0f43ec52df51857ffa177ee2623f9c35b0",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q144909$BC42366C-FE79-40B5-A09D-5D6160465F18",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bruce-3176"
+          },
+          "hash": "6999a4249e7fb38f70085459df6470de841e981e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q144909$B7C43623-A039-4504-90FA-5AA9EB38CFB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I6448"
+          },
+          "hash": "f82675d5fab260587fa95f64b5e8caa229082450",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144909$79C1F828-6A80-42EE-B589-C1CC19388361",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$139BF9F6-E1E2-4A10-B4D8-441F2CAB709E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q144909$F6FE44BA-D9F8-42FE-ABB1-0C989A024AB9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert_de_Brus_(5)"
+          },
+          "hash": "035459daa77769ae92841c9562d606f96c04c14d",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144909$975A506F-2A02-407F-B962-B4B0ADFDEFBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148958",
+              "numeric-id": 148958
+            }
+          },
+          "hash": "7e67043868cbe98ae06f4efcdb68b0cf3a6eaaae",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$A24BDB77-F158-44A8-9CC4-8531DC1957D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145126",
+              "numeric-id": 145126
+            }
+          },
+          "hash": "a6611ed2fd96d1586c95871057a1bee7fd64806b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144909$396DB142-99D0-4AD0-A45D-C8A57E638871",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148959",
+              "numeric-id": 148959
+            }
+          },
+          "hash": "b7e157fb38f64b5d3620143176bffb6d0dd8bca9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q144909$B203D0C7-020D-45A6-8946-43F0B5B4575E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10776.htm#i107755"
+          },
+          "hash": "e3ee2132164fdc13376f5f10835f3a8b6fc3b36b",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144909$816726F9-36EF-4EB9-B762-A5F37742194C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144908",
+              "numeric-id": 144908
+            }
+          },
+          "hash": "f5039473108b53d0165707f24312e2697aa06593",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144909$DB6F8860-24C0-4C5B-B295-7CAB7132DBF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142152",
+              "numeric-id": 142152
+            }
+          },
+          "hash": "46398052db0d6340e13e339d54fdeda5ae3929b5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144909$5657CF0F-2052-400C-9673-E2F69122183C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144909$F9EAAC2C-12FD-407E-B905-FA5880926DC0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1243-07-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cc8a800dcce92d931773aa2ad11605a302df700",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144909$46C74775-C683-4991-B697-E38596D2A5B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1304-04-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4a73457ff0043bcd43dbddada2aa77580255bd2c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144909$8C5F053F-FA0D-4322-BB96-BCFA0DCB9DDF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1772833"
+          },
+          "hash": "090ac88ecac1d2601a1a25bda6309abc07e4a561",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q144909$DC38D410-D82D-4B50-8A83-ED0D31E94C83",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000523551913"
+          },
+          "hash": "f7c52c0067a44bff7de29847cdf873f38695e425",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q144909$511E0B4D-10A1-4165-A005-68F89C71A4DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=robert;n=de brus;oc=2"
+          },
+          "hash": "a407f32c500d8786500a323cc30607de638d5556",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144909$5BA56755-A638-4F56-99DF-D8894D45E103",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de Brus, 6th Lord of Annandale Arms.svg"
+          },
+          "hash": "347288a6eceeb3dd22671b70a7e5c00095ac0056",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Englisch-Schottischer Magnat"
+    },
+    "en": {
+      "language": "en",
+      "value": "6th Lord of Annandale (1243-1304)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "skót főnemes"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "6-րդ լորդ Անանդեյլ"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile e cavaliere medievale scozzese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "6e heer van Annandale"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "англо-шотландский аристократ"
+    }
+  },
+  "id": "Q144909",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "روبرت دى بروس لورد انانديل السادس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Роберт Брус, 6-ы лорд Анандэйл"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Robert de Brus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Robert de Brus, Earl of Carrick"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρόμπερτ ντε Μπρους, 6ος λόρδος του Άναντεϊλ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Robert de Brus, 6th Lord of Annandale"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Robert de Brus, 6th Lord of Annandale"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Robert de Brus, 6th Lord of Annandale"
+    },
+    "es": {
+      "language": "es",
+      "value": "Robert de Brus, 6th Lord of Annandale"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Robert de Bruce"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Robert fan Bruce"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Robert de Brús"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Raibeart Brus, 6mh Tighearna Shrath Anann"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Robert de Brus"
+    },
+    "he": {
+      "language": "he",
+      "value": "רוברט דה ברוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Robert de Brus, Annandale 6. Lordja"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ռոբերտ դե Բրյուս, 6-րդ լորդ Անանդեյլ"
+    },
+    "it": {
+      "language": "it",
+      "value": "Robert Bruce, VI signore di Annandale"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "6代アナンデイル領主ロバート・ド・ブルース"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Robert Bruce, jarl av Carrick"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert de Brus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Roberto de Brus, 6º Lorde de Annandale"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Roberto de Brus, 6º Lorde de Annandale"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Роберт Брюс, 6-й лорд Аннандейл"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Robert de Brus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗伯特六世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "罗伯特六世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "羅伯特六世"
+    }
+  },
+  "lastrevid": 17567442,
+  "modified": "2025-09-17T14:14:17Z",
+  "ns": 860,
+  "pageid": 173294,
+  "sitelinks": {},
+  "title": "Item:Q144909",
+  "type": "item"
+}

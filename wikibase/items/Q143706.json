@@ -1,0 +1,597 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sigrid Knutsdotter"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143706$A5FABB23-6BB0-4E20-8F24-22FF4CEBF567",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00280169"
+          },
+          "hash": "f39388bdfc6c54bae7f4c6583d68243c6f5f832d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143706$61AD4A07-F564-4D38-B17F-171ED27AA4FF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Knutsdotter-281"
+          },
+          "hash": "0af83bfb84dbcd252b41a3d3382e2fcef15aee71",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143706$48F10E70-555E-4F96-9143-1945AECDBF28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143706$A5F13378-661C-4E48-BD69-F92BF9628076",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143706$2CEDEBE8-87F4-4C10-9595-08175D732087",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143888",
+              "numeric-id": 143888
+            }
+          },
+          "hash": "9575695b805650c52fc6f672266c9ce309b81904",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143706$33E762DE-7590-4D80-B186-1BBE0342402E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141118",
+              "numeric-id": 141118
+            }
+          },
+          "hash": "88d67f37c292e9e7cc83b740432628f04fecb709",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143706$12809189-4C00-4A2F-9827-BE7F32AD02A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128016",
+              "numeric-id": 128016
+            }
+          },
+          "hash": "86cace558bb6a416cfdaddf80d55bc65b78c7bc7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143706$FF7BAD40-0BC7-4271-865F-BC058A93F1B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143706$81BA4A3D-CC50-4CEC-8EB0-89D6B241C3FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143706$794F9324-54F4-4D69-9E9A-2D155DF8647F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4978557"
+          },
+          "hash": "c59bdf462f1aefb99d47f6186beec185fa280d78",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q143706$EDC67986-6DBF-46AD-9B43-26682DA3F6C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.5281"
+          },
+          "hash": "1b68920a49062d8d576da8c3a4465a55e21252e1",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143706$50F55B40-CCFC-4004-834A-A55B05DE30E0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sigrid Knutsdotter Arms.svg"
+          },
+          "hash": "0a43afc10b50a755b6fe9994ced4b2809109a031",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1169 -"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "шведская принцесса"
+    }
+  },
+  "id": "Q143706",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Sigrid Knutsdotter"
+    },
+    "an": {
+      "language": "an",
+      "value": "Sigrid Knutsdotter"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Sigrid Knutsdotter"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Sigrid Knutsdotter"
+    },
+    "bm": {
+      "language": "bm",
+      "value": "Sigrid Knutsdotter"
+    },
+    "br": {
+      "language": "br",
+      "value": "Sigrid Knutsdotter"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sigrid Knutsdotter"
+    },
+    "co": {
+      "language": "co",
+      "value": "Sigrid Knutsdotter"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Sigrid Knutsdotter"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Sigrid Knutsdotter"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sigrid Knutsdotter"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sigrid Knutsdotter"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Sigrid Knutsdotter"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Sigrid Knutsdotter"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sigrid Knutsdotter"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Sigrid Knutsdotter"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Sigrid Knutsdotter"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Sigrid Knutsdotter"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sigrid Knutsdotter"
+    },
+    "et": {
+      "language": "et",
+      "value": "Sigrid Knutsdotter"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Sigrid Knutsdotter"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Sigrid Knutsdotter"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sigrid Knutsdotter"
+    },
+    "frc": {
+      "language": "frc",
+      "value": "Sigrid Knutsdotter"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Sigrid Knutsdotter"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Sigrid Knutsdotter"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Sigrid Knutsdotter"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Sigrid Knutsdotter"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Sigrid Knutsdotter"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Sigrid Knutsdotter"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sigrid Knutsdotter"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sigrid Knutsdotter"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Sigrid Knutsdotter"
+    },
+    "id": {
+      "language": "id",
+      "value": "Sigrid Knutsdotter"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Sigrid Knutsdotter"
+    },
+    "io": {
+      "language": "io",
+      "value": "Sigrid Knutsdotter"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sigrid Knutsdotter"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Sigrid Knutsdotter"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Sigrid Knutsdotter"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Sigrid Knutsdotter"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Sigrid Knutsdotter"
+    },
+    "li": {
+      "language": "li",
+      "value": "Sigrid Knutsdotter"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Sigrid Knutsdotter"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Sigrid Knutsdotter"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Sigrid Knutsdotter"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Sigrid Knutsdotter"
+    },
+    "min": {
+      "language": "min",
+      "value": "Sigrid Knutsdotter"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Sigrid Knutsdotter"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Sigrid Knutsdotter"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sigrid Knutsdotter"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Sigrid Knutsdotter"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Sigrid Knutsdotter"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sigrid Knutsdotter"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Sigrid Knutsdotter"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Sigrid Knutsdotter"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Sigrid Knutsdotter"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Sigrid Knutsdotter"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Sigrid Knutsdotter"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sigrid Knutsdotter"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Sigrid Knutsdotter"
+    },
+    "prg": {
+      "language": "prg",
+      "value": "Sigrid Knutsdotter"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sigrid Knutsdotter"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sigrid Knutsdotter"
+    },
+    "rgn": {
+      "language": "rgn",
+      "value": "Sigrid Knutsdotter"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Sigrid Knutsdotter"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Sigrid Knutsdotter"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сигрид Кнутсдоттер"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Sigrid Knutsdotter"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Sigrid Knutsdotter"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Sigrid Knutsdotter"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Sigrid Knutsdotter"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Sigrid Knutsdotter"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sigrid Knutsdotter"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Sigrid Knutsdotter"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sigrid Knutsdotter"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Sigrid Knutsdotter"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Sigrid Knutsdotter"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Sigrid Knutsdotter"
+    },
+    "vmf": {
+      "language": "vmf",
+      "value": "Sigrid Knutsdotter"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Sigrid Knutsdotter"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Sigrid Knutsdotter"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Sigrid Knutsdotter"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Sigrid Knutsdotter"
+    }
+  },
+  "lastrevid": 17565312,
+  "modified": "2025-09-17T13:43:16Z",
+  "ns": 860,
+  "pageid": 172091,
+  "sitelinks": {},
+  "title": "Item:Q143706",
+  "type": "item"
+}

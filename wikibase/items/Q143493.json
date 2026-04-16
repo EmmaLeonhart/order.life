@@ -1,0 +1,953 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ramiro El Grande de Leão"
+      },
+      {
+        "language": "en",
+        "value": "King Ramiro II of Leon"
+      },
+      {
+        "language": "en",
+        "value": "Ramiro II el Grande, rey de León"
+      },
+      {
+        "language": "en",
+        "value": "Ramiro II El Grande de León"
+      },
+      {
+        "language": "en",
+        "value": "Ramiro II de Leão"
+      },
+      {
+        "language": "en",
+        "value": "Ramiro II of León"
+      },
+      {
+        "language": "en",
+        "value": "Ramiro II of León Rey de León"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143493$C20BA139-9FFA-4CEB-B2D7-8C4DC30765F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "70049"
+          },
+          "hash": "e489b7822e8e99a52f0e6e13fe88ae871c03301c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q143493$A7A15F05-0003-480B-A66D-63894A112351",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00120388"
+          },
+          "hash": "9c56a532a861ff64bbc4e766faa433138e8614d6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143493$84C72758-4188-4A8C-95FA-08172120A72D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100308",
+              "numeric-id": 100308
+            }
+          },
+          "hash": "0619f2608bb297618bedeadf7e4e355c79f91970",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$2BB1993A-5DDB-4316-A10B-361069593327",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100310",
+              "numeric-id": 100310
+            }
+          },
+          "hash": "0ab1bf187c682cc50af6f7f15f5bd753d46da514",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$D6B618AB-EC53-419A-95CE-F6171D087FB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100312",
+              "numeric-id": 100312
+            }
+          },
+          "hash": "ceafbfe841652c131c420f8177932917733fba48",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$63A303B0-6D23-4582-AC63-E9B5B18AF81E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100332",
+              "numeric-id": 100332
+            }
+          },
+          "hash": "cac7f5498e2f788bc573d9302543f564eac2dbb7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$C0365D7C-F6A4-4297-B954-A0A53C1C170C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100334",
+              "numeric-id": 100334
+            }
+          },
+          "hash": "aaf8ea2c4d6f256d8576634bf0deabb966e41ed0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$5B3B2278-FA3F-4798-81D7-00B1A33CCC4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100338",
+              "numeric-id": 100338
+            }
+          },
+          "hash": "ebceb786bf2dd684f08112692c5f5e478c7c5eae",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$506985FC-C049-4458-83EF-F19DF6D38198",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100340",
+              "numeric-id": 100340
+            }
+          },
+          "hash": "fe6acfd7f63c0e9ee057622b069f0c8603e0c8e9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$A21C0FF2-8A52-40A8-B0C7-38F5D7EDB94C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100342",
+              "numeric-id": 100342
+            }
+          },
+          "hash": "6387aef9278a82d294d9f1391c9e37a25044a5a3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$642A0553-EBCA-43DD-AC80-CFEBFF5E4AB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109768",
+              "numeric-id": 109768
+            }
+          },
+          "hash": "aed11370d944b45d505e922632baa34aa1d83241",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$82440E3F-DFC0-427C-866E-70C0C6FD192C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109766",
+              "numeric-id": 109766
+            }
+          },
+          "hash": "612fb0e8d3960f1b104fc08d26bc62c6cf29702f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$B2634C9F-6199-4BA1-BD0D-1E93BF9C288A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109772",
+              "numeric-id": 109772
+            }
+          },
+          "hash": "161940e5ad7a5524130732c918f4845158aa89a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$88D52F77-B8A5-4543-8FB2-72BFA3435C9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110474",
+              "numeric-id": 110474
+            }
+          },
+          "hash": "b406e20a572450e641b8ff0bc0a42eab931668db",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$C3606517-23D2-43B1-AEC0-E3532253E523",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110068",
+              "numeric-id": 110068
+            }
+          },
+          "hash": "16ad89d7deabb752e176a3967a75dd3c38256d25",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143493$D64205DC-061C-4397-825B-EE24DB7C5337",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "León-111"
+          },
+          "hash": "4a34cdeced3f5b141dd5b1352ba3ef3030a5c976",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143493$26DF37E5-F328-42F7-BD94-61271BDA59A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$4DCE8965-B3CD-4C4B-A762-3536F9661A54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143493$755DC588-9C8F-464A-9CD3-2C84A21038C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ramiro_II_of_León_(1)"
+          },
+          "hash": "cde8dac969c7388a73f20dc67ef8078b7ffa86da",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143493$9B300EB5-9097-4CC5-A1E7-AB6E73B7FFA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100038",
+              "numeric-id": 100038
+            }
+          },
+          "hash": "e6760a652c89dd503442591c77952dde0f2d748c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$AB7A5D02-74CE-4C23-B561-9A4CC968B6CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100330",
+              "numeric-id": 100330
+            }
+          },
+          "hash": "2c27b6b2767d9dabe716a6a9bc824d273a03329e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$06C13B8C-F426-43E3-9B0F-D7E575918909",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100336",
+              "numeric-id": 100336
+            }
+          },
+          "hash": "baf6bc45b7b46bb5a8eb356b7369252bee7e9ee5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$E805BB69-5E58-4E18-BDB5-758264D4242C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109557",
+              "numeric-id": 109557
+            }
+          },
+          "hash": "d6da404f44abbd268fe55976dfc75b5c47f681e0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$495247D3-B73C-4DA5-9C92-10EEE92F0BF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110066",
+              "numeric-id": 110066
+            }
+          },
+          "hash": "e743e104b90835500534becd10460a0f792a4a4a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q143493$29DE5DB3-D69F-44A7-850C-DF7B7443173B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15273.htm#i152725"
+          },
+          "hash": "a304851cf46d2a8908a5e95942f0f0771d23bb09",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143493$272810A8-5EC3-4C8E-825D-48A47D1AC145",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99907",
+              "numeric-id": 99907
+            }
+          },
+          "hash": "2a52ff9ef3a21780a474bebb3fd90bb9a282466b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143493$7AE0079D-B8D0-4B89-B7C9-140FE9DBCE46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99895",
+              "numeric-id": 99895
+            }
+          },
+          "hash": "b653cabcb8a021259c185a027007c251b201811c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143493$AC1447F9-43E3-4EF2-91FE-B7E08CDEACA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75438",
+              "numeric-id": 75438
+            }
+          },
+          "hash": "c17ff01b92705bf4863449ebbb464eadb0e154c5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q143493$13E7268D-42B3-4402-A1CD-5E630551FF63",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Rey de León"
+          },
+          "hash": "b0ee63daa5df656b00c603020c0c48bd535105c0",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143493$AAFF1A27-8A15-4A5F-92D2-842A8D2455A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143493$6AA149FB-AE36-4B1C-8BB1-3CDAE83BC4BF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0898-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a24c00077dd1449b25976e129d60b013bafb0a8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143493$0550FFE5-4574-4164-90A2-678ED8A58521",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0951-01-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d5ac8e23a8bf0d9587901b8d28a5c04fb457db95",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143493$E0DBB186-890F-40B9-B709-F04AC8E14C65",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q225113"
+          },
+          "hash": "df7edb6702c4edacab8358b5666d5bcfde9a02da",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143493$7985C02B-6AF2-49E9-A649-0554E974B4C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000033381061"
+          },
+          "hash": "dbba805040a70ddf6f2d5f5172630a94db650bd0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143493$11322751-BB39-4AE9-9904-F72F84745FB0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ramiro ordonez;n=de leon;oc=2"
+          },
+          "hash": "ed3fbfebd68a9046de0ec040b494ec13bf1f9792",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143493$05EFB8E3-502C-416C-B08E-6CD398666FF7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ramiro II of León Arms.svg"
+          },
+          "hash": "d019289f0234c30cab9f7eb23c105e65f0254dc6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي إسباني"
+    },
+    "be": {
+      "language": "be",
+      "value": "кароль Леона (931—951)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "(ca. 900-51) rei de Lleó (931-51)"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von León"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλιάς του Λεόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of León from 931 to 951"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de León"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de León (vers 898-951)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "rei de Galiza"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "leóni király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di León (r. 931-951)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Koninkrijk León (898-951)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Leonu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei de Leão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Леона"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av León"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "莱昂国王"
+    }
+  },
+  "id": "Q143493",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "راميرو الثاني ملك ليون"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "راميرو التانى ملك ليون"
+    },
+    "be": {
+      "language": "be",
+      "value": "Раміра II"
+    },
+    "br": {
+      "language": "br",
+      "value": "Ramiro II León"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ramir II de Lleó"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ramiro II. Leónský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ramiro II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ραμίρο Β΄ του Λεόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ramiro II of León"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ramiro la 2-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ramiro II de León"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ramiro II.a Leongoa"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ramiro II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ramire II de León"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ramiro II"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ramiro II. Leonski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. (Nagy) Ramiro leóni király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ramiro II dari León"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ramiro II di León"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ラミロ2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "რამირო II"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Ramiras II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ramiro II van León"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ramiro II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ramiro II de Leão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ramiro II de Leão"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ramiro al III-lea de Leon"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Рамиро II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ramiro II od Leona"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ramiro II. Leonski"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Рамиро II од Леона"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ramiro II av León"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Раміро II"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "رامیرو دوم شاہ لیون"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "拉米罗二世 (莱昂)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "拉米罗二世"
+    }
+  },
+  "lastrevid": 17565014,
+  "modified": "2025-09-17T13:39:03Z",
+  "ns": 860,
+  "pageid": 171878,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q143493",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q143493"
+    }
+  },
+  "title": "Item:Q143493",
+  "type": "item"
+}

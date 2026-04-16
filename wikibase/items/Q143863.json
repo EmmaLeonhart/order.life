@@ -1,0 +1,356 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sigurd Magnusson"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143863$388261D3-4346-4E2C-8001-4382D1C76BAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1435964"
+          },
+          "hash": "ccbe70dfad3f0e43c62ee6656ab66f25bad4802c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143863$FF307F08-E402-4443-A6BA-0FA10C5C056C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Magnusson-197"
+          },
+          "hash": "f85d0c365107adb7542c217877015349cc11e614",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143863$BA84DE6F-6B49-4B6D-A497-3C0A435F3B26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143863$CDA1D67B-E264-46E6-B56E-92947E12D6EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143863$F5A5F900-34EF-4F39-B63B-0516C09DBEE3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sigurd_Magnusson_(2)"
+          },
+          "hash": "41e557c047de18fd3175b6ff951fb121e5898bf0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143863$AA2F682B-EE28-429B-9507-9D2D844FFDC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141202",
+              "numeric-id": 141202
+            }
+          },
+          "hash": "5ea90e142a307c69ecccc1ef9eabd8b6ce582634",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143863$BAF9E228-ECA5-4510-9575-0E13F86F6D03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143863$D3F3CD73-0E7C-4A86-BBD6-C9B2DCEB69E5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1180-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e2c5bd4a3ab345c6657a482303c50f29aeb36a68",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143863$96348242-9935-4FFD-B3C0-93B94EB16621",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1194-04-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "000f2f4417175ff619a446cdbf2bf886b316c6a4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143863$2C584608-D11F-4835-801D-2BBB94A58502",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q681228"
+          },
+          "hash": "b4712ec1597b349c0aa02e577001a30041c89f69",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143863$D23E4399-21DA-469F-8C69-015A38ED4A45",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001169130610"
+          },
+          "hash": "4bb8285662e1c1500ac94a1862f364394e99032c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143863$71544818-E968-432D-B9EE-840D9E3A5602",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sigurd Magnusson Arms.svg"
+          },
+          "hash": "19e36dc0ebc7af26bf292caa226be0a98c19c582",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "norwegischer Gegenkönig Øyskjeggene"
+    },
+    "en": {
+      "language": "en",
+      "value": "Norwegian noble"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "uasal Ioruach"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "norsk tronpredent i borgerkrigstiden"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Noors Tegenkoning (1180-1194)"
+    }
+  },
+  "id": "Q143863",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sigurd Magnusson"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Сигурд Магнусон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sigurd Magnusson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sigurd Magnusson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sigurd Magnusson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sigurd Magnusson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sigurd Magnusson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sigurd Magnusson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Sigurd Magnusson"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "シグル・マグヌソン"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sigurd Magnusson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sigurd Magnusson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Sigurd Magnusson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сигурд Магнуссон"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Sigurd Magnusson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sigurd Magnusson"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西居爾·馬格努森"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "西格德‧馬格努松（挪威僭主）"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "西格德‧馬格努松（挪威僭主）"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "西格德‧馬格努鬆（挪威僭主）"
+    }
+  },
+  "lastrevid": 17565562,
+  "modified": "2025-09-17T13:46:49Z",
+  "ns": 860,
+  "pageid": 172248,
+  "sitelinks": {},
+  "title": "Item:Q143863",
+  "type": "item"
+}

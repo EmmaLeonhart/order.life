@@ -1,0 +1,227 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William de Munchenay, of Swanscombe"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144895$F1B8C28C-4394-4B6B-A8A0-5A256552160D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00636279"
+          },
+          "hash": "0979bbfc11c5d2df4b57521a8365138980dbd039",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144895$B268E2C4-AEC7-4817-B023-2F7A18806717",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142149",
+              "numeric-id": 142149
+            }
+          },
+          "hash": "b2f0ee0cbd5a61e0b1447bc8630f35a2960df7d9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q144895$BAD17F01-0721-4E5F-B771-289D97CC4F32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Munchensy-5"
+          },
+          "hash": "394845155b744e4e968f8f9d7f01c2c429e20cb2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144895$7286B7B7-0934-4CBA-B334-BFDBA1499CDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144895$57461167-3BAA-42BA-B47E-785E261DFB14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144895$F9BEC36B-A6AC-4D2F-81C0-F26A92E2B769",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140125",
+              "numeric-id": 140125
+            }
+          },
+          "hash": "bd3ba7ebc669ac1d42f3ed472e91aed5b9e3047a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144895$5C84366D-1A5F-4476-BAA0-7C52C175FF99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144895$00A90A7D-1BFA-406E-970C-06DAF2DDA98D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1152-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f82d11c2e3d6b2be63a94106db53bfaaa89adbfa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144895$A66B6752-4258-4BEE-AEAB-0E3E4CFA982D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116146148"
+          },
+          "hash": "2bcef687619f82f5c45396dd249c18659cf0a801",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144895$A898DE12-AF92-4C70-A466-89284B245F22",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William de Munchenay, of Swanscombe Arms.svg"
+          },
+          "hash": "0dff030f2bc3ff73147ce338890766f140e462cc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- Bef 7 May 1204"
+    }
+  },
+  "id": "Q144895",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "William de Munchenay, of Swanscombe"
+    }
+  },
+  "lastrevid": 17567424,
+  "modified": "2025-09-17T14:14:03Z",
+  "ns": 860,
+  "pageid": 173280,
+  "sitelinks": {},
+  "title": "Item:Q144895",
+  "type": "item"
+}

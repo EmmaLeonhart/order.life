@@ -1,0 +1,330 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Radelchis I of Benevento"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143965$E010AB22-3026-4716-ABE5-61CC4A155F62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00772011"
+          },
+          "hash": "3c0b13c92ffb0ee63598955df95151419fa2ca6c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143965$4DBC3C15-231A-4879-8829-B3E9C19B3E7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141311",
+              "numeric-id": 141311
+            }
+          },
+          "hash": "1c4d1846e6aa8cdb4eb9ae228919b2eb1c824a50",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143965$EE3C55C8-0DB5-4BCC-A00F-BC752E67C94D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147885",
+              "numeric-id": 147885
+            }
+          },
+          "hash": "de5b40f6ca73b69c7680fd0519529b867a7f3916",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143965$854A8AEF-6B8D-45D4-83D7-5F930803BB3D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Benevento-17"
+          },
+          "hash": "b0979b987e815ec86257fcc471ab3f5ebb5cf826",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143965$3F5D70DF-BD12-40A2-A2BE-59B877AD8179",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143965$62DB3178-990C-48C1-8E73-1F360871D6EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143965$0A5F0BFF-2698-4FAC-AEED-12AE5A119EB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143965$1DABCF57-88C3-4AB1-B343-860062156816",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22704ee4efe0ee654eac343970919d68633e5816",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143965$12C25EF3-624F-4DB7-A1B1-874A02057AF5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0851-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60fb4dd5bcec79debc4fa979f3d15510625d1034",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143965$5A6B7693-2196-4ABF-8EBF-25944CF8C1C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2344194"
+          },
+          "hash": "3fc567a5e929b910adc1dc53a31e881cd7111834",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143965$D0B167E9-19E6-4256-85E2-DBA70D95B4D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=radelchi;n=di benevento"
+          },
+          "hash": "d2e89d469b1eb750dd53b77d514ee155ff58c613",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143965$BC5A231E-C2C9-4EF1-A20B-964639AE2D50",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Radelchis I of Benevento Arms.svg"
+          },
+          "hash": "d8b6ae6b3b136b01c72e5f66f6e96f9b2b47c48a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Italian prince"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe longobardo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "penningmeester"
+    }
+  },
+  "id": "Q143965",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "راديلكيس الأول من بينيفنتو"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Раделчис I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Radelchis I"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ράντελχις Α΄ του Μπενεβέντο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Radelchis I of Benevento"
+    },
+    "es": {
+      "language": "es",
+      "value": "Radelchis I de Benevento"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Radelchis"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Radelchis I de Benevento"
+    },
+    "id": {
+      "language": "id",
+      "value": "Radelchis I dari Benevento"
+    },
+    "it": {
+      "language": "it",
+      "value": "Radelchi I di Benevento"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Radelchis I of Benevento"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Radelchis I de Benevento"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Радельхиз I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Радельхіз I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "拉德萊希斯一世"
+    }
+  },
+  "lastrevid": 17565756,
+  "modified": "2025-09-17T13:49:31Z",
+  "ns": 860,
+  "pageid": 172350,
+  "sitelinks": {},
+  "title": "Item:Q143965",
+  "type": "item"
+}

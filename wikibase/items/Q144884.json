@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William FitzGeoffrey de Mandeville, 3rd Earl of Essex"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q144884$8B37C607-EBF0-4E19-AD99-E454683BB5ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144884$0818C947-6522-41A5-A58C-DC4EC26CE351",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q144884$658ECD73-B92E-49CD-A882-F41DCA6F4599",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "William_de_Mandeville_(2)"
+          },
+          "hash": "85872d51c098ee31d489e5f95a0aabefc662a988",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144884$59294033-D7F5-42E9-9478-534BBF729C7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142145",
+              "numeric-id": 142145
+            }
+          },
+          "hash": "b3328a30ad091e3e1c317123781d8077ad035b83",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144884$6D4AE7FD-51BB-447D-90B4-ABE45A2F3F74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144884$5DBDF834-765C-4FD3-83B2-029D2504A77D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1227-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3530a070bf78aee91008c36b1521d611815365d9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144884$8D68248E-E9E9-4267-ACF6-6DD37EFC48BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7607263"
+          },
+          "hash": "3f70b87acbbae9e3b92f8211483c38d046a3518f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144884$23BFE2C4-6136-43A5-86D0-C4B908580939",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William FitzGeoffrey de Mandeville, 3rd Earl of Essex Arms.svg"
+          },
+          "hash": "46dcd878f4a2c373c64a030245be322dd3f8d869",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Englischer Magnat"
+    },
+    "en": {
+      "language": "en",
+      "value": "earl of Essex"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "3-й граф Эссекс"
+    }
+  },
+  "id": "Q144884",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "William FitzGeoffrey de Mandeville"
+    },
+    "de": {
+      "language": "de",
+      "value": "William FitzGeoffrey de Mandeville, 3. Earl of Essex"
+    },
+    "en": {
+      "language": "en",
+      "value": "William FitzGeoffrey de Mandeville, 3rd Earl of Essex"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "William FitzGeoffrey de Mandeville, 3rd Earl of Essex"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "William FitzGeoffrey de Mandeville, 3rd Earl of Essex"
+    },
+    "es": {
+      "language": "es",
+      "value": "William FitzGeoffrey de Mandeville"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "William FitzGeoffrey de Mandeville"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "William FitzGeoffrey de Mandeville, 3rd Earl of Essex"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уильям Фиц-Джефри де Мандевиль"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "William FitzGeoffrey de Mandeville"
+    }
+  },
+  "lastrevid": 17567402,
+  "modified": "2025-09-17T14:13:44Z",
+  "ns": 860,
+  "pageid": 173269,
+  "sitelinks": {},
+  "title": "Item:Q144884",
+  "type": "item"
+}

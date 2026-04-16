@@ -1,0 +1,386 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Lollius"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144167$C80021E1-124D-4F8D-89F6-3A301A35983D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "560495"
+          },
+          "hash": "81d4a5e51d54d0399f92e653649a63bc1d9c82b4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144167$F65BC102-37B3-4C7B-B9F6-6FF88A7AB763",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141554",
+              "numeric-id": 141554
+            }
+          },
+          "hash": "b4aaaefcdc03d6df8abaa9724c1c69f5c9e39a9b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144167$A253A377-04C5-4F72-8399-7028AC44A1E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144168",
+              "numeric-id": 144168
+            }
+          },
+          "hash": "ba24662ec119385f7de2dedd834f501925fa95b4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144167$50ADC3BD-FE30-42E8-8ECC-831861AD9A40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144167$C1FA5555-8E1B-41B8-A642-12312C507DE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144167$A78D1AE1-6C7E-40B8-8B89-4E08D76DC72F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141512",
+              "numeric-id": 141512
+            }
+          },
+          "hash": "dc2dc86e3a4d65d9cefc5393262b5a6d1a596b74",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144167$95F438B1-E270-4FF3-B873-7D0B34471E27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144167$7E96F219-D6A1-4B1F-BAB9-7785641C90D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0054-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cc3573d865f694ff8f0187983b4142cbe1c1e163",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144167$C6026509-D790-4679-8031-C7EFC8AD87A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0002-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6f0e13f51a3763d13d469f7b36effc90d72f2655",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144167$C06E9C54-FF8E-4547-814C-E59D344593A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q729102"
+          },
+          "hash": "d926fdcce1e434e86715b3a84d7a1b31516af6e9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q144167$03067A98-4EF3-4FA8-829F-A27E8E88099F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Lollius"
+          },
+          "hash": "d5216c50cd583be38b4b6bc664390052d449c3d7",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144167$9F5F34E0-99EC-4F2A-9856-A13CD2CCE29C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Lollius Arms.svg"
+          },
+          "hash": "6073f3f673a05059aecb4fd599c6f0ba91458f66",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker, Konsul 21 v. Chr."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος πολιτικός, ύπατος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 21 BC, grandfather of empress Lollia Paulina"
+    },
+    "es": {
+      "language": "es",
+      "value": "político de la Antigua Roma, cónsul en el año 21 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سرباز در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 21 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soldaat uit Oude Rome (100v Chr-2)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 21 года до н. э."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "rimski konzul 21 pr. n. št., stari oče cesarice Lolije Pavline"
+    }
+  },
+  "id": "Q144167",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ماركوس لوليوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Лолий"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Lol·li"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Lollius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Λόλλιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Lollius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Lolio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Lollius"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרקוס לוליוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Lolio"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Lollio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Lollius"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Marcus Lollius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Lollius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Marek Lolliusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Lólio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Lólio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Лоллий"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Lolije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mark Lolij"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Лоллій"
+    }
+  },
+  "lastrevid": 17566104,
+  "modified": "2025-09-17T13:54:27Z",
+  "ns": 860,
+  "pageid": 172552,
+  "sitelinks": {},
+  "title": "Item:Q144167",
+  "type": "item"
+}

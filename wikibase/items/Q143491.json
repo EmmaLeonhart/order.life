@@ -1,0 +1,829 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Toda بن فورتون"
+      },
+      {
+        "language": "en",
+        "value": "بن فورتون"
+      },
+      {
+        "language": "en",
+        "value": "Toda Aznárez de Pamplona"
+      },
+      {
+        "language": "en",
+        "value": "Iñiguez de Pamplona"
+      },
+      {
+        "language": "en",
+        "value": "Toda of Pamplona"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q100443$D8779D1C-AB22-41CC-9405-5317A6A1897F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "313165"
+          },
+          "hash": "1dccc632a66beea4e7eb14ed73d9806cc189c569",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q100443$5098E594-0A88-45AC-9D5E-1854E53DE900",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00106644"
+          },
+          "hash": "3fbcfbf90a230bdc5d8a12fa2a90b882335b81ab",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q100443$1376106E-4D8F-4157-BC44-AE845AD5109D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100084",
+              "numeric-id": 100084
+            }
+          },
+          "hash": "b35c32cd8028385fe1e79612498fe0df984f4488",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$CF0170A6-EDD4-45B6-908A-E6034CCD25A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109563",
+              "numeric-id": 109563
+            }
+          },
+          "hash": "a0af0f1050735aaf0ff015723d24c15cbad82904",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$5BC6E888-5305-42EC-8AF2-0D180304B011",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100324",
+              "numeric-id": 100324
+            }
+          },
+          "hash": "e628a18557d154e161b0b0bed8fe59b0b5a8f50a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$DF03965A-DAE9-48E9-8A8D-7965350329E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109565",
+              "numeric-id": 109565
+            }
+          },
+          "hash": "7795b8194d4cd73b1bbe97a3773dcb62e5f5190d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$936B6B19-B1E9-42DC-BAF3-41E7C6912056",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100445",
+              "numeric-id": 100445
+            }
+          },
+          "hash": "77e81efce0a6bcae0bd64ab3fa438f844beed6ec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$8354C3A3-3985-413F-8186-48657279B3BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109561",
+              "numeric-id": 109561
+            }
+          },
+          "hash": "42acbc73d0bfe9c9b191dc0d98e104c1faa1b74f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$4D332E4E-6CAD-43F1-BB80-3EACE9364DC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100447",
+              "numeric-id": 100447
+            }
+          },
+          "hash": "c62b80e2478be78a9a555a0dc5adc4108a8c9818",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$DD3CE068-B35C-4D83-B342-1DF57B368D0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109557",
+              "numeric-id": 109557
+            }
+          },
+          "hash": "78522ec1f129d7660efc26f4a90bf6748192853a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$935DD9EF-4578-4DD8-830D-56196AF0F7F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100336",
+              "numeric-id": 100336
+            }
+          },
+          "hash": "f91f6ec5dac17706f69f0436802d9565e754de14",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$810C30BF-DFBE-4DBD-B29D-0A03DDEA184F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109559",
+              "numeric-id": 109559
+            }
+          },
+          "hash": "1a2edab0a062f376b6c41d82d557591537ceb135",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$6D7278D7-B1F5-4F2A-BBD0-0E5A7C25BEE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100449",
+              "numeric-id": 100449
+            }
+          },
+          "hash": "1ef43f50768ae5d34e1d70343afb1757716a2568",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$1A6941F5-9955-4A37-9FDA-621B07D80156",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100094",
+              "numeric-id": 100094
+            }
+          },
+          "hash": "1ee02d92d239e3de1779a3ba5d3d9665e5499192",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q100443$682006C1-32B3-48B2-A1A6-4B656F800325",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Larraún-1"
+          },
+          "hash": "d49f6026040ef5379960c3eb54b6fe1345b8e755",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q100443$975263B9-45E2-4291-825D-EF291D9F1C92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$D230A228-AC38-4D24-9F85-B6806DE65F9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q100443$6AFA6E84-89E7-41CB-BE21-C522F8D2CDA9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Toda_Aznarez_(1)"
+          },
+          "hash": "dc26dc532bc53403471cfe403c00da56b317525c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q100443$4E12DDFE-7E49-4986-A7F7-48AB77383D4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100441",
+              "numeric-id": 100441
+            }
+          },
+          "hash": "11a6d00f4e1eb6951d4ba2c993cc401ad90be9af",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q100443$228CA857-B1FE-438B-8DDE-DAFD270F602B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100364",
+              "numeric-id": 100364
+            }
+          },
+          "hash": "52845cbc0431be2581dcfeb4837e5fb0f3bcc7bd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$36EF15B1-BA30-436E-ADA9-D1E04918F80B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109437",
+              "numeric-id": 109437
+            }
+          },
+          "hash": "55768dce93b67d66b3679429d5361cd3d422fb4b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q100443$A192024F-70DB-4603-B661-AD0EDA846154",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100352",
+              "numeric-id": 100352
+            }
+          },
+          "hash": "1b78060996f9e08e2147e962fd2f7f46e692c9e7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100443$2D438498-D16E-4D99-AC1E-9C6CCEF06ABB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109355",
+              "numeric-id": 109355
+            }
+          },
+          "hash": "807839ff5ef58d7ce200e9e0e9fbd4e998a389f5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q100443$21CE740B-ED54-4999-AC35-B94BA6731A96",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Reina de Navarra"
+          },
+          "hash": "cdb0624102427fe1d0ffcafec74544c005c48090",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q100443$1BFFD43C-5B33-45A4-87CE-21170531F33E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q100443$04570E9B-BE2D-47A1-B499-98C190AB35FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0876-01-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c52eb77da22ec5e3237045e9fcbc5995a076af3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q100443$CAC815EA-4808-4136-BBFE-3EA9C2D3D9A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0958-10-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9f164905e173229098b5b9ea97cdf7b2ce004e02",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q100443$633D92A7-D270-4B89-9329-F075A5CFE665",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2288810"
+          },
+          "hash": "216e536c595d5160c57eb1480de821d80b02eba5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q100443$BED1CBAA-1A84-4AC4-A853-E2D813524D71",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000013503946568"
+          },
+          "hash": "a1befce21679fd7f3d12428156f229b994cf7915",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q100443$73E72484-F57F-4A18-9919-9EE47E05F8D2",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Toda Aznárez de Pamplona"
+          },
+          "hash": "473f7564ca2a4fa4fdbcd449dedf2f22bfb95c72",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q100443$5D141C01-F824-4208-891B-1A88287D1111",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=toda aznarez;n=de larraun"
+          },
+          "hash": "10780273af3effd4559e0de273c1aa5e7451c466",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q100443$CE9B55FA-8B1E-4593-BE06-68B2FB892390",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Toda of Pamplona Arms.svg"
+          },
+          "hash": "26dd049a0d1c670fe0a451130d8a1fe7773f0108",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "reina consort de Pamplona"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "královna choť Sancha I. z Pamplony"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασίλισσα της Παμπλόνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen consort to Sancho I of Pamplona (died 958)"
+    },
+    "es": {
+      "language": "es",
+      "value": "infanta de Pamplona (876-958), reina consorte de Pamplona (907-925) y regente del reino de Pamplona (925-937)"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Tota Aznaritz"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Reine de Navarre"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "navarrai királyné"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina consorte e reggente del regno di Navarra"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グレゴリオ暦の暦法をその施行前にも適用したもの"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "королева Наварры"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "將格里曆回推至最早採用的時間點以前而成的曆法"
+    }
+  },
+  "id": "Q100443",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "تودا النافارية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "تودا النافاريه"
+    },
+    "be": {
+      "language": "be",
+      "value": "Тода Аснарэс"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Toda de Pamplona"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Toda z Pamplony"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τόδα της Παμπλόνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Toda of Pamplona"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Toda of Pamplona"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Toda of Pamplona"
+    },
+    "es": {
+      "language": "es",
+      "value": "Toda Aznárez de Pamplona"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Tota Iruñekoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Toda de Navarre"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Toda Aznárez de Pamplona"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Toda Aznárez"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Toda Aznárez"
+    },
+    "id": {
+      "language": "id",
+      "value": "Toda dari Navarra"
+    },
+    "it": {
+      "language": "it",
+      "value": "Toda di Navarra"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "トダ・アスナレス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "역산 그레고리력"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Toda Aznárez de Pamplona"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Toda Aznar van Navarra"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Toda Aznares"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Toda Aznares"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тода Аснарес"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Toda of Pamplona"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Toda Asnares"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Toda"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Toda Aznárez"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тода Наваррська"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "外推格里曆"
+    }
+  },
+  "lastrevid": 17405408,
+  "modified": "2025-09-15T22:08:44Z",
+  "ns": 860,
+  "pageid": 118136,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q100443",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q100443"
+    }
+  },
+  "title": "Item:Q100443",
+  "type": "item"
+}

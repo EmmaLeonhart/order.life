@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwilym ap Gwrwared Gerdd Gemell ap Cuhelyn Fardd ap Gwynfardd Dyf"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145728$E5FBF3AB-591A-41C7-B38B-4CF0217A1637",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00570148"
+          },
+          "hash": "1274c9ebdfe1b5a3b7a4c71014db0e2b4b426c6b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145728$2827DDF6-9CF1-41E6-97CB-C2B24F9E8F57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142646",
+              "numeric-id": 142646
+            }
+          },
+          "hash": "12105445fcaab8765a6ff381580a16b7ff89dea7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q145728$810DBCE9-D767-477F-9BC4-2103C8511ECD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Gwynfardd-2"
+          },
+          "hash": "a65469fd55bca7ff969a3e3d38809a1a7488dea6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145728$A72ADDE1-EC3E-453F-A0BC-837AC240BF87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145728$D6145FF3-E2EE-4999-B638-5CB943DB72E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145728$31F122D1-F72C-450C-B744-CC431B27DB2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145729",
+              "numeric-id": 145729
+            }
+          },
+          "hash": "25d4159bce9cd94e5fa58e2dbac1ae9dd0484170",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145728$12FAE131-5DE5-4D97-81FB-759DE1795008",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150228",
+              "numeric-id": 150228
+            }
+          },
+          "hash": "cb0378b79fc7c7fea44c5b858fc3b00d30b0be7b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145728$3680A09D-B5E5-4CA2-9874-C336AC741158",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145728$07BF489E-8047-44CA-AECD-8582780D0F68",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1090-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94b17f56dd7e53642af9aedc8c2d6f0cfed5870a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145728$80B0C25E-2E2A-445C-B8E2-825FB452B420",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116055027"
+          },
+          "hash": "d441324a69b3f22a8643c53e9ea4f091d813fc54",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145728$DC572544-57A7-4A70-81EF-B5351E796415",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwilym ap Gwrwared Gerdd Gemell ap Cuhelyn Fardd ap Gwynfardd Dyfed Arms.svg"
+          },
+          "hash": "8ddda635fb49a51c48c71137c939da620ea6bd46",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1090 -"
+    }
+  },
+  "id": "Q145728",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Gwilym ap Gwrwared Gerdd Gemell ap Cuhelyn Fardd ap Gwynfardd Dyfed"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gwilym ap Gwrwared Gerdd Gemell ap Cuhelyn Fardd ap Gwynfardd Dyfed"
+    }
+  },
+  "lastrevid": 17569066,
+  "modified": "2025-09-17T14:37:36Z",
+  "ns": 860,
+  "pageid": 174113,
+  "sitelinks": {},
+  "title": "Item:Q145728",
+  "type": "item"
+}

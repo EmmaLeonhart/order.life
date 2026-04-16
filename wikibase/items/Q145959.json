@@ -1,0 +1,275 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thomas Bodenham, of Rotherwas"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145959$27A841F9-DE6C-4FB2-8B66-A464AD2AD7A7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738964"
+          },
+          "hash": "6dcc83025f48bbacc6246bf2dc624732c699e284",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145959$03934D82-E205-4FCB-9EA6-29165A0EC503",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150544",
+              "numeric-id": 150544
+            }
+          },
+          "hash": "cb53907f0364d93f0b39ab743bf781f8226a5cd7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145959$F2B8F5AF-EE81-47CB-89FC-9B0998849A9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150543",
+              "numeric-id": 150543
+            }
+          },
+          "hash": "2bc444a1b184284d809c9e67d8e67f49fc1d850b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145959$FE6D24A6-E6B3-4D57-9AF5-6A2CAE2A993D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145959$CFF00FE0-F018-4A09-99B7-EE2609470291",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145959$82CFA94E-AA1D-4687-B11F-C1A346BD618E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142795",
+              "numeric-id": 142795
+            }
+          },
+          "hash": "fbab75f4fb79933ee906ac65fd208dcc7b33b847",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145959$4BD18364-998F-423C-82C5-E2A19DE487C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150542",
+              "numeric-id": 150542
+            }
+          },
+          "hash": "c8961a9a31d1b16ba7a3c0592c283d2b8f32c2df",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145959$4C80D474-A2FD-4C0A-BEB0-DE3865C4E899",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145959$118008DB-0498-4085-A3A3-72072A3FCFD2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1539-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "538b5d1a808fdc36cadfa7771d6a7ad471324cb4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145959$5AB6E599-8F0C-47DA-BEF9-EFBEB4D20B73",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108912820"
+          },
+          "hash": "2ada343cb67d08b7f7902fb619443c233406ce9b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q145959$34EE2A45-C6EC-4785-B20D-17ECDF80CDB3",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Thomas Bodenham, of Rotherwas"
+          },
+          "hash": "79b354cfee263d5ce3e03bf603a4f6a966318ba3",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145959$8A36D948-DA05-472E-9DA3-6FB9A1AE3DE9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thomas Bodenham, of Rotherwas Arms.svg"
+          },
+          "hash": "4741cf452abf2d1125f42b51bb7ddd432de773b0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(died 1539)"
+    }
+  },
+  "id": "Q145959",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Thomas Bodenham, of Rotherwas"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Thomas Bodenham, of Rotherwas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thomas Bodenham, of Rotherwas"
+    }
+  },
+  "lastrevid": 17569528,
+  "modified": "2025-09-17T14:43:59Z",
+  "ns": 860,
+  "pageid": 174344,
+  "sitelinks": {},
+  "title": "Item:Q145959",
+  "type": "item"
+}

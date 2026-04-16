@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Morien ap Morgeneu ab Elystan ap Gwaithfoed"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144854$9FC20951-E2EE-4D0C-B358-9A0FB8EE15D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00751486"
+          },
+          "hash": "69589f1e23aab6437a285c2e6efea04bbd5b6f2c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144854$44570013-1762-4433-9E5B-F754F13874CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142126",
+              "numeric-id": 142126
+            }
+          },
+          "hash": "d4f098a719254039da63c3d63de25ae462e7f849",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q144854$55FF05E1-703A-454D-80E6-BD6B4D845C81",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Morgeneu-3"
+          },
+          "hash": "8d23f44db26e1cadd5b0bc9b87f5283fceadd7d5",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144854$3EA88838-121C-42CE-B61E-BD1F1C99D912",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144854$AEAADED6-9A09-4F78-A67F-689733416A49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144854$9D33C92A-DFE4-4D06-9140-47143E08B388",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144855",
+              "numeric-id": 144855
+            }
+          },
+          "hash": "a133d6ea6902132cc7045b07dafd93842884dbce",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144854$8F7EE909-7436-4D36-B48D-71D3BEFAEAF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148874",
+              "numeric-id": 148874
+            }
+          },
+          "hash": "ea1adef23e31d6dccfc07ee966d190f6f61ae40c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144854$B932CCEA-7463-40A1-BFAB-76A98AE4B155",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144854$519D4B6F-27BF-4B6A-93CF-EA33B3D50A63",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1015-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dae63500bf1fc2a43bccf73f5862da223a3482ce",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144854$C4A138F5-6635-4E35-9168-47F6BEB8AA64",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1094-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "436dafdb9d5202ea9e6d48dbe8bfed6a1f55fcdb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144854$872BCD95-CD9D-4649-97B6-5CBC0630209C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110152930"
+          },
+          "hash": "f31fa4ccc16536915799956ec3152d2ed940afdf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q144854$7F9B1860-F336-43AA-9DE0-3F7AEF1AA926",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Morien ap Morgeneu ab Elystan ap Gwaithfoed"
+          },
+          "hash": "acc0a3cf9c2bde9e5c28d9038c940b165ff88a74",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144854$ACA922B1-C8E1-443F-A2B2-3C85CA814FBF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Morien ap Morgeneu ab Elystan ap Gwaithfoed Arms.svg"
+          },
+          "hash": "9faaa0b337f7134b67eaa24d816a2cdadb4f04ff",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1015 - est. 1094"
+    }
+  },
+  "id": "Q144854",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Morien ap Morgeneu ab Elystan ap Gwaithfoed"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Morien ap Morgeneu ab Elystan ap Gwaithfoed"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Morien ap Morgeneu ab Elystan ap Gwaithfoed"
+    }
+  },
+  "lastrevid": 17567342,
+  "modified": "2025-09-17T14:12:51Z",
+  "ns": 860,
+  "pageid": 173239,
+  "sitelinks": {},
+  "title": "Item:Q144854",
+  "type": "item"
+}

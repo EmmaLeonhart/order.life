@@ -1,0 +1,321 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Aemilius Lepidus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q144279$E33ACA7B-CC47-43EC-9B66-44E029BE83C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72693",
+              "numeric-id": 72693
+            }
+          },
+          "hash": "3d58a64efe91f850c4801c4453630eb517f9b07e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144279$CCE1849A-40DE-4916-817B-F6B93339A13D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73011",
+              "numeric-id": 73011
+            }
+          },
+          "hash": "12ccba97958a46ed925ee1d98e9c971d6fe42056",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144279$19EEC08D-8B7B-480F-BF67-7BDFE9C101CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144279$EBC7DDC2-9D83-4020-8B29-6F5B88EBBD46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144279$6AF3098C-633A-42F4-9936-9046868C30F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148210",
+              "numeric-id": 148210
+            }
+          },
+          "hash": "db1088219c0c3afb85d82ba47703c577b7a15683",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144279$A58C1EFF-5ECA-4E29-8BA7-B4B4E908F369",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144279$0A130033-3825-417C-A808-3D4D6BCBBBEE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0210-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5ed754ae045d7f135a39c30a5cb679158e338fd4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144279$4A69AEE0-01B9-492F-8031-C6C9AB9A6C55",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0190-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c197ca5c5b2798a93214e7af8979473ff0dbcc6a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144279$DFA90F31-613A-48F0-8AB6-CFC8359B8486",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3625112"
+          },
+          "hash": "352cd27cbd9a2743e4c3215fef596fec268e6a24",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144279$FE7F79BA-41FE-4BA1-81DC-FC73D6C7A35D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Aemilius Lepidus Arms.svg"
+          },
+          "hash": "fc62be534080cc774f5e1dc87e9e3c3526f52052",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q144279$471DE8F2-8481-4FDB-9C6F-2CF6F607746B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/5F7D9959-82D6-4917-B3AD-ECD0672CDC49"
+          },
+          "hash": "d22ea9e664d44daf607acef7b889eac325605645",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "militar romà del 190 aC"
+    },
+    "en": {
+      "language": "en",
+      "value": "tribunus militum 190 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "tribuno militar en el año 190 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "tribun militaire en 190 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Oude Rome (210v Chr-190v Chr)"
+    }
+  },
+  "id": "Q144279",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Емилий Лепид"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Emili Lèpid"
+    },
+    "da": {
+      "language": "da",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Emilio Lépido"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Emilio Lepido"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Aemilius Lepidus (tribunus militum in 190 v.Chr.)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Эмилий Лепид"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcus Aemilius Lepidus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Емілій Лепід"
+    }
+  },
+  "lastrevid": 17566298,
+  "modified": "2025-09-17T13:57:13Z",
+  "ns": 860,
+  "pageid": 172664,
+  "sitelinks": {},
+  "title": "Item:Q144279",
+  "type": "item"
+}

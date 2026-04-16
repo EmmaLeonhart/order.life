@@ -1,0 +1,332 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maria Komnene"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143833$89FC6F13-8CD1-4845-8858-C608274B0656",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00799525"
+          },
+          "hash": "37043ae44a2f51cbf5ec22122f5315036ec10ee9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143833$216996FC-51CE-416F-91AC-CD5C0E5CD278",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147577",
+              "numeric-id": 147577
+            }
+          },
+          "hash": "d4f93ee92a904141bdb9842faa9780412e0aa9f5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143833$EC6B9E09-506D-486E-8847-11ECD702EC14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143833$DFECCA97-FB35-4D3A-907A-B701278F42A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143833$0E5527C7-287B-4DB7-96A8-1D8FC8C3204D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147575",
+              "numeric-id": 147575
+            }
+          },
+          "hash": "9a3a0fad6a36b43ea601e152bbcfbd1df4f7997c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143833$44F23DA6-E3DD-461E-A8F5-EB10CAB0041C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143826",
+              "numeric-id": 143826
+            }
+          },
+          "hash": "0ccd91cf05acefd4f55bd1c7909acd67bd4aa1ed",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143833$320F705D-ACC6-4C81-855B-8B8BC88BCB00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143827",
+              "numeric-id": 143827
+            }
+          },
+          "hash": "4c0719b6df9f30b10e78125ab63dc8315cbfce01",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143833$BB86BBCC-4B98-4DA4-A2DD-BE1FBE80D64F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143833$D57BC5AF-3FEF-4446-BA4D-651895BF996B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1044-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f005e10e2a834f094f23e7790cba4a5fc7ad02c2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143833$CA62535A-878E-4EF3-A3AB-0702D3E97248",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1136-08-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "90546375cc342e6164e5c4f55958b4be8b592726",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143833$FADB1919-F402-4499-976E-78FA691CA08C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q60036404"
+          },
+          "hash": "f4be50b9616b4612d3172f707d000b291580675e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143833$A479EABD-3C8D-45E4-9144-FBA0885494D1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria Komnene Arms.svg"
+          },
+          "hash": "00fce36c01e72cac03111e267d2d96eb1aeb2c67",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийска аристократка, сестра на император Алексий I Комнин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "(c.1044-1136) aristòcrata bizantina"
+    },
+    "el": {
+      "language": "el",
+      "value": "αδελφή Αλεξίου Α΄ Κομηνού και σύζυγος του Μιχαήλ Ταρωνίτη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine noblewoman, sister of emperor Alexios I Komnenos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sœur de l'empereur Alexis I Comnène"
+    },
+    "he": {
+      "language": "he",
+      "value": "אצילה ביזנטית, אחות הקיסר אלכסיוס הראשון קומננוס"
+    }
+  },
+  "id": "Q143833",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Мария Комнина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Maria Comnena"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρία Κομνηνή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maria Komnene"
+    },
+    "es": {
+      "language": "es",
+      "value": "Maria Komnene"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marie Comnène"
+    },
+    "he": {
+      "language": "he",
+      "value": "מריה קומננה"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maria Komnene"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мария Комнина"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Марија Комнин (сестра цара Алексија I Комнина)"
+    }
+  },
+  "lastrevid": 17565518,
+  "modified": "2025-09-17T13:46:11Z",
+  "ns": 860,
+  "pageid": 172218,
+  "sitelinks": {},
+  "title": "Item:Q143833",
+  "type": "item"
+}

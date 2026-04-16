@@ -1,0 +1,340 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Servilius Caepio"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144044$43BB2EEF-7A9C-4355-86A0-8A1C7226AEB6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716802"
+          },
+          "hash": "8d4370b9e32276dfe74d62024cbe5ad92d489cd7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144044$B82377E0-F36C-44D6-B35C-BBDA227DA6FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144044$FE1BC0F3-C2F3-4D62-B730-0B77018A8BA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q144044$D41CEC2F-6B30-4BA7-9EDA-4BEBDA23B8E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus_Servilius_Caepio_(2)"
+          },
+          "hash": "f3c5970d60a5d8a9b45173c40edae0814e09af31",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144044$A56D7FBE-A2B3-4B57-83FE-E893CC28076F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141383",
+              "numeric-id": 141383
+            }
+          },
+          "hash": "22af9e79d624ce0c9549e60d96eff0346dfaf9eb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144044$ABDF0DAB-F00F-44E9-8187-E93E261A3729",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72621",
+              "numeric-id": 72621
+            }
+          },
+          "hash": "9cc5d10c086aa98c12b235e960ecf9c61a928eb1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144044$A120A56F-D8F0-42D2-8255-44BACB9F6F51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72624",
+              "numeric-id": 72624
+            }
+          },
+          "hash": "91226dfcb9c87f3002c4229353a1b991562d80e4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144044$486E0E8F-7526-4DD5-B12F-76650639EAD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144044$97195FE6-7323-40EF-B400-F2883F16F1EA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0107-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d92b735bb07ea3ce02af6e6ff8cccf0ec7c4d058",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144044$BB5CEA26-6D10-4E61-A9A7-52C9B40E15C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q765997"
+          },
+          "hash": "449458556a21e7ca9f9ffd6b23012767f8b623c3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144044$0873C05D-8E57-4024-B11F-AACF23E382D8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Servilius Caepio Arms.svg"
+          },
+          "hash": "28cdbff5a651fc1ba800bfafa7886d76c51dc524",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker, Adoptivvater des Marcus Iunius Brutus"
+    },
+    "en": {
+      "language": "en",
+      "value": "uncle and adoptive father of Marcus Brutus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique et militaire romain"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "quaestor"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Oude Rome (97v Chr-67v Chr)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "morbror till Marcus Brutus"
+    }
+  },
+  "id": "Q144044",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Сервилий Цепион"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Servili Cepió"
+    },
+    "da": {
+      "language": "da",
+      "value": "Quintus Servilius Caepio"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Servilius Caepio"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Σερβίλιος Καιπίων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Servilius Caepio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Servilio Cepión"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Servilius Caepio"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quintus Servilius Caepio"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Servilio Cepione"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・セルウィリウス・カエピオ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Servilius Caepio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Servilius Caepio"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Servílio Cepião"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Servílio Cepião"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Сервилий Цепион"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Quintus Servilius Caepio"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Quintus Servilius Caepio"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Сервілій Цепіон"
+    }
+  },
+  "lastrevid": 17565906,
+  "modified": "2025-09-17T13:51:40Z",
+  "ns": 860,
+  "pageid": 172429,
+  "sitelinks": {},
+  "title": "Item:Q144044",
+  "type": "item"
+}

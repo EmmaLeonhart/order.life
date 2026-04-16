@@ -1,0 +1,423 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Arruntius Camillus Scribonianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144112$A3F6C032-6C40-466B-B519-30EF8C436031",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736026"
+          },
+          "hash": "ffb03b88b66af28584926d68b9d5a573a0e02072",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144112$DD7795FB-308D-4C7D-9348-51073D8EB800",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144219",
+              "numeric-id": 144219
+            }
+          },
+          "hash": "5ebfe5d3297f7928552aa31100d0aa6859f0df60",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144112$053DF55B-7006-4B80-B0D2-B1116DAB40D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144218",
+              "numeric-id": 144218
+            }
+          },
+          "hash": "7fef204628054604088c087aee568b950d1af065",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144112$94AAF5E5-7F92-4DF0-BA96-AE6A12BFFDAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144112$3DC34360-1325-4BB8-BEAA-A2F75198B7EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144112$6C1BF277-78BA-454B-950D-A97357FDFE15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141572",
+              "numeric-id": 141572
+            }
+          },
+          "hash": "f9985f8a7b56d3f4989e8a998898cf09a47d11ba",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144112$CC91C50D-3989-40BA-9331-BC46E5A333E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144110",
+              "numeric-id": 144110
+            }
+          },
+          "hash": "cb815c21c1718f5966e75fcf7b53e8b8d67b4007",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144112$F539DC4A-A064-4125-AA46-AF4B97042531",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141462",
+              "numeric-id": 141462
+            }
+          },
+          "hash": "07ac3017b60ea6038bbb7f2453f5fa37f20e7113",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144112$F3C3807F-0CC5-4C13-8344-61A58655B4CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144112$BFA2222C-4DC7-4B7C-B98C-04F38734347E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd2518e0a186c79fba27561cecab35c84933b097",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144112$03344C14-93EF-440B-8AC3-E112329CDB2B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0042-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "718e3561b0eda330b06f79b9f446322056f9fd33",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144112$1E0FD227-54A4-4C6D-8CE2-55FB98D51852",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q710717"
+          },
+          "hash": "0ac4b2272c8ed8c17b874781da06969542908d50",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144112$6CCDC175-5981-4BF0-A73E-56EC24734C2C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Arruntius Camillus Scribonianus Arms.svg"
+          },
+          "hash": "ae3ff14d46583ecd31fd4e8dccff438d4d3a5e28",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 32"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st-century Roman usurper"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "usurpateur romain, consul en 32"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "réimesche Senator"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (1v Chr-42)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "uzurpator, który próbował obalić cesarza Klaudiusza w 41 n.e."
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский государственный деятель, консул"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q144112",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Арунций Камил Скрибониан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Furi Camil Escribonià"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Arruntius Camillus Scribonianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Αρούντιος Κάμιλος Σκριβονιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Arruntius Camillus Scribonianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Camilo Arruncio Escriboniano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Arruntius Camillus Scribonianus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Camilo Arruntio Escriboniano"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Arrunzio Camillo Scriboniano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Arruntius Camillus Scribonianus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Lucius Arruntius Camillus Scribonianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Arruntius Camillus Scribonianus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lucjusz Arruntiusz Kamillus Skrybonianus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Arrúncio Camilo Escriboniano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Arrúncio Camilo Escriboniano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Аррунтий Камилл Скрибониан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lucije Aruncije Kamil Skribonijan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Arruntius Camillus Scribonianus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lucius Arruntius Camillus Scribonianus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Аррунцій Камілл Скрибоніан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "盧修斯•阿倫蒂烏斯•卡米盧斯•斯克里博尼亞努斯"
+    }
+  },
+  "lastrevid": 17566020,
+  "modified": "2025-09-17T13:53:18Z",
+  "ns": 860,
+  "pageid": 172497,
+  "sitelinks": {},
+  "title": "Item:Q144112",
+  "type": "item"
+}

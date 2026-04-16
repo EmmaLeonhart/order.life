@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William Martyn, Lord Camoys"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q145501$D0A57A63-EFC5-4C25-8AFB-E0CBC9942594",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Martin-4577"
+          },
+          "hash": "e0ce3004981e8818eb49384acecbc4bb2aab4f48",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145501$8C976BBE-7E3A-455A-8C5E-E312ACC32273",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145501$6B0ADEDC-FC7D-482D-8C00-CB649C3676FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145501$566D6EE1-4E13-4A42-BB98-F39DE56A083D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142454",
+              "numeric-id": 142454
+            }
+          },
+          "hash": "4565d5872efdb2c257ce60268b59f72bcbef7c4d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q145501$D9F4677F-A295-4F5F-A49B-A75C9D92B083",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p47145.htm#i471446"
+          },
+          "hash": "8180086a69479cdb671827e5e81adaa32df223d1",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145501$1D8FD432-2EDB-4FE2-A4D6-B3EC660BE937",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149987",
+              "numeric-id": 149987
+            }
+          },
+          "hash": "f41ad673d792d7ea772e13aaa650e4a2065bfdb4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145501$71FA1FFF-E6F8-4BBA-AF97-B9210DA18A41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149988",
+              "numeric-id": 149988
+            }
+          },
+          "hash": "a5feb884737e701b1bb7fd05fb007b10f1f315ac",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145501$F4154A9F-E460-4C7A-9B15-0A4336AC30BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145501$EC6E5A43-4C9E-46A5-8AE9-26B347DC095A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1293-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1d0b5b8a9e27378384e3399229f90143499d8606",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145501$92C136C0-E047-493B-B512-D9E1444A749E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76018791"
+          },
+          "hash": "f35f6704b427b668ad39719e8ff06167c9ed85e2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145501$EA2B04D3-CC05-4C32-9E0D-B214423874C7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William Martyn, Lord Camoys Arms.svg"
+          },
+          "hash": "f1b1bb6f0ef9253243f4240866e14c3c9aaa749b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=471446"
+    }
+  },
+  "id": "Q145501",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "William Martyn, Lord Camoys"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "William Martyn, Lord Camoys"
+    }
+  },
+  "lastrevid": 17568612,
+  "modified": "2025-09-17T14:31:14Z",
+  "ns": 860,
+  "pageid": 173886,
+  "sitelinks": {},
+  "title": "Item:Q145501",
+  "type": "item"
+}

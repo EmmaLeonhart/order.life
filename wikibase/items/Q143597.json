@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Moddan, Earl of Caithness"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q143597$0749346F-7D1B-44B4-BD9A-6EE1A9558112",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143597$B6ACD7B9-7718-45AB-BDF3-C1162CD989B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q143597$E36D4A07-B74D-4312-8FD5-05AD5E8030C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10769.htm#i107688"
+          },
+          "hash": "55e0a80fb8d6219e35be097c34e020706209c6df",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143597$7EECEE28-39B7-4E5A-A7F8-C6DF0A821149",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141075",
+              "numeric-id": 141075
+            }
+          },
+          "hash": "7255c5216a51cd61c8e99d3e0ba87796b9509b5b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143597$DBD6FD3C-CF8B-45AD-B4E2-B20B56DA544E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143597$4F325B29-0E72-484B-B90C-F12C9C966AA0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1040-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9db8c71a2e01f9de85aa68b2bb52035bf94eb80a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143597$796F8C54-7C38-44F1-8C5E-2695CA9D45C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75387768"
+          },
+          "hash": "993165a0fd6c9710196a27ee2cf7df1331bf7b26",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143597$BF786962-324B-41EB-BBF9-DAA043961E74",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003828029622"
+          },
+          "hash": "87f09af494bf8dd88263adc0d9ba6500229a02aa",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143597$27837A78-BC7E-41CD-B0EC-5590FE5A2306",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Moddan, Earl of Caithness Arms.svg"
+          },
+          "hash": "d6759607598074a9e16517f15e782c42e5d5c3ad",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=107688"
+    }
+  },
+  "id": "Q143597",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Moddan, Earl of Caithness"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Moddan, Earl of Caithness"
+    }
+  },
+  "lastrevid": 17565152,
+  "modified": "2025-09-17T13:41:00Z",
+  "ns": 860,
+  "pageid": 171982,
+  "sitelinks": {},
+  "title": "Item:Q143597",
+  "type": "item"
+}

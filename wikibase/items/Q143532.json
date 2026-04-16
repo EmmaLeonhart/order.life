@@ -1,0 +1,535 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ari Þorgilsson"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q143532$63CD9EBB-4B19-4250-A87D-97499DCC3796",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Þorgilsson-40"
+          },
+          "hash": "98f21537e951159b6d29aeddb647b94130323d65",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143532$E927B9AE-D841-4872-9E7C-0ED34051CEBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143532$D9F64ECF-DB16-4338-9305-ABF1C080F80C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143532$CCDA2073-0836-424E-ADF6-5C0830652BCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141010",
+              "numeric-id": 141010
+            }
+          },
+          "hash": "b47f9ded8c93546c30ad268fc3af9e8b67e0229b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143532$96B85038-9B4D-443D-987B-B609316230F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143532$E7B42EEC-266D-42F5-B6A0-EC1F5404F6A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1067-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "36bd222dae8458e8b2485aa2b230e96ae32c855b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143532$013D66C6-4307-4F46-8D58-76C0CDFF27CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1148-11-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d00fc4955a45ab9ed3cc2159da92ad34fc2d4ae9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143532$940D32A3-91C9-4B35-BAEC-37D6214B8CF5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q355194"
+          },
+          "hash": "472f3a5260c9c00b1010dc396f166cf8b24dff7a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143532$21818AF1-DEFE-48C8-8B2C-E11D9A67179C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "5391921570870136799"
+          },
+          "hash": "98a38c8af40e68262db7a6974dfe1a1dbd752797",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143532$EE97B0C4-3D3B-4173-84A8-FD6C93FC8D85",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ari Þorgilsson Arms.svg"
+          },
+          "hash": "37ce93c9dea9830a3e9287366b68515062adcccb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q143532$5FE69080-15C6-4AEF-BF0A-4425E6B80544",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/40059368-2DCF-48C5-A91D-69840B741115"
+          },
+          "hash": "64a59c9f147c26b92f433d32a69996b51d21fdbf",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كاتب آيسلندي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "مؤرخ من ايسلاندا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "escritor islandés"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "আইসল্যান্ডীয় লেখক"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "escriptor islandès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "středověký kronikář z Islandu"
+    },
+    "da": {
+      "language": "da",
+      "value": "islandsk historiker og skribent"
+    },
+    "de": {
+      "language": "de",
+      "value": "Islands erster Historiker (1067–1148)"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Icelandic writer"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Icelandic writer"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Icelandic writer"
+    },
+    "es": {
+      "language": "es",
+      "value": "escritor islandés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Islandi kirjanik"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "idazle islandiarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نویسنده آیسلندی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "islantilainen historioitsija ja pappi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "écrivain islandais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "scríbhneoir Íoslannach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "escritor islandés"
+    },
+    "he": {
+      "language": "he",
+      "value": "כרוניקן איסלנדי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "islandski pisac"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "izlandi történetíró"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "իսլանդացի պատմաբան, գրող"
+    },
+    "it": {
+      "language": "it",
+      "value": "scrittore e religioso islandese"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "islandsk historiker og skribent"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "IJslands schrijver"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "islandsk historikar og skribent"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "wódz islandzki, kronikarz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "escritor islandês"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "escritor islandês"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "scriitor islandez"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "shkrimtar islandez"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "isländsk historiker och författare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İzlandalı yazar ve kronikçi (1067-1148)"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Middlêewsche kroniekeschryvr uut Ysland"
+    }
+  },
+  "id": "Q143532",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "آرى اورجيلسون"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Ari Þorgilsson"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ари Торгилсон"
+    },
+    "br": {
+      "language": "br",
+      "value": "Ari Þorgilsson"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ari Þorgilsson"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ari Thorgilsson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ari fróði Þorgilsson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ari Þorgilsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ari Þorgilsson"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ari Þorgilsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ari Thorgilsson"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ari Þorgilsson"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ari Viisas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ari Þorgilsson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ari Þorgilsson"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ari Thorgilsson"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארי תורגילסון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ari Þorgilsson"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արի Իմաստուն"
+    },
+    "is": {
+      "language": "is",
+      "value": "Ari fróði Þorgilsson"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ari Þorgilsson"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アリ・ソルギルスソン"
+    },
+    "la": {
+      "language": "la",
+      "value": "Arius Polyhistor"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Are Torgilsson Frode"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ari Þorgilsson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Are Frode"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ari Þorgilsson"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ari Þorgilsson, O Sábio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ari, o Sábio"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ari Þorgilsson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ари Торгильссон"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ari Þorgilsson"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ari Þorgilsson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ari THorgilsson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ari Þorgilsson"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ari Þorgilsson"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Арі Торгільссон"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Ari Þorgilsson"
+    }
+  },
+  "lastrevid": 17565036,
+  "modified": "2025-09-17T13:39:22Z",
+  "ns": 860,
+  "pageid": 171917,
+  "sitelinks": {},
+  "title": "Item:Q143532",
+  "type": "item"
+}
