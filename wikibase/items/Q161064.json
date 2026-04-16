@@ -1,0 +1,219 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Ὑδάρνης"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Ὑδάρνης"
+      },
+      {
+        "language": "en",
+        "value": "Ὑδάρνης I"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q74189$E9D9D06A-5ACC-4A61-9097-EB0E50DDBCAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74123",
+              "numeric-id": 74123
+            }
+          },
+          "hash": "62944ae8fd043af6e981da93ca4b18b2aa9e5458",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74189$35D554F8-F2EF-4066-8763-C579EF1CFE98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74189$80220A62-3F29-4048-86E0-EEE392A05839",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74189$A138C321-C45A-497D-899F-6E9C7E18610F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74234",
+              "numeric-id": 74234
+            }
+          },
+          "hash": "976455bdb28d55fbeea62714a6e8d1a59bf63a82",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q74189$7F79E388-81A9-4D92-9C14-BE47D8EA1CD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74237",
+              "numeric-id": 74237
+            }
+          },
+          "hash": "1440553efc68281bc513833f0810fae24687a5c2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q74189$E7EA0810-840C-4154-A521-24C4454637A5",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "I"
+          },
+          "hash": "5a31c32a7858ab960a7ec9fb5b891ccc2ce7c604",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74189$85FEBA02-4AEB-46FC-A242-4BD8E8A67B40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74189$713FCAED-CC89-4D91-9509-CE3E53997700",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645908111"
+          },
+          "hash": "9d048c261e74dd2ff768d7a0bf7d288beb0a788b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74189$1A15F96E-CDB0-4ED8-9DBF-417D68C46038",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hydarnes Arms.svg"
+          },
+          "hash": "376c9252022699aed1ecf67d92cf837b6da6e3f0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q74189",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hydarnes"
+    }
+  },
+  "lastrevid": 17487036,
+  "modified": "2025-09-16T18:57:25Z",
+  "ns": 860,
+  "pageid": 89020,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q74189",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q74189"
+    }
+  },
+  "title": "Item:Q74189",
+  "type": "item"
+}

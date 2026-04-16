@@ -1,0 +1,519 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sadyattes"
+      },
+      {
+        "language": "en",
+        "value": "Sadyattes, king of Lydia"
+      },
+      {
+        "language": "en",
+        "value": "الملك سادياتّيس  بن الملك أرديس الثاني"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q74497$01355268-DEF5-4014-B085-1F749D10C6B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "96077"
+          },
+          "hash": "571db962de74f78576d5a0192e6158c40452923e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q74497$9FB98D7C-F6F6-4113-83CB-355B526541D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738285"
+          },
+          "hash": "2ef25ea6d87aacd79decbedaa4bb6b02f09f7ee5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q74497$6B9D1173-D39C-4AF9-A65F-ED8F089BB10D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74458",
+              "numeric-id": 74458
+            }
+          },
+          "hash": "210f056de83500f493012e52737c27ba834daacd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q74497$A06CC662-4F65-42A0-8C87-CC6E97F45ACB",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الملك سادياتّيس"
+            }
+          },
+          "hash": "aaeec45a191c31274e9a311e5feb75231099933a",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74497$E422B547-EC1D-4833-8121-0212EE67BC39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74497$83C9FF5C-1D13-4542-ADB5-59EDDE7E5AF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q74497$98C1C1E0-258F-441E-9722-2780A20BB8E7",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "بن الملك أرديس الثاني"
+            }
+          },
+          "hash": "63c9ee5e513e0e8bc07da9f922ab0e5b1ae9f3bf",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74497$F59A11CA-846F-4C77-9E06-331B95DCF700",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74542",
+              "numeric-id": 74542
+            }
+          },
+          "hash": "10607baf7b0263c2e0c3695f64346d4077c4ceb6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q74497$FDF1D631-0967-44C8-9891-E3801F1C36CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99482",
+              "numeric-id": 99482
+            }
+          },
+          "hash": "c1d5cb7a6bb0d4a7a5f69a18b1255ab31abd9fac",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q74497$76E8A4C0-31B3-41DF-8AB9-7C8A04AEE16F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الملك سادياتّيس /بن الملك أرديس الثاني/"
+            }
+          },
+          "hash": "feb925c65e1bb0d38c61cca2136cb8021d0b71b4",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74497$DC97E772-B34F-4FC7-9CD6-C6263A94A9DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q74497$3D8CAC08-5669-426D-9305-B7A9D0C0F971",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0700-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ead4b176d2f630cc476effcc8864a5df658a825e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q74497$B20C3A6C-C3A7-44B6-9A45-FD17295D9B17",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0617-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d5704708d5e0777ac601c6fe46559990c25ed60a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74497$983A6E1B-D1DA-4A14-B67E-E025DFDE6AB9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q374756"
+          },
+          "hash": "a25b196151d75263fb91bfe257c5bd30b6232604",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74497$C000DC2C-02A4-4C61-87B0-3E963D6BFC2E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002837444716"
+          },
+          "hash": "ca25abfda13df0de9616015322f47bf562e0f8db",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74497$ACA18C74-7291-46BF-9542-2BF6B5807E36",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007177954808"
+          },
+          "hash": "ff228dc36ad2655b0b0996d4b89b1a8374c0149d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74497$96EF5334-3D72-4248-8313-A1E4C7D76EAE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sadyattes Arms.svg"
+          },
+          "hash": "99399e3d8820abdd791eaaa45c69eee10f52cf59",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "lýdský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Lydien aus der Mermnaden-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "ancient king of Lydia"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך לידיה"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "リュディア王国ヘルムナデス朝第3代国王(在位B.C.629-B.C.617またはB.C.624-B.C.610)"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "keyê Lîdyayê"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Лидии"
+    }
+  },
+  "id": "Q74497",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "Sadiatt"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sadiates"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Sadyattes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sadyattes II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Σαδυάττης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sadyattes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sadiates II"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سادیاتس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sadyattès"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Σαδυάττης"
+    },
+    "he": {
+      "language": "he",
+      "value": "סאדיאטס"
+    },
+    "id": {
+      "language": "id",
+      "value": "Sadyates"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sadiatte II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "サデュアッテス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사디아테스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Sadiatês"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Sadiatês"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sadyattes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sadyattes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sadiates II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sadiates II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Садиатт"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sadijat"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Sadyattes"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Sadjat"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sadiati"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Садијат"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sadyattes"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sadyattes"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Садіатт"
+    }
+  },
+  "lastrevid": 17487434,
+  "modified": "2025-09-16T19:02:52Z",
+  "ns": 860,
+  "pageid": 89328,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q74497",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q74497"
+    }
+  },
+  "title": "Item:Q74497",
+  "type": "item"
+}

@@ -1,0 +1,366 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Manegold of Berg"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q153600$E003F20B-2CC0-4CC0-ABC3-2AD1920FC5FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q153600$08C72DB9-2D08-4406-922A-22DC69D39EFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q153600$C40208E5-E02E-43BB-AC43-3B94FFCC6554",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127986",
+              "numeric-id": 127986
+            }
+          },
+          "hash": "c8bfc841bdebf23d45556b6964c0cc19f940aa4e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q153600$7D548B7B-ED1E-46B7-89D6-6C395B1418FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143638",
+              "numeric-id": 143638
+            }
+          },
+          "hash": "ec86b58d6aefa694d7031b185498ad39ea5718ca",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q153600$20250313-CC07-46BB-A9B5-99AE54A04E78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q153600$A24297DA-8118-4A47-AC1A-EDDD3731273D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q153600$9235635A-6C33-442F-AE9D-07BC39E2340B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1215-06-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4be4194e33e0b362040ce0aa5c74727a6b533501",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q153600$8864CFE5-1EDA-489D-82D0-FB0F220B27EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109353"
+          },
+          "hash": "42dddb4744142f390f7977811c4d71ce215226b3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q153600$FD51F627-A7FC-4314-A7D4-20DA7381BEB7",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Karl Holzamer"
+          },
+          "hash": "452af8cb4c6f34d0713cdc47b21394dc647ec682",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q153600$5027AB3F-1AC2-4EF7-ABC9-4879C0799789",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Karl Holzamer Arms.svg"
+          },
+          "hash": "b69e2d01384cc4f89288b72228cc4b42a500f572",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "موظف حكومى من المانيا"
+    },
+    "da": {
+      "language": "da",
+      "value": "tysk professor"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Germany karimba ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "deutscher Philosoph, Pädagoge und Intendant des ZDF (1962 bis 1977)"
+    },
+    "en": {
+      "language": "en",
+      "value": "former director general of ZDF (1906–2007)"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "düütsch Politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits filosoof"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "professor académico alemão"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "tysk professor"
+    }
+  },
+  "id": "Q153600",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كارل هولزامير"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Karl Holzamer"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Karl Holzamer"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Karl Holzamer"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Karl Holzamer"
+    },
+    "da": {
+      "language": "da",
+      "value": "Karl Holzamer"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Karl Holzamer"
+    },
+    "de": {
+      "language": "de",
+      "value": "Karl Holzamer"
+    },
+    "en": {
+      "language": "en",
+      "value": "Karl Holzamer"
+    },
+    "es": {
+      "language": "es",
+      "value": "Karl Holzamer"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Karl Holzamer"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Karl Holzamer"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Karl Holzamer"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Karl Holzamer"
+    },
+    "it": {
+      "language": "it",
+      "value": "Karl Holzamer"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Karl Holzamer"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Karl Holzamer"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Karl Holzamer"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Karl Holzamer"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Karl Holzamer"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Karl Holzamer"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Karl Holzamer"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Karl Holzamer"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Karl Holzamer"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Karl Holzamer"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Karl Holzamer"
+    }
+  },
+  "lastrevid": 17582050,
+  "modified": "2025-09-17T17:38:50Z",
+  "ns": 860,
+  "pageid": 191953,
+  "sitelinks": {},
+  "title": "Item:Q153600",
+  "type": "item"
+}

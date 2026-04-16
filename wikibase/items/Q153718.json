@@ -1,0 +1,92 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "male"
+      },
+      {
+        "language": "en",
+        "value": "M"
+      },
+      {
+        "language": "en",
+        "value": "m"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q153718$687746CF-F399-4B0D-B24B-60C85BDF5443",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q153718$30FAFF40-7845-4751-AAF3-9F2128CFC9CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q153718$609C900F-B0DC-4910-9797-F5ED09CB0B01",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Male Arms.svg"
+          },
+          "hash": "62e741ac1bc6ee3dd608f71b1f474888d56339d5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q153718",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Male"
+    }
+  },
+  "lastrevid": 17582128,
+  "modified": "2025-09-17T17:39:53Z",
+  "ns": 860,
+  "pageid": 192007,
+  "sitelinks": {},
+  "title": "Item:Q153718",
+  "type": "item"
+}

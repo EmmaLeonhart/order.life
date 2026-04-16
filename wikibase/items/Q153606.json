@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sizzo I von Käfernburg"
+      },
+      {
+        "language": "en",
+        "value": "Sizzo I von Kafernburg"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q153606$234448D1-952E-43EF-9DE5-C1917FD4BD45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143821",
+              "numeric-id": 143821
+            }
+          },
+          "hash": "1e8b144a2a05aaa04442edb2bcaf2345c579a714",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q153606$E513BFF7-E615-48F2-A534-69C874118ACD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q153606$84278E75-135A-453A-8427-7C155350C012",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q153606$BDE4973E-A0AC-4DFB-8C72-91850507D470",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q153606$8A580E21-1E05-4CF4-A61A-3C73F5A76955",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q153606$6025141C-DA4A-49D0-8C7C-C4556141C9A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q44192418"
+          },
+          "hash": "b13ad40183afe23edc624346570b4fc8cb83c6f1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q153606$C87DF00E-C1A5-40E5-AEE0-C6E675EAD264",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sizzo I von Käfernburg Arms.svg"
+          },
+          "hash": "773e9e6064faf3b6a5576934b2b333d8cdd36e7d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Gaiad character"
+    }
+  },
+  "id": "Q153606",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Зицо I"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sizzo I von Käfernburg"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sizzo I von Käfernburg"
+    }
+  },
+  "lastrevid": 17582056,
+  "modified": "2025-09-17T17:38:56Z",
+  "ns": 860,
+  "pageid": 191959,
+  "sitelinks": {},
+  "title": "Item:Q153606",
+  "type": "item"
+}

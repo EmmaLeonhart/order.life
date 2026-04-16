@@ -1,0 +1,364 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Avidius Heliodorus"
+      },
+      {
+        "language": "en",
+        "value": "Gaius Avidus Heliodorus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q154088$9D6636BD-42BB-4661-A6D1-FF66B8D2B5A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735533"
+          },
+          "hash": "beacc5678c238528325f3a10e482ace1cfd30312",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q154088$1B68A407-236C-0648-D48E-9CD20EA32725",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148243",
+              "numeric-id": 148243
+            }
+          },
+          "hash": "3396e648bed42403cf3e5a6e2bf3e0460615b62e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q154088$A9C3E464-B8F5-4EE3-9C16-3D218A477FF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148244",
+              "numeric-id": 148244
+            }
+          },
+          "hash": "2d628694ec76d725e9b80ec4b399f14bdf3cdfe4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q154088$68FDC22B-CD16-46D6-AEA7-D69494522983",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Heliodorus-1"
+          },
+          "hash": "258c4354f80251ea6a03a20c855f3c4c8178f535",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q154088$8B66E7F9-A034-420E-96DD-7EE1882EC136",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q154088$55E5680F-77A6-4B1B-A970-7B7BE986AB98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q154088$6b8c19bc-4086-3adc-7ed5-4d4c44a3dfb6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153800",
+              "numeric-id": 153800
+            }
+          },
+          "hash": "3b66e417f1e200d14b1e40ba27fab7789c815575",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q154088$A2D78A07-7E44-5CBB-920E-214DFFEA0554",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144329",
+              "numeric-id": 144329
+            }
+          },
+          "hash": "8c5b3e0a71d5ae4d5cd7c52d308f17149c5a6bc0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q154088$E7749845-FDAA-82D4-F175-7CAED5F15BC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q154088$482DBF9B-CFF3-4E6E-9DBE-FDA225294E94",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "582856e366fcabcc5587bed2fb844a804e05280f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q154088$D3698BE4-561A-4E38-ADA4-352F8B1AC2F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5517418"
+          },
+          "hash": "8d8749a3b42810fc573e4d1021fd2dab375d9da3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q154088$F040EE31-4993-4BD2-95D0-52784FF40A46",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Avidius Heliodorus Arms.svg"
+          },
+          "hash": "2c67a3894259e696b32f47a202a5003e82bf5a7f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rètor i polític del segle II dC"
+    },
+    "en": {
+      "language": "en",
+      "value": "2nd century Roman politician and prefect of Egypt"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préfet d'Égypte"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי רומי ופריפקטוס של מצרים במאה ה-2"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q154088",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Heliodor"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гай Авидий Хелиодор"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Avidi Heliodor"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Avidius Heliodorus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Αβίδιος Ηλιόδωρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Avidius Heliodorus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Avidio Heliodoro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Avidius Heliodorus"
+    },
+    "he": {
+      "language": "he",
+      "value": "גאיוס אווידיוס הליודורוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Avidio Eliodoro"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Avidius Heliodorus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Avidius Heliodorus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Avídio Heliodoro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Avídio Heliodoro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Авидий Гелиодор"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Авідій Геліодор"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "盖乌斯·阿维狄乌斯·赫利奥多鲁斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "盖乌斯·阿维狄乌斯·赫利奥多鲁斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蓋烏斯·阿維狄烏斯·赫利奧多魯斯"
+    }
+  },
+  "lastrevid": 17601810,
+  "modified": "2025-09-17T22:03:49Z",
+  "ns": 860,
+  "pageid": 202888,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q154088",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q154088"
+    }
+  },
+  "title": "Item:Q154088",
+  "type": "item"
+}
