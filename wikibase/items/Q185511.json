@@ -1,0 +1,661 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Caecilius Metellus Macedonicus Consul (143 BCE)"
+      },
+      {
+        "language": "en",
+        "value": "Quintus Caecilius Metellus Macedonicus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q72858$FA0A6989-A646-4F55-8CEE-AEC84F7D5739",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "455024"
+          },
+          "hash": "e82030274ed48097629a0dfd2c07e911f8c6bf4f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q72858$150305B6-CEDE-40F8-8F10-C8A81284FE7A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735442"
+          },
+          "hash": "2f23925994b66c1ea81f137d9e08a7ad0f6cfca7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72858$BAEDC3ED-BF4C-4FA3-8BE0-7FD98C2D51A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78534",
+              "numeric-id": 78534
+            }
+          },
+          "hash": "c5e7ec4abf61472dccf96ebfdfca3e84cc645f20",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72858$BD7FED87-764E-4CDD-9174-1CD985848E9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72687",
+              "numeric-id": 72687
+            }
+          },
+          "hash": "70e435f921b58f1b2e5079d6ea4e16437f06c492",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72858$05E75FC8-0AD1-476C-A2B3-4A35AB09DABB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78390",
+              "numeric-id": 78390
+            }
+          },
+          "hash": "8ad0bb8757d72c0e1c093d1c31f3e4c374b89d8d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72858$A7AAE88F-1A89-4F27-9938-44FE0ED411B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141404",
+              "numeric-id": 141404
+            }
+          },
+          "hash": "55b3dac99d04176865d7ef34f23f77ba52e4a674",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72858$547884DE-2920-4B69-991A-C89582EA02A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141402",
+              "numeric-id": 141402
+            }
+          },
+          "hash": "fe399736f6444f81b2107d8aa15d650537ad5747",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72858$FE03AB96-A06B-498D-98C4-E9177B360AF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141403",
+              "numeric-id": 141403
+            }
+          },
+          "hash": "691996cb0e86c124857e9a05d62b84a027af6df4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72858$8707ACF7-E166-45CB-ACCF-BDF6AD1A182B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139550",
+              "numeric-id": 139550
+            }
+          },
+          "hash": "f3e8b49b0b66956b1400a47e56424d775ddde1fd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72858$1227F516-95CB-40D3-A022-D2FE1D66F73D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141401",
+              "numeric-id": 141401
+            }
+          },
+          "hash": "ee79f3d95c44beb18b6c74dccd2f8aa952c20701",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72858$13E4AEE1-2791-4FEF-8F81-807B06C687A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72795",
+              "numeric-id": 72795
+            }
+          },
+          "hash": "48b1485356058f680ee15b5eb1474e629355a230",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72858$54D95981-0202-4807-81A5-878D06B2D956",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72858$39270F0A-E62F-42C5-AF13-279A36E8926A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72858$0099AF29-6EF6-4971-A2DA-17C41A029343",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus_Caecilius_Metellus_Macedonicus_(1)"
+          },
+          "hash": "089d3589bb2441c31355f5d4de6fbed496abfce8",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72858$AB16A8B3-AD10-491C-B48A-0F848A7AB6DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72861",
+              "numeric-id": 72861
+            }
+          },
+          "hash": "74089690ee155baee48610a534d9ff7c1dc29358",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72858$841EDB8B-572F-4D66-93B6-FF49BF049F3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72984",
+              "numeric-id": 72984
+            }
+          },
+          "hash": "05c0e333fcc40653ab8c3511e5f8ca0b2a0f6654",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72858$48E0568C-6D58-4DF3-B0F3-11999565E948",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144060",
+              "numeric-id": 144060
+            }
+          },
+          "hash": "1e4dd2eb279beaccb45afdf5da58cafde1f4fd3d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q72858$94336A72-8C5B-4E89-99ED-2538F83FCB73",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Consul (143 BCE)"
+          },
+          "hash": "c3d3249e8d0e52d16523cbc73c02b0b81d4c1e00",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72858$1A9EFFB1-D00F-4BB0-B985-28415ADDFB1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72858$6CAD082E-6259-4856-B31B-472E7CEC0C41",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72858$6946AF16-A559-4CB8-BE5E-1C5D5680DF62",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0115-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3acf3ed89c164a339f5a537086c60f40fb09de80",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72858$7BAC0872-8E42-4B83-A757-5E22AEB173DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q355768"
+          },
+          "hash": "57aeb777e7dea2b3de70e60b43629b877669ead3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72858$EBDFFB3B-252B-4552-A379-62120AD64A63",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008404700895"
+          },
+          "hash": "8120f7b6d33ad6fb8396c6c5c1ae33d2f10f351b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72858$9484F015-32FD-43E3-90A8-093DA9B20F3F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Caecilius Metellus Macedonicus Arms.svg"
+          },
+          "hash": "f3c6c9169f8c69d12a22c41df87f03d956381bee",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "římský konzul, vojevůdce a praetor"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "ancient Roman statesman and general"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin roomalainen poliitkko ja kenraali"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 143 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (200v Chr-115v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "starorimski državnik in general, konzul in cenzor"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q72858",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Цецилий Метел Македоник"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Cecili Metel Macedònic"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Quintus Caecilius Metellus Macedonicus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Caecilius Metellus Macedonicus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Καικίλιος Μέτελλος Μακεδονικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Caecilius Metellus Macedonicus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Cecilio Metelo Macedónico"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کوئینتوس کیسیلوس متلوس مقدونی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Quintus Caecilius Metellus Macedonicus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Caecilius Metellus Macedonicus"
+    },
+    "he": {
+      "language": "he",
+      "value": "קווינטוס קאיקיליוס מטלוס מקדוניקוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quintus Caecilius Metellus Macedonicus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Quintus Caecilius Metellus Macedonicus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Cecilio Metello Macedonico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・カエキリウス・メテッルス・マケドニクス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Caecilius Metellus Macedonicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Caecilius Metellus Macedonicus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kwintus Cecyliusz Metellus Macedoński"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Cecílio Metelo Macedônico"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Cecílio Metelo Macedônico"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Цецилий Метелл Македонский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kvint Cecilije Metel Makedonac"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Quintus Caecilius Metellus Macedonicus"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Quintus Caecilius Metellus Macedonicus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Цецилій Метелл Македонський"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "昆圖斯·卡埃基利烏斯·梅特魯斯·馬其頓尼庫斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "昆图斯·凯基利乌斯·梅特卢斯·马其顿尼库斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "昆圖斯·凱基利烏斯·梅特盧斯·馬其頓尼庫斯"
+    }
+  },
+  "lastrevid": 17485458,
+  "modified": "2025-09-16T18:35:10Z",
+  "ns": 860,
+  "pageid": 87689,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72858",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72858"
+    }
+  },
+  "title": "Item:Q72858",
+  "type": "item"
+}
