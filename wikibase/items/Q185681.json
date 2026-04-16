@@ -1,0 +1,306 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Marcius"
+      },
+      {
+        "language": "en",
+        "value": "Marcus Marcius, Rex Sacrorum"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q73608$D827F0C6-FC91-4388-82B3-87BB7E8A8BD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73488",
+              "numeric-id": 73488
+            }
+          },
+          "hash": "a0cc6b98ddeef46f3928ae893108cb625975eab1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73608$C60F2426-56D8-44B5-A0C5-525DE60C6FE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144259",
+              "numeric-id": 144259
+            }
+          },
+          "hash": "be867e5c8082ce6e88639c28e5869c381c366ec8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73608$665E9CA4-CD74-4863-ADCB-179CF7FA6082",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73608$45277DE0-19C0-4C46-BC44-EB9505740CEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73608$0AFA68F1-15C9-452D-BD2C-064F95300AA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73719",
+              "numeric-id": 73719
+            }
+          },
+          "hash": "edd9769ee8482261172c6f05f5802294ad4d02c9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q73608$DED852FF-24D1-4931-AAA6-45C11A556BDA",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Rex Sacrorum"
+          },
+          "hash": "ad77b4f7d43e554ed459e19236ab00c1cea474ec",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73608$32082E39-CCA6-4CF3-A346-9DE3EA437E9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73608$8083597A-73B2-4A82-94CF-D5D6F8C108A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73608$221E6A20-50AC-40F5-A357-991723F4D520",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0210-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b2c81e748c19ffaca64ebb038d4b134e94d35e92",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73608$9F422C44-AD45-4232-8842-655550D6C35E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q94523629"
+          },
+          "hash": "e724dd6333a5ce7374e230e971cc493ec0aab297",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73608$7540CCF4-B7FC-4BB4-AED6-54CEA347CBF5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000014477321814"
+          },
+          "hash": "7ab9f99bc5842eb1f747b520f8a30ebd1e22eeb0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73608$05182F19-3926-4736-83B7-CBEF74F8B350",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Marcius Arms.svg"
+          },
+          "hash": "4c60966d2d6ec8c81d3fe2c51bfc4009217c4415",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Rex Sacrorum 250 to 210 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "rex sacrorum"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "rex sacrorum romain entre 250 et 210 AEC"
+    }
+  },
+  "id": "Q73608",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Marcus Marcius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Marcius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Marcio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Marcius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Marcio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Marcius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Марций"
+    }
+  },
+  "lastrevid": 17486396,
+  "modified": "2025-09-16T18:48:22Z",
+  "ns": 860,
+  "pageid": 88439,
+  "sitelinks": {},
+  "title": "Item:Q73608",
+  "type": "item"
+}

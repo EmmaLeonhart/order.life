@@ -1,0 +1,196 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q99404$4947023B-00B9-40F1-B236-9643D4AC97B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99388",
+              "numeric-id": 99388
+            }
+          },
+          "hash": "8c91b95a666e351adf42fb4b150c65837ce678eb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q99404$4D2401DE-40AB-45EA-9F61-BA49927C581F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Gaius"
+            }
+          },
+          "hash": "81cba1f8511794fa273631ec9ec552b466ccfcbf",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q99404$E3BAB82A-2E6B-4CBF-9B91-5F6A725B0C73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99404$ABCBCDF5-7A22-45A6-9FFF-5F84C7D6CFC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q99404$FBAF60DD-7597-4BF2-94E9-AD69EC076B04",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Laelius"
+            }
+          },
+          "hash": "94cafd85f2adea3f5099c6d4f193a81126b22edc",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99404$EFCDF5A1-D235-4262-B2BD-149F43979CF5",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Gaius /Laelius/"
+            }
+          },
+          "hash": "d90dcb8fc494ecb2fdb41d01e7334fd95fb5652b",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q99404$D6C88291-D9CB-4A4B-A8A5-D8636D39FE77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99404$58EB8E31-2398-431B-BB4F-67C64EF60767",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000030478362042"
+          },
+          "hash": "afcf423206c07e7ee0e055ffbc77c69199db2a67",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q99404$17447227-3E73-4A04-9250-76177CF05871",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius  Laelius Arms.svg"
+          },
+          "hash": "d611eeac96d8c3816fdf8dd023bdfe922acc02a7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q99404",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gaius  Laelius"
+    }
+  },
+  "lastrevid": 17514109,
+  "modified": "2025-09-17T01:20:07Z",
+  "ns": 860,
+  "pageid": 116743,
+  "sitelinks": {},
+  "title": "Item:Q99404",
+  "type": "item"
+}
