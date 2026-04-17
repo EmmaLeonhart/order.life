@@ -73,8 +73,16 @@ zone — the modern age is already starting. Events to place:
 | 221 | 25          | Thursday  | ← already written (1453)
 
 Ten chapters is generous. The Renaissance gets breathing room to
-be more than a single chapter — it can spread across several of
-these, interwoven with the other late-medieval events.
+be more than a single chapter — it spreads across several of these,
+interwoven with the other late-medieval events.
+
+**The Renaissance should FEEL like the Renaissance.** After the
+Black Death (Good Friday) and the stresses of the Mongol era, the
+Renaissance chapters should feel like spring — a time where stuff
+can happen again, a time of growth after compression. This is a
+tonal decision, not just a content one. The Renaissance isn't a
+single event to be noted; it's an atmosphere that pervades several
+chapters. Probably 3-4 chapters carry Renaissance texture.
 
 ## The approach-to-1453 thesis
 
