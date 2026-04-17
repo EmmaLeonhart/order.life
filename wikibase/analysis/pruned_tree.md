@@ -1,0 +1,1850 @@
+# Pruned Lineage Tree from Adam Y Chromosomal Adam
+
+Root: **Adam Y Chromosomal Adam** (Q152973) — 42143 total descendants
+
+Nodes shown: 1728 (of 42144 reachable)
+
+Min descendants to expand: 3
+
+## Major Branch Points
+
+- **Adam Y Chromosomal Adam** (Q152973) forks into:
+  - A0-T (Q1137) — 41998 desc
+  - Seth (Q134747) — 35817 desc
+  - Azura (Q134748) — 35817 desc
+  - Haplogroup A0-T (Q16001278) — 109 desc
+- **CT** (Q1158) forks into:
+  - CF (Q1160) — 39511 desc
+  - DE (Q1161) — 36600 desc
+- **Haplogroup F** (Q1165) forks into:
+  - HIJK (Q1167) — 39497 desc
+  - George Haplogroup G (Q152981) — 57 desc
+- **Keleth K** (Q152983) forks into:
+  - MNOPS (Q1174) — 39419 desc
+  - Letho LT (Q152985) — 52 desc
+- **MNOPS** (Q1174) forks into:
+  - MPS (Q1178) — 35523 desc
+  - Nordicus NO (Q152987) — 7768 desc
+- **Manu  Haplogroup R1a** (Q28469) forks into:
+  - Indo European languages (Q2380) — 34665 desc
+  - Q52540 (Q52540) — 34660 desc
+  - Anatolian Languages (Q2370) — 29457 desc
+- **Indo European languages** (Q2380) forks into:
+  - South Indo European Languages (Q2419) — 34643 desc
+  - Q52697 (Q52697) — 34641 desc
+- **South Indo European Languages** (Q2419) forks into:
+  - Indo-Aryan (Q2488) — 34568 desc
+  - Q52982 (Q52982) — 34566 desc
+  - Helleno-Armenian (Q2469) — 71 desc
+  - Q52896 (Q52896) — 67 desc
+- **Indo-Aryan** (Q2488) forks into:
+  - Q53050 (Q53050) — 32244 desc
+  - Iranic (Q2505) — 32244 desc
+  - Indic (Vedic) (Q2496) — 5687 desc
+  - Q53014 (Q53014) — 5687 desc
+- **Q53050** (Q53050) forks into:
+  - Aryan Genarch Generation 55 (Q153052) — 32242 desc
+  - Aryan  Genarch (Q51655) — 32187 desc
+- **Midian  Raja Iran** (Q29180) forks into:
+  - Dora Sharoob (Q2445) — 32158 desc
+  - Q52800 (Q52800) — 32156 desc
+  - Hanoch  Raja Iran (Q29176) — 31894 desc
+  - Q52741 (Q52741) — 31893 desc
+- **Dora Sharoob** (Q2445) forks into:
+  - Ererch \ Rajan  Rajan ? (Q29232) — 31900 desc
+  - Q52796 (Q52796) — 31899 desc
+  - Rak (Q2446) — 254 desc
+  - Q52804 (Q52804) — 253 desc
+- **Ererch \ Rajan  Rajan ?** (Q29232) forks into:
+  - Niaajem (Q2443) — 31898 desc
+  - Q52792 (Q52792) — 31897 desc
+- **Niaajem** (Q2443) forks into:
+  - Vaedesht (Q2442) — 31896 desc
+  - Q52788 (Q52788) — 31895 desc
+- **Vaedesht** (Q2442) forks into:
+  - Spitama (Q2441) — 31892 desc
+  - Q52784 (Q52784) — 31891 desc
+  - Spitama (Q51592) — 31890 desc
+- **Spitama** (Q2441) forks into:
+  - Hardaar (Q2440) — 31890 desc
+  - Q52780 (Q52780) — 31889 desc
+- **Hardaar** (Q2440) forks into:
+  - Arej  Darshane (Q29212) — 31888 desc
+  - Q52776 (Q52776) — 31887 desc
+- **Arej  Darshane** (Q29212) forks into:
+  - Petirasp  Spitama (Q29208) — 31886 desc
+  - Q52772 (Q52772) — 31885 desc
+- **Petirasp  Spitama** (Q29208) forks into:
+  - Chakhshnush  Spitama (Q29204) — 31884 desc
+  - Q52768 (Q52768) — 31883 desc
+- **Q52788** (Q52788) forks into:
+  - Spitama (Q2441) — 31892 desc
+  - Spitama (Q51592) — 31890 desc
+- **Rak** (Q2446) forks into:
+  - Frasht (Q2448) — 244 desc
+  - Q52812 (Q52812) — 243 desc
+- **Frasht** (Q2448) forks into:
+  - Urvat-Ga (Q2450) — 242 desc
+  - Q52820 (Q52820) — 241 desc
+- **Urvat-Ga** (Q2450) forks into:
+  - Frashta-ka (Q2452) — 240 desc
+  - Q52828 (Q52828) — 239 desc
+- **Q52800** (Q52800) forks into:
+  - Ererch \ Rajan  Rajan ? (Q29232) — 31900 desc
+  - Rak (Q2446) — 254 desc
+- **Hanoch  Raja Iran** (Q29176) forks into:
+  - Agairnasuak  Raja Iran (Q29172) — 31892 desc
+  - Q52737 (Q52737) — 31891 desc
+- **Agairnasuak  Raja Iran** (Q29172) forks into:
+  - auzobo  Raja Iran (Q29168) — 31890 desc
+  - Q52733 (Q52733) — 31889 desc
+- **auzobo  Raja Iran** (Q29168) forks into:
+  - kay kavadh  Raja Iran (Q29160) — 31888 desc
+  - Q52725 (Q52725) — 31887 desc
+- **kay kavadh  Raja Iran** (Q29160) forks into:
+  - kay apiveh  Raja Iran (Q29156) — 31886 desc
+  - Q52721 (Q52721) — 31885 desc
+- **kay apiveh  Raja Iran** (Q29156) forks into:
+  - Q52717 (Q52717) — 31884 desc
+  - kay arsh  Raja Iran (Q29152) — 31884 desc
+  - kay kaus  Raja Iran (Q29140) — 31878 desc
+  - Q52705 (Q52705) — 31876 desc
+- **kay uyarsh  Raja Iran** (Q29144) forks into:
+  - kay pisan  Raja Iran (Q29148) — 31883 desc
+  - Q52713 (Q52713) — 31883 desc
+  - kay kaus  Raja Iran (Q29140) — 31878 desc
+  - Q52705 (Q52705) — 31876 desc
+- **kay pisan  Raja Iran** (Q29148) forks into:
+  - Q52709 (Q52709) — 31883 desc
+  - kay uyarsh  Raja Iran (Q29144) — 31883 desc
+- **kay kaus  Raja Iran** (Q29140) forks into:
+  - Kay Lohrasp (aurvataspa)  Raja Iran (Q29100) — 31872 desc
+  - Q52665 (Q52665) — 31871 desc
+- **kay arsh  Raja Iran** (Q29152) forks into:
+  - Q52709 (Q52709) — 31883 desc
+  - kay uyarsh  Raja Iran (Q29144) — 31883 desc
+- **Q52709** (Q52709) forks into:
+  - kay pisan  Raja Iran (Q29148) — 31883 desc
+  - kay kaus  Raja Iran (Q29140) — 31878 desc
+- **Q52721** (Q52721) forks into:
+  - kay arsh  Raja Iran (Q29152) — 31884 desc
+  - kay kaus  Raja Iran (Q29140) — 31878 desc
+- **Iranic** (Q2505) forks into:
+  - Aryan Genarch Generation 55 (Q153052) — 32242 desc
+  - Aryan  Genarch (Q51655) — 32187 desc
+- **Creator BRAHMA** (Q1952) forks into:
+  - Svayambhuva MANU aka Prajapati Panchajana  1st Man (Q153407) — 5653 desc
+  - KARDAMA (Q1954) — 5631 desc
+  - YA (Q2152) — 5630 desc
+  - KA (Q2151) — 5630 desc
+  - unknown (Q130322) — 5620 desc
+  - Marichi (Q1939) — 5603 desc
+  - DAKSHA (Q2163) — 5481 desc
+  - Q153540 (Q153540) — 4771 desc
+  - BHRIGU (Q2159) — 4769 desc
+  - ANGIRA aka ANGIRASA Brahma (Q153516) — 4768 desc
+  - JAHNU (Q2183) — 4108 desc
+- **Svayambhuva MANU aka Prajapati Panchajana  1st Man** (Q153407) forks into:
+  - DEVAHUTI Kardama (Q153398) — 5631 desc
+  - UTTANAPADA Manu (Q153503) — 5614 desc
+  - PRASUTI Daksha (Q153532) — 5481 desc
+  - PRIYAVRAT Manu (Q153488) — 4765 desc
+- **DEVAHUTI Kardama** (Q153398) forks into:
+  - KALA Marichi (Q153389) — 5603 desc
+  - ANASUYA Atri (Q153507) — 5482 desc
+  - ARUNDHATI Vasishta (Q153492) — 5479 desc
+  - KHYATI Bhrigu (Q153530) — 4769 desc
+  - SRADDHA Angirasa (Q153517) — 4768 desc
+- **Kashyapa** (Q1924) forks into:
+  - TVASTAR Kashyapa (Q153465) — 5601 desc
+  - Surya Sun God (Q1991) — 5601 desc
+  - SVARABHANU aka RAHU Danav (Q153499) — 5470 desc
+  - TAKSHAKA Dasarha (Q153445) — 3272 desc
+- **SANJNA \ Saranyu Saranyu Saranyu/** (Q153460) forks into:
+  - Yama Dharma King of Death (Q2035) — 5601 desc
+  - Vaivasvata Manu (Q29963) — 5562 desc
+- **Vaivasvata Manu** (Q29963) forks into:
+  - Ila-Ila (Male-Female alternate months) Budha (Q153508) — 5471 desc
+  - Q52548 (Q52548) — 4045 desc
+  - Ikshvaku (Q28982) — 4045 desc
+  - SUVARNA Suhotra (Q153453) — 3586 desc
+- **Q52548** (Q52548) forks into:
+  - KUKSHI  Ikshvaku (Q29092) — 3998 desc
+  - NIMI  Ikshvaku (Q28970) — 3759 desc
+- **Ikshvaku** (Q28982) forks into:
+  - KUKSHI  Ikshvaku (Q29092) — 3998 desc
+  - NIMI  Ikshvaku (Q28970) — 3759 desc
+- **Surya Sun God** (Q1991) forks into:
+  - Yama Dharma King of Death (Q2035) — 5601 desc
+  - Vaivasvata Manu (Q29963) — 5562 desc
+  - Tapati Placeholder surname (Q153417) — 3581 desc
+- **Kuru Placeholder surname** (Q153410) forks into:
+  - SUDHANU Kuru (Q153430) — 3270 desc
+  - Pratipa (Q1958) — 2091 desc
+- **YAYATI Nahusha** (Q153473) forks into:
+  - Yadu-Yadav (Q153469) — 4762 desc
+  - PURU Yayati (Q160942) — 4239 desc
+  - PURU Yayati (Q153569) — 4118 desc
+- **ANASUYA Atri** (Q153507) forks into:
+  - CHANDRA \ SOMA (Haoma), the moon-god Indu  SOMA (Haoma), the moon-god Indu \Atri (Q30007) — 5472 desc
+  - Q53579 (Q53579) — 5472 desc
+  - CHANDRA \ SOMA (Haoma), the moon-god Indu Atri Atri Atri Atri Atri Atri Atri SOMA (Haoma), the moon-god Indu (Q153521) — 5472 desc
+  - SAHISNU (Q2112) — 4766 desc
+  - AKRITI (Q2109) — 4766 desc
+- **Yadu-Yadav** (Q153469) forks into:
+  - KROSHTU Yadu (Q161241) — 4415 desc
+  - KROSHTU  Yadu (Q28296) — 4235 desc
+  - Q52252 (Q52252) — 4234 desc
+  - SAHASRAJIT Yadu (Q153464) — 2376 desc
+- **ARUNDHATI Vasishta** (Q153492) forks into:
+  - Nahusha (Q153479) — 5468 desc
+  - VIRAJA Nahusha (Q153480) — 5461 desc
+  - SHAKTI Vasishta (Q160514) — 2038 desc
+- **VYASA aka Krishnadvaipayana** (Q160463) forks into:
+  - PANDU Kuru (Q160434) — 1895 desc
+  - DHRITARASHTRA (Q169648) — 136 desc
+- **Pushparnan** (Q2075) forks into:
+  - Vyushtan (Q2066) — 5606 desc
+  - Vyushtan (Q50319) — 5606 desc
+- **PRASUTI Daksha** (Q153532) forks into:
+  - MURTI Dharma (Q153523) — 5472 desc
+  - SVADHA Pitras (Q153538) — 4770 desc
+- **KARDAMA** (Q1954) forks into:
+  - KALA Marichi (Q153389) — 5603 desc
+  - ANASUYA Atri (Q153507) — 5482 desc
+  - ARUNDHATI Vasishta (Q153492) — 5479 desc
+  - KHYATI Bhrigu (Q153530) — 4769 desc
+  - SRADDHA Angirasa (Q153517) — 4768 desc
+- **YA** (Q2152) forks into:
+  - Q50617 (Q50617) — 5622 desc
+  - Placeholder surname Esquire (Q153705) — 5622 desc
+  - unknown (Q130322) — 5620 desc
+- **Q50617** (Q50617) forks into:
+  - Q50544 (Q50544) — 5614 desc
+  - Q50705 (Q50705) — 4770 desc
+- **Placeholder surname Esquire** (Q153705) forks into:
+  - Placeholder surname? (Q153674) — 5614 desc
+  - Placeholder surname (Q153714) — 4770 desc
+- **unknown** (Q130322) forks into:
+  - DHRUVA Uttanapada (Q153494) — 5613 desc
+  - DHATA (Q153520) — 4768 desc
+- **KA** (Q2151) forks into:
+  - Q50613 (Q50613) — 5622 desc
+  - Lord  Placeholder surname (Q153692) — 5622 desc
+  - unknown (Q130322) — 5620 desc
+- **Q50613** (Q50613) forks into:
+  - Q50544 (Q50544) — 5614 desc
+  - Q50705 (Q50705) — 4770 desc
+- **Lord  Placeholder surname** (Q153692) forks into:
+  - Placeholder surname? (Q153674) — 5614 desc
+  - Placeholder surname (Q153714) — 4770 desc
+- **DAKSHA** (Q2163) forks into:
+  - MURTI Dharma (Q153523) — 5472 desc
+  - SVADHA Pitras (Q153538) — 4770 desc
+- **Q153540** (Q153540) forks into:
+  - Q50669 (Q50669) — 4769 desc
+  - Placeholder surname (Q153713) — 4769 desc
+- **Q52982** (Q52982) forks into:
+  - Iranic (Q2505) — 32244 desc
+  - Indic (Vedic) (Q2496) — 5687 desc
+- **Helleno-Armenian** (Q2469) forks into:
+  - Q52950 (Q52950) — 63 desc
+  - Greek (Q2480) — 63 desc
+- **Q52697** (Q52697) forks into:
+  - Indo-Aryan (Q2488) — 34568 desc
+  - Helleno-Armenian (Q2469) — 71 desc
+- **Sinitic O2a2b1a2 (F114)** (Q54433) forks into:
+  - You Xiong (Q51954) — 7683 desc
+  - (You Xiong)  Youxiong (Q87862) — 7683 desc
+- **Shaodian** (Q6421) forks into:
+  - Generation 2 (Q87856) — 7682 desc
+  - Yellow Emperor (Q6420) — 7651 desc
+- **Yellow Emperor** (Q6420) forks into:
+  - Shaohao (Q6429) — 6117 desc
+  - Changyi (Q6430) — 1649 desc
+  - Ji Hui   Zhang (Q52194) — 98 desc
+- **Shaohao** (Q6429) forks into:
+  - Jiaoji  descendant of the Yellow Emperor (Q87827) — 6115 desc
+  - Jiao Ji (Q6441) — 6115 desc
+- **Jiaoji  descendant of the Yellow Emperor** (Q87827) forks into:
+  - Emperor Ku (Q6453) — 6111 desc
+  - Emperor Ku  descendant of the Yellow Emperor (Q87823) — 6064 desc
+- **Emperor Ku** (Q6453) forks into:
+  -  (Q87821) — 5517 desc
+  - Qi  Hou Ji (Q52386) — 5517 desc
+  - Hou Ji (Q6478) — 5495 desc
+  - Xie of Shang (Q6480) — 871 desc
+  - Yao (Q6474) — 232 desc
+- **Emperor Ku  descendant of the Yellow Emperor** (Q87823) forks into:
+  -  (Q87821) — 5517 desc
+  - Qi  Hou Ji (Q52386) — 5517 desc
+  - Hou Ji (Q6478) — 5495 desc
+  - Xie of Shang (Q6480) — 871 desc
+- **Jiao Ji** (Q6441) forks into:
+  - Emperor Ku (Q6453) — 6111 desc
+  - Emperor Ku  descendant of the Yellow Emperor (Q87823) — 6064 desc
+- **Changyi** (Q6430) forks into:
+  - Zhuanxu (Q6445) — 1569 desc
+  - Gao Yang Gao Yang (Q52242) — 106 desc
+  - Zhuan Xu   Ji (Q52246) — 74 desc
+- **Zhuanxu** (Q6445) forks into:
+  - Nu Xiu (Q51994) — 791 desc
+  - Qiong Chan (Q6455) — 236 desc
+  - ?, 4shi   4shi (Q52334) — 173 desc
+  - Cheng (Q52294) — 130 desc
+  - Gun (Q6459) — 105 desc
+  - Juan Zhang Juan Zhang   Ji Ji (Q52338) — 73 desc
+- **Bo Yi Bo Yi** (Q52054) forks into:
+  - En Cheng En Cheng (Q52074) — 605 desc
+  - Ruomu (Q52078) — 180 desc
+- **George Haplogroup G** (Q152981) forks into:
+  - 1  Haplogroup G (Q29758) — 55 desc
+  - Q53330 (Q53330) — 54 desc
+- **1  Haplogroup G** (Q29758) forks into:
+  - 2  Haplogroup G (Q29762) — 53 desc
+  - Q53334 (Q53334) — 52 desc
+- **2  Haplogroup G** (Q29762) forks into:
+  - 3  Haplogroup G (Q29778) — 51 desc
+  - Q53350 (Q53350) — 50 desc
+- **North Afrasian** (Q55629) forks into:
+  - Hashim  Semitic (Q55673) — 35988 desc
+  - African North Afrasian (Q55841) — 32384 desc
+- **Shem  Semitic Languages** (Q62671) forks into:
+  - Dumuzi  son of Shem, Central Semitic (Q70598) — 35858 desc
+  - Eber  South Semitic (Q47373) — 490 desc
+- **Eber  South Semitic** (Q47373) forks into:
+  - Qahtan  ibn 'Abin (Ruler) of Saba' (Q86685) — 384 desc
+  - QAHTAN  fondateur du royaume du Yemen (Q87291) — 104 desc
+- **African North Afrasian** (Q55841) forks into:
+  - Egyptian (Q55881) — 32228 desc
+  - Chado-Berber (Q55709) — 28723 desc
+- **Horus** (Q62656) forks into:
+  - 7  Pharaoh of Egypt (Q62653) — 32209 desc
+  - [...]pu  Pharaoh of Lower Egypt (Q62629) — 32209 desc
+- **Seth** (Q134747) forks into:
+  - Enos (Q134510) — 35815 desc
+  - Noam (Q134511) — 35815 desc
+- **Enos** (Q134510) forks into:
+  - Kenan (Q134022) — 35811 desc
+  - Mualeleth (Q134023) — 35811 desc
+- **Jared** (Q131418) forks into:
+  - Enoch (Q130380) — 35806 desc
+  - Azrial (Q130382) — 35805 desc
+- **Puzur-Ashur** (Q70442) forks into:
+  - Ishme-Dagan (Q70445) — 35712 desc
+  - Elam (Q129745) — 29627 desc
+- **Ur-Ninurta  The Amorite** (Q70463) forks into:
+  - Nahor (Q47345) — 35591 desc
+  - Sumuabum  King of Babylon (Q70466) — 31516 desc
+- **Terah** (Q129293) forks into:
+  - Abraham (Q85228) — 35544 desc
+  - Haran (Q86391) — 33163 desc
+  - Nahor (Q4675) — 33155 desc
+  - Sekhaenre Yakbim  Amorite Pharaoh (14th dynasty) (Q70565) — 31815 desc
+- **Abraham** (Q85228) forks into:
+  - Isaac (Q129309) — 33136 desc
+  - Ismail  Ancestor of the Arabs (Q85869) — 33039 desc
+- **Isaac** (Q129309) forks into:
+  - Jacob (Q85226) — 33027 desc
+  - Esau (Q85871) — 19574 desc
+- **Jacob** (Q85226) forks into:
+  - Dinah  daughter of Jacob (Q70568) — 31835 desc
+  - Joseph (Q85855) — 31834 desc
+  - Judah (Q85883) — 29626 desc
+  - Levi (Q85224) — 29234 desc
+- **Nubkheperre Intef** (Q85430) forks into:
+  - This line really does not make sense (Q85416) — 31549 desc
+  - Senakhtenre Ahmose Pharaoh of Egypt (Q195126) — 120 desc
+  - Senakhtenre Ahmose (Q85899) — 119 desc
+- **This line really does not make sense** (Q85416) forks into:
+  - Maatkare Princess of Egypt (Q195016) — 31517 desc
+  - Karomat A . (Q85412) — 31504 desc
+  - Tashedkhonsu . (Q85400) — 31501 desc
+  - Maatkare (Q85438) — 31478 desc
+- **Osorkon I Sekhemkheperre - Seteperre I Pharaoh of  Egypt** (Q85398) forks into:
+  - Hedjkheperre Setepenre Takelot I (Q85390) — 31500 desc
+  - Heqakheperre Setepenre Shoshenq II (Q85420) — 31477 desc
+- **Hedjkheperre Setepenre Takelot I** (Q85390) forks into:
+  - Ozorkon II Usermare Setepenamun "the Libyan" II "the Libyan", Pharaoh of  Pharaoh of Egypt (Q85374) — 31498 desc
+  - Karomat \ Karomama  Karomama ?Princess of Egypt (Q85392) — 31475 desc
+- **Senakhtenre Ahmose Pharaoh of Egypt** (Q195126) forks into:
+  - Seqenenre Tao Tao II Nomarch At . Pharaoh of Egypt (Q195370) — 116 desc
+  - Ahhotep I . . Queen of Egypt (Q195120) — 114 desc
+- **Seqenenre Tao Tao II Nomarch At . Pharaoh of Egypt** (Q195370) forks into:
+  - Nebpehtire Ahmose I Pharaoh of Egypt (Q195117) — 104 desc
+  - Ahmose-Nefertari Gods Wife Great Royal Wife, God's Wife of Amun (Q195118) — 102 desc
+- **Nebpehtire Ahmose I Pharaoh of Egypt** (Q195117) forks into:
+  - Djeserkare Amenhotep I . . Pharaoh of Egypt (Q195139) — 95 desc
+  - Mutnefert Queen of Egypt (Q195113) — 87 desc
+- **Ahmose-Nefertari Gods Wife Great Royal Wife, God's Wife of Amun** (Q195118) forks into:
+  - Djeserkare Amenhotep I . . Pharaoh of Egypt (Q195139) — 95 desc
+  - Mutnefert Queen of Egypt (Q195113) — 87 desc
+- **Ahhotep I . . Queen of Egypt** (Q195120) forks into:
+  - Nebpehtire Ahmose I Pharaoh of Egypt (Q195117) — 104 desc
+  - Ahmose-Nefertari Gods Wife Great Royal Wife, God's Wife of Amun (Q195118) — 102 desc
+- **Senakhtenre Ahmose** (Q85899) forks into:
+  - Seqenenre Tao Tao II Nomarch At (Q85907) — 115 desc
+  - Ahhotep I . (Q85913) — 113 desc
+- **Seqenenre Tao Tao II Nomarch At** (Q85907) forks into:
+  - Nebpehtire Ahmose I (Q85921) — 103 desc
+  - Ahmose-Nefertari Gods Wife (Q85923) — 101 desc
+- **Nebpehtire Ahmose I** (Q85921) forks into:
+  - Djeserkare Amenhotep I . (Q85951) — 94 desc
+  - Mutnefert (Q85961) — 86 desc
+- **Ahmose-Nefertari Gods Wife** (Q85923) forks into:
+  - Djeserkare Amenhotep I . (Q85951) — 94 desc
+  - Mutnefert (Q85961) — 86 desc
+- **Ahhotep I .** (Q85913) forks into:
+  - Nebpehtire Ahmose I (Q85921) — 103 desc
+  - Ahmose-Nefertari Gods Wife (Q85923) — 101 desc
+- **Amminadab  Tribe of Judah** (Q86507) forks into:
+  - Nahshon (Q38230) — 29388 desc
+  - Elisheba (Q86505) — 29192 desc
+- **Phinehas** (Q85214) forks into:
+  - Abishua  High Priest of Israel (Q85212) — 29144 desc
+  - Abishua (Q130360) — 67 desc
+- **Levi** (Q85224) forks into:
+  - Kehath  HaLevi (Q85222) — 29213 desc
+  - Jochebed (Q129590) — 29201 desc
+- **Bethuel** (Q38238) forks into:
+  - Rebecca (Q86387) — 33138 desc
+  - Laban (Q85889) — 33015 desc
+- **Rebecca** (Q86387) forks into:
+  - Jacob (Q85226) — 33027 desc
+  - Esau (Q85871) — 19574 desc
+- **Laban** (Q85889) forks into:
+  - Leah (Q85873) — 32989 desc
+  - Rachel (Q85884) — 31850 desc
+- **Leah** (Q85873) forks into:
+  - Dinah  daughter of Jacob (Q70568) — 31835 desc
+  - Judah (Q85883) — 29626 desc
+  - Levi (Q85224) — 29234 desc
+- **Noam** (Q134511) forks into:
+  - Kenan (Q134022) — 35811 desc
+  - Mualeleth (Q134023) — 35811 desc
+- **Azura** (Q134748) forks into:
+  - Enos (Q134510) — 35815 desc
+  - Noam (Q134511) — 35815 desc
+
+## Tree
+
+- **Adam Y Chromosomal Adam** (Q152973) — 42143 desc, 11 ch ⚭ Lilith, Eve
+  - **A0-T** (Q1137) — 41998 desc, 2 ch ⚭ Q30884
+    - **A1 (P305) formerly A1a-T, A0 and A1b** (Q1142) — 41996 desc, 2 ch ⚭ Q30888
+      - **A1b (P108) formerly A2-T** (Q1144) — 41994 desc, 2 ch ⚭ Q30892
+        - **BT (M91)** (Q1145) — 41981 desc, 2 ch ⚭ Q30896
+          - **CT** (Q1158) — 41979 desc, 2 ch ⚭ Q30900
+            - **CF** (Q1160) — 39511 desc, 2 ch ⚭ Q30904
+              - **Haplogroup F** (Q1165) — 39509 desc, 2 ch
+                - **HIJK** (Q1167) — 39497 desc, 2 ch
+                  - **IJK** (Q30913) — 39491 desc, 2 ch ⚭ Q30917
+                    - **Keleth K** (Q152983) — 39473 desc, 2 ch ⚭ Q30921
+                      - **MNOPS** (Q1174) — 39419 desc, 2 ch ⚭ Q30925
+                        - **MPS** (Q1178) — 35523 desc, 2 ch ⚭ Q30929
+                          - **Paikal Haplogroup P** (Q152990) — 35519 desc, 2 ch ⚭ Q30933
+                            - **Haplogroup R** (Q1186) — 35517 desc, 3 ch
+                              - **Haplogroup R1** (Q2318) — 35512 desc, 3 ch ⚭ Q51432
+                                - **Manu  Haplogroup R1a** (Q28469) — 35507 desc, 3 ch
+                                  - **Indo European languages** (Q2380) — 34665 desc, 8 ch ⚭ Q51516
+                                    - **South Indo European Languages** (Q2419) — 34643 desc, 4 ch
+                                      - **Indo-Aryan** (Q2488) — 34568 desc, 4 ch
+                                        - **Q53050** (Q53050) — 32244 desc, 2 ch
+                                          - **Aryan Genarch Generation 55** (Q153052) — 32242 desc, 1 ch
+                                            - **Iranic Ancestors Generation 54** (Q153051) — 32241 desc, 1 ch
+                                              - **Iranic Ancestors Generation 53** (Q153050) — 32240 desc, 1 ch
+                                                - **Iranic Ancestors Generation 52** (Q153049) — 32239 desc, 1 ch
+                                                  - **Iranic Ancestors Generation 51** (Q153048) — 32238 desc, 1 ch
+                                                    - **Iranic Ancestors Generation 50** (Q153047) — 32237 desc, 1 ch
+                                                      - **Iranic Ancestors Generation 49** (Q153046) — 32236 desc, 1 ch
+                                                        - **Iranic Ancestors Generation 48** (Q153045) — 32235 desc, 1 ch
+                                                          - **Iranic Ancestors Generation 47** (Q153044) — 32234 desc, 1 ch
+                                                            - **Iranic Ancestors Generation 46** (Q153043) — 32233 desc, 1 ch
+                                          - **Aryan  Genarch** (Q51655) — 32187 desc, 1 ch
+                                            - **Midian  Raja Iran** (Q29180) — 32186 desc, 4 ch
+                                              - **Dora Sharoob** (Q2445) — 32158 desc, 4 ch
+                                                - **Ererch \ Rajan  Rajan ?** (Q29232) — 31900 desc, 2 ch
+                                                  - **Niaajem** (Q2443) — 31898 desc, 2 ch
+                                                    - **Vaedesht** (Q2442) — 31896 desc, 3 ch
+                                                      - **Spitama** (Q2441) — 31892 desc, 2 ch
+                                                        - **Hardaar** (Q2440) — 31890 desc, 2 ch
+                                                          - **Arej  Darshane** (Q29212) — 31888 desc, 2 ch
+                                                            - **Petirasp  Spitama** (Q29208) — 31886 desc, 2 ch
+                                                            - **Q52772** (Q52772) — 31885 desc, 1 ch
+                                                          - **Q52776** (Q52776) — 31887 desc, 1 ch
+                                                            - *→ see Petirasp  Spitama (Q29208) above*
+                                                        - **Q52780** (Q52780) — 31889 desc, 1 ch
+                                                          - *→ see Arej  Darshane (Q29212) above*
+                                                      - **Q52784** (Q52784) — 31891 desc, 1 ch
+                                                        - *→ see Hardaar (Q2440) above*
+                                                      - **Spitama** (Q51592) — 31890 desc, 1 ch
+                                                        - **Hardaar** (Q51588) — 31889 desc, 1 ch
+                                                          - *→ see Arej  Darshane (Q29212) above*
+                                                    - **Q52788** (Q52788) — 31895 desc, 2 ch
+                                                      - *→ see Spitama (Q2441) above*
+                                                      - *→ see Spitama (Q51592) above*
+                                                  - **Q52792** (Q52792) — 31897 desc, 1 ch
+                                                    - *→ see Vaedesht (Q2442) above*
+                                                - **Q52796** (Q52796) — 31899 desc, 1 ch
+                                                  - *→ see Niaajem (Q2443) above*
+                                                - **Rak** (Q2446) — 254 desc, 3 ch
+                                                  - **Frasht** (Q2448) — 244 desc, 2 ch
+                                                    - **Urvat-Ga** (Q2450) — 242 desc, 2 ch
+                                                      - **Frashta-ka** (Q2452) — 240 desc, 2 ch
+                                                        - **Notarga** (Q2453) — 238 desc, 8 ch
+                                                          - **Shun** (Q6513) — 230 desc, 2 ch ⚭ Ehuang, Nüying
+                                                            - **Shangjun** (Q6515) — 228 desc, 1 ch
+                                                            - *leaves: Ji Li   Gui Gui*
+                                                          - *leaves: Vamun, Q52840, Q52836, Frana, Q52848 +2 more*
+                                                        - **Q52832** (Q52832) — 3 desc, 3 ch
+                                                      - **Q52828** (Q52828) — 239 desc, 1 ch
+                                                        - *→ see Notarga (Q2453) above*
+                                                    - **Q52820** (Q52820) — 241 desc, 1 ch
+                                                      - *→ see Frashta-ka (Q2452) above*
+                                                  - **Q52812** (Q52812) — 243 desc, 1 ch
+                                                    - *→ see Urvat-Ga (Q2450) above*
+                                                  - **Frasht** (Q51596) — 7 desc, 1 ch
+                                                    - **Urvat-Ga** (Q51628) — 6 desc, 1 ch
+                                                      - **Frashta-ka** (Q51632) — 5 desc, 1 ch
+                                                        - **Notarga** (Q51636) — 4 desc, 4 ch
+                                                          - *leaves: Vamun, Frana, Shun, Changranha*
+                                                - **Q52804** (Q52804) — 253 desc, 2 ch
+                                                  - *→ see Frasht (Q2448) above*
+                                                  - *→ see Frasht (Q51596) above*
+                                              - **Q52800** (Q52800) — 32156 desc, 2 ch
+                                                - *→ see Ererch \ Rajan  Rajan ? (Q29232) above*
+                                                - *→ see Rak (Q2446) above*
+                                              - **Hanoch  Raja Iran** (Q29176) — 31894 desc, 2 ch
+                                                - **Agairnasuak  Raja Iran** (Q29172) — 31892 desc, 2 ch
+                                                  - **auzobo  Raja Iran** (Q29168) — 31890 desc, 2 ch
+                                                    - **kay kavadh  Raja Iran** (Q29160) — 31888 desc, 2 ch
+                                                      - **kay apiveh  Raja Iran** (Q29156) — 31886 desc, 4 ch
+                                                        - **Q52717** (Q52717) — 31884 desc, 1 ch
+                                                          - **kay uyarsh  Raja Iran** (Q29144) — 31883 desc, 4 ch
+                                                            - **kay pisan  Raja Iran** (Q29148) — 31883 desc, 2 ch
+                                                            - **Q52713** (Q52713) — 31883 desc, 1 ch
+                                                            - **kay kaus  Raja Iran** (Q29140) — 31878 desc, 4 ch
+                                                            - **Q52705** (Q52705) — 31876 desc, 2 ch
+                                                        - **kay arsh  Raja Iran** (Q29152) — 31884 desc, 2 ch
+                                                          - **Q52709** (Q52709) — 31883 desc, 2 ch
+                                                            - *→ see kay pisan  Raja Iran (Q29148) above*
+                                                            - *→ see kay kaus  Raja Iran (Q29140) above*
+                                                          - *→ see kay uyarsh  Raja Iran (Q29144) above*
+                                                        - *→ see kay kaus  Raja Iran (Q29140) above*
+                                                        - *→ see Q52705 (Q52705) above*
+                                                      - **Q52721** (Q52721) — 31885 desc, 2 ch
+                                                        - *→ see kay arsh  Raja Iran (Q29152) above*
+                                                        - *→ see kay kaus  Raja Iran (Q29140) above*
+                                                    - **Q52725** (Q52725) — 31887 desc, 1 ch
+                                                      - *→ see kay apiveh  Raja Iran (Q29156) above*
+                                                  - **Q52733** (Q52733) — 31889 desc, 1 ch
+                                                    - *→ see kay kavadh  Raja Iran (Q29160) above*
+                                                - **Q52737** (Q52737) — 31891 desc, 1 ch
+                                                  - *→ see auzobo  Raja Iran (Q29168) above*
+                                              - **Q52741** (Q52741) — 31893 desc, 1 ch
+                                                - *→ see Agairnasuak  Raja Iran (Q29172) above*
+                                        - **Iranic** (Q2505) — 32244 desc, 2 ch
+                                          - *→ see Aryan Genarch Generation 55 (Q153052) above*
+                                          - *→ see Aryan  Genarch (Q51655) above*
+                                        - **Indic (Vedic)** (Q2496) — 5687 desc, 1 ch
+                                          - **India Genarch** (Q153405) — 5686 desc, 1 ch
+                                            - **Creator BRAHMA** (Q1952) — 5685 desc, 12 ch ⚭ Brahma's navel, Brahma's thumb, SARASVATI
+                                              - **Svayambhuva MANU aka Prajapati Panchajana  1st Man** (Q153407) — 5653 desc, 4 ch ⚭ SHATARUPA  Manu
+                                                - **DEVAHUTI Kardama** (Q153398) — 5631 desc, 5 ch ⚭ KARDAMA
+                                                  - **KALA Marichi** (Q153389) — 5603 desc, 1 ch ⚭ Marichi
+                                                    - **Kashyapa** (Q1924) — 5602 desc, 7 ch ⚭ Aditi Kashyapa, DANU Kashyapa, KADRU Kashyapa +1 more
+                                                      - **TVASTAR Kashyapa** (Q153465) — 5601 desc, 1 ch ⚭ Rachana
+                                                        - **SANJNA \ Saranyu Saranyu Saranyu/** (Q153460) — 5601 desc, 2 ch ⚭ Surya Sun God
+                                                          - **Yama Dharma King of Death** (Q2035) — 5601 desc, 1 ch ⚭ Shyamala
+                                                            - **SUNITA Anga** (Q153444) — 5601 desc, 1 ch ⚭ ANGA Ulmukha
+                                                          - **Vaivasvata Manu** (Q29963) — 5562 desc, 4 ch ⚭ Shraddha
+                                                            - **Ila-Ila (Male-Female alternate months) Budha** (Q153508) — 5471 desc, 1 ch ⚭ BUDHA (planet Mercury) Chandra
+                                                            - **Q52548** (Q52548) — 4045 desc, 2 ch
+                                                            - **Ikshvaku** (Q28982) — 4045 desc, 2 ch
+                                                            - **SUVARNA Suhotra** (Q153453) — 3586 desc, 1 ch ⚭ SUHOTRA \ VAITITHI Brihatkshatra Brihatkshatra Brihatkshatra Brihatkshatra Brihatkshatra Brihatkshatra Br, SUHOTRA \ VAITITHI  VAITITHI \Brihatkshatra, Q53530
+                                                      - **Surya Sun God** (Q1991) — 5601 desc, 3 ch ⚭ SANJNA \ Saranyu Saranyu Saranyu/, CHHAYA Savarna
+                                                        - *→ see Yama Dharma King of Death (Q2035) above*
+                                                        - *→ see Vaivasvata Manu (Q29963) above*
+                                                        - **Tapati Placeholder surname** (Q153417) — 3581 desc, 1 ch ⚭ Samvarana Placeholder surname
+                                                          - **Kuru Placeholder surname** (Q153410) — 3580 desc, 2 ch ⚭ Subhangi Placeholder surname, Vahini  Kuru
+                                                            - **SUDHANU Kuru** (Q153430) — 3270 desc, 1 ch
+                                                            - **Pratipa** (Q1958) — 2091 desc, 1 ch ⚭ Sunanda  Pratipa
+                                                      - **SVARABHANU aka RAHU Danav** (Q153499) — 5470 desc, 1 ch
+                                                        - **Prabha Ayu** (Q153490) — 5469 desc, 1 ch ⚭ AYU Pururavas
+                                                          - **Nahusha** (Q153479) — 5468 desc, 8 ch ⚭ VIRAJA Nahusha, VIRAJA Nahusha, ASHOKASUNDARI Shiva
+                                                            - **YAYATI Nahusha** (Q153473) — 5460 desc, 6 ch ⚭ DEVAYANI Yayati, DEVAYANI Shukra, SHARMISHTA Vrishaparva +1 more
+                                                            - *leaves: AYATI Nahusha, DHRUVA, SAMYATI Nahusha, Viyati, Yati +2 more*
+                                                      - **TAKSHAKA Dasarha** (Q153445) — 3272 desc, 1 ch
+                                                        - **Subhangi Placeholder surname** (Q153439) — 3271 desc, 1 ch ⚭ Kuru Placeholder surname
+                                                          - *→ see SUDHANU Kuru (Q153430) above*
+                                                      - **Jambha** (Q1931) — 48 desc, 1 ch
+                                                        - **KAYADU Hiranyakashipu** (Q153371) — 47 desc, 1 ch ⚭ HIRANYAKASHIPU Kashyapa
+                                                          - **PRAHLADA Hiranyakashipu** (Q153357) — 46 desc, 1 ch ⚭ DHRITI  Prahlada
+                                                            - **VIROCHANA Prahlada** (Q153345) — 45 desc, 1 ch ⚭ DEVAMBA  Virochana
+                                                      - **HIRANYAKASHIPU Kashyapa** (Q153370) — 47 desc, 1 ch ⚭ KAYADU Hiranyakashipu
+                                                        - *→ see PRAHLADA Hiranyakashipu (Q153357) above*
+                                                      - **INDRA SAKRA Kashyapa** (Q153367) — 40 desc, 1 ch ⚭ Kunti
+                                                        - **Arjuna** (Q49428) — 39 desc, 1 ch ⚭ Subhadra
+                                                          - **Abhimanyu** (Q153342) — 38 desc, 1 ch ⚭ Uttara of Matsya kingdom
+                                                            - **Парикшит Куру** (Q153330) — 37 desc, 1 ch ⚭ Madravati  Parikshit
+                                                  - **ANASUYA Atri** (Q153507) — 5482 desc, 5 ch
+                                                    - **CHANDRA \ SOMA (Haoma), the moon-god Indu  SOMA (Haoma), the moon-god Indu \Atri** (Q30007) — 5472 desc, 1 ch
+                                                      - **BUDHA (planet Mercury) Chandra** (Q153509) — 5471 desc, 1 ch ⚭ Ila-Ila (Male-Female alternate months) Budha
+                                                        - **PURURAVAS Budha** (Q153500) — 5470 desc, 1 ch ⚭ URVASHI Pururava
+                                                          - **AYU Pururavas** (Q153491) — 5469 desc, 1 ch ⚭ Prabha Ayu
+                                                            - *→ see Nahusha (Q153479) above*
+                                                    - **Q53579** (Q53579) — 5472 desc, 1 ch
+                                                      - *→ see BUDHA (planet Mercury) Chandra (Q153509) above*
+                                                    - **CHANDRA \ SOMA (Haoma), the moon-god Indu Atri Atri Atri Atri Atri Atri Atri SOMA (Haoma), the moon-god Indu** (Q153521) — 5472 desc, 1 ch ⚭ Tara
+                                                      - *→ see BUDHA (planet Mercury) Chandra (Q153509) above*
+                                                    - **SAHISNU** (Q2112) — 4766 desc, 1 ch
+                                                      - **PIVRI Vedashira** (Q153489) — 4765 desc, 1 ch ⚭ VEDASHIRA
+                                                        - **(planet Venus) Placeholder surname** (Q153478) — 4764 desc, 1 ch ⚭ URJASWATHI \ JAYANTHI Priyavrata Priyavrata/
+                                                          - **DEVAYANI Yayati** (Q153472) — 4763 desc, 1 ch ⚭ YAYATI Nahusha
+                                                            - **Yadu-Yadav** (Q153469) — 4762 desc, 9 ch
+                                                              - *leaves: PRASENAJIT Yadu, NILA Yadu, Laghu, Antika, RIPU Yadu*
+                                                    - **AKRITI** (Q2109) — 4766 desc, 1 ch ⚭ Vishwakarma
+                                                      - **BARHISHMATI Priyavrata** (Q153487) — 4765 desc, 1 ch ⚭ PRIYAVRAT Manu
+                                                        - **URJASWATHI \ JAYANTHI Priyavrata Priyavrata/** (Q153477) — 4764 desc, 1 ch ⚭ (planet Venus) Placeholder surname
+                                                          - *→ see DEVAYANI Yayati (Q153472) above*
+                                                  - **ARUNDHATI Vasishta** (Q153492) — 5479 desc, 10 ch ⚭ VASISHTA
+                                                    - *→ see Nahusha (Q153479) above*
+                                                    - **VIRAJA Nahusha** (Q153480) — 5461 desc, 1 ch ⚭ Nahusha
+                                                      - *→ see YAYATI Nahusha (Q153473) above*
+                                                    - **SHAKTI Vasishta** (Q160514) — 2038 desc, 1 ch ⚭ ADRUSHYANTI Shakti
+                                                      - **PARASHARA Shakti** (Q160493) — 2037 desc, 1 ch ⚭ SATYAVATI Matsyagandhi
+                                                        - **VYASA aka Krishnadvaipayana** (Q160463) — 2036 desc, 4 ch ⚭ Ambalika, Parishrami (Ambalika's Maid Servant), Ambika +1 more
+                                                          - **PANDU Kuru** (Q160434) — 1895 desc, 5 ch ⚭ KUNTI aka PREETHA Pandu, MADRI
+                                                            - **ARJUNA Partha Pandava** (Q160404) — 1864 desc, 13 ch ⚭ Citrahoyi, Subhadra, Krishna aka DRAUPADI Panchali Pandava +16 more
+                                                              - *leaves: Prabakusuma, Pergiwati, Wilugangga, BABHRUVAHANA of Manipur Arjuna, Wijanarka +7 more*
+                                                            - **BHIMA Vayuputra** (Q169531) — 12 desc, 6 ch ⚭ Krishna aka DRAUPADI Panchali Pandava, Sister of Shishuplala Wife of Bhima, VALANDHARA Bhima +4 more
+                                                              - *leaves: SARVAGAT Bhima, 1st son SHRUTASENA Bhima, SUTASOMA Bhima, Antasena Jayakatwang*
+                                                            - **SAHADEVA (twin) Asviniputra** (Q169602) — 5 desc, 5 ch ⚭ Krishna aka DRAUPADI Panchali Pandava, Sadarmi, Padmawati +2 more
+                                                              - *leaves: SRUTAKARMA \Srutakirti Srutakirti, NIRMITRA Sahadeva Pandava, SUHOTRA Sahadev, Bambang Widapaksa, Sabekti*
+                                                            - **NAKULA (twin) Asviniputra** (Q169601) — 5 desc, 5 ch ⚭ Krishna aka DRAUPADI Panchali Pandava, KARENUMATI Nakula, Srenggonowati +2 more
+                                                              - *leaves: Niramitra Nakula, SATANIKA Nakula, Dewi Sritanjung, Pramuwati, Pramusinta*
+                                                            - **YUDHISHTIRA Dharmaputra** (Q169532) — 4 desc, 4 ch ⚭ Krishna aka DRAUPADI Panchali Pandava, Dewi Drupadi, Dewi Kuntulwilaten +2 more
+                                                              - *leaves: Pancawala, Devak, PRATIVINDHYA Through Yudhishtira, Yaudheya YUDHISTHIRA*
+                                                          - **DHRITARASHTRA** (Q169648) — 136 desc, 131 ch ⚭ Dewi Ghandari, GANDHARI Dhritarashtra, SAUVALI (Vaishya maid servant) Dhritarashtra +1 more
+                                                            - **DURYODHANA aka Suyodhana Dhritarashtra** (Q169960) — 3 desc, 3 ch ⚭ BHANUMATI Kouravan
+                                                              - *leaves: DURMUKHA, LAKSHMAN KUMAR Duryodhana, LAKSHMANAA Duryodhani Samba*
+                                                            - **DUSSALA Jayadratha** (Q169963) — 1 desc, 1 ch ⚭ JAYADRATHA of Sindhu Vridhakshtra
+                                                              - *leaves: Suratha JAYADRATHA*
+                                                            - **DUSSHASANA Dhritarashtra** (Q170003) — 1 desc, 1 ch
+                                                              - *leaves: Person Q170321*
+                                                            - *leaves: DURMADA Dhritarashtra, Suvak, KUNDASI Dhritarashtra, SUBAHU Dhritarashtra, PASI Dhritarashtra +123 more*
+                                                          - **Vidura** (Q170102) — 1 desc, 1 ch ⚭ ARUNI Vidura
+                                                            - *leaves: SANJAYA Vidura*
+                                                          - *leaves: SHUKAdev Vyasa*
+                                                    - *leaves: Citraketu Vasistha, Dyuman Vasistha, Ulbana Vasistha, Pundrika, MITRA Vasistha +2 more*
+                                                  - **KHYATI Bhrigu** (Q153530) — 4769 desc, 1 ch ⚭ BHRIGU
+                                                    - **DHATA** (Q153520) — 4768 desc, 1 ch ⚭ AYATI Meru
+                                                      - **MRIKANDU** (Q2129) — 4767 desc, 1 ch ⚭ Manaswini
+                                                        - **MARKANDEYA** (Q2111) — 4766 desc, 1 ch ⚭ Dhumra
+                                                          - **VEDASHIRA** (Q2095) — 4765 desc, 1 ch ⚭ PIVRI Vedashira
+                                                            - *→ see (planet Venus) Placeholder surname (Q153478) above*
+                                                  - **SRADDHA Angirasa** (Q153517) — 4768 desc, 1 ch ⚭ ANGIRA aka ANGIRASA Brahma
+                                                    - **yogasiddha** (Q2125) — 4767 desc, 1 ch ⚭ prabhas
+                                                      - **Vishwakarma** (Q2108) — 4766 desc, 1 ch ⚭ AKRITI
+                                                        - *→ see BARHISHMATI Priyavrata (Q153487) above*
+                                                - **UTTANAPADA Manu** (Q153503) — 5614 desc, 1 ch ⚭ SUNEETI
+                                                  - **DHRUVA Uttanapada** (Q153494) — 5613 desc, 1 ch ⚭ Brahmi
+                                                    - **Vatsara** (Q2087) — 5612 desc, 1 ch ⚭ Q50428
+                                                      - **Pushparnan** (Q2075) — 5611 desc, 2 ch ⚭ Q50376
+                                                        - **Vyushtan** (Q2066) — 5606 desc, 1 ch
+                                                          - **Sarvatejas** (Q2057) — 5605 desc, 1 ch
+                                                            - **Chakshu(Manu)** (Q2047) — 5604 desc, 1 ch
+                                                        - **Vyushtan** (Q50319) — 5606 desc, 1 ch ⚭ Pushkarini
+                                                          - **Sarvatejas** (Q50249) — 5605 desc, 1 ch ⚭ Akuthi
+                                                            - **Chakshu(Manu)** (Q50176) — 5604 desc, 1 ch ⚭ Nadvala
+                                                - **PRASUTI Daksha** (Q153532) — 5481 desc, 2 ch ⚭ DAKSHA
+                                                  - **MURTI Dharma** (Q153523) — 5472 desc, 1 ch ⚭ Dharma  (married 13 sisters)
+                                                    - **Nara-Narayana twin Dharma** (Q153510) — 5471 desc, 1 ch
+                                                      - **URVASHI Pururava** (Q153501) — 5470 desc, 1 ch ⚭ PURURAVAS Budha
+                                                        - *→ see AYU Pururavas (Q153491) above*
+                                                  - **SVADHA Pitras** (Q153538) — 4770 desc, 1 ch ⚭ Barhishads Pitras  Gods
+                                                    - **Dharani Svadha** (Q153528) — 4769 desc, 1 ch ⚭ MERU  Muni
+                                                      - **AYATI Meru** (Q153519) — 4768 desc, 1 ch ⚭ DHATA
+                                                        - *→ see MRIKANDU (Q2129) above*
+                                                - **PRIYAVRAT Manu** (Q153488) — 4765 desc, 1 ch ⚭ BARHISHMATI Priyavrata
+                                                  - *→ see URJASWATHI \ JAYANTHI Priyavrata Priyavrata/ (Q153477) above*
+                                              - **KARDAMA** (Q1954) — 5631 desc, 5 ch ⚭ DEVAHUTI Kardama
+                                                - *→ see KALA Marichi (Q153389) above*
+                                                - *→ see ANASUYA Atri (Q153507) above*
+                                                - *→ see ARUNDHATI Vasishta (Q153492) above*
+                                                - *→ see KHYATI Bhrigu (Q153530) above*
+                                                - *→ see SRADDHA Angirasa (Q153517) above*
+                                              - **YA** (Q2152) — 5630 desc, 4 ch
+                                                - **Q50617** (Q50617) — 5622 desc, 2 ch ⚭ Q50613
+                                                  - **Q50544** (Q50544) — 5614 desc, 1 ch ⚭ Q50540
+                                                    - *→ see DHRUVA Uttanapada (Q153494) above*
+                                                  - **Q50705** (Q50705) — 4770 desc, 1 ch ⚭ Q153540
+                                                    - **Q50669** (Q50669) — 4769 desc, 1 ch ⚭ BHRIGU
+                                                      - *→ see DHATA (Q153520) above*
+                                                - **Placeholder surname Esquire** (Q153705) — 5622 desc, 2 ch ⚭ Lord  Placeholder surname
+                                                  - **Placeholder surname?** (Q153674) — 5614 desc, 1 ch
+                                                    - *→ see DHRUVA Uttanapada (Q153494) above*
+                                                  - **Placeholder surname** (Q153714) — 4770 desc, 1 ch ⚭ Q153540
+                                                    - **Placeholder surname** (Q153713) — 4769 desc, 1 ch ⚭ BHRIGU
+                                                      - *→ see DHATA (Q153520) above*
+                                                - **unknown** (Q130322) — 5620 desc, 3 ch ⚭ BHRIGU
+                                                  - *→ see DHRUVA Uttanapada (Q153494) above*
+                                                  - *→ see DHATA (Q153520) above*
+                                                  - *leaves: Ahijah the Shilonite*
+                                                - *leaves: Q53567*
+                                              - **KA** (Q2151) — 5630 desc, 4 ch
+                                                - **Q50613** (Q50613) — 5622 desc, 2 ch ⚭ Q50617
+                                                  - *→ see Q50544 (Q50544) above*
+                                                  - *→ see Q50705 (Q50705) above*
+                                                - **Lord  Placeholder surname** (Q153692) — 5622 desc, 2 ch ⚭ Placeholder surname Esquire
+                                                  - *→ see Placeholder surname? (Q153674) above*
+                                                  - *→ see Placeholder surname (Q153714) above*
+                                                - *→ see unknown (Q130322) above*
+                                                - *leaves: Q53563*
+                                              - *→ see unknown (Q130322) above*
+                                              - **Marichi** (Q1939) — 5603 desc, 1 ch ⚭ KALA Marichi
+                                                - *→ see Kashyapa (Q1924) above*
+                                              - **DAKSHA** (Q2163) — 5481 desc, 2 ch ⚭ PRASUTI Daksha
+                                                - *→ see MURTI Dharma (Q153523) above*
+                                                - *→ see SVADHA Pitras (Q153538) above*
+                                              - **Q153540** (Q153540) — 4771 desc, 2 ch ⚭ Placeholder surname, Q50705
+                                                - *→ see Q50669 (Q50669) above*
+                                                - *→ see Placeholder surname (Q153713) above*
+                                              - **BHRIGU** (Q2159) — 4769 desc, 1 ch ⚭ unknown, KHYATI Bhrigu, Placeholder surname +2 more
+                                                - *→ see DHATA (Q153520) above*
+                                              - **ANGIRA aka ANGIRASA Brahma** (Q153516) — 4768 desc, 1 ch ⚭ SRADDHA Angirasa
+                                                - *→ see yogasiddha (Q2125) above*
+                                              - **JAHNU** (Q2183) — 4108 desc, 1 ch
+                                                - **BALAKASHVA JAHNU** (Q153543) — 4107 desc, 1 ch
+                                                  - **AJAK Balakashva** (Q153535) — 4106 desc, 1 ch
+                                                    - **KUSHA Ajak** (Q153526) — 4105 desc, 1 ch
+                                                      - **KUSHANABHA Kusha** (Q153514) — 4104 desc, 1 ch
+                                                        - **LUNAR DYNASTY Placeholder surname** (Q153505) — 4103 desc, 1 ch ⚭ Satyavati's Mother
+                                                          - **VISHVAMITRA Gadhi** (Q153496) — 4102 desc, 1 ch ⚭ MENAKA  Vishvamitra
+                                                            - **Shakuntala Placeholder surname** (Q153483) — 4101 desc, 1 ch ⚭ DUSHYANTA Ilina
+                                              - *leaves: Q53595*
+                                        - **Q53014** (Q53014) — 5687 desc, 1 ch
+                                          - *→ see India Genarch (Q153405) above*
+                                      - **Q52982** (Q52982) — 34566 desc, 2 ch
+                                        - *→ see Iranic (Q2505) above*
+                                        - *→ see Indic (Vedic) (Q2496) above*
+                                      - **Helleno-Armenian** (Q2469) — 71 desc, 8 ch
+                                        - **Q52950** (Q52950) — 63 desc, 1 ch
+                                          - **Horus Parallel Generation 62** (Q152998) — 62 desc, 1 ch
+                                            - **Generation 61** (Q1284) — 61 desc, 1 ch
+                                              - **Generation 60** (Q1283) — 60 desc, 1 ch
+                                                - **Generation 59** (Q1282) — 59 desc, 1 ch
+                                                  - **Generation 58** (Q1281) — 58 desc, 1 ch
+                                                    - **Generation 57** (Q1280) — 57 desc, 1 ch
+                                                      - **Generation 56** (Q1279) — 56 desc, 1 ch
+                                                        - **Generation 55** (Q1278) — 55 desc, 1 ch
+                                                          - **Generation 54** (Q1277) — 54 desc, 1 ch
+                                                            - **Generation 53** (Q1276) — 53 desc, 1 ch
+                                        - **Greek** (Q2480) — 63 desc, 1 ch
+                                          - *→ see Horus Parallel Generation 62 (Q152998) above*
+                                        - *leaves: Armenian, Q52958, Q52954, Phrygian, Albanian +1 more*
+                                      - **Q52896** (Q52896) — 67 desc, 4 ch
+                                        - *→ see Greek (Q2480) above*
+                                    - **Q52697** (Q52697) — 34641 desc, 2 ch
+                                      - *→ see Indo-Aryan (Q2488) above*
+                                      - *→ see Helleno-Armenian (Q2469) above*
+                                    - **North Indo European languages** (Q2408) — 14 desc, 6 ch
+                                      - **Italo-Celtic** (Q2451) — 4 desc, 4 ch
+                                        - *leaves: Q53082, Q53109, Celtic, Italic*
+                                      - **Balto-Slavic** (Q2461) — 4 desc, 4 ch
+                                        - *leaves: Q53149, Q53193, Baltic, Slavic*
+                                      - **Q52824** (Q52824) — 2 desc, 2 ch
+                                      - **Q52864** (Q52864) — 2 desc, 2 ch
+                                      - *leaves: Germanic, Q52808*
+                                    - **Q52653** (Q52653) — 11 desc, 3 ch
+                                      - *→ see Italo-Celtic (Q2451) above*
+                                      - *→ see Balto-Slavic (Q2461) above*
+                                    - *leaves: Q52729, Tocharian languages, Q52608, Q2436*
+                                  - **Q52540** (Q52540) — 34660 desc, 3 ch ⚭ Q51516
+                                    - *→ see South Indo European Languages (Q2419) above*
+                                    - *→ see North Indo European languages (Q2408) above*
+                                  - **Anatolian Languages** (Q2370) — 29457 desc, 1 ch
+                                    - **Hittite Ancestors Generation 51** (Q153114) — 29456 desc, 1 ch
+                                      - **Hittite Ancestors Generation 50** (Q153113) — 29455 desc, 1 ch
+                                        - **Hittite Ancestors Generation 49** (Q153112) — 29454 desc, 1 ch
+                                          - **Horus parallel among Hittite Ancestors Generation 48** (Q153111) — 29453 desc, 1 ch
+                                            - **Hittite Ancestors Generation 47** (Q153110) — 29452 desc, 1 ch
+                                              - **Hittite Ancestors Generation 46** (Q153109) — 29451 desc, 1 ch
+                                                - **Hittite Ancestors Generation 45** (Q153108) — 29450 desc, 1 ch
+                                                  - **Hittite Ancestors Generation 44** (Q153107) — 29449 desc, 1 ch
+                                                    - **Hittite Ancestors Generation 43** (Q153106) — 29448 desc, 1 ch
+                                                      - **Hittite Ancestors Generation 42** (Q153105) — 29447 desc, 1 ch
+                                                        - **Hittite Ancestors Generation 41** (Q153104) — 29446 desc, 1 ch
+                                                          - **Hittite Ancestors Generation 40** (Q153103) — 29445 desc, 1 ch
+                                                            - **Hittite Ancestors Generation 39** (Q153102) — 29444 desc, 1 ch
+                                - **Yemo  Haplogroup R1b** (Q28509) — 2 desc, 1 ch
+                                  - **rr1b** (Q55966) — 1 desc, 1 ch ⚭ Chadic
+                                    - *leaves: Chadic*
+                                - **Q52464** (Q52464) — 2 desc, 1 ch
+                              - **Haplogroup R2** (Q2324) — 2 desc, 2 ch
+                                - *leaves: Burusho people, Q52356*
+                              - **Q52316** (Q52316) — 1 desc, 1 ch
+                            - *leaves: Haplogroup Q*
+                          - **Moses Haplogroup MS (Indonesia)** (Q152991) — 2 desc, 2 ch
+                            - *leaves: Haplogroup M, Haplogroup S*
+                        - **Nordicus NO** (Q152987) — 7768 desc, 2 ch
+                          - **Orientus Haplogroup O** (Q152989) — 7736 desc, 2 ch
+                            - **Chinese  O2 (M122)** (Q53606) — 7719 desc, 2 ch
+                              - **Sino-Tibetan O2a2b1 (M134)** (Q54349) — 7713 desc, 2 ch
+                                - **Sinitic O2a2b1a2 (F114)** (Q54433) — 7685 desc, 2 ch
+                                  - **You Xiong** (Q51954) — 7683 desc, 1 ch
+                                    - **Shaodian** (Q6421) — 7682 desc, 5 ch ⚭ Fubao, Nü Deng, 有蟜
+                                      - **Generation 2** (Q87856) — 7682 desc, 1 ch
+                                        - **Generation 3** (Q87854) — 7682 desc, 1 ch
+                                          - **Generation 4** (Q87852) — 7682 desc, 1 ch
+                                            - **Generation 5** (Q87850) — 7682 desc, 1 ch
+                                              - **** (Q87848) — 7682 desc, 1 ch
+                                                - **** (Q87846) — 7682 desc, 1 ch
+                                                  - **** (Q87844) — 7682 desc, 1 ch
+                                                    - **** (Q87842) — 7682 desc, 1 ch
+                                                      - **** (Q87840) — 7682 desc, 1 ch
+                                                        - *→ see Shaodian (Q6421) above*
+                                      - **Yellow Emperor** (Q6420) — 7651 desc, 16 ch ⚭ Nüjie, Leizu, Momu +3 more
+                                        - **Shaohao** (Q6429) — 6117 desc, 2 ch ⚭ Wife of Shaohao  Wife of Shaohao
+                                          - **Jiaoji  descendant of the Yellow Emperor** (Q87827) — 6115 desc, 4 ch
+                                            - **Emperor Ku** (Q6453) — 6111 desc, 11 ch ⚭ 常宜, Qingdou, Jiang Yuan +2 more
+                                              - **** (Q87821) — 5517 desc, 1 ch
+                                                - **Wu Xi   Ji** (Q87819) — 5516 desc, 1 ch
+                                                  - **Shu Wang   Ji** (Q87817) — 5515 desc, 1 ch
+                                                    - **8  Ji** (Q87815) — 5514 desc, 1 ch
+                                                      - **9  Ji** (Q87813) — 5513 desc, 1 ch
+                                                        - **10  Ji** (Q87811) — 5512 desc, 1 ch
+                                                          - **11  Ji** (Q87809) — 5511 desc, 1 ch
+                                                            - **12  Ji** (Q87807) — 5510 desc, 1 ch
+                                              - **Qi  Hou Ji** (Q52386) — 5517 desc, 1 ch
+                                                - *→ see Wu Xi   Ji (Q87819) above*
+                                              - **Hou Ji** (Q6478) — 5495 desc, 1 ch
+                                                - **Buzhu** (Q6498) — 5494 desc, 1 ch
+                                                  - **Ji Ju** (Q6517) — 5493 desc, 1 ch
+                                                    - **Gongliu of Zhou** (Q6535) — 5492 desc, 1 ch
+                                                      - **Qingjie** (Q6549) — 5491 desc, 1 ch
+                                                        - **Huáng Pú** (Q6558) — 5490 desc, 1 ch
+                                                          - **Chà Fú** (Q6566) — 5489 desc, 1 ch
+                                                            - **Huǐ Xū** (Q70059) — 5488 desc, 1 ch
+                                              - **Xie of Shang** (Q6480) — 871 desc, 2 ch
+                                                - **Zhao Ming** (Q52434) — 863 desc, 1 ch
+                                                  - **Xiang Tu** (Q52506) — 862 desc, 1 ch
+                                                    - **Chang Ruo** (Q52566) — 861 desc, 1 ch
+                                                      - **Cao Yu** (Q52614) — 860 desc, 1 ch
+                                                        - **Ming** (Q52666) — 859 desc, 1 ch
+                                                          - **Wang Hai** (Q52750) — 858 desc, 1 ch
+                                                            - **Jia Wei** (Q52794) — 857 desc, 1 ch
+                                                - **Zhao Ming** (Q6501) — 6 desc, 1 ch
+                                                  - **Xiangtu** (Q6519) — 5 desc, 1 ch
+                                                    - **Chang Ruo** (Q6537) — 4 desc, 1 ch
+                                                      - **Cao Yu** (Q6552) — 3 desc, 1 ch
+                                                        - **Ming** (Q6560) — 2 desc, 2 ch
+                                                          - *leaves: Wang Heng, Wáng Hài*
+                                              - **Yao** (Q6474) — 232 desc, 3 ch
+                                                - **Nüying** (Q6494) — 229 desc, 1 ch ⚭ Shun
+                                                  - *→ see Shangjun (Q6515) above*
+                                                - *leaves: Ehuang, Danzhu*
+                                              - **Emperor Yao  descendant of the Yellow Emperor** (Q52014) — 5 desc, 3 ch
+                                                - **Dan Zhu** (Q52034) — 2 desc, 1 ch
+                                                  - **many generations** (Q70050) — 1 desc, 1 ch
+                                                    - *leaves: Gaozu of Han*
+                                                - *leaves: Nuying, Ehuang*
+                                              - **Qi** (Q52018) — 4 desc, 1 ch
+                                                - **Zhao Ming** (Q52046) — 3 desc, 1 ch
+                                                  - **Xiang Tu** (Q52062) — 2 desc, 1 ch
+                                                    - **Chang Ruo** (Q52086) — 1 desc, 1 ch
+                                                      - *leaves: Cao Yu*
+                                              - **Yao   Tao Tang Shi** (Q52382) — 3 desc, 3 ch
+                                                - *leaves: Nu Ying Nu Ying   Tao Tang Shi, Dan Zhu, E Huang E Huang   Tao Tang Shi*
+                                              - **Taisi** (Q6482) — 1 desc, 1 ch
+                                                - *leaves: Shujun*
+                                              - *leaves: Emperor Zhi, Di Zhi*
+                                            - **Emperor Ku  descendant of the Yellow Emperor** (Q87823) — 6064 desc, 8 ch ⚭ Yuan
+                                              - *→ see  (Q87821) above*
+                                              - *→ see Qi  Hou Ji (Q52386) above*
+                                              - *→ see Hou Ji (Q6478) above*
+                                              - *→ see Xie of Shang (Q6480) above*
+                                              - *→ see Emperor Yao  descendant of the Yellow Emperor (Q52014) above*
+                                              - *→ see Qi (Q52018) above*
+                                              - *→ see Yao   Tao Tang Shi (Q52382) above*
+                                            - *leaves: Luo Ming (Yu Zhi Faction), Qiong Ji (wu Di Zhi Wu )*
+                                          - **Jiao Ji** (Q6441) — 6115 desc, 4 ch
+                                            - *→ see Emperor Ku (Q6453) above*
+                                            - *→ see Emperor Ku  descendant of the Yellow Emperor (Q87823) above*
+                                        - **Changyi** (Q6430) — 1649 desc, 6 ch ⚭ Jing Pu
+                                          - **Zhuanxu** (Q6445) — 1569 desc, 24 ch
+                                            - **Nu Xiu** (Q51994) — 791 desc, 1 ch
+                                              - **Da Ye** (Q52002) — 790 desc, 1 ch
+                                                - **Gao Yao** (Q52026) — 789 desc, 1 ch
+                                                  - **Bo Yi Bo Yi** (Q52054) — 788 desc, 3 ch
+                                                    - **En Cheng En Cheng** (Q52074) — 605 desc, 1 ch
+                                                      - **Ren Dao Ren Dao** (Q52102) — 604 desc, 1 ch
+                                                        - **Zhi Zhou Zhi Zhou** (Q52134) — 603 desc, 1 ch
+                                                          - **Yi Ji Yi Ji** (Q52154) — 602 desc, 1 ch
+                                                            - **Zhong Qing Zhong Qing** (Q52218) — 601 desc, 1 ch
+                                                    - **Ruomu** (Q52078) — 180 desc, 1 ch
+                                                      - **Tian Wen** (Q52106) — 179 desc, 1 ch
+                                                        - **Ding Ren** (Q52138) — 178 desc, 1 ch
+                                                          - **Zheng Tian** (Q52157) — 177 desc, 1 ch
+                                                            - **Lai Fa** (Q52222) — 176 desc, 1 ch
+                                                    - *leaves: Da Lian Da Lian*
+                                            - **Qiong Chan** (Q6455) — 236 desc, 1 ch
+                                              - **Jingkang** (Q6484) — 235 desc, 1 ch
+                                                - **Csü-vang** (Q52450) — 234 desc, 1 ch
+                                                  - **Csiao-niu** (Q52510) — 233 desc, 1 ch
+                                                    - **Gusou** (Q6529) — 232 desc, 2 ch ⚭ Wodeng
+                                                      - *→ see Shun (Q6513) above*
+                                                      - *leaves: Xiang*
+                                            - **?, 4shi   4shi** (Q52334) — 173 desc, 1 ch
+                                              - **?, 5shi** (Q52398) — 172 desc, 1 ch
+                                                - **?, 6shi** (Q52458) — 171 desc, 1 ch
+                                                  - **Gun   Si Si** (Q52518) — 170 desc, 1 ch
+                                                    - **Yu   Si Xing** (Q52578) — 169 desc, 2 ch
+                                                      - **Di Qi   Si Si** (Q52630) — 167 desc, 6 ch
+                                                        - **Zhong Kang   Si Si** (Q52686) — 161 desc, 1 ch
+                                                          - **Di Xiang   Si Si** (Q52762) — 160 desc, 2 ch
+                                                            - **Shao Kang   Si Si** (Q52809) — 157 desc, 4 ch ⚭ Chang Nu   Gui Gui, Ci Nu   Gui Gui
+                                                              - *leaves: Si Yu  Wu Yu   Si Si, Zhu   Si Si, Long   Si Si*
+                                                            - **Hou Yi   Si Si** (Q52805) — 1 desc, 1 ch
+                                                              - *leaves: Han Zhuo   Si Si*
+                                                        - *leaves: Ji Sheng   Si Si, Tai Kang   Si Si, Shu Cheng   Si Si, Shao Min   Si Si, Shao Rong   Si Si*
+                                                      - *leaves: Hao   Si Si*
+                                            - **Cheng** (Q52294) — 130 desc, 1 ch
+                                              - **Lao Tong** (Q52394) — 129 desc, 1 ch
+                                                - **Wu Hui** (Q52454) — 128 desc, 1 ch
+                                                  - **Lu Zhong , 7** (Q52514) — 127 desc, 1 ch
+                                                    - **Yun, Hui Lian  Huang Huang** (Q52574) — 126 desc, 1 ch
+                                                      - **Jia  Huang Huang** (Q52626) — 125 desc, 1 ch
+                                                        - **Qi  Huang Huang** (Q52678) — 124 desc, 1 ch
+                                                          - **Zui  Huang Huang** (Q52758) — 123 desc, 1 ch
+                                                            - **Shu  Huang Huang** (Q52801) — 122 desc, 1 ch
+                                            - **Gun** (Q6459) — 105 desc, 1 ch ⚭ Nü Zhi
+                                              - **Yu the Great** (Q6490) — 104 desc, 1 ch ⚭ Tu Shan Shi
+                                                - **Qi of Xia** (Q6511) — 103 desc, 2 ch
+                                                  - **Zhong Kang** (Q6527) — 101 desc, 1 ch
+                                                    - **Xiang of Xia** (Q6547) — 100 desc, 1 ch ⚭ Hou Min
+                                                      - **Shaokang** (Q6556) — 99 desc, 4 ch
+                                                        - **Han Han   Yu Yu** (Q52730) — 85 desc, 1 ch
+                                                          - **Dao Dao   Yu Yu** (Q52774) — 84 desc, 1 ch
+                                                            - **An An   Yu Yu** (Q52829) — 83 desc, 1 ch
+                                                        - **Zhu of Xia** (Q6562) — 10 desc, 1 ch
+                                                          - **Huai of Xia** (Q6572) — 9 desc, 1 ch
+                                                            - **Mang of Xia** (Q6578) — 8 desc, 1 ch
+                                                        - *leaves: Wu Yu, Su Su*
+                                                  - *leaves: Tai Kang*
+                                            - **Juan Zhang Juan Zhang   Ji Ji** (Q52338) — 73 desc, 1 ch
+                                              - **Hui  Wu Wu Hui  5a** (Q52402) — 72 desc, 1 ch
+                                                - **Lu Zhong  Lu Zhong  6a** (Q52462) — 71 desc, 1 ch
+                                                  - **Yun  Huang Huang Yun  7a**** (Q52522) — 70 desc, 1 ch
+                                                    - **Xiong Qi  Huang Huang Xiong Qi  8a** (Q52582) — 69 desc, 1 ch
+                                                      - **Zu Zhong  Huang Huang Zu Zhong  9a** (Q52638) — 68 desc, 1 ch
+                                                        - **You Zi  Huang Huang You Zi 10a** (Q52706) — 67 desc, 1 ch
+                                                          - **Xiao Zu  Huang Huang Xiao Zu 11a** (Q52766) — 66 desc, 1 ch
+                                                            - **Yuan Rong  Huang Huang Yuan Rong 12a** (Q52813) — 65 desc, 1 ch
+                                            - **Yu Fu   Ji Ji** (Q52350) — 27 desc, 1 ch
+                                              - **Qiong Chan   Yu Yu** (Q52410) — 26 desc, 1 ch
+                                                - **Jing Kang   Yu Yu** (Q52470) — 25 desc, 1 ch
+                                                  - **Ju Wang   Yu Yu** (Q52530) — 24 desc, 1 ch
+                                                    - **Qiao Niu   Yu Yu** (Q52586) — 23 desc, 1 ch
+                                                      - **() Yu Yu** (Q52642) — 22 desc, 3 ch
+                                                        - **Shun ,you Ming Yu Shun   Yaoyao** (Q52718) — 19 desc, 1 ch
+                                                          - **Nu Xiu   Yao Yao** (Q52770) — 18 desc, 3 ch
+                                                            - **Da Lian   Ying Ying** (Q52817) — 15 desc, 1 ch
+                                                            - *leaves: En Cheng   Ying Ying, Ruo Mu   Fei Fei*
+                                                        - *leaves: Xiang   Yu Yu, Ming Shi   Yu Yu*
+                                            - **Cheng** (Q6457) — 7 desc, 1 ch
+                                              - **老童** (Q6486) — 6 desc, 1 ch
+                                                - **Ngo Hoi** (Q6507) — 5 desc, 1 ch
+                                                  - **Luc Chung** (Q6523) — 4 desc, 4 ch
+                                                    - *leaves: Côn Ngô, Peng Zu, Jilian, Yan An*
+                                            - **Nu Xiu   Ji Ji** (Q52346) — 3 desc, 1 ch
+                                              - **Da Ye Da Ye   Ji Ji** (Q52406) — 2 desc, 1 ch
+                                                - **Da Fei Da Fei** (Q52466) — 1 desc, 1 ch
+                                                  - *leaves: Tao   Yan Xing*
+                                            - *leaves: Shu Da   Ji Ji, Luo Ming   Ji Ji, Gao Yao, Zhong Rong   Ji Ji, Tao Yan +10 more*
+                                          - **Gao Yang Gao Yang** (Q52242) — 106 desc, 1 ch
+                                            - *→ see Gun (Q6459) above*
+                                          - **Zhuan Xu   Ji** (Q52246) — 74 desc, 1 ch
+                                            - **Cheng   Huang** (Q52358) — 73 desc, 1 ch
+                                              - **Da Ye   Huang** (Q52418) — 72 desc, 1 ch
+                                                - **Gao Tao   Huang** (Q52478) — 71 desc, 1 ch
+                                                  - **Bo Yi   Huang** (Q52542) — 70 desc, 1 ch
+                                                    - **Juan Zhang   Huang** (Q52594) — 69 desc, 1 ch
+                                                      - **Wu Hui   Huang** (Q52650) — 68 desc, 1 ch
+                                                        - **Lu Zhong   Huang** (Q52734) — 67 desc, 1 ch
+                                                          - **Nan Lu   Huang** (Q52778) — 66 desc, 1 ch
+                                                            - **Jia   Huang** (Q52833) — 65 desc, 1 ch
+                                          - *leaves: Zhuan Liu Zhuan Liu, An An, Kun Kun*
+                                        - **Ji Hui   Zhang** (Q52194) — 98 desc, 2 ch
+                                          - **Mei Mei   Zhang Zhang** (Q52254) — 96 desc, 2 ch
+                                            - **Yun Ge Yun Ge   Zhang Zhang** (Q52366) — 94 desc, 1 ch
+                                              - **Yi Yuan Yi Yuan   Zhang Zhang** (Q52422) — 93 desc, 4 ch
+                                                - **Hou Zhang Hou   Zhang Zhang** (Q52494) — 89 desc, 3 ch
+                                                  - **Li Fang Zhang Li Fang   Zhang Zhang** (Q52554) — 86 desc, 2 ch
+                                                    - **Kun  Kun   Zhang Zhang** (Q52602) — 84 desc, 1 ch
+                                                      - **Dun Wu Dun Wu   Zhang Zhang** (Q52654) — 83 desc, 1 ch
+                                                        - **Xiao Xiao   Zhang Zhang** (Q52738) — 82 desc, 1 ch
+                                                          - **Zhong Xi Zhong Xi   Zhang Zhang** (Q52782) — 81 desc, 1 ch
+                                                            - **Wu Guang Wu Guang   Zhang Zhang** (Q52837) — 80 desc, 1 ch
+                                                    - *leaves: Qian Gan   Zhang Zhang*
+                                                  - *leaves: Ruo Ruo   Zhang Zhang, Jing He Jing He   Zhang Zhang*
+                                                - *leaves: Tu Mei Zhang Tu Mei   Zhang Zhang, Mo Zhang Mo   Zhang Zhang, Jian Zhu Zhang Jian Zhu   Zhang Zhang*
+                                            - *leaves: Tai Tai Tai Tai   Zhang Zhang*
+                                          - *leaves: Ban Ban   Zhang Zhang*
+                                        - *leaves: Long Di, Qing Yang   Ji Ji, Yi Peng, Xiu, Yi Zhu +8 more*
+                                      - **Yan  Shen Nong Shi** (Q51962) — 17 desc, 1 ch
+                                        - **Di Lin Kui** (Q51974) — 16 desc, 1 ch
+                                          - **Di Cheng** (Q51982) — 15 desc, 1 ch
+                                            - **Di Ming** (Q51990) — 14 desc, 1 ch
+                                              - **Di Zhi** (Q51998) — 13 desc, 1 ch
+                                                - **Di Lai** (Q52022) — 12 desc, 1 ch
+                                                  - **Di Li** (Q52050) — 11 desc, 1 ch
+                                                    - **Jie Jing** (Q52066) — 10 desc, 3 ch
+                                                      - **Xi** (Q52098) — 5 desc, 2 ch
+                                                        - **Ming Qi** (Q52126) — 3 desc, 1 ch
+                                                          - **Zhu Rong** (Q52150) — 2 desc, 1 ch
+                                                            - **Zhu Qi** (Q52160) — 1 desc, 1 ch
+                                                              - *leaves: Lei*
+                                                        - *leaves: Xiao Di*
+                                                      - **Ke** (Q52094) — 2 desc, 1 ch
+                                                        - **Di Yu Gang** (Q52118) — 1 desc, 1 ch
+                                                          - *leaves: Chang Qi*
+                                                      - *leaves: Wang Yu*
+                                      - **Yandi** (Q6423) — 1 desc, 1 ch
+                                        - *leaves: kontol*
+                                      - *leaves: Yan Di*
+                                  - **(You Xiong)  Youxiong** (Q87862) — 7683 desc, 1 ch
+                                    - *→ see Shaodian (Q6421) above*
+                                - **Tibeto-Burman O2a2b1a1 (M117)** (Q54389) — 26 desc, 2 ch
+                                  - **Tibeto-Burman O2a2b1a1 (M117)** (Q54474) — 22 desc, 2 ch
+                                    - **Tibeto-Burman O2a2b1a1 (M117)** (Q54686) — 20 desc, 2 ch
+                                      - **Tibeto-Burman O2a2b1a1 (M117)** (Q54722) — 16 desc, 2 ch
+                                        - **Tibeto-Burman O2a2b1a1 (M117)** (Q54890) — 12 desc, 2 ch
+                                          - **Tibeto-Burman O2a2b1a1 (M117)** (Q55058) — 10 desc, 2 ch
+                                            - **Dmother  Tibeto-Burman Haplogroup D** (Q70041) — 4 desc, 3 ch ⚭ Dibeth  Tibeto-Burman Haplogroup D
+                                              - **Bodish** (Q55257) — 1 desc, 1 ch
+                                                - *leaves: Tibetan*
+                                              - *leaves: Pumi, Gurung-Tamang*
+                                            - **Tibeto-Burman O2a2b1a1 (M117)** (Q55137) — 4 desc, 2 ch
+                                              - **Tibeto-Burman O2a2b1a1 (M117)** (Q55381) — 2 desc, 2 ch
+                                                - *leaves: Ersuish, Qiangic, Rgyalrongic, Naic*
+                                              - *leaves: Lolo-Burmese*
+                                          - *leaves: Kinauri*
+                                        - **Tibeto-Burman O2a2b1a1 (M117)** (Q54926) — 2 desc, 2 ch
+                                          - *leaves: Himalayish, Nungish*
+                                      - **Tibeto-Burman O2a2b1a1 (M117)** (Q54766) — 2 desc, 2 ch
+                                        - *leaves: Tani, Digarish*
+                                    - *leaves: Sal*
+                                  - **Tibeto-Burman O2a2b1a1 (M117)** (Q54518) — 2 desc, 2 ch
+                                    - *leaves: Karenic, Kuki-ChinNaga*
+                              - **HmongMien O2a2a1a2 (M7)** (Q54145) — 4 desc, 2 ch
+                                - **HmongMien O2a2a1a2 (M7)** (Q54226) — 2 desc, 2 ch
+                                  - *leaves: She (Ratliff 1998), Hmong (Miao)*
+                                - *leaves: Mien (Yao)*
+                            - **O1 (F265) ("Austric")** (Q53562) — 15 desc, 2 ch
+                              - **Austro-Tai O1a (M119)** (Q53646) — 8 desc, 2 ch
+                                - **KraDai** (Q53690) — 4 desc, 2 ch
+                                  - **KamTai** (Q53730) — 2 desc, 2 ch
+                                    - *leaves: Tai, KamSui*
+                                  - *leaves: Kadai*
+                                - **Austronesian** (Q53893) — 2 desc, 2 ch
+                                  - *leaves: Formosan, Malayo-Polynesian*
+                              - **Haplogroup O1b** (Q70023) — 5 desc, 2 ch
+                                - **Austroasiatic O1b1a1a (M95)** (Q54017) — 2 desc, 2 ch
+                                  - *leaves: Munda, MonKhmer*
+                                - **Yangtze civilization  Haplogroup O-M176 (O1b2)** (Q70026) — 1 desc, 1 ch
+                                  - *leaves: Japonius  Japonic Languages*
+                          - **Nenetus Haplogroup N** (Q152988) — 30 desc, 2 ch
+                            - **Nural  Uralic languages** (Q29726) — 28 desc, 4 ch
+                              - **Finno-Ugric** (Q2569) — 19 desc, 3 ch
+                                - **Finno-Permic** (Q52909) — 10 desc, 2 ch
+                                  - **Finno-Volgaic** (Q53064) — 6 desc, 2 ch
+                                    - **(core branch)  Finno-Volgaic** (Q53148) — 4 desc, 2 ch
+                                      - **Finno-Samic** (Q53232) — 2 desc, 2 ch
+                                        - *leaves: Sami, Finnic*
+                                      - *leaves: Erzya*
+                                    - *leaves: Mari*
+                                  - **Permian** (Q52940) — 2 desc, 2 ch
+                                    - *leaves: Udmurt, Komi*
+                                - **Ugric** (Q2570) — 6 desc, 4 ch
+                                  - **Ob-Ugric** (Q2572) — 2 desc, 2 ch
+                                    - *leaves: Mansi, Khanty*
+                                  - **Q53318** (Q53318) — 2 desc, 2 ch
+                                  - *leaves: Q53314, Hungarian*
+                                - **Q53310** (Q53310) — 4 desc, 2 ch
+                              - **Q53306** (Q53306) — 18 desc, 2 ch
+                                - *→ see Finno-Permic (Q52909) above*
+                                - *→ see Ugric (Q2570) above*
+                              - **Q53302** (Q53302) — 5 desc, 3 ch
+                                - **Core-Samoyedic** (Q53400) — 2 desc, 1 ch
+                                  - **Enets-Nenets** (Q53483) — 1 desc, 1 ch
+                                    - *leaves: Nenets (Yurak-Samoyed)*
+                                - *leaves: Nganasan (Tavgi or Tawgi-Samoyed), Mator (Sayan-Samoyed)*
+                              - **Samoyedic** (Q2568) — 5 desc, 3 ch
+                            - **Q53298** (Q53298) — 26 desc, 2 ch
+                              - *→ see Finno-Ugric (Q2569) above*
+                              - *→ see Samoyedic (Q2568) above*
+                      - **Letho LT** (Q152985) — 52 desc, 2 ch
+                        - **Thomas Haplogroup T** (Q152986) — 50 desc, 1 ch
+                          - **Yakub  Haplogroup T** (Q29786) — 49 desc, 2 ch
+                            - **Q53354** (Q53354) — 47 desc, 1 ch
+                              - **Malcolm  Mureybet** (Q29766) — 46 desc, 2 ch
+                                - **Jerichus  Founder of Jericho** (Q29790) — 44 desc, 2 ch
+                                  - **Manu Parallel  Haplogroup G2** (Q29834) — 42 desc, 2 ch
+                                    - **Anatolian Parallel  Haplogroup G2** (Q29830) — 40 desc, 2 ch
+                                      - **South Indo European Parallel  Haplogroup G2** (Q29826) — 38 desc, 2 ch
+                                        - **Helleno-Armenian Parallel  Haplogroup G2** (Q29822) — 36 desc, 2 ch
+                                          - **Greek Parallel  Haplogroup G2** (Q29818) — 34 desc, 2 ch
+                                            - **Horus Parallel  Haplogroup G2** (Q29814) — 32 desc, 2 ch
+                                              - **Gen 15 (Dumuzi)  Haplogroup G2** (Q29898) — 30 desc, 2 ch
+                                                - **Gen 14  Haplogroup G2** (Q29894) — 28 desc, 2 ch
+                                                  - **Gen 13 (Enmerkar)  Haplogroup G2** (Q29890) — 26 desc, 2 ch
+                                                    - **Gen 12  Haplogroup G2** (Q29886) — 24 desc, 2 ch
+                                                      - **Gen 11  Haplogroup G2** (Q29882) — 22 desc, 2 ch
+                                                        - **Gen 10  Haplogroup G2** (Q29878) — 20 desc, 2 ch
+                                                          - **Udul-kalama (Gen 9)  Haplogroup G2** (Q29874) — 18 desc, 2 ch
+                                                            - **Gen 8  Haplogroup G2** (Q29870) — 16 desc, 2 ch
+                                                            - **Q53442** (Q53442) — 15 desc, 1 ch
+                                                          - **Q53446** (Q53446) — 17 desc, 1 ch
+                                                            - *→ see Gen 8  Haplogroup G2 (Q29870) above*
+                                                        - **Q53450** (Q53450) — 19 desc, 1 ch
+                                                          - *→ see Udul-kalama (Gen 9)  Haplogroup G2 (Q29874) above*
+                                                      - **Q53454** (Q53454) — 21 desc, 1 ch
+                                                        - *→ see Gen 10  Haplogroup G2 (Q29878) above*
+                                                    - **Q53458** (Q53458) — 23 desc, 1 ch
+                                                      - *→ see Gen 11  Haplogroup G2 (Q29882) above*
+                                                  - **Q53462** (Q53462) — 25 desc, 1 ch
+                                                    - *→ see Gen 12  Haplogroup G2 (Q29886) above*
+                                                - **Q53466** (Q53466) — 27 desc, 1 ch
+                                                  - *→ see Gen 13 (Enmerkar)  Haplogroup G2 (Q29890) above*
+                                              - **Q53470** (Q53470) — 29 desc, 1 ch
+                                                - *→ see Gen 14  Haplogroup G2 (Q29894) above*
+                                            - **Q53386** (Q53386) — 31 desc, 1 ch
+                                              - *→ see Gen 15 (Dumuzi)  Haplogroup G2 (Q29898) above*
+                                          - **Q53390** (Q53390) — 33 desc, 1 ch
+                                            - *→ see Horus Parallel  Haplogroup G2 (Q29814) above*
+                                        - **Q53394** (Q53394) — 35 desc, 1 ch
+                                          - *→ see Greek Parallel  Haplogroup G2 (Q29818) above*
+                                      - **Q53398** (Q53398) — 37 desc, 1 ch
+                                        - *→ see Helleno-Armenian Parallel  Haplogroup G2 (Q29822) above*
+                                    - **Q53402** (Q53402) — 39 desc, 1 ch
+                                      - *→ see South Indo European Parallel  Haplogroup G2 (Q29826) above*
+                                  - **Q53406** (Q53406) — 41 desc, 1 ch
+                                    - *→ see Anatolian Parallel  Haplogroup G2 (Q29830) above*
+                                - **Q53362** (Q53362) — 43 desc, 1 ch
+                                  - *→ see Manu Parallel  Haplogroup G2 (Q29834) above*
+                            - **Xenia  Haplogroup X** (Q29782) — 47 desc, 1 ch ⚭ George Gobekli, Q53342
+                              - *→ see Malcolm  Mureybet (Q29766) above*
+                        - *leaves: Haplogroup L*
+                    - **Haplogroup IJ** (Q1171) — 16 desc, 2 ch
+                      - **Generation 1 Haplogroup J1** (Q152984) — 14 desc, 4 ch
+                        - **Haplogroup J1** (Q29710) — 10 desc, 2 ch
+                          - **Generation 3  Haplogroup J1** (Q29810) — 8 desc, 2 ch
+                            - **4  Haplogroup J1** (Q29806) — 6 desc, 2 ch
+                              - **5  Haplogroup J1** (Q29802) — 4 desc, 2 ch
+                                - **6  Haplogroup J1** (Q29798) — 2 desc, 2 ch
+                                  - *leaves: Q53366, 7  Haplogroup J1*
+                                - **Q53370** (Q53370) — 1 desc, 1 ch
+                              - **Q53374** (Q53374) — 3 desc, 1 ch
+                            - **Q53378** (Q53378) — 5 desc, 1 ch
+                              - *→ see 5  Haplogroup J1 (Q29802) above*
+                          - **Q53382** (Q53382) — 7 desc, 1 ch
+                            - *→ see 4  Haplogroup J1 (Q29806) above*
+                        - **Q53282** (Q53282) — 9 desc, 1 ch
+                          - *→ see Generation 3  Haplogroup J1 (Q29810) above*
+                        - *leaves: Haplogroup J2, Q53286*
+                      - *leaves: Haplogroup I*
+                  - **Harappus Haplogroup H** (Q152982) — 4 desc, 4 ch
+                    - *leaves: Q53221, Hmer  Part of the Cambodians, Q53225, Dravid  Dravidian languages*
+                - **George Haplogroup G** (Q152981) — 57 desc, 2 ch
+                  - **1  Haplogroup G** (Q29758) — 55 desc, 2 ch
+                    - **2  Haplogroup G** (Q29762) — 53 desc, 2 ch
+                      - **3  Haplogroup G** (Q29778) — 51 desc, 2 ch
+                        - **4  Haplogroup G** (Q29774) — 49 desc, 2 ch
+                          - **George Gobekli** (Q29770) — 47 desc, 1 ch ⚭ Xenia  Haplogroup X
+                            - *→ see Malcolm  Mureybet (Q29766) above*
+                          - **Q53342** (Q53342) — 47 desc, 1 ch ⚭ Xenia  Haplogroup X
+                            - *→ see Malcolm  Mureybet (Q29766) above*
+                        - *leaves: Q53346*
+                      - **Q53350** (Q53350) — 50 desc, 1 ch
+                        - *→ see 4  Haplogroup G (Q29774) above*
+                    - **Q53334** (Q53334) — 52 desc, 1 ch
+                      - *→ see 3  Haplogroup G (Q29778) above*
+                  - **Q53330** (Q53330) — 54 desc, 1 ch
+                    - *→ see 2  Haplogroup G (Q29762) above*
+              - **Haplogroup C** (Q1164) — 0 desc, 0 ch
+            - **DE** (Q1161) — 36600 desc, 2 ch
+              - **Haplogroup E** (Q1163) — 36591 desc, 3 ch
+                - **Emad  banu numidia** (Q29658) — 36588 desc, 5 ch
+                  - **Afroasiatic languages** (Q2566) — 36563 desc, 2 ch
+                    - **North Afrasian** (Q55629) — 36559 desc, 2 ch
+                      - **Hashim  Semitic** (Q55673) — 35988 desc, 1 ch ⚭ Spouse of Ubaid the Elder
+                        - **Shem  Semitic Languages** (Q62671) — 35987 desc, 2 ch ⚭ Spouse of En-me-barage-si
+                          - **Dumuzi  son of Shem, Central Semitic** (Q70598) — 35858 desc, 1 ch ⚭ Spouse of Dumuzi
+                            - **En-sipad-zid-ana** (Q70604) — 35857 desc, 1 ch ⚭ Spouse of En-sipad-zid-ana
+                              - **Lugalbanda** (Q70610) — 35856 desc, 1 ch ⚭ Spouse of Lugalbanda
+                                - **Enmerkar** (Q70616) — 35855 desc, 1 ch ⚭ Spouse of Enmerkar
+                                  - **Meskiagkasher** (Q70625) — 35854 desc, 1 ch ⚭ Spouse of Meskiagkasher
+                                    - **Gilgamesh** (Q70631) — 35853 desc, 1 ch ⚭ Spouse of Gilgamesh
+                                      - **Ur-Nungal** (Q70637) — 35852 desc, 1 ch ⚭ Spouse of Ur-Nungal
+                                        - **Udul-kalama** (Q70643) — 35851 desc, 1 ch ⚭ Spouse of Udul-kalama
+                                          - **La-ba'shum** (Q70649) — 35850 desc, 1 ch ⚭ Spouse of La-ba'shum
+                                            - **Hablum** (Q70658) — 35849 desc, 1 ch ⚭ Spouse of Hablum
+                                              - **Yakrub-El** (Q70664) — 35848 desc, 1 ch ⚭ Spouse of Yakrub-El
+                                                - **Ammi-Saduqa** (Q70670) — 35847 desc, 1 ch ⚭ Spouse of Ammi-Saduqa
+                                                  - **Ishbi-Erra** (Q70676) — 35846 desc, 1 ch ⚭ Spouse of Ishbi-Erra
+                                                    - **Shu-ilishu** (Q70682) — 35845 desc, 1 ch ⚭ Spouse of Shu-ilishu
+                                                      - **Nur-Adad** (Q70691) — 35844 desc, 1 ch ⚭ Spouse of Nur-Adad
+                                                        - **Sin-Kashid** (Q70697) — 35843 desc, 1 ch ⚭ Spouse of Sin-Kashid
+                                                          - **Enlil-bani** (Q70703) — 35842 desc, 1 ch ⚭ Spouse of Enlil-bani
+                                                            - **Erra-imitti** (Q70709) — 35841 desc, 1 ch ⚭ Spouse of Erra-imitti
+                          - **Eber  South Semitic** (Q47373) — 490 desc, 2 ch
+                            - **Qahtan  ibn 'Abin (Ruler) of Saba'** (Q86685) — 384 desc, 2 ch ⚭ Hubba
+                              - **Akhunas Saba II  Emperor of Ethiopia** (Q47517) — 359 desc, 1 ch
+                                - **Nekate I Kalnis  Emperor of Ethiopia** (Q47525) — 358 desc, 1 ch
+                                  - **Kasiyope  Empress of Ethiopia** (Q47529) — 357 desc, 1 ch
+                                    - **Sabe II Ayba I  Emperor of Ethiopia** (Q47533) — 356 desc, 1 ch
+                                      - **Etiyopis I  Emperor of Ethiopia** (Q47537) — 355 desc, 1 ch
+                                        - **Lakniduga II Nowar'Ari  Emperor of Ethiopia** (Q47541) — 354 desc, 1 ch
+                                          - **Tutimheb  Emperor of Ethiopia** (Q47545) — 353 desc, 1 ch
+                                            - **Her Hator I Yotor  Emperor of Ethiopia** (Q47549) — 352 desc, 1 ch
+                                              - **Etiyopis II  Emperor of Ethiopia** (Q47553) — 351 desc, 1 ch
+                                                - **Senuka I Menkon  Emperor of Ethiopia** (Q47557) — 350 desc, 1 ch
+                                                  - **Bonu I  Emperor of Ethiopia** (Q47561) — 349 desc, 1 ch
+                                                    - **Mumazes** (Q47569) — 348 desc, 1 ch
+                                                      - **Aruas  Emperor of Ethiopia** (Q47573) — 347 desc, 1 ch
+                                                        - **Amen Asro I  Emperor of Ethiopia** (Q47577) — 346 desc, 1 ch
+                                                          - **Ori II Aram II  Emperor of Ethiopia** (Q47581) — 345 desc, 1 ch
+                                                            - **Piori II  Emperor of Ethiopia** (Q47585) — 344 desc, 1 ch
+                              - **Ya'rub \ Yarbah  Yarbah ?ibn Kahtan** (Q86673) — 23 desc, 1 ch
+                                - **Yashjub  ibn Yarab (Ruler) of Saba'** (Q86663) — 22 desc, 1 ch
+                                  - **'Abd Shams Saba `the Great' bin  Founder of the Kingdom of Yemen** (Q86657) — 21 desc, 1 ch
+                                    - **Kahlan son of  Abd Shams Saba Al-Hira** (Q86651) — 20 desc, 1 ch
+                                      - **Zayd  ibn Zayd ibn Yashjub ibn 'Arib ibn Kahlan ibn Saba' ibn Yashjub ibnYa'ru** (Q86645) — 19 desc, 1 ch
+                                        - **Malik son of  Zayd of al-Hirah** (Q86639) — 18 desc, 1 ch
+                                          - **Nabt ibn  Malik of Al-Hirah** (Q86633) — 17 desc, 1 ch
+                                            - **Al-Ghawth son of  ibn Nabt** (Q86627) — 16 desc, 1 ch
+                                              - **Al-Azd ben  ibn al-Gaith** (Q86621) — 15 desc, 1 ch
+                                                - **Mazin ben  Al-Azd** (Q86611) — 14 desc, 1 ch
+                                                  - **Th'labah bin  Mazen** (Q86603) — 13 desc, 1 ch
+                                                    - **Imri Al-Qays ben  ibn Th'labah** (Q86597) — 12 desc, 1 ch
+                                                      - **Thaalaba  ben ibn Imri' al-Qays** (Q86583) — 11 desc, 1 ch
+                                                        - **Harith al-Qhitrif son of  Imru Al-Qais** (Q86571) — 10 desc, 1 ch
+                                                          - **'Amr Ma' Al-Sama ibn Harith  Haritha** (Q69374) — 9 desc, 1 ch ⚭ Wife of Amir  NN
+                                                            - **'Amr Muzaikhiya bin  Aamir** (Q67627) — 8 desc, 4 ch
+                                                              - *leaves: Jafna son of  Amr Muzaiqiya, Thalabah son of  Amr Muzaiqiya, Imran son of  Amr Muzaiqiya*
+                            - **QAHTAN  fondateur du royaume du Yemen** (Q87291) — 104 desc, 1 ch
+                              - **Ya'rab of Yemen** (Q87279) — 103 desc, 1 ch
+                                - **Yashub of Yemen** (Q87272) — 102 desc, 1 ch
+                                  - **Abd Shams Saba  Le Grand** (Q87262) — 101 desc, 1 ch
+                                    - **Himyar of Al-Hirah** (Q87249) — 100 desc, 1 ch
+                                      - **Al-Hamaysa** (Q87239) — 99 desc, 1 ch
+                                        - **Ayman** (Q87227) — 98 desc, 1 ch
+                                          - **Al-Ghauth** (Q87213) — 97 desc, 1 ch
+                                            - **Zuhayr** (Q87195) — 96 desc, 1 ch
+                                              - **Arib** (Q87179) — 95 desc, 1 ch
+                                                - **Qatan** (Q87155) — 94 desc, 1 ch
+                                                  - **Al-Ghauth** (Q87133) — 93 desc, 1 ch
+                                                    - **Wail** (Q87113) — 92 desc, 1 ch
+                                                      - **Abd Shams** (Q87095) — 91 desc, 1 ch
+                                                        - **Jusham** (Q87075) — 90 desc, 1 ch
+                                                          - **Muawiya** (Q87055) — 89 desc, 1 ch
+                                                            - **Qais** (Q87035) — 88 desc, 1 ch
+                      - **African North Afrasian** (Q55841) — 32384 desc, 2 ch
+                        - **Egyptian** (Q55881) — 32228 desc, 1 ch
+                          - **Osiris** (Q62662) — 32227 desc, 1 ch ⚭ Isis
+                            - **Horus** (Q62656) — 32226 desc, 2 ch ⚭ Serket
+                              - **7  Pharaoh of Egypt** (Q62653) — 32209 desc, 1 ch
+                                - **6  Pharaoh of Egypt** (Q62650) — 32208 desc, 1 ch
+                                  - **5  Pharaoh of Egypt** (Q62647) — 32207 desc, 1 ch
+                                    - **4  Pharaoh of Egypt** (Q62644) — 32206 desc, 1 ch
+                                      - **3  Pharaoh of Egypt** (Q62641) — 32205 desc, 1 ch
+                                        - **2  Pharaoh of Egypt** (Q62638) — 32204 desc, 1 ch
+                                          - **1  Pharaoh of Egypt** (Q62632) — 32203 desc, 1 ch
+                                            - **A  Pharaoh of Egypt** (Q62582) — 32202 desc, 1 ch
+                                              - **Finger Snail  Pharaoh of Egypt** (Q62579) — 32201 desc, 1 ch
+                                                - **Fish** (Q62576) — 32200 desc, 1 ch
+                                                  - **Pe-Hor** (Q62573) — 32199 desc, 1 ch
+                                                    - **Stork** (Q62567) — 32198 desc, 1 ch
+                                                      - **Bull** (Q62564) — 32197 desc, 1 ch
+                                                        - **Scorpion I** (Q85836) — 32196 desc, 1 ch
+                                                          - **Horus Crocodile** (Q85834) — 32195 desc, 1 ch
+                                                            - **Iry-Hor  Pharaoh of Egypt** (Q85830) — 32194 desc, 1 ch ⚭ NN  Faraon de Egipto
+                              - **[...]pu  Pharaoh of Lower Egypt** (Q62629) — 32209 desc, 1 ch
+                                - **Hsekiu  Pharaoh of Lower Egypt** (Q62626) — 32208 desc, 1 ch
+                                  - **Khayu** (Q62623) — 32207 desc, 1 ch
+                                    - **Tiu** (Q62620) — 32206 desc, 1 ch
+                                      - **Thesh  Pharaoh of Lower Egypt** (Q62617) — 32205 desc, 1 ch
+                                        - **Neheb  Pharaoh of Lower Egypt** (Q62614) — 32204 desc, 1 ch
+                                          - **Wazner  Pharaoh of Lower Egypt** (Q62611) — 32203 desc, 1 ch
+                                            - **Mekh  Pharaoh of Lower Egypt** (Q62609) — 32202 desc, 1 ch
+                                              - **[...]a  Pharaoh of Lower Egypt** (Q62606) — 32201 desc, 1 ch
+                                                - **Hedju Hor  Pharaoh of Lower Egypt** (Q62600) — 32200 desc, 1 ch
+                                                  - **Ny-Hor  Pharaoh of Lower Egypt** (Q62597) — 32199 desc, 1 ch
+                                                    - **Ni-Neith  Pharaoh of Lower Egypt** (Q62594) — 32198 desc, 1 ch
+                                                      - **Hat-Hor  Pharaoh of Lower Egypt** (Q62591) — 32197 desc, 1 ch
+                                                        - **Double Falcon** (Q62588) — 32196 desc, 1 ch
+                                                          - **Wash** (Q62585) — 32195 desc, 1 ch
+                                                            - **NN  Faraon de Egipto** (Q85832) — 32194 desc, 1 ch ⚭ Iry-Hor  Pharaoh of Egypt
+                        - **Chado-Berber** (Q55709) — 28723 desc, 2 ch
+                          - **Berber** (Q55797) — 28720 desc, 1 ch
+                            - **Yasin  banu numidia** (Q72218) — 28719 desc, 1 ch
+                              - **Xarif  banu numidia** (Q72215) — 28718 desc, 1 ch
+                                - **Wahid  banu numidia** (Q72212) — 28717 desc, 1 ch
+                                  - **Vazan  banu numidia** (Q72209) — 28716 desc, 1 ch
+                                    - **Uthman  banu numidia** (Q72203) — 28715 desc, 1 ch
+                                      - **Tahar  banu numidia** (Q72200) — 28714 desc, 1 ch
+                                        - **Salah  banu numidia** (Q72197) — 28713 desc, 1 ch
+                                          - **Rashid  banu numidia** (Q72194) — 28712 desc, 1 ch
+                                            - **Qadir  banu numidia** (Q72191) — 28711 desc, 1 ch
+                                              - **Parizad  banu numidia** (Q72188) — 28710 desc, 1 ch
+                                                - **Omar  banu numidia** (Q72185) — 28709 desc, 1 ch
+                                                  - **Nadir  banu numidia** (Q72182) — 28708 desc, 1 ch
+                                                    - **Maysar  banu numidia** (Q72179) — 28707 desc, 1 ch
+                                                      - **Labid  banu numidia** (Q72176) — 28706 desc, 1 ch
+                                                        - **Kamel  banu numidia** (Q72170) — 28705 desc, 1 ch
+                                                          - **Jaffar  banu numidia** (Q72167) — 28704 desc, 1 ch
+                                                            - **Idris  banu numidia** (Q72164) — 28703 desc, 1 ch
+                          - **Chadic** (Q55753) — 1 desc, 1 ch ⚭ rr1b
+                    - **Cushomotic** (Q55505) — 2 desc, 2 ch
+                      - *leaves: Omotic, Cushitic*
+                  - **E1b1b1 (M35)** (Q2551) — 20 desc, 4 ch
+                    - **E1b1b1a (V68)** (Q2553) — 12 desc, 4 ch
+                      - **E-M78** (Q2557) — 8 desc, 8 ch
+                        - *leaves: Balkans  E-V13, Q53278, E-V65, Q53274, Q53269 +3 more*
+                      - **Q53257** (Q53257) — 4 desc, 4 ch
+                      - *leaves: Q53261, E-V2729*
+                    - **Q53241** (Q53241) — 10 desc, 2 ch
+                      - *→ see E-M78 (Q2557) above*
+                    - **E1b1b1b (Z827)** (Q2554) — 4 desc, 4 ch
+                      - *leaves: Q53249, Q53253, E-M123, E-M81*
+                    - **Q53245** (Q53245) — 2 desc, 2 ch
+                  - **Q53233** (Q53233) — 18 desc, 2 ch
+                    - *→ see E1b1b1a (V68) (Q2553) above*
+                    - *→ see E1b1b1b (Z827) (Q2554) above*
+                  - **E1b1b2 (M281)** (Q2552) — 0 desc, 0 ch
+                  - **Q53237** (Q53237) — 0 desc, 0 ch
+                - **Q53290** (Q53290) — 0 desc, 0 ch
+                - **Niger-Congo  E1b1a** (Q29718) — 0 desc, 0 ch
+              - **Haplogroup D** (Q1162) — 7 desc, 3 ch
+                - **Dibeth  Tibeto-Burman Haplogroup D** (Q55177) — 4 desc, 3 ch ⚭ Dmother  Tibeto-Burman Haplogroup D
+                - **Domon  Jomon people** (Q70047) — 0 desc, 0 ch
+                - **Andamanese  Haplogroup D** (Q70044) — 0 desc, 0 ch
+          - **Q4067** (Q4067) — 0 desc, 0 ch
+        - **PF712) A1b1 (L419?PF712)** (Q152978) — 11 desc, 2 ch
+          - **A1b1b (M32) formerly A3** (Q1148) — 6 desc, 2 ch
+            - **A1b1b2 (L427)** (Q1153) — 4 desc, 2 ch
+              - **Page42) formerly A3b1 A1b1b2a (M51?Page42) formerly A3b1** (Q152979) — 1 desc, 1 ch
+                - **A1b1b2a1 (P291)** (Q1156) — 0 desc, 0 ch
+              - **PF1374) formerly A3b2 A1b1b2b (M13?PF1374) formerly A3b2** (Q152980) — 1 desc, 1 ch
+                - **A1b1b2b1 (M118)** (Q1157) — 0 desc, 0 ch
+            - **A1b1b1 (M28) formerly A3a** (Q1152) — 0 desc, 0 ch
+          - **A1b1a (L602, V50, V82, V198, V224)** (Q1147) — 3 desc, 1 ch
+            - **A1b1a1 (M14) formerly A2** (Q1149) — 2 desc, 1 ch
+              - **A1b1a1a (M6)** (Q1150) — 1 desc, 1 ch
+                - **A1b1a1a1 (P28) formerly A1b1a1a1b and A2b** (Q1151) — 0 desc, 0 ch
+      - **A1a (M31)** (Q1143) — 0 desc, 0 ch
+    - **L991) formerly A1b A0 (CTS2809?L991) formerly A1b** (Q152977) — 0 desc, 0 ch
+  - **Seth** (Q134747) — 35817 desc, 2 ch ⚭ Azura
+    - **Enos** (Q134510) — 35815 desc, 3 ch ⚭ Noam
+      - **Kenan** (Q134022) — 35811 desc, 1 ch ⚭ Mualeleth
+        - **Mahalalel** (Q132727) — 35810 desc, 1 ch ⚭ Dinah
+          - **Jared** (Q131418) — 35809 desc, 2 ch
+            - **Enoch** (Q130380) — 35806 desc, 2 ch
+              - **Methuselah** (Q129961) — 35804 desc, 1 ch ⚭ Edna
+                - **Lamech** (Q129841) — 35803 desc, 1 ch ⚭ Bat-Enosh
+                  - **Shu-Ilishu** (Q70439) — 35802 desc, 5 ch ⚭ Naamah, Emzara, Spouse of Shu-Ilishu
+                    - **Puzur-Ashur** (Q70442) — 35726 desc, 5 ch ⚭ Spouse of Puzur-Ashur
+                      - **Ishme-Dagan** (Q70445) — 35712 desc, 2 ch ⚭ Spouse of Ishme-Dagan
+                        - **Naram-Ilum** (Q70451) — 35710 desc, 1 ch ⚭ Spouse of Naram-Ilum
+                          - **Ilum-bani** (Q70454) — 35709 desc, 2 ch ⚭ Spouse of Ilum-bani
+                            - **Iddin-Sin** (Q70457) — 35696 desc, 1 ch ⚭ Spouse of Iddin-Sin
+                              - **Shu-Sin** (Q70460) — 35695 desc, 1 ch ⚭ Ora, daughter of Ur, Spouse of Shu-Sin
+                                - **Ur-Ninurta  The Amorite** (Q70463) — 35694 desc, 3 ch ⚭ Spouse of Ur-Ninurta
+                                  - **Nahor** (Q47345) — 35591 desc, 2 ch ⚭ Reumah
+                                    - **Terah** (Q129293) — 35589 desc, 5 ch ⚭ Amasla
+                                      - **Abraham** (Q85228) — 35544 desc, 10 ch ⚭ Hagar, Keturah, Sarah
+                                        - **Isaac** (Q129309) — 33136 desc, 2 ch ⚭ Rebecca
+                                          - **Jacob** (Q85226) — 33027 desc, 14 ch ⚭ Bilhah, Zilpa, Leah +1 more
+                                            - **Dinah  daughter of Jacob** (Q70568) — 31835 desc, 1 ch ⚭ Shechem
+                                              - **Asenath** (Q85859) — 31834 desc, 2 ch ⚭ Joseph
+                                                - **Manesseh Semqen  Hyksos Pharaoh** (Q85853) — 31827 desc, 3 ch ⚭ Siria  The Amoritess
+                                                  - **Khyan  Hyksos Pharaoh** (Q85849) — 31806 desc, 2 ch
+                                                    - **Nubkhaas** (Q85446) — 31804 desc, 4 ch ⚭ Sekhemre Shedtawy Sobekemsaf II
+                                                      - **Nubkheperre Intef** (Q85430) — 31798 desc, 8 ch ⚭ Sobekemsaf
+                                                        - **This line really does not make sense** (Q85416) — 31549 desc, 4 ch ⚭ Psusennes II . . High Priest of Amun, Pharaoh of Egypt, Psusennes II .
+                                                          - **Maatkare Princess of Egypt** (Q195016) — 31517 desc, 1 ch ⚭ Osorkon I
+                                                            - **Heqakheperre Setepenre Shoshenq II Pharaoh of Egypt** (Q195426) — 31516 desc, 3 ch ⚭ Tashedkhonsu of Egypt Queen Consort of Egypt, Nesitanebetashru Queen of Egypt, Wife of Heqakheperre Setepenre Shoshenk, King of Egypt .
+                                                              - *leaves: Osorkon*
+                                                          - **Karomat A .** (Q85412) — 31504 desc, 1 ch ⚭ Hedjkheperre Setepenre Shoshenq I
+                                                            - **Osorkon I Sekhemkheperre - Seteperre I Pharaoh of  Egypt** (Q85398) — 31503 desc, 2 ch ⚭ Tashedkhonsu ., Maatkare
+                                                          - **Tashedkhonsu .** (Q85400) — 31501 desc, 1 ch ⚭ Osorkon I Sekhemkheperre - Seteperre I Pharaoh of  Egypt
+                                                            - **Hedjkheperre Setepenre Takelot I** (Q85390) — 31500 desc, 2 ch ⚭ Kapes
+                                                          - **Maatkare** (Q85438) — 31478 desc, 1 ch ⚭ Osorkon I Sekhemkheperre - Seteperre I Pharaoh of  Egypt
+                                                            - **Heqakheperre Setepenre Shoshenq II** (Q85420) — 31477 desc, 1 ch ⚭ Wife of Heqakheperre Setepenre Shoshenk, King of Egypt
+                                                        - **Senakhtenre Ahmose Pharaoh of Egypt** (Q195126) — 120 desc, 4 ch ⚭ Tetisheri . Queen of Egypt
+                                                          - **Seqenenre Tao Tao II Nomarch At . Pharaoh of Egypt** (Q195370) — 116 desc, 11 ch ⚭ Ahmose-Inhapi . . Queen of Egypt, Ahhotep I . . Queen of Egypt, Sitdjehuti . . Queen of Egypt
+                                                            - **Nebpehtire Ahmose I Pharaoh of Egypt** (Q195117) — 104 desc, 9 ch ⚭ Ahmose-Henuttamehu, Ahmose-Nefertari Gods Wife Great Royal Wife, God's Wife of Amun, Ahmose-Sitkamose Pharaoh +2 more
+                                                              - *leaves: Satkamas, Ahmose-ankh . ., Tair, Siamun . ., Prince Ramose A +1 more*
+                                                            - **Ahmose-Nefertari Gods Wife Great Royal Wife, God's Wife of Amun** (Q195118) — 102 desc, 7 ch ⚭ Nebpehtire Ahmose I Pharaoh of Egypt
+                                                            - **Wadjkheperre Kamose Pharaoh of Egypt** (Q195052) — 1 desc, 1 ch ⚭ Ahhotep I . . Queen of Egypt
+                                                              - *leaves: Ahmose-Sitkamose Pharaoh*
+                                                            - *leaves: Ahmose Sapair . ., Ahmose-Tumerisy . ., Ahmose-Meritamon . ., Binpu . ., Ahmose-Henuttamehu +3 more*
+                                                          - **Ahhotep I . . Queen of Egypt** (Q195120) — 114 desc, 10 ch ⚭ Wadjkheperre Kamose Pharaoh of Egypt, Seqenenre Tao Tao II Nomarch At . Pharaoh of Egypt
+                                                            - *→ see Nebpehtire Ahmose I Pharaoh of Egypt (Q195117) above*
+                                                            - *→ see Ahmose-Nefertari Gods Wife Great Royal Wife, God's Wife of Amun (Q195118) above*
+                                                          - **Ahmose-Inhapi . . Queen of Egypt** (Q195050) — 1 desc, 1 ch ⚭ Seqenenre Tao Tao II Nomarch At . Pharaoh of Egypt
+                                                          - **Sitdjehuti . . Queen of Egypt** (Q195373) — 1 desc, 1 ch ⚭ Seqenenre Tao Tao II Nomarch At . Pharaoh of Egypt
+                                                        - **Senakhtenre Ahmose** (Q85899) — 119 desc, 4 ch
+                                                          - **Seqenenre Tao Tao II Nomarch At** (Q85907) — 115 desc, 11 ch ⚭ Ahmose-Inhapi ., Sitdjehuti ., Ahhotep I .
+                                                            - **Nebpehtire Ahmose I** (Q85921) — 103 desc, 9 ch ⚭ Ahmose-Nefertari Gods Wife, Ahmose-Nebetta ., Ahmose-Henuttamehu +1 more
+                                                              - *leaves: Siamun ., Ahmose-Sitamun ., Ramose A, Ahmose-ankh ., Tair +1 more*
+                                                            - **Ahmose-Nefertari Gods Wife** (Q85923) — 101 desc, 7 ch ⚭ Nebpehtire Ahmose I
+                                                            - **Wadjkheperre Kamose** (Q85925) — 1 desc, 1 ch ⚭ Ahhotep I .
+                                                              - *leaves: Ahmose-Sitkamose  Pharaoh*
+                                                            - *leaves: Ahmose Sapair ., Ahmose-Tumerisy ., Ahmose-Henuttamehu, Ahmose-Henutemipet ., Binpu . +3 more*
+                                                          - **Ahhotep I .** (Q85913) — 113 desc, 10 ch ⚭ Seqenenre Tao Tao II Nomarch At, Wadjkheperre Kamose
+                                                            - *→ see Nebpehtire Ahmose I (Q85921) above*
+                                                            - *→ see Ahmose-Nefertari Gods Wife (Q85923) above*
+                                                          - **Ahmose-Inhapi .** (Q85909) — 1 desc, 1 ch ⚭ Seqenenre Tao Tao II Nomarch At
+                                                          - **Sitdjehuti .** (Q85911) — 1 desc, 1 ch ⚭ Seqenenre Tao Tao II Nomarch At
+                                                        - **Senakhtenre Ahmose  Pharaoh of Egypt** (Q85861) — 2 desc, 1 ch
+                                                          - **Seqenenre Tao  Pharaoh of Egypt** (Q85863) — 1 desc, 1 ch
+                                                            - *leaves: Kamose  Pharaoh of Egypt*
+                                                        - *leaves: Sekhemre-Heruhirmaat Intef, Neferu of Intef VII, Sekhemre-Heruhirmaat Intef Pharaoh of Egypt, Neferu of Intef VII*
+                                                      - **Tey Princess of Mitanni** (Q195495) — 1 desc, 1 ch ⚭ Yeh Pharaoh of Egypt
+                                                        - *leaves: Nectonibus Or Apries Pharoah Of Egypt*
+                                                      - **Sekhemre-Wepmaat Intef Pharaoh of Egypt** (Q195705) — 1 desc, 1 ch
+                                                        - *leaves: Rahotpe*
+                                                      - *leaves: Nebiryerawet (Nebireraw Nebiryau) I Pharaoh of Egypt*
+                                                    - *leaves: Apepi  Hyksos Pharaoh*
+                                                  - **Machir** (Q129648) — 18 desc, 2 ch ⚭ Hammoleheth
+                                                    - **Gilead** (Q129765) — 12 desc, 2 ch ⚭ Hammoleheth
+                                                      - **Hepher** (Q129927) — 10 desc, 5 ch
+                                                        - **Zelophehad** (Q129915) — 5 desc, 5 ch
+                                                          - *leaves: Hoglah, Noa, Milcah, Mahlah, Tirzah*
+                                                        - *leaves: Shemida, Abiezer, Shechem, Helek*
+                                                      - *leaves: Asriel*
+                                                    - **Hammoleheth** (Q129747) — 4 desc, 2 ch ⚭ Machir, Gilead, Jair +1 more
+                                                      - **Segub** (Q129755) — 1 desc, 1 ch
+                                                        - *leaves: Jair*
+                                                      - **Ashhur** (Q129759) — 1 desc, 1 ch
+                                                        - *leaves: Tekoa*
+                                                  - *leaves: Jair*
+                                                - **Ephraim  Hyksos Pharaoh** (Q85867) — 5 desc, 4 ch
+                                                  - **Shuthelah** (Q129654) — 1 desc, 1 ch
+                                                    - *leaves: Eran*
+                                                  - *leaves: Sherah, Tahan, Beker*
+                                            - **Joseph** (Q85855) — 31834 desc, 2 ch ⚭ Asenath
+                                              - *→ see Manesseh Semqen  Hyksos Pharaoh (Q85853) above*
+                                              - *→ see Ephraim  Hyksos Pharaoh (Q85867) above*
+                                            - **Judah** (Q85883) — 29626 desc, 5 ch ⚭ Bat Choua, Tamar
+                                              - **Perez** (Q38234) — 29618 desc, 2 ch
+                                                - **Hezron  Tribe of Judah** (Q86517) — 29616 desc, 6 ch ⚭ Hammoleheth, Abijah
+                                                  - **Ram  Tribe of Judah** (Q86509) — 29570 desc, 1 ch
+                                                    - **Amminadab  Tribe of Judah** (Q86507) — 29569 desc, 2 ch
+                                                      - **Nahshon** (Q38230) — 29388 desc, 2 ch
+                                                        - **Salmon** (Q38222) — 29384 desc, 1 ch ⚭ Rahab
+                                                          - **Boaz** (Q123906) — 29383 desc, 1 ch ⚭ Ruth
+                                                            - **Obed** (Q118788) — 29382 desc, 1 ch
+                                                        - **Elimelech** (Q130356) — 2 desc, 2 ch ⚭ Naomi
+                                                          - *leaves: Mahlon, Chilion*
+                                                      - **Elisheba** (Q86505) — 29192 desc, 4 ch ⚭ Aaron  High Priest of Israel
+                                                        - **Eleazar** (Q85216) — 29188 desc, 1 ch ⚭ daughter of Putiel
+                                                          - **Phinehas** (Q85214) — 29187 desc, 2 ch
+                                                            - **Abishua  High Priest of Israel** (Q85212) — 29144 desc, 1 ch
+                                                            - **Abishua** (Q130360) — 67 desc, 1 ch
+                                                        - *leaves: Nadab, Abihu, Ithamar*
+                                                  - **Jerahmeel** (Q129751) — 32 desc, 5 ch ⚭ Atarah
+                                                    - **Onam** (Q129901) — 24 desc, 2 ch
+                                                      - **Shammai** (Q130330) — 22 desc, 2 ch
+                                                        - **Nadab** (Q131398) — 18 desc, 2 ch
+                                                          - **Appaim** (Q132718) — 16 desc, 1 ch
+                                                            - **Ishi** (Q134017) — 15 desc, 1 ch
+                                                          - *leaves: Seled*
+                                                        - **Abishur** (Q131400) — 2 desc, 2 ch ⚭ Abihail
+                                                          - *leaves: Molid, Ahban*
+                                                      - *leaves: Jada*
+                                                    - **Ram** (Q129899) — 3 desc, 3 ch
+                                                      - *leaves: Maaz, Jamin, Eker*
+                                                    - *leaves: Oren, Ozem, Bunah*
+                                                  - **Caleb** (Q129753) — 5 desc, 2 ch ⚭ Ephrath
+                                                    - **Hur** (Q129907) — 2 desc, 1 ch
+                                                      - **Uri** (Q130336) — 1 desc, 1 ch
+                                                        - *leaves: Bezalel*
+                                                    - **Mesha** (Q129905) — 1 desc, 1 ch
+                                                      - *leaves: Ziph*
+                                                  - **Arni** (Q129757) — 1 desc, 1 ch
+                                                    - *leaves: Admin*
+                                                - *leaves: Hamul*
+                                              - **Zerah** (Q129487) — 3 desc, 1 ch
+                                                - **Zabdi** (Q129642) — 2 desc, 1 ch
+                                                  - **Carmi** (Q129761) — 1 desc, 1 ch
+                                                    - *leaves: Achan*
+                                              - *leaves: Shelah, Onan, Er*
+                                            - **Levi** (Q85224) — 29234 desc, 4 ch ⚭ Adinah
+                                              - **Kehath  HaLevi** (Q85222) — 29213 desc, 4 ch
+                                                - **Amram  HaLevi** (Q85220) — 29201 desc, 5 ch ⚭ Jochebed
+                                                  - **Aaron  High Priest of Israel** (Q85218) — 29192 desc, 4 ch ⚭ Elisheba
+                                                    - *→ see Eleazar (Q85216) above*
+                                                  - **Moses** (Q129690) — 4 desc, 2 ch ⚭ Zipporah, Tharbis
+                                                    - **Eliezer** (Q129795) — 1 desc, 1 ch
+                                                      - *leaves: Rechavia*
+                                                    - **Gershom** (Q129793) — 1 desc, 1 ch
+                                                      - *leaves: Shebuel*
+                                                  - *leaves: Moses in Islam, Harun, Miriam*
+                                                - **Izhar** (Q129680) — 5 desc, 3 ch
+                                                  - **Korah** (Q129706) — 2 desc, 2 ch
+                                                    - *leaves: Elkanah, Assir*
+                                                  - *leaves: Zichri, Nepheg*
+                                                - **Uzziel** (Q129684) — 3 desc, 3 ch ⚭ Miriam
+                                                  - *leaves: Elzaphan, Mishael, Sithri*
+                                                - *leaves: Hebron*
+                                              - **Jochebed** (Q129590) — 29201 desc, 5 ch ⚭ Amram  HaLevi
+                                                - *→ see Aaron  High Priest of Israel (Q85218) above*
+                                                - *→ see Moses (Q129690) above*
+                                              - **Gershon** (Q129584) — 15 desc, 2 ch
+                                                - **Libni** (Q129676) — 13 desc, 1 ch
+                                                  - **Jahath** (Q129777) — 12 desc, 1 ch
+                                                    - **Shimei ben Jahath** (Q129931) — 11 desc, 1 ch
+                                                      - **Zimmah** (Q130350) — 10 desc, 1 ch
+                                                        - **Joah** (Q131404) — 9 desc, 1 ch
+                                                          - **Iddo** (Q132722) — 8 desc, 1 ch
+                                                            - **Zerah** (Q134018) — 7 desc, 1 ch
+                                                - *leaves: Simei*
+                                              - **Merari** (Q129588) — 2 desc, 2 ch
+                                                - *leaves: Mahli, Mushi*
+                                            - **Benjamin** (Q85887) — 13 desc, 10 ch
+                                              - **Bela** (Q129520) — 2 desc, 2 ch
+                                                - *leaves: Ard, Naaman*
+                                              - **Becher** (Q129524) — 1 desc, 1 ch
+                                                - *leaves: Abijah*
+                                              - *leaves: Gera, Huppim, Muppim, Naaman, Ard +3 more*
+                                            - **Reuben** (Q85875) — 8 desc, 4 ch ⚭ Eliuram
+                                              - **Phallu** (Q129576) — 4 desc, 1 ch
+                                                - **Eliab** (Q129672) — 3 desc, 3 ch
+                                                  - *leaves: Abiram, Nemuel, Dathan*
+                                              - *leaves: Hanoch, Hezron, Karmi*
+                                            - **Asher** (Q85893) — 7 desc, 5 ch
+                                              - **Beriah** (Q129546) — 2 desc, 2 ch
+                                                - *leaves: Heber, Malchiel*
+                                              - *leaves: Jimnah, Ishvi, Serah, Ishuah*
+                                            - **Gad** (Q85891) — 7 desc, 7 ch
+                                              - *leaves: Eri, Ziphion, Arodi, Areli, Haggi +2 more*
+                                            - **Simeon** (Q85881) — 6 desc, 6 ch ⚭ Dinah
+                                              - *leaves: Jamin, Ohad, Zohar, Jakin, Jemuel +1 more*
+                                            - **Issachar** (Q85877) — 4 desc, 4 ch ⚭ Eridah
+                                              - *leaves: Shimron, Puah, Tola, Jashub*
+                                            - **Naphtali** (Q85897) — 4 desc, 4 ch
+                                              - *leaves: Jezer, Shillem, Jahzeel, Guni*
+                                            - **Zebulun** (Q85879) — 3 desc, 3 ch ⚭ Merushah
+                                              - *leaves: Jahleel, Sered, Elon*
+                                            - **Dan** (Q85895) — 1 desc, 1 ch
+                                              - *leaves: Hushim*
+                                            - *leaves: Dinah*
+                                          - **Esau** (Q85871) — 19574 desc, 5 ch ⚭ Mahalath, Basemath, Judith +2 more
+                                            - **Eliphaz** (Q86273) — 19547 desc, 7 ch ⚭ Timna
+                                              - **Teman** (Q86275) — 19540 desc, 1 ch
+                                                - **Omar  Edomites** (Q86277) — 19539 desc, 1 ch
+                                                  - **Kenaz  Edomites** (Q86279) — 19538 desc, 1 ch
+                                                    - **Zerah  Edomites** (Q86281) — 19537 desc, 1 ch
+                                                      - **Jobab  Edomites** (Q86283) — 19536 desc, 1 ch
+                                                        - **Hadad I  Edomites** (Q86285) — 19535 desc, 1 ch
+                                                          - **Samla  Edomites** (Q86288) — 19534 desc, 1 ch
+                                                            - **Shaul  Edomites** (Q86290) — 19533 desc, 1 ch
+                                              - *leaves: Omar, Kenaz, Gatam, Timan, Amalek +1 more*
+                                            - **Korah** (Q129447) — 18 desc, 1 ch
+                                              - **Abiasaph** (Q129608) — 17 desc, 1 ch
+                                                - **Assir** (Q129708) — 16 desc, 1 ch
+                                                  - **Tahath** (Q129815) — 15 desc, 1 ch
+                                                    - **Zephaniah** (Q129957) — 14 desc, 1 ch
+                                                      - **Azariah** (Q130378) — 13 desc, 1 ch
+                                                        - **Joel** (Q131416) — 12 desc, 1 ch
+                                                          - **Elkanah** (Q132726) — 11 desc, 1 ch
+                                                            - **Amasai** (Q134021) — 10 desc, 1 ch
+                                            - **Reuel** (Q129433) — 4 desc, 4 ch
+                                              - *leaves: Nahath, Mizzah, Shammah, Zerah*
+                                            - *leaves: Jeush, יעלם*
+                                        - **Ismail  Ancestor of the Arabs** (Q85869) — 33039 desc, 1 ch ⚭ Egyptian woman
+                                          - **Qedar  Banu Ismail** (Q86435) — 33038 desc, 1 ch
+                                            - **Amr  Banu Ismail** (Q86437) — 33037 desc, 1 ch
+                                              - **Jusham  Banu Ismail** (Q86439) — 33036 desc, 1 ch
+                                                - **Nabit  Banu Ismail** (Q86441) — 33035 desc, 1 ch
+                                                  - **Yashjub  Banu Ismail** (Q86443) — 33034 desc, 1 ch
+                                                    - **Taima  Banu Ismail** (Q86445) — 33033 desc, 1 ch
+                                                      - **Mishma  Banu Ismail** (Q86447) — 33032 desc, 1 ch
+                                                        - **Hadhad  Banu Ismail** (Q86449) — 33031 desc, 1 ch
+                                                          - **Yathrib  Banu Ismail** (Q86451) — 33030 desc, 1 ch
+                                                            - **Nabit II  Banu Ismail** (Q86453) — 33029 desc, 1 ch
+                                        - **Ishmael** (Q129307) — 19 desc, 14 ch ⚭ Bint Al Madad
+                                          - **Basemath** (Q129365) — 5 desc, 1 ch ⚭ Esau
+                                            - *→ see Reuel (Q129433) above*
+                                          - *leaves: Tema, Mahalath, Mishma, Naphish, Massa +8 more*
+                                        - **Midian** (Q129317) — 10 desc, 5 ch
+                                          - **Abida** (Q129393) — 5 desc, 1 ch
+                                            - **Molad** (Q129451) — 4 desc, 1 ch
+                                              - **Merushah** (Q129504) — 3 desc, 3 ch ⚭ Zebulun
+                                          - *leaves: Elda'a, Ephah, Epher, Enoch*
+                                        - **Jokshan** (Q129313) — 2 desc, 2 ch
+                                          - *leaves: Dedan, Sheba*
+                                        - *leaves: Shuah, Ishbak, Medan, Bakol, Zimran*
+                                      - **Haran** (Q86391) — 33163 desc, 3 ch
+                                        - **Milcah** (Q4676) — 33152 desc, 8 ch ⚭ Nahor
+                                          - **Bethuel** (Q38238) — 33143 desc, 2 ch ⚭ Adinah
+                                            - **Rebecca** (Q86387) — 33138 desc, 3 ch ⚭ Isaac, Isaac in Islam
+                                              - *→ see Jacob (Q85226) above*
+                                              - *→ see Esau (Q85871) above*
+                                              - **Jacob in Islam** (Q129423) — 1 desc, 1 ch ⚭ Rachel
+                                                - *leaves: Joseph in Islam*
+                                            - **Laban** (Q85889) — 33015 desc, 3 ch ⚭ Adinah
+                                              - **Leah** (Q85873) — 32989 desc, 8 ch ⚭ Jacob
+                                                - *→ see Dinah  daughter of Jacob (Q70568) above*
+                                                - *→ see Judah (Q85883) above*
+                                                - *→ see Levi (Q85224) above*
+                                                - *→ see Reuben (Q85875) above*
+                                                - *→ see Simeon (Q85881) above*
+                                                - *→ see Issachar (Q85877) above*
+                                                - *→ see Zebulun (Q85879) above*
+                                              - **Rachel** (Q85884) — 31850 desc, 3 ch ⚭ Jacob in Islam, Jacob
+                                                - *→ see Joseph (Q85855) above*
+                                                - *→ see Benjamin (Q85887) above*
+                                              - **Bilhah** (Q129435) — 7 desc, 2 ch ⚭ Jacob
+                                                - *→ see Naphtali (Q85897) above*
+                                          - **Uz** (Q129333) — 1 desc, 1 ch
+                                            - *leaves: Deborah*
+                                          - *leaves: Jidlaph, Kemuel, Chesed, Buz, Hazo +1 more*
+                                        - **Lot** (Q86393) — 8 desc, 8 ch ⚭ Lot's wife, Lot's older daughter, Lot's younger daughter +2 more
+                                          - **younger daughter** (Q86399) — 1 desc, 1 ch ⚭ Lot
+                                            - *leaves: Ben-Ammi  Ammonites*
+                                          - **Lot's older daughter** (Q129415) — 1 desc, 1 ch ⚭ Lot
+                                            - *leaves: Moab*
+                                          - **older daughter** (Q86397) — 1 desc, 1 ch ⚭ Lot
+                                            - *leaves: Moab  Moabites*
+                                          - **Lot's younger daughter** (Q129417) — 1 desc, 1 ch ⚭ Lot
+                                            - *leaves: Ben-Ammi*
+                                        - *leaves: Iscah*
+                                      - **Nahor** (Q4675) — 33155 desc, 11 ch ⚭ Reumah, Milcah, Q60372
+                                        - *→ see Bethuel (Q38238) above*
+                                        - *leaves: Maacah, Tahash, Tebah*
+                                      - **Sekhaenre Yakbim  Amorite Pharaoh (14th dynasty)** (Q70565) — 31815 desc, 1 ch ⚭ daughter of Sekhemre Khutawy
+                                        - **Nubwoserre Ya'ammu  Amorite Pharaoh (14th dynasty)** (Q70562) — 31814 desc, 1 ch
+                                          - **Khawoserre Qareh  Amorite Pharaoh (14th dynasty)** (Q70559) — 31813 desc, 1 ch
+                                            - **Aahotepre 'Ammu  Amorite Pharaoh (14th dynasty)** (Q70553) — 31812 desc, 1 ch
+                                              - **Maaibre Sheshi  Amorite Pharaoh (14th dynasty)** (Q70550) — 31811 desc, 1 ch
+                                                - **Nehesy** (Q70547) — 31810 desc, 1 ch
+                                                  - **Nebsenra** (Q70544) — 31809 desc, 1 ch
+                                                    - **Bebnum  Amorite Pharaoh (14th dynasty)** (Q70541) — 31808 desc, 1 ch
+                                                      - **Siria  The Amoritess** (Q85857) — 31807 desc, 1 ch ⚭ Manesseh Semqen  Hyksos Pharaoh
+                                                        - *→ see Khyan  Hyksos Pharaoh (Q85849) above*
+                                      - **Ibrahim** (Q129419) — 4 desc, 2 ch ⚭ Hagar, Sarah
+                                        - **Isaac in Islam** (Q129355) — 2 desc, 1 ch ⚭ Rebecca
+                                        - *leaves: Ismail*
+                                    - *leaves: Gaham*
+                                  - **Sumuabum  King of Babylon** (Q70466) — 31516 desc, 1 ch
+                                    - **Sumulael** (Q70412) — 31515 desc, 1 ch
+                                      - **Sabium** (Q70409) — 31514 desc, 1 ch
+                                        - **Apil-Sin** (Q70406) — 31513 desc, 1 ch
+                                          - **Sin-Muballit** (Q70403) — 31512 desc, 1 ch
+                                            - **Hammurabi** (Q70400) — 31511 desc, 1 ch
+                                              - **Samsuiluna** (Q70418) — 31510 desc, 2 ch
+                                                - **Ennana-bani  daughter of Samsuiluna** (Q70397) — 31505 desc, 1 ch ⚭ Adasi, king of Assyria
+                                                  - **Bel-bani, king of Assyria** (Q75414) — 31504 desc, 1 ch
+                                                    - **Bazaya** (Q75411) — 31503 desc, 1 ch
+                                                      - **Shu-Ninua, king of Assyria** (Q75408) — 31502 desc, 1 ch
+                                                        - **Erishum III** (Q75405) — 31501 desc, 1 ch
+                                                          - **Shamshi-Adad II** (Q75402) — 31500 desc, 1 ch
+                                                            - **Ishme-Dagan II** (Q75399) — 31499 desc, 1 ch
+                                                - **Abieshu  King of Babylon** (Q70421) — 3 desc, 1 ch
+                                                  - **Ammiditana  King of Babylon** (Q70424) — 2 desc, 1 ch
+                                                    - **Ammisaduqa  King of Babylon** (Q70427) — 1 desc, 1 ch
+                                                      - *leaves: Samsuditana  King of Babylon*
+                                  - **Ithobaal  Genarch** (Q51800) — 5 desc, 5 ch
+                                    - *leaves: Ugaritic  Genarch, Samalian  Genarch, South Gileadite  Genarch, Taymanitic  Genarch, Aramaic  Genarch of Aram-Damascus and the later Aramaic cultures*
+                            - **Joktan** (Q129712) — 11 desc, 11 ch
+                              - *leaves: Jobab, Uzal, Hazarmaveth, Sheleph, Obal +6 more*
+                        - *leaves: Cainan*
+                      - **Elam** (Q129745) — 29627 desc, 4 ch
+                        - **Tamar** (Q129636) — 29623 desc, 2 ch ⚭ Er, Onan, Judah
+                          - *→ see Perez (Q38234) above*
+                          - *→ see Zerah (Q129487) above*
+                        - *leaves: Machul (son of Elam), Shushan (son of Elam), Harmon (son of Elam)*
+                      - **Aram** (Q129865) — 5 desc, 4 ch
+                        - **Uz** (Q130300) — 1 desc, 1 ch
+                          - *leaves: Ad*
+                        - *leaves: Hul, Mash, Gether*
+                      - *leaves: Lud, Ashur*
+                    - **Japheth** (Q129720) — 47 desc, 7 ch
+                      - **Gomer** (Q129867) — 36 desc, 3 ch
+                        - **Togarmah** (Q130310) — 33 desc, 8 ch
+                          - **Hayk** (Q131382) — 17 desc, 7 ch
+                            - **Armenak** (Q132705) — 10 desc, 2 ch
+                              - **Arameis** (Q134013) — 8 desc, 3 ch
+                                - **Amasias** (Q134504) — 5 desc, 1 ch
+                                  - **Gegham** (Q134740) — 4 desc, 2 ch
+                                    - **Arma (roi legendaire d'Armenie)** (Q134835) — 2 desc, 1 ch
+                                      - **Aram** (Q134876) — 1 desc, 1 ch
+                                        - *leaves: Ara the Beautiful*
+                                    - *leaves: Sisak*
+                                - *leaves: Erast, Sarei*
+                              - *leaves: Kadmos*
+                            - *leaves: Aram, Mehekan, Khor Haykazuni, Kaghots, Manavaz Haykazuni +1 more*
+                          - **Kartlos** (Q131384) — 8 desc, 5 ch
+                            - **Mtskhetos** (Q132712) — 3 desc, 3 ch
+                              - *leaves: Odzrkhos, Djavakhos, Uplos*
+                            - *leaves: Gardabos, Gachios, Kukhos, Kakhos*
+                          - *leaves: Caucas, Movkan, Egros, Bardos, Lekos +1 more*
+                        - *leaves: Riphath, Ashkenaz*
+                      - **Javan** (Q129873) — 4 desc, 4 ch
+                        - *leaves: Tarshish, Elishah, Dodanim, Kittim*
+                      - *leaves: Madai, Tubal, Meshech, Magog, Tiras*
+                    - **Ham** (Q129614) — 44 desc, 4 ch
+                      - **Cush** (Q129461) — 31 desc, 6 ch
+                        - **Nimrod** (Q129427) — 23 desc, 2 ch ⚭ Masek
+                          - **Pharaoh** (Q129357) — 21 desc, 1 ch
+                            - **Hagar** (Q129303) — 20 desc, 1 ch ⚭ Abraham
+                              - *→ see Ishmael (Q129307) above*
+                          - *leaves: Eliezer*
+                        - **Raamah** (Q129628) — 2 desc, 2 ch
+                          - *leaves: Sheba, Dedan*
+                        - *leaves: Havilah, Sabtah, Sabtechah, Seba*
+                      - **Mizraim** (Q129616) — 7 desc, 7 ch
+                        - *leaves: Casluhim, Pathrusim, Caphtorim, Lehabim, Ludim +2 more*
+                      - **Canaan** (Q129618) — 2 desc, 2 ch
+                        - *leaves: Zidon, Heth*
+                      - *leaves: Phut*
+                    - *leaves: Kanʿān, Gionitus*
+              - **Emzara** (Q131420) — 0 desc, 0 ch ⚭ Shu-Ilishu
+            - **Azrial** (Q130382) — 35805 desc, 1 ch
+              - **Edna** (Q129963) — 35804 desc, 1 ch ⚭ Methuselah
+                - *→ see Lamech (Q129841) above*
+      - **Mualeleth** (Q134023) — 35811 desc, 1 ch ⚭ Kenan
+        - *→ see Mahalalel (Q132727) above*
+      - **Barakiel** (Q134749) — 1 desc, 1 ch
+        - **Dinah** (Q134842) — 0 desc, 0 ch ⚭ Mahalalel
+    - **Noam** (Q134511) — 35815 desc, 3 ch ⚭ Enos
+      - *→ see Kenan (Q134022) above*
+      - *→ see Mualeleth (Q134023) above*
+  - **Azura** (Q134748) — 35817 desc, 2 ch ⚭ Seth
+    - *→ see Enos (Q134510) above*
+    - *→ see Noam (Q134511) above*
+  - **Haplogroup A0-T** (Q16001278) — 109 desc, 2 ch
+    - **Haplogroup A1** (Q47089046) — 107 desc, 2 ch
+      - **Haplogroup A1b** (Q47089229) — 105 desc, 2 ch
+        - **Haplogroup BT** (Q1034077) — 103 desc, 2 ch
+          - **Haplogroup CT** (Q776355) — 101 desc, 2 ch
+            - **Haplogroup CF** (Q5651749) — 75 desc, 2 ch
+              - **Haplogroup F** (Q1034276) — 65 desc, 4 ch
+                - **Haplogroup GHIJK** (Q24975568) — 61 desc, 2 ch
+                  - **Haplogroup HIJK** (Q24975567) — 46 desc, 2 ch
+                    - **Haplogroup IJK** (Q1034228) — 44 desc, 2 ch
+                      - **Haplogroup K** (Q429136) — 36 desc, 2 ch
+                        - **Haplogroup K2** (Q1034207) — 30 desc, 2 ch
+                          - **Haplogroup NO** (Q2047511) — 22 desc, 1 ch
+                            - **Haplogroup O-M175** (Q428871) — 21 desc, 2 ch
+                              - **Haplogroup O-M122** (Q428845) — 12 desc, 2 ch
+                                - **Haplogroup O-M324** (Q99303290) — 9 desc, 1 ch
+                                  - **Haplogroup O-P201** (Q99303236) — 8 desc, 1 ch
+                                    - **Haplogroup O-P164** (Q99303416) — 7 desc, 2 ch
+                                      - **Haplogroup O-M134** (Q99292291) — 4 desc, 2 ch
+                                        - **Haplogroup O-M117** (Q25212362) — 1 desc, 1 ch
+                                          - *leaves: Haplogroup O-F155*
+                                        - **Haplogroup O-F114** (Q99303929) — 1 desc, 1 ch
+                                          - *leaves: Haplogroup O-CTS335*
+                                      - **Haplogroup O-AM01822** (Q99303615) — 1 desc, 1 ch
+                                        - *leaves: Haplogroup O-N7*
+                                - **Haplogroup O-F742** (Q99304108) — 1 desc, 1 ch
+                                  - *leaves: Haplogroup O-F837*
+                              - **Haplogroup O-F265** (Q99302735) — 7 desc, 2 ch
+                                - **Haplogroup O-M119** (Q5651883) — 3 desc, 1 ch
+                                  - **Haplogroup O-P203** (Q99482846) — 2 desc, 1 ch
+                                    - **Haplogroup O-F81** (Q99482918) — 1 desc, 1 ch
+                                      - *leaves: Haplogroup O-F492*
+                                - **Haplogroup O-M268** (Q5651884) — 2 desc, 2 ch
+                                  - *leaves: Haplogroup O-K18, Haplogroup O-M176*
+                          - **Haplogroup K2b-P331** (Q18216842) — 6 desc, 2 ch
+                            - **Haplogroup P-M45** (Q169559) — 4 desc, 1 ch
+                              - **Haplogroup P1** (Q28452989) — 3 desc, 1 ch
+                                - **Haplogroup Q-M242** (Q169543) — 2 desc, 1 ch
+                                  - **Haplogroup Q-NWT01** (Q5651941) — 1 desc, 1 ch
+                                    - *leaves: Haplogroup Q-M120*
+                            - *leaves: Haplogroup K2b1*
+                        - **Haplogroup LT** (Q24975477) — 4 desc, 2 ch
+                          - **Haplogroup L-M20** (Q428828) — 2 desc, 1 ch
+                            - **Haplogroup L-M22** (Q99464041) — 1 desc, 1 ch
+                              - *leaves: Haplogroup L-M27*
+                          - *leaves: Haplogroup T*
+                      - **Haplogroup IJ** (Q2468156) — 6 desc, 2 ch
+                        - **Haplogroup J** (Q1584175) — 2 desc, 2 ch
+                          - *leaves: Haplogroup J2, Haplogroup J1*
+                        - **Haplogroup I-M170** (Q429334) — 2 desc, 2 ch
+                          - *leaves: Haplogroup I2, Haplogroup I-M253*
+                    - *leaves: Haplogroup H*
+                  - **Haplogroup G** (Q1034232) — 13 desc, 2 ch
+                    - **Haplogroup G2** (Q42493225) — 11 desc, 2 ch
+                      - **Haplogroup G2a** (Q47091456) — 8 desc, 2 ch
+                        - **Haplogroup G2a2** (Q47091813) — 6 desc, 2 ch
+                          - **Haplogroup G2a2b** (Q47091836) — 4 desc, 2 ch
+                            - **Haplogroup G2a2b2** (Q47091871) — 2 desc, 2 ch
+                              - *leaves: Haplogroup G2a2b2b, Haplogroup G2a2b2a*
+                            - *leaves: Haplogroup G2a2b1*
+                          - *leaves: Haplogroup G2a2a*
+                        - *leaves: Haplogroup G2a1*
+                      - **Haplogroup G2b** (Q47091472) — 1 desc, 1 ch
+                        - *leaves: Haplogroup G2b1*
+                    - *leaves: Haplogroup G1*
+                - **Haplogroup F1** (Q47090544) — 0 desc, 0 ch
+                - **Haplogroup F3** (Q47090547) — 0 desc, 0 ch
+                - **Haplogroup F2** (Q47090546) — 0 desc, 0 ch
+              - **Haplogroup C** (Q392923) — 8 desc, 2 ch
+                - **Haplogroup C-M217** (Q5651742) — 4 desc, 1 ch
+                  - **Haplogroup C-L1373** (Q99304210) — 3 desc, 3 ch
+                    - *leaves: Haplogroup C-M401, Haplogroup C-M48, Haplogroup C-F1756*
+                - **Haplogroup C-F3393** (Q21010904) — 2 desc, 2 ch
+                  - **Haplogroup C-M8** (Q19938579) — 0 desc, 0 ch
+                  - **Haplogroup C-V20** (Q41326914) — 0 desc, 0 ch
+            - **Haplogroup DE** (Q2499275) — 24 desc, 2 ch
+              - **Haplogroup E** (Q1033982) — 17 desc, 2 ch
+                - **Haplogroup E-P147** (Q4133443) — 15 desc, 2 ch
+                  - **Haplogroup E-P177** (Q4133457) — 13 desc, 1 ch
+                    - **Haplogroup E-P2** (Q4133448) — 12 desc, 2 ch
+                      - **Haplogroup E-M215** (Q1033864) — 8 desc, 1 ch
+                        - **E-M35** (Q4133444) — 7 desc, 2 ch
+                          - **Haplogroup E-Z827** (Q4133451) — 3 desc, 1 ch
+                            - **Haplogroup E1b1b1b2** (Q106029221) — 2 desc, 1 ch
+                              - **Haplogroup E-M123** (Q4133454) — 1 desc, 1 ch
+                                - *leaves: Haplogroup E1b1b1b2a1*
+                          - **Haplogroup E-V68** (Q4133447) — 2 desc, 1 ch
+                            - **Haplogroup E1b1b1a1** (Q4133446) — 1 desc, 1 ch
+                              - *leaves: Haplogroup E-V13*
+                      - **Haplogroup E-V38** (Q5651795) — 2 desc, 2 ch
+                        - *leaves: Haplogroup E-M329, Haplogroup E-M2*
+                  - **Haplogroup E-M33** (Q17119078) — 0 desc, 0 ch
+                - **Haplogroup E-M75** (Q17119079) — 0 desc, 0 ch
+              - **Haplogroup D** (Q339685) — 5 desc, 2 ch
+                - **Haplogroup D1** (Q47109866) — 3 desc, 2 ch
+                  - **Haplogroup D1a** (Q5651747) — 1 desc, 1 ch
+                    - *leaves: Haplogroup D1a1*
+                  - **Haplogroup D1b** (Q11326667) — 0 desc, 0 ch
+                - **Haplogroup D2** (Q47110224) — 0 desc, 0 ch
+          - **Haplogroup B** (Q428838) — 0 desc, 0 ch
+        - **Haplogroup A1b1** (Q47089301) — 0 desc, 0 ch
+      - **Haplogroup A1a** (Q47089232) — 0 desc, 0 ch
+    - **Haplogroup A0** (Q47088911) — 0 desc, 0 ch
+  - **Cain** (Q134512) — 9 desc, 1 ch ⚭ Awan, Aclima, Cain's wife +1 more
+    - **Enoch** (Q134024) — 8 desc, 1 ch
+      - **Irad** (Q132728) — 7 desc, 1 ch
+        - **Mehujael** (Q131422) — 6 desc, 1 ch
+          - **Methusael** (Q130384) — 5 desc, 1 ch
+            - **Lamech** (Q129965) — 4 desc, 4 ch ⚭ Zillah, Adah
+              - **Naamah** (Q129845) — 0 desc, 0 ch ⚭ Shu-Ilishu
+              - **Tubal-cain** (Q129969) — 0 desc, 0 ch
+              - **Jubal** (Q129973) — 0 desc, 0 ch
+              - **Jabal** (Q129971) — 0 desc, 0 ch
+  - **Awan** (Q134513) — 9 desc, 1 ch ⚭ Cain
+    - *→ see Enoch (Q134024) above*
+  - **A00** (Q1138) — 2 desc, 2 ch
+    - **YP3666, A4981, A4982 A00b (A4987?YP3666, A4981, A4982?YP2683, A4984?YP2995, A4985?YP3292, A49** (Q152976) — 0 desc, 0 ch
+    - **Perry A00a (L1149, FGC25576, FGC26292, FGC26293, FGC27741)** (Q152975) — 0 desc, 0 ch
+  - **Abel** (Q134752) — 0 desc, 0 ch ⚭ Aclima
+  - **Haplogroup A00** (Q47088829) — 0 desc, 0 ch
+  - **Aclima** (Q134514) — 0 desc, 0 ch ⚭ Cain, Abel
+  - **Cain's wife** (Q134515) — 0 desc, 0 ch ⚭ Cain

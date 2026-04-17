@@ -19,14 +19,53 @@ Snapshot:
 - Properties: ~460 max P-number, only 42 on disk → backfilling with
   `--type properties --commit-every 50` (short job)
 
-### After import is done
+### After import is done — genealogical analysis ✅ STARTED
 Genealogical analysis to assemble lineages for the chapter-130–220 gap.
 Build the graph from the dumped items and walk P-statements.
-- Empirical centrality: do Charlemagne / Bustanai actually pass the
-  gateway-ancestor centrality test, or are other nodes doing the work?
-- Weakly-connected components: how scattered is Asia, really?
-- QA pass: cycles, impossible dates, excessive fan-out (conflation).
-- Schema parity with pre-human `Gaiad/genealogy/*.json`.
+- ✅ Empirical centrality: Charlemagne (12,539 desc), Bustanai (3,250),
+  Jesus (28,512), Muhammad (3,630) all pass. Jesus-via-Rome is the
+  true backbone; Greek primordials sit one tier above at ~34K.
+- ✅ Weakly-connected components: giant = 101,358 (94.7%). Asia is
+  less isolated than expected. Standalone islands: Zhu clan (1,325),
+  Khitan/Yelu (141), a few Japanese clans (~25 each).
+- ⚠️ QA: 1,230 children with >2 parents (Geni merge errors, mostly
+  Iberian royals). 69 cycles (should be 0). Fan-out suspects: Danaus
+  (231 ch), Oceanus (155), Dhritarashtra (131), Heracles (113).
+- Schema parity with pre-human `Gaiad/genealogy/*.json` — deferred.
+
+### West Eurasian Super-Network — mapped
+Full ancestry of Charlemagne traced to Adam: **81 generations, 4,132
+unique ancestors**. Document: `wikibase/analysis/charlemagne_to_adam.md`.
+The network connects Carolingian → Merovingian → late Roman senators →
+Republican Rome → Troy/Greek myth → Judah/Persia/Egypt/Assyria →
+biblical patriarchs → Adam. Key narrative value: the immediate
+ancestors of Charlemagne directly represent the transition from
+paganism into Christianity — deflationary polytheism in action.
+
+Below Adam the graph continues through evolutionary phylogeny, Iranic/
+Hittite placeholder chains (55 + 50 numbered generations), predynastic
+Egyptian pharaohs (Iry-Hor, Scorpion I/II), Akkadian kings (Gilgamesh,
+Enmerkar), and the Numidia chain, eventually reaching Gaiad cosmogonic
+figures (LUCA, Gaia, Aster) at gen 211.
+
+### Lineage gaps to bridge
+- **Kosala → Heo Hwang-ok**: ~15–20 invented kings needed to connect
+  the last Kosala ruler (~500 BCE) to Heo's Ayodhya (~48 CE). She is
+  treated as a descendant of Rama. The Rama → Kosala chain (43 gens)
+  is well-built; the gap is the last 500 years before her.
+- **Genghis Khan**: 7-gen chain (Khaidu → ... → Genghis) is disconnected
+  from Adam entirely. Needs a bridging line into the Mongol steppe.
+- **Heo Hwang-ok → Jimmu**: The Gaya → Kim clan → Silla line (46 desc)
+  is well-built on the Korean side. Jimmu's line goes through Xu Fu
+  back to a Chinese numbered-ancestor chain. The two lines don't
+  currently meet but both exist.
+
+### Analysis scripts
+- `wiki-scripts/extract_genealogy.py` — produces TSVs from raw items
+- `wiki-scripts/genealogy_network_analysis.py` — network stats, QA
+- `wiki-scripts/build_pruned_tree.py` — pruned tree from Adam downward
+- `wiki-scripts/export_charlemagne_lineage.py` — full Charlemagne→Adam doc
+- Output in `wikibase/analysis/`
 
 ### Future direction (deferred — NOT now)
 
