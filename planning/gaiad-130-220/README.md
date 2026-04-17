@@ -84,6 +84,10 @@ desk.
 
 ## Haplogroup / migration founders
 
+- [`haplogroups.md`](haplogroups.md) — master file for the ~7-14
+  haplogroup chapters. Circular migration, key assignments (G=
+  agriculture, O=rice, R=Yamnaya, D=Japan/Tibet), language family
+  links. R, D, and T definitely get own chapters.
 - [`manu-yemo.md`](manu-yemo.md) — PIE founding pair; R1a and R1b;
   Yamnaya / Indo-European expansion.
 - [`manu-indian.md`](manu-indian.md) — Indian Manu as flood-
