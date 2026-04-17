@@ -157,6 +157,14 @@ need to land.
   drop with a reason — so we don't lose track of what we decided to
   skip vs. what fell through the cracks.
 
+## Medieval chapter sequences
+
+- **Mongol block.** `mongol-block.md`. Eight-day arc: Mongol
+  perspective → China → Middle East → Europe → Japan (defeated them)
+  → Black Death (Good Friday parallel) → Kenmu Restoration (positive,
+  Saturday) → Renaissance beginning (Sunday). First concrete medieval
+  sequence.
+
 ## Deliberate drops (reasoned omissions)
 
 - **Book of Judges** — per `bible.md`. Doesn't pay its way against

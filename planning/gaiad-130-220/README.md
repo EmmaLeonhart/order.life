@@ -189,6 +189,13 @@ desk.
 - [`jimmu.md`](jimmu.md) — messy coalition-builder (also cross-listed
   under mythic-cycle bridges above).
 
+## Medieval chapter sequences
+
+- [`mongol-block.md`](mongol-block.md) — eight-day arc (Sunday to
+  Sunday): Mongols from own perspective → China → Middle East →
+  Europe → Japan → Black Death (Good Friday) → Kenmu Restoration
+  (Saturday) → Renaissance (Sunday).
+
 ## Roman / Byzantine arc
 
 - [`third-century-crisis.md`](third-century-crisis.md) — Third Century

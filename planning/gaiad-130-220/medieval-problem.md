@@ -172,13 +172,65 @@ could be the medieval equivalent of the Jewish sequence in antiquity.
   fellow Christians — connects directly to `byzantium.md` and the
   1453 endpoint (the empire never recovers).
 
-### Genghis Khan / Mongol moment
-- Genghis Khan (1206) is obviously in.
-- The Mongol destruction of Baghdad (1258) is the hinge that ends
-  the Islamic Golden Age — connects the Mongol thread to the Islamic
-  arc.
-- The Mongol Empire as the largest land empire: a contact-zone
-  chapter showing every previously separate world colliding.
+### The Mongols — multi-chapter arc (exception to one-chapter rule)
+The Mongols get **multiple chapters** because they affected literally
+everywhere. This is not a Genghis Khan biography stretched across
+chapters — each chapter is about the Mongol impact on a specific
+region. The Mongols are the through-line but each chapter belongs
+to the place being hit.
+
+**Regional impacts:**
+- **Middle East** — destroyed Baghdad (1258), ended the Islamic
+  Golden Age. This is the hinge of the Islamic arc.
+- **China** — conquered but treated relatively well (Yuan dynasty).
+- **Korea** — conquered.
+- **Japan** — **defeated them**. The only place that did (typhoons
+  1274, 1281). This is a major beat for the Japan emphasis — Japan
+  as the place the Mongols couldn't take. **Nichiren** is in this
+  chapter — he's comic relief. (He famously predicted the Mongol
+  invasion and claimed vindication when it happened.)
+- **Russia** — basically destroyed. The Mongol yoke defines Russian
+  history for centuries.
+- **Europe** — nearly wiped out, but **Ögedei Khan had a heart
+  attack** and the Mongol army had to return for succession. A
+  heart attack saved Western Europe.
+
+### Mongol block — an eight-day arc (Sunday to Sunday)
+
+The Mongol-to-Renaissance sequence forms an **eight-day arc**: a
+week bookended by two Sundays. Eight-day arcs are relatively common
+in the Gaiad (a week that represents something). The structure:
+
+1. **Sunday (before the week)** — Mongols from their own perspective.
+   The steppe, the unification, Genghis Khan. Sets up what's coming.
+2. **Monday** — Mongols hit China. Yuan dynasty.
+3. **Tuesday** — Mongols hit the Middle East. Baghdad destroyed
+   (1258), Islamic Golden Age ends.
+4. **Wednesday** — Mongols hit Europe/Russia. Russia devastated,
+   Western Europe saved by Ögedei's heart attack.
+5. **Thursday** — Mongols hit Japan. Defeated. Nichiren as comic
+   relief. The only place that beat them.
+6. **Friday** — Black Death in Europe. **Parallel to Good Friday.**
+   Apocalyptic but Europe survives. Connected to the Mongols via
+   Silk Road trade routes. The plague travels the roads the Mongols
+   opened.
+7. **Saturday** — Kenmu Restoration. Directly caused by the Mongol
+   invasions bankrupting the Kamakura shogunate. **Portrayed as a
+   positive thing.** Japan restructures after its victory.
+8. **Sunday (after the week)** — Beginning of the Renaissance. The
+   modern age starting. Resurrection after the Good Friday of the
+   Black Death.
+
+The liturgical echo is deliberate: the Black Death as Good Friday
+(death/apocalypse), the Kenmu Restoration as Holy Saturday (quiet
+restructuring, portrayed positively), and the Renaissance as Easter
+Sunday (the new world beginning). Not exact — but the vibes are
+there.
+
+The Mongol moment is the medieval period's equivalent of the Bronze
+Age Collapse — a single force that restructures everything it
+touches. The BAC is Seam 2 (antiquity); the Mongol expansion is
+the medieval seam.
 
 ## What to do next
 
@@ -237,6 +289,8 @@ work. The ending is not a sharp break — it's a period of acceleration
 that makes the break at 1453 / 1492 feel inevitable rather than
 surprising. The modern age is defined by information infrastructure,
 not by individual acts of exploration.
+
+**The Black Death gets its own chapter.** Confirmed.
 
 Events clustering near the gap's end:
 - **Japan: Sengoku period beginning** (~1467). The warring states
@@ -316,9 +370,30 @@ China probably gets quite a few chapters, not a compressed treatment:
    loses political force. Kukai/Saicho have already carried it to
    Japan by this point.
 
-This is 5–7 chapter-beats for China across the whole gap, which is
-substantial but justified by the Asia arc's structure (China is the
-major waypoint between India and Japan).
+This is 5–7 chapter-beats for China across the whole gap. However,
+the overall attitude toward medieval China is: **China is mid**. The
+"Middle Kingdom" in a double sense. China had stability, could hold
+its own in a way India couldn't (not stagnating under caste), but
+still got conquered (Mongols, etc.). Until roughly 1950, China was
+just mid. Not dramatically interesting enough to drive the narrative.
+Japan and Korea viewed it as the origin of civilization, and the
+Gaiad respects that, but the treatment is: important waypoint in the
+Asia arc, not a dramatic centerpiece. The Manchus are not being
+included.
+
+**Xuanzang / Journey to the West:** Already has `xuanzang.md`. The
+Buddhists Xuanzang encountered on his journey would be broadly
+Theravada-tradition figures. The Journey to the West chapter uses
+modern city names for the places he traveled through.
+
+**General rule:** Characters don't continue across chapters unless
+they're a deity or in the final compressed-time chapters.
+Charlemagne is really significant (unified Western Europe) and should
+have a lot, but it's one chapter, not a multi-chapter arc.
+
+**Exception: the Mongols.** The Mongols get multiple chapters because
+they're not a character — they're an event hitting every region.
+See "The Mongols" section above.
 
 **Wu Zetian specifically:** Tagged as a Gaiad character (P39=Q153802)
 in the wikibase. Has heraldic arms (Wu Zetian Arms.svg). Tang
