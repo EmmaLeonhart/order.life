@@ -31,6 +31,27 @@ to comprehensive coverage.
 - Possible connections to later South Asian material (Vedic ritual,
   Dravidian substrates, Shiva / proto-Shiva imagery in the seals) that
   the Gaiad can foreground without resolving.
+- The Indus is likely **Dravidian or Elamite-related**. But Dravidian
+  culture is not uninfluenced by Aryan culture — the "eternal war"
+  framing between Dravidian and Aryan is a modern nationalist fiction.
+  In reality there was extensive co-existence and mutual influence.
+  The Gaiad should not reproduce the adversarial framing.
+
+## Haplogroup associations
+
+Haplogroups **L, T, and H** all have potential links to the Indus
+Valley civilization. These are the individually least interesting
+major haplogroups for standalone chapters precisely because their
+civilizational anchor is this illegible thing. They're most likely
+absorbed into this chapter or into the Indo-European arrival
+material (where they represent the pre-existing population). See
+`haplogroups.md` for the full haplogroup register.
+
+The Indus is in an **uncanny valley of knowledge**: too
+well-documented to mythologize freely (like Göbekli Tepe), too
+undeciphered to narrate with confidence. Not enough civilization to
+make up stories about, not enough mystery to treat as pure myth.
+Anything written risks being just plausible enough to be wrong.
 
 ## Gaiad handling
 
