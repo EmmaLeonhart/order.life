@@ -74,6 +74,12 @@ branching with civilizations and language families woven in.
 | 53 | Sassanid Empire | Monotheization of Zoroastrianism. See `persia.md`. |
 | 54 | Constantine / late antiquity / fall of Rome | Christianity becomes state religion. Western Roman decline. |
 | 55 | Fall of Han Dynasty | Placement approximate — after Crisis of Third Century zone. Chinese parallel to Roman decline. |
+| 56 | Romance of the Three Kingdoms | Records of the Three Kingdoms era. Fall of Han aftermath. |
+| 57 | Jimmu → Jingū | Compressed Japan chapter. Emperor Jimmu (~200 BCE?) through Empress Jingū. What Japan has been doing. See `jimmu.md`. |
+| 58 | Rise of Islam / Muhammad | See `muhammad.md`, `islam-syncretic.md`. |
+| 59 | Journey to the West | Xuanzang. Asian-side bridge chapter. See `xuanzang.md`. |
+| 60 | Kūkai | Shingon Buddhism. Japan emphasis. |
+| 61 | Charlemagne + Byzantine Empire | European gateway ancestor + Eastern Roman continuation. Lot of Byzantine material here. See `charlemagne.md`, `byzantium.md`. |
 
 ## Mongol block (8 chapters, ~ch 203–210)
 
@@ -107,15 +113,19 @@ Per `late-medieval-sequence.md`. The acceleration zone.
 | *(Malta → Old Kingdom → Akkadian → Stonehenge → Minoan → Yamnaya → Yellow Emperor → Neo-Sumerian+Abraham → Hammurabi → Middle Kingdom → Jacob+Hyksos → Aryan migration → New Kingdom → Hittites → Mycenaeans → Ramayana → Exodus/Troy/BAC)* | | |
 | Post-BAC → late antiquity | 24 | 55 |
 | *(Fall of Shang → Bantu → Zarathustra → David → Classical Greece → Assyria+Babylon → Exile/monotheism → Persia → Confucius+Laozi → Buddha → Mahabharata → Greece pt2 → Greece pt3 → Alexander → Maurya → Qin/Han → Punic Wars → Rome → Jesus → Buddhism→Han → 3rd Century Crisis → Sassanid → Constantine → Fall of Han)* | | |
-| Mongol block | 8 | 63 |
-| Late medieval | 10 | 73 |
-| **Unallocated** | **18** | 91 |
+| Late antiquity → ~800 CE | 6 | 61 |
+| *(Three Kingdoms → Jimmu→Jingū → Islam/Muhammad → Journey to the West → Kūkai → Charlemagne+Byzantium)* | | |
+| **~800–1200 CE gap** | **?** | |
+| Mongol block | 8 | 69+ |
+| Late medieval | 10 | 79+ |
+| **Unallocated** | **12** | 91 |
 
-18 chapters remain for: Muhammad, Charlemagne, Bustanai,
-Islamic arc / Golden Age, mythic cycles (Scandinavia, Jimmu,
+12 chapters remain. The ~800–1200 gap (Charlemagne to Mongols)
+needs to be filled from this budget. Remaining candidates:
+Bustanai, Islamic Golden Age, mythic cycles (Scandinavia,
 Mongolia, Arabia, Ethiopia, Ireland, Lithuania counterfactual),
 Armenia, India stagnation, Second Temple, Israelite kingdom
-split/fall, Byzantium pre-Mongol, Japan emphasis cluster
-(Jingu, Saicho/Kukai, Heian, Nara), connective episodes
-(Xuanzang, Marozia, Elagabalus, Heo Hwang-ok). Classical
-Greece and Rome may expand into this budget if needed.
+split/fall, Marozia/Pornocracy, Elagabalus, Heo Hwang-ok,
+Saichō/Tendai, Heian anchor, Crusades. Classical Greece and
+Rome may also expand into this budget. The 800–1200 gap is
+the medieval problem — see `medieval-problem.md`.
