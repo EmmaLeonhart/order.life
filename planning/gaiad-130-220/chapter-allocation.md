@@ -44,10 +44,17 @@ branching with civilizations and language families woven in.
 | 23 | Hammurabi | Abraham's cousin. Babylonian law, Old Babylonian period. |
 | 24 | Middle Kingdom (Egypt) | Classical stabilization, literary flowering. |
 | 25 | Jacob and the Hyksos | Jacob enters Egypt. Hyksos as Second Intermediate Period — foreign rulers who actively rebuild Egypt. Joseph's rise legible under Hyksos. See `joseph-egypt.md`. |
-| 26 | New Kingdom (Egypt) | Hyksos suffer apartheid under the restored native dynasty. Hatshepsut, Thutmose III. Akhenaten portrayed as persecutor of Jewish people (ironic given his monotheism reputation). Ramesses II. Egyptian-Hittite peace treaty (Kadesh → treaty). |
-| 27 | Hittites | Anatolian empire. Indo-European. Follows from the Egyptian-Hittite peace treaty in the previous chapter. |
-| 28 | Mycenaeans | Bronze Age Greece. Palace civilization, Linear B, warriors. |
-| 29 | Exodus / Trojan War / BAC | End of the 19th Dynasty. The convergence: Exodus, Trojan War, and Bronze Age Collapse as the same systemic event from different perspectives. See `moses-bac-pivot.md`, `bronze-age-collapse.md`. |
+| 26 | Aryan migration | Parallel to the Hyksos — both are foreign peoples entering established civilizations at the same time. Aryans enter India around the collapse of the Indus Valley civilization. |
+| 27 | New Kingdom (Egypt) | Hyksos suffer apartheid under the restored native dynasty. Hatshepsut, Thutmose III. Akhenaten portrayed as persecutor of Jewish people (ironic given his monotheism reputation). Ramesses II. Egyptian-Hittite peace treaty (Kadesh → treaty). |
+| 28 | Hittites | Anatolian empire. Indo-European. Follows from the Egyptian-Hittite peace treaty in the previous chapter. |
+| 29 | Mycenaeans | Bronze Age Greece. Palace civilization, Linear B, warriors. Includes the Dionysiaca (Dionysus's campaigns into India) — foreshadows the Ramayana chapter by pointing east. May need to split into multiple sections. |
+| 30 | Ramayana | **The big swerve.** Follows from the Mycenaean chapter's eastward gesture via the Dionysiaca. Rama shows up — first in Ethiopia, then Egypt, then Troy. Massive emphasis on unity of humanity across civilizations. See `ramayana.md`. |
+| 31 | Exodus / Trojan War / BAC | End of the 19th Dynasty. The convergence: Exodus, Trojan War, and Bronze Age Collapse as the same systemic event from different perspectives. See `moses-bac-pivot.md`, `bronze-age-collapse.md`. |
+| 32 | Fall of Shang | End of Shang dynasty, rise of Zhou. Chinese parallel to the BAC-era upheavals. |
+| 33 | Bantu expansion | Major African migration. Bantu-speaking peoples spread across sub-Saharan Africa. Haplogroup-register chapter, not strictly historical — gives precedence indicating how old the Bantu peoples are. |
+| 34 | Zarathustra | Bronze Age Collapse-ish figure, placed after Bantu. Thematic parallels to BAC even if more distant. References the Ramayana/Vedas. See `persia.md`. |
+| 35 | Formation of Israel under David | United monarchy. See `david.md`, `israelite-kingdom.md`. |
+| 36 | Beginning of Classical Greece | First Olympics (776 BCE). Polis formation, archaic period. |
 
 ## Mongol block (8 chapters, ~ch 203–210)
 
@@ -77,13 +84,17 @@ Per `late-medieval-sequence.md`. The acceleration zone.
 | Block | Chapters | Running total |
 |-------|----------|---------------|
 | Haplogroups | 14 | 14 |
-| Pre-BAC sequence | 15 | 29 |
-| *(Malta, Old Kingdom, Akkadian, Stonehenge, Minoan, Yamnaya, Yellow Emperor, Neo-Sumerian+Abraham, Hammurabi, Middle Kingdom, Jacob+Hyksos, New Kingdom, Hittites, Mycenaeans, Exodus/Troy/BAC)* | | |
-| Mongol block | 8 | 37 |
-| Late medieval | 10 | 47 |
-| **Unallocated** | **44** | 91 |
+| Pre-BAC sequence | 17 | 31 |
+| *(Malta → Old Kingdom → Akkadian → Stonehenge → Minoan → Yamnaya → Yellow Emperor → Neo-Sumerian+Abraham → Hammurabi → Middle Kingdom → Jacob+Hyksos → Aryan migration → New Kingdom → Hittites → Mycenaeans → Ramayana → Exodus/Troy/BAC)* | | |
+| Post-BAC sequenced | 5 | 36 |
+| *(Fall of Shang, Bantu, Zarathustra, David/Israel, Classical Greece)* | | |
+| Allocated not sequenced | 1 | 37 |
+| *(Mahabharata — later, near composition date)* | | |
+| Mongol block | 8 | 45 |
+| Late medieval | 10 | 55 |
+| **Unallocated** | **36** | 91 |
 
-44 chapters remain for: prophetic movement, Israelite kingdom,
+42 chapters remain for: prophetic movement, Israelite kingdom,
 David, Second Temple, Mesopotamia fast chapter (Assyria →
 Ashurbanipal), Hindu epics (Ramayana, Mahabharata), Buddha,
 Greece, Rome, Persia, religious founders (Jesus, Muhammad),
