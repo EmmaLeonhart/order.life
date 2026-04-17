@@ -37,7 +37,19 @@ desk.
 
 - [`medieval-problem.md`](medieval-problem.md) — what organizes the
   medieval chapters (~500–1453) once genealogy stops being the primary
-  driver? The antiquity side is well-framed; this side is not.
+  driver? The antiquity side is well-framed; this side is not. Contains
+  working-backward-from-1453 notes: Islamic arc as medieval spine,
+  India stagnation, approach to modernity.
+
+## Compressed-period chapters (speed/stasis as theme)
+
+- [`mesopotamia.md`](mesopotamia.md) — chaos: one fast chapter,
+  civilizations destroying each other.
+- [`india-stagnation.md`](india-stagnation.md) — stasis: ~1 CE to
+  Delhi Sultanate (1206), 1,200 years held back by the caste system.
+  Explicitly critical of caste.
+- China: possibly a third, but angle is unsettled. See
+  `medieval-problem.md`.
 
 ## Opening & structural pivots
 
