@@ -84,16 +84,24 @@ per `must-include.md`.
   Egypt, a different register, probably handled (if at all) as part
   of the Greek / Roman material rather than Egyptian.
 
-## Coverage scope
+## Coverage scope — four chapters (firm)
 
-- **Probably two or three chapter-beats:** one for Old/Middle/New
-  Kingdom overview-as-civilization, one for Akhenaten specifically,
-  one Ramesside / BAC-adjacent. Could compress to two. Could absorb
-  Akhenaten into the monotheism arc (`bible.md` / `torah.md`
-  prehistory) rather than standalone.
-- The Gaiad is explicitly committing to Egypt being **more than a
-  footnote to the Exodus**, so whatever the exact chapter count, the
-  weighting tilts toward Egypt-as-civilization.
+Egypt gets **four chapters**:
+
+1. **Old Kingdom** — the pyramid age. Khufu, Khafre, Menkaure,
+   the Giza plateau.
+2. **Middle Kingdom** — classical stabilization, literary
+   flowering (*Tale of Sinuhe*, *Instructions of Amenemhat*).
+3. **New Kingdom** — imperial peak. Hatshepsut, Thutmose III,
+   Akhenaten's monotheism experiment, Ramesses II, the Ramesside
+   decline under Sea Peoples pressure.
+4. **Exodus** — follows directly from the New Kingdom chapter into
+   the Bronze Age Collapse and the Hebrew exit. Connects to
+   `moses-bac-pivot.md`.
+
+Egypt is the **first civilization after the haplogroup chapters**
+— it sits at Seam 1 (invention of writing, ~3200 BCE), the
+Register A → B handoff. See `chapter-allocation.md`.
 
 ## Relation to neighbors
 

@@ -11,6 +11,9 @@ desk.
 
 ## Architecture / cross-cutting
 
+- [`chapter-allocation.md`](chapter-allocation.md) — master chapter
+  budget: 36 allocated (14 haplogroup + 4 Egypt + 8 Mongol + 10
+  late medieval), 55 unallocated.
 - [`structure.md`](structure.md) — registers, seams, super-network
   architecture, tiering of late-mythic cycles.
 - [`chronology.md`](chronology.md) — flat undifferentiated timeline
