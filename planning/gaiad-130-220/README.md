@@ -194,7 +194,11 @@ desk.
 - [`mongol-block.md`](mongol-block.md) — eight-day arc (Sunday to
   Sunday): Mongols from own perspective → China → Middle East →
   Europe → Japan → Black Death (Good Friday) → Kenmu Restoration
-  (Saturday) → Renaissance (Sunday).
+  (Saturday) → Renaissance (Sunday). Lands at ~ch 210.
+- [`late-medieval-sequence.md`](late-medieval-sequence.md) — ch
+  211–220, the ten chapters between the Mongol block and 1453.
+  Timur, Lithuania, Zheng He, Gutenberg, Ottomans, Sengoku.
+  The acceleration zone.
 
 ## Roman / Byzantine arc
 
