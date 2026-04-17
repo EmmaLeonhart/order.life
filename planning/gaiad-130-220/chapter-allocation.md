@@ -79,7 +79,14 @@ branching with civilizations and language families woven in.
 | 58 | Rise of Islam / Muhammad | See `muhammad.md`, `islam-syncretic.md`. |
 | 59 | Journey to the West | Xuanzang. Asian-side bridge chapter. See `xuanzang.md`. |
 | 60 | Kūkai | Shingon Buddhism. Japan emphasis. |
-| 61 | Charlemagne + Byzantine Empire | European gateway ancestor + Eastern Roman continuation. Lot of Byzantine material here. See `charlemagne.md`, `byzantium.md`. |
+| 61 | Charlemagne + Byzantine Empire | European gateway ancestor + Eastern Roman continuation. Lot of Byzantine material here. Great Schism (1054) folded in here or in Crusades, not its own chapter. See `charlemagne.md`, `byzantium.md`. |
+| 62 | Tang Dynasty + Huichang persecution | Tang as Chinese Golden Age. Huichang persecution of Buddhism (845) — the moment China turns against Buddhism, pushing it definitively to Japan/Korea. |
+| 63 | Islamic Golden Age | Baghdad as intellectual center. Abbasid caliphate at height. House of Wisdom, al-Khwarizmi, Ibn Sina. |
+| 64 | Heian Japan | ~794–1185. Tale of Genji. Japanese culture becomes distinctly Japanese rather than Chinese-derived. Follows from Kūkai. |
+| 65 | Scandinavia / Eddas | Viking Age. Post-conversion capture of the mythic cycle. Snorri Sturluson. See `scandinavia.md`. |
+| 66 | Ireland / Brian Boru | Hard requirement. Lebor Gabála Érenn, Tuatha Dé Danann → high kings → Brian Boru (d. 1014). See `ireland.md`. |
+| 67 | India stagnation | Compressed chapter: ~1 CE to Delhi Sultanate (1206). 1,200 years held back by caste system. See `india-stagnation.md`. |
+| 68 | Crusades | Own chapter. Started because the Seljuk Turks conquered the Arabs and were hostile to Christians — not because the Arabs attacked. The Crusades and the Delhi Sultanate are both products of a Turkic migration period. Seljuks → Christian response → Crusades. |
 
 ## Mongol block (8 chapters, ~ch 203–210)
 
@@ -115,17 +122,14 @@ Per `late-medieval-sequence.md`. The acceleration zone.
 | *(Fall of Shang → Bantu → Zarathustra → David → Classical Greece → Assyria+Babylon → Exile/monotheism → Persia → Confucius+Laozi → Buddha → Mahabharata → Greece pt2 → Greece pt3 → Alexander → Maurya → Qin/Han → Punic Wars → Rome → Jesus → Buddhism→Han → 3rd Century Crisis → Sassanid → Constantine → Fall of Han)* | | |
 | Late antiquity → ~800 CE | 6 | 61 |
 | *(Three Kingdoms → Jimmu→Jingū → Islam/Muhammad → Journey to the West → Kūkai → Charlemagne+Byzantium)* | | |
-| **~800–1200 CE gap** | **?** | |
-| Mongol block | 8 | 69+ |
-| Late medieval | 10 | 79+ |
-| **Unallocated** | **12** | 91 |
+| 800–1200 CE sequence | 7 | 68 |
+| *(Tang+Huichang → Islamic Golden Age → Heian Japan → Scandinavia/Eddas → Ireland/Brian Boru → India stagnation → Crusades)* | | |
+| Mongol block | 8 | 76 |
+| Late medieval | 10 | 86 |
+| **Unallocated** | **5** | 91 |
 
-12 chapters remain. The ~800–1200 gap (Charlemagne to Mongols)
-needs to be filled from this budget. Remaining candidates:
-Bustanai, Islamic Golden Age, mythic cycles (Scandinavia,
-Mongolia, Arabia, Ethiopia, Ireland, Lithuania counterfactual),
-Armenia, India stagnation, Second Temple, Israelite kingdom
-split/fall, Marozia/Pornocracy, Elagabalus, Heo Hwang-ok,
-Saichō/Tendai, Heian anchor, Crusades. Classical Greece and
-Rome may also expand into this budget. The 800–1200 gap is
-the medieval problem — see `medieval-problem.md`.
+5 chapters remain as flex budget for: expansion of Classical
+Greece or Rome, Armenia, Ethiopia, Arabia mythic cycle,
+Lithuania counterfactual, Marozia, Elagabalus, Heo Hwang-ok,
+Bustanai, Second Temple, Israelite kingdom split/fall, or
+other material that needs a dedicated chapter.
