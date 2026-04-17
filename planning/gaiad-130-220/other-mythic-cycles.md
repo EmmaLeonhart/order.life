@@ -29,14 +29,9 @@ convention.
 - Standard mythic-to-historical chain; the documentation is
   post-Chinese-influence so somewhat rationalized (see `china.md`).
 
-## Ireland / Celtic
+## Ireland / Celtic — PROMOTED
 
-- ***Lebor Gabála Érenn*** (11th c. compilation of older material).
-  Milesians → Tuatha Dé Danann → high kings of Tara → Brian Boru
-  (d. 1014).
-- Emma explicit: **"the Celtic ones really, really go in."** Strong
-  case among the "weaker tier," possibly deserves its own file when it
-  firms up.
+**Promoted to own file: `ireland.md`.** Hard requirement.
 
 ## Wales
 
@@ -47,25 +42,13 @@ convention.
   (Gaiad has a specific move to make here).
 - Plays well with `rome.md` via the Brutus-of-Troy inheritance.
 
-## Persia
+## Persia — PROMOTED
 
-- ***Shahnameh*** (c. 1000). Keyumars → Pishdadian → Kayanian →
-  Sasanian.
-- **Gradual** legendary-to-historical transition — the whole point of
-  the Shahnameh's structure. Good length, complete chain, one of the
-  great national epics.
-- Connects to `bustanai.md` (Sasanian-princess Dara as the endpoint
-  of the royal line that the Shahnameh mythologizes) and to
-  `muhammad.md` (Muhammad's descent-from-Rome framing sits structurally
-  adjacent to the Persian royal material).
+**Promoted to own file: `persia.md`.** Triple duty: Shahnameh, Zoroastrianism, Bustanai bridge.
 
-## Armenia
+## Armenia — PROMOTED
 
-- Movses Khorenatsi (5th c., though transmission history complicates
-  the dating). **Haik** → Arsacids.
-- Short and strong in the Caucasian frame; connects into the
-  Armenia-as-first-Christian-kingdom thread, which overlaps with the
-  Ethiopian and Byzantine material.
+**Promoted to own file: `armenia.md`.** Hard requirement.
 
 ## Georgia
 

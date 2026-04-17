@@ -1,0 +1,4397 @@
+# West Eurasian Super-Network: Charlemagne to Adam
+
+Full ancestry of Charlemagne (Q115039, b. 748 CE) traced backward
+through 81 generations to Y-Chromosomal Adam (Q152973).
+
+**Total unique ancestors: 4132**
+
+Each generation lists all known ancestors at that depth.
+QIDs refer to the Lifeism Wikibase (lifeism.miraheze.org).
+
+---
+
+## Generation 0 (1 people) — circa 748 CE
+
+- **Charlemagne** (Q115039) — b. 748 CE, d. 814 CE — [Wikidata Q3044](https://www.wikidata.org/wiki/Q3044) ⚭ Liutperga, Desiderata of the Lombards, Hildegard of Vinzgouw +15 more
+
+## Generation 1 (3 people) — circa 715 CE
+
+- **Pepin of Landen** (Q111318) — [Wikidata Q313373](https://www.wikidata.org/wiki/Q313373) ⚭ Itta of Metz
+- **Bertrada of Laon** (Q115037) — [Wikidata Q266751](https://www.wikidata.org/wiki/Q266751) ⚭ Pepin the Short
+- **Pepin the Short** (Q136124) — b. 715 CE, d. 768 CE — [Wikidata Q81212](https://www.wikidata.org/wiki/Q81212) ⚭ Bertrada of Laon
+
+## Generation 2 (6 people) — circa 696 CE
+
+- **Carloman** (Q112100) — [Wikidata Q2156333](https://www.wikidata.org/wiki/Q2156333)
+- **Charles Martel** (Q113081) — [Wikidata Q3301](https://www.wikidata.org/wiki/Q3301) ⚭ Swanachild, Ruodhaid, Rotrude of Hesbaye +3 more
+- **Caribert of Laon** (Q113107) — b. 696 CE, d. 762 CE — [Wikidata Q984685](https://www.wikidata.org/wiki/Q984685) ⚭ Gisela de Laon
+- **Rotrude of Hesbaye** (Q154041) ⚭ Charles Martel
+- **Rotrude of Trier** (Q205651) — [Wikidata Q469702](https://www.wikidata.org/wiki/Q469702) ⚭ Charles Martel
+- **Gisela de Laon** (Q207264) — [Wikidata Q2386336](https://www.wikidata.org/wiki/Q2386336) ⚭ Caribert of Laon
+
+## Generation 3 (6 people) — circa 670 CE
+
+- **Wiligarde von Bayern** (Q111968) — [Wikidata Q76299501](https://www.wikidata.org/wiki/Q76299501) ⚭ Leudwinus, Lambert II de Hesbaye
+- **Bertrada of Prüm** (Q111976) — b. 670 CE, d. 721 CE — [Wikidata Q266215](https://www.wikidata.org/wiki/Q266215) ⚭ Theudebald, Duke of Alamannia, Martin of Laon
+- **Martin of Laon** (Q112106) — b. 660 CE, d. 704 CE — [Wikidata Q2694187](https://www.wikidata.org/wiki/Q2694187) ⚭ Bertrada of Prüm
+- **Lambert II de Hesbaye** (Q113205) — [Wikidata Q16034275](https://www.wikidata.org/wiki/Q16034275) ⚭ Wiligarde von Bayern, Chrodelind of Franconia
+- **Alpaida** (Q113271) — [Wikidata Q465882](https://www.wikidata.org/wiki/Q465882) ⚭ Pepin of Herstal
+- **Pepin of Herstal** (Q135895) — b. 645 CE, d. 714 CE — [Wikidata Q91392](https://www.wikidata.org/wiki/Q91392) ⚭ Plectrude, Alpaida, Plectrude
+
+## Generation 4 (9 people)
+
+- **Theodo II of Bavaria** (Q111199) — [Wikidata Q656226](https://www.wikidata.org/wiki/Q656226) ⚭ Regintrud, Folchaid
+- **Regintrud** (Q111296) — [Wikidata Q1655899](https://www.wikidata.org/wiki/Q1655899) ⚭ Theodo II of Bavaria, Theodbert of Bavaria
+- **Begga** (Q111320) — [Wikidata Q266765](https://www.wikidata.org/wiki/Q266765) ⚭ Ansegisel
+- **Chrodbert** (Q112024) — [Wikidata Q3434374](https://www.wikidata.org/wiki/Q3434374) ⚭ Kunza von Metz
+- **Theuderic III** (Q112052) — [Wikidata Q295175](https://www.wikidata.org/wiki/Q295175) ⚭ Clothildis Doda
+- **Clothildis Doda** (Q112104) — [Wikidata Q2979714](https://www.wikidata.org/wiki/Q2979714) ⚭ Theuderic III
+- **Kunza von Metz** (Q113259) — [Wikidata Q76300003](https://www.wikidata.org/wiki/Q76300003) ⚭ Chrodbert, Saint Warinus
+- **Ansegisel** (Q154006) — [Wikidata Q453739](https://www.wikidata.org/wiki/Q453739) ⚭ Begga
+- **Ardabast** (Q75420) — [Wikidata Q123270682](https://www.wikidata.org/wiki/Q123270682)
+
+## Generation 5 (11 people) — circa 592 CE
+
+- **Agilolf von Bayern** (Q110702) — [Wikidata Q393812](https://www.wikidata.org/wiki/Q393812)
+- **Itta of Metz** (Q110774) — b. 592 CE, d. 652 CE — [Wikidata Q259551](https://www.wikidata.org/wiki/Q259551) ⚭ Pepin of Landen
+- **Lambert of Hesbaye** (Q111251) — [Wikidata Q24886308](https://www.wikidata.org/wiki/Q24886308)
+- **Clovis II** (Q111294) — [Wikidata Q309919](https://www.wikidata.org/wiki/Q309919) ⚭ Balthild
+- **Balthild** (Q112048) — [Wikidata Q237750](https://www.wikidata.org/wiki/Q237750) ⚭ Clovis II
+- **Hugobert** (Q112056) — [Wikidata Q1277343](https://www.wikidata.org/wiki/Q1277343) ⚭ Irmina of Oeren
+- **Irmina of Oeren** (Q112060) — [Wikidata Q289060](https://www.wikidata.org/wiki/Q289060) ⚭ Hugobert
+- **Arnulf** (Q113265) — [Wikidata Q337189](https://www.wikidata.org/wiki/Q337189) ⚭ Doda of Metz
+- **Doda of Metz** (Q113267) — [Wikidata Q3033649](https://www.wikidata.org/wiki/Q3033649) ⚭ Arnulf
+- **Flavia Juliana** (Q166971) — [Wikidata Q74144665](https://www.wikidata.org/wiki/Q74144665) ⚭ Theodosius, Athanagild
+- **Athanagild** (Q75423) — [Wikidata Q313197](https://www.wikidata.org/wiki/Q313197) ⚭ Goiswintha, Flavia Juliana
+
+## Generation 6 (12 people)
+
+- **Geila von Friaul** (Q110234) — [Wikidata Q76298538](https://www.wikidata.org/wiki/Q76298538) ⚭ Garibald II of Bavaria
+- **Garibald II of Bavaria** (Q110238) — [Wikidata Q819560](https://www.wikidata.org/wiki/Q819560) ⚭ Geila von Friaul
+- **Arnoald** (Q110322) — [Wikidata Q565438](https://www.wikidata.org/wiki/Q565438)
+- **Chrodobertus** (Q110720) — [Wikidata Q175300](https://www.wikidata.org/wiki/Q175300)
+- **Dagobert I** (Q110748) — [Wikidata Q109860](https://www.wikidata.org/wiki/Q109860) ⚭ Gormatrude, Nanthild, Wulfégonde +2 more
+- **Nanthild** (Q111286) — [Wikidata Q443037](https://www.wikidata.org/wiki/Q443037) ⚭ Dagobert I
+- **Bodosigel** (Q154011) ⚭ Saint Chrodoara of Amay
+- **Saint Chrodoara of Amay** (Q154012) ⚭ Bodosigel
+- **Anastasia Aerobinda** (Q59483) ⚭ Peter
+- **Peter** (Q59513) — [Wikidata Q339658](https://www.wikidata.org/wiki/Q339658) ⚭ Anastasia Aerobinda
+- **Hermenegild** (Q75426) — [Wikidata Q346578](https://www.wikidata.org/wiki/Q346578) ⚭ Ingund, Ingund
+- **Ingund** (Q75429) — [Wikidata Q1265586](https://www.wikidata.org/wiki/Q1265586) ⚭ Chlothar I, Hermenegild
+
+## Generation 7 (15 people)
+
+- **Baderic** (Q109489) — [Wikidata Q685020](https://www.wikidata.org/wiki/Q685020)
+- **Romilda of Friuli** (Q109876) — [Wikidata Q3441223](https://www.wikidata.org/wiki/Q3441223) ⚭ Gisulf II of Friuli
+- **Tassilo I of Bavaria** (Q109878) — [Wikidata Q705150](https://www.wikidata.org/wiki/Q705150)
+- **Bilichilde** (Q109924) — [Wikidata Q11909514](https://www.wikidata.org/wiki/Q11909514) ⚭ Ansbertus
+- **Gisulf II of Friuli** (Q110224) — [Wikidata Q715737](https://www.wikidata.org/wiki/Q715737) ⚭ Romilda of Friuli
+- **Charibert of Hesbaye** (Q110270) — [Wikidata Q24884875](https://www.wikidata.org/wiki/Q24884875)
+- **Chlothar II** (Q110314) — [Wikidata Q209118](https://www.wikidata.org/wiki/Q209118) ⚭ Haldetrude, Bertrude, Sichilde
+- **Ansbertus** (Q110316) — [Wikidata Q3246766](https://www.wikidata.org/wiki/Q3246766) ⚭ Bilichilde, Mathilde de Boulogne, Blithildis von Köln
+- **Bertrude** (Q110744) — [Wikidata Q2899786](https://www.wikidata.org/wiki/Q2899786) ⚭ Chlothar II
+- **Liuvigild** (Q111255) — [Wikidata Q313065](https://www.wikidata.org/wiki/Q313065) ⚭ Goiswintha
+- **Mummolin of Soissons** (Q154013) — [Wikidata Q3038285](https://www.wikidata.org/wiki/Q3038285) ⚭ N.N.
+- **N.N.** (Q154014) ⚭ Mummolin of Soissons
+- **Paulus  of Arabisso** (Q59546) — [Wikidata Q7148943](https://www.wikidata.org/wiki/Q7148943)
+- **Georgia** (Q59645) ⚭ Aerobindus  Aeorbinda
+- **Aerobindus  Aeorbinda** (Q59678) ⚭ Georgia
+
+## Generation 8 (19 people) — circa 532 CE
+
+- **Basina of Thuringia** (Q109481) — [Wikidata Q268562](https://www.wikidata.org/wiki/Q268562) ⚭ Childeric I, Bisinus, Bisinus
+- **Waldrada** (Q109626) — [Wikidata Q263164](https://www.wikidata.org/wiki/Q263164) ⚭ Chlothar I, Theudebald, Garibald I of Bavaria
+- **Chlothar I** (Q109646) — [Wikidata Q28984](https://www.wikidata.org/wiki/Q28984) ⚭ Waldrada, Aregund, Radegund +3 more
+- **Bisinus** (Q109650) — [Wikidata Q20045645](https://www.wikidata.org/wiki/Q20045645) ⚭ Basina of Thuringia, Menia
+- **Garibald I of Bavaria** (Q109868) — [Wikidata Q504276](https://www.wikidata.org/wiki/Q504276) ⚭ Waldrada
+- **Charibert I** (Q109910) — [Wikidata Q243453](https://www.wikidata.org/wiki/Q243453) ⚭ Ingoberga, Meroflede, Theodechilde +1 more
+- **Chilperic I** (Q109918) — [Wikidata Q243118](https://www.wikidata.org/wiki/Q243118) ⚭ Audovera, Galswintha, Fredegund
+- **Fredegund** (Q110292) — [Wikidata Q230898](https://www.wikidata.org/wiki/Q230898) ⚭ Chilperic I
+- **Gisulf I of Friuli** (Q110336) — [Wikidata Q556405](https://www.wikidata.org/wiki/Q556405)
+- **Ferreolus of Rodez** (Q110760) — [Wikidata Q1912655](https://www.wikidata.org/wiki/Q1912655) ⚭ Doda of Reims
+- **Doda of Reims** (Q110762) — [Wikidata Q517158](https://www.wikidata.org/wiki/Q517158) ⚭ Ferreolus of Rodez
+- **Richomer** (Q111278) — [Wikidata Q3431489](https://www.wikidata.org/wiki/Q3431489) ⚭ Gertrud of Hamage
+- **Gertrud of Hamage** (Q111280) — [Wikidata Q3104400](https://www.wikidata.org/wiki/Q3104400) ⚭ Richomer
+- **Arthemia** (Q154016) ⚭ Munderic
+- **Munderic** (Q166827) — [Wikidata Q1850304](https://www.wikidata.org/wiki/Q1850304) ⚭ Arthemia
+- **Georgia** (Q59707) ⚭ John born of Anastasius
+- **John born of Anastasius** (Q59740) — b. 532 CE ⚭ Georgia
+- **Anastasius** (Q59773) ⚭ Juliana
+- **Juliana** (Q59806) ⚭ Anastasius
+
+## Generation 9 (15 people)
+
+- **Austrigusa** (Q109477) — [Wikidata Q19891002](https://www.wikidata.org/wiki/Q19891002) ⚭ Theodoric the Great, Wacho
+- **Clovis I** (Q109483) — [Wikidata Q82339](https://www.wikidata.org/wiki/Q82339) ⚭ Clotilde, N.N.
+- **Wacho** (Q109622) — [Wikidata Q354208](https://www.wikidata.org/wiki/Q354208) ⚭ Austrigusa, Radegunda, Silinga
+- **Clotilde** (Q109634) — [Wikidata Q232365](https://www.wikidata.org/wiki/Q232365) ⚭ Clovis I
+- **Aregund** (Q109656) — [Wikidata Q267202](https://www.wikidata.org/wiki/Q267202) ⚭ Chlothar I
+- **Anastasius** (Q109832) — [Wikidata Q1131129](https://www.wikidata.org/wiki/Q1131129) ⚭ NN
+- **Grasulf I of Friuli** (Q109934) — [Wikidata Q2715134](https://www.wikidata.org/wiki/Q2715134)
+- **Chlodoric the Parricide** (Q111221) — [Wikidata Q887578](https://www.wikidata.org/wiki/Q887578)
+- **Tonantius Ferreolus** (Q111308) — [Wikidata Q1258692](https://www.wikidata.org/wiki/Q1258692) ⚭ Industria
+- **Florentinus** (Q154017) ⚭ Artemia
+- **Artemia** (Q154018) ⚭ Florentinus
+- **Antipatra  of Byzantium** (Q59836)
+- **NN** (Q59869) — [Wikidata Q131731535](https://www.wikidata.org/wiki/Q131731535) ⚭ Anastasius
+- **Probus** (Q59935) — [Wikidata Q3656025](https://www.wikidata.org/wiki/Q3656025) ⚭ Flavia Proba
+- **Flavia Proba** (Q59968) ⚭ Probus
+
+## Generation 10 (21 people) — circa 455 CE
+
+- **Childeric I** (Q109479) — [Wikidata Q193869](https://www.wikidata.org/wiki/Q193869) ⚭ Basina of Thuringia
+- **NN** (Q109601) — [Wikidata Q131731536](https://www.wikidata.org/wiki/Q131731536) ⚭ Theodora
+- **Thurisind** (Q109620) — [Wikidata Q878984](https://www.wikidata.org/wiki/Q878984)
+- **Rodelinde** (Q109664) — [Wikidata Q546422](https://www.wikidata.org/wiki/Q546422) ⚭ Audoin
+- **Zucchilon (?)** (Q109854) — [Wikidata Q76298900](https://www.wikidata.org/wiki/Q76298900) ⚭ Tochter von Ostrogoths
+- **Tochter von Ostrogoths** (Q109856) — [Wikidata Q76300167](https://www.wikidata.org/wiki/Q76300167) ⚭ Zucchilon (?)
+- **Chilperic II of Burgundy** (Q109888) — [Wikidata Q454358](https://www.wikidata.org/wiki/Q454358) ⚭ Caretene
+- **Audoin** (Q109930) — [Wikidata Q201406](https://www.wikidata.org/wiki/Q201406) ⚭ Rodelinde
+- **Sabinianus** (Q110168) — [Wikidata Q977653](https://www.wikidata.org/wiki/Q977653) ⚭ (Anastasia)
+- **(Anastasia)** (Q110170) — [Wikidata Q131731528](https://www.wikidata.org/wiki/Q131731528) ⚭ Sabinianus
+- **Paulus** (Q110624) — [Wikidata Q578291](https://www.wikidata.org/wiki/Q578291) ⚭ Magna
+- **Magna** (Q110626) — [Wikidata Q30939745](https://www.wikidata.org/wiki/Q30939745) ⚭ Paulus
+- **Sigobert the Lame** (Q110712) — [Wikidata Q698310](https://www.wikidata.org/wiki/Q698310)
+- **Tonantius Ferreolus** (Q112080) — [Wikidata Q2585244](https://www.wikidata.org/wiki/Q2585244) ⚭ Papianilla, Papianilla
+- **Papianilla** (Q112082) — [Wikidata Q772417](https://www.wikidata.org/wiki/Q772417) ⚭ Tonantius Ferreolus
+- **Saint Rusticus of Lyon** (Q154019) — b. 455 CE, d. 501 CE — [Wikidata Q2796896](https://www.wikidata.org/wiki/Q2796896) ⚭ Hiberie de Limoges, Ommace Ruricia De Limoges
+- **Hiberie de Limoges** (Q154020) ⚭ Saint Rusticus of Lyon
+- **Theodora** (Q59997) — [Wikidata Q204843](https://www.wikidata.org/wiki/Q204843) ⚭ Justinian I, NN
+- **Flavius Probus** (Q60030)
+- **Flavius Anicius Olybrius Iunior Anicius** (Q60063) — b. 487 CE, d. 527 CE ⚭ Irene
+- **Irene** (Q60096) ⚭ Flavius Anicius Olybrius Iunior Anicius
+
+## Generation 11 (25 people) — circa 430 CE
+
+- **Hermanafrid** (Q109493) — [Wikidata Q660336](https://www.wikidata.org/wiki/Q660336) ⚭ Amalaberga, Bisina (?)
+- **Amalaberga** (Q109619) — [Wikidata Q440385](https://www.wikidata.org/wiki/Q440385) ⚭ Hermanafrid, Sigismund of Burgundy
+- **Merovech** (Q109630) — [Wikidata Q58165](https://www.wikidata.org/wiki/Q58165)
+- **Menia** (Q109652) — [Wikidata Q1568073](https://www.wikidata.org/wiki/Q1568073) ⚭ Bisinus, Bisinus, Authari (?)
+- **Authari (?)** (Q109928) — [Wikidata Q76298556](https://www.wikidata.org/wiki/Q76298556) ⚭ Menia, Winilinda (?)
+- **Gondioc** (Q109954) — [Wikidata Q437712](https://www.wikidata.org/wiki/Q437712) ⚭ Daughter of Rechila (wife of Gundioc)
+- **Claffone** (Q110198) — [Wikidata Q2286808](https://www.wikidata.org/wiki/Q2286808)
+- **Clodebaud** (Q110244) — [Wikidata Q61188387](https://www.wikidata.org/wiki/Q61188387)
+- **General Sabinianus Magnus** (Q110620) — [Wikidata Q131731527](https://www.wikidata.org/wiki/Q131731527)
+- **noble Pompeius in Dyrrhachium** (Q111137) — [Wikidata Q131731530](https://www.wikidata.org/wiki/Q131731530) ⚭ Anastasia Constantina Arriana
+- **Anastasia Constantina Arriana** (Q111139) — [Wikidata Q116471679](https://www.wikidata.org/wiki/Q116471679) ⚭ noble Pompeius in Dyrrhachium
+- **Anicius** (Q111145) — [Wikidata Q131731532](https://www.wikidata.org/wiki/Q131731532) ⚭ Maria
+- **Maria** (Q111147) — [Wikidata Q131731534](https://www.wikidata.org/wiki/Q131731534) ⚭ Anicius
+- **father of Tonantius Ferreolus** (Q113251) — [Wikidata Q76300308](https://www.wikidata.org/wiki/Q76300308) ⚭ daughter of Flavius Afranius Syagrius
+- **daughter of Flavius Afranius Syagrius** (Q113253) — [Wikidata Q67444544](https://www.wikidata.org/wiki/Q67444544) ⚭ father of Tonantius Ferreolus
+- **Aquilinus** (Q154021) — b. 430 CE, d. 470 CE ⚭ Fuscina De Vienne
+- **Ruricus Bishop of Limoges** (Q154022) — b. 440 CE, d. 510 CE — [Wikidata Q1411309](https://www.wikidata.org/wiki/Q1411309) ⚭ Hiberia
+- **Hiberia** (Q154023) ⚭ Ruricus Bishop of Limoges
+- **Fuscina De Vienne** (Q166717) ⚭ Aquilinus
+- **Acacius** (Q60129) — [Wikidata Q116468873](https://www.wikidata.org/wiki/Q116468873) ⚭ Unnamed mother of Theodora
+- **Unnamed mother of Theodora** (Q60161) ⚭ Acacius
+- **Paulus** (Q60194) ⚭ Magna
+- **Magna** (Q60227) ⚭ Paulus
+- **Anicia Juliana** (Q60261) ⚭ Flavius Areobindus Dagalaifus Areobindus
+- **Flavius Areobindus Dagalaifus Areobindus** (Q60293) — b. 460 CE, d. 512 CE — [Wikidata Q642469](https://www.wikidata.org/wiki/Q642469) ⚭ Anicia Juliana, Anicia Juliana
+
+## Generation 12 (22 people) — circa 393 CE
+
+- **Amalafrida** (Q109475) — [Wikidata Q241526](https://www.wikidata.org/wiki/Q241526) ⚭ Thrasamund
+- **Chlodio** (Q109886) — b. 393 CE, d. 448 CE — [Wikidata Q235392](https://www.wikidata.org/wiki/Q235392)
+- **Waltari (?)** (Q110326) — [Wikidata Q76298881](https://www.wikidata.org/wiki/Q76298881) ⚭ Hrothildis von Burgund
+- **Hrothildis von Burgund** (Q110328) — [Wikidata Q76299609](https://www.wikidata.org/wiki/Q76299609) ⚭ Waltari (?)
+- **Gunther** (Q110342) — [Wikidata Q339094](https://www.wikidata.org/wiki/Q339094) ⚭ Hrothildis von Westgoten, Brynhild
+- **Godehok** (Q110662) — [Wikidata Q2605299](https://www.wikidata.org/wiki/Q2605299)
+- **Gallus** (Q111897) — [Wikidata Q116471680](https://www.wikidata.org/wiki/Q116471680)
+- **Volusiana** (Q111905) — [Wikidata Q131731533](https://www.wikidata.org/wiki/Q131731533) ⚭ Petronius Maximus
+- **Ferreol von Rom** (Q115265) — [Wikidata Q76300306](https://www.wikidata.org/wiki/Q76300306)
+- **Flavius Afranius Syagrius** (Q115267) — [Wikidata Q654635](https://www.wikidata.org/wiki/Q654635)
+- **Ommatius** (Q154024)
+- **Leontia** (Q154025) ⚭ N.N.
+- **N.N.** (Q154026) ⚭ Leontia
+- **Vicarius** (Q154033) ⚭ Tullia of Lyon
+- **Tullia of Lyon** (Q154034) ⚭ Vicarius
+- **Q60326** (Q60326) ⚭ Pompeius
+- **Pompeius** (Q60356) — [Wikidata Q960953](https://www.wikidata.org/wiki/Q960953) ⚭ Anastasia, Q60326
+- **Placidia the Younger** (Q60386) ⚭ Gaudentius, Paladius Rutilius Taurus Emilianus, Olybrius, Western Roman Emperor
+- **Olybrius, Western Roman Emperor** (Q60419) ⚭ Placidia the Younger
+- **Dagalaifus** (Q60452) — b. 450 CE — [Wikidata Q1270265](https://www.wikidata.org/wiki/Q1270265) ⚭ Godisthea
+- **Godisthea** (Q60485) ⚭ Dagalaifus
+- **Petronius Maximus** (Q99627) — b. 396 CE, d. 455 CE — [Wikidata Q191940](https://www.wikidata.org/wiki/Q191940) ⚭ Volusiana, Volusiana, Licinia Eudoxia +1 more
+
+## Generation 13 (28 people) — circa 390 CE
+
+- **Theodemir** (Q109471) — [Wikidata Q334777](https://www.wikidata.org/wiki/Q334777) ⚭ Ereleuva
+- **Ereleuva** (Q109473) — [Wikidata Q2309988](https://www.wikidata.org/wiki/Q2309988) ⚭ Theodemir
+- **Theudemeres** (Q110242) — [Wikidata Q2664316](https://www.wikidata.org/wiki/Q2664316)
+- **Albhari (?)** (Q110776) — [Wikidata Q76298523](https://www.wikidata.org/wiki/Q76298523)
+- **Hrothildis von Westgoten** (Q110780) — [Wikidata Q76300825](https://www.wikidata.org/wiki/Q76300825) ⚭ Gunther
+- **Giselher** (Q110786) — [Wikidata Q1291259](https://www.wikidata.org/wiki/Q1291259) ⚭ Ute
+- **Ute** (Q110788) — [Wikidata Q2502923](https://www.wikidata.org/wiki/Q2502923) ⚭ Giselher, Gibica
+- **Caesaria** (Q111143) — [Wikidata Q116471678](https://www.wikidata.org/wiki/Q116471678) ⚭ Flavius Secundinus
+- **Leti** (Q111169) — [Wikidata Q2263230](https://www.wikidata.org/wiki/Q2263230)
+- **Flavius Secundinus** (Q111901) — [Wikidata Q1118217](https://www.wikidata.org/wiki/Q1118217) ⚭ Caesaria
+- **N.N.** (Q112985) — [Wikidata Q131731621](https://www.wikidata.org/wiki/Q131731621) ⚭ N.N.
+- **N.N.** (Q112987) — [Wikidata Q131731622](https://www.wikidata.org/wiki/Q131731622) ⚭ N.N.
+- **(Ennodia)** (Q113005) — [Wikidata Q131731623](https://www.wikidata.org/wiki/Q131731623) ⚭ Anicius Probinus
+- **Adelphius Bishop of Limoges** (Q154027) — b. 390 CE — [Wikidata Q4682083](https://www.wikidata.org/wiki/Q4682083)
+- **Decimus Rusticus** (Q154035) — [Wikidata Q769213](https://www.wikidata.org/wiki/Q769213) ⚭ Artemia
+- **Artemia** (Q154036) ⚭ Decimus Rusticus, Decime Rustique Des Gaules
+- **Eucherius of Lyon** (Q154038) — [Wikidata Q671419](https://www.wikidata.org/wiki/Q671419) ⚭ Galla
+- **Galla** (Q154039) ⚭ Eucherius of Lyon
+- **Agricola** (Q154074) — b. 365 CE, d. 421 CE — [Wikidata Q2271381](https://www.wikidata.org/wiki/Q2271381) ⚭ N.N.
+- **N.N.** (Q154075) ⚭ Agricola
+- **Licinia Eudoxia** (Q60518) — b. 422 CE, d. 493 CE — [Wikidata Q232329](https://www.wikidata.org/wiki/Q232329) ⚭ Valentinian III, Petronius Maximus
+- **Valentinian III** (Q60548) — b. 419 CE, d. 455 CE — [Wikidata Q170026](https://www.wikidata.org/wiki/Q170026) ⚭ Licinia Eudoxia
+- **Areobindus** (Q60581) — b. 350 CE, d. 449 CE — [Wikidata Q1282468](https://www.wikidata.org/wiki/Q1282468) ⚭ [great granddaughter of Dagalaiphus]
+- **[great granddaughter of Dagalaiphus]** (Q60614) ⚭ Areobindus
+- **Flavius  Ardabur** (Q60647)
+- **Anicius Olybrius Probus** (Q75504) ⚭ Adelphia  de Limoge
+- **Adelphia  de Limoge** (Q75507) — b. 410 CE, d. 470 CE ⚭ Anicius Olybrius Probus
+- **Anicius Probinus** (Q75513) — [Wikidata Q723472](https://www.wikidata.org/wiki/Q723472) ⚭ (Ennodia)
+
+## Generation 14 (23 people) — circa 360 CE
+
+- **Vandalarius** (Q109607) — [Wikidata Q3293815](https://www.wikidata.org/wiki/Q3293815)
+- **Richomeres** (Q110710) — [Wikidata Q741377](https://www.wikidata.org/wiki/Q741377)
+- **Gibica** (Q111334) — [Wikidata Q570149](https://www.wikidata.org/wiki/Q570149) ⚭ Ute, Grimhild
+- **Lamissone** (Q111935) — [Wikidata Q2525039](https://www.wikidata.org/wiki/Q2525039) ⚭ Gudinger (?)
+- **Gudinger (?)** (Q111937) — [Wikidata Q76298652](https://www.wikidata.org/wiki/Q76298652) ⚭ Lamissone
+- **Ennodius** (Q114961) — [Wikidata Q131731624](https://www.wikidata.org/wiki/Q131731624) ⚭ (Maxima Magna)
+- **(Maxima Magna)** (Q114963) — [Wikidata Q131731625](https://www.wikidata.org/wiki/Q131731625) ⚭ Ennodius
+- **Anicia** (Q154029) ⚭ Pontius
+- **Pontius** (Q154032) — b. 360 CE ⚭ Anicia
+- **Artemia of Augustonemetum** (Q154037) ⚭ Tetradius, bishop of Clermont
+- **Tetradius, bishop of Clermont** (Q166416) ⚭ Artemia of Augustonemetum
+- **Philagrius** (Q185019) — [Wikidata Q5382055](https://www.wikidata.org/wiki/Q5382055) ⚭ Egnatia Avita Severa
+- **Egnatia Avita Severa** (Q185173) ⚭ Philagrius
+- **Theodosius II** (Q60680) — b. 401 CE, d. 450 CE — [Wikidata Q160353](https://www.wikidata.org/wiki/Q160353) ⚭ Aelia Eudocia
+- **Aelia Eudocia** (Q60713) — b. 401 CE, d. 460 CE — [Wikidata Q229307](https://www.wikidata.org/wiki/Q229307) ⚭ Theodosius II
+- **Constantius III** (Q60746) — b. 370 CE, d. 421 CE — [Wikidata Q201905](https://www.wikidata.org/wiki/Q201905) ⚭ Galla Placidia
+- **Galla Placidia** (Q60779) — [Wikidata Q237907](https://www.wikidata.org/wiki/Q237907) ⚭ Ataulf, Ataulfo, rei dos Visigodos, Constantius III
+- **Aspar** (Q60878) — b. 400 CE, d. 471 CE — [Wikidata Q361276](https://www.wikidata.org/wiki/Q361276)
+- **Sextus Claudius Petronius Probus** (Q65002) — b. 328 CE, d. 388 CE — [Wikidata Q1542092](https://www.wikidata.org/wiki/Q1542092) ⚭ Anicia Faltonia Proba
+- **Anicius Hermogenianus Olybrius** (Q75516) — [Wikidata Q1372249](https://www.wikidata.org/wiki/Q1372249) ⚭ Anicia Juliana, Anicia Juliana
+- **Anicia Juliana** (Q75519) ⚭ Anicius Hermogenianus Olybrius
+- **Anicia Faltonia Proba** (Q75522) — [Wikidata Q1154373](https://www.wikidata.org/wiki/Q1154373) ⚭ Sextus Claudius Petronius Probus, Valerius Adelphius Pontius Anicius  de Rome
+- **Valerius Adelphius Pontius Anicius  de Rome** (Q75525) ⚭ Anicia Faltonia Proba
+
+## Generation 15 (21 people) — circa 377 CE
+
+- **Vinitharius** (Q109839) — [Wikidata Q12093418](https://www.wikidata.org/wiki/Q12093418)
+- **Teutomer** (Q111219) — [Wikidata Q107527874](https://www.wikidata.org/wiki/Q107527874)
+- **Agilmondo** (Q113055) — [Wikidata Q2524084](https://www.wikidata.org/wiki/Q2524084)
+- **Philagrius** (Q153767) — [Wikidata Q7182911](https://www.wikidata.org/wiki/Q7182911)
+- **Iamblichus of Apamaea** (Q166379)
+- **Quintus Flavius Egnatius Placidus Severus Flavius Egnatius Placidius** (Q185416) ⚭ Antonia Marcianilla
+- **Antonia Marcianilla** (Q185417) ⚭ Quintus Flavius Egnatius Placidus Severus Flavius Egnatius Placidius
+- **Arcadius** (Q61140) — b. 377 CE, d. 408 CE — [Wikidata Q159369](https://www.wikidata.org/wiki/Q159369) ⚭ Aelia Eudoxia
+- **Aelia Eudoxia** (Q61268) — b. 301 CE, d. 404 CE — [Wikidata Q232981](https://www.wikidata.org/wiki/Q232981) ⚭ Arcadius
+- **Leontius** (Q62321) — [Wikidata Q1819537](https://www.wikidata.org/wiki/Q1819537)
+- **Galla** (Q62668) — [Wikidata Q236999](https://www.wikidata.org/wiki/Q236999) ⚭ Theodosius I
+- **Petronius Probinus** (Q66164) — [Wikidata Q1219455](https://www.wikidata.org/wiki/Q1219455) ⚭ Clodia Celsina
+- **Theodosius I** (Q67474) — b. 347 CE, d. 395 CE — [Wikidata Q46696](https://www.wikidata.org/wiki/Q46696) ⚭ Galla, Aelia Flaccilla
+- **Ardabur** (Q69739) — b. 350 CE, d. 500 CE — [Wikidata Q1291252](https://www.wikidata.org/wiki/Q1291252)
+- **Aurelia Symmacha** (Q75534) ⚭ Anicius Auchenius Bassus
+- **Anicius Auchenius Bassus** (Q75537) — [Wikidata Q1174096](https://www.wikidata.org/wiki/Q1174096) ⚭ Aurelia Symmacha
+- **Quintus Clodius Hermogenianus Olybrius** (Q75540) — b. 335 CE, d. 380 CE — [Wikidata Q1148526](https://www.wikidata.org/wiki/Q1148526) ⚭ Anicia Proba, Tyrrania Anicia Juliana, Turrania Anicia  De Rome
+- **Tyrrania Anicia Juliana** (Q75543) — [Wikidata Q12296367](https://www.wikidata.org/wiki/Q12296367) ⚭ Quintus Clodius Hermogenianus Olybrius
+- **Valerius Pontius Paulinus** (Q75546) ⚭ Adelphia  de Rome
+- **Adelphia  de Rome** (Q75549) ⚭ Valerius Pontius Paulinus
+- **Clodia Celsina** (Q75558) ⚭ Petronius Probinus
+
+## Generation 16 (28 people) — circa 250 CE
+
+- **Valaravano** (Q110180) — [Wikidata Q12274488](https://www.wikidata.org/wiki/Q12274488)
+- **Aio** (Q115013) — [Wikidata Q3908772](https://www.wikidata.org/wiki/Q3908772)
+- **Petronius Probianus** (Q123588) — b. 250 CE — [Wikidata Q654123](https://www.wikidata.org/wiki/Q654123)
+- **Himerius III** (Q166345)
+- **Cornelia Severa** (Q185006) ⚭ Quintus Flavius Maesius Egnatius Lollianus Mavortius
+- **Antonius Marcellinus** (Q185043) ⚭ Pontia Privata
+- **Pontia Privata** (Q185044) ⚭ Antonius Marcellinus
+- **Quintus Flavius Maesius Egnatius Lollianus Mavortius** (Q185395) ⚭ Cornelia Severa
+- **Aelia Flaccilla** (Q70038) — b. 356 CE, d. 386 CE — [Wikidata Q235603](https://www.wikidata.org/wiki/Q235603) ⚭ Theodosius I
+- **Flavius Bauto** (Q70292) — b. 400 CE, d. 388 CE — [Wikidata Q519483](https://www.wikidata.org/wiki/Q519483) ⚭ Thermantia
+- **Thermantia** (Q70325) ⚭ Flavius Bauto
+- **Justina** (Q73086) — b. 400 CE, d. 388 CE — [Wikidata Q254471](https://www.wikidata.org/wiki/Q254471) ⚭ Magnentius, Valentinian I
+- **Valentinian I** (Q73089) — b. 321 CE, d. 375 CE — [Wikidata Q46720](https://www.wikidata.org/wiki/Q46720) ⚭ Marina Severa, daughter Magnus C Maximus - Marina ?, Marina Severa +1 more
+- **Thermantia** (Q73092) — b. 350 CE — [Wikidata Q56305768](https://www.wikidata.org/wiki/Q56305768) ⚭ Flavius Theodosius
+- **Flavius Theodosius** (Q73095) — d. 376 CE — [Wikidata Q537126](https://www.wikidata.org/wiki/Q537126) ⚭ Thermantia
+- **Quintus Aurelius Symmachus** (Q75564) ⚭ Rusticiana
+- **Rusticiana** (Q75567) ⚭ Quintus Aurelius Symmachus
+- **Turrania Honorata** (Q75570) ⚭ Anicius Auchenius Bassus
+- **Anicius Auchenius Bassus** (Q75573) — b. 350 CE, d. 408 CE — [Wikidata Q2289711](https://www.wikidata.org/wiki/Q2289711) ⚭ Turrania Honorata
+- **Clodius Celsinus Adelphius** (Q75576) — [Wikidata Q1147586](https://www.wikidata.org/wiki/Q1147586) ⚭ Faltonia Betitia Proba
+- **Faltonia Betitia Proba** (Q75579) — b. 322 CE, d. 370 CE — [Wikidata Q570034](https://www.wikidata.org/wiki/Q570034) ⚭ Clodius Celsinus Adelphius
+- **Lucius Valerius Septimus Bassus** (Q75582) ⚭ Adelphia Probia
+- **Adelphia Probia** (Q75585) ⚭ Lucius Valerius Septimus Bassus
+- **Turrania Anicia  De Rome** (Q75588) ⚭ Quintus Clodius Hermogenianus Olybrius
+- **Demetrias** (Q75603) — [Wikidata Q3625008](https://www.wikidata.org/wiki/Q3625008) ⚭ Clodius Celsinus
+- **Clodius Celsinus** (Q75606) — [Wikidata Q110915987](https://www.wikidata.org/wiki/Q110915987) ⚭ Demetrias
+- **Betitia  Rome** (Q75610) ⚭ Faltonius Probus  De Rome
+- **Faltonius Probus  De Rome** (Q75613) — b. 295 CE, d. 340 CE ⚭ Betitia  Rome
+
+## Generation 17 (40 people) — circa 350 CE
+
+- **Vultulf** (Q110644) — [Wikidata Q20046254](https://www.wikidata.org/wiki/Q20046254)
+- **Anicia Juliana** (Q113011) — [Wikidata Q12272064](https://www.wikidata.org/wiki/Q12272064) ⚭ Anicius Hermogenianus Olybrius
+- **Gambara** (Q118510) — [Wikidata Q1092947](https://www.wikidata.org/wiki/Q1092947)
+- **Flavius Claudius Antonius** (Q123620) — b. 350 CE — [Wikidata Q661849](https://www.wikidata.org/wiki/Q661849)
+- **Turrenia Honorata** (Q151955) — [Wikidata Q12297063](https://www.wikidata.org/wiki/Q12297063) ⚭ Amnius Manius Caesonius Nichomachus Anicius Paulinus
+- **Pincia** (Q154066) ⚭ Amnius Manius Caesonius Nichomachus Anicius Paulinus
+- **Urania of Emesa** (Q166302) ⚭ Sopater I of Apamaea
+- **Sopater I of Apamaea** (Q166344) ⚭ Urania of Emesa
+- **Cornelius Severus** (Q185007) ⚭ Placida
+- **Placida** (Q185035) ⚭ Cornelius Severus
+- **Antonius Marcellinus** (Q185049) ⚭ N.N.
+- **N.N.** (Q185418) ⚭ Antonius Marcellinus
+- **Pontius Paulinus** (Q185679)
+- **Egnatius Lollianus** (Q186138) ⚭ Quintia Flavia
+- **Quintia Flavia** (Q186142) ⚭ Egnatius Lollianus
+- **Flavius Honorius** (Q60845) ⚭ Maria
+- **Maria** (Q60911) ⚭ Flavius Honorius
+- **Justus** (Q60944) — [Wikidata Q29603990](https://www.wikidata.org/wiki/Q29603990) ⚭ Julia Galla
+- **Julia Galla** (Q60974) — b. 301 CE, d. 350 CE — [Wikidata Q126107314](https://www.wikidata.org/wiki/Q126107314) ⚭ Licinianus, Justus
+- **Gratianus Funarius** (Q61008) — b. 280 CE, d. 400 CE — [Wikidata Q1254885](https://www.wikidata.org/wiki/Q1254885) ⚭ Justina, Fausta
+- **Fausta** (Q61041) ⚭ Constantius II, Gratianus Funarius
+- **Thermantius** (Q61074)
+- **Flavius Honorius  Theodosius** (Q61107)
+- **Annia Gaia** (Q61792) — b. 247 CE — [Wikidata Q113025929](https://www.wikidata.org/wiki/Q113025929) ⚭ Lucius Publilius Petronius Volusianus, Pompeius Probus
+- **Teutomer** (Q62561)
+- **Lucius Aurelius Avianius  Symmachus** (Q75616) ⚭ Acyndinia
+- **Acyndinia** (Q75619) ⚭ Lucius Aurelius Avianius  Symmachus
+- **Memmius Vitrasius Orfitus** (Q75622) ⚭ Constantia
+- **Constantia** (Q75625) ⚭ Memmius Vitrasius Orfitus
+- **Aurelia Iovina** (Q75628) ⚭ Lucius Turranius Honoratus
+- **Lucius Turranius Honoratus** (Q75631) ⚭ Aurelia Iovina
+- **Caeionia Auchenia Bassa** (Q75634) ⚭ Amnius Manius Caesonius Nichomachus Anicius Paulinus
+- **Amnius Manius Caesonius Nichomachus Anicius Paulinus** (Q75637) — [Wikidata Q1174111](https://www.wikidata.org/wiki/Q1174111) ⚭ Turrenia Honorata, Pincia, (Mulier Amnii Mani Caesonii) . +2 more
+- **Septimia** (Q75640) ⚭ Lucius Valerius Maximus Basilius
+- **Lucius Valerius Maximus Basilius** (Q75643) ⚭ Septimia
+- **Clodius Celsinus** (Q75661) — [Wikidata Q110915990](https://www.wikidata.org/wiki/Q110915990) ⚭ N.N.
+- **N.N.** (Q75664) ⚭ Clodius Celsinus
+- **Betitius Perpetuus Arzygius** (Q75667)
+- **Maecia Proba  De Rome** (Q75670) ⚭ Pompeius Probus
+- **Pompeius Probus** (Q75673) — b. 250 CE — [Wikidata Q1226472](https://www.wikidata.org/wiki/Q1226472) ⚭ Annia Gaia, Maecia Proba  De Rome
+
+## Generation 18 (42 people) — circa 240 CE
+
+- **Achiulf** (Q110642) — [Wikidata Q1915930](https://www.wikidata.org/wiki/Q1915930)
+- **Q137789** (Q137789)
+- **Petronius Probianus** (Q153733) — b. 240 CE, d. 300 CE
+- **Pincius clarissimus vir** (Q154067) ⚭ Caeionia
+- **Caeionia** (Q154068) ⚭ Pincius clarissimus vir
+- **Iamblicus of Chalcis** (Q166256)
+- **L. Petronius of Rome** (Q185155)
+- **Amantia Marina** (Q185419) ⚭ Antonius Marcellinus
+- **Antonius Marcellinus** (Q185493) ⚭ Amantia Marina
+- **Gaius Memmius Caelinus Placidus** (Q185695) ⚭ Maecia Cethegilla
+- **Maecia Cethegilla** (Q185697) ⚭ Gaius Memmius Caelinus Placidus
+- **Cornelius Severus** (Q185734)
+- **Egnatius Lucillus** (Q186136)
+- **Maesia Fabia** (Q186143) ⚭ Quintus  Flavius
+- **Vettius Justus** (Q61173) — b. 300 CE, d. 400 CE — [Wikidata Q1239423](https://www.wikidata.org/wiki/Q1239423) ⚭ Neratia  Justus
+- **Neratia  Justus** (Q61202) ⚭ Vettius Justus
+- **Galla** (Q61235) — b. 350 CE, d. 301 CE — [Wikidata Q653221](https://www.wikidata.org/wiki/Q653221) ⚭ Julius Constantius, Flavius Julius Constantius, Consul of Rome
+- **Julius Constantius** (Q61301) — b. 289 CE, d. 337 CE — [Wikidata Q450702](https://www.wikidata.org/wiki/Q450702) ⚭ Basilina, Basilina, Galla
+- **Fausta** (Q61334) — b. 289 CE, d. 326 CE — [Wikidata Q231063](https://www.wikidata.org/wiki/Q231063) ⚭ Constantine the Great, Constantine the Great
+- **Constantine the Great** (Q61367) ⚭ Minervina, Fictitious Mistress of Constantine the Great, Fausta
+- **Gaius Annius Anullinus** (Q62156) — b. 201 CE, d. 400 CE — [Wikidata Q1174024](https://www.wikidata.org/wiki/Q1174024)
+- **Aurelius Valerius Tullianus  Symmachus** (Q75676)
+- **Acyninus** (Q75679)
+- **Memmius Orfitus** (Q75682) ⚭ Vitrasia
+- **Vitrasia** (Q75685) ⚭ Memmius Orfitus
+- **Lucius Turranius Venustus Gratianus** (Q75688)
+- **Auchenia  Bassa** (Q75691) ⚭ Caeionius Julianus Camerius
+- **Caeionius Julianus Camerius** (Q75694) — d. 334 CE ⚭ Auchenia  Bassa
+- **Amnius Anicius Julianus** (Q75697) ⚭ (Mulier Amnii Anicii Iuliani) ., Caesonia Manilia Bassus
+- **Caesonia Manilia Bassus** (Q75700) ⚭ Amnius Anicius Julianus
+- **Praefectus urbi of Rome (317-319) - Septimius Bassus** (Q75703) ⚭ N.N.
+- **N.N.** (Q75706) ⚭ Praefectus urbi of Rome (317-319) - Septimius Bassus
+- **Lucius Valerius Maximus Basilius** (Q75709) ⚭ N.N., Wife of Lucius Valerius Maximus Basilius
+- **N.N., Wife of Lucius Valerius Maximus Basilius** (Q75712) ⚭ Lucius Valerius Maximus Basilius
+- **Quintus  Flavius** (Q75733) ⚭ Maesia Fabia, Maesia
+- **Quintus Fabius Clodius Agrippianus Celsinus** (Q75742) ⚭ N.N.
+- **N.N.** (Q75745) ⚭ Quintus Fabius Clodius Agrippianus Celsinus
+- **Aurelia** (Q75748) ⚭ Betitius Perpetuus
+- **Betitius Perpetuus** (Q75751) ⚭ Aurelia
+- **Furia Gordiana** (Q75754) ⚭ Marcus Maecius Orfitus
+- **Marcus Maecius Orfitus** (Q75757) ⚭ Furia Gordiana
+- **Flavius Julius Constantius, Consul of Rome** (Q99314) — b. 289 CE, d. 337 CE — [Wikidata Q450702](https://www.wikidata.org/wiki/Q450702) ⚭ Basilina, Galla
+
+## Generation 19 (45 people) — circa 210 CE
+
+- **Athal** (Q111161) — [Wikidata Q12079601](https://www.wikidata.org/wiki/Q12079601)
+- **Sextus Petronius Probus** (Q153734) — b. 210 CE, d. 275 CE
+- **Marcus Caeionius Proclus Consul 289** (Q154069) ⚭ Alfenia Juliana
+- **Alfenia Juliana** (Q154070) ⚭ Marcus Caeionius Proclus Consul 289
+- **of Emesa** (Q166209)
+- **Cepreius Amantius** (Q185420) ⚭ Caeionia Marina
+- **Caeionia Marina** (Q185421) ⚭ Cepreius Amantius
+- **Cornelius Severus** (Q185494)
+- **Memmius Caecilianus Placidus** (Q185696)
+- **Egnatius Lucillianus** (Q186135)
+- **Gaius Maecius Fabius Titanus** (Q186141)
+- **Gaius Vettius Cossinius Rufinus** (Q61400) — b. 201 CE, d. 400 CE — [Wikidata Q1131441](https://www.wikidata.org/wiki/Q1131441) ⚭ Petronia Probiana
+- **Petronia Probiana** (Q61433) — [Wikidata Q113026094](https://www.wikidata.org/wiki/Q113026094) ⚭ Gaius Vettius Cossinius Rufinus
+- **Vulcacia** (Q61466) ⚭ Neratius Iunius Flavianus
+- **Neratius Iunius Flavianus** (Q61499) ⚭ Vulcacia
+- **Flavia Maximiana Theodora** (Q61532) — b. 270 CE, d. 400 CE — [Wikidata Q232094](https://www.wikidata.org/wiki/Q232094) ⚭ Constantius Chlorus
+- **Constantius Chlorus** (Q61565) — b. 250 CE, d. 306 CE — [Wikidata Q131195](https://www.wikidata.org/wiki/Q131195) ⚭ Constantina of Rome, Armenian Woman, St. Helen of the Cross (Fictional Version) +2 more
+- **Maximian** (Q61598) — b. 240 CE, d. 310 CE — [Wikidata Q46768](https://www.wikidata.org/wiki/Q46768) ⚭ Afrania Hannibaliana, Eutropia
+- **Eutropia** (Q61631) — [Wikidata Q45530](https://www.wikidata.org/wiki/Q45530) ⚭ Maximian, Q61891
+- **Helena Augusta** (Q61664) — b. 250 CE, d. 330 CE — [Wikidata Q170164](https://www.wikidata.org/wiki/Q170164) ⚭ Constantius Chlorus
+- **Gaius Annius Anullinus Geminus Percennianus** (Q62570) — [Wikidata Q24934688](https://www.wikidata.org/wiki/Q24934688)
+- **Aurelius  Hermogenes** (Q75760) ⚭ Tullia  Valeria
+- **Tullia  Valeria** (Q75763) ⚭ Aurelius  Hermogenes
+- **Vitrasius Pretextus** (Q75766) ⚭ Plautia Avita
+- **Plautia Avita** (Q75769) ⚭ Vitrasius Pretextus
+- **Venusta** (Q75772) ⚭ Lucius Turranius Gratianus
+- **Lucius Turranius Gratianus** (Q75775) ⚭ Venusta
+- **Alfenia  Juliana** (Q75778) ⚭ Caeionius  Proculus
+- **Caeionius  Proculus** (Q75781) ⚭ Alfenia  Juliana
+- **Amnia  Demetrias** (Q75784) ⚭ Sextus Cocceius Anicius Faustus Paulinus, Anicius Faustus Paulinus
+- **Anicius Faustus Paulinus** (Q75787) — b. 240 CE, d. 300 CE — [Wikidata Q1223461](https://www.wikidata.org/wiki/Q1223461) ⚭ Amnia  Demetrias
+- **Junia** (Q75790) ⚭ Lucius C. Ovinius Bassus  Caesonius
+- **Lucius C. Ovinius Bassus  Caesonius** (Q75793) ⚭ Junia
+- **Pomponia Bassa** (Q75796) ⚭ Lucius Septimius Severus
+- **Lucius Septimius Severus** (Q75799) ⚭ Pomponia Bassa
+- **Messalla** (Q75802) — [Wikidata Q2175504](https://www.wikidata.org/wiki/Q2175504) ⚭ NN (Wife of Lucius Valerius Messalla)
+- **NN (Wife of Lucius Valerius Messalla)** (Q75805) ⚭ Messalla
+- **Fuscinilla  Fabia** (Q75841) ⚭ Clodius Celsinus  De Rome
+- **Clodius Celsinus  De Rome** (Q75844) ⚭ Fuscinilla  Fabia
+- **Aurelius  Aurelius** (Q75847)
+- **Betitius** (Q75850)
+- **Gordian III** (Q75853) — b. 225 CE, d. 244 CE — [Wikidata Q1812](https://www.wikidata.org/wiki/Q1812) ⚭ Tranquillina, Claudia Crispina, Furia Sabina Tranquilina
+- **Furia Sabina Tranquilina** (Q75856) — [Wikidata Q2293889](https://www.wikidata.org/wiki/Q2293889) ⚭ Gordian III
+- **Marcus Maecius Probus** (Q75859) ⚭ Pupiena Sextia Paulina Cethegilla
+- **Pupiena Sextia Paulina Cethegilla** (Q75862) ⚭ Marcus Maecius Probus
+
+## Generation 20 (51 people) — circa 360 CE
+
+- **Chunwil** (Q111925) — [Wikidata Q12168019](https://www.wikidata.org/wiki/Q12168019)
+- **Coel Hen** (Q136016) — b. 360 CE, d. 420 CE — [Wikidata Q2304442](https://www.wikidata.org/wiki/Q2304442) ⚭ Ystradwel ferch Gadeon ab Eudaf Hên, wife of Coel Hen
+- **Diocletian** (Q136810) — b. 244 CE, d. 316 CE — [Wikidata Q43107](https://www.wikidata.org/wiki/Q43107) ⚭ Prisca, Serena of Rome
+- **Marcus Petronius Probus (the Elder)** (Q153735) — b. 180 CE, d. 245 CE
+- **Rufia C.f. Procula** (Q154072) ⚭ Marcus Caeionius Varo
+- **Uranius Antoninus of Emesa** (Q166164) ⚭ N.N.
+- **N.N.** (Q166208) ⚭ Uranius Antoninus of Emesa
+- **Gnaeus Cornelius Paternus** (Q185491)
+- **Lucius Egnatius Victor Lollianus** (Q186139)
+- **Gratus** (Q61694) — b. 250 CE — [Wikidata Q740413](https://www.wikidata.org/wiki/Q740413) ⚭ Cossinia
+- **Cossinia** (Q61727) — [Wikidata Q113026350](https://www.wikidata.org/wiki/Q113026350) ⚭ Gratus
+- **Lucius Publilius Petronius Volusianus** (Q61759) — b. 250 CE — [Wikidata Q24934686](https://www.wikidata.org/wiki/Q24934686) ⚭ Annia Gaia
+- **Aemilia Pudentilla** (Q61825) ⚭ Neratius Gallus
+- **Neratius Gallus** (Q61858) ⚭ Aemilia Pudentilla
+- **Q61891** (Q61891) ⚭ Eutropia
+- **Flavius Eutropius** (Q61924) — b. 218 CE, d. 300 CE — [Wikidata Q1001936](https://www.wikidata.org/wiki/Q1001936) ⚭ Claudia Crispina
+- **Claudia Crispina** (Q61957) — [Wikidata Q867859](https://www.wikidata.org/wiki/Q867859) ⚭ Flavius Eutropius, Gordian III
+- **N.N.** (Q61990)
+- **Rufia Procula** (Q75721) ⚭ Marcus Caeionius Varo
+- **Marcus Caeionius Varo** (Q75724) ⚭ Rufia C.f. Procula, Rufia Procula
+- **Marcus Aurelius  Hermogenes** (Q75868) ⚭ N.N.
+- **Fundanius Vitrasius** (Q75871) ⚭ Asinia Lepida
+- **Asinia Lepida** (Q75874) ⚭ Fundanius Vitrasius
+- **Lucius Turranius Gratianus Crispinus Lucilianus** (Q75877)
+- **Lucius Alfenius Virius  Julianus** (Q75880)
+- **Tiberius Claudius Marathonius  of Rome** (Q75883) ⚭ Flavia Minor, Claudia Capitolina
+- **Flavia Minor** (Q75886) ⚭ Tiberius Claudius Marathonius  of Rome
+- **Quintus Anicius Faustus** (Q75889) ⚭ Asinia Juliana Nicomacha
+- **Asinia Juliana Nicomacha** (Q75892) ⚭ Quintus Anicius Faustus
+- **Valeria Paulla  Maximus** (Q75895) ⚭ Marcus Junius Maximus
+- **Marcus Junius Maximus** (Q75898) ⚭ Valeria Paulla  Maximus
+- **Lucius Caesonius** (Q75901)
+- **Consul (159 & 271) - Pomponius Bassus** (Q75904) ⚭ Pomponia Gratidia
+- **Pomponia Gratidia** (Q75907) ⚭ Consul (159 & 271) - Pomponius Bassus
+- **Lucius Septimus  Severus** (Q75910) ⚭ N.N.
+- **N.N.** (Q75913) ⚭ Lucius Septimus  Severus
+- **Lucius Valerius Poblicola Balbinus Maximus** (Q75916) ⚭ N.N.
+- **N.N.** (Q75919) ⚭ Lucius Valerius Poblicola Balbinus Maximus
+- **Gaius Maecius Aquilius Fabius Maecilius Aquilius Fabius  Titanus** (Q75964) ⚭ Fonteia  Frontina
+- **Fuscinilla** (Q75979) ⚭ Quintus  Fabius
+- **Quintus  Fabius** (Q75982) ⚭ Fuscinilla
+- **Marcus Clodius Macrinus  Hermogenianus** (Q75985)
+- **Marcus Aurelius Cominius  Arzygius** (Q75988)
+- **Betitius** (Q75991)
+- **Antonia Gordiana** (Q75994) — b. 201 CE, d. 300 CE — [Wikidata Q443278](https://www.wikidata.org/wiki/Q443278) ⚭ Junius Licinius Balbus
+- **Junius Licinius Balbus** (Q75997) — b. 180 CE, d. 238 CE — [Wikidata Q12299551](https://www.wikidata.org/wiki/Q12299551) ⚭ Antonia Gordiana
+- **Gaius Furius Sabinius Aquila Timesitheus** (Q76000)
+- **Marcus Pomponius Maecius Probus  Probus** (Q76003)
+- **Cornelia Marullina** (Q76006) ⚭ Marcus Pupienus Africanus Maximus
+- **Marcus Pupienus Africanus Maximus** (Q76009) ⚭ Cornelia Marullina
+- **N.N.** (Q99641) ⚭ Marcus Aurelius  Hermogenes
+
+## Generation 21 (60 people) — circa 150 CE
+
+- **Ostrogota** (Q113045) — [Wikidata Q3659686](https://www.wikidata.org/wiki/Q3659686)
+- **Servilia Ceionia** (Q141792) — [Wikidata Q108493587](https://www.wikidata.org/wiki/Q108493587)
+- **Gaius Petronius Justus** (Q153736) — b. 150 CE, d. 215 CE
+- **Gaius Julius Sulpicius of Emesa** (Q166109) ⚭ N.N.
+- **N.N.** (Q166163) ⚭ Gaius Julius Sulpicius of Emesa
+- **Gnaeus Cornelius Aquilius Orfitus** (Q185498) ⚭ Tarrutenia
+- **Tarrutenia** (Q185724) ⚭ Gnaeus Cornelius Aquilius Orfitus
+- **Lucius Egnatius Victor** (Q186140)
+- **Vettius Gratus** (Q62023) — b. 250 CE — [Wikidata Q720474](https://www.wikidata.org/wiki/Q720474) ⚭ Asinia
+- **Asinia** (Q62056) ⚭ Vettius Gratus
+- **Cossinius Rufinus** (Q62089) — b. 250 CE — [Wikidata Q24951538](https://www.wikidata.org/wiki/Q24951538)
+- **Lucius Publius Probastus  Justus** (Q62123)
+- **Lucius Iunius Neratius Gallus Fulvius Macer** (Q62189) ⚭ N.N.  Macer
+- **N.N.  Macer** (Q62222) ⚭ Lucius Iunius Neratius Gallus Fulvius Macer
+- **Aurelia Pompeiana** (Q62255) — [Wikidata Q109793322](https://www.wikidata.org/wiki/Q109793322) ⚭ Claudius Gothicus, Crispus
+- **Crispus** (Q62288) — [Wikidata Q16190110](https://www.wikidata.org/wiki/Q16190110) ⚭ Flavia Claudia, Aurelia Pompeiana
+- **Publilia** (Q75817) ⚭ Gaius Rufius Proculus
+- **Gaius Rufius Proculus** (Q75820) ⚭ Publilia
+- **Flavia Postumia Varia** (Q75823) ⚭ Caeionius (200-)
+- **Caeionius (200-)** (Q75826) ⚭ Flavia Postumia Varia
+- **Albanus P. Flavius  Priscus** (Q76012)
+- **Aurelius  Hermes** (Q76015) ⚭ ?
+- **Titus Fundanius Vitrasius  Optatus** (Q76021)
+- **Asinius Lepidus** (Q76024) ⚭ Cornelia Orfita
+- **Cornelia Orfita** (Q76027) ⚭ Asinius Lepidus
+- **Lucius Alfenius  Avitianus** (Q76030) ⚭ Viria  Juliana
+- **Viria  Juliana** (Q76033) ⚭ Lucius Alfenius  Avitianus
+- **Tiberius Claudius Themistocles  Marathonius** (Q76036)
+- **Titus Flavius Stasicles Metrophanes** (Q76039) ⚭ Claudia Capitolina
+- **Claudia Capitolina** (Q76042) ⚭ Tiberius Claudius Marathonius  of Rome, Titus Flavius Stasicles Metrophanes
+- **Csonia Paulla** (Q76045) ⚭ Quintus Anicius Paulinus
+- **Quintus Anicius Paulinus** (Q76048) ⚭ Csonia Paulla
+- **Caesonia** (Q76051) ⚭ Gaius Asinius Nicomachus Julianus
+- **Gaius Asinius Nicomachus Julianus** (Q76054) ⚭ Caesonia
+- **Claudia  Quintianus** (Q76057) ⚭ Lucius Valerius Claudius Acilius Priscillia
+- **Lucius Valerius Claudius Acilius Priscillia** (Q76060) ⚭ Claudia  Quintianus, NN (Wife of Lucius Valerius Maximus)
+- **Gallienus  Concessus** (Q76063)
+- **Ovinia** (Q76066) ⚭ Lucius Caesonius Lucillus Macer Rufinianus
+- **Lucius Caesonius Lucillus Macer Rufinianus** (Q76069) ⚭ Ovinia
+- **Consul (211) - Pomponius Bassus** (Q76072) ⚭ Annia Aurelia  Faustina
+- **Annia Aurelia  Faustina** (Q76075) ⚭ Marcus Aurelius Antoninus Augustus, Consul (211) - Pomponius Bassus
+- **Neratia  Procilla** (Q76078) ⚭ Lucius Flavius Septimius  Flavius
+- **Lucius Flavius Septimius  Flavius** (Q76081) ⚭ Neratia  Procilla
+- **NN (Wife of Lucius Valerius Maximus)** (Q76084) ⚭ Lucius Valerius Claudius Acilius Priscillia
+- **Gaius Maecius Fabius  Titanus** (Q76147)
+- **Publius Seius Fuscianus** (Q76165) ⚭ N.N.
+- **N.N.** (Q76168) ⚭ Publius Seius Fuscianus
+- **Laberia  Pompeiana** (Q76171) ⚭ Marcus Clodius Macrinius Vindex  Hermogenianus
+- **Marcus Clodius Macrinius Vindex  Hermogenianus** (Q76174) ⚭ Laberia  Pompeiana
+- **Marcus Aurelius Cominius  Aurelius** (Q76177)
+- **Gaius Betitius** (Q76180) ⚭ Seia Fuscinilla
+- **Seia Fuscinilla** (Q76183) ⚭ Gaius Betitius
+- **Fabia Orestilla** (Q76186) — b. 165 CE, d. 238 CE — [Wikidata Q3655577](https://www.wikidata.org/wiki/Q3655577) ⚭ Gordian I, Roman Emperor
+- **Gordian I, Roman Emperor** (Q76189) — b. 159 CE, d. 238 CE — [Wikidata Q1782](https://www.wikidata.org/wiki/Q1782) ⚭ Fabia Orestilla
+- **Marcus Maecius Probus  Probus** (Q76192) ⚭ Pomponia Arria
+- **Pomponia Arria** (Q76195) ⚭ Marcus Maecius Probus  Probus
+- **Lucius Cossonius Scipio Orfitus** (Q76198)
+- **Pupienus, Roman Emperor** (Q76201) ⚭ Sextia Cethegilla
+- **Sextia Cethegilla** (Q76204) ⚭ Pupienus, Roman Emperor
+- **?** (Q99645) ⚭ Aurelius  Hermes
+
+## Generation 22 (75 people) — circa 150 CE
+
+- **Hisarna** (Q114985) — [Wikidata Q20045829](https://www.wikidata.org/wiki/Q20045829)
+- **Ceionia Plautia** (Q139844) — b. 150 CE — [Wikidata Q5057380](https://www.wikidata.org/wiki/Q5057380) ⚭ Quintus Servilius Pudens
+- **Quintus Servilius Pudens** (Q141791) — b. 200 CE, d. 200 CE — [Wikidata Q1229591](https://www.wikidata.org/wiki/Q1229591) ⚭ Ceionia Plautia
+- **Quintus Petronius Iustus** (Q153737) — b. 120 CE, d. 190 CE
+- **Iamblichus of Emesa** (Q166046) ⚭ N.N.
+- **N.N.** (Q166108) ⚭ Iamblichus of Emesa
+- **Aulus Egnatius Priscilianus** (Q186137)
+- **Gaius Vettius Gratus Sabinianus** (Q62351) — b. 185 CE — [Wikidata Q745547](https://www.wikidata.org/wiki/Q745547) ⚭ Attica  Sabianus
+- **Attica  Sabianus** (Q62384) ⚭ Gaius Vettius Gratus Sabinianus
+- **Vettia** (Q62418) ⚭ Gaius  Asinius Lepidus
+- **Gaius  Asinius Lepidus** (Q62451) ⚭ Vettia
+- **Marcus  Pubilius** (Q62484) ⚭ Petronia
+- **Petronia** (Q62515) ⚭ Marcus  Pubilius, Marcus Publius
+- **Lucius Iunius Aurelius Neratius Gallus Fulvius Macer** (Q62603) ⚭ Fulvia  Macer
+- **Fulvia  Macer** (Q62635) ⚭ Lucius Iunius Aurelius Neratius Gallus Fulvius Macer
+- **Mariana Minor** (Q62680) ⚭ Lucius Aurellius Commodus Pompeianus
+- **Lucius Aurellius Commodus Pompeianus** (Q62704) — b. 176 CE, d. 212 CE — [Wikidata Q716684](https://www.wikidata.org/wiki/Q716684) ⚭ Mariana Minor
+- **Flavius Numerius** (Q62737) ⚭ Claudia Apellina
+- **Claudia Apellina** (Q62767) ⚭ Flavius Numerius
+- **Marcus Publius** (Q75937) ⚭ Petronia
+- **Gaius Rufius** (Q75943) ⚭ Lucia Marcella
+- **Lucia Marcella** (Q75946) ⚭ Gaius Rufius
+- **Titus Flavius Titianus** (Q75949) ⚭ Postumia Varia
+- **Postumia Varia** (Q75952) ⚭ Titus Flavius Titianus
+- **Caeionius  Caeionius** (Q75955)
+- **Cornelia Optata** (Q76207) ⚭ Titus Fundanius Vitrasius  Pollio
+- **Titus Fundanius Vitrasius  Pollio** (Q76210) ⚭ Cornelia Optata
+- **Cornelius Scipio Salvidienus Orfitus** (Q76213)
+- **Virius  Lupus** (Q76216)
+- **Tiberius Claudius Frontonianus  of Rome** (Q76219)
+- **Claudia Frontoniana** (Q76222) ⚭ Titus Flavius Clitosthenes Julianus
+- **Titus Flavius Clitosthenes Julianus** (Q76225) ⚭ Claudia Frontoniana
+- **Claudia** (Q76228) ⚭ Claudius Capitolinus Bassus
+- **Claudius Capitolinus Bassus** (Q76231) ⚭ Claudia
+- **Lucius Sergius  Paullus** (Q76234) ⚭ NN (Wife of Lucius Sergius Paullus)
+- **NN (Wife of Lucius Sergius Paullus)** (Q76237) ⚭ Lucius Sergius  Paullus
+- **Gaius Asinius Quadratus Protimus** (Q76240) ⚭ Sergia Paula
+- **Sergia Paula** (Q76244) ⚭ Gaius Asinius Quadratus Protimus
+- **Claudius Aurelius Quintianus  Quintianus** (Q76247) ⚭ Severa  Severa (SEVERUS)
+- **Severa  Severa (SEVERUS)** (Q76250) ⚭ Claudius Aurelius Quintianus  Quintianus
+- **Lucius Valerius Messala Apollinaris** (Q76253) ⚭ Claudia Acilia
+- **Claudia** (Q76259) ⚭ Lucius  Ovinius
+- **Lucius  Ovinius** (Q76262) ⚭ Claudia
+- **Gaius Caesonius Bassus Rufianus** (Q76265) ⚭ Manilia Lucilla
+- **Manilia Lucilla** (Q76268) ⚭ Gaius Caesonius Bassus Rufianus
+- **NN (Wife of Gaius Pomponius Bassus Terentianus)** (Q76271) ⚭ Suffect Consul (193) - Gaius Pomponius Bassus Terentianus
+- **Suffect Consul (193) - Gaius Pomponius Bassus Terentianus** (Q76274) ⚭ NN (Wife of Gaius Pomponius Bassus Terentianus)
+- **Tiberius Claudius Severus Proculus** (Q76277) — b. 163 CE — [Wikidata Q674757](https://www.wikidata.org/wiki/Q674757) ⚭ Annia Faustina, Annia Faustina
+- **Annia Faustina** (Q76280) — b. 165 CE, d. 210 CE — [Wikidata Q4769176](https://www.wikidata.org/wiki/Q4769176) ⚭ Tiberius Claudius Severus Proculus
+- **Lucius Iunius Macer** (Q76283) ⚭ Neratia  Prisca
+- **Neratia  Prisca** (Q76286) ⚭ Lucius Iunius Macer
+- **Lucius  Flavius** (Q76289) ⚭ Septimia Octavilla
+- **Septimia Octavilla** (Q76292) ⚭ Lucius  Flavius
+- **Gaius Maecius Aquilius Fabius  Titanus** (Q76361)
+- **Clodius** (Q76388) ⚭ Macrina
+- **Macrina** (Q76391) ⚭ Clodius
+- **Gaius Betitius Maximillianus** (Q76394)
+- **Seius  Fuscianus** (Q76397) ⚭ Herennia Orbiana
+- **Herennia Orbiana** (Q76400) ⚭ Seius  Fuscianus
+- **Marcus Annius Severus** (Q76403) — [Wikidata Q8200285](https://www.wikidata.org/wiki/Q8200285) ⚭ Silviana
+- **Silviana** (Q76406) — [Wikidata Q59617969](https://www.wikidata.org/wiki/Q59617969) ⚭ Marcus Annius Severus
+- **Ulpia Gordiana** (Q76409) — [Wikidata Q108494520](https://www.wikidata.org/wiki/Q108494520) ⚭ Maecius Marullus
+- **Maecius Marullus** (Q76412) — [Wikidata Q108494571](https://www.wikidata.org/wiki/Q108494571) ⚭ Ulpia Gordiana
+- **Maecius Probus  Probus** (Q76415)
+- **Arria** (Q76418) ⚭ Lucius Junius Rufinus Proculianus  Proculianus
+- **Lucius Junius Rufinus Proculianus  Proculianus** (Q76421) ⚭ Arria
+- **Lucius Cossonius Eggius Marullus** (Q76424) ⚭ Cornelia Negrina
+- **Cornelia Negrina** (Q76427) ⚭ Lucius Cossonius Eggius Marullus
+- **Marcus Pupienus Maximus** (Q76430) ⚭ Clodia Pulchra
+- **Clodia Pulchra** (Q76433) ⚭ Marcus Pupienus Maximus
+- **Titus  Sextius** (Q76436) ⚭ Cornelia
+- **Cornelia** (Q76439) ⚭ Titus  Sextius
+- **Gnaeus Cornelius  Aquilius Niger** (Q76442) ⚭ Cornelia
+- **Cornelia** (Q76445) ⚭ Gnaeus Cornelius  Aquilius Niger
+- **Claudia Acilia** (Q89776) — b. 185 CE, d. 215 CE ⚭ Lucius Valerius Messala Apollinaris
+
+## Generation 23 (83 people) — circa 101 CE
+
+- **Amal** (Q118466) — [Wikidata Q27063802](https://www.wikidata.org/wiki/Q27063802)
+- **Lucius Aelius Caesar** (Q139842) — b. 101 CE, d. 138 CE — [Wikidata Q455034](https://www.wikidata.org/wiki/Q455034) ⚭ Avidia
+- **Avidia** (Q139843) — [Wikidata Q4828789](https://www.wikidata.org/wiki/Q4828789) ⚭ Lucius Aelius Caesar
+- **Lucius Plautius Lamia Silvanus** (Q141768) — b. 115 CE, d. 200 CE — [Wikidata Q958613](https://www.wikidata.org/wiki/Q958613) ⚭ Aurelia Fadilla
+- **Lucius Iulius Iustus** (Q153738) — b. 90 CE, d. 160 CE
+- **Tiberius Claudius Themistocles** (Q154082) ⚭ Claudia Vettia Agrippina
+- **Claudia Vettia Agrippina** (Q154083) ⚭ Tiberius Claudius Themistocles
+- **Cornelia Orfita Salvidiena  Orfitus** (Q62800) ⚭ Gaius Vettius, III
+- **Gaius Vettius, III** (Q62833) ⚭ Cornelia Orfita Salvidiena  Orfitus
+- **Claudia  Antonia Lepida** (Q62863) ⚭ Gaius  Asinius Nicomachus
+- **Gaius  Asinius Nicomachus** (Q62896) ⚭ Claudia  Antonia Lepida
+- **Gnaeus Petronius Probatus Junior  Justus** (Q62926) ⚭ Caecilia
+- **Caecilia** (Q62959) ⚭ Gnaeus Petronius Probatus Junior  Justus
+- **Gaius Fulvius Plautius Hortensianus  Hortensianus** (Q63058) ⚭ Aurelia
+- **Aurelia** (Q63091) ⚭ Gaius Fulvius Plautius Hortensianus  Hortensianus
+- **Caius Julius Marius  Marius** (Q63124) ⚭ Pendania
+- **Pendania** (Q63157) ⚭ Caius Julius Marius  Marius
+- **Lucilla** (Q63192) — b. 150 CE, d. 182 CE — [Wikidata Q242466](https://www.wikidata.org/wiki/Q242466) ⚭ Lucius Verus, Tiberius Claudius Pompeianus
+- **Tiberius Claudius Pompeianus** (Q63224) — b. 130 CE, d. 193 CE — [Wikidata Q947726](https://www.wikidata.org/wiki/Q947726) ⚭ Lucilla
+- **Claudius Apellinus** (Q63257) ⚭ Basina Severa
+- **Basina Severa** (Q63290) ⚭ Claudius Apellinus
+- **Servius Cornelius Scipio Salvidienus Orfitus** (Q63972) ⚭ Aquilla Nigrina  Niger, Arria Sextia  Paulina
+- **Aquilla Nigrina  Niger** (Q64005) ⚭ Servius Cornelius Scipio Salvidienus Orfitus, Gnaeus Cornelius  Severus
+- **Publius Septimius Geta** (Q64648) — b. 110 CE — [Wikidata Q1236655](https://www.wikidata.org/wiki/Q1236655) ⚭ Fulvia Pia
+- **Fulvia Pia** (Q64681) — b. 150 CE — [Wikidata Q12297788](https://www.wikidata.org/wiki/Q12297788) ⚭ Publius Septimius Geta
+- **Titus Secundus Lubius Volusius Torquatus Vestinus  Sextius** (Q64780) ⚭ Asinia Polla
+- **Asinia Polla** (Q64813) ⚭ Titus Secundus Lubius Volusius Torquatus Vestinus  Sextius
+- **Boionia Procilla Sevilla** (Q66976) ⚭ Gaius Julius Longinus Soaemus of Emesa
+- **Gaius Julius Longinus Soaemus of Emesa** (Q66991) ⚭ Boionia Procilla Sevilla
+- **Vibia Varia  Paulla** (Q76105) ⚭ Lucius Cornelius Salvius Tuscus, Marcus Postumius Festus
+- **Gaius Rufius Festus** (Q76117) ⚭ Laelia Firmina
+- **Laelia Firmina** (Q76120) ⚭ Gaius Rufius Festus
+- **Quintus Lucius** (Q76123)
+- **N.N.** (Q76126) ⚭ Titus Flavius Claudius Sulpicianus
+- **Titus Flavius Claudius Sulpicianus** (Q76129) ⚭ N.N.
+- **Marcus Postumius Festus** (Q76132) ⚭ Vibia Varia  Paulla
+- **Caeionius  Caeionius** (Q76135)
+- **Annia Fundania Faustina  Faustina** (Q76448) ⚭ Pomponius Proculus Vitrasius  Pollio
+- **Pomponius Proculus Vitrasius  Pollio** (Q76451) ⚭ Annia Fundania Faustina  Faustina
+- **Cornelius Scipio Salvidienus Orfitus** (Q76454)
+- **Antonia de Laodicee** (Q76457) ⚭ Lupus  Virius
+- **Lupus  Virius** (Q76460) ⚭ Antonia de Laodicee
+- **Tiberius Claudius Frontonianus Claudius  Frontonianus** (Q76463) ⚭ Themistoclea
+- **Themistoclea** (Q76466) ⚭ Tiberius Claudius Frontonianus Claudius  Frontonianus
+- **Titus Flavius Clitosthenes Julianus** (Q76469)
+- **Titus Claudius Bassus Hannibalanus** (Q76472)
+- **Sergius Octavius  Laenas Paullus** (Q76475)
+- **Gaius Asinius Nicomachus** (Q76478) ⚭ Julia Quadratilla
+- **Julia Quadratilla** (Q76481) ⚭ Gaius Asinius Quadratus, Gaius Asinius Nicomachus
+- **Gauis Claudius  Severus** (Q76484)
+- **Coelia Balbina** (Q76487) ⚭ Lucius Valerius Messala Thrasea Paetus
+- **Lucius Valerius Messala Thrasea Paetus** (Q76490) ⚭ Coelia Balbina
+- **Acilia Frestana** (Q76493) ⚭ Tiberius Claudius Cleobulus
+- **Tiberius Claudius Cleobulus** (Q76496) ⚭ Acilia Frestana
+- **Gaius Caesonius** (Q76499)
+- **Flavia Pollitta** (Q76502) ⚭ Titus Manilius Fuscus
+- **Titus Manilius Fuscus** (Q76505) ⚭ Flavia Pollitta
+- **Annia Aurelia Galeria Faustina** (Q76508) — b. 147 CE, d. 165 CE — [Wikidata Q3655950](https://www.wikidata.org/wiki/Q3655950) ⚭ Gnaeus Claudius Severus
+- **Gnaeus Claudius Severus** (Q76511) — b. 133 CE — [Wikidata Q717806](https://www.wikidata.org/wiki/Q717806) ⚭ Annia Aurelia Galeria Faustina
+- **Ummidia Cornificia Faustina** (Q76514) — b. 141 CE, d. 182 CE — [Wikidata Q7881718](https://www.wikidata.org/wiki/Q7881718) ⚭ Unknown Roman Senator
+- **Unknown Roman Senator** (Q76517) ⚭ Ummidia Cornificia Faustina
+- **Lucius Neratius Priscus, IV** (Q76520) ⚭ Accia Prisca
+- **Accia Prisca** (Q76523) ⚭ Lucius Neratius Priscus, IV
+- **Sextia** (Q76577) ⚭ Appius Claudius Pulcher
+- **Appius Claudius Pulcher** (Q76580) ⚭ Sextia
+- **Fabia  Titania** (Q76586) ⚭ Gaius Maesius  Picatianus
+- **Gaius Maesius  Picatianus** (Q76589) ⚭ Fabia  Titania
+- **Triaria Vibiana Pomponia  Pomponia** (Q76605) ⚭ Aulus Iunius Rufinus  Rufinus
+- **Aulus Iunius Rufinus  Rufinus** (Q76608) ⚭ Triaria Vibiana Pomponia  Pomponia
+- **Claudius  Capitilinus** (Q76622)
+- **Gaius Neratius** (Q76625) ⚭ Neratia Procilla
+- **Aurelia Fadilla** (Q76631) — b. 118 CE, d. 135 CE — [Wikidata Q5687629](https://www.wikidata.org/wiki/Q5687629) ⚭ Lucius Plautius Lamia Silvanus
+- **N.N.** (Q76634) ⚭ N.N.
+- **N.N.** (Q76637) ⚭ N.N.
+- **Sempronia Romana** (Q76640) — b. 120 CE — [Wikidata Q108495427](https://www.wikidata.org/wiki/Q108495427) ⚭ Severus Antoninus Marullus
+- **Severus Antoninus Marullus** (Q76643) — b. 130 CE — [Wikidata Q108494665](https://www.wikidata.org/wiki/Q108494665) ⚭ Sempronia Romana
+- **Cossonia** (Q76646) ⚭ Lucius Eggius Marullus
+- **Lucius Eggius Marullus** (Q76649) ⚭ Cossonia
+- **Arria Sextia  Paulina** (Q76654) ⚭ Servius Cornelius Scipio Salvidienus Orfitus
+- **Marcus  Gavius** (Q76657) ⚭ Pompeia  Agrippinilla
+- **Pompeia  Agrippinilla** (Q76660) ⚭ Marcus  Gavius
+- **Gnaeus Cornelius  Severus** (Q76663) ⚭ Aquilla Nigrina  Niger
+- **Neratia Procilla** (Q76864) ⚭ Gaius Neratius, Gaius Betitius Pietas
+
+## Generation 24 (111 people) — circa 90 CE
+
+- **Augis** (Q123615) — b. 90 CE, d. 160 CE — [Wikidata Q27063804](https://www.wikidata.org/wiki/Q27063804)
+- **Lucius Ceionius Commodus** (Q141784) — b. 100 CE, d. 200 CE — [Wikidata Q545266](https://www.wikidata.org/wiki/Q545266) ⚭ Plautia Fabia
+- **Plautia Fabia** (Q141785) — [Wikidata Q98065247](https://www.wikidata.org/wiki/Q98065247) ⚭ Lucius Ceionius Commodus, Gaius Avidius Nigrinus, Sextus Vettulenus Civica Cerialis
+- **Gaius Avidius Nigrinus** (Q141789) — b. 50 CE, d. 118 CE — [Wikidata Q1215443](https://www.wikidata.org/wiki/Q1215443) ⚭ Plautia Fabia, Aelia Plautilla
+- **Aelia Plautilla** (Q141790) — [Wikidata Q16097807](https://www.wikidata.org/wiki/Q16097807) ⚭ Gaius Avidius Nigrinus
+- **Rupilia** (Q144370) — [Wikidata Q12292675](https://www.wikidata.org/wiki/Q12292675) ⚭ Lucius Fundanius Lamia Aelianus
+- **Marcus Iustus** (Q153739) — b. 60 CE, d. 125 CE ⚭ Granddaughter of John
+- **Granddaughter of John** (Q153794) ⚭ Marcus Iustus
+- **Tiberius Claudius Dryantianus Antonius** (Q154084) ⚭ Avida Alexandra
+- **Avida Alexandra** (Q154085) ⚭ Tiberius Claudius Dryantianus Antonius
+- **Julia Bassa** (Q154093) ⚭ Tiberius Claudius Capitolinus
+- **Arria Cornelius (Carbo)** (Q63323) ⚭ Servius Cornelius Scipio Orfitus Scipio Salvidenus  Orfitus
+- **Servius Cornelius Scipio Orfitus Scipio Salvidenus  Orfitus** (Q63356) ⚭ Arria Cornelius (Carbo)
+- **Gaius Vettius, II** (Q63388) ⚭ Grata  Hospes
+- **Grata  Hospes** (Q63421) ⚭ Gaius Vettius, II
+- **Gaius  Asinius Rufus** (Q63451)
+- **Sextus Caecilius  Volunsianis** (Q63484)
+- **Petronius  Junior** (Q63517)
+- **Consul (203) - Gaius Fulvius Plautianus** (Q63550) ⚭ Hortensia
+- **Hortensia** (Q63583) ⚭ Consul (203) - Gaius Fulvius Plautianus
+- **Consul (174) - Lucius Aurelius Gallus** (Q63616) ⚭ NN (Wife of Lucius Aurelius Gallus)
+- **NN (Wife of Lucius Aurelius Gallus)** (Q63649) ⚭ Consul (174) - Lucius Aurelius Gallus
+- **Ummidia Commificia Antonia** (Q63684) ⚭ Lucius Pedanius Fascus  Salinator, Acilius Glabrio  Glabrio
+- **Lucius Pedanius Fascus  Salinator** (Q63717) ⚭ Ummidia Commificia Antonia
+- **Faustina the Younger** (Q63747) — b. 125 CE, d. 175 CE — [Wikidata Q236936](https://www.wikidata.org/wiki/Q236936) ⚭ Marcus Aurelius
+- **Marcus Aurelius** (Q63780) — b. 121 CE, d. 180 CE — [Wikidata Q1430](https://www.wikidata.org/wiki/Q1430) ⚭ Faustina the Younger
+- **Annia Aurelia Galeria  Lucilla** (Q63813)
+- **Julia Domna** (Q63846) — b. 165 CE, d. 217 CE — [Wikidata Q229246](https://www.wikidata.org/wiki/Q229246) ⚭ Septimius Severus
+- **Septimius Severus** (Q63879) — b. 146 CE, d. 211 CE — [Wikidata Q1442](https://www.wikidata.org/wiki/Q1442) ⚭ Paccia Marciana, Julia Domna
+- **Fulvius Pius** (Q64268) — [Wikidata Q109668313](https://www.wikidata.org/wiki/Q109668313) ⚭ Plautia Octavilla
+- **Plautia Octavilla** (Q64301) — [Wikidata Q12290747](https://www.wikidata.org/wiki/Q12290747) ⚭ Fulvius Pius
+- **Faustina the Elder** (Q64483) — b. 105 CE, d. 140 CE — [Wikidata Q234734](https://www.wikidata.org/wiki/Q234734) ⚭ Antoninus Pius
+- **Antoninus Pius** (Q64516) — b. 86 CE, d. 161 CE — [Wikidata Q1429](https://www.wikidata.org/wiki/Q1429) ⚭ Faustina the Elder
+- **Calpurnia Lepida** (Q64837) ⚭ Servius Cornelius Scipio Salvidienus Orfitus l
+- **Servius Cornelius Scipio Salvidienus Orfitus l** (Q64870) ⚭ Calpurnia Lepida
+- **Quintus Aquilius  Niger** (Q64903)
+- **Gaius Annianus Verus** (Q65192) — b. 100 CE — [Wikidata Q12275936](https://www.wikidata.org/wiki/Q12275936) ⚭ Annia Cornificia Faustina
+- **Annia Cornificia Faustina** (Q65225) — b. 123 CE, d. 152 CE — [Wikidata Q1284248](https://www.wikidata.org/wiki/Q1284248) ⚭ Gaius Annianus Verus
+- **Vitoria** (Q65648) — [Wikidata Q107401767](https://www.wikidata.org/wiki/Q107401767) ⚭ Lucius Septimius Severus
+- **Lucius Septimius Severus** (Q65681) — [Wikidata Q12285259](https://www.wikidata.org/wiki/Q12285259) ⚭ Vitoria
+- **Vibia** (Q65846) ⚭ Titus Sextius Cornelius  Africanus
+- **Titus Sextius Cornelius  Africanus** (Q65879) ⚭ Vibia
+- **Asinius Pollio** (Q65912)
+- **Gaius Julius Sampsigeramus** (Q67024) — b. 55 CE, d. 120 CE — [Wikidata Q5517443](https://www.wikidata.org/wiki/Q5517443) ⚭ N.N.
+- **Titus Clodius Vibius  Clodius** (Q76313) ⚭ N.N.
+- **N.N.** (Q76316) ⚭ Titus Clodius Vibius  Clodius
+- **Gaius Rufius Festus** (Q76328) ⚭ Postumia
+- **Postumia** (Q76331) ⚭ Gaius Rufius Festus
+- **Titus Flavius Titianus** (Q76334) ⚭ [Claudia]
+- **[Claudia]** (Q76337) ⚭ Titus Flavius Titianus
+- **Postumius** (Q76340) ⚭ N.N., Wife of Postumius
+- **N.N., Wife of Postumius** (Q76343) ⚭ Postumius
+- **Marcus Caeionius  Caeionius** (Q76346) ⚭ N.N.
+- **Lucius Fundanius Lamia Aelianus** (Q76666) — [Wikidata Q1247336](https://www.wikidata.org/wiki/Q1247336) ⚭ Rupilia, Annia
+- **Annia** (Q76669) ⚭ Lucius Fundanius Lamia Aelianus
+- **Marcus Antonius  Zeno** (Q76672) ⚭ Antia  Marcellina
+- **Antia  Marcellina** (Q76675) ⚭ Marcus Antonius  Zeno
+- **Klaudia Philippea** (Q76678) ⚭ Tiberius Claudius  Sospes
+- **Tiberius Claudius  Sospes** (Q76681) ⚭ Klaudia Philippea
+- **N.N.** (Q76684) ⚭ Titus Flavius Clitosthenes  Claudianus
+- **Titus Flavius Clitosthenes  Claudianus** (Q76687) ⚭ N.N.
+- **Tiberius Claudius Capitolinus** (Q76690) ⚭ Julia Bassa
+- **Sergius Octavius Pontianus Laenes Octavius  Pontainus** (Q76693) ⚭ Julia, Paullus
+- **Julia** (Q76696) — [Wikidata Q118176231](https://www.wikidata.org/wiki/Q118176231) ⚭ Sergius Octavius Pontianus Laenes Octavius  Pontainus, Pontianus Sergius Octavius
+- **Gaius Julius Asinius Quadratus** (Q76699) ⚭ Julia Charax
+- **Julia Charax** (Q76702) ⚭ Gaius Julius Asinius Quadratus
+- **Aulus Julius** (Q76705) ⚭ N.N.
+- **Annia Faustina  Faustina** (Q76711) ⚭ Claudius Severus  Proculus
+- **Claudius Severus  Proculus** (Q76714) ⚭ Annia Faustina  Faustina
+- **Marcus Aquilius Publius Coelius Apollinaris** (Q76717) ⚭ NN (Wife of Marcus Aquilius Coelius Apollinaris)
+- **NN (Wife of Marcus Aquilius Coelius Apollinaris)** (Q76720) ⚭ Marcus Aquilius Publius Coelius Apollinaris
+- **Lucius Valerius Messala Thrasea Poblicola** (Q76723) ⚭ Minicia
+- **Minicia** (Q76726) ⚭ Lucius Valerius Messala Thrasea Poblicola
+- **Manius Acilius Glabrio** (Q76729)
+- **Tiberius Claudius Cleobulus** (Q76732) ⚭ Acilia
+- **Acilia** (Q76735) ⚭ Tiberius Claudius Cleobulus
+- **Flavius Rufinianus** (Q76738)
+- **Gnaeus Claudius Severus Arabianus** (Q76741) — b. 113 CE, d. 200 CE — [Wikidata Q717647](https://www.wikidata.org/wiki/Q717647) ⚭ NN (Wife of Gnaeus Claudius Severus Arabianus)
+- **NN (Wife of Gnaeus Claudius Severus Arabianus)** (Q76744) ⚭ Gnaeus Claudius Severus Arabianus
+- **Eggia Marullina** (Q76749) ⚭ Lucius  Neratius
+- **Lucius  Neratius** (Q76752) ⚭ Eggia Marullina
+- **Accius Priscus** (Q76755) ⚭ Luliana
+- **Luliana** (Q76759) ⚭ Accius Priscus
+- **Appius Claudius Pulcher** (Q76816)
+- **Aquilia** (Q76822) ⚭ Quintus Fabius  Titanus
+- **Quintus Fabius  Titanus** (Q76825) ⚭ Aquilia
+- **Triarius Vibianus** (Q76843) ⚭ Pomponia
+- **Pomponia** (Q76846) ⚭ Triarius Vibianus
+- **Aulus Iunius Rufinus  Rufinus** (Q76849)
+- **Iotapa Aka II** (Q76855) ⚭ Tiberius Claudius  Balbillus Thrasyllus
+- **Tiberius Claudius  Balbillus Thrasyllus** (Q76858) ⚭ Iotapa Aka II
+- **Sempronius Aquila** (Q76867) — [Wikidata Q108529373](https://www.wikidata.org/wiki/Q108529373)
+- **Clodia Patruina** (Q76870) ⚭ Lucius Cossonius
+- **Lucius Cossonius** (Q76873) ⚭ Clodia Patruina
+- **Lucius Eggius Ambibulus Pomponius Longinus** (Q76876)
+- **Arria** (Q76879) ⚭ Marcus  Nonius
+- **Marcus  Nonius** (Q76882) ⚭ Arria
+- **Cornelia Cethegilla  Certhegilla** (Q76885) ⚭ Marcus Gavius Squilla Gallicanus  Gallicanus
+- **Marcus Gavius Squilla Gallicanus  Gallicanus** (Q76888) ⚭ Cornelia Cethegilla  Certhegilla
+- **Marcus Pompeius Macrinus  Theophanes** (Q76891)
+- **Sergia  Paullina** (Q76894) ⚭ Gnaeus Pinarius Cornelius Severus
+- **Gnaeus Pinarius Cornelius Severus** (Q76897) ⚭ Sergia  Paullina
+- **Gaius Neratius  Neratius** (Q76996) ⚭ Proculus
+- **Proculus** (Q76999) ⚭ Gaius Neratius  Neratius
+- **Gaius Betitius** (Q77083)
+- **Sampsiceramus III of Emesa** (Q99322) ⚭ N.N.
+- **N.N.** (Q99324) ⚭ Gaius Julius Sampsigeramus, Sampsiceramus III of Emesa
+- **N.N.** (Q99649) ⚭ Marcus Caeionius  Caeionius
+- **Pontianus Sergius Octavius** (Q99659) ⚭ Julia
+- **N.N.** (Q99663) ⚭ Aulus Julius
+- **Gaius Betitius Pietas** (Q99665) ⚭ Neratia Procilla
+
+## Generation 25 (116 people) — circa 250 CE
+
+- **Julius Julianus** (Q137242) — b. 250 CE — [Wikidata Q666885](https://www.wikidata.org/wiki/Q666885)
+- **Hulmul** (Q137581) — [Wikidata Q20045834](https://www.wikidata.org/wiki/Q20045834)
+- **Calvisia Domitia Lucilla** (Q139826) — b. 100 CE — [Wikidata Q1815905](https://www.wikidata.org/wiki/Q1815905) ⚭ Marcus Annius Verus
+- **Annia Rupilia Faustina** (Q141756) — [Wikidata Q111988914](https://www.wikidata.org/wiki/Q111988914) ⚭ Gaius Ummidius Quadratus Sertorius Severus
+- **Lucius Ceionius Commodus** (Q144418) — b. 50 CE — [Wikidata Q899739](https://www.wikidata.org/wiki/Q899739)
+- **Fabia Barbara** (Q144419) — [Wikidata Q12297450](https://www.wikidata.org/wiki/Q12297450) ⚭ Lucius Aelius Plautius Lamia Aelianus
+- **Salonia Matidia** (Q148196) — b. 68 CE, d. 119 CE — [Wikidata Q262368](https://www.wikidata.org/wiki/Q262368) ⚭ Lucius Vibius Sabinus, Lucius Mindius, Libo Rupilius Frugi
+- **Emperor Avidius Cassius** (Q148243) — b. 130 CE, d. 175 CE — [Wikidata Q299291](https://www.wikidata.org/wiki/Q299291) ⚭ Volusia Maeciana, Volusia Vettia Maeciana
+- **Septimius Macer** (Q148338) — [Wikidata Q12286135](https://www.wikidata.org/wiki/Q12286135) ⚭ Claudia
+- **Claudia** (Q148339) — [Wikidata Q107401778](https://www.wikidata.org/wiki/Q107401778) ⚭ Septimius Macer
+- **Jesus Justus** (Q153728) — b. 30 CE — [Wikidata Q6188194](https://www.wikidata.org/wiki/Q6188194) ⚭ Saint Petronilla
+- **Saint Petronilla** (Q153791) — [Wikidata Q463600](https://www.wikidata.org/wiki/Q463600) ⚭ Jesus Justus
+- **Son of John** (Q153795)
+- **Volusia Vettia Maeciana** (Q154087) ⚭ Emperor Avidius Cassius
+- **Gaius Julius Avitus** (Q154094) — [Wikidata Q116474557](https://www.wikidata.org/wiki/Q116474557)
+- **Marcus Nonius Arrius Mucianus** (Q63912) ⚭ Sextia Asina Polla
+- **Sextia Asina Polla** (Q63939) ⚭ Marcus Nonius Arrius Mucianus
+- **Gaius Vettius, I** (Q64038)
+- **Gaius  Asinius Frugi** (Q64071)
+- **Sextus Caecilius Crescens  Caecilius** (Q64104) ⚭ Fulvia Numisia Gaviana Aemiliana Numisia Aemiliana  Aemilianus
+- **Fulvia Numisia Gaviana Aemiliana Numisia Aemiliana  Aemilianus** (Q64137) ⚭ Sextus Caecilius Crescens  Caecilius
+- **Petronius** (Q64169) — [Wikidata Q120232596](https://www.wikidata.org/wiki/Q120232596)
+- **Gaius Fulvius  Plautianus** (Q64202) ⚭ Plautia  Octavilla
+- **Plautia  Octavilla** (Q64235) ⚭ Gaius Fulvius  Plautianus
+- **Lucius Aurelius  Gallus** (Q64331)
+- **Gaius Ummidius Quadratus Annianus Verus  Fulvius** (Q64355) ⚭ Annia Cornificia Faustina
+- **Annia Cornificia Faustina** (Q64388) ⚭ Gaius Ummidius Quadratus Annianus Verus  Fulvius
+- **Gnaeus Pedanius Fuscus  Salinator** (Q64421) ⚭ Julia Serviana  Paulina
+- **Julia Serviana  Paulina** (Q64450) ⚭ Gnaeus Pedanius Fuscus  Salinator
+- **Marcus Annius Verus** (Q64549) — b. 94 CE, d. 120 CE — [Wikidata Q1292169](https://www.wikidata.org/wiki/Q1292169) ⚭ Calvisia Domitia Lucilla, Domitia Lucilla Minor
+- **Domitia Lucilla Minor** (Q64582) ⚭ Julianus Calpurnius Piso, Marcus Annius Verus
+- **Julius Bassianus** (Q64615) — d. 201 CE — [Wikidata Q1163372](https://www.wikidata.org/wiki/Q1163372)
+- **Fulvius Pius  Fulvius** (Q65096)
+- **Lucius Plautius Octavianus** (Q65126) — [Wikidata Q12285243](https://www.wikidata.org/wiki/Q12285243) ⚭ Aquilia Blaesilla
+- **Aquilia Blaesilla** (Q65159) — [Wikidata Q12271293](https://www.wikidata.org/wiki/Q12271293) ⚭ Lucius Plautius Octavianus
+- **Rupilia Faustina** (Q65258) — b. 87 CE, d. 101 CE — [Wikidata Q2068391](https://www.wikidata.org/wiki/Q2068391) ⚭ Marcus Annius Verus
+- **Marcus Annius Verus** (Q65291) — b. 57 CE, d. 143 CE — [Wikidata Q745241](https://www.wikidata.org/wiki/Q745241) ⚭ Rupilia Faustina
+- **Titus Aurelius Fulvus** (Q65423) — b. 100 CE — [Wikidata Q1230832](https://www.wikidata.org/wiki/Q1230832) ⚭ Arria Fadilla
+- **Arria Fadilla** (Q65456) — b. 50 CE — [Wikidata Q12272328](https://www.wikidata.org/wiki/Q12272328) ⚭ Publius Julius Lupus, Titus Aurelius Fulvus
+- **Hadrian** (Q65489) — b. 76 CE, d. 138 CE — [Wikidata Q1427](https://www.wikidata.org/wiki/Q1427) ⚭ Vibia Sabina
+- **Cornelia Lepida** (Q65945) ⚭ Lucius Calpurnius Piso Frugi Licinianus
+- **Lucius Calpurnius Piso Frugi Licinianus** (Q65975) ⚭ Cornelia Lepida
+- **Servius Cornelius Salvidienus Orfitus** (Q66002) ⚭ N\a  a ?Wife of Servius Cornelius (~50-93)
+- **N\a  a ?Wife of Servius Cornelius (~50-93)** (Q66035) ⚭ Servius Cornelius Salvidienus Orfitus
+- **Gaius Ummidius Quadratus Sertorius Severus** (Q66425) — b. 50 CE, d. 200 CE — [Wikidata Q1491541](https://www.wikidata.org/wiki/Q1491541) ⚭ Annia Rupilia Faustina, Sertoria  Sallustius
+- **Sertoria  Sallustius** (Q66455) ⚭ Gaius Ummidius Quadratus Sertorius Severus
+- **Libo Rupilius Frugi** (Q66488) — b. 1 CE, d. 101 CE — [Wikidata Q1237511](https://www.wikidata.org/wiki/Q1237511) ⚭ Vitellia Galeria, Salonia Matidia
+- **Marcus Vitorius Marcellus** (Q67055) — b. 60 CE — [Wikidata Q644101](https://www.wikidata.org/wiki/Q644101) ⚭ Hosidia Geta
+- **Hosidia Geta** (Q67085) — [Wikidata Q107401763](https://www.wikidata.org/wiki/Q107401763) ⚭ Marcus Vitorius Marcellus
+- **Marcus Septimus Aper** (Q67118) ⚭ Octavia
+- **Octavia** (Q67151) ⚭ Marcus Septimus Aper
+- **Julia Vestina  Vibius** (Q67316) ⚭ Marcus  Vibius
+- **Marcus  Vibius** (Q67349) ⚭ Julia Vestina  Vibius
+- **Volusia Torquata  Saturninus** (Q67382) ⚭ Titus Sextius Magius  Lateranus
+- **Titus Sextius Magius  Lateranus** (Q67415) ⚭ Volusia Torquata  Saturninus
+- **Gaius Asinius  Tucurianus** (Q67441)
+- **Gaius Julius Alexion** (Q68650) — b. 20 CE, d. 78 CE — [Wikidata Q5517437](https://www.wikidata.org/wiki/Q5517437) ⚭ Claudia Piso, Cladia Arrius Calpurnius Silo  Calpurnius Piso
+- **Claudia Piso** (Q68680) ⚭ Gaius Julius Alexion
+- **Tibius Vibius  Vibius** (Q76544) ⚭ Clodia
+- **Clodia** (Q76547) ⚭ Tibius Vibius  Vibius
+- **Titus Flavius Clemens** (Q76559) ⚭ Saint Flavia Domitilla
+- **Saint Flavia Domitilla** (Q76562) ⚭ Titus Flavius Clemens
+- **Caeionius Plautius** (Q76565) ⚭ N.N.
+- **Aelia Plautia** (Q76900) — [Wikidata Q108540720](https://www.wikidata.org/wiki/Q108540720) ⚭ Lucius Fundanius
+- **Lucius Fundanius** (Q76903) — [Wikidata Q108540745](https://www.wikidata.org/wiki/Q108540745) ⚭ Aelia Plautia
+- **Antonius de Laodicee** (Q76906)
+- **Tiberius Klaudios Demostratos Sounieus** (Q76909) ⚭ N.N.
+- **Tiberius Claudius  Lysiades** (Q76915) ⚭ Antonia  Lysiades
+- **Antonia  Lysiades** (Q76918) ⚭ Tiberius Claudius  Lysiades
+- **Kleitosthenes** (Q76924) ⚭ ?
+- **Tiberius Claudius Capitolinus** (Q76927)
+- **Lucius Octavius Laenus** (Q76930)
+- **Sergius Octavius Pontainus** (Q76933)
+- **Octavius Laenas** (Q76936) ⚭ Pontia
+- **Pontia** (Q76939) ⚭ Octavius Laenas, Lucius Octavius Laenas
+- **Lucius Octavius Laenas** (Q76945) ⚭ Pontia
+- **Asinia Marcella** (Q76948) ⚭ Gaius Julius Quadratus Bassus, II
+- **Gaius Julius Quadratus Bassus, II** (Q76951) ⚭ Julia of Cilicia (up), Asinia Marcella
+- **Aulus Julius Claudius Charax (Quadratilla)** (Q76954)
+- **Gaius Julius Lupus Titus Vibius Varus Lvillus** (Q76957) ⚭ Julia Quadratilla Bassa
+- **Julia Quadratilla Bassa** (Q76960) ⚭ Gaius Julius Lupus Titus Vibius Varus Lvillus
+- **Acilius Glabrio  Glabrio** (Q76963) ⚭ Ummidia Commificia Antonia
+- **Publius Coelius Balbinus Vibullius** (Q76966)
+- **Lucius Vipsanus Poplicola Messala** (Q76969) ⚭ Helvidia Priscilla  de Rome
+- **Helvidia Priscilla  de Rome** (Q76972) ⚭ Lucius Vipsanus Poplicola Messala
+- **Lucius  Minicius** (Q76975)
+- **Manius Acilius Glabrio Gnaeus Cornelius Severus** (Q76978) ⚭ Annia Vibia Faustina
+- **Annia Vibia Faustina** (Q76981) ⚭ Manius Acilius Glabrio Gnaeus Cornelius Severus
+- **Vibia Polla** (Q76984) ⚭ Publius Flavius Hermocrates
+- **Publius Flavius Hermocrates** (Q76987) ⚭ Vibia Polla
+- **Gaius Claudius Severus** (Q76990) — b. 1 CE, d. 101 CE — [Wikidata Q5517429](https://www.wikidata.org/wiki/Q5517429) ⚭ NN (Wife of Gaius Claudius Severus)
+- **NN (Wife of Gaius Claudius Severus)** (Q76993) ⚭ Gaius Claudius Severus
+- **Accius** (Q77002)
+- **Lucius Aelius Plautius Lamia Aelianus** (Q77038) — b. 45 CE, d. 100 CE — [Wikidata Q1159574](https://www.wikidata.org/wiki/Q1159574) ⚭ Fabia Barbara, Fabia Barbara, Domitia Longina
+- **Publius Claudius Pulcher** (Q77053)
+- **Gaius Julius Antiochos IV  Epiphane** (Q77071) ⚭ Iotapa  Philadelphe
+- **Iotapa  Philadelphe** (Q77074) ⚭ Gaius Julius Antiochos IV  Epiphane
+- **Tiberius Claudius  Thrasyllus** (Q77077) ⚭ Aka I
+- **Aka I** (Q77080) ⚭ Tiberius Claudius  Thrasyllus
+- **Herodes Atticus** (Q77086) — [Wikidata Q311879](https://www.wikidata.org/wiki/Q311879) ⚭ Appia Annia Regilla
+- **Appia Annia Regilla** (Q77089) — [Wikidata Q441955](https://www.wikidata.org/wiki/Q441955) ⚭ Herodes Atticus
+- **Clodia Decmina** (Q77092) ⚭ Lucius Domitius
+- **Lucius Domitius** (Q77095) ⚭ Clodia Decmina
+- **Pomponia** (Q77098) ⚭ Lucius Eggius Marullus
+- **Lucius Eggius Marullus** (Q77101) ⚭ Pomponia
+- **Marcus Pompeius Macrinus  Theophanes** (Q77104)
+- **Lucius Sergius Paullus  Paullus** (Q77107)
+- **Gnaeus  Pinarius** (Q77110)
+- **Domitia Longina** (Q77113) — b. 53 CE, d. 130 CE — [Wikidata Q239010](https://www.wikidata.org/wiki/Q239010) ⚭ Domitian, Gnaeus Domitius Lucanus, Lucius Aelius Plautius Lamia Aelianus
+- **Titia Quartilla  Quartilla** (Q77218) ⚭ Lucius Neratius  Neratius
+- **Lucius Neratius  Neratius** (Q77221) ⚭ Titia Quartilla  Quartilla
+- **Gaius Betitius** (Q77302)
+- **Cladia Arrius Calpurnius Silo  Calpurnius Piso** (Q99326) ⚭ Gaius Julius Alexion
+- **N.N.** (Q99651) ⚭ Caeionius Plautius
+- **N.N.** (Q99669) ⚭ Tiberius Klaudios Demostratos Sounieus
+- **?** (Q99671) ⚭ Kleitosthenes
+
+## Generation 26 (126 people) — circa 5 BCE
+
+- **Gaut** (Q137082) — [Wikidata Q1402029](https://www.wikidata.org/wiki/Q1402029)
+- **Jesus Christ** (Q138545) — b. 5 BCE, d. 30 CE — [Wikidata Q302](https://www.wikidata.org/wiki/Q302) ⚭ Mary Magdalene
+- **Julia Cassia Alexandra** (Q144329) — [Wikidata Q99726933](https://www.wikidata.org/wiki/Q99726933) ⚭ Gaius Avidius Heliodorus
+- **John the Baptist** (Q144336) — b. 6 CE, d. 30 CE — [Wikidata Q40662](https://www.wikidata.org/wiki/Q40662)
+- **Vitellia Galeria** (Q144369) — b. 58 CE — [Wikidata Q1239236](https://www.wikidata.org/wiki/Q1239236) ⚭ Decimus Valerius Asiaticus, Libo Rupilius Frugi
+- **Ulpia Marciana** (Q148098) — b. 48 CE, d. 112 CE — [Wikidata Q237622](https://www.wikidata.org/wiki/Q237622) ⚭ Gaius Salonius Matidius Patruinus
+- **Quintus Fabius Barbarus Antonius Macer** (Q148342) — b. 50 CE — [Wikidata Q545857](https://www.wikidata.org/wiki/Q545857)
+- **Gaius Salonius Matidius Patruinus** (Q151380) — d. 78 CE — [Wikidata Q5517477](https://www.wikidata.org/wiki/Q5517477) ⚭ Ulpia Marciana
+- **Mary Magdalene** (Q153727) — [Wikidata Q63070](https://www.wikidata.org/wiki/Q63070) ⚭ Jesus Christ
+- **Saint Peter** (Q153792) — [Wikidata Q33923](https://www.wikidata.org/wiki/Q33923)
+- **Gaius Avidius Heliodorus** (Q154088) — b. 100 CE — [Wikidata Q5517418](https://www.wikidata.org/wiki/Q5517418) ⚭ Julia Cassia Alexandra
+- **Gaius Julius Longinus Sohaemus** (Q154096)
+- **Arria** (Q64714) ⚭ Suffect Consul (154) - Marcus Nonius Macrinus
+- **Suffect Consul (154) - Marcus Nonius Macrinus** (Q64747) ⚭ Arria
+- **Lucius Fulvius Rusticus  Aemilianus** (Q64936) ⚭ Gavia  Maximus
+- **Gavia  Maximus** (Q64969) ⚭ Lucius Fulvius Rusticus  Aemilianus
+- **Lucius Plautius  Octavianus** (Q65034) ⚭ Octavia  Blaesilla
+- **Octavia  Blaesilla** (Q65067) ⚭ Lucius Plautius  Octavianus
+- **Gnaeus Pedanius Fuscus  Salinator** (Q65324)
+- **Gaius Julius Servilius Ursus  Servianus** (Q65357) ⚭ Aelia Domitia  Paulina
+- **Aelia Domitia  Paulina** (Q65390) ⚭ Gaius Julius Servilius Ursus  Servianus
+- **Publius Calvisius Tullus Ruso** (Q65519) — b. 50 CE — [Wikidata Q10963713](https://www.wikidata.org/wiki/Q10963713) ⚭ Domitia Lucilla
+- **Domitia Lucilla** (Q65552) — b. 50 CE — [Wikidata Q12278988](https://www.wikidata.org/wiki/Q12278988) ⚭ Publius Calvisius Tullus Ruso
+- **Julius** (Q65585) — [Wikidata Q108567773](https://www.wikidata.org/wiki/Q108567773) ⚭ Julia  of Emesa
+- **Julia  of Emesa** (Q65618) ⚭ Julius
+- **Fulvius Pius  Fulvius** (Q66260) ⚭ NN (Wife of Fulvius Pius)
+- **NN (Wife of Fulvius Pius)** (Q66293) ⚭ Fulvius Pius  Fulvius
+- **Hateria** (Q66326) ⚭ Gaius Aquilius  Aquilius
+- **Gaius Aquilius  Aquilius** (Q66357) ⚭ Hateria
+- **Annius Verus** (Q66521) — [Wikidata Q131725630](https://www.wikidata.org/wiki/Q131725630)
+- **Titus Aurelius Fulvus** (Q66587) — b. 100 CE — [Wikidata Q329114](https://www.wikidata.org/wiki/Q329114) ⚭ Eunice Corrlia Rupilla Faustina
+- **Eunice Corrlia Rupilla Faustina** (Q66620) ⚭ Titus Aurelius Fulvus
+- **Gnaeus Arrius Antoninus** (Q66653) — b. 31 CE — [Wikidata Q1225299](https://www.wikidata.org/wiki/Q1225299) ⚭ Boionia Procilla, Plotia Isaurica
+- **Boionia Procilla** (Q66685) — [Wikidata Q12273590](https://www.wikidata.org/wiki/Q12273590) ⚭ Gnaeus Arrius Antoninus
+- **Domitia Paulina** (Q66718) — [Wikidata Q452705](https://www.wikidata.org/wiki/Q452705) ⚭ Publius Aelius Hadrianus Afer
+- **Publius Aelius Hadrianus Afer** (Q66751) — b. 1 CE, d. 86 CE — [Wikidata Q2280800](https://www.wikidata.org/wiki/Q2280800) ⚭ Domitia Paulina
+- **Andhra Pradesh** (Q66784) — b. 53 CE, d. 117 CE — [Wikidata Q1159](https://www.wikidata.org/wiki/Q1159) ⚭ Pompeia Plotina
+- **Pompeia Plotina** (Q66817) — b. 70 CE, d. 121 CE — [Wikidata Q239448](https://www.wikidata.org/wiki/Q239448) ⚭ Andhra Pradesh
+- **Servius Cornelius Salvidienus Orfitus** (Q67507) ⚭ Cornelia Cethegilla
+- **Cornelia Cethegilla** (Q67540) ⚭ Servius Cornelius Salvidienus Orfitus
+- **Marcus Licinius Crassus Frugi** (Q67573) — b. 27 CE, d. 67 CE — [Wikidata Q764528](https://www.wikidata.org/wiki/Q764528) ⚭ Sulpicia Praetextata
+- **Sulpicia Praetextata** (Q67603) — b. 30 CE — [Wikidata Q12295764](https://www.wikidata.org/wiki/Q12295764) ⚭ Marcus Licinius Crassus Frugi
+- **Gaius  Sallustius** (Q67863) ⚭ Ummidia Quadratilla  Quadratus
+- **Ummidia Quadratilla  Quadratus** (Q67897) ⚭ Gaius  Sallustius
+- **Gaius  Sertorius** (Q67929)
+- **Gaius Vitorius** (Q68713) ⚭ NN (Wife of Gaius Vitorius)
+- **NN (Wife of Gaius Vitorius)** (Q68746) ⚭ Gaius Vitorius
+- **NN (Wife of Gnaeus Hosidius Geta)** (Q68779) ⚭ Gnaeus Hosidius Geta
+- **Gnaeus Hosidius Geta** (Q68812) — b. 20 CE — [Wikidata Q1223428](https://www.wikidata.org/wiki/Q1223428) ⚭ NN (Wife of Gnaeus Hosidius Geta)
+- **Nonia Torquata  Saturninus** (Q69004) ⚭ Quintus Volusius  Saturninus
+- **Quintus Volusius  Saturninus** (Q69038) ⚭ Nonia Torquata  Saturninus
+- **Magia  Africanus** (Q69071) ⚭ Titus Sextius  Africanus
+- **Titus Sextius  Africanus** (Q69101) ⚭ Magia  Africanus
+- **Marcus Asinius  Pollio** (Q69134)
+- **Octavius Laenas** (Q70122) — b. 50 CE — [Wikidata Q1242010](https://www.wikidata.org/wiki/Q1242010) ⚭ Rubellia Bassa, Sergia Plautilla, Rubellia Bassa +1 more
+- **Rubellia Bassa** (Q70152) ⚭ Octavius Laenas, Caius Octavius  Laenas
+- **Sohaemus of Emesa** (Q70205) — b. 50 CE — [Wikidata Q1639311](https://www.wikidata.org/wiki/Q1639311) ⚭ Drusilla of Mauretania
+- **Drusilla of Mauretania** (Q70208) — b. 38 CE, d. 79 CE — [Wikidata Q5309410](https://www.wikidata.org/wiki/Q5309410) ⚭ Antonius Felix, Sohaemus of Emesa
+- **Titus Vibius Varius** (Q76777)
+- **Volusia** (Q76786) ⚭ Quintus  Caecilius
+- **Quintus  Caecilius** (Q76789) ⚭ Volusia
+- **Cocceia** (Q76792) ⚭ Titus Flavius Sabinus
+- **Titus Flavius Sabinus** (Q76795) ⚭ Cocceia
+- **Flavia Domitilla Minor** (Q76798) ⚭ Roman governor of Britain - Quintus Petillius Cerialis
+- **Roman governor of Britain - Quintus Petillius Cerialis** (Q76801) ⚭ Flavia Domitilla Minor
+- **Aelia Fundania Plautia** (Q76804) ⚭ Lucius Ceionius Commodus Verus
+- **Lucius Ceionius Commodus Verus** (Q76807) ⚭ Aelia Fundania Plautia
+- **Lucius Aurelius Quirinius  Gallus** (Q77005)
+- **Lucius Fundanius** (Q77116) ⚭ N.N.
+- **N.N.** (Q77119) ⚭ Lucius Fundanius
+- **Antonius  Zeno** (Q77122)
+- **Tiberios Klaudios Neikoteles Sounieus** (Q77125) ⚭ Philippea
+- **Philippea** (Q77128) ⚭ Tiberios Klaudios Neikoteles Sounieus
+- **Tiberios Klaudios Leonides VII  Meliteos** (Q77131)
+- **Antonius  Sospis** (Q77134)
+- **Stasikes** (Q77140) ⚭ ?
+- **Tiberius Claudius Balbillus** (Q77143) ⚭ N.N.
+- **Caius Octavius  Laenas** (Q77152) ⚭ Rubellia Bassa
+- **Sergius Ovtavius Laenes** (Q77155)
+- **Gaius Octavius Laenas** (Q77158)
+- **Consul (104) - Marcus Asinius Marcellus** (Q77161)
+- **Gaius Julius Bassus, I** (Q77164)
+- **Gaius Julius Lupus** (Q77167) ⚭ Vibia Varia
+- **Vibia Varia** (Q77170) ⚭ Gaius Julius Lupus
+- **Gaius Julius Quadratus Bassus** (Q77173) ⚭ Julia Iotapa
+- **Julia Iotapa** (Q77176) ⚭ Gaius Julius Quadratus Bassus
+- **Publius Coelius Apollinaris** (Q77179) ⚭ Vibullia
+- **Vibullia** (Q77182) ⚭ Publius Coelius Apollinaris
+- **Lucius Vipsanius Messala** (Q77185) ⚭ NN (Wife of Lucius Vipstanus Messalla)
+- **NN (Wife of Lucius Vipstanus Messalla)** (Q77188) ⚭ Lucius Vipsanius Messala
+- **Plautia Quinctilia  de Rome** (Q77191) ⚭ Publius Helvidius Priscus, de Rome
+- **Publius Helvidius Priscus, de Rome** (Q77194) ⚭ Plautia Quinctilia  de Rome
+- **Quadronia** (Q77197) ⚭ Lucius  Minicius
+- **Lucius  Minicius** (Q77200) ⚭ Quadronia
+- **Manius  Acilius** (Q77203) ⚭ Cornelia Manliola
+- **Cornelia Manliola** (Q77206) ⚭ Manius  Acilius
+- **Flavia** (Q77209) ⚭ Vibius Rufus
+- **Vibius Rufus** (Q77212) ⚭ Flavia
+- **Flavius** (Q77215)
+- **Accius** (Q77224)
+- **Tiberius Plautius Silvanus Aelianus** (Q77269) — d. 79 CE — [Wikidata Q655711](https://www.wikidata.org/wiki/Q655711)
+- **Claudius Pulcher** (Q77281)
+- **Epiphane  Antiochos** (Q77293) ⚭ Iotapa
+- **Iotapa** (Q77296) ⚭ Epiphane  Antiochos
+- **Vibius  Varus** (Q77299)
+- **Vibullia Alcia Agrippina** (Q77305) ⚭ Tiberius Claudius Atticus Herodes
+- **Tiberius Claudius Atticus Herodes** (Q77308) ⚭ Vibullia Alcia Agrippina
+- **Appius Annius Trebonius Gallus** (Q77311) — [Wikidata Q669830](https://www.wikidata.org/wiki/Q669830) ⚭ Atilia Caucidia Tertulla
+- **Atilia Caucidia Tertulla** (Q77314) — [Wikidata Q4815798](https://www.wikidata.org/wiki/Q4815798) ⚭ Appius Annius Trebonius Gallus
+- **Annaea** (Q77317) ⚭ Lucius Domitius
+- **Lucius Domitius** (Q77320) ⚭ Annaea
+- **Cantria Longina** (Q77323) ⚭ Marcus Pomponius Bassulus
+- **Marcus Pomponius Bassulus** (Q77326) ⚭ Cantria Longina
+- **Maecia** (Q77329) ⚭ Gaius Eggius  Ambibulus
+- **Gaius Eggius  Ambibulus** (Q77332) ⚭ Maecia
+- **Lucius Sergius Paullus** (Q77335)
+- **Gnaeus Pinarius  Pinarius** (Q77338)
+- **Cassia Longina** (Q77341) — b. 35 CE — [Wikidata Q12282692](https://www.wikidata.org/wiki/Q12282692) ⚭ Gnaeus Domitius Corbulo
+- **Gnaeus Domitius Corbulo** (Q77344) — b. 7 CE, d. 67 CE — [Wikidata Q313066](https://www.wikidata.org/wiki/Q313066) ⚭ Cassia Longina
+- **Marcus  Epidus** (Q77458) ⚭ Titia
+- **Titia** (Q77461) ⚭ Marcus  Epidus
+- **Lucius Neratius  Neratius** (Q77464)
+- **Gaius Betitius** (Q77524)
+- **Servilla  Claudia?** (Q99330)
+- **?** (Q99679) ⚭ Stasikes
+- **N.N.** (Q99681) ⚭ Tiberius Claudius Balbillus
+
+## Generation 27 (149 people) — circa 30 CE
+
+- **Hafþi** (Q137580) — [Wikidata Q5495416](https://www.wikidata.org/wiki/Q5495416)
+- **Joseph** (Q137751) — b. 30 CE, d. 20 CE — [Wikidata Q128267](https://www.wikidata.org/wiki/Q128267) ⚭ Mary, Mary of Clopas
+- **Mary** (Q138539) — b. 18 CE, d. 100 CE — [Wikidata Q345](https://www.wikidata.org/wiki/Q345) ⚭ Joseph
+- **Gaius Julius Sampsigeramus** (Q139765) — [Wikidata Q5517443](https://www.wikidata.org/wiki/Q5517443)
+- **Apronia** (Q141426) — d. 24 CE — [Wikidata Q622129](https://www.wikidata.org/wiki/Q622129) ⚭ Marcus Plautius Silvanus, Lucius Aelius Lamia
+- **Gaius Julius Alexander Berenicianus** (Q141695) — b. 75 CE, d. 150 CE — [Wikidata Q5517441](https://www.wikidata.org/wiki/Q5517441) ⚭ Cassia Lepida
+- **Elizabeth** (Q141703) — b. 100 CE, d. 100 CE — [Wikidata Q235849](https://www.wikidata.org/wiki/Q235849) ⚭ Zechariah
+- **Lucius Aelius Lamia** (Q144088) — b. 100 CE, d. 33 CE — [Wikidata Q666605](https://www.wikidata.org/wiki/Q666605) ⚭ Apronia
+- **Vitellius** (Q144185) — b. 15 CE, d. 69 CE — [Wikidata Q1417](https://www.wikidata.org/wiki/Q1417) ⚭ Petronia, Galeria Fundana
+- **Cassia Lepida** (Q144327) — [Wikidata Q99726753](https://www.wikidata.org/wiki/Q99726753) ⚭ Gaius Julius Alexander Berenicianus
+- **Zechariah** (Q144335) — b. 100 CE, d. 100 CE — [Wikidata Q139464](https://www.wikidata.org/wiki/Q139464) ⚭ Elizabeth
+- **Galeria Fundana** (Q148147) — b. 40 CE — [Wikidata Q260039](https://www.wikidata.org/wiki/Q260039) ⚭ Vitellius
+- **Lucius Pompeius** (Q151520) — [Wikidata Q112865224](https://www.wikidata.org/wiki/Q112865224)
+- **Gaius Salonius Matidius Patruinus** (Q151522) — [Wikidata Q120984942](https://www.wikidata.org/wiki/Q120984942)
+- **Tiberius Julius Abdes Pantera** (Q153725) — [Wikidata Q1256851](https://www.wikidata.org/wiki/Q1256851)
+- **Yahweh** (Q153726) — [Wikidata Q766677](https://www.wikidata.org/wiki/Q766677)
+- **John** (Q153793)
+- **Ptolemy of Mauretania** (Q51810) — [Wikidata Q526000](https://www.wikidata.org/wiki/Q526000) ⚭ Julia Urania
+- **Julia Urania** (Q51814) — [Wikidata Q6306817](https://www.wikidata.org/wiki/Q6306817) ⚭ Ptolemy of Mauretania
+- **Suffect Consul (128) - Lucius Caesennius Antoninus** (Q65714) ⚭ Arria Caesennia Paulina
+- **Arria Caesennia Paulina** (Q65747) ⚭ Suffect Consul (128) - Lucius Caesennius Antoninus
+- **Manilia** (Q65781) ⚭ Marcus Nonius Mucianus Publius Delpius Peregrinus
+- **Marcus Nonius Mucianus Publius Delpius Peregrinus** (Q65814) ⚭ Manilia
+- **Lucius Fulvius  Rusticus** (Q66068)
+- **Marcus Gavius Appalius  Maximus** (Q66098) ⚭ Numisia Procula  Junior
+- **Numisia Procula  Junior** (Q66131) ⚭ Marcus Gavius Appalius  Maximus
+- **Hateria** (Q66197) ⚭ Gaius Aquilius  Postumus
+- **Gaius Aquilius  Postumus** (Q66227) ⚭ Hateria
+- **Lucius Aurelius  Gallus** (Q66391)
+- **Gnaeus Pedanius Fuscus  Salinator** (Q66554)
+- **Publius Calvisius Ruso Julius Frontinus** (Q66850) — b. 50 CE — [Wikidata Q12291694](https://www.wikidata.org/wiki/Q12291694) ⚭ Eggia Ambibula, Dasumia Hadriana
+- **Dasumia Hadriana** (Q66883) — [Wikidata Q109790289](https://www.wikidata.org/wiki/Q109790289) ⚭ Publius Calvisius Ruso Julius Frontinus, Lucius Catilius Severus Julianus Claudius Reginus
+- **Curtilia Mancia** (Q66916) — [Wikidata Q107638183](https://www.wikidata.org/wiki/Q107638183) ⚭ Gnaeus Domitius Lucanus
+- **Gnaeus Domitius Lucanus** (Q66946) — b. 50 CE, d. 100 CE — [Wikidata Q684275](https://www.wikidata.org/wiki/Q684275) ⚭ Dasumia Polla, Curtilia Mancia, Domitia Longina
+- **Marcus Fulvius Saturnius** (Q67765) ⚭ NN (Wife of Fulvius Pius)
+- **NN (Wife of Fulvius Pius)** (Q67798) ⚭ Marcus Fulvius Saturnius
+- **Marcus Annius Verus** (Q67962)
+- **Titus Aurelius Fulvus, I** (Q68025)
+- **Mariamne Caecina Arria  Sabinus** (Q68058) ⚭ Gaius Calpernius  Piso
+- **Gaius Calpernius  Piso** (Q68091) ⚭ Mariamne Caecina Arria  Sabinus
+- **Plotius** (Q68124)
+- **Ulpia  Domitia** (Q68157) ⚭ Aelius Hadrianus Marullinus
+- **Aelius Hadrianus Marullinus** (Q68190) — b. 31 CE, d. 91 CE — [Wikidata Q4687704](https://www.wikidata.org/wiki/Q4687704) ⚭ Ulpia  Domitia, Ulpia
+- **Marcus Ulpius Traianus** (Q68223) — b. 30 CE, d. 100 CE — [Wikidata Q714856](https://www.wikidata.org/wiki/Q714856) ⚭ Marcia
+- **Marcia** (Q68256) — b. 33 CE — [Wikidata Q3132611](https://www.wikidata.org/wiki/Q3132611) ⚭ Marcus Ulpius Traianus
+- **Nerva** (Q68283) — b. 30 CE, d. 98 CE — [Wikidata Q1424](https://www.wikidata.org/wiki/Q1424)
+- **Lucius  Pompeius** (Q68317) ⚭ Plotia
+- **Plotia** (Q68335) ⚭ Lucius  Pompeius
+- **Servius Cornelius** (Q69164)
+- **Servius Cornelius Lentulus Cetheghus** (Q69197) — b. 10 CE ⚭ Munatia Plancina
+- **Munatia Plancina** (Q69230) ⚭ Servius Cornelius Lentulus Cetheghus
+- **Scribonia Magna** (Q69263) — b. 5 CE, d. 47 CE — [Wikidata Q774986](https://www.wikidata.org/wiki/Q774986) ⚭ Marcus Licinius Crassus Frugi
+- **Marcus Licinius Crassus Frugi** (Q69296) — b. 50 CE — [Wikidata Q1233627](https://www.wikidata.org/wiki/Q1233627) ⚭ Scribonia Magna
+- **Quintus Sulpicius Camerinus Peticus** (Q69329) — d. 67 CE — [Wikidata Q12282847](https://www.wikidata.org/wiki/Q12282847)
+- **Gaius Sallustius Crispus Passienus Equitius** (Q69518) ⚭ Junia Calvina  Equitus
+- **Junia Calvina  Equitus** (Q69547) ⚭ Gaius Sallustius Crispus Passienus Equitius
+- **Gaius Ummidius Durmius Quadratus** (Q69580)
+- **Gaius Sertorius  Brocchus** (Q69613)
+- **Octavia Sergia Plotilla** (Q69972) — [Wikidata Q12293630](https://www.wikidata.org/wiki/Q12293630) ⚭ Marcus Cocceius Nerva
+- **Marcus Cocceius Nerva** (Q70005) — [Wikidata Q12286097](https://www.wikidata.org/wiki/Q12286097) ⚭ Octavia Sergia Plotilla
+- **Ulpia** (Q70095) — d. 86 CE — [Wikidata Q7879756](https://www.wikidata.org/wiki/Q7879756) ⚭ Aelius Hadrianus Marullinus
+- **Hosidius** (Q70211)
+- **Nonius Asprenas Calpurnius Torquatus** (Q70307)
+- **Cornelia  Saturninus** (Q70310) ⚭ Lucius Volusius  Saturninus
+- **Lucius Volusius  Saturninus** (Q70313) ⚭ Cornelia  Saturninus
+- **Titus Sextius  Africanus** (Q70316)
+- **Marcus Asinius  Pollio** (Q70319)
+- **Julia Paula** (Q70652) ⚭ Octavius Laenas, Q70685
+- **Q70685** (Q70685) ⚭ Sergia Plautilla, Julia Paula
+- **Gaius Rubellius Blandus** (Q70718) ⚭ Sergia Plautilla, Julia Livia
+- **Sergia Plautilla** (Q70751) ⚭ Gaius Rubellius Blandus
+- **Sampsiceramus II** (Q70784) — d. 42 CE — [Wikidata Q3946551](https://www.wikidata.org/wiki/Q3946551) ⚭ Iotapa of Emesa
+- **Iotapa of Emesa** (Q70817) — b. 50 CE — [Wikidata Q406789](https://www.wikidata.org/wiki/Q406789) ⚭ Sampsiceramus II
+- **Arrecina Clementina** (Q70910) — [Wikidata Q12272308](https://www.wikidata.org/wiki/Q12272308) ⚭ Titus Flavius Sabinus
+- **Titus Flavius Sabinus** (Q70913) — b. 8 CE, d. 69 CE — [Wikidata Q537235](https://www.wikidata.org/wiki/Q537235) ⚭ Plautia, Arrecina Clementina
+- **Lucius Vibius Varus** (Q77017)
+- **Vespasian** (Q77032) — b. 9 CE, d. 79 CE — [Wikidata Q1419](https://www.wikidata.org/wiki/Q1419) ⚭ Domitilla the Elder, Flavia Domitilia the Elder
+- **Flavia Domitilia the Elder** (Q77035) ⚭ Vespasian
+- **Fabia Barbara** (Q77041) ⚭ Lucius Aelius Plautius Lamia Aelianus
+- **Appia Severa** (Q77044) ⚭ Lucius Ceionius Commodus
+- **Lucius Ceionius Commodus** (Q77047) ⚭ Appia Severa
+- **Gaius Vibius Varus** (Q77227) ⚭ N.N., Wife of Gaius Vibius Varus
+- **N.N., Wife of Gaius Vibius Varus** (Q77230) ⚭ Gaius Vibius Varus
+- **Fundanius** (Q77347) ⚭ NN (Wife of Fundanius)
+- **NN (Wife of Fundanius)** (Q77350) ⚭ Fundanius
+- **Antonius  Zeno** (Q77356)
+- **Lykurgos Palleneus  Meliteus** (Q77359) ⚭ ?
+- **Tiberios Klaudios Lysiades IV  Meliteos** (Q77365) ⚭ Cephisdora  Meliteos
+- **Cephisdora  Meliteos** (Q77368) ⚭ Tiberios Klaudios Lysiades IV  Meliteos
+- **Antonia  Sedata** (Q77371)
+- **Charixo** (Q77374) ⚭ Kleitosthenes  de Thera
+- **Kleitosthenes  de Thera** (Q77377) ⚭ Charixo
+- **Thrasyllus of Mendes** (Q77380) — [Wikidata Q725225](https://www.wikidata.org/wiki/Q725225) ⚭ N.N.
+- **Julia Livia** (Q77386) ⚭ Gaius Rubellius Blandus
+- **Julia Paula  Paullus** (Q77389) ⚭ Caius Octavius Octavius  Laenas
+- **Caius Octavius Octavius  Laenas** (Q77392) ⚭ Julia Paula  Paullus
+- **Paullus** (Q77395) ⚭ Sergius Octavius Pontianus Laenes Octavius  Pontainus
+- **Consul (54) - Marcus Asinius Marcellus** (Q77398) ⚭ NN (Wife of Marcus Asinius Marcellus)
+- **Gaius Julius Severus** (Q77401)
+- **Gaius Julius Bassus, II** (Q77404) ⚭ Asinia  Marcella
+- **Asinia  Marcella** (Q77407) ⚭ Gaius Julius Bassus, II
+- **Julia Iotapa  of Commagene** (Q77410) ⚭ Gaius Julius Alexander
+- **Gaius Julius Alexander** (Q77413) — b. 50 CE — [Wikidata Q3624250](https://www.wikidata.org/wiki/Q3624250) ⚭ Julia Iotapa, Julia Iotapa  of Commagene
+- **Publius Coelius** (Q77416)
+- **Lucius Vibullius Pius** (Q77419)
+- **Lucius Vipsanus Messala** (Q77422) ⚭ NN (Wife of Lucius Vipstanus Messalla)
+- **NN (Wife of Lucius Vipstanus Messalla)** (Q77425) ⚭ Lucius Vipsanus Messala
+- **Aulus  Plautius** (Q77428)
+- **Gaius  Helvidius** (Q77431) ⚭ Anteia
+- **Anteia** (Q77434) ⚭ Gaius  Helvidius
+- **Aulus  Quadronius** (Q77437)
+- **Manius  Acilius** (Q77440) ⚭ Arria Plaria Vera Priscilla
+- **Arria Plaria Vera Priscilla** (Q77443) ⚭ Manius  Acilius
+- **Julia Polla** (Q77446) ⚭ Titus Flavius Apellas
+- **Titus Flavius Apellas** (Q77449) ⚭ Julia Polla
+- **Flavia Ammion Aristion** (Q77452) ⚭ Titus Flavius Varus Calvesianus Hermocrates
+- **Titus Flavius Varus Calvesianus Hermocrates** (Q77455) ⚭ Flavia Ammion Aristion
+- **Aelia  Lamia** (Q77494) ⚭ Marcus Plautius  Silvanus
+- **Marcus Plautius  Silvanus** (Q77497) ⚭ Aelia  Lamia
+- **Claudius  Pulcher** (Q77503)
+- **Iotapa  de Medie-Atropatene** (Q77515) ⚭ Mithridate III Antiochus  Epiphane
+- **Mithridate III Antiochus  Epiphane** (Q77518) ⚭ Iotapa  de Medie-Atropatene
+- **Vibius  Varus** (Q77521)
+- **Publius Vibullius Ruffus** (Q77530) ⚭ Claudia Athenais Alcia
+- **Claudia Athenais Alcia** (Q77533) ⚭ Publius Vibullius Ruffus
+- **Tisamenis** (Q77536) ⚭ Tiberios Klaudios Hipparchus
+- **Tiberios Klaudios Hipparchus** (Q77539) ⚭ Tisamenis
+- **Appius Annius Trebonius Gallus** (Q77542)
+- **Caucidia Tertulla** (Q77545) ⚭ Atilius Metilius Bradua
+- **Atilius Metilius Bradua** (Q77548) ⚭ Caucidia Tertulla
+- **Publius Cantrius** (Q77551)
+- **Marcus Pomponius** (Q77554)
+- **Gaius Eggius** (Q77557)
+- **Lucius Sergius Paullus** (Q77560)
+- **Cornelia** (Q77563) ⚭ Lucius  Pinarius
+- **Lucius  Pinarius** (Q77566) ⚭ Cornelia
+- **Junia Lepida** (Q77569) — b. 18 CE, d. 65 CE — [Wikidata Q2391729](https://www.wikidata.org/wiki/Q2391729) ⚭ Gaius Cassius Longinus
+- **Gaius Cassius Longinus** (Q77572) — b. 5 CE — [Wikidata Q164923](https://www.wikidata.org/wiki/Q164923) ⚭ Junia Lepida
+- **Gnaeus Domitius Corbulo** (Q77575) — b. 30 CE — [Wikidata Q12277041](https://www.wikidata.org/wiki/Q12277041) ⚭ Vistilia
+- **Vistilia** (Q77578) — b. 50 CE, d. 100 CE — [Wikidata Q3658103](https://www.wikidata.org/wiki/Q3658103) ⚭ Lucius Pomponius Flaccus, Gnaeus Domitius Corbulo
+- **Marcus  Epidus** (Q77701) ⚭ Petronia
+- **Petronia** (Q77704) ⚭ Marcus  Epidus
+- **Lucius Neratius  Neratius** (Q77707) ⚭ Anteia
+- **Anteia** (Q77710) ⚭ Lucius Neratius  Neratius
+- **Aemilia Lepida** (Q77788) — b. 3 BCE, d. 53 CE — [Wikidata Q259576](https://www.wikidata.org/wiki/Q259576) ⚭ Marcus Junius Silanus Torquatus, Claudius
+- **Claudius** (Q99334) — b. 10 CE, d. 54 CE — [Wikidata Q1411](https://www.wikidata.org/wiki/Q1411) ⚭ Agrippina the Younger, Messalina, Plautia Urgulanilla +2 more
+- **?** (Q99685) ⚭ Lykurgos Palleneus  Meliteus
+- **N.N.** (Q99687) ⚭ Thrasyllus of Mendes
+- **NN (Wife of Marcus Asinius Marcellus)** (Q99689) ⚭ Consul (54) - Marcus Asinius Marcellus
+
+## Generation 28 (157 people) — circa 102 CE
+
+- **Julia Major** (Q137708) — b. 102 CE, d. 100 CE — [Wikidata Q2743448](https://www.wikidata.org/wiki/Q2743448) ⚭ Pedius, Pinarius
+- **Joachim** (Q137750) — b. 100 CE, d. 10 CE — [Wikidata Q314700](https://www.wikidata.org/wiki/Q314700) ⚭ Saint Anne
+- **Þjálfi** (Q138297) — [Wikidata Q16546975](https://www.wikidata.org/wiki/Q16546975)
+- **Saint Anne** (Q138538) — b. 55 CE, d. 12 CE — [Wikidata Q164294](https://www.wikidata.org/wiki/Q164294) ⚭ Joachim
+- **Julia the Younger** (Q139603) — b. 19 BCE, d. 28 CE — [Wikidata Q236459](https://www.wikidata.org/wiki/Q236459) ⚭ Lucius Aemilius Paullus, Decimus Junius Silanus
+- **Lucius Aemilius Paullus** (Q139631) — b. 100 CE, d. 14 CE — [Wikidata Q703580](https://www.wikidata.org/wiki/Q703580) ⚭ Julia the Younger
+- **Julia Iotapa** (Q139767) — b. 45 CE — [Wikidata Q13427712](https://www.wikidata.org/wiki/Q13427712) ⚭ Gaius Julius Alexander
+- **Emerentia** (Q139785) — [Wikidata Q831622](https://www.wikidata.org/wiki/Q831622) ⚭ Stolanus
+- **Aelia** (Q141569) — [Wikidata Q108065626](https://www.wikidata.org/wiki/Q108065626) ⚭ Lucius Cassius Longinus
+- **Lucius Apronius** (Q144085) — b. 100 CE, d. 100 CE — [Wikidata Q1245038](https://www.wikidata.org/wiki/Q1245038)
+- **Lepidus the Younger** (Q144147) — b. 52 CE, d. 30 CE — [Wikidata Q975597](https://www.wikidata.org/wiki/Q975597) ⚭ Servilia
+- **Cassius Lepidus** (Q144179) — b. 55 CE — [Wikidata Q99726628](https://www.wikidata.org/wiki/Q99726628)
+- **Lucius Vitellius the Elder** (Q144183) — b. 10 CE, d. 51 CE — [Wikidata Q351491](https://www.wikidata.org/wiki/Q351491) ⚭ Sextilia
+- **Sextilia** (Q144184) — d. 69 CE — [Wikidata Q268892](https://www.wikidata.org/wiki/Q268892) ⚭ Lucius Vitellius the Elder
+- **Sergia Plautilla** (Q144242) — [Wikidata Q110320988](https://www.wikidata.org/wiki/Q110320988) ⚭ Octavius Laenas, Q70685
+- **Lucius Aelius Lamia** (Q148085) — b. 100 CE — [Wikidata Q1873521](https://www.wikidata.org/wiki/Q1873521)
+- **Publius Calvisius Ruso** (Q148306) — b. 50 CE — [Wikidata Q12291690](https://www.wikidata.org/wiki/Q12291690) ⚭ Julia Frontina
+- **Julia Frontina** (Q148307) — [Wikidata Q109791889](https://www.wikidata.org/wiki/Q109791889) ⚭ Publius Calvisius Ruso
+- **Salonia** (Q151632) — [Wikidata Q120984989](https://www.wikidata.org/wiki/Q120984989)
+- **Stolanus** (Q153796) ⚭ Emerentia
+- **Heli** (Q51796) — [Wikidata Q2474891](https://www.wikidata.org/wiki/Q2474891)
+- **Cleopatra Selene II** (Q51806) — [Wikidata Q40058](https://www.wikidata.org/wiki/Q40058) ⚭ Juba II
+- **Arria Antonia** (Q67184) ⚭ Lucius Junius Caesennius Paetus
+- **Lucius Junius Caesennius Paetus** (Q67217) ⚭ Arria Antonia
+- **Delpia** (Q67250) ⚭ Marcus Nonius  Mucianus
+- **Marcus Nonius  Mucianus** (Q67283) ⚭ Delpia
+- **Gavia  Bassus** (Q67636) ⚭ Titus Appalius Alfinus Secundus
+- **Titus Appalius Alfinus Secundus** (Q67669) — [Wikidata Q59422314](https://www.wikidata.org/wiki/Q59422314) ⚭ Gavia  Bassus
+- **Camuria  Camurius** (Q67699) ⚭ Quintus Numisius Afer  Junior
+- **Quintus Numisius Afer  Junior** (Q67732) ⚭ Camuria  Camurius
+- **N.N.** (Q67831) ⚭ Lucius Aurelius  Gallus
+- **Lucius Pedanius  Secundus** (Q67995)
+- **Lucius  Dasumius** (Q68356) ⚭ Aelia Hadriana
+- **Aelia Hadriana** (Q68389) — [Wikidata Q108316052](https://www.wikidata.org/wiki/Q108316052) ⚭ Lucius  Dasumius
+- **Titus Curtilius Mancia** (Q68455) — b. 50 CE — [Wikidata Q11916322](https://www.wikidata.org/wiki/Q11916322) ⚭ Octavia
+- **Octavia** (Q68488) ⚭ Titus Curtilius Mancia
+- **Titia Marcella** (Q68521) — [Wikidata Q107638264](https://www.wikidata.org/wiki/Q107638264) ⚭ Sextus Curvius Tullus
+- **Sextus Curvius Tullus** (Q68554) — [Wikidata Q107638081](https://www.wikidata.org/wiki/Q107638081) ⚭ Titia Marcella
+- **Marcus Fulvius Saturnius** (Q69455) ⚭ NN (Wife of Marcus Fulvius Saturnius)
+- **NN (Wife of Marcus Fulvius Saturnius)** (Q69488) ⚭ Marcus Fulvius Saturnius
+- **Marcus Annius Verus, Suffect Consul** (Q69646)
+- **Marcus Julius Antoninus  Caesia** (Q69679) ⚭ Plancina  Munatia
+- **Plancina  Munatia** (Q69706) ⚭ Marcus Julius Antoninus  Caesia
+- **Servilia** (Q69763) — [Wikidata Q12152218](https://www.wikidata.org/wiki/Q12152218) ⚭ Lepidus the Younger, Plotius, Plotius  Plotius
+- **Ulpia P  Domitia** (Q69787) ⚭ Marcus Ulpius
+- **Marcus Ulpius** (Q69820) — [Wikidata Q112897589](https://www.wikidata.org/wiki/Q112897589) ⚭ Ulpia P  Domitia, Traia
+- **Upia  Afer** (Q69853) ⚭ Publius Aelius Marullinus
+- **Publius Aelius Marullinus** (Q69886) — [Wikidata Q112865796](https://www.wikidata.org/wiki/Q112865796) ⚭ Upia  Afer
+- **Antonia Furnilla** (Q69907) — [Wikidata Q104869095](https://www.wikidata.org/wiki/Q104869095) ⚭ Quintus Marcius Barea Sura
+- **Quintus Marcius Barea Sura** (Q69940) — b. 50 CE, d. 100 CE — [Wikidata Q16203434](https://www.wikidata.org/wiki/Q16203434) ⚭ Antonia Furnilla
+- **Cornelius Lentulus Maluginensis** (Q70322) ⚭ Cornelia
+- **Cornelia** (Q70328) ⚭ Cornelius Lentulus Maluginensis
+- **Aemilia Paulla** (Q70331) — [Wikidata Q12279858](https://www.wikidata.org/wiki/Q12279858) ⚭ Quintus Aelius Tubero, Lucius Munatius Plancus Paulinus
+- **Lucius Munatius Plancus Paulinus** (Q70334) — [Wikidata Q343795](https://www.wikidata.org/wiki/Q343795) ⚭ Aemilia Paulla
+- **Cornelia Pompeia Magna** (Q70337) ⚭ Lucius Scribonius Libo
+- **Lucius Scribonius Libo** (Q70340) — b. 50 CE — [Wikidata Q153600](https://www.wikidata.org/wiki/Q153600) ⚭ Cornelia Pompeia Magna
+- **Marcus Licinius Crassus Dives** (Q70343) — b. 50 CE — [Wikidata Q3622613](https://www.wikidata.org/wiki/Q3622613) ⚭ Fausta  Cornelia
+- **Fausta  Cornelia** (Q70346) ⚭ Marcus Licinius Crassus Dives
+- **Quintus Sulpicius Camerinus** (Q70349) — b. 50 CE — [Wikidata Q1241566](https://www.wikidata.org/wiki/Q1241566)
+- **Lucius Sallustius Passienus Rufus** (Q70355) ⚭ Gratidia  Rufus
+- **Gratidia  Rufus** (Q70358) ⚭ Lucius Sallustius Passienus Rufus
+- **Marcus Junius Silanus** (Q70361) — [Wikidata Q106767404](https://www.wikidata.org/wiki/Q106767404) ⚭ Domitia Calvina
+- **Domitia Calvina** (Q70364) — b. 50 CE — [Wikidata Q12278987](https://www.wikidata.org/wiki/Q12278987) ⚭ Marcus Junius Silanus
+- **Marcus Cocceius Nerva** (Q70502) — b. 100 CE, d. 33 CE — [Wikidata Q176090](https://www.wikidata.org/wiki/Q176090) ⚭ Wife of Marcus Cocceius Nerva
+- **Wife of Marcus Cocceius Nerva** (Q70523) ⚭ Marcus Cocceius Nerva
+- **Traia** (Q70586) ⚭ Marcus Ulpius
+- **Hosidius** (Q70850)
+- **Calpurnia** (Q70919) ⚭ Lucius Nonius Asprenas
+- **Lucius Nonius Asprenas** (Q70922) — b. 28 CE, d. 50 CE — [Wikidata Q654348](https://www.wikidata.org/wiki/Q654348) ⚭ Calpurnia, Calpurnia
+- **Lucius Cornelius  Lentulus** (Q70925)
+- **Suffect Consul (12 BC) - Lucius Volusius Saturninus** (Q70928) ⚭ Nonia  Polla
+- **Nonia  Polla** (Q70931) ⚭ Suffect Consul (12 BC) - Lucius Volusius Saturninus
+- **Sextius  Africanus** (Q70934)
+- **Gaius Asinius  Pollio** (Q70937)
+- **Lucius Rubellius Blandus** (Q71628) ⚭ NN (Wife of Rubellius Blandus)
+- **NN (Wife of Rubellius Blandus)** (Q71655) ⚭ Lucius Rubellius Blandus
+- **Lucius Sergius Plautus** (Q71685)
+- **Iamblichus II** (Q71718) — d. 14 CE — [Wikidata Q11927036](https://www.wikidata.org/wiki/Q11927036) ⚭ N.N.
+- **N.N.** (Q71748) ⚭ Iamblichus II
+- **Iotapa** (Q71766) — b. 43 CE — [Wikidata Q13426498](https://www.wikidata.org/wiki/Q13426498) ⚭ Alexander Helius, Mithridates III of Commagene
+- **Mithridates III of Commagene** (Q71798) — b. 100 CE, d. 12 CE — [Wikidata Q200922](https://www.wikidata.org/wiki/Q200922) ⚭ Iotapa
+- **Juba II** (Q71861) — [Wikidata Q315670](https://www.wikidata.org/wiki/Q315670) ⚭ Cleopatra Selene II, Glaphyra
+- **Marcus Arrecinus Clemens** (Q71882) — [Wikidata Q1529097](https://www.wikidata.org/wiki/Q1529097) ⚭ Tertulla, Julia
+- **Tertulla** (Q71915) ⚭ Marcus Arrecinus Clemens
+- **Vespasia Polla** (Q72011) — b. 100 CE, d. 100 CE — [Wikidata Q448568](https://www.wikidata.org/wiki/Q448568) ⚭ Titus Flavius Sabinus
+- **Titus Flavius Sabinus** (Q72041) — b. 100 CE, d. 100 CE — [Wikidata Q1033173](https://www.wikidata.org/wiki/Q1033173) ⚭ Vespasia Polla
+- **Aemiliana** (Q77233) ⚭ Lucius Fulvius Rusticus Vettius Secundus
+- **Lucius Fulvius Rusticus Vettius Secundus** (Q77236) ⚭ Aemiliana
+- **Julia** (Q77257) — [Wikidata Q107607946](https://www.wikidata.org/wiki/Q107607946) ⚭ Marcus Arrecinus Clemens
+- **Flavius Liberalis** (Q77263) ⚭ NN (Wife of Flavius Liberalis)
+- **NN (Wife of Flavius Liberalis)** (Q77266) ⚭ Flavius Liberalis
+- **Quintus Fabius Antonius Macer Barbarus Antonius  Fabius** (Q77272)
+- **Sextus Appius Severus** (Q77275)
+- **Ceionius  Commodus** (Q77278)
+- **Lucius Aurelius  Gallus** (Q77467) ⚭ N.N.
+- **Vibius Varus** (Q77470)
+- **Meliteus** (Q77584) ⚭ ?
+- **?** (Q77587) ⚭ Meliteus
+- **Leonides V Meliteus, Archon of Athens** (Q77590) ⚭ N.N., Wife of Leonides V
+- **N.N., Wife of Leonides V** (Q77593) ⚭ Leonides V Meliteus, Archon of Athens
+- **Diokles III Hagnousios** (Q77596)
+- **Chaeropoleia** (Q77599) ⚭ Mnasikritos de  Thera
+- **Mnasikritos de  Thera** (Q77602) ⚭ Chaeropoleia
+- **Drusus Julius Caesar** (Q77611) — b. 13 CE, d. 23 CE — [Wikidata Q313737](https://www.wikidata.org/wiki/Q313737) ⚭ Livilla
+- **Livilla** (Q77614) — b. 13 CE, d. 31 CE — [Wikidata Q234665](https://www.wikidata.org/wiki/Q234665) ⚭ Gaius Caesar, 24 Themis, Drusus Julius Caesar
+- **Lucius Aemilius  Paullus** (Q77616) ⚭ Julia 1V
+- **Julia 1V** (Q77619) ⚭ Lucius Aemilius  Paullus
+- **Consul (25) - Marcus Asinius Agrippa** (Q77622) ⚭ NN (Wife of Marcus Asinius Agrippa)
+- **Artemidorus** (Q77625) ⚭ Laodice of the Tectosages
+- **Laodice of the Tectosages** (Q77628) ⚭ Artemidorus
+- **Antonius Julius Quadratus** (Q77631) ⚭ Julia Tyche
+- **Julia Tyche** (Q77635) ⚭ Antonius Julius Quadratus
+- **Gaius Asinius Pollio  Marcella** (Q77638)
+- **Antiochus IV of Commagene** (Q77641) — b. 50 CE, d. 100 CE — [Wikidata Q580014](https://www.wikidata.org/wiki/Q580014) ⚭ Julia Iotapa
+- **Julia Iotapa** (Q77644) — b. 10 CE, d. 70 CE — [Wikidata Q521819](https://www.wikidata.org/wiki/Q521819) ⚭ Antiochus IV of Commagene
+- **Tigranes VI of Armenia** (Q77647) — b. 50 CE — [Wikidata Q542065](https://www.wikidata.org/wiki/Q542065) ⚭ Opgalli
+- **Opgalli** (Q77650) ⚭ Tigranes VI of Armenia
+- **Lucius Vibullius Saturninus** (Q77653)
+- **Gaius Vipstanus Messalla Gallus** (Q77656) ⚭ NN (Wife of Gaius Vipstanus Messalla Gallus)
+- **NN (Wife of Gaius Vipstanus Messalla Gallus)** (Q77659) ⚭ Gaius Vipstanus Messalla Gallus
+- **Plautius** (Q77662) ⚭ Quinctilia
+- **Quinctilia** (Q77665) ⚭ Plautius
+- **Fannia** (Q77668) ⚭ Helvidius  Priscus
+- **Helvidius  Priscus** (Q77671) ⚭ Fannia
+- **Publius  Anteius** (Q77674)
+- **Aedia Servilia** (Q77677) ⚭ Manius  Acilius
+- **Manius  Acilius** (Q77680) ⚭ Aedia Servilia
+- **Atilia Sabina** (Q77683) ⚭ Lucius  Arrius
+- **Lucius  Arrius** (Q77685) ⚭ Atilia Sabina
+- **Julia Polla** (Q77688) ⚭ Julius Apellas
+- **Julius Apellas** (Q77691) ⚭ Julia Polla
+- **Moschos** (Q77695)
+- **Stratonikos** (Q77698)
+- **Lucius Aelius  Lamia** (Q77725)
+- **Lartia** (Q77728) ⚭ Marcus Plautius  Silvanus
+- **Marcus Plautius  Silvanus** (Q77731) ⚭ Lartia
+- **Appius Claudius  Pulcher** (Q77734)
+- **Antiochus Epiphane Philorhomaios Mithridate II  Philhellenos Monocritis** (Q77746) ⚭ Laodice. Seleucide
+- **Laodice. Seleucide** (Q77749) ⚭ Antiochus Epiphane Philorhomaios Mithridate II  Philhellenos Monocritis
+- **Tiberios Klaudios Herodes** (Q77755)
+- **Trebonia Gallus** (Q77758) ⚭ Annius Gallus
+- **Annius Gallus** (Q77761) ⚭ Trebonia Gallus
+- **Caucidius Tertullus Atius Bassus** (Q77764)
+- **Atilius Postumus Bradua** (Q77767) ⚭ Metilia
+- **Metilia** (Q77770) ⚭ Atilius Postumus Bradua
+- **Marcus Pomponius** (Q77773)
+- **Lucius Eggius** (Q77776)
+- **Sergius** (Q77779)
+- **Pinarius** (Q77782) — [Wikidata Q93953755](https://www.wikidata.org/wiki/Q93953755) ⚭ Julia Major
+- **Marcus Junius Silanus Torquatus** (Q77785) — b. 50 CE, d. 36 CE — [Wikidata Q1227252](https://www.wikidata.org/wiki/Q1227252) ⚭ Aemilia Lepida
+- **Lucius Cassius Longinus** (Q77791) — b. 100 CE, d. 100 CE — [Wikidata Q1873561](https://www.wikidata.org/wiki/Q1873561) ⚭ Aelia
+- **Antonia Minor** (Q77830) — [Wikidata Q229836](https://www.wikidata.org/wiki/Q229836) ⚭ Nero Claudius Drusus
+- **Nero Claudius Drusus** (Q77833) — b. 38 CE, d. 9 CE — [Wikidata Q156778](https://www.wikidata.org/wiki/Q156778) ⚭ Antonia Minor
+- **Sextus  Petronius** (Q77905)
+- **Naevia** (Q77908) ⚭ Neratius  Neratius
+- **Neratius  Neratius** (Q77911) ⚭ Naevia
+- **NN (Wife of Marcus Asinius Agrippa)** (Q99695) ⚭ Consul (25) - Marcus Asinius Agrippa
+
+## Generation 29 (146 people) — circa 100 CE
+
+- **Estha** (Q137189) — [Wikidata Q114865583](https://www.wikidata.org/wiki/Q114865583) ⚭ Mattan
+- **Paullus Aemilius Lepidus** (Q138434) — b. 100 CE, d. 13 CE — [Wikidata Q375849](https://www.wikidata.org/wiki/Q375849) ⚭ Claudia Marcella Minor, Cornelia, Sempronia Atratina
+- **Cornelia** (Q139597) — b. 48 CE, d. 18 CE — [Wikidata Q2530944](https://www.wikidata.org/wiki/Q2530944) ⚭ Paullus Aemilius Lepidus
+- **Cornelia Magna** (Q139746) — b. 1 CE — [Wikidata Q3656046](https://www.wikidata.org/wiki/Q3656046) ⚭ Lucius Scribonius Libo Drusus
+- **Lepidus** (Q141492) — b. 90 CE, d. 13 CE — [Wikidata Q105452](https://www.wikidata.org/wiki/Q105452) ⚭ Junia Secunda
+- **Quintus Aelius Tubero** (Q141581) — b. 74 CE — [Wikidata Q950770](https://www.wikidata.org/wiki/Q950770) ⚭ Junia Blaesa, Aemilia Paulla
+- **Junia Prima** (Q144075) — [Wikidata Q12299554](https://www.wikidata.org/wiki/Q12299554) ⚭ Publius Servilius Vatia Isauricus
+- **Manlia Torquata** (Q144099) — [Wikidata Q114804519](https://www.wikidata.org/wiki/Q114804519) ⚭ Marcus Junius Silanus
+- **Lucius Sergius Regis Plautus** (Q144241) — [Wikidata Q110321004](https://www.wikidata.org/wiki/Q110321004)
+- **Publius Vitellius the Elder** (Q148142) — b. 50 CE — [Wikidata Q535008](https://www.wikidata.org/wiki/Q535008)
+- **Lucius Aelius Lamia** (Q151361) — b. 50 CE, d. 20 CE — [Wikidata Q1095889](https://www.wikidata.org/wiki/Q1095889)
+- **Sextus Curvius Silvinus** (Q151448) — [Wikidata Q121225277](https://www.wikidata.org/wiki/Q121225277)
+- **Marcus Titius Marcellus** (Q151449) — [Wikidata Q121303094](https://www.wikidata.org/wiki/Q121303094)
+- **Sulpicia** (Q153597) — [Wikidata Q111288472](https://www.wikidata.org/wiki/Q111288472) ⚭ Lucius Cassius Longinus
+- **Melchi ben Levi  HaDavid** (Q51788)
+- **Panther  HaDavid** (Q51792)
+- **Plotia Isaurica** (Q68845) ⚭ Gnaeus Arrius Antoninus
+- **Suffect Consul (79) - Lucius Junius Caesennius Paetus** (Q68878) ⚭ NN (Wife of Lucius Junius Caesennius Paetus) Caesennia  Atonia
+- **NN (Wife of Lucius Junius Caesennius Paetus) Caesennia  Atonia** (Q68911) ⚭ Suffect Consul (79) - Lucius Junius Caesennius Paetus, Publius Caesennius  Paetus
+- **Publius Delphinus Peregrinus** (Q68941) ⚭ Alfia
+- **Alfia** (Q68974) ⚭ Publius Delphinus Peregrinus
+- **Marcus Gavius  Bassus** (Q69359)
+- **Titus  Appalius** (Q69392)
+- **Gaius  Camurius** (Q69422)
+- **Calpurnia** (Q70368) — b. 76 CE — [Wikidata Q235627](https://www.wikidata.org/wiki/Q235627) ⚭ Julius Caesar
+- **Publius Servilius Vatia Isauricus** (Q70374) — b. 94 CE, d. 100 CE — [Wikidata Q521460](https://www.wikidata.org/wiki/Q521460) ⚭ Junia Prima
+- **Julia Calva Milonia Caecena  Torquata** (Q70376) ⚭ Lucius Vitellius  Galba
+- **Lucius Vitellius  Galba** (Q70379) ⚭ Julia Calva Milonia Caecena  Torquata
+- **Julia Calva Milonia  Caecena Terentia** (Q70382) ⚭ Lucius Salvius Galbius Galba
+- **Lucius Salvius Galbius Galba** (Q70385) ⚭ Julia Calva Milonia  Caecena Terentia
+- **Publius Aelius Marullinus** (Q70388) — [Wikidata Q112865805](https://www.wikidata.org/wiki/Q112865805) ⚭ NN (Wife of Publius Aelius Hadrianus Marullinus)
+- **NN (Wife of Publius Aelius Hadrianus Marullinus)** (Q70391) ⚭ Publius Aelius Marullinus
+- **Aulus Antonius Rufus** (Q70394) — [Wikidata Q12286053](https://www.wikidata.org/wiki/Q12286053) ⚭ NN (Wife of Aulus Antonius Rufus)
+- **Cleopatra** (Q70410) — b. 69 CE, d. 30 CE — [Wikidata Q635](https://www.wikidata.org/wiki/Q635) ⚭ Ptolemy XIII Theos Philopator, Ptolemy XIV of Egypt, Julius Caesar +2 more
+- **NN (Wife of Aulus Antonius Rufus)** (Q70415) ⚭ Aulus Antonius Rufus
+- **Quintus Marcius Barea Soranus** (Q70448) — [Wikidata Q666629](https://www.wikidata.org/wiki/Q666629) ⚭ Caepionia  Crispina
+- **Caepionia  Crispina** (Q70469) ⚭ Quintus Marcius Barea Soranus
+- **Cornelius Lentulus** (Q70940)
+- **Servius Cornelius  Salvidienes** (Q70946)
+- **Cornelia Scipio** (Q70949) ⚭ Lucius milius Lepidus Paullus
+- **Lucius milius Lepidus Paullus** (Q70952) ⚭ Cornelia Scipio
+- **Lucius Munatius Plancus** (Q70955)
+- **Lucius Cornelius Cinna** (Q70967) ⚭ Pompeia Magna
+- **Pompeia Magna** (Q70970) — b. 70 CE, d. 35 CE — [Wikidata Q442503](https://www.wikidata.org/wiki/Q442503) ⚭ Lucius Cornelius Cinna, Lucius Cornelius Cinna, Faustus Cornelius Sulla
+- **Lucius Scribonius Libo Drusus** (Q70988) — b. 90 CE — [Wikidata Q431201](https://www.wikidata.org/wiki/Q431201) ⚭ Cornelia Magna, Sulpicia
+- **Sulpicia** (Q71002) ⚭ Lucius Scribonius Libo Drusus
+- **Marcus Pupius Piso Frugi** (Q71026) — [Wikidata Q11768202](https://www.wikidata.org/wiki/Q11768202) ⚭ NN (Wife of Marcus Pupius Piso Frugi)
+- **NN (Wife of Marcus Pupius Piso Frugi)** (Q71053) ⚭ Marcus Pupius Piso Frugi
+- **Faustus Cornelius Sulla** (Q71083) ⚭ Junia Albina
+- **Junia Albina** (Q71098) ⚭ Faustus Cornelius Sulla
+- **Quintus Sulpicius Rufus** (Q71119)
+- **Marcus Junius Silanus** (Q71137) — b. 69 CE, d. 11 CE — [Wikidata Q940041](https://www.wikidata.org/wiki/Q940041) ⚭ Manlia Torquata, Quinctia Crispina  Silanus
+- **Quinctia Crispina  Silanus** (Q71146) ⚭ Marcus Junius Silanus
+- **Marcus Cocceius Nerva** (Q71445) — b. 80 CE, d. 60 CE — [Wikidata Q1275480](https://www.wikidata.org/wiki/Q1275480) ⚭ NN (Wife of Marcus Cocceius Nerva)
+- **NN (Wife of Marcus Cocceius Nerva)** (Q71475) ⚭ Marcus Cocceius Nerva
+- **Marcus Traius** (Q71541)
+- **Juba I** (Q71760) — [Wikidata Q379277](https://www.wikidata.org/wiki/Q379277)
+- **Gnaeus  Hosidius** (Q71831)
+- **Lucius Calpurnius Piso Caesonius "the Pontifex"** (Q72074) ⚭ Mariamne  Arria
+- **Mariamne  Arria** (Q72107) ⚭ Lucius Calpurnius Piso Caesonius "the Pontifex"
+- **Lucius Nonius Asprenas** (Q72140) — b. 60 CE — [Wikidata Q6697582](https://www.wikidata.org/wiki/Q6697582) ⚭ Quinctilla Varulla
+- **Quinctilla Varulla** (Q72173) — [Wikidata Q12958329](https://www.wikidata.org/wiki/Q12958329) ⚭ Lucius Nonius Asprenas
+- **Gnaeus Cornelius  Lentulus** (Q72206)
+- **Claudia** (Q72221) — [Wikidata Q98277986](https://www.wikidata.org/wiki/Q98277986) ⚭ Quintus Volusius, Quintus  Volusius-Saturninus
+- **Quintus  Volusius-Saturninus** (Q72224) ⚭ Claudia
+- **Lucius Nonius Asprenas** (Q72227) — b. 50 CE — [Wikidata Q9024736](https://www.wikidata.org/wiki/Q9024736) ⚭ NN (Wife of Lucius Nonius Asprenas)
+- **NN (Wife of Lucius Nonius Asprenas)** (Q72230) ⚭ Lucius Nonius Asprenas
+- **Titus  Sextius** (Q72233)
+- **Gaius Asinius Gallus** (Q72236) — b. 40 CE, d. 33 CE — [Wikidata Q450708](https://www.wikidata.org/wiki/Q450708) ⚭ Vipsania Agrippina
+- **Vipsania Agrippina** (Q72239) — d. 20 CE — [Wikidata Q232090](https://www.wikidata.org/wiki/Q232090) ⚭ Gaius Asinius Gallus, Tiberius
+- **Junia Secunda** (Q72308) — b. 100 CE — [Wikidata Q458528](https://www.wikidata.org/wiki/Q458528) ⚭ Lepidus, Triumvir (43-36 BC) - Marcus Aemilius Lepidus (up)
+- **Julia the Elder** (Q72332) — b. 39 BCE, d. 14 CE — [Wikidata Q2259](https://www.wikidata.org/wiki/Q2259) ⚭ Marcellus, Marcus Vipsanius Agrippa, Tiberius
+- **Marcus Vipsanius Agrippa** (Q72335) — b. 63 CE, d. 12 CE — [Wikidata Q48174](https://www.wikidata.org/wiki/Q48174) ⚭ Claudia Marcella Major, Julia the Elder, Attica
+- **Rubellius Blandus** (Q72338) — [Wikidata Q111335237](https://www.wikidata.org/wiki/Q111335237) ⚭ NN (Wife of Rubellius Blandus)
+- **NN (Wife of Rubellius Blandus)** (Q72341) ⚭ Rubellius Blandus
+- **Regulus Sergius Plautus** (Q72344)
+- **Iamblichus I** (Q72347) — d. 31 CE — [Wikidata Q5980697](https://www.wikidata.org/wiki/Q5980697)
+- **Athenais of Media Atropatene** (Q72350) — [Wikidata Q4813409](https://www.wikidata.org/wiki/Q4813409) ⚭ Artavasdes I of Media Atropatene
+- **Artavasdes I of Media Atropatene** (Q72353) — b. 59 CE, d. 20 CE — [Wikidata Q706206](https://www.wikidata.org/wiki/Q706206) ⚭ N.N., Laodice(?) Princess of the COMMAGENE, Athenais of Media Atropatene
+- **Mithridates II of Commagene** (Q72359) — b. 100 CE, d. 20 CE — [Wikidata Q734029](https://www.wikidata.org/wiki/Q734029) ⚭ Laodice de Comagene
+- **Tertullus** (Q72371)
+- **Tiberius Julius Lupus** (Q72374)
+- **Vespasius Pollio** (Q72377) — b. 50 CE — [Wikidata Q11954555](https://www.wikidata.org/wiki/Q11954555) ⚭ NN (Wife of Vespasius Pollio)
+- **NN (Wife of Vespasius Pollio)** (Q72380) ⚭ Vespasius Pollio
+- **Tertulla** (Q72383) — [Wikidata Q12296285](https://www.wikidata.org/wiki/Q12296285) ⚭ Titus Flavius Petro
+- **Titus Flavius Petro** (Q72386) — [Wikidata Q1032278](https://www.wikidata.org/wiki/Q1032278) ⚭ Tertulla
+- **Antiochus I Theos of Commagene** (Q72538) — b. 86 CE, d. 38 CE — [Wikidata Q462768](https://www.wikidata.org/wiki/Q462768) ⚭ Isias
+- **Isias** (Q72541) — [Wikidata Q2495012](https://www.wikidata.org/wiki/Q2495012) ⚭ Antiochus I Theos of Commagene
+- **Octavia the Younger** (Q72567) — b. 69 CE, d. 11 CE — [Wikidata Q229483](https://www.wikidata.org/wiki/Q229483) ⚭ Gaius Claudius Marcellus Minor, Mark Antony
+- **Aurelia** (Q73026) — b. 119 CE, d. 54 CE — [Wikidata Q232725](https://www.wikidata.org/wiki/Q232725) ⚭ Gaius Julius Caesar
+- **Gaius Julius Caesar** (Q73029) — b. 130 BCE, d. 85 BCE — [Wikidata Q314710](https://www.wikidata.org/wiki/Q314710) ⚭ Aurelia
+- **Tiberius Julius Lupus** (Q77485) — [Wikidata Q11729324](https://www.wikidata.org/wiki/Q11729324)
+- **Sextus Appius** (Q77500)
+- **Vibius Varus** (Q77713)
+- **Tiberius Julius Lupus** (Q77722) — [Wikidata Q30069228](https://www.wikidata.org/wiki/Q30069228)
+- **N.N.  Meliteus** (Q77794) ⚭ ?
+- **?** (Q77797) ⚭ N.N.  Meliteus
+- **Leonides IV Meliteus** (Q77800) ⚭ Chrystothemis Phaidrou  Berenikdou
+- **Chrystothemis Phaidrou  Berenikdou** (Q77803) ⚭ Leonides IV Meliteus
+- **Themistockles  Hagnousios** (Q77806) ⚭ Nikostrate  Melitea
+- **Nikostrate  Melitea** (Q77809) ⚭ Themistockles  Hagnousios
+- **Tiberius Claudius  Aglophanes** (Q77812)
+- **Kleitosthenes de  Thera** (Q77815) ⚭ Asclepias de  Thera
+- **Asclepias de  Thera** (Q77818) ⚭ Kleitosthenes de  Thera
+- **Tiberius** (Q77827) — b. 42 CE, d. 37 CE — [Wikidata Q1407](https://www.wikidata.org/wiki/Q1407) ⚭ Vipsania Agrippina, Julia the Elder
+- **Rubellia  Bassa** (Q77836) ⚭ Paullus Aemilius  Lepidus
+- **Paullus Aemilius  Lepidus** (Q77839) ⚭ Rubellia  Bassa
+- **Amyntas I** (Q77842)
+- **Amyntas** (Q77845) — [Wikidata Q4749570](https://www.wikidata.org/wiki/Q4749570)
+- **Iotapa of Commagene** (Q77848) — b. 100 CE, d. 100 CE — [Wikidata Q13426522](https://www.wikidata.org/wiki/Q13426522) ⚭ Artavasdes, Antiochus III of Commagene
+- **Antiochus III of Commagene** (Q77851) — b. 100 CE, d. 17 CE — [Wikidata Q579949](https://www.wikidata.org/wiki/Q579949) ⚭ Iotapa of Commagene
+- **Alexander** (Q77854) — b. 15 CE — [Wikidata Q2066272](https://www.wikidata.org/wiki/Q2066272) ⚭ Cleopatra ., NN (Wife of Gaius Julius Alexander)
+- **Valeria** (Q77857) ⚭ Lucius Vipstanus Gallus
+- **Lucius Vipstanus Gallus** (Q77860) ⚭ Valeria
+- **Quintus Plautius** (Q77863) ⚭ Sextia
+- **Sextia** (Q77866) ⚭ Quintus Plautius
+- **Publius Quinctilius Varus** (Q77869) ⚭ Plautia Laterana
+- **Plautia Laterana** (Q77872) ⚭ Publius Quinctilius Varus
+- **Arria** (Q77875) ⚭ Publius  Clodius Thrasea Paetus
+- **Publius  Clodius Thrasea Paetus** (Q77878) ⚭ Arria
+- **Gaius  Helvidius** (Q77881)
+- **Servilia** (Q77884) ⚭ Marcus  Aedius
+- **Marcus  Aedius** (Q77887) ⚭ Servilia
+- **Gaius  Calpurnius** (Q77890)
+- **Plaria Vera** (Q77893) ⚭ Lucius  Arrius
+- **Lucius  Arrius** (Q77896) ⚭ Plaria Vera
+- **Lucius Calpurnius Bibulus** (Q77899) — b. 68 CE, d. 32 CE — [Wikidata Q3655959](https://www.wikidata.org/wiki/Q3655959) ⚭ Domitia Calvina
+- **Domitia Calvina** (Q77902) — [Wikidata Q96200806](https://www.wikidata.org/wiki/Q96200806) ⚭ Lucius Calpurnius Bibulus
+- **Lucius Aelius  Lamia** (Q77920)
+- **Gnaeus Lartius** (Q77923) — [Wikidata Q108944058](https://www.wikidata.org/wiki/Q108944058) ⚭ Claudia
+- **Marcus Plautius Silvanus** (Q77926) ⚭ Urgulania
+- **Urgulania** (Q77929) ⚭ Marcus Plautius Silvanus
+- **Publius Claudius  Pulcher** (Q77931)
+- **Polycharmos** (Q77940)
+- **Trebonius Gallus** (Q77943)
+- **Acilia** (Q77946) ⚭ Metilius Nepos
+- **Metilius Nepos** (Q77949) ⚭ Acilia
+- **Marcus Pomponius** (Q77952)
+- **Lucius Pinarius Scarpus** (Q77955)
+- **Lucius Cassius Longinus** (Q77958) — b. 63 CE, d. 42 CE — [Wikidata Q11934053](https://www.wikidata.org/wiki/Q11934053) ⚭ Sulpicia, Iunia  Tertia
+- **Iunia  Tertia** (Q77961) ⚭ Lucius Cassius Longinus
+- **Livia** (Q78000) — b. 59 CE, d. 29 CE — [Wikidata Q469701](https://www.wikidata.org/wiki/Q469701) ⚭ Augustus, Tiberius Claudius Nero
+- **Tiberius Claudius Nero** (Q78003) — b. 89 CE, d. 33 CE — [Wikidata Q342512](https://www.wikidata.org/wiki/Q342512) ⚭ Livia
+- **Mark Antony** (Q78006) — b. 83 CE, d. 30 CE — [Wikidata Q51673](https://www.wikidata.org/wiki/Q51673) ⚭ Fadia, Antonia Hybrida Minor, Fulvia +2 more
+- **Lucius Naevius  Naevius** (Q78072)
+- **Gaius  Neratius** (Q78075)
+
+## Generation 30 (147 people) — circa 5 CE
+
+- **Julia Livia** (Q138467) — b. 5 CE, d. 43 CE — [Wikidata Q266030](https://www.wikidata.org/wiki/Q266030) ⚭ Nero Caesar, Gaius Rubellius Blandus
+- **Rutilia** (Q138496) — [Wikidata Q100783236](https://www.wikidata.org/wiki/Q100783236) ⚭ Lucius Calpurnius Piso Caesoninus
+- **Brogitarus** (Q139522) — b. 150 CE, d. 100 CE — [Wikidata Q3781179](https://www.wikidata.org/wiki/Q3781179) ⚭ Adobogiona, Adobogiona
+- **Publius Cornelius Scipio** (Q139595) — [Wikidata Q11943246](https://www.wikidata.org/wiki/Q11943246) ⚭ Scribonia
+- **Marcus Livius Drusus Libo** (Q139601) — b. 1 CE — [Wikidata Q544382](https://www.wikidata.org/wiki/Q544382)
+- **Ignota** (Q139619) — d. 63 CE — [Wikidata Q111396827](https://www.wikidata.org/wiki/Q111396827) ⚭ Lucius Vipsanius Major
+- **Lucius Aemilius Lepidus Paullus** (Q139628) — b. 99 CE, d. 100 CE — [Wikidata Q456950](https://www.wikidata.org/wiki/Q456950)
+- **Gaius Rubellius Blandus** (Q139688) — b. 100 CE, d. 38 CE — [Wikidata Q1227324](https://www.wikidata.org/wiki/Q1227324) ⚭ Julia Livia
+- **Lucius Cornelius Cinna** (Q139712) — b. 77 CE, d. 21 CE — [Wikidata Q664229](https://www.wikidata.org/wiki/Q664229) ⚭ Pompeia Magna
+- **Postumia** (Q144126) — [Wikidata Q11942503](https://www.wikidata.org/wiki/Q11942503) ⚭ Servius Sulpicius Rufus
+- **Quintus Aelius Tubero** (Q144237) — b. 76 CE — [Wikidata Q2123334](https://www.wikidata.org/wiki/Q2123334)
+- **Servius Sulpicius Rufus** (Q148111) — b. 106 CE, d. 43 CE — [Wikidata Q435163](https://www.wikidata.org/wiki/Q435163) ⚭ Postumia
+- **Quintus Vitellius** (Q151406) — b. 50 CE — [Wikidata Q3927966](https://www.wikidata.org/wiki/Q3927966)
+- **Lucius Aelius Lamia** (Q151504) — b. 50 CE — [Wikidata Q25396674](https://www.wikidata.org/wiki/Q25396674)
+- **Gaius Marcius** (Q151516) — [Wikidata Q131731574](https://www.wikidata.org/wiki/Q131731574)
+- **Publius Aelius Marullinus** (Q151764) — [Wikidata Q112865820](https://www.wikidata.org/wiki/Q112865820)
+- **Levi  HaDavid** (Q51784)
+- **Ptolemy XII Auletes** (Q51822) — b. 117 CE, d. 51 CE — [Wikidata Q888470](https://www.wikidata.org/wiki/Q888470) ⚭ Laodice ., Cleopatra V of Egypt
+- **Plotius  Plotius** (Q70242) ⚭ Servilia
+- **Lucius Caesennius Paetus** (Q70295) ⚭ Flavia
+- **Flavia** (Q70298) ⚭ Lucius Caesennius Paetus
+- **Curtia Procilla** (Q70301) ⚭ Alfius
+- **Alfius** (Q70304) ⚭ Curtia Procilla
+- **Publius  Gavius** (Q70352)
+- **Lucius Calpurnius Piso Caesoninus** (Q71161) — d. 100 CE — [Wikidata Q365840](https://www.wikidata.org/wiki/Q365840) ⚭ Rutilia
+- **Publius Servilius Vatia Isauricus** (Q71173) — b. 120 CE, d. 44 CE — [Wikidata Q392647](https://www.wikidata.org/wiki/Q392647) ⚭ Aemilia  Lepida
+- **Aemilia  Lepida** (Q71194) ⚭ Publius Servilius Vatia Isauricus
+- **Aemilia Caesia  Lepida** (Q71215) ⚭ Marcus Appius Junius Silanus  Torquatus
+- **Marcus Appius Junius Silanus  Torquatus** (Q71236) ⚭ Aemilia Caesia  Lepida
+- **Lucius Vitellius  I** (Q71269)
+- **Gaius Sulpicius  Galba** (Q71293) ⚭ Mummia  Achaica
+- **Mummia  Achaica** (Q71323) ⚭ Gaius Sulpicius  Galba
+- **Publius Aelius Hadrianus Marullinus** (Q71349) ⚭ NN (Wife of Publius Aelius Hadrianus Marullinus)
+- **NN (Wife of Publius Aelius Hadrianus Marullinus)** (Q71382) ⚭ Publius Aelius Hadrianus Marullinus
+- **Aulus Caepio  Crispinus** (Q71415)
+- **Hiempsal II** (Q71763) — [Wikidata Q638676](https://www.wikidata.org/wiki/Q638676)
+- **Scribonia** (Q72242) — b. 70 BCE, d. 16 CE — [Wikidata Q233444](https://www.wikidata.org/wiki/Q233444) ⚭ Gnaeus Cornelius Lentulus Marcellinus, Publius Cornelius Scipio, Lucius Cornelius Lentulus +3 more
+- **Lucius Cornelius  Lentulus** (Q72245) ⚭ Scribonia
+- **Cornelius Scipio Salvito** (Q72248) — [Wikidata Q1269233](https://www.wikidata.org/wiki/Q1269233) ⚭ Scribonia
+- **Lucius Aemilius Lepidus Paullus** (Q72251) ⚭ Junia Bruta
+- **Junia Bruta** (Q72254) ⚭ Lucius Aemilius Lepidus Paullus
+- **Lucius Munatius Plancus** (Q72257)
+- **Lucius Cornelius Cinna** (Q72260) — b. 135 CE, d. 84 CE — [Wikidata Q171083](https://www.wikidata.org/wiki/Q171083) ⚭ Annia
+- **Annia** (Q72263) — b. 115 CE — [Wikidata Q4066696](https://www.wikidata.org/wiki/Q4066696) ⚭ Lucius Cornelius Cinna, Marcus Pupius Piso Frugi Calpurnianus
+- **Mucia Tertia** (Q72266) — b. 95 CE, d. 31 CE — [Wikidata Q273616](https://www.wikidata.org/wiki/Q273616) ⚭ Marcus Aemilius Scaurus, Pompey
+- **Pompey** (Q72269) — b. 106 CE, d. 48 CE — [Wikidata Q125414](https://www.wikidata.org/wiki/Q125414) ⚭ Julia, Antistia, Aemilia Scaura +2 more
+- **Lucius Scribonius Libo** (Q72272) — b. 150 CE — [Wikidata Q1159617](https://www.wikidata.org/wiki/Q1159617) ⚭ Sentia
+- **Sentia** (Q72275) — [Wikidata Q61707798](https://www.wikidata.org/wiki/Q61707798) ⚭ Lucius Scribonius Libo
+- **Marcus Pupius Piso Frugi Calpurnianus** (Q72278) — b. 114 CE — [Wikidata Q510243](https://www.wikidata.org/wiki/Q510243) ⚭ Annia
+- **Faustus Cornelius Sulla** (Q72281) — b. 88 CE, d. 46 CE — [Wikidata Q708722](https://www.wikidata.org/wiki/Q708722) ⚭ Pompeia Magna
+- **Quintus Sulpicius Rufus** (Q72284)
+- **Decimus Junius Silanus** (Q72287) — b. 150 CE — [Wikidata Q518928](https://www.wikidata.org/wiki/Q518928) ⚭ Sempronia  Silanus, Servilia
+- **Sempronia  Silanus** (Q72290) ⚭ Decimus Junius Silanus
+- **Tiberius Quinctius  Crispinus** (Q72293)
+- **Gaius Traius** (Q72329)
+- **Gnaeus  Hosidius** (Q72362)
+- **Lucius Calpurnius Piso Caesonius** (Q72389) ⚭ Rutilia
+- **Rutilia** (Q72392) ⚭ Lucius Calpurnius Piso Caesonius
+- **Titus Flavius  Sabinus II** (Q72395) ⚭ Mariamne
+- **Mariamne** (Q72398) ⚭ Titus Flavius  Sabinus II
+- **Claudia Marcella** (Q72401) — [Wikidata Q111419899](https://www.wikidata.org/wiki/Q111419899) ⚭ Sextus Quinctilius Varus, Marcus Valerius Messalla Messallinus
+- **Sextus Quinctilius Varus** (Q72404) — b. 79 CE, d. 42 CE — [Wikidata Q611638](https://www.wikidata.org/wiki/Q611638) ⚭ Claudia Marcella
+- **Lucius Cornelius Lentulus  Crusiello** (Q72407) ⚭ Suplicia Scribonia Julia  Crusiello
+- **Suplicia Scribonia Julia  Crusiello** (Q72410) ⚭ Lucius Cornelius Lentulus  Crusiello
+- **Tiberius Claudius Nero** (Q72413) — b. 105 CE, d. 1 CE — [Wikidata Q2236673](https://www.wikidata.org/wiki/Q2236673) ⚭ paternal grandmother of Tiberius
+- **Lucius  Nonius** (Q72416)
+- **Quinctia** (Q72419) — [Wikidata Q12282789](https://www.wikidata.org/wiki/Q12282789) ⚭ Gaius Asinius Pollio
+- **Gaius Asinius Pollio** (Q72422) — b. 75 CE, d. 4 CE — [Wikidata Q319273](https://www.wikidata.org/wiki/Q319273) ⚭ Quinctia
+- **Attica** (Q72425) — b. 55 CE, d. 28 CE — [Wikidata Q152626](https://www.wikidata.org/wiki/Q152626) ⚭ Marcus Vipsanius Agrippa
+- **Marcus Aemilius Lepidus** (Q72434) — [Wikidata Q435329](https://www.wikidata.org/wiki/Q435329) ⚭ Appuleia
+- **Servilia** (Q72439) — b. 100 CE — [Wikidata Q232229](https://www.wikidata.org/wiki/Q232229) ⚭ Decimus Junius Silanus, Marcus Junius Brutus the Elder
+- **Marcus Aemilius Lepidus** (Q72514) — b. 120 BCE, d. 77 BCE — [Wikidata Q435329](https://www.wikidata.org/wiki/Q435329) ⚭ Appuleia
+- **Appuleia** (Q72517) — b. 115 BCE, d. 77 BCE — [Wikidata Q3655875](https://www.wikidata.org/wiki/Q3655875) ⚭ Marcus Aemilius Lepidus, Marcus Aemilius Lepidus
+- **Augustus** (Q72529) — b. 63 CE, d. 14 CE — [Wikidata Q1405](https://www.wikidata.org/wiki/Q1405) ⚭ Claudia, Scribonia, Livia
+- **Lucius Vipsanius Major** (Q72532) — [Wikidata Q2914316](https://www.wikidata.org/wiki/Q2914316) ⚭ Ignota
+- **Sampsiceramus I** (Q72535) — [Wikidata Q18277266](https://www.wikidata.org/wiki/Q18277266)
+- **N.N.** (Q72543) — [Wikidata Q116474571](https://www.wikidata.org/wiki/Q116474571) ⚭ Ariobarzanes I of Media Atropatene
+- **Ariobarzanes I of Media Atropatene** (Q72546) — b. 65 CE — [Wikidata Q2861293](https://www.wikidata.org/wiki/Q2861293) ⚭ N.N.
+- **Tertullus** (Q72555) ⚭ NN (Wife of Tertullus)
+- **NN (Wife of Tertullus)** (Q72558) ⚭ Tertullus
+- **Tiberius Julius Lupus** (Q72561)
+- **Atia** (Q72708) — b. 85 CE, d. 43 CE — [Wikidata Q231696](https://www.wikidata.org/wiki/Q231696) ⚭ Lucius Marcius Philippus, Gaius Octavius
+- **Gaius Octavius** (Q72711) — b. 100 CE, d. 59 CE — [Wikidata Q363084](https://www.wikidata.org/wiki/Q363084) ⚭ Ancharia, Atia
+- **Laodice VII Thea** (Q72720) — b. 101 CE, d. 100 CE — [Wikidata Q288177](https://www.wikidata.org/wiki/Q288177) ⚭ Mithridates I Callinicus
+- **Mithridates I Callinicus** (Q72723) — b. 200 CE, d. 70 CE — [Wikidata Q470087](https://www.wikidata.org/wiki/Q470087) ⚭ Laodice VII Thea
+- **Athenais Philostorgos I** (Q72726) — [Wikidata Q4813407](https://www.wikidata.org/wiki/Q4813407) ⚭ Ariobarzanes
+- **Ariobarzanes** (Q72729) — b. 200 CE, d. 100 CE — [Wikidata Q380371](https://www.wikidata.org/wiki/Q380371) ⚭ Athenais Philostorgos I
+- **Rutilia** (Q73179) — [Wikidata Q56259970](https://www.wikidata.org/wiki/Q56259970) ⚭ Lucius Aurelius Cotta, Q99374
+- **Lucius Aurelius Cotta** (Q73182) — [Wikidata Q935566](https://www.wikidata.org/wiki/Q935566) ⚭ Rutilia, Q99372
+- **Marcia** (Q73185) — b. 150 CE — [Wikidata Q1893528](https://www.wikidata.org/wiki/Q1893528) ⚭ Gaius Julius Caesar
+- **Gaius Julius Caesar** (Q73188) — b. 150 CE — [Wikidata Q651208](https://www.wikidata.org/wiki/Q651208) ⚭ Marcia
+- **Gaius Vibius Varus** (Q77914)
+- **Tiberius Julius Lupus** (Q77917)
+- **N.N.  Meliteus** (Q77964) ⚭ ?
+- **?** (Q77967) ⚭ N.N.  Meliteus
+- **Leonides III Meliteus** (Q77970) ⚭ Timothea  Melitea
+- **Timothea  Melitea** (Q77973) ⚭ Leonides III Meliteus
+- **Phaidros Lysiadou  Berenikides** (Q77976) ⚭ ?
+- **?** (Q77979) ⚭ Phaidros Lysiadou  Berenikides
+- **Theophrastos  Hagnousios** (Q77982) ⚭ ?
+- **?** (Q77985) ⚭ Theophrastos  Hagnousios
+- **Hediste  Melitea** (Q77988) ⚭ Diokles II Meliteus
+- **Diokles II Meliteus** (Q77991) ⚭ Hediste  Melitea, N.N., Wife of Diokles II
+- **Dorotheos de  Thera** (Q77994) ⚭ ?
+- **?** (Q77997) ⚭ Dorotheos de  Thera
+- **Gaius Rubellius  Blandus** (Q78009) ⚭ Julia Julina  Livia
+- **Julia Julina  Livia** (Q78012) ⚭ Gaius Rubellius  Blandus
+- **Adobogiona** (Q78018) ⚭ Brogitarus
+- **Dytilaos, Tetrarch of the Tectosagii** (Q78021)
+- **Alexander** (Q78024) — b. 35 CE, d. 7 CE — [Wikidata Q2525263](https://www.wikidata.org/wiki/Q2525263) ⚭ Glaphyra
+- **Glaphyra** (Q78027) — b. 35 CE, d. 7 CE — [Wikidata Q263515](https://www.wikidata.org/wiki/Q263515) ⚭ Herod Archelaus, Juba II, Alexander
+- **Marcus Valerius Messalla Messallinus** (Q78030) ⚭ Claudia Marcella
+- **Vitellia** (Q78033) ⚭ Aulius Antonius Plautius
+- **Aulius Antonius Plautius** (Q78036) ⚭ Vitellia
+- **Claudia Pulchra** (Q78039) ⚭ Publius Quinctilius Varus
+- **Publius Quinctilius Varus** (Q78042) ⚭ Claudia Pulchra
+- **Aulus Caecinus Paetus** (Q78045) ⚭ Arria
+- **Arria** (Q78048) ⚭ Aulus Caecinus Paetus
+- **Nonia** (Q78051) ⚭ Marcus  Servilius
+- **Marcus  Servilius** (Q78054) ⚭ Nonia
+- **Marcus  Aedius** (Q78057)
+- **Manius  Acilius** (Q78060)
+- **Porcia Catonis** (Q78063) ⚭ Marcus Calpurnius Bibulus
+- **Marcus Calpurnius Bibulus** (Q78066) — b. 102 CE, d. 48 CE — [Wikidata Q316775](https://www.wikidata.org/wiki/Q316775) ⚭ Porcia, Porcia Catonis
+- **Gnaeus Domitius Calvinus** (Q78069) — d. 60 CE — [Wikidata Q383846](https://www.wikidata.org/wiki/Q383846)
+- **Lucius Aelius  Lamia** (Q78078)
+- **Publius Clodius Pulcher** (Q78081) ⚭ Fulvia Flacca Bambula
+- **Fulvia Flacca Bambula** (Q78084) ⚭ Publius Clodius Pulcher
+- **Eukles** (Q78096)
+- **Calpurnius Acilius Aviola** (Q78099)
+- **Marcus Pomponius** (Q78102)
+- **Lucius Pinarius Scarpus** (Q78108)
+- **Junia Tertia** (Q78111) ⚭ Lucius Cassius Longinus
+- **Lucius Cassius Longinus** (Q78114) — b. 83 CE, d. 50 CE — [Wikidata Q976168](https://www.wikidata.org/wiki/Q976168) ⚭ Junia Tertia
+- **Servilia X  Caepionis** (Q78117) ⚭ Decimus Iunius X  Silanus
+- **Decimus Iunius X  Silanus** (Q78120) ⚭ Servilia X  Caepionis
+- **Alfidia** (Q78153) — b. 50 CE, d. 50 CE — [Wikidata Q2268436](https://www.wikidata.org/wiki/Q2268436) ⚭ Marcus Livius Drusus Claudianus
+- **Marcus Livius Drusus Claudianus** (Q78156) — b. 90 CE, d. 42 CE — [Wikidata Q720855](https://www.wikidata.org/wiki/Q720855) ⚭ Alfidia
+- **paternal grandmother of Tiberius** (Q78159) — [Wikidata Q111399005](https://www.wikidata.org/wiki/Q111399005) ⚭ Tiberius Claudius Nero
+- **Marcus Antonius Creticus** (Q78171) — b. 200 CE, d. 71 CE — [Wikidata Q357585](https://www.wikidata.org/wiki/Q357585) ⚭ Numitoria, Julia
+- **Julia** (Q78174) — b. 200 CE, d. 39 CE — [Wikidata Q6485329](https://www.wikidata.org/wiki/Q6485329) ⚭ Publius Cornelius Lentulus Sura, Marcus Antonius Creticus
+- **Numerius  Naevius** (Q78228)
+- **Sextus  Neratius** (Q78231)
+- **Cleopatra V of Egypt** (Q78609) — b. 100 CE, d. 57 CE — [Wikidata Q40242](https://www.wikidata.org/wiki/Q40242) ⚭ Ptolemy XII Auletes
+- **Aelius** (Q99338)
+- **Q99372** (Q99372) ⚭ Lucius Aurelius Cotta
+- **Q99374** (Q99374) ⚭ Rutilia
+
+## Generation 31 (143 people) — circa 400 CE
+
+- **Artabazos II of Phrygia** (Q135324) — b. 400 CE, d. 360 CE — [Wikidata Q463760](https://www.wikidata.org/wiki/Q463760)
+- **Ptolemy X Alexander I** (Q135920) — b. 140 CE, d. 88 CE — [Wikidata Q3345](https://www.wikidata.org/wiki/Q3345) ⚭ Cleopatra Selene of Egypt and Syria, Berenice III
+- **Berenice III** (Q136155) — b. 120 CE — [Wikidata Q231688](https://www.wikidata.org/wiki/Q231688) ⚭ Ptolemy X Alexander I, Ptolemy XI Alexander II
+- **N.N.** (Q137665) — [Wikidata Q110737976](https://www.wikidata.org/wiki/Q110737976) ⚭ Marcus Antonius
+- **Lucius Cornelius Cinna** (Q138489) — b. 200 CE — [Wikidata Q646993](https://www.wikidata.org/wiki/Q646993)
+- **Lucius Julius Caesar** (Q139693) — d. 166 CE — [Wikidata Q12119007](https://www.wikidata.org/wiki/Q12119007)
+- **Publius Rutilius Nudus** (Q139723) — b. 150 CE — [Wikidata Q65151550](https://www.wikidata.org/wiki/Q65151550)
+- **Gaius Sentius** (Q141447) — [Wikidata Q61707800](https://www.wikidata.org/wiki/Q61707800)
+- **Sergia** (Q141584) — [Wikidata Q110321007](https://www.wikidata.org/wiki/Q110321007)
+- **Lucius Calpurnius Piso Frugi** (Q141610) — b. 200 CE, d. 111 CE — [Wikidata Q12118997](https://www.wikidata.org/wiki/Q12118997)
+- **Gaius Servilius Vatia** (Q144062) — b. 165 CE — [Wikidata Q3655476](https://www.wikidata.org/wiki/Q3655476) ⚭ Caecilia Metella
+- **Aulus Postumius Albinus Magnus** (Q144125) — b. 200 CE — [Wikidata Q773031](https://www.wikidata.org/wiki/Q773031)
+- **Lucius Aelius Tubero** (Q148182) — b. 150 CE, d. 100 CE — [Wikidata Q1159576](https://www.wikidata.org/wiki/Q1159576) ⚭ Tullia
+- **Tullia** (Q148183) — [Wikidata Q113626249](https://www.wikidata.org/wiki/Q113626249) ⚭ Lucius Aelius Tubero
+- **Marcus Domitius Calvinus** (Q151387) — b. 121 CE, d. 80 CE — [Wikidata Q6758133](https://www.wikidata.org/wiki/Q6758133)
+- **Malichus  Banu Adnan** (Q49687) ⚭ N.N.
+- **N.N.** (Q49691) ⚭ Malichus  Banu Adnan
+- **Melchi ben Jannai  HaDavid** (Q51780)
+- **Ptolemy Memphites** (Q51818) — [Wikidata Q1670765](https://www.wikidata.org/wiki/Q1670765)
+- **Publius Caesennius  Paetus** (Q70883) ⚭ NN (Wife of Lucius Junius Caesennius Paetus) Caesennia  Atonia
+- **Gaius Procillus** (Q70916)
+- **Gauda** (Q71768) — b. 150 CE, d. 88 CE — [Wikidata Q340116](https://www.wikidata.org/wiki/Q340116)
+- **Calventia** (Q72296) — b. 200 CE, d. 100 CE — [Wikidata Q102449495](https://www.wikidata.org/wiki/Q102449495) ⚭ Lucius Calpurnius Piso Caesoninus, Lucius Calpurnius Piso Caesonius
+- **Lucius Calpurnius Piso Caesoninus** (Q72299) — b. 200 CE, d. 100 CE — [Wikidata Q2655602](https://www.wikidata.org/wiki/Q2655602) ⚭ Calventia
+- **Publius Servilius Isauricus** (Q72302) ⚭ Junia Prima
+- **Junia Prima** (Q72305) ⚭ Publius Servilius Isauricus
+- **Triumvir (43-36 BC) - Marcus Aemilius Lepidus (up)** (Q72311) ⚭ Junia Secunda
+- **Julilla  Caesonia** (Q72314) ⚭ Lepidus Amelius  Paulus
+- **Lepidus Amelius  Paulus** (Q72317) ⚭ Julilla  Caesonia
+- **Gaius Sulpicius  Galba** (Q72320)
+- **Unknown  Capitolinus** (Q72323) ⚭ Lucius Mummius  Achaicus
+- **Lucius Mummius  Achaicus** (Q72326) ⚭ Unknown  Capitolinus
+- **Fabia** (Q72428) ⚭ Gnaeus Cornelius Lentulus  Marcellinus
+- **Gnaeus Cornelius Lentulus  Marcellinus** (Q72431) ⚭ Fabia
+- **Marcus Junius Brutus the Elder** (Q72436) — b. 117 CE, d. 77 CE — [Wikidata Q1358824](https://www.wikidata.org/wiki/Q1358824) ⚭ Servilia
+- **Lucius Munatius Plancus** (Q72442)
+- **Lucius Cornelius Cinna** (Q72445) — b. 200 CE, d. 100 CE — [Wikidata Q720358](https://www.wikidata.org/wiki/Q720358)
+- **Titus Annius Rufus** (Q72448) — b. 171 CE, d. 100 CE — [Wikidata Q3656324](https://www.wikidata.org/wiki/Q3656324)
+- **Quintus Mucius Scaevola Pontifex** (Q72451) — b. 140 CE, d. 82 CE — [Wikidata Q503187](https://www.wikidata.org/wiki/Q503187) ⚭ Licinia
+- **Licinia** (Q72454) — [Wikidata Q12284964](https://www.wikidata.org/wiki/Q12284964) ⚭ Quintus Caecilius Metellus Nepos, Quintus Mucius Scaevola Pontifex
+- **Gnaeus Pompeius Strabo** (Q72457) — b. 135 CE, d. 87 CE — [Wikidata Q336538](https://www.wikidata.org/wiki/Q336538) ⚭ Lucilia
+- **Lucius Scribonius Libo** (Q72460) — [Wikidata Q61707795](https://www.wikidata.org/wiki/Q61707795)
+- **Tertulla** (Q72463) — b. 200 CE — [Wikidata Q12271314](https://www.wikidata.org/wiki/Q12271314) ⚭ Marcus Licinius Crassus, Marcus Pupius  Pupius
+- **Marcus Licinius Crassus** (Q72466) — b. 115 CE, d. 53 CE — [Wikidata Q175121](https://www.wikidata.org/wiki/Q175121) ⚭ Tertulla
+- **Marcus Pupius  Pupius** (Q72469) ⚭ Tertulla
+- **Caecilia Metella Dalmatica** (Q72475) — b. 200 CE, d. 81 CE — [Wikidata Q6454823](https://www.wikidata.org/wiki/Q6454823) ⚭ Marcus Aemilius Scaurus, Sulla
+- **Sulla** (Q72478) — b. 138 CE, d. 78 CE — [Wikidata Q483783](https://www.wikidata.org/wiki/Q483783) ⚭ Julia, Aelia, Cloelia +3 more
+- **Quintus Sulpicius Rufus** (Q72481)
+- **Marcus Junius Silanus** (Q72484) — b. 152 CE, d. 160 CE — [Wikidata Q1283595](https://www.wikidata.org/wiki/Q1283595) ⚭ N.N.
+- **N.N.** (Q72487) ⚭ Marcus Junius Silanus
+- **Tiberius Quinctius  Flamininus** (Q72490)
+- **Atilia** (Q72493) ⚭ Cato the Younger
+- **Cato the Younger** (Q72496) — b. 95 BCE, d. 46 BCE — [Wikidata Q193506](https://www.wikidata.org/wiki/Q193506) ⚭ Atilia
+- **Gaius  Hosidius** (Q72549)
+- **Lucius Calpurnius Piso Caesonius** (Q72564) ⚭ Calventia
+- **Gaius Claudius Marcellus Minor** (Q72570) — b. 88 CE, d. 40 CE — [Wikidata Q367828](https://www.wikidata.org/wiki/Q367828) ⚭ Octavia the Younger
+- **Sextus Quinctilius Varus** (Q72573) — [Wikidata Q4413354](https://www.wikidata.org/wiki/Q4413354)
+- **Lucius Cornelius Lentulus  Crus** (Q72576)
+- **Servius Sulpicius  Rufus** (Q72579) ⚭ Julia  Caesaris
+- **Julia  Caesaris** (Q72582) ⚭ Servius Sulpicius  Rufus
+- **Tiberius Claudius Nero** (Q72585) — [Wikidata Q111309220](https://www.wikidata.org/wiki/Q111309220)
+- **Titus  Nonius** (Q72588)
+- **Lucius Quinctius** (Q72591) — d. 40 CE — [Wikidata Q12285202](https://www.wikidata.org/wiki/Q12285202) ⚭ NN (Wife of Lucius Quinctius)
+- **NN (Wife of Lucius Quinctius)** (Q72594) ⚭ Lucius Quinctius
+- **Gnaeus Asinius** (Q72597) — b. 100 CE, d. 76 CE — [Wikidata Q4140663](https://www.wikidata.org/wiki/Q4140663)
+- **Titus Pomponius Atticus** (Q72600) — [Wikidata Q311733](https://www.wikidata.org/wiki/Q311733) ⚭ Pilia
+- **Pilia** (Q72603) — [Wikidata Q2292963](https://www.wikidata.org/wiki/Q2292963) ⚭ Titus Pomponius Atticus
+- **Quintus Aemilius Lepidus** (Q72615) ⚭ NN WIfe of Quintus Aemilius Lepidus)
+- **NN WIfe of Quintus Aemilius Lepidus)** (Q72618) ⚭ Quintus Aemilius Lepidus
+- **Quintus Servilius Caepio** (Q72621) — b. 131 CE, d. 90 CE — [Wikidata Q1339771](https://www.wikidata.org/wiki/Q1339771) ⚭ Livia
+- **Livia** (Q72624) — b. 200 CE, d. 90 CE — [Wikidata Q432100](https://www.wikidata.org/wiki/Q432100) ⚭ Marcus Porcius Cato, Quintus Servilius Caepio, Marcus Porcius Cato
+- **Caecilia Metella** (Q72687) — [Wikidata Q544816](https://www.wikidata.org/wiki/Q544816) ⚭ Gaius Servilius Vatia, Gaius Servilius Vatia
+- **Quintus Aemilius Lepidus** (Q72693) — [Wikidata Q11944252](https://www.wikidata.org/wiki/Q11944252)
+- **N.N.** (Q72696) ⚭ Lucius Appuleius Saturninus
+- **Lucius Appuleius Saturninus** (Q72699) — b. 130 CE, d. 100 CE — [Wikidata Q355544](https://www.wikidata.org/wiki/Q355544) ⚭ N.N.
+- **Mithridates I of Media Atropatene** (Q72732) — b. 100 CE, d. 66 CE — [Wikidata Q6881693](https://www.wikidata.org/wiki/Q6881693) ⚭ Armenian Princess from the Artaxiad Dynasty
+- **Armenian Princess from the Artaxiad Dynasty** (Q72735) ⚭ Mithridates I of Media Atropatene
+- **Tiberius Julius Lupus** (Q72738)
+- **Marcus Atius Balbus** (Q72873) — b. 105 CE, d. 52 CE — [Wikidata Q285148](https://www.wikidata.org/wiki/Q285148) ⚭ Julia Minor
+- **Julia Minor** (Q72876) — b. 125 CE — [Wikidata Q241143](https://www.wikidata.org/wiki/Q241143) ⚭ Marcus Atius Balbus
+- **Gaius Octavius** (Q72879) — [Wikidata Q11923628](https://www.wikidata.org/wiki/Q11923628) ⚭ Aurelia Cotta
+- **Aurelia Cotta** (Q72882) ⚭ Gaius Octavius
+- **Tryphaena** (Q72888) — [Wikidata Q451204](https://www.wikidata.org/wiki/Q451204) ⚭ Antiochus VIII Grypus
+- **Antiochus VIII Grypus** (Q72891) — b. 141 CE, d. 96 CE — [Wikidata Q311112](https://www.wikidata.org/wiki/Q311112) ⚭ Cleopatra Selene of Egypt and Syria, Tryphaena, Cleopatra Selene I of Egypt
+- **Sames II Theosebes Dikaios** (Q72894) — b. 200 CE, d. 109 CE — [Wikidata Q887967](https://www.wikidata.org/wiki/Q887967) ⚭ Pythodoris of Commagene
+- **Pythodoris of Commagene** (Q72897) ⚭ Sames II Theosebes Dikaios
+- **Lucius Julius Caesar** (Q72924) — b. 200 CE, d. 87 CE — [Wikidata Q465074](https://www.wikidata.org/wiki/Q465074) ⚭ Fulvia
+- **Fulvia** (Q72927) — b. 200 CE — [Wikidata Q12297787](https://www.wikidata.org/wiki/Q12297787) ⚭ Lucius Julius Caesar
+- **Lucilia** (Q73020) — [Wikidata Q56259966](https://www.wikidata.org/wiki/Q56259966) ⚭ Gnaeus Pompeius Strabo, Sextus Pompeius, Marcus Atius Balbus
+- **Marcus Fulvius Flaccus** (Q73077) — b. 168 CE, d. 121 CE — [Wikidata Q712202](https://www.wikidata.org/wiki/Q712202) ⚭ Sempronia Tuditana
+- **Sempronia Tuditana** (Q73080) ⚭ Marcus Fulvius Flaccus
+- **Marcus Livius Drusus** (Q73119) — b. 124 CE, d. 91 CE — [Wikidata Q433463](https://www.wikidata.org/wiki/Q433463) ⚭ Servilia
+- **Publius Rutilius** (Q73338) — [Wikidata Q11216672](https://www.wikidata.org/wiki/Q11216672)
+- **Lucius Aurelius Cotta** (Q73341) — [Wikidata Q3265869](https://www.wikidata.org/wiki/Q3265869)
+- **Quintus Marcius Rex** (Q73344) — b. 150 CE, d. 143 CE — [Wikidata Q1872296](https://www.wikidata.org/wiki/Q1872296)
+- **Gaius Julius Caesar, I** (Q73347)
+- **Gaius Aurelius Cotta** (Q73485)
+- **Lucius Cornelius Scipio Asiaticus Aemilianus** (Q73893) — b. 200 CE, d. 77 CE — [Wikidata Q7234050](https://www.wikidata.org/wiki/Q7234050) ⚭ Aemilia  Paula
+- **N.N., Wife of Diokles II** (Q78123) ⚭ Diokles II Meliteus
+- **Soteira  Melitea** (Q78126) ⚭ Zenon II Meliteus
+- **Zenon II Meliteus** (Q78129) ⚭ Soteira  Melitea
+- **Diokles I Meliteus** (Q78132) ⚭ Philippea  Melitea
+- **Philippea  Melitea** (Q78135) ⚭ Diokles I Meliteus
+- **Lysiades  Berenikides** (Q78138) ⚭ ?
+- **?** (Q78141) ⚭ Lysiades  Berenikides
+- **Akestione  Acharneus** (Q78144) ⚭ Themistokles  Hagnousios
+- **Themistokles  Hagnousios** (Q78147) ⚭ Akestione  Acharneus
+- **Abron** (Q78150)
+- **Deiotarus I, King of Galatia** (Q78177) ⚭ Berenice
+- **Berenice** (Q78180) ⚭ Deiotarus I, King of Galatia
+- **Mariamne** (Q78186) — d. 29 CE — [Wikidata Q266601](https://www.wikidata.org/wiki/Q266601) ⚭ Herod the Great
+- **Herod the Great** (Q78189) — b. 74 CE, d. 4 CE — [Wikidata Q51672](https://www.wikidata.org/wiki/Q51672) ⚭ Malthace, Cleopatra of Jerusalem, Doris +4 more
+- **N.N.** (Q78192) ⚭ Archelaus of Cappadocia
+- **Archelaus of Cappadocia** (Q78195) — b. 50 CE, d. 17 CE — [Wikidata Q346463](https://www.wikidata.org/wiki/Q346463) ⚭ Pythodorida of Pontus, Pythodorida Philometor, N.N. +1 more
+- **Calpurnia** (Q78198) ⚭ Consul (31 BC) - Marcus Valerius Messalla Corvinus (up)
+- **Consul (31 BC) - Marcus Valerius Messalla Corvinus (up)** (Q78201) ⚭ Calpurnia
+- **Aulus Caecinus  Caecinus** (Q78204)
+- **Marcus  Nonius** (Q78207)
+- **Marcus  Servilius** (Q78210)
+- **Marcus  Aedius** (Q78213) ⚭ Grania
+- **Grania** (Q78216) ⚭ Marcus  Aedius
+- **Marcus  Acilius** (Q78219)
+- **Gaius  Calpurnius** (Q78225)
+- **Lucius Plautius Aelianus  Lamia** (Q78234) ⚭ Domitia  Longina
+- **Domitia  Longina** (Q78237) ⚭ Lucius Plautius Aelianus  Lamia
+- **Caecilia-Metella Balearica** (Q78240) ⚭ Appius Claudius Pulcher
+- **Appius Claudius Pulcher** (Q78243) — b. 130 CE, d. 76 CE — [Wikidata Q531923](https://www.wikidata.org/wiki/Q531923) ⚭ Caecilia Metella, Caecilia-Metella Balearica
+- **Herodes** (Q78258)
+- **Acilius Aviola** (Q78261)
+- **Lucius Pinarius** (Q78264) — [Wikidata Q382127](https://www.wikidata.org/wiki/Q382127) ⚭ Julia Caesaris Major
+- **Julia Caesaris Major** (Q78267) ⚭ Lucius Pinarius
+- **Gaius Cassius Longinus** (Q78270) — b. 115 CE, d. 43 CE — [Wikidata Q459857](https://www.wikidata.org/wiki/Q459857)
+- **Marcus Aufidius Lurco** (Q78303) — d. 100 CE — [Wikidata Q745693](https://www.wikidata.org/wiki/Q745693)
+- **Servilia** (Q78306) — [Wikidata Q99671041](https://www.wikidata.org/wiki/Q99671041) ⚭ Marcus Livius Drusus
+- **Aufidia  Claudianus** (Q78312) ⚭ Marcus Livius Drusus  Claudianus
+- **Marcus Livius Drusus  Claudianus** (Q78315) ⚭ Aufidia  Claudianus
+- **Marcus Antonius** (Q78330) — b. 143 CE, d. 87 CE — [Wikidata Q176122](https://www.wikidata.org/wiki/Q176122) ⚭ N.N., NN
+- **Q78402** (Q78402) ⚭ Antiochus IX Cyzicenus, King of Seleucid XX - Antiochus IX Cyzicenus (11496 BC), Ptolemy VIII Physcon +1 more
+- **Ptolemy IX Lathyros** (Q78713) — b. 142 CE, d. 81 CE — [Wikidata Q3340](https://www.wikidata.org/wiki/Q3340) ⚭ Cleopatra Selene of Egypt and Syria, N.N., Q78402 +2 more
+- **Cleopatra Selene I of Egypt** (Q78716) ⚭ Ptolemy X Alexander I (107-88 BC), Antiochus Eusebes Philopater, Antiochus VIII Grypus +1 more
+- **Cleopatra III of Egypt** (Q78719) — b. 161 BCE, d. 101 BCE — [Wikidata Q40003](https://www.wikidata.org/wiki/Q40003) ⚭ Ptolemy VIII Physcon, Ptolemy VI, Ptolemy IX Lathyros
+- **Aemilia  Paula** (Q99342) ⚭ Lucius Cornelius Scipio Asiaticus Aemilianus
+- **NN** (Q99709) ⚭ Archelaus of Cappadocia
+
+## Generation 32 (131 people) — circa 500 CE
+
+- **Pharnabazus II** (Q135437) — b. 500 CE, d. 400 CE — [Wikidata Q458256](https://www.wikidata.org/wiki/Q458256) ⚭ Apama
+- **Apama** (Q135438) — b. 450 CE — [Wikidata Q11906173](https://www.wikidata.org/wiki/Q11906173) ⚭ Pharnabazus II
+- **Cleopatra Selene of Egypt and Syria** (Q135922) — b. 135 CE, d. 69 CE — [Wikidata Q40027](https://www.wikidata.org/wiki/Q40027) ⚭ Ptolemy X Alexander I, Antiochus IX Cyzicenus, Antiochus X Eusebes +2 more
+- **Marcus Lucilius** (Q139727) — [Wikidata Q123700947](https://www.wikidata.org/wiki/Q123700947)
+- **Lucius Julius Caesar** (Q141595) — b. 300 CE, d. 200 CE — [Wikidata Q11544694](https://www.wikidata.org/wiki/Q11544694)
+- **Livia** (Q141604) — [Wikidata Q100782783](https://www.wikidata.org/wiki/Q100782783) ⚭ Publius Rutilius Rufus
+- **Titus Annius Luscus** (Q141607) — b. 196 CE, d. 200 CE — [Wikidata Q3656275](https://www.wikidata.org/wiki/Q3656275)
+- **Lucius Calpurnius Piso Frugi** (Q144275) — b. 182 CE — [Wikidata Q550603](https://www.wikidata.org/wiki/Q550603)
+- **Marcus Aemilius Lepidus** (Q144279) — b. 210 CE, d. 190 CE — [Wikidata Q3625112](https://www.wikidata.org/wiki/Q3625112)
+- **Marcus Servilius** (Q148068) — [Wikidata Q31193394](https://www.wikidata.org/wiki/Q31193394)
+- **Marcus Junius Brutus** (Q148076) — b. 150 CE, d. 82 CE — [Wikidata Q5996354](https://www.wikidata.org/wiki/Q5996354)
+- **Spurius Postumius Albinus Magnus** (Q148110) — b. 150 CE, d. 150 CE — [Wikidata Q1275931](https://www.wikidata.org/wiki/Q1275931)
+- **Lucius Tullius Cicero** (Q151430) — b. 200 CE, d. 100 CE — [Wikidata Q20109059](https://www.wikidata.org/wiki/Q20109059)
+- **Marcus Livius Salinator** (Q151476) — b. 254 CE, d. 191 CE — [Wikidata Q703448](https://www.wikidata.org/wiki/Q703448) ⚭ Calavia
+- **N.N.** (Q49763)
+- **Jannai  HaDavid** (Q51776)
+- **Mastanabal** (Q71771) — b. 150 CE — [Wikidata Q94621](https://www.wikidata.org/wiki/Q94621) ⚭ N.N.
+- **N.N.** (Q71774) ⚭ Mastanabal
+- **Caesennius  Paetus** (Q71840) ⚭ NN (Wife of Caesennius)
+- **NN (Wife of Caesennius)** (Q71852) ⚭ Caesennius  Paetus
+- **Calventius** (Q72499) — b. 200 CE — [Wikidata Q102450912](https://www.wikidata.org/wiki/Q102450912)
+- **Lucius Calpurnius Piso Caesoninus** (Q72505) — b. 200 CE, d. 107 CE — [Wikidata Q334907](https://www.wikidata.org/wiki/Q334907)
+- **Publius Servilius Vatia Isauricus** (Q72508)
+- **Servius Sulpicius  Galba** (Q72520)
+- **Quintus Lutatius Catulus  Capitolinus** (Q72523)
+- **Lucius Mummius  Achaicus** (Q72526)
+- **Quintus Fabius  Maximus** (Q72606)
+- **Cornelia** (Q72609) ⚭ Publius Cornelius  Lentulus
+- **Publius Cornelius  Lentulus** (Q72612) ⚭ Cornelia
+- **Munatius Plancus** (Q72627)
+- **Lucius Cornelius Cinna** (Q72630) — b. 190 CE, d. 158 CE — [Wikidata Q4269998](https://www.wikidata.org/wiki/Q4269998)
+- **Publius Mucius Scaevola** (Q72633) — b. 180 CE, d. 114 CE — [Wikidata Q261441](https://www.wikidata.org/wiki/Q261441) ⚭ NN (Wife of Publius Mucius Scaevola)
+- **NN (Wife of Publius Mucius Scaevola)** (Q72636) ⚭ Publius Mucius Scaevola
+- **Lucius Licinius  Crassus** (Q72639) ⚭ Mucia
+- **Mucia** (Q72642) ⚭ Lucius Licinius  Crassus
+- **Lucilia** (Q72645) ⚭ Sextus Pompeius
+- **Sextus Pompeius** (Q72648) — b. 150 CE, d. 118 CE — [Wikidata Q888910](https://www.wikidata.org/wiki/Q888910) ⚭ Lucilia, Lucilia
+- **Lucius Scribonius Libo** (Q72651)
+- **Marcus Terentius-Varro Lucullus** (Q72654)
+- **Publius Licinius Crassus Dives** (Q72657) — [Wikidata Q656527](https://www.wikidata.org/wiki/Q656527) ⚭ Venuleia
+- **Lucius Caecilius Metellus Dalmaticus** (Q72660) — b. 161 CE, d. 103 CE — [Wikidata Q703362](https://www.wikidata.org/wiki/Q703362) ⚭ N.N., Wife of Lucius Caecilius Metellus Dalmaticus
+- **N.N., Wife of Lucius Caecilius Metellus Dalmaticus** (Q72663) ⚭ Lucius Caecilius Metellus Dalmaticus
+- **Lucius Cornelius Sulla** (Q72666) — d. 120 CE — [Wikidata Q12119006](https://www.wikidata.org/wiki/Q12119006) ⚭ NN (Wife of Lucius Cornelius Sulla)
+- **NN (Wife of Lucius Cornelius Sulla)** (Q72669) ⚭ Lucius Cornelius Sulla
+- **Quintus Sulpicius Rufus** (Q72672)
+- **Decimus Junius Silanus Manlianus** (Q72675) — d. 140 CE — [Wikidata Q11917891](https://www.wikidata.org/wiki/Q11917891)
+- **Lucius Quinctius  Claudus** (Q72678)
+- **Gaius  Atilius** (Q72681)
+- **Marcus Porcius Cato** (Q72684) — [Wikidata Q1372970](https://www.wikidata.org/wiki/Q1372970) ⚭ Livia
+- **Lucius Calpurnius Piso Caesonius** (Q72741)
+- **Junia** (Q72744) — b. 123 CE — [Wikidata Q11929531](https://www.wikidata.org/wiki/Q11929531) ⚭ Gaius Claudius Marcellus
+- **Gaius Claudius Marcellus** (Q72747) — b. 125 BCE, d. 44 BCE — [Wikidata Q857036](https://www.wikidata.org/wiki/Q857036) ⚭ Junia
+- **Publius Quintilius Varus** (Q72750)
+- **Publius  Lentulus** (Q72753)
+- **Cornelia Sull** (Q72756) ⚭ Lucius Julius Caesar, IV
+- **Lucius Julius Caesar, IV** (Q72759) ⚭ Cornelia Sull
+- **Herius Asinius** (Q72762) — b. 200 CE, d. 90 CE — [Wikidata Q764874](https://www.wikidata.org/wiki/Q764874)
+- **Titus Pomponius** (Q72765) — [Wikidata Q7810326](https://www.wikidata.org/wiki/Q7810326) ⚭ Caecilia
+- **Caecilia** (Q72768) — [Wikidata Q104790915](https://www.wikidata.org/wiki/Q104790915) ⚭ Titus Pomponius
+- **Marcus Pilius** (Q72771) — [Wikidata Q104671723](https://www.wikidata.org/wiki/Q104671723) ⚭ Licinia Crassa  Pilius
+- **Licinia Crassa  Pilius** (Q72774) ⚭ Marcus Pilius
+- **Marcus Aemilius Lepidus** (Q72786) ⚭ NN (Wife of Marcus Aemilius Lepidus)
+- **NN (Wife of Marcus Aemilius Lepidus)** (Q72789) ⚭ Marcus Aemilius Lepidus
+- **Quintus Servilius Caepio** (Q72792) — b. 150 CE, d. 160 CE — [Wikidata Q463000](https://www.wikidata.org/wiki/Q463000) ⚭ Caecilia Metella
+- **Caecilia Metella** (Q72795) — [Wikidata Q99844311](https://www.wikidata.org/wiki/Q99844311) ⚭ Quintus Servilius Caepio
+- **Marcus Livius Drusus** (Q72798) — b. 155 CE, d. 109 CE — [Wikidata Q703346](https://www.wikidata.org/wiki/Q703346) ⚭ Cornelia, Calavia  Drusus
+- **Cornelia** (Q72801) — [Wikidata Q100804879](https://www.wikidata.org/wiki/Q100804879) ⚭ Marcus Livius Drusus, Marcus Aemilius Lepidus, Q73284
+- **Quintus Caecilius Metellus Macedonicus** (Q72858) — b. 200 CE, d. 115 CE — [Wikidata Q355768](https://www.wikidata.org/wiki/Q355768) ⚭ N.N., Wife of Quintus Caecilius Metellus Macedonicus
+- **N.N., Wife of Quintus Caecilius Metellus Macedonicus** (Q72861) ⚭ Quintus Caecilius Metellus Macedonicus
+- **Cleopatra of Pontus** (Q72900) — b. 200 CE, d. 100 CE — [Wikidata Q461784](https://www.wikidata.org/wiki/Q461784) ⚭ Tigranes the Great
+- **Tigranes the Great** (Q72903) — b. 140 CE, d. 55 CE — [Wikidata Q201303](https://www.wikidata.org/wiki/Q201303) ⚭ Cleopatra of Pontus
+- **Marcus Atius Balbus** (Q73023) — b. 148 CE, d. 87 CE — [Wikidata Q12286061](https://www.wikidata.org/wiki/Q12286061) ⚭ Pompeia, Lucilia
+- **Gaius Octavius** (Q73032) — [Wikidata Q11923627](https://www.wikidata.org/wiki/Q11923627)
+- **Cleopatra III of Egypt** (Q73035) — [Wikidata Q40003](https://www.wikidata.org/wiki/Q40003) ⚭ Ptolemy VIII Physcon, Ptolemy VI
+- **Ptolemy VIII Physcon** (Q73038) — [Wikidata Q3350](https://www.wikidata.org/wiki/Q3350) ⚭ Eirene, Cleopatra III of Egypt, Cleopatra II of Egypt +2 more
+- **Demetrius II Nicator** (Q73041) — b. 161 CE, d. 125 CE — [Wikidata Q309719](https://www.wikidata.org/wiki/Q309719) ⚭ Rhodogune of Parthia, Apama, Rhodogune +1 more
+- **Cleopatra Thea** (Q73044) — b. 164 CE, d. 121 CE — [Wikidata Q231682](https://www.wikidata.org/wiki/Q231682) ⚭ Alexandros Balas, Antiochus VII Sidetes, Ἀντίοχος +1 more
+- **Ptolemaeus of Commagene** (Q73047) — b. 250 CE, d. 130 CE — [Wikidata Q557215](https://www.wikidata.org/wiki/Q557215)
+- **Lucius Julius Caesar** (Q73071) — b. 200 CE — [Wikidata Q888672](https://www.wikidata.org/wiki/Q888672) ⚭ Popillia
+- **Popillia** (Q73074) — b. 200 CE — [Wikidata Q3623564](https://www.wikidata.org/wiki/Q3623564) ⚭ Quintus Lutatius Catulus, Lucius Julius Caesar
+- **Venuleia** (Q73098) ⚭ Publius Licinius Crassus Dives, Publius Licinius Crassus Dives (consul 97 BC)
+- **Marcus Aemilius Lepidus, Consul** (Q73173)
+- **Cleopatra II of Egypt** (Q73194) — b. 187 CE, d. 116 CE — [Wikidata Q40247](https://www.wikidata.org/wiki/Q40247) ⚭ Ptolemy VIII Physcon, Ptolemy VI
+- **Ptolemy VI** (Q73197) — b. 184 CE, d. 145 CE — [Wikidata Q39952](https://www.wikidata.org/wiki/Q39952) ⚭ Eirene, Cleopatra III of Egypt, Cleopatra II of Egypt +1 more
+- **Marcus Fulvius Flaccus** (Q73248)
+- **Sempronius Tuditanus** (Q73251)
+- **Q73284** (Q73284) ⚭ Cornelia, Calavia  Drusus
+- **Sextus Julius Caesar** (Q73389) — b. 250 CE — [Wikidata Q2463039](https://www.wikidata.org/wiki/Q2463039)
+- **Quintus Marcius Rex** (Q73488) — b. 300 CE, d. 200 CE — [Wikidata Q94524209](https://www.wikidata.org/wiki/Q94524209)
+- **Gaius Aurelius Cotta** (Q73716)
+- **Philostratos  Meliteos** (Q78273) ⚭ ?
+- **?** (Q78276) ⚭ Philostratos  Meliteos
+- **Athenagoras II Meliteus** (Q78279) ⚭ ?
+- **?** (Q78282) ⚭ Athenagoras II Meliteus
+- **Medeios** (Q78285) ⚭ Timothea  Melitea
+- **Timothea  Melitea** (Q78288) ⚭ Medeios
+- **Agathokles Lysiadou  Berenikides** (Q78291) ⚭ ?
+- **?** (Q78294) ⚭ Agathokles Lysiadou  Berenikides
+- **Xenokles  Acharneus** (Q78297) ⚭ ?
+- **?** (Q78300) ⚭ Xenokles  Acharneus
+- **Attalid** (Q78333) ⚭ Attalus Philometor Euergetes
+- **Attalus Philometor Euergetes** (Q78336) ⚭ Berenice ., Attalid
+- **Alexander of Judaea** (Q78342) — b. 80 BCE, d. 49 BCE — [Wikidata Q636434](https://www.wikidata.org/wiki/Q636434) ⚭ Alexandra the Maccabee
+- **Alexandra the Maccabee** (Q78345) — b. 100 CE, d. 29 CE — [Wikidata Q446110](https://www.wikidata.org/wiki/Q446110) ⚭ Alexander of Judaea
+- **Antipater the Idumaean** (Q78348) — b. 113 BCE, d. 43 BCE — [Wikidata Q319075](https://www.wikidata.org/wiki/Q319075) ⚭ Cypros
+- **Cypros** (Q78351) — [Wikidata Q2583477](https://www.wikidata.org/wiki/Q2583477) ⚭ Antipater the Idumaean, Antipater the Idumaean
+- **Artavasdes II, king of Armenia** (Q78354) ⚭ N.N.
+- **N.N.** (Q78357) ⚭ Artavasdes II, king of Armenia
+- **Archelaus** (Q78360) — b. 100 CE, d. 100 CE — [Wikidata Q632585](https://www.wikidata.org/wiki/Q632585) ⚭ Glaphyra
+- **Glaphyra** (Q78363) — b. 100 CE — [Wikidata Q542658](https://www.wikidata.org/wiki/Q542658) ⚭ Archelaus
+- **Polla  ???** (Q78366) ⚭ Consul (61 BC) - Marcus Valerius Messalla Niger (Up)
+- **Consul (61 BC) - Marcus Valerius Messalla Niger (Up)** (Q78369) ⚭ Polla  ???
+- **Aulus Caecinus Severus** (Q78372)
+- **Marcus  Nonius** (Q78375)
+- **Gaius  Servilius** (Q78378)
+- **Flavonia Polla** (Q78381) ⚭ Marcus  Granius
+- **Marcus  Granius** (Q78384) ⚭ Flavonia Polla
+- **Gaius Memmius (up)  Memmius** (Q78387)
+- **Quintus Caecilius Metellus Balearicus** (Q78390)
+- **Appius Claudius Pulcher** (Q78393) — d. 133 CE — [Wikidata Q445785](https://www.wikidata.org/wiki/Q445785) ⚭ Antistia, Antistia  de Rome
+- **Antistia  de Rome** (Q78396) ⚭ Appius Claudius Pulcher, Gaius Claudius Pulcher, Consul (143 BC) - Appius Claudius Pulcher
+- **Eukles** (Q78405)
+- **Acilius Memmius Glabrio** (Q78408)
+- **Lucius Cassius Longinus** (Q78423) — b. 151 CE, d. 107 CE — [Wikidata Q553282](https://www.wikidata.org/wiki/Q553282)
+- **Cornelia  Scipionis** (Q78450) ⚭ Marcus Livius maior  Drusus
+- **Marcus Livius maior  Drusus** (Q78453) ⚭ Cornelia  Scipionis
+- **Appius Claudius Nero** (Q78456) — [Wikidata Q111309337](https://www.wikidata.org/wiki/Q111309337)
+- **Marcus Antonius** (Q78465) — b. 200 CE — [Wikidata Q94697095](https://www.wikidata.org/wiki/Q94697095)
+- **Calavia  Drusus** (Q78746) ⚭ Marcus Livius Drusus, Q73284, Marcus  Drusus
+- **Lucius Aemilius  Paullus consul** (Q99350)
+- **Antipater the Idumaean** (Q99725) — b. 148 CE — [Wikidata Q319075](https://www.wikidata.org/wiki/Q319075) ⚭ Cypros
+
+## Generation 33 (122 people) — circa 500 CE
+
+- **Pharnaces II of Phrygia** (Q135538) — b. 500 CE, d. 460 CE — [Wikidata Q627458](https://www.wikidata.org/wiki/Q627458)
+- **Lucius Julius Caesar** (Q144027) — b. 300 CE — [Wikidata Q89588511](https://www.wikidata.org/wiki/Q89588511)
+- **Quintus Caecilius Metellus** (Q144060) — b. 245 CE, d. 175 CE — [Wikidata Q929498](https://www.wikidata.org/wiki/Q929498)
+- **Marcus Junius Brutus** (Q144121) — [Wikidata Q11935165](https://www.wikidata.org/wiki/Q11935165)
+- **Titus Annius Luscus** (Q144273) — b. 300 CE, d. 200 CE — [Wikidata Q11951954](https://www.wikidata.org/wiki/Q11951954)
+- **Lucius Calpurnius Piso Cesoninus** (Q144282) — d. 148 CE — [Wikidata Q334915](https://www.wikidata.org/wiki/Q334915)
+- **Antipater** (Q144298) — b. 148 CE — [Wikidata Q9158150](https://www.wikidata.org/wiki/Q9158150)
+- **NN, ruler of Nabateia** (Q144299) — [Wikidata Q112607046](https://www.wikidata.org/wiki/Q112607046)
+- **Gratidia** (Q148200) — [Wikidata Q19714893](https://www.wikidata.org/wiki/Q19714893) ⚭ Marcus Tullius Cicero
+- **Lucius Calpurnius Piso** (Q148208) — b. 300 CE — [Wikidata Q11934044](https://www.wikidata.org/wiki/Q11934044)
+- **Marcus Aemilius Lepidus** (Q148210) — b. 230 CE, d. 152 CE — [Wikidata Q319561](https://www.wikidata.org/wiki/Q319561)
+- **Marcus Servilius Pulex Geminus** (Q151494) — d. 175 CE — [Wikidata Q1165004](https://www.wikidata.org/wiki/Q1165004)
+- **Marcus Tullius Cicero** (Q151513) — b. 200 CE, d. 106 CE — [Wikidata Q20109060](https://www.wikidata.org/wiki/Q20109060) ⚭ Gratidia
+- **Decimus Iunius Silanus** (Q151527) — [Wikidata Q1215347](https://www.wikidata.org/wiki/Q1215347)
+- **Marcus Livius Salinator** (Q151591) — b. 300 CE — [Wikidata Q106454474](https://www.wikidata.org/wiki/Q106454474)
+- **Lucius Cassius Longinus Ravilla** (Q151638) — b. 170 CE, d. 150 CE — [Wikidata Q289392](https://www.wikidata.org/wiki/Q289392)
+- **N.N.** (Q49799)
+- **Joseph  HaDavid** (Q51772)
+- **Massinissa** (Q71786) — b. 238 CE, d. 148 CE — [Wikidata Q314685](https://www.wikidata.org/wiki/Q314685) ⚭ Sophonisba
+- **Lucius Caesennius Lento** (Q72365) — [Wikidata Q6697484](https://www.wikidata.org/wiki/Q6697484) ⚭ NN (Wife of Lucius Caesennius Lento)
+- **NN (Wife of Lucius Caesennius Lento)** (Q72368) ⚭ Lucius Caesennius Lento
+- **Gaius Servilius Vatia** (Q72690) ⚭ Caecilia Metella
+- **Quintus Lutatius  Catulus** (Q72702)
+- **Lucius Mummius  Achaicus** (Q72705)
+- **Quintus Fabius Maximus  Allobrogicus** (Q72777)
+- **Publius Cornelius Scipio  Serapio** (Q72780)
+- **Publius Cornelius  Lentulus** (Q72783)
+- **Munatius  Plancus** (Q72804)
+- **Publius Mucius Scaevola** (Q72807) — b. 300 CE, d. 200 CE — [Wikidata Q2066659](https://www.wikidata.org/wiki/Q2066659) ⚭ Licinia
+- **Licinia** (Q72810) — [Wikidata Q12284962](https://www.wikidata.org/wiki/Q12284962) ⚭ Publius Mucius Scaevola
+- **Laelia Major  Sapiens** (Q72813) ⚭ Quintus Mucius  Scaevola
+- **Quintus Mucius  Scaevola** (Q72816) ⚭ Laelia Major  Sapiens
+- **Gaius Lucilius Hirrus** (Q72819)
+- **Gnaeus Pompeius** (Q72822) — [Wikidata Q123700081](https://www.wikidata.org/wiki/Q123700081)
+- **Lucius  Licinius-Lucullus** (Q72825)
+- **Marcus  Terentius-Varro** (Q72828)
+- **Marcus Licinius Crassus** (Q72831) — b. 150 CE — [Wikidata Q19715630](https://www.wikidata.org/wiki/Q19715630) ⚭ N.N.
+- **Lucius Caecilius Metellus Calvus** (Q72834) — b. 200 CE, d. 200 CE — [Wikidata Q703354](https://www.wikidata.org/wiki/Q703354) ⚭ NN (Wife of Lucius Caecilius Metellus Calvus)
+- **NN (Wife of Lucius Caecilius Metellus Calvus)** (Q72837) ⚭ Lucius Caecilius Metellus Calvus
+- **Publius Cornelius Sulla** (Q72840) — [Wikidata Q3621973](https://www.wikidata.org/wiki/Q3621973) ⚭ NN (Wife of Publius Cornelius Sulla)
+- **NN (Wife of Publius Cornelius Sulla)** (Q72843) ⚭ Publius Cornelius Sulla
+- **Quintus Sulpicius Rufus** (Q72846)
+- **Titus Manlius  Torquatus** (Q72849)
+- **Kaeso Quinctius  Claudus** (Q72852)
+- **Marcus Porcius Cato Salonianus** (Q72855) — [Wikidata Q1181865](https://www.wikidata.org/wiki/Q1181865)
+- **Lucius Calpurnius Piso Caesonius** (Q72906)
+- **Decimus Junius Brutus Callaicus** (Q72909) — b. 181 CE, d. 113 CE — [Wikidata Q718090](https://www.wikidata.org/wiki/Q718090) ⚭ Clodia
+- **Clodia** (Q72912) — [Wikidata Q112085883](https://www.wikidata.org/wiki/Q112085883) ⚭ Publius Licinius Crassus Dives Mucianus, Decimus Junius Brutus Callaicus
+- **Marcus Claudius Marcellus** (Q72915) — b. 177 CE, d. 137 CE — [Wikidata Q4281781](https://www.wikidata.org/wiki/Q4281781)
+- **Quintilius Varus** (Q72918)
+- **Julia Caesaris** (Q72921) ⚭ Sulla
+- **Axia Tertulla  Lucullus** (Q72930) ⚭ Marcus Licinius Crassus
+- **Marcus Licinius Crassus** (Q72933) ⚭ Axia Tertulla  Lucullus
+- **Quintus Servilius Caepio** (Q72948) — b. 183 CE — [Wikidata Q1243849](https://www.wikidata.org/wiki/Q1243849)
+- **Gaius Livius Drusus** (Q72951) — b. 250 CE, d. 250 CE — [Wikidata Q1270114](https://www.wikidata.org/wiki/Q1270114) ⚭ Julia Caesaris  Drusus
+- **Julia Caesaris  Drusus** (Q72954) ⚭ Gaius Livius Drusus, Marcus Livius Drusus
+- **Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio** (Q72957) — b. 182 BCE, d. 132 BCE
+- **Quintus Caecilius Metellus** (Q72984)
+- **Marcus Aemilius Lepidus** (Q73011) — [Wikidata Q3622705](https://www.wikidata.org/wiki/Q3622705) ⚭ Cornelia
+- **Pacuvius Calavius  Calavius** (Q73017) ⚭ Claudia  Pulcher, Claudia  Pulcher
+- **Laodice** (Q73050) — b. 200 CE, d. 160 CE — [Wikidata Q446544](https://www.wikidata.org/wiki/Q446544) ⚭ Ἀριαράθης, Νικομήδης, Mithridates VI of Pontus
+- **Mithridates VI of Pontus** (Q73053) — b. 134 CE, d. 63 CE — [Wikidata Q185126](https://www.wikidata.org/wiki/Q185126) ⚭ Monime, Hypsicratea, Berenice of Chios +11 more
+- **Tigranes I** (Q73056) — b. 150 BCE, d. 95 BCE — [Wikidata Q598373](https://www.wikidata.org/wiki/Q598373)
+- **NN (Wife of Marcus Aemilius Lepidus)** (Q73110) ⚭ Marcus Aemilius Lepidus
+- **Marcus Aemilius Lepidus** (Q73113) ⚭ NN (Wife of Marcus Aemilius Lepidus)
+- **Attius** (Q73176)
+- **Gaius Octavius** (Q73191) — [Wikidata Q11007600](https://www.wikidata.org/wiki/Q11007600)
+- **Ptolemy V Epiphanes** (Q73200) — [Wikidata Q39957](https://www.wikidata.org/wiki/Q39957) ⚭ Cleopatra I Syra
+- **Cleopatra I Syra** (Q73203) — [Wikidata Q40252](https://www.wikidata.org/wiki/Q40252) ⚭ Ptolemy V Epiphanes
+- **Demetrius I Soter** (Q73206) — b. 187 CE, d. 150 CE — [Wikidata Q296304](https://www.wikidata.org/wiki/Q296304) ⚭ Apama ., Laodice V
+- **Laodice V** (Q73209) — b. 150 CE, d. 200 CE — [Wikidata Q433363](https://www.wikidata.org/wiki/Q433363) ⚭ Perseus of Macedon, Demetrius I Soter
+- **Orontes IV** (Q73212) — b. 300 CE, d. 200 CE — [Wikidata Q1382437](https://www.wikidata.org/wiki/Q1382437)
+- **Sextus Julius Caesar** (Q73239) — b. 201 CE — [Wikidata Q615040](https://www.wikidata.org/wiki/Q615040) ⚭ Popilia  Laenates
+- **Popilia  Laenates** (Q73242) ⚭ Sextus Julius Caesar
+- **Popillius  Laenas** (Q73245)
+- **Marcus Aemilius Lepidus** (Q73335)
+- **Quintus Flaccus** (Q73392) ⚭ Sulpicia
+- **Sulpicia** (Q73395) ⚭ Quintus Flaccus
+- **Gaius Sempronius  Tuditanus** (Q73398)
+- **Pacuvius Calavius** (Q73425) ⚭ Claudia  Pulcher
+- **Claudia  Pulcher** (Q73428) ⚭ Pacuvius Calavius  Calavius, Pacuvius Calavius
+- **Marcus Livius Drusus** (Q73431) ⚭ Julia Caesaris  Drusus
+- **Cornelia Cinna Minor** (Q73524) ⚭ Lucius Julius Caesar, I
+- **Lucius Julius Caesar, I** (Q73527) ⚭ Cornelia Cinna Minor
+- **Marcus Marcius** (Q73608) — b. 300 CE, d. 210 CE — [Wikidata Q94523629](https://www.wikidata.org/wiki/Q94523629)
+- **Lucius Aurelius Cotta** (Q73818)
+- **Gaius Servilius** (Q73910)
+- **Artaxerxes II of Persia** (Q74013) — b. 453 CE, d. 358 CE — [Wikidata Q188472](https://www.wikidata.org/wiki/Q188472) ⚭ Stateira, Atossa, Aspasia the Younger +2 more
+- **Aulus Caecinus Largus** (Q77934)
+- **Athenagoras I Meliteus** (Q78426) ⚭ ?
+- **?** (Q78429) ⚭ Athenagoras I Meliteus
+- **Philippe** (Q78432) ⚭ Lysander
+- **Lysander** (Q78435) ⚭ Philippe
+- **Glaucus** (Q78438)
+- **Lysiades  Berenikides** (Q78441) ⚭ ?
+- **?** (Q78444) ⚭ Lysiades  Berenikides
+- **Sophocles** (Q78447)
+- **Eumenes II, king of Pergamon** (Q78468) ⚭ NN (2nd Wife of Eumenes II), Stratonice
+- **Stratonice** (Q78471) ⚭ Attalus Philadelphus ., Eumenes II, king of Pergamon
+- **Aristobulus II** (Q78480) — b. 100 CE, d. 49 CE — [Wikidata Q359679](https://www.wikidata.org/wiki/Q359679) ⚭ Salome bat Absalom
+- **Salome bat Absalom** (Q78483) — [Wikidata Q112607050](https://www.wikidata.org/wiki/Q112607050) ⚭ Aristobulus II
+- **Hyrcanus II** (Q78486) — b. 110 CE, d. 30 BCE — [Wikidata Q359684](https://www.wikidata.org/wiki/Q359684) ⚭ wife, Hyrcanus II  Hasmonean
+- **wife, Hyrcanus II  Hasmonean** (Q78489) ⚭ Hyrcanus II
+- **Archelaus** (Q78495) — b. 100 CE, d. 55 CE — [Wikidata Q632595](https://www.wikidata.org/wiki/Q632595) ⚭ Berenice IV of Egypt, Berenice
+- **Berenice** (Q78498) ⚭ Selueucus VII Kybiosaktes ., Archelaus
+- **Marcus  Valerius** (Q78501)
+- **Sextus  Nonius** (Q78504)
+- **Marcus  Granius** (Q78507) ⚭ Oppidia Rufa
+- **Oppidia Rufa** (Q78510) ⚭ Marcus  Granius
+- **Gaius Memmius (up)  Memmius** (Q78513) ⚭ Cornelia Fausta
+- **Cornelia Fausta** (Q78516) ⚭ Gaius Memmius (up)  Memmius
+- **Gaius Claudius Pulcher** (Q78525) — b. 220 CE, d. 167 CE — [Wikidata Q779957](https://www.wikidata.org/wiki/Q779957) ⚭ Antistia  de Rome
+- **Consul (143 BC) - Appius Claudius Pulcher** (Q78528) ⚭ Antistia  de Rome
+- **Herodes** (Q78537)
+- **Memmius** (Q78540)
+- **Gaius Cassius Longinus** (Q78552)
+- **Gaius Livius  Drusus** (Q78561)
+- **Tiberius Claudius  Caecus** (Q78564)
+- **Marcus Antonius** (Q78576) — b. 200 CE — [Wikidata Q12286050](https://www.wikidata.org/wiki/Q12286050)
+- **N.N.** (Q78675) ⚭ Marcus Licinius Crassus
+- **Ithobaal  Banu Adnan** (Q86403)
+- **Herodes** (Q99727)
+
+## Generation 34 (113 people) — circa 500 CE
+
+- **Pharnabazos I, Satrap of Phrygia** (Q135403) — b. 500 CE, d. 500 CE — [Wikidata Q147164](https://www.wikidata.org/wiki/Q147164)
+- **Marcus Claudius Marcellus** (Q141470) — b. 208 CE, d. 148 CE — [Wikidata Q521485](https://www.wikidata.org/wiki/Q521485)
+- **Marcus Junius Brutus** (Q141473) — b. 1000 CE — [Wikidata Q11935164](https://www.wikidata.org/wiki/Q11935164)
+- **Marcus Caecilius Metellus** (Q148066) — b. 238 CE, d. 200 CE — [Wikidata Q897091](https://www.wikidata.org/wiki/Q897091)
+- **Gratidius** (Q148199) — b. 200 CE — [Wikidata Q92430378](https://www.wikidata.org/wiki/Q92430378)
+- **Q148206** (Q148206)
+- **Marcus Annius** (Q148207) — b. 260 CE — [Wikidata Q12296374](https://www.wikidata.org/wiki/Q12296374)
+- **Gaius Calpurnius Piso** (Q148211) — b. 230 CE, d. 180 CE — [Wikidata Q776877](https://www.wikidata.org/wiki/Q776877) ⚭ Quarta Hostilia
+- **Quarta Hostilia** (Q148212) — b. 250 CE — [Wikidata Q3656043](https://www.wikidata.org/wiki/Q3656043) ⚭ Gaius Calpurnius Piso, Gnaeus Fulvius Flaccus, Gnaeus Calpurnius
+- **Gaius Calpurnius Piso** (Q151566) — b. 251 CE — [Wikidata Q857028](https://www.wikidata.org/wiki/Q857028)
+- **Gaius Servilius Geminus** (Q151607) — b. 300 CE, d. 260 CE — [Wikidata Q1491524](https://www.wikidata.org/wiki/Q1491524)
+- **Decimus Junius Silanus** (Q151635) — [Wikidata Q102390583](https://www.wikidata.org/wiki/Q102390583)
+- **Marcus Livius Drusus** (Q151683) — [Wikidata Q47453273](https://www.wikidata.org/wiki/Q47453273)
+- **Quintus Cassius Longinus** (Q151716) — b. 207 CE, d. 164 CE — [Wikidata Q1952825](https://www.wikidata.org/wiki/Q1952825)
+- **Mattathias ben Amos  HaDavid** (Q51768)
+- **Gaya** (Q71807) — b. 250 CE, d. 207 CE — [Wikidata Q1275953](https://www.wikidata.org/wiki/Q1275953)
+- **Caesennius (b.: c. 125 BC)  Caesennius** (Q72552)
+- **Marcus Servilius** (Q72864)
+- **Popilia  Calavius** (Q72870)
+- **Quintus Fabius Maximus  Aemilianus** (Q72936)
+- **Lucius Cornelius Lentulus  Lupus** (Q72939)
+- **Munatius  Plancus** (Q72960)
+- **Quintus Mucius Scaevola** (Q72963) — [Wikidata Q939045](https://www.wikidata.org/wiki/Q939045) ⚭ Lincinia  Varus
+- **Lincinia  Varus** (Q72966) ⚭ Quintus Mucius Scaevola
+- **NN (Wife of Gaius Licinius Varus)** (Q72969) ⚭ Publius Licinius Crassus Dives, Publius Licinius Crassus
+- **Publius Licinius Crassus Dives** (Q72972) — [Wikidata Q29518656](https://www.wikidata.org/wiki/Q29518656) ⚭ NN (Wife of Gaius Licinius Varus)
+- **Gaius Lucilius Pupinia** (Q72975)
+- **Lucius  Licinius-Lucullus** (Q72978)
+- **Publius Licinius Crassus** (Q72981) — b. 300 CE, d. 150 CE — [Wikidata Q20100913](https://www.wikidata.org/wiki/Q20100913) ⚭ NN (Wife of Publius Licinius Crassus), N.N.
+- **Publius Cornelius Sulla** (Q72987) — [Wikidata Q1793966](https://www.wikidata.org/wiki/Q1793966) ⚭ NN (Wife of Publius Cornelius Sulla)
+- **NN (Wife of Publius Cornelius Sulla)** (Q72990) ⚭ Publius Cornelius Sulla
+- **Quintus Sulpicius Rufus** (Q72993)
+- **Aulus Manlius  Torquatus** (Q72996)
+- **Lucius Quinctius  Capitolinus** (Q72999)
+- **Salonia** (Q73002) — [Wikidata Q435959](https://www.wikidata.org/wiki/Q435959) ⚭ Cato the Elder
+- **Cato the Elder** (Q73005) — b. 234 BCE, d. 149 BCE — [Wikidata Q180081](https://www.wikidata.org/wiki/Q180081) ⚭ Salonia, Licinia
+- **Marcus Junius Brutus** (Q73059) — b. 221 CE, d. 164 CE — [Wikidata Q3656292](https://www.wikidata.org/wiki/Q3656292)
+- **Marcus Claudius  Marcellus** (Q73062)
+- **Gaius Claudius Marcus  Marcellus** (Q73065)
+- **Publius Quintilius Varus** (Q73068)
+- **Publius Licinius Crassus Dives (consul 97 BC)** (Q73083) ⚭ Venuleia
+- **Gnaeus Servilius Caepio** (Q73116) — b. 215 CE, d. 200 CE — [Wikidata Q868070](https://www.wikidata.org/wiki/Q868070)
+- **Q73122** (Q73122) ⚭ Gaius Julius of Rome Julius  of Rome
+- **Gaius Julius of Rome Julius  of Rome** (Q73125) ⚭ Q73122
+- **Publius Cornelius Scipio Nasica Corculum** (Q73128) — b. 205 CE, d. 141 CE — [Wikidata Q503320](https://www.wikidata.org/wiki/Q503320) ⚭ Cornelia Africana Major, Q99368
+- **Cornelia Africana Major** (Q73131) — b. 201 CE — [Wikidata Q5171151](https://www.wikidata.org/wiki/Q5171151) ⚭ Publius Cornelius Scipio Nasica Corculum
+- **Lucius Caecilius Metellus** (Q73146) — d. 221 CE — [Wikidata Q359810](https://www.wikidata.org/wiki/Q359810)
+- **Mithridates V of Pontus** (Q73215) — b. 200 CE, d. 120 CE — [Wikidata Q373015](https://www.wikidata.org/wiki/Q373015) ⚭ Laodice VI
+- **Laodice VI** (Q73218) — b. 200 CE, d. 110 CE — [Wikidata Q269928](https://www.wikidata.org/wiki/Q269928) ⚭ Mithridates V of Pontus
+- **Satenik** (Q73221) — [Wikidata Q3850963](https://www.wikidata.org/wiki/Q3850963) ⚭ Artaxias I of Armenia
+- **Artaxias I of Armenia** (Q73224) — d. 160 CE — [Wikidata Q319478](https://www.wikidata.org/wiki/Q319478) ⚭ Satenik
+- **Marcus Aemilius Lepidus** (Q73275) — [Wikidata Q4281819](https://www.wikidata.org/wiki/Q4281819) ⚭ NN (Wife of Marcus Aemilius Lepidus)
+- **NN (Wife of Marcus Aemilius Lepidus)** (Q73278) ⚭ Marcus Aemilius Lepidus, Marcus Aemilius Lepidus
+- **Gnaeus Octavius Rufus** (Q73350) — b. 300 CE — [Wikidata Q1533143](https://www.wikidata.org/wiki/Q1533143)
+- **Arsinoe III of Egypt** (Q73353) — b. 246 CE, d. 204 CE — [Wikidata Q40258](https://www.wikidata.org/wiki/Q40258) ⚭ Ptolemy IV Philopator
+- **Ptolemy IV Philopator** (Q73356) — b. 244 CE, d. 204 CE — [Wikidata Q39595](https://www.wikidata.org/wiki/Q39595) ⚭ Bernice III Cleopatra Philopater, Agathoclea, Arsinoe III of Egypt
+- **Laodice III** (Q73359) — b. 300 CE, d. 200 CE — [Wikidata Q237642](https://www.wikidata.org/wiki/Q237642) ⚭ Achaeus Syria, Antiochus III the Great
+- **Antiochus III the Great** (Q73362) — b. 242 CE, d. 187 CE — [Wikidata Q3365](https://www.wikidata.org/wiki/Q3365) ⚭ Euboea of Chalcis, Euboea ., Laodice III
+- **Seleucus IV Philopator** (Q73365) — b. 217 CE, d. 175 CE — [Wikidata Q3362](https://www.wikidata.org/wiki/Q3362) ⚭ Laodice IV
+- **Laodice IV** (Q73368) — b. 200 CE, d. 200 CE — [Wikidata Q451082](https://www.wikidata.org/wiki/Q451082) ⚭ Q135914, Seleucus IV Philopator, BAD MERGE
+- **Arsames I** (Q73371) — d. 228 CE — [Wikidata Q1290772](https://www.wikidata.org/wiki/Q1290772)
+- **Marcus Aemilius Lepidus** (Q73419) ⚭ NN (Wife of Marcus Aemilius Lepidus), NN (Wife of Marcus Aemilius Lepidus)
+- **Marcus Aemilius Barbula, Dictator** (Q73482)
+- **Marcus Flaccus** (Q73530)
+- **Servius Sulpicius Paterculus** (Q73533)
+- **Sempronius  Tudianus** (Q73536)
+- **Publius Claudius Pulcher** (Q73563) — [Wikidata Q435404](https://www.wikidata.org/wiki/Q435404) ⚭ Servilia Caepionis
+- **Servilia Caepionis** (Q73566) ⚭ Publius Claudius Pulcher
+- **Numerius Julius Caesar** (Q73650)
+- **Quintus Marcius Philippus** (Q73719)
+- **Lucius Julius Libo** (Q73866) — d. 300 CE — [Wikidata Q324602](https://www.wikidata.org/wiki/Q324602) ⚭ Caecilia Metella Macedonica
+- **Gaius Aurelius Cotta** (Q73916)
+- **Appius Claudius Crassus Inregillensis** (Q73970) — b. 350 CE, d. 349 CE — [Wikidata Q657609](https://www.wikidata.org/wiki/Q657609)
+- **Quintus Servilius** (Q73985)
+- **Darius II** (Q74067) — b. 475 CE, d. 404 CE — [Wikidata Q202236](https://www.wikidata.org/wiki/Q202236) ⚭ Parysatis
+- **Parysatis** (Q74070) — b. 440 CE, d. 385 CE — [Wikidata Q237851](https://www.wikidata.org/wiki/Q237851) ⚭ Darius II
+- **Aulus Caecinus** (Q78087) ⚭ Caesennia Paetina
+- **Caesennia Paetina** (Q78090) ⚭ Aulus Caecinus
+- **Charmides** (Q78555)
+- **Leon** (Q78558)
+- **Marcus Licinius  Lucullus** (Q78567)
+- **Apollonis  of Cyzicus** (Q78579) ⚭ Attalus I, king of Pergamon
+- **Attalus I, king of Pergamon** (Q78582) ⚭ Boa Paphlagonian, Apollonis  of Cyzicus
+- **Antiochis** (Q78585) ⚭ Ariarathes IV, king of Cappadocia
+- **Ariarathes IV, king of Cappadocia** (Q78588) ⚭ Antiochis
+- **Alexander Jannaeus** (Q78591) — b. 127 CE, d. 76 CE — [Wikidata Q319107](https://www.wikidata.org/wiki/Q319107) ⚭ Salome Alexandra
+- **Salome Alexandra** (Q78594) — b. 140 CE, d. 67 CE — [Wikidata Q266591](https://www.wikidata.org/wiki/Q266591) ⚭ Aristobulus I, Alexander Jannaeus
+- **Absalom ben Johanan** (Q78597) — [Wikidata Q112607052](https://www.wikidata.org/wiki/Q112607052)
+- **Herodes  Edomites** (Q78600)
+- **Archelaus** (Q78603) — [Wikidata Q360787](https://www.wikidata.org/wiki/Q360787) ⚭ N.N.
+- **N.N.** (Q78606) ⚭ Archelaus
+- **Manius  Valerius** (Q78615)
+- **Cornelia** (Q78618) ⚭ Nonius
+- **Nonius** (Q78621) ⚭ Cornelia
+- **Gaius  Oppidius** (Q78624)
+- **Lucius  Memmius** (Q78627)
+- **Appius Claudius Pulcher** (Q78630) — b. 247 CE, d. 211 CE — [Wikidata Q382007](https://www.wikidata.org/wiki/Q382007) ⚭ N.N.
+- **N.N.** (Q78633) ⚭ Appius Claudius Pulcher
+- **Consul (177 BC) - Gaius Claudius Pulcher** (Q78636) ⚭ N.N.
+- **N.N.** (Q78639) ⚭ Consul (177 BC) - Gaius Claudius Pulcher
+- **Eukles Marathonios** (Q78642) ⚭ Wife of Eukles  Marathonios
+- **Wife of Eukles  Marathonios** (Q78645) ⚭ Eukles Marathonios
+- **Memmius** (Q78648) ⚭ Fausta Cornelia
+- **Fausta Cornelia** (Q78651) ⚭ Memmius
+- **Cassius Longinus** (Q78660)
+- **Marcus Livius  Drusus** (Q78666)
+- **Aulus Antonius** (Q78679)
+- **N.N.** (Q78755) ⚭ Publius Licinius Crassus
+- **Aziz  Banu Adnan** (Q86405)
+- **Gaius Laelius  Sapiens** (Q99362)
+- **Q99368** (Q99368) ⚭ Publius Cornelius Scipio Nasica Corculum
+- **N.N.** (Q99731)
+- **Marcus  Valerius** (Q99737)
+
+## Generation 35 (106 people) — circa 600 CE
+
+- **Artabazos I of Phrygia** (Q135299) — b. 600 CE, d. 450 CE — [Wikidata Q347628](https://www.wikidata.org/wiki/Q347628)
+- **Publius Licinius Crassus Dives Mucianus** (Q141474) — b. 180 CE, d. 130 CE — [Wikidata Q715499](https://www.wikidata.org/wiki/Q715499) ⚭ Clodia
+- **Marcus Claudius Marcellus** (Q144118) — d. 177 CE — [Wikidata Q709926](https://www.wikidata.org/wiki/Q709926)
+- **Gnaeus Servilius Caepio** (Q148032) — b. 237 CE, d. 174 CE — [Wikidata Q446819](https://www.wikidata.org/wiki/Q446819)
+- **Aulus Hostilius** (Q151568) — b. 300 CE — [Wikidata Q97139304](https://www.wikidata.org/wiki/Q97139304)
+- **Marcus Aemilius Lepidus** (Q151633) — b. 280 CE, d. 216 CE — [Wikidata Q1276902](https://www.wikidata.org/wiki/Q1276902)
+- **Gaius Calpurnius** (Q151659) — b. 300 CE, d. 300 CE — [Wikidata Q102349608](https://www.wikidata.org/wiki/Q102349608)
+- **Publius Servilius Geminus** (Q151694) — b. 250 CE, d. 250 CE — [Wikidata Q526243](https://www.wikidata.org/wiki/Q526243)
+- **Marcus Junius Silanus** (Q151714) — b. 300 CE, d. 260 CE — [Wikidata Q1528929](https://www.wikidata.org/wiki/Q1528929)
+- **Appius Claudius Crassus** (Q151743) — b. 400 CE, d. 350 CE — [Wikidata Q283141](https://www.wikidata.org/wiki/Q283141)
+- **Marcus Livius Denter** (Q151745) — b. 375 CE, d. 360 CE — [Wikidata Q1406693](https://www.wikidata.org/wiki/Q1406693)
+- **Amos  HaDavid** (Q51764)
+- **Zelalsen** (Q71810) — [Wikidata Q19816527](https://www.wikidata.org/wiki/Q19816527)
+- **Marcus Servilius** (Q73008)
+- **Claudia  Pulcher** (Q73014) ⚭ Pacuvius Calavius  Calavius
+- **Consul (182 & 168 BC) - Lucius Aemilius Paullus Macedonicus** (Q73101) ⚭ Papiria
+- **Papiria** (Q73104) ⚭ Consul (182 & 168 BC) - Lucius Aemilius Paullus Macedonicus
+- **Gnaeus Cornelius  Lentulus** (Q73107)
+- **Munatius  Plancus** (Q73134)
+- **Quintus Mucius  Scaevola** (Q73137)
+- **Gaius Lincinius  Varus** (Q73140)
+- **Lucius  Licinius-Lucullus** (Q73143)
+- **Publius Cornelius Sulla** (Q73149) — [Wikidata Q3624657](https://www.wikidata.org/wiki/Q3624657) ⚭ NN (Wife of Publius Cornelius Rufinus Sulla)
+- **NN (Wife of Publius Cornelius Rufinus Sulla)** (Q73152) ⚭ Publius Cornelius Sulla
+- **Quintus Sulpicius Paterculus** (Q73155)
+- **Titus Manlius  Torquatus** (Q73158)
+- **Gnaeus Quinctius  Capitolinus** (Q73161)
+- **Salonius** (Q73164)
+- **Marcus Porcius  Censorius** (Q73167)
+- **Gaius Servilius** (Q73170)
+- **Marcus Junius Brutus** (Q73227) — [Wikidata Q11033721](https://www.wikidata.org/wiki/Q11033721)
+- **Marcus Claudius  Marcellus** (Q73230)
+- **Gaius Claudius Marcus  Marcellus** (Q73233)
+- **Publius Quintilius Varus** (Q73236)
+- **Caecilia Metella  Calva** (Q73254) ⚭ Lucius Licinius  Lucullus
+- **Lucius Licinius  Lucullus** (Q73257) ⚭ Caecilia Metella  Calva
+- **Marcus Licinius Crassus Agelastus** (Q73260) ⚭ NN (Wife of Marcus Licinius Crassus Agestalus)
+- **NN (Wife of Marcus Licinius Crassus Agestalus)** (Q73263) ⚭ Marcus Licinius Crassus Agelastus
+- **Lucius Julius  the I** (Q73287) ⚭ Q73290
+- **Q73290** (Q73290) ⚭ Lucius Julius  the I
+- **Publius Cornelius Scipio Nasica** (Q73293) — b. 230 CE, d. 171 CE — [Wikidata Q453860](https://www.wikidata.org/wiki/Q453860) ⚭ NN (Wife of Publius Cornelius Scipio Nasica)
+- **Aemilia Tertia** (Q73296) — b. 230 CE, d. 200 CE — [Wikidata Q380862](https://www.wikidata.org/wiki/Q380862) ⚭ Scipio Africanus
+- **Scipio Africanus** (Q73299) — b. 235 CE, d. 183 CE — [Wikidata Q2253](https://www.wikidata.org/wiki/Q2253) ⚭ Aemilia Tertia
+- **Lucius Caecilius Metellus Denter** (Q73311) — b. 341 BCE, d. 283 BCE — [Wikidata Q521498](https://www.wikidata.org/wiki/Q521498)
+- **Pharnaces I of Pontus** (Q73374) — b. 300 CE, d. 159 CE — [Wikidata Q359215](https://www.wikidata.org/wiki/Q359215) ⚭ Nysa
+- **Nysa** (Q73377) — b. 150 CE — [Wikidata Q1091124](https://www.wikidata.org/wiki/Q1091124) ⚭ Pharnaces I of Pontus
+- **BAD MERGE** (Q73380) — b. 215 CE, d. 164 CE — [Wikidata Q3356](https://www.wikidata.org/wiki/Q3356) ⚭ Dorodoche, Polycaste, Asterodeia +3 more
+- **NN (Wife of Marcus Aemilius Lepidus)** (Q73422) ⚭ Marcus Aemilius Lepidus
+- **Ptolemy III Euergetes** (Q73491) — b. 284 CE, d. 222 CE — [Wikidata Q39602](https://www.wikidata.org/wiki/Q39602) ⚭ Berenice II
+- **Berenice II** (Q73494) — b. 267 CE, d. 221 CE — [Wikidata Q40010](https://www.wikidata.org/wiki/Q40010) ⚭ Demetrius the Fair, King of Cyrene XI - Demetrius the Fair (250249 BC), Ptolemy III Euergetes
+- **Mithridates II of Pontus** (Q73497) — b. 300 CE, d. 300 CE — [Wikidata Q359014](https://www.wikidata.org/wiki/Q359014) ⚭ Laodice
+- **Laodice** (Q73500) — b. 270 CE, d. 240 CE — [Wikidata Q450841](https://www.wikidata.org/wiki/Q450841) ⚭ Mithridates II of Pontus
+- **Laodice II** (Q73503) — b. 300 CE, d. 300 CE — [Wikidata Q269950](https://www.wikidata.org/wiki/Q269950) ⚭ Seleucus II Callinicus
+- **Seleucus II Callinicus** (Q73506) — b. 265 CE, d. 225 CE — [Wikidata Q3373](https://www.wikidata.org/wiki/Q3373) ⚭ Laodice II
+- **Sames of Commagene** (Q73509) — b. 250 CE, d. 300 CE — [Wikidata Q261592](https://www.wikidata.org/wiki/Q261592)
+- **Consul (285 BC) - Marcus Aemilius Lepidus** (Q73557) ⚭ NN (Wife of Marcus Aemilius Lepidus)
+- **NN (Wife of Marcus Aemilius Lepidus)** (Q73560) ⚭ Consul (285 BC) - Marcus Aemilius Lepidus
+- **Quintus Aemilius Barbula, Consul** (Q73602)
+- **Cassus Curvus** (Q73653)
+- **Quintus Sulpicius, II** (Q73656)
+- **Marcus Sempronius  Tudianus** (Q73659)
+- **Publius Licinius  Crassus** (Q73665)
+- **Gaius Claudius Centho** (Q73677) — [Wikidata Q155312](https://www.wikidata.org/wiki/Q155312) ⚭ NN (Wife of Gaius Claudius Centho)
+- **NN (Wife of Gaius Claudius Centho)** (Q73680) ⚭ Gaius Claudius Centho
+- **Caecilia Metella** (Q73683) ⚭ Quintius Servilius Caepio
+- **Quintius Servilius Caepio** (Q73686) ⚭ Caecilia Metella
+- **II** (Q73761)
+- **Appius Claudius Caecus** (Q73782) — b. 341 BCE, d. 300 BCE — [Wikidata Q297783](https://www.wikidata.org/wiki/Q297783) ⚭ N.N., Wife of Appius Claudius Caecus
+- **Quintus Marcius Philippus** (Q73821)
+- **Lucius Fulvius Curvus** (Q73872)
+- **Lucius Julius** (Q73955) — b. 400 CE — [Wikidata Q89587827](https://www.wikidata.org/wiki/Q89587827)
+- **Appius Claudius Crassus Regillensis  Crassus** (Q74091)
+- **Cosmartidene** (Q74126) — b. 450 CE — [Wikidata Q8351317](https://www.wikidata.org/wiki/Q8351317) ⚭ Artaxerxes I of Persia
+- **Artaxerxes I of Persia** (Q74129) — b. 500 CE, d. 424 CE — [Wikidata Q189689](https://www.wikidata.org/wiki/Q189689) ⚭ Damaspia, Alogyne of Babylon, Cosmartidene +1 more
+- **Andia** (Q74132) — b. 475 BCE — [Wikidata Q12626872](https://www.wikidata.org/wiki/Q12626872) ⚭ Artaxerxes I of Persia
+- **Perdiccas II of Macedon** (Q74228) — b. 500 CE, d. 413 CE — [Wikidata Q318426](https://www.wikidata.org/wiki/Q318426) ⚭ Simiche, Simiche, Cleopatra +1 more
+- **Aulus Caecinus** (Q78246) ⚭ Larga
+- **Larga** (Q78249) ⚭ Aulus Caecinus
+- **Aristonymus** (Q78663)
+- **Athenaesus  of Cyzicus** (Q78682)
+- **Antiochis** (Q78685) ⚭ Attalus
+- **Attalus** (Q78688) ⚭ Antiochis
+- **King of Pergamon II - Eumenes I (263241 BC)** (Q78691)
+- **Stratonice** (Q78695) ⚭ Ariarathes III, king of Cappadocia
+- **Ariarathes III, king of Cappadocia** (Q78698) ⚭ Stratonice
+- **N.N.** (Q78701) — [Wikidata Q112607049](https://www.wikidata.org/wiki/Q112607049) ⚭ John Hyrcanus
+- **John Hyrcanus** (Q78704) — b. 200 CE, d. 104 CE — [Wikidata Q319043](https://www.wikidata.org/wiki/Q319043) ⚭ N.N.
+- **Setah** (Q78707)
+- **Archelaus** (Q78710)
+- **Lucius  Memmius** (Q78722)
+- **Consul (212 BC) - Appius Claudius Pulcher** (Q78725) ⚭ N.N.
+- **N.N.** (Q78728) ⚭ Consul (212 BC) - Appius Claudius Pulcher
+- **Memmius** (Q78731)
+- **Gaius Cassius Longinus** (Q78740)
+- **Marcus  Drusus** (Q78749) ⚭ Calavia  Drusus
+- **Publius  Claudius-Nero** (Q78752)
+- **Quintus Antonius** (Q78761)
+- **Slave Woman** (Q79010) ⚭ Perdiccas II of Macedon
+- **Herakleon I  Edomites** (Q86381)
+- **Hudhayfah  Banu Adnan** (Q86407)
+- **Gaius  Laelius** (Q99370)
+- **NN (Wife of Publius Cornelius Scipio Nasica)** (Q99384) ⚭ Publius Cornelius Scipio Nasica, Q99386
+- **Q99386** (Q99386) ⚭ NN (Wife of Publius Cornelius Scipio Nasica)
+- **Publius Licinius Varus Licinius Crassus  Crassus** (Q99408)
+- **الملك أرتازركسيس- أردشير الأول  بن الملك زركسيس الأول** (Q99426)
+- **Marcus  Valerius** (Q99739)
+
+## Generation 36 (91 people) — circa 600 CE
+
+- **Gorgophone** (Q132823) — [Wikidata Q950523](https://www.wikidata.org/wiki/Q950523) ⚭ Perieres, Perieres, Oebalus
+- **Pharnaces I** (Q135230) — b. 600 CE — [Wikidata Q975898](https://www.wikidata.org/wiki/Q975898)
+- **Q135914** (Q135914) ⚭ Laodice IV
+- **Marcus Claudius Marcellus** (Q148104) — b. 270 CE, d. 208 CE — [Wikidata Q312306](https://www.wikidata.org/wiki/Q312306)
+- **Q151286** (Q151286)
+- **Gnaeus Servilius Caepio** (Q151467) — b. 300 CE, d. 300 CE — [Wikidata Q868074](https://www.wikidata.org/wiki/Q868074)
+- **Marcus Aemilius Lepidus** (Q151712) — [Wikidata Q1379447](https://www.wikidata.org/wiki/Q1379447)
+- **Appius Claudius Crassus** (Q151792) — b. 500 CE — [Wikidata Q1225279](https://www.wikidata.org/wiki/Q1225279)
+- **Naum  HaDavid** (Q51760)
+- **Ilas** (Q71822) — [Wikidata Q98854273](https://www.wikidata.org/wiki/Q98854273)
+- **Lucius Aemilius Paullus** (Q73266) — d. 216 CE — [Wikidata Q432244](https://www.wikidata.org/wiki/Q432244) ⚭ N.N.
+- **N.N.** (Q73269) ⚭ Lucius Aemilius Paullus, Q99378
+- **Lucius Cornelius  Lentulus** (Q73272)
+- **Munatius  Plancus** (Q73302)
+- **Publius** (Q73305)
+- **Licinius  Varus** (Q73308)
+- **Publius Cornelius Rufinus** (Q73314) — [Wikidata Q723447](https://www.wikidata.org/wiki/Q723447) ⚭ NN (Wife of Publius Cornelius Rufinus)
+- **NN (Wife of Publius Cornelius Rufinus)** (Q73317) ⚭ Publius Cornelius Rufinus
+- **Quintus Sulpicius** (Q73320)
+- **Titus Manlius  Torquatus** (Q73323)
+- **Tiberius Quinctius Pennus Capitolinus  Crispinus** (Q73326)
+- **Licinia** (Q73329) ⚭ Cato the Elder
+- **Publius Servilius** (Q73332)
+- **Lucius Junius  Brutus** (Q73383)
+- **Marcus Claudius  Marcellus** (Q73386)
+- **Lucius Licinius  Lucullus** (Q73401)
+- **NN (Wife of Publius Licinius Crassus)** (Q73407) ⚭ Publius Licinius Crassus, Publius Licinius Crassus
+- **Publius Licinius Crassus** (Q73410) ⚭ NN (Wife of Gaius Licinius Varus), NN (Wife of Publius Licinius Crassus)
+- **Numerius Julius** (Q73437) ⚭ N.N.
+- **N.N.** (Q73440) ⚭ Numerius Julius
+- **Gnaeus Cornelius Scipio Calvus** (Q73443) — b. 256 CE, d. 211 CE — [Wikidata Q316475](https://www.wikidata.org/wiki/Q316475) ⚭ NN (Wife of Gnaeus Cornelius Scipio Calvus)
+- **Publius Cornelius Scipio** (Q73446) — b. 255 CE, d. 211 CE — [Wikidata Q3293507](https://www.wikidata.org/wiki/Q3293507) ⚭ Pomponia
+- **Pomponia** (Q73449) — [Wikidata Q20499663](https://www.wikidata.org/wiki/Q20499663) ⚭ Publius Cornelius Scipio
+- **Gaius Caecilius** (Q73458) — b. 400 CE — [Wikidata Q107101893](https://www.wikidata.org/wiki/Q107101893)
+- **Mithridates III of Pontus** (Q73512) — b. 300 CE, d. 200 CE — [Wikidata Q350769](https://www.wikidata.org/wiki/Q350769) ⚭ Laodice
+- **Laodice** (Q73515) — b. 250 CE — [Wikidata Q3624266](https://www.wikidata.org/wiki/Q3624266) ⚭ Mithridates III of Pontus
+- **Arsinoe I** (Q73611) — b. 305 CE, d. 248 CE — [Wikidata Q231668](https://www.wikidata.org/wiki/Q231668) ⚭ Ptolemy II Philadelphus
+- **Ptolemy II Philadelphus** (Q73614) — b. 308 CE, d. 246 CE — [Wikidata Q39576](https://www.wikidata.org/wiki/Q39576) ⚭ Arsinoe II, Bilistiche, Arsinoe +3 more
+- **Magas of Cyrene** (Q73617) — b. 320 CE, d. 250 CE — [Wikidata Q878392](https://www.wikidata.org/wiki/Q878392) ⚭ Apama II
+- **Apama II** (Q73620) — b. 292 CE, d. 300 CE — [Wikidata Q451066](https://www.wikidata.org/wiki/Q451066) ⚭ King of Cyrene XI - Demetrius the Fair (250249 BC), Magas of Cyrene
+- **Ariobarzanes of Pontus** (Q73623) — b. 250 CE, d. 250 CE — [Wikidata Q353675](https://www.wikidata.org/wiki/Q353675) ⚭ Laodice I
+- **Laodice I** (Q73626) ⚭ Ariobarzanes of Pontus
+- **Laodice I** (Q73629) — b. 300 CE, d. 260 CE — [Wikidata Q237156](https://www.wikidata.org/wiki/Q237156) ⚭ Antiochus II Theos
+- **Antiochus II Theos** (Q73632) — b. 286 CE, d. 246 CE — [Wikidata Q222930](https://www.wikidata.org/wiki/Q222930) ⚭ Berenice, Berenice ., Laodice I
+- **Unknown Wife** (Q73635) ⚭ Andromachus
+- **Andromachus** (Q73638) — [Wikidata Q512839](https://www.wikidata.org/wiki/Q512839) ⚭ Unknown Wife
+- **Orontes III** (Q73641) — b. 400 CE, d. 260 CE — [Wikidata Q1342141](https://www.wikidata.org/wiki/Q1342141)
+- **Roman Republic Dictator (292-285 BC) - Marcus Aemilius Barbula** (Q73671) ⚭ NN (Wife of Marcus Aemilius Barbula)
+- **NN (Wife of Marcus Aemilius Barbula)** (Q73674) ⚭ Roman Republic Dictator (292-285 BC) - Marcus Aemilius Barbula
+- **Lucius Aemilius Merminicus, Consul** (Q73713)
+- **Achaeus** (Q73746) — b. 400 CE, d. 300 CE — [Wikidata Q1897013](https://www.wikidata.org/wiki/Q1897013) ⚭ N.N.
+- **N.N.** (Q73749) ⚭ Achaeus
+- **Quintus Sulpicius, I** (Q73764)
+- **Publius Sempronius  Tudianus** (Q73767)
+- **Publius Licinius  Crassus** (Q73770)
+- **N.N., Wife of Appius Claudius Caecus** (Q73785) ⚭ Appius Claudius Caecus
+- **Quintus Servilius  Caepio** (Q73788) ⚭ Servilia  Major
+- **Servilia  Major** (Q73791) ⚭ Quintus Servilius  Caepio
+- **Caecilia Metella Macedonica** (Q73869) ⚭ Lucius Julius Libo
+- **Gaius Claudius Crassus Inrelligensis** (Q73887) — b. 370 CE, d. 337 CE — [Wikidata Q5759141](https://www.wikidata.org/wiki/Q5759141) ⚭ NN (Wife of Gaius Claudius Crassus)
+- **NN (Wife of Gaius Claudius Crassus)** (Q73890) ⚭ Gaius Claudius Crassus Inrelligensis
+- **Quintus Marcius Tremulus** (Q73919) ⚭ NN (Wife of Quintus Marcius Tremulus)
+- **NN (Wife of Quintus Marcius Tremulus)** (Q73922) ⚭ Quintus Marcius Tremulus
+- **Lucius Fulvius, II** (Q73958)
+- **Lucius Julius** (Q74022) — b. 400 CE — [Wikidata Q89587803](https://www.wikidata.org/wiki/Q89587803)
+- **Appius Claudius Sabinus  Consul** (Q74159)
+- **Gaias  Crassus Regillenius** (Q74162)
+- **Amestris** (Q74192) — b. 510 CE, d. 424 CE — [Wikidata Q271376](https://www.wikidata.org/wiki/Q271376) ⚭ Xerxes I
+- **Xerxes I** (Q74195) — b. 519 CE, d. 465 CE — [Wikidata Q129165](https://www.wikidata.org/wiki/Q129165) ⚭ Amestris
+- **Alexandros I of Macedon** (Q74282) — d. 454 CE — [Wikidata Q297086](https://www.wikidata.org/wiki/Q297086) ⚭ Antigone
+- **Antigone** (Q74284) ⚭ Alexandros I of Macedon
+- **Symmachus** (Q78743)
+- **Eumenes of Pergamon** (Q78764) ⚭ Satyra of Pergamon
+- **Satyra of Pergamon** (Q78767) ⚭ Eumenes of Pergamon
+- **Philetaerus** (Q78770) — b. 340 CE, d. 263 CE — [Wikidata Q312452](https://www.wikidata.org/wiki/Q312452)
+- **Ariamnes, king of Cappadocia** (Q78773)
+- **Simon Thassi** (Q78776) — b. 200 CE, d. 135 CE — [Wikidata Q359711](https://www.wikidata.org/wiki/Q359711) ⚭ Alexandra Simona Bat Yehuda ha Kohen
+- **Rabbi Yosei bar Yohanan** (Q78779)
+- **Gaius Cassius Longinus** (Q78803)
+- **Tiberius Claudius Nero** (Q78812)
+- **Alexandra Simona Bat Yehuda ha Kohen** (Q85148) ⚭ Simon Thassi
+- **Nebuchadnezzar IV  King of Babylon (look him up before adding him to any narrative)** (Q85230) ⚭ Q85232
+- **Q85232** (Q85232) ⚭ Nebuchadnezzar IV  King of Babylon (look him up before adding him to any narrative)
+- **Antipater I  Edomites** (Q86379)
+- **Amr  Banu Adnan** (Q86409)
+- **Oebalus** (Q90289) — [Wikidata Q1162217](https://www.wikidata.org/wiki/Q1162217) ⚭ Gorgophone, Batea, Gorgophone
+- **Q99378** (Q99378) ⚭ N.N.
+- **Gaius  Laelius** (Q99388)
+- **NN (Wife of Gnaeus Cornelius Scipio Calvus)** (Q99402) ⚭ Gnaeus Cornelius Scipio Calvus
+- **Marcus Curvus** (Q99414)
+- **الملك زركسيس الأول  بن الملك داريوس الأول** (Q99430)
+
+## Generation 37 (80 people) — circa 550 CE
+
+- **Perseus** (Q131666) — [Wikidata Q130832](https://www.wikidata.org/wiki/Q130832) ⚭ Andromeda
+- **Andromeda** (Q132822) — [Wikidata Q161582](https://www.wikidata.org/wiki/Q161582) ⚭ Perseus
+- **Cynortas** (Q132860) — [Wikidata Q1466824](https://www.wikidata.org/wiki/Q1466824)
+- **Q133344** (Q133344) ⚭ Dorodoche, Polycaste, Asterodeia +1 more
+- **Asterodeia** (Q134310) — [Wikidata Q748578](https://www.wikidata.org/wiki/Q748578) ⚭ Q133344, BAD MERGE
+- **Darius I of Persia** (Q135294) — b. 550 CE, d. 486 CE — [Wikidata Q44387](https://www.wikidata.org/wiki/Q44387) ⚭ Artystone, Parmys, Phaedymia +2 more
+- **Attalus** (Q136454) — [Wikidata Q109485735](https://www.wikidata.org/wiki/Q109485735) ⚭ Boa
+- **Boa** (Q136455) — [Wikidata Q29166980](https://www.wikidata.org/wiki/Q29166980) ⚭ Attalus
+- **Flavia Julia Constantia** (Q136506) — d. 330 CE — [Wikidata Q238023](https://www.wikidata.org/wiki/Q238023) ⚭ Licinius
+- **Licinia** (Q139560) — [Wikidata Q113376428](https://www.wikidata.org/wiki/Q113376428) ⚭ Lucius Caecilius Metellus
+- **Marcus Claudius Marcellus** (Q151498) — b. 290 CE, d. 268 CE — [Wikidata Q4281782](https://www.wikidata.org/wiki/Q4281782)
+- **Appius Claudius Crassus Inregillensis Sabinus** (Q151822) — b. 550 CE, d. 449 CE — [Wikidata Q1051213](https://www.wikidata.org/wiki/Q1051213)
+- **Philip** (Q30453) — d. 318 CE — [Wikidata Q7183085](https://www.wikidata.org/wiki/Q7183085) ⚭ Berenice I of Egypt
+- **Esli  HaDavid** (Q51756)
+- **Aylimas  King of Numidia** (Q71825)
+- **Marcus Aemilius Paullus** (Q73413) — b. 300 CE, d. 300 CE — [Wikidata Q1533112](https://www.wikidata.org/wiki/Q1533112)
+- **Lucius Cornelius Lentulus  Caudinus** (Q73416)
+- **Munatius  Plancus** (Q73452)
+- **Licinius** (Q73455) — [Wikidata Q184549](https://www.wikidata.org/wiki/Q184549) ⚭ Flavia Julia Constantia
+- **NN (Wife of Gnaeus Cornelius Rufinus)** (Q73461) ⚭ Gnaeus Cornelius Rufinus
+- **Gnaeus Cornelius Rufinus** (Q73464) — [Wikidata Q104698660](https://www.wikidata.org/wiki/Q104698660) ⚭ NN (Wife of Gnaeus Cornelius Rufinus)
+- **Quintus Sulpicius** (Q73467)
+- **Titus Manlius  Torquatus** (Q73470)
+- **Tiberius Quinctius Cincinnatus  Capitolinus** (Q73473)
+- **Quintus Servilius** (Q73479)
+- **C. Junius Junius Brutus  Brutus** (Q73518)
+- **Marcus Claudius  Marcellus** (Q73521)
+- **Lucius Licinius  Lucullus** (Q73539)
+- **Consul (205 BC) - Publius Licinius Crassus Dives** (Q73545) ⚭ NN (Wife of Publius Licinius Crassus Dives)
+- **NN (Wife of Publius Licinius Crassus Dives)** (Q73548) ⚭ Consul (205 BC) - Publius Licinius Crassus Dives
+- **Lucius Cornelius Scipio** (Q73569) — b. 306 CE, d. 250 CE — [Wikidata Q708483](https://www.wikidata.org/wiki/Q708483) ⚭ NN (Wife of Lucius Cornelius Scipio)
+- **NN (Wife of Lucius Cornelius Scipio)** (Q73572) ⚭ Lucius Cornelius Scipio
+- **Manius Pomponius Matho** (Q73575) — d. 211 CE — [Wikidata Q1278949](https://www.wikidata.org/wiki/Q1278949) ⚭ NN (Wife of Manius Pomponius Matho)
+- **NN (Wife of Manius Pomponius Matho)** (Q73578) ⚭ Manius Pomponius Matho
+- **Lucius Caecilius Metellus** (Q73581) — [Wikidata Q1159589](https://www.wikidata.org/wiki/Q1159589) ⚭ Licinia
+- **Lysimachus** (Q73722) — b. 361 CE, d. 281 CE — [Wikidata Q32133](https://www.wikidata.org/wiki/Q32133) ⚭ Arsinoe II, Amastris, Macris +2 more
+- **Nicaea of Macedon** (Q73725) — b. 400 CE, d. 302 CE — [Wikidata Q441885](https://www.wikidata.org/wiki/Q441885) ⚭ Περδίκκας, Lysimachus
+- **Berenice I of Egypt** (Q73728) — b. 340 CE — [Wikidata Q39962](https://www.wikidata.org/wiki/Q39962) ⚭ Philip, Ptolemy I Soter
+- **Ptolemy I Soter** (Q73731) — b. 365 CE, d. 285 CE — [Wikidata Q168261](https://www.wikidata.org/wiki/Q168261) ⚭ Artakama, Eurydice of Egypt, Thaïs +2 more
+- **Antiochus I Soter** (Q73737) — b. 324 CE, d. 261 CE — [Wikidata Q211488](https://www.wikidata.org/wiki/Q211488) ⚭ Stratonice of Syria
+- **Stratonice of Syria** (Q73740) — b. 318 CE, d. 268 CE — [Wikidata Q235061](https://www.wikidata.org/wiki/Q235061) ⚭ Antiochus I Soter, Seleucus I Nicator
+- **Mithridates I of Pontus** (Q73743) — b. 400 CE, d. 266 CE — [Wikidata Q318021](https://www.wikidata.org/wiki/Q318021)
+- **Mithrenes** (Q73752) — b. 400 CE, d. 317 CE — [Wikidata Q1491305](https://www.wikidata.org/wiki/Q1491305)
+- **Consul (317 & 311 BC) - Quintus Aemilius Barbula** (Q73776) ⚭ NN (Wife of Quintus Aemilius Barbula)
+- **NN (Wife of Quintus Aemilius Barbula)** (Q73779) ⚭ Consul (317 & 311 BC) - Quintus Aemilius Barbula
+- **Lucius Aemilius Merminicus, Consul** (Q73815)
+- **Apama** (Q73851) — b. 400 CE — [Wikidata Q237626](https://www.wikidata.org/wiki/Q237626) ⚭ Seleucus I Nicator
+- **Seleucus I Nicator** (Q73854) — b. 358 CE, d. 281 CE — [Wikidata Q184176](https://www.wikidata.org/wiki/Q184176) ⚭ Stratonice of Syria, Apama
+- **Junius  Brutus** (Q73863)
+- **Servius Sulpicius** (Q73875) — [Wikidata Q60829873](https://www.wikidata.org/wiki/Q60829873)
+- **Lucius Manlius Capitolinus  Imperiosus** (Q73901)
+- **Gaius Marcius Rutilius** (Q73991) ⚭ NN (Wife of Gaius Marcius Rutilius)
+- **NN (Wife of Gaius Marcius Rutilius)** (Q73994) ⚭ Gaius Marcius Rutilius
+- **Lucius Julius Jullus, V** (Q74079)
+- **Gaius Claudius Sabinus  Octavius** (Q74213)
+- **Sister of Darius I** (Q74240) ⚭ Otanes
+- **Otanes** (Q74243) — b. 600 CE, d. 500 CE — [Wikidata Q19513557](https://www.wikidata.org/wiki/Q19513557) ⚭ Sister of Darius I
+- **Atossa** (Q74246) — b. 550 CE, d. 475 CE — [Wikidata Q233359](https://www.wikidata.org/wiki/Q233359) ⚭ Darius I of Persia, Cambyses II, Bardiya +1 more
+- **Amyntas I of Macedon** (Q74344) — b. 540 CE, d. 498 CE — [Wikidata Q313912](https://www.wikidata.org/wiki/Q313912) ⚭ Eurydike
+- **Eurydike** (Q74347) — [Wikidata Q116471088](https://www.wikidata.org/wiki/Q116471088) ⚭ Amyntas I of Macedon
+- **Arsames** (Q74356) — b. 550 CE, d. 600 CE — [Wikidata Q355799](https://www.wikidata.org/wiki/Q355799)
+- **Socrates** (Q78806) ⚭ Callisto
+- **Callisto** (Q78809) ⚭ Socrates
+- **Attalus of Pergamon** (Q78824) ⚭ Boa of Pergamon
+- **Boa of Pergamon** (Q78827) ⚭ Attalus of Pergamon
+- **Ariarathes II, king of Cappadocia** (Q78830)
+- **wife, Mattathias Hasmonean** (Q78833) ⚭ Mattathias
+- **Mattathias** (Q78836) — b. 200 CE, d. 166 CE — [Wikidata Q75048](https://www.wikidata.org/wiki/Q75048) ⚭ wife, Mattathias Hasmonean
+- **Yohanan  ben Zeredah** (Q78839)
+- **Quintus Cassius** (Q78872)
+- **Onias Yehuda son of Sadducees  High Priest of Israel** (Q85150)
+- **Nabonidus** (Q85234) ⚭ Nitocris  Queen of Babylon
+- **Nitocris  Queen of Babylon** (Q85236) ⚭ Nabonidus
+- **Costobarus  Edomites** (Q86377)
+- **Qays  Banu Adnan** (Q86411) ⚭ Q86413
+- **Q86413** (Q86413) ⚭ Qays  Banu Adnan
+- **Gaius  Laelius** (Q99404)
+- **Lucius Fulvius, I** (Q99418)
+- **الأميرة أتوسّا  بنت الملك قورش الثاني العظيم** (Q99436) ⚭ الملك داريوس الأول  بن الأمير هستاسبس
+- **الملك داريوس الأول  بن الأمير هستاسبس** (Q99438) ⚭ الأميرة أتوسّا  بنت الملك قورش الثاني العظيم
+
+## Generation 38 (78 people) — circa 89 CE
+
+- **Amyclas of Sparta** (Q131691) — [Wikidata Q482039](https://www.wikidata.org/wiki/Q482039) ⚭ Diomede
+- **Cepheus, King of Aethiopia** (Q132257) — [Wikidata Q858116](https://www.wikidata.org/wiki/Q858116) ⚭ Cassiopeia
+- **Danaë** (Q132821) — [Wikidata Q190582](https://www.wikidata.org/wiki/Q190582) ⚭ Daunus, Q74656
+- **Cassiopeia** (Q133600) — [Wikidata Q207681](https://www.wikidata.org/wiki/Q207681) ⚭ Cepheus, King of Aethiopia
+- **Eurypylus** (Q134663) — [Wikidata Q1378547](https://www.wikidata.org/wiki/Q1378547)
+- **Q135293** (Q135293) ⚭ Hystaspes
+- **Wife of Spitamenes** (Q135774) — [Wikidata Q125131848](https://www.wikidata.org/wiki/Q125131848) ⚭ Spitamenes
+- **Mithridates II of Cius** (Q136208) — d. 302 CE — [Wikidata Q887445](https://www.wikidata.org/wiki/Q887445)
+- **Clodia** (Q138403) — b. 89 CE — [Wikidata Q16542257](https://www.wikidata.org/wiki/Q16542257) ⚭ Lucullus
+- **Lucullus** (Q139559) — b. 117 CE, d. 56 CE — [Wikidata Q242819](https://www.wikidata.org/wiki/Q242819) ⚭ Clodia, Servilia Minor
+- **Marcus Claudius Marcellus** (Q151610) — [Wikidata Q1247322](https://www.wikidata.org/wiki/Q1247322)
+- **Appius Claudius Sabinus Inregillensis** (Q151844) — b. 540 CE, d. 480 CE — [Wikidata Q774066](https://www.wikidata.org/wiki/Q774066)
+- **Nagge  HaDavid** (Q51752)
+- **Iles  King of Numidia** (Q71828)
+- **Marcus Aemilius Paullus** (Q73551) — b. 400 CE, d. 360 CE — [Wikidata Q1306266](https://www.wikidata.org/wiki/Q1306266)
+- **Tiberius Cornelius  Lentulus** (Q73554)
+- **Publius Cornelius Rufinus** (Q73584) — [Wikidata Q1091296](https://www.wikidata.org/wiki/Q1091296) ⚭ NN (Wife of Publius Cornelius Rufinus)
+- **NN (Wife of Publius Cornelius Rufinus)** (Q73587) ⚭ Publius Cornelius Rufinus
+- **Servius Sulpicius Camerinus** (Q73590)
+- **Postumia  Cincinnatus** (Q73593) ⚭ Tiberius Quinctius Pennus  Cincinnatus
+- **Tiberius Quinctius Pennus  Cincinnatus** (Q73596) ⚭ Postumia  Cincinnatus
+- **Gnaeus Servilius** (Q73599)
+- **C. Junius  Brutus** (Q73644)
+- **Marcus Claudius  Marcellus** (Q73647)
+- **Licinius  Lucullus** (Q73662)
+- **NN (Wife of Lucius Cornelius Scipio Barbatus)** (Q73689) ⚭ Lucius Cornelius Scipio Barbatus
+- **Lucius Cornelius Scipio Barbatus** (Q73692) — b. 400 CE, d. 300 CE — [Wikidata Q374630](https://www.wikidata.org/wiki/Q374630) ⚭ NN (Wife of Lucius Cornelius Scipio Barbatus)
+- **Agathocles of Pella** (Q73824) — b. 400 CE, d. 400 CE — [Wikidata Q4691548](https://www.wikidata.org/wiki/Q4691548) ⚭ Arsinoe
+- **Arsinoe** (Q73827) — [Wikidata Q42366108](https://www.wikidata.org/wiki/Q42366108) ⚭ Agathocles of Pella
+- **Antipater** (Q73830) — b. 397 CE, d. 319 CE — [Wikidata Q204760](https://www.wikidata.org/wiki/Q204760)
+- **Magas of Macedon** (Q73833) — [Wikidata Q6729719](https://www.wikidata.org/wiki/Q6729719) ⚭ Antigone of Macedon
+- **Antigone of Macedon** (Q73836) — b. 400 CE, d. 360 CE — [Wikidata Q518039](https://www.wikidata.org/wiki/Q518039) ⚭ Magas of Macedon
+- **Arsinoe of Macedon** (Q73839) — b. 350 CE, d. 400 CE — [Wikidata Q241293](https://www.wikidata.org/wiki/Q241293) ⚭ II, Lagus
+- **Lagus** (Q73842) — [Wikidata Q718154](https://www.wikidata.org/wiki/Q718154) ⚭ Arsinoe of Macedon
+- **Amyntas** (Q73845) — [Wikidata Q121409927](https://www.wikidata.org/wiki/Q121409927) ⚭ NN (Wife of Amyntas)
+- **NN (Wife of Amyntas)** (Q73848) ⚭ Amyntas
+- **Demetrius I of Macedon** (Q73857) — b. 336 CE, d. 283 CE — [Wikidata Q59734](https://www.wikidata.org/wiki/Q59734) ⚭ Ptolémaïs, Eurydice of Athens, Deidamia I of Epirus +8 more
+- **Phila** (Q73860) — b. 400 CE, d. 287 CE — [Wikidata Q269964](https://www.wikidata.org/wiki/Q269964) ⚭ Balacrus, Craterus, Balacrus +1 more
+- **Consul (366 & 363 BC) - Lucius Aemilius Memercinus** (Q73881) ⚭ NN (Wife of Lucius Aemilius Memercinus)
+- **NN (Wife of Lucius Aemilius Memercinus)** (Q73884) ⚭ Consul (366 & 363 BC) - Lucius Aemilius Memercinus
+- **Mam. Aemilius Mamernicus, Dictator** (Q73913)
+- **Spitamenes** (Q73934) — b. 370 CE, d. 328 CE — [Wikidata Q529850](https://www.wikidata.org/wiki/Q529850) ⚭ Wife of Spitamenes
+- **Antiochus** (Q73937) — [Wikidata Q579596](https://www.wikidata.org/wiki/Q579596) ⚭ Laodice
+- **Laodice** (Q73940) — b. 400 CE, d. 400 CE — [Wikidata Q446503](https://www.wikidata.org/wiki/Q446503) ⚭ Antiochus
+- **Vitellia** (Q73949) ⚭ Lucius Junius Brutus
+- **Lucius Junius Brutus** (Q73952) — [Wikidata Q223440](https://www.wikidata.org/wiki/Q223440) ⚭ Vitellia
+- **Aulus Manlius  Capitolinus** (Q73979)
+- **Gaius Marcius Rutilius** (Q74052) ⚭ N.N.
+- **N.N.** (Q74055) ⚭ Gaius Marcius Rutilius
+- **Lucius Julius Jullus, IV** (Q74147)
+- **Hystaspes** (Q74296) — b. 570 CE, d. 495 CE — [Wikidata Q379863](https://www.wikidata.org/wiki/Q379863) ⚭ Q135293, Irdabama
+- **Irdabama** (Q74299) — b. 550 CE — [Wikidata Q131732243](https://www.wikidata.org/wiki/Q131732243) ⚭ Hystaspes
+- **Thukhra** (Q74302) — [Wikidata Q116474334](https://www.wikidata.org/wiki/Q116474334)
+- **Cyrus the Great** (Q74305) — b. 600 CE, d. 530 CE — [Wikidata Q8423](https://www.wikidata.org/wiki/Q8423) ⚭ Amytis, Neithiyti, concubine +1 more
+- **Cassandane** (Q74308) — b. 550 CE, d. 537 CE — [Wikidata Q442401](https://www.wikidata.org/wiki/Q442401) ⚭ Cyrus the Great
+- **N.N.** (Q74386) ⚭ Alcetas I of Macedon
+- **Alcetas I of Macedon** (Q74389) — b. 550 CE, d. 600 CE — [Wikidata Q313901](https://www.wikidata.org/wiki/Q313901) ⚭ N.N.
+- **Irrhus  of Lynkos** (Q74392)
+- **Ariaramnes** (Q74398) — b. 650 CE, d. 700 CE — [Wikidata Q336436](https://www.wikidata.org/wiki/Q336436)
+- **Q74656** (Q74656) ⚭ Metis, Plouto, Eurynome +57 more
+- **Diomede** (Q75210) — [Wikidata Q3028727](https://www.wikidata.org/wiki/Q3028727) ⚭ Amyclas of Sparta, Amyclas
+- **Callistomacha** (Q78875) ⚭ Lycophron II
+- **Lycophron II** (Q78878) ⚭ Callistomacha
+- **Holofarnes** (Q78890)
+- **Joazar  ben Zeredah** (Q78893)
+- **Orontes II** (Q78911) — b. 400 CE, d. 331 CE — [Wikidata Q1382490](https://www.wikidata.org/wiki/Q1382490)
+- **Yohannan  HaCohen, High Priest** (Q85140)
+- **Onias son of Sadducees  High Priest of Israel** (Q85152) ⚭ Mannaseh
+- **Mannaseh** (Q85154) ⚭ Onias son of Sadducees  High Priest of Israel
+- **Nebuchadnezzar II** (Q85238) ⚭ Nitocris  Princess of Egypt
+- **Nitocris  Princess of Egypt** (Q85240) ⚭ Nebuchadnezzar II
+- **Eliphas (Eliphaz III)  Edomites** (Q86375)
+- **Zayd  Banu Adnan** (Q86415) ⚭ Q86417
+- **Q86417** (Q86417) ⚭ Zayd  Banu Adnan
+- **Q99410** (Q99410)
+- **الملك قورش الثاني العظيم  بن قمبيز الأول** (Q99442) ⚭ الأميرة كاسّاندان  بنت فارناسبس
+- **الأميرة كاسّاندان  بنت فارناسبس** (Q99445) ⚭ الملك قورش الثاني العظيم  بن قمبيز الأول
+- **الأمير هستاسبس  بن أرسامس** (Q99446)
+
+## Generation 39 (73 people) — circa 150 CE
+
+- **Anchiroe** (Q131024) — [Wikidata Q3615214](https://www.wikidata.org/wiki/Q3615214) ⚭ Ares, Belus
+- **Lacedaemon** (Q131660) — [Wikidata Q1065774](https://www.wikidata.org/wiki/Q1065774) ⚭ Sparta
+- **Minyas** (Q131934) — [Wikidata Q1466343](https://www.wikidata.org/wiki/Q1466343) ⚭ Tritogeneia, Clytodora
+- **Eurydice of Argos** (Q132443) — [Wikidata Q1318307](https://www.wikidata.org/wiki/Q1318307) ⚭ Acrisius
+- **Acrisius** (Q133796) — [Wikidata Q208017](https://www.wikidata.org/wiki/Q208017) ⚭ Eurydice of Argos, Aganippe
+- **Agapenor** (Q134803) — [Wikidata Q390492](https://www.wikidata.org/wiki/Q390492)
+- **Meleager** (Q135140) — [Wikidata Q116471084](https://www.wikidata.org/wiki/Q116471084) ⚭ NN
+- **NN** (Q135207) — [Wikidata Q116471089](https://www.wikidata.org/wiki/Q116471089) ⚭ Meleager
+- **NN of (Parsumas)** (Q135290) — [Wikidata Q131732241](https://www.wikidata.org/wiki/Q131732241) ⚭ Teispes
+- **Pharnaspes** (Q135662) — [Wikidata Q13229447](https://www.wikidata.org/wiki/Q13229447)
+- **Ariobarzanes II of Cius** (Q135968) — [Wikidata Q662214](https://www.wikidata.org/wiki/Q662214)
+- **Caecilia Metella** (Q138399) — b. 150 CE, d. 70 CE — [Wikidata Q6454825](https://www.wikidata.org/wiki/Q6454825) ⚭ Appius Claudius Pulcher
+- **Lucius Licinius Lucullus** (Q141413) — b. 144 CE — [Wikidata Q3655306](https://www.wikidata.org/wiki/Q3655306) ⚭ Caecilia Metella
+- **Caecilia Metella** (Q141414) — b. 200 CE, d. 160 CE — [Wikidata Q461531](https://www.wikidata.org/wiki/Q461531) ⚭ Lucius Licinius Lucullus
+- **Marcus Claudius Marcellus** (Q151698) — b. 350 CE, d. 350 CE — [Wikidata Q369710](https://www.wikidata.org/wiki/Q369710)
+- **Marcus Claudius** (Q151874) — [Wikidata Q121595567](https://www.wikidata.org/wiki/Q121595567)
+- **Necho II, Pharaoh of Egypt** (Q195013) ⚭ Shapenuapit, Divine Adoratrice of Amun, Mimautiu, Nitocris +3 more
+- **Maath  HaDavid** (Q51748)
+- **Zelalsen  King of Numidia** (Q71834)
+- **Lucius Aemilius Mamercinus Privernas** (Q73668)
+- **Publius Sulpicius Camerinus** (Q73695)
+- **Aulus Postumius  Tubertus** (Q73701)
+- **Lucius Quinctius  Cincinnatus** (Q73704) ⚭ Racilia  Cincinnatus
+- **Racilia  Cincinnatus** (Q73707) ⚭ Lucius Quinctius  Cincinnatus
+- **Servilius** (Q73710)
+- **Marcus Claudius  Marcellus** (Q73758)
+- **Gnaeus Cornelius Scipio** (Q73794) — [Wikidata Q128598522](https://www.wikidata.org/wiki/Q128598522)
+- **Alcimachus** (Q73925) — [Wikidata Q4713126](https://www.wikidata.org/wiki/Q4713126)
+- **Iolas** (Q73928) — [Wikidata Q113834692](https://www.wikidata.org/wiki/Q113834692)
+- **Cassander** (Q73931) — [Wikidata Q5049217](https://www.wikidata.org/wiki/Q5049217)
+- **Antigonus I Monophthalmus** (Q73943) — b. 382 CE, d. 301 CE — [Wikidata Q200401](https://www.wikidata.org/wiki/Q200401) ⚭ Stratonice
+- **Stratonice** (Q73946) — b. 400 CE, d. 360 CE — [Wikidata Q270585](https://www.wikidata.org/wiki/Q270585) ⚭ Demetrius, Δημήτριος, Antigonus I Monophthalmus
+- **Lucius Aemilius Memercinus** (Q73964) ⚭ NN (Wife of Lucius Aemilius Memercinus)
+- **NN (Wife of Lucius Aemilius Memercinus)** (Q73967) ⚭ Lucius Aemilius Memercinus
+- **Marcus Aemilius Mamernicus** (Q73988)
+- **Seleucus** (Q73997) — [Wikidata Q3954768](https://www.wikidata.org/wiki/Q3954768)
+- **Tarquinia** (Q74016) ⚭ Marcus Junius Brutus
+- **Marcus Junius Brutus** (Q74019) ⚭ Tarquinia
+- **Titus Manlius  Capitolinus** (Q74046)
+- **Gnaeus Marcius** (Q74111) ⚭ NN (Wife of Gnaeus Marcius)
+- **NN (Wife of Gnaeus Marcius)** (Q74114) ⚭ Gnaeus Marcius
+- **Vopiscus Julius Jullus** (Q74204)
+- **Gobryas  of Babylon** (Q74359) ⚭ Daughter of Nabu-balatsu-igbi  of Babylon
+- **Daughter of Nabu-balatsu-igbi  of Babylon** (Q74362) ⚭ Gobryas  of Babylon
+- **Cambyses I** (Q74365) — b. 600 CE, d. 559 CE — [Wikidata Q299428](https://www.wikidata.org/wiki/Q299428) ⚭ Mandane of Media
+- **Mandane of Media** (Q74368) — b. 584 CE, d. 559 CE — [Wikidata Q271260](https://www.wikidata.org/wiki/Q271260) ⚭ Cambyses I, Cyrus I
+- **Aeropus I of Macedon** (Q74434) — b. 700 CE, d. 600 CE — [Wikidata Q318476](https://www.wikidata.org/wiki/Q318476)
+- **Arrabaios** (Q74437)
+- **Teispes** (Q74443) — d. 640 CE — [Wikidata Q310095](https://www.wikidata.org/wiki/Q310095) ⚭ NN of (Parsumas)
+- **Ops** (Q74677) — [Wikidata Q96761](https://www.wikidata.org/wiki/Q96761) ⚭ Q132028, Saturn
+- **Saturn** (Q74680) — [Wikidata Q44204](https://www.wikidata.org/wiki/Q44204) ⚭ Philyra, Thrace, Q132029 +2 more
+- **Dia -** (Q75243) ⚭ Lapithes
+- **Lapithes** (Q75246) — [Wikidata Q1805777](https://www.wikidata.org/wiki/Q1805777) ⚭ Orsinome, Dia -
+- **Sparta** (Q75249) — [Wikidata Q2296243](https://www.wikidata.org/wiki/Q2296243) ⚭ Lacedaemon, Lacedaemon  of Troy
+- **Philippus  of Aexone** (Q78920)
+- **Lycurgus II** (Q78923) ⚭ Callisto
+- **Callisto** (Q78926) ⚭ Lycurgus II
+- **Satraps of Cappadocia II - Ariamnes I (362350 BC)** (Q78935)
+- **?** (Q78938) ⚭ Zeredah  ben Antigone
+- **Zeredah  ben Antigone** (Q78941) ⚭ ?
+- **Orontes I** (Q78953) — b. 500 CE, d. 363 CE — [Wikidata Q711577](https://www.wikidata.org/wiki/Q711577) ⚭ Rhodogune
+- **Rhodogune** (Q78956) — b. 450 CE — [Wikidata Q14505105](https://www.wikidata.org/wiki/Q14505105) ⚭ Orontes I
+- **Shimon the Hasmonean  HaCohen, High Priest** (Q85142)
+- **Simon  Sadducees High Priest of Israel** (Q85156)
+- **Necho** (Q85249) ⚭ Chedebnitjerbone
+- **Chedebnitjerbone** (Q85251) ⚭ Necho II, Pharaoh of Egypt, Necho
+- **Zadok III  Edomites** (Q86373)
+- **Malik  Banu Adnan** (Q86419) ⚭ Q86421
+- **Q86421** (Q86421) ⚭ Malik  Banu Adnan
+- **Belus** (Q90576) — [Wikidata Q617753](https://www.wikidata.org/wiki/Q617753) ⚭ Anchiroe, Aeria, Q90578
+- **قمبيز الأول  بن قورش الأول** (Q99448) ⚭ الأميرة ماندان  بنت الملك أستياجس
+- **الأميرة ماندان  بنت الملك أستياجس** (Q99450) ⚭ قمبيز الأول  بن قورش الأول
+- **أرسامس  بن أريارامنس** (Q99452)
+
+## Generation 40 (68 people) — circa 400 CE
+
+- **Ablabius** (Q118392) — [Wikidata Q957189](https://www.wikidata.org/wiki/Q957189)
+- **Nilus** (Q130061) — [Wikidata Q685243](https://www.wikidata.org/wiki/Q685243) ⚭ Callirhoe
+- **Rudolf Lettinger** (Q130706) — [Wikidata Q100338](https://www.wikidata.org/wiki/Q100338) ⚭ Tantalus, Q74656
+- **Q131438** (Q131438) ⚭ Terra
+- **Q131440** (Q131440) ⚭ Tros
+- **Orchomenus** (Q131761) — [Wikidata Q47456662](https://www.wikidata.org/wiki/Q47456662) ⚭ Hermippe
+- **Libya** (Q132283) — [Wikidata Q1129914](https://www.wikidata.org/wiki/Q1129914) ⚭ Poseidon
+- **Hermippe** (Q133010) — [Wikidata Q5741709](https://www.wikidata.org/wiki/Q5741709) ⚭ Orchomenus
+- **Aglaea** (Q134004) — [Wikidata Q394174](https://www.wikidata.org/wiki/Q394174) ⚭ Abas
+- **Abas** (Q134359) — [Wikidata Q305607](https://www.wikidata.org/wiki/Q305607) ⚭ Aglaea
+- **Ancaeus** (Q134669) — [Wikidata Q2446902](https://www.wikidata.org/wiki/Q2446902)
+- **Balacrus** (Q135114) — [Wikidata Q116471085](https://www.wikidata.org/wiki/Q116471085)
+- **Kuras of Parsumas** (Q135372) — [Wikidata Q131732242](https://www.wikidata.org/wiki/Q131732242)
+- **Alcimachus of Apollonia** (Q135467) — b. 400 CE, d. 400 CE — [Wikidata Q24254](https://www.wikidata.org/wiki/Q24254)
+- **Mithridates of Cius** (Q135794) — [Wikidata Q887415](https://www.wikidata.org/wiki/Q887415)
+- **Quintus Caecilius Metellus Balearicus** (Q139550) — b. 200 CE, d. 160 CE — [Wikidata Q459870](https://www.wikidata.org/wiki/Q459870)
+- **Lucius Licinius Lucullus** (Q144077) — b. 150 CE, d. 200 CE — [Wikidata Q691847](https://www.wikidata.org/wiki/Q691847)
+- **Mattathias ben Semein  HaDavid** (Q51744)
+- **Madgacen  Madgacen** (Q71837)
+- **Lucius Aemulius  Memercinus** (Q73773)
+- **Servius Sulpicius Camerinus Rufus** (Q73797) ⚭ Fabia
+- **Fabia** (Q73800) ⚭ Servius Sulpicius Camerinus Rufus
+- **Publius Postumius  Tubertus** (Q73806)
+- **Lucius  Quinctius** (Q73809)
+- **Gaius Servilius** (Q73812)
+- **Philippus** (Q74000) — [Wikidata Q115747078](https://www.wikidata.org/wiki/Q115747078) ⚭ mother of Antigonus Monophtalmus
+- **mother of Antigonus Monophtalmus** (Q74003) — [Wikidata Q115747052](https://www.wikidata.org/wiki/Q115747052) ⚭ Periander of Pella, Philippus
+- **Korrhagos** (Q74006) — b. 380 CE — [Wikidata Q116474581](https://www.wikidata.org/wiki/Q116474581)
+- **Stateira** (Q74010) ⚭ Artaxerxes II of Persia
+- **Mamercus Aemilius Mamercinus** (Q74028) — [Wikidata Q957079](https://www.wikidata.org/wiki/Q957079) ⚭ N.N.
+- **N.N.** (Q74031) ⚭ Mamercus Aemilius Mamercinus
+- **Lucius Aemilius Mamercus** (Q74049)
+- **Caia Caecilia Tanaquil** (Q74073) ⚭ Lucius Tarquinius Priscus, King of Rome
+- **Lucius Tarquinius Priscus, King of Rome** (Q74076) ⚭ Caia Caecilia Tanaquil
+- **Aulus Manlius Vulso  Capitolinus** (Q74102)
+- **Gnaeus Marcius** (Q74180) ⚭ Virgilia
+- **Virgilia** (Q74183) ⚭ Gnaeus Marcius
+- **Gaius Julius Jullus, IV** (Q74264)
+- **Nabu-balatsu-iqbi** (Q74401) ⚭ Adad-Guppi
+- **Adad-Guppi** (Q74404) ⚭ Nabu-balatsu-iqbi
+- **Cyrus I** (Q74407) — d. 580 CE — [Wikidata Q295225](https://www.wikidata.org/wiki/Q295225) ⚭ Mandane of Media
+- **Astyages** (Q74410) — b. 700 CE, d. 600 CE — [Wikidata Q271527](https://www.wikidata.org/wiki/Q271527) ⚭ Aryenis
+- **Aryenis** (Q74413) — b. 550 CE, d. 600 CE — [Wikidata Q435246](https://www.wikidata.org/wiki/Q435246) ⚭ Astyages
+- **Philip I of Macedon** (Q74479) — b. 700 CE, d. 600 CE — [Wikidata Q318417](https://www.wikidata.org/wiki/Q318417) ⚭ Nikonoe
+- **Nikonoe** (Q74482) ⚭ Philip I of Macedon
+- **Achaemenes** (Q74485) — b. 800 CE, d. 700 CE — [Wikidata Q312032](https://www.wikidata.org/wiki/Q312032)
+- **Tros** (Q74698) — [Wikidata Q79999](https://www.wikidata.org/wiki/Q79999) ⚭ Q130498, Callirhoe, Q131440 +3 more
+- **Terra** (Q74701) — [Wikidata Q93172](https://www.wikidata.org/wiki/Q93172) ⚭ Peneus, Aether, Pontus +16 more
+- **Poseidon** (Q75039) — [Wikidata Q41127](https://www.wikidata.org/wiki/Q41127) ⚭ Amphitrite, Aphrodite, Demeter +56 more
+- **Q75282** (Q75282) ⚭ Calliope, Hecuba, Cyrene +29 more
+- **Stilbe** (Q75285) — [Wikidata Q1576404](https://www.wikidata.org/wiki/Q1576404) ⚭ Q75282
+- **Eurotas** (Q75288) — [Wikidata Q1378335](https://www.wikidata.org/wiki/Q1378335) ⚭ Clete
+- **Clete** (Q75291) — [Wikidata Q12283182](https://www.wikidata.org/wiki/Q12283182) ⚭ Eurotas
+- **Lycophron** (Q78959)
+- **Abron** (Q78962)
+- **Datames, Satrap of Cappadocia** (Q78968)
+- **Antigone  Soko ben Simeon** (Q78971)
+- **Artasyrus** (Q78974) — b. 500 CE, d. 400 CE — [Wikidata Q706174](https://www.wikidata.org/wiki/Q706174)
+- **Hasmon  HaCohen, High Priest** (Q85144)
+- **Onias I ben Juddua  High Priest of Israel** (Q85158)
+- **Psamtek Wahibre** (Q85253) ⚭ Mehetenweskhet
+- **Mehetenweskhet** (Q85255) ⚭ Psamtek Wahibre
+- **Piankhy** (Q85257) ⚭ Amenardis Ire
+- **Amenardis Ire** (Q85259) ⚭ Piankhy
+- **Omar V  Edomites** (Q86371)
+- **Hani  Banu Adnan** (Q86423)
+- **قورش الأول  بن الملك تسيبس** (Q99454)
+- **أريارامنس  بن الملك تيسبس** (Q99460)
+
+## Generation 41 (76 people) — circa 500 CE
+
+- **Pleione** (Q130015) — [Wikidata Q463865](https://www.wikidata.org/wiki/Q463865) ⚭ Atlas
+- **Peneus** (Q130071) — [Wikidata Q1364612](https://www.wikidata.org/wiki/Q1364612) ⚭ Creusa, Bura, Terra
+- **Creusa** (Q130131) — [Wikidata Q1232622](https://www.wikidata.org/wiki/Q1232622) ⚭ Peneus
+- **Aether** (Q130392) — [Wikidata Q189175](https://www.wikidata.org/wiki/Q189175) ⚭ Q130498, Dies, Terra +1 more
+- **Q130498** (Q130498) ⚭ Aether, Hesperus, Hypnos +2 more
+- **Atlas** (Q130582) — [Wikidata Q130818](https://www.wikidata.org/wiki/Q130818) ⚭ Aethra, Pleione, Tethys
+- **Q130652** (Q130652) ⚭ Nox, Nyx
+- **Memphis** (Q131030) — [Wikidata Q788268](https://www.wikidata.org/wiki/Q788268) ⚭ Epaphus
+- **Astyoche** (Q131114) — [Wikidata Q752353](https://www.wikidata.org/wiki/Q752353) ⚭ Erichthonius of Dardania
+- **Dies** (Q131430) — [Wikidata Q18206465](https://www.wikidata.org/wiki/Q18206465) ⚭ Aether
+- **Leto** (Q131510) — [Wikidata Q12958119](https://www.wikidata.org/wiki/Q12958119) ⚭ Q132032, Q74656
+- **Epaphus** (Q131757) — [Wikidata Q675699](https://www.wikidata.org/wiki/Q675699) ⚭ Memphis
+- **Erichthonius of Dardania** (Q132328) — [Wikidata Q1353705](https://www.wikidata.org/wiki/Q1353705) ⚭ Callirhoe, Astyoche
+- **Mantineus** (Q132620) — [Wikidata Q10323875](https://www.wikidata.org/wiki/Q10323875)
+- **Isonoe** (Q133009) — [Wikidata Q1237345](https://www.wikidata.org/wiki/Q1237345) ⚭ Q74656
+- **Hypermnestra** (Q133503) — [Wikidata Q472784](https://www.wikidata.org/wiki/Q472784) ⚭ Lynceus
+- **Lynceus** (Q133534) — [Wikidata Q7877819](https://www.wikidata.org/wiki/Q7877819) ⚭ Hypermnestra
+- **Lycurgus of Arcadia** (Q134330) — [Wikidata Q609650](https://www.wikidata.org/wiki/Q609650) ⚭ Cleophile, Eurynome, Antinoe +1 more
+- **Cleophile** (Q134605) — [Wikidata Q58023450](https://www.wikidata.org/wiki/Q58023450) ⚭ Lycurgus of Arcadia
+- **Menelaus of Macedon** (Q135088) — [Wikidata Q10328651](https://www.wikidata.org/wiki/Q10328651)
+- **Ariobarzanes I of Phrygia** (Q135967) — b. 500 CE, d. 400 CE — [Wikidata Q430647](https://www.wikidata.org/wiki/Q430647)
+- **Gaius Licinius Lucullus** (Q148080) — b. 229 CE — [Wikidata Q11016959](https://www.wikidata.org/wiki/Q11016959)
+- **Necho I** (Q195390) — b. 700 CE, d. 664 CE — [Wikidata Q455594](https://www.wikidata.org/wiki/Q455594) ⚭ Amenirdis II, Princess of Egypt, Istemabat
+- **Arsames** (Q51720)
+- **Semein  HaDavid** (Q51740)
+- **Massinissa  banu numidia** (Q71873)
+- **Lucius Aemulius  Mamercus** (Q73878)
+- **Quintus Sulpicius Camerinus** (Q73896)
+- **Caeso  Fabius** (Q73899)
+- **Publius Postumius  Tubertus** (Q73904)
+- **Lucius  Quinctius** (Q73907)
+- **Machatas of Elimaea** (Q74058)
+- **Hydarnes, III of Armenia** (Q74061) ⚭ Parysatis  Queen of Persia
+- **Parysatis  Queen of Persia** (Q74064) ⚭ Hydarnes, III of Armenia
+- **Marcus Aemilius Mamercus** (Q74085) ⚭ NN (Wife of Marcus Aemilius Mamercus)
+- **NN (Wife of Marcus Aemilius Mamercus)** (Q74088) ⚭ Marcus Aemilius Mamercus
+- **Aemilius Mamercus** (Q74108)
+- **Marcia** (Q74135) ⚭ NN (Husband of Marcia)
+- **NN (Husband of Marcia)** (Q74138) ⚭ Marcia
+- **?  de Tarquinii** (Q74141) ⚭ Demaratus  the Corinthian
+- **Demaratus  the Corinthian** (Q74144) ⚭ ?  de Tarquinii
+- **Gnaeus Manlius  Vulso** (Q74174)
+- **Gnaeus Marcius Coriolanus** (Q74222) ⚭ Veturia
+- **Veturia** (Q74225) ⚭ Gnaeus Marcius Coriolanus
+- **Lucius Julius Jullus, III** (Q74329)
+- **Shuma-damqa** (Q74446) ⚭ Nabu-balat-iqbi
+- **Nabu-balat-iqbi** (Q74449) ⚭ Shuma-damqa
+- **NN** (Q74452) — [Wikidata Q131732244](https://www.wikidata.org/wiki/Q131732244) ⚭ Cyaxares
+- **Cyaxares** (Q74455) — b. 700 CE, d. 584 CE — [Wikidata Q297855](https://www.wikidata.org/wiki/Q297855) ⚭ NN
+- **Alyattes of Lydia** (Q74458) — b. 640 CE, d. 560 CE — [Wikidata Q299551](https://www.wikidata.org/wiki/Q299551) ⚭ Argenta  of Tartessos
+- **Argenta  of Tartessos** (Q74461) ⚭ Alyattes of Lydia
+- **Argaeus I of Macedon** (Q74521) — b. 650 CE, d. 700 CE — [Wikidata Q252091](https://www.wikidata.org/wiki/Q252091) ⚭ Prothoe
+- **Prothoe** (Q74524) ⚭ Argaeus I of Macedon
+- **Erebos** (Q74717) — [Wikidata Q131090](https://www.wikidata.org/wiki/Q131090) ⚭ Ananke, Q130498, Nox +2 more
+- **Nyx** (Q74720) — [Wikidata Q131203](https://www.wikidata.org/wiki/Q131203) ⚭ Aether, Hesperus, Q130652 +5 more
+- **Tethys** (Q74970) — [Wikidata Q184216](https://www.wikidata.org/wiki/Q184216) ⚭ Phasis, Atlas, Palaestinus +2 more
+- **Danaus** (Q74973) — [Wikidata Q161419](https://www.wikidata.org/wiki/Q161419) ⚭ Pompholyge, Demeter, Parthenope +12 more
+- **Myles** (Q75318) — [Wikidata Q1956649](https://www.wikidata.org/wiki/Q1956649) ⚭ Cleocharia
+- **Cleocharia** (Q75345) — [Wikidata Q2980753](https://www.wikidata.org/wiki/Q2980753) ⚭ Myles, Lelex
+- **Lycurgus the Lawgiver  of Sparta** (Q78977)
+- **Callias** (Q78980)
+- **Camissares, Satrap of Cilicia** (Q78983)
+- **N.N.** (Q78986) ⚭ Simeon I  Saddiq ben Elias
+- **Simeon I  Saddiq ben Elias** (Q78989) ⚭ N.N.
+- **Idaiah  HaCohen, High Priest** (Q85146)
+- **Jaddua  High Priest of Israel** (Q85160)
+- **Istemabat** (Q85261) ⚭ Necho I, Menkheperre Necho
+- **Menkheperre Necho** (Q85263) — b. 700 CE, d. 664 CE — [Wikidata Q455594](https://www.wikidata.org/wiki/Q455594) ⚭ Istemabat
+- **Harsiese II** (Q85265) ⚭ Sheta ., DjedMutesankh
+- **DjedMutesankh** (Q85267) ⚭ Harsiese II
+- **Tanibi** (Q85269) ⚭ Harsies
+- **Harsies** (Q85271) ⚭ Tanibi
+- **Hadad VIII  Edomites** (Q86369)
+- **Nashir  Banu Adnan** (Q86425)
+- **Oceanus** (Q90309) — [Wikidata Q161419](https://www.wikidata.org/wiki/Q161419) ⚭ Pompholyge, Demeter, Parthenope +2 more
+- **الملك تيسبس  بن الملك أخمينيس** (Q99462)
+
+## Generation 42 (60 people) — circa 700 CE
+
+- **Asia** (Q130019) — [Wikidata Q605744](https://www.wikidata.org/wiki/Q605744) ⚭ Iapetos, Iapetos
+- **Simoeis** (Q130077) — [Wikidata Q2479077](https://www.wikidata.org/wiki/Q2479077)
+- **Coeus** (Q130452) — [Wikidata Q182837](https://www.wikidata.org/wiki/Q182837) ⚭ Phoebe
+- **Phoebe** (Q130456) — [Wikidata Q183281](https://www.wikidata.org/wiki/Q183281) ⚭ Coeus
+- **Ananke** (Q130496) — [Wikidata Q4286521](https://www.wikidata.org/wiki/Q4286521) ⚭ Chronos, Erebos
+- **Chronos** (Q131426) — [Wikidata Q272918](https://www.wikidata.org/wiki/Q272918) ⚭ Ananke, Q131428
+- **Q131428** (Q131428) ⚭ Chronos
+- **Dardanus** (Q131683) — [Wikidata Q461212](https://www.wikidata.org/wiki/Q461212) ⚭ Batea, Myrina, Arisbe +1 more
+- **Q132255** (Q132255) ⚭ Polyxo, Pieria, Europe +7 more
+- **Aegyptus** (Q132256) — [Wikidata Q404844](https://www.wikidata.org/wiki/Q404844) ⚭ Caliadne, Euryrrhoe, Isaea +4 more
+- **Batea** (Q132324) — [Wikidata Q126319](https://www.wikidata.org/wiki/Q126319) ⚭ Dardanus
+- **Neaera** (Q133364) — [Wikidata Q3874208](https://www.wikidata.org/wiki/Q3874208) ⚭ Autolycus, Aleus
+- **Elephantis** (Q133464) — [Wikidata Q15208115](https://www.wikidata.org/wiki/Q15208115) ⚭ Q132255, Danaus
+- **Argyphia** (Q133529) — [Wikidata Q12873965](https://www.wikidata.org/wiki/Q12873965) ⚭ Aegyptus
+- **Nabopolassar** (Q135953) — d. 605 CE — [Wikidata Q273514](https://www.wikidata.org/wiki/Q273514)
+- **Deiokes** (Q153763)
+- **Artabanus** (Q51716)
+- **Josech  HaDavid** (Q51736)
+- **Jugurtha  banu numidia** (Q71876)
+- **Lucius Aemilius  Mamercinus** (Q73961)
+- **Servius Sulpicius Camerinus** (Q73973)
+- **Marcus  Fabius** (Q73976)
+- **Quintus  Postumius** (Q73982)
+- **Princess Dght. II of Archelaus  Macedonia** (Q74117) ⚭ Derdas, archon of Elimiotis
+- **Derdas, archon of Elimiotis** (Q74120) ⚭ Princess Dght. II of Archelaus  Macedonia
+- **Hydarnes** (Q74123)
+- **Lucius Aemilius Mamercus** (Q74153) ⚭ NN (Wife of Lucius Aemilius Mamercus)
+- **NN (Wife of Lucius Aemilius Mamercus)** (Q74156) ⚭ Lucius Aemilius Mamercus
+- **Pompilia** (Q74198) ⚭ Numa Marcius  Numae
+- **Numa Marcius  Numae** (Q74201) ⚭ Pompilia
+- **Gnaeus Manlius  Vulso** (Q74219)
+- **Gnaeus Marcius** (Q74276) ⚭ NN (Wife of Gnaeus Marcius)
+- **NN (Wife of Gnaeus Marcius)** (Q74279) ⚭ Gnaeus Marcius
+- **Lucius Julius Jullus, II** (Q74371)
+- **Assur-etil-same-ersiti-uballitsu** (Q74488)
+- **Sadyattes** (Q74497) — b. 700 CE, d. 617 CE — [Wikidata Q374756](https://www.wikidata.org/wiki/Q374756)
+- **Cleopatra** (Q74575) — [Wikidata Q97667351](https://www.wikidata.org/wiki/Q97667351) ⚭ Perdiccas I of Macedon
+- **Perdiccas I of Macedon** (Q74578) — [Wikidata Q313889](https://www.wikidata.org/wiki/Q313889) ⚭ Simiche, Queen of Macedonia, Cleopatra
+- **Aleus** (Q75096) — [Wikidata Q1536527](https://www.wikidata.org/wiki/Q1536527) ⚭ Neaera, Cleobule, Neaera
+- **Iapetos** (Q75225) — [Wikidata Q179543](https://www.wikidata.org/wiki/Q179543) ⚭ Asia, Asopis, Themis +2 more
+- **Lycaon** (Q75237) — [Wikidata Q501667](https://www.wikidata.org/wiki/Q501667) ⚭ Nonacris, Larissa, Nonacris +1 more
+- **Lelex** (Q75342) — [Wikidata Q1419059](https://www.wikidata.org/wiki/Q1419059) ⚭ Cleocharia
+- **Eurotas  the River** (Q75366)
+- **Lycomedes** (Q78992)
+- **N.N.** (Q78995) ⚭ Elias  ben Tobit
+- **Elias  ben Tobit** (Q78998) ⚭ N.N.
+- **Johanan  High Priest of Israel** (Q85162)
+- **Taharqa** (Q85273) ⚭ Naparaye, Takahatenamun \ Tekahatamani*  Tekahatamani*
+- **Takahatenamun \ Tekahatamani*  Tekahatamani*** (Q85275) ⚭ Taharqa
+- **Nn** (Q85277) ⚭ Tefnacht II
+- **Tefnacht II** (Q85279) ⚭ Nn
+- **Tabetjet  of Egypt** (Q85281) ⚭ Khamor, Vizier, Hereditary Mayor of Thebes, Harkhebi
+- **Harkhebi** (Q85283) ⚭ Tabetjet  of Egypt
+- **Takentese** (Q85285) ⚭ Harkhebi
+- **Harkhebi** (Q85287) ⚭ Takentese
+- **Zerah III  Edomites** (Q86367)
+- **Salih  Banu Adnan** (Q86427)
+- **Iapetos** (Q90374) ⚭ Asia, Asopis, Themis +2 more
+- **Phraortes** (Q99470) ⚭ Q74590
+- **الملك أخمينيس** (Q99472)
+
+## Generation 43 (52 people) — circa 753 CE
+
+- **Maurice** (Q108975) — [Wikidata Q181764](https://www.wikidata.org/wiki/Q181764) ⚭ Constantina
+- **Constantina** (Q108977) — [Wikidata Q3695445](https://www.wikidata.org/wiki/Q3695445) ⚭ Maurice
+- **Electra** (Q130716) — [Wikidata Q858663](https://www.wikidata.org/wiki/Q858663) ⚭ Corythus, Q74656
+- **Teucer, king of Troy** (Q131066) — [Wikidata Q1513788](https://www.wikidata.org/wiki/Q1513788)
+- **Hydros** (Q132730) — [Wikidata Q12656482](https://www.wikidata.org/wiki/Q12656482) ⚭ Thesis, Terra
+- **Pereus** (Q134139) — [Wikidata Q3899772](https://www.wikidata.org/wiki/Q3899772)
+- **Daskylos** (Q153764)
+- **Vishtaspa** (Q51712)
+- **Joda  HaDavid** (Q51732)
+- **Syphax  banu numidia** (Q71879)
+- **Tiberius Aemulius Mamercus** (Q74025)
+- **Servius Sulpicius Camerinus** (Q74037)
+- **Quintus  Fabius** (Q74040) ⚭ Q74043
+- **Q74043** (Q74043) ⚭ Quintus  Fabius
+- **Archelaus I, king of Macedonia** (Q74186)
+- **Hydarnes** (Q74189)
+- **Marcus Aemilius** (Q74207) ⚭ NN (Wife of Marcus Aemilius)
+- **NN (Wife of Marcus Aemilius)** (Q74210) ⚭ Marcus Aemilius
+- **Tatia** (Q74252) ⚭ King of Rome II - Numa Pompilius (716-672 BC)
+- **King of Rome II - Numa Pompilius (716-672 BC)** (Q74255) — b. 753 CE, d. 671 CE — [Wikidata Q200031](https://www.wikidata.org/wiki/Q200031) ⚭ Tatia, Lucretia, Egeria +1 more
+- **NN (Wife of Marcius)** (Q74258) ⚭ Marcus
+- **Marcus** (Q74261) — [Wikidata Q118186](https://www.wikidata.org/wiki/Q118186) ⚭ NN (Wife of Marcius)
+- **Publius  Manlius** (Q74273)
+- **Gnaeus Marcius** (Q74338) ⚭ NN (Wife of Gnaeus Marcius)
+- **NN (Wife of Gnaeus Marcius)** (Q74341) ⚭ Gnaeus Marcius
+- **Gaius Julius Jullus, III** (Q74416)
+- **Q74509** (Q74509)
+- **Ashur-hamat** (Q74527) ⚭ Esarhaddon, king of Assyria
+- **Esarhaddon, king of Assyria** (Q74530) ⚭ Ashur-hamat
+- **Deioces** (Q74533) — [Wikidata Q332578](https://www.wikidata.org/wiki/Q332578) ⚭ wife of Deioces
+- **Ardys II** (Q74542) — b. 750 CE, d. 629 CE — [Wikidata Q640203](https://www.wikidata.org/wiki/Q640203) ⚭ N.N.
+- **Cleonice** (Q74617) ⚭ Tyrimmas of Macedon
+- **Tyrimmas of Macedon** (Q74620) — b. 800 CE, d. 700 CE — [Wikidata Q726358](https://www.wikidata.org/wiki/Q726358) ⚭ Cleonice
+- **Apheidas** (Q75132) — [Wikidata Q3606201](https://www.wikidata.org/wiki/Q3606201)
+- **Cyllene** (Q75276) — [Wikidata Q7595427](https://www.wikidata.org/wiki/Q7595427) ⚭ Lycaon, Pelasgus
+- **Pelasgus** (Q75279) — [Wikidata Q1636827](https://www.wikidata.org/wiki/Q1636827) ⚭ Meliboea, Deïaneira, Cyllene +1 more
+- **Libya** (Q75363) ⚭ Poseidon
+- **Pausanias of Elimaea  of Macedonia** (Q79004)
+- **Tobit  ben Hananya** (Q79007)
+- **Joiada  High Priest of Israel** (Q85164)
+- **Piye** (Q85289) ⚭ Amenardis Akaluka, Kenensat of Nubia, Tabiry Queen Consort of Nubia +3 more
+- **Abar** (Q85291) ⚭ Piye
+- **Qualhat** (Q85293) ⚭ Schebitku
+- **Schebitku** (Q85295) ⚭ Qualhat
+- **Bokchoris** (Q85297)
+- **Sharshaiu  of Nubia** (Q85299) ⚭ Gupataenese  of Nubia
+- **Gupataenese  of Nubia** (Q85301) ⚭ Sharshaiu  of Nubia
+- **Haremket** (Q85303)
+- **Edomiah  Edomites** (Q86365)
+- **Harith  Banu Adnan** (Q86429)
+- **wife of Deioces** (Q99480) — [Wikidata Q134988448](https://www.wikidata.org/wiki/Q134988448) ⚭ Deioces
+- **N.N.** (Q99482) ⚭ Ardys II
+
+## Generation 44 (52 people) — circa 800 CE
+
+- **Tiberius II Constantine** (Q109099) — [Wikidata Q31491](https://www.wikidata.org/wiki/Q31491) ⚭ Ino Anastasia
+- **Ino Anastasia** (Q109101) — [Wikidata Q125493963](https://www.wikidata.org/wiki/Q125493963) ⚭ Tiberius II Constantine
+- **Zenonis** (Q118436) — [Wikidata Q2316077](https://www.wikidata.org/wiki/Q2316077) ⚭ Basiliscus
+- **Scamander** (Q130067) — [Wikidata Q1134694](https://www.wikidata.org/wiki/Q1134694) ⚭ Idaea
+- **Idaea** (Q131064) — [Wikidata Q2007963](https://www.wikidata.org/wiki/Q2007963) ⚭ Scamander, Scamander
+- **Laodice** (Q133985) — [Wikidata Q419120](https://www.wikidata.org/wiki/Q419120) ⚭ Elatus
+- **Pompo** (Q134935) — b. 800 CE — [Wikidata Q98350736](https://www.wikidata.org/wiki/Q98350736)
+- **Lohurasp** (Q51708)
+- **Joannan  HaDavid** (Q51728)
+- **Baga  banu numidia** (Q71885)
+- **Lucius Aemilius  Mamercus** (Q74082)
+- **Servius Sulpicius Camerinus** (Q74094)
+- **Quintus  Fabius** (Q74097) ⚭ Otaclia  Fabius
+- **Otaclia  Fabius** (Q74099) ⚭ Quintus  Fabius
+- **Cleopatra** (Q74231) — b. 500 CE — [Wikidata Q18120443](https://www.wikidata.org/wiki/Q18120443) ⚭ Perdiccas II of Macedon
+- **Bagabigna** (Q74234) ⚭ N.N.
+- **N.N.** (Q74237) ⚭ Bagabigna
+- **Mamericus Aemilius IV** (Q74267) ⚭ NN (Wife of Mamericus Aemilius IV)
+- **NN (Wife of Mamericus Aemilius IV)** (Q74270) ⚭ Mamericus Aemilius IV
+- **Titus Tatius I** (Q74311) ⚭ NN (Wife of Titus Tatius)
+- **NN (Wife of Titus Tatius)** (Q74314) ⚭ Titus Tatius I
+- **Q74317** (Q74317)
+- **Pomponius** (Q74320) ⚭ Silvia of Rome
+- **Silvia of Rome** (Q74323) ⚭ Pomponius
+- **Basiliscus** (Q74326) — [Wikidata Q193056](https://www.wikidata.org/wiki/Q193056) ⚭ Zenonis
+- **Gnaeus(?) Marcius  of Rome** (Q74380) ⚭ NN (Wife of Gnaeus Marcius)
+- **NN (Wife of Gnaeus Marcius)** (Q74383) ⚭ Gnaeus(?) Marcius  of Rome
+- **Gaius Julius  Julles II** (Q74464)
+- **Sennacherib** (Q74581) — [Wikidata Q207140](https://www.wikidata.org/wiki/Q207140) ⚭ Naqi'a-Zakutu
+- **Naqi'a-Zakutu** (Q74584) ⚭ Sennacherib
+- **Nyssia** (Q74593) — [Wikidata Q18720650](https://www.wikidata.org/wiki/Q18720650) ⚭ Candaules, Gyges of Lydia
+- **Gyges of Lydia** (Q74596) — d. 652 CE — [Wikidata Q312537](https://www.wikidata.org/wiki/Q312537) ⚭ Nyssia
+- **Kleonike** (Q74659) ⚭ Coenus
+- **Coenus** (Q74662) — b. 900 CE, d. 800 CE — [Wikidata Q383036](https://www.wikidata.org/wiki/Q383036) ⚭ Kleonike
+- **Arcas** (Q75174) — [Wikidata Q606422](https://www.wikidata.org/wiki/Q606422) ⚭ Laodameia, Leanira, Chrysopeleia +3 more
+- **Laodamia** (Q75177) ⚭ Arcas
+- **Elatus** (Q75180) — [Wikidata Q1325009](https://www.wikidata.org/wiki/Q1325009) ⚭ Laodice, Laodike
+- **Niobe** (Q75315) — [Wikidata Q1072573](https://www.wikidata.org/wiki/Q1072573) ⚭ Q74656, Zeus
+- **Epaphos** (Q75381) ⚭ Memphis
+- **Memphis** (Q75384) ⚭ Epaphos
+- **Derdas I  of Macedonia** (Q79013)
+- **Hananiah?** (Q79016)
+- **Eliashib  High Priest of Israel** (Q85166)
+- **Pebatjma** (Q85305) ⚭ Kashta Pharaoh of  Egypt
+- **Kashta Pharaoh of  Egypt** (Q85307) ⚭ Pebatjma
+- **Pije** (Q85309)
+- **Tefnacht I** (Q85311)
+- **Shabaka Pharaoh of  Egypt** (Q85314) ⚭ Abhjar  Abhjar
+- **Abhjar  Abhjar** (Q85316) ⚭ Shabaka Pharaoh of  Egypt
+- **Omar IV  Edomites** (Q86363)
+- **Imran  Banu Adnan** (Q86431)
+- **Zeus** (Q90359) ⚭ Electra, Callisto, Niobe +7 more
+
+## Generation 45 (44 people) — circa 900 CE
+
+- **Justin II** (Q109187) — [Wikidata Q183813](https://www.wikidata.org/wiki/Q183813) ⚭ Sophia
+- **father of Basiliscus** (Q114949) — [Wikidata Q116472171](https://www.wikidata.org/wiki/Q116472171)
+- **Cinyras** (Q132585) — [Wikidata Q878246](https://www.wikidata.org/wiki/Q878246) ⚭ Aphrodite, Metharme, Cenchreis +1 more
+- **Khosrow** (Q51704)
+- **Rhesa  HaDavid** (Q51724)
+- **Bocchoris  banu numidia** (Q71888)
+- **Mamercus  Aemilius** (Q74150)
+- **Publius Sulpicius** (Q74165)
+- **Marcus  Fabius** (Q74168)
+- **Numerius  Otacilius** (Q74171)
+- **Arrhidaeus Of  d'Elimee** (Q74287) ⚭ Daughter of Amyntas I  Macedonia
+- **Daughter of Amyntas I  Macedonia** (Q74290) ⚭ Arrhidaeus Of  d'Elimee
+- **Pazouk** (Q74293)
+- **Mamericus Aemilius III** (Q74332) ⚭ NN (Wife of Mamericus Aemilius III)
+- **NN (Wife of Mamericus Aemilius III)** (Q74335) ⚭ Mamericus Aemilius III
+- **Ancus Marcius Junius  Marcius** (Q74425) ⚭ Hostilia
+- **Hostilia** (Q74428) ⚭ Ancus Marcius Junius  Marcius
+- **Gaius Julius Jullus, I** (Q74500)
+- **Rhea Silvia** (Q74602) — [Wikidata Q219936](https://www.wikidata.org/wiki/Q219936) ⚭ Tiberinus, Fautstulus, Mars
+- **Fautstulus** (Q74605) ⚭ Rhea Silvia
+- **Sargon II** (Q74623) — [Wikidata Q208336](https://www.wikidata.org/wiki/Q208336)
+- **Marduk-apla-iddina II** (Q74626) — [Wikidata Q356505](https://www.wikidata.org/wiki/Q356505)
+- **Arnossus, king of Mysia** (Q74635)
+- **N.N.** (Q74638) ⚭ Dascylus
+- **Dascylus** (Q74641) — [Wikidata Q1171928](https://www.wikidata.org/wiki/Q1171928) ⚭ N.N.
+- **Caranus of Macedon** (Q74683) — b. 900 CE, d. 800 CE — [Wikidata Q313910](https://www.wikidata.org/wiki/Q313910) ⚭ Lanice  ???
+- **Lanice  ???** (Q74686) ⚭ Caranus of Macedon
+- **Callisto** (Q75207) — [Wikidata Q203673](https://www.wikidata.org/wiki/Q203673) ⚭ Q74656, Zeus
+- **Amyclas** (Q75213) ⚭ Diomede
+- **Meganeira** (Q75216) — [Wikidata Q3853936](https://www.wikidata.org/wiki/Q3853936) ⚭ Arcas
+- **Phoroneus** (Q75336) — [Wikidata Q649624](https://www.wikidata.org/wiki/Q649624) ⚭ Cerdo, Teledice, Cinna +1 more
+- **Laodice** (Q75339) — [Wikidata Q40120625](https://www.wikidata.org/wiki/Q40120625) ⚭ Phoroneus
+- **Io** (Q75396) ⚭ Q74656
+- **Joiakim  High Priest of Israel** (Q85168)
+- **Kaschta** (Q85318)
+- **Osorkon** (Q85320)
+- **Abar  of Kush** (Q85322) ⚭ Peksatre
+- **Peksatre** (Q85324) ⚭ Abar  of Kush
+- **Barak II  Edomites** (Q86361)
+- **Adnan  Banu Ismail** (Q86433)
+- **Cronos** (Q90368) ⚭ Rhea
+- **Rhea** (Q90376) ⚭ Cronos
+- **Phoroneus** (Q90406) ⚭ Teledike, a Nymph
+- **Teledike, a Nymph** (Q90484) ⚭ Phoroneus
+
+## Generation 46 (32 people) — circa 566 CE
+
+- **Vigilantia** (Q109253) — [Wikidata Q7928931](https://www.wikidata.org/wiki/Q7928931)
+- **Amathusa** (Q133977) — [Wikidata Q15782893](https://www.wikidata.org/wiki/Q15782893) ⚭ Q75282
+- **Zerubbabel** (Q135796) — b. 566 CE, d. 510 CE — [Wikidata Q320139](https://www.wikidata.org/wiki/Q320139) ⚭ Amytis, Esther
+- **Kavus** (Q51700)
+- **Adherbal  banu numidia** (Q71891)
+- **Caeso  Fabius** (Q74216)
+- **Arrhidaeus** (Q74350) — [Wikidata Q121409947](https://www.wikidata.org/wiki/Q121409947)
+- **Pask'am** (Q74353)
+- **Mamericus Aemilius II** (Q74374) ⚭ NN (Wife of Mamericus Aemilius II)
+- **NN (Wife of Mamericus Aemilius II)** (Q74377) ⚭ Mamericus Aemilius II
+- **Tullus Hostilius** (Q74473) ⚭ Silvia  of Rome
+- **Silvia  of Rome** (Q74476) ⚭ Tullus Hostilius
+- **Lucius Julius Jullus, I** (Q74545)
+- **Numitor** (Q74647) — [Wikidata Q660623](https://www.wikidata.org/wiki/Q660623) ⚭ N.N.
+- **N.N.** (Q74650) ⚭ Numitor
+- **Tiglath-Pileser, king of Assyria** (Q74665)
+- **Temenus** (Q74704) — [Wikidata Q636796](https://www.wikidata.org/wiki/Q636796)
+- **Nonacris** (Q75240) ⚭ Lycaon
+- **Lacedaemon  of Troy** (Q75252) ⚭ Sparta, Sparta
+- **Crocon** (Q75255) — [Wikidata Q3698275](https://www.wikidata.org/wiki/Q3698275) ⚭ Saisara, Saesara
+- **Saesara** (Q75258) ⚭ Crocon
+- **Melia** (Q75357) — [Wikidata Q785598](https://www.wikidata.org/wiki/Q785598) ⚭ Q75282, Inachus, Inachus
+- **Inachus** (Q75360) — [Wikidata Q735623](https://www.wikidata.org/wiki/Q735623) ⚭ Argeia, Colaxe, Melia
+- **Joshua  High Priest of Israel** (Q85170)
+- **Nn** (Q85326)
+- **Shapenuapit** (Q85328)
+- **Zadok II  Edomites** (Q86359)
+- **Nabhan  Banu Ismail** (Q86503)
+- **Amytis** (Q86754) ⚭ Zerubbabel
+- **Inachus** (Q90325) ⚭ Melia
+- **Lykaon** (Q90394) ⚭ Nonacris
+- **Nonacris** (Q90480) ⚭ Lykaon
+
+## Generation 47 (29 people)
+
+- **Vigilantia** (Q109303) — [Wikidata Q107437998](https://www.wikidata.org/wiki/Q107437998) ⚭ Justin I
+- **Shealtiel** (Q135673) — d. 541 CE — [Wikidata Q2256348](https://www.wikidata.org/wiki/Q2256348)
+- **concubine** (Q51664) ⚭ Cyrus the Great
+- **Qobad** (Q51696)
+- **Gauda  banu numidia** (Q71894)
+- **Skayordis (Sgaiort)** (Q74395)
+- **Mamericus Aemilius I** (Q74419) ⚭ NN (Wife of Mamericus Aemilius I)
+- **NN (Wife of Mamericus Aemilius I)** (Q74422) ⚭ Mamericus Aemilius I
+- **Q74512** (Q74512)
+- **Pompilia  of Rome** (Q74515) ⚭ Romulus  of Rome
+- **Romulus  of Rome** (Q74518) ⚭ Pompilia  of Rome
+- **Numerius Julius Jullus** (Q74599)
+- **Procas** (Q74671) — d. 794 CE — [Wikidata Q887384](https://www.wikidata.org/wiki/Q887384) ⚭ N.N.
+- **N.N.** (Q74674) ⚭ Procas
+- **Adad-nirari III, king of Assyria** (Q74689) — [Wikidata Q313127](https://www.wikidata.org/wiki/Q313127)
+- **Aristomachus** (Q74723) — [Wikidata Q311536](https://www.wikidata.org/wiki/Q311536)
+- **Taygete** (Q75294) ⚭ Q74656
+- **Triptolemus** (Q75297) — [Wikidata Q269243](https://www.wikidata.org/wiki/Q269243)
+- **Eleusis** (Q75300) — [Wikidata Q1328260](https://www.wikidata.org/wiki/Q1328260) ⚭ Hyona
+- **Hyona** (Q75303) — [Wikidata Q40114098](https://www.wikidata.org/wiki/Q40114098) ⚭ Eleusis
+- **Jehozadak  High Priest of Israel** (Q85172)
+- **Djetbastetiuesanch** (Q85332) ⚭ Scheschonq III X
+- **Q85334** (Q85334) ⚭ Gemnefsutkapu
+- **Gemnefsutkapu** (Q85336) ⚭ Q85334
+- **Hadad VII  Edomites** (Q86357)
+- **Harith  Banu Ismail** (Q86501)
+- **Meliboea** (Q90319) ⚭ Pelasgus
+- **Taygete** (Q90382) ⚭ Zeus
+- **Scheschonq III X** (Q97015) ⚭ Djetbastetiuesanch
+
+## Generation 48 (29 people) — circa 616 CE
+
+- **Daeira** (Q130125) — [Wikidata Q4154083](https://www.wikidata.org/wiki/Q4154083) ⚭ Benfeld
+- **Benfeld** (Q130686) — [Wikidata Q22776](https://www.wikidata.org/wiki/Q22776) ⚭ Daeira, Aphrodite, Antianeira +16 more
+- **Cleodaeus** (Q134107) — [Wikidata Q329690](https://www.wikidata.org/wiki/Q329690)
+- **Jeconiah** (Q135539) — b. 616 CE, d. 597 CE — [Wikidata Q319049](https://www.wikidata.org/wiki/Q319049)
+- **Bahram** (Q51692)
+- **Arabio  banu numidia** (Q71897)
+- **Phavos, king of Armenia** (Q74440)
+- **Hostus Hostilius** (Q74560) ⚭ Q74563
+- **Q74563** (Q74563) ⚭ Hostus Hostilius
+- **Remus** (Q74566) — [Wikidata Q1242632](https://www.wikidata.org/wiki/Q1242632)
+- **Hersilia** (Q74569) ⚭ Romulus
+- **Romulus** (Q74572) — [Wikidata Q2186](https://www.wikidata.org/wiki/Q2186) ⚭ Hersilia, Hersilia
+- **Iulus  gens Julia** (Q74644)
+- **Aventinus of Alba Longa** (Q74695) — [Wikidata Q782871](https://www.wikidata.org/wiki/Q782871)
+- **Shamshi-Adad V, king of Assyria** (Q74708) — [Wikidata Q315465](https://www.wikidata.org/wiki/Q315465) ⚭ Semiramis
+- **Semiramis** (Q74711) — b. 850 BCE, d. 798 BCE — [Wikidata Q234177](https://www.wikidata.org/wiki/Q234177) ⚭ Shamshi-Adad V, king of Assyria
+- **Merops** (Q74732) — [Wikidata Q1319783](https://www.wikidata.org/wiki/Q1319783) ⚭ Clymene, Klymene, Hesione
+- **Klymene** (Q75192) — [Wikidata Q669635](https://www.wikidata.org/wiki/Q669635) ⚭ Helios, Merops, Prometheus +2 more
+- **Pleione** (Q75321) ⚭ Atlas
+- **Atlas** (Q75324) ⚭ Pleione
+- **Seraiah  High Priest of Israel** (Q85174)
+- **Djetbast** (Q85338) ⚭ Takelot
+- **Takelot** (Q85340) ⚭ Djetbast
+- **Libou  De Libye** (Q85342) ⚭ Usermaatre Setepenre Pami
+- **Usermaatre Setepenre Pami** (Q85344) ⚭ Karomat, Libou  De Libye
+- **Omar III  Edomites** (Q86355)
+- **Zayd  Banu Ismail** (Q86499)
+- **Πλειόνη** (Q90315)
+- **Hesione** (Q90476) — [Wikidata Q120197205](https://www.wikidata.org/wiki/Q120197205) ⚭ Helios, Merops, Prometheus +2 more
+
+## Generation 49 (25 people) — circa 634 CE
+
+- **Maia** (Q130708) — [Wikidata Q205233](https://www.wikidata.org/wiki/Q205233) ⚭ Q74656
+- **Hyllus** (Q132880) — [Wikidata Q847268](https://www.wikidata.org/wiki/Q847268) ⚭ Iole
+- **Iole** (Q134106) — [Wikidata Q744147](https://www.wikidata.org/wiki/Q744147) ⚭ Heracles, Hyllus
+- **Jehoiakim** (Q135406) — b. 634 CE, d. 598 CE — [Wikidata Q319034](https://www.wikidata.org/wiki/Q319034) ⚭ Nehusta, Q60198
+- **Nehusta** (Q4618) — [Wikidata Q20502297](https://www.wikidata.org/wiki/Q20502297) ⚭ Jehoiakim
+- **Shapur** (Q51688)
+- **Q60198** (Q60198) ⚭ Jehoiakim
+- **Bomilcar  banu numidia** (Q71900)
+- **Hersila** (Q74608) ⚭ Quirinus
+- **Quirinus** (Q74611) ⚭ Hersila
+- **Mars** (Q74614) — [Wikidata Q112](https://www.wikidata.org/wiki/Q112) ⚭ Bellona, Venus, Nerio +1 more
+- **Romulus Silvius** (Q74714) — [Wikidata Q887068](https://www.wikidata.org/wiki/Q887068)
+- **Shalmaneser III, king of Assyria** (Q74726) — [Wikidata Q211928](https://www.wikidata.org/wiki/Q211928)
+- **Testius** (Q74747)
+- **Themis** (Q75054) — [Wikidata Q159168](https://www.wikidata.org/wiki/Q159168) ⚭ Q74656, Pheres, Iapetos +1 more
+- **Azariah IV  High Priest of Israel** (Q85176)
+- **Osorkon II** (Q85346) ⚭ Karomat / Karomama /Princess of Egypt/, Taditanebten - Istemkheb Princess of Egypt, Mutemhat of Egypt +1 more
+- **Istemabet** (Q85348) ⚭ Osorkon II
+- **Scheschonq X** (Q85350)
+- **Usimare Setepenamun Shoshenq III** (Q85352) ⚭ Tjesbastperu, Djedbastesankh of Memphis, Djedbastesankh .
+- **Djedbastesankh .** (Q85354) ⚭ Usimare Setepenamun Shoshenq III
+- **Omar II  Edomites** (Q86353)
+- **Qusay  Banu Ismail** (Q86497)
+- **Porsena  Julius** (Q90668) ⚭ N.N.
+- **N.N.** (Q90670) ⚭ Porsena  Julius
+
+## Generation 50 (27 people) — circa 648 CE
+
+- **Heracles** (Q131715) — [Wikidata Q122248](https://www.wikidata.org/wiki/Q122248) ⚭ Bolbe, Echidna, Melite +53 more
+- **Q132032** (Q132032) ⚭ Metis, Ceres, Leto +5 more
+- **Juno** (Q132033) — [Wikidata Q125046](https://www.wikidata.org/wiki/Q125046) ⚭ Q132032
+- **Deianira** (Q132408) — [Wikidata Q272000](https://www.wikidata.org/wiki/Q272000) ⚭ Heracles
+- **Eurytus** (Q133770) — [Wikidata Q939149](https://www.wikidata.org/wiki/Q939149) ⚭ Antiope
+- **Antiope** (Q134435) — [Wikidata Q22906403](https://www.wikidata.org/wiki/Q22906403) ⚭ Eurytus
+- **Josiah** (Q135301) — b. 648 CE, d. 609 CE — [Wikidata Q313228](https://www.wikidata.org/wiki/Q313228) ⚭ Hamutal, Zebudah, Q60222
+- **Elnathan** (Q4619)
+- **Zebudah** (Q4626) — [Wikidata Q30527376](https://www.wikidata.org/wiki/Q30527376) ⚭ Josiah
+- **Ardashir** (Q51684)
+- **Q60222** (Q60222) ⚭ Josiah
+- **Iarbas  banu numidia** (Q71903)
+- **Agrippa Silvius** (Q74729) — d. 876 CE — [Wikidata Q396998](https://www.wikidata.org/wiki/Q396998)
+- **Ashurnasirpal II, king of Assyria** (Q74735) ⚭ Mulisu
+- **Mulisu** (Q74738) ⚭ Ashurnasirpal II, king of Assyria
+- **Ceisus** (Q74759)
+- **Hilkiah  High Priest of Israel** (Q85178)
+- **Takelot I** (Q85356) ⚭ Kapes
+- **Kapes** (Q85358) ⚭ Takelot I
+- **Hedjkheperre Setepenre Takelot II Si-Ese** (Q85360) ⚭ Tabektenasket, ?, Tashep +1 more
+- **Karomama Merymut** (Q85362) ⚭ Hedjkheperre Setepenre Takelot II Si-Ese
+- **Takelot** (Q85364) ⚭ Tenta-Menope of Egypt, Tjesbastperu, Djedbastesankh
+- **Djedbastesankh** (Q85366) ⚭ Takelot
+- **Hadad VI  Edomites** (Q86351)
+- **Abd Manaf  Banu Ismail** (Q86495)
+- **Larcius  Julius** (Q90664) ⚭ N.N.
+- **N.N.** (Q90666) ⚭ Larcius  Julius
+
+## Generation 51 (32 people) — circa 664 CE
+
+- **Q132028** (Q132028) ⚭ Entoria, Ops
+- **Oeneus** (Q132242) — [Wikidata Q749966](https://www.wikidata.org/wiki/Q749966) ⚭ Althaea, Periboea, Gorge
+- **Melaneus** (Q132577) — [Wikidata Q1996222](https://www.wikidata.org/wiki/Q1996222) ⚭ Oechalia, Stratonice
+- **Althaea** (Q133306) — [Wikidata Q440440](https://www.wikidata.org/wiki/Q440440) ⚭ Oeneus
+- **Oechalia** (Q133971) — [Wikidata Q27926189](https://www.wikidata.org/wiki/Q27926189) ⚭ Melaneus
+- **Amon of Judah** (Q135232) — b. 664 CE, d. 640 CE — [Wikidata Q313423](https://www.wikidata.org/wiki/Q313423) ⚭ Jedidah
+- **Heqakheperre Setepenre Shoshenq II Pharaoh of Egypt** (Q195426) ⚭ Tashedkhonsu of Egypt Queen Consort of Egypt, Nesitanebetashru Queen of Egypt, Wife of Heqakheperre Setepenre Shoshenk, King of Egypt .
+- **Wife of Heqakheperre Setepenre Shoshenk, King of Egypt .** (Q195802) ⚭ Heqakheperre Setepenre Shoshenq II Pharaoh of Egypt
+- **Pedaiah** (Q4617) — [Wikidata Q20101444](https://www.wikidata.org/wiki/Q20101444)
+- **Achbor** (Q4620)
+- **Jedidah** (Q4628) — [Wikidata Q135454571](https://www.wikidata.org/wiki/Q135454571) ⚭ Amon of Judah
+- **Peshotan** (Q51680)
+- **Q60195** (Q60195)
+- **Sheshonq  banu numidia** (Q71906)
+- **Tiberinus Silvius** (Q74741) — [Wikidata Q878527](https://www.wikidata.org/wiki/Q878527) ⚭ N.N.
+- **N.N.** (Q74744) ⚭ Tiberinus Silvius
+- **Tukulti-Ninurta II** (Q74750) — [Wikidata Q283560](https://www.wikidata.org/wiki/Q283560)
+- **Alkmene** (Q74768) — [Wikidata Q190543](https://www.wikidata.org/wiki/Q190543) ⚭ Rhadamanthus, Q132032, Amphitryon +2 more
+- **Temenos King of Argos** (Q74771) ⚭ Alkmene
+- **Shallum  High Priest of Israel** (Q85180)
+- **Osorkon I** (Q85368) ⚭ Maatkare Princess of Egypt, Shepensopdet A . ., Taschedchons
+- **Taschedchons** (Q85370) ⚭ Osorkon I
+- **Djedmutesakh IV .** (Q85372) ⚭ Ozorkon II Usermare Setepenamun "the Libyan" II "the Libyan", Pharaoh of  Pharaoh of Egypt
+- **Ozorkon II Usermare Setepenamun "the Libyan" II "the Libyan", Pharaoh of  Pharaoh of Egypt** (Q85374) ⚭ Djedmutesakh IV ., Karomat \ Karomama  Karomama ?Princess of Egypt
+- **Nilius .** (Q85376) ⚭ Re di Giuda, Tentsepeh
+- **Tentsepeh** (Q85378) ⚭ Nilius .
+- **Shoshenq D .** (Q85380) ⚭ Mother of Takelot, High Priest of Ptah at Memphis
+- **Mother of Takelot, High Priest of Ptah at Memphis** (Q85382) ⚭ Shoshenq D .
+- **Ezrah  Edomites** (Q86349)
+- **Nizar  Banu Ismail** (Q86493)
+- **Vopiscus  Julius** (Q90660) ⚭ N.N.
+- **N.N.** (Q90662) ⚭ Vopiscus  Julius
+
+## Generation 52 (28 people) — circa 709 CE
+
+- **Porthaon** (Q132239) — [Wikidata Q1178970](https://www.wikidata.org/wiki/Q1178970) ⚭ Euryte
+- **Euryte** (Q132240) — [Wikidata Q15838272](https://www.wikidata.org/wiki/Q15838272) ⚭ Porthaon
+- **Thestius** (Q132477) — [Wikidata Q768822](https://www.wikidata.org/wiki/Q768822) ⚭ Deidamia, Laophonte, Eurythemis
+- **Electryon** (Q132826) — [Wikidata Q26296](https://www.wikidata.org/wiki/Q26296) ⚭ Eurydice of Mycenae, Anaxo, Mideia
+- **Eurythemis** (Q133836) — [Wikidata Q1378562](https://www.wikidata.org/wiki/Q1378562) ⚭ Thestius
+- **Manasseh of Judah** (Q135184) — b. 709 CE, d. 642 CE — [Wikidata Q156328](https://www.wikidata.org/wiki/Q156328) ⚭ Meshullemeth
+- **Maatkare Princess of Egypt** (Q195016) ⚭ Osorkon I
+- **Karomat / Karomama /Princess of Egypt/** (Q195124) ⚭ Osorkon II
+- **Psusennes II . . High Priest of Amun, Pharaoh of Egypt** (Q195446) ⚭ This line really does not make sense
+- **Michaiah** (Q4621)
+- **Adaiah** (Q4629) — [Wikidata Q135454557](https://www.wikidata.org/wiki/Q135454557)
+- **Meshullemeth** (Q4630) — [Wikidata Q114995259](https://www.wikidata.org/wiki/Q114995259) ⚭ Manasseh of Judah
+- **Vishtaspa** (Q51676)
+- **Takfarinas  banu numidia** (Q71909)
+- **Capetus** (Q74753) — [Wikidata Q653264](https://www.wikidata.org/wiki/Q653264) ⚭ N.N.
+- **N.N.** (Q74756) ⚭ Capetus
+- **Adad-nirari II, king of Assyria** (Q74762)
+- **Aristomachus** (Q74780)
+- **Zadok II  High Priest of Israel** (Q85182)
+- **Karomama I** (Q85384) ⚭ Scheschonq I
+- **Scheschonq I** (Q85386) ⚭ Karomama I
+- **Kapes** (Q85388) ⚭ Hedjkheperre Setepenre Takelot I
+- **Hedjkheperre Setepenre Takelot I** (Q85390) ⚭ Kapes
+- **Karomat \ Karomama  Karomama ?Princess of Egypt** (Q85392) ⚭ Ozorkon II Usermare Setepenamun "the Libyan" II "the Libyan", Pharaoh of  Pharaoh of Egypt
+- **Phalti  Edomites** (Q86347)
+- **Hisham  Banu Ismail** (Q86491)
+- **Mamercus  Julius** (Q90656) ⚭ N.N.
+- **N.N.** (Q90658) ⚭ Mamercus  Julius
+
+## Generation 53 (31 people)
+
+- **Hippodamas** (Q131020) — [Wikidata Q15815634](https://www.wikidata.org/wiki/Q15815634)
+- **Ares** (Q131228) — [Wikidata Q40901](https://www.wikidata.org/wiki/Q40901) ⚭ Aphrodite, Sterope, Calliope +20 more
+- **Demonice** (Q131230) — [Wikidata Q1186488](https://www.wikidata.org/wiki/Q1186488) ⚭ Ares
+- **Agenor** (Q132498) — [Wikidata Q392617](https://www.wikidata.org/wiki/Q392617) ⚭ Epicaste
+- **Epicaste** (Q132499) — [Wikidata Q1347046](https://www.wikidata.org/wiki/Q1347046) ⚭ Agenor
+- **Cleoboea** (Q134472) — [Wikidata Q122812917](https://www.wikidata.org/wiki/Q122812917)
+- **Hezekiah** (Q38070) — [Wikidata Q244912](https://www.wikidata.org/wiki/Q244912) ⚭ Hephzibah, Q60243
+- **Gemariah** (Q4622)
+- **Haruz** (Q4631) — [Wikidata Q115804881](https://www.wikidata.org/wiki/Q115804881)
+- **Hephzibah** (Q4633) — [Wikidata Q114771167](https://www.wikidata.org/wiki/Q114771167) ⚭ Hezekiah
+- **Lohrasp** (Q51672)
+- **Q60237** (Q60237)
+- **Q60243** (Q60243) ⚭ Hezekiah
+- **Kusayla  banu numidia** (Q71912)
+- **Capys** (Q74765) — [Wikidata Q1035224](https://www.wikidata.org/wiki/Q1035224)
+- **Ashur-dan II, king of Assyria** (Q74774)
+- **Cleodaeus** (Q74789)
+- **Ahitub  High Priest of Israel** (Q85184)
+- **Namlit** (Q85394) ⚭ Tanetsepeh
+- **Tanetsepeh** (Q85396) ⚭ Namlit
+- **Osorkon I Sekhemkheperre - Seteperre I Pharaoh of  Egypt** (Q85398) ⚭ Tashedkhonsu ., Maatkare
+- **Tashedkhonsu .** (Q85400) ⚭ Osorkon I Sekhemkheperre - Seteperre I Pharaoh of  Egypt
+- **Hedjkheperre Setepenamun Harsiese King of Egypt** (Q85402) ⚭ Wife of Hedjkheperre Setepenamun Harsiese King of Egypt
+- **Wife of Hedjkheperre Setepenamun Harsiese King of Egypt** (Q85404) ⚭ Hedjkheperre Setepenamun Harsiese King of Egypt
+- **This line really does not make sense** (Q85416) ⚭ Psusennes II . . High Priest of Amun, Pharaoh of Egypt, Psusennes II .
+- **Istemkheb D .** (Q85434) ⚭ Pinudjem II Khakheperre Setepenamun
+- **Pinudjem II Khakheperre Setepenamun** (Q85436) ⚭ Istemkheb D .
+- **Zerah II  Edomites** (Q86345)
+- **Mazin  Banu Ismail** (Q86489)
+- **Opiter  Julius** (Q90652) ⚭ Q90654
+- **Q90654** (Q90654) ⚭ Opiter  Julius
+
+## Generation 54 (32 people) — circa 766 CE
+
+- **Achelous** (Q130059) — [Wikidata Q391379](https://www.wikidata.org/wiki/Q391379) ⚭ Sterope, Heinfried Birlenbach, Albert Friedrich Speer +2 more
+- **Hera** (Q130560) — [Wikidata Q38012](https://www.wikidata.org/wiki/Q38012) ⚭ Q74656
+- **Perimede** (Q130994) — [Wikidata Q2070945](https://www.wikidata.org/wiki/Q2070945) ⚭ Achelous
+- **Xanthippe** (Q132613) — [Wikidata Q2597713](https://www.wikidata.org/wiki/Q2597713) ⚭ Pleuron
+- **Pleuron** (Q133856) — [Wikidata Q1411680](https://www.wikidata.org/wiki/Q1411680) ⚭ Xanthippe
+- **Calydon** (Q133857) — [Wikidata Q1722780](https://www.wikidata.org/wiki/Q1722780) ⚭ Aeolia
+- **Aeolia** (Q133858) — [Wikidata Q406348](https://www.wikidata.org/wiki/Q406348) ⚭ Calydon
+- **Isaiah** (Q135068) — b. 766 CE, d. 686 CE — [Wikidata Q188794](https://www.wikidata.org/wiki/Q188794)
+- **Shaphan the Scribe** (Q4623)
+- **Ahaz** (Q4635) — b. 763 CE, d. 727 CE — [Wikidata Q30914](https://www.wikidata.org/wiki/Q30914) ⚭ Abijah
+- **Abijah** (Q4636) — [Wikidata Q3603705](https://www.wikidata.org/wiki/Q3603705) ⚭ Ahaz
+- **Darab** (Q51668)
+- **Aksel  banu numidia** (Q71918)
+- **Atys** (Q74777) — [Wikidata Q758300](https://www.wikidata.org/wiki/Q758300)
+- **Tiglath-Pileser II, king of Assyria** (Q74783)
+- **Amariah  High Priest of Israel** (Q85186)
+- **Scheschonq X** (Q85406)
+- **Scheschonq** (Q85408) ⚭ Mehitenusechet
+- **Mehitenusechet** (Q85410) ⚭ Scheschonq
+- **Karomat A .** (Q85412) ⚭ Hedjkheperre Setepenre Shoshenq I
+- **Hedjkheperre Setepenre Shoshenq I** (Q85414) ⚭ Karomat A .
+- **Psusennes II .** (Q85418) ⚭ This line really does not make sense
+- **Heqakheperre Setepenre Shoshenq II** (Q85420) ⚭ Wife of Heqakheperre Setepenre Shoshenk, King of Egypt
+- **Wife of Heqakheperre Setepenre Shoshenk, King of Egypt** (Q85422) ⚭ Heqakheperre Setepenre Shoshenq II
+- **Nubkheperre Intef** (Q85430) ⚭ Sobekemsaf
+- **Sobekemsaf** (Q85432) ⚭ Nubkheperre Intef
+- **Istemkheb** (Q85452) ⚭ Menkheperre High Priest of Amun at Thebes
+- **Menkheperre High Priest of Amun at Thebes** (Q85454) ⚭ Istemkheb
+- **Kenaz II  Edomites** (Q86343)
+- **Humayd  Banu Ismail** (Q86487)
+- **Volero  Julius** (Q90648) ⚭ Q90650
+- **Q90650** (Q90650) ⚭ Volero  Julius
+
+## Generation 55 (35 people)
+
+- **Nais** (Q130984) — [Wikidata Q106515828](https://www.wikidata.org/wiki/Q106515828) ⚭ Silenus
+- **Aiolos** (Q131332) — [Wikidata Q406388](https://www.wikidata.org/wiki/Q406388) ⚭ Iphis, Enarete, Laodice
+- **Enarete** (Q132251) — [Wikidata Q48665](https://www.wikidata.org/wiki/Q48665) ⚭ Aiolos, Aeolus
+- **Aetolus** (Q133027) — [Wikidata Q410748](https://www.wikidata.org/wiki/Q410748) ⚭ Pronoe
+- **Amythaon** (Q133052) — [Wikidata Q482134](https://www.wikidata.org/wiki/Q482134) ⚭ Eidomene, Aglaia
+- **Pronoe** (Q134161) — [Wikidata Q2112872](https://www.wikidata.org/wiki/Q2112872) ⚭ Aetolus
+- **Eidomene** (Q134167) — [Wikidata Q12765189](https://www.wikidata.org/wiki/Q12765189) ⚭ Amythaon
+- **Zechariah** (Q135183) — [Wikidata Q123167260](https://www.wikidata.org/wiki/Q123167260)
+- **Darab?** (Q2464)
+- **Amoz** (Q38078) — [Wikidata Q4748020](https://www.wikidata.org/wiki/Q4748020)
+- **Jotham of Judah** (Q38098) — [Wikidata Q109920](https://www.wikidata.org/wiki/Q109920)
+- **Azaliah** (Q4624)
+- **Izemrasen  banu numidia** (Q71921)
+- **Alba Silvius** (Q74786) — [Wikidata Q647999](https://www.wikidata.org/wiki/Q647999) ⚭ .
+- **Assur-res-isi II, king of Assyria** (Q74792)
+- **.** (Q74798) ⚭ Alba Silvius, Latinus Silvius
+- **Azariah II  High Priest of Israel** (Q85188)
+- **Pasuti** (Q85424)
+- **Tentsepeh** (Q85426) ⚭ Nimlot
+- **Nimlot** (Q85428) ⚭ Tentsepeh
+- **Maatkare** (Q85438) ⚭ Osorkon I Sekhemkheperre - Seteperre I Pharaoh of  Egypt
+- **Sekhemre Shedtawy Sobekemsaf II** (Q85444) ⚭ Nubkhaas
+- **Nubkhaas** (Q85446) ⚭ Sekhemre Shedtawy Sobekemsaf II
+- **Sekhemrewahkhau Rahotep** (Q85448) ⚭ Tetisheri . Queen of Egypt, N.N.
+- **N.N.** (Q85450) ⚭ Sekhemrewahkhau Rahotep
+- **Wiay** (Q85456) ⚭ King Akheperre Psibkhaemne of Egypt, Pharaoh of Egypt
+- **King Akheperre Psibkhaemne of Egypt, Pharaoh of Egypt** (Q85458) ⚭ Wiay
+- **Pinedjem I Setepenre** (Q85472) ⚭ Duathathor-Henuttawy
+- **Duathathor-Henuttawy** (Q85474) ⚭ Pinedjem I Setepenre
+- **Eliphaz II  Edomites** (Q86341)
+- **Kilab  Banu Ismail** (Q86485)
+- **Dorus** (Q90504) — [Wikidata Q1139448](https://www.wikidata.org/wiki/Q1139448) ⚭ Iolcus
+- **Iolcus** (Q90506) ⚭ Dorus
+- **Volesus  Julius** (Q90644) ⚭ Q90646
+- **Q90646** (Q90646) ⚭ Volesus  Julius
+
+## Generation 56 (37 people) — circa 1380 CE
+
+- **Orseis** (Q130189) — [Wikidata Q979627](https://www.wikidata.org/wiki/Q979627) ⚭ Hellen
+- **Hellen** (Q130648) — [Wikidata Q336428](https://www.wikidata.org/wiki/Q336428) ⚭ Orseis
+- **Endymion** (Q131789) — [Wikidata Q272047](https://www.wikidata.org/wiki/Q272047) ⚭ Selene, Hyperippe, Chromia +2 more
+- **Tyro** (Q131896) — [Wikidata Q1126715](https://www.wikidata.org/wiki/Q1126715) ⚭ Sisyphus, Cretheus, Poseidon
+- **Cretheus** (Q132604) — [Wikidata Q869665](https://www.wikidata.org/wiki/Q869665) ⚭ Tyro, Demodice
+- **mother of Aetolus** (Q134160) — [Wikidata Q122964728](https://www.wikidata.org/wiki/Q122964728) ⚭ Endymion
+- **Phorbus** (Q134608) — [Wikidata Q3747924](https://www.wikidata.org/wiki/Q3747924)
+- **Homai** (Q2479) — b. 1380 CE, d. 1315 CE
+- **Jehoash of Judah** (Q38090) — b. 842 CE, d. 795 CE — [Wikidata Q313229](https://www.wikidata.org/wiki/Q313229) ⚭ Joaddan
+- **Uzziah** (Q38102) — b. 801 CE, d. 733 CE — [Wikidata Q313216](https://www.wikidata.org/wiki/Q313216) ⚭ Jerushah
+- **Meshullam the Scribe** (Q4625)
+- **Joaddan** (Q4638) — [Wikidata Q20502568](https://www.wikidata.org/wiki/Q20502568) ⚭ Jehoash of Judah
+- **Jerushah** (Q4641) ⚭ Uzziah
+- **Micipsa  banu numidia** (Q71924)
+- **Ashur-rabi II, king of Assyria** (Q74801)
+- **Latinus Silvius** (Q74804) — [Wikidata Q1542438](https://www.wikidata.org/wiki/Q1542438) ⚭ .
+- **Cretheus  Iolcus** (Q75051) ⚭ Tyro, Q90556
+- **Glaucia** (Q75120) ⚭ Deimachus, Deimachus
+- **Deimachus** (Q75123) — [Wikidata Q1183226](https://www.wikidata.org/wiki/Q1183226) ⚭ Glaucia
+- **Yohanan  High Priest of Israel** (Q85190)
+- **Methenweshket** (Q85440) ⚭ Shoshenk
+- **Shoshenk** (Q85442) ⚭ Methenweshket
+- **Nubemhet  Nubkhas** (Q85462) ⚭ Sekhemre Wadjkhaw Sobekemsaf I
+- **Sekhemre Wadjkhaw Sobekemsaf I** (Q85464) ⚭ Nubemhet  Nubkhas
+- **Nubkheperre Inyotef VII (V), of Egypt** (Q85466) ⚭ Sebekemsaf, N.N.
+- **N.N.** (Q85470) ⚭ Nubkheperre Inyotef VII (V), of Egypt
+- **Hrere** (Q85488) ⚭ Piankh  Viceroy of Kush, Commander of Archers
+- **Piankh  Viceroy of Kush, Commander of Archers** (Q85490) ⚭ Hrere
+- **Ramesses XI** (Q85492) ⚭ Tentamun  Queen of Egypt
+- **Tentamun  Queen of Egypt** (Q85494) ⚭ Ramesses XI
+- **Khyan  Hyksos Pharaoh** (Q85849)
+- **Hiram  Edomites** (Q86339)
+- **Murrah  Banu Ismail** (Q86483)
+- **Cretheus  Iolcus** (Q90534) ⚭ Q90556, Tyro
+- **Q90556** (Q90556) ⚭ Cretheus  Iolcus, Cretheus  Iolcus
+- **Proculus  Julius** (Q90640) ⚭ Q90642
+- **Q90642** (Q90642) ⚭ Proculus  Julius
+
+## Generation 57 (47 people) — circa 822 CE
+
+- **Aethlius** (Q131775) — [Wikidata Q381931](https://www.wikidata.org/wiki/Q381931) ⚭ Calyce
+- **Neleus** (Q131902) — [Wikidata Q637955](https://www.wikidata.org/wiki/Q637955) ⚭ Chloris
+- **Pyrrha** (Q132042) — [Wikidata Q622809](https://www.wikidata.org/wiki/Q622809) ⚭ Deucalion, Deucalion
+- **Salmoneus** (Q132367) — [Wikidata Q1131643](https://www.wikidata.org/wiki/Q1131643) ⚭ Sidero, Alcidice
+- **Calyce** (Q132607) — [Wikidata Q1722781](https://www.wikidata.org/wiki/Q1722781) ⚭ Aethlius
+- **Chloris** (Q133062) — [Wikidata Q28122362](https://www.wikidata.org/wiki/Q28122362) ⚭ Neleus
+- **Aeneas Silvius** (Q134044) — [Wikidata Q380923](https://www.wikidata.org/wiki/Q380923)
+- **Amaziah of Judah** (Q135047) — b. 822 CE, d. 767 CE — [Wikidata Q313237](https://www.wikidata.org/wiki/Q313237) ⚭ Jecoliah
+- **Bahman  King of Iran** (Q29304) — b. 1410 CE, d. 1345 CE
+- **Jehoiada** (Q38115) — [Wikidata Q2194240](https://www.wikidata.org/wiki/Q2194240) ⚭ Jehosheba
+- **Ahaziah of Judah** (Q38123) — [Wikidata Q313214](https://www.wikidata.org/wiki/Q313214) ⚭ Zibiah
+- **Jecoliah** (Q4642) — [Wikidata Q20502646](https://www.wikidata.org/wiki/Q20502646) ⚭ Amaziah of Judah
+- **Jehosheba** (Q4644) — b. 900 CE — [Wikidata Q4202829](https://www.wikidata.org/wiki/Q4202829) ⚭ Jehoiada
+- **Zibiah** (Q4646) — [Wikidata Q8071446](https://www.wikidata.org/wiki/Q8071446) ⚭ Ahaziah of Judah
+- **Q52868** (Q52868)
+- **Mastanesosus  banu numidia** (Q71927)
+- **Ashurnasirpal I** (Q74810) — [Wikidata Q352931](https://www.wikidata.org/wiki/Q352931)
+- **Aeneas Silvius** (Q74813) ⚭ .
+- **.** (Q74816) ⚭ Aeneas Silvius
+- **Idaea** (Q74934) ⚭ Xanthus \ Scamander  Scamander ?King of Boeotia
+- **Xanthus \ Scamander  Scamander ?King of Boeotia** (Q74937) ⚭ Idaea, Leucippe
+- **Alcidice** (Q75072) — [Wikidata Q1132196](https://www.wikidata.org/wiki/Q1132196) ⚭ Salmoneus, Salmoneus
+- **Αἴολος** (Q75084) ⚭ Enarete, "Aenarete", "Enareta", "Aegiale"
+- **Enarete, "Aenarete", "Enareta", "Aegiale"** (Q75087) ⚭ Αἴολος
+- **Deucalion** (Q75153) — [Wikidata Q207715](https://www.wikidata.org/wiki/Q207715) ⚭ Pyrrha, Πύρρα
+- **Cleon** (Q75162) — [Wikidata Q57911514](https://www.wikidata.org/wiki/Q57911514) ⚭ Idaea  de Gods
+- **Idaea  de Gods** (Q75165) ⚭ Cleon
+- **Azariah  High Priest of Israel** (Q85192)
+- **Zadok  High Priest of Israel** (Q85196)
+- **Paihut - Pasouti** (Q85460)
+- **Sekhemre Sankhtawy Neferhotep III** (Q85478) ⚭ N.N., Mentuhotep .
+- **N.N.** (Q85480) ⚭ Sekhemre Sankhtawy Neferhotep III
+- **Sekhemre-shedtawi Sebekemsaf I, King of Egypt** (Q85482) ⚭ Nubkhas \ Nubkhaes  Nubkhaes ?.
+- **Nubkhas \ Nubkhaes  Nubkhaes ?.** (Q85484) ⚭ Sekhemre-shedtawi Sebekemsaf I, King of Egypt
+- **Herihor** (Q85504) ⚭ Nodjmet
+- **Nodjmet** (Q85506) ⚭ Herihor
+- **Amonhirkhepeshef Khepermaatre Ramesses X** (Q85508) ⚭ Tyti
+- **Tyti** (Q85510) ⚭ Amonhirkhepeshef Khepermaatre Ramesses X
+- **Manesseh Semqen  Hyksos Pharaoh** (Q85853) ⚭ Siria  The Amoritess
+- **Siria  The Amoritess** (Q85857) ⚭ Manesseh Semqen  Hyksos Pharaoh
+- **Pharez  Edomites** (Q86337)
+- **Kenan  Banu Ismail** (Q86481)
+- **Enarete, "Aenarete", "Enareta", "Aegiale"** (Q90472) ⚭ Αἴολος
+- **Deucalion** (Q90478) — [Wikidata Q207715](https://www.wikidata.org/wiki/Q207715) ⚭ Pyrrha, Πύρρα
+- **Αἴολος** (Q90490) ⚭ Enarete, "Aenarete", "Enareta", "Aegiale"
+- **Agrippa  Julius** (Q90636) ⚭ Q90638
+- **Q90638** (Q90638) ⚭ Agrippa  Julius
+
+## Generation 58 (43 people) — circa 1440 CE
+
+- **Epimetheus** (Q130584) — [Wikidata Q41054](https://www.wikidata.org/wiki/Q41054) ⚭ Pandora
+- **Pandora** (Q132041) — [Wikidata Q131346](https://www.wikidata.org/wiki/Q131346) ⚭ Epimetheus
+- **Protogeneia** (Q132102) — [Wikidata Q1572248](https://www.wikidata.org/wiki/Q1572248) ⚭ Ares, Locrus, Q74656
+- **Pelops** (Q132321) — [Wikidata Q192485](https://www.wikidata.org/wiki/Q192485) ⚭ Danais, Hippodamia, Axioche
+- **Silvius** (Q132757) — [Wikidata Q209398](https://www.wikidata.org/wiki/Q209398)
+- **Hippodamia** (Q133389) — [Wikidata Q328354](https://www.wikidata.org/wiki/Q328354) ⚭ Pelops
+- **Amphion** (Q134175) — [Wikidata Q474917](https://www.wikidata.org/wiki/Q474917)
+- **Isfandiyar \ Spandodata \ Isfendiyar \ Spendoclata  Raja Iran** (Q29108) — b. 1440 CE, d. 1375 CE
+- **Jehoram of Judah** (Q38131) — [Wikidata Q313215](https://www.wikidata.org/wiki/Q313215) ⚭ Athaliah
+- **Athaliah** (Q38135) — [Wikidata Q463934](https://www.wikidata.org/wiki/Q463934) ⚭ Jehoram of Judah
+- **Eliud  Cohen** (Q38139)
+- **Q52673** (Q52673)
+- **Bebnum  Amorite Pharaoh (14th dynasty)** (Q70541) — d. 1649 BCE — [Wikidata Q3596364](https://www.wikidata.org/wiki/Q3596364)
+- **Naravas  banu numidia** (Q71930)
+- **Shamshi-Adad IV, king of Assyria** (Q74819)
+- **Silvius** (Q74822) ⚭ Granddaughter of Latinus
+- **Granddaughter of Latinus** (Q74825) ⚭ Silvius
+- **Neaera** (Q75099) ⚭ Aleus
+- **Hellen** (Q75114) ⚭ Orseis
+- **Orseis** (Q75117) ⚭ Hellen
+- **Prometheus** (Q75195) — [Wikidata Q83160](https://www.wikidata.org/wiki/Q83160) ⚭ Celaeno, Pronoia, Axiothea +2 more
+- **Ahimaaz  High Priest of Israel** (Q85194)
+- **Ahitub  Cohen** (Q85198)
+- **Nabneshi** (Q85476)
+- **Sekhemre Sementawi Djehuti** (Q85498) ⚭ Mentuhotep .
+- **Mentuhotep .** (Q85500) ⚭ Sekhemre Sankhtawy Neferhotep III, Sekhemre Sementawi Djehuti
+- **Amenothes - Amenhotep Priest of Amon at Thebes  Thebes** (Q85520) ⚭ Ast .
+- **Ast .** (Q85522) ⚭ Amenothes - Amenhotep Priest of Amon at Thebes  Thebes
+- **Amon-her-khepshef Khaemwaset** (Q85524) ⚭ Baktwernel
+- **Baktwernel** (Q85526) ⚭ Amon-her-khepshef Khaemwaset
+- **Joseph** (Q85855) — d. 1650 BCE — [Wikidata Q145746](https://www.wikidata.org/wiki/Q145746) ⚭ Asenath
+- **Asenath** (Q85859) ⚭ Joseph
+- **Zadok  Edomites** (Q86335)
+- **Luhay  Banu Ismail** (Q86479)
+- **Glaucia** (Q90378) ⚭ Deimachus
+- **Prometheus** (Q90388) ⚭ Celaeno, Pronoia, Axiothea +2 more
+- **Orseis** (Q90416) ⚭ Hellen
+- **Deimachus** (Q90470) — [Wikidata Q1183222](https://www.wikidata.org/wiki/Q1183222) ⚭ Glaucia, Glaucia
+- **Hellen** (Q90488) ⚭ Orseis
+- **Aleus** (Q90566) ⚭ Neaera
+- **Neaera** (Q90598) ⚭ Aleus
+- **Hostus  Julius** (Q90632) ⚭ Q90634
+- **Q90634** (Q90634) ⚭ Hostus  Julius
+
+## Generation 59 (52 people) — circa 1470 CE
+
+- **Tantalus** (Q131717) — [Wikidata Q182101](https://www.wikidata.org/wiki/Q182101) ⚭ Dione, Dioné, Rudolf Lettinger +4 more
+- **Lavinia** (Q132137) — [Wikidata Q1137364](https://www.wikidata.org/wiki/Q1137364) ⚭ Ascanius, Aeneas  the Dardanian
+- **Oenomaus** (Q132189) — [Wikidata Q847890](https://www.wikidata.org/wiki/Q847890) ⚭ Eurythoe, Evarete
+- **Ascanius** (Q132755) — [Wikidata Q655566](https://www.wikidata.org/wiki/Q655566) ⚭ Lavinia
+- **Evarete** (Q133388) — [Wikidata Q12877345](https://www.wikidata.org/wiki/Q12877345) ⚭ Oenomaus
+- **Klytia** (Q133620) — [Wikidata Q21051020](https://www.wikidata.org/wiki/Q21051020) ⚭ Tantalus
+- **Iasus** (Q134222) — [Wikidata Q1404904](https://www.wikidata.org/wiki/Q1404904) ⚭ Persephone
+- **Pouru Chishti Kayan** (Q2412) — b. 1470 CE, d. 1405 CE ⚭ Vishtaspa  Raja Iran, Q52661
+- **Vishtaspa  Raja Iran** (Q29096) ⚭ Pouru Chishti Kayan, Q52669
+- **Achim  Cohen** (Q38143)
+- **Ahab** (Q38146) — [Wikidata Q235901](https://www.wikidata.org/wiki/Q235901) ⚭ Jezebel
+- **Kai A. Konrad** (Q38182) — b. 905 CE, d. 849 CE — [Wikidata Q115029](https://www.wikidata.org/wiki/Q115029)
+- **Jezebel** (Q4652) — b. 900 BCE, d. 841 BCE — [Wikidata Q721295](https://www.wikidata.org/wiki/Q721295) ⚭ Ahab
+- **Q52661** (Q52661) ⚭ Pouru Chishti Kayan
+- **Q52669** (Q52669) ⚭ Vishtaspa  Raja Iran
+- **Wife of Ghalib** (Q69802) ⚭ Ghalib  Banu Ismail
+- **Nebsenra** (Q70544) — [Wikidata Q657532](https://www.wikidata.org/wiki/Q657532)
+- **Dinah  daughter of Jacob** (Q70568) ⚭ Shechem
+- **Shechem** (Q70571) — [Wikidata Q22054796](https://www.wikidata.org/wiki/Q22054796) ⚭ Dinah  daughter of Jacob
+- **Hiarbas  banu numidia** (Q71933)
+- **Tiglath-Pileser I** (Q74828)
+- **Lavinia** (Q74831) ⚭ Aeneas  the Dardanian
+- **Son of Latinus** (Q74834)
+- **Pereus** (Q75135)
+- **Πύρρα** (Q75150) ⚭ Deucalion
+- **Creusa** (Q75156) ⚭ Peneus
+- **Peneus** (Q75159) ⚭ Creusa
+- **Amariah  Cohen** (Q85200)
+- **Jacob** (Q85226) — [Wikidata Q289957](https://www.wikidata.org/wiki/Q289957) ⚭ Bilhah, Zilpa, Leah +1 more
+- **Mawasen** (Q85496)
+- **Senebhenaf .** (Q85514) ⚭ Sebekhotep of Egypt .
+- **Sebekhotep of Egypt .** (Q85516) ⚭ Senebhenaf .
+- **Wife of Nakhturames  NN** (Q85540) ⚭ Nakhturamses of Amon  Thebes
+- **Nakhturamses of Amon  Thebes** (Q85542) ⚭ Wife of Nakhturames  NN
+- **Heqamaatre Ramesses IV** (Q85544) ⚭ Nubkhesbed
+- **Nubkhesbed** (Q85546) ⚭ Heqamaatre Ramesses IV
+- **Montuherkhopshef** (Q85548) ⚭ Takhat
+- **Takhat** (Q85550) ⚭ Montuherkhopshef
+- **Rachel** (Q85884) — [Wikidata Q207389](https://www.wikidata.org/wiki/Q207389) ⚭ Jacob in Islam, Jacob
+- **Obed II  Edomites** (Q86333)
+- **Ghalib  Banu Ismail** (Q86477) ⚭ Wife of Ghalib
+- **Aeneas  the Dardanian** (Q90257) ⚭ Lavinia, Creusa, Eurydice +2 more
+- **Idaea** (Q90313) ⚭ Xanthus \ Scamander  Scamander
+- **Clymene Asia** (Q90317) ⚭ Iapetos, Iapetos, Pheres
+- **Xanthus \ Scamander  Scamander** (Q90329) ⚭ Idaea, Leucippe
+- **Peneus** (Q90331) ⚭ Creusa
+- **Creusa** (Q90372) ⚭ Peneus
+- **Πύρρα** (Q90450) ⚭ Deucalion
+- **Apheidas** (Q90520)
+- **Pereus** (Q90570)
+- **Faustus  Julius** (Q90628) ⚭ Q90630
+- **Q90630** (Q90630) ⚭ Faustus  Julius
+
+## Generation 60 (54 people) — circa 1851 CE
+
+- **Isaac** (Q129309) — b. 1851 CE, d. 1533 CE — [Wikidata Q671872](https://www.wikidata.org/wiki/Q671872) ⚭ Rebecca
+- **Adinah** (Q129455) — [Wikidata Q47011321](https://www.wikidata.org/wiki/Q47011321) ⚭ Laban
+- **Hamor** (Q129763) — [Wikidata Q1573937](https://www.wikidata.org/wiki/Q1573937)
+- **Plouto** (Q130027) — [Wikidata Q662968](https://www.wikidata.org/wiki/Q662968) ⚭ Q74656
+- **Aphrodite** (Q130402) — [Wikidata Q35500](https://www.wikidata.org/wiki/Q35500) ⚭ Benfeld, Dionysus, Ares +6 more
+- **Latinus** (Q130662) — [Wikidata Q779406](https://www.wikidata.org/wiki/Q779406) ⚭ Amata
+- **Sterope** (Q130714) — [Wikidata Q748963](https://www.wikidata.org/wiki/Q748963) ⚭ Ares, Alxion, Hyperochus
+- **Creusa** (Q132343) — [Wikidata Q375174](https://www.wikidata.org/wiki/Q375174) ⚭ Aeneas  the Dardanian
+- **Anchises** (Q132752) — [Wikidata Q211953](https://www.wikidata.org/wiki/Q211953) ⚭ Aphrodite, Eriopis, Aphrodite \ Venus  Hittite Princess
+- **Amphidamas** (Q134368) — [Wikidata Q16515491](https://www.wikidata.org/wiki/Q16515491)
+- **Kay Lohrasp (aurvataspa)  Raja Iran** (Q29100)
+- **Zoroaster** (Q29136) — b. 1500 CE, d. 1423 CE — [Wikidata Q35811](https://www.wikidata.org/wiki/Q35811) ⚭ Huvovi (Hvovi) Kayan
+- **Omri** (Q38154) — b. 940 CE, d. 874 CE — [Wikidata Q313221](https://www.wikidata.org/wiki/Q313221)
+- **Ithobaal I** (Q38158) — b. 915 CE, d. 856 CE — [Wikidata Q1277966](https://www.wikidata.org/wiki/Q1277966)
+- **Asa of Judah** (Q38186) — [Wikidata Q313415](https://www.wikidata.org/wiki/Q313415) ⚭ Azubah
+- **Azubah** (Q4662) — [Wikidata Q4833002](https://www.wikidata.org/wiki/Q4833002) ⚭ Asa of Judah
+- **Huvovi (Hvovi) Kayan** (Q51572) ⚭ Zoroaster, Q52701
+- **Q52665** (Q52665)
+- **Q52701** (Q52701) ⚭ Huvovi (Hvovi) Kayan
+- **Nehesy** (Q70547) — [Wikidata Q879211](https://www.wikidata.org/wiki/Q879211)
+- **Isalcas  banu numidia** (Q71936)
+- **Ashur-resh-ishi I, king of Assyria** (Q74837)
+- **Latinus  King of Latium** (Q74840) ⚭ Amata, Q74852, Q90251
+- **Amata** (Q74843) — [Wikidata Q455503](https://www.wikidata.org/wiki/Q455503) ⚭ Latinus, Latinus  King of Latium
+- **Anchises** (Q74846) — [Wikidata Q211953](https://www.wikidata.org/wiki/Q211953) ⚭ Aphrodite \ Venus  Hittite Princess
+- **Aphrodite \ Venus  Hittite Princess** (Q74849) ⚭ Anchises, Anchises
+- **Q74852** (Q74852) ⚭ Latinus  King of Latium
+- **Laodike** (Q75183) ⚭ Elatus
+- **Epimetheus** (Q75186) ⚭ Pandora  First Women
+- **Pandora  First Women** (Q75189) ⚭ Epimetheus, Epimetheus
+- **Azariah  Cohen** (Q85202)
+- **Buyuwawa** (Q85512)
+- **Yauyebi of  Egypt** (Q85528) — b. 1790 BCE ⚭ Renressonb of  Egypt
+- **Renressonb of  Egypt** (Q85530) ⚭ Yauyebi of  Egypt
+- **Sobekhotep IV** (Q85532) — d. 1720 BCE — [Wikidata Q373539](https://www.wikidata.org/wiki/Q373539) ⚭ Tjani
+- **Tjani** (Q85534) ⚭ Sobekhotep IV
+- **Merybast .** (Q85566) ⚭ NN
+- **NN** (Q85568) ⚭ Merybast .
+- **Iset Ta-Hemdjert** (Q85570) ⚭ Usimare Ramesses
+- **Usimare Ramesses** (Q85572) ⚭ Iset Ta-Hemdjert
+- **Amenmesse (Amenmesses or Amenmose)** (Q85574) ⚭ Tija \ Tiya  Tiya
+- **Tija \ Tiya  Tiya** (Q85576) ⚭ Amenmesse (Amenmesses or Amenmose)
+- **Leah** (Q85873) — [Wikidata Q128847](https://www.wikidata.org/wiki/Q128847) ⚭ Jacob
+- **Laban** (Q85889) — [Wikidata Q840401](https://www.wikidata.org/wiki/Q840401) ⚭ Adinah
+- **Hadad V  Edomites** (Q86323)
+- **Rebecca** (Q86387) — [Wikidata Q40520](https://www.wikidata.org/wiki/Q40520) ⚭ Isaac, Isaac in Islam
+- **Fihr  Banu Ismail** (Q86475)
+- **Epimetheus** (Q90390) ⚭ Pandora  First Women
+- **Arcas** (Q90448) ⚭ Laodamia, Meganeira
+- **Laodamia** (Q90518) ⚭ Arcas
+- **Elatus** (Q90524) ⚭ Laodike
+- **Laodike** (Q90568) ⚭ Elatus
+- **Vibius  Julius** (Q90624) ⚭ Q90626
+- **Q90626** (Q90626) ⚭ Vibius  Julius
+
+## Generation 61 (48 people)
+
+- **Dione** (Q130091) — [Wikidata Q199923](https://www.wikidata.org/wiki/Q199923) ⚭ Tantalus, Q74656
+- **Hecuba** (Q131080) — [Wikidata Q193433](https://www.wikidata.org/wiki/Q193433) ⚭ Priam, Q75282
+- **Circe** (Q132061) — [Wikidata Q187602](https://www.wikidata.org/wiki/Q187602) ⚭ Odysseus, Telemachus
+- **Odysseus** (Q132129) — [Wikidata Q47231](https://www.wikidata.org/wiki/Q47231) ⚭ Calypso, Circe, Penelope +2 more
+- **Priam** (Q132334) — [Wikidata Q170473](https://www.wikidata.org/wiki/Q170473) ⚭ Hecuba, Alexirrhoe, Malden +2 more
+- **Capys** (Q132379) — [Wikidata Q20018046](https://www.wikidata.org/wiki/Q20018046) ⚭ Themiste
+- **kay kaus  Raja Iran** (Q29140)
+- **Pourushasp  Spitama** (Q29184) ⚭ Dughdova
+- **Abijah of Judah** (Q38198) — [Wikidata Q273517](https://www.wikidata.org/wiki/Q273517)
+- **Bethuel** (Q38238) — [Wikidata Q1579827](https://www.wikidata.org/wiki/Q1579827) ⚭ Adinah
+- **Shilhi** (Q4663) — [Wikidata Q133454594](https://www.wikidata.org/wiki/Q133454594)
+- **Adinah** (Q4678) ⚭ Bethuel
+- **Frashaostra  Kayan** (Q51576)
+- **Dughdova** (Q51580) ⚭ Pourushasp  Spitama, Q52749
+- **Suppiluliuma** (Q51846)
+- **Q52705** (Q52705)
+- **Q52749** (Q52749) ⚭ Dughdova
+- **Maaibre Sheshi  Amorite Pharaoh (14th dynasty)** (Q70550) — [Wikidata Q14318465](https://www.wikidata.org/wiki/Q14318465)
+- **Sophonis  banu numidia** (Q71939)
+- **Mutakkil-nusku** (Q74855)
+- **Marica  (Mythique)** (Q74858) ⚭ Faunus "Lupercus"  ben Picus
+- **Faunus "Lupercus"  ben Picus** (Q74861) ⚭ Marica  (Mythique)
+- **Capys** (Q74864) ⚭ Themiste  Queen of Dardania
+- **Themiste  Queen of Dardania** (Q74867) ⚭ Capys
+- **Cinyras** (Q75219) ⚭ Metharme
+- **Metharme** (Q75222) ⚭ Cinyras
+- **Meraioth  Cohen** (Q85204)
+- **Abraham** (Q85228) ⚭ Hagar, Keturah, Sarah
+- **Horhorkhuwaytef  of Egypt** (Q85552) ⚭ Sebekemsaf .
+- **Sebekemsaf .** (Q85554) ⚭ Horhorkhuwaytef  of Egypt
+- **Id of  Egypt** (Q85556) ⚭ wife of Id of Egypt
+- **wife of Id of Egypt** (Q85558) ⚭ Id of  Egypt
+- **Ha-ankhef, son of Nehi and Senebtisi** (Q85560) ⚭ Kemi
+- **Kemi** (Q85562) ⚭ Ha-ankhef, son of Nehi and Senebtisi
+- **Q85594** (Q85594) ⚭ Hemdjert
+- **Hemdjert** (Q85596) ⚭ Q85594
+- **Tiy-Merenese** (Q85598) ⚭ Userkhaure-setepenre Setnakhte
+- **Userkhaure-setepenre Setnakhte** (Q85600) ⚭ Tiy-Merenese
+- **Abner  Edomites** (Q86321)
+- **Sarah** (Q86389) ⚭ Ibrahim, Abraham
+- **Malik  Banu Ismail** (Q86473)
+- **Themiste  Queen of Dardania** (Q90436) ⚭ Capys
+- **Capys** (Q90508) ⚭ Themiste  Queen of Dardania
+- **Meganeira** (Q90522) ⚭ Arcas
+- **Amyclas** (Q90530) ⚭ Diomede
+- **Diomede** (Q90574) ⚭ Amyclas
+- **Kaeso  Julius** (Q90620) ⚭ Q90622
+- **Q90622** (Q90622) ⚭ Kaeso  Julius
+
+## Generation 62 (56 people) — circa 1883 CE
+
+- **Maacah** (Q115410) — [Wikidata Q2903509](https://www.wikidata.org/wiki/Q2903509) ⚭ Rehoboam
+- **Terah** (Q129293) — b. 1883 CE, d. 1678 CE — [Wikidata Q586541](https://www.wikidata.org/wiki/Q586541) ⚭ Amasla
+- **Amasla** (Q129295) — [Wikidata Q33205630](https://www.wikidata.org/wiki/Q33205630) ⚭ Terah
+- **Aeëtes** (Q130960) — [Wikidata Q241971](https://www.wikidata.org/wiki/Q241971) ⚭ Eidyia, Asterodeia, Neaera +3 more
+- **Dymas** (Q132205) — [Wikidata Q17486774](https://www.wikidata.org/wiki/Q17486774) ⚭ Euagore, Eunoë, Telecleia
+- **Perse** (Q132216) — [Wikidata Q1333108](https://www.wikidata.org/wiki/Q1333108) ⚭ Helios, Aeëtes
+- **Assaracus** (Q132329) — [Wikidata Q739359](https://www.wikidata.org/wiki/Q739359) ⚭ Hieromneme, Clitodora
+- **Q132332** (Q132332) — [Wikidata Q332324](https://www.wikidata.org/wiki/Q332324) ⚭ Strymo, Zeuxippe, Calybe +1 more
+- **Telecleia** (Q132338) — [Wikidata Q7695796](https://www.wikidata.org/wiki/Q7695796) ⚭ Dymas, Cisseus
+- **Laertes** (Q132844) — [Wikidata Q748296](https://www.wikidata.org/wiki/Q748296) ⚭ Anticlea
+- **Anticlea** (Q133328) — [Wikidata Q576170](https://www.wikidata.org/wiki/Q576170) ⚭ Laertes
+- **Clitodora** (Q133645) — [Wikidata Q3680852](https://www.wikidata.org/wiki/Q3680852) ⚭ Assaracus
+- **Zeuxippe** (Q133648) — [Wikidata Q23818213](https://www.wikidata.org/wiki/Q23818213) ⚭ Q132332
+- **kay uyarsh  Raja Iran** (Q29144)
+- **kay apiveh  Raja Iran** (Q29156)
+- **Peteretrasp  Spitama** (Q29188)
+- **Rehoboam** (Q38202) — [Wikidata Q211663](https://www.wikidata.org/wiki/Q211663) ⚭ Maacah, Mahalath
+- **Nahor** (Q4675) — [Wikidata Q6323112](https://www.wikidata.org/wiki/Q6323112) ⚭ Reumah, Milcah, Q60372
+- **Milcah** (Q4676) — [Wikidata Q1752707](https://www.wikidata.org/wiki/Q1752707) ⚭ Nahor
+- **Frahimrvanan** (Q51584)
+- **King Kai Lohrasp of Iran of the Kiyanid dynasty  Ferdowsi's Shanameh** (Q51600)
+- **Tudhaliya** (Q51838) ⚭ Sausga
+- **Sausga** (Q51842) ⚭ Tudhaliya
+- **Q52709** (Q52709)
+- **Q52721** (Q52721)
+- **Q52753** (Q52753)
+- **Q60372** (Q60372) ⚭ Nahor
+- **Aahotepre 'Ammu  Amorite Pharaoh (14th dynasty)** (Q70553) — [Wikidata Q3603042](https://www.wikidata.org/wiki/Q3603042)
+- **Juba  banu numidia** (Q71942)
+- **Ashur-Dan I** (Q74870)
+- **Canens  of Latium** (Q74873) ⚭ Picus "the Cronid", Picus "the Cronid"
+- **Picus "the Cronid"** (Q74876) ⚭ Canens  of Latium
+- **Assaracus** (Q74879) ⚭ Hieromneme  Of Dardanum
+- **Hieromneme  Of Dardanum** (Q74882) ⚭ Assaracus
+- **Eurydice  Queen of Troy** (Q74885) ⚭ llus  of Troy
+- **llus  of Troy** (Q74888) ⚭ Eurydice  Queen of Troy
+- **Pharnace** (Q75261) ⚭ Sandocus
+- **Sandocus** (Q75264) — [Wikidata Q6119921](https://www.wikidata.org/wiki/Q6119921) ⚭ Pharnace
+- **Zerahiah  Cohen** (Q85206)
+- **Sankhenre Mentuhotep VI** (Q85578) ⚭ Satmut of Egypt
+- **Satmut of Egypt** (Q85580) ⚭ Sankhenre Mentuhotep VI
+- **Nehi** (Q85582) ⚭ Senebtisi
+- **Senebtisi** (Q85584) ⚭ Nehi
+- **Amenemhat III Nemare, King of Egypt (1900 BC) Pyramid builder** (Q85586) — [Wikidata Q19244](https://www.wikidata.org/wiki/Q19244) ⚭ Mother of Princess Kemi
+- **Mother of Princess Kemi** (Q85588) ⚭ Amenemhat III Nemare, King of Egypt (1900 BC) Pyramid builder, Amenemhat III
+- **Amenemhat III Nemare, King of Egypt** (Q85606)
+- **Merneptah** (Q85608)
+- **Isetnofret.** (Q85610) ⚭ Ramesses
+- **Ramesses** (Q85612) ⚭ Isetnofret.
+- **Amenemhat III** (Q86213) — [Wikidata Q19244](https://www.wikidata.org/wiki/Q19244) ⚭ Khenemetneferhedjet III . . Queen of Egypt, Aat . . Queen of Egypt, Hetepti . . +1 more
+- **Jehoshaphat  Edomites** (Q86319)
+- **Nazr  Banu Ismail** (Q86471)
+- **Picus "the Cronid"** (Q90259) ⚭ Canens  of Latium
+- **Sparta** (Q90528) ⚭ Lacedaemon  of Troy
+- **Aulus  Julius** (Q90616) ⚭ Q90618
+- **Q90618** (Q90618) ⚭ Aulus  Julius
+
+## Generation 63 (55 people) — circa 990 CE
+
+- **Tamar** (Q118826) — [Wikidata Q30148909](https://www.wikidata.org/wiki/Q30148909) ⚭ Uriel
+- **Uriel** (Q118832) — [Wikidata Q114921395](https://www.wikidata.org/wiki/Q114921395) ⚭ Tamar
+- **Karnivo** (Q129327) — [Wikidata Q33205768](https://www.wikidata.org/wiki/Q33205768)
+- **Helios** (Q130598) — [Wikidata Q134270](https://www.wikidata.org/wiki/Q134270) ⚭ Rhodos, Ceto, Neaera +6 more
+- **Arcesius** (Q131675) — [Wikidata Q2294502](https://www.wikidata.org/wiki/Q2294502) ⚭ Chalcomedusa
+- **Autolycus** (Q132152) — [Wikidata Q463107](https://www.wikidata.org/wiki/Q463107) ⚭ Amphithea, Mestra, Neaera
+- **Tros** (Q132327) — [Wikidata Q599482](https://www.wikidata.org/wiki/Q599482) ⚭ Callirhoe, Acallaris
+- **Chalcomedusa** (Q132843) — [Wikidata Q1059810](https://www.wikidata.org/wiki/Q1059810) ⚭ Arcesius
+- **Amphithea** (Q133362) — [Wikidata Q474965](https://www.wikidata.org/wiki/Q474965) ⚭ Autolycus
+- **Acallaris** (Q133642) — [Wikidata Q4671657](https://www.wikidata.org/wiki/Q4671657) ⚭ Tros, Tros
+- **Ilus** (Q133643) — [Wikidata Q1495743](https://www.wikidata.org/wiki/Q1495743) ⚭ Eurydice of Troy
+- **kay pisan  Raja Iran** (Q29148)
+- **kay arsh  Raja Iran** (Q29152)
+- **kay kavadh  Raja Iran** (Q29160)
+- **Aurogdaspa  Spitama** (Q29192)
+- **Solomon** (Q38206) — b. 990 CE, d. 931 CE — [Wikidata Q37085](https://www.wikidata.org/wiki/Q37085) ⚭ Pharaoh's daughter (wife of Solomon), Queen of Sheba, Naamah
+- **Naamah** (Q38210) — [Wikidata Q865263](https://www.wikidata.org/wiki/Q865263) ⚭ Solomon
+- **Nahor** (Q47345) — b. 1912 CE, d. 1764 CE — [Wikidata Q888890](https://www.wikidata.org/wiki/Q888890) ⚭ Reumah
+- **King Kai Khosrow of the Kiyanid dynasty  Ferdowsi's Shanameh** (Q51604)
+- **Hattusili** (Q51850) ⚭ Puduhepa (Putukhipa)
+- **Puduhepa (Putukhipa)** (Q51854) ⚭ Hattusili
+- **Q52713** (Q52713)
+- **Q52717** (Q52717)
+- **Q52725** (Q52725)
+- **Q52756** (Q52756)
+- **Khawoserre Qareh  Amorite Pharaoh (14th dynasty)** (Q70559) — [Wikidata Q337893](https://www.wikidata.org/wiki/Q337893)
+- **Vermina  banu numidia** (Q71945)
+- **Ninurta-apil-Ekur, king of Assyria** (Q74891)
+- **Venila** (Q74894) ⚭ Janus
+- **Janus** (Q74897) ⚭ Venila
+- **N.N.** (Q74900) ⚭ Cerulus (Saturn II), Cerulus (Saturn II)
+- **Cerulus (Saturn II)** (Q74903) ⚭ N.N.
+- **Callirhoe  Queen of Trojans** (Q74906) ⚭ Tros  King of Troy
+- **Tros  King of Troy** (Q74909) ⚭ Callirhoe  Queen of Trojans
+- **Simoeis  God of river** (Q74912) ⚭ Assaracus  Goddess of river
+- **Assaracus  Goddess of river** (Q74915) ⚭ Simoeis  God of river
+- **Adrastus  King of Argos** (Q74918) ⚭ Amphithea  of Argos
+- **Amphithea  of Argos** (Q74921) ⚭ Adrastus  King of Argos
+- **Astynous** (Q75306) — [Wikidata Q2868633](https://www.wikidata.org/wiki/Q2868633)
+- **Uzzi  Cohen** (Q85208)
+- **N.N.** (Q85604) ⚭ Khakhaure Senusret III
+- **Sesostris III Khakaure, King of Egypt** (Q85618)
+- **Menmaatre Seti** (Q85620) ⚭ Tuya Of  Thebes
+- **Tuya Of  Thebes** (Q85622) ⚭ Menmaatre Seti
+- **Khakhaure Senusret III** (Q86191) — d. 1842 BCE — [Wikidata Q19248](https://www.wikidata.org/wiki/Q19248) ⚭ Meretseger . . Queen of Egypt, Sithathoryunet . ., Khenemetneferhedjet II Weret . . Queen of Egypt +2 more
+- **Zimran  Edomites** (Q86317)
+- **Haran** (Q86391)
+- **Kinana  Banu Ismail** (Q86469)
+- **Roma  daughter of Italus** (Q90247) ⚭ Ascanius  Abu Julius
+- **Ascanius  Abu Julius** (Q90265) ⚭ Roma  daughter of Italus
+- **Venila** (Q90267) ⚭ Janus
+- **Janus** (Q90269) ⚭ Venila
+- **Cerulus (Saturn II)** (Q90271) ⚭ N.N.
+- **Eurotas** (Q90602) — [Wikidata Q1378306](https://www.wikidata.org/wiki/Q1378306) ⚭ Clete
+- **Clete** (Q90606) ⚭ Eurotas
+
+## Generation 64 (52 people) — circa 1040 CE
+
+- **Absalom** (Q115374) — [Wikidata Q205372](https://www.wikidata.org/wiki/Q205372)
+- **Callirhoe** (Q131068) — [Wikidata Q1361804](https://www.wikidata.org/wiki/Q1361804) ⚭ Tros, Erichthonius of Dardania, Tros
+- **Procris** (Q132514) — [Wikidata Q1139470](https://www.wikidata.org/wiki/Q1139470) ⚭ Cephalus, Erechtheus, Q74656
+- **Chione** (Q133276) — [Wikidata Q15077045](https://www.wikidata.org/wiki/Q15077045) ⚭ Benfeld, Q75282
+- **David** (Q134507) — b. 1040 CE, d. 969 CE — [Wikidata Q41370](https://www.wikidata.org/wiki/Q41370) ⚭ Abigail, Eglah, Michal +6 more
+- **Senusret II** (Q195205) — [Wikidata Q18722](https://www.wikidata.org/wiki/Q18722) ⚭ Neferet . . Queen of Egypt, Khnemet . ., Itaweret Itaurt of Egypt princess +5 more
+- **auzobo  Raja Iran** (Q29168)
+- **Haechatasp  Spitama** (Q29196)
+- **Hanun \ Zelek  King of Amon** (Q38214)
+- **Bathsheba** (Q4669) — b. 1009 BCE, d. 937 BCE — [Wikidata Q272277](https://www.wikidata.org/wiki/Q272277) ⚭ Uriah the Hittite, David
+- **Prince Siavash of the Kyanid dynasty  Ferdowsi's Shanameh** (Q51608) ⚭ Princess Farangis  of Turan
+- **Princess Farangis  of Turan** (Q51612) ⚭ Prince Siavash of the Kyanid dynasty  Ferdowsi's Shanameh
+- **Mursili** (Q51870) ⚭ Tanu-Hepa
+- **Tanu-Hepa** (Q51874) ⚭ Mursili
+- **Bentib-sharre  Putukhipa** (Q51882) ⚭ N.N.
+- **N.N.** (Q51886) ⚭ Bentib-sharre  Putukhipa
+- **Q52733** (Q52733)
+- **Q52760** (Q52760)
+- **Ur-Ninurta  The Amorite** (Q70463) — d. 1896 BCE — [Wikidata Q2622811](https://www.wikidata.org/wiki/Q2622811) ⚭ Spouse of Ur-Ninurta
+- **Spouse of Ur-Ninurta** (Q70499) ⚭ Ur-Ninurta  The Amorite
+- **Nubwoserre Ya'ammu  Amorite Pharaoh (14th dynasty)** (Q70562) — d. 1770 BCE — [Wikidata Q1681488](https://www.wikidata.org/wiki/Q1681488)
+- **Stenna  banu numidia** (Q71951)
+- **Ila-Hadda  of Assyria** (Q74924)
+- **Dino Deino - Anger  Graeae** (Q74927) ⚭ Q74656
+- **Unknown Wife** (Q74930) ⚭ Jasius II Mars Italus, King of  of Latium
+- **Jasius II Mars Italus, King of  of Latium** (Q74931) ⚭ Unknown Wife, Unknown Wife
+- **Astyoche  Dardaniers, van de** (Q74940) ⚭ Erichthonius, Erichthonius
+- **Erichthonius** (Q74943) ⚭ Astyoche  Dardaniers, van de
+- **Talaos  King of Argos** (Q74946) ⚭ Lysimache,Eurynome or Lyssianassa
+- **Lysimache,Eurynome or Lyssianassa** (Q74949) ⚭ Talaos  King of Argos
+- **Pronax \ Promax  Promax** (Q74952)
+- **Phaethon** (Q75327) — [Wikidata Q3378668](https://www.wikidata.org/wiki/Q3378668)
+- **Hyperion** (Q75372) — [Wikidata Q179209](https://www.wikidata.org/wiki/Q179209) ⚭ Basileia, Aethra, Euryphaessa +1 more
+- **Theia** (Q75375) — [Wikidata Q184232](https://www.wikidata.org/wiki/Q184232) ⚭ Hyperion
+- **Bukki  High Priest of Israel** (Q85210)
+- **Sesostris II Khakheperre, King of Egypt** (Q85628)
+- **Menpehtyre Ramesses I** (Q85630) ⚭ Tia-Sitre
+- **Tia-Sitre** (Q85632) ⚭ Menpehtyre Ramesses I
+- **Raia** (Q85634) ⚭ Ruia
+- **Ruia** (Q85636) ⚭ Raia
+- **Khakheperre Senusret II** (Q86147) — [Wikidata Q18722](https://www.wikidata.org/wiki/Q18722) ⚭ Khenemetneferhedjet I Weret ., Neferet ., Khnemet . +1 more
+- **Khenemetneferhedjet I Weret .** (Q86149) — [Wikidata Q461194](https://www.wikidata.org/wiki/Q461194) ⚭ Senusret II, Khakheperre Senusret II
+- **Reuel  Edomites** (Q86315)
+- **Mudar  Banu Ismail** (Q86467)
+- **Leucaria** (Q90253) ⚭ Italus
+- **Italus** (Q90255) ⚭ Leucaria
+- **Creusa  Zauja Ascanius** (Q90283) ⚭ Aeneas  the Dardanian
+- **Unknown Wife** (Q90285) ⚭ Jasius II Mars Italus, King of  of Latium
+- **Erichthonius** (Q90464) ⚭ Astyoche  Dardaniers, van de
+- **Talaos  King of Argos** (Q90538) ⚭ Lysimache,Eurynome or Lyssianassa
+- **Lysimache,Eurynome or Lyssianassa** (Q90558) ⚭ Talaos  King of Argos
+- **Myles** (Q90596)
+
+## Generation 65 (54 people) — circa 1140 CE
+
+- **Nitzevet** (Q115348) — [Wikidata Q7041639](https://www.wikidata.org/wiki/Q7041639) ⚭ Jesse
+- **Maacah** (Q115372) — [Wikidata Q11765188](https://www.wikidata.org/wiki/Q11765188) ⚭ David
+- **Eliam** (Q115404) — [Wikidata Q13408496](https://www.wikidata.org/wiki/Q13408496)
+- **Praxithea** (Q131272) — [Wikidata Q2108224](https://www.wikidata.org/wiki/Q2108224) ⚭ Erechtheus
+- **Daedalion** (Q132053) — [Wikidata Q901224](https://www.wikidata.org/wiki/Q901224)
+- **Erechtheus** (Q132509) — [Wikidata Q301219](https://www.wikidata.org/wiki/Q301219) ⚭ Praxithea, Procris, Alcippe
+- **Jesse** (Q134019) — b. 1140 CE, d. 1020 CE — [Wikidata Q45090](https://www.wikidata.org/wiki/Q45090) ⚭ Nitzevet
+- **Suppiluliuma I** (Q2497) — b. 1405 CE, d. 1346 CE — [Wikidata Q354903](https://www.wikidata.org/wiki/Q354903) ⚭ Henti, Tawannannash
+- **Agairnasuak  Raja Iran** (Q29172)
+- **Chakhshnush  Spitama** (Q29204)
+- **King Afrasiab  of Turan** (Q51616)
+- **King Kay Kavus of the Kyanid dynasty  Ferdowsi's Shanameh** (Q51620)
+- **Henti** (Q51890) ⚭ Suppiluliuma I, Q53018
+- **Q52737** (Q52737)
+- **Q52768** (Q52768)
+- **Q53018** (Q53018) ⚭ Henti, Tawannannash
+- **Shu-Sin** (Q70460) — d. 1964 BCE — [Wikidata Q2040793](https://www.wikidata.org/wiki/Q2040793) ⚭ Ora, daughter of Ur, Spouse of Shu-Sin
+- **Spouse of Shu-Sin** (Q70496) ⚭ Shu-Sin
+- **Sekhaenre Yakbim  Amorite Pharaoh (14th dynasty)** (Q70565) — d. 1780 BCE — [Wikidata Q1683398](https://www.wikidata.org/wiki/Q1683398) ⚭ daughter of Sekhemre Khutawy
+- **daughter of Sekhemre Khutawy** (Q71757) ⚭ Sekhaenre Yakbim  Amorite Pharaoh (14th dynasty)
+- **Gaia  banu numidia** (Q71954)
+- **Assur-iddin** (Q74955)
+- **Ceto** (Q74958) ⚭ Phorcys Pharcos -
+- **Phorcys Pharcos -** (Q74961) ⚭ Ceto
+- **Amnia Faunigena** (Q74964) ⚭ Hephaistos
+- **Hephaistos** (Q74967) ⚭ Amnia Faunigena
+- **Simoeis or Simios** (Q74976)
+- **Basia Asia \ Batieia \ Arisbe \ Batea  Batieia ? Arisbe ? Batea ?Princess of the Trojans Queen of Dardania** (Q74979) ⚭ Dardanus
+- **Dardanus** (Q74982) ⚭ Basia Asia \ Batieia \ Arisbe \ Batea  Batieia ? Arisbe ? Batea ?Princess of the Trojans Queen of Dardania
+- **Pero  Princess of Pylos** (Q74985) ⚭ Bias  Thessaly
+- **Bias  Thessaly** (Q74988) ⚭ Pero  Princess of Pylos
+- **Abas** (Q74991) — [Wikidata Q305614](https://www.wikidata.org/wiki/Q305614)
+- **Tithonus** (Q75348) — [Wikidata Q737306](https://www.wikidata.org/wiki/Q737306) ⚭ Cissia, Eos
+- **Eos** (Q75351) — [Wikidata Q178417](https://www.wikidata.org/wiki/Q178417) ⚭ Astraeus, Cephalus, Cephalus +1 more
+- **Abishua  High Priest of Israel** (Q85212)
+- **Keminnub** (Q85626) ⚭ Nubkaure Amenemhat II
+- **Amenemhat II Nubkaure, King of Egypt** (Q85642) ⚭ Kaneferu . .
+- **Tiia** (Q85644) ⚭ Seti Mery-Amum  D'Egypte
+- **Seti Mery-Amum  D'Egypte** (Q85646) ⚭ Tiia
+- **Nubkaure Amenemhat II** (Q86083) ⚭ Keminnub
+- **Hadad IV  Edomites** (Q86313)
+- **Ilyas  Banu Ismail** (Q86465)
+- **Q90251** (Q90251) ⚭ Latinus  King of Latium
+- **Penelope  of Sparta** (Q90261) ⚭ Telegonos
+- **Telegonos** (Q90263) ⚭ Penelope  of Sparta
+- **Hecuba  daughter of Dymas** (Q90301) ⚭ Priam  ben Laomedon
+- **Priam  ben Laomedon** (Q90303) ⚭ Hecuba  daughter of Dymas, Hecuba  daughter of Dymas
+- **Simoeis or Simios** (Q90311)
+- **Dardanus** (Q90366) ⚭ Basia Asia \ Batieia \ Arisbe \ Batea  Batieia
+- **Basia Asia \ Batieia \ Arisbe \ Batea  Batieia** (Q90468) ⚭ Dardanus
+- **Lelex** (Q90564) ⚭ Cleocharia
+- **Abas** (Q90590) — [Wikidata Q305611](https://www.wikidata.org/wiki/Q305611)
+- **Cleocharia** (Q90594) ⚭ Lelex
+- **Hecuba  daughter of Dymas** (Q90672)
+
+## Generation 66 (52 people) — circa 1435 CE
+
+- **Obed** (Q118788) — [Wikidata Q1135791](https://www.wikidata.org/wiki/Q1135791)
+- **Hesperus** (Q130590) — [Wikidata Q59697](https://www.wikidata.org/wiki/Q59697) ⚭ Q130498, Nyx
+- **Ixion** (Q132482) — [Wikidata Q271891](https://www.wikidata.org/wiki/Q271891) ⚭ Dia, Nephele
+- **Arethusa** (Q133142) — [Wikidata Q125814303](https://www.wikidata.org/wiki/Q125814303) ⚭ Poseidon
+- **Zeuxippe** (Q133235) — [Wikidata Q1641282](https://www.wikidata.org/wiki/Q1641282) ⚭ Pandion I
+- **Pandion I** (Q133862) — [Wikidata Q865111](https://www.wikidata.org/wiki/Q865111) ⚭ Zeuxippe
+- **Hattusili II** (Q2508) — b. 1435 CE, d. 1380 CE — [Wikidata Q579727](https://www.wikidata.org/wiki/Q579727)
+- **Hanoch  Raja Iran** (Q29176)
+- **Petirasp  Spitama** (Q29208)
+- **King Kai Kobad of the Kiyanid dynasty of Iran  Ferdowsi's Shanameh** (Q51624)
+- **Q52741** (Q52741)
+- **Q52772** (Q52772)
+- **Iddin-Sin** (Q70457) — b. 2004 CE, d. 1765 CE — [Wikidata Q1648259](https://www.wikidata.org/wiki/Q1648259) ⚭ Spouse of Iddin-Sin
+- **Spouse of Iddin-Sin** (Q70493) ⚭ Iddin-Sin
+- **Maes  banu numidia** (Q71957)
+- **Qibi-Assur** (Q74994)
+- **Pontus -** (Q74997) ⚭ Terra
+- **Annus (Amicius, Amnius)  King of Latium** (Q75000) ⚭ N.N.
+- **N.N.** (Q75003) ⚭ Annus (Amicius, Amnius)  King of Latium
+- **Idea** (Q75006) ⚭ Teucer  of Teucria
+- **Teucer  of Teucria** (Q75009) ⚭ Idea, Idea
+- **Electra** (Q75012) ⚭ Q74656, Zeus
+- **Neleus  Mycenae** (Q75015) ⚭ Meliboea Chloris  Princess of Thebes
+- **Meliboea Chloris  Princess of Thebes** (Q75018) ⚭ Neleus  Mycenae
+- **Amythaon King  of Iolcus** (Q75021) ⚭ Eidomene (Idomene)  of Pherac
+- **Eidomene (Idomene)  of Pherac** (Q75024) ⚭ Amythaon King  of Iolcus
+- **Leto - - Latona** (Q75369) ⚭ Q74656
+- **Phinehas** (Q85214) — [Wikidata Q128063](https://www.wikidata.org/wiki/Q128063)
+- **Nefrusheri** (Q85640) ⚭ Kheperkare Senusret I
+- **Sensusret I Kheperkare, King of Egypt** (Q85652)
+- **Kheperkare Senusret I** (Q86065) ⚭ Nefrusheri
+- **Sekhemre Khutawy Sobekhotep** (Q86241) — b. 1800 BCE — [Wikidata Q561538](https://www.wikidata.org/wiki/Q561538) ⚭ Daughter of Amenemhet IV  Princess of Egypt
+- **Barak  Edomites** (Q86311)
+- **Mudhar  Banu Ismail** (Q86463)
+- **NN** (Q90249)
+- **Odysseus - - Ulysses  King of Ithaca** (Q90273) ⚭ Kirke - Circe -
+- **Periboea** (Q90277) — [Wikidata Q17197552](https://www.wikidata.org/wiki/Q17197552) ⚭ Q133344, BAD MERGE, Icarius  of Sparta
+- **Icarius  of Sparta** (Q90279) ⚭ Periboea
+- **Kirke - Circe -** (Q90281) ⚭ Odysseus - - Ulysses  King of Ithaca
+- **Poseidon** (Q90291) ⚭ Themisto, Amphitrite -, Libya
+- **Dymas** (Q90349) — [Wikidata Q17486771](https://www.wikidata.org/wiki/Q17486771) ⚭ Eunoe the Nymph  of Phrygia
+- **Eunoe the Nymph  of Phrygia** (Q90351) ⚭ Dymas
+- **Placia (Strymo)** (Q90353) ⚭ Laomedon  King of Troy
+- **Laomedon  King of Troy** (Q90355) ⚭ Placia (Strymo)
+- **Eidomene (Idomene)  of Pherac** (Q90386) ⚭ Amythaon King  of Iolcus
+- **Idea** (Q90466) ⚭ Teucer  of Teucria
+- **Amythaon King  of Iolcus** (Q90474) ⚭ Eidomene (Idomene)  of Pherac
+- **Libya** (Q90514) ⚭ Poseidon, Poseidon
+- **Meliboea Chloris  Princess of Thebes** (Q90526) ⚭ Neleus  Mycenae
+- **Diogeneia** (Q90552) — [Wikidata Q4161962](https://www.wikidata.org/wiki/Q4161962) ⚭ Phrasinus, Cephissus
+- **Neleus  Mycenae** (Q90572) ⚭ Meliboea Chloris  Princess of Thebes
+- **Cephissus** (Q90584) ⚭ Liriope, Terra, Evippe +1 more
+
+## Generation 67 (50 people) — circa 1283 CE
+
+- **Boaz** (Q123906) — b. 1283 CE — [Wikidata Q212253](https://www.wikidata.org/wiki/Q212253) ⚭ Ruth
+- **Ruth** (Q123908) — b. 1400 CE, d. 1300 CE — [Wikidata Q1774982](https://www.wikidata.org/wiki/Q1774982) ⚭ Boaz, Mahlon
+- **Butes** (Q131992) — [Wikidata Q1301972](https://www.wikidata.org/wiki/Q1301972) ⚭ Aphrodite
+- **Cephalus** (Q132050) — [Wikidata Q643504](https://www.wikidata.org/wiki/Q643504) ⚭ Procris, Clymene, Eos
+- **Aeton** (Q133846) — [Wikidata Q30024297](https://www.wikidata.org/wiki/Q30024297)
+- **Praxithea** (Q134034) — [Wikidata Q13058657](https://www.wikidata.org/wiki/Q13058657) ⚭ Ἐρεχθόνιος
+- **Midian  Raja Iran** (Q29180)
+- **Arej  Darshane** (Q29212)
+- **Tudhaliya II** (Q29501) — [Wikidata Q355656](https://www.wikidata.org/wiki/Q355656) ⚭ Nikkal-Mati
+- **Nikkal-Mati** (Q51922) ⚭ Tudhaliya II
+- **Q52745** (Q52745)
+- **Q52776** (Q52776)
+- **Ilum-bani** (Q70454) — b. 2038 CE, d. 1574 CE — [Wikidata Q502282](https://www.wikidata.org/wiki/Q502282) ⚭ Spouse of Ilum-bani
+- **Spouse of Ilum-bani** (Q70490) ⚭ Ilum-bani
+- **Iaphen  banu numidia** (Q71960)
+- **Shalmaneser I** (Q75027)
+- **(Parthenogenesis) [asexual reproduction]  <virgin birth>** (Q75030) ⚭ Terra
+- **Faunus I King Of Latium** (Q75033) ⚭ N.N.
+- **N.N.** (Q75036) ⚭ Faunus I King Of Latium
+- **Tyro** (Q75042) ⚭ Poseidon, Cretheus  Iolcus
+- **Amphion** (Q75045) ⚭ Persephone EK  Mycenae
+- **Persephone EK  Mycenae** (Q75048) ⚭ Amphion, Amphion
+- **Pheres** (Q75057) ⚭ Themis
+- **Coeus** (Q75387) ⚭ Phoebe
+- **Phoebe** (Q75390) ⚭ Coeus
+- **Eleazar** (Q85216) — [Wikidata Q159443](https://www.wikidata.org/wiki/Q159443) ⚭ daughter of Putiel
+- **Amenemhat I Sehetepibre** (Q85650) ⚭ Neferitatjenen .
+- **Nfry-Ta-Tjenen of Egypt** (Q85658) ⚭ Amenemhat I Sehetepibre of Egypt
+- **Amenemhat I Sehetepibre of Egypt** (Q85660) ⚭ Nfry-Ta-Tjenen of Egypt
+- **Neferitatjenen .** (Q86043) — [Wikidata Q18209479](https://www.wikidata.org/wiki/Q18209479) ⚭ Amenemhat I Sehetepibre
+- **Maakherure Amenemhat IV .** (Q86225) ⚭ Sobekkare Sobekneferu
+- **Sobekkare Sobekneferu** (Q86227) ⚭ Maakherure Amenemhat IV .
+- **Zepho  Edomites** (Q86309)
+- **Nizar  Banu Ismail** (Q86461)
+- **Gorgophone** (Q90287) ⚭ Oebalus
+- **Perseis  Goddess** (Q90293) ⚭ Helios Sol
+- **Helios Sol** (Q90295) ⚭ Perseis  Goddess, Rhode
+- **Laertes -  King of Ithaka** (Q90297) ⚭ Antiklia - - Anticlea
+- **Antiklia - - Anticlea** (Q90299) ⚭ Laertes -  King of Ithaka
+- **Pheres** (Q90384) ⚭ Clymene Asia
+- **Leucippe** (Q90414) — [Wikidata Q3831215](https://www.wikidata.org/wiki/Q3831215) ⚭ Xanthus \ Scamander  Scamander ?King of Boeotia, Xanthus \ Scamander  Scamander
+- **Aegimius** (Q90430) — [Wikidata Q404326](https://www.wikidata.org/wiki/Q404326) ⚭ .  Phrygia
+- **.  Phrygia** (Q90432) ⚭ Aegimius
+- **Persephone \ Proserpina  Proserpina** (Q90434)
+- **Epaphos** (Q90442) ⚭ Memphis
+- **Amphion** (Q90452) ⚭ Persephone EK  Mycenae
+- **Memphis** (Q90512) ⚭ Epaphos
+- **Evippe** (Q90542) ⚭ Cephissus
+- **Tyro** (Q90580) ⚭ Cretheus  Iolcus
+- **Ἐρεχθόνιος** (Q90588) — [Wikidata Q644921](https://www.wikidata.org/wiki/Q644921) ⚭ Praxithea, Praxithea of  Athens
+
+## Generation 68 (48 people) — circa 2281 CE
+
+- **Zeuxippe** (Q131178) — [Wikidata Q3575332](https://www.wikidata.org/wiki/Q3575332) ⚭ Teleon
+- **Hephaestus** (Q131450) — [Wikidata Q44384](https://www.wikidata.org/wiki/Q44384) ⚭ Aphrodite, Aglaea, Charis +2 more
+- **Teleon** (Q132442) — [Wikidata Q7696424](https://www.wikidata.org/wiki/Q7696424) ⚭ Zeuxippe
+- **Deioneus** (Q132605) — [Wikidata Q1183342](https://www.wikidata.org/wiki/Q1183342) ⚭ Diomede
+- **Diomede** (Q132610) — [Wikidata Q3028712](https://www.wikidata.org/wiki/Q3028712) ⚭ Deioneus
+- **Iranic Ancestors Generation 1** (Q1341)
+- **Hardaar** (Q2440)
+- **Asmu-nikal** (Q2514) ⚭ Arnuwanda  Tudhaliya
+- **Salmon** (Q38222) — [Wikidata Q1771358](https://www.wikidata.org/wiki/Q1771358) ⚭ Rahab
+- **Rahab** (Q38226) — [Wikidata Q1135632](https://www.wikidata.org/wiki/Q1135632) ⚭ Salmon
+- **Hardaar** (Q51588)
+- **Aryan  Genarch** (Q51655)
+- **Arnuwanda  Tudhaliya** (Q51926) ⚭ Asmu-nikal
+- **Q52780** (Q52780)
+- **Naram-Ilum** (Q70451) — b. 2281 CE, d. 1635 CE — [Wikidata Q1827950](https://www.wikidata.org/wiki/Q1827950) ⚭ Spouse of Naram-Ilum
+- **Spouse of Naram-Ilum** (Q70487) ⚭ Naram-Ilum
+- **Batis  banu numidia** (Q71963)
+- **Adad-nirari I** (Q75060)
+- **Picus** (Q75063) — [Wikidata Q235724](https://www.wikidata.org/wiki/Q235724) ⚭ N.N.
+- **N.N.** (Q75066) ⚭ Picus
+- **Salmoneus** (Q75069) ⚭ Alcidice
+- **Antiope** (Q75075) — [Wikidata Q122829903](https://www.wikidata.org/wiki/Q122829903) ⚭ Q74656
+- **Minyas -** (Q75078) ⚭ Euryanassa
+- **Euryanassa** (Q75081) ⚭ Minyas -
+- **Aaron  High Priest of Israel** (Q85218) ⚭ Elisheba
+- **Mentuhotep III (IV), King of Egypt** (Q85654) ⚭ Mother of Princess Nfry-Ta-Tjenen of Egypt
+- **Mother of Princess Nfry-Ta-Tjenen of Egypt** (Q85656) ⚭ Mentuhotep III (IV), King of Egypt
+- **Mentuhotep III (IV), King of Egypt** (Q85666)
+- **Epher  Edomites** (Q86307)
+- **Abd Shams  Banu Ismail** (Q86459)
+- **Elisheba** (Q86505) — [Wikidata Q2916801](https://www.wikidata.org/wiki/Q2916801) ⚭ Aaron  High Priest of Israel
+- **Perseus** (Q90305) ⚭ Andromeda
+- **Andromeda** (Q90307) ⚭ Perseus
+- **Hyperion** (Q90337) ⚭ Theia Euryphaessa -  Myth
+- **Theia Euryphaessa -  Myth** (Q90339) ⚭ Hyperion
+- **Arkesios - - Arceisius  King of Ithaka** (Q90341) ⚭ Chalcomedusa
+- **Chalcomedusa** (Q90343) ⚭ Arkesios - - Arceisius  King of Ithaka
+- **Αυτόλυκος** (Q90345) ⚭ Αμφιθέα
+- **Αμφιθέα** (Q90347) ⚭ Αυτόλυκος
+- **Antiope** (Q90404) ⚭ Zeus
+- **Io** (Q90408) ⚭ Zeus
+- **Demeter - - Ceres** (Q90454) ⚭ Zeus
+- **Leukon** (Q90482) ⚭ Peisidike
+- **Minyas -** (Q90486) ⚭ Euryanassa
+- **Salmoneus** (Q90536) ⚭ Alcidice
+- **Peisidike** (Q90540) ⚭ Leukon
+- **Euryanassa** (Q90544) ⚭ Minyas -
+- **Alcidice** (Q90582) ⚭ Salmoneus
+
+## Generation 69 (42 people) — circa 1495 CE
+
+- **Jochebed** (Q129590) — [Wikidata Q594805](https://www.wikidata.org/wiki/Q594805) ⚭ Amram  HaLevi
+- **Eridanos** (Q130103) — [Wikidata Q1135146](https://www.wikidata.org/wiki/Q1135146)
+- **Xuthus** (Q131334) — [Wikidata Q514746](https://www.wikidata.org/wiki/Q514746) ⚭ Creusa
+- **Creusa** (Q132517) — [Wikidata Q2196048](https://www.wikidata.org/wiki/Q2196048) ⚭ Xuthus, Q75282
+- **Iranic Ancestors Generation 2** (Q152999)
+- **Spitama** (Q2441)
+- **Iranic** (Q2505)
+- **Tudhaliya** (Q29517) — b. 1495 CE, d. 1430 CE ⚭ Nikkal-Mati
+- **Nahshon** (Q38230) — d. 1312 CE — [Wikidata Q1784980](https://www.wikidata.org/wiki/Q1784980)
+- **Spitama** (Q51592)
+- **Nikkal-Mati** (Q51930) ⚭ Tudhaliya, of KHATTI (1495-1430bc), Q53090 +1 more
+- **Q52784** (Q52784)
+- **Q53050** (Q53050)
+- **Q53090** (Q53090) ⚭ Nikkal-Mati
+- **Ishme-Dagan** (Q70445) — b. 2103 CE, d. 1665 CE — [Wikidata Q457520](https://www.wikidata.org/wiki/Q457520) ⚭ Spouse of Ishme-Dagan
+- **Spouse of Ishme-Dagan** (Q70484) ⚭ Ishme-Dagan
+- **Izem  banu numidia** (Q71966)
+- **Arik-den-ili** (Q75090)
+- **Caribanthus** (Q75093)
+- **Metope** (Q75102) — [Wikidata Q1237258](https://www.wikidata.org/wiki/Q1237258) ⚭ Asopus, Asopus
+- **Asopus** (Q75105) ⚭ Metope
+- **Amphitrite -** (Q75108) ⚭ Poseidon
+- **Hyperphas** (Q75111) — [Wikidata Q5958467](https://www.wikidata.org/wiki/Q5958467)
+- **Amram  HaLevi** (Q85220) ⚭ Jochebed
+- **Neferu** (Q85662) ⚭ Mentuhotep II Nebhepetra, King of Egypt
+- **Mentuhotep II Nebhepetra, King of Egypt** (Q85664) ⚭ Kawit . . Priestess of Hathor, Nefru II . . Queen of Egypt, Henhenet . . Priestess of Hathor +4 more
+- **Sankhkare Mentuhotep III  Mentouhotep** (Q85985) — d. 2005 BCE — [Wikidata Q310278](https://www.wikidata.org/wiki/Q310278)
+- **Gad  Edomites** (Q86305)
+- **Saba  Banu Ismail** (Q86457)
+- **Amminadab  Tribe of Judah** (Q86507)
+- **Hermes** (Q90275) ⚭ Chione  ..., Herse
+- **Asopus** (Q90323) ⚭ Metope
+- **Danae** (Q90357) ⚭ Zeus
+- **Cepheus** (Q90362) ⚭ Κασσιόπεια
+- **Κασσιόπεια** (Q90364) ⚭ Cepheus
+- **Cephalos - Kephalos -** (Q90392) — [Wikidata Q59771423](https://www.wikidata.org/wiki/Q59771423) ⚭ Procris
+- **Metope** (Q90398) ⚭ Asopus
+- **Themisto** (Q90402) ⚭ Poseidon, Poseidon
+- **Amphitrite -** (Q90412) ⚭ Poseidon
+- **Procris** (Q90426) ⚭ Cephalos - Kephalos -
+- **Chione  ...** (Q90428) ⚭ Hermes
+- **Caribanthus** (Q90562)
+
+## Generation 70 (41 people)
+
+- **Iranic Ancestors Generation 3** (Q153000)
+- **Vaedesht** (Q2442)
+- **Indo-Aryan** (Q2488)
+- **Princess of the Hittites** (Q29529) ⚭ Q51934
+- **Q51934** (Q51934) ⚭ Princess of the Hittites
+- **Ischtaparaija  of the HATTI** (Q51938)
+- **Q52788** (Q52788)
+- **Q52982** (Q52982)
+- **Puzur-Ashur** (Q70442) — d. 1970 BCE — [Wikidata Q200902](https://www.wikidata.org/wiki/Q200902) ⚭ Spouse of Puzur-Ashur
+- **Spouse of Puzur-Ashur** (Q70481) ⚭ Puzur-Ashur
+- **Uar  banu numidia** (Q71969)
+- **Enlil-nirari** (Q75126)
+- **Jesius** (Q75129)
+- **Ladon** (Q75138) — [Wikidata Q3825406](https://www.wikidata.org/wiki/Q3825406) ⚭ Stymphalis, [unknown]
+- **Stymphalis** (Q75141) ⚭ Ladon
+- **Doris** (Q75144) ⚭ Nereus
+- **Nereus** (Q75147) ⚭ Doris
+- **Kehath  HaLevi** (Q85222)
+- **Levi** (Q85224) — [Wikidata Q215512](https://www.wikidata.org/wiki/Q215512) ⚭ Adinah
+- **Inyotef III Nakhtnebtepnefer, King of Egypt** (Q85668) ⚭ Aoh
+- **Aoh** (Q85670) ⚭ Inyotef III Nakhtnebtepnefer, King of Egypt
+- **Inyotef III Nakhtnebtepnefer, King of Egypt** (Q85678)
+- **Nebhepetre Mentuhotep II** (Q85965) ⚭ Nefru II .
+- **Hadad III  Edomites** (Q86303)
+- **Harith  Banu Ismail** (Q86455)
+- **Ram  Tribe of Judah** (Q86509)
+- **Ladon (Peneius)** (Q90321) ⚭ Stymphalis, [unknown]
+- **Doris** (Q90327) ⚭ Nereus
+- **Maia** (Q90380) ⚭ Zeus
+- **Stymphalis** (Q90396) ⚭ Ladon (Peneius)
+- **[unknown]** (Q90400) ⚭ Ladon, Ladon (Peneius)
+- **Nereus** (Q90410) ⚭ Doris
+- **Eurudice** (Q90438) ⚭ Acrisius, King of Argos
+- **Acrisius, King of Argos** (Q90440) ⚭ Eurudice
+- **Agenor** (Q90456) — [Wikidata Q122030541](https://www.wikidata.org/wiki/Q122030541)
+- **Arabus** (Q90458)
+- **Daedalion** (Q90494)
+- **Ἐρεχθεύς** (Q90496) ⚭ Πραξιθέα
+- **Πραξιθέα** (Q90498) ⚭ Ἐρεχθεύς
+- **Herse** (Q90502) ⚭ Hermes
+- **Q90592** (Q90592)
+
+## Generation 71 (32 people)
+
+- **Adinah** (Q129582) — [Wikidata Q44123793](https://www.wikidata.org/wiki/Q44123793) ⚭ Levi
+- **Iranic Ancestors Generation 4** (Q153001)
+- **South Indo European Languages** (Q2419)
+- **Niaajem** (Q2443)
+- **Summiri** (Q2521) ⚭ Huzziya II
+- **Huzziya II** (Q51946) ⚭ Summiri
+- **Q52697** (Q52697)
+- **Q52792** (Q52792)
+- **Q53113** (Q53113)
+- **Shu-Ilishu** (Q70439) — d. 1975 BCE — [Wikidata Q2997581](https://www.wikidata.org/wiki/Q2997581) ⚭ Naamah, Emzara, Spouse of Shu-Ilishu
+- **Spouse of Shu-Ilishu** (Q70478) ⚭ Shu-Ilishu
+- **Macares  banu numidia** (Q71972)
+- **Ashur-uballit I, king of Assyria** (Q75168)
+- **Thamar** (Q75171)
+- **Inyotef II, King of Egypt** (Q85674) ⚭ Mother of Inyotef III Nakhtnebtepnefer, King of Egypt
+- **Mother of Inyotef III Nakhtnebtepnefer, King of Egypt** (Q85676) ⚭ Inyotef II, King of Egypt
+- **Inyotef II, King of Egypt** (Q85684)
+- **Nakhtnebtepnefer Intef III** (Q85943) ⚭ Iah
+- **Iah** (Q85945) ⚭ Nakhtnebtepnefer Intef III
+- **Zippor  Edomites** (Q86301)
+- **Nabit II  Banu Ismail** (Q86453)
+- **Abijah** (Q86511) ⚭ Hezron  Tribe of Judah
+- **Hezron  Tribe of Judah** (Q86517) ⚭ Hammoleheth, Abijah
+- **Hesperos (Vesper)  (Evening Star)** (Q90424)
+- **Pontus -** (Q90460) ⚭ Terra
+- **Κέκροψ** (Q90500) ⚭ Aglaurus
+- **Cepheus I** (Q90532)
+- **Aglaurus** (Q90546) ⚭ Κέκροψ
+- **Πανδίων** (Q90548) ⚭ Zeuxippe
+- **Zeuxippe** (Q90550) — [Wikidata Q46845955](https://www.wikidata.org/wiki/Q46845955) ⚭ Πανδίων
+- **Phrasinus** (Q90554) ⚭ Diogeneia
+- **Thamar** (Q90600)
+
+## Generation 72 (28 people) — circa 2887 CE
+
+- **Lamech** (Q129841) — b. 2887 CE, d. 2110 CE — [Wikidata Q10921342](https://www.wikidata.org/wiki/Q10921342) ⚭ Bat-Enosh
+- **Iranic Ancestors Generation 5** (Q153002)
+- **Zidanta II King of the Hittites** (Q153053) — d. 1485 CE
+- **Indo European languages** (Q2380) ⚭ Q51516
+- **Ererch \ Rajan  Rajan ?** (Q29232)
+- **Perez** (Q38234) — [Wikidata Q1814684](https://www.wikidata.org/wiki/Q1814684)
+- **Q51516** (Q51516) ⚭ Indo European languages, Q52540
+- **Q52540** (Q52540) ⚭ Q51516
+- **Q52796** (Q52796)
+- **Ilushu** (Q70436) ⚭ Bat-Enosh
+- **Bat-Enosh** (Q70475) — [Wikidata Q123349986](https://www.wikidata.org/wiki/Q123349986) ⚭ Lamech, Ilushu
+- **Syphe  banu numidia** (Q71975)
+- **Eriba-Adad I** (Q75198)
+- **Cambo Blascon (Jupiter II)  Janigenae** (Q75201) ⚭ N.N., (Female)
+- **N.N.** (Q75204) ⚭ Cambo Blascon (Jupiter II)  Janigenae
+- **Inyotef I the Great, King of Egypt** (Q85680) ⚭ Mother of Inyotef II, King of Egypt
+- **Mother of Inyotef II, King of Egypt** (Q85682) ⚭ Inyotef I the Great, King of Egypt, Mentuhotep I Tepy-a
+- **Inyotef I the Great, King of Egypt** (Q85690)
+- **Mentuhotep I Tepy-a** (Q85903) ⚭ Mother of Inyotef II, King of Egypt
+- **Wahankh Intef II** (Q85915) — [Wikidata Q313869](https://www.wikidata.org/wiki/Q313869)
+- **Obed  Edomites** (Q86299)
+- **Yathrib  Banu Ismail** (Q86451)
+- **Machir  Tribe of Manessah** (Q86513)
+- **Astraeus** (Q90422)
+- **Actaeus** (Q90492) — [Wikidata Q421808](https://www.wikidata.org/wiki/Q421808)
+- **Q90578** (Q90578) ⚭ Belus
+- **Praxithea of  Athens** (Q90586) ⚭ Ἐρεχθόνιος
+- **(Female)** (Q90604) ⚭ Cambo Blascon (Jupiter II)  Janigenae
+
+## Generation 73 (25 people) — circa 3317 CE
+
+- **Tamar** (Q129636) — [Wikidata Q1030008](https://www.wikidata.org/wiki/Q1030008) ⚭ Er, Onan, Judah
+- **Methuselah** (Q129961) — b. 3317 CE, d. 2348 CE — [Wikidata Q156290](https://www.wikidata.org/wiki/Q156290) ⚭ Edna
+- **Edna** (Q129963) — [Wikidata Q114702828](https://www.wikidata.org/wiki/Q114702828) ⚭ Methuselah
+- **Harapseki** (Q1344)
+- **Iranic Ancestors Generation 6** (Q153003)
+- **Mother of Inyotef I the Great, King of Egypt** (Q195814) ⚭ Ankhfn-Khonsu, Prince of Egypt
+- **Dora Sharoob** (Q2445)
+- **Manu  Haplogroup R1a** (Q28469)
+- **Q52800** (Q52800)
+- **Shu-turul  of Akkad** (Q70433) ⚭ Spouse of Shu-turul
+- **Spouse of Shu-turul** (Q70472) ⚭ Shu-turul  of Akkad
+- **Micipsa II  banu numidia** (Q71978)
+- **Ashur-bel-nisheshu** (Q75228) — [Wikidata Q598059](https://www.wikidata.org/wiki/Q598059)
+- **Blascon King Of Janigenae  of the Janigenae** (Q75231) ⚭ (Female), (Female)
+- **(Female)** (Q75234) ⚭ Blascon King Of Janigenae  of the Janigenae
+- **Judah** (Q85883) — [Wikidata Q282220](https://www.wikidata.org/wiki/Q282220) ⚭ Bat Choua, Tamar
+- **Intef the Elder** (Q86269) — b. 2200 BCE, d. 2134 BCE — [Wikidata Q571686](https://www.wikidata.org/wiki/Q571686) ⚭ Q86271
+- **Q86271** (Q86271) ⚭ Intef the Elder
+- **Uzziel  Edomites** (Q86297)
+- **Hadhad  Banu Ismail** (Q86449)
+- **Manessah  Tribe of Manessah** (Q86515)
+- **Crius -** (Q90370) ⚭ Eurybia
+- **Erysichthon** (Q90420)
+- **Eurybia** (Q90462) ⚭ Crius -
+- **(Female)** (Q90608) ⚭ Blascon King Of Janigenae  of the Janigenae
+
+## Generation 74 (20 people)
+
+- **Elam** (Q129745) — [Wikidata Q1147704](https://www.wikidata.org/wiki/Q1147704)
+- **Enoch** (Q130380) — [Wikidata Q213027](https://www.wikidata.org/wiki/Q213027)
+- **Azrial** (Q130382) — [Wikidata Q114679500](https://www.wikidata.org/wiki/Q114679500)
+- **Istapariya** (Q1345)
+- **Iranic Ancestors Generation 7** (Q153004)
+- **Haplogroup R1** (Q2318) ⚭ Q51432
+- **Q51432** (Q51432) ⚭ Haplogroup R1
+- **Dudu  of Akkad** (Q70505) ⚭ Q70508
+- **Q70508** (Q70508) ⚭ Dudu  of Akkad
+- **Iarbas II  banu numidia** (Q71984)
+- **Ashur-nirari II** (Q75267)
+- **Q75270** (Q75270) ⚭ Altheus (Altheo) King of the Janigenae  Janigenorum
+- **Altheus (Altheo) King of the Janigenae  Janigenorum** (Q75273) ⚭ Q75270, Q90610
+- **Ankhfn-Khonsu, Prince of Egypt** (Q85686) ⚭ Mother of Inyotef I the Great, King of Egypt, Mother of Inyotef I the Great, King of Egypt
+- **Mother of Inyotef I the Great, King of Egypt** (Q85688) ⚭ Ankhfn-Khonsu, Prince of Egypt
+- **Hadar  Edomites** (Q86296)
+- **Mishma  Banu Ismail** (Q86447)
+- **Triopas** (Q90335) ⚭ Hiscilla
+- **Hiscilla** (Q90418) — [Wikidata Q29788414](https://www.wikidata.org/wiki/Q29788414) ⚭ Triopas, Triopas
+- **Q90610** (Q90610) ⚭ Altheus (Altheo) King of the Janigenae  Janigenorum
+
+## Generation 75 (17 people) — circa 3544 CE
+
+- **Haplogroup R** (Q1186)
+- **Jared** (Q131418) — b. 3544 CE, d. 2582 CE — [Wikidata Q927410](https://www.wikidata.org/wiki/Q927410)
+- **Iranic Ancestors Generation 8** (Q153005)
+- **Ammuna King of the Hittites** (Q153054) — d. 1550 CE
+- **Shar-Kali-Sharri  of Akkad** (Q70511) ⚭ Tuta-sar-libbis
+- **Tuta-sar-libbis** (Q70514) ⚭ Shar-Kali-Sharri  of Akkad
+- **Adherbal II  banu numidia** (Q71987)
+- **Enlil-Nasir II** (Q75309)
+- **Thuscus  Janigenorum** (Q75312)
+- **Merenenre II** (Q85692) ⚭ Nitocris
+- **Nitocris** (Q85694) ⚭ Merenenre II
+- **Pepi I** (Q85704) — [Wikidata Q269265](https://www.wikidata.org/wiki/Q269265) ⚭ Ankhesenpepi Queen of Egypt, Inenek-Inti . ., Mehaa . . +6 more
+- **Hadad II  Edomites** (Q86294)
+- **Taima  Banu Ismail** (Q86445)
+- **Rhode** (Q90333) ⚭ Helios Sol
+- **Myrmidon  of Troy** (Q90446) ⚭ Pisidice
+- **Pisidice** (Q90516) — [Wikidata Q2067646](https://www.wikidata.org/wiki/Q2067646) ⚭ Myrmidon  of Troy
+
+## Generation 76 (17 people) — circa 3609 CE
+
+- **Mahalalel** (Q132727) — b. 3609 CE, d. 2714 CE — [Wikidata Q10297002](https://www.wikidata.org/wiki/Q10297002) ⚭ Dinah
+- **Paikal Haplogroup P** (Q152990) ⚭ Q30933
+- **Iranic Ancestors Generation 9** (Q153006)
+- **[...]sa\ta daughter of Hantili I** (Q153056)
+- **Q30933** (Q30933) ⚭ Paikal Haplogroup P
+- **Naram-Sin  of Akkad** (Q70517) — d. 2218 BCE
+- **Hiarbas II  banu numidia** (Q71990)
+- **Ashur-rabi I** (Q75330)
+- **Hercules Lybius** (Q75333)
+- **Pepi II Neferkare  Pharaoh of Egypt** (Q85698) — d. 2214 BCE — [Wikidata Q6198](https://www.wikidata.org/wiki/Q6198) ⚭ Mother of Merenenre II, King of Egypt
+- **Mother of Merenenre II, King of Egypt** (Q85700) ⚭ Pepi II Neferkare  Pharaoh of Egypt
+- **Teti Pharaoh of Egypt** (Q85710) — [Wikidata Q269285](https://www.wikidata.org/wiki/Q269285) ⚭ Queen Khuit, Khentkaus III . . Queen of Egypt, Weret-Imtes . Queen of Egypt +1 more
+- **Iput of Egypt** (Q85724) — [Wikidata Q461201](https://www.wikidata.org/wiki/Q461201) ⚭ Teti Pharaoh of Egypt
+- **Baal-Hanan  Edomites** (Q86292)
+- **Yashjub  Banu Ismail** (Q86443)
+- **Eurymedusa  of Troy** (Q90444) ⚭ Zeus
+- **Hercules Lybius** (Q90612)
+
+## Generation 77 (17 people) — circa 3436 CE
+
+- **MPS** (Q1178) ⚭ Q30929
+- **Clitor** (Q132657) — [Wikidata Q3680855](https://www.wikidata.org/wiki/Q3680855)
+- **Kenan** (Q134022) — b. 3436 CE, d. 2769 CE — [Wikidata Q844433](https://www.wikidata.org/wiki/Q844433) ⚭ Mualeleth
+- **Mualeleth** (Q134023) — [Wikidata Q96030784](https://www.wikidata.org/wiki/Q96030784) ⚭ Kenan
+- **Iranic Ancestors Generation 10** (Q153007)
+- **Harapsili Princess and Queen consort of the Hittites** (Q153057)
+- **Q30929** (Q30929) ⚭ MPS
+- **Manishtushu  of Akkad** (Q70520)
+- **Juba II  banu numidia** (Q71993)
+- **Enlil-nasir I** (Q75354)
+- **Mother of Pepi II, King of Egypt** (Q85706) ⚭ Pepi I
+- **Sesheshet** (Q85716) — [Wikidata Q242058](https://www.wikidata.org/wiki/Q242058) ⚭ Shepsiptah
+- **Shepsiptah** (Q85718) ⚭ Sesheshet
+- **Khenut** (Q85722) ⚭ Unas
+- **Unas** (Q85730) — [Wikidata Q244985](https://www.wikidata.org/wiki/Q244985) ⚭ Nebet ., Khenut
+- **Shaul  Edomites** (Q86290)
+- **Nabit  Banu Ismail** (Q86441)
+
+## Generation 78 (14 people) — circa 3769 CE
+
+- **MNOPS** (Q1174) ⚭ Q30925
+- **Azan** (Q132987) — [Wikidata Q793560](https://www.wikidata.org/wiki/Q793560)
+- **Enos** (Q134510) — b. 3769 CE, d. 2864 CE — [Wikidata Q682531](https://www.wikidata.org/wiki/Q682531) ⚭ Noam
+- **Noam** (Q134511) — [Wikidata Q97662470](https://www.wikidata.org/wiki/Q97662470) ⚭ Enos
+- **Maratti** (Q1350)
+- **Iranic Ancestors Generation 11** (Q153008)
+- **Q30925** (Q30925) ⚭ MNOPS
+- **Rimush  of Akkad** (Q70526)
+- **Afer  banu numidia** (Q71996)
+- **Puzur-Ashur III** (Q75378)
+- **Djedkare Isesi** (Q85726) ⚭ N.N.
+- **N.N.** (Q85728) ⚭ Djedkare Isesi
+- **Samla  Edomites** (Q86288)
+- **Jusham  Banu Ismail** (Q86439)
+
+## Generation 79 (15 people) — circa 3874 CE
+
+- **Erato** (Q132985) — [Wikidata Q782764](https://www.wikidata.org/wiki/Q782764) ⚭ Arcas
+- **Seth** (Q134747) — b. 3874 CE, d. 2958 CE — [Wikidata Q107626](https://www.wikidata.org/wiki/Q107626) ⚭ Azura
+- **Azura** (Q134748) — [Wikidata Q9641412](https://www.wikidata.org/wiki/Q9641412) ⚭ Seth
+- **Keleth K** (Q152983) ⚭ Q30921
+- **Iranic Ancestors Generation 12** (Q153009)
+- **Hattusili I King of the Hittites** (Q153059) — d. 1600 CE
+- **Q30921** (Q30921) ⚭ Keleth K
+- **Tashlultum** (Q70529) ⚭ Sargon  of Akkad
+- **Sargon  of Akkad** (Q70532) — d. 2279 BCE — [Wikidata Q199461](https://www.wikidata.org/wiki/Q199461) ⚭ Tashlultum
+- **Numid  banu numidia** (Q71999)
+- **Ashur-nirari I** (Q75393)
+- **Menkauhor Kaiu** (Q85732) ⚭ N.N.
+- **N.N.** (Q85734) ⚭ Menkauhor Kaiu
+- **Hadad I  Edomites** (Q86285)
+- **Amr  Banu Ismail** (Q86437)
+
+## Generation 80 (14 people) — circa 200000 BCE
+
+- **Adam Y Chromosomal Adam** (Q152973) — b. 200000 BCE, d. 3074 CE — [Wikidata Q351265](https://www.wikidata.org/wiki/Q351265) ⚭ Lilith, Eve
+- **Iranic Ancestors Generation 13** (Q153010)
+- **Papahdilmah Abu Hattusili** (Q153060)
+- **Eve** (Q30880) — b. 200000 BCE — [Wikidata Q830183](https://www.wikidata.org/wiki/Q830183) ⚭ Adam Y Chromosomal Adam
+- **IJK** (Q30913) ⚭ Q30917
+- **Q30917** (Q30917) ⚭ IJK
+- **La'ibum  Abu Sargon** (Q70535) ⚭ high priestess
+- **high priestess** (Q70538) ⚭ La'ibum  Abu Sargon
+- **Madghis  banu numidia** (Q72002)
+- **Ishme-Dagan II** (Q75399)
+- **Nyuserre Ini** (Q85736) ⚭ Reptynub .
+- **Reptynub .** (Q85738) ⚭ Nyuserre Ini
+- **Jobab  Edomites** (Q86283)
+- **Qedar  Banu Ismail** (Q86435)
+
+---
+
+## Below Adam
+
+The graph continues below Adam through:
+- **Gens 81–90**: Homo sapiens → Australopithecus (evolutionary phylogeny)
+- **Gens 80–130**: Iranic Ancestors (55 numbered placeholder generations), Hittite Ancestors (50 numbered generations), pre-dynastic Egyptian pharaohs (Iry-Hor, Scorpion I/II, Ka), Akkadian/Sumerian kings (Gilgamesh, Enmerkar, Lugalbanda), banu Numidia chain
+- **Gens 130–211**: Gaiad cosmogonic figures (LUCA, Gaia, Aster)
+
+These are not included here as they belong to the pre-human Gaiad chapters (1–129).

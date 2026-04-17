@@ -45,6 +45,15 @@ tilts don't imply the whole epic leans this way.
   (alphabet synthesis at BAC) and will extend into `torah.md`
   (narrative Exodus / Sinai).
 - **David.** `david.md`.
+- **The Israelite Kingdom — rise and fall.** `israelite-kingdom.md`.
+  The polytheistic monarchy, the split, the falls of Israel (722) and
+  Judah (586). Sets up the prophetic movement.
+- **The Prophetic Movement.** `prophetic-movement.md`. Minor prophets
+  as extremist founders of Yahwist Judaism — the "Hamas" of the
+  ancient Near East. Continues into the Babylonian exile.
+- **The Second Temple.** `second-temple.md`. Return from exile through
+  destruction in 70 CE. Maccabees, Hellenistic Judaism, the sectarian
+  landscape that produces Jesus.
 - **The Bible as a compiled object.** `bible.md`.
 - **The Torah as a narrative-doctrinal unit.** `torah.md`.
 
@@ -88,6 +97,16 @@ tilts don't imply the whole epic leans this way.
 - **Bustanai.** `bustanai.md`.
 - **Marozia / Pornocracy.** `marozia.md`.
 - **Elagabalus.** `elagabalus.md`.
+- **Third Century Crisis / Sol Invictus.** `third-century-crisis.md`.
+  Christianity emerges from the solar-cult landscape. Same chapter as
+  the Crisis itself.
+- **Byzantium.** `byzantium.md`. The Eastern Roman continuation — the
+  gap ends at 1453, so this needs build-up.
+- **Persia / Shahnameh.** `persia.md`. Triple duty: Shahnameh as
+  mythic-cycle bridge, Zoroastrianism as monotheism site, Sasanian
+  royals → Bustanai.
+- **Carthage / Punic Wars.** `carthage-punic-wars.md`. Firmly on
+  Carthage's side. Lost Tribes connection via Phoenicia.
 
 ## Late-mythic cycles (per tier, see `README.md`)
 
@@ -95,6 +114,21 @@ At least the strong/benchmark tiers — Aztec, Scandinavia, Jimmu,
 Rome, China — plus the additional strong cases (Mongolia, Arabia,
 Ethiopia). Lithuania as counterfactual. See `README.md` Late-mythic
 section for tiering.
+
+- **Ireland / Celtic.** `ireland.md`. Hard requirement. *Lebor Gabala
+  Erenn*, Tuatha De Danann → high kings → Brian Boru.
+
+## Ancient Near East (non-biblical)
+
+- **Mesopotamia.** `mesopotamia.md`. One chapter covering the entire
+  span — Sumerian → Babylonian → Assyrian king lists, ending at
+  Ashurbanipal. Speed is the theme; placement is late in the arc.
+- **Bronze Age Collapse.** `bronze-age-collapse.md`. Structural
+  decision: Trojan War and Exodus are directly connected as two faces
+  of the same systemic collapse. Not parallel — causal.
+- **Armenia.** `armenia.md`. Hard requirement. First Christian kingdom,
+  Haik → Arsacids, Caucasian cluster.
+- **Ethiopia.** `ethiopia.md`. Hard requirement.
 
 ## Deep prehistory
 

@@ -33,12 +33,35 @@ desk.
   syncretic (Confucianism, Hinduism, local); big Sufism coverage;
   Islam into India and China.
 
+## Unsolved structural problems
+
+- [`medieval-problem.md`](medieval-problem.md) — what organizes the
+  medieval chapters (~500–1453) once genealogy stops being the primary
+  driver? The antiquity side is well-framed; this side is not.
+
 ## Opening & structural pivots
 
 - [`genesis-opening.md`](genesis-opening.md) — Adam / Cain / Abel /
   Seth and Noah-as-out-of-Africa. The haplogroup-heavy opening.
 - [`moses-bac-pivot.md`](moses-bac-pivot.md) — Moses synthesizing the
   alphabet at the Bronze Age Collapse (Register B → C seam).
+
+## Ancient Near East (non-biblical)
+
+- [`mesopotamia.md`](mesopotamia.md) — one chapter covering all of
+  Mesopotamia (Sumer → Babylon → Assyria → Ashurbanipal). Speed is the
+  theme; late placement in the arc.
+- [`bronze-age-collapse.md`](bronze-age-collapse.md) — structural
+  decision: Trojan War and Exodus directly connected as two faces of
+  the same systemic collapse.
+- [`persia.md`](persia.md) — Shahnameh as mythic-cycle bridge,
+  Zoroastrianism as monotheism site (not originally monotheistic),
+  Sasanian royals → Bustanai. Triple-duty file.
+- [`armenia.md`](armenia.md) — hard requirement. First Christian
+  kingdom, Haik → Arsacids, Caucasian cluster.
+- [`carthage-punic-wars.md`](carthage-punic-wars.md) — Carthage
+  integrated through the Punic Wars, firmly on Carthage's side.
+  Lost Tribes / Phoenician connection.
 
 ## Deep-prehistory civilizations (illegible-from-outside)
 
@@ -54,7 +77,7 @@ desk.
 - [`manu-indian.md`](manu-indian.md) — Indian Manu as flood-
   ancestor and lawgiver; parallels Noah and Moses.
 
-## Biblical narrative spine (patriarchs → Egypt)
+## Biblical narrative spine (patriarchs → temple destruction)
 
 - [`abraham-jacob.md`](abraham-jacob.md) — patriarchal sequence;
   Akedah, Jacob wrestling, twelve sons.
@@ -62,6 +85,14 @@ desk.
   patriarchs to Exodus.
 - [`pharaohs.md`](pharaohs.md) — Egypt as civilization; Akhenaten,
   Ramesside, BAC connection.
+- [`israelite-kingdom.md`](israelite-kingdom.md) — rise and fall of
+  the polytheistic monarchy; the split; falls of Israel and Judah.
+- [`prophetic-movement.md`](prophetic-movement.md) — minor prophets
+  as extremist founders of Yahwist Judaism; continues into Babylonian
+  exile.
+- [`second-temple.md`](second-temple.md) — return from exile through
+  70 CE destruction. Maccabees, Hellenistic Judaism, sectarian
+  landscape.
 
 ## Hindu epics
 
@@ -104,10 +135,14 @@ desk.
 - [`maori.md`](maori.md) — structurally tier-1 but belongs in the
   modern-period block (253–328), not this gap.
 
+### Hard requirements (promoted from weaker-tier)
+- [`ireland.md`](ireland.md) — *Lebor Gabala Erenn*, Tuatha De Danann
+  → high kings → Brian Boru. Hard requirement.
+
 ### Weaker-tier, briefly
 - [`other-mythic-cycles.md`](other-mythic-cycles.md) — Tibet, Korea,
-  Vietnam, Ireland/Celtic, Wales, Persia, Armenia, Georgia. Split into
-  their own files when they firm up.
+  Vietnam, Wales, Georgia. (Ireland, Persia, Armenia promoted to own
+  files.)
 
 ## Gateway ancestors (genealogical spine)
 
@@ -141,6 +176,14 @@ desk.
   portrayal.
 - [`jimmu.md`](jimmu.md) — messy coalition-builder (also cross-listed
   under mythic-cycle bridges above).
+
+## Roman / Byzantine arc
+
+- [`third-century-crisis.md`](third-century-crisis.md) — Third Century
+  Crisis and Sol Invictus; Christianity emerges from the solar-cult
+  landscape. Same chapter as the Crisis.
+- [`byzantium.md`](byzantium.md) — Eastern Roman continuation;
+  Constantine through 1453. The gap ends here.
 
 ## Connective / X-Files episodes
 
