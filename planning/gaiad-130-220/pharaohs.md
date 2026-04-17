@@ -89,7 +89,13 @@ per `must-include.md`.
 Egypt gets **four chapters**:
 
 1. **Old Kingdom** — the pyramid age. Khufu, Khafre, Menkaure,
-   the Giza plateau.
+   the Giza plateau. Massive timeline chapter covering a lot of
+   ground. **Mentions the First Dynasty of Kish** (Mesopotamia
+   exists) but does not dwell on it. The **Gutians** are mentioned
+   in the same breath as the collapse of the Old Kingdom —
+   simultaneous disruptions, noted from the Egyptian side.
+   Strictly the Old Kingdom perspective throughout. Mesopotamia
+   gets its own fast chapter later (`mesopotamia.md`).
 2. **Middle Kingdom** — classical stabilization, literary
    flowering (*Tale of Sinuhe*, *Instructions of Amenemhat*).
 3. **New Kingdom** — imperial peak. Hatshepsut, Thutmose III,
@@ -99,9 +105,9 @@ Egypt gets **four chapters**:
    the Bronze Age Collapse and the Hebrew exit. Connects to
    `moses-bac-pivot.md`.
 
-Egypt is the **first civilization after the haplogroup chapters**
-— it sits at Seam 1 (invention of writing, ~3200 BCE), the
-Register A → B handoff. See `chapter-allocation.md`.
+Egypt follows the Malta chapter and sits near Seam 1 (invention
+of writing, ~3200 BCE), the Register A → B handoff. See
+`chapter-allocation.md`.
 
 ## Relation to neighbors
 
