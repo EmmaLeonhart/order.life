@@ -54,7 +54,26 @@ branching with civilizations and language families woven in.
 | 33 | Bantu expansion | Major African migration. Bantu-speaking peoples spread across sub-Saharan Africa. Haplogroup-register chapter, not strictly historical — gives precedence indicating how old the Bantu peoples are. |
 | 34 | Zarathustra | Bronze Age Collapse-ish figure, placed after Bantu. Thematic parallels to BAC even if more distant. References the Ramayana/Vedas. See `persia.md`. |
 | 35 | Formation of Israel under David | United monarchy. See `david.md`, `israelite-kingdom.md`. |
-| 36 | Beginning of Classical Greece | First Olympics (776 BCE). Polis formation, archaic period. |
+| 36 | Beginning of Classical Greece | First Olympics (776 BCE). Polis formation, archaic period. Aethiopis-type material. |
+| 37 | Assyria + Babylon | Neo-Assyrian and Neo-Babylonian empires. The fast Mesopotamia chapter — speed is the theme. See `mesopotamia.md`. |
+| 38 | Babylonian Exile / monotheism | Yahwist monotheism consolidates. Critics within the narrative actively say the Yahwists are basically just Akhenaten. See `prophetic-movement.md`. |
+| 39 | Persian Empire | Achaemenid expansion. Cyrus, Darius. See `persia.md`. |
+| 40 | Confucius + Laozi | Spring and Autumn period. Chinese philosophy emerges. |
+| 41 | Buddha | See `buddha.md`. |
+| 42 | Mahabharata | Depicted as contemporary with the life of the Buddha. Krishna's "fight" contrasts with Buddha's rejection of conflict. Buddha is somewhat outside/rejecting the Kurukshetra war. Vishnu avatar sequence: Rama → Krishna → Buddha. See `mahabharata.md`. |
+| 43 | Classical Greece pt 2 | At least 2 chapters of classical Greece after the Mahabharata/Buddha block. Building toward Alexander. |
+| 44 | Classical Greece pt 3 | Continued. May expand further if budget allows. |
+| 45 | Alexander the Great | Conquest. Greek world meets Persian world meets Indian world. |
+| 46 | Maurya Empire | Ashoka. Indian response to Alexander's incursion. Buddhism as state religion. |
+| 47 | Qin Shi Huang → Han Dynasty | Unification of China. Warring States → Qin → Han beginning. |
+| 48 | Punic Wars / Roman Republic | Carthage vs. Rome. Firmly on Carthage's side. See `carthage-punic-wars.md`. |
+| 49 | Rome | Possibly one chapter, possibly a few. Roman history through roughly Julius Caesar-ish time. May expand. |
+| 50 | Jesus | Contemporary with the actual start of the Roman Empire. See `jesus.md`. |
+| 51 | Buddhism enters Han Dynasty | Buddhism's eastward transmission into China. |
+| 52 | Crisis of Third Century + Sol Invictus | Christianity emerges from the solar-cult landscape. See `third-century-crisis.md`. |
+| 53 | Sassanid Empire | Monotheization of Zoroastrianism. See `persia.md`. |
+| 54 | Constantine / late antiquity / fall of Rome | Christianity becomes state religion. Western Roman decline. |
+| 55 | Fall of Han Dynasty | Placement approximate — after Crisis of Third Century zone. Chinese parallel to Roman decline. |
 
 ## Mongol block (8 chapters, ~ch 203–210)
 
@@ -86,20 +105,17 @@ Per `late-medieval-sequence.md`. The acceleration zone.
 | Haplogroups | 14 | 14 |
 | Pre-BAC sequence | 17 | 31 |
 | *(Malta → Old Kingdom → Akkadian → Stonehenge → Minoan → Yamnaya → Yellow Emperor → Neo-Sumerian+Abraham → Hammurabi → Middle Kingdom → Jacob+Hyksos → Aryan migration → New Kingdom → Hittites → Mycenaeans → Ramayana → Exodus/Troy/BAC)* | | |
-| Post-BAC sequenced | 5 | 36 |
-| *(Fall of Shang, Bantu, Zarathustra, David/Israel, Classical Greece)* | | |
-| Allocated not sequenced | 1 | 37 |
-| *(Mahabharata — later, near composition date)* | | |
-| Mongol block | 8 | 45 |
-| Late medieval | 10 | 55 |
-| **Unallocated** | **36** | 91 |
+| Post-BAC → late antiquity | 24 | 55 |
+| *(Fall of Shang → Bantu → Zarathustra → David → Classical Greece → Assyria+Babylon → Exile/monotheism → Persia → Confucius+Laozi → Buddha → Mahabharata → Greece pt2 → Greece pt3 → Alexander → Maurya → Qin/Han → Punic Wars → Rome → Jesus → Buddhism→Han → 3rd Century Crisis → Sassanid → Constantine → Fall of Han)* | | |
+| Mongol block | 8 | 63 |
+| Late medieval | 10 | 73 |
+| **Unallocated** | **18** | 91 |
 
-42 chapters remain for: prophetic movement, Israelite kingdom,
-David, Second Temple, Mesopotamia fast chapter (Assyria →
-Ashurbanipal), Hindu epics (Ramayana, Mahabharata), Buddha,
-Greece, Rome, Persia, religious founders (Jesus, Muhammad),
-Charlemagne, Bustanai, Islamic arc, mythic cycles (Scandinavia,
-Japan, Rome, China, Mongolia, Arabia, Ethiopia, Ireland,
-Lithuania), Armenia, Carthage, Byzantium, Third Century Crisis,
-India stagnation, connective episodes (Xuanzang, Marozia,
-Elagabalus), Japan emphasis cluster, and whatever else emerges.
+18 chapters remain for: Muhammad, Charlemagne, Bustanai,
+Islamic arc / Golden Age, mythic cycles (Scandinavia, Jimmu,
+Mongolia, Arabia, Ethiopia, Ireland, Lithuania counterfactual),
+Armenia, India stagnation, Second Temple, Israelite kingdom
+split/fall, Byzantium pre-Mongol, Japan emphasis cluster
+(Jingu, Saicho/Kukai, Heian, Nara), connective episodes
+(Xuanzang, Marozia, Elagabalus, Heo Hwang-ok). Classical
+Greece and Rome may expand into this budget if needed.
