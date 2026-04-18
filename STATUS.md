@@ -10,6 +10,8 @@ Really work on fixing up the human chapters, I feel they just kinda completely d
 
 Unlink the wiki from the site since the wiki is going down
 
+If there is a substantial gap in the human chapters fix it. But focus first on fixing up the earlier ones since earlier ones ship first
+
 ## What this is
 
 Static site generator + chapter pipeline for Lifeism (the order.life
