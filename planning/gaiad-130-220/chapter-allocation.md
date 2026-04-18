@@ -68,25 +68,30 @@ branching with civilizations and language families woven in.
 | 47 | Qin Shi Huang → Han Dynasty | Unification of China. Warring States → Qin → Han beginning. |
 | 48 | Punic Wars / Roman Republic | Carthage vs. Rome. Firmly on Carthage's side. See `carthage-punic-wars.md`. |
 | 49 | Rome | Possibly one chapter, possibly a few. Roman history through roughly Julius Caesar-ish time. May expand. |
-| 50 | Jesus | Contemporary with the actual start of the Roman Empire. See `jesus.md`. |
-| 51 | Buddhism enters Han Dynasty | Buddhism's eastward transmission into China. |
-| 52 | Crisis of Third Century + Sol Invictus | Christianity emerges from the solar-cult landscape. See `third-century-crisis.md`. |
-| 53 | Sassanid Empire | Monotheization of Zoroastrianism. See `persia.md`. |
-| 54 | Constantine / late antiquity / fall of Rome | Christianity becomes state religion. Western Roman decline. |
-| 55 | Fall of Han Dynasty | Placement approximate — after Crisis of Third Century zone. Chinese parallel to Roman decline. |
-| 56 | Romance of the Three Kingdoms | Records of the Three Kingdoms era. Fall of Han aftermath. |
-| 57 | Jimmu → Jingū | Compressed Japan chapter. Emperor Jimmu (~200 BCE?) through Empress Jingū. What Japan has been doing. See `jimmu.md`. |
-| 58 | Rise of Islam / Muhammad | See `muhammad.md`, `islam-syncretic.md`. |
-| 59 | Journey to the West | Xuanzang. Asian-side bridge chapter. See `xuanzang.md`. |
-| 60 | Kūkai | Shingon Buddhism. Japan emphasis. |
-| 61 | Charlemagne + Byzantine Empire | European gateway ancestor + Eastern Roman continuation. Lot of Byzantine material here. Great Schism (1054) folded in here or in Crusades, not its own chapter. See `charlemagne.md`, `byzantium.md`. |
-| 62 | Tang Dynasty + Huichang persecution | Tang as Chinese Golden Age. Huichang persecution of Buddhism (845) — the moment China turns against Buddhism, pushing it definitively to Japan/Korea. |
-| 63 | Islamic Golden Age | Baghdad as intellectual center. Abbasid caliphate at height. House of Wisdom, al-Khwarizmi, Ibn Sina. |
-| 64 | Heian Japan | ~794–1185. Tale of Genji. Japanese culture becomes distinctly Japanese rather than Chinese-derived. Follows from Kūkai. |
-| 65 | Scandinavia / Eddas | Viking Age. Post-conversion capture of the mythic cycle. Snorri Sturluson. See `scandinavia.md`. |
-| 66 | Ireland / Brian Boru | Hard requirement. Lebor Gabála Érenn, Tuatha Dé Danann → high kings → Brian Boru (d. 1014). See `ireland.md`. |
-| 67 | India stagnation | Compressed chapter: ~1 CE to Delhi Sultanate (1206). 1,200 years held back by caste system. See `india-stagnation.md`. |
-| 68 | Crusades | Own chapter. Started because the Seljuk Turks conquered the Arabs and were hostile to Christians — not because the Arabs attacked. The Crusades and the Delhi Sultanate are both products of a Turkic migration period. Seljuks → Christian response → Crusades. |
+| 50 | Second Temple | 539 BCE – 70 CE. Return from exile (Cyrus/Zerubbabel), Hellenistic Judaism, Maccabean revolt, Herod's Temple, sectarian landscape (Pharisees/Sadducees/Essenes/Zealots), destruction in 70 CE. Immediate context for Jesus. See `second-temple.md`. |
+| 51 | Jesus | Contemporary with the actual start of the Roman Empire. See `jesus.md`. |
+| 52 | Buddhism enters Han Dynasty | Buddhism's eastward transmission into China — and by extension into Korea and Japan. **Heo Hwang-ok** folds in here: Princess of Ayodhya → Geumgwan Gaya (~48 CE) as the one named Asian-to-Asian bridge figure, seeding Korean royal lines that later reach Japan. See `heo-hwang-ok.md`. |
+| 53 | Elagabalus | Roman emperor-priest of Emesa (r. 218–222). Black stone of Emesa brought to Rome, assassinated, stone returns. Sets up the Emesa → Kaaba lineage that lands in Mecca. Neoplatonist / Iamblichus / Sol Invictus threads. See `elagabalus.md`. |
+| 54 | Crisis of Third Century + Sol Invictus | Christianity emerges from the solar-cult landscape. See `third-century-crisis.md`. |
+| 55 | Sassanid Empire | Monotheization of Zoroastrianism. See `persia.md`. |
+| 56 | Armenia | First Christian state (traditionally 301 CE under Tiridates III / Gregory the Illuminator). Haik as mythic founder → Arsacid dynasty → conversion. Pre-Constantinian Christian commitment that complicates the Sol Invictus / Constantine synthesis. Pairs with Ethiopia. See `armenia.md`. |
+| 57 | Ethiopia | Solomonic dynasty via the *Kebra Nagast* — Menelik I (son of Solomon and Queen of Sheba) → through to Haile Selassie. Ezana's conversion (~330 CE) as the narrative hinge here; brings the biblical thread back to the Bab al-Mandab geography from Genesis opening. See `ethiopia.md`. |
+| 58 | Constantine / late antiquity / fall of Rome | Christianity becomes state religion. Western Roman decline. |
+| 59 | Fall of Han Dynasty | Placement approximate — after Crisis of Third Century zone. Chinese parallel to Roman decline. |
+| 60 | Romance of the Three Kingdoms | Records of the Three Kingdoms era. Fall of Han aftermath. |
+| 61 | Jimmu → Jingū | Compressed Japan chapter. Emperor Jimmu (~200 BCE?) through Empress Jingū. What Japan has been doing. See `jimmu.md`. |
+| 62 | Arabia (Adnan / Qahtan) | Pre-Islamic Quraysh genealogies tracing back to Adnan (northern Arab line) and Qahtan (southern Arab line). The Jewish/Muslim/Persian super-network bridge — genealogy bridging mythic founders to Muhammad's own lineage. Pairs with Elagabalus's black-stone thread. Own beat before Muhammad, not folded in. See `arabia.md`. |
+| 63 | Rise of Islam / Muhammad | See `muhammad.md`, `islam-syncretic.md`. |
+| 64 | Journey to the West | Xuanzang. Asian-side bridge chapter. See `xuanzang.md`. |
+| 65 | Kūkai | Shingon Buddhism. Japan emphasis. |
+| 66 | Charlemagne + Byzantine Empire | European gateway ancestor + Eastern Roman continuation. Lot of Byzantine material here. Great Schism (1054) folded in here or in Crusades, not its own chapter. See `charlemagne.md`, `byzantium.md`. |
+| 67 | Tang Dynasty + Huichang persecution | Tang as Chinese Golden Age. Huichang persecution of Buddhism (845) — the moment China turns against Buddhism, pushing it definitively to Japan/Korea. |
+| 68 | Islamic Golden Age | Baghdad as intellectual center. Abbasid caliphate at height. House of Wisdom, al-Khwarizmi, Ibn Sina. |
+| 69 | Heian Japan | ~794–1185. Tale of Genji. Japanese culture becomes distinctly Japanese rather than Chinese-derived. Follows from Kūkai. |
+| 70 | Scandinavia / Eddas | Viking Age. Post-conversion capture of the mythic cycle. Snorri Sturluson. See `scandinavia.md`. |
+| 71 | Ireland / Brian Boru | Hard requirement. Lebor Gabála Érenn, Tuatha Dé Danann → high kings → Brian Boru (d. 1014). See `ireland.md`. |
+| 72 | India stagnation | Compressed chapter: ~1 CE to Delhi Sultanate (1206). 1,200 years held back by caste system. See `india-stagnation.md`. |
+| 73 | Crusades | Own chapter. Started because the Seljuk Turks conquered the Arabs and were hostile to Christians — not because the Arabs attacked. The Crusades and the Delhi Sultanate are both products of a Turkic migration period. Seljuks → Christian response → Crusades. |
 
 ## Mongol block (8 chapters, ~ch 203–210)
 
@@ -94,14 +99,14 @@ Per `mongol-block.md`. Eight-day arc, Sunday to Sunday.
 
 | # | Chapter | Day | Key content |
 |---|---------|-----|-------------|
-| 24 | Mongols own perspective | Sunday | Steppe, unification, Genghis Khan |
-| 25 | Mongols hit China | Monday | Yuan dynasty |
-| 26 | Mongols hit Middle East | Tuesday | Baghdad 1258, end of Islamic Golden Age |
-| 27 | Mongols hit Europe/Russia | Wednesday | Russia devastated, Western Europe saved |
-| 28 | Mongols hit Japan | Thursday | Defeated — Nichiren as comic relief |
-| 29 | Black Death | Friday | Good Friday parallel. Plague via Silk Road |
-| 30 | Kenmu Restoration | Saturday | Japan restructures. Positive. |
-| 31 | Renaissance begins | Sunday | Easter Sunday. Modern age starting. |
+| 74 | Mongols own perspective | Sunday | Steppe, unification, Genghis Khan |
+| 75 | Mongols hit China | Monday | Yuan dynasty |
+| 76 | Mongols hit Middle East | Tuesday | Baghdad 1258, end of Islamic Golden Age |
+| 77 | Mongols hit Europe/Russia | Wednesday | Russia devastated, Western Europe saved |
+| 78 | Mongols hit Japan | Thursday | Defeated — Nichiren as comic relief |
+| 79 | Black Death | Friday | Good Friday parallel. Plague via Silk Road |
+| 80 | Kenmu Restoration | Saturday | Japan restructures. Positive. |
+| 81 | Renaissance begins | Sunday | Easter Sunday. Modern age starting. |
 
 ## Late medieval sequence (10 chapters, ch 211–220)
 
@@ -109,7 +114,7 @@ Per `late-medieval-sequence.md`. The acceleration zone.
 
 | # | Chapter | Key content |
 |---|---------|-------------|
-| 32–41 | Ch 211–220 | Timur, Lithuania, Zheng He, Gutenberg, Ottoman rise, Joan of Arc, Sengoku. Renaissance texture across 3–4 of these. Event-to-chapter assignments unsettled. |
+| 82–91 | Ch 211–220 | Timur, Lithuania, Zheng He, Gutenberg, Ottoman rise, Joan of Arc, Sengoku. Renaissance texture across 3–4 of these. Event-to-chapter assignments unsettled. |
 
 ## Summary
 
@@ -118,18 +123,32 @@ Per `late-medieval-sequence.md`. The acceleration zone.
 | Haplogroups | 14 | 14 |
 | Pre-BAC sequence | 17 | 31 |
 | *(Malta → Old Kingdom → Akkadian → Stonehenge → Minoan → Yamnaya → Yellow Emperor → Neo-Sumerian+Abraham → Hammurabi → Middle Kingdom → Jacob+Hyksos → Aryan migration → New Kingdom → Hittites → Mycenaeans → Ramayana → Exodus/Troy/BAC)* | | |
-| Post-BAC → late antiquity | 24 | 55 |
-| *(Fall of Shang → Bantu → Zarathustra → David → Classical Greece → Assyria+Babylon → Exile/monotheism → Persia → Confucius+Laozi → Buddha → Mahabharata → Greece pt2 → Greece pt3 → Alexander → Maurya → Qin/Han → Punic Wars → Rome → Jesus → Buddhism→Han → 3rd Century Crisis → Sassanid → Constantine → Fall of Han)* | | |
-| Late antiquity → ~800 CE | 6 | 61 |
-| *(Three Kingdoms → Jimmu→Jingū → Islam/Muhammad → Journey to the West → Kūkai → Charlemagne+Byzantium)* | | |
-| 800–1200 CE sequence | 7 | 68 |
+| Post-BAC → late antiquity | 28 | 59 |
+| *(Fall of Shang → Bantu → Zarathustra → David → Classical Greece → Assyria+Babylon → Exile/monotheism → Persia → Confucius+Laozi → Buddha → Mahabharata → Greece pt2 → Greece pt3 → Alexander → Maurya → Qin/Han → Punic Wars → Rome → **Second Temple** → Jesus → Buddhism→Han [incl. Heo Hwang-ok] → **Elagabalus** → 3rd Century Crisis → Sassanid → **Armenia** → **Ethiopia** → Constantine → Fall of Han)* | | |
+| Late antiquity → ~800 CE | 7 | 66 |
+| *(Three Kingdoms → Jimmu→Jingū → **Arabia** → Islam/Muhammad → Journey to the West → Kūkai → Charlemagne+Byzantium)* | | |
+| 800–1200 CE sequence | 7 | 73 |
 | *(Tang+Huichang → Islamic Golden Age → Heian Japan → Scandinavia/Eddas → Ireland/Brian Boru → India stagnation → Crusades)* | | |
-| Mongol block | 8 | 76 |
-| Late medieval | 10 | 86 |
-| **Unallocated** | **5** | 91 |
+| Mongol block | 8 | 81 |
+| Late medieval | 10 | 91 |
+| **Unallocated** | **0** | 91 |
 
-5 chapters remain as flex budget for: expansion of Classical
-Greece or Rome, Armenia, Ethiopia, Arabia mythic cycle,
-Lithuania counterfactual, Marozia, Elagabalus, Heo Hwang-ok,
-Bustanai, Second Temple, Israelite kingdom split/fall, or
-other material that needs a dedicated chapter.
+## Allocation decisions (2026-04-18)
+
+All five flex slots resolved:
+
+- **Second Temple** → own chapter, immediately before Jesus.
+- **Elagabalus** → own chapter, before Crisis of Third Century.
+- **Armenia + Ethiopia** → own chapters, both placed right before
+  Constantine at the moment of their respective conversions (Tiridates
+  III 301 CE; Ezana ~330 CE).
+- **Arabia (Adnan / Qahtan)** → own chapter, immediately before
+  Rise of Islam / Muhammad. Not folded into Muhammad chapter.
+- **Heo Hwang-ok** → NOT a separate chapter. Folds into the existing
+  "Buddhism enters Han Dynasty" chapter (ch 52), which covers Buddhism's
+  transmission into China, Korea, and Japan.
+- **Marozia** → NOT in this 130-220 block. Shelved to a future
+  "story of the Papacy" chapter in the modern-era section of the book.
+
+Budget is now fully allocated (91/91). Late medieval event-to-chapter
+assignments (ch 82–91) remain the main open question.
