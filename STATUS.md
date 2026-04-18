@@ -6,6 +6,8 @@ Lean — tracks what's left to do. Finished work lives in `git log` and
 
 Read the grok chat I just added
 
+Really work on fixing up the human chapters, I feel they just kinda completely drop the ball.
+
 ## What this is
 
 Static site generator + chapter pipeline for Lifeism (the order.life
