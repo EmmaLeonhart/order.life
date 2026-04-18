@@ -12,6 +12,8 @@ Unlink the wiki from the site since the wiki is going down
 
 If there is a substantial gap in the human chapters fix it. But focus first on fixing up the earlier ones since earlier ones ship first
 
+Add the history of the Papacy chapter into the modern period relatively soon. It should be right before the Protestant Reformation and include Marozia and the Avignon Papacy
+
 ## What this is
 
 Static site generator + chapter pipeline for Lifeism (the order.life
