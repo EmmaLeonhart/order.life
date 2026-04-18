@@ -16,6 +16,8 @@ Add the history of the Papacy chapter into the modern period relatively soon. It
 
 Update the fucking Claude.md remember we use it from https://github.org/EmmaLeonhart/Sutra as our basis for the status.md file
 
+Ball is dropped espercially aroun the Malta chapter but I think it drifted immenseny overall into a weird declarative form instead of the poetic form from earlier. Maybe because it is poisoned by there being more real writing on these things
+
 ## What this is
 
 Static site generator + chapter pipeline for Lifeism (the order.life
