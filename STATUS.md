@@ -14,6 +14,8 @@ If there is a substantial gap in the human chapters fix it. But focus first on f
 
 Add the history of the Papacy chapter into the modern period relatively soon. It should be right before the Protestant Reformation and include Marozia and the Avignon Papacy
 
+Update the fucking Claude.md remember we use it from https://github.org/EmmaLeonhart/Sutra as our basis for the status.md file
+
 ## What this is
 
 Static site generator + chapter pipeline for Lifeism (the order.life
