@@ -18,11 +18,7 @@ Written: **238 / 364**. Remaining gaps: **253–328** (76), **330–364** (35).
 
 3. **Unlink the wiki from the site.** `lifeism.miraheze.org` is closing (see `memory/wiki_closure_status.md`). The site still has wiki redirects — English `/wiki/*` and `/{lang}/wiki/*` both point to the Miraheze instance. Those links will rot. Strip them, redirect to an in-repo page, or point at whatever replacement surface the content ends up on. Do not leave broken links in the shipped site.
 
-4. **iCal bug fix + Phase 1 spec.** `generate_ical_files()` in `build.py` uses `m["name"]` but `MONTHS` uses `m["id"]` — currently broken. Fix: `{m["num"]: m["id"].capitalize() for m in MONTHS}`. After that, the revised `current.ics` format has three layers (daily Gaian-date events, holiday events, season-span events); `gaian-holidays-extended.ics` stays holidays-only. Full spec in the detached notes below in `todo.md` §iCal.
-
-5. **Genealogical analysis follow-up.** The Wikibase dump completed 2026-04-16 — 164k items, 4,840 wiki pages, 377 images. Centrality passed (Charlemagne, Bustanai, Jesus, Muhammad all load-bearing). Open: 1,230 children-with->2-parents (Geni merge errors, mostly Iberian royals), 69 cycles that should be zero, fan-out suspects (Danaus 231, Oceanus 155, Dhritarashtra 131, Heracles 113). Lineage gaps: Kosala → Heo Hwang-ok (~15–20 invented kings), Genghis Khan's 7-gen chain disconnected from Adam, Heo Hwang-ok → Jimmu not joined. None of this blocks chapter writing, but the analysis is the handle for per-chapter genealogy callouts.
-
-6. **GitHub Actions Node 20 deprecation.** Runners force Node 24 by default on 2026-06-02; Node 20 removed entirely 2026-09-16. Bump action tags in `.github/workflows/*.yml` when they officially support Node 24, or set `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true` as interim. Not urgent but has a hard deadline.
+4. **Genealogical analysis follow-up.** The Wikibase dump completed 2026-04-16 — 164k items, 4,840 wiki pages, 377 images. Centrality passed (Charlemagne, Bustanai, Jesus, Muhammad all load-bearing). Open: 1,230 children-with->2-parents (Geni merge errors, mostly Iberian royals), 69 cycles that should be zero, fan-out suspects (Danaus 231, Oceanus 155, Dhritarashtra 131, Heracles 113). Lineage gaps: Kosala → Heo Hwang-ok (~15–20 invented kings), Genghis Khan's 7-gen chain disconnected from Adam, Heo Hwang-ok → Jimmu not joined. None of this blocks chapter writing, but the analysis is the handle for per-chapter genealogy callouts.
 
 ## Pinned corrections (I keep dropping these)
 
