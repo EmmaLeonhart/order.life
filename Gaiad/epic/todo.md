@@ -1,9 +1,13 @@
 # Gaiad Epic - Chapter Planning & Lineage Tracker
 
 ## Current Position
-- **Last completed chapter**: 72
-- **Geological period**: Late Carboniferous (~300 MYA), Coal Swamp era
-- **Narrative part**: Part II — Tetrapod Heroic Cycle
+- **Contiguous through**: Chapter 205 (Mongol Middle East, Hulagu, Ain Jalut)
+- **Also drafted**: 221–252 (1453 → ~1720s); 329 (Emperor Showa)
+- **Active work**: Chapters 206–220 — Timur through fall of Constantinople
+- **Gaps remaining**: 206–220 (15), 253–328 (76), 330–364 (35) = 126 chapters
+- **Quality note**: 130–205 is power-through draft, not final. Emma
+  has flagged drift from poetic into declarative form (Malta chapter
+  and late-Capricorn stretch specifically). Later editing pass planned.
 
 ---
 

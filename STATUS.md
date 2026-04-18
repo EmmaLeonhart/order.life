@@ -39,18 +39,27 @@ Emma flagged this as an approximate balance, not a hard division.
 
 ## Chapter status (of 364)
 
-Written (162):
+Written (238):
 - 1–129 contiguous (pre-human cosmogony, ends at "The Dawn of Humanity")
+- 130–205 contiguous (pre-modern human arc, ancient through Mongol Middle East)
 - 221–252 (32 chapters, 1453 CE → ~1720s, the first-drafted human block)
 - 329 (one-off, Emperor Showa)
 
-Missing (202):
-- **130–220** (91 chapters) — the pre-1453 human arc. The active work.
+Missing (126):
+- **206–220** (15 chapters) — tail end of the pre-1453 human arc.
+  Timur, Lithuania, Zheng He, Gutenberg, Ottoman rise, Joan of Arc,
+  Sengoku, fall of Constantinople. Active work.
 - 253–328 (76 chapters) — indigenous-clash / modern period block.
 - 330–364 (35 chapters) — tail, Ophiuchus + Horus.
 
-Daily stream runway: ~3 weeks before ch 130 is due. Catch-up bot runs
-longer regardless. Do not over-engineer — GitHub Actions cron is fine.
+Note: 130–205 drafted in a power-through pass — real chapters, but
+first-pass quality. A later editing pass is expected. Emma has flagged
+the Malta chapter and the late-Capricorn stretch as having drifted
+from the earlier poetic form into a declarative mode. Prioritize
+fixing earlier chapters since they ship first.
+
+Daily stream runway: comfortable for months. Catch-up bot runs
+regardless. Do not over-engineer — GitHub Actions cron is fine.
 
 ## Active work — chapters 130–220
 
