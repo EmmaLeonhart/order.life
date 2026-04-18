@@ -46,7 +46,6 @@
         <a href="{{ base }}/map/">Map</a>
         <a href="{{ base }}/faq/">{{ t.nav.faq }}</a>
         <a href="/dev/">Developers</a>
-        <a href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}https://wiki.order.life{{ path_suffix }}{% else %}https://wiki.order.life/Main_Page/{% endif %}">{{ t.nav.wiki }}</a>
       </div>
       <div class="nav-right">
         <a class="discord-link" href="https://discord.gg/nSD5hZCu2u" target="_blank" rel="noopener" aria-label="Discord">
@@ -67,20 +66,8 @@
 
   {% block content %}{% endblock %}
 
-  <div class="wiki-cta">
-    <div class="wiki-cta-inner">
-      <div class="wiki-cta-text">
-        <div class="wiki-cta-title">{{ t.nav.wiki }}</div>
-        <div class="wiki-cta-subtitle">Help improve this page on the wiki.</div>
-      </div>
-      <a id="wikiCtaLink" class="wiki-cta-btn"
-         href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}https://wiki.order.life{{ path_suffix }}{% else %}https://wiki.order.life/Main_Page/{% endif %}">Go to the wiki page</a>
-    </div>
-  </div>
-
   <footer>
     <p>{{ t.religion_kanji }} · {{ t.religion_name }} · {{ t.site_title }}</p>
-    <p><a href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}https://wiki.order.life{{ path_suffix }}{% else %}https://wiki.order.life/Main_Page/{% endif %}">{{ t.nav.wiki }}</a></p>
   </footer>
 
   {% block scripts %}{% endblock %}
@@ -89,96 +76,6 @@
     window.LANG_BASE = {{ base | tojson }};
     window.GAIAN_MONTH_NAMES = {{ t.months | tojson }};
     window.GAIAN_WEEKDAY_NAMES = {{ preferred_weekday_names | tojson }};
-    // Wiki month names (match Miraheze titles)
-    window.GAIAN_WIKI_MONTH = {
-      sagittarius: 'Sagittarius',
-      capricorn: 'Capricorn',
-      aquarius: 'Aquarius',
-      pisces: 'Pisces',
-      aries: 'Aries',
-      taurus: 'Taurus',
-      gemini: 'Gemini',
-      cancer: 'Cancer',
-      leo: 'Leo',
-      virgo: 'Virgo',
-      libra: 'Libra',
-      scorpius: 'Scorpio',
-      ophiuchus: 'Ophiuchus',
-      horus: 'Horus'
-    };
-    // Numeric month → wiki name (for numeric URL parsing)
-    window.GAIAN_NUM_TO_WIKI = [
-      null,
-      'Sagittarius','Capricorn','Aquarius','Pisces','Aries','Taurus','Gemini',
-      'Cancer','Leo','Virgo','Libra','Scorpio','Ophiuchus','Horus'
-    ];
-  </script>
-
-  <script>
-function computeLocalWikiTitle(pathname, langBase) {
-  // Strip the language base prefix (e.g. '/ja') from the pathname
-  var strip = pathname;
-  if (langBase) strip = pathname.replace(new RegExp('^' + langBase.replace('/', '\\/') + '(/|$)'), '/');
-  const path = strip.replace(/\/+$/, '/');
-
-  if (path === '/' || path === '/index.html') return 'Main_Page';
-
-  // Calendar
-  if (path === '/calendar/' ) return 'Gaian_calendar';
-  if (path === '/calendar/gaian-era/' ) return 'Gaian_Era';
-  if (path === '/calendar/datepicker/' ) return 'Gaian_calendar_datepicker';
-
-  const calYear = path.match(/^\/calendar\/year\/(\d+)\/$/);
-  if (calYear) return `${calYear[1]}_GE`;
-
-  const calDay = path.match(/^\/calendar\/(\d{2})\/(\d{2})\/$/);
-  if (calDay) {
-    const monthNum = parseInt(calDay[1], 10);
-    const day = parseInt(calDay[2], 10);
-    const monthWiki = (window.GAIAN_NUM_TO_WIKI && window.GAIAN_NUM_TO_WIKI[monthNum]) || String(monthNum);
-    return `${monthWiki}_${day}`;
-  }
-  const calMonth = path.match(/^\/calendar\/(\d{2})\/$/);
-  if (calMonth) {
-    const monthNum = parseInt(calMonth[1], 10);
-    const monthWiki = (window.GAIAN_NUM_TO_WIKI && window.GAIAN_NUM_TO_WIKI[monthNum]) || String(monthNum);
-    return `${monthWiki}`;
-  }
-
-  // Week pages
-  if (path === '/calendar/week/') return 'week';
-  const weekNum = path.match(/^\/calendar\/week\/(\d+)\/$/);
-  if (weekNum) {
-    const n = parseInt(weekNum[1], 10);
-    return `week/${n}`;
-  }
-
-  // Scripture index/chapter
-  if (path === '/gaiad/') return 'Gaiad';
-  const ch = path.match(/^\/gaiad\/(\d{3})\/$/);
-  if (ch) return `Gaiad_${ch[1]}`;
-
-  // Sections
-  const sec = path.match(/^\/(evolution|longevity|shrines|philosophy|mythology|scripture)\/$/);
-  if (sec) return sec[1];
-
-  return 'Main_Page';
-}
-
-function updateWikiCta() {
-  try {
-    const el = document.getElementById('wikiCtaLink');
-    if (!el) return;
-    const langBase = window.LANG_BASE || '';
-    const title = computeLocalWikiTitle(window.location.pathname, langBase);
-    el.href = `https://wiki.order.life/${title}`;
-  } catch (e) {
-    // best-effort; keep the server-rendered href
-    console && console.warn && console.warn('wiki cta update failed', e);
-  }
-}
-
-document.addEventListener('DOMContentLoaded', updateWikiCta);
   </script>
 </body>
 </html>
