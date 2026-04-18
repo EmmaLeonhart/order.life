@@ -6,11 +6,9 @@ The work here is **making the Gaiad ship as a daily stream and the order.life si
 
 ## Chapter runway (load-bearing metric)
 
-Written: **238 / 364**. Missing: 206–220 is done. Remaining gaps:
-- **253–328** (76 chapters) — indigenous-clash / modern period block
-- **330–364** (35 chapters) — Ophiuchus + Horus tail
+Written: **238 / 364**. Remaining gaps: **253–328** (76), **330–364** (35).
 
-Daily Discord stream runway is comfortable for months. 221–252 is already drafted as the first human block (1453 → ~1720s); 329 exists as a one-off (Emperor Shōwa). Catch-up bot runs regardless.
+**Do not write more chapters until the month of Leo begins (2026-08-12).** The 130–220 barrel-through was an emergency stopgap to keep the daily stream from starving. The stream is now comfortable for months. Further chapter writing resumes when Leo starts; until then, any chapter work should be editing / polishing existing drafts, not generating new ones.
 
 ## Queued work
 
@@ -20,17 +18,11 @@ Daily Discord stream runway is comfortable for months. 221–252 is already draf
 
 3. **Unlink the wiki from the site.** `lifeism.miraheze.org` is closing (see `memory/wiki_closure_status.md`). The site still has wiki redirects — English `/wiki/*` and `/{lang}/wiki/*` both point to the Miraheze instance. Those links will rot. Strip them, redirect to an in-repo page, or point at whatever replacement surface the content ends up on. Do not leave broken links in the shipped site.
 
-4. **Write chapters 253–328** (76 chapters, indigenous-clash / modern period). The 221–252 block lands around ~1720s; this stretch carries the story from there into the modern era. Same barrel-through mode as 130–220 — shorter real chapters, later editing pass expected. Use the chronology in `planning/gaiad-130-220-structure.md` as a tone reference, but this block needs its own chronology doc (modern period has different shape — more simultaneous strands, less genealogy, more event-history).
+4. **iCal bug fix + Phase 1 spec.** `generate_ical_files()` in `build.py` uses `m["name"]` but `MONTHS` uses `m["id"]` — currently broken. Fix: `{m["num"]: m["id"].capitalize() for m in MONTHS}`. After that, the revised `current.ics` format has three layers (daily Gaian-date events, holiday events, season-span events); `gaian-holidays-extended.ics` stays holidays-only. Full spec in the detached notes below in `todo.md` §iCal.
 
-5. **Write chapters 330–364** (35 chapters, Ophiuchus + Horus tail). The tail is where the contemporary / near-future / mytho-closing register lives. 329 (Emperor Shōwa) is already written as a one-off. No structural plan for the tail exists yet; one is needed before barreling through.
+5. **Genealogical analysis follow-up.** The Wikibase dump completed 2026-04-16 — 164k items, 4,840 wiki pages, 377 images. Centrality passed (Charlemagne, Bustanai, Jesus, Muhammad all load-bearing). Open: 1,230 children-with->2-parents (Geni merge errors, mostly Iberian royals), 69 cycles that should be zero, fan-out suspects (Danaus 231, Oceanus 155, Dhritarashtra 131, Heracles 113). Lineage gaps: Kosala → Heo Hwang-ok (~15–20 invented kings), Genghis Khan's 7-gen chain disconnected from Adam, Heo Hwang-ok → Jimmu not joined. None of this blocks chapter writing, but the analysis is the handle for per-chapter genealogy callouts.
 
-6. **iCal bug fix + Phase 1 spec.** `generate_ical_files()` in `build.py` uses `m["name"]` but `MONTHS` uses `m["id"]` — currently broken. Fix: `{m["num"]: m["id"].capitalize() for m in MONTHS}`. After that, the revised `current.ics` format has three layers (daily Gaian-date events, holiday events, season-span events); `gaian-holidays-extended.ics` stays holidays-only. Full spec in the detached notes below in `todo.md` §iCal.
-
-7. **Genealogical analysis follow-up.** The Wikibase dump completed 2026-04-16 — 164k items, 4,840 wiki pages, 377 images. Centrality passed (Charlemagne, Bustanai, Jesus, Muhammad all load-bearing). Open: 1,230 children-with->2-parents (Geni merge errors, mostly Iberian royals), 69 cycles that should be zero, fan-out suspects (Danaus 231, Oceanus 155, Dhritarashtra 131, Heracles 113). Lineage gaps: Kosala → Heo Hwang-ok (~15–20 invented kings), Genghis Khan's 7-gen chain disconnected from Adam, Heo Hwang-ok → Jimmu not joined. None of this blocks chapter writing, but the analysis is the handle for per-chapter genealogy callouts.
-
-8. **Read the grok chat Emma added.** Triage input in `chats/` — extract via `python scripts/extract_chat.py` if there's an `.html` without a `.md` sibling, then read and fold whatever's actionable into this queue. Delete the chat once content has landed here or in a chapter.
-
-9. **GitHub Actions Node 20 deprecation.** Runners force Node 24 by default on 2026-06-02; Node 20 removed entirely 2026-09-16. Bump action tags in `.github/workflows/*.yml` when they officially support Node 24, or set `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true` as interim. Not urgent but has a hard deadline.
+6. **GitHub Actions Node 20 deprecation.** Runners force Node 24 by default on 2026-06-02; Node 20 removed entirely 2026-09-16. Bump action tags in `.github/workflows/*.yml` when they officially support Node 24, or set `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true` as interim. Not urgent but has a hard deadline.
 
 ## Pinned corrections (I keep dropping these)
 
