@@ -8,6 +8,8 @@ Read the grok chat I just added
 
 Really work on fixing up the human chapters, I feel they just kinda completely drop the ball.
 
+Unlink the wiki from the site since the wiki is going down
+
 ## What this is
 
 Static site generator + chapter pipeline for Lifeism (the order.life
