@@ -6,6 +6,9 @@ on:
     paths-ignore:
       - "discord-bot/state.json"
       - "wiki-pages/**"
+      - "Gaiad/epic/compiled/**"
+      - "gaiad_full.md"
+      - "gaiad_full_readable.md"
   schedule:
     - cron: "0 16 * * *"  # Daily at 8:00 AM PST (16:00 UTC), before Discord bot at 8:30 AM PST
   workflow_dispatch:
