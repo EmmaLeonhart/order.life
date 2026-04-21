@@ -23,6 +23,24 @@ the Modern Period needs its own thematic spine, not event-checklisting.
 - **CH 329 — global 1945 peace tableau** (drafted). Stays put on the
   Niinamesai / harvest-thanksgiving calendar date.
 
+## Confirmed inclusions
+
+Items the user has explicitly affirmed for the Modern Period. This is
+NOT a seed inventory to grow back into an event list — it is the short
+list of things that must appear somewhere in ch 253–364.
+
+- **Chronicle of the Popes** (= ch 253 anchor above)
+- **Sikhism / Guru Nanak** — a major old religion with specific
+  historical role then and now; people-based; keep
+- **Mormonism** — pseudo-ethnic, ties into earlier material; already
+  handled in Lehi ch 252 but may need a Modern-side reference
+- **Ch 329 global 1945 peace tableau** (= anchor above, drafted)
+- **Armenian Genocide 1915**, framed specifically as the industrial-
+  scale violence that forged Turkey into a nation-state (pair with the
+  Atatürk / Turkish Republic arc, not a standalone atrocity chapter)
+- **Tech / internet / AI** as elevated density in the closing arc —
+  part of the landing, not a coda
+
 ## Editorial criteria (confirmed)
 
 - **Peoples, not ideologies.** Religious or political movements get
