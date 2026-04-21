@@ -8,6 +8,38 @@
   has flagged drift from poetic into declarative form (Malta chapter
   and late-Capricorn stretch specifically). Later editing pass planned.
   Earlier chapters ship first — prioritize fixing them before writing more.
+- **State of notes (2026-04-21)**: what exists is deliberately
+  bare-bones AND partly hallucinated. The ch 329–364 summary table
+  lower in this file and most of `notes_deprecated/` are early
+  speculative scaffolding; treat specific chapter summaries there as
+  unreliable. The Milkomeda / Aster-Andromeda finale frame, however,
+  IS load-bearing — it's referenced in ch 1, so ch 364 lands there.
+- **Confirmed closing-arc structure**:
+  - **Ch 364 — Milkomeda.** Galactic merger / Aster-Andromeda reunion.
+    Conclusion of the entire Gaiad.
+  - **Ch 363 — Cryonic revival.** Conclusion of the modern period / the
+    human sections. The only near-term "prediction" the book commits
+    to (because cryonics as a practice requires it).
+  - **Ch 362 — 2026 → time skip.** The handoff chapter. Starts in the
+    present, executes a deliberate time-skip. Between 362 and 363
+    there is an implied gap ("what people are actually doing") that
+    the book explicitly does NOT narrate — the gap IS the point. The
+    book refuses to make mid-term predictions; only the astronomical
+    and cryonic certainties get depicted.
+- **Implication for Modern Period drafting**: ch 253–362 (110 chapters)
+  is the full arc of human-scale Modern content, ending on the
+  2026 → time-skip handoff. Ch 363–364 are structurally separate —
+  post-human/cosmic finale, not part of Modern. Modern does NOT have
+  to resolve its threads; ch 362 lands on "we're still in it" and
+  hands off. Meta-threads (Aster/Andromeda seeding, cross-chapter
+  echoes) are explicit **post-revision passes**, not drafting blockers.
+- **Stale inventory flag**: the ch 329–364 table further down in this
+  file predates the Modern Period editorial criteria in
+  `planning/gaiad-253-364/chapter-allocation.md`. Titles like
+  "Suburban Dream," "Beat Generation," "Feminine Mystique," "Cryonic
+  revival" are Western-canon namedrops that conflict with the
+  peoples-not-ideologies / intentionality-over-coverage direction.
+  Treat that table as legacy scaffolding, not the plan of record.
 
 ---
 
