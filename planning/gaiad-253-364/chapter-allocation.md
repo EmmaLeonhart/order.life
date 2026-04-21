@@ -26,10 +26,16 @@ Niinamesai / harvest-thanksgiving date in late Scorpius).
   should dignify that typical history books skip or shrink. They're where
   the book earns its worldview; do not drop them first when cutting.
 - **Bias:** inventory leans long. We'll prune, not pad.
+- **Divisions below are suggestive, not structural.** The subheadings are
+  natural breakpoints (religious wars, ancien régime, long 19th c.,
+  catastrophe era, post-war) — they are NOT chapter assignments, NOT month
+  assignments, NOT promises of how many entries belong in each. Do not
+  divide more aggressively than logic allows, and do not treat these
+  groupings as binding. They exist to make the list readable, nothing more.
 
 ## Chronological inventory
 
-### 1450s–1500s (post-1453)
+### Religious wars and first ocean systems (~1453–1650)
 
 - Mehmed II's conquest of Constantinople, Standing on the Ugra 1480, Granada
   1492, Columbus 1492 — **already handled in ch 221–224**
@@ -68,9 +74,6 @@ Niinamesai / harvest-thanksgiving date in late Scorpius).
 - † **Witch hunts** as a thread distinct from Reformation — peak 1580–1630;
   gendered violence across confessional lines
 - Shakespeare (d. 1616), Cervantes (d. 1616), Monteverdi
-
-### 1600s
-
 - Thirty Years' War 1618–48; Peace of Westphalia
 - Mughal peak: Jahangir, Shah Jahan (Taj Mahal), Aurangzeb's expansion and
   overreach; Maratha rise under Shivaji (r. 1674–80)
@@ -93,7 +96,11 @@ Niinamesai / harvest-thanksgiving date in late Scorpius).
   Williams, Anne Hutchinson
 - Peter the Great (r. 1682–1725) — Russia's westward pivot
 
-### 1700s
+### Ancien régime and Enlightenment (~1650–1800)
+
+*(The 17th-century entries above already pull into this arc; the ~1650
+cut is approximate. Thirty Years' War, Scientific Revolution, and
+Tokugawa sakoku all belong to the same long shift.)*
 
 - † **Dzungar Genocide** by Qing (1755–58) — 70–80% of the Dzungar
   population killed; Qing's forgotten atrocity; reshapes Central Asia
@@ -121,7 +128,12 @@ Niinamesai / harvest-thanksgiving date in late Scorpius).
   the Báb in Qajar Iran
 - Jenner's smallpox vaccine 1796
 
-### 1800s–1840s
+### The long 19th century (~1800–1914)
+
+*(Hobsbawm's arc: from Napoleon through WWI's outbreak. Industrial
+capitalism, nation-states, empires at their greatest extent, and the
+non-European responses that define the 20th century. Sub-grouped only
+for readability.)*
 
 - Napoleonic Wars; Congress of Vienna 1815
 - Latin American independence: Bolívar, San Martín, Hidalgo, ~1810–1825
@@ -142,9 +154,6 @@ Niinamesai / harvest-thanksgiving date in late Scorpius).
   thread begins
 - 1848 Revolutions — the great European spring that mostly fails
 - Tanzimat reforms in Ottoman Empire
-
-### 1850s–1870s
-
 - † **Taiping Rebellion 1850–64** — Hong Xiuquan, the God-Worshipping
   Society, ~20M dead; largest 19th-c war; *do not compress this*
 - † **Indian Rebellion 1857** → British Raj (end of Company rule)
@@ -168,9 +177,6 @@ Niinamesai / harvest-thanksgiving date in late Scorpius).
 - Marx's *Capital* vol 1 1867
 - † **Ethiopian victory at Adwa 1896** under Menelik II — Africa defeats a
   European power; *do not skip*
-
-### 1880s–1914
-
 - Scramble for Africa; Berlin Conference 1884–85
 - † **Congo Free State** atrocities under Leopold II — ~10M dead
 - Sino-Japanese War 1894–95; Russo-Japanese War 1904–05 — Japan as first
@@ -188,7 +194,11 @@ Niinamesai / harvest-thanksgiving date in late Scorpius).
 - Young Turks 1908; constitutional Ottoman Empire
 - † **Suffrage firsts**: NZ 1893, Australia 1902, Finland 1906, UK 1918
 
-### 1914–1945
+### Catastrophe era (1914–1945)
+
+*(Two world wars, the Russian and Chinese revolutions, the Great
+Depression, and the collapse of the European state system — the period
+that forces the 20th century's shape. Ends at ch 329, the anchor.)*
 
 - WWI 1914–18 — trenches, industrial war, collapse of four empires
   (German, Austro-Hungarian, Ottoman, Russian)
@@ -221,7 +231,10 @@ Niinamesai / harvest-thanksgiving date in late Scorpius).
 - Hiroshima / Nagasaki 1945
 - **CH 329 (drafted): global 1945 peace tableau**
 
-### 1945–1975
+### Post-war through present (1945–)
+
+*(The longest density per year. Decolonization, Cold War, globalization,
+digital age, climate/AI. Where the book has to land.)*
 
 - UN 1945; Bretton Woods; Nuremberg trials
 - Partition of India 1947 — ~1M dead, ~15M displaced
@@ -250,9 +263,6 @@ Niinamesai / harvest-thanksgiving date in late Scorpius).
 - Oil Crisis 1973; end of Bretton Woods gold standard 1971
 - † **Khmer Rouge 1975–79** — ~2M dead in Cambodia
 - Second-wave feminism; women's liberation
-
-### 1975–1991
-
 - † **Iranian Revolution 1979** — political Islam as global force
 - Soviet-Afghan War 1979–89
 - Reagan, Thatcher, Gorbachev, Deng Xiaoping
@@ -268,9 +278,6 @@ Niinamesai / harvest-thanksgiving date in late Scorpius).
 - † **Fall of Ceaușescu 1989** — Romanian violent transition
 - USSR dissolution 1991
 - Gulf War 1990–91
-
-### 1991–2008
-
 - Yugoslav Wars 1991–2001; Srebrenica 1995
 - † **Rwandan Genocide 1994** — ~800K dead in 100 days
 - End of apartheid; Mandela presidency 1994
@@ -282,9 +289,6 @@ Niinamesai / harvest-thanksgiving date in late Scorpius).
 - China's WTO entry 2001; rise to world's #2 economy
 - Indian Ocean tsunami 2004
 - 2008 Global Financial Crisis
-
-### 2008–present
-
 - Arab Spring 2011 → Syrian Civil War
 - † **Fukushima 2011**; nuclear retreat in Germany/Japan
 - Rise of social media politics (Obama 2008, then Arab Spring, then Trump
