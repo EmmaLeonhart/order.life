@@ -46,6 +46,14 @@ are open questions, not commitments.
 - **Intentionality over coverage.** The Modern Period is not obligated to
   mention every major war, revolution, or figure. If an event doesn't
   serve a theme the Gaiad has decided to carry, cut it.
+- **Peoples, not ideologies.** Religious or political movements get
+  covered when they represent a people or pseudo-ethnic community
+  (Sikhism, Mormonism, Judaism, Islam, Donghak, Tenrikyo) or when they
+  are old enough and specific enough to have a distinct historical role.
+  Distributed ideological systems with no ethnic or pseudo-ethnic basis
+  do NOT get covered, because coverage legitimizes the ideas rather than
+  including people. **Explicitly excluded on this basis:** Bahá'í,
+  theosophy, Scientology, and similar.
 
 ## Inventory
 
@@ -87,13 +95,11 @@ are open questions, not commitments.
 - Industrial Revolution
 - † **Tay Son rebellion** Vietnam
 - † **Wahhabism** founded; Saud alliance 1744
-- † **Bábism / seeds of Bahá'í**
 - Napoleonic Wars / Congress of Vienna 1815
 - Latin American independence (Bolívar, San Martín)
 - † **Shaka / Zulu / Mfecane**
 - † **Muhammad Ali of Egypt**
 - First Opium War 1839 — China's century of humiliation begins
-- † **Báb and Bahá'u'lláh** — syncretic Abrahamic universalism from Shi'ism
 - † **Donghak** in Korea
 - † **Seneca Falls 1848** as the global suffrage thread opening
 - 1848 Revolutions
@@ -193,8 +199,10 @@ Weave in, don't give dated slots:
   peoples. **Structural question still open:** do these stay in Modern
   or migrate into an expanded Leo?
 - † Polynesian navigation and 1970s revival (Hōkūle'a)
-- † New religious movements (Bahá'í growth, Tenrikyo, Ōmoto, Cao Dai,
-  Hoa Hao, theosophy) — composite or dispersed?
+- † Ethnically-rooted new religious movements (Tenrikyo, Ōmoto, Cao Dai,
+  Hoa Hao) — composite or dispersed? Bahá'í and theosophy are
+  deliberately excluded per the "peoples, not ideologies" criterion
+  above.
 - † Pan-Africanism (DuBois, Garvey, Fanon, Nkrumah)
 - † Anarchist movement as the third force
 - † Women's movement across waves
