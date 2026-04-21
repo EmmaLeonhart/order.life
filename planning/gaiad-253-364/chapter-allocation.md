@@ -202,8 +202,11 @@ that forces the 20th century's shape. Ends at ch 329, the anchor.)*
 
 - WWI 1914–18 — trenches, industrial war, collapse of four empires
   (German, Austro-Hungarian, Ottoman, Russian)
-- † **Armenian Genocide 1915** — the original "genocide" in the legal
-  sense; *do not fold into a WWI summary*
+- † **Armenian Genocide 1915** — covered for structural reason:
+  industrial-scale violence is what turned Turkey into a nation-state.
+  Pair with the Greek/Assyrian/Kurdish complications and the later
+  Atatürk chapter — the genocide is the *forging* of the Turkish
+  national subject, not a standalone atrocity entry.
 - † **Arab Revolt 1916–18**; Sykes-Picot 1916; Balfour Declaration 1917
 - Russian Revolutions 1917 → Civil War → USSR 1922
 - † **Third International / Comintern** — global spread of revolutionary
@@ -235,6 +238,16 @@ that forces the 20th century's shape. Ends at ch 329, the anchor.)*
 
 *(The longest density per year. Decolonization, Cold War, globalization,
 digital age, climate/AI. Where the book has to land.)*
+
+**Density note:** The internet, personal computing, and the AI era get
+substantial emphasis in the later tail — this is not a single chapter
+folded at the end but a sustained thread. Candidates for dedicated or
+near-dedicated treatment: ARPANET/early internet, personal-computing
+revolution (Apple, MS, free software), the Web 1995, mobile/smartphone
+era, social media as political force, smartphones-in-everyone's-hand,
+crypto/blockchain moment, LLM emergence ~2022, generative-AI alignment
+question, present moment. This is a book-of-the-2020s-end, so the
+technological transformation is part of the landing, not an afterthought.
 
 - UN 1945; Bretton Woods; Nuremberg trials
 - Partition of India 1947 — ~1M dead, ~15M displaced
@@ -299,11 +312,19 @@ digital age, climate/AI. Where the book has to land.)*
 - † **George Floyd 2020 / global BLM moment**
 - COVID-19 pandemic 2020–22
 - Russian invasion of Ukraine 2022
+- † **ARPANET → early internet** 1969–1990s; hacker culture; RFCs and
+  rough consensus
+- † **Personal computing revolution** — Apple, Microsoft, Free Software
+  (Stallman, Linux), the Web 1991/1995
+- † **Mobile / smartphone era** — iPhone 2007 as civilizational pivot
+- † **Social media as political force** — Facebook, Twitter, TikTok;
+  Obama 2008, Arab Spring, Trump 2016, polarization
+- † **Crypto / blockchain moment** — Bitcoin 2009, Ethereum, collapses
 - † **AI era** opens ~2022 — LLMs, generative models, alignment
-  question
+  question; AGI debate; automation of cognitive labor
 - Gaza war 2023–
 - Present moment (2026) — concluding chapter(s); the Gaiad ends looking
-  forward
+  forward. Technology/AI is part of the landing, not a coda.
 
 ## Standalone threads (not time-pinned)
 
