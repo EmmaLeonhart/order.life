@@ -3,6 +3,37 @@
 **Budget:** 112 chapters. **Drafted:** ch 329 (global 1945 peace tableau).
 **Unwritten:** 111.
 
+## Warning on use
+
+**This list is still too bloated.** It is a chronological reference of what
+*could* be included, not a plan of what *will* be. We are explicitly not
+trying to cover every important historical event. The pre-Modern sections
+of the Gaiad earned their shape by having *themes* (the middle was
+genealogical) — the Modern Period needs its own intentional thematic
+spine, not an event-dump. Cut aggressively; do not treat this list as a
+target.
+
+## Confirmed structural anchors
+
+- **CH 253 — Chronicle of the Popes.** First chapter after the Book of
+  Lehi closes. A list-compressed institutional genealogy: Peter → Linus
+  → through nearly 1500 years of succession → ending around Alexander VI
+  and the Treaty of Tordesillas (the pope who "lit up the world" by
+  dividing it), on the threshold of the Reformation. This is a
+  genealogical chapter in the mode the middle of the Gaiad used —
+  *chronicle* form, not *event* form. It also does the job of carrying
+  the Catholic institutional thread from antiquity into the Modern
+  Period in one move, so the rest of Modern doesn't have to re-relitigate
+  medieval popes.
+- **CH 329 — global 1945 peace tableau** (drafted). Stays put on the
+  Niinamesai / harvest-thanksgiving calendar date.
+
+Further structural anchors (chronicle-form or focal-moment chapters)
+should be identified before event-allocation starts. Candidates to think
+about: a chronicle of the caliphs? A chronicle of the Qing emperors? A
+chronicle of technological revolutions as the book's closing? These
+are open questions, not commitments.
+
 ## Ground rules
 
 - Enumeration, not allocation. No month binding, no chapter numbers.
@@ -12,6 +43,9 @@
 - Ch 329 stays put unless drafting forces otherwise.
 - † marks non-obvious threads the Gaiad should dignify. When cutting, cut
   Western-canon filler first, not these.
+- **Intentionality over coverage.** The Modern Period is not obligated to
+  mention every major war, revolution, or figure. If an event doesn't
+  serve a theme the Gaiad has decided to carry, cut it.
 
 ## Inventory
 
