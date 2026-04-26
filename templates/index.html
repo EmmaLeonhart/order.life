@@ -35,9 +35,15 @@
     </div>
     {% endif %}
 
-    <p class="chapter-permalink">
-      <a href="{{ base }}/gaiad/{{ '%03d' % daily_reading_chapter }}/">{{ t.read_chapter }} →</a>
-    </p>
+    <div class="chapter-nav">
+      {% if daily_reading_chapter > 1 %}
+      <a href="{{ base }}/gaiad/{{ '%03d' % (daily_reading_chapter - 1) }}/">← {{ t.prev }}: {{ daily_reading_chapter - 1 }}</a>
+      {% else %}<span></span>{% endif %}
+      <a href="{{ base }}/gaiad/{{ '%03d' % daily_reading_chapter }}/" class="chapter-permalink-btn">{{ t.chapter }} {{ daily_reading_chapter }}</a>
+      {% if daily_reading_chapter < 364 %}
+      <a href="{{ base }}/gaiad/{{ '%03d' % (daily_reading_chapter + 1) }}/">{{ t.next }}: {{ daily_reading_chapter + 1 }} →</a>
+      {% else %}<span></span>{% endif %}
+    </div>
 
     {% if daily_chapter_further_reading %}
     <div class="further-reading">
