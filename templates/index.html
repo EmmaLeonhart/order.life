@@ -1,96 +1,75 @@
 {% extends "base.html" %}
-{% block title %}{{ t.homepage.hero_title }}{% endblock %}
-{% block meta_description %}{{ t.homepage.hero_subtitle }}{% endblock %}
-{% block og_title %}{{ t.homepage.hero_title }} — {{ t.religion_name }}{% endblock %}
-{% block og_description %}{{ t.homepage.what_is_text }}{% endblock %}
-{% block twitter_title %}{{ t.homepage.hero_title }} — {{ t.religion_name }}{% endblock %}
-{% block twitter_description %}{{ t.homepage.what_is_text }}{% endblock %}
+{% block title %}{{ t.gaiad }}{% if daily_reading_chapter %} {{ daily_reading_chapter }}{% if daily_chapter_title %}: {{ daily_chapter_title }}{% endif %}{% endif %}{% endblock %}
+{% block meta_description %}{{ t.gaiad_subtitle }}. {% if daily_reading_chapter %}{{ t.daily_reading }}: {{ t.chapter }} {{ daily_reading_chapter }}{% if daily_chapter_title %} — {{ daily_chapter_title }}{% endif %}.{% endif %}{% endblock %}
+{% block og_type %}article{% endblock %}
+{% block og_title %}{% if daily_reading_chapter %}{{ t.gaiad }} · {{ t.chapter }} {{ daily_reading_chapter }}{% if daily_chapter_title %}: {{ daily_chapter_title }}{% endif %}{% else %}{{ t.gaiad }}{% endif %} — {{ t.site_title }}{% endblock %}
+{% block og_description %}{{ t.gaiad_subtitle }}.{% endblock %}
+{% block twitter_title %}{% if daily_reading_chapter %}{{ t.gaiad }} · {{ t.chapter }} {{ daily_reading_chapter }}{% if daily_chapter_title %}: {{ daily_chapter_title }}{% endif %}{% else %}{{ t.gaiad }}{% endif %} — {{ t.site_title }}{% endblock %}
+{% block twitter_description %}{{ t.gaiad_subtitle }}.{% endblock %}
 
 {% block content %}
-<div class="hero">
-  <h1>{% if not is_cjk %}<span class="hero-kanji">命</span> {% endif %}{{ t.site_title }}</h1>
-  <p class="subtitle">{{ t.homepage.hero_subtitle }}</p>
+<div class="container container-narrow daily-page">
+  <header class="daily-masthead">
+    <p class="daily-masthead-mark"><span class="brand-kanji">命</span> {{ t.gaiad }}</p>
+    <p class="daily-masthead-tagline">{{ t.gaiad_subtitle }}</p>
 
-  <div class="gaian-date-display">
-    <div class="date-main gaian-date-live"
-         data-lang="{{ lang }}"
-         data-ge-abbrev="{{ t.gaian_era_abbrev }}"
-         data-base-path="{{ base }}">
-      {{ gaian_today_html | safe }}
+    <div class="gaian-date-display gaian-date-display--bare">
+      <div class="date-main gaian-date-live"
+           data-lang="{{ lang }}"
+           data-ge-abbrev="{{ t.gaian_era_abbrev }}"
+           data-base-path="{{ base }}">
+        {{ gaian_today_html | safe }}
+      </div>
+      <div id="date-sub" class="date-sub">{{ t.today_is }} · {{ preferred_weekday_names[iso_weekday - 1] }} · {{ today_gregorian }}</div>
     </div>
-    <div id="date-sub" class="date-sub">{{ t.today_is }} · {{ preferred_weekday_names[iso_weekday - 1] }} · {{ today_gregorian }}</div>
-    {% if daily_reading_chapter %}
-    <a class="daily-reading-link" href="{{ base }}/gaiad/{{ '%03d' % daily_reading_chapter }}/">{{ t.daily_reading }} · {{ t.gaiad }} {{ daily_reading_chapter }}</a>
+  </header>
+
+  {% if daily_reading_chapter %}
+  <article class="chapter-content daily-meditation">
+    <div class="chapter-header">
+      <p class="daily-meditation-label">{{ t.daily_reading }}</p>
+      <h1>{{ t.chapter }} {{ daily_reading_chapter }}{% if daily_chapter_title %}: {{ daily_chapter_title }}{% endif %}</h1>
+      {% if daily_chapter_month %}
+      <p class="chapter-meta">
+        {{ daily_chapter_month.symbol }}
+        <a href="{{ base }}/calendar/{{ daily_chapter_month.id }}/">{{ t.months[daily_chapter_month.id] }}</a>
+        <a href="{{ base }}/calendar/{{ daily_chapter_month.id }}/{{ '%02d' % daily_chapter_day_num }}/">{{ daily_chapter_day_num }}</a>
+        · {{ t.day_of_year }} {{ daily_reading_chapter }}
+      </p>
+      {% endif %}
+    </div>
+
+    {% if daily_chapter_text %}
+    <div class="chapter-text">{{ daily_chapter_text }}</div>
+    {% else %}
+    <div class="text-center" style="padding: 40px 20px; color: var(--text-muted);">
+      <p>{{ t.gaiad_index.coming_soon }}</p>
+    </div>
     {% endif %}
-    <div style="margin-top:8px;display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:center;">
-      <a id="sl-pill" class="daily-reading-link" href="#" style="opacity:0.6;cursor:default;">{{ t.sacred_land.finding }}</a>
-      <a id="sl-gps" href="#" style="display:none;font-size:0.75rem;color:var(--text-dim);text-decoration:none;">{{ t.sacred_land.precise }}</a>
-    </div>
-  </div>
-</div>
 
-<div class="container">
-  <h2 class="text-center mt-40 mb-20" style="color: var(--accent);">{{ t.homepage.what_is }}</h2>
-  <p class="text-center" style="max-width: 700px; margin: 0 auto 40px; color: var(--text-muted);">
-    {{ t.homepage.what_is_text }}
-  </p>
+    <p class="chapter-permalink">
+      <a href="{{ base }}/gaiad/{{ '%03d' % daily_reading_chapter }}/">{{ t.read_chapter }} →</a>
+    </p>
 
-  <h2 class="text-center mb-20" style="color: var(--accent);">{{ t.homepage.core_commitments }}</h2>
-  <div class="card-grid">
-    <div class="card">
-      <h3>{{ t.homepage.primacy_of_life }}</h3>
-      <p>{{ t.homepage.primacy_text }}</p>
+    {% if daily_chapter_further_reading %}
+    <div class="further-reading">
+      <h3>Further Reading</h3>
+      <ul>
+        {% for article in daily_chapter_further_reading %}
+        <li><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title }}</a></li>
+        {% endfor %}
+      </ul>
     </div>
-    <div class="card">
-      <h3>{{ t.homepage.agency_sacred }}</h3>
-      <p>{{ t.homepage.agency_text }}</p>
-    </div>
-    <div class="card">
-      <h3>{{ t.homepage.compassion_default }}</h3>
-      <p>{{ t.homepage.compassion_text }}</p>
-    </div>
-    <div class="card">
-      <h3>{{ t.homepage.truthfulness }}</h3>
-      <p>{{ t.homepage.truthfulness_text }}</p>
-    </div>
-    <div class="card">
-      <h3>{{ t.homepage.moral_horizon }}</h3>
-      <p>{{ t.homepage.moral_horizon_text }}</p>
-    </div>
-  </div>
+    {% endif %}
+  </article>
+  {% endif %}
 
-  <div class="text-center mt-40 mb-20">
-    <a class="btn" href="{{ base }}/calendar/" style="margin-right: 10px;">{{ t.homepage.explore_calendar }}</a>
-    <a class="btn" href="{{ base }}/gaiad/">{{ t.homepage.read_scripture }}</a>
-  </div>
-
-  <h2 class="text-center mt-40 mb-20" style="color: var(--accent);">{{ t.nav.home }} · {{ t.site_title }}</h2>
-  <div class="quick-links fade-in-up">
-    <a class="quick-link" href="{{ base }}/calendar/">
-      <div class="quick-link-title">{{ t.nav.calendar }}</div>
-      <div class="quick-link-desc">{{ t.calendar_page.intro }}</div>
-    </a>
-    <a class="quick-link" href="{{ base }}/gaiad/">
-      <div class="quick-link-title">{{ t.nav.scripture }}</div>
-      <div class="quick-link-desc">{{ t.gaiad_subtitle }}</div>
-    </a>
-    <a class="quick-link" href="{{ base }}/mythology/">
-      <div class="quick-link-title">{{ t.nav.mythology }}</div>
-      <div class="quick-link-desc">{{ t.mythology_page.intro }}</div>
-    </a>
-    <a class="quick-link" href="{{ base }}/philosophy/">
-      <div class="quick-link-title">{{ t.nav.philosophy }}</div>
-      <div class="quick-link-desc">{{ t.philosophy_page.intro }}</div>
-    </a>
-    <a class="quick-link" href="{{ base }}/longevity/">
-      <div class="quick-link-title">{{ t.nav.longevity }}</div>
-      <div class="quick-link-desc">{{ t.longevity_page.intro }}</div>
-    </a>
-    <a class="quick-link" href="{{ base }}/evolution/">
-      <div class="quick-link-title">{{ t.nav.evolution }}</div>
-      <div class="quick-link-desc">{{ t.evolution_page.intro }}</div>
-    </a>
-  </div>
+  <nav class="epic-quick-links">
+    <a class="epic-quick-link" href="{{ base }}/gaiad/">{{ t.nav.scripture }}</a>
+    <a class="epic-quick-link" href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
+    <a class="epic-quick-link" href="{{ base }}/holidays/">Holidays</a>
+    <a class="epic-quick-link" href="{{ base }}/faq/">{{ t.nav.faq }}</a>
+  </nav>
 </div>
 {% endblock %}
 
@@ -115,243 +94,6 @@
     }
     sub.textContent = TODAY_IS + ' · ' + weekday + ' · ' + gregDate;
   });
-})();
-
-(function () {
-  var SL_BASE = {{ base | tojson }};
-  var SL_LANG = {{ lang | tojson }};
-  var SL_T_DEFAULT = {
-    finding: 'Finding your sacred land…',
-    read_fudoki: 'Read local fudoki →',
-    not_hallowed: 'Land not yet hallowed · browse all realms',
-    precise: 'precise location',
-    getting_location: 'Getting precise location…',
-    denied: 'Location access denied.',
-    find: '⊕ Find your sacred land'
-  };
-  var SL_T = Object.assign(
-    {},
-    SL_T_DEFAULT,
-    {{ t.sacred_land | default({}, true) | tojson }}
-  );
-
-  var pill = document.getElementById('sl-pill');
-  var gpsLink = document.getElementById('sl-gps');
-  if (!pill || !gpsLink) return;
-
-  var cachedRealms = null;
-  var cachedCountry = null;
-  var cachedRegion = null;
-
-  function withBase(path) {
-    return (SL_BASE ? SL_BASE : '') + path;
-  }
-
-  function normText(s) {
-    return String(s || '')
-      .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
-      .toLowerCase()
-      .replace(/^realm of\s+/, '')
-      .replace(/\b(state|province|prefecture|region|oblast|krai|territory|county|department)\b/g, '')
-      .replace(/[^a-z0-9]+/g, ' ')
-      .trim();
-  }
-
-  function pipRing(lat, lon, ring) {
-    var inside = false;
-    for (var i = 0, j = ring.length - 1; i < ring.length; j = i++) {
-      var rlat = ring[i][1], rlon = ring[i][0];
-      var nlat = ring[j][1], nlon = ring[j][0];
-      if (((rlat > lat) !== (nlat > lat)) &&
-          (lon < (nlon - rlon) * (lat - rlat) / (nlat - rlat) + rlon)) {
-        inside = !inside;
-      }
-    }
-    return inside;
-  }
-
-  function pipGeom(lat, lon, geom) {
-    if (!geom) return false;
-    if (geom.type === 'Polygon') return pipRing(lat, lon, geom.coordinates[0]);
-    if (geom.type === 'MultiPolygon') {
-      return geom.coordinates.some(function (p) { return pipRing(lat, lon, p[0]); });
-    }
-    return false;
-  }
-
-  function pointInData(lat, lon, data) {
-    if (!data) return false;
-    if (data.type === 'FeatureCollection') {
-      return (data.features || []).some(function (f) {
-        return f && f.geometry && pipGeom(lat, lon, f.geometry);
-      });
-    }
-    if (data.type === 'Feature') return data.geometry && pipGeom(lat, lon, data.geometry);
-    return pipGeom(lat, lon, data);
-  }
-
-  function fetchGeoshape(realm) {
-    var clean = realm.geoshape.replace(/^Data:/, '');
-    var url = 'https://commons.wikimedia.org/w/api.php?action=jsondata&title=' +
-      encodeURIComponent(clean) + '&formatversion=2&origin=*&format=json';
-    return fetch(url)
-      .then(function (r) { return r.json(); })
-      .then(function (d) { return (d && d.jsondata && d.jsondata.data) ? d.jsondata.data : null; })
-      .catch(function () { return null; });
-  }
-
-  function realmName(realm) {
-    return (realm.realm_names && realm.realm_names[SL_LANG]) ||
-           (realm.names && realm.names[SL_LANG]) ||
-           realm.realm_name;
-  }
-
-  function showFound(realm) {
-    var slug = realm.slug || realm.qid;
-    pill.textContent = realmName(realm) + ' · ' + SL_T.read_fudoki;
-    pill.href = withBase('/fudoki/' + slug + '/');
-    pill.style.opacity = '1';
-    pill.style.cursor = '';
-    gpsLink.style.display = 'inline';
-  }
-
-  function showNotFound() {
-    pill.textContent = SL_T.not_hallowed;
-    pill.href = withBase('/fudoki/');
-    pill.style.opacity = '0.7';
-    pill.style.cursor = '';
-    gpsLink.style.display = 'inline';
-  }
-
-  function showError() {
-    pill.textContent = SL_T.find;
-    pill.style.opacity = '1';
-    pill.style.cursor = 'pointer';
-    pill.addEventListener('click', function (e) { e.preventDefault(); triggerGPS(); }, { once: true });
-  }
-
-  function searchCandidates(lat, lon, candidates, done) {
-    var BATCH = 8, idx = 0, found = false;
-    function nextBatch() {
-      if (found || idx >= candidates.length) {
-        if (!found && done) done(null);
-        return;
-      }
-      var batch = candidates.slice(idx, idx + BATCH);
-      idx += BATCH;
-      Promise.all(batch.map(function (realm) {
-        return fetchGeoshape(realm).then(function (data) {
-          return (data && pointInData(lat, lon, data)) ? realm : null;
-        });
-      })).then(function (results) {
-        if (found) return;
-        var hit = results.find(function (r) { return r; });
-        if (hit) { found = true; done && done(hit); } else { nextBatch(); }
-      });
-    }
-    nextBatch();
-  }
-
-  function runWithCoords(lat, lon, realms) {
-    lat = Number(lat);
-    lon = Number(lon);
-    if (!isFinite(lat) || !isFinite(lon)) { showError(); return; }
-    var country = cachedCountry || '';
-    var countryCandidates = country
-      ? realms.filter(function (r) { return r.country && r.country.toLowerCase() === country.toLowerCase(); })
-      : realms;
-    // If country filter yields nothing (name mismatch or no realms for that country),
-    // fall back to searching all realms rather than immediately showing not-found.
-    if (countryCandidates.length === 0) { countryCandidates = realms; }
-    if (cachedRegion) {
-      var regionNeedle = normText(cachedRegion);
-      if (regionNeedle) {
-        var direct = countryCandidates.find(function (r) {
-          var labels = [
-            r.realm_name,
-            r.name,
-            r.realm_names && r.realm_names[SL_LANG],
-            r.realm_names && r.realm_names.en,
-            r.names && r.names[SL_LANG],
-            r.names && r.names.en
-          ];
-          return labels.some(function (x) {
-            var v = normText(x);
-            return v && (v === regionNeedle || v.indexOf(regionNeedle) !== -1 || regionNeedle.indexOf(v) !== -1);
-          });
-        });
-        if (direct) { showFound(direct); return; }
-      }
-    }
-    if (countryCandidates.length === 0) { showNotFound(); return; }
-    var usedCountryScope = !!country && countryCandidates !== realms;
-    searchCandidates(lat, lon, countryCandidates, function (hit) {
-      if (hit) { showFound(hit); return; }
-      if (usedCountryScope) {
-        searchCandidates(lat, lon, realms, function (globalHit) {
-          if (globalHit) showFound(globalHit); else showNotFound();
-        });
-      } else {
-        showNotFound();
-      }
-    });
-  }
-
-  function triggerGPS() {
-    if (!navigator.geolocation) { showError(); return; }
-    pill.textContent = SL_T.getting_location;
-    pill.style.opacity = '0.6';
-    pill.style.cursor = 'default';
-    gpsLink.style.display = 'none';
-    navigator.geolocation.getCurrentPosition(
-      function (pos) {
-        var lat = pos.coords.latitude, lon = pos.coords.longitude;
-        if (cachedRealms) {
-          runWithCoords(lat, lon, cachedRealms);
-        } else {
-          fetch('/static/realms-index.json')
-            .then(function (r) { return r.json(); })
-            .then(function (realms) { cachedRealms = realms; runWithCoords(lat, lon, realms); })
-            .catch(function () { showNotFound(); });
-        }
-      },
-      function () { pill.textContent = SL_T.denied; pill.style.opacity = '0.5'; }
-    );
-  }
-
-  gpsLink.addEventListener('click', function (e) { e.preventDefault(); triggerGPS(); });
-
-  function getIPLocation() {
-    return fetch('https://ipapi.co/json/')
-      .then(function (r) { return r.json(); })
-      .then(function (d) {
-        var lat = parseFloat(d.latitude), lon = parseFloat(d.longitude);
-        if (!isFinite(lat) || !isFinite(lon)) throw new Error();
-        return { lat: lat, lon: lon, country: d.country_name || '', region: d.region || '' };
-      })
-      .catch(function () {
-        return fetch('https://ipwho.is/')
-          .then(function (r) { return r.json(); })
-          .then(function (d) {
-            var lat = parseFloat(d.latitude), lon = parseFloat(d.longitude);
-            if (!isFinite(lat) || !isFinite(lon)) throw new Error();
-            return { lat: lat, lon: lon, country: d.country || '', region: d.region || '' };
-          });
-      });
-  }
-
-  gpsLink.style.display = 'inline';
-
-  Promise.all([
-    fetch('/static/realms-index.json').then(function (r) { return r.json(); }),
-    getIPLocation()
-  ]).then(function (results) {
-    cachedRealms = results[0];
-    var geo = results[1];
-    cachedCountry = geo.country;
-    cachedRegion = geo.region;
-    runWithCoords(geo.lat, geo.lon, cachedRealms);
-  }).catch(function () { showError(); });
 })();
 </script>
 {% endblock %}
