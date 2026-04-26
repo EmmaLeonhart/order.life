@@ -11,16 +11,6 @@
 <div class="container container-narrow daily-page">
   <header class="daily-masthead">
     <p class="daily-masthead-tagline">{{ t.gaiad_subtitle }}</p>
-
-    <div class="gaian-date-display gaian-date-display--bare">
-      <div class="date-main gaian-date-live"
-           data-lang="{{ lang }}"
-           data-ge-abbrev="{{ t.gaian_era_abbrev }}"
-           data-base-path="{{ base }}">
-        {{ gaian_today_html | safe }}
-      </div>
-      <div id="date-sub" class="date-sub">{{ t.today_is }} · {{ preferred_weekday_names[iso_weekday - 1] }} · {{ today_gregorian }}</div>
-    </div>
   </header>
 
   {% if daily_reading_chapter %}
@@ -33,7 +23,6 @@
         {{ daily_chapter_month.symbol }}
         <a href="{{ base }}/calendar/{{ daily_chapter_month.id }}/">{{ t.months[daily_chapter_month.id] }}</a>
         <a href="{{ base }}/calendar/{{ daily_chapter_month.id }}/{{ '%02d' % daily_chapter_day_num }}/">{{ daily_chapter_day_num }}</a>
-        · {{ t.day_of_year }} {{ daily_reading_chapter }}
       </p>
       {% endif %}
     </div>
