@@ -198,6 +198,114 @@ nav .nav-right {
   padding: 20px;
 }
 
+.container-narrow {
+  max-width: 720px;
+}
+
+/* ── Daily-meditation homepage ──────────────────────────────────────── */
+.daily-page { padding-top: 40px; padding-bottom: 80px; }
+
+.daily-masthead {
+  text-align: center;
+  margin: 0 auto 48px;
+}
+
+.daily-masthead-mark {
+  font-family: var(--font-display);
+  font-size: 1.6em;
+  color: var(--accent);
+  letter-spacing: 0.04em;
+  margin-bottom: 6px;
+}
+
+.daily-masthead-mark .brand-kanji {
+  margin-right: 6px;
+}
+
+.daily-masthead-tagline {
+  color: var(--text-muted);
+  font-size: 0.95em;
+  margin-bottom: 24px;
+}
+
+.gaian-date-display--bare {
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.gaian-date-display--bare .date-main {
+  font-size: 1.4em;
+}
+
+.gaian-date-display--bare .date-sub {
+  font-size: 0.85em;
+}
+
+.daily-meditation {
+  margin: 0 auto;
+  padding: 0;
+  max-width: 680px;
+}
+
+.daily-meditation-label {
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 0.75em;
+  color: var(--text-dim);
+  margin-bottom: 12px;
+}
+
+.daily-meditation .chapter-header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.daily-meditation .chapter-header h1 {
+  font-size: 1.6em;
+  font-family: var(--font-display);
+  background: none;
+  -webkit-text-fill-color: initial;
+  color: var(--accent);
+}
+
+.chapter-permalink {
+  margin-top: 32px;
+  text-align: center;
+  font-size: 0.95em;
+}
+
+.chapter-permalink a {
+  color: var(--text-muted);
+  border-bottom: 1px dashed var(--text-dim);
+}
+
+.chapter-permalink a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.epic-quick-links {
+  margin: 64px auto 0;
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  flex-wrap: wrap;
+  font-size: 0.9em;
+}
+
+.epic-quick-link {
+  color: var(--text-muted);
+  padding: 6px 4px;
+  border-bottom: 1px solid transparent;
+}
+
+.epic-quick-link:hover {
+  color: var(--accent);
+  border-bottom-color: var(--border-accent);
+}
+
 .hero {
   text-align: center;
   padding: 60px 20px;

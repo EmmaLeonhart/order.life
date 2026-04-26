@@ -1783,6 +1783,21 @@ def build_site():
     gaian_today_doy = day_of_year(gaian_today["month"], gaian_today["day"])
     daily_reading_chapter = gaian_today_doy if gaian_today_doy <= 364 else None
 
+    # Pre-resolve daily chapter content for homepage embedding
+    daily_chapter_data = chapters.get(daily_reading_chapter) if daily_reading_chapter else None
+    daily_chapter_title = daily_chapter_data[0] if daily_chapter_data else None
+    daily_chapter_text = daily_chapter_data[1] if daily_chapter_data else None
+    if daily_reading_chapter:
+        _dc_month_idx = ((daily_reading_chapter - 1) // 28) + 1
+        daily_chapter_day_num = ((daily_reading_chapter - 1) % 28) + 1
+        daily_chapter_month = MONTHS[_dc_month_idx - 1] if _dc_month_idx <= 14 else None
+    else:
+        daily_chapter_month = None
+        daily_chapter_day_num = None
+    daily_chapter_further_reading = (
+        further_reading.get(daily_reading_chapter, []) if daily_reading_chapter else []
+    )
+
     print(f"Loaded {len(chapters)} Gaiad chapters, {len(wiki_pages)} wiki pages")
 
     # Pre-extract wiki content for day pages
@@ -1996,6 +2011,13 @@ def build_site():
             "gaian_today_html": gaian_today_html,
             "iso_weekday": iso_weekday,
             "daily_reading_chapter": daily_reading_chapter,
+            "daily_chapter_title": daily_chapter_title,
+            "daily_chapter_text": daily_chapter_text,
+            "daily_chapter_month": daily_chapter_month,
+            "daily_chapter_day_num": daily_chapter_day_num,
+            "daily_chapter_further_reading": (
+                daily_chapter_further_reading if lang == DEFAULT_LANG else []
+            ),
             "today_gregorian": format_gregorian(today, lang),
             "rtl": lang in ("ar", "he"),
             "languages": list(translations.keys()),
