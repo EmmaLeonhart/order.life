@@ -29,6 +29,10 @@
   {% block head %}{% endblock %}
 </head>
 <body>
+  <header class="site-header">
+    <a class="site-brand" href="{{ base }}/">{% if not is_cjk %}<span class="brand-kanji">命</span> {% endif %}{{ t.site_title }}</a>
+  </header>
+
   {% block content %}{% endblock %}
 
   <footer>
