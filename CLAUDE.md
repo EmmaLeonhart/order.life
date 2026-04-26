@@ -103,6 +103,7 @@ This is controlled by `DEFAULT_LANG = "en"` in `build.py` (line ~42) and `lang_b
 - **GitHub Actions** automatically runs `python build.py` and deploys on every push to master
 - Pipeline config: `.github/workflows/deploy.yml`
 - Do NOT check for CI/CD existence — it is always there. Do NOT run the build manually before committing.
+- **For website changes: just commit and push.** Do NOT ask "want me to commit?" or "want me to push?" — the user debugs by viewing the live site, not locally. Asking for confirmation strands the change on disk where the user can't see it. Auto-commit and auto-push every website edit unless the user explicitly says otherwise.
 
 ## Discord Bot
 - **Nothing is time-critical.** We use GitHub Actions because only vague timing matters (morning-ish, evening-ish). Do NOT over-engineer for exact scheduling, DST edge cases, or sub-minute precision. GitHub Actions cron is unreliable by design — that's fine, the state file handles it.
