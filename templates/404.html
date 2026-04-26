@@ -55,19 +55,6 @@
       document.addEventListener('DOMContentLoaded', function () {
         var b = '/' + lang;
 
-        // Replace nav
-        document.getElementById('_404_nav').innerHTML =
-          '<a class="nav-brand" href="' + b + '/"><span class="brand-kanji">\u547D</span> Order of Life</a>' +
-          '<div class="nav-links">' +
-            '<a href="' + b + '/calendar/">Calendar</a>' +
-            '<a href="' + b + '/gaiad/">Gaiad</a>' +
-            '<a href="' + b + '/mythology/">Mythology</a>' +
-            '<a href="' + b + '/philosophy/">Philosophy</a>' +
-            '<a href="' + b + '/shrines/">Shrines</a>' +
-            '<a href="' + b + '/longevity/">Longevity</a>' +
-            '<a href="' + b + '/evolution/">Evolution</a>' +
-          '</div>';
-
         // Build page content
         var yearPath = b + '/calendar/' + year + '/';
         var breadcrumb = isFest
@@ -115,19 +102,6 @@
   </script>
 </head>
 <body>
-  <nav>
-    <div class="nav-inner" id="_404_nav">
-      <a class="nav-brand" href="/"><span class="brand-kanji">命</span> Order of Life</a>
-      <div class="nav-links">
-        <a href="/calendar/">Calendar</a>
-        <a href="/gaiad/">Gaiad</a>
-        <a href="/mythology/">Mythology</a>
-        <a href="/philosophy/">Philosophy</a>
-        <a href="/shrines/">Shrines</a>
-      </div>
-    </div>
-  </nav>
-
   <div id="_404_body">
     <div class="section-hero">
       <h1>404</h1>
