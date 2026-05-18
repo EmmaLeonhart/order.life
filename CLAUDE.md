@@ -116,3 +116,6 @@ This is controlled by `DEFAULT_LANG = "en"` in `build.py` (line ~42) and `lang_b
 - **Do NOT barrel through new Gaiad chapters until the month of Leo begins (2026-08-12).** The 130–220 barrel-through was an emergency stopgap so a chapter would exist for each day of the Discord stream. With 238/364 drafted the runway is comfortable for months; further writing resumes in Leo and not before.
 - "Power through and clear the queue" does NOT mean generate new chapters. Treat chapter *generation* as gated on Leo; only chapter *editing / polishing* (Malta drift, early-human-era fixes) is allowed outside that window.
 - If a task list or STATUS.md entry says "write chapters NNN–NNN" before 2026-08-12, that is a drafting error — delete it, don't execute it.
+
+## Writing
+- Do not use the word "honest", "honesty", or "honestly". It is aggressively overused. Choose a more precise word that says what you actually mean (e.g. "accurate", "frank", "plainly", "truly").
