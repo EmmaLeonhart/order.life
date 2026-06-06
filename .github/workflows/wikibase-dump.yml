@@ -41,6 +41,9 @@ concurrency:
   group: wikibase-dump
   cancel-in-progress: false
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   dump:
     runs-on: ubuntu-latest
