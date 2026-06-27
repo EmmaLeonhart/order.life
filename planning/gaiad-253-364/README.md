@@ -28,6 +28,7 @@ permanent except the hard structural anchors.
 | File | Purpose | Stability |
 |------|---------|-----------|
 | `chapter-allocation.md` | Plan-of-record: structural anchors, confirmed inclusions, editorial criteria, open questions | Load-bearing; update deliberately |
+| `modern-period-chapter-map.md` | Proposed per-chapter allocation for all 110 human chapters (253–362) + finale, each slot tagged by axis + society-claim. The layer between the spine and drafting. | DRAFT; ~38 reserve slots still to specify before Leo |
 | `thematic-spine.md` | The three thematic axes and editorial overlay articulated fully | Stable framework; content details evolve |
 | `chronicle-candidates.md` | Structural question: what Popes-style chronicle-form chapters (if any) besides ch 253 | Open question |
 | `ch362-handoff.md` | Spec for the last human chapter: what it has to do, given its structural role | Structural skeleton stable; details open |
