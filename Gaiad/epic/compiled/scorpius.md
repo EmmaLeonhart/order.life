@@ -61,6 +61,8 @@
 *Chapter 328 not yet written.*
 
 
+# Chapter 329: The Covenant of Peace
+
 Proclaim a dawn that crowns the world with light,
 The chains of hate lie shattered in the dust.
 The crowds arise, and labor claims its right,
