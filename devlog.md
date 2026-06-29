@@ -4,6 +4,10 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-06-29
 
+- **calendar-lib test health checked.** Ran the two uncovered-by-CI tests:
+  `test_page_generation.py` passes 2/2 (generation logic healthy);
+  `test_overview_preservation.py` errors 2/2 — needs a live-`wiki` fixture (closed
+  wiki), so it's dead until a wiki exists. Did NOT fake the fixture. Noted in todo.md.
 - **Chapter 329 missing-title fix.** A read-only structural integrity audit of all
   253 drafted chapter files (`Gaiad/epic/chapter_*.md`) found exactly one mechanical
   defect: `chapter_329.md` opened straight into verse with no `# Chapter N: Title`
