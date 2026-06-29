@@ -142,9 +142,15 @@ Rewrote the Discord bot to use a state-file approach instead of relying on exact
 
 ---
 
-## ⚠️ iCal Calendars — Phase 1 (bug fix + spec revision needed)
+## ✅ iCal Calendars — Phase 1 (DONE — verified 2026-06-29)
 
-### Bug
+Shipped in `build.py:generate_ical_files()` (~line 1343): Layer 1 daily events
+(`_ical_year_daily`), Layer 2 holidays (`_ical_year_holidays`), Layer 3 Lent/
+Eastertide season spans (`_ical_year_seasons`), plus a Japanese `current_ja.ics`.
+The `m["name"]`→`m["id"]` bug is already fixed (`build.py:1352`). Spec below is
+kept for reference only — do NOT re-implement.
+
+### Bug (FIXED)
 `generate_ical_files()` in build.py uses `m["name"]` but MONTHS uses `m["id"]`.
 Fix: `{m["num"]: m["id"].capitalize() for m in MONTHS}`.
 
@@ -224,7 +230,7 @@ NOT included: Islamic or Jewish calendar events.
 
 ---
 
-## ⏳ Universal Day Description Method — Phase 3 (implement after iCal fix)
+## ✅ Universal Day Description Method — Phase 3 (DONE — `gaian_day_description()` at `build.py:1053`, used by iCal daily events at `build.py:1275`)
 
 ### Purpose
 Single function that generates a plain-text description for any Gaian calendar day.
