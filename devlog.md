@@ -4,6 +4,15 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-06-29
 
+- **Chapter 329 missing-title fix.** A read-only structural integrity audit of all
+  253 drafted chapter files (`Gaiad/epic/chapter_*.md`) found exactly one mechanical
+  defect: `chapter_329.md` opened straight into verse with no `# Chapter N: Title`
+  heading (every other chapter has one). Numbering gaps 253-328 / 330-364 are gated
+  unwritten chapters, not defects. The heading format is mechanical, but the title
+  wording is Emma's authorial call — the planning-table title was flagged stale, so
+  asked her via AskUserQuestion + push. She chose **"The Covenant of Peace"** (from
+  the poem's closing line). Added `# Chapter 329: The Covenant of Peace`; re-ran the
+  audit → 0 missing titles, structurally clean. Audit script in scratchpad.
 - **Month-page clobber check — MOOT (resolved, not done).** Queue item 3 asked to
   verify the calendar-bot didn't clobber the 14 Gaian month pages on
   lifeism.miraheze.org. Investigated: the host returns "Wiki not found" (404), and
