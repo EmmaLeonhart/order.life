@@ -12,28 +12,24 @@ them. **Chapter gate:** do NOT generate new Gaiad chapters before Leo (2026-08-1
 
 ## ACTIVE (do in order)
 
-### 1. Verify Lifeism month pages weren't clobbered (calendar-lib follow-up)
-The first calendar-bot run logged all 14 month pages as `Updated page` (not
-`No change`). Read each of the 14 month pages on lifeism.miraheze.org and confirm
-the new markup didn't drop pre-existing valuable content.
-- **Verify:** read-only diff of current vs. what the bot wrote; report findings.
-- If content was clobbered → STOP, document, escalate to Emma (do not auto-revert).
-
-### 2. Kick off Wikibase backfill (long-running, background)
-Run `wiki-scripts/wikibase_fill_missing.py` LOCALLY in the background to finish the
-~60K-item allpages backfill (items ns 860, properties ns 862), `--commit-every
-5000`. ~7h ETA. Then the properties short job (`--type properties`).
-- This is a background job, not a blocking step — start it, note the PID/log, let
-  it run across ticks; don't busy-wait.
-- **After it completes:** genealogy network analysis QA (see todo.md) becomes
-  actionable — but the QA *fixes* themselves are in BLOCKED below.
+_All currently-actionable quick items are done (iCal Phase 2, Node 24 bump). The
+calendar-bot month-page verification turned out moot — the wiki is closed (below).
+Remaining work is DEFERRED, BLOCKED-on-Emma, or GATED until Leo._
 
 ---
 
+## DEFERRED — do NOT interleave with the live work-loop
+
+- **Wikibase backfill** (`wiki-scripts/wikibase_fill_missing.py`, ~60K items, ~7h)
+  — read-only against the wiki (safe), but with `--commit-every` it runs `git add
+  … && git push origin master` *directly, without pull-rebase*. Running it for 7h
+  alongside the three work-loop crons causes git index-lock contention and push
+  races. Its only downstream consumer (genealogy for ch 130–220) is gated until
+  Leo (2026-08-12) anyway. **Run as a dedicated job with the crons paused**, or with
+  `--commit-every 0` and let auto-flush handle commits. Not urgent.
+
 ## BLOCKED / NEEDS EMMA (do NOT execute autonomously — surface, don't guess)
 
-- **Import `Module:GaiadDate` to lifeism.miraheze.org** — manual `Special:Import`
-  of `calendar-lib/GaianCalendar-WikiModule-Export.xml`; needs wiki creds / human.
 - **First `dotnet-build.yml` run** — may reveal the `.csproj` targets a non-.NET-8
   framework; bumping it is a decision, not a mechanical fix.
 - **Genealogy lineage bridges** (Kosala→Heo Hwang-ok, Genghis→Adam, Heo→Jimmu) —

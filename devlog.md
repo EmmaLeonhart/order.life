@@ -4,6 +4,19 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-06-29
 
+- **Month-page clobber check — MOOT (resolved, not done).** Queue item 3 asked to
+  verify the calendar-bot didn't clobber the 14 Gaian month pages on
+  lifeism.miraheze.org. Investigated: the host returns "Wiki not found" (404), and
+  `calendar-bot.yml:24` records the bot was disabled 2026-04-16 because that wiki is
+  closed. So there are no live pages and the bot never ran against a live wiki — the
+  todo entry predates the closure. Pruned the verification item and the now-
+  unreachable `Module:GaiadDate` import from both queue.md and todo.md (left the XML
+  reference for a possible future wiki). Read-only audit script lives in scratchpad.
+- **Wikibase backfill — DEFERRED, not launched.** The script auto-`git push origin
+  master` without pull-rebase; running it 7h alongside the work-loop crons would race
+  on the git index/push. Downstream use (ch 130–220 genealogy) is gated until Leo
+  anyway. Moved to queue.md DEFERRED with run instructions (dedicated job / crons
+  paused, or `--commit-every 0`).
 - **Node 20 deprecation — DONE.** Bumped GitHub Actions across all 7 workflows to
   the first Node-24 major: `actions/checkout@v4→v5`, `setup-python@v5→v6`,
   `setup-dotnet@v4→v5`. Deliberately did NOT jump to checkout v6/v7 — checkout v6

@@ -286,8 +286,10 @@ Reference: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-gi
 
 ## 🗓 calendar-lib follow-ups
 
-See `calendar-lib/README.md` for the full roadmap. Most pressing after the first successful bot run:
+See `calendar-lib/README.md` for the full roadmap.
 
-- [ ] Import `Module:GaiadDate` onto lifeism.miraheze.org (manual — the XML is in `calendar-lib/GaianCalendar-WikiModule-Export.xml`, paste into `Module:GaiadDate` via Special:Import or copy-paste the Lua source)
 - [ ] First `dotnet-build.yml` run — may reveal the `.csproj` targets a framework other than .NET 8; bump if so
-- [ ] Verify the 14 month pages the bot just overwrote on Lifeism didn't clobber valuable content (first run logged all 14 as `Updated page`, not `No change` — worth a visual check that the new markup isn't missing anything)
+
+**MOOT — the lifeism.miraheze.org wiki is closed (2026-04-16); calendar-bot is disabled (see `calendar-bot.yml` and `STATUS.md`). The two items below are unreachable until/unless a wiki comes back:**
+- ~~Import `Module:GaiadDate` onto lifeism.miraheze.org~~ — wiki closed. XML still in `calendar-lib/GaianCalendar-WikiModule-Export.xml` if a wiki is restored.
+- ~~Verify the 14 month pages the bot overwrote didn't clobber content~~ — wiki closed; the host returns "Wiki not found", and the bot never ran successfully against a live wiki. Audited 2026-06-29: nothing to verify.
