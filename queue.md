@@ -12,16 +12,7 @@ them. **Chapter gate:** do NOT generate new Gaiad chapters before Leo (2026-08-1
 
 ## ACTIVE (do in order)
 
-### 1. iCal Phase 2 — `/calendar/ical/` index + subscribe page
-Add a human-facing index page at `/calendar/ical/` listing the published `.ics`
-files with one-click subscribe links and copy-paste instructions for Google
-Calendar, Apple Calendar, and Outlook.
-- Files exist: `current.ics`, `current_ja.ics`, `gaian-holidays-extended.ics`.
-- Build in `build.py` (near `generate_ical_files`) + a template; English at root
-  (`/calendar/ical/`), no `/en/` prefix.
-- **Verify:** page builds and links resolve to the actual `.ics` paths.
-
-### 2. Node 20 deprecation — interim Node 24 opt-in
+### 1. Node 20 deprecation — interim Node 24 opt-in
 GitHub forces Node 24 on runners 2026-06-02 and removes Node 20 on 2026-09-16.
 Affected workflows: `calendar-bot.yml`, `dotnet-build.yml`, `wiki-bot.yml`,
 `discord-bot.yml`, `deploy.yml`.
@@ -29,14 +20,14 @@ Affected workflows: `calendar-bot.yml`, `dotnet-build.yml`, `wiki-bot.yml`,
   `env:` (or bump `actions/checkout`/`setup-python` tags if they now support N24).
 - **Verify:** workflows remain valid YAML; a deploy run goes green on CI.
 
-### 3. Verify Lifeism month pages weren't clobbered (calendar-lib follow-up)
+### 2. Verify Lifeism month pages weren't clobbered (calendar-lib follow-up)
 The first calendar-bot run logged all 14 month pages as `Updated page` (not
 `No change`). Read each of the 14 month pages on lifeism.miraheze.org and confirm
 the new markup didn't drop pre-existing valuable content.
 - **Verify:** read-only diff of current vs. what the bot wrote; report findings.
 - If content was clobbered → STOP, document, escalate to Emma (do not auto-revert).
 
-### 4. Kick off Wikibase backfill (long-running, background)
+### 3. Kick off Wikibase backfill (long-running, background)
 Run `wiki-scripts/wikibase_fill_missing.py` LOCALLY in the background to finish the
 ~60K-item allpages backfill (items ns 860, properties ns 862), `--commit-every
 5000`. ~7h ETA. Then the properties short job (`--type properties`).

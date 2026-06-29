@@ -2075,6 +2075,14 @@ def build_site():
         ge_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "calendar/gaian-era.html", ge_dir / "index.html", ctx)
 
+        # iCal subscribe landing page — directory with index.html.
+        # The .ics files themselves are language-agnostic and written once at
+        # /calendar/ical/ by generate_ical_files(); this page links to those
+        # absolute URLs, so it is generated per-language for discoverability.
+        ical_page_dir = cal_dir / "ical"
+        ical_page_dir.mkdir(parents=True, exist_ok=True)
+        render_page(env, "calendar/ical.html", ical_page_dir / "index.html", ctx)
+
         # Year pages — canonical URL: /calendar/{gaian_year}/
         # Pre-generate current Gaian year ±10; all other years are served
         # dynamically via the 404.html client-side router.
