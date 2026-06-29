@@ -12,22 +12,14 @@ them. **Chapter gate:** do NOT generate new Gaiad chapters before Leo (2026-08-1
 
 ## ACTIVE (do in order)
 
-### 1. Node 20 deprecation — interim Node 24 opt-in
-GitHub forces Node 24 on runners 2026-06-02 and removes Node 20 on 2026-09-16.
-Affected workflows: `calendar-bot.yml`, `dotnet-build.yml`, `wiki-bot.yml`,
-`discord-bot.yml`, `deploy.yml`.
-- Interim, low-risk: set `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true` as a workflow
-  `env:` (or bump `actions/checkout`/`setup-python` tags if they now support N24).
-- **Verify:** workflows remain valid YAML; a deploy run goes green on CI.
-
-### 2. Verify Lifeism month pages weren't clobbered (calendar-lib follow-up)
+### 1. Verify Lifeism month pages weren't clobbered (calendar-lib follow-up)
 The first calendar-bot run logged all 14 month pages as `Updated page` (not
 `No change`). Read each of the 14 month pages on lifeism.miraheze.org and confirm
 the new markup didn't drop pre-existing valuable content.
 - **Verify:** read-only diff of current vs. what the bot wrote; report findings.
 - If content was clobbered → STOP, document, escalate to Emma (do not auto-revert).
 
-### 3. Kick off Wikibase backfill (long-running, background)
+### 2. Kick off Wikibase backfill (long-running, background)
 Run `wiki-scripts/wikibase_fill_missing.py` LOCALLY in the background to finish the
 ~60K-item allpages backfill (items ns 860, properties ns 862), `--commit-every
 5000`. ~7h ETA. Then the properties short job (`--type properties`).
