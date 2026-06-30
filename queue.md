@@ -30,8 +30,6 @@ Remaining work is DEFERRED, BLOCKED-on-Emma, or GATED until Leo._
 
 ## BLOCKED / NEEDS EMMA (do NOT execute autonomously — surface, don't guess)
 
-- **First `dotnet-build.yml` run** — may reveal the `.csproj` targets a non-.NET-8
-  framework; bumping it is a decision, not a mechanical fix.
 - **Genealogy lineage bridges** (Kosala→Heo Hwang-ok, Genghis→Adam, Heo→Jimmu) —
   these invent connecting kings = creative scripture content; needs Emma's call,
   and is adjacent to the chapter gate.

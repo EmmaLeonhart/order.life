@@ -288,7 +288,7 @@ Reference: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-gi
 
 See `calendar-lib/README.md` for the full roadmap.
 
-- [ ] First `dotnet-build.yml` run — may reveal the `.csproj` targets a framework other than .NET 8; bump if so
+- [x] First `dotnet-build.yml` run — **DONE/green.** The workflow has run successfully multiple times (incl. on the 2026-06-29 `setup-dotnet@v5` bump, commit c037669d1); it restores + builds `GaianNodaTimeWrappers.sln` against .NET 8.0.x with no framework mismatch. No decision needed.
 
 **MOOT — the lifeism.miraheze.org wiki is closed (2026-04-16); calendar-bot is disabled (see `calendar-bot.yml` and `STATUS.md`). The two items below are unreachable until/unless a wiki comes back:**
 - ~~Import `Module:GaiadDate` onto lifeism.miraheze.org~~ — wiki closed. XML still in `calendar-lib/GaianCalendar-WikiModule-Export.xml` if a wiki is restored.

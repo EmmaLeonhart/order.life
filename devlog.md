@@ -4,6 +4,13 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-06-29
 
+- **dotnet-build "first run" item — stale, removed.** Checked CI history: the
+  `dotnet-build` workflow has completed `success` repeatedly, including on the
+  `setup-dotnet@v5` bump commit (c037669d1, which modified the workflow so it
+  actually ran the build job). It restores + builds `GaianNodaTimeWrappers.sln`
+  against .NET 8.0.x cleanly — no framework mismatch, no decision needed. Pruned the
+  item from queue.md BLOCKED and marked it done in todo.md. Also confirms the
+  Node-24 `setup-dotnet@v5` bump is green in CI.
 - **calendar-lib test health checked.** Ran the two uncovered-by-CI tests:
   `test_page_generation.py` passes 2/2 (generation logic healthy);
   `test_overview_preservation.py` errors 2/2 — needs a live-`wiki` fixture (closed
