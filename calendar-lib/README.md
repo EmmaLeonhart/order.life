@@ -1,6 +1,8 @@
 # Gaian Calendar Library (`calendar-lib/`)
 
-A C# library (wrapping [NodaTime](https://nodatime.org/)) for the Gaian calendar — 13 months of 28 days + Horus intercalary, astrological month names, year numbering offset by +10,000 from ISO week-year. Also contains the Python wiki-page generator that builds day/month/year pages on lifeism.miraheze.org.
+A C# library (wrapping [NodaTime](https://nodatime.org/)) for the Gaian calendar — 13 months of 28 days + Horus intercalary, astrological month names, year numbering offset by +10,000 from ISO week-year. Also contains the Python wiki-page generator that formerly built day/month/year pages on lifeism.miraheze.org.
+
+> **⚠️ Wiki closed (2026-04-16).** `lifeism.miraheze.org` (and `evolutionism.miraheze.org`) are closed — both return 404. The Python wiki bot and everything that writes to those wikis is **disabled and moot** until a replacement wiki exists. The current live wiki surface is **`wiki.order.life`**. Roadmap items below that target Lifeism are parked, not actionable.
 
 ## How this directory got here
 
@@ -13,11 +15,12 @@ This directory was imported into `order.life` via `git subtree add` from the for
 | `GaianNodaTimeWrappers/` | C# library: `GaianLocalDate`, `GaianLocalDateTime`, `GaianOffsetDateTime`, `GaianZonedDateTime`, `GaianMonth`, `GaianTools` | Core conversion/formatting/parsing works; period-based arithmetic (months/years) is stubbed |
 | `GaianNodaTimeWrappers.sln` | .NET solution file | Built by `.github/workflows/dotnet-build.yml` |
 | `GaianDateRangeGenerator/` | C# console app that emits `gaian_minimal.csv`, `gaian_bc_full.csv`, `detailed_bc_all.csv` — consumed by the Python bot for BC-year rendering | Working |
-| `zodiac_wiki_pages.py` | Python wiki bot — generates day (14×28), month (14), and year (1–12100) pages for lifeism.miraheze.org. Uses the CSVs above. | Working, parameterized for Lifeism, wired to GH Actions |
+| `zodiac_wiki_pages.py` | Python wiki bot — generates day (14×28), month (14), and year (1–12100) pages. Uses the CSVs above. | **Disabled — target wiki (lifeism.miraheze.org) closed 2026-04-16.** Code intact for reuse against a future wiki |
 | `gaian-date-picker.html` | Standalone HTML date-picker widget | Reference/snippet source |
 | `year_qids.txt` | Wikidata Q-IDs for all 364 Gaian day pages | Reference data |
-| `GaianCalendar-WikiModule-Export.xml` | `Module:GaiadDate` — Scribunto Lua module that does Gregorian→Gaian conversion inside a wiki page (`{{#invoke:GaiadDate|convert}}`) | Needs to be imported onto lifeism.miraheze.org (manual action) |
-| `test_page_generation.py`, `test_overview_preservation.py` | Higher-value wiki-integration tests | Not yet running in CI |
+| `GaianCalendar-WikiModule-Export.xml` | `Module:GaiadDate` — Scribunto Lua module that does Gregorian→Gaian conversion inside a wiki page (`{{#invoke:GaiadDate|convert}}`) | Moot — target wiki closed; XML retained for a future wiki |
+| `test_page_generation.py` | Pytest — page-generation logic (offline, no wiki). | Passing (2/2) |
+| `diagnose_overview_preservation.py` | Manual CLI diagnostic (NOT a pytest test) — connects to a live wiki to check Overview-section preservation. | Cannot run — target wiki closed |
 
 ## How the bot runs
 
@@ -29,11 +32,11 @@ Two GitHub Actions workflows drive `calendar-lib/`:
 
 ## Roadmap / TODO
 
-- [ ] **Import `Module:GaiadDate` onto lifeism.miraheze.org** — manual step (Special:Import or paste the XML into `Module:GaiadDate`). Otherwise `{{#invoke:GaiadDate|...}}` calls on Lifeism pages break.
-- [ ] **First successful manual run** of `calendar-bot.yml` on `mode=months` — verify bot login works on Lifeism, verify the 14 month pages render correctly.
-- [ ] **First successful `dotnet-build.yml` run** — confirm the .NET 8 target is right; bump if the `.csproj` needs a different framework.
-- [ ] **Add a cron schedule** to `calendar-bot.yml` once the manual run is clean (weekly is probably the right cadence — these pages change on month/year boundaries, not daily).
-- [ ] **Wire the Python integration tests** (`test_page_generation.py`, `test_overview_preservation.py`) into CI — they already exercise the live wiki API.
+- [~] **Import `Module:GaiadDate`** — PARKED: target wiki (lifeism.miraheze.org) closed 2026-04-16. Redo against a replacement wiki if one comes back; XML is retained.
+- [~] **First successful manual run** of `calendar-bot.yml` — PARKED: bot target closed. Workflow left as `workflow_dispatch`-only.
+- [x] **First successful `dotnet-build.yml` run** — DONE/green (builds `GaianNodaTimeWrappers.sln` against .NET 8; last green on the 2026-06-29 `setup-dotnet@v5` bump).
+- [~] **Add a cron schedule** to `calendar-bot.yml` — PARKED: target wiki closed.
+- [~] **Wire the Python integration tests into CI** — only `test_page_generation.py` is a real (offline) pytest and passes; `diagnose_overview_preservation.py` is a manual wiki diagnostic that cannot run while the wiki is closed. Nothing to wire until a wiki exists.
 - [ ] **C# library completeness** — implement the stubbed period-based arithmetic (`PlusMonths`, `PlusYears`) and extend beyond NodaTime's year range so full Gaian year numbering works.
 - [ ] **Python bindings to the C# library** — long-term goal. Either via Python.NET, a PyPI package wrapping the CSV generator output, or a pure-Python port of `GaianTools.cs`. The static site build (`build.py`) currently reimplements its own Gaian date math — eventually it should consume a single canonical implementation shared with the wiki bot.
 - [ ] **Publish the Python wiki bot as a reusable package** (PyPI candidate) — once it's been parameterized enough to target arbitrary Gaian-calendar wikis, not just Lifeism.

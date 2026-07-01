@@ -2,6 +2,35 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-07-01
+
+- **Finished the lifeism→wiki.order.life wiki migration in code + docs.** The old
+  `lifeism.miraheze.org` wiki closed 2026-04-16 (verified 404; `evolutionism.miraheze.org`
+  too). The site's `/wiki/*` redirects, `templates/wiki-redirect.html`, and `templates/404.html`
+  had already been migrated to `wiki.order.life`, but the `/w/*` (MediaWiki script-path)
+  redirect block in `build.py` and several docs still pointed at the dead wiki — implying it
+  was live and sending users to 404s. Fixed: `build.py` `/w/` block now targets
+  `wiki.order.life/w/*` (root + Main_Page + JS deep-link + link text); `build.py` compiles
+  clean (`py_compile`; did NOT run full build — CI does that). Updated docs to say the wiki is
+  closed and `wiki.order.life` is current: gaiad `CLAUDE.md` (Wiki Redirects, URL structure,
+  Key Branding — the latter also fixed a "migrating to itself" typo), `calendar-lib/README.md`
+  (closure banner + table + roadmap), and removed the now-satisfied "Unlink the wiki from the
+  site" item from `STATUS.md` (delete-don't-check).
+- **overview-preservation "dead test" — was a mischaracterization, fixed.**
+  `test_overview_preservation.py` was never a real pytest test; it's a manual CLI diagnostic
+  (`argparse --username/--password`) that pytest only *collected* because of its `test_*.py`
+  name + `test_*` functions, yielding 2 `fixture not found` setup errors. Renamed to
+  `diagnose_overview_preservation.py` (git mv) and de-`test_`-prefixed its internal functions;
+  pytest no longer collects it → **calendar-lib suite now 2 passed / 0 errors**. Corrected the
+  wrong "dead, needs live wiki fixture" wording in `devlog.md` + `todo.md`.
+- **Wikibase backfill — not deferred, essentially already complete.** Checked disk:
+  **164,536 items + 94 properties** present vs ~164,544 on the wiki (snapshot) — only a
+  handful outstanding; the "60K / 7h" figure was stale. The git-contention deferral was
+  overcautious (`--commit-every` defaults to 0 = no self-push). Real current blocker:
+  `wiki.order.life` TLS handshake fails from this machine (`SSLV3_ALERT_HANDSHAKE_FAILURE`
+  across curl/PowerShell/Python → edge-side, not client). Can't fetch the last few or
+  re-verify the total until the wiki's TLS serves again. Updated `queue.md` accordingly.
+
 ## 2026-06-29
 
 - **dotnet-build "first run" item — stale, removed.** Checked CI history: the
@@ -11,10 +40,17 @@ Dated log of autonomous work-loop progress. Newest first.
   against .NET 8.0.x cleanly — no framework mismatch, no decision needed. Pruned the
   item from queue.md BLOCKED and marked it done in todo.md. Also confirms the
   Node-24 `setup-dotnet@v5` bump is green in CI.
-- **calendar-lib test health checked.** Ran the two uncovered-by-CI tests:
-  `test_page_generation.py` passes 2/2 (generation logic healthy);
-  `test_overview_preservation.py` errors 2/2 — needs a live-`wiki` fixture (closed
-  wiki), so it's dead until a wiki exists. Did NOT fake the fixture. Noted in todo.md.
+- **calendar-lib test health checked.** `test_page_generation.py` passes 2/2
+  (generation logic healthy, offline). The earlier "test_overview_preservation.py
+  errors 2/2, dead until a wiki exists" framing was WRONG on two counts (corrected
+  2026-07-01): (1) it was never a pytest test — it's a manual CLI diagnostic that
+  pytest only *collected* because it was named `test_*.py` with `test_*` functions;
+  the "2 errors" were `fixture 'username'/'wiki' not found`, not a wiki problem.
+  Renamed to `diagnose_overview_preservation.py` + renamed its internal functions,
+  so pytest no longer collects it and the suite is a clean 2 passed / 0 errors.
+  (2) It targets `evolutionism.miraheze.org`; both that and `lifeism.miraheze.org`
+  are 404 (closed 2026-04-16), so the diagnostic can't run regardless — but that's a
+  can't-connect, not a failing test.
 - **Chapter 329 missing-title fix.** A read-only structural integrity audit of all
   253 drafted chapter files (`Gaiad/epic/chapter_*.md`) found exactly one mechanical
   defect: `chapter_329.md` opened straight into verse with no `# Chapter N: Title`

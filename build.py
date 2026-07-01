@@ -1605,7 +1605,7 @@ window.location.href = target;
         write_wiki_tree(wiki_dir, js_prefix_regex=js_regex, lang=lang)
 
     # Per-language /w paths: /{lang}/w/... (English at /w/)
-    # Redirects to lifeism.miraheze.org/w/*
+    # Redirects to wiki.order.life/w/* (lifeism.miraheze.org closed 2026-04-16)
     for lang in languages:
         if lang == DEFAULT_LANG:
             w_dir = SITE_DIR / "w"
@@ -1615,8 +1615,8 @@ window.location.href = target;
             js_regex = rf"/^\\/{lang}\\/w\\/?/"
 
         w_dir.mkdir(parents=True, exist_ok=True)
-        main_root_target = "https://lifeism.miraheze.org/w"
-        main_page_target = "https://lifeism.miraheze.org/w/Main_Page"
+        main_root_target = "https://wiki.order.life/w"
+        main_page_target = "https://wiki.order.life/w/Main_Page"
 
         # Main /w/ and /w/Main_Page/
         (w_dir / "index.html").write_text(
@@ -1627,12 +1627,12 @@ var path = window.location.pathname.replace({js_regex}, '').replace(/\\/$/, '');
 if (!path) {{
   window.location.href = {json.dumps(main_root_target)};
 }} else {{
-  window.location.href = 'https://lifeism.miraheze.org/w/' + path;
+  window.location.href = 'https://wiki.order.life/w/' + path;
 }}
 </script>
 <noscript><meta http-equiv=\"refresh\" content=\"0; url={main_root_target}\"></noscript>
 </head><body style=\"background:#0f0f1a;color:#e0e0e0;font-family:sans-serif;display:flex;justify-content:center;align-items:center;height:100vh;\">
-<p>Redirecting to <a href=\"{main_root_target}\" style=\"color:#ffd700;\">lifeism Wiki</a>...</p>
+<p>Redirecting to <a href=\"{main_root_target}\" style=\"color:#ffd700;\">order.life Wiki</a>...</p>
 </body></html>""",
             encoding="utf-8",
         )

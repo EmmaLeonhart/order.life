@@ -53,14 +53,16 @@ All other languages use `/{lang}/` subdirectories.
 /{lang}/gaiad/                        Gaiad scripture index
 /{lang}/gaiad/{NNN}/                  Gaiad chapter (001-364)
 /{lang}/{section}/                    Section pages (scripture, mythology, philosophy, shrines, longevity, evolution, faq)
-/{lang}/wiki/*                        Redirect to lifeism.miraheze.org/wiki/{lang}:*
+/{lang}/wiki/*                        Redirect to wiki.order.life/{lang}:* (lifeism.miraheze.org closed 2026-04-16)
 ```
 
 This is controlled by `DEFAULT_LANG = "en"` in `build.py` (line ~42) and `lang_base()` which returns `""` for English.
 
 ### Wiki Redirects
-- English (`/en/wiki/*` or `/wiki/*`): redirects to `lifeism.miraheze.org/wiki/{title}` (no lang prefix)
-- Other languages (`/{lang}/wiki/*`): redirects to `lifeism.miraheze.org/wiki/{lang}:{title}`
+**The old `lifeism.miraheze.org` wiki closed 2026-04-16 (404). The live wiki is now `wiki.order.life`; all `/wiki/` and `/w/` redirects point there.**
+- English (`/en/wiki/*` or `/wiki/*`): redirects to `wiki.order.life/{title}` (no lang prefix)
+- Other languages (`/{lang}/wiki/*`): redirects to `wiki.order.life/{lang}:{title}`
+- `/w/*` (MediaWiki script path) redirects to `wiki.order.life/w/*`
 - Both static per-page redirects (from XML export) and JS fallback for unknown pages
 
 ### Gaian Calendar
@@ -89,7 +91,7 @@ This is controlled by `DEFAULT_LANG = "en"` in `build.py` (line ~42) and `lang_b
 - Symbol: 命 (life/destiny/command)
 - 命 replaces 神 in sacred contexts
 - Shrines: 命神宮 (Myōjingū)
-- Wiki: currently lifeism.miraheze.org, migrating to lifeism.miraheze.org
+- Wiki: wiki.order.life (the old lifeism.miraheze.org wiki closed 2026-04-16 — 404)
 
 ### Hallowings (Fudoki)
 - Realm data in `realms/realms.json`, enriched via `realms/enrich_realms.py`

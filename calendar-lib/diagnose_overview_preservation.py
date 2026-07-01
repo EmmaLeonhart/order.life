@@ -1,7 +1,14 @@
 #!/usr/bin/env python3
 """
-Test script to diagnose Overview section preservation issues.
-This will help determine if the problem is:
+Manual CLI diagnostic (NOT a pytest test) for Overview-section preservation.
+Run directly with --username/--password against a live wiki; it is intentionally
+not named test_* so pytest does not collect it.
+
+NOTE: the wikis this targets (evolutionism.miraheze.org here, lifeism.miraheze.org
+for the calendar bot) are CLOSED as of 2026-04-16, so this cannot connect until a
+replacement wiki exists. Kept for reuse if one comes back.
+
+Determines whether an Overview problem is:
 1. Wiki pages don't have Overview sections yet
 2. API/authentication issues
 3. Content extraction problems
@@ -14,7 +21,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from zodiac_wiki_pages import Wiki, extract_overview_section, build_year_page, build_month_page
 
-def test_wiki_connection(username, password):
+def check_wiki_connection(username, password):
     """Test basic wiki connection and page retrieval."""
     print("=== TESTING WIKI CONNECTION ===")
     
@@ -63,7 +70,7 @@ def test_wiki_connection(username, password):
         print(f"❌ Error connecting to wiki: {e}")
         return None
 
-def test_overview_preservation(wiki, test_pages):
+def check_overview_preservation(wiki, test_pages):
     """Test if Overview sections are preserved when regenerating pages."""
     print("\n=== TESTING OVERVIEW PRESERVATION ===")
     
@@ -106,7 +113,7 @@ def main():
     args = parser.parse_args()
     
     # Test wiki connection first
-    wiki = test_wiki_connection(args.username, args.password)
+    wiki = check_wiki_connection(args.username, args.password)
     if not wiki:
         return
         
@@ -117,7 +124,7 @@ def main():
         ("year", 12024),
     ]
     
-    test_overview_preservation(wiki, test_pages)
+    check_overview_preservation(wiki, test_pages)
     
     print("\n=== DIAGNOSIS COMPLETE ===")
     print("If Overview sections are being replaced with placeholders,")

@@ -20,13 +20,19 @@ Remaining work is DEFERRED, BLOCKED-on-Emma, or GATED until Leo._
 
 ## DEFERRED — do NOT interleave with the live work-loop
 
-- **Wikibase backfill** (`wiki-scripts/wikibase_fill_missing.py`, ~60K items, ~7h)
-  — read-only against the wiki (safe), but with `--commit-every` it runs `git add
-  … && git push origin master` *directly, without pull-rebase*. Running it for 7h
-  alongside the three work-loop crons causes git index-lock contention and push
-  races. Its only downstream consumer (genealogy for ch 130–220) is gated until
-  Leo (2026-08-12) anyway. **Run as a dedicated job with the crons paused**, or with
-  `--commit-every 0` and let auto-flush handle commits. Not urgent.
+- **Wikibase backfill** (`wiki-scripts/wikibase_fill_missing.py`) — **essentially
+  already done** (checked 2026-07-01): **164,536 items + 94 properties on disk** vs
+  ~164,544 items on the wiki per the last snapshot, i.e. only a handful outstanding.
+  The old "~60K to fetch / ~7h" framing was stale — it got run since 2026-04-15. The
+  git-contention worry was also overstated: `--commit-every` defaults to **0 = off**,
+  so running the script plain just writes files and never self-pushes (auto-flush
+  then commits safely with pull-rebase). **Current blocker to finishing the last
+  few / re-verifying the total: `wiki.order.life` is TLS-unreachable from this
+  machine** — TLS handshake fails (`SSLV3_ALERT_HANDSHAKE_FAILURE`) across curl,
+  PowerShell, and Python; three independent stacks failing points to the Cloudflare
+  edge, not a local client quirk. Retry when the wiki's TLS is serving again; it's a
+  negligible remainder and downstream use (ch 130–220 genealogy) is gated until Leo
+  anyway.
 
 ## BLOCKED / NEEDS EMMA (do NOT execute autonomously — surface, don't guess)
 
