@@ -128,3 +128,9 @@ re-add wiki links. (The `lifeism+Wiki-*.xml` export is still parsed for baked-in
 - **Do NOT barrel through new Gaiad chapters until the month of Leo begins (2026-08-12).** The 130–220 barrel-through was an emergency stopgap so a chapter would exist for each day of the Discord stream. With 238/364 drafted the runway is comfortable for months; further writing resumes in Leo and not before.
 - "Power through and clear the queue" does NOT mean generate new chapters. Treat chapter *generation* as gated on Leo; only chapter *editing / polishing* (Malta drift, early-human-era fixes) is allowed outside that window.
 - If a task list or STATUS.md entry says "write chapters NNN–NNN" before 2026-08-12, that is a drafting error — delete it, don't execute it.
+
+## Long command series run in strict order
+When Emma gives a long series of commands, treat it as a long series of commands to be
+executed in relatively STRICT ORDER, one after another, EVEN IF the order seems not to
+make sense or seems inefficient. The sequencing is intentional — she organizes the steps
+so states change in the order she wants. Do not reorder, merge, or skip steps.
