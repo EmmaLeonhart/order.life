@@ -40,7 +40,6 @@ All other languages use `/{lang}/` subdirectories.
 /calendar/                            English calendar overview
 /faq/                                 English FAQ (NOT /en/faq/)
 /{section}/                           English section pages
-/wiki/*                               English wiki redirect
 /{lang}/                              Other language homepage
 /{lang}/calendar/                     Other language calendar overview
 /{lang}/calendar/datepicker/          Interactive datepicker
@@ -53,17 +52,17 @@ All other languages use `/{lang}/` subdirectories.
 /{lang}/gaiad/                        Gaiad scripture index
 /{lang}/gaiad/{NNN}/                  Gaiad chapter (001-364)
 /{lang}/{section}/                    Section pages (scripture, mythology, philosophy, shrines, longevity, evolution, faq)
-/{lang}/wiki/*                        Redirect to wiki.order.life/{lang}:* (lifeism.miraheze.org closed 2026-04-16)
 ```
 
 This is controlled by `DEFAULT_LANG = "en"` in `build.py` (line ~42) and `lang_base()` which returns `""` for English.
 
-### Wiki Redirects
-**The old `lifeism.miraheze.org` wiki closed 2026-04-16 (404). The live wiki is now `wiki.order.life`; all `/wiki/` and `/w/` redirects point there.**
-- English (`/en/wiki/*` or `/wiki/*`): redirects to `wiki.order.life/{title}` (no lang prefix)
-- Other languages (`/{lang}/wiki/*`): redirects to `wiki.order.life/{lang}:{title}`
-- `/w/*` (MediaWiki script path) redirects to `wiki.order.life/w/*`
-- Both static per-page redirects (from XML export) and JS fallback for unknown pages
+### Wiki Redirects — REMOVED (2026-07-01)
+**There is no wiki anymore.** Miraheze took the wiki down as off-topic, so the site no
+longer links or redirects to any wiki. The `/wiki/*` and `/w/*` redirect generation was
+deleted from `build.py` (`generate_wiki_redirects` gone), `templates/wiki-redirect.html`
+was deleted, and the wiki-redirect branch was removed from `templates/404.html`. Do NOT
+re-add wiki links. (The `lifeism+Wiki-*.xml` export is still parsed for baked-in day/month
+*content* — that's local content, not a link, and stays.)
 
 ### Gaian Calendar
 - 13 months x 28 days = 364 days + Horus intercalary (7 days, ISO week 53 years only)
@@ -91,7 +90,7 @@ This is controlled by `DEFAULT_LANG = "en"` in `build.py` (line ~42) and `lang_b
 - Symbol: 命 (life/destiny/command)
 - 命 replaces 神 in sacred contexts
 - Shrines: 命神宮 (Myōjingū)
-- Wiki: wiki.order.life (the old lifeism.miraheze.org wiki closed 2026-04-16 — 404)
+- Wiki: none — the wiki was taken down by Miraheze (off-topic) and is gone; the site no longer links to any wiki
 
 ### Hallowings (Fudoki)
 - Realm data in `realms/realms.json`, enriched via `realms/enrich_realms.py`

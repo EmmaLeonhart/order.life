@@ -1,0 +1,115 @@
+persons: 106926
+field coverage:
+  label           106185  ( 99.3%)
+  sex             103852  ( 97.1%)
+  wikidata_qid     60086  ( 56.2%)
+  geni_id          35014  ( 32.7%)
+  death            25037  ( 23.4%)
+  birth            21007  ( 19.6%)
+  gedcom           17966  ( 16.8%)
+
+edges: 128717
+nodes in graph (persons ∪ edges endpoints): 107064
+roots (no parent): 16991
+leaves (no child): 47154
+
+top 15 by child count (fan-out — watch for conflation):
+   231  Q74973  Danaus
+   155  Q90309  Oceanus
+   146  Q74970  Tethys
+   144  Q74656  Q74656
+   131  Q169648  DHRITARASHTRA
+   127  Q75039  Poseidon
+   118  Q169959  GANDHARI Dhritarashtra
+   113  Q131715  Heracles
+   109  Q74701  Terra
+    96  Q130029  Doris
+    96  Q130282  Nereus
+    81  Q1861  Krishna
+    80  Q132256  Aegyptus
+    79  Q132255  Q132255
+    78  Q66360  Sayyidina Ali  ibn Abi Talib
+
+indegree histogram (parents per child):
+  1 parents: 52981
+  2 parents: 35862
+  3 parents: 957
+  4 parents: 244
+  5 parents: 17
+  6 parents: 7
+  7 parents: 3
+children with >2 parents (data error): 1230
+  Q100308 Ordoño III of León  parents=['Q100038', 'Q110066', 'Q143493']
+  Q100374 Galindo Aznárez II  parents=['Q100068', 'Q100372', 'Q109541', 'Q109734']
+  Q99899 García Íñiguez of Pamplona  parents=['Q100070', 'Q100072', 'Q109722', 'Q109724']
+  Q100427 García Fernández of Castile  parents=['Q100084', 'Q100421', 'Q109563', 'Q109784']
+  Q100435 Urraca Fernández  parents=['Q100084', 'Q100421', 'Q109563', 'Q109784']
+  Q1010 Dipnomorpha  parents=['Q1001', 'Q30783', 'Q54352']
+  Q100483 Gonzalo Fernández of Castile  parents=['Q100120', 'Q100481', 'Q110520', 'Q110522']
+  Q110072 Ramiro III of León  parents=['Q100340', 'Q100738', 'Q109766', 'Q110070']
+  Q100443 Toda of Pamplona  parents=['Q100352', 'Q100364', 'Q109355', 'Q109437']
+  Q100948 Sancho II of Pamplona  parents=['Q100447', 'Q100828', 'Q109559', 'Q109770']
+
+back-edges (cycles) found: 71
+  cycle: Q140681(Lleucu ferch Gruffudd) -> Q140643(Rhys ap Llowdden y Gath) -> Q139043(Ieuan ap Rhys) -> Q138061(Joan ferch Ieuan ap Rhys ap Llowdden) -> Q138810(Llywelyn Ddû ab Owain) -> Q140234(Llywelyn Foethus ap Llywelyn Ddû ab Owain) -> Q139067(Gruffudd Foethus ap Llywelyn) -> Q140681(Lleucu ferch Gruffudd)
+  cycle: Q144542(Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig) -> Q148522(Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadwgan Ddû) -> Q146349(Cynwrig Fychan ap Cynwrig) -> Q148521(Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap Llywarch) -> Q144542(Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig)
+  cycle: Q124326(Guerau V de Cabrera) -> Q104371(Arsende  de Cabrera) -> Q107162(Ermengol VII, Count of Urgell) -> Q123407(Marquesa d'Urgell) -> Q124325(Guerau IV de Cabrera) -> Q124326(Guerau V de Cabrera)
+  cycle: Q124326(Guerau V de Cabrera) -> Q104375(Ponc II Giraldo  de Cabrera) -> Q124326(Guerau V de Cabrera)
+  cycle: Q103888(Martim  Pires de Alvarenga) -> Q118097(Pero  Pais de Alvarenga) -> Q103888(Martim  Pires de Alvarenga)
+spouse edges: 24784
+
+weakly-connected components: 2408
+giant component: 101358  (94.67%)
+isolates: 2046
+top 10 components by size:
+  size 101358  e.g. Francisco  de Albarracin y Funes, Francisca  de Funes y Luduena Jaimes y de la Vega, Juan  de Albarracin Pereyra de la Cerda
+  size   1325  e.g. 朱沖𤊨, 朱範圮, Zhu Song
+  size    500  e.g. 5-generation ancestor [Ahnentafel 23], 6-generation ancestor [Ahnentafel 47], 6-generation ancestor [Ahnentafel 46]
+  size    141  e.g. Yelü Su, Yelü Sala, 余卢睹姑
+  size     70  e.g. Hippias, Peisistratos, Hippias' and Hipparchus' mother
+  size     58  e.g. Lu Huang, Lu Wen, Lu Gong
+  size     32  e.g. Li Ji, Li Shen, Li Ji
+  size     26  e.g. Abu Ateeqa Ahmad bin Umar bin Yahya, Umm al-Husayn Fatimah binte al-Husayn, al-Husain son of Ahmad son of Umar
+  size     25  e.g. Amago Kunihisa, 多胡忠重の娘 (尼子国久の正室), 尼子豊久
+  size     25  e.g. Maeno Masayoshi, Maeno Muneyasu, Tsubouchi Katsunaga
+
+gateway-ancestor descendant counts (graph-walked):
+  Charlemagne     Q115039  Charlemagne                              descendants=12539
+  Bustanai        Q87872   Bustanai                                 descendants=3250
+  Bustanai        Q90731   Bustanai  David                          descendants=1
+  Bustanai        Q94275   Bustanai ben Haninai  David              descendants=6
+  Jesus           Q138545  Jesus Christ                             descendants=28512
+  Muhammad        Q65705   Muhammad                                 descendants=3630
+  Muhammad        Q66605   MUHAMMAD                                 descendants=0
+  Muhammad        Q66641   Muhammad                                 descendants=0
+  Heo Hwang-ok    Q51928   Heo Hwang-ok                             descendants=46
+  Genghis Khan    Q37401   Genghis Khan                             descendants=349
+  Confucius       Q30266   Confucius                                descendants=213
+
+top 25 by descendant count (real gateway ancestors):
+  candidates (>=20 direct children): 140
+   34483  Q74717    Erebos
+   34478  Q74720    Nyx
+   34478  Q130498   Q130498
+   34477  Q130652   Q130652
+   34433  Q74701    Terra
+   34364  Q90309    Oceanus
+   34364  Q75039    Poseidon
+   34364  Q74973    Danaus
+   34364  Q74970    Tethys
+   34364  Q74698    Tros
+   34364  Q74680    Saturn
+   34364  Q74656    Q74656
+   32251  Q132255   Q132255
+   32203  Q75237    Lycaon
+   32089  Q132256   Aegyptus
+   32056  Q75282    Q75282
+   31999  Q75054    Themis
+   31948  Q130686   Benfeld
+   31930  Q131228   Ares
+   31848  Q75351    Eos
+   31794  Q132321   Pelops
+   30549  Q131715   Heracles
+   29987  Q73830    Antipater
+   29466  Q73380    BAD MERGE
+   29403  Q73053    Mithridates VI of Pontus

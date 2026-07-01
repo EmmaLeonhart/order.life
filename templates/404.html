@@ -11,18 +11,7 @@
   (function () {
     var p = window.location.pathname;
 
-    // 1. Wiki redirect — runs immediately (no DOM needed)
-    var mWiki = p.match(/^\/([a-z]{2})\/wiki\/(.+?)\/?\s*$/) || p.match(/^\/wiki\/(.+?)\/?\s*$/);
-    if (mWiki) {
-      var lang, title;
-      if (mWiki.length === 3) { lang = mWiki[1]; title = mWiki[2]; }
-      else                    { lang = 'en';      title = mWiki[1]; }
-      title = title.replace(/\/$/, '') || 'Main_Page';
-      window.location.replace('https://wiki.order.life/' + title);
-      return;
-    }
-
-    // 2. Year / festivals pages — set globals now, do DOM work after load
+    // Year / festivals pages — set globals now, do DOM work after load
     // English pages have no /en/ prefix; other languages do.
     var mYear = p.match(/^\/([a-z]{2})\/calendar\/year\/(\d+)\/(festivals\/)?$/)
              || p.match(/^\/calendar\/year\/(\d+)\/(festivals\/)?$/);

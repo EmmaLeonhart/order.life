@@ -12,35 +12,30 @@ them. **Chapter gate:** do NOT generate new Gaiad chapters before Leo (2026-08-1
 
 ## ACTIVE (do in order)
 
-_All currently-actionable quick items are done (iCal Phase 2, Node 24 bump). The
-calendar-bot month-page verification turned out moot — the wiki is closed (below).
-Remaining work is DEFERRED, BLOCKED-on-Emma, or GATED until Leo._
+_All currently-actionable quick items are done. The wiki is permanently gone (Miraheze
+took it down as off-topic, 2026-07-01) — the Wikibase backfill is complete/frozen and
+the site has been de-linked from the wiki entirely (see devlog 2026-07-01). Remaining
+work is BLOCKED-on-Emma or GATED until Leo._
 
 ---
 
 ## DEFERRED — do NOT interleave with the live work-loop
 
-- **Wikibase backfill** (`wiki-scripts/wikibase_fill_missing.py`) — **essentially
-  already done** (checked 2026-07-01): **164,536 items + 94 properties on disk** vs
-  ~164,544 items on the wiki per the last snapshot, i.e. only a handful outstanding.
-  The old "~60K to fetch / ~7h" framing was stale — it got run since 2026-04-15. The
-  git-contention worry was also overstated: `--commit-every` defaults to **0 = off**,
-  so running the script plain just writes files and never self-pushes (auto-flush
-  then commits safely with pull-rebase). **Current blocker to finishing the last
-  few / re-verifying the total: `wiki.order.life` is TLS-unreachable from this
-  machine** — TLS handshake fails (`SSLV3_ALERT_HANDSHAKE_FAILURE`) across curl,
-  PowerShell, and Python; three independent stacks failing points to the Cloudflare
-  edge, not a local client quirk. Retry when the wiki's TLS is serving again; it's a
-  negligible remainder and downstream use (ch 130–220 genealogy) is gated until Leo
-  anyway.
+_(none — the Wikibase backfill is DONE; wiki gone, snapshot frozen + committed, 164,536
+items in repo. See devlog 2026-07-01. The `fill_missing`/`dump` scripts need a live wiki
+and can no longer run; all downstream analysis reads the local dump.)_
 
 ## BLOCKED / NEEDS EMMA (do NOT execute autonomously — surface, don't guess)
 
 - **Genealogy lineage bridges** (Kosala→Heo Hwang-ok, Genghis→Adam, Heo→Jimmu) —
   these invent connecting kings = creative scripture content; needs Emma's call,
-  and is adjacent to the chapter gate.
-- **Genealogy QA cleanup** — 69 cycles + 1,230 children with >2 parents (Geni merge
-  errors) live on the wiki; fixing them is data surgery needing review.
+  and is adjacent to the chapter gate. (Source is now the LOCAL dump, not the wiki.)
+- **Genealogy QA — analysis DONE, fixing needs review.** Ran 2026-07-01 on the local
+  dump: full error lists enumerated in `wikibase/analysis/qa_multiparent.tsv` (1,230
+  children with >2 parents) + `qa_cycles.tsv` (~70 impossible ancestor cycles), summary
+  in `wikibase/analysis/GENEALOGY_QA.md`. NOT auto-fixed: picking the true parents /
+  which cycle-edge to cut is per-record genealogical judgement (auto-guessing =
+  fabricating scripture). Fixes are local-dump edits (wiki is gone). Surface for Emma.
 
 ## GATED — do not touch before Leo (2026-08-12)
 - New Gaiad chapter generation (253–328, 330–364). Editing/polishing only is OK.

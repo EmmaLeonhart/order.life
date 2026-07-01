@@ -2,7 +2,7 @@
 
 A C# library (wrapping [NodaTime](https://nodatime.org/)) for the Gaian calendar — 13 months of 28 days + Horus intercalary, astrological month names, year numbering offset by +10,000 from ISO week-year. Also contains the Python wiki-page generator that formerly built day/month/year pages on lifeism.miraheze.org.
 
-> **⚠️ Wiki closed (2026-04-16).** `lifeism.miraheze.org` (and `evolutionism.miraheze.org`) are closed — both return 404. The Python wiki bot and everything that writes to those wikis is **disabled and moot** until a replacement wiki exists. The current live wiki surface is **`wiki.order.life`**. Roadmap items below that target Lifeism are parked, not actionable.
+> **⚠️ Wiki gone (2026-07-01).** Miraheze took the wiki down as off-topic — it is not coming back and there is no replacement. The Python wiki bot and its GitHub Actions (`calendar-bot.yml`, `wiki-bot.yml`) have been **deleted**; the site no longer links to any wiki. All wiki-writing roadmap items below are **dead**, kept only as a record. The C# calendar library and the offline page-generation logic remain useful; the wiki bot does not.
 
 ## How this directory got here
 
@@ -24,18 +24,17 @@ This directory was imported into `order.life` via `git subtree add` from the for
 
 ## How the bot runs
 
-Two GitHub Actions workflows drive `calendar-lib/`:
-
-**`.github/workflows/calendar-bot.yml`** — the Python wiki bot. Manually triggered from the Actions tab. Uses the same credential pattern as the existing `wiki-bot.yml` (`EmmaBot@EmmaBot` + `secrets.WIKI_PASSWORD`), so no new secrets needed. Inputs: `mode` (`months` / `days` / `years` / `all`) and optional `year_start` / `year_end` for years mode. Start with `months` (14 pages) to verify, then graduate to `days` (371 pages). No cron schedule yet — flip on after a clean manual run.
+The wiki-bot workflows (`calendar-bot.yml`, `wiki-bot.yml`) were **deleted 2026-07-01**
+when the wiki was taken down. The only remaining workflow touching `calendar-lib/` is:
 
 **`.github/workflows/dotnet-build.yml`** — builds `GaianNodaTimeWrappers.sln` on any push touching `calendar-lib/`. Catches regressions in the C# library.
 
 ## Roadmap / TODO
 
-- [~] **Import `Module:GaiadDate`** — PARKED: target wiki (lifeism.miraheze.org) closed 2026-04-16. Redo against a replacement wiki if one comes back; XML is retained.
-- [~] **First successful manual run** of `calendar-bot.yml` — PARKED: bot target closed. Workflow left as `workflow_dispatch`-only.
+- [x] ~~Import `Module:GaiadDate` onto the wiki~~ — DEAD: wiki gone (Miraheze takedown). XML retained only as a record.
+- [x] ~~First successful manual run of the wiki bot~~ — DEAD: bot + workflows deleted, no wiki.
 - [x] **First successful `dotnet-build.yml` run** — DONE/green (builds `GaianNodaTimeWrappers.sln` against .NET 8; last green on the 2026-06-29 `setup-dotnet@v5` bump).
-- [~] **Add a cron schedule** to `calendar-bot.yml` — PARKED: target wiki closed.
+- [x] ~~Add a cron schedule to the wiki bot~~ — DEAD: no wiki.
 - [~] **Wire the Python integration tests into CI** — only `test_page_generation.py` is a real (offline) pytest and passes; `diagnose_overview_preservation.py` is a manual wiki diagnostic that cannot run while the wiki is closed. Nothing to wire until a wiki exists.
 - [ ] **C# library completeness** — implement the stubbed period-based arithmetic (`PlusMonths`, `PlusYears`) and extend beyond NodaTime's year range so full Gaian year numbering works.
 - [ ] **Python bindings to the C# library** — long-term goal. Either via Python.NET, a PyPI package wrapping the CSV generator output, or a pure-Python port of `GaianTools.cs`. The static site build (`build.py`) currently reimplements its own Gaian date math — eventually it should consume a single canonical implementation shared with the wiki bot.

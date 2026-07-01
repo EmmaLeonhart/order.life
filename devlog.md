@@ -4,7 +4,38 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-01
 
-- **Finished the lifeism→wiki.order.life wiki migration in code + docs.** The old
+- **The wiki is GONE — de-linked the site entirely + ran the local genealogy analysis.**
+  Correction to the earlier same-day entry below: the wiki was not "migrated to
+  wiki.order.life", it was **taken down by Miraheze as off-topic** and is not coming back;
+  there is no replacement wiki. (Earlier this session I wrongly repointed redirects at
+  wiki.order.life believing it was live — Emma corrected this.) Actions taken:
+  - **Removed all wiki links/redirects from the site** (per Emma: "there should not be any
+    links on the site to the dead wiki … make it not link-based, because there isn't a
+    wiki anymore"). Deleted `generate_wiki_redirects()` + its call from `build.py`
+    (`py_compile` clean), deleted `templates/wiki-redirect.html`, and removed the
+    wiki-redirect branch from `templates/404.html`. Verified: zero
+    `wiki.order.life`/`*.miraheze` refs remain in `build.py`/`templates`/`static`
+    (Wikidata + Wikimedia-Commons links are unrelated and stay). The
+    `lifeism+Wiki-*.xml` export still feeds baked-in day/month *content* (local, not a link).
+  - **Deleted the wiki GitHub Actions** (`wiki-bot.yml`, `calendar-bot.yml`,
+    `wikibase-dump.yml`) — they operated the dead wiki. Kept deploy/compile/discord/dotnet.
+  - **Wikibase backfill = DONE/archived.** It was a fetch-from-wiki download (never
+    wiki-free); the 164,536-item snapshot is committed and is now the only copy. Stripped
+    the backfill *operation* sections from `todo.md` + `queue.md` (archived, pointing to
+    the analysis outputs). Nothing left to fetch.
+  - **Ran the local genealogy analysis + QA** (`genealogy_network_analysis.py`, all local,
+    no wiki): 106,926 persons / 128,717 edges; giant component 94.67%; centrality confirms
+    Jesus (28,512 desc), Charlemagne (12,539), etc. QA errors enumerated in full:
+    `wikibase/analysis/qa_multiparent.tsv` (1,230 children with >2 parents),
+    `qa_cycles.tsv` (~70 impossible ancestor cycles, via new `dump_qa_errors.py`),
+    summary `wikibase/analysis/GENEALOGY_QA.md`, full run `genealogy_qa_report.txt`. NOT
+    auto-fixed — choosing true parents / which cycle-edge to cut is per-record judgement
+    (auto-guessing = fabricating scripture); surfaced for Emma. Fixes would be local-dump
+    edits since the wiki is gone.
+  - Docs updated to "no wiki exists": gaiad `CLAUDE.md` (Wiki Redirects → REMOVED, URL
+    structure, Key Branding), `calendar-lib/README.md`.
+
+- **[superseded] Finished the lifeism→wiki.order.life wiki migration in code + docs.** The old
   `lifeism.miraheze.org` wiki closed 2026-04-16 (verified 404; `evolutionism.miraheze.org`
   too). The site's `/wiki/*` redirects, `templates/wiki-redirect.html`, and `templates/404.html`
   had already been migrated to `wiki.order.life`, but the `/w/*` (MediaWiki script-path)

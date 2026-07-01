@@ -2,128 +2,26 @@
 
 ---
 
-## 📥 Wikibase dump: in progress (allpages backfill)
+## 🗃 Wikibase dump + genealogy — ARCHIVED (2026-07-01)
 
-**Status (2026-04-15):** Pivoted off blind range-walking. The endpoint
-*does* work from a local laptop — the 503s were an Actions-environment /
-Miraheze interaction that we stopped fighting.
+The source wiki was taken down by Miraheze as off-topic. The dump/backfill is
+**complete and frozen**: 164,536 item JSONs + 94 properties committed under
+`wikibase/` (the only copy now). The `fill_missing`/`dump` scripts fetch over HTTP
+from the wiki, so they can no longer run — but they are no longer needed.
 
-`wiki-scripts/wikibase_fill_missing.py` enumerates every entity via the
-MediaWiki `allpages` API (items = ns 860, properties = ns 862), writes
-the ID list to `wikibase/{items,properties}_index.txt`, and fetches only
-the entries missing on disk. Skips the sparse high-end gaps entirely.
+Genealogy analysis + QA runs entirely on the LOCAL dump. Outputs:
+- `wikibase/analysis/GENEALOGY_QA.md` — summary (graph shape, centrality, errors).
+- `wikibase/analysis/genealogy_qa_report.txt` — full run of
+  `wiki-scripts/genealogy_network_analysis.py`.
+- `wikibase/analysis/qa_multiparent.tsv` (1,230 children with >2 parents) +
+  `qa_cycles.tsv` (~70 impossible cycles) — full error lists from
+  `wiki-scripts/dump_qa_errors.py`.
 
-Snapshot:
-- Items: 164,544 on wiki, ~104K on disk → ~60K to fetch (running locally
-  with `--commit-every 5000`, ~7 hour ETA)
-- Properties: ~460 max P-number, only 42 on disk → backfilling with
-  `--type properties --commit-every 50` (short job)
-
-### After import is done — genealogical analysis ✅ STARTED
-Genealogical analysis to assemble lineages for the chapter-130–220 gap.
-Build the graph from the dumped items and walk P-statements.
-- ✅ Empirical centrality: Charlemagne (12,539 desc), Bustanai (3,250),
-  Jesus (28,512), Muhammad (3,630) all pass. Jesus-via-Rome is the
-  true backbone; Greek primordials sit one tier above at ~34K.
-- ✅ Weakly-connected components: giant = 101,358 (94.7%). Asia is
-  less isolated than expected. Standalone islands: Zhu clan (1,325),
-  Khitan/Yelu (141), a few Japanese clans (~25 each).
-- ⚠️ QA: 1,230 children with >2 parents (Geni merge errors, mostly
-  Iberian royals). 69 cycles (should be 0). Fan-out suspects: Danaus
-  (231 ch), Oceanus (155), Dhritarashtra (131), Heracles (113).
-- Schema parity with pre-human `Gaiad/genealogy/*.json` — deferred.
-
-### West Eurasian Super-Network — mapped
-Full ancestry of Charlemagne traced to Adam: **81 generations, 4,132
-unique ancestors**. Document: `wikibase/analysis/charlemagne_to_adam.md`.
-The network connects Carolingian → Merovingian → late Roman senators →
-Republican Rome → Troy/Greek myth → Judah/Persia/Egypt/Assyria →
-biblical patriarchs → Adam. Key narrative value: the immediate
-ancestors of Charlemagne directly represent the transition from
-paganism into Christianity — deflationary polytheism in action.
-
-Below Adam the graph continues through evolutionary phylogeny, Iranic/
-Hittite placeholder chains (55 + 50 numbered generations), predynastic
-Egyptian pharaohs (Iry-Hor, Scorpion I/II), Akkadian kings (Gilgamesh,
-Enmerkar), and the Numidia chain, eventually reaching Gaiad cosmogonic
-figures (LUCA, Gaia, Aster) at gen 211.
-
-### Lineage gaps to bridge
-- **Kosala → Heo Hwang-ok**: ~15–20 invented kings needed to connect
-  the last Kosala ruler (~500 BCE) to Heo's Ayodhya (~48 CE). She is
-  treated as a descendant of Rama. The Rama → Kosala chain (43 gens)
-  is well-built; the gap is the last 500 years before her.
-- **Genghis Khan**: 7-gen chain (Khaidu → ... → Genghis) is disconnected
-  from Adam entirely. Needs a bridging line into the Mongol steppe.
-- **Heo Hwang-ok → Jimmu**: The Gaya → Kim clan → Silla line (46 desc)
-  is well-built on the Korean side. Jimmu's line goes through Xu Fu
-  back to a Chinese numbered-ancestor chain. The two lines don't
-  currently meet but both exist.
-
-### Analysis scripts
-- `wiki-scripts/extract_genealogy.py` — produces TSVs from raw items
-- `wiki-scripts/genealogy_network_analysis.py` — network stats, QA
-- `wiki-scripts/build_pruned_tree.py` — pruned tree from Adam downward
-- `wiki-scripts/export_charlemagne_lineage.py` — full Charlemagne→Adam doc
-- Output in `wikibase/analysis/`
-
-### Future direction (deferred — NOT now)
-
-**Wiki ↔ repo syncing.** Keep the local dump alive on a daily basis,
-driven by **recent-changes on the wiki**, not by re-running a forced
-full enumeration. The existing wiki-related workflows (`wiki-bot.yml`
-etc.) operate on different content; nothing currently incrementally
-syncs the Wikibase entity dump. Build that later — only after the first
-full backfill + analysis pass is done.
-
-Tighter integration between the Wikibase contents and our planning /
-Gaiad docs is also future work. The wiki has contradictions and
-inconsistent coverage that make naive integration unsafe; a "thinks
-with the wiki" tool needs the messy parts cleaned up first.
+Still open (needs Emma — creative/judgement, not fetch): lineage bridges
+Kosala→Heo Hwang-ok, Genghis→Adam, Heo Hwang-ok→Jimmu; and fixing the
+enumerated QA errors (which true parents / which cycle-edge to cut). All local now.
 
 ---
-
-## 📥 Wikibase dump: import items + properties from wiki.order.life (original plan)
-
-`wiki.order.life` is a **Wikibase** instance (items Q1.., properties P1..),
-not a plain MediaWiki wiki. Human-era genealogy (Charlemagne/Pani lines,
-Persian-royal-family bridge connecting Jewish/Muslim lines, gateway ancestors
-back to prehistoric haplogroup founders) lives on it as Wikibase entities,
-none of which have been imported into the repo yet. The existing JSONs in
-`Gaiad/genealogy/` are pre-human stubs only and do not overlap with this.
-
-### Why this matters
-Needed to support the 130–220 chapter block (beginning of humanity →
-beginning of modern age). The genealogical spine is load-bearing for the
-pre-BAC mythic-mosaic register and for the post-BAC genealogical-bridge
-material. Also enables real network analysis on the built genealogies
-(see `planning/gaiad-130-220-structure.md` §13).
-
-### Implementation (READY — merge the open PR after the first run)
-- **Script:** `wiki-scripts/wikibase_dump.py` — fetches entities from
-  `Special:EntityData/{id}.json` with `wbgetentities` API fallback.
-- **Workflow:** `.github/workflows/wikibase-dump.yml` — manual dispatch with
-  numeric range inputs; commits to a throwaway branch and opens a PR per run.
-- **Output layout:** `wikibase/items/Q{N}.json`, `wikibase/properties/P{N}.json`.
-  Kept separate from `Gaiad/genealogy/` because (per Emma) the Wikibase data
-  is complex and should be isolated.
-
-### How to run
-Trigger the `wikibase-dump` workflow from the Actions tab with the numeric
-range of items/properties to pull. Default is Q1..Q100 and P1..P100. A PR
-is created automatically on success.
-
-### Open after first run
-- Confirm the endpoint / schema matches what the script expects — it's
-  untested against the live wiki from Emma's side; script has a fallback
-  URL but the real structure of the entities is unknown.
-- Schema parity with pre-human `Gaiad/genealogy/*.json` — the Wikibase
-  dump is raw; a later pass will translate selected items into the
-  existing JSON shape if useful.
-- Network analysis on the graph once properties + items are imported.
-
----
-
 ## 🚨 Discord Bot Cron Reliability — FIXED (2026-03-14)
 
 Rewrote the Discord bot to use a state-file approach instead of relying on exact cron timing.
