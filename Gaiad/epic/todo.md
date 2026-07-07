@@ -33,6 +33,13 @@
   to resolve its threads; ch 362 lands on "we're still in it" and
   hands off. Meta-threads (Aster/Andromeda seeding, cross-chapter
   echoes) are explicit **post-revision passes**, not drafting blockers.
+- **FUTURE NOTE — Anglican focus / scope of modernity (Emma, 2026-07-07,
+  parked)**: order.life should have "a bit of a more anglican focus,"
+  which Emma clarified is "more about scope of modernity" — an Anglican
+  lens on how the Modern Period frames modernity itself, not verse
+  register or site branding. Idea slate + clarification recorded in
+  `planning/gaiad-253-364/anglican-focus.md`. Parked as future notes —
+  develop when Modern Period planning resumes; nothing to execute now.
 - **Stale inventory flag**: the ch 329–364 table further down in this
   file predates the Modern Period editorial criteria in
   `planning/gaiad-253-364/chapter-allocation.md`. Titles like

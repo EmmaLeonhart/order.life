@@ -1,9 +1,20 @@
 # Anglican focus — directive + idea slate
 
 **Directive (Emma, 2026-07-07):** "for order.life thematically it's best to have a
-bit of a more anglican focus." Verbatim; scope not yet specified (chapters only vs.
-site-wide register). Everything below the directive line is **session scaffolding —
-proposals, not decisions** — pending Emma's confirmation of scope and picks.
+bit of a more anglican focus." Verbatim.
+
+**Clarification (Emma, same day):** "Just leave in todo future notes for now. But
+it's more about **scope of modernity**." So: (1) STATUS = parked as future notes —
+no picks made from the slate below, do not execute it; (2) the directive is about
+how the Modern Period *scopes/frames modernity* — an Anglican lens on what
+modernity IS — not primarily about verse register or site branding. The scope
+question to develop when this unparks: what an Anglican-scoped modernity does to
+the ch 253–362 bracket structure (e.g. the English Reformation as modernity's
+hinge next to the ch 253 Popes chronicle ending at the Reformation threshold; the
+via media as a model of how modernity handles identity, sitting against the
+gunpowder-empires unified-identity thesis).
+
+Everything below is **session scaffolding — proposals, not decisions**.
 
 Constraint check: chapter *generation* stays gated until Leo (2026-08-12) per
 CLAUDE.md. This file is planning only.
