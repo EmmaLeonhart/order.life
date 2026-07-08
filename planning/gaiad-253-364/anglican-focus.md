@@ -14,6 +14,11 @@ hinge next to the ch 253 Popes chronicle ending at the Reformation threshold; th
 via media as a model of how modernity handles identity, sitting against the
 gunpowder-empires unified-identity thesis).
 
+**Development (Emma, later 2026-07-07):** the scope-of-modernity question resolved
+into a concrete organizational structure — England + Japan as the two perspective
+countries of the Modern Period. See `perspective-schema.md`; that file is now the
+live document. The slate below stays parked as future notes.
+
 Everything below is **session scaffolding — proposals, not decisions**.
 
 Constraint check: chapter *generation* stays gated until Leo (2026-08-12) per

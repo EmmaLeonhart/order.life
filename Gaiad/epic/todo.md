@@ -33,13 +33,15 @@
   to resolve its threads; ch 362 lands on "we're still in it" and
   hands off. Meta-threads (Aster/Andromeda seeding, cross-chapter
   echoes) are explicit **post-revision passes**, not drafting blockers.
-- **FUTURE NOTE — Anglican focus / scope of modernity (Emma, 2026-07-07,
-  parked)**: order.life should have "a bit of a more anglican focus,"
-  which Emma clarified is "more about scope of modernity" — an Anglican
-  lens on how the Modern Period frames modernity itself, not verse
-  register or site branding. Idea slate + clarification recorded in
-  `planning/gaiad-253-364/anglican-focus.md`. Parked as future notes —
-  develop when Modern Period planning resumes; nothing to execute now.
+- **PERSPECTIVE SCHEMA (Emma, 2026-07-07) — England + Japan are the
+  countries of our perspective** for the Modern Period; the world enters
+  the story as it is colonized by the Anglophone world (or by Japan);
+  Reformation-Germany and the French Revolution retained as strong
+  exceptions; Arab Revolt chapter needed (England → Arab world); Spanish
+  perspective "a bit"; Russia amount open; builds into global capitalism
+  (British Empire developed it). Full schema + gap analysis:
+  `planning/gaiad-253-364/perspective-schema.md`. This develops the
+  earlier anglican-focus note (`anglican-focus.md`, slate still parked).
 - **Stale inventory flag**: the ch 329–364 table further down in this
   file predates the Modern Period editorial criteria in
   `planning/gaiad-253-364/chapter-allocation.md`. Titles like
