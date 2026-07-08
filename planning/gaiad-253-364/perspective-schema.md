@@ -33,6 +33,40 @@ analysis at the bottom is session scaffolding responding to her open question.
     system (East India Company, joint-stock form, City of London, gold standard,
     free-trade imperialism).
 
+## Refinement: gunpowder empires and the no-Europe test (Emma, 2026-07-07, later)
+
+- **Gunpowder empires stay in, but they are basically the LAST polities to get
+  their own chapters un-framed by colonialism** ("no colonial" chapters).
+- **Why parallel protagonists fails as organization:** "them as parallel
+  protagonists is just too difficult. They exist, Peter the Great exists. But
+  organization is based on reactions to European colonialism."
+- **The criterion (Emma's formulation):** only the *origins* of the gunpowder
+  empires are divergent enough and big enough that you can tell their story
+  never mentioning Europe — "or maybe more accurately, never mentioning Europe
+  isn't contrived."
+
+**Session restatement — the no-Europe test:** a non-European polity gets a
+standalone (non-reaction-framed) chapter iff telling its story without
+mentioning Europe is not contrived. Ottoman rise, Safavid founding/Shi'ism
+imposition, Mughal founding/Akbar, Qing conquest (and the Zunghar genocide as
+Qing-internal steppe history) pass at their origins; after roughly the origins
+era, a Europe-free telling of any of them is contrived, so all later
+non-European material is narrated in the reaction-to-European-colonialism
+frame. Peter the Great / Russia explicitly named as existing but NOT getting
+parallel-protagonist treatment. Japan is exempt from the test only because it
+is a perspective country, not because it passes it.
+
+**Implications:**
+- The standalone gunpowder chapters sit EARLY in the Modern bracket
+  (origin era, ~1500s–1600s), likely early Virgo right after ch 253.
+- The open chronicle-slot question in `chapter-allocation.md` (Ottoman sultans /
+  Qing emperors / Mughal emperors / Tsars chronicles) is now effectively
+  answered in the negative: full-line chronicles of those dynasties would be
+  parallel-protagonist treatment, which this refinement rejects. Their
+  chronicle-ness is spent at origins only.
+- The gunpowder thesis-1 ("modernized in parallel but insufficiently") is
+  retained as content but told from the reaction frame, not from inside.
+
 ## Why the schema coheres (session note)
 
 England and Japan are structurally twin choices: both island empires off a
