@@ -1,4 +1,15 @@
-# Perspective schema — England + Japan as the countries of our perspective
+# Perspective schema — Japan + Britain as the anchor countries
+
+**Terminology (Emma, 2026-07-07, final formulation):** "Japan is its own thing.
+The **anchor countries** are **Japan and Britain** — and by extension **Shinto
+and Anglicanism**." Two corrections this locks in: (1) *anchor countries*, not
+"perspective countries" — and Japan is not an "exemption" from the no-Europe
+test below; anchors are simply outside the test's domain, the test applies only
+to subjects. (2) The anchors carry a religious dimension by extension: the
+Modern Period's two anchor religions are Shinto and Anglicanism. This is also
+the resolution of the original anglican-focus directive: order.life's two
+religious poles are the Shinto-derived material already in the site's identity
+and the Anglican material now being added — both flow from the anchors.
 
 **Source: Emma, 2026-07-07, verbatim schema statement.** This is the development of
 the "anglican focus = scope of modernity" directive (`anglican-focus.md`) into an
@@ -53,8 +64,8 @@ Qing-internal steppe history) pass at their origins; after roughly the origins
 era, a Europe-free telling of any of them is contrived, so all later
 non-European material is narrated in the reaction-to-European-colonialism
 frame. Peter the Great / Russia explicitly named as existing but NOT getting
-parallel-protagonist treatment. Japan is exempt from the test only because it
-is a perspective country, not because it passes it.
+parallel-protagonist treatment. Japan is not subject to the test at all — it is
+an anchor country ("its own thing"), and the test applies only to subjects.
 
 **Implications:**
 - The standalone gunpowder chapters sit EARLY in the Modern bracket
