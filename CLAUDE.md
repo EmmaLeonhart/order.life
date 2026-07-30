@@ -1,5 +1,43 @@
 # order.life FastSite
 
+## What this repo IS — read before touching the genealogy (2026-07-30)
+
+**This repo is a mythical story with heavy genealogy in it. The story is a synoptic
+ancestry.** The Gaiad and the wikibase genealogy are one project: a literary device that
+links people **across time and space**, integrating Greek, Near Eastern, Egyptian, Trojan,
+Chinese, Mongol and biblical lines into a single descent. The style is biblical, but where
+the biblical model is purely paternal — identity descending from the father — **this one is
+distinguished by deliberately integrating different kinds of ancestry.** That integration
+is the product.
+
+`wikibase/analysis/mediterranean_connections_to_find.md` states it directly: the
+convergence points are "narratively important for the Gaiad's deflationary polytheism —
+showing continuity where traditions are usually treated as separate."
+
+Three rules follow, and they are not optional:
+
+1. **Everything surprising that is not an error was imported deliberately by Emma.**
+   Confirmed: Muhammad's ancestry routed through the Roman priest-kings of Emesa; the
+   Genesis 11 patriarchs recorded under Mesopotamian royal names; the Mongol Borjigin line
+   descending from the Buddha via Rāhula. **Surprising is not evidence of broken.** Do not
+   open general-defect sweeps over the dump.
+
+2. **"Load-bearing" means the ancestors reached *through* a node — depth, upward. NOT
+   descendant count.** The priority is ancestry going deep, not wide.
+   `wikibase/analysis/qa_cycles_load.tsv` ranks cycles by descendants lost, which is width,
+   which is the wrong metric. Do not rank repairs by it.
+
+3. **Never sever a cross-tradition join.** Ancestry cycles are genuine errors and none
+   should exist, but the repair order is strict: **unmerge** an improperly merged record
+   first (both lines survive — this is the default, and most such records have working
+   Wikidata ids), then **dedupe** parallel imports, then **cut** only if neither applies,
+   then **delete** only where the loop is genuinely terminal (keep the entry point into the
+   loop, drop the rest). If a cycle can only be broken by cutting a tradition-joining edge,
+   the real defect is elsewhere in the loop — go find it.
+
+Full policy and a worked example (the `Tros` Q74698 merge, which caused four mythic cycles
+at once) in **`wikibase/analysis/cycle_policy.md`**.
+
 ## Topaz — this repo is driven from the box (2026-07-30)
 
 order.life is **incorporated into Topaz**, the hosted agent box. Agents are
