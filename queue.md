@@ -24,19 +24,7 @@ later item applies the approved set. Where the evidence does not decide the case
 so in the row rather than picking — an unresolved row is a correct outcome, a guessed
 one is not.
 
-1. **Characterize Q73380 `BAD MERGE` — describe it, do not fix it yet.** It carries
-   29,466 descendants on the main backbone, so it gets understood before it gets
-   touched. Known as of 2026-07-30: its 4 parents split into two unrelated families
-   (Gorgophone + Oebalus, Spartan myth; Antiochus III the Great + Laodice III,
-   Seleucid), and its 20 children split the same way (Penelope, Thoas, Alyzeus,
-   Leucadius, Aletes vs Antiochus V, Alexandros Balas), with co-parents agreeing
-   (Periboea/Asterodeia/Polycaste vs Laodice IV). Working hypothesis: Icarius of Sparta
-   merged with a Seleucid king. Write `wikibase/analysis/Q73380_context.md` — the full
-   parent/child/co-parent split, which descendants route through which side, whether
-   anything downstream depends on the two sides being joined, and a proposed two-node
-   split. Emma decides whether to execute it.
-
-2. **Draft the three lineage bridges as proposals only.** Verified 2026-07-30 against
+1. **Draft the three lineage bridges as proposals only.** Verified 2026-07-30 against
    the local dump: none of them exist. Genghis Khan (Q37401) has no descent path from
    Adam (Q152973); Jimmu (Q6432) has no path to or from Heo Hwang-ok (Q51928) — his
    line runs back through Ugayafukiaezu → Toyotama-hime → Xu Fu into the Xú clan; and
@@ -48,7 +36,7 @@ one is not.
    not cover it; if a bridge cannot be drafted without writing new scripture prose, stop
    and say so.
 
-3. **Reconcile shipped Gaiad genealogy claims against the dump.** Found 2026-07-30.
+2. **Reconcile shipped Gaiad genealogy claims against the dump.** Found 2026-07-30.
    The Heo Hwang-ok chapter (`gaiad_full.md` ~line 39614) is written and live, and it
    asserts what the data does not contain: princess of **Ayodhya** (the capital of
    Kosala — i.e. the missing Kosala bridge, stated as fact in verse), "bore him ten

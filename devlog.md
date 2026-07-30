@@ -4,6 +4,33 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **Q73380 `BAD MERGE` characterized — `wikibase/analysis/Q73380_context.md`** (queue
+  item 3, describe-don't-fix). The hypothesis in the queue was right — Icarius of Sparta
+  conflated with a Seleucid king, specifically Seleucus IV Philopator on the node's own
+  dates and `wikidata_qid` — but **the proposed fix is not a split, because both clean
+  halves already exist in the dump as separate unlabelled records**: Q133344 holds the
+  Spartan family, Q135914 the Seleucid one. Q73380 is a redundant third record.
+
+  All 4 of its parents, 5 of its 6 spouses and 15 of its 20 children are edges those two
+  records already carry. Only five children hang off Q73380 alone (Laodice VI, Antiochus
+  V, Alexandros Balas, Antiochus Eupator, Antiochis), and all five are Seleucid by
+  co-parent. Deleting the node outright with no reassignment would orphan 7 people;
+  reassigning those five to Q135914 orphans none. **Nothing downstream depends on the two
+  sides being joined**, so the proposal is to retire the node rather than split it.
+
+  The 29,466 descendants are not Spartan and not really Seleucid — they are the Pontic
+  royal house, reached through three daughters (Laodice 29,438, Nysa 29,431, Laodice VI
+  29,426) whose descendant sets nearly coincide because the Pontic line marries back into
+  itself.
+
+  The find worth acting on is one the item did not anticipate and that retiring Q73380
+  does **not** fix: **Q73515 Laodice carries 29,438 descendants and is parented by
+  Q133344 — Icarius of Sparta — and Asterodeia**, while her husband and all five children
+  are Pontic. That single edge, not the `BAD MERGE` node, is what currently ties the Greek
+  mythic tier to the historical backbone here. It survives every step proposed, and
+  reattaching her is a genealogical decision rather than a deduplication, so it is left
+  for Emma with the evidence written up.
+
 - **Multi-parent proposals written — `wikibase/analysis/qa_multiparent_proposed.tsv`**
   (queue item 2, propose-only). New script `wiki-scripts/propose_multiparent_fixes.py`
   clusters each child's listed parents and proposes one representative per cluster when
