@@ -4,6 +4,24 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **Cleared the queue. Two chains traced, one suspicion of mine retracted.** Addendum on
+  `adnan_merge_proposed.md`. (a) The `Banu Adnan` chain is fifteen records of ordinary Arab
+  given names in no recognised king list, running *downward* from Adnan toward Emesa — a
+  bridge somebody built to reach `Sampsiceramus I`, not a transmitted genealogy. It lives
+  or dies with R1 and should not be decided separately. **I had flagged `Ithobaal` there as
+  a Tyrian name and suspected a second splice. There isn't one** — three unrelated records
+  share that name and none of them is Ithobaal I of Tyre. One real defect found: `Malichus`
+  fathers both Sampsiceramus I and **`Creator BRAHMA`**, which is a spurious edge.
+  (b) The `'Udd`/`Humaisi` tangle is the opposite case — `'Udd` genuinely is Adnan's father
+  in the standard Adnanite genealogy, so the content is orthodox and the transmission is
+  what broke: the same two names appear as several records apiece, two rows carry three
+  parents, and Q67552's *label* is somebody's working note, "Humaisi' direct to Addi \ Udd
+  desc Malchut ben Abraham", saved into the name field.
+
+  The active queue is now empty. Five reports are written and every open item is a decision
+  Emma owes back, not work that is blocked — moved them into an `AWAITING EMMA` section on
+  the board rather than leaving them to read as live queue items.
+
 - **The whole of Genesis 11 is in the dump under Mesopotamian royal names.**
   `wikibase/analysis/patriarch_overlay.md`. I had reported this as two mislabelled records.
   It is nine, and they form one continuous chain from Lamech to Nahor: `Shu-Ilishu` is

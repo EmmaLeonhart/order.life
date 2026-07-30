@@ -24,18 +24,33 @@ later item applies the approved set. Where the evidence does not decide the case
 so in the row rather than picking — an unresolved row is a correct outcome, a guessed
 one is not.
 
-1. **Trace the `Banu Adnan` chain and the `'Udd`/`Humaisi` tangle.** Found 2026-07-30
-   (`wikibase/analysis/adnan_merge_proposed.md`, "Not covered"). Two loose ends the merge
-   proposal read but did not trace. (a) The `Banu Adnan` chain, Q86403–Q86431, twelve
-   records from `Ithobaal` down to `Imran`, sits between the Emesene priest-kings and
-   `Adnan Banu Ismail` — and **`Ithobaal` is a Tyrian royal name, not an Arab one**, which
-   looks like the same splice defect as the Emesene one, a second time. (b) The ancestry
-   above `'Adnaan Bin Imaam 'Udd` (Q65555), which runs into `'Udd`/`Humaisi`/`N.N.`
-   placeholders and terminates without reaching anything. Walk both, and extend
-   `adnan_merge_proposed.md` with a section per chain: what each record is, where the
-   names come from, and whether the chain is a genuine tradition, a splice, or filler.
-   Propose only. If (a) turns out to be a Tyrian splice, say what it would attach to
-   rather than proposing the cut — the cut is Emma's, and it is entangled with R1.
+_(empty — every proposed-review item is done. All five reports are written and
+awaiting Emma's decisions; see `## AWAITING EMMA` below. Refill from `todo.md`.)_
+
+---
+
+## AWAITING EMMA — reports written, decisions open
+
+Not blocked work — finished work. Each is a review file with the evidence; the decision
+is the deliverable Emma owes back, and the apply pass is a later item.
+
+1. `planning/lineage_bridges_proposed.md` — **Adam→Genghis**: take A1 (attach Khaidu to
+   the Borjigin chain already in the dump) or A2 (Haplogroup C2-M217), or both.
+   **Jimmu↔Heo**: strike it — it cannot be drafted without inventing scripture — and
+   substitute B1 (Prince Junda → Yamato no Ototsugu), or drop it. **Kosala→Heo**: held
+   behind the Kosala dedup, then C1.
+2. `wikibase/analysis/epic_vs_dump.md` — eight rows in "which side moves". The one that
+   needs Emma most: chapter 181's "bore him ten sons", where the data fix means inventing
+   nine named sons and the prose fix means dropping a Garakguk-gi detail.
+3. `wikibase/analysis/patriarch_overlay.md` — **the biggest open question in the dump.**
+   Is the Genesis 11 line under Mesopotamian royal names a corrupt import (relabel all
+   nine) or deliberate euhemerism (change nothing, add a note)? The two fixes are
+   opposites. Everything under the Table of Nations depends on it.
+4. `wikibase/analysis/adnan_merge_proposed.md` — decide **R1** (cut the Emesene splice at
+   `Fihr born of Iamblichus`) *before* **M3** (which of the three Adnan records survives).
+   The order matters; M3 is not decidable on its own.
+5. The Kosala dedup — three parallel imports of one king list — gates both C1 above and
+   any further Indian-line work.
 
 ---
 

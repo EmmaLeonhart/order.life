@@ -185,3 +185,98 @@ The `Banu Adnan` chain (Q86403–Q86431, twelve records from `Ithobaal` down to 
 `Ithobaal` is a Tyrian royal name, not an Arab one, which suggests the same kind of splice
 as the Emesene one and may be the same defect twice. **Worth its own item; not asserted
 here.**
+
+---
+
+# Addendum — the two chains left untraced
+
+**Added 2026-07-30, same day, by the following work-loop item.** Still propose-only.
+
+## (a) The `Banu Adnan` chain — a constructed bridge, not a tradition
+
+Fifteen records between Adnan and the Emesene splice, ancestor to descendant:
+
+```
+Adnan Banu Ismail  Q86433
+  Imran Q86431 → Harith Q86429 → Salih Q86427 → Nashir Q86425 → Hani Q86423
+  → Malik Q86419 → Zayd Q86415 → Qays Q86411 → Amr Q86409 → Hudhayfah Q86407
+  → Aziz Q86405
+      ├── Ithobaal Banu Adnan  Q86403 ──┐
+      └── N.N.                 Q49799 ──┴──→ N.N. Q49763 → Malichus Banu Adnan Q49687
+                                                              ├── Sampsiceramus I Q72535
+                                                              └── Creator BRAHMA Q1952
+```
+
+**Correcting the queue item that scheduled this.** It said the chain runs "from `Ithobaal`
+down to `Imran`" and treated Ithobaal as the chain's head. The direction is the other way:
+Adnan is at the top and Ithobaal sits second from the bottom, as one of the two recorded
+parents of `N.N.` Q49763 — almost certainly father and mother, since Q49799 is Ithobaal's
+sibling by Aziz and the pair converge on one child. Ithobaal is in the direct line, but he
+does not begin it.
+
+**Verdict: filler, with one bad merge.**
+
+- **Not a tradition.** Imran, Harith, Salih, Nashir, Hani, Malik, Zayd, Qays, Amr,
+  Hudhayfah, Aziz are ordinary Arab given names in no recognised Adnanite king list. Eleven
+  single-child generations of common names, followed by two unnamed `N.N.` records, is the
+  signature of a bridge someone built to span a gap, not of a transmitted genealogy.
+- **It runs the wrong way to be Adnanite.** A genuine Adnanite chain descends from Adnan
+  toward Quraysh. This one descends from Adnan toward **Emesa** — it exists to reach
+  `Sampsiceramus I`, which is the splice this report's main section proposes cutting (R1).
+  Its entire purpose is the thing under question.
+- **`Ithobaal` is a red herring.** I flagged the name as Tyrian and suspected a second
+  splice. It is not connected to `Ithobaal I` of Tyre (Q38158, Jezebel's father), nor to
+  `Ithobaal Genarch` (Q51800) in the patriarch overlay. Three unrelated records share the
+  name. **No second splice — I was wrong to suspect one.**
+- **One real defect:** `Malichus` (Q49687) has two children, `Sampsiceramus I` and
+  **`Creator BRAHMA` (Q1952)**. Brahma also has `India Genarch` and an `N.N.` as parents, so
+  he belongs to the eponymous-ancestor "Genarch" layer and the Malichus edge is spurious.
+  **Proposed: cut `parent(Q1952) = Q49687`.** Confidence: **decided** — nothing places the
+  Hindu creator god among the sons of a Nabataean dynast, and Brahma's other parent already
+  gives him a coherent position.
+
+**Recommendation: this chain lives or dies with R1.** If the Emesene splice is cut, all
+fifteen records lose their only purpose and should be retired with it. If it is kept, they
+stay as the bridge they were built to be. **Do not decide them separately.**
+
+## (b) The `'Udd` / `Humaisi` tangle — a real tradition, triplicated
+
+Above `'Adnaan Bin Imaam 'Udd` (Q65555), which carries **three** parents:
+
+| QID | Label | Parents | Note |
+|---|---|---|---|
+| Q65555 | `'Adnaan Bin Imaam 'Udd` | Q66394, Q66382, Q66385 | three parents |
+| Q66385 | `Imaam 'Udd \ Add Ben Add Ben ?'Udadh` | Q67555, Q67549, Q67552 | three parents |
+| Q66394 | `Udd son of Umaisi` | Q67561 | |
+| Q67549 | `'Udadh ('Udaz) Beyt Kedar` | Q67561, Q69287 | |
+| Q67552 | `Humaisi' direct to Addi \ Udd  desc Malchut ben Abraham` | Q67561, Q69287 | **the label is an editorial working note** |
+| Q67561 | `Humaisi \ Umaisi  Umaisi ?` | Q69293, blank | |
+| Q66382 | `al-Mutamattarah 'Ali bin Jarham` | — | parentless root |
+| Q69287, Q69293, Q69299, Q67555 | `N.N.` / `Salaman` / blank | — | parentless roots |
+
+**Verdict: the bottom link is right and everything above it is unresolved working notes.**
+
+`'Udd` (also `Udad`) **is** Adnan's father in the standard short Adnanite genealogy —
+Adnan ← Udad ← Muqawwim ← Nahur ← Tayrah ← Ya'rub ← Yashjub ← Nabit ← Ishmael. So Q65555's
+parentage is orthodox, and this cluster is a genuine attempt at the real tradition, not
+invention.
+
+What went wrong is transmission, not content. `Udd`/`Udad`/`Udadh`/`Addi` and
+`Humaisi`/`Umaisi` each appear as several records; Q67561 fathers three of them, which then
+reconverge; two records carry three parents apiece; and **Q67552's label is not a name at
+all** — "Humaisi' direct to Addi \ Udd desc Malchut ben Abraham" is somebody's note about
+how to route the chain, saved into the label field. Five parentless roots terminate it
+without reaching Ishmael.
+
+**Proposed:** merge the `Udd`/`Udadh`/`Addi` records into one and the `Humaisi`/`Umaisi`
+records into one; the multi-parent rows resolve themselves once the duplicates collapse.
+**Confidence: probable, not decided** — the transliterations are close enough that they are
+plausibly one figure each, but Arabic genealogies do repeat names across generations, and
+nothing here proves `'Udadh` and `Udd` are not grandfather and grandson. **Flagging rather
+than asserting.** Q67552's label should be moved to a note field whichever way the merge
+goes.
+
+**Relation to M3.** This does not change the M3 recommendation. Q65555 still reaches nothing
+above these roots, so it still cannot supply Muhammad a descent from Abraham — but its
+parentage is now known to be *orthodox and broken* rather than fabricated, which is an
+argument for preserving its edges through the merge rather than discarding them.
