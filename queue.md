@@ -24,35 +24,52 @@ later item applies the approved set. Where the evidence does not decide the case
 so in the row rather than picking — an unresolved row is a correct outcome, a guessed
 one is not.
 
-**SCOPE, set by Emma 2026-07-30: cycles only.** She is not looking for general errors in
-the dump. **A large number of unexpected things in this dump are intentional** — the
-Emesene route in Muhammad's ancestry was confirmed as 100% authored, and the Genesis 11
-patriarchs under Mesopotamian royal names are very likely the same. Do NOT open new
-general-defect sweeps. "Unexpected" is not evidence of "wrong" here; the standard is
-whether the graph asserts something **impossible**, and a person being their own ancestor
-is the one thing that always is.
+**READ `wikibase/analysis/cycle_policy.md` BEFORE TOUCHING ANY CYCLE.**
 
-1. **Dedupe the parallel imports that generate cycles for free.** From
-   `cycle_origins.md`: several cycles are the same defect imported twice — `YAMA Dharma ->
-   SUNITA Anga` exists as both Q2035->Q153444 and Q160673->Q160640, and `Esther bat Sahlan`
-   (Q88454) carries the same bad edge to two different `Esther bat Yosef` records (Q88380,
-   Q90982). Same family of problem as the triplicated Kosala king list. Deduplicating the
-   import removes these cycles **without anyone choosing an edge to cut**, which is strictly
-   safer. Propose the merge set in a NEW file. Do not cut edges.
+**This is not a regular genealogy project.** It is a literary device that links people
+across time and space, and it is building a **synoptic mythology** — Greek, Near Eastern,
+Egyptian, Trojan, Chinese, Mongol lines integrated into one descent. The cross-tradition
+joins are the product, not incidental structure.
 
-2. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
-   built before `qa_cycles_vs_wikidata.tsv` and never saw it. **7 of its 25 "unresolved"
-   cycles contain an edge Wikidata explicitly contradicts** — decided already, nobody
-   noticed. Fold it in, then re-check the 31 "low" rows the same way. New file; do not edit
-   the existing TSVs.
+**Everything unexpected here that is not an error was imported deliberately by Emma.** The
+Emesene route in Muhammad's ancestry, the Genesis 11 patriarchs under Mesopotamian royal
+names, the Mongol line descending from the Buddha. Surprising is not evidence of broken.
+Do not open general-defect sweeps.
 
-3. **Propose the 56-edge cut set, not 71 cuts.** 87 of the 367 cycle edges appear in more
-   than one cycle; 56 edges break all 71. One 12-edge run through the Portuguese de Aguiar
-   family appears in seven cycles each. Cut-set first, per-cycle second.
+**"Load-bearing" means the ancestors that come through it — depth, upward.** NOT descendant
+count. `qa_cycles_load.tsv` scores cycles by descendants lost, which is *width*, which is
+the wrong metric and must not be used to rank repairs.
 
-4. **Resolve the remaining cycles once 1-3 have run.** Leave the mythic tier (Danaus Q74973,
-   Belus Q90576, Atlas Q130582) for last — those cuts are a claim about which tradition
-   wins, not data cleaning, so surface the choice rather than making it.
+**Repair order, strictly — always prefer the fix that preserves the most connection:**
+1. **UNMERGE** an improperly merged record. Both lines survive. This is the default.
+2. **DEDUPE** parallel imports. Removes cycles with no edge chosen.
+3. **CUT** only if 1 and 2 do not apply, and **never** an edge that is the only link
+   between two traditions.
+4. **DELETE** only where the loop is genuinely terminal — nothing substantial above it.
+   Keep the entry point, drop the rest.
+
+1. **Unmerge `Tros` (Q74698) — breaks four mythic cycles, severs nothing.** Diagnosed
+   2026-07-30, see `cycle_policy.md`. The record carries two incompatible parent sets at
+   once: primordial (Aether, Dies, Terra, Erebos, Nyx) and Trojan (Erichthonius of Dardania
+   Q132328, Astyoche Q131114), plus 70 children spanning both tiers including Iapetos
+   (Q75225), Ops (Q74677) and Danaus (Q74973). Split into Tros of Dardania and the
+   primordial figure; then drop the two spill edges `Tros -> Danaus` and `Danaus -> Nilus`
+   (Nilus is Danaus's ancestor via Anchiroe, not his child). **Naming the primordial half is
+   Emma's call — the dump does not say and guessing would be inventing.** Propose the split
+   in a new file; apply nothing.
+
+2. **Unmerge/dedupe the long Iberian chains — do NOT cut them.** Seven of the eight cycles
+   of length >= 20 run through one twelve-edge stretch of the Portuguese de Aguiar family
+   ending at Heracles. `Barbara, imperatriz of Rome` / `Bárbara, Princess of Rome` is an
+   accented duplicate pair and `Diogo Afonso **Afonso** de Aguiar` is a doubled name — both
+   unmerge signatures. The join to Heracles is why the chain exists and must survive.
+
+3. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
+   built before `qa_cycles_vs_wikidata.tsv` and never saw it. 7 of its 25 "unresolved"
+   cycles contain an edge Wikidata explicitly contradicts. Most cycle records have working
+   Wikidata ids, which is what makes unmerging tractable — use them.
+
+4. **Work the remaining cycles under the repair order above.** Unmerge candidates first.
 
 ---
 
