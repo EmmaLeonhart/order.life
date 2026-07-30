@@ -234,6 +234,15 @@ build: reconcile Q85869 into Q129307, Q86435 into Q129387, and the three Adnan r
 one — then Muhammad's line and the Banu Ismail chain meet where they should. That is a
 dedup job on a load-bearing junction, so it is Emma's call and not a mechanical one.
 
+> **Partly superseded — Emma, 2026-07-30: "Muhammad's genealogy there is 100% intentional."**
+> The route through the priest-kings of Emesa is authored, not an import artifact. The
+> "DATA GAP" row above — *Muhammad reaches an Adnan not connected to Ishmael* — is
+> therefore **not a defect**: he reaches `Adnan Banu Ismail` (Q86433) at 38 generations by
+> the intended route, and Q86433 does reach Abraham. Recount the verdict tally with that
+> row as CONFIRMED. Whether the remaining duplicates (two Ishmaels, two Qedars, three
+> Adnans) are also intentional is **open** — see the "After the decision" section of
+> `adnan_merge_proposed.md`. Do not act on the merge sentence above until that is answered.
+
 Dozens of further records carry the chain inside *patronymic label strings* —
 `Nizar ibn Ma'ad Aladnani` (Q64253), `Banu Rashaida ibn Ghatafan ibn Qais ibn Mudar ibn
 Nizar ibn Ma'add ibn Adnan` (Q64723). Those are a cross-check on any proposed merge: the

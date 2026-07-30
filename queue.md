@@ -24,15 +24,38 @@ later item applies the approved set. Where the evidence does not decide the case
 so in the row rather than picking — an unresolved row is a correct outcome, a guessed
 one is not.
 
-_(empty — every proposed-review item is done. All five reports are written and
-awaiting Emma's decisions; see `## AWAITING EMMA` below. Refill from `todo.md`.)_
+**SCOPE, set by Emma 2026-07-30: cycles only.** She is not looking for general errors in
+the dump. **A large number of unexpected things in this dump are intentional** — the
+Emesene route in Muhammad's ancestry was confirmed as 100% authored, and the Genesis 11
+patriarchs under Mesopotamian royal names are very likely the same. Do NOT open new
+general-defect sweeps. "Unexpected" is not evidence of "wrong" here; the standard is
+whether the graph asserts something **impossible**, and a person being their own ancestor
+is the one thing that always is.
+
+1. **Resolve the 25 unresolved ancestry cycles.** `qa_cycles_proposed.tsv` proposes cuts
+   for 46 of 71 cycles (10 high, 5 medium, 31 low) and leaves **25 with no cut proposed**
+   because no evidence separated their edges. Those 25 are the work. Cross-check each
+   against `qa_cycles_vs_wikidata.tsv`, where **289 of 514 cycle edges are still
+   `unknown`** — an unknown edge next to a `contradicted` one inside the same cycle is the
+   handle. Output a NEW file, do not edit the existing TSVs. Propose only. An unresolved
+   row stays unresolved; do not manufacture a cut to clear the count.
+   **Before proposing any cut, check whether the cycle is authored** — several sit in the
+   mythic tier (Danaus Q74973, Libya Q132283, Shaodian/Yellow Emperor Q6421, the Q2035
+   Indian chain). If a cycle looks deliberate, say so and cut nothing.
 
 ---
 
 ## AWAITING EMMA — reports written, decisions open
 
-Not blocked work — finished work. Each is a review file with the evidence; the decision
-is the deliverable Emma owes back, and the apply pass is a later item.
+**Read the scope note above first.** These reports were written as defect reports before
+Emma set the cycles-only scope and said much of what looks wrong is intentional. Treat
+their "DATA ERROR" verdicts as *unconfirmed* until she rules on each — R1 was ruled
+intentional and that invalidated eight of that report's twelve proposed merges. **Do not
+apply anything from these; do not extend them.**
+
+**DECIDED 2026-07-30 — R1: the Emesene route in Muhammad's ancestry is 100% intentional.**
+The splice stays. `adnan_merge_proposed.md` is updated; M5–M12 and the "Banu Adnan is
+filler" verdict are withdrawn.
 
 1. `planning/lineage_bridges_proposed.md` — **Adam→Genghis**: take A1 (attach Khaidu to
    the Borjigin chain already in the dump) or A2 (Haplogroup C2-M217), or both.

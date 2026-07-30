@@ -4,6 +4,36 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **Emma: "Muhammad's genealogy there is 100% intentional." And: cycles only.** Two
+  corrections to how I was working, and the second is the bigger one.
+
+  R1 is answered — the Emesene route stays. I had the counter-evidence and walked past it.
+  The record's own label is `Fihr born of Iamblichus`, which is not what a name-collision
+  merge produces, it is what somebody writes when they mean it; and I wrote in the report
+  that connecting Quraysh to the Sampsigeramids "is a real genealogical speculation" and
+  then filed it as a defect anyway. By the report's own logic that also withdraws M5–M12
+  (merging the `Banu Ismail` chain into Muhammad's line would pull the authored route
+  apart) and the verdict that the `Banu Adnan` chain is filler. Withdrawn in place, with
+  what survives listed separately.
+
+  **The scope correction matters more.** Emma is looking for cyclical errors only, and a
+  large number of unexpected things in this dump are intentional. I spent this session
+  running general-defect sweeps and reporting everything surprising as broken — the
+  patriarch overlay, the Emesene splice, the Banu Adnan chain. At least one of those is
+  authored and I now think the patriarch overlay is too, for the reason I already gave in
+  that report and then under-weighted: nobody renaming Noah by accident also gives the
+  renamed record Naamah and Emzara as wives. **Unexpected is not evidence of wrong here.**
+  The standard is impossibility, and a person being their own ancestor is the one thing
+  that always qualifies. Queue rescoped to the 25 unresolved cycles; the five existing
+  reports marked do-not-apply and do-not-extend pending her rulings.
+
+  Also confirmed for the record: **nothing was removed.** All five cycles artifacts
+  (`cycles.html`, `qa_cycles.tsv`, `qa_cycles_load.tsv`, `qa_cycles_proposed.tsv`,
+  `qa_cycles_vs_wikidata.tsv`) are untouched this session — `git diff 54dca9a00..HEAD`
+  shows eight files, none of them a cycles file. The only queue.md deletions were the two
+  items I completed and the wrong cron schedules on T1.
+
+
 - **Cleared the queue. Two chains traced, one suspicion of mine retracted.** Addendum on
   `adnan_merge_proposed.md`. (a) The `Banu Adnan` chain is fifteen records of ordinary Arab
   given names in no recognised king list, running *downward* from Adnan toward Emesa — a

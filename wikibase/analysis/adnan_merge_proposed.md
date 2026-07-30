@@ -2,6 +2,26 @@
 
 **Drafted 2026-07-30 by the autonomous work-loop (queue item 1).**
 
+> ## ⚠ R1 IS DECIDED — Emma, 2026-07-30: *"Muhammad's genealogy there is 100% intentional."*
+>
+> **The Emesene splice stays. R1 is withdrawn — do not cut
+> `parent(Fihr Q153798) = Iamblichus Q153799`.** Muhammad's descent through the
+> Sampsigeramids of Emesa is authored, not an import artifact, and this report treated it
+> as a defect throughout. Read the whole "Finding" section below as *description of an
+> intended structure*, not as a fault report.
+>
+> **What that invalidates, by this report's own logic** (see "Recommendation: decide R1
+> first"): with the splice kept, **the `Banu Ismail` chain is not the correct spine waiting
+> to replace it** — it is a parallel line, and merging it into Muhammad's line would
+> destroy the authored route. **M5–M12 are withdrawn.** The `Banu Adnan` chain is likewise
+> intentional, not filler, and its fifteen records stay.
+>
+> **What survives:** M1, M2, M3, M4, R2–R6, and the `Creator BRAHMA` cut — none of those
+> depend on the splice. See "After the decision" at the end.
+>
+> **What is still open:** whether "intentional" extends to the `Banu Ismail` chain and the
+> three Adnan records, or stops at the Emesene route. M3 turns on that. Asked, not assumed.
+
 **Propose only. Nothing merged, nothing edited.** No `wikibase/items/*.json` and no
 `wikibase/analysis/*.tsv` was modified. Every row below records the proposed change and
 the evidence for it; rows the evidence does not settle say so.
@@ -280,3 +300,72 @@ goes.
 above these roots, so it still cannot supply Muhammad a descent from Abraham — but its
 parentage is now known to be *orthodox and broken* rather than fabricated, which is an
 argument for preserving its edges through the merge rather than discarding them.
+
+---
+
+# After the decision — Emma, 2026-07-30
+
+*"Muhammad's genealogy there is 100% intentional."*
+
+R1 is answered: **the Emesene splice stays.** Recording what that changes, because most of
+this report was written on the assumption that the splice was a defect and it is not.
+
+## What I got wrong, and why it matters
+
+The report's reasoning ran: Fihr's father should be Ghalib; here it is a Hellenistic
+priest-king; the correct chain is present elsewhere in the dump and unused; therefore the
+splice is an import artifact and the `Banu Ismail` chain is the spine waiting to replace
+it. The premise was that no author would deliberately route Quraysh through Roman Syria.
+
+I even noted the counter-evidence and walked past it. The record's own label —
+**`Fihr born of Iamblichus`** — is not what a name-collision merge produces; it is what
+somebody writes when they mean it. I read that as "the splice is deliberate" and then
+concluded it was still wrong, which does not follow. Same with the Sampsigeramids being a
+genuinely Arab dynasty: I wrote that connecting Quraysh to them "is a real (if minority)
+genealogical speculation" and then filed it as a defect anyway.
+
+## Withdrawn
+
+| # | Was | Now |
+|---|---|---|
+| **R1** | cut Fihr → Iamblichus, repoint to Ghalib | **withdrawn.** The route is authored |
+| **M5** | merge `Fihr Banu Ismail` Q86475 into Q153798 | **withdrawn.** It was paired with R1; merging now would import a second father onto an intentional record |
+| **M6–M12** | merge the `Banu Ismail` duplicates (Ghalib, Lu'ay, Ka'b, Murrah, Kilab, Qusayy, Abd Manaf) into Muhammad's line | **withdrawn.** With the splice kept, these are not duplicates of Muhammad's ancestors — they are a parallel line, and collapsing them would pull the authored route apart |
+| **Addendum (a)** | the `Banu Adnan` chain is "filler, a constructed bridge" | **withdrawn.** It is the authored connective tissue between Adnan and Emesa. Fifteen records stay |
+
+## Still standing — none of these touch the splice
+
+| # | Item | Status |
+|---|---|---|
+| M1 | `Ismail Ancestor of the Arabs` Q85869 → `Ishmael` Q129307 | see the open question below |
+| M2 | `Qedar Banu Ismail` Q86435 → `Qedar (person)` Q129387 | same |
+| M3 | the three Adnans → one | **still the hinge**, and the decision did not settle it |
+| M4 | `Ma'ad` Q64732 → Q110802 | unaffected |
+| R2 | Adnan sits at the wrong end of the `Banu Ismail` chain | unaffected — an internal error in that chain regardless of what the chain is for |
+| R3 | seven records in no Quraysh list | unaffected, still "probable" |
+| R4 | Qusayy/Abd Manaf inverted | unaffected — the dump contradicts itself here |
+| R5 | Khuzayma missing | unaffected |
+| R6 | **Q153797 has no `persons.tsv` row** | unaffected, and now *more* urgent: it sits inside an authored line, so it is a hole in intended structure rather than in junk |
+| — | cut `parent(Creator BRAHMA Q1952) = Malichus Q49687` | unaffected. Nothing makes the Hindu creator god a son of a Nabataean dynast, intentionally or otherwise |
+
+## The question the decision does not answer
+
+**Does "intentional" cover the `Banu Ismail` chain and the three Adnan records, or only the
+Emesene route?**
+
+The two readings give opposite instructions and I am not guessing between them:
+
+- **If the Emesene route is the only authored part**, then `Banu Ismail` is still import
+  duplication — M1 and M2 proceed, and M3 resolves toward Q86433, the Adnan the authored
+  route actually reaches.
+- **If `Banu Ismail` is authored too**, it is a second deliberate descent line running
+  parallel to the Emesene one, and M1/M2 must not be applied — merging its head into
+  `Ishmael` Q129307 would fuse two lines that were built separate. M3 then has no answer at
+  all, because three Adnans would be three intended figures.
+
+One detail leans toward the second reading and is worth weighing: `Ismail Ancestor of the
+Arabs` (Q85869) records **Sarah** as Ishmael's mother, not Hagar. I filed that as the
+clinching evidence that Q85869 is a corrupt duplicate. It is equally the signature of a
+deliberately distinct figure. I no longer think that row settles anything.
+
+**Owner: Emma. Blocks: M1, M2, M3.** Everything else above can proceed on its own.
