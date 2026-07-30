@@ -24,21 +24,7 @@ later item applies the approved set. Where the evidence does not decide the case
 so in the row rather than picking — an unresolved row is a correct outcome, a guessed
 one is not.
 
-1. **Characterize the "Mesopotamian king list over the patriarchs" overlay.** Found
-   2026-07-30 (`epic_vs_dump.md`, Finding 1). The record occupying **Noah's** slot —
-   Lamech's son, father of Ham and Japheth, spouses Naamah and Emzara — is labelled
-   `Shu-Ilishu` (Q70439) and carries the Wikidata id of a king of Isin. The record
-   occupying **Eber's** slot, Joktan's father, is `Ilum-bani` (Q70454), another Isin
-   king, whose father is `Naram-Ilum` (Q70451). This is not two typos; a king list has
-   been laid over the biblical patriarch line, keeping the biblical edges and
-   substituting the Mesopotamian names. Walk the whole neighbourhood — Q70430–Q70500 and
-   everything adjacent to it — and write `wikibase/analysis/patriarch_overlay.md`: per
-   record, the label it carries, the Wikidata item that label points at, the biblical
-   figure its *edges* say it is, and the evidence for that identification. Say
-   explicitly which rows the edges do not decide. Propose only. This node set is
-   load-bearing for the Table of Nations, so nothing here is applied without Emma.
-
-2. **Trace the `Banu Adnan` chain and the `'Udd`/`Humaisi` tangle.** Found 2026-07-30
+1. **Trace the `Banu Adnan` chain and the `'Udd`/`Humaisi` tangle.** Found 2026-07-30
    (`wikibase/analysis/adnan_merge_proposed.md`, "Not covered"). Two loose ends the merge
    proposal read but did not trace. (a) The `Banu Adnan` chain, Q86403–Q86431, twelve
    records from `Ithobaal` down to `Imran`, sits between the Emesene priest-kings and
@@ -50,6 +36,8 @@ one is not.
    names come from, and whether the chain is a genuine tradition, a splice, or filler.
    Propose only. If (a) turns out to be a Tyrian splice, say what it would attach to
    rather than proposing the cut — the cut is Emma's, and it is entangled with R1.
+
+---
 
 ## DEFERRED — do NOT interleave with the live work-loop
 
@@ -64,8 +52,12 @@ and can no longer run; all downstream analysis reads the local dump.)_
 
 ## PINNED TAIL (always last — keep at bottom on every re-fill)
 
-- **T1. Ensure the three work-loop crons are running** — work-loop (`0,30 * * * *`),
-  auto-flush (`15,45 * * * *`), status-report (`50 * * * *`). Restart any that a
+- **T1. Ensure the three work-loop crons are running** — work-loop (`3 * * * *`),
+  auto-flush (`15 * * * *`), status-report (`42 * * * *`). Restart any that a
   planning burst / queue re-fill killed; start them if this session never did.
+  (Schedules corrected 2026-07-30 to match the `autonomous-loop` skill and what is
+  actually running; the half-hourly figures this line used to give were never the
+  skill's cadence. Crons are session-local — they die with the session, so a fresh
+  session always creates them.)
 - **T2. Run the status-report action once more, independently** — end-of-session
   summary of everything that happened this session.

@@ -4,6 +4,31 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **The whole of Genesis 11 is in the dump under Mesopotamian royal names.**
+  `wikibase/analysis/patriarch_overlay.md`. I had reported this as two mislabelled records.
+  It is nine, and they form one continuous chain from Lamech to Nahor: `Shu-Ilishu` is
+  Noah, `Puzur-Ashur` is Shem, `Ishme-Dagan` is Arpachshad, `Naram-Ilum` is Shelah,
+  `Ilum-bani` is Eber, `Iddin-Sin` is Peleg, `Shu-Sin` is Reu, `Ur-Ninurta` is Serug. The
+  identifications are forced by the children, not by the names: Puzur-Ashur fathers Elam,
+  Ashur, Lud and Aram — four of Shem's five sons in Genesis 10:22 — and Ilum-bani fathers
+  Joktan and Iddin-Sin, which is Eber's pair. **Only the patriarchs in the direct line were
+  renamed. Every branch child kept its biblical name.**
+
+  Two attachment points. Noah has *two fathers* — Lamech, and `Ilushu`, who heads the
+  Sargonic dynasty of Akkad running up to Rimush and Sargon's wife Tashlultum. And the
+  complete First Dynasty of Babylon, Sumuabum through Hammurabi to Samsuditana in correct
+  order, hangs off Serug as a side branch.
+
+  **I don't think this is corruption, and I'm not acting as if it were.** A careless merge
+  that renamed Noah to Shu-Ilishu would have no reason to also give Shu-Ilishu *Naamah and
+  Emzara* as wives — the two traditional names for Noah's wife. Nor to include `Gionitus`,
+  Noah's apocryphal fourth son from Pseudo-Methodius, or the Septuagint's extra generation
+  Cainan. That looks like deliberate euhemerism: someone identifying each patriarch with a
+  specific historical Mesopotamian ruler. If that reading is right the fix is a note, not a
+  relabel. The evidence does not settle it and the two fixes are opposites, so it goes to
+  Emma undecided. Superseding notice added to the earlier report so nobody acts on its
+  narrower recommendation.
+
 - **Muhammad's ancestry leaves the Arab genealogy for twelve generations and passes
   through the Roman client kings of Emesa.** Went in expecting a duplicate-record merge
   (`wikibase/analysis/adnan_merge_proposed.md`); the duplicates are real but they are

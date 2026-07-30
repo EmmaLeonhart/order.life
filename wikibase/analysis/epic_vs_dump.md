@@ -90,10 +90,20 @@ Bridge A in `planning/lineage_bridges_proposed.md` proposes to use for Genghis K
 chapter that says "descendant of Noah" is currently unsupported, not because the edge is
 missing but because the node is wearing the wrong name.
 
-**Verdict: DATA ERROR. The dump moves, not the chapter.** Recommended: relabel Q70439 to
-Noah and repoint its `wikidata_qid` at Wikidata's Noah item — **look that identifier up
-before applying; this report does not assert it** — then merge or retire Q99058, and
-relabel Q70454 to Eber.
+**Verdict: DATA ERROR. The dump moves, not the chapter.**
+
+> **Superseded 2026-07-30, same day.** Working the follow-up item found this is not two
+> mislabelled records but **nine, forming one continuous chain** — the whole of Genesis 11
+> with every patriarch in the direct line renamed to a Mesopotamian ruler, while their
+> children keep their biblical names. See **`wikibase/analysis/patriarch_overlay.md`**.
+> The recommendation below (relabel Q70439 and Q70454) is still right and is now known to
+> be incomplete: relabelling two of nine leaves the chain half-converted. That report also
+> raises the possibility that the overlay is deliberate euhemerism rather than corruption,
+> which would mean not relabelling at all. **Do not act on the paragraph below on its own.**
+
+Originally recommended: relabel Q70439 to Noah and repoint its `wikidata_qid` at Wikidata's
+Noah item — **look that identifier up before applying; this report does not assert it** —
+then merge or retire Q99058, and relabel Q70454 to Eber.
 **Do not apply before Emma approves** — Q70439 also carries a spurious third parent
 (`Ilushu` Q70436 alongside Lamech and Bat-Enosh), so it is already on the multi-parent
 worklist and the two fixes should land together.
