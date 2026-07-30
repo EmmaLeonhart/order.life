@@ -24,25 +24,7 @@ later item applies the approved set. Where the evidence does not decide the case
 so in the row rather than picking — an unresolved row is a correct outcome, a guessed
 one is not.
 
-1. **Propose the merge set for the fragmented Ishmael → Adnan → Muhammad descent.**
-   Found 2026-07-30 by the epic sweep (`wikibase/analysis/epic_vs_dump.md`, Finding 5).
-   Chapter 191's claim is backed by the dump, but the chain is split across duplicate
-   records: Abraham has **two Ishmaels** (`Ishmael` Q129307 with the twelve Genesis sons,
-   and `Ismail Ancestor of the Arabs` Q85869 carrying the whole 36-generation Banu Ismail
-   chain), **two Qedars** (Q129387, childless; Q86435, carrying the chain), and **three
-   Adnans** (Q86433 reaching Abraham in 37 generations, Q65555 which Muhammad actually
-   descends from in 16 and which reaches nothing, and the stub Q111364). Muhammad's line
-   therefore never passes through an Adnan connected to Abraham. Write
-   `wikibase/analysis/adnan_merge_proposed.md`: per proposed merge, the records, which
-   one should survive and why, what each contributes (children, spouses, wikidata id),
-   and what breaks if they are merged the other way. Use the Arabic patronymic label
-   strings — `Nizar ibn Ma'ad Aladnani` (Q64253), `Banu Rashaida ibn Ghatafan ibn Qais
-   ibn Mudar ibn Nizar ibn Ma'add ibn Adnan` (Q64723) — as the independent cross-check on
-   each link, since the labels record the parentage the edges are meant to hold. Propose
-   only — do NOT merge anything. Where two records disagree and the labels do not settle
-   it, say so in the row.
-
-2. **Characterize the "Mesopotamian king list over the patriarchs" overlay.** Found
+1. **Characterize the "Mesopotamian king list over the patriarchs" overlay.** Found
    2026-07-30 (`epic_vs_dump.md`, Finding 1). The record occupying **Noah's** slot —
    Lamech's son, father of Ham and Japheth, spouses Naamah and Emzara — is labelled
    `Shu-Ilishu` (Q70439) and carries the Wikidata id of a king of Isin. The record
@@ -56,7 +38,18 @@ one is not.
    explicitly which rows the edges do not decide. Propose only. This node set is
    load-bearing for the Table of Nations, so nothing here is applied without Emma.
 
----
+2. **Trace the `Banu Adnan` chain and the `'Udd`/`Humaisi` tangle.** Found 2026-07-30
+   (`wikibase/analysis/adnan_merge_proposed.md`, "Not covered"). Two loose ends the merge
+   proposal read but did not trace. (a) The `Banu Adnan` chain, Q86403–Q86431, twelve
+   records from `Ithobaal` down to `Imran`, sits between the Emesene priest-kings and
+   `Adnan Banu Ismail` — and **`Ithobaal` is a Tyrian royal name, not an Arab one**, which
+   looks like the same splice defect as the Emesene one, a second time. (b) The ancestry
+   above `'Adnaan Bin Imaam 'Udd` (Q65555), which runs into `'Udd`/`Humaisi`/`N.N.`
+   placeholders and terminates without reaching anything. Walk both, and extend
+   `adnan_merge_proposed.md` with a section per chain: what each record is, where the
+   names come from, and whether the chain is a genuine tradition, a splice, or filler.
+   Propose only. If (a) turns out to be a Tyrian splice, say what it would attach to
+   rather than proposing the cut — the cut is Emma's, and it is entangled with R1.
 
 ## DEFERRED — do NOT interleave with the live work-loop
 

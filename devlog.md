@@ -4,6 +4,32 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **Muhammad's ancestry leaves the Arab genealogy for twelve generations and passes
+  through the Roman client kings of Emesa.** Went in expecting a duplicate-record merge
+  (`wikibase/analysis/adnan_merge_proposed.md`); the duplicates are real but they are
+  downstream of a splice. Walking Muhammad (Q65705) up his agnatic line gives the
+  traditional Quraysh sequence for eleven generations and then `Fihr born of Iamblichus`
+  (Q153798) — the label says it outright. In every Arab genealogy Fihr's father is Ghalib.
+  Here it is a Hellenistic priest-king, and the line spends twelve generations among the
+  Sampsigeramids of Emesa before rejoining an Arab chain at `Malichus Banu Adnan`. That is
+  why Muhammad sits 38 generations below Adnan where tradition puts him at about 21.
+
+  **The correct chain is in the dump, unused.** The `Banu Ismail` series (Q85869 → … →
+  Q86433) holds the Adnanite/Quraysh sequence in correct order — Nizar, Mudar, Ilyas,
+  Kinana, al-Nadr, Malik, Fihr, Ghalib, Lu'ay, Ka'b, Murrah, Kilab — which is exactly the
+  segment the Emesene splice displaced. It is wrong at one end: Adnan terminates the chain
+  as its youngest member, 22 generations below his own descendants, Ma'ad is missing
+  entirely, Qusayy and Abd Manaf are inverted, and seven names appear that are in no
+  Quraysh list. Twelve merges and six repairs proposed, nothing applied.
+
+  The hinge is which of the three Adnan records survives, and the data does not decide it:
+  Q111364 has the Wikidata id and nothing else, Q86433 has the route to Abraham, Q65555 has
+  the descent to Muhammad and nine children. Each is right by a different measure. That one
+  goes to Emma, and it has to be decided after the Emesene cut, not before.
+
+  Left untraced and queued: the `Banu Adnan` chain begins with `Ithobaal`, a Tyrian royal
+  name, which looks like the same splice a second time.
+
 - **Swept the epic's genealogy claims against the dump; the biggest finding wasn't the one
   I went looking for.** `wikibase/analysis/epic_vs_dump.md` — 432 candidate lines from a
   predicate sweep of `gaiad_full.md`, 153 naming a wikidata-linked figure, 40 assertions
