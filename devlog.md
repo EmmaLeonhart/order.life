@@ -35,8 +35,15 @@ Dated log of autonomous work-loop progress. Newest first.
   zero parents. "Millions of modern Koreans" is not a defect — that one is true of the
   world and the dump is a genealogy, not a census. Also: chapter 185 is *more* accurate
   than the dump, which collapses Hayk→Aram to one edge where Armenian tradition has six;
-  and chapter 191's thirty-generation Adnanite line exists in the dump only as text inside
-  labels, never as edges. Queued both as follow-ups.
+  and chapter 191's thirty-generation Adnanite line — which I first reported as absent —
+  is present after all. I had checked descendants of `Ishmael` Q129307 and found no Adnan.
+  Abraham has **two** Ishmael records, and the whole 36-generation Banu Ismail chain hangs
+  off the other one, `Ismail Ancestor of the Arabs` (Q85869). Qedar is duplicated with him,
+  and there are three Adnans. The consequential part: Muhammad descends from `'Adnaan Bin
+  Imaam 'Udd` (Q65555) in 16 generations — close to the traditional count — and that record
+  reaches nothing, while the Adnan that does reach Abraham sits 38 generations above him.
+  The fix is a merge, not a build. Report corrected and the queue item rewritten to match.
+  Queued both follow-ups.
 
 - **Two of the three "missing" lineage bridges are not missing the way we thought.**
   Drafted `planning/lineage_bridges_proposed.md` (proposals only — nothing applied to the

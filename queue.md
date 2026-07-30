@@ -24,19 +24,23 @@ later item applies the approved set. Where the evidence does not decide the case
 so in the row rather than picking — an unresolved row is a correct outcome, a guessed
 one is not.
 
-1. **Extract the Adnanite genealogy from label text into proposed edges.** Found
-   2026-07-30 by the epic sweep (`wikibase/analysis/epic_vs_dump.md`, Finding 5).
-   Chapter 191 asserts the northern Arabs descend from Ishmael through thirty
-   generations to Adnan. Ishmael (Q129307) has **19 descendants in the dump and none of
-   them is Adnan**, yet dozens of records carry the chain inside their *labels* as Arabic
-   patronymics — `Nizar ibn Ma'ad Aladnani` (Q64253), `Banu Rashaida ibn Ghatafan ibn
-   Qais ibn Mudar ibn Nizar ibn Ma'add ibn Adnan` (Q64723), and so on. The genealogy is
-   present as text and absent as edges. Parse the `ibn`/`bin` chains out of
-   `persons.tsv` labels, resolve each named ancestor to an existing record where one
-   exists, and write `wikibase/analysis/adnan_chain_proposed.md`: per proposed edge, the
-   two records, the label the chain was read out of, and whether the ancestor resolved
-   to an existing QID or would need a new one. Propose only — do NOT write edges. Where
-   two labels disagree about a link, record both rather than picking.
+1. **Propose the merge set for the fragmented Ishmael → Adnan → Muhammad descent.**
+   Found 2026-07-30 by the epic sweep (`wikibase/analysis/epic_vs_dump.md`, Finding 5).
+   Chapter 191's claim is backed by the dump, but the chain is split across duplicate
+   records: Abraham has **two Ishmaels** (`Ishmael` Q129307 with the twelve Genesis sons,
+   and `Ismail Ancestor of the Arabs` Q85869 carrying the whole 36-generation Banu Ismail
+   chain), **two Qedars** (Q129387, childless; Q86435, carrying the chain), and **three
+   Adnans** (Q86433 reaching Abraham in 37 generations, Q65555 which Muhammad actually
+   descends from in 16 and which reaches nothing, and the stub Q111364). Muhammad's line
+   therefore never passes through an Adnan connected to Abraham. Write
+   `wikibase/analysis/adnan_merge_proposed.md`: per proposed merge, the records, which
+   one should survive and why, what each contributes (children, spouses, wikidata id),
+   and what breaks if they are merged the other way. Use the Arabic patronymic label
+   strings — `Nizar ibn Ma'ad Aladnani` (Q64253), `Banu Rashaida ibn Ghatafan ibn Qais
+   ibn Mudar ibn Nizar ibn Ma'add ibn Adnan` (Q64723) — as the independent cross-check on
+   each link, since the labels record the parentage the edges are meant to hold. Propose
+   only — do NOT merge anything. Where two records disagree and the labels do not settle
+   it, say so in the row.
 
 2. **Characterize the "Mesopotamian king list over the patriarchs" overlay.** Found
    2026-07-30 (`epic_vs_dump.md`, Finding 1). The record occupying **Noah's** slot —

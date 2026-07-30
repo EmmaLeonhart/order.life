@@ -37,12 +37,12 @@ claims phrased without any of those words.
 
 | Verdict | Count | Meaning |
 |---|---|---|
-| CONFIRMED | 22 | the dump backs the verse |
-| DATA GAP | 9 | the verse is right; the dump is missing the people or the edges |
+| CONFIRMED | 24 | the dump backs the verse |
+| DATA GAP | 8 | the verse is right; the dump is missing the people or the edges |
 | DATA ERROR | 4 | the verse is right; the dump holds something actively wrong |
 | PROSE ERROR | 1 | the dump is right; the verse is wrong |
 | EITHER SIDE | 1 | fixable from the verse or the data, and the choice is Emma's |
-| UNRESOLVED | 3 | neither side decides it — flagged, not guessed |
+| UNRESOLVED | 2 | neither side decides it — flagged, not guessed |
 
 ---
 
@@ -180,20 +180,54 @@ several fall" says. The dump has collapsed it to one edge. **Fix the dump.**
 
 ---
 
-## Finding 5 — Chapter 191, Arabia: the Adnanite line is entirely absent
+## Finding 5 — Chapter 191, Arabia: the Adnanite line exists twice, and Muhammad hangs off the wrong copy
 
 | Claim (ch. 191, L40751–40757) | Dump | Verdict |
 |---|---|---|
 | "Qahtan … descended from **Joktan son of Eber**" | Joktan (Q129712) exists; his father is `Ilum-bani` (Q70454), not Eber. See Finding 1 | DATA ERROR |
-| "**Adnan** … descended from **Ishmael son of Abraham**" | Ishmael (Q129307) ← Abraham (Q85228) + Hagar: **CONFIRMED**. But Ishmael has only **19 descendants** in the dump and **not one of them mentions Adnan** | DATA GAP |
-| "through a line of **thirty generations** laid" | Three records are named `Adnan` (Q86433, Q99030, Q111364). **None is connected to Ishmael.** The thirty-generation chain does not exist | DATA GAP |
-| "Adnan had twelve sons" | Not checkable — no canonical Adnan record | UNRESOLVED |
+| "**Adnan** … descended from **Ishmael son of Abraham**" | `Adnan Banu Ismail` (Q86433) → … → `Qedar Banu Ismail` (Q86435) → `Ismail Ancestor of the Arabs` (Q85869) → Abraham (Q85228) | CONFIRMED |
+| "through a line of **thirty generations** laid" | **36 generations** from Q86433 up to Q85869. Traditional lists range from about 30 to 40 | CONFIRMED |
+| "Adnan had **twelve sons**" | No Adnan record has twelve children: Q65555 has 9, Q111364 has 2, Q86433 has 1 | UNRESOLVED |
+| — | Muhammad (Q65705) reaches an Adnan record that is **not connected to Ishmael at all** | DATA GAP |
 
-Dozens of records carry Adnan in *patronymic strings* — `Nizar ibn Ma'ad Aladnani`
-(Q64253), `Banu Rashaida ibn Ghatafan ibn Qais ibn Mudar ibn Nizar ibn Ma'add ibn Adnan`
-(Q64723) — so the Adnanite genealogy is present in the dump **as text inside labels** and
-absent from it **as edges**. That is a tractable extraction job and probably worth its own
-queue item; it is not in this item's scope.
+**Correction to an earlier reading.** A first pass over this chapter checked descendants of
+`Ishmael` **Q129307** and found no Adnan among them, which suggested the Adnanite genealogy
+was missing from the dump entirely. That was wrong, and it was wrong because **Abraham has
+two Ishmael records**:
+
+- **`Ishmael` (Q129307, wd Q183403)** — the biblical one, mother Hagar, with the twelve sons
+  of Genesis 25 including `Qedar (person)` (Q129387), who has **no children**. 19 descendants.
+- **`Ismail Ancestor of the Arabs` (Q85869)** — mother recorded as Sarah, one child,
+  `Qedar Banu Ismail` (Q86435), from whom the entire 36-generation `Banu Ismail` chain
+  descends to Adnan and beyond.
+
+Qedar is duplicated along with his father. The genealogy is real and present; it just hangs
+off the copy that nothing else in the dump treats as Ishmael.
+
+**The consequential part.** There are **three** Adnan records and Muhammad descends from the
+one with no route to Abraham:
+
+| Record | Route to Ishmael/Abraham | Children | Muhammad below it |
+|---|---|---|---|
+| `Adnan Banu Ismail` (Q86433) | **yes** — 36 gens to Q85869, 37 to Abraham | 1 | 38 generations |
+| `'Adnaan Bin Imaam 'Udd` (Q65555) | **none** — ancestry runs into the `'Udd`/`Humaisi` placeholder tangle | 9 | **16 generations** |
+| `Adnan` (Q111364, wd Q22338875) | **none** — parentless stub | 2 | no path |
+
+Sixteen generations is close to the traditional count from Muhammad to Adnan (about 21);
+thirty-eight is not. So Q65555 is the record Muhammad's line actually uses, and it is the
+one severed from Abraham. The dump reaches Abraham from Muhammad by another route (55
+generations), but **not through Adnan** — which is the descent the chapter, and the
+tradition, are asserting.
+
+**Verdict: the verse is right and the dump is fragmented.** The fix is a merge, not a
+build: reconcile Q85869 into Q129307, Q86435 into Q129387, and the three Adnan records into
+one — then Muhammad's line and the Banu Ismail chain meet where they should. That is a
+dedup job on a load-bearing junction, so it is Emma's call and not a mechanical one.
+
+Dozens of further records carry the chain inside *patronymic label strings* —
+`Nizar ibn Ma'ad Aladnani` (Q64253), `Banu Rashaida ibn Ghatafan ibn Qais ibn Mudar ibn
+Nizar ibn Ma'add ibn Adnan` (Q64723). Those are a cross-check on any proposed merge: the
+labels record the parentage the edges are supposed to hold.
 
 ---
 
@@ -259,5 +293,5 @@ dump records no birth order and gives Jesse seven sons against the Bible's eight
 | 4 | 181 | Heo Hwang-ok "bore him ten sons" and "two took her surname" | **Emma.** Data-side fix means inventing nine named sons; prose-side fix means dropping a Garakguk-gi detail |
 | 5 | 181 | Heo as princess of Ayodhya | **Blocked on Bridge C** (`planning/lineage_bridges_proposed.md`), which is itself held behind the Kosala dedup |
 | 6 | 185 | Aram as Hayk's direct son | **Dump.** Restore the six intervening Haykazuni generations; the verse is right |
-| 7 | 191 | The thirty-generation Adnanite line | **New queue item.** The genealogy is in the dump as label text and needs extracting into edges |
+| 7 | 191 | Two Ishmaels, two Qedars, three Adnans — Muhammad descends from the Adnan with no route to Abraham | **Dump, via merge.** The chain exists; it is fragmented across duplicate records. Load-bearing junction, so Emma approves the merge set |
 | 8 | 190 | Toyotama-hime's father recorded as Xu Fu | **UNRESOLVED** — likely the known Q6462/Watatsumi ID defect; belongs to the ID-repair pass |
