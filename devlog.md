@@ -4,6 +4,44 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **Two of the three "missing" lineage bridges are not missing the way we thought.**
+  Drafted `planning/lineage_bridges_proposed.md` (proposals only — nothing applied to the
+  dump) plus `wiki-scripts/graph_probe.py`, a read-only walker so every number in it is
+  reproducible.
+
+  **Adam → Genghis is one edge, not a bridge.** The Mongol origin lineage is *already in
+  the dump and already Adam-descended*: Kosala kings → Sihahanu → Suddhodana → the Buddha
+  (Q153343) → Rāhula (Q153331) → БОРТЭЧИНЭ / Börte Chono (Q153311) → the full Secret
+  History chain → БОДОНЧАР / Bodonchar (Q153243) → БУКА / Buqa (Q153235) → and then it
+  runs out into fourteen content-free "Great Descendant" placeholders and stops. Meanwhile
+  Khaidu (Q53399, b. 1030) sits eight generations above Genghis with no parents. Somebody
+  imported the Mongol Buddhist chronicle genealogy and left it one edge short of the man
+  it exists to explain. Recommended fix: name Q153230 as Dutum Menen, attach Khaidu under
+  it, retire the placeholder tail. Fallback that invents nothing: `Haplogroup C` (Q1164)
+  is present, Adam-descended, and childless — Genghis is C2-M217, so a C2 node under it
+  joins him the same way `Sinitic O2a2b1a2` joins the Yellow Emperor's line.
+
+  **Jimmu ↔ Heo Hwang-ok cannot be drafted and I am not drafting it.** 744 years separate
+  them in the dump's own dates, Heo's single child is a Gaya king, and no Japanese or
+  Korean source puts her near the Yamato line. Building it means inventing the connecting
+  figures, which is the stop condition on the queue item. What *is* available, one edge
+  and fully sourced, is Prince Junda (Q9935, son of Muryeong of Baekje) → Yamato no
+  Ototsugu (Q7687), currently a parentless root and father of Emperor Kanmu's mother —
+  the Shoku Nihongi descent Akihito acknowledged in 2001. That joins Japan to Korea. It
+  does not reach Heo. Recommending the bridge be re-scoped rather than forced.
+
+  **Kosala → Heo has the best warrant and the worst data.** The Samguk Yusa's Garakguk-gi
+  putting Heo's origin at Ayuta/Ayodhya is a primary source, and it needs exactly one
+  parent edge. But the 58 Kosala records are three parallel Geni imports of the same king
+  list, so any edge added now lands on an arbitrary duplicate; and the sourced Ayodhya
+  list ends at Sumitra in the 4th c. BCE, leaving ~350 years to Heo that no source fills.
+  Held behind dedup.
+
+  Incidental defects logged: 138 edge endpoints have no `persons.tsv` row (including
+  Q153645, the terminal of that Borjigin chain); Kosala birth dates are positive CE years
+  for pre-Buddha kings; Adam (Q152973) has three parents; Prince Junda is recorded as born
+  twelve years before his own father.
+
 - **Started using Wikidata, which I should have done from the start.** Everything in
   this day's earlier entries was name heuristics — Roman cognomina, Iberian patronymics,
   BC-date guessing — over a dump where 60,085 records carry a `wikidata_qid` that simply

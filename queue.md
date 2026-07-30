@@ -24,19 +24,7 @@ later item applies the approved set. Where the evidence does not decide the case
 so in the row rather than picking — an unresolved row is a correct outcome, a guessed
 one is not.
 
-1. **Draft the three lineage bridges as proposals only.** Verified 2026-07-30 against
-   the local dump: none of them exist. Genghis Khan (Q37401) has no descent path from
-   Adam (Q152973); Jimmu (Q6432) has no path to or from Heo Hwang-ok (Q51928) — his
-   line runs back through Ugayafukiaezu → Toyotama-hime → Xu Fu into the Xú clan; and
-   none of the 44 Kosala kings connect to Heo. **Heo Hwang-ok has zero parents recorded
-   and one child**, so the Kosala bridge is a single missing parent edge. Draft
-   candidate bridges into `planning/lineage_bridges_proposed.md` — the attachment point,
-   the connecting figures, and the legendary basis for each. Write NOTHING into the dump
-   or the Gaiad. This is proposal-drafting, not chapter generation, so the Leo gate does
-   not cover it; if a bridge cannot be drafted without writing new scripture prose, stop
-   and say so.
-
-2. **Reconcile shipped Gaiad genealogy claims against the dump.** Found 2026-07-30.
+1. **Reconcile shipped Gaiad genealogy claims against the dump.** Found 2026-07-30.
    The Heo Hwang-ok chapter (`gaiad_full.md` ~line 39614) is written and live, and it
    asserts what the data does not contain: princess of **Ayodhya** (the capital of
    Kosala — i.e. the missing Kosala bridge, stated as fact in verse), "bore him ten
