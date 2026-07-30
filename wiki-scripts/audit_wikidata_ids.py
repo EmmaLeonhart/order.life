@@ -236,7 +236,9 @@ def main():
             for al in e.get("aliases", {}).values():
                 names += [a["value"] for a in al]
             got[qid] = {"names": names, "p31": claim_ids(e, "P31"),
-                        "sex": claim_ids(e, "P21")}
+                        "sex": claim_ids(e, "P21"),
+                        "father": claim_ids(e, "P22"), "mother": claim_ids(e, "P25"),
+                        "child": claim_ids(e, "P40"), "spouse": claim_ids(e, "P26")}
         with lock:
             cache.update(got)
             done[0] += len(chunk)
