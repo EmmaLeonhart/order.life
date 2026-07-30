@@ -24,21 +24,33 @@ later item applies the approved set. Where the evidence does not decide the case
 so in the row rather than picking — an unresolved row is a correct outcome, a guessed
 one is not.
 
-1. **Reconcile shipped Gaiad genealogy claims against the dump.** Found 2026-07-30.
-   The Heo Hwang-ok chapter (`gaiad_full.md` ~line 39614) is written and live, and it
-   asserts what the data does not contain: princess of **Ayodhya** (the capital of
-   Kosala — i.e. the missing Kosala bridge, stated as fact in verse), "bore him ten
-   sons" (dump: one child, Geodeung of Geumgwan Gaya), Kimhae Heo + Kimhae Kim both
-   descending from her, "millions of modern Koreans" (dump: 46 descendants). This
-   happened because STATUS.md item 7 recorded the three lineage gaps and declared
-   "None of this blocks chapter writing" — the prose then shipped making claims the
-   graph was supposed to back. Sweep the epic for every genealogical assertion of this
-   kind and check each against `wikibase/analysis/`. Output
-   `wikibase/analysis/epic_vs_dump.md`: the claim, the chapter location, what the dump
-   holds, and whether the gap is a data gap (fix the dump) or a prose error (fix the
-   chapter). Propose only — do NOT edit chapter text or the dump. Chapter *editing* is
-   allowed outside the Leo gate, but this item stops at the report so Emma decides
-   which side moves.
+1. **Extract the Adnanite genealogy from label text into proposed edges.** Found
+   2026-07-30 by the epic sweep (`wikibase/analysis/epic_vs_dump.md`, Finding 5).
+   Chapter 191 asserts the northern Arabs descend from Ishmael through thirty
+   generations to Adnan. Ishmael (Q129307) has **19 descendants in the dump and none of
+   them is Adnan**, yet dozens of records carry the chain inside their *labels* as Arabic
+   patronymics — `Nizar ibn Ma'ad Aladnani` (Q64253), `Banu Rashaida ibn Ghatafan ibn
+   Qais ibn Mudar ibn Nizar ibn Ma'add ibn Adnan` (Q64723), and so on. The genealogy is
+   present as text and absent as edges. Parse the `ibn`/`bin` chains out of
+   `persons.tsv` labels, resolve each named ancestor to an existing record where one
+   exists, and write `wikibase/analysis/adnan_chain_proposed.md`: per proposed edge, the
+   two records, the label the chain was read out of, and whether the ancestor resolved
+   to an existing QID or would need a new one. Propose only — do NOT write edges. Where
+   two labels disagree about a link, record both rather than picking.
+
+2. **Characterize the "Mesopotamian king list over the patriarchs" overlay.** Found
+   2026-07-30 (`epic_vs_dump.md`, Finding 1). The record occupying **Noah's** slot —
+   Lamech's son, father of Ham and Japheth, spouses Naamah and Emzara — is labelled
+   `Shu-Ilishu` (Q70439) and carries the Wikidata id of a king of Isin. The record
+   occupying **Eber's** slot, Joktan's father, is `Ilum-bani` (Q70454), another Isin
+   king, whose father is `Naram-Ilum` (Q70451). This is not two typos; a king list has
+   been laid over the biblical patriarch line, keeping the biblical edges and
+   substituting the Mesopotamian names. Walk the whole neighbourhood — Q70430–Q70500 and
+   everything adjacent to it — and write `wikibase/analysis/patriarch_overlay.md`: per
+   record, the label it carries, the Wikidata item that label points at, the biblical
+   figure its *edges* say it is, and the evidence for that identification. Say
+   explicitly which rows the edges do not decide. Propose only. This node set is
+   load-bearing for the Table of Nations, so nothing here is applied without Emma.
 
 ---
 

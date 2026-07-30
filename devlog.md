@@ -4,6 +4,40 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **Swept the epic's genealogy claims against the dump; the biggest finding wasn't the one
+  I went looking for.** `wikibase/analysis/epic_vs_dump.md` — 432 candidate lines from a
+  predicate sweep of `gaiad_full.md`, 153 naming a wikidata-linked figure, 40 assertions
+  checked individually. 22 confirmed, 9 data gaps, 4 data errors, 1 prose error, 3
+  unresolved. Nothing edited on either side.
+
+  **The Noah node is wearing a Sumerian king's name.** Chapter 132 names the antediluvian
+  line down to "Lamech, the father — there was born a son. Noah", then "Shem, Ham,
+  Japheth." The dump has that chain, correctly, through Lamech — and then Lamech's son,
+  the father of Ham and Japheth, whose two named spouses are Naamah and Emzara, is
+  labelled **`Shu-Ilishu` (Q70439)** and carries the Wikidata id of a king of Isin. The
+  record actually labelled `Noah` (Q99058) is unrelated and childless. `path_up(Japheth,
+  Q99058)` is NO PATH: nothing in the dump is descended from anything called Noah. Same
+  overlay one branch over — Joktan's father, who should be Eber, is `Ilum-bani` (Q70454),
+  another Isin king. A Mesopotamian king list has been laid over the patriarch line,
+  keeping the biblical edges and swapping the names. It sits under the entire Table of
+  Nations, including the Turkic chain Bridge A wants to use for Genghis.
+
+  **Jimmu is not descended from Amaterasu, and it's one wrong edge.** Chapter 190 asserts
+  the descent four ways; three fail. `Hoori` (Q6460) has the right mother
+  (Konohananosakuya-bime) and the wrong father — a Yayoi placeholder node instead of
+  **Ninigi (Q6483)** — so Ninigi's own son is missing from his children and the most-cited
+  genealogical claim in Japanese tradition has no path in the dump. Repointing one edge
+  restores it. The fourth claim is the chapter's fault: Toyotama-hime is Jimmu's
+  grandmother, not his great-grandmother, in the myth and in the dump both.
+
+  **The Heo Hwang-ok chapter, which is what sent me looking.** "Bore him ten sons" against
+  one child; "two took her surname" against zero descendants labelled Heo; Ayodhya against
+  zero parents. "Millions of modern Koreans" is not a defect — that one is true of the
+  world and the dump is a genealogy, not a census. Also: chapter 185 is *more* accurate
+  than the dump, which collapses Hayk→Aram to one edge where Armenian tradition has six;
+  and chapter 191's thirty-generation Adnanite line exists in the dump only as text inside
+  labels, never as edges. Queued both as follow-ups.
+
 - **Two of the three "missing" lineage bridges are not missing the way we thought.**
   Drafted `planning/lineage_bridges_proposed.md` (proposals only — nothing applied to the
   dump) plus `wiki-scripts/graph_probe.py`, a read-only walker so every number in it is
