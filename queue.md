@@ -17,12 +17,16 @@ unblocked it on 2026-07-30: the blocker was never her availability, it was that 
 had stated a **policy**. The policy is now **propose, don't apply** — every item here
 writes a review file and edits nothing in the dump. That is executable autonomously._
 
-**Standing rule for all these items:** do NOT modify `wikibase/items/*.json` or the
-`wikibase/analysis/*.tsv` source extracts. Each item's output is a NEW review file that
-records, per record, the proposed change AND the evidence for it. Emma approves, and a
-later item applies the approved set. Where the evidence does not decide the case, say
-so in the row rather than picking — an unresolved row is a correct outcome, a guessed
-one is not.
+**Propose-only is LIFTED (Emma, 2026-07-30).** Apply fixes directly to
+`wikibase/items/*.json`. Do not stop at writing another review document — that was the
+old rule and it was followed well past the point where Emma had asked for the actual
+change. Still true: where the evidence does not decide a case, say so rather than
+guessing, and **verify against the item files after applying** — the derived
+`wikibase/analysis/*.tsv` extracts go stale the moment items change.
+
+**An edge lives in TWO places** — the child's `P47`/`P48` *and* the parent's `P20`.
+Removing only one direction leaves the edge alive. This bit the Tros unmerge; always
+re-verify from the items.
 
 **READ `wikibase/analysis/cycle_policy.md` BEFORE TOUCHING ANY CYCLE.**
 
@@ -47,6 +51,16 @@ the wrong metric and must not be used to rank repairs.
    between two traditions.
 4. **DELETE** only where the loop is genuinely terminal — nothing substantial above it.
    Keep the entry point, drop the rest.
+
+1. **Unmerge the Roman same-name pairs.** Same mechanism as Tros, confirmed by
+   `cycle_origins.md`: Roman *tria nomina* repeat father-to-son, so a name-matching import
+   linked father and son in both directions. 2-cycles with identical labels:
+   `Titus Manlius Torquatus` (Q73323/Q73470), `Publius Aelius Marullinus` (Q70388/Q69886 —
+   Wikidata itself holds two records, Q112865805 and Q112865796), `Marcus Granius`
+   (Q78507/Q78384), `Gaius Servilius` (Q73910/Q73812), plus near-pairs `Lucius Fulvius, II`
+   / `Lucius Fulvius Curvus` (Q73958/Q73872) and `Marcus Valerius` / `Manius Valerius`
+   (Q78501/Q78615). Emma: preserve the Roman material as much as possible — unmerge, never
+   delete. Apply, then verify from the items.
 
 1. **Unmerge/dedupe the long Iberian chains — do NOT cut them.** Seven of the eight cycles
    of length >= 20 run through one twelve-edge stretch of the Portuguese de Aguiar family

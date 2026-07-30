@@ -1,6 +1,15 @@
 # Q74698 "Tros" — the unmerge, and it needs no new records
 
-**2026-07-30, work-loop. Propose only — nothing applied.** No `wikibase/items/*.json` and no
+> ## ✅ APPLIED 2026-07-30. Emma authorised applying directly to `wikibase/items/*.json`.
+> Applied by `wiki-scripts/apply_tros_unmerge.py` (idempotent). All four mythic cycles are
+> gone and all sixteen checked joins survive — verified against the item files, not the
+> extracts. Two corrections to what this document originally said: the record's own English
+> aliases already read `['Uranus', 'Caelus', 'Tros', ...]`, so the identification needed no
+> guess and the label is now `Uranus`; and an edge lives in **two** places (the child's
+> P47/P48 *and* the parent's P20), so the first pass left `Danaus → Nilus` alive through
+> Danaus's P20 and two cycles stayed closed until the second pass.
+
+**2026-07-30, work-loop.** No `wikibase/items/*.json` and no
 `wikibase/analysis/*.tsv` was modified. Follows `wikibase/analysis/cycle_policy.md`.
 
 ## The finding: the correct record already exists
