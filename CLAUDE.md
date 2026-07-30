@@ -1,5 +1,24 @@
 # order.life FastSite
 
+## Topaz — this repo is driven from the box (2026-07-30)
+
+order.life is **incorporated into Topaz**, the hosted agent box. Agents are
+launched against this checkout from the Topaz cockpit — headless, one shot
+(`claude -p "<prompt>"` with `cwd` set here) — and their work lands as commits
+on `master` exactly like an interactive session's would.
+
+**`queue.md` and `todo.md` are the representation.** The cockpit renders them
+as the board: `## In progress`, the active queue, and the `todo.md` backlog are
+what this repo looks like from outside it. They are the interface, not scratch
+paper. Keep them accurate, and keep the delete-don't-check rule — an item still
+present in `queue.md` reads on the board as still live.
+
+**The queue is unblocked.** Do not treat this repo as "nothing actionable" or
+"everything left is BLOCKED-on-Emma." That stance is retired. Take the top
+item and work it; if the queue is thin, decompose something out of `todo.md`
+into it rather than stopping. The one standing exception is the chapter gate
+below — Gaiad chapter *generation* stays closed until Leo (2026-08-12).
+
 ## Skills
 
 Workflow behaviors live as skills in `.claude/skills/` (auto-discovered by Claude Code):
@@ -107,7 +126,10 @@ re-add wiki links. (The `lifeism+Wiki-*.xml` export is still parsed for baked-in
 - Keep README.md updated for human readers
 - All thinking produces files, not planning-only modes
 - Use `python` not `python3` on this Windows system
-- Use `C:\Users\Immanuelle\AppData\Local\Programs\Python\Python313\python.exe` for the Python with packages
+- Use `C:\Users\Emma\AppData\Local\Programs\Python\Python313\python.exe` for the Python with packages
+  (verified 2026-07-30: networkx 3.6.1, jinja2 3.1.6, requests 2.34.2; plain `python` on
+  PATH already resolves to it). The old `C:\Users\Immanuelle\...\Python313` path this line
+  used to name **no longer exists** — the profile is still there, the Python under it is gone.
 - Build uses temp dir swap (site_tmp → site) — stop dev server before rebuilding to avoid Windows lock errors
 - Do NOT run `python build.py` before every commit — just commit and push, the user checks online
 
