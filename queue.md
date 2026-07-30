@@ -48,28 +48,24 @@ the wrong metric and must not be used to rank repairs.
 4. **DELETE** only where the loop is genuinely terminal — nothing substantial above it.
    Keep the entry point, drop the rest.
 
-1. **Unmerge `Tros` (Q74698) — breaks four mythic cycles, severs nothing.** Diagnosed
-   2026-07-30, see `cycle_policy.md`. The record carries two incompatible parent sets at
-   once: primordial (Aether, Dies, Terra, Erebos, Nyx) and Trojan (Erichthonius of Dardania
-   Q132328, Astyoche Q131114), plus 70 children spanning both tiers including Iapetos
-   (Q75225), Ops (Q74677) and Danaus (Q74973). Split into Tros of Dardania and the
-   primordial figure; then drop the two spill edges `Tros -> Danaus` and `Danaus -> Nilus`
-   (Nilus is Danaus's ancestor via Anchiroe, not his child). **Naming the primordial half is
-   Emma's call — the dump does not say and guessing would be inventing.** Propose the split
-   in a new file; apply nothing.
-
-2. **Unmerge/dedupe the long Iberian chains — do NOT cut them.** Seven of the eight cycles
+1. **Unmerge/dedupe the long Iberian chains — do NOT cut them.** Seven of the eight cycles
    of length >= 20 run through one twelve-edge stretch of the Portuguese de Aguiar family
    ending at Heracles. `Barbara, imperatriz of Rome` / `Bárbara, Princess of Rome` is an
    accented duplicate pair and `Diogo Afonso **Afonso** de Aguiar` is a doubled name — both
    unmerge signatures. The join to Heracles is why the chain exists and must survive.
 
-3. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
+2. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
    built before `qa_cycles_vs_wikidata.tsv` and never saw it. 7 of its 25 "unresolved"
    cycles contain an edge Wikidata explicitly contradicts. Most cycle records have working
    Wikidata ids, which is what makes unmerging tractable — use them.
 
-4. **Work the remaining cycles under the repair order above.** Unmerge candidates first.
+3. **Work the remaining cycles under the repair order above.** Unmerge candidates first.
+
+4. **Regenerate `qa_cycles.tsv` / `qa_cycles_proposed.tsv`.** Found 2026-07-30 while
+   verifying the Tros unmerge: only **63 of the 71 recorded chains still exist** in the
+   current dump — earlier repairs (`9c0299d8`, "repair 8 mutual pairs") already broke eight
+   of them. The proposals file is stale by eight rows and the cycle count is overstated.
+   Re-run the detector before anyone counts cycles again.
 
 ---
 

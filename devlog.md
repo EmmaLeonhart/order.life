@@ -4,6 +4,37 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **The Tros unmerge needs no unmerge — the correct record was already there.**
+  `wikibase/analysis/tros_unmerge_proposed.md`, propose-only. I had diagnosed Q74698 as
+  Tros-of-Dardania merged with a primordial figure and proposed splitting it into two new
+  records. Looking properly: there are two records labelled `Tros`, and **Q132327 (wd
+  Q599482) is already correct and clean** — right parents (Erichthonius of Dardania,
+  Astyoche), right spouses (Callirhoe, Acallaris), exactly the five Trojan children. The
+  Trojan Tros's edges have simply been *duplicated onto* Q74698, which is a different figure
+  entirely. Every duplicated edge is already held correctly by Q132327, so the fix creates
+  nothing and deletes no record.
+
+  **Q74698 is Ouranos.** Strip the seven duplicated edges and its 65 remaining children, all
+  by Terra, are the complete canonical offspring of Ouranos and Gaia — the Titans, the
+  Cyclopes, the Hekatoncheires, the Gigantes, the Erinyes — and its remaining parents,
+  Aether + Dies + Terra, are Hyginus's genealogy for Caelus. The identification comes from
+  the child list, not the label. What the record should be *called* is Emma's call, not
+  mine; I am not naming a figure in a scripture project.
+
+  Eight edge removals in total, the eighth being `Danaus → Nilus` (Nilus's parents are
+  Oceanus and Tethys, both already recorded, and Nilus is Danaus's ancestor via Anchiroe).
+  **Verified by simulation rather than asserted**: rebuilt the parent map without those
+  edges and re-tested all 71 recorded chains. All four mythic cycles break. Nilus keeps
+  Oceanus and Tethys; Danaus keeps Belus and Anchiroe — the Greek/Egyptian join that must
+  not be cut; Atlas → Electra → Dardanus untouched.
+
+  Two things the verification turned up. **Only 63 of the 71 recorded chains still exist** —
+  earlier repairs already broke eight, so the proposals file is stale and the cycle count is
+  overstated. Queued a regeneration. And **`Oceanus` (Q90309) carries Danaus's Wikidata id**
+  (Q161419), which `Danaus` also carries — an ID collision in the same neighbourhood, left
+  for the ID-repair worklist.
+
+
 - **Emma: "Muhammad's genealogy there is 100% intentional." And: cycles only.** Two
   corrections to how I was working, and the second is the bigger one.
 
