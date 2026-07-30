@@ -4,6 +4,35 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **Multi-parent proposals written — `wikibase/analysis/qa_multiparent_proposed.tsv`**
+  (queue item 2, propose-only). New script `wiki-scripts/propose_multiparent_fixes.py`
+  clusters each child's listed parents and proposes one representative per cluster when
+  they collapse to a biological pair.
+
+  **Collapse rate: 409 of 1,230 children (33.3%) collapse to ≤2 distinct people.** The
+  other 821 (66.7%) do not and are emitted `unresolved` with their clusters shown, per
+  the standing rule against rank-and-truncate. Applying every proposal would remove 436
+  of the 4,012 listed parent edges. By fan-out: 318 of the 957 three-parent rows resolve,
+  and the extreme cases stay open — Sita (Q28324) goes 9 parents → 7 clusters, Marcus
+  Livius Drusus (Q73119) 8 → 8.
+
+  The whole difficulty is one pair of examples. `Sancha de Aybar` / `Sancha of Aibar` is
+  one person spelled two ways; `Jimena Muñoz` / `Jimena Fernandez de Castro` are two of
+  Alfonso VI's partners. Both pairs share a given name and differ in the rest, so any
+  single similarity threshold merges both or neither. The rule that separates them
+  compares surname tokens individually: every distinguishing token of the shorter label
+  must have a fuzzy match in the longer one, so Aybar/Aibar merges and Muñoz/Fernandez
+  does not. Verified against both, plus Ramiro I of Aragon, Sancho I of Pamplona,
+  Ramon Berenguer I and Alfonso V of León, where the known parentage is checkable.
+
+  One correction found by auditing the merges rather than the misses: `Marcus Livius
+  Drusus` and `Marcus Livius maior Drusus` were being merged. *maior* marks the elder of
+  two same-named men, so it separates father from son exactly as a regnal number does.
+  `maior`/`minor`/`velho` are now generational markers alongside `Junior`/`Senior`, and a
+  marker present on only one side of an otherwise identical name now blocks the merge.
+  This also feeds `propose_cycle_cuts.py`, which shares the name logic; its output is
+  unchanged by the fix.
+
 - **Cycle cut proposals written — `wikibase/analysis/qa_cycles_proposed.tsv`** (queue
   item 1, propose-only). New script `wiki-scripts/propose_cycle_cuts.py` reads the 71
   cycles in `qa_cycles.tsv` and emits one row per cycle: the single edge it proposes to

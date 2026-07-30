@@ -72,3 +72,27 @@ Two false-positive classes the rules deliberately avoid, both of which a naive p
 
 Nothing here has been applied. Approving a row means an edge deletion (or, for the
 duplicate rows, a record merge) in a later, separate pass.
+
+## Multi-parent proposals (2026-07-30) — `qa_multiparent_proposed.tsv`
+
+`python wiki-scripts/propose_multiparent_fixes.py` clusters each child's listed parents
+and proposes one representative per cluster when they collapse to a biological pair.
+Also propose-only.
+
+**409 of the 1,230 children (33.3%) collapse to ≤2 distinct people** and get a proposed
+parent set; the other 821 do not and are emitted `unresolved` with their clusters shown.
+They are not rank-and-truncated to two: once a child has three genuinely distinct claimed
+parents, deduplication has nothing left to say and the choice is genealogical judgement.
+Applying every proposal would remove 436 of the 4,012 listed parent edges.
+
+Records merge only on identical external ID, identical name tokens, ≥90% label
+similarity with a matching given name, or a full spelling-variant match of every surname
+token. That last rule is what separates `Sancha de Aybar` / `Sancha of Aibar` (one person,
+merged) from `Jimena Muñoz` / `Jimena Fernandez de Castro` (two of Alfonso VI's partners,
+kept apart) — both pairs share a given name, so a plain similarity threshold gets one of
+them wrong whichever way it is set. Regnal numbers, elder/younger markers (`maior`,
+`minor`, `Junior`) and conflicting recorded sex all block a merge.
+
+Clustering is single-linkage, so a chain of near-identical labels becomes one cluster.
+That is right for duplicate detection but means a large cluster deserves a look before
+it is applied.

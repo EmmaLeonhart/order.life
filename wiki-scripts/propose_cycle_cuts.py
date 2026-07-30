@@ -393,8 +393,8 @@ def label(persons, qid):
 ROMAN = {"i": 1, "ii": 2, "iii": 3, "iv": 4, "v": 5, "vi": 6, "vii": 7,
          "viii": 8, "ix": 9, "x": 10, "xi": 11, "xii": 12, "xiii": 13,
          "xiv": 14, "xv": 15}
-YOUNGER = {"junior", "jr", "younger", "ii", "the younger"}
-ELDER = {"senior", "sr", "elder", "the elder"}
+YOUNGER = {"junior", "jr", "younger", "ii", "the younger", "minor", "menor", "jovem"}
+ELDER = {"senior", "sr", "elder", "the elder", "maior", "major", "mayor", "velho"}
 
 
 def ordinal_of(lbl):
@@ -436,8 +436,12 @@ def ordinal_relation(plab, clab):
         return None
     if not prest or prest != crest:
         return None
-    pr = pr if pr is not None else 1
-    cr = cr if cr is not None else 1
+    if pr is None or cr is None:
+        # Only one side is marked ('Marcus Livius Drusus' / 'Marcus Livius maior
+        # Drusus'). The marker exists precisely to separate two same-named people,
+        # so they are distinct — but which is elder is not reliably encoded, so
+        # report the protective reading.
+        return "succession"
     if pr == cr:
         return None
     return "succession" if pr < cr else "reversed"
