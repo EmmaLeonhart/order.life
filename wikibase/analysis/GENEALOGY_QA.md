@@ -49,3 +49,26 @@ them is per-record genealogical judgement, not a mechanical pass:
 Recommended next step when someone wants to act: work `qa_cycles.tsv` first (small,
 unambiguous "this is wrong"), then the highest-`n_parents` rows of `qa_multiparent.tsv`.
 Both are bounded lists now.
+
+## Cycle cut proposals (2026-07-30) — `qa_cycles_proposed.tsv`
+
+`python wiki-scripts/propose_cycle_cuts.py` reads `qa_cycles.tsv` and writes one row per
+cycle naming the single edge it proposes to cut, the evidence, and a confidence. It is
+**propose-only**: it modifies neither `wikibase/items/*.json` nor the source extracts, and
+where the evidence does not decide a cycle it emits an `unresolved` row rather than
+guessing. 46 of the 71 cycles get a proposal (10 high / 5 medium / 31 low confidence);
+25 are left for a human. The 39 distinct proposed edges break 47 cycles between them —
+one duplicate pair alone (`Barbara, imperatriz of Rome` / `Bárbara, Princess of Rome`)
+accounts for the seven long Portuguese/Byzantine chains.
+
+Two false-positive classes the rules deliberately avoid, both of which a naive pass hits:
+
+- **Unsigned BC dates.** Many Roman republican figures are recorded as `+0300` where the
+  source meant 300 BC. Read as BC the edge order is often fine, so those rows are demoted
+  to `date_ambiguous_era` at low confidence — the fix is probably the *date*, not the edge.
+- **Regnal and cognomen distinctions.** `Guerau IV -> Guerau V` and `Scipio Barbatus ->
+  Scipio` are how the data distinguishes a father from his son. Those are treated as
+  corroboration or as unproven homonyms, never as duplicates to merge.
+
+Nothing here has been applied. Approving a row means an edge deletion (or, for the
+duplicate rows, a record merge) in a later, separate pass.

@@ -2,6 +2,51 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-07-30
+
+- **Cycle cut proposals written — `wikibase/analysis/qa_cycles_proposed.tsv`** (queue
+  item 1, propose-only). New script `wiki-scripts/propose_cycle_cuts.py` reads the 71
+  cycles in `qa_cycles.tsv` and emits one row per cycle: the single edge it proposes to
+  cut, the evidence, and a confidence. Nothing in `wikibase/items/*.json` or the source
+  extracts was touched.
+
+  **Result: 46 of 71 cycles get a proposal (10 high / 5 medium / 31 low), 25 are left
+  `unresolved`.** The 39 distinct proposed edges break 47 cycles between them, verified
+  by re-running cycle detection with the cuts applied in memory. The single highest-value
+  row is the duplicate pair `Barbara, imperatriz of Rome` (Q82122) / `Bárbara, Princess
+  of Rome` (Q99597): it sits on all seven of the long Portuguese/Byzantine chains, so one
+  merge clears the biggest cluster in the file.
+
+  Evidence rules, in the order they win: recorded birth-date contradiction; patronymic
+  reversal (the parent's own name calls the child its father — Welsh `ap/ferch`, Iberian
+  `-es/-ez`); identical-name adjacency (a person listed as parent of their own duplicate);
+  birth-year bounds from dated relatives; worst-sourced edge as a last resort.
+
+  Three things went wrong on the way and are worth recording, because each one produced
+  confident nonsense before it was caught:
+
+  - **Unbounded date propagation is useless on this graph.** Walking "+12 years per
+    generation" over the full 128k edges from the mythic tier produces bounds like "born
+    no earlier than 12372" and then fires on every edge in a chain. Anchors are now
+    carried a maximum of 3 generations, never through a cycle edge, with the source
+    person named in the row.
+  - **Unsigned BC dates.** Many Roman republican figures are recorded `+0300` where the
+    source meant 300 BC; read as BC the edge order is fine. Those rows are demoted to
+    `date_ambiguous_era` at low confidence and say the fix is probably the date, not
+    the edge.
+  - **Regnal numbers and cognomina are how the data distinguishes father from son.**
+    `Guerau IV -> Guerau V` and `Scipio Barbatus -> Scipio` were being proposed as
+    duplicate merges. "Duplicate" now requires identical name tokens; a shared
+    praenomen+nomen or a differing regnal number is corroboration or an unproven
+    homonym instead.
+
+  Coverage caveat stated plainly: only 71 of the 345 nodes in these cycles carry a birth
+  date, so most rows rest on name evidence rather than dates, and 31 of the 46 proposals
+  are low confidence for that reason. The 25 unresolved rows are unresolved because
+  nothing separated the edges — not because the analysis stopped early. Rerunning the
+  script reproduces the file byte-for-byte (DFS iterates sorted nodes; Python randomises
+  string hashing per process, which made the first two runs disagree).
+
 ## 2026-07-01
 
 - **The wiki is GONE — de-linked the site entirely + ran the local genealogy analysis.**
