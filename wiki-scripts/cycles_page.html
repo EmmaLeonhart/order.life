@@ -1,0 +1,611 @@
+<title>Ancestry cycles — order.life genealogy dump</title>
+
+<style>
+:root {
+  --page:   #eceef1;
+  --card:   #f8f9fb;
+  --ink:    #14181f;
+  --muted:  #5b6472;
+  --faint:  #8b94a2;
+  --rule:   #d3d8df;
+  --accent: #9d2b2b;
+  --accent-soft: rgba(157, 43, 43, 0.10);
+  --indigo: #33477a;
+  --indigo-soft: rgba(51, 71, 122, 0.10);
+  --chip:   #e3e7ec;
+
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --page:   #10141a;
+    --card:   #171c24;
+    --ink:    #e6e9ee;
+    --muted:  #99a3b2;
+    --faint:  #6b7684;
+    --rule:   #272e39;
+    --accent: #e06a63;
+    --accent-soft: rgba(224, 106, 99, 0.13);
+    --indigo: #93a9e0;
+    --indigo-soft: rgba(147, 169, 224, 0.13);
+    --chip:   #232b35;
+  }
+}
+
+:root[data-theme="dark"] {
+  --page:   #10141a;
+  --card:   #171c24;
+  --ink:    #e6e9ee;
+  --muted:  #99a3b2;
+  --faint:  #6b7684;
+  --rule:   #272e39;
+  --accent: #e06a63;
+  --accent-soft: rgba(224, 106, 99, 0.13);
+  --indigo: #93a9e0;
+  --indigo-soft: rgba(147, 169, 224, 0.13);
+  --chip:   #232b35;
+}
+
+:root[data-theme="light"] {
+  --page:   #eceef1;
+  --card:   #f8f9fb;
+  --ink:    #14181f;
+  --muted:  #5b6472;
+  --faint:  #8b94a2;
+  --rule:   #d3d8df;
+  --accent: #9d2b2b;
+  --accent-soft: rgba(157, 43, 43, 0.10);
+  --indigo: #33477a;
+  --indigo-soft: rgba(51, 71, 122, 0.10);
+  --chip:   #e3e7ec;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 40px 24px 96px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+/* ---- masthead ---- */
+
+.masthead { display: flex; flex-direction: column; gap: 10px; }
+
+.eyebrow {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+h1 {
+  font-family: var(--serif);
+  font-size: clamp(30px, 4.4vw, 46px);
+  line-height: 1.08;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  margin: 0;
+  text-wrap: balance;
+}
+
+.standfirst {
+  margin: 0;
+  max-width: 62ch;
+  color: var(--muted);
+  font-size: 16px;
+}
+
+.standfirst.note {
+  font-size: 14.5px;
+  padding-left: 12px;
+  border-left: 2px solid var(--accent);
+}
+
+.tally {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: var(--card);
+  overflow: hidden;
+  margin-top: 6px;
+}
+
+.tally div {
+  flex: 1 1 128px;
+  padding: 12px 16px;
+  border-right: 1px solid var(--rule);
+}
+.tally div:last-child { border-right: 0; }
+
+.tally b {
+  display: block;
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  font-size: 21px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
+.tally span {
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--faint);
+}
+
+/* ---- controls ---- */
+
+.controls {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 0;
+  background: linear-gradient(var(--page) 72%, transparent);
+}
+
+.controls label {
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--faint);
+  margin-right: 2px;
+}
+
+.seg { display: flex; border: 1px solid var(--rule); border-radius: 3px; overflow: hidden; }
+
+.seg button {
+  font: inherit;
+  font-size: 13px;
+  padding: 6px 13px;
+  border: 0;
+  border-right: 1px solid var(--rule);
+  background: var(--card);
+  color: var(--muted);
+  cursor: pointer;
+}
+.seg button:last-child { border-right: 0; }
+.seg button:hover { color: var(--ink); }
+.seg button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+
+:root[data-theme="dark"] .seg button[aria-pressed="true"],
+:root:not([data-theme="light"]) .seg button[aria-pressed="true"] { color: var(--page); }
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) .seg button[aria-pressed="true"] { color: #fff; }
+}
+
+#find {
+  font: inherit;
+  font-size: 13px;
+  padding: 6px 11px;
+  min-width: 210px;
+  flex: 1 1 210px;
+  max-width: 320px;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: var(--card);
+  color: var(--ink);
+}
+#find::placeholder { color: var(--faint); }
+
+.controls button:focus-visible,
+#find:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+.count { font-size: 13px; color: var(--faint); margin-left: auto; }
+
+/* ---- cycle card ---- */
+
+.cycles { display: flex; flex-direction: column; gap: 18px; }
+
+.cycle {
+  background: var(--card);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 18px 20px 20px;
+}
+
+.cycle > header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+  padding-bottom: 12px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.steps {
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: var(--accent-soft);
+  padding: 3px 8px;
+  border-radius: 2px;
+  white-space: nowrap;
+}
+
+.claim {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 16.5px;
+  line-height: 1.35;
+  flex: 1 1 320px;
+}
+.claim em { font-style: italic; }
+
+/* the loop bracket: first and last person are the same record */
+
+.chain {
+  list-style: none;
+  margin: 0;
+  padding: 14px 0 14px 34px;
+  position: relative;
+}
+
+.chain::before {
+  content: "";
+  position: absolute;
+  left: 2px;
+  top: 20px;
+  bottom: 20px;
+  width: 16px;
+  border: 1.5px dashed var(--accent);
+  border-right: 0;
+  border-radius: 10px 0 0 10px;
+  pointer-events: none;
+}
+
+.person {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 5px 8px 5px 10px;
+  border-radius: 2px;
+  position: relative;
+}
+
+.person::before {
+  content: "";
+  position: absolute;
+  left: -14px;
+  top: 50%;
+  width: 12px;
+  height: 1px;
+  background: var(--rule);
+}
+
+.person + .person { border-top: 1px solid var(--rule); }
+
+.person.lit { background: var(--indigo-soft); }
+
+.name {
+  font-family: var(--serif);
+  font-size: 16px;
+  color: var(--ink);
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  text-align: left;
+  text-decoration-color: transparent;
+  text-underline-offset: 3px;
+}
+.name:hover { text-decoration: underline; text-decoration-color: var(--indigo); }
+.name:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
+
+.nolabel { color: var(--faint); font-style: italic; }
+
+.meta {
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  font-size: 11.5px;
+  color: var(--faint);
+  display: flex;
+  gap: 9px;
+  flex-wrap: wrap;
+  margin-left: auto;
+  text-align: right;
+}
+
+.qid { color: var(--faint); }
+.dates { color: var(--muted); }
+
+.chip {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.05em;
+  padding: 1px 5px;
+  border-radius: 2px;
+  background: var(--chip);
+  color: var(--muted);
+}
+
+.chip.src { background: var(--indigo-soft); color: var(--indigo); }
+
+.shared {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  color: var(--indigo);
+  background: var(--indigo-soft);
+  padding: 1px 6px;
+  border-radius: 2px;
+  margin-left: 20px;
+  align-self: flex-start;
+}
+
+.closes {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding-left: 12px;
+  font-size: 12.5px;
+  color: var(--accent);
+}
+.closes span { font-family: var(--mono); font-size: 14px; }
+
+.empty {
+  padding: 40px 4px;
+  color: var(--faint);
+  font-family: var(--serif);
+  font-size: 17px;
+}
+
+footer {
+  border-top: 1px solid var(--rule);
+  padding-top: 16px;
+  color: var(--faint);
+  font-size: 13px;
+  max-width: 70ch;
+}
+footer code { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+
+@media (max-width: 620px) {
+  .meta { margin-left: 0; width: 100%; text-align: left; }
+  .chain { padding-left: 26px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+</style>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <p class="eyebrow">Local genealogy dump · QA</p>
+    <h1>Every person here is their own ancestor</h1>
+    <p class="standfirst">
+      Each chain closes on the person it started with. The dashed rule down the left of a
+      chain marks that closure — top and bottom are the same record. These are the raw
+      loops in the dump as it stands, with nothing proposed and nothing cut.
+    </p>
+    <p class="standfirst note" id="repaired"></p>
+
+    <div class="tally">
+      <div><b id="t-cycles">71</b><span>Cycles</span></div>
+      <div><b id="t-people">345</b><span>People involved</span></div>
+      <div><b id="t-links">609</b><span>Parent links</span></div>
+      <div><b id="t-short">2</b><span>Shortest loop</span></div>
+      <div><b id="t-long">48</b><span>Longest loop</span></div>
+      <div><b id="t-dated">71</b><span>With a birth date</span></div>
+    </div>
+  </header>
+
+  <div class="controls">
+    <label for="find">Find</label>
+    <input id="find" type="search" placeholder="Name or QID — e.g. Cabrera, Q73380" autocomplete="off">
+    <div class="seg" role="group" aria-label="Filter by loop length">
+      <button type="button" data-size="all" aria-pressed="true">All</button>
+      <button type="button" data-size="2" aria-pressed="false">Direct pairs</button>
+      <button type="button" data-size="short" aria-pressed="false">3–9</button>
+      <button type="button" data-size="long" aria-pressed="false">10+</button>
+    </div>
+    <div class="seg" role="group" aria-label="Sort order">
+      <button type="button" data-sort="asc" aria-pressed="true">Shortest first</button>
+      <button type="button" data-sort="desc" aria-pressed="false">Longest first</button>
+    </div>
+    <p class="count" id="count"></p>
+  </div>
+
+  <div class="cycles" id="list"></div>
+
+  <footer>
+    Read from the committed local dump — <code>persons.tsv</code>, <code>edges.tsv</code>,
+    <code>qa_cycles.tsv</code>. A chip marked <b>WD</b> means the record carries a Wikidata
+    ID, <b>GENI</b> a Geni ID; a person with neither is sourced only by the import. Counts
+    after each name are that record's parents, children and spouses in the full graph, not
+    just inside the loop. Click any name to light up every place that person appears.
+  </footer>
+</div>
+
+<script>
+const CYCLES = __DATA__;
+
+const list = document.getElementById('list');
+const countEl = document.getElementById('count');
+const find = document.getElementById('find');
+
+let state = { size: 'all', sort: 'asc', q: '', lit: null };
+
+const REPAIRED = __REPAIRED__;
+
+(function banner() {
+  const el = document.getElementById('repaired');
+  if (!REPAIRED.fixed) { el.remove(); return; }
+  el.innerHTML = `<b>${REPAIRED.fixed} mutual parent pairs have been repaired in the dump.</b> `
+    + `Each was a record claiming the same person as both its parent and its child; the `
+    + `reversed claim was deleted and nothing else was touched. `
+    + `${REPAIRED.left} pairs are still here — the evidence either conflicted or ran out.`;
+})();
+
+// tallies
+(function tally() {
+  const people = new Set();
+  let links = 0, dated = 0;
+  for (const c of CYCLES) {
+    links += c.nodes.length;
+    for (const n of c.nodes) {
+      if (!people.has(n.q)) { people.add(n.q); if (n.b !== null) dated++; }
+    }
+  }
+  const lens = CYCLES.map(c => c.nodes.length);
+  document.getElementById('t-cycles').textContent = CYCLES.length;
+  document.getElementById('t-people').textContent = people.size;
+  document.getElementById('t-links').textContent = links;
+  document.getElementById('t-short').textContent = Math.min(...lens);
+  document.getElementById('t-long').textContent = Math.max(...lens);
+  document.getElementById('t-dated').textContent = dated;
+})();
+
+function yearText(n) {
+  if (n.b === null && n.d === null) return '';
+  const f = y => y === null ? '?' : (y < 0 ? Math.abs(y) + ' BC' : String(y));
+  if (n.b !== null && n.d !== null) return f(n.b) + '–' + f(n.d);
+  return n.b !== null ? 'b. ' + f(n.b) : 'd. ' + f(n.d);
+}
+
+function claimFor(c) {
+  const first = c.nodes[0];
+  const nm = first.l === '(no label)' ? 'This record' : first.l;
+  if (c.nodes.length === 2) {
+    const other = c.nodes[1].l === '(no label)' ? 'the other record' : c.nodes[1].l;
+    return `<em>${esc(nm)}</em> and <em>${esc(other)}</em> are each recorded as the other's parent.`;
+  }
+  return `<em>${esc(nm)}</em> is recorded as their own ancestor, ${c.nodes.length} generations up.`;
+}
+
+function esc(s) {
+  return String(s).replace(/[&<>"]/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[ch]));
+}
+
+function matches(c, q) {
+  if (!q) return true;
+  const t = q.toLowerCase();
+  return c.nodes.some(n => n.l.toLowerCase().includes(t) || n.q.toLowerCase() === t
+    || n.q.toLowerCase().includes(t));
+}
+
+function sizeOk(c) {
+  const n = c.nodes.length;
+  if (state.size === '2') return n === 2;
+  if (state.size === 'short') return n >= 3 && n <= 9;
+  if (state.size === 'long') return n >= 10;
+  return true;
+}
+
+function render() {
+  const rows = CYCLES
+    .map((c, i) => ({ c, i }))
+    .filter(({ c }) => sizeOk(c) && matches(c, state.q))
+    .sort((a, b) => state.sort === 'asc'
+      ? a.c.nodes.length - b.c.nodes.length || a.i - b.i
+      : b.c.nodes.length - a.c.nodes.length || a.i - b.i);
+
+  countEl.textContent = rows.length === CYCLES.length
+    ? `${CYCLES.length} cycles`
+    : `${rows.length} of ${CYCLES.length} cycles`;
+
+  if (!rows.length) {
+    list.innerHTML = '<p class="empty">No loop here matches that. Try a surname, or a QID like Q73380.</p>';
+    return;
+  }
+
+  list.innerHTML = rows.map(({ c }) => {
+    const people = c.nodes.map((n, j) => {
+      const shared = c.edges[j] > 1
+        ? `<p class="shared">this link also runs through ${c.edges[j] - 1} other cycle${c.edges[j] > 2 ? 's' : ''}</p>`
+        : '';
+      const yrs = yearText(n);
+      const src = [];
+      if (n.wd) src.push('<span class="chip src">WD</span>');
+      if (n.g) src.push('<span class="chip src">GENI</span>');
+      return `<li class="person" data-qid="${n.q}">
+          <button type="button" class="name${n.l === '(no label)' ? ' nolabel' : ''}">${esc(n.l)}</button>
+          ${n.s ? `<span class="chip">${n.s}</span>` : ''}
+          <span class="meta">
+            ${yrs ? `<span class="dates">${yrs}</span>` : ''}
+            <span>${n.np}p · ${n.nc}c · ${n.ns}s</span>
+            ${src.join('')}
+            <span class="qid">${n.q}</span>
+          </span>
+        </li>${shared}`;
+    }).join('');
+
+    const firstName = c.nodes[0].l === '(no label)' ? c.nodes[0].q : c.nodes[0].l;
+    return `<article class="cycle">
+        <header>
+          <span class="steps">${c.nodes.length} ${c.nodes.length === 2 ? 'people' : 'generations'}</span>
+          <p class="claim">${claimFor(c)}</p>
+        </header>
+        <ol class="chain">${people}</ol>
+        <p class="closes"><span>&#8617;</span> and back to ${esc(firstName)}</p>
+      </article>`;
+  }).join('');
+
+  applyLit();
+}
+
+function applyLit() {
+  document.querySelectorAll('.person').forEach(el => {
+    el.classList.toggle('lit', state.lit !== null && el.dataset.qid === state.lit);
+  });
+}
+
+list.addEventListener('click', e => {
+  const btn = e.target.closest('.name');
+  if (!btn) return;
+  const qid = btn.closest('.person').dataset.qid;
+  state.lit = state.lit === qid ? null : qid;
+  applyLit();
+});
+
+document.querySelectorAll('[data-size]').forEach(b => {
+  b.addEventListener('click', () => {
+    state.size = b.dataset.size;
+    document.querySelectorAll('[data-size]').forEach(x =>
+      x.setAttribute('aria-pressed', String(x === b)));
+    render();
+  });
+});
+
+document.querySelectorAll('[data-sort]').forEach(b => {
+  b.addEventListener('click', () => {
+    state.sort = b.dataset.sort;
+    document.querySelectorAll('[data-sort]').forEach(x =>
+      x.setAttribute('aria-pressed', String(x === b)));
+    render();
+  });
+});
+
+find.addEventListener('input', () => { state.q = find.value.trim(); render(); });
+
+render();
+</script>

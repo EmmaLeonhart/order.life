@@ -1,0 +1,611 @@
+<title>Ancestry cycles — order.life genealogy dump</title>
+
+<style>
+:root {
+  --page:   #eceef1;
+  --card:   #f8f9fb;
+  --ink:    #14181f;
+  --muted:  #5b6472;
+  --faint:  #8b94a2;
+  --rule:   #d3d8df;
+  --accent: #9d2b2b;
+  --accent-soft: rgba(157, 43, 43, 0.10);
+  --indigo: #33477a;
+  --indigo-soft: rgba(51, 71, 122, 0.10);
+  --chip:   #e3e7ec;
+
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --page:   #10141a;
+    --card:   #171c24;
+    --ink:    #e6e9ee;
+    --muted:  #99a3b2;
+    --faint:  #6b7684;
+    --rule:   #272e39;
+    --accent: #e06a63;
+    --accent-soft: rgba(224, 106, 99, 0.13);
+    --indigo: #93a9e0;
+    --indigo-soft: rgba(147, 169, 224, 0.13);
+    --chip:   #232b35;
+  }
+}
+
+:root[data-theme="dark"] {
+  --page:   #10141a;
+  --card:   #171c24;
+  --ink:    #e6e9ee;
+  --muted:  #99a3b2;
+  --faint:  #6b7684;
+  --rule:   #272e39;
+  --accent: #e06a63;
+  --accent-soft: rgba(224, 106, 99, 0.13);
+  --indigo: #93a9e0;
+  --indigo-soft: rgba(147, 169, 224, 0.13);
+  --chip:   #232b35;
+}
+
+:root[data-theme="light"] {
+  --page:   #eceef1;
+  --card:   #f8f9fb;
+  --ink:    #14181f;
+  --muted:  #5b6472;
+  --faint:  #8b94a2;
+  --rule:   #d3d8df;
+  --accent: #9d2b2b;
+  --accent-soft: rgba(157, 43, 43, 0.10);
+  --indigo: #33477a;
+  --indigo-soft: rgba(51, 71, 122, 0.10);
+  --chip:   #e3e7ec;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 40px 24px 96px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+/* ---- masthead ---- */
+
+.masthead { display: flex; flex-direction: column; gap: 10px; }
+
+.eyebrow {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+h1 {
+  font-family: var(--serif);
+  font-size: clamp(30px, 4.4vw, 46px);
+  line-height: 1.08;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  margin: 0;
+  text-wrap: balance;
+}
+
+.standfirst {
+  margin: 0;
+  max-width: 62ch;
+  color: var(--muted);
+  font-size: 16px;
+}
+
+.standfirst.note {
+  font-size: 14.5px;
+  padding-left: 12px;
+  border-left: 2px solid var(--accent);
+}
+
+.tally {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: var(--card);
+  overflow: hidden;
+  margin-top: 6px;
+}
+
+.tally div {
+  flex: 1 1 128px;
+  padding: 12px 16px;
+  border-right: 1px solid var(--rule);
+}
+.tally div:last-child { border-right: 0; }
+
+.tally b {
+  display: block;
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  font-size: 21px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
+.tally span {
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--faint);
+}
+
+/* ---- controls ---- */
+
+.controls {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 0;
+  background: linear-gradient(var(--page) 72%, transparent);
+}
+
+.controls label {
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--faint);
+  margin-right: 2px;
+}
+
+.seg { display: flex; border: 1px solid var(--rule); border-radius: 3px; overflow: hidden; }
+
+.seg button {
+  font: inherit;
+  font-size: 13px;
+  padding: 6px 13px;
+  border: 0;
+  border-right: 1px solid var(--rule);
+  background: var(--card);
+  color: var(--muted);
+  cursor: pointer;
+}
+.seg button:last-child { border-right: 0; }
+.seg button:hover { color: var(--ink); }
+.seg button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+
+:root[data-theme="dark"] .seg button[aria-pressed="true"],
+:root:not([data-theme="light"]) .seg button[aria-pressed="true"] { color: var(--page); }
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) .seg button[aria-pressed="true"] { color: #fff; }
+}
+
+#find {
+  font: inherit;
+  font-size: 13px;
+  padding: 6px 11px;
+  min-width: 210px;
+  flex: 1 1 210px;
+  max-width: 320px;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: var(--card);
+  color: var(--ink);
+}
+#find::placeholder { color: var(--faint); }
+
+.controls button:focus-visible,
+#find:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+.count { font-size: 13px; color: var(--faint); margin-left: auto; }
+
+/* ---- cycle card ---- */
+
+.cycles { display: flex; flex-direction: column; gap: 18px; }
+
+.cycle {
+  background: var(--card);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 18px 20px 20px;
+}
+
+.cycle > header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+  padding-bottom: 12px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.steps {
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: var(--accent-soft);
+  padding: 3px 8px;
+  border-radius: 2px;
+  white-space: nowrap;
+}
+
+.claim {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 16.5px;
+  line-height: 1.35;
+  flex: 1 1 320px;
+}
+.claim em { font-style: italic; }
+
+/* the loop bracket: first and last person are the same record */
+
+.chain {
+  list-style: none;
+  margin: 0;
+  padding: 14px 0 14px 34px;
+  position: relative;
+}
+
+.chain::before {
+  content: "";
+  position: absolute;
+  left: 2px;
+  top: 20px;
+  bottom: 20px;
+  width: 16px;
+  border: 1.5px dashed var(--accent);
+  border-right: 0;
+  border-radius: 10px 0 0 10px;
+  pointer-events: none;
+}
+
+.person {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 5px 8px 5px 10px;
+  border-radius: 2px;
+  position: relative;
+}
+
+.person::before {
+  content: "";
+  position: absolute;
+  left: -14px;
+  top: 50%;
+  width: 12px;
+  height: 1px;
+  background: var(--rule);
+}
+
+.person + .person { border-top: 1px solid var(--rule); }
+
+.person.lit { background: var(--indigo-soft); }
+
+.name {
+  font-family: var(--serif);
+  font-size: 16px;
+  color: var(--ink);
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  text-align: left;
+  text-decoration-color: transparent;
+  text-underline-offset: 3px;
+}
+.name:hover { text-decoration: underline; text-decoration-color: var(--indigo); }
+.name:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
+
+.nolabel { color: var(--faint); font-style: italic; }
+
+.meta {
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  font-size: 11.5px;
+  color: var(--faint);
+  display: flex;
+  gap: 9px;
+  flex-wrap: wrap;
+  margin-left: auto;
+  text-align: right;
+}
+
+.qid { color: var(--faint); }
+.dates { color: var(--muted); }
+
+.chip {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.05em;
+  padding: 1px 5px;
+  border-radius: 2px;
+  background: var(--chip);
+  color: var(--muted);
+}
+
+.chip.src { background: var(--indigo-soft); color: var(--indigo); }
+
+.shared {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  color: var(--indigo);
+  background: var(--indigo-soft);
+  padding: 1px 6px;
+  border-radius: 2px;
+  margin-left: 20px;
+  align-self: flex-start;
+}
+
+.closes {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding-left: 12px;
+  font-size: 12.5px;
+  color: var(--accent);
+}
+.closes span { font-family: var(--mono); font-size: 14px; }
+
+.empty {
+  padding: 40px 4px;
+  color: var(--faint);
+  font-family: var(--serif);
+  font-size: 17px;
+}
+
+footer {
+  border-top: 1px solid var(--rule);
+  padding-top: 16px;
+  color: var(--faint);
+  font-size: 13px;
+  max-width: 70ch;
+}
+footer code { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+
+@media (max-width: 620px) {
+  .meta { margin-left: 0; width: 100%; text-align: left; }
+  .chain { padding-left: 26px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+</style>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <p class="eyebrow">Local genealogy dump · QA</p>
+    <h1>Every person here is their own ancestor</h1>
+    <p class="standfirst">
+      Each chain closes on the person it started with. The dashed rule down the left of a
+      chain marks that closure — top and bottom are the same record. These are the raw
+      loops in the dump as it stands, with nothing proposed and nothing cut.
+    </p>
+    <p class="standfirst note" id="repaired"></p>
+
+    <div class="tally">
+      <div><b id="t-cycles">71</b><span>Cycles</span></div>
+      <div><b id="t-people">345</b><span>People involved</span></div>
+      <div><b id="t-links">609</b><span>Parent links</span></div>
+      <div><b id="t-short">2</b><span>Shortest loop</span></div>
+      <div><b id="t-long">48</b><span>Longest loop</span></div>
+      <div><b id="t-dated">71</b><span>With a birth date</span></div>
+    </div>
+  </header>
+
+  <div class="controls">
+    <label for="find">Find</label>
+    <input id="find" type="search" placeholder="Name or QID — e.g. Cabrera, Q73380" autocomplete="off">
+    <div class="seg" role="group" aria-label="Filter by loop length">
+      <button type="button" data-size="all" aria-pressed="true">All</button>
+      <button type="button" data-size="2" aria-pressed="false">Direct pairs</button>
+      <button type="button" data-size="short" aria-pressed="false">3–9</button>
+      <button type="button" data-size="long" aria-pressed="false">10+</button>
+    </div>
+    <div class="seg" role="group" aria-label="Sort order">
+      <button type="button" data-sort="asc" aria-pressed="true">Shortest first</button>
+      <button type="button" data-sort="desc" aria-pressed="false">Longest first</button>
+    </div>
+    <p class="count" id="count"></p>
+  </div>
+
+  <div class="cycles" id="list"></div>
+
+  <footer>
+    Read from the committed local dump — <code>persons.tsv</code>, <code>edges.tsv</code>,
+    <code>qa_cycles.tsv</code>. A chip marked <b>WD</b> means the record carries a Wikidata
+    ID, <b>GENI</b> a Geni ID; a person with neither is sourced only by the import. Counts
+    after each name are that record's parents, children and spouses in the full graph, not
+    just inside the loop. Click any name to light up every place that person appears.
+  </footer>
+</div>
+
+<script>
+const CYCLES = [{"len":2,"nodes":[{"q":"Q119481","l":"Pons Hug d'Entença","s":"M","b":null,"d":null,"wd":"Q21001415","g":0,"np":2,"nc":1,"ns":1},{"q":"Q124343","l":"Jussiana d'Entença","s":"F","b":null,"d":1300,"wd":"Q14083227","g":0,"np":2,"nc":2,"ns":2}],"edges":[1,1]},{"len":2,"nodes":[{"q":"Q139601","l":"Marcus Livius Drusus Libo","s":"M","b":1,"d":null,"wd":"Q544382","g":0,"np":1,"nc":2,"ns":0},{"q":"Q70988","l":"Lucius Scribonius Libo Drusus","s":"M","b":90,"d":null,"wd":"Q431201","g":1,"np":3,"nc":5,"ns":2}],"edges":[1,1]},{"len":2,"nodes":[{"q":"Q18066","l":"Nagano Norinari","s":"M","b":null,"d":1530,"wd":"Q11654206","g":0,"np":1,"nc":4,"ns":0},{"q":"Q32705","l":"長野尚業","s":"M","b":null,"d":null,"wd":"Q106814279","g":0,"np":1,"nc":2,"ns":0}],"edges":[1,1]},{"len":2,"nodes":[{"q":"Q23888","l":"Uematsu Takamasa","s":"M","b":1705,"d":1785,"wd":"Q11540635","g":0,"np":2,"nc":2,"ns":0},{"q":"Q47737","l":"Iwakura Hiromasa","s":"M","b":1746,"d":1769,"wd":"Q11474167","g":0,"np":1,"nc":1,"ns":1}],"edges":[1,1]},{"len":2,"nodes":[{"q":"Q29144","l":"kay uyarsh Raja Iran","s":"M","b":null,"d":null,"wd":"","g":0,"np":4,"nc":4,"ns":0},{"q":"Q29148","l":"kay pisan Raja Iran","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":0}],"edges":[1,1]},{"len":2,"nodes":[{"q":"Q29144","l":"kay uyarsh Raja Iran","s":"M","b":null,"d":null,"wd":"","g":0,"np":4,"nc":4,"ns":0},{"q":"Q52713","l":"(no label)","s":"","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0}],"edges":[1,1]},{"len":2,"nodes":[{"q":"Q29148","l":"kay pisan Raja Iran","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":0},{"q":"Q52709","l":"(no label)","s":"","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":0}],"edges":[1,1]},{"len":2,"nodes":[{"q":"Q73323","l":"Titus Manlius Torquatus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":0},{"q":"Q73470","l":"Titus Manlius Torquatus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":0}],"edges":[1,1]},{"len":2,"nodes":[{"q":"Q73470","l":"Titus Manlius Torquatus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":0},{"q":"Q99410","l":"(no label)","s":"","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0}],"edges":[1,1]},{"len":2,"nodes":[{"q":"Q73530","l":"Marcus Flaccus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":0},{"q":"Q73653","l":"Cassus Curvus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":0}],"edges":[1,1]},{"len":2,"nodes":[{"q":"Q73872","l":"Lucius Fulvius Curvus","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":3,"ns":0},{"q":"Q73958","l":"Lucius Fulvius, II","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":0}],"edges":[1,1]},{"len":2,"nodes":[{"q":"Q78402","l":"(no label)","s":"","b":null,"d":null,"wd":"","g":0,"np":4,"nc":8,"ns":4},{"q":"Q78719","l":"Cleopatra III of Egypt","s":"F","b":-161,"d":-101,"wd":"Q40003","g":1,"np":4,"nc":10,"ns":3}],"edges":[1,1]},{"len":2,"nodes":[{"q":"Q78501","l":"Marcus Valerius","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":0},{"q":"Q78615","l":"Manius Valerius","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":0}],"edges":[1,1]},{"len":2,"nodes":[{"q":"Q90982","l":"Esther bat Yosef ben 'Amram haDayyan al-Sijilma","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q88454","l":"Esther bat Sahlan ben Abraham","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":1}],"edges":[1,1]},{"len":3,"nodes":[{"q":"Q135467","l":"Alcimachus of Apollonia","s":"M","b":400,"d":400,"wd":"Q24254","g":0,"np":1,"nc":2,"ns":0},{"q":"Q73925","l":"Alcimachus","s":"M","b":null,"d":null,"wd":"Q4713126","g":1,"np":1,"nc":2,"ns":0},{"q":"Q73824","l":"Agathocles of Pella","s":"M","b":400,"d":400,"wd":"Q4691548","g":1,"np":1,"nc":4,"ns":1}],"edges":[1,1,1]},{"len":3,"nodes":[{"q":"Q141474","l":"Publius Licinius Crassus Dives Mucianus","s":"M","b":180,"d":130,"wd":"Q715499","g":1,"np":2,"nc":2,"ns":1},{"q":"Q72972","l":"Publius Licinius Crassus Dives","s":"M","b":null,"d":null,"wd":"Q29518656","g":1,"np":4,"nc":3,"ns":1},{"q":"Q72810","l":"Licinia","s":"F","b":null,"d":null,"wd":"Q12284962","g":1,"np":2,"nc":2,"ns":1}],"edges":[5,4,1]},{"len":3,"nodes":[{"q":"Q3457","l":"Miguel de Cervantes","s":"M","b":1547,"d":1616,"wd":"Q5682","g":1,"np":5,"nc":2,"ns":3},{"q":"Q31038","l":"Juan de Cervantes","s":"M","b":1477,"d":1556,"wd":"","g":1,"np":2,"nc":3,"ns":1},{"q":"Q32086","l":"Rodrigo Cervantes Torreblanca","s":"M","b":1509,"d":1585,"wd":"","g":1,"np":2,"nc":7,"ns":1}],"edges":[1,1,1]},{"len":3,"nodes":[{"q":"Q73119","l":"Marcus Livius Drusus","s":"M","b":124,"d":91,"wd":"Q433463","g":1,"np":8,"nc":3,"ns":1},{"q":"Q72951","l":"Gaius Livius Drusus","s":"M","b":250,"d":250,"wd":"Q1270114","g":1,"np":2,"nc":4,"ns":1},{"q":"Q72798","l":"Marcus Livius Drusus","s":"M","b":155,"d":109,"wd":"Q703346","g":1,"np":3,"nc":2,"ns":2}],"edges":[2,1,1]},{"len":3,"nodes":[{"q":"Q73119","l":"Marcus Livius Drusus","s":"M","b":124,"d":91,"wd":"Q433463","g":1,"np":8,"nc":3,"ns":1},{"q":"Q72951","l":"Gaius Livius Drusus","s":"M","b":250,"d":250,"wd":"Q1270114","g":1,"np":2,"nc":4,"ns":1},{"q":"Q73284","l":"(no label)","s":"","b":null,"d":null,"wd":"","g":0,"np":3,"nc":2,"ns":2}],"edges":[2,1,1]},{"len":3,"nodes":[{"q":"Q73383","l":"Lucius Junius Brutus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":0},{"q":"Q73644","l":"C. Junius Brutus","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":0},{"q":"Q73518","l":"C. Junius Junius Brutus Brutus","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":0}],"edges":[1,1,1]},{"len":3,"nodes":[{"q":"Q74973","l":"Danaus","s":"M","b":null,"d":null,"wd":"Q161419","g":0,"np":4,"nc":231,"ns":15},{"q":"Q130061","l":"Nilus","s":"M","b":null,"d":null,"wd":"Q685243","g":0,"np":3,"nc":8,"ns":1},{"q":"Q131024","l":"Anchiroe","s":"F","b":null,"d":null,"wd":"Q3615214","g":0,"np":1,"nc":6,"ns":2}],"edges":[2,1,1]},{"len":3,"nodes":[{"q":"Q76693","l":"Sergius Octavius Pontianus Laenes Octavius Pontainus","s":"M","b":null,"d":null,"wd":"","g":0,"np":5,"nc":3,"ns":2},{"q":"Q77155","l":"Sergius Ovtavius Laenes","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":0},{"q":"Q76933","l":"Sergius Octavius Pontainus","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0}],"edges":[1,1,1]},{"len":3,"nodes":[{"q":"Q86607","l":"Acha Ish Kfar Temarta","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":3,"ns":0},{"q":"Q91134","l":"Abba \"Abbahu\" bar Acha bar Sallah al-Kafri","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":5,"ns":0},{"q":"Q86617","l":"Shila Ish Kfar Temarta","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":0}],"edges":[1,1,1]},{"len":4,"nodes":[{"q":"Q113081","l":"Charles Martel","s":"M","b":null,"d":null,"wd":"Q3301","g":1,"np":2,"nc":16,"ns":6},{"q":"Q111318","l":"Pepin of Landen","s":"M","b":null,"d":null,"wd":"Q313373","g":1,"np":3,"nc":6,"ns":1},{"q":"Q111320","l":"Begga","s":"F","b":null,"d":null,"wd":"Q266765","g":1,"np":2,"nc":4,"ns":1},{"q":"Q135895","l":"Pepin of Herstal","s":"M","b":645,"d":714,"wd":"Q91392","g":1,"np":2,"nc":5,"ns":3}],"edges":[1,1,1,1]},{"len":4,"nodes":[{"q":"Q118732","l":"Olaf Geirstad-Alf","s":"M","b":null,"d":null,"wd":"Q2560871","g":1,"np":2,"nc":2,"ns":0},{"q":"Q136091","l":"Gandalf Alfgeirsson","s":"M","b":705,"d":768,"wd":"Q4133209","g":0,"np":1,"nc":2,"ns":0},{"q":"Q135856","l":"Alfarin","s":"M","b":750,"d":791,"wd":"Q5666589","g":1,"np":1,"nc":1,"ns":0},{"q":"Q123845","l":"Alfhild","s":"F","b":null,"d":null,"wd":"Q122890477","g":1,"np":1,"nc":1,"ns":1}],"edges":[1,1,1,1]},{"len":4,"nodes":[{"q":"Q135406","l":"Jehoiakim","s":"M","b":634,"d":598,"wd":"Q319034","g":1,"np":3,"nc":2,"ns":2},{"q":"Q135539","l":"Jeconiah","s":"M","b":616,"d":597,"wd":"Q319049","g":1,"np":3,"nc":9,"ns":0},{"q":"Q4617","l":"Pedaiah","s":"M","b":null,"d":null,"wd":"Q20101444","g":0,"np":1,"nc":2,"ns":0},{"q":"Q4626","l":"Zebudah","s":"F","b":null,"d":null,"wd":"Q30527376","g":0,"np":2,"nc":2,"ns":1}],"edges":[2,2,1,1]},{"len":4,"nodes":[{"q":"Q135406","l":"Jehoiakim","s":"M","b":634,"d":598,"wd":"Q319034","g":1,"np":3,"nc":2,"ns":2},{"q":"Q135539","l":"Jeconiah","s":"M","b":616,"d":597,"wd":"Q319049","g":1,"np":3,"nc":9,"ns":0},{"q":"Q4617","l":"Pedaiah","s":"M","b":null,"d":null,"wd":"Q20101444","g":0,"np":1,"nc":2,"ns":0},{"q":"Q60222","l":"(no label)","s":"","b":null,"d":null,"wd":"","g":0,"np":1,"nc":2,"ns":1}],"edges":[2,2,1,1]},{"len":4,"nodes":[{"q":"Q144542","l":"Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig","s":"F","b":null,"d":null,"wd":"Q116147500","g":0,"np":2,"nc":1,"ns":0},{"q":"Q148522","l":"Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadwgan Ddû","s":"F","b":null,"d":null,"wd":"Q110636576","g":0,"np":1,"nc":3,"ns":1},{"q":"Q146349","l":"Cynwrig Fychan ap Cynwrig","s":"M","b":null,"d":null,"wd":"Q99071981","g":0,"np":2,"nc":4,"ns":1},{"q":"Q148521","l":"Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap Llywarch","s":"M","b":null,"d":null,"wd":"Q116147501","g":0,"np":1,"nc":1,"ns":1}],"edges":[1,1,1,1]},{"len":4,"nodes":[{"q":"Q160928","l":"Swammbhu Brambha","s":"M","b":null,"d":null,"wd":"","g":1,"np":3,"nc":15,"ns":1},{"q":"Q160981","l":"Person Q160981","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":0},{"q":"Q160965","l":"Kasayap Muni","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":3,"ns":3},{"q":"Q160946","l":"11 Rudras","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":12,"ns":0}],"edges":[1,1,1,1]},{"len":4,"nodes":[{"q":"Q161658","l":"Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja","s":"M","b":null,"d":null,"wd":"","g":1,"np":3,"nc":18,"ns":7},{"q":"Q161777","l":"Dewa Amas Sang Aji Kala","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":16,"ns":0},{"q":"Q161966","l":"Demang Lebar Daun Mangkabumi (Bendahara I)","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":2,"ns":0},{"q":"Q162275","l":"Wan Sendari (Radin Ratna Cenderapuri)","s":"F","b":null,"d":null,"wd":"","g":1,"np":1,"nc":7,"ns":2}],"edges":[1,1,1,1]},{"len":4,"nodes":[{"q":"Q78264","l":"Lucius Pinarius","s":"M","b":null,"d":null,"wd":"Q382127","g":0,"np":2,"nc":1,"ns":1},{"q":"Q78108","l":"Lucius Pinarius Scarpus","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":0},{"q":"Q77955","l":"Lucius Pinarius Scarpus","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q77782","l":"Pinarius","s":"M","b":null,"d":null,"wd":"Q93953755","g":0,"np":1,"nc":2,"ns":1}],"edges":[1,1,1,1]},{"len":5,"nodes":[{"q":"Q124326","l":"Guerau V de Cabrera","s":"M","b":null,"d":1242,"wd":"Q19291067","g":0,"np":4,"nc":2,"ns":2},{"q":"Q104371","l":"Arsende de Cabrera","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":3,"ns":1},{"q":"Q107162","l":"Ermengol VII, Count of Urgell","s":"M","b":null,"d":null,"wd":"Q949224","g":0,"np":3,"nc":3,"ns":1},{"q":"Q123407","l":"Marquesa d'Urgell","s":"F","b":1150,"d":1209,"wd":"Q21126997","g":0,"np":2,"nc":1,"ns":1},{"q":"Q124325","l":"Guerau IV de Cabrera","s":"M","b":1200,"d":1228,"wd":"Q4894186","g":0,"np":2,"nc":3,"ns":1}],"edges":[1,1,1,1,1]},{"len":5,"nodes":[{"q":"Q131683","l":"Dardanus","s":"M","b":null,"d":null,"wd":"Q461212","g":0,"np":2,"nc":5,"ns":4},{"q":"Q132328","l":"Erichthonius of Dardania","s":"M","b":null,"d":null,"wd":"Q1353705","g":0,"np":2,"nc":2,"ns":2},{"q":"Q74698","l":"Tros","s":"M","b":null,"d":null,"wd":"Q79999","g":0,"np":7,"nc":70,"ns":6},{"q":"Q74677","l":"Ops","s":"F","b":null,"d":null,"wd":"Q96761","g":0,"np":4,"nc":11,"ns":2},{"q":"Q74656","l":"(no label)","s":"","b":null,"d":null,"wd":"","g":0,"np":2,"nc":144,"ns":60}],"edges":[5,6,5,5,1]},{"len":5,"nodes":[{"q":"Q132283","l":"Libya","s":"F","b":null,"d":null,"wd":"Q1129914","g":0,"np":2,"nc":4,"ns":1},{"q":"Q90576","l":"Belus","s":"M","b":null,"d":null,"wd":"Q617753","g":0,"np":2,"nc":9,"ns":3},{"q":"Q74973","l":"Danaus","s":"M","b":null,"d":null,"wd":"Q161419","g":0,"np":4,"nc":231,"ns":15},{"q":"Q130061","l":"Nilus","s":"M","b":null,"d":null,"wd":"Q685243","g":0,"np":3,"nc":8,"ns":1},{"q":"Q131030","l":"Memphis","s":"F","b":null,"d":null,"wd":"Q788268","g":0,"np":1,"nc":2,"ns":1}],"edges":[5,5,2,1,1]},{"len":5,"nodes":[{"q":"Q73970","l":"Appius Claudius Crassus Inregillensis","s":"M","b":350,"d":349,"wd":"Q657609","g":1,"np":3,"nc":2,"ns":0},{"q":"Q73887","l":"Gaius Claudius Crassus Inrelligensis","s":"M","b":370,"d":337,"wd":"Q5759141","g":1,"np":1,"nc":2,"ns":1},{"q":"Q73782","l":"Appius Claudius Caecus","s":"M","b":-341,"d":-300,"wd":"Q297783","g":1,"np":2,"nc":6,"ns":1},{"q":"Q78812","l":"Tiberius Claudius Nero","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":0},{"q":"Q78752","l":"Publius Claudius-Nero","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":0}],"edges":[1,1,1,1,1]},{"len":5,"nodes":[{"q":"Q75123","l":"Deimachus","s":"M","b":null,"d":null,"wd":"Q1183226","g":0,"np":4,"nc":2,"ns":1},{"q":"Q132251","l":"Enarete","s":"F","b":null,"d":null,"wd":"Q48665","g":0,"np":2,"nc":12,"ns":2},{"q":"Q132367","l":"Salmoneus","s":"M","b":null,"d":null,"wd":"Q1131643","g":0,"np":2,"nc":1,"ns":2},{"q":"Q131896","l":"Tyro","s":"F","b":null,"d":null,"wd":"Q1126715","g":0,"np":2,"nc":5,"ns":3},{"q":"Q131902","l":"Neleus","s":"M","b":null,"d":null,"wd":"Q637955","g":0,"np":2,"nc":16,"ns":1}],"edges":[1,1,1,1,1]},{"len":5,"nodes":[{"q":"Q75522","l":"Anicia Faltonia Proba","s":"F","b":null,"d":null,"wd":"Q1154373","g":1,"np":2,"nc":11,"ns":2},{"q":"Q75516","l":"Anicius Hermogenianus Olybrius","s":"M","b":null,"d":null,"wd":"Q1372249","g":1,"np":2,"nc":5,"ns":2},{"q":"Q75603","l":"Demetrias","s":"F","b":null,"d":null,"wd":"Q3625008","g":1,"np":2,"nc":2,"ns":1},{"q":"Q75576","l":"Clodius Celsinus Adelphius","s":"M","b":null,"d":null,"wd":"Q1147586","g":1,"np":2,"nc":7,"ns":1},{"q":"Q75540","l":"Quintus Clodius Hermogenianus Olybrius","s":"M","b":335,"d":380,"wd":"Q1148526","g":1,"np":2,"nc":6,"ns":3}],"edges":[2,2,1,1,1]},{"len":5,"nodes":[{"q":"Q85578","l":"Sankhenre Mentuhotep VI","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":1},{"q":"Q85554","l":"Sebekemsaf .","s":"F","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":1},{"q":"Q85528","l":"Yauyebi of Egypt","s":"M","b":-1790,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q85514","l":"Senebhenaf .","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":1},{"q":"Q85500","l":"Mentuhotep .","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":2}],"edges":[3,3,3,2,1]},{"len":6,"nodes":[{"q":"Q130015","l":"Pleione","s":"F","b":null,"d":null,"wd":"Q463865","g":0,"np":3,"nc":9,"ns":1},{"q":"Q130716","l":"Electra","s":"F","b":null,"d":null,"wd":"Q858663","g":0,"np":2,"nc":5,"ns":2},{"q":"Q131683","l":"Dardanus","s":"M","b":null,"d":null,"wd":"Q461212","g":0,"np":2,"nc":5,"ns":4},{"q":"Q132328","l":"Erichthonius of Dardania","s":"M","b":null,"d":null,"wd":"Q1353705","g":0,"np":2,"nc":2,"ns":2},{"q":"Q74698","l":"Tros","s":"M","b":null,"d":null,"wd":"Q79999","g":0,"np":7,"nc":70,"ns":6},{"q":"Q74970","l":"Tethys","s":"F","b":null,"d":null,"wd":"Q184216","g":0,"np":2,"nc":146,"ns":5}],"edges":[3,4,5,6,1,1]},{"len":6,"nodes":[{"q":"Q130015","l":"Pleione","s":"F","b":null,"d":null,"wd":"Q463865","g":0,"np":3,"nc":9,"ns":1},{"q":"Q130716","l":"Electra","s":"F","b":null,"d":null,"wd":"Q858663","g":0,"np":2,"nc":5,"ns":2},{"q":"Q131683","l":"Dardanus","s":"M","b":null,"d":null,"wd":"Q461212","g":0,"np":2,"nc":5,"ns":4},{"q":"Q132328","l":"Erichthonius of Dardania","s":"M","b":null,"d":null,"wd":"Q1353705","g":0,"np":2,"nc":2,"ns":2},{"q":"Q74698","l":"Tros","s":"M","b":null,"d":null,"wd":"Q79999","g":0,"np":7,"nc":70,"ns":6},{"q":"Q90309","l":"Oceanus","s":"M","b":null,"d":null,"wd":"Q161419","g":0,"np":2,"nc":155,"ns":5}],"edges":[3,4,5,6,1,1]},{"len":6,"nodes":[{"q":"Q138363","l":"Gepaepyris","s":"F","b":50,"d":null,"wd":"Q2720247","g":0,"np":2,"nc":2,"ns":1},{"q":"Q138365","l":"Tiberius Julius Cotys I","s":"M","b":null,"d":null,"wd":"Q2711623","g":0,"np":2,"nc":2,"ns":1},{"q":"Q148022","l":"Rhescuporis I","s":"M","b":100,"d":60,"wd":"Q2713411","g":0,"np":1,"nc":1,"ns":0},{"q":"Q144020","l":"Cotys II","s":"M","b":null,"d":null,"wd":"Q15483438","g":0,"np":1,"nc":2,"ns":0},{"q":"Q141360","l":"Rhoemetalces I","s":"M","b":50,"d":12,"wd":"Q2713422","g":0,"np":1,"nc":1,"ns":1},{"q":"Q139511","l":"Cotys III","s":"M","b":1,"d":19,"wd":"Q2998641","g":1,"np":2,"nc":4,"ns":1}],"edges":[1,1,1,1,1,1]},{"len":6,"nodes":[{"q":"Q85478","l":"Sekhemre Sankhtawy Neferhotep III","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":3,"ns":2},{"q":"Q85578","l":"Sankhenre Mentuhotep VI","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":1},{"q":"Q85554","l":"Sebekemsaf .","s":"F","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":1},{"q":"Q85528","l":"Yauyebi of Egypt","s":"M","b":-1790,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q85514","l":"Senebhenaf .","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":1},{"q":"Q85500","l":"Mentuhotep .","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":2}],"edges":[2,3,3,3,2,1]},{"len":6,"nodes":[{"q":"Q85498","l":"Sekhemre Sementawi Djehuti","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":1},{"q":"Q85478","l":"Sekhemre Sankhtawy Neferhotep III","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":3,"ns":2},{"q":"Q85578","l":"Sankhenre Mentuhotep VI","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":1},{"q":"Q85554","l":"Sebekemsaf .","s":"F","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":1},{"q":"Q85528","l":"Yauyebi of Egypt","s":"M","b":-1790,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q85514","l":"Senebhenaf .","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":1}],"edges":[1,2,3,3,3,1]},{"len":7,"nodes":[{"q":"Q136996","l":"Iorwerth Hir ap Llywarch Gam of Maelor","s":"M","b":null,"d":null,"wd":"Q110622211","g":0,"np":2,"nc":1,"ns":0},{"q":"Q137385","l":"Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick","s":"M","b":1015,"d":null,"wd":"Q110560367","g":0,"np":1,"nc":1,"ns":0},{"q":"Q136958","l":"Elen ferch Ednyfed ab Iorwerth Hir ap Llywarch Gam","s":"F","b":1045,"d":null,"wd":"Q110560366","g":0,"np":1,"nc":2,"ns":1},{"q":"Q137384","l":"Ynyr, lord of Gwent","s":"M","b":null,"d":null,"wd":"Q110152975","g":0,"np":2,"nc":1,"ns":0},{"q":"Q137899","l":"Morfudd ferch Ynir","s":"F","b":null,"d":null,"wd":"Q110152973","g":0,"np":1,"nc":8,"ns":1},{"q":"Q137320","l":"Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys","s":"M","b":null,"d":null,"wd":"Q110153008","g":0,"np":2,"nc":4,"ns":1},{"q":"Q137449","l":"Lleuki|Nest ferch Gwerstan ap Gwaithfoed","s":"F","b":null,"d":null,"wd":"Q110582810","g":0,"np":2,"nc":2,"ns":1}],"edges":[1,1,1,2,2,1,1]},{"len":7,"nodes":[{"q":"Q137384","l":"Ynyr, lord of Gwent","s":"M","b":null,"d":null,"wd":"Q110152975","g":0,"np":2,"nc":1,"ns":0},{"q":"Q137899","l":"Morfudd ferch Ynir","s":"F","b":null,"d":null,"wd":"Q110152973","g":0,"np":1,"nc":8,"ns":1},{"q":"Q137320","l":"Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys","s":"M","b":null,"d":null,"wd":"Q110153008","g":0,"np":2,"nc":4,"ns":1},{"q":"Q137900","l":"Cynfyn ap Gwerstan","s":"M","b":990,"d":1023,"wd":"Q5199943","g":0,"np":2,"nc":6,"ns":1},{"q":"Q137878","l":"NN ferch Cynfyn ap Gwerystan ap Gwaithfoed","s":"F","b":null,"d":null,"wd":"Q116052822","g":0,"np":2,"nc":1,"ns":1},{"q":"Q137383","l":"Nest ferch Gwrgan ab Ithel ab Idwallon","s":"F","b":null,"d":null,"wd":"Q110560364","g":0,"np":2,"nc":1,"ns":1},{"q":"Q136957","l":"Meurig ab Ynyr Gwent","s":"M","b":1030,"d":null,"wd":"Q110560357","g":0,"np":2,"nc":2,"ns":1}],"edges":[2,2,1,1,1,1,1]},{"len":7,"nodes":[{"q":"Q140681","l":"Lleucu ferch Gruffudd","s":"F","b":null,"d":null,"wd":"Q110413685","g":0,"np":2,"nc":3,"ns":2},{"q":"Q140643","l":"Rhys ap Llowdden y Gath","s":"M","b":null,"d":null,"wd":"Q99302513","g":0,"np":2,"nc":1,"ns":0},{"q":"Q139043","l":"Ieuan ap Rhys","s":"M","b":null,"d":null,"wd":"Q99071449","g":0,"np":1,"nc":7,"ns":1},{"q":"Q138061","l":"Joan ferch Ieuan ap Rhys ap Llowdden","s":"F","b":null,"d":null,"wd":"Q110413692","g":0,"np":2,"nc":1,"ns":1},{"q":"Q138810","l":"Llywelyn Ddû ab Owain","s":"M","b":null,"d":null,"wd":"Q99086883","g":0,"np":2,"nc":1,"ns":1},{"q":"Q140234","l":"Llywelyn Foethus ap Llywelyn Ddû ab Owain","s":"M","b":null,"d":null,"wd":"Q99086873","g":0,"np":2,"nc":2,"ns":1},{"q":"Q139067","l":"Gruffudd Foethus ap Llywelyn","s":"M","b":null,"d":null,"wd":"Q75905270","g":0,"np":2,"nc":5,"ns":1}],"edges":[1,1,1,1,1,1,1]},{"len":7,"nodes":[{"q":"Q171493","l":"Venkatacharyar Jatavallabha (Jatavallabha award by Maha","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":0},{"q":"Q171595","l":"Rangacharya Jatavallabha (Jatavallabha award by Maha","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":4,"ns":0},{"q":"Q171604","l":"Venkatacharya Jatavallabha (Jatavallabha award by Maha","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":3,"ns":0},{"q":"Q171614","l":"Srinivasacharya Jatavallabha","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":4,"ns":0},{"q":"Q171622","l":"Srinivasacharyar Jatavallabha (Jatavallabha award by Maha","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":2,"ns":0},{"q":"Q171636","l":"Venkatacharya Jatavallabha (Jatavallabha award by Maha","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":4,"ns":0},{"q":"Q171648","l":"Rangacharya Jatavallabha (Jatavallabha award by Maha","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":5,"ns":0}],"edges":[1,1,1,1,1,1,1]},{"len":8,"nodes":[{"q":"Q139560","l":"Licinia","s":"F","b":null,"d":null,"wd":"Q113376428","g":0,"np":2,"nc":1,"ns":1},{"q":"Q73458","l":"Gaius Caecilius","s":"M","b":400,"d":null,"wd":"Q107101893","g":1,"np":2,"nc":1,"ns":0},{"q":"Q73311","l":"Lucius Caecilius Metellus Denter","s":"M","b":-341,"d":-283,"wd":"Q521498","g":1,"np":1,"nc":2,"ns":0},{"q":"Q73146","l":"Lucius Caecilius Metellus","s":"M","b":null,"d":221,"wd":"Q359810","g":1,"np":1,"nc":4,"ns":0},{"q":"Q148066","l":"Marcus Caecilius Metellus","s":"M","b":238,"d":200,"wd":"Q897091","g":0,"np":1,"nc":1,"ns":0},{"q":"Q72834","l":"Lucius Caecilius Metellus Calvus","s":"M","b":200,"d":200,"wd":"Q703354","g":1,"np":2,"nc":5,"ns":1},{"q":"Q141414","l":"Caecilia Metella","s":"F","b":200,"d":160,"wd":"Q461531","g":0,"np":1,"nc":2,"ns":1},{"q":"Q139559","l":"Lucullus","s":"M","b":117,"d":56,"wd":"Q242819","g":0,"np":2,"nc":2,"ns":2}],"edges":[2,2,2,1,1,1,1,1]},{"len":8,"nodes":[{"q":"Q73170","l":"Gaius Servilius","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":2,"ns":0},{"q":"Q73985","l":"Quintus Servilius","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":0},{"q":"Q73910","l":"Gaius Servilius","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":2,"ns":0},{"q":"Q73812","l":"Gaius Servilius","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":0},{"q":"Q73710","l":"Servilius","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":0},{"q":"Q73599","l":"Gnaeus Servilius","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":0},{"q":"Q73479","l":"Quintus Servilius","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":0},{"q":"Q73332","l":"Publius Servilius","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":0}],"edges":[1,1,1,1,1,1,1,1]},{"len":9,"nodes":[{"q":"Q138399","l":"Caecilia Metella","s":"F","b":150,"d":70,"wd":"Q6454825","g":0,"np":1,"nc":6,"ns":1},{"q":"Q138403","l":"Clodia","s":"F","b":89,"d":null,"wd":"Q16542257","g":0,"np":2,"nc":1,"ns":1},{"q":"Q139560","l":"Licinia","s":"F","b":null,"d":null,"wd":"Q113376428","g":0,"np":2,"nc":1,"ns":1},{"q":"Q73458","l":"Gaius Caecilius","s":"M","b":400,"d":null,"wd":"Q107101893","g":1,"np":2,"nc":1,"ns":0},{"q":"Q73311","l":"Lucius Caecilius Metellus Denter","s":"M","b":-341,"d":-283,"wd":"Q521498","g":1,"np":1,"nc":2,"ns":0},{"q":"Q73146","l":"Lucius Caecilius Metellus","s":"M","b":null,"d":221,"wd":"Q359810","g":1,"np":1,"nc":4,"ns":0},{"q":"Q144060","l":"Quintus Caecilius Metellus","s":"M","b":245,"d":175,"wd":"Q929498","g":0,"np":1,"nc":1,"ns":0},{"q":"Q72858","l":"Quintus Caecilius Metellus Macedonicus","s":"M","b":200,"d":115,"wd":"Q355768","g":1,"np":2,"nc":8,"ns":1},{"q":"Q139550","l":"Quintus Caecilius Metellus Balearicus","s":"M","b":200,"d":160,"wd":"Q459870","g":0,"np":1,"nc":3,"ns":0}],"edges":[1,1,2,2,2,1,1,1,1]},{"len":9,"nodes":[{"q":"Q74698","l":"Tros","s":"M","b":null,"d":null,"wd":"Q79999","g":0,"np":7,"nc":70,"ns":6},{"q":"Q74677","l":"Ops","s":"F","b":null,"d":null,"wd":"Q96761","g":0,"np":4,"nc":11,"ns":2},{"q":"Q74656","l":"(no label)","s":"","b":null,"d":null,"wd":"","g":0,"np":2,"nc":144,"ns":60},{"q":"Q131757","l":"Epaphus","s":"M","b":null,"d":null,"wd":"Q675699","g":0,"np":1,"nc":3,"ns":1},{"q":"Q132283","l":"Libya","s":"F","b":null,"d":null,"wd":"Q1129914","g":0,"np":2,"nc":4,"ns":1},{"q":"Q90576","l":"Belus","s":"M","b":null,"d":null,"wd":"Q617753","g":0,"np":2,"nc":9,"ns":3},{"q":"Q74973","l":"Danaus","s":"M","b":null,"d":null,"wd":"Q161419","g":0,"np":4,"nc":231,"ns":15},{"q":"Q130077","l":"Simoeis","s":"M","b":null,"d":null,"wd":"Q2479077","g":0,"np":3,"nc":2,"ns":0},{"q":"Q131114","l":"Astyoche","s":"F","b":null,"d":null,"wd":"Q752353","g":0,"np":1,"nc":2,"ns":1}],"edges":[5,5,4,4,5,5,1,1,1]},{"len":10,"nodes":[{"q":"Q6421","l":"Shaodian","s":"M","b":-2697,"d":null,"wd":"Q4302144","g":0,"np":5,"nc":5,"ns":3},{"q":"Q87856","l":"Generation 2","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":0},{"q":"Q87854","l":"Generation 3","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q87852","l":"Generation 4","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q87850","l":"Generation 5","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q87848","l":"(no label)","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q87846","l":"(no label)","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q87844","l":"(no label)","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q87842","l":"(no label)","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q87840","l":"(no label)","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0}],"edges":[1,1,1,1,1,1,1,1,1,1]},{"len":11,"nodes":[{"q":"Q130015","l":"Pleione","s":"F","b":null,"d":null,"wd":"Q463865","g":0,"np":3,"nc":9,"ns":1},{"q":"Q130716","l":"Electra","s":"F","b":null,"d":null,"wd":"Q858663","g":0,"np":2,"nc":5,"ns":2},{"q":"Q131683","l":"Dardanus","s":"M","b":null,"d":null,"wd":"Q461212","g":0,"np":2,"nc":5,"ns":4},{"q":"Q132328","l":"Erichthonius of Dardania","s":"M","b":null,"d":null,"wd":"Q1353705","g":0,"np":2,"nc":2,"ns":2},{"q":"Q74698","l":"Tros","s":"M","b":null,"d":null,"wd":"Q79999","g":0,"np":7,"nc":70,"ns":6},{"q":"Q74677","l":"Ops","s":"F","b":null,"d":null,"wd":"Q96761","g":0,"np":4,"nc":11,"ns":2},{"q":"Q74656","l":"(no label)","s":"","b":null,"d":null,"wd":"","g":0,"np":2,"nc":144,"ns":60},{"q":"Q131757","l":"Epaphus","s":"M","b":null,"d":null,"wd":"Q675699","g":0,"np":1,"nc":3,"ns":1},{"q":"Q132283","l":"Libya","s":"F","b":null,"d":null,"wd":"Q1129914","g":0,"np":2,"nc":4,"ns":1},{"q":"Q90576","l":"Belus","s":"M","b":null,"d":null,"wd":"Q617753","g":0,"np":2,"nc":9,"ns":3},{"q":"Q74973","l":"Danaus","s":"M","b":null,"d":null,"wd":"Q161419","g":0,"np":4,"nc":231,"ns":15}],"edges":[3,4,5,6,5,5,4,4,5,5,1]},{"len":11,"nodes":[{"q":"Q132328","l":"Erichthonius of Dardania","s":"M","b":null,"d":null,"wd":"Q1353705","g":0,"np":2,"nc":2,"ns":2},{"q":"Q74698","l":"Tros","s":"M","b":null,"d":null,"wd":"Q79999","g":0,"np":7,"nc":70,"ns":6},{"q":"Q74677","l":"Ops","s":"F","b":null,"d":null,"wd":"Q96761","g":0,"np":4,"nc":11,"ns":2},{"q":"Q74656","l":"(no label)","s":"","b":null,"d":null,"wd":"","g":0,"np":2,"nc":144,"ns":60},{"q":"Q131757","l":"Epaphus","s":"M","b":null,"d":null,"wd":"Q675699","g":0,"np":1,"nc":3,"ns":1},{"q":"Q132283","l":"Libya","s":"F","b":null,"d":null,"wd":"Q1129914","g":0,"np":2,"nc":4,"ns":1},{"q":"Q90576","l":"Belus","s":"M","b":null,"d":null,"wd":"Q617753","g":0,"np":2,"nc":9,"ns":3},{"q":"Q74973","l":"Danaus","s":"M","b":null,"d":null,"wd":"Q161419","g":0,"np":4,"nc":231,"ns":15},{"q":"Q130067","l":"Scamander","s":"M","b":null,"d":null,"wd":"Q1134694","g":0,"np":3,"nc":4,"ns":1},{"q":"Q131066","l":"Teucer, king of Troy","s":"M","b":null,"d":null,"wd":"Q1513788","g":0,"np":2,"nc":3,"ns":0},{"q":"Q132324","l":"Batea","s":"F","b":null,"d":null,"wd":"Q126319","g":0,"np":1,"nc":3,"ns":1}],"edges":[6,5,5,4,4,5,5,1,1,1,1]},{"len":11,"nodes":[{"q":"Q160580","l":"SURYA Dev aka SUN GOD Kashyap","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":10,"ns":3},{"q":"Q160673","l":"YAMA Dharma","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":2},{"q":"Q160640","l":"SUNITA Anga","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q160615","l":"VENA Anga","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":3,"ns":0},{"q":"Q160596","l":"PRITHU Vena","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":8,"ns":1},{"q":"Q160576","l":"Vijitashva","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":4,"ns":2},{"q":"Q160560","l":"HAVIRDHANA","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":6,"ns":1},{"q":"Q160539","l":"PRACHINBARHI","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":2},{"q":"Q160512","l":"PRACHETAS (10 sons)","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q160489","l":"DAKSHA Prachetas","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":63,"ns":1},{"q":"Q160460","l":"Aditi Kashyapa","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":22,"ns":1}],"edges":[1,2,2,2,2,2,2,2,2,2,1]},{"len":12,"nodes":[{"q":"Q130716","l":"Electra","s":"F","b":null,"d":null,"wd":"Q858663","g":0,"np":2,"nc":5,"ns":2},{"q":"Q131683","l":"Dardanus","s":"M","b":null,"d":null,"wd":"Q461212","g":0,"np":2,"nc":5,"ns":4},{"q":"Q132328","l":"Erichthonius of Dardania","s":"M","b":null,"d":null,"wd":"Q1353705","g":0,"np":2,"nc":2,"ns":2},{"q":"Q74698","l":"Tros","s":"M","b":null,"d":null,"wd":"Q79999","g":0,"np":7,"nc":70,"ns":6},{"q":"Q74677","l":"Ops","s":"F","b":null,"d":null,"wd":"Q96761","g":0,"np":4,"nc":11,"ns":2},{"q":"Q74656","l":"(no label)","s":"","b":null,"d":null,"wd":"","g":0,"np":2,"nc":144,"ns":60},{"q":"Q131757","l":"Epaphus","s":"M","b":null,"d":null,"wd":"Q675699","g":0,"np":1,"nc":3,"ns":1},{"q":"Q132283","l":"Libya","s":"F","b":null,"d":null,"wd":"Q1129914","g":0,"np":2,"nc":4,"ns":1},{"q":"Q90576","l":"Belus","s":"M","b":null,"d":null,"wd":"Q617753","g":0,"np":2,"nc":9,"ns":3},{"q":"Q74973","l":"Danaus","s":"M","b":null,"d":null,"wd":"Q161419","g":0,"np":4,"nc":231,"ns":15},{"q":"Q130019","l":"Asia","s":"F","b":null,"d":null,"wd":"Q605744","g":0,"np":3,"nc":1,"ns":2},{"q":"Q130582","l":"Atlas","s":"M","b":null,"d":null,"wd":"Q130818","g":0,"np":3,"nc":18,"ns":3}],"edges":[4,5,6,5,5,4,4,5,5,1,1,1]},{"len":12,"nodes":[{"q":"Q153438","l":"VENA Anga","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":0},{"q":"Q153429","l":"PRITHU (Vishnu's amsam) Vena","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":1},{"q":"Q1989","l":"Vijitashva","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":1},{"q":"Q1978","l":"Havirdhana","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":1},{"q":"Q1968","l":"Prachinbarhi","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":0},{"q":"Q1955","l":"Prachetas (10 sons)","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q153390","l":"DAKSHA (reborn as DAKSHA) Prachetas","s":"M","b":null,"d":null,"wd":"","g":0,"np":3,"nc":5,"ns":1},{"q":"Q153381","l":"Aditi Kashyapa","s":"F","b":null,"d":null,"wd":"","g":0,"np":2,"nc":3,"ns":1},{"q":"Q153465","l":"TVASTAR Kashyapa","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":1},{"q":"Q153460","l":"SANJNA \\ Saranyu Saranyu Saranyu/","s":"F","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":1},{"q":"Q2035","l":"Yama Dharma King of Death","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":1},{"q":"Q153444","l":"SUNITA Anga","s":"F","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":1}],"edges":[1,1,1,1,1,1,1,1,1,1,1,1]},{"len":12,"nodes":[{"q":"Q160673","l":"YAMA Dharma","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":2},{"q":"Q160640","l":"SUNITA Anga","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q160615","l":"VENA Anga","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":3,"ns":0},{"q":"Q160596","l":"PRITHU Vena","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":8,"ns":1},{"q":"Q160576","l":"Vijitashva","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":4,"ns":2},{"q":"Q160560","l":"HAVIRDHANA","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":6,"ns":1},{"q":"Q160539","l":"PRACHINBARHI","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":2},{"q":"Q160512","l":"PRACHETAS (10 sons)","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q160489","l":"DAKSHA Prachetas","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":63,"ns":1},{"q":"Q160460","l":"Aditi Kashyapa","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":22,"ns":1},{"q":"Q160730","l":"TVASTAR Kashyapa","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":4,"ns":1},{"q":"Q160707","l":"SANJNA \\ Saranyu Saranyu","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":6,"ns":1}],"edges":[2,2,2,2,2,2,2,2,2,1,1,1]},{"len":12,"nodes":[{"q":"Q72786","l":"Marcus Aemilius Lepidus","s":"M","b":null,"d":null,"wd":"","g":1,"np":6,"nc":2,"ns":1},{"q":"Q72615","l":"Quintus Aemilius Lepidus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q72434","l":"Marcus Aemilius Lepidus","s":"M","b":null,"d":null,"wd":"Q435329","g":1,"np":3,"nc":6,"ns":1},{"q":"Q73893","l":"Lucius Cornelius Scipio Asiaticus Aemilianus","s":"M","b":200,"d":77,"wd":"Q7234050","g":1,"np":3,"nc":2,"ns":1},{"q":"Q73794","l":"Gnaeus Cornelius Scipio","s":"M","b":null,"d":null,"wd":"Q128598522","g":1,"np":2,"nc":1,"ns":0},{"q":"Q73692","l":"Lucius Cornelius Scipio Barbatus","s":"M","b":400,"d":300,"wd":"Q374630","g":1,"np":1,"nc":2,"ns":1},{"q":"Q73569","l":"Lucius Cornelius Scipio","s":"M","b":306,"d":250,"wd":"Q708483","g":1,"np":2,"nc":3,"ns":1},{"q":"Q73443","l":"Gnaeus Cornelius Scipio Calvus","s":"M","b":256,"d":211,"wd":"Q316475","g":1,"np":2,"nc":3,"ns":1},{"q":"Q73293","l":"Publius Cornelius Scipio Nasica","s":"M","b":230,"d":171,"wd":"Q453860","g":1,"np":2,"nc":1,"ns":1},{"q":"Q73128","l":"Publius Cornelius Scipio Nasica Corculum","s":"M","b":205,"d":141,"wd":"Q503320","g":1,"np":3,"nc":2,"ns":2},{"q":"Q72957","l":"Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio","s":"M","b":-182,"d":-132,"wd":"","g":1,"np":3,"nc":1,"ns":0},{"q":"Q72801","l":"Cornelia","s":"F","b":null,"d":null,"wd":"Q100804879","g":1,"np":4,"nc":4,"ns":3}],"edges":[1,1,1,1,1,1,1,1,1,1,1,1]},{"len":16,"nodes":[{"q":"Q65002","l":"Sextus Claudius Petronius Probus","s":"M","b":328,"d":388,"wd":"Q1542092","g":1,"np":2,"nc":9,"ns":1},{"q":"Q64169","l":"Petronius","s":"M","b":null,"d":null,"wd":"Q120232596","g":1,"np":1,"nc":1,"ns":0},{"q":"Q63517","l":"Petronius Junior","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":0},{"q":"Q62926","l":"Gnaeus Petronius Probatus Junior Justus","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":1},{"q":"Q62515","l":"Petronia","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":2},{"q":"Q75817","l":"Publilia","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q75721","l":"Rufia Procula","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":3,"ns":1},{"q":"Q75781","l":"Caeionius Proculus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q75694","l":"Caeionius Julianus Camerius","s":"M","b":null,"d":334,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q75634","l":"Caeionia Auchenia Bassa","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q75573","l":"Anicius Auchenius Bassus","s":"M","b":350,"d":408,"wd":"Q2289711","g":1,"np":4,"nc":4,"ns":1},{"q":"Q75543","l":"Tyrrania Anicia Juliana","s":"F","b":null,"d":null,"wd":"Q12296367","g":1,"np":2,"nc":5,"ns":1},{"q":"Q75522","l":"Anicia Faltonia Proba","s":"F","b":null,"d":null,"wd":"Q1154373","g":1,"np":2,"nc":11,"ns":2},{"q":"Q75516","l":"Anicius Hermogenianus Olybrius","s":"M","b":null,"d":null,"wd":"Q1372249","g":1,"np":2,"nc":5,"ns":2},{"q":"Q75603","l":"Demetrias","s":"F","b":null,"d":null,"wd":"Q3625008","g":1,"np":2,"nc":2,"ns":1},{"q":"Q75558","l":"Clodia Celsina","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1}],"edges":[1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1]},{"len":25,"nodes":[{"q":"Q63192","l":"Lucilla","s":"F","b":150,"d":182,"wd":"Q242466","g":1,"np":2,"nc":5,"ns":2},{"q":"Q62704","l":"Lucius Aurellius Commodus Pompeianus","s":"M","b":176,"d":212,"wd":"Q716684","g":1,"np":2,"nc":3,"ns":1},{"q":"Q62255","l":"Aurelia Pompeiana","s":"F","b":null,"d":null,"wd":"Q109793322","g":1,"np":2,"nc":1,"ns":2},{"q":"Q61957","l":"Claudia Crispina","s":"F","b":null,"d":null,"wd":"Q867859","g":1,"np":2,"nc":6,"ns":2},{"q":"Q61565","l":"Constantius Chlorus","s":"M","b":250,"d":306,"wd":"Q131195","g":1,"np":2,"nc":16,"ns":5},{"q":"Q136506","l":"Flavia Julia Constantia","s":"F","b":null,"d":330,"wd":"Q238023","g":0,"np":2,"nc":2,"ns":1},{"q":"Q73308","l":"Licinius Varus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":0},{"q":"Q73140","l":"Gaius Lincinius Varus","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":2,"ns":0},{"q":"Q72966","l":"Lincinia Varus","s":"F","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":1},{"q":"Q72807","l":"Publius Mucius Scaevola","s":"M","b":300,"d":200,"wd":"Q2066659","g":1,"np":2,"nc":2,"ns":1},{"q":"Q141474","l":"Publius Licinius Crassus Dives Mucianus","s":"M","b":180,"d":130,"wd":"Q715499","g":1,"np":2,"nc":2,"ns":1},{"q":"Q72972","l":"Publius Licinius Crassus Dives","s":"M","b":null,"d":null,"wd":"Q29518656","g":1,"np":4,"nc":3,"ns":1},{"q":"Q72810","l":"Licinia","s":"F","b":null,"d":null,"wd":"Q12284962","g":1,"np":2,"nc":2,"ns":1},{"q":"Q72633","l":"Publius Mucius Scaevola","s":"M","b":180,"d":114,"wd":"Q261441","g":1,"np":2,"nc":1,"ns":1},{"q":"Q72451","l":"Quintus Mucius Scaevola Pontifex","s":"M","b":140,"d":82,"wd":"Q503187","g":1,"np":2,"nc":2,"ns":1},{"q":"Q72266","l":"Mucia Tertia","s":"F","b":95,"d":31,"wd":"Q273616","g":1,"np":2,"nc":4,"ns":2},{"q":"Q70970","l":"Pompeia Magna","s":"F","b":70,"d":35,"wd":"Q442503","g":1,"np":2,"nc":6,"ns":3},{"q":"Q139746","l":"Cornelia Magna","s":"F","b":1,"d":null,"wd":"Q3656046","g":0,"np":2,"nc":3,"ns":1},{"q":"Q70340","l":"Lucius Scribonius Libo","s":"M","b":50,"d":null,"wd":"Q153600","g":1,"np":3,"nc":1,"ns":1},{"q":"Q69263","l":"Scribonia Magna","s":"F","b":5,"d":47,"wd":"Q774986","g":1,"np":2,"nc":5,"ns":1},{"q":"Q67573","l":"Marcus Licinius Crassus Frugi","s":"M","b":27,"d":67,"wd":"Q764528","g":1,"np":2,"nc":5,"ns":1},{"q":"Q66488","l":"Libo Rupilius Frugi","s":"M","b":1,"d":101,"wd":"Q1237511","g":1,"np":2,"nc":2,"ns":2},{"q":"Q65258","l":"Rupilia Faustina","s":"F","b":87,"d":101,"wd":"Q2068391","g":1,"np":2,"nc":5,"ns":1},{"q":"Q64483","l":"Faustina the Elder","s":"F","b":105,"d":140,"wd":"Q234734","g":1,"np":2,"nc":4,"ns":1},{"q":"Q63747","l":"Faustina the Younger","s":"F","b":125,"d":175,"wd":"Q236936","g":1,"np":2,"nc":9,"ns":1}],"edges":[3,3,4,4,4,4,4,4,4,4,5,4,3,3,3,3,3,3,3,3,3,3,1,1,1]},{"len":25,"nodes":[{"q":"Q63780","l":"Marcus Aurelius","s":"M","b":121,"d":180,"wd":"Q1430","g":1,"np":3,"nc":9,"ns":1},{"q":"Q63192","l":"Lucilla","s":"F","b":150,"d":182,"wd":"Q242466","g":1,"np":2,"nc":5,"ns":2},{"q":"Q62704","l":"Lucius Aurellius Commodus Pompeianus","s":"M","b":176,"d":212,"wd":"Q716684","g":1,"np":2,"nc":3,"ns":1},{"q":"Q62255","l":"Aurelia Pompeiana","s":"F","b":null,"d":null,"wd":"Q109793322","g":1,"np":2,"nc":1,"ns":2},{"q":"Q61957","l":"Claudia Crispina","s":"F","b":null,"d":null,"wd":"Q867859","g":1,"np":2,"nc":6,"ns":2},{"q":"Q61565","l":"Constantius Chlorus","s":"M","b":250,"d":306,"wd":"Q131195","g":1,"np":2,"nc":16,"ns":5},{"q":"Q136506","l":"Flavia Julia Constantia","s":"F","b":null,"d":330,"wd":"Q238023","g":0,"np":2,"nc":2,"ns":1},{"q":"Q73308","l":"Licinius Varus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":0},{"q":"Q73140","l":"Gaius Lincinius Varus","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":2,"ns":0},{"q":"Q72966","l":"Lincinia Varus","s":"F","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":1},{"q":"Q72807","l":"Publius Mucius Scaevola","s":"M","b":300,"d":200,"wd":"Q2066659","g":1,"np":2,"nc":2,"ns":1},{"q":"Q141474","l":"Publius Licinius Crassus Dives Mucianus","s":"M","b":180,"d":130,"wd":"Q715499","g":1,"np":2,"nc":2,"ns":1},{"q":"Q72972","l":"Publius Licinius Crassus Dives","s":"M","b":null,"d":null,"wd":"Q29518656","g":1,"np":4,"nc":3,"ns":1},{"q":"Q72810","l":"Licinia","s":"F","b":null,"d":null,"wd":"Q12284962","g":1,"np":2,"nc":2,"ns":1},{"q":"Q72633","l":"Publius Mucius Scaevola","s":"M","b":180,"d":114,"wd":"Q261441","g":1,"np":2,"nc":1,"ns":1},{"q":"Q72451","l":"Quintus Mucius Scaevola Pontifex","s":"M","b":140,"d":82,"wd":"Q503187","g":1,"np":2,"nc":2,"ns":1},{"q":"Q72266","l":"Mucia Tertia","s":"F","b":95,"d":31,"wd":"Q273616","g":1,"np":2,"nc":4,"ns":2},{"q":"Q70970","l":"Pompeia Magna","s":"F","b":70,"d":35,"wd":"Q442503","g":1,"np":2,"nc":6,"ns":3},{"q":"Q139746","l":"Cornelia Magna","s":"F","b":1,"d":null,"wd":"Q3656046","g":0,"np":2,"nc":3,"ns":1},{"q":"Q70340","l":"Lucius Scribonius Libo","s":"M","b":50,"d":null,"wd":"Q153600","g":1,"np":3,"nc":1,"ns":1},{"q":"Q69263","l":"Scribonia Magna","s":"F","b":5,"d":47,"wd":"Q774986","g":1,"np":2,"nc":5,"ns":1},{"q":"Q67573","l":"Marcus Licinius Crassus Frugi","s":"M","b":27,"d":67,"wd":"Q764528","g":1,"np":2,"nc":5,"ns":1},{"q":"Q66488","l":"Libo Rupilius Frugi","s":"M","b":1,"d":101,"wd":"Q1237511","g":1,"np":2,"nc":2,"ns":2},{"q":"Q65258","l":"Rupilia Faustina","s":"F","b":87,"d":101,"wd":"Q2068391","g":1,"np":2,"nc":5,"ns":1},{"q":"Q64549","l":"Marcus Annius Verus","s":"M","b":94,"d":120,"wd":"Q1292169","g":1,"np":2,"nc":3,"ns":2}],"edges":[2,3,3,4,4,4,4,4,4,4,4,5,4,3,3,3,3,3,3,3,3,3,3,1,1]},{"len":27,"nodes":[{"q":"Q62255","l":"Aurelia Pompeiana","s":"F","b":null,"d":null,"wd":"Q109793322","g":1,"np":2,"nc":1,"ns":2},{"q":"Q61957","l":"Claudia Crispina","s":"F","b":null,"d":null,"wd":"Q867859","g":1,"np":2,"nc":6,"ns":2},{"q":"Q61565","l":"Constantius Chlorus","s":"M","b":250,"d":306,"wd":"Q131195","g":1,"np":2,"nc":16,"ns":5},{"q":"Q136506","l":"Flavia Julia Constantia","s":"F","b":null,"d":330,"wd":"Q238023","g":0,"np":2,"nc":2,"ns":1},{"q":"Q73308","l":"Licinius Varus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":0},{"q":"Q73140","l":"Gaius Lincinius Varus","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":2,"ns":0},{"q":"Q72966","l":"Lincinia Varus","s":"F","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":1},{"q":"Q72807","l":"Publius Mucius Scaevola","s":"M","b":300,"d":200,"wd":"Q2066659","g":1,"np":2,"nc":2,"ns":1},{"q":"Q141474","l":"Publius Licinius Crassus Dives Mucianus","s":"M","b":180,"d":130,"wd":"Q715499","g":1,"np":2,"nc":2,"ns":1},{"q":"Q72972","l":"Publius Licinius Crassus Dives","s":"M","b":null,"d":null,"wd":"Q29518656","g":1,"np":4,"nc":3,"ns":1},{"q":"Q72810","l":"Licinia","s":"F","b":null,"d":null,"wd":"Q12284962","g":1,"np":2,"nc":2,"ns":1},{"q":"Q72633","l":"Publius Mucius Scaevola","s":"M","b":180,"d":114,"wd":"Q261441","g":1,"np":2,"nc":1,"ns":1},{"q":"Q72451","l":"Quintus Mucius Scaevola Pontifex","s":"M","b":140,"d":82,"wd":"Q503187","g":1,"np":2,"nc":2,"ns":1},{"q":"Q72266","l":"Mucia Tertia","s":"F","b":95,"d":31,"wd":"Q273616","g":1,"np":2,"nc":4,"ns":2},{"q":"Q70970","l":"Pompeia Magna","s":"F","b":70,"d":35,"wd":"Q442503","g":1,"np":2,"nc":6,"ns":3},{"q":"Q139746","l":"Cornelia Magna","s":"F","b":1,"d":null,"wd":"Q3656046","g":0,"np":2,"nc":3,"ns":1},{"q":"Q70340","l":"Lucius Scribonius Libo","s":"M","b":50,"d":null,"wd":"Q153600","g":1,"np":3,"nc":1,"ns":1},{"q":"Q69263","l":"Scribonia Magna","s":"F","b":5,"d":47,"wd":"Q774986","g":1,"np":2,"nc":5,"ns":1},{"q":"Q67573","l":"Marcus Licinius Crassus Frugi","s":"M","b":27,"d":67,"wd":"Q764528","g":1,"np":2,"nc":5,"ns":1},{"q":"Q66488","l":"Libo Rupilius Frugi","s":"M","b":1,"d":101,"wd":"Q1237511","g":1,"np":2,"nc":2,"ns":2},{"q":"Q65258","l":"Rupilia Faustina","s":"F","b":87,"d":101,"wd":"Q2068391","g":1,"np":2,"nc":5,"ns":1},{"q":"Q141756","l":"Annia Rupilia Faustina","s":"F","b":null,"d":null,"wd":"Q111988914","g":0,"np":2,"nc":1,"ns":1},{"q":"Q65192","l":"Gaius Annianus Verus","s":"M","b":100,"d":null,"wd":"Q12275936","g":1,"np":3,"nc":4,"ns":1},{"q":"Q64355","l":"Gaius Ummidius Quadratus Annianus Verus Fulvius","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q63684","l":"Ummidia Commificia Antonia","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":2},{"q":"Q63157","l":"Pendania","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q62680","l":"Mariana Minor","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1}],"edges":[4,4,4,4,4,4,4,4,5,4,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1]},{"len":31,"nodes":[{"q":"Q68488","l":"Octavia","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q66916","l":"Curtilia Mancia","s":"F","b":null,"d":null,"wd":"Q107638183","g":1,"np":2,"nc":1,"ns":1},{"q":"Q65552","l":"Domitia Lucilla","s":"F","b":50,"d":null,"wd":"Q12278988","g":1,"np":2,"nc":2,"ns":1},{"q":"Q139826","l":"Calvisia Domitia Lucilla","s":"F","b":100,"d":null,"wd":"Q1815905","g":0,"np":2,"nc":2,"ns":1},{"q":"Q63780","l":"Marcus Aurelius","s":"M","b":121,"d":180,"wd":"Q1430","g":1,"np":3,"nc":9,"ns":1},{"q":"Q63192","l":"Lucilla","s":"F","b":150,"d":182,"wd":"Q242466","g":1,"np":2,"nc":5,"ns":2},{"q":"Q62704","l":"Lucius Aurellius Commodus Pompeianus","s":"M","b":176,"d":212,"wd":"Q716684","g":1,"np":2,"nc":3,"ns":1},{"q":"Q62255","l":"Aurelia Pompeiana","s":"F","b":null,"d":null,"wd":"Q109793322","g":1,"np":2,"nc":1,"ns":2},{"q":"Q61957","l":"Claudia Crispina","s":"F","b":null,"d":null,"wd":"Q867859","g":1,"np":2,"nc":6,"ns":2},{"q":"Q61565","l":"Constantius Chlorus","s":"M","b":250,"d":306,"wd":"Q131195","g":1,"np":2,"nc":16,"ns":5},{"q":"Q136506","l":"Flavia Julia Constantia","s":"F","b":null,"d":330,"wd":"Q238023","g":0,"np":2,"nc":2,"ns":1},{"q":"Q73308","l":"Licinius Varus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":0},{"q":"Q73140","l":"Gaius Lincinius Varus","s":"M","b":null,"d":null,"wd":"","g":1,"np":1,"nc":2,"ns":0},{"q":"Q72966","l":"Lincinia Varus","s":"F","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":1},{"q":"Q72807","l":"Publius Mucius Scaevola","s":"M","b":300,"d":200,"wd":"Q2066659","g":1,"np":2,"nc":2,"ns":1},{"q":"Q141474","l":"Publius Licinius Crassus Dives Mucianus","s":"M","b":180,"d":130,"wd":"Q715499","g":1,"np":2,"nc":2,"ns":1},{"q":"Q72972","l":"Publius Licinius Crassus Dives","s":"M","b":null,"d":null,"wd":"Q29518656","g":1,"np":4,"nc":3,"ns":1},{"q":"Q72981","l":"Publius Licinius Crassus","s":"M","b":300,"d":150,"wd":"Q20100913","g":1,"np":2,"nc":2,"ns":2},{"q":"Q72831","l":"Marcus Licinius Crassus","s":"M","b":150,"d":null,"wd":"Q19715630","g":1,"np":2,"nc":2,"ns":1},{"q":"Q72657","l":"Publius Licinius Crassus Dives","s":"M","b":null,"d":null,"wd":"Q656527","g":1,"np":2,"nc":3,"ns":1},{"q":"Q72933","l":"Marcus Licinius Crassus","s":"M","b":null,"d":null,"wd":"","g":1,"np":3,"nc":1,"ns":1},{"q":"Q72774","l":"Licinia Crassa Pilius","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q72603","l":"Pilia","s":"F","b":null,"d":null,"wd":"Q2292963","g":1,"np":2,"nc":1,"ns":1},{"q":"Q72425","l":"Attica","s":"F","b":55,"d":28,"wd":"Q152626","g":1,"np":2,"nc":2,"ns":1},{"q":"Q72239","l":"Vipsania Agrippina","s":"F","b":null,"d":20,"wd":"Q232090","g":1,"np":2,"nc":12,"ns":2},{"q":"Q77611","l":"Drusus Julius Caesar","s":"M","b":13,"d":23,"wd":"Q313737","g":1,"np":2,"nc":4,"ns":1},{"q":"Q138467","l":"Julia Livia","s":"F","b":5,"d":43,"wd":"Q266030","g":0,"np":2,"nc":4,"ns":2},{"q":"Q72338","l":"Rubellius Blandus","s":"M","b":null,"d":null,"wd":"Q111335237","g":1,"np":2,"nc":1,"ns":1},{"q":"Q71628","l":"Lucius Rubellius Blandus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q70718","l":"Gaius Rubellius Blandus","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":2},{"q":"Q70152","l":"Rubellia Bassa","s":"F","b":null,"d":null,"wd":"","g":1,"np":3,"nc":5,"ns":2}],"edges":[1,1,1,1,2,3,3,4,4,4,4,4,4,4,4,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]},{"len":33,"nodes":[{"q":"Q79385","l":"Goncalo Ximeno Ausendes","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q79409","l":"Pero Goncalves","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":0},{"q":"Q79429","l":"Hermenegildo Goncalves","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":2,"ns":0},{"q":"Q79459","l":"N.N. Goncalves","s":"F","b":null,"d":null,"wd":"","g":0,"np":1,"nc":3,"ns":0},{"q":"Q79495","l":"Velasquita Maldonado","s":"F","b":null,"d":null,"wd":"","g":0,"np":1,"nc":4,"ns":1},{"q":"Q79510","l":"Maria Soares","s":"F","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":0},{"q":"Q79582","l":"Diogo Rodrigues de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q79663","l":"Rui Dias de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q79863","l":"Joao Afonso de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":2,"ns":0},{"q":"Q80223","l":"Diogo Afonso Afonso de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":8,"ns":0},{"q":"Q80606","l":"Pedro Afonso de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":5,"ns":0},{"q":"Q81339","l":"Antonio Ambrosio de Aguiar Coutinho","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":9,"ns":0},{"q":"Q82122","l":"Barbara, imperatriz of Rome","s":"F","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":1},{"q":"Q99597","l":"Bárbara, Princess of Rome","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q99585","l":"Aviena","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q99573","l":"Proba","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q99558","l":"Proba Rogas of Lybia","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q99544","l":"Heracles","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":3,"ns":1},{"q":"Q79084","l":"Georgia Eudoxia","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q79093","l":"Munia Eudoxia","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":1},{"q":"Q79102","l":"Esteban Balthes","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":1},{"q":"Q79111","l":"Pedro Balthes de Toledo","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":4,"ns":1},{"q":"Q79126","l":"Galindo de Toledo","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":3,"ns":1},{"q":"Q79135","l":"Paulo de Toledo","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":0},{"q":"Q79147","l":"Teodomiro de Toledo","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":3,"ns":0},{"q":"Q79168","l":"Ouvequio de Toledo","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":2,"ns":0},{"q":"Q79192","l":"Marcella de Toledo","s":"F","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q79220","l":"Beatrix de Bardolf","s":"F","b":null,"d":null,"wd":"","g":0,"np":1,"nc":3,"ns":1},{"q":"Q79241","l":"Jeanne de Pont-Audemer","s":"F","b":null,"d":null,"wd":"","g":0,"np":2,"nc":5,"ns":0},{"q":"Q79262","l":"Bernard of Mans - Beulac","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q79286","l":"Eve of Mans - Beulac","s":"F","b":null,"d":null,"wd":"","g":0,"np":1,"nc":6,"ns":0},{"q":"Q79331","l":"Galburge de Castellane","s":"F","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":1},{"q":"Q79361","l":"D.Urraca de Pamplona","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":5,"ns":1}],"edges":[2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1]},{"len":33,"nodes":[{"q":"Q79510","l":"Maria Soares","s":"F","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":0},{"q":"Q79582","l":"Diogo Rodrigues de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q79663","l":"Rui Dias de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q79863","l":"Joao Afonso de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":2,"ns":0},{"q":"Q80223","l":"Diogo Afonso Afonso de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":8,"ns":0},{"q":"Q80606","l":"Pedro Afonso de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":5,"ns":0},{"q":"Q81339","l":"Antonio Ambrosio de Aguiar Coutinho","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":9,"ns":0},{"q":"Q82122","l":"Barbara, imperatriz of Rome","s":"F","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":1},{"q":"Q99597","l":"Bárbara, Princess of Rome","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q99585","l":"Aviena","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q99573","l":"Proba","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q99558","l":"Proba Rogas of Lybia","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q99544","l":"Heracles","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":3,"ns":1},{"q":"Q79084","l":"Georgia Eudoxia","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q79093","l":"Munia Eudoxia","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":1},{"q":"Q79102","l":"Esteban Balthes","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":1},{"q":"Q79111","l":"Pedro Balthes de Toledo","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":4,"ns":1},{"q":"Q79126","l":"Galindo de Toledo","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":3,"ns":1},{"q":"Q79135","l":"Paulo de Toledo","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":0},{"q":"Q79147","l":"Teodomiro de Toledo","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":3,"ns":0},{"q":"Q79168","l":"Ouvequio de Toledo","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":2,"ns":0},{"q":"Q79192","l":"Marcella de Toledo","s":"F","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q79220","l":"Beatrix de Bardolf","s":"F","b":null,"d":null,"wd":"","g":0,"np":1,"nc":3,"ns":1},{"q":"Q79241","l":"Jeanne de Pont-Audemer","s":"F","b":null,"d":null,"wd":"","g":0,"np":2,"nc":5,"ns":0},{"q":"Q79262","l":"Bernard of Mans - Beulac","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q79286","l":"Eve of Mans - Beulac","s":"F","b":null,"d":null,"wd":"","g":0,"np":1,"nc":6,"ns":0},{"q":"Q79331","l":"Galburge de Castellane","s":"F","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":1},{"q":"Q79361","l":"D.Urraca de Pamplona","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":5,"ns":1},{"q":"Q79388","l":"D. Ausindo Ximeno","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":1},{"q":"Q79415","l":"D.Soeiro Ausendes","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":0},{"q":"Q79435","l":"D.Arnaldo Ximenes","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":4,"ns":1},{"q":"Q79441","l":"Berenguela Ximenes, Baiao, Soares","s":"F","b":null,"d":null,"wd":"","g":0,"np":2,"nc":4,"ns":0},{"q":"Q79468","l":"Soeiro Arnaldes de Novoa (D.)","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":4,"ns":1}],"edges":[3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,1,1,1]},{"len":47,"nodes":[{"q":"Q100154","l":"Godo Arnaldes de Baiao","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q100519","l":"Soeiro Guedes","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":6,"ns":2},{"q":"Q101113","l":"D. Ausindo Soares","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":1},{"q":"Q113625","l":"D.Teodoredo Ausendes Soares","s":"M","b":1078,"d":null,"wd":"","g":1,"np":2,"nc":5,"ns":1},{"q":"Q79385","l":"Goncalo Ximeno Ausendes","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q79409","l":"Pero Goncalves","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":0},{"q":"Q79429","l":"Hermenegildo Goncalves","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":2,"ns":0},{"q":"Q79459","l":"N.N. Goncalves","s":"F","b":null,"d":null,"wd":"","g":0,"np":1,"nc":3,"ns":0},{"q":"Q79495","l":"Velasquita Maldonado","s":"F","b":null,"d":null,"wd":"","g":0,"np":1,"nc":4,"ns":1},{"q":"Q79510","l":"Maria Soares","s":"F","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":0},{"q":"Q79582","l":"Diogo Rodrigues de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q79663","l":"Rui Dias de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q79863","l":"Joao Afonso de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":2,"ns":0},{"q":"Q80223","l":"Diogo Afonso Afonso de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":8,"ns":0},{"q":"Q80606","l":"Pedro Afonso de Aguiar","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":5,"ns":0},{"q":"Q81339","l":"Antonio Ambrosio de Aguiar Coutinho","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":9,"ns":0},{"q":"Q82122","l":"Barbara, imperatriz of Rome","s":"F","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":1},{"q":"Q99597","l":"Bárbara, Princess of Rome","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q99585","l":"Aviena","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q99573","l":"Proba","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q99558","l":"Proba Rogas of Lybia","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q99544","l":"Heracles","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":3,"ns":1},{"q":"Q79084","l":"Georgia Eudoxia","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":1},{"q":"Q79093","l":"Munia Eudoxia","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":1},{"q":"Q79102","l":"Esteban Balthes","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":1},{"q":"Q79111","l":"Pedro Balthes de Toledo","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":4,"ns":1},{"q":"Q79126","l":"Galindo de Toledo","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":3,"ns":1},{"q":"Q79135","l":"Paulo de Toledo","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":0},{"q":"Q79147","l":"Teodomiro de Toledo","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":3,"ns":0},{"q":"Q79168","l":"Ouvequio de Toledo","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":2,"ns":0},{"q":"Q79192","l":"Marcella de Toledo","s":"F","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q79220","l":"Beatrix de Bardolf","s":"F","b":null,"d":null,"wd":"","g":0,"np":1,"nc":3,"ns":1},{"q":"Q79241","l":"Jeanne de Pont-Audemer","s":"F","b":null,"d":null,"wd":"","g":0,"np":2,"nc":5,"ns":0},{"q":"Q79262","l":"Bernard of Mans - Beulac","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":1,"ns":0},{"q":"Q79286","l":"Eve of Mans - Beulac","s":"F","b":null,"d":null,"wd":"","g":0,"np":1,"nc":6,"ns":0},{"q":"Q79331","l":"Galburge de Castellane","s":"F","b":null,"d":null,"wd":"","g":1,"np":1,"nc":1,"ns":1},{"q":"Q79361","l":"D.Urraca de Pamplona","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":5,"ns":1},{"q":"Q79388","l":"D. Ausindo Ximeno","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":1},{"q":"Q79415","l":"D.Soeiro Ausendes","s":"M","b":null,"d":null,"wd":"","g":1,"np":2,"nc":1,"ns":0},{"q":"Q79435","l":"D.Arnaldo Ximenes","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":4,"ns":1},{"q":"Q79438","l":"Sancho ou Sancho Arnolfo Ximenes","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":2,"ns":1},{"q":"Q79424","l":"Gil Guille em Narbonne","s":"M","b":null,"d":null,"wd":"","g":0,"np":2,"nc":1,"ns":0},{"q":"Q79450","l":"Soeiro Afonso Tangil","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":4,"ns":0},{"q":"Q79480","l":"Fernao dos de Tangil","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":6,"ns":0},{"q":"Q79537","l":"Estevao Soares (D.)","s":"M","b":null,"d":null,"wd":"","g":0,"np":1,"nc":2,"ns":0},{"q":"Q79618","l":"Tereza Eriz de Lugo","s":"F","b":null,"d":null,"wd":"","g":1,"np":1,"nc":6,"ns":1},{"q":"Q99939","l":"Ufa Ufes","s":"F","b":null,"d":null,"wd":"","g":1,"np":2,"nc":2,"ns":1}],"edges":[1,1,1,1,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,1,1,1,1,1,1,1,1]}];
+
+const list = document.getElementById('list');
+const countEl = document.getElementById('count');
+const find = document.getElementById('find');
+
+let state = { size: 'all', sort: 'asc', q: '', lit: null };
+
+const REPAIRED = {"fixed": 8, "left": 14};
+
+(function banner() {
+  const el = document.getElementById('repaired');
+  if (!REPAIRED.fixed) { el.remove(); return; }
+  el.innerHTML = `<b>${REPAIRED.fixed} mutual parent pairs have been repaired in the dump.</b> `
+    + `Each was a record claiming the same person as both its parent and its child; the `
+    + `reversed claim was deleted and nothing else was touched. `
+    + `${REPAIRED.left} pairs are still here — the evidence either conflicted or ran out.`;
+})();
+
+// tallies
+(function tally() {
+  const people = new Set();
+  let links = 0, dated = 0;
+  for (const c of CYCLES) {
+    links += c.nodes.length;
+    for (const n of c.nodes) {
+      if (!people.has(n.q)) { people.add(n.q); if (n.b !== null) dated++; }
+    }
+  }
+  const lens = CYCLES.map(c => c.nodes.length);
+  document.getElementById('t-cycles').textContent = CYCLES.length;
+  document.getElementById('t-people').textContent = people.size;
+  document.getElementById('t-links').textContent = links;
+  document.getElementById('t-short').textContent = Math.min(...lens);
+  document.getElementById('t-long').textContent = Math.max(...lens);
+  document.getElementById('t-dated').textContent = dated;
+})();
+
+function yearText(n) {
+  if (n.b === null && n.d === null) return '';
+  const f = y => y === null ? '?' : (y < 0 ? Math.abs(y) + ' BC' : String(y));
+  if (n.b !== null && n.d !== null) return f(n.b) + '–' + f(n.d);
+  return n.b !== null ? 'b. ' + f(n.b) : 'd. ' + f(n.d);
+}
+
+function claimFor(c) {
+  const first = c.nodes[0];
+  const nm = first.l === '(no label)' ? 'This record' : first.l;
+  if (c.nodes.length === 2) {
+    const other = c.nodes[1].l === '(no label)' ? 'the other record' : c.nodes[1].l;
+    return `<em>${esc(nm)}</em> and <em>${esc(other)}</em> are each recorded as the other's parent.`;
+  }
+  return `<em>${esc(nm)}</em> is recorded as their own ancestor, ${c.nodes.length} generations up.`;
+}
+
+function esc(s) {
+  return String(s).replace(/[&<>"]/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[ch]));
+}
+
+function matches(c, q) {
+  if (!q) return true;
+  const t = q.toLowerCase();
+  return c.nodes.some(n => n.l.toLowerCase().includes(t) || n.q.toLowerCase() === t
+    || n.q.toLowerCase().includes(t));
+}
+
+function sizeOk(c) {
+  const n = c.nodes.length;
+  if (state.size === '2') return n === 2;
+  if (state.size === 'short') return n >= 3 && n <= 9;
+  if (state.size === 'long') return n >= 10;
+  return true;
+}
+
+function render() {
+  const rows = CYCLES
+    .map((c, i) => ({ c, i }))
+    .filter(({ c }) => sizeOk(c) && matches(c, state.q))
+    .sort((a, b) => state.sort === 'asc'
+      ? a.c.nodes.length - b.c.nodes.length || a.i - b.i
+      : b.c.nodes.length - a.c.nodes.length || a.i - b.i);
+
+  countEl.textContent = rows.length === CYCLES.length
+    ? `${CYCLES.length} cycles`
+    : `${rows.length} of ${CYCLES.length} cycles`;
+
+  if (!rows.length) {
+    list.innerHTML = '<p class="empty">No loop here matches that. Try a surname, or a QID like Q73380.</p>';
+    return;
+  }
+
+  list.innerHTML = rows.map(({ c }) => {
+    const people = c.nodes.map((n, j) => {
+      const shared = c.edges[j] > 1
+        ? `<p class="shared">this link also runs through ${c.edges[j] - 1} other cycle${c.edges[j] > 2 ? 's' : ''}</p>`
+        : '';
+      const yrs = yearText(n);
+      const src = [];
+      if (n.wd) src.push('<span class="chip src">WD</span>');
+      if (n.g) src.push('<span class="chip src">GENI</span>');
+      return `<li class="person" data-qid="${n.q}">
+          <button type="button" class="name${n.l === '(no label)' ? ' nolabel' : ''}">${esc(n.l)}</button>
+          ${n.s ? `<span class="chip">${n.s}</span>` : ''}
+          <span class="meta">
+            ${yrs ? `<span class="dates">${yrs}</span>` : ''}
+            <span>${n.np}p · ${n.nc}c · ${n.ns}s</span>
+            ${src.join('')}
+            <span class="qid">${n.q}</span>
+          </span>
+        </li>${shared}`;
+    }).join('');
+
+    const firstName = c.nodes[0].l === '(no label)' ? c.nodes[0].q : c.nodes[0].l;
+    return `<article class="cycle">
+        <header>
+          <span class="steps">${c.nodes.length} ${c.nodes.length === 2 ? 'people' : 'generations'}</span>
+          <p class="claim">${claimFor(c)}</p>
+        </header>
+        <ol class="chain">${people}</ol>
+        <p class="closes"><span>&#8617;</span> and back to ${esc(firstName)}</p>
+      </article>`;
+  }).join('');
+
+  applyLit();
+}
+
+function applyLit() {
+  document.querySelectorAll('.person').forEach(el => {
+    el.classList.toggle('lit', state.lit !== null && el.dataset.qid === state.lit);
+  });
+}
+
+list.addEventListener('click', e => {
+  const btn = e.target.closest('.name');
+  if (!btn) return;
+  const qid = btn.closest('.person').dataset.qid;
+  state.lit = state.lit === qid ? null : qid;
+  applyLit();
+});
+
+document.querySelectorAll('[data-size]').forEach(b => {
+  b.addEventListener('click', () => {
+    state.size = b.dataset.size;
+    document.querySelectorAll('[data-size]').forEach(x =>
+      x.setAttribute('aria-pressed', String(x === b)));
+    render();
+  });
+});
+
+document.querySelectorAll('[data-sort]').forEach(b => {
+  b.addEventListener('click', () => {
+    state.sort = b.dataset.sort;
+    document.querySelectorAll('[data-sort]').forEach(x =>
+      x.setAttribute('aria-pressed', String(x === b)));
+    render();
+  });
+});
+
+find.addEventListener('input', () => { state.q = find.value.trim(); render(); });
+
+render();
+</script>

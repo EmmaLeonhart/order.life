@@ -1,5 +1,13 @@
 # Genealogy QA — local dump analysis (2026-07-01)
 
+> **2026-07-30: use Wikidata.** The sections below were written under "fully local,
+> nothing is fetched." That rule was about the dead Miraheze wiki, and it got wrongly
+> extended to Wikidata, which is live, queryable and holds an ID for 60,085 of these
+> records. A great deal of name-based guesswork in this file could have been a lookup.
+> Two scripts now do that: `wiki-scripts/check_cycles_against_wikidata.py` (checks cycle
+> edges) and `wiki-scripts/audit_wikidata_ids.py` (checks every stored ID). See
+> "Wikidata cross-check" at the bottom.
+
 Analysis + QA of the **local, committed** Wikibase genealogy dump. Fully local —
 reads `wikibase/analysis/{persons,edges,spouses}.tsv` (extracted from the
 `wikibase/items/*.json` snapshot). **The source wiki was taken down by Miraheze
@@ -96,3 +104,69 @@ them wrong whichever way it is set. Regnal numbers, elder/younger markers (`maio
 Clustering is single-linkage, so a chain of near-identical labels becomes one cluster.
 That is right for duplicate detection but means a large cluster deserves a look before
 it is applied.
+
+## Wikidata cross-check (2026-07-30)
+
+Two read-only scripts, both resumable, neither writes to the dump.
+
+### `check_cycles_against_wikidata.py` → `qa_cycles_vs_wikidata.tsv`
+
+Checks all 514 cycle edges against Wikidata's own P22/P25/P40. **186 confirmed,
+33 contradicted outright, 6 inherited, 289 unknown** (one or both endpoints have no
+Wikidata ID). By cycle: 27 of 70 are decided by Wikidata alone, with no name heuristics
+involved at all.
+
+"Inherited" means Wikidata has the same contradiction. **`Pons Hug d'Entença`
+(Q21001415) lists Jussiana (Q14083227) as BOTH his mother and his child on Wikidata
+itself**, and the dump copied it faithfully. That cycle is not an import artifact and
+no local cleverness fixes it; the repair belongs upstream. It is the only such case in
+the cycle set, but it is proof the dump is not always the guilty party.
+
+### `audit_wikidata_ids.py` → `qa_wikidata_ids.tsv`
+
+Walks all 60,037 distinct stored IDs (~4 minutes, 8 workers, cached in
+`.wikidata_cache_full.json`).
+
+| verdict | count | share |
+|---|---:|---:|
+| ok | 53,252 | 88.63% |
+| unverifiable | 6,238 | 10.38% |
+| not_a_human | 331 | 0.55% |
+| name_mismatch | 127 | 0.21% |
+| shared_id | 96 | 0.16% |
+| sex_conflict | 32 | 0.05% |
+| missing | 9 | 0.01% |
+
+`unverifiable` is benign — a placeholder local label (`NN`), a label that is just a QID
+string, or the two labels being in different writing systems so no comparison is
+possible. Genuinely wrong IDs are about **595 records, ~1%**.
+
+**But the bad ones cluster where it hurts.** `Ops` → Q96761 *Paul Bildt*, a Dutch film
+actor. `Tros` → Uranus. `Danaus` → Oceanus. `Saturn` → Cronus. `Xu Fu` → Watatsumi —
+and Xu Fu carries the Jimmu descent. Every one is in the Greek/Roman/mythic tier, which
+sits under 46 of the 67 ancestry cycles and carries 34,365 descendants. The worst IDs
+are attached to the most load-bearing nodes, so a 1% error rate is not a 1% problem.
+
+**Systemic finding: Japanese names were romanised through Chinese pinyin.** 69 of the
+127 name mismatches are a Latin local label against a CJK Wikidata label, and the
+pattern is consistent — 徳川 is stored as `De Chuan` rather than Tokugawa, 細川 as
+`Xi Chuan` rather than Hosokawa, 岩倉 as `Yan Cang` rather than Iwakura, 池田 as
+`Chi Tian` rather than Ikeda. The kanji were read as Chinese. In these records the
+`wikidata_qid` is **correct** and the local *label* is wrong, which is the opposite of
+the other findings here — and it is why name-based matching kept failing on the
+Japanese block.
+
+Also spotted: `Q6439` has the local label `kontol`, Indonesian profanity, pointing at
+帝臨魁. That is vandalism or junk, not a transliteration.
+
+### Caveats worth keeping
+
+- Wikidata is user-edited too and demonstrably holds impossible loops. "Confirmed"
+  means the two copies agree, which is provenance, not truth.
+- The audit's `not_a_human` check needs a wide notion of person for this genealogy —
+  biblical figures, kami, naiads, Oceanids, disputed humans. The first pass flagged
+  1,581 records with a too-narrow class list; the corrected list brings it to 331.
+  If that number jumps again, suspect the class list before the data.
+- An early threaded run recorded 1,961 IDs as `missing` that were really just batches
+  that failed and never got cached. Re-running resolved it to 9. Unfetched is not the
+  same as missing.

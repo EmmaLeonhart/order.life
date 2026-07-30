@@ -1,0 +1,515 @@
+cycle_len	cycle_head	parent	child	wd_parent	wd_child	verdict	detail
+7	Q140681	Q140681 (Lleucu ferch Gruffudd)	Q140643 (Rhys ap Llowdden y Gath)	Q110413685	Q99302513	confirmed	Wikidata agrees Lleucu ferch Gruffudd is a parent of Rhys ap Llowdden y Gath
+7	Q140681	Q140643 (Rhys ap Llowdden y Gath)	Q139043 (Ieuan ap Rhys)	Q99302513	Q99071449	confirmed	Wikidata agrees Rhys ap Llowdden y Gath is a parent of Ieuan ap Rhys
+7	Q140681	Q139043 (Ieuan ap Rhys)	Q138061 (Joan ferch Ieuan ap Rhys ap Llowdden)	Q99071449	Q110413692	confirmed	Wikidata agrees Ieuan ap Rhys is a parent of Joan ferch Ieuan ap Rhys ap Llowdden
+7	Q140681	Q138061 (Joan ferch Ieuan ap Rhys ap Llowdden)	Q138810 (Llywelyn Ddû ab Owain)	Q110413692	Q99086883	confirmed	Wikidata agrees Joan ferch Ieuan ap Rhys ap Llowdden is a parent of Llywelyn Ddû ab Owain
+7	Q140681	Q138810 (Llywelyn Ddû ab Owain)	Q140234 (Llywelyn Foethus ap Llywelyn Ddû ab Owain)	Q99086883	Q99086873	confirmed	Wikidata agrees Llywelyn Ddû ab Owain is a parent of Llywelyn Foethus ap Llywelyn Ddû ab Owain
+7	Q140681	Q140234 (Llywelyn Foethus ap Llywelyn Ddû ab Owain)	Q139067 (Gruffudd Foethus ap Llywelyn)	Q99086873	Q75905270	confirmed	Wikidata agrees Llywelyn Foethus ap Llywelyn Ddû ab Owain is a parent of Gruffudd Foethus ap Llywelyn
+7	Q140681	Q139067 (Gruffudd Foethus ap Llywelyn)	Q140681 (Lleucu ferch Gruffudd)	Q75905270	Q110413685	confirmed	Wikidata agrees Gruffudd Foethus ap Llywelyn is a parent of Lleucu ferch Gruffudd
+4	Q144542	Q144542 (Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig)	Q148522 (Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadwgan Ddû)	Q116147500	Q110636576	confirmed	Wikidata agrees Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig is a parent of Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadwgan Ddû
+4	Q144542	Q148522 (Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadwgan Ddû)	Q146349 (Cynwrig Fychan ap Cynwrig)	Q110636576	Q99071981	confirmed	Wikidata agrees Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadwgan Ddû is a parent of Cynwrig Fychan ap Cynwrig
+4	Q144542	Q146349 (Cynwrig Fychan ap Cynwrig)	Q148521 (Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap Llywarch)	Q99071981	Q116147501	confirmed	Wikidata agrees Cynwrig Fychan ap Cynwrig is a parent of Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap Llywarch
+4	Q144542	Q148521 (Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap Llywarch)	Q144542 (Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig)	Q116147501	Q116147500	confirmed	Wikidata agrees Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap Llywarch is a parent of Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig
+5	Q124326	Q124326 (Guerau V de Cabrera)	Q104371 (Arsende de Cabrera)	Q19291067		unknown	no Wikidata ID for Arsende de Cabrera
+5	Q124326	Q104371 (Arsende de Cabrera)	Q107162 (Ermengol VII, Count of Urgell)		Q949224	unknown	no Wikidata ID for Arsende de Cabrera
+5	Q124326	Q107162 (Ermengol VII, Count of Urgell)	Q123407 (Marquesa d'Urgell)	Q949224	Q21126997	confirmed	Wikidata agrees Ermengol VII, Count of Urgell is a parent of Marquesa d'Urgell
+5	Q124326	Q123407 (Marquesa d'Urgell)	Q124325 (Guerau IV de Cabrera)	Q21126997	Q4894186	confirmed	Wikidata agrees Marquesa d'Urgell is a parent of Guerau IV de Cabrera
+5	Q124326	Q124325 (Guerau IV de Cabrera)	Q124326 (Guerau V de Cabrera)	Q4894186	Q19291067	confirmed	Wikidata agrees Guerau IV de Cabrera is a parent of Guerau V de Cabrera
+2	Q119481	Q119481 (Pons Hug d'Entença)	Q124343 (Jussiana d'Entença)	Q21001415	Q14083227	inherited	Wikidata itself has Pons Hug d'Entença (Q21001415) as BOTH parent and child of Jussiana d'Entença (Q14083227) — the contradiction is upstream
+2	Q119481	Q124343 (Jussiana d'Entença)	Q119481 (Pons Hug d'Entença)	Q14083227	Q21001415	inherited	Wikidata itself has Jussiana d'Entença (Q14083227) as BOTH parent and child of Pons Hug d'Entença (Q21001415) — the contradiction is upstream
+4	Q135895	Q135895 (Pepin of Herstal)	Q113081 (Charles Martel)	Q91392	Q3301	confirmed	Wikidata agrees Pepin of Herstal is a parent of Charles Martel
+4	Q135895	Q113081 (Charles Martel)	Q111318 (Pepin of Landen)	Q3301	Q313373	contradicted	Wikidata records no link between them
+4	Q135895	Q111318 (Pepin of Landen)	Q111320 (Begga)	Q313373	Q266765	confirmed	Wikidata agrees Pepin of Landen is a parent of Begga
+4	Q135895	Q111320 (Begga)	Q135895 (Pepin of Herstal)	Q266765	Q91392	confirmed	Wikidata agrees Begga is a parent of Pepin of Herstal
+33	Q79385	Q79385 (Goncalo Ximeno Ausendes)	Q79409 (Pero Goncalves)			unknown	no Wikidata ID for Goncalo Ximeno Ausendes and Pero Goncalves
+33	Q79385	Q79409 (Pero Goncalves)	Q79429 (Hermenegildo Goncalves)			unknown	no Wikidata ID for Pero Goncalves and Hermenegildo Goncalves
+33	Q79385	Q79429 (Hermenegildo Goncalves)	Q79459 (N.N. Goncalves)			unknown	no Wikidata ID for Hermenegildo Goncalves and N.N. Goncalves
+33	Q79385	Q79459 (N.N. Goncalves)	Q79495 (Velasquita Maldonado)			unknown	no Wikidata ID for N.N. Goncalves and Velasquita Maldonado
+33	Q79385	Q79495 (Velasquita Maldonado)	Q79510 (Maria Soares)			unknown	no Wikidata ID for Velasquita Maldonado and Maria Soares
+33	Q79385	Q79510 (Maria Soares)	Q79582 (Diogo Rodrigues de Aguiar)			unknown	no Wikidata ID for Maria Soares and Diogo Rodrigues de Aguiar
+33	Q79385	Q79582 (Diogo Rodrigues de Aguiar)	Q79663 (Rui Dias de Aguiar)			unknown	no Wikidata ID for Diogo Rodrigues de Aguiar and Rui Dias de Aguiar
+33	Q79385	Q79663 (Rui Dias de Aguiar)	Q79863 (Joao Afonso de Aguiar)			unknown	no Wikidata ID for Rui Dias de Aguiar and Joao Afonso de Aguiar
+33	Q79385	Q79863 (Joao Afonso de Aguiar)	Q80223 (Diogo Afonso Afonso de Aguiar)			unknown	no Wikidata ID for Joao Afonso de Aguiar and Diogo Afonso Afonso de Aguiar
+33	Q79385	Q80223 (Diogo Afonso Afonso de Aguiar)	Q80606 (Pedro Afonso de Aguiar)			unknown	no Wikidata ID for Diogo Afonso Afonso de Aguiar and Pedro Afonso de Aguiar
+33	Q79385	Q80606 (Pedro Afonso de Aguiar)	Q81339 (Antonio Ambrosio de Aguiar Coutinho)			unknown	no Wikidata ID for Pedro Afonso de Aguiar and Antonio Ambrosio de Aguiar Coutinho
+33	Q79385	Q81339 (Antonio Ambrosio de Aguiar Coutinho)	Q82122 (Barbara, imperatriz of Rome)			unknown	no Wikidata ID for Antonio Ambrosio de Aguiar Coutinho and Barbara, imperatriz of Rome
+33	Q79385	Q82122 (Barbara, imperatriz of Rome)	Q99597 (Bárbara, Princess of Rome)			unknown	no Wikidata ID for Barbara, imperatriz of Rome and Bárbara, Princess of Rome
+33	Q79385	Q99597 (Bárbara, Princess of Rome)	Q99585 (Aviena)			unknown	no Wikidata ID for Bárbara, Princess of Rome and Aviena
+33	Q79385	Q99585 (Aviena)	Q99573 (Proba)			unknown	no Wikidata ID for Aviena and Proba
+33	Q79385	Q99573 (Proba)	Q99558 (Proba Rogas of Lybia)			unknown	no Wikidata ID for Proba and Proba Rogas of Lybia
+33	Q79385	Q99558 (Proba Rogas of Lybia)	Q99544 (Heracles)			unknown	no Wikidata ID for Proba Rogas of Lybia and Heracles
+33	Q79385	Q99544 (Heracles)	Q79084 (Georgia Eudoxia)			unknown	no Wikidata ID for Heracles and Georgia Eudoxia
+33	Q79385	Q79084 (Georgia Eudoxia)	Q79093 (Munia Eudoxia)			unknown	no Wikidata ID for Georgia Eudoxia and Munia Eudoxia
+33	Q79385	Q79093 (Munia Eudoxia)	Q79102 (Esteban Balthes)			unknown	no Wikidata ID for Munia Eudoxia and Esteban Balthes
+33	Q79385	Q79102 (Esteban Balthes)	Q79111 (Pedro Balthes de Toledo)			unknown	no Wikidata ID for Esteban Balthes and Pedro Balthes de Toledo
+33	Q79385	Q79111 (Pedro Balthes de Toledo)	Q79126 (Galindo de Toledo)			unknown	no Wikidata ID for Pedro Balthes de Toledo and Galindo de Toledo
+33	Q79385	Q79126 (Galindo de Toledo)	Q79135 (Paulo de Toledo)			unknown	no Wikidata ID for Galindo de Toledo and Paulo de Toledo
+33	Q79385	Q79135 (Paulo de Toledo)	Q79147 (Teodomiro de Toledo)			unknown	no Wikidata ID for Paulo de Toledo and Teodomiro de Toledo
+33	Q79385	Q79147 (Teodomiro de Toledo)	Q79168 (Ouvequio de Toledo)			unknown	no Wikidata ID for Teodomiro de Toledo and Ouvequio de Toledo
+33	Q79385	Q79168 (Ouvequio de Toledo)	Q79192 (Marcella de Toledo)			unknown	no Wikidata ID for Ouvequio de Toledo and Marcella de Toledo
+33	Q79385	Q79192 (Marcella de Toledo)	Q79220 (Beatrix de Bardolf)			unknown	no Wikidata ID for Marcella de Toledo and Beatrix de Bardolf
+33	Q79385	Q79220 (Beatrix de Bardolf)	Q79241 (Jeanne de Pont-Audemer)			unknown	no Wikidata ID for Beatrix de Bardolf and Jeanne de Pont-Audemer
+33	Q79385	Q79241 (Jeanne de Pont-Audemer)	Q79262 (Bernard of Mans - Beulac)			unknown	no Wikidata ID for Jeanne de Pont-Audemer and Bernard of Mans - Beulac
+33	Q79385	Q79262 (Bernard of Mans - Beulac)	Q79286 (Eve of Mans - Beulac)			unknown	no Wikidata ID for Bernard of Mans - Beulac and Eve of Mans - Beulac
+33	Q79385	Q79286 (Eve of Mans - Beulac)	Q79331 (Galburge de Castellane)			unknown	no Wikidata ID for Eve of Mans - Beulac and Galburge de Castellane
+33	Q79385	Q79331 (Galburge de Castellane)	Q79361 (D.Urraca de Pamplona)			unknown	no Wikidata ID for Galburge de Castellane and D.Urraca de Pamplona
+33	Q79385	Q79361 (D.Urraca de Pamplona)	Q79385 (Goncalo Ximeno Ausendes)			unknown	no Wikidata ID for D.Urraca de Pamplona and Goncalo Ximeno Ausendes
+33	Q79510	Q79510 (Maria Soares)	Q79582 (Diogo Rodrigues de Aguiar)			unknown	no Wikidata ID for Maria Soares and Diogo Rodrigues de Aguiar
+33	Q79510	Q79582 (Diogo Rodrigues de Aguiar)	Q79663 (Rui Dias de Aguiar)			unknown	no Wikidata ID for Diogo Rodrigues de Aguiar and Rui Dias de Aguiar
+33	Q79510	Q79663 (Rui Dias de Aguiar)	Q79863 (Joao Afonso de Aguiar)			unknown	no Wikidata ID for Rui Dias de Aguiar and Joao Afonso de Aguiar
+33	Q79510	Q79863 (Joao Afonso de Aguiar)	Q80223 (Diogo Afonso Afonso de Aguiar)			unknown	no Wikidata ID for Joao Afonso de Aguiar and Diogo Afonso Afonso de Aguiar
+33	Q79510	Q80223 (Diogo Afonso Afonso de Aguiar)	Q80606 (Pedro Afonso de Aguiar)			unknown	no Wikidata ID for Diogo Afonso Afonso de Aguiar and Pedro Afonso de Aguiar
+33	Q79510	Q80606 (Pedro Afonso de Aguiar)	Q81339 (Antonio Ambrosio de Aguiar Coutinho)			unknown	no Wikidata ID for Pedro Afonso de Aguiar and Antonio Ambrosio de Aguiar Coutinho
+33	Q79510	Q81339 (Antonio Ambrosio de Aguiar Coutinho)	Q82122 (Barbara, imperatriz of Rome)			unknown	no Wikidata ID for Antonio Ambrosio de Aguiar Coutinho and Barbara, imperatriz of Rome
+33	Q79510	Q82122 (Barbara, imperatriz of Rome)	Q99597 (Bárbara, Princess of Rome)			unknown	no Wikidata ID for Barbara, imperatriz of Rome and Bárbara, Princess of Rome
+33	Q79510	Q99597 (Bárbara, Princess of Rome)	Q99585 (Aviena)			unknown	no Wikidata ID for Bárbara, Princess of Rome and Aviena
+33	Q79510	Q99585 (Aviena)	Q99573 (Proba)			unknown	no Wikidata ID for Aviena and Proba
+33	Q79510	Q99573 (Proba)	Q99558 (Proba Rogas of Lybia)			unknown	no Wikidata ID for Proba and Proba Rogas of Lybia
+33	Q79510	Q99558 (Proba Rogas of Lybia)	Q99544 (Heracles)			unknown	no Wikidata ID for Proba Rogas of Lybia and Heracles
+33	Q79510	Q99544 (Heracles)	Q79084 (Georgia Eudoxia)			unknown	no Wikidata ID for Heracles and Georgia Eudoxia
+33	Q79510	Q79084 (Georgia Eudoxia)	Q79093 (Munia Eudoxia)			unknown	no Wikidata ID for Georgia Eudoxia and Munia Eudoxia
+33	Q79510	Q79093 (Munia Eudoxia)	Q79102 (Esteban Balthes)			unknown	no Wikidata ID for Munia Eudoxia and Esteban Balthes
+33	Q79510	Q79102 (Esteban Balthes)	Q79111 (Pedro Balthes de Toledo)			unknown	no Wikidata ID for Esteban Balthes and Pedro Balthes de Toledo
+33	Q79510	Q79111 (Pedro Balthes de Toledo)	Q79126 (Galindo de Toledo)			unknown	no Wikidata ID for Pedro Balthes de Toledo and Galindo de Toledo
+33	Q79510	Q79126 (Galindo de Toledo)	Q79135 (Paulo de Toledo)			unknown	no Wikidata ID for Galindo de Toledo and Paulo de Toledo
+33	Q79510	Q79135 (Paulo de Toledo)	Q79147 (Teodomiro de Toledo)			unknown	no Wikidata ID for Paulo de Toledo and Teodomiro de Toledo
+33	Q79510	Q79147 (Teodomiro de Toledo)	Q79168 (Ouvequio de Toledo)			unknown	no Wikidata ID for Teodomiro de Toledo and Ouvequio de Toledo
+33	Q79510	Q79168 (Ouvequio de Toledo)	Q79192 (Marcella de Toledo)			unknown	no Wikidata ID for Ouvequio de Toledo and Marcella de Toledo
+33	Q79510	Q79192 (Marcella de Toledo)	Q79220 (Beatrix de Bardolf)			unknown	no Wikidata ID for Marcella de Toledo and Beatrix de Bardolf
+33	Q79510	Q79220 (Beatrix de Bardolf)	Q79241 (Jeanne de Pont-Audemer)			unknown	no Wikidata ID for Beatrix de Bardolf and Jeanne de Pont-Audemer
+33	Q79510	Q79241 (Jeanne de Pont-Audemer)	Q79262 (Bernard of Mans - Beulac)			unknown	no Wikidata ID for Jeanne de Pont-Audemer and Bernard of Mans - Beulac
+33	Q79510	Q79262 (Bernard of Mans - Beulac)	Q79286 (Eve of Mans - Beulac)			unknown	no Wikidata ID for Bernard of Mans - Beulac and Eve of Mans - Beulac
+33	Q79510	Q79286 (Eve of Mans - Beulac)	Q79331 (Galburge de Castellane)			unknown	no Wikidata ID for Eve of Mans - Beulac and Galburge de Castellane
+33	Q79510	Q79331 (Galburge de Castellane)	Q79361 (D.Urraca de Pamplona)			unknown	no Wikidata ID for Galburge de Castellane and D.Urraca de Pamplona
+33	Q79510	Q79361 (D.Urraca de Pamplona)	Q79388 (D. Ausindo Ximeno)			unknown	no Wikidata ID for D.Urraca de Pamplona and D. Ausindo Ximeno
+33	Q79510	Q79388 (D. Ausindo Ximeno)	Q79415 (D.Soeiro Ausendes)			unknown	no Wikidata ID for D. Ausindo Ximeno and D.Soeiro Ausendes
+33	Q79510	Q79415 (D.Soeiro Ausendes)	Q79435 (D.Arnaldo Ximenes)			unknown	no Wikidata ID for D.Soeiro Ausendes and D.Arnaldo Ximenes
+33	Q79510	Q79435 (D.Arnaldo Ximenes)	Q79441 (Berenguela Ximenes, Baiao, Soares)			unknown	no Wikidata ID for D.Arnaldo Ximenes and Berenguela Ximenes, Baiao, Soares
+33	Q79510	Q79441 (Berenguela Ximenes, Baiao, Soares)	Q79468 (Soeiro Arnaldes de Novoa (D.))			unknown	no Wikidata ID for Berenguela Ximenes, Baiao, Soares and Soeiro Arnaldes de Novoa (D.)
+33	Q79510	Q79468 (Soeiro Arnaldes de Novoa (D.))	Q79510 (Maria Soares)			unknown	no Wikidata ID for Soeiro Arnaldes de Novoa (D.) and Maria Soares
+47	Q99939	Q99939 (Ufa Ufes)	Q100154 (Godo Arnaldes de Baiao)			unknown	no Wikidata ID for Ufa Ufes and Godo Arnaldes de Baiao
+47	Q99939	Q100154 (Godo Arnaldes de Baiao)	Q100519 (Soeiro Guedes)			unknown	no Wikidata ID for Godo Arnaldes de Baiao and Soeiro Guedes
+47	Q99939	Q100519 (Soeiro Guedes)	Q101113 (D. Ausindo Soares)			unknown	no Wikidata ID for Soeiro Guedes and D. Ausindo Soares
+47	Q99939	Q101113 (D. Ausindo Soares)	Q113625 (D.Teodoredo Ausendes Soares)			unknown	no Wikidata ID for D. Ausindo Soares and D.Teodoredo Ausendes Soares
+47	Q99939	Q113625 (D.Teodoredo Ausendes Soares)	Q79385 (Goncalo Ximeno Ausendes)			unknown	no Wikidata ID for D.Teodoredo Ausendes Soares and Goncalo Ximeno Ausendes
+47	Q99939	Q79385 (Goncalo Ximeno Ausendes)	Q79409 (Pero Goncalves)			unknown	no Wikidata ID for Goncalo Ximeno Ausendes and Pero Goncalves
+47	Q99939	Q79409 (Pero Goncalves)	Q79429 (Hermenegildo Goncalves)			unknown	no Wikidata ID for Pero Goncalves and Hermenegildo Goncalves
+47	Q99939	Q79429 (Hermenegildo Goncalves)	Q79459 (N.N. Goncalves)			unknown	no Wikidata ID for Hermenegildo Goncalves and N.N. Goncalves
+47	Q99939	Q79459 (N.N. Goncalves)	Q79495 (Velasquita Maldonado)			unknown	no Wikidata ID for N.N. Goncalves and Velasquita Maldonado
+47	Q99939	Q79495 (Velasquita Maldonado)	Q79510 (Maria Soares)			unknown	no Wikidata ID for Velasquita Maldonado and Maria Soares
+47	Q99939	Q79510 (Maria Soares)	Q79582 (Diogo Rodrigues de Aguiar)			unknown	no Wikidata ID for Maria Soares and Diogo Rodrigues de Aguiar
+47	Q99939	Q79582 (Diogo Rodrigues de Aguiar)	Q79663 (Rui Dias de Aguiar)			unknown	no Wikidata ID for Diogo Rodrigues de Aguiar and Rui Dias de Aguiar
+47	Q99939	Q79663 (Rui Dias de Aguiar)	Q79863 (Joao Afonso de Aguiar)			unknown	no Wikidata ID for Rui Dias de Aguiar and Joao Afonso de Aguiar
+47	Q99939	Q79863 (Joao Afonso de Aguiar)	Q80223 (Diogo Afonso Afonso de Aguiar)			unknown	no Wikidata ID for Joao Afonso de Aguiar and Diogo Afonso Afonso de Aguiar
+47	Q99939	Q80223 (Diogo Afonso Afonso de Aguiar)	Q80606 (Pedro Afonso de Aguiar)			unknown	no Wikidata ID for Diogo Afonso Afonso de Aguiar and Pedro Afonso de Aguiar
+47	Q99939	Q80606 (Pedro Afonso de Aguiar)	Q81339 (Antonio Ambrosio de Aguiar Coutinho)			unknown	no Wikidata ID for Pedro Afonso de Aguiar and Antonio Ambrosio de Aguiar Coutinho
+47	Q99939	Q81339 (Antonio Ambrosio de Aguiar Coutinho)	Q82122 (Barbara, imperatriz of Rome)			unknown	no Wikidata ID for Antonio Ambrosio de Aguiar Coutinho and Barbara, imperatriz of Rome
+47	Q99939	Q82122 (Barbara, imperatriz of Rome)	Q99597 (Bárbara, Princess of Rome)			unknown	no Wikidata ID for Barbara, imperatriz of Rome and Bárbara, Princess of Rome
+47	Q99939	Q99597 (Bárbara, Princess of Rome)	Q99585 (Aviena)			unknown	no Wikidata ID for Bárbara, Princess of Rome and Aviena
+47	Q99939	Q99585 (Aviena)	Q99573 (Proba)			unknown	no Wikidata ID for Aviena and Proba
+47	Q99939	Q99573 (Proba)	Q99558 (Proba Rogas of Lybia)			unknown	no Wikidata ID for Proba and Proba Rogas of Lybia
+47	Q99939	Q99558 (Proba Rogas of Lybia)	Q99544 (Heracles)			unknown	no Wikidata ID for Proba Rogas of Lybia and Heracles
+47	Q99939	Q99544 (Heracles)	Q79084 (Georgia Eudoxia)			unknown	no Wikidata ID for Heracles and Georgia Eudoxia
+47	Q99939	Q79084 (Georgia Eudoxia)	Q79093 (Munia Eudoxia)			unknown	no Wikidata ID for Georgia Eudoxia and Munia Eudoxia
+47	Q99939	Q79093 (Munia Eudoxia)	Q79102 (Esteban Balthes)			unknown	no Wikidata ID for Munia Eudoxia and Esteban Balthes
+47	Q99939	Q79102 (Esteban Balthes)	Q79111 (Pedro Balthes de Toledo)			unknown	no Wikidata ID for Esteban Balthes and Pedro Balthes de Toledo
+47	Q99939	Q79111 (Pedro Balthes de Toledo)	Q79126 (Galindo de Toledo)			unknown	no Wikidata ID for Pedro Balthes de Toledo and Galindo de Toledo
+47	Q99939	Q79126 (Galindo de Toledo)	Q79135 (Paulo de Toledo)			unknown	no Wikidata ID for Galindo de Toledo and Paulo de Toledo
+47	Q99939	Q79135 (Paulo de Toledo)	Q79147 (Teodomiro de Toledo)			unknown	no Wikidata ID for Paulo de Toledo and Teodomiro de Toledo
+47	Q99939	Q79147 (Teodomiro de Toledo)	Q79168 (Ouvequio de Toledo)			unknown	no Wikidata ID for Teodomiro de Toledo and Ouvequio de Toledo
+47	Q99939	Q79168 (Ouvequio de Toledo)	Q79192 (Marcella de Toledo)			unknown	no Wikidata ID for Ouvequio de Toledo and Marcella de Toledo
+47	Q99939	Q79192 (Marcella de Toledo)	Q79220 (Beatrix de Bardolf)			unknown	no Wikidata ID for Marcella de Toledo and Beatrix de Bardolf
+47	Q99939	Q79220 (Beatrix de Bardolf)	Q79241 (Jeanne de Pont-Audemer)			unknown	no Wikidata ID for Beatrix de Bardolf and Jeanne de Pont-Audemer
+47	Q99939	Q79241 (Jeanne de Pont-Audemer)	Q79262 (Bernard of Mans - Beulac)			unknown	no Wikidata ID for Jeanne de Pont-Audemer and Bernard of Mans - Beulac
+47	Q99939	Q79262 (Bernard of Mans - Beulac)	Q79286 (Eve of Mans - Beulac)			unknown	no Wikidata ID for Bernard of Mans - Beulac and Eve of Mans - Beulac
+47	Q99939	Q79286 (Eve of Mans - Beulac)	Q79331 (Galburge de Castellane)			unknown	no Wikidata ID for Eve of Mans - Beulac and Galburge de Castellane
+47	Q99939	Q79331 (Galburge de Castellane)	Q79361 (D.Urraca de Pamplona)			unknown	no Wikidata ID for Galburge de Castellane and D.Urraca de Pamplona
+47	Q99939	Q79361 (D.Urraca de Pamplona)	Q79388 (D. Ausindo Ximeno)			unknown	no Wikidata ID for D.Urraca de Pamplona and D. Ausindo Ximeno
+47	Q99939	Q79388 (D. Ausindo Ximeno)	Q79415 (D.Soeiro Ausendes)			unknown	no Wikidata ID for D. Ausindo Ximeno and D.Soeiro Ausendes
+47	Q99939	Q79415 (D.Soeiro Ausendes)	Q79435 (D.Arnaldo Ximenes)			unknown	no Wikidata ID for D.Soeiro Ausendes and D.Arnaldo Ximenes
+47	Q99939	Q79435 (D.Arnaldo Ximenes)	Q79438 (Sancho ou Sancho Arnolfo Ximenes)			unknown	no Wikidata ID for D.Arnaldo Ximenes and Sancho ou Sancho Arnolfo Ximenes
+47	Q99939	Q79438 (Sancho ou Sancho Arnolfo Ximenes)	Q79424 (Gil Guille em Narbonne)			unknown	no Wikidata ID for Sancho ou Sancho Arnolfo Ximenes and Gil Guille em Narbonne
+47	Q99939	Q79424 (Gil Guille em Narbonne)	Q79450 (Soeiro Afonso Tangil)			unknown	no Wikidata ID for Gil Guille em Narbonne and Soeiro Afonso Tangil
+47	Q99939	Q79450 (Soeiro Afonso Tangil)	Q79480 (Fernao dos de Tangil)			unknown	no Wikidata ID for Soeiro Afonso Tangil and Fernao dos de Tangil
+47	Q99939	Q79480 (Fernao dos de Tangil)	Q79537 (Estevao Soares (D.))			unknown	no Wikidata ID for Fernao dos de Tangil and Estevao Soares (D.)
+47	Q99939	Q79537 (Estevao Soares (D.))	Q79618 (Tereza Eriz de Lugo)			unknown	no Wikidata ID for Estevao Soares (D.) and Tereza Eriz de Lugo
+47	Q99939	Q79618 (Tereza Eriz de Lugo)	Q99939 (Ufa Ufes)			unknown	no Wikidata ID for Tereza Eriz de Lugo and Ufa Ufes
+5	Q75540	Q75540 (Quintus Clodius Hermogenianus Olybrius)	Q75522 (Anicia Faltonia Proba)	Q1148526	Q1154373	confirmed	Wikidata agrees Quintus Clodius Hermogenianus Olybrius is a parent of Anicia Faltonia Proba
+5	Q75540	Q75522 (Anicia Faltonia Proba)	Q75516 (Anicius Hermogenianus Olybrius)	Q1154373	Q1372249	confirmed	Wikidata agrees Anicia Faltonia Proba is a parent of Anicius Hermogenianus Olybrius
+5	Q75540	Q75516 (Anicius Hermogenianus Olybrius)	Q75603 (Demetrias)	Q1372249	Q3625008	confirmed	Wikidata agrees Anicius Hermogenianus Olybrius is a parent of Demetrias
+5	Q75540	Q75603 (Demetrias)	Q75576 (Clodius Celsinus Adelphius)	Q3625008	Q1147586	contradicted	Wikidata records no link between them
+5	Q75540	Q75576 (Clodius Celsinus Adelphius)	Q75540 (Quintus Clodius Hermogenianus Olybrius)	Q1147586	Q1148526	confirmed	Wikidata agrees Clodius Celsinus Adelphius is a parent of Quintus Clodius Hermogenianus Olybrius
+4	Q118732	Q118732 (Olaf Geirstad-Alf)	Q136091 (Gandalf Alfgeirsson)	Q2560871	Q4133209	confirmed	Wikidata agrees Olaf Geirstad-Alf is a parent of Gandalf Alfgeirsson
+4	Q118732	Q136091 (Gandalf Alfgeirsson)	Q135856 (Alfarin)	Q4133209	Q5666589	confirmed	Wikidata agrees Gandalf Alfgeirsson is a parent of Alfarin
+4	Q118732	Q135856 (Alfarin)	Q123845 (Alfhild)	Q5666589	Q122890477	confirmed	Wikidata agrees Alfarin is a parent of Alfhild
+4	Q118732	Q123845 (Alfhild)	Q118732 (Olaf Geirstad-Alf)	Q122890477	Q2560871	confirmed	Wikidata agrees Alfhild is a parent of Olaf Geirstad-Alf
+16	Q75522	Q75522 (Anicia Faltonia Proba)	Q75516 (Anicius Hermogenianus Olybrius)	Q1154373	Q1372249	confirmed	Wikidata agrees Anicia Faltonia Proba is a parent of Anicius Hermogenianus Olybrius
+16	Q75522	Q75516 (Anicius Hermogenianus Olybrius)	Q75603 (Demetrias)	Q1372249	Q3625008	confirmed	Wikidata agrees Anicius Hermogenianus Olybrius is a parent of Demetrias
+16	Q75522	Q75603 (Demetrias)	Q75558 (Clodia Celsina)	Q3625008		unknown	no Wikidata ID for Clodia Celsina
+16	Q75522	Q75558 (Clodia Celsina)	Q65002 (Sextus Claudius Petronius Probus)		Q1542092	unknown	no Wikidata ID for Clodia Celsina
+16	Q75522	Q65002 (Sextus Claudius Petronius Probus)	Q64169 (Petronius)	Q1542092	Q120232596	confirmed	Wikidata agrees Sextus Claudius Petronius Probus is a parent of Petronius
+16	Q75522	Q64169 (Petronius)	Q63517 (Petronius Junior)	Q120232596		unknown	no Wikidata ID for Petronius Junior
+16	Q75522	Q63517 (Petronius Junior)	Q62926 (Gnaeus Petronius Probatus Junior Justus)			unknown	no Wikidata ID for Petronius Junior and Gnaeus Petronius Probatus Junior Justus
+16	Q75522	Q62926 (Gnaeus Petronius Probatus Junior Justus)	Q62515 (Petronia)			unknown	no Wikidata ID for Gnaeus Petronius Probatus Junior Justus and Petronia
+16	Q75522	Q62515 (Petronia)	Q75817 (Publilia)			unknown	no Wikidata ID for Petronia and Publilia
+16	Q75522	Q75817 (Publilia)	Q75721 (Rufia Procula)			unknown	no Wikidata ID for Publilia and Rufia Procula
+16	Q75522	Q75721 (Rufia Procula)	Q75781 (Caeionius Proculus)			unknown	no Wikidata ID for Rufia Procula and Caeionius Proculus
+16	Q75522	Q75781 (Caeionius Proculus)	Q75694 (Caeionius Julianus Camerius)			unknown	no Wikidata ID for Caeionius Proculus and Caeionius Julianus Camerius
+16	Q75522	Q75694 (Caeionius Julianus Camerius)	Q75634 (Caeionia Auchenia Bassa)			unknown	no Wikidata ID for Caeionius Julianus Camerius and Caeionia Auchenia Bassa
+16	Q75522	Q75634 (Caeionia Auchenia Bassa)	Q75573 (Anicius Auchenius Bassus)		Q2289711	unknown	no Wikidata ID for Caeionia Auchenia Bassa
+16	Q75522	Q75573 (Anicius Auchenius Bassus)	Q75543 (Tyrrania Anicia Juliana)	Q2289711	Q12296367	confirmed	Wikidata agrees Anicius Auchenius Bassus is a parent of Tyrrania Anicia Juliana
+16	Q75522	Q75543 (Tyrrania Anicia Juliana)	Q75522 (Anicia Faltonia Proba)	Q12296367	Q1154373	confirmed	Wikidata agrees Tyrrania Anicia Juliana is a parent of Anicia Faltonia Proba
+4	Q75516	Q75516 (Anicius Hermogenianus Olybrius)	Q75603 (Demetrias)	Q1372249	Q3625008	confirmed	Wikidata agrees Anicius Hermogenianus Olybrius is a parent of Demetrias
+4	Q75516	Q75603 (Demetrias)	Q75558 (Clodia Celsina)	Q3625008		unknown	no Wikidata ID for Clodia Celsina
+4	Q75516	Q75558 (Clodia Celsina)	Q65002 (Sextus Claudius Petronius Probus)		Q1542092	unknown	no Wikidata ID for Clodia Celsina
+4	Q75516	Q65002 (Sextus Claudius Petronius Probus)	Q75516 (Anicius Hermogenianus Olybrius)	Q1542092	Q1372249	confirmed	Wikidata agrees Sextus Claudius Petronius Probus is a parent of Anicius Hermogenianus Olybrius
+6	Q138363	Q138363 (Gepaepyris)	Q138365 (Tiberius Julius Cotys I)	Q2720247	Q2711623	confirmed	Wikidata agrees Gepaepyris is a parent of Tiberius Julius Cotys I
+6	Q138363	Q138365 (Tiberius Julius Cotys I)	Q148022 (Rhescuporis I)	Q2711623	Q2713411	confirmed	Wikidata agrees Tiberius Julius Cotys I is a parent of Rhescuporis I
+6	Q138363	Q148022 (Rhescuporis I)	Q144020 (Cotys II)	Q2713411	Q15483438	confirmed	Wikidata agrees Rhescuporis I is a parent of Cotys II
+6	Q138363	Q144020 (Cotys II)	Q141360 (Rhoemetalces I)	Q15483438	Q2713422	confirmed	Wikidata agrees Cotys II is a parent of Rhoemetalces I
+6	Q138363	Q141360 (Rhoemetalces I)	Q139511 (Cotys III)	Q2713422	Q2998641	confirmed	Wikidata agrees Rhoemetalces I is a parent of Cotys III
+6	Q138363	Q139511 (Cotys III)	Q138363 (Gepaepyris)	Q2998641	Q2720247	confirmed	Wikidata agrees Cotys III is a parent of Gepaepyris
+3	Q3457	Q3457 (Miguel de Cervantes)	Q31038 (Juan de Cervantes)	Q5682		unknown	no Wikidata ID for Juan de Cervantes
+3	Q3457	Q31038 (Juan de Cervantes)	Q32086 (Rodrigo Cervantes Torreblanca)			unknown	no Wikidata ID for Juan de Cervantes and Rodrigo Cervantes Torreblanca
+3	Q3457	Q32086 (Rodrigo Cervantes Torreblanca)	Q3457 (Miguel de Cervantes)		Q5682	unknown	no Wikidata ID for Rodrigo Cervantes Torreblanca
+2	Q90982	Q90982 (Esther bat Yosef ben 'Amram haDayyan al-Sijilma)	Q88454 (Esther bat Sahlan ben Abraham)			unknown	no Wikidata ID for Esther bat Yosef ben 'Amram haDayyan al-Sijilma and Esther bat Sahlan ben Abraham
+2	Q90982	Q88454 (Esther bat Sahlan ben Abraham)	Q90982 (Esther bat Yosef ben 'Amram haDayyan al-Sijilma)			unknown	no Wikidata ID for Esther bat Sahlan ben Abraham and Esther bat Yosef ben 'Amram haDayyan al-Sijilma
+28	Q61957	Q61957 (Claudia Crispina)	Q61565 (Constantius Chlorus)	Q867859	Q131195	confirmed	Wikidata agrees Claudia Crispina is a parent of Constantius Chlorus
+28	Q61957	Q61565 (Constantius Chlorus)	Q136506 (Flavia Julia Constantia)	Q131195	Q238023	confirmed	Wikidata agrees Constantius Chlorus is a parent of Flavia Julia Constantia
+28	Q61957	Q136506 (Flavia Julia Constantia)	Q73308 (Licinius Varus)	Q238023		unknown	no Wikidata ID for Licinius Varus
+28	Q61957	Q73308 (Licinius Varus)	Q73140 (Gaius Lincinius Varus)			unknown	no Wikidata ID for Licinius Varus and Gaius Lincinius Varus
+28	Q61957	Q73140 (Gaius Lincinius Varus)	Q72966 (Lincinia Varus)			unknown	no Wikidata ID for Gaius Lincinius Varus and Lincinia Varus
+28	Q61957	Q72966 (Lincinia Varus)	Q72807 (Publius Mucius Scaevola)		Q2066659	unknown	no Wikidata ID for Lincinia Varus
+28	Q61957	Q72807 (Publius Mucius Scaevola)	Q141474 (Publius Licinius Crassus Dives Mucianus)	Q2066659	Q715499	confirmed	Wikidata agrees Publius Mucius Scaevola is a parent of Publius Licinius Crassus Dives Mucianus
+28	Q61957	Q141474 (Publius Licinius Crassus Dives Mucianus)	Q72972 (Publius Licinius Crassus Dives)	Q715499	Q29518656	confirmed	Wikidata agrees Publius Licinius Crassus Dives Mucianus is a parent of Publius Licinius Crassus Dives
+28	Q61957	Q72972 (Publius Licinius Crassus Dives)	Q72981 (Publius Licinius Crassus)	Q29518656	Q20100913	confirmed	Wikidata agrees Publius Licinius Crassus Dives is a parent of Publius Licinius Crassus
+28	Q61957	Q72981 (Publius Licinius Crassus)	Q72831 (Marcus Licinius Crassus)	Q20100913	Q19715630	contradicted	Wikidata records no link between them
+28	Q61957	Q72831 (Marcus Licinius Crassus)	Q72657 (Publius Licinius Crassus Dives)	Q19715630	Q656527	confirmed	Wikidata agrees Marcus Licinius Crassus is a parent of Publius Licinius Crassus Dives
+28	Q61957	Q72657 (Publius Licinius Crassus Dives)	Q72933 (Marcus Licinius Crassus)	Q656527		unknown	no Wikidata ID for Marcus Licinius Crassus
+28	Q61957	Q72933 (Marcus Licinius Crassus)	Q72774 (Licinia Crassa Pilius)			unknown	no Wikidata ID for Marcus Licinius Crassus and Licinia Crassa Pilius
+28	Q61957	Q72774 (Licinia Crassa Pilius)	Q72603 (Pilia)		Q2292963	unknown	no Wikidata ID for Licinia Crassa Pilius
+28	Q61957	Q72603 (Pilia)	Q72425 (Attica)	Q2292963	Q152626	confirmed	Wikidata agrees Pilia is a parent of Attica
+28	Q61957	Q72425 (Attica)	Q72239 (Vipsania Agrippina)	Q152626	Q232090	confirmed	Wikidata agrees Attica is a parent of Vipsania Agrippina
+28	Q61957	Q72239 (Vipsania Agrippina)	Q77611 (Drusus Julius Caesar)	Q232090	Q313737	confirmed	Wikidata agrees Vipsania Agrippina is a parent of Drusus Julius Caesar
+28	Q61957	Q77611 (Drusus Julius Caesar)	Q77386 (Julia Livia)	Q313737		unknown	no Wikidata ID for Julia Livia
+28	Q61957	Q77386 (Julia Livia)	Q70152 (Rubellia Bassa)			unknown	no Wikidata ID for Julia Livia and Rubellia Bassa
+28	Q61957	Q70152 (Rubellia Bassa)	Q68488 (Octavia)			unknown	no Wikidata ID for Rubellia Bassa and Octavia
+28	Q61957	Q68488 (Octavia)	Q66916 (Curtilia Mancia)		Q107638183	unknown	no Wikidata ID for Octavia
+28	Q61957	Q66916 (Curtilia Mancia)	Q65552 (Domitia Lucilla)	Q107638183	Q12278988	confirmed	Wikidata agrees Curtilia Mancia is a parent of Domitia Lucilla
+28	Q61957	Q65552 (Domitia Lucilla)	Q139826 (Calvisia Domitia Lucilla)	Q12278988	Q1815905	confirmed	Wikidata agrees Domitia Lucilla is a parent of Calvisia Domitia Lucilla
+28	Q61957	Q139826 (Calvisia Domitia Lucilla)	Q63780 (Marcus Aurelius)	Q1815905	Q1430	confirmed	Wikidata agrees Calvisia Domitia Lucilla is a parent of Marcus Aurelius
+28	Q61957	Q63780 (Marcus Aurelius)	Q63192 (Lucilla)	Q1430	Q242466	confirmed	Wikidata agrees Marcus Aurelius is a parent of Lucilla
+28	Q61957	Q63192 (Lucilla)	Q62704 (Lucius Aurellius Commodus Pompeianus)	Q242466	Q716684	confirmed	Wikidata agrees Lucilla is a parent of Lucius Aurellius Commodus Pompeianus
+28	Q61957	Q62704 (Lucius Aurellius Commodus Pompeianus)	Q62255 (Aurelia Pompeiana)	Q716684	Q109793322	confirmed	Wikidata agrees Lucius Aurellius Commodus Pompeianus is a parent of Aurelia Pompeiana
+28	Q61957	Q62255 (Aurelia Pompeiana)	Q61957 (Claudia Crispina)	Q109793322	Q867859	confirmed	Wikidata agrees Aurelia Pompeiana is a parent of Claudia Crispina
+3	Q76693	Q76693 (Sergius Octavius Pontianus Laenes Octavius Pontainus)	Q77155 (Sergius Ovtavius Laenes)			unknown	no Wikidata ID for Sergius Octavius Pontianus Laenes Octavius Pontainus and Sergius Ovtavius Laenes
+3	Q76693	Q77155 (Sergius Ovtavius Laenes)	Q76933 (Sergius Octavius Pontainus)			unknown	no Wikidata ID for Sergius Ovtavius Laenes and Sergius Octavius Pontainus
+3	Q76693	Q76933 (Sergius Octavius Pontainus)	Q76693 (Sergius Octavius Pontianus Laenes Octavius Pontainus)			unknown	no Wikidata ID for Sergius Octavius Pontainus and Sergius Octavius Pontianus Laenes Octavius Pontainus
+3	Q141474	Q141474 (Publius Licinius Crassus Dives Mucianus)	Q72972 (Publius Licinius Crassus Dives)	Q715499	Q29518656	confirmed	Wikidata agrees Publius Licinius Crassus Dives Mucianus is a parent of Publius Licinius Crassus Dives
+3	Q141474	Q72972 (Publius Licinius Crassus Dives)	Q72810 (Licinia)	Q29518656	Q12284962	contradicted	Wikidata records no link between them
+3	Q141474	Q72810 (Licinia)	Q141474 (Publius Licinius Crassus Dives Mucianus)	Q12284962	Q715499	confirmed	Wikidata agrees Licinia is a parent of Publius Licinius Crassus Dives Mucianus
+4	Q78264	Q78264 (Lucius Pinarius)	Q78108 (Lucius Pinarius Scarpus)	Q382127		unknown	no Wikidata ID for Lucius Pinarius Scarpus
+4	Q78264	Q78108 (Lucius Pinarius Scarpus)	Q77955 (Lucius Pinarius Scarpus)			unknown	no Wikidata ID for Lucius Pinarius Scarpus and Lucius Pinarius Scarpus
+4	Q78264	Q77955 (Lucius Pinarius Scarpus)	Q77782 (Pinarius)		Q93953755	unknown	no Wikidata ID for Lucius Pinarius Scarpus
+4	Q78264	Q77782 (Pinarius)	Q78264 (Lucius Pinarius)	Q93953755	Q382127	confirmed	Wikidata agrees Pinarius is a parent of Lucius Pinarius
+3	Q72798	Q72798 (Marcus Livius Drusus)	Q73119 (Marcus Livius Drusus)	Q703346	Q433463	confirmed	Wikidata agrees Marcus Livius Drusus is a parent of Marcus Livius Drusus
+3	Q72798	Q73119 (Marcus Livius Drusus)	Q72951 (Gaius Livius Drusus)	Q433463	Q1270114	contradicted	Wikidata records no link between them
+3	Q72798	Q72951 (Gaius Livius Drusus)	Q72798 (Marcus Livius Drusus)	Q1270114	Q703346	confirmed	Wikidata agrees Gaius Livius Drusus is a parent of Marcus Livius Drusus
+3	Q73119	Q73119 (Marcus Livius Drusus)	Q72951 (Gaius Livius Drusus)	Q433463	Q1270114	contradicted	Wikidata records no link between them
+3	Q73119	Q72951 (Gaius Livius Drusus)	Q73284 (Q73284)	Q1270114		unknown	no Wikidata ID for Q73284
+3	Q73119	Q73284 (Q73284)	Q73119 (Marcus Livius Drusus)		Q433463	unknown	no Wikidata ID for Q73284
+11	Q2035	Q2035 (Yama Dharma King of Death)	Q153444 (SUNITA Anga)			unknown	no Wikidata ID for Yama Dharma King of Death and SUNITA Anga
+11	Q2035	Q153444 (SUNITA Anga)	Q153438 (VENA Anga)			unknown	no Wikidata ID for SUNITA Anga and VENA Anga
+11	Q2035	Q153438 (VENA Anga)	Q153429 (PRITHU (Vishnu's amsam) Vena)			unknown	no Wikidata ID for VENA Anga and PRITHU (Vishnu's amsam) Vena
+11	Q2035	Q153429 (PRITHU (Vishnu's amsam) Vena)	Q1989 (Vijitashva)			unknown	no Wikidata ID for PRITHU (Vishnu's amsam) Vena and Vijitashva
+11	Q2035	Q1989 (Vijitashva)	Q1978 (Havirdhana)			unknown	no Wikidata ID for Vijitashva and Havirdhana
+11	Q2035	Q1978 (Havirdhana)	Q49707 (Prachinbarhi)			unknown	no Wikidata ID for Havirdhana and Prachinbarhi
+11	Q2035	Q49707 (Prachinbarhi)	Q49634 (Prachetas (10 sons))			unknown	no Wikidata ID for Prachinbarhi and Prachetas (10 sons)
+11	Q2035	Q49634 (Prachetas (10 sons))	Q153390 (DAKSHA (reborn as DAKSHA) Prachetas)			unknown	no Wikidata ID for Prachetas (10 sons) and DAKSHA (reborn as DAKSHA) Prachetas
+11	Q2035	Q153390 (DAKSHA (reborn as DAKSHA) Prachetas)	Q153381 (Aditi Kashyapa)			unknown	no Wikidata ID for DAKSHA (reborn as DAKSHA) Prachetas and Aditi Kashyapa
+11	Q2035	Q153381 (Aditi Kashyapa)	Q1991 (Surya Sun God)			unknown	no Wikidata ID for Aditi Kashyapa and Surya Sun God
+11	Q2035	Q1991 (Surya Sun God)	Q2035 (Yama Dharma King of Death)			unknown	no Wikidata ID for Surya Sun God and Yama Dharma King of Death
+12	Q153465	Q153465 (TVASTAR Kashyapa)	Q153460 (SANJNA \ Saranyu Saranyu Saranyu/)			unknown	no Wikidata ID for TVASTAR Kashyapa and SANJNA \ Saranyu Saranyu Saranyu/
+12	Q153465	Q153460 (SANJNA \ Saranyu Saranyu Saranyu/)	Q2035 (Yama Dharma King of Death)			unknown	no Wikidata ID for SANJNA \ Saranyu Saranyu Saranyu/ and Yama Dharma King of Death
+12	Q153465	Q2035 (Yama Dharma King of Death)	Q153444 (SUNITA Anga)			unknown	no Wikidata ID for Yama Dharma King of Death and SUNITA Anga
+12	Q153465	Q153444 (SUNITA Anga)	Q153438 (VENA Anga)			unknown	no Wikidata ID for SUNITA Anga and VENA Anga
+12	Q153465	Q153438 (VENA Anga)	Q153429 (PRITHU (Vishnu's amsam) Vena)			unknown	no Wikidata ID for VENA Anga and PRITHU (Vishnu's amsam) Vena
+12	Q153465	Q153429 (PRITHU (Vishnu's amsam) Vena)	Q1989 (Vijitashva)			unknown	no Wikidata ID for PRITHU (Vishnu's amsam) Vena and Vijitashva
+12	Q153465	Q1989 (Vijitashva)	Q1978 (Havirdhana)			unknown	no Wikidata ID for Vijitashva and Havirdhana
+12	Q153465	Q1978 (Havirdhana)	Q49707 (Prachinbarhi)			unknown	no Wikidata ID for Havirdhana and Prachinbarhi
+12	Q153465	Q49707 (Prachinbarhi)	Q49634 (Prachetas (10 sons))			unknown	no Wikidata ID for Prachinbarhi and Prachetas (10 sons)
+12	Q153465	Q49634 (Prachetas (10 sons))	Q153390 (DAKSHA (reborn as DAKSHA) Prachetas)			unknown	no Wikidata ID for Prachetas (10 sons) and DAKSHA (reborn as DAKSHA) Prachetas
+12	Q153465	Q153390 (DAKSHA (reborn as DAKSHA) Prachetas)	Q153381 (Aditi Kashyapa)			unknown	no Wikidata ID for DAKSHA (reborn as DAKSHA) Prachetas and Aditi Kashyapa
+12	Q153465	Q153381 (Aditi Kashyapa)	Q153465 (TVASTAR Kashyapa)			unknown	no Wikidata ID for Aditi Kashyapa and TVASTAR Kashyapa
+12	Q72786	Q72786 (Marcus Aemilius Lepidus)	Q72693 (Quintus Aemilius Lepidus)		Q11944252	unknown	no Wikidata ID for Marcus Aemilius Lepidus
+12	Q72786	Q72693 (Quintus Aemilius Lepidus)	Q72514 (Marcus Aemilius Lepidus)	Q11944252	Q435329	confirmed	Wikidata agrees Quintus Aemilius Lepidus is a parent of Marcus Aemilius Lepidus
+12	Q72786	Q72514 (Marcus Aemilius Lepidus)	Q73893 (Lucius Cornelius Scipio Asiaticus Aemilianus)	Q435329	Q7234050	confirmed	Wikidata agrees Marcus Aemilius Lepidus is a parent of Lucius Cornelius Scipio Asiaticus Aemilianus
+12	Q72786	Q73893 (Lucius Cornelius Scipio Asiaticus Aemilianus)	Q73794 (Gnaeus Cornelius Scipio)	Q7234050	Q128598522	contradicted	Wikidata records no link between them
+12	Q72786	Q73794 (Gnaeus Cornelius Scipio)	Q73692 (Lucius Cornelius Scipio Barbatus)	Q128598522	Q374630	confirmed	Wikidata agrees Gnaeus Cornelius Scipio is a parent of Lucius Cornelius Scipio Barbatus
+12	Q72786	Q73692 (Lucius Cornelius Scipio Barbatus)	Q73569 (Lucius Cornelius Scipio)	Q374630	Q708483	confirmed	Wikidata agrees Lucius Cornelius Scipio Barbatus is a parent of Lucius Cornelius Scipio
+12	Q72786	Q73569 (Lucius Cornelius Scipio)	Q73446 (Publius Cornelius Scipio)	Q708483	Q3293507	confirmed	Wikidata agrees Lucius Cornelius Scipio is a parent of Publius Cornelius Scipio
+12	Q72786	Q73446 (Publius Cornelius Scipio)	Q73299 (Scipio Africanus)	Q3293507	Q2253	confirmed	Wikidata agrees Publius Cornelius Scipio is a parent of Scipio Africanus
+12	Q72786	Q73299 (Scipio Africanus)	Q73131 (Cornelia Africana Major)	Q2253	Q5171151	confirmed	Wikidata agrees Scipio Africanus is a parent of Cornelia Africana Major
+12	Q72786	Q73131 (Cornelia Africana Major)	Q72957 (Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio)	Q5171151		unknown	no Wikidata ID for Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio
+12	Q72786	Q72957 (Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio)	Q72801 (Cornelia)		Q100804879	unknown	no Wikidata ID for Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio
+12	Q72786	Q72801 (Cornelia)	Q72786 (Marcus Aemilius Lepidus)	Q100804879		unknown	no Wikidata ID for Marcus Aemilius Lepidus
+3	Q73383	Q73383 (Lucius Junius Brutus)	Q73644 (C. Junius Brutus)			unknown	no Wikidata ID for Lucius Junius Brutus and C. Junius Brutus
+3	Q73383	Q73644 (C. Junius Brutus)	Q73518 (C. Junius Junius Brutus Brutus)			unknown	no Wikidata ID for C. Junius Brutus and C. Junius Junius Brutus Brutus
+3	Q73383	Q73518 (C. Junius Junius Brutus Brutus)	Q73383 (Lucius Junius Brutus)			unknown	no Wikidata ID for C. Junius Junius Brutus Brutus and Lucius Junius Brutus
+5	Q131896	Q131896 (Tyro)	Q131902 (Neleus)	Q1126715	Q637955	confirmed	Wikidata agrees Tyro is a parent of Neleus
+5	Q131896	Q131902 (Neleus)	Q75123 (Deimachus)	Q637955	Q1183226	contradicted	Wikidata records no link between them
+5	Q131896	Q75123 (Deimachus)	Q132251 (Enarete)	Q1183226	Q48665	confirmed	Wikidata agrees Deimachus is a parent of Enarete
+5	Q131896	Q132251 (Enarete)	Q132367 (Salmoneus)	Q48665	Q1131643	confirmed	Wikidata agrees Enarete is a parent of Salmoneus
+5	Q131896	Q132367 (Salmoneus)	Q131896 (Tyro)	Q1131643	Q1126715	confirmed	Wikidata agrees Salmoneus is a parent of Tyro
+2	Q78402	Q78402 (Q78402)	Q78719 (Cleopatra III of Egypt)		Q40003	unknown	no Wikidata ID for Q78402
+2	Q78402	Q78719 (Cleopatra III of Egypt)	Q78402 (Q78402)	Q40003		unknown	no Wikidata ID for Q78402
+7	Q130019	Q130019 (Asia)	Q130582 (Atlas)	Q605744	Q130818	confirmed	Wikidata agrees Asia is a parent of Atlas
+7	Q130019	Q130582 (Atlas)	Q130716 (Electra)	Q130818	Q858663	confirmed	Wikidata agrees Atlas is a parent of Electra
+7	Q130019	Q130716 (Electra)	Q131683 (Dardanus)	Q858663	Q461212	confirmed	Wikidata agrees Electra is a parent of Dardanus
+7	Q130019	Q131683 (Dardanus)	Q132328 (Erichthonius of Dardania)	Q461212	Q1353705	confirmed	Wikidata agrees Dardanus is a parent of Erichthonius of Dardania
+7	Q130019	Q132328 (Erichthonius of Dardania)	Q74698 (Tros)	Q1353705	Q79999	contradicted	Wikidata records no link between them
+7	Q130019	Q74698 (Tros)	Q90309 (Oceanus)	Q79999	Q161419	confirmed	Wikidata agrees Tros is a parent of Oceanus
+7	Q130019	Q90309 (Oceanus)	Q130019 (Asia)	Q161419	Q605744	confirmed	Wikidata agrees Oceanus is a parent of Asia
+6	Q132328	Q132328 (Erichthonius of Dardania)	Q74698 (Tros)	Q1353705	Q79999	contradicted	Wikidata records no link between them
+6	Q132328	Q74698 (Tros)	Q90309 (Oceanus)	Q79999	Q161419	confirmed	Wikidata agrees Tros is a parent of Oceanus
+6	Q132328	Q90309 (Oceanus)	Q130067 (Scamander)	Q161419	Q1134694	confirmed	Wikidata agrees Oceanus is a parent of Scamander
+6	Q132328	Q130067 (Scamander)	Q131066 (Teucer, king of Troy)	Q1134694	Q1513788	confirmed	Wikidata agrees Scamander is a parent of Teucer, king of Troy
+6	Q132328	Q131066 (Teucer, king of Troy)	Q132324 (Batea)	Q1513788	Q126319	confirmed	Wikidata agrees Teucer, king of Troy is a parent of Batea
+6	Q132328	Q132324 (Batea)	Q132328 (Erichthonius of Dardania)	Q126319	Q1353705	confirmed	Wikidata agrees Batea is a parent of Erichthonius of Dardania
+4	Q74698	Q74698 (Tros)	Q90309 (Oceanus)	Q79999	Q161419	confirmed	Wikidata agrees Tros is a parent of Oceanus
+4	Q74698	Q90309 (Oceanus)	Q130077 (Simoeis)	Q161419	Q2479077	confirmed	Wikidata agrees Oceanus is a parent of Simoeis
+4	Q74698	Q130077 (Simoeis)	Q131114 (Astyoche)	Q2479077	Q752353	confirmed	Wikidata agrees Simoeis is a parent of Astyoche
+4	Q74698	Q131114 (Astyoche)	Q74698 (Tros)	Q752353	Q79999	contradicted	Wikidata records no link between them
+6	Q130716	Q130716 (Electra)	Q131683 (Dardanus)	Q858663	Q461212	confirmed	Wikidata agrees Electra is a parent of Dardanus
+6	Q130716	Q131683 (Dardanus)	Q132328 (Erichthonius of Dardania)	Q461212	Q1353705	confirmed	Wikidata agrees Dardanus is a parent of Erichthonius of Dardania
+6	Q130716	Q132328 (Erichthonius of Dardania)	Q74698 (Tros)	Q1353705	Q79999	contradicted	Wikidata records no link between them
+6	Q130716	Q74698 (Tros)	Q90309 (Oceanus)	Q79999	Q161419	confirmed	Wikidata agrees Tros is a parent of Oceanus
+6	Q130716	Q90309 (Oceanus)	Q130015 (Pleione)	Q161419	Q463865	confirmed	Wikidata agrees Oceanus is a parent of Pleione
+6	Q130716	Q130015 (Pleione)	Q130716 (Electra)	Q463865	Q858663	confirmed	Wikidata agrees Pleione is a parent of Electra
+10	Q74973	Q74973 (Danaus)	Q130019 (Asia)	Q161419	Q605744	confirmed	Wikidata agrees Danaus is a parent of Asia
+10	Q74973	Q130019 (Asia)	Q130582 (Atlas)	Q605744	Q130818	confirmed	Wikidata agrees Asia is a parent of Atlas
+10	Q74973	Q130582 (Atlas)	Q130716 (Electra)	Q130818	Q858663	confirmed	Wikidata agrees Atlas is a parent of Electra
+10	Q74973	Q130716 (Electra)	Q131683 (Dardanus)	Q858663	Q461212	confirmed	Wikidata agrees Electra is a parent of Dardanus
+10	Q74973	Q131683 (Dardanus)	Q132328 (Erichthonius of Dardania)	Q461212	Q1353705	confirmed	Wikidata agrees Dardanus is a parent of Erichthonius of Dardania
+10	Q74973	Q132328 (Erichthonius of Dardania)	Q74698 (Tros)	Q1353705	Q79999	contradicted	Wikidata records no link between them
+10	Q74973	Q74698 (Tros)	Q90309 (Oceanus)	Q79999	Q161419	confirmed	Wikidata agrees Tros is a parent of Oceanus
+10	Q74973	Q90309 (Oceanus)	Q130061 (Nilus)	Q161419	Q685243	confirmed	Wikidata agrees Oceanus is a parent of Nilus
+10	Q74973	Q130061 (Nilus)	Q131024 (Anchiroe)	Q685243	Q3615214	confirmed	Wikidata agrees Nilus is a parent of Anchiroe
+10	Q74973	Q131024 (Anchiroe)	Q74973 (Danaus)	Q3615214	Q161419	contradicted	Wikidata records no link between them; it gives Danaus's parents as Uranus
+12	Q132283	Q132283 (Libya)	Q90576 (Belus)	Q1129914	Q617753	confirmed	Wikidata agrees Libya is a parent of Belus
+12	Q132283	Q90576 (Belus)	Q74973 (Danaus)	Q617753	Q161419	contradicted	Wikidata records no link between them; it gives Danaus's parents as Uranus
+12	Q132283	Q74973 (Danaus)	Q130019 (Asia)	Q161419	Q605744	confirmed	Wikidata agrees Danaus is a parent of Asia
+12	Q132283	Q130019 (Asia)	Q130582 (Atlas)	Q605744	Q130818	confirmed	Wikidata agrees Asia is a parent of Atlas
+12	Q132283	Q130582 (Atlas)	Q130716 (Electra)	Q130818	Q858663	confirmed	Wikidata agrees Atlas is a parent of Electra
+12	Q132283	Q130716 (Electra)	Q131683 (Dardanus)	Q858663	Q461212	confirmed	Wikidata agrees Electra is a parent of Dardanus
+12	Q132283	Q131683 (Dardanus)	Q132328 (Erichthonius of Dardania)	Q461212	Q1353705	confirmed	Wikidata agrees Dardanus is a parent of Erichthonius of Dardania
+12	Q132283	Q132328 (Erichthonius of Dardania)	Q74698 (Tros)	Q1353705	Q79999	contradicted	Wikidata records no link between them
+12	Q132283	Q74698 (Tros)	Q90309 (Oceanus)	Q79999	Q161419	confirmed	Wikidata agrees Tros is a parent of Oceanus
+12	Q132283	Q90309 (Oceanus)	Q130061 (Nilus)	Q161419	Q685243	confirmed	Wikidata agrees Oceanus is a parent of Nilus
+12	Q132283	Q130061 (Nilus)	Q131030 (Memphis)	Q685243	Q788268	confirmed	Wikidata agrees Nilus is a parent of Memphis
+12	Q132283	Q131030 (Memphis)	Q132283 (Libya)	Q788268	Q1129914	confirmed	Wikidata agrees Memphis is a parent of Libya
+6	Q130582	Q130582 (Atlas)	Q130716 (Electra)	Q130818	Q858663	confirmed	Wikidata agrees Atlas is a parent of Electra
+6	Q130582	Q130716 (Electra)	Q131683 (Dardanus)	Q858663	Q461212	confirmed	Wikidata agrees Electra is a parent of Dardanus
+6	Q130582	Q131683 (Dardanus)	Q132328 (Erichthonius of Dardania)	Q461212	Q1353705	confirmed	Wikidata agrees Dardanus is a parent of Erichthonius of Dardania
+6	Q130582	Q132328 (Erichthonius of Dardania)	Q74698 (Tros)	Q1353705	Q79999	contradicted	Wikidata records no link between them
+6	Q130582	Q74698 (Tros)	Q75225 (Iapetos)	Q79999	Q179543	confirmed	Wikidata agrees Tros is a parent of Iapetos
+6	Q130582	Q75225 (Iapetos)	Q130582 (Atlas)	Q179543	Q130818	confirmed	Wikidata agrees Iapetos is a parent of Atlas
+12	Q74677	Q74677 (Ops)	Q74656 (Q74656)	Q96761		unknown	no Wikidata ID for Q74656
+12	Q74677	Q74656 (Q74656)	Q131757 (Epaphus)		Q675699	unknown	no Wikidata ID for Q74656
+12	Q74677	Q131757 (Epaphus)	Q132283 (Libya)	Q675699	Q1129914	confirmed	Wikidata agrees Epaphus is a parent of Libya
+12	Q74677	Q132283 (Libya)	Q90576 (Belus)	Q1129914	Q617753	confirmed	Wikidata agrees Libya is a parent of Belus
+12	Q74677	Q90576 (Belus)	Q74973 (Danaus)	Q617753	Q161419	contradicted	Wikidata records no link between them; it gives Danaus's parents as Uranus
+12	Q74677	Q74973 (Danaus)	Q130019 (Asia)	Q161419	Q605744	confirmed	Wikidata agrees Danaus is a parent of Asia
+12	Q74677	Q130019 (Asia)	Q130582 (Atlas)	Q605744	Q130818	confirmed	Wikidata agrees Asia is a parent of Atlas
+12	Q74677	Q130582 (Atlas)	Q130716 (Electra)	Q130818	Q858663	confirmed	Wikidata agrees Atlas is a parent of Electra
+12	Q74677	Q130716 (Electra)	Q131683 (Dardanus)	Q858663	Q461212	confirmed	Wikidata agrees Electra is a parent of Dardanus
+12	Q74677	Q131683 (Dardanus)	Q132328 (Erichthonius of Dardania)	Q461212	Q1353705	confirmed	Wikidata agrees Dardanus is a parent of Erichthonius of Dardania
+12	Q74677	Q132328 (Erichthonius of Dardania)	Q74698 (Tros)	Q1353705	Q79999	contradicted	Wikidata records no link between them
+12	Q74677	Q74698 (Tros)	Q74677 (Ops)	Q79999	Q96761	contradicted	Wikidata records no link between them
+6	Q130582	Q130582 (Atlas)	Q130716 (Electra)	Q130818	Q858663	confirmed	Wikidata agrees Atlas is a parent of Electra
+6	Q130582	Q130716 (Electra)	Q131683 (Dardanus)	Q858663	Q461212	confirmed	Wikidata agrees Electra is a parent of Dardanus
+6	Q130582	Q131683 (Dardanus)	Q132328 (Erichthonius of Dardania)	Q461212	Q1353705	confirmed	Wikidata agrees Dardanus is a parent of Erichthonius of Dardania
+6	Q130582	Q132328 (Erichthonius of Dardania)	Q74698 (Tros)	Q1353705	Q79999	contradicted	Wikidata records no link between them
+6	Q130582	Q74698 (Tros)	Q90374 (Iapetos)	Q79999		unknown	no Wikidata ID for Iapetos
+6	Q130582	Q90374 (Iapetos)	Q130582 (Atlas)		Q130818	unknown	no Wikidata ID for Iapetos
+12	Q74656	Q74656 (Q74656)	Q131757 (Epaphus)		Q675699	unknown	no Wikidata ID for Q74656
+12	Q74656	Q131757 (Epaphus)	Q132283 (Libya)	Q675699	Q1129914	confirmed	Wikidata agrees Epaphus is a parent of Libya
+12	Q74656	Q132283 (Libya)	Q90576 (Belus)	Q1129914	Q617753	confirmed	Wikidata agrees Libya is a parent of Belus
+12	Q74656	Q90576 (Belus)	Q74973 (Danaus)	Q617753	Q161419	contradicted	Wikidata records no link between them; it gives Danaus's parents as Uranus
+12	Q74656	Q74973 (Danaus)	Q130019 (Asia)	Q161419	Q605744	confirmed	Wikidata agrees Danaus is a parent of Asia
+12	Q74656	Q130019 (Asia)	Q130582 (Atlas)	Q605744	Q130818	confirmed	Wikidata agrees Asia is a parent of Atlas
+12	Q74656	Q130582 (Atlas)	Q130716 (Electra)	Q130818	Q858663	confirmed	Wikidata agrees Atlas is a parent of Electra
+12	Q74656	Q130716 (Electra)	Q131683 (Dardanus)	Q858663	Q461212	confirmed	Wikidata agrees Electra is a parent of Dardanus
+12	Q74656	Q131683 (Dardanus)	Q132328 (Erichthonius of Dardania)	Q461212	Q1353705	confirmed	Wikidata agrees Dardanus is a parent of Erichthonius of Dardania
+12	Q74656	Q132328 (Erichthonius of Dardania)	Q74698 (Tros)	Q1353705	Q79999	contradicted	Wikidata records no link between them
+12	Q74656	Q74698 (Tros)	Q74680 (Saturn)	Q79999	Q44204	confirmed	Wikidata agrees Tros is a parent of Saturn
+12	Q74656	Q74680 (Saturn)	Q74656 (Q74656)	Q44204		unknown	no Wikidata ID for Q74656
+10	Q90576	Q90576 (Belus)	Q74973 (Danaus)	Q617753	Q161419	contradicted	Wikidata records no link between them; it gives Danaus's parents as Uranus
+10	Q90576	Q74973 (Danaus)	Q130019 (Asia)	Q161419	Q605744	confirmed	Wikidata agrees Danaus is a parent of Asia
+10	Q90576	Q130019 (Asia)	Q130582 (Atlas)	Q605744	Q130818	confirmed	Wikidata agrees Asia is a parent of Atlas
+10	Q90576	Q130582 (Atlas)	Q130716 (Electra)	Q130818	Q858663	confirmed	Wikidata agrees Atlas is a parent of Electra
+10	Q90576	Q130716 (Electra)	Q131683 (Dardanus)	Q858663	Q461212	confirmed	Wikidata agrees Electra is a parent of Dardanus
+10	Q90576	Q131683 (Dardanus)	Q132328 (Erichthonius of Dardania)	Q461212	Q1353705	confirmed	Wikidata agrees Dardanus is a parent of Erichthonius of Dardania
+10	Q90576	Q132328 (Erichthonius of Dardania)	Q74698 (Tros)	Q1353705	Q79999	contradicted	Wikidata records no link between them
+10	Q90576	Q74698 (Tros)	Q74680 (Saturn)	Q79999	Q44204	confirmed	Wikidata agrees Tros is a parent of Saturn
+10	Q90576	Q74680 (Saturn)	Q75039 (Poseidon)	Q44204	Q41127	confirmed	Wikidata agrees Saturn is a parent of Poseidon
+10	Q90576	Q75039 (Poseidon)	Q90576 (Belus)	Q41127	Q617753	confirmed	Wikidata agrees Poseidon is a parent of Belus
+7	Q74973	Q74973 (Danaus)	Q130019 (Asia)	Q161419	Q605744	confirmed	Wikidata agrees Danaus is a parent of Asia
+7	Q74973	Q130019 (Asia)	Q130582 (Atlas)	Q605744	Q130818	confirmed	Wikidata agrees Asia is a parent of Atlas
+7	Q74973	Q130582 (Atlas)	Q130716 (Electra)	Q130818	Q858663	confirmed	Wikidata agrees Atlas is a parent of Electra
+7	Q74973	Q130716 (Electra)	Q131683 (Dardanus)	Q858663	Q461212	confirmed	Wikidata agrees Electra is a parent of Dardanus
+7	Q74973	Q131683 (Dardanus)	Q132328 (Erichthonius of Dardania)	Q461212	Q1353705	confirmed	Wikidata agrees Dardanus is a parent of Erichthonius of Dardania
+7	Q74973	Q132328 (Erichthonius of Dardania)	Q74698 (Tros)	Q1353705	Q79999	contradicted	Wikidata records no link between them
+7	Q74973	Q74698 (Tros)	Q74973 (Danaus)	Q79999	Q161419	confirmed	Wikidata agrees Tros is a parent of Danaus
+7	Q130019	Q130019 (Asia)	Q130582 (Atlas)	Q605744	Q130818	confirmed	Wikidata agrees Asia is a parent of Atlas
+7	Q130019	Q130582 (Atlas)	Q130716 (Electra)	Q130818	Q858663	confirmed	Wikidata agrees Atlas is a parent of Electra
+7	Q130019	Q130716 (Electra)	Q131683 (Dardanus)	Q858663	Q461212	confirmed	Wikidata agrees Electra is a parent of Dardanus
+7	Q130019	Q131683 (Dardanus)	Q132328 (Erichthonius of Dardania)	Q461212	Q1353705	confirmed	Wikidata agrees Dardanus is a parent of Erichthonius of Dardania
+7	Q130019	Q132328 (Erichthonius of Dardania)	Q74698 (Tros)	Q1353705	Q79999	contradicted	Wikidata records no link between them
+7	Q130019	Q74698 (Tros)	Q74970 (Tethys)	Q79999	Q184216	confirmed	Wikidata agrees Tros is a parent of Tethys
+7	Q130019	Q74970 (Tethys)	Q130019 (Asia)	Q184216	Q605744	confirmed	Wikidata agrees Tethys is a parent of Asia
+6	Q85498	Q85498 (Sekhemre Sementawi Djehuti)	Q85478 (Sekhemre Sankhtawy Neferhotep III)			unknown	no Wikidata ID for Sekhemre Sementawi Djehuti and Sekhemre Sankhtawy Neferhotep III
+6	Q85498	Q85478 (Sekhemre Sankhtawy Neferhotep III)	Q85578 (Sankhenre Mentuhotep VI)			unknown	no Wikidata ID for Sekhemre Sankhtawy Neferhotep III and Sankhenre Mentuhotep VI
+6	Q85498	Q85578 (Sankhenre Mentuhotep VI)	Q85554 (Sebekemsaf .)			unknown	no Wikidata ID for Sankhenre Mentuhotep VI and Sebekemsaf .
+6	Q85498	Q85554 (Sebekemsaf .)	Q85528 (Yauyebi of Egypt)			unknown	no Wikidata ID for Sebekemsaf . and Yauyebi of Egypt
+6	Q85498	Q85528 (Yauyebi of Egypt)	Q85514 (Senebhenaf .)			unknown	no Wikidata ID for Yauyebi of Egypt and Senebhenaf .
+6	Q85498	Q85514 (Senebhenaf .)	Q85498 (Sekhemre Sementawi Djehuti)			unknown	no Wikidata ID for Senebhenaf . and Sekhemre Sementawi Djehuti
+5	Q85578	Q85578 (Sankhenre Mentuhotep VI)	Q85554 (Sebekemsaf .)			unknown	no Wikidata ID for Sankhenre Mentuhotep VI and Sebekemsaf .
+5	Q85578	Q85554 (Sebekemsaf .)	Q85528 (Yauyebi of Egypt)			unknown	no Wikidata ID for Sebekemsaf . and Yauyebi of Egypt
+5	Q85578	Q85528 (Yauyebi of Egypt)	Q85514 (Senebhenaf .)			unknown	no Wikidata ID for Yauyebi of Egypt and Senebhenaf .
+5	Q85578	Q85514 (Senebhenaf .)	Q85500 (Mentuhotep .)			unknown	no Wikidata ID for Senebhenaf . and Mentuhotep .
+5	Q85578	Q85500 (Mentuhotep .)	Q85578 (Sankhenre Mentuhotep VI)			unknown	no Wikidata ID for Mentuhotep . and Sankhenre Mentuhotep VI
+6	Q85478	Q85478 (Sekhemre Sankhtawy Neferhotep III)	Q85578 (Sankhenre Mentuhotep VI)			unknown	no Wikidata ID for Sekhemre Sankhtawy Neferhotep III and Sankhenre Mentuhotep VI
+6	Q85478	Q85578 (Sankhenre Mentuhotep VI)	Q85554 (Sebekemsaf .)			unknown	no Wikidata ID for Sankhenre Mentuhotep VI and Sebekemsaf .
+6	Q85478	Q85554 (Sebekemsaf .)	Q85528 (Yauyebi of Egypt)			unknown	no Wikidata ID for Sebekemsaf . and Yauyebi of Egypt
+6	Q85478	Q85528 (Yauyebi of Egypt)	Q85514 (Senebhenaf .)			unknown	no Wikidata ID for Yauyebi of Egypt and Senebhenaf .
+6	Q85478	Q85514 (Senebhenaf .)	Q85500 (Mentuhotep .)			unknown	no Wikidata ID for Senebhenaf . and Mentuhotep .
+6	Q85478	Q85500 (Mentuhotep .)	Q85478 (Sekhemre Sankhtawy Neferhotep III)			unknown	no Wikidata ID for Mentuhotep . and Sekhemre Sankhtawy Neferhotep III
+4	Q135406	Q135406 (Jehoiakim)	Q135539 (Jeconiah)	Q319034	Q319049	confirmed	Wikidata agrees Jehoiakim is a parent of Jeconiah
+4	Q135406	Q135539 (Jeconiah)	Q4617 (Pedaiah)	Q319049	Q20101444	contradicted	Wikidata records no link between them
+4	Q135406	Q4617 (Pedaiah)	Q60222 (Q60222)	Q20101444		unknown	no Wikidata ID for Q60222
+4	Q135406	Q60222 (Q60222)	Q135406 (Jehoiakim)		Q319034	unknown	no Wikidata ID for Q60222
+4	Q135406	Q135406 (Jehoiakim)	Q135539 (Jeconiah)	Q319034	Q319049	confirmed	Wikidata agrees Jehoiakim is a parent of Jeconiah
+4	Q135406	Q135539 (Jeconiah)	Q4617 (Pedaiah)	Q319049	Q20101444	contradicted	Wikidata records no link between them
+4	Q135406	Q4617 (Pedaiah)	Q4626 (Zebudah)	Q20101444	Q30527376	confirmed	Wikidata agrees Pedaiah is a parent of Zebudah
+4	Q135406	Q4626 (Zebudah)	Q135406 (Jehoiakim)	Q30527376	Q319034	confirmed	Wikidata agrees Zebudah is a parent of Jehoiakim
+2	Q29144	Q29144 (kay uyarsh Raja Iran)	Q29148 (kay pisan Raja Iran)			unknown	no Wikidata ID for kay uyarsh Raja Iran and kay pisan Raja Iran
+2	Q29144	Q29148 (kay pisan Raja Iran)	Q29144 (kay uyarsh Raja Iran)			unknown	no Wikidata ID for kay pisan Raja Iran and kay uyarsh Raja Iran
+2	Q29148	Q29148 (kay pisan Raja Iran)	Q52709 (Q52709)			unknown	no Wikidata ID for kay pisan Raja Iran and Q52709
+2	Q29148	Q52709 (Q52709)	Q29148 (kay pisan Raja Iran)			unknown	no Wikidata ID for Q52709 and kay pisan Raja Iran
+2	Q29144	Q29144 (kay uyarsh Raja Iran)	Q52713 (Q52713)			unknown	no Wikidata ID for kay uyarsh Raja Iran and Q52713
+2	Q29144	Q52713 (Q52713)	Q29144 (kay uyarsh Raja Iran)			unknown	no Wikidata ID for Q52713 and kay uyarsh Raja Iran
+10	Q6421	Q6421 (Shaodian)	Q87856 (Generation 2)	Q4302144		unknown	no Wikidata ID for Generation 2
+10	Q6421	Q87856 (Generation 2)	Q87854 (Generation 3)			unknown	no Wikidata ID for Generation 2 and Generation 3
+10	Q6421	Q87854 (Generation 3)	Q87852 (Generation 4)			unknown	no Wikidata ID for Generation 3 and Generation 4
+10	Q6421	Q87852 (Generation 4)	Q87850 (Generation 5)			unknown	no Wikidata ID for Generation 4 and Generation 5
+10	Q6421	Q87850 (Generation 5)	Q87848 (Q87848)			unknown	no Wikidata ID for Generation 5 and Q87848
+10	Q6421	Q87848 (Q87848)	Q87846 (Q87846)			unknown	no Wikidata ID for Q87848 and Q87846
+10	Q6421	Q87846 (Q87846)	Q87844 (Q87844)			unknown	no Wikidata ID for Q87846 and Q87844
+10	Q6421	Q87844 (Q87844)	Q87842 (Q87842)			unknown	no Wikidata ID for Q87844 and Q87842
+10	Q6421	Q87842 (Q87842)	Q87840 (Q87840)			unknown	no Wikidata ID for Q87842 and Q87840
+10	Q6421	Q87840 (Q87840)	Q6421 (Shaodian)		Q4302144	unknown	no Wikidata ID for Q87840
+7	Q171493	Q171493 (Venkatacharyar Jatavallabha (Jatavallabha award by Maha)	Q171595 (Rangacharya Jatavallabha (Jatavallabha award by Maha)			unknown	no Wikidata ID for Venkatacharyar Jatavallabha (Jatavallabha award by Maha and Rangacharya Jatavallabha (Jatavallabha award by Maha
+7	Q171493	Q171595 (Rangacharya Jatavallabha (Jatavallabha award by Maha)	Q171604 (Venkatacharya Jatavallabha (Jatavallabha award by Maha)			unknown	no Wikidata ID for Rangacharya Jatavallabha (Jatavallabha award by Maha and Venkatacharya Jatavallabha (Jatavallabha award by Maha
+7	Q171493	Q171604 (Venkatacharya Jatavallabha (Jatavallabha award by Maha)	Q171614 (Srinivasacharya Jatavallabha)			unknown	no Wikidata ID for Venkatacharya Jatavallabha (Jatavallabha award by Maha and Srinivasacharya Jatavallabha
+7	Q171493	Q171614 (Srinivasacharya Jatavallabha)	Q171622 (Srinivasacharyar Jatavallabha (Jatavallabha award by Maha)			unknown	no Wikidata ID for Srinivasacharya Jatavallabha and Srinivasacharyar Jatavallabha (Jatavallabha award by Maha
+7	Q171493	Q171622 (Srinivasacharyar Jatavallabha (Jatavallabha award by Maha)	Q171636 (Venkatacharya Jatavallabha (Jatavallabha award by Maha)			unknown	no Wikidata ID for Srinivasacharyar Jatavallabha (Jatavallabha award by Maha and Venkatacharya Jatavallabha (Jatavallabha award by Maha
+7	Q171493	Q171636 (Venkatacharya Jatavallabha (Jatavallabha award by Maha)	Q171648 (Rangacharya Jatavallabha (Jatavallabha award by Maha)			unknown	no Wikidata ID for Venkatacharya Jatavallabha (Jatavallabha award by Maha and Rangacharya Jatavallabha (Jatavallabha award by Maha
+7	Q171493	Q171648 (Rangacharya Jatavallabha (Jatavallabha award by Maha)	Q171493 (Venkatacharyar Jatavallabha (Jatavallabha award by Maha)			unknown	no Wikidata ID for Rangacharya Jatavallabha (Jatavallabha award by Maha and Venkatacharyar Jatavallabha (Jatavallabha award by Maha
+2	Q23888	Q23888 (Uematsu Takamasa)	Q47737 (Iwakura Hiromasa)	Q11540635	Q11474167	inherited	Wikidata itself has Uematsu Takamasa (Q11540635) as BOTH parent and child of Iwakura Hiromasa (Q11474167) — the contradiction is upstream
+2	Q23888	Q47737 (Iwakura Hiromasa)	Q23888 (Uematsu Takamasa)	Q11474167	Q11540635	inherited	Wikidata itself has Iwakura Hiromasa (Q11474167) as BOTH parent and child of Uematsu Takamasa (Q11540635) — the contradiction is upstream
+2	Q73872	Q73872 (Lucius Fulvius Curvus)	Q73958 (Lucius Fulvius, II)			unknown	no Wikidata ID for Lucius Fulvius Curvus and Lucius Fulvius, II
+2	Q73872	Q73958 (Lucius Fulvius, II)	Q73872 (Lucius Fulvius Curvus)			unknown	no Wikidata ID for Lucius Fulvius, II and Lucius Fulvius Curvus
+2	Q73530	Q73530 (Marcus Flaccus)	Q73653 (Cassus Curvus)			unknown	no Wikidata ID for Marcus Flaccus and Cassus Curvus
+2	Q73530	Q73653 (Cassus Curvus)	Q73530 (Marcus Flaccus)			unknown	no Wikidata ID for Cassus Curvus and Marcus Flaccus
+11	Q160580	Q160580 (SURYA Dev aka SUN GOD Kashyap)	Q160673 (YAMA Dharma)			unknown	no Wikidata ID for SURYA Dev aka SUN GOD Kashyap and YAMA Dharma
+11	Q160580	Q160673 (YAMA Dharma)	Q160640 (SUNITA Anga)			unknown	no Wikidata ID for YAMA Dharma and SUNITA Anga
+11	Q160580	Q160640 (SUNITA Anga)	Q160615 (VENA Anga)			unknown	no Wikidata ID for SUNITA Anga and VENA Anga
+11	Q160580	Q160615 (VENA Anga)	Q160596 (PRITHU Vena)			unknown	no Wikidata ID for VENA Anga and PRITHU Vena
+11	Q160580	Q160596 (PRITHU Vena)	Q160576 (Vijitashva)			unknown	no Wikidata ID for PRITHU Vena and Vijitashva
+11	Q160580	Q160576 (Vijitashva)	Q160560 (HAVIRDHANA)			unknown	no Wikidata ID for Vijitashva and HAVIRDHANA
+11	Q160580	Q160560 (HAVIRDHANA)	Q160539 (PRACHINBARHI)			unknown	no Wikidata ID for HAVIRDHANA and PRACHINBARHI
+11	Q160580	Q160539 (PRACHINBARHI)	Q160512 (PRACHETAS (10 sons))			unknown	no Wikidata ID for PRACHINBARHI and PRACHETAS (10 sons)
+11	Q160580	Q160512 (PRACHETAS (10 sons))	Q160489 (DAKSHA Prachetas)			unknown	no Wikidata ID for PRACHETAS (10 sons) and DAKSHA Prachetas
+11	Q160580	Q160489 (DAKSHA Prachetas)	Q160460 (Aditi Kashyapa)			unknown	no Wikidata ID for DAKSHA Prachetas and Aditi Kashyapa
+11	Q160580	Q160460 (Aditi Kashyapa)	Q160580 (SURYA Dev aka SUN GOD Kashyap)			unknown	no Wikidata ID for Aditi Kashyapa and SURYA Dev aka SUN GOD Kashyap
+12	Q160673	Q160673 (YAMA Dharma)	Q160640 (SUNITA Anga)			unknown	no Wikidata ID for YAMA Dharma and SUNITA Anga
+12	Q160673	Q160640 (SUNITA Anga)	Q160615 (VENA Anga)			unknown	no Wikidata ID for SUNITA Anga and VENA Anga
+12	Q160673	Q160615 (VENA Anga)	Q160596 (PRITHU Vena)			unknown	no Wikidata ID for VENA Anga and PRITHU Vena
+12	Q160673	Q160596 (PRITHU Vena)	Q160576 (Vijitashva)			unknown	no Wikidata ID for PRITHU Vena and Vijitashva
+12	Q160673	Q160576 (Vijitashva)	Q160560 (HAVIRDHANA)			unknown	no Wikidata ID for Vijitashva and HAVIRDHANA
+12	Q160673	Q160560 (HAVIRDHANA)	Q160539 (PRACHINBARHI)			unknown	no Wikidata ID for HAVIRDHANA and PRACHINBARHI
+12	Q160673	Q160539 (PRACHINBARHI)	Q160512 (PRACHETAS (10 sons))			unknown	no Wikidata ID for PRACHINBARHI and PRACHETAS (10 sons)
+12	Q160673	Q160512 (PRACHETAS (10 sons))	Q160489 (DAKSHA Prachetas)			unknown	no Wikidata ID for PRACHETAS (10 sons) and DAKSHA Prachetas
+12	Q160673	Q160489 (DAKSHA Prachetas)	Q160460 (Aditi Kashyapa)			unknown	no Wikidata ID for DAKSHA Prachetas and Aditi Kashyapa
+12	Q160673	Q160460 (Aditi Kashyapa)	Q160730 (TVASTAR Kashyapa)			unknown	no Wikidata ID for Aditi Kashyapa and TVASTAR Kashyapa
+12	Q160673	Q160730 (TVASTAR Kashyapa)	Q160707 (SANJNA \ Saranyu Saranyu)			unknown	no Wikidata ID for TVASTAR Kashyapa and SANJNA \ Saranyu Saranyu
+12	Q160673	Q160707 (SANJNA \ Saranyu Saranyu)	Q160673 (YAMA Dharma)			unknown	no Wikidata ID for SANJNA \ Saranyu Saranyu and YAMA Dharma
+2	Q70988	Q70988 (Lucius Scribonius Libo Drusus)	Q139601 (Marcus Livius Drusus Libo)	Q431201	Q544382	confirmed	Wikidata agrees Lucius Scribonius Libo Drusus is a parent of Marcus Livius Drusus Libo
+2	Q70988	Q139601 (Marcus Livius Drusus Libo)	Q70988 (Lucius Scribonius Libo Drusus)	Q544382	Q431201	contradicted	Wikidata has the link the other way round: Lucius Scribonius Libo Drusus is a parent of Marcus Livius Drusus Libo
+3	Q86607	Q86607 (Acha Ish Kfar Temarta)	"Q91134 (Abba ""Abbahu"" bar Acha bar Sallah al-Kafri)"			unknown	"no Wikidata ID for Acha Ish Kfar Temarta and Abba ""Abbahu"" bar Acha bar Sallah al-Kafri"
+3	Q86607	"Q91134 (Abba ""Abbahu"" bar Acha bar Sallah al-Kafri)"	Q86617 (Shila Ish Kfar Temarta)			unknown	"no Wikidata ID for Abba ""Abbahu"" bar Acha bar Sallah al-Kafri and Shila Ish Kfar Temarta"
+3	Q86607	Q86617 (Shila Ish Kfar Temarta)	Q86607 (Acha Ish Kfar Temarta)			unknown	no Wikidata ID for Shila Ish Kfar Temarta and Acha Ish Kfar Temarta
+7	Q137878	Q137878 (NN ferch Cynfyn ap Gwerystan ap Gwaithfoed)	Q137383 (Nest ferch Gwrgan ab Ithel ab Idwallon)	Q116052822	Q110560364	confirmed	Wikidata agrees NN ferch Cynfyn ap Gwerystan ap Gwaithfoed is a parent of Nest ferch Gwrgan ab Ithel ab Idwallon
+7	Q137878	Q137383 (Nest ferch Gwrgan ab Ithel ab Idwallon)	Q136957 (Meurig ab Ynyr Gwent)	Q110560364	Q110560357	confirmed	Wikidata agrees Nest ferch Gwrgan ab Ithel ab Idwallon is a parent of Meurig ab Ynyr Gwent
+7	Q137878	Q136957 (Meurig ab Ynyr Gwent)	Q137384 (Ynyr, lord of Gwent)	Q110560357	Q110152975	confirmed	Wikidata agrees Meurig ab Ynyr Gwent is a parent of Ynyr, lord of Gwent
+7	Q137878	Q137384 (Ynyr, lord of Gwent)	Q137899 (Morfudd ferch Ynir)	Q110152975	Q110152973	confirmed	Wikidata agrees Ynyr, lord of Gwent is a parent of Morfudd ferch Ynir
+7	Q137878	Q137899 (Morfudd ferch Ynir)	Q137320 (Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys)	Q110152973	Q110153008	confirmed	Wikidata agrees Morfudd ferch Ynir is a parent of Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys
+7	Q137878	Q137320 (Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys)	Q137900 (Cynfyn ap Gwerstan)	Q110153008	Q5199943	confirmed	Wikidata agrees Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys is a parent of Cynfyn ap Gwerstan
+7	Q137878	Q137900 (Cynfyn ap Gwerstan)	Q137878 (NN ferch Cynfyn ap Gwerystan ap Gwaithfoed)	Q5199943	Q116052822	confirmed	Wikidata agrees Cynfyn ap Gwerstan is a parent of NN ferch Cynfyn ap Gwerystan ap Gwaithfoed
+7	Q137384	Q137384 (Ynyr, lord of Gwent)	Q137899 (Morfudd ferch Ynir)	Q110152975	Q110152973	confirmed	Wikidata agrees Ynyr, lord of Gwent is a parent of Morfudd ferch Ynir
+7	Q137384	Q137899 (Morfudd ferch Ynir)	Q137320 (Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys)	Q110152973	Q110153008	confirmed	Wikidata agrees Morfudd ferch Ynir is a parent of Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys
+7	Q137384	Q137320 (Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys)	Q137449 (Lleuki|Nest ferch Gwerstan ap Gwaithfoed)	Q110153008	Q110582810	confirmed	Wikidata agrees Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys is a parent of Lleuki|Nest ferch Gwerstan ap Gwaithfoed
+7	Q137384	Q137449 (Lleuki|Nest ferch Gwerstan ap Gwaithfoed)	Q136996 (Iorwerth Hir ap Llywarch Gam of Maelor)	Q110582810	Q110622211	confirmed	Wikidata agrees Lleuki|Nest ferch Gwerstan ap Gwaithfoed is a parent of Iorwerth Hir ap Llywarch Gam of Maelor
+7	Q137384	Q136996 (Iorwerth Hir ap Llywarch Gam of Maelor)	Q137385 (Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick)	Q110622211	Q110560367	confirmed	Wikidata agrees Iorwerth Hir ap Llywarch Gam of Maelor is a parent of Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick
+7	Q137384	Q137385 (Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick)	Q136958 (Elen ferch Ednyfed ab Iorwerth Hir ap Llywarch Gam)	Q110560367	Q110560366	confirmed	Wikidata agrees Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick is a parent of Elen ferch Ednyfed ab Iorwerth Hir ap Llywarch Gam
+7	Q137384	Q136958 (Elen ferch Ednyfed ab Iorwerth Hir ap Llywarch Gam)	Q137384 (Ynyr, lord of Gwent)	Q110560366	Q110152975	confirmed	Wikidata agrees Elen ferch Ednyfed ab Iorwerth Hir ap Llywarch Gam is a parent of Ynyr, lord of Gwent
+2	Q73323	Q73323 (Titus Manlius Torquatus)	Q73470 (Titus Manlius Torquatus)			unknown	no Wikidata ID for Titus Manlius Torquatus and Titus Manlius Torquatus
+2	Q73323	Q73470 (Titus Manlius Torquatus)	Q73323 (Titus Manlius Torquatus)			unknown	no Wikidata ID for Titus Manlius Torquatus and Titus Manlius Torquatus
+2	Q73470	Q73470 (Titus Manlius Torquatus)	Q99410 (Q99410)			unknown	no Wikidata ID for Titus Manlius Torquatus and Q99410
+2	Q73470	Q99410 (Q99410)	Q73470 (Titus Manlius Torquatus)			unknown	no Wikidata ID for Q99410 and Titus Manlius Torquatus
+9	Q138403	Q138403 (Clodia)	Q139560 (Licinia)	Q16542257	Q113376428	confirmed	Wikidata agrees Clodia is a parent of Licinia
+9	Q138403	Q139560 (Licinia)	Q73458 (Gaius Caecilius)	Q113376428	Q107101893	contradicted	Wikidata records no link between them
+9	Q138403	Q73458 (Gaius Caecilius)	Q73311 (Lucius Caecilius Metellus Denter)	Q107101893	Q521498	confirmed	Wikidata agrees Gaius Caecilius is a parent of Lucius Caecilius Metellus Denter
+9	Q138403	Q73311 (Lucius Caecilius Metellus Denter)	Q73146 (Lucius Caecilius Metellus)	Q521498	Q359810	confirmed	Wikidata agrees Lucius Caecilius Metellus Denter is a parent of Lucius Caecilius Metellus
+9	Q138403	Q73146 (Lucius Caecilius Metellus)	Q144060 (Quintus Caecilius Metellus)	Q359810	Q929498	confirmed	Wikidata agrees Lucius Caecilius Metellus is a parent of Quintus Caecilius Metellus
+9	Q138403	Q144060 (Quintus Caecilius Metellus)	Q72858 (Quintus Caecilius Metellus Macedonicus)	Q929498	Q355768	confirmed	Wikidata agrees Quintus Caecilius Metellus is a parent of Quintus Caecilius Metellus Macedonicus
+9	Q138403	Q72858 (Quintus Caecilius Metellus Macedonicus)	Q139550 (Quintus Caecilius Metellus Balearicus)	Q355768	Q459870	confirmed	Wikidata agrees Quintus Caecilius Metellus Macedonicus is a parent of Quintus Caecilius Metellus Balearicus
+9	Q138403	Q139550 (Quintus Caecilius Metellus Balearicus)	Q138399 (Caecilia Metella)	Q459870	Q6454825	confirmed	Wikidata agrees Quintus Caecilius Metellus Balearicus is a parent of Caecilia Metella
+9	Q138403	Q138399 (Caecilia Metella)	Q138403 (Clodia)	Q6454825	Q16542257	confirmed	Wikidata agrees Caecilia Metella is a parent of Clodia
+8	Q139560	Q139560 (Licinia)	Q73458 (Gaius Caecilius)	Q113376428	Q107101893	contradicted	Wikidata records no link between them
+8	Q139560	Q73458 (Gaius Caecilius)	Q73311 (Lucius Caecilius Metellus Denter)	Q107101893	Q521498	confirmed	Wikidata agrees Gaius Caecilius is a parent of Lucius Caecilius Metellus Denter
+8	Q139560	Q73311 (Lucius Caecilius Metellus Denter)	Q73146 (Lucius Caecilius Metellus)	Q521498	Q359810	confirmed	Wikidata agrees Lucius Caecilius Metellus Denter is a parent of Lucius Caecilius Metellus
+8	Q139560	Q73146 (Lucius Caecilius Metellus)	Q72984 (Quintus Caecilius Metellus)	Q359810		unknown	no Wikidata ID for Quintus Caecilius Metellus
+8	Q139560	Q72984 (Quintus Caecilius Metellus)	Q72834 (Lucius Caecilius Metellus Calvus)		Q703354	unknown	no Wikidata ID for Quintus Caecilius Metellus
+8	Q139560	Q72834 (Lucius Caecilius Metellus Calvus)	Q141414 (Caecilia Metella)	Q703354	Q461531	confirmed	Wikidata agrees Lucius Caecilius Metellus Calvus is a parent of Caecilia Metella
+8	Q139560	Q141414 (Caecilia Metella)	Q139559 (Lucullus)	Q461531	Q242819	confirmed	Wikidata agrees Caecilia Metella is a parent of Lucullus
+8	Q139560	Q139559 (Lucullus)	Q139560 (Licinia)	Q242819	Q113376428	confirmed	Wikidata agrees Lucullus is a parent of Licinia
+8	Q73599	Q73599 (Gnaeus Servilius)	Q73479 (Quintus Servilius)			unknown	no Wikidata ID for Gnaeus Servilius and Quintus Servilius
+8	Q73599	Q73479 (Quintus Servilius)	Q73332 (Publius Servilius)			unknown	no Wikidata ID for Quintus Servilius and Publius Servilius
+8	Q73599	Q73332 (Publius Servilius)	Q73170 (Gaius Servilius)			unknown	no Wikidata ID for Publius Servilius and Gaius Servilius
+8	Q73599	Q73170 (Gaius Servilius)	Q73985 (Quintus Servilius)			unknown	no Wikidata ID for Gaius Servilius and Quintus Servilius
+8	Q73599	Q73985 (Quintus Servilius)	Q73910 (Gaius Servilius)			unknown	no Wikidata ID for Quintus Servilius and Gaius Servilius
+8	Q73599	Q73910 (Gaius Servilius)	Q73812 (Gaius Servilius)			unknown	no Wikidata ID for Gaius Servilius and Gaius Servilius
+8	Q73599	Q73812 (Gaius Servilius)	Q73710 (Servilius)			unknown	no Wikidata ID for Gaius Servilius and Servilius
+8	Q73599	Q73710 (Servilius)	Q73599 (Gnaeus Servilius)			unknown	no Wikidata ID for Servilius and Gnaeus Servilius
+4	Q161658	Q161658 (Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja)	Q161777 (Dewa Amas Sang Aji Kala)			unknown	no Wikidata ID for Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja and Dewa Amas Sang Aji Kala
+4	Q161658	Q161777 (Dewa Amas Sang Aji Kala)	Q161966 (Demang Lebar Daun Mangkabumi (Bendahara I))			unknown	no Wikidata ID for Dewa Amas Sang Aji Kala and Demang Lebar Daun Mangkabumi (Bendahara I)
+4	Q161658	Q161966 (Demang Lebar Daun Mangkabumi (Bendahara I))	Q162275 (Wan Sendari (Radin Ratna Cenderapuri))			unknown	no Wikidata ID for Demang Lebar Daun Mangkabumi (Bendahara I) and Wan Sendari (Radin Ratna Cenderapuri)
+4	Q161658	Q162275 (Wan Sendari (Radin Ratna Cenderapuri))	Q161658 (Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja)			unknown	no Wikidata ID for Wan Sendari (Radin Ratna Cenderapuri) and Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja
+2	Q18066	Q18066 (Nagano Norinari)	Q32705 (長野尚業)	Q11654206	Q106814279	inherited	Wikidata itself has Nagano Norinari (Q11654206) as BOTH parent and child of 長野尚業 (Q106814279) — the contradiction is upstream
+2	Q18066	Q32705 (長野尚業)	Q18066 (Nagano Norinari)	Q106814279	Q11654206	inherited	Wikidata itself has 長野尚業 (Q106814279) as BOTH parent and child of Nagano Norinari (Q11654206) — the contradiction is upstream
+5	Q73970	Q73970 (Appius Claudius Crassus Inregillensis)	Q73887 (Gaius Claudius Crassus Inrelligensis)	Q657609	Q5759141	confirmed	Wikidata agrees Appius Claudius Crassus Inregillensis is a parent of Gaius Claudius Crassus Inrelligensis
+5	Q73970	Q73887 (Gaius Claudius Crassus Inrelligensis)	Q73782 (Appius Claudius Caecus)	Q5759141	Q297783	confirmed	Wikidata agrees Gaius Claudius Crassus Inrelligensis is a parent of Appius Claudius Caecus
+5	Q73970	Q73782 (Appius Claudius Caecus)	Q78812 (Tiberius Claudius Nero)	Q297783		unknown	no Wikidata ID for Tiberius Claudius Nero
+5	Q73970	Q78812 (Tiberius Claudius Nero)	Q78752 (Publius Claudius-Nero)			unknown	no Wikidata ID for Tiberius Claudius Nero and Publius Claudius-Nero
+5	Q73970	Q78752 (Publius Claudius-Nero)	Q73970 (Appius Claudius Crassus Inregillensis)		Q657609	unknown	no Wikidata ID for Publius Claudius-Nero
+4	Q160928	Q160928 (Swammbhu Brambha)	Q160981 (Person Q160981)			unknown	no Wikidata ID for Swammbhu Brambha and Person Q160981
+4	Q160928	Q160981 (Person Q160981)	Q160965 (Kasayap Muni)			unknown	no Wikidata ID for Person Q160981 and Kasayap Muni
+4	Q160928	Q160965 (Kasayap Muni)	Q160946 (11 Rudras)			unknown	no Wikidata ID for Kasayap Muni and 11 Rudras
+4	Q160928	Q160946 (11 Rudras)	Q160928 (Swammbhu Brambha)			unknown	no Wikidata ID for 11 Rudras and Swammbhu Brambha
+2	Q78501	Q78501 (Marcus Valerius)	Q78615 (Manius Valerius)			unknown	no Wikidata ID for Marcus Valerius and Manius Valerius
+2	Q78501	Q78615 (Manius Valerius)	Q78501 (Marcus Valerius)			unknown	no Wikidata ID for Manius Valerius and Marcus Valerius
+3	Q73824	Q73824 (Agathocles of Pella)	Q135467 (Alcimachus of Apollonia)	Q4691548	Q24254	confirmed	Wikidata agrees Agathocles of Pella is a parent of Alcimachus of Apollonia
+3	Q73824	Q135467 (Alcimachus of Apollonia)	Q73925 (Alcimachus)	Q24254	Q4713126	confirmed	Wikidata agrees Alcimachus of Apollonia is a parent of Alcimachus
+3	Q73824	Q73925 (Alcimachus)	Q73824 (Agathocles of Pella)	Q4713126	Q4691548	contradicted	Wikidata records no link between them

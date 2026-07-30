@@ -4,6 +4,72 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **Started using Wikidata, which I should have done from the start.** Everything in
+  this day's earlier entries was name heuristics — Roman cognomina, Iberian patronymics,
+  BC-date guessing — over a dump where 60,085 records carry a `wikidata_qid` that simply
+  answers the question. I had generalised "the dump is the only copy" from CLAUDE.md into
+  "don't fetch anything"; that rule is about the dead Miraheze wiki, not about Wikidata,
+  which is live. Emma called it. Two new read-only scripts:
+  `check_cycles_against_wikidata.py` and `audit_wikidata_ids.py`.
+
+  **Cycle edges vs Wikidata:** 186 confirmed, 33 contradicted, 6 inherited, 289 unknown.
+  27 of 70 cycles are decided outright, no heuristics needed.
+
+  **`Pons Hug d'Entença` is Wikidata's bug, not ours.** Q21001415 lists Jussiana
+  (Q14083227) as both his mother and his child *on Wikidata*. The dump copied it
+  faithfully. Emma's instinct that these were "bullshit wikidata" was right, and it
+  means "the import broke it" was the wrong frame for that case.
+
+  **ID audit over all 60,037 distinct IDs** (~4 min threaded): 88.63% ok, 10.38%
+  unverifiable (placeholder or cross-script labels — benign), and ~595 records (~1%)
+  genuinely wrong: 331 pointing at non-persons, 127 name mismatches, 96 IDs claimed by
+  several records, 32 sex conflicts, 9 deleted items.
+
+  **1% is not a 1% problem, because of where they are.** `Ops` -> Paul Bildt, a Dutch
+  film actor. `Tros` -> Uranus. `Danaus` -> Oceanus. `Xu Fu` -> Watatsumi, and Xu Fu
+  carries the Jimmu descent. All in the mythic tier that sits under 46 of the 67 cycles
+  and carries 34,365 descendants.
+
+  **Systemic: Japanese names were romanised through Chinese pinyin.** 69 of the 127 name
+  mismatches are Latin-vs-CJK, and consistently so — 徳川 stored as `De Chuan` not
+  Tokugawa, 細川 as `Xi Chuan` not Hosokawa, 岩倉 as `Yan Cang` not Iwakura, 池田 as
+  `Chi Tian` not Ikeda. The kanji were read as Chinese. Here the `wikidata_qid` is right
+  and the local *label* is wrong — the reverse of every other finding — and it explains
+  why name matching kept failing across the Japanese block. Also `Q6439` is labelled
+  `kontol`, Indonesian profanity, pointing at 帝臨魁: vandalism, not transliteration.
+
+  Two of my own bugs, recorded because both produced confident wrong numbers:
+  - The audit first reported 1,961 IDs `missing`. They were batches that failed and
+    never reached the cache. Unfetched is not missing; a re-run resolved it to 9.
+  - It first reported 1,581 records as `not_a_human`, because the class list did not
+    allow biblical figures, kami, naiads, Oceanids or disputed humans — all of which
+    this genealogy is full of. Widening it brought the number to 331.
+
+- **Repaired 8 mutual parent pairs in the dump** (`fix_mutual_parent_pairs.py`), on
+  Emma's explicit authorisation for this class. This is the first script here that
+  writes to the dump; everything else proposes.
+
+  The shape is not what it looked like. The contradiction usually sits inside a *single*
+  record: Q78507 carries both `P47 Father = Q78384` and `P20 Child = Q78384`. Marcus
+  Granius is a real man with a real wife who picked up one reversed claim about his own
+  son, so the repair is deleting that claim, not deleting a node. My earlier "phantom
+  duplicate record" reading of these was wrong.
+
+  8 of 22 pairs had independent signals that agreed; 13 claims removed across 13 items,
+  255 lines, no reformatting. Left alone: 3 needing merges (both sides have spouse
+  co-parent evidence — one person in two records), 1 conflict (Uematsu Takamasa b.1705 /
+  Iwakura Hiromasa b.1746: the family record and the dates point opposite ways), and 10
+  with no evidence at all, mostly Roman. Direct pairs: 22 -> 14, verified two ways.
+
+  Also corrected: the evidence says Cato the Elder -> Marcus Porcius Censorius is the
+  real direction, so Q73167 is likelier his son by Licinia with a wrong epithet than
+  Cato duplicated as himself. I overstated that one.
+
+- **Browsable cycle report** — `wikibase/analysis/cycles.html`, built by
+  `build_cycles_page.py` from `cycles_page.html`. Regenerate after any repair; it always
+  shows what is in the dump now. Self-contained, opens from disk.
+
+
 - **Q73380 `BAD MERGE` characterized — `wikibase/analysis/Q73380_context.md`** (queue
   item 3, describe-don't-fix). The hypothesis in the queue was right — Icarius of Sparta
   conflated with a Seleucid king, specifically Seleucus IV Philopator on the node's own
