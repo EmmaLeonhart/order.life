@@ -32,16 +32,27 @@ general-defect sweeps. "Unexpected" is not evidence of "wrong" here; the standar
 whether the graph asserts something **impossible**, and a person being their own ancestor
 is the one thing that always is.
 
-1. **Resolve the 25 unresolved ancestry cycles.** `qa_cycles_proposed.tsv` proposes cuts
-   for 46 of 71 cycles (10 high, 5 medium, 31 low) and leaves **25 with no cut proposed**
-   because no evidence separated their edges. Those 25 are the work. Cross-check each
-   against `qa_cycles_vs_wikidata.tsv`, where **289 of 514 cycle edges are still
-   `unknown`** — an unknown edge next to a `contradicted` one inside the same cycle is the
-   handle. Output a NEW file, do not edit the existing TSVs. Propose only. An unresolved
-   row stays unresolved; do not manufacture a cut to clear the count.
-   **Before proposing any cut, check whether the cycle is authored** — several sit in the
-   mythic tier (Danaus Q74973, Libya Q132283, Shaodian/Yellow Emperor Q6421, the Q2035
-   Indian chain). If a cycle looks deliberate, say so and cut nothing.
+1. **Dedupe the parallel imports that generate cycles for free.** From
+   `cycle_origins.md`: several cycles are the same defect imported twice — `YAMA Dharma ->
+   SUNITA Anga` exists as both Q2035->Q153444 and Q160673->Q160640, and `Esther bat Sahlan`
+   (Q88454) carries the same bad edge to two different `Esther bat Yosef` records (Q88380,
+   Q90982). Same family of problem as the triplicated Kosala king list. Deduplicating the
+   import removes these cycles **without anyone choosing an edge to cut**, which is strictly
+   safer. Propose the merge set in a NEW file. Do not cut edges.
+
+2. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
+   built before `qa_cycles_vs_wikidata.tsv` and never saw it. **7 of its 25 "unresolved"
+   cycles contain an edge Wikidata explicitly contradicts** — decided already, nobody
+   noticed. Fold it in, then re-check the 31 "low" rows the same way. New file; do not edit
+   the existing TSVs.
+
+3. **Propose the 56-edge cut set, not 71 cuts.** 87 of the 367 cycle edges appear in more
+   than one cycle; 56 edges break all 71. One 12-edge run through the Portuguese de Aguiar
+   family appears in seven cycles each. Cut-set first, per-cycle second.
+
+4. **Resolve the remaining cycles once 1-3 have run.** Leave the mythic tier (Danaus Q74973,
+   Belus Q90576, Atlas Q130582) for last — those cuts are a claim about which tradition
+   wins, not data cleaning, so surface the choice rather than making it.
 
 ---
 
