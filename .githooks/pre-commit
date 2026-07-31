@@ -1,0 +1,14 @@
+#!/bin/sh
+# order.life pre-commit gate.
+#
+# Fires on any staged wikibase/items/*.json. Blocks the commit if a record's
+# shadow files disagree with it -- see wiki-scripts/check_staged_shadows.py.
+#
+# Install: git config core.hooksPath .githooks
+# Bypass:  git commit --no-verify
+
+if git diff --cached --name-only --diff-filter=ACM | grep -q '^wikibase/items/.*\.json$'; then
+    python wiki-scripts/check_staged_shadows.py || exit 1
+    echo "reminder: run check_invariants.py and shadow_audit.py before pushing item changes"
+fi
+exit 0

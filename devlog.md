@@ -4,6 +4,29 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **Wired the gates to a pre-commit hook, and tested that it actually blocks.**
+  `.githooks/pre-commit` + `wiki-scripts/check_staged_shadows.py`. Install with
+  `git config core.hooksPath .githooks`.
+
+  The gates I built today only ran when I remembered to run them, and today that assumption
+  failed three times. The specific damage: ten applied repairs sat silently revertible for
+  hours because their shadow files were never updated. This hook fires on any staged
+  `wikibase/items/*.json` and blocks the commit if a record's shadows disagree with it.
+
+  It checks only the qids actually touched, so it is sub-second — the full gates need a
+  10-minute extract regeneration (`check_invariants.py`) or a 164k-file scan
+  (`shadow_audit.py`), and the hook prints a reminder rather than running them.
+
+  **Verified in both directions rather than asserted.** Dropped one child from Q74698,
+  staged it, and the commit was refused with exit 1 naming Q88740 and Q129977. Reverted,
+  re-staged, and it passed with exit 0. The first version dumped two 59-element lists to
+  show a one-element difference, so it now reports just the difference:
+  `Q74698 child: Q88740.json has ['Q132029'] (the other does not)`.
+
+  `core.hooksPath` is local git config and cannot install itself, so CLAUDE.md now carries
+  the one-line install command.
+
+
 - **Shadow audit: I overstated the problem by three orders of magnitude, then found it was
   aimed at my own repairs.**
 

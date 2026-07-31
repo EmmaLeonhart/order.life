@@ -35,6 +35,13 @@ Three rules follow, and they are not optional:
    loop, drop the rest). If a cycle can only be broken by cutting a tradition-joining edge,
    the real defect is elsewhere in the loop — go find it.
 
+**Install the pre-commit gate once per checkout:** `git config core.hooksPath .githooks`.
+It blocks any commit touching `wikibase/items/*.json` where a record's shadow files
+disagree with it. 39,527 qids are claimed by more than one file and the extractor keeps
+only the numerically-lowest QID, so **editing the canonical file alone is not durable** —
+the fix silently reverts once that file stops winning. This bit ten applied repairs at
+once on 2026-07-30. `core.hooksPath` is local git config, so a fresh clone must set it.
+
 Full policy and a worked example (the `Tros` Q74698 merge, which caused four mythic cycles
 at once) in **`wikibase/analysis/cycle_policy.md`**.
 
