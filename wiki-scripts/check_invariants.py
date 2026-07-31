@@ -122,7 +122,22 @@ def count_cycles(par):
 def measure(source):
     par, child = load_edges_from_items() if source == "items" else load_edges_from_tsv()
     sccs = count_cycles(par)
+    # I2 must not be read off edges.tsv. extract_genealogy.py drops self-edges before
+    # writing it, so `q in par[q]` is unsatisfiable there and this invariant reported 0
+    # unconditionally -- it could never fail, while Q72786 sat in the dump listing itself
+    # as both its father and its child. The extractor now records what it dropped in
+    # qa_self_edges.tsv; read that when the source is the TSVs. Reading the items
+    # directly still finds them the honest way.
     self_loops = sorted(q for q, ps in par.items() if q in ps)
+    if source != "items":
+        p = A / "qa_self_edges.tsv"
+        if p.exists():
+            with open(p, encoding="utf-8") as f:
+                self_loops = sorted({r["qid"] for r in csv.DictReader(f, delimiter="\t")
+                                     if r.get("qid")})
+        else:
+            print("WARNING: qa_self_edges.tsv missing -- re-run extract_genealogy.py. "
+                  "I2 cannot be checked from edges.tsv alone and is being skipped.")
     persons = set()
     with open(A / "persons.tsv", encoding="utf-8") as f:
         for r in csv.DictReader(f, delimiter="\t"):

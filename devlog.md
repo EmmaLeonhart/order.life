@@ -4,6 +4,59 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **The 18-record Roman tangle is gone — two edges, and Scipio Africanus, Barbatus, the
+  Nasicae and the Aemilii Lepidi all come free. Tangles 35 → 34, records in a tangle
+  296 → 278.**
+
+  The loop ran `Q72434 → Q73893 → Q73794 → Q73692 → … → Q72801 → Q72786 → Q72615 →
+  Q72434`. `Q73893` is Lucius Cornelius Scipio Asiaticus Aemilianus (wd Q7234050), consul
+  83 BC — correctly a child of the Lepidus record, since he was an Aemilius by birth. But
+  he was recorded as father of `Q73794` Gnaeus Cornelius Scipio, whose son is Scipio
+  Barbatus, consul **298 BC**.
+
+  **The unsigned-BC warning in the queue item was the whole game.** The dump stores these
+  dates unsigned: Q73893 as 200/77, Barbatus as 400/300. Read naively as AD, 200 then 400
+  looks like a perfectly ordinary grandfather → grandson, which is presumably how the edge
+  survived. Read as the BC magnitudes they are — and they must be, since `Q72957` and
+  `Q72434` in the same chain are stored *signed negative*, and Q73443's +0211 is exactly
+  Scipio Calvus's death in 211 BC — the descent below Q73794 runs cleanly forward
+  (400→306→256→230→205→182 BC) while Q73893 sits at 200/77. His grandson is born some 140
+  to 200 years before him. The repeating-cognomen collision the queue predicted: the
+  ancient Scipiones hung under a 1st-century Scipio because both are "Cornelius Scipio".
+
+  UNMERGE and DEDUPE were both ruled out before cutting — Q73893 carries one identity, not
+  two (Lepidi parents, 1st-century Wikidata id, and its other child `Q72248` Scipio
+  Salvito is Caesar's associate at Thapsus in 46 BC), and Q73794's wd duplicates nothing.
+  Both sides Roman, so no tradition join at risk.
+
+  **Cut both parents, not just the one that closed the loop.** `Q99342` Aemilia Paula is
+  Q73893's wife and Q73794's recorded mother, and she is not in the tangle — so cutting
+  only the father edge would have broken the cycle while leaving an equally impossible
+  claim standing purely because no loop happened to run through it. New
+  `wiki-scripts/cut_edges.py` removes an edge from both sides and every claiming file.
+
+  `compare_tangles.py`: 2 edges, 1 tangle removed, **0 introduced, 0 reshaped, 0 records
+  newly inside**, 18 freed.
+
+- **`check_invariants.py`'s I2 could never fail, and 11 records were exploiting that.**
+
+  It says "no record is its own parent — self-loops must be zero, always" and reported 0
+  every time. Its default `--source tsv` reads `edges.tsv`, and `extract_genealogy.py`
+  drops self-edges before writing it, so `q in par[q]` was unsatisfiable by construction.
+  A gate that cannot fail is worse than no gate, because it reads as evidence.
+
+  The extractor now writes what it drops to `qa_self_edges.tsv` and I2 reads that. Turned
+  on, it immediately failed with **11 records listing themselves as their own parent or
+  child** — `Q72786` Marcus Aemilius Lepidus (11 shadow files), two Aurelii Cottae, Appius
+  Claudius Crassus, Alba Silvius, and the primordials Terra, Erebos and Nyx.
+
+  All 11 cut, data-driven from that file rather than a hand-kept list. This carries no risk
+  of the kind the repair order guards against: a self-edge links a node to itself, so it can
+  never be the only link between two traditions, and since the extractor already excluded
+  them the graph could not change. It didn't — 34 tangles / 278 records / largest 72,
+  identical before and after. The item files now agree with the graph that was always
+  computed from them, and I2 reports 0 **honestly**.
+
 - **My ten merges today silently dropped 38 properties. Restored, and the tool fixed so it
   cannot happen again.**
 

@@ -184,6 +184,19 @@ def main():
 
     canon_parent = {(canon(a), canon(b)) for a, b in parent_edges
                     if canon(a) != canon(b)}
+
+    # Self-edges are excluded from the graph above -- correct, since a self-loop is not a
+    # usable ancestry edge and would distort the SCC work -- but excluding them silently
+    # made check_invariants.py's I2 ("no record is its own parent, self_loops must always
+    # be 0") VACUOUS on its default tsv source: it reads edges.tsv, which by construction
+    # can never contain one. It reported 0 while Q72786 listed itself in both P47 and P20.
+    # So record them separately, and let I2 read this instead.
+    self_edges = sorted({canon(a) for a, b in parent_edges if canon(a) == canon(b)},
+                        key=lambda q: (0, int(q[1:])) if q[1:].isdigit() else (1, q))
+    with open(OUT / "qa_self_edges.tsv", "w", encoding="utf-8", newline="\n") as f:
+        f.write("qid\n")
+        for q in self_edges:
+            f.write(f"{q}\n")
     canon_spouses = set()
     for pair in spouse_pairs:
         a, b = tuple(pair)
