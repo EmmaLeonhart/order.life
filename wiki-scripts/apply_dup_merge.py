@@ -52,17 +52,26 @@ AUDIT = ROOT / "wikibase" / "analysis" / "qa_wikidata_ids.tsv"
 
 GEN_PROPS = ("P20", "P42", "P47", "P48", "P61")  # child, spouse, father, mother, wd id
 
-# Wikidata ids whose pair must NOT be merged, with the reason.
+# Wikidata ids whose pair must NOT be merged here, with the reason.
 # Merging two records is only safe if no third record ends up as both an ancestor and a
-# descendant of the survivor. Q180081 (Cato the Elder) failed exactly that way: Q73005 had
-# Q73167 "Marcus Porcius Censorius" as a CHILD while Q73167 had Q148133 as a child, so
-# merging Q73005 into Q148133 created the 2-cycle Q148133 <-> Q73167 that did not exist
-# before. Both records carry Q180081, so if they are the same man then Q73167 cannot be
-# both his parent and his child -- one of those edges is wrong, and which one is a
-# judgement call about whether Q73167 is a third Cato duplicate or his father.
+# descendant of the survivor, and only safe if vacating the loser's qid does not hand it
+# to a shadow file.
+#
+# Q180081 (Cato the Elder) failed on BOTH counts and is now RESOLVED elsewhere. The
+# question queue.md posed -- is Q73167 "Marcus Porcius Censorius" a third Cato, or Cato's
+# father? -- the dump answers directly: Q73167's mother is Q73329 Licinia, who is Cato's
+# own wife. So Q73167 is Cato's son by Licinia, i.e. Marcus Porcius Cato Licinianus, and
+# "Censorius" is import noise in the surname slot. The real defect was never those two
+# records: it was a parallel import of the whole Porcii Catones family. Seven duplicate
+# pairs, five confirmed by a shared Wikidata id, deduped by
+# wiki-scripts/apply_cato_cluster_merge.py on 2026-07-31 -- survivor always the Q7xxxx
+# side, because only that side has shadow files and vacating a shadowed qid is exactly
+# what injected the phantom edge the first time.
+#
+# The entry stays so this generic pass never re-merges an already-merged cluster.
 DO_NOT_MERGE = {
-    "Q180081": "Cato the Elder -- merging it produced the 2-cycle Q148133 <-> Q73167; "
-               "the MECHANISM IS NOT UNDERSTOOD, see queue.md before touching this pair",
+    "Q180081": "Cato the Elder -- already deduped, with the rest of the Porcii Catones "
+               "cluster, by wiki-scripts/apply_cato_cluster_merge.py (2026-07-31)",
 }
 
 

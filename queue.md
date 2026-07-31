@@ -52,19 +52,38 @@ the wrong metric and must not be used to rank repairs.
 4. **DELETE** only where the loop is genuinely terminal — nothing substantial above it.
    Keep the entry point, drop the rest.
 
-1. **Resolve the Cato the Elder three-record cluster.** Q148133 and Q73005 both carry
-   `wd Q180081` (Cato the Elder) and Q73167 is `Marcus Porcius Censorius` — Censorius is
-   Cato's own cognomen. Merging Q73005 into Q148133 created the 2-cycle
-   `Q148133 <-> Q73167`, because Q73005 had Q73167 as a CHILD while Q73167 had Q148133 as
-   a child. The merge is reverted and guarded (`DO_NOT_MERGE` in `apply_dup_merge.py`).
-   If the three are one man, merge all three; if Q73167 is Cato's father or his son
-   Licinianus, one of the two edges is simply wrong. Decide which, then apply.
-
 **SHADOW FILES — always propagate an edit.** 39,527 qids are claimed by more than one
 file. `extract_genealogy.py` keeps only the numerically-lowest QID per qid, so editing the
 canonical file alone leaves stale shadows that silently revert the fix if that file is ever
 vacated. After editing any record, rewrite every file claiming its qid. `shadow_audit.py`
 reports disagreements; it must stay at **0**.
+
+**MERGE DIRECTION — always merge INTO the side that has shadows.** Vacating a shadowed qid
+lets a shadow win it and inject its claims; that is what produced the phantom Cato 2-cycle
+out of a graph that never contained the edge. Check `redirects.tsv` for both sides before
+choosing a survivor. Worked example: `wikibase/analysis/cato_cluster_resolved.md`.
+
+**COUNT TANGLES, NOT CYCLES.** `dump_qa_errors.py` used to iterate `set`s of qid strings,
+so Python's per-process hash randomisation changed which cycles its DFS found on every run
+— three runs over one unchanged `edges.tsv` gave 45, 50 and 46. It also marked nodes BLACK
+on pop, so it only ever found *some* cycles per tangle. **Every "cycles went from X to Y"
+number in this file, `devlog.md`, `HANDOFF.md` and `GENEALOGY_QA.md` predating 2026-07-31
+is unsound, including the `52 -> 54`.** Fixed 2026-07-31: it now emits one canonical
+shortest cycle per strongly connected component, deterministically (five runs byte-identical),
+and its totals match `check_invariants.py`'s independent Tarjan. The well-defined quantity is
+the **tangle** (an SCC of size > 1) — 36 of them, holding 299 records. Verify repairs against
+`tangled_components` / `records_in_a_cycle`, never against a cycle count.
+
+1. **Decide the Porcia residue under Cato the Younger.** Uncovered by the cluster dedupe
+   and deliberately not guessed. Q72496 (Cato the Younger) now has six children, because
+   the `Q7xxxx` branch contributed `Q78063` "Porcia Catonis" (no Wikidata id) and the
+   `Q14xxxx` branch contributed three distinct Porcia records — `Q141439` (wd Q18280006),
+   `Q141441` (wd Q94959905) and `Q144042` (wd Q255448, the one who married Bibulus and
+   then Brutus). Q78063 carries the Bibulus/Calpurnia descent, which matches Q144042's
+   husband `Q141508` Calpurnius Bibulus — so **Q78063 = Q144042 is the likely merge**, but
+   the dump asserts no id on Q78063 and the three Porcias are genuinely three different
+   women. Confirm the Bibulus line matches, then dedupe Q78063 into Q144042; if it does
+   not match, leave all four and say so.
 
 2. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
    built before `qa_cycles_vs_wikidata.tsv` and never saw it. 7 of its 25 "unresolved"

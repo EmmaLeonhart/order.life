@@ -3,46 +3,31 @@
     "en": [
       {
         "language": "en",
-        "value": "Cato the Younger"
+        "value": "Marcus Porcius Cato Uticensis Minor"
       }
     ]
   },
   "claims": {
-    "P1185": [
-      {
-        "id": "Q141438$C44E3713-F11A-4487-B4D8-2494C7A6198F",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "205223"
-          },
-          "hash": "a9329ecd0639b34ca264d0ee63ffdc92e85e4838",
-          "property": "P1185",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P1819": [
-      {
-        "id": "Q141438$B8427253-AA03-4398-A4BB-3736D1925ED8",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "I00716788"
-          },
-          "hash": "41292e73e666d8b235d947506d92be9579077308",
-          "property": "P1819",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P20": [
+      {
+        "id": "Q72496$3CC2F7E2-217D-4209-9B61-532F0A4F55AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78063",
+              "numeric-id": 78063
+            }
+          },
+          "hash": "b9d10eca80395e5a428b0cddd932fb7bf7e9cc2b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q141438$68543A10-EF74-4587-AE49-C863B8D5A3F7",
         "mainsnak": {
@@ -141,7 +126,7 @@
     ],
     "P39": [
       {
-        "id": "Q141438$764FE3AC-68FB-4C70-ADC1-4D3F81D350A5",
+        "id": "Q72496$95A690C7-2C34-4FDF-8674-CEDD39936117",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -160,7 +145,7 @@
         "type": "statement"
       },
       {
-        "id": "Q141438$C4CAE27C-4896-446D-A945-C99E9E62AFBF",
+        "id": "Q72496$8F087DE2-B0C6-40E1-A1B7-D4A7004981EF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -179,24 +164,26 @@
         "type": "statement"
       }
     ],
-    "P4159": [
+    "P42": [
       {
-        "id": "Q141438$020077A1-693A-42DC-8976-DAE66B5F470F",
+        "id": "Q72496$7B721CF4-03F6-4A5A-B1FA-4D34A6EB1FF1",
         "mainsnak": {
-          "datatype": "external-id",
+          "datatype": "wikibase-item",
           "datavalue": {
-            "type": "string",
-            "value": "Cato_the_Younger_(1)"
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72493",
+              "numeric-id": 72493
+            }
           },
-          "hash": "0b4dd6868a23ed72e22008e61f3ccd7e697ac32d",
-          "property": "P4159",
+          "hash": "67d9dbe32fa9ab8076b91dc8662ba4aebb06cccd",
+          "property": "P42",
           "snaktype": "value"
         },
         "rank": "normal",
         "type": "statement"
-      }
-    ],
-    "P42": [
+      },
       {
         "id": "Q141438$DF08F915-6903-411E-A402-73AC28ACA658",
         "mainsnak": {
@@ -238,18 +225,18 @@
     ],
     "P47": [
       {
-        "id": "Q141438$604F6557-F17E-4D8C-AE9C-3FCCA4476CF5",
+        "id": "Q72496$11CE9FA8-EF40-4210-85F8-1DB5020869F9",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q141517",
-              "numeric-id": 141517
+              "id": "Q72684",
+              "numeric-id": 72684
             }
           },
-          "hash": "344b22afded8cb8781af2f35e4413c60d80b152c",
+          "hash": "36dceb711c3c7c7317ca59b2912bc2d605d98775",
           "property": "P47",
           "snaktype": "value"
         },
@@ -259,7 +246,7 @@
     ],
     "P48": [
       {
-        "id": "Q141438$C9E3C5F1-2215-4E5F-8427-BD3F8E706D60",
+        "id": "Q72496$522A2F2F-FF4E-42B1-B648-3543228D29BD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -280,7 +267,7 @@
     ],
     "P55": [
       {
-        "id": "Q141438$2CA1F3BA-0213-458D-9374-CDAD7425262B",
+        "id": "Q72496$BA9A852B-0646-4E0D-99F4-085FA2AEE6AA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -301,7 +288,7 @@
     ],
     "P56": [
       {
-        "id": "Q141438$6E22045E-D704-4A7F-BA31-FEDB3632FBDA",
+        "id": "Q72496$4998AE20-4AE2-EA97-3D21-A780646CB8DE",
         "mainsnak": {
           "datatype": "time",
           "datavalue": {
@@ -309,13 +296,13 @@
             "value": {
               "after": 0,
               "before": 0,
-              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
               "precision": 9,
-              "time": "+0095-00-00T00:00:00Z",
+              "time": "-0095-00-00T00:00:00Z",
               "timezone": 0
             }
           },
-          "hash": "64e527c81430a0f4edba5f04e50fdcdbf24ea7ed",
+          "hash": "6c8a536378294c2ccb8a384f99f50be880f466c7",
           "property": "P56",
           "snaktype": "value"
         },
@@ -325,7 +312,7 @@
     ],
     "P57": [
       {
-        "id": "Q141438$44004064-0655-4F8F-B089-F958E1D4E795",
+        "id": "Q72496$0AF4379D-4BE9-486A-5A78-6FCF38645D64",
         "mainsnak": {
           "datatype": "time",
           "datavalue": {
@@ -333,13 +320,13 @@
             "value": {
               "after": 0,
               "before": 0,
-              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
-              "precision": 9,
-              "time": "+0046-00-00T00:00:00Z",
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 10,
+              "time": "-0046-04-00T00:00:00Z",
               "timezone": 0
             }
           },
-          "hash": "9f590326d83966d1151bccb63c8f016a1454f567",
+          "hash": "965d1c0f139db358ca75ce9467f35590aabacee6",
           "property": "P57",
           "snaktype": "value"
         },
@@ -349,7 +336,7 @@
     ],
     "P61": [
       {
-        "id": "Q141438$3F829032-13A4-4D10-894C-6AD5AB162900",
+        "id": "Q72496$1E4BC3AF-44E1-0EFC-73B5-57AAE3068FF6",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -364,17 +351,17 @@
         "type": "statement"
       }
     ],
-    "P6821": [
+    "P62": [
       {
-        "id": "Q141438$615ADE5F-29CA-44E0-AD6C-EDFD90EA89C3",
+        "id": "Q72496$D2C31D5E-496C-4CC5-AE37-8B739272C0AE",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
             "type": "string",
-            "value": "alvin-person:25645"
+            "value": "6000000003355846075"
           },
-          "hash": "90847f7be48c6ebc679b872f4131f1a40b8c434a",
-          "property": "P6821",
+          "hash": "eab55a6519c23fdc728a0d25acacd38eff85ff51",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -383,7 +370,7 @@
     ],
     "P94": [
       {
-        "id": "Q141438$6D38D844-8831-483E-8BB2-8399F742695C",
+        "id": "Q72496$AE0E91F7-3A8E-47FB-B0B5-E4516EF78555",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -419,10 +406,6 @@
     "de": {
       "language": "de",
       "value": "römischer Feldherr und Staatsmann"
-    },
-    "dv": {
-      "language": "dv",
-      "value": "ލިޔުންތެރިއެއް"
     },
     "en": {
       "language": "en",
@@ -481,7 +464,7 @@
       "value": "罗马共和国末期的政治家和演说家"
     }
   },
-  "id": "Q141438",
+  "id": "Q72496",
   "labels": {
     "ar": {
       "language": "ar",
@@ -728,11 +711,18 @@
       "value": "小加圖"
     }
   },
-  "lastrevid": 17561286,
-  "modified": "2025-09-17T12:45:15Z",
+  "lastrevid": 17484984,
+  "modified": "2025-09-16T18:28:31Z",
   "ns": 860,
-  "pageid": 169823,
-  "sitelinks": {},
-  "title": "Item:Q141438",
+  "pageid": 87327,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72496",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72496"
+    }
+  },
+  "title": "Item:Q72496",
   "type": "item"
 }

@@ -4,6 +4,71 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **The cycle counter has been wrong the whole time. Every "cycles X → Y" number in this
+  log predating today is unsound.**
+
+  Found while verifying the Cato merge below. Three consecutive runs of
+  `dump_qa_errors.py` over one *unchanged* `edges.tsv` returned **45, 50 and 46 cycles**.
+  Two defects in its cycle section: it iterated `set`s of qid strings, and Python
+  randomises string hashing per process, so the DFS traversal order — and therefore which
+  cycles it found — changed on every invocation; and it marked nodes `BLACK` on pop and
+  never revisited them, so it only ever found *some* cycles per tangle. It was never
+  counting cycles at all: one tangle of n nodes can hold exponentially many.
+
+  That invalidates the `52 -> 54` regression `check_invariants.py` was written to catch,
+  and every before/after cycle figure in `devlog.md`, `queue.md`, `HANDOFF.md` and
+  `GENEALOGY_QA.md` from before today. `check_invariants.py` itself was always sound — it
+  uses Tarjan, and an SCC partition is unique regardless of traversal order, which is why
+  its numbers were the stable ones.
+
+  Fixed: `dump_qa_errors.py` now computes SCCs over sorted adjacency and emits **one
+  canonical shortest cycle per tangle**, with new `tangle_size` / `tangle_qids` columns
+  (existing readers use `DictReader`, so they are unaffected). Five consecutive runs now
+  produce a byte-identical file, and its totals — **36 tangles, 299 records** — match
+  `check_invariants.py`'s independent Tarjan exactly. The well-defined quantity is the
+  tangle, not the cycle; repairs should be verified against `tangled_components`.
+
+- **Cato the Elder resolved: not three records of one man, but a parallel import of the
+  whole Porcii Catones family. Seven pairs deduped, zero tangles moved.**
+
+  `queue.md` asked whether Q148133, Q73005 and Q73167 are one man, or whether Q73167
+  ("Marcus Porcius Censorius") is Cato's father or his son Licinianus. The dump answers it
+  outright: **Q73167's mother is Q73329 Licinia, who is Cato's own wife.** A man cannot
+  have his son's wife for a mother, so Q73167 is Cato's son by Licinia — Marcus Porcius
+  Cato Licinianus, whose cognomen means "Licinia's son". The label was the trap: `P5` reads
+  `Marcus Porcius /Censorius/`, the source having carried the *father's* cognomen in the
+  surname slot. There is no third Cato and there never was.
+
+  The real defect was one branch under `Q7xxxx` and an independent import of the same
+  family under `Q14xxxx`/`Q15xxxx` — seven duplicate pairs, five of them confirmed by a
+  Wikidata id **both** sides carry (Q180081, Q435959, Q1181865, Q1372970, Q193506); the
+  other two forced by those five. Repair-order step 2, DEDUPE: nothing cut, no
+  cross-tradition join touched, every merge strictly additive.
+
+  Survivor is always the low side, and that is the whole lesson of the earlier reverted
+  attempt: every `Q7xxxx` record here has shadow files and no `Q14xxxx` record has any, so
+  merging the other way **vacates a shadowed qid**, a shadow immediately wins it, and its
+  claims get injected — which is how the phantom `Q148133 <-> Q73167` 2-cycle appeared out
+  of a graph that never contained the edge. All 27 files, losers and every shadow of both
+  sides, were rewritten in the same pass.
+
+  Verified by reconstructing the pre-merge graph exactly (untouched edges from the current
+  extract, the rest re-derived from the `HEAD` versions of the merged records and their
+  neighbours through the pre-merge redirect map). The reconstruction lands on **128,689
+  canonical parent edges — exactly what the independent full extract reported beforehand**.
+  Tangles **36 → 36**, in-tangle records **299 → 299**, largest **72 → 72**, and the two SCC
+  partitions are the *same sets*, not merely the same size: **0 tangles introduced, 0
+  removed**, none containing a merged qid. Persons 107,046 → 107,039 and edges 128,689 →
+  128,682, i.e. exactly the seven merges. `shadow_audit.py`: 0 disagreements.
+  `check_invariants.py`: PASS, baseline ratcheted 38/379/88 → 36/299/72.
+
+  Q73167 relabelled to **Marcus Porcius Cato Licinianus** (it now carries wd Q1275684, so
+  the "Censorius" label contradicted its own id); the old label is kept as an English alias.
+  Left standing on purpose: Q78063 "Porcia Catonis" versus the three Porcia records the
+  other branch gives Cato the Younger. Q78063 is probably Q144042 — the Bibulus descent
+  lines up — but no id decides it, so it is a new queue item rather than a guess.
+  Full writeup: `wikibase/analysis/cato_cluster_resolved.md`.
+
 - **The three long Iberian cycles are gone. 74 records freed; the Heracles join survives.**
 
   The queue item said "unmerge/dedupe — do NOT cut", on my own earlier reading that
