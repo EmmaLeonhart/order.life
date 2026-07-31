@@ -1,0 +1,72 @@
+Edge symmetry across the whole dump — 2026-07-30
+Produced by wiki-scripts/edge_symmetry.py. Read-only scan of every item file.
+
+WHY: during the Q74698 unmerge I removed the Danaus->Nilus edge from the child's P47 only.
+It stayed alive through the parent's P20 and two of four cycles were still closed. This
+scan answers whether that hazard is systemic.
+
+ANSWER: 96.3% of edges are declared on both sides, but 4,723 are one-sided. The hazard is
+real and pre-existing, and it is concentrated in the high-fan-out mythic records.
+
+The 81 unreadable files are the known set recovered by commit c17fcbf61 ("Recover 81
+below-frontier Wikibase items that failed or were skipped during backfill") — they are
+null, not damaged, and predate this session.
+
+items scanned            : 164455  (unreadable/non-dict: 81)  in 605s
+edges from parent P20    : 126907
+edges from child P47/P48 : 126980
+
+declared on BOTH sides   :  124582  (96.3% of all edges)
+parent side ONLY         :    2325  (child has no P47/P48 back to it)
+child side ONLY          :    2398  (parent has no P20 forward to it)
+union (what edges.tsv holds):  129305
+
+Why this matters: any repair that edits only one side leaves the edge alive in the
+other, and the graph still contains it. edges.tsv is built from the UNION, so a
+half-removed edge still shows up as a real edge.
+
+sample parent-side-only edges:
+    Q100186 -> Q113897
+    Q100850 -> Q123509
+    Q100862 -> Q113280
+    Q100864 -> Q113288
+    Q100876 -> Q113296
+    Q100878 -> Q113303
+    Q100878 -> Q113307
+    Q100878 -> Q113309
+    Q100904 -> Q113329
+    Q100906 -> Q113333
+    Q100914 -> Q113337
+    Q100914 -> Q113343
+    Q100914 -> Q113345
+    Q100914 -> Q113347
+    Q100916 -> Q113349
+
+sample child-side-only edges:
+    Q1016 -> Q1014
+    Q1016 -> Q1015
+    Q105575574 -> Q152973
+    Q106776 -> Q104137
+    Q106776 -> Q106782
+    Q106776 -> Q106788
+    Q106776 -> Q106790
+    Q106776 -> Q112801
+    Q106776 -> Q112803
+    Q106776 -> Q112805
+    Q106776 -> Q112807
+    Q107385 -> Q65873
+    Q107411 -> Q107415
+    Q107411 -> Q107417
+    Q107411 -> Q107419
+
+records with the most parent-side-only children:
+    Q90309: 142
+    Q74973: 82
+    Q66360: 46
+    Q74720: 33
+    Q65008: 31
+    Q74717: 25
+    Q64029: 19
+    Q65005: 17
+    Q64468: 16
+    Q75054: 16
