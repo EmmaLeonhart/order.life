@@ -4,6 +4,52 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **The Porcia residue is closed: Q78063 and Q144042 are one woman, and two records above
+  her had to merge with them.**
+
+  Yesterday's Porcii Catones dedupe deliberately left this standing — Cato the Younger came
+  out of it with six children because both import branches contributed daughters. The dump
+  settles the identification without any guessing: **Q78066 "Marcus Calpurnius Bibulus"
+  (wd Q316775) is a single record listing BOTH Porcias as wives**, and both are mothers of
+  a son of his. On top of that, Q144042 carries wd Q255448, whose own Wikidata name is
+  "Porcia Catonis" — letter for letter the label on Q78063.
+
+  That forced the two records above her, or the survivor would have inherited two duplicate
+  mothers and Cato the Younger two duplicate wives: **Q72493 / Q144102 "Atilia"** (both his
+  wives, both mothers of the Porcia pair; Q144102 carries wd Q2334126) and **Q72681 "Gaius
+  Atilius" / Q144174 "Atilius Serranus"** (both the father of that Atilia; Q144174 carries
+  wd Q12275873, whose Wikidata name is "G. Atilius Serranus" — the man Q72681 is named for).
+  Three pairs, each forced by the one below it.
+
+  **The queue item had the merge direction backwards** — it said "dedupe Q78063 into
+  Q144042". Q78063 has shadow files and Q144042 has none, so merging that way would have
+  vacated a shadowed qid, which is the exact mechanism that manufactured the phantom Cato
+  2-cycle. Survivor is the low side in all three pairs. That rule is now enforced in code
+  rather than remembered: `merge_cluster.py` refuses any pair whose loser has shadows.
+
+  **Left unmerged on purpose:** Q141439 (wd Q18280006) and Q141441 (wd Q94959905) are also
+  Porcia daughters of Cato the Younger, but by Marcia — a different wife — and they carry
+  two distinct Wikidata items. Likewise Q77899 (wd Q3655959) and Q141508 (wd Q104224002),
+  both sons of Bibulus who now land on the merged Porcia, are plausibly one man but carry
+  different ids. Merging either pair would be a guess.
+
+  Two new tools, because the lessons kept living in prose: `wiki-scripts/merge_cluster.py`
+  (generalised cluster dedupe, enforcing the merge-direction rule) and
+  `wiki-scripts/compare_tangles.py` (compares SCC *partitions* between two `edges.tsv`
+  snapshots — introduced, removed, reshaped, and records entering or leaving a tangle).
+
+  **The dry run earned its keep.** It showed the merge would import references to Q141438
+  — a qid the *previous* merge had already retired into Q72496 — which would have given the
+  merged Porcia two fathers that are the same man. The graph would have canonicalised them
+  into one edge and hidden it. Fixed by folding the global redirect map into the tool's
+  canonicalisation before any union.
+
+  Verified: edges 128,682 → 128,679 and persons 107,039 → 107,036, exactly the three merges;
+  `compare_tangles.py` reports **0 tangles introduced, 0 removed, 0 reshaped, 0 records
+  entering or leaving** — 36 tangles / 299 records / largest 72, unchanged. `check_invariants`
+  PASS, shadow gate consistent on all six qids, merged records confirmed to have exactly one
+  father and one mother each.
+
 - **The cycle counter has been wrong the whole time. Every "cycles X → Y" number in this
   log predating today is unsound.**
 

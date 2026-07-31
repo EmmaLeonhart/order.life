@@ -3,29 +3,54 @@
     "en": [
       {
         "language": "en",
-        "value": "Porcia"
+        "value": "Porcia Catonis ."
+      },
+      {
+        "language": "en",
+        "value": "Porcia Catonis"
       }
     ]
   },
   "claims": {
-    "P1819": [
+    "P20": [
       {
-        "id": "Q144042$9074D3E3-B59D-4A15-9E98-F674D64126D9",
+        "id": "Q78063$2A7BC11D-611E-4E7C-A4B6-3024965123A8",
         "mainsnak": {
-          "datatype": "external-id",
+          "datatype": "wikibase-item",
           "datavalue": {
-            "type": "string",
-            "value": "I00716795"
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77899",
+              "numeric-id": 77899
+            }
           },
-          "hash": "8791ef0b76936435029e3c53ee3ef7ba2bbd539e",
-          "property": "P1819",
+          "hash": "4e3824da37d078105a2659af02ea9da4de031f7f",
+          "property": "P20",
           "snaktype": "value"
         },
         "rank": "normal",
         "type": "statement"
-      }
-    ],
-    "P20": [
+      },
+      {
+        "id": "Q78063$383EB1E5-6C65-4137-A750-CB327D11C275",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78198",
+              "numeric-id": 78198
+            }
+          },
+          "hash": "4e1e644d1dedefd3e58bf5d36d5d986952a82b0c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q144042$F509A1BF-6C0A-459C-980E-1789121E7D42",
         "mainsnak": {
@@ -48,7 +73,7 @@
     ],
     "P39": [
       {
-        "id": "Q144042$71E9C196-59C2-4EFB-9B77-6CA9C6093584",
+        "id": "Q78063$88407A78-1002-4F6A-82B9-EB3A29708745",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -67,7 +92,7 @@
         "type": "statement"
       },
       {
-        "id": "Q144042$7F5FB2F9-5F85-459E-98F7-557AA7E1A491",
+        "id": "Q78063$9050B1F8-2CDC-4E66-AD52-F243F7A3C4E1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -86,24 +111,26 @@
         "type": "statement"
       }
     ],
-    "P4159": [
+    "P42": [
       {
-        "id": "Q144042$4E459E98-1EAB-4AF8-818C-8959CBFA0952",
+        "id": "Q78063$D69BB9BD-9ADD-4722-8873-8AF3FA2AD011",
         "mainsnak": {
-          "datatype": "external-id",
+          "datatype": "wikibase-item",
           "datavalue": {
-            "type": "string",
-            "value": "Porcia_Catonis_(1)"
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78066",
+              "numeric-id": 78066
+            }
           },
-          "hash": "7f91f660b3a12ab58ca2c4bc93a223176178841f",
-          "property": "P4159",
+          "hash": "728976e7a8dedc940f6cd891bff314b60eb509c6",
+          "property": "P42",
           "snaktype": "value"
         },
         "rank": "normal",
         "type": "statement"
-      }
-    ],
-    "P42": [
+      },
       {
         "id": "Q144042$3AABAE40-7B32-425E-8CE5-9957BEB2BD48",
         "mainsnak": {
@@ -122,41 +149,22 @@
         },
         "rank": "normal",
         "type": "statement"
-      },
-      {
-        "id": "Q144042$3A57DBDC-BFFD-4761-ADD6-C003529C9C49",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q78066",
-              "numeric-id": 78066
-            }
-          },
-          "hash": "728976e7a8dedc940f6cd891bff314b60eb509c6",
-          "property": "P42",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
       }
     ],
     "P47": [
       {
-        "id": "Q144042$300F3BE6-3DCA-49FB-8EE4-D42E9EF228A1",
+        "id": "Q78063$056B4A62-DA6C-457E-B6C4-959CC8F573C9",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q141438",
-              "numeric-id": 141438
+              "id": "Q72496",
+              "numeric-id": 72496
             }
           },
-          "hash": "ed758ca15d107d47bd9221436840be627d218e72",
+          "hash": "c067815d29593db205d6770deb7bbf38bdfb55d7",
           "property": "P47",
           "snaktype": "value"
         },
@@ -166,18 +174,18 @@
     ],
     "P48": [
       {
-        "id": "Q144042$369A38A3-6CF4-42BC-8A62-EDF749723017",
+        "id": "Q78063$A8C3BC1B-8BC3-48C0-9F2B-612363837927",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q144102",
-              "numeric-id": 144102
+              "id": "Q72493",
+              "numeric-id": 72493
             }
           },
-          "hash": "ba2f0e6c84abcb7da209531570aa8388bb43c5ef",
+          "hash": "a9b7b726d5a9142b64a80fb0f000bf8589beebb7",
           "property": "P48",
           "snaktype": "value"
         },
@@ -187,7 +195,7 @@
     ],
     "P55": [
       {
-        "id": "Q144042$368E54C2-20B4-4430-BF7E-259F45813EBC",
+        "id": "Q78063$24647065-880E-48EA-B8FC-D0387303B39F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -206,48 +214,34 @@
         "type": "statement"
       }
     ],
-    "P56": [
+    "P62": [
       {
-        "id": "Q144042$211908D2-9CC4-4A67-9539-B207724FEDD9",
+        "id": "Q78063$305CF2D9-B3E4-4881-AAEC-FB8237769613",
         "mainsnak": {
-          "datatype": "time",
+          "datatype": "external-id",
           "datavalue": {
-            "type": "time",
-            "value": {
-              "after": 0,
-              "before": 0,
-              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
-              "precision": 9,
-              "time": "+0100-00-00T00:00:00Z",
-              "timezone": 0
-            }
+            "type": "string",
+            "value": "6000000003820968352"
           },
-          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
-          "property": "P56",
+          "hash": "359f1369a9611ad4716f8bca867c44166387ad3d",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
         "type": "statement"
       }
     ],
-    "P57": [
+    "P94": [
       {
-        "id": "Q144042$968FFA95-27E7-4A5A-A438-473EDC90B85D",
+        "id": "Q78063$75946104-D3D6-4365-AB85-FCCE29A9769E",
         "mainsnak": {
-          "datatype": "time",
+          "datatype": "commonsMedia",
           "datavalue": {
-            "type": "time",
-            "value": {
-              "after": 0,
-              "before": 0,
-              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
-              "precision": 9,
-              "time": "+0043-00-00T00:00:00Z",
-              "timezone": 0
-            }
+            "type": "string",
+            "value": "Porcia Catonis Arms.svg"
           },
-          "hash": "6fecb8ad9ad1a27d4044497a5512d95c0951a93e",
-          "property": "P57",
+          "hash": "90184297d5a41c29f28fe3e3bc0d190874ff1243",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -270,212 +264,28 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P64": [
-      {
-        "id": "Q144042$9156B790-677E-4B24-A6FC-AB9A9F565076",
-        "mainsnak": {
-          "datatype": "string",
-          "datavalue": {
-            "type": "string",
-            "value": "Porcia"
-          },
-          "hash": "25a1fdd51275759c012ce15c2db08b8802062b9b",
-          "property": "P64",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q144042$04641B47-78E0-496F-A50E-53AC33082DAF",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Porcia Arms.svg"
-          },
-          "hash": "21ba0501856850a360063780cfc37e17762a6a6f",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {
-    "de": {
-      "language": "de",
-      "value": "Tochter des jüngeren Cato, Frau des Brutus"
-    },
-    "en": {
-      "language": "en",
-      "value": "daughter of Cato the Younger, wife of Brutus"
-    },
-    "es": {
-      "language": "es",
-      "value": "hija de Catón el Joven y Atilia (f. 43 a. C.)"
-    },
-    "fi": {
-      "language": "fi",
-      "value": "Cato nuoremman tytär ja Brutuksen vaimo"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "citoyenne romaine, épouse de Brutus"
-    },
-    "it": {
-      "language": "it",
-      "value": "nobildonna romana, figlia di Catone minore e Atilia, moglie di Marco Giunio Bruto"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "dochter van Cato"
-    },
-    "pl": {
-      "language": "pl",
-      "value": "filozofka"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "patrícia romana"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "древнеримская матрона, дочь Марка Порция Катона Младшего"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "dotter till Cato och fru till Brutus"
-    },
-    "uk": {
-      "language": "uk",
-      "value": "давньоримська матрона"
-    }
-  },
-  "id": "Q144042",
+  "descriptions": {},
+  "id": "Q78063",
   "labels": {
-    "be": {
-      "language": "be",
-      "value": "Порцыя Катона"
-    },
-    "bg": {
-      "language": "bg",
-      "value": "Порция Катона"
-    },
-    "br": {
-      "language": "br",
-      "value": "Porcia Catonis"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Pòrcia Cató"
-    },
-    "cs": {
-      "language": "cs",
-      "value": "Porcia Catonis"
-    },
-    "de": {
-      "language": "de",
-      "value": "Porcia"
-    },
-    "el": {
-      "language": "el",
-      "value": "Πορκία (σύζυγος του Βρούτου)"
-    },
     "en": {
       "language": "en",
-      "value": "Porcia"
-    },
-    "es": {
-      "language": "es",
-      "value": "Porcia"
-    },
-    "eu": {
-      "language": "eu",
       "value": "Porcia Catonis"
-    },
-    "fa": {
-      "language": "fa",
-      "value": "پورشیا (همسر بروتوس)"
-    },
-    "fi": {
-      "language": "fi",
-      "value": "Porcia"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Porcie"
-    },
-    "he": {
-      "language": "he",
-      "value": "פורקיה קאטוניס"
-    },
-    "hy": {
-      "language": "hy",
-      "value": "Պորցիա Կատոնա"
-    },
-    "it": {
-      "language": "it",
-      "value": "Porzia"
-    },
-    "ja": {
-      "language": "ja",
-      "value": "ポルキア・カトニス"
-    },
-    "mul": {
-      "language": "mul",
-      "value": "Porcia"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Porcia Catones"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Porcia Catonis"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "Pórcia (esposa de Bruto)"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "Порция Катона"
-    },
-    "sh": {
-      "language": "sh",
-      "value": "Porcija Katonis"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Porcia"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Porcia"
-    },
-    "uk": {
-      "language": "uk",
-      "value": "Порція Катона"
-    },
-    "zh-cn": {
-      "language": "zh-cn",
-      "value": "鲍西娅"
-    },
-    "zh-hant": {
-      "language": "zh-hant",
-      "value": "鮑西婭"
     }
   },
-  "lastrevid": 17565902,
-  "modified": "2025-09-17T13:51:37Z",
+  "lastrevid": 17492046,
+  "modified": "2025-09-16T20:07:50Z",
   "ns": 860,
-  "pageid": 172427,
-  "sitelinks": {},
-  "title": "Item:Q144042",
+  "pageid": 92894,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q78063",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q78063"
+    }
+  },
+  "title": "Item:Q78063",
   "type": "item"
 }

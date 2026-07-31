@@ -74,29 +74,26 @@ and its totals match `check_invariants.py`'s independent Tarjan. The well-define
 the **tangle** (an SCC of size > 1) — 36 of them, holding 299 records. Verify repairs against
 `tangled_components` / `records_in_a_cycle`, never against a cycle count.
 
-1. **Decide the Porcia residue under Cato the Younger.** Uncovered by the cluster dedupe
-   and deliberately not guessed. Q72496 (Cato the Younger) now has six children, because
-   the `Q7xxxx` branch contributed `Q78063` "Porcia Catonis" (no Wikidata id) and the
-   `Q14xxxx` branch contributed three distinct Porcia records — `Q141439` (wd Q18280006),
-   `Q141441` (wd Q94959905) and `Q144042` (wd Q255448, the one who married Bibulus and
-   then Brutus). Q78063 carries the Bibulus/Calpurnia descent, which matches Q144042's
-   husband `Q141508` Calpurnius Bibulus — so **Q78063 = Q144042 is the likely merge**, but
-   the dump asserts no id on Q78063 and the three Porcias are genuinely three different
-   women. Confirm the Bibulus line matches, then dedupe Q78063 into Q144042; if it does
-   not match, leave all four and say so.
+**HOW TO VERIFY A REPAIR.** Snapshot `edges.tsv` first, make the change, regenerate, then
+`python wiki-scripts/compare_tangles.py <snapshot>`. It compares SCC *partitions* — what was
+introduced, removed, or reshaped, and which records entered or left a tangle — so a repair
+that keeps the counts equal while moving records between tangles still shows up. Exits
+non-zero if anything was introduced. Merges go through `wiki-scripts/merge_cluster.py
+<cluster>`, which enforces the merge-direction rule above and refuses a pair whose loser has
+shadows.
 
-2. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
+1. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
    built before `qa_cycles_vs_wikidata.tsv` and never saw it. 7 of its 25 "unresolved"
    cycles contain an edge Wikidata explicitly contradicts. Most cycle records have working
    Wikidata ids, which is what makes unmerging tractable — use them.
 
-3. **Work the remaining cycles under the repair order above.** Unmerge candidates first.
+2. **Work the remaining cycles under the repair order above.** Unmerge candidates first.
    The five remaining cycles of length >= 20 are all Roman, sharing the Q61957/Q62255/
    Q63192/Q63747/Q70152/Q138467 stretch — likely the same repeating-cognomen collision that
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-4. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
+3. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
    edges are declared on both sides (parent `P20` and child `P47`/`P48`), but 2,325 are
    parent-side only and 2,398 child-side only. `edges.tsv` is built from the union, so a
    half-declared edge still reads as real and any one-sided repair silently fails — this is
