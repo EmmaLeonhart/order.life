@@ -192,3 +192,16 @@ See `calendar-lib/README.md` for the full roadmap.
 - ~~Import `Module:GaiadDate` onto lifeism.miraheze.org~~ — wiki closed. XML still in `calendar-lib/GaianCalendar-WikiModule-Export.xml` if a wiki is restored.
 - ~~Verify the 14 month pages the bot overwrote didn't clobber content~~ — wiki closed; the host returns "Wiki not found", and the bot never ran successfully against a live wiki. Audited 2026-06-29: nothing to verify.
 - `calendar-lib/test_overview_preservation.py` was **NOT actually a failing test** (corrected 2026-07-01). It's a manual CLI diagnostic that pytest merely *collected* because of its `test_*.py` name + `test_*` functions; the "2 errors" were `fixture 'username'/'wiki' not found` — a collection artifact, not a wiki problem. **Renamed to `diagnose_overview_preservation.py`** (and its internal functions de-`test_`-prefixed), so pytest no longer collects it → calendar-lib suite is now a clean **2 passed / 0 errors** (`test_page_generation.py`). The diagnostic still can't *connect* (its target wikis, evolutionism/lifeism.miraheze.org, are 404-closed), but that's a can't-run tool, not a red test.
+
+## Notion integration (added 2026-07-31)
+
+- **Central command should pick this up.** The genealogy cycle review now lives at
+  <https://app.notion.com/p/3ae96556906781e98643c34a75bd8a86>, generated from
+  `wikibase/analysis/cycles_review.md` by `wiki-scripts/build_cycles_notion.py`.
+  `docs/notion_sync.md` states the rule: the repo is the source of truth, Notion is a copy,
+  nothing is authored in Notion. `queue.md` carries the URL and the read-before-repairing
+  note.
+- **Wire the regeneration into the loop** so the page cannot drift: after any change to
+  `wikibase/items/`, re-run the extract chain and re-push the page. Currently manual.
+- **`queue.md` / `devlog.md` / `todo.md` are deliberately NOT synced** — the cockpit renders
+  them directly and a second home would leave them ownerless.
