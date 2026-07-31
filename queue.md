@@ -60,28 +60,26 @@ the wrong metric and must not be used to rank repairs.
    If the three are one man, merge all three; if Q73167 is Cato's father or his son
    Licinianus, one of the two edges is simply wrong. Decide which, then apply.
 
-2. **Audit shadow files dump-wide.** Found 2026-07-30. **39,533 qids are claimed by more
-   than one file** (57,410 shadow files), and `extract_genealogy.py` keeps only the first
-   file it sees per qid — so which claims survive depends on filename order, and shadows
-   routinely carry claims the canonical file lacks. This is not merge-specific: it means the
-   graph today already reflects arbitrary winners. Quantify how many shadows disagree with
-   their canonical record on P20/P47/P48, and how many edges hang on a coin-flip. Do NOT
-   mass-resolve — report first, then decide with Emma which side wins.
+**SHADOW FILES — always propagate an edit.** 39,527 qids are claimed by more than one
+file. `extract_genealogy.py` keeps only the numerically-lowest QID per qid, so editing the
+canonical file alone leaves stale shadows that silently revert the fix if that file is ever
+vacated. After editing any record, rewrite every file claiming its qid. `shadow_audit.py`
+reports disagreements; it must stay at **0**.
 
-3. **Unmerge/dedupe the long Iberian chains — do NOT cut them.** Seven of the eight cycles
+2. **Unmerge/dedupe the long Iberian chains — do NOT cut them.** Seven of the eight cycles
    of length >= 20 run through one twelve-edge stretch of the Portuguese de Aguiar family
    ending at Heracles. `Barbara, imperatriz of Rome` / `Bárbara, Princess of Rome` is an
    accented duplicate pair and `Diogo Afonso **Afonso** de Aguiar` is a doubled name — both
    unmerge signatures. The join to Heracles is why the chain exists and must survive.
 
-4. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
+3. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
    built before `qa_cycles_vs_wikidata.tsv` and never saw it. 7 of its 25 "unresolved"
    cycles contain an edge Wikidata explicitly contradicts. Most cycle records have working
    Wikidata ids, which is what makes unmerging tractable — use them.
 
-5. **Work the remaining cycles under the repair order above.** Unmerge candidates first.
+4. **Work the remaining cycles under the repair order above.** Unmerge candidates first.
 
-6. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
+5. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
    edges are declared on both sides (parent `P20` and child `P47`/`P48`), but 2,325 are
    parent-side only and 2,398 child-side only. `edges.tsv` is built from the union, so a
    half-declared edge still reads as real and any one-sided repair silently fails — this is

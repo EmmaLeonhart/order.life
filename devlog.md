@@ -4,6 +4,37 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **Shadow audit: I overstated the problem by three orders of magnitude, then found it was
+  aimed at my own repairs.**
+
+  Last tick I said the graph "already reflects arbitrary filename-order winners across
+  39,533 qids". Measured: 39,527 qids do have multiple files, but **only 21 of them
+  disagree** on parents or children, covering **31 edges**. The other 39,506 are identical
+  copies. Zero edges existed only by filename luck.
+
+  Two things the audit caught that I had wrong. First, I wrote it assuming the extractor
+  keeps the lexicographically-first filename; it sorts **numerically by QID**
+  (`key=lambda p: int(p.stem[1:])`), so the winner is the lowest QID number. String `min()`
+  named the wrong winner for any record whose shadows differ in digit count. Discarded that
+  run. It also pins the Cato mechanism exactly: Q73005 is numerically lowest and won, and
+  once vacated the next-lowest is **Q87608**, which carries `P47=['Q73167']`.
+
+  Second, and worse: **ten of the 21 were records I edited today.** Q74698's shadows still
+  held the Trojan children and Erichthonius-as-father — precisely the claims the unmerge
+  removed. My repairs were durable only while the edited file kept winning. And two pairs I
+  reported as "already one-directional, left alone" — Marullinus Q69886/Q70388 and Granius
+  Q78384/Q78507 — are one-directional *only* because the lower QID won; their shadows
+  assert the reverse edge. I drew that conclusion from the extract instead of the files.
+
+  Propagated each winner to its 52 shadows. Zero edges changed, because the winner already
+  determined the graph. Verified: invariants identical to baseline (38 tangled components,
+  379 records, largest 88, 0 self-loops, 1,224 multi-parent), and shadow disagreements
+  **21 -> 0**, suppressed edges **31 -> 0**.
+
+  Standing rule added to queue.md: after editing any record, rewrite every file claiming its
+  qid, and keep `shadow_audit.py` at zero.
+
+
 - **Reproduced the Cato cycle. The cause is shadow files, and it is systemic.**
 
   I had twice asserted a mechanism for this cycle and been wrong twice, so this time I
