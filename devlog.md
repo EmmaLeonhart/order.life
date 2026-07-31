@@ -49,8 +49,10 @@ Dated log of autonomous work-loop progress. Newest first.
   attempt: every `Q7xxxx` record here has shadow files and no `Q14xxxx` record has any, so
   merging the other way **vacates a shadowed qid**, a shadow immediately wins it, and its
   claims get injected — which is how the phantom `Q148133 <-> Q73167` 2-cycle appeared out
-  of a graph that never contained the edge. All 27 files, losers and every shadow of both
-  sides, were rewritten in the same pass.
+  of a graph that never contained the edge. Every file claiming any of the 14 qids — 34 in
+  all, survivors, losers and every shadow of both sides — was rewritten in the same pass;
+  28 of them actually differed and are in the commit, the other 6 already held identical
+  content.
 
   Verified by reconstructing the pre-merge graph exactly (untouched edges from the current
   extract, the rest re-derived from the `HEAD` versions of the merged records and their

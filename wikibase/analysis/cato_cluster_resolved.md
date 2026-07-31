@@ -79,8 +79,11 @@ Merging the other way — Q73005 into Q148133, which is what was tried before an
 qid, so a shadow immediately wins the vacancy and injects its own claims, and that is how
 the phantom `Q148133 <-> Q73167` 2-cycle appeared out of a graph that did not contain the
 edge beforehand. Merging into the low side vacates only `Q14xxxx`/`Q15xxxx` qids, which
-nothing can re-claim. All 27 files — losers and every shadow of both sides — were rewritten
-to the survivor's content in the same pass.
+nothing can re-claim. Every file claiming any of the 14 qids — **34 in all**, survivors,
+losers and every shadow of both sides — was rewritten to the survivor's content in the same
+pass. 28 of them actually differed and appear in the commit; the other 6 (Q73005 and its
+five shadows) already held content identical to the merged result, because that record was
+the superset the others merged into.
 
 ## Left standing on purpose
 
@@ -123,7 +126,7 @@ The right invariant is the tangle, not the cycle. **Compare tangles, never cycle
 ## Verification
 
 The pre-merge graph was reconstructed exactly rather than re-extracted: every file outside
-the 27 the merge touched is byte-identical, so the untouched edges come from the current
+the 28 the merge changed is byte-identical, so the untouched edges come from the current
 `edges.tsv` and the rest are re-derived from the `HEAD` versions of the merged records and
 of every neighbour of a survivor, canonicalised through the pre-merge redirect map. The
 reconstruction lands on **128,689 canonical parent edges — exactly the figure the
