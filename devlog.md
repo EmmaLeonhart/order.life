@@ -4,6 +4,29 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **71 cycles -> 52, and the count is now honest.** Regenerated the derived extracts with
+  `extract_genealogy.py` and re-ran `dump_qa_errors.py`. Everything downstream had been
+  reading `wikibase/analysis/*.tsv` files that went stale the moment I started editing
+  items — and `qa_cycles_proposed.tsv` was *already* stale by eight rows before that,
+  because `9c0299d8` repaired eight mutual pairs and nobody re-ran the detector. So the
+  "71 cycles" figure I have been quoting all session was wrong from the start.
+
+  Current: **52 cycles**, 1,224 multi-parent children (was 1,230). All seven records I
+  repaired today — Ouranos/Tros, Danaus, Belus, Nilus, Titus Manlius Torquatus, Lucius
+  Fulvius Curvus, Marcus Valerius — are out of every remaining cycle, checked against the
+  regenerated file rather than assumed. The extract diff is exactly 13 removed edges, which
+  matches what was applied.
+
+  Remaining shape: 10 two-cycles, 8 threes, 9 fours, and a tail running to one 46. The long
+  Iberian chains are still there and are next, by unmerge and dedupe rather than cutting.
+
+- **Also fixed the work-loop cron**, which was still instructing every tick to "PROPOSE,
+  DON'T APPLY" — the rule Emma revoked. Left alone it would have quietly restored the
+  behaviour she had to ask me twice to stop. The new prompt carries the apply-directly
+  policy, the synoptic-ancestry framing, the repair order, and the two-places-per-edge
+  warning.
+
+
 - **The Tros unmerge needs no unmerge — the correct record was already there.**
   `wikibase/analysis/tros_unmerge_proposed.md`, propose-only. I had diagnosed Q74698 as
   Tros-of-Dardania merged with a primordial figure and proposed splitting it into two new

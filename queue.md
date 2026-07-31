@@ -52,16 +52,6 @@ the wrong metric and must not be used to rank repairs.
 4. **DELETE** only where the loop is genuinely terminal — nothing substantial above it.
    Keep the entry point, drop the rest.
 
-1. **Unmerge the Roman same-name pairs.** Same mechanism as Tros, confirmed by
-   `cycle_origins.md`: Roman *tria nomina* repeat father-to-son, so a name-matching import
-   linked father and son in both directions. 2-cycles with identical labels:
-   `Titus Manlius Torquatus` (Q73323/Q73470), `Publius Aelius Marullinus` (Q70388/Q69886 —
-   Wikidata itself holds two records, Q112865805 and Q112865796), `Marcus Granius`
-   (Q78507/Q78384), `Gaius Servilius` (Q73910/Q73812), plus near-pairs `Lucius Fulvius, II`
-   / `Lucius Fulvius Curvus` (Q73958/Q73872) and `Marcus Valerius` / `Manius Valerius`
-   (Q78501/Q78615). Emma: preserve the Roman material as much as possible — unmerge, never
-   delete. Apply, then verify from the items.
-
 1. **Unmerge/dedupe the long Iberian chains — do NOT cut them.** Seven of the eight cycles
    of length >= 20 run through one twelve-edge stretch of the Portuguese de Aguiar family
    ending at Heracles. `Barbara, imperatriz of Rome` / `Bárbara, Princess of Rome` is an
@@ -75,11 +65,14 @@ the wrong metric and must not be used to rank repairs.
 
 3. **Work the remaining cycles under the repair order above.** Unmerge candidates first.
 
-4. **Regenerate `qa_cycles.tsv` / `qa_cycles_proposed.tsv`.** Found 2026-07-30 while
-   verifying the Tros unmerge: only **63 of the 71 recorded chains still exist** in the
-   current dump — earlier repairs (`9c0299d8`, "repair 8 mutual pairs") already broke eight
-   of them. The proposals file is stale by eight rows and the cycle count is overstated.
-   Re-run the detector before anyone counts cycles again.
+4. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
+   edges are declared on both sides (parent `P20` and child `P47`/`P48`), but 2,325 are
+   parent-side only and 2,398 child-side only. `edges.tsv` is built from the union, so a
+   half-declared edge still reads as real and any one-sided repair silently fails — this is
+   what made the Tros fix look done when two cycles were still closed. Concentrated in the
+   fan-out records: Oceanus Q90309 has 142, Danaus Q74973 has 82, Q66360 has 46. Decide per
+   record whether the missing side should be added or the present side removed; do NOT
+   blanket-add, since some one-sided edges are probably deletions that only got half done.
 
 ---
 
