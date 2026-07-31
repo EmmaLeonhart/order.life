@@ -1,9 +1,144 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Abdullah ibn Muhammad al-Umawi"
+      },
+      {
+        "language": "en",
+        "value": "أبو محمد عبد الله بن محمد"
+      },
+      {
+        "language": "en",
+        "value": "Abd Allah I ibn Muhammad al-Umawi"
+      },
+      {
+        "language": "en",
+        "value": "Abd Allah I  ibn Muhammad al-Umawi"
+      }
+    ]
+  },
   "claims": {
+    "P20": [
+      {
+        "id": "Q100758$7A0EFC61-6357-4039-A499-1DE7D2311D47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100760",
+              "numeric-id": 100760
+            }
+          },
+          "hash": "d01151895e2c330bdb3715e1fd781f7a1b8b6e3b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100758$3A48D745-E6D7-4195-946C-8F27C410330D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100762",
+              "numeric-id": 100762
+            }
+          },
+          "hash": "3c11c4fa3b51ff6c08a96d3d8a60ce58684fb0c4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100758$C44ED857-870B-4380-AE11-AAB6C26BD40E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100764",
+              "numeric-id": 100764
+            }
+          },
+          "hash": "167702c568d638a6b78acdda6d78b693dc8d5c99",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100758$63F74B89-7203-4EE6-AA89-40C1BD412D1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100766",
+              "numeric-id": 100766
+            }
+          },
+          "hash": "1204ca73181521db1fa8baa64b41915e34856827",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100758$5DD91B73-2682-4A23-8E12-BE22E949A5FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100768",
+              "numeric-id": 100768
+            }
+          },
+          "hash": "674b0f4d7655f7ec7a574773f78fe8d62df4575e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100758$0333CFB0-6BAE-4C22-8C71-F7E46E88B406",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100770",
+              "numeric-id": 100770
+            }
+          },
+          "hash": "4436c4033470ce38210d5a99e7aa37eaee8f2b26",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P39": [
       {
-        "id": "Q109291$7ADBD593-8043-4107-84A5-35B5D65B9CD7",
+        "id": "Q100758$D4FAF539-59D9-4BC1-9567-7B891329EFE0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +157,7 @@
         "type": "statement"
       },
       {
-        "id": "Q109291$AECC6DD8-8C5F-4578-BDAE-81A2D2B51796",
+        "id": "Q100758$5384115E-800E-4D9E-8B87-0966E34DF979",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,6 +178,25 @@
     ],
     "P42": [
       {
+        "id": "Q100758$03E03914-BB48-44E6-A26F-D30961840AF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100352",
+              "numeric-id": 100352
+            }
+          },
+          "hash": "67ec59e317bd31b2bac2842eb0f8130a541c60b2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
         "id": "Q109291$FB96B6EF-70B5-4D6D-BE75-3ABD93732B5C",
         "mainsnak": {
           "datatype": "wikibase-item",
@@ -56,6 +210,143 @@
           },
           "hash": "e1b4cfcd4d72426739684fb1bdab181464c8af2c",
           "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q100758$7871203D-D68A-404C-9E21-68747F6844A6",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "7º Emir de Córdoba"
+          },
+          "hash": "22b4607bd630f6b243672de60af67e2b0fc5a181",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q100758$F3343F90-D698-43A7-A986-B01205335DD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q100758$2ED434FE-4D55-05E8-2BE9-99381CD5A907",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0844-01-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "caf3154a2b8a8999f0f71c8267a85da115d5a44c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q100758$7DFCE59C-4BCB-FCD7-6BB3-513E2A3392B3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0912-10-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8c2f4eacbf7a2e746f856f3e11cdf04911f25fc8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q100758$08B33353-4484-2C59-28C1-22683DAC6DCA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q307680"
+          },
+          "hash": "537a22714cf30994547722cf6e9cd2bbad26aafe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q100758$31F16C99-216B-4203-86DC-CEF4C4F2C011",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012230468710"
+          },
+          "hash": "6dc4aa7410736cc5fb6b1d9ee98cf3e070803af8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q100758$7F236720-11CD-41F8-BB5B-5A65BCED3747",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Abdullah ibn Muhammad al-Umawi Arms.svg"
+          },
+          "hash": "82aa67f2bfa3d9957b450b4ea92c801ce21177c4",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -77,61 +368,6 @@
           },
           "hash": "8d2ca0c3491aefc39653d1512d95392c52793f5e",
           "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P55": [
-      {
-        "id": "Q109291$0DF389B6-B4E4-484F-9C73-170E07008B60",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153718",
-              "numeric-id": 153718
-            }
-          },
-          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P61": [
-      {
-        "id": "Q109291$5EE403B8-34EB-4454-8056-1178D8C8E8A0",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q307680"
-          },
-          "hash": "537a22714cf30994547722cf6e9cd2bbad26aafe",
-          "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q109291$74FC6941-6C41-40EE-A0AF-2105E9438823",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Abdullah ibn Muhammad al-Umawi Arms.svg"
-          },
-          "hash": "82aa67f2bfa3d9957b450b4ea92c801ce21177c4",
-          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -177,7 +413,7 @@
       "value": "emir Kordoby w latach 888–912"
     }
   },
-  "id": "Q109291",
+  "id": "Q100758",
   "labels": {
     "ar": {
       "language": "ar",
@@ -324,11 +560,18 @@
       "value": "阿卜杜勒·伊本·穆罕默德"
     }
   },
-  "lastrevid": 17521091,
-  "modified": "2025-09-17T03:14:23Z",
+  "lastrevid": 17408769,
+  "modified": "2025-09-15T22:51:38Z",
   "ns": 860,
-  "pageid": 130040,
-  "sitelinks": {},
-  "title": "Item:Q109291",
+  "pageid": 118558,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q100758",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q100758"
+    }
+  },
+  "title": "Item:Q100758",
   "type": "item"
 }

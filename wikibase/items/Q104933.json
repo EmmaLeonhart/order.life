@@ -1,38 +1,45 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Fulcoald of Rouergue"
-      },
-      {
-        "language": "en",
-        "value": "Ct. Fulcoald, missus dominicus of Rouergue and Nîmes"
-      },
-      {
-        "language": "en",
-        "value": "Fulcoald de Roergue"
-      },
-      {
-        "language": "en",
-        "value": "Cme. Fulcoald, missus dominicus de Roergue i Nimes"
-      },
-      {
-        "language": "en",
-        "value": "Foulques de Rouergue"
-      },
-      {
-        "language": "en",
-        "value": "Cme. Foulques, missus dominicus de Rouergue et Nîmes"
-      },
-      {
-        "language": "en",
-        "value": "Fulqualdus"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
+      {
+        "id": "Q110902$84FF543B-2CCA-4101-8477-7FE9F2027BFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110450",
+              "numeric-id": 110450
+            }
+          },
+          "hash": "69a20d26797a4a9fe1aa41acd9f7fe6ca6ea60ad",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q110902$0ED7509C-7E8E-4A2C-B55D-7B5515B55B07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110906",
+              "numeric-id": 110906
+            }
+          },
+          "hash": "a9368c35e344e241f937ac3d0db978e9845797a7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q104933$B56B0CFB-32CE-43D7-B581-2DE61718E2A3",
         "mainsnak": {
@@ -74,7 +81,7 @@
     ],
     "P39": [
       {
-        "id": "Q104933$3251BFBA-3D89-43D1-B647-8A4A54336AF3",
+        "id": "Q110902$ADCD01AD-3BA4-4CB6-8003-1496BE7F03D4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -93,7 +100,7 @@
         "type": "statement"
       },
       {
-        "id": "Q104933$FBEBA7F7-8740-4E2B-81CD-A65A98DA1304",
+        "id": "Q110902$DFA8A088-031F-489C-98F8-C32711D3B7A3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -114,6 +121,25 @@
     ],
     "P42": [
       {
+        "id": "Q110902$EFB4FCF9-91FC-4694-B910-5F64FD6ED1B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110904",
+              "numeric-id": 110904
+            }
+          },
+          "hash": "1f5a578b769e62e85f67d12e6671caf68f94883b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
         "id": "Q104933$6777CAA1-EACF-41E5-8804-75DAF50EAE06",
         "mainsnak": {
           "datatype": "wikibase-item",
@@ -133,26 +159,9 @@
         "type": "statement"
       }
     ],
-    "P54": [
-      {
-        "id": "Q104933$2331BD8A-260B-404A-BE59-2119809C9E35",
-        "mainsnak": {
-          "datatype": "string",
-          "datavalue": {
-            "type": "string",
-            "value": "Comte de Rouergue"
-          },
-          "hash": "f2b9117e89627af9772641700f61fb19837c52b1",
-          "property": "P54",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P55": [
       {
-        "id": "Q104933$FBBCD517-4E03-4198-99EC-9CB02D89376D",
+        "id": "Q110902$E04D2277-C879-47E2-99A6-C2F5ED777870",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -173,7 +182,7 @@
     ],
     "P61": [
       {
-        "id": "Q104933$18863710-4690-E997-CB3C-2CBBD56985B7",
+        "id": "Q110902$2CD9AF2A-2155-4578-86A7-F339DE70DACF",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -188,26 +197,9 @@
         "type": "statement"
       }
     ],
-    "P62": [
-      {
-        "id": "Q104933$7160EF76-8ACC-4328-B723-66589AA3D21F",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "6000000001318530881"
-          },
-          "hash": "8e9f131145f19121d5316dc483253c0db2d33ae3",
-          "property": "P62",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P94": [
       {
-        "id": "Q104933$C67216A0-85C8-4085-9B9A-6CEFCDC0322C",
+        "id": "Q110902$9F9E0CF9-4E1B-4C01-88D1-254C9F051791",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -241,7 +233,7 @@
       "value": "eerste graaf van Rouergue"
     }
   },
-  "id": "Q104933",
+  "id": "Q110902",
   "labels": {
     "ca": {
       "language": "ca",
@@ -292,18 +284,11 @@
       "value": "Фулькоальд (граф Руэрга)"
     }
   },
-  "lastrevid": 17517632,
-  "modified": "2025-09-17T02:18:27Z",
+  "lastrevid": 17522655,
+  "modified": "2025-09-17T03:36:28Z",
   "ns": 860,
-  "pageid": 124177,
-  "sitelinks": {
-    "evolutionismwiki": {
-      "badges": [],
-      "site": "evolutionismwiki",
-      "title": "Notes:Q104933",
-      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q104933"
-    }
-  },
-  "title": "Item:Q104933",
+  "pageid": 132203,
+  "sitelinks": {},
+  "title": "Item:Q110902",
   "type": "item"
 }

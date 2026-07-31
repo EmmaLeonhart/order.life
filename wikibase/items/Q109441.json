@@ -1,7 +1,33 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Muzna or Muzayna"
+      }
+    ]
+  },
   "claims": {
     "P20": [
+      {
+        "id": "Q101511$C252F935-7EA3-449F-8CA1-6B6053B7B056",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101513",
+              "numeric-id": 101513
+            }
+          },
+          "hash": "10bbc05e2e438ba4bdb6642f791ae2837880333d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q109441$9513AA2B-E17A-4364-A3EF-AE54205A38E5",
         "mainsnak": {
@@ -24,7 +50,7 @@
     ],
     "P39": [
       {
-        "id": "Q109441$34DE4AA5-54EA-4AE9-ADF2-1AC798F8421E",
+        "id": "Q101511$A4F537FC-1416-4701-814D-31BAFE5C2982",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +69,7 @@
         "type": "statement"
       },
       {
-        "id": "Q109441$A3747A85-BAA2-4B66-8066-7B403F443BC2",
+        "id": "Q101511$AF190BB5-CB98-499E-AB2E-30B638C576B9",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,9 +88,30 @@
         "type": "statement"
       }
     ],
+    "P42": [
+      {
+        "id": "Q101511$B41B943D-C1A9-455F-8931-EE4C61A27784",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100760",
+              "numeric-id": 100760
+            }
+          },
+          "hash": "f228e80715e18aa49b10f38ce9652623f0a98ed8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P55": [
       {
-        "id": "Q109441$65D0E78F-5382-4BAA-B89F-5619BBCF1553",
+        "id": "Q101511$9EC07A1B-8E19-47D8-A4E1-322D82CD38C8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -85,7 +132,7 @@
     ],
     "P61": [
       {
-        "id": "Q109441$BB704D84-889C-4F5B-81EA-6245123DE87F",
+        "id": "Q101511$4FF79208-43CE-B5B9-660B-07E17BCCD759",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -100,9 +147,26 @@
         "type": "statement"
       }
     ],
+    "P62": [
+      {
+        "id": "Q101511$D9CB77D2-6F5B-44FA-ADF0-9ED647EF5CA0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000877867735"
+          },
+          "hash": "bc212672d03825162d3e66bac9c4d9f471cb8334",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P94": [
       {
-        "id": "Q109441$F78B2C73-AC4C-4D89-8CF9-BF75E7452808",
+        "id": "Q101511$72C4719A-FAF9-4811-9720-F361ED246653",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -148,7 +212,7 @@
       "value": "andalusisk haremskonkubin"
     }
   },
-  "id": "Q109441",
+  "id": "Q101511",
   "labels": {
     "ast": {
       "language": "ast",
@@ -223,11 +287,11 @@
       "value": "Muzayna"
     }
   },
-  "lastrevid": 17521233,
-  "modified": "2025-09-17T03:16:19Z",
+  "lastrevid": 17515173,
+  "modified": "2025-09-17T01:35:00Z",
   "ns": 860,
-  "pageid": 130242,
+  "pageid": 119573,
   "sitelinks": {},
-  "title": "Item:Q109441",
+  "title": "Item:Q101511",
   "type": "item"
 }

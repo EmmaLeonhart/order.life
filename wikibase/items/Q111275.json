@@ -1,7 +1,81 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Munderic Pretender of Austria"
+      },
+      {
+        "language": "en",
+        "value": "Munderic, seigneur de Vitry-en-Perthois"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Mundéric, seigneur de Vitry-en-Perthois"
+      }
+    ]
+  },
   "claims": {
     "P20": [
+      {
+        "id": "Q166827$B39BAA52-AF7B-D444-74F8-606DFE6EC289",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166828",
+              "numeric-id": 166828
+            }
+          },
+          "hash": "dbad00680f11db7cc7a13bf6192725f00b4b2263",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q166827$23919216-21B5-B796-32C7-6A4EB8D2256A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166829",
+              "numeric-id": 166829
+            }
+          },
+          "hash": "aad1a0edb840cdb521db8a53ca93bead432dfa55",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q166827$C7ECC1FD-4E8F-4782-A6B5-0D7AEDCB98EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q154014",
+              "numeric-id": 154014
+            }
+          },
+          "hash": "1fb2974af7d7d0e317e30a577fc06ad8f78d1384",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q111275$24E60604-3183-43B7-9875-4EAE41DAD48F",
         "mainsnak": {
@@ -62,7 +136,7 @@
     ],
     "P39": [
       {
-        "id": "Q111275$E8956D0F-7B01-4756-89F7-A79DDA88F5D5",
+        "id": "Q166827$624CFF69-F8E1-4F0C-998E-8E79F5734A15",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -81,7 +155,7 @@
         "type": "statement"
       },
       {
-        "id": "Q111275$33157754-DA69-4BEB-A252-279DFAE45973",
+        "id": "Q166827$82F8DAB9-1221-4E4C-BD6A-430859B4EAA9",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -100,9 +174,30 @@
         "type": "statement"
       }
     ],
+    "P42": [
+      {
+        "id": "Q166827$51F9750D-DA16-7FC2-DC88-F45F67570BAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q154016",
+              "numeric-id": 154016
+            }
+          },
+          "hash": "e1a92c78b40dab4be5eaffabff2e1505e3e13674",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P47": [
       {
-        "id": "Q111275$59C980F7-41A8-4716-9AD0-1271D981ACBC",
+        "id": "Q166827$2DCAD3E5-88C6-4311-BAFF-1DD34998EDDB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -123,7 +218,7 @@
     ],
     "P55": [
       {
-        "id": "Q111275$BE7C13D5-00CF-4380-B04B-FCE504DD4179",
+        "id": "Q166827$8CFCF503-0B1A-F6DC-6973-C7BE57CE786A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -144,7 +239,7 @@
     ],
     "P61": [
       {
-        "id": "Q111275$81492B73-8F62-4E32-A318-69DE82844572",
+        "id": "Q166827$F0230B21-C9B2-428E-8EE9-0743815A61AA",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -159,9 +254,26 @@
         "type": "statement"
       }
     ],
+    "P62": [
+      {
+        "id": "Q166827$836F077B-3D24-DE28-7FB8-5213C247B254",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002187726088"
+          },
+          "hash": "554085b376604091e1386ff87b7d1f927fe066b0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P94": [
       {
-        "id": "Q111275$8A50CFC1-F1CF-498B-97F5-E5A25AE7C584",
+        "id": "Q166827$C0E8B716-D391-4206-8718-F779DB85943A",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -203,7 +315,7 @@
       "value": "франкский принц"
     }
   },
-  "id": "Q111275",
+  "id": "Q166827",
   "labels": {
     "be-tarask": {
       "language": "be-tarask",
@@ -258,11 +370,18 @@
       "value": "Мундерих"
     }
   },
-  "lastrevid": 17523021,
-  "modified": "2025-09-17T03:41:29Z",
+  "lastrevid": 17594925,
+  "modified": "2025-09-17T20:33:28Z",
   "ns": 860,
-  "pageid": 132704,
-  "sitelinks": {},
-  "title": "Item:Q111275",
+  "pageid": 209992,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q154015",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q154015"
+    }
+  },
+  "title": "Item:Q166827",
   "type": "item"
 }

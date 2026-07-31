@@ -1,14 +1,26 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Philagrius"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
+      {
+        "id": "Q153767$CFB090FF-4C90-E5CF-B838-65EF4ED2E3EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q185019",
+              "numeric-id": 185019
+            }
+          },
+          "hash": "7b4f96b5c09e1d861057614b09da9fc4bc53f57a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q144342$8BE77A55-FF9E-4F11-8476-1C7993A9C1AE",
         "mainsnak": {
@@ -29,26 +41,9 @@
         "type": "statement"
       }
     ],
-    "P2949": [
-      {
-        "id": "Q144342$15BA54F4-DD15-44C8-9CFF-D7B87CB5606A",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Philagrius-3"
-          },
-          "hash": "59c98a6879f96bc4b2d2f74661df4f841971c3f5",
-          "property": "P2949",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P39": [
       {
-        "id": "Q144342$F5A47EA9-FBDE-4898-8E1F-28C74159C2D0",
+        "id": "Q153767$62909E40-FBCC-445B-8EE2-0FA22E85A0EF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -67,7 +62,7 @@
         "type": "statement"
       },
       {
-        "id": "Q144342$4875DEC4-C199-4681-8CB5-BF04CB9BB009",
+        "id": "Q153767$40EB429D-644A-4531-BB49-289A0981327C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -88,7 +83,7 @@
     ],
     "P55": [
       {
-        "id": "Q144342$C98626E0-ECC3-4002-B9A4-3DF7423BF542",
+        "id": "Q153767$CD8C3BB8-42FC-09F0-F0F6-1AADE40EDBA3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -107,57 +102,9 @@
         "type": "statement"
       }
     ],
-    "P56": [
-      {
-        "id": "Q144342$38CD4FA8-81C3-4065-90C3-FC0B886D52B1",
-        "mainsnak": {
-          "datatype": "time",
-          "datavalue": {
-            "type": "time",
-            "value": {
-              "after": 0,
-              "before": 0,
-              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
-              "precision": 9,
-              "time": "+0295-00-00T00:00:00Z",
-              "timezone": 0
-            }
-          },
-          "hash": "2f2645185946e2eb9732c1f3ed5cfb35f231c974",
-          "property": "P56",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P57": [
-      {
-        "id": "Q144342$40BD1A93-14A0-407C-82C0-BEBA7FF0BC56",
-        "mainsnak": {
-          "datatype": "time",
-          "datavalue": {
-            "type": "time",
-            "value": {
-              "after": 0,
-              "before": 0,
-              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
-              "precision": 11,
-              "time": "+0350-01-01T00:00:00Z",
-              "timezone": 0
-            }
-          },
-          "hash": "6e8b1768681843794740f348371f341f56b10252",
-          "property": "P57",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P61": [
       {
-        "id": "Q144342$21BD4E91-B127-4A54-BFFC-D689127E29A7",
+        "id": "Q153767$5AAFB3DF-4182-3A93-FB5C-FB0E101D4FA6",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -174,7 +121,7 @@
     ],
     "P94": [
       {
-        "id": "Q144342$71893DE2-BC5F-4525-842D-D5EB77E79134",
+        "id": "Q153767$83F77AA7-EE92-4656-A16B-0D1AFE48D0BF",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -200,7 +147,7 @@
       "value": "préfet d'Égypte entre 337 et 340"
     }
   },
-  "id": "Q144342",
+  "id": "Q153767",
   "labels": {
     "en": {
       "language": "en",
@@ -227,11 +174,11 @@
       "value": "Flávio Filágrio"
     }
   },
-  "lastrevid": 17566404,
-  "modified": "2025-09-17T13:58:44Z",
+  "lastrevid": 17582186,
+  "modified": "2025-09-17T17:40:41Z",
   "ns": 860,
-  "pageid": 172727,
+  "pageid": 236725,
   "sitelinks": {},
-  "title": "Item:Q144342",
+  "title": "Item:Q153767",
   "type": "item"
 }
