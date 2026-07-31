@@ -60,12 +60,15 @@ the wrong metric and must not be used to rank repairs.
    If the three are one man, merge all three; if Q73167 is Cato's father or his son
    Licinianus, one of the two edges is simply wrong. Decide which, then apply.
 
-2. **Add an induced-cycle precondition to `apply_dup_merge.py`.** The script checks that
-   parent sets do not conflict, but that is not sufficient — a merge is only safe if no
-   third record ends up both above and below the survivor. Cato slipped through exactly
-   there. Before writing each merge, test whether the union would put any record in both
-   the survivor's ancestor and descendant closure, and skip the pair if so. This unblocks
-   the 27 deferred pairs by making them safe to attempt.
+2. **Reproduce the Cato 2-cycle before trusting any merge precondition.** Merging Q73005
+   into Q148133 produced `Q148133 <-> Q73167`. The devlog previously stated the mechanism
+   was "Q73005 had Q73167 as a child while Q73167 had Q148133 as a child" — **that is
+   wrong**: in the current extract Q73167 has NO children and Q148133 has NO parents. An
+   ancestor/descendant precondition built on that story returned False for the very case it
+   was written for, so it was removed rather than shipped as false confidence. Reproduce the
+   merge on a scratch copy, regenerate, and find the actual edge that closes the loop —
+   likely something about how `save(b, load(a))` interacts with redirect canonicalisation.
+   Only then write the precondition. Until then, `check_invariants.py` is the gate.
 
 3. **Unmerge/dedupe the long Iberian chains — do NOT cut them.** Seven of the eight cycles
    of length >= 20 run through one twelve-edge stretch of the Portuguese de Aguiar family

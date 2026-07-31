@@ -11,6 +11,12 @@ canonicalises every edge citing the source to the target. So merging B into A is
     2. rewrite B.json as a copy of A's content, keeping id = A
 No file is deleted, no claim is dropped, and git reverts it cleanly.
 
+WARNING: this script has NO induced-cycle precondition. Merging Q73005 into Q148133
+produced a 2-cycle that none of its checks predicted, and an attempt to add such a check
+failed to reproduce the case -- Q73167 has no children and Q148133 has no parents, so the
+obvious ancestor/descendant test finds nothing. Until the mechanism is reproduced, run
+wiki-scripts/check_invariants.py before and after every merge and revert on any regression.
+
 SCOPE: only pairs whose parent sets do not conflict. Of the 35, 26 have differing parents,
 but 21 of those differ only because the PARENTS are themselves duplicates (8 are a known
 duplicate pair, 13 share a near-identical name). Those need the cluster merged in dependency
@@ -42,7 +48,8 @@ GEN_PROPS = ("P20", "P42", "P47", "P48", "P61")  # child, spouse, father, mother
 # both his parent and his child -- one of those edges is wrong, and which one is a
 # judgement call about whether Q73167 is a third Cato duplicate or his father.
 DO_NOT_MERGE = {
-    "Q180081": "Cato the Elder -- merging creates a 2-cycle with Q73167; see queue.md",
+    "Q180081": "Cato the Elder -- merging it produced the 2-cycle Q148133 <-> Q73167; "
+               "the MECHANISM IS NOT UNDERSTOOD, see queue.md before touching this pair",
 }
 
 

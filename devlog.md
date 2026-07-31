@@ -4,6 +4,33 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **Built the standing invariant gate. Tried to build a merge precondition, failed to
+  validate it, and threw it away.**
+
+  `wiki-scripts/check_invariants.py` — the thing that was actually missing all session.
+  Every check until now was bespoke and written after the fact, which is how a merge
+  silently added cycles. This one measures strongly-connected components rather than a
+  cycle basis, which matters: an SCC is canonical, whereas the cycle basis the detector
+  reports is not stable across runs and is exactly what made my earlier comparisons
+  meaningless. Current state, now baselined in `wikibase/analysis/invariants.json`:
+  **38 tangled components, 379 records inside one, largest 88, zero self-loops,
+  138 dangling endpoints, 1,224 multi-parent children.** Verified both directions — it
+  passes on the current tree and exits 1 on a simulated regression.
+
+  **The correction that matters.** I attributed the Cato cycle to a specific mechanism:
+  "Q73005 had Q73167 as a child while Q73167 had Q148133 as a child." That is not true.
+  Q73167 has no children at all and Q148133 has no parents. I asserted a causal story from
+  a correlation — the new cycle contained a merge survivor — without checking the edges.
+  The precondition I then wrote on that story returned False for the exact case it existed
+  to catch. An unvalidated safety check is worse than none, so it is removed, and
+  `apply_dup_merge.py` now carries a warning saying plainly that it has no such check and
+  that the mechanism is not understood.
+
+  What actually closes that loop is still unknown, and finding it is queued. My present
+  guess is something in how `save(b, load(a))` interacts with redirect canonicalisation in
+  the extractor, but that is a guess and it is labelled as one.
+
+
 - **A merge I applied created a cycle. Caught it, reverted it, and the precondition that
   would have prevented it is now queued.** 52 -> 49 cycles after the correction.
 
