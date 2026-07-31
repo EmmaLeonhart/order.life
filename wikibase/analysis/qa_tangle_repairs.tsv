@@ -1,0 +1,337 @@
+tangle_size	tangle_head	parent	parent_label	child	child_label	wd_verdict	flag	action	detail
+19	Q72434	Q72434	Marcus Aemilius Lepidus	Q73893	Lucius Cornelius Scipio Asiaticus Aemilianus	not-checked		DEDUPE	
+19	Q72434	Q72514	Marcus Aemilius Lepidus	Q73893	Lucius Cornelius Scipio Asiaticus Aemilianus	confirmed		DEDUPE	Wikidata agrees Marcus Aemilius Lepidus is a parent of Lucius Cornelius Scipio Asiaticus Aemilianus
+19	Q72434	Q72615	Quintus Aemilius Lepidus	Q72434	Marcus Aemilius Lepidus	not-checked		DEDUPE	
+19	Q72434	Q72693	Quintus Aemilius Lepidus	Q72434	Marcus Aemilius Lepidus	not-checked		DEDUPE	
+19	Q72434	Q72693	Quintus Aemilius Lepidus	Q72514	Marcus Aemilius Lepidus	confirmed		DEDUPE	Wikidata agrees Quintus Aemilius Lepidus is a parent of Marcus Aemilius Lepidus
+19	Q72434	Q72786	Marcus Aemilius Lepidus	Q72615	Quintus Aemilius Lepidus	not-checked		DEDUPE	
+19	Q72434	Q72786	Marcus Aemilius Lepidus	Q72693	Quintus Aemilius Lepidus	unknown		DEDUPE	no Wikidata ID for Marcus Aemilius Lepidus
+19	Q72434	Q72801	Cornelia	Q72786	Marcus Aemilius Lepidus	unknown		DEDUPE	no Wikidata ID for Marcus Aemilius Lepidus
+19	Q72434	Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	Q72801	Cornelia	unknown		DEDUPE	no Wikidata ID for Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio
+19	Q72434	Q73128	Publius Cornelius Scipio Nasica Corculum	Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	not-checked		DEDUPE	
+19	Q72434	Q73131	Cornelia Africana Major	Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	unknown		DEDUPE	no Wikidata ID for Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio
+19	Q72434	Q73293	Publius Cornelius Scipio Nasica	Q73128	Publius Cornelius Scipio Nasica Corculum	not-checked		DEDUPE	
+19	Q72434	Q73299	Scipio Africanus	Q73131	Cornelia Africana Major	confirmed		DEDUPE	Wikidata agrees Scipio Africanus is a parent of Cornelia Africana Major
+19	Q72434	Q73299	Scipio Africanus	Q99368		not-checked		DEDUPE	
+19	Q72434	Q73443	Gnaeus Cornelius Scipio Calvus	Q73293	Publius Cornelius Scipio Nasica	not-checked		DEDUPE	
+19	Q72434	Q73443	Gnaeus Cornelius Scipio Calvus	Q99386		not-checked		DEDUPE	
+19	Q72434	Q73446	Publius Cornelius Scipio	Q73299	Scipio Africanus	confirmed		DEDUPE	Wikidata agrees Publius Cornelius Scipio is a parent of Scipio Africanus
+19	Q72434	Q73569	Lucius Cornelius Scipio	Q73443	Gnaeus Cornelius Scipio Calvus	not-checked		DEDUPE	
+19	Q72434	Q73569	Lucius Cornelius Scipio	Q73446	Publius Cornelius Scipio	confirmed		DEDUPE	Wikidata agrees Lucius Cornelius Scipio is a parent of Publius Cornelius Scipio
+19	Q72434	Q73692	Lucius Cornelius Scipio Barbatus	Q73569	Lucius Cornelius Scipio	confirmed		DEDUPE	Wikidata agrees Lucius Cornelius Scipio Barbatus is a parent of Lucius Cornelius Scipio
+19	Q72434	Q73794	Gnaeus Cornelius Scipio	Q73692	Lucius Cornelius Scipio Barbatus	confirmed		DEDUPE	Wikidata agrees Gnaeus Cornelius Scipio is a parent of Lucius Cornelius Scipio Barbatus
+19	Q72434	Q73893	Lucius Cornelius Scipio Asiaticus Aemilianus	Q73794	Gnaeus Cornelius Scipio	contradicted		DEDUPE	Wikidata records no link between them
+19	Q72434	Q99368		Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	not-checked		DEDUPE	
+19	Q72434	Q99386		Q73128	Publius Cornelius Scipio Nasica Corculum	not-checked		DEDUPE	
+72	Q61565	Q61565	Constantius Chlorus	Q136506	Flavia Julia Constantia	confirmed		REVIEW	Wikidata agrees Constantius Chlorus is a parent of Flavia Julia Constantia
+72	Q61565	Q61957	Claudia Crispina	Q61565	Constantius Chlorus	confirmed		REVIEW	Wikidata agrees Claudia Crispina is a parent of Constantius Chlorus
+72	Q61565	Q62255	Aurelia Pompeiana	Q61957	Claudia Crispina	confirmed		REVIEW	Wikidata agrees Aurelia Pompeiana is a parent of Claudia Crispina
+72	Q61565	Q62680	Mariana Minor	Q62255	Aurelia Pompeiana	not-checked		REVIEW	
+72	Q61565	Q62704	Lucius Aurellius Commodus Pompeianus	Q62255	Aurelia Pompeiana	confirmed		REVIEW	Wikidata agrees Lucius Aurellius Commodus Pompeianus is a parent of Aurelia Pompeiana
+72	Q61565	Q63157	Pendania	Q62680	Mariana Minor	not-checked		REVIEW	
+72	Q61565	Q63192	Lucilla	Q62704	Lucius Aurellius Commodus Pompeianus	confirmed		REVIEW	Wikidata agrees Lucilla is a parent of Lucius Aurellius Commodus Pompeianus
+72	Q61565	Q63684	Ummidia Commificia Antonia	Q63157	Pendania	not-checked		REVIEW	
+72	Q61565	Q63747	Faustina the Younger	Q63192	Lucilla	not-checked		REVIEW	
+72	Q61565	Q63780	Marcus Aurelius	Q63192	Lucilla	confirmed		REVIEW	Wikidata agrees Marcus Aurelius is a parent of Lucilla
+72	Q61565	Q64355	Gaius Ummidius Quadratus Annianus Verus  Fulvius	Q63684	Ummidia Commificia Antonia	not-checked		REVIEW	
+72	Q61565	Q64388	Annia Cornificia Faustina	Q63684	Ummidia Commificia Antonia	not-checked		REVIEW	
+72	Q61565	Q64483	Faustina the Elder	Q63747	Faustina the Younger	not-checked		REVIEW	
+72	Q61565	Q64516	Antoninus Pius	Q63747	Faustina the Younger	not-checked		REVIEW	
+72	Q61565	Q64549	Marcus Annius Verus	Q63780	Marcus Aurelius	not-checked		REVIEW	
+72	Q61565	Q64549	Marcus Annius Verus	Q65225	Annia Cornificia Faustina	not-checked		REVIEW	
+72	Q61565	Q64582	Domitia Lucilla Minor	Q63780	Marcus Aurelius	not-checked		REVIEW	
+72	Q61565	Q64582	Domitia Lucilla Minor	Q65225	Annia Cornificia Faustina	not-checked		REVIEW	
+72	Q61565	Q65192	Gaius Annianus Verus	Q64355	Gaius Ummidius Quadratus Annianus Verus  Fulvius	not-checked		REVIEW	
+72	Q61565	Q65225	Annia Cornificia Faustina	Q64355	Gaius Ummidius Quadratus Annianus Verus  Fulvius	not-checked		REVIEW	
+72	Q61565	Q65258	Rupilia Faustina	Q64388	Annia Cornificia Faustina	not-checked		REVIEW	
+72	Q61565	Q65258	Rupilia Faustina	Q64483	Faustina the Elder	not-checked		REVIEW	
+72	Q61565	Q65258	Rupilia Faustina	Q64549	Marcus Annius Verus	not-checked		REVIEW	
+72	Q61565	Q65258	Rupilia Faustina	Q141756	Annia Rupilia Faustina	not-checked		REVIEW	
+72	Q61565	Q65489	Hadrian	Q64516	Antoninus Pius	not-checked		REVIEW	
+72	Q61565	Q65552	Domitia Lucilla	Q64582	Domitia Lucilla Minor	not-checked		REVIEW	
+72	Q61565	Q65552	Domitia Lucilla	Q139826	Calvisia Domitia Lucilla	confirmed		REVIEW	Wikidata agrees Domitia Lucilla is a parent of Calvisia Domitia Lucilla
+72	Q61565	Q66488	Libo Rupilius Frugi	Q65258	Rupilia Faustina	not-checked		REVIEW	
+72	Q61565	Q66784	Andhra Pradesh	Q65489	Hadrian	not-checked		REVIEW	
+72	Q61565	Q66916	Curtilia Mancia	Q65552	Domitia Lucilla	confirmed		REVIEW	Wikidata agrees Curtilia Mancia is a parent of Domitia Lucilla
+72	Q61565	Q67573	Marcus Licinius Crassus Frugi	Q66488	Libo Rupilius Frugi	not-checked		REVIEW	
+72	Q61565	Q68283	Nerva	Q66784	Andhra Pradesh	not-checked		REVIEW	
+72	Q61565	Q68488	Octavia	Q66916	Curtilia Mancia	unknown		REVIEW	no Wikidata ID for Octavia
+72	Q61565	Q69263	Scribonia Magna	Q67573	Marcus Licinius Crassus Frugi	not-checked		REVIEW	
+72	Q61565	Q69296	Marcus Licinius Crassus Frugi	Q67573	Marcus Licinius Crassus Frugi	not-checked		REVIEW	
+72	Q61565	Q69972	Octavia Sergia Plotilla	Q68283	Nerva	not-checked		REVIEW	
+72	Q61565	Q70152	Rubellia Bassa	Q68488	Octavia	unknown		REVIEW	no Wikidata ID for Rubellia Bassa and Octavia
+72	Q61565	Q70152	Rubellia Bassa	Q69972	Octavia Sergia Plotilla	not-checked		REVIEW	
+72	Q61565	Q70337	Cornelia Pompeia Magna	Q69263	Scribonia Magna	not-checked		REVIEW	
+72	Q61565	Q70340	Lucius Scribonius Libo	Q69263	Scribonia Magna	not-checked		REVIEW	
+72	Q61565	Q70343	Marcus Licinius Crassus Dives	Q69296	Marcus Licinius Crassus Frugi	not-checked		REVIEW	
+72	Q61565	Q70346	Fausta  Cornelia	Q69296	Marcus Licinius Crassus Frugi	not-checked		REVIEW	
+72	Q61565	Q70718	Gaius Rubellius Blandus	Q70152	Rubellia Bassa	not-checked		REVIEW	
+72	Q61565	Q70970	Pompeia Magna	Q70337	Cornelia Pompeia Magna	not-checked		REVIEW	
+72	Q61565	Q70970	Pompeia Magna	Q71083	Faustus Cornelius Sulla	not-checked		REVIEW	
+72	Q61565	Q70970	Pompeia Magna	Q139746	Cornelia Magna	not-checked		REVIEW	
+72	Q61565	Q71026	Marcus Pupius Piso Frugi	Q70343	Marcus Licinius Crassus Dives	not-checked		REVIEW	
+72	Q61565	Q71083	Faustus Cornelius Sulla	Q70346	Fausta  Cornelia	not-checked		REVIEW	
+72	Q61565	Q71628	Lucius Rubellius Blandus	Q70718	Gaius Rubellius Blandus	not-checked		REVIEW	
+72	Q61565	Q72239	Vipsania Agrippina	Q77611	Drusus Julius Caesar	confirmed		REVIEW	Wikidata agrees Vipsania Agrippina is a parent of Drusus Julius Caesar
+72	Q61565	Q72266	Mucia Tertia	Q70970	Pompeia Magna	not-checked		REVIEW	
+72	Q61565	Q72278	Marcus Pupius Piso Frugi Calpurnianus	Q71026	Marcus Pupius Piso Frugi	not-checked		REVIEW	
+72	Q61565	Q72338	Rubellius Blandus	Q71628	Lucius Rubellius Blandus	not-checked		REVIEW	
+72	Q61565	Q72425	Attica	Q72239	Vipsania Agrippina	confirmed		REVIEW	Wikidata agrees Attica is a parent of Vipsania Agrippina
+72	Q61565	Q72451	Quintus Mucius Scaevola Pontifex	Q72266	Mucia Tertia	not-checked		REVIEW	
+72	Q61565	Q72466	Marcus Licinius Crassus	Q72278	Marcus Pupius Piso Frugi Calpurnianus	not-checked		REVIEW	
+72	Q61565	Q72603	Pilia	Q72425	Attica	confirmed		REVIEW	Wikidata agrees Pilia is a parent of Attica
+72	Q61565	Q72633	Publius Mucius Scaevola	Q72451	Quintus Mucius Scaevola Pontifex	not-checked		REVIEW	
+72	Q61565	Q72657	Publius Licinius Crassus Dives	Q72466	Marcus Licinius Crassus	not-checked		REVIEW	
+72	Q61565	Q72657	Publius Licinius Crassus Dives	Q72933	Marcus Licinius Crassus	unknown		REVIEW	no Wikidata ID for Marcus Licinius Crassus
+72	Q61565	Q72774	Licinia Crassa  Pilius	Q72603	Pilia	unknown		REVIEW	no Wikidata ID for Licinia Crassa Pilius
+72	Q61565	Q72807	Publius Mucius Scaevola	Q72633	Publius Mucius Scaevola	not-checked		REVIEW	
+72	Q61565	Q72810	Licinia	Q72633	Publius Mucius Scaevola	not-checked		REVIEW	
+72	Q61565	Q72831	Marcus Licinius Crassus	Q72657	Publius Licinius Crassus Dives	confirmed		REVIEW	Wikidata agrees Marcus Licinius Crassus is a parent of Publius Licinius Crassus Dives
+72	Q61565	Q72933	Marcus Licinius Crassus	Q72774	Licinia Crassa  Pilius	unknown		REVIEW	no Wikidata ID for Marcus Licinius Crassus and Licinia Crassa Pilius
+72	Q61565	Q72966	Lincinia  Varus	Q72807	Publius Mucius Scaevola	unknown		REVIEW	no Wikidata ID for Lincinia Varus
+72	Q61565	Q72972	Publius Licinius Crassus Dives	Q72810	Licinia	contradicted		REVIEW	Wikidata records no link between them
+72	Q61565	Q72972	Publius Licinius Crassus Dives	Q72981	Publius Licinius Crassus	confirmed		REVIEW	Wikidata agrees Publius Licinius Crassus Dives is a parent of Publius Licinius Crassus
+72	Q61565	Q72972	Publius Licinius Crassus Dives	Q73260	Marcus Licinius Crassus Agelastus	not-checked		REVIEW	
+72	Q61565	Q72981	Publius Licinius Crassus	Q72831	Marcus Licinius Crassus	contradicted		REVIEW	Wikidata records no link between them
+72	Q61565	Q72981	Publius Licinius Crassus	Q73260	Marcus Licinius Crassus Agelastus	not-checked		REVIEW	
+72	Q61565	Q73083	Publius Licinius Crassus Dives (consul 97 BC)	Q72933	Marcus Licinius Crassus	not-checked		REVIEW	
+72	Q61565	Q73140	Gaius Lincinius  Varus	Q72966	Lincinia  Varus	unknown		REVIEW	no Wikidata ID for Gaius Lincinius Varus and Lincinia Varus
+72	Q61565	Q73140	Gaius Lincinius  Varus	Q73770	Publius Licinius  Crassus	not-checked		REVIEW	
+72	Q61565	Q73260	Marcus Licinius Crassus Agelastus	Q73083	Publius Licinius Crassus Dives (consul 97 BC)	not-checked		REVIEW	
+72	Q61565	Q73308	Licinius  Varus	Q73140	Gaius Lincinius  Varus	unknown		REVIEW	no Wikidata ID for Licinius Varus and Gaius Lincinius Varus
+72	Q61565	Q73665	Publius Licinius  Crassus	Q72972	Publius Licinius Crassus Dives	not-checked		REVIEW	
+72	Q61565	Q73665	Publius Licinius  Crassus	Q99408	Publius Licinius Varus Licinius Crassus  Crassus	not-checked		REVIEW	
+72	Q61565	Q73770	Publius Licinius  Crassus	Q73665	Publius Licinius  Crassus	not-checked		REVIEW	
+72	Q61565	Q77386	Julia Livia	Q70152	Rubellia Bassa	unknown		REVIEW	no Wikidata ID for Julia Livia and Rubellia Bassa
+72	Q61565	Q77611	Drusus Julius Caesar	Q77386	Julia Livia	unknown		REVIEW	no Wikidata ID for Julia Livia
+72	Q61565	Q77611	Drusus Julius Caesar	Q138467	Julia Livia	not-checked		REVIEW	
+72	Q61565	Q99408	Publius Licinius Varus Licinius Crassus  Crassus	Q72972	Publius Licinius Crassus Dives	not-checked		REVIEW	
+72	Q61565	Q136506	Flavia Julia Constantia	Q73308	Licinius  Varus	unknown		REVIEW	no Wikidata ID for Licinius Varus
+72	Q61565	Q138467	Julia Livia	Q72338	Rubellius Blandus	not-checked		REVIEW	
+72	Q61565	Q139746	Cornelia Magna	Q70340	Lucius Scribonius Libo	not-checked		REVIEW	
+72	Q61565	Q139826	Calvisia Domitia Lucilla	Q63780	Marcus Aurelius	confirmed		REVIEW	Wikidata agrees Calvisia Domitia Lucilla is a parent of Marcus Aurelius
+72	Q61565	Q139826	Calvisia Domitia Lucilla	Q65225	Annia Cornificia Faustina	not-checked		REVIEW	
+72	Q61565	Q141756	Annia Rupilia Faustina	Q65192	Gaius Annianus Verus	not-checked		REVIEW	
+18	Q62515	Q62515	Petronia	Q75817	Publilia	unknown		REVIEW	no Wikidata ID for Petronia and Publilia
+18	Q62515	Q62926	Gnaeus Petronius Probatus Junior  Justus	Q62515	Petronia	unknown		REVIEW	no Wikidata ID for Gnaeus Petronius Probatus Junior Justus and Petronia
+18	Q62515	Q63517	Petronius  Junior	Q62926	Gnaeus Petronius Probatus Junior  Justus	unknown		REVIEW	no Wikidata ID for Petronius Junior and Gnaeus Petronius Probatus Junior Justus
+18	Q62515	Q64169	Petronius	Q63517	Petronius  Junior	unknown		REVIEW	no Wikidata ID for Petronius Junior
+18	Q62515	Q65002	Sextus Claudius Petronius Probus	Q64169	Petronius	confirmed		REVIEW	Wikidata agrees Sextus Claudius Petronius Probus is a parent of Petronius
+18	Q62515	Q65002	Sextus Claudius Petronius Probus	Q75516	Anicius Hermogenianus Olybrius	confirmed		REVIEW	Wikidata agrees Sextus Claudius Petronius Probus is a parent of Anicius Hermogenianus Olybrius
+18	Q62515	Q75516	Anicius Hermogenianus Olybrius	Q75603	Demetrias	confirmed		REVIEW	Wikidata agrees Anicius Hermogenianus Olybrius is a parent of Demetrias
+18	Q62515	Q75522	Anicia Faltonia Proba	Q75516	Anicius Hermogenianus Olybrius	confirmed		REVIEW	Wikidata agrees Anicia Faltonia Proba is a parent of Anicius Hermogenianus Olybrius
+18	Q62515	Q75540	Quintus Clodius Hermogenianus Olybrius	Q75522	Anicia Faltonia Proba	confirmed		REVIEW	Wikidata agrees Quintus Clodius Hermogenianus Olybrius is a parent of Anicia Faltonia Proba
+18	Q62515	Q75543	Tyrrania Anicia Juliana	Q75522	Anicia Faltonia Proba	confirmed		REVIEW	Wikidata agrees Tyrrania Anicia Juliana is a parent of Anicia Faltonia Proba
+18	Q62515	Q75558	Clodia Celsina	Q65002	Sextus Claudius Petronius Probus	unknown		REVIEW	no Wikidata ID for Clodia Celsina
+18	Q62515	Q75573	Anicius Auchenius Bassus	Q75543	Tyrrania Anicia Juliana	confirmed		REVIEW	Wikidata agrees Anicius Auchenius Bassus is a parent of Tyrrania Anicia Juliana
+18	Q62515	Q75576	Clodius Celsinus Adelphius	Q75540	Quintus Clodius Hermogenianus Olybrius	confirmed		REVIEW	Wikidata agrees Clodius Celsinus Adelphius is a parent of Quintus Clodius Hermogenianus Olybrius
+18	Q62515	Q75603	Demetrias	Q75558	Clodia Celsina	unknown		REVIEW	no Wikidata ID for Clodia Celsina
+18	Q62515	Q75603	Demetrias	Q75576	Clodius Celsinus Adelphius	contradicted		REVIEW	Wikidata records no link between them
+18	Q62515	Q75634	Caeionia Auchenia Bassa	Q75573	Anicius Auchenius Bassus	unknown		REVIEW	no Wikidata ID for Caeionia Auchenia Bassa
+18	Q62515	Q75694	Caeionius Julianus Camerius	Q75634	Caeionia Auchenia Bassa	unknown		REVIEW	no Wikidata ID for Caeionius Julianus Camerius and Caeionia Auchenia Bassa
+18	Q62515	Q75721	Rufia Procula	Q75781	Caeionius  Proculus	unknown		REVIEW	no Wikidata ID for Rufia Procula and Caeionius Proculus
+18	Q62515	Q75781	Caeionius  Proculus	Q75694	Caeionius Julianus Camerius	unknown		REVIEW	no Wikidata ID for Caeionius Proculus and Caeionius Julianus Camerius
+18	Q62515	Q75817	Publilia	Q75721	Rufia Procula	unknown		REVIEW	no Wikidata ID for Publilia and Rufia Procula
+16	Q1955	Q1955	Prachetas (10 sons)	Q153390	DAKSHA (reborn as DAKSHA) Prachetas	not-checked		REVIEW	
+16	Q1955	Q1968	Prachinbarhi	Q1955	Prachetas (10 sons)	not-checked		REVIEW	
+16	Q1955	Q1978	Havirdhana	Q1968	Prachinbarhi	not-checked		REVIEW	
+16	Q1955	Q1978	Havirdhana	Q49707	Prachinbarhi	unknown		REVIEW	no Wikidata ID for Havirdhana and Prachinbarhi
+16	Q1955	Q1989	Vijitashva	Q1978	Havirdhana	unknown		REVIEW	no Wikidata ID for Vijitashva and Havirdhana
+16	Q1955	Q1991	Surya Sun God	Q2035	Yama Dharma King of Death	unknown		REVIEW	no Wikidata ID for Surya Sun God and Yama Dharma King of Death
+16	Q1955	Q2001	Archis(Lakshmi's amsam)	Q1989	Vijitashva	not-checked		REVIEW	
+16	Q1955	Q2035	Yama Dharma King of Death	Q153444	SUNITA Anga	unknown		REVIEW	no Wikidata ID for Yama Dharma King of Death and SUNITA Anga
+16	Q1955	Q49634	Prachetas (10 sons)	Q153390	DAKSHA (reborn as DAKSHA) Prachetas	unknown		REVIEW	no Wikidata ID for Prachetas (10 sons) and DAKSHA (reborn as DAKSHA) Prachetas
+16	Q1955	Q49707	Prachinbarhi	Q49634	Prachetas (10 sons)	unknown		REVIEW	no Wikidata ID for Prachinbarhi and Prachetas (10 sons)
+16	Q1955	Q153381	Aditi Kashyapa	Q1991	Surya Sun God	unknown		REVIEW	no Wikidata ID for Aditi Kashyapa and Surya Sun God
+16	Q1955	Q153381	Aditi Kashyapa	Q153465	TVASTAR Kashyapa	unknown		REVIEW	no Wikidata ID for Aditi Kashyapa and TVASTAR Kashyapa
+16	Q1955	Q153390	DAKSHA (reborn as DAKSHA) Prachetas	Q153381	Aditi Kashyapa	unknown		REVIEW	no Wikidata ID for DAKSHA (reborn as DAKSHA) Prachetas and Aditi Kashyapa
+16	Q1955	Q153429	PRITHU (Vishnu's amsam) Vena	Q1989	Vijitashva	unknown		REVIEW	no Wikidata ID for PRITHU (Vishnu's amsam) Vena and Vijitashva
+16	Q1955	Q153438	VENA Anga	Q2001	Archis(Lakshmi's amsam)	not-checked		REVIEW	
+16	Q1955	Q153438	VENA Anga	Q153429	PRITHU (Vishnu's amsam) Vena	unknown		REVIEW	no Wikidata ID for VENA Anga and PRITHU (Vishnu's amsam) Vena
+16	Q1955	Q153444	SUNITA Anga	Q153438	VENA Anga	unknown		REVIEW	no Wikidata ID for SUNITA Anga and VENA Anga
+16	Q1955	Q153460	SANJNA \ Saranyu Saranyu Saranyu/	Q2035	Yama Dharma King of Death	unknown		REVIEW	no Wikidata ID for SANJNA \ Saranyu Saranyu Saranyu/ and Yama Dharma King of Death
+16	Q1955	Q153465	TVASTAR Kashyapa	Q153460	SANJNA \ Saranyu Saranyu Saranyu/	unknown		REVIEW	no Wikidata ID for TVASTAR Kashyapa and SANJNA \ Saranyu Saranyu Saranyu/
+14	Q72834	Q72834	Lucius Caecilius Metellus Calvus	Q141414	Caecilia Metella	confirmed		REVIEW	Wikidata agrees Lucius Caecilius Metellus Calvus is a parent of Caecilia Metella
+14	Q72834	Q72858	Quintus Caecilius Metellus Macedonicus	Q139550	Quintus Caecilius Metellus Balearicus	confirmed		REVIEW	Wikidata agrees Quintus Caecilius Metellus Macedonicus is a parent of Quintus Caecilius Metellus Balearicus
+14	Q72834	Q72984	Quintus Caecilius Metellus	Q72834	Lucius Caecilius Metellus Calvus	unknown		REVIEW	no Wikidata ID for Quintus Caecilius Metellus
+14	Q72834	Q72984	Quintus Caecilius Metellus	Q72858	Quintus Caecilius Metellus Macedonicus	not-checked		REVIEW	
+14	Q72834	Q73146	Lucius Caecilius Metellus	Q72984	Quintus Caecilius Metellus	unknown		REVIEW	no Wikidata ID for Quintus Caecilius Metellus
+14	Q72834	Q73146	Lucius Caecilius Metellus	Q144060	Quintus Caecilius Metellus	confirmed		REVIEW	Wikidata agrees Lucius Caecilius Metellus is a parent of Quintus Caecilius Metellus
+14	Q72834	Q73146	Lucius Caecilius Metellus	Q148066	Marcus Caecilius Metellus	not-checked		REVIEW	
+14	Q72834	Q73311	Lucius Caecilius Metellus Denter	Q73146	Lucius Caecilius Metellus	confirmed		REVIEW	Wikidata agrees Lucius Caecilius Metellus Denter is a parent of Lucius Caecilius Metellus
+14	Q72834	Q73458	Gaius Caecilius	Q73311	Lucius Caecilius Metellus Denter	confirmed		REVIEW	Wikidata agrees Gaius Caecilius is a parent of Lucius Caecilius Metellus Denter
+14	Q72834	Q138399	Caecilia Metella	Q138403	Clodia	confirmed		REVIEW	Wikidata agrees Caecilia Metella is a parent of Clodia
+14	Q72834	Q138403	Clodia	Q139560	Licinia	confirmed		REVIEW	Wikidata agrees Clodia is a parent of Licinia
+14	Q72834	Q139550	Quintus Caecilius Metellus Balearicus	Q138399	Caecilia Metella	confirmed		REVIEW	Wikidata agrees Quintus Caecilius Metellus Balearicus is a parent of Caecilia Metella
+14	Q72834	Q139559	Lucullus	Q139560	Licinia	confirmed		REVIEW	Wikidata agrees Lucullus is a parent of Licinia
+14	Q72834	Q139560	Licinia	Q73458	Gaius Caecilius	contradicted		REVIEW	Wikidata records no link between them
+14	Q72834	Q141414	Caecilia Metella	Q139559	Lucullus	confirmed		REVIEW	Wikidata agrees Caecilia Metella is a parent of Lucullus
+14	Q72834	Q144060	Quintus Caecilius Metellus	Q72858	Quintus Caecilius Metellus Macedonicus	confirmed		REVIEW	Wikidata agrees Quintus Caecilius Metellus is a parent of Quintus Caecilius Metellus Macedonicus
+14	Q72834	Q148066	Marcus Caecilius Metellus	Q72834	Lucius Caecilius Metellus Calvus	not-checked		REVIEW	
+14	Q79388	Q79388	D. Ausindo Ximeno	Q79415	D.Soeiro Ausendes	unknown		REVIEW	no Wikidata ID for D. Ausindo Ximeno and D.Soeiro Ausendes
+14	Q79388	Q79415	D.Soeiro Ausendes	Q79435	D.Arnaldo  Ximenes	unknown		REVIEW	no Wikidata ID for D.Soeiro Ausendes and D.Arnaldo Ximenes
+14	Q79388	Q79424	Gil  Guille em Narbonne	Q79450	Soeiro  Afonso Tangil	unknown		REVIEW	no Wikidata ID for Gil Guille em Narbonne and Soeiro Afonso Tangil
+14	Q79388	Q79435	D.Arnaldo  Ximenes	Q79438	Sancho  ou Sancho Arnolfo Ximenes	unknown		REVIEW	no Wikidata ID for D.Arnaldo Ximenes and Sancho ou Sancho Arnolfo Ximenes
+14	Q79388	Q79438	Sancho  ou Sancho Arnolfo Ximenes	Q79424	Gil  Guille em Narbonne	unknown		REVIEW	no Wikidata ID for Sancho ou Sancho Arnolfo Ximenes and Gil Guille em Narbonne
+14	Q79388	Q79450	Soeiro  Afonso Tangil	Q79480	Fernao  dos de Tangil	unknown		REVIEW	no Wikidata ID for Soeiro Afonso Tangil and Fernao dos de Tangil
+14	Q79388	Q79480	Fernao  dos de Tangil	Q79537	Estevao  Soares (D.)	unknown		REVIEW	no Wikidata ID for Fernao dos de Tangil and Estevao Soares (D.)
+14	Q79388	Q79537	Estevao  Soares (D.)	Q79618	Tereza  Eriz de Lugo	unknown		REVIEW	no Wikidata ID for Estevao Soares (D.) and Tereza Eriz de Lugo
+14	Q79388	Q79618	Tereza  Eriz de Lugo	Q99939	Ufa  Ufes	unknown		REVIEW	no Wikidata ID for Tereza Eriz de Lugo and Ufa Ufes
+14	Q79388	Q99939	Ufa  Ufes	Q100154	Godo  Arnaldes de Baiao	unknown		REVIEW	no Wikidata ID for Ufa Ufes and Godo Arnaldes de Baiao
+14	Q79388	Q100154	Godo  Arnaldes de Baiao	Q100519	Soeiro  Guedes	unknown		REVIEW	no Wikidata ID for Godo Arnaldes de Baiao and Soeiro Guedes
+14	Q79388	Q100519	Soeiro  Guedes	Q101113	D. Ausindo Soares	unknown		REVIEW	no Wikidata ID for Soeiro Guedes and D. Ausindo Soares
+14	Q79388	Q101113	D. Ausindo Soares	Q113625	D.Teodoredo Ausendes Soares	unknown		REVIEW	no Wikidata ID for D. Ausindo Soares and D.Teodoredo Ausendes Soares
+14	Q79388	Q113625	D.Teodoredo Ausendes Soares	Q79388	D. Ausindo Ximeno	not-checked		REVIEW	
+14	Q160460	Q160460	Aditi Kashyapa	Q160580	SURYA Dev aka SUN GOD Kashyap	unknown		REVIEW	no Wikidata ID for Aditi Kashyapa and SURYA Dev aka SUN GOD Kashyap
+14	Q160460	Q160460	Aditi Kashyapa	Q160730	TVASTAR Kashyapa	unknown		REVIEW	no Wikidata ID for Aditi Kashyapa and TVASTAR Kashyapa
+14	Q160460	Q160489	DAKSHA Prachetas	Q160460	Aditi Kashyapa	unknown		REVIEW	no Wikidata ID for DAKSHA Prachetas and Aditi Kashyapa
+14	Q160460	Q160512	PRACHETAS (10 sons)	Q160489	DAKSHA Prachetas	unknown		REVIEW	no Wikidata ID for PRACHETAS (10 sons) and DAKSHA Prachetas
+14	Q160460	Q160539	PRACHINBARHI	Q160512	PRACHETAS (10 sons)	unknown		REVIEW	no Wikidata ID for PRACHINBARHI and PRACHETAS (10 sons)
+14	Q160460	Q160560	HAVIRDHANA	Q160539	PRACHINBARHI	unknown		REVIEW	no Wikidata ID for HAVIRDHANA and PRACHINBARHI
+14	Q160460	Q160576	Vijitashva	Q160560	HAVIRDHANA	unknown		REVIEW	no Wikidata ID for Vijitashva and HAVIRDHANA
+14	Q160460	Q160580	SURYA Dev aka SUN GOD Kashyap	Q160673	YAMA Dharma	unknown		REVIEW	no Wikidata ID for SURYA Dev aka SUN GOD Kashyap and YAMA Dharma
+14	Q160460	Q160596	PRITHU Vena	Q160576	Vijitashva	unknown		REVIEW	no Wikidata ID for PRITHU Vena and Vijitashva
+14	Q160460	Q160597	ARCHIS	Q160576	Vijitashva	not-checked		REVIEW	
+14	Q160460	Q160615	VENA Anga	Q160596	PRITHU Vena	unknown		REVIEW	no Wikidata ID for VENA Anga and PRITHU Vena
+14	Q160460	Q160615	VENA Anga	Q160597	ARCHIS	not-checked		REVIEW	
+14	Q160460	Q160640	SUNITA Anga	Q160615	VENA Anga	unknown		REVIEW	no Wikidata ID for SUNITA Anga and VENA Anga
+14	Q160460	Q160673	YAMA Dharma	Q160640	SUNITA Anga	unknown		REVIEW	no Wikidata ID for YAMA Dharma and SUNITA Anga
+14	Q160460	Q160707	SANJNA \ Saranyu Saranyu	Q160673	YAMA Dharma	unknown		REVIEW	no Wikidata ID for SANJNA \ Saranyu Saranyu and YAMA Dharma
+14	Q160460	Q160730	TVASTAR Kashyapa	Q160707	SANJNA \ Saranyu Saranyu	unknown		REVIEW	no Wikidata ID for TVASTAR Kashyapa and SANJNA \ Saranyu Saranyu
+11	Q136957	Q136957	Meurig ab Ynyr Gwent	Q137384	Ynyr, lord of Gwent	confirmed		REVIEW	Wikidata agrees Meurig ab Ynyr Gwent is a parent of Ynyr, lord of Gwent
+11	Q136957	Q136958	Elen ferch Ednyfed ab Iorwerth Hir ap Llywarch Gam	Q137384	Ynyr, lord of Gwent	confirmed		REVIEW	Wikidata agrees Elen ferch Ednyfed ab Iorwerth Hir ap Llywarch Gam is a parent of Ynyr, lord of Gwent
+11	Q136957	Q136996	Iorwerth Hir ap Llywarch Gam of Maelor	Q137385	Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick	confirmed		REVIEW	Wikidata agrees Iorwerth Hir ap Llywarch Gam of Maelor is a parent of Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick
+11	Q136957	Q137320	Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys	Q137449	Lleuki|Nest ferch Gwerstan ap Gwaithfoed	confirmed		REVIEW	Wikidata agrees Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys is a parent of Lleuki|Nest ferch Gwerstan ap Gwaithfoed
+11	Q136957	Q137320	Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys	Q137900	Cynfyn ap Gwerstan	confirmed		REVIEW	Wikidata agrees Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys is a parent of Cynfyn ap Gwerstan
+11	Q136957	Q137383	Nest ferch Gwrgan ab Ithel ab Idwallon	Q136957	Meurig ab Ynyr Gwent	confirmed		REVIEW	Wikidata agrees Nest ferch Gwrgan ab Ithel ab Idwallon is a parent of Meurig ab Ynyr Gwent
+11	Q136957	Q137384	Ynyr, lord of Gwent	Q137899	Morfudd ferch Ynir	confirmed		REVIEW	Wikidata agrees Ynyr, lord of Gwent is a parent of Morfudd ferch Ynir
+11	Q136957	Q137385	Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick	Q136958	Elen ferch Ednyfed ab Iorwerth Hir ap Llywarch Gam	confirmed		REVIEW	Wikidata agrees Ednyfed ab Iorwerth Hir ap Llywarch Gam of Crick is a parent of Elen ferch Ednyfed ab Iorwerth Hir ap Llywarch Gam
+11	Q136957	Q137449	Lleuki|Nest ferch Gwerstan ap Gwaithfoed	Q136996	Iorwerth Hir ap Llywarch Gam of Maelor	confirmed		REVIEW	Wikidata agrees Lleuki|Nest ferch Gwerstan ap Gwaithfoed is a parent of Iorwerth Hir ap Llywarch Gam of Maelor
+11	Q136957	Q137878	NN ferch Cynfyn ap Gwerystan ap Gwaithfoed	Q137383	Nest ferch Gwrgan ab Ithel ab Idwallon	confirmed		REVIEW	Wikidata agrees NN ferch Cynfyn ap Gwerystan ap Gwaithfoed is a parent of Nest ferch Gwrgan ab Ithel ab Idwallon
+11	Q136957	Q137899	Morfudd ferch Ynir	Q137320	Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys	confirmed		REVIEW	Wikidata agrees Morfudd ferch Ynir is a parent of Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur Hir, lord of Powys
+11	Q136957	Q137900	Cynfyn ap Gwerstan	Q137878	NN ferch Cynfyn ap Gwerystan ap Gwaithfoed	confirmed		REVIEW	Wikidata agrees Cynfyn ap Gwerstan is a parent of NN ferch Cynfyn ap Gwerystan ap Gwaithfoed
+10	Q6421	Q6421	Shaodian	Q87856	Generation 2  	unknown		REVIEW	no Wikidata ID for Generation 2
+10	Q6421	Q87840	  	Q6421	Shaodian	unknown		REVIEW	no Wikidata ID for Q87840
+10	Q6421	Q87842	  	Q87840	  	unknown		REVIEW	no Wikidata ID for Q87842 and Q87840
+10	Q6421	Q87844	  	Q87842	  	unknown		REVIEW	no Wikidata ID for Q87844 and Q87842
+10	Q6421	Q87846	  	Q87844	  	unknown		REVIEW	no Wikidata ID for Q87846 and Q87844
+10	Q6421	Q87848	  	Q87846	  	unknown		REVIEW	no Wikidata ID for Q87848 and Q87846
+10	Q6421	Q87850	Generation 5  	Q87848	  	unknown		REVIEW	no Wikidata ID for Generation 5 and Q87848
+10	Q6421	Q87852	Generation 4  	Q87850	Generation 5  	unknown		REVIEW	no Wikidata ID for Generation 4 and Generation 5
+10	Q6421	Q87854	Generation 3  	Q87852	Generation 4  	unknown		REVIEW	no Wikidata ID for Generation 3 and Generation 4
+10	Q6421	Q87856	Generation 2  	Q87854	Generation 3  	unknown		REVIEW	no Wikidata ID for Generation 2 and Generation 3
+8	Q73170	Q73170	Gaius Servilius	Q73985	Quintus Servilius	unknown		REVIEW	no Wikidata ID for Gaius Servilius and Quintus Servilius
+8	Q73170	Q73332	Publius Servilius	Q73170	Gaius Servilius	unknown		REVIEW	no Wikidata ID for Publius Servilius and Gaius Servilius
+8	Q73170	Q73479	Quintus Servilius	Q73332	Publius Servilius	unknown		REVIEW	no Wikidata ID for Quintus Servilius and Publius Servilius
+8	Q73170	Q73599	Gnaeus Servilius	Q73479	Quintus Servilius	unknown		REVIEW	no Wikidata ID for Gnaeus Servilius and Quintus Servilius
+8	Q73170	Q73710	Servilius	Q73599	Gnaeus Servilius	unknown		REVIEW	no Wikidata ID for Servilius and Gnaeus Servilius
+8	Q73170	Q73812	Gaius Servilius	Q73710	Servilius	unknown		REVIEW	no Wikidata ID for Gaius Servilius and Servilius
+8	Q73170	Q73910	Gaius Servilius	Q73812	Gaius Servilius	unknown		REVIEW	no Wikidata ID for Gaius Servilius and Gaius Servilius
+8	Q73170	Q73985	Quintus Servilius	Q73910	Gaius Servilius	unknown		REVIEW	no Wikidata ID for Quintus Servilius and Gaius Servilius
+7	Q85478	Q85478	Sekhemre Sankhtawy Neferhotep III	Q85578	Sankhenre Mentuhotep VI	unknown		REVIEW	no Wikidata ID for Sekhemre Sankhtawy Neferhotep III and Sankhenre Mentuhotep VI
+7	Q85478	Q85498	Sekhemre Sementawi Djehuti	Q85478	Sekhemre Sankhtawy Neferhotep III	unknown		REVIEW	no Wikidata ID for Sekhemre Sementawi Djehuti and Sekhemre Sankhtawy Neferhotep III
+7	Q85478	Q85500	Mentuhotep . 	Q85478	Sekhemre Sankhtawy Neferhotep III	unknown		REVIEW	no Wikidata ID for Mentuhotep . and Sekhemre Sankhtawy Neferhotep III
+7	Q85478	Q85500	Mentuhotep . 	Q85578	Sankhenre Mentuhotep VI	unknown		REVIEW	no Wikidata ID for Mentuhotep . and Sankhenre Mentuhotep VI
+7	Q85478	Q85514	Senebhenaf . 	Q85498	Sekhemre Sementawi Djehuti	unknown		REVIEW	no Wikidata ID for Senebhenaf . and Sekhemre Sementawi Djehuti
+7	Q85478	Q85514	Senebhenaf . 	Q85500	Mentuhotep . 	unknown		REVIEW	no Wikidata ID for Senebhenaf . and Mentuhotep .
+7	Q85478	Q85528	Yauyebi of  Egypt	Q85514	Senebhenaf . 	unknown		REVIEW	no Wikidata ID for Yauyebi of Egypt and Senebhenaf .
+7	Q85478	Q85554	Sebekemsaf . 	Q85528	Yauyebi of  Egypt	unknown		REVIEW	no Wikidata ID for Sebekemsaf . and Yauyebi of Egypt
+7	Q85478	Q85578	Sankhenre Mentuhotep VI	Q85554	Sebekemsaf . 	unknown		REVIEW	no Wikidata ID for Sankhenre Mentuhotep VI and Sebekemsaf .
+7	Q138061	Q138061	Joan ferch Ieuan ap Rhys ap Llowdden	Q138810	Llywelyn Ddû ab Owain	confirmed		REVIEW	Wikidata agrees Joan ferch Ieuan ap Rhys ap Llowdden is a parent of Llywelyn Ddû ab Owain
+7	Q138061	Q138810	Llywelyn Ddû ab Owain	Q140234	Llywelyn Foethus ap Llywelyn Ddû ab Owain	confirmed		REVIEW	Wikidata agrees Llywelyn Ddû ab Owain is a parent of Llywelyn Foethus ap Llywelyn Ddû ab Owain
+7	Q138061	Q139043	Ieuan ap Rhys	Q138061	Joan ferch Ieuan ap Rhys ap Llowdden	confirmed		REVIEW	Wikidata agrees Ieuan ap Rhys is a parent of Joan ferch Ieuan ap Rhys ap Llowdden
+7	Q138061	Q139067	Gruffudd Foethus ap Llywelyn	Q140681	Lleucu ferch Gruffudd	confirmed		REVIEW	Wikidata agrees Gruffudd Foethus ap Llywelyn is a parent of Lleucu ferch Gruffudd
+7	Q138061	Q140234	Llywelyn Foethus ap Llywelyn Ddû ab Owain	Q139067	Gruffudd Foethus ap Llywelyn	confirmed		REVIEW	Wikidata agrees Llywelyn Foethus ap Llywelyn Ddû ab Owain is a parent of Gruffudd Foethus ap Llywelyn
+7	Q138061	Q140643	Rhys ap Llowdden y Gath	Q139043	Ieuan ap Rhys	confirmed		REVIEW	Wikidata agrees Rhys ap Llowdden y Gath is a parent of Ieuan ap Rhys
+7	Q138061	Q140681	Lleucu ferch Gruffudd	Q140643	Rhys ap Llowdden y Gath	confirmed		REVIEW	Wikidata agrees Lleucu ferch Gruffudd is a parent of Rhys ap Llowdden y Gath
+7	Q171493	Q171493	Venkatacharyar Jatavallabha (Jatavallabha award by Maha	Q171595	Rangacharya Jatavallabha (Jatavallabha award by Maha	unknown		REVIEW	no Wikidata ID for Venkatacharyar Jatavallabha (Jatavallabha award by Maha and Rangacharya Jatavallabha (Jatavallabha award by Maha
+7	Q171493	Q171595	Rangacharya Jatavallabha (Jatavallabha award by Maha	Q171604	Venkatacharya Jatavallabha (Jatavallabha award by Maha	unknown		REVIEW	no Wikidata ID for Rangacharya Jatavallabha (Jatavallabha award by Maha and Venkatacharya Jatavallabha (Jatavallabha award by Maha
+7	Q171493	Q171604	Venkatacharya Jatavallabha (Jatavallabha award by Maha	Q171614	Srinivasacharya Jatavallabha	unknown		REVIEW	no Wikidata ID for Venkatacharya Jatavallabha (Jatavallabha award by Maha and Srinivasacharya Jatavallabha
+7	Q171493	Q171614	Srinivasacharya Jatavallabha	Q171622	Srinivasacharyar Jatavallabha (Jatavallabha award by Maha	unknown		REVIEW	no Wikidata ID for Srinivasacharya Jatavallabha and Srinivasacharyar Jatavallabha (Jatavallabha award by Maha
+7	Q171493	Q171622	Srinivasacharyar Jatavallabha (Jatavallabha award by Maha	Q171636	Venkatacharya Jatavallabha (Jatavallabha award by Maha	unknown		REVIEW	no Wikidata ID for Srinivasacharyar Jatavallabha (Jatavallabha award by Maha and Venkatacharya Jatavallabha (Jatavallabha award by Maha
+7	Q171493	Q171636	Venkatacharya Jatavallabha (Jatavallabha award by Maha	Q171648	Rangacharya Jatavallabha (Jatavallabha award by Maha	unknown		REVIEW	no Wikidata ID for Venkatacharya Jatavallabha (Jatavallabha award by Maha and Rangacharya Jatavallabha (Jatavallabha award by Maha
+7	Q171493	Q171648	Rangacharya Jatavallabha (Jatavallabha award by Maha	Q171493	Venkatacharyar Jatavallabha (Jatavallabha award by Maha	unknown		REVIEW	no Wikidata ID for Rangacharya Jatavallabha (Jatavallabha award by Maha and Venkatacharyar Jatavallabha (Jatavallabha award by Maha
+6	Q138363	Q138363	Gepaepyris	Q138365	Tiberius Julius Cotys I	confirmed		REVIEW	Wikidata agrees Gepaepyris is a parent of Tiberius Julius Cotys I
+6	Q138363	Q138365	Tiberius Julius Cotys I	Q148022	Rhescuporis I	confirmed		REVIEW	Wikidata agrees Tiberius Julius Cotys I is a parent of Rhescuporis I
+6	Q138363	Q139511	Cotys III	Q138363	Gepaepyris	confirmed		REVIEW	Wikidata agrees Cotys III is a parent of Gepaepyris
+6	Q138363	Q141360	Rhoemetalces I	Q139511	Cotys III	confirmed		REVIEW	Wikidata agrees Rhoemetalces I is a parent of Cotys III
+6	Q138363	Q144020	Cotys II	Q141360	Rhoemetalces I	confirmed		REVIEW	Wikidata agrees Cotys II is a parent of Rhoemetalces I
+6	Q138363	Q148022	Rhescuporis I	Q144020	Cotys II	confirmed		REVIEW	Wikidata agrees Rhescuporis I is a parent of Cotys II
+5	Q4617	Q4617	Pedaiah	Q4626	Zebudah	confirmed		REVIEW	Wikidata agrees Pedaiah is a parent of Zebudah
+5	Q4617	Q4617	Pedaiah	Q60222		unknown		REVIEW	no Wikidata ID for Q60222
+5	Q4617	Q4626	Zebudah	Q135406	Jehoiakim	confirmed		REVIEW	Wikidata agrees Zebudah is a parent of Jehoiakim
+5	Q4617	Q60222		Q135406	Jehoiakim	unknown		REVIEW	no Wikidata ID for Q60222
+5	Q4617	Q135406	Jehoiakim	Q135539	Jeconiah	confirmed		REVIEW	Wikidata agrees Jehoiakim is a parent of Jeconiah
+5	Q4617	Q135539	Jeconiah	Q4617	Pedaiah	contradicted		REVIEW	Wikidata records no link between them
+5	Q73782	Q73782	Appius Claudius Caecus	Q78812	Tiberius Claudius Nero	unknown		REVIEW	no Wikidata ID for Tiberius Claudius Nero
+5	Q73782	Q73887	Gaius Claudius Crassus Inrelligensis	Q73782	Appius Claudius Caecus	confirmed		REVIEW	Wikidata agrees Gaius Claudius Crassus Inrelligensis is a parent of Appius Claudius Caecus
+5	Q73782	Q73970	Appius Claudius Crassus Inregillensis	Q73887	Gaius Claudius Crassus Inrelligensis	confirmed		REVIEW	Wikidata agrees Appius Claudius Crassus Inregillensis is a parent of Gaius Claudius Crassus Inrelligensis
+5	Q73782	Q78752	Publius  Claudius-Nero	Q73970	Appius Claudius Crassus Inregillensis	unknown		REVIEW	no Wikidata ID for Publius Claudius-Nero
+5	Q73782	Q78812	Tiberius Claudius Nero	Q78752	Publius  Claudius-Nero	unknown		REVIEW	no Wikidata ID for Tiberius Claudius Nero and Publius Claudius-Nero
+5	Q75123	Q75123	Deimachus	Q132251	Enarete	confirmed		REVIEW	Wikidata agrees Deimachus is a parent of Enarete
+5	Q75123	Q131896	Tyro	Q131902	Neleus	confirmed		REVIEW	Wikidata agrees Tyro is a parent of Neleus
+5	Q75123	Q131902	Neleus	Q75123	Deimachus	contradicted		REVIEW	Wikidata records no link between them
+5	Q75123	Q132251	Enarete	Q132367	Salmoneus	confirmed		REVIEW	Wikidata agrees Enarete is a parent of Salmoneus
+5	Q75123	Q132367	Salmoneus	Q131896	Tyro	confirmed		REVIEW	Wikidata agrees Salmoneus is a parent of Tyro
+5	Q104371	Q104371	Arsende  de Cabrera	Q107162	Ermengol VII, Count of Urgell	unknown		REVIEW	no Wikidata ID for Arsende de Cabrera
+5	Q104371	Q107162	Ermengol VII, Count of Urgell	Q123407	Marquesa d'Urgell	confirmed		REVIEW	Wikidata agrees Ermengol VII, Count of Urgell is a parent of Marquesa d'Urgell
+5	Q104371	Q123407	Marquesa d'Urgell	Q124325	Guerau IV de Cabrera	confirmed		REVIEW	Wikidata agrees Marquesa d'Urgell is a parent of Guerau IV de Cabrera
+5	Q104371	Q124325	Guerau IV de Cabrera	Q124326	Guerau V de Cabrera	confirmed		REVIEW	Wikidata agrees Guerau IV de Cabrera is a parent of Guerau V de Cabrera
+5	Q104371	Q124326	Guerau V de Cabrera	Q104371	Arsende  de Cabrera	unknown		REVIEW	no Wikidata ID for Arsende de Cabrera
+4	Q29144	Q29144	kay uyarsh  Raja Iran	Q29148	kay pisan  Raja Iran	unknown		REVIEW	no Wikidata ID for kay uyarsh Raja Iran and kay pisan Raja Iran
+4	Q29144	Q29144	kay uyarsh  Raja Iran	Q52713		unknown		REVIEW	no Wikidata ID for kay uyarsh Raja Iran and Q52713
+4	Q29144	Q29148	kay pisan  Raja Iran	Q29144	kay uyarsh  Raja Iran	unknown		REVIEW	no Wikidata ID for kay pisan Raja Iran and kay uyarsh Raja Iran
+4	Q29144	Q29148	kay pisan  Raja Iran	Q52709		unknown		REVIEW	no Wikidata ID for kay pisan Raja Iran and Q52709
+4	Q29144	Q52709		Q29148	kay pisan  Raja Iran	unknown		REVIEW	no Wikidata ID for Q52709 and kay pisan Raja Iran
+4	Q29144	Q52713		Q29144	kay uyarsh  Raja Iran	unknown		REVIEW	no Wikidata ID for Q52713 and kay uyarsh Raja Iran
+4	Q72798	Q72798	Marcus Livius Drusus	Q73119	Marcus Livius Drusus	confirmed		REVIEW	Wikidata agrees Marcus Livius Drusus is a parent of Marcus Livius Drusus
+4	Q72798	Q72951	Gaius Livius Drusus	Q72798	Marcus Livius Drusus	confirmed		REVIEW	Wikidata agrees Gaius Livius Drusus is a parent of Marcus Livius Drusus
+4	Q72798	Q72951	Gaius Livius Drusus	Q73284		unknown		REVIEW	no Wikidata ID for Q73284
+4	Q72798	Q73119	Marcus Livius Drusus	Q72951	Gaius Livius Drusus	contradicted		REVIEW	Wikidata records no link between them
+4	Q72798	Q73284		Q73119	Marcus Livius Drusus	unknown		REVIEW	no Wikidata ID for Q73284
+4	Q77782	Q77782	Pinarius	Q78264	Lucius Pinarius	confirmed		REVIEW	Wikidata agrees Pinarius is a parent of Lucius Pinarius
+4	Q77782	Q77955	Lucius Pinarius Scarpus	Q77782	Pinarius	unknown		REVIEW	no Wikidata ID for Lucius Pinarius Scarpus
+4	Q77782	Q78108	Lucius Pinarius Scarpus	Q77955	Lucius Pinarius Scarpus	unknown		REVIEW	no Wikidata ID for Lucius Pinarius Scarpus and Lucius Pinarius Scarpus
+4	Q77782	Q78264	Lucius Pinarius	Q78108	Lucius Pinarius Scarpus	unknown		REVIEW	no Wikidata ID for Lucius Pinarius Scarpus
+4	Q111318	Q111318	Pepin of Landen	Q111320	Begga	confirmed		REVIEW	Wikidata agrees Pepin of Landen is a parent of Begga
+4	Q111318	Q111320	Begga	Q135895	Pepin of Herstal	confirmed		REVIEW	Wikidata agrees Begga is a parent of Pepin of Herstal
+4	Q111318	Q113081	Charles Martel	Q111318	Pepin of Landen	contradicted		REVIEW	Wikidata records no link between them
+4	Q111318	Q135895	Pepin of Herstal	Q113081	Charles Martel	confirmed		REVIEW	Wikidata agrees Pepin of Herstal is a parent of Charles Martel
+4	Q118732	Q118732	Olaf Geirstad-Alf	Q136091	Gandalf Alfgeirsson	confirmed		REVIEW	Wikidata agrees Olaf Geirstad-Alf is a parent of Gandalf Alfgeirsson
+4	Q118732	Q123845	Alfhild	Q118732	Olaf Geirstad-Alf	confirmed		REVIEW	Wikidata agrees Alfhild is a parent of Olaf Geirstad-Alf
+4	Q118732	Q135856	Alfarin	Q123845	Alfhild	confirmed		REVIEW	Wikidata agrees Alfarin is a parent of Alfhild
+4	Q118732	Q136091	Gandalf Alfgeirsson	Q135856	Alfarin	confirmed		REVIEW	Wikidata agrees Gandalf Alfgeirsson is a parent of Alfarin
+4	Q144542	Q144542	Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig	Q148522	Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadwgan Ddû	confirmed		REVIEW	Wikidata agrees Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig is a parent of Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadwgan Ddû
+4	Q144542	Q146349	Cynwrig Fychan ap Cynwrig	Q148521	Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap Llywarch	confirmed		REVIEW	Wikidata agrees Cynwrig Fychan ap Cynwrig is a parent of Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap Llywarch
+4	Q144542	Q148521	Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap Llywarch	Q144542	Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig	confirmed		REVIEW	Wikidata agrees Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap Llywarch is a parent of Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig
+4	Q144542	Q148522	Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadwgan Ddû	Q146349	Cynwrig Fychan ap Cynwrig	confirmed		REVIEW	Wikidata agrees Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadwgan Ddû is a parent of Cynwrig Fychan ap Cynwrig
+4	Q160928	Q160928	Swammbhu Brambha	Q160981	Person Q160981	unknown		REVIEW	no Wikidata ID for Swammbhu Brambha and Person Q160981
+4	Q160928	Q160946	11 Rudras	Q160928	Swammbhu Brambha	unknown		REVIEW	no Wikidata ID for 11 Rudras and Swammbhu Brambha
+4	Q160928	Q160965	Kasayap Muni	Q160946	11 Rudras	unknown		REVIEW	no Wikidata ID for Kasayap Muni and 11 Rudras
+4	Q160928	Q160981	Person Q160981	Q160965	Kasayap Muni	unknown		REVIEW	no Wikidata ID for Person Q160981 and Kasayap Muni
+4	Q161658	Q161658	Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja	Q161777	Dewa Amas Sang Aji Kala	unknown		REVIEW	no Wikidata ID for Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja and Dewa Amas Sang Aji Kala
+4	Q161658	Q161777	Dewa Amas Sang Aji Kala	Q161966	Demang Lebar Daun Mangkabumi (Bendahara I)	unknown		REVIEW	no Wikidata ID for Dewa Amas Sang Aji Kala and Demang Lebar Daun Mangkabumi (Bendahara I)
+4	Q161658	Q161966	Demang Lebar Daun Mangkabumi (Bendahara I)	Q162275	Wan Sendari (Radin Ratna Cenderapuri)	unknown		REVIEW	no Wikidata ID for Demang Lebar Daun Mangkabumi (Bendahara I) and Wan Sendari (Radin Ratna Cenderapuri)
+4	Q161658	Q162275	Wan Sendari (Radin Ratna Cenderapuri)	Q161658	Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja	unknown		REVIEW	no Wikidata ID for Wan Sendari (Radin Ratna Cenderapuri) and Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja
+3	Q73383	Q73383	Lucius Junius  Brutus	Q73644	C. Junius  Brutus	unknown		REVIEW	no Wikidata ID for Lucius Junius Brutus and C. Junius Brutus
+3	Q73383	Q73518	C. Junius Junius Brutus  Brutus	Q73383	Lucius Junius  Brutus	unknown		REVIEW	no Wikidata ID for C. Junius Junius Brutus Brutus and Lucius Junius Brutus
+3	Q73383	Q73644	C. Junius  Brutus	Q73518	C. Junius Junius Brutus  Brutus	unknown		REVIEW	no Wikidata ID for C. Junius Brutus and C. Junius Junius Brutus Brutus
+3	Q73824	Q73824	Agathocles of Pella	Q135467	Alcimachus of Apollonia	confirmed		REVIEW	Wikidata agrees Agathocles of Pella is a parent of Alcimachus of Apollonia
+3	Q73824	Q73925	Alcimachus	Q73824	Agathocles of Pella	contradicted		REVIEW	Wikidata records no link between them
+3	Q73824	Q135467	Alcimachus of Apollonia	Q73925	Alcimachus	confirmed		REVIEW	Wikidata agrees Alcimachus of Apollonia is a parent of Alcimachus
+3	Q76693	Q76693	Sergius Octavius Pontianus Laenes Octavius  Pontainus	Q77155	Sergius Ovtavius Laenes	unknown		REVIEW	no Wikidata ID for Sergius Octavius Pontianus Laenes Octavius Pontainus and Sergius Ovtavius Laenes
+3	Q76693	Q76933	Sergius Octavius Pontainus	Q76693	Sergius Octavius Pontianus Laenes Octavius  Pontainus	unknown		REVIEW	no Wikidata ID for Sergius Octavius Pontainus and Sergius Octavius Pontianus Laenes Octavius Pontainus
+3	Q76693	Q77155	Sergius Ovtavius Laenes	Q76933	Sergius Octavius Pontainus	unknown		REVIEW	no Wikidata ID for Sergius Ovtavius Laenes and Sergius Octavius Pontainus
+3	Q86607	Q86607	Acha  Ish Kfar Temarta	Q91134	"Abba ""Abbahu""  bar Acha bar Sallah al-Kafri"	unknown		REVIEW	"no Wikidata ID for Acha Ish Kfar Temarta and Abba ""Abbahu"" bar Acha bar Sallah al-Kafri"
+3	Q86607	Q86617	Shila  Ish Kfar Temarta	Q86607	Acha  Ish Kfar Temarta	unknown		REVIEW	no Wikidata ID for Shila Ish Kfar Temarta and Acha Ish Kfar Temarta
+3	Q86607	Q91134	"Abba ""Abbahu""  bar Acha bar Sallah al-Kafri"	Q86617	Shila  Ish Kfar Temarta	unknown		REVIEW	"no Wikidata ID for Abba ""Abbahu"" bar Acha bar Sallah al-Kafri and Shila Ish Kfar Temarta"
+2	Q18066	Q18066	Nagano Norinari	Q32705	長野尚業	inherited		REVIEW	Wikidata itself has Nagano Norinari (Q11654206) as BOTH parent and child of 長野尚業 (Q106814279) — the contradiction is upstream
+2	Q18066	Q32705	長野尚業	Q18066	Nagano Norinari	inherited		REVIEW	Wikidata itself has 長野尚業 (Q106814279) as BOTH parent and child of Nagano Norinari (Q11654206) — the contradiction is upstream
+2	Q73530	Q73530	Marcus Flaccus	Q73653	Cassus Curvus	unknown		REVIEW	no Wikidata ID for Marcus Flaccus and Cassus Curvus
+2	Q73530	Q73653	Cassus Curvus	Q73530	Marcus Flaccus	unknown		REVIEW	no Wikidata ID for Cassus Curvus and Marcus Flaccus
+2	Q78402	Q78402		Q78719	Cleopatra III of Egypt	unknown		REVIEW	no Wikidata ID for Q78402
+2	Q78402	Q78719	Cleopatra III of Egypt	Q78402		unknown		REVIEW	no Wikidata ID for Q78402
+2	Q88454	Q88454	Esther  bat Sahlan ben Abraham	Q90982	Esther  bat Yosef ben 'Amram haDayyan al-Sijilma	unknown		REVIEW	no Wikidata ID for Esther bat Sahlan ben Abraham and Esther bat Yosef ben 'Amram haDayyan al-Sijilma
+2	Q88454	Q90982	Esther  bat Yosef ben 'Amram haDayyan al-Sijilma	Q88454	Esther  bat Sahlan ben Abraham	unknown		REVIEW	no Wikidata ID for Esther bat Yosef ben 'Amram haDayyan al-Sijilma and Esther bat Sahlan ben Abraham
+2	Q119481	Q119481	Pons Hug d'Entença	Q124343	Jussiana d'Entença	inherited		REVIEW	Wikidata itself has Pons Hug d'Entença (Q21001415) as BOTH parent and child of Jussiana d'Entença (Q14083227) — the contradiction is upstream
+2	Q119481	Q124343	Jussiana d'Entença	Q119481	Pons Hug d'Entença	inherited		REVIEW	Wikidata itself has Jussiana d'Entença (Q14083227) as BOTH parent and child of Pons Hug d'Entença (Q21001415) — the contradiction is upstream

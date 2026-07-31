@@ -82,12 +82,36 @@ non-zero if anything was introduced. Merges go through `wiki-scripts/merge_clust
 <cluster>`, which enforces the merge-direction rule above and refuses a pair whose loser has
 shadows.
 
-1. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
-   built before `qa_cycles_vs_wikidata.tsv` and never saw it. 7 of its 25 "unresolved"
-   cycles contain an edge Wikidata explicitly contradicts. Most cycle records have working
-   Wikidata ids, which is what makes unmerging tractable — use them.
+**WIKIDATA IS THE REFERENCE, NOT GOSPEL.** `qa_cycles_vs_wikidata.tsv` returns
+`contradicted` for 16 distinct edges, but in 15 of them the detail reads *"Wikidata records
+no link between them"* — an **absence of evidence, not a refutation**, and Wikidata is
+incomplete and holds impossible loops of its own. Three of those edges are currently live
+and **correct**: `Belus -> Danaus` and `Anchiroe -> Danaus` are exactly the parents
+`cycle_policy.md` assigns, and cutting them would sever the cross-tradition join the
+genealogy exists to make. They are listed in `PROTECTED` in
+`wiki-scripts/propose_tangle_repairs.py` and that tool will never propose cutting them.
+Only *"the link the other way round"* — Wikidata recording the same pair with parent and
+child swapped — is treated as decisive.
 
-2. **Work the remaining cycles under the repair order above.** Unmerge candidates first.
+1. **Dedupe the Aemilii Lepidi pair, and relax `merge_cluster.py`'s precondition to allow
+   it.** `qa_tangle_repairs.md` ranks this DEDUPE above every remaining tangle: **Q72434
+   and Q72514 both carry `wd Q435329`** (Marcus Aemilius Lepidus, cos. 78 BC), share the
+   spouse Q72517 Appuleia and four children, and sit inside the largest Roman tangle
+   reachable this way (19 records, head Q72434).
+   **Blocked on a guard I wrote too strictly on 2026-07-31:** `merge_cluster.py` refuses
+   any pair whose *loser* has shadow files, and here **both** sides do (Q72434 →
+   Q87226/Q185444, Q72514 → Q87280). The refusal is a proxy for the real invariant, and a
+   redundant one — the tool already rewrites every shadow of the loser in the same pass, so
+   the loser's qid is never left vacant for a shadow to claim. Replace the input-side
+   refusal with the **outcome-side** check: after the merge, assert that *no file anywhere
+   still claims the loser's qid*. That is strictly stronger than what it does now. Do not
+   simply delete the guard.
+
+2. **Work the remaining cycles under the repair order above.** Start from
+   `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
+   34 are `REVIEW`: no Wikidata evidence decides them, mostly because "contradicted" there
+   means *Wikidata records no link*, which is an absence and not a refutation. Unmerge
+   candidates first.
    The five remaining cycles of length >= 20 are all Roman, sharing the Q61957/Q62255/
    Q63192/Q63747/Q70152/Q138467 stretch — likely the same repeating-cognomen collision that
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not

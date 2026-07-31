@@ -25,12 +25,25 @@ Direction evidence, and the rule for using it
                       this dump stores many BC dates unsigned (see GENEALOGY_QA.md).
   S3 patronymic       B's own name names A as its father (Welsh ap/ferch, Iberian
                       -es/-ez), or A's name names B as its father.
+  S4 wikidata         qa_cycles_vs_wikidata.tsv records the pair with one direction
+                      `confirmed` and the other not. This is the strongest signal
+                      available, because it refutes a specific direction instead of
+                      inferring one. Added 2026-07-31 (queue.md: fold the Wikidata
+                      cross-check into the cycle proposals). Deliberately NOT fired when
+                      Wikidata confirms BOTH directions — that is an INHERITED loop,
+                      Wikidata holding the same contradiction, and it decides nothing.
 
 A pair is repaired only when at least one signal fires and NO signal contradicts
 another. Conflicts and undecidables are left alone and reported — Uematsu Takamasa
 (b. 1705) and Iwakura Hiromasa (b. 1746) have a consistent-looking family record
 pointing the opposite way to their recorded dates, and guessing between those two
 is exactly the judgement this script must not make.
+
+SHADOW FILES. Until 2026-07-31 this script wrote only ITEMS/<qid>.json, which is the
+failure CLAUDE.md records as having reverted ten applied repairs at once: 39,527 qids are
+claimed by more than one file and extract_genealogy.py keeps the numerically-lowest, so an
+edit to the canonical file alone is undone the moment that file stops winning. It now
+rewrites every file claiming an edited qid and verifies they agree afterwards.
 """
 
 import argparse
@@ -88,6 +101,23 @@ def main():
     def lab(q):
         return (persons.get(q, {}).get("label") or "").strip() or "(unlabelled)"
 
+    # S4 evidence. The cross-check writes its endpoints as "Q123 (Label)".
+    wdv = {}
+    try:
+        for r in load_tsv("qa_cycles_vs_wikidata.tsv"):
+            wdv[(r["parent"].split(" ")[0], r["child"].split(" ")[0])] = r["verdict"]
+    except FileNotFoundError:
+        print("note: qa_cycles_vs_wikidata.tsv absent — S4 wikidata signal unavailable")
+
+    # Every file claiming a given qid, so an edit can be propagated to all of them.
+    claimants = defaultdict(set)
+    try:
+        for r in load_tsv("redirects.tsv"):
+            claimants[r["to_qid"]].add(r["from_qid"])
+    except FileNotFoundError:
+        print("note: redirects.tsv absent — shadow propagation unavailable, ABORTING")
+        return
+
     # every mutual pair in the whole graph, not only those the cycle DFS happened to list
     pairs = sorted({tuple(sorted((c, p))) for c, ps in par.items()
                     for p in ps if c in par.get(p, ())})
@@ -126,6 +156,17 @@ def main():
                                   % (ya, yb, lab(a if ad == "a" else b), MIN_GAP,
                                      " under either the AD or the BC reading"
                                      if ad == bc else ""))
+
+        # S4 wikidata, the strongest signal: a confirmed direction with the reverse
+        # not confirmed. Both confirmed means Wikidata holds the loop too (INHERITED)
+        # and settles nothing, so no vote is cast.
+        fwd, rev = wdv.get((a, b)), wdv.get((b, a))
+        if fwd == "confirmed" and rev != "confirmed":
+            votes["wikidata"] = ("a", "Wikidata records %s as a parent of %s and does "
+                                 "not support the reverse" % (lab(a), lab(b)))
+        elif rev == "confirmed" and fwd != "confirmed":
+            votes["wikidata"] = ("b", "Wikidata records %s as a parent of %s and does "
+                                 "not support the reverse" % (lab(b), lab(a)))
 
         # S3 patronymic
         la, lb = lab(a), lab(b)
@@ -182,6 +223,7 @@ def main():
 
     removed = 0
     touched = []
+    shadow_writes = defaultdict(list)
     for qid, ops in sorted(edits.items()):
         path = ITEMS / ("%s.json" % qid)
         if not path.exists():
@@ -208,13 +250,50 @@ def main():
         if json.dumps(claims, sort_keys=True) != before:
             # indent=2 + sort_keys is exactly how the snapshot was serialised, so the
             # diff shows only the removed claims instead of a whole-file reformat.
-            path.write_text(json.dumps(data, ensure_ascii=False, indent=2,
-                                       sort_keys=True) + "\n", encoding="utf-8")
+            text = json.dumps(data, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
+            # Write to EVERY file claiming this qid, not just the canonical one. See the
+            # SHADOW FILES note at the top: editing the canonical file alone is silently
+            # reverted the moment it stops being the numerically-lowest claimant.
+            family = {qid} | claimants.get(qid, set())
+            for f in sorted(family):
+                fp = ITEMS / ("%s.json" % f)
+                if fp.exists():
+                    fp.write_text(text, encoding="utf-8")
+                    shadow_writes[qid].append(f)
             touched.append(qid)
 
     print("\nremoved %d claims across %d items" % (removed, len(touched)))
-    print("items touched: %s" % ", ".join(touched))
+    for qid in touched:
+        extra = [f for f in shadow_writes[qid] if f != qid]
+        print("  %s%s" % (qid, "  (+%d shadow file(s): %s)" % (len(extra), ", ".join(extra))
+                          if extra else ""))
+
+    # Verify the propagation actually took: every file claiming a touched qid must now
+    # agree with it on the genealogical claims.
+    print("\nverifying shadow propagation...")
+    ok = True
+    for qid in touched:
+        ref = None
+        for f in sorted({qid} | claimants.get(qid, set())):
+            fp = ITEMS / ("%s.json" % f)
+            if not fp.exists():
+                continue
+            d = json.loads(fp.read_text(encoding="utf-8"))
+            if (d.get("id") or f) != qid:
+                continue
+            cur = {p: sorted(filter(None, (entity_id(c)
+                                           for c in (d.get("claims") or {}).get(p, []))))
+                   for p in (P_FATHER, P_MOTHER, P_CHILD)}
+            if ref is None:
+                ref = cur
+            elif cur != ref:
+                print("  FAIL %s: %s disagrees with the canonical record" % (qid, f))
+                ok = False
+    print("all files claiming a touched qid agree" if ok else "PROPAGATION INCOMPLETE")
+
     print("\nRe-run wiki-scripts/extract_genealogy.py, then dump_qa_errors.py.")
+    if not ok:
+        sys.exit(1)
 
 
 if __name__ == "__main__":

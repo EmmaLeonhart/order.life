@@ -4,6 +4,56 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **Wikidata cross-check folded into the cycle proposals — and the fold immediately paid
+  for itself: one tangle gone, 36 → 35.**
+
+  The queue asked to fold `qa_cycles_vs_wikidata.tsv` into `qa_cycles_proposed.tsv`. That
+  join could not be done as stated, because `qa_cycles_proposed.tsv` is keyed to the old
+  **non-deterministic** cycle enumeration — "cycle 7 of 25" is not a stable referent when
+  consecutive runs disagreed on how many cycles existed. So the fold rebuilds against the
+  one well-defined object, the strongly connected component: new
+  `wiki-scripts/propose_tangle_repairs.py` → `qa_tangle_repairs.tsv` / `.md`, one row per
+  edge inside a tangle with the Wikidata verdict attached and a repair proposed under the
+  `cycle_policy.md` order.
+
+  **The fold's main job turned out to be restraint.** Of 16 distinct `contradicted` edges,
+  15 say only *"Wikidata records no link between them"* — an absence of evidence, not a
+  refutation. Three of those are live and **correct**: `Belus -> Danaus` and
+  `Anchiroe -> Danaus` are precisely the parents `cycle_policy.md` assigns. A naive fold
+  that cut on the cross-check would have severed exactly the cross-tradition joins the
+  genealogy exists to make. Those edges are now in a `PROTECTED` list the tool refuses to
+  propose cutting, sourced from the policy doc rather than inferred.
+
+  Only one verdict is decisive — *"the link the other way round"*, where Wikidata records
+  the same pair with parent and child swapped. Exactly one edge qualified, so the evidence
+  went where it could actually be used: **`fix_mutual_parent_pairs.py` gained an S4
+  `wikidata` signal**, alongside its existing spouse-coparent / dates / patronymic ones.
+  It fired once, on `Q139601 -> Q70988`, and it was the *only* signal that could decide
+  that pair — no usable dates, no patronymic, no co-parent. Wikidata records Lucius
+  Scribonius Libo Drusus as the parent of Marcus Livius Drusus Libo; the dump also asserted
+  the reverse, giving Q70988 a second father he does not need (he already has Q72272).
+  Dropped the two claims encoding the false direction.
+
+  **That script had the shadow bug.** It wrote only `ITEMS/<qid>.json` — the exact failure
+  CLAUDE.md records as having reverted ten applied repairs at once on 2026-07-30. It now
+  rewrites every file claiming an edited qid and verifies afterwards that they agree. This
+  was not hypothetical: **Q70988 has four shadow files**, so the old code would have left
+  the repair to be silently undone the moment `Q70988.json` stopped being the lowest
+  claimant.
+
+  Verified: edges −1, `compare_tangles.py` reports **1 tangle removed, 0 introduced, 0
+  reshaped, 2 records freed** and nothing else moved. Tangles **36 → 35**, records in a
+  tangle **299 → 297**, `children_over_2_parents` **1224 → 1223**. `check_invariants` PASS
+  with two invariants improved; baseline ratcheted to 35 / 297 / 72. Shadow propagation
+  self-check passed on all six files.
+
+  Next up and now ranked at the top of the queue: `Q72434` / `Q72514` both carry
+  `wd Q435329` inside a 19-record Roman tangle. It is blocked by a guard I wrote too
+  strictly this morning — `merge_cluster.py` refuses a pair whose loser has shadows, but
+  the tool already repoints those shadows in the same pass, so the refusal forbids safe
+  merges. The fix is to replace it with the outcome-side assertion that no file still
+  claims the loser's qid, not to delete it.
+
 - **The Porcia residue is closed: Q78063 and Q144042 are one woman, and two records above
   her had to merge with them.**
 
