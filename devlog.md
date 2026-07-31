@@ -4,6 +4,39 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **A merge I applied created a cycle. Caught it, reverted it, and the precondition that
+  would have prevented it is now queued.** 52 -> 49 cycles after the correction.
+
+  Merging 9 duplicate pairs took the count to 54, not down. Comparing chain strings said 31
+  new and 29 resolved, which was noise — the detector re-roots each cycle at a different
+  head. Comparing canonically by edge set: 10 resolved, 12 new, and exactly **one**
+  attributable to me: `Q148133 <-> Q73167`. Neither Q73005 nor Q73167 had been in any cycle
+  before. Q73005 had Q73167 as a child; Q73167 had Q148133 as a child; merging Q73005 into
+  Q148133 joined two individually-valid edges into a loop.
+
+  The contradiction is diagnostic. Both records carry `wd Q180081` (Cato the Elder), so if
+  they are the same man, Q73167 cannot be both his parent and his child — one edge is
+  wrong. Which one depends on whether `Marcus Porcius Censorius` is a third Cato duplicate,
+  his father, or his son Licinianus. **That is a judgement call and I did not make it.**
+  Reverted only the Cato merge, kept the other eight, and added a `DO_NOT_MERGE` guard
+  carrying the full reasoning so a future run cannot silently repeat it.
+
+  **The real defect was in my script, not in the data.** It checked that parent sets do not
+  conflict, which is not sufficient: a merge is safe only if no third record ends up both
+  above and below the survivor. Queued as an explicit induced-cycle precondition, which
+  also unblocks the 27 deferred pairs by making them safe to attempt.
+
+  Re-verified after the revert: 49 cycles, 10 resolved, 7 differing — and **zero** of those
+  touch any merge survivor or duplicate. Worth recording that the detector reports a cycle
+  *basis* rather than a stable set, so individual cycles are not comparable across runs even
+  though counts are.
+
+- **Two extract runs died mid-write** and left `persons.tsv` truncated at 70,763 of 107,055
+  lines. Auto-flush caught it both times by checking the line count rather than committing
+  whatever showed as modified. Restored from git — safe because the extracts are derived and
+  the item JSONs are the source of truth — and re-ran to completion.
+
+
 - **71 cycles -> 52, and the count is now honest.** Regenerated the derived extracts with
   `extract_genealogy.py` and re-ran `dump_qa_errors.py`. Everything downstream had been
   reading `wikibase/analysis/*.tsv` files that went stale the moment I started editing

@@ -52,20 +52,35 @@ the wrong metric and must not be used to rank repairs.
 4. **DELETE** only where the loop is genuinely terminal — nothing substantial above it.
    Keep the entry point, drop the rest.
 
-1. **Unmerge/dedupe the long Iberian chains — do NOT cut them.** Seven of the eight cycles
+1. **Resolve the Cato the Elder three-record cluster.** Q148133 and Q73005 both carry
+   `wd Q180081` (Cato the Elder) and Q73167 is `Marcus Porcius Censorius` — Censorius is
+   Cato's own cognomen. Merging Q73005 into Q148133 created the 2-cycle
+   `Q148133 <-> Q73167`, because Q73005 had Q73167 as a CHILD while Q73167 had Q148133 as
+   a child. The merge is reverted and guarded (`DO_NOT_MERGE` in `apply_dup_merge.py`).
+   If the three are one man, merge all three; if Q73167 is Cato's father or his son
+   Licinianus, one of the two edges is simply wrong. Decide which, then apply.
+
+2. **Add an induced-cycle precondition to `apply_dup_merge.py`.** The script checks that
+   parent sets do not conflict, but that is not sufficient — a merge is only safe if no
+   third record ends up both above and below the survivor. Cato slipped through exactly
+   there. Before writing each merge, test whether the union would put any record in both
+   the survivor's ancestor and descendant closure, and skip the pair if so. This unblocks
+   the 27 deferred pairs by making them safe to attempt.
+
+3. **Unmerge/dedupe the long Iberian chains — do NOT cut them.** Seven of the eight cycles
    of length >= 20 run through one twelve-edge stretch of the Portuguese de Aguiar family
    ending at Heracles. `Barbara, imperatriz of Rome` / `Bárbara, Princess of Rome` is an
    accented duplicate pair and `Diogo Afonso **Afonso** de Aguiar` is a doubled name — both
    unmerge signatures. The join to Heracles is why the chain exists and must survive.
 
-2. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
+4. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
    built before `qa_cycles_vs_wikidata.tsv` and never saw it. 7 of its 25 "unresolved"
    cycles contain an edge Wikidata explicitly contradicts. Most cycle records have working
    Wikidata ids, which is what makes unmerging tractable — use them.
 
-3. **Work the remaining cycles under the repair order above.** Unmerge candidates first.
+5. **Work the remaining cycles under the repair order above.** Unmerge candidates first.
 
-4. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
+6. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
    edges are declared on both sides (parent `P20` and child `P47`/`P48`), but 2,325 are
    parent-side only and 2,398 child-side only. `edges.tsv` is built from the union, so a
    half-declared edge still reads as real and any one-sided repair silently fails — this is

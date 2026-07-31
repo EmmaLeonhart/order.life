@@ -33,6 +33,18 @@ AUDIT = ROOT / "wikibase" / "analysis" / "qa_wikidata_ids.tsv"
 
 GEN_PROPS = ("P20", "P42", "P47", "P48", "P61")  # child, spouse, father, mother, wd id
 
+# Wikidata ids whose pair must NOT be merged, with the reason.
+# Merging two records is only safe if no third record ends up as both an ancestor and a
+# descendant of the survivor. Q180081 (Cato the Elder) failed exactly that way: Q73005 had
+# Q73167 "Marcus Porcius Censorius" as a CHILD while Q73167 had Q148133 as a child, so
+# merging Q73005 into Q148133 created the 2-cycle Q148133 <-> Q73167 that did not exist
+# before. Both records carry Q180081, so if they are the same man then Q73167 cannot be
+# both his parent and his child -- one of those edges is wrong, and which one is a
+# judgement call about whether Q73167 is a third Cato duplicate or his father.
+DO_NOT_MERGE = {
+    "Q180081": "Cato the Elder -- merging creates a 2-cycle with Q73167; see queue.md",
+}
+
 
 def load(q):
     p = ITEMS / f"{q}.json"
@@ -75,6 +87,9 @@ def main():
             continue
         px = set(vals(dx, "P47")) | set(vals(dx, "P48"))
         py = set(vals(dy, "P47")) | set(vals(dy, "P48"))
+        if g[0]["wikidata_qid"] in DO_NOT_MERGE:
+            skipped.append((x, y, DO_NOT_MERGE[g[0]["wikidata_qid"]]))
+            continue
         if px and py and px != py:
             skipped.append((x, y, "parent sets conflict -- needs the cluster merged first"))
             continue
