@@ -69,12 +69,33 @@ CUTS = {
     # Q73794 is left parentless, which is honest: the dump does not record Barbatus's
     # grandfather, and inventing one is not this tool's business. His descent below is
     # untouched.
-    "scipio": [
-        ("Q73893", "Q73794", "Scipio Asiaticus Aemilianus (b. 200 BC) cannot father the "
-                             "grandfather of Scipio Barbatus (cos. 298 BC)"),
-        ("Q99342", "Q73794", "Aemilia Paula, his wife, whose only other child is the "
-                             "1st-century Salvito -- same splice, mother's side"),
-    ],
+    # REVERTED 2026-07-31, same day, by Emma's question: "no risk of load bearing ancestor
+    # gateways being lost?" There was, and I had not checked.
+    #
+    # The chronology above is still correct -- that edge cannot be right. But it was the
+    # SOLE upward gateway for the entire Scipio line. Measured after the fact:
+    #
+    #     Q73794 Gnaeus Cornelius Scipio   263 ancestors deep  ->  0
+    #     Q73692 Scipio Barbatus           264                 ->  1
+    #     Q73299 Scipio Africanus          267                 ->  4
+    #     Q72957 Nasica Serapio            269                 ->  12
+    #
+    # and the 263-link chain ran all the way up to Q1 Aster, the root of the genealogy.
+    # Cutting it made Scipio Africanus, Barbatus, the Nasicae and Cornelia a rootless
+    # island. cycle_policy.md is explicit about this exact situation: "If a cycle can only
+    # be broken by cutting such a join, that is a signal the real defect is elsewhere in
+    # the loop -- go find it." I broke the cycle instead of finding the defect.
+    #
+    # What I got wrong methodologically: I verified with compare_tangles.py, which measures
+    # WIDTH -- how many records sit in a tangle. It reported 18 records freed and 0 tangles
+    # introduced, which looked like a clean win. Load-bearing here means DEPTH, upward, and
+    # nothing I ran measured that. A repair can be green on every existing gate and still
+    # amputate 263 generations.
+    #
+    # Kept, disabled, as the record. The real work is queue item 1: find which edge in
+    # Q73794 -> ... -> Q72957 -> Q72801 -> Q72786 -> Q72615 -> Q72434 -> Q73893 is the
+    # false one, so the loop opens without detaching the Scipiones from Aster.
+    "scipio-REVERTED-do-not-apply": [],
 }
 
 

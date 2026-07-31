@@ -108,6 +108,28 @@ tangle_size	tangle_head	parent	parent_label	child	child_label	wd_verdict	flag	ac
 18	Q62515	Q75721	Rufia Procula	Q75781	Caeionius  Proculus	unknown		REVIEW	no Wikidata ID for Rufia Procula and Caeionius Proculus
 18	Q62515	Q75781	Caeionius  Proculus	Q75694	Caeionius Julianus Camerius	unknown		REVIEW	no Wikidata ID for Caeionius Proculus and Caeionius Julianus Camerius
 18	Q62515	Q75817	Publilia	Q75721	Rufia Procula	unknown		REVIEW	no Wikidata ID for Publilia and Rufia Procula
+18	Q72434	Q72434	Marcus Aemilius Lepidus	Q73893	Lucius Cornelius Scipio Asiaticus Aemilianus	not-checked		REVIEW	
+18	Q72434	Q72615	Quintus Aemilius Lepidus	Q72434	Marcus Aemilius Lepidus	not-checked		REVIEW	
+18	Q72434	Q72693	Quintus Aemilius Lepidus	Q72434	Marcus Aemilius Lepidus	not-checked		REVIEW	
+18	Q72434	Q72786	Marcus Aemilius Lepidus	Q72615	Quintus Aemilius Lepidus	not-checked		REVIEW	
+18	Q72434	Q72786	Marcus Aemilius Lepidus	Q72693	Quintus Aemilius Lepidus	unknown		REVIEW	no Wikidata ID for Marcus Aemilius Lepidus
+18	Q72434	Q72801	Cornelia	Q72786	Marcus Aemilius Lepidus	unknown		REVIEW	no Wikidata ID for Marcus Aemilius Lepidus
+18	Q72434	Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	Q72801	Cornelia	unknown		REVIEW	no Wikidata ID for Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio
+18	Q72434	Q73128	Publius Cornelius Scipio Nasica Corculum	Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	not-checked		REVIEW	
+18	Q72434	Q73131	Cornelia Africana Major	Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	unknown		REVIEW	no Wikidata ID for Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio
+18	Q72434	Q73293	Publius Cornelius Scipio Nasica	Q73128	Publius Cornelius Scipio Nasica Corculum	not-checked		REVIEW	
+18	Q72434	Q73299	Scipio Africanus	Q73131	Cornelia Africana Major	confirmed		REVIEW	Wikidata agrees Scipio Africanus is a parent of Cornelia Africana Major
+18	Q72434	Q73299	Scipio Africanus	Q99368		not-checked		REVIEW	
+18	Q72434	Q73443	Gnaeus Cornelius Scipio Calvus	Q73293	Publius Cornelius Scipio Nasica	not-checked		REVIEW	
+18	Q72434	Q73443	Gnaeus Cornelius Scipio Calvus	Q99386		not-checked		REVIEW	
+18	Q72434	Q73446	Publius Cornelius Scipio	Q73299	Scipio Africanus	confirmed		REVIEW	Wikidata agrees Publius Cornelius Scipio is a parent of Scipio Africanus
+18	Q72434	Q73569	Lucius Cornelius Scipio	Q73443	Gnaeus Cornelius Scipio Calvus	not-checked		REVIEW	
+18	Q72434	Q73569	Lucius Cornelius Scipio	Q73446	Publius Cornelius Scipio	confirmed		REVIEW	Wikidata agrees Lucius Cornelius Scipio is a parent of Publius Cornelius Scipio
+18	Q72434	Q73692	Lucius Cornelius Scipio Barbatus	Q73569	Lucius Cornelius Scipio	confirmed		REVIEW	Wikidata agrees Lucius Cornelius Scipio Barbatus is a parent of Lucius Cornelius Scipio
+18	Q72434	Q73794	Gnaeus Cornelius Scipio	Q73692	Lucius Cornelius Scipio Barbatus	confirmed		REVIEW	Wikidata agrees Gnaeus Cornelius Scipio is a parent of Lucius Cornelius Scipio Barbatus
+18	Q72434	Q73893	Lucius Cornelius Scipio Asiaticus Aemilianus	Q73794	Gnaeus Cornelius Scipio	contradicted		REVIEW	Wikidata records no link between them
+18	Q72434	Q99368		Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	not-checked		REVIEW	
+18	Q72434	Q99386		Q73128	Publius Cornelius Scipio Nasica Corculum	not-checked		REVIEW	
 16	Q1955	Q1955	Prachetas (10 sons)	Q153390	DAKSHA (reborn as DAKSHA) Prachetas	not-checked		REVIEW	
 16	Q1955	Q1968	Prachinbarhi	Q1955	Prachetas (10 sons)	not-checked		REVIEW	
 16	Q1955	Q1978	Havirdhana	Q1968	Prachinbarhi	not-checked		REVIEW	

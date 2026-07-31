@@ -117,7 +117,32 @@ genealogy exists to make. They are listed in `PROTECTED` in
 Only *"the link the other way round"* — Wikidata recording the same pair with parent and
 child swapped — is treated as decisive.
 
-1. **Merge `Q72615` / `Q72693`, both "Quintus Aemilius Lepidus".** Both are children of
+1. **Find the real defect in the Scipio loop — WITHOUT detaching the Scipiones from
+   Aster.** The `Q73893 → Q73794` cut was applied and then **reverted the same day**: it
+   was chronologically correct but it was the *sole upward gateway* for the whole Scipio
+   line. Measured: `Q73299` Scipio Africanus went from **267 ancestors deep to 4**,
+   `Q73794` from **263 to 0**, and the severed chain ran all the way to **`Q1` Aster**.
+   `cycle_policy.md` names this case exactly — go find the defect elsewhere in the loop.
+   The loop is
+   `Q73794 → Q73692 → Q73569 → Q73443 → Q73293 → Q73128 → Q72957 → Q72801 → Q72786 →
+   Q72615 → Q72434 → Q73893 → Q73794`.
+   The likely culprit is the *downward* half, not the Scipio half: `Q72801` Cornelia
+   (wd Q100804879) has **three fathers** — `Q72957`, `Q73425`, `Q73017` — and it is her
+   `Q72957` edge that drags the Scipiones back down into the Aemilii. Check whether
+   Cornelia is a merge of two women, or whether `Q72957 → Q72801` is simply wrong. Also
+   suspect `Q72786`, which had four fathers and three mothers.
+   **Do not cut anything here until you have measured ancestral depth before and after.**
+
+2. **`compare_tangles.py` measures width, not depth — add a depth check.** It reported
+   "18 records freed, 0 tangles introduced" for a repair that amputated 263 generations
+   from a major line, because nothing in the gate set measures ancestry upward.
+   `qa_cycles_load.tsv` has the same flaw and the rails already say so. Add a tool that,
+   given a before/after `edges.tsv` pair, reports **which records lost ancestral depth and
+   how much**, and wire it into the verification ritual next to `compare_tangles.py`. Any
+   record dropping more than a few levels should fail loudly. This is the gate that would
+   have caught the Scipio cut before it was committed.
+
+3. **Merge `Q72615` / `Q72693`, both "Quintus Aemilius Lepidus".** Both are children of
    `Q72786` and both are recorded as fathers of the merged `Q72434` — one man cannot have
    two fathers who are the same person. `Q72693` carries `wd Q11944252`; `Q72615` carries
    none, which is a gap and not a conflict. **`propose_tangle_repairs.py` will not surface

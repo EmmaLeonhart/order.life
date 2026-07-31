@@ -4,6 +4,46 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **REVERTED the Scipio cut. It severed a load-bearing gateway and I did not check.**
+
+  Emma asked one question — "no risk of load bearing ancestor gateways being lost?" — and
+  the answer was no, there was a large one. The cut below is chronologically correct and
+  was still the wrong move.
+
+  `Q73893 → Q73794` was the **sole upward gateway for the entire Scipio line**. Measured
+  after the fact:
+
+  | record | ancestors deep before | after |
+  |---|---|---|
+  | `Q73794` Gnaeus Cornelius Scipio | 263 | 0 |
+  | `Q73692` Scipio Barbatus | 264 | 1 |
+  | `Q73299` Scipio Africanus | 267 | 4 |
+  | `Q72957` Nasica Serapio | 269 | 12 |
+
+  and the 263-link chain ran all the way to **`Q1` Aster**. The cut made Scipio Africanus,
+  Barbatus, the Nasicae and Cornelia a rootless island. `cycle_policy.md` describes this
+  exact situation and says what to do: "If a cycle can only be broken by cutting such a
+  join, that is a signal the real defect is elsewhere in the loop — go find it." I broke
+  the cycle instead of finding the defect.
+
+  **The methodological hole, which is the part worth keeping.** I verified with
+  `compare_tangles.py`, and it reported 18 records freed, 0 tangles introduced, 0 reshaped
+  — a clean win by every gate in the repo. But `compare_tangles.py` measures **width**:
+  how many records sit inside a tangle. Load-bearing here means **depth, upward**, and
+  *nothing I ran measured that*. This is the same error the rails already call out about
+  `qa_cycles_load.tsv` ranking by descendants lost, and I reproduced it in a new tool
+  while quoting the rule against it. A repair can be green on every existing check and
+  still amputate 263 generations.
+
+  Reverted by restoring the three records and all 14 claiming files from `5fce715a9`.
+  Tangles back to 35, records in a tangle 296. `invariants.json` reset to match — the
+  I1 "cycles must not increase" failure this produced is deliberate, not a regression.
+  The cut set is kept in `cut_edges.py`, disabled and annotated, as the record.
+
+  Queued: find the actual defect in the loop (prime suspect is the downward half —
+  `Q72801` Cornelia has three fathers), and **build the depth gate that would have caught
+  this before it was committed**.
+
 - **The 18-record Roman tangle is gone — two edges, and Scipio Africanus, Barbatus, the
   Nasicae and the Aemilii Lepidi all come free. Tangles 35 → 34, records in a tangle
   296 → 278.**
