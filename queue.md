@@ -66,20 +66,18 @@ canonical file alone leaves stale shadows that silently revert the fix if that f
 vacated. After editing any record, rewrite every file claiming its qid. `shadow_audit.py`
 reports disagreements; it must stay at **0**.
 
-2. **Unmerge/dedupe the long Iberian chains — do NOT cut them.** Seven of the eight cycles
-   of length >= 20 run through one twelve-edge stretch of the Portuguese de Aguiar family
-   ending at Heracles. `Barbara, imperatriz of Rome` / `Bárbara, Princess of Rome` is an
-   accented duplicate pair and `Diogo Afonso **Afonso** de Aguiar` is a doubled name — both
-   unmerge signatures. The join to Heracles is why the chain exists and must survive.
-
-3. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
+2. **Fold the Wikidata cross-check into the cycle proposals.** `qa_cycles_proposed.tsv` was
    built before `qa_cycles_vs_wikidata.tsv` and never saw it. 7 of its 25 "unresolved"
    cycles contain an edge Wikidata explicitly contradicts. Most cycle records have working
    Wikidata ids, which is what makes unmerging tractable — use them.
 
-4. **Work the remaining cycles under the repair order above.** Unmerge candidates first.
+3. **Work the remaining cycles under the repair order above.** Unmerge candidates first.
+   The five remaining cycles of length >= 20 are all Roman, sharing the Q61957/Q62255/
+   Q63192/Q63747/Q70152/Q138467 stretch — likely the same repeating-cognomen collision that
+   produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
+   delete.
 
-5. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
+4. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
    edges are declared on both sides (parent `P20` and child `P47`/`P48`), but 2,325 are
    parent-side only and 2,398 child-side only. `edges.tsv` is built from the union, so a
    half-declared edge still reads as real and any one-sided repair silently fails — this is

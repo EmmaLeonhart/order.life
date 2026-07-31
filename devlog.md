@@ -2,6 +2,39 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-07-31
+
+- **The three long Iberian cycles are gone. 74 records freed; the Heracles join survives.**
+
+  The queue item said "unmerge/dedupe — do NOT cut", on my own earlier reading that
+  `Barbara`/`Bárbara` and `Proba`/`Proba Rogas` were accented duplicate pairs. **That
+  reading was wrong.** Their actual claims:
+
+      Q99597 Bárbara: father=Q99607 (which is Q82122's spouse), mother=Q82122
+      Q99558 Proba Rogas: father=Q99575 (Q99573's spouse), mother=Q99573
+
+  Every one is a mother-and-daughter pair with the father correctly recorded as the
+  mother's spouse — daughters named after mothers, which is ordinary. Merging them would
+  have collapsed real generations out of the line. Another instance of reading a similar
+  name as a defect, in a repo where that assumption has been wrong every time.
+
+  With unmerge and dedupe genuinely inapplicable, the repair order licenses a cut. The edge
+  is `Q81339 Antonio Ambrosio de Aguiar Coutinho -> Q82122 Barbara, imperatriz of Rome`:
+  it appears in all three long cycles, and it is the only edge running against the chain's
+  direction — everything else descends **from** Heracles **to** the de Aguiar family, while
+  this one makes a Portuguese noble the father of a Roman empress.
+
+  Checked before applying, not after: with the edge removed, Heracles Q99544 is still an
+  ancestor of de Aguiar Q79582. Confirmed again on the regenerated extract. The
+  cross-tradition join — the reason the chain exists at all — is untouched, and Q81339
+  keeps its other eight children.
+
+  Removed from both P20 and P47, propagated to 2 shadows. Result: records in a cycle
+  **379 -> 305**, largest component **88 -> 73**, zero cycles still touching the
+  Iberian/Heracles stretch, invariants PASS. All five remaining cycles of length >= 20 are
+  Roman.
+
+
 ## 2026-07-30
 
 - **Wired the gates to a pre-commit hook, and tested that it actually blocks.**
