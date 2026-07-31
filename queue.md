@@ -60,15 +60,13 @@ the wrong metric and must not be used to rank repairs.
    If the three are one man, merge all three; if Q73167 is Cato's father or his son
    Licinianus, one of the two edges is simply wrong. Decide which, then apply.
 
-2. **Reproduce the Cato 2-cycle before trusting any merge precondition.** Merging Q73005
-   into Q148133 produced `Q148133 <-> Q73167`. The devlog previously stated the mechanism
-   was "Q73005 had Q73167 as a child while Q73167 had Q148133 as a child" — **that is
-   wrong**: in the current extract Q73167 has NO children and Q148133 has NO parents. An
-   ancestor/descendant precondition built on that story returned False for the very case it
-   was written for, so it was removed rather than shipped as false confidence. Reproduce the
-   merge on a scratch copy, regenerate, and find the actual edge that closes the loop —
-   likely something about how `save(b, load(a))` interacts with redirect canonicalisation.
-   Only then write the precondition. Until then, `check_invariants.py` is the gate.
+2. **Audit shadow files dump-wide.** Found 2026-07-30. **39,533 qids are claimed by more
+   than one file** (57,410 shadow files), and `extract_genealogy.py` keeps only the first
+   file it sees per qid — so which claims survive depends on filename order, and shadows
+   routinely carry claims the canonical file lacks. This is not merge-specific: it means the
+   graph today already reflects arbitrary winners. Quantify how many shadows disagree with
+   their canonical record on P20/P47/P48, and how many edges hang on a coin-flip. Do NOT
+   mass-resolve — report first, then decide with Emma which side wins.
 
 3. **Unmerge/dedupe the long Iberian chains — do NOT cut them.** Seven of the eight cycles
    of length >= 20 run through one twelve-edge stretch of the Portuguese de Aguiar family

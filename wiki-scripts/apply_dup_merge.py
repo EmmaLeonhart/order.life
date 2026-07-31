@@ -11,11 +11,24 @@ canonicalises every edge citing the source to the target. So merging B into A is
     2. rewrite B.json as a copy of A's content, keeping id = A
 No file is deleted, no claim is dropped, and git reverts it cleanly.
 
-WARNING: this script has NO induced-cycle precondition. Merging Q73005 into Q148133
-produced a 2-cycle that none of its checks predicted, and an attempt to add such a check
-failed to reproduce the case -- Q73167 has no children and Q148133 has no parents, so the
-obvious ancestor/descendant test finds nothing. Until the mechanism is reproduced, run
-wiki-scripts/check_invariants.py before and after every merge and revert on any regression.
+SHADOW FILES -- the mechanism that made the Cato merge produce a cycle, now understood.
+
+Many qids are claimed by SEVERAL files: 39,533 of them, by 57,410 shadow files in total.
+extract_genealogy.py keeps only the FIRST file it sees per qid ("if qid in seen_ids:
+continue") and silently discards the rest -- so which claims survive depends on filename
+order. Shadow files often carry claims the canonical file does NOT have.
+
+Merging B into A rewrites B.json to id=A, which REMOVES B from the contest for qid=B. A
+shadow then wins it and injects its own claims. That is exactly what happened with Cato:
+canonical Q73005.json had P47=[], but five shadows (Q87608, Q99390, Q111052, Q185613,
+Q185617) all carry P47=['Q73167']. Once Q73005.json became a redirect, one of those won,
+the edge Q73167->Q73005 appeared, canonicalisation rewrote it to Q73167->Q148133, and the
+2-cycle closed. No ancestor/descendant precondition could have seen it, because the edge
+did not exist in the graph beforehand.
+
+THE FIX: when merging B into A, repoint every shadow of B at A as well, so qid=B is not
+left vacant for a shadow to claim. Claims held only by shadows are REPORTED, never
+silently absorbed. 31 of the 35 duplicate pairs have a shadow on one side or the other.
 
 SCOPE: only pairs whose parent sets do not conflict. Of the 35, 26 have differing parents,
 but 21 of those differ only because the PARENTS are themselves duplicates (8 are a known
@@ -71,6 +84,31 @@ def vals(d, pid):
     return out
 
 
+
+def shadows():
+    """qid -> [files that also claim it]. Built from the extractor's own redirect map."""
+    out = collections.defaultdict(list)
+    path = ROOT / "wikibase" / "analysis" / "redirects.tsv"
+    if path.exists():
+        with open(path, encoding="utf-8") as f:
+            for r in csv.DictReader(f, delimiter="	"):
+                out[r["to_qid"]].append(r["from_qid"])
+    return out
+
+
+def shadow_claims(qid, shad, canonical):
+    """Claims held by a shadow of `qid` that the canonical record does not have."""
+    extra = collections.defaultdict(set)
+    for src in shad.get(qid, ()):
+        d = load(src)
+        if not d:
+            continue
+        for p in ("P20", "P47", "P48"):
+            for v in vals(d, p):
+                if v not in set(vals(canonical, p)):
+                    extra[p].add(v)
+    return {p: sorted(v) for p, v in extra.items() if v}
+
 def pairs():
     rows = list(csv.DictReader(open(AUDIT, encoding="utf-8"), delimiter="\t"))
     by = collections.defaultdict(list)
@@ -85,6 +123,7 @@ def main():
     sys.stdout.reconfigure(encoding="utf-8")
     write = "--write" in sys.argv
 
+    SHAD = shadows()
     plan, skipped = [], []
     for g in pairs():
         x, y = g[0]["qid"], g[1]["qid"]
@@ -104,10 +143,10 @@ def main():
         wx = sum(len(vals(dx, p)) for p in GEN_PROPS)
         wy = sum(len(vals(dy, p)) for p in GEN_PROPS)
         a, b = (x, y) if (wx, -int(y[1:])) >= (wy, -int(x[1:])) else (y, x)
-        plan.append((a, b, g[0]["wikidata_qid"], g[0]["label"]))
+        plan.append((a, b, g[0]["wikidata_qid"], g[0]["label"], shadow_claims(b, SHAD, dx if b == x else dy)))
 
     print(f"{len(plan)} pair(s) mergeable now, {len(skipped)} deferred\n")
-    for a, b, wd, label in plan:
+    for a, b, wd, label, dormant in plan:
         da, db = load(a), load(b)
         gained = {p: sorted(set(vals(db, p)) - set(vals(da, p))) for p in GEN_PROPS}
         gained = {p: v for p, v in gained.items() if v}
@@ -117,6 +156,9 @@ def main():
                 print(f"        survivor gains {p}: {v}")
         else:
             print("        survivor gains nothing; duplicate is a strict subset")
+        if dormant:
+            print(f"        !! {b} has shadow files carrying claims it does not: {dormant}")
+            print(f"        !! these are NOT absorbed; shadows are repointed at {a} instead")
 
     if not write:
         print("\nDRY RUN. Re-run with --write to apply.")
@@ -149,12 +191,20 @@ def main():
         save(a, da)
         after = {p: len(vals(load(a), p)) for p in GEN_PROPS}
         # rewrite B as a redirect: a copy of A's content, id already == a
-        save(b, load(a))
-        print(f"  {b} -> {a}: {before} -> {after}")
+        merged_a = load(a)
+        save(b, merged_a)
+        # and repoint every shadow of B, so qid=b is not left vacant for one to claim
+        n_shadow = 0
+        for src in SHAD.get(b, ()):
+            if (ITEMS / f"{src}.json").exists():
+                save(src, merged_a)
+                n_shadow += 1
+        print(f"  {b} -> {a}: {before} -> {after}"
+              + (f"  (+{n_shadow} shadow file(s) repointed)" if n_shadow else ""))
 
     print("\nverifying no genealogical claim was lost...")
     ok = True
-    for a, b, wd, label in plan:
+    for a, b, wd, label, dormant in plan:
         da, db = load(a), load(b)
         if db.get("id") != a:
             print(f"  FAIL {b}: internal id is {db.get('id')}, expected {a}")

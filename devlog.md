@@ -4,6 +4,41 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-30
 
+- **Reproduced the Cato cycle. The cause is shadow files, and it is systemic.**
+
+  I had twice asserted a mechanism for this cycle and been wrong twice, so this time I
+  re-applied the merge, regenerated, and read the edges.
+
+  **39,533 qids in this dump are claimed by more than one file — 57,410 shadow files.**
+  `extract_genealogy.py` keeps only the first file it sees per qid (`if qid in seen_ids:
+  continue`) and silently drops the rest, so which claims survive depends on filename
+  order. Shadows routinely carry claims the canonical file does not have.
+
+  Canonical `Q73005.json` had `P47=[]`. Five shadows — Q87608, Q99390, Q111052, Q185613,
+  Q185617 — all carry `P47=['Q73167']`. While Q73005.json was canonical it won the contest
+  and those were suppressed. Merging rewrote it to `id=Q148133`, which **removed it from
+  the contest for qid Q73005**; a shadow won instead, injected `Q73167 -> Q73005`, and
+  canonicalisation rewrote that onto Q148133. The loop closed. No ancestor/descendant
+  precondition could have caught it — the edge did not exist beforehand, which is exactly
+  why my earlier check returned False on its own test case.
+
+  **The fix is structural:** when redirecting B into A, repoint B's shadows too, so no qid
+  is left vacant. Wired into `apply_dup_merge.py`; claims held only by shadows are reported,
+  never silently absorbed. 31 of the 35 duplicate pairs have a shadow on one side.
+
+  **And there was live damage from the earlier commit.** 5 of the 8 merges in `31d1c8c6a`
+  left vacated qids with shadows still claiming them — Q120943, Q121094, Q116586, Q122928,
+  Q90525. Q122928 was injecting `P47=['Q111221']`. All five repointed.
+
+  Verified: invariants identical to baseline — 38 tangled components, 379 records, largest
+  88, 0 self-loops. Worth noting the cycle *basis* moved 49 -> 53 across the same change
+  while the SCC count did not move at all. That is the metric doing its job; the basis
+  count is noise and I spent much of today quoting it.
+
+  Queued the obvious follow-on: this is not merge-specific. The graph as it stands already
+  reflects arbitrary filename-order winners across 39,533 qids.
+
+
 - **Built the standing invariant gate. Tried to build a merge precondition, failed to
   validate it, and threw it away.**
 
