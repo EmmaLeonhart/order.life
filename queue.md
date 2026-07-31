@@ -58,10 +58,25 @@ canonical file alone leaves stale shadows that silently revert the fix if that f
 vacated. After editing any record, rewrite every file claiming its qid. `shadow_audit.py`
 reports disagreements; it must stay at **0**.
 
-**MERGE DIRECTION — always merge INTO the side that has shadows.** Vacating a shadowed qid
-lets a shadow win it and inject its claims; that is what produced the phantom Cato 2-cycle
-out of a graph that never contained the edge. Check `redirects.tsv` for both sides before
-choosing a survivor. Worked example: `wikibase/analysis/cato_cluster_resolved.md`.
+**MERGE DIRECTION — after a merge, NO file may still claim the loser's qid.** Vacating a
+qid some file still claims lets that file win it and inject its claims; that is what
+produced the phantom Cato 2-cycle out of a graph that never contained the edge. Worked
+example: `wikibase/analysis/cato_cluster_resolved.md`.
+This was first written as "always merge INTO the side that has shadows", which is a proxy
+for the real invariant and a bad one: it forbade `Q72434`/`Q72514`, where **both** sides
+have shadows, even though repointing makes either direction safe. `merge_cluster.py` now
+rewrites every shadow of both sides and then **sweeps all 164k files** asserting nothing
+still resolves to a vacated qid. Prefer the lower QID as survivor by convention, not
+because the higher one is unsafe.
+
+**A MERGE MUST CARRY THE WHOLE RECORD, not just the genealogy.** The loser's file becomes a
+copy of the survivor, so any property only the loser held is gone from the dump. The first
+ten merges of 2026-07-31 unioned only `P20/P42/P47/P48/P61` and silently dropped **38
+properties** — external ids and, worse, `P56`/`P57` birth and death dates on six people.
+They were reported as "strictly additive"; that was true of the graph and not of the
+records. Restored by `wiki-scripts/backfill_merged_properties.py`; `merge_cluster.py` now
+carries every property the survivor lacks and reports, rather than guesses at, the ones
+where both sides differ.
 
 **COUNT TANGLES, NOT CYCLES.** `dump_qa_errors.py` used to iterate `set`s of qid strings,
 so Python's per-process hash randomisation changed which cycles its DFS found on every run
@@ -71,7 +86,7 @@ number in this file, `devlog.md`, `HANDOFF.md` and `GENEALOGY_QA.md` predating 2
 is unsound, including the `52 -> 54`.** Fixed 2026-07-31: it now emits one canonical
 shortest cycle per strongly connected component, deterministically (five runs byte-identical),
 and its totals match `check_invariants.py`'s independent Tarjan. The well-defined quantity is
-the **tangle** (an SCC of size > 1) — 36 of them, holding 299 records. Verify repairs against
+the **tangle** (an SCC of size > 1) — **35** of them, holding **296** records. Verify repairs against
 `tangled_components` / `records_in_a_cycle`, never against a cycle count.
 
 **HOW TO VERIFY A REPAIR.** Snapshot `edges.tsv` first, make the change, regenerate, then
@@ -79,8 +94,8 @@ the **tangle** (an SCC of size > 1) — 36 of them, holding 299 records. Verify 
 introduced, removed, or reshaped, and which records entered or left a tangle — so a repair
 that keeps the counts equal while moving records between tangles still shows up. Exits
 non-zero if anything was introduced. Merges go through `wiki-scripts/merge_cluster.py
-<cluster>`, which enforces the merge-direction rule above and refuses a pair whose loser has
-shadows.
+<cluster>`, which enforces both merge rules above and verifies them against what actually
+happened on disk, not against the inputs.
 
 **WIKIDATA IS THE REFERENCE, NOT GOSPEL.** `qa_cycles_vs_wikidata.tsv` returns
 `contradicted` for 16 distinct edges, but in 15 of them the detail reads *"Wikidata records
@@ -93,21 +108,42 @@ genealogy exists to make. They are listed in `PROTECTED` in
 Only *"the link the other way round"* — Wikidata recording the same pair with parent and
 child swapped — is treated as decisive.
 
-1. **Dedupe the Aemilii Lepidi pair, and relax `merge_cluster.py`'s precondition to allow
-   it.** `qa_tangle_repairs.md` ranks this DEDUPE above every remaining tangle: **Q72434
-   and Q72514 both carry `wd Q435329`** (Marcus Aemilius Lepidus, cos. 78 BC), share the
-   spouse Q72517 Appuleia and four children, and sit inside the largest Roman tangle
-   reachable this way (19 records, head Q72434).
-   **Blocked on a guard I wrote too strictly on 2026-07-31:** `merge_cluster.py` refuses
-   any pair whose *loser* has shadow files, and here **both** sides do (Q72434 →
-   Q87226/Q185444, Q72514 → Q87280). The refusal is a proxy for the real invariant, and a
-   redundant one — the tool already rewrites every shadow of the loser in the same pass, so
-   the loser's qid is never left vacant for a shadow to claim. Replace the input-side
-   refusal with the **outcome-side** check: after the merge, assert that *no file anywhere
-   still claims the loser's qid*. That is strictly stronger than what it does now. Do not
-   simply delete the guard.
+1. **Cut `Q73893 → Q73794`, the edge that actually closes the 18-record Roman tangle.**
+   Now the top item: the Lepidi dedupe shrank that tangle but could not break it, because
+   the loop does not run through the duplicate. It runs
+   `Q73893 → Q73794 → Q73692 → Q73569 → Q73443 → Q73293 → Q73128 → Q72957 → Q72801 →
+   Q72786 → Q72693 → Q72434 → Q73893`.
+   `Q73893` is **Lucius Cornelius Scipio Asiaticus Aemilianus** (wd Q7234050), consul
+   83 BC, an Aemilius by birth — which is why he is correctly a child of the Lepidus
+   record. But he is recorded as the *father* of `Q73794` Gnaeus Cornelius Scipio, who is
+   the father of `Q73692` Scipio Barbatus, consul **298 BC**. That is roughly 270 years
+   backwards. `qa_cycles_vs_wikidata.tsv` also returns `contradicted` for this edge.
+   This is the repeating-cognomen collision item 2 predicted: the ancient Scipiones were
+   hung under a 1st-century Scipio because both are "Cornelius Scipio". UNMERGE and DEDUPE
+   do not apply — Q73893 is one real man, not two — and the edge joins no traditions, so
+   CUT is correct under the repair order. **Verify the chronology from the item files
+   first** (the dump stores many BC dates unsigned; see GENEALOGY_QA.md), then remove it
+   from both sides: `Q73893`'s `P20` and `Q73794`'s `P47`.
 
-2. **Work the remaining cycles under the repair order above.** Start from
+2. **Merge `Q72615` / `Q72693`, both "Quintus Aemilius Lepidus".** Both are children of
+   `Q72786` and both are recorded as fathers of the merged `Q72434` — one man cannot have
+   two fathers who are the same person. `Q72693` carries `wd Q11944252`; `Q72615` carries
+   none, which is a gap and not a conflict. **`propose_tangle_repairs.py` will not surface
+   this**, because its DEDUPE detector keys on a *shared* Wikidata id and here only one
+   side has one. Worth teaching it the identical-label-plus-shared-parent signal too.
+   Note `Q72693` itself has two fathers (`Q72786`, `Q144279` wd Q3625112) — settle that
+   before or during, don't union it blind.
+
+3. **`Q72786` is its own father AND its own child, and the gate cannot see it.**
+   `wikibase/items/Q72786.json` lists `Q72786` in both `P47` and `P20`, and it has
+   **11 shadow files**. `check_invariants.py`'s I2 says "self-loops must be zero, always"
+   and reports 0 — but with its default `--source tsv` it reads `edges.tsv`, and
+   `extract_genealogy.py` drops self-edges at line 186 (`canon(a) != canon(b)`). **I2 is
+   vacuous on the default source and can never fail.** Fix the gate first — have the
+   extractor write the self-edges it drops to `qa_self_edges.tsv` and have I2 read that —
+   then repair whatever it turns up. A record being its own parent needs no adjudication.
+
+4. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
    34 are `REVIEW`: no Wikidata evidence decides them, mostly because "contradicted" there
    means *Wikidata records no link*, which is an absence and not a refutation. Unmerge
@@ -117,7 +153,7 @@ child swapped — is treated as decisive.
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-3. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
+5. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
    edges are declared on both sides (parent `P20` and child `P47`/`P48`), but 2,325 are
    parent-side only and 2,398 child-side only. `edges.tsv` is built from the union, so a
    half-declared edge still reads as real and any one-sided repair silently fails — this is

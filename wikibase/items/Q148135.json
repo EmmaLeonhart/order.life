@@ -269,6 +269,88 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P1819": [
+      {
+        "id": "Q148135$4BCFBC19-5DF1-4D22-B254-7BC2719EBE5A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716790"
+          },
+          "hash": "cc95091b62d2a0444f97b0e323f69a16a99928bf",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148135$80AFEF5C-EE89-44F6-AD95-D9EDAF1C7507",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus_Porcius_Cato_Licinianus_(1)"
+          },
+          "hash": "8f8ec9cdd3d34353a3cb271f6c03c1aec265a9af",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148135$5B893C16-77FA-48B4-9D38-7BD52654BB83",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0192-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "72643fd20099bb874b9b1ee2c0608318beb15adf",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148135$4A0D4F9A-F009-481A-B2E4-6C61F6EBB18B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0152-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2b80a7ea572b3872d6f2ba5018fd512ab3ace0b7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},

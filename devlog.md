@@ -4,6 +4,64 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **My ten merges today silently dropped 38 properties. Restored, and the tool fixed so it
+  cannot happen again.**
+
+  I reported those merges as "strictly additive". That was true of the **genealogy** and
+  not of the **records**, and I did not make the distinction. `merge_cluster.py` and
+  `apply_cato_cluster_merge.py` unioned only `P20/P42/P47/P48/P61` and then rewrote the
+  loser's file as a copy of the survivor — so any property only the loser held vanished
+  from the dump. Caught while dry-running the Lepidi merge and noticing the survivor
+  "gained nothing" even though the loser carried birth and death dates.
+
+  What was lost: external identifiers (`P1185` Rodovid, `P1819` Geni, `P4159`, `P6821`
+  Alvin, `P9495`, `P64`) and — the ones that matter — **`P56`/`P57` birth and death dates
+  on six people**, including Cato Salonianus, Cato Licinianus, Atilia and Porcia Catonis.
+  `edges.tsv` reads only the genealogical properties so the graph was never affected, but
+  `persons.tsv` carries dates, so six people quietly lost theirs.
+
+  All 38 restored from the pre-merge commit by the new
+  `wiki-scripts/backfill_merged_properties.py`, propagated to every claiming file. Three
+  properties where both sides differed (`P94` arms filenames) were left alone and reported
+  rather than guessed at. `merge_cluster.py` now carries over every property the survivor
+  lacks, and reports conflicts instead of resolving them.
+
+- **Aemilii Lepidi deduped; the guard I wrote this morning was wrong and is now
+  outcome-based.**
+
+  `Q72434` and `Q72514` both carry `wd Q435329` (Marcus Aemilius Lepidus, cos. 78 BC),
+  share the spouse Q72517 Appuleia and four children. **Both sides have shadow files**, so
+  the input-side guard — "the loser must have no shadows" — forbade the merge in either
+  direction. That guard was a proxy for the real invariant and a redundant one: the tool
+  already repoints every shadow of the loser in the same pass. Replaced with the
+  outcome-side assertion, which is strictly stronger — after the merge it **sweeps all
+  164,536 item files** and asserts that nothing still resolves to a vacated qid. Not
+  deleted, replaced.
+
+  Confirmation the merge was right: `children_over_2_parents` fell **1223 → 1218**. Five
+  children had literally the same man listed twice as a parent.
+  `compare_tangles.py`: the 19-record Roman tangle became 18, losing exactly `Q72514`,
+  with **0 records newly inside a tangle**. Tangles 35, records in a tangle 297 → 296.
+
+- **Two defects found in the same tangle, both queued rather than rushed.**
+
+  `Q73893 → Q73794` is what actually closes that 18-record loop, and it is ~270 years
+  backwards: Lucius Cornelius Scipio Asiaticus Aemilianus (cos. 83 BC) is recorded as the
+  father of the Gnaeus Cornelius Scipio who fathered Scipio Barbatus (cos. **298 BC**).
+  The repeating-cognomen collision the queue predicted. Queued with the chronology to
+  verify from the item files first, since this dump stores many BC dates unsigned.
+
+  And **`Q72786` is its own father and its own child** — with 11 shadow files.
+  `check_invariants.py` reports `self_loops: 0` and always will: its default `--source tsv`
+  reads `edges.tsv`, and `extract_genealogy.py` drops self-edges at extraction. **I2 is
+  vacuous on the default source and cannot fail.** Queued to fix the gate before the data.
+
+- **The 81 unread files are explained.** `shadow_audit.py` reads 164,455 of 164,536, a gap
+  I have been carrying as unexplained for three status reports. Scanned every file: **0 are
+  unparseable — exactly 81 contain the literal JSON `null`.** Empty placeholders, skipped by
+  design by both the extractor and the audit via `isinstance(data, dict)`. Nothing to
+  repair, and nobody needs to investigate it again.
+
 - **Wikidata cross-check folded into the cycle proposals — and the fold immediately paid
   for itself: one tangle gone, 36 → 35.**
 

@@ -11,13 +11,21 @@ remember.
 
 THE TWO RULES THIS ENFORCES
 
-1. **Merge INTO the side that has shadow files.** 39,527 qids in this dump are claimed by
-   more than one file and extract_genealogy.py keeps only the numerically-lowest. Merging
-   B into A rewrites B.json to id=A, which VACATES qid B -- and if B has shadows, one of
-   them immediately wins the vacancy and injects its own claims. That is how the phantom
-   Q148133 <-> Q73167 2-cycle appeared out of a graph that never contained the edge. So
-   the survivor must be the side that has shadows, and the loser the side that has none.
-   The tool refuses to run a pair that violates this.
+1. **No file may still claim the loser's qid afterwards.** 39,527 qids in this dump are
+   claimed by more than one file and extract_genealogy.py keeps only the numerically-lowest.
+   Merging B into A rewrites B.json to id=A, which VACATES qid B -- and if any file still
+   claims B, it wins the vacancy and injects its own claims. That is how the phantom
+   Q148133 <-> Q73167 2-cycle appeared out of a graph that never contained the edge.
+
+   This was first written as an input-side refusal -- "the loser must have no shadows" --
+   which was the wrong guard twice over. It is a proxy for the real invariant, and a
+   redundant one, because the tool already rewrites every shadow of the loser in the same
+   pass. It also forbade safe merges outright: Q72434/Q72514 (Marcus Aemilius Lepidus, both
+   carrying wd Q435329) have shadows on BOTH sides and could not be merged in either
+   direction. Replaced 2026-07-31 with the outcome-side assertion below, which is strictly
+   stronger: after the merge, no file anywhere may still resolve to the loser's qid. A
+   loser shadow that cannot be rewritten is still a hard abort, but now it is checked
+   against what actually happened rather than guessed from the inputs.
 
 2. **Rewrite every file claiming either qid, not just the canonical one.** An edit to the
    canonical file alone is silently reverted the moment it stops being the lowest
@@ -76,6 +84,23 @@ CLUSTERS = {
     # (wd Q104224002, "Calpurnius Bibulus") are both sons of Q78066 who land on the merged
     # Porcia; they are plausibly one man but carry different Wikidata items, so merging
     # them would be a guess.
+    # queue.md item 1 (2026-07-31). qa_tangle_repairs.md ranked this the top DEDUPE:
+    # Q72434 and Q72514 both carry wd Q435329 (Marcus Aemilius Lepidus, cos. 78 BC), share
+    # the spouse Q72517 Appuleia, and share four of their children outright. Q72434 also
+    # holds Q72251 and the birth/death dates -120/-77, which match the consul of 78.
+    #
+    # This is the pair that exposed the old input-side guard as wrong: BOTH sides have
+    # shadow files (Q72434 -> Q87226, Q185444; Q72514 -> Q87280), so no direction was
+    # permitted, even though repointing makes either direction safe. Survivor is the lower
+    # QID, which also carries strictly more claims.
+    #
+    # NOT a cascade like the Cato cluster: Q72514's apparently-extra child Q141448 is
+    # already a shadow file of Q73893, so it canonicalises to a child Q72434 already has.
+    # The survivor gains nothing and simply absorbs a duplicate node.
+    "lepidi": [
+        ("Q72434", "Q72514", "Marcus Aemilius Lepidus cos. 78 BC -- both carry wd Q435329, "
+                             "both married to Q72517 Appuleia, four shared children"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "
@@ -163,16 +188,19 @@ def main():
     merges = CLUSTERS[name]
     shad = shadows()
 
-    # Rule 1, enforced: survivor must have shadows, loser must have none.
+    # Rule 1 precondition: every file that claims the loser must exist and be rewritable,
+    # so that after the pass nothing is left claiming the vacated qid. The check that it
+    # actually worked is in the verify step, which is the guard that matters.
     problems = []
     for surv, loser, _ in merges:
         for q in (surv, loser):
             if load(q) is None:
                 problems.append(f"{q}: no item file")
-        if shad.get(loser):
-            problems.append(
-                f"{loser} has shadow files {shad[loser]} -- merging it away vacates a "
-                f"shadowed qid, which injects claims. Reverse the pair or repoint first.")
+        for s in shad.get(loser, ()):
+            if not (ITEMS / f"{s}.json").exists():
+                problems.append(
+                    f"{loser} has shadow {s} with no file on disk -- it cannot be "
+                    f"repointed, so qid {loser} would be left claimable. Aborting.")
     if problems:
         print("ABORT -- preconditions failed:")
         for p in problems:
@@ -214,6 +242,7 @@ def main():
         return 0
 
     print("\napplying...")
+    carried, conflicts = {}, {}
     for surv, loser, _ in merges:
         ds, dl = load(surv), load(loser)
         before = {p: len(vals(ds, p)) for p in GEN_PROPS}
@@ -236,6 +265,26 @@ def main():
                         continue
                 ds.setdefault("claims", {}).setdefault(p, []).append(c)
                 have.add(key)
+
+        # Carry over everything else the survivor does not have at all. GEN_PROPS alone is
+        # not enough: the loser's file becomes a copy of the survivor, so any property only
+        # it held is gone from the dump. The first ten merges of 2026-07-31 dropped 38
+        # properties this way -- external ids (P1185 Rodovid, P1819 Geni, P4159, P6821,
+        # P9495) and, worse, P56/P57 birth and death dates on six records. Those merges
+        # were described as "strictly additive"; that was true of the genealogy and not of
+        # the records. Where BOTH sides hold a property, the survivor's value stands and
+        # the difference is reported rather than guessed at.
+        for p, cl in (dl.get("claims") or {}).items():
+            if p in GEN_PROPS:
+                continue
+            if p not in (ds.get("claims") or {}):
+                ds.setdefault("claims", {})[p] = json.loads(json.dumps(cl))
+                carried.setdefault(surv, []).append(p)
+            else:
+                a = sorted(str(v) for v in vals(ds, p))
+                b = sorted(str(v) for v in vals(dl, p))
+                if a != b:
+                    conflicts.setdefault(surv, []).append((p, a, b))
 
         for p in GEN_PROPS:
             kept, seen = [], set()
@@ -265,8 +314,49 @@ def main():
                 n += 1
         print(f"  {loser} -> {surv}: {before} -> {after}  ({n} file(s) rewritten)")
 
+    if carried:
+        print("\nnon-genealogical properties carried over from the loser:")
+        for q, ps in sorted(carried.items()):
+            print(f"  {q}: {', '.join(sorted(ps))}")
+    if conflicts:
+        print("\nboth sides held these and DIFFER -- survivor's value kept, not merged:")
+        for q, cs in sorted(conflicts.items()):
+            for p, a, b in cs:
+                print(f"  {q} {p}: survivor {a} vs loser {b}")
+
     print("\nverifying...")
     ok = True
+    # THE load-bearing check: sweep every item file and assert that nothing anywhere still
+    # resolves to a merged-away qid. This is what the old input-side refusal was standing
+    # in for, and unlike that refusal it catches a claimant the redirect map did not know
+    # about. It reads all 164k filenames but only opens the ones that could matter.
+    losers = {loser for _, loser, _ in merges}
+    stragglers, unreadable = [], 0
+    for path in ITEMS.glob("Q*.json"):
+        try:
+            d = json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            unreadable += 1
+            continue
+        # Some files in this dump hold valid JSON that is not an object (extract_
+        # genealogy.py skips them the same way). They cannot claim a qid, so they cannot
+        # be a straggler, but they are counted so the sweep does not look complete when
+        # part of the directory was silently skipped.
+        if not isinstance(d, dict):
+            unreadable += 1
+            continue
+        if (d.get("id") or path.stem) in losers:
+            stragglers.append(path.stem)
+    if unreadable:
+        print(f"  note: {unreadable} file(s) were not readable as a JSON object and were "
+              f"not checked")
+    if stragglers:
+        print(f"  FAIL: {len(stragglers)} file(s) still claim a merged-away qid: "
+              f"{', '.join(sorted(stragglers)[:10])}")
+        ok = False
+    else:
+        print(f"  no file claims any of the {len(losers)} vacated qid(s)")
+
     for surv, loser, _ in merges:
         for f in [surv, loser] + list(shad.get(loser, ())) + list(shad.get(surv, ())):
             d = load(f)

@@ -264,6 +264,105 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P1819": [
+      {
+        "id": "Q144042$9074D3E3-B59D-4A15-9E98-F674D64126D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716795"
+          },
+          "hash": "8791ef0b76936435029e3c53ee3ef7ba2bbd539e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q144042$4E459E98-1EAB-4AF8-818C-8959CBFA0952",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Porcia_Catonis_(1)"
+          },
+          "hash": "7f91f660b3a12ab58ca2c4bc93a223176178841f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144042$211908D2-9CC4-4A67-9539-B207724FEDD9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144042$968FFA95-27E7-4A5A-A438-473EDC90B85D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0043-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fecb8ad9ad1a27d4044497a5512d95c0951a93e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q144042$9156B790-677E-4B24-A6FC-AB9A9F565076",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Porcia"
+          },
+          "hash": "25a1fdd51275759c012ce15c2db08b8802062b9b",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
