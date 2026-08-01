@@ -4,6 +4,44 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **Built the parallel-import signal, and it immediately refused the merge I had queued.**
+
+  Queue item 2 asked for a third duplicate signal: *same label + same parents + a
+  same-labelled spouse or child under a different qid* -- the parallel-subtree shape, where
+  nothing below a pair is shared by identity because the whole branch was imported twice.
+  Both existing signals require a shared *record*, so neither can see it.
+
+  Built it with a guard, and the guard is the part that mattered. **A parallel subtree has
+  to be merged as a cascade**, twins included, or the survivor inherits duplicate relatives.
+  So every twin pair is checked first, and a **strictly one-way ancestry relation** between
+  any of them means the "duplicate" is really an ancestor of its twin.
+
+  **`Julia Livia` fails that check, and my queue entry for it was wrong.** I had written
+  that the spouse and child pairs "have to be merged with it". They must not be:
+  `Q139688` "Gaius Rubellius Blandus" is the **great-grandfather** of `Q70718` of the same
+  name via `Q72338` -> `Q71628`, and `Q70152` "Rubellia Bassa" is an ancestor of `Q139691`
+  of the same name. That is a real repeating-cognomen line -- the signature `queue.md` warns
+  is behind the long Roman tangles -- and the cascade would have collapsed three generations
+  of Rubellii. New `GENERATION-COLLAPSE` verdict, ranked second so it is read before the
+  DEDUPE-CANDIDATE sitting under the same evidence.
+
+  **The guard's subtlety, which took a wrong first draft to see: inside a tangle every pair
+  is mutually reachable**, so a naive "is one an ancestor of the other?" test fires on
+  everything and means nothing -- it would have blocked every dedupe this tool exists to
+  find. Only a strictly one-way relation is informative; `mutual` is documented as the
+  uninformative case.
+
+  **Three test expectations were wrong before the code was.** I asserted the Julia Livia
+  direction backwards; assumed Aster `Q1` would be unrelated to a random record when it is
+  the ancestor of nearly everything; and assumed Aditi and Diti, both children of Daksha,
+  were unrelated siblings -- Aditi reaches Diti through Surya -> Yama -> ... -> Prachetas ->
+  Daksha, which is precisely the cycle that makes them a tangle. Each time I traced the
+  actual path rather than adjusting the code to match the guess. The `none` case is now
+  found by search instead of by assumption, and reports which pair it used.
+
+- **`shadow_audit` refreshed after the three merges -- 0 disagreements dump-wide**, closing
+  the caveat the last status report carried.
+
 - **Applied the two dedupes the new detector found. First repairs in this repo found by a
   tool rather than by hand.**
 

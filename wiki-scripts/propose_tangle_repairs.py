@@ -35,6 +35,7 @@ direction rather than an absence of evidence.
 import collections
 import csv
 import sys
+from collections import deque
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -120,6 +121,72 @@ def main():
         children_of[p].add(c)
         parents_of[c].add(p)
 
+    spouse_of = collections.defaultdict(set)
+    for r in read_tsv("spouses.tsv"):
+        a, b = r.get("a"), r.get("b")
+        if a and b and a != b:
+            spouse_of[a].add(b)
+            spouse_of[b].add(a)
+
+    _anc = {}
+
+    def ancestors(q):
+        if q not in _anc:
+            seen, dq = set(), deque([q])
+            while dq:
+                x = dq.popleft()
+                for p in parents_of.get(x, ()):
+                    if p not in seen:
+                        seen.add(p)
+                        dq.append(p)
+            _anc[q] = seen
+        return _anc[q]
+
+    def ancestry_relation(a, b):
+        """'mutual' | 'none' | 'a<b' (b is an ancestor of a) | 'b<a'.
+
+        MUTUAL IS THE UNINFORMATIVE CASE AND MUST NOT BE READ AS A COLLAPSE. Two records
+        in the same strongly connected component reach each other by definition, so inside
+        a tangle -- which is the only place this tool looks -- every pair is mutual. A
+        naive "is one an ancestor of the other?" guard would therefore fire on everything
+        and mean nothing.
+
+        The informative case is STRICTLY ONE-WAY: A reaches B and B does not reach A. Then
+        the two records sit in different components with a real chain of generations
+        between them, and merging them does not remove a duplicate -- it collapses that
+        chain. Found 2026-07-31 in the Julia Livia cascade, where "Gaius Rubellius Blandus"
+        Q139688 is the great-grandfather of "Gaius Rubellius Blandus" Q70718 through
+        Q72338 -> Q71628, a genuine repeating-cognomen line of the kind queue.md warns is
+        the signature of the long Roman tangles.
+        """
+        b_above_a = b in ancestors(a)
+        a_above_b = a in ancestors(b)
+        if b_above_a and a_above_b:
+            return "mutual"
+        if b_above_a:
+            return "a<b"
+        if a_above_b:
+            return "b<a"
+        return "none"
+
+    def parallel_twins(a, b):
+        """Same-labelled relatives of a and b that are DIFFERENT records.
+
+        The signature of a subtree imported twice: nothing is shared by identity, because
+        every relative was duplicated alongside the pair. Both other signals require a
+        shared record, so neither can see this at all.
+        """
+        out = []
+        for rel, amap in (("spouse", spouse_of), ("child", children_of)):
+            for x in sorted(amap.get(a, ()), key=qnum):
+                nx = norm_label(label.get(x, ""))
+                if not nx:
+                    continue
+                for y in sorted(amap.get(b, ()), key=qnum):
+                    if x != y and nx == norm_label(label.get(y, "")):
+                        out.append((rel, x, y))
+        return out
+
     tangles = []
     for r in read_tsv("qa_cycles.tsv"):
         if r.get("tangle_qids"):
@@ -193,6 +260,33 @@ def main():
                     elif rents:
                         label_shared_parent.setdefault(n, []).append((a, b, sorted(rents, key=qnum)))
 
+        # Signal 3, and the guard that decides what it means.
+        #
+        # A shared-parent pair whose spouses or children are duplicated under DIFFERENT qids
+        # is the parallel-subtree signature -- the whole branch was imported twice, so
+        # nothing below is shared by identity. On its own that would upgrade the pair from
+        # "suspicious" to "strong".
+        #
+        # It must not be upgraded blind. Merging a parallel subtree means merging the twin
+        # pairs too, or the survivor inherits duplicate spouses and children (the cascade
+        # rule the Porcii Catones and prachetas clusters both had to obey). So every twin
+        # pair is checked FIRST, and a strictly one-way ancestry relation between any of
+        # them means the "duplicate" is really an ancestor of its twin: merging would
+        # collapse generations, not remove a duplicate. That refuses the upgrade outright
+        # rather than proposing a cascade with a generation collapse inside it.
+        parallel, collapses = {}, []
+        for n, prs in label_shared_parent.items():
+            for a, b, _rents in prs:
+                twins = parallel_twins(a, b)
+                if not twins:
+                    continue
+                bad = [(rel, x, y, ancestry_relation(x, y)) for rel, x, y in twins
+                       if ancestry_relation(x, y) in ("a<b", "b<a")]
+                if bad:
+                    collapses.append((a, b, bad))
+                else:
+                    parallel.setdefault(n, []).append((a, b, twins))
+
         decisive = [e for e in internal
                     if verdict.get(e) == "contradicted"
                     and REVERSED in detail.get(e, "")
@@ -218,6 +312,34 @@ def main():
                 "identical labels, and a single record names BOTH of them as its parents -- "
                 "one man has one father, so the dump is stating the duplication about "
                 "itself: " + _pairs(label_shared_child))
+        elif collapses:
+            bits = []
+            for a, b, bad in collapses:
+                for rel, x, y, rel_kind in bad:
+                    hi, lo = (y, x) if rel_kind == "a<b" else (x, y)
+                    plural = {"spouse": "spouses", "child": "children"}[rel]
+                    bits.append(
+                        f"`{a}`/`{b}` “{label.get(a,'')}” look duplicate, but their "
+                        f"same-named {plural} `{x}`/`{y}` are NOT twins: `{hi}` is an "
+                        f"ANCESTOR of `{lo}`")
+            action, why = "GENERATION-COLLAPSE", (
+                "DO NOT MERGE THIS AS A DEDUPE. The pair carries the parallel-subtree "
+                "signature, but merging it requires merging the duplicated relatives too, "
+                "and at least one of those is an ancestor of its supposed twin -- a real "
+                "chain of generations, not a duplicate. This is a repeating-cognomen line, "
+                "which queue.md names as the signature of the long Roman tangles. Merging "
+                "would collapse it. " + "; ".join(bits))
+        elif parallel:
+            action, why = "DEDUPE", (
+                "identical labels, a shared parent, and spouses/children duplicated under "
+                "DIFFERENT qids -- the parallel-subtree signature, where nothing below is "
+                "shared by identity because the whole branch was imported twice. No twin "
+                "pair is a one-way ancestry relation, so this is a duplicate and not a "
+                "collapsed generation. MERGE AS A CASCADE, twins included, or the survivor "
+                "inherits duplicate relatives: "
+                + "; ".join(f"`{a}`/`{b}` “{label.get(a,'')}” twins "
+                            + ",".join(f"{rel} {x}~{y}" for rel, x, y in tw)
+                            for prs in parallel.values() for a, b, tw in prs))
         elif label_shared_parent:
             action, why = "DEDUPE-CANDIDATE", (
                 "identical labels on records sharing a parent, i.e. identically-named "
@@ -264,8 +386,10 @@ def main():
     # DEDUPE-CANDIDATE outranks CUT deliberately: cycle_policy.md's repair order puts
     # dedupe above cut, so an unconfirmed dedupe lead is still worth reading before
     # proposing to sever an edge.
-    order = {"DEDUPE": 0, "DEDUPE-CANDIDATE": 1, "CUT": 2, "REVIEW": 3,
-             "BLOCKED-UNMERGE": 4}
+    # GENERATION-COLLAPSE ranks second: it is not a repair, it is a refusal, and it needs
+    # reading before anyone acts on the DEDUPE-CANDIDATE sitting under the same evidence.
+    order = {"DEDUPE": 0, "GENERATION-COLLAPSE": 1, "DEDUPE-CANDIDATE": 2, "CUT": 3,
+             "REVIEW": 4, "BLOCKED-UNMERGE": 5}
     summaries.sort(key=lambda s: (order.get(s["action"], 9), -s["size"], qnum(s["head"])))
 
     with open(A / "qa_tangle_repairs.tsv", "w", encoding="utf-8", newline="") as f:

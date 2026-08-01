@@ -235,20 +235,28 @@ central command.
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-2. **Teach the detector the parallel-import signal it structurally cannot see.**
-   The two DEDUPEs it found were applied 2026-07-31 (`prachetas`, `metellus`). What is left
-   is the class it misses. `Q77386`/`Q138467` "Julia Livia" ranks only DEDUPE-CANDIDATE, yet:
-   identical labels, **identical parents by identity** (`Q77611` Drusus Julius Caesar +
-   `Q77614` Livilla), a husband named *Gaius Rubellius Blandus* on both — under **two
-   different QIDs** (`Q70718`, `Q139688`) — and a daughter *Rubellia Bassa* on both, again
-   under two QIDs (`Q70152`, `Q139691`).
+2. **The `Julia Livia` cascade is a GENERATION COLLAPSE, not a parallel import. Do not
+   merge it.** The detector now says so itself (`qa_tangle_repairs.md`, tangle `Q61565`).
 
-   **Nothing is shared by identity below them precisely because the whole subtree was
-   imported twice.** Both current signals require a shared *record*, so neither can fire.
-   The rule that would: *same label + same parents + a same-**labelled** spouse or child
-   under a different qid.* Note this one needs care — it is a cascade like `prachetas`, so
-   the spouse and child pairs have to be merged with it or the survivor inherits duplicate
-   relatives. Do not merge Julia Livia alone.
+   **This file had it wrong and the tool corrected it.** The previous version of this item
+   called the pair a parallel-subtree duplicate and said "the spouse and child pairs have to
+   be merged with it". They must not be. `Q77386`/`Q138467` "Julia Livia" do look duplicate
+   — identical labels, identical parents by identity — but the twins the cascade would drag
+   in are not twins at all:
+   - `Q139688` "Gaius Rubellius Blandus" is the **great-grandfather** of `Q70718` "Gaius
+     Rubellius Blandus", via `Q72338` → `Q71628`.
+   - `Q70152` "Rubellia Bassa" is an **ancestor** of `Q139691` "Rubellia Bassa".
+
+   That is a genuine repeating-cognomen line — the exact thing this file warns is the
+   signature of the long Roman tangles — and merging it would collapse three generations of
+   Rubellii into one record.
+
+   **What is actually open: which of the two Julia Livia records is real**, given only one
+   can hold that marriage. `Q138467` carries wd `Q266030`, four children and a second
+   husband (`Q138458` Nero Caesar); `Q77386` carries none of that. This is plausibly
+   UNMERGE-shaped rather than DEDUPE-shaped — the cycle runs through the Rubellius chain, so
+   start by asking whether `Q71628`'s parentage is right, not by merging the Julias.
+   **Measure depth first: this is inside the 72-record tangle, the largest in the dump.**
 
 3. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
