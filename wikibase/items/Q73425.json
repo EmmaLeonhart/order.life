@@ -1,9 +1,47 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pacuvius Calavius"
+      },
+      {
+        "language": "en",
+        "value": "Pacuvius Calavius Calavius"
+      },
+      {
+        "language": "en",
+        "value": "Pacuvius Calavius /Calavius/"
+      },
+      {
+        "language": "en",
+        "value": "Pacuvius Calavius  Calavius"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q73425$42E3FDC1-FA41-457E-AB46-FCC54602EE50",
+        "id": "Q73017$17C137D1-4709-4F11-8648-B645F2CF26A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72870",
+              "numeric-id": 72870
+            }
+          },
+          "hash": "0e5a3a24714e321ab6b5a6f8f3b5dfdc1c308e44",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73017$F5DBD4E2-F5C0-4839-B46E-604C9B8224DA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -20,11 +58,30 @@
         },
         "rank": "normal",
         "type": "statement"
+      },
+      {
+        "id": "Q73017$61A0DB19-08F8-4088-A31A-579158B95262",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78746",
+              "numeric-id": 78746
+            }
+          },
+          "hash": "3213408e0f474f8944d833898ba6f4c69ac521da",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
       }
     ],
     "P39": [
       {
-        "id": "Q73425$3C3FDE3D-F7AE-44F4-BCBF-98BDB4D405BB",
+        "id": "Q73017$00E97F61-214B-4471-8A0E-1D4D9BEEFDA3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +100,7 @@
         "type": "statement"
       },
       {
-        "id": "Q73425$C465D4A4-67C7-4986-957E-634C6E6A9CB2",
+        "id": "Q73017$4636C5D0-6510-4D99-B467-1C5E2E988935",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,7 +121,26 @@
     ],
     "P42": [
       {
-        "id": "Q73425$DB2DDA96-D2EE-42B3-8682-C2453E171755",
+        "id": "Q73017$8E82FAD3-7E32-4A2B-BF68-EB3F480468F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73014",
+              "numeric-id": 73014
+            }
+          },
+          "hash": "325a0cef8648c45d9e4df99ea824afb36e646045",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73017$46D6CF34-C7D8-41C5-B2DB-190391F4E125",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -83,9 +159,29 @@
         "type": "statement"
       }
     ],
+    "P5": [
+      {
+        "id": "Q73017$B7C95F82-A619-4FAA-BCF3-339CD9291FBB",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Pacuvius Calavius /Calavius/"
+            }
+          },
+          "hash": "cece03c3a6d40e341e192fd01b872038237af277",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P55": [
       {
-        "id": "Q73425$C9C282D1-02B8-4DE6-BBF0-1BF9CBB9E5A5",
+        "id": "Q73017$C5DECDF4-4AC4-4386-8B1B-2DF011F49D95",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -104,16 +200,33 @@
         "type": "statement"
       }
     ],
+    "P62": [
+      {
+        "id": "Q73017$B470CB0B-9196-43DC-8E7D-E460D3937255",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011362367475"
+          },
+          "hash": "06bad6456eba4a1c5665a0a0009baff79adbeb41",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P94": [
       {
-        "id": "Q73425$4796D27E-A606-4305-B6B7-C2B9123FB590",
+        "id": "Q73017$FBBDEE03-A31E-448F-B416-4E5F9550676F",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
             "type": "string",
-            "value": "Pacuvius Calavius Arms.svg"
+            "value": "Pacuvius Calavius  Calavius Arms.svg"
           },
-          "hash": "e09fc10a84745c657f061f1f1e7f16df6f64f7be",
+          "hash": "fc5c3032f48961428e72cdcdaaf5e9bafdeb8d51",
           "property": "P94",
           "snaktype": "value"
         },
@@ -123,18 +236,25 @@
     ]
   },
   "descriptions": {},
-  "id": "Q73425",
+  "id": "Q73017",
   "labels": {
     "en": {
       "language": "en",
       "value": "Pacuvius Calavius"
     }
   },
-  "lastrevid": 17486164,
-  "modified": "2025-09-16T18:45:12Z",
+  "lastrevid": 17485662,
+  "modified": "2025-09-16T18:38:03Z",
   "ns": 860,
-  "pageid": 88256,
-  "sitelinks": {},
-  "title": "Item:Q73425",
+  "pageid": 87848,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73017",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73017"
+    }
+  },
+  "title": "Item:Q73017",
   "type": "item"
 }

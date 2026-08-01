@@ -143,8 +143,40 @@ central command.
   `GENEALOGY_QA.md` and `qa_cycles_proposed.tsv` counted loops, with an enumerator that was
   never stable. Do not present tangle counts under the word "cycles" without saying so.
 
-1. **Find the real defect in the Scipio loop — WITHOUT detaching the Scipiones from
-   Aster.** This is tangle 3 in `cycles_review.md`. The `Q73893 → Q73794` cut was applied and then **reverted the same day**: it
+1. **UNMERGE `Q72786` "Marcus Aemilius Lepidus" — the real defect in the Scipio loop.**
+   **NEEDS EMMA: which parentage is the true one.** Investigated 2026-07-31; the diagnosis
+   is solid, the choice is not mine.
+
+   `cycle_policy.md` said that if a loop can only be broken by cutting a gateway, the real
+   defect is elsewhere — and it is. Not in the Scipio half. `Q72786` carries **three
+   separate, individually coherent father+mother couples**:
+
+   | father | mother | both list Q72786 as their child? |
+   |---|---|---|
+   | `Q73011` M. Aemilius Lepidus (wd Q3622705) | `Q72801` Cornelia | yes — and they are married to each other |
+   | `Q73113` M. Aemilius Lepidus | `Q73110` NN wife of M. Aemilius Lepidus | yes — and they are married to each other |
+   | `Q73173` M. Aemilius Lepidus, Consul | — | yes |
+
+   A record cannot have three sets of parents. This is the same shape as the worked `Tros`
+   example in `cycle_policy.md`, so **UNMERGE is the repair — step 1, the default.** It
+   *adds* structure: split, and all three couples keep their child.
+
+   Two further contradictions in the same record, which is why it needs a human:
+   - **`Q73173` is the father of `Q73011`.** So `Q72786` is recorded as both `Q73011`'s son
+     and `Q73011`'s brother — a collapsed generation, not just a duplicate.
+   - **`Q72789` "NN (Wife of Marcus Aemilius Lepidus)" lists `Q72786` as both her spouse
+     and her child.**
+
+   **Why this is the loop:** the `Q72801` Cornelia → `Q72786` edge is one of those three
+   parent-couples, and it is what drags the Scipiones down into the Aemilii. Split `Q72786`
+   correctly and the loop opens **without touching the Scipio half at all** — no gateway
+   severed, nothing detached from Aster.
+
+   What is needed from Emma: **which of the three couples is `Q72786`'s real parentage**,
+   and what the other two Lepidi should be called once separated. Naming is hers per the
+   `Tros` precedent. Do not guess Roman prosopography.
+
+   Run `compare_depth.py` before and after regardless. The `Q73893 → Q73794` cut was applied and then **reverted the same day**: it
    was chronologically correct but it was the *sole upward gateway* for the whole Scipio
    line. Measured: `Q73299` Scipio Africanus went from **267 ancestors deep to 4**,
    `Q73794` from **263 to 0**, and the severed chain ran all the way to **`Q1` Aster**.

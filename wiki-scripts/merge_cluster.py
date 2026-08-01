@@ -97,6 +97,31 @@ CLUSTERS = {
     # NOT a cascade like the Cato cluster: Q72514's apparently-extra child Q141448 is
     # already a shadow file of Q73893, so it canonicalises to a child Q72434 already has.
     # The survivor gains nothing and simply absorbs a duplicate node.
+    # queue.md item 1 (2026-07-31), found while looking for the real defect in the Scipio
+    # loop. Q72801 Cornelia has THREE fathers -- Q72957 Scipio Nasica Serapio, Q73425 and
+    # Q73017 -- and two of the three are the same man:
+    #
+    #   Q73425  "Pacuvius Calavius"            sp=[Q73428]         ch=[Q72801]
+    #   Q73017  "Pacuvius Calavius  Calavius"  sp=[Q73014,Q73428]  ch=[Q72870,Q72801,Q78746]
+    #
+    # Same name with the cognomen doubled -- the exact artefact cycle_policy.md names
+    # ("Diogo Afonso Afonso de Aguiar, a doubled name") -- married to the same woman
+    # Q73428 Claudia Pulcher, and both recorded as the father of the same daughter. Neither
+    # carries a Wikidata id, so this is decided on position and name, the same standard used
+    # for the Licinia and Salonia pairs in the Porcii Catones cluster.
+    #
+    # Survivor is Q73017: lower QID, and it holds three children and a second spouse that
+    # Q73425 does not. Its label carries the doubled cognomen and is corrected separately
+    # after the merge, with the doubled form kept as an alias.
+    #
+    # This does NOT break the Scipio loop and is not meant to -- the loop runs through
+    # Q72957 -> Q72801, not through Calavius. It removes one of Cornelia's three fathers,
+    # leaving the sharp question: Scipio Nasica Serapio or Pacuvius Calavius. That one is
+    # Emma's.
+    "calavius": [
+        ("Q73017", "Q73425", "Pacuvius Calavius -- same name with the cognomen doubled, "
+                             "same wife Q73428, same daughter Q72801"),
+    ],
     "lepidi": [
         ("Q72434", "Q72514", "Marcus Aemilius Lepidus cos. 78 BC -- both carry wd Q435329, "
                              "both married to Q72517 Appuleia, four shared children"),
