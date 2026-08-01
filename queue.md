@@ -235,12 +235,27 @@ central command.
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-2. **Teach `propose_tangle_repairs.py` the identical-label-plus-shared-parent signal.**
-   Its DEDUPE detector keys on a *shared Wikidata id*, so it did not surface the
-   `Q72615`/`Q72693` pair (merged 2026-07-31): identical labels, same father, same offices,
-   same arms file, both fathers of one man — but only one side carried a wd id. That is a
-   whole class of duplicate the tool is currently blind to. The `Q72434`-lists-both-as-
-   fathers signature is the strong one: **the dump stating the duplication about itself.**
+2. **Apply the two DEDUPEs the new label detector found, then chase the third signal.**
+   `propose_tangle_repairs.py` now surfaces them (2026-07-31); nothing has been applied.
+   Both verified by hand against the item files, neither yet merged:
+   - **`Q1955`/`Q49634` "Prachetas (10 sons)"** — both are fathers of `Q153390` Daksha, and
+     their own fathers are *two different records both labelled "Prachinbarhi"*
+     (`Q1968`/`Q49707`). That is a cascade like the Porcii Catones cluster, not a single
+     pair — resolve the generation above at the same time or the survivor gets two
+     duplicate fathers.
+   - **`Q72984`/`Q144060` "Quintus Caecilius Metellus"** — same label, **same father**
+     `Q73146`, both fathers of `Q72858`. `Q144060` carries wd `Q929498`, `Q72984` none.
+     Exactly the `Q72615`/`Q72693` shape.
+
+   **Then the signal the detector still misses.** `Q77386`/`Q138467` "Julia Livia" ranked
+   only DEDUPE-CANDIDATE, but the evidence is stronger than that rank: identical labels,
+   **identical parents** (`Q77611` Drusus Julius Caesar + `Q77614` Livilla), a husband named
+   *Gaius Rubellius Blandus* on both — under **two different QIDs** — and a daughter
+   *Rubellia Bassa* on both, again under two different QIDs. Nothing is shared *by identity*
+   precisely because the whole subtree was imported twice. **That is the parallel-import
+   signature and the detector cannot see it**, because both current signals require a shared
+   record. Teaching it "same label + same parents + a same-*labelled* spouse or child under
+   a different qid" would catch a class the other two structurally cannot.
 
 3. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.

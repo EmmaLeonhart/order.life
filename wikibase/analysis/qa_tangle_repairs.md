@@ -4,15 +4,36 @@
 
 35 tangles, 295 records inside one, 332 edges internal to a tangle.
 
-- **REVIEW**: 35
+- **DEDUPE**: 2
+- **DEDUPE-CANDIDATE**: 1
+- **REVIEW**: 32
 
 `contradicted` from the cross-check usually means *Wikidata records no link between them* — an absence of evidence, not a refutation, and Wikidata is incomplete. Only *the link the other way round* is treated as decisive. Edges listed in `PROTECTED` are never proposed for cutting however Wikidata votes; `cycle_policy.md` decided them on other grounds.
 
 ---
 
-## Q61565 — Constantius Chlorus (72 records) → **REVIEW**
+## Q1955 — Prachetas (10 sons) (16 records) → **DEDUPE**
 
-2 edge(s) Wikidata records no link for. That is an absence, not a refutation -- needs a human reading before any cut
+identical labels, and a single record names BOTH of them as its parents -- one man has one father, so the dump is stating the duplication about itself: `Q1955`/`Q49634` “Prachetas (10 sons)” via Q153390
+
+
+members: Q1955, Q1968, Q1978, Q1989, Q1991, Q2001, Q2035, Q49634, Q49707, Q153381, Q153390, Q153429, Q153438, Q153444, Q153460, Q153465
+
+---
+
+## Q72834 — Lucius Caecilius Metellus Calvus (14 records) → **DEDUPE**
+
+identical labels, and a single record names BOTH of them as its parents -- one man has one father, so the dump is stating the duplication about itself: `Q72984`/`Q144060` “Quintus Caecilius Metellus” via Q72858
+
+- *no Wikidata link* `Q139560` Licinia → `Q73458` Gaius Caecilius — Wikidata records no link between them
+
+members: Q72834, Q72858, Q72984, Q73146, Q73311, Q73458, Q138399, Q138403, Q139550, Q139559, Q139560, Q141414, Q144060, Q148066
+
+---
+
+## Q61565 — Constantius Chlorus (72 records) → **DEDUPE-CANDIDATE**
+
+identical labels on records sharing a parent, i.e. identically-named siblings. SUSPICIOUS, NOT SETTLED -- no Wikidata id and no shared child corroborates it, and this dump has genuine repeating cognomina. Confirm by hand before merging: `Q72466`/`Q72933` “Marcus Licinius Crassus” via Q72657,Q73098; `Q77386`/`Q138467` “Julia Livia” via Q77611,Q77614
 
 - *no Wikidata link* `Q72972` Publius Licinius Crassus Dives → `Q72810` Licinia — Wikidata records no link between them
 - *no Wikidata link* `Q72981` Publius Licinius Crassus → `Q72831` Marcus Licinius Crassus — Wikidata records no link between them
@@ -38,25 +59,6 @@ members: Q62515, Q62926, Q63517, Q64169, Q65002, Q75516, Q75522, Q75540, Q75543,
 - *no Wikidata link* `Q73893` Lucius Cornelius Scipio Asiaticus Aemilianus → `Q73794` Gnaeus Cornelius Scipio — Wikidata records no link between them
 
 members: Q72434, Q72615, Q72786, Q72801, Q72957, Q73128, Q73131, Q73293, Q73299, Q73443, Q73446, Q73569, Q73692, Q73794, Q73893, Q99368, Q99386
-
----
-
-## Q1955 — Prachetas (10 sons) (16 records) → **REVIEW**
-
-no Wikidata evidence against any internal edge; the contradiction is either inherited from Wikidata or purely local
-
-
-members: Q1955, Q1968, Q1978, Q1989, Q1991, Q2001, Q2035, Q49634, Q49707, Q153381, Q153390, Q153429, Q153438, Q153444, Q153460, Q153465
-
----
-
-## Q72834 — Lucius Caecilius Metellus Calvus (14 records) → **REVIEW**
-
-1 edge(s) Wikidata records no link for. That is an absence, not a refutation -- needs a human reading before any cut
-
-- *no Wikidata link* `Q139560` Licinia → `Q73458` Gaius Caecilius — Wikidata records no link between them
-
-members: Q72834, Q72858, Q72984, Q73146, Q73311, Q73458, Q138399, Q138403, Q139550, Q139559, Q139560, Q141414, Q144060, Q148066
 
 ---
 

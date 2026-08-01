@@ -4,6 +4,44 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **Taught `propose_tangle_repairs.py` the duplicate signal it was blind to. Three tangles
+  came out of a set where all 35 read REVIEW.**
+
+  Queue item 2. The DEDUPE detector keyed on a **shared Wikidata id**, which needs *both*
+  sides to carry one. It missed `Q72615`/`Q72693` (one side had an id) and `Q73425`/`Q73017`
+  (neither did) — both real duplicates, both merged by hand today.
+
+  A shared label alone is far too weak to substitute: this dump is full of Romans with
+  repeating cognomina and `queue.md` warns the long Roman tangles are exactly that. So each
+  new signal requires the label match **plus positional corroboration from the graph**:
+
+  - **SHARED-CHILD** — both records are parents of the *same* record. Strong, and treated as
+    decisive: one man has one father, so a child naming two identically-labelled fathers is
+    the dump stating the duplication about itself. This is what decided `Q72615`/`Q72693`.
+  - **SHARED-PARENT** — identically-named siblings. Ranked `DEDUPE-CANDIDATE`, explicitly
+    *suspicious, not settled*, because two brothers really can share a praenomen.
+
+  Labels are normalised for case and whitespace **and for a word repeated adjacent to
+  itself** — "Pacuvius Calavius Calavius", "Diogo Afonso Afonso de Aguiar". Without that
+  collapse the Calavius pair does not match at all.
+
+  **Found, and each checked by hand against the item files rather than trusted:**
+  `Q1955`/`Q49634` "Prachetas (10 sons)", both fathers of Daksha, with their own fathers
+  being two records both labelled "Prachinbarhi" — a cascade, not a pair;
+  `Q72984`/`Q144060` "Quintus Caecilius Metellus", same father, both fathers of `Q72858`.
+  **Nothing was applied** — item 2 was to teach the tool, and applying is item 3.
+
+  **Proved it would have caught the two it historically missed.** Both pairs are already
+  merged so they cannot be found live; what is testable is the normalisation that failed.
+  Ten cases, including three negatives that must NOT match — a cognomen extension
+  ("Scipio Nasica" vs "Scipio Nasica Serapio") is a different man, not a duplicate. All pass.
+
+  **Named a class it still cannot see.** `Q77386`/`Q138467` "Julia Livia" ranked only
+  CANDIDATE, yet has identical parents, a husband *Gaius Rubellius Blandus* on both and a
+  daughter *Rubellia Bassa* on both — each under **two different QIDs**. Nothing is shared by
+  identity because the entire subtree was imported twice, and both signals require a shared
+  *record*. Written into the queue rather than built blind.
+
 - **Notion wins. Four of Emma's five open decisions had been answered for a day and no repo
   file knew.**
 
