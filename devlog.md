@@ -4,6 +4,38 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **`verify_repair.py` — the repair ritual is one command now, and it can fail.**
+
+  Session was killed mid-repair by a Windows crash; picked up from the transcript. Two
+  things were outstanding: the Calavius dedupe sitting uncommitted, and queue item 2.
+
+  **Committed the Calavius dedupe** (`Q73425` -> `Q73017`). Verified before committing, not
+  after: the merge's own 164k-file sweep found nothing still resolving to the vacated qid,
+  `check_invariants` held at 35 tangles / 296 records, and `compare_depth` showed zero
+  ancestry lost. `Q72801` Cornelia is down from three fathers to two.
+
+  **Then closed queue item 2, which asked for a depth gate wired into the verification
+  ritual.** The tool half already existed — `compare_depth.py` was written the same day the
+  Scipio cut was reverted. It was wired to nothing. The ritual lived as prose in `queue.md`
+  telling whoever was mid-repair to remember four scripts in the right order, which is how
+  the Scipio cut passed review in the first place: every gate it needed already existed.
+
+  So `wiki-scripts/verify_repair.py` runs `extract_genealogy` -> `compare_tangles` ->
+  `compare_depth` -> `check_invariants` and exits non-zero naming the failure.
+  `--snapshot` handles the before-state. Shadow consistency stays with the pre-commit hook,
+  which checks the records actually staged and is better targeted than an `edges.tsv` pair.
+
+  **Proved it fails, rather than asserting it passes.** The rails already say a gate that
+  cannot fail is worse than none, so it got a two-file mode and was run against a synthetic
+  `edges.tsv` missing only `Q73893 -> Q73794` — the reverted cut. `compare_tangles`
+  reported it **clean**; `compare_depth` failed with **27,554 records down, worst loss 273
+  levels**. Width said yes, depth said no. That disagreement is now in `cycle_policy.md`
+  and `queue.md` as the reason not to read a green `compare_tangles` as a verified repair.
+
+  Not done and not attempted: queue item 1, the `Q72786` unmerge. Three coherent
+  father+mother couples on one record, one father being the son of another. Which parentage
+  is real is Roman prosopography and Emma's call — NEEDS-DECISION, not guesswork.
+
 - **REVERTED the Scipio cut. It severed a load-bearing gateway and I did not check.**
 
   Emma asked one question — "no risk of load bearing ancestor gateways being lost?" — and

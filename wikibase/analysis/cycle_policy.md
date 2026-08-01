@@ -97,3 +97,34 @@ Portuguese **de Aguiar** family that ends by joining it to Heracles via
 and `Diogo Afonso **Afonso** de Aguiar`, a doubled name. Those are unmerge/dedupe
 signatures, not cut candidates. **Same treatment: split or merge the duplicates, keep the
 join to Heracles.** That join is the whole reason the chain exists.
+
+## How to verify a repair — one command
+
+```
+python wiki-scripts/verify_repair.py --snapshot     # BEFORE: freeze the current edges.tsv
+...make the repair...
+python wiki-scripts/verify_repair.py                # AFTER: regenerate, then every gate
+```
+
+It runs `extract_genealogy.py`, then `compare_tangles.py` (width), `compare_depth.py`
+(depth), and `check_invariants.py`, and exits non-zero naming whichever failed. Shadow
+consistency is *not* in it: `.githooks/pre-commit` checks exactly the records you staged,
+which is better targeted than anything an `edges.tsv` pair could see. Install it once per
+checkout with `git config core.hooksPath .githooks`.
+
+**Why it is one command and not a list of steps.** Every one of those gates already
+existed on 2026-07-31 when the `Q73893 -> Q73794` cut went in, passed review, and was
+reverted the same day for stripping 263 generations off the Scipio line.
+`compare_depth.py` had been written *specifically* to catch that and was never wired to
+anything — the ritual lived in prose in `queue.md`, so running all of it in the right order
+depended on remembering it mid-repair. A gate nobody runs is not a gate.
+
+**The two gates disagree, and that is the point.** Re-run against a synthetic `edges.tsv`
+with that one edge removed and `compare_tangles` reports the repair *clean* while
+`compare_depth` fails with 27,554 records down and a worst loss of 273 levels. Width said
+yes; depth said no; depth was right. Never read a green `compare_tangles` as a verified
+repair.
+
+**If `compare_depth` fails, do not lower `--max-loss`.** The failure means the edge was a
+gateway, and `cycle_policy.md`'s rule applies: the real defect is elsewhere in the loop. Go
+find it.

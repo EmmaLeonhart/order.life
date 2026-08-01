@@ -89,13 +89,29 @@ and its totals match `check_invariants.py`'s independent Tarjan. The well-define
 the **tangle** (an SCC of size > 1) — **34** of them, holding **278** records. Verify repairs against
 `tangled_components` / `records_in_a_cycle`, never against a cycle count.
 
-**HOW TO VERIFY A REPAIR.** Snapshot `edges.tsv` first, make the change, regenerate, then
-`python wiki-scripts/compare_tangles.py <snapshot>`. It compares SCC *partitions* — what was
-introduced, removed, or reshaped, and which records entered or left a tangle — so a repair
-that keeps the counts equal while moving records between tangles still shows up. Exits
-non-zero if anything was introduced. Merges go through `wiki-scripts/merge_cluster.py
-<cluster>`, which enforces both merge rules above and verifies them against what actually
-happened on disk, not against the inputs.
+**HOW TO VERIFY A REPAIR — one command, not a list of steps.**
+
+```
+python wiki-scripts/verify_repair.py --snapshot     # BEFORE: freeze the current edges.tsv
+...make the repair...
+python wiki-scripts/verify_repair.py                # AFTER: regenerate, then every gate
+```
+
+It runs `extract_genealogy.py`, then `compare_tangles.py` (**width** — which SCC partitions
+were introduced, removed or reshaped), `compare_depth.py` (**depth** — ancestry lost per
+record, the load-bearing one), and `check_invariants.py`, and exits non-zero naming
+whichever failed. Merges still go through `wiki-scripts/merge_cluster.py <cluster>`, which
+enforces both merge rules above against what actually happened on disk; run
+`verify_repair.py` around it.
+
+**A green `compare_tangles` is not a verified repair.** Against a synthetic `edges.tsv`
+missing only the `Q73893 → Q73794` edge — the cut that was applied and reverted on
+2026-07-31 — `compare_tangles` reports it clean while `compare_depth` fails with **27,554
+records down and a worst loss of 273 levels**. Width said yes, depth said no, depth was
+right. That is why the gates run together and why `verify_repair.py` exists: all of these
+gates already existed that day, and the ritual for running them lived in prose right here,
+which is not a gate. **If `compare_depth` fails, do not lower `--max-loss`** — the edge was
+a gateway and the defect is elsewhere in the loop.
 
 **I2 WAS VACUOUS AND IS NOT ANY MORE.** `check_invariants.py` said "self-loops must be
 zero, always" and reported 0 unconditionally: its default `--source tsv` reads `edges.tsv`,
@@ -191,16 +207,7 @@ central command.
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-2. **`compare_tangles.py` measures width, not depth — add a depth check.** It reported
-   "18 records freed, 0 tangles introduced" for a repair that amputated 263 generations
-   from a major line, because nothing in the gate set measures ancestry upward.
-   `qa_cycles_load.tsv` has the same flaw and the rails already say so. Add a tool that,
-   given a before/after `edges.tsv` pair, reports **which records lost ancestral depth and
-   how much**, and wire it into the verification ritual next to `compare_tangles.py`. Any
-   record dropping more than a few levels should fail loudly. This is the gate that would
-   have caught the Scipio cut before it was committed.
-
-3. **Merge `Q72615` / `Q72693`, both "Quintus Aemilius Lepidus".** Both are children of
+2. **Merge `Q72615` / `Q72693`, both "Quintus Aemilius Lepidus".** Both are children of
    `Q72786` and both are recorded as fathers of the merged `Q72434` — one man cannot have
    two fathers who are the same person. `Q72693` carries `wd Q11944252`; `Q72615` carries
    none, which is a gap and not a conflict. **`propose_tangle_repairs.py` will not surface
@@ -209,7 +216,7 @@ central command.
    Note `Q72693` itself has two fathers (`Q72786`, `Q144279` wd Q3625112) — settle that
    before or during, don't union it blind.
 
-2. **Work the remaining cycles under the repair order above.** Start from
+3. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
    34 are `REVIEW`: no Wikidata evidence decides them, mostly because "contradicted" there
    means *Wikidata records no link*, which is an absence and not a refutation. Unmerge
@@ -219,7 +226,7 @@ central command.
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-3. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
+4. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
    edges are declared on both sides (parent `P20` and child `P47`/`P48`), but 2,325 are
    parent-side only and 2,398 child-side only. `edges.tsv` is built from the union, so a
    half-declared edge still reads as real and any one-sided repair silently fails — this is
