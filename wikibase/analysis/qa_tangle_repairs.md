@@ -5,9 +5,69 @@
 35 tangles, 291 records inside one, 324 edges internal to a tangle.
 
 - **GENERATION-COLLAPSE**: 1
-- **REVIEW**: 34
+- **PHANTOM-PARENT**: 5
+- **REVIEW**: 28
+- **WRONG-PARENT-EDGE**: 1
 
 `contradicted` from the cross-check usually means *Wikidata records no link between them* — an absence of evidence, not a refutation, and Wikidata is incomplete. Only *the link the other way round* is treated as decisive. Edges listed in `PROTECTED` are never proposed for cutting however Wikidata votes; `cycle_policy.md` decided them on other grounds.
+
+---
+
+## Q72834 — Lucius Caecilius Metellus Calvus (13 records) → **WRONG-PARENT-EDGE**
+
+one child has TWO same-role parents who are DIFFERENT people -- they carry different Wikidata ids and share their own parents, i.e. they are siblings. This is NOT a duplicate and must not be merged: one of the two edges is simply wrong, and deciding which needs evidence this tool does not have. Repair is a CUT of one edge, not a DEDUPE: `Q72984` (wd Q929498) and `Q148066` (wd Q897091) are both the father of `Q72834` 'Lucius Caecilius Metellus Calvus'
+
+- *no Wikidata link* `Q139560` Licinia → `Q73458` Gaius Caecilius — Wikidata records no link between them
+
+members: Q72834, Q72858, Q72984, Q73146, Q73311, Q73458, Q138399, Q138403, Q139550, Q139559, Q139560, Q141414, Q148066
+
+---
+
+## Q72434 — Marcus Aemilius Lepidus (17 records) → **PHANTOM-PARENT**
+
+one child has two same-role parents, but one of them is a PHANTOM -- a record with no label and no genealogical claim of its own, present in edges.tsv only because something names it in P20. The defect is that one-sided edge, not a duplication; do not merge a person into a stub. Belongs with the edge_symmetry work: `Q73131` (real) / `Q99368` (phantom) both the mother of `Q72957` 'Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio'; `Q73293` (real) / `Q99386` (phantom) both the father of `Q73128` 'Publius Cornelius Scipio Nasica Corculum'
+
+- *no Wikidata link* `Q73893` Lucius Cornelius Scipio Asiaticus Aemilianus → `Q73794` Gnaeus Cornelius Scipio — Wikidata records no link between them
+
+members: Q72434, Q72615, Q72786, Q72801, Q72957, Q73128, Q73131, Q73293, Q73299, Q73443, Q73446, Q73569, Q73692, Q73794, Q73893, Q99368, Q99386
+
+---
+
+## Q4617 — Pedaiah (5 records) → **PHANTOM-PARENT**
+
+one child has two same-role parents, but one of them is a PHANTOM -- a record with no label and no genealogical claim of its own, present in edges.tsv only because something names it in P20. The defect is that one-sided edge, not a duplication; do not merge a person into a stub. Belongs with the edge_symmetry work: `Q4626` (real) / `Q60222` (phantom) both the mother of `Q135406` 'Jehoiakim'
+
+- *no Wikidata link* `Q135539` Jeconiah → `Q4617` Pedaiah — Wikidata records no link between them
+
+members: Q4617, Q4626, Q60222, Q135406, Q135539
+
+---
+
+## Q29144 — kay uyarsh  Raja Iran (4 records) → **PHANTOM-PARENT**
+
+one child has two same-role parents, but one of them is a PHANTOM -- a record with no label and no genealogical claim of its own, present in edges.tsv only because something names it in P20. The defect is that one-sided edge, not a duplication; do not merge a person into a stub. Belongs with the edge_symmetry work: `Q29144` (real) / `Q52709` (phantom) both the father of `Q29140` 'kay kaus  Raja Iran'; `Q29148` (real) / `Q52713` (phantom) both the father of `Q29144` 'kay uyarsh  Raja Iran'
+
+
+members: Q29144, Q29148, Q52709, Q52713
+
+---
+
+## Q72798 — Marcus Livius Drusus (4 records) → **PHANTOM-PARENT**
+
+one child has two same-role parents, but one of them is a PHANTOM -- a record with no label and no genealogical claim of its own, present in edges.tsv only because something names it in P20. The defect is that one-sided edge, not a duplication; do not merge a person into a stub. Belongs with the edge_symmetry work: `Q72798` (real) / `Q73284` (phantom) both the father of `Q72624` 'Livia'
+
+- *no Wikidata link* `Q73119` Marcus Livius Drusus → `Q72951` Gaius Livius Drusus — Wikidata records no link between them
+
+members: Q72798, Q72951, Q73119, Q73284
+
+---
+
+## Q78402 —  (2 records) → **PHANTOM-PARENT**
+
+one child has two same-role parents, but one of them is a PHANTOM -- a record with no label and no genealogical claim of its own, present in edges.tsv only because something names it in P20. The defect is that one-sided edge, not a duplication; do not merge a person into a stub. Belongs with the edge_symmetry work: `Q78402` (missing) / `Q78719` (real) both the mother of `Q51822` 'Ptolemy XII Auletes'
+
+
+members: Q78402, Q78719
 
 ---
 
@@ -29,16 +89,6 @@ members: Q61565, Q61957, Q62255, Q62680, Q62704, Q63157, Q63192, Q63684, Q63747,
 - *no Wikidata link* `Q75603` Demetrias → `Q75576` Clodius Celsinus Adelphius — Wikidata records no link between them
 
 members: Q62515, Q62926, Q63517, Q64169, Q65002, Q75516, Q75522, Q75540, Q75543, Q75558, Q75573, Q75576, Q75603, Q75634, Q75694, Q75721, Q75781, Q75817
-
----
-
-## Q72434 — Marcus Aemilius Lepidus (17 records) → **REVIEW**
-
-1 edge(s) Wikidata records no link for. That is an absence, not a refutation -- needs a human reading before any cut
-
-- *no Wikidata link* `Q73893` Lucius Cornelius Scipio Asiaticus Aemilianus → `Q73794` Gnaeus Cornelius Scipio — Wikidata records no link between them
-
-members: Q72434, Q72615, Q72786, Q72801, Q72957, Q73128, Q73131, Q73293, Q73299, Q73443, Q73446, Q73569, Q73692, Q73794, Q73893, Q99368, Q99386
 
 ---
 
@@ -66,16 +116,6 @@ no Wikidata evidence against any internal edge; the contradiction is either inhe
 
 
 members: Q160460, Q160489, Q160512, Q160539, Q160560, Q160576, Q160580, Q160596, Q160597, Q160615, Q160640, Q160673, Q160707, Q160730
-
----
-
-## Q72834 — Lucius Caecilius Metellus Calvus (13 records) → **REVIEW**
-
-1 edge(s) Wikidata records no link for. That is an absence, not a refutation -- needs a human reading before any cut
-
-- *no Wikidata link* `Q139560` Licinia → `Q73458` Gaius Caecilius — Wikidata records no link between them
-
-members: Q72834, Q72858, Q72984, Q73146, Q73311, Q73458, Q138399, Q138403, Q139550, Q139559, Q139560, Q141414, Q148066
 
 ---
 
@@ -142,16 +182,6 @@ members: Q138363, Q138365, Q139511, Q141360, Q144020, Q148022
 
 ---
 
-## Q4617 — Pedaiah (5 records) → **REVIEW**
-
-1 edge(s) Wikidata records no link for. That is an absence, not a refutation -- needs a human reading before any cut
-
-- *no Wikidata link* `Q135539` Jeconiah → `Q4617` Pedaiah — Wikidata records no link between them
-
-members: Q4617, Q4626, Q60222, Q135406, Q135539
-
----
-
 ## Q73782 — Appius Claudius Caecus (5 records) → **REVIEW**
 
 no Wikidata evidence against any internal edge; the contradiction is either inherited from Wikidata or purely local
@@ -177,25 +207,6 @@ no Wikidata evidence against any internal edge; the contradiction is either inhe
 
 
 members: Q104371, Q107162, Q123407, Q124325, Q124326
-
----
-
-## Q29144 — kay uyarsh  Raja Iran (4 records) → **REVIEW**
-
-no Wikidata evidence against any internal edge; the contradiction is either inherited from Wikidata or purely local
-
-
-members: Q29144, Q29148, Q52709, Q52713
-
----
-
-## Q72798 — Marcus Livius Drusus (4 records) → **REVIEW**
-
-1 edge(s) Wikidata records no link for. That is an absence, not a refutation -- needs a human reading before any cut
-
-- *no Wikidata link* `Q73119` Marcus Livius Drusus → `Q72951` Gaius Livius Drusus — Wikidata records no link between them
-
-members: Q72798, Q72951, Q73119, Q73284
 
 ---
 
@@ -306,15 +317,6 @@ no Wikidata evidence against any internal edge; the contradiction is either inhe
 
 
 members: Q73530, Q73653
-
----
-
-## Q78402 —  (2 records) → **REVIEW**
-
-no Wikidata evidence against any internal edge; the contradiction is either inherited from Wikidata or purely local
-
-
-members: Q78402, Q78719
 
 ---
 

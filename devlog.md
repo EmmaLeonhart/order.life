@@ -4,6 +4,43 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Built the same-role parent signal. My first version of the rule was wrong, and
+  hand-checking its six hits is the only reason it did not ship.**
+
+  Queue item 2. The rule: two records in the SAME parental role for one child -- both
+  `P47`, or both `P48` -- that also share their own parents. It uses no label at all, which
+  is the point: this dump's labels are the least reliable thing in it, and the Domitia
+  Lucilla duplicate was invisible to all three label-and-id signals.
+
+  It found six collisions. **I checked each against the item files instead of trusting the
+  verdict, and all six were wrong as DEDUPEs:**
+
+  - **Four paired a real person against a PHANTOM** -- `Q99368`, `Q99386`, `Q60222`,
+    `Q52709`, `Q73284`: records with no label and no genealogical claim of their own,
+    present in `edges.tsv` only because something names them in `P20`. Not duplicates of a
+    person. One-sided edges, which is item 4's defect.
+  - **One paired a real person against `Q78402`, which has no file at all** -- one of the
+    138 dangling endpoints.
+  - **One paired two DIFFERENT MEN.** `Q72984` *Quintus* Caecilius Metellus (wd `Q929498`)
+    and `Q148066` *Marcus* Caecilius Metellus (wd `Q897091`) are **brothers**, both sons of
+    `Q73146`, and both recorded as the father of `Q72834`. Distinct praenomina, distinct
+    Wikidata items. **Merging them would have been a fabrication.**
+
+  I had written the trap into the queue item myself and got it half right: I guarded
+  against a brother-*sister* couple, which the same-role test excludes, and missed that two
+  *brothers* both listed as father produce the identical pattern. Same-role is necessary
+  and **not sufficient.**
+
+  So the verdict now splits three ways on whether the pair is distinguishable at all --
+  `PHANTOM-PARENT`, `WRONG-PARENT-EDGE`, or `DEDUPE` -- and after the split **zero of the
+  six are merges.** Calibration check that matters: `Q64582`, the Domitia Lucilla survivor
+  this signal was built from, still classifies `real`, so the rule keeps its own founding
+  case. Ten cases tested against the live dump.
+
+  **The signal is still worth having.** It surfaced six genuine defects no other detector
+  sees, and gave item 4 -- the 4,723 one-sided edges, previously an undifferentiated pile
+  -- a concrete entry point of six records inside tangles.
+
 - **The biggest tangle in the dump finally moved: 72 -> 71. The repair was a dedupe, and
   three wrong guesses came first.**
 

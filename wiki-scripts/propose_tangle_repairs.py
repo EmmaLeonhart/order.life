@@ -34,12 +34,72 @@ direction rather than an absence of evidence.
 
 import collections
 import csv
+import json
 import sys
 from collections import deque
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 A = ROOT / "wikibase" / "analysis"
+ITEMS = ROOT / "wikibase" / "items"
+
+FATHER, MOTHER = "P47", "P48"
+
+
+def parent_roles(qid):
+    """(fathers, mothers) for one record, read from its item file.
+
+    edges.tsv deliberately carries no role -- it is the union of P47/P48/P20 and a plain
+    parent -> child pair. The same-role collision below cannot be seen without the role,
+    so this reads the item. Only ever called for children of tangle members, which is a
+    few hundred files, not the 164k dump.
+    """
+    p = ITEMS / f"{qid}.json"
+    if not p.exists():
+        return [], []
+    try:
+        d = json.loads(p.read_text(encoding="utf-8"))
+    except Exception:
+        return [], []
+    if not isinstance(d, dict):
+        return [], []
+
+    def ids(pid):
+        out = []
+        for c in (d.get("claims") or {}).get(pid, []):
+            v = ((c.get("mainsnak") or {}).get("datavalue") or {}).get("value")
+            if isinstance(v, dict) and v.get("id"):
+                out.append(v["id"])
+        return out
+
+    return ids(FATHER), ids(MOTHER)
+
+
+def substance(qid):
+    """'missing' | 'phantom' | 'real'.
+
+    A PHANTOM is a record whose own file carries no label and no genealogical claim. It
+    exists in edges.tsv only because some OTHER record names it in P20 -- a one-sided
+    edge, the defect queue.md item 4 is about. It is not a person and it is not a
+    duplicate of one, so it must never be proposed as a merge partner.
+
+    Found 2026-08-01 by hand-checking the same-role signal's first six hits: four of them
+    paired a real person against exactly this, and one paired two DIFFERENT men. Shipping
+    that rule unqualified would have proposed merging brothers.
+    """
+    p = ITEMS / f"{qid}.json"
+    if not p.exists():
+        return "missing"
+    try:
+        d = json.loads(p.read_text(encoding="utf-8"))
+    except Exception:
+        return "missing"
+    if not isinstance(d, dict):
+        return "missing"
+    has_label = bool(((d.get("labels") or {}).get("en") or {}).get("value", "").strip())
+    claims = d.get("claims") or {}
+    has_geneal = any(claims.get(p) for p in (FATHER, MOTHER, "P20", "P42"))
+    return "real" if (has_label or has_geneal) else "phantom"
 
 # Edges that must never be proposed for cutting, with the source of the decision.
 # Sourced from cycle_policy.md, not inferred.
@@ -260,6 +320,68 @@ def main():
                     elif rents:
                         label_shared_parent.setdefault(n, []).append((a, b, sorted(rents, key=qnum)))
 
+        # Signal 4 -- SAME-ROLE PARENT COLLISION. Uses no label at all.
+        #
+        # Added 2026-08-01, after this tool missed the defect in the largest tangle and a
+        # human reading the graph found it. Q64582 "Domitia Lucilla Minor" and Q139826
+        # "Calvisia Domitia Lucilla" were BOTH recorded as the MOTHER of Q63780 Marcus
+        # Aurelius, with the same father and mother by identity. Every other signal was
+        # blind: only one side carried a Wikidata id, and the labels do not normalise to
+        # each other.
+        #
+        # The evidence is purely structural. One child has one mother. Two records in the
+        # SAME parental role for one child, which also share their own parents, are one
+        # person -- no name required, which matters because this dump's labels are the
+        # least reliable thing in it.
+        #
+        # THE TRAP, and why "shared parents + shared child" is NOT the rule: a
+        # brother-sister couple produces exactly that pattern, and this genealogy has them
+        # by design. What distinguishes a duplicate from a couple is that both records sit
+        # in the SAME role -- both listed as mothers, rather than one father and one
+        # mother. Do not relax this to "shares a child".
+        role_collisions = []
+        for m in comp:
+            for kid in sorted(children_of.get(m, ()), key=qnum):
+                fathers, mothers = parent_roles(kid)
+                for role, lst in (("father", fathers), ("mother", mothers)):
+                    here = sorted({q for q in lst if q in inside}, key=qnum)
+                    for i in range(len(here)):
+                        for j in range(i + 1, len(here)):
+                            a, b = here[i], here[j]
+                            shared = parents_of.get(a, set()) & parents_of.get(b, set())
+                            if shared:
+                                role_collisions.append(
+                                    (a, b, kid, role, sorted(shared, key=qnum)))
+        # dedupe the pair list -- a pair can collide on more than one child
+        seen_pairs, uniq = set(), []
+        for a, b, kid, role, shared in role_collisions:
+            if (a, b) not in seen_pairs:
+                seen_pairs.add((a, b))
+                uniq.append((a, b, kid, role, shared))
+
+        # A same-role collision is NOT automatically a duplicate. Split it three ways,
+        # because the first six hits contained one of each and only one was a merge:
+        #
+        #   PHANTOM      one side is a stub with no label and no claims of its own. The
+        #                defect is the one-sided edge that invented it, not a duplication.
+        #   DISTINCT     both sides carry DIFFERENT Wikidata ids, so they are different
+        #                people -- Q72984 "Quintus Caecilius Metellus" (wd Q929498) and
+        #                Q148066 "Marcus Caecilius Metellus" (wd Q897091) are BROTHERS,
+        #                both sons of Q73146, and one of the two father-edges on Q72834 is
+        #                simply wrong. Merging them would be a fabrication.
+        #   DEDUPE       everything else: both substantive, at most one Wikidata id, so
+        #                nothing distinguishes them. This is the Domitia Lucilla shape.
+        role_collisions, phantom_pairs, distinct_pairs = [], [], []
+        for a, b, kid, role, shared in uniq:
+            sa, sb = substance(a), substance(b)
+            wa, wb = wd.get(a, ""), wd.get(b, "")
+            if sa != "real" or sb != "real":
+                phantom_pairs.append((a, b, kid, role, sa, sb))
+            elif wa and wb and wa != wb:
+                distinct_pairs.append((a, b, kid, role, wa, wb))
+            else:
+                role_collisions.append((a, b, kid, role, shared))
+
         # Signal 3, and the guard that decides what it means.
         #
         # A shared-parent pair whose spouses or children are duplicated under DIFFERENT qids
@@ -307,6 +429,38 @@ def main():
             action, why = "DEDUPE", (
                 "two records in this tangle share a Wikidata id: "
                 + "; ".join(f"{k} claimed by {','.join(v)}" for k, v in sorted(dupes.items())))
+        elif role_collisions:
+            action, why = "DEDUPE", (
+                "same-role parent collision: two records in this tangle are recorded in "
+                "the SAME parental role for one child AND share their own parents. One "
+                "child has one mother, so these are one person -- decided on structure, "
+                "with no reliance on the labels: "
+                + "; ".join(
+                    f"`{a}`/`{b}` are both the {role} of `{kid}` "
+                    f"{label.get(kid,'')!r}, and share parent(s) {','.join(shared)}"
+                    for a, b, kid, role, shared in role_collisions))
+        elif distinct_pairs:
+            action, why = "WRONG-PARENT-EDGE", (
+                "one child has TWO same-role parents who are DIFFERENT people -- they "
+                "carry different Wikidata ids and share their own parents, i.e. they are "
+                "siblings. This is NOT a duplicate and must not be merged: one of the two "
+                "edges is simply wrong, and deciding which needs evidence this tool does "
+                "not have. Repair is a CUT of one edge, not a DEDUPE: "
+                + "; ".join(
+                    f"`{a}` (wd {wa}) and `{b}` (wd {wb}) are both the {role} of `{kid}` "
+                    f"{label.get(kid,'')!r}"
+                    for a, b, kid, role, wa, wb in distinct_pairs))
+        elif phantom_pairs:
+            action, why = "PHANTOM-PARENT", (
+                "one child has two same-role parents, but one of them is a PHANTOM -- a "
+                "record with no label and no genealogical claim of its own, present in "
+                "edges.tsv only because something names it in P20. The defect is that "
+                "one-sided edge, not a duplication; do not merge a person into a stub. "
+                "Belongs with the edge_symmetry work: "
+                + "; ".join(
+                    f"`{a}` ({sa}) / `{b}` ({sb}) both the {role} of `{kid}` "
+                    f"{label.get(kid,'')!r}"
+                    for a, b, kid, role, sa, sb in phantom_pairs))
         elif label_shared_child:
             action, why = "DEDUPE", (
                 "identical labels, and a single record names BOTH of them as its parents -- "
@@ -388,8 +542,9 @@ def main():
     # proposing to sever an edge.
     # GENERATION-COLLAPSE ranks second: it is not a repair, it is a refusal, and it needs
     # reading before anyone acts on the DEDUPE-CANDIDATE sitting under the same evidence.
-    order = {"DEDUPE": 0, "GENERATION-COLLAPSE": 1, "DEDUPE-CANDIDATE": 2, "CUT": 3,
-             "REVIEW": 4, "BLOCKED-UNMERGE": 5}
+    order = {"DEDUPE": 0, "WRONG-PARENT-EDGE": 1, "PHANTOM-PARENT": 2,
+             "GENERATION-COLLAPSE": 3, "DEDUPE-CANDIDATE": 4, "CUT": 5,
+             "REVIEW": 6, "BLOCKED-UNMERGE": 7}
     summaries.sort(key=lambda s: (order.get(s["action"], 9), -s["size"], qnum(s["head"])))
 
     with open(A / "qa_tangle_repairs.tsv", "w", encoding="utf-8", newline="") as f:

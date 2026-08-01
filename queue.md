@@ -235,33 +235,31 @@ central command.
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-2. **Teach the detector the SAME-ROLE PARENT COLLISION, which is what actually found the
-   defect in the biggest tangle.** All three existing signals missed it and a human reading
-   the graph found it in minutes.
+2. **Work the six same-role parent collisions the new signal found. None of them is a
+   merge.** Signal built 2026-08-01; it found six real defects and **zero duplicates**,
+   which is the useful part — my first draft of the rule would have merged all six.
 
-   `Q64582` "Domitia Lucilla Minor" and `Q139826` "Calvisia Domitia Lucilla" were **both
-   recorded as the mother of `Q63780` Marcus Aurelius**, with the **same father and same
-   mother by identity**. Merged 2026-08-01 (`domitia-lucilla`); **the largest tangle in the
-   dump dropped 72 → 71**, the first time it has moved.
+   - **1 `WRONG-PARENT-EDGE`** — `Q72834` "Lucius Caecilius Metellus Calvus" has **two
+     fathers who are brothers**: `Q72984` *Quintus* Caecilius Metellus (wd `Q929498`) and
+     `Q148066` *Marcus* Caecilius Metellus (wd `Q897091`), both sons of `Q73146`. Distinct
+     Wikidata items, distinct praenomina — **different men, so this is not a dedupe.** One
+     of the two father-edges is simply wrong and the dump does not say which. Needs a
+     source, or Emma.
+   - **5 `PHANTOM-PARENT`** — a real person paired with a stub carrying no label and no
+     genealogical claim of its own (`Q99368` against Cornelia Africana Major, `Q99386`,
+     `Q60222`, `Q52709`, `Q73284`; plus `Q78402`, which has **no file at all** and is one
+     of the 138 dangling endpoints). These records exist in `edges.tsv` only because
+     something names them in `P20`. **The defect is that one-sided edge, not a
+     duplication** — this is item 4's territory, and these six are its concrete entry
+     point. Do not merge a person into a stub.
 
-   Why every current signal was blind to it:
-   - **shared Wikidata id** — needs both sides to carry one; only `Q139826` does.
-   - **shared label + shared child / shared parent** — the labels do not match, and
-     "Domitia Lucilla Minor" does not normalise to "Calvisia Domitia Lucilla".
-
-   **The signal that does catch it uses no label at all:** *two records occupying the SAME
-   parental role for one child — both `P47`, or both `P48` — while sharing their own
-   parents.* One child cannot have two mothers. This is the structural core of what
-   `Q72434`-lists-both-fathers and Cornelia's-three-fathers already showed; the label was
-   never the evidence, only corroboration.
-   **Caution when implementing:** two records sharing parents *and* a child is NOT enough on
-   its own — a brother-sister couple gives exactly that, and this genealogy has them. The
-   **same-role** part is what makes it a duplicate: both listed as *mothers*, not one as
-   father and one as mother.
-
-   `qa_multiparent.tsv` already lists every child with >2 parents and is the natural place
-   to look, but note it will not surface a child with exactly one father and two mothers
-   unless the total exceeds two.
+   **The rule that produced this, and the trap in it.** Two records in the *same* parental
+   role for one child (both `P47`, or both `P48`) that also share their own parents. The
+   same-role part matters: sharing parents *and* a child is not enough, because a
+   brother-sister couple gives exactly that. But same-role is **still not sufficient** —
+   two *brothers* both listed as father give it too. So the verdict splits three ways on
+   whether the pair is distinguishable: a phantom on either side, distinct Wikidata ids on
+   both, or neither — and only the last is a DEDUPE.
 
 3. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
