@@ -14,8 +14,6 @@ tangle_size	tangle_head	parent	parent_label	child	child_label	wd_verdict	flag	ac
 13	Q72834	Q139560	Licinia	Q73458	Gaius Caecilius	contradicted		WRONG-PARENT-EDGE	Wikidata records no link between them
 13	Q72834	Q141414	Caecilia Metella	Q139559	Lucullus	confirmed		WRONG-PARENT-EDGE	Wikidata agrees Caecilia Metella is a parent of Lucullus
 13	Q72834	Q148066	Marcus Caecilius Metellus	Q72834	Lucius Caecilius Metellus Calvus	not-checked		WRONG-PARENT-EDGE	
-2	Q78402	Q78402		Q78719	Cleopatra III of Egypt	unknown		PHANTOM-PARENT	no Wikidata ID for Q78402
-2	Q78402	Q78719	Cleopatra III of Egypt	Q78402		unknown		PHANTOM-PARENT	no Wikidata ID for Q78402
 71	Q61565	Q61565	Constantius Chlorus	Q136506	Flavia Julia Constantia	confirmed		GENERATION-COLLAPSE	Wikidata agrees Constantius Chlorus is a parent of Flavia Julia Constantia
 71	Q61565	Q61957	Claudia Crispina	Q61565	Constantius Chlorus	confirmed		GENERATION-COLLAPSE	Wikidata agrees Claudia Crispina is a parent of Constantius Chlorus
 71	Q61565	Q62255	Aurelia Pompeiana	Q61957	Claudia Crispina	confirmed		GENERATION-COLLAPSE	Wikidata agrees Aurelia Pompeiana is a parent of Claudia Crispina

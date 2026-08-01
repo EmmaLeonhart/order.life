@@ -1,6 +1,6 @@
 # Ancestry cycles — every one, with the numbers that decide them
 
-**35 cycles, 285 records caught in one.** Generated from the dump by `wiki-scripts/build_cycles_notion.py`; the source of truth is `wikibase/analysis/cycles_review.md` in the repo and this page is a copy of it.
+**34 cycles, 283 records caught in one.** Generated from the dump by `wiki-scripts/build_cycles_notion.py`; the source of truth is `wikibase/analysis/cycles_review.md` in the repo and this page is a copy of it.
 
 A cycle here means a **strongly connected component** — a set of records where everyone is reachable from everyone else by following parent links, so at least one person is their own ancestor. That is always an error. Which *edge* is the wrong one usually is not obvious, and this document does not decide it.
 
@@ -776,25 +776,7 @@ Shortest loop: `Q73530 -> Q73653 -> Q73530`
 
 ---
 
-## 33. (unlabelled) — 2 records
-
-Shortest loop: `Q78402 -> Q78719 -> Q78402`
-
-| qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
-|---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q78402` | (unlabelled) | — | — | — | **404** | 29,342 | 44 | no |
-| `Q78719` | Cleopatra III of Egypt | Q40003 | 161 BC | 101 BC | **404** | 29,342 | 44 | no |
-
-**What the data says**
-
-- `Q78402` (unlabelled) has 4 parents: Q73035, Q73038, Q73194, Q78719.
-- `Q78719` Cleopatra III of Egypt has 4 parents: Q73038, Q73194, Q73197, Q78402.
-
-**Decision:** _not made — needs Emma_
-
----
-
-## 34. Esther  bat Sahlan ben Abraham — 2 records
+## 33. Esther  bat Sahlan ben Abraham — 2 records
 
 Shortest loop: `Q88454 -> Q90982 -> Q88454`
 
@@ -807,7 +789,7 @@ Shortest loop: `Q88454 -> Q90982 -> Q88454`
 
 ---
 
-## 35. Pons Hug d'Entença — 2 records
+## 34. Pons Hug d'Entença — 2 records
 
 Shortest loop: `Q119481 -> Q124343 -> Q119481`
 

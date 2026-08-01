@@ -4,6 +4,40 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Removed two claims pointing at a record that does not exist. One whole tangle gone:
+  35 -> 34. And I retracted a cut mid-tick after my justification for it collapsed.**
+
+  Cleopatra III (`Q78719`) listed `Q78402` as **both her mother and her child**. `Q78402`
+  has no file, no shadow claiming the qid, and no `persons.tsv` row — one of the 138
+  dangling endpoints. A record that does not exist cannot be anyone's mother, so both
+  claims went, with no judgement call. **Every gate green**, tangles **35 -> 34**, records
+  in a tangle 285 -> 283, `records_in_a_cycle` improved and `children_over_2_parents` held.
+
+  **THE PART THAT MATTERS IS THE ONE I TOOK BACK.** I also cut `Q90982 -> Q88454`, the two
+  Esthers, claiming their patronymics fixed the direction. They do not. Both readings are
+  naming-consistent — *bat Sahlan* married Yosef giving a daughter *bat Yosef*, or *bat
+  Yosef* married Sahlan giving a daughter *bat Sahlan* — and under either, each woman is
+  correctly named for her own father. The patronymics confirm both fathers and say nothing
+  about who descends from whom. That is precisely why the tool reports evidence on both
+  sides and refuses to act.
+
+  The depth gate then failed on it: `Q88454` fell from **318 levels to 1**, all 3,525 of
+  her ancestors having reached her through that one edge. I could have argued that as proof
+  — under reading A she was inheriting her *husband's* line and losing it is correct — but
+  it is equally consistent with reading B, where it is a real amputation. **The gate cannot
+  distinguish spurious ancestry from real ancestry, and neither could I.** Reverted the
+  Esther cut, kept the Cleopatra one, re-ran: green.
+
+  Written into `queue.md`'s rails, because I had been reading `compare_depth` as a verdict:
+  **a red gate is not automatically "revert" and a green one is not automatically
+  "correct"** — it tells you how much is at stake, not who is right.
+
+  **Three crashes in `cut_edges.py`, all the same missing guard**, and the second landed
+  *after* the first edge was already on disk. I fixed the plan phase, then the apply phase,
+  then the verify phase. The right fix was at the root: `vals()` now returns `[]` for a
+  missing record, because a qid with no file trivially lists nothing. One guard at the
+  root beat three at the edges, and I only got there by getting it wrong twice.
+
 - **Merged six empty shells out of the tangles. 291 records in a cycle -> 285.**
 
   The `PHANTOM-PARENT` hits from yesterday's signal. Each loser is a shell: no label, no

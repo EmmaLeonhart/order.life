@@ -107,6 +107,21 @@ whichever failed. Merges still go through `wiki-scripts/merge_cluster.py <cluste
 enforces both merge rules above against what actually happened on disk; run
 `verify_repair.py` around it.
 
+**`compare_depth` CANNOT TELL SPURIOUS ANCESTRY FROM REAL ANCESTRY.** It measures loss,
+and a big loss is *usually* an amputation — but not always. On 2026-08-01 a cut made
+`Q88454` fall from **318 levels to 1**, because all 3,525 of her ancestors reached her
+through a single edge. Whether that is a catastrophe or a correction depends entirely on
+whether the edge was true, which the gate has no way to know:
+
+- if the edge was false, she was inheriting her *husband's* line through a reversed
+  parent claim, and losing it is the repair working;
+- if the edge was true, the cut just severed a real line.
+
+**So a red `compare_depth` is not automatically "revert", and a green one is not
+automatically "correct".** It tells you how much is at stake, not who is right. When it
+fires, go and settle the edge on external evidence — and if you cannot, revert, which is
+what happened to the two Esthers below.
+
 **A DEDUPE INSIDE A TANGLE WILL TRIP `compare_tangles`, AND THAT IS CORRECT.** It exits
 non-zero on *any* change to the SCC partition, and merging a duplicate that sits in a
 tangle really does leave that tangle with one fewer member. Read the lists and check the
@@ -235,25 +250,32 @@ central command.
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-2. **The remaining same-role collisions: one `WRONG-PARENT-EDGE`, one `PHANTOM-PARENT`.**
-   The six shells were merged 2026-08-01 (`phantom-shells`); **285 records in a tangle,
-   down from 291**, and `children_over_2_parents` 1215 -> 1209.
+2. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
+   `Q88454` "Esther bat Sahlan ben Abraham" and `Q90982` "Esther bat Yosef ben 'Amram
+   haDayyan al-Sijilmasi" are recorded as **each other's mother**. One of the two edges is
+   false. Both readings are naming-consistent:
 
-   - **`WRONG-PARENT-EDGE` — needs a source or Emma.** `Q72834` "Lucius Caecilius Metellus
-     Calvus" has **two fathers who are brothers**: `Q72984` *Quintus* Caecilius Metellus
-     (wd `Q929498`) and `Q148066` *Marcus* Caecilius Metellus (wd `Q897091`), both sons of
-     `Q73146`. Distinct Wikidata items and distinct praenomina, so **not a duplicate** —
-     one of the two father-edges is simply wrong and the dump does not say which. Do not
-     merge them.
-   - **One `PHANTOM-PARENT` left**, plus `Q78402`, which has **no file at all** and is one
-     of the 138 dangling endpoints. A missing record cannot be merged into anything; that
-     one belongs with item 4.
+   - **A:** Esther *bat Sahlan* married Yosef → their daughter is "Esther *bat Yosef*"
+   - **B:** Esther *bat Yosef* married Sahlan → their daughter is "Esther *bat Sahlan*"
 
-   **The test that matters when merging a shell, learned the hard way:** not "are the
-   parents identical" — that failed on three of the six and would have stopped correct
-   merges — but **is the shell's edge set a SUBSET of the real record's**. If it is,
-   merging adds no edge and only removes a duplicate node. The extra parents the real
-   records carried turned out to be *other shells*.
+   Under either, **each woman is correctly named for her own father and both recorded
+   father-claims hold.** The patronymics confirm the fathers and settle nothing about the
+   direction — which is exactly why `fix_mutual_parent_pairs.py` finds spouse-coparent
+   evidence on *both* sides and refuses to act. **I cut it under reading A and reverted:**
+   the claim that the patronymics decided it was wrong, and the depth gate's reaction
+   (`Q88454` 318 → 1) is consistent with *either* reading, so it settles nothing either.
+   Do not re-cut this without an external source.
+
+   **Also still open, and neither is a merge:** the `WRONG-PARENT-EDGE` on `Q72834` (two
+   fathers who are brothers, `Q72984` wd `Q929498` and `Q148066` wd `Q897091`), and the
+   four remaining mutual-parent pairs `fix_mutual_parent_pairs.py` skips —
+   `Q119481`/`Q124343` (different sexes and distinct wd ids, so **not** the merge the tool
+   suggests), `Q18066`/`Q32705`, `Q29144`/`Q29148`, `Q73530`/`Q73653`.
+
+   **`fix_mutual_parent_pairs.py` has two reporting defects** (it edits the dump, so they
+   matter, though it currently repairs 0 of 6 and is not doing damage): it recommends a
+   MERGE for pairs that are demonstrably two people, and it reported spouse-coparent
+   evidence for `Q78402`, **a record that does not exist at all**.
 
 3. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.

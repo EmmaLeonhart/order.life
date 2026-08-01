@@ -30,6 +30,43 @@ REDIRECTS = ROOT / "wikibase" / "analysis" / "redirects.tsv"
 P_FATHER, P_MOTHER, P_CHILD = "P47", "P48", "P20"
 
 CUTS = {
+    # queue.md item 2 (2026-08-01). Two of the six mutual-parent pairs that
+    # fix_mutual_parent_pairs.py declines to touch. It reports both as "two records of one
+    # person that need a MERGE"; hand-checking says neither is, and each is a different
+    # defect. That script edits the dump, so its misdiagnoses are written up in queue.md.
+    #
+    # (a) Q90982 <-> Q88454, THE TWO ESTHERS: **NOT CUT. I claimed the patronymics decided
+    #     the direction; they do not, and I retracted it before committing.**
+    #
+    #       Q88454  "Esther bat Sahlan ben Abraham"          father Q91024 Sahlan
+    #       Q90982  "Esther bat Yosef ben 'Amram haDayyan"   father Q88316 Yosef
+    #
+    #     Both readings are naming-consistent, which is the whole problem:
+    #       A: Esther bat Sahlan married Yosef  -> their daughter is "Esther bat Yosef"
+    #       B: Esther bat Yosef married Sahlan  -> their daughter is "Esther bat Sahlan"
+    #     Under EITHER, each woman is correctly named for her own father and each recorded
+    #     father-claim is right. The patronymics confirm both fathers and settle nothing
+    #     about who descends from whom -- which is exactly why fix_mutual_parent_pairs.py
+    #     reports spouse-coparent evidence on BOTH sides.
+    #
+    #     I cut it under reading A, and the depth gate then failed: Q88454 fell from 318
+    #     levels to 1, because all 3,525 of her ancestors reached her through Q90982. That
+    #     is not proof either way -- under reading A the inheritance was spurious and the
+    #     loss is correct, under reading B it is real ancestry and the cut is an amputation.
+    #     The gate cannot tell those apart, and neither can I. Reverted; needs a source.
+    #
+    # (b) Q78719 <-> Q78402, BOTH directions. Cleopatra III lists Q78402 as her mother AND
+    #     as her child, and Q78402 DOES NOT EXIST -- no file, no shadow claiming the qid,
+    #     absent from persons.tsv. It is one of the 138 dangling endpoints. A record that
+    #     does not exist cannot be anyone's mother, so both claims are removable with no
+    #     judgement call at all. Cleopatra keeps her real mother Q73194 Cleopatra II.
+    #     Why not UNMERGE/DEDUPE: there is nothing on the other side to merge with.
+    "mutual-parent-residue": [
+        ("Q78402", "Q78719", "Q78402 does not exist -- dangling mother claim on "
+                             "Cleopatra III"),
+        ("Q78719", "Q78402", "Q78402 does not exist -- dangling child claim on "
+                             "Cleopatra III"),
+    ],
     # queue.md item 1 (2026-07-31). The edge that closes the 18-record Roman tangle:
     #   Q72434 -> Q73893 -> Q73794 -> Q73692 -> ... -> Q72957 -> Q72801 -> Q72786 -> Q72434
     #
@@ -105,6 +142,13 @@ def load(q):
 
 
 def vals(d, pid):
+    # Tolerates a missing record. A qid with no file lists nothing, so the empty answer is
+    # the correct one rather than a crash. Guarding at each call site instead was the
+    # wrong shape: on 2026-08-01 this cut set hit the same NoneType three separate times
+    # -- plan, apply, then verify -- and the second crash landed AFTER the first edge had
+    # already been written to disk. One guard at the root beats three at the edges.
+    if d is None:
+        return []
     out = []
     for c in (d.get("claims") or {}).get(pid, []):
         v = ((c.get("mainsnak") or {}).get("datavalue") or {}).get("value")
@@ -168,11 +212,23 @@ def main():
     plan = []
     for parent, child, why in cuts:
         dp, dc = load(parent), load(child)
-        if dp is None or dc is None:
-            print(f"ABORT: {parent} or {child} has no item file")
+        # A DANGLING endpoint has no file on either side of the edge. Refusing the whole
+        # cut because one side does not exist was the wrong guard: the claim still sits on
+        # the side that DOES exist, pointing at nothing, and that claim is exactly what
+        # needs removing. Cleopatra III (Q78719) lists Q78402 as both her mother and her
+        # child, and Q78402 has no file, no shadow claiming the qid, and no persons.tsv
+        # row -- one of the 138 dangling endpoints. Abort only if NEITHER side exists,
+        # which would leave nothing to edit.
+        if dp is None and dc is None:
+            print(f"ABORT: neither {parent} nor {child} has an item file -- nothing to edit")
             return 1
-        on_parent = child in vals(dp, P_CHILD)
-        on_child = [p for p in (P_FATHER, P_MOTHER) if parent in vals(dc, p)]
+        if dp is None or dc is None:
+            missing = parent if dp is None else child
+            print(f"  note: {missing} has no item file (dangling endpoint) -- removing the "
+                  f"claim from the side that exists")
+        on_parent = dp is not None and child in vals(dp, P_CHILD)
+        on_child = ([p for p in (P_FATHER, P_MOTHER) if parent in vals(dc, p)]
+                    if dc is not None else [])
         if not on_parent and not on_child:
             print(f"  {parent} -> {child}: already absent on both sides, nothing to do")
             continue
@@ -194,35 +250,40 @@ def main():
     print("\napplying...")
     removed = 0
     dirty = set()
+    # Both sides are skipped when their file does not exist. The plan phase already
+    # allows a dangling endpoint through -- guarding only there and not here is what made
+    # this crash mid-run on 2026-08-01, after it had already written the first cut.
     for parent, child, _, _, _ in plan:
         dp = load(parent)
-        cl = (dp.get("claims") or {})
-        if P_CHILD in cl:
-            keep = [c for c in cl[P_CHILD]
-                    if ((c.get("mainsnak") or {}).get("datavalue") or {})
-                    .get("value", {}).get("id") != child]
-            removed += len(cl[P_CHILD]) - len(keep)
-            if keep:
-                cl[P_CHILD] = keep
-            else:
-                del cl[P_CHILD]
-        write_family(parent, dp, fam)
-        dirty.add(parent)
+        if dp is not None:
+            cl = (dp.get("claims") or {})
+            if P_CHILD in cl:
+                keep = [c for c in cl[P_CHILD]
+                        if ((c.get("mainsnak") or {}).get("datavalue") or {})
+                        .get("value", {}).get("id") != child]
+                removed += len(cl[P_CHILD]) - len(keep)
+                if keep:
+                    cl[P_CHILD] = keep
+                else:
+                    del cl[P_CHILD]
+            write_family(parent, dp, fam)
+            dirty.add(parent)
 
         dc = load(child)
-        cl = (dc.get("claims") or {})
-        for p in (P_FATHER, P_MOTHER):
-            if p in cl:
-                keep = [c for c in cl[p]
-                        if ((c.get("mainsnak") or {}).get("datavalue") or {})
-                        .get("value", {}).get("id") != parent]
-                removed += len(cl[p]) - len(keep)
-                if keep:
-                    cl[p] = keep
-                else:
-                    del cl[p]
-        write_family(child, dc, fam)
-        dirty.add(child)
+        if dc is not None:
+            cl = (dc.get("claims") or {})
+            for p in (P_FATHER, P_MOTHER):
+                if p in cl:
+                    keep = [c for c in cl[p]
+                            if ((c.get("mainsnak") or {}).get("datavalue") or {})
+                            .get("value", {}).get("id") != parent]
+                    removed += len(cl[p]) - len(keep)
+                    if keep:
+                        cl[p] = keep
+                    else:
+                        del cl[p]
+            write_family(child, dc, fam)
+            dirty.add(child)
 
     print(f"removed {removed} claim(s) across {len(dirty)} record(s)")
 
