@@ -2,6 +2,52 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-08-01
+
+- **The biggest tangle in the dump finally moved: 72 -> 71. The repair was a dedupe, and
+  three wrong guesses came first.**
+
+  Queue item 2 said the `Julia Livia` pair was the thing to fix and that "the cycle runs
+  through the Rubellius chain". **Both claims were wrong.** `Q139688` is not in a cycle at
+  all, and the canonical 21-record cycle does not touch the Rubellii.
+
+  What the cycle actually contains is one chronologically impossible step: `Q73140` "Gaius
+  Lincinius Varus" -- a descendant of `Q136506` Flavia Julia Constantia, d. 330 AD -- is
+  recorded as the father of `Q73770` "Publius Licinius Crassus", a Republican. A ~450-year
+  backwards jump on the shared nomen *Licinius*, exactly the repeating-cognomen collision
+  `queue.md` predicts for the long Roman tangles.
+
+  **So I tried to cut it, and the depth gate refused: 358 levels lost across 19,700
+  records.** Then the two edges upstream, which cost 1.5M and 1.56M total depth. All three
+  were gateways. `cycle_policy.md` says that when a loop can only be broken by cutting a
+  gateway the defect is elsewhere -- and I had now confirmed that by guessing three times.
+
+  **Guessing which edge to test is the wrong loop, so I built
+  `wiki-scripts/cheapest_cycle_break.py`**: it costs *every* edge of a cycle by the ancestry
+  a cut would destroy, and ranks them. Three edges came out at **zero**. Zero cost means a
+  parallel path exists, and a parallel path means a duplicate.
+
+  It was `Q64582` "Domitia Lucilla Minor" and `Q139826` "Calvisia Domitia Lucilla" -- **both
+  recorded as the mother of `Q63780` Marcus Aurelius**, with the same father and the same
+  mother by identity. Merged. `children_over_2_parents` 1217 -> 1215, records in a tangle
+  292 -> 291, **largest tangle 72 -> 71**, `compare_depth` PASS with worst loss 1, which is
+  the documented arithmetic of a tangle losing one member rather than any amputation.
+
+  **All three of my duplicate detectors were blind to it**, and that is the useful part.
+  The Wikidata-id signal needs both sides to carry an id and only one does; both label
+  signals need the labels to match, and "Domitia Lucilla Minor" does not normalise to
+  "Calvisia Domitia Lucilla". The evidence that actually decided it uses **no label at
+  all**: two records in the SAME parental role for one child, sharing their own parents.
+  One child cannot have two mothers. Written up as the next queue item, with the trap
+  attached -- sharing parents *and* a child is not enough by itself, because a
+  brother-sister couple produces exactly that and this genealogy has them. The same-role
+  part is what makes it a duplicate.
+
+  **A cheap edge is where a cut is affordable, not where it is correct.** The tool says so
+  in its own output, because ranking by damage would otherwise read as ranking by
+  correctness -- and the repair order still puts UNMERGE and DEDUPE ahead of CUT. Here the
+  cheap edge and the wrong edge coincided, which is what made it safe.
+
 ## 2026-07-31
 
 - **Genghis Khan reaches Aster. Bridge A applied, both halves, on Emma's "Both?".**

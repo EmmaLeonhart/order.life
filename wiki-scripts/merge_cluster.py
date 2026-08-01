@@ -238,6 +238,36 @@ CLUSTERS = {
         ("Q65555", "Q111364", "Adnan -- carries wd Q22338875, the only identifier of the "
                               "three"),
     ],
+    # queue.md item 2 (2026-08-01). The defect inside the 72-record Constantius tangle --
+    # the largest in the dump -- found by cheapest_cycle_break.py rather than by guessing.
+    #
+    #   Q64582   "Domitia Lucilla Minor"      f=Q65519 m=Q65552  wd=none        3 children
+    #   Q139826  "Calvisia Domitia Lucilla"   f=Q65519 m=Q65552  wd=Q1815905    2 children
+    #
+    # Both are recorded as the MOTHER of Q63780 Marcus Aurelius, and both have the SAME
+    # father and SAME mother BY IDENTITY. Two women with identical parents cannot both be
+    # one man's mother -- that is the dump stating the duplication about itself, the same
+    # signature that decided Q72615/Q72693 and the Porcia pair. Q139826's wd Q1815905 is
+    # "Domitia Lucilla", which is letter-for-letter what Q64582 is labelled.
+    #
+    # Survivor Q64582 by the lower-QID convention; the union carries Q139826's Wikidata id.
+    #
+    # NEITHER EXISTING DETECTOR COULD SEE THIS. The shared-Wikidata-id signal needs both
+    # sides to carry an id and only one does. The label signals require the labels to
+    # match, and "Domitia Lucilla Minor" does not normalise to "Calvisia Domitia Lucilla".
+    # What identifies it is purely structural: a same-ROLE parent collision (two P48
+    # mothers of one child) plus identical parentage. That signal is written up as the next
+    # queue item.
+    #
+    # WHY THIS AND NOT A CUT: cheapest_cycle_break.py costed all 29 edges of the cycle.
+    # Every chronologically-suspect edge in the Licinius stretch costs 19,700 records their
+    # ancestry (worst -358); this edge costs ZERO, because the duplicate provides a
+    # parallel path. Cheap AND wrong is the combination that makes a repair safe.
+    "domitia-lucilla": [
+        ("Q64582", "Q139826", "Domitia Lucilla Minor -- same father Q65519 and same mother "
+                              "Q65552 by identity, and both are recorded as the mother of "
+                              "Q63780 Marcus Aurelius; Q139826 carries wd Q1815905"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "

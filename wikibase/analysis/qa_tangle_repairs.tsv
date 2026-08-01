@@ -1,93 +1,90 @@
 tangle_size	tangle_head	parent	parent_label	child	child_label	wd_verdict	flag	action	detail
-72	Q61565	Q61565	Constantius Chlorus	Q136506	Flavia Julia Constantia	confirmed		GENERATION-COLLAPSE	Wikidata agrees Constantius Chlorus is a parent of Flavia Julia Constantia
-72	Q61565	Q61957	Claudia Crispina	Q61565	Constantius Chlorus	confirmed		GENERATION-COLLAPSE	Wikidata agrees Claudia Crispina is a parent of Constantius Chlorus
-72	Q61565	Q62255	Aurelia Pompeiana	Q61957	Claudia Crispina	confirmed		GENERATION-COLLAPSE	Wikidata agrees Aurelia Pompeiana is a parent of Claudia Crispina
-72	Q61565	Q62680	Mariana Minor	Q62255	Aurelia Pompeiana	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q62704	Lucius Aurellius Commodus Pompeianus	Q62255	Aurelia Pompeiana	confirmed		GENERATION-COLLAPSE	Wikidata agrees Lucius Aurellius Commodus Pompeianus is a parent of Aurelia Pompeiana
-72	Q61565	Q63157	Pendania	Q62680	Mariana Minor	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q63192	Lucilla	Q62704	Lucius Aurellius Commodus Pompeianus	confirmed		GENERATION-COLLAPSE	Wikidata agrees Lucilla is a parent of Lucius Aurellius Commodus Pompeianus
-72	Q61565	Q63684	Ummidia Commificia Antonia	Q63157	Pendania	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q63747	Faustina the Younger	Q63192	Lucilla	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q63780	Marcus Aurelius	Q63192	Lucilla	confirmed		GENERATION-COLLAPSE	Wikidata agrees Marcus Aurelius is a parent of Lucilla
-72	Q61565	Q64355	Gaius Ummidius Quadratus Annianus Verus  Fulvius	Q63684	Ummidia Commificia Antonia	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q64388	Annia Cornificia Faustina	Q63684	Ummidia Commificia Antonia	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q64483	Faustina the Elder	Q63747	Faustina the Younger	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q64516	Antoninus Pius	Q63747	Faustina the Younger	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q64549	Marcus Annius Verus	Q63780	Marcus Aurelius	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q64549	Marcus Annius Verus	Q65225	Annia Cornificia Faustina	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q64582	Domitia Lucilla Minor	Q63780	Marcus Aurelius	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q64582	Domitia Lucilla Minor	Q65225	Annia Cornificia Faustina	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q65192	Gaius Annianus Verus	Q64355	Gaius Ummidius Quadratus Annianus Verus  Fulvius	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q65225	Annia Cornificia Faustina	Q64355	Gaius Ummidius Quadratus Annianus Verus  Fulvius	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q65258	Rupilia Faustina	Q64388	Annia Cornificia Faustina	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q65258	Rupilia Faustina	Q64483	Faustina the Elder	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q65258	Rupilia Faustina	Q64549	Marcus Annius Verus	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q65258	Rupilia Faustina	Q141756	Annia Rupilia Faustina	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q65489	Hadrian	Q64516	Antoninus Pius	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q65552	Domitia Lucilla	Q64582	Domitia Lucilla Minor	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q65552	Domitia Lucilla	Q139826	Calvisia Domitia Lucilla	confirmed		GENERATION-COLLAPSE	Wikidata agrees Domitia Lucilla is a parent of Calvisia Domitia Lucilla
-72	Q61565	Q66488	Libo Rupilius Frugi	Q65258	Rupilia Faustina	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q66784	Andhra Pradesh	Q65489	Hadrian	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q66916	Curtilia Mancia	Q65552	Domitia Lucilla	confirmed		GENERATION-COLLAPSE	Wikidata agrees Curtilia Mancia is a parent of Domitia Lucilla
-72	Q61565	Q67573	Marcus Licinius Crassus Frugi	Q66488	Libo Rupilius Frugi	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q68283	Nerva	Q66784	Andhra Pradesh	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q68488	Octavia	Q66916	Curtilia Mancia	unknown		GENERATION-COLLAPSE	no Wikidata ID for Octavia
-72	Q61565	Q69263	Scribonia Magna	Q67573	Marcus Licinius Crassus Frugi	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q69296	Marcus Licinius Crassus Frugi	Q67573	Marcus Licinius Crassus Frugi	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q69972	Octavia Sergia Plotilla	Q68283	Nerva	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q70152	Rubellia Bassa	Q68488	Octavia	unknown		GENERATION-COLLAPSE	no Wikidata ID for Rubellia Bassa and Octavia
-72	Q61565	Q70152	Rubellia Bassa	Q69972	Octavia Sergia Plotilla	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q70337	Cornelia Pompeia Magna	Q69263	Scribonia Magna	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q70340	Lucius Scribonius Libo	Q69263	Scribonia Magna	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q70343	Marcus Licinius Crassus Dives	Q69296	Marcus Licinius Crassus Frugi	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q70346	Fausta  Cornelia	Q69296	Marcus Licinius Crassus Frugi	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q70718	Gaius Rubellius Blandus	Q70152	Rubellia Bassa	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q70970	Pompeia Magna	Q70337	Cornelia Pompeia Magna	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q70970	Pompeia Magna	Q71083	Faustus Cornelius Sulla	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q70970	Pompeia Magna	Q139746	Cornelia Magna	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q71026	Marcus Pupius Piso Frugi	Q70343	Marcus Licinius Crassus Dives	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q71083	Faustus Cornelius Sulla	Q70346	Fausta  Cornelia	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q71628	Lucius Rubellius Blandus	Q70718	Gaius Rubellius Blandus	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q72239	Vipsania Agrippina	Q77611	Drusus Julius Caesar	confirmed		GENERATION-COLLAPSE	Wikidata agrees Vipsania Agrippina is a parent of Drusus Julius Caesar
-72	Q61565	Q72266	Mucia Tertia	Q70970	Pompeia Magna	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q72278	Marcus Pupius Piso Frugi Calpurnianus	Q71026	Marcus Pupius Piso Frugi	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q72338	Rubellius Blandus	Q71628	Lucius Rubellius Blandus	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q72425	Attica	Q72239	Vipsania Agrippina	confirmed		GENERATION-COLLAPSE	Wikidata agrees Attica is a parent of Vipsania Agrippina
-72	Q61565	Q72451	Quintus Mucius Scaevola Pontifex	Q72266	Mucia Tertia	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q72466	Marcus Licinius Crassus	Q72278	Marcus Pupius Piso Frugi Calpurnianus	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q72603	Pilia	Q72425	Attica	confirmed		GENERATION-COLLAPSE	Wikidata agrees Pilia is a parent of Attica
-72	Q61565	Q72633	Publius Mucius Scaevola	Q72451	Quintus Mucius Scaevola Pontifex	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q72657	Publius Licinius Crassus Dives	Q72466	Marcus Licinius Crassus	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q72657	Publius Licinius Crassus Dives	Q72933	Marcus Licinius Crassus	unknown		GENERATION-COLLAPSE	no Wikidata ID for Marcus Licinius Crassus
-72	Q61565	Q72774	Licinia Crassa  Pilius	Q72603	Pilia	unknown		GENERATION-COLLAPSE	no Wikidata ID for Licinia Crassa Pilius
-72	Q61565	Q72807	Publius Mucius Scaevola	Q72633	Publius Mucius Scaevola	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q72810	Licinia	Q72633	Publius Mucius Scaevola	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q72831	Marcus Licinius Crassus	Q72657	Publius Licinius Crassus Dives	confirmed		GENERATION-COLLAPSE	Wikidata agrees Marcus Licinius Crassus is a parent of Publius Licinius Crassus Dives
-72	Q61565	Q72933	Marcus Licinius Crassus	Q72774	Licinia Crassa  Pilius	unknown		GENERATION-COLLAPSE	no Wikidata ID for Marcus Licinius Crassus and Licinia Crassa Pilius
-72	Q61565	Q72966	Lincinia  Varus	Q72807	Publius Mucius Scaevola	unknown		GENERATION-COLLAPSE	no Wikidata ID for Lincinia Varus
-72	Q61565	Q72972	Publius Licinius Crassus Dives	Q72810	Licinia	contradicted		GENERATION-COLLAPSE	Wikidata records no link between them
-72	Q61565	Q72972	Publius Licinius Crassus Dives	Q72981	Publius Licinius Crassus	confirmed		GENERATION-COLLAPSE	Wikidata agrees Publius Licinius Crassus Dives is a parent of Publius Licinius Crassus
-72	Q61565	Q72972	Publius Licinius Crassus Dives	Q73260	Marcus Licinius Crassus Agelastus	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q72981	Publius Licinius Crassus	Q72831	Marcus Licinius Crassus	contradicted		GENERATION-COLLAPSE	Wikidata records no link between them
-72	Q61565	Q72981	Publius Licinius Crassus	Q73260	Marcus Licinius Crassus Agelastus	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q73083	Publius Licinius Crassus Dives (consul 97 BC)	Q72933	Marcus Licinius Crassus	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q73140	Gaius Lincinius  Varus	Q72966	Lincinia  Varus	unknown		GENERATION-COLLAPSE	no Wikidata ID for Gaius Lincinius Varus and Lincinia Varus
-72	Q61565	Q73140	Gaius Lincinius  Varus	Q73770	Publius Licinius  Crassus	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q73260	Marcus Licinius Crassus Agelastus	Q73083	Publius Licinius Crassus Dives (consul 97 BC)	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q73308	Licinius  Varus	Q73140	Gaius Lincinius  Varus	unknown		GENERATION-COLLAPSE	no Wikidata ID for Licinius Varus and Gaius Lincinius Varus
-72	Q61565	Q73665	Publius Licinius  Crassus	Q72972	Publius Licinius Crassus Dives	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q73665	Publius Licinius  Crassus	Q99408	Publius Licinius Varus Licinius Crassus  Crassus	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q73770	Publius Licinius  Crassus	Q73665	Publius Licinius  Crassus	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q77386	Julia Livia	Q70152	Rubellia Bassa	unknown		GENERATION-COLLAPSE	no Wikidata ID for Julia Livia and Rubellia Bassa
-72	Q61565	Q77611	Drusus Julius Caesar	Q77386	Julia Livia	unknown		GENERATION-COLLAPSE	no Wikidata ID for Julia Livia
-72	Q61565	Q77611	Drusus Julius Caesar	Q138467	Julia Livia	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q99408	Publius Licinius Varus Licinius Crassus  Crassus	Q72972	Publius Licinius Crassus Dives	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q136506	Flavia Julia Constantia	Q73308	Licinius  Varus	unknown		GENERATION-COLLAPSE	no Wikidata ID for Licinius Varus
-72	Q61565	Q138467	Julia Livia	Q72338	Rubellius Blandus	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q139746	Cornelia Magna	Q70340	Lucius Scribonius Libo	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q139826	Calvisia Domitia Lucilla	Q63780	Marcus Aurelius	confirmed		GENERATION-COLLAPSE	Wikidata agrees Calvisia Domitia Lucilla is a parent of Marcus Aurelius
-72	Q61565	Q139826	Calvisia Domitia Lucilla	Q65225	Annia Cornificia Faustina	not-checked		GENERATION-COLLAPSE	
-72	Q61565	Q141756	Annia Rupilia Faustina	Q65192	Gaius Annianus Verus	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q61565	Constantius Chlorus	Q136506	Flavia Julia Constantia	confirmed		GENERATION-COLLAPSE	Wikidata agrees Constantius Chlorus is a parent of Flavia Julia Constantia
+71	Q61565	Q61957	Claudia Crispina	Q61565	Constantius Chlorus	confirmed		GENERATION-COLLAPSE	Wikidata agrees Claudia Crispina is a parent of Constantius Chlorus
+71	Q61565	Q62255	Aurelia Pompeiana	Q61957	Claudia Crispina	confirmed		GENERATION-COLLAPSE	Wikidata agrees Aurelia Pompeiana is a parent of Claudia Crispina
+71	Q61565	Q62680	Mariana Minor	Q62255	Aurelia Pompeiana	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q62704	Lucius Aurellius Commodus Pompeianus	Q62255	Aurelia Pompeiana	confirmed		GENERATION-COLLAPSE	Wikidata agrees Lucius Aurellius Commodus Pompeianus is a parent of Aurelia Pompeiana
+71	Q61565	Q63157	Pendania	Q62680	Mariana Minor	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q63192	Lucilla	Q62704	Lucius Aurellius Commodus Pompeianus	confirmed		GENERATION-COLLAPSE	Wikidata agrees Lucilla is a parent of Lucius Aurellius Commodus Pompeianus
+71	Q61565	Q63684	Ummidia Commificia Antonia	Q63157	Pendania	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q63747	Faustina the Younger	Q63192	Lucilla	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q63780	Marcus Aurelius	Q63192	Lucilla	confirmed		GENERATION-COLLAPSE	Wikidata agrees Marcus Aurelius is a parent of Lucilla
+71	Q61565	Q64355	Gaius Ummidius Quadratus Annianus Verus  Fulvius	Q63684	Ummidia Commificia Antonia	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q64388	Annia Cornificia Faustina	Q63684	Ummidia Commificia Antonia	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q64483	Faustina the Elder	Q63747	Faustina the Younger	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q64516	Antoninus Pius	Q63747	Faustina the Younger	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q64549	Marcus Annius Verus	Q63780	Marcus Aurelius	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q64549	Marcus Annius Verus	Q65225	Annia Cornificia Faustina	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q64582	Domitia Lucilla Minor	Q63780	Marcus Aurelius	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q64582	Domitia Lucilla Minor	Q65225	Annia Cornificia Faustina	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q65192	Gaius Annianus Verus	Q64355	Gaius Ummidius Quadratus Annianus Verus  Fulvius	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q65225	Annia Cornificia Faustina	Q64355	Gaius Ummidius Quadratus Annianus Verus  Fulvius	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q65258	Rupilia Faustina	Q64388	Annia Cornificia Faustina	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q65258	Rupilia Faustina	Q64483	Faustina the Elder	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q65258	Rupilia Faustina	Q64549	Marcus Annius Verus	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q65258	Rupilia Faustina	Q141756	Annia Rupilia Faustina	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q65489	Hadrian	Q64516	Antoninus Pius	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q65552	Domitia Lucilla	Q64582	Domitia Lucilla Minor	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q66488	Libo Rupilius Frugi	Q65258	Rupilia Faustina	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q66784	Andhra Pradesh	Q65489	Hadrian	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q66916	Curtilia Mancia	Q65552	Domitia Lucilla	confirmed		GENERATION-COLLAPSE	Wikidata agrees Curtilia Mancia is a parent of Domitia Lucilla
+71	Q61565	Q67573	Marcus Licinius Crassus Frugi	Q66488	Libo Rupilius Frugi	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q68283	Nerva	Q66784	Andhra Pradesh	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q68488	Octavia	Q66916	Curtilia Mancia	unknown		GENERATION-COLLAPSE	no Wikidata ID for Octavia
+71	Q61565	Q69263	Scribonia Magna	Q67573	Marcus Licinius Crassus Frugi	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q69296	Marcus Licinius Crassus Frugi	Q67573	Marcus Licinius Crassus Frugi	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q69972	Octavia Sergia Plotilla	Q68283	Nerva	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q70152	Rubellia Bassa	Q68488	Octavia	unknown		GENERATION-COLLAPSE	no Wikidata ID for Rubellia Bassa and Octavia
+71	Q61565	Q70152	Rubellia Bassa	Q69972	Octavia Sergia Plotilla	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q70337	Cornelia Pompeia Magna	Q69263	Scribonia Magna	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q70340	Lucius Scribonius Libo	Q69263	Scribonia Magna	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q70343	Marcus Licinius Crassus Dives	Q69296	Marcus Licinius Crassus Frugi	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q70346	Fausta  Cornelia	Q69296	Marcus Licinius Crassus Frugi	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q70718	Gaius Rubellius Blandus	Q70152	Rubellia Bassa	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q70970	Pompeia Magna	Q70337	Cornelia Pompeia Magna	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q70970	Pompeia Magna	Q71083	Faustus Cornelius Sulla	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q70970	Pompeia Magna	Q139746	Cornelia Magna	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q71026	Marcus Pupius Piso Frugi	Q70343	Marcus Licinius Crassus Dives	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q71083	Faustus Cornelius Sulla	Q70346	Fausta  Cornelia	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q71628	Lucius Rubellius Blandus	Q70718	Gaius Rubellius Blandus	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q72239	Vipsania Agrippina	Q77611	Drusus Julius Caesar	confirmed		GENERATION-COLLAPSE	Wikidata agrees Vipsania Agrippina is a parent of Drusus Julius Caesar
+71	Q61565	Q72266	Mucia Tertia	Q70970	Pompeia Magna	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q72278	Marcus Pupius Piso Frugi Calpurnianus	Q71026	Marcus Pupius Piso Frugi	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q72338	Rubellius Blandus	Q71628	Lucius Rubellius Blandus	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q72425	Attica	Q72239	Vipsania Agrippina	confirmed		GENERATION-COLLAPSE	Wikidata agrees Attica is a parent of Vipsania Agrippina
+71	Q61565	Q72451	Quintus Mucius Scaevola Pontifex	Q72266	Mucia Tertia	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q72466	Marcus Licinius Crassus	Q72278	Marcus Pupius Piso Frugi Calpurnianus	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q72603	Pilia	Q72425	Attica	confirmed		GENERATION-COLLAPSE	Wikidata agrees Pilia is a parent of Attica
+71	Q61565	Q72633	Publius Mucius Scaevola	Q72451	Quintus Mucius Scaevola Pontifex	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q72657	Publius Licinius Crassus Dives	Q72466	Marcus Licinius Crassus	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q72657	Publius Licinius Crassus Dives	Q72933	Marcus Licinius Crassus	unknown		GENERATION-COLLAPSE	no Wikidata ID for Marcus Licinius Crassus
+71	Q61565	Q72774	Licinia Crassa  Pilius	Q72603	Pilia	unknown		GENERATION-COLLAPSE	no Wikidata ID for Licinia Crassa Pilius
+71	Q61565	Q72807	Publius Mucius Scaevola	Q72633	Publius Mucius Scaevola	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q72810	Licinia	Q72633	Publius Mucius Scaevola	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q72831	Marcus Licinius Crassus	Q72657	Publius Licinius Crassus Dives	confirmed		GENERATION-COLLAPSE	Wikidata agrees Marcus Licinius Crassus is a parent of Publius Licinius Crassus Dives
+71	Q61565	Q72933	Marcus Licinius Crassus	Q72774	Licinia Crassa  Pilius	unknown		GENERATION-COLLAPSE	no Wikidata ID for Marcus Licinius Crassus and Licinia Crassa Pilius
+71	Q61565	Q72966	Lincinia  Varus	Q72807	Publius Mucius Scaevola	unknown		GENERATION-COLLAPSE	no Wikidata ID for Lincinia Varus
+71	Q61565	Q72972	Publius Licinius Crassus Dives	Q72810	Licinia	contradicted		GENERATION-COLLAPSE	Wikidata records no link between them
+71	Q61565	Q72972	Publius Licinius Crassus Dives	Q72981	Publius Licinius Crassus	confirmed		GENERATION-COLLAPSE	Wikidata agrees Publius Licinius Crassus Dives is a parent of Publius Licinius Crassus
+71	Q61565	Q72972	Publius Licinius Crassus Dives	Q73260	Marcus Licinius Crassus Agelastus	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q72981	Publius Licinius Crassus	Q72831	Marcus Licinius Crassus	contradicted		GENERATION-COLLAPSE	Wikidata records no link between them
+71	Q61565	Q72981	Publius Licinius Crassus	Q73260	Marcus Licinius Crassus Agelastus	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q73083	Publius Licinius Crassus Dives (consul 97 BC)	Q72933	Marcus Licinius Crassus	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q73140	Gaius Lincinius  Varus	Q72966	Lincinia  Varus	unknown		GENERATION-COLLAPSE	no Wikidata ID for Gaius Lincinius Varus and Lincinia Varus
+71	Q61565	Q73140	Gaius Lincinius  Varus	Q73770	Publius Licinius  Crassus	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q73260	Marcus Licinius Crassus Agelastus	Q73083	Publius Licinius Crassus Dives (consul 97 BC)	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q73308	Licinius  Varus	Q73140	Gaius Lincinius  Varus	unknown		GENERATION-COLLAPSE	no Wikidata ID for Licinius Varus and Gaius Lincinius Varus
+71	Q61565	Q73665	Publius Licinius  Crassus	Q72972	Publius Licinius Crassus Dives	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q73665	Publius Licinius  Crassus	Q99408	Publius Licinius Varus Licinius Crassus  Crassus	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q73770	Publius Licinius  Crassus	Q73665	Publius Licinius  Crassus	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q77386	Julia Livia	Q70152	Rubellia Bassa	unknown		GENERATION-COLLAPSE	no Wikidata ID for Julia Livia and Rubellia Bassa
+71	Q61565	Q77611	Drusus Julius Caesar	Q77386	Julia Livia	unknown		GENERATION-COLLAPSE	no Wikidata ID for Julia Livia
+71	Q61565	Q77611	Drusus Julius Caesar	Q138467	Julia Livia	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q99408	Publius Licinius Varus Licinius Crassus  Crassus	Q72972	Publius Licinius Crassus Dives	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q136506	Flavia Julia Constantia	Q73308	Licinius  Varus	unknown		GENERATION-COLLAPSE	no Wikidata ID for Licinius Varus
+71	Q61565	Q138467	Julia Livia	Q72338	Rubellius Blandus	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q139746	Cornelia Magna	Q70340	Lucius Scribonius Libo	not-checked		GENERATION-COLLAPSE	
+71	Q61565	Q141756	Annia Rupilia Faustina	Q65192	Gaius Annianus Verus	not-checked		GENERATION-COLLAPSE	
 18	Q62515	Q62515	Petronia	Q75817	Publilia	unknown		REVIEW	no Wikidata ID for Petronia and Publilia
 18	Q62515	Q62926	Gnaeus Petronius Probatus Junior  Justus	Q62515	Petronia	unknown		REVIEW	no Wikidata ID for Gnaeus Petronius Probatus Junior Justus and Petronia
 18	Q62515	Q63517	Petronius  Junior	Q62926	Gnaeus Petronius Probatus Junior  Justus	unknown		REVIEW	no Wikidata ID for Petronius Junior and Gnaeus Petronius Probatus Junior Justus

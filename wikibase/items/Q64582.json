@@ -236,6 +236,115 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P61": [
+      {
+        "id": "Q139826$D5F9483E-6EAD-429E-A733-22B76047EAC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1815905"
+          },
+          "hash": "6b5b31aa83d321a891a74d8ff5f79f8550398059",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1185": [
+      {
+        "id": "Q139826$1FDEEA6E-0721-4165-A030-39B2D2FAE91E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "246073"
+          },
+          "hash": "e01f495a1027465199114056bb1b854db1b10afd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q139826$D54496B8-EE76-4EAE-877E-1AFAAB611F7F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446846"
+          },
+          "hash": "a0629ea277c672bb5e84fe63d12eae99b99d25a5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q139826$30C5B6C1-FBB3-4A55-B526-70EAFE8121B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Domitii-1"
+          },
+          "hash": "6729eca6a89f3a6f18bf36ca01b07d42167af7c0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139826$8570A732-0829-4C94-93F0-FC41F66F8133",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Domitia_Unknown_(1)"
+          },
+          "hash": "b1aad76daa181537027442956cbec20b470e10a2",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139826$C0E573E9-4D48-44A7-8FC8-D2059AD29E91",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
