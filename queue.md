@@ -86,8 +86,11 @@ number in this file, `devlog.md`, `HANDOFF.md` and `GENEALOGY_QA.md` predating 2
 is unsound, including the `52 -> 54`.** Fixed 2026-07-31: it now emits one canonical
 shortest cycle per strongly connected component, deterministically (five runs byte-identical),
 and its totals match `check_invariants.py`'s independent Tarjan. The well-defined quantity is
-the **tangle** (an SCC of size > 1) — **34** of them, holding **278** records. Verify repairs against
-`tangled_components` / `records_in_a_cycle`, never against a cycle count.
+the **tangle** (an SCC of size > 1) — **35** of them, holding **295** records (2026-07-31,
+after the Calavius and Quintus Lepidus dedupes). Verify repairs against
+`tangled_components` / `records_in_a_cycle`, never against a cycle count. **These two
+numbers go stale on every repair — re-read them from `check_invariants.py`, do not quote
+this line.**
 
 **HOW TO VERIFY A REPAIR — one command, not a list of steps.**
 
@@ -262,6 +265,28 @@ central command.
 
 ## AWAITING EMMA — reports written, decisions open
 
+> ### ⛔ NOTION WINS. READ IT BEFORE TRUSTING THIS SECTION.
+>
+> **Emma, 2026-07-31: "Notion wins pretty much all the time as per central command rules."**
+> Where this file and the board disagree, **the board is right and this file is stale.**
+>
+> The board arrives as two synced files at the repo root — **`notion-open-questions.md`**
+> (the order.life board section) and **`notion-work-loop.md`** (the Work Loop page,
+> bidirectional). Read both before acting on anything in this section or on any report's
+> "needs Emma" verdict.
+>
+> **Why this warning exists.** Four of the five decisions below sat *answered by Emma on
+> the Work Loop page* for a day while this file went on saying "nothing here has been acted
+> on", because no route existed from that page to any repo file. The patriarch overlay was
+> re-asked repeatedly after she had already answered it. A stale "needs Emma" is not a
+> neutral placeholder — it makes the loop interrogate her about settled things and stalls
+> the work behind them.
+>
+> **Never push to Notion from this repo.** Not with the Notion MCP tools, not by extending
+> `build_cycles_notion.py`. The hub's `sync_board.py` is the only Notion writer. Generate
+> `cycles_review.md`; the hub publishes it. To answer Emma, **write into
+> `notion-work-loop.md`** and let the sync carry it up.
+
 **Read the scope note above first.** These reports were written as defect reports before
 Emma set the cycles-only scope and said much of what looks wrong is intentional. Treat
 their "DATA ERROR" verdicts as *unconfirmed* until she rules on each — R1 was ruled
@@ -272,14 +297,25 @@ apply anything from these; do not extend them.**
 The splice stays. `adnan_merge_proposed.md` is updated; M5–M12 and the "Banu Adnan is
 filler" verdict are withdrawn.
 
-1. `planning/lineage_bridges_proposed.md` — **Adam→Genghis**: take A1 (attach Khaidu to
-   the Borjigin chain already in the dump) or A2 (Haplogroup C2-M217), or both.
-   **Jimmu↔Heo**: strike it — it cannot be drafted without inventing scripture — and
-   substitute B1 (Prince Junda → Yamato no Ototsugu), or drop it. **Kosala→Heo**: held
-   behind the Kosala dedup, then C1.
-2. `wikibase/analysis/epic_vs_dump.md` — eight rows in "which side moves". The one that
-   needs Emma most: chapter 181's "bore him ten sons", where the data fix means inventing
-   nine named sons and the prose fix means dropping a Garakguk-gi detail.
+1. `planning/lineage_bridges_proposed.md` — **Adam→Genghis: DECIDED 2026-07-31, do BOTH
+   A1 and A2.** Emma answered "Both?" on the Work Loop page; the hub reads the "?" as
+   dictation, not a hedge. **This is now executable work, not a question:** attach Khaidu to
+   the Borjigin chain already in the dump (A1) *and* record the Haplogroup C2-M217 route
+   (A2). Run the full `verify_repair.py` ritual around it — this adds edges into a line that
+   reaches Aster.
+   **Still genuinely open:** **Jimmu↔Heo** (strike it, or substitute B1 Prince Junda →
+   Yamato no Ototsugu, or drop it) and **Kosala→Heo** (held behind the Kosala dedup, then
+   C1). Neither was on the Work Loop page's list.
+2. `wikibase/analysis/epic_vs_dump.md` — eight rows in "which side moves".
+   **Chapter 181's "bore him ten sons": DECIDED 2026-07-31 — the DATA moves, not the prose.**
+   Emma: *"Uhh yeah the ten sons exist"*. The chapter stands; the nine missing sons get
+   recorded in the dump. **Do not rewrite the chapter.** Note the naming problem is real and
+   unsolved — the report says the data fix "means inventing nine named sons", so before
+   creating anything, go and find whether Garakguk-gi actually names them. **If the sources
+   name them, record those names; if they do not, that is a second question for Emma, not a
+   licence to invent.**
+   Row 1 of the eight (the Noah relabel) is **withdrawn** — see item 3.
+   The other six rows are still unanswered.
 3. ~~`wikibase/analysis/patriarch_overlay.md`~~ — **DECIDED 2026-07-31 by Emma: deliberate
    euhemerism. "the mesopotamian ones is completely intentional euhemerism".** The nine
    records keep their Mesopotamian royal labels; the fix is *none*. **The relabel proposal
@@ -288,11 +324,25 @@ filler" verdict are withdrawn.
    this queue kept asking anyway. Emma had recorded the decision repeatedly. Details in
    `patriarch_overlay.md`. Still open and unaffected: the position-only rows (`Naram-Ilum`,
    `Shu-Sin`) and the `Kanʿān` generation error, which are structural, not naming.
-4. `wikibase/analysis/adnan_merge_proposed.md` — decide **R1** (cut the Emesene splice at
-   `Fihr born of Iamblichus`) *before* **M3** (which of the three Adnan records survives).
-   The order matters; M3 is not decidable on its own.
+4. `wikibase/analysis/adnan_merge_proposed.md` — **M3 DECIDED 2026-07-31: merge all three
+   Adnan records.** Emma: *"You merge them lol"* — i.e. do not pick one survivor and drop
+   the other two; union them into one record. R1 was already decided 2026-07-30 (the
+   Emesene route is intentional, the splice stays), so the old "decide R1 before M3"
+   framing is spent. **Executable now** via `merge_cluster.py` as a new cluster, which will
+   carry every property rather than just the genealogy. Verify with the full ritual.
 5. The Kosala dedup — three parallel imports of one king list — gates both C1 above and
-   any further Indian-line work.
+   any further Indian-line work. **Still open**; it was not on the Work Loop page's list.
+
+6. ~~Naming the primordial half of `Q74698` Tros~~ — **ANSWERED 2026-07-31 by the dump
+   itself, not by Emma.** She asked "What? Explain better", and the better explanation is
+   that **there is nothing left to name**: the unmerge was already carried out. `Q74698` is
+   labelled **Uranus** (aliases *Uranus / Caelus / Ouranos*), its parents are **Aether and
+   Dies** — Hyginus's parentage for Caelus — and its 59 children are the entire Ouranos
+   roster (Titans, Cyclopes, Hecatoncheires, Gigantes, Erinyes) with **zero Trojan claims
+   left**. The four mythic cycles are gone; none of those records is in a tangle.
+   **`Tros → Ops` was never spill** — Ops is Rhea, `Ouranos → Rhea` is correct, and it has
+   been moved from `PENDING_UNMERGE` (where it was wrongly marked blocked-on-Emma) into
+   `PROTECTED`. Full write-up at the top of `cycle_policy.md`.
 
 ---
 

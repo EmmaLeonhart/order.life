@@ -48,16 +48,25 @@ PROTECTED = {
     ("Q131024", "Q74973"): "Anchiroe -> Danaus. cycle_policy.md, same sentence.",
     ("Q75225", "Q74973"): "Iapetos -> Danaus, Titan tier. cycle_policy.md protects the "
                           "Titan descent.",
+    ("Q74698", "Q74677"): "Uranus -> Ops. Was held in PENDING_UNMERGE as 'Tros -> Ops' "
+                          "pending Emma naming the primordial half of Q74698. That block "
+                          "was stale -- the unmerge is done, Q74698 is Ouranos/Caelus, and "
+                          "Ops is Rhea, so this is the correct Titan-tier parentage.",
 }
 
 # Edges that are residue of an unmerge that was proposed but never finished, so they are
 # neither correct nor free to cut -- the record has to be split first.
-PENDING_UNMERGE = {
-    ("Q74698", "Q74677"): "Tros -> Ops. cycle_policy.md proposes splitting Q74698 into "
-                          "Tros of Dardania and a primordial figure, with Ops and the "
-                          "Titan descent going to the primordial half. Blocked on the "
-                          "naming of that half, which is Emma's call.",
-}
+#
+# EMPTY as of 2026-07-31. The one entry here was Q74698 -> Q74677 "Tros -> Ops", held
+# pending Emma naming the primordial half of the Tros/primordial merge. That block was
+# STALE: the unmerge had already been carried out. Q74698 is now labelled "Uranus" with
+# aliases Uranus / Caelus / Ouranos, its parents are Aether and Dies -- which is Hyginus's
+# parentage for Caelus -- and its 59 children are the complete Ouranos roster (the Titans,
+# the Cyclopes, the Hecatoncheires, the Gigantes, the Erinyes) with ZERO Trojan claims
+# left on it. Nothing remains to name or to split.
+#
+# The edge itself moved to PROTECTED above: Ops is Rhea, and Ouranos -> Rhea is correct.
+PENDING_UNMERGE = {}
 
 
 def qnum(q):

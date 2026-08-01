@@ -86,6 +86,30 @@ def main():
         seen.discard(start)
         return seen
 
+    def cell(s, width=None):
+        """Make a string safe to sit inside a markdown table cell.
+
+        Reported back by the hub 2026-07-31: Q137449 is named
+        'Lleuki|Nest ferch Gwerstan ap Gwaithfoed', so its row emitted TEN fields against a
+        nine-column header and the whole row shifted. Q153460 and Q160707 carry a stray
+        backslash ('SANJNA \\ Saranyu'), which then reads as an escape character.
+
+        The hub's reader now recovers both by right-anchoring surplus fields, but that is a
+        repair downstream of a defect here -- the generator should not emit a broken row in
+        the first place.
+
+        Two ordering traps, both of which reintroduce the bug if got wrong:
+          - escape the BACKSLASH first, or escaping the pipe produces a backslash that the
+            backslash rule then escapes again;
+          - truncate BEFORE escaping. Truncating after would let a cut land between a
+            backslash and the character it escapes, leaving a trailing backslash that
+            escapes the cell delimiter itself -- the exact failure being fixed.
+        """
+        s = (s or "")
+        if width is not None:
+            s = s[:width]
+        return s.replace("\\", "\\\\").replace("|", "\\|")
+
     def lab(q):
         return (persons.get(q, {}).get("label") or "").strip() or "(unlabelled)"
 
@@ -167,7 +191,7 @@ def main():
                             nxt.add(p)
                 frontier = nxt
             d = lvl
-            add(f"| `{q}` | {lab(q)[:46]} | {wd(q) or '—'} | {yr(q,'birth') or '—'} | "
+            add(f"| `{q}` | {cell(lab(q), 46)} | {wd(q) or '—'} | {yr(q,'birth') or '—'} | "
                 f"{yr(q,'death') or '—'} | **{len(anc):,}** | {len(des):,} | {d} | "
                 f"{'yes' if ROOT_QID in anc else 'no'} |")
         add("")

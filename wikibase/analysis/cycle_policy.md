@@ -47,6 +47,33 @@ cutting such a join, that is a signal the real defect is elsewhere in the loop â
 
 ## Worked case: the mythic cycles are one merge, not four tradition conflicts
 
+> **DONE, and the naming question it ends on is answered by the dump itself (2026-07-31).**
+> Emma asked for a better explanation of "naming the primordial half of Q74698 Tros". The
+> honest answer is that **there is nothing left to name.** The split below was carried out,
+> and the primordial half is `Q74698` itself, which is now labelled **Uranus**, aliases
+> *Uranus / Caelus / Ouranos*. Three independent checks agree:
+>
+> - **Parents: Aether and Dies.** That is exactly Hyginus's parentage for Caelus. (It also
+>   still carries Terra, Erebos and Nyx, which is the residue worth a look â€” but not a
+>   naming question.)
+> - **Children: 59, and the roster is Ouranos's, entire.** The Titans (Ops/Rhea, Saturn,
+>   Tethys, Hyperion, Theia, Iapetos, Crius, Coeus, Phoebe), the Cyclopes (Brontes,
+>   Steropes, Arges), the Hecatoncheires (Gyges, Cottus, Briareus), the Gigantes, the
+>   Erinyes.
+> - **Zero Trojan claims remain.** No Ilus, no Assaracus, no Ganymede, no Dardanus, no
+>   Erichthonius, and "Tros" is gone from the aliases.
+>
+> **The four cycles below are gone.** `Q74698`, `Q75225` Iapetos, `Q74973` Danaus,
+> `Q130061` Nilus and `Q132328` Erichthonius are in no tangle at all.
+>
+> **`Tros -> Ops` was never spill and must not be cut.** Ops is Rhea; `Ouranos -> Rhea` is
+> correct Titan-tier parentage. It sat in `propose_tangle_repairs.py`'s `PENDING_UNMERGE`
+> as blocked-on-Emma, which marked a *correct* edge as unresolved; it has been moved to
+> `PROTECTED` and `PENDING_UNMERGE` is now empty.
+>
+> Everything below this line is the original 2026-07-30 diagnosis, kept as the record.
+
+
 Four cycles run through `Tros` (Q74698, wd Q79999). The record carries **two incompatible
 parent sets simultaneously**:
 

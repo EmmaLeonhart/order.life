@@ -4,6 +4,60 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **Notion wins. Four of Emma's five open decisions had been answered for a day and no repo
+  file knew.**
+
+  Emma: *"Notion wins pretty much all the time as per central command rules."* Recorded as a
+  standing rule at the head of `queue.md`'s AWAITING EMMA section: the board arrives as
+  `notion-open-questions.md` and `notion-work-loop.md` at the repo root, and where this repo
+  and the board disagree, **the board is right and the repo is stale.**
+
+  Her answers were sitting as sub-bullets on the Work Loop page, which nothing read.
+  Recorded and converted from questions into work: **Adam→Genghis — do both A1 and A2**;
+  **chapter 181's ten sons — the data moves, the chapter stands**; **M3 — merge all three
+  Adnan records, do not pick a survivor**; patriarch overlay — euhemerism, already applied
+  earlier today. Kosala and Jimmu↔Heo remain genuinely open.
+
+  On the ten sons I flagged rather than absorbed the hard part: the report says the data fix
+  "means inventing nine named sons". Recording nine invented people is not what "the ten
+  sons exist" licenses. Go and find whether Garakguk-gi names them; if it does not, that is
+  a second question for Emma.
+
+- **The Tros naming question was obsolete, and it was holding a correct edge hostage.**
+
+  Emma answered "What? Explain better", so I read the record instead of the report. There is
+  nothing left to name — the unmerge was already done. `Q74698` is labelled **Uranus**
+  (aliases *Uranus / Caelus / Ouranos*), its parents are **Aether and Dies**, which is
+  Hyginus's parentage for Caelus, and its **59 children are the entire Ouranos roster** —
+  Titans, Cyclopes, Hecatoncheires, Gigantes, Erinyes — with **zero Trojan claims left**.
+  The four mythic cycles `cycle_policy.md` describes are gone; none of those records is in a
+  tangle.
+
+  Worse than merely stale: **`Tros → Ops` sat in `propose_tangle_repairs.py`'s
+  `PENDING_UNMERGE` as blocked-on-Emma, and it is a correct edge.** Ops is Rhea;
+  `Ouranos → Rhea` is right. A tool was holding a correct edge open as a question against
+  her. Moved to `PROTECTED`; `PENDING_UNMERGE` is now empty.
+
+- **Fixed the table-escaping bug the hub reported back, and the fix's own trap.**
+
+  `build_cycles_notion.py` did not escape `|` in cell text, so `Q137449`
+  ("Lleuki|Nest ferch Gwerstan ap Gwaithfoed") emitted **ten fields against a nine-column
+  header**. The hub had built a recovery for it; a recovery downstream of a generator that
+  emits broken rows is a repair, not a fix.
+
+  The obvious patch would have reintroduced the bug: names are truncated to 46 chars, and
+  escaping *before* truncating lets a cut land between a backslash and what it escapes,
+  leaving a trailing backslash that escapes the cell delimiter itself. Truncate first, then
+  escape backslash before pipe. Tested both boundary cases explicitly — all six cases emit
+  exactly ten delimiters and no trailing backslash — and confirmed against the three real
+  records.
+
+- **`qa_cycles.tsv` was stale and `cycles_review.md` was publishing the stale number.**
+  It said 296 records in a tangle where `check_invariants` said 295, because
+  `dump_qa_errors.py` had not been re-run after the merge. Regenerated the chain; all four
+  sources now agree at **35 tangles / 295 records**. The rails line in `queue.md` still
+  quoted **34 / 278** and now carries the current figures plus a warning not to quote it.
+
 - **Emma decided the patriarch overlay: deliberate euhemerism. The relabel is dead.**
 
   > "the mesopotamian ones is completely intentional euhemerism I edited the notion
