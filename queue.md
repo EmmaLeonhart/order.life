@@ -320,8 +320,31 @@ central command.
      **The repair is to CREATE the missing record, not delete its edges** — and that needs
      a name, which is Emma's. *(Learned by cutting all 233 as one batch: `compare_depth`
      failed at −10 levels, Melaneus and Aeneus lost the Titan line entirely, reverted.)*
-   - **`PHANTOM` — 1,050.** The endpoint exists but is a shell with no label, alias or
-     genealogy.
+   - **`PHANTOM` — 1,050. Analysed 2026-08-01, NOT acted on. It has the same shape as
+     GAP, and the connectivity test was run BEFORE cutting this time.** 430 distinct shell
+     records; **269 of them are connectors** with both parents and children, `Q132255`
+     alone having **79 children**. **861 of the 1,050 edges touch a connector and are not
+     safe to cut.** The other 189 touch only leaf/root shells.
+
+     **But the leaf shells are not junk either.** Sampled: `Q135293` is **the father of
+     Darius I of Persia**; `Q108512` is the father of Al-Qasim ibn an-Nafs az-Zakiyya;
+     `Q136745` is a child of Archelaus. They are **unnamed placeholder people** — empty
+     items carrying only `P39` — and deleting their edges erases the statement *this person
+     had a father*, which is information rather than noise.
+
+     **The decision, and it is genuinely open:**
+     - **ADD the missing side** — write the mirror claim into the shell. **This provably
+       cannot change `edges.tsv`**, because the graph is built from the UNION and the edge
+       is already in it. Purely additive, no data lost, and it removes the silent-failure
+       hazard this whole item is about.
+     - **REMOVE the present side** — changes the graph and destroys a recorded
+       relationship.
+
+     ADD is graph-neutral and REMOVE is not, which argues for ADD. **The counter-argument
+     is the one this item already states:** some one-sided edges are deletions that only
+     got half done, and adding would cement an edge someone meant to remove. Nothing in an
+     empty shell distinguishes the two. **Needs Emma**, or a rule from her about which way
+     placeholder people should go.
    - **`BOTH-REAL` — 2,479.** Both endpoints substantive. **The real judgement calls** and
      what the do-not-blanket-add warning is about.
 

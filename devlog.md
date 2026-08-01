@@ -4,6 +4,34 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Ran the connectivity test on the PHANTOM bucket BEFORE cutting anything, and it has
+  the same shape as GAP at four times the scale.**
+
+  1,050 one-sided edges over **430 shell records**. **269 of those shells are connectors**
+  — both parents and children recorded by others — so **861 of the 1,050 edges would sever
+  a chain if cut**. `Q132255` alone has 79 children. Last tick I learned this by cutting
+  233 edges and watching the depth gate fail; this tick the same question was asked first.
+
+  **The remaining 189 are still not obviously cuttable, and sampling is why.** The leaf
+  shells are empty items carrying only `P39`, but of the eight I looked at, `Q135293` is
+  **the father of Darius I of Persia**, `Q108512` is the father of Al-Qasim ibn an-Nafs
+  az-Zakiyya, and `Q136745` is a child of Archelaus. They are unnamed placeholder people.
+  Deleting their edges would erase *this person had a father*, which is a real statement.
+
+  **The genuinely useful observation: ADD and REMOVE are not symmetric options here.**
+  Adding the missing side **provably cannot change `edges.tsv`**, because the graph is
+  built from the union and the edge is already in it — the same argument that made the
+  self-loop cleanup safe. Removing changes the graph and destroys a relationship. So ADD is
+  graph-neutral and REMOVE is not.
+
+  That is not enough to act on. This item's own warning is that some one-sided edges are
+  half-finished deletions, and adding would cement an edge someone meant to remove —
+  nothing in an empty shell tells the two apart. **Written up and left for Emma rather than
+  guessed at**, which is the whole of this tick's output on it.
+
+- **`shadow_audit` refreshed and verified by mtime — 0 disagreements**, and byte-identical
+  to the committed copy, so the 30 item files changed by the ORPHAN cuts moved no shadow.
+
 - **Cut 233 "dangling" edges, and 219 of them were holes in the dump rather than
   nonexistent people. Reverted, split the category, cut the 14 that were real.**
 
