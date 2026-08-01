@@ -4,6 +4,39 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Fixed the two reporting defects in `fix_mutual_parent_pairs.py`, the one script that
+  edits the dump on its own judgement.**
+
+  It repaired 0 of 6 pairs, so it was not doing damage — but it was giving two wrong
+  answers, and it is the tool most able to act on them.
+
+  **"Both sides have spouse co-parent evidence, so these are two records of one person and
+  need a MERGE."** That is an unjustified leap, and it was in the docstring as a rule.
+  A family record reading consistently in both directions is equally what two genuinely
+  different people with one reversed edge look like. `Q119481` "Pons Hug d'Entença" and
+  `Q124343` "Jussiana d'Entença" have symmetric evidence and are plainly two people —
+  different recorded sex, distinct Wikidata items `Q21001415` and `Q14083227`. Acting on
+  that recommendation would have fused a man and a woman. It now reports the signal as
+  deciding nothing, and names the distinguishing evidence when the pair is two people.
+
+  **It inferred a family for a record that does not exist.** `Q78402` had no item file, no
+  shadow and no `persons.tsv` row, and the script reported spouse-coparent evidence for it
+  and recommended a merge. Now skipped as a dangling endpoint.
+
+  **The dangling guard is unreachable on live data**, because the edges it protects against
+  were removed yesterday — so it is regression-prevention, not an active fix, and an
+  unexercised branch is exactly what keeps going wrong this session. Tested against the
+  `edges.tsv` as it stood *before* that commit, read out of git: it fires on
+  `Q78402 <-> Q78719` and on none of the four real pairs.
+
+  Five pairs remain and the script repairs none of them. That is the right answer: every
+  one genuinely lacks direction evidence.
+
+- **`shadow_audit` refreshed and verified by mtime rather than by task status — 0
+  disagreements** across 164,456 items, 39,521 qids claimed by more than one file. Checking
+  the file's timestamp is the only reason I know it ran; three earlier reports said it had
+  when it had not.
+
 - **Removed two claims pointing at a record that does not exist. One whole tangle gone:
   35 -> 34. And I retracted a cut mid-tick after my justification for it collapsed.**
 

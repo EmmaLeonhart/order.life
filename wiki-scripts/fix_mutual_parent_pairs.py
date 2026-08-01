@@ -17,9 +17,15 @@ relationship other than the reversed one is touched.
 Direction evidence, and the rule for using it
 ---------------------------------------------
   S1 spouse_coparent  A's spouse is independently recorded as a parent of B, so the
-                      family record reads A + spouse -> B. One-directional only: if
-                      both sides have it, the pair is two records of one person and
-                      needs a merge, not a direction fix.
+                      family record reads A + spouse -> B. ONE-DIRECTIONAL ONLY. If both
+                      sides have it the signal is symmetric and decides NOTHING.
+                      Until 2026-08-01 that case was reported as "two records of one
+                      person that need a MERGE", which was an unjustified leap: a family
+                      record reading consistently in both directions is equally what two
+                      genuinely different people with one reversed edge look like. It is
+                      now reported as undecided, and where the pair is demonstrably two
+                      people -- distinct Wikidata ids, or different recorded sex -- it
+                      says so and says NOT a merge.
   S2 dates            Both birth years recorded and >= MIN_GAP apart. Required to
                       hold under BOTH the AD and the BC reading of the years, since
                       this dump stores many BC dates unsigned (see GENEALOGY_QA.md).
@@ -122,9 +128,29 @@ def main():
     pairs = sorted({tuple(sorted((c, p))) for c, ps in par.items()
                     for p in ps if c in par.get(p, ())})
 
+    def wd_of(q):
+        return (persons.get(q, {}).get("wikidata_qid") or "").strip()
+
+    def sex_of(q):
+        return (persons.get(q, {}).get("sex") or "").strip()
+
     plan, skipped = [], []
     for a, b in pairs:
         votes = {}          # signal -> "a" (a is the parent) or "b"
+
+        # A DANGLING endpoint is not half of a mutual pair. Q78402 appears in edges.tsv --
+        # Cleopatra III named it as both her mother and her child -- but it has no item
+        # file, no shadow claiming the qid and no persons.tsv row. Before 2026-08-01 this
+        # script reported spouse-coparent evidence for it and recommended a MERGE, i.e. it
+        # inferred a family for a record that does not exist. The repair is to drop the
+        # claims that point at nothing; see cut_edges.py "mutual-parent-residue".
+        missing = [q for q in (a, b) if q not in persons]
+        if missing:
+            skipped.append((a, b, "%s does not exist — no persons.tsv row, so this is a "
+                                  "dangling endpoint, not a mutual pair. Drop the claims "
+                                  "pointing at it (cut_edges.py), do not merge anything"
+                            % ", ".join(missing)))
+            continue
 
         # S1 spouse co-parent
         a_first = [s for s in sp[a] if s in par[b] and s != a]
@@ -136,9 +162,37 @@ def main():
             votes["spouse_coparent"] = ("b", "%s's spouse %s is also recorded as a "
                                         "parent of %s" % (lab(b), lab(b_first[0]), lab(a)))
         elif a_first and b_first:
-            skipped.append((a, b, "both sides have spouse co-parent evidence — these "
-                                  "are two records of one person and need a MERGE, "
-                                  "which this script does not do"))
+            # SYMMETRIC EVIDENCE DECIDES NOTHING. It used to be reported as "two records
+            # of one person that need a MERGE", which is an unjustified leap: the family
+            # record reads consistently in BOTH directions, and that is equally what you
+            # see when two genuinely different people have one reversed edge between them.
+            #
+            # Q119481 "Pons Hug d'Entença" / Q124343 "Jussiana d'Entença" have symmetric
+            # evidence and are plainly two people -- different recorded sex, and distinct
+            # Wikidata items Q21001415 and Q14083227. Merging on this signal would have
+            # fused a man and a woman.
+            #
+            # Same shape as the two Esthers (Q88454/Q90982), where both readings are
+            # naming-consistent and the dump cannot settle the direction at all.
+            distinct = []
+            wa, wb = wd_of(a), wd_of(b)
+            if wa and wb and wa != wb:
+                distinct.append("distinct Wikidata ids %s and %s" % (wa, wb))
+            sa, sb = sex_of(a), sex_of(b)
+            if sa and sb and sa != sb:
+                distinct.append("different recorded sex")
+            if distinct:
+                skipped.append((a, b, "symmetric spouse co-parent evidence, so it decides "
+                                      "nothing — and these are TWO PEOPLE (%s). One of the "
+                                      "two edges is wrong; the dump does not say which. "
+                                      "NOT a merge." % "; ".join(distinct)))
+            else:
+                skipped.append((a, b, "symmetric spouse co-parent evidence, so it decides "
+                                      "nothing. Nothing here distinguishes the two records, "
+                                      "so they MAY be one person — but the family record "
+                                      "reads consistently both ways, which is also what a "
+                                      "single reversed edge between two people looks like. "
+                                      "Needs external evidence, not a merge on this signal"))
             continue
 
         # S2 dates, required to hold under both the AD and the BC reading

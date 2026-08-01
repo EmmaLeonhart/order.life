@@ -272,10 +272,14 @@ central command.
    `Q119481`/`Q124343` (different sexes and distinct wd ids, so **not** the merge the tool
    suggests), `Q18066`/`Q32705`, `Q29144`/`Q29148`, `Q73530`/`Q73653`.
 
-   **`fix_mutual_parent_pairs.py` has two reporting defects** (it edits the dump, so they
-   matter, though it currently repairs 0 of 6 and is not doing damage): it recommends a
-   MERGE for pairs that are demonstrably two people, and it reported spouse-coparent
-   evidence for `Q78402`, **a record that does not exist at all**.
+   **`fix_mutual_parent_pairs.py`'s two reporting defects are FIXED (2026-08-01).**
+   Symmetric spouse-coparent evidence no longer claims "two records of one person that
+   need a MERGE" — it now says the signal decides nothing, and where the pair is
+   demonstrably two people (distinct Wikidata ids, or different recorded sex) it says so
+   and says **NOT a merge**. `Q119481`/`Q124343` now reads correctly. It also skips pairs
+   with an endpoint absent from `persons.tsv` instead of inferring a family for a record
+   that does not exist. It still repairs 0 of 5 — every remaining pair genuinely lacks
+   direction evidence, which is the correct answer, not a failure.
 
 3. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
