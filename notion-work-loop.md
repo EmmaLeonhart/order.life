@@ -44,4 +44,3 @@ None of these block the loop — it works around them.
 - **Naming the primordial half of Q74698 Tros** — the split is blocked on it, and Tros → Ops can be neither fixed nor cut until it has a name.
   - What? Explain better
 
-- Notion-side test edit — verifying an edit made IN Notion reaches the repo. Removed immediately after.
