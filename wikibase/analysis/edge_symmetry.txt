@@ -1,25 +1,17 @@
-Edge symmetry across the whole dump — 2026-07-30
-Produced by wiki-scripts/edge_symmetry.py. Read-only scan of every item file.
+items scanned            : 164456  (unreadable/non-dict: 81)  in 27s
+edges from parent P20    : 126694  (raw 126854, before canonicalising)
+edges from child P47/P48 : 126824  (raw 126934)
 
-WHY: during the Q74698 unmerge I removed the Danaus->Nilus edge from the child's P47 only.
-It stayed alive through the parent's P20 and two of four cycles were still closed. This
-scan answers whether that hazard is systemic.
+ENDPOINTS ARE CANONICALISED through redirects.tsv before the two sides are
+compared, as extract_genealogy.py does. Without that, a parent naming a child by
+a redirected qid while the child declares the canonical one reads as a one-sided
+edge when it is nothing of the kind. Every figure this file reported before
+2026-08-01 lacked that step and overstated the asymmetry.
 
-ANSWER: 96.3% of edges are declared on both sides, but 4,723 are one-sided. The hazard is
-real and pre-existing, and it is concentrated in the high-fan-out mythic records.
-
-The 81 unreadable files are the known set recovered by commit c17fcbf61 ("Recover 81
-below-frontier Wikibase items that failed or were skipped during backfill") — they are
-null, not damaged, and predate this session.
-
-items scanned            : 164455  (unreadable/non-dict: 81)  in 605s
-edges from parent P20    : 126907
-edges from child P47/P48 : 126980
-
-declared on BOTH sides   :  124582  (96.3% of all edges)
-parent side ONLY         :    2325  (child has no P47/P48 back to it)
-child side ONLY          :    2398  (parent has no P20 forward to it)
-union (what edges.tsv holds):  129305
+declared on BOTH sides   :  124878  (97.1% of all edges)
+parent side ONLY         :    1816  (child has no P47/P48 back to it)
+child side ONLY          :    1946  (parent has no P20 forward to it)
+union (what edges.tsv holds):  128640
 
 Why this matters: any repair that edits only one side leaves the edge alive in the
 other, and the graph still contains it. edges.tsv is built from the UNION, so a
@@ -45,7 +37,6 @@ sample parent-side-only edges:
 sample child-side-only edges:
     Q1016 -> Q1014
     Q1016 -> Q1015
-    Q105575574 -> Q152973
     Q106776 -> Q104137
     Q106776 -> Q106782
     Q106776 -> Q106788
@@ -54,19 +45,32 @@ sample child-side-only edges:
     Q106776 -> Q112803
     Q106776 -> Q112805
     Q106776 -> Q112807
-    Q107385 -> Q65873
-    Q107411 -> Q107415
-    Q107411 -> Q107417
-    Q107411 -> Q107419
+    Q108512 -> Q108692
+    Q110388 -> Q101814
+    Q110388 -> Q101818
+    Q110540 -> Q102897
+    Q110540 -> Q102899
 
 records with the most parent-side-only children:
     Q90309: 142
-    Q74973: 82
-    Q66360: 46
-    Q74720: 33
-    Q65008: 31
+    Q74973: 81
+    Q74720: 32
     Q74717: 25
-    Q64029: 19
-    Q65005: 17
-    Q64468: 16
     Q75054: 16
+    Q74680: 14
+    Q73380: 13
+    Q73038: 11
+    Q75441: 9
+    Q90478: 9
+
+ONE-SIDED EDGES BY WHAT THEIR ENDPOINTS ARE  (queue.md item 4)
+  DANGLING     233  an endpoint has no record anywhere; the edge points at nothing
+  PHANTOM     1050  an endpoint is a shell with no label, alias or genealogy
+  BOTH-REAL   2479  both endpoints are real records -- these are the judgement calls
+
+DANGLING is removable with no judgement: a record that does not exist cannot be
+anyone's parent or child. PHANTOM is nearly so, but the shell exists and may be
+load-bearing elsewhere. BOTH-REAL is the part queue.md warns against blanket-
+fixing, and it is 2479 of the 3762.
+
+Per-edge detail: edge_symmetry_classified.tsv

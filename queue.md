@@ -291,14 +291,33 @@ central command.
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-4. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`: 96.3% of
-   edges are declared on both sides (parent `P20` and child `P47`/`P48`), but 2,325 are
-   parent-side only and 2,398 child-side only. `edges.tsv` is built from the union, so a
-   half-declared edge still reads as real and any one-sided repair silently fails — this is
-   what made the Tros fix look done when two cycles were still closed. Concentrated in the
-   fan-out records: Oceanus Q90309 has 142, Danaus Q74973 has 82, Q66360 has 46. Decide per
-   record whether the missing side should be added or the present side removed; do NOT
-   blanket-add, since some one-sided edges are probably deletions that only got half done.
+4. **Fix the one-sided edges — now classified, and the count was wrong.**
+   `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01: **97.1%** of edges are
+   declared on both sides, with **1,816 parent-side only** and **1,946 child-side only**.
+
+   **The old figures — 96.3%, 2,325 and 2,398 — were inflated and are withdrawn.** The
+   scan compared raw qids without canonicalising through `redirects.tsv`, so an edge whose
+   parent named the child by a redirected qid while the child declared the canonical one
+   counted as one-sided. It is not. **961 of the 4,723 were never a defect at all.**
+
+   `edges.tsv` is built from the union, so a genuinely half-declared edge still reads as
+   real and any one-sided repair silently fails — that is what made the Tros fix look done
+   while two cycles were still closed. Still concentrated in the fan-out records: Oceanus
+   `Q90309` 142, Danaus `Q74973` 81.
+
+   **`edge_symmetry_classified.tsv` splits all 3,762 by what their endpoints are**, so this
+   stops being 3,762 individual judgement calls:
+   - **`DANGLING` — 233.** An endpoint has no record anywhere: no file, no redirect, no
+     `persons.tsv` row. **Removable with no judgement** — a record that does not exist
+     cannot be anyone's parent. This is the `Q78402` shape, and removing that one
+     eliminated a whole tangle. **This is the next batch to apply.**
+   - **`PHANTOM` — 1,050.** An endpoint is a shell with no label, alias or genealogy.
+     Nearly as clear, but the shell exists and may be load-bearing elsewhere.
+   - **`BOTH-REAL` — 2,479.** Both endpoints substantive. **These are the real judgement
+     calls** and the ones the blanket-add warning is about.
+
+   Decide per record whether the missing side should be added or the present side removed;
+   do NOT blanket-add, since some one-sided edges are deletions that only got half done.
 
 ---
 

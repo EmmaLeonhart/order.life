@@ -4,6 +4,38 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **The one-sided-edge count has been wrong since 2026-07-30. 961 of the 4,723 were never
+  one-sided.**
+
+  Item 4's headline figures — 96.3% symmetric, 2,325 parent-side-only, 2,398
+  child-side-only — came from `edge_symmetry.py` comparing **raw qids**. 39,521 qids in
+  this dump are claimed by more than one file, so a parent can name a child by a qid that
+  redirects elsewhere while the child declares the canonical one. Compare those raw and the
+  same edge appears on only one side. `extract_genealogy.py` canonicalises for exactly this
+  reason; this scan never did.
+
+  Corrected: **97.1% symmetric, 1,816 parent-side-only, 1,946 child-side-only, 3,762
+  total.**
+
+  **I found it by spot-checking my own new classifier rather than shipping it.** I had
+  extended the scan to bucket one-sided edges by what their endpoints are, and it reported
+  **897 DANGLING** — edges pointing at records that do not exist. Checking eight of them,
+  every single one had a file on disk. `Q107385` is "Fatima bint Amr al-Makhzumi";
+  `Q107411` is "Khuwaylid bin Asad". They are ordinary shadow files whose internal id
+  differs from their filename. The qid is vacated; the person is not missing. After
+  canonicalising, DANGLING is **233**.
+
+  The classification now splits item 4 into work rather than a pile: **233 DANGLING**
+  (removable with no judgement), **1,050 PHANTOM** (endpoint is an empty shell), **2,479
+  BOTH-REAL** (the actual judgement calls). Per-edge detail in
+  `edge_symmetry_classified.tsv`.
+
+  Worth naming: the classifier's first output looked entirely plausible — 897 dangling
+  edges is a believable number, and nothing about it invited suspicion. It only fell over
+  because the DANGLING bucket makes a *checkable* claim ("this record does not exist"), and
+  checking it took one command. A bucket that had merely said "suspicious" would have
+  shipped.
+
 - **Fixed the two reporting defects in `fix_mutual_parent_pairs.py`, the one script that
   edits the dump on its own judgement.**
 
