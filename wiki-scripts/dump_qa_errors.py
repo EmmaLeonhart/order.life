@@ -12,12 +12,12 @@ ANA = Path(__file__).resolve().parent.parent / "wikibase" / "analysis"
 
 label = {}
 with open(ANA/"persons.tsv", encoding="utf-8", newline="") as f:
-    for r in csv.DictReader(f, delimiter="\t"):
+    for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
         label[r["qid"]] = r.get("label","")
 
 parents = defaultdict(set)
 with open(ANA/"edges.tsv", encoding="utf-8", newline="") as f:
-    for r in csv.DictReader(f, delimiter="\t"):
+    for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
         p, c = r["parent"], r["child"]
         if p and c and p != c:
             parents[c].add(p)

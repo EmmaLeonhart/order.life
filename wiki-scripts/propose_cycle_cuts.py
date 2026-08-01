@@ -72,7 +72,7 @@ csv.field_size_limit(10_000_000)
 def load_persons():
     persons = {}
     with open(ANALYSIS / "persons.tsv", encoding="utf-8") as fh:
-        for row in csv.DictReader(fh, delimiter="\t"):
+        for row in csv.DictReader(fh, delimiter="\t", quoting=csv.QUOTE_NONE):
             persons[row["qid"]] = row
     return persons
 
@@ -80,7 +80,7 @@ def load_persons():
 def load_edges():
     edges = []
     with open(ANALYSIS / "edges.tsv", encoding="utf-8") as fh:
-        for row in csv.DictReader(fh, delimiter="\t"):
+        for row in csv.DictReader(fh, delimiter="\t", quoting=csv.QUOTE_NONE):
             edges.append((row["parent"], row["child"]))
     return edges
 
@@ -88,7 +88,7 @@ def load_edges():
 def load_spouses():
     pairs = set()
     with open(ANALYSIS / "spouses.tsv", encoding="utf-8") as fh:
-        for row in csv.DictReader(fh, delimiter="\t"):
+        for row in csv.DictReader(fh, delimiter="\t", quoting=csv.QUOTE_NONE):
             pairs.add(frozenset((row["a"], row["b"])))
     return pairs
 
@@ -96,7 +96,7 @@ def load_spouses():
 def load_cycles():
     cycles = []
     with open(ANALYSIS / "qa_cycles.tsv", encoding="utf-8") as fh:
-        for row in csv.DictReader(fh, delimiter="\t"):
+        for row in csv.DictReader(fh, delimiter="\t", quoting=csv.QUOTE_NONE):
             chain = row["chain_qids"].split(" -> ")
             cycles.append({
                 "cycle_len": int(row["cycle_len"]),

@@ -345,7 +345,7 @@ def shadows():
     out = collections.defaultdict(list)
     if REDIRECTS.exists():
         with open(REDIRECTS, encoding="utf-8") as f:
-            for r in csv.DictReader(f, delimiter="\t"):
+            for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
                 out[r["to_qid"]].append(r["from_qid"])
     return out
 
@@ -362,7 +362,7 @@ def redirect_map():
     out = {}
     if REDIRECTS.exists():
         with open(REDIRECTS, encoding="utf-8") as f:
-            for r in csv.DictReader(f, delimiter="\t"):
+            for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
                 out[r["from_qid"]] = r["to_qid"]
     return out
 

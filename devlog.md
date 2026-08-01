@@ -4,6 +4,34 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **`csv.DictReader` has been silently dropping 128 records from `persons.tsv`, and a
+  standing invariant has been reporting 138 dangling endpoints when the truth is 13.**
+
+  The analysis TSVs are written with plain f-strings and never quote anything. `DictReader`
+  defaults to treating `"` as a quote character, so a label containing a double quote
+  swallows the rest of the field and the row vanishes. 128 of 107,022 gone, in **every one
+  of the 29 scripts that read these files**.
+
+  Everything it caused was a measurement error rather than a data error, which is why it
+  lasted: nothing broke, numbers were just wrong. `check_invariants`'s I3 reported **138**
+  dangling endpoints against a true **13** — and its own committed baseline listed
+  `Q153797` "Ghalib born of Fihr" among the dangling examples. He is a fully populated
+  record in Muhammad's ancestry and has always existed.
+
+  Fixed everywhere (`quoting=csv.QUOTE_NONE`), verified against a plain-split read of the
+  file — 107,022 both ways, identical sets — and the invariant baseline re-taken at the now
+  correct 34 / 283 / 71 / 0 / **13** / 1,209.
+
+  **How it surfaced, which is the part worth keeping.** Last tick I flagged an
+  inconsistency in my own status report: `check_invariants` said 138 dangling endpoints
+  while my new classifier found 233 dangling *edges*, and I noted those measure different
+  things but that I had not confirmed they reconcile. Reconciling them was the whole find.
+  The 233 edges involve only 13 unique missing endpoints; the other 125 the invariant was
+  counting turned out to be real people its reader could not see.
+
+  **The 233 `DANGLING` removals I meant to do this tick did not happen.** Correcting a gate
+  that reports a tenfold-wrong number outranks acting on the number. They are still next.
+
 - **The one-sided-edge count has been wrong since 2026-07-30. 961 of the 4,723 were never
   one-sided.**
 

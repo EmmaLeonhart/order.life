@@ -163,7 +163,7 @@ def read_tsv(name):
     if not p.exists():
         return []
     with open(p, encoding="utf-8") as f:
-        return list(csv.DictReader(f, delimiter="\t"))
+        return list(csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE))
 
 
 def main():

@@ -77,7 +77,7 @@ MIN_GAP = 12
 
 def load_tsv(name):
     with open(ANALYSIS / name, encoding="utf-8") as fh:
-        return list(csv.DictReader(fh, delimiter="\t"))
+        return list(csv.DictReader(fh, delimiter="\t", quoting=csv.QUOTE_NONE))
 
 
 def entity_id(claim):

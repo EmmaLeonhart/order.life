@@ -21,8 +21,8 @@ from pathlib import Path
 
 A = Path(__file__).resolve().parent.parent / "wikibase" / "analysis"
 
-PERSONS = {r["qid"]: r for r in csv.DictReader(open(A / "persons.tsv", encoding="utf-8"), delimiter="\t")}
-PROPOSED = list(csv.DictReader(open(A / "qa_cycles_proposed.tsv", encoding="utf-8"), delimiter="\t"))
+PERSONS = {r["qid"]: r for r in csv.DictReader(open(A / "persons.tsv", encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE)}
+PROPOSED = list(csv.DictReader(open(A / "qa_cycles_proposed.tsv", encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE))
 
 CONVENTIONS = [
     ("Roman repeating names", r"\b(Publius|Marcus|Lucius|Gaius|Quintus|Titus|Aemilius|Livius|Caecilius"

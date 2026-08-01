@@ -100,7 +100,7 @@ def name_variant(la, lb):
 def load_persons():
     persons = {}
     with open(ANALYSIS / "persons.tsv", encoding="utf-8") as fh:
-        for row in csv.DictReader(fh, delimiter="\t"):
+        for row in csv.DictReader(fh, delimiter="\t", quoting=csv.QUOTE_NONE):
             persons[row["qid"]] = row
     return persons
 
@@ -188,7 +188,7 @@ def main():
 
     rows = []
     with open(ANALYSIS / "qa_multiparent.tsv", encoding="utf-8") as fh:
-        src = list(csv.DictReader(fh, delimiter="\t"))
+        src = list(csv.DictReader(fh, delimiter="\t", quoting=csv.QUOTE_NONE))
 
     stats = Counter()
     parents_before = 0

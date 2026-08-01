@@ -62,7 +62,7 @@ def main():
     cache = json.loads(CACHE.read_text(encoding="utf-8"))
 
     with open(ANALYSIS / "persons.tsv", encoding="utf-8") as fh:
-        persons = list(csv.DictReader(fh, delimiter="\t"))
+        persons = list(csv.DictReader(fh, delimiter="\t", quoting=csv.QUOTE_NONE))
 
     match, nomatch, dead = [], [], []
     for p in persons:

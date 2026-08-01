@@ -326,7 +326,7 @@ def main():
     args = ap.parse_args()
 
     with open(ANALYSIS / "persons.tsv", encoding="utf-8") as fh:
-        persons = list(csv.DictReader(fh, delimiter="\t"))
+        persons = list(csv.DictReader(fh, delimiter="\t", quoting=csv.QUOTE_NONE))
 
     holders = defaultdict(list)          # wikidata qid -> [local qids]
     for p in persons:

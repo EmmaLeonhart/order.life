@@ -23,7 +23,7 @@ from pathlib import Path
 A = Path(__file__).resolve().parent.parent / "wikibase" / "analysis"
 
 PERSONS = {r["qid"]: r for r in
-           csv.DictReader(open(A / "persons.tsv", encoding="utf-8"), delimiter="\t")}
+           csv.DictReader(open(A / "persons.tsv", encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE)}
 
 
 def _raw(q, field):
@@ -53,7 +53,7 @@ def label(q):
 
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
-    rows = list(csv.DictReader(open(A / "qa_cycles.tsv", encoding="utf-8"), delimiter="\t"))
+    rows = list(csv.DictReader(open(A / "qa_cycles.tsv", encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE))
     violations = collections.Counter()
     detail = {}
     for r in rows:

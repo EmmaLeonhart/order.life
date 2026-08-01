@@ -22,7 +22,7 @@ ANA = REPO / "wikibase" / "analysis"
 # --- load persons ------------------------------------------------------------
 persons = {}
 with open(ANA / "persons.tsv", encoding="utf-8", newline="") as f:
-    rd = csv.DictReader(f, delimiter="\t")
+    rd = csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE)
     for row in rd:
         persons[row["qid"]] = row
 
@@ -43,7 +43,7 @@ parents = defaultdict(set)    # child -> {parents}
 children = defaultdict(set)   # parent -> {children}
 edges = 0
 with open(ANA / "edges.tsv", encoding="utf-8", newline="") as f:
-    rd = csv.DictReader(f, delimiter="\t")
+    rd = csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE)
     for row in rd:
         p, c = row["parent"], row["child"]
         if p and c and p != c:
@@ -131,7 +131,7 @@ for c, ps in parents.items():
 
 # include spouse edges for connectivity check
 with open(ANA / "spouses.tsv", encoding="utf-8", newline="") as f:
-    rd = csv.DictReader(f, delimiter="\t")
+    rd = csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE)
     spouse_count = 0
     for row in rd:
         a, b = row.get("a"), row.get("b")

@@ -169,7 +169,7 @@ def claimants():
     out = collections.defaultdict(set)
     if REDIRECTS.exists():
         with open(REDIRECTS, encoding="utf-8") as f:
-            for r in csv.DictReader(f, delimiter="\t"):
+            for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
                 out[r["to_qid"]].add(r["from_qid"])
     return out
 
@@ -200,7 +200,7 @@ def main():
             print("qa_self_edges.tsv missing -- run extract_genealogy.py first")
             return 1
         with open(path, encoding="utf-8") as f:
-            todo = [r["qid"] for r in csv.DictReader(f, delimiter="\t") if r.get("qid")]
+            todo = [r["qid"] for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE) if r.get("qid")]
         cuts = [(q, q, "record lists itself as its own parent/child") for q in todo]
     elif name not in CUTS:
         print(f"unknown cut set {name!r}; try --list")

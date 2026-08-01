@@ -80,7 +80,7 @@ def claimants():
     out = collections.defaultdict(set)
     if REDIRECTS.exists():
         with open(REDIRECTS, encoding="utf-8") as f:
-            for r in csv.DictReader(f, delimiter="\t"):
+            for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
                 out[r["to_qid"]].add(r["from_qid"])
     return out
 

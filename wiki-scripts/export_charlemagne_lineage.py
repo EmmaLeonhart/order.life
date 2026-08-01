@@ -19,17 +19,17 @@ ADAM = "Q152973"
 # Load data
 persons = {}
 with open(ANA / "persons.tsv", encoding="utf-8", newline="") as f:
-    for row in csv.DictReader(f, delimiter="\t"):
+    for row in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
         persons[row["qid"]] = row
 
 parents_map = defaultdict(set)
 with open(ANA / "edges.tsv", encoding="utf-8", newline="") as f:
-    for row in csv.DictReader(f, delimiter="\t"):
+    for row in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
         parents_map[row["child"]].add(row["parent"])
 
 spouses = defaultdict(set)
 with open(ANA / "spouses.tsv", encoding="utf-8", newline="") as f:
-    for row in csv.DictReader(f, delimiter="\t"):
+    for row in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
         spouses[row["a"]].add(row["b"])
         spouses[row["b"]].add(row["a"])
 

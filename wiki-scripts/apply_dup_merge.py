@@ -100,7 +100,7 @@ def shadows():
     path = ROOT / "wikibase" / "analysis" / "redirects.tsv"
     if path.exists():
         with open(path, encoding="utf-8") as f:
-            for r in csv.DictReader(f, delimiter="	"):
+            for r in csv.DictReader(f, delimiter="	", quoting=csv.QUOTE_NONE):
                 out[r["to_qid"]].append(r["from_qid"])
     return out
 
@@ -119,7 +119,7 @@ def shadow_claims(qid, shad, canonical):
     return {p: sorted(v) for p, v in extra.items() if v}
 
 def pairs():
-    rows = list(csv.DictReader(open(AUDIT, encoding="utf-8"), delimiter="\t"))
+    rows = list(csv.DictReader(open(AUDIT, encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE))
     by = collections.defaultdict(list)
     for r in rows:
         if r["verdict"] == "shared_id":

@@ -34,7 +34,7 @@ def load_edges_from_tsv():
     par = collections.defaultdict(set)
     child = collections.defaultdict(set)
     with open(A / "edges.tsv", encoding="utf-8") as f:
-        for r in csv.DictReader(f, delimiter="\t"):
+        for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
             par[r["child"]].add(r["parent"])
             child[r["parent"]].add(r["child"])
     return par, child
@@ -133,14 +133,14 @@ def measure(source):
         p = A / "qa_self_edges.tsv"
         if p.exists():
             with open(p, encoding="utf-8") as f:
-                self_loops = sorted({r["qid"] for r in csv.DictReader(f, delimiter="\t")
+                self_loops = sorted({r["qid"] for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE)
                                      if r.get("qid")})
         else:
             print("WARNING: qa_self_edges.tsv missing -- re-run extract_genealogy.py. "
                   "I2 cannot be checked from edges.tsv alone and is being skipped.")
     persons = set()
     with open(A / "persons.tsv", encoding="utf-8") as f:
-        for r in csv.DictReader(f, delimiter="\t"):
+        for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
             persons.add(r["qid"])
     endpoints = set(par) | {p for ps in par.values() for p in ps}
     dangling = sorted(endpoints - persons)

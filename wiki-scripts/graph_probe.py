@@ -27,19 +27,19 @@ ADAM = "Q152973"
 def load():
     persons = {}
     with open(ANALYSIS / "persons.tsv", encoding="utf-8") as f:
-        for row in csv.DictReader(f, delimiter="\t"):
+        for row in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
             persons[row["qid"]] = row
 
     parents = collections.defaultdict(set)
     children = collections.defaultdict(set)
     with open(ANALYSIS / "edges.tsv", encoding="utf-8") as f:
-        for row in csv.DictReader(f, delimiter="\t"):
+        for row in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
             parents[row["child"]].add(row["parent"])
             children[row["parent"]].add(row["child"])
 
     spouses = collections.defaultdict(set)
     with open(ANALYSIS / "spouses.tsv", encoding="utf-8") as f:
-        for row in csv.DictReader(f, delimiter="\t"):
+        for row in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
             spouses[row["a"]].add(row["b"])
             spouses[row["b"]].add(row["a"])
 

@@ -39,7 +39,7 @@ def qnum(q):
 def read_edges(path):
     edges = set()
     with open(path, encoding="utf-8") as f:
-        for r in csv.DictReader(f, delimiter="\t"):
+        for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
             p, c = r["parent"], r["child"]
             if p and c and p != c:
                 edges.add((p, c))

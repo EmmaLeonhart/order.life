@@ -118,7 +118,7 @@ def redirect_map():
     if not p.exists():
         return m
     with p.open(encoding="utf-8") as f:
-        for r in __import__("csv").DictReader(f, delimiter="\t"):
+        for r in __import__("csv").DictReader(f, delimiter="\t", quoting=__import__("csv").QUOTE_NONE):
             m[r["from_qid"]] = r["to_qid"]
     return m
 

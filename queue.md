@@ -52,6 +52,18 @@ the wrong metric and must not be used to rank repairs.
 4. **DELETE** only where the loop is genuinely terminal — nothing substantial above it.
    Keep the entry point, drop the rest.
 
+**READ THE ANALYSIS TSVs WITH `quoting=csv.QUOTE_NONE`.** They are written with plain
+f-string formatting and never quote anything, but `csv.DictReader` defaults to treating
+`"` as a quote character — so a label containing a double quote swallows the rest of the
+field and the reader **silently drops rows**. It was dropping **128 of `persons.tsv`'s
+107,022**, including `Q153797` "Ghalib born of Fihr", who sits in Muhammad's ancestry.
+
+Every consequence of this was a *measurement* error, not a data error, which is exactly
+why it survived: `check_invariants` reported **138 dangling endpoints when the true figure
+is 13**, and its own committed baseline listed `Q153797` among the examples — a record
+that has always existed. Fixed across all 29 scripts on 2026-08-01 and the baseline
+re-taken. **Any figure quoted from these TSVs before that date may be off.**
+
 **SHADOW FILES — always propagate an edit.** 39,527 qids are claimed by more than one
 file. `extract_genealogy.py` keeps only the numerically-lowest QID per qid, so editing the
 canonical file alone leaves stale shadows that silently revert the fix if that file is ever
