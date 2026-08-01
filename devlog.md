@@ -4,6 +4,37 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Batch 2: applied seven merges, `check_invariants` failed, reverted, re-applied three.**
+
+  The seven were all correct duplicates and I would defend every one of them. Merging them
+  still **failed I4 — multi-parent children 1207 → 1210** — and the reason is worth keeping.
+
+  The Severan material is imported twice: the `Q166xxx` block duplicates the
+  `Q4680`/`Q148xxx`/`Q151xxx` block, and the two copies converge on the same real children.
+  `Q148329` Julia Soaemias has two fathers and two mothers, one from each copy. Merging the
+  women is right — but each survivor then inherits **both copies' husbands**, and four
+  records crossed the >2-parent threshold:
+
+  - `Q4682` Zenobius: fathers **Elagabalus** and **Malchus II of Palmyra** — plainly
+    different men, so one edge is false and I cannot say which.
+  - `Q4681` Mamaea: fathers "Julius Avitus" and "Julius Calpurnius Piso".
+  - `Q151866`, `Q151865`: fathers `Q151898`/`Q166247`, both "Marcus Julius Gessius Ma…" —
+    those two probably *are* a pair, and merging them would fix both children.
+
+  **The merges do not create the contradiction; they reveal one that was hidden by being
+  split across two copies.** That is a real argument and it is not good enough — the gate
+  measures the dump's state, not my intentions, and resolving Elagabalus-versus-Malchus is
+  Palmyrene prosopography I do not have. Reverted rather than re-baselined.
+
+  Re-applied the three that provably cannot trip it: **`Q4680` Julia Maesa** (union gives
+  one father), **`Q57183` "Ji"** and **`Q58128` "of Cheng"** (Chinese royal records with
+  fragmentary labels, identified on structure — same father and same child by identity).
+  Every gate green; `children_over_2_parents` **improved** 1207 → 1206.
+
+  **What I would do differently:** the I4 consequence was computable before applying —
+  union the parents, count, compare. I checked collapse risk and depth beforehand and not
+  this. That check belongs in the pre-merge routine.
+
 - **First batch out of the graph-wide same-role scan: three merges, every gate green.**
 
   `same-role-batch-1` — `Q336`/`Q337` "Maratton", `Q31601`/`Q92268` "Isabel de Polanco",

@@ -342,6 +342,65 @@ CLUSTERS = {
         ("Q50050", "Q167291", "Anna Xylaloe -- same spouse Q46167 and same child Q46179 by "
                               "identity; Q50050 carries wd Q4767629"),
     ],
+    # queue.md item 3 (2026-08-01), batch 2. Seven pairs, each hand-checked and each
+    # collapse-checked (no pair is one-way ancestral to the other).
+    #
+    # (a) THE SEVERAN SUBTREE, imported twice. The Q166xxx block duplicates the
+    #     Q4680/Q148xxx/Q151xxx block, and the two converge on the same real children:
+    #     Q148329 Julia Soaemias has TWO fathers and TWO mothers, one from each copy, and
+    #     Q148331 Severus Alexander is shared by both Julia Avita Mamaeas.
+    #
+    #       Q4680  / Q166165  Julia Maesa           same father Q64615 Julius Bassianus,
+    #                                               same child Q148329, by identity
+    #       Q4681  / Q166205  Julia Avita Mamaea    both mothers of Q148331 Severus
+    #                                               Alexander, by identity
+    #       Q4682  / Q166216  Julius Aurelius Zenobius of Parthia
+    #       Q151866/ Q166249  Marcus Julius Gessius Bassianus   (Q151866 wd Q15982235)
+    #       Q151865/ Q166250  Theoclia                          (Q151865 wd Q15982251)
+    #
+    #     The last three share NO relative by identity -- their parents are themselves the
+    #     duplicated pair above. That is the parallel-subtree signature: nothing is shared
+    #     below, because the whole branch was copied. They are merged in the SAME cluster
+    #     so canon() resolves their parents through the Mamaea merge; splitting the cluster
+    #     would leave each survivor with two mothers.
+    #
+    #     RESIDUE, not fixed here: the husbands stay separate and the survivors keep two
+    #     fathers each. That is deliberate -- Q4682's two fathers are Q144407 ELAGABALUS
+    #     and Q166170 MALCHUS II OF PALMYRA, who are plainly different men, so that is a
+    #     wrong-parent-edge and not a duplicate. Q151898/Q166247 share a label and may well
+    #     be a pair; Q151864 "Julius Avitus" / Q166158 "Julius Calpurnius Piso" do not.
+    #     None of them is decided by structure alone.
+    #
+    # (b) Q57183 / Q87549 "Ji" -- same father Q87569 and same child Q87535 by identity.
+    #     Q87549 additionally holds a mother and a spouse, which the union carries.
+    # (c) Q58128 / Q87466 "of Cheng" -- same father Q87474 Chien Kung and same child
+    #     Q87460 Marquis Cheng of Cai, by identity. Chinese royal records whose labels are
+    #     fragmentary, so the identification rests on the structure, not the name.
+    # APPLIED AND REVERTED, then narrowed. The five Severan pairs are all correct
+    # duplicates and merging them still FAILED check_invariants: I4 multi-parent children
+    # increased 1207 -> 1210, because each survivor inherits BOTH copies' fathers and
+    # crosses the >2 threshold:
+    #
+    #   Q4681  Julia Avita Mamaea  fathers Q151864 "Julius Avitus" + Q166158 "Julius
+    #                              Calpurnius Piso" -- different names, undecidable
+    #   Q4682  Zenobius            fathers Q144407 ELAGABALUS + Q166170 MALCHUS II OF
+    #                              PALMYRA -- plainly different men, so one edge is false
+    #   Q151866, Q151865           fathers Q151898 + Q166247, both "Marcus Julius Gessius
+    #                              Ma..." -- these two ARE a likely pair and merging them
+    #                              would fix both children
+    #
+    # The merges do not CREATE the contradiction; they reveal one that was hidden by being
+    # split across two copies of the subtree. But the gate cannot tell those apart, and
+    # resolving Elagabalus-versus-Malchus is Palmyrene prosopography I do not have. The
+    # subtree waits on the husband pairs; see queue.md.
+    "same-role-batch-2": [
+        ("Q4680", "Q166165", "Julia Maesa -- same father Q64615 and same child Q148329 "
+                             "Julia Soaemias, by identity. Union gives ONE father, so no "
+                             "multi-parent increase"),
+        ("Q57183", "Q87549", "Ji -- same father Q87569 and same child Q87535, by identity"),
+        ("Q58128", "Q87466", "of Cheng -- same father Q87474 and same child Q87460, by "
+                             "identity"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "

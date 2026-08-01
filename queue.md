@@ -313,6 +313,21 @@ central command.
    Caecilii Metelli brothers), and Adnan `Q65555`'s three fathers all appear, with
    `Q66385`/`Q66394` carrying the shared wife `Q66382` as corroboration.
 
+   **BEFORE MERGING, CHECK THE MULTI-PARENT CONSEQUENCE.** Union the pair's parents and
+   count: if the survivor crosses **three** parents, `check_invariants` I4 fails and the
+   merge is blocked until the parent conflict is resolved. Batch 2 was applied seven-strong,
+   failed I4 at 1207 → 1210, and had to be reverted to three. The merges were *correct* —
+   they surfaced a father-conflict previously hidden by being split across two copies of a
+   duplicated subtree — but a real conflict revealed is still a gate failure.
+
+   **The Severan subtree is BLOCKED on its husbands.** `Q4680`/`Q166165` Julia Maesa is
+   merged; `Q4681`/`Q166205` Mamaea, `Q4682`/`Q166216` Zenobius, `Q151866`/`Q166249` and
+   `Q151865`/`Q166250` are not, because each survivor would inherit two fathers.
+   `Q151898`/`Q166247` "Marcus Julius Gessius Ma…" share a label and are probably a pair —
+   merging them first would unblock two of the four. `Q4682`'s fathers are **Elagabalus**
+   and **Malchus II of Palmyra**, plainly different men: one edge is false and the dump
+   does not say which. **Needs Emma or a source.**
+
    **Batch 1 applied 2026-08-01** (`same-role-batch-1`: Maratton, Isabel de Polanco, Anna
    Xylaloe) — every gate green, zero depth change. **1,707 pairs / 1,149 DEDUPE remain.**
    **Do not take the Kosala (`Q2627`/`Q29967`) or Quraysh (`Q64471`/`Q94808`,

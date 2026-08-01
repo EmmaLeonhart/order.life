@@ -3,7 +3,7 @@
   "claims": {
     "P20": [
       {
-        "id": "Q87466$55C111ED-CEAE-4473-9E41-AB4587014408",
+        "id": "Q58128$C1CA7131-4494-4BBC-89E2-1E0E4B3CE7CB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q87466$0BA38B14-BF75-4A1D-A542-2DE44FD09950",
+        "id": "Q58128$DE9F13BC-B83A-45CE-A13E-330C6E2BAE50",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q87466$294688E6-BD73-41A1-9E59-C4EBEB883CA0",
+        "id": "Q58128$13339364-AB2C-4E7E-9D43-6FD0BA0CB69B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -63,6 +63,25 @@
       }
     ],
     "P42": [
+      {
+        "id": "Q58128$73787783-9CC1-43BB-A2B7-0914B0C3F5A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57999",
+              "numeric-id": 57999
+            }
+          },
+          "hash": "3bf787abab961aa2937489b977083494722cb1c8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q87466$F4A2C02B-E099-46D0-A757-E6517A32AF03",
         "mainsnak": {
@@ -85,7 +104,7 @@
     ],
     "P47": [
       {
-        "id": "Q87466$1A73F8FE-8955-410E-A70B-DEC9BA6416CA",
+        "id": "Q58128$6F372F2F-2A47-49E2-A1F1-1A0667ADEB0B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -106,7 +125,7 @@
     ],
     "P5": [
       {
-        "id": "Q87466$260EF3E0-DCEB-4739-9EFB-14273D42AECB",
+        "id": "Q58128$14ABC98C-6688-4DAF-8432-8BFAC30CAB89",
         "mainsnak": {
           "datatype": "monolingualtext",
           "datavalue": {
@@ -126,7 +145,7 @@
     ],
     "P55": [
       {
-        "id": "Q87466$9FA63327-6D75-433D-9FA3-587F74A50F2B",
+        "id": "Q58128$F1B98CC3-47E2-46F8-86A4-7FAC27BD8BD5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -144,21 +163,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P94": [
+      {
+        "id": "Q58128$EF850EEF-0CDE-4349-A6CB-C0A639DD07B7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "of Cheng Arms.svg"
+          },
+          "hash": "9162c6035ce6a53f2e500990d761a3eea5d91954",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q87466",
+  "id": "Q58128",
   "labels": {
     "en": {
       "language": "en",
       "value": "of Cheng"
     }
   },
-  "lastrevid": 17502275,
-  "modified": "2025-09-16T22:31:56Z",
+  "lastrevid": 17466846,
+  "modified": "2025-09-16T14:01:04Z",
   "ns": 860,
-  "pageid": 102297,
+  "pageid": 72959,
   "sitelinks": {},
-  "title": "Item:Q87466",
+  "title": "Item:Q58128",
   "type": "item"
 }
