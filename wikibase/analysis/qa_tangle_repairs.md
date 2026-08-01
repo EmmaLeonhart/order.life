@@ -13,7 +13,7 @@
 
 ## Q61565 — Constantius Chlorus (72 records) → **GENERATION-COLLAPSE**
 
-DO NOT MERGE THIS AS A DEDUPE. The pair carries the parallel-subtree signature, but merging it requires merging the duplicated relatives too, and at least one of those is an ancestor of its supposed twin -- a real chain of generations, not a duplicate. This is a repeating-cognomen line, which queue.md names as the signature of the long Roman tangles. Merging would collapse it. `Q77386`/`Q138467` “Julia Livia” look duplicate, but their same-named spouses `Q70718`/`Q139688` are NOT twins: `Q139688` is an ANCESTOR of `Q70718`; `Q77386`/`Q138467` “Julia Livia” look duplicate, but their same-named childs `Q70152`/`Q139691` are NOT twins: `Q70152` is an ANCESTOR of `Q139691`
+DO NOT MERGE THIS AS A DEDUPE. The pair carries the parallel-subtree signature, but merging it requires merging the duplicated relatives too, and at least one of those is an ancestor of its supposed twin -- a real chain of generations, not a duplicate. This is a repeating-cognomen line, which queue.md names as the signature of the long Roman tangles. Merging would collapse it. `Q77386`/`Q138467` “Julia Livia” look duplicate, but their same-named spouses `Q70718`/`Q139688` are NOT twins: `Q139688` is an ANCESTOR of `Q70718`; `Q77386`/`Q138467` “Julia Livia” look duplicate, but their same-named children `Q70152`/`Q139691` are NOT twins: `Q70152` is an ANCESTOR of `Q139691`
 
 - *no Wikidata link* `Q72972` Publius Licinius Crassus Dives → `Q72810` Licinia — Wikidata records no link between them
 - *no Wikidata link* `Q72981` Publius Licinius Crassus → `Q72831` Marcus Licinius Crassus — Wikidata records no link between them

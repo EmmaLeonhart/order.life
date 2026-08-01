@@ -4,6 +4,77 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **Merged all three Adnan records, on Emma's decision. First fully-green verify of the
+  session, and the first repair that measurably ADDED ancestry.**
+
+  M3 from `adnan_merge_proposed.md`. Emma: *"You merge them lol"* -- she answered the
+  question by refusing its premise. The report asked *which* Adnan survives and could not
+  choose, because each was right by a different measure: `Q111364` had the only Wikidata
+  id, `Q86433` had the 434-ancestor route toward Abraham, `Q65555` was the one Muhammad's
+  line actually reaches. Merging keeps all three. Survivor `Q65555` by the lower-QID
+  convention.
+
+  **Checked the cycle risk before applying rather than reasoning from the prose.** `Q86433`
+  routes *upward* into the Emesene material while `Q65555` runs *downward* to Muhammad,
+  which is exactly the shape that closes a loop. No ancestor set of any of the three
+  intersects another's descendant set, so it could not.
+
+  **Gates, all green including `compare_tangles` -- the first time this session:**
+  0 tangles introduced, removed or reshaped; 0 records changed tangle. **0 records lost
+  depth, 654 gained, total ancestral depth +158,370.** `Q86433`'s route toward Abraham is
+  now reachable by the 8,527 descendants below `Q65555`. Every prior repair this session
+  was a dedupe that shrank a tangle; this is the first one where the rails' claim that
+  "merges only ever add ancestry" was actually measurable, and it measured.
+
+  **Two errors in the report, found by reading the graph instead of trusting it.** It says
+  `Q65555` "reaches nothing upward" -- it has three parents and 10 ancestors. And the
+  report's conditional recommendation was already spent: it said to decide R1 first, R1 was
+  decided on 2026-07-30, and it then said that if the splice is kept the merge set "is not
+  worth applying at all". Emma's instruction overrides that, and the +158,370 says the
+  merge was worth applying.
+
+  **Two residues left standing and flagged, not buried:** the survivor now has **four
+  parents**, because `Q66385` "Imaam 'Udd" and `Q66394` "Udd son of Umaisi" look like one
+  man -- the `'Udd`/`Humaisi` tangle the report lists as untraced, and still untraced. And
+  the survivor's label is `'Adnaan Bin Imaam 'Udd` while it now carries wd `Q22338875`,
+  whose name is simply *Adnan*. Relabelling is Emma's per the `Tros` precedent.
+
+- **The pre-commit gate blocked this merge and was right. Two bugs in `merge_cluster.py`,
+  both invisible to the tool's own verification.**
+
+  The first attempt was refused by `.githooks/pre-commit`: `Q65555`'s shadow files
+  disagreed with it. The tool had just reported *"all files agree with their survivor"*.
+  The gate was correct and the tool was wrong.
+
+  **Bug 1 -- the shadow set is computed once, before any merge.** Merge 1 rewrites the
+  loser and its shadows as copies of the survivor, which makes every one of those files a
+  **new claimant** of the survivor's qid. Merge 2 then updates the survivor and the shadows
+  known at the start, leaving the new claimants frozen at merge-1 state. Measured:
+  `Q86433.json` and `Q98118.json` held **10** children while the other four held **12**.
+
+  **This shape had never occurred before.** `porcia` (3 merges) and `prachetas` (2) each
+  merged into *different* survivors. `adnan` is the first cluster with **two merges into
+  one survivor**, which is the only way to produce it.
+
+  **Bug 2 -- the verification could not have caught it.** It asked only whether each file's
+  internal `id` equalled the survivor's. A stale copy still says `id=Q65555`, so it passed.
+  And it swept the same pre-merge shadow set, so it never looked at the two files that went
+  stale. A check that reads the wrong set *and* the wrong field will report success
+  forever. Now it compares the whole record across the union of pre-merge shadows and
+  everything rewritten during the run.
+
+  Fixed both, then **reverted the merge and re-ran it from the pre-merge state** rather
+  than patching the two files by hand -- the point was to prove the fix works, not to make
+  the symptom go away. It reported `reconciled 2 file(s) left stale by an earlier merge
+  into Q65555: Q86433, Q98118`, exactly the two the gate had named, and all six claimant
+  files are now byte-identical. The graph numbers came out identical to the first run
+  (+158,370 depth, 654 gained, 0 lost), which is the expected result: the reconciliation
+  changed durability, not ancestry.
+
+  **The rails already said editing the canonical file alone is not durable.** This was the
+  same failure one level up -- writing every shadow, but computing which files *are*
+  shadows before the merges that create more of them.
+
 - **Built the parallel-import signal, and it immediately refused the merge I had queued.**
 
   Queue item 2 asked for a third duplicate signal: *same label + same parents + a

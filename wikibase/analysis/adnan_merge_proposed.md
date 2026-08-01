@@ -176,6 +176,33 @@ Hagar, and Q129307 has it right. That alone settles which record survives.
 
 ## The one that cannot be settled from the data
 
+> ## APPLIED 2026-07-31 — Emma decided M3: "You merge them lol"
+>
+> **All three Adnan records are merged into `Q65555`.** The question below -- *which one
+> survives* -- was the wrong question, and Emma answered it by refusing the premise. Each of
+> the three was the right answer by a different measure (identifier, ancestry, posterity),
+> which is exactly why this section could not choose; merging keeps all three.
+>
+> **The recommendation below is spent.** It said "decide R1 first", and R1 was decided
+> 2026-07-30 -- the Emesene route is intentional and the splice stays. It then said that if
+> the splice is kept "the merge set below M2 is not worth applying at all". Emma's
+> instruction overrides that: the merge was applied.
+>
+> **Measured, not assumed.** Zero records lost ancestral depth, 654 gained, total depth
+> **+158,370**. `Q86433`'s 434-ancestor route toward Abraham is now reachable by the 8,527
+> descendants below `Q65555`. No tangle changed and no cycle was created -- checked before
+> applying, because `Q86433` routes upward into the Emesene material while `Q65555` runs
+> down to Muhammad, and that is precisely the shape that could have closed a loop.
+>
+> **Two corrections to what this section says**, found by reading the graph rather than the
+> prose: `Q65555` does **not** "reach nothing upward" -- it has three parents and 10
+> ancestors. And it now has **four** parents, because the merge added `Q86503`. `Q66385`
+> "Imaam 'Udd" and `Q66394` "Udd son of Umaisi" look like one man; that is the `'Udd`/
+> `Humaisi` tangle this report lists as untraced, and it is still untraced.
+>
+> **Still open:** the survivor's label is `'Adnaan Bin Imaam 'Udd`, while the record now
+> carries wd `Q22338875`, whose name is simply *Adnan*. Relabelling is Emma's call.
+
 **M3, which Adnan survives, is genuinely undecided, and it is the hinge of the whole set.**
 
 - **Q111364** has the Wikidata identifier and nothing else — no parents, two children.

@@ -340,12 +340,20 @@ filler" verdict are withdrawn.
    this queue kept asking anyway. Emma had recorded the decision repeatedly. Details in
    `patriarch_overlay.md`. Still open and unaffected: the position-only rows (`Naram-Ilum`,
    `Shu-Sin`) and the `Kanʿān` generation error, which are structural, not naming.
-4. `wikibase/analysis/adnan_merge_proposed.md` — **M3 DECIDED 2026-07-31: merge all three
-   Adnan records.** Emma: *"You merge them lol"* — i.e. do not pick one survivor and drop
-   the other two; union them into one record. R1 was already decided 2026-07-30 (the
-   Emesene route is intentional, the splice stays), so the old "decide R1 before M3"
-   framing is spent. **Executable now** via `merge_cluster.py` as a new cluster, which will
-   carry every property rather than just the genealogy. Verify with the full ritual.
+4. ~~`wikibase/analysis/adnan_merge_proposed.md` — M3~~ — **DONE 2026-07-31.** Emma:
+   *"You merge them lol"*. All three Adnan records merged into `Q65555` (cluster `adnan`).
+   Every gate green, including `compare_tangles` for the first time this session — the
+   Adnan records were not in a tangle, so nothing moved. **Zero records lost depth and 654
+   gained**, total ancestral depth **+158,370**: `Q86433`'s 434-ancestor route toward
+   Abraham is now reachable by the 8,527 descendants that hang off `Q65555`, which is
+   Muhammad's line. This is what "merges only ever add ancestry" looks like when it is
+   actually measured.
+   **Two open residues, neither hidden:** the survivor now has **four parents**
+   (`Q66382`, `Q66385`, `Q66394`, `Q86503`) — `Q66385` "Imaam 'Udd" and `Q66394` "Udd son
+   of Umaisi" look like one man, which is the untraced `'Udd`/`Humaisi` tangle the report
+   itself flags; and the survivor's **label is still `'Adnaan Bin Imaam 'Udd`** while the
+   record now carries wd `Q22338875` whose name is simply *Adnan*. Relabelling is Emma's
+   per the `Tros` precedent — flagged, not done.
 5. The Kosala dedup — three parallel imports of one king list — gates both C1 above and
    any further Indian-line work. **Still open**; it was not on the Work Loop page's list.
 

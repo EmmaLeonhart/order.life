@@ -202,6 +202,42 @@ CLUSTERS = {
         ("Q72984", "Q144060", "Quintus Caecilius Metellus -- same father Q73146, both "
                               "recorded as father of Q72858; Q144060 carries wd Q929498"),
     ],
+    # M3 from wikibase/analysis/adnan_merge_proposed.md. DECIDED BY EMMA 2026-07-31:
+    # "You merge them lol" -- i.e. merge all three Adnan records rather than pick a
+    # survivor and drop the other two. The report itself recommended choosing one, and
+    # asked for the R1 decision first; R1 was decided 2026-07-30 (the Emesene route is
+    # intentional and the splice stays), and Emma's answer supersedes the choose-one
+    # framing entirely.
+    #
+    #   Q65555   "Adnaan Bin Imaam 'Udd"  3 parents, 9 children, 10 anc, 8,527 desc
+    #   Q86433   "Adnan Banu Ismail"      1 parent,  1 child,  434 anc, 32,976 desc
+    #   Q111364  "Adnan"                  no parents, 2 children, wd Q22338875
+    #
+    # Each was the right answer by a different measure -- identifier, ancestry, posterity --
+    # which is exactly why the report could not choose. Merging keeps all three measures.
+    # Survivor Q65555 by the lower-QID convention; it is also the record Muhammad's line
+    # actually reaches.
+    #
+    # TWO CORRECTIONS TO THE REPORT, found while checking rather than assumed from it:
+    #   - it says Q65555 "reaches nothing upward". It has three parents and 10 ancestors.
+    #   - it says Q111364 has "no parents, two children"; that part holds.
+    #
+    # CYCLE RISK CHECKED BEFORE APPLYING, because Q86433 routes UP into the Emesene
+    # material while Q65555 runs DOWN to Muhammad: no ancestor set of any of the three
+    # intersects any other's descendant set, so the merge closes no loop. Verified against
+    # edges.tsv, not reasoned from the prose.
+    #
+    # RESIDUE, not fixed here and not hidden: the survivor ends with FOUR parents
+    # (Q66382, Q66385, Q66394, Q86503). Q66385 "Imaam 'Udd" and Q66394 "Udd son of Umaisi"
+    # look like the same man, which the report's own "'Udd/Humaisi tangle" note flags as
+    # untraced. That is a separate dedupe and is left standing deliberately -- it does not
+    # increase the count of records with >2 parents, since Q65555 already had three.
+    "adnan": [
+        ("Q65555", "Q86433", "Adnan -- Banu Ismail branch; contributes the parent edge and "
+                             "the 434-ancestor route toward Abraham"),
+        ("Q65555", "Q111364", "Adnan -- carries wd Q22338875, the only identifier of the "
+                              "three"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "
@@ -364,7 +400,7 @@ def main():
         return 0
 
     print("\napplying...")
-    carried, conflicts = {}, {}
+    carried, conflicts, claimed_by = {}, {}, {}
     for surv, loser, _ in merges:
         ds, dl = load(surv), load(loser)
         before = {p: len(vals(ds, p)) for p in GEN_PROPS}
@@ -434,7 +470,33 @@ def main():
             if (ITEMS / f"{f}.json").exists():
                 save(f, merged)
                 n += 1
+        # A file that BECAME a claimant of this survivor during an earlier merge in the
+        # same cluster is not in `shad`, which was computed once from the pre-merge state.
+        # Track them so the reconciliation pass below can find them without another sweep.
+        claimed_by.setdefault(surv, set()).update(
+            [loser] + list(shad.get(loser, ())) + list(shad.get(surv, ())))
         print(f"  {loser} -> {surv}: {before} -> {after}  ({n} file(s) rewritten)")
+
+    # RECONCILIATION -- required whenever a cluster merges TWO records into ONE survivor.
+    #
+    # `shad` is built once, before any merge. Merge 1 rewrites the loser and its shadows as
+    # copies of the survivor, which makes every one of those files a NEW claimant of the
+    # survivor's qid. Merge 2 then updates the survivor and the shadows it knew about at
+    # the start -- but not those new claimants, which are left frozen at the merge-1 state.
+    #
+    # Caught 2026-07-31 by .githooks/pre-commit on the `adnan` cluster, the first cluster
+    # with two merges into one survivor: Q86433.json and Q98118.json held 10 children while
+    # Q65555.json and the rest held 12. The earlier multi-merge clusters (porcia,
+    # prachetas) each merged into DIFFERENT survivors, so the shape never arose.
+    for surv, fs in claimed_by.items():
+        final = load(surv)
+        restale = [f for f in sorted(fs)
+                   if (ITEMS / f"{f}.json").exists() and load(f) != final]
+        for f in restale:
+            save(f, final)
+        if restale:
+            print(f"\n  reconciled {len(restale)} file(s) left stale by an earlier merge "
+                  f"into {surv}: {', '.join(restale)}")
 
     if carried:
         print("\nnon-genealogical properties carried over from the loser:")
@@ -479,11 +541,28 @@ def main():
     else:
         print(f"  no file claims any of the {len(losers)} vacated qid(s)")
 
+    # Compare CONTENT, not just the id field. The old check asked only whether each file's
+    # internal id equalled the survivor's, which every stale copy also satisfies -- a file
+    # frozen at merge-1 state still says id=Q65555. That is why this verify reported "all
+    # files agree with their survivor" on the adnan cluster while .githooks/pre-commit
+    # correctly blocked the commit. It also swept only the pre-merge `shad` set, so it
+    # could not have looked at the files that went stale. Both are fixed: the set is the
+    # union of the pre-merge shadows and everything rewritten during the run, and the test
+    # is equality of the whole record.
     for surv, loser, _ in merges:
-        for f in [surv, loser] + list(shad.get(loser, ())) + list(shad.get(surv, ())):
+        final = load(surv)
+        checkset = ({surv, loser} | set(shad.get(loser, ())) | set(shad.get(surv, ()))
+                    | set(claimed_by.get(surv, ())))
+        for f in sorted(checkset):
             d = load(f)
-            if d is not None and d.get("id") != surv:
+            if d is None:
+                continue
+            if d.get("id") != surv:
                 print(f"  FAIL {f}: internal id is {d.get('id')}, expected {surv}")
+                ok = False
+            elif d != final:
+                print(f"  FAIL {f}: claims {surv} but its content differs from the "
+                      f"survivor -- a stale copy left by an earlier merge")
                 ok = False
         d = load(surv)
         for p in ("P20", "P42", "P47", "P48"):
