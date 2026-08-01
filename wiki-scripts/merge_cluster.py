@@ -305,6 +305,43 @@ CLUSTERS = {
         ("Q72798", "Q73284", "empty shell in the same father-role as Marcus Livius Drusus "
                              "for Q72624"),
     ],
+    # queue.md item 3 (2026-08-01). The first batch out of qa_same_role_parents.tsv, the
+    # graph-wide same-role scan. All three are identical-label pairs with corroboration,
+    # each hand-checked against the item files, each outside the areas the queue blocks.
+    #
+    # DELIBERATELY EXCLUDED from this batch, though they rank as high or higher:
+    #   Q2627/Q29967 "Prasusruta, King of Kosala" and the other Ikshvaku pairs -- that IS
+    #     the Kosala dedup, which queue.md holds for Emma and which gates the Indian line.
+    #   Q64471/Q94808 "Abd Shams ibn Abd Manaf", Q65861/Q94403 "Al-Harith" and the other
+    #     Quraysh pairs -- same caution as the 'Udd/Adnan parentage: R1 established this
+    #     ancestry as deliberate, and variant source-chains look exactly like duplicates.
+    #   Q1683/Q48279 "Gayatri Rajapatni" -- a THREE-level parallel import (Gayatri,
+    #     Kertanegara under his regnal title Q48307, and Wisnuwardana Q1699/Q48347). It
+    #     needs its own cascade cluster; merging the bottom level alone would leave the
+    #     survivor with two fathers.
+    #
+    # (a) Q336 / Q337 "Maratton". Q337 is a LABELLED SHELL -- its only claims are P39 and
+    #     P94, no parents, no children, no spouse. It reaches the graph solely through
+    #     Q345 Maratidus naming it as a father, alongside Q336. Merging is purely additive:
+    #     the shell contributes nothing and stops being a second father.
+    #
+    # (b) Q31601 / Q92268 "Isabel de Polanco". SAME father Q92264 and SAME mother Q90177 by
+    #     identity, and two children shared by identity (Q32949, Q32953). Q31601 also holds
+    #     husbands de Tardajos and de Barrera and children surnamed for each; Q92268 holds
+    #     husband Q92710 Francisco de Baeza, and the shared children are the two surnamed
+    #     "de Baeza". Successive marriages, one woman, recorded twice.
+    #
+    # (c) Q50050 / Q167291 "Anna Xylaloe". Same spouse Q46167 Manuel I of Trebizond and
+    #     same child Q46179 Andronikos II, both by identity. Q50050 carries wd Q4767629 and
+    #     Q167291 carries none -- a gap, not a conflict.
+    "same-role-batch-1": [
+        ("Q336", "Q337", "Maratton -- Q337 is a labelled shell with no genealogical claim, "
+                         "present only as a second father of Q345"),
+        ("Q31601", "Q92268", "Isabel de Polanco -- same father Q92264 and mother Q90177 by "
+                             "identity, two children shared by identity"),
+        ("Q50050", "Q167291", "Anna Xylaloe -- same spouse Q46167 and same child Q46179 by "
+                              "identity; Q50050 carries wd Q4767629"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "

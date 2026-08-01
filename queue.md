@@ -313,6 +313,14 @@ central command.
    Caecilii Metelli brothers), and Adnan `Q65555`'s three fathers all appear, with
    `Q66385`/`Q66394` carrying the shared wife `Q66382` as corroboration.
 
+   **Batch 1 applied 2026-08-01** (`same-role-batch-1`: Maratton, Isabel de Polanco, Anna
+   Xylaloe) — every gate green, zero depth change. **1,707 pairs / 1,149 DEDUPE remain.**
+   **Do not take the Kosala (`Q2627`/`Q29967`) or Quraysh (`Q64471`/`Q94808`,
+   `Q65861`/`Q94403`) pairs** — those are held for Emma. `Q1683`/`Q48279` "Gayatri
+   Rajapatni" is a three-level cascade (Gayatri, Kertanegara under his regnal title
+   `Q48307`, Wisnuwardana `Q1699`/`Q48347`) and needs its own cluster, not a bottom-level
+   merge.
+
    **DEDUPE is a candidate, not a verdict.** Every merge this session that looked obvious
    from a signal needed the hand-check anyway. Work them in batches with `merge_cluster.py`
    and the full `verify_repair.py` ritual, highest-corroboration first.

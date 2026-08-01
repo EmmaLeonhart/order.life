@@ -532,8 +532,6 @@ DEDUPE	father	Q273	Dermaptera	Q30719	Polyneoptera	Q152932	Aurapter Polyneoptera	
 DEDUPE	father	Q274	Stone	Q30723	Polyneoptera	Q152933	Petropter Polyneoptera			real	real		
 DEDUPE	father	Q275	Orthopter	Q30727	Polyneoptera	Q152934	Orthops Polyneoptera			real	real		
 DEDUPE	father	Q276	Dictyoptera	Q30731	Polyneoptera	Q152935	Cryophanter Polyneoptera			real	real		
-DEDUPE	father	Q345	Maratidus	Q336	Maratton	Q337	Maratton			real	real	Q296	
-DEDUPE	father	Q346	Leptos	Q336	Maratton	Q337	Maratton			real	real	Q296	
 DEDUPE	father	Q1493	Neoteleostei	Q39502	Euteleostei	Q153134	1 Euteleostei			real	real	Q153133	
 DEDUPE	father	Q1494	Stomiati	Q39502	Euteleostei	Q153134	1 Euteleostei			real	real	Q153133	
 DEDUPE	father	Q1529	Batrachoidaria Batrachoididae (toadfishes)	Q40900	Percomorpha	Q153143	7 Percomorpha			real	real	Q5482	
@@ -757,10 +755,8 @@ DEDUPE	father	Q32435	Isabel  Funes de Villalpando y Arino	Q32411	Garcia  Funes d
 DEDUPE	father	Q32495	Jaime  Cerdan	Q92613	Jaime  Cerdan	Q92617	Domingo  de Aznar			real	real		Q31352
 DEDUPE	father	Q32812	Mayor of Cadiz Capt. Diego  Polanco	Q31593	Juan  Polanco Maluenda, Casa de Contratacion Sevilla	Q92266	Juan  Polanco Maluenda, Casa de Contratacion S			real	real	Q90177,Q92264	
 DEDUPE	father	Q32816	Catalina  de Polanco	Q31593	Juan  Polanco Maluenda, Casa de Contratacion Sevilla	Q92266	Juan  Polanco Maluenda, Casa de Contratacion S			real	real	Q90177,Q92264	
-DEDUPE	father	Q32949	Tomas  de Baeza Polanco	Q92698	Pedro  de Tardajos	Q92710	Francisco  de Baeza			real	real		
-DEDUPE	mother	Q32949	Tomas  de Baeza Polanco	Q31601	Isabel  de Polanco	Q92268	Isabel  de Polanco			real	real	Q90177,Q92264	
-DEDUPE	father	Q32953	Juan Bautista  de Baeza Polanco	Q92698	Pedro  de Tardajos	Q92710	Francisco  de Baeza			real	real		
-DEDUPE	mother	Q32953	Juan Bautista  de Baeza Polanco	Q31601	Isabel  de Polanco	Q92268	Isabel  de Polanco			real	real	Q90177,Q92264	
+DEDUPE	father	Q32949	Tomas  de Baeza Polanco	Q92698	Pedro  de Tardajos	Q92710	Francisco  de Baeza			real	real		Q31601
+DEDUPE	father	Q32953	Juan Bautista  de Baeza Polanco	Q92698	Pedro  de Tardajos	Q92710	Francisco  de Baeza			real	real		Q31601
 DEDUPE	mother	Q32969	Brianda de  Bazan y Castro	Q92714	Mayora de  Bazan	Q92718	Leonor  Bazan y Bazan			real	real		Q31625
 DEDUPE	father	Q33266	Verena (Veronica)  Wyss	Q31857	Jakob  Wyss	Q92306	Jakob  Wyss II			real	real	Q90231,Q92304	
 DEDUPE	father	Q33833	Maria  Rangel Perguero y Rosales	Q32298	Juan  Viezma	Q92426	Juan  Viezma			real	real		
@@ -805,7 +801,6 @@ DEDUPE	father	Q43294	Michael of Trebizond	Q43290	John II of Trebizond	Q167287	Jo
 DEDUPE	mother	Q43294	Michael of Trebizond	Q40967	Eudokia Palaiologina	Q167321	Eudokia Palaiologina	Q3059527		real	real		
 DEDUPE	mother	Q45394	Paula Maria  Toro Correa	Q44534	Juana  Correa Angulo	Q45478	Juana  Correa Angulo			real	real		
 DEDUPE	mother	Q46167	Manuel I of Trebizond	Q50038	Theodora Axouchina	Q167261	Theodora Axuchina	Q7781645		real	real		Q50033
-DEDUPE	mother	Q46179	Andronikos II of Trebizond	Q50050	Anna Xylaloe	Q167291	Anna Xylaloe	Q4767629		real	real		Q46167
 DEDUPE	father	Q46203	Andronikos III of Trebizond	Q43298	Alexios II of Trebizond	Q167322	Alexios II Megas Komnenos	Q365710		real	real		
 DEDUPE	mother	Q46203	Andronikos III of Trebizond	Q46195	Jiajak Jaqeli	Q167318	(: )	Q6191429		real	real	Q50075	
 DEDUPE	father	Q49428	Arjuna	Q153367	INDRA SAKRA Kashyapa	Q153368	PANDU			real	real		Q1906

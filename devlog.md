@@ -4,6 +4,32 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **First batch out of the graph-wide same-role scan: three merges, every gate green.**
+
+  `same-role-batch-1` — `Q336`/`Q337` "Maratton", `Q31601`/`Q92268` "Isabel de Polanco",
+  `Q50050`/`Q167291` "Anna Xylaloe". Each hand-checked against the item files before the
+  cluster was written. Isabel shares **both** parents by identity and two children; Anna
+  shares her husband and her son by identity; `Q337` is a labelled shell whose only claims
+  are `P39` and `P94`, reaching the graph solely as a second father of `Q345`.
+
+  Zero depth change, zero tangle change, `children_over_2_parents` 1208 → 1207. The scan
+  re-run drops from 1,712 pairs to 1,707 — five rows for three merges, because a duplicate
+  pair appears once per shared child.
+
+  **What I left out of the batch matters more than what went in.** Three of the highest-
+  ranked candidates are in areas the queue holds:
+  - `Q2627`/`Q29967` "Prasusruta, King of Kosala" **is** the Kosala dedup, which gates the
+    Indian line and belongs to Emma.
+  - `Q64471`/`Q94808` "Abd Shams", `Q65861`/`Q94403` "Al-Harith" and the other Quraysh
+    pairs carry the same caution as the `'Udd` case — R1 established this ancestry as
+    deliberate, and variant source-chains are indistinguishable from duplicates by
+    structure alone.
+  - `Q1683`/`Q48279` "Gayatri Rajapatni" is a **three-level** parallel import: Gayatri,
+    her father Kertanegara under his regnal title (`Q48307` "Sri Maharajadiraja Sri
+    Kertanegara Wikrama Dharmatun…"), and his father Wisnuwardana (`Q1699`/`Q48347`).
+    Merging the bottom level alone would leave the survivor with two fathers — the
+    prachetas trap. Needs its own cascade cluster.
+
 - **The best duplicate signal I have was looking at 0.35% of the graph. Now it looks at
   all of it: 1,712 same-role parent collisions over 1,330 children.**
 

@@ -161,21 +161,21 @@ Shortest loop: `Q72434 -> Q73893 -> Q73794 -> Q73692 -> Q73569 -> Q73443 -> Q732
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q72434` | Marcus Aemilius Lepidus | Q435329 | 120 BC | 77 BC | **898** | 28,852 | 255 | yes |
-| `Q72615` | Quintus Aemilius Lepidus | Q11944252 | — | — | **898** | 28,852 | 255 | yes |
-| `Q72786` | Marcus Aemilius Lepidus | — | — | — | **898** | 28,852 | 255 | yes |
-| `Q72801` | Cornelia | Q100804879 | — | — | **898** | 28,852 | 255 | yes |
-| `Q72957` | Consul (138 BC) - Publius Cornelius Scipio Nas | — | 182 BC | 132 BC | **898** | 28,852 | 255 | yes |
-| `Q73128` | Publius Cornelius Scipio Nasica Corculum | Q503320 | 205 | 141 | **898** | 28,852 | 255 | yes |
-| `Q73131` | Cornelia Africana Major | Q5171151 | 201 | — | **898** | 28,852 | 255 | yes |
-| `Q73293` | Publius Cornelius Scipio Nasica | Q453860 | 230 | 171 | **898** | 28,852 | 255 | yes |
-| `Q73299` | Scipio Africanus | Q2253 | 235 | 183 | **898** | 28,852 | 255 | yes |
-| `Q73443` | Gnaeus Cornelius Scipio Calvus | Q316475 | 256 | 211 | **898** | 28,852 | 255 | yes |
-| `Q73446` | Publius Cornelius Scipio | Q3293507 | 255 | 211 | **898** | 28,852 | 255 | yes |
-| `Q73569` | Lucius Cornelius Scipio | Q708483 | 306 | 250 | **898** | 28,852 | 255 | yes |
-| `Q73692` | Lucius Cornelius Scipio Barbatus | Q374630 | 400 | 300 | **898** | 28,852 | 255 | yes |
-| `Q73794` | Gnaeus Cornelius Scipio | Q128598522 | — | — | **898** | 28,852 | 255 | yes |
-| `Q73893` | Lucius Cornelius Scipio Asiaticus Aemilianus | Q7234050 | 200 | 77 | **898** | 28,852 | 255 | yes |
+| `Q72434` | Marcus Aemilius Lepidus | Q435329 | 120 BC | 77 BC | **898** | 28,851 | 255 | yes |
+| `Q72615` | Quintus Aemilius Lepidus | Q11944252 | — | — | **898** | 28,851 | 255 | yes |
+| `Q72786` | Marcus Aemilius Lepidus | — | — | — | **898** | 28,851 | 255 | yes |
+| `Q72801` | Cornelia | Q100804879 | — | — | **898** | 28,851 | 255 | yes |
+| `Q72957` | Consul (138 BC) - Publius Cornelius Scipio Nas | — | 182 BC | 132 BC | **898** | 28,851 | 255 | yes |
+| `Q73128` | Publius Cornelius Scipio Nasica Corculum | Q503320 | 205 | 141 | **898** | 28,851 | 255 | yes |
+| `Q73131` | Cornelia Africana Major | Q5171151 | 201 | — | **898** | 28,851 | 255 | yes |
+| `Q73293` | Publius Cornelius Scipio Nasica | Q453860 | 230 | 171 | **898** | 28,851 | 255 | yes |
+| `Q73299` | Scipio Africanus | Q2253 | 235 | 183 | **898** | 28,851 | 255 | yes |
+| `Q73443` | Gnaeus Cornelius Scipio Calvus | Q316475 | 256 | 211 | **898** | 28,851 | 255 | yes |
+| `Q73446` | Publius Cornelius Scipio | Q3293507 | 255 | 211 | **898** | 28,851 | 255 | yes |
+| `Q73569` | Lucius Cornelius Scipio | Q708483 | 306 | 250 | **898** | 28,851 | 255 | yes |
+| `Q73692` | Lucius Cornelius Scipio Barbatus | Q374630 | 400 | 300 | **898** | 28,851 | 255 | yes |
+| `Q73794` | Gnaeus Cornelius Scipio | Q128598522 | — | — | **898** | 28,851 | 255 | yes |
+| `Q73893` | Lucius Cornelius Scipio Asiaticus Aemilianus | Q7234050 | 200 | 77 | **898** | 28,851 | 255 | yes |
 
 **What the data says**
 
@@ -271,19 +271,19 @@ Shortest loop: `Q72834 -> Q141414 -> Q139559 -> Q139560 -> Q73458 -> Q73311 -> Q
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q72834` | Lucius Caecilius Metellus Calvus | Q703354 | 200 | 200 | **51** | 29,132 | 13 | no |
-| `Q72858` | Quintus Caecilius Metellus Macedonicus | Q355768 | 200 | 115 | **51** | 29,132 | 13 | no |
-| `Q72984` | Quintus Caecilius Metellus | Q929498 | 245 | 175 | **51** | 29,132 | 13 | no |
-| `Q73146` | Lucius Caecilius Metellus | Q359810 | — | 221 | **51** | 29,132 | 13 | no |
-| `Q73311` | Lucius Caecilius Metellus Denter | Q521498 | 341 BC | 283 BC | **51** | 29,132 | 13 | no |
-| `Q73458` | Gaius Caecilius | Q107101893 | 400 | — | **51** | 29,132 | 13 | no |
-| `Q138399` | Caecilia Metella | Q6454825 | 150 | 70 | **51** | 29,132 | 13 | no |
-| `Q138403` | Clodia | Q16542257 | 89 | — | **51** | 29,132 | 13 | no |
-| `Q139550` | Quintus Caecilius Metellus Balearicus | Q459870 | 200 | 160 | **51** | 29,132 | 13 | no |
-| `Q139559` | Lucullus | Q242819 | 117 | 56 | **51** | 29,132 | 13 | no |
-| `Q139560` | Licinia | Q113376428 | — | — | **51** | 29,132 | 13 | no |
-| `Q141414` | Caecilia Metella | Q461531 | 200 | 160 | **51** | 29,132 | 13 | no |
-| `Q148066` | Marcus Caecilius Metellus | Q897091 | 238 | 200 | **51** | 29,132 | 13 | no |
+| `Q72834` | Lucius Caecilius Metellus Calvus | Q703354 | 200 | 200 | **51** | 29,131 | 13 | no |
+| `Q72858` | Quintus Caecilius Metellus Macedonicus | Q355768 | 200 | 115 | **51** | 29,131 | 13 | no |
+| `Q72984` | Quintus Caecilius Metellus | Q929498 | 245 | 175 | **51** | 29,131 | 13 | no |
+| `Q73146` | Lucius Caecilius Metellus | Q359810 | — | 221 | **51** | 29,131 | 13 | no |
+| `Q73311` | Lucius Caecilius Metellus Denter | Q521498 | 341 BC | 283 BC | **51** | 29,131 | 13 | no |
+| `Q73458` | Gaius Caecilius | Q107101893 | 400 | — | **51** | 29,131 | 13 | no |
+| `Q138399` | Caecilia Metella | Q6454825 | 150 | 70 | **51** | 29,131 | 13 | no |
+| `Q138403` | Clodia | Q16542257 | 89 | — | **51** | 29,131 | 13 | no |
+| `Q139550` | Quintus Caecilius Metellus Balearicus | Q459870 | 200 | 160 | **51** | 29,131 | 13 | no |
+| `Q139559` | Lucullus | Q242819 | 117 | 56 | **51** | 29,131 | 13 | no |
+| `Q139560` | Licinia | Q113376428 | — | — | **51** | 29,131 | 13 | no |
+| `Q141414` | Caecilia Metella | Q461531 | 200 | 160 | **51** | 29,131 | 13 | no |
+| `Q148066` | Marcus Caecilius Metellus | Q897091 | 238 | 200 | **51** | 29,131 | 13 | no |
 
 **What the data says**
 
@@ -327,16 +327,16 @@ Shortest loop: `Q6421 -> Q87856 -> Q87854 -> Q87852 -> Q87850 -> Q87848 -> Q8784
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q6421` | Shaodian | Q4302144 | 2697 BC | — | **273** | 7,659 | 149 | yes |
-| `Q87840` | (unlabelled) | — | — | — | **273** | 7,659 | 149 | yes |
-| `Q87842` | (unlabelled) | — | — | — | **273** | 7,659 | 149 | yes |
-| `Q87844` | (unlabelled) | — | — | — | **273** | 7,659 | 149 | yes |
-| `Q87846` | (unlabelled) | — | — | — | **273** | 7,659 | 149 | yes |
-| `Q87848` | (unlabelled) | — | — | — | **273** | 7,659 | 149 | yes |
-| `Q87850` | Generation 5 | — | — | — | **273** | 7,659 | 149 | yes |
-| `Q87852` | Generation 4 | — | — | — | **273** | 7,659 | 149 | yes |
-| `Q87854` | Generation 3 | — | — | — | **273** | 7,659 | 149 | yes |
-| `Q87856` | Generation 2 | — | — | — | **273** | 7,659 | 149 | yes |
+| `Q6421` | Shaodian | Q4302144 | 2697 BC | — | **273** | 7,658 | 149 | yes |
+| `Q87840` | (unlabelled) | — | — | — | **273** | 7,658 | 149 | yes |
+| `Q87842` | (unlabelled) | — | — | — | **273** | 7,658 | 149 | yes |
+| `Q87844` | (unlabelled) | — | — | — | **273** | 7,658 | 149 | yes |
+| `Q87846` | (unlabelled) | — | — | — | **273** | 7,658 | 149 | yes |
+| `Q87848` | (unlabelled) | — | — | — | **273** | 7,658 | 149 | yes |
+| `Q87850` | Generation 5 | — | — | — | **273** | 7,658 | 149 | yes |
+| `Q87852` | Generation 4 | — | — | — | **273** | 7,658 | 149 | yes |
+| `Q87854` | Generation 3 | — | — | — | **273** | 7,658 | 149 | yes |
+| `Q87856` | Generation 2 | — | — | — | **273** | 7,658 | 149 | yes |
 
 **What the data says**
 
@@ -376,13 +376,13 @@ Shortest loop: `Q85478 -> Q85578 -> Q85554 -> Q85528 -> Q85514 -> Q85498 -> Q854
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q85478` | Sekhemre Sankhtawy Neferhotep III | — | — | — | **420** | 31,792 | 207 | yes |
-| `Q85498` | Sekhemre Sementawi Djehuti | — | — | — | **420** | 31,792 | 207 | yes |
-| `Q85500` | Mentuhotep . | — | — | — | **420** | 31,792 | 207 | yes |
-| `Q85514` | Senebhenaf . | — | — | — | **420** | 31,792 | 207 | yes |
-| `Q85528` | Yauyebi of  Egypt | — | 1790 BC | — | **420** | 31,792 | 207 | yes |
-| `Q85554` | Sebekemsaf . | — | — | — | **420** | 31,792 | 207 | yes |
-| `Q85578` | Sankhenre Mentuhotep VI | — | — | — | **420** | 31,792 | 207 | yes |
+| `Q85478` | Sekhemre Sankhtawy Neferhotep III | — | — | — | **420** | 31,791 | 207 | yes |
+| `Q85498` | Sekhemre Sementawi Djehuti | — | — | — | **420** | 31,791 | 207 | yes |
+| `Q85500` | Mentuhotep . | — | — | — | **420** | 31,791 | 207 | yes |
+| `Q85514` | Senebhenaf . | — | — | — | **420** | 31,791 | 207 | yes |
+| `Q85528` | Yauyebi of  Egypt | — | 1790 BC | — | **420** | 31,791 | 207 | yes |
+| `Q85554` | Sebekemsaf . | — | — | — | **420** | 31,791 | 207 | yes |
+| `Q85578` | Sankhenre Mentuhotep VI | — | — | — | **420** | 31,791 | 207 | yes |
 
 **Decision:** _not made — needs Emma_
 
@@ -456,11 +456,11 @@ Shortest loop: `Q73782 -> Q78812 -> Q78752 -> Q73970 -> Q73887 -> Q73782`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q73782` | Appius Claudius Caecus | Q297783 | 341 BC | 300 BC | **15** | 29,300 | 5 | no |
-| `Q73887` | Gaius Claudius Crassus Inrelligensis | Q5759141 | 370 | 337 | **15** | 29,300 | 5 | no |
-| `Q73970` | Appius Claudius Crassus Inregillensis | Q657609 | 350 | 349 | **15** | 29,300 | 5 | no |
-| `Q78752` | Publius  Claudius-Nero | — | — | — | **15** | 29,300 | 5 | no |
-| `Q78812` | Tiberius Claudius Nero | — | — | — | **15** | 29,300 | 5 | no |
+| `Q73782` | Appius Claudius Caecus | Q297783 | 341 BC | 300 BC | **15** | 29,299 | 5 | no |
+| `Q73887` | Gaius Claudius Crassus Inrelligensis | Q5759141 | 370 | 337 | **15** | 29,299 | 5 | no |
+| `Q73970` | Appius Claudius Crassus Inregillensis | Q657609 | 350 | 349 | **15** | 29,299 | 5 | no |
+| `Q78752` | Publius  Claudius-Nero | — | — | — | **15** | 29,299 | 5 | no |
+| `Q78812` | Tiberius Claudius Nero | — | — | — | **15** | 29,299 | 5 | no |
 
 **What the data says**
 
@@ -477,11 +477,11 @@ Shortest loop: `Q75123 -> Q132251 -> Q132367 -> Q131896 -> Q131902 -> Q75123`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q75123` | Deimachus | Q1183226 | — | — | **192** | 31,662 | 16 | no |
-| `Q131896` | Tyro | Q1126715 | — | — | **192** | 31,662 | 16 | no |
-| `Q131902` | Neleus | Q637955 | — | — | **192** | 31,662 | 16 | no |
-| `Q132251` | Enarete | Q48665 | — | — | **192** | 31,662 | 16 | no |
-| `Q132367` | Salmoneus | Q1131643 | — | — | **192** | 31,662 | 16 | no |
+| `Q75123` | Deimachus | Q1183226 | — | — | **192** | 31,661 | 16 | no |
+| `Q131896` | Tyro | Q1126715 | — | — | **192** | 31,661 | 16 | no |
+| `Q131902` | Neleus | Q637955 | — | — | **192** | 31,661 | 16 | no |
+| `Q132251` | Enarete | Q48665 | — | — | **192** | 31,661 | 16 | no |
+| `Q132367` | Salmoneus | Q1131643 | — | — | **192** | 31,661 | 16 | no |
 
 **What the data says**
 
@@ -520,10 +520,10 @@ Shortest loop: `Q4617 -> Q4626 -> Q135406 -> Q135539 -> Q4617`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q4617` | Pedaiah | Q20101444 | — | — | **509** | 28,962 | 167 | yes |
-| `Q4626` | Zebudah | Q30527376 | — | — | **509** | 28,962 | 167 | yes |
-| `Q135406` | Jehoiakim | Q319034 | 634 | 598 | **509** | 28,962 | 167 | yes |
-| `Q135539` | Jeconiah | Q319049 | 616 | 597 | **509** | 28,962 | 167 | yes |
+| `Q4617` | Pedaiah | Q20101444 | — | — | **509** | 28,961 | 167 | yes |
+| `Q4626` | Zebudah | Q30527376 | — | — | **509** | 28,961 | 167 | yes |
+| `Q135406` | Jehoiakim | Q319034 | 634 | 598 | **509** | 28,961 | 167 | yes |
+| `Q135539` | Jeconiah | Q319049 | 616 | 597 | **509** | 28,961 | 167 | yes |
 
 **What the data says**
 
@@ -652,9 +652,9 @@ Shortest loop: `Q72798 -> Q73119 -> Q72951 -> Q72798`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q72798` | Marcus Livius Drusus | Q703346 | 155 | 109 | **920** | 28,781 | 267 | yes |
-| `Q72951` | Gaius Livius Drusus | Q1270114 | 250 | 250 | **920** | 28,781 | 267 | yes |
-| `Q73119` | Marcus Livius Drusus | Q433463 | 124 | 91 | **920** | 28,781 | 267 | yes |
+| `Q72798` | Marcus Livius Drusus | Q703346 | 155 | 109 | **920** | 28,780 | 267 | yes |
+| `Q72951` | Gaius Livius Drusus | Q1270114 | 250 | 250 | **920** | 28,780 | 267 | yes |
+| `Q73119` | Marcus Livius Drusus | Q433463 | 124 | 91 | **920** | 28,780 | 267 | yes |
 
 **What the data says**
 
@@ -674,9 +674,9 @@ Shortest loop: `Q73383 -> Q73644 -> Q73518 -> Q73383`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q73383` | Lucius Junius  Brutus | — | — | — | **805** | 28,753 | 246 | yes |
-| `Q73518` | C. Junius Junius Brutus  Brutus | — | — | — | **805** | 28,753 | 246 | yes |
-| `Q73644` | C. Junius  Brutus | — | — | — | **805** | 28,753 | 246 | yes |
+| `Q73383` | Lucius Junius  Brutus | — | — | — | **805** | 28,752 | 246 | yes |
+| `Q73518` | C. Junius Junius Brutus  Brutus | — | — | — | **805** | 28,752 | 246 | yes |
+| `Q73644` | C. Junius  Brutus | — | — | — | **805** | 28,752 | 246 | yes |
 
 **Decision:** _not made — needs Emma_
 
@@ -688,9 +688,9 @@ Shortest loop: `Q73824 -> Q135467 -> Q73925 -> Q73824`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q73824` | Agathocles of Pella | Q4691548 | 400 | 400 | **2** | 29,426 | 0 | no |
-| `Q73925` | Alcimachus | Q4713126 | — | — | **2** | 29,426 | 0 | no |
-| `Q135467` | Alcimachus of Apollonia | Q24254 | 400 | 400 | **2** | 29,426 | 0 | no |
+| `Q73824` | Agathocles of Pella | Q4691548 | 400 | 400 | **2** | 29,425 | 0 | no |
+| `Q73925` | Alcimachus | Q4713126 | — | — | **2** | 29,425 | 0 | no |
+| `Q135467` | Alcimachus of Apollonia | Q24254 | 400 | 400 | **2** | 29,425 | 0 | no |
 
 **What the data says**
 
@@ -725,9 +725,9 @@ Shortest loop: `Q86607 -> Q91134 -> Q86617 -> Q86607`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q86607` | Acha  Ish Kfar Temarta | — | — | — | **3** | 3,871 | 1 | no |
-| `Q86617` | Shila  Ish Kfar Temarta | — | — | — | **3** | 3,871 | 1 | no |
-| `Q91134` | Abba "Abbahu"  bar Acha bar Sallah al-Kafri | — | — | — | **3** | 3,871 | 1 | no |
+| `Q86607` | Acha  Ish Kfar Temarta | — | — | — | **3** | 3,870 | 1 | no |
+| `Q86617` | Shila  Ish Kfar Temarta | — | — | — | **3** | 3,870 | 1 | no |
+| `Q91134` | Abba "Abbahu"  bar Acha bar Sallah al-Kafri | — | — | — | **3** | 3,870 | 1 | no |
 
 **Decision:** _not made — needs Emma_
 
@@ -752,8 +752,8 @@ Shortest loop: `Q29144 -> Q29148 -> Q29144`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q29144` | kay uyarsh  Raja Iran | — | — | — | **340** | 31,853 | 160 | yes |
-| `Q29148` | kay pisan  Raja Iran | — | — | — | **340** | 31,853 | 160 | yes |
+| `Q29144` | kay uyarsh  Raja Iran | — | — | — | **340** | 31,852 | 160 | yes |
+| `Q29148` | kay pisan  Raja Iran | — | — | — | **340** | 31,852 | 160 | yes |
 
 **What the data says**
 
@@ -769,8 +769,8 @@ Shortest loop: `Q73530 -> Q73653 -> Q73530`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q73530` | Marcus Flaccus | — | — | — | **5** | 28,708 | 3 | no |
-| `Q73653` | Cassus Curvus | — | — | — | **5** | 28,708 | 3 | no |
+| `Q73530` | Marcus Flaccus | — | — | — | **5** | 28,707 | 3 | no |
+| `Q73653` | Cassus Curvus | — | — | — | **5** | 28,707 | 3 | no |
 
 **Decision:** _not made — needs Emma_
 
