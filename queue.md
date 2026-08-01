@@ -293,6 +293,54 @@ central command.
    that does not exist. It still repairs 0 of 5 — every remaining pair genuinely lacks
    direction evidence, which is the correct answer, not a failure.
 
+3. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
+   Generated 2026-08-01 by `wiki-scripts/same_role_parents.py`. One child has one father
+   and one mother, so **every row is a defect**: either the pair is one person recorded
+   twice, or one of the two edges is false.
+
+   **This is the class the tangle-scoped detector could not see.** `propose_tangle_repairs.py`
+   examines the 283 records inside tangles and found **6**. There are **1,712 pairs over
+   1,330 children** — it was seeing 0.35%.
+
+   | verdict | n | meaning |
+   |---|---|---|
+   | `DEDUPE` | 1,154 | nothing distinguishes the pair; **630 have corroboration** (shared parent or shared spouse) |
+   | `ABSENT` | 408 | one side has no file or is an empty shell — belongs with item 4 |
+   | `COLLAPSE` | 120 | one is an ancestor of the other. **NOT duplicates**; merging fuses two generations |
+   | `DISTINCT` | 30 | different Wikidata ids or different recorded sex. Two people, so one edge is false — a CUT, not a merge |
+
+   **Verified against every case checked by hand:** `Q72834` comes out `DISTINCT` (the two
+   Caecilii Metelli brothers), and Adnan `Q65555`'s three fathers all appear, with
+   `Q66385`/`Q66394` carrying the shared wife `Q66382` as corroboration.
+
+   **DEDUPE is a candidate, not a verdict.** Every merge this session that looked obvious
+   from a signal needed the hand-check anyway. Work them in batches with `merge_cluster.py`
+   and the full `verify_repair.py` ritual, highest-corroboration first.
+
+   **Note the dump is not only people.** Rows like `Q39502` "Euteleostei" / `Q153134`
+   "1 Euteleostei" are in the **evolutionary taxonomy**, not the human genealogy. The
+   duplicate there is real, but the naming conventions and what counts as evidence are
+   different — do not apply prosopography reasoning to a clade.
+
+4. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
+   `Q66385` "Imaam 'Udd \ Add Ben Add Ben ?'Udadh", `Q66394` "Udd son of Umaisi", and
+   `Q86503` "Nabhan Banu Ismail" (the last acquired in the M3 merge). At most one is right.
+
+   `Q66385` and `Q66394` are both married to **the same woman** `Q66382`, who lists both as
+   her husbands — the dump stating the duplication about itself. Neither carries a Wikidata
+   id and neither is an ancestor of the other, so nothing structural separates them.
+
+   **But their fathers differ in exactly the way variant traditions differ:** `Q66385`'s
+   father is `'Udadh`, `Q66394`'s is `Umaisi`/`Humaisi`. The Arab sources give variant
+   chains for Adnan's ancestry, and *'Udd* and *'Udad* are variants of one name. **This may
+   be two source-traditions deliberately kept, not a duplicate** — and R1 already
+   established that Muhammad's ancestry here is intentional. Merging them would collapse
+   the variant. **Do not merge without Emma.**
+
+   Related and also unresolved: `Q66385`'s own two fathers `Q67549` and `Q67552` are both
+   children of `Q67561` — and `Q67552` is flagged `COLLAPSE` against `Q67561`, so those two
+   must not be merged either.
+
 3. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
    34 are `REVIEW`: no Wikidata evidence decides them, mostly because "contradicted" there

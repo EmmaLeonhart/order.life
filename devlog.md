@@ -4,6 +4,42 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **The best duplicate signal I have was looking at 0.35% of the graph. Now it looks at
+  all of it: 1,712 same-role parent collisions over 1,330 children.**
+
+  `propose_tangle_repairs.py` only examines records inside tangles — 283 of 102,000 — and
+  found six same-role collisions. Chasing the `'Udd`/`Humaisi` residue from the Adnan merge
+  turned up a seventh that it structurally could not see: **Adnan `Q65555` has two fathers,
+  `Q66385` and `Q66394`, both married to the same woman `Q66382`** — and Adnan is in no
+  tangle at all.
+
+  `wiki-scripts/same_role_parents.py` runs it graph-wide in 32 seconds. One child has one
+  father and one mother, so every row is a defect: **1,154 `DEDUPE`** (630 corroborated by
+  a shared parent or spouse), **408 `ABSENT`**, **120 `COLLAPSE`**, **30 `DISTINCT`**.
+
+  The verdict order encodes what this session cost to learn. `COLLAPSE` is checked first
+  and only on a **strictly one-way** ancestry relation, because mutual reachability is
+  meaningless inside a tangle. `DISTINCT` catches the two Caecilii Metelli brothers that a
+  naive same-role rule would have merged. `ABSENT` is the GAP/PHANTOM lesson. `DEDUPE` is
+  what is left, and it is labelled a candidate rather than a verdict.
+
+  **Checked against every case I had already done by hand**, and it reproduces all of them:
+  `Q72834` comes out `DISTINCT`, Adnan's three father-pairs all appear with the shared wife
+  as corroboration on the right one.
+
+  **Two things worth knowing about the 1,154.** They are not all people — `Q39502`
+  "Euteleostei" / `Q153134` "1 Euteleostei" are clades in the evolutionary tree, where the
+  naming conventions and the evidence are different. And the `'Udd` pair, which prompted
+  all this, is the one I will *not* act on: their fathers differ as `'Udadh` versus
+  `Umaisi`, which is exactly how variant Arab source-chains for Adnan differ, and R1
+  already established this ancestry as deliberate. Merging would collapse a variant.
+  Written into the queue as needing Emma.
+
+  Also fixed: the writer hit the mirror image of this morning's reader bug — `csv` with
+  `QUOTE_NONE` refuses a field containing a double quote unless an escapechar is set, and
+  setting one produces a file the `QUOTE_NONE` readers cannot parse back. Written with
+  plain formatting, like every other TSV in `wikibase/analysis`.
+
 - **Ran the connectivity test on the PHANTOM bucket BEFORE cutting anything, and it has
   the same shape as GAP at four times the scale.**
 
