@@ -34,12 +34,14 @@ One tangle genuinely resolved (a mutual-parenthood pair Wikidata settled). The 1
 === Waiting on you ===
 None of these block the loop — it works around them.
 - **Genesis 11 patriarchs under Mesopotamian royal names** — corrupt import (relabel all nine) or deliberate euhemerism (change nothing, add a note)? Opposite fixes; everything under the Table of Nations depends on it.
-  - Euhemerism lol 
+  - Euhemerism lol
 - **Adam → Genghis** — A1 (attach Khaidu to the Borjigin chain already in the dump) or A2 (Haplogroup C2-M217), or both.
   - Both?
 - **Chapter 181's "bore him ten sons"** — data fix invents nine named sons, prose fix drops a Garakguk-gi detail.
-  - Uhh yeah the ten sons exist 
+  - Uhh yeah the ten sons exist
 - **Which of the three Adnan records survives** (M3).
   - You merge them lol
 - **Naming the primordial half of Q74698 Tros** — the split is blocked on it, and Tros → Ops can be neither fixed nor cut until it has a name.
   - What? Explain better
+
+- Notion-side test edit — verifying an edit made IN Notion reaches the repo. Removed immediately after.
