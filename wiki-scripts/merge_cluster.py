@@ -401,6 +401,30 @@ CLUSTERS = {
         ("Q58128", "Q87466", "of Cheng -- same father Q87474 and same child Q87460, by "
                              "identity"),
     ],
+    # BLOCKED, and kept here deliberately so the tool can demonstrate that it refuses it.
+    # These four are the Severan pairs dropped from same-role-batch-2 after the applied
+    # seven failed I4 (multi-parent children 1207 -> 1210). Each is a correct duplicate;
+    # each survivor would inherit BOTH copies' fathers and cross the >2-parent threshold.
+    #
+    #   Q4681  Mamaea    fathers "Julius Avitus" Q151864 + "Julius Calpurnius Piso" Q166158
+    #   Q4682  Zenobius  fathers ELAGABALUS Q144407 + MALCHUS II OF PALMYRA Q166170 --
+    #                    plainly different men, so one edge is false; undecidable here
+    #   Q151866, Q151865 fathers Q151898 + Q166247, both "Marcus Julius Gessius Ma..." --
+    #                    those two are probably a pair; merging them FIRST unblocks both
+    #
+    # Running this cluster prints the I4 warning and --write aborts. That is the intended
+    # behaviour and it is what validates the pre-check: the narrowed batch passes, this
+    # one is refused.
+    "severan-blocked": [
+        ("Q4681", "Q166205", "Julia Avita Mamaea -- both mothers of Q148331 Severus "
+                             "Alexander; BLOCKED, survivor would have two fathers"),
+        ("Q4682", "Q166216", "Julius Aurelius Zenobius -- BLOCKED, fathers Elagabalus and "
+                             "Malchus II of Palmyra are different men"),
+        ("Q151866", "Q166249", "Marcus Julius Gessius Bassianus -- BLOCKED pending the "
+                               "Q151898/Q166247 husband merge"),
+        ("Q151865", "Q166250", "Theoclia -- BLOCKED pending the Q151898/Q166247 husband "
+                               "merge"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "
@@ -558,9 +582,53 @@ def main():
         print(f"        {1 + len(shad.get(surv, ())) + len(shad.get(loser, ()))} "
               f"file(s) rewritten (loser + shadows of both sides)")
 
+    # I4 PRE-CHECK. check_invariants forbids the count of children with >2 parents from
+    # increasing, and a merge raises it whenever a survivor inherits both sides' parents
+    # and crosses three. That is not hypothetical: on 2026-08-01 a seven-pair Severan batch
+    # was applied, failed I4 at 1207 -> 1210, and had to be reverted and narrowed -- about
+    # 45 minutes of 164k-file sweeps to learn something computable in a second from the
+    # inputs. Collapse risk and depth were checked beforehand; this was not.
+    #
+    # Counts the survivors only. A merge cannot raise anyone else's parent count: third
+    # parties keep citing the loser's qid and extract_genealogy canonicalises it to the
+    # survivor, which can merge two of a child's parents into one but never split one into
+    # two.
+    #
+    # IT OVER-WARNS, DELIBERATELY. It counts survivors crossing upward and does not model
+    # the offsetting DECREASES a merge produces elsewhere -- collapsing two of a child's
+    # parents into one drops that child's count, and may drop it back under the threshold.
+    # On the Severan batch this predicts 4 crossings where the observed net was +3, because
+    # merging the two Julia Maesas took Julia Soaemias from two mothers to one. Erring
+    # toward warning is the right bias for a guard that fronts a 45-minute round trip, but
+    # a warning is a reason to look, not proof the cluster is unusable.
+    over = []
+    for surv, loser, _ in merges:
+        ds, dl = load(surv), load(loser)
+        if ds is None or dl is None:
+            continue
+        before_n = len({canon(v) for p in ("P47", "P48") for v in vals(ds, p)}
+                       - {surv})
+        after = {canon(v) for p in ("P47", "P48") for v in vals(ds, p)}
+        after |= {canon(v) for p in ("P47", "P48") for v in vals(dl, p)}
+        after -= {surv, loser}
+        if len(after) > 2 and len(after) > before_n:
+            over.append((surv, loser, before_n, len(after), sorted(after, key=lambda q: (0, int(q[1:])) if q[1:].isdigit() else (1, q))))
+    if over:
+        print("\n  ** I4 WARNING: these survivors would cross the >2-parent threshold **")
+        for surv, loser, b, a, ps in over:
+            print(f"     {surv} <- {loser}: {b} parent(s) -> {a}  ({', '.join(ps)})")
+        print("     check_invariants will FAIL. Resolve the parent conflict first, or drop")
+        print("     these pairs from the cluster. Do not re-baseline to make it pass.")
+    else:
+        print("\n  I4 pre-check: no survivor crosses the >2-parent threshold.")
+
     if not write:
         print("\nDRY RUN. Re-run with --write to apply.")
         return 0
+    if over and "--force-i4" not in sys.argv:
+        print("\nABORT: refusing to apply a cluster that would fail I4. Narrow the cluster,")
+        print("or pass --force-i4 if the increase is genuinely intended and explained.")
+        return 1
 
     print("\napplying...")
     carried, conflicts, claimed_by = {}, {}, {}

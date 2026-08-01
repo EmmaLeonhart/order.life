@@ -4,6 +4,33 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Built the I4 pre-check I said I should have had, and validated it against the batch
+  that failed.**
+
+  Last tick a seven-pair merge was applied, failed `check_invariants` I4, and had to be
+  reverted and narrowed — about 45 minutes of 164k-file sweeps to learn something
+  computable in a second from the inputs. `merge_cluster.py` now unions each pair's parents
+  in the dry run and reports any survivor that would cross three.
+
+  **Validated both directions, not just the happy one.** The narrowed batch that succeeded
+  prints *no survivor crosses the threshold*. The four Severan pairs that were dropped are
+  kept as a `severan-blocked` cluster precisely so the tool can be shown refusing them —
+  and it names all four survivors with their exact parent sets:
+
+      Q4681  <- Q166205: 2 -> 3  (Q4680, Q151864, Q166158)
+      Q4682  <- Q166216: 2 -> 3  (Q4681, Q144407, Q166170)
+      Q151866<- Q166249: 2 -> 3  (Q4681, Q151898, Q166247)
+      Q151865<- Q166250: 2 -> 3  (Q4681, Q151898, Q166247)
+
+  `--write` aborts and the dump is untouched. There is a `--force-i4` escape, which exists
+  so that a deliberate, explained increase is possible and an accidental one is not.
+
+  **It over-warns and the comment says so.** It counts survivors crossing upward and does
+  not model the offsetting decreases a merge causes elsewhere — merging the two Julia
+  Maesas took Julia Soaemias from two mothers to one, which is why it predicts 4 crossings
+  where the observed net was +3. Erring toward warning is right for a guard fronting a
+  45-minute round trip, but a warning is a reason to look, not proof a cluster is unusable.
+
 - **Batch 2: applied seven merges, `check_invariants` failed, reverted, re-applied three.**
 
   The seven were all correct duplicates and I would defend every one of them. Merging them

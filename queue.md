@@ -313,9 +313,11 @@ central command.
    Caecilii Metelli brothers), and Adnan `Q65555`'s three fathers all appear, with
    `Q66385`/`Q66394` carrying the shared wife `Q66382` as corroboration.
 
-   **BEFORE MERGING, CHECK THE MULTI-PARENT CONSEQUENCE.** Union the pair's parents and
-   count: if the survivor crosses **three** parents, `check_invariants` I4 fails and the
-   merge is blocked until the parent conflict is resolved. Batch 2 was applied seven-strong,
+   **THE MULTI-PARENT CHECK IS NOW IN THE TOOL** (2026-08-01). `merge_cluster.py`'s dry run
+   unions each pair's parents and warns on any survivor crossing **three**; `--write`
+   aborts rather than applying a cluster that would fail I4. It over-warns by design — it
+   does not model the offsetting decreases a merge causes — so a warning means *look*, not
+   *impossible*. `--force-i4` exists for a deliberate, explained increase. Batch 2 was applied seven-strong,
    failed I4 at 1207 → 1210, and had to be reverted to three. The merges were *correct* —
    they surfaced a father-conflict previously hidden by being split across two copies of a
    duplicated subtree — but a real conflict revealed is still a gate failure.
