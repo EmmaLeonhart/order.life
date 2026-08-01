@@ -159,6 +159,49 @@ CLUSTERS = {
         ("Q72615", "Q72693", "Quintus Aemilius Lepidus -- both sons of Q72786 and both "
                              "fathers of Q72434, which lists both of them as its fathers"),
     ],
+    # queue.md item 2 (2026-07-31). The first cluster found by the NEW label-plus-
+    # corroboration detector rather than by hand -- propose_tangle_repairs.py flagged it
+    # DEDUPE because Q153390 names two identically-labelled fathers. Neither side of either
+    # pair carries a Wikidata id, so the old shared-id detector could never have seen it.
+    #
+    # It is a two-level cascade and MUST be merged as one, or the survivor ends up with two
+    # duplicate fathers -- the same trap the Porcii Catones cluster documented:
+    #
+    #   Q1968   "Prachinbarhi"          f=Q1978 m=Q49767              ch=[Q1955]
+    #   Q49707  "Prachinbarhi"          f=Q1978 m=Q49767  sp=Q49703   ch=[Q49634]
+    #   Q1955   "Prachetas (10 sons)"   f=Q1968                       ch=[Q153390]
+    #   Q49634  "Prachetas (10 sons)"   f=Q49707 m=Q49703 sp=Q49638   ch=[Q153390]
+    #
+    # The upper pair is decided on more than a shared label: they share BOTH parents BY
+    # IDENTITY (Q1978 Havirdhana, Q49767 Havirdhani), not merely by name, and each fathers a
+    # record labelled "Prachetas (10 sons)". The lower pair is the decisive shared-child
+    # signature -- Q153390 Daksha lists both of them as its fathers, and a man has one
+    # father.
+    #
+    # Survivors are the lower QIDs by convention; the higher ones hold the spouse and mother
+    # claims, which the union carries over. Q49703 Shatadruti is spouse of the Prachinbarhi
+    # survivor and mother of the Prachetas survivor, which is consistent and stays.
+    "prachetas": [
+        ("Q1968", "Q49707", "Prachinbarhi -- same father Q1978 and same mother Q49767 by "
+                            "identity, each the father of a 'Prachetas (10 sons)'"),
+        ("Q1955", "Q49634", "Prachetas (10 sons) -- Q153390 Daksha lists both as its "
+                            "fathers"),
+    ],
+    # queue.md item 2 (2026-07-31), also from the new detector. Same shape as the
+    # Q72615/Q72693 pair merged earlier today, and missed for the same reason: only one
+    # side carries a Wikidata id.
+    #
+    #   Q72984   "Quintus Caecilius Metellus"  f=Q73146  ch=[Q72834, Q72858]  wd=none
+    #   Q144060  "Quintus Caecilius Metellus"  f=Q73146  ch=[Q72858]          wd=Q929498
+    #
+    # Same label, SAME father Q73146 by identity, and both are recorded as the father of
+    # Q72858. Survivor is Q72984 (lower QID, and it holds the extra child Q72834); the union
+    # carries Q144060's Wikidata id and its P56/P57 birth and death dates onto it, which is
+    # exactly the property loss the 2026-07-31 backfill was written to prevent.
+    "metellus": [
+        ("Q72984", "Q144060", "Quintus Caecilius Metellus -- same father Q73146, both "
+                              "recorded as father of Q72858; Q144060 carries wd Q929498"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "
@@ -292,6 +335,27 @@ def main():
                              if canon(v) not in set(vals(ds, p)) and canon(v) != surv})
             if gained:
                 print(f"        survivor gains {p}: {gained}")
+        # Preview the NON-genealogical carry too. The apply path has done this since the
+        # 38-dropped-properties fix, but the dry run only ever showed GEN_PROPS -- so a
+        # reader checking the plan could not see that birth/death dates and external ids
+        # were about to move. That mismatch between what the preview shows and what the
+        # tool does is the same shape as the "strictly additive" claim that was false of
+        # the records while true of the graph. Show both, and show the conflicts.
+        will_carry = sorted(p for p in (dl.get("claims") or {})
+                            if p not in GEN_PROPS and p not in (ds.get("claims") or {}))
+        if will_carry:
+            print(f"        survivor also gains, from the loser only: {', '.join(will_carry)}")
+        differing = []
+        for p, _cl in sorted((dl.get("claims") or {}).items()):
+            if p in GEN_PROPS or p not in (ds.get("claims") or {}):
+                continue
+            a = sorted(str(v) for v in vals(ds, p))
+            b = sorted(str(v) for v in vals(dl, p))
+            if a != b:
+                differing.append(p)
+        if differing:
+            print(f"        BOTH SIDES DIFFER on {', '.join(differing)} -- survivor's value "
+                  f"stands and the difference is reported, not merged")
         print(f"        {1 + len(shad.get(surv, ())) + len(shad.get(loser, ()))} "
               f"file(s) rewritten (loser + shadows of both sides)")
 

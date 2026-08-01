@@ -4,6 +4,48 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **Applied the two dedupes the new detector found. First repairs in this repo found by a
+  tool rather than by hand.**
+
+  `prachetas` (2 merges) and `metellus` (1). Both were surfaced by the label-plus-
+  corroboration signal added earlier today, and **neither could ever have been found by the
+  old shared-Wikidata-id detector** — no side of the Prachetas cascade carries an id at all.
+
+  **`prachetas` is a two-level cascade and had to be merged as one.** `Q1968`/`Q49707`
+  "Prachinbarhi" share **both parents by identity**, not merely by label — `Q1978`
+  Havirdhana and `Q49767` Havirdhani. Their sons `Q1955`/`Q49634` "Prachetas (10 sons)" are
+  both fathers of `Q153390` Daksha, which lists both of them. Merging only the lower pair
+  would have left the survivor with two duplicate fathers, which is the trap the Porcii
+  Catones cluster documented.
+
+  **`metellus`**: `Q72984`/`Q144060`, same label, same father `Q73146` by identity, both
+  recorded as father of `Q72858`.
+
+  **Gates.** `compare_depth` **PASS**, worst loss 2 — the arithmetic artefact of a tangle
+  shrinking by two members, not amputation. `check_invariants` **PASS and improved**:
+  `children_over_2_parents` 1218 → 1217, Daksha going from two fathers to one.
+  `compare_tangles` exits 1, and its lists are the documented dedupe signature — **records
+  newly inside a tangle: 0**, the three that left are exactly the three merged-away qids
+  (`Q49634`, `Q49707`, `Q144060`), the introduced tangles are the removed ones minus exactly
+  those qids (16→14, 14→13), largest tangle unchanged at 72. Committed on that reading, as
+  before.
+
+- **Fixed the merge tool's dry run, which was under-reporting what it would do.**
+
+  The preview printed only the five genealogical properties. The apply path has carried
+  everything else since the 38-dropped-properties fix, so a reader checking the plan could
+  not see that birth and death dates and external ids were about to move. That gap between
+  what the preview showed and what the tool did is the same shape as the "strictly additive"
+  claim that was true of the graph and false of the records.
+
+  Caught it by noticing the `metellus` dry run reported only `P61` while `Q144060` visibly
+  held `P56`, `P57` and three external ids the survivor lacked — i.e. by checking a claim I
+  had written into the cluster comment before trusting it. The preview now lists both the
+  properties carried from the loser alone and the ones where both sides differ. `Q72984` did
+  gain `P1185, P1819, P4159, P56, P57`.
+
+  **35 tangles / 292 records** across all four sources.
+
 - **Taught `propose_tangle_repairs.py` the duplicate signal it was blind to. Three tangles
   came out of a set where all 35 read REVIEW.**
 

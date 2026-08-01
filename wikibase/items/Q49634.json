@@ -3,7 +3,7 @@
   "claims": {
     "P20": [
       {
-        "id": "Q49634$899C74C9-71B2-42CF-9987-4CE009328B3D",
+        "id": "Q1955$52128242-9A72-4788-B3D0-926B5C2DAFF2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q49634$F237F683-2C93-4625-B1B1-49275B765C4D",
+        "id": "Q1955$641F8527-A6BC-4685-A828-FF4B566F597A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q49634$26CA1A48-999A-4422-B8E2-C634D6C1C6A4",
+        "id": "Q1955$B3269BF3-94C6-40D7-9D06-52047CECB37F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -56,6 +56,65 @@
           },
           "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
           "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q1955$BF49F81E-06F8-4141-9346-796D15EFA9BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1968",
+              "numeric-id": 1968
+            }
+          },
+          "hash": "bf2d5fd9eb7a5868deb0b4cd97d6985e848207fc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q1955$A9927E90-419C-4DFC-BC86-00C03134BBFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q1955$4CDAD526-8E7D-404B-928D-A903E8238B1A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prachetas (10 sons) Arms.svg"
+          },
+          "hash": "f858c2ef2425a0bc63cbe616bfcb4f3a37849ee6",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -83,27 +142,6 @@
         "type": "statement"
       }
     ],
-    "P47": [
-      {
-        "id": "Q49634$245F1C6C-FF45-4183-AC82-8F8853961C77",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q49707",
-              "numeric-id": 49707
-            }
-          },
-          "hash": "b202957a11a4edfca9e734c90d5a6e49bcd8df33",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P48": [
       {
         "id": "Q49634$144E1702-F092-4836-8CD2-A37826B4D2EE",
@@ -124,59 +162,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P55": [
-      {
-        "id": "Q49634$95A9D015-461D-41D5-841F-26620AC82B3C",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153718",
-              "numeric-id": 153718
-            }
-          },
-          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q49634$FDE93498-E08F-4F95-8DCA-6A7C15F974AA",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Prachetas (10 sons) Arms.svg"
-          },
-          "hash": "f858c2ef2425a0bc63cbe616bfcb4f3a37849ee6",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q49634",
+  "id": "Q1955",
   "labels": {
     "en": {
       "language": "en",
       "value": "Prachetas (10 sons)"
     }
   },
-  "lastrevid": 17455510,
-  "modified": "2025-09-16T11:13:08Z",
+  "lastrevid": 17404402,
+  "modified": "2025-09-15T21:37:03Z",
   "ns": 860,
-  "pageid": 64893,
+  "pageid": 20245,
   "sitelinks": {},
-  "title": "Item:Q49634",
+  "title": "Item:Q1955",
   "type": "item"
 }
