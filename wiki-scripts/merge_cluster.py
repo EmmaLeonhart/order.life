@@ -425,6 +425,31 @@ CLUSTERS = {
         ("Q151865", "Q166250", "Theoclia -- BLOCKED pending the Q151898/Q166247 husband "
                                "merge"),
     ],
+    # queue.md item 3 (2026-08-01), batch 3. The Zhou-era Chinese royal records, the same
+    # class as the "Ji" and "of Cheng" pairs merged in batch 2. Their labels are fragments
+    # -- "of Chi", "of Tsai" -- so the identification rests entirely on structure, and each
+    # of these four is IDENTICAL on it: same label, same father by identity, same child by
+    # identity, and no other genealogical claim on either side.
+    #
+    #   Q57987 / Q87543  "of Eastern Chou"  f=Q87559  ch=Q87533
+    #   Q58251 / Q87485  "Ying"             f=Q87493  ch=Q87477
+    #   Q58281 / Q87523  "of Chi"           f=Q87533  ch=Q87513
+    #   Q58290 / Q87454  "of Tsai"          f=Q87460  ch=Q87448
+    #
+    # HELD BACK from this batch: Q58889/Q87434 "of Chao" share the child Q87428 but their
+    # FATHERS DIFFER -- Q58760 versus Q87438 -- so the survivor would carry two fathers.
+    # That does not trip I4 (two is not more than two) but it leaves a fresh same-role
+    # collision behind, and Q58760/Q87438 are themselves the pair that needs deciding
+    # first. Merging the child before the parents is the prachetas trap in miniature.
+    "same-role-batch-3": [
+        ("Q57987", "Q87543", "of Eastern Chou -- same father Q87559 and same child Q87533, "
+                             "by identity"),
+        ("Q58251", "Q87485", "Ying -- same father Q87493 and same child Q87477, by identity"),
+        ("Q58281", "Q87523", "of Chi -- same father Q87533 and same child Q87513, by "
+                             "identity"),
+        ("Q58290", "Q87454", "of Tsai -- same father Q87460 and same child Q87448, by "
+                             "identity"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "

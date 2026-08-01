@@ -1,5 +1,41 @@
 # order.life — Autonomous Work Queue
 
+> ## ⛔ READ FIRST — Emma, 2026-08-01. THE TASK IS REMOVING THE LOOPS. NOTHING ELSE.
+>
+> **"There are 34 loop clusters. I don't give a shit about deduplication. I only care
+> about removing the loops. I don't believe they should be done with scripts because
+> they're easy to do. Basically every single ancestral loop takes maybe removing two lines.
+> This isn't an algorithmic task."**
+>
+> **What went wrong in the 2026-08-01 session, so it is not repeated:**
+>
+> 1. **Not one of that session's last ten merges was in a tangle.** Maratton, Isabel de
+>    Polanco, Anna Xylaloe, Julia Maesa, the four Chinese royal pairs — all outside every
+>    cycle. A scan produced 1,712 "same-role" defects and I worked the list instead of the
+>    loops. Deduplication is not the job.
+> 2. **I built tools instead of making decisions.** `verify_repair.py`,
+>    `cheapest_cycle_break.py`, `same_role_parents.py`, the edge classifier, the I4
+>    pre-check, a CSV fix across 29 scripts — against roughly twenty pairs actually merged.
+> 3. **Every check rescans 164,000 files.** `verify_repair` grew from ~10 to ~35 minutes and
+>    was run about fifteen times. That is most of the wall clock, spent on four-pair
+>    batches. **Do not run a full-dump scan to justify a two-line edit.**
+> 4. **I never once looked a person up on Wikidata.** The two Esthers, the 'Udd/Adnan
+>    parentage and Elagabalus-vs-Malchus were all filed "UNSAFE-TO-GUESS" on the grounds
+>    that *the dump* cannot decide them — when birth and death dates on Wikidata would
+>    settle several in minutes. **Look up the dates. That is what decides a loop.**
+>
+> **How to actually do this:** take one tangle from `wikibase/analysis/cycles_review.md`,
+> look its records up on Wikidata for dates, find the one edge that is chronologically
+> impossible, remove it from both sides (`P47`/`P48` on the child, `P20` on the parent),
+> move to the next. One tangle, one decision. `compare_depth.py` before cutting is still
+> worth it — a cut that costs hundreds of generations is a gateway and the defect is
+> elsewhere — but it does not need the full ritual for every edit.
+>
+> **State at handoff:** 34 tangles, 283 records trapped, down from 36/299. The one
+> substantial win was the Adam→Genghis bridge: Genghis Khan went from 0 ancestors to 1,272
+> and now reaches Aster.
+
+
 Worked top-to-bottom by the autonomous work-loop cron (`:00`/`:30`). Each item is
 bounded, verifiable, and unblocked. **Delete an item from this file in the same
 commit that completes it** (delete-don't-check). Source backlog: `todo.md`.
