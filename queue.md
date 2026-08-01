@@ -303,33 +303,36 @@ central command.
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-4. **Fix the one-sided edges — now classified, and the count was wrong.**
-   `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01: **97.1%** of edges are
-   declared on both sides, with **1,816 parent-side only** and **1,946 child-side only**.
+4. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
+   **97.1%** of edges are declared on both sides; **3,762** are one-sided. (The older
+   96.3% / 4,723 figures were inflated — the scan compared raw qids without canonicalising
+   through `redirects.tsv`, and 961 were never a defect.)
 
-   **The old figures — 96.3%, 2,325 and 2,398 — were inflated and are withdrawn.** The
-   scan compared raw qids without canonicalising through `redirects.tsv`, so an edge whose
-   parent named the child by a redirected qid while the child declared the canonical one
-   counted as one-sided. It is not. **961 of the 4,723 were never a defect at all.**
+   `edge_symmetry_classified.tsv` splits all 3,762 by what their endpoints are:
 
-   `edges.tsv` is built from the union, so a genuinely half-declared edge still reads as
-   real and any one-sided repair silently fails — that is what made the Tros fix look done
-   while two cycles were still closed. Still concentrated in the fan-out records: Oceanus
-   `Q90309` 142, Danaus `Q74973` 81.
-
-   **`edge_symmetry_classified.tsv` splits all 3,762 by what their endpoints are**, so this
-   stops being 3,762 individual judgement calls:
-   - **`DANGLING` — 233.** An endpoint has no record anywhere: no file, no redirect, no
-     `persons.tsv` row. **Removable with no judgement** — a record that does not exist
-     cannot be anyone's parent. This is the `Q78402` shape, and removing that one
-     eliminated a whole tangle. **This is the next batch to apply.**
-   - **`PHANTOM` — 1,050.** An endpoint is a shell with no label, alias or genealogy.
-     Nearly as clear, but the shell exists and may be load-bearing elsewhere.
-   - **`BOTH-REAL` — 2,479.** Both endpoints substantive. **These are the real judgement
-     calls** and the ones the blanket-add warning is about.
+   - **`ORPHAN` — 0 left.** All 14 cut 2026-08-01, every gate green, **zero records lost
+     depth**. `dangling_endpoints` 13 → 4.
+   - **`GAP` — 219. DO NOT CUT THESE.** An endpoint has **no item file**, but other records
+     record a family around it — parents *and* children. That is a **real person whose file
+     is missing**, not a nonexistent one. Four records, and they are not small:
+     **`Q74656` has 144 children and 2 parents; `Q75282` has 59 children** and sits between
+     the Titans and Melaneus; `Q54196` and `Q78402` are the others.
+     **The repair is to CREATE the missing record, not delete its edges** — and that needs
+     a name, which is Emma's. *(Learned by cutting all 233 as one batch: `compare_depth`
+     failed at −10 levels, Melaneus and Aeneus lost the Titan line entirely, reverted.)*
+   - **`PHANTOM` — 1,050.** The endpoint exists but is a shell with no label, alias or
+     genealogy.
+   - **`BOTH-REAL` — 2,479.** Both endpoints substantive. **The real judgement calls** and
+     what the do-not-blanket-add warning is about.
 
    Decide per record whether the missing side should be added or the present side removed;
    do NOT blanket-add, since some one-sided edges are deletions that only got half done.
+
+5. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
+   have no item file, yet 219 edges reference them and they hold 200+ recorded
+   relationships between them. They are holes in the dump where the surrounding family
+   survived. Creating them is one `add_bridge_edges.py`-style operation each; deciding
+   *who they are* is not something the dump answers.
 
 ---
 

@@ -1,4 +1,4 @@
-items scanned            : 164456  (unreadable/non-dict: 81)  in 27s
+items scanned            : 164456  (unreadable/non-dict: 81)  in 32s
 edges from parent P20    : 126694  (raw 126854, before canonicalising)
 edges from child P47/P48 : 126824  (raw 126934)
 
@@ -60,17 +60,20 @@ records with the most parent-side-only children:
     Q74680: 14
     Q73380: 13
     Q73038: 11
-    Q75441: 9
     Q90478: 9
+    Q75441: 9
 
 ONE-SIDED EDGES BY WHAT THEIR ENDPOINTS ARE  (queue.md item 4)
-  DANGLING     233  an endpoint has no record anywhere; the edge points at nothing
+  GAP          219  an endpoint has no FILE but has both parents and children -- a real person, file absent. DO NOT CUT
+  ORPHAN        14  an endpoint has no record and edges one way only; nothing connects through it
   PHANTOM     1050  an endpoint is a shell with no label, alias or genealogy
   BOTH-REAL   2479  both endpoints are real records -- these are the judgement calls
 
-DANGLING is removable with no judgement: a record that does not exist cannot be
-anyone's parent or child. PHANTOM is nearly so, but the shell exists and may be
-load-bearing elsewhere. BOTH-REAL is the part queue.md warns against blanket-
-fixing, and it is 2479 of the 3762.
+ORPHAN is removable with no judgement. GAP is NOT: 233 edges were cut on
+2026-08-01 treating both alike, and compare_depth failed at -10 levels because
+219 of them ran through a gap -- Melaneus and Aeneus lost the Titan line. The
+repair for a GAP is to CREATE the missing record, which needs a name.
+PHANTOM is a shell that does exist. BOTH-REAL is the part queue.md warns against
+blanket-fixing, and it is 2479 of the 3762.
 
 Per-edge detail: edge_symmetry_classified.tsv

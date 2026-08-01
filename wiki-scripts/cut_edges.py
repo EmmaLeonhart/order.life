@@ -202,6 +202,42 @@ def main():
         with open(path, encoding="utf-8") as f:
             todo = [r["qid"] for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE) if r.get("qid")]
         cuts = [(q, q, "record lists itself as its own parent/child") for q in todo]
+    elif name == "orphan-refs":
+        # Data-driven, from edge_symmetry.py's classification (queue.md item 4).
+        #
+        # Every edge here has an endpoint with no item file, no shadow claiming the qid
+        # and no persons.tsv row, AND edges in only one direction -- so nothing is
+        # connected through it and cutting can sever no chain. That last condition is the
+        # whole of the safety argument and it is not optional; see the ORPHAN-vs-GAP note
+        # below.
+        #
+        # The classification is only trustworthy because the endpoints are canonicalised
+        # through redirects.tsv first. Without that step it reported 897 of these, and
+        # spot-checking found the "missing" records were ordinary shadow files whose
+        # internal id differs from their filename -- Q107385 is "Fatima bint Amr
+        # al-Makhzumi", not a hole in the graph. The canonical figure is 233 edges over 13
+        # genuinely absent endpoints. Re-run edge_symmetry.py if the dump has moved.
+        path = ROOT / "wikibase" / "analysis" / "edge_symmetry_classified.tsv"
+        if not path.exists():
+            print("edge_symmetry_classified.tsv missing -- run edge_symmetry.py first")
+            return 1
+        cuts = []
+        with open(path, encoding="utf-8") as f:
+            for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
+                # ORPHAN only. A GAP endpoint has no file but IS referenced from both
+                # directions -- a real person whose item file is absent, with the family
+                # recorded around them. Cutting those severs a real chain: on 2026-08-01
+                # this set was run treating GAP and ORPHAN alike, 219 of the 233 edges ran
+                # through a gap, and compare_depth failed at -10 levels with Melaneus and
+                # Aeneus cut off from the Titan line. Reverted. The repair for a GAP is to
+                # CREATE the record, not to delete its edges.
+                if r.get("verdict") != "ORPHAN":
+                    continue
+                gone = [q for q, k in ((r["parent"], r["parent_kind"]),
+                                       (r["child"], r["child_kind"])) if k == "missing"]
+                cuts.append((r["parent"], r["child"],
+                             f"{', '.join(gone)} does not exist -- {r['side']} edge "
+                             f"pointing at nothing"))
     elif name not in CUTS:
         print(f"unknown cut set {name!r}; try --list")
         return 1

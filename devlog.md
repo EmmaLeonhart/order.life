@@ -4,6 +4,39 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Cut 233 "dangling" edges, and 219 of them were holes in the dump rather than
+  nonexistent people. Reverted, split the category, cut the 14 that were real.**
+
+  I had queued the 233 as "removable with no judgement" for three ticks. They are not.
+  `compare_depth` failed at **−10 levels** across 126 records, and tracing it found the
+  reason: `Q75282` has **no item file at all**, but 15 ancestors and 59 children — all
+  recorded by *other* records. It sits between the Titan tier and Melaneus. Cutting its
+  edges severed Melaneus and Aeneus from the Titan line completely.
+
+  **A missing endpoint is two different things and I had one word for both:**
+
+  - **`GAP`** — no file, but referenced from *both* directions. A real person whose item
+    file is absent, with the family recorded around the hole. **Cutting severs a real
+    chain.** 219 edges over 4 records, and they are substantial: `Q74656` has **144
+    children**, `Q75282` 59.
+  - **`ORPHAN`** — no file, edges one way only. Nothing connects through it, so nothing can
+    be severed. 14 edges.
+
+  Reverted the 233, taught `edge_symmetry.py` the split, restricted `cut_edges.py`'s
+  data-driven set to `ORPHAN` only, and re-ran: the tool's split matched an independent
+  hand-count exactly, 219 / 14. Cut the 14. **Every gate green, zero records lost depth** —
+  which is what an orphan reference should cost. `dangling_endpoints` 13 → 4, and the 4
+  that remain are exactly the GAP records that must stay.
+
+  **The safety argument I had been making was for the wrong reason.** "A record that does
+  not exist cannot be anyone's parent" sounds airtight and is true of `ORPHAN`. What makes
+  it safe is not that the record is absent but that **nothing is connected through it** —
+  and I never checked that until the gate made me. The condition is now the load-bearing
+  half of the comment in `cut_edges.py`.
+
+  New queue item: the four missing records need names before they can be created, and
+  creating them is the actual repair for those 219 edges.
+
 - **`csv.DictReader` has been silently dropping 128 records from `persons.tsv`, and a
   standing invariant has been reporting 138 dangling endpoints when the truth is 13.**
 

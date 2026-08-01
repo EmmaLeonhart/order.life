@@ -75,7 +75,7 @@ def scan():
 CLASSIFIED = ROOT / "wikibase" / "analysis" / "edge_symmetry_classified.tsv"
 
 
-def classify(only_parent, only_child, substantive):
+def classify(only_parent, only_child, substantive, all_edges, absent_qids):
     """Bucket every one-sided edge by what its endpoints actually are.
 
     queue.md item 4 says: decide per record whether the missing side should be ADDED or
@@ -84,15 +84,34 @@ def classify(only_parent, only_child, substantive):
     so the unambiguous ones can be handled as a batch and the genuine judgement calls are
     what is left.
 
-      DANGLING  an endpoint has no record anywhere -- no file, nothing claiming the qid.
-                The edge points at nothing, so the declared side is removable with no
-                judgement at all. This is the Q78402 shape: Cleopatra III named a
-                nonexistent record as her mother, and removing it eliminated a tangle.
+      GAP       an endpoint has no file, BUT other records describe a family around it --
+                it has both parents and children. That is a real person whose item file is
+                absent, not a nonexistent one, and cutting its edges severs a real chain.
+                **DO NOT CUT THESE.** Q74656 has 144 children and 2 parents; Q75282 has 59
+                children and sits between the Titans and Melaneus. The repair is to create
+                the missing record, which needs a name, which is Emma's.
+      ORPHAN    an endpoint has no file and edges in ONE direction only, so nothing is
+                connected through it. Removable with no judgement.
+
+                This split was learned the hard way on 2026-08-01: both were bucketed as
+                "DANGLING -- removable with no judgement", 233 edges were cut on that
+                basis, and compare_depth failed at -10 levels because 219 of them ran
+                through a GAP. Melaneus and Aeneus lost the Titan line entirely. Reverted.
       PHANTOM   an endpoint exists but carries no label, alias or genealogical claim.
                 A shell. Usually the one-sided edge is the only reason it is in the graph.
       BOTH-REAL both endpoints are substantive records. THESE ARE THE JUDGEMENT CALLS and
                 the tool says nothing about which way they should go.
     """
+    # Which absent qids are GAPS -- referenced from both directions, so a real person sits
+    # between real records -- and which are orphan references with edges one way only.
+    # Computed over the WHOLE canonical graph, not just the one-sided edges, because a gap
+    # record's other side is usually declared normally.
+    up, down = collections.defaultdict(int), collections.defaultdict(int)
+    for p, c in all_edges:
+        down[p] += 1
+        up[c] += 1
+    gaps = {q for q in absent_qids if up[q] and down[q]}
+
     rows = []
     for side, edges in (("parent-only", only_parent), ("child-only", only_child)):
         for p, c in edges:
@@ -100,8 +119,10 @@ def classify(only_parent, only_child, substantive):
                   "phantom" if p in substantive else "missing")
             sc = ("real" if substantive.get(c) else
                   "phantom" if c in substantive else "missing")
-            if "missing" in (sp, sc):
-                verdict = "DANGLING"
+            if p in gaps or c in gaps:
+                verdict = "GAP"
+            elif "missing" in (sp, sc):
+                verdict = "ORPHAN"
             elif "phantom" in (sp, sc):
                 verdict = "PHANTOM"
             else:
@@ -199,22 +220,27 @@ def main():
     for q, k in cnt.most_common(10):
         lines.append(f"    {q}: {k}")
 
-    rows = classify(only_parent, only_child, substantive)
+    absent_qids = {q for p, c in union for q in (p, c) if q not in substantive}
+    rows = classify(only_parent, only_child, substantive, union, absent_qids)
     counts = collections.Counter(r[0] for r in rows)
     lines += [
         "",
         "ONE-SIDED EDGES BY WHAT THEIR ENDPOINTS ARE  (queue.md item 4)",
-        f"  DANGLING  {counts['DANGLING']:>6d}  an endpoint has no record anywhere; the "
-        f"edge points at nothing",
+        f"  GAP       {counts['GAP']:>6d}  an endpoint has no FILE but has both parents "
+        f"and children -- a real person, file absent. DO NOT CUT",
+        f"  ORPHAN    {counts['ORPHAN']:>6d}  an endpoint has no record and edges one way "
+        f"only; nothing connects through it",
         f"  PHANTOM   {counts['PHANTOM']:>6d}  an endpoint is a shell with no label, alias "
         f"or genealogy",
         f"  BOTH-REAL {counts['BOTH-REAL']:>6d}  both endpoints are real records -- these "
         f"are the judgement calls",
         "",
-        "DANGLING is removable with no judgement: a record that does not exist cannot be",
-        "anyone's parent or child. PHANTOM is nearly so, but the shell exists and may be",
-        "load-bearing elsewhere. BOTH-REAL is the part queue.md warns against blanket-",
-        f"fixing, and it is {counts['BOTH-REAL']} of the {len(rows)}.",
+        "ORPHAN is removable with no judgement. GAP is NOT: 233 edges were cut on",
+        "2026-08-01 treating both alike, and compare_depth failed at -10 levels because",
+        "219 of them ran through a gap -- Melaneus and Aeneus lost the Titan line. The",
+        "repair for a GAP is to CREATE the missing record, which needs a name.",
+        "PHANTOM is a shell that does exist. BOTH-REAL is the part queue.md warns against",
+        f"blanket-fixing, and it is {counts['BOTH-REAL']} of the {len(rows)}.",
         "",
         f"Per-edge detail: {CLASSIFIED.name}",
     ]
