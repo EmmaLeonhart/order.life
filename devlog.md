@@ -4,6 +4,43 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **Genghis Khan reaches Aster. Bridge A applied, both halves, on Emma's "Both?".**
+
+  `planning/lineage_bridges_proposed.md` Bridge A, via a new `wiki-scripts/add_bridge_edges.py`.
+  `Q37401` Genghis Khan had **zero** ancestors; he now has **1,272 and reaches `Q1` Aster**.
+  403 records gained depth, **0 lost**, total ancestral depth **+173,295**. No tangle
+  introduced, no invariant regressed.
+
+  - **A2** creates `Q200000` "C2 (M217)" under `Q1164` Haplogroup C and attaches Khaidu
+    beneath it -- mirroring `Q54433` "Sinitic O2a2b1a2 (F114)", which already sits between
+    the Yellow Emperor's line and Adam. C2-M217 is a real clade in a real position, so this
+    invents no person.
+  - **A1** attaches Khaidu `Q53399` under `Q153230` on the Borjigin chain.
+
+  **The A1 attachment point is a judgement call and it is flagged as one, in the script,
+  the queue and here.** Rashid al-Din gives Bodonchar → Buqa → Dutum Menen → Qaidu, which
+  puts Khaidu under `Q153230`. The *Secret History* puts him one generation lower, under
+  `Q153225`. Both placeholders are unlabelled, undated, and carry no `wikidata_qid`, so
+  **nothing in the dump distinguishes them.** I took the report's recommendation and made
+  the alternative a one-edge move rather than pretending the evidence decided it.
+
+  **A consequence I will not bury: Khaidu now has two fathers**, the Borjigin node and the
+  haplogroup node. That is what "both" means structurally, and the report anticipated it
+  ("A1 and A2 are not exclusive"). But it **deviates from the dump's own precedent** --
+  `Q87862` Youxiong has its haplogroup as its *only* father, so the established device is
+  one-or-the-other. Flagged for Emma; either edge drops cleanly.
+
+  **Deliberately not done:** retiring the 14 placeholder nodes below `Q153225`. The report
+  recommends it, but it is a DELETE -- repair-order step 4 -- and was never approved. The
+  bridge does not depend on it.
+
+  **Why a script rather than a hand edit.** An edge lives in two places, the child's `P47`
+  and the parent's `P20`, and `edges.tsv` is built from the union -- so a half-declared
+  edge reads as real while a one-sided repair silently fails. That is what made the Tros
+  fix look done while two cycles were still closed. `add_bridge_edges.py` writes both
+  directions, propagates to shadows, and then **verifies from the files rather than from
+  its own plan.**
+
 - **Merged all three Adnan records, on Emma's decision. First fully-green verify of the
   session, and the first repair that measurably ADDED ancestry.**
 

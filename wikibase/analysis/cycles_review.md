@@ -203,20 +203,20 @@ Shortest loop: `Q1955 -> Q153390 -> Q153381 -> Q1991 -> Q2035 -> Q153444 -> Q153
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q1955` | Prachetas (10 sons) | — | — | — | **561** | 5,599 | 156 | yes |
-| `Q1968` | Prachinbarhi | — | — | — | **561** | 5,599 | 156 | yes |
-| `Q1978` | Havirdhana | — | — | — | **561** | 5,599 | 156 | yes |
-| `Q1989` | Vijitashva | — | — | — | **561** | 5,599 | 156 | yes |
-| `Q1991` | Surya Sun God | — | — | — | **561** | 5,599 | 156 | yes |
-| `Q2001` | Archis(Lakshmi's amsam) | — | — | — | **561** | 5,599 | 156 | yes |
-| `Q2035` | Yama Dharma King of Death | — | — | — | **561** | 5,599 | 156 | yes |
-| `Q153381` | Aditi Kashyapa | — | — | — | **561** | 5,599 | 156 | yes |
-| `Q153390` | DAKSHA (reborn as DAKSHA) Prachetas | — | — | — | **561** | 5,599 | 156 | yes |
-| `Q153429` | PRITHU (Vishnu's amsam) Vena | — | — | — | **561** | 5,599 | 156 | yes |
-| `Q153438` | VENA Anga | — | — | — | **561** | 5,599 | 156 | yes |
-| `Q153444` | SUNITA Anga | — | — | — | **561** | 5,599 | 156 | yes |
-| `Q153460` | SANJNA \\ Saranyu Saranyu Saranyu/ | — | — | — | **561** | 5,599 | 156 | yes |
-| `Q153465` | TVASTAR Kashyapa | — | — | — | **561** | 5,599 | 156 | yes |
+| `Q1955` | Prachetas (10 sons) | — | — | — | **561** | 6,001 | 156 | yes |
+| `Q1968` | Prachinbarhi | — | — | — | **561** | 6,001 | 156 | yes |
+| `Q1978` | Havirdhana | — | — | — | **561** | 6,001 | 156 | yes |
+| `Q1989` | Vijitashva | — | — | — | **561** | 6,001 | 156 | yes |
+| `Q1991` | Surya Sun God | — | — | — | **561** | 6,001 | 156 | yes |
+| `Q2001` | Archis(Lakshmi's amsam) | — | — | — | **561** | 6,001 | 156 | yes |
+| `Q2035` | Yama Dharma King of Death | — | — | — | **561** | 6,001 | 156 | yes |
+| `Q153381` | Aditi Kashyapa | — | — | — | **561** | 6,001 | 156 | yes |
+| `Q153390` | DAKSHA (reborn as DAKSHA) Prachetas | — | — | — | **561** | 6,001 | 156 | yes |
+| `Q153429` | PRITHU (Vishnu's amsam) Vena | — | — | — | **561** | 6,001 | 156 | yes |
+| `Q153438` | VENA Anga | — | — | — | **561** | 6,001 | 156 | yes |
+| `Q153444` | SUNITA Anga | — | — | — | **561** | 6,001 | 156 | yes |
+| `Q153460` | SANJNA \\ Saranyu Saranyu Saranyu/ | — | — | — | **561** | 6,001 | 156 | yes |
+| `Q153465` | TVASTAR Kashyapa | — | — | — | **561** | 6,001 | 156 | yes |
 
 **Decision:** _not made — needs Emma_
 
@@ -253,20 +253,20 @@ Shortest loop: `Q160460 -> Q160580 -> Q160673 -> Q160640 -> Q160615 -> Q160596 -
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q160460` | Aditi Kashyapa | — | — | — | **58** | 6,006 | 10 | no |
-| `Q160489` | DAKSHA Prachetas | — | — | — | **58** | 6,006 | 10 | no |
-| `Q160512` | PRACHETAS (10 sons) | — | — | — | **58** | 6,006 | 10 | no |
-| `Q160539` | PRACHINBARHI | — | — | — | **58** | 6,006 | 10 | no |
-| `Q160560` | HAVIRDHANA | — | — | — | **58** | 6,006 | 10 | no |
-| `Q160576` | Vijitashva | — | — | — | **58** | 6,006 | 10 | no |
-| `Q160580` | SURYA Dev aka SUN GOD Kashyap | — | — | — | **58** | 6,006 | 10 | no |
-| `Q160596` | PRITHU Vena | — | — | — | **58** | 6,006 | 10 | no |
-| `Q160597` | ARCHIS | — | — | — | **58** | 6,006 | 10 | no |
-| `Q160615` | VENA Anga | — | — | — | **58** | 6,006 | 10 | no |
-| `Q160640` | SUNITA Anga | — | — | — | **58** | 6,006 | 10 | no |
-| `Q160673` | YAMA Dharma | — | — | — | **58** | 6,006 | 10 | no |
-| `Q160707` | SANJNA \\ Saranyu Saranyu | — | — | — | **58** | 6,006 | 10 | no |
-| `Q160730` | TVASTAR Kashyapa | — | — | — | **58** | 6,006 | 10 | no |
+| `Q160460` | Aditi Kashyapa | — | — | — | **58** | 6,408 | 10 | no |
+| `Q160489` | DAKSHA Prachetas | — | — | — | **58** | 6,408 | 10 | no |
+| `Q160512` | PRACHETAS (10 sons) | — | — | — | **58** | 6,408 | 10 | no |
+| `Q160539` | PRACHINBARHI | — | — | — | **58** | 6,408 | 10 | no |
+| `Q160560` | HAVIRDHANA | — | — | — | **58** | 6,408 | 10 | no |
+| `Q160576` | Vijitashva | — | — | — | **58** | 6,408 | 10 | no |
+| `Q160580` | SURYA Dev aka SUN GOD Kashyap | — | — | — | **58** | 6,408 | 10 | no |
+| `Q160596` | PRITHU Vena | — | — | — | **58** | 6,408 | 10 | no |
+| `Q160597` | ARCHIS | — | — | — | **58** | 6,408 | 10 | no |
+| `Q160615` | VENA Anga | — | — | — | **58** | 6,408 | 10 | no |
+| `Q160640` | SUNITA Anga | — | — | — | **58** | 6,408 | 10 | no |
+| `Q160673` | YAMA Dharma | — | — | — | **58** | 6,408 | 10 | no |
+| `Q160707` | SANJNA \\ Saranyu Saranyu | — | — | — | **58** | 6,408 | 10 | no |
+| `Q160730` | TVASTAR Kashyapa | — | — | — | **58** | 6,408 | 10 | no |
 
 **Decision:** _not made — needs Emma_
 
@@ -666,10 +666,10 @@ Shortest loop: `Q160928 -> Q160981 -> Q160965 -> Q160946 -> Q160928`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q160928` | Swammbhu Brambha | — | — | — | **7** | 5,763 | 1 | no |
-| `Q160946` | 11 Rudras | — | — | — | **7** | 5,763 | 1 | no |
-| `Q160965` | Kasayap Muni | — | — | — | **7** | 5,763 | 1 | no |
-| `Q160981` | Person Q160981 | — | — | — | **7** | 5,763 | 1 | no |
+| `Q160928` | Swammbhu Brambha | — | — | — | **7** | 6,165 | 1 | no |
+| `Q160946` | 11 Rudras | — | — | — | **7** | 6,165 | 1 | no |
+| `Q160965` | Kasayap Muni | — | — | — | **7** | 6,165 | 1 | no |
+| `Q160981` | Person Q160981 | — | — | — | **7** | 6,165 | 1 | no |
 
 **What the data says**
 

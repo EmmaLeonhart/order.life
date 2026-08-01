@@ -1,0 +1,61 @@
+{
+ "type": "item",
+ "id": "Q200000",
+ "labels": {
+  "en": {
+   "language": "en",
+   "value": "C2 (M217)"
+  }
+ },
+ "aliases": {
+  "en": [
+   {
+    "language": "en",
+    "value": "Haplogroup C2"
+   },
+   {
+    "language": "en",
+    "value": "C-M217"
+   }
+  ]
+ },
+ "descriptions": {},
+ "claims": {
+  "P47": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q1164",
+       "numeric-id": 1164
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P20": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P20",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q53399",
+       "numeric-id": 53399
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ]
+ }
+}

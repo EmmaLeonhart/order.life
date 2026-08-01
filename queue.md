@@ -313,12 +313,26 @@ apply anything from these; do not extend them.**
 The splice stays. `adnan_merge_proposed.md` is updated; M5–M12 and the "Banu Adnan is
 filler" verdict are withdrawn.
 
-1. `planning/lineage_bridges_proposed.md` — **Adam→Genghis: DECIDED 2026-07-31, do BOTH
-   A1 and A2.** Emma answered "Both?" on the Work Loop page; the hub reads the "?" as
-   dictation, not a hedge. **This is now executable work, not a question:** attach Khaidu to
-   the Borjigin chain already in the dump (A1) *and* record the Haplogroup C2-M217 route
-   (A2). Run the full `verify_repair.py` ritual around it — this adds edges into a line that
-   reaches Aster.
+1. `planning/lineage_bridges_proposed.md` — **Adam→Genghis: DONE 2026-07-31, both A1 and
+   A2** (`wiki-scripts/add_bridge_edges.py adam-genghis`). Emma answered "Both?".
+   **`Q37401` Genghis Khan now reaches `Q1` Aster, with 1,272 ancestors where he had
+   none.** 403 records gained depth, 0 lost, total **+173,295**; no tangle introduced.
+
+   **Two things Emma should look at, neither of them guessable from the dump:**
+   - **The A1 attachment point is a judgement call, and I took the report's.** Khaidu
+     `Q53399` is attached under `Q153230` on Rashid al-Din's descent (Bodonchar → Buqa →
+     Dutum Menen → Qaidu). The *Secret History* puts him one generation lower, under
+     `Q153225`. Both placeholders are unlabelled with no date and no wd id, so **nothing
+     in the dump distinguishes them.** Moving one edge down one node is the entire
+     correction if she prefers the other reading.
+   - **Khaidu now has two fathers**, `Q153230` (Borjigin) and `Q200000` (haplogroup) —
+     the direct consequence of "both". Note this **deviates from the dump's own
+     precedent**: `Q87862` Youxiong has the haplogroup `Q54433` as its *only* father. If
+     the convention is meant to be one-or-the-other, drop whichever edge she prefers.
+
+   **Deliberately NOT done:** retiring the 14 placeholder nodes from `Q153225` down. That
+   is a DELETE — repair-order step 4 — and it was never approved. The bridge does not
+   depend on it.
    **Still genuinely open:** **Jimmu↔Heo** (strike it, or substitute B1 Prince Junda →
    Yamato no Ototsugu, or drop it) and **Kosala→Heo** (held behind the Kosala dedup, then
    C1). Neither was on the Work Loop page's list.
