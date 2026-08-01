@@ -167,13 +167,22 @@ def main():
     print(f"before: {before_path}")
     print(f"after:  {after_path}\n")
 
+    # A record that is ABSENT afterwards did not lose ancestry -- it stopped existing,
+    # which is what a merge does to the loser's qid. Counting it as a loss reported
+    # Q72693 as "-259 levels" for a dedupe that severed nothing, on 2026-07-31. Dropped
+    # records are reported on their own line below; they are not depth losses, and a
+    # wholesale deletion still shows up there rather than being hidden.
+    dropped = [q for q in db if q not in da]
+    absent = set(dropped)
+
     lost = []
     for q, d in db.items():
+        if q in absent:
+            continue
         n = da.get(q, 0)
         if n < d:
             lost.append((d - n, q, d, n))
     gained = sum(1 for q, d in da.items() if d > db.get(q, 0))
-    dropped = [q for q in db if q not in da]
 
     total_before = sum(db.values())
     total_after = sum(da.values())

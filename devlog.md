@@ -4,6 +4,54 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **Merged `Q72615`/`Q72693` "Quintus Aemilius Lepidus"; my own depth gate cried wolf and I
+  fixed the gate, not the threshold.**
+
+  Queue item 2. The evidence was stronger than the item suggested, because the `lepidi`
+  merge had since landed: `Q72514` canonicalises to `Q72434`, so both Quinti are the father
+  of **one** man — and `Q72434` lists **both of them as its fathers**. That is the dump
+  stating the duplication about itself, the signature that decided the Porcia pair. Same
+  label, same father `Q72786`, same offices, same sex, same arms filename. Survivor
+  `Q72615` by lower QID; it also holds the mother and spouse. `Q72434` drops from two
+  fathers to one.
+
+  Checked before applying that the new `Q144279 -> Q72615` edge closes no loop: `Q144279`
+  is not a descendant of `Q72615`, whose only child is `Q72434`.
+
+  **The merge process was killed mid-run**, so the tool's own 164k sweep never reported. I
+  re-ran the assertion independently rather than assuming: all five files (survivor, loser,
+  three shadows) agree, and **nothing resolves to the vacated `Q72693`**.
+
+  **Then `verify_repair.py` said DO NOT COMMIT, and it was half wrong.** Both graph gates
+  went red. The numbers reconciled exactly, which is what made it diagnosable:
+  total depth `-27,815` = `Q72693`'s own 259 + 27,556 records at exactly `-1`.
+
+  - The `-1`s are arithmetic. The Scipio tangle went 18 members to 17, and depth counts a
+    component's size as its contribution, so everything below it reads one level shallower.
+    One duplicate left a cycle; no ancestry was severed.
+  - `Q72693` at `-259` was a **bug in compare_depth.py** — a record that is absent
+    afterwards did not lose ancestry, it stopped existing, which is precisely what a merge
+    does to the loser. It was already reported on its own `absent afterwards` line and
+    counted as a loss as well.
+
+  Fixed the false positive. **Changing a gate that just failed is the exact shape of
+  weakening a test to make it pass, so it does not get taken on trust:** re-ran it against
+  the synthetic `edges.tsv` missing only `Q73893 -> Q73794`, and it **still fails at -273
+  levels**. The threshold was not touched. Deletions still surface on the `absent` line.
+
+  `compare_tangles` still exits 1 and I left it alone — a dedupe inside a tangle genuinely
+  changes the partition. Its lists show the correct signature: `records newly inside a
+  tangle: 0`, sole departure `Q72693`, largest tangle unchanged at 72. That read is a human
+  one, so `verify_repair.py` now prints the dedupe-vs-regression signatures instead of
+  ruling on it, and `queue.md` carries the same. **Committed against a non-green
+  compare_tangles, deliberately and on that reading.**
+
+  Residue not guessed at: the survivor inherits **two fathers**, `Q72786` and `Q144279`,
+  both "Marcus Aemilius Lepidus". Pre-existing on `Q72693`, both edges already in the
+  graph. It cannot be settled apart from queue item 1 — `Q144279`'s other child `Q73011` is
+  one of the three fathers `Q72786` claims, so merging those two would close a 2-cycle.
+  Folded into item 1 as a fourth Lepidus rather than resolved.
+
 - **`verify_repair.py` — the repair ritual is one command now, and it can fail.**
 
   Session was killed mid-repair by a Windows crash; picked up from the transcript. Two

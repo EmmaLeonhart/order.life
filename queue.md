@@ -104,6 +104,22 @@ whichever failed. Merges still go through `wiki-scripts/merge_cluster.py <cluste
 enforces both merge rules above against what actually happened on disk; run
 `verify_repair.py` around it.
 
+**A DEDUPE INSIDE A TANGLE WILL TRIP `compare_tangles`, AND THAT IS CORRECT.** It exits
+non-zero on *any* change to the SCC partition, and merging a duplicate that sits in a
+tangle really does leave that tangle with one fewer member. Read the lists and check the
+signature before concluding anything:
+
+- **Expected for a dedupe** — `records newly inside a tangle: 0`, and the tangle reported
+  as *introduced* is the *removed* one minus exactly the qids you merged away. The
+  `Q72615`/`Q72693` merge showed the Scipio tangle 18 → 17, sole departure `Q72693`.
+- **A regression** — anything newly inside a tangle, a tangle whose members you did not
+  touch, or a larger largest-tangle.
+
+`compare_depth` has the matching quirk: everything below a shrunken tangle reads as
+**exactly −1**, because depth counts a component's size as its contribution. A uniform −1
+across many records is arithmetic, not amputation. A real gateway cut looks nothing like
+it — see the −273 below. **`verify_repair.py` will not make this call for you.**
+
 **A green `compare_tangles` is not a verified repair.** Against a synthetic `edges.tsv`
 missing only the `Q73893 → Q73794` edge — the cut that was applied and reverted on
 2026-07-31 — `compare_tangles` reports it clean while `compare_depth` fails with **27,554
@@ -192,6 +208,15 @@ central command.
    and what the other two Lepidi should be called once separated. Naming is hers per the
    `Tros` precedent. Do not guess Roman prosopography.
 
+   **A fourth Lepidus now sits on this decision (added 2026-07-31 by the `Q72615`/`Q72693`
+   merge).** The merged Quintus Aemilius Lepidus inherits **two fathers**, `Q72786` and
+   `Q144279`, both labelled "Marcus Aemilius Lepidus". That conflict was not created by the
+   merge — both edges were already in `edges.tsv`, on `Q72693` — it is just now visible on
+   one record. **It cannot be settled separately from this item:** `Q144279`'s other child
+   is `Q73011`, which is one of the three fathers `Q72786` claims, so merging `Q72786` and
+   `Q144279` would close a 2-cycle. Either they are distinct men and one of the two
+   father-edges is wrong, or `Q72786` is the corrupt record this item is already about.
+
    Run `compare_depth.py` before and after regardless. The `Q73893 → Q73794` cut was applied and then **reverted the same day**: it
    was chronologically correct but it was the *sole upward gateway* for the whole Scipio
    line. Measured: `Q73299` Scipio Africanus went from **267 ancestors deep to 4**,
@@ -207,14 +232,12 @@ central command.
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-2. **Merge `Q72615` / `Q72693`, both "Quintus Aemilius Lepidus".** Both are children of
-   `Q72786` and both are recorded as fathers of the merged `Q72434` — one man cannot have
-   two fathers who are the same person. `Q72693` carries `wd Q11944252`; `Q72615` carries
-   none, which is a gap and not a conflict. **`propose_tangle_repairs.py` will not surface
-   this**, because its DEDUPE detector keys on a *shared* Wikidata id and here only one
-   side has one. Worth teaching it the identical-label-plus-shared-parent signal too.
-   Note `Q72693` itself has two fathers (`Q72786`, `Q144279` wd Q3625112) — settle that
-   before or during, don't union it blind.
+2. **Teach `propose_tangle_repairs.py` the identical-label-plus-shared-parent signal.**
+   Its DEDUPE detector keys on a *shared Wikidata id*, so it did not surface the
+   `Q72615`/`Q72693` pair (merged 2026-07-31): identical labels, same father, same offices,
+   same arms file, both fathers of one man — but only one side carried a wd id. That is a
+   whole class of duplicate the tool is currently blind to. The `Q72434`-lists-both-as-
+   fathers signature is the strong one: **the dump stating the duplication about itself.**
 
 3. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.

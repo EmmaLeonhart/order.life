@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q72693$68BD0EB2-9D95-41F1-A1D5-8826C64968CF",
+        "id": "Q72615$DE768BA4-3436-493D-99CE-5B86D489DD7F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q72514",
-              "numeric-id": 72514
+              "id": "Q72434",
+              "numeric-id": 72434
             }
           },
-          "hash": "d2fb658276cf4becb7327471d0eb838a602f1ad0",
+          "hash": "d275061decb2b05b1ee5595eac7a05138ef529b7",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q72693$073B1EE0-C01A-4F95-B4C9-AFE5E9719409",
+        "id": "Q72615$2C35B249-8F9E-4C13-8753-EB390A2E9869",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q72693$B82ADEE6-CF3E-4E60-AC19-01A7F967C0C4",
+        "id": "Q72615$01E05959-7FCC-48AF-984A-4C46E257A199",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,9 +62,30 @@
         "type": "statement"
       }
     ],
+    "P42": [
+      {
+        "id": "Q72615$123FD6CE-0CE4-4FAC-961D-AFBA4B1625FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72618",
+              "numeric-id": 72618
+            }
+          },
+          "hash": "b5c834faf530602a72ea4edc2831dc5574aa84ed",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P47": [
       {
-        "id": "Q72693$D80DC698-C01E-46B7-B3AA-7A8A52DCF164",
+        "id": "Q72615$F5D6D0AC-E179-4581-9379-845C565F753F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -102,9 +123,30 @@
         "type": "statement"
       }
     ],
+    "P48": [
+      {
+        "id": "Q72615$B93A4D3A-A8B2-496C-A38B-55EE570A207C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72789",
+              "numeric-id": 72789
+            }
+          },
+          "hash": "8ba33bb94c5e3d0eb933b3ad949b6380ef46c310",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P55": [
       {
-        "id": "Q72693$42E903DD-A77A-4320-99D1-8CC80F1BF925",
+        "id": "Q72615$94DB588F-C4D0-487B-BBC4-6518643E5593",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -117,6 +159,40 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72615$98EC0D53-814D-48AC-AAB5-6CCF06CC334A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000020682094675"
+          },
+          "hash": "24c789d1f84eca114490850347bc1556752ef2f6",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72615$46476F04-49AE-42A0-B410-A9BE915244A8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Aemilius Lepidus Arms.svg"
+          },
+          "hash": "dbaaee47efc5213af984f6f4ca0b8145e576d5cb",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -139,78 +215,28 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q72693$3EAADF5C-8C91-4D99-8508-EB1D21BD395C",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Quintus Aemilius Lepidus Arms.svg"
-          },
-          "hash": "dbaaee47efc5213af984f6f4ca0b8145e576d5cb",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {
-    "en": {
-      "language": "en",
-      "value": "grandfather of the triumvir Lepidus"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "citoyen romain"
-    }
-  },
-  "id": "Q72693",
+  "descriptions": {},
+  "id": "Q72615",
   "labels": {
-    "ast": {
-      "language": "ast",
-      "value": "Quint Emili Lèpid"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Quint Emili Lèpid (avi de Lèpid)"
-    },
-    "de": {
-      "language": "de",
-      "value": "Quintus Aemilius Lepidus"
-    },
     "en": {
       "language": "en",
       "value": "Quintus Aemilius Lepidus"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Quintus Aemilius Lepidus"
-    },
-    "it": {
-      "language": "it",
-      "value": "Quinto Emilio Lepido"
-    },
-    "la": {
-      "language": "la",
-      "value": "Quintus Aemilius Lepidus"
     }
   },
-  "lastrevid": 17485242,
-  "modified": "2025-09-16T18:32:08Z",
+  "lastrevid": 17485138,
+  "modified": "2025-09-16T18:30:41Z",
   "ns": 860,
-  "pageid": 87524,
+  "pageid": 87446,
   "sitelinks": {
     "evolutionismwiki": {
       "badges": [],
       "site": "evolutionismwiki",
-      "title": "Notes:Q72693",
-      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72693"
+      "title": "Notes:Q72615",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72615"
     }
   },
-  "title": "Item:Q72693",
+  "title": "Item:Q72615",
   "type": "item"
 }

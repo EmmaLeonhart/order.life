@@ -153,9 +153,21 @@ def main():
         print(f"  {'PASS' if rc == 0 else 'FAIL':<6} {name}")
 
     if failed:
-        print(f"\nFAIL: {', '.join(failed)}.")
-        print("Do not commit this repair. If compare_depth failed, the edge you touched was")
-        print("a gateway and the real defect is elsewhere in the loop -- cycle_policy.md.")
+        print(f"\nNOT GREEN: {', '.join(failed)}.")
+        if "compare_depth" in failed:
+            print("\ncompare_depth failing means surviving records lost real ancestry: the edge")
+            print("you touched was a gateway and the defect is elsewhere in the loop. Do not")
+            print("commit, and do not answer it by raising --max-loss.")
+        if "compare_tangles" in failed:
+            print("\ncompare_tangles exits non-zero on ANY change to the SCC partition, which a")
+            print("legitimate dedupe inside a tangle will always trigger -- the tangle really")
+            print("does end up with one fewer member. Read its lists and check the signature:")
+            print("  DEDUPE, expected     'records newly inside a tangle: 0', and the tangle")
+            print("                       listed as introduced is the removed one minus exactly")
+            print("                       the qids you merged away.")
+            print("  REGRESSION, not ok   anything newly inside a tangle, a tangle whose members")
+            print("                       you did not touch, or a larger largest-tangle.")
+            print("This tool will not make that call for you; it is a human read of the lists.")
         return 1
 
     print("\nPASS: every gate green. Shadow consistency is checked at commit time by")

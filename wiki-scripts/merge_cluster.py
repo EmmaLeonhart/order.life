@@ -126,6 +126,39 @@ CLUSTERS = {
         ("Q72434", "Q72514", "Marcus Aemilius Lepidus cos. 78 BC -- both carry wd Q435329, "
                              "both married to Q72517 Appuleia, four shared children"),
     ],
+    # queue.md item 2 (2026-07-31). The generation directly above the "lepidi" merge above,
+    # and it only became legible once that one landed.
+    #
+    #   Q72615  "Quintus Aemilius Lepidus"  f=[Q72786]           m=Q72789  sp=Q72618  ch=[Q72434]
+    #   Q72693  "Quintus Aemilius Lepidus"  f=[Q72786, Q144279]                       ch=[Q72514]
+    #
+    # Q72514 canonicalises to Q72434, so both men are the father of ONE man -- and Q72434
+    # lists both of them as its fathers, which is the dump stating the duplication about
+    # itself, the same signature that decided the Porcia pair (Q78066 listing both women as
+    # wives). A man has one father, so these two records are one man. They also share their
+    # offices (P39 Q153801/Q153802), sex, and the same P94 arms filename.
+    #
+    # Q72693 carries wd Q11944252 and Q72615 carries none: a gap, not a conflict. Survivor
+    # is Q72615 by the lower-QID convention; it also holds the mother and the spouse.
+    #
+    # WHAT THIS DOES NOT SETTLE, and deliberately does not guess at. Q72693 has TWO fathers,
+    # both labelled "Marcus Aemilius Lepidus" -- Q72786 and Q144279 -- so the survivor
+    # inherits both. That conflict is not created here, it is pre-existing on Q72693 and both
+    # edges are already in edges.tsv; the merge only moves it onto one record where it is
+    # visible. It cannot be settled without deciding queue item 1, because Q144279's other
+    # child is Q73011, which is one of the three fathers Q72786 claims. Merging Q72786 and
+    # Q144279 would therefore close a 2-cycle. Which of those two records is real is Roman
+    # prosopography and Emma's call.
+    #
+    # The merge is correct under EITHER resolution: whichever father record survives, the
+    # two sons are still one man. Net effect on multi-parent: Q72434 drops from two fathers
+    # to one. Checked before applying -- Q144279 is not a descendant of Q72615 (whose only
+    # child is Q72434, and Q144279 is not below that), so the new Q144279 -> Q72615 edge
+    # introduces no cycle.
+    "quintus-lepidus": [
+        ("Q72615", "Q72693", "Quintus Aemilius Lepidus -- both sons of Q72786 and both "
+                             "fathers of Q72434, which lists both of them as its fathers"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "
