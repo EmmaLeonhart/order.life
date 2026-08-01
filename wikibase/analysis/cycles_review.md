@@ -1,6 +1,6 @@
 # Ancestry cycles — every one, with the numbers that decide them
 
-**35 cycles, 291 records caught in one.** Generated from the dump by `wiki-scripts/build_cycles_notion.py`; the source of truth is `wikibase/analysis/cycles_review.md` in the repo and this page is a copy of it.
+**35 cycles, 285 records caught in one.** Generated from the dump by `wiki-scripts/build_cycles_notion.py`; the source of truth is `wikibase/analysis/cycles_review.md` in the repo and this page is a copy of it.
 
 A cycle here means a **strongly connected component** — a set of records where everyone is reachable from everyone else by following parent links, so at least one person is their own ancestor. That is always an error. Which *edge* is the wrong one usually is not obvious, and this document does not decide it.
 
@@ -20,77 +20,77 @@ Shortest loop: `Q61565 -> Q136506 -> Q73308 -> Q73140 -> Q72966 -> Q72807 -> Q72
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q61565` | Constantius Chlorus | Q131195 | 250 | 306 | **3,201** | 19,765 | 195 | yes |
-| `Q61957` | Claudia Crispina | Q867859 | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q62255` | Aurelia Pompeiana | Q109793322 | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q62680` | Mariana Minor | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q62704` | Lucius Aurellius Commodus Pompeianus | Q716684 | 176 | 212 | **3,201** | 19,765 | 195 | yes |
-| `Q63157` | Pendania | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q63192` | Lucilla | Q242466 | 150 | 182 | **3,201** | 19,765 | 195 | yes |
-| `Q63684` | Ummidia Commificia Antonia | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q63747` | Faustina the Younger | Q236936 | 125 | 175 | **3,201** | 19,765 | 195 | yes |
-| `Q63780` | Marcus Aurelius | Q1430 | 121 | 180 | **3,201** | 19,765 | 195 | yes |
-| `Q64355` | Gaius Ummidius Quadratus Annianus Verus  Fulvi | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q64388` | Annia Cornificia Faustina | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q64483` | Faustina the Elder | Q234734 | 105 | 140 | **3,201** | 19,765 | 195 | yes |
-| `Q64516` | Antoninus Pius | Q1429 | 86 | 161 | **3,201** | 19,765 | 195 | yes |
-| `Q64549` | Marcus Annius Verus | Q1292169 | 94 | 120 | **3,201** | 19,765 | 195 | yes |
-| `Q64582` | Domitia Lucilla Minor | Q1815905 | 100 | — | **3,201** | 19,765 | 195 | yes |
-| `Q65192` | Gaius Annianus Verus | Q12275936 | 100 | — | **3,201** | 19,765 | 195 | yes |
-| `Q65225` | Annia Cornificia Faustina | Q1284248 | 123 | 152 | **3,201** | 19,765 | 195 | yes |
-| `Q65258` | Rupilia Faustina | Q2068391 | 87 | 101 | **3,201** | 19,765 | 195 | yes |
-| `Q65489` | Hadrian | Q1427 | 76 | 138 | **3,201** | 19,765 | 195 | yes |
-| `Q65552` | Domitia Lucilla | Q12278988 | 50 | — | **3,201** | 19,765 | 195 | yes |
-| `Q66488` | Libo Rupilius Frugi | Q1237511 | 1 | 101 | **3,201** | 19,765 | 195 | yes |
-| `Q66784` | Andhra Pradesh | Q1159 | 53 | 117 | **3,201** | 19,765 | 195 | yes |
-| `Q66916` | Curtilia Mancia | Q107638183 | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q67573` | Marcus Licinius Crassus Frugi | Q764528 | 27 | 67 | **3,201** | 19,765 | 195 | yes |
-| `Q68283` | Nerva | Q1424 | 30 | 98 | **3,201** | 19,765 | 195 | yes |
-| `Q68488` | Octavia | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q69263` | Scribonia Magna | Q774986 | 5 | 47 | **3,201** | 19,765 | 195 | yes |
-| `Q69296` | Marcus Licinius Crassus Frugi | Q1233627 | 50 | — | **3,201** | 19,765 | 195 | yes |
-| `Q69972` | Octavia Sergia Plotilla | Q12293630 | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q70152` | Rubellia Bassa | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q70337` | Cornelia Pompeia Magna | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q70340` | Lucius Scribonius Libo | Q153600 | 50 | — | **3,201** | 19,765 | 195 | yes |
-| `Q70343` | Marcus Licinius Crassus Dives | Q3622613 | 50 | — | **3,201** | 19,765 | 195 | yes |
-| `Q70346` | Fausta  Cornelia | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q70718` | Gaius Rubellius Blandus | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q70970` | Pompeia Magna | Q442503 | 70 | 35 | **3,201** | 19,765 | 195 | yes |
-| `Q71026` | Marcus Pupius Piso Frugi | Q11768202 | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q71083` | Faustus Cornelius Sulla | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q71628` | Lucius Rubellius Blandus | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q72239` | Vipsania Agrippina | Q232090 | — | 20 | **3,201** | 19,765 | 195 | yes |
-| `Q72266` | Mucia Tertia | Q273616 | 95 | 31 | **3,201** | 19,765 | 195 | yes |
-| `Q72278` | Marcus Pupius Piso Frugi Calpurnianus | Q510243 | 114 | — | **3,201** | 19,765 | 195 | yes |
-| `Q72338` | Rubellius Blandus | Q111335237 | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q72425` | Attica | Q152626 | 55 | 28 | **3,201** | 19,765 | 195 | yes |
-| `Q72451` | Quintus Mucius Scaevola Pontifex | Q503187 | 140 | 82 | **3,201** | 19,765 | 195 | yes |
-| `Q72466` | Marcus Licinius Crassus | Q175121 | 115 | 53 | **3,201** | 19,765 | 195 | yes |
-| `Q72603` | Pilia | Q2292963 | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q72633` | Publius Mucius Scaevola | Q261441 | 180 | 114 | **3,201** | 19,765 | 195 | yes |
-| `Q72657` | Publius Licinius Crassus Dives | Q656527 | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q72774` | Licinia Crassa  Pilius | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q72807` | Publius Mucius Scaevola | Q2066659 | 300 | 200 | **3,201** | 19,765 | 195 | yes |
-| `Q72810` | Licinia | Q12284962 | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q72831` | Marcus Licinius Crassus | Q19715630 | 150 | — | **3,201** | 19,765 | 195 | yes |
-| `Q72933` | Marcus Licinius Crassus | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q72966` | Lincinia  Varus | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q72972` | Publius Licinius Crassus Dives | Q29518656 | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q72981` | Publius Licinius Crassus | Q20100913 | 300 | 150 | **3,201** | 19,765 | 195 | yes |
-| `Q73083` | Publius Licinius Crassus Dives (consul 97 BC) | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q73140` | Gaius Lincinius  Varus | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q73260` | Marcus Licinius Crassus Agelastus | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q73308` | Licinius  Varus | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q73665` | Publius Licinius  Crassus | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q73770` | Publius Licinius  Crassus | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q77386` | Julia Livia | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q77611` | Drusus Julius Caesar | Q313737 | 13 | 23 | **3,201** | 19,765 | 195 | yes |
-| `Q99408` | Publius Licinius Varus Licinius Crassus  Crass | — | — | — | **3,201** | 19,765 | 195 | yes |
-| `Q136506` | Flavia Julia Constantia | Q238023 | — | 330 | **3,201** | 19,765 | 195 | yes |
-| `Q138467` | Julia Livia | Q266030 | 5 | 43 | **3,201** | 19,765 | 195 | yes |
-| `Q139746` | Cornelia Magna | Q3656046 | 1 | — | **3,201** | 19,765 | 195 | yes |
-| `Q141756` | Annia Rupilia Faustina | Q111988914 | — | — | **3,201** | 19,765 | 195 | yes |
+| `Q61565` | Constantius Chlorus | Q131195 | 250 | 306 | **3,195** | 19,765 | 195 | yes |
+| `Q61957` | Claudia Crispina | Q867859 | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q62255` | Aurelia Pompeiana | Q109793322 | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q62680` | Mariana Minor | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q62704` | Lucius Aurellius Commodus Pompeianus | Q716684 | 176 | 212 | **3,195** | 19,765 | 195 | yes |
+| `Q63157` | Pendania | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q63192` | Lucilla | Q242466 | 150 | 182 | **3,195** | 19,765 | 195 | yes |
+| `Q63684` | Ummidia Commificia Antonia | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q63747` | Faustina the Younger | Q236936 | 125 | 175 | **3,195** | 19,765 | 195 | yes |
+| `Q63780` | Marcus Aurelius | Q1430 | 121 | 180 | **3,195** | 19,765 | 195 | yes |
+| `Q64355` | Gaius Ummidius Quadratus Annianus Verus  Fulvi | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q64388` | Annia Cornificia Faustina | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q64483` | Faustina the Elder | Q234734 | 105 | 140 | **3,195** | 19,765 | 195 | yes |
+| `Q64516` | Antoninus Pius | Q1429 | 86 | 161 | **3,195** | 19,765 | 195 | yes |
+| `Q64549` | Marcus Annius Verus | Q1292169 | 94 | 120 | **3,195** | 19,765 | 195 | yes |
+| `Q64582` | Domitia Lucilla Minor | Q1815905 | 100 | — | **3,195** | 19,765 | 195 | yes |
+| `Q65192` | Gaius Annianus Verus | Q12275936 | 100 | — | **3,195** | 19,765 | 195 | yes |
+| `Q65225` | Annia Cornificia Faustina | Q1284248 | 123 | 152 | **3,195** | 19,765 | 195 | yes |
+| `Q65258` | Rupilia Faustina | Q2068391 | 87 | 101 | **3,195** | 19,765 | 195 | yes |
+| `Q65489` | Hadrian | Q1427 | 76 | 138 | **3,195** | 19,765 | 195 | yes |
+| `Q65552` | Domitia Lucilla | Q12278988 | 50 | — | **3,195** | 19,765 | 195 | yes |
+| `Q66488` | Libo Rupilius Frugi | Q1237511 | 1 | 101 | **3,195** | 19,765 | 195 | yes |
+| `Q66784` | Andhra Pradesh | Q1159 | 53 | 117 | **3,195** | 19,765 | 195 | yes |
+| `Q66916` | Curtilia Mancia | Q107638183 | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q67573` | Marcus Licinius Crassus Frugi | Q764528 | 27 | 67 | **3,195** | 19,765 | 195 | yes |
+| `Q68283` | Nerva | Q1424 | 30 | 98 | **3,195** | 19,765 | 195 | yes |
+| `Q68488` | Octavia | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q69263` | Scribonia Magna | Q774986 | 5 | 47 | **3,195** | 19,765 | 195 | yes |
+| `Q69296` | Marcus Licinius Crassus Frugi | Q1233627 | 50 | — | **3,195** | 19,765 | 195 | yes |
+| `Q69972` | Octavia Sergia Plotilla | Q12293630 | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q70152` | Rubellia Bassa | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q70337` | Cornelia Pompeia Magna | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q70340` | Lucius Scribonius Libo | Q153600 | 50 | — | **3,195** | 19,765 | 195 | yes |
+| `Q70343` | Marcus Licinius Crassus Dives | Q3622613 | 50 | — | **3,195** | 19,765 | 195 | yes |
+| `Q70346` | Fausta  Cornelia | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q70718` | Gaius Rubellius Blandus | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q70970` | Pompeia Magna | Q442503 | 70 | 35 | **3,195** | 19,765 | 195 | yes |
+| `Q71026` | Marcus Pupius Piso Frugi | Q11768202 | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q71083` | Faustus Cornelius Sulla | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q71628` | Lucius Rubellius Blandus | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q72239` | Vipsania Agrippina | Q232090 | — | 20 | **3,195** | 19,765 | 195 | yes |
+| `Q72266` | Mucia Tertia | Q273616 | 95 | 31 | **3,195** | 19,765 | 195 | yes |
+| `Q72278` | Marcus Pupius Piso Frugi Calpurnianus | Q510243 | 114 | — | **3,195** | 19,765 | 195 | yes |
+| `Q72338` | Rubellius Blandus | Q111335237 | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q72425` | Attica | Q152626 | 55 | 28 | **3,195** | 19,765 | 195 | yes |
+| `Q72451` | Quintus Mucius Scaevola Pontifex | Q503187 | 140 | 82 | **3,195** | 19,765 | 195 | yes |
+| `Q72466` | Marcus Licinius Crassus | Q175121 | 115 | 53 | **3,195** | 19,765 | 195 | yes |
+| `Q72603` | Pilia | Q2292963 | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q72633` | Publius Mucius Scaevola | Q261441 | 180 | 114 | **3,195** | 19,765 | 195 | yes |
+| `Q72657` | Publius Licinius Crassus Dives | Q656527 | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q72774` | Licinia Crassa  Pilius | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q72807` | Publius Mucius Scaevola | Q2066659 | 300 | 200 | **3,195** | 19,765 | 195 | yes |
+| `Q72810` | Licinia | Q12284962 | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q72831` | Marcus Licinius Crassus | Q19715630 | 150 | — | **3,195** | 19,765 | 195 | yes |
+| `Q72933` | Marcus Licinius Crassus | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q72966` | Lincinia  Varus | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q72972` | Publius Licinius Crassus Dives | Q29518656 | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q72981` | Publius Licinius Crassus | Q20100913 | 300 | 150 | **3,195** | 19,765 | 195 | yes |
+| `Q73083` | Publius Licinius Crassus Dives (consul 97 BC) | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q73140` | Gaius Lincinius  Varus | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q73260` | Marcus Licinius Crassus Agelastus | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q73308` | Licinius  Varus | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q73665` | Publius Licinius  Crassus | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q73770` | Publius Licinius  Crassus | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q77386` | Julia Livia | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q77611` | Drusus Julius Caesar | Q313737 | 13 | 23 | **3,195** | 19,765 | 195 | yes |
+| `Q99408` | Publius Licinius Varus Licinius Crassus  Crass | — | — | — | **3,195** | 19,765 | 195 | yes |
+| `Q136506` | Flavia Julia Constantia | Q238023 | — | 330 | **3,195** | 19,765 | 195 | yes |
+| `Q138467` | Julia Livia | Q266030 | 5 | 43 | **3,195** | 19,765 | 195 | yes |
+| `Q139746` | Cornelia Magna | Q3656046 | 1 | — | **3,195** | 19,765 | 195 | yes |
+| `Q141756` | Annia Rupilia Faustina | Q111988914 | — | — | **3,195** | 19,765 | 195 | yes |
 
 **What the data says**
 
@@ -126,24 +126,24 @@ Shortest loop: `Q62515 -> Q75817 -> Q75721 -> Q75781 -> Q75694 -> Q75634 -> Q755
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q62515` | Petronia | — | — | — | **4,280** | 19,332 | 196 | yes |
-| `Q62926` | Gnaeus Petronius Probatus Junior  Justus | — | — | — | **4,280** | 19,332 | 196 | yes |
-| `Q63517` | Petronius  Junior | — | — | — | **4,280** | 19,332 | 196 | yes |
-| `Q64169` | Petronius | Q120232596 | — | — | **4,280** | 19,332 | 196 | yes |
-| `Q65002` | Sextus Claudius Petronius Probus | Q1542092 | 328 | 388 | **4,280** | 19,332 | 196 | yes |
-| `Q75516` | Anicius Hermogenianus Olybrius | Q1372249 | — | — | **4,280** | 19,332 | 196 | yes |
-| `Q75522` | Anicia Faltonia Proba | Q1154373 | — | — | **4,280** | 19,332 | 196 | yes |
-| `Q75540` | Quintus Clodius Hermogenianus Olybrius | Q1148526 | 335 | 380 | **4,280** | 19,332 | 196 | yes |
-| `Q75543` | Tyrrania Anicia Juliana | Q12296367 | — | — | **4,280** | 19,332 | 196 | yes |
-| `Q75558` | Clodia Celsina | — | — | — | **4,280** | 19,332 | 196 | yes |
-| `Q75573` | Anicius Auchenius Bassus | Q2289711 | 350 | 408 | **4,280** | 19,332 | 196 | yes |
-| `Q75576` | Clodius Celsinus Adelphius | Q1147586 | — | — | **4,280** | 19,332 | 196 | yes |
-| `Q75603` | Demetrias | Q3625008 | — | — | **4,280** | 19,332 | 196 | yes |
-| `Q75634` | Caeionia Auchenia Bassa | — | — | — | **4,280** | 19,332 | 196 | yes |
-| `Q75694` | Caeionius Julianus Camerius | — | — | 334 | **4,280** | 19,332 | 196 | yes |
-| `Q75721` | Rufia Procula | — | — | — | **4,280** | 19,332 | 196 | yes |
-| `Q75781` | Caeionius  Proculus | — | — | — | **4,280** | 19,332 | 196 | yes |
-| `Q75817` | Publilia | — | — | — | **4,280** | 19,332 | 196 | yes |
+| `Q62515` | Petronia | — | — | — | **4,274** | 19,332 | 196 | yes |
+| `Q62926` | Gnaeus Petronius Probatus Junior  Justus | — | — | — | **4,274** | 19,332 | 196 | yes |
+| `Q63517` | Petronius  Junior | — | — | — | **4,274** | 19,332 | 196 | yes |
+| `Q64169` | Petronius | Q120232596 | — | — | **4,274** | 19,332 | 196 | yes |
+| `Q65002` | Sextus Claudius Petronius Probus | Q1542092 | 328 | 388 | **4,274** | 19,332 | 196 | yes |
+| `Q75516` | Anicius Hermogenianus Olybrius | Q1372249 | — | — | **4,274** | 19,332 | 196 | yes |
+| `Q75522` | Anicia Faltonia Proba | Q1154373 | — | — | **4,274** | 19,332 | 196 | yes |
+| `Q75540` | Quintus Clodius Hermogenianus Olybrius | Q1148526 | 335 | 380 | **4,274** | 19,332 | 196 | yes |
+| `Q75543` | Tyrrania Anicia Juliana | Q12296367 | — | — | **4,274** | 19,332 | 196 | yes |
+| `Q75558` | Clodia Celsina | — | — | — | **4,274** | 19,332 | 196 | yes |
+| `Q75573` | Anicius Auchenius Bassus | Q2289711 | 350 | 408 | **4,274** | 19,332 | 196 | yes |
+| `Q75576` | Clodius Celsinus Adelphius | Q1147586 | — | — | **4,274** | 19,332 | 196 | yes |
+| `Q75603` | Demetrias | Q3625008 | — | — | **4,274** | 19,332 | 196 | yes |
+| `Q75634` | Caeionia Auchenia Bassa | — | — | — | **4,274** | 19,332 | 196 | yes |
+| `Q75694` | Caeionius Julianus Camerius | — | — | 334 | **4,274** | 19,332 | 196 | yes |
+| `Q75721` | Rufia Procula | — | — | — | **4,274** | 19,332 | 196 | yes |
+| `Q75781` | Caeionius  Proculus | — | — | — | **4,274** | 19,332 | 196 | yes |
+| `Q75817` | Publilia | — | — | — | **4,274** | 19,332 | 196 | yes |
 
 **What the data says**
 
@@ -155,29 +155,27 @@ Shortest loop: `Q62515 -> Q75817 -> Q75721 -> Q75781 -> Q75694 -> Q75634 -> Q755
 
 ---
 
-## 3. Marcus Aemilius Lepidus — 17 records
+## 3. Marcus Aemilius Lepidus — 15 records
 
 Shortest loop: `Q72434 -> Q73893 -> Q73794 -> Q73692 -> Q73569 -> Q73443 -> Q73293 -> Q73128 -> Q72957 -> Q72801 -> Q72786 -> Q72615 -> Q72434`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q72434` | Marcus Aemilius Lepidus | Q435329 | 120 BC | 77 BC | **900** | 28,856 | 255 | yes |
-| `Q72615` | Quintus Aemilius Lepidus | Q11944252 | — | — | **900** | 28,856 | 255 | yes |
-| `Q72786` | Marcus Aemilius Lepidus | — | — | — | **900** | 28,856 | 255 | yes |
-| `Q72801` | Cornelia | Q100804879 | — | — | **900** | 28,856 | 255 | yes |
-| `Q72957` | Consul (138 BC) - Publius Cornelius Scipio Nas | — | 182 BC | 132 BC | **900** | 28,856 | 255 | yes |
-| `Q73128` | Publius Cornelius Scipio Nasica Corculum | Q503320 | 205 | 141 | **900** | 28,856 | 255 | yes |
-| `Q73131` | Cornelia Africana Major | Q5171151 | 201 | — | **900** | 28,856 | 255 | yes |
-| `Q73293` | Publius Cornelius Scipio Nasica | Q453860 | 230 | 171 | **900** | 28,856 | 255 | yes |
-| `Q73299` | Scipio Africanus | Q2253 | 235 | 183 | **900** | 28,856 | 255 | yes |
-| `Q73443` | Gnaeus Cornelius Scipio Calvus | Q316475 | 256 | 211 | **900** | 28,856 | 255 | yes |
-| `Q73446` | Publius Cornelius Scipio | Q3293507 | 255 | 211 | **900** | 28,856 | 255 | yes |
-| `Q73569` | Lucius Cornelius Scipio | Q708483 | 306 | 250 | **900** | 28,856 | 255 | yes |
-| `Q73692` | Lucius Cornelius Scipio Barbatus | Q374630 | 400 | 300 | **900** | 28,856 | 255 | yes |
-| `Q73794` | Gnaeus Cornelius Scipio | Q128598522 | — | — | **900** | 28,856 | 255 | yes |
-| `Q73893` | Lucius Cornelius Scipio Asiaticus Aemilianus | Q7234050 | 200 | 77 | **900** | 28,856 | 255 | yes |
-| `Q99368` | (unlabelled) | — | — | — | **900** | 28,856 | 255 | yes |
-| `Q99386` | (unlabelled) | — | — | — | **900** | 28,856 | 255 | yes |
+| `Q72434` | Marcus Aemilius Lepidus | Q435329 | 120 BC | 77 BC | **898** | 28,853 | 255 | yes |
+| `Q72615` | Quintus Aemilius Lepidus | Q11944252 | — | — | **898** | 28,853 | 255 | yes |
+| `Q72786` | Marcus Aemilius Lepidus | — | — | — | **898** | 28,853 | 255 | yes |
+| `Q72801` | Cornelia | Q100804879 | — | — | **898** | 28,853 | 255 | yes |
+| `Q72957` | Consul (138 BC) - Publius Cornelius Scipio Nas | — | 182 BC | 132 BC | **898** | 28,853 | 255 | yes |
+| `Q73128` | Publius Cornelius Scipio Nasica Corculum | Q503320 | 205 | 141 | **898** | 28,853 | 255 | yes |
+| `Q73131` | Cornelia Africana Major | Q5171151 | 201 | — | **898** | 28,853 | 255 | yes |
+| `Q73293` | Publius Cornelius Scipio Nasica | Q453860 | 230 | 171 | **898** | 28,853 | 255 | yes |
+| `Q73299` | Scipio Africanus | Q2253 | 235 | 183 | **898** | 28,853 | 255 | yes |
+| `Q73443` | Gnaeus Cornelius Scipio Calvus | Q316475 | 256 | 211 | **898** | 28,853 | 255 | yes |
+| `Q73446` | Publius Cornelius Scipio | Q3293507 | 255 | 211 | **898** | 28,853 | 255 | yes |
+| `Q73569` | Lucius Cornelius Scipio | Q708483 | 306 | 250 | **898** | 28,853 | 255 | yes |
+| `Q73692` | Lucius Cornelius Scipio Barbatus | Q374630 | 400 | 300 | **898** | 28,853 | 255 | yes |
+| `Q73794` | Gnaeus Cornelius Scipio | Q128598522 | — | — | **898** | 28,853 | 255 | yes |
+| `Q73893` | Lucius Cornelius Scipio Asiaticus Aemilianus | Q7234050 | 200 | 77 | **898** | 28,853 | 255 | yes |
 
 **What the data says**
 
@@ -185,8 +183,6 @@ Shortest loop: `Q72434 -> Q73893 -> Q73794 -> Q73692 -> Q73569 -> Q73443 -> Q732
 - `Q72615` Quintus Aemilius Lepidus has 3 parents: Q72786, Q72789, Q144279.
 - `Q72786` Marcus Aemilius Lepidus has 6 parents: Q72789, Q72801, Q73011, Q73110, Q73113, Q73173.
 - `Q72801` Cornelia has 3 parents: Q72957, Q73017, Q73428.
-- `Q72957` Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio has 3 parents: Q73128, Q73131, Q99368.
-- `Q73128` Publius Cornelius Scipio Nasica Corculum has 3 parents: Q73293, Q99384, Q99386.
 - Wikidata contradicts `Q73893` → `Q73794`: Wikidata records no link between them
 - Recorded births in this cycle: Marcus Aemilius Lepidus 120 BC; Consul (138 BC) - Publius Co 182 BC; Publius Cornelius Scipio Nas 205; Cornelia Africana Major 201; Publius Cornelius Scipio Nas 230; Scipio Africanus 235; Gnaeus Cornelius Scipio Calv 256; Publius Cornelius Scipio 255; Lucius Cornelius Scipio 306; Lucius Cornelius Scipio Barb 400; Lucius Cornelius Scipio Asia 200
 
@@ -225,20 +221,20 @@ Shortest loop: `Q79388 -> Q79415 -> Q79435 -> Q79438 -> Q79424 -> Q79450 -> Q794
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q79388` | D. Ausindo Ximeno | — | — | — | **4,935** | 3,663 | 218 | yes |
-| `Q79415` | D.Soeiro Ausendes | — | — | — | **4,935** | 3,663 | 218 | yes |
-| `Q79424` | Gil  Guille em Narbonne | — | — | — | **4,935** | 3,663 | 218 | yes |
-| `Q79435` | D.Arnaldo  Ximenes | — | — | — | **4,935** | 3,663 | 218 | yes |
-| `Q79438` | Sancho  ou Sancho Arnolfo Ximenes | — | — | — | **4,935** | 3,663 | 218 | yes |
-| `Q79450` | Soeiro  Afonso Tangil | — | — | — | **4,935** | 3,663 | 218 | yes |
-| `Q79480` | Fernao  dos de Tangil | — | — | — | **4,935** | 3,663 | 218 | yes |
-| `Q79537` | Estevao  Soares (D.) | — | — | — | **4,935** | 3,663 | 218 | yes |
-| `Q79618` | Tereza  Eriz de Lugo | — | — | — | **4,935** | 3,663 | 218 | yes |
-| `Q99939` | Ufa  Ufes | — | — | — | **4,935** | 3,663 | 218 | yes |
-| `Q100154` | Godo  Arnaldes de Baiao | — | — | — | **4,935** | 3,663 | 218 | yes |
-| `Q100519` | Soeiro  Guedes | — | — | — | **4,935** | 3,663 | 218 | yes |
-| `Q101113` | D. Ausindo Soares | — | — | — | **4,935** | 3,663 | 218 | yes |
-| `Q113625` | D.Teodoredo Ausendes Soares | — | 1078 | — | **4,935** | 3,663 | 218 | yes |
+| `Q79388` | D. Ausindo Ximeno | — | — | — | **4,929** | 3,663 | 218 | yes |
+| `Q79415` | D.Soeiro Ausendes | — | — | — | **4,929** | 3,663 | 218 | yes |
+| `Q79424` | Gil  Guille em Narbonne | — | — | — | **4,929** | 3,663 | 218 | yes |
+| `Q79435` | D.Arnaldo  Ximenes | — | — | — | **4,929** | 3,663 | 218 | yes |
+| `Q79438` | Sancho  ou Sancho Arnolfo Ximenes | — | — | — | **4,929** | 3,663 | 218 | yes |
+| `Q79450` | Soeiro  Afonso Tangil | — | — | — | **4,929** | 3,663 | 218 | yes |
+| `Q79480` | Fernao  dos de Tangil | — | — | — | **4,929** | 3,663 | 218 | yes |
+| `Q79537` | Estevao  Soares (D.) | — | — | — | **4,929** | 3,663 | 218 | yes |
+| `Q79618` | Tereza  Eriz de Lugo | — | — | — | **4,929** | 3,663 | 218 | yes |
+| `Q99939` | Ufa  Ufes | — | — | — | **4,929** | 3,663 | 218 | yes |
+| `Q100154` | Godo  Arnaldes de Baiao | — | — | — | **4,929** | 3,663 | 218 | yes |
+| `Q100519` | Soeiro  Guedes | — | — | — | **4,929** | 3,663 | 218 | yes |
+| `Q101113` | D. Ausindo Soares | — | — | — | **4,929** | 3,663 | 218 | yes |
+| `Q113625` | D.Teodoredo Ausendes Soares | — | 1078 | — | **4,929** | 3,663 | 218 | yes |
 
 **Decision:** _not made — needs Emma_
 
@@ -398,13 +394,13 @@ Shortest loop: `Q138061 -> Q138810 -> Q140234 -> Q139067 -> Q140681 -> Q140643 -
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q138061` | Joan ferch Ieuan ap Rhys ap Llowdden | Q110413692 | — | — | **6,535** | 527 | 231 | yes |
-| `Q138810` | Llywelyn Ddû ab Owain | Q99086883 | — | — | **6,535** | 527 | 231 | yes |
-| `Q139043` | Ieuan ap Rhys | Q99071449 | — | — | **6,535** | 527 | 231 | yes |
-| `Q139067` | Gruffudd Foethus ap Llywelyn | Q75905270 | — | — | **6,535** | 527 | 231 | yes |
-| `Q140234` | Llywelyn Foethus ap Llywelyn Ddû ab Owain | Q99086873 | — | — | **6,535** | 527 | 231 | yes |
-| `Q140643` | Rhys ap Llowdden y Gath | Q99302513 | — | — | **6,535** | 527 | 231 | yes |
-| `Q140681` | Lleucu ferch Gruffudd | Q110413685 | — | — | **6,535** | 527 | 231 | yes |
+| `Q138061` | Joan ferch Ieuan ap Rhys ap Llowdden | Q110413692 | — | — | **6,529** | 527 | 231 | yes |
+| `Q138810` | Llywelyn Ddû ab Owain | Q99086883 | — | — | **6,529** | 527 | 231 | yes |
+| `Q139043` | Ieuan ap Rhys | Q99071449 | — | — | **6,529** | 527 | 231 | yes |
+| `Q139067` | Gruffudd Foethus ap Llywelyn | Q75905270 | — | — | **6,529** | 527 | 231 | yes |
+| `Q140234` | Llywelyn Foethus ap Llywelyn Ddû ab Owain | Q99086873 | — | — | **6,529** | 527 | 231 | yes |
+| `Q140643` | Rhys ap Llowdden y Gath | Q99302513 | — | — | **6,529** | 527 | 231 | yes |
+| `Q140681` | Lleucu ferch Gruffudd | Q110413685 | — | — | **6,529** | 527 | 231 | yes |
 
 **Decision:** _not made — needs Emma_
 
@@ -454,40 +450,17 @@ Shortest loop: `Q138363 -> Q138365 -> Q148022 -> Q144020 -> Q141360 -> Q139511 -
 
 ---
 
-## 15. Pedaiah — 5 records
-
-Shortest loop: `Q4617 -> Q4626 -> Q135406 -> Q135539 -> Q4617`
-
-| qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
-|---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q4617` | Pedaiah | Q20101444 | — | — | **510** | 28,964 | 167 | yes |
-| `Q4626` | Zebudah | Q30527376 | — | — | **510** | 28,964 | 167 | yes |
-| `Q60222` | (unlabelled) | — | — | — | **510** | 28,964 | 167 | yes |
-| `Q135406` | Jehoiakim | Q319034 | 634 | 598 | **510** | 28,964 | 167 | yes |
-| `Q135539` | Jeconiah | Q319049 | 616 | 597 | **510** | 28,964 | 167 | yes |
-
-**What the data says**
-
-- `Q135406` Jehoiakim has 3 parents: Q4626, Q60222, Q135301.
-- `Q135539` Jeconiah has 3 parents: Q4618, Q60198, Q135406.
-- Wikidata contradicts `Q135539` → `Q4617`: Wikidata records no link between them
-- Recorded births in this cycle: Jehoiakim 634; Jeconiah 616
-
-**Decision:** _not made — needs Emma_
-
----
-
-## 16. Appius Claudius Caecus — 5 records
+## 15. Appius Claudius Caecus — 5 records
 
 Shortest loop: `Q73782 -> Q78812 -> Q78752 -> Q73970 -> Q73887 -> Q73782`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q73782` | Appius Claudius Caecus | Q297783 | 341 BC | 300 BC | **15** | 29,304 | 5 | no |
-| `Q73887` | Gaius Claudius Crassus Inrelligensis | Q5759141 | 370 | 337 | **15** | 29,304 | 5 | no |
-| `Q73970` | Appius Claudius Crassus Inregillensis | Q657609 | 350 | 349 | **15** | 29,304 | 5 | no |
-| `Q78752` | Publius  Claudius-Nero | — | — | — | **15** | 29,304 | 5 | no |
-| `Q78812` | Tiberius Claudius Nero | — | — | — | **15** | 29,304 | 5 | no |
+| `Q73782` | Appius Claudius Caecus | Q297783 | 341 BC | 300 BC | **15** | 29,301 | 5 | no |
+| `Q73887` | Gaius Claudius Crassus Inrelligensis | Q5759141 | 370 | 337 | **15** | 29,301 | 5 | no |
+| `Q73970` | Appius Claudius Crassus Inregillensis | Q657609 | 350 | 349 | **15** | 29,301 | 5 | no |
+| `Q78752` | Publius  Claudius-Nero | — | — | — | **15** | 29,301 | 5 | no |
+| `Q78812` | Tiberius Claudius Nero | — | — | — | **15** | 29,301 | 5 | no |
 
 **What the data says**
 
@@ -498,17 +471,17 @@ Shortest loop: `Q73782 -> Q78812 -> Q78752 -> Q73970 -> Q73887 -> Q73782`
 
 ---
 
-## 17. Deimachus — 5 records
+## 16. Deimachus — 5 records
 
 Shortest loop: `Q75123 -> Q132251 -> Q132367 -> Q131896 -> Q131902 -> Q75123`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q75123` | Deimachus | Q1183226 | — | — | **192** | 31,666 | 16 | no |
-| `Q131896` | Tyro | Q1126715 | — | — | **192** | 31,666 | 16 | no |
-| `Q131902` | Neleus | Q637955 | — | — | **192** | 31,666 | 16 | no |
-| `Q132251` | Enarete | Q48665 | — | — | **192** | 31,666 | 16 | no |
-| `Q132367` | Salmoneus | Q1131643 | — | — | **192** | 31,666 | 16 | no |
+| `Q75123` | Deimachus | Q1183226 | — | — | **192** | 31,663 | 16 | no |
+| `Q131896` | Tyro | Q1126715 | — | — | **192** | 31,663 | 16 | no |
+| `Q131902` | Neleus | Q637955 | — | — | **192** | 31,663 | 16 | no |
+| `Q132251` | Enarete | Q48665 | — | — | **192** | 31,663 | 16 | no |
+| `Q132367` | Salmoneus | Q1131643 | — | — | **192** | 31,663 | 16 | no |
 
 **What the data says**
 
@@ -519,17 +492,17 @@ Shortest loop: `Q75123 -> Q132251 -> Q132367 -> Q131896 -> Q131902 -> Q75123`
 
 ---
 
-## 18. Arsende  de Cabrera — 5 records
+## 17. Arsende  de Cabrera — 5 records
 
 Shortest loop: `Q104371 -> Q107162 -> Q123407 -> Q124325 -> Q124326 -> Q104371`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q104371` | Arsende  de Cabrera | — | — | — | **6,585** | 34 | 220 | yes |
-| `Q107162` | Ermengol VII, Count of Urgell | Q949224 | — | — | **6,585** | 34 | 220 | yes |
-| `Q123407` | Marquesa d'Urgell | Q21126997 | 1150 | 1209 | **6,585** | 34 | 220 | yes |
-| `Q124325` | Guerau IV de Cabrera | Q4894186 | 1200 | 1228 | **6,585** | 34 | 220 | yes |
-| `Q124326` | Guerau V de Cabrera | Q19291067 | — | 1242 | **6,585** | 34 | 220 | yes |
+| `Q104371` | Arsende  de Cabrera | — | — | — | **6,579** | 34 | 220 | yes |
+| `Q107162` | Ermengol VII, Count of Urgell | Q949224 | — | — | **6,579** | 34 | 220 | yes |
+| `Q123407` | Marquesa d'Urgell | Q21126997 | 1150 | 1209 | **6,579** | 34 | 220 | yes |
+| `Q124325` | Guerau IV de Cabrera | Q4894186 | 1200 | 1228 | **6,579** | 34 | 220 | yes |
+| `Q124326` | Guerau V de Cabrera | Q19291067 | — | 1242 | **6,579** | 34 | 220 | yes |
 
 **What the data says**
 
@@ -541,50 +514,28 @@ Shortest loop: `Q104371 -> Q107162 -> Q123407 -> Q124325 -> Q124326 -> Q104371`
 
 ---
 
-## 19. kay uyarsh  Raja Iran — 4 records
+## 18. Pedaiah — 4 records
 
-Shortest loop: `Q29144 -> Q29148 -> Q29144`
+Shortest loop: `Q4617 -> Q4626 -> Q135406 -> Q135539 -> Q4617`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q29144` | kay uyarsh  Raja Iran | — | — | — | **342** | 31,857 | 160 | yes |
-| `Q29148` | kay pisan  Raja Iran | — | — | — | **342** | 31,857 | 160 | yes |
-| `Q52709` | (unlabelled) | — | — | — | **342** | 31,857 | 160 | yes |
-| `Q52713` | (unlabelled) | — | — | — | **342** | 31,857 | 160 | yes |
+| `Q4617` | Pedaiah | Q20101444 | — | — | **509** | 28,963 | 167 | yes |
+| `Q4626` | Zebudah | Q30527376 | — | — | **509** | 28,963 | 167 | yes |
+| `Q135406` | Jehoiakim | Q319034 | 634 | 598 | **509** | 28,963 | 167 | yes |
+| `Q135539` | Jeconiah | Q319049 | 616 | 597 | **509** | 28,963 | 167 | yes |
 
 **What the data says**
 
-- `Q29144` kay uyarsh  Raja Iran has 4 parents: Q29148, Q29152, Q52713, Q52717.
+- `Q135539` Jeconiah has 3 parents: Q4618, Q60198, Q135406.
+- Wikidata contradicts `Q135539` → `Q4617`: Wikidata records no link between them
+- Recorded births in this cycle: Jehoiakim 634; Jeconiah 616
 
 **Decision:** _not made — needs Emma_
 
 ---
 
-## 20. Marcus Livius Drusus — 4 records
-
-Shortest loop: `Q72798 -> Q73119 -> Q72951 -> Q72798`
-
-| qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
-|---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q72798` | Marcus Livius Drusus | Q703346 | 155 | 109 | **923** | 28,783 | 267 | yes |
-| `Q72951` | Gaius Livius Drusus | Q1270114 | 250 | 250 | **923** | 28,783 | 267 | yes |
-| `Q73119` | Marcus Livius Drusus | Q433463 | 124 | 91 | **923** | 28,783 | 267 | yes |
-| `Q73284` | (unlabelled) | — | — | — | **923** | 28,783 | 267 | yes |
-
-**What the data says**
-
-- Q72798, Q73119 share the label “Marcus Livius Drusus”.
-- `Q72798` Marcus Livius Drusus has 3 parents: Q72951, Q72954, Q73431.
-- `Q73119` Marcus Livius Drusus has 8 parents: Q72798, Q72801, Q73173, Q73284, Q78450, Q78453, Q78746, Q151476.
-- `Q73284` (unlabelled) has 3 parents: Q72951, Q72954, Q73431.
-- Wikidata contradicts `Q73119` → `Q72951`: Wikidata records no link between them
-- Recorded births in this cycle: Marcus Livius Drusus 155; Gaius Livius Drusus 250; Marcus Livius Drusus 124
-
-**Decision:** _not made — needs Emma_
-
----
-
-## 21. Pinarius — 4 records
+## 19. Pinarius — 4 records
 
 Shortest loop: `Q77782 -> Q78264 -> Q78108 -> Q77955 -> Q77782`
 
@@ -603,16 +554,16 @@ Shortest loop: `Q77782 -> Q78264 -> Q78108 -> Q77955 -> Q77782`
 
 ---
 
-## 22. Pepin of Landen — 4 records
+## 20. Pepin of Landen — 4 records
 
 Shortest loop: `Q111318 -> Q111320 -> Q135895 -> Q113081 -> Q111318`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q111318` | Pepin of Landen | Q313373 | — | — | **4,680** | 14,364 | 209 | yes |
-| `Q111320` | Begga | Q266765 | — | — | **4,680** | 14,364 | 209 | yes |
-| `Q113081` | Charles Martel | Q3301 | — | — | **4,680** | 14,364 | 209 | yes |
-| `Q135895` | Pepin of Herstal | Q91392 | 645 | 714 | **4,680** | 14,364 | 209 | yes |
+| `Q111318` | Pepin of Landen | Q313373 | — | — | **4,674** | 14,364 | 209 | yes |
+| `Q111320` | Begga | Q266765 | — | — | **4,674** | 14,364 | 209 | yes |
+| `Q113081` | Charles Martel | Q3301 | — | — | **4,674** | 14,364 | 209 | yes |
+| `Q135895` | Pepin of Herstal | Q91392 | 645 | 714 | **4,674** | 14,364 | 209 | yes |
 
 **What the data says**
 
@@ -623,16 +574,16 @@ Shortest loop: `Q111318 -> Q111320 -> Q135895 -> Q113081 -> Q111318`
 
 ---
 
-## 23. Olaf Geirstad-Alf — 4 records
+## 21. Olaf Geirstad-Alf — 4 records
 
 Shortest loop: `Q118732 -> Q136091 -> Q135856 -> Q123845 -> Q118732`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q118732` | Olaf Geirstad-Alf | Q2560871 | — | — | **4,445** | 7,993 | 218 | yes |
-| `Q123845` | Alfhild | Q122890477 | — | — | **4,445** | 7,993 | 218 | yes |
-| `Q135856` | Alfarin | Q5666589 | 750 | 791 | **4,445** | 7,993 | 218 | yes |
-| `Q136091` | Gandalf Alfgeirsson | Q4133209 | 705 | 768 | **4,445** | 7,993 | 218 | yes |
+| `Q118732` | Olaf Geirstad-Alf | Q2560871 | — | — | **4,439** | 7,993 | 218 | yes |
+| `Q123845` | Alfhild | Q122890477 | — | — | **4,439** | 7,993 | 218 | yes |
+| `Q135856` | Alfarin | Q5666589 | 750 | 791 | **4,439** | 7,993 | 218 | yes |
+| `Q136091` | Gandalf Alfgeirsson | Q4133209 | 705 | 768 | **4,439** | 7,993 | 218 | yes |
 
 **What the data says**
 
@@ -642,22 +593,22 @@ Shortest loop: `Q118732 -> Q136091 -> Q135856 -> Q123845 -> Q118732`
 
 ---
 
-## 24. Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig — 4 records
+## 22. Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig — 4 records
 
 Shortest loop: `Q144542 -> Q148522 -> Q146349 -> Q148521 -> Q144542`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q144542` | Morfudd ferch Tudur Fongam ap Cynwrig Fychan a | Q116147500 | — | — | **6,172** | 57 | 230 | yes |
-| `Q146349` | Cynwrig Fychan ap Cynwrig | Q99071981 | — | — | **6,172** | 57 | 230 | yes |
-| `Q148521` | Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap L | Q116147501 | — | — | **6,172** | 57 | 230 | yes |
-| `Q148522` | Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadw | Q110636576 | — | — | **6,172** | 57 | 230 | yes |
+| `Q144542` | Morfudd ferch Tudur Fongam ap Cynwrig Fychan a | Q116147500 | — | — | **6,166** | 57 | 230 | yes |
+| `Q146349` | Cynwrig Fychan ap Cynwrig | Q99071981 | — | — | **6,166** | 57 | 230 | yes |
+| `Q148521` | Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap L | Q116147501 | — | — | **6,166** | 57 | 230 | yes |
+| `Q148522` | Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadw | Q110636576 | — | — | **6,166** | 57 | 230 | yes |
 
 **Decision:** _not made — needs Emma_
 
 ---
 
-## 25. Swammbhu Brambha — 4 records
+## 23. Swammbhu Brambha — 4 records
 
 Shortest loop: `Q160928 -> Q160981 -> Q160965 -> Q160946 -> Q160928`
 
@@ -676,7 +627,7 @@ Shortest loop: `Q160928 -> Q160981 -> Q160965 -> Q160946 -> Q160928`
 
 ---
 
-## 26. Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja — 4 records
+## 24. Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja — 4 records
 
 Shortest loop: `Q161658 -> Q161777 -> Q161966 -> Q162275 -> Q161658`
 
@@ -695,7 +646,29 @@ Shortest loop: `Q161658 -> Q161777 -> Q161966 -> Q162275 -> Q161658`
 
 ---
 
-## 27. Lucius Junius  Brutus — 3 records
+## 25. Marcus Livius Drusus — 3 records
+
+Shortest loop: `Q72798 -> Q73119 -> Q72951 -> Q72798`
+
+| qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
+|---|---|---|---:|---:|---:|---:|---:|:---:|
+| `Q72798` | Marcus Livius Drusus | Q703346 | 155 | 109 | **920** | 28,782 | 267 | yes |
+| `Q72951` | Gaius Livius Drusus | Q1270114 | 250 | 250 | **920** | 28,782 | 267 | yes |
+| `Q73119` | Marcus Livius Drusus | Q433463 | 124 | 91 | **920** | 28,782 | 267 | yes |
+
+**What the data says**
+
+- Q72798, Q73119 share the label “Marcus Livius Drusus”.
+- `Q72798` Marcus Livius Drusus has 3 parents: Q72951, Q72954, Q73431.
+- `Q73119` Marcus Livius Drusus has 7 parents: Q72798, Q72801, Q73173, Q78450, Q78453, Q78746, Q151476.
+- Wikidata contradicts `Q73119` → `Q72951`: Wikidata records no link between them
+- Recorded births in this cycle: Marcus Livius Drusus 155; Gaius Livius Drusus 250; Marcus Livius Drusus 124
+
+**Decision:** _not made — needs Emma_
+
+---
+
+## 26. Lucius Junius  Brutus — 3 records
 
 Shortest loop: `Q73383 -> Q73644 -> Q73518 -> Q73383`
 
@@ -709,7 +682,7 @@ Shortest loop: `Q73383 -> Q73644 -> Q73518 -> Q73383`
 
 ---
 
-## 28. Agathocles of Pella — 3 records
+## 27. Agathocles of Pella — 3 records
 
 Shortest loop: `Q73824 -> Q135467 -> Q73925 -> Q73824`
 
@@ -728,15 +701,15 @@ Shortest loop: `Q73824 -> Q135467 -> Q73925 -> Q73824`
 
 ---
 
-## 29. Sergius Octavius Pontianus Laenes Octavius  Pontainus — 3 records
+## 28. Sergius Octavius Pontianus Laenes Octavius  Pontainus — 3 records
 
 Shortest loop: `Q76693 -> Q77155 -> Q76933 -> Q76693`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q76693` | Sergius Octavius Pontianus Laenes Octavius  Po | — | — | — | **3,219** | 19,381 | 214 | yes |
-| `Q76933` | Sergius Octavius Pontainus | — | — | — | **3,219** | 19,381 | 214 | yes |
-| `Q77155` | Sergius Ovtavius Laenes | — | — | — | **3,219** | 19,381 | 214 | yes |
+| `Q76693` | Sergius Octavius Pontianus Laenes Octavius  Po | — | — | — | **3,213** | 19,381 | 214 | yes |
+| `Q76933` | Sergius Octavius Pontainus | — | — | — | **3,213** | 19,381 | 214 | yes |
+| `Q77155` | Sergius Ovtavius Laenes | — | — | — | **3,213** | 19,381 | 214 | yes |
 
 **What the data says**
 
@@ -746,7 +719,7 @@ Shortest loop: `Q76693 -> Q77155 -> Q76933 -> Q76693`
 
 ---
 
-## 30. Acha  Ish Kfar Temarta — 3 records
+## 29. Acha  Ish Kfar Temarta — 3 records
 
 Shortest loop: `Q86607 -> Q91134 -> Q86617 -> Q86607`
 
@@ -760,7 +733,7 @@ Shortest loop: `Q86607 -> Q91134 -> Q86617 -> Q86607`
 
 ---
 
-## 31. Nagano Norinari — 2 records
+## 30. Nagano Norinari — 2 records
 
 Shortest loop: `Q18066 -> Q32705 -> Q18066`
 
@@ -768,6 +741,23 @@ Shortest loop: `Q18066 -> Q32705 -> Q18066`
 |---|---|---|---:|---:|---:|---:|---:|:---:|
 | `Q18066` | Nagano Norinari | Q11654206 | — | 1530 | **1** | 5 | 0 | no |
 | `Q32705` | 長野尚業 | Q106814279 | — | — | **1** | 5 | 0 | no |
+
+**Decision:** _not made — needs Emma_
+
+---
+
+## 31. kay uyarsh  Raja Iran — 2 records
+
+Shortest loop: `Q29144 -> Q29148 -> Q29144`
+
+| qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
+|---|---|---|---:|---:|---:|---:|---:|:---:|
+| `Q29144` | kay uyarsh  Raja Iran | — | — | — | **340** | 31,855 | 160 | yes |
+| `Q29148` | kay pisan  Raja Iran | — | — | — | **340** | 31,855 | 160 | yes |
+
+**What the data says**
+
+- `Q29144` kay uyarsh  Raja Iran has 3 parents: Q29148, Q29152, Q52717.
 
 **Decision:** _not made — needs Emma_
 
@@ -810,8 +800,8 @@ Shortest loop: `Q88454 -> Q90982 -> Q88454`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q88454` | Esther  bat Sahlan ben Abraham | — | — | — | **3,531** | 2 | 215 | yes |
-| `Q90982` | Esther  bat Yosef ben 'Amram haDayyan al-Sijil | — | — | — | **3,531** | 2 | 215 | yes |
+| `Q88454` | Esther  bat Sahlan ben Abraham | — | — | — | **3,525** | 2 | 215 | yes |
+| `Q90982` | Esther  bat Yosef ben 'Amram haDayyan al-Sijil | — | — | — | **3,525** | 2 | 215 | yes |
 
 **Decision:** _not made — needs Emma_
 
@@ -823,8 +813,8 @@ Shortest loop: `Q119481 -> Q124343 -> Q119481`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q119481` | Pons Hug d'Entença | Q21001415 | — | — | **5,103** | 2 | 222 | yes |
-| `Q124343` | Jussiana d'Entença | Q14083227 | — | 1300 | **5,103** | 2 | 222 | yes |
+| `Q119481` | Pons Hug d'Entença | Q21001415 | — | — | **5,097** | 2 | 222 | yes |
+| `Q124343` | Jussiana d'Entença | Q14083227 | — | 1300 | **5,097** | 2 | 222 | yes |
 
 **Decision:** _not made — needs Emma_
 

@@ -268,6 +268,43 @@ CLUSTERS = {
                               "Q65552 by identity, and both are recorded as the mother of "
                               "Q63780 Marcus Aurelius; Q139826 carries wd Q1815905"),
     ],
+    # queue.md item 2 (2026-08-01). The six PHANTOM-PARENT hits from the same-role signal.
+    #
+    # Each loser is an empty SHELL: no label, no description, and exactly one claim type
+    # (P39, with the same two values and byte-identical hashes across all six). They carry
+    # no genealogical claim of their own -- they appear in edges.tsv only because other
+    # records name them in P20, which is the one-sided-edge defect of item 4. Every one of
+    # them sits in a tangle and is recorded in the SAME parental role as a real person for
+    # the same child.
+    #
+    # VERIFIED BEFORE MERGING, and the first test I wrote was wrong. "Parents identical"
+    # failed on three of the six. The right test is SUBSET: each shell's parents and
+    # children are wholly contained in its real counterpart's, so merging adds no edge and
+    # only removes a duplicate node. All six pass that, and the extra parents the real
+    # records carry turn out to be OTHER SHELLS -- one import made shells, a second made
+    # real records, and the real ones picked up shell-parents on the way.
+    #
+    # Q52709 is the one with positive identification rather than mere structure: it carries
+    # no label but its ALIASES are "kay manush Raja Iran" / "kay uyarsh Raja Iran", and
+    # "kay uyarsh Raja Iran" is exactly the label of Q29144. Same person, named.
+    #
+    # NOT FIXED HERE, and not caused by this: Q29144 and Q29148 are recorded as EACH
+    # OTHER'S parent -- a genuine mutual-parenthood 2-cycle among the real Persian records,
+    # independent of the shells. wiki-scripts/fix_mutual_parent_pairs.py exists for that
+    # shape. Merging the shells does not touch it and does not break it.
+    "phantom-shells": [
+        ("Q73131", "Q99368", "empty shell in the same mother-role as Cornelia Africana "
+                             "Major for Q72957"),
+        ("Q73293", "Q99386", "empty shell in the same father-role as Publius Cornelius "
+                             "Scipio Nasica for Q73128"),
+        ("Q4626", "Q60222", "empty shell in the same mother-role as Zebudah for Q135406"),
+        ("Q29144", "Q52709", "shell whose aliases include 'kay uyarsh Raja Iran', which is "
+                             "Q29144's label exactly"),
+        ("Q29148", "Q52713", "empty shell in the same father-role as kay pisan Raja Iran "
+                             "for Q29144"),
+        ("Q72798", "Q73284", "empty shell in the same father-role as Marcus Livius Drusus "
+                             "for Q72624"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "

@@ -235,31 +235,25 @@ central command.
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-2. **Work the six same-role parent collisions the new signal found. None of them is a
-   merge.** Signal built 2026-08-01; it found six real defects and **zero duplicates**,
-   which is the useful part — my first draft of the rule would have merged all six.
+2. **The remaining same-role collisions: one `WRONG-PARENT-EDGE`, one `PHANTOM-PARENT`.**
+   The six shells were merged 2026-08-01 (`phantom-shells`); **285 records in a tangle,
+   down from 291**, and `children_over_2_parents` 1215 -> 1209.
 
-   - **1 `WRONG-PARENT-EDGE`** — `Q72834` "Lucius Caecilius Metellus Calvus" has **two
-     fathers who are brothers**: `Q72984` *Quintus* Caecilius Metellus (wd `Q929498`) and
-     `Q148066` *Marcus* Caecilius Metellus (wd `Q897091`), both sons of `Q73146`. Distinct
-     Wikidata items, distinct praenomina — **different men, so this is not a dedupe.** One
-     of the two father-edges is simply wrong and the dump does not say which. Needs a
-     source, or Emma.
-   - **5 `PHANTOM-PARENT`** — a real person paired with a stub carrying no label and no
-     genealogical claim of its own (`Q99368` against Cornelia Africana Major, `Q99386`,
-     `Q60222`, `Q52709`, `Q73284`; plus `Q78402`, which has **no file at all** and is one
-     of the 138 dangling endpoints). These records exist in `edges.tsv` only because
-     something names them in `P20`. **The defect is that one-sided edge, not a
-     duplication** — this is item 4's territory, and these six are its concrete entry
-     point. Do not merge a person into a stub.
+   - **`WRONG-PARENT-EDGE` — needs a source or Emma.** `Q72834` "Lucius Caecilius Metellus
+     Calvus" has **two fathers who are brothers**: `Q72984` *Quintus* Caecilius Metellus
+     (wd `Q929498`) and `Q148066` *Marcus* Caecilius Metellus (wd `Q897091`), both sons of
+     `Q73146`. Distinct Wikidata items and distinct praenomina, so **not a duplicate** —
+     one of the two father-edges is simply wrong and the dump does not say which. Do not
+     merge them.
+   - **One `PHANTOM-PARENT` left**, plus `Q78402`, which has **no file at all** and is one
+     of the 138 dangling endpoints. A missing record cannot be merged into anything; that
+     one belongs with item 4.
 
-   **The rule that produced this, and the trap in it.** Two records in the *same* parental
-   role for one child (both `P47`, or both `P48`) that also share their own parents. The
-   same-role part matters: sharing parents *and* a child is not enough, because a
-   brother-sister couple gives exactly that. But same-role is **still not sufficient** —
-   two *brothers* both listed as father give it too. So the verdict splits three ways on
-   whether the pair is distinguishable: a phantom on either side, distinct Wikidata ids on
-   both, or neither — and only the last is a DEDUPE.
+   **The test that matters when merging a shell, learned the hard way:** not "are the
+   parents identical" — that failed on three of the six and would have stopped correct
+   merges — but **is the shell's edge set a SUBSET of the real record's**. If it is,
+   merging adds no edge and only removes a duplicate node. The extra parents the real
+   records carried turned out to be *other shells*.
 
 3. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.

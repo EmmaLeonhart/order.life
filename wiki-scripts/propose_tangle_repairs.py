@@ -97,9 +97,16 @@ def substance(qid):
     if not isinstance(d, dict):
         return "missing"
     has_label = bool(((d.get("labels") or {}).get("en") or {}).get("value", "").strip())
+    # Aliases count as identifying content. Q52709 carries no label but its aliases are
+    # "kay manush Raja Iran" / "kay uyarsh Raja Iran", and the second is exactly the label
+    # of Q29144 -- which is positive identification of the same person, not a nameless
+    # stub. Calling that a phantom understated the evidence for the merge that was then
+    # made on it, so the classifier is corrected to agree with what was actually done.
+    has_alias = any(a.get("value", "").strip()
+                    for a in (d.get("aliases") or {}).get("en", []))
     claims = d.get("claims") or {}
     has_geneal = any(claims.get(p) for p in (FATHER, MOTHER, "P20", "P42"))
-    return "real" if (has_label or has_geneal) else "phantom"
+    return "real" if (has_label or has_alias or has_geneal) else "phantom"
 
 # Edges that must never be proposed for cutting, with the source of the decision.
 # Sourced from cycle_policy.md, not inferred.

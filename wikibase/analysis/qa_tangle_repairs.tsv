@@ -14,43 +14,6 @@ tangle_size	tangle_head	parent	parent_label	child	child_label	wd_verdict	flag	ac
 13	Q72834	Q139560	Licinia	Q73458	Gaius Caecilius	contradicted		WRONG-PARENT-EDGE	Wikidata records no link between them
 13	Q72834	Q141414	Caecilia Metella	Q139559	Lucullus	confirmed		WRONG-PARENT-EDGE	Wikidata agrees Caecilia Metella is a parent of Lucullus
 13	Q72834	Q148066	Marcus Caecilius Metellus	Q72834	Lucius Caecilius Metellus Calvus	not-checked		WRONG-PARENT-EDGE	
-17	Q72434	Q72434	Marcus Aemilius Lepidus	Q73893	Lucius Cornelius Scipio Asiaticus Aemilianus	not-checked		PHANTOM-PARENT	
-17	Q72434	Q72615	Quintus Aemilius Lepidus	Q72434	Marcus Aemilius Lepidus	not-checked		PHANTOM-PARENT	
-17	Q72434	Q72786	Marcus Aemilius Lepidus	Q72615	Quintus Aemilius Lepidus	not-checked		PHANTOM-PARENT	
-17	Q72434	Q72801	Cornelia	Q72786	Marcus Aemilius Lepidus	unknown		PHANTOM-PARENT	no Wikidata ID for Marcus Aemilius Lepidus
-17	Q72434	Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	Q72801	Cornelia	unknown		PHANTOM-PARENT	no Wikidata ID for Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio
-17	Q72434	Q73128	Publius Cornelius Scipio Nasica Corculum	Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	not-checked		PHANTOM-PARENT	
-17	Q72434	Q73131	Cornelia Africana Major	Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	unknown		PHANTOM-PARENT	no Wikidata ID for Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio
-17	Q72434	Q73293	Publius Cornelius Scipio Nasica	Q73128	Publius Cornelius Scipio Nasica Corculum	not-checked		PHANTOM-PARENT	
-17	Q72434	Q73299	Scipio Africanus	Q73131	Cornelia Africana Major	confirmed		PHANTOM-PARENT	Wikidata agrees Scipio Africanus is a parent of Cornelia Africana Major
-17	Q72434	Q73299	Scipio Africanus	Q99368		not-checked		PHANTOM-PARENT	
-17	Q72434	Q73443	Gnaeus Cornelius Scipio Calvus	Q73293	Publius Cornelius Scipio Nasica	not-checked		PHANTOM-PARENT	
-17	Q72434	Q73443	Gnaeus Cornelius Scipio Calvus	Q99386		not-checked		PHANTOM-PARENT	
-17	Q72434	Q73446	Publius Cornelius Scipio	Q73299	Scipio Africanus	confirmed		PHANTOM-PARENT	Wikidata agrees Publius Cornelius Scipio is a parent of Scipio Africanus
-17	Q72434	Q73569	Lucius Cornelius Scipio	Q73443	Gnaeus Cornelius Scipio Calvus	not-checked		PHANTOM-PARENT	
-17	Q72434	Q73569	Lucius Cornelius Scipio	Q73446	Publius Cornelius Scipio	confirmed		PHANTOM-PARENT	Wikidata agrees Lucius Cornelius Scipio is a parent of Publius Cornelius Scipio
-17	Q72434	Q73692	Lucius Cornelius Scipio Barbatus	Q73569	Lucius Cornelius Scipio	confirmed		PHANTOM-PARENT	Wikidata agrees Lucius Cornelius Scipio Barbatus is a parent of Lucius Cornelius Scipio
-17	Q72434	Q73794	Gnaeus Cornelius Scipio	Q73692	Lucius Cornelius Scipio Barbatus	confirmed		PHANTOM-PARENT	Wikidata agrees Gnaeus Cornelius Scipio is a parent of Lucius Cornelius Scipio Barbatus
-17	Q72434	Q73893	Lucius Cornelius Scipio Asiaticus Aemilianus	Q73794	Gnaeus Cornelius Scipio	contradicted		PHANTOM-PARENT	Wikidata records no link between them
-17	Q72434	Q99368		Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	not-checked		PHANTOM-PARENT	
-17	Q72434	Q99386		Q73128	Publius Cornelius Scipio Nasica Corculum	not-checked		PHANTOM-PARENT	
-5	Q4617	Q4617	Pedaiah	Q4626	Zebudah	confirmed		PHANTOM-PARENT	Wikidata agrees Pedaiah is a parent of Zebudah
-5	Q4617	Q4617	Pedaiah	Q60222		unknown		PHANTOM-PARENT	no Wikidata ID for Q60222
-5	Q4617	Q4626	Zebudah	Q135406	Jehoiakim	confirmed		PHANTOM-PARENT	Wikidata agrees Zebudah is a parent of Jehoiakim
-5	Q4617	Q60222		Q135406	Jehoiakim	unknown		PHANTOM-PARENT	no Wikidata ID for Q60222
-5	Q4617	Q135406	Jehoiakim	Q135539	Jeconiah	confirmed		PHANTOM-PARENT	Wikidata agrees Jehoiakim is a parent of Jeconiah
-5	Q4617	Q135539	Jeconiah	Q4617	Pedaiah	contradicted		PHANTOM-PARENT	Wikidata records no link between them
-4	Q29144	Q29144	kay uyarsh  Raja Iran	Q29148	kay pisan  Raja Iran	unknown		PHANTOM-PARENT	no Wikidata ID for kay uyarsh Raja Iran and kay pisan Raja Iran
-4	Q29144	Q29144	kay uyarsh  Raja Iran	Q52713		unknown		PHANTOM-PARENT	no Wikidata ID for kay uyarsh Raja Iran and Q52713
-4	Q29144	Q29148	kay pisan  Raja Iran	Q29144	kay uyarsh  Raja Iran	unknown		PHANTOM-PARENT	no Wikidata ID for kay pisan Raja Iran and kay uyarsh Raja Iran
-4	Q29144	Q29148	kay pisan  Raja Iran	Q52709		unknown		PHANTOM-PARENT	no Wikidata ID for kay pisan Raja Iran and Q52709
-4	Q29144	Q52709		Q29148	kay pisan  Raja Iran	unknown		PHANTOM-PARENT	no Wikidata ID for Q52709 and kay pisan Raja Iran
-4	Q29144	Q52713		Q29144	kay uyarsh  Raja Iran	unknown		PHANTOM-PARENT	no Wikidata ID for Q52713 and kay uyarsh Raja Iran
-4	Q72798	Q72798	Marcus Livius Drusus	Q73119	Marcus Livius Drusus	confirmed		PHANTOM-PARENT	Wikidata agrees Marcus Livius Drusus is a parent of Marcus Livius Drusus
-4	Q72798	Q72951	Gaius Livius Drusus	Q72798	Marcus Livius Drusus	confirmed		PHANTOM-PARENT	Wikidata agrees Gaius Livius Drusus is a parent of Marcus Livius Drusus
-4	Q72798	Q72951	Gaius Livius Drusus	Q73284		unknown		PHANTOM-PARENT	no Wikidata ID for Q73284
-4	Q72798	Q73119	Marcus Livius Drusus	Q72951	Gaius Livius Drusus	contradicted		PHANTOM-PARENT	Wikidata records no link between them
-4	Q72798	Q73284		Q73119	Marcus Livius Drusus	unknown		PHANTOM-PARENT	no Wikidata ID for Q73284
 2	Q78402	Q78402		Q78719	Cleopatra III of Egypt	unknown		PHANTOM-PARENT	no Wikidata ID for Q78402
 2	Q78402	Q78719	Cleopatra III of Egypt	Q78402		unknown		PHANTOM-PARENT	no Wikidata ID for Q78402
 71	Q61565	Q61565	Constantius Chlorus	Q136506	Flavia Julia Constantia	confirmed		GENERATION-COLLAPSE	Wikidata agrees Constantius Chlorus is a parent of Flavia Julia Constantia
@@ -159,6 +122,22 @@ tangle_size	tangle_head	parent	parent_label	child	child_label	wd_verdict	flag	ac
 18	Q62515	Q75721	Rufia Procula	Q75781	Caeionius  Proculus	unknown		REVIEW	no Wikidata ID for Rufia Procula and Caeionius Proculus
 18	Q62515	Q75781	Caeionius  Proculus	Q75694	Caeionius Julianus Camerius	unknown		REVIEW	no Wikidata ID for Caeionius Proculus and Caeionius Julianus Camerius
 18	Q62515	Q75817	Publilia	Q75721	Rufia Procula	unknown		REVIEW	no Wikidata ID for Publilia and Rufia Procula
+15	Q72434	Q72434	Marcus Aemilius Lepidus	Q73893	Lucius Cornelius Scipio Asiaticus Aemilianus	not-checked		REVIEW	
+15	Q72434	Q72615	Quintus Aemilius Lepidus	Q72434	Marcus Aemilius Lepidus	not-checked		REVIEW	
+15	Q72434	Q72786	Marcus Aemilius Lepidus	Q72615	Quintus Aemilius Lepidus	not-checked		REVIEW	
+15	Q72434	Q72801	Cornelia	Q72786	Marcus Aemilius Lepidus	unknown		REVIEW	no Wikidata ID for Marcus Aemilius Lepidus
+15	Q72434	Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	Q72801	Cornelia	unknown		REVIEW	no Wikidata ID for Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio
+15	Q72434	Q73128	Publius Cornelius Scipio Nasica Corculum	Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	not-checked		REVIEW	
+15	Q72434	Q73131	Cornelia Africana Major	Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	unknown		REVIEW	no Wikidata ID for Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio
+15	Q72434	Q73293	Publius Cornelius Scipio Nasica	Q73128	Publius Cornelius Scipio Nasica Corculum	not-checked		REVIEW	
+15	Q72434	Q73299	Scipio Africanus	Q73131	Cornelia Africana Major	confirmed		REVIEW	Wikidata agrees Scipio Africanus is a parent of Cornelia Africana Major
+15	Q72434	Q73443	Gnaeus Cornelius Scipio Calvus	Q73293	Publius Cornelius Scipio Nasica	not-checked		REVIEW	
+15	Q72434	Q73446	Publius Cornelius Scipio	Q73299	Scipio Africanus	confirmed		REVIEW	Wikidata agrees Publius Cornelius Scipio is a parent of Scipio Africanus
+15	Q72434	Q73569	Lucius Cornelius Scipio	Q73443	Gnaeus Cornelius Scipio Calvus	not-checked		REVIEW	
+15	Q72434	Q73569	Lucius Cornelius Scipio	Q73446	Publius Cornelius Scipio	confirmed		REVIEW	Wikidata agrees Lucius Cornelius Scipio is a parent of Publius Cornelius Scipio
+15	Q72434	Q73692	Lucius Cornelius Scipio Barbatus	Q73569	Lucius Cornelius Scipio	confirmed		REVIEW	Wikidata agrees Lucius Cornelius Scipio Barbatus is a parent of Lucius Cornelius Scipio
+15	Q72434	Q73794	Gnaeus Cornelius Scipio	Q73692	Lucius Cornelius Scipio Barbatus	confirmed		REVIEW	Wikidata agrees Gnaeus Cornelius Scipio is a parent of Lucius Cornelius Scipio Barbatus
+15	Q72434	Q73893	Lucius Cornelius Scipio Asiaticus Aemilianus	Q73794	Gnaeus Cornelius Scipio	contradicted		REVIEW	Wikidata records no link between them
 14	Q1955	Q1955	Prachetas (10 sons)	Q153390	DAKSHA (reborn as DAKSHA) Prachetas	not-checked		REVIEW	
 14	Q1955	Q1968	Prachinbarhi	Q1955	Prachetas (10 sons)	not-checked		REVIEW	
 14	Q1955	Q1978	Havirdhana	Q1968	Prachinbarhi	not-checked		REVIEW	
@@ -279,6 +258,10 @@ tangle_size	tangle_head	parent	parent_label	child	child_label	wd_verdict	flag	ac
 5	Q104371	Q123407	Marquesa d'Urgell	Q124325	Guerau IV de Cabrera	confirmed		REVIEW	Wikidata agrees Marquesa d'Urgell is a parent of Guerau IV de Cabrera
 5	Q104371	Q124325	Guerau IV de Cabrera	Q124326	Guerau V de Cabrera	confirmed		REVIEW	Wikidata agrees Guerau IV de Cabrera is a parent of Guerau V de Cabrera
 5	Q104371	Q124326	Guerau V de Cabrera	Q104371	Arsende  de Cabrera	unknown		REVIEW	no Wikidata ID for Arsende de Cabrera
+4	Q4617	Q4617	Pedaiah	Q4626	Zebudah	confirmed		REVIEW	Wikidata agrees Pedaiah is a parent of Zebudah
+4	Q4617	Q4626	Zebudah	Q135406	Jehoiakim	confirmed		REVIEW	Wikidata agrees Zebudah is a parent of Jehoiakim
+4	Q4617	Q135406	Jehoiakim	Q135539	Jeconiah	confirmed		REVIEW	Wikidata agrees Jehoiakim is a parent of Jeconiah
+4	Q4617	Q135539	Jeconiah	Q4617	Pedaiah	contradicted		REVIEW	Wikidata records no link between them
 4	Q77782	Q77782	Pinarius	Q78264	Lucius Pinarius	confirmed		REVIEW	Wikidata agrees Pinarius is a parent of Lucius Pinarius
 4	Q77782	Q77955	Lucius Pinarius Scarpus	Q77782	Pinarius	unknown		REVIEW	no Wikidata ID for Lucius Pinarius Scarpus
 4	Q77782	Q78108	Lucius Pinarius Scarpus	Q77955	Lucius Pinarius Scarpus	unknown		REVIEW	no Wikidata ID for Lucius Pinarius Scarpus and Lucius Pinarius Scarpus
@@ -303,6 +286,9 @@ tangle_size	tangle_head	parent	parent_label	child	child_label	wd_verdict	flag	ac
 4	Q161658	Q161777	Dewa Amas Sang Aji Kala	Q161966	Demang Lebar Daun Mangkabumi (Bendahara I)	unknown		REVIEW	no Wikidata ID for Dewa Amas Sang Aji Kala and Demang Lebar Daun Mangkabumi (Bendahara I)
 4	Q161658	Q161966	Demang Lebar Daun Mangkabumi (Bendahara I)	Q162275	Wan Sendari (Radin Ratna Cenderapuri)	unknown		REVIEW	no Wikidata ID for Demang Lebar Daun Mangkabumi (Bendahara I) and Wan Sendari (Radin Ratna Cenderapuri)
 4	Q161658	Q162275	Wan Sendari (Radin Ratna Cenderapuri)	Q161658	Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja	unknown		REVIEW	no Wikidata ID for Wan Sendari (Radin Ratna Cenderapuri) and Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja
+3	Q72798	Q72798	Marcus Livius Drusus	Q73119	Marcus Livius Drusus	confirmed		REVIEW	Wikidata agrees Marcus Livius Drusus is a parent of Marcus Livius Drusus
+3	Q72798	Q72951	Gaius Livius Drusus	Q72798	Marcus Livius Drusus	confirmed		REVIEW	Wikidata agrees Gaius Livius Drusus is a parent of Marcus Livius Drusus
+3	Q72798	Q73119	Marcus Livius Drusus	Q72951	Gaius Livius Drusus	contradicted		REVIEW	Wikidata records no link between them
 3	Q73383	Q73383	Lucius Junius  Brutus	Q73644	C. Junius  Brutus	unknown		REVIEW	no Wikidata ID for Lucius Junius Brutus and C. Junius Brutus
 3	Q73383	Q73518	C. Junius Junius Brutus  Brutus	Q73383	Lucius Junius  Brutus	unknown		REVIEW	no Wikidata ID for C. Junius Junius Brutus Brutus and Lucius Junius Brutus
 3	Q73383	Q73644	C. Junius  Brutus	Q73518	C. Junius Junius Brutus  Brutus	unknown		REVIEW	no Wikidata ID for C. Junius Brutus and C. Junius Junius Brutus Brutus
@@ -317,6 +303,8 @@ tangle_size	tangle_head	parent	parent_label	child	child_label	wd_verdict	flag	ac
 3	Q86607	Q91134	"Abba ""Abbahu""  bar Acha bar Sallah al-Kafri"	Q86617	Shila  Ish Kfar Temarta	unknown		REVIEW	"no Wikidata ID for Abba ""Abbahu"" bar Acha bar Sallah al-Kafri and Shila Ish Kfar Temarta"
 2	Q18066	Q18066	Nagano Norinari	Q32705	長野尚業	inherited		REVIEW	Wikidata itself has Nagano Norinari (Q11654206) as BOTH parent and child of 長野尚業 (Q106814279) — the contradiction is upstream
 2	Q18066	Q32705	長野尚業	Q18066	Nagano Norinari	inherited		REVIEW	Wikidata itself has 長野尚業 (Q106814279) as BOTH parent and child of Nagano Norinari (Q11654206) — the contradiction is upstream
+2	Q29144	Q29144	kay uyarsh  Raja Iran	Q29148	kay pisan  Raja Iran	unknown		REVIEW	no Wikidata ID for kay uyarsh Raja Iran and kay pisan Raja Iran
+2	Q29144	Q29148	kay pisan  Raja Iran	Q29144	kay uyarsh  Raja Iran	unknown		REVIEW	no Wikidata ID for kay pisan Raja Iran and kay uyarsh Raja Iran
 2	Q73530	Q73530	Marcus Flaccus	Q73653	Cassus Curvus	unknown		REVIEW	no Wikidata ID for Marcus Flaccus and Cassus Curvus
 2	Q73530	Q73653	Cassus Curvus	Q73530	Marcus Flaccus	unknown		REVIEW	no Wikidata ID for Cassus Curvus and Marcus Flaccus
 2	Q88454	Q88454	Esther  bat Sahlan ben Abraham	Q90982	Esther  bat Yosef ben 'Amram haDayyan al-Sijilma	unknown		REVIEW	no Wikidata ID for Esther bat Sahlan ben Abraham and Esther bat Yosef ben 'Amram haDayyan al-Sijilma

@@ -4,6 +4,38 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Merged six empty shells out of the tangles. 291 records in a cycle -> 285.**
+
+  The `PHANTOM-PARENT` hits from yesterday's signal. Each loser is a shell: no label, no
+  description, and exactly one claim type (`P39`, same two values and byte-identical hashes
+  across all six). They exist in `edges.tsv` only because other records name them in `P20`
+  -- the one-sided-edge defect -- and each sits in a tangle recorded in the *same* parental
+  role as a real person for the same child.
+
+  **My first verification test was wrong and would have blocked half the work.** I checked
+  "are the parents identical", and three of six failed. The right test is **subset**: is the
+  shell's edge set wholly contained in the real record's? All six pass that, so merging adds
+  no edge and only removes a duplicate node. The extra parents the real records carried
+  turned out to be *other shells* -- one import made shells, a second made real records, and
+  the real ones picked up shell-parents on the way.
+
+  `Q52709` was the one with positive identification rather than mere structure: no label,
+  but its aliases include "kay uyarsh Raja Iran", which is exactly `Q29144`'s label.
+
+  Gates: **records in a tangle 291 -> 285**, the six departures being exactly the six
+  merged-away shells, 0 newly tangled, tangle count and largest unchanged;
+  `children_over_2_parents` **1215 -> 1209**; `compare_depth` PASS, worst loss 3 -- the
+  tangle-shrink arithmetic, not amputation.
+
+  **Corrected the classifier to agree with what I actually did.** It called `Q52709` a
+  phantom while I merged it as a duplicate on the strength of its aliases. Aliases are
+  identifying content, so `substance()` now counts them. Leaving the two disagreeing would
+  have meant shipping a rule I knew mislabelled a case I had just acted on.
+
+  **Not fixed, and not caused by this:** `Q29144` and `Q29148` are recorded as each other's
+  parent -- a real mutual-parenthood 2-cycle among the Persian records, independent of the
+  shells. `fix_mutual_parent_pairs.py` exists for that shape.
+
 - **Built the same-role parent signal. My first version of the rule was wrong, and
   hand-checking its six hits is the only reason it did not ship.**
 
