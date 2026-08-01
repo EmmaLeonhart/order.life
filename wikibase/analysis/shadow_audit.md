@@ -9,7 +9,7 @@ or fails to exist, because of a filename.
 
 ## Scale
 
-- items read: **164,455**
+- items read: **164,456**
 - distinct qids: **107,028**
 - qids claimed by more than one file: **39,522**
 - of those, qids where the files DISAGREE on parents/children: **0**
