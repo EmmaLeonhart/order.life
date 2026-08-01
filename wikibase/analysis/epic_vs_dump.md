@@ -48,6 +48,17 @@ claims phrased without any of those words.
 
 ## Finding 1 — The Noah node is labelled with a Sumerian king's name, and it is load-bearing
 
+> **SUPERSEDED 2026-07-31 by Emma's decision: this is deliberate euhemerism, not a data
+> error.** *"the mesopotamian ones is completely intentional euhemerism"*. The nine records
+> keep their Mesopotamian royal labels. **The relabel this finding recommends — Q70439 to
+> Noah, Q70454 to Eber — is dead and must not be executed**; doing so would delete the
+> euhemerism. Every "DATA ERROR" verdict below that rests on Finding 1 is withdrawn: where
+> a chapter says "descendant of Noah" and the dump says `Shu-Ilishu`, the dump is right and
+> the two are the same figure by intent. See `patriarch_overlay.md`. What survives from
+> this finding is the *mapping* — which record is which patriarch — which is exactly what
+> makes the euhemerism legible.
+
+
 **This is the largest thing the sweep found, and it was not what the sweep was looking for.**
 
 Chapter 132 ("Noah and the Crossing", L26884–26910) names the antediluvian line
@@ -96,17 +107,19 @@ missing but because the node is wearing the wrong name.
 > mislabelled records but **nine, forming one continuous chain** — the whole of Genesis 11
 > with every patriarch in the direct line renamed to a Mesopotamian ruler, while their
 > children keep their biblical names. See **`wikibase/analysis/patriarch_overlay.md`**.
-> The recommendation below (relabel Q70439 and Q70454) is still right and is now known to
-> be incomplete: relabelling two of nine leaves the chain half-converted. That report also
-> raises the possibility that the overlay is deliberate euhemerism rather than corruption,
-> which would mean not relabelling at all. **Do not act on the paragraph below on its own.**
+> **RESOLVED 2026-07-31: it is deliberate euhemerism. Emma decided it and the relabel is
+> dead.** The paragraph below is kept as the record of what was originally proposed.
+> **Do not execute it.** Relabelling Q70439 or Q70454 would delete the identification the
+> genealogy is making.
 
 Originally recommended: relabel Q70439 to Noah and repoint its `wikidata_qid` at Wikidata's
 Noah item — **look that identifier up before applying; this report does not assert it** —
 then merge or retire Q99058, and relabel Q70454 to Eber.
-**Do not apply before Emma approves** — Q70439 also carries a spurious third parent
-(`Ilushu` Q70436 alongside Lamech and Bat-Enosh), so it is already on the multi-parent
-worklist and the two fixes should land together.
+**Emma decided: do not apply, ever.** The relabel is withdrawn. Q70439's spurious third
+parent (`Ilushu` Q70436 alongside Lamech and Bat-Enosh) is a **separate and still-live**
+defect — it is a genuine multi-parent error and survives the euhemerism decision intact,
+because it is about parentage, not naming. Fix it on its own, and do not let it drag the
+dead relabel along with it.
 
 ---
 
@@ -286,8 +299,9 @@ dump records no birth order and gives Jesse seven sons against the Bible's eight
 
 1. **`Shu-Ilishu` (Q70439) has three parents** — Lamech, `Ilushu` (Q70436) and `Bat-Enosh`
    (Q70475). Bat-Enosh is the traditional name of Lamech's wife, so father + mother are
-   right and `Ilushu` is spurious. Belongs to the 1,230 multi-parent worklist; fix it with
-   the Finding 1 relabel.
+   right and `Ilushu` is spurious. Belongs to the 1,230 multi-parent worklist. **Fix it on
+   its own** — the Finding 1 relabel it was to have landed with is withdrawn (deliberate
+   euhemerism, Emma 2026-07-31). This parent defect is unaffected and still live.
 2. **Dinah is duplicated** as Jacob's child — `Dinah` (Q129439) and `Dinah daughter of
    Jacob` (Q70568). Jacob shows 14 children where the verse says 12 sons; 12 sons + Dinah +
    duplicate Dinah = 14. The verse is right.
@@ -306,7 +320,7 @@ dump records no birth order and gives Jesse seven sons against the Bible's eight
 
 | # | Chapter | Decision | Recommendation |
 |---|---|---|---|
-| 1 | 132, 185, 191 | The Noah node: relabel Q70439 → Noah and Q70454 → Eber, or rewrite every "descendant of Noah" line | **Dump.** The edges are already right; only the names are wrong |
+| 1 | 132, 185, 191 | ~~The Noah node relabel~~ — **WITHDRAWN 2026-07-31: deliberate euhemerism, Emma's decision.** Neither side moves | **Neither.** The edges are right, and so are the names. `Shu-Ilishu` *is* Noah, on purpose |
 | 2 | 190 | Jimmu ← Amaterasu: repoint `parent(Hoori Q6460)` from Q70230 to Ninigi Q6483 | **Dump.** One edge restores the whole descent |
 | 3 | 190 | "Jimmu's great-grandmother was Toyotamahime" | **Prose.** She is his grandmother, in the myth and in the dump |
 | 4 | 181 | Heo Hwang-ok "bore him ten sons" and "two took her surname" | **Emma.** Data-side fix means inventing nine named sons; prose-side fix means dropping a Garakguk-gi detail |

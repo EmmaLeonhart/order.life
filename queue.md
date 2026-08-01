@@ -280,10 +280,14 @@ filler" verdict are withdrawn.
 2. `wikibase/analysis/epic_vs_dump.md` — eight rows in "which side moves". The one that
    needs Emma most: chapter 181's "bore him ten sons", where the data fix means inventing
    nine named sons and the prose fix means dropping a Garakguk-gi detail.
-3. `wikibase/analysis/patriarch_overlay.md` — **the biggest open question in the dump.**
-   Is the Genesis 11 line under Mesopotamian royal names a corrupt import (relabel all
-   nine) or deliberate euhemerism (change nothing, add a note)? The two fixes are
-   opposites. Everything under the Table of Nations depends on it.
+3. ~~`wikibase/analysis/patriarch_overlay.md`~~ — **DECIDED 2026-07-31 by Emma: deliberate
+   euhemerism. "the mesopotamian ones is completely intentional euhemerism".** The nine
+   records keep their Mesopotamian royal labels; the fix is *none*. **The relabel proposal
+   is dead — do not execute it, and do not re-open this.** It should never have been listed
+   as open: `CLAUDE.md` has named it a confirmed-deliberate import since 2026-07-30 and
+   this queue kept asking anyway. Emma had recorded the decision repeatedly. Details in
+   `patriarch_overlay.md`. Still open and unaffected: the position-only rows (`Naram-Ilum`,
+   `Shu-Sin`) and the `Kanʿān` generation error, which are structural, not naming.
 4. `wikibase/analysis/adnan_merge_proposed.md` — decide **R1** (cut the Emesene splice at
    `Fihr born of Iamblichus`) *before* **M3** (which of the three Adnan records survives).
    The order matters; M3 is not decidable on its own.

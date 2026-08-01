@@ -4,6 +4,45 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-07-31
 
+- **Emma decided the patriarch overlay: deliberate euhemerism. The relabel is dead.**
+
+  > "the mesopotamian ones is completely intentional euhemerism I edited the notion
+  > document several times to say it was"
+
+  The Genesis 11 line under Mesopotamian royal names — `Shu-Ilishu` as Noah, `Puzur-Ashur`
+  as Shem, nine records in one continuous chain — is intentional. **Fix: none.** The
+  records keep their labels.
+
+  This was the single largest open question in the dump and it should never have been open.
+  `CLAUDE.md` has listed it as a confirmed-deliberate import since 2026-07-30, under the
+  standing rule that *everything surprising that is not an error was imported deliberately
+  by Emma; surprising is not evidence of broken.* The rule was written down and then not
+  applied to the case it names. Emma had recorded the decision repeatedly and it kept
+  coming back as a question.
+
+  Withdrawn everywhere it was still live, because a stale recommendation is one work-loop
+  tick away from being executed:
+  - `patriarch_overlay.md` — decision recorded at the top; the three readings kept below as
+    the record of how it was decided.
+  - `epic_vs_dump.md` **Finding 1** — supersession notice; the "relabel Q70439 to Noah,
+    Q70454 to Eber" recommendation marked dead in all four places it appeared, including
+    the summary table row and the second banner that still called it "still right".
+  - `HANDOFF.md` open question 3, `queue.md` AWAITING EMMA item 3.
+
+  **Every "DATA ERROR" verdict resting on Finding 1 is withdrawn.** Where a chapter says
+  "descendant of Noah" and the dump says `Shu-Ilishu`, the dump is right and they are the
+  same figure by intent — the prose and the data agree on the person and disagree on the
+  name, which is the euhemerism working rather than a defect.
+
+  **Deliberately kept live**, because they survive the decision and are about parentage and
+  position rather than naming: `Q70439`'s spurious third parent `Ilushu` (a real
+  multi-parent error, now explicitly decoupled from the dead relabel it was to have landed
+  with); the position-only rows `Naram-Ilum` and `Shu-Sin`; and `Kanʿān` recorded as Noah's
+  son rather than grandson.
+
+- **`shadow_audit` refreshed — 0 disagreements dump-wide**, current as of both of today's
+  merges. The status report flagged the previous figure as stale rather than quoting it.
+
 - **Merged `Q72615`/`Q72693` "Quintus Aemilius Lepidus"; my own depth gate cried wolf and I
   fixed the gate, not the threshold.**
 

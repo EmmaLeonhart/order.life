@@ -85,15 +85,47 @@ figure is open, and is part of the queued Banu Adnan item.
 
 - **`epic_vs_dump.md` Finding 1 understated the scope.** It reported two mislabelled
   records. It is nine, and they form one continuous chain.
-- The recommendation there — relabel Q70439 to Noah, Q70454 to Eber — is **still right but
-  incomplete**. Relabelling two of nine leaves the chain half-Mesopotamian and arguably
-  worse than leaving it alone.
-- Every chapter claim of the form "descendant of Noah" or "son of Eber" fails for the same
-  single reason, and all of them are fixed by one decision.
+- The recommendation there — relabel Q70439 to Noah, Q70454 to Eber — is **dead as of
+  Emma's 2026-07-31 decision.** It was wrong in direction, not just incomplete: relabelling
+  any of the nine deletes the euhemerism. `epic_vs_dump.md` Finding 1 now carries the
+  supersession notice.
+- Every chapter claim of the form "descendant of Noah" or "son of Eber" was marked a DATA
+  ERROR for the same single reason, and **all of them are withdrawn by the one decision**:
+  the dump is right, `Shu-Ilishu` *is* Noah, and the prose and the data agree on the person
+  even though they disagree on the name. That disagreement is the euhemerism working.
 
 ---
 
-## The decision, which is not mine
+## DECIDED 2026-07-31 by Emma: reading 2, deliberate euhemerism. Nothing is relabelled.
+
+> "the mesopotamian ones is completely intentional euhemerism"
+
+**Fix: none. The nine records keep their Mesopotamian royal labels.** This is not an import
+corruption and must not be repaired as one. Rows 1-8 below stay exactly as they are; the
+identification of each patriarch with a specific historical Mesopotamian ruler -- Noah as
+Shu-Ilishu of Isin, Shem as Puzur-Ashur of Assur -- is the point, and it is the same
+deflationary move `mediterranean_connections_to_find.md` describes: showing continuity
+where traditions are usually treated as separate.
+
+**The relabel set in reading 1 below is now dead. Do not execute it.** Any future report
+proposing to restore biblical names to rows 1-8 is proposing to delete the euhemerism.
+
+Emma notes she had recorded this decision several times already and it kept coming back as
+an open question. It should not have been open: **`CLAUDE.md` has listed "the Genesis 11
+patriarchs recorded under Mesopotamian royal names" as a confirmed-deliberate import since
+2026-07-30**, and this file and `queue.md` went on asking anyway. The rule in `CLAUDE.md`
+covers exactly this -- *everything surprising that is not an error was imported
+deliberately by Emma; surprising is not evidence of broken* -- and it was not applied.
+
+**Still genuinely open, and unaffected by this decision:** the three rows under "Not
+decided by the edges" below, which are position-only identifications and generation errors,
+not naming questions. Row 4 `Naram-Ilum` sits in a dump holding the Septuagint and Masoretic
+orders simultaneously; `Kanʿān` is recorded as Noah's son rather than grandson. Those are
+structural and survive reading 2 intact.
+
+---
+
+## The original three readings, kept as the record of how it was decided
 
 **This may not be an error at all.** Three readings fit the evidence equally:
 
@@ -107,7 +139,7 @@ figure is open, and is part of the queued Banu Adnan item.
    renaming Noah. Fix: none; add a note recording the intent.
 3. **Both.** A deliberate identification that later imports then corrupted.
 
-**Reading 2 is the one I would bet on**, because of the spouses. A merge that renamed Noah
+**Reading 2 is the one I would bet on** (and it is the one Emma confirmed), because of the spouses. A merge that renamed Noah
 to Shu-Ilishu would have no reason to give Shu-Ilishu the wives of Noah. But the evidence
 does not settle it, and the fix differs completely between readings 1 and 2, so **this goes
 to Emma undecided.** Nothing is applied either way.

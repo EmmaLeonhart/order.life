@@ -45,10 +45,12 @@ graph changing. Trust `check_invariants.py` (strongly-connected components), not
    does not. Is Q73167 a third Cato duplicate, his father, or his son Licinianus?
 2. **Q74698's label.** Currently `Uranus`, taken from the record's own aliases
    (`['Uranus', 'Caelus', 'Tros', 'Ouranos - - Uranos Caelus']`). Caelus? Ouranos?
-3. **The patriarch overlay.** All of Genesis 11 sits under Mesopotamian royal names —
-   `Shu-Ilishu` is Noah, `Puzur-Ashur` is Shem, and so on. Corrupt import (relabel nine) or
-   deliberate euhemerism (change nothing)? The two fixes are opposites. See
-   `wikibase/analysis/patriarch_overlay.md`.
+3. ~~**The patriarch overlay.**~~ **ANSWERED 2026-07-31 by Emma: deliberate euhemerism.**
+   All of Genesis 11 sits under Mesopotamian royal names — `Shu-Ilishu` is Noah,
+   `Puzur-Ashur` is Shem — **and that is intentional. Change nothing; the relabel is dead.**
+   See `wikibase/analysis/patriarch_overlay.md`. Note this was already covered by
+   `CLAUDE.md`'s standing rule that surprising is not evidence of broken; it should not have
+   been carried as an open question.
 4. **9 dead Wikidata ids** — you chose "find replacements first", which needs live Wikidata
    lookups. Not started.
 
