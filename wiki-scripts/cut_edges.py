@@ -128,6 +128,25 @@ CUTS = {
     # her mother and himself -- the cycle counting itself -- while keeping all 5,095 real
     # ancestors through Hug III. Q32705 goes 2 -> 0 as described. No gateway anywhere near
     # this.
+    # 2026-08-01. The removal half of the Deimachus UNMERGE. Run
+    # `add_bridge_edges.py deimachus-son-of-neleus` FIRST -- that creates Q200002 and gives
+    # it Neleus as a father; this then takes the son-of-Neleus parentage off Q75123, which
+    # keeps the father-of-Enarete identity (Cleon, Idaea, Glaucia, and both copies of
+    # Enarete). Full reasoning in the bridge's comment.
+    #
+    # Not a CUT in the repair-order sense despite living in this file: no relationship is
+    # being denied, both are being attached to the right man. Q133062 Chloris never listed
+    # Q75123 among her children anyway, so that edge was one-sided.
+    #
+    # Measured: 0 records lose their route to Aster, the tangle dissolves, and the 47
+    # ancestors Q75123 sheds move to Q200002 rather than leaving the graph.
+    "deimachus-unmerge": [
+        ("Q131902", "Q75123", "Neleus is the father of the OTHER Deimachus (wd Q1183222), "
+                              "now Q200002 -- this record is wd Q1183226, the father of "
+                              "Enarete, whose father is Q75162 Cleon"),
+        ("Q133062", "Q75123", "Chloris is that same son-of-Neleus's mother, not this "
+                              "record's; she never listed Q75123 as her child"),
+    ],
     # 2026-08-01. Tangle 11 of cycles_review.md, the Theban kings of the Second
     # Intermediate Period. **This cut does NOT dissolve the tangle and is not meant to.**
     # It removes one edge that is positively refuted by an external attestation; the

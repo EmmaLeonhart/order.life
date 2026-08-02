@@ -313,6 +313,7 @@ central command.
    | 21 Olaf Geirstad-Alf | `Q118732` Olaf → `Q136091` Gandalf Alfgeirsson | Gandalf b. **705**; Olaf is the son of Alfhild b. **780**, herself Gandalf's great-granddaughter. And the man's own patronymic is **Alfgeirsson** — his father is Alfgeir | **4** |
    | 25 Marcus Livius Drusus | `Q73119` → `Q72951` Gaius Livius Drusus | `Q73119` carries **two Wikidata ids** and is two men; details below | **10** |
    | 22 Morfudd / Dyddgu (Welsh) | `Q144542` Morfudd → `Q148522` Dyddgu | the other three edges are spelled out by the patronymics and make Dyddgu Morfudd's **great-grandmother**; the mother-claim inverts three generations | **18** |
+   | 13 Gepaepyris | `Q138365` Tib. Julius Cotys I → `Q148022` Rhescuporis I | Wikidata's own description makes `Q2713411` *"Sapean King of Thrace, **48–41 BC**"* while his recorded father `Q2711623` is a *"1st century **AD** Bosporan king"* — a Cotys/Rhescuporis name collision between two dynasties | **5** |
 
    **The Welsh one is now half-repaired and only the cut is left (2026-08-01).** Dyddgu had
    **no father in the dump** — Cadwgan Fottwm, wd `Q112531567`, was simply absent, which is
@@ -395,6 +396,21 @@ central command.
 
    Not guessing Roman prosopography, per item 1. The diagnosis is finished; only the
    ruling is missing.
+
+3. **TWO RESIDUES FROM THE DEIMACHUS UNMERGE — small, precise, and not hidden.**
+   The unmerge landed on 2026-08-01 and dissolved tangle 15, but the existing tools cannot
+   write two of the claims it implies:
+
+   - **`Q200002` has its father `Q131902` Neleus but not its mother `Q133062` Chloris.**
+     `add_bridge_edges.py` writes `P47` only. The claim is true and attested (wd
+     `Q1183222`'s mother is wd `Q28122362` = Chloris) and is simply unrecorded.
+   - **`Q75123` still carries BOTH Wikidata ids**, `Q1183226` *and* `Q1183222`, and
+     `Q200002` carries none. No tool here writes `P61`. **This is a re-merge hazard** —
+     the duplicated id is exactly the signal that found the defect, so leaving it invites a
+     later session to re-merge them.
+
+   Neither is worth a new script on its own; both should go in the next time anything
+   touches `P48`/`P61`.
 
 3. **DUPLICATES SURFACED BY LOOP WORK — real, deliberately not merged.** Every one was
    found while cutting a loop, and in each case the merge would NOT have broken the loop,

@@ -4,6 +4,48 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Tangle 15 dissolved by an UNMERGE — repair-order step 1, the default, and the first
+  one this session.** `Q75123` "Deimachus" carries **two Wikidata ids**, and Wikidata holds
+  them as two separate people four generations apart:
+
+      Q1183222  "Deimachos, son of Neleus"      father Neleus, mother Chloris, no children
+      Q1183226  "Deimachos, Vater der Enarete"  child Enarete, no parents
+
+  Every other edge in that loop is genuine Greek myth and none of them moved. Apollodorus
+  1.7.3 has Aeolus marrying **Enarete, daughter of Deimachus**, and Salmoneus as their son;
+  Tyro is Salmoneus's daughter; Neleus is Tyro's son by Poseidon; and Apollodorus 1.9.9
+  lists **Deimachus among Neleus's twelve sons**. The loop exists purely because the
+  Deimachus at the top and the Deimachus at the bottom are one record.
+
+  Split — `Q200002` takes the son-of-Neleus identity, `Q75123` keeps the father-of-Enarete
+  one with Cleon, Idaea, Glaucia and both copies of Enarete. **0 records lose their route
+  to Aster, the tangle dissolves, and the 47 ancestors `Q75123` sheds are not destroyed:
+  they move to `Q200002`, which lands at 190.** That is what an unmerge is supposed to look
+  like, and it is the difference between this and the five cuts parked on Emma's ruling.
+
+  **Two residues, named in queue.md rather than left to be found.** The tools write `P47`
+  and `P20` only, so `Q200002` has its father but not its mother Chloris; and nothing here
+  writes `P61`, so `Q75123` still carries *both* Wikidata ids while `Q200002` carries none.
+  The second is a re-merge hazard — the duplicated id is the very signal that found the
+  defect.
+
+- **Gepaepyris is the fifth inversion case, and Wikidata states the contradiction outright.**
+  `Q2713411` Rhescuporis I is described there as *"Sapean King of Thrace, **48–41 BC**"* and
+  its recorded father `Q2711623` is *"1st century **AD** Roman client king of the Bosporan
+  Kingdom"* — the two dynasties both used Cotys and Rhescuporis, and the collision hangs the
+  earlier Thracian line under its own descendant. The dump's dates agree once read as BC
+  magnitudes: Rhescuporis I 100/60, Rhoemetalces I 50/12, Cotys III 1/19, Gepaepyris b. 50.
+  Cutting it costs **5 records** their route to Aster — the whole Sapaean chain, whose only
+  route ran backwards through Gepaepyris and up through her mother Antonia Tryphaena. Parked
+  with the other four.
+
+- **A sharp illustration that cheapness points the wrong way.** The triage says this tangle
+  *does* have a cut that is free and dissolves it: `Q139511` Cotys III → `Q138363`
+  Gepaepyris. That is the **true** edge — Gepaepyris is Cotys III's daughter, confirmed on
+  both sides on Wikidata. It comes out free precisely because leaving the false edge in
+  place preserves everyone's route. **Never pick a cut by cost.**
+
+
 - **Analysis refreshed: `cycles_review.md` now reads 27 tangles / 254 records**, matching
   `check_invariants` and the dump. It had been stale at 30/274 since 18:14 and that is the
   file the hub publishes, so the board was showing four repairs that had already landed.

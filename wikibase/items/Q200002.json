@@ -1,0 +1,39 @@
+{
+ "type": "item",
+ "id": "Q200002",
+ "labels": {
+  "en": {
+   "language": "en",
+   "value": "Deimachus"
+  }
+ },
+ "aliases": {
+  "en": [
+   {
+    "language": "en",
+    "value": "Deimachus son of Neleus"
+   }
+  ]
+ },
+ "descriptions": {},
+ "claims": {
+  "P47": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q131902",
+       "numeric-id": 131902
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ]
+ }
+}

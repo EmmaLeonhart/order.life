@@ -70,6 +70,61 @@ BRIDGES = {
             ("Q153230", "Q53399", "A1: Rashid al-Din -- Khaidu is the son of Dutum Menen"),
         ],
     },
+    # 2026-08-01. Tangle 15 of cycles_review.md, Deimachus -- an UNMERGE, repair-order
+    # step 1, and the half of it that ADDS. The matching removals are cut_edges.py's
+    # "deimachus-unmerge". Run this bridge FIRST, then that cut.
+    #
+    # Q75123 carries **two Wikidata ids**, and Wikidata holds them as two separate people:
+    #
+    #   Q1183222  "Deimachos, **son of Neleus**"   father Q637955 Neleus,
+    #                                              mother Q28122362 Chloris, NO children
+    #   Q1183226  "Deimachos, **Vater der Enarete**"  child Q48665 Enarete, NO parents
+    #
+    # One record is playing both, which is exactly why the loop closes. Every other edge in
+    # it is genuine Greek myth and none of them should move:
+    #   Enarete -> Salmoneus   (Apollodorus 1.7.3: Aeolus married Enarete, daughter of
+    #                           Deimachus; Salmoneus is their son)
+    #   Salmoneus -> Tyro      Tyro is Salmoneus's daughter
+    #   Tyro -> Neleus         Neleus is Tyro's son by Poseidon
+    #   Neleus -> Deimachus    Apollodorus 1.9.9 lists Deimachus among Neleus's twelve sons
+    # The loop exists because the Deimachus who is Neleus's SON and the Deimachus who is
+    # Enarete's FATHER -- separated by four generations -- are one record. Split them and
+    # every edge above survives untouched. Nothing is cut but the merge itself.
+    #
+    # The split is fully determined by the dump's own claims:
+    #   son-of-Neleus half   -> father Q131902 Neleus, mother Q133062 Chloris (= wd
+    #                           Q28122362, confirmed), no children
+    #   father-of-Enarete    -> father Q75162 Cleon, mother Q75165 Idaea, spouse Q75120
+    #     half (stays on       Glaucia, children Q132251 Enarete and Q75087 "Enarete,
+    #     Q75123)              Aenarete, Enareta, Aegiale" -- which is a second copy of
+    #                          Enarete, and sits on the same side of the split either way
+    #
+    # Measured before applying: **0 records lose their route to Aster** and the tangle
+    # dissolves. The 47 ancestors Q75123 sheds are not destroyed -- they move to Q200002,
+    # which lands at 190. That is what an unmerge is supposed to look like.
+    #
+    # TWO THINGS THIS TOOL CANNOT DO, named rather than left to be discovered:
+    #   * it writes P47 only, so **Q200002 gets its father Neleus but not its mother
+    #     Chloris**. That true claim is unrecorded until something can write P48.
+    #   * it cannot write P61, so **Q75123 still carries BOTH wd ids** and Q200002 carries
+    #     none. That is the very signal that found this defect, so leaving it is a
+    #     re-merge hazard. Both are logged in queue.md.
+    "deimachus-son-of-neleus": {
+        "create": [
+            {
+                "qid": "Q200002",
+                "label": "Deimachus",
+                "aliases": ["Deimachus son of Neleus"],
+                "note": "created 2026-08-01 by the Deimachus unmerge; wd Q1183222, the "
+                        "son of Neleus, split off from Q75123 which was also holding "
+                        "wd Q1183226, the father of Enarete",
+            },
+        ],
+        "edges": [
+            ("Q131902", "Q200002", "Apollodorus 1.9.9 lists Deimachus among the twelve "
+                                   "sons of Neleus; wd Q1183222's father is wd Q637955"),
+        ],
+    },
     # 2026-08-01. Tangle 22 of cycles_review.md, the Welsh Cynwrig/Tudur pedigree. This is
     # PURELY ADDITIVE and removes NO loop on its own -- it fills the hole that makes the
     # loop's false edge look load-bearing. The cut itself needs Emma's ruling; see queue.md.
