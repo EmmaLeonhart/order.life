@@ -4,6 +4,51 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **Tangle 15 dissolved by an UNMERGE: there are two Pedaiahs in the Bible, three
+  generations apart.**
+
+  Wikidata holds them as two items and the dump had them as one:
+
+      Q20101444  Pedaiah **of Rumah** -- 2 Kings 23:36, "his mother's name was Zebidah
+                 the daughter of Pedaiah of Rumah". Only claim: child Zebudah. NO parents.
+      Q116923358 Pedaiah -- "1 Chronicles 3:18, father of Zerubbabel", listed among
+                 Jeconiah's children.
+
+  `Q4617` carried both — father Jeconiah from the Chronicles man, daughter Zebudah from the
+  Rumah man — and that is precisely why the ring closed: Pedaiah → Zebudah → Jehoiakim →
+  Jeconiah → Pedaiah. The record's own alias is "**Pediah of Rumah**" and its Wikidata id
+  is `Q20101444`, so it keeps the Rumah identity and `Q200003` takes the Chronicles one.
+
+  **Nothing leaves the graph**: the 510 ancestors `Q4617` sheds move to `Q200003`, the man
+  they belong to. Jehoiakim keeps 499 and his route to Aster through his father Josiah,
+  which is the Davidic line and the one that matters.
+
+  **Two records end off-Aster — Pedaiah of Rumah and his daughter Zebudah — and I want to
+  be precise about why that is acceptable here when six similar cases are parked.** The
+  test is whether the record left rootless has a recorded parent *anywhere*. Wikidata gives
+  `Q20101444` no father and no mother; Zebudah is a king's mother by marriage, not a
+  Davidic descendant. Ending with no parent is the sources' own position. In the six parked
+  cases — Drusus, Gepaepyris, Crassus and the rest — the rootless record **does** have a
+  recorded parent that the dump simply cannot route to Aster, which is a different problem
+  and still Emma's call.
+
+- **Tangle 8, the eight Servilii: investigated and deliberately left, because there is no
+  evidence in it.** A closed 8-cycle where **not one record carries a Wikidata id, a date,
+  or a cognomen** — three "Gaius Servilius", two "Quintus", one each "Publius" and
+  "Gnaeus", and one bare "Servilius". Seven ancestors, all of them each other; no route to
+  Aster; nothing enters from above. A placeholder chain linking two real groups, with its
+  ends joined.
+
+  The two branch points are the only evidence anywhere in it, and they are real: `Q73170`'s
+  other line reaches **Publius Servilius Vatia Isauricus, 120–44 BC**, and `Q73910`'s
+  reaches **the Anicii, 185–408 AD**. `Q73170` sits two generations above `Q73910`, which
+  puts Republican above Imperial — correct — so the cut **cannot** be `Q73170` → `Q73985`
+  or `Q73985` → `Q73910`. That rules out two edges and leaves six, and nothing separates
+  those six. All eight are free and all eight dissolve the ring, which is exactly the trap:
+  cost says nothing here. Queue item 6, needing a Servilian stemma or a decision to
+  collapse the chain.
+
+
 - **Tangle 14 dissolved: a duplicated countess hung under a man who died ninety years
   after her husband.**
 

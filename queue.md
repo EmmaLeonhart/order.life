@@ -429,6 +429,9 @@ central command.
      son Ermengol VII. `Q104371` "Arsende de Cabrera" carries **no wd id** and the *same*
      husband and son. The loop it sat in was cut instead, because merging would not have
      broken it — the survivor keeps the false father-claim either way.
+   - **Zebudah, twice (2026-08-02).** `Q4626` and `Q60222` share the label, the Wikidata
+     id `Q30527376`, both fathers, and both sons. Surfaced by the Pedaiah unmerge; both sit
+     on the same side of that split, so it did not need deciding.
    - **The Shila pair.** `Q86617` and `Q91224` are both "Shila Ish Kfar Temarta" and both
      recorded as the father of `Q86607` Acha. `Q86589` / `Q91134` is the same story one
      generation down, both "Abba 'Abbahu' bar Acha bar Sallah al-Kafri", both children of
@@ -486,7 +489,36 @@ central command.
    cheap cut: `Q138061` → `Q138810` is free and dissolves the tangle, which says nothing
    about whether it is the true edge.
 
-6. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
+6. **THE EIGHT SERVILII — an eight-record ring with no evidence in it at all.**
+   Tangle 8, investigated 2026-08-02 and **not** acted on.
+
+   Eight records, each with exactly one father and one in-ring child, forming a closed
+   8-cycle: `Q73170` → `Q73985` → `Q73910` → `Q73812` → `Q73710` → `Q73599` → `Q73479` →
+   `Q73332` → `Q73170`. **Not one carries a Wikidata id, a date, or a cognomen** — they are
+   "Gaius Servilius" ×3, "Quintus Servilius" ×2, "Publius Servilius", "Gnaeus Servilius",
+   and one bare "Servilius". The component has **7 ancestors — the other seven members —
+   and does not reach Aster**, so nothing enters it from above. It exists only to link two
+   real Servilian groups, and its ends have been joined.
+
+   **What the two branch points do tell us.** Only two members have children outside the
+   ring, and their descendants are datable:
+   - `Q73170` → `Q73008` Marcus Servilius, whose line reaches **Publius Servilius Vatia
+     Isauricus, 120–44 BC** (wd `Q392647`) — Republican.
+   - `Q73910` → `Q78378` Gaius Servilius, whose line reaches **Claudia Acilia (185–215 AD)
+     and the Anicii, down to Anicius Auchenius Bassus (350–408)** — late Imperial.
+
+   In the ring `Q73170` sits two generations above `Q73910`, which puts the Republican
+   branch above the Imperial one — chronologically right. **So the cut cannot fall on
+   `Q73170` → `Q73985` or `Q73985` → `Q73910`**, which would invert that. That rules out
+   two of the eight edges and leaves six, and **nothing available distinguishes those
+   six.**
+
+   Do not pick one by cost — all eight are free and all eight dissolve the ring. This needs
+   a Servilian stemma (Münzer, *Römische Adelsparteien*, or the RE) or Emma's decision to
+   collapse the placeholder chain entirely under repair-order step 4, which is the one case
+   in the queue where "nothing substantial above it" is literally true.
+
+7. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
    `Q88454` "Esther bat Sahlan ben Abraham" and `Q90982` "Esther bat Yosef ben 'Amram
    haDayyan al-Sijilmasi" are recorded as **each other's mother**. One of the two edges is
    false. Both readings are naming-consistent:
@@ -542,7 +574,7 @@ central command.
    that does not exist. It still repairs 0 of 5 — every remaining pair genuinely lacks
    direction evidence, which is the correct answer, not a failure.
 
-7. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
+8. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
    Generated 2026-08-01 by `wiki-scripts/same_role_parents.py`. One child has one father
    and one mother, so **every row is a defect**: either the pair is one person recorded
    twice, or one of the two edges is false.
@@ -596,7 +628,7 @@ central command.
    duplicate there is real, but the naming conventions and what counts as evidence are
    different — do not apply prosopography reasoning to a clade.
 
-8. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
+9. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
    `Q66385` "Imaam 'Udd \ Add Ben Add Ben ?'Udadh", `Q66394` "Udd son of Umaisi", and
    `Q86503` "Nabhan Banu Ismail" (the last acquired in the M3 merge). At most one is right.
 
@@ -615,7 +647,7 @@ central command.
    children of `Q67561` — and `Q67552` is flagged `COLLAPSE` against `Q67561`, so those two
    must not be merged either.
 
-9. **Work the remaining cycles under the repair order above.** Start from
+10. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
    34 are `REVIEW`: no Wikidata evidence decides them, mostly because "contradicted" there
    means *Wikidata records no link*, which is an absence and not a refutation. Unmerge
@@ -625,7 +657,7 @@ central command.
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-10. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
+11. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
    **97.1%** of edges are declared on both sides; **3,762** are one-sided. (The older
    96.3% / 4,723 figures were inflated — the scan compared raw qids without canonicalising
    through `redirects.tsv`, and 961 were never a defect.)
@@ -673,7 +705,7 @@ central command.
    Decide per record whether the missing side should be added or the present side removed;
    do NOT blanket-add, since some one-sided edges are deletions that only got half done.
 
-11. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
+12. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
    have no item file, yet 219 edges reference them and they hold 200+ recorded
    relationships between them. They are holes in the dump where the surrounding family
    survived. Creating them is one `add_bridge_edges.py`-style operation each; deciding

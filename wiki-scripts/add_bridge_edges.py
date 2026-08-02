@@ -70,6 +70,58 @@ BRIDGES = {
             ("Q153230", "Q53399", "A1: Rashid al-Din -- Khaidu is the son of Dutum Menen"),
         ],
     },
+    # 2026-08-02. Tangle 15 of cycles_review.md, Pedaiah -- an UNMERGE of two biblical
+    # figures who share a name. The matching removal is cut_edges.py's "pedaiah-unmerge";
+    # run this bridge FIRST.
+    #
+    # The Hebrew Bible has two Pedaiahs three generations apart, and Wikidata holds them
+    # as two items:
+    #   Q20101444  Pedaiah **of Rumah** -- 2 Kings 23:36, "his mother's name was Zebidah
+    #              the daughter of Pedaiah of Rumah". Its ONLY claim is child Q30527376
+    #              Zebudah. **No father, no mother.**
+    #   Q116923358 Pedaiah -- described there as "biblical figure in **1 Chronicles 3:18,
+    #              father of Zerubbabel**", and listed among Q319049 Jeconiah's children.
+    #
+    # The dump's Q4617 is both at once, which is exactly why the ring closes:
+    #   father  Q135539 Jeconiah      -> the 1 Chronicles man
+    #   children Q4626 + Q60222 Zebudah -> the Rumah man
+    # and the loop runs Pedaiah -> Zebudah -> Jehoiakim -> Jeconiah -> Pedaiah. Q4617's own
+    # alias is "**Pediah of Rumah**" and its wd id is Q20101444, so the record keeps the
+    # Rumah identity and the Chronicles one moves out. (Both its children are Zebudah --
+    # Q60222 duplicates Q4626, same wd id, same two sons. That duplicate is logged in
+    # queue.md; it sits on the same side of the split either way.)
+    #
+    # Measured before applying: the tangle dissolves and **nothing leaves the graph** --
+    # the 510 ancestors Q4617 sheds move to Q200003, the man they belong to. Jehoiakim
+    # keeps 499 and his route to Aster through his father Josiah, which is the Davidic line
+    # and the one that matters.
+    #
+    # TWO RECORDS END OFF-ASTER: Q4617 Pedaiah of Rumah and his daughter Q4626 Zebudah.
+    # That is the sources' own position rather than a loss -- **Wikidata records no parent
+    # of any kind for Q20101444**, and Zebudah is a king's mother by marriage, not a
+    # Davidic descendant. This is the test that separates it from the six cases parked on
+    # Emma's ruling in queue.md: there, the record left rootless HAS a recorded parent that
+    # the dump simply cannot route to Aster; here there is no parent to record.
+    #
+    # This tool cannot write P61, so Q200003 does not carry wd Q116923358 and Q4617 keeps
+    # Q20101444 (correctly, as the Rumah man). Logged with the Deimachus residue.
+    "pedaiah-of-chronicles": {
+        "create": [
+            {
+                "qid": "Q200003",
+                "label": "Pedaiah",
+                "aliases": ["Pedaiah son of Jeconiah", "Pedaiah (1 Chronicles 3:18)"],
+                "note": "created 2026-08-02 by the Pedaiah unmerge; wd Q116923358, the son "
+                        "of Jeconiah and father of Zerubbabel, split off from Q4617 which "
+                        "is wd Q20101444, Pedaiah of Rumah",
+            },
+        ],
+        "edges": [
+            ("Q135539", "Q200003", "1 Chronicles 3:17-18 lists Pedaiah among the sons of "
+                                   "Jeconiah; Wikidata has Q116923358 among Q319049's "
+                                   "children"),
+        ],
+    },
     # 2026-08-01. Tangle 15 of cycles_review.md, Deimachus -- an UNMERGE, repair-order
     # step 1, and the half of it that ADDS. The matching removals are cut_edges.py's
     # "deimachus-unmerge". Run this bridge FIRST, then that cut.

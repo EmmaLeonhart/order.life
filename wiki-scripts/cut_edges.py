@@ -147,6 +147,17 @@ CUTS = {
         ("Q133062", "Q75123", "Chloris is that same son-of-Neleus's mother, not this "
                               "record's; she never listed Q75123 as her child"),
     ],
+    # 2026-08-02. The removal half of the Pedaiah UNMERGE. Run
+    # `add_bridge_edges.py pedaiah-of-chronicles` FIRST. Full reasoning there.
+    #
+    # Not a CUT in the repair-order sense: no relationship is denied. Jeconiah keeps his
+    # son Pedaiah, who is now Q200003; Q4617 keeps the Rumah identity its own alias and
+    # Wikidata id already carry, and Wikidata gives that man no parent at all.
+    "pedaiah-unmerge": [
+        ("Q135539", "Q4617", "Jeconiah is the father of the OTHER Pedaiah, wd Q116923358, "
+                             "now Q200003 -- this record is wd Q20101444, Pedaiah of "
+                             "Rumah, whose only recorded relation is his daughter Zebudah"),
+    ],
     # 2026-08-02. Tangle 14 of cycles_review.md, Cabrera/Urgell -- a duplicated countess
     # hung under a man who died ninety years after her husband.
     #

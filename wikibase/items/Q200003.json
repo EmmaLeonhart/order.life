@@ -1,0 +1,43 @@
+{
+ "type": "item",
+ "id": "Q200003",
+ "labels": {
+  "en": {
+   "language": "en",
+   "value": "Pedaiah"
+  }
+ },
+ "aliases": {
+  "en": [
+   {
+    "language": "en",
+    "value": "Pedaiah son of Jeconiah"
+   },
+   {
+    "language": "en",
+    "value": "Pedaiah (1 Chronicles 3:18)"
+   }
+  ]
+ },
+ "descriptions": {},
+ "claims": {
+  "P47": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q135539",
+       "numeric-id": 135539
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ]
+ }
+}

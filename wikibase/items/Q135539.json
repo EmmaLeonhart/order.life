@@ -187,23 +187,20 @@
         "type": "statement"
       },
       {
-        "id": "Q135539$B9A13B18-4719-49C6-8316-0DA0FE326673",
         "mainsnak": {
-          "datatype": "wikibase-item",
+          "snaktype": "value",
+          "property": "P20",
           "datavalue": {
-            "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q4617",
-              "numeric-id": 4617
-            }
-          },
-          "hash": "d78b05ab622c73c8841866bd534b993aa3948c5d",
-          "property": "P20",
-          "snaktype": "value"
+              "id": "Q200003",
+              "numeric-id": 200003
+            },
+            "type": "wikibase-entityid"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ],
     "P39": [
