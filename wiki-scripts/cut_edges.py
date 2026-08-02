@@ -147,6 +147,46 @@ CUTS = {
         ("Q133062", "Q75123", "Chloris is that same son-of-Neleus's mother, not this "
                               "record's; she never listed Q75123 as her child"),
     ],
+    # 2026-08-02. Tangle 13 of cycles_review.md, the Claudii -- five records, and a branch
+    # of the family hung above its own root.
+    #
+    # Wikidata gives a clean three-generation descent, each link stated on both sides:
+    #   Q283141   Appius Claudius Crassus                  = dump Q151743, b.400 d.350
+    #     -> Q657609  Appius Claudius Crassus Inregillensis, cos. 349   = dump Q73970
+    #     -> Q5759141 Gaius Claudius Crassus, dictator 337            = dump Q73887
+    #     -> Q297783  Appius Claudius Caecus, censor 312              = dump Q73782
+    # and **Q657609 has exactly one father there, Q283141** -- which the dump already
+    # holds, as one of Q73970's three recorded fathers.
+    #
+    # Below Caecus the dump continues into the Claudii Nerones, correctly: Caecus's son
+    # Q78812 Tiberius Claudius Nero, then Q78752 Publius Claudius-Nero. The ring closes
+    # because Q78752 is then recorded as the father of Q73970 -- so a man two generations
+    # BELOW Caecus fathers Caecus's own great-grandfather.
+    #
+    # Chronology says the same using the dump's own figures read as BC magnitudes:
+    #   Q151743 400/350 -> Q73970 350/349 -> Q73887 370/337 -> Q73782 341/300
+    #   -> Q78812 -> Q78752 -> back to Q73970, dead in 349.
+    # Caecus died in 300; his grandson cannot father a man who died fifty years earlier.
+    #
+    # Why not UNMERGE: each record here holds one identity, and the three with Wikidata ids
+    # hold one id each. Why not DEDUPE: the Nerones are a real branch, not a copy of the
+    # Crassi. Not a tradition join: Roman throughout.
+    #
+    # Q73970 is NOT left parentless -- he keeps Q151743, which is the father Wikidata gives
+    # him, and Q74091. (That he has three fathers at all is a separate multi-parent defect;
+    # Q74091 looks like a duplicate of Q151743 and is logged in queue.md, not merged here.)
+    #
+    # Measured over edges.tsv before applying: **0 records lose their route to Aster** --
+    # the component does not reach it -- the tangle dissolves, and the distinct ancestors
+    # lost anywhere number **seven**: the five ring members plus the two wives Q73785 and
+    # Q73890. Every one of them is inside the ring. 28,993 records below shed those seven
+    # and nothing else.
+    "claudii-nero-inversion": [
+        ("Q78752", "Q73970", "Publius Claudius-Nero, two generations below Appius Claudius "
+                             "Caecus, recorded as the father of Caecus's great-grandfather "
+                             "-- Wikidata gives Q657609 one father, Q283141, and the dump "
+                             "already holds it as Q151743"),
+    ],
     # 2026-08-02. Tangle 7 of cycles_review.md, Meurig ab Ynyr Gwent -- 11 records, and a
     # THIRD Ynyr that should not exist.
     #

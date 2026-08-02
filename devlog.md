@@ -4,6 +4,43 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **Analysis refreshed: 25 tangles / 238 records**, matching the Tarjan figure I had been
+  reporting against the stale files. `cycles_review.md` and `check_invariants` agree again.
+
+- **Tangle 13 dissolved: the Claudii Nerones were hung above their own root.**
+
+  Wikidata gives a clean three-generation descent, each link stated on both sides —
+  `Q283141` Appius Claudius Crassus (dump `Q151743`) → `Q657609` Appius Claudius Crassus
+  Inregillensis, cos. 349 (dump `Q73970`) → `Q5759141` Gaius Claudius Crassus, dictator 337
+  (dump `Q73887`) → `Q297783` Appius Claudius Caecus, censor 312 (dump `Q73782`). **And
+  `Q657609` has exactly one father there, `Q283141`** — which the dump already holds.
+
+  Below Caecus the dump continues correctly into the Claudii Nerones: his son `Q78812`
+  Tiberius Claudius Nero, then `Q78752` Publius Claudius-Nero. The ring closes because
+  `Q78752` is then recorded as the father of `Q73970` — a man two generations *below*
+  Caecus fathering Caecus's own great-grandfather. The dump's own dates read as BC
+  magnitudes say it too: Caecus died in 300, and his grandson cannot father a man who died
+  in 349.
+
+  **0 records lose their route to Aster**, the tangle dissolves, and the distinct ancestors
+  lost anywhere number **seven** — the five ring members plus two wives, every one inside
+  the ring. `Q73970` keeps the father Wikidata gives him.
+
+- **Tangle 10 investigated and deliberately left alone — it is the two-Esthers shape in
+  Welsh.** Six of its seven edges are confirmed by patronymics, and each named father is
+  present in the dump under that name. That leaves exactly two maternal claims, one of
+  which must be false: Joan → Llywelyn Ddû ab Owain, and Lleucu → Rhys ap Llowdden y Gath.
+
+  Both are spouse-consistent, and **Wikidata carries the identical ring with both claims
+  mirrored on both sides**, so it settles nothing. Needs a Welsh pedigree source — Bartrum
+  — not another pass over the dump.
+
+  Worth recording because it nearly went the other way: the cheap-cut triage lists
+  `Q138061` → `Q138810` as free *and* dissolving. It is one of the two candidates, and its
+  cheapness is no evidence at all about which of the two is true. Same trap as Cotys III →
+  Gepaepyris last tick.
+
+
 - **Tangle 7 dissolved: there was a third Ynyr who should not exist.**
 
   Every edge in that eleven-record ring is corroborated on both sides *and* by a spouse

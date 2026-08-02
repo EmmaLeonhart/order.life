@@ -455,7 +455,33 @@ central command.
    expensive — **3 records lose their route to Aster and 31,790 lose ancestry**. Do not
    take it as the cheap way out.
 
-5. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
+5. **THE JOAN / LLYWELYN DDÛ RING — the Esther shape, in Welsh. NEEDS A PEDIGREE SOURCE.**
+   Tangle 10, seven records, investigated 2026-08-02 and **not** acted on.
+
+   Six of the seven edges are confirmed by the patronymics, which in Welsh *are* the
+   pedigree: `Q139043` "Ieuan **ap Rhys**", `Q140643` "Rhys **ap Llowdden** y Gath",
+   `Q140681` "Lleucu **ferch Gruffudd**", `Q139067` "Gruffudd Foethus **ap Llywelyn**",
+   `Q140234` "Llywelyn Foethus **ap Llywelyn Ddû ab Owain**", `Q138061` "Joan **ferch
+   Ieuan ap Rhys ap Llowdden**". Every recorded father is corroborated by a name, and each
+   is present in the dump under that name — `Q137927` really is "Owain", `Q142996` really
+   is "Llowdden y Gath".
+
+   **That leaves exactly two maternal claims, and precisely one of them must be false:**
+
+   - `Q138061` Joan → `Q138810` Llywelyn Ddû ab Owain
+   - `Q140681` Lleucu → `Q140643` Rhys ap Llowdden y Gath
+
+   Both are spouse-consistent — Joan's husband is Owain, Llywelyn Ddû's father; Lleucu's
+   husband is Llowdden, Rhys's father. **And Wikidata carries the identical ring**, both
+   claims mirrored on both sides, so it arbitrates nothing. This is the two-Esthers shape:
+   two readings, each internally coherent, nothing available to separate them.
+
+   Needs a Welsh pedigree source — Bartrum's *Welsh Genealogies AD 300–1400* is the
+   obvious one — not another pass over the dump. **Do not guess it**, and do not take the
+   cheap cut: `Q138061` → `Q138810` is free and dissolves the tangle, which says nothing
+   about whether it is the true edge.
+
+6. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
    `Q88454` "Esther bat Sahlan ben Abraham" and `Q90982` "Esther bat Yosef ben 'Amram
    haDayyan al-Sijilmasi" are recorded as **each other's mother**. One of the two edges is
    false. Both readings are naming-consistent:
@@ -511,7 +537,7 @@ central command.
    that does not exist. It still repairs 0 of 5 — every remaining pair genuinely lacks
    direction evidence, which is the correct answer, not a failure.
 
-6. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
+7. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
    Generated 2026-08-01 by `wiki-scripts/same_role_parents.py`. One child has one father
    and one mother, so **every row is a defect**: either the pair is one person recorded
    twice, or one of the two edges is false.
@@ -565,7 +591,7 @@ central command.
    duplicate there is real, but the naming conventions and what counts as evidence are
    different — do not apply prosopography reasoning to a clade.
 
-7. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
+8. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
    `Q66385` "Imaam 'Udd \ Add Ben Add Ben ?'Udadh", `Q66394` "Udd son of Umaisi", and
    `Q86503` "Nabhan Banu Ismail" (the last acquired in the M3 merge). At most one is right.
 
@@ -584,7 +610,7 @@ central command.
    children of `Q67561` — and `Q67552` is flagged `COLLAPSE` against `Q67561`, so those two
    must not be merged either.
 
-8. **Work the remaining cycles under the repair order above.** Start from
+9. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
    34 are `REVIEW`: no Wikidata evidence decides them, mostly because "contradicted" there
    means *Wikidata records no link*, which is an absence and not a refutation. Unmerge
@@ -594,7 +620,7 @@ central command.
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-9. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
+10. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
    **97.1%** of edges are declared on both sides; **3,762** are one-sided. (The older
    96.3% / 4,723 figures were inflated — the scan compared raw qids without canonicalising
    through `redirects.tsv`, and 961 were never a defect.)
@@ -642,7 +668,7 @@ central command.
    Decide per record whether the missing side should be added or the present side removed;
    do NOT blanket-add, since some one-sided edges are deletions that only got half done.
 
-10. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
+11. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
    have no item file, yet 219 edges reference them and they hold 200+ recorded
    relationships between them. They are holes in the dump where the surrounding family
    survived. Creating them is one `add_bridge_edges.py`-style operation each; deciding

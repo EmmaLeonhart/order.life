@@ -1,6 +1,6 @@
 # Ancestry cycles — every one, with the numbers that decide them
 
-**27 cycles, 254 records caught in one.** Generated from the dump by `wiki-scripts/build_cycles_notion.py`; the source of truth is `wikibase/analysis/cycles_review.md` in the repo and this page is a copy of it.
+**25 cycles, 238 records caught in one.** Generated from the dump by `wiki-scripts/build_cycles_notion.py`; the source of truth is `wikibase/analysis/cycles_review.md` in the repo and this page is a copy of it.
 
 A cycle here means a **strongly connected component** — a set of records where everyone is reachable from everyone else by following parent links, so at least one person is their own ancestor. That is always an error. Which *edge* is the wrong one usually is not obvious, and this document does not decide it.
 
@@ -265,33 +265,7 @@ Shortest loop: `Q160460 -> Q160580 -> Q160673 -> Q160640 -> Q160615 -> Q160596 -
 
 ---
 
-## 7. Meurig ab Ynyr Gwent — 11 records
-
-Shortest loop: `Q136957 -> Q137384 -> Q137899 -> Q137320 -> Q137900 -> Q137878 -> Q137383 -> Q136957`
-
-| qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
-|---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q136957` | Meurig ab Ynyr Gwent | Q110560357 | 1030 | — | **183** | 5,272 | 28 | no |
-| `Q136958` | Elen ferch Ednyfed ab Iorwerth Hir ap Llywarch | Q110560366 | 1045 | — | **183** | 5,272 | 28 | no |
-| `Q136996` | Iorwerth Hir ap Llywarch Gam of Maelor | Q110622211 | — | — | **183** | 5,272 | 28 | no |
-| `Q137320` | Gwerstan ap Gwaithfoed ap Gloddieu ap Gwrhydur | Q110153008 | — | — | **183** | 5,272 | 28 | no |
-| `Q137383` | Nest ferch Gwrgan ab Ithel ab Idwallon | Q110560364 | — | — | **183** | 5,272 | 28 | no |
-| `Q137384` | Ynyr, lord of Gwent | Q110152975 | — | — | **183** | 5,272 | 28 | no |
-| `Q137385` | Ednyfed ab Iorwerth Hir ap Llywarch Gam of Cri | Q110560367 | 1015 | — | **183** | 5,272 | 28 | no |
-| `Q137449` | Lleuki\|Nest ferch Gwerstan ap Gwaithfoed | Q110582810 | — | — | **183** | 5,272 | 28 | no |
-| `Q137878` | NN ferch Cynfyn ap Gwerystan ap Gwaithfoed | Q116052822 | — | — | **183** | 5,272 | 28 | no |
-| `Q137899` | Morfudd ferch Ynir | Q110152973 | — | — | **183** | 5,272 | 28 | no |
-| `Q137900` | Cynfyn ap Gwerstan | Q5199943 | 990 | 1023 | **183** | 5,272 | 28 | no |
-
-**What the data says**
-
-- Recorded births in this cycle: Meurig ab Ynyr Gwent 1030; Elen ferch Ednyfed ab Iorwer 1045; Ednyfed ab Iorwerth Hir ap L 1015; Cynfyn ap Gwerstan 990
-
-**Decision:** _not made — needs Emma_
-
----
-
-## 8. Shaodian — 10 records
+## 7. Shaodian — 10 records
 
 Shortest loop: `Q6421 -> Q87856 -> Q87854 -> Q87852 -> Q87850 -> Q87848 -> Q87846 -> Q87844 -> Q87842 -> Q87840 -> Q6421`
 
@@ -316,7 +290,7 @@ Shortest loop: `Q6421 -> Q87856 -> Q87854 -> Q87852 -> Q87850 -> Q87848 -> Q8784
 
 ---
 
-## 9. Gaius Servilius — 8 records
+## 8. Gaius Servilius — 8 records
 
 Shortest loop: `Q73170 -> Q73985 -> Q73910 -> Q73812 -> Q73710 -> Q73599 -> Q73479 -> Q73332 -> Q73170`
 
@@ -340,7 +314,7 @@ Shortest loop: `Q73170 -> Q73985 -> Q73910 -> Q73812 -> Q73710 -> Q73599 -> Q734
 
 ---
 
-## 10. Sekhemre Sankhtawy Neferhotep III — 7 records
+## 9. Sekhemre Sankhtawy Neferhotep III — 7 records
 
 Shortest loop: `Q85478 -> Q85578 -> Q85554 -> Q85528 -> Q85514 -> Q85498 -> Q85478`
 
@@ -358,25 +332,25 @@ Shortest loop: `Q85478 -> Q85578 -> Q85554 -> Q85528 -> Q85514 -> Q85498 -> Q854
 
 ---
 
-## 11. Joan ferch Ieuan ap Rhys ap Llowdden — 7 records
+## 10. Joan ferch Ieuan ap Rhys ap Llowdden — 7 records
 
 Shortest loop: `Q138061 -> Q138810 -> Q140234 -> Q139067 -> Q140681 -> Q140643 -> Q139043 -> Q138061`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q138061` | Joan ferch Ieuan ap Rhys ap Llowdden | Q110413692 | — | — | **6,514** | 527 | 231 | yes |
-| `Q138810` | Llywelyn Ddû ab Owain | Q99086883 | — | — | **6,514** | 527 | 231 | yes |
-| `Q139043` | Ieuan ap Rhys | Q99071449 | — | — | **6,514** | 527 | 231 | yes |
-| `Q139067` | Gruffudd Foethus ap Llywelyn | Q75905270 | — | — | **6,514** | 527 | 231 | yes |
-| `Q140234` | Llywelyn Foethus ap Llywelyn Ddû ab Owain | Q99086873 | — | — | **6,514** | 527 | 231 | yes |
-| `Q140643` | Rhys ap Llowdden y Gath | Q99302513 | — | — | **6,514** | 527 | 231 | yes |
-| `Q140681` | Lleucu ferch Gruffudd | Q110413685 | — | — | **6,514** | 527 | 231 | yes |
+| `Q138061` | Joan ferch Ieuan ap Rhys ap Llowdden | Q110413692 | — | — | **6,507** | 527 | 231 | yes |
+| `Q138810` | Llywelyn Ddû ab Owain | Q99086883 | — | — | **6,507** | 527 | 231 | yes |
+| `Q139043` | Ieuan ap Rhys | Q99071449 | — | — | **6,507** | 527 | 231 | yes |
+| `Q139067` | Gruffudd Foethus ap Llywelyn | Q75905270 | — | — | **6,507** | 527 | 231 | yes |
+| `Q140234` | Llywelyn Foethus ap Llywelyn Ddû ab Owain | Q99086873 | — | — | **6,507** | 527 | 231 | yes |
+| `Q140643` | Rhys ap Llowdden y Gath | Q99302513 | — | — | **6,507** | 527 | 231 | yes |
+| `Q140681` | Lleucu ferch Gruffudd | Q110413685 | — | — | **6,507** | 527 | 231 | yes |
 
 **Decision:** _not made — needs Emma_
 
 ---
 
-## 12. Venkatacharyar Jatavallabha (Jatavallabha award by Maha — 7 records
+## 11. Venkatacharyar Jatavallabha (Jatavallabha award by Maha — 7 records
 
 Shortest loop: `Q171493 -> Q171595 -> Q171604 -> Q171614 -> Q171622 -> Q171636 -> Q171648 -> Q171493`
 
@@ -399,7 +373,7 @@ Shortest loop: `Q171493 -> Q171595 -> Q171604 -> Q171614 -> Q171622 -> Q171636 -
 
 ---
 
-## 13. Gepaepyris — 6 records
+## 12. Gepaepyris — 6 records
 
 Shortest loop: `Q138363 -> Q138365 -> Q148022 -> Q144020 -> Q141360 -> Q139511 -> Q138363`
 
@@ -420,7 +394,7 @@ Shortest loop: `Q138363 -> Q138365 -> Q148022 -> Q144020 -> Q141360 -> Q139511 -
 
 ---
 
-## 14. Appius Claudius Caecus — 5 records
+## 13. Appius Claudius Caecus — 5 records
 
 Shortest loop: `Q73782 -> Q78812 -> Q78752 -> Q73970 -> Q73887 -> Q73782`
 
@@ -441,28 +415,7 @@ Shortest loop: `Q73782 -> Q78812 -> Q78752 -> Q73970 -> Q73887 -> Q73782`
 
 ---
 
-## 15. Deimachus — 5 records
-
-Shortest loop: `Q75123 -> Q132251 -> Q132367 -> Q131896 -> Q131902 -> Q75123`
-
-| qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
-|---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q75123` | Deimachus | Q1183226 | — | — | **192** | 31,659 | 16 | no |
-| `Q131896` | Tyro | Q1126715 | — | — | **192** | 31,659 | 16 | no |
-| `Q131902` | Neleus | Q637955 | — | — | **192** | 31,659 | 16 | no |
-| `Q132251` | Enarete | Q48665 | — | — | **192** | 31,659 | 16 | no |
-| `Q132367` | Salmoneus | Q1131643 | — | — | **192** | 31,659 | 16 | no |
-
-**What the data says**
-
-- `Q75123` Deimachus has 4 parents: Q75162, Q75165, Q131902, Q133062.
-- Wikidata contradicts `Q131902` → `Q75123`: Wikidata records no link between them
-
-**Decision:** _not made — needs Emma_
-
----
-
-## 16. Arsende  de Cabrera — 5 records
+## 14. Arsende  de Cabrera — 5 records
 
 Shortest loop: `Q104371 -> Q107162 -> Q123407 -> Q124325 -> Q124326 -> Q104371`
 
@@ -484,7 +437,7 @@ Shortest loop: `Q104371 -> Q107162 -> Q123407 -> Q124325 -> Q124326 -> Q104371`
 
 ---
 
-## 17. Pedaiah — 4 records
+## 15. Pedaiah — 4 records
 
 Shortest loop: `Q4617 -> Q4626 -> Q135406 -> Q135539 -> Q4617`
 
@@ -505,7 +458,7 @@ Shortest loop: `Q4617 -> Q4626 -> Q135406 -> Q135539 -> Q4617`
 
 ---
 
-## 18. Pepin of Landen — 4 records
+## 16. Pepin of Landen — 4 records
 
 Shortest loop: `Q111318 -> Q111320 -> Q135895 -> Q113081 -> Q111318`
 
@@ -525,7 +478,7 @@ Shortest loop: `Q111318 -> Q111320 -> Q135895 -> Q113081 -> Q111318`
 
 ---
 
-## 19. Olaf Geirstad-Alf — 4 records
+## 17. Olaf Geirstad-Alf — 4 records
 
 Shortest loop: `Q118732 -> Q136091 -> Q135856 -> Q123845 -> Q118732`
 
@@ -544,22 +497,22 @@ Shortest loop: `Q118732 -> Q136091 -> Q135856 -> Q123845 -> Q118732`
 
 ---
 
-## 20. Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig — 4 records
+## 18. Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig — 4 records
 
 Shortest loop: `Q144542 -> Q148522 -> Q146349 -> Q148521 -> Q144542`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q144542` | Morfudd ferch Tudur Fongam ap Cynwrig Fychan a | Q116147500 | — | — | **6,151** | 57 | 230 | yes |
-| `Q146349` | Cynwrig Fychan ap Cynwrig | Q99071981 | — | — | **6,151** | 57 | 230 | yes |
-| `Q148521` | Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap L | Q116147501 | — | — | **6,151** | 57 | 230 | yes |
-| `Q148522` | Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadw | Q110636576 | — | — | **6,151** | 57 | 230 | yes |
+| `Q144542` | Morfudd ferch Tudur Fongam ap Cynwrig Fychan a | Q116147500 | — | — | **6,197** | 57 | 230 | yes |
+| `Q146349` | Cynwrig Fychan ap Cynwrig | Q99071981 | — | — | **6,197** | 57 | 230 | yes |
+| `Q148521` | Tudur Fongam ap Cynwrig Fychan ap Cynwrig ap L | Q116147501 | — | — | **6,197** | 57 | 230 | yes |
+| `Q148522` | Dyddgu ferch Cadwgan Fottwm ab Ednyfed ap Cadw | Q110636576 | — | — | **6,197** | 57 | 230 | yes |
 
 **Decision:** _not made — needs Emma_
 
 ---
 
-## 21. Swammbhu Brambha — 4 records
+## 19. Swammbhu Brambha — 4 records
 
 Shortest loop: `Q160928 -> Q160981 -> Q160965 -> Q160946 -> Q160928`
 
@@ -578,7 +531,7 @@ Shortest loop: `Q160928 -> Q160981 -> Q160965 -> Q160946 -> Q160928`
 
 ---
 
-## 22. Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja — 4 records
+## 20. Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja — 4 records
 
 Shortest loop: `Q161658 -> Q161777 -> Q161966 -> Q162275 -> Q161658`
 
@@ -597,7 +550,7 @@ Shortest loop: `Q161658 -> Q161777 -> Q161966 -> Q162275 -> Q161658`
 
 ---
 
-## 23. Marcus Livius Drusus — 3 records
+## 21. Marcus Livius Drusus — 3 records
 
 Shortest loop: `Q72798 -> Q73119 -> Q72951 -> Q72798`
 
@@ -619,7 +572,7 @@ Shortest loop: `Q72798 -> Q73119 -> Q72951 -> Q72798`
 
 ---
 
-## 24. Lucius Junius  Brutus — 3 records
+## 22. Lucius Junius  Brutus — 3 records
 
 Shortest loop: `Q73383 -> Q73644 -> Q73518 -> Q73383`
 
@@ -633,7 +586,7 @@ Shortest loop: `Q73383 -> Q73644 -> Q73518 -> Q73383`
 
 ---
 
-## 25. Sergius Octavius Pontianus Laenes Octavius  Pontainus — 3 records
+## 23. Sergius Octavius Pontianus Laenes Octavius  Pontainus — 3 records
 
 Shortest loop: `Q76693 -> Q77155 -> Q76933 -> Q76693`
 
@@ -651,7 +604,7 @@ Shortest loop: `Q76693 -> Q77155 -> Q76933 -> Q76693`
 
 ---
 
-## 26. Marcus Flaccus — 2 records
+## 24. Marcus Flaccus — 2 records
 
 Shortest loop: `Q73530 -> Q73653 -> Q73530`
 
@@ -664,7 +617,7 @@ Shortest loop: `Q73530 -> Q73653 -> Q73530`
 
 ---
 
-## 27. Esther  bat Sahlan ben Abraham — 2 records
+## 25. Esther  bat Sahlan ben Abraham — 2 records
 
 Shortest loop: `Q88454 -> Q90982 -> Q88454`
 
