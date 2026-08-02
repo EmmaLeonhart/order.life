@@ -158,6 +158,53 @@ CUTS = {
                              "now Q200003 -- this record is wd Q20101444, Pedaiah of "
                              "Rumah, whose only recorded relation is his daughter Zebudah"),
     ],
+    # 2026-08-02. Tangle 2 of cycles_review.md, the Anicii/Petronii -- 18 records, the
+    # second-largest tangle, and one woman recorded as the mother of her own
+    # great-great-grandparents.
+    #
+    # Q75603 is **Anicia Demetrias**, wd Q3625008, and the dump has her placed correctly:
+    # father Q75516 Anicius Hermogenianus Olybrius, mother Q113011 Anicia Juliana, both
+    # matching Wikidata. What it also gives her is two children, Q75558 Clodia Celsina and
+    # Q75576 Clodius Celsinus Adelphius -- and those two are her ANCESTORS, five
+    # generations up, by the dump's own chain:
+    #
+    #   Q75576 Clodius Celsinus Adelphius (wd Q1147586)
+    #     -> Q75540 Quintus Clodius Hermogenianus Olybrius (wd Q1148526, 335-380)
+    #     -> Q75522 Anicia Faltonia Proba (wd Q1154373)
+    #     -> Q75516 Anicius Hermogenianus Olybrius (wd Q1372249, cos. 395)
+    #     -> Q75603 Demetrias
+    # every link of which Wikidata states on both sides.
+    #
+    # **Wikidata records no children for Q3625008 at all** -- no child, no spouse. (She is
+    # the Anicia Demetrias who took the veil in 413 and to whom Jerome, Augustine and
+    # Pelagius wrote; that is context rather than the argument. The argument is that her
+    # two recorded children are her own ancestors.)
+    #
+    # ONLY THE MOTHER-CLAIMS GO. The father-claim on both children is **correct and stays**:
+    # Q75606 "Clodius Celsinus" carries wd Q110915987, which is exactly the father Wikidata
+    # gives for Q1147586. So Clodia Celsina and Clodius Celsinus Adelphius keep their real
+    # father and his line -- they land at 1,544 ancestors rather than 0.
+    #
+    # BOTH are needed. Cutting only Q75603 -> Q75558, the edge in the shortest loop, leaves
+    # a five-record ring closed through the other child: Q75603 -> Q75576 -> Q75540 ->
+    # Q75522 -> Q75516 -> Q75603. Measured, not assumed. With both, the tangle dissolves.
+    #
+    # Why not UNMERGE: Q75603 holds one identity and one Wikidata id. Why not DEDUPE:
+    # nothing here is duplicated. Not a tradition join: late-Roman on every side.
+    #
+    # Measured over edges.tsv before applying: **0 records lose their route to Aster.**
+    # Clodia Celsina and Adelphius go 4,258 -> 1,544, Petronius Probus 4,258 -> 3,583,
+    # Demetrias herself 4,258 -> 4,257. The 2,714 distinct ancestors shed are the Anicii and
+    # Petronii flowing backwards into their own forebears through the false maternity.
+    "demetrias-reversed-maternity": [
+        ("Q75603", "Q75558", "Anicia Demetrias recorded as the mother of Clodia Celsina, "
+                             "who is her great-great-grandmother -- Wikidata gives "
+                             "Q3625008 no children at all, and the real father Q75606 "
+                             "(wd Q110915987) stays"),
+        ("Q75603", "Q75576", "the same for Clodius Celsinus Adelphius, her "
+                             "great-great-grandfather; without this one a five-record ring "
+                             "survives through him"),
+    ],
     # 2026-08-02. Tangle 14 of cycles_review.md, Cabrera/Urgell -- a duplicated countess
     # hung under a man who died ninety years after her husband.
     #

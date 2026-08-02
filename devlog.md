@@ -4,6 +4,42 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **Tangle 2 dissolved — the second-largest, 18 records — because one woman was recorded as
+  the mother of her own great-great-grandparents.**
+
+  `Q75603` is **Anicia Demetrias** (wd `Q3625008`), and the dump places her correctly:
+  father Anicius Hermogenianus Olybrius, mother Anicia Juliana, both matching Wikidata.
+  What it also gives her is two children — `Q75558` Clodia Celsina and `Q75576` Clodius
+  Celsinus Adelphius — and those two are her **ancestors**, five generations up, by the
+  dump's own chain:
+
+      Q75576 Clodius Celsinus Adelphius (wd Q1147586)
+        → Q75540 Quintus Clodius Hermogenianus Olybrius (wd Q1148526, 335–380)
+        → Q75522 Anicia Faltonia Proba (wd Q1154373)
+        → Q75516 Anicius Hermogenianus Olybrius (wd Q1372249, cos. 395)
+        → Q75603 Demetrias
+
+  every link of which Wikidata states on both sides. And **Wikidata records no children for
+  `Q3625008` at all** — no child, no spouse. (She is the Demetrias who took the veil in 413
+  and to whom Jerome, Augustine and Pelagius wrote. That is context; the argument is that
+  her two recorded children are her own forebears.)
+
+  **Only the mother-claims went.** The father-claim on both children is correct and stays:
+  `Q75606` "Clodius Celsinus" carries wd `Q110915987`, exactly the father Wikidata gives
+  for `Q1147586`. So both children keep their real father and land at **1,544 ancestors
+  rather than 0**.
+
+  **Both were needed.** Cutting only the edge in the shortest loop leaves a five-record ring
+  closed through the other child — measured, not assumed. **0 records lose their route to
+  Aster**; Petronius Probus goes 4,258 → 3,583 and Demetrias herself 4,258 → 4,257. The
+  2,714 ancestors shed are the Anicii and Petronii flowing backwards into their own
+  forebears through the false maternity.
+
+  This is the largest single repair of the session — 18 records freed, no ruling needed, and
+  the only reason it was available is that the tangle's members carry Wikidata ids and the
+  reversal shows up the moment the chain is read in order.
+
+
 - **Tangle 15 dissolved by an UNMERGE: there are two Pedaiahs in the Bible, three
   generations apart.**
 
