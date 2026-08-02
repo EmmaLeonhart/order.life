@@ -4,6 +4,37 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **Tangle 15 dissolved: the eleven Rudras were not Brahma's father. Checked against the
+  Daksha case first, because the resemblance is close.**
+
+      Q160928 Brahma → Q160981 (unnamed, the Marichi slot) → Q160965 Kashyapa
+        → Q160946 "11 Rudras" → Q160928 Brahma
+
+  The first three edges are canonical — Brahma's mind-born son Marichi fathers Kashyapa,
+  and the eleven Rudras are Kashyapa's offspring by Surabhi. **The dump confirms that
+  itself**: `Q160946`'s mother is `Q160966` **Surbhi**. So these Rudras are the
+  Kashyapa-and-Surabhi set of the Vishnu Purana and they are Brahma's *descendants* by the
+  dump's own chain.
+
+  **Why this is not the Daksha situation**, which is the check I ran before anything else.
+  There, `Q153390`'s label spells the doctrine out — "DAKSHA (reborn as DAKSHA) Prachetas"
+  — and the record carries two fathers, one per birth, because the Puranas assert the
+  rebirth. Here there is no annotation, no rebirth, and no doctrine making the eleven
+  Kashyapa-born Rudras the parents of Brahma.
+
+  **One reading I checked and rejected, and put in the queue rather than burying:** in
+  Shaiva cosmology Shiva *does* generate Brahma, and a Shaiva/Vaishnava synthesis would be
+  exactly the sort of cross-tradition join this project exists to make. I ruled it out
+  because `Q160946` is the *eleven* Rudras, a group with a named father and mother here,
+  not Rudra-Shiva the creator. If that reading was the intent, the cut is wrong and is one
+  revert — cut set `brahma-rudras`. Saying so plainly is cheaper than being quietly wrong
+  about someone else's cosmology.
+
+  Brahma keeps `Q160947` **Gobardhan Vishnu** — his canonical birth. **0 records lose their
+  route to Aster**, and the six distinct ancestors lost are the four ring members plus two
+  wives, all inside the ring. The chain afterwards reads 2/4/5/7 from Brahma down.
+
+
 - **Tangle 10 dissolved: a seven-generation guru lineage with its tail sewn to its head.**
 
       Q171493 Venkatacharyar → Q171595 Rangacharya → Q171604 Venkatacharya

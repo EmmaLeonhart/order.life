@@ -158,6 +158,49 @@ CUTS = {
                              "now Q200003 -- this record is wd Q20101444, Pedaiah of "
                              "Rumah, whose only recorded relation is his daughter Zebudah"),
     ],
+    # 2026-08-02. Tangle 15 of cycles_review.md, Brahma and the eleven Rudras. Puranic,
+    # so it was checked FIRST against the Daksha case in queue.md -- where the ring turned
+    # out to be doctrine and must not be cut. **This one is not that.**
+    #
+    #   Q160928 Swammbhu Brambha (Svayambhu Brahma)
+    #     -> Q160981 (unnamed, "Person Q160981")      <- the Marichi slot
+    #     -> Q160965 Kasayap Muni (Kashyapa)
+    #     -> Q160946 "11 Rudras"
+    #     -> Q160928 Brahma                            <-- closes the ring
+    #
+    # The first three edges are canonical: Brahma's mind-born son Marichi fathers Kashyapa,
+    # and the eleven Rudras are Kashyapa's offspring by Surabhi -- confirmed inside the dump
+    # itself, since Q160946's mother is Q160966 **Surbhi**. So the Rudras here are the
+    # Kashyapa-and-Surabhi set of the Vishnu Purana, and they are Brahma's DESCENDANTS by
+    # the dump's own chain.
+    #
+    # WHY THIS IS NOT THE DAKSHA CASE, stated because the resemblance is close enough to
+    # matter. There, `Q153390`'s label spells out the doctrine -- "DAKSHA (**reborn as
+    # DAKSHA**) Prachetas" -- and the record carries two fathers, one per birth, because the
+    # Puranas assert the rebirth. Here there is no annotation, no rebirth, and no doctrine
+    # making the eleven Kashyapa-born Rudras the parents of Brahma.
+    #
+    # ONE READING I CHECKED AND REJECTED, so it is on the record: in Shaiva cosmology Shiva
+    # does generate Brahma, and a Shaiva/Vaishnava synthesis would be exactly the kind of
+    # cross-tradition join this project exists to make. But `Q160946` is the **eleven
+    # Rudras**, a group with a named father and mother in this dump, not Rudra-Shiva the
+    # creator. If the intent was the Shaiva reading, this cut is wrong and is one revert --
+    # flagged in queue.md rather than assumed away.
+    #
+    # Brahma is NOT left parentless: he keeps `Q160947` **Gobardhan Vishnu** and `Q160948`,
+    # which is his canonical birth from Vishnu.
+    #
+    # Measured over edges.tsv before applying: **0 records lose their route to Aster** (the
+    # component does not reach it), the tangle dissolves, and the distinct ancestors lost
+    # anywhere number **six** -- the four ring members plus Brahma's consort Q160929 and
+    # Kashyapa's wife Q160966 Surbhi, all inside the ring. Afterwards the chain reads as a
+    # ladder, 2/4/5/7 from Brahma down to the Rudras.
+    "brahma-rudras": [
+        ("Q160946", "Q160928", "the eleven Rudras, Kashyapa's sons by Surabhi and so "
+                               "Brahma's own descendants in this chain, recorded as his "
+                               "father -- he keeps Gobardhan Vishnu, which is his "
+                               "canonical parentage"),
+    ],
     # 2026-08-02. Tangle 10 of cycles_review.md, the Jatavallabha acaryas -- a seven-
     # generation guru lineage with its last generation sewn back onto its first. Same shape
     # as the Shaodian chain below, and settled the same way: by what the records carry

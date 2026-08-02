@@ -391,7 +391,20 @@ central command.
    `Q160xxx` block are the same figures. That is a dedupe, and merging them would not
    remove either loop.
 
-4. **THE INVERSION CLASS — ONE RULING FROM EMMA CLEARS THREE TANGLES AT ONCE.**
+4. **ONE CUT TO SANITY-CHECK IF YOU DISAGREE — Brahma and the eleven Rudras
+   (2026-08-02, applied).** Tangle 15 was cut on the reading that `Q160946` "11 Rudras" is
+   the **Kashyapa-and-Surabhi** set of the Vishnu Purana — its mother in the dump is
+   `Q160966` **Surbhi** — and therefore Brahma's descendant, not his parent. Brahma keeps
+   `Q160947` **Gobardhan Vishnu**, his canonical birth.
+
+   **The reading I rejected, in case it was yours:** in Shaiva cosmology Shiva *does*
+   generate Brahma, and a Shaiva/Vaishnava synthesis is exactly the kind of cross-tradition
+   join this project exists to make. I ruled it out because the record is the *eleven*
+   Rudras with a named father and mother, not Rudra-Shiva the creator. **If the intent was
+   the Shaiva reading, this cut is wrong and is one revert** — `cut_edges.py`, cut set
+   `brahma-rudras`.
+
+5. **THE INVERSION CLASS — ONE RULING FROM EMMA CLEARS THREE TANGLES AT ONCE.**
 
    Found 2026-08-01 by working three unrelated tangles and hitting the identical wall in
    all three. **The shape:** the head of a lineage is recorded as the *child* of one of its
@@ -491,7 +504,7 @@ central command.
    Not guessing Roman prosopography, per item 1. The diagnosis is finished; only the
    ruling is missing.
 
-5. **TWO RESIDUES FROM THE DEIMACHUS UNMERGE — small, precise, and not hidden.**
+6. **TWO RESIDUES FROM THE DEIMACHUS UNMERGE — small, precise, and not hidden.**
    The unmerge landed on 2026-08-01 and dissolved tangle 15, but the existing tools cannot
    write two of the claims it implies:
 
@@ -506,7 +519,7 @@ central command.
    Neither is worth a new script on its own; both should go in the next time anything
    touches `P48`/`P61`.
 
-6. **DUPLICATES SURFACED BY LOOP WORK — real, deliberately not merged.** Every one was
+7. **DUPLICATES SURFACED BY LOOP WORK — real, deliberately not merged.** Every one was
    found while cutting a loop, and in each case the merge would NOT have broken the loop,
    which is why they are here and not done. Scope this session is loops.
 
@@ -536,7 +549,7 @@ central command.
      generation down, both "Abba 'Abbahu' bar Acha bar Sallah al-Kafri", both children of
      Acha.
 
-7. **THE THEBAN RING — needs an Egyptological source, not another pass over the dump.**
+8. **THE THEBAN RING — needs an Egyptological source, not another pass over the dump.**
    Tangle 11, the Second Intermediate Period kings. **None of the seven records carries a
    Wikidata id**, so the method the banner prescribes — look the dates up — does not reach
    them directly; they had to be matched by name first.
@@ -562,7 +575,7 @@ central command.
    expensive — **3 records lose their route to Aster and 31,790 lose ancestry**. Do not
    take it as the cheap way out.
 
-8. **THE JOAN / LLYWELYN DDÛ RING — the Esther shape, in Welsh. NEEDS A PEDIGREE SOURCE.**
+9. **THE JOAN / LLYWELYN DDÛ RING — the Esther shape, in Welsh. NEEDS A PEDIGREE SOURCE.**
    Tangle 10, seven records, investigated 2026-08-02 and **not** acted on.
 
    Six of the seven edges are confirmed by the patronymics, which in Welsh *are* the
@@ -588,7 +601,7 @@ central command.
    cheap cut: `Q138061` → `Q138810` is free and dissolves the tangle, which says nothing
    about whether it is the true edge.
 
-9. **THE EIGHT SERVILII — an eight-record ring with no evidence in it at all.**
+10. **THE EIGHT SERVILII — an eight-record ring with no evidence in it at all.**
    Tangle 8, investigated 2026-08-02 and **not** acted on.
 
    Eight records, each with exactly one father and one in-ring child, forming a closed
@@ -617,7 +630,7 @@ central command.
    collapse the placeholder chain entirely under repair-order step 4, which is the one case
    in the queue where "nothing substantial above it" is literally true.
 
-10. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
+11. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
    `Q88454` "Esther bat Sahlan ben Abraham" and `Q90982` "Esther bat Yosef ben 'Amram
    haDayyan al-Sijilmasi" are recorded as **each other's mother**. One of the two edges is
    false. Both readings are naming-consistent:
@@ -673,7 +686,7 @@ central command.
    that does not exist. It still repairs 0 of 5 — every remaining pair genuinely lacks
    direction evidence, which is the correct answer, not a failure.
 
-11. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
+12. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
    Generated 2026-08-01 by `wiki-scripts/same_role_parents.py`. One child has one father
    and one mother, so **every row is a defect**: either the pair is one person recorded
    twice, or one of the two edges is false.
@@ -727,7 +740,7 @@ central command.
    duplicate there is real, but the naming conventions and what counts as evidence are
    different — do not apply prosopography reasoning to a clade.
 
-12. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
+13. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
    `Q66385` "Imaam 'Udd \ Add Ben Add Ben ?'Udadh", `Q66394` "Udd son of Umaisi", and
    `Q86503` "Nabhan Banu Ismail" (the last acquired in the M3 merge). At most one is right.
 
@@ -746,7 +759,7 @@ central command.
    children of `Q67561` — and `Q67552` is flagged `COLLAPSE` against `Q67561`, so those two
    must not be merged either.
 
-13. **Work the remaining cycles under the repair order above.** Start from
+14. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
    34 are `REVIEW`: no Wikidata evidence decides them, mostly because "contradicted" there
    means *Wikidata records no link*, which is an absence and not a refutation. Unmerge
@@ -756,7 +769,7 @@ central command.
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-14. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
+15. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
    **97.1%** of edges are declared on both sides; **3,762** are one-sided. (The older
    96.3% / 4,723 figures were inflated — the scan compared raw qids without canonicalising
    through `redirects.tsv`, and 961 were never a defect.)
@@ -804,7 +817,7 @@ central command.
    Decide per record whether the missing side should be added or the present side removed;
    do NOT blanket-add, since some one-sided edges are deletions that only got half done.
 
-15. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
+16. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
    have no item file, yet 219 edges reference them and they hold 200+ recorded
    relationships between them. They are holes in the dump where the surrounding family
    survived. Creating them is one `add_bridge_edges.py`-style operation each; deciding
