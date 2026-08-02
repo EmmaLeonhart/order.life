@@ -158,6 +158,45 @@ CUTS = {
                              "now Q200003 -- this record is wd Q20101444, Pedaiah of "
                              "Rumah, whose only recorded relation is his daughter Zebudah"),
     ],
+    # 2026-08-02. Tangle 16 of cycles_review.md, the Malacca line -- a fourth sewn tail,
+    # and settled on structure rather than on adjudicating the Sejarah Melayu.
+    #
+    #   Q161658 Maharaja Parameswara / Raja Iskandar Shah
+    #     -> Q161777 Dewa Amas Sang Aji Kala
+    #     -> Q161966 Demang Lebar Daun Mangkabumi (Bendahara I)
+    #     -> Q162275 Wan Sendari (Radin Ratna Cenderapuri)
+    #     -> Q161658                                         <-- closes the ring
+    #
+    # THE ARGUMENT IS THE ASYMMETRY, not the chronicle. Three of the four have **exactly one
+    # parent**, their predecessor in the chain. Q161658 has **three**: Q160051 "Maharaja
+    # Malayu II - Tribhuwanaraja (**1286-1316**)", Q171395 Puti Reno Mandi Sari Lawik, and
+    # Q162275, the chain's own tail. Both of the first two are recorded spouses of each
+    # other's partner -- Q160051's spouse list contains Q171395 -- so the head has a
+    # coherent, dated parentage outside the ring and one extra claim that closes it. Same
+    # shape as the Shaodian generation-counter and the Jatavallabha acaryas below.
+    #
+    # WHAT I DELIBERATELY DID NOT RELY ON. The Sejarah Melayu has a Demang Lebar Daun who is
+    # the Palembang ruler and father-in-law of Sang Sapurba, generations BEFORE Parameswara;
+    # this record is labelled "**Bendahara I**", which instead suggests the first Bendahara
+    # of Malacca, generations AFTER him. Those two readings put the chain in opposite
+    # directions, and I could not settle which is meant. **The cut does not depend on it**:
+    # under either reading Wan Sendari cannot be both Parameswara's mother and his
+    # great-granddaughter, and the head's dated external parentage identifies which end is
+    # the head.
+    #
+    # Why not UNMERGE or DEDUPE: no record here holds two identities and none duplicates
+    # another. Not a tradition join: one Malay royal line throughout.
+    #
+    # Measured over edges.tsv before applying: **0 records lose their route to Aster** (the
+    # component does not reach it), the tangle dissolves, and the distinct ancestors lost
+    # anywhere number **four** -- exactly the ring. Afterwards the chain reads as a ladder,
+    # 26/27/28/29 from head to tail, and Parameswara keeps Tribhuwanaraja and Puti Reno.
+    "malacca-sewn-tail": [
+        ("Q162275", "Q161658", "Wan Sendari, the tail of a four-deep chain descending from "
+                               "Parameswara, recorded as his third parent -- he keeps his "
+                               "dated father Tribhuwanaraja (1286-1316) and his mother "
+                               "Puti Reno Mandi Sari Lawik"),
+    ],
     # 2026-08-02. Tangle 15 of cycles_review.md, Brahma and the eleven Rudras. Puranic,
     # so it was checked FIRST against the Daksha case in queue.md -- where the ring turned
     # out to be doctrine and must not be cut. **This one is not that.**

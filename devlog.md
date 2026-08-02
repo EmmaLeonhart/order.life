@@ -4,6 +4,38 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **Analysis refreshed: 18 tangles / 185 records**, all pending repairs now in the derived
+  files.
+
+- **Tangle 16 dissolved: the Malacca line, a fourth sewn tail — and settled on structure
+  rather than on adjudicating the Sejarah Melayu.**
+
+      Q161658 Parameswara → Q161777 Dewa Amas Sang Aji Kala
+        → Q161966 Demang Lebar Daun Mangkabumi (Bendahara I)
+        → Q162275 Wan Sendari → Q161658
+
+  **The argument is the asymmetry.** Three of the four have exactly one parent, their
+  predecessor. `Q161658` has **three**: `Q160051` "Maharaja Malayu II - Tribhuwanaraja
+  (**1286–1316**)", `Q171395` Puti Reno Mandi Sari Lawik, and `Q162275`, the chain's own
+  tail. The first two are recorded spouses of each other, so the head has a coherent dated
+  parentage outside the ring plus one extra claim that closes it.
+
+  **What I deliberately did not rely on.** The Sejarah Melayu has a Demang Lebar Daun who is
+  the Palembang ruler and father-in-law of Sang Sapurba, generations *before* Parameswara;
+  this record is labelled "**Bendahara I**", which instead suggests the first Bendahara of
+  Malacca, generations *after* him. Those readings run the chain in opposite directions and
+  I could not settle which is meant. **The cut does not depend on it** — under either,
+  Wan Sendari cannot be both Parameswara's mother and his great-granddaughter, and the
+  head's dated external parentage is what identifies which end is the head.
+
+  That distinction is worth keeping: it is the difference between a repair I can defend and
+  one that quietly takes a side in someone else's chronicle. The Brahma cut last tick needed
+  the same care and got a flagged escape hatch; this one did not need the judgement at all.
+
+  **0 records lose their route to Aster**, the four distinct ancestors lost are exactly the
+  ring, and the chain afterwards reads 26/27/28/29 head to tail.
+
+
 - **Tangle 15 dissolved: the eleven Rudras were not Brahma's father. Checked against the
   Daksha case first, because the resemblance is close.**
 

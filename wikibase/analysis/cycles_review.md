@@ -1,6 +1,6 @@
 # Ancestry cycles — every one, with the numbers that decide them
 
-**21 cycles, 206 records caught in one.** Generated from the dump by `wiki-scripts/build_cycles_notion.py`; the source of truth is `wikibase/analysis/cycles_review.md` in the repo and this page is a copy of it.
+**18 cycles, 185 records caught in one.** Generated from the dump by `wiki-scripts/build_cycles_notion.py`; the source of truth is `wikibase/analysis/cycles_review.md` in the repo and this page is a copy of it.
 
 A cycle here means a **strongly connected component** — a set of records where everyone is reachable from everyone else by following parent links, so at least one person is their own ancestor. That is always an error. Which *edge* is the wrong one usually is not obvious, and this document does not decide it.
 
@@ -230,32 +230,7 @@ Shortest loop: `Q160460 -> Q160580 -> Q160673 -> Q160640 -> Q160615 -> Q160596 -
 
 ---
 
-## 6. Shaodian — 10 records
-
-Shortest loop: `Q6421 -> Q87856 -> Q87854 -> Q87852 -> Q87850 -> Q87848 -> Q87846 -> Q87844 -> Q87842 -> Q87840 -> Q6421`
-
-| qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
-|---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q6421` | Shaodian | Q4302144 | 2697 BC | — | **273** | 7,656 | 149 | yes |
-| `Q87840` | (unlabelled) | — | — | — | **273** | 7,656 | 149 | yes |
-| `Q87842` | (unlabelled) | — | — | — | **273** | 7,656 | 149 | yes |
-| `Q87844` | (unlabelled) | — | — | — | **273** | 7,656 | 149 | yes |
-| `Q87846` | (unlabelled) | — | — | — | **273** | 7,656 | 149 | yes |
-| `Q87848` | (unlabelled) | — | — | — | **273** | 7,656 | 149 | yes |
-| `Q87850` | Generation 5 | — | — | — | **273** | 7,656 | 149 | yes |
-| `Q87852` | Generation 4 | — | — | — | **273** | 7,656 | 149 | yes |
-| `Q87854` | Generation 3 | — | — | — | **273** | 7,656 | 149 | yes |
-| `Q87856` | Generation 2 | — | — | — | **273** | 7,656 | 149 | yes |
-
-**What the data says**
-
-- `Q6421` Shaodian has 5 parents: Q6433, Q6435, Q51954, Q87840, Q87862.
-
-**Decision:** _not made — needs Emma_
-
----
-
-## 7. Gaius Servilius — 8 records
+## 6. Gaius Servilius — 8 records
 
 Shortest loop: `Q73170 -> Q73985 -> Q73910 -> Q73812 -> Q73710 -> Q73599 -> Q73479 -> Q73332 -> Q73170`
 
@@ -279,7 +254,7 @@ Shortest loop: `Q73170 -> Q73985 -> Q73910 -> Q73812 -> Q73710 -> Q73599 -> Q734
 
 ---
 
-## 8. Sekhemre Sankhtawy Neferhotep III — 7 records
+## 7. Sekhemre Sankhtawy Neferhotep III — 7 records
 
 Shortest loop: `Q85478 -> Q85578 -> Q85554 -> Q85528 -> Q85514 -> Q85498 -> Q85478`
 
@@ -297,7 +272,7 @@ Shortest loop: `Q85478 -> Q85578 -> Q85554 -> Q85528 -> Q85514 -> Q85498 -> Q854
 
 ---
 
-## 9. Joan ferch Ieuan ap Rhys ap Llowdden — 7 records
+## 8. Joan ferch Ieuan ap Rhys ap Llowdden — 7 records
 
 Shortest loop: `Q138061 -> Q138810 -> Q140234 -> Q139067 -> Q140681 -> Q140643 -> Q139043 -> Q138061`
 
@@ -315,30 +290,7 @@ Shortest loop: `Q138061 -> Q138810 -> Q140234 -> Q139067 -> Q140681 -> Q140643 -
 
 ---
 
-## 10. Venkatacharyar Jatavallabha (Jatavallabha award by Maha — 7 records
-
-Shortest loop: `Q171493 -> Q171595 -> Q171604 -> Q171614 -> Q171622 -> Q171636 -> Q171648 -> Q171493`
-
-| qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
-|---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q171493` | Venkatacharyar Jatavallabha (Jatavallabha awar | — | — | — | **52** | 40 | 33 | no |
-| `Q171595` | Rangacharya Jatavallabha (Jatavallabha award b | — | — | — | **52** | 40 | 33 | no |
-| `Q171604` | Venkatacharya Jatavallabha (Jatavallabha award | — | — | — | **52** | 40 | 33 | no |
-| `Q171614` | Srinivasacharya Jatavallabha | — | — | — | **52** | 40 | 33 | no |
-| `Q171622` | Srinivasacharyar Jatavallabha (Jatavallabha aw | — | — | — | **52** | 40 | 33 | no |
-| `Q171636` | Venkatacharya Jatavallabha (Jatavallabha award | — | — | — | **52** | 40 | 33 | no |
-| `Q171648` | Rangacharya Jatavallabha (Jatavallabha award b | — | — | — | **52** | 40 | 33 | no |
-
-**What the data says**
-
-- Q171595, Q171648 share the label “Rangacharya Jatavallabha (Jatavallabha award by Maha”.
-- Q171604, Q171636 share the label “Venkatacharya Jatavallabha (Jatavallabha award by Maha”.
-
-**Decision:** _not made — needs Emma_
-
----
-
-## 11. Gepaepyris — 6 records
+## 9. Gepaepyris — 6 records
 
 Shortest loop: `Q138363 -> Q138365 -> Q148022 -> Q144020 -> Q141360 -> Q139511 -> Q138363`
 
@@ -359,7 +311,7 @@ Shortest loop: `Q138363 -> Q138365 -> Q148022 -> Q144020 -> Q141360 -> Q139511 -
 
 ---
 
-## 12. Pepin of Landen — 4 records
+## 10. Pepin of Landen — 4 records
 
 Shortest loop: `Q111318 -> Q111320 -> Q135895 -> Q113081 -> Q111318`
 
@@ -379,7 +331,7 @@ Shortest loop: `Q111318 -> Q111320 -> Q135895 -> Q113081 -> Q111318`
 
 ---
 
-## 13. Olaf Geirstad-Alf — 4 records
+## 11. Olaf Geirstad-Alf — 4 records
 
 Shortest loop: `Q118732 -> Q136091 -> Q135856 -> Q123845 -> Q118732`
 
@@ -398,7 +350,7 @@ Shortest loop: `Q118732 -> Q136091 -> Q135856 -> Q123845 -> Q118732`
 
 ---
 
-## 14. Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig — 4 records
+## 12. Morfudd ferch Tudur Fongam ap Cynwrig Fychan ap Cynwrig — 4 records
 
 Shortest loop: `Q144542 -> Q148522 -> Q146349 -> Q148521 -> Q144542`
 
@@ -413,26 +365,7 @@ Shortest loop: `Q144542 -> Q148522 -> Q146349 -> Q148521 -> Q144542`
 
 ---
 
-## 15. Swammbhu Brambha — 4 records
-
-Shortest loop: `Q160928 -> Q160981 -> Q160965 -> Q160946 -> Q160928`
-
-| qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
-|---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q160928` | Swammbhu Brambha | — | — | — | **7** | 6,163 | 1 | no |
-| `Q160946` | 11 Rudras | — | — | — | **7** | 6,163 | 1 | no |
-| `Q160965` | Kasayap Muni | — | — | — | **7** | 6,163 | 1 | no |
-| `Q160981` | Person Q160981 | — | — | — | **7** | 6,163 | 1 | no |
-
-**What the data says**
-
-- `Q160928` Swammbhu Brambha has 3 parents: Q160946, Q160947, Q160948.
-
-**Decision:** _not made — needs Emma_
-
----
-
-## 16. Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja — 4 records
+## 13. Maharaja Parameswara @ Raja Iskandar Shah Paduka Sri Ratna Vira Vikrama di-Raja — 4 records
 
 Shortest loop: `Q161658 -> Q161777 -> Q161966 -> Q162275 -> Q161658`
 
@@ -451,7 +384,7 @@ Shortest loop: `Q161658 -> Q161777 -> Q161966 -> Q162275 -> Q161658`
 
 ---
 
-## 17. Marcus Livius Drusus — 3 records
+## 14. Marcus Livius Drusus — 3 records
 
 Shortest loop: `Q72798 -> Q73119 -> Q72951 -> Q72798`
 
@@ -473,7 +406,7 @@ Shortest loop: `Q72798 -> Q73119 -> Q72951 -> Q72798`
 
 ---
 
-## 18. Lucius Junius  Brutus — 3 records
+## 15. Lucius Junius  Brutus — 3 records
 
 Shortest loop: `Q73383 -> Q73644 -> Q73518 -> Q73383`
 
@@ -487,7 +420,7 @@ Shortest loop: `Q73383 -> Q73644 -> Q73518 -> Q73383`
 
 ---
 
-## 19. Sergius Octavius Pontianus Laenes Octavius  Pontainus — 3 records
+## 16. Sergius Octavius Pontianus Laenes Octavius  Pontainus — 3 records
 
 Shortest loop: `Q76693 -> Q77155 -> Q76933 -> Q76693`
 
@@ -505,7 +438,7 @@ Shortest loop: `Q76693 -> Q77155 -> Q76933 -> Q76693`
 
 ---
 
-## 20. Marcus Flaccus — 2 records
+## 17. Marcus Flaccus — 2 records
 
 Shortest loop: `Q73530 -> Q73653 -> Q73530`
 
@@ -518,14 +451,14 @@ Shortest loop: `Q73530 -> Q73653 -> Q73530`
 
 ---
 
-## 21. Esther  bat Sahlan ben Abraham — 2 records
+## 18. Esther  bat Sahlan ben Abraham — 2 records
 
 Shortest loop: `Q88454 -> Q90982 -> Q88454`
 
 | qid | who | wikidata | born | died | **ancestors** | descendants | depth | →Aster |
 |---|---|---|---:|---:|---:|---:|---:|:---:|
-| `Q88454` | Esther  bat Sahlan ben Abraham | — | — | — | **3,497** | 2 | 215 | yes |
-| `Q90982` | Esther  bat Yosef ben 'Amram haDayyan al-Sijil | — | — | — | **3,497** | 2 | 215 | yes |
+| `Q88454` | Esther  bat Sahlan ben Abraham | — | — | — | **3,487** | 2 | 215 | yes |
+| `Q90982` | Esther  bat Yosef ben 'Amram haDayyan al-Sijil | — | — | — | **3,487** | 2 | 215 | yes |
 
 **Decision:** _not made — needs Emma_
 
