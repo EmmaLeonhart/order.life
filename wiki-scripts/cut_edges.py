@@ -128,6 +128,51 @@ CUTS = {
     # her mother and himself -- the cycle counting itself -- while keeping all 5,095 real
     # ancestors through Hug III. Q32705 goes 2 -> 0 as described. No gateway anywhere near
     # this.
+    # 2026-08-01. Tangle 19 of cycles_review.md, the Pinarii -- a two-generation family
+    # stretched into four by duplication, then rolled into a ring.
+    #
+    # WHAT WIKIDATA HAS, and it is short:
+    #   Q93953755 "Pinarius", described as **the brother-in-law of Julius Caesar**, spouse
+    #             Q2743448 Julia Major, one child, NO FATHER
+    #   Q382127   labelled BOTH "Lucius Pinarius Scarpus" AND "Lucius Pinarius",
+    #             "nephew of Caesar", father Q93953755, mother Q2743448, NO CHILDREN
+    # Two generations. That is the whole family.
+    #
+    # WHAT THE DUMP HAS -- the same two men, wearing four records and two wives:
+    #   Q77782  "Pinarius"                 wd Q93953755   spouse Q137708 Julia Major
+    #   Q78264  "Lucius Pinarius"          wd Q382127     spouse Q78267  Julia Caesaris Major
+    #   Q78108  "Lucius Pinarius Scarpus"  no wd          child  Q77955
+    #   Q77955  "Lucius Pinarius Scarpus"  no wd          child  Q77782  <-- closes the ring
+    #
+    # Q382127 carries both labels, so Q78108 and Q77955 -- same label, no Wikidata id --
+    # are copies of Q78264. And Q78267 "Julia Caesaris Major" has the SAME PARENTS as
+    # Q137708 "Julia Major" (Q73029 and Q73026), so the dump has married Lucius Pinarius to
+    # a second copy of his own mother.
+    #
+    # Under any reading of that, Q77955 -> Q77782 makes a man the father of his own father.
+    # It is the only edge in the loop that is false on both the dump's own chain and on
+    # Wikidata, which gives Pinarius no father at all.
+    #
+    # Why not DEDUPE, although the duplicates are real and are logged in queue.md: merging
+    # Q78264/Q78108/Q77955 does not break the ring. The survivor keeps Q77955's child claim
+    # on Q77782 while remaining Q77782's son, so a 4-cycle becomes a 2-cycle. The false
+    # parent-claim has to go either way, and it is the smaller and better-evidenced edit.
+    # Why not UNMERGE: nothing here holds two identities; the problem is the opposite,
+    # one identity spread over three records.
+    # Not a tradition join: Roman on both sides.
+    #
+    # Measured over edges.tsv before applying: **exactly one record loses its route to
+    # Aster, Q77782 Pinarius himself, 998 ancestors -> 0.** That is the correct answer and
+    # not a casualty -- he is the brother-in-law, related to the Julii by marriage and not
+    # by blood, and Wikidata records no father for him. All **19,374 records below him keep
+    # their route**, because they descend through Julia Major, who is a Julia in her own
+    # right; his sons Q77566 and Q78264 move 998 -> 994.
+    "pinarii-scarpus": [
+        ("Q77955", "Q77782", "Lucius Pinarius Scarpus recorded as the father of Pinarius, "
+                             "who is his own father -- Wikidata gives Pinarius, Caesar's "
+                             "brother-in-law, no father at all, and Q77955 is a duplicate "
+                             "of his son Q78264"),
+    ],
     # 2026-08-01. Tangle 7 of cycles_review.md, the Caecilii Metelli -- 13 records, and
     # every one of them carries a Wikidata id, so the whole stemma can be read off.
     #

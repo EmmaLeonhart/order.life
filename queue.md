@@ -384,13 +384,21 @@ central command.
    Not guessing Roman prosopography, per item 1. The diagnosis is finished; only the
    ruling is missing.
 
-3. **THE SHILA DUPLICATE — a real dedupe, deliberately not done.** `Q86617` and `Q91224`
-   are both "Shila Ish Kfar Temarta" and both recorded as the father of `Q86607` Acha. One
-   man, imported twice. The tangle they sat in was cut on 2026-08-01 (`cut_edges.py
-   acha-kfar-temarta`) and the merge would not have broken it — the survivor keeps the
-   father-claim either way — so this is left as what it is: a duplicate, not a loop. Note
-   the pair `Q86589` / `Q91134` in the same family is the same story one generation down,
-   both "Abba 'Abbahu' bar Acha bar Sallah al-Kafri", both children of Acha.
+3. **DUPLICATES SURFACED BY LOOP WORK — real, deliberately not merged.** Every one was
+   found while cutting a loop, and in each case the merge would NOT have broken the loop,
+   which is why they are here and not done. Scope this session is loops.
+
+   - **The Pinarii, tangle 19 (2026-08-01).** Wikidata has a two-generation family:
+     `Q93953755` Pinarius, Caesar's brother-in-law, and his son `Q382127`, which carries
+     **both** labels *Lucius Pinarius* and *Lucius Pinarius Scarpus*. The dump spreads that
+     one son over three records — `Q78264` (holding the wd id), `Q78108` and `Q77955`
+     (same label, no wd id) — and gives him **two wives who are the same woman**:
+     `Q137708` "Julia Major" and `Q78267` "Julia Caesaris Major" have identical parents
+     `Q73029`/`Q73026`, so Lucius Pinarius is married to a second copy of his own mother.
+   - **The Shila pair.** `Q86617` and `Q91224` are both "Shila Ish Kfar Temarta" and both
+     recorded as the father of `Q86607` Acha. `Q86589` / `Q91134` is the same story one
+     generation down, both "Abba 'Abbahu' bar Acha bar Sallah al-Kafri", both children of
+     Acha.
 
 4. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
    `Q88454` "Esther bat Sahlan ben Abraham" and `Q90982` "Esther bat Yosef ben 'Amram

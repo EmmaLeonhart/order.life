@@ -4,6 +4,40 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Tangle 19 cut: the Pinarii — a two-generation family stretched into four, then rolled
+  into a ring.**
+
+  Wikidata's version is short. `Q93953755` "Pinarius", described as **the brother-in-law of
+  Julius Caesar**, with a wife, one child and **no father**; and `Q382127`, "nephew of
+  Caesar", which carries **both** labels *Lucius Pinarius* and *Lucius Pinarius Scarpus*
+  and has no children. Two generations, that is the family.
+
+  The dump has the same two men in four records and two wives. `Q78264` holds the Wikidata
+  id; `Q78108` and `Q77955` share the label *Lucius Pinarius Scarpus* and carry no id, so
+  they are copies of him. And `Q78267` "Julia Caesaris Major" has the **same parents** as
+  `Q137708` "Julia Major" — `Q73029` and `Q73026` — which means the dump married Lucius
+  Pinarius to a second copy of his own mother.
+
+  `Q77955` → `Q77782` is the edge that closes the ring, and under any reading it makes a
+  man the father of his own father. Cut.
+
+  **Exactly one record loses its route to Aster: `Q77782` Pinarius, 998 ancestors → 0.**
+  That is the right answer rather than a casualty — he is the *brother-in-law*, related to
+  the Julii by marriage and not by blood, and Wikidata records no father for him. All
+  **19,374 records below him keep their route**, because they descend through Julia Major,
+  who is a Julia in her own right; his sons move 998 → 994.
+
+  This is the shape the inversion class does not have. There the head's descendants had no
+  other way up and 9 or 10 records went dark. Here the only casualty is the one record
+  whose ancestry was fabricated by the loop, and the difference is that his line runs
+  through his **wife**, which the dump already records correctly.
+
+  **Not merged, and logged instead:** the three copies of Lucius Pinarius and the two
+  copies of Julia. Merging them would not have broken the ring — the survivor keeps
+  `Q77955`'s child-claim on `Q77782` while remaining his son, so a 4-cycle becomes a
+  2-cycle. Queue item 3, alongside the Shila duplicates.
+
+
 - **Tangle 7 cut: the Caecilii Metelli, 13 records, one edge.** Every record in it carries
   a Wikidata id, so the whole stemma reads off directly, and seven of the loop's eight
   edges turn out to be the real Metelli descent:
