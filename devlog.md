@@ -4,6 +4,39 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **Two of the remaining tangles are not defects at all: the Puranic rebirth of Daksha.**
+
+  Tangles 3 and 5 — **28 records, 13% of everything still trapped** — are the same Puranic
+  genealogy imported twice, and in both copies every edge is canonical:
+
+      Daksha → Aditi · Aditi + Kashyapa → Surya · Surya + Sanjna → Yama ·
+      Yama/Mrityu → Sunita · Sunita + Anga → Vena → Prithu · Prithu + Archis →
+      Vijitashva → Havirdhana → Prachinabarhi → the Prachetas · Prachetas → Daksha
+
+  **The dump says so in the label.** `Q153390` is **"DAKSHA (reborn as DAKSHA) Prachetas"**
+  and it carries **two fathers** — `Q49634` for the first birth, `Q1955` the Prachetas for
+  the second. The Puranas have Daksha, son of Brahma and father of Aditi, die and be reborn
+  as the son of the Prachetas, who are his own descendants through Aditi. **The loop is the
+  doctrine**, and the import recorded it faithfully, annotation and all.
+
+  This is `CLAUDE.md` rule 1 landing on an actual case: *surprising is not evidence of
+  broken*. I went looking for the impossible edge and there isn't one — every link is in
+  the Bhagavata Purana. Cutting any of them would delete tradition, and splitting Daksha
+  would contradict the specific thing the tradition asserts, which is that the two are one
+  person.
+
+  So it is reclassified rather than repaired, and what remains is a **modelling** question
+  for Emma: accept both rings as permanent and mark them so; or represent the rebirth with
+  something that is not `P47`/`P20` — keeping `Q49634` as Daksha's parentage and recording
+  the Prachetas birth as an alias or note, which removes both loops without denying
+  anything; or split him, which contradicts the source. Only the middle option does both
+  jobs, and it needs a property the repair tools do not currently write.
+
+  Practical effect on the numbers: **28 of the 206 trapped records should not be counted as
+  defects**, and no future session should spend a tick rediscovering this — the patriarch
+  overlay was re-asked four times before it stuck.
+
+
 - **Analysis refreshed: 21 tangles / 206 records.** All four pending repairs are now in the
   derived files and `cycles_review.md` agrees with the dump again.
 
