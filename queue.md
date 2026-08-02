@@ -298,7 +298,46 @@ central command.
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-2. **THE LIVIUS DRUSUS TANGLE — diagnosed to the bottom, ONE RULING NEEDED FROM EMMA.**
+2. **THE INVERSION CLASS — ONE RULING FROM EMMA CLEARS THREE TANGLES AT ONCE.**
+
+   Found 2026-08-01 by working three unrelated tangles and hitting the identical wall in
+   all three. **The shape:** the head of a lineage is recorded as the *child* of one of its
+   own descendants. That single false edge is also the head's *only* route upward, so the
+   4,000-odd ancestors it shows are its own descendant's ancestors, flowing backwards. The
+   loop cannot be broken without the head reverting to its true, shallow ancestry and
+   dropping off `Q1` Aster.
+
+   | tangle | the impossible edge | why it cannot be | records that lose Aster |
+   |---|---|---:|---:|
+   | 20 Pepin of Landen | `Q113081` Charles Martel → `Q111318` Pepin of Landen | Martel b. **688**, Pepin of Landen d. **640**. Wikidata lists nine children for Martel and Pepin is not one | **9** |
+   | 21 Olaf Geirstad-Alf | `Q118732` Olaf → `Q136091` Gandalf Alfgeirsson | Gandalf b. **705**; Olaf is the son of Alfhild b. **780**, herself Gandalf's great-granddaughter. And the man's own patronymic is **Alfgeirsson** — his father is Alfgeir | **4** |
+   | 25 Marcus Livius Drusus | `Q73119` → `Q72951` Gaius Livius Drusus | `Q73119` carries **two Wikidata ids** and is two men; details below | **10** |
+
+   In every case the other edges of the loop are the *correct* descent, checked against
+   Wikidata one record at a time — Pepin of Landen → Begga → Pepin of Herstal → Charles
+   Martel is the Carolingian pedigree itself. **There is no other edge to blame.**
+
+   **Why this is not mine to decide.** `cycle_policy.md` says a loop that can only be
+   broken by cutting a gateway means the defect is elsewhere — and here it demonstrably is
+   not. The later note in this file says a red `compare_depth` is not automatically revert
+   and to settle the edge on external evidence — and the evidence *is* settled: dates a
+   century or more apart on well-documented people. What is left is not a question about
+   the data. It is a question about the Gaiad: **may a record lose its route to Aster when
+   that route existed only through an edge that cannot be true?** No reattachment is
+   available in any of the three — checked, and Wikidata dead-ends too (Carloman b. 550 has
+   no father; `Q1306266` consul 302 BC has no father).
+
+   **Nothing is applied.** All three cuts are two-line edits and one ruling turns them on
+   or closes them permanently. If the answer is "yes, cut them", say so once and all three
+   go in the next tick. If the answer is "the line must keep reaching Aster", these three
+   tangles are permanent and should be marked so rather than re-investigated every session.
+
+   **Meanwhile the loop is NOT blocked on this.** A scan of all 301 edges inside the 30
+   tangles (against `edges.tsv`, not the dump) found **172 whose removal costs no record
+   its route to Aster** — so most remaining tangles have a repair that needs no ruling at
+   all. Work those first; the three above are the exception, not the pattern.
+
+   **`Q73119` in detail — it is also a merged record, which the other two are not.**
    Investigated 2026-08-01. Nothing here is a guess and nothing is applied.
 
    **`Q73119` carries TWO Wikidata ids**, `Q433463` and `Q20005554`. It is a merge of two
@@ -345,7 +384,15 @@ central command.
    Not guessing Roman prosopography, per item 1. The diagnosis is finished; only the
    ruling is missing.
 
-3. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
+3. **THE SHILA DUPLICATE — a real dedupe, deliberately not done.** `Q86617` and `Q91224`
+   are both "Shila Ish Kfar Temarta" and both recorded as the father of `Q86607` Acha. One
+   man, imported twice. The tangle they sat in was cut on 2026-08-01 (`cut_edges.py
+   acha-kfar-temarta`) and the merge would not have broken it — the survivor keeps the
+   father-claim either way — so this is left as what it is: a duplicate, not a loop. Note
+   the pair `Q86589` / `Q91134` in the same family is the same story one generation down,
+   both "Abba 'Abbahu' bar Acha bar Sallah al-Kafri", both children of Acha.
+
+4. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
    `Q88454` "Esther bat Sahlan ben Abraham" and `Q90982` "Esther bat Yosef ben 'Amram
    haDayyan al-Sijilmasi" are recorded as **each other's mother**. One of the two edges is
    false. Both readings are naming-consistent:
@@ -394,7 +441,7 @@ central command.
    that does not exist. It still repairs 0 of 5 — every remaining pair genuinely lacks
    direction evidence, which is the correct answer, not a failure.
 
-4. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
+5. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
    Generated 2026-08-01 by `wiki-scripts/same_role_parents.py`. One child has one father
    and one mother, so **every row is a defect**: either the pair is one person recorded
    twice, or one of the two edges is false.
@@ -448,7 +495,7 @@ central command.
    duplicate there is real, but the naming conventions and what counts as evidence are
    different — do not apply prosopography reasoning to a clade.
 
-5. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
+6. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
    `Q66385` "Imaam 'Udd \ Add Ben Add Ben ?'Udadh", `Q66394` "Udd son of Umaisi", and
    `Q86503` "Nabhan Banu Ismail" (the last acquired in the M3 merge). At most one is right.
 
@@ -467,7 +514,7 @@ central command.
    children of `Q67561` — and `Q67552` is flagged `COLLAPSE` against `Q67561`, so those two
    must not be merged either.
 
-6. **Work the remaining cycles under the repair order above.** Start from
+7. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
    34 are `REVIEW`: no Wikidata evidence decides them, mostly because "contradicted" there
    means *Wikidata records no link*, which is an absence and not a refutation. Unmerge
@@ -477,7 +524,7 @@ central command.
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-7. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
+8. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
    **97.1%** of edges are declared on both sides; **3,762** are one-sided. (The older
    96.3% / 4,723 figures were inflated — the scan compared raw qids without canonicalising
    through `redirects.tsv`, and 961 were never a defect.)
@@ -525,7 +572,7 @@ central command.
    Decide per record whether the missing side should be added or the present side removed;
    do NOT blanket-add, since some one-sided edges are deletions that only got half done.
 
-8. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
+9. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
    have no item file, yet 219 edges reference them and they hold 200+ recorded
    relationships between them. They are holes in the dump where the surrounding family
    survived. Creating them is one `add_bridge_edges.py`-style operation each; deciding

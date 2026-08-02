@@ -4,6 +4,58 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Tangle 28 cut: Acha Ish Kfar Temarta. The dump stated the answer about itself twice.**
+
+  `Q91134` is "Abba **bar Acha bar Sallah** al-Kafri" — Abba son of Acha son of Sallah, so
+  the descent is Sallah → Acha → Abba and Sallah is Abba's grandfather. `Q86617` "Shila Ish
+  Kfar Temarta" was recorded as Acha's father *and* as Abba's child. Shila and Sallah are
+  the same name, everyone in the component carries the same locality, and Acha's other
+  child `Q91182` is "Chiya **son of Shila**".
+
+  The second confirmation is the import itself: **Shila is in the dump twice.** `Q86617`
+  and `Q91224` share a label and are both recorded as Acha's father, and the clean copy
+  `Q91224` **has no father at all**. The claim that closes the loop sits on exactly one of
+  two copies of one man, which is what an import artefact looks like and not what a shared
+  source looks like.
+
+  Zero records lose their route to Aster — the component never reached it. `Q86617` drops
+  to 0 ancestors, which is correct: the dump does not record Sallah's father.
+
+  The `Q86617`/`Q91224` duplicate is real and is **not** merged — merging would not have
+  broken the loop, since the survivor keeps the father-claim either way. Logged as queue
+  item 3, along with `Q86589`/`Q91134`, which is the same story one generation down.
+
+- **Named a recurring shape and stopped: THE INVERSION CLASS.** Three unrelated tangles
+  this tick hit the identical wall, so it is a class and not three coincidences.
+
+  The head of a lineage is recorded as the **child of one of its own descendants**. That
+  false edge is also the head's only route upward, so the thousands of ancestors it shows
+  are its descendant's ancestors flowing backwards, and the loop cannot be broken without
+  the head reverting to its true shallow ancestry and dropping off Aster.
+
+  | tangle | impossible edge | why | lose Aster |
+  |---|---|---|---:|
+  | 20 Pepin of Landen | Charles Martel → Pepin of Landen | Martel b. 688, Pepin d. 640; Wikidata gives Martel nine children and Pepin is not among them | 9 |
+  | 21 Olaf Geirstad-Alf | Olaf → Gandalf Alfgeirsson | Gandalf b. 705; Olaf is the son of Alfhild b. 780, Gandalf's own great-granddaughter — and the man is *Alfgeirsson* | 4 |
+  | 25 Livius Drusus | `Q73119` → Gaius Livius Drusus | `Q73119` carries two Wikidata ids and is two men | 10 |
+
+  In all three the *other* edges of the loop are the correct descent, checked record by
+  record — Pepin of Landen → Begga → Pepin of Herstal → Charles Martel is the Carolingian
+  pedigree itself. There is no other edge to blame, and no reattachment exists: Wikidata
+  dead-ends at Carloman b. 550 and at `Q1306266` consul 302 BC, both fatherless.
+
+  **Not applied, and the reason is not squeamishness.** `compare_depth` would fail hard on
+  each, and the one thing this file is emphatic about is not tuning a gate until it passes.
+  The evidence settles the *dates*; it does not settle whether the Gaiad may let a line
+  lose Aster. That is a question about the genealogy, so it goes to Emma once, as a class,
+  rather than three times as cases.
+
+  **The loop is not blocked on the answer.** Scanning all 301 edges inside the 30 tangles
+  found **172 whose removal costs no record its route to Aster** — most remaining tangles
+  have a repair needing no ruling at all. The Acha cut above was one of them. The inversion
+  three are the exception, not the pattern.
+
+
 - **Four tangles gone, all four gates green: 34 → 30, 283 → 274 records trapped.**
   `verify_repair.py` against the pre-repair snapshot — `tangled_components` 34 → 30,
   `records_in_a_cycle` 283 → 274, `dangling_endpoints` 5 → 4, `children_over_2_parents`

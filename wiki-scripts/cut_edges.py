@@ -128,6 +128,45 @@ CUTS = {
     # her mother and himself -- the cycle counting itself -- while keeping all 5,095 real
     # ancestors through Hug III. Q32705 goes 2 -> 0 as described. No gateway anywhere near
     # this.
+    # 2026-08-01. Tangle 28 of cycles_review.md, "Acha Ish Kfar Temarta" -- three records,
+    # and the dump states the answer about itself twice.
+    #
+    #     Q86617  "Shila Ish Kfar Temarta"                        father Q91134, child Q86607
+    #     Q91224  "Shila Ish Kfar Temarta"                        NO father,     child Q86607
+    #     Q86607  "Acha Ish Kfar Temarta"                         fathers Q86617 AND Q91224
+    #     Q91134  "Abba 'Abbahu' bar Acha bar Sallah al-Kafri"    father Q86607
+    #
+    # (a) THE NAME IS THE GENEALOGY. Q91134 is "Abba **bar Acha bar Sallah**" -- Abba son
+    #     of Acha son of Sallah. So the descent is Sallah -> Acha -> Abba, and Sallah is
+    #     Abba's grandfather. Shila and Sallah are the same name; both Shila records and
+    #     Acha all carry the same locality, "Ish Kfar Temarta". Q86607's other children
+    #     say it again: Q91182 is "Chiya **son of Shila**".
+    #
+    # (b) THE PARALLEL IMPORT SAYS IT TOO. Shila is in the dump twice, Q86617 and Q91224,
+    #     same label, both recorded as Acha's father. The clean copy Q91224 has **no
+    #     father at all**. The father-claim that closes the loop exists on exactly one of
+    #     the two copies, which is what an import artefact looks like and not what a
+    #     shared source looks like.
+    #
+    # So Q91134 -> Q86617 makes Abba the father of his own grandfather. It goes.
+    #
+    # Why not DEDUPE, even though Q86617/Q91224 plainly ARE one man recorded twice: merging
+    # them does not break the loop. The survivor would still carry Q86617's father-claim on
+    # Q91134 and Acha would still be his own great-grandfather. The duplicate is real and is
+    # written up in queue.md, but it is a separate repair and the queue's scope this session
+    # is loops, not deduplication.
+    # Why not UNMERGE: no record here holds two identities; none carries a Wikidata id at all.
+    # Not a tradition join: the whole component is one Babylonian rabbinic family.
+    #
+    # Measured over edges.tsv before applying: **zero records lose their route to Q1** --
+    # the component does not reach Aster in the first place. Q86617 goes to 0 ancestors,
+    # which is right: the dump does not record Sallah's father. Everyone else in the
+    # component moves by 0 to 2, the cycle no longer counting itself.
+    "acha-kfar-temarta": [
+        ("Q91134", "Q86617", "Abba bar Acha bar Sallah recorded as the father of Shila, "
+                             "who is the Sallah of his own patronymic -- and the parallel "
+                             "copy of Shila, Q91224, carries no father"),
+    ],
     # 2026-08-01. Tangles 27 and 31 of cycles_review.md. Same method as nagano-entenca:
     # read the people, find the edge that cannot be, remove it from both sides.
     #
