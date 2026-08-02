@@ -4,6 +4,42 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **Tangle 4, the Portuguese ring: investigated and left alone. Four contradicted edges, not
+  one — and with it the freely-workable pool is empty.**
+
+  Portuguese patronymics behave like the Welsh ones (*Ausendes* = son of Ausindo, *Soares*
+  = son of Soeiro, *Ximenes* = son of Ximeno), and applying the same test that settled
+  Morfudd and Gwent gives a different answer here: **four** edges are positively
+  contradicted, meaning the child's own name gives a different father-name than the
+  recorded parent —
+
+      Q113625 Teodoredo Ausendes  → Q79388 Ausindo **Ximeno**    (son of a Ximeno)
+      Q79415  Soeiro Ausendes     → Q79435 Arnaldo **Ximenes**   (son of a Ximeno)
+      Q79480  Fernão de Tangil    → Q79537 Estêvão **Soares**    (son of a Soeiro)
+      Q79537  Estêvão Soares      → Q79618 Tereza **Eriz**       (daughter of an Ero)
+
+  while four others are confirmed by the same test, plus two external father-links. **So
+  this is not one bad join — it is several family fragments concatenated into a chain**, and
+  cutting any single edge opens the ring while leaving three false parentages standing.
+
+  The best single candidate is `Q113625` → `Q79388`, which joins the end of the
+  best-attested fragment to the start of another. I did not take it, for two reasons worth
+  recording. `Q113625` is a **claimless connector** — no `P47`, `P48` or `P20` in the
+  canonical file *or* its shadow `Q101962`, only a birth of 1078 — so both its ring edges
+  are one-sided, which is the PHANTOM shape the queue already warns is not automatically
+  safe to cut. And Portuguese naming is looser than Welsh: toponymics like *de Baião*,
+  *Tangil* and *de Lugo* break the patronymic rule often enough that "contradicted" carries
+  less weight here than it did for the Welsh rings.
+
+  Checking the shadow was the part that changed my mind mid-investigation. `Q113625.json`
+  read as an empty record and I nearly wrote it up as one; the shadow could easily have
+  held the parentage, and only looking settled that it does not.
+
+  **This was the last tangle in the freely-workable pool.** Everything now remaining needs
+  either a ruling from Emma or a specific book — which is where the last seven status
+  reports said this was heading.
+
+
 - **Analysis refreshed: 18 tangles / 185 records**, all pending repairs now in the derived
   files.
 
