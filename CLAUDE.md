@@ -171,10 +171,19 @@ re-add wiki links. (The `lifeism+Wiki-*.xml` export is still parsed for baked-in
 - Keep README.md updated for human readers
 - All thinking produces files, not planning-only modes
 - Use `python` not `python3` on this Windows system
-- Use `C:\Users\Emma\AppData\Local\Programs\Python\Python313\python.exe` for the Python with packages
-  (verified 2026-07-30: networkx 3.6.1, jinja2 3.1.6, requests 2.34.2; plain `python` on
-  PATH already resolves to it). The old `C:\Users\Immanuelle\...\Python313` path this line
-  used to name **no longer exists** — the profile is still there, the Python under it is gone.
+- **There is exactly one Python here: `C:\Program Files\Python313\python.exe`, which plain
+  `python` resolves to, and it has NO third-party packages** — no networkx, no requests, no
+  jinja2 (verified 2026-08-01 with `py -0p`). The
+  `C:\Users\Emma\AppData\Local\Programs\Python\Python313\python.exe` this line used to name
+  is **gone**, the same way the `C:\Users\Immanuelle\...` one before it went.
+  The whole genealogy verification chain — `extract_genealogy.py`, `dump_qa_errors.py`,
+  `compare_tangles.py`, `compare_depth.py`, `check_invariants.py`, `build_cycles_notion.py`,
+  `cut_edges.py`, `merge_cluster.py`, `add_bridge_edges.py` — is **stdlib-only and runs
+  fine**. Only `audit_wikidata_ids.py` and `check_cycles_against_wikidata.py` need
+  networkx/requests. For a Wikidata lookup use `urllib.request` with an explicit
+  `User-Agent` header; without one the API returns **403**. `build.py` needs jinja2, so a
+  local site build needs `pip install -r requirements.txt` first — but per the CI/CD note
+  below, don't build locally anyway.
 - Build uses temp dir swap (site_tmp → site) — stop dev server before rebuilding to avoid Windows lock errors
 - Do NOT run `python build.py` before every commit — just commit and push, the user checks online
 
