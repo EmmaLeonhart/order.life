@@ -4,6 +4,40 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **Two more tangles dissolved — and a correction: last tick's "the freely-workable pool is
+  empty" was wrong.** Tangles 15 and 16 had never been examined. I had gone through the
+  list often enough to assume I had seen all of it, and I hadn't. Both turned out to be the
+  sewn-tail shape and neither needed a ruling or a book.
+
+- **Q73518 → Q73383, the Junii Bruti.** `Q73383` "Lucius Junius Brutus" carries the alias
+  "**C. Junius Brutus**" — the exact label of `Q73644`, another member of the same ring.
+  That recurring cognomen is what lets a name-matching import join the ends, and `Q73518`
+  is "C. Junius **Junius Brutus** Brutus", a doubled composite. Only `Q73383` has a parent
+  outside the ring: `Q73863` "Junius Brutus", which has a father of its own and lists
+  `Q73383` as its child. Head identified, tail cut. Chain reads 803/804/805 afterwards.
+
+- **Q76933 → Q76693, the Sergii Octavii.** `Q76693`'s label is "Sergius Octavius
+  **Pontianus Laenes** Octavius **Pontainus**" — **a concatenation of the other two ring
+  members' names**, `Q77155` "Sergius Ovtavius Laenes" and `Q76933` "Sergius Octavius
+  Pontainus". It carries five parents where they carry two and one, and four of the five
+  sit outside the ring. Head identified, tail cut. Chain reads 3186/3188/3189.
+
+  I did not unmerge `Q76693` despite the composite label: splitting it needs a decision
+  about which of five parents and three children go to which half, and none of these six
+  records carries a Wikidata id to decide it. The loop closes on one identifiable edge and
+  that edge does not require the split.
+
+  **0 records lose their route to Aster** in either; the distinct ancestors lost are three
+  and four, every one inside its own ring.
+
+- **On the mistake.** The load-bearing default in the status-report brief says an item with
+  no specifically-named blocker is not deferred — do it now. Reporting "everything is
+  blocked" made that check pass vacuously, which is the same failure as the vacuous I2
+  invariant recorded in `queue.md`: a test that cannot fail. The fix is cheap and I should
+  have been doing it all along — enumerate the tangle list and diff it against what has
+  actually been opened, rather than trusting the running memory of it.
+
+
 - **Tangle 4, the Portuguese ring: investigated and left alone. Four contradicted edges, not
   one — and with it the freely-workable pool is empty.**
 

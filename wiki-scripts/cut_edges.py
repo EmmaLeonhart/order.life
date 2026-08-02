@@ -158,6 +158,54 @@ CUTS = {
                              "now Q200003 -- this record is wd Q20101444, Pedaiah of "
                              "Rumah, whose only recorded relation is his daughter Zebudah"),
     ],
+    # 2026-08-02. Tangles 15 and 16 of cycles_review.md -- two more sewn tails, both
+    # Roman, both settled by the same asymmetry: the ring's head has parents OUTSIDE the
+    # ring, the rest have only their predecessor, and the tail is stitched onto the head.
+    #
+    # (a) Q73518 -> Q73383, THE JUNII BRUTI.
+    #       Q73383 "Lucius Junius Brutus", **aliases include "C. Junius Brutus"**
+    #       Q73644 "C. Junius Brutus"                <- the same name
+    #       Q73518 "C. Junius **Junius Brutus** Brutus"  <- a doubled, composite name
+    #     The ring is Q73383 -> Q73644 -> Q73518 -> Q73383, and the recurring cognomen is
+    #     exactly what lets a name-matching import join the ends. Only Q73383 has a parent
+    #     outside the ring: Q73863 "Junius Brutus", which has a father of its own (Q73952)
+    #     and lists Q73383 as its child. So Q73383 is the head with real parentage, and
+    #     Q73518, the tail, is the extra claim.
+    #     After the cut Q73383 keeps Q73863 and the chain reads 803/804/805.
+    #
+    # (b) Q76933 -> Q76693, THE SERGII OCTAVII.
+    #       Q76693 "Sergius Octavius **Pontianus Laenes** Octavius **Pontainus**"
+    #       Q77155 "Sergius Ovtavius **Laenes**"
+    #       Q76933 "Sergius Octavius **Pontainus**"
+    #     **Q76693's label is a concatenation of the other two.** That is a merge artefact
+    #     on its face, and it carries five parents where the others carry two and one.
+    #     Four of those five sit outside the ring -- Q76930 "Lucius Octavius Laenus",
+    #     Q76936 "Octavius Laenas", Q76945 "Lucius Octavius Laenas" and Q76939 "Pontia" --
+    #     so again the head has real parentage and the tail Q76933 is the extra.
+    #     After the cut Q76693 keeps all four and the chain reads 3186/3188/3189.
+    #
+    # Why not UNMERGE, even though Q76693's label looks composite: splitting it needs a
+    # decision about which of its five parents and three children go to which half, and
+    # nothing in the dump or on Wikidata decides that -- none of these six records carries a
+    # Wikidata id. The loop closes on one edge and that edge is identifiable without the
+    # split. Why not DEDUPE: in each ring the members are consecutive generations, not
+    # copies; merging would fuse generations.
+    # Not a tradition join: Roman throughout both.
+    #
+    # Measured over edges.tsv before applying: **0 records lose their route to Aster** in
+    # either, both tangles dissolve, and the distinct ancestors lost are **three** (the
+    # Brutus ring) and **four** (the Sergius ring plus Q77395 Paullus, Q77155's mother) --
+    # every one inside its own ring.
+    "roman-sewn-tails": [
+        ("Q73518", "Q73383", "the tail of a three-deep Junii Bruti chain recorded as the "
+                             "father of its head, whose real father Q73863 sits outside "
+                             "the ring -- the shared cognomen 'C. Junius Brutus' is what "
+                             "let the ends be joined"),
+        ("Q76933", "Q76693", "the tail of a three-deep Sergii Octavii chain recorded as "
+                             "one of five fathers of its head, whose label is a "
+                             "concatenation of the other two members' names and which "
+                             "keeps four parents outside the ring"),
+    ],
     # 2026-08-02. Tangle 16 of cycles_review.md, the Malacca line -- a fourth sewn tail,
     # and settled on structure rather than on adjudicating the Sejarah Melayu.
     #
