@@ -691,10 +691,15 @@ central command.
    three false edges are on Wikidata as well, and in both cases Wikidata contradicts
    itself, which is where they came from.
 
-   **Also still open, and neither is a merge:** the `WRONG-PARENT-EDGE` on `Q72834` (two
-   fathers who are brothers, `Q72984` wd `Q929498` and `Q148066` wd `Q897091`), and the
-   one remaining mutual-parent pair `fix_mutual_parent_pairs.py` skips —
-   `Q73530`/`Q73653`.
+   **`Q73530`/`Q73653` is DONE (2026-08-02, `cut_edges.py fulvii-mutual-parents`).** Both
+   directions cut, not one: the Fulvii stemma is already complete in the dump — `Q99418`
+   L. Fulvius I → `Q73958` L. Fulvius II → `Q73872` L. Fulvius Curvus → both `Q73530`
+   Marcus Flaccus and `Q99414` Marcus Curvus, and `Q99414` → `Q73653` Cassus Curvus — so
+   Flaccus and Marcus Curvus are brothers and Cassus Curvus is Flaccus's nephew. Neither of
+   the pair is the other's father either way.
+
+   **Also still open, and not a merge:** the `WRONG-PARENT-EDGE` on `Q72834` (two fathers
+   who are brothers, `Q72984` wd `Q929498` and `Q148066` wd `Q897091`).
 
    **`Q72834`'s two fathers are NOT a dump defect — Wikidata carries the same pair.**
    Checked 2026-08-01: `Q703354` lists father = [`Q897091` Marcus, `Q929498` Quintus] and

@@ -4,6 +4,42 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **Tangle 15 dissolved: the Fulvii mutual-parent pair, and both directions went, not one.**
+
+  This is the pattern `apply_roman_unmerge.py` names in its own docstring — Roman tria
+  nomina repeat father-to-son, so a name-matching import links father and son in *both*
+  directions and produces a 2-cycle. Here the import had four Fulvii to choose from and
+  linked the wrong two.
+
+  **The real stemma was already in the dump, complete and declared on both sides:**
+
+      Q99418 L. Fulvius I → Q73958 L. Fulvius II → Q73872 L. Fulvius Curvus
+        → { Q73530 Marcus Flaccus, Q99414 Marcus Curvus }
+      Q99414 Marcus Curvus → Q73653 Cassus Curvus
+
+  So Marcus Flaccus and Marcus Curvus are **brothers**, and Cassus Curvus is Flaccus's
+  **nephew**. Neither of the pair is the other's father in either direction, and each
+  already carried its correct father with the edge declared from both ends.
+
+  **Why both directions.** Cutting either single edge opens the ring, and stopping there
+  was the cheap option — it was one of three measured possibilities and all three showed 0
+  Aster loss. But it leaves the *other* false claim standing, a man recorded as his own
+  nephew's son, purely because no cycle runs through it any more. `queue.md` already makes
+  this point about `Q99342` in the Scipio note: an equally impossible claim is not less
+  impossible for being acyclic. Applying that rule to a case it wasn't written about is the
+  whole of this repair.
+
+  **0 records lose their route to Aster**; three distinct ancestors lost — the two ring
+  members and `Q99414`, who was reachable from Flaccus's line only through the false edge.
+  Afterwards `Q73530` has exactly `Q73872` as its parent and `Q73653` exactly `Q99414`,
+  which is the stemma above.
+
+  This was the tangle last tick's enumeration surfaced as having no named blocker. It had
+  been sitting in `queue.md` since the start of the session as a leftover mutual-parent
+  pair `fix_mutual_parent_pairs.py` declines to touch, and never once as a tangle in its own
+  right — which is exactly the gap enumerating rather than recalling was meant to catch.
+
+
 - **Two more tangles dissolved — and a correction: last tick's "the freely-workable pool is
   empty" was wrong.** Tangles 15 and 16 had never been examined. I had gone through the
   list often enough to assume I had seen all of it, and I hadn't. Both turned out to be the

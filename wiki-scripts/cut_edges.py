@@ -158,6 +158,51 @@ CUTS = {
                              "now Q200003 -- this record is wd Q20101444, Pedaiah of "
                              "Rumah, whose only recorded relation is his daughter Zebudah"),
     ],
+    # 2026-08-02. Tangle 15 of cycles_review.md, Marcus Flaccus / Cassus Curvus -- a Roman
+    # mutual-parent 2-cycle, and **both directions go**, not one.
+    #
+    # This is the pattern apply_roman_unmerge.py was written for and names in its own
+    # docstring: "Roman tria nomina repeat father-to-son, so a name-matching import linked
+    # father and son in BOTH directions. The result is a 2-cycle." Here the import had four
+    # Fulvii to choose from and linked the wrong two.
+    #
+    # THE REAL STEMMA IS ALREADY IN THE DUMP, complete and declared on both sides:
+    #
+    #   Q99418 Lucius Fulvius, I -> Q73958 Lucius Fulvius, II -> Q73872 Lucius Fulvius
+    #   Curvus -> { Q73530 **Marcus Flaccus**, Q99414 **Marcus Curvus** }
+    #   and Q99414 Marcus Curvus -> Q73653 **Cassus Curvus**
+    #
+    # So Marcus Flaccus and Marcus Curvus are **brothers**, and Cassus Curvus is Flaccus's
+    # **nephew**. Neither of the pair is the other's father in either direction, and each
+    # already carries its correct father with the edge declared from both ends --
+    # Q73872 lists Q73530 among its children, Q99414 lists Q73653.
+    #
+    # WHY BOTH DIRECTIONS AND NOT ONE. Cutting either single edge opens the ring, and the
+    # cheap habit would be to stop there. But that leaves the *other* false claim standing
+    # -- a man recorded as his own nephew's son, or his own uncle's father -- purely because
+    # no cycle happens to run through it any more. The queue's Scipio note makes the same
+    # point about Q99342: an equally impossible claim is not less impossible for being
+    # acyclic.
+    #
+    # Why not UNMERGE: neither record holds two identities; both are single Fulvii with one
+    # name each. Why not DEDUPE: "Marcus Flaccus" and "Cassus Curvus" are different men in
+    # the same family, three of whose relatives are separately recorded.
+    # Not a tradition join: Roman on both sides.
+    #
+    # Measured over edges.tsv before applying: **0 records lose their route to Aster**, the
+    # tangle dissolves, and the distinct ancestors lost anywhere number **three** -- the two
+    # ring members and Q99414 Marcus Curvus, who was only reachable from Flaccus's line
+    # through the false edge. Afterwards Q73530 has exactly Q73872 as its parent and Q73653
+    # exactly Q99414, which is the stemma above.
+    "fulvii-mutual-parents": [
+        ("Q73653", "Q73530", "Cassus Curvus recorded as the father of Marcus Flaccus, who "
+                             "is his uncle -- Flaccus's real father Q73872 Lucius Fulvius "
+                             "Curvus is already declared on both sides"),
+        ("Q73530", "Q73653", "and the mirror claim, Flaccus as Cassus Curvus's father. "
+                             "Cutting only one opens the ring but leaves the other equally "
+                             "impossible claim standing; Curvus keeps Q99414 Marcus "
+                             "Curvus, declared on both sides"),
+    ],
     # 2026-08-02. Tangles 15 and 16 of cycles_review.md -- two more sewn tails, both
     # Roman, both settled by the same asymmetry: the ring's head has parents OUTSIDE the
     # ring, the rest have only their predecessor, and the tail is stitched onto the head.
