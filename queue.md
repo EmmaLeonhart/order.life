@@ -525,6 +525,12 @@ central command.
    - **Zebudah, twice (2026-08-02).** `Q4626` and `Q60222` share the label, the Wikidata
      id `Q30527376`, both fathers, and both sons. Surfaced by the Pedaiah unmerge; both sit
      on the same side of that split, so it did not need deciding.
+   - **You Xiong, twice (2026-08-02).** `Q51954` "You Xiong" and `Q87862` " (You Xiong)
+     Youxiong" both have father `Q54433` and exactly one child, `Q6421` Shaodian, and
+     `Q51954`'s aliases include the other's label verbatim. Surfaced by the Shaodian cut;
+     merging would not have broken that ring. **Note `Q54433` is the haplogroup bridge
+     node**, so this pair sits on a cross-tradition join — check `cycle_policy.md` before
+     touching it.
    - **The Shila pair.** `Q86617` and `Q91224` are both "Shila Ish Kfar Temarta" and both
      recorded as the father of `Q86607` Acha. `Q86589` / `Q91134` is the same story one
      generation down, both "Abba 'Abbahu' bar Acha bar Sallah al-Kafri", both children of

@@ -158,6 +158,44 @@ CUTS = {
                              "now Q200003 -- this record is wd Q20101444, Pedaiah of "
                              "Rumah, whose only recorded relation is his daughter Zebudah"),
     ],
+    # 2026-08-02. Tangle 6 of cycles_review.md, Shaodian -- a generation-counter chain
+    # with its tail sewn to its own head. The dump's own labels settle this one; no
+    # external source is needed.
+    #
+    # Q6421 Shaodian (b. 2697 BC, wd Q4302144) is the father of the Yellow Emperor. Hanging
+    # below him is a chain of placeholders, and they are LABELLED WITH THEIR DEPTH:
+    #
+    #   Q6421   Shaodian            -> Q87856 "Generation 2"
+    #   Q87856  "Generation 2"      -> Q87854 "Generation 3"
+    #   Q87854  "Generation 3"      -> Q87852 "Generation 4"
+    #   Q87852  "Generation 4"      -> Q87850 "Generation 5"
+    #   Q87850  "Generation 5"      -> Q87848 -> Q87846 -> Q87844 -> Q87842 -> Q87840
+    #   Q87840  (unlabelled)        -> Q6421 Shaodian          <-- closes the ring
+    #
+    # The counter runs DOWNWARD from Shaodian -- he is generation 1 and "Generation 2" is
+    # his child -- so the tail of that chain cannot also be his father. Four more unlabelled
+    # placeholders continue past "Generation 5" and the last of them is the one sewn back on.
+    #
+    # Shaodian is NOT left parentless. He has five recorded fathers and keeps four:
+    # Q6433 Fuxi, Q6435 Nuwa, and Q51954 + Q87862, which are two copies of You Xiong (both
+    # with father Q54433 and both with Q6421 as their only child -- logged as a duplicate in
+    # queue.md, not merged here).
+    #
+    # Why not UNMERGE: nothing holds two identities. Why not DEDUPE: the ten chain records
+    # are distinct placeholder generations, not copies of one another.
+    # Not a tradition join: Chinese on both sides, and the cross-tradition link into this
+    # material is Q54433 -> You Xiong, which is untouched.
+    #
+    # Measured over edges.tsv before applying: **0 records lose their route to Aster**, the
+    # tangle dissolves, and the distinct ancestors lost anywhere number **eleven** -- the
+    # ten ring members plus Q87860, "Generation 2"'s mother. Every one is inside the ring.
+    # Shaodian goes 274 -> 263.
+    "shaodian-generation-chain": [
+        ("Q87840", "Q6421", "the tail of a chain whose own labels count generations "
+                            "DOWNWARD from Shaodian -- Generation 2, 3, 4, 5 and four "
+                            "unlabelled more -- recorded as Shaodian's father; he keeps "
+                            "Fuxi, Nuwa and both You Xiong records"),
+    ],
     # 2026-08-02. Tangle 2 of cycles_review.md, the Anicii/Petronii -- 18 records, the
     # second-largest tangle, and one woman recorded as the mother of her own
     # great-great-grandparents.

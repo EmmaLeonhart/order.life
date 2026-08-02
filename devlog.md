@@ -4,6 +4,33 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **Tangle 6 dissolved: a generation-counter chain with its tail sewn to its own head.**
+
+  `Q6421` Shaodian (b. 2697 BC, father of the Yellow Emperor) has a chain of placeholders
+  below him, and **they are labelled with their own depth**:
+
+      Shaodian → "Generation 2" → "Generation 3" → "Generation 4" → "Generation 5"
+               → four unlabelled placeholders → Q87840 → Shaodian
+
+  The counter runs **downward** — Shaodian is generation 1 and "Generation 2" is his child
+  — so the tail of that chain cannot also be his father. No external source needed; the
+  dump's own labels settle it.
+
+  Shaodian is not left parentless: he had five recorded fathers and keeps four — Fuxi,
+  Nüwa, and two copies of You Xiong. **0 records lose their route to Aster**, the tangle
+  dissolves, and the distinct ancestors lost anywhere number **eleven** — the ten ring
+  members plus `Q87860`, "Generation 2"'s mother. Every one inside the ring.
+
+  **Logged, not merged:** `Q51954` and `Q87862` are both You Xiong, same father `Q54433`,
+  same single child. Worth a flag beyond the usual — `Q54433` is the **haplogroup bridge
+  node**, so that pair sits directly on a cross-tradition join and `cycle_policy.md`
+  applies to anyone who touches it later.
+
+  This is the third tangle settled by reading labels rather than looking anything up — after
+  the Welsh patronymics and "DAKSHA (reborn as DAKSHA)". For placeholder-heavy imports the
+  label is more informative than the graph, and it costs nothing to read first.
+
+
 - **Two of the remaining tangles are not defects at all: the Puranic rebirth of Daksha.**
 
   Tangles 3 and 5 — **28 records, 13% of everything still trapped** — are the same Puranic
