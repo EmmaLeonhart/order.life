@@ -601,7 +601,43 @@ central command.
    cheap cut: `Q138061` → `Q138810` is free and dissolves the tangle, which says nothing
    about whether it is the true edge.
 
-10. **THE EIGHT SERVILII — an eight-record ring with no evidence in it at all.**
+10. **THE PORTUGUESE RING — four contradicted edges, not one. NEEDS A LINHAGENS SOURCE.**
+   Tangle 4, fourteen records, investigated 2026-08-02 and **not** acted on.
+
+   Portuguese patronymics work like the Welsh ones — *Ausendes* = son of Ausindo, *Soares*
+   = son of Soeiro, *Ximenes* = son of Ximeno — and four of the ring's edges are
+   **positively contradicted** by them, i.e. the child's own name gives a different
+   father-name than the recorded parent:
+
+   | recorded parent | child | the child's name says |
+   |---|---|---|
+   | `Q113625` D. Teodoredo **Ausendes** | `Q79388` D. Ausindo **Ximeno** | son of a Ximeno |
+   | `Q79415` D. Soeiro **Ausendes** | `Q79435` D. Arnaldo **Ximenes** | son of a Ximeno |
+   | `Q79480` Fernão de Tangil | `Q79537` Estêvão **Soares** | son of a Soeiro |
+   | `Q79537` Estêvão Soares | `Q79618` Tereza **Eriz** de Lugo | daughter of an Ero |
+
+   Four other edges are *confirmed* by the same test — Soeiro Guedes → Ausindo **Soares** →
+   Teodoredo **Ausendes**, Ausindo Ximeno → Soeiro **Ausendes**, Arnaldo → Sancho
+   **Arnolfo** — plus two external father-links, Ufo Ufes → Ufa **Ufes** and Arnaldo → Godo
+   **Arnaldes**.
+
+   **So this is not one bad join in one family. It is several fragments — Ximenes, Tangil,
+   Baião, Lugo — concatenated into a chain**, and cutting any single edge opens the ring
+   while leaving three false parentages standing.
+
+   **Why I am not picking one.** The best candidate is `Q113625` → `Q79388`, which joins
+   the end of the best-attested fragment to the start of another. But `Q113625` is a
+   **claimless connector** — no `P47`, `P48` or `P20` in the canonical file *or* its shadow
+   `Q101962`, only a birth of 1078 — so both its ring edges are one-sided, declared solely
+   from its neighbours. That is the PHANTOM shape item 15 warns is not automatically safe
+   to cut. And Portuguese naming is looser than Welsh: toponymics (*de Baião*, *Tangil*,
+   *de Lugo*) break the patronymic rule often enough that "contradicted" carries less
+   weight here than it did for Morfudd or Gwent.
+
+   Needs the *Livro de Linhagens do Conde D. Pedro*, or Braamcamp Freire's *Brasões da Sala
+   de Sintra* — a real Portuguese stemma, not another pass over the dump.
+
+11. **THE EIGHT SERVILII — an eight-record ring with no evidence in it at all.**
    Tangle 8, investigated 2026-08-02 and **not** acted on.
 
    Eight records, each with exactly one father and one in-ring child, forming a closed
@@ -630,7 +666,7 @@ central command.
    collapse the placeholder chain entirely under repair-order step 4, which is the one case
    in the queue where "nothing substantial above it" is literally true.
 
-11. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
+12. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
    `Q88454` "Esther bat Sahlan ben Abraham" and `Q90982` "Esther bat Yosef ben 'Amram
    haDayyan al-Sijilmasi" are recorded as **each other's mother**. One of the two edges is
    false. Both readings are naming-consistent:
@@ -686,7 +722,7 @@ central command.
    that does not exist. It still repairs 0 of 5 — every remaining pair genuinely lacks
    direction evidence, which is the correct answer, not a failure.
 
-12. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
+13. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
    Generated 2026-08-01 by `wiki-scripts/same_role_parents.py`. One child has one father
    and one mother, so **every row is a defect**: either the pair is one person recorded
    twice, or one of the two edges is false.
@@ -740,7 +776,7 @@ central command.
    duplicate there is real, but the naming conventions and what counts as evidence are
    different — do not apply prosopography reasoning to a clade.
 
-13. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
+14. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
    `Q66385` "Imaam 'Udd \ Add Ben Add Ben ?'Udadh", `Q66394` "Udd son of Umaisi", and
    `Q86503` "Nabhan Banu Ismail" (the last acquired in the M3 merge). At most one is right.
 
@@ -759,7 +795,7 @@ central command.
    children of `Q67561` — and `Q67552` is flagged `COLLAPSE` against `Q67561`, so those two
    must not be merged either.
 
-14. **Work the remaining cycles under the repair order above.** Start from
+15. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
    34 are `REVIEW`: no Wikidata evidence decides them, mostly because "contradicted" there
    means *Wikidata records no link*, which is an absence and not a refutation. Unmerge
@@ -769,7 +805,7 @@ central command.
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-15. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
+16. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
    **97.1%** of edges are declared on both sides; **3,762** are one-sided. (The older
    96.3% / 4,723 figures were inflated — the scan compared raw qids without canonicalising
    through `redirects.tsv`, and 961 were never a defect.)
@@ -817,7 +853,7 @@ central command.
    Decide per record whether the missing side should be added or the present side removed;
    do NOT blanket-add, since some one-sided edges are deletions that only got half done.
 
-16. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
+17. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
    have no item file, yet 219 edges reference them and they hold 200+ recorded
    relationships between them. They are holes in the dump where the surrounding family
    survived. Creating them is one `add_bridge_edges.py`-style operation each; deciding
