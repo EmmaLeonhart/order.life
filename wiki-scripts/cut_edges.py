@@ -128,6 +128,82 @@ CUTS = {
     # her mother and himself -- the cycle counting itself -- while keeping all 5,095 real
     # ancestors through Hug III. Q32705 goes 2 -> 0 as described. No gateway anywhere near
     # this.
+    # 2026-08-01. Tangles 27 and 31 of cycles_review.md. Same method as nagano-entenca:
+    # read the people, find the edge that cannot be, remove it from both sides.
+    #
+    # (a) Q73925 -> Q73824, THE ALCIMACHUS LOOP. Three records, three generations, and one
+    #     edge that folds the youngest back onto the oldest:
+    #
+    #         Q73824  Agathocles of Pella          wd Q4691548
+    #         Q135467 Alcimachus of Apollonia      wd Q24254
+    #         Q73925  Alcimachus                   wd Q4713126
+    #
+    #     Wikidata is clean and consistent across all three: Q4691548's children are
+    #     Q24254, Q32133, Q23938, Q176912 -- Alcimachus of Apollonia and Lysimachus and
+    #     his brothers -- and the dump agrees, giving Q73824 exactly four children.
+    #     Q24254's father is Q4691548 and its children are Q4713126 and Q7183087. Q4713126's
+    #     father is Q24254 and its only child is Q6710240, which is not Agathocles.
+    #     So the line runs Agathocles -> Alcimachus of Apollonia -> Alcimachus, and the
+    #     dump has the first two edges right. The third, Q73925 -> Q73824, makes a man his
+    #     own grandfather's father. Wikidata records no link in that direction at all, and
+    #     Agathocles of Pella has no recorded father anywhere -- which is the state
+    #     Q73824 is left in, and the correct one.
+    #
+    #     Why not UNMERGE: each of the three holds one identity with its own Wikidata id.
+    #     Why not DEDUPE: Q73925 and Q135467 share the name Alcimachus and are NOT the same
+    #     man -- Q4713126's own description is "son of Alcimachus of Apollonia", and
+    #     Q24254 lists Q4713126 as its child. Merging them would fuse father and son.
+    #     Not a tradition join: Macedonian on all three sides.
+    #
+    #     Measured: the three form a CLOSED loop with nothing above it. Q73824's entire
+    #     ancestor set is {Q73824, Q135467, Q73925} -- the cycle itself -- and the review
+    #     already records the component as not reaching Aster. After the cut Q73824 has 0
+    #     ancestors, Q135467 has 1 and Q73925 has 2, all real. Every one of the 29,424
+    #     records below loses at most those three phantom ancestors and no chain upward,
+    #     because there is no chain upward to lose.
+    #
+    # (b) Q29144 -> Q29148, THE KAYANID LOOP, decided by the Bundahishn, chapter XXXI.
+    #     Q29144 is labelled "kay uyarsh Raja Iran" with the alias "kay manush Raja Iran",
+    #     and that conflation is the whole defect. The text names two different men:
+    #
+    #       XXXI.25  "By Kavad was Kay Apiveh begotten; by Kay Apiveh were Kay Arsh,
+    #                 Kay Vyarsh, Kay Pisan, and Kay Kaus begotten"      -- four BROTHERS
+    #       XXXI.28  "Lohrasp was son of Auzav, son of Manush, son of Kay Pisin, son of
+    #                 Kay Apiveh, son of Kay Kobad"                      -- a DESCENT
+    #
+    #     Manush is Kay Pisin's son. Vyarsh is Kay Pisan's brother. The import merged them
+    #     into one record, so the same pair of qids carries a parent edge in each
+    #     direction and the loop closes. The dump does the identical thing one row over:
+    #     Q29140 is "kay kaus" with the alias "kay auzav", merging Kay Kaus (XXXI.25) with
+    #     Auzav son of Manush (XXXI.28).
+    #
+    #     The text refutes exactly one of the two edges. Q29148 -> Q29144 is XXXI.28's
+    #     "Manush, son of Kay Pisin" and stays. Q29144 -> Q29148 is refuted twice over --
+    #     XXXI.25 makes them brothers, XXXI.28 makes Pisin the elder -- and goes.
+    #
+    #     Why not DEDUPE: Pisan and Manush are two men in the source. Why not UNMERGE:
+    #     unmerging Q29144 into Vyarsh and Manush is the *right* full repair and is
+    #     written up for Emma in queue.md; it needs a name, a new record and a decision
+    #     about Q29140's identical conflation, none of which this loop cut requires.
+    #     Not a tradition join: Iranian on both sides.
+    #
+    #     THE CUT ALONE WOULD AMPUTATE, so it is not applied alone. Q29148's only parent
+    #     claim is the false edge, so cutting takes Kay Pisan from 341 ancestors to 0 and
+    #     detaches him from Aster. XXXI.25 gives his real father in the same sentence that
+    #     refutes the edge -- Kay Apiveh, already in the dump as Q29156 with 335 ancestors
+    #     reaching Q1 -- so add_bridge_edges.py's "kayanid-pisan" declares Q29156 ->
+    #     Q29148 and Pisan lands at 336. Measured over edges.tsv before applying:
+    #         Q29148  341 -> 0 (cut alone)  -> 336 (cut + reattach)
+    #         Q29144  341 -> 340            Q29156, Q29140, Q29152 unchanged
+    #     Run the bridge in the same batch as this cut, never this cut on its own.
+    "agathocles-kayanid": [
+        ("Q73925", "Q73824", "Alcimachus recorded as the father of Agathocles of Pella, "
+                             "who is his grandfather -- the two true edges of that "
+                             "descent are already present and stay"),
+        ("Q29144", "Q29148", "Manush recorded as the father of Kay Pisan, who is his "
+                             "father in Bundahishn XXXI.28 and his brother in XXXI.25 -- "
+                             "apply with the kayanid-pisan bridge, never alone"),
+    ],
     "nagano-entenca": [
         ("Q18066", "Q32705", "Norinari (d. 1530) recorded as father of Hisanari, who "
                              "died in 1503 and whose headship he inherited -- the true "

@@ -4,6 +4,54 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Two more tangles: Alcimachus (27) and the Kayanids (31).** Same method — read the
+  people, find the edge that cannot be, remove it from both sides.
+
+  **`Q73925` → `Q73824`, cut.** Three records, three generations, and one edge folding the
+  youngest back onto the oldest: `Q73824` Agathocles of Pella (wd `Q4691548`) → `Q135467`
+  Alcimachus of Apollonia (wd `Q24254`) → `Q73925` Alcimachus (wd `Q4713126`). Wikidata is
+  consistent across all three and the dump has the first two edges right — Agathocles'
+  four children in the dump are exactly Wikidata's four, and `Q4713126`'s own description
+  is *"son of Alcimachus of Apollonia"*. Its only recorded child is not Agathocles.
+  Agathocles of Pella has no recorded father anywhere, which is the state he is left in.
+
+  The trio is a **closed loop with nothing above it**: `Q73824`'s entire ancestor set was
+  `{Q73824, Q135467, Q73925}` — the cycle itself. The 29,424 records below lose those
+  three phantom ancestors and no chain upward, because there was no chain upward.
+
+  **`Q29144` → `Q29148`, cut, and `Q29156` → `Q29148` added.** `Q29144` is labelled
+  "kay uyarsh Raja Iran" with the alias "kay manush Raja Iran", and that conflation is the
+  whole defect. Bundahishn XXXI names two different men:
+
+  > **XXXI.25** — "By Kavad was Kay Apiveh begotten; by Kay Apiveh were Kay Arsh,
+  > Kay Vyarsh, Kay Pisan, and Kay Kaus begotten"
+  >
+  > **XXXI.28** — "Lohrasp was son of Auzav, son of Manush, son of Kay Pisin, son of
+  > Kay Apiveh, son of Kay Kobad"
+
+  Manush is Kay Pisin's **son**; Vyarsh is Kay Pisan's **brother**. Merged into one record,
+  the pair carries a parent edge in each direction and the loop closes. The text refutes
+  exactly one of them: `Q29148` → `Q29144` is XXXI.28 and stays; `Q29144` → `Q29148` is
+  refuted twice over and goes.
+
+  **The cut alone would have amputated, so it was not applied alone.** That false edge was
+  Kay Pisan's *only* parent claim — cutting it took him from 341 ancestors to **0**,
+  detached from Aster. XXXI.25 hands back the true father in the same sentence that
+  refutes the false edge: Kay Apiveh, already in the dump as `Q29156` with 335 ancestors
+  reaching `Q1` and already carrying three of the four brothers as children. Adding the
+  fourth lands Pisan at **336**; the five lost against 341 are the cycle counting itself.
+  Measured over `edges.tsv` before applying, and `Q29156` was checked not to be a
+  descendant of `Q29148` first, so the bridge cannot close a new loop.
+
+  **Left open deliberately, and it is an UNMERGE, not a cut:** `Q29144` still conflates
+  Kay Vyarsh with Manush, and `Q29140` does the identical thing one row over — "kay kaus"
+  with the alias "kay auzav", merging Kay Kaus of XXXI.25 with Auzav son of Manush of
+  XXXI.28. Splitting either needs a new record and a name, which is Emma's per the `Tros`
+  precedent. `Q29144`'s three fathers (`Q29148`, `Q29152` Kay Arsh, and the empty shell
+  `Q52717`) are the same conflation showing up as a multi-parent defect; only the loop
+  edge was touched.
+
+
 - **Two tangles removed by looking the people up: Nagano (30) and Entença (34).**
 
   Both are 2-record tangles — a real parent→child edge plus its reverse — and neither

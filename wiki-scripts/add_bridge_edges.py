@@ -70,6 +70,31 @@ BRIDGES = {
             ("Q153230", "Q53399", "A1: Rashid al-Din -- Khaidu is the son of Dutum Menen"),
         ],
     },
+    # 2026-08-01. The other half of cut_edges.py's "agathocles-kayanid" cut (b), and it is
+    # not optional -- run them as one batch.
+    #
+    # Cutting the false edge Q29144 -> Q29148 leaves Q29148 Kay Pisan with no parent claim
+    # at all, because the false edge was his only one: 341 ancestors to 0, detached from
+    # Aster. That is the amputation shape cycle_policy.md is about, and here the source
+    # hands back the true edge in the same sentence that refutes the false one:
+    #
+    #   Bundahishn XXXI.25 -- "By Kavad was Kay Apiveh begotten; by Kay Apiveh were
+    #                          Kay Arsh, Kay Vyarsh, Kay Pisan, and Kay Kaus begotten"
+    #
+    # Kay Apiveh is already in the dump as Q29156, with 335 ancestors reaching Q1 Aster,
+    # and already carries three of the four brothers as children. This adds the fourth.
+    # It invents nothing and creates no record.
+    #
+    # Cannot close a cycle: checked against edges.tsv before writing -- Q29156 is not a
+    # descendant of Q29148. Measured after: Q29148 lands at 336 ancestors, the five lost
+    # against the original 341 being the cycle counting itself.
+    "kayanid-pisan": {
+        "create": [],
+        "edges": [
+            ("Q29156", "Q29148", "Bundahishn XXXI.25 -- Kay Pisan is a son of Kay "
+                                 "Apiveh, alongside Kay Arsh, Kay Vyarsh and Kay Kaus"),
+        ],
+    },
 }
 
 FATHER, CHILD = "P47", "P20"
