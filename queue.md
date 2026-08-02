@@ -314,11 +314,16 @@ central command.
    (`Q88454` 318 → 1) is consistent with *either* reading, so it settles nothing either.
    Do not re-cut this without an external source.
 
+   **Two of the four mutual-parent pairs are now CUT and their tangles are gone
+   (2026-08-01, `cut_edges.py nagano-entenca`).** `Q18066`/`Q32705` and
+   `Q119481`/`Q124343` were both decided by reading the people rather than the dump — see
+   the devlog entry and the cut set's comment. Both false edges are on Wikidata too, and
+   in both cases Wikidata contradicts itself, which is where they came from.
+
    **Also still open, and neither is a merge:** the `WRONG-PARENT-EDGE` on `Q72834` (two
    fathers who are brothers, `Q72984` wd `Q929498` and `Q148066` wd `Q897091`), and the
-   four remaining mutual-parent pairs `fix_mutual_parent_pairs.py` skips —
-   `Q119481`/`Q124343` (different sexes and distinct wd ids, so **not** the merge the tool
-   suggests), `Q18066`/`Q32705`, `Q29144`/`Q29148`, `Q73530`/`Q73653`.
+   two remaining mutual-parent pairs `fix_mutual_parent_pairs.py` skips —
+   `Q29144`/`Q29148` and `Q73530`/`Q73653`.
 
    **`fix_mutual_parent_pairs.py`'s two reporting defects are FIXED (2026-08-01).**
    Symmetric spouse-coparent evidence no longer claims "two records of one person that

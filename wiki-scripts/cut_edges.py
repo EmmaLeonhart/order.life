@@ -67,6 +67,76 @@ CUTS = {
         ("Q78719", "Q78402", "Q78402 does not exist -- dangling child claim on "
                              "Cleopatra III"),
     ],
+    # 2026-08-01. Tangles 30 and 34 of cycles_review.md -- two 2-record tangles, each a
+    # mutual-parent pair, each settled by going and reading the people rather than the
+    # dump. Both are the same shape: a real parent->child edge plus its reverse. Neither
+    # is a merge (distinct Wikidata ids on both sides, and in the Entenca case different
+    # recorded sexes), so UNMERGE and DEDUPE do not apply and CUT is correct.
+    #
+    # BOTH false edges also exist ON WIKIDATA, which is presumably where they came from,
+    # and in both cases Wikidata contradicts itself rather than supporting the edge.
+    # "Wikidata is the reference, not gospel" cuts this way too: it can be wrong in a way
+    # its own other statements expose.
+    #
+    # (a) Q18066 -> Q32705, THE NAGANO PAIR. Q32705 is Nagano Hisanari (long ye shang ye,
+    #     written both  and , wd Q106814279); Q18066 is his son Nagano Norinari
+    #     (wd Q11654206, d. 1530-11-26 in the dump and on Wikidata).
+    #
+    #     ja.wikipedia's article on Norinari states the descent twice over: he is "the son
+    #     of Nagano Hisanari and the elder brother of Nagano Masanari", and "in Bunki 3
+    #     (1503) the previous head Hisanari died and he succeeded to the headship". A man
+    #     who died in 1530 and inherited the house in 1503 from Hisanari cannot be
+    #     Hisanari's father. The generation below agrees: Norinari's son is Nagano Narimasa
+    #     (b. 1491, d. 1561), the famous lord of Minowa, so the line runs
+    #     Hisanari -> Norinari -> Narimasa.
+    #
+    #     Wikidata's Q106814279 carries father = [Q11654206 Norinari, Q17229468 Masanari],
+    #     and BOTH of those items record Q106814279 as *their* father. Those two P22
+    #     statements are its two sons entered upside down; ja.wikipedia has Masanari as
+    #     Hisanari's son and Norinari's younger brother.
+    #
+    #     Keeps the true edge Q32705 -> Q18066, which is already declared on both sides.
+    #     Q32705 is left parentless; the dump does not record Hisanari's father and
+    #     inventing one is not this tool's business.
+    #
+    # (b) Q124343 -> Q119481, THE ENTENCA PAIR. Q119481 is Pons Hug d'Entenca
+    #     (wd Q21001415, male); Q124343 is his daughter Jussiana d'Entenca (wd Q14083227,
+    #     female, d. 1300). The dump records her as both his child and his mother, and
+    #     queue.md item 2 already had this pair right as far as "NOT a merge" -- two
+    #     Wikidata ids, two sexes -- without a direction.
+    #
+    #     The direction is decided by the surrounding family, which is consistent three
+    #     ways and only inconsistent on the one claim: Jussiana's mother is Q62118141
+    #     Sibil.la, Sibil.la's spouse is Pons Hug and her only child is Jussiana. So
+    #     Pons Hug + Sibil.la -> Jussiana. Chronology says the same: Pons Hug's father is
+    #     Hug III d'Empuries, who died in 1173, and Jussiana died in 1300 having married a
+    #     man born in 1150. A woman who died in 1300 is not the mother of a man whose
+    #     father died in 1173.
+    #
+    #     Wikidata's Q21001415 states mother = Q14083227 AND child = Q14083227 on one
+    #     record; his father's spouse there is a different woman entirely (Q11927499).
+    #
+    #     Keeps the true edge Q119481 -> Q124343. Pons Hug keeps his father Q115934, so
+    #     his line upward is untouched.
+    #
+    # Neither cut is a tradition join -- Nagano is Japanese on both sides, Entenca
+    # Catalan on both sides.
+    #
+    # Depth measured before applying, over edges.tsv with exactly these two edges removed.
+    # 9 records can be affected at all (the four plus their descendants); total ancestry
+    # over them goes 15,777 -> 15,769. Worst: Q119481 5,098 -> 5,095, losing his daughter,
+    # her mother and himself -- the cycle counting itself -- while keeping all 5,095 real
+    # ancestors through Hug III. Q32705 goes 2 -> 0 as described. No gateway anywhere near
+    # this.
+    "nagano-entenca": [
+        ("Q18066", "Q32705", "Norinari (d. 1530) recorded as father of Hisanari, who "
+                             "died in 1503 and whose headship he inherited -- the true "
+                             "edge is the other way and is already present"),
+        ("Q124343", "Q119481", "Jussiana (d. 1300) recorded as mother of her own father, "
+                               "whose father died in 1173 -- her mother is Sibil.la "
+                               "Q124763, and the true edge Q119481 -> Q124343 is already "
+                               "present"),
+    ],
     # queue.md item 1 (2026-07-31). The edge that closes the 18-record Roman tangle:
     #   Q72434 -> Q73893 -> Q73794 -> Q73692 -> ... -> Q72957 -> Q72801 -> Q72786 -> Q72434
     #

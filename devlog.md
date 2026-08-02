@@ -4,6 +4,50 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Two tangles removed by looking the people up: Nagano (30) and Entença (34).**
+
+  Both are 2-record tangles — a real parent→child edge plus its reverse — and neither
+  needed a scan, a script or a scoring pass. Each took reading who the people were.
+
+  **`Q18066` → `Q32705`, cut.** `Q32705` is Nagano Hisanari (長野尚業/業尚, wd
+  `Q106814279`); `Q18066` is his son Nagano Norinari (wd `Q11654206`, d. 1530-11-26).
+  ja.wikipedia states the descent twice: Norinari is "the son of Nagano Hisanari and the
+  elder brother of Nagano Masanari", and "in Bunki 3 (1503) the previous head Hisanari
+  died and he succeeded to the headship". A man who inherited the house in 1503 and died
+  in 1530 is not that predecessor's father. The generation below agrees — Norinari's son
+  is Nagano Narimasa, b. 1491, d. 1561, lord of Minowa.
+
+  **`Q124343` → `Q119481`, cut.** `Q119481` Pons Hug d'Entença (wd `Q21001415`) was
+  recorded as both the father and the son of `Q124343` Jussiana d'Entença (wd
+  `Q14083227`, d. 1300). The surrounding family decides it three ways over: Jussiana's
+  mother is `Q124763` Sibil·la, Sibil·la's spouse is Pons Hug, and Sibil·la's only child
+  is Jussiana. Chronology says the same — Pons Hug's father Hug III d'Empúries died in
+  1173, and a woman who died in 1300 does not mother a man whose father died in 1173.
+
+  **Both false edges are on Wikidata too, and Wikidata contradicts itself on both.**
+  `Q106814279` lists father = [Norinari, Masanari] while both of those record it as
+  *their* father — two sons entered upside down. `Q21001415` lists Jussiana as mother
+  *and* child on one record, while his own father's spouse there is a different woman.
+  That is where these edges came from. "The reference, not gospel" cuts this way as well:
+  the useful part of Wikidata here was not its parent links but its dates and the rest of
+  the family around them.
+
+  **Depth measured before applying**, over `edges.tsv` with exactly those two edges
+  removed. Only 9 records can be affected at all — the four plus their descendants — and
+  total ancestry over them goes **15,777 → 15,769**. The worst case is `Q119481` at
+  5,098 → 5,095, losing his daughter, her mother and himself; all 5,095 real ancestors
+  stay, through Hug III. `Q32705` goes 2 → 0 and is left parentless, which is honest: the
+  dump does not record Hisanari's father.
+
+  Neither is a tradition join — Nagano is Japanese on both sides, Entença Catalan on both
+  sides. Not merges either: distinct Wikidata ids on both pairs, and different recorded
+  sexes on the Entença one, which is what queue.md item 2 already said about it without
+  having a direction.
+
+  `edges.tsv`, `cycles_review.md` and the tangle counts are **stale by these two edges**
+  until the extractor is re-run; they still say 34 tangles / 283 records.
+
+
 - **Built the I4 pre-check I said I should have had, and validated it against the batch
   that failed.**
 
