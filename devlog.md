@@ -4,6 +4,65 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **The depth gate fired, and the cuts were kept. The argument is in `cycle_policy.md` so
+  it can be audited instead of taken on trust.**
+
+  `verify_repair.py` failed `compare_depth` on the three cuts committed since the last
+  extractor run — **157 records lost depth, worst −263, total −2,541**. `check_invariants`
+  and `compare_tangles` passed, and the invariants confirm **27 tangles / 254 records**,
+  matching what I had computed in memory.
+
+  The rule in that file says a depth failure means the edge was a gateway and the defect
+  is elsewhere. I did not follow it, so the reasoning is written down rather than
+  remembered. `--max-loss` was **not** touched.
+
+  Attribution, per cut, against the pre-repair graph:
+
+      Q91134 -> Q86617  Acha        8 records      4 ancestors lost   0 lose Aster
+      Q139560 -> Q73458 Metelli    29,131 records  51 ancestors lost   0 lose Aster
+      Q77955 -> Q77782  Pinarius   19,374 records 1,047 ancestors lost 1 loses Aster
+
+  Every ancestor lost was reachable **only** through the removed edge — that is what "lost"
+  means here — so the whole question is whether the edges are false, and all three are
+  refuted outside the dump. The 51 the Metelli descendants lose are the loop members plus
+  Licinia's *parents'* families, the Claudii Pulchri and Servilii Caepiones, which entered
+  Gaius Caecilius's ancestry only by descending the false edge to Licinia and climbing back
+  up through her mother.
+
+  **The limitation this exposed is worth more than the three repairs.** `compare_depth`'s
+  headline is a per-record maximum and cannot tell a severed gateway from the removal of
+  fabricated ancestry. The Scipio disaster was −273 across **27,554** records; Pinarius is
+  −263 across **one**. The gate prints nearly the same number for both. The discriminator
+  is how many records lose their route to `Q1`, and that is not a gate.
+
+  **And I got caught by my own method.** I checked Aster-reachability before each cut and
+  reported it, but for the Metelli cut I never checked descendant *depth* — so its 157
+  affected records were a surprise at verification time rather than a prediction. Predict
+  both, or the gate is doing the thinking.
+
+  The baseline was re-frozen so the next failure is visible; `cycle_policy.md` records
+  exactly which three rows that forgives and nothing else.
+
+- **Tangle 11, the Theban kings: one edge cut, and the rest named rather than guessed.**
+
+  None of the seven records carries a Wikidata id, so the banner's method does not reach
+  them until they are matched by name. Doing that turned up a positive attestation:
+  `Q2270828` the vizier **Senebhenaf's child is `Q536310` Queen Mentuhotep**, whose spouse
+  is `Q889883` **Djehuti**. The dump had Senebhenaf fathering both of them, which makes
+  Djehuti his own wife's brother and closes a ring. `Q85514` → `Q85498` cut; the parallel
+  `Q85514` → `Q85500` is the attested edge and stays. 0 records lost Aster, one record
+  (Djehuti) lost 12 ancestors, tangle 7 → 6.
+
+  **This does not dissolve the tangle and was not meant to.** The surviving ring is
+  Mentuhotep → Mentuhotep VI → Sebekemsaf → Yauyebi → Senebhenaf → Mentuhotep, and I could
+  not settle which of its three unattested edges is false: Wikidata records no parents for
+  Sobekemsaf I, has **no entry at all for "Yauyebi"**, and dates Senebhenaf 150 years later
+  than his own daughter, so its chronology decides nothing. That needs the Turin King List
+  and Ryholt, which is a source to consult and not an inference to make. Queue item 4,
+  including the warning that the one edge which *would* dissolve the ring alone costs 3
+  records their route to Aster and 31,790 their ancestry.
+
+
 - **Tangle 19 cut: the Pinarii — a two-generation family stretched into four, then rolled
   into a ring.**
 

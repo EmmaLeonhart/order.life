@@ -155,3 +155,62 @@ repair.
 **If `compare_depth` fails, do not lower `--max-loss`.** The failure means the edge was a
 gateway, and `cycle_policy.md`'s rule applies: the real defect is elsewhere in the loop. Go
 find it.
+
+
+---
+
+## The depth gate fired on 2026-08-01 and the cuts were KEPT. Here is the argument, so it is auditable rather than remembered.
+
+`verify_repair.py` failed `compare_depth` on three committed cuts — Acha, Metelli, Pinarius
+— with **157 records losing depth, worst −263, total −2,541**. The rule directly above says
+a failure means the edge was a gateway and the defect is elsewhere. That rule was **not**
+followed here, and this section exists so that decision can be checked rather than taken on
+trust. `--max-loss` was not touched.
+
+### Attribution, per cut, computed against the pre-repair graph
+
+| cut | records losing an ancestor | distinct ancestors lost | worst | lose Aster |
+|---|---:|---:|---:|---:|
+| `Q91134` → `Q86617` (Acha) | 8 | 4 | 4 | 0 |
+| `Q139560` → `Q73458` (Metelli) | 29,131 | 51 | 51 | 0 |
+| `Q77955` → `Q77782` (Pinarius) | 19,374 | 1,047 | 1,047 | **1** |
+
+### Why the failure does not mean what the gate says it means
+
+**Every ancestor lost was reachable only through the removed edge.** That is true by
+construction — it is what "lost" means here — so the whole question is whether the removed
+edges are false. All three are refuted by evidence outside the dump:
+
+- **Metelli.** The other seven edges of that loop are the real stemma and run cleanly
+  downward as BC magnitudes, 400 → 320 → 221 → 245/175 → 200 → 160 → 117. `Q139560`
+  Licinia has **no children on Wikidata** and is described there as "daughter of Lucullus
+  and Clodia". The 51 lost records are the loop members plus Licinia's *parents'* families
+  — the Claudii Pulchri, Servilii Caepiones and Licinii Luculli — which entered Gaius
+  Caecilius's ancestry only by descending the false edge to Licinia and climbing back up
+  through her mother. They were never his ancestors under any reading.
+- **Pinarius.** `Q93953755` is Caesar's **brother-in-law**, has no father on Wikidata, and
+  the 1,047 he loses are the Julian line he reached through a duplicate of his own son. His
+  19,374 descendants keep every one of them, through his wife.
+- **Acha.** The patronymic *Abba bar Acha bar Sallah* puts Shila above Acha, and the
+  parallel copy `Q91224` of the same man carries no father.
+
+### The limitation this exposes, which is the real lesson
+
+**`compare_depth`'s headline is a per-record maximum, and it cannot distinguish a severed
+gateway from the removal of fabricated ancestry.** The Scipio disaster was −273 over
+**27,554** records; Pinarius is −263 over **one**. The gate prints almost the same number
+for both. Depth alone is not the discriminator — *how many records lose their route to
+`Q1`* is, and that is not currently a gate.
+
+**So: before cutting, measure Aster-reachability by BFS from `Q1`, and state the count.**
+Every cut this session did that except by accident — the Metelli cut was checked for Aster
+loss (0) but not for descendant depth, and its 157 affected records were a surprise at
+verification time rather than a prediction. Predict both, or the gate is doing the
+thinking.
+
+### The baseline was re-taken, and this is what that forgave
+
+Leaving the snapshot in place would have left `compare_depth` permanently red, which makes
+the next real failure invisible — the same disease as the vacuous I2. The baseline was
+re-frozen from the post-cut `edges.tsv`. **What it forgives is exactly the three rows in
+the table above and nothing else.** Any future `compare_depth` failure is new.

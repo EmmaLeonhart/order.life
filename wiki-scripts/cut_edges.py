@@ -128,6 +128,52 @@ CUTS = {
     # her mother and himself -- the cycle counting itself -- while keeping all 5,095 real
     # ancestors through Hug III. Q32705 goes 2 -> 0 as described. No gateway anywhere near
     # this.
+    # 2026-08-01. Tangle 11 of cycles_review.md, the Theban kings of the Second
+    # Intermediate Period. **This cut does NOT dissolve the tangle and is not meant to.**
+    # It removes one edge that is positively refuted by an external attestation; the
+    # component has two interlocking rings and the second one needs a source I do not have.
+    # The remaining ring is written up in queue.md rather than guessed at.
+    #
+    # None of the seven records carries a Wikidata id, so they had to be matched by name:
+    #
+    #   dump Q85498 "Sekhemre Sementawi Djehuti"   = wd Q889883  Djehuti
+    #   dump Q85500 "Mentuhotep, Queen of Egypt"   = wd Q536310  Mentuhotep, queen consort
+    #   dump Q85514 "Senebhenaf, Vizier of Egypt"  = wd Q2270828 Senebhenaf, vizier
+    #   dump Q85478 "Sekhemre Sankhtawy Neferhotep III" = wd Q888037 Neferhotep III
+    #
+    # THE ATTESTATION, and it is positive rather than an absence:
+    #   Q2270828 Senebhenaf  -- child   Q536310
+    #   Q536310  Mentuhotep  -- father  Q2270828, spouse Q889883, described on Wikidata as
+    #                                   "Gemahlin des Pharaos Djehuti" / "queen consort"
+    #
+    # So the vizier Senebhenaf's child is **Queen Mentuhotep**, and Djehuti is her
+    # **husband**. The dump has Senebhenaf fathering both of them (Q85514 -> Q85498 and
+    # Q85514 -> Q85500), which makes Djehuti his own wife's brother and closes a ring.
+    # Q85514 -> Q85500 is correct and stays. Q85514 -> Q85498 is the son-in-law recorded as
+    # a son, and goes.
+    #
+    # Why not DEDUPE or UNMERGE: seven distinct kings and officials, no shared identity.
+    # Not a tradition join: Egyptian on both sides.
+    #
+    # Measured: **0 records lose their route to Aster**, one record loses ancestry -- Q85498
+    # Djehuti himself, 12 ancestors, which is his wife's family reached through the false
+    # edge. The tangle drops from 7 records to 6.
+    #
+    # WHAT IS LEFT, EXPLICITLY. The surviving ring is
+    #   Q85500 Mentuhotep -> Q85578 Mentuhotep VI -> Q85554 Sebekemsaf -> Q85528 Yauyebi
+    #   -> Q85514 Senebhenaf -> Q85500
+    # Senebhenaf -> Mentuhotep is the attested edge above and must not be cut. The false
+    # one is among the other three, and I could not settle which: Wikidata records no
+    # parents for Sobekemsaf I (Q563693) and has **no record at all for "Yauyebi"**, and
+    # its date for Senebhenaf (-1500) is later than its date for his own daughter (-1650),
+    # so its chronology here decides nothing either. That needs the Turin King List and
+    # Ryholt's reconstruction, not another pass over the dump.
+    "theban-senebhenaf": [
+        ("Q85514", "Q85498", "the vizier Senebhenaf is Djehuti's father-in-law, not his "
+                             "father -- Wikidata has Senebhenaf's child as Q536310 Queen "
+                             "Mentuhotep, whose spouse is Djehuti. Does not dissolve the "
+                             "tangle; see the note above for the ring that survives"),
+    ],
     # 2026-08-01. Tangle 19 of cycles_review.md, the Pinarii -- a two-generation family
     # stretched into four by duplication, then rolled into a ring.
     #
