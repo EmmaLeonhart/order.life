@@ -13,12 +13,13 @@ The severed chain ran all the way to **Q1 Aster**. Reverted. cycle_policy.md nam
 **The methodological hole:** I verified with compare_tangles.py, which measures **width** — how many records sit in a tangle. Load-bearing here means **depth, upward**, and nothing in the gate set measures it. A repair can pass every check and still amputate 263 generations. Building that gate is now queue item 2.
 === Where the cycles actually stand ===
 No, they are not all gone.
-|  | start of session | now |
-|---|---|---|
-| tangles (SCCs, size > 1) | 36 | 35 |
-| records trapped in one | 299 | 295 |
-| largest tangle | 72 | 72 |
-One tangle genuinely resolved (a mutual-parenthood pair Wikidata settled). The 18-record Roman one is back, pending the right fix.
+|  | 2026-07-31 | start of 2026-08-01 | now |
+|---|---|---|---|
+| tangles (SCCs, size > 1) | 36 | 34 | **30** |
+| records trapped in one | 299 | 283 | **274** |
+| largest tangle | 72 | 71 | 71 |
+**Four tangles removed on 2026-08-01 by looking the people up rather than scanning the dump**, all four gates green: Nagano, Entença, Alcimachus, Kayanid. Two were decided by dates, one by a three-generation chain Wikidata states cleanly, one by the Bundahishn. Total ancestral depth moved by −12 across fifteen records, worst −2 — that is the cycle-condensation arithmetic, not amputation.
+The 18-record Roman one is still there, pending the right fix.
 === Queue — top 3 ===
 1. **Find the real defect in the Scipio loop** — *diagnosed, and it needs you.* It is not in the Scipio half. `Q72786` "Marcus Aemilius Lepidus" carries **three separate father+mother couples**, and one of those fathers is the **son** of another. It is also listed as both spouse and child of the same record. That is a collapsed generation, and which parentage is the real one is Roman prosopography — I am not guessing it.
 1. ~~Add a depth gate~~ — **DONE.** `verify_repair.py` runs all four gates as one command. Proved it can fail by running it against the reverted Scipio cut: it catches it at **-273 levels** where the old width-only check called that same cut clean.
@@ -33,6 +34,11 @@ One tangle genuinely resolved (a mutual-parenthood pair Wikidata settled). The 1
 1. **The cycle counter was non-deterministic.** Three runs over one unchanged file gave 45, 50, 46. Rewritten around strongly connected components. **Every "cycles went X → Y" figure in devlog.md, queue.md, HANDOFF.md and GENEALOGY_QA.md predating 2026-07-31 is unsound**, including the 52 → 54.
 === Waiting on you ===
 None of these block the loop — it works around them.
+- **NEW 2026-08-01 — the Livius Drusus tangle. One ruling, everything else is done.** `Q73119` carries **two Wikidata ids**: `Q433463` Marcus Livius Drusus the Younger (tribune, 91 BC) and `Q20005554` Marcus Livius Drusus Aemilianus, whose Wikidata description is literally *"father of the general Gaius Livius Drusus"*. It is one record playing two men four generations apart, which is why the loop closes — the tribune comes out as his own great-grandfather's father.
+  - **The other half is already in the dump and needs no naming.** `Q148206` is an empty shell that is *already* recorded as a child of Salinator and a father of Gaius, from the other side only. So the unmerge is two removals, the same shape as the Tros one.
+  - **What stops me applying it:** the Livii reach Aster **only** through the merged record. After the unmerge, Gaius Livius Drusus goes 921 ancestors → 15 and **exactly 10 records lose their route to `Q1` Aster** (46,703 → 46,693, counted by BFS, not estimated). Everything below is untouched, because it descends through the tribune, who keeps his real 920 through Cornelia.
+  - **The question:** those 921 ancestors are the *tribune's*, inherited upward by his own great-grandfather — an artifact of the merge. **May the Livii Drusi lose that route to Aster?** If yes it is two lines and it is done today. If the line has to keep reaching Aster, then the repair is elsewhere: the correct route runs through Lucius Aemilius Paullus, and that branch dead-ends at 9 ancestors here **and dead-ends on Wikidata too** (`Q1306266`, consul 302 BC, no recorded father). Joining the Aemilii Paulli upward would be Gaiad material, which makes it yours.
+  - I am not guessing Roman prosopography — that is the standing rule from the Lepidus item and I am holding to it.
 - **Genesis 11 patriarchs under Mesopotamian royal names** — corrupt import (relabel all nine) or deliberate euhemerism (change nothing, add a note)? Opposite fixes; everything under the Table of Nations depends on it.
   - Euhemerism lol
   - **RECEIVED and applied.** Nothing relabelled. The relabel proposal is dead in all five places it was still live — it had survived in four spots in `epic_vs_dump.md` alone, including a summary row saying "only the names are wrong". Every DATA ERROR verdict resting on it is withdrawn.

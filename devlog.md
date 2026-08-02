@@ -4,6 +4,48 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Four tangles gone, all four gates green: 34 → 30, 283 → 274 records trapped.**
+  `verify_repair.py` against the pre-repair snapshot — `tangled_components` 34 → 30,
+  `records_in_a_cycle` 283 → 274, `dangling_endpoints` 5 → 4, `children_over_2_parents`
+  1207 → 1206, `self_loops` 0, largest tangle unchanged at 71. Total ancestral depth
+  17,158,515 → 17,158,503: **twelve levels over fifteen records, worst −2**. Every loss is
+  the cycle-condensation arithmetic — a record inside a tangle counts the tangle's size as
+  its contribution, so the members and everything under them read −1 when it dissolves.
+  Four records gained. Kay Pisan reads −1 rather than −341 because the reattachment went
+  in the same batch as the cut.
+
+- **The Livius Drusus tangle: diagnosed to the bottom, deliberately NOT applied, one
+  ruling written up for Emma.**
+
+  `Q73119` carries **two Wikidata ids** — `Q433463` Marcus Livius Drusus the Younger
+  (tribune, 91 BC) and `Q20005554` Marcus Livius Drusus Aemilianus, whose Wikidata
+  description is *"father of the general Gaius Livius Drusus"*. One record, two men, four
+  generations apart, which is exactly why the loop closes: the tribune comes out as his own
+  great-grandfather's father. Every piece of both men's families is already in the dump —
+  the Elder `Q72798`/`Q73284`, Cornelia `Q72801`, the two children `Q78156` and `Q141460`,
+  Salinator `Q151476`, Paullus `Q73266`, Gaius `Q72951`.
+
+  **The other half already exists and needs no naming.** `Q148206` is an empty shell that is
+  *already* declared a child of Salinator and a father of Gaius — from the other side only,
+  which is why it never grew claims of its own. It is the `Q20005554` slot. The unmerge is
+  two removals, the `Tros` shape.
+
+  **What stopped it.** The Livii reach Aster only through the merged record. Measured:
+  `Q72951` 921 ancestors → 15, `Q72798` → 24, `Q141604` and `Q144272` → 16, and **exactly
+  10 records lose their route to `Q1`** — 46,703 → 46,693, counted by BFS from Aster rather
+  than estimated. Everything below is untouched because it descends through the tribune,
+  who keeps his real 920 through Cornelia.
+
+  That is small — the reverted Scipio cut cost 27,554 records and 273 levels — but
+  `compare_depth` would still fail at roughly −263 on `Q72951`, and the rule for a failing
+  depth gate is revert unless external evidence settles it. The external evidence settles
+  *who the two men are*; it does not settle whether the Gaiad may let the Livii Drusi lose
+  Aster. **That is a ruling about the genealogy, not about the data, so it is Emma's** —
+  and the alternative repair is worse-defined: the correct route runs `Q73266` → `Q73413` →
+  `Q73551` and dead-ends at 9 ancestors here **and on Wikidata too** (`Q1306266`, consul
+  302 BC, no recorded father). Written into queue.md item 2 and `notion-work-loop.md`.
+
+
 - **Two more tangles: Alcimachus (27) and the Kayanids (31).** Same method — read the
   people, find the edge that cannot be, remove it from both sides.
 

@@ -298,7 +298,54 @@ central command.
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-2. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
+2. **THE LIVIUS DRUSUS TANGLE — diagnosed to the bottom, ONE RULING NEEDED FROM EMMA.**
+   Investigated 2026-08-01. Nothing here is a guess and nothing is applied.
+
+   **`Q73119` carries TWO Wikidata ids**, `Q433463` and `Q20005554`. It is a merge of two
+   men four generations apart:
+
+   | | who | Wikidata says |
+   |---|---|---|
+   | `Q433463` | Marcus Livius Drusus the Younger, tribune 91 BC | father `Q703346` (the Elder), mother `Q100804879` Cornelia, children Drusus Claudianus + Livia |
+   | `Q20005554` | Marcus Livius Drusus Aemilianus | described as *"father of the general Gaius Livius Drusus"*; fathers `Q703448` Salinator and `Q432244` Aemilius Paullus |
+
+   Every one of those maps onto a record already in the dump — `Q72798`/`Q73284` the Elder,
+   `Q72801` Cornelia, `Q78156` + `Q141460` the children, `Q151476` Salinator, `Q73266`
+   Paullus, `Q72951` Gaius. **That is why the loop closes:** the tribune is his own
+   great-grandfather's father, because one record is playing both parts.
+
+   **The other half already exists and needs no naming.** `Q148206` is an empty shell that
+   is *already* declared a child of `Q151476` Salinator and a father of `Q72951` Gaius —
+   from the other side only, so it never got its own claims. It is the `Q20005554` slot.
+   So the unmerge is two removals, exactly the `Tros` shape: drop `Q73119`'s child-claim on
+   `Q72951` and its father-claim on `Q151476`, and Gaius keeps his father `Q148206`.
+
+   **THE ONE THING THAT STOPS IT, measured, not feared.** The Livii reach Aster *only*
+   through the merged record. After the unmerge:
+
+       Q72951 Gaius Livius Drusus       921 ancestors -> 15,  loses Aster
+       Q72798 Marcus Drusus the Elder   921           -> 24,  loses Aster
+       Q141604 Livia / Q144272 Gaius the jurist       -> 16,  lose Aster
+
+   **Exactly 10 records lose their route to Aster** — 46,703 → 46,693, checked by BFS from
+   `Q1`, not estimated. Everything below is unaffected because it descends through the
+   tribune, who keeps his real 920 through Cornelia. `compare_depth` would still fail
+   loudly (~−263 on `Q72951`), and the queue's own rule says a failing depth gate means
+   revert unless external evidence settles it.
+
+   **So the ruling, and it is one sentence:** the 921 ancestors those ten records hold are
+   an artifact of the merge — they are the *tribune's* ancestry, inherited upward by his
+   own great-grandfather. **May the Livii Drusi lose that route to Aster?** If yes, the
+   unmerge is two lines and it is done. If the answer is that the line must keep reaching
+   Aster, the repair is elsewhere: the correct route runs `Q73266` Lucius Aemilius Paullus
+   → `Q73413` → `Q73551`, and **that branch dead-ends at 9 ancestors in the dump and
+   dead-ends on Wikidata too** (`Q1306266`, consul 302 BC, has no recorded father). Joining
+   the Aemilii Paulli upward is Gaiad material, which makes it Emma's.
+
+   Not guessing Roman prosopography, per item 1. The diagnosis is finished; only the
+   ruling is missing.
+
+3. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
    `Q88454` "Esther bat Sahlan ben Abraham" and `Q90982` "Esther bat Yosef ben 'Amram
    haDayyan al-Sijilmasi" are recorded as **each other's mother**. One of the two edges is
    false. Both readings are naming-consistent:
@@ -347,7 +394,7 @@ central command.
    that does not exist. It still repairs 0 of 5 — every remaining pair genuinely lacks
    direction evidence, which is the correct answer, not a failure.
 
-3. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
+4. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
    Generated 2026-08-01 by `wiki-scripts/same_role_parents.py`. One child has one father
    and one mother, so **every row is a defect**: either the pair is one person recorded
    twice, or one of the two edges is false.
@@ -401,7 +448,7 @@ central command.
    duplicate there is real, but the naming conventions and what counts as evidence are
    different — do not apply prosopography reasoning to a clade.
 
-4. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
+5. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
    `Q66385` "Imaam 'Udd \ Add Ben Add Ben ?'Udadh", `Q66394` "Udd son of Umaisi", and
    `Q86503` "Nabhan Banu Ismail" (the last acquired in the M3 merge). At most one is right.
 
@@ -420,7 +467,7 @@ central command.
    children of `Q67561` — and `Q67552` is flagged `COLLAPSE` against `Q67561`, so those two
    must not be merged either.
 
-3. **Work the remaining cycles under the repair order above.** Start from
+6. **Work the remaining cycles under the repair order above.** Start from
    `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
    34 are `REVIEW`: no Wikidata evidence decides them, mostly because "contradicted" there
    means *Wikidata records no link*, which is an absence and not a refutation. Unmerge
@@ -430,7 +477,7 @@ central command.
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-4. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
+7. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
    **97.1%** of edges are declared on both sides; **3,762** are one-sided. (The older
    96.3% / 4,723 figures were inflated — the scan compared raw qids without canonicalising
    through `redirects.tsv`, and 961 were never a defect.)
@@ -478,7 +525,7 @@ central command.
    Decide per record whether the missing side should be added or the present side removed;
    do NOT blanket-add, since some one-sided edges are deletions that only got half done.
 
-5. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
+8. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
    have no item file, yet 219 edges reference them and they hold 200+ recorded
    relationships between them. They are holes in the dump where the surrounding family
    survived. Creating them is one `add_bridge_edges.py`-style operation each; deciding
