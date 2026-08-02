@@ -15,8 +15,8 @@ The severed chain ran all the way to **Q1 Aster**. Reverted. cycle_policy.md nam
 No, they are not all gone.
 |  | 2026-07-31 | start of 2026-08-01 | now |
 |---|---|---|---|
-| tangles (SCCs, size > 1) | 36 | 34 | **30** |
-| records trapped in one | 299 | 283 | **274** |
+| tangles (SCCs, size > 1) | 36 | 34 | **21** |
+| records trapped in one | 299 | 283 | **206** |
 | largest tangle | 72 | 71 | 71 |
 **Four tangles removed on 2026-08-01 by looking the people up rather than scanning the dump**, all four gates green: Nagano, Entença, Alcimachus, Kayanid. Two were decided by dates, one by a three-generation chain Wikidata states cleanly, one by the Bundahishn. Total ancestral depth moved by −12 across fifteen records, worst −2 — that is the cycle-condensation arithmetic, not amputation.
 The 18-record Roman one is still there, pending the right fix.
@@ -34,6 +34,12 @@ The 18-record Roman one is still there, pending the right fix.
 1. **The cycle counter was non-deterministic.** Three runs over one unchanged file gave 45, 50, 46. Rewritten around strongly connected components. **Every "cycles went X → Y" figure in devlog.md, queue.md, HANDOFF.md and GENEALOGY_QA.md predating 2026-07-31 is unsound**, including the 52 → 54.
 === Waiting on you ===
 None of these block the loop — it works around them.
+- **⭐⭐ 2026-08-02 — THE ROMAN REPUBLIC HANGS OFF CONSTANTINE'S SISTER. This is the one to look at.** `Q73308` is labelled **"Licinius Varus"** — GEDCOM slashes in the alias, **no Wikidata id** — and the dump records it as a child of **Flavia Julia Constantia** (d. 330, Constantine's sister) and the emperor **Licinius**. Hanging beneath it: `Q73140` Gaius Licinius Varus → `Q72966` Licinia Varus → **Publius Mucius Scaevola, b. 300 BC** → the Mucii Scaevolae, the Licinii Crassi, **Pompey the Great**, Sextus Pompey, Asinius Pollio. Six centuries in one edge, and it is what closes the 71-record tangle — a third of everything still trapped.
+  - **Wikidata settles it: Constantia has exactly ONE child, Licinius II — and the dump already has him**, correctly, as `Q136818` (b. 315, d. 326), same father and mother. So `Q73308` as a *second* son is a name collision on "Licinius", and removing it loses nothing: her real son is already there.
+  - **Cutting it: tangles 21 → 20, records in a tangle 206 → 135, largest tangle 71 → 15.** Seventy-one records freed in one edit — by far the biggest available.
+  - **And 103 records lose their route to Aster** — Pompey the Great, Sextus Pompey, Asinius Pollio, the Scaevolae, the Licinii. Because **the Roman Republic currently reaches Aster only by descending from its own remote descendants.**
+  - **So the question is not really "cut or don't".** It is *where should the Roman Republic attach to the synoptic descent?* Cutting alone leaves it floating; cutting and re-attaching needs you to say which Roman line carries the join. That is Gaiad material and I am not inventing it.
+
 - **⭐ NEW 2026-08-01 — ONE RULING CLEARS THREE TANGLES. It turned out to be a class, not three cases.** In each, the head of a lineage is recorded as the **child of one of its own descendants**, and that false edge is also its only route upward — so the thousands of ancestors it shows are its descendant's, flowing backwards, and the loop cannot be opened without the head dropping off Aster.
   - **Pepin of Landen** — Charles Martel (b. 688) is recorded as his father; Pepin died in **640**. Wikidata gives Martel nine children and Pepin is not one of them. Breaking it costs **9 records** their route to Aster.
   - **Olaf Geirstad-Alf** — Olaf is recorded as the father of Gandalf Alfgeirsson (b. 705), but Olaf's own mother Alfhild (b. 780) is Gandalf's great-granddaughter. The man's patronymic is *Alfgeirsson* — his father is Alfgeir. Costs **4 records**.

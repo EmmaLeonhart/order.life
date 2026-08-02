@@ -4,6 +4,50 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **Analysis refreshed: 21 tangles / 206 records.** All four pending repairs are now in the
+  derived files and `cycles_review.md` agrees with the dump again.
+
+- **THE ROMAN REPUBLIC HANGS OFF CONSTANTINE'S SISTER — the biggest finding of the session,
+  and deliberately not applied.**
+
+  Working the 71-record tangle turned up `Q73308`, labelled **"Licinius Varus"**, alias
+  `Licinius /Varus/` — GEDCOM surname slashes, **no Wikidata id**. The dump records it as a
+  child of `Q136506` **Flavia Julia Constantia** (wd `Q238023`, d. 330, Constantine's
+  sister) and `Q73455` **Licinius** (wd `Q184549`, the emperor). Beneath it hangs the whole
+  Republican block:
+
+      Q73308 -> Q73140 Gaius Licinius Varus -> Q72966 Licinia Varus
+        -> Q72807 Publius Mucius Scaevola (b. 300 BC) -> the Mucii Scaevolae, the Licinii
+           Crassi, Pompey the Great, Sextus Pompey, Asinius Pollio
+
+  Six centuries in one edge, and it is what closes the largest tangle in the dump.
+
+  **Wikidata settles the parentage outright: `Q238023` has exactly one child, `Q166731`
+  Licinius II — and the dump already holds him correctly as `Q136818`**, b. 315 d. 326, same
+  father and mother. `Q73308` as a second son of that couple is a collision on the name
+  *Licinius*, and removing it costs nothing: her real son is already recorded.
+
+  Measured over `edges.tsv`:
+
+      tangles                     21 -> 20
+      records in a tangle        206 -> 135
+      largest tangle              71 -> 15
+      records losing Aster              103
+
+  Seventy-one records freed by one edit — by far the largest available. And the 103 that
+  lose their route are **the Roman Republic**: Pompey the Great, Sextus Pompey, Asinius
+  Pollio, the Scaevolae, the Licinii. Their only route to Aster today runs through this
+  false edge, which means **the Republic currently reaches Aster by descending from its own
+  remote descendants.**
+
+  By the test used for the Pedaiah unmerge — does the record left rootless have a recorded
+  parent anywhere? — this one qualifies: `Q73308` has no Wikidata id and no parent in any
+  source. But that test was calibrated on two records, not a hundred and three, and this is
+  not really a cut decision. **The real question is where the Roman Republic should attach
+  to the synoptic descent**, and that is Gaiad material rather than data repair. Written up
+  as queue item 2 and put at the top of the work-loop board.
+
+
 - **Tangle 2 dissolved — the second-largest, 18 records — because one woman was recorded as
   the mother of her own great-great-grandparents.**
 
