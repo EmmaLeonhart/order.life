@@ -147,6 +147,57 @@ CUTS = {
         ("Q133062", "Q75123", "Chloris is that same son-of-Neleus's mother, not this "
                               "record's; she never listed Q75123 as her child"),
     ],
+    # 2026-08-02. Tangle 7 of cycles_review.md, Meurig ab Ynyr Gwent -- 11 records, and a
+    # THIRD Ynyr that should not exist.
+    #
+    # Every edge in the ring is corroborated on both sides and by a spouse pairing, so
+    # there is no single reversed claim to find. What there is instead is one couple with
+    # two sons of the same name:
+    #
+    #   Q136957 "Meurig **ab Ynyr** Gwent"  b.1030, father Q137382, mother Q137383 Nest,
+    #                                       spouse Q136958 Elen, children Q137384 + Q136608
+    #   Q137382 "**Ynyr Gwent**"            b.1000, spouse Q137383 Nest, child Q136957
+    #   Q136608 "**Ynyr Fychan** ap Meurig ab Ynyr Gwent"  b.1070, father Q136957,
+    #                                                      mother Q136958
+    #   Q137384 "Ynyr, lord of Gwent"       father Q136957, mother Q136958, child Q137899
+    #
+    # Meurig's father is Ynyr, which his own name says and Q137382 supplies from both
+    # sides. His son named after that grandfather is Q136608 -- **Fychan** is the Welsh
+    # marker for exactly that, "the Younger". So Q137384, a *second* son of the same couple
+    # with the same name and no "Fychan", is the artefact. Its real identity is the earlier
+    # Ynyr, several generations ABOVE Meurig, and that is where the ring comes from.
+    #
+    # Chronology settles it independently. Q137384's line runs Ynyr -> Q137899 Morfudd
+    # ferch Ynir -> Q137320 Gwerystan ap Gwaithfoed -> **Q137900 Cynfyn ap Gwerstan,
+    # b. 990 d. 1023** -- the historical prince of Powys. Meurig is born 1030. A man born in
+    # 1030 is not the great-great-grandfather of a man born in 990; Ynyr lord of Gwent
+    # belongs around 900.
+    #
+    # BOTH parent claims go, not just the father. Q136958 Elen is in the tangle in her own
+    # right (her father Q137385 Ednyfed is too), so cutting only Q136957 leaves the ring
+    # closed through her -- measured: seven records still in a cycle. With both, it
+    # dissolves.
+    #
+    # Why not UNMERGE: Q137384 holds one identity with one Wikidata id; the duplication is
+    # of a NAME across generations, not of a record. Why not DEDUPE: Q137384 and Q136608
+    # are two different men, grandfather and grandson.
+    # Not a tradition join: Welsh on both sides.
+    #
+    # Measured over edges.tsv before applying: **0 records lose their route to Aster** --
+    # the component does not reach it. Q137384 goes to 0 ancestors, which is honest: the
+    # dump does not record the earlier Ynyr's parentage and inventing it is not this tool's
+    # business. Meurig goes 184 -> 134, losing only the stretch where he was his own
+    # ancestor. 3,480 records below lose ancestry and every one of the 184 distinct records
+    # lost is inside the ring.
+    "gwent-third-ynyr": [
+        ("Q136957", "Q137384", "Meurig ab Ynyr Gwent (b.1030) recorded as the father of "
+                               "Ynyr lord of Gwent, whose great-grandson Cynfyn was born "
+                               "in 990 -- Meurig's real Ynyr-named son is Q136608 Ynyr "
+                               "Fychan and his real father is Q137382 Ynyr Gwent"),
+        ("Q136958", "Q137384", "Elen, Meurig's wife, carries the same false parentage; "
+                               "she is in the tangle herself, so the ring stays closed "
+                               "through her if only the father-claim is cut"),
+    ],
     # 2026-08-01. Tangle 11 of cycles_review.md, the Theban kings of the Second
     # Intermediate Period. **This cut does NOT dissolve the tangle and is not meant to.**
     # It removes one edge that is positively refuted by an external attestation; the

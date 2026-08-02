@@ -2,6 +2,46 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-08-02
+
+- **Tangle 7 dissolved: there was a third Ynyr who should not exist.**
+
+  Every edge in that eleven-record ring is corroborated on both sides *and* by a spouse
+  pairing, so there was no reversed claim to find. The defect was one couple with two sons
+  of the same name:
+
+      Q136957  "Meurig ab Ynyr Gwent"                       b.1030, father Q137382
+      Q137382  "Ynyr Gwent"                                 b.1000, child Q136957
+      Q136608  "Ynyr Fychan ap Meurig ab Ynyr Gwent"        b.1070, father Q136957
+      Q137384  "Ynyr, lord of Gwent"                        father Q136957  <-- artefact
+
+  Meurig is "**ab Ynyr**" and `Q137382` supplies that father from both sides. His son named
+  after the grandfather is `Q136608` — **Fychan**, "the Younger", the standard Welsh marker
+  for exactly that. So a *second* son of the same couple, same name, no *Fychan*, is the
+  artefact; its real identity is the earlier Ynyr, generations above Meurig.
+
+  Chronology settles it independently: `Q137384`'s line runs Ynyr → Morfudd ferch Ynir →
+  Gwerystan ap Gwaithfoed → **Cynfyn ap Gwerstan, b. 990 d. 1023**, the historical prince
+  of Powys. A man born in 1030 is not the great-great-grandfather of a man born in 990.
+
+  **Both parent claims went, not just the father.** Elen is in the tangle in her own right,
+  so cutting only Meurig's claim leaves seven records still in a cycle — measured, not
+  assumed. With both, it dissolves. **0 records lose their route to Aster**; `Q137384` goes
+  to 0 ancestors, which is honest, and Meurig goes 184 → 134, losing only the stretch where
+  he was his own ancestor.
+
+- **Scanned all 249 tangle records for the two-Wikidata-id signal** that turned Deimachus
+  from a cut into an unmerge. Exactly **two** carry one: `Q73119` (the known Drusus case)
+  and `Q72981` **Publius Licinius Crassus, inside the 71-record tangle** — `Q746582`
+  **consul 171 BC**, no father recorded, and `Q20100913` **praetor 57 BC**, father
+  `Q72972`. One record, two men, 130 years apart, the same shape as Drusus.
+
+  Simulated: splitting it shrinks the largest tangle **71 → 64** and frees seven records,
+  but **does not dissolve it** and costs **13 records** their route to Aster — because the
+  consul-171 half is rootless in the sources, so his descendants lose the praetor's father.
+  Logged as a sixth case on the same ruling rather than applied. Where Agelastus `Q73260`
+  lands makes no difference to either number, so that ambiguity is not blocking anything.
+
 ## 2026-08-01
 
 - **Tangle 15 dissolved by an UNMERGE — repair-order step 1, the default, and the first

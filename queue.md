@@ -313,6 +313,7 @@ central command.
    | 21 Olaf Geirstad-Alf | `Q118732` Olaf → `Q136091` Gandalf Alfgeirsson | Gandalf b. **705**; Olaf is the son of Alfhild b. **780**, herself Gandalf's great-granddaughter. And the man's own patronymic is **Alfgeirsson** — his father is Alfgeir | **4** |
    | 25 Marcus Livius Drusus | `Q73119` → `Q72951` Gaius Livius Drusus | `Q73119` carries **two Wikidata ids** and is two men; details below | **10** |
    | 22 Morfudd / Dyddgu (Welsh) | `Q144542` Morfudd → `Q148522` Dyddgu | the other three edges are spelled out by the patronymics and make Dyddgu Morfudd's **great-grandmother**; the mother-claim inverts three generations | **18** |
+   | 1 Constantius Chlorus (the 71-record one) | UNMERGE `Q72981` Publius Licinius Crassus | it carries **two Wikidata ids** — `Q746582` **consul 171 BC** (no father recorded) and `Q20100913` **praetor 57 BC** (father `Q72972`). Splitting shrinks the largest tangle **71 → 64** but does not dissolve it | **13** |
    | 13 Gepaepyris | `Q138365` Tib. Julius Cotys I → `Q148022` Rhescuporis I | Wikidata's own description makes `Q2713411` *"Sapean King of Thrace, **48–41 BC**"* while his recorded father `Q2711623` is a *"1st century **AD** Bosporan king"* — a Cotys/Rhescuporis name collision between two dynasties | **5** |
 
    **The Welsh one is now half-repaired and only the cut is left (2026-08-01).** Dyddgu had
