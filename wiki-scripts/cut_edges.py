@@ -128,6 +128,51 @@ CUTS = {
     # her mother and himself -- the cycle counting itself -- while keeping all 5,095 real
     # ancestors through Hug III. Q32705 goes 2 -> 0 as described. No gateway anywhere near
     # this.
+    # 2026-08-01. Tangle 7 of cycles_review.md, the Caecilii Metelli -- 13 records, and
+    # every one of them carries a Wikidata id, so the whole stemma can be read off.
+    #
+    # The loop is
+    #   Q72834 -> Q141414 -> Q139559 -> Q139560 -> Q73458 -> Q73311 -> Q73146 -> Q72984
+    #   -> Q72834
+    # and seven of those eight edges are the real Metelli descent, confirmed record by
+    # record against Wikidata:
+    #
+    #   Q73458  Gaius Caecilius                       wd Q107101893   b. 400 BC
+    #   Q73311  L. Caecilius Metellus Denter          wd Q521498      320 - 283 BC
+    #   Q73146  L. Caecilius Metellus, cos. 251       wd Q359810      d. 221 BC
+    #   Q72984  Q. Caecilius Metellus, cos. 206       wd Q929498      245 - 175 BC
+    #   Q72834  L. Caecilius Metellus Calvus, cos.142 wd Q703354      b. 200 BC
+    #   Q141414 Caecilia Metella, his daughter        wd Q461531      200 - 160 BC
+    #   Q139559 Lucullus, her son                     wd Q242819      117 - 56 BC
+    #   Q139560 Licinia, his daughter                 wd Q113376428
+    #
+    # Read as BC magnitudes that runs cleanly downward, 400 -> 320 -> 221 -> 245/175 ->
+    # 200 -> 160 -> 117, and each link is stated on both sides on Wikidata.
+    #
+    # The eighth edge closes the loop by running the whole chain backwards in one step:
+    # Q139560 -> Q73458 makes **Licinia the parent of Gaius Caecilius**, a man born some
+    # three hundred years before her father. Wikidata gives her exactly two relations,
+    # father Lucullus and mother Clodia, and **no children at all** -- her description
+    # there is simply "daughter of Lucullus and Clodia". cycles_review.md already flagged
+    # this one edge as contradicted.
+    #
+    # Why not UNMERGE: every record holds one identity with its own Wikidata id.
+    # Why not DEDUPE: Q138399 and Q141414 do share the label "Caecilia Metella", but they
+    # are two different women on Wikidata (Q6454825, 150-70 BC, and Q461531, 200-160 BC,
+    # the mother of Lucullus) and merging them would not touch this edge anyway.
+    # Not a tradition join: Roman on both sides.
+    #
+    # Measured over edges.tsv before applying: **zero records lose their route to Q1** --
+    # the component does not reach Aster at all. Q73458 goes 52 -> 1 and keeps his real
+    # father Q73581; the 51 he loses are the loop itself plus Licinia's line, which is to
+    # say his own descendants, which is what the false edge was feeding him. The one
+    # record left without a child is Q139560 Licinia, and that is Wikidata's position too.
+    "metelli-licinia": [
+        ("Q139560", "Q73458", "Licinia, daughter of Lucullus (b. 117 BC), recorded as the "
+                              "parent of Gaius Caecilius (b. 400 BC) -- she is the bottom "
+                              "of this descent, not the top, and Wikidata gives her no "
+                              "children"),
+    ],
     # 2026-08-01. Tangle 28 of cycles_review.md, "Acha Ish Kfar Temarta" -- three records,
     # and the dump states the answer about itself twice.
     #

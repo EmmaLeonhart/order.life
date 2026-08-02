@@ -422,6 +422,13 @@ central command.
    one remaining mutual-parent pair `fix_mutual_parent_pairs.py` skips —
    `Q73530`/`Q73653`.
 
+   **`Q72834`'s two fathers are NOT a dump defect — Wikidata carries the same pair.**
+   Checked 2026-08-01: `Q703354` lists father = [`Q897091` Marcus, `Q929498` Quintus] and
+   both of those are sons of `Q359810` L. Caecilius Metellus cos. 251. So the dump
+   faithfully imported a contradiction that exists upstream, and one of the two is wrong
+   there as well. It is **not** part of the tangle-7 loop, which was cut separately, so it
+   is a standalone multi-parent defect and needs a source rather than a graph argument.
+
    **NEW, and it is an UNMERGE for Emma — the Kayanid conflation.** The Bundahishn gives
    two lists that share names, XXXI.25's four brothers (Kay Arsh, **Kay Vyarsh**, Kay
    Pisan, **Kay Kaus**) and XXXI.28's descent (Lohrasp ← **Auzav** ← **Manush** ← Kay

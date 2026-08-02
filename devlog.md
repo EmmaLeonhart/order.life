@@ -4,6 +4,41 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Tangle 7 cut: the Caecilii Metelli, 13 records, one edge.** Every record in it carries
+  a Wikidata id, so the whole stemma reads off directly, and seven of the loop's eight
+  edges turn out to be the real Metelli descent:
+
+      Q73458  Gaius Caecilius                        wd Q107101893   b. 400 BC
+      Q73311  L. Caecilius Metellus Denter           wd Q521498      320 – 283 BC
+      Q73146  L. Caecilius Metellus, cos. 251        wd Q359810      d. 221 BC
+      Q72984  Q. Caecilius Metellus, cos. 206        wd Q929498      245 – 175 BC
+      Q72834  L. Caecilius Metellus Calvus, cos. 142 wd Q703354      b. 200 BC
+      Q141414 Caecilia Metella, his daughter         wd Q461531      200 – 160 BC
+      Q139559 Lucullus, her son                      wd Q242819      117 – 56 BC
+      Q139560 Licinia, his daughter                  wd Q113376428
+
+  Read as BC magnitudes it runs cleanly downward — 400 → 320 → 221 → 245/175 → 200 → 160
+  → 117 — and every link is declared on both sides on Wikidata.
+
+  The eighth edge runs the whole chain backwards in one step: `Q139560` → `Q73458` makes
+  **Licinia the parent of Gaius Caecilius**, a man born about three hundred years before
+  her father. Wikidata gives her exactly two relations, father Lucullus and mother Clodia,
+  and **no children at all** — her description there is literally "daughter of Lucullus and
+  Clodia". Cut.
+
+  Zero records lose their route to Aster; the component never reached it. `Q73458` goes
+  52 → 1 ancestors and keeps his real father `Q73581`. The 51 he loses are the loop plus
+  Licinia's line — his own descendants, which is exactly what the false edge was feeding
+  him. One record ends with no child, `Q139560` Licinia, and that is Wikidata's position
+  too rather than a casualty.
+
+  **Checked and left alone:** `Q72834`'s two fathers, `Q72984` and `Q148066`, who are
+  brothers. That is not a dump defect — **Wikidata carries the same pair** (`Q703354`
+  lists both, and both are sons of `Q359810`). The dump faithfully imported an upstream
+  contradiction. It sits outside the loop, so it is a standalone multi-parent defect
+  needing a source, not a graph argument. Noted in queue item 2.
+
+
 - **Tangle 28 cut: Acha Ish Kfar Temarta. The dump stated the answer about itself twice.**
 
   `Q91134` is "Abba **bar Acha bar Sallah** al-Kafri" — Abba son of Acha son of Sallah, so
