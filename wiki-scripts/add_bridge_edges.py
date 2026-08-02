@@ -70,6 +70,62 @@ BRIDGES = {
             ("Q153230", "Q53399", "A1: Rashid al-Din -- Khaidu is the son of Dutum Menen"),
         ],
     },
+    # 2026-08-01. Tangle 22 of cycles_review.md, the Welsh Cynwrig/Tudur pedigree. This is
+    # PURELY ADDITIVE and removes NO loop on its own -- it fills the hole that makes the
+    # loop's false edge look load-bearing. The cut itself needs Emma's ruling; see queue.md.
+    #
+    # THE HOLE. Welsh names are the pedigree, and three of the four edges in that tangle are
+    # spelled out by them:
+    #   Q148521 "Tudur Fongam **ap Cynwrig Fychan** ap Cynwrig ap Llywarch" -> father Q146349
+    #   Q144542 "Morfudd **ferch Tudur Fongam** ap Cynwrig Fychan ap Cynwrig" -> father Q148521
+    #   Q146349 "Cynwrig Fychan **ap Cynwrig**" -> father Q143115 "Cynwrig"
+    # The fourth, Q144542 -> Q148522, says Morfudd is the mother of Dyddgu. Dyddgu's own
+    # name is "Dyddgu **ferch Cadwgan Fottwm** ab Ednyfed ap Cadwgan Ddu", so her father is
+    # Cadwgan Fottwm -- and the other three edges make Dyddgu Morfudd's GREAT-GRANDMOTHER.
+    # The mother-claim inverts three generations. Wikidata carries the same loop, so it
+    # arbitrates nothing here; the names do.
+    #
+    # In the dump Q148522 Dyddgu has **no father at all**, because Cadwgan Fottwm is not in
+    # it -- wd Q112531567, absent. That absence is the whole reason the false edge looks
+    # load-bearing: it is her only parent claim.
+    #
+    # BOTH NEIGHBOURS ARE PRESENT AND THE NAME IS NOT A JUDGEMENT CALL:
+    #   wd Q112531567 "Cadwgan Fottwm ab Ednyfed ap Cadwgan Ddu ap Llywarch Gochh"
+    #                 father wd Q112531573, child wd Q110636576 Dyddgu
+    #   dump Q148767  "Ednyfed ap Cadwgan Ddu ap Llywarch Gochh", **wd Q112531573**, and it
+    #                 has NO children recorded
+    #   dump Q148522  "Dyddgu ferch Cadwgan Fottwm ...", **wd Q110636576**, no father
+    # So the missing generation sits exactly between a childless father and a fatherless
+    # daughter, and Wikidata supplies the label verbatim. queue.md's rule for a GAP is to
+    # CREATE the record rather than delete its edges; this does that.
+    #
+    # Cannot close a cycle: checked against edges.tsv before writing -- Q148767 is not a
+    # descendant of Q148522. Adding a second parent to Dyddgu while the false mother-claim
+    # still stands is harmless; she simply has both until the cut is ruled on.
+    #
+    # WHAT THIS DOES NOT FIX, stated plainly: Q148767 has 452 ancestors and **does not reach
+    # Aster**. So this gives Dyddgu a real 453-deep Welsh line where she had none, but it
+    # does NOT preserve the Aster route, which for that cluster runs backwards through
+    # Morfudd's mother Gwenllian Fechan. Cutting Q144542 -> Q148522 still costs 18 records
+    # their route to Q1. That is the open ruling, not something this bridge resolves.
+    "welsh-cadwgan-fottwm": {
+        "create": [
+            {
+                "qid": "Q200001",
+                "label": "Cadwgan Fottwm ab Ednyfed ap Cadwgan Ddu ap Llywarch Gochh",
+                "aliases": ["Cadwgan Fottwm"],
+                "note": "created 2026-08-01; wd Q112531567, the generation missing between "
+                        "Q148767 Ednyfed (childless here) and Q148522 Dyddgu (fatherless "
+                        "here), named verbatim in Dyddgu's own patronymic",
+            },
+        ],
+        "edges": [
+            ("Q148767", "Q200001", "wd Q112531567's father is wd Q112531573, which is "
+                                   "Q148767 -- and Q148767 had no children recorded"),
+            ("Q200001", "Q148522", "Dyddgu is 'ferch Cadwgan Fottwm'; wd Q112531567 lists "
+                                   "wd Q110636576 as its child"),
+        ],
+    },
     # 2026-08-01. The other half of cut_edges.py's "agathocles-kayanid" cut (b), and it is
     # not optional -- run them as one batch.
     #

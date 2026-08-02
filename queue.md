@@ -312,6 +312,18 @@ central command.
    | 20 Pepin of Landen | `Q113081` Charles Martel → `Q111318` Pepin of Landen | Martel b. **688**, Pepin of Landen d. **640**. Wikidata lists nine children for Martel and Pepin is not one | **9** |
    | 21 Olaf Geirstad-Alf | `Q118732` Olaf → `Q136091` Gandalf Alfgeirsson | Gandalf b. **705**; Olaf is the son of Alfhild b. **780**, herself Gandalf's great-granddaughter. And the man's own patronymic is **Alfgeirsson** — his father is Alfgeir | **4** |
    | 25 Marcus Livius Drusus | `Q73119` → `Q72951` Gaius Livius Drusus | `Q73119` carries **two Wikidata ids** and is two men; details below | **10** |
+   | 22 Morfudd / Dyddgu (Welsh) | `Q144542` Morfudd → `Q148522` Dyddgu | the other three edges are spelled out by the patronymics and make Dyddgu Morfudd's **great-grandmother**; the mother-claim inverts three generations | **18** |
+
+   **The Welsh one is now half-repaired and only the cut is left (2026-08-01).** Dyddgu had
+   **no father in the dump** — Cadwgan Fottwm, wd `Q112531567`, was simply absent, which is
+   why her false mother-claim was her only route upward. His own father `Q148767` *was*
+   here with no children recorded, so the hole sat between a childless father and a
+   fatherless daughter and Wikidata supplied the label verbatim. `add_bridge_edges.py
+   welsh-cadwgan-fottwm` created him. That is purely additive and removes no loop.
+   **It does not resolve the ruling:** `Q148767` has 452 ancestors and does **not** reach
+   Aster, so Dyddgu now has a real 453-deep Welsh line where she had none, but the cut
+   still costs 18 records their route to `Q1` — that route runs backwards through Morfudd's
+   mother Gwenllian Fechan. One `cut_edges.py` entry away once ruled on.
 
    In every case the other edges of the loop are the *correct* descent, checked against
    Wikidata one record at a time — Pepin of Landen → Begga → Pepin of Herstal → Charles

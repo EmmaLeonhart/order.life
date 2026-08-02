@@ -1,0 +1,57 @@
+{
+ "type": "item",
+ "id": "Q200001",
+ "labels": {
+  "en": {
+   "language": "en",
+   "value": "Cadwgan Fottwm ab Ednyfed ap Cadwgan Ddu ap Llywarch Gochh"
+  }
+ },
+ "aliases": {
+  "en": [
+   {
+    "language": "en",
+    "value": "Cadwgan Fottwm"
+   }
+  ]
+ },
+ "descriptions": {},
+ "claims": {
+  "P47": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q148767",
+       "numeric-id": 148767
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P20": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P20",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q148522",
+       "numeric-id": 148522
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ]
+ }
+}

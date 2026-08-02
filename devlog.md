@@ -4,6 +4,41 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-01
 
+- **Analysis refreshed: `cycles_review.md` now reads 27 tangles / 254 records**, matching
+  `check_invariants` and the dump. It had been stale at 30/274 since 18:14 and that is the
+  file the hub publishes, so the board was showing four repairs that had already landed.
+
+- **Tangle 22, the Welsh pedigree: the hole is filled, the cut is not mine to make.**
+
+  Welsh names *are* the pedigree, and three of the four edges are spelled out by them —
+  `Q148521` "Tudur Fongam **ap Cynwrig Fychan**", `Q144542` "Morfudd **ferch Tudur
+  Fongam**", `Q146349` "Cynwrig Fychan **ap Cynwrig**". The fourth says Morfudd is the
+  mother of `Q148522` "Dyddgu **ferch Cadwgan Fottwm** ab Ednyfed ap Cadwgan Ddû", and the
+  other three make Dyddgu Morfudd's **great-grandmother**. The mother-claim inverts three
+  generations. Wikidata carries the identical loop, so it arbitrates nothing here — the
+  names do.
+
+  **Why that false edge looked load-bearing: Dyddgu had no father in the dump at all.**
+  Cadwgan Fottwm, wd `Q112531567`, was simply absent. His own father `Q148767` *was* here,
+  wd `Q112531573`, **with no children recorded** — so the gap sat between a childless
+  father and a fatherless daughter, with Wikidata supplying the label verbatim and Dyddgu's
+  own patronymic repeating it. `queue.md`'s standing rule for a GAP is to create the record
+  rather than delete its edges, so that is what was done: `add_bridge_edges.py
+  welsh-cadwgan-fottwm`, purely additive, no loop removed, checked first that `Q148767` is
+  not a descendant of `Q148522` so it can close nothing.
+
+  **What it does not fix, and I would rather say it than imply otherwise.** `Q148767` has
+  452 ancestors and **does not reach Aster**. Dyddgu now has a real 453-deep Welsh line
+  where she had none — but the Aster route for that whole cluster runs backwards through
+  Morfudd's mother Gwenllian Fechan, so cutting `Q144542` → `Q148522` still costs **18
+  records** their route to `Q1`. That is the largest of the four inversion cases and it
+  goes to Emma with the rest, one `cut_edges.py` entry away from done.
+
+  Filling the hole was worth doing on its own terms regardless of the ruling: it replaces a
+  fabricated 6,152-ancestor inheritance with a real one, and it is the difference between
+  "cut and leave her with nothing" and "cut and leave her with her actual family".
+
+
 - **The depth gate fired, and the cuts were kept. The argument is in `cycle_policy.md` so
   it can be audited instead of taken on trust.**
 
