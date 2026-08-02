@@ -4,6 +4,34 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **Tangle 14 dissolved: a duplicated countess hung under a man who died ninety years
+  after her husband.**
+
+  The ring's other four edges are the real Catalan descent, each confirmed on Wikidata —
+  Ermengol VII d'Urgell (d. 1184) → his daughter Marquesa d'Urgell (1150–1209) → her son
+  Guerau IV de Cabrera (d. 1228) → his son Guerau V (d. 1242) — and Arsenda as Ermengol
+  VII's mother is right too. What closed it was `Q124326` → `Q104371`: **Guerau V, dead in
+  1242, recorded as the father of the woman who married Ermengol VI, dead in 1154.**
+
+  **She is in the dump twice.** `Q118293` "Arsenda de Cabrera" has wd `Q21126905`, her real
+  parents, her husband and her son; `Q104371` "Arsende de Cabrera" has **no wd id** and the
+  same husband and the same son. Wikidata's `Q21126905` is *comtessa consort d'Urgell*,
+  spouse Ermengol VI, child Ermengol VII — and Guerau V's four recorded children there do
+  not include her.
+
+  **One record loses its route to Aster and it is the duplicate itself**, `Q104371`,
+  6,563 ancestors → 1. That is the right answer rather than a casualty, because the real
+  Arsenda keeps everything: `Q118293` stays at **5,020 ancestors and still reaches Aster**,
+  and her son Ermengol VII keeps 5,573 and his route through her. Fifteen records lose any
+  ancestry at all.
+
+  **Cut rather than merged, deliberately.** The duplicate is real and is now logged in
+  queue.md, but merging does not break the ring — the survivor would inherit the false
+  father-claim and still be its own descendant's ancestor. Same reasoning as the Shila
+  pair. That is the second time a genuine duplicate has turned out to be the wrong
+  instrument for the loop it sits in.
+
+
 - **Analysis refreshed: 25 tangles / 238 records**, matching the Tarjan figure I had been
   reporting against the stale files. `cycles_review.md` and `check_invariants` agree again.
 

@@ -424,6 +424,11 @@ central command.
      (same label, no wd id) — and gives him **two wives who are the same woman**:
      `Q137708` "Julia Major" and `Q78267` "Julia Caesaris Major" have identical parents
      `Q73029`/`Q73026`, so Lucius Pinarius is married to a second copy of his own mother.
+   - **Arsenda de Cabrera, twice (2026-08-02).** `Q118293` "Arsenda de Cabrera" carries
+     wd `Q21126905`, her real parents `Q123444`/`Q123448`, her husband Ermengol VI and her
+     son Ermengol VII. `Q104371` "Arsende de Cabrera" carries **no wd id** and the *same*
+     husband and son. The loop it sat in was cut instead, because merging would not have
+     broken it — the survivor keeps the false father-claim either way.
    - **The Shila pair.** `Q86617` and `Q91224` are both "Shila Ish Kfar Temarta" and both
      recorded as the father of `Q86607` Acha. `Q86589` / `Q91134` is the same story one
      generation down, both "Abba 'Abbahu' bar Acha bar Sallah al-Kafri", both children of

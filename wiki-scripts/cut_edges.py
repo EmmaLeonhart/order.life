@@ -147,6 +147,45 @@ CUTS = {
         ("Q133062", "Q75123", "Chloris is that same son-of-Neleus's mother, not this "
                               "record's; she never listed Q75123 as her child"),
     ],
+    # 2026-08-02. Tangle 14 of cycles_review.md, Cabrera/Urgell -- a duplicated countess
+    # hung under a man who died ninety years after her husband.
+    #
+    # The loop's other four edges are the real Catalan descent, each confirmed on Wikidata:
+    #   Q107162 Ermengol VII d'Urgell (wd Q949224, d. 1184)
+    #     -> Q123407 Marquesa d'Urgell (wd Q21126997, 1150-1209), his daughter
+    #     -> Q124325 Guerau IV de Cabrera (wd Q4894186, d. 1228), her son
+    #     -> Q124326 Guerau V de Cabrera (wd Q19291067, d. 1242), his son
+    # and the fifth, Q104371 -> Q107162, is Arsenda as Ermengol VII's mother, which is also
+    # right. What closes the ring is Q124326 -> Q104371: Guerau V, dead in 1242, recorded
+    # as the father of the woman who married Ermengol VI, dead in **1154**.
+    #
+    # THE WOMAN IS IN THE DUMP TWICE, and the good copy is untouched by this:
+    #   Q118293 "Arsenda de Cabrera"  wd Q21126905, parents Q123444 + Q123448,
+    #                                 spouse Q107158 Ermengol VI, child Q107162
+    #   Q104371 "Arsende de Cabrera"  NO wd id, father Q124326 Guerau V, mother Q104369,
+    #                                 spouse Q107158 Ermengol VI, child Q107162
+    # Same husband, same son. Wikidata's Q21126905 is "comtessa consort d'Urgell", spouse
+    # Q2862207 Ermengol VI, child Q949224 Ermengol VII -- and Guerau V's four recorded
+    # children there do not include her.
+    #
+    # Why CUT and not DEDUPE, although the duplicate is real and is logged in queue.md:
+    # merging them does not break the ring. The survivor would inherit Q104371's
+    # father-claim on Q124326 and still be its own descendant's ancestor -- the same reason
+    # the Shila pair was cut rather than merged.
+    # Why not UNMERGE: neither record holds two identities.
+    # Not a tradition join: Catalan on both sides.
+    #
+    # Measured over edges.tsv before applying: **one record loses its route to Aster, and
+    # it is the duplicate itself** -- Q104371, 6,563 ancestors -> 1. That is the correct
+    # answer rather than a casualty, because the real Arsenda keeps everything: Q118293
+    # stays at **5,020 ancestors and still reaches Aster**, and her son Ermengol VII keeps
+    # 5,573 and his route, through her. Only 15 records lose any ancestry at all.
+    "cabrera-arsende-guerau": [
+        ("Q124326", "Q104371", "Guerau V de Cabrera (d. 1242) recorded as the father of "
+                               "Arsenda, wife of Ermengol VI (d. 1154) -- and this Arsende "
+                               "is a second copy of Q118293, which carries her real "
+                               "parents and her Wikidata id"),
+    ],
     # 2026-08-02. Tangle 13 of cycles_review.md, the Claudii -- five records, and a branch
     # of the family hung above its own root.
     #
