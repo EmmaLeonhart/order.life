@@ -158,6 +158,45 @@ CUTS = {
                              "now Q200003 -- this record is wd Q20101444, Pedaiah of "
                              "Rumah, whose only recorded relation is his daughter Zebudah"),
     ],
+    # 2026-08-02. Tangle 10 of cycles_review.md, the Jatavallabha acaryas -- a seven-
+    # generation guru lineage with its last generation sewn back onto its first. Same shape
+    # as the Shaodian chain below, and settled the same way: by what the records carry
+    # rather than by any external source.
+    #
+    #   Q171493 Venkatacharyar   -> Q171595 Rangacharya   -> Q171604 Venkatacharya
+    #     -> Q171614 Srinivasacharya -> Q171622 Srinivasacharyar -> Q171636 Venkatacharya
+    #     -> Q171648 Rangacharya -> Q171493                       <-- closes the ring
+    #
+    # **Six of the seven have exactly one father: their predecessor in the chain. Q171493
+    # has two** -- Q171648, the chain's last generation, and Q171378 "**Govindacharyar**
+    # Jatavallabha", which sits outside the ring, has a father of its own (Q171309), and
+    # lists Q171493 as its **only** child. So the chain has a proper head with a proper
+    # parent, and the tail has been joined to it.
+    #
+    # Why the ends could be joined at all: the names recur. Q171595 and Q171648 are both
+    # "Rangacharya Jatavallabha", Q171604 and Q171636 both "Venkatacharya Jatavallabha" --
+    # normal in a Sri Vaishnava guru-parampara, where a descendant takes a forebear's name,
+    # and exactly the condition a name-matching import needs to close a loop. Govindacharyar
+    # is the one name in the neighbourhood that does NOT recur, which is why the head is
+    # identifiable.
+    #
+    # Why not DEDUPE the two Rangacharyas or the two Venkatacharyas: they are three
+    # generations apart in a chain each link of which is declared on both sides, and merging
+    # either pair would fuse generations rather than open the ring.
+    # Why not UNMERGE: no record here holds two identities.
+    # Not a tradition join: one South Indian acarya lineage throughout.
+    #
+    # Measured over edges.tsv before applying: **0 records lose their route to Aster** (the
+    # component does not reach it), the tangle dissolves, and the distinct ancestors lost
+    # anywhere number **seven** -- precisely the seven ring members. Afterwards the chain
+    # reads as a clean ladder, 46/47/48/49/50/51/52 ancestors from head to tail, which is
+    # what a seven-generation line with no loop in it should look like.
+    "jatavallabha-sewn-tail": [
+        ("Q171648", "Q171493", "the last generation of a seven-deep acarya chain recorded "
+                               "as the father of its first -- Q171493's real father is "
+                               "Q171378 Govindacharyar, outside the ring, whose only child "
+                               "he is"),
+    ],
     # 2026-08-02. Tangle 6 of cycles_review.md, Shaodian -- a generation-counter chain
     # with its tail sewn to its own head. The dump's own labels settle this one; no
     # external source is needed.

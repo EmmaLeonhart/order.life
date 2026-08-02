@@ -4,6 +4,39 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **Tangle 10 dissolved: a seven-generation guru lineage with its tail sewn to its head.**
+
+      Q171493 Venkatacharyar → Q171595 Rangacharya → Q171604 Venkatacharya
+        → Q171614 Srinivasacharya → Q171622 Srinivasacharyar → Q171636 Venkatacharya
+        → Q171648 Rangacharya → Q171493
+
+  **Six of the seven have exactly one father — their predecessor. `Q171493` has two:**
+  `Q171648`, the chain's last generation, and `Q171378` "**Govindacharyar** Jatavallabha",
+  which sits outside the ring, has a father of its own, and lists `Q171493` as its **only**
+  child. So the chain has a proper head with a proper parent, and the tail was joined onto
+  it.
+
+  **Why the ends could be joined at all: the names recur.** `Q171595` and `Q171648` are both
+  "Rangacharya Jatavallabha"; `Q171604` and `Q171636` both "Venkatacharya Jatavallabha" —
+  normal in a Sri Vaishnava guru-paramparā, where a descendant takes a forebear's name, and
+  exactly the condition a name-matching import needs to close a loop. Govindacharyar is the
+  one name in the neighbourhood that does *not* recur, which is why the head is
+  identifiable at all.
+
+  Not deduped: the two Rangacharyas are three generations apart with every link declared on
+  both sides, so merging them would fuse generations rather than open the ring.
+
+  **0 records lose their route to Aster**, the tangle dissolves, and the distinct ancestors
+  lost anywhere number **seven** — precisely the ring. Afterwards the chain reads as a clean
+  ladder, 46/47/48/49/50/51/52 from head to tail, which is what a seven-generation line
+  with no loop in it should look like. That ladder is the check I would not have thought to
+  run three days ago and is now the quickest confirmation that a chain came out straight.
+
+  Fourth tangle in a row settled from the records themselves rather than a lookup — Welsh
+  patronymics, the Daksha annotation, the Shaodian generation counter, and now a recurring
+  ācārya name with one non-recurring exception.
+
+
 - **Tangle 6 dissolved: a generation-counter chain with its tail sewn to its own head.**
 
   `Q6421` Shaodian (b. 2697 BC, father of the Yellow Emperor) has a chain of placeholders
