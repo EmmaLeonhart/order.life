@@ -4,6 +4,53 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **STOP FOR THE DAY received (Emma, via the hub's board channel). Loop stopped, crons
+  cleared, session left alive.**
+
+  All three loop crons deleted — work-loop `:03`, auto-flush `:15`, status-report `:42`;
+  `CronList` returns nothing. Nothing was in flight to finish: the working tree was clean,
+  everything pushed, no half-applied repair. The one thing I had just done was freeze
+  `.repair_snapshot.tsv` as a baseline, which is a derived, untracked file and is left in
+  place deliberately — see the debt note below.
+
+  **I did not start the `verify_repair.py` run.** It was the next item on my own list and it
+  is a 35-minute scan; beginning it after a stop instruction would be starting work, not
+  finishing it.
+
+  **Where the session got to:** tangles **34 → 14**, records trapped **283 → 173**. Two of
+  the fourteen are not defects — the Puranic rebirth of Daksha, imported twice — so the real
+  figure is **12 defects over 145 records**.
+
+  **What the method turned out to be.** Sixteen tangles were resolved, and almost none of
+  them by the thing the banner suggested. Only four were settled by looking up dates:
+  Nagano, Entença, the Metelli, the Claudii. The rest fell to *reading what the records
+  already said* — Welsh and Portuguese patronymics, "DAKSHA (**reborn as DAKSHA**)",
+  "Generation 2/3/4/5" counting downward from Shaodian, a label that concatenated two other
+  labels (the Sergii Octavii), an alias carrying a second man's name (the Junii Bruti), and
+  a stemma already complete in the dump (the Fulvii). Six of them were the same shape: a
+  chain with its tail sewn back onto its head.
+
+  **What I got wrong, in order.** Claimed the freely-workable pool was empty when two
+  tangles had never been opened — fixed by enumerating the list instead of recalling it.
+  Applied a `queue.md` edit whose anchor had gone stale and pushed a commit claiming a queue
+  update that had not happened. Measured the Metelli cut for Aster loss but not descendant
+  depth, so 157 affected records were a surprise at verification instead of a prediction.
+
+  **The debt carried into tomorrow, stated plainly:** four applied repairs — Malacca, Junii
+  Bruti, Sergii Octavii, Fulvii — have not been through `compare_depth`. Each measured 0
+  Aster loss before applying and the commit-time shadow gate passed on all of them, but that
+  is my measurement rather than the gate's. `.repair_snapshot.tsv` is frozen at the
+  pre-repair state so the next session's `verify_repair.py` measures exactly those four and
+  nothing else.
+
+  **The single decision that dominates what is left** is queue item 2: `Q73308` "Licinius
+  Varus" makes the entire Roman Republic descend from Constantine's sister. Cutting it frees
+  71 records, 49% of everything remaining, and costs 103 their route to Aster — because the
+  Republic currently reaches Aster only by descending from its own remote descendants. That
+  is a question about where the Roman line attaches to the synoptic descent, not a data
+  repair, and it is Emma's.
+
+
 - **Tangle 15 dissolved: the Fulvii mutual-parent pair, and both directions went, not one.**
 
   This is the pattern `apply_roman_unmerge.py` names in its own docstring — Roman tria
