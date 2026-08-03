@@ -371,6 +371,22 @@ If Emma accepts them as doctrine, the real remaining count is **6 tangles, 52 re
    route to Aster today runs through this false edge, i.e. **the Republic currently reaches
    Aster by descending from its own remote descendants.**
 
+   **DO NOT GO LOOKING FOR HIS ANCESTRY. THERE ISN'T ANY. Emma, 2026-08-02.**
+   `Q73308` carries a Geni id, `P62` = `6000000030478073233`, and **no Wikidata id**. That
+   Geni id is bait: **he has no ancestry on Geni — none.** Do not fetch Geni for this
+   record, do not open the profile, do not treat the id as a lead. The record's only
+   recorded parents were ever the Constantia/Licinius pair that was cut on 2026-08-02 as a
+   name collision, and there is no source anywhere that supplies him with different ones.
+
+   The structural reading agrees: `Q73308` and his son `Q73140` are the **only two** of the
+   103 floating records from the `6000000030478` Geni block — the same import that produced
+   `Q73455` the emperor Licinius. The other 101 come from dozens of unrelated imports. The
+   pair is a two-record seam stitching the late-imperial import onto the Republican one,
+   and the collision happened at that seam.
+
+   **So this is not a research task and cannot become one.** There is nothing to look up.
+   Where the Roman Republic attaches is Gaiad material and Emma's alone.
+
    **THE OPEN QUESTION, and it is the whole of what remains here: where does the Roman
    Republic attach?** The 103 sit outside Aster right now. **They hang from exactly one
    record — `Q73308` itself — so this is one edge, not 103 decisions:** give `Q73308` a
