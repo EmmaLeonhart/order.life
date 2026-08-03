@@ -34,6 +34,12 @@
 > **State at handoff:** 34 tangles, 283 records trapped, down from 36/299. The one
 > substantial win was the Adam→Genghis bridge: Genghis Khan went from 0 ancestors to 1,272
 > and now reaches Aster.
+>
+> **State on 2026-08-02, re-read from `check_invariants.py` after regenerating `edges.tsv`:
+> 13 tangles, 102 records trapped, largest tangle 15.** Every one of the 13 has a section in
+> `cycles_review.md` and a numbered item below; **none of the 13 is a two-line edit waiting
+> to be made.** They are the residue — each needs either a ruling from Emma or an external
+> stemma. See the roster under ACTIVE.
 
 
 Worked top-to-bottom by the autonomous work-loop cron (`:00`/`:30`). Each item is
@@ -241,6 +247,31 @@ central command.
   `GENEALOGY_QA.md` and `qa_cycles_proposed.tsv` counted loops, with an enumerator that was
   never stable. Do not present tangle counts under the word "cycles" without saying so.
 
+### THE 13 REMAINING TANGLES, AND WHICH ITEM EACH IS (2026-08-02, 101 records)
+
+Re-read from `cycles_review.md` after regenerating `edges.tsv`. **Every one is already
+diagnosed and written up below.** None is waiting on analysis; each is waiting on either a
+ruling from Emma or a source that is not Wikidata.
+
+| # | tangle | records | item | what it waits on |
+|---:|---|---:|---:|---|
+| 1 | Marcus Aemilius Lepidus | 15 | 1 | Emma — which of three parent-couples is real |
+| 2 | Prachetas (10 sons) | 14 | 3 | Emma — modelling the Daksha rebirth |
+| 3 | D. Ausindo Ximeno | 14 | 10 | a *Livro de Linhagens* stemma |
+| 4 | Aditi Kashyapa | 14 | 3 | same as tangle 2 — the second copy |
+| 5 | Gaius Servilius | 8 | 11 | a Servilian stemma, or Emma's step-4 collapse |
+| 6 | Joan ferch Ieuan ap Rhys | 7 | 9 | Bartrum's *Welsh Genealogies* |
+| 7 | Sekhemre Sankhtawy Neferhotep III | 6 | 8 | Turin King List / Ryholt |
+| 8 | Gepaepyris | 6 | 5 | Emma — the inversion-class ruling |
+| 9 | Pepin of Landen | 4 | 5 | same ruling |
+| 10 | Olaf Geirstad-Alf | 4 | 5 | same ruling |
+| 11 | Morfudd ferch Tudur Fongam | 4 | 5 | same ruling |
+| 12 | Marcus Livius Drusus | 3 | 5 | same ruling |
+| 13 | Esther bat Sahlan ben Abraham | 2 | 12 | a source; cut once and reverted |
+
+**One ruling — item 5, the inversion class — clears tangles 8 through 12 outright: five
+tangles, 21 records.** It is the single highest-value thing on this board.
+
 1. **UNMERGE `Q72786` "Marcus Aemilius Lepidus" — the real defect in the Scipio loop.**
    **NEEDS EMMA: which parentage is the true one.** Investigated 2026-07-31; the diagnosis
    is solid, the choice is not mine.
@@ -298,10 +329,12 @@ central command.
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-2. **⭐ THE ROMAN REPUBLIC HANGS OFF CONSTANTINE'S SISTER. Biggest single finding of the
-   session, and the one decision that matters most. NOT APPLIED.**
+2. **⭐ THE ROMAN REPUBLIC IS FLOATING — 103 records, ONE edge reattaches them. NEEDS EMMA.**
 
-   Found 2026-08-02 while working the 71-record tangle — a third of everything still
+   **The cut is DONE (2026-08-02, `cut_edges.py licinius-varus-collision`).** What is left
+   is only the reattachment, and it is a single edge.
+
+   Found 2026-08-02 while working the 71-record tangle — a third of everything then
    trapped.
 
    `Q73308` is labelled **"Licinius Varus"**, alias `Licinius /Varus/` — GEDCOM surname
@@ -322,33 +355,34 @@ central command.
    a name collision on *Licinius*, and nothing is lost by removing it: her real son is
    already there.
 
-   **What stops me applying it, and it is not the tangle count.** Measured over `edges.tsv`:
+   **What it cost, measured after applying:**
 
    | | |
    |---|---:|
-   | tangles | 21 → **20** |
-   | records in a tangle | 206 → **135** |
+   | tangles | 14 → **13** |
+   | records in a tangle | 173 → **102** |
    | largest tangle | 71 → **15** |
-   | **records that lose their route to `Q1` Aster** | **103** |
+   | **records that lost their route to `Q1` Aster** | **103** |
 
    Those 103 are **the Roman Republic** — `Q138505` Gnaeus Pompeius Magnus, `Q138506`
    Sextus Pompey, `Q139671` Gaius Asinius Pollio, the Scaevolae, the Licinii. Their *only*
    route to Aster today runs through this false edge, i.e. **the Republic currently reaches
    Aster by descending from its own remote descendants.**
 
-   By the test used for the Pedaiah unmerge — *does the record left rootless have a
-   recorded parent anywhere?* — this one qualifies: `Q73308` has no Wikidata id and no
-   recorded parent in any source. But the consequence is far larger than any case so far,
-   and it is not really a cut decision at all:
+   **THE OPEN QUESTION, and it is the whole of what remains here: where does the Roman
+   Republic attach?** The 103 sit outside Aster right now. **They hang from exactly one
+   record — `Q73308` itself — so this is one edge, not 103 decisions:** give `Q73308` a
+   father and the entire block follows.
 
-   **The real question is where the Roman Republic should attach.** Cutting alone leaves it
-   floating. That is Gaiad material — how the Roman line joins the synoptic descent — and
-   it is Emma's, not a data repair. Two shapes to choose between:
-   - **cut and leave floating**, accepting that 103 Republican records sit outside Aster
-     until something attaches them; or
-   - **cut and re-attach**, which needs a decision about which Roman line carries the join.
+   The dump already carries the right Roman route, unused by these records: `Q90257` Aeneas
+   the Dardanian reaches Aster with 29,153 descendants, `Q74644` Iulus gens Julia 28,812,
+   `Q74518` Romulus 28,671 — and **none of the 103 are among their descendants**. Rome here
+   is two populations: 28,812 attached through Troy properly, and 103 that were attached
+   through the collision.
 
-   Until then the 71-record tangle stays, and it is a third of the remaining problem.
+   So the choice is which Trojan/Julian record carries the join, and whether `Q73308` keeps
+   its "Licinius Varus" label once it is no longer Constantia's son. That is Gaiad material
+   and naming, which is Emma's per the `Tros` precedent. **Do not guess it.**
 
 3. **⭐ TWO TANGLES ARE NOT DEFECTS — THE PURANIC REBIRTH OF DAKSHA. A MODELLING
    DECISION, NOT A REPAIR.**
@@ -559,10 +593,24 @@ central command.
    spouse is `Q889883` Djehuti. So the dump's `Q85514` → `Q85498` recorded Djehuti's
    father-in-law as his father. Cut, 0 records lost Aster, tangle 7 → 6 records.
 
-   **The surviving ring, and it is not guessable:**
+   **THAT CUT DID NOT ACTUALLY LAND UNTIL 2026-08-02, and the tool said it had.** `Q85514`
+   listed **both** `Q85498` and `Q85518` as children, and `Q85518` is a silent redirect to
+   `Q85498` — the same man under a duplicate qid. Removing the literal `Q85498` left
+   `Q85518` behind, `extract_genealogy.py` canonicalized it straight back to
+   `Q85514 → Q85498`, and `cut_edges.py`'s own verify pass — which compared cited qids
+   literally — reported "edges gone from both sides". The tangle stayed at 7 for a day.
+   **`cut_edges.py` now compares through `redirects.tsv`** (`canon`/`cvals`) on plan, apply
+   and verify, and additionally checks every alias file of both endpoints. Re-run under the
+   fixed tool: tangle **7 → 6**, records in a tangle 102 → 101, 0 records lost Aster, depth
+   **+6**. A sweep of all 29 declared cuts across the 21 cut sets found this was the **only**
+   one still live.
 
-       Q85500 Mentuhotep → Q85578 Mentuhotep VI → Q85554 Sebekemsaf → Q85528 Yauyebi
-       → Q85514 Senebhenaf → Q85500
+   **The surviving ring, and it is not guessable** (six records, re-read from
+   `cycles_review.md` after the cut actually landed — `Q85478` Neferhotep III is in the
+   ring, not below it):
+
+       Q85478 Neferhotep III → Q85578 Mentuhotep VI → Q85554 Sebekemsaf → Q85528 Yauyebi
+       → Q85514 Senebhenaf → Q85500 Mentuhotep → Q85478
 
    `Q85514` → `Q85500` is the attested edge and must not be cut. The false one is among the
    other three, and **Wikidata cannot settle it**: it records no parents for Sobekemsaf I

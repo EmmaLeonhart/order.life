@@ -134,17 +134,25 @@ def main():
     else:
         results.append(("extract_genealogy", run(
             "extract_genealogy.py", [],
-            "1/4  extract_genealogy.py -- regenerate the TSVs from wikibase/items/")))
+            "1/5  extract_genealogy.py -- regenerate the TSVs from wikibase/items/")))
 
     results.append(("compare_tangles", run(
         "compare_tangles.py", pair,
-        "2/4  compare_tangles.py -- WIDTH: tangles introduced / removed / reshaped")))
+        "2/5  compare_tangles.py -- WIDTH: tangles introduced / removed / reshaped")))
     results.append(("compare_depth", run(
         "compare_depth.py", pair + ([max_loss] if max_loss else []),
-        "3/4  compare_depth.py -- DEPTH: ancestry lost per record (the load-bearing one)")))
+        "3/5  compare_depth.py -- DEPTH: ancestry lost per record (the load-bearing one)")))
     results.append(("check_invariants", run(
         "check_invariants.py", [],
-        "4/4  check_invariants.py -- the four standing invariants vs the baseline")))
+        "4/5  check_invariants.py -- the four standing invariants vs the baseline")))
+    # Added 2026-08-02. Every gate above compares BEFORE against AFTER, so a cut that never
+    # landed shows up as a no-op rather than a failure -- which is how theban-senebhenaf sat
+    # applied-and-alive for a day while cut_edges.py's own verify pass called it clean. This
+    # one checks the standing claim instead of the delta: is every edge the repo says it cut
+    # actually gone from the graph?
+    results.append(("verify_cuts_landed", run(
+        "verify_cuts_landed.py", [],
+        "5/5  verify_cuts_landed.py -- every declared cut is absent from edges.tsv")))
 
     failed = [n for n, rc in results if rc != 0]
 

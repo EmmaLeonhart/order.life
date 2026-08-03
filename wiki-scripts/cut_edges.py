@@ -1008,6 +1008,37 @@ def claimants():
     return out
 
 
+def aliases():
+    # from_qid -> to_qid. A file whose "id" differs from its filename is a silent redirect,
+    # and extract_genealogy.py canonicalizes BOTH ENDPOINTS of every edge through this map
+    # before writing edges.tsv. So a claim citing an alias builds exactly the same edge as
+    # one citing the canonical qid.
+    out = {}
+    if REDIRECTS.exists():
+        with open(REDIRECTS, encoding="utf-8") as f:
+            for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
+                out[r["from_qid"]] = r["to_qid"]
+    return out
+
+
+ALIAS = {}
+
+
+def canon(q):
+    return ALIAS.get(q, q)
+
+
+def cvals(d, pid):
+    # vals() through the alias map. THE ONE THAT MATTERS FOR CUTS: matching cited qids
+    # literally is how `theban-senebhenaf` reported success on 2026-08-01 while leaving its
+    # edge alive for a day. Q85514 listed BOTH Q85498 and Q85518 as children; Q85518 is a
+    # silent redirect to Q85498, i.e. the same person under a duplicate qid. Removing the
+    # literal Q85498 left Q85518 behind, the extractor canonicalized it straight back to
+    # Q85514 -> Q85498, and the tool's own verify pass -- also literal -- said the edge was
+    # gone from both sides. Compare canonically or the check cannot see the edge it built.
+    return [canon(v) for v in vals(d, pid)]
+
+
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
@@ -1078,6 +1109,7 @@ def main():
     else:
         cuts = CUTS[name]
     fam = claimants()
+    ALIAS.update(aliases())
 
     plan = []
     for parent, child, why in cuts:
@@ -1096,8 +1128,8 @@ def main():
             missing = parent if dp is None else child
             print(f"  note: {missing} has no item file (dangling endpoint) -- removing the "
                   f"claim from the side that exists")
-        on_parent = dp is not None and child in vals(dp, P_CHILD)
-        on_child = ([p for p in (P_FATHER, P_MOTHER) if parent in vals(dc, p)]
+        on_parent = dp is not None and canon(child) in cvals(dp, P_CHILD)
+        on_child = ([p for p in (P_FATHER, P_MOTHER) if canon(parent) in cvals(dc, p)]
                     if dc is not None else [])
         if not on_parent and not on_child:
             print(f"  {parent} -> {child}: already absent on both sides, nothing to do")
@@ -1129,8 +1161,8 @@ def main():
             cl = (dp.get("claims") or {})
             if P_CHILD in cl:
                 keep = [c for c in cl[P_CHILD]
-                        if ((c.get("mainsnak") or {}).get("datavalue") or {})
-                        .get("value", {}).get("id") != child]
+                        if canon(((c.get("mainsnak") or {}).get("datavalue") or {})
+                                 .get("value", {}).get("id")) != canon(child)]
                 removed += len(cl[P_CHILD]) - len(keep)
                 if keep:
                     cl[P_CHILD] = keep
@@ -1145,8 +1177,8 @@ def main():
             for p in (P_FATHER, P_MOTHER):
                 if p in cl:
                     keep = [c for c in cl[p]
-                            if ((c.get("mainsnak") or {}).get("datavalue") or {})
-                            .get("value", {}).get("id") != parent]
+                            if canon(((c.get("mainsnak") or {}).get("datavalue") or {})
+                                     .get("value", {}).get("id")) != canon(parent)]
                     removed += len(cl[p]) - len(keep)
                     if keep:
                         cl[p] = keep
@@ -1161,13 +1193,26 @@ def main():
     ok = True
     for parent, child, _, _, _ in plan:
         dp, dc = load(parent), load(child)
-        if child in vals(dp, P_CHILD):
+        if canon(child) in cvals(dp, P_CHILD):
             print(f"  FAIL {parent} still lists {child} as a child")
             ok = False
         for p in (P_FATHER, P_MOTHER):
-            if parent in vals(dc, p):
+            if canon(parent) in cvals(dc, p):
                 print(f"  FAIL {child} still lists {parent} as {p}")
                 ok = False
+    # The alias endpoints themselves. Cutting P -> C removes the claim from C's file, but
+    # C's duplicate qids are separate FILES with their own claims, and an alias of C citing
+    # P as its father rebuilds the identical edge after canonicalization.
+    for parent, child, _, _, _ in plan:
+        for side, other in ((child, parent), (parent, child)):
+            for alt in sorted({a for a, t in ALIAS.items() if t == canon(side)}):
+                d = load(alt)
+                if d is None or (d.get("id") or alt) == side:
+                    continue
+                for p in (P_FATHER, P_MOTHER, P_CHILD):
+                    if canon(other) in cvals(d, p):
+                        print(f"  FAIL alias {alt} of {side} still lists {other} in {p}")
+                        ok = False
     for q in sorted(dirty):
         ref = None
         for f in sorted({q} | fam.get(q, set())):

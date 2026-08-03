@@ -4,6 +4,35 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **A CUT THAT REPORTED SUCCESS AND DID NOT HAPPEN. The Theban ring, found by asking "did
+  you fix everything?" and checking instead of answering.**
+
+  Swept all **29 edges declared cut across the 21 cut sets** in `cut_edges.py` against a
+  freshly regenerated `edges.tsv`. **One was still live**: `theban-senebhenaf`, applied
+  2026-08-01, reported by the tool as *"edges gone from both sides, all claimants agree"*.
+
+  **How it survived.** `Q85514` Senebhenaf listed **two** children, `Q85498` and `Q85518` —
+  and `Q85518` is a *silent redirect* to `Q85498`, the same man under a duplicate qid.
+  `extract_genealogy.py` canonicalizes both endpoints of every edge through `redirects.tsv`
+  before writing, so the `Q85518` claim rebuilt `Q85514 → Q85498` the moment the literal one
+  was removed. **And `cut_edges.py`'s verify pass compared cited qids literally**, so it was
+  blind to exactly the edge the extractor was building. The queue's own rule — *an edge
+  lives in two places* — was followed; the rule that was missing is that **an endpoint lives
+  under several qids**.
+
+  Fixed at the tool: `canon`/`cvals` compare through `redirects.tsv` on plan, apply and
+  verify, and the verify pass now also checks every alias file of both endpoints. Re-applied
+  under the fixed tool.
+
+  **Tangle 7 → 6 records, records in a tangle 102 → 101, 0 records lost their route to
+  Aster, total depth +6.** `compare_tangles` shows the introduced tangle is the removed one
+  minus exactly `Q85498`, with 0 records newly inside — the correct signature.
+
+  **The lesson is about the gate, not the edge.** This is the same shape as the vacuous I2:
+  a check that could not fail against the thing it was checking. The one-line sweep that
+  found it — for each declared cut, is the pair still in `edges.tsv`? — costs seconds and
+  should have existed from the first cut. It exists now.
+
 - **CUT: the Licinius Varus collision. Emma's call — it is an obvious error and should
   never have been queued as a question.**
 
