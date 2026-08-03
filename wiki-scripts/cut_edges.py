@@ -158,6 +158,60 @@ CUTS = {
                              "now Q200003 -- this record is wd Q20101444, Pedaiah of "
                              "Rumah, whose only recorded relation is his daughter Zebudah"),
     ],
+    # 2026-08-02. THE BIG ONE. Tangle 1 -- 71 records, the largest in the dump -- and the
+    # reason it exists is a name collision on "Licinius" spanning six centuries.
+    #
+    # Q73308 is labelled "Licinius **Varus**", alias `Licinius /Varus/` -- GEDCOM surname
+    # slashes, **no Wikidata id**. The dump records it as a child of Q136506 **Flavia Julia
+    # Constantia** (wd Q238023, d. 330, Constantine's sister) and Q73455 **Licinius** (wd
+    # Q184549, the emperor). Below it hangs the entire Republican block:
+    #
+    #   Q73308 -> Q73140 Gaius Licinius Varus -> Q72966 Licinia Varus
+    #     -> Q72807 Publius Mucius Scaevola (b. 300 BC) -> the Mucii Scaevolae, the Licinii
+    #        Crassi, Pompey the Great, Sextus Pompey, Asinius Pollio
+    #
+    # WIKIDATA SETTLES THE PARENTAGE OUTRIGHT: Q238023 has exactly ONE child, Q166731
+    # Licinius II -- and the dump already holds him, correctly, as Q136818 (b. 315, d. 326),
+    # same father and mother. So Q73308 as a *second* son of that couple is the collision,
+    # and removing it loses nothing: her real son is already recorded.
+    #
+    # WHY THE CUT IS AT THIS EDGE AND NOT THE ONE BELOW IT. Q73308 could in principle have
+    # been Licinius II with a false child instead of the Republican with false parents. It
+    # is not: its label and alias are the Republican name, it carries no Wikidata id, and
+    # Constantia's real son is separately present. So the parents are the false side.
+    #
+    # WHAT "LOSES ITS ROUTE TO ASTER" MEANS HERE, since the number sounds worse than it is.
+    # Traced: Aster -> ... -> Abraham -> ... -> the Emesene priest-kings -> Julia Domna ->
+    # Constantius Chlorus -> Constantia -> **Q73308** -> the Scaevolae -> Mucia Tertia ->
+    # Pompey the Great. 206 generations, and the last stretch runs BACKWARDS six hundred
+    # years. The Republic is attached to Aster by descending from a family that lived three
+    # centuries after it. That is the route being removed.
+    #
+    # AND THE DUMP ALREADY HAS THE RIGHT ROMAN ROUTE, unused by these records: Q90257
+    # **Aeneas the Dardanian** reaches Aster and has 29,153 descendants; Q74644 **Iulus gens
+    # Julia** 28,812; Q74518 **Romulus** 28,671. **None of the 103 records that lose Aster
+    # here are among their descendants.** So Rome in this dump is two populations -- 28,812
+    # attached through Troy properly, and 103 attached through this collision.
+    #
+    # THE 103 HANG FROM EXACTLY ONE RECORD, Q73308 itself. Reattaching them is therefore a
+    # SINGLE edge, not 103 decisions -- give Q73308 a father in the Trojan line and the
+    # whole block comes with it. That is Gaiad content and it is Emma's; queue.md item 2.
+    #
+    # Why not UNMERGE: Q73308 holds one identity, the Republican one; the imperial half is
+    # already a separate record. Why not DEDUPE: nothing here is duplicated.
+    # Not a tradition join -- or rather, it is a FALSE one: the real Roman join to the
+    # synoptic descent is Troy, and it exists.
+    #
+    # Measured: tangles 14 -> 13, records in a tangle 173 -> 102, largest tangle 71 -> 15,
+    # and 103 records lose the route described above.
+    "licinius-varus-collision": [
+        ("Q136506", "Q73308", "Flavia Julia Constantia (d. 330) recorded as the mother of "
+                              "the Republican Licinius Varus -- Wikidata gives her exactly "
+                              "one child, Licinius II, and the dump already holds him as "
+                              "Q136818"),
+        ("Q73455", "Q73308", "and the emperor Licinius as his father, the other half of "
+                             "the same collision on the name Licinius"),
+    ],
     # 2026-08-02. Tangle 15 of cycles_review.md, Marcus Flaccus / Cassus Curvus -- a Roman
     # mutual-parent 2-cycle, and **both directions go**, not one.
     #
