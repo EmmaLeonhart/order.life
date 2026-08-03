@@ -967,6 +967,86 @@ CUTS = {
     # Q73794 -> ... -> Q72957 -> Q72801 -> Q72786 -> Q72615 -> Q72434 -> Q73893 is the
     # false one, so the loop opens without detaching the Scipiones from Aster.
     "scipio-REVERTED-do-not-apply": [],
+
+    # ================================================================================
+    # THE INVERSION CLASS. queue.md item 5. Emma ruled on 2026-08-02, asked directly:
+    # "may these records lose their route to Aster?" -- YES, cut all five.
+    #
+    # THE SHAPE, identical in all five: the head of a lineage is recorded as the CHILD of
+    # one of its own descendants. That false edge is also the head's only route upward, so
+    # the thousands of ancestors it shows are its own descendant's ancestors flowing
+    # backwards. Breaking the loop necessarily returns the head to its true, shallow
+    # ancestry and drops it off Q1 Aster. That consequence is the whole of what needed a
+    # ruling -- the chronology was never in doubt in any of the five.
+    #
+    # This is NOT the case cycle_policy.md warns about, and the distinction matters. There
+    # the rule is: if a loop can only be broken by cutting a gateway, the defect is
+    # elsewhere -- go find it. Here we went and found it, in all five, and the gateway IS
+    # the defect. The ancestry being lost was never real; it was inherited upward through an
+    # edge that cannot be true. No reattachment exists in any of the five: Wikidata
+    # dead-ends too (Carloman b. 550 has no father, Q1306266 consul 302 BC has no father).
+    #
+    # Each edge below was checked against Wikidata one record at a time, and in every case
+    # the OTHER edges of the loop are the correct descent -- Pepin of Landen -> Begga ->
+    # Pepin of Herstal -> Charles Martel is the Carolingian pedigree itself. There is no
+    # other edge to blame.
+    "inversion-class": [
+        # Tangle 9. Martel b. 688; Pepin of Landen d. 640. Wikidata lists nine children for
+        # Charles Martel and Pepin of Landen is not among them -- he is Martel's
+        # great-grandfather, through Begga and Pepin of Herstal, which the loop's other
+        # three edges record correctly.
+        ("Q113081", "Q111318",
+         "Charles Martel b. 688 cannot be the father of Pepin of Landen d. 640 -- he is "
+         "Pepin's great-grandson via Begga and Pepin of Herstal, which the rest of the "
+         "loop records correctly"),
+        # Tangle 10. Gandalf b. 705; Olaf's mother Alfhild b. 780 is herself Gandalf's
+        # great-granddaughter. And the man's own patronymic settles it: Gandalf
+        # ALFGEIRSSON's father is Alfgeir, not Olaf.
+        ("Q118732", "Q136091",
+         "Olaf cannot be the father of Gandalf b. 705 -- Olaf's own mother Alfhild b. 780 "
+         "is Gandalf's great-granddaughter, and the patronymic Alfgeirsson names his "
+         "father as Alfgeir"),
+        # Tangle 11. The Welsh patronymics ARE the pedigree, and the loop's other three
+        # edges are spelled out by them, making Dyddgu Morfudd's great-grandmother. The
+        # mother-claim inverts three generations. Dyddgu's real father Cadwgan Fottwm (wd
+        # Q112531567) was absent from the dump and was created by
+        # `add_bridge_edges.py welsh-cadwgan-fottwm` on 2026-08-01, so she now has a real
+        # 453-deep Welsh line where the false claim was previously her only route upward.
+        ("Q144542", "Q148522",
+         "Morfudd cannot be Dyddgu's mother -- the loop's other three edges are spelled "
+         "out by the patronymics and make Dyddgu Morfudd's great-grandmother; Dyddgu's "
+         "real father Cadwgan Fottwm was added by add_bridge_edges.py"),
+        # Tangle 8. A Cotys/Rhescuporis name collision between two dynasties: Wikidata's own
+        # description makes Q2713411 "Sapean King of Thrace, 48-41 BC" while his recorded
+        # father Q2711623 is a "1st century AD Bosporan king" -- the son predates the
+        # father by a century.
+        ("Q138365", "Q148022",
+         "Tiberius Julius Cotys I, a 1st-century AD Bosporan king, cannot be the father of "
+         "Rhescuporis I, Sapean king of Thrace 48-41 BC -- a Cotys/Rhescuporis name "
+         "collision between two dynasties"),
+        # Tangle 12, AND THIS ONE IS AN UNMERGE, not a plain cut -- it differs in kind from
+        # the other four and both removals are the two halves of one split.
+        #
+        # Q73119 carries TWO Wikidata ids and is two men four generations apart:
+        #   Q433463    M. Livius Drusus the Younger, tribune 91 BC
+        #   Q20005554  M. Livius Drusus Aemilianus, "father of the general Gaius Livius
+        #              Drusus", sons of Q703448 Salinator
+        # That is why the loop closes: the tribune is his own great-grandfather's father,
+        # because one record is playing both parts.
+        #
+        # The other half ALREADY EXISTS and needs no naming: Q148206 is an empty shell
+        # already declared a father of Q72951 Gaius (from Gaius's side only, which is why
+        # it never got its own claims). So the unmerge is exactly two removals and Gaius
+        # keeps a father -- verified before applying: Q72951 P47 = [Q73119, Q148206].
+        ("Q73119", "Q72951",
+         "UNMERGE half 1 of 2: Q73119 is a merge of the tribune (wd Q433463) and Drusus "
+         "Aemilianus (wd Q20005554); the child-claim on Gaius belongs to Aemilianus, whose "
+         "slot Q148206 already exists and is already Gaius's other recorded father"),
+        ("Q151476", "Q73119",
+         "UNMERGE half 2 of 2: the father-claim from Salinator belongs to Aemilianus "
+         "(Q148206), not to the tribune; the tribune keeps his real 920-deep ancestry "
+         "through his mother Q72801 Cornelia"),
+    ],
 }
 
 

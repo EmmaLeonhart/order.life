@@ -35,11 +35,14 @@
 > substantial win was the Adam→Genghis bridge: Genghis Khan went from 0 ancestors to 1,272
 > and now reaches Aster.
 >
-> **State on 2026-08-02, re-read from `check_invariants.py` after regenerating `edges.tsv`:
-> 13 tangles, 102 records trapped, largest tangle 15.** Every one of the 13 has a section in
-> `cycles_review.md` and a numbered item below; **none of the 13 is a two-line edit waiting
-> to be made.** They are the residue — each needs either a ruling from Emma or an external
-> stemma. See the roster under ACTIVE.
+> **State at end of 2026-08-02, re-read from `check_invariants.py` after regenerating
+> `edges.tsv`: 8 tangles, 80 records trapped, largest tangle 15.** Every one of the 8 has a
+> section in `cycles_review.md` and a numbered item below; **none of the 8 is a two-line
+> edit waiting to be made.** They are the residue — each needs either a ruling from Emma or
+> an external stemma. See the roster under ACTIVE.
+>
+> Two of the eight (the Daksha rebirth, item 3) may not be defects at all. If Emma accepts
+> them as doctrine the real figure is **6 tangles, 52 records**.
 
 
 Worked top-to-bottom by the autonomous work-loop cron (`:00`/`:30`). Each item is
@@ -247,7 +250,7 @@ central command.
   `GENEALOGY_QA.md` and `qa_cycles_proposed.tsv` counted loops, with an enumerator that was
   never stable. Do not present tangle counts under the word "cycles" without saying so.
 
-### THE 13 REMAINING TANGLES, AND WHICH ITEM EACH IS (2026-08-02, 101 records)
+### THE 8 REMAINING TANGLES, AND WHICH ITEM EACH IS (2026-08-02, 80 records)
 
 Re-read from `cycles_review.md` after regenerating `edges.tsv`. **Every one is already
 diagnosed and written up below.** None is waiting on analysis; each is waiting on either a
@@ -262,15 +265,14 @@ ruling from Emma or a source that is not Wikidata.
 | 5 | Gaius Servilius | 8 | 11 | a Servilian stemma, or Emma's step-4 collapse |
 | 6 | Joan ferch Ieuan ap Rhys | 7 | 9 | Bartrum's *Welsh Genealogies* |
 | 7 | Sekhemre Sankhtawy Neferhotep III | 6 | 8 | Turin King List / Ryholt |
-| 8 | Gepaepyris | 6 | 5 | Emma — the inversion-class ruling |
-| 9 | Pepin of Landen | 4 | 5 | same ruling |
-| 10 | Olaf Geirstad-Alf | 4 | 5 | same ruling |
-| 11 | Morfudd ferch Tudur Fongam | 4 | 5 | same ruling |
-| 12 | Marcus Livius Drusus | 3 | 5 | same ruling |
-| 13 | Esther bat Sahlan ben Abraham | 2 | 12 | a source; cut once and reverted |
+| 8 | Esther bat Sahlan ben Abraham | 2 | 12 | a source; cut once and reverted |
 
-**One ruling — item 5, the inversion class — clears tangles 8 through 12 outright: five
-tangles, 21 records.** It is the single highest-value thing on this board.
+**Tangles 2 and 4 are the Daksha rebirth and may not be defects at all** — see item 3.
+If Emma accepts them as doctrine, the real remaining count is **6 tangles, 52 records**.
+
+**The inversion class is DONE** — Emma ruled on it 2026-08-02 and it took five tangles and
+21 records off this table in one pass. See the devlog entry; the cut set is
+`cut_edges.py inversion-class`.
 
 1. **UNMERGE `Q72786` "Marcus Aemilius Lepidus" — the real defect in the Scipio loop.**
    **NEEDS EMMA: which parentage is the true one.** Investigated 2026-07-31; the diagnosis
@@ -437,106 +439,6 @@ tangles, 21 records.** It is the single highest-value thing on this board.
    Rudras with a named father and mother, not Rudra-Shiva the creator. **If the intent was
    the Shaiva reading, this cut is wrong and is one revert** — `cut_edges.py`, cut set
    `brahma-rudras`.
-
-5. **THE INVERSION CLASS — ONE RULING FROM EMMA CLEARS THREE TANGLES AT ONCE.**
-
-   Found 2026-08-01 by working three unrelated tangles and hitting the identical wall in
-   all three. **The shape:** the head of a lineage is recorded as the *child* of one of its
-   own descendants. That single false edge is also the head's *only* route upward, so the
-   4,000-odd ancestors it shows are its own descendant's ancestors, flowing backwards. The
-   loop cannot be broken without the head reverting to its true, shallow ancestry and
-   dropping off `Q1` Aster.
-
-   | tangle | the impossible edge | why it cannot be | records that lose Aster |
-   |---|---|---:|---:|
-   | 20 Pepin of Landen | `Q113081` Charles Martel → `Q111318` Pepin of Landen | Martel b. **688**, Pepin of Landen d. **640**. Wikidata lists nine children for Martel and Pepin is not one | **9** |
-   | 21 Olaf Geirstad-Alf | `Q118732` Olaf → `Q136091` Gandalf Alfgeirsson | Gandalf b. **705**; Olaf is the son of Alfhild b. **780**, herself Gandalf's great-granddaughter. And the man's own patronymic is **Alfgeirsson** — his father is Alfgeir | **4** |
-   | 25 Marcus Livius Drusus | `Q73119` → `Q72951` Gaius Livius Drusus | `Q73119` carries **two Wikidata ids** and is two men; details below | **10** |
-   | 22 Morfudd / Dyddgu (Welsh) | `Q144542` Morfudd → `Q148522` Dyddgu | the other three edges are spelled out by the patronymics and make Dyddgu Morfudd's **great-grandmother**; the mother-claim inverts three generations | **18** |
-   | 1 Constantius Chlorus (the 71-record one) | UNMERGE `Q72981` Publius Licinius Crassus | it carries **two Wikidata ids** — `Q746582` **consul 171 BC** (no father recorded) and `Q20100913` **praetor 57 BC** (father `Q72972`). Splitting shrinks the largest tangle **71 → 64** but does not dissolve it | **13** |
-   | 13 Gepaepyris | `Q138365` Tib. Julius Cotys I → `Q148022` Rhescuporis I | Wikidata's own description makes `Q2713411` *"Sapean King of Thrace, **48–41 BC**"* while his recorded father `Q2711623` is a *"1st century **AD** Bosporan king"* — a Cotys/Rhescuporis name collision between two dynasties | **5** |
-
-   **The Welsh one is now half-repaired and only the cut is left (2026-08-01).** Dyddgu had
-   **no father in the dump** — Cadwgan Fottwm, wd `Q112531567`, was simply absent, which is
-   why her false mother-claim was her only route upward. His own father `Q148767` *was*
-   here with no children recorded, so the hole sat between a childless father and a
-   fatherless daughter and Wikidata supplied the label verbatim. `add_bridge_edges.py
-   welsh-cadwgan-fottwm` created him. That is purely additive and removes no loop.
-   **It does not resolve the ruling:** `Q148767` has 452 ancestors and does **not** reach
-   Aster, so Dyddgu now has a real 453-deep Welsh line where she had none, but the cut
-   still costs 18 records their route to `Q1` — that route runs backwards through Morfudd's
-   mother Gwenllian Fechan. One `cut_edges.py` entry away once ruled on.
-
-   In every case the other edges of the loop are the *correct* descent, checked against
-   Wikidata one record at a time — Pepin of Landen → Begga → Pepin of Herstal → Charles
-   Martel is the Carolingian pedigree itself. **There is no other edge to blame.**
-
-   **Why this is not mine to decide.** `cycle_policy.md` says a loop that can only be
-   broken by cutting a gateway means the defect is elsewhere — and here it demonstrably is
-   not. The later note in this file says a red `compare_depth` is not automatically revert
-   and to settle the edge on external evidence — and the evidence *is* settled: dates a
-   century or more apart on well-documented people. What is left is not a question about
-   the data. It is a question about the Gaiad: **may a record lose its route to Aster when
-   that route existed only through an edge that cannot be true?** No reattachment is
-   available in any of the three — checked, and Wikidata dead-ends too (Carloman b. 550 has
-   no father; `Q1306266` consul 302 BC has no father).
-
-   **Nothing is applied.** All three cuts are two-line edits and one ruling turns them on
-   or closes them permanently. If the answer is "yes, cut them", say so once and all three
-   go in the next tick. If the answer is "the line must keep reaching Aster", these three
-   tangles are permanent and should be marked so rather than re-investigated every session.
-
-   **Meanwhile the loop is NOT blocked on this.** A scan of all 301 edges inside the 30
-   tangles (against `edges.tsv`, not the dump) found **172 whose removal costs no record
-   its route to Aster** — so most remaining tangles have a repair that needs no ruling at
-   all. Work those first; the three above are the exception, not the pattern.
-
-   **`Q73119` in detail — it is also a merged record, which the other two are not.**
-   Investigated 2026-08-01. Nothing here is a guess and nothing is applied.
-
-   **`Q73119` carries TWO Wikidata ids**, `Q433463` and `Q20005554`. It is a merge of two
-   men four generations apart:
-
-   | | who | Wikidata says |
-   |---|---|---|
-   | `Q433463` | Marcus Livius Drusus the Younger, tribune 91 BC | father `Q703346` (the Elder), mother `Q100804879` Cornelia, children Drusus Claudianus + Livia |
-   | `Q20005554` | Marcus Livius Drusus Aemilianus | described as *"father of the general Gaius Livius Drusus"*; fathers `Q703448` Salinator and `Q432244` Aemilius Paullus |
-
-   Every one of those maps onto a record already in the dump — `Q72798`/`Q73284` the Elder,
-   `Q72801` Cornelia, `Q78156` + `Q141460` the children, `Q151476` Salinator, `Q73266`
-   Paullus, `Q72951` Gaius. **That is why the loop closes:** the tribune is his own
-   great-grandfather's father, because one record is playing both parts.
-
-   **The other half already exists and needs no naming.** `Q148206` is an empty shell that
-   is *already* declared a child of `Q151476` Salinator and a father of `Q72951` Gaius —
-   from the other side only, so it never got its own claims. It is the `Q20005554` slot.
-   So the unmerge is two removals, exactly the `Tros` shape: drop `Q73119`'s child-claim on
-   `Q72951` and its father-claim on `Q151476`, and Gaius keeps his father `Q148206`.
-
-   **THE ONE THING THAT STOPS IT, measured, not feared.** The Livii reach Aster *only*
-   through the merged record. After the unmerge:
-
-       Q72951 Gaius Livius Drusus       921 ancestors -> 15,  loses Aster
-       Q72798 Marcus Drusus the Elder   921           -> 24,  loses Aster
-       Q141604 Livia / Q144272 Gaius the jurist       -> 16,  lose Aster
-
-   **Exactly 10 records lose their route to Aster** — 46,703 → 46,693, checked by BFS from
-   `Q1`, not estimated. Everything below is unaffected because it descends through the
-   tribune, who keeps his real 920 through Cornelia. `compare_depth` would still fail
-   loudly (~−263 on `Q72951`), and the queue's own rule says a failing depth gate means
-   revert unless external evidence settles it.
-
-   **So the ruling, and it is one sentence:** the 921 ancestors those ten records hold are
-   an artifact of the merge — they are the *tribune's* ancestry, inherited upward by his
-   own great-grandfather. **May the Livii Drusi lose that route to Aster?** If yes, the
-   unmerge is two lines and it is done. If the answer is that the line must keep reaching
-   Aster, the repair is elsewhere: the correct route runs `Q73266` Lucius Aemilius Paullus
-   → `Q73413` → `Q73551`, and **that branch dead-ends at 9 ancestors in the dump and
-   dead-ends on Wikidata too** (`Q1306266`, consul 302 BC, has no recorded father). Joining
-   the Aemilii Paulli upward is Gaiad material, which makes it Emma's.
-
-   Not guessing Roman prosopography, per item 1. The diagnosis is finished; only the
-   ruling is missing.
 
 6. **TWO RESIDUES FROM THE DEIMACHUS UNMERGE — small, precise, and not hidden.**
    The unmerge landed on 2026-08-01 and dissolved tangle 15, but the existing tools cannot

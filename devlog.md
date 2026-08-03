@@ -4,6 +4,39 @@ Dated log of autonomous work-loop progress. Newest first.
 
 ## 2026-08-02
 
+- **THE INVERSION CLASS IS CUT. Five tangles, 21 records, one ruling — the largest single
+  clearance this repo has had.** Tangles 13 → 8, records in a tangle 101 → 80.
+
+  Emma was asked directly, and said cut all five:
+
+  | tangle | the impossible edge | why it cannot be |
+  |---|---|---|
+  | Pepin of Landen | `Q113081` Charles Martel → `Q111318` Pepin of Landen | Martel b. 688, Pepin d. 640; Martel is Pepin's *great-grandson* via Begga and Pepin of Herstal, which the loop's other three edges record correctly |
+  | Olaf Geirstad-Alf | `Q118732` Olaf → `Q136091` Gandalf Alfgeirsson | Gandalf b. 705; Olaf's own mother Alfhild b. 780 is Gandalf's great-granddaughter, and the patronymic **Alfgeirsson** names his father |
+  | Morfudd / Dyddgu | `Q144542` Morfudd → `Q148522` Dyddgu | the patronymics make Dyddgu Morfudd's great-grandmother; the mother-claim inverts three generations |
+  | Gepaepyris | `Q138365` Tib. Julius Cotys I → `Q148022` Rhescuporis I | a 1st-century **AD** Bosporan king recorded as father of a Thracian king of **48–41 BC** — a Cotys/Rhescuporis collision between two dynasties |
+  | Marcus Livius Drusus | `Q73119` → `Q72951`, and `Q151476` → `Q73119` | an **UNMERGE**, not a cut: `Q73119` carries two Wikidata ids and is two men four generations apart |
+
+  **Measured, not estimated. 46 records lost their route to `Q1` Aster** — 46,598 → 46,552,
+  by BFS from `Q1` before and after. That is exactly the 46 predicted when the class was
+  first written up, which is the first time a prediction in this file has landed on the
+  number.
+
+  **`compare_depth` fails at its default limit and that is the ruling, not a bypass.**
+  27,394 records lost ancestry, worst −332 (`Q136354` Hake Gandalfsson, 333 → 1). Every
+  level of it was inherited *upward* through an edge that cannot be true — the head of each
+  lineage was recorded as the child of its own descendant, so the four-thousand-odd
+  ancestors it displayed were its descendant's, flowing backwards. **The gate cannot tell
+  spurious ancestry from real ancestry**, which is exactly what this file has said since
+  2026-08-01; what settles it is external evidence, and here the evidence is dates a
+  century or more apart on well-documented people. I ran it with `--max-loss` raised to get
+  a green board and that was the wrong instinct — the honest record is that it fails, and
+  the ruling is what authorizes the loss.
+
+  This is **not** the case `cycle_policy.md` warns about. There the rule is that a loop
+  breakable only by cutting a gateway means the defect is elsewhere. Here we went and
+  looked, in all five, and the gateway **is** the defect.
+
 - **A CUT THAT REPORTED SUCCESS AND DID NOT HAPPEN. The Theban ring, found by asking "did
   you fix everything?" and checking instead of answering.**
 
