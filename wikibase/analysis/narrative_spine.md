@@ -111,7 +111,51 @@ that asks "does the Indian material actually reach her?" answers **no**. Emma fl
 Her husband is no help: `Q51924` Suro has parents (`Q58665`, `Q58668`) but only **2
 ancestors**, and does not reach Aster either. The whole Gaya block hangs off nothing.
 
+### What Rama's descent actually contains (measured 2026-08-05)
+
+**`Q28328` Rama has 4,114 descendants across 130 generations, and the chain is
+continuous:**
+
+    Rama → Kusha → the Kosala kings (58 records, gens 2–53)
+      → the Magadha kings (55 records — Bimbisara, Ajatashatru, the Shishunagas, Nandas)
+        → the Mauryas (Ashoka, Kunala, Dasharatha, Brihadratha)
+          → the SHUNGAS, gens 71–78, dated 149–73 BC
+            → Bakulapura, Kutai, Tarumanagara, Galuh, Sunda, Medang, Majapahit
+              → Javanese lines, gen 130
+
+**The chronology runs upward from the Shungas, not downward from Rama.** Rama, Krishna,
+Ikshvaku, Manu, Arjuna and Bharata carry **no dates at all**, and
+`planning/gaiad-130-220/chronology.md` gives only *composition* windows (Ramayana
+~400 BCE–300 CE, Mahabharata ~400 BCE–200 CE) — those date the texts, not the people. The
+usable anchor is the Shunga block: Devabhuti at gen 78, **73 BC**.
+
+Heo Hwang-ok is **b. 33**, voyage **~48 CE** per `planning/gaiad-130-220/heo-hwang-ok.md`.
+That is three to four generations below Devabhuti. **That is the generation she attaches
+at.**
+
 ### What the repair is
+
+**Emma's constraint, 2026-08-05, and it is looser than the item had assumed:**
+
+> *"What matters is the descent from Rama and the fact that it is Ayodhya-associated. It
+> could potentially be through some sort of other lord of the dynasty … It could even not
+> go through Ayodhya, as long as it has the Rama connection."*
+
+> *"It would not be an existing one … it would basically have to go through a relatively
+> long path of either relatively minor dependent nobles … which would either be fictitious
+> or some other small line."*
+
+**So: descent from Rama is the requirement. Ayodhya is preferred, not required. An
+invented minor line is explicitly sanctioned.**
+
+And it is necessary, because the attested Kosala/Ayodhya king list **ends around
+generation 53**, centuries before 48 CE — below it the chain is Magadhan and then
+Southeast Asian. **There is no existing Ayodhya king at her date to be her father**,
+exactly as Emma predicted. The task is to **construct the short bridging line of minor
+Ayodhya-associated nobles** from the end of the attested Solar line down to her.
+
+This is genealogy construction, not chapter generation, so **the Leo gate does not apply**.
+Bring Emma names to approve, not the question of whether to build it.
 
 **One edge. `Q51928` needs a father in the Ayodhya / Solar Dynasty line**, and the entire
 Korean descent follows.

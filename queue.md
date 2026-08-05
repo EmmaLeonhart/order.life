@@ -335,12 +335,56 @@ with AskUserQuestion instead of parking it here.**
    **THE REPAIR IS ONE EDGE: give `Q51928` a father in the Ayodhya / Solar Dynasty line.**
    47 records — her and her 46 descendants — then reach Aster *through the actual story*.
 
-   **NEEDS EMMA for which father**, and that is a narrative/naming call per the `Tros`
-   precedent — do not guess an Ayodhya king. Prepare everything else first: the dump holds
-   `Q2299` / `Q51321` / `Q161228` "AYUTAYUS of Magadha" and `Q29610` "Ayutayu Solar
-   Dynasty" — **which are duplicates of each other and should be deduped before the join
-   is made**, or the join will need redoing — plus the Ikshvaku line at `Q28982`, already
-   inside Aster's descent. Do that dedupe now; it is unblocked.
+   **RESEARCHED 2026-08-05. Emma's constraint, in her words:**
+
+   > *"What matters is the descent from Rama and the fact that it is Ayodhya-associated.
+   > It could potentially be through some sort of other lord of the dynasty, as long as
+   > the dynasty's descendant from Rama is somehow at one point. It could even not go
+   > through Ayodhya, as long as it has the Rama connection."*
+
+   > *"It would not be an existing one … it would basically have to go through a
+   > relatively long path of either relatively minor dependent nobles … which would either
+   > be fictitious or some other small line, chronologically important."*
+
+   **So the requirement is exactly one thing: descent from Rama. Ayodhya is preferred,
+   not required. An invented minor line is explicitly acceptable.**
+
+   **What the dump already has, measured 2026-08-05:** `Q28328` Rama has **4,114
+   descendants over 130 generations**, and the chain is continuous —
+   Kusha → the Kosala kings (58 records) → the Magadha kings (55 records: Bimbisara,
+   Ajatashatru, the Shishunagas, the Nandas) → the Mauryas (Ashoka, Kunala, Dasharatha,
+   Brihadratha) → **the Shungas, which carry real dates** → then Bakulapura, Kutai,
+   Tarumanagara, Galuh, Sunda, Medang, Majapahit and down into Javanese lines.
+
+   **The chronology Emma doubted does not exist at the top and is not needed.** `Q28328`
+   Rama, `Q1861` Krishna, `Q28982` Ikshvaku, `Q28469` Manu, `Q1888` Arjuna and `Q2076`
+   Bharata **carry no dates at all**, and `planning/gaiad-130-220/chronology.md` gives only
+   *composition* windows (Ramayana ~400 BCE–300 CE). But the line is dated from below:
+   the Shunga kings run **149–73 BC** at generations 71–78. Heo Hwang-ok is **b. 33, and
+   `planning/gaiad-130-220/heo-hwang-ok.md` puts her voyage at ~48 CE** — roughly three to
+   four generations below Devabhuti. **That is where she attaches.**
+
+   **The gap is real and is the writing task.** The attested Kosala/Ayodhya king list ends
+   around generation 53, centuries before her; below that the chain is Magadhan and then
+   Southeast Asian. So there is **no existing Ayodhya king at 48 CE to be her father** —
+   precisely what Emma predicted. **Construct the short line of minor Ayodhya-associated
+   nobles** bridging the end of the attested Solar line to her, landing at ~48 CE.
+
+   **This is Gaiad genealogy construction, not chapter generation, so the Leo gate does
+   not apply.** Naming is still Emma's per the `Tros` precedent — bring her *names to
+   approve*, not the question of whether to build it.
+
+   **Do this dedupe first or the join gets redone:** `Q2299` / `Q51321` / `Q161228`
+   "AYUTAYUS of Magadha" and `Q29610` "Ayutayu Solar Dynasty" are parallel imports of one
+   figure. **The whole Shunga block is doubled the same way** — `Q2175` Agnimitra (wd
+   `Q24395`, dated) against `Q160916` "King of Shunga II - Agnimitra (149141 BC)"
+   (undated, no id); likewise `Q2074`/`Q160757` Devabhuti and `Q2086`/`Q160777`
+   Bhagabhadra. Dedupe the dated, Wikidata-bearing copy as survivor.
+
+   **`planning/gaiad-130-220/heo-hwang-ok.md` is the brief and had never been read.** She
+   is "the one named Asian-to-Asian bridge" — a single node linking Indic, Korean **and
+   Japanese** material, with the still-living Gimhae Kim and Heo lineages named. The
+   Japanese leg is a second consequence of this one edge and is not in the dump either.
 
    Apply with an `add_bridge_edges.py`-style edit: `P47` on `Q51928` **and** `P20` on the
    father, propagated to every shadow file, `shadow_audit.py` at 0.
@@ -348,18 +392,68 @@ with AskUserQuestion instead of parking it here.**
    **Report the result as "the Vedic line now reaches living Koreans", not as a delta in a
    reachability count.** See the spine document for why that distinction is the whole job.
 
+0b. **BC DATES ARE STORED AS POSITIVE YEARS, INCONSISTENTLY. Check what was built on
+   them.** Found 2026-08-05 while dating the Lepidus records.
+
+   **Only 133 records in the entire dump carry a negative (BC) date.** Nearly everything
+   pre-Christian is stored positive:
+
+   | record | truth | stored |
+   |---|---|---|
+   | `Q74255` Numa Pompilius (716–672 BC) | BC | `b=+0753`, `d=+0671` |
+   | `Q2175` Agnimitra (d. 141 BC) | BC | `d=+0141` |
+   | `Q2074` Devabhuti (d. 73 BC) | BC | `d=+0073` |
+   | `Q72957` P. Cornelius Scipio Nasica | BC | `b=-0182`, `d=-0132` — **correct** |
+
+   **Inconsistent is worse than uniformly wrong** — no script can assume either
+   convention, and a numeric comparison between two such records is meaningless.
+
+   **What to do, in this order.** (a) Do NOT revert anything on this basis. (b) Go through
+   every repair justified as *"chronologically impossible"* — above all the **inversion
+   class**, 2026-08-02, five tangles and 21 records — and check *which* arguments actually
+   compared these date fields. Those that turned on patronymics, dynasty membership or an
+   explicit BC/AD in the label stand untouched; the devlog entry suggests most did. Only
+   re-derive the ones that read the fields numerically. (c) Then decide whether to
+   normalise the dump or teach the scripts both conventions — normalising is the honest
+   fix but touches 29,217 dated records, so propose before applying.
+
+   The queue preamble already warns that any figure quoted from the TSVs before
+   2026-08-01 may be off, for an unrelated CSV-quoting reason. **This is a second,
+   independent measurement hazard in the same files.**
+
 1. **UNMERGE `Q72786` "Marcus Aemilius Lepidus" — the real defect in the Scipio loop.**
 
-   > **EMMA HAS TAKEN THIS ONE (2026-08-05, asked directly).** Her words: *"I do the
-   > research. I'm pretty sure there's something easy to find that we just haven't seen
-   > yet."* So this is **BLOCKED-ON-USER-ACTION, owner Emma**, not a ruling waiting to be
-   > prompted for. **Do not ask her about it again, do not guess the prosopography, and do
-   > not work around it by cutting the Scipio half.** Leave tangle 1 (15 records) standing
-   > until she brings back the source. The diagnosis below is what she is researching
-   > against — keep it accurate, add to it if you find dates, but make no edit to
-   > `Q72786` or any of the three couples.
+   > **RESEARCHED AND LARGELY ANSWERED 2026-08-05 — see
+   > `wikibase/analysis/lepidus_resolved.md`.**
+   >
+   > **`Q72786` is a MAMERCUS, not a Marcus.** Wikidata `Q3622705` (M. Aemilius Lepidus,
+   > cos. 126 BC, = dump `Q73011`) has exactly **one** child: `Q721477` **Mamercus
+   > Aemilius Lepidus Livianus**. And `Q100804879` Cornelia (= dump `Q72801`) is *"wife of
+   > Drusus"*, her children being M. Livius Drusus, Livia, and that same Mamercus. The
+   > cognomen *Livianus* says it outright — born a Livius Drusus, adopted into the Aemilii
+   > Lepidi. **Couple A's son was never a Marcus**, so the three parentages are not three
+   > claims about one man; they are at least two men under one label. Unmerge, step 1, and
+   > the Scipio half is never touched.
+   >
+   > **The fourth Lepidus resolves in the same lookup.** Dump `Q144279` = wd `Q3625112`,
+   > tribunus militum 190 BC (dump `b=+0210 d=+0190`, Wikidata `-0210`/`-0190` — same
+   > numbers, sign bug below). Wikidata gives *him* Quintus Aemilius Lepidus as a son. So
+   > the competing `Q72786` → Quintus edge is the false one and the surviving edge is
+   > already in the dump.
+   >
+   > **HOW THIS ITEM WAS MIS-FILED, and it is the lesson of the day.** It sat as "NEEDS
+   > EMMA — do not guess Roman prosopography" for five days. It never needed Emma; it
+   > needed one HTTP request. Emma's actual words on 2026-08-05 were **"do the research"**
+   > — an instruction to this loop — and they were misread as her claiming the task. She
+   > then said plainly: *"I don't know who Lepidus is. For item one, I wanted you to do
+   > the research."* **Naming and narrative intent are hers. Finding out who someone was
+   > is ours.** Stop converting research into questions.
+   >
+   > **Still genuinely open:** who couples B (`Q73113`/`Q73110`) and C (`Q73173`) are —
+   > none carries a Wikidata id, so they need their own lookups; and Cornelia's own father,
+   > where the dump has three and Wikidata has none.
 
-   Investigated 2026-07-31; the diagnosis is solid, the choice is not mine.
+   Investigated 2026-07-31; the diagnosis below is what the lookup confirmed.
 
    `cycle_policy.md` said that if a loop can only be broken by cutting a gateway, the real
    defect is elsewhere — and it is. Not in the Scipio half. `Q72786` carries **three
@@ -441,7 +535,16 @@ with AskUserQuestion instead of parking it here.**
    > too; it cannot also put him under Romulus.
    >
    > **The real question, and it is small: who was `Q73308`'s father?** Not where a
-   > republic attaches. Ask it that way when it is asked again.
+   > republic attaches.
+   >
+   > **AND IT IS NOT A QUESTION FOR EMMA — IT IS RESEARCH, AND IT IS OURS.** She said so
+   > on 2026-08-05: *"For item two, you need to do the research."* Do what worked on item
+   > 1: look the surrounding records up on Wikidata. `Q73308` itself has no Wikidata id
+   > and no ancestry on Geni (Emma, 2026-08-02 — do not fetch Geni), but its son `Q73140`
+   > Gaius Licinius Varus and grandson `Q72966` Licinia do sit in attested Republican
+   > prosopography, and the Licinii Vari are a real gens with a known consular line. **Go
+   > find who the father of that line was.** Only bring it back to Emma if the sources
+   > genuinely disagree — and then as a parentage question about one man.
    >
    > **How to apply it once answered** — remember an edge lives in TWO places: write `P47`
    > on `Q73308` naming the father, AND `P20` on the father naming `Q73308`. Propagate to

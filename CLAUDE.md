@@ -41,6 +41,27 @@ Two consequences, both learned the hard way on 2026-08-05:
   it as blocks-and-links yields answers that are sane about links and wrong about
   parentage.
 
+**RESEARCH IS OURS. NAMING AND NARRATIVE INTENT ARE EMMA'S.** Added 2026-08-05 after she
+said, of a queue where the top four items were all filed NEEDS EMMA:
+
+> *"Almost everything here is stuff that you were supposed to do the research on, but you
+> just kind of assumed I was going to do it."*
+> *"I don't know who Lepidus is. For item one, I wanted you to do the research. For item
+> two, you need to do the research."*
+
+**Finding out who someone was is never a question for Emma.** Look it up. `Q72786` sat
+filed as "NEEDS EMMA — do not guess Roman prosopography" for five days; it needed one
+Wikidata request, which resolved it (it is a **Mamercus**, not a Marcus —
+`wikibase/analysis/lepidus_resolved.md`). Ask her only for: **what a record should be
+called**, **where a line should attach in the story**, and **whether an invented bridge is
+acceptable**. Everything else, go and find out.
+
+**And read `planning/` before declaring anything unknown.** `planning/gaiad-130-220/`
+holds the briefs — `heo-hwang-ok.md`, `chronology.md`, `ramayana.md`, `mahabharata.md`,
+`manu-indian.md`, `southeast-asia.md`, `jimmu.md` and more. Emma, 2026-08-05: *"the notes
+that you probably could have read but chose not to read."* They answer questions that
+have been filed as blockers.
+
 Three further rules follow, and they are not optional:
 
 1. **Everything surprising that is not an error was imported deliberately by Emma.**
