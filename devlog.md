@@ -2,6 +2,57 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-08-05
+
+- **Four rulings obtained from Emma in one round. Nothing was applied to the dump yet —
+  this commit is the rulings written down.** The work-loop crons were started
+  (`3 * * * *` work, `15 * * * *` auto-flush, `42 * * * *` status report) and the first
+  tick's finding was that the top four items of `queue.md` were all marked NEEDS EMMA and
+  **nobody had asked her.** She was at the keyboard. One `AskUserQuestion` answered all
+  four.
+
+  | item | ruling | what it unblocks |
+  |---|---|---:|
+  | 3 — the Puranic rebirth of Daksha | **split into two records**, both copies | 28 records, tangles 2 and 4 |
+  | 2 — the floating Roman Republic | **attach `Q73308` to all three** of Aeneas, Iulus, Romulus | 103 records regain `Q1` Aster |
+  | 16 — phantom one-sided edges | **ADD the missing side, always** | 1,050 edges |
+  | 1 — the `Q72786` Lepidus unmerge | **Emma is researching it herself** | — (hands off) |
+
+- **Two of the four went against what this repo had written down, and both stand.**
+
+  Item 3's own text said *"do not split Daksha — the tradition's whole point is that the
+  two are one person,"* and offered a non-genealogical property as the only option that
+  removed the loops without denying the doctrine. Emma was shown that option and chose the
+  split. It is her call as author. The recommendation in that item is now dead text and is
+  marked as such.
+
+  Item 2 was framed here as a weighty choice between three attachment points. Her answer
+  was *"I am pretty sure we can just connect it with all of them. I don't understand why
+  this is a decision."* She was right that it was not a decision, and the framing was the
+  error.
+
+- **One fact was measured before recording that ruling, and it changes how it applies.**
+  From `edges.tsv`: `Q90257` Aeneas is an ancestor of both `Q74644` Iulus (827 ancestors)
+  and `Q74518` Romulus (781), **but Iulus and Romulus are not in each other's ancestry** —
+  they are collateral, not a chain. All three reach `Q1`. So "all of them" cannot be
+  satisfied by one edge to the lowest of the three: `Q73308` will carry **three parent
+  edges**. That is Emma's instruction taken literally, and it is coherent with CLAUDE.md
+  rule 1 — integrating several ancestries into one descent is the product here. Its
+  parents are therefore recorded as **PROTECTED**, because `qa_same_role_parents.tsv` is
+  built to flag exactly that shape and a future session would otherwise "repair" it back.
+
+- **The failure this exposes is procedural, not genealogical.** Eight tangles had been
+  standing as "each needs either a ruling from Emma or an external stemma," and more than
+  a thousand records of ordinary executable work sat behind rulings that took one question
+  to obtain. Parking a question in `queue.md` is not asking it. `queue.md` now says so at
+  the top, and the roster table's blocked framing has been corrected: what is genuinely
+  still waiting is only the five items that need an external stemma.
+
+- **Nothing in `wikibase/items/` was touched.** The three ruled repairs are queued with
+  their procedures, their expected `compare_tangles` / `compare_depth` signatures, and
+  their failure conditions written out, so the work-loop can execute them without
+  re-deriving any of it. Each is a separate commit; the phantom class goes in batches.
+
 ## 2026-08-02
 
 - **THE INVERSION CLASS IS CUT. Five tangles, 21 records, one ruling — the largest single

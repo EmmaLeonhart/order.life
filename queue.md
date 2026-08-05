@@ -41,8 +41,22 @@
 > edit waiting to be made.** They are the residue — each needs either a ruling from Emma or
 > an external stemma. See the roster under ACTIVE.
 >
-> Two of the eight (the Daksha rebirth, item 3) may not be defects at all. If Emma accepts
-> them as doctrine the real figure is **6 tangles, 52 records**.
+> **2026-08-05 — FOUR OF THOSE RULINGS NOW EXIST. Emma was simply asked, in one round,
+> and answered all four.** Items 1, 2, 3 and 16 are no longer open questions:
+>
+> | item | ruling |
+> |---|---|
+> | 3 — Daksha rebirth | **SPLIT into two records** (both copies) — dissolves tangles 2 and 4, **28 records** |
+> | 2 — Roman Republic | **Attach `Q73308` to all three** of Aeneas, Iulus, Romulus — **103 records** regain Aster |
+> | 16 — phantom one-sided edges | **ADD the missing side, always** — **1,050 edges**, provably graph-neutral |
+> | 1 — the Lepidus unmerge | **Emma is researching it herself.** Hands off; do not ask again |
+>
+> **The lesson, and it is the one that matters for how this file is worked:** these had
+> been sitting as "BLOCKED / NEEDS EMMA" for days. Nobody had asked her. Every one of the
+> four took a single question. **When an item genuinely needs a ruling, ask her with
+> `AskUserQuestion` — do not park it in this file and move on.** Parking it is what
+> produced a queue that reads as fully blocked while holding well over a thousand records
+> of ordinary executable work.
 
 
 Worked top-to-bottom by the autonomous work-loop cron (`:00`/`:30`). Each item is
@@ -258,25 +272,45 @@ ruling from Emma or a source that is not Wikidata.
 
 | # | tangle | records | item | what it waits on |
 |---:|---|---:|---:|---|
-| 1 | Marcus Aemilius Lepidus | 15 | 1 | Emma — which of three parent-couples is real |
-| 2 | Prachetas (10 sons) | 14 | 3 | Emma — modelling the Daksha rebirth |
+| 1 | Marcus Aemilius Lepidus | 15 | 1 | **Emma is researching it herself** (2026-08-05) — hands off |
+| 2 | Prachetas (10 sons) | 14 | 3 | **NOTHING — RULED 2026-08-05: split Daksha. Go do it.** |
 | 3 | D. Ausindo Ximeno | 14 | 10 | a *Livro de Linhagens* stemma |
-| 4 | Aditi Kashyapa | 14 | 3 | same as tangle 2 — the second copy |
+| 4 | Aditi Kashyapa | 14 | 3 | **NOTHING — same ruling, the second copy. Go do it.** |
 | 5 | Gaius Servilius | 8 | 11 | a Servilian stemma, or Emma's step-4 collapse |
 | 6 | Joan ferch Ieuan ap Rhys | 7 | 9 | Bartrum's *Welsh Genealogies* |
 | 7 | Sekhemre Sankhtawy Neferhotep III | 6 | 8 | Turin King List / Ryholt |
 | 8 | Esther bat Sahlan ben Abraham | 2 | 12 | a source; cut once and reverted |
 
-**Tangles 2 and 4 are the Daksha rebirth and may not be defects at all** — see item 3.
-If Emma accepts them as doctrine, the real remaining count is **6 tangles, 52 records**.
+**Tangles 2 and 4 are the Daksha rebirth, and on 2026-08-05 Emma ruled: SPLIT.** She did
+not accept them as doctrine — see item 3 for the ruling and the exact procedure. They are
+**28 records of ordinary executable work**, not a philosophical question, and they are the
+single largest unblocked win on this table.
+
+**THIS TABLE'S "WAITING ON A RULING" FRAMING IS OUT OF DATE AS OF 2026-08-05.** Four
+rulings were obtained from Emma directly, in one round, by asking her (items 1, 2, 3, 16).
+Tangles 2 and 4 are ruled and executable; item 2's Roman reattachment is ruled and
+executable; item 16's phantom class is ruled and executable; tangle 1 is Emma's own
+research and is hands-off. What is genuinely still waiting is only what needs an
+**external stemma** — tangles 3, 5, 6, 7 (items 10, 11, 9, 8) — and tangle 8 (item 12).
+**Do not report this repo as blocked, and when something really does need Emma, ask her
+with AskUserQuestion instead of parking it here.**
 
 **The inversion class is DONE** — Emma ruled on it 2026-08-02 and it took five tangles and
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
 1. **UNMERGE `Q72786` "Marcus Aemilius Lepidus" — the real defect in the Scipio loop.**
-   **NEEDS EMMA: which parentage is the true one.** Investigated 2026-07-31; the diagnosis
-   is solid, the choice is not mine.
+
+   > **EMMA HAS TAKEN THIS ONE (2026-08-05, asked directly).** Her words: *"I do the
+   > research. I'm pretty sure there's something easy to find that we just haven't seen
+   > yet."* So this is **BLOCKED-ON-USER-ACTION, owner Emma**, not a ruling waiting to be
+   > prompted for. **Do not ask her about it again, do not guess the prosopography, and do
+   > not work around it by cutting the Scipio half.** Leave tangle 1 (15 records) standing
+   > until she brings back the source. The diagnosis below is what she is researching
+   > against — keep it accurate, add to it if you find dates, but make no edit to
+   > `Q72786` or any of the three couples.
+
+   Investigated 2026-07-31; the diagnosis is solid, the choice is not mine.
 
    `cycle_policy.md` said that if a loop can only be broken by cutting a gateway, the real
    defect is elsewhere — and it is. Not in the Scipio half. `Q72786` carries **three
@@ -331,10 +365,43 @@ If Emma accepts them as doctrine, the real remaining count is **6 tangles, 52 re
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-2. **⭐ THE ROMAN REPUBLIC IS FLOATING — 103 records, ONE edge reattaches them. NEEDS EMMA.**
+2. **⭐ THE ROMAN REPUBLIC IS FLOATING — 103 records, and the reattachment is RULED.**
+
+   > **RULED BY EMMA 2026-08-05, asked directly.** Her words: *"I am pretty sure we can
+   > just connect it with all of them. I don't understand why this is a decision."*
+   >
+   > **So it is not a decision any more, and it must not be re-raised as one.** Attach
+   > `Q73308` to **all three** of `Q90257` Aeneas, `Q74644` Iulus and `Q74518` Romulus.
+   >
+   > **The one fact that made it look like a decision, recorded so nobody re-litigates
+   > it:** Aeneas is an ancestor of both Iulus and Romulus, but **Iulus and Romulus are
+   > not in each other's ancestry** — they are collateral, not a chain. (Measured
+   > 2026-08-05 from `edges.tsv`: Romulus has 781 ancestors including `Q90257`, Iulus has
+   > 827 including `Q90257`, neither contains the other; all three reach `Q1` Aster.) So
+   > "all of them" cannot be satisfied by one edge to the lowest of the three; it means
+   > `Q73308` carries **three parent edges**. That was Emma's instruction, taken literally,
+   > and it is coherent with CLAUDE.md rule 1 — integrating several ancestries into one
+   > descent is the product here, not a defect.
+   >
+   > **THEREFORE: `Q73308`'s parents are PROTECTED.** Add all three to `PROTECTED` in
+   > `wiki-scripts/propose_tangle_repairs.py` and exempt `Q73308` from
+   > `qa_same_role_parents.tsv` (item 13) — a multi-father record is exactly what that
+   > sweep is built to flag, and this one is deliberate. **Any future session that
+   > "repairs" `Q73308` down to a single father is reverting an Emma ruling.**
+   >
+   > **How to apply it** — remember an edge lives in TWO places: write `P47` on `Q73308`
+   > for each of the three, AND `P20` on each of `Q90257`, `Q74644`, `Q74518` naming
+   > `Q73308`. Propagate to every shadow file claiming any of those four qids
+   > (`shadow_audit.py` must stay at 0). Run `verify_repair.py --snapshot` before and
+   > `verify_repair.py` after; the expected result is **103 records regaining their route
+   > to `Q1` Aster and no new tangle**. If a tangle appears, one of the three edges closes
+   > a loop — report which, do not silently drop it.
+   >
+   > If Emma later prefers a single father, it is one edit: keep `Q74644` Iulus, drop the
+   > other two.
 
    **The cut is DONE (2026-08-02, `cut_edges.py licinius-varus-collision`).** What is left
-   is only the reattachment, and it is a single edge.
+   is only the reattachment.
 
    Found 2026-08-02 while working the 71-record tangle — a third of everything then
    trapped.
@@ -402,8 +469,43 @@ If Emma accepts them as doctrine, the real remaining count is **6 tangles, 52 re
    its "Licinius Varus" label once it is no longer Constantia's son. That is Gaiad material
    and naming, which is Emma's per the `Tros` precedent. **Do not guess it.**
 
-3. **⭐ TWO TANGLES ARE NOT DEFECTS — THE PURANIC REBIRTH OF DAKSHA. A MODELLING
-   DECISION, NOT A REPAIR.**
+3. **⭐ THE PURANIC REBIRTH OF DAKSHA — RULED: SPLIT INTO TWO RECORDS.**
+
+   > **RULED BY EMMA 2026-08-05, asked directly: "Split Daksha into two records."**
+   >
+   > This **overrides the recommendation written in this item below**, which said "do not
+   > split Daksha — the tradition's whole point is that the two are one person," and which
+   > offered a non-descent property as the only option that removed the loops without
+   > denying the doctrine. Emma was shown that option, and shown that splitting
+   > contradicts the tradition, and chose the split anyway. **That is her call as author
+   > and it is now the instruction.** Do not re-open it, do not propose the
+   > alias/non-genealogical-property version again, and do not treat the text below as
+   > still live where it conflicts.
+   >
+   > **What to do.** `Q153390` "DAKSHA (reborn as DAKSHA) Prachetas" carries two fathers:
+   > `Q49634` (first birth) and `Q1955` the Prachetas (rebirth). Split it into:
+   > - **Daksha I** — keeps `Q49634` as father, keeps the children of the first life
+   >   (above all `Aditi`), and keeps the qid `Q153390`.
+   > - **Daksha II** — a NEW qid, father `Q1955` the Prachetas, carrying whatever the
+   >   second life is recorded as doing. Label it so the relationship is legible
+   >   (e.g. "Daksha, son of the Prachetas") — **final naming is Emma's** per the `Tros`
+   >   precedent, so flag the placeholder rather than treating it as settled.
+   >
+   > **Do it in BOTH copies.** This genealogy is imported twice — the `Q153xxx`/`Q19xx`
+   > block and the `Q160xxx` block are the same figures, and only splitting one copy
+   > leaves the other tangle standing. Find the `Q160xxx` counterpart of `Q153390` first
+   > and split it the same way in the same pass.
+   >
+   > **Expected result: tangles 2 and 4 both dissolve — 28 records, ~13% of everything
+   > still trapped.** `compare_tangles` should show both SCCs removed with **0 records
+   > newly inside a tangle**; `compare_depth` should show no amputation, because the split
+   > is additive — every edge that existed still exists, on one of the two records. **If
+   > `compare_depth` shows real loss, the split dropped children on the floor** — that is
+   > a bug in the split, not a judgement call. Snapshot with `verify_repair.py --snapshot`
+   > first, propagate to every shadow file, keep `shadow_audit.py` at 0.
+   >
+   > The dedupe of the two copies is a SEPARATE, still-open task and does not remove
+   > either loop — do the split first, dedupe after, never both in one commit.
 
    Found 2026-08-02. Tangles 3 and 5 — **28 records, 13% of everything still trapped** —
    are the same Puranic genealogy imported twice, and in both copies **every single edge is
@@ -776,7 +878,40 @@ If Emma accepts them as doctrine, the real remaining count is **6 tangles, 52 re
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-16. **Fix the one-sided edges.** `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
+16. **Fix the one-sided edges. THE PHANTOM RULE IS NOW SET.**
+
+   > **RULED BY EMMA 2026-08-05, asked directly: "ADD the missing side, always."**
+   >
+   > This settles the `PHANTOM` class — **1,050 edges, 430 shell records** — and it is a
+   > *rule about placeholder people*, not a one-off: when an edge is declared on only one
+   > side and the other endpoint is an empty shell, **write the mirror claim into the
+   > shell**. Never remove the present side.
+   >
+   > **Why this is safe to run in bulk, unlike everything else in this file:** ADD is
+   > **provably graph-neutral**. `edges.tsv` is built from the UNION of both directions, so
+   > the edge is already in the graph and writing the mirror cannot change it. Expect
+   > `compare_tangles` and `compare_depth` to come back **completely clean** — and if
+   > either moves, the script wrote something other than the mirror of an existing edge.
+   > **That is the gate: any movement at all is a bug, not a finding.**
+   >
+   > It also removes the silent-revert hazard this item exists for: a one-sided edge is
+   > one vacated file away from disappearing.
+   >
+   > **Scope of the ruling: `PHANTOM` only.** `GAP` (219) still needs its four missing
+   > records CREATED and named — that is item 17 and still Emma's. `BOTH-REAL` (2,479) is
+   > still per-record judgement and the do-not-blanket-add warning below still applies to
+   > it in full. Do not let "ADD always" leak out of the phantom class.
+   >
+   > Emma was shown the counter-argument — that some one-sided edges are half-finished
+   > deletions and adding would cement an edge someone meant to remove — and ruled ADD
+   > anyway. Nothing in an empty shell distinguishes the two cases, so **do not try to
+   > second-guess it per record**; that is precisely the analysis paralysis the ruling ends.
+   >
+   > Propagate every write to all shadow files claiming those qids; `shadow_audit.py` must
+   > finish at 0. Commit in batches with the count in the message, not as one 1,050-edge
+   > commit.
+
+   `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
    **97.1%** of edges are declared on both sides; **3,762** are one-sided. (The older
    96.3% / 4,723 figures were inflated — the scan compared raw qids without canonicalising
    through `redirects.tsv`, and 961 were never a defect.)
