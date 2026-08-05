@@ -299,6 +299,55 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
+0. **⭐⭐ THE KOREAN PRINCESS HAS NO PARENTS — the Indian line does not reach the modern
+   world. THIS IS THE TOP ITEM AND IT OUTRANKS EVERY TANGLE BELOW.**
+
+   **READ `wikibase/analysis/narrative_spine.md` FIRST.** It states what this genealogy is
+   for, in Emma's words, and this item is its worked example.
+
+   Emma described the line the Vedic material is supposed to travel:
+
+       Aster → Adam → the Proto-Indo-European and Dravidian ancestors → the Vedic figures
+       → the Mahabharata and Ramayana generations → HEO HWANG-OK, princess of Ayuta, who
+       sails to Korea → Suro of Geumgwan Gaya → the Gaya and Silla kings → the Kim clan
+       → living Koreans today
+
+   **The bottom end is the point of the line** — it is what connects the epic material to
+   **existing modern-day descendants**. `Q51928` Heo Hwang-ok is the single joint that
+   does it.
+
+   **She has no parents. `P47`: absent. `P48`: absent.** Measured 2026-08-05.
+
+   | stage | state |
+   |---|---|
+   | Aster → Adam → Vedic → epic | **built** — Rama, Krishna, Arjuna, Bharata, Ikshvaku, Manu all inside Aster's descent |
+   | **`Q51928` Heo Hwang-ok** | **UNATTACHED — zero parents** |
+   | her → Gaya / Silla / Kim | **built** — 46 recorded descendants |
+   | those 46 → Aster | **zero of them reach it** |
+
+   **Emma flagged on 2026-08-05 that an earlier session glossed over this months ago, and
+   the reason it was glossable is the important part:** the record *exists*, is correctly
+   labelled, is correctly married to `Q51924` Suro, and has a working line of descendants
+   under it. "Is the Korean princess in the dump?" answers **yes**. Only "does the Indian
+   material actually reach her?" answers **no**. Her husband does not rescue it — Suro has
+   2 ancestors and does not reach Aster either.
+
+   **THE REPAIR IS ONE EDGE: give `Q51928` a father in the Ayodhya / Solar Dynasty line.**
+   47 records — her and her 46 descendants — then reach Aster *through the actual story*.
+
+   **NEEDS EMMA for which father**, and that is a narrative/naming call per the `Tros`
+   precedent — do not guess an Ayodhya king. Prepare everything else first: the dump holds
+   `Q2299` / `Q51321` / `Q161228` "AYUTAYUS of Magadha" and `Q29610` "Ayutayu Solar
+   Dynasty" — **which are duplicates of each other and should be deduped before the join
+   is made**, or the join will need redoing — plus the Ikshvaku line at `Q28982`, already
+   inside Aster's descent. Do that dedupe now; it is unblocked.
+
+   Apply with an `add_bridge_edges.py`-style edit: `P47` on `Q51928` **and** `P20` on the
+   father, propagated to every shadow file, `shadow_audit.py` at 0.
+
+   **Report the result as "the Vedic line now reaches living Koreans", not as a delta in a
+   reachability count.** See the spine document for why that distinction is the whole job.
+
 1. **UNMERGE `Q72786` "Marcus Aemilius Lepidus" — the real defect in the Scipio loop.**
 
    > **EMMA HAS TAKEN THIS ONE (2026-08-05, asked directly).** Her words: *"I do the
@@ -365,38 +414,44 @@ with AskUserQuestion instead of parking it here.**
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-2. **⭐ THE ROMAN REPUBLIC IS FLOATING — 103 records, and the reattachment is RULED.**
+2. **`Q73308` NEEDS A FATHER. One man, one edge.**
 
-   > **RULED BY EMMA 2026-08-05, asked directly.** Her words: *"I am pretty sure we can
-   > just connect it with all of them. I don't understand why this is a decision."*
+   > **THE 2026-08-05 RULING ON THIS ITEM WAS OBTAINED ON A BAD QUESTION AND IS
+   > WITHDRAWN.** Emma was asked *"where does the Roman Republic attach?"* and answered
+   > *"I am pretty sure we can just connect it with all of them. I don't understand why
+   > this is a decision."* On reading the write-up she named the error:
    >
-   > **So it is not a decision any more, and it must not be re-raised as one.** Attach
-   > `Q73308` to **all three** of `Q90257` Aeneas, `Q74644` Iulus and `Q74518` Romulus.
+   > > *"the problem with Rome here is that you were talking about something based off of
+   > > links when it was really based off of parents of an individual … the Roman Republic
+   > > isn't a person."*
    >
-   > **The one fact that made it look like a decision, recorded so nobody re-litigates
-   > it:** Aeneas is an ancestor of both Iulus and Romulus, but **Iulus and Romulus are
-   > not in each other's ancestry** — they are collateral, not a chain. (Measured
-   > 2026-08-05 from `edges.tsv`: Romulus has 781 ancestors including `Q90257`, Iulus has
-   > 827 including `Q90257`, neither contains the other; all three reach `Q1` Aster.) So
-   > "all of them" cannot be satisfied by one edge to the lowest of the three; it means
-   > `Q73308` carries **three parent edges**. That was Emma's instruction, taken literally,
-   > and it is coherent with CLAUDE.md rule 1 — integrating several ancestries into one
-   > descent is the product here, not a defect.
+   > She is right. This is not a block of 103 records choosing an attachment point. It is
+   > **`Q73308`, one man, who needs one father** — the 103 follow because they are his
+   > descendants, which is a consequence, not the question. Framed as links, "all of them"
+   > is a reasonable answer; framed as parentage, it would give one man three fathers,
+   > which is the exact defect this file spends most of its length repairing.
    >
-   > **THEREFORE: `Q73308`'s parents are PROTECTED.** Add all three to `PROTECTED` in
-   > `wiki-scripts/propose_tangle_repairs.py` and exempt `Q73308` from
-   > `qa_same_role_parents.tsv` (item 13) — a multi-father record is exactly what that
-   > sweep is built to flag, and this one is deliberate. **Any future session that
-   > "repairs" `Q73308` down to a single father is reverting an Emma ruling.**
+   > **So: do NOT write three parent edges, and do NOT protect them.** Nothing was applied
+   > — the withdrawn instruction never left this file.
    >
-   > **How to apply it** — remember an edge lives in TWO places: write `P47` on `Q73308`
-   > for each of the three, AND `P20` on each of `Q90257`, `Q74644`, `Q74518` naming
-   > `Q73308`. Propagate to every shadow file claiming any of those four qids
-   > (`shadow_audit.py` must stay at 0). Run `verify_repair.py --snapshot` before and
-   > `verify_repair.py` after; the expected result is **103 records regaining their route
-   > to `Q1` Aster and no new tangle**. If a tangle appears, one of the three edges closes
-   > a loop — report which, do not silently drop it.
+   > **What is actually true, measured 2026-08-05 from `edges.tsv`:** `Q90257` Aeneas is an
+   > ancestor of both `Q74644` Iulus (827 ancestors) and `Q74518` Romulus (781), but Iulus
+   > and Romulus are **collateral, not a chain** — neither is in the other's ancestry. All
+   > three reach `Q1` Aster. So a single father-edge to Iulus puts `Q73308` under Aeneas
+   > too; it cannot also put him under Romulus.
    >
+   > **The real question, and it is small: who was `Q73308`'s father?** Not where a
+   > republic attaches. Ask it that way when it is asked again.
+   >
+   > **How to apply it once answered** — remember an edge lives in TWO places: write `P47`
+   > on `Q73308` naming the father, AND `P20` on the father naming `Q73308`. Propagate to
+   > every shadow file claiming either qid (`shadow_audit.py` must stay at 0). Run
+   > `verify_repair.py --snapshot` before and `verify_repair.py` after; expected result is
+   > **103 records regaining their route to `Q1` Aster and no new tangle**. If a tangle
+   > appears the chosen father is downstream of `Q73308` — report it, do not silently drop
+   > the edge.
+
+   <!-- superseded text kept below only so the measurements are not lost -->
    > If Emma later prefers a single father, it is one edit: keep `Q74644` Iulus, drop the
    > other two.
 
@@ -473,14 +528,27 @@ with AskUserQuestion instead of parking it here.**
 
    > **RULED BY EMMA 2026-08-05, asked directly: "Split Daksha into two records."**
    >
-   > This **overrides the recommendation written in this item below**, which said "do not
-   > split Daksha — the tradition's whole point is that the two are one person," and which
-   > offered a non-descent property as the only option that removed the loops without
-   > denying the doctrine. Emma was shown that option, and shown that splitting
-   > contradicts the tradition, and chose the split anyway. **That is her call as author
-   > and it is now the instruction.** Do not re-open it, do not propose the
-   > alias/non-genealogical-property version again, and do not treat the text below as
-   > still live where it conflicts.
+   > **Her reason, which matters more than the ruling, because it decides every future
+   > case of this shape:**
+   >
+   > > *"this mythology does not have the sort of cyclical view of history and extremely
+   > > long-term time abyss stuff on the same characters. It definitely has time abyss
+   > > stuff, but the time abyss stuff in the Gaiad is its own stuff. It's not the Hindu
+   > > stuff. We have what we consider to be relatively simple genealogy."*
+   >
+   > **So this is not "Emma overruled the tradition."** The Puranic cyclic cosmology was
+   > never this project's cosmology. The Gaiad's descent is **linear** — one person, one
+   > birth, one set of parents — and a record whose parentage loops back through its own
+   > descendants is importing a *different* cosmology along with the names. The names are
+   > wanted; the cycle is not. That is why the ring is a defect here even though every
+   > individual edge is canonical in the Puranas.
+   >
+   > **Generalise it: any rebirth-of-the-same-character loop gets split.** Do not treat a
+   > cyclic-cosmology closure as doctrine in this dump, do not re-propose the
+   > alias/non-genealogical-property version, and do not cite CLAUDE.md rule 1
+   > ("surprising is not evidence of broken") to defend one — rule 1 protects deliberate
+   > *cross-tradition joins*, not imported cyclic time. The text below this ruling argued
+   > the other way and is dead.
    >
    > **What to do.** `Q153390` "DAKSHA (reborn as DAKSHA) Prachetas" carries two fathers:
    > `Q49634` (first birth) and `Q1955` the Prachetas (rebirth). Split it into:

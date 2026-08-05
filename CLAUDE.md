@@ -14,7 +14,34 @@ is the product.
 convergence points are "narratively important for the Gaiad's deflationary polytheism —
 showing continuity where traditions are usually treated as separate."
 
-Three rules follow, and they are not optional:
+**READ `wikibase/analysis/narrative_spine.md` BEFORE REPORTING ANYTHING ABOUT A LINE.**
+Added 2026-08-05 after Emma said, of a report full of reachability counts:
+
+> *"links to Aster aren't that important if they don't go through the proper narrative
+> history. So you kinda need to explain the narrative of each line."*
+
+**"Reaches `Q1` Aster: True" is not a result.** A record can reach Aster through
+marriages, a mis-imported collision, or an unrelated tradition, and the number looks
+identical to a correct descent. The question is always *by what story* — name the people
+the line passes through and why each link belongs, in a sentence. If you cannot, the
+count is worse than silence, because it reads as confirmation. A **severed** line is one
+honest edge from correct; a line attached through the **wrong story** is already wrong
+while measuring fine.
+
+Two consequences, both learned the hard way on 2026-08-05:
+
+- **The Gaiad's time is LINEAR — one person, one birth, one set of parents.** It has deep
+  time, but its own, not an imported cosmology of cycles and rebirths of the same
+  character. A Puranic-style rebirth ring is *not* doctrine here: take the names, split
+  the cycle. **Do not cite rule 1 below to defend a cycle** — it protects deliberate
+  cross-tradition joins, not imported cyclic time.
+- **A line attaches through a PERSON'S PARENTS, never as a block.** "Where does the Roman
+  Republic attach" is a category error; the Republic is not a person. Ask who one
+  individual's father was, and the hundred records below follow as a consequence. Framing
+  it as blocks-and-links yields answers that are sane about links and wrong about
+  parentage.
+
+Three further rules follow, and they are not optional:
 
 1. **Everything surprising that is not an error was imported deliberately by Emma.**
    Confirmed: Muhammad's ancestry routed through the Roman priest-kings of Emesa; the
