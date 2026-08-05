@@ -46,28 +46,45 @@ Emma, 2026-08-05: *"I think you wanted to cut off multiple lineages when the mul
 lineages was the point."* And: *"the entire thing is supposed to kind of behave
 cross cutting with its genealogy."*
 
-**A record carrying several parentages is not automatically broken.** Cross-cutting
-descent — one person inheriting from several traditions at once — is the design, and it
-is the reason this genealogy exists. The genuine error is a **cycle**: a record that is
-its own ancestor. Multiplicity is not a cycle.
+**BUT "cross-cutting" does NOT mean piling fathers onto one record.** Emma refined this
+the same day and the refinement is the operative part:
+
+> *"Two fathers is generally an error but it's complicated. Adoptive vs biological is
+> a-ok. I treat Greco-Roman ones and Jesus as having the divine father as a sort of
+> blessing and ignore them literally."*
+
+So there are **exactly three cases** and they are not the same:
+
+1. **TWO BIOLOGICAL FATHERS — generally an ERROR.** This is the ordinary defect and the
+   repair order applies. Do not defend it as cross-cutting.
+2. **ADOPTIVE + BIOLOGICAL — legitimate, keep both.** A man born into one house and
+   adopted into another really does have two fathers, and Roman prosopography is full of
+   it. **This is the case `Q72786` turns out to be** — Mamercus Aemilius Lepidus
+   *Livianus* was born a Livius Drusus and adopted into the Aemilii Lepidi; the cognomen
+   records the adoption. See `wikibase/analysis/lepidus_resolved.md`.
+3. **DIVINE FATHERS — a blessing, not a parent. Ignore them literally.** Zeus, Ares,
+   Apollo and the like fathering Greco-Roman heroes, and the same shape in the Jesus
+   material, are **not genealogical edges** in this project. Real descent runs through
+   the human father. **Consequence for cycle repair: if a loop passes through a
+   divine-father edge, that edge is the safe one to cut** — it is decorative, so cutting
+   it severs no real line.
+
+**How the cross-cutting actually happens, then:** through the **father-line and the
+mother-line converging from different traditions**, not through duplicate fathers. Japan
+is the worked example — Emma, 2026-08-05: *"Japan ought to have two ancestries"* —
+Chinese through Jimmu and the Kings of Wu on the paternal side, Korean-and-Indian through
+Kanmu's **mother** Takano no Niigasa. Two traditions, two parents, one person.
 
 Consequences, all of them binding:
 
-- **`qa_same_role_parents.tsv` is not a defect list.** Its 1,712 "same-role parent
-  collisions" are a *candidate* list, and an unknown share of them are deliberate
-  cross-cuts. Do not work it as a queue of things to fix.
-- **Before removing any parent edge, ask whether it is a deliberate cross-cut**, and say
-  so in the justification. "This record has two fathers" is not a reason on its own.
-- **Prefer the repair that keeps both lines.** This is why the repair order already puts
-  UNMERGE first — but extend the instinct: sometimes the right answer is to keep *both
-  parentages on one record*, which is not even a repair.
-- **Japan is the worked example.** Emma, 2026-08-05: *"Japan ought to have two
-  ancestries"* — Chinese through Jimmu and the Kings of Wu, Korean/Indian through Kanmu's
-  mother. Both, on purpose, at once.
-- **This partly rehabilitates the withdrawn Rome answer.** *"Connect it with all of
-  them"* was cross-cutting thinking and was sound as such. What was wrong was only my
-  framing — a republic is not a person, and the question is still whose parents these
-  are. But the answer to that question may legitimately be several lines.
+- **`qa_same_role_parents.tsv` is still not a straight defect list**, but neither is it
+  mostly fine: expect most two-father records to be real errors, with the adoptive and
+  divine cases as the standing exceptions. Classify before repairing.
+- **Before removing a parent edge, say which of the three cases it is.** "This record has
+  two fathers" is not a reason on its own, and neither is "multiplicity is the point".
+- **The withdrawn Rome answer stays withdrawn.** *"Connect it with all of them"* was
+  cross-cutting thinking, but three fathers on `Q73308` is case 1, not case 2 — the
+  republic attaches through one man's parentage.
 
 **RESEARCH IS OURS. NAMING AND NARRATIVE INTENT ARE EMMA'S.** Added 2026-08-05 after she
 said, of a queue where the top four items were all filed NEEDS EMMA:

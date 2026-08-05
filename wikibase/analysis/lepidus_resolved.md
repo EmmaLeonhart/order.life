@@ -54,6 +54,39 @@ nothing:** split, and couple A keeps their son under his own name.
 **No cross-tradition join is touched and the Scipio half is not touched.** This is the
 defect `cycle_policy.md` predicted would be elsewhere in the loop.
 
+## THE ADOPTION — added 2026-08-05, and it changes the repair
+
+Emma, same day: *"Two fathers is generally an error but it's complicated. **Adoptive vs
+biological is a-ok.**"* That is exactly this record, and Wikidata records it outright.
+
+**`Q721477` Mamercus Aemilius Lepidus Livianus carries TWO fathers on Wikidata:**
+
+| | |
+|---|---|
+| `Q703346` Marcus Livius Drusus, *"opponent of Gaius Gracchus"* | **biological** |
+| `Q3622705` Marcus Aemilius Lepidus, cos. 126 BC | **adoptive** |
+| `Q100804879` Cornelia | mother |
+
+His brother `Q433463` M. Livius Drusus the tribune carries only `Q703346`. **That
+asymmetry is the adoption**: one brother stayed a Livius Drusus, the other was adopted
+into the Aemilii Lepidi and took the cognomen *Livianus* to record where he came from.
+
+**So the dump's `Q72786` is not wrong to have an Aemilian father — it is MISSING the
+Livian one.** The repair is therefore *not* simply "unmerge into three". It is:
+
+1. **`Q72786` = Mamercus.** Keep `Q73011` (= wd `Q3622705`, the **adoptive** father) and
+   `Q72801` Cornelia (mother). **Add the biological father**, `Q703346` M. Livius Drusus,
+   if a matching record exists in the dump — there are nine "Livius Drusus" records
+   (`Q72798`, `Q72951`, `Q73119`, `Q73431`, `Q78156`, `Q78315`, `Q139601`, `Q144272`,
+   `Q151683`) and **which of them is wd `Q703346` must be checked before wiring anything**.
+2. **Unmerge couples B and C out** — they belong to other men, as before.
+3. **Remove the `Q72786` → Quintus edge**, which is the false one; Quintus's father is
+   `Q144279`, already recorded. **This is what opens the loop**, and it is untouched by
+   the adoption finding.
+
+**Mark the two surviving fathers as adoptive/biological** so no later sweep reads them as
+a two-father defect and "repairs" one away.
+
 ## The fourth Lepidus falls out of the same lookup
 
 The `Q72615`/`Q72693` merge of 2026-07-31 left a "Quintus Aemilius Lepidus" with **two

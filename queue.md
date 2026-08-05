@@ -1082,10 +1082,44 @@ with AskUserQuestion instead of parking it here.**
    that does not exist. It still repairs 0 of 5 — every remaining pair genuinely lacks
    direction evidence, which is the correct answer, not a failure.
 
-13. **Work `qa_same_role_parents.tsv` — 1,712 same-role parent collisions, graph-wide.**
-   Generated 2026-08-01 by `wiki-scripts/same_role_parents.py`. One child has one father
-   and one mother, so **every row is a defect**: either the pair is one person recorded
-   twice, or one of the two edges is false.
+13. **CLASSIFY `qa_same_role_parents.tsv` before repairing any of it. "Every row is a
+   defect" was WRONG.**
+
+   > **Emma, 2026-08-05: _"Two fathers is generally an error but it's complicated.
+   > Adoptive vs biological is a-ok. I treat Greco-Roman ones and Jesus as having the
+   > divine father as a sort of blessing and ignore them literally."_**
+   >
+   > **Three cases, and they need opposite treatment** — see `CLAUDE.md`:
+   > 1. **two biological fathers** → error, repair normally;
+   > 2. **adoptive + biological** → **legitimate, keep both**, and mark which is which;
+   > 3. **divine + human father** → the divine one is a blessing, not an edge; safe to cut,
+   >    and if a cycle runs through one, that is the edge to cut.
+   >
+   > **Measured 2026-08-05 from `edges.tsv` + the `sex` column** (which stores QIDs:
+   > `Q153718` male, `Q153719` female — *not* letters; a first pass reading it as `M`/`F`
+   > returned a spurious zero):
+   >
+   > | | |
+   > |---|---:|
+   > | records with **two fathers** | **1,002** |
+   > | of those, case 3 (a named god among the fathers) | **4** |
+   > | …and 3 of those 4 are `Poseidon + Poseidon` | a **dedupe**, not a blessing |
+   > | genuine case 3 | **1** — `Q74991` Abas (Ixion + Poseidon) |
+   > | **left to classify as case 1 vs case 2** | **998** |
+   >
+   > **So the divine-father exception is almost absent from this dump** — it is a rule for
+   > reading the myth, not a bulk repair. And **1,002 ≠ the 1,712 headline**, which counts
+   > something broader; use the measured figure.
+   >
+   > **Do not open a sweep over the 998.** Classify a record only when it is already in
+   > front of you for another reason, and record which case it is. The worked example is
+   > `Q72786` — case 2, adoption, `wikibase/analysis/lepidus_resolved.md`.
+   >
+   > **Found in passing: `Q75039` and `Q90291` are both labelled "Poseidon"** — a dedupe,
+   > and it is what produces three of the four case-3 rows. Also **37 records carry
+   > `sex = Q1` (Aster)**, which is not a sex; small separate defect.
+
+   Generated 2026-08-01 by `wiki-scripts/same_role_parents.py`.
 
    **This is the class the tangle-scoped detector could not see.** `propose_tangle_repairs.py`
    examines the 283 records inside tangles and found **6**. There are **1,712 pairs over
