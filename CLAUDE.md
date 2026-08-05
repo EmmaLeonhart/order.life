@@ -41,6 +41,34 @@ Two consequences, both learned the hard way on 2026-08-05:
   it as blocks-and-links yields answers that are sane about links and wrong about
   parentage.
 
+**MULTIPLE LINEAGES ARE THE POINT. A CYCLE IS THE DEFECT — MULTIPLICITY IS NOT.**
+Emma, 2026-08-05: *"I think you wanted to cut off multiple lineages when the multiple
+lineages was the point."* And: *"the entire thing is supposed to kind of behave
+cross cutting with its genealogy."*
+
+**A record carrying several parentages is not automatically broken.** Cross-cutting
+descent — one person inheriting from several traditions at once — is the design, and it
+is the reason this genealogy exists. The genuine error is a **cycle**: a record that is
+its own ancestor. Multiplicity is not a cycle.
+
+Consequences, all of them binding:
+
+- **`qa_same_role_parents.tsv` is not a defect list.** Its 1,712 "same-role parent
+  collisions" are a *candidate* list, and an unknown share of them are deliberate
+  cross-cuts. Do not work it as a queue of things to fix.
+- **Before removing any parent edge, ask whether it is a deliberate cross-cut**, and say
+  so in the justification. "This record has two fathers" is not a reason on its own.
+- **Prefer the repair that keeps both lines.** This is why the repair order already puts
+  UNMERGE first — but extend the instinct: sometimes the right answer is to keep *both
+  parentages on one record*, which is not even a repair.
+- **Japan is the worked example.** Emma, 2026-08-05: *"Japan ought to have two
+  ancestries"* — Chinese through Jimmu and the Kings of Wu, Korean/Indian through Kanmu's
+  mother. Both, on purpose, at once.
+- **This partly rehabilitates the withdrawn Rome answer.** *"Connect it with all of
+  them"* was cross-cutting thinking and was sound as such. What was wrong was only my
+  framing — a republic is not a person, and the question is still whose parents these
+  are. But the answer to that question may legitimately be several lines.
+
 **RESEARCH IS OURS. NAMING AND NARRATIVE INTENT ARE EMMA'S.** Added 2026-08-05 after she
 said, of a queue where the top four items were all filed NEEDS EMMA:
 

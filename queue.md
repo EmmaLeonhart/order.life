@@ -404,7 +404,50 @@ with AskUserQuestion instead of parking it here.**
      contain `Q51928`. What exists is *intent* — the brief, and the chatlog phrase "Heo
      Hwang-ok as the one Asian bridge".
 
-   **DIRECTION PROBLEM — ASK EMMA, this one really is hers.** Traditional Jimmu is 660 BC;
+   **RULED BY EMMA 2026-08-05 — THE KOREAN LINES MIX IN KOREA, BEFORE KAMMU.** Her words:
+   *"Yes that's exactly it! I wanted it. My plan was that the Korean lines mixed at some
+   point earlier before Kammu's descent."* And: *"Japan ought to have two ancestries."*
+   She chose **both routes, cross-cutting** when asked.
+
+   **This collapses the whole thing to a very small build, because the mixing happens on
+   the Korean side and Japan then inherits everything through one existing channel.**
+
+   ```
+   Heo Hwang-ok (48 CE) → Gaya kings ────┐
+                                          ├─→ Prince Junda → [gap A] → Yamato no
+   Muryeong of Baekje ───────────────────┘      Ototsugu → Takano no Niigasa → KAMMU
+   ```
+
+   **B — THE MIX ITSELF. One woman, two edges.** `Q9935` Prince Junda has a father
+   (`Q10437` Muryeong) and **no mother**. Give him a Gaya mother descended from Heo
+   Hwang-ok and Kammu inherits both Korean houses at once.
+
+   **The chronology picks the record for us.** Junda d. 513; his mother is born ~460.
+   Among Heo Hwang-ok's Gaya-king descendants, **`Q15720` Jilji of Geumgwan Gaya (d. 492)**
+   is exactly that generation. So: create **a daughter of Jilji**, `P20` on Jilji naming
+   her, `P47` on her naming Jilji, `P20` on her naming Junda, `P48` on Junda naming her.
+   **Her name is Emma's** per the `Tros` precedent — draft and bring it, do not invent
+   silently. (Other Gaya kings and their dates are listed in
+   `wikibase/analysis/deleted_work_recovered.md`; Gyeomji `Q15253` reads b. 401 d. 521,
+   a 120-year life, so prefer Jilji.)
+
+   **A — THE ATTESTED GAP, and it must be closed or B delivers nothing.** `Q7687` Yamato
+   no Ototsugu has **no parents** and `Q9935` Junda has **no children**. Historically
+   Takano no Niigasa's Yamato no Fuhito clan descends from Prince Junda — *Shoku Nihongi*,
+   the descent Akihito cited in 2001. **This is research, not invention: go find the
+   intervening generations.** Until it is closed, Kammu does not inherit from either
+   Korean house.
+
+   **DEFECT FOUND IN PASSING — do not build on it without fixing it.** `Q9935` Junda is
+   recorded **b. +0450**, twelve years *before* his father `Q10437` Muryeong (b. +0462).
+   Junda d. 513 and Muryeong reigned 501–523, so Junda's birth should be ~480. Fix the
+   date; do not let a parent-younger-than-child pair sit in a line we are about to build
+   on.
+
+   **Superseded below — kept only because it records the chronology that made the
+   direction obvious.**
+
+   **DIRECTION PROBLEM — RESOLVED ABOVE; this was the open question.** Traditional Jimmu is 660 BC;
    Heo Hwang-ok is b. 33, voyage ~48 CE. **He is ~700 years older than she is**, so
    "Jimmu's ancestry goes through her" would be the exact inversion class cut on
    2026-08-02. Her own brief says the buildable thing instead: the bridge reaches Japan
@@ -418,6 +461,39 @@ with AskUserQuestion instead of parking it here.**
 
    **Report the result as "the Vedic line now reaches living Koreans", not as a delta in a
    reachability count.** See the spine document for why that distinction is the whole job.
+
+0c. **REPAIR THE SEVERED JAPANESE IMPERIAL LINE — RULED BY EMMA 2026-08-05: create Ōjin
+   and reconnect.** She chose this over deferring it.
+
+   **Japan is currently TWO DISCONNECTED BLOCKS.** `Q6432` Jimmu has **403 ancestors and
+   reaches `Q1` Aster** through the Wu-Taibo descent (→ Jī Yángchāng King of Yayoi → the
+   Kings of Wu → Zhou → the Yellow Emperor → Adam). `Q7508` Kanmu has **23 ancestors and
+   reaches nothing.** They do not connect.
+
+   **The break is `Q7038` Ichinobe-no Oshiwa**, a 5th-century imperial prince recorded
+   with **no parents**. Above him should run Richū → Nintoku → **Ōjin** → … → Jimmu.
+   **Ōjin is absent from the dump entirely** — no record under any spelling
+   (ōjin / ojin / homuda / homutawake all return nothing).
+
+   Kanmu's line dead-ends at five rootless records; these are the full set, and two of
+   them are the two jobs on this page:
+
+   | qid | label | what it needs |
+   |---|---|---|
+   | `Q7038` | Ichinobe-no Oshiwa | Richū → Nintoku → **Ōjin** → … → Jimmu — **this item** |
+   | `Q7687` | Yamato no Ototsugu | the Junda line — item 0, gap A |
+   | `Q7119` | Furihime | unexamined |
+   | `Q7349` | Otohiko Owari | unexamined |
+   | `Q7915` | Haji no Hodo | unexamined |
+
+   **This is standard Kojiki / Nihon Shoki succession, not invention** — research, ours to
+   do. Create the missing emperors, wire Ichinobe-no Oshiwa up through them to Jimmu, and
+   **Kanmu's entire block inherits the 403-ancestor Chinese descent in one repair.**
+   Combined with item 0's Korean mix, Japan then holds both ancestries at once, which is
+   the point (`CLAUDE.md`, multiple lineages).
+
+   Verify with `verify_repair.py` around it; expect **no new tangle** and a large depth
+   *gain*, never a loss. Propagate to shadow files; `shadow_audit.py` at 0.
 
 0b. **BC-DATE SIGN — CHECKED 2026-08-05. The inversion class is SOUND; nothing to
    revert. A narrower residual is real and is the remaining work.**
