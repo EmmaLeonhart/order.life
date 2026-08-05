@@ -385,8 +385,33 @@ with AskUserQuestion instead of parking it here.**
 
    **`planning/gaiad-130-220/heo-hwang-ok.md` is the brief and had never been read.** She
    is "the one named Asian-to-Asian bridge" — a single node linking Indic, Korean **and
-   Japanese** material, with the still-living Gimhae Kim and Heo lineages named. The
-   Japanese leg is a second consequence of this one edge and is not in the dump either.
+   Japanese** material, with the still-living Gimhae Kim and Heo lineages named.
+
+   **THE JAPANESE LEG — searched 2026-08-05, see `wikibase/analysis/deleted_work_recovered.md`.**
+   Emma remembered doing "a lot of work on Jimmu ancestry" that "might be gone". It is not
+   gone and it is not the India bridge:
+
+   - **The Japanese import survived.** `57711c637` (2025-09-06, message `q`) deleted 319
+     files and 1.86M lines, all recoverable — including a 24,188-line Japanese GEDCOM→QID
+     mapping for a **24,158-person** import at Q16547+. That block is live in the dump.
+   - **`Q6432` Jimmu has 403 ancestors and reaches `Q1` Aster — through CHINA.** The route
+     is Jimmu → Ugayafukiaezu → Hoori → the *-no-Mikoto* chain → **Jī Yángchāng, King of
+     Yayoi** → the Kings of Wu → Zhou → the Yellow Emperor → Adam → Aster. That is the
+     **Wu-Taibo descent**, it is a real cross-tradition join, and it is intact.
+   - **The India link was never built.** Checked three ways: the Japanese mapping has zero
+     matches for heo/hwang/ayodhya/india/gaya/suro/silla/korea; `git grep` over the whole
+     deleted tree finds only unrelated Korean surnames; and Jimmu's ancestor set does not
+     contain `Q51928`. What exists is *intent* — the brief, and the chatlog phrase "Heo
+     Hwang-ok as the one Asian bridge".
+
+   **DIRECTION PROBLEM — ASK EMMA, this one really is hers.** Traditional Jimmu is 660 BC;
+   Heo Hwang-ok is b. 33, voyage ~48 CE. **He is ~700 years older than she is**, so
+   "Jimmu's ancestry goes through her" would be the exact inversion class cut on
+   2026-08-02. Her own brief says the buildable thing instead: the bridge reaches Japan
+   *"through **later** descendants"* — i.e. Heo Hwang-ok → Gaya/Silla → the Kim clan → a
+   Korean-to-Japanese marriage some centuries on, joining Japan to India **below** Jimmu
+   and leaving Wu-Taibo untouched. Japan then carries two ancestries, Chinese and Indian,
+   which is what this project is for. **Do not build either version until she picks.**
 
    Apply with an `add_bridge_edges.py`-style edit: `P47` on `Q51928` **and** `P20` on the
    father, propagated to every shadow file, `shadow_audit.py` at 0.
