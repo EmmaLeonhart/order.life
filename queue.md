@@ -392,34 +392,47 @@ with AskUserQuestion instead of parking it here.**
    **Report the result as "the Vedic line now reaches living Koreans", not as a delta in a
    reachability count.** See the spine document for why that distinction is the whole job.
 
-0b. **BC DATES ARE STORED AS POSITIVE YEARS, INCONSISTENTLY. Check what was built on
-   them.** Found 2026-08-05 while dating the Lepidus records.
+0b. **BC-DATE SIGN — CHECKED 2026-08-05. The inversion class is SOUND; nothing to
+   revert. A narrower residual is real and is the remaining work.**
 
-   **Only 133 records in the entire dump carry a negative (BC) date.** Nearly everything
-   pre-Christian is stored positive:
+   **I raised this as a novel hazard and it was already known.** `cycle_chronology.py`
+   documents it in its own docstring — *"BC dates in this dump are stored with a '+' sign
+   … `death < birth` is a reliable detector"* — and line 42 acts on it. The one script
+   that reasons chronologically already handles the sign. Overstated on my part.
 
-   | record | truth | stored |
-   |---|---|---|
-   | `Q74255` Numa Pompilius (716–672 BC) | BC | `b=+0753`, `d=+0671` |
-   | `Q2175` Agnimitra (d. 141 BC) | BC | `d=+0141` |
-   | `Q2074` Devabhuti (d. 73 BC) | BC | `d=+0073` |
-   | `Q72957` P. Cornelius Scipio Nasica | BC | `b=-0182`, `d=-0132` — **correct** |
+   **The inversion class does not depend on these fields at all.** Read the cut set in
+   `cut_edges.py`; every one of the five rests on something else:
 
-   **Inconsistent is worse than uniformly wrong** — no script can assume either
-   convention, and a numeric comparison between two such records is meaningless.
+   | cut | what the argument actually used |
+   |---|---|
+   | Martel → Pepin of Landen | Wikidata's nine-child list, plus AD-only dates |
+   | Olaf → Gandalf | the patronymic *Alfgeirsson*, plus AD-only dates |
+   | Morfudd → Dyddgu | Welsh patronymics — the pedigree *is* the names |
+   | Cotys → Rhescuporis | **Wikidata descriptions** ("Sapean King of Thrace, 48–41 BC" vs "1st century AD Bosporan king") |
+   | Livius Drusus unmerge | **two Wikidata ids on one record** — structural, not dated |
 
-   **What to do, in this order.** (a) Do NOT revert anything on this basis. (b) Go through
-   every repair justified as *"chronologically impossible"* — above all the **inversion
-   class**, 2026-08-02, five tangles and 21 records — and check *which* arguments actually
-   compared these date fields. Those that turned on patronymics, dynasty membership or an
-   explicit BC/AD in the label stand untouched; the devlog entry suggests most did. Only
-   re-derive the ones that read the fields numerically. (c) Then decide whether to
-   normalise the dump or teach the scripts both conventions — normalising is the honest
-   fix but touches 29,217 dated records, so propose before applying.
+   **So: nothing to revert, and the earlier worry is closed.** It also cross-confirms the
+   Lepidus finding independently — the Drusus unmerge preserves the tribune's line
+   "through his mother `Q72801` Cornelia", and Wikidata gives that Cornelia exactly three
+   children: the tribune, Livia, and **Mamercus** = dump `Q72786`.
 
-   The queue preamble already warns that any figure quoted from the TSVs before
-   2026-08-01 may be off, for an unrelated CSV-quoting reason. **This is a second,
-   independent measurement hazard in the same files.**
+   **THE RESIDUAL, and it is the part worth doing.** The `death < birth` detector needs
+   **both** dates. Measured 2026-08-05:
+
+   | | |
+   |---|---:|
+   | explicit negative (unambiguous BC) | 133 |
+   | both dates positive | 16,523 |
+   | …of those, caught by `death < birth` | **1,619** |
+   | **only ONE positive date — detector is blind** | **11,833** |
+
+   A BC record with only a birth *or* only a death reads as AD and nothing catches it.
+   `Q2175` Agnimitra (d. 141 BC, stored `+0141`, no birth) is exactly this case.
+
+   **It is tractable: 11,223 of the 11,833 carry a Wikidata id**, so their real dates are
+   fetchable authoritatively; only 610 need another source. **Propose before applying** —
+   11k lookups and 11k record edits is not a two-line change, it needs batching, a cache,
+   and shadow propagation. Do NOT bulk-flip signs by heuristic.
 
 1. **UNMERGE `Q72786` "Marcus Aemilius Lepidus" — the real defect in the Scipio loop.**
 

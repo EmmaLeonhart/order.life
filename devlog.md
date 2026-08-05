@@ -2,6 +2,37 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-08-05 (work-loop tick, later)
+
+- **Item 0b checked. The inversion class is sound and nothing is reverted.** I had raised
+  the positive-stored-BC-dates problem as a threat to the 2026-08-02 cut of five tangles
+  and 21 records. Reading the cut set settles it: all five arguments rest on Wikidata
+  descriptions, Wikidata child lists, two-Wikidata-ids-on-one-record, or Welsh
+  patronymics. **None reads the dump's numeric date fields.**
+
+- **And the hazard was already known.** `cycle_chronology.py` documents it in its own
+  docstring — *"BC dates in this dump are stored with a '+' sign … `death < birth` is a
+  reliable detector"* — and acts on it at line 42. The only script that reasons
+  chronologically already handles the sign. I reported it as a new discovery; it was not.
+
+- **The residual is real and is narrower than what I claimed.** The detector needs *both*
+  dates. Measured: 133 records carry an explicit negative date; 16,523 have both dates
+  positive, of which **1,619** are caught by `death < birth`; and **11,833 carry only one
+  positive date, where a BC record reads as AD and nothing catches it.** `Q2175` Agnimitra
+  (d. 141 BC, stored `+0141`, no birth) is the shape. **11,223 of the 11,833 carry a
+  Wikidata id**, so the fix is a bulk authoritative refetch — queued as propose-first, not
+  applied, because 11k lookups plus 11k edits with shadow propagation is not a quick edit
+  and a heuristic sign-flip would be worse than the bug.
+
+- **An unplanned cross-check landed in favour of the morning's Lepidus result.** The
+  inversion class's Drusus unmerge preserves the tribune's ancestry "through his mother
+  `Q72801` Cornelia". Wikidata gives that Cornelia exactly three children: the tribune
+  `Q433463`, Livia, and `Q721477` **Mamercus Aemilius Lepidus Livianus**. The third is
+  dump `Q72786`. Two independent routes, same answer.
+
+- Nothing in `wikibase/items/` was touched this tick. Item 0b rewritten from "check this"
+  to what was found; the queue's top item is unchanged.
+
 ## 2026-08-05
 
 - **Four rulings obtained from Emma in one round. Nothing was applied to the dump yet —
