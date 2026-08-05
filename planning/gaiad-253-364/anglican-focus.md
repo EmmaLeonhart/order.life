@@ -21,8 +21,8 @@ live document. The slate below stays parked as future notes.
 
 Everything below is **session scaffolding — proposals, not decisions**.
 
-Constraint check: chapter *generation* stays gated until Leo (2026-08-12) per
-CLAUDE.md. This file is planning only.
+Constraint check: the Leo gate that once covered this **was lifted by Emma on
+2026-08-05** and chapter generation is open. This file is still planning only.
 
 ## Fit with existing editorial criteria
 

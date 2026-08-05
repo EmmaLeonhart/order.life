@@ -154,7 +154,8 @@ Southeast Asian. **There is no existing Ayodhya king at her date to be her fathe
 exactly as Emma predicted. The task is to **construct the short bridging line of minor
 Ayodhya-associated nobles** from the end of the attested Solar line down to her.
 
-This is genealogy construction, not chapter generation, so **the Leo gate does not apply**.
+This is genealogy construction, not chapter generation — and **the Leo gate was lifted by
+Emma on 2026-08-05**, so nothing gates it from either direction.
 Bring Emma names to approve, not the question of whether to build it.
 
 **One edge. `Q51928` needs a father in the Ayodhya / Solar Dynasty line**, and the entire

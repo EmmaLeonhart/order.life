@@ -5,8 +5,9 @@
 the "unstable bracket sketch" in `chapter-allocation.md` into 110 concrete
 human-scale slots (253–362) plus the two cosmic-finale chapters (363–364).
 
-**Generation is still gated on Leo (2026-08-12).** This file is planning, not
-drafting. Its job is to make Leo drafting fast and non-generic.
+**The Leo gate was lifted by Emma on 2026-08-05 — generation is open.** This file
+is still planning, not drafting; its job is to make the drafting fast and
+non-generic when each stretch is taken up.
 
 ## How to read each slot
 
@@ -242,7 +243,7 @@ ancient self.
   cash-out; India under the Raj after 1857; the Ottoman 19th-c reform
   (Tanzimat) as too-late unification; the opium wars as the Qing's insufficient
   acceleration made concrete; one Latin-American-Catholic-indigenous-fusion beat
-  *iff* not pre-empted by Lehi. **To be specified before Leo** — each must clear
+  *iff* not pre-empted by Lehi. **To be specified before drafting** — each must clear
   the "says something about society" filter or be cut.
 - **Ch 309–320 — run-up to the wars** [A1, A2]
   → The nationalisms of Ch 284–286 hardening toward catastrophe; the alliance
@@ -328,7 +329,7 @@ run through here.
   nostalgia as political myth, Ch ~294 grown to power); the syncretism reversals
   (Sinicization-of-Islam violently undone, Ch 295 detonating); one
   Latin-American or African post-colonial syncretism beat; the founding of
-  Israel as the Ch 293 thread landing. **To be specified before Leo**; keep the
+  Israel as the Ch 293 thread landing. **To be specified before drafting**; keep the
   filter strict.
 
 ## BLOCK V — Run-in and handoff (ch 356–362, 7)
@@ -372,7 +373,7 @@ run through here.
 
 ---
 
-## What still needs deciding before Leo (drafting prerequisites)
+## What still needs deciding before these stretches are drafted
 
 1. **Specify the four reserve clusters** (Ch 299–308, 309–320, 331–335,
    345–355 = ~38 slots currently held loosely). Each slot needs a working title

@@ -16,9 +16,10 @@ not settled once and frozen. Reasons:
   technological transformation) are still developing in real time —
   especially AI, climate, and reactionary movements.
 - We are intentionally **expanding** the planning over time rather
-  than crash-drafting a fixed plan. Per the project convention,
-  drafting is gated on Leo (2026-08-12 onward). Until then, planning
-  is the work.
+  than crash-drafting a fixed plan. **The Leo gate was lifted by Emma
+  on 2026-08-05, so drafting is now open** — but the reason planning
+  came first has not changed: a numbered chapter list made in advance
+  of writing produces garbage. Plan a stretch, then draft it.
 
 Treat every file here as a working document. Nothing here is
 permanent except the hard structural anchors.
@@ -28,7 +29,7 @@ permanent except the hard structural anchors.
 | File | Purpose | Stability |
 |------|---------|-----------|
 | `chapter-allocation.md` | Plan-of-record: structural anchors, confirmed inclusions, editorial criteria, open questions | Load-bearing; update deliberately |
-| `modern-period-chapter-map.md` | Proposed per-chapter allocation for all 110 human chapters (253–362) + finale, each slot tagged by axis + society-claim. The layer between the spine and drafting. | DRAFT; ~38 reserve slots still to specify before Leo |
+| `modern-period-chapter-map.md` | Proposed per-chapter allocation for all 110 human chapters (253–362) + finale, each slot tagged by axis + society-claim. The layer between the spine and drafting. | DRAFT; ~38 reserve slots still to specify before those stretches are drafted |
 | `thematic-spine.md` | The three thematic axes and editorial overlay articulated fully | Stable framework; content details evolve |
 | `chronicle-candidates.md` | Structural question: what Popes-style chronicle-form chapters (if any) besides ch 253 | Open question |
 | `ch362-handoff.md` | Spec for the last human chapter: what it has to do, given its structural role | Structural skeleton stable; details open |

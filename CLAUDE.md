@@ -109,8 +109,8 @@ present in `queue.md` reads on the board as still live.
 **The queue is unblocked.** Do not treat this repo as "nothing actionable" or
 "everything left is BLOCKED-on-Emma." That stance is retired. Take the top
 item and work it; if the queue is thin, decompose something out of `todo.md`
-into it rather than stopping. The one standing exception is the chapter gate
-below — Gaiad chapter *generation* stays closed until Leo (2026-08-12).
+into it rather than stopping. **There is no longer a standing exception** — the
+chapter gate was lifted by Emma on 2026-08-05 (see below).
 
 ## Skills
 
@@ -249,9 +249,25 @@ re-add wiki links. (The `lifeism+Wiki-*.xml` export is still parsed for baked-in
 - `deploy.yml` has `paths-ignore` for `discord-bot/state.json` so bot state commits don't trigger site rebuilds
 
 ## Chapter Writing Cadence
-- **Do NOT barrel through new Gaiad chapters until the month of Leo begins (2026-08-12).** The 130–220 barrel-through was an emergency stopgap so a chapter would exist for each day of the Discord stream. With 238/364 drafted the runway is comfortable for months; further writing resumes in Leo and not before.
-- "Power through and clear the queue" does NOT mean generate new chapters. Treat chapter *generation* as gated on Leo; only chapter *editing / polishing* (Malta drift, early-human-era fixes) is allowed outside that window.
-- If a task list or STATUS.md entry says "write chapters NNN–NNN" before 2026-08-12, that is a drafting error — delete it, don't execute it.
+
+**THE LEO GATE IS LIFTED. Emma, 2026-08-05: _"The Leo gate also should be removed at this
+point imo."_** Chapter generation is open. Do not re-impose it, do not treat a
+chapter-writing task as blocked, and do not delete a "write chapters NNN–NNN" item on the
+grounds that it predates Leo — that rule is gone.
+
+The gate existed because the 130–220 barrel-through was an emergency stopgap to keep a
+chapter existing for each day of the Discord stream, and with 238/364 drafted the runway
+was comfortable enough that further barrelling was the wrong use of the time. **That was a
+pacing judgement, not a rule about quality**, and Emma has now called it done. It ran from
+roughly 2026-07 to 2026-08-05.
+
+What survives from it, and it is the part that mattered: **do not barrel.** "Power through
+and clear the queue" still does not mean generate chapters in bulk. Chapters emerge at the
+writing desk — `planning/gaiad-130-220/chronology.md` says numbered chapter lists made in
+advance of writing produce garbage, and that is still true.
+
+Note also that most current chapter work is **editing existing drafts**, not generating
+new ones, and was never gated in the first place.
 
 ## Long command series run in strict order
 When Emma gives a long series of commands, treat it as a long series of commands to be

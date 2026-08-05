@@ -7,8 +7,8 @@
 below was read out of the frozen dump via `edges.tsv`, `persons.tsv` and `spouses.tsv`.
 Approval and application are separate, later steps.
 
-This is proposal-drafting, not chapter generation, so the Leo gate (2026-08-12) does not
-cover it. Where a bridge cannot be drafted without writing new scripture prose, the
+This is proposal-drafting, not chapter generation. (The Leo gate that this line was
+written against was lifted by Emma on 2026-08-05 and no longer covers anything.) Where a bridge cannot be drafted without writing new scripture prose, the
 section says so and stops rather than inventing verse.
 
 ---

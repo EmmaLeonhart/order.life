@@ -65,7 +65,8 @@ commit that completes it** (delete-don't-check). Source backlog: `todo.md`.
 
 **Hard rails:** never fake; never weaken/skip a test to pass; never claim
 "works"/"verified" without running it; document real blockers, don't paper over
-them. **Chapter gate:** do NOT generate new Gaiad chapters before Leo (2026-08-12).
+them. **The chapter gate is GONE** — lifted by Emma 2026-08-05; chapter generation is
+open. Still don't barrel: chapters emerge at the writing desk, not from a numbered list.
 
 ---
 
@@ -370,8 +371,9 @@ with AskUserQuestion instead of parking it here.**
    precisely what Emma predicted. **Construct the short line of minor Ayodhya-associated
    nobles** bridging the end of the attested Solar line to her, landing at ~48 CE.
 
-   **This is Gaiad genealogy construction, not chapter generation, so the Leo gate does
-   not apply.** Naming is still Emma's per the `Tros` precedent — bring her *names to
+   **This is Gaiad genealogy construction, not chapter generation** — and the Leo gate it
+   was once measured against was lifted by Emma on 2026-08-05 anyway. Emma, same day:
+   *"It's actually not chapter writing at all because I'm editing the existing chapters."* Naming is still Emma's per the `Tros` precedent — bring her *names to
    approve*, not the question of whether to build it.
 
    **Do this dedupe first or the join gets redone:** `Q2299` / `Q51321` / `Q161228`
@@ -1262,8 +1264,10 @@ _(none — the Wikibase backfill is DONE; wiki gone, snapshot frozen + committed
 items in repo. See devlog 2026-07-01. The `fill_missing`/`dump` scripts need a live wiki
 and can no longer run; all downstream analysis reads the local dump.)_
 
-## GATED — do not touch before Leo (2026-08-12)
-- New Gaiad chapter generation (253–328, 330–364). Editing/polishing only is OK.
+## GATED
+
+_(none — **the Leo gate was lifted by Emma on 2026-08-05**, a week early. New Gaiad
+chapter generation (253–328, 330–364) is open. Do not re-add it here.)_
 
 ---
 

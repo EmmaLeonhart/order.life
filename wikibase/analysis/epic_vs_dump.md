@@ -4,7 +4,7 @@
 
 **Propose only. Nothing was edited.** No chapter text and no dump file was changed to
 produce this. Each row says what the epic asserts, what the dump holds, and which side has
-to move — Emma decides. Chapter *editing* is allowed outside the Leo gate, but this item
+to move — Emma decides. The Leo gate was lifted 2026-08-05 and chapter work of every kind is open, but this item
 stops at the report by design.
 
 Reproduce any row with `wiki-scripts/graph_probe.py`, e.g.
