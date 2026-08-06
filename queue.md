@@ -485,6 +485,37 @@ with AskUserQuestion instead of parking it here.**
    Verify with `verify_repair.py` around it; expect **no new tangle** and a depth *gain*,
    never a loss. Propagate to shadow files; `shadow_audit.py` at 0.
 
+0a. **⛔ `extract_genealogy.py` DIES PARTWAY AND TRUNCATES `persons.tsv` SILENTLY. FIX
+   THIS BEFORE THE NEXT DUMP EDIT — it invalidates every gate.**
+
+   Found 2026-08-06. Run twice, died twice, **no stdout, no traceback captured**, leaving
+   `persons.tsv` at **3.78 MB** and then **4.08 MB** against a correct **7.53 MB**.
+   `edges.tsv` is written later in the run and was never reached, so it kept its previous
+   content and looked untouched.
+
+   **The failure mode is the problem, not the crash.** A half-written `persons.tsv` still
+   parses, still looks present, and still has plausible-looking rows. Nothing in the
+   toolchain checks that the extract completed. Every downstream gate would have read it
+   as authoritative while roughly half the dump was missing — and `verify_repair.py` runs
+   `extract_genealogy.py` as its FIRST step, so `compare_tangles`, `compare_depth` and
+   `check_invariants` would all have been poisoned together, in the direction that reports
+   success. It was caught only by comparing the byte count against the committed blob.
+
+   **What to do, in order:**
+   1. Run it in the foreground with stderr captured (`2>&1 | tee`) and find out why it
+      exits. Suspect memory — it holds the whole dump — or an unhandled exception on one
+      record. It scans ~164k files and takes 10+ minutes, so budget for that.
+   2. **Make the truncation impossible to miss**: write to a temp file and rename only on
+      clean completion, and have the script assert a plausible final row count before the
+      rename. A gate that can silently half-succeed is worse than no gate — the same
+      lesson as the vacuous I2 check recorded further down this file.
+   3. Only then re-run the full extract and confirm `persons.tsv` returns to ~7.53 MB.
+
+   **Note also that pytest IS installed here**, contrary to `CLAUDE.md`'s "no third-party
+   packages" line — a stray `python -m pytest -q` from the crashed session was found
+   running. Correct that line once someone confirms what else is present (`py -0p`, `pip
+   list`).
+
 0b. **BC-DATE SIGN — CHECKED 2026-08-05. The inversion class is SOUND; nothing to
    revert. A narrower residual is real and is the remaining work.**
 

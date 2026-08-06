@@ -30,6 +30,26 @@ Dated log of autonomous work-loop progress. Newest first.
 - `Q9935` is claimed by exactly one file, so no shadow propagation was needed; verified
   rather than assumed. Graph unchanged — this touches no edge.
 
+- **`extract_genealogy.py` DIED PARTWAY, TWICE, and this needs fixing before the next
+  dump edit.** Both runs exited without writing anything to stdout, leaving
+  `persons.tsv` truncated mid-write — 3.78 MB on the first run, 4.08 MB on the second,
+  against a correct 7.53 MB. `edges.tsv` was never reached, so it still carries its
+  12:08 content. **A silent half-write is the dangerous failure mode**: the file looks
+  present and parses fine, and every downstream gate would have read it as authoritative
+  while missing roughly half the dump. It was caught only because the byte count was
+  checked against the committed blob.
+
+- **So persons.tsv was patched surgically instead, and the equivalence is asserted rather
+  than assumed.** `persons.tsv` was last regenerated at 12:08:26 from the dump as of
+  `ca38a1a0` with a clean working tree, and the only dump edit since is this one date, so
+  a full regeneration would differ in exactly one field. The patch script restores the
+  committed blob, changes the birth column of the `Q9935` row alone, and then asserts that
+  **exactly one line differs from `HEAD` and the file length is unchanged**. It is.
+
+- Filed as `queue.md` item 0a. Until it is fixed, `verify_repair.py` cannot be trusted —
+  it runs `extract_genealogy.py` first, so a silent truncation there poisons
+  `compare_tangles`, `compare_depth` and `check_invariants` in one go.
+
 ## 2026-08-06 (recovered after a crash — item 0c landed, the board did not)
 
 - **The session that made these edits crashed before it wrote anything down.** The commit
