@@ -2,6 +2,49 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-08-06 (recovered after a crash — item 0c landed, the board did not)
+
+- **The session that made these edits crashed before it wrote anything down.** The commit
+  `ca38a1a0` is titled "changes before crash" and touches only the dump and the derived
+  TSVs: four new records, seven edges, a new `add_bridge_edges.py` bridge, regenerated
+  `edges.tsv`/`persons.tsv`/`invariants.json`. `queue.md` and this file were untouched, so
+  the work existed on disk while the board still read as though it were pending. It was
+  also never verified — the gates were run today, after the fact, not before the commit.
+
+- **What it was: queue.md item 0c, the severed Japanese imperial line. It works.**
+  `add_bridge_edges.py ojin-imperial-reconnection`. Ōjin was not lost from the dump; he
+  was **never entered**, and neither were Keikō, Chūai or Richū. Created as `Q200010`–
+  `Q200013`, each carrying its Wikidata id in the note.
+
+  The join, which is the point rather than the count:
+
+      Jimmu → Suizei → … → Sujin → Suinin → KEIKŌ → Yamato Takeru → CHŪAI → ŌJIN
+        → Nintoku → RICHŪ → Ichinobe-no Oshiwa → … → Kōnin → EMPEROR KANMU
+
+  Three records were fatherless only because those four men were missing: Yamato Takeru
+  and Nintoku each had a mother and no father, Ichinobe-no Oshiwa had neither.
+
+- **Kanmu went from 23 ancestors to 495 and now reaches `Q1` Aster** — 228 generations,
+  through Jimmu and then the **Wu-Taibo descent**: Jī Yángchāng King of Yayoi → the Kings
+  of Wu → Zhou → the Yellow Emperor → the Sinitic haplogroup chain → Eve → the clades →
+  Aster. **Japan now carries both of its ancestries at once**: Chinese through his father's
+  line, Korean through his mother Takano no Niigasa and the Baekje house built yesterday.
+  That is the cross-cutting design, arriving on one person from two directions.
+
+- **Gates, run 2026-08-06 rather than at the time:** `check_invariants` **PASS**, nothing
+  regressed — 8 tangles, 80 records trapped, largest 15, self-loops 0. No new tangle, as
+  predicted: none of Suinin, Yamato Takeru, Nintoku or Jimmu was among Ichinobe's 1,282
+  descendants, which the bridge checked before writing.
+
+- **`invariants.json` was stale in the repo, not improved by this commit.** Its diff reads
+  34 tangles → 8, which looks like a large repair and is not one; the file had simply been
+  sitting at the pre-2026-08-02 numbers and this commit regenerated it. The real 8/80 dates
+  from the inversion-class cut. Recording it because the diff is misleading on its face.
+
+- **Item 0c is deleted from `queue.md`** and replaced with the residue it would otherwise
+  have taken with it: `Q7119` Furihime, `Q7349` Otohiko Owari, `Q7915` Haji no Hodo are
+  still rootless and still unexamined. They no longer gate anything.
+
 ## 2026-08-05 (work-loop tick — the first dump edit of the day)
 
 - **The Yamato no Fuhito descent is built. Emperor Kanmu now descends from the Baekje

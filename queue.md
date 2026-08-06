@@ -464,38 +464,31 @@ with AskUserQuestion instead of parking it here.**
    **Report the result as "the Vedic line now reaches living Koreans", not as a delta in a
    reachability count.** See the spine document for why that distinction is the whole job.
 
-0c. **REPAIR THE SEVERED JAPANESE IMPERIAL LINE — RULED BY EMMA 2026-08-05: create Ōjin
-   and reconnect.** She chose this over deferring it.
+0c. **THE THREE REMAINING ROOTLESS JAPANESE RECORDS — examine and attach if the
+   succession supplies a father.**
 
-   **Japan is currently TWO DISCONNECTED BLOCKS.** `Q6432` Jimmu has **403 ancestors and
-   reaches `Q1` Aster** through the Wu-Taibo descent (→ Jī Yángchāng King of Yayoi → the
-   Kings of Wu → Zhou → the Yellow Emperor → Adam). `Q7508` Kanmu has **23 ancestors and
-   reaches nothing.** They do not connect.
+   Item 0c proper (the Ōjin reconnection) is **DONE 2026-08-06** — see the devlog. Of the
+   five rootless records Kanmu's line dead-ended at, two are now closed: `Q7038`
+   Ichinobe-no Oshiwa by the Ōjin bridge, `Q7687` Yamato no Ototsugu by the Junda line.
+   **Three were never examined:**
 
-   **The break is `Q7038` Ichinobe-no Oshiwa**, a 5th-century imperial prince recorded
-   with **no parents**. Above him should run Richū → Nintoku → **Ōjin** → … → Jimmu.
-   **Ōjin is absent from the dump entirely** — no record under any spelling
-   (ōjin / ojin / homuda / homutawake all return nothing).
-
-   Kanmu's line dead-ends at five rootless records; these are the full set, and two of
-   them are the two jobs on this page:
-
-   | qid | label | what it needs |
+   | qid | label | state |
    |---|---|---|
-   | `Q7038` | Ichinobe-no Oshiwa | Richū → Nintoku → **Ōjin** → … → Jimmu — **this item** |
-   | `Q7687` | Yamato no Ototsugu | the Junda line — item 0, gap A |
-   | `Q7119` | Furihime | unexamined |
-   | `Q7349` | Otohiko Owari | unexamined |
-   | `Q7915` | Haji no Hodo | unexamined |
+   | `Q7119` | Furihime | unexamined — no parents |
+   | `Q7349` | Otohiko Owari | unexamined — no parents |
+   | `Q7915` | Haji no Hodo | unexamined — no parents |
 
-   **This is standard Kojiki / Nihon Shoki succession, not invention** — research, ours to
-   do. Create the missing emperors, wire Ichinobe-no Oshiwa up through them to Jimmu, and
-   **Kanmu's entire block inherits the 403-ancestor Chinese descent in one repair.**
-   Combined with item 0's Korean mix, Japan then holds both ancestries at once, which is
-   the point (`CLAUDE.md`, multiple lineages).
+   These are **maternal-side and clan records**, not emperors, so they will not all have a
+   Kojiki succession answer. **Research, ours to do**: look each up on Wikidata by label,
+   and where an attested father exists, wire it with `add_bridge_edges.py`. Where none
+   exists, say so and leave the record rootless rather than inventing one — Furihime and
+   Haji no Hodo may genuinely be line-ends.
 
-   Verify with `verify_repair.py` around it; expect **no new tangle** and a large depth
-   *gain*, never a loss. Propagate to shadow files; `shadow_audit.py` at 0.
+   Note this is now **much lower value than it was**: Kanmu already reaches `Q1` Aster
+   through Jimmu, so these no longer gate anything. They are tidy-up, not a severed line.
+
+   Verify with `verify_repair.py` around it; expect **no new tangle** and a depth *gain*,
+   never a loss. Propagate to shadow files; `shadow_audit.py` at 0.
 
 0b. **BC-DATE SIGN — CHECKED 2026-08-05. The inversion class is SOUND; nothing to
    revert. A narrower residual is real and is the remaining work.**
