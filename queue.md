@@ -485,36 +485,41 @@ with AskUserQuestion instead of parking it here.**
    Verify with `verify_repair.py` around it; expect **no new tangle** and a depth *gain*,
    never a loss. Propagate to shadow files; `shadow_audit.py` at 0.
 
-0a. **⛔ `extract_genealogy.py` DIES PARTWAY AND TRUNCATES `persons.tsv` SILENTLY. FIX
-   THIS BEFORE THE NEXT DUMP EDIT — it invalidates every gate.**
+0a. **`extract_genealogy.py` writes `persons.tsv` in place and progressively, so an
+   INTERRUPTED run leaves a half-written file that still parses. Make it atomic.**
 
-   Found 2026-08-06. Run twice, died twice, **no stdout, no traceback captured**, leaving
-   `persons.tsv` at **3.78 MB** and then **4.08 MB** against a correct **7.53 MB**.
-   `edges.tsv` is written later in the run and was never reached, so it kept its previous
-   content and looked untouched.
+   **Corrected 2026-08-06, same day, and the correction is the useful part.** This item
+   first said the extractor "dies partway, twice, no traceback". **That was wrong.** It
+   never crashed. Its log shows it scanning cleanly — `80000/164550 parent_edges=59,076`
+   — and the exit code 255 was **my own `Stop-Process`**. One slow in-progress run was
+   misread as two crashes because `Get-Process -Id` spuriously returned nothing while the
+   process was in fact alive, and a mid-write byte count was read as a truncated final
+   one. **Do not go looking for a crash; there isn't one.** The run takes 20+ minutes over
+   ~164k files and was competing with `shadow_audit.py` and two stray processes for I/O.
 
-   **The failure mode is the problem, not the crash.** A half-written `persons.tsv` still
-   parses, still looks present, and still has plausible-looking rows. Nothing in the
-   toolchain checks that the extract completed. Every downstream gate would have read it
-   as authoritative while roughly half the dump was missing — and `verify_repair.py` runs
-   `extract_genealogy.py` as its FIRST step, so `compare_tangles`, `compare_depth` and
-   `check_invariants` would all have been poisoned together, in the direction that reports
-   success. It was caught only by comparing the byte count against the committed blob.
+   **The narrower hazard is real and is worth fixing.** `persons.tsv` is opened `"w"` and
+   written row by row during the scan, so at any moment before completion the file on disk
+   is a valid-looking prefix of the real thing: it parses, its rows are well-formed, and
+   nothing in the toolchain checks that the run finished. `verify_repair.py` calls
+   `extract_genealogy.py` as its FIRST step, so an interrupted extract would leave
+   `compare_tangles`, `compare_depth` and `check_invariants` all reading a half-file —
+   failing in the direction that reports success. **This is the same shape as the vacuous
+   I2 check recorded further down this file: a gate that can silently half-succeed.**
 
-   **What to do, in order:**
-   1. Run it in the foreground with stderr captured (`2>&1 | tee`) and find out why it
-      exits. Suspect memory — it holds the whole dump — or an unhandled exception on one
-      record. It scans ~164k files and takes 10+ minutes, so budget for that.
-   2. **Make the truncation impossible to miss**: write to a temp file and rename only on
-      clean completion, and have the script assert a plausible final row count before the
-      rename. A gate that can silently half-succeed is worse than no gate — the same
-      lesson as the vacuous I2 check recorded further down this file.
-   3. Only then re-run the full extract and confirm `persons.tsv` returns to ~7.53 MB.
+   **The fix is small:** write to `persons.tsv.tmp` (and likewise `edges.tsv`), and
+   `os.replace` onto the real name only after the scan completes. Optionally assert a
+   plausible row count before the rename. Then an interrupted run leaves the previous good
+   file in place instead of a plausible prefix.
+
+   **Not urgent, and it did not affect anything this session** — `persons.tsv` was restored
+   from `HEAD` and patched surgically, then verified byte-identical to `HEAD` at 7,531,500
+   bytes / 107,031 lines, which cross-checks against `shadow_audit`'s independently
+   measured 107,029 distinct qids.
 
    **Note also that pytest IS installed here**, contrary to `CLAUDE.md`'s "no third-party
-   packages" line — a stray `python -m pytest -q` from the crashed session was found
-   running. Correct that line once someone confirms what else is present (`py -0p`, `pip
-   list`).
+   packages" line — a stray `python -m pytest -q` was found running, alongside a
+   `python -m genimerge` run that belongs to no script in this repo. Confirm what is
+   actually installed (`py -0p`, `pip list`) and correct that line.
 
 0b. **BC-DATE SIGN — CHECKED 2026-08-05. The inversion class is SOUND; nothing to
    revert. A narrower residual is real and is the remaining work.**

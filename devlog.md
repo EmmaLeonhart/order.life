@@ -30,14 +30,23 @@ Dated log of autonomous work-loop progress. Newest first.
 - `Q9935` is claimed by exactly one file, so no shadow propagation was needed; verified
   rather than assumed. Graph unchanged — this touches no edge.
 
-- **`extract_genealogy.py` DIED PARTWAY, TWICE, and this needs fixing before the next
-  dump edit.** Both runs exited without writing anything to stdout, leaving
-  `persons.tsv` truncated mid-write — 3.78 MB on the first run, 4.08 MB on the second,
-  against a correct 7.53 MB. `edges.tsv` was never reached, so it still carries its
-  12:08 content. **A silent half-write is the dangerous failure mode**: the file looks
-  present and parses fine, and every downstream gate would have read it as authoritative
-  while missing roughly half the dump. It was caught only because the byte count was
-  checked against the committed blob.
+- **I reported `extract_genealogy.py` as crashing twice. It never crashed, and the
+  retraction is worth more than the original claim.** Its log shows a clean scan —
+  `80000/164550 parent_edges=59,076`, no traceback — and the exit code 255 was **my own
+  `Stop-Process`**. What actually happened: the run is 20+ minutes over ~164k files and
+  was competing for I/O with `shadow_audit.py` and two stray processes; `Get-Process -Id`
+  spuriously returned nothing while the process was alive, so I read it as dead, and I
+  read two mid-write byte counts (3.78 MB, then 4.08 MB) as two truncated final ones.
+  Neither inference was checked before it was committed as a top-of-queue blocker.
+  Corrected in `queue.md` item 0a the same day.
+
+- **The narrower hazard underneath it is real.** `persons.tsv` is opened `"w"` and written
+  row by row during the scan, so before completion the file on disk is a valid-looking
+  *prefix*: it parses, its rows are well-formed, and nothing checks that the run finished.
+  `verify_repair.py` runs the extractor first, so an interrupted extract would leave
+  `compare_tangles`, `compare_depth` and `check_invariants` all reading a half-file —
+  failing in the direction that reports success. Writing to a temp file and `os.replace`
+  on completion fixes it. Filed as item 0a.
 
 - **So persons.tsv was patched surgically instead, and the equivalence is asserted rather
   than assumed.** `persons.tsv` was last regenerated at 12:08:26 from the dump as of
@@ -46,9 +55,13 @@ Dated log of autonomous work-loop progress. Newest first.
   committed blob, changes the birth column of the `Q9935` row alone, and then asserts that
   **exactly one line differs from `HEAD` and the file length is unchanged**. It is.
 
-- Filed as `queue.md` item 0a. Until it is fixed, `verify_repair.py` cannot be trusted —
-  it runs `extract_genealogy.py` first, so a silent truncation there poisons
-  `compare_tangles`, `compare_depth` and `check_invariants` in one go.
+- **`shadow_audit.py` completed and reads 0.** 164,469 items, 107,029 distinct qids,
+  39,520 qids claimed by more than one file, and of those **0 where the files disagree on
+  parents or children** — 0 suppressed edges, 0 phantom edges. So the crash commit's item
+  edits (`Q6804`, `Q6832`, `Q6950`, `Q7038` and the four new emperors) propagated to their
+  shadows correctly. Its 107,029 qids also cross-check `persons.tsv`'s 107,031 lines
+  (header plus trailing newline), which is an independent confirmation that the restored
+  file is whole.
 
 ## 2026-08-06 (recovered after a crash — item 0c landed, the board did not)
 
