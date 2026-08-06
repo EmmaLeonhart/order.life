@@ -431,12 +431,14 @@ with AskUserQuestion instead of parking it here.**
    `wikibase/analysis/deleted_work_recovered.md`; Gyeomji `Q15253` reads b. 401 d. 521,
    a 120-year life, so prefer Jilji.)
 
-   **A — THE ATTESTED GAP, and it must be closed or B delivers nothing.** `Q7687` Yamato
-   no Ototsugu has **no parents** and `Q9935` Junda has **no children**. Historically
-   Takano no Niigasa's Yamato no Fuhito clan descends from Prince Junda — *Shoku Nihongi*,
-   the descent Akihito cited in 2001. **This is research, not invention: go find the
-   intervening generations.** Until it is closed, Kammu does not inherit from either
-   Korean house.
+   **A — DONE 2026-08-05.** `add_bridge_edges.py junda-yamato-fuhito`, all five
+   `verify_repair.py` gates green. The seven-generation Yamato no Fuhito descent is
+   researched from Wikidata and built: **Muryeong of Baekje → Prince Junda → Hoshikimi →
+   Osoriki no Kimi → Waunara → Waguri no Masaru → Wajosoku → Wamusuke → Yamato no
+   Ototsugu → Takano no Niigasa → Emperor Kanmu.** Six records created (`Q200004`–
+   `Q200009`), each attested on Wikidata. **Kanmu went from 23 ancestors to 56 and now
+   descends from the Baekje royal house** — Muryeong, Dongseong, Gonji, up to Dongmyeong
+   of Goguryeo and Hae Mo-su of Buyeo. The channel B and 0c flow through is open.
 
    **DEFECT FOUND IN PASSING — do not build on it without fixing it.** `Q9935` Junda is
    recorded **b. +0450**, twelve years *before* his father `Q10437` Muryeong (b. +0462).

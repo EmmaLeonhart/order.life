@@ -1,0 +1,57 @@
+{
+ "type": "item",
+ "id": "Q200007",
+ "labels": {
+  "en": {
+   "language": "en",
+   "value": "Waguri no Masaru"
+  }
+ },
+ "aliases": {
+  "en": [
+   {
+    "language": "en",
+    "value": "Waguri no Masaru"
+   }
+  ]
+ },
+ "descriptions": {},
+ "claims": {
+  "P47": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q200006",
+       "numeric-id": 200006
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P20": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P20",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q200008",
+       "numeric-id": 200008
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ]
+ }
+}

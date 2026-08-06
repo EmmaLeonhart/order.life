@@ -1,0 +1,61 @@
+{
+ "type": "item",
+ "id": "Q200004",
+ "labels": {
+  "en": {
+   "language": "en",
+   "value": "Hoshikimi"
+  }
+ },
+ "aliases": {
+  "en": [
+   {
+    "language": "en",
+    "value": "Hoshikimi"
+   },
+   {
+    "language": "en",
+    "value": "Hoshi no Kimi"
+   }
+  ]
+ },
+ "descriptions": {},
+ "claims": {
+  "P47": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q9935",
+       "numeric-id": 9935
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P20": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P20",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q200005",
+       "numeric-id": 200005
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ]
+ }
+}

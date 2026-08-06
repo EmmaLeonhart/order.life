@@ -258,6 +258,104 @@ BRIDGES = {
                                  "Apiveh, alongside Kay Arsh, Kay Vyarsh and Kay Kaus"),
         ],
     },
+    # 2026-08-05. queue.md item 0, GAP A -- the Yamato no Fuhito descent, and the thing
+    # that has to exist before ANY of the Korean work means anything.
+    #
+    # WHAT THIS IS FOR. Emma's plan, 2026-08-05: "My plan was that the Korean lines mixed
+    # at some point earlier before Kammu's descent," and "Japan ought to have two
+    # ancestries." Both depend on Emperor Kanmu actually inheriting through his mother.
+    # Today he does not: Q7508 Kanmu has 23 ancestors and reaches nothing, because
+    # Q7687 Yamato no Ototsugu -- his mother's father -- has NO PARENTS in the dump, and
+    # Q9935 Prince Junda has NO CHILDREN. The two ends of the line are both present and
+    # the middle is missing.
+    #
+    # THIS IS RESEARCH, NOT INVENTION. Takano no Niigasa's clan, the Yamato no Fuhito,
+    # descends from Prince Junda son of King Muryeong of Baekje -- Shoku Nihongi, and the
+    # descent Emperor Akihito cited publicly in 2001. Wikidata carries every intervening
+    # generation as its own record, checked live 2026-08-05:
+    #
+    #   Q497878  Muryeong of Baekje      (already dump Q10437)
+    #   Q15113421 Prince Junda           (already dump Q9935)   -> child Q26248560
+    #   Q26248560 Hoshikimi              father Q15113421
+    #   Q26248561 Osoriki no Kimi        father Q26248560
+    #   Q26248562 Waunara                father Q26248561
+    #   Q26248563 Waguri no Masaru       father Q26248562
+    #   Q26248564 Wajosoku               father Q26248563
+    #   Q26248566 Wamusuke               father Q26248564       -> child Q26248568
+    #   Q26248568 Yamato no Ototsugu     (already dump Q7687)
+    #   Q7677188  Takano no Niigasa      (already dump Q7502)
+    #   Q314846   Emperor Kanmu          (already dump Q7508)
+    #
+    # All six middle records are ABSENT from the dump -- checked by wikidata id against
+    # persons.tsv, none present. So this creates six people who are attested on Wikidata
+    # and wires an unbroken father-to-son chain. Every link is father->son, which is
+    # exactly what this tool writes (P47 + P20); no mother claim is needed anywhere in it,
+    # so the tool's P48 limitation costs nothing here.
+    #
+    # CANNOT CREATE A CYCLE. Q9935 Junda's ancestry is the Baekje royal line up to
+    # Dongmyeong of Goguryeo and Hae Mo-su of Buyeo -- 25 records, none of them Japanese --
+    # and Q7687 Ototsugu currently has no ancestors at all. The two sets are disjoint, so
+    # joining them adds no loop. Verify with verify_repair.py regardless.
+    #
+    # WHAT IT DOES NOT DO. It does not give Japan its Indian ancestry -- that needs the
+    # Gaya mother for Junda (item 0, part B, one woman whose NAME IS EMMA'S), and it does
+    # not reconnect Kanmu to Jimmu, which is item 0c. It closes the channel those two
+    # then flow through.
+    "junda-yamato-fuhito": {
+        "create": [
+            {
+                "qid": "Q200004",
+                "label": "Hoshikimi",
+                "aliases": ["Hoshikimi", "Hoshi no Kimi"],
+                "note": "created 2026-08-05 for queue.md item 0 gap A; wd Q26248560, son "
+                        "of Prince Junda of Baekje, first Japanese generation of the "
+                        "Yamato no Fuhito line",
+            },
+            {
+                "qid": "Q200005",
+                "label": "Osoriki no Kimi",
+                "aliases": ["Osoriki no Kimi"],
+                "note": "created 2026-08-05 for queue.md item 0 gap A; wd Q26248561",
+            },
+            {
+                "qid": "Q200006",
+                "label": "Waunara",
+                "aliases": ["Waunara"],
+                "note": "created 2026-08-05 for queue.md item 0 gap A; wd Q26248562",
+            },
+            {
+                "qid": "Q200007",
+                "label": "Waguri no Masaru",
+                "aliases": ["Waguri no Masaru"],
+                "note": "created 2026-08-05 for queue.md item 0 gap A; wd Q26248563",
+            },
+            {
+                "qid": "Q200008",
+                "label": "Wajosoku",
+                "aliases": ["Wajosoku"],
+                "note": "created 2026-08-05 for queue.md item 0 gap A; wd Q26248564",
+            },
+            {
+                "qid": "Q200009",
+                "label": "Wamusuke",
+                "aliases": ["Wamusuke"],
+                "note": "created 2026-08-05 for queue.md item 0 gap A; wd Q26248566, "
+                        "father of Yamato no Ototsugu",
+            },
+        ],
+        "edges": [
+            ("Q9935", "Q200004", "Shoku Nihongi: the Yamato no Fuhito descend from Prince "
+                                 "Junda; wd Q15113421's only recorded child is Q26248560"),
+            ("Q200004", "Q200005", "wd Q26248561's father is Q26248560"),
+            ("Q200005", "Q200006", "wd Q26248562's father is Q26248561"),
+            ("Q200006", "Q200007", "wd Q26248563's father is Q26248562"),
+            ("Q200007", "Q200008", "wd Q26248564's father is Q26248563"),
+            ("Q200008", "Q200009", "wd Q26248566's father is Q26248564"),
+            ("Q200009", "Q7687", "wd Q26248568 Yamato no Ototsugu's father is Q26248566; "
+                                 "this is the join that lets Kanmu inherit through his "
+                                 "mother Takano no Niigasa"),
+        ],
+    },
 }
 
 FATHER, CHILD = "P47", "P20"

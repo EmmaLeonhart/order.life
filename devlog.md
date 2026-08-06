@@ -2,6 +2,47 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-08-05 (work-loop tick — the first dump edit of the day)
+
+- **The Yamato no Fuhito descent is built. Emperor Kanmu now descends from the Baekje
+  royal house.** `add_bridge_edges.py junda-yamato-fuhito --write`, all five
+  `verify_repair.py` gates green, `compare_tangles` and `compare_depth` clean,
+  `check_invariants` reporting three metrics *improved* and none regressed.
+
+  The line, which is the point rather than the count:
+
+      Muryeong of Baekje → Prince Junda → Hoshikimi → Osoriki no Kimi → Waunara
+        → Waguri no Masaru → Wajosoku → Wamusuke → Yamato no Ototsugu
+          → Takano no Niigasa → EMPEROR KANMU
+
+  **Kanmu went from 23 ancestors to 56**, and now reaches Muryeong, Dongseong, Gonji and
+  on up to Dongmyeong of Goguryeo and Hae Mo-su of Buyeo.
+
+- **This was research, not invention.** Takano no Niigasa's clan descends from Prince
+  Junda son of Muryeong — *Shoku Nihongi*, the descent Akihito cited publicly in 2001 —
+  and **Wikidata carries every intervening generation as its own record**. Six were absent
+  from the dump and were created as `Q200004`–`Q200009`, each with its wd id recorded in
+  the note. Both ends already existed; only the middle was missing, which is why Kanmu
+  looked rootless.
+
+- **It could not have created a cycle and this was checked before writing, not after.**
+  Junda's ancestry is the Baekje line, 25 records, none Japanese; Ototsugu had no
+  ancestors at all. Disjoint sets, so the join adds no loop. Every link is father→son, so
+  the tool's inability to write `P48` costs nothing here.
+
+- **`core.hooksPath` was NEVER SET in this checkout** — the pre-commit shadow gate that
+  `CLAUDE.md` requires has not been running, and `verify_repair.py` says in its own output
+  that a repair is not durable without it. Found because the verifier printed the warning
+  and it was read rather than skipped. **Now installed.** Every repair committed from this
+  checkout before today went in ungated; the shadow propagation reported "0 shadow files"
+  for this one, so this repair is unaffected.
+
+- **What this does NOT do, named rather than left to be discovered.** Kanmu still does not
+  reach `Q1` Aster, and still does not reach Heo Hwang-ok. Those are the other two pieces:
+  **item 0 part B** (the Gaya mother for Junda — one woman, and her name is Emma's) and
+  **item 0c** (create Ōjin, reconnect Ichinobe-no Oshiwa to Jimmu). This tick opened the
+  channel they both flow through; it did not deliver either ancestry to Japan on its own.
+
 ## 2026-08-05 (work-loop tick, later)
 
 - **Item 0b checked. The inversion class is sound and nothing is reverted.** I had raised
