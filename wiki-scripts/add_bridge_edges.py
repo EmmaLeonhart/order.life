@@ -356,6 +356,90 @@ BRIDGES = {
                                  "mother Takano no Niigasa"),
         ],
     },
+    # 2026-08-05. queue.md item 0c -- the severed Japanese imperial line. Emma ruled
+    # "create Ojin and reconnect" when asked.
+    #
+    # THE BREAK. The dump already holds an unbroken chain from Jimmu down eleven
+    # generations: Q6432 Jimmu -> Q6456 Suizei -> Q6481 Annei -> Q6538 Itoku ->
+    # Q153775 Kosho -> Q153778 Koan -> Q153777 Korei -> Q153776 Kogen -> Q6742 Kaika ->
+    # Q6792 Sujin -> Q6832 Suinin. Then it stops, and three later records sit fatherless
+    # because the four men who should be their fathers are simply ABSENT from the dump:
+    #
+    #   Q6804 Yamato Takeru      has ONLY a mother (Q6748)   -- his father is Keiko
+    #   Q6950 Nintoku            has ONLY a mother (Q6945)   -- his father is Ojin
+    #   Q7038 Ichinobe-no Oshiwa has NO parents at all       -- his father is Richu
+    #
+    # So Ojin was never "lost"; he was never entered. Same for Keiko, Chuai and Richu.
+    # Checked by wikidata id against persons.tsv: wd Q329723 Keiko, Q179971 Chuai,
+    # Q317997 Ojin and Q329704 Richu are all absent, while every other emperor in the
+    # succession is present.
+    #
+    # STANDARD KOJIKI / NIHON SHOKI SUCCESSION, verified live on Wikidata 2026-08-05 by
+    # walking P22 upward from Richu and landing exactly on Jimmu:
+    #   Richu Q329704 <- Nintoku Q313119 <- Ojin Q317997 <- Chuai Q179971 <-
+    #   Yamato Takeru Q461258 <- Keiko Q329723 <- Suinin Q314850 <- ... <- Jimmu Q200188
+    # (dump Q6432 Jimmu carries wd Q200188, confirmed.) Nothing here is invented.
+    #
+    # WHAT IT IS WORTH. Q7038 Ichinobe-no Oshiwa has **1,282 descendants**, and that is
+    # the whole floating Kanmu block -- Kanmu is among them, Jimmu is not. Wiring Ichinobe
+    # up to Richu therefore hands all 1,282 the Wu-Taibo descent that Jimmu's line already
+    # carries: -> Ji Yangchang King of Yayoi -> the Kings of Wu -> Zhou -> the Yellow
+    # Emperor -> Adam -> Q1 Aster. Combined with the junda-yamato-fuhito bridge above,
+    # Kanmu then holds BOTH ancestries at once -- Chinese paternally, Korean through his
+    # mother -- which is the cross-cutting design (CLAUDE.md).
+    #
+    # CANNOT CREATE A CYCLE, checked before writing rather than after: none of Suinin,
+    # Yamato Takeru, Nintoku or Jimmu is among Ichinobe's 1,282 descendants. Kanmu is,
+    # correctly.
+    #
+    # Every link is father->son, so writing P47 only costs nothing. The mothers Q6748 and
+    # Q6945 already sit on their sons and are untouched.
+    "ojin-imperial-reconnection": {
+        "create": [
+            {
+                "qid": "Q200010",
+                "label": "Keikō",
+                "aliases": ["Emperor Keiko", "Otarashihiko-oshirowake"],
+                "note": "created 2026-08-05 for queue.md item 0c; wd Q329723, son of "
+                        "Suinin and father of Yamato Takeru",
+            },
+            {
+                "qid": "Q200011",
+                "label": "Chūai",
+                "aliases": ["Emperor Chuai", "Tarashinakatsuhiko"],
+                "note": "created 2026-08-05 for queue.md item 0c; wd Q179971, son of "
+                        "Yamato Takeru and father of Ojin",
+            },
+            {
+                "qid": "Q200012",
+                "label": "Ōjin",
+                "aliases": ["Emperor Ojin", "Homutawake", "Hachiman"],
+                "note": "created 2026-08-05 for queue.md item 0c; wd Q317997, son of "
+                        "Chuai and father of Nintoku -- the emperor Emma named, absent "
+                        "from the dump entirely until now",
+            },
+            {
+                "qid": "Q200013",
+                "label": "Richū",
+                "aliases": ["Emperor Richu", "Izahowake"],
+                "note": "created 2026-08-05 for queue.md item 0c; wd Q329704, son of "
+                        "Nintoku and father of Ichinobe-no Oshiwa",
+            },
+        ],
+        "edges": [
+            ("Q6832", "Q200010", "wd Q329723 Keiko's father is Q314850 Suinin"),
+            ("Q200010", "Q6804", "wd Q461258 Yamato Takeru's father is Q329723 Keiko; the "
+                                 "dump had only his mother Q6748"),
+            ("Q6804", "Q200011", "wd Q179971 Chuai's father is Q461258 Yamato Takeru"),
+            ("Q200011", "Q200012", "wd Q317997 Ojin's father is Q179971 Chuai"),
+            ("Q200012", "Q6950", "wd Q313119 Nintoku's father is Q317997 Ojin; the dump "
+                                 "had only his mother Q6945"),
+            ("Q6950", "Q200013", "wd Q329704 Richu's father is Q313119 Nintoku"),
+            ("Q200013", "Q7038", "wd Q2297842 Ichinobe-no Oshiwa's father is Q329704 "
+                                 "Richu; this is the join that reconnects the whole "
+                                 "1,282-record Kanmu block to Jimmu"),
+        ],
+    },
 }
 
 FATHER, CHILD = "P47", "P20"

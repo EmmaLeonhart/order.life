@@ -1,0 +1,65 @@
+{
+ "type": "item",
+ "id": "Q200012",
+ "labels": {
+  "en": {
+   "language": "en",
+   "value": "Ōjin"
+  }
+ },
+ "aliases": {
+  "en": [
+   {
+    "language": "en",
+    "value": "Emperor Ojin"
+   },
+   {
+    "language": "en",
+    "value": "Homutawake"
+   },
+   {
+    "language": "en",
+    "value": "Hachiman"
+   }
+  ]
+ },
+ "descriptions": {},
+ "claims": {
+  "P47": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q200011",
+       "numeric-id": 200011
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P20": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P20",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q6950",
+       "numeric-id": 6950
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ]
+ }
+}
