@@ -440,11 +440,6 @@ with AskUserQuestion instead of parking it here.**
    descends from the Baekje royal house** — Muryeong, Dongseong, Gonji, up to Dongmyeong
    of Goguryeo and Hae Mo-su of Buyeo. The channel B and 0c flow through is open.
 
-   **DEFECT FOUND IN PASSING — do not build on it without fixing it.** `Q9935` Junda is
-   recorded **b. +0450**, twelve years *before* his father `Q10437` Muryeong (b. +0462).
-   Junda d. 513 and Muryeong reigned 501–523, so Junda's birth should be ~480. Fix the
-   date; do not let a parent-younger-than-child pair sit in a line we are about to build
-   on.
 
    **Superseded below — kept only because it records the chronology that made the
    direction obvious.**

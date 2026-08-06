@@ -2,6 +2,34 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-08-06 (Junda's birth date — a precision bug, not a wrong year)
+
+- **`Q9935` Prince Junda was recorded born twelve years before his own father**, flagged
+  under `queue.md` item 0 as "do not let a parent-younger-than-child pair sit in a line we
+  are about to build on". The dump had Junda b. `+0450` and `Q10437` Muryeong of Baekje
+  b. `+0462`. **Fixed: Junda is now `+0480`.**
+
+- **450 was never a sourced claim.** Wikidata `Q15113421` records Junda's birth as
+  `+0450` at **precision 7 — century**, i.e. the assertion is *"5th century"*. The import
+  kept the number and dropped the precision to 9 (year), inventing a birth year no source
+  states and manufacturing the inversion with it. Muryeong's `+0462` **is** year-precision
+  on Wikidata (`Q497878`), so the father's date is real and the son's was the artifact.
+  The dump's own `persons.tsv` already carried `Q15113421` as Junda's wikidata id, which
+  is how the identification was confirmed rather than guessed.
+
+- **480 is close to forced, not chosen.** Father born 462; Wikidata's own claim is 5th
+  century, so not after 500; Junda died 513-08 in Japan having fathered Hoshikimi, who
+  carries the Yamato no Fuhito line built the day before. That leaves roughly 478–500.
+
+- **Precision stays 9, deliberately.** Encoding the uncertainty as century precision would
+  be invisible to every gate — `grep precision wiki-scripts/` returns **zero occurrences**,
+  nothing in the toolchain reads the field — while leaving a false inversion live in the
+  numeric comparison that `cycle_chronology.py` actually does. The uncertainty is recorded
+  here instead, where it can be read.
+
+- `Q9935` is claimed by exactly one file, so no shadow propagation was needed; verified
+  rather than assumed. Graph unchanged — this touches no edge.
+
 ## 2026-08-06 (recovered after a crash — item 0c landed, the board did not)
 
 - **The session that made these edits crashed before it wrote anything down.** The commit
