@@ -1504,6 +1504,26 @@ def generate_rss_feed(site_dir, chapters):
 
 # ── Festival Data Generator ──────────────────────────────────────────────────
 
+def generate_gedcom(out_path):
+    """Write the whole genealogy to out_path as GEDCOM 5.5.1 and return its stats.
+
+    The exporter lives in wiki-scripts/ with the rest of the genealogy toolchain and is
+    stdlib-only, so it runs in CI unchanged. A failure here must not take the site down —
+    the page falls back to zeroed stats and simply reports no file.
+    """
+    try:
+        sys.path.insert(0, str(SCRIPT_DIR / "wiki-scripts"))
+        from export_gedcom import build_gedcom
+
+        stats = build_gedcom(out_path)
+        print(f"  {stats['individuals']:,} individuals, {stats['families']:,} families, "
+              f"{stats['bytes'] / 1048576:.1f} MB")
+        return stats
+    except Exception as e:
+        print(f"  ERROR exporting GEDCOM: {e}")
+        return {"individuals": 0, "families": 0, "deep_time_dates": 0, "bytes": 0}
+
+
 def generate_festival_data_js(static_dst):
     """Generate static/js/festival-data.js with Hebrew and Islamic calendar data.
 
@@ -1797,6 +1817,10 @@ def build_site():
     # Generate computed festival data (Hebrew + Islamic) into static/js/
     print("Generating festival-data.js...")
     generate_festival_data_js(static_dst)
+
+    # Export the genealogy as GEDCOM, served at /gedcom/gaiad.ged
+    print("Exporting GEDCOM...")
+    gedcom_stats = generate_gedcom(SITE_TMP_DIR / "gedcom" / "gaiad.ged")
 
     # Write shrine data as static JSON for the map
     print("Writing shrines.json...")
@@ -2259,6 +2283,14 @@ def build_site():
             dev_dir = lang_dir / "dev"
             dev_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, "sections/dev.html", dev_dir / "index.html", ctx)
+
+        # ── GEDCOM download page (English only for now) ──
+        # The .ged itself was already written to site_tmp/gedcom/ above.
+        if lang == "en":
+            gedcom_dir = lang_dir / "gedcom"
+            gedcom_dir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "sections/gedcom.html", gedcom_dir / "index.html",
+                        {**ctx, "gedcom_stats": gedcom_stats})
 
         # ── Fudoki / Hallowings pages (English only for now) ──
         if lang == "en" and fudoki_divisions:

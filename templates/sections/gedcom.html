@@ -1,0 +1,198 @@
+{% extends "base.html" %}
+{% block title %}GEDCOM Download — {{ t.site_title }}{% endblock %}
+{% block meta_description %}Download the complete Gaiad genealogy as a GEDCOM 5.5.1 file — {{ "{:,}".format(gedcom_stats.individuals) }} people across Greek, Near Eastern, Egyptian, Trojan, Chinese, Mongol, Indian, Japanese and biblical lines.{% endblock %}
+{% block og_title %}GEDCOM Download — {{ t.site_title }}{% endblock %}
+{% block og_description %}The complete Gaiad genealogy as a GEDCOM 5.5.1 file — {{ "{:,}".format(gedcom_stats.individuals) }} people in a single synoptic descent.{% endblock %}
+{% block twitter_title %}GEDCOM Download — {{ t.site_title }}{% endblock %}
+{% block twitter_description %}The complete Gaiad genealogy as a GEDCOM 5.5.1 file — {{ "{:,}".format(gedcom_stats.individuals) }} people in a single synoptic descent.{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>The Gaiad Genealogy</h1>
+  <p>The whole synoptic ancestry, as a single GEDCOM file.</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    GEDCOM
+  </div>
+
+  <div class="section-content">
+
+    <div class="ged-download">
+      <div class="ged-download-main">
+        <span class="ged-badge">GEDCOM 5.5.1</span>
+        <h2 class="ged-filename">gaiad.ged</h2>
+        <p class="ged-desc">
+          Every person in the Gaiad genealogy in one lineage-linked file, UTF-8 encoded.
+          Opens in Gramps, RootsMagic, Family Tree Maker, Ancestry, MyHeritage,
+          FamilySearch and anything else that reads GEDCOM.
+        </p>
+      </div>
+      <a href="{{ base }}/gedcom/gaiad.ged" class="ged-button" download>
+        Download
+        <span class="ged-button-size">{{ "{:.1f}".format(gedcom_stats.bytes / 1048576) }} MB</span>
+      </a>
+    </div>
+
+    <dl class="ged-stats">
+      <div><dt>Individuals</dt><dd>{{ "{:,}".format(gedcom_stats.individuals) }}</dd></div>
+      <div><dt>Families</dt><dd>{{ "{:,}".format(gedcom_stats.families) }}</dd></div>
+      <div><dt>Encoding</dt><dd>UTF-8</dd></div>
+      <div><dt>Licence</dt><dd>Free to use</dd></div>
+    </dl>
+
+    <h2 style="margin-top: 2.5rem;">What this is</h2>
+    <p>
+      The Gaiad is a synoptic ancestry. Where the biblical model descends purely through
+      the father, this one deliberately integrates different kinds of ancestry — Greek,
+      Near Eastern, Egyptian, Trojan, Chinese, Mongol, Indian, Japanese and biblical lines
+      converging into a single descent. Japan is the clearest case: Chinese ancestry
+      arrives through Jimmu and the Kings of Wu on the father's side, Korean and Indian
+      ancestry through Kanmu's mother Takano no Niigasa. Two traditions, two parents, one
+      person.
+    </p>
+    <p>
+      That integration is the point of the project, and it is what the file is for. Places
+      where traditions usually kept separate turn out to meet are not accidents of import.
+      They were put there.
+    </p>
+
+    <h2 style="margin-top: 2.5rem;">Reading it well</h2>
+
+    <h3>Every record keeps its identifier</h3>
+    <p>
+      Each individual carries a <code>REFN</code> holding its wikibase QID, so any person
+      can be traced back to the source record. Where a record is matched to Wikidata, that
+      identifier travels alongside it in a <code>_WIKIDATA</code> tag.
+    </p>
+
+    <h3>Deep time does not fit</h3>
+    <p>
+      GEDCOM years run from 1 to 9999. Aster, at the root, is dated thirteen billion years
+      back. Rather than drop those dates,
+      {{ "{:,}".format(gedcom_stats.deep_time_dates) }} of them are preserved verbatim in a
+      note attached to the event, so your software shows an undated birth with the raw
+      timestamp beside it.
+    </p>
+
+    <h3>Dates carry their real precision</h3>
+    <p>
+      A date known only to the year is written as a year, not as the 1 January its
+      underlying timestamp happens to store. Decade and century precision is written with
+      <code>ABT</code>. This matters more than it sounds — about a third of the dated
+      records are year-precision, and rendering those as exact days would invent several
+      thousand birthdays that nothing in the sources claims.
+    </p>
+
+    <h3>Some people have more than one set of parents</h3>
+    <p>
+      This is deliberate, not corruption. A man born into one house and adopted into
+      another really does have two fathers, and so does a person whose parentage the
+      traditions genuinely disagree about. Both appear as multiple <code>FAMC</code> links,
+      which is legal GEDCOM; most software will show them all and let you choose a
+      preferred line.
+    </p>
+
+    <h3>A few loops remain</h3>
+    <p>
+      Eight ancestry cycles survive in the source data, trapping about eighty records —
+      roughly one person in eight hundred. They came in through merges made upstream in
+      Geni and Wikidata, and each is being resolved against an external stemma rather than
+      cut arbitrarily. If your software walks ancestors without a visited-set, those eighty
+      records can send it round in circles. Everything else is a clean acyclic tree.
+    </p>
+
+  </div>
+</div>
+{% endblock %}
+
+{% block head %}
+<style>
+.ged-download {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+.ged-download-main { flex: 1 1 340px; }
+.ged-badge {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  background: rgba(255,215,0,0.15);
+  color: var(--accent);
+  border: 1px solid rgba(255,215,0,0.3);
+}
+.ged-filename {
+  margin: 0.5rem 0 0.6rem;
+  font-size: 1.35rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+.ged-desc {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin: 0;
+}
+.ged-button {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.15rem;
+  padding: 0.85rem 1.75rem;
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+  white-space: nowrap;
+  transition: background 0.15s, color 0.15s;
+}
+.ged-button:hover { background: var(--accent); color: #111; }
+.ged-button-size {
+  font-size: 0.72rem;
+  font-weight: 400;
+  opacity: 0.8;
+}
+.ged-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1px;
+  margin: 0 0 1rem;
+  padding: 0;
+  background: var(--border);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.ged-stats > div {
+  flex: 1 1 140px;
+  background: var(--bg-primary);
+  padding: 0.9rem 1.1rem;
+}
+.ged-stats dt {
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  margin-bottom: 0.25rem;
+}
+.ged-stats dd {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+</style>
+{% endblock %}

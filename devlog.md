@@ -2,6 +2,42 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-08-07 (the genealogy is downloadable — order.life/gedcom)
+
+- **The tree exports as GEDCOM 5.5.1 now, at `/gedcom/`.** It never did before: every
+  GEDCOM mention in the repo was *import* residue — `P5` is a name pre-formatted for the
+  format, `P40`/`P41` are REFN fields the Geni import carried in — and nothing wrote one
+  back out. `wiki-scripts/export_gedcom.py` reads the three committed extracts and
+  produces 63,976 individuals in 34,978 families, 10.0 MB. `build.py` runs it, so CI
+  regenerates the file on every deploy and the download is never stale.
+
+- **Over half the birth dates were about to be exported as fabricated exact days.**
+  `persons.tsv` keeps the timestamp and drops the precision, so a year-precision date
+  arrives looking like `+0594-01-01T00:00:00Z`. Of 13,404 births, **6,865 are
+  year-precision against 6,472 day-precision** — rendering them straight would have
+  invented several thousand birthdays. `wiki-scripts/extract_date_precision.py` pulls the
+  precision qualifier off `P56`/`P57` for the 20,141 dated records into
+  `wikibase/analysis/date_precision.tsv`, and the exporter writes years as years and
+  decades and centuries as `ABT`. It reads only the items that persons.tsv says have a
+  date, not the whole dump, and asserts its own row count before renaming into place — the
+  failure mode from 91caa7f.
+
+- **134 records carry corrupt `P5` values**, one of them 24,635 characters of backslashes,
+  which blew past GEDCOM's 255-character line limit. A single backslash separates name
+  variants in the source and is meaningful, so the exporter collapses only the runs.
+
+- **Verified structurally, not assumed:** zero dangling pointers, and `FAMC`/`CHIL` and
+  `FAMS`/`HUSB`/`WIFE` reciprocate in both directions across all 613,727 lines.
+
+- **Multiple parentage survives the round trip.** Adoptive-plus-biological and
+  genuinely-contested fathers both come out as multiple `FAMC` links, which is legal
+  GEDCOM. What the file cannot yet distinguish is *which* father is adoptive, because
+  nothing in the extracts flags it — `PEDI adopted` is the slot waiting for that data.
+
+- **Known and unfixed:** the eight ancestry cycles are still in the source, so they are in
+  the file. The `/gedcom/` page says so rather than letting a reader discover it by hanging
+  their software.
+
 ## 2026-08-06 (the Indian line reaches living Koreans — item 0 closed)
 
 - **`Q51928` Heo Hwang-ok had no parents, and now descends from Rama.** She was the single
