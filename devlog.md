@@ -1,3 +1,40 @@
+## 2026-08-07 (who Mamercus is, and the father the dump was missing)
+
+Emma: *"Who is Mamercus? … Look up mamercus to see who his biological father is. This is
+good for looking up instead of guessing."*
+
+- **`Q72786` is Mamercus Aemilius Lepidus Livianus, consul 77 BC** — Wikidata `Q721477`,
+  born c. 150 BC. Not a Marcus; the dump's label is a name collision, and that collision is
+  what made the record look like it held three contradictory parentages. The cognomen
+  *Livianus* is self-documenting: **born a Livius Drusus, adopted into the Aemilii
+  Lepidi.** His brother `Q433463` stayed a Livius Drusus; his sister is Livia.
+
+- **The biological father is `Q72798`, and the identification needed no judgement.** That
+  record carries **`P61` = `Q703346`** outright — Marcus Livius Drusus, the opponent of
+  Gaius Gracchus. Its dates `+0155`/`+0109` are Wikidata's `-0155`/`-0109`, the same
+  numbers under the positive-sign bug. Its spouse is `Q72801` Cornelia, the attested
+  mother. Its children were `Q72624` Livia and `Q73119` — which itself carries `P61` =
+  `Q433463`, the tribune. **Two of the three children were there and Mamercus was the one
+  missing**, exactly as `lepidus_resolved.md` predicted five days ago.
+
+- `lepidus_resolved.md` had flagged that nine "Livius Drusus" records existed and the right
+  one "must be checked before wiring anything". It took one lookup. **The record answered
+  the question itself** — the Wikidata id was sitting on it the whole time.
+
+- **Edge added on both sides, 19 files**, after checking that `Q72786` is not among
+  `Q72798`'s ten ancestors, so it closes no loop.
+
+- **The adoption is recorded in the description, not modelled — because this wikibase has
+  no adoption property.** `P47` is just "Father", so two correct fathers are structurally
+  indistinguishable from a defect. Filed in `todo.md` as a schema question for Emma, along
+  with the observation that a kinship-type qualifier would also give CLAUDE.md's
+  divine-father class a real home instead of leaving "ignore them literally" as a rule that
+  lives only in prose.
+
+- Couples B (`Q73113`/`Q73110`) and C (`Q73173`) are still unidentified and moved to
+  `todo.md`. None of the three carries a Wikidata id, which is why it is a prosopography
+  lookup rather than a dump question.
+
 ## 2026-08-07 (Queen Mentuhotep was a wife, not a mother — tangle 7 gone)
 
 - **The Theban ring closed on two invented mother-claims.** `Q85500` Mentuhotep was

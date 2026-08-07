@@ -273,7 +273,7 @@ ruling from Emma or a source that is not Wikidata.
 
 | # | tangle | records | item | what it waits on |
 |---:|---|---:|---:|---|
-| 1 | Marcus Aemilius Lepidus | 15 | 1 | **RING CUT 2026-08-07.** The unmerge of couples B and C is still open — see item 1 |
+| 1 | Mamercus Aemilius Lepidus Livianus | 15 | 1 | **RING CUT + biological father wired 2026-08-07.** Couples B and C moved to `todo.md` |
 | 2 | Prachetas (10 sons) | 14 | 3 | **DONE 2026-08-07 — Sunitha's father, `apply_sunita_mrityu.py`. Not the Daksha split.** |
 | 3 | D. Ausindo Ximeno | 14 | 10 | a *Livro de Linhagens* stemma |
 | 4 | Aditi Kashyapa | 14 | 3 | **DONE 2026-08-07 — same repair, second copy** |

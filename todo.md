@@ -2,6 +2,49 @@
 
 ---
 
+## 🏛 The Lepidus unmerge — what is left after 2026-08-07
+
+`Q72786` is **Mamercus Aemilius Lepidus Livianus, consul 77 BC** (wd `Q721477`) — not a
+Marcus. Born a Livius Drusus, adopted into the Aemilii Lepidi, which the cognomen
+*Livianus* records. Three things are done: the false Quintus edge is cut
+(`apply_lepidus_cut.py`), the biological father is wired in
+(`apply_mamercus_biological_father.py` — it is `Q72798`, which carries `P61` = `Q703346`
+on the record), and the adoption is written into the record's description.
+
+**1. NEEDS EMMA — is there a kinship-type property, or is a description enough?**
+This wikibase has no adoption property. `P47` is just "Father", so `Q72786`'s two correct
+fathers are indistinguishable from a two-father defect to anything that scans structurally.
+Right now the distinction lives only in the record's English description. The options:
+
+  - leave it in the description (zero schema change, invisible to scripts);
+  - add a property, e.g. `P70` "kinship type", used as a **qualifier** on `P47`/`P48`
+    with values `biological` / `adoptive` / `divine` — which would also give the
+    divine-father class from CLAUDE.md a real home, instead of "ignore them literally"
+    being a rule that only lives in prose;
+  - keep an explicit allow-list of known-good multi-father records in `wikibase/analysis/`.
+
+The middle option is the one that would actually make `qa_same_role_parents.tsv` mean
+something. **It is a schema decision, so it is Emma's.**
+
+**2. RESEARCH — identify couples B and C on `Q72786`.** The record still carries three
+father+mother couples. Couple A is settled (adoptive `Q73011` + mother `Q72801` Cornelia,
+plus the biological `Q72798` now added). Couples B (`Q73113` / `Q73110`) and C (`Q73173`)
+belong to *other men* filed under the same colliding label and need identifying against
+the Aemilii Lepidi prosopography — none of the three carries a Wikidata id, which is why
+this is a lookup job and not a dump job. Once identified, split them out; **naming the
+split records is Emma's**, per the `Tros` precedent.
+
+**3. Consequence of the sign bug, still unaudited.** Only 133 records in the whole dump
+carry a negative (BC) date; almost everything pre-Christian is stored positive, and the
+dump is therefore *inconsistent* rather than uniformly wrong. Every past repair justified
+as "chronologically impossible" — above all the inversion class cut on 2026-08-02, five
+tangles and 21 records — needs checking for whether its argument actually compared these
+fields numerically. Where it used patronymics, dynasty membership or explicit BC/AD in the
+label, it stands. **Do not revert anything on this basis; go and check which arguments
+used the fields.** See `wikibase/analysis/lepidus_resolved.md`.
+
+---
+
 ## 🗃 Wikibase dump + genealogy — ARCHIVED (2026-07-01)
 
 The source wiki was taken down by Miraheze as off-topic. The dump/backfill is

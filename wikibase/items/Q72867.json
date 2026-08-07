@@ -171,6 +171,22 @@
     },
     "rank": "normal",
     "type": "statement"
+   },
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q72798",
+       "numeric-id": 72798
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
    }
   ],
   "P48": [
@@ -353,7 +369,12 @@
    }
   ]
  },
- "descriptions": {},
+ "descriptions": {
+  "en": {
+   "language": "en",
+   "value": "Mamercus Aemilius Lepidus Livianus, consul 77 BC (Wikidata Q721477) -- NOT a Marcus; the label is a name collision. Born a Livius Drusus and adopted into the Aemilii Lepidi, which the cognomen Livianus records. Of the fathers on this record, Q72798 (M. Livius Drusus) is BIOLOGICAL and Q73011 (M. Aemilius Lepidus cos. 126 BC) is ADOPTIVE -- both are correct and neither is a two-father defect. The remaining father/mother couples on this record belong to other men and are an open unmerge. This wikibase has no adoption property; see todo.md."
+  }
+ },
  "id": "Q72786",
  "labels": {
   "en": {
