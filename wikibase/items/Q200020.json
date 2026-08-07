@@ -1,0 +1,88 @@
+{
+ "type": "item",
+ "id": "Q200020",
+ "labels": {
+  "en": {
+   "language": "en",
+   "value": "Daksha, son of the Prachetas"
+  }
+ },
+ "aliases": {
+  "en": [
+   {
+    "language": "en",
+    "value": "Daksha II"
+   },
+   {
+    "language": "en",
+    "value": "Prachetasa Daksha"
+   },
+   {
+    "language": "en",
+    "value": "Daksha Prachetasa"
+   }
+  ]
+ },
+ "descriptions": {
+  "en": {
+   "language": "en",
+   "value": "the second Daksha: born to the ten Prachetas by Marisa, split from the ancestor Daksha on 2026-08-07 so the Gaiad's descent stays linear. PLACEHOLDER LABEL -- naming is Emma's."
+  }
+ },
+ "claims": {
+  "P55": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P55",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153718",
+       "numeric-id": 153718
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P47": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q1955",
+       "numeric-id": 1955
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P48": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P48",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q49638",
+       "numeric-id": 49638
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ]
+ }
+}

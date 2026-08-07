@@ -2,6 +2,36 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-08-07 (three tangles applied — Emma: "Apply them lol")
+
+- **The two Daksha rings are split, in both copies — `apply_daksha_split.py`, 12 files.**
+  Daksha I keeps the qid (`Q153390`, `Q160489`), the spouse Asikni and every child; Daksha
+  II is new (`Q200020`, `Q200021`), son of the Prachetas by Marisa, no children. Emma's
+  2026-08-05 ruling, executed: the Gaiad's descent is linear, so a rebirth of the same
+  character becomes two people. **The labels are placeholders and naming is Emma's.**
+
+- **The queue's account of that split was wrong on the fathers, and the correction
+  generalises.** It said `Q153390` carried two fathers — `Q49634` for the first birth and
+  `Q1955` for the rebirth — and directed the split to keep `Q49634`. **`Q49634.json` is a
+  shadow file whose own `id` is `Q1955`**: byte-identical, same label, same parents, same
+  coat of arms, and `redirects.tsv` maps one to the other. The two fathers were one man
+  referenced twice, once directly and once through a redirect qid. There was no first-life
+  parentage to preserve — Brahma is not wired to this block — so Daksha I correctly comes
+  out with no recorded parents. **Check whether a second father is a redirect before
+  reading it as a second parentage.**
+
+- **The Aemilii Lepidi ring is cut — `apply_lepidus_cut.py`, 17 files.** `Q72615` Quintus
+  carried two fathers both labelled "Marcus Aemilius Lepidus"; Wikidata's `Q3625112` (the
+  dump's `Q144279`) lists exactly two children, and Quintus is one of them, so the
+  competing `Q72786` edge is the false one. Removing it assigns him nowhere new. The
+  script refuses to cut unless the surviving father is already recorded, so it cannot
+  orphan him. **The unmerge proper is still open** — `Q72786` still holds three couples,
+  two of them unidentified, and the biological-vs-adoptive marking is unwritten.
+
+- Both scripts are shadow-aware and idempotent, and verify from disk rather than trusting
+  their own writes. `Q72786` alone is claimed by twelve files; editing the canonical one
+  would have reverted the moment it stopped being the numerically-lowest claimant.
+
 ## 2026-08-07 (the genealogy is downloadable — order.life/gedcom)
 
 - **The tree exports as GEDCOM 5.5.1 now, at `/gedcom/`.** It never did before: every

@@ -273,19 +273,27 @@ ruling from Emma or a source that is not Wikidata.
 
 | # | tangle | records | item | what it waits on |
 |---:|---|---:|---:|---|
-| 1 | Marcus Aemilius Lepidus | 15 | 1 | **Emma is researching it herself** (2026-08-05) — hands off |
-| 2 | Prachetas (10 sons) | 14 | 3 | **NOTHING — RULED 2026-08-05: split Daksha. Go do it.** |
+| 1 | Marcus Aemilius Lepidus | 15 | 1 | **RING CUT 2026-08-07.** The unmerge of couples B and C is still open — see item 1 |
+| 2 | Prachetas (10 sons) | 14 | 3 | **DONE 2026-08-07 — Daksha split, `apply_daksha_split.py`** |
 | 3 | D. Ausindo Ximeno | 14 | 10 | a *Livro de Linhagens* stemma |
-| 4 | Aditi Kashyapa | 14 | 3 | **NOTHING — same ruling, the second copy. Go do it.** |
+| 4 | Aditi Kashyapa | 14 | 3 | **DONE 2026-08-07 — same split, second copy** |
 | 5 | Gaius Servilius | 8 | 11 | a Servilian stemma, or Emma's step-4 collapse |
 | 6 | Joan ferch Ieuan ap Rhys | 7 | 9 | Bartrum's *Welsh Genealogies* |
 | 7 | Sekhemre Sankhtawy Neferhotep III | 6 | 8 | Turin King List / Ryholt |
 | 8 | Esther bat Sahlan ben Abraham | 2 | 12 | a source; cut once and reverted |
 
-**Tangles 2 and 4 are the Daksha rebirth, and on 2026-08-05 Emma ruled: SPLIT.** She did
-not accept them as doctrine — see item 3 for the ruling and the exact procedure. They are
-**28 records of ordinary executable work**, not a philosophical question, and they are the
-single largest unblocked win on this table.
+**Tangles 1, 2 and 4 were applied on 2026-08-07** — Emma: *"Apply them lol."* Three of the
+eight are off the table; the remaining five all want an external stemma, which is research
+to go and do, not a question for Emma.
+
+**The queue's account of the Daksha split was wrong on one material point, and the
+correction is worth keeping.** Item 3 said `Q153390` carries two fathers, `Q49634` (first
+birth) and `Q1955` (rebirth), and directed the split to keep `Q49634` on Daksha I.
+**`Q49634.json` is a shadow file whose own `id` is `Q1955`** — byte-identical to it, and
+`redirects.tsv` maps one to the other. The "two fathers" were one man referenced twice,
+once directly and once through a redirect qid, so there was no first-life parentage to
+keep and Daksha I comes out with no recorded parents. **Check whether a second father is
+a redirect before reading it as a second parentage.**
 
 **THIS TABLE'S "WAITING ON A RULING" FRAMING IS OUT OF DATE AS OF 2026-08-05.** Four
 rulings were obtained from Emma directly, in one round, by asking her (items 1, 2, 3, 16).
@@ -434,8 +442,23 @@ with AskUserQuestion instead of parking it here.**
    11k lookups and 11k record edits is not a two-line change, it needs batching, a cache,
    and shadow propagation. Do NOT bulk-flip signs by heuristic.
 
-1. **UNMERGE `Q72786` "Marcus Aemilius Lepidus" — the real defect in the Scipio loop.**
+1. **UNMERGE `Q72786` "Marcus Aemilius Lepidus" — the ring is CUT, the unmerge is not.**
 
+   > **THE RING IS OPEN AS OF 2026-08-07 — `wiki-scripts/apply_lepidus_cut.py`.** The
+   > false `Q72786` → `Q72615` Quintus edge is gone from both sides and from all 17 files
+   > claiming the two qids; Quintus's father is now `Q144279` alone, which the dump
+   > already recorded and Wikidata confirms (`Q3625112` lists exactly two children,
+   > `Q3622705` and `Q11944252` Quintus). Tangle 1 no longer closes.
+   >
+   > **WHAT IS STILL OPEN, and it is the unmerge proper:** `Q72786` still carries three
+   > father+mother couples. Couple A is settled — it belongs to Mamercus, and his
+   > *biological* father `Q703346` M. Livius Drusus should be added alongside the adoptive
+   > `Q73011` and both marked, so no later sweep reads them as a two-father defect.
+   > **Which of the nine "Livius Drusus" records is wd `Q703346` must be checked before
+   > wiring anything.** Couples B (`Q73113`/`Q73110`) and C (`Q73173`) are unidentified —
+   > no Wikidata ids on any of the three — and need their own lookups against the Aemilii
+   > Lepidi prosopography. Naming the split records is Emma's, per the `Tros` precedent.
+   >
    > **RESEARCHED AND LARGELY ANSWERED 2026-08-05 — see
    > `wikibase/analysis/lepidus_resolved.md`.**
    >
@@ -640,8 +663,23 @@ with AskUserQuestion instead of parking it here.**
    its "Licinius Varus" label once it is no longer Constantia's son. That is Gaiad material
    and naming, which is Emma's per the `Tros` precedent. **Do not guess it.**
 
-3. **⭐ THE PURANIC REBIRTH OF DAKSHA — RULED: SPLIT INTO TWO RECORDS.**
+3. **✅ THE PURANIC REBIRTH OF DAKSHA — DONE 2026-08-07. Kept for the ruling and the
+   correction; delete once the naming below is settled.**
 
+   > **APPLIED — `wiki-scripts/apply_daksha_split.py`, 12 files, both copies.** Daksha I
+   > keeps the qid (`Q153390`, `Q160489`), the spouse Asikni and every child; Daksha II is
+   > new (`Q200020`, `Q200021`), son of the Prachetas by Marisa, no children. Both rings
+   > open. **The labels are placeholders — "Daksha, son of the Prachetas" — and naming is
+   > Emma's.** That is the one thing left on this item.
+   >
+   > **THE PROCEDURE BELOW WAS WRONG ON THE FATHERS, and the correction generalises.** It
+   > said `Q153390` carries two fathers, `Q49634` (first birth) and `Q1955` (rebirth), and
+   > to keep `Q49634` on Daksha I. **`Q49634.json` is a shadow whose own `id` is `Q1955`**
+   > — byte-identical, and `redirects.tsv` maps it across. One man, referenced twice. So
+   > no first-life parentage existed to keep, and Daksha I correctly ends with no recorded
+   > parents (Brahma is not wired to this block at all). **Before reading a second father
+   > as a second parentage, check whether it is a redirect qid.**
+   >
    > **RULED BY EMMA 2026-08-05, asked directly: "Split Daksha into two records."**
    >
    > **Her reason, which matters more than the ruling, because it decides every future
