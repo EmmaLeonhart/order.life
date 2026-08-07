@@ -1,3 +1,33 @@
+## 2026-08-07 (Queen Mentuhotep was a wife, not a mother — tangle 7 gone)
+
+- **The Theban ring closed on two invented mother-claims.** `Q85500` Mentuhotep was
+  recorded as the mother of both `Q85478` Neferhotep III and `Q85578` Mentuhotep VI, while
+  also descending from them five generations down.
+
+- **Wikipedia on Queen Mentuhotep, from Passalacqua's 1822–25 finds at Dra' Abu el-Naga':**
+  *"wife of pharaoh Djehuti"* — Great Royal Wife, Khenemetneferhedjet — and *"She was the
+  daughter of the vizier Senebhenaf and of a woman called Sobekhotep."* **The dump already
+  had all of that right**: her father `Q85514` Senebhenaf, her mother `Q85516` Sobekhotep,
+  and Djehuti `Q85498` already carrying her as spouse. Everything attested was present and
+  correct.
+
+- **No child of hers is attested anywhere**, and neither king has any recorded parentage:
+  Neferhotep III is known from one damaged Theban stela and Wikipedia records nothing of
+  his father, mother or wife; Mentuhotepi "took the throne following" him, which is a
+  succession and not a descent. Ryholt's and Baker's 16th-Dynasty order — Djehuti,
+  Sobekhotep VIII, Neferhotep III, Mentuhotep VI — is a sequence of reigns. **A king list
+  had been turned into a pedigree**, which is the standard hazard with Second Intermediate
+  Period material.
+
+- **Both mother-claims had to go, not one.** Dropping only the Neferhotep III edge leaves
+  the shorter ring `Q85500 → Q85578 → … → Q85514 → Q85500` standing. 12 files, including
+  the redirect qids `Q195101`/`Q195202` that the false claims named directly — the same
+  handling `Q49634` needed for `Q1955`.
+
+- Nothing attested was touched, and both kings keep their reconstructed fathers: those are
+  no better evidenced, but neither forms a loop, and cutting further would sever the line
+  on no better grounds than it was built on.
+
 # order.life — Devlog
 
 Dated log of autonomous work-loop progress. Newest first.
