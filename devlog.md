@@ -1,3 +1,35 @@
+## 2026-08-07 (the Welsh ring — a date, not a pedigree)
+
+- **Tangle 6 is gone.** Item 9 had it as "the Esther shape, in Welsh": six of seven edges
+  confirmed by patronymics, two maternal claims left, both spouse-consistent, and Wikidata
+  carrying the identical ring mirrored on both sides so that it arbitrates nothing. It
+  asked for Bartrum's *Welsh Genealogies*. It did not need them.
+
+- **`Q137927` Owain's mother is a granddaughter of Rhys Gryg — 'Rhys the Hoarse', prince
+  of Deheubarth, who died in 1234** at Llandeilo Fawr of wounds taken attacking Carmarthen
+  (Dictionary of Welsh Biography). That anchors Owain's generation from *outside* the ring,
+  and both arms run outward from him along links the patronymics confirm: down through
+  Llywelyn Ddû → Llywelyn Foethus → Gruffudd Foethus to **Lleucu at c. 1370**, and up
+  through Joan's own name — *ferch Ieuan ap Rhys ap Llowdden* — to **Rhys at c. 1200**.
+
+- **Lleucu cannot be the mother of a man born about 170 years before her**, and the
+  argument does not depend on which maternal claim is true: Llywelyn Ddû is dated by his
+  father whoever his mother was. So the false edge is `Q140681` → `Q140643` — **the
+  opposite of the free, tangle-dissolving cut the item explicitly warned against.**
+
+- **The mechanism is Welsh papponymy**, the same collapse as the two Esthers: Llowdden Hen
+  → Rhys → Llowdden y Gath → Rhys → Ieuan → Joan, with two women called Lleucu ferch
+  Gruffudd merged into one record. **The dump announced it** — she carried two husbands two
+  centuries apart, and the other one, Morgan ap Dafydd of Rhydodyn, has a second wife
+  descended from Ifor Hael (Dafydd ap Gwilym's patron, fl. c. 1340–60), placing him at
+  c. 1370 exactly like her. Wikidata carries neither marriage.
+
+- Three files. Lleucu keeps her father and the husband who fits her century; Rhys's mother
+  is now unrecorded rather than invented. The Welsh block went from a closed circle to real
+  depth — Lleucu now reaches 4,296 ancestors, Llywelyn Ddû 3,787, Gruffudd Foethus 3,669.
+
+- **Two tangles left**: the Servilii (8 records) and the Portuguese Ausindo Ximeno ring (14).
+
 ## 2026-08-07 (who Mamercus is, and the father the dump was missing)
 
 Emma: *"Who is Mamercus? … Look up mamercus to see who his biological father is. This is

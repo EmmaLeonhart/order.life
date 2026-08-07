@@ -278,7 +278,7 @@ ruling from Emma or a source that is not Wikidata.
 | 3 | D. Ausindo Ximeno | 14 | 10 | a *Livro de Linhagens* stemma |
 | 4 | Aditi Kashyapa | 14 | 3 | **DONE 2026-08-07 — same repair, second copy** |
 | 5 | Gaius Servilius | 8 | 11 | a Servilian stemma, or Emma's step-4 collapse |
-| 6 | Joan ferch Ieuan ap Rhys | 7 | 9 | Bartrum's *Welsh Genealogies* |
+| 6 | Joan ferch Ieuan ap Rhys | 7 | 9 | **DONE 2026-08-07 — Rhys Gryg d. 1234 dates it, `apply_lleucu_generation.py`** |
 | 7 | Sekhemre Sankhtawy Neferhotep III | 6 | 8 | **DONE 2026-08-07 — Queen Mentuhotep is a wife, `apply_mentuhotep_queen.py`** |
 | 8 | Esther bat Sahlan ben Abraham | 2 | 12 | **DONE 2026-08-07 — the 1037 ketubba, `apply_esther_generation.py`** |
 
@@ -890,7 +890,31 @@ with AskUserQuestion instead of parking it here.**
    expensive — **3 records lose their route to Aster and 31,790 lose ancestry**. Do not
    take it as the cheap way out.
 
-9. **THE JOAN / LLYWELYN DDÛ RING — the Esther shape, in Welsh. NEEDS A PEDIGREE SOURCE.**
+9. **✅ THE JOAN / LLYWELYN DDÛ RING — DONE 2026-08-07. It was the Esther shape in Welsh,
+   and a date settled it, not a pedigree.**
+
+   > **`apply_lleucu_generation.py`, 3 files.** The false edge is `Q140681` Lleucu →
+   > `Q140643` Rhys ap Llowdden y Gath — **not** the cheap cut this item warned against.
+   >
+   > **`Q137927` Owain's mother `Q137334` Gwenllian is a granddaughter of Rhys Gryg, who
+   > died in 1234** (Dictionary of Welsh Biography). That fixes Owain's generation from
+   > outside the ring, and both arms run outward from him along patronymically-confirmed
+   > links: down to Lleucu at c. 1370, up through Joan's own name to Rhys at c. 1200.
+   > **Lleucu cannot be the mother of a man born 170 years before her**, and the argument
+   > holds whichever maternal claim is true — Llywelyn Ddû is dated by his *father*.
+   >
+   > **The mechanism is Welsh papponymy**: Llowdden Hen → Rhys → Llowdden y Gath → Rhys →
+   > Ieuan → Joan. Two women called Lleucu ferch Gruffudd merged into one record. The dump
+   > says so itself — she carried **two husbands two centuries apart**, and the other,
+   > Morgan of Rhydodyn, has a second wife descended from Ifor Hael (fl. c. 1340–60),
+   > which puts him at c. 1370 exactly like her. **Wikidata carries neither marriage.**
+   >
+   > Rhys's mother is now unrecorded. The woman who married Llowdden y Gath c. 1190 is a
+   > different Lleucu and naming her still wants Bartrum's Llowdden charts — she is not
+   > invented here.
+
+   **The original analysis, which was correct about everything except that it needed a
+   pedigree rather than a date:**
    Tangle 10, seven records, investigated 2026-08-02 and **not** acted on.
 
    Six of the seven edges are confirmed by the patronymics, which in Welsh *are* the
