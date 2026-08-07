@@ -71,8 +71,8 @@ So there are **exactly three cases** and they are not the same:
    Remus, Perseus, Neleus, Circe and ~160 others have *only* a divine father, and cutting
    those orphans them, so the rule does not reach them. Whether they should become
    rootless is a separate question for Emma.
-   Beyond that pair, the old wording still governs: ignore them literally.** Zeus, Ares,
-   Apollo and the like fathering Greco-Roman heroes, and the same shape in the Jesus
+   Beyond that pair, the old wording still governs — **ignore them literally.** Zeus,
+   Ares, Apollo and the like fathering Greco-Roman heroes, and the same shape in the Jesus
    material, are **not genealogical edges** in this project. Real descent runs through
    the human father. **Consequence for cycle repair: if a loop passes through a
    divine-father edge, that edge is the safe one to cut** — it is decorative, so cutting
