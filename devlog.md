@@ -1,3 +1,60 @@
+## 2026-08-07 (persons.tsv was truncated — the published GEDCOM was 60% of the tree)
+
+Found while scoping the divine-father sweep: `Q153726` Yahweh and `Q138545` Jesus were
+absent from `persons.tsv` while the edge between them sat in `edges.tsv`. Pulling that
+thread found the real defect.
+
+- **`persons.tsv` held 63,976 rows against a genealogy of 106,029.** `edges.tsv` —
+  committed beside it — referenced 101,990 distinct qids, 40,740 of them absent from the
+  roster, and 396 of the first 400 checked had good item files with real names. It is the
+  silent truncation of commit `91caa7f`: the extractor dies partway with no traceback and
+  `edges.tsv` is written **later in the same run**, so a committed pair can be a complete
+  edge list beside a short roster. That commit measured a correct file at 7.53 MB; the
+  committed one was 4.88 MB, the rebuilt one is 7.62 MB.
+
+- **It had already shipped.** `export_gedcom.py` filtered edges with
+  `if p in persons and c in persons` and dropped every missing person silently. The
+  published file said 63,976 individuals and I reported that as the whole genealogy.
+
+  | | before | after |
+  |---|---:|---:|
+  | individuals | 63,976 | **106,037** |
+  | families | 34,978 | **56,988** |
+  | size | 10.5 MB | 17.6 MB |
+
+- **`repair_persons_tsv.py`** reads only the missing qids — ~42k targeted reads, not the
+  164k walk that overheats this machine and crashes — and refuses to rename unless the
+  count rises, every existing row is byte-identical and every referenced qid is covered.
+  Checked afterwards as a set: **all 63,977 original lines survive**. The 4,637 deletions
+  git reports are reordering; the old file was not sorted by qid and this one is.
+
+- **Two rounds.** The first covered `edges.tsv` and left 1,325 people who appear only in
+  `spouses.tsv`, having neither parent nor child. A marriage is a relationship the export
+  carries, so they belong in the roster.
+
+- **The exporter no longer drops anyone silently.** A qid named by an edge but missing
+  from the roster still gets an `INDI`; the count prints as a warning and is reported as
+  `named`/`unnamed`. 733 people now export with an identifier and no name, which is honest
+  — the relationships around them are real even where the label is lost.
+
+- **`date_precision.tsv` was stale for the same reason** and is rebuilt: 20,141 → 29,217
+  rows. The corrected figure is worse than first measured — **60% of recorded births are
+  year-precision or coarser** (12,554 of 21,004), not "about a third". Rendering those from
+  the raw timestamp would have invented twelve thousand 1-January birthdays. The
+  `/gedcom/` page is corrected.
+
+- **The first repair run crashed at the final write** — `csv.writer` rejects
+  `quotechar=""` even under `QUOTE_NONE` — and cost nothing but time, because
+  temp-file-and-rename left `persons.tsv` untouched. That guard is the entire reason this
+  class of bug is catchable.
+
+- **8 qids remain unrecoverable**: referenced by `edges.tsv` or `spouses.tsv` with no item
+  file anywhere in the dump. Dangling endpoints, filed rather than papered over.
+
+- **The lesson:** I built a deliverable on a derived file the repo had already flagged as
+  untrustworthy, and did not check it. `91caa7f` says it outright — "nothing in the
+  toolchain checks that the extract completed". Now something does.
+
 ## 2026-08-07 (the divine-father ruling, and it reaches two records)
 
 Emma: *"Anyone with two fathers one divine one human we can honestly just remove the

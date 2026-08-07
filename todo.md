@@ -2,6 +2,27 @@
 
 ---
 
+## 🧹 Genealogy data hygiene — found 2026-08-07
+
+**1. 8 dangling edge endpoints.** These qids are referenced by `edges.tsv` or
+`spouses.tsv` and have **no item file anywhere in the dump**: `Q54196`, `Q74656`,
+`Q75282`, `Q78402` and four more surfaced by `repair_persons_tsv.py`. Either the edge is
+stale and should go, or the record was lost. Check before deleting either way.
+
+**2. persons.tsv may still be short of the true total.** Records with no parent, no child
+and no spouse appear in none of the three extracts, so `repair_persons_tsv.py` cannot see
+them. `items_index.txt` (164,544) minus `redirects.tsv` (57,440) suggests ~107,100 real
+qids against the repaired 106,029 — so perhaps a thousand isolated records are still
+missing. Closing that needs the real regeneration with the temp-file-and-rename guard that
+item 0a specifies, which is the CPU-heavy job.
+
+**3. `Q102772` Oliba Cabreta has duplicate fathers AND duplicate mothers** — `Q102765`
+"Miro II el Jove, comte de Cerdanya" and `Q111442` "Miró II of Cerdanya" are the same man;
+`Q101589` and `Q110870` are both Ava of Cerdanya. A dedupe. Surfaced accidentally by the
+divine-father name sweep, which matched Catalan *Jove* as Jupiter.
+
+---
+
 ## 🏛 The Lepidus unmerge — what is left after 2026-08-07
 
 `Q72786` is **Mamercus Aemilius Lepidus Livianus, consul 77 BC** (wd `Q721477`) — not a

@@ -69,6 +69,16 @@
       identifier travels alongside it in a <code>_WIKIDATA</code> tag.
     </p>
 
+    {% if gedcom_stats.unnamed %}
+    <h3>A few people have no name</h3>
+    <p>
+      {{ "{:,}".format(gedcom_stats.unnamed) }} individuals appear with an identifier but
+      no name. They are real people in the genealogy — someone's recorded parent, child or
+      spouse — whose own record carries no label. They are exported rather than dropped,
+      because the relationships around them are real even where the name is lost.
+    </p>
+    {% endif %}
+
     <h3>Deep time does not fit</h3>
     <p>
       GEDCOM years run from 1 to 9999. Aster, at the root, is dated thirteen billion years
@@ -82,9 +92,10 @@
     <p>
       A date known only to the year is written as a year, not as the 1 January its
       underlying timestamp happens to store. Decade and century precision is written with
-      <code>ABT</code>. This matters more than it sounds — about a third of the dated
-      records are year-precision, and rendering those as exact days would invent several
-      thousand birthdays that nothing in the sources claims.
+      <code>ABT</code>. This matters more than it sounds: <strong>60% of the recorded
+      births are known only to the year or coarser</strong> — 12,554 of 21,004 — so
+      rendering them from the raw timestamp would invent twelve thousand birthdays that
+      nothing in the sources claims.
     </p>
 
     <h3>Some people have more than one set of parents</h3>
