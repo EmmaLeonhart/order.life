@@ -161,6 +161,15 @@ def main():
             edge_qids.add(r["child"])
     print(f"edges.tsv references {len(edge_qids):,} distinct qids")
 
+    # spouses.tsv names people who may have neither parent nor child and so appear in no
+    # edge at all -- 1,325 of them after the first pass. A marriage is a relationship the
+    # GEDCOM exports, so they belong in the roster too.
+    with open(ANA / "spouses.tsv", encoding="utf-8", newline="") as f:
+        for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
+            edge_qids.add(r["a"])
+            edge_qids.add(r["b"])
+    print(f"with spouses.tsv: {len(edge_qids):,} distinct qids")
+
     missing = sorted(edge_qids - set(existing),
                      key=lambda q: int(q[1:]) if q[1:].isdigit() else 0)
     print(f"MISSING FROM persons.tsv: {len(missing):,}\n")
@@ -188,8 +197,17 @@ def main():
 
     print(f"\nrecovered {len(recovered):,} rows; {len(no_file):,} qids have no item file")
 
-    if len(recovered) < len(missing) * 0.8:
-        sys.exit("ABORT: fewer than 80% of the missing qids resolved -- run looks partial")
+    # A partial run must not masquerade as a complete one. But "missing and unreadable"
+    # is a real state -- 4 qids are referenced by edges.tsv and have no item file at all
+    # -- so the test is whether anything was silently skipped, not a blunt ratio.
+    unaccounted = len(missing) - len(recovered) - len(no_file)
+    if unaccounted:
+        sys.exit(f"ABORT: {unaccounted} qid(s) neither recovered nor accounted for")
+    if no_file and not recovered:
+        print(f"Nothing recoverable: all {len(no_file)} missing qids lack an item file.")
+        for q in no_file:
+            print(f"  {q}")
+        return 0
 
     merged = dict(existing)
     for r in recovered:
@@ -208,12 +226,14 @@ def main():
     if still - set(no_file):
         sys.exit(f"ABORT: {len(still - set(no_file))} edge qids still uncovered")
 
+    # Written by hand rather than with csv.writer: QUOTE_NONE still demands a real
+    # quotechar, and every field has already been through tsv_escape(), so a plain tab
+    # join is both correct and byte-for-byte what extract_genealogy.py emits.
     tmp = OUT.with_suffix(".tsv.tmp")
-    with open(tmp, "w", encoding="utf-8", newline="") as f:
-        w = csv.writer(f, delimiter="\t", quoting=csv.QUOTE_NONE,
-                       quotechar="", escapechar=None, lineterminator="\n")
-        w.writerow(HEADER)
-        w.writerows(ordered)
+    with open(tmp, "w", encoding="utf-8", newline="\n") as f:
+        f.write("\t".join(HEADER) + "\n")
+        for row in ordered:
+            f.write("\t".join(row) + "\n")
     tmp.replace(OUT)
 
     print(f"\nWrote {OUT}: {len(ordered):,} rows "
