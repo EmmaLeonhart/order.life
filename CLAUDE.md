@@ -62,7 +62,16 @@ So there are **exactly three cases** and they are not the same:
    it. **This is the case `Q72786` turns out to be** — Mamercus Aemilius Lepidus
    *Livianus* was born a Livius Drusus and adopted into the Aemilii Lepidi; the cognomen
    records the adoption. See `wikibase/analysis/lepidus_resolved.md`.
-3. **DIVINE FATHERS — a blessing, not a parent. Ignore them literally.** Zeus, Ares,
+3. **DIVINE FATHERS — a blessing, not a parent. REMOVE the link where a human father
+   survives.** Emma, 2026-08-07: *"Anyone with two fathers one divine one human we can
+   honestly just remove the divine father link."* Applied the same day — it reached
+   **exactly two records**, `Q74991` Abas (Poseidon, keeping Ixion) and `Q138545` Jesus
+   (Yahweh, keeping Joseph and Pantera). See `apply_divine_fathers.py`.
+   **The condition is load-bearing: only cut where a human father remains.** Romulus,
+   Remus, Perseus, Neleus, Circe and ~160 others have *only* a divine father, and cutting
+   those orphans them, so the rule does not reach them. Whether they should become
+   rootless is a separate question for Emma.
+   Beyond that pair, the old wording still governs: ignore them literally.** Zeus, Ares,
    Apollo and the like fathering Greco-Roman heroes, and the same shape in the Jesus
    material, are **not genealogical edges** in this project. Real descent runs through
    the human father. **Consequence for cycle repair: if a loop passes through a

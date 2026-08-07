@@ -1,3 +1,37 @@
+## 2026-08-07 (the divine-father ruling, and it reaches two records)
+
+Emma: *"Anyone with two fathers one divine one human we can honestly just remove the
+divine father link."* Then, on seeing the scoped list: *"I think it is just this one single
+guy with two fathers so just remove the divine lol."* She was right about the size.
+
+- **`apply_divine_fathers.py`, 7 files, two records.** `Q74991` Abas loses Poseidon and
+  keeps Ixion; `Q138545` Jesus loses Yahweh and keeps Joseph and Tiberius Julius Abdes
+  Pantera. Jesus is in because CLAUDE.md names that case in Emma's own words and two human
+  fathers survive the cut — **if "one single guy" meant Abas alone, the Jesus half is a
+  self-contained entry to revert.**
+
+- **The "human father must survive" condition is the whole safety rail.** Romulus, Remus,
+  Perseus, Neleus, Circe and ~160 more have *only* a divine father; cutting those orphans
+  them, so the rule does not reach them. It is also what protects the Greek backbone —
+  Ouranos, Kronos and Oceanus are gods too, and they are their children's only father.
+
+- **`find_divine_fathers.py` is a net, and its false positives are documented rather than
+  quietly dropped**: "Miro II el **Jove**" (Catalan *the Young*), a dozen Chinese names
+  containing **Pan**, "Aurelius **Hermes**" (a freedman), "Iago **Ares**" and "Gontrodo
+  **Sol** Rodriguez" (Galician and Spanish surnames), euhemerised Latin kings whose regnal
+  names contain a god, and "BUDHA (planet Mercury) Chandra" — Indian, and out of scope,
+  since Surya, Yama and Chandra are real ancestors in this project.
+
+- **A clean structural tell fell out of it: `P59` "Cladoplast of" marks the taxonomic
+  layer.** `Proteus`, `Proteus Ascidiacea` and `Helios` matched as gods and are clades;
+  Zeus, Poseidon and Hermes carry no `P59`. Worth reusing next time a name sweep is needed.
+
+- **Nothing was applied before the list was read.** The finder is read-only, and the two
+  survivors were each opened and checked first. No damage from the false positives.
+
+- Byproduct worth filing: **`Q102772` Oliba Cabreta has duplicate fathers AND duplicate
+  mothers** — Miro II twice, Ava twice. A dedupe, not a divine cut.
+
 ## 2026-08-07 (the Welsh ring — a date, not a pedigree)
 
 - **Tangle 6 is gone.** Item 9 had it as "the Esther shape, in Welsh": six of seven edges

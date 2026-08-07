@@ -132,10 +132,28 @@ def load():
         for row in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
             persons[row["qid"]] = row
 
+    # persons.tsv has been silently truncated before -- see commit 91caa7f and
+    # repair_persons_tsv.py. On 2026-08-07 it held 63,976 rows while edges.tsv referenced
+    # 101,990 qids, and this exporter quietly dropped the 40,740 difference: the published
+    # GEDCOM was missing 40% of the genealogy and said nothing.
+    #
+    # So never silently drop again. A qid named by an edge but absent from the roster
+    # still gets an INDI, with the qid standing in for the name, and the count is
+    # reported so a short roster is visible instead of invisible.
+    unknown = set()
+
+    def ensure(qid):
+        if qid not in persons:
+            unknown.add(qid)
+            persons[qid] = {"qid": qid, "label": "", "sex": "", "birth": "",
+                            "death": "", "gedcom": "", "wikidata_qid": "", "geni_id": ""}
+
     parents_of = defaultdict(list)
     with open(ANA / "edges.tsv", encoding="utf-8", newline="") as f:
         for row in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
             p, c = row["parent"], row["child"]
+            ensure(p)
+            ensure(c)
             if p in persons and c in persons and p != c:
                 parents_of[c].append(p)
 
@@ -143,8 +161,16 @@ def load():
     with open(ANA / "spouses.tsv", encoding="utf-8", newline="") as f:
         for row in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
             a, b = row["a"], row["b"]
+            ensure(a)
+            ensure(b)
             if a in persons and b in persons and a != b:
                 spouse_pairs.add(frozenset((a, b)))
+
+    if unknown:
+        print(f"  WARNING: {len(unknown):,} qid(s) are named by edges.tsv or spouses.tsv "
+              f"but absent from persons.tsv.")
+        print(f"  They are exported as unnamed individuals so no one is dropped. "
+              f"Run repair_persons_tsv.py to restore their names.")
 
     # Optional: written by extract_date_precision.py. Absent it, dates fall back to
     # whatever the timestamp shows, which over-asserts 1 January on year-precision rows.
@@ -204,6 +230,7 @@ def couples_for_child(parents, sex_of, spouse_pairs):
 
 def build_gedcom(out_path):
     persons, parents_of, spouse_pairs, precision = load()
+    named = sum(1 for r in persons.values() if (r.get("label") or r.get("gedcom")))
 
     sex_of = {}
     for qid, row in persons.items():
@@ -328,6 +355,8 @@ def build_gedcom(out_path):
 
     return {
         "individuals": n_indi,
+        "named": named,
+        "unnamed": n_indi - named,
         "families": len(fam_ids),
         "deep_time_dates": n_dates_noted,
         "bytes": out_path.stat().st_size,
