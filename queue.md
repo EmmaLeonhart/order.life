@@ -280,7 +280,7 @@ ruling from Emma or a source that is not Wikidata.
 | 5 | Gaius Servilius | 8 | 11 | a Servilian stemma, or Emma's step-4 collapse |
 | 6 | Joan ferch Ieuan ap Rhys | 7 | 9 | Bartrum's *Welsh Genealogies* |
 | 7 | Sekhemre Sankhtawy Neferhotep III | 6 | 8 | Turin King List / Ryholt |
-| 8 | Esther bat Sahlan ben Abraham | 2 | 12 | a source; cut once and reverted |
+| 8 | Esther bat Sahlan ben Abraham | 2 | 12 | **DONE 2026-08-07 — the 1037 ketubba, `apply_esther_generation.py`** |
 
 **Tangles 1, 2 and 4 were applied on 2026-08-07** — Emma: *"Apply them lol."* Three of the
 eight are off the table; the remaining five all want an external stemma, which is research
@@ -981,7 +981,33 @@ with AskUserQuestion instead of parking it here.**
    collapse the placeholder chain entirely under repair-order step 4, which is the one case
    in the queue where "nothing substantial above it" is literally true.
 
-12. **THE TWO ESTHERS — genuinely undecidable from the dump. NEEDS A SOURCE OR EMMA.**
+12. **✅ THE TWO ESTHERS — DONE 2026-08-07. The source arrived; it is reading B.**
+
+   > **`Abu 'Amr Sahlan ben Abraham` married `Esther, daughter of Joseph ben 'Amram, chief
+   > judge of Sijilmasa`. The ketubba survives, dated September 1037.** (Encyclopedia of
+   > Jews in the Islamic World, s.v. Sahlān b. Abraham.) So **reading B**: Esther *bat
+   > Yosef* married Sahlan, and their daughter is Esther *bat Sahlan*. Reading A — the one
+   > cut and reverted on 2026-08-01 — would marry Esther bat Sahlan to her own maternal
+   > grandfather.
+   >
+   > The dump corroborated it on its own: `Q90982` already carried `P42` = `Q91024`
+   > Sahlan, the attested marriage, and both already listed `Q88454` as their child. Every
+   > edge on the mother's side was right.
+   >
+   > **The defect was that `Q88454` held her mother's life on top of her own** — recorded
+   > as Yosef's wife and as her own mother's mother. A same-name collapse across two
+   > generations, which the papponymic naming is what made possible.
+   > `apply_esther_generation.py` removes the six false claims across 8 files (`Q88380` is
+   > a parallel import of `Q90982` and carried the same false mother; deduping the two is
+   > separate work and removes no loop). Esther bat Sahlan's own husband and the elder
+   > Esther's mother are both unrecorded and are left absent rather than guessed.
+   >
+   > **The lesson for the four remaining tangles: the queue called this "genuinely
+   > undecidable from the dump" and it was right — and it was decidable in two web
+   > searches.** Undecidable from the dump is not undecidable.
+
+   **The original analysis, kept because the reasoning about why the dump cannot settle it
+   is correct and still applies elsewhere:**
    `Q88454` "Esther bat Sahlan ben Abraham" and `Q90982` "Esther bat Yosef ben 'Amram
    haDayyan al-Sijilmasi" are recorded as **each other's mother**. One of the two edges is
    false. Both readings are naming-consistent:

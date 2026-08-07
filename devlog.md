@@ -2,6 +2,38 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-08-07 (the two Esthers, settled by a marriage contract from 1037)
+
+- **Tangle 8 is gone, and the thing it was waiting for took two web searches.** Item 12
+  had it filed as "genuinely undecidable from the dump", and about the dump it was right:
+  both readings are naming-consistent, each woman is correctly named for her own father
+  under either, and `fix_mutual_parent_pairs.py` finds spouse-coparent evidence on both
+  sides and refuses to act. A cut made under reading A on 2026-08-01 was reverted.
+
+- **The ketubba decides it.** Abu 'Amr Sahlan ben Abraham — payṭan, alluf, head of the
+  Iraqi congregation of Fustat 1034–1049/50 — married **Esther, daughter of Joseph ben
+  'Amram, chief judge of Sijilmasa**, and the marriage contract survives, dated
+  **September 1037** (Encyclopedia of Jews in the Islamic World, s.v. Sahlān b. Abraham).
+  That is reading **B**: Esther *bat Yosef* married Sahlan; their daughter is Esther *bat
+  Sahlan*. Reading A would have married Esther bat Sahlan to her own maternal grandfather.
+
+- **The dump corroborated it independently.** `Q90982` already carried `P42` = `Q91024`
+  Sahlan — the attested marriage — and both already listed `Q88454` as their child. Every
+  edge on the mother's side was already right, which is why the reverted cut felt wrong.
+
+- **The defect: `Q88454` was holding her mother's life on top of her own**, recorded as
+  Yosef ben 'Amram's wife and as her own mother's mother. A same-name collapse across two
+  generations — the papponymic naming that produced two Esthers is what made it possible,
+  and it is the same shape as Yama/Mrityu and Mamercus/Marcus. Six false claims removed
+  across 8 files. `Q88380` is a parallel import of `Q90982` and carried the same false
+  mother, so it was cleaned too; deduping the two is separate work and removes no loop.
+
+- Esther bat Sahlan's own husband and the elder Esther's mother are unrecorded anywhere
+  and were left absent rather than guessed.
+
+- **The lesson, and it points at the four tangles still standing: "undecidable from the
+  dump" is not "undecidable."** Three of them are waiting on a stemma that exists.
+
 ## 2026-08-07 (the Puranic ring was Yama, not Daksha — the split is reverted)
 
 Emma, looking at the split I had just applied: *"look up Daksha and figure out what is
