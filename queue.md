@@ -274,9 +274,9 @@ ruling from Emma or a source that is not Wikidata.
 | # | tangle | records | item | what it waits on |
 |---:|---|---:|---:|---|
 | 1 | Marcus Aemilius Lepidus | 15 | 1 | **RING CUT 2026-08-07.** The unmerge of couples B and C is still open — see item 1 |
-| 2 | Prachetas (10 sons) | 14 | 3 | **DONE 2026-08-07 — Daksha split, `apply_daksha_split.py`** |
+| 2 | Prachetas (10 sons) | 14 | 3 | **DONE 2026-08-07 — Sunitha's father, `apply_sunita_mrityu.py`. Not the Daksha split.** |
 | 3 | D. Ausindo Ximeno | 14 | 10 | a *Livro de Linhagens* stemma |
-| 4 | Aditi Kashyapa | 14 | 3 | **DONE 2026-08-07 — same split, second copy** |
+| 4 | Aditi Kashyapa | 14 | 3 | **DONE 2026-08-07 — same repair, second copy** |
 | 5 | Gaius Servilius | 8 | 11 | a Servilian stemma, or Emma's step-4 collapse |
 | 6 | Joan ferch Ieuan ap Rhys | 7 | 9 | Bartrum's *Welsh Genealogies* |
 | 7 | Sekhemre Sankhtawy Neferhotep III | 6 | 8 | Turin King List / Ryholt |
@@ -286,14 +286,36 @@ ruling from Emma or a source that is not Wikidata.
 eight are off the table; the remaining five all want an external stemma, which is research
 to go and do, not a question for Emma.
 
-**The queue's account of the Daksha split was wrong on one material point, and the
-correction is worth keeping.** Item 3 said `Q153390` carries two fathers, `Q49634` (first
-birth) and `Q1955` (rebirth), and directed the split to keep `Q49634` on Daksha I.
-**`Q49634.json` is a shadow file whose own `id` is `Q1955`** — byte-identical to it, and
-`redirects.tsv` maps one to the other. The "two fathers" were one man referenced twice,
-once directly and once through a redirect qid, so there was no first-life parentage to
-keep and Daksha I comes out with no recorded parents. **Check whether a second father is
-a redirect before reading it as a second parentage.**
+**⚠ THE DAKSHA SPLIT WAS APPLIED AND THEN REVERTED THE SAME DAY. Read this before ever
+re-proposing it.** Splitting Daksha did open both rings, and it was the wrong repair:
+
+- **The sixty daughters belong to the SECOND Daksha, not the first.** Aditi, Diti, Danu
+  and Kadru married to Kashyapa, the 27 nakshatras married to Chandra, the 10 married to
+  Dharmadeva — that whole set is canonically the issue of **Prachetasa Daksha by Asikni**.
+  The first Daksha, Brahma's son, married *Prasuti* and fathered *Sati*. The dump's 63
+  children are unmistakably the second set. The split moved them onto a first-birth Daksha
+  to open the ring, which is backwards, and only opened it *because* it was backwards.
+- **The real defect was one edge away.** `Q153444` "SUNITA Anga" had `Q2035` Yama as her
+  father. Sunitha, wife of Anga and mother of Vena, is the daughter of **Mrityu** — Death
+  personified, a separate figure from Yama Dharmaraja, carried separately on Wikidata as
+  `Q12735987`. Two death-figures conflated into one, the same shape as the Lepidus record.
+  Structurally it was the only edge joining the solar line to the Prithu line, and the
+  Prithu line descends from Svayambhuva Manu through Dhruva, not from Vaivasvata.
+- **`apply_sunita_mrityu.py` is the repair that stands.** Mrityu created in both copies,
+  Sunitha's parentage moved onto him, Shyamala (Yama's own wife) dropped as her mother
+  since she came with the same conflation. Both rings open; Daksha keeps his Prachetas
+  parentage and all sixty daughters; `Q153390` now reaches 142 real ancestors and
+  `Q160489` reaches 45, where before each reached only itself.
+
+**The general lesson, and it is `cycle_policy.md`'s own:** the split was reachable from the
+ring alone, and wrong. Opening a loop is not evidence of having found its defect. If the
+only way to open it is to move something that belongs where it is, the defect is elsewhere.
+
+**One narrower trap worth keeping.** Item 3 said `Q153390` carries two fathers, `Q49634`
+(first birth) and `Q1955` (rebirth). **`Q49634.json` is a shadow file whose own `id` is
+`Q1955`** — byte-identical, and `redirects.tsv` maps one to the other. The "two fathers"
+were one man referenced twice, once directly and once through a redirect qid. **Check
+whether a second father is a redirect before reading it as a second parentage.**
 
 **THIS TABLE'S "WAITING ON A RULING" FRAMING IS OUT OF DATE AS OF 2026-08-05.** Four
 rulings were obtained from Emma directly, in one round, by asking her (items 1, 2, 3, 16).
@@ -663,22 +685,25 @@ with AskUserQuestion instead of parking it here.**
    its "Licinius Varus" label once it is no longer Constantia's son. That is Gaiad material
    and naming, which is Emma's per the `Tros` precedent. **Do not guess it.**
 
-3. **✅ THE PURANIC REBIRTH OF DAKSHA — DONE 2026-08-07. Kept for the ruling and the
-   correction; delete once the naming below is settled.**
+3. **✅ THE PURANIC RING — DONE 2026-08-07, but NOT by splitting Daksha. Daksha was never
+   the defect. Read the ⚠ block in the tangle table above before touching this.**
 
-   > **APPLIED — `wiki-scripts/apply_daksha_split.py`, 12 files, both copies.** Daksha I
-   > keeps the qid (`Q153390`, `Q160489`), the spouse Asikni and every child; Daksha II is
-   > new (`Q200020`, `Q200021`), son of the Prachetas by Marisa, no children. Both rings
-   > open. **The labels are placeholders — "Daksha, son of the Prachetas" — and naming is
-   > Emma's.** That is the one thing left on this item.
+   > **THE REPAIR THAT STANDS: `wiki-scripts/apply_sunita_mrityu.py`, 10 files.**
+   > `Q153444`/`Q160640` "SUNITA Anga" had Yama as her father. Sunitha, wife of Anga and
+   > mother of Vena, is the daughter of **Mrityu** — a separate figure from Yama, on
+   > Wikidata as `Q12735987`. Mrityu created in both copies (`Q200020`, `Q200021`),
+   > Sunitha moved onto him, Shyamala dropped as her mother because she is *Yama's* wife
+   > and came with the same conflation. Both rings open; Daksha keeps everything.
    >
-   > **THE PROCEDURE BELOW WAS WRONG ON THE FATHERS, and the correction generalises.** It
-   > said `Q153390` carries two fathers, `Q49634` (first birth) and `Q1955` (rebirth), and
-   > to keep `Q49634` on Daksha I. **`Q49634.json` is a shadow whose own `id` is `Q1955`**
-   > — byte-identical, and `redirects.tsv` maps it across. One man, referenced twice. So
-   > no first-life parentage existed to keep, and Daksha I correctly ends with no recorded
-   > parents (Brahma is not wired to this block at all). **Before reading a second father
-   > as a second parentage, check whether it is a redirect qid.**
+   > **THE SPLIT BELOW WAS APPLIED AND REVERTED.** It opened the rings by moving the sixty
+   > daughters — Aditi, Diti, Danu, Kadru, the 27 nakshatras, the 10 Dharma wives — off
+   > the son of the Prachetas, who is canonically their father, onto a first-birth Daksha,
+   > who is not. Emma's ruling was sound and the execution was pointed at the wrong record.
+   >
+   > **Emma's ruling still governs any genuine rebirth ring**, and is worth keeping for
+   > the next one: the Gaiad's descent is linear, so a rebirth of the same character
+   > splits into two people. **But check first that the loop is actually a rebirth**, and
+   > not a conflation of two figures one edge away.
    >
    > **RULED BY EMMA 2026-08-05, asked directly: "Split Daksha into two records."**
    >

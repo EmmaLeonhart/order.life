@@ -4,29 +4,29 @@
  "labels": {
   "en": {
    "language": "en",
-   "value": "Daksha, son of the Prachetas"
+   "value": "Mrityu"
   }
  },
  "aliases": {
   "en": [
    {
     "language": "en",
-    "value": "Daksha II"
+    "value": "Mrtyu"
    },
    {
     "language": "en",
-    "value": "Prachetasa Daksha"
+    "value": "Death"
    },
    {
     "language": "en",
-    "value": "Daksha Prachetasa"
+    "value": "Mrityu, father of Sunitha"
    }
   ]
  },
  "descriptions": {
   "en": {
    "language": "en",
-   "value": "the second Daksha: born to the ten Prachetas by Marisa, split from the ancestor Daksha on 2026-08-07 so the Gaiad's descent stays linear. PLACEHOLDER LABEL -- naming is Emma's."
+   "value": "Death personified; father of Sunitha, wife of Anga and mother of Vena. Created 2026-08-07 to separate him from Yama, who had been carrying Sunitha's parentage. His own descent (Adharma, Himsa, Nikriti, Bhaya) is not in this dump."
   }
  },
  "claims": {
@@ -48,34 +48,30 @@
     "rank": "normal"
    }
   ],
-  "P47": [
+  "P61": [
    {
     "mainsnak": {
      "snaktype": "value",
-     "property": "P47",
+     "property": "P61",
      "datavalue": {
-      "value": {
-       "entity-type": "item",
-       "id": "Q160512",
-       "numeric-id": 160512
-      },
-      "type": "wikibase-entityid"
+      "value": "Q12735987",
+      "type": "string"
      }
     },
     "type": "statement",
     "rank": "normal"
    }
   ],
-  "P48": [
+  "P20": [
    {
     "mainsnak": {
      "snaktype": "value",
-     "property": "P48",
+     "property": "P20",
      "datavalue": {
       "value": {
        "entity-type": "item",
-       "id": "Q160511",
-       "numeric-id": 160511
+       "id": "Q160640",
+       "numeric-id": 160640
       },
       "type": "wikibase-entityid"
      }

@@ -2,6 +2,42 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-08-07 (the Puranic ring was Yama, not Daksha — the split is reverted)
+
+Emma, looking at the split I had just applied: *"look up Daksha and figure out what is
+going on it is probably like the lepidus one."* It was.
+
+- **The Daksha split is reverted.** It opened both rings, and it opened them by being
+  wrong. The sixty daughters — Aditi, Diti, Danu and Kadru married to Kashyapa, the 27
+  nakshatras married to Chandra, the 10 married to Dharmadeva — are canonically the issue
+  of **Prachetasa Daksha by Asikni**, the *second* Daksha. The first, Brahma's son,
+  married Prasuti and fathered Sati. The dump's 63 children are unmistakably the second
+  set, sitting exactly where they belong. The split moved them onto a first-birth Daksha
+  to break the loop, and that is the only reason it broke.
+
+- **The defect was one edge away, and it is a conflation of two figures — the Lepidus
+  shape.** `Q153444` "SUNITA Anga" carried `Q2035` **Yama** as her father. Wikipedia's
+  Prithu article states it flatly: *"Vena's mother was Sunitha, the daughter of
+  **Mrityu**."* Yama Dharmaraja, son of Surya and judge of the dead, and Mrityu, Death
+  personified of the Adharma line, are two figures endlessly merged because both mean
+  death. Wikidata carries Mrityu separately as `Q12735987`.
+
+- **The structure said so too.** Prithu's line descends from Svayambhuva Manu through
+  Dhruva; the solar line descends from Vaivasvata. `Yama → Sunita` was the *only* edge
+  joining them — a conflation, not a cross-tradition join, so cutting it severs nothing.
+
+- **`apply_sunita_mrityu.py`, 10 files, both copies.** Mrityu created (`Q200020`,
+  `Q200021`), Sunitha's parentage moved onto him, and Shyamala dropped as her mother —
+  Shyamala is *Yama's* wife and was Sunitha's mother only by way of the same conflation;
+  she has no parents of her own, so nothing upward is lost. The script walks the ring
+  afterwards rather than asserting: **both open**, and `Q153390` now reaches 142 real
+  ancestors and `Q160489` reaches 45, where each previously reached only itself.
+
+- **The lesson is `cycle_policy.md`'s own, learned the expensive way.** The split was
+  reachable from the ring alone and it was wrong. **Opening a loop is not evidence of
+  having found its defect.** If the only way to open it is to move something that belongs
+  where it is, the defect is elsewhere — go and find it.
+
 ## 2026-08-07 (three tangles applied — Emma: "Apply them lol")
 
 - **The two Daksha rings are split, in both copies — `apply_daksha_split.py`, 12 files.**
