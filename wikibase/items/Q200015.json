@@ -1,0 +1,122 @@
+{
+ "type": "item",
+ "id": "Q200015",
+ "labels": {
+  "en": {
+   "language": "en",
+   "value": "Dhanadeva, Lord of Kosala"
+  }
+ },
+ "aliases": {
+  "en": [
+   {
+    "language": "en",
+    "value": "Dhanadeva"
+   },
+   {
+    "language": "en",
+    "value": "Dhana"
+   },
+   {
+    "language": "en",
+    "value": "Dhanadeva of Ayodhya"
+   }
+  ]
+ },
+ "descriptions": {
+  "en": {
+   "language": "en",
+   "value": "king of Ayodhya, c. 110-55 BCE; the Ayodhya inscription's 'sixth of the Senapati Pushyamitra', who performed the Ashvamedha twice"
+  }
+ },
+ "claims": {
+  "P39": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P39",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153801",
+       "numeric-id": 153801
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   },
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P39",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153802",
+       "numeric-id": 153802
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P55": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P55",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153718",
+       "numeric-id": 153718
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P47": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q2117",
+       "numeric-id": 2117
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P20": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P20",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q200016",
+       "numeric-id": 200016
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ]
+ }
+}

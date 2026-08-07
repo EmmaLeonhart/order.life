@@ -2,6 +2,66 @@
 
 Dated log of autonomous work-loop progress. Newest first.
 
+## 2026-08-06 (the Indian line reaches living Koreans — item 0 closed)
+
+- **`Q51928` Heo Hwang-ok had no parents, and now descends from Rama.** She was the single
+  joint the whole Vedic and epic block needed in order to reach anyone alive, and she had
+  `P47` absent and `P48` absent. Two bridges closed it. Full narrative in
+  **`wikibase/analysis/heo_hwang_ok_attached.md`** — read that rather than the counts here,
+  because a reachability number is not a result.
+
+- **`add_bridge_edges.py junda-gaya-mother`** — `Q200014` **Modeok of Geumgwan Gaya**,
+  daughter of `Q15720` Jilji (d. 492), wife of Muryeong of Baekje, mother of `Q9935` Prince
+  Junda, who had a father and no mother. Emma authorised the invented name: *"just make one
+  please no need for a specific name. as long as it comes off as korean at the time."* It
+  follows the register of the Geumgwan Gaya queens in the Samguk Yusa — Mojeong, Hogu, Aji,
+  Jeongsin, Boksu, Indeok, Bangwon, Gyehwa — without colliding with any. Jilji is not a
+  choice so much as an arithmetic result: Junda is b. 480, so his mother is born around
+  460, and Jilji is the Gaya king of that generation descended from Heo Hwang-ok.
+
+- **`add_bridge_edges.py heo-hwang-ok-ayodhya`** — five records, `Q200015`–`Q200019`,
+  hanging a cadet Shunga branch off `Q2117` Ghosha that returns to Kosala and rules from
+  Ayodhya: Dhanadeva, Ajavarman, Sanghamitra, Vijayamitra, Satyamitra, and Satyamitra is
+  her father. Emma: *"connect Heo Hwang-ok into the line with generated minor noble lineage
+  connecting with our established people up to Rama."*
+
+- **Less was invented than the authorisation allowed, and the distinction is the point.**
+  The **names are attested** — P. L. Gupta counts fifteen kings ruling Ayodhya between 130
+  BCE and 158 CE whose coins survive, ten named, and Heo Hwang-ok's birth in 33 CE falls
+  inside that window. Coins give a king list and never a genealogy, so chaining them
+  father-to-son overwrites no attested parentage. The **filiations are the Gaiad's**.
+  And Ayuta is Ayodhya: the Samguk Yusa's own claim about her is the claim being built.
+
+- **The attachment point was picked by an inscription, not by convenience.** The Ayodhya
+  Inscription of Dhana calls him *"Lord of Kosala … the sixth of the Senapati Pushyamitra"*,
+  and six down the dump's own Shunga chain from the Pushyamitra slot lands exactly on a son
+  of Ghosha. **Two weaknesses in that, stated rather than glossed:** the dump's nine Shunga
+  "generations" cover 185–73 BCE at about twelve years each, so they are reigns recorded as
+  descent and the count is of records, not of people; and scholars split on whether *sixth*
+  means sixth son or sixth in descent, which moves Dhana by a century.
+
+- **No `P56`/`P57` on any of the five, deliberately.** Every generation is BCE and this dump
+  stores BCE positive, so `+0110` would read as 110 CE to every numeric comparison and add
+  five more records to item 0b's 11,833. The chronology went into the item **descriptions**.
+  Same call as Junda's birth date the day before, for the same reason.
+
+- **`add_bridge_edges.py` only ever wrote `P47`.** Writing a mother with it would have
+  recorded Modeok as her son's *father* — an edge that reads as perfectly correct in
+  `edges.tsv`. Edges now carry a role (`P47`/`P48`), with `spouses` and item `descriptions`
+  alongside; the seven older three-tuple bridges still normalise, checked across all eight.
+
+- **The Maurya/Shunga block is imported THREE times, not twice** — `Q2xxx`, `Q50xxx`,
+  `Q160xxx`. Item 0 recorded two. The bridge attaches to `Q2xxx`, the only copy with
+  Wikidata ids and dates and the survivor `queue.md` already names, so the pending dedupe
+  will not have to redo this edge. Filed as item 0d, along with `Q160916` Agnimitra's two
+  fathers.
+
+- **I stopped a `verify_repair.py` run mid-flight on purpose** — the snapshot predated both
+  bridges, so one run could cover them together. That left `persons.tsv` a truncated prefix,
+  which is item 0a's hazard exactly; it was restored from `HEAD` before anything read it.
+  Worth noting because the day before, an identical `Stop-Process` was misread as a crash
+  and filed as a blocker.
+
 ## 2026-08-06 (Junda's birth date — a precision bug, not a wrong year)
 
 - **`Q9935` Prince Junda was recorded born twelve years before his own father**, flagged

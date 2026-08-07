@@ -440,9 +440,204 @@ BRIDGES = {
                                  "1,282-record Kanmu block to Jimmu"),
         ],
     },
+    # 2026-08-06. queue.md item 0, PART B -- the mix itself. One woman, two edges, and it
+    # is the join the whole Korean/Japanese half of item 0 was built toward.
+    #
+    # WHAT EMMA ASKED FOR, 2026-08-05: "My plan was that the Korean lines mixed at some
+    # point earlier before Kammu's descent," and "Japan ought to have two ancestries."
+    # Part A (junda-yamato-fuhito) opened the channel -- Kanmu now descends from Muryeong
+    # of Baekje through his mother Takano no Niigasa. This adds the SECOND Korean house:
+    # Q9935 Prince Junda has a father (Q10437 Muryeong) and NO MOTHER. Give him a Gaya
+    # mother descended from Heo Hwang-ok and Kanmu inherits Baekje and Gaya at once.
+    #
+    # THE CHRONOLOGY PICKS THE RECORD. Junda is b. +0480 (corrected 2026-08-06 from a
+    # century-precision import artifact) and d. 513, so his mother is born around 460.
+    # Q15720 Jilji of Geumgwan Gaya d. 492 is exactly that generation and IS a descendant
+    # of Q51928 Heo Hwang-ok -- verified by walking edges.tsv, she is among Heo Hwang-ok's
+    # 46. Her father Q16457 Chwihui d. 451 and her son Q15253 Gyeomji reads b. 401 d. 521,
+    # a 120-year life, which is why Jilji is preferred over Gyeomji as queue.md says.
+    #
+    # THE NAME IS INVENTED AND EMMA AUTHORISED IT, 2026-08-06: "just make one please no
+    # need for a specific name. as long as it comes off as korean at the time." Modeok
+    # (모덕) follows the attested register of Geumgwan Gaya queens in the Samguk Yusa --
+    # Mojeong, Hogu, Aji, Jeongsin, Boksu, Indeok, Bangwon, Gyehwa -- two syllables,
+    # hanja-legible, and not colliding with any of them. She is a Gaiad construction, not
+    # an attested person; there is no Wikidata id and there should not be one.
+    #
+    # NO DATES, DELIBERATELY. ~460 is what the surrounding records imply, not what any
+    # source states, and writing it at year precision would be the exact mistake that put
+    # Junda's birth at 450 -- an inferred number wearing the costume of an attested one.
+    # The reasoning is recorded here and in the devlog, where it can be read.
+    #
+    # CANNOT CREATE A CYCLE, checked before writing: Q15720 is not among Q9935's 1,221
+    # descendants, and neither is any other Gaya record. The two sets are disjoint.
+    "junda-gaya-mother": {
+        "create": [
+            {
+                "qid": "Q200014",
+                "label": "Modeok of Geumgwan Gaya",
+                "aliases": ["Modeok", "Lady Modeok"],
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153719"]},
+                "note": "created 2026-08-06 for queue.md item 0 part B; an INVENTED "
+                        "daughter of Q15720 Jilji of Geumgwan Gaya, authorised by Emma "
+                        "2026-08-06, married to Muryeong of Baekje and mother of Prince "
+                        "Junda -- the node where the Gaya line of Heo Hwang-ok mixes into "
+                        "the Baekje line that Kanmu inherits. No wikidata id: she is not "
+                        "an attested person",
+            },
+        ],
+        "edges": [
+            ("Q15720", "Q200014", "P47", "Modeok is a daughter of Jilji of Geumgwan Gaya "
+                                         "(d. 492), the Gaya king of the right generation "
+                                         "and a descendant of Q51928 Heo Hwang-ok"),
+            ("Q200014", "Q9935", "P48", "Junda (b. 480, d. 513) had a father and no mother; "
+                                        "this is the Gaya mother that gives Kanmu his "
+                                        "second Korean ancestry"),
+        ],
+        "spouses": [
+            ("Q200014", "Q10437", "Modeok is the wife of Muryeong of Baekje, which is what "
+                                  "makes her Junda's mother rather than a bare edge"),
+        ],
+    },
+    # 2026-08-06. queue.md item 0, THE HEADLINE -- the Indian line reaching living Koreans.
+    # Emma, 2026-08-06: "connect Heo Hwang-ok into the line with generated minor noble
+    # lineage connecting with our established people up to Rama ... like Rama's known
+    # descendants at one point continue the generations to Heo Hwang-ok."
+    #
+    # THE STORY THE LINE TELLS, which is the only thing that makes it a result:
+    #
+    #   Aster -> Adam -> ... -> Ikshvaku -> Rama of Ayodhya -> Kusha -> the Kosala kings
+    #   -> the Magadha kings -> the Mauryas -> the Shungas -> GHOSHA (Shunga VII, r. 119
+    #   BCE) -> a cadet branch that stays in Kosala and rules from Ayodhya -> HEO HWANG-OK,
+    #   princess of Ayuta -> Suro of Geumgwan Gaya -> the Gaya and Silla kings -> the Kim
+    #   and Heo clans of Gimhae -> living Koreans; and through Q200014 Modeok -> Prince
+    #   Junda -> the Yamato no Fuhito -> Takano no Niigasa -> Emperor Kanmu -> Japan.
+    #
+    # Every record above Ghosha already exists and is already connected. Ghosha has 1,408
+    # ancestors and reaches Rama, Ikshvaku and Q1 Aster -- verified from edges.tsv, not
+    # assumed. The whole gap is the five records below.
+    #
+    # THE FIVE ARE NOT INVENTED FROM NOTHING, and this is the part worth knowing. Heo
+    # Hwang-ok's own tradition (Samguk Yusa) makes her a princess of **Ayuta**, the name
+    # Korean tradition identifies with **Ayodhya** -- that identification is the entire
+    # basis of the Gimhae Kim and Heo clans' claimed Indian origin. And Ayodhya really did
+    # have a dynasty in exactly her century: P. L. Gupta counts **fifteen kings ruling from
+    # Ayodhya between 130 BCE and 158 CE** whose coins survive, ten of them named --
+    # Muladeva, Vayudeva, Vishakhadeva, Dhanadeva, Ajavarman, Sanghamitra, Vijayamitra,
+    # Satyamitra, Devamitra, Aryamitra. Heo Hwang-ok's birth in 33 CE falls inside that
+    # window. So the NAMES are attested and the FILIATIONS are the Gaiad's construction:
+    # the coins give a king list, never a genealogy, so chaining them father-to-son
+    # contradicts no source. Nothing here overwrites an attested parentage.
+    #
+    # WHY GHOSHA IS THE ATTACHMENT POINT. The Ayodhya Inscription of Dhana calls its king
+    # "Dhana(deva), Lord of Kosala, son of Kausiki, **the sixth of the Senapati
+    # Pushyamitra**, who had performed the Ashvamedha twice". Counting six down the dump's
+    # own Shunga chain from the Pushyamitra slot -- Q2181 -> Q2175 Agnimitra -> Q2165
+    # Vasumitra -> Q2150 Bhadraka -> Q2134 Pulindaka -> Q2117 Ghosha -> [sixth] -- lands
+    # exactly on a son of Ghosha. So the inscription picks the attachment point for us, and
+    # the literal "sixth" reading dates Dhana to the early 1st century BCE, which is where
+    # a son of Ghosha (r. 119 BCE) sits. It is a cadet branch: the Shunga main line runs on
+    # to Bhagabhadra and Devabhuti and is untouched.
+    #
+    # STATED PLAINLY RATHER THAN GLOSSED: the dump's Shunga chain is a chain of REIGNS
+    # recorded as father-to-son, so its nine "generations" cover 185-73 BCE at about twelve
+    # years each, which is not how generations work. The count above is therefore a count
+    # of dump records, not of biological generations, and it agrees with the inscription
+    # only because both are counting successions. D. C. Sircar's palaeographic dating puts
+    # Dhana in the 1st century CE instead, which would make him a descendant rather than
+    # the sixth in line. Either reading leaves him a Shunga-descended king of Kosala; the
+    # earlier one is used here because it is the one the dump's own structure supports.
+    #
+    # WHICH COPY. The Maurya/Shunga block is imported THREE times -- Q2xxx, Q50xxx and
+    # Q160xxx are the same men (queue.md item 0 records two of the three; the Q50xxx copy
+    # is a third and is now logged). This attaches to the **Q2xxx** copy, which is the one
+    # carrying Wikidata ids and dates (Q2175 = wd Q24395, Q2074 = wd Q3878846), i.e. the
+    # copy queue.md already names as the survivor when the dedupe happens. The edge
+    # therefore survives that dedupe instead of being redone after it.
+    #
+    # NO P56/P57 DATES, DELIBERATELY. Every generation here is BCE, and this dump stores
+    # BCE with a POSITIVE sign (queue.md item 0b: 11,833 records carry one positive date
+    # and are invisible to the death<birth detector). Writing "+0110" for 110 BCE would add
+    # five more records to that pile and read as 110 CE to every numeric comparison in the
+    # toolchain. The chronology goes in the item descriptions, where it is readable and
+    # cannot be silently mis-compared.
+    #
+    # CANNOT CREATE A CYCLE, checked before writing: Heo Hwang-ok's descendant set is 1,269
+    # records (the Gaya/Kim block plus, since Modeok, the whole Kanmu block) and contains
+    # no Indian record at all -- not Ghosha, not Devabhuti, not Rama.
+    "heo-hwang-ok-ayodhya": {
+        "create": [
+            {
+                "qid": "Q200015",
+                "label": "Dhanadeva, Lord of Kosala",
+                "aliases": ["Dhanadeva", "Dhana", "Dhanadeva of Ayodhya"],
+                "desc": "king of Ayodhya, c. 110-55 BCE; the Ayodhya inscription's "
+                        "'sixth of the Senapati Pushyamitra', who performed the "
+                        "Ashvamedha twice",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-06 for queue.md item 0; attested by coins and by "
+                        "the Ayodhya Inscription of Dhana, wd Q48724349 (the inscription, "
+                        "not the man -- he has no Wikidata item). Cadet Shunga branch "
+                        "ruling Kosala from Ayodhya",
+            },
+            {
+                "qid": "Q200016",
+                "label": "Ajavarman of Ayodhya",
+                "aliases": ["Ajavarman"],
+                "desc": "king of Ayodhya, c. 85-30 BCE",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-06 for queue.md item 0; name attested on Ayodhya "
+                        "coinage (P. L. Gupta's fifteen kings, 130 BCE - 158 CE); the "
+                        "filiation is the Gaiad's",
+            },
+            {
+                "qid": "Q200017",
+                "label": "Sanghamitra of Ayodhya",
+                "aliases": ["Sanghamitra", "Samghamitra"],
+                "desc": "king of Ayodhya, c. 60-5 BCE",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-06 for queue.md item 0; name attested on Ayodhya "
+                        "coinage. NOT Ashoka's daughter Sanghamitta -- the Ayodhya coin "
+                        "king of this name is a different, male figure two centuries later",
+            },
+            {
+                "qid": "Q200018",
+                "label": "Vijayamitra of Ayodhya",
+                "aliases": ["Vijayamitra"],
+                "desc": "king of Ayodhya, c. 35 BCE - 20 CE",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-06 for queue.md item 0; name attested on Ayodhya "
+                        "coinage; the filiation is the Gaiad's",
+            },
+            {
+                "qid": "Q200019",
+                "label": "Satyamitra of Ayodhya",
+                "aliases": ["Satyamitra"],
+                "desc": "king of Ayodhya, c. 5 BCE - 50 CE; father of Heo Hwang-ok, "
+                        "princess of Ayuta",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-06 for queue.md item 0; name attested on Ayodhya "
+                        "coinage. He is the joint itself -- the last Indian generation "
+                        "before the voyage to Gaya in c. 48 CE",
+            },
+        ],
+        "edges": [
+            ("Q2117", "Q200015", "P47", "the Ayodhya inscription makes Dhana 'the sixth of "
+                                        "the Senapati Pushyamitra'; six down the dump's "
+                                        "own Shunga chain from the Pushyamitra slot Q2181 "
+                                        "is a son of Q2117 Ghosha"),
+            ("Q200015", "Q200016", "P47", "Ayodhya king list order, P. L. Gupta"),
+            ("Q200016", "Q200017", "P47", "Ayodhya king list order, P. L. Gupta"),
+            ("Q200017", "Q200018", "P47", "Ayodhya king list order, P. L. Gupta"),
+            ("Q200018", "Q200019", "P47", "Ayodhya king list order, P. L. Gupta"),
+            ("Q200019", "Q51928", "P47", "Heo Hwang-ok is a princess of Ayuta = Ayodhya in "
+                                         "the Samguk Yusa; this is the joint that carries "
+                                         "the Vedic and epic material into Korea and Japan"),
+        ],
+    },
 }
 
-FATHER, CHILD = "P47", "P20"
+FATHER, MOTHER, CHILD, SPOUSE = "P47", "P48", "P20", "P42"
 
 
 def load(qid):
@@ -486,6 +681,22 @@ def make_claim(pid, target):
     }
 
 
+def edges_of(spec):
+    """Normalise both edge shapes to (parent, child, role, why).
+
+    The original bridges wrote father-son chains only and are 3-tuples; the role slot was
+    added 2026-08-06 for the Gaya mother, where the downward claim on the child must be
+    P48 and not P47. Writing P47 there would record a woman as her son's father, which
+    extract_genealogy.py would happily turn into a correct-looking edge.
+    """
+    for e in spec["edges"]:
+        if len(e) == 4:
+            yield e
+        else:
+            parent, child, why = e
+            yield parent, child, FATHER, why
+
+
 def shadows_of(qid):
     """Every file whose internal id is qid but whose filename is not."""
     out = []
@@ -522,8 +733,12 @@ def main():
     for rec in spec["create"]:
         if load(rec["qid"]) is not None:
             problems.append(f"{rec['qid']} already exists -- refusing to overwrite it")
-    for parent, child, _why in spec["edges"]:
+    for parent, child, _role, _why in edges_of(spec):
         for q in (parent, child):
+            if load(q) is None and not any(r["qid"] == q for r in spec["create"]):
+                problems.append(f"{q} does not exist and is not being created")
+    for a, b, _why in spec.get("spouses", []):
+        for q in (a, b):
             if load(q) is None and not any(r["qid"] == q for r in spec["create"]):
                 problems.append(f"{q} does not exist and is not being created")
     if problems:
@@ -535,14 +750,21 @@ def main():
     for rec in spec["create"]:
         print(f"  CREATE {rec['qid']}  {rec['label']!r}")
         print(f"         {rec['note']}")
-    for parent, child, why in spec["edges"]:
+    for parent, child, role, why in edges_of(spec):
         pd, cd = load(parent), load(child)
         have_down = pd is not None and child in claim_ids(pd, CHILD)
-        have_up = cd is not None and parent in claim_ids(cd, FATHER)
+        have_up = cd is not None and parent in claim_ids(cd, role)
         state = ("already both directions" if (have_down and have_up)
                  else "parent side only" if have_down
                  else "child side only" if have_up else "new")
-        print(f"  EDGE   {parent} -> {child}   ({state})")
+        kind = "father" if role == FATHER else "mother"
+        print(f"  EDGE   {parent} -> {child}   ({kind}, {state})")
+        print(f"         {why}")
+    for a, b, why in spec.get("spouses", []):
+        ad, bd = load(a), load(b)
+        have = (ad is not None and b in claim_ids(ad, SPOUSE)
+                and bd is not None and a in claim_ids(bd, SPOUSE))
+        print(f"  SPOUSE {a} <-> {b}   ({'already both directions' if have else 'new'})")
         print(f"         {why}")
 
     if not write:
@@ -557,26 +779,42 @@ def main():
             "labels": {"en": {"language": "en", "value": rec["label"]}},
             "aliases": {"en": [{"language": "en", "value": a}
                                for a in rec.get("aliases", [])]},
-            "descriptions": {},
+            "descriptions": ({"en": {"language": "en", "value": rec["desc"]}}
+                             if rec.get("desc") else {}),
             "claims": {},
         }
+        # Non-genealogical item claims the surrounding records all carry -- P39 Person /
+        # Gaiad character, P55 Male or Female. The six records created 2026-08-05 got none
+        # of these and read as bare nodes next to their neighbours.
+        for pid, targets in (rec.get("props") or {}).items():
+            d["claims"][pid] = [make_claim(pid, t) for t in targets]
         save(rec["qid"], d)
         print(f"  created {rec['qid']}")
 
     touched = set()
-    for parent, child, _why in spec["edges"]:
+    for parent, child, role, _why in edges_of(spec):
         pd = load(parent)
         if child not in claim_ids(pd, CHILD):
             pd.setdefault("claims", {}).setdefault(CHILD, []).append(
                 make_claim(CHILD, child))
             save(parent, pd)
         cd = load(child)
-        if parent not in claim_ids(cd, FATHER):
-            cd.setdefault("claims", {}).setdefault(FATHER, []).append(
-                make_claim(FATHER, parent))
+        if parent not in claim_ids(cd, role):
+            cd.setdefault("claims", {}).setdefault(role, []).append(
+                make_claim(role, parent))
             save(child, cd)
         touched.update((parent, child))
-        print(f"  declared {parent} -> {child} on both sides")
+        print(f"  declared {parent} -> {child} on both sides ({role} + {CHILD})")
+
+    for a, b, _why in spec.get("spouses", []):
+        for x, y in ((a, b), (b, a)):
+            xd = load(x)
+            if y not in claim_ids(xd, SPOUSE):
+                xd.setdefault("claims", {}).setdefault(SPOUSE, []).append(
+                    make_claim(SPOUSE, y))
+                save(x, xd)
+        touched.update((a, b))
+        print(f"  declared {a} <-> {b} spouse on both sides")
 
     # Propagate to every file claiming a touched qid. None of these records has a shadow
     # today; that is a fact about the current dump, not a guarantee, so this runs anyway.
@@ -591,12 +829,16 @@ def main():
 
     print("\nverifying, from the files rather than from the plan...")
     ok = True
-    for parent, child, _why in spec["edges"]:
+    for parent, child, role, _why in edges_of(spec):
         pd, cd = load(parent), load(child)
         down = child in claim_ids(pd, CHILD)
-        up = parent in claim_ids(cd, FATHER)
+        up = parent in claim_ids(cd, role)
         if not (down and up):
             print(f"  FAIL {parent} -> {child}: parent-side={down} child-side={up}")
+            ok = False
+    for a, b, _why in spec.get("spouses", []):
+        if a not in claim_ids(load(b), SPOUSE) or b not in claim_ids(load(a), SPOUSE):
+            print(f"  FAIL spouse {a} <-> {b} is one-sided")
             ok = False
     for q in sorted(touched):
         final = load(q)

@@ -300,164 +300,35 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-0. **⭐⭐ THE KOREAN PRINCESS HAS NO PARENTS — the Indian line does not reach the modern
-   world. THIS IS THE TOP ITEM AND IT OUTRANKS EVERY TANGLE BELOW.**
+0d. **THE MAURYA/SHUNGA BLOCK IS IMPORTED THREE TIMES — dedupe it.**
 
-   **READ `wikibase/analysis/narrative_spine.md` FIRST.** It states what this genealogy is
-   for, in Emma's words, and this item is its worked example.
+   Found 2026-08-06 while attaching Heo Hwang-ok. `queue.md` item 0 recorded the block as
+   doubled; it is **tripled**. `Q2xxx`, `Q50xxx` and `Q160xxx` are the same men, each a
+   continuous father-to-son chain of roughly thirty records:
 
-   Emma described the line the Vedic material is supposed to travel:
+   | | `Q2xxx` (survivor) | `Q50xxx` | `Q160xxx` |
+   |---|---|---|---|
+   | Brihadratha Maurya | `Q2188` wd `Q24405` | `Q50792` | `Q160951` |
+   | Agnimitra | `Q2175` wd `Q24395` | `Q50725` | `Q160916` |
+   | Vasumitra | `Q2165` wd `Q24327` | `Q50681` | `Q160900` |
+   | Bhagabhadra | `Q2086` wd `Q854679` | `Q50412` | `Q160777` |
+   | Devabhuti | `Q2074` wd `Q3878846` | `Q50360` | `Q160757` |
 
-       Aster → Adam → the Proto-Indo-European and Dravidian ancestors → the Vedic figures
-       → the Mahabharata and Ramayana generations → HEO HWANG-OK, princess of Ayuta, who
-       sails to Korea → Suro of Geumgwan Gaya → the Gaya and Silla kings → the Kim clan
-       → living Koreans today
+   **`Q2xxx` is the survivor** — it is the only copy carrying Wikidata ids and dates. The
+   Ayodhya bridge (`heo-hwang-ok-ayodhya`) already attaches to it for exactly this reason,
+   so the dedupe will not disturb the Heo Hwang-ok line.
 
-   **The bottom end is the point of the line** — it is what connects the epic material to
-   **existing modern-day descendants**. `Q51928` Heo Hwang-ok is the single joint that
-   does it.
+   Same for the Ayutayus group named in the old item 0: `Q2299` / `Q51321` / `Q161228`
+   "AYUTAYUS of Magadha" and `Q29610` "Ayutayu Solar Dynasty".
 
-   **She has no parents. `P47`: absent. `P48`: absent.** Measured 2026-08-05.
+   **Not urgent and not blocking anything.** Use `merge_cluster.py`, which enforces the
+   merge-direction and whole-record rules; run `verify_repair.py` around it and expect
+   `compare_tangles` to move if any of these sit in a tangle — read the signature before
+   concluding anything.
 
-   | stage | state |
-   |---|---|
-   | Aster → Adam → Vedic → epic | **built** — Rama, Krishna, Arjuna, Bharata, Ikshvaku, Manu all inside Aster's descent |
-   | **`Q51928` Heo Hwang-ok** | **UNATTACHED — zero parents** |
-   | her → Gaya / Silla / Kim | **built** — 46 recorded descendants |
-   | those 46 → Aster | **zero of them reach it** |
-
-   **Emma flagged on 2026-08-05 that an earlier session glossed over this months ago, and
-   the reason it was glossable is the important part:** the record *exists*, is correctly
-   labelled, is correctly married to `Q51924` Suro, and has a working line of descendants
-   under it. "Is the Korean princess in the dump?" answers **yes**. Only "does the Indian
-   material actually reach her?" answers **no**. Her husband does not rescue it — Suro has
-   2 ancestors and does not reach Aster either.
-
-   **THE REPAIR IS ONE EDGE: give `Q51928` a father in the Ayodhya / Solar Dynasty line.**
-   47 records — her and her 46 descendants — then reach Aster *through the actual story*.
-
-   **RESEARCHED 2026-08-05. Emma's constraint, in her words:**
-
-   > *"What matters is the descent from Rama and the fact that it is Ayodhya-associated.
-   > It could potentially be through some sort of other lord of the dynasty, as long as
-   > the dynasty's descendant from Rama is somehow at one point. It could even not go
-   > through Ayodhya, as long as it has the Rama connection."*
-
-   > *"It would not be an existing one … it would basically have to go through a
-   > relatively long path of either relatively minor dependent nobles … which would either
-   > be fictitious or some other small line, chronologically important."*
-
-   **So the requirement is exactly one thing: descent from Rama. Ayodhya is preferred,
-   not required. An invented minor line is explicitly acceptable.**
-
-   **What the dump already has, measured 2026-08-05:** `Q28328` Rama has **4,114
-   descendants over 130 generations**, and the chain is continuous —
-   Kusha → the Kosala kings (58 records) → the Magadha kings (55 records: Bimbisara,
-   Ajatashatru, the Shishunagas, the Nandas) → the Mauryas (Ashoka, Kunala, Dasharatha,
-   Brihadratha) → **the Shungas, which carry real dates** → then Bakulapura, Kutai,
-   Tarumanagara, Galuh, Sunda, Medang, Majapahit and down into Javanese lines.
-
-   **The chronology Emma doubted does not exist at the top and is not needed.** `Q28328`
-   Rama, `Q1861` Krishna, `Q28982` Ikshvaku, `Q28469` Manu, `Q1888` Arjuna and `Q2076`
-   Bharata **carry no dates at all**, and `planning/gaiad-130-220/chronology.md` gives only
-   *composition* windows (Ramayana ~400 BCE–300 CE). But the line is dated from below:
-   the Shunga kings run **149–73 BC** at generations 71–78. Heo Hwang-ok is **b. 33, and
-   `planning/gaiad-130-220/heo-hwang-ok.md` puts her voyage at ~48 CE** — roughly three to
-   four generations below Devabhuti. **That is where she attaches.**
-
-   **The gap is real and is the writing task.** The attested Kosala/Ayodhya king list ends
-   around generation 53, centuries before her; below that the chain is Magadhan and then
-   Southeast Asian. So there is **no existing Ayodhya king at 48 CE to be her father** —
-   precisely what Emma predicted. **Construct the short line of minor Ayodhya-associated
-   nobles** bridging the end of the attested Solar line to her, landing at ~48 CE.
-
-   **This is Gaiad genealogy construction, not chapter generation** — and the Leo gate it
-   was once measured against was lifted by Emma on 2026-08-05 anyway. Emma, same day:
-   *"It's actually not chapter writing at all because I'm editing the existing chapters."* Naming is still Emma's per the `Tros` precedent — bring her *names to
-   approve*, not the question of whether to build it.
-
-   **Do this dedupe first or the join gets redone:** `Q2299` / `Q51321` / `Q161228`
-   "AYUTAYUS of Magadha" and `Q29610` "Ayutayu Solar Dynasty" are parallel imports of one
-   figure. **The whole Shunga block is doubled the same way** — `Q2175` Agnimitra (wd
-   `Q24395`, dated) against `Q160916` "King of Shunga II - Agnimitra (149141 BC)"
-   (undated, no id); likewise `Q2074`/`Q160757` Devabhuti and `Q2086`/`Q160777`
-   Bhagabhadra. Dedupe the dated, Wikidata-bearing copy as survivor.
-
-   **`planning/gaiad-130-220/heo-hwang-ok.md` is the brief and had never been read.** She
-   is "the one named Asian-to-Asian bridge" — a single node linking Indic, Korean **and
-   Japanese** material, with the still-living Gimhae Kim and Heo lineages named.
-
-   **THE JAPANESE LEG — searched 2026-08-05, see `wikibase/analysis/deleted_work_recovered.md`.**
-   Emma remembered doing "a lot of work on Jimmu ancestry" that "might be gone". It is not
-   gone and it is not the India bridge:
-
-   - **The Japanese import survived.** `57711c637` (2025-09-06, message `q`) deleted 319
-     files and 1.86M lines, all recoverable — including a 24,188-line Japanese GEDCOM→QID
-     mapping for a **24,158-person** import at Q16547+. That block is live in the dump.
-   - **`Q6432` Jimmu has 403 ancestors and reaches `Q1` Aster — through CHINA.** The route
-     is Jimmu → Ugayafukiaezu → Hoori → the *-no-Mikoto* chain → **Jī Yángchāng, King of
-     Yayoi** → the Kings of Wu → Zhou → the Yellow Emperor → Adam → Aster. That is the
-     **Wu-Taibo descent**, it is a real cross-tradition join, and it is intact.
-   - **The India link was never built.** Checked three ways: the Japanese mapping has zero
-     matches for heo/hwang/ayodhya/india/gaya/suro/silla/korea; `git grep` over the whole
-     deleted tree finds only unrelated Korean surnames; and Jimmu's ancestor set does not
-     contain `Q51928`. What exists is *intent* — the brief, and the chatlog phrase "Heo
-     Hwang-ok as the one Asian bridge".
-
-   **RULED BY EMMA 2026-08-05 — THE KOREAN LINES MIX IN KOREA, BEFORE KAMMU.** Her words:
-   *"Yes that's exactly it! I wanted it. My plan was that the Korean lines mixed at some
-   point earlier before Kammu's descent."* And: *"Japan ought to have two ancestries."*
-   She chose **both routes, cross-cutting** when asked.
-
-   **This collapses the whole thing to a very small build, because the mixing happens on
-   the Korean side and Japan then inherits everything through one existing channel.**
-
-   ```
-   Heo Hwang-ok (48 CE) → Gaya kings ────┐
-                                          ├─→ Prince Junda → [gap A] → Yamato no
-   Muryeong of Baekje ───────────────────┘      Ototsugu → Takano no Niigasa → KAMMU
-   ```
-
-   **B — THE MIX ITSELF. One woman, two edges.** `Q9935` Prince Junda has a father
-   (`Q10437` Muryeong) and **no mother**. Give him a Gaya mother descended from Heo
-   Hwang-ok and Kammu inherits both Korean houses at once.
-
-   **The chronology picks the record for us.** Junda d. 513; his mother is born ~460.
-   Among Heo Hwang-ok's Gaya-king descendants, **`Q15720` Jilji of Geumgwan Gaya (d. 492)**
-   is exactly that generation. So: create **a daughter of Jilji**, `P20` on Jilji naming
-   her, `P47` on her naming Jilji, `P20` on her naming Junda, `P48` on Junda naming her.
-   **Her name is Emma's** per the `Tros` precedent — draft and bring it, do not invent
-   silently. (Other Gaya kings and their dates are listed in
-   `wikibase/analysis/deleted_work_recovered.md`; Gyeomji `Q15253` reads b. 401 d. 521,
-   a 120-year life, so prefer Jilji.)
-
-   **A — DONE 2026-08-05.** `add_bridge_edges.py junda-yamato-fuhito`, all five
-   `verify_repair.py` gates green. The seven-generation Yamato no Fuhito descent is
-   researched from Wikidata and built: **Muryeong of Baekje → Prince Junda → Hoshikimi →
-   Osoriki no Kimi → Waunara → Waguri no Masaru → Wajosoku → Wamusuke → Yamato no
-   Ototsugu → Takano no Niigasa → Emperor Kanmu.** Six records created (`Q200004`–
-   `Q200009`), each attested on Wikidata. **Kanmu went from 23 ancestors to 56 and now
-   descends from the Baekje royal house** — Muryeong, Dongseong, Gonji, up to Dongmyeong
-   of Goguryeo and Hae Mo-su of Buyeo. The channel B and 0c flow through is open.
-
-
-   **Superseded below — kept only because it records the chronology that made the
-   direction obvious.**
-
-   **DIRECTION PROBLEM — RESOLVED ABOVE; this was the open question.** Traditional Jimmu is 660 BC;
-   Heo Hwang-ok is b. 33, voyage ~48 CE. **He is ~700 years older than she is**, so
-   "Jimmu's ancestry goes through her" would be the exact inversion class cut on
-   2026-08-02. Her own brief says the buildable thing instead: the bridge reaches Japan
-   *"through **later** descendants"* — i.e. Heo Hwang-ok → Gaya/Silla → the Kim clan → a
-   Korean-to-Japanese marriage some centuries on, joining Japan to India **below** Jimmu
-   and leaving Wu-Taibo untouched. Japan then carries two ancestries, Chinese and Indian,
-   which is what this project is for. **Do not build either version until she picks.**
-
-   Apply with an `add_bridge_edges.py`-style edit: `P47` on `Q51928` **and** `P20` on the
-   father, propagated to every shadow file, `shadow_audit.py` at 0.
-
-   **Report the result as "the Vedic line now reaches living Koreans", not as a delta in a
-   reachability count.** See the spine document for why that distinction is the whole job.
+   **One real defect is visible inside the block:** `Q160916` Agnimitra has **two fathers**,
+   `Q160932` Pushyamitra and `Q160933` Marhindi Maurya. Case 1 under `CLAUDE.md` — classify
+   before repairing, but it is probably an ordinary error.
 
 0c. **THE THREE REMAINING ROOTLESS JAPANESE RECORDS — examine and attach if the
    succession supplies a father.**
