@@ -277,7 +277,7 @@ ruling from Emma or a source that is not Wikidata.
 | 2 | Prachetas (10 sons) | 14 | 3 | **DONE 2026-08-07 — Sunitha's father, `apply_sunita_mrityu.py`. Not the Daksha split.** |
 | 3 | D. Ausindo Ximeno | 14 | 10 | a *Livro de Linhagens* stemma |
 | 4 | Aditi Kashyapa | 14 | 3 | **DONE 2026-08-07 — same repair, second copy** |
-| 5 | Gaius Servilius | 8 | 11 | a Servilian stemma, or Emma's step-4 collapse |
+| 5 | Gaius Servilius | 8 | 11 | **DONE 2026-08-07 - dated by the two exits, `apply_servilii_chain.py`** |
 | 6 | Joan ferch Ieuan ap Rhys | 7 | 9 | **DONE 2026-08-07 — Rhys Gryg d. 1234 dates it, `apply_lleucu_generation.py`** |
 | 7 | Sekhemre Sankhtawy Neferhotep III | 6 | 8 | **DONE 2026-08-07 — Queen Mentuhotep is a wife, `apply_mentuhotep_queen.py`** |
 | 8 | Esther bat Sahlan ben Abraham | 2 | 12 | **DONE 2026-08-07 — the 1037 ketubba, `apply_esther_generation.py`** |
@@ -976,7 +976,33 @@ with AskUserQuestion instead of parking it here.**
    Needs the *Livro de Linhagens do Conde D. Pedro*, or Braamcamp Freire's *Brasões da Sala
    de Sintra* — a real Portuguese stemma, not another pass over the dump.
 
-11. **THE EIGHT SERVILII — an eight-record ring with no evidence in it at all.**
+11. **✅ THE EIGHT SERVILII — DONE 2026-08-07. The evidence was never in the ring; it
+   was in the two branches leaving it.**
+
+   > **`apply_servilii_chain.py`, 12 files.** The false edge is `Q73332` → `Q73170`.
+   >
+   > **Both exits are externally datable, which is what makes the argument non-circular.**
+   > `Q73170` → `Q73008` → 5 generations → `Q71173` **P. Servilius Vatia Isauricus,
+   > b. 120 BC** (wd `Q392647`), so `Q73170` stands six generations above 120 BC: **c. 300
+   > BC**. `Q73910` → `Q78378` → 10 generations → `Q89776` **Claudia Acilia, b. AD 185**,
+   > so `Q73910` is eleven generations above that: **c. 145 BC**.
+   >
+   > The ring's long arc makes `Q73170` six generations *younger* than `Q73910` — c. AD 35
+   > against his own anchor of c. 300 BC, a **335-year contradiction**. Every edge in that
+   > arc is consistent with a chain descending from `Q73910`; only the last one collides
+   > with an externally dated record, asking a man of c. 90 BC to father one of c. 300 BC.
+   >
+   > **It cost nothing**: verified before writing that `Q73170`'s only ancestors were the
+   > other seven members and that the component does not reach Aster. What remains is the
+   > chain these eight placeholders were presumably built to be — Republican at the head,
+   > the Imperial branch hanging off the third link, nothing looping back.
+   >
+   > **NEEDS EMMA — where does the Servilian chain attach?** `Q73170` is now a root and the
+   > component still does not reach Aster. That is a question about the story, not the
+   > dump, and all eight records are invented connective tissue. Filed in `todo.md`.
+
+   **The original analysis, kept because its reasoning is sound and its conclusion — that
+   nothing *inside* the ring distinguishes the edges — is still true:**
    Tangle 8, investigated 2026-08-02 and **not** acted on.
 
    Eight records, each with exactly one father and one in-ring child, forming a closed

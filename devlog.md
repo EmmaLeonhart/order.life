@@ -1,3 +1,36 @@
+## 2026-08-07 (the eight Servilii — dated from outside the ring)
+
+- **Tangle 5 is gone.** Item 11 called it "an eight-record ring with no evidence in it at
+  all", and that was right about the ring — eight placeholder Servilii, no Wikidata id, no
+  date, no cognomen among them, six of eight edges indistinguishable. The evidence was
+  never going to be *inside* it. It was in the two branches that leave it.
+
+- **Only two members have a child outside the ring, and both lines are datable.**
+  `Q73170` → `Q73008` → 5 generations → **P. Servilius Vatia Isauricus, b. 120 BC**
+  (wd `Q392647`), putting `Q73170` six generations above that: **c. 300 BC**. `Q73910` →
+  `Q78378` → 10 generations → **Claudia Acilia, b. AD 185**, and on to the Anicii, putting
+  `Q73910` eleven generations above: **c. 145 BC**. Both anchors sit outside the ring, so
+  the argument does not feed on itself.
+
+- **The ring's long arc makes `Q73170` six generations younger than `Q73910`** — c. AD 35
+  against his own anchor of c. 300 BC. A 335-year contradiction. Every edge in that arc is
+  consistent with a chain descending from `Q73910`; only the last collides with an
+  externally dated record, asking a man of c. 90 BC to father one of c. 300 BC. So the cut
+  is `Q73332` → `Q73170`, and none of the other six had to be guessed between.
+
+- **It cost nothing.** The script refuses to run unless `Q73170`'s ancestry is confined to
+  the ring and does not reach Aster — checked against the dump, not taken from item 11. He
+  becomes a root, which is what an unattested placeholder at the head of a bridging chain
+  should be.
+
+- **Seven of eight tangles are now closed**, and the last four all fell to a lookup after
+  being filed as needing a source: a marriage contract from 1037, a queen's coffin, Rhys
+  Gryg's death in 1234, and now a pair of generation counts. **One left**: the Portuguese
+  D. Ausindo Ximeno ring, 14 records.
+
+- **NEEDS EMMA:** the Servilian component still reaches nothing above it and `Q73170` is
+  now its root. Where it attaches is a question about the story. Filed in `todo.md`.
+
 ## 2026-08-07 (persons.tsv was truncated — the published GEDCOM was 60% of the tree)
 
 Found while scoping the divine-father sweep: `Q153726` Yahweh and `Q138545` Jesus were

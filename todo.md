@@ -2,6 +2,27 @@
 
 ---
 
+## 🏺 Where do the Servilii attach? — NEEDS EMMA (2026-08-07)
+
+After `apply_servilii_chain.py` opened tangle 5, `Q73170` "Gaius Servilius" is the root of
+an eight-record placeholder chain bridging the Republican Servilii (down to P. Servilius
+Vatia Isauricus, 120–44 BC) to the Imperial ones (down through Claudia Acilia, AD 185, to
+the Anicii and Anicius Auchenius Bassus, 350–408). **The whole component reaches nothing
+above it — it does not reach Aster.**
+
+None of the eight carries a Wikidata id, a date or a cognomen, so there is no research
+answer to find: they are invented connective tissue. Where the Servilian gens should hang
+in the story is a narrative decision.
+
+Options, none of them researchable:
+  - attach `Q73170` to an existing Roman line that already reaches Aster;
+  - leave the component rootless — honest, but the Anicii and everyone below them then
+    reach Aster only through their mothers, if at all;
+  - collapse the eight placeholders and join the Republican and Imperial Servilii
+    directly, which is repair-order step 4 and loses the generational spacing.
+
+---
+
 ## 🧹 Genealogy data hygiene — found 2026-08-07
 
 **1. 8 dangling edge endpoints.** These qids are referenced by `edges.tsv` or
