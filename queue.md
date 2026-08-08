@@ -275,7 +275,7 @@ ruling from Emma or a source that is not Wikidata.
 |---:|---|---:|---:|---|
 | 1 | Mamercus Aemilius Lepidus Livianus | 15 | 1 | **RING CUT + biological father wired 2026-08-07.** Couples B and C moved to `todo.md` |
 | 2 | Prachetas (10 sons) | 14 | 3 | **DONE 2026-08-07 — Sunitha's father, `apply_sunita_mrityu.py`. Not the Daksha split.** |
-| 3 | D. Ausindo Ximeno | 14 | 10 | a *Livro de Linhagens* stemma |
+| 3 | D. Ausindo Ximeno | 14 | 10 | **DONE 2026-08-07 - Tereza Eriz belongs to Ero of Lugo, `apply_tereza_eriz.py`** |
 | 4 | Aditi Kashyapa | 14 | 3 | **DONE 2026-08-07 — same repair, second copy** |
 | 5 | Gaius Servilius | 8 | 11 | **DONE 2026-08-07 - dated by the two exits, `apply_servilii_chain.py`** |
 | 6 | Joan ferch Ieuan ap Rhys | 7 | 9 | **DONE 2026-08-07 — Rhys Gryg d. 1234 dates it, `apply_lleucu_generation.py`** |
@@ -940,7 +940,36 @@ with AskUserQuestion instead of parking it here.**
    cheap cut: `Q138061` → `Q138810` is free and dissolves the tangle, which says nothing
    about whether it is the true edge.
 
-10. **THE PORTUGUESE RING — four contradicted edges, not one. NEEDS A LINHAGENS SOURCE.**
+10. **✅ THE PORTUGUESE RING — DONE 2026-08-07. One of the four flags was real; the
+   other three were the toponymic looseness this item itself warned about.**
+
+   > **`apply_tereza_eriz.py`, 6 files.** The false edge is `Q79537` Estêvão Soares →
+   > `Q79618` Tereza **Eriz** de Lugo, and she is moved to the father her name gives her.
+   >
+   > **Three of the four flags were false alarms.** `Q79415` Soeiro Ausendes → `Q79435`
+   > Arnaldo **Ximenes** is *attested* — the Casa de Baião lineage has exactly that
+   > father and son, and Arnaldo died at **Las Navas de Tolosa, 16 July 1212**. So
+   > *Ximenes* is a house name here, not a patronymic, and the same objection to
+   > `Q113625` → `Q79388` falls with it — which is also chronologically sound, Teodoredo
+   > **b. 1078** in the dump against Ausindo Ximeno **b. 1115** in the Baião sources.
+   >
+   > **The fourth flag is real and chronology confirms it from outside the ring.** Tereza's
+   > descendants reach **D. Mem Viegas de Sousa, b. 1070** five generations down, placing
+   > her **c. 920** — exactly right for *Eriz de Lugo*, since **Ero Fernandez, count of
+   > Lugo, died c. 926**. Estêvão stands five generations below Arnaldo (d. 1212), so
+   > **c. 1325**. A gap of about 400 years.
+   >
+   > **Her real father was already in the dump.** `Q100140` Ero Fernandez de Lugo carries
+   > her name-siblings — Gudesindo **Eriz**, Ilduara **Eriz de Lugo** (mother of San
+   > Rosendo), Goto **Eriz**, Diego **Eriz**, Ermesenda **Eris de Lugo** — so this is a
+   > repointing, not a bare cut. Checked first: he is not among her 3,658 descendants.
+   >
+   > **Filed, not done:** `Q79618`, `Q100413` "Teresa Eriz" and `Q110516` "Teresa Eris de
+   > Lugo" (wd `Q110302349`) are three records for one woman. That dedupe removes no loop.
+
+   **The original analysis, kept because its caution was the thing that made this
+   solvable — it said the patronymic test carries less weight in Portuguese, and that is
+   precisely why three of its own four flags had to be discarded:**
    Tangle 4, fourteen records, investigated 2026-08-02 and **not** acted on.
 
    Portuguese patronymics work like the Welsh ones — *Ausendes* = son of Ausindo, *Soares*

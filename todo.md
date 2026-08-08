@@ -2,6 +2,21 @@
 
 ---
 
+## 👥 Teresa Eriz de Lugo is in the dump three times — dedupe (2026-08-07)
+
+`Q79618` "Tereza Eriz de Lugo", `Q100413` "Teresa Eriz" and `Q110516` "Teresa Eris de
+Lugo" (wd `Q110302349`) are one woman, daughter of Ero Fernández, count of Lugo (d. c.
+926). `Q79618` and `Q100413` both now hang off `Q100140`; `Q110516` hangs off the other
+Ero record, `Q111013` (wd `Q1028988`).
+
+So **Ero Fernández is himself duplicated** as `Q100140` and `Q111013`, which is the
+larger half of this. `Q100140` carries the Geni id for the count; `Q111013` carries the
+Wikidata id. Merging them is a dedupe, not a cycle repair — it removes no loop, and it
+touches a well-populated 10th-century Galician cluster, so do it deliberately rather than
+as a side effect of something else.
+
+---
+
 ## 🏺 Where do the Servilii attach? — NEEDS EMMA (2026-08-07)
 
 After `apply_servilii_chain.py` opened tangle 5, `Q73170` "Gaius Servilius" is the root of

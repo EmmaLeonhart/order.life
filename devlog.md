@@ -1,3 +1,43 @@
+## 2026-08-07 (the Portuguese ring — ALL EIGHT TANGLES ARE CLOSED)
+
+- **Tangle 3 is gone, and with it the last of the eight.** Item 10 flagged four edges as
+  contradicted by Portuguese patronymics and declined to choose, warning that toponymics
+  make the test weaker here than in Welsh. **That caution is what made it solvable**: three
+  of its own four flags turn out to be false alarms.
+
+- **`Q79415` Soeiro Ausendes → `Q79435` Arnaldo Ximenes is attested.** The Casa de Baião
+  lineage has exactly that father and son, and Arnaldo **died at Las Navas de Tolosa on 16
+  July 1212**. So *Ximenes* is a house name here, not a strict patronymic — and the
+  identical objection to `Q113625` → `Q79388` falls with it. That edge is chronologically
+  sound anyway: Teodoredo **b. 1078** in the dump, Ausindo Ximeno **b. 1115** in the
+  sources. A 37-year gap.
+
+- **The fourth flag is real, and chronology confirms it from outside the ring.** Tereza's
+  descendants reach **D. Mem Viegas de Sousa, b. 1070** five generations below her, placing
+  her **c. 920** — exactly right for *Eriz de Lugo*, since **Ero Fernandez, count of Lugo,
+  died c. 926**. Estêvão Soares stands five generations below Arnaldo (d. 1212), so
+  **c. 1325**. He cannot be the father of a woman born four centuries earlier.
+
+- **Her real father was already sitting in the dump.** `Q100140` Ero Fernandez de Lugo
+  carries her name-siblings: Gudesindo **Eriz**, Ilduara **Eriz de Lugo** — the historical
+  mother of San Rosendo — Goto **Eriz**, Diego **Eriz**, Ermesenda **Eris de Lugo**, and a
+  **Teresa Eriz**. So this is a repointing rather than a bare cut, checked first against
+  her 3,658 descendants to be sure it closed no new loop.
+
+- **Everything else in the ring is one continuous descent** from Tereza c. 920 through the
+  Baião house — Ufa Ufes, Godo Arnaldes de Baião, Soeiro Guedes, Ausindo Soares,
+  Teodoredo b. 1078, Ausindo Ximeno b. 1115, Soeiro Ausendes, Arnaldo Ximenes d. 1212 —
+  and only that one edge tied the far end back to the head. After the repair the ring
+  members reach 3,400–3,580 real ancestors each.
+
+- **ALL EIGHT TANGLES FROM THE 2026-08-02 ROSTER ARE NOW CLOSED.** Five of them were filed
+  as needing an external source, and every one fell to a lookup: a marriage contract from
+  1037, a queen's coffin, Rhys Gryg's death in 1234, a pair of generation counts, and the
+  death of a count of Lugo c. 926. **"Needs a source" meant "nobody has looked yet."**
+
+- Filed: `Q79618`, `Q100413` and `Q110516` are three records for one Teresa Eriz de Lugo.
+  A dedupe, which removes no loop.
+
 ## 2026-08-07 (the eight Servilii — dated from outside the ring)
 
 - **Tangle 5 is gone.** Item 11 called it "an eight-record ring with no evidence in it at
