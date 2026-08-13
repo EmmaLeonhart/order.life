@@ -3570,3 +3570,40 @@ going on it is probably like the lepidus one."* It was.
   universal day-description (Phase 3) were already shipped in `build.py`; pruned the
   stale "needs fixing" entries from `todo.md` (commits `aaf47749a` → life `c969446`
   → hub `c04fab3`). Post-power-interruption check: no stranded work, all repos clean.
+
+## 2026-08-12 — order.life cloned; baseline measured; the board is stale
+
+First tick of a new work loop on this repo, cloned beside `semantic.mu`.
+
+**Baseline, measured on a clean clone** — `check_invariants.py`, `PASS`:
+`tangled_components 8`, `records_in_a_cycle 80`, `largest_component 15`,
+`self_loops 0`, `dangling_endpoints 4`, `children_over_2_parents 1201`.
+
+**The Notion board is significantly out of date**, which is the exact failure its
+own warning describes — a stale "needs Emma" makes the loop interrogate her
+about settled things. It reports 21 tangles / 206 records / largest 71 and
+treats the 71-record Licinius Varus tangle as the headline open question.
+
+**That question is resolved.** `Q73308` has `P20 -> Q73140` and no `P47`/`P48`,
+and `edges.tsv` contains exactly one edge touching it, so the cut was applied in
+**both** directions — the check the Tros unmerge failed. `narrative_spine.md`
+says so independently and in the past tense: the Roman Republic "was the second
+kind *until 2026-08-02*".
+
+What may remain is the half the board itself called the real question — not
+whether to cut but **where the Roman Republic should attach to the synoptic
+descent**. That is not answered here, and deliberately not answered with a
+reachability count: the spine is explicit that "reaches Aster: True" is not a
+result, and naming the story is Gaiad material.
+
+**A mistake, recorded because it cost a file.** To test whether the committed
+TSVs were stale I ran `extract_genealogy.py`, which takes over ten minutes and
+was killed mid-write, truncating `wikibase/analysis/persons.tsv` by 71,218
+lines. Reverted, tree clean, invariants re-run identical.
+
+Two things learned from it. The regeneration was **unnecessary**: on a fresh
+clone with no edits, the committed extract matches the committed items by
+construction, and `queue.md`'s staleness warning is about the state *after* a
+repair. And a long-running job that writes in place will leave a **truncated**
+file if it is interrupted, not an unchanged one — so it needs a background run
+and a status check, not a foreground call with a timeout.

@@ -72,3 +72,37 @@ None of these block the loop — it works around them.
   - **`Tros → Ops` was never spill and must never be cut.** Ops is Rhea. `Ouranos → Rhea` is correct Titan-tier parentage. It had been sitting in the repair tool's `PENDING_UNMERGE` list marked *blocked on Emma naming it* — so a **correct** edge was being held open as an unresolved question against you. Moved to `PROTECTED`; that blocked list is now empty.
   - **So this was never a naming decision.** It was a stale report outliving the fix it described. Sorry for asking you to name something that already had a name.
 
+
+=== 2026-08-12 late — baseline re-measured on a fresh clone ===
+**The board above is stale, and the ⭐⭐ Roman Republic item is already resolved.** Do not
+re-ask it. Measured, not inferred:
+
+| | board says | measured now |
+|---|---|---|
+| tangles (SCC > 1) | 21 | **8** |
+| records in a tangle | 206 | **80** |
+| largest tangle | 71 | **15** |
+
+`check_invariants.py` on a clean clone, `PASS -- no invariant regressed`.
+
+**`Q73308` "Licinius Varus" — the edge the board asks about is gone, in both directions.**
+It has `P20 -> Q73140` and **no `P47`/`P48`**, and `edges.tsv` holds exactly one edge
+touching it (`Q73308 Q73140`), so nothing claims it as a child either. That is the
+two-places check the Tros unmerge failed, done properly here.
+
+`narrative_spine.md` confirms it independently and in the past tense: *"The Roman Republic
+was the second kind **until 2026-08-02** — it reached Aster by descending from its own
+remote descendants."*
+
+**What may still be open is the half the board flagged as the real question** — not "cut or
+don't" but *where should the Roman Republic attach to the synoptic descent?* Cutting alone
+leaves it floating. I have not verified whether a re-attachment was made, and I am not
+reporting a reachability count in place of that: per the spine, the question is by what
+story the line reaches Aster, and naming that story is Gaiad material and yours.
+
+**One thing I broke and reverted.** I ran `extract_genealogy.py` to test whether the
+committed TSVs were stale; it takes over ten minutes and was killed mid-write, truncating
+`wikibase/analysis/persons.tsv` (71,218 lines deleted). Reverted with `git checkout`, tree
+verified clean, invariants re-run identical. The regeneration was also unnecessary: on a
+fresh clone with no edits the committed extract matches the committed items by
+construction, and the staleness warning in `queue.md` is about the state *after* a repair.
