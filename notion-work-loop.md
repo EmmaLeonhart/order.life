@@ -106,3 +106,30 @@ committed TSVs were stale; it takes over ten minutes and was killed mid-write, t
 verified clean, invariants re-run identical. The regeneration was also unnecessary: on a
 fresh clone with no edits the committed extract matches the committed items by
 construction, and the staleness warning in `queue.md` is about the state *after* a repair.
+
+=== 2026-08-13 — CORRECTION: my own numbers above were stale too ===
+The table I posted last tick (8 tangles / 80 records) was **the 2026-08-06 state**, not
+current. I read it from `check_invariants.py`, which reads the derived TSVs, and those had
+not been regenerated since the 2026-08-07 repairs.
+
+**Regenerated. The real position:**
+
+| | board | my last entry (stale) | **actual** |
+|---|---|---|---|
+| tangles | 21 | 8 | **1** |
+| records in a tangle | 206 | 80 | **15** |
+| largest tangle | 71 | 15 | **15** |
+
+`PASS -- no invariant regressed; improved: tangled_components, children_over_2_parents`.
+
+**Seven of the eight tangles really are closed.** The 2026-08-07 commits did what they
+said; `edges.tsv` was last regenerated on 2026-08-06 in a commit titled *"changes before
+crash"*, so a day of finished work was invisible to every number anyone read afterwards —
+including mine.
+
+**One tangle remains: the 15-record Mamercus Aemilius Lepidus Livianus ring**, which is
+already item 1 and already yours — `Q72786` carries three father+mother couples with one
+father the son of another. Roman prosopography, not mine to guess.
+
+I am not reporting whether anything reaches Aster. The spine says that is not a result,
+and I have not established by what story any of these lines descends.

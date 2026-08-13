@@ -3607,3 +3607,50 @@ construction, and `queue.md`'s staleness warning is about the state *after* a
 repair. And a long-running job that writes in place will leave a **truncated**
 file if it is interrupted, not an unchanged one — so it needs a background run
 and a status check, not a foreground call with a timeout.
+
+## 2026-08-13 — The extract was a day stale; seven tangles were already closed
+
+`check_invariants.py` reads the derived TSVs, and those were last regenerated on
+2026-08-06 in a commit titled *"changes before crash"*. The genealogy repairs
+landed on 2026-08-07. So every number read from `wikibase/analysis/` since then
+described the state **before** eight commits of finished work — including the
+"baseline" I recorded last tick and posted to the board.
+
+**Settled by two `git log` dates**, not by re-running anything:
+
+```
+edges.tsv        last changed 2026-08-06
+wikibase/items   last changed 2026-08-07
+```
+
+That also explained why the ACTIVE table and the invariants agreed exactly (both
+summed to 80): they were not two measurements confirming each other, they were
+one snapshot read twice.
+
+**Regenerated, and the difference is large:**
+
+| | stale | actual |
+|---|---|---|
+| tangled_components | 8 | **1** |
+| records_in_a_cycle | 80 | **15** |
+| children_over_2_parents | 1201 | **1200** |
+
+`PASS -- no invariant regressed; improved: tangled_components,
+children_over_2_parents`. Seven of eight tangles closed; the survivor is the
+15-record Mamercus Aemilius Lepidus Livianus ring, which is item 1 and waits on
+Emma.
+
+**Two method notes worth keeping.**
+
+The decisive check was two `git log` dates — seconds, against the ten-minute job
+I had previously run and interrupted, truncating `persons.tsv`. Cheap evidence
+first.
+
+This time the regeneration ran in the **background**, because an interrupted
+in-place writer leaves a truncated file rather than an unchanged one. When the
+auto-flush tick fired mid-write it found `persons.tsv` at 38,829 of 106,030
+lines and **declined to commit** — a backstop exists to stop work being lost,
+not to publish a broken artifact.
+
+No genealogy data was edited. The only changes are the five regenerated derived
+extracts, which is the repair `queue.md` prescribes for exactly this.
