@@ -35,6 +35,21 @@ The rest stays open in queue.md rather than being guessed at here.
 
 Shadow-aware -- Q72615 is claimed by 5 files and Q72786 by 12, and editing the canonical
 file alone reverts the moment it stops being the numerically-lowest claimant. Idempotent.
+
+REDIRECT-AWARE, AND IT WAS NOT (fixed 2026-08-15)
+
+This script ran on 2026-08-07, printed "Verified", and left the edge alive. Q72786's P20
+did not spell the child "Q72615"; it spelled it "Q72693", the qid merged away into Q72615
+on 2026-07-31, which redirects.tsv still maps to it. drop_claim compared the raw id, so it
+matched nothing and removed nothing -- and then the verify block compared the raw id too,
+so it also saw nothing and reported success. Both halves were wrong in the same direction,
+which is why the failure was silent: extract_genealogy.py resolves redirects, so the edge
+reappeared in edges.tsv and the 15-record tangle never opened.
+
+The lesson is queue.md's own, one layer down: an edge lives in the child's P47/P48 AND the
+parent's P20, and either side may spell the other under any qid that redirects to it. So
+comparisons here resolve through redirects.tsv before matching. A vacated qid is not dead
+data -- it is a live alias.
 """
 
 import csv
@@ -64,7 +79,30 @@ def save(stem, data):
         json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
 
-def values(data, pid):
+_REDIRECTS = None
+
+
+def resolve(qid):
+    """Map a qid through redirects.tsv, the way extract_genealogy.py does.
+
+    Every comparison in this script goes through here. A claim naming a merged-away qid
+    is the same edge as one naming its survivor, because the extractor resolves it before
+    writing edges.tsv -- so a cut that matches only the survivor's spelling cuts nothing.
+    """
+    global _REDIRECTS
+    if _REDIRECTS is None:
+        _REDIRECTS = {}
+        with open(REDIRECTS, encoding="utf-8", newline="") as f:
+            for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
+                _REDIRECTS[r["from_qid"]] = r["to_qid"]
+    seen = set()
+    while qid in _REDIRECTS and qid not in seen:
+        seen.add(qid)
+        qid = _REDIRECTS[qid]
+    return qid
+
+
+def raw_values(data, pid):
     out = []
     for c in (data.get("claims") or {}).get(pid, []):
         v = ((c.get("mainsnak") or {}).get("datavalue") or {}).get("value")
@@ -73,13 +111,20 @@ def values(data, pid):
     return out
 
 
+def values(data, pid):
+    """Claim targets as the graph sees them -- resolved, so aliases cannot hide an edge."""
+    return [resolve(q) for q in raw_values(data, pid)]
+
+
 def drop_claim(data, pid, qid):
+    target = resolve(qid)
     claims = (data.get("claims") or {}).get(pid)
     if not claims:
         return 0
-    keep = [c for c in claims
-            if not (isinstance(((c.get("mainsnak") or {}).get("datavalue") or {}).get("value"), dict)
-                    and ((c["mainsnak"].get("datavalue") or {}).get("value") or {}).get("id") == qid)]
+    def points_at_target(c):
+        v = ((c.get("mainsnak") or {}).get("datavalue") or {}).get("value")
+        return isinstance(v, dict) and v.get("id") and resolve(v["id"]) == target
+    keep = [c for c in claims if not points_at_target(c)]
     removed = len(claims) - len(keep)
     if keep:
         data["claims"][pid] = keep

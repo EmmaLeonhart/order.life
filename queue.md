@@ -35,11 +35,21 @@
 > substantial win was the Adam→Genghis bridge: Genghis Khan went from 0 ancestors to 1,272
 > and now reaches Aster.
 >
-> **State at end of 2026-08-02, re-read from `check_invariants.py` after regenerating
-> `edges.tsv`: 8 tangles, 80 records trapped, largest tangle 15.** Every one of the 8 has a
-> section in `cycles_review.md` and a numbered item below; **none of the 8 is a two-line
-> edit waiting to be made.** They are the residue — each needs either a ruling from Emma or
-> an external stemma. See the roster under ACTIVE.
+> **STATE AS OF 2026-08-15: ZERO TANGLES. The loop-removal task this banner describes is
+> DONE.** `check_invariants.py` on a freshly regenerated extract: `tangled_components 0`,
+> `records_in_a_cycle 0`, `self_loops 0`. It ran from 34 tangles / 283 records trapped at
+> the 2026-08-01 handoff to nothing.
+>
+> **Keep reading the banner anyway** — every warning in it is about *method*, and the
+> method is why the last one took eight days to actually land. The 2026-08-07 Lepidus cut
+> reported "Verified" and removed nothing; see item 1. Point 4 below ("I never once looked
+> a person up on Wikidata") is the one that closed most of these.
+>
+> *Superseded, kept for the shape of the climb: at end of 2026-08-02 this read 8 tangles,
+> 80 records trapped, largest 15 — with a note that none of the 8 was "a two-line edit
+> waiting to be made" and each needed a ruling from Emma or an external stemma. Seven were
+> closed on 2026-08-07 by going and finding the stemma, and the eighth by fixing a script
+> that was comparing the wrong string. **None of them needed a ruling from Emma.***
 >
 > **2026-08-05 — FOUR OF THOSE RULINGS NOW EXIST. Emma was simply asked, in one round,
 > and answered all four.** Items 1, 2, 3 and 16 are no longer open questions:
@@ -265,15 +275,24 @@ central command.
   `GENEALOGY_QA.md` and `qa_cycles_proposed.tsv` counted loops, with an enumerator that was
   never stable. Do not present tangle counts under the word "cycles" without saying so.
 
-### THE 8 REMAINING TANGLES, AND WHICH ITEM EACH IS (2026-08-02, 80 records)
+### THE TANGLE TABLE — ALL EIGHT ARE NOW CLOSED (last one 2026-08-15, 0 records trapped)
 
-Re-read from `cycles_review.md` after regenerating `edges.tsv`. **Every one is already
-diagnosed and written up below.** None is waiting on analysis; each is waiting on either a
-ruling from Emma or a source that is not Wikidata.
+**`tangled_components` is 0. There is no ancestry cycle left in this dump.** Measured by
+`check_invariants.py` on a freshly regenerated extract, 2026-08-15, and cross-checked by
+`compare_tangles.py` reporting 1 → 0 with **0 records newly inside a tangle**.
+
+**This does not mean the genealogy is correct — it means it is acyclic.** The open work is
+now about lines attached through the *wrong story* rather than lines that loop, and
+`narrative_spine.md` is explicit that the second kind is worse: a severed line is one
+honest edge from correct, a wrongly-attached one is already wrong while measuring fine.
+Item 2 (`Q73308`) is exactly that kind and is unaffected by any of this.
+
+The table below is kept as the record of how each was closed. Re-read the live numbers
+from `check_invariants.py`, never from this file.
 
 | # | tangle | records | item | what it waits on |
 |---:|---|---:|---:|---|
-| 1 | Mamercus Aemilius Lepidus Livianus | 15 | 1 | **RING CUT + biological father wired 2026-08-07.** Couples B and C moved to `todo.md` |
+| 1 | Mamercus Aemilius Lepidus Livianus | 15 | 1 | **RING ACTUALLY CUT 2026-08-15.** The 2026-08-07 cut reported success and removed nothing — see below. Couples B and C are in `todo.md` |
 | 2 | Prachetas (10 sons) | 14 | 3 | **DONE 2026-08-07 — Sunitha's father, `apply_sunita_mrityu.py`. Not the Daksha split.** |
 | 3 | D. Ausindo Ximeno | 14 | 10 | **DONE 2026-08-07 - Tereza Eriz belongs to Ero of Lugo, `apply_tereza_eriz.py`** |
 | 4 | Aditi Kashyapa | 14 | 3 | **DONE 2026-08-07 — same repair, second copy** |
@@ -466,11 +485,59 @@ with AskUserQuestion instead of parking it here.**
 
 1. **UNMERGE `Q72786` "Marcus Aemilius Lepidus" — the ring is CUT, the unmerge is not.**
 
-   > **THE RING IS OPEN AS OF 2026-08-07 — `wiki-scripts/apply_lepidus_cut.py`.** The
-   > false `Q72786` → `Q72615` Quintus edge is gone from both sides and from all 17 files
-   > claiming the two qids; Quintus's father is now `Q144279` alone, which the dump
+   > **THE RING IS OPEN AS OF 2026-08-15. It was NOT open on 2026-08-07, although the
+   > script said so — read this before trusting any "Verified" line in this repo.**
+   >
+   > `apply_lepidus_cut.py` ran on 2026-08-07, printed *"Verified: Q72615's father is
+   > Q144279 alone, on both sides of the edge"*, and removed nothing on the parent side.
+   > `Q72786.json`'s `P20` did not spell the child `Q72615`. It spelled it **`Q72693`** —
+   > the qid merged away into `Q72615` on 2026-07-31, which `redirects.tsv` still maps
+   > across. The script matched raw qids, so the drop matched nothing; then its verify
+   > block matched raw qids too, so it saw nothing left and declared success. **Both
+   > halves were wrong in the same direction, which is exactly why it was silent** —
+   > `extract_genealogy.py` resolves redirects, so the edge came straight back into
+   > `edges.tsv` and the 15-record tangle never opened. It sat that way for eight days,
+   > with `queue.md` and `devlog.md` both recording it as done.
+   >
+   > **The generalisation, and it is a new one for this repo:** the standing rule is that
+   > an edge lives in TWO places, the child's `P47`/`P48` and the parent's `P20`. One
+   > layer down, **either side may spell the other under any qid that redirects to it.** A
+   > vacated qid is not dead data, it is a live alias. Any script that adds, drops or
+   > checks an edge must resolve through `redirects.tsv` before matching.
+   > `apply_lepidus_cut.py` now does; **the other `apply_*.py` scripts have NOT been
+   > audited for it** — that is item 1b below.
+   >
+   > Fixed and applied 2026-08-15: 17 files written, the residual claim removed from all
+   > 12 files claiming `Q72786`. Quintus's father is `Q144279` alone, which the dump
    > already recorded and Wikidata confirms (`Q3625112` lists exactly two children,
-   > `Q3622705` and `Q11944252` Quintus). Tangle 1 no longer closes.
+   > `Q3622705` and `Q11944252` Quintus).
+   >
+   > **Measured after: `tangled_components` 1 → 0. The dump now holds no ancestry cycle at
+   > all.** `records_in_a_cycle` 15 → 0, `children_over_2_parents` 1200 → 1199 — that last
+   > one is independent confirmation the edge was live, because `Q72615` had three parents
+   > until this commit and the third arrived through the `Q72693` alias.
+   >
+   > **`compare_depth` FAILS on this repair and the failure is correct to accept.** Read
+   > the signature before repeating this reasoning anywhere else: all 15 members had
+   > *identical* ancestor counts before, 912 each, which is what an SCC looks like — every
+   > member reached all the others. Afterwards they hold distinct chain-appropriate counts,
+   > 819–911, and the worst loss is exactly **−14 = 15 − 1**, the members no longer
+   > counting as each other's ancestors. **Nothing was severed: descendants of `Q1` Aster
+   > are 47,837 before and 47,837 after, and zero records lost their route.** Compare the
+   > real amputation this gate exists to catch — the reverted 2026-07-31 cut took Scipio
+   > Africanus from 267 ancestors to 4; here he goes 912 → 837 and still reaches Aster.
+   > **`--max-loss` was NOT lowered.**
+   >
+   > **The story the line now tells** — the part that actually justifies it, per
+   > `narrative_spine.md`. `Q72434` M. Aemilius Lepidus (cos. 78 BC) traces up through his
+   > own gens and no one else's: `Q72615` Quintus → `Q144279` M. Aemilius Lepidus (tr. mil.
+   > 190 BC) → `Q148210` → `Q73557` M. Aemilius Lepidus (cos. 285 BC) → `Q73671` M.
+   > Aemilius **Barbula** (dictator 292–285 BC) → `Q73776` Q. Aemilius Barbula (cos. 317 &
+   > 311 BC) → `Q73881` L. Aemilius **Mamercinus** (cos. 366 & 363 BC) → the Aemilii
+   > Mamercini. A continuous patrician line in chronological order, every link a father.
+   > What it stopped doing is reaching Aster by descending from the Cornelii Scipiones
+   > through `Q72786`, a route Wikidata refutes. **That is a false descent removed, not an
+   > ancestry lost.** The Scipiones keep their own line and reach Aster on their own terms.
    >
    > **WHAT IS STILL OPEN, and it is the unmerge proper:** `Q72786` still carries three
    > father+mother couples. Couple A is settled — it belongs to Mamercus, and his
@@ -565,6 +632,61 @@ with AskUserQuestion instead of parking it here.**
    Cornelia is a merge of two women, or whether `Q72957 → Q72801` is simply wrong. Also
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
+
+1b. **AUDIT EVERY `apply_*.py` AND `cut_edges.py` FOR THE REDIRECT-ALIAS BUG. This is the
+   generalisation of what went wrong above, and it is the top item.**
+
+   The 2026-08-07 Lepidus cut removed nothing and said it had, because it matched raw qids
+   while the data spelled the same person under a merged-away qid. **57,440 silent
+   redirects exist in this dump** (extractor output, 2026-08-15), so any of them can hide
+   an edge from a script that does not resolve.
+
+   **The failure mode is the dangerous one:** the drop silently matches nothing, and the
+   verify block — written with the same raw comparison — silently confirms it. The script
+   exits 0 and prints "Verified". This is the same shape as the vacuous I2 check recorded
+   further down this file: **a gate that cannot fail.** Two of them in this repo now.
+
+   **Bounded and mechanical.** For each of `apply_cato_cluster_merge.py`,
+   `apply_divine_fathers.py`, `apply_dup_merge.py`, `apply_esther_generation.py`,
+   `apply_lleucu_generation.py`, `apply_mamercus_biological_father.py`,
+   `apply_mentuhotep_queen.py`, `apply_roman_unmerge.py`, `apply_servilii_chain.py`,
+   `apply_sunita_mrityu.py`, `apply_tereza_eriz.py`, `apply_tros_unmerge.py`,
+   `add_bridge_edges.py`, `cut_edges.py`, `merge_cluster.py`: does it compare a claim's
+   target qid to a constant with `==` or `in`, without resolving through `redirects.tsv`
+   first? If so it can silently no-op. Copy the `resolve()` helper now in
+   `apply_lepidus_cut.py`.
+
+   **Then re-check that each declared repair actually landed.** `verify_cuts_landed.py`
+   reads `edges.tsv`, which is post-resolution, so it is already immune and currently
+   passes on 35 declared cuts across 22 cut sets — that is real evidence, and it means the
+   *cut* scripts are probably fine. **The exposure is the scripts that edit item files
+   directly**, where a no-op leaves the dump unchanged and the log saying otherwise.
+
+   Cheap first pass: `grep -n 'values(\|== *"Q\|in fathers\|in children' wiki-scripts/apply_*.py`.
+   No dump rescan needed to *find* the bug — only to verify a repair once one is made.
+
+1c. **REPOINT THE 6 REMAINING FILES THAT SPELL THE VACATED QID `Q72693`. Graph-neutral,
+   bounded, and it removes a false two-father reading.**
+
+   Found 2026-08-15 by grepping the item files while the extract ran. All six resolve
+   correctly today, so **the graph is right and only the records are untidy** — but
+   `merge_cluster.py`'s own rule is that after a merge **no file may still claim the
+   loser's qid**, because vacating a qid some file still claims lets that file win it and
+   inject its claims. That is what produced the phantom Cato 2-cycle.
+
+   | file | its `id` | what it says |
+   |---|---|---|
+   | `Q144279.json` | `Q144279` | `P20` child `Q72693`, `Q73011` — the **true** father edge, dead spelling |
+   | `Q72434.json`, `Q72514.json`, `Q87226.json`, `Q87280.json`, `Q185444.json` | all `Q72434` | `P47` father `Q72615` **and** `Q72693` — one man listed twice |
+
+   So `Q72434` reads as a two-father record while having exactly one father. Under
+   `CLAUDE.md` that is not case 1, 2 or 3 — it is not a parentage claim at all, it is one
+   claim written twice. Repoint `Q72693` → `Q72615` and deduplicate; expect **no change to
+   `edges.tsv`** and `children_over_2_parents` to fall by 1.
+
+   **A trap worth keeping:** `Q72514.json` has `id` `Q72434`, while `Q72514` is separately
+   the qid of `Q73893`'s father. **The filename is not the record.** Checking this by
+   filename would have found a second father for Quintus that does not exist.
 
 2. **`Q73308` NEEDS A FATHER. One man, one edge.**
 

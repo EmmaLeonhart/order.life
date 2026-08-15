@@ -3654,3 +3654,97 @@ not to publish a broken artifact.
 
 No genealogy data was edited. The only changes are the five regenerated derived
 extracts, which is the repair `queue.md` prescribes for exactly this.
+
+## 2026-08-15 — The last tangle: a cut that reported success and removed nothing
+
+`check_invariants.py` said 1 tangle, 15 records — the Aemilii Lepidi ↔ Cornelii
+Scipiones ring. `queue.md` and this devlog both recorded that ring as cut on
+2026-08-07. It was not, and how it hid is the useful part.
+
+`apply_lepidus_cut.py` removes the false `Q72786 → Q72615` edge. But
+`Q72786.json`'s `P20` never spelled the child `Q72615`. It spelled it
+**`Q72693`** — the qid merged away into `Q72615` on 2026-07-31, which
+`redirects.tsv` still maps across. The drop compared raw qids, matched nothing,
+removed nothing. Then the verify block compared raw qids too, saw nothing left
+to complain about, and printed *"Verified: Q72615's father is Q144279 alone, on
+both sides of the edge."*
+
+**Both halves were wrong in the same direction.** That is the whole mechanism:
+a check written from the same mistaken premise as the operation it checks cannot
+catch it. `extract_genealogy.py` resolves redirects, so the edge was back in
+`edges.tsv` on the next regeneration, and eight days of documentation described
+a repair that had not happened.
+
+This repo has now produced two gates that could not fail — the vacuous I2
+self-loop check, and this. Both were found by measuring the thing itself rather
+than reading the gate's output.
+
+**The generalisation, which is new and belongs in every edge-editing script:**
+the standing rule is that an edge lives in two places, the child's `P47`/`P48`
+and the parent's `P20`. One layer down, either side may spell the other under
+**any qid that redirects to it**. There are 57,440 silent redirects in this
+dump. A vacated qid is not dead data, it is a live alias.
+
+`apply_lepidus_cut.py` now resolves through `redirects.tsv` before matching, in
+both the drop and the verify. Re-run: 17 files written, the residual claim gone
+from all 12 files claiming `Q72786`. The other `apply_*.py` scripts have **not**
+been audited for the same bug — filed as item 1b, and it is now the top item.
+
+**Result: `tangled_components` 1 → 0. This dump no longer contains an ancestry
+cycle.** `records_in_a_cycle` 15 → 0. `children_over_2_parents` 1200 → 1199,
+which is independent confirmation the edge was live: `Q72615` carried three
+parents until this commit, the third arriving through the alias.
+
+### compare_depth failed, and accepting it was the right call
+
+19,765 records lost depth, worst −14, so the gate exited 1 and said do not
+commit. Committed anyway, with the reasoning recorded rather than the limit
+lowered — `--max-loss` is untouched.
+
+The signature is what decides it. All 15 members had **identical** ancestor
+counts before, 912 each. That is what a strongly connected component looks
+like: every member reaches all the others, so they all measure the same.
+Afterwards they hold distinct, chain-appropriate counts between 819 and 911,
+and the worst loss is exactly **−14 = 15 − 1** — the members no longer counting
+as each other's ancestors. `queue.md` already documents the one-smaller version
+of this ("a tangle shrinking by one reads as a uniform −1"); this is the same
+arithmetic with the tangle dissolving completely.
+
+The check that actually settles it is not depth at all: **descendants of `Q1`
+Aster are 47,837 before and 47,837 after. Zero records lost their route.**
+Against the real amputation this gate exists to catch — the reverted 2026-07-31
+cut, which took Scipio Africanus from 267 ancestors to 4 — he here goes 912 →
+837 and still reaches Aster.
+
+### The story of the line, which is what justifies it
+
+Per `narrative_spine.md`: reachability is not a result, the story is. After the
+cut, `Q72434` M. Aemilius Lepidus (cos. 78 BC) traces up through his own gens
+and nobody else's —
+
+    Q72615 Quintus -> Q144279 M. Aemilius Lepidus (tr. mil. 190 BC)
+      -> Q148210 -> Q73557 M. Aemilius Lepidus (cos. 285 BC)
+      -> Q73671 M. Aemilius Barbula (dictator 292-285 BC)
+      -> Q73776 Q. Aemilius Barbula (cos. 317 & 311 BC)
+      -> Q73881 L. Aemilius Mamercinus (cos. 366 & 363 BC)
+      -> the Aemilii Mamercini
+
+a continuous patrician line in chronological order, every link a father. What
+it stopped doing is reaching Aster by descending from the Cornelii Scipiones
+through `Q72786` — the Mamercus record, born a Livius Drusus and adopted into
+the Aemilii Lepidi. Wikidata refutes that route outright: `Q3625112`, which is
+the dump's `Q144279`, lists exactly two children, `Q3622705` and `Q11944252`
+Quintus. **A false descent was removed, not an ancestry lost.** The Scipiones
+keep their own line and reach Aster on their own terms.
+
+### Two smaller things
+
+`git config core.hooksPath` was unset in this checkout, so the shadow gate was
+not running. Set — `CLAUDE.md` says once per checkout and a fresh clone needs
+it, which is exactly the trap.
+
+Six files still spell the vacated `Q72693`, all resolving correctly, so the
+graph is right and only the records are untidy. Five of them make `Q72434` read
+as a two-father record when it has one father written twice. Filed as item 1c.
+Note `Q72514.json` has `id` `Q72434`, while `Q72514` is separately the qid of
+`Q73893`'s father: **the filename is not the record.**
