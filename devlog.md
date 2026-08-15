@@ -3748,3 +3748,62 @@ graph is right and only the records are untidy. Five of them make `Q72434` read
 as a two-father record when it has one father written twice. Filed as item 1c.
 Note `Q72514.json` has `id` `Q72434`, while `Q72514` is separately the qid of
 `Q73893`'s father: **the filename is not the record.**
+
+## 2026-08-15 — The redirect-alias audit: nine scripts exposed, one actually bitten
+
+Follow-up to the morning's tangle repair, and the point of it was to find out
+whether the Lepidus no-op was a one-off or a class.
+
+**It is a class, and nine scripts are in it.** `apply_divine_fathers`,
+`apply_esther_generation`, `apply_lleucu_generation`,
+`apply_mamercus_biological_father`, `apply_mentuhotep_queen`,
+`apply_servilii_chain`, `apply_sunita_mrityu`, `apply_tereza_eriz` and — before
+this morning — `apply_lepidus_cut` all load `redirects.tsv` **only** for
+`siblings()`/`family_of()`, which is shadow-file discovery. Not one of them
+resolved a claim target before matching it. Same shape, same silent failure
+available to all nine.
+
+**Empirically, only Lepidus actually misfired.** `verify_applies_landed.py`,
+written for this, asserts 24 declared edges across 9 scripts against
+`edges.tsv` — post-resolution, so no spelling can fool it. **PASS, 24/24.** The
+other eight repairs are really in the graph. They were exposed and never
+happened to meet an aliased qid.
+
+Worth stating plainly because the temptation ran the other way: **exposure is
+not damage.** Having found the mechanism, the obvious move was to assume eight
+more phantom repairs and start re-applying. Measuring first cost one script and
+showed there was nothing to re-apply.
+
+**Two reusable tools were already protected**, and checked rather than assumed:
+`cut_edges.py` has `aliases()` and canonicalises both endpoints — its own
+comment describes the hazard, and `verify_cuts_landed` passing 35/35
+corroborates it — and `merge_cluster.py` has `redirect_map()` plus per-cluster
+alias resolution.
+
+**One reusable tool was exposed: `add_bridge_edges.py`.** It compared raw qids
+in all ten of its presence checks — the dry-run report, the write path, and its
+own post-write verify. The failure mode is the inverse of Lepidus and milder:
+an edge already present under an alias reads as *new*, so it writes a duplicate
+claim. Graph-neutral, but it leaves the record claiming a vacated qid, which is
+exactly the residue of item 1c and what the merge rule forbids.
+
+Not hypothetical. `Q144279.json` holds `P20 = [Q72693, Q73011]`; after the fix
+`claim_ids` reports `[Q72615, Q73011]` where it previously reported the dead
+spelling. Asked to declare that edge today, the old code would have written a
+second copy of it.
+
+**The one-shot apply scripts were deliberately left alone.** They have run,
+their repairs are confirmed in the graph, and adding resolution to a one-shot
+changes what it would drop if re-run — churn with real risk against no measured
+benefit. The durable protection is the gate, not eight rewrites.
+
+`verify_applies_landed.py` is now step **6/6** of `verify_repair.py`. Steps 5
+and 6 are the only gates that are not before/after comparisons, and that is the
+point: every delta gate reads a repair that never landed as a **no-op rather
+than a failure**. Four gates green is not evidence a repair happened. The rule
+that goes with it, now in `queue.md`: when an `apply_*.py` repair changes, its
+edges go into `EXPECTED` in the same commit, because an entry that drifts from
+its script passes while measuring the wrong thing.
+
+No item files were touched this tick, so the graph is unchanged and no
+regeneration was needed.

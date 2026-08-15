@@ -34,6 +34,17 @@ WHAT IT RUNS
                             which is what load-bearing means here. Fails if any record
                             loses more than --max-loss levels (default 5).
   4. check_invariants.py    the four standing invariants against the committed baseline.
+  5. verify_cuts_landed.py  every edge cut_edges.py declares cut is absent from the graph.
+  6. verify_applies_landed.py
+                            every edge the apply_*.py scripts declare they changed is in
+                            the graph, or absent from it, as declared.
+
+Gates 5 and 6 are not before/after comparisons and that is the point. Everything above
+them measures a DELTA, so a repair that never landed reads as a no-op rather than a
+failure -- which is how theban-senebhenaf sat applied-and-alive for a day, and how the
+2026-08-07 Lepidus cut sat applied-and-alive for eight while its own verify block agreed
+it was done. These two check the standing claim instead: is the graph what the repo says
+it is?
 
 WHAT IT DOES NOT RUN, deliberately
 
@@ -134,17 +145,17 @@ def main():
     else:
         results.append(("extract_genealogy", run(
             "extract_genealogy.py", [],
-            "1/5  extract_genealogy.py -- regenerate the TSVs from wikibase/items/")))
+            "1/6  extract_genealogy.py -- regenerate the TSVs from wikibase/items/")))
 
     results.append(("compare_tangles", run(
         "compare_tangles.py", pair,
-        "2/5  compare_tangles.py -- WIDTH: tangles introduced / removed / reshaped")))
+        "2/6  compare_tangles.py -- WIDTH: tangles introduced / removed / reshaped")))
     results.append(("compare_depth", run(
         "compare_depth.py", pair + ([max_loss] if max_loss else []),
-        "3/5  compare_depth.py -- DEPTH: ancestry lost per record (the load-bearing one)")))
+        "3/6  compare_depth.py -- DEPTH: ancestry lost per record (the load-bearing one)")))
     results.append(("check_invariants", run(
         "check_invariants.py", [],
-        "4/5  check_invariants.py -- the four standing invariants vs the baseline")))
+        "4/6  check_invariants.py -- the four standing invariants vs the baseline")))
     # Added 2026-08-02. Every gate above compares BEFORE against AFTER, so a cut that never
     # landed shows up as a no-op rather than a failure -- which is how theban-senebhenaf sat
     # applied-and-alive for a day while cut_edges.py's own verify pass called it clean. This
@@ -152,7 +163,18 @@ def main():
     # actually gone from the graph?
     results.append(("verify_cuts_landed", run(
         "verify_cuts_landed.py", [],
-        "5/5  verify_cuts_landed.py -- every declared cut is absent from edges.tsv")))
+        "5/6  verify_cuts_landed.py -- every declared cut is absent from edges.tsv")))
+    # Added 2026-08-15, and it is the same lesson one layer along. verify_cuts_landed only
+    # covers cut_edges.py's declarative cut sets; the apply_*.py scripts edit item files
+    # directly, where a no-op leaves the dump unchanged with the log claiming a repair. That
+    # is exactly what apply_lepidus_cut.py did for eight days -- it matched raw qids while
+    # the data spelled the child under a merged-away qid, so the drop matched nothing and
+    # its own verify block, written from the same premise, confirmed it. This checks the
+    # standing claim against edges.tsv, which is post-resolution and cannot be fooled by a
+    # spelling.
+    results.append(("verify_applies_landed", run(
+        "verify_applies_landed.py", [],
+        "6/6  verify_applies_landed.py -- every declared apply_*.py repair is in the graph")))
 
     failed = [n for n, rc in results if rc != 0]
 

@@ -21,6 +21,7 @@ records touched by the adam-genghis bridge currently has a shadow, but that is a
 about today's dump and not a property to rely on, so the propagation runs regardless.
 """
 
+import csv
 import json
 import sys
 from pathlib import Path
@@ -656,12 +657,44 @@ def save(qid, data):
         json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
+_ALIASES = None
+
+
+def resolve(qid):
+    """Map a qid through redirects.tsv, the way extract_genealogy.py does.
+
+    Added 2026-08-15. Without this, an edge already present under a merged-away qid reads
+    as "new" and gets written a second time: graph-neutral, because the extractor resolves
+    both spellings to the same edge, but it leaves the record claiming a vacated qid --
+    which is the residue queue.md item 1c is about, and the merge rule forbids.
+
+    The sharper version of the same bug cost eight days on apply_lepidus_cut.py, which
+    compared raw qids to DROP an edge, matched nothing, and then confirmed its own no-op
+    with a verify block written from the same premise. This tool is additive so it cannot
+    fail that way -- but it can still be wrong about what is already there.
+    """
+    global _ALIASES
+    if _ALIASES is None:
+        _ALIASES = {}
+        path = ANALYSIS / "redirects.tsv"
+        if path.exists():
+            with path.open(encoding="utf-8", newline="") as f:
+                for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
+                    _ALIASES[r["from_qid"]] = r["to_qid"]
+    seen = set()
+    while qid in _ALIASES and qid not in seen:
+        seen.add(qid)
+        qid = _ALIASES[qid]
+    return qid
+
+
 def claim_ids(d, pid):
+    """Claim targets as the graph sees them -- resolved, so an alias cannot read as absent."""
     out = []
     for c in (d.get("claims") or {}).get(pid, []):
         v = ((c.get("mainsnak") or {}).get("datavalue") or {}).get("value")
         if isinstance(v, dict) and v.get("id"):
-            out.append(v["id"])
+            out.append(resolve(v["id"]))
     return out
 
 
@@ -752,8 +785,10 @@ def main():
         print(f"         {rec['note']}")
     for parent, child, role, why in edges_of(spec):
         pd, cd = load(parent), load(child)
-        have_down = pd is not None and child in claim_ids(pd, CHILD)
-        have_up = cd is not None and parent in claim_ids(cd, role)
+        # Resolve both sides: claim_ids returns resolved targets, so a raw probe qid that
+        # is itself an alias would compare unequal against its own canonical form.
+        have_down = pd is not None and resolve(child) in claim_ids(pd, CHILD)
+        have_up = cd is not None and resolve(parent) in claim_ids(cd, role)
         state = ("already both directions" if (have_down and have_up)
                  else "parent side only" if have_down
                  else "child side only" if have_up else "new")
@@ -762,8 +797,8 @@ def main():
         print(f"         {why}")
     for a, b, why in spec.get("spouses", []):
         ad, bd = load(a), load(b)
-        have = (ad is not None and b in claim_ids(ad, SPOUSE)
-                and bd is not None and a in claim_ids(bd, SPOUSE))
+        have = (ad is not None and resolve(b) in claim_ids(ad, SPOUSE)
+                and bd is not None and resolve(a) in claim_ids(bd, SPOUSE))
         print(f"  SPOUSE {a} <-> {b}   ({'already both directions' if have else 'new'})")
         print(f"         {why}")
 
@@ -794,12 +829,12 @@ def main():
     touched = set()
     for parent, child, role, _why in edges_of(spec):
         pd = load(parent)
-        if child not in claim_ids(pd, CHILD):
+        if resolve(child) not in claim_ids(pd, CHILD):
             pd.setdefault("claims", {}).setdefault(CHILD, []).append(
                 make_claim(CHILD, child))
             save(parent, pd)
         cd = load(child)
-        if parent not in claim_ids(cd, role):
+        if resolve(parent) not in claim_ids(cd, role):
             cd.setdefault("claims", {}).setdefault(role, []).append(
                 make_claim(role, parent))
             save(child, cd)
@@ -809,7 +844,7 @@ def main():
     for a, b, _why in spec.get("spouses", []):
         for x, y in ((a, b), (b, a)):
             xd = load(x)
-            if y not in claim_ids(xd, SPOUSE):
+            if resolve(y) not in claim_ids(xd, SPOUSE):
                 xd.setdefault("claims", {}).setdefault(SPOUSE, []).append(
                     make_claim(SPOUSE, y))
                 save(x, xd)
@@ -831,13 +866,14 @@ def main():
     ok = True
     for parent, child, role, _why in edges_of(spec):
         pd, cd = load(parent), load(child)
-        down = child in claim_ids(pd, CHILD)
-        up = parent in claim_ids(cd, role)
+        down = resolve(child) in claim_ids(pd, CHILD)
+        up = resolve(parent) in claim_ids(cd, role)
         if not (down and up):
             print(f"  FAIL {parent} -> {child}: parent-side={down} child-side={up}")
             ok = False
     for a, b, _why in spec.get("spouses", []):
-        if a not in claim_ids(load(b), SPOUSE) or b not in claim_ids(load(a), SPOUSE):
+        if (resolve(a) not in claim_ids(load(b), SPOUSE)
+                or resolve(b) not in claim_ids(load(a), SPOUSE)):
             print(f"  FAIL spouse {a} <-> {b} is one-sided")
             ok = False
     for q in sorted(touched):

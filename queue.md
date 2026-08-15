@@ -184,8 +184,19 @@ python wiki-scripts/verify_repair.py                # AFTER: regenerate, then ev
 
 It runs `extract_genealogy.py`, then `compare_tangles.py` (**width** — which SCC partitions
 were introduced, removed or reshaped), `compare_depth.py` (**depth** — ancestry lost per
-record, the load-bearing one), and `check_invariants.py`, and exits non-zero naming
-whichever failed. Merges still go through `wiki-scripts/merge_cluster.py <cluster>`, which
+record, the load-bearing one), `check_invariants.py`, and then the two *standing-claim*
+gates, `verify_cuts_landed.py` and `verify_applies_landed.py`. It exits non-zero naming
+whichever failed.
+
+**Gates 5 and 6 are not before/after comparisons, and that is the whole reason they
+exist.** Every delta gate reads a repair that never landed as a **no-op rather than a
+failure** — so a script that silently did nothing sails through all four. That is how
+`theban-senebhenaf` sat applied-and-alive for a day, and how the 2026-08-07 Lepidus cut sat
+that way for eight while its own verify block agreed it was done. The standing-claim gates
+ask a different question: is the graph what the repo says it is? **When you add or change an
+`apply_*.py` repair, add its edges to `EXPECTED` in `verify_applies_landed.py` in the same
+commit** — an entry that drifts from its script passes while measuring the wrong thing,
+which is worse than no entry. Merges still go through `wiki-scripts/merge_cluster.py <cluster>`, which
 enforces both merge rules above against what actually happened on disk; run
 `verify_repair.py` around it.
 
@@ -632,38 +643,6 @@ with AskUserQuestion instead of parking it here.**
    Cornelia is a merge of two women, or whether `Q72957 → Q72801` is simply wrong. Also
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
-
-1b. **AUDIT EVERY `apply_*.py` AND `cut_edges.py` FOR THE REDIRECT-ALIAS BUG. This is the
-   generalisation of what went wrong above, and it is the top item.**
-
-   The 2026-08-07 Lepidus cut removed nothing and said it had, because it matched raw qids
-   while the data spelled the same person under a merged-away qid. **57,440 silent
-   redirects exist in this dump** (extractor output, 2026-08-15), so any of them can hide
-   an edge from a script that does not resolve.
-
-   **The failure mode is the dangerous one:** the drop silently matches nothing, and the
-   verify block — written with the same raw comparison — silently confirms it. The script
-   exits 0 and prints "Verified". This is the same shape as the vacuous I2 check recorded
-   further down this file: **a gate that cannot fail.** Two of them in this repo now.
-
-   **Bounded and mechanical.** For each of `apply_cato_cluster_merge.py`,
-   `apply_divine_fathers.py`, `apply_dup_merge.py`, `apply_esther_generation.py`,
-   `apply_lleucu_generation.py`, `apply_mamercus_biological_father.py`,
-   `apply_mentuhotep_queen.py`, `apply_roman_unmerge.py`, `apply_servilii_chain.py`,
-   `apply_sunita_mrityu.py`, `apply_tereza_eriz.py`, `apply_tros_unmerge.py`,
-   `add_bridge_edges.py`, `cut_edges.py`, `merge_cluster.py`: does it compare a claim's
-   target qid to a constant with `==` or `in`, without resolving through `redirects.tsv`
-   first? If so it can silently no-op. Copy the `resolve()` helper now in
-   `apply_lepidus_cut.py`.
-
-   **Then re-check that each declared repair actually landed.** `verify_cuts_landed.py`
-   reads `edges.tsv`, which is post-resolution, so it is already immune and currently
-   passes on 35 declared cuts across 22 cut sets — that is real evidence, and it means the
-   *cut* scripts are probably fine. **The exposure is the scripts that edit item files
-   directly**, where a no-op leaves the dump unchanged and the log saying otherwise.
-
-   Cheap first pass: `grep -n 'values(\|== *"Q\|in fathers\|in children' wiki-scripts/apply_*.py`.
-   No dump rescan needed to *find* the bug — only to verify a repair once one is made.
 
 1c. **REPOINT THE 6 REMAINING FILES THAT SPELL THE VACATED QID `Q72693`. Graph-neutral,
    bounded, and it removes a false two-father reading.**
