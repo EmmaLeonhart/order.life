@@ -4198,3 +4198,75 @@ else.
 queue item identifies an ordered list anywhere else in the file, and this file
 is mostly prose with embedded lists. Worth remembering before the next bulk edit
 to `queue.md`.
+
+## 2026-08-16 — The Maurya and Shunga king lists are in the dump three times
+
+Item 0d, research half. Mapping established and verified; no merge applied yet,
+and the write-up says so.
+
+**44 records, 16 kings, three parallel copies of two king lists.** Shunga:
+Pushyamitra → Agnimitra → Vasumitra → Bhadraka → Pulindaka → Ghosha →
+Vajramitra → Bhagabhadra → Devabhuti. Maurya: Sarvarthasiddhi → Chandragupta →
+Bindusara → Ashoka → Kunala → Dasharatha → Brihadratha. Father-to-son in
+identical order in all three blocks. Full qid table in
+`wikibase/analysis/maurya_shunga_triples.md`.
+
+### Why this is duplication and the Licinia case was not
+
+Worth being explicit, one day after withdrawing a false duplication claim.
+
+These are **named kings of named dynasties in regnal order**. There was one
+Shunga Agnimitra (r. 149–141 BC), not three, and the `Q160xxx` block labels them
+outright — *"King of Shunga II - Agnimitra (149141 BC)"*, *"King of Maurya IV -
+Dasharatha (232-224 BC)"*. A king list is a fixed sequence of individuals, so
+the same sequence three times is duplication by construction.
+
+The Licinia claim rested on two women sharing a very common name and marrying
+into the same family in successive generations — ordinary prosopography. This
+rests on a closed, ordered, named sequence appearing three times. Different kind
+of evidence, not merely more of it.
+
+### The survivor, measured rather than assumed
+
+| block | records | with a Wikidata id |
+|---|---:|---:|
+| `Q2xxx` | 12 | **6** |
+| `Q50xxx` | 16 | **0** |
+| `Q160xxx` | 16 | **0** |
+
+`queue.md` already said `Q2xxx` was the survivor; now it is measured. The
+Ayodhya bridge attaches there, so the Heo Hwang-ok line is undisturbed.
+
+### The dedupe gains depth — it is not hygiene
+
+**`Q2206` Ashoka has no father** and the survivor block stops at him, while both
+other copies carry three further generations above: Bindusara, Chandragupta,
+Sarvarthasiddhi. `Q2175` Agnimitra likewise has no father in `Q2xxx` while both
+other copies carry Pushyamitra, the dynasty's founder.
+
+So the merge hands the surviving chain ancestry it does not currently have.
+Under this repo's rule that load-bearing means depth upward rather than
+descendant count, that is the argument for doing it at all — hygiene alone would
+not justify 28 merges.
+
+### Not executed, and why that is not deferral
+
+28 merges, each through `merge_cluster.py`, each sweeping 164k files, and
+**every long scan launched from the tool runner this session was killed at about
+five minutes**. The detached `Start-Process` route works and is written into the
+item. Doing the mapping first and the merges after is the sequence the work
+actually has; the alternative was starting merges from a table I had not
+verified.
+
+Two expectations recorded so the gates are read rather than obeyed:
+`compare_tangles` will move and the only regression signature is anything
+*newly* inside a tangle (the dump is at 0); and `compare_depth` must show a
+**gain**, so amputation would mean the merge dropped claims — a bug, not a
+judgement call.
+
+### One correction to the item as filed
+
+It recorded `Q160916` Agnimitra as having two fathers, `Q160932` Pushyamitra and
+`Q160933` Marhindi Maurya. **Measured today: it has one, `Q160932`.** Either it
+was repaired in a later pass or the observation was wrong. The item now says not
+to cite it without re-measuring.

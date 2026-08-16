@@ -377,35 +377,53 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-0d. **THE MAURYA/SHUNGA BLOCK IS IMPORTED THREE TIMES — dedupe it.**
+0d. **DEDUPE THE MAURYA/SHUNGA TRIPLE IMPORT. Mapping is DONE and verified 2026-08-16 —
+   `wikibase/analysis/maurya_shunga_triples.md`. What remains is executing 28 merges.**
 
-   Found 2026-08-06 while attaching Heo Hwang-ok. `queue.md` item 0 recorded the block as
-   doubled; it is **tripled**. `Q2xxx`, `Q50xxx` and `Q160xxx` are the same men, each a
-   continuous father-to-son chain of roughly thirty records:
+   **44 records, 16 kings, three parallel copies of two king lists.** Shunga: Pushyamitra
+   → Agnimitra → Vasumitra → Bhadraka → Pulindaka → Ghosha → Vajramitra → Bhagabhadra →
+   Devabhuti. Maurya: Sarvarthasiddhi → Chandragupta → Bindusara → Ashoka → Kunala →
+   Dasharatha → Brihadratha. Father-to-son in identical order in all three blocks. The full
+   qid table is in the analysis file; do not re-derive it.
 
-   | | `Q2xxx` (survivor) | `Q50xxx` | `Q160xxx` |
-   |---|---|---|---|
-   | Brihadratha Maurya | `Q2188` wd `Q24405` | `Q50792` | `Q160951` |
-   | Agnimitra | `Q2175` wd `Q24395` | `Q50725` | `Q160916` |
-   | Vasumitra | `Q2165` wd `Q24327` | `Q50681` | `Q160900` |
-   | Bhagabhadra | `Q2086` wd `Q854679` | `Q50412` | `Q160777` |
-   | Devabhuti | `Q2074` wd `Q3878846` | `Q50360` | `Q160757` |
+   **WHY THIS IS A DEDUPE AND NOT THREE SETS OF PEOPLE**, stated because a false
+   duplication claim was withdrawn here on 2026-08-15. These are **named kings of named
+   dynasties in regnal order**. There was one Shunga Agnimitra, not three, and the
+   `Q160xxx` block labels them outright — *"King of Shunga II - Agnimitra (149141 BC)"*. A
+   king list is a fixed sequence of individuals. That is nothing like two women of a common
+   name marrying into one family in successive generations, which is what the Licinia case
+   turned out to be.
 
-   **`Q2xxx` is the survivor** — it is the only copy carrying Wikidata ids and dates. The
-   Ayodhya bridge (`heo-hwang-ok-ayodhya`) already attaches to it for exactly this reason,
-   so the dedupe will not disturb the Heo Hwang-ok line.
+   **THE SURVIVOR IS `Q2xxx`, MEASURED not assumed:** 6 of its 12 records carry a Wikidata
+   id; `Q50xxx` carries 0 of 16 and `Q160xxx` 0 of 16. The Ayodhya bridge already attaches
+   to `Q2xxx`, so the Heo Hwang-ok line is undisturbed.
 
-   Same for the Ayutayus group named in the old item 0: `Q2299` / `Q51321` / `Q161228`
-   "AYUTAYUS of Magadha" and `Q29610` "Ayutayu Solar Dynasty".
+   **IT GAINS ANCESTRAL DEPTH — this is not hygiene.** `Q2206` Ashoka has **no father** and
+   the survivor block stops there, while both other copies carry three further generations
+   above him: Bindusara, Chandragupta, Sarvarthasiddhi. Likewise `Q2175` Agnimitra has no
+   father in `Q2xxx` while both other copies carry Pushyamitra, the dynasty's founder. The
+   merge hands the surviving chain ancestry it does not currently have, which is the
+   load-bearing direction.
 
-   **Not urgent and not blocking anything.** Use `merge_cluster.py`, which enforces the
-   merge-direction and whole-record rules; run `verify_repair.py` around it and expect
-   `compare_tangles` to move if any of these sit in a tangle — read the signature before
-   concluding anything.
+   **EXECUTION, and why it is multi-tick.** `merge_cluster.py` per cluster,
+   `verify_repair.py` around it. Three constraints:
 
-   **One real defect is visible inside the block:** `Q160916` Agnimitra has **two fathers**,
-   `Q160932` Pushyamitra and `Q160933` Marhindi Maurya. Case 1 under `CLAUDE.md` — classify
-   before repairing, but it is probably an ordinary error.
+   1. `merge_cluster.py` sweeps all 164k files every run, and **every long scan launched
+      from the tool runner this session was killed at ~5 minutes.** Launch it detached with
+      PowerShell `Start-Process` — that is what worked for `extract_genealogy.py`.
+   2. **Expect `compare_tangles` to move** and read the signature, not the verdict. The
+      dump is at `tangled_components 0`, so anything *newly* inside a tangle is a
+      regression, full stop.
+   3. **`compare_depth` must show a GAIN, never a loss.** Amputation here means the merge
+      dropped claims on the floor — a bug, not a judgement call.
+
+   **Ayutayus, same pass:** `Q2299` and `Q51321` "AYUTAYUS of Magadha" carry **identical
+   father lists** `['Q2302', 'Q52228']` — duplication with no inference needed. `Q161228`
+   and `Q29610` want checking alongside.
+
+   **One correction to this item as previously filed:** it recorded `Q160916` Agnimitra as
+   having two fathers, `Q160932` and `Q160933`. **Measured 2026-08-16: it has one,
+   `Q160932`.** Do not cite the two-father claim without re-measuring.
 
 0c. **THE THREE REMAINING ROOTLESS JAPANESE RECORDS — examine and attach if the
    succession supplies a father.**
