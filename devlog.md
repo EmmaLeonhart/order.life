@@ -4147,3 +4147,54 @@ Both wrong ids are gone from every tracked item (`git grep`, no matches). And
 the check that matters: across all 16 changed files, **0 genealogical claims
 moved** — every P47/P48/P20/P42 value set is identical to HEAD, so edges.tsv
 cannot have moved and no regeneration was needed.
+
+## 2026-08-16 — Six finished items off the board, into closed_repairs.md
+
+I listed this in nine consecutive status reports without doing it, which made
+the listing worse than useless. Done now.
+
+Items 2, 3, 9, 10, 11 and 12 were all marked `✅ DONE` and all still sitting in
+`queue.md`. `CLAUDE.md` is explicit that `queue.md` is the cockpit's rendering
+of this repo — an item still present reads as live work from outside — and the
+rule is delete-don't-check.
+
+**But deleting them would have thrown away the reasoning**, which is why they
+survived nine reports. Several encode traps rather than results. So the durable
+content moved to `wikibase/analysis/closed_repairs.md` first, and only then were
+the items deleted. `queue.md` goes 1,497 → 1,104 lines.
+
+The one that most needed a permanent home is **the ⚠ Daksha trap**: the split
+was applied and reverted the same day, it opened both rings *because* it was
+backwards, and the repair that stands is `apply_sunita_mrityu.py` — Sunitha's
+father is Mrityu, not Yama. Anyone reading a Puranic ring fresh will reach for
+the split again.
+
+Two rules from that file are quoted back into `queue.md` next to the tangle
+table, because they generalise past their own items:
+
+- **Opening a loop is not evidence of having found its defect.** If the only way
+  to open it is to move something that belongs where it is, the defect is
+  elsewhere.
+- **Undecidable from the dump is not undecidable.** All four rings closed on
+  2026-08-07 — Joan/Lleucu, the Portuguese ring, the eight Servilii, the two
+  Esthers — had been filed as needing a ruling, and each fell to one lookup or
+  one date. The Esther item says it best: the queue called it "genuinely
+  undecidable from the dump" and was right, and it was decidable in two web
+  searches.
+
+### The script deleted two lines it should not have
+
+The purge matched top-level headings with `^(\d+[a-z]*)\. \*\*`, which also
+matches the **repair-order policy list** further up the file. It deleted
+`2. **DEDUPE**` and `3. **CUT**` from the four-step rule — the rule that governs
+every repair in this repo, reduced to steps 1 and 4.
+
+Caught by reading the script's own "deleting:" line, which reported spans at
+lines 119-121 that had no business being there, and restored from HEAD. The
+final diff was then audited heading-by-heading: six deletions, all `✅`, nothing
+else.
+
+**A regex over a document is not a parser.** The same pattern that identifies a
+queue item identifies an ordered list anywhere else in the file, and this file
+is mostly prose with embedded lists. Worth remembering before the next bulk edit
+to `queue.md`.
