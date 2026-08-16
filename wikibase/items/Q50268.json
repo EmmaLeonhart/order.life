@@ -10,8 +10,8 @@
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q50192",
-              "numeric-id": 50192
+              "id": "Q2051",
+              "numeric-id": 2051
             }
           },
           "hash": "9e909fbaab3e8aa68122602ca8bcb4dc1157880f",
@@ -71,8 +71,8 @@
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q50331",
-              "numeric-id": 50331
+              "id": "Q2069",
+              "numeric-id": 2069
             }
           },
           "hash": "f10b0a058ac0d44539a8bf31847b5644688d8405",
@@ -115,6 +115,47 @@
           },
           "hash": "c227c89361cea774f7ce2a8f1ac61984dfc24841",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q153467$479B3F45-BFFC-487C-A432-7C51F7BACEB2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc14efe6d96336a34324dc61d6c96d5d9c81e3e5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q160733$942AF721-2045-6999-2953-8933300792E0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000020948183950"
+          },
+          "hash": "d63b9c505e73a4f95ecb3b59256aaee324c7b6f0",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

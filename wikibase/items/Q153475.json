@@ -3,7 +3,7 @@
   "claims": {
     "P20": [
       {
-        "id": "Q153475$2FC56FDF-F466-4EEB-82F6-06EE68C6CB0E",
+        "id": "Q2079$F3298B4C-689C-4DC3-A1C4-126F62DAB954",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q153475$0496228C-3B6C-41D0-9545-48B50D288748",
+        "id": "Q2079$41F263DA-2D1B-4DA4-ABC8-ACC56728C324",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q153475$EC16AE3E-7057-461B-97A7-086F005AC600",
+        "id": "Q2079$C8E33E6C-5A0E-451B-8B7F-55B463E7E237",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,7 +64,7 @@
     ],
     "P47": [
       {
-        "id": "Q153475$281C9F77-057D-44D5-872E-3555D520CF0A",
+        "id": "Q2079$459A409E-41F7-4D3D-BFA2-4A306893B980",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -81,11 +81,30 @@
         },
         "rank": "normal",
         "type": "statement"
+      },
+      {
+        "id": "Q50388$789709DC-9029-4EF7-A7E8-64FA02B4F1AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50436",
+              "numeric-id": 50436
+            }
+          },
+          "hash": "f208d1bd70a142fea2e0eda7250d30c9c6b68ba1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
       }
     ],
     "P55": [
       {
-        "id": "Q153475$22DB3609-EB61-4450-92C4-730F44836D8E",
+        "id": "Q2079$60F1C5E8-7C40-464E-AAD3-DCC4A50CFAC8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -106,7 +125,7 @@
     ],
     "P56": [
       {
-        "id": "Q153475$910BECF7-FCDB-40CA-9277-DCE24149A7DA",
+        "id": "Q2079$0800EAFA-95EC-41DC-85D3-B5408E255B5E",
         "mainsnak": {
           "datatype": "time",
           "datavalue": {
@@ -130,15 +149,32 @@
     ],
     "P94": [
       {
-        "id": "Q153475$2F16DCC7-F0F9-4650-B59A-C2219EFCAE18",
+        "id": "Q2079$A2CFD8DF-3BBB-47C5-821B-1F5192BFE8E6",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
             "type": "string",
-            "value": "Bhanuratha, King of Kosala Placeholder surname Arms.svg"
+            "value": "Bhanuratha, King of Kosala Arms.svg"
           },
-          "hash": "73a865c22e62d08fa6ecdcd67b5bab14ec14e199",
+          "hash": "cb0b097e63aaf7402206b2a6ab0bb6ec85d1a287",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q160769$A518C248-FEA0-072C-C0A2-D076390B9E57",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018546109142"
+          },
+          "hash": "6d73f3550aed05d34953baadcd7fe83c11a6ec5a",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -146,24 +182,19 @@
       }
     ]
   },
-  "descriptions": {
-    "en": {
-      "language": "en",
-      "value": "Gaiad character"
-    }
-  },
-  "id": "Q153475",
+  "descriptions": {},
+  "id": "Q2079",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Bhanuratha, King of Kosala Placeholder surname"
+      "value": "Bhanuratha, King of Kosala"
     }
   },
-  "lastrevid": 17581810,
-  "modified": "2025-09-17T17:35:28Z",
+  "lastrevid": 17404526,
+  "modified": "2025-09-15T21:39:40Z",
   "ns": 860,
-  "pageid": 191833,
+  "pageid": 20464,
   "sitelinks": {},
-  "title": "Item:Q153475",
+  "title": "Item:Q2079",
   "type": "item"
 }

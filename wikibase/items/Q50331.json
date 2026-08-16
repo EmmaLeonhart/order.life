@@ -3,7 +3,7 @@
   "claims": {
     "P20": [
       {
-        "id": "Q50331$49B316AE-EA81-40BB-AC2A-6AF98FACBFE9",
+        "id": "Q2069$08BF3343-9ED3-43C9-99E3-656ADD8D7347",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -14,7 +14,7 @@
               "numeric-id": 50268
             }
           },
-          "hash": "cdc5db56731ea83c665de3b61cea77213342e68d",
+          "hash": "a427818620fcfaf4b66a601e6116f411c650dc79",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q50331$71F3CFB7-35C9-4552-997D-E96CCDA3E9CD",
+        "id": "Q2069$F31FA1A3-8853-4B93-9B3B-5FC496B3A24A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q50331$C1A0C127-0E8E-4E88-8C1F-0C192E121477",
+        "id": "Q2069$468D4E64-227E-4705-ADEB-2FA1D7A6B49F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q50331$C6B3B205-ECC0-4866-9B3E-380B25C5B2E9",
+        "id": "Q2069$5402DF0F-7801-4F1B-98B0-CBBE752F781B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q50388",
-              "numeric-id": 50388
+              "id": "Q2079",
+              "numeric-id": 2079
             }
           },
-          "hash": "ca20c90dc203b4546b27aa7d1993057a38da41b0",
+          "hash": "47a876813db56a16a577503be730be84a06810e1",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q50331$4CFE5B9A-79E8-4D87-B898-5C2AB3D195FF",
+        "id": "Q2069$0715FC4E-5DB8-4A2C-8B5A-ED8828AD5C47",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -104,9 +104,33 @@
         "type": "statement"
       }
     ],
+    "P56": [
+      {
+        "id": "Q2069$03CAAD9F-D098-4E28-A1EB-FA7FDFF8AC5C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1125-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e9e5180b31af8b10a960a2fd5754f387c8e856ba",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P94": [
       {
-        "id": "Q50331$4F6BAC91-E6B2-41CD-B6EA-C9EADA200684",
+        "id": "Q2069$8EFB6B64-8AB0-449B-9129-CA7847543F19",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -120,21 +144,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q160751$E8C9116D-9FD8-7A97-880C-72F329DEE70E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000020947652446"
+          },
+          "hash": "ff291736e837e0821dc20c0eec7deef9019c2d7d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q50331",
+  "id": "Q2069",
   "labels": {
     "en": {
       "language": "en",
       "value": "Pratikanshva"
     }
   },
-  "lastrevid": 17456498,
-  "modified": "2025-09-16T11:27:46Z",
+  "lastrevid": 17404513,
+  "modified": "2025-09-15T21:39:28Z",
   "ns": 860,
-  "pageid": 65414,
+  "pageid": 20448,
   "sitelinks": {},
-  "title": "Item:Q50331",
+  "title": "Item:Q2069",
   "type": "item"
 }

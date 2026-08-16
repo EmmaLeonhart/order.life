@@ -3,7 +3,7 @@
   "claims": {
     "P20": [
       {
-        "id": "Q153467$676FD7CE-56C5-49A4-87AE-5F11A51195DB",
+        "id": "Q50268$E8428FBF-04CA-4BD6-946B-854DEC388804",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -14,7 +14,7 @@
               "numeric-id": 2051
             }
           },
-          "hash": "e18b26dddbcd29dbccb90643a782c0fb22ac0718",
+          "hash": "9e909fbaab3e8aa68122602ca8bcb4dc1157880f",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q153467$3569469C-385B-4D51-B8C0-6543F4F30B37",
+        "id": "Q50268$B5412AF1-64E9-4DD8-B10B-06F0D54FA3FA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q153467$2CCAAE69-8E13-4115-902B-1E7814C292FF",
+        "id": "Q50268$AA92645E-6462-45BD-965F-58389EAA22A1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,7 +64,7 @@
     ],
     "P47": [
       {
-        "id": "Q153467$35A2BD2C-E0A0-46B4-9858-037B23AFBB8B",
+        "id": "Q50268$1B319B7C-53BD-4941-BFCE-A3BD69201FBA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -75,7 +75,7 @@
               "numeric-id": 2069
             }
           },
-          "hash": "f0f26222c146c83390b7607c91264afb4f2d8e8c",
+          "hash": "f10b0a058ac0d44539a8bf31847b5644688d8405",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q153467$19C1D330-D53A-463D-9BFC-E96891DB4D6D",
+        "id": "Q50268$130825F0-7403-414F-9C27-6A961AB35857",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,23 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50268$34BA5553-96D1-47C4-B325-EBC71D6CBCF5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "SUPRATIKA Arms.svg"
+          },
+          "hash": "c227c89361cea774f7ce2a8f1ac61984dfc24841",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -128,17 +145,17 @@
         "type": "statement"
       }
     ],
-    "P94": [
+    "P62": [
       {
-        "id": "Q153467$B482AC65-7307-422F-8881-EE9FCAF0F056",
+        "id": "Q160733$942AF721-2045-6999-2953-8933300792E0",
         "mainsnak": {
-          "datatype": "commonsMedia",
+          "datatype": "external-id",
           "datavalue": {
             "type": "string",
-            "value": "SUPRATIKA Placeholder surname Arms.svg"
+            "value": "6000000020948183950"
           },
-          "hash": "afcaefcc379c9894ea544b071b4eaad9ed2ea0fb",
-          "property": "P94",
+          "hash": "d63b9c505e73a4f95ecb3b59256aaee324c7b6f0",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -146,28 +163,23 @@
       }
     ]
   },
-  "descriptions": {
-    "en": {
-      "language": "en",
-      "value": "Gaiad character"
-    }
-  },
-  "id": "Q153467",
+  "descriptions": {},
+  "id": "Q50268",
   "labels": {
     "en": {
       "language": "en",
-      "value": "SUPRATIKA Placeholder surname"
+      "value": "SUPRATIKA"
     },
     "es": {
       "language": "es",
-      "value": "SUPRATĪKA Placeholder surname"
+      "value": "SUPRATĪKA"
     }
   },
-  "lastrevid": 17581794,
-  "modified": "2025-09-17T17:35:16Z",
+  "lastrevid": 17456404,
+  "modified": "2025-09-16T11:26:26Z",
   "ns": 860,
-  "pageid": 191825,
+  "pageid": 65367,
   "sitelinks": {},
-  "title": "Item:Q153467",
+  "title": "Item:Q50268",
   "type": "item"
 }

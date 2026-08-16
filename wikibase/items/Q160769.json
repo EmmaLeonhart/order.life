@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q160769$D428681F-29AE-D755-C1FD-5AB9E97F5720",
+        "id": "Q2079$F3298B4C-689C-4DC3-A1C4-126F62DAB954",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160751",
-              "numeric-id": 160751
+              "id": "Q2069",
+              "numeric-id": 2069
             }
           },
-          "hash": "6e429284e4221d8ab192b6873fb0a4cbbb500f52",
+          "hash": "113286cb1c24b1248f8f57c739857535446dbadf",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q160769$57E2B611-5925-4A0F-9C58-56533C6F9C8F",
+        "id": "Q2079$41F263DA-2D1B-4DA4-ABC8-ACC56728C324",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160769$EDD128E3-7016-418D-86B1-827A6112BD03",
+        "id": "Q2079$C8E33E6C-5A0E-451B-8B7F-55B463E7E237",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,37 @@
     ],
     "P47": [
       {
-        "id": "Q160769$60415C99-1A16-C3CE-D10F-EC1812EC7AA0",
+        "id": "Q2079$459A409E-41F7-4D3D-BFA2-4A306893B980",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160791",
-              "numeric-id": 160791
+              "id": "Q153485",
+              "numeric-id": 153485
             }
           },
-          "hash": "d675096cb0ed8a3e7dee6d2e9e7ba4ee8e1ab0d3",
+          "hash": "c1c61edf956860ea30655048d9d46d236d2ca1df",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50388$789709DC-9029-4EF7-A7E8-64FA02B4F1AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50436",
+              "numeric-id": 50436
+            }
+          },
+          "hash": "f208d1bd70a142fea2e0eda7250d30c9c6b68ba1",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +104,7 @@
     ],
     "P55": [
       {
-        "id": "Q160769$3EF1BD41-FE2A-58D4-B915-E62C33F1124C",
+        "id": "Q2079$60F1C5E8-7C40-464E-AAD3-DCC4A50CFAC8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +117,47 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q2079$0800EAFA-95EC-41DC-85D3-B5408E255B5E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2079$A2CFD8DF-3BBB-47C5-821B-1F5192BFE8E6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bhanuratha, King of Kosala Arms.svg"
+          },
+          "hash": "cb0b097e63aaf7402206b2a6ab0bb6ec85d1a287",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +180,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160769$C0462A97-1D22-4166-A55D-06AEE14E2CD6",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "BHANURATHA Arms.svg"
-          },
-          "hash": "698d1e8e894c375b7a7bb6859a6cd9ff0c1eccf8",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160769",
+  "id": "Q2079",
   "labels": {
     "en": {
       "language": "en",
-      "value": "BHANURATHA"
+      "value": "Bhanuratha, King of Kosala"
     }
   },
-  "lastrevid": 17583860,
-  "modified": "2025-09-17T18:03:50Z",
+  "lastrevid": 17404526,
+  "modified": "2025-09-15T21:39:40Z",
   "ns": 860,
-  "pageid": 203934,
+  "pageid": 20464,
   "sitelinks": {},
-  "title": "Item:Q160769",
+  "title": "Item:Q2079",
   "type": "item"
 }

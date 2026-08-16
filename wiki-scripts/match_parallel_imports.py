@@ -73,18 +73,41 @@ SEED = [
     ("bindusara",       "-",     "Q50943", "Q161007"),
     ("chandragupta",    "-",     "Q50973", "Q161017"),
     ("sarvarthasiddhi", "-",     "Q51018", "Q161031"),
+    # Added 2026-08-16 after the first merge. These two were the pairs merge_cluster.py's
+    # I4 pre-check refused, because each already carried two fathers. Q153455's two fathers
+    # turned out to BE a duplicate pair -- Q2051 and Q50192, both "Marudeva, King of
+    # Kosala" -- so seeding the Marudeva correspondence lets propagation continue up a
+    # chain it previously dead-ended on.
+    ("marudeva",        "Q2051", "Q50192", "-"),
+    ("sunakshtra",      "Q153455", "Q160680", "-"),
+    # Q2079 and Q153475 are both "Bhanuratha, King of Kosala" AND share the father
+    # Q153485 -- same name, same parent, so the same man twice. Seeding it unblocks the
+    # Kosala solar chain above Pratikanshva, and reveals that the duplication spans FOUR
+    # qid regions (Q2xxx, Q50xxx, Q153xxx, Q160xxx), not the three the item assumed.
+    ("bhanuratha",      "Q2079", "Q153475", "-"),
 ]
 
 _cache = {}
 
 
 def load(qid):
+    """The record AT this qid, or None if the qid is vacated.
+
+    A merged-away qid keeps its file -- merge_cluster.py rewrites the loser's file as a
+    copy of the survivor, so Q50360.json still exists and still parses, but its internal
+    `id` is now Q2074. Without this check the matcher re-discovers every pair it has
+    already merged and a cluster built from its output would merge them a second time.
+    Found 2026-08-16 immediately after the first 131-pair merge, when the tool cheerfully
+    re-listed devabhuti/bhagabhadra/vajramitra and the rest as still-duplicated.
+    """
     if qid not in _cache:
         path = ITEMS / f"{qid}.json"
         try:
             data = json.loads(path.read_text(encoding="utf-8"))
         except (OSError, json.JSONDecodeError):
             data = None
+        if isinstance(data, dict) and (data.get("id") or qid) != qid:
+            data = None          # vacated: this file now belongs to its survivor
         _cache[qid] = data if isinstance(data, dict) else None
     return _cache[qid]
 
@@ -159,11 +182,27 @@ def main():
                 present = {q: v for q, v in slots.items() if v}
                 if len(present) < 2:
                     continue
-                if any(len(v) != 1 for v in present.values()):
-                    ambiguous.append((g["name"], role, "multi-valued",
+
+                # A member with SEVERAL values in this role is still unambiguous if every
+                # one of them is already known to be the same person -- i.e. they all sit
+                # in one group. That is exactly the Q153455 case: its two fathers Q2051 and
+                # Q50192 are both "Marudeva, King of Kosala", one copy per import block, so
+                # the "two fathers" ARE the duplication rather than an obstacle to seeing
+                # it. Collapsing here lets propagation continue up a chain that otherwise
+                # dead-ends at the first duplicated parent.
+                collapsed = {}
+                blocked = False
+                for q, v in present.items():
+                    keys = {id(index[t]) if t in index else t for t in v}
+                    if len(keys) != 1:
+                        blocked = True
+                        break
+                    collapsed[q] = v[0]
+                if blocked:
+                    ambiguous.append((g["name"], role, "multi-valued, not one group",
                                       "; ".join(f"{q}:{v}" for q, v in present.items())))
                     continue
-                targets = [v[0] for v in present.values()]
+                targets = list(collapsed.values())
                 # Do not fuse two groups that are already distinct -- that is a claim
                 # this tool is not entitled to make.
                 existing = {id(index[t]) for t in targets if t in index}

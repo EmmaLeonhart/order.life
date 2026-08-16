@@ -645,6 +645,52 @@ CLUSTERS = {
         ("Q51240", "Q161161", "Kakavarna Kalashoka"),
         ("Q51255", "Q161174", "Shishunaga"),
     ],
+    # queue.md item 0f (2026-08-16). The tail of the Magadha parallel import, reachable
+    # only after the first 131-pair merge landed and only after two blockers were
+    # understood rather than worked around.
+    #
+    # BLOCKER 1, and it was the key: merge_cluster.py's I4 pre-check had refused Q153455
+    # SUNAKSHTRA MARUDEVA because it carried two fathers. Those two fathers are Q2051 and
+    # Q50192, BOTH labelled "Marudeva, King of Kosala". The two fathers ARE the
+    # duplication, not an obstacle to seeing it. match_parallel_imports.py now collapses a
+    # multi-valued role when every value sits in one group, which let propagation continue
+    # up a chain it had dead-ended on.
+    #
+    # BLOCKER 2: the matcher was re-listing pairs it had already merged, because a
+    # merged-away qid keeps its file as a copy of the survivor. Fixed by treating a file
+    # whose internal id differs from its qid as vacated. Without that, this cluster would
+    # have re-merged all 131 pairs from the first pass.
+    #
+    # THE DUPLICATION SPANS FOUR QID REGIONS, not the three item 0d assumed: Q2xxx,
+    # Q50xxx, Q153xxx and Q160xxx. Q2079 and Q153475 are both "Bhanuratha, King of Kosala"
+    # AND share the father Q153485 -- same name, same parent.
+    #
+    # Survivor is the lowest qid per group. The [LABELS DIFFER] notes are GEDCOM
+    # "Placeholder surname" artefacts and case, not different men -- read them, they are
+    # the point of keeping the label as a check rather than a criterion.
+    #
+    # WHERE IT STOPS: Q153485 BRIHADASVA carries THREE fathers (Q53522, Q2623, Q29951),
+    # which is not a clean duplicate pair, so propagation refused to continue. That is a
+    # genuine multi-parent defect and its own item -- do not guess it to extend this
+    # cluster.
+    # ONE PAIR DROPPED: Q50436 <- Q153485. Q153485 BRIHADASVA carries THREE fathers
+    # (Q2623, Q29951, Q53522), so merging it in takes the survivor to four parents. That
+    # is a pre-existing multi-parent defect, not something this dedupe created, and it
+    # wants its own investigation -- which of the three is real, or whether Q153485 is
+    # itself a merge of several men. Q50436 <- Q160791 is unaffected and stays.
+    "magadha-tail": [
+        ("Q2051", "Q50192", "Marudeva, King of Kosala"),
+        ("Q2051", "Q160711", "Marudeva, King of Kosala"),
+        ("Q2069", "Q50331", "Pratikanshva"),
+        ("Q2069", "Q160751", "Pratikanshva"),
+        ("Q2079", "Q50388", "Bhanuratha, King of Kosala"),
+        ("Q2079", "Q153475", "Bhanuratha, King of Kosala"),
+        ("Q2079", "Q160769", "Bhanuratha, King of Kosala"),
+        ("Q50268", "Q153467", "SUPRATIKA [LABELS DIFFER: SUPRATIKA Placeholder surname]"),
+        ("Q50268", "Q160733", "SUPRATIKA [LABELS DIFFER: SUPRATIKA]"),
+        ("Q50436", "Q160791", "BRIHADASVA of Kosala [LABELS DIFFER: BRIHADASVA of Kosala]"),
+        ("Q153455", "Q160680", "SUNAKSHTRA MARUDEVA"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "
