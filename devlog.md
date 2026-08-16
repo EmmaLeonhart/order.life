@@ -4083,3 +4083,67 @@ explicitly not a reason to re-open the Vari question.
 Item 2 is now closed and marked so, with the withdrawn claim written into it
 rather than deleted — the point is that the next session should not rediscover
 "two Licinias" and file it again.
+
+## 2026-08-15 — Two Licinii Crassi carried Wikidata ids three generations too late
+
+Item 2e, the one thing that survived the withdrawn Licinii Vari investigation.
+
+**The certain part needs no identification argument, only arithmetic.** `Q72972`
+is the father of `Q72810` Licinia, wife of `Q72807` P. Mucius Scaevola (cos. 175
+BC), so he belongs around 235–183 BC. Its `P61` was `Q29518656` — P. Licinius
+Crassus Dives, **tribune of the plebs 110 BC**, son of Mucianus. `Q72981` is
+aliased *"Publius /Licinius-Crassus/ consul 171 BC"* in the dump itself, and its
+`P61` was `Q20100913` — P. Licinius Crassus, **praetor 57 BC**.
+
+Both land about a century below the records they sit on, and `Q29518656` and
+`Q20100913` are themselves a father-son pair. So a pair of late-Republican
+Wikidata items was matched onto a pair of mid-Republican dump records on name
+alone. **A wrong external id is worse than none**: `qa_links_match.tsv` reports
+the record as confirmed against a person it is not.
+
+### The replacements, at the confidence each actually has
+
+`Q72981` → `Q746582` (cos. 171 BC) is **strong**, and confirmed from the child
+side rather than the name: Wikidata gives Q746582 the children Q19715630
+*"Marcus Licinius Crassus, grandfather of Crassus the triumvir"* and Q715499
+Mucianus, and the dump's Q72981 has child Q73260 "Marcus Licinius Crassus
+Agelastus" — Agelastus is the triumvir's grandfather.
+
+`Q72972` → `Q929472` (cos. 205 BC, pontifex maximus, b. −235 d. −183) is **good
+but not confirmed from the child side**, because Wikidata lists no children for
+Q929472. It rests on three independent things agreeing: the dates fit a father
+of a woman who married the cos. 175; the dump makes Q72810 Licinia and Q72981
+(cos. 171) siblings; and the standard account of Mucianus's adoption is that he
+was adopted by his **maternal uncle**, i.e. Licinia's brother the cos. 171 —
+exactly the sibling pair the dump already holds, with the adoption itself
+carried on Wikidata as Mucianus's second father.
+
+Written into the script's docstring at that confidence deliberately. If Q929472
+is later shown wrong, the chronological finding stands and the id should go back
+to empty, not back to Q29518656.
+
+### The dry run caught a repair I had planned wrong
+
+`Q72981` already carried **both** `Q20100913` and `Q746582` — someone had added
+the correct id and left the wrong one beside it. The script as first written
+retargeted the wrong id onto the right one and produced `['Q746582',
+'Q746582']`, a duplicate claim: a different defect from the one being repaired.
+It now drops the wrong claim when the right one is already present, and
+retargets only otherwise.
+
+Two things follow. The plan was wrong and reading the dry-run output is what
+caught it, not the plan being checked again. And Q72981 already holding the
+correct id is **independent confirmation of that identification** — arrived at
+by someone else, by another route.
+
+### Verified
+
+16 files, 8 insertions and 128 deletions — 8 retargets of one line each and 8
+dropped claim blocks. Tiny and semantic, because the writer preserves each
+file's own indent; the same change a week ago would have reformatted 16 whole
+files.
+
+Both wrong ids are gone from every tracked item (`git grep`, no matches). And
+the check that matters: across all 16 changed files, **0 genealogical claims
+moved** — every P47/P48/P20/P42 value set is identical to HEAD, so edges.tsv
+cannot have moved and no regeneration was needed.

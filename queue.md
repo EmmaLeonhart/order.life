@@ -651,27 +651,6 @@ with AskUserQuestion instead of parking it here.**
    as of 2026-08-15, where before the repair it was 129,250 against 128,596. That gap is
    the dead spellings, visible without trusting any repair tool.
 
-2e. **`Q72972` CARRIES A WIKIDATA ID THAT CANNOT BE RIGHT — small, bounded, and the only
-   thing that survived the Licinii Vari investigation.**
-
-   `Q72972` is the father of `Q72810` Licinia, the wife of `Q72807` P. Mucius Scaevola
-   (cos. 175 BC). It is aliased **"Gaius Licinius Varus /Licinius-Crassus/"** and
-   **"Publius Licinius Varus Licinius Crassus Dives"**. Its `P61` is **`Q29518656`**, which
-   Wikidata gives as **P. Licinius Crassus Dives, the son of Mucianus** — roughly two
-   generations *below* the cos. 175, while this record stands as father of the cos. 175's
-   wife.
-
-   So either the wd id is attached to the wrong record, or `Q72972` merges two men. **Look
-   it up and decide which; do not guess.** If it is a merge, repair order applies — unmerge
-   first. If it is just a wrong `P61`, that is a one-property fix.
-
-   **Graph impact is probably nil either way** (`P61` is not a genealogical edge), so this
-   is a correctness-of-record item, not a structural one. Verify with `verify_repair.py`
-   only if parent/child claims end up changing.
-
-   **DO NOT re-open the Licinii Vari attachment on the back of this.** That question is
-   closed — see below.
-
 2. **✅ THE LICINII VARI — CLOSED 2026-08-15. THE LINE IS FINE. Read this before
    "discovering" it again.**
 
