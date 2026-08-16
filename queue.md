@@ -644,28 +644,58 @@ with AskUserQuestion instead of parking it here.**
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-1c. **REPOINT THE 6 REMAINING FILES THAT SPELL THE VACATED QID `Q72693`. Graph-neutral,
-   bounded, and it removes a false two-father reading.**
+1d. **MEASURE THE DUMP-WIDE VACATED-REFERENCE COUNT, and close the enforcement gap that
+   creates it. `Q72693` is done; nobody knows how many others there are.**
 
-   Found 2026-08-15 by grepping the item files while the extract ran. All six resolve
-   correctly today, so **the graph is right and only the records are untidy** — but
-   `merge_cluster.py`'s own rule is that after a merge **no file may still claim the
-   loser's qid**, because vacating a qid some file still claims lets that file win it and
-   inject its claims. That is what produced the phantom Cato 2-cycle.
+   **THE GAP, found 2026-08-15 and the reason this item exists.** This file states the rule
+   as *"after a merge, NO file may still claim the loser's qid"*, because vacating a qid
+   some file still claims lets that file win it and inject its claims — the phantom Cato
+   2-cycle came from exactly that. **`merge_cluster.py` does not implement that rule.** Its
+   post-merge sweep checks two narrower things:
 
-   | file | its `id` | what it says |
-   |---|---|---|
-   | `Q144279.json` | `Q144279` | `P20` child `Q72693`, `Q73011` — the **true** father edge, dead spelling |
-   | `Q72434.json`, `Q72514.json`, `Q87226.json`, `Q87280.json`, `Q185444.json` | all `Q72434` | `P47` father `Q72615` **and** `Q72693` — one man listed twice |
+   1. no file whose **`id`** is a loser — that is *ownership*, not reference;
+   2. no alias cited by **the survivor's own record** (`stale = [v for v in vals(d, p) if
+      v in alias]`, run only on `load(surv)`).
 
-   So `Q72434` reads as a two-father record while having exactly one father. Under
-   `CLAUDE.md` that is not case 1, 2 or 3 — it is not a parentage claim at all, it is one
-   claim written twice. Repoint `Q72693` → `Q72615` and deduplicate; expect **no change to
-   `edges.tsv`** and `children_over_2_parents` to fall by 1.
+   **A third-party record citing the loser is never examined.** `Q72786`, `Q144279` and
+   `Q72434` were all third parties to the `Q72615`/`Q72693` merge; they cited the loser and
+   nothing ever looked at them. So this is not drift or a stray hand edit — **the
+   enforcement has never covered this case, and every merge in this repo's history could
+   have left the same trail.**
 
-   **A trap worth keeping:** `Q72514.json` has `id` `Q72434`, while `Q72514` is separately
-   the qid of `Q73893`'s father. **The filename is not the record.** Checking this by
-   filename would have found a second father for Quintus that does not exist.
+   **What is known, measured:** the redirect map holds **57,440** vacated qids. The
+   `Q72693` set was 6 files. The dump-wide figure is unmeasured.
+
+   **HOW TO MEASURE IT — read this before choosing a method, all three were tried.**
+
+   | approach | result |
+   |---|---|
+   | `git grep -l '"Qxxxxx"'`, one or few qids | **11.6 s.** ~70x faster than a Python pass; this is what `repoint_vacated_qids.py` uses |
+   | `git grep -F -f` with all 57,440 patterns | **timed out past 10 min.** Does not scale |
+   | Python pass parsing all 164,558 item files (`vacated_qid_audit.py`) | correct, ~15-20 min, and **killed twice by the runner before it finished** |
+
+   **So the durable answer is neither: put it in `extract_genealogy.py`.** That script
+   already opens and parses every item file and already resolves every claim through the
+   redirect map — it is doing 100% of this work and throwing the mismatches away. Have it
+   emit `qa_vacated_refs.tsv` alongside the extracts, and the measurement becomes free and
+   automatic on every `verify_repair.py` run. `vacated_qid_audit.py` is kept as the
+   reference implementation and the thing to check a new extract against; it is correct,
+   just too slow to run casually.
+
+   Then repair with `repoint_vacated_qids.py`, which takes any number of qids and is
+   already written for it. **Expect it to be graph-neutral every time** — the extractor
+   resolves both spellings to the same edge, so the records change and `edges.tsv` cannot.
+   Prove it the way the `Q72693` pass did rather than assuming it: compare resolved claim
+   sets per file, HEAD against working tree.
+
+   **One correction to carry forward.** When item 1c was filed it claimed the repair
+   "removes a false two-father reading" from `qa_same_role_parents.tsv`. **Checked after
+   applying: `Q72434` does not appear in that file at all**, so that benefit was asserted
+   and is not real. What the repair actually buys is narrower and worth stating honestly:
+   the merge rule becomes true for this qid, so a re-issued `Q72693` can no longer point
+   five records at a different person; and a raw-qid comparison can no longer be fooled on
+   these records in either direction. Do not repeat the `qa_same_role_parents.tsv` claim
+   for the dump-wide pass without measuring it first.
 
 2. **`Q73308` NEEDS A FATHER. One man, one edge.**
 

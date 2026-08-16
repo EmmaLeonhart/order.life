@@ -3807,3 +3807,69 @@ its script passes while measuring the wrong thing.
 
 No item files were touched this tick, so the graph is unchanged and no
 regeneration was needed.
+
+## 2026-08-15 — Q72693 repointed; the merge rule is written stronger than it is enforced
+
+Item 1c: the six files still spelling the qid merged away into `Q72615` on
+2026-07-31. Done — one repoint (`Q144279`'s `P20` child) and five
+drop-duplicates (`Q72434`'s father, listed once as `Q72615` and once as the
+dead spelling, across its whole shadow set).
+
+**Proven graph-neutral rather than asserted.** For each of the six files, the
+resolved claim sets were compared HEAD against working tree: all six
+**IDENTICAL**. `git grep` for `"Q72693"` across tracked items now returns
+nothing. No regeneration was run and none was needed — the extractor resolves
+both spellings to the same edge, so `edges.tsv` could not have moved, and
+running a 20-minute in-place extract to confirm a proof is how `persons.tsv`
+got truncated on 2026-08-12.
+
+### The finding that outlasts the repair
+
+`queue.md` states the rule as *"after a merge, NO file may still claim the
+loser's qid"* — the phantom Cato 2-cycle is what happens when it is broken.
+**`merge_cluster.py` does not implement that rule.** Its post-merge sweep
+checks (1) that no file's own `id` is a loser, which is ownership rather than
+reference, and (2) that the **survivor's own record** cites no alias. A
+*third-party* record citing the loser is never looked at.
+
+`Q72786`, `Q144279` and `Q72434` were all third parties to that merge. That is
+why the residue existed: not drift, not a hand edit — **the enforcement has
+never covered this case**, so every merge in this repo's history could have
+left the same trail. The redirect map holds 57,440 vacated qids and the
+dump-wide count is unmeasured. Filed as item 1d.
+
+### Three ways to scan 164k files, timed
+
+Worth recording because two of them failed and the reason generalises.
+
+| approach | result |
+|---|---|
+| `git grep -l` for one or a few qids | **11.6 s** |
+| `git grep -F -f` with all 57,440 patterns | **timed out past 10 min** |
+| Python pass parsing every item file | correct, 15-20 min, **killed twice by the runner** |
+
+So `repoint_vacated_qids.py` uses `git grep` — about 70x faster than the
+Python pass on the same question, because the files are tracked and git does
+not stat them one at a time. But it does not scale to the full redirect map,
+so the dump-wide audit needs a third route: **`extract_genealogy.py` already
+parses every file and already resolves every claim through the redirect map.**
+It is doing all of this work and discarding the mismatches. Emitting them makes
+the measurement free on every `verify_repair.py` run. `vacated_qid_audit.py`
+stays as the reference implementation.
+
+### A claim I made and then had to withdraw
+
+Filing item 1c I wrote that the repair "removes a false two-father reading"
+from `qa_same_role_parents.tsv`. Checked after applying: **`Q72434` is not in
+that file at all.** The benefit was asserted, not measured, and it is not real.
+
+What the repair actually buys: the merge rule becomes true for this qid, so a
+re-issued `Q72693` can no longer point five records at a different person; and
+a raw-qid comparison can no longer be fooled on these records. Narrower than
+advertised, still worth doing. Recorded in item 1d so the dump-wide pass is not
+justified on the same unchecked claim.
+
+One incidental: two item files in this dump hold valid JSON that is not an
+object, which crashed the first audit run. `merge_cluster.py` already documents
+and handles this, so the guard added matches existing precedent rather than
+inventing a convention.
