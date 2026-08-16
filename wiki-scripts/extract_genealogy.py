@@ -5,6 +5,19 @@ Produces compact TSVs under wikibase/analysis/:
 - persons.tsv    one row per item with label, sex, dates, external IDs
 - edges.tsv      directed parent -> child edges (from P47/P48/P20)
 - spouses.tsv    undirected spouse pairs (from P42; deduped canonical form)
+- redirects.tsv  filename qid -> internal id, for files whose id differs
+- qa_self_edges.tsv  records listing themselves as their own parent
+- qa_vacated_refs.tsv  claims naming a qid that redirects somewhere else
+
+EVERY OUTPUT IS WRITTEN ATOMICALLY (tmp file, then os.replace). persons.tsv used to be
+opened "w" and written row by row during the scan, so at any moment before the run
+finished the file on disk was a valid-looking PREFIX of the real thing: it parsed, its
+rows were well formed, and nothing downstream checked that the run completed.
+verify_repair.py calls this script as its first step, so an interrupted extract left
+compare_tangles, compare_depth and check_invariants all reading a half-file -- failing in
+the direction that reports success. It happened for real on 2026-08-12, truncating
+persons.tsv by 71,218 rows, and the run has been killed by a bounded runner twice since.
+An interrupted run now leaves the previous good file untouched.
 
 Parent/child source of truth (which P-IDs carry genealogical meaning):
   P47 = Father, P48 = Mother, P20 = Child, P42 = Spouse, P55 = Sex,
@@ -14,6 +27,7 @@ Edges are deduped so an A--B link present as both Father(A)->Child(B)
 and Child(A)->Parent(B) counts once.
 """
 import json
+import os
 import sys
 import io
 from pathlib import Path
@@ -24,6 +38,39 @@ REPO = Path(__file__).resolve().parent.parent
 ITEMS = REPO / "wikibase" / "items"
 OUT = REPO / "wikibase" / "analysis"
 OUT.mkdir(parents=True, exist_ok=True)
+
+class AtomicWrite:
+    """Write to <name>.tmp, then os.replace onto <name> only if the block completes.
+
+    os.replace is atomic on Windows and POSIX alike, so a reader either sees the whole
+    previous file or the whole new one -- never a prefix of the new one. On any exception,
+    and on a kill that unwinds normally, the temp file is removed and the old output
+    stands. A hard kill (-9) leaves a .tmp behind, which is harmless and obvious.
+    """
+
+    def __init__(self, path, header=None):
+        self.path = path
+        self.tmp = path.with_suffix(path.suffix + ".tmp")
+        self.header = header
+        self.f = None
+
+    def __enter__(self):
+        self.f = open(self.tmp, "w", encoding="utf-8", newline="\n")
+        if self.header:
+            self.f.write(self.header)
+        return self.f
+
+    def __exit__(self, exc_type, exc, tb):
+        self.f.close()
+        if exc_type is None:
+            os.replace(self.tmp, self.path)
+        else:
+            try:
+                os.unlink(self.tmp)
+            except OSError:
+                pass
+        return False
+
 
 P_FATHER = "P47"
 P_MOTHER = "P48"
@@ -93,13 +140,19 @@ def main():
     total = len(files)
     print(f"Scanning {total} items...", flush=True)
 
-    persons_f = open(OUT / "persons.tsv", "w", encoding="utf-8", newline="\n")
-    persons_f.write("qid\tlabel\tsex\tbirth\tdeath\tgedcom\twikidata_qid\tgeni_id\n")
+    persons_out = AtomicWrite(
+        OUT / "persons.tsv",
+        "qid\tlabel\tsex\tbirth\tdeath\tgedcom\twikidata_qid\tgeni_id\n")
+    persons_f = persons_out.__enter__()
 
     parent_edges = set()  # (parent_qid, child_qid)
     spouse_pairs = set()  # canonicalized frozenset
     redirects = {}        # filename_qid -> target entity id (for items with mismatched id)
     seen_ids = set()      # canonical entity ids already written
+    # (owner_qid, pid, raw_target) for every genealogical claim, kept raw. The redirect map
+    # is only complete once the scan is, so the mismatches cannot be identified until
+    # afterwards -- see the qa_vacated_refs.tsv block below for what this is for.
+    raw_refs = []
 
     persons_with_claims = 0
     for i, p in enumerate(files):
@@ -154,27 +207,31 @@ def main():
             parent = get_entity_id(c)
             if parent:
                 parent_edges.add((parent, qid))
+                raw_refs.append((qid, P_FATHER, parent))
         for c in claims.get(P_MOTHER, []):
             parent = get_entity_id(c)
             if parent:
                 parent_edges.add((parent, qid))
+                raw_refs.append((qid, P_MOTHER, parent))
         # Child(X) of qid  =>  qid -> X
         for c in claims.get(P_CHILD, []):
             child = get_entity_id(c)
             if child:
                 parent_edges.add((qid, child))
+                raw_refs.append((qid, P_CHILD, child))
 
         # Spouse edges: undirected
         for c in claims.get(P_SPOUSE, []):
             other = get_entity_id(c)
             if other and other != qid:
                 spouse_pairs.add(frozenset((qid, other)))
+                raw_refs.append((qid, P_SPOUSE, other))
 
         if (i + 1) % 20000 == 0:
             print(f"  {i+1}/{total}  parent_edges={len(parent_edges):,}  "
                   f"spouses={len(spouse_pairs):,}", flush=True)
 
-    persons_f.close()
+    persons_out.__exit__(None, None, None)
 
     # Canonicalize edges: rewrite any QID that is a known redirect source
     # to its target. Edges collected from claims may still cite the redirect
@@ -193,8 +250,7 @@ def main():
     # So record them separately, and let I2 read this instead.
     self_edges = sorted({canon(a) for a, b in parent_edges if canon(a) == canon(b)},
                         key=lambda q: (0, int(q[1:])) if q[1:].isdigit() else (1, q))
-    with open(OUT / "qa_self_edges.tsv", "w", encoding="utf-8", newline="\n") as f:
-        f.write("qid\n")
+    with AtomicWrite(OUT / "qa_self_edges.tsv", "qid\n") as f:
         for q in self_edges:
             f.write(f"{q}\n")
     canon_spouses = set()
@@ -204,20 +260,56 @@ def main():
         if ca != cb:
             canon_spouses.add(frozenset((ca, cb)))
 
-    with open(OUT / "edges.tsv", "w", encoding="utf-8", newline="\n") as f:
-        f.write("parent\tchild\n")
+    with AtomicWrite(OUT / "edges.tsv", "parent\tchild\n") as f:
         for a, b in sorted(canon_parent):
             f.write(f"{a}\t{b}\n")
 
-    with open(OUT / "spouses.tsv", "w", encoding="utf-8", newline="\n") as f:
-        f.write("a\tb\n")
+    with AtomicWrite(OUT / "spouses.tsv", "a\tb\n") as f:
         for pair in sorted(tuple(sorted(pair)) for pair in canon_spouses):
             f.write(f"{pair[0]}\t{pair[1]}\n")
 
-    with open(OUT / "redirects.tsv", "w", encoding="utf-8", newline="\n") as f:
-        f.write("from_qid\tto_qid\n")
+    with AtomicWrite(OUT / "redirects.tsv", "from_qid\tto_qid\n") as f:
         for src, dst in sorted(redirects.items(), key=lambda kv: int(kv[0][1:])):
             f.write(f"{src}\t{dst}\n")
+
+    # qa_vacated_refs.tsv -- every genealogical claim naming a qid that redirects elsewhere.
+    #
+    # merge_cluster.py's standing rule is that after a merge no file may still claim the
+    # loser's qid, because vacating a qid some file still claims lets that file win it and
+    # inject its claims -- the phantom Cato 2-cycle came from exactly that. But its sweep
+    # checks whether a file's own id is a loser (ownership) and whether the SURVIVOR cites
+    # an alias. A third-party record citing the loser is never examined; Q72786, Q144279
+    # and Q72434 all did, undetected, from 2026-07-31 to 2026-08-15.
+    #
+    # These refs are invisible in edges.tsv by construction, because canon() resolves both
+    # spellings to the same edge -- which is exactly why they accumulate unseen. This
+    # script is the only place that sees the raw and canonical forms together, and it was
+    # discarding the raw one. Emitting it costs one list and no extra I/O; measuring it any
+    # other way needs a second 15-minute pass over 164k files, which was tried and killed
+    # twice, or a git grep over 57,440 patterns, which timed out past ten minutes.
+    #
+    # SCOPE, and it is a real limit: this counts RECORDS, not files. A shadow file whose id
+    # is already in seen_ids is skipped by the scan, so a reference held only in a shadow
+    # copy is not counted. Shadows must agree with their canonical file anyway
+    # (shadow_audit.py at 0), and repoint_vacated_qids.py finds every FILE with git grep at
+    # repair time. That split is deliberate -- but do not read this number as a file count.
+    vacated = [(owner, pid, raw, canon(raw)) for owner, pid, raw in raw_refs
+               if canon(raw) != raw]
+    with AtomicWrite(OUT / "qa_vacated_refs.tsv",
+                     "owner_qid\tpid\traw_target\tresolves_to\n") as f:
+        for owner, pid, raw, to in sorted(
+                vacated,
+                key=lambda r: (int(r[0][1:]) if r[0][1:].isdigit() else 0, r[1], r[2])):
+            f.write(f"{owner}\t{pid}\t{raw}\t{to}\n")
+
+    # The costly shape: one person named twice in the same role on one record, once under
+    # a dead spelling, so the record reads as having two parents where it has one written
+    # twice. Q72434 was this until 2026-08-15.
+    slots = {}
+    for owner, pid, raw in raw_refs:
+        slots.setdefault((owner, pid), []).append(raw)
+    dup_slots = sum(1 for raws in slots.values()
+                    if len(set(raws)) > len({canon(r) for r in raws}))
 
     print(f"\nDone.")
     print(f"  files scanned:  {total:,}")
@@ -227,6 +319,9 @@ def main():
     print(f"  parent edges (canonical): {len(canon_parent):,}")
     print(f"  spouse pairs (raw):       {len(spouse_pairs):,}")
     print(f"  spouse pairs (canonical): {len(canon_spouses):,}")
+    print(f"  claims naming a vacated qid: {len(vacated):,}  "
+          f"across {len({r[0] for r in vacated}):,} record(s)")
+    print(f"  ...of those, one person named TWICE in a role: {dup_slots:,} slot(s)")
     print(f"  output dir:     {OUT}")
 
 

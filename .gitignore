@@ -18,3 +18,10 @@ Thumbs.db
 
 # Repair-verification snapshot (wiki-scripts/verify_repair.py --snapshot)
 wikibase/analysis/.repair_snapshot.tsv
+
+# In-progress extract output (wiki-scripts/extract_genealogy.py AtomicWrite).
+# Every output is written to <name>.tmp and os.replace'd into place only when the run
+# completes, so a killed run leaves one of these behind. Transient by definition, and
+# without this rule an auto-commit landing mid-extract would commit a half-written TSV --
+# which is the failure the atomic writes exist to prevent, arriving by another door.
+wikibase/analysis/*.tsv.tmp
