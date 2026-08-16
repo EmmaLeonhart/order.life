@@ -108,3 +108,74 @@ sweeps for stragglers. Run `verify_repair.py` around it.
 fathers, `Q160932` Pushyamitra and `Q160933` Marhindi Maurya. **Measured 2026-08-16, it has
 one father, `Q160932`.** Either it was repaired in a later pass or the observation was
 wrong. Do not cite the two-father claim without re-measuring.
+
+---
+
+# UPDATE 2026-08-16, same day: the job is ~3x larger than mapped above, and label matching does not work
+
+The 16-king mapping above is **correct and hand-verified** — it came from walking the three
+father-chains in parallel, position by position. What was wrong was the estimate that it
+amounted to 28 merges and could be applied on its own.
+
+## `merge_cluster.py`'s I4 pre-check refused it, correctly
+
+Dry run of the `shunga-triple` cluster:
+
+    Q2175 <- Q50725: 1 parent(s) -> 3  (Q2181, Q50754, Q50758)
+    Q2175 <- Q160916: 1 parent(s) -> 3  (Q2181, Q50754, Q160933)
+
+Agnimitra's **mother is triplicated too**: `Q2181` / `Q50758` / `Q160933` "Marhindi
+Maurya". Merging the kings without their parents leaves the survivor holding two copies of
+one mother, which trips the >2-parent invariant. This is the porcia shape exactly — merging
+Porcia forced the Atilia and Atilius records above her.
+
+**The gate caught this before anything was written.** It is the same lesson as the dry run
+that caught the duplicate `P61` claim the day before: the plan was wrong, and reading the
+tool's output is what found it.
+
+## Marhindi Maurya is the joint between the two dynasties
+
+`Q2181` father `Q2188` Brihadratha Maurya; `Q50758` father `Q50792`, spouse `Q50754`
+Pushyamitra; `Q160933` father `Q160951`, spouse `Q160932`. She is **Brihadratha's daughter,
+married to the founder of the Shunga dynasty, mother of Agnimitra** — the marriage by which
+the Shungas inherit the Mauryas in this genealogy's telling.
+
+**So `shunga` and `maurya` are not separable clusters.** Merging either pulls in the other
+through her, and any plan that treats them as two jobs is wrong.
+
+## The real size: ~65 groups, ~90 records
+
+Taking the 16 kings and closing over their parents reaches roughly **65 duplicate groups
+and ~90 records merged away**, not 28 — and it runs back through the Nandas, the
+Shishunagas and the Haryankas to Bimbisara, and to Shuddhodana, the Buddha's father.
+
+## THE WIDER BLOCK IS NOT A TRIPLE IMPORT — measured
+
+Flood-filling family links inside the three qid ranges reaches **1,256 records**: A=59,
+B=180, **C=1,017**. Wikidata ids: A=9, B=0, C=0.
+
+Of 945 label groups in that region, only **33 appear in all three blocks**, 59 in two, and
+**853 in one**. So `queue.md`'s framing — "the block is imported three times" — is true of
+the **king-list spine** and false if read as covering everything connected to it. The
+`Q160xxx` block is a much larger Indian dynastic corpus that *overlaps* A and B on a spine;
+most of it is unique content. **Do not plan a bulk merge over the region.**
+
+## Label matching is unreliable here. Use the structural walk.
+
+The closure above was computed by matching normalised labels, and it visibly splits records
+that the chain-walk proves are the same king:
+
+| king | how the label matcher saw it |
+|---|---|
+| Dasharatha | `Q2194` "Dasaratha Maurya" vs `Q50832` "Dasharatha Maurya" — **different keys** |
+| Pushyamitra | `Q50754` "Pusyamitra Shunga" vs `Q160932` "…Pushyamitra Shunga" — **different keys** |
+| Brihadratha | `Q2188` "Brihadratha Maurya" vs `Q50792` "Brihadratha" — **different keys** |
+| Ashoka | `Q2206` "Ashoka" vs `Q160996` "Ashoka II, King of Maurya III" — **different keys** |
+
+Four of sixteen kings mis-grouped by spelling alone, which means the ~65/~90 figures are
+approximate and under-count. **The next step is a structural matcher** — walk the three
+chains in parallel from a verified anchor and pair by position, then extend to parents and
+spouses by the same method, and only then build the cluster.
+
+**Nothing has been applied.** The `shunga-triple` cluster exists in `merge_cluster.py`
+carrying the verified king pairs and a prominent DO-NOT-RUN guard.

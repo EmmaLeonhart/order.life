@@ -450,6 +450,64 @@ CLUSTERS = {
         ("Q58290", "Q87454", "of Tsai -- same father Q87460 and same child Q87448, by "
                              "identity"),
     ],
+    # queue.md item 0d (2026-08-16). The Shunga king list is in this dump THREE times:
+    # Q2xxx, Q50xxx and Q160xxx, father-to-son in identical regnal order. Mapping and the
+    # evidence are in wikibase/analysis/maurya_shunga_triples.md.
+    #
+    # This is duplication by construction rather than by resemblance: these are named kings
+    # of a named dynasty in regnal order, and the Q160xxx block labels them as such --
+    # "King of Shunga II - Agnimitra (149141 BC)". There was one Shunga Agnimitra.
+    #
+    # Q2xxx is the survivor, measured: 6 of its 12 records carry a Wikidata id against 0 of
+    # 16 in each of the other two blocks. It is also the block the heo-hwang-ok-ayodhya
+    # bridge attaches to.
+    #
+    # THE MERGE GAINS DEPTH. Q2175 Agnimitra has no father in the survivor block, while
+    # both other copies carry Pushyamitra Shunga, the dynasty's founder. Pushyamitra has no
+    # Q2xxx copy at all, so his own pair merges into Q50754 by the lower-qid convention and
+    # the surviving chain lengthens by a generation.
+    # *** DO NOT RUN THIS CLUSTER YET. IT IS INCOMPLETE AND WILL FAIL I4. ***
+    #
+    # The dry run on 2026-08-16 reported, correctly:
+    #     Q2175 <- Q50725: 1 parent(s) -> 3  (Q2181, Q50754, Q50758)
+    # because Agnimitra's MOTHER is triplicated too -- Q2181/Q50758/Q160933 "Marhindi
+    # Maurya" -- and merging the kings without their parents leaves the survivor with two
+    # copies of one mother. Same shape as the porcia cluster, where merging Porcia forced
+    # the Atilia and Atilius records above her.
+    #
+    # Marhindi is the JOINT between the two dynasties: Brihadratha Maurya's daughter,
+    # married to Pushyamitra Shunga, mother of Agnimitra. So shunga and maurya are NOT
+    # separable clusters -- merging either pulls in the other through her.
+    #
+    # The parent-closure over the 16 kings is roughly 65 groups and ~90 records, reaching
+    # back through the Nandas, Shishunagas and Haryankas to Bimbisara and Shuddhodana. It
+    # is not the 28 merges queue.md item 0d estimated.
+    #
+    # The pairs below are hand-verified by walking the three father-chains in parallel and
+    # are correct as far as they go. They are kept because that verification was real work.
+    # Adding the closure needs a STRUCTURAL matcher, not a label matcher -- see the note in
+    # maurya_shunga_triples.md on why label matching splits Dasaratha/Dasharatha,
+    # Pusyamitra/Pushyamitra and Brihadratha/Brihadratha Maurya into false singletons.
+    "shunga-triple": [
+        ("Q2175", "Q50725", "Agnimitra, Shunga II"),
+        ("Q2175", "Q160916", "Agnimitra, Shunga II -- third copy"),
+        ("Q2165", "Q50681", "Vasumitra, Shunga IV"),
+        ("Q2165", "Q160900", "Vasumitra, Shunga IV -- third copy"),
+        ("Q2150", "Q50645", "Bhadraka, Shunga V"),
+        ("Q2150", "Q160882", "Bhadraka, Shunga V -- third copy"),
+        ("Q2134", "Q50597", "Pulindaka, Shunga VI"),
+        ("Q2134", "Q160858", "Pulindaka, Shunga VI -- third copy"),
+        ("Q2117", "Q50524", "Ghosha, Shunga VII"),
+        ("Q2117", "Q160830", "Ghosha, Shunga VII -- third copy"),
+        ("Q2101", "Q50464", "Vajramitra, Shunga VIII"),
+        ("Q2101", "Q160803", "Vajramitra, Shunga VIII -- third copy"),
+        ("Q2086", "Q50412", "Bhagabhadra, Shunga IX -- survivor carries wd Q854679"),
+        ("Q2086", "Q160777", "Bhagabhadra, Shunga IX -- third copy"),
+        ("Q2074", "Q50360", "Devabhuti, Shunga X -- survivor carries wd Q3878846"),
+        ("Q2074", "Q160757", "Devabhuti, Shunga X -- third copy"),
+        ("Q50754", "Q160932", "Pushyamitra Shunga, the founder -- NO Q2xxx copy exists, "
+                              "so the lower of the two remaining qids survives"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "

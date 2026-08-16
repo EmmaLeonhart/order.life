@@ -4270,3 +4270,68 @@ It recorded `Q160916` Agnimitra as having two fathers, `Q160932` Pushyamitra and
 `Q160933` Marhindi Maurya. **Measured today: it has one, `Q160932`.** Either it
 was repaired in a later pass or the observation was wrong. The item now says not
 to cite it without re-measuring.
+
+## 2026-08-16 — The Maurya/Shunga dedupe is three times larger than filed, and I4 stopped me
+
+Item 0d, execution attempt. **Nothing applied.** The gate refused it, correctly,
+and the refusal turned out to be the useful part.
+
+### merge_cluster.py's I4 pre-check caught a plan that was wrong
+
+    Q2175 <- Q50725: 1 parent(s) -> 3  (Q2181, Q50754, Q50758)
+
+Agnimitra's **mother is triplicated too** — `Q2181`/`Q50758`/`Q160933` "Marhindi
+Maurya" — so merging the kings without their parents would leave the survivor
+holding two copies of one mother. Exactly the porcia shape, where merging Porcia
+forced the Atilia and Atilius records above her.
+
+That is the fourth time this session a tool's own output caught a plan I would
+otherwise have executed: the Lepidus alias no-op, the `Q72981` duplicate-claim
+retarget, the indent reformatting, and now this.
+
+### Marhindi is the joint between the two dynasties
+
+She is **Brihadratha Maurya's daughter, married to Pushyamitra Shunga, mother of
+Agnimitra** — the marriage by which the Shungas inherit the Mauryas in this
+genealogy's telling. So `shunga` and `maurya` are **not separable clusters**;
+merging either pulls in the other through her, and the plan that treated them as
+two jobs was wrong before it started.
+
+### The real size, and a framing correction
+
+Closing over the 16 kings' parents reaches roughly **65 groups and ~90 records**,
+not the 28 the item estimated, running back through the Nandas, Shishunagas and
+Haryankas to Bimbisara — and to Shuddhodana, the Buddha's father.
+
+But the wider region is **not** a triple import, and that had to be measured
+rather than assumed in either direction. Flood-filling family links inside the
+three qid ranges reaches 1,256 records — A=59, B=180, **C=1,017** — and of 945
+label groups there, only **33 appear in all three blocks** against 853 in one.
+The `Q160xxx` block is a much larger Indian dynastic corpus that *overlaps* the
+other two on a king-list spine. `queue.md`'s "the block is imported three times"
+is true of the spine and false of the region. **No bulk merge over the region.**
+
+### Label matching does not work here, and the closure figures inherit that
+
+The ~65/~90 numbers came from matching normalised labels, and that method
+visibly splits records the chain-walk proves are one king:
+
+| king | as the label matcher saw it |
+|---|---|
+| Dasharatha | "Dasaratha Maurya" vs "Dasharatha Maurya" — different keys |
+| Pushyamitra | "Pusyamitra Shunga" vs "Pushyamitra Shunga" — different keys |
+| Brihadratha | "Brihadratha Maurya" vs "Brihadratha" — different keys |
+| Ashoka | "Ashoka" vs "Ashoka II, King of Maurya III" — different keys |
+
+**Four of sixteen kings mis-grouped by spelling alone**, so the closure
+under-counts. The 16-king mapping committed earlier today is unaffected — it came
+from walking the three father-chains in parallel, position by position, which is
+the identifier that actually works in a dump full of transliteration variants.
+
+Next step is a **structural matcher**: pair by position from a verified anchor,
+extend to parents and spouses the same way, then build the cluster. Applying a
+90-record merge off a mapping I know splits four of sixteen known cases would be
+the Licinii Vari mistake with more records attached.
+
+The `shunga-triple` cluster stays in `merge_cluster.py` carrying the verified
+king pairs, behind a prominent DO-NOT-RUN guard naming the I4 failure.
