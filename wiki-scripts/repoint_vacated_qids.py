@@ -63,6 +63,37 @@ def resolve(qid, red):
     return qid
 
 
+def detect_indent(text, default=2):
+    """The indent width this file already uses, so rewriting it does not reformat it.
+
+    The dump's convention is indent=2 -- measured 2026-08-15 over a 400-file sample of
+    tracked items: 399 at indent 2, 1 at indent 1. The odd ones out are damage. Every
+    apply_*.py in this repo writes json.dumps(..., indent=1), so each repair silently
+    reformats every file it touches: the six-file Q72693 repoint produced roughly 3,000
+    changed lines for six semantic edits, and doing that to the 1,711 files in the
+    dump-wide pass would have buried the actual change under millions of lines of noise.
+
+    Sniffing the existing width rather than hardcoding 2 also means a genuinely mixed
+    dump stays put instead of churning back and forth between passes.
+    """
+    for line in text.split("\n")[1:]:
+        stripped = len(line) - len(line.lstrip(" "))
+        if stripped > 0:
+            return stripped
+    return default
+
+
+def write_item(path, data, indent):
+    """Write an item file in place, preserving its formatting.
+
+    newline="\\n" is explicit because Path.write_text on Windows translates \\n to \\r\\n,
+    which .gitattributes normalises away at commit time but which makes every local diff
+    and every `cat -A` misleading in the meantime.
+    """
+    with open(path, "w", encoding="utf-8", newline="\n") as f:
+        f.write(json.dumps(data, ensure_ascii=False, indent=indent) + "\n")
+
+
 def target_of(claim):
     v = ((claim.get("mainsnak") or {}).get("datavalue") or {}).get("value")
     return v.get("id") if isinstance(v, dict) and v.get("id") else None
@@ -158,12 +189,13 @@ def main():
 
     edits = {}
     for path in hits:
-        data = json.loads(path.read_text(encoding="utf-8"))
+        text = path.read_text(encoding="utf-8")
+        data = json.loads(text)
         log = []
         for q in args:
             log += repoint(data, q, red)
         if log:
-            edits[path.name] = (data, log)
+            edits[path.name] = (data, log, detect_indent(text))
             owner = data.get("id") or path.stem
             print(f"  {path.name:<18} (id {owner})")
             for pid, action, tgt in log:
@@ -176,7 +208,7 @@ def main():
     # Every file claiming a touched record must end up identical, or the edit reverts the
     # moment a different file becomes the numerically-lowest claimant for that qid.
     stems = owners_and_shadows(red)
-    touched_owners = {d.get("id") or n[:-5] for n, (d, _) in edits.items()}
+    touched_owners = {d.get("id") or n[:-5] for n, (d, _, _i) in edits.items()}
     missing = []
     for owner in sorted(touched_owners):
         for stem in sorted(stems.get(owner, {owner})):
@@ -195,16 +227,17 @@ def main():
         print("Dry run. Re-run with --write to apply.")
         return 0
 
-    for name, (data, _) in edits.items():
-        (ITEMS / name).write_text(
-            json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    for name, (data, _, indent) in edits.items():
+        write_item(ITEMS / name, data, indent)
     for p in missing:
-        owner = json.loads(p.read_text(encoding="utf-8")).get("id") or p.stem
-        src = next((d for n, (d, _) in edits.items()
+        text = p.read_text(encoding="utf-8")
+        owner = json.loads(text).get("id") or p.stem
+        src = next((d for n, (d, _, _i) in edits.items()
                     if (d.get("id") or n[:-5]) == owner), None)
         if src is not None:
-            p.write_text(json.dumps(src, ensure_ascii=False, indent=1) + "\n",
-                         encoding="utf-8")
+            # Match the SHADOW's own formatting, not the source record's -- they are
+            # separate files and each should stay as it was written.
+            write_item(p, src, detect_indent(text))
     print(f"Wrote {len(edits) + len(missing)} file(s).")
 
     # Re-read from disk rather than from the objects held in memory -- the point is to
