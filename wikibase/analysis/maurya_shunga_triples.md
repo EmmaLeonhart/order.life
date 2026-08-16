@@ -179,3 +179,62 @@ spouses by the same method, and only then build the cluster.
 
 **Nothing has been applied.** The `shunga-triple` cluster exists in `merge_cluster.py`
 carrying the verified king pairs and a prominent DO-NOT-RUN guard.
+
+---
+
+# UPDATE 2026-08-16: the structural matcher works. 89 groups, 223 records, 134 merge away.
+
+`wiki-scripts/match_parallel_imports.py`. Seeded with the sixteen hand-verified king
+triples and propagated along the graph:
+
+    if X ~ Y then father(X) ~ father(Y) and mother(X) ~ mother(Y)
+
+Only unambiguous steps taken. Converged in 23 rounds: **16 seed groups / 44 records became
+89 groups / 223 records, of which 134 would merge away.**
+
+## It found the I4 blocker by itself
+
+`agnimitra:mother` → `Q2181` / `Q50758` / `Q160933` Marhindi Maurya — the triple whose
+absence made the first cluster trip the >2-parent invariant. No special-casing; it fell out
+of following the mother edge.
+
+## The label check vindicates the method
+
+**75 of 89 groups have agreeing labels. The 14 that disagree are all obviously one person**,
+and they are exactly the cases label matching would have missed:
+
+| structurally paired | labels |
+|---|---|
+| `Q2194`/`Q50832`/`Q160969` | Dasaratha Maurya \| Dasharatha Maurya \| King of Maurya IV - Dasharatha (232-224 BC) |
+| `Q2206`/`Q50908`/`Q160996` | Ashoka \| Ashoka \| Ashoka II, King of Maurya III |
+| `Q2188`/`Q50792`/`Q160951` | Brihadratha Maurya \| Brihadratha \| Brihadratha, King of Maurya |
+| `Q1983`/`Q49771`/`Q160564` | Brihadhvaj \| Brihadhvaj \| BRIHADVAJ |
+| `Q2253`/`Q51184`/`Q161129` | Bimbi \| Bimbi \| Princess Bimbi of Magadha |
+| `Q2269`/`Q51250`/`Q161173` | Drdhasena, King of Magadha \| … \| DRIDHASENA |
+
+Transliteration variants, regnal-title prefixes, and case. **Using the label as a check
+rather than a criterion turns each of these from a missed merge into a line of evidence.**
+
+## Five ambiguous steps refused, and they are the interesting ones
+
+    Q2286 SENAJIT father: ['Q52176', 'Q2289']  vs  Q51301:['Q51306']  vs  Q161211:['Q161215']
+
+`Q2286` has **two** fathers, so there is no unambiguous correspondence and the tool
+declined rather than picking one. Same for `Q153455` Sunakshtra Marudeva. These are
+genuine open questions about the dump, surfaced rather than papered over.
+
+## Where the duplication ENDS — a cross-tradition join
+
+Two groups came out with a single member: `Q78953` **Orontes I** and `Q78956`
+**Rhodogune**. That happens when every copy's parent edge points at the *same* record — so
+the three parallel Indian chains **converge on one shared Iranian record and stop being
+parallel there.**
+
+That is the natural boundary of the import, and it is exactly the kind of cross-tradition
+join `CLAUDE.md` protects. **The merge must not cross it.**
+
+## Status
+
+Nothing applied. The cluster still has to be written by hand from
+`wikibase/analysis/qa_parallel_matches.tsv`, which the matcher writes with a
+`labels_agree` column so the 14 disagreements get read before anything is merged.
