@@ -651,124 +651,65 @@ with AskUserQuestion instead of parking it here.**
    as of 2026-08-15, where before the repair it was 129,250 against 128,596. That gap is
    the dead spellings, visible without trusting any repair tool.
 
-2. **`Q73308` NEEDS A FATHER. One man, one edge.**
+2. **THE LICINII VARI — RESEARCH DONE 2026-08-15. `Q73308` does not need a father; there
+   is no father to find. The dump holds TWO Licinias and the Republic hangs from the wrong
+   one. Full write-up: `wikibase/analysis/licinii_vari_resolved.md`.**
 
-   > **THE 2026-08-05 RULING ON THIS ITEM WAS OBTAINED ON A BAD QUESTION AND IS
-   > WITHDRAWN.** Emma was asked *"where does the Roman Republic attach?"* and answered
-   > *"I am pretty sure we can just connect it with all of them. I don't understand why
-   > this is a decision."* On reading the write-up she named the error:
-   >
-   > > *"the problem with Rome here is that you were talking about something based off of
-   > > links when it was really based off of parents of an individual … the Roman Republic
-   > > isn't a person."*
-   >
-   > She is right. This is not a block of 103 records choosing an attachment point. It is
-   > **`Q73308`, one man, who needs one father** — the 103 follow because they are his
-   > descendants, which is a consequence, not the question. Framed as links, "all of them"
-   > is a reasonable answer; framed as parentage, it would give one man three fathers,
-   > which is the exact defect this file spends most of its length repairing.
-   >
-   > **So: do NOT write three parent edges, and do NOT protect them.** Nothing was applied
-   > — the withdrawn instruction never left this file.
-   >
-   > **What is actually true, measured 2026-08-05 from `edges.tsv`:** `Q90257` Aeneas is an
-   > ancestor of both `Q74644` Iulus (827 ancestors) and `Q74518` Romulus (781), but Iulus
-   > and Romulus are **collateral, not a chain** — neither is in the other's ancestry. All
-   > three reach `Q1` Aster. So a single father-edge to Iulus puts `Q73308` under Aeneas
-   > too; it cannot also put him under Romulus.
-   >
-   > **The real question, and it is small: who was `Q73308`'s father?** Not where a
-   > republic attaches.
-   >
-   > **AND IT IS NOT A QUESTION FOR EMMA — IT IS RESEARCH, AND IT IS OURS.** She said so
-   > on 2026-08-05: *"For item two, you need to do the research."* Do what worked on item
-   > 1: look the surrounding records up on Wikidata. `Q73308` itself has no Wikidata id
-   > and no ancestry on Geni (Emma, 2026-08-02 — do not fetch Geni), but its son `Q73140`
-   > Gaius Licinius Varus and grandson `Q72966` Licinia do sit in attested Republican
-   > prosopography, and the Licinii Vari are a real gens with a known consular line. **Go
-   > find who the father of that line was.** Only bring it back to Emma if the sources
-   > genuinely disagree — and then as a parentage question about one man.
-   >
-   > **How to apply it once answered** — remember an edge lives in TWO places: write `P47`
-   > on `Q73308` naming the father, AND `P20` on the father naming `Q73308`. Propagate to
-   > every shadow file claiming either qid (`shadow_audit.py` must stay at 0). Run
-   > `verify_repair.py --snapshot` before and `verify_repair.py` after; expected result is
-   > **103 records regaining their route to `Q1` Aster and no new tangle**. If a tangle
-   > appears the chosen father is downstream of `Q73308` — report it, do not silently drop
-   > the edge.
+   **This item used to read "Q73308 needs a father. One man, one edge." That premise is
+   wrong**, and the research says so rather than supplying a name.
 
-   <!-- superseded text kept below only so the measurements are not lost -->
-   > If Emma later prefers a single father, it is one edit: keep `Q74644` Iulus, drop the
-   > other two.
+   | looked up | result |
+   |---|---|
+   | `Q1338451` Gaius Licinius Varus, **cos. 236 BC** | **no father on Wikidata.** The line stops there |
+   | `Q2066659` P. Mucius Scaevola, **cos. 175 BC** | father Q. Mucius Scaevola; **no mother**; spouse **`Q12284962` Licinia** |
+   | `Q715499` Mucianus | father `Q2066659` **and** `Q746582` P. Licinius Crassus — adoptive + biological, CLAUDE.md case 2 |
 
-   **The cut is DONE (2026-08-02, `cut_edges.py licinius-varus-collision`).** What is left
-   is only the reattachment.
+   **So `Q73308` corresponds to nobody in the sources.** It sits a generation above the
+   consul of 236, which is where the evidence ends. Not a research gap to close — the edge
+   of the record.
 
-   Found 2026-08-02 while working the 71-record tangle — a third of everything then
-   trapped.
+   **THE ACTUAL DEFECT: two Licinias, eighteen Geni ids apart in one import block.**
 
-   `Q73308` is labelled **"Licinius Varus"**, alias `Licinius /Varus/` — GEDCOM surname
-   slashes, **no Wikidata id**. The dump records it as a child of `Q136506` **Flavia Julia
-   Constantia** (wd `Q238023`, d. 330, Constantine's sister) and `Q73455` **Licinius** (wd
-   `Q184549`, the emperor). Beneath it hangs the entire Republican Roman block:
+   | | `Q72810` — correct | `Q72966` — the problem |
+   |---|---|---|
+   | wikidata | **`Q12284962`** | none |
+   | geni | ...2188289**159** | ...2188289**192** |
+   | spouse | `Q72807` cos. 175 | `Q72963` pr. 215 |
+   | children | `Q72633` cos. 133, `Q141474` Mucianus | `Q72807` cos. 175 |
 
-       Q73308 Licinius Varus -> Q73140 Gaius Licinius Varus -> Q72966 Licinia Varus
-         -> Q72807 Publius Mucius Scaevola (b. 300 BC) -> ... -> the Mucii Scaevolae,
-            the Licinii Crassi, Pompey the Great, Sextus Pompey, Asinius Pollio
+   One copy is the cos. 175's **wife**, matching Wikidata claim for claim, and is why his
+   younger son was adopted into the Licinii Crassi as *Mucianus* — that adoption runs
+   through his mother's kin. The other is the same woman placed one generation too high as
+   his **mother**, which no source records. The Vari are already joined to this family
+   through the correct copy: `Q72972`, her father, is aliased **"Gaius Licinius Varus
+   /Licinius-Crassus/"**.
 
-   **Six centuries in one edge**, and it is what closes the 71-record tangle: the Republic
-   descends from the imperial house, which descends from the Republic.
+   **WHY IT IS NOT A SIMPLE DEDUPE.** `Q72966`'s only child is `Q72807`. Cut that false
+   edge and the 103 Republican records above her detach completely — nothing else holds
+   them. And `Q72972` is not a safe reattachment point as it stands: its wd `Q29518656` is
+   P. Licinius Crassus Dives, **Mucianus's son**, two generations below the cos. 175, while
+   the record simultaneously stands as father of the cos. 175's wife. It is itself a
+   conflation and must be untangled first.
 
-   **Wikidata settles the parentage outright: `Q238023` Constantia has exactly ONE child,
-   `Q166731` Licinius II — and the dump already holds him correctly as `Q136818`** (b. 315,
-   d. 326), with the same father and mother. So `Q73308` as a *second* son of that couple is
-   a name collision on *Licinius*, and nothing is lost by removing it: her real son is
-   already there.
+   **THIS IS `narrative_spine.md`'s SECOND KIND, and that is the finding.** The Licinii
+   Vari reach `Q1` Aster today, and they reach it through a mother-son link that no source
+   records, invented by a GEDCOM import to bridge two blocks. *"A severed line is honest
+   and one edge from correct. A line attached through the wrong story is already wrong
+   while measuring as fine."* **The 103 have been measuring fine this whole time**, and the
+   old framing of this item would have made it worse by stacking a second invented edge on
+   top.
 
-   **What it cost, measured after applying:**
+   **NEEDS EMMA — and legitimately, for the first time on this item.** The research is
+   done and it does not settle the attachment, because no edge above the consul of 236 can
+   be sourced at all. Three options, and the choice is narrative intent:
 
-   | | |
-   |---|---:|
-   | tangles | 14 → **13** |
-   | records in a tangle | 173 → **102** |
-   | largest tangle | 71 → **15** |
-   | **records that lost their route to `Q1` Aster** | **103** |
+   1. **Accept the severed line** — cut `Q72966` → `Q72807`; the 103 become rootless.
+   2. **Dedupe `Q72966` into `Q72810`** and re-hang the Vari stem from `Q72972`, after
+      resolving that record's own conflation.
+   3. **Invent a bridge** above `Q73308` deliberately — a Gaiad decision needing explicit
+      approval.
 
-   Those 103 are **the Roman Republic** — `Q138505` Gnaeus Pompeius Magnus, `Q138506`
-   Sextus Pompey, `Q139671` Gaius Asinius Pollio, the Scaevolae, the Licinii. Their *only*
-   route to Aster today runs through this false edge, i.e. **the Republic currently reaches
-   Aster by descending from its own remote descendants.**
-
-   **DO NOT GO LOOKING FOR HIS ANCESTRY. THERE ISN'T ANY. Emma, 2026-08-02.**
-   `Q73308` carries a Geni id, `P62` = `6000000030478073233`, and **no Wikidata id**. That
-   Geni id is bait: **he has no ancestry on Geni — none.** Do not fetch Geni for this
-   record, do not open the profile, do not treat the id as a lead. The record's only
-   recorded parents were ever the Constantia/Licinius pair that was cut on 2026-08-02 as a
-   name collision, and there is no source anywhere that supplies him with different ones.
-
-   The structural reading agrees: `Q73308` and his son `Q73140` are the **only two** of the
-   103 floating records from the `6000000030478` Geni block — the same import that produced
-   `Q73455` the emperor Licinius. The other 101 come from dozens of unrelated imports. The
-   pair is a two-record seam stitching the late-imperial import onto the Republican one,
-   and the collision happened at that seam.
-
-   **So this is not a research task and cannot become one.** There is nothing to look up.
-   Where the Roman Republic attaches is Gaiad material and Emma's alone.
-
-   **THE OPEN QUESTION, and it is the whole of what remains here: where does the Roman
-   Republic attach?** The 103 sit outside Aster right now. **They hang from exactly one
-   record — `Q73308` itself — so this is one edge, not 103 decisions:** give `Q73308` a
-   father and the entire block follows.
-
-   The dump already carries the right Roman route, unused by these records: `Q90257` Aeneas
-   the Dardanian reaches Aster with 29,153 descendants, `Q74644` Iulus gens Julia 28,812,
-   `Q74518` Romulus 28,671 — and **none of the 103 are among their descendants**. Rome here
-   is two populations: 28,812 attached through Troy properly, and 103 that were attached
-   through the collision.
-
-   So the choice is which Trojan/Julian record carries the join, and whether `Q73308` keeps
-   its "Licinius Varus" label once it is no longer Constantia's son. That is Gaiad material
-   and naming, which is Emma's per the `Tros` precedent. **Do not guess it.**
+   Ask with `AskUserQuestion`. Do not apply any of the three on the write-up alone.
 
 3. **✅ THE PURANIC RING — DONE 2026-08-07, but NOT by splitting Daksha. Daksha was never
    the defect. Read the ⚠ block in the tangle table above before touching this.**

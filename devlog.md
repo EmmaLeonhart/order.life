@@ -3974,3 +3974,57 @@ merge, and item 0d's Maurya/Shunga dedupe is the natural occasion. Details in
 
 Meanwhile there is a free standing detector: the extract prints the count every
 run, it is 0 now, and any non-zero value means a merge left references behind.
+
+## 2026-08-15 — The Licinii Vari: no father to find, and two Licinias
+
+Item 2 asked who `Q73308`'s father was, on the reasoning that one edge returns
+103 Republican Roman records to the descent. The research is done and the
+premise is wrong, which is a more useful answer than a name.
+
+**Gaius Licinius Varus, consul 236 BC (`Q1338451`), has no father on
+Wikidata.** The line stops there. The dump's `Q73308` sits a generation above
+him, so it corresponds to nobody in the sources — not a research gap, the edge
+of the record.
+
+**Publius Mucius Scaevola, cos. 175 (`Q2066659`), has no recorded mother.** The
+Licinia in his life is his wife, `Q12284962`, and she is why his younger son was
+adopted into the Licinii Crassi as Mucianus — the adoption runs through his
+mother's kin, and Wikidata carries both fathers on `Q715499` exactly as
+CLAUDE.md case 2 expects.
+
+### The defect: the same woman, imported twice, a generation apart
+
+`Q72810` is Licinia with wd `Q12284962`, spouse the cos. 175, children the cos.
+133 and Mucianus — matching Wikidata claim for claim. `Q72966` "Lincinia Varus"
+has no wd id, GEDCOM slashes, the misspelling Lincinius, and is recorded as the
+cos. 175's mother. Their Geni ids are eighteen apart in one import block:
+2188289159 and 2188289192.
+
+The fathers confirm it. `Q72972`, father of the correct Licinia, is aliased
+"Gaius Licinius Varus /Licinius-Crassus/". The Vari are already joined to this
+family through the correct copy; the `Q73140` stem is the duplicate.
+
+### Why it is not a dedupe I can just apply
+
+`Q72966`'s only child is `Q72807`. Her sole function is to be his mother. Cut
+that edge and the 103 records above her detach completely.
+
+And `Q72972` is not a safe reattachment point: its wd `Q29518656` is P. Licinius
+Crassus Dives, Mucianus's son — two generations below the cos. 175 — while the
+record stands as father of the cos. 175's wife. It is itself a conflation and
+has to be untangled before anything hangs from it.
+
+### The finding that matters
+
+This is `narrative_spine.md`'s second kind, and it has stayed invisible because
+it measures fine. The Licinii Vari reach `Q1` Aster today through a mother-son
+link that no source records, invented by a GEDCOM import to bridge two blocks.
+The spine says a severed line is one honest edge from correct while a wrongly
+attached one is already wrong — the 103 have been the wrong kind all along, and
+the earlier framing of this item would have made it worse by stacking a second
+invented edge on top.
+
+Nothing applied. `wikibase/analysis/licinii_vari_resolved.md` holds the full
+lookup table. The remaining choice — accept the severed line, dedupe and re-hang
+after untangling `Q72972`, or invent a bridge deliberately — is narrative intent
+and is genuinely Emma's, now that the research is exhausted rather than skipped.
