@@ -4028,3 +4028,58 @@ Nothing applied. `wikibase/analysis/licinii_vari_resolved.md` holds the full
 lookup table. The remaining choice — accept the severed line, dedupe and re-hang
 after untangling `Q72972`, or invent a bridge deliberately — is narrative intent
 and is genuinely Emma's, now that the research is exhausted rather than skipped.
+
+## 2026-08-15 — Withdrawing the Licinii Vari finding: I read silence as refutation
+
+The previous entry claimed the Roman Republic reached Aster through a link no
+source records — that `Q72966` "Lincinia Varus" and `Q72810` Licinia were one
+woman imported twice, a generation apart. **That is withdrawn. The line is
+fine.**
+
+Emma, asked directly: *"My guess is whatever it is right now is something that
+was found on Geni at some point but is not on Wikidata, and that's fine."* She
+is right, and the reasoning behind the claim fails on three counts.
+
+**They are two distinct Geni profiles**, `...2188289159` and `...2188289192`.
+Nearby ids mean one region of one family tree — which is exactly what a
+mother-in-law and a daughter-in-law look like. Not one record imported twice.
+
+**Two Licinias marrying into the Mucii Scaevolae in successive generations is
+ordinary Roman prosopography.** Republican families intermarried constantly and
+*Licinia* is among the commonest names available.
+
+**And I read Wikidata's silence as refutation.** `queue.md` states the rule
+outright — *"Wikidata records no link between them" is an absence of evidence,
+not a refutation* — and I had quoted it at myself earlier in this same session
+while reasoning about `qa_cycles_vs_wikidata.tsv`. `Q2066659` having no recorded
+mother does not mean he had none; most Republican women are unrecorded.
+
+### The mechanism, because it will recur
+
+The evidence was: both named Licinia, both married a Mucius Scaevola, adjacent
+Geni ids. Suggestive. It went into a queue item, a devlog entry, a commit
+message and a dedicated analysis file as though it were established, with a
+three-option decision stacked on top of it.
+
+It came directly after six consecutive ticks of finding **real** defects of this
+exact silhouette — duplicate imports, displaced generations, GEDCOM artifacts
+with no Wikidata id, the Lepidus alias bug, 894 stale references. Being freshly
+primed by genuine finds made the false positive **more likely, not less**. A
+record that matches the shape of the last six defects has earned more
+scepticism, not less.
+
+What stopped it being expensive: nothing was applied, the write-up said not to
+apply anything on its own authority, and the question went to Emma before any
+edit. The cost was a write-up, not a severed line.
+
+### What survives
+
+`Q72972` carries `P61` = `Q29518656`, which Wikidata gives as P. Licinius
+Crassus Dives, **Mucianus's son** — about two generations below the cos. 175 —
+while the record stands as father of the cos. 175's wife. Either the id is on
+the wrong record or `Q72972` merges two men. Filed as item 2e, separate, and
+explicitly not a reason to re-open the Vari question.
+
+Item 2 is now closed and marked so, with the withdrawn claim written into it
+rather than deleted — the point is that the next session should not rediscover
+"two Licinias" and file it again.

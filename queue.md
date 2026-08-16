@@ -651,65 +651,73 @@ with AskUserQuestion instead of parking it here.**
    as of 2026-08-15, where before the repair it was 129,250 against 128,596. That gap is
    the dead spellings, visible without trusting any repair tool.
 
-2. **THE LICINII VARI — RESEARCH DONE 2026-08-15. `Q73308` does not need a father; there
-   is no father to find. The dump holds TWO Licinias and the Republic hangs from the wrong
-   one. Full write-up: `wikibase/analysis/licinii_vari_resolved.md`.**
+2e. **`Q72972` CARRIES A WIKIDATA ID THAT CANNOT BE RIGHT — small, bounded, and the only
+   thing that survived the Licinii Vari investigation.**
 
-   **This item used to read "Q73308 needs a father. One man, one edge." That premise is
-   wrong**, and the research says so rather than supplying a name.
+   `Q72972` is the father of `Q72810` Licinia, the wife of `Q72807` P. Mucius Scaevola
+   (cos. 175 BC). It is aliased **"Gaius Licinius Varus /Licinius-Crassus/"** and
+   **"Publius Licinius Varus Licinius Crassus Dives"**. Its `P61` is **`Q29518656`**, which
+   Wikidata gives as **P. Licinius Crassus Dives, the son of Mucianus** — roughly two
+   generations *below* the cos. 175, while this record stands as father of the cos. 175's
+   wife.
 
-   | looked up | result |
-   |---|---|
-   | `Q1338451` Gaius Licinius Varus, **cos. 236 BC** | **no father on Wikidata.** The line stops there |
-   | `Q2066659` P. Mucius Scaevola, **cos. 175 BC** | father Q. Mucius Scaevola; **no mother**; spouse **`Q12284962` Licinia** |
-   | `Q715499` Mucianus | father `Q2066659` **and** `Q746582` P. Licinius Crassus — adoptive + biological, CLAUDE.md case 2 |
+   So either the wd id is attached to the wrong record, or `Q72972` merges two men. **Look
+   it up and decide which; do not guess.** If it is a merge, repair order applies — unmerge
+   first. If it is just a wrong `P61`, that is a one-property fix.
 
-   **So `Q73308` corresponds to nobody in the sources.** It sits a generation above the
-   consul of 236, which is where the evidence ends. Not a research gap to close — the edge
-   of the record.
+   **Graph impact is probably nil either way** (`P61` is not a genealogical edge), so this
+   is a correctness-of-record item, not a structural one. Verify with `verify_repair.py`
+   only if parent/child claims end up changing.
 
-   **THE ACTUAL DEFECT: two Licinias, eighteen Geni ids apart in one import block.**
+   **DO NOT re-open the Licinii Vari attachment on the back of this.** That question is
+   closed — see below.
 
-   | | `Q72810` — correct | `Q72966` — the problem |
-   |---|---|---|
-   | wikidata | **`Q12284962`** | none |
-   | geni | ...2188289**159** | ...2188289**192** |
-   | spouse | `Q72807` cos. 175 | `Q72963` pr. 215 |
-   | children | `Q72633` cos. 133, `Q141474` Mucianus | `Q72807` cos. 175 |
+2. **✅ THE LICINII VARI — CLOSED 2026-08-15. THE LINE IS FINE. Read this before
+   "discovering" it again.**
 
-   One copy is the cos. 175's **wife**, matching Wikidata claim for claim, and is why his
-   younger son was adopted into the Licinii Crassi as *Mucianus* — that adoption runs
-   through his mother's kin. The other is the same woman placed one generation too high as
-   his **mother**, which no source records. The Vari are already joined to this family
-   through the correct copy: `Q72972`, her father, is aliased **"Gaius Licinius Varus
-   /Licinius-Crassus/"**.
+   The Republic descends into the synoptic line like this, and it stands:
 
-   **WHY IT IS NOT A SIMPLE DEDUPE.** `Q72966`'s only child is `Q72807`. Cut that false
-   edge and the 103 Republican records above her detach completely — nothing else holds
-   them. And `Q72972` is not a safe reattachment point as it stands: its wd `Q29518656` is
-   P. Licinius Crassus Dives, **Mucianus's son**, two generations below the cos. 175, while
-   the record simultaneously stands as father of the cos. 175's wife. It is itself a
-   conflation and must be untangled first.
+       Q73308 Licinius Varus -> Q73140 Gaius Licinius Varus (cos. 236 BC)
+         -> Q72966 Licinia, who married Q72963 Q. Mucius Scaevola (pr. 215)
+              -> Q72807 P. Mucius Scaevola (cos. 175) -> the Mucii Scaevolae,
+                 Licinii Crassi, Pompey, Sextus Pompey, Asinius Pollio
 
-   **THIS IS `narrative_spine.md`'s SECOND KIND, and that is the finding.** The Licinii
-   Vari reach `Q1` Aster today, and they reach it through a mother-son link that no source
-   records, invented by a GEDCOM import to bridge two blocks. *"A severed line is honest
-   and one edge from correct. A line attached through the wrong story is already wrong
-   while measuring as fine."* **The 103 have been measuring fine this whole time**, and the
-   old framing of this item would have made it worse by stacking a second invented edge on
-   top.
+   All three Vari records carry Geni ids and **no Wikidata id, and that is fine.** Emma,
+   2026-08-15, asked directly: *"My guess is whatever it is right now is something that was
+   found on Geni at some point but is not on Wikidata, and that's fine."*
 
-   **NEEDS EMMA — and legitimately, for the first time on this item.** The research is
-   done and it does not settle the attachment, because no edge above the consul of 236 can
-   be sourced at all. Three options, and the choice is narrative intent:
+   **THE ITEM USED TO SAY "`Q73308` NEEDS A FATHER. One man, one edge." It does not.** It
+   also, for a few hours on 2026-08-15, claimed the line was attached through a story no
+   source tells. **That claim was withdrawn the same day and was wrong.** Full account in
+   `wikibase/analysis/licinii_vari_resolved.md`.
 
-   1. **Accept the severed line** — cut `Q72966` → `Q72807`; the 103 become rootless.
-   2. **Dedupe `Q72966` into `Q72810`** and re-hang the Vari stem from `Q72972`, after
-      resolving that record's own conflation.
-   3. **Invent a bridge** above `Q73308` deliberately — a Gaiad decision needing explicit
-      approval.
+   **What was claimed:** that `Q72966` "Lincinia Varus" and `Q72810` Licinia (wd
+   `Q12284962`, the cos. 175's *wife*) are one woman imported twice a generation apart.
 
-   Ask with `AskUserQuestion`. Do not apply any of the three on the write-up alone.
+   **Why it was wrong, and all three reasons matter:**
+
+   1. **Two distinct Geni profiles** — `...2188289159` and `...2188289192`. Nearby ids mean
+      one region of one family tree, which is exactly what a mother-in-law and a
+      daughter-in-law look like. Not duplication.
+   2. **Two Licinias marrying into the Mucii Scaevolae in successive generations is
+      ordinary Roman prosopography.** Republican families intermarried constantly and
+      *Licinia* is among the commonest names there are.
+   3. **Wikidata's silence was read as refutation.** This file states the rule outright
+      — *"Wikidata records no link between them" is an absence of evidence, not a
+      refutation* — and `Q2066659` having no recorded mother does not mean he had none.
+      Most Republican women are unrecorded.
+
+   **THE LESSON, and it is the transferable part.** The evidence was: both named Licinia,
+   both married a Mucius Scaevola, adjacent Geni ids. Suggestive, not established — and it
+   went into a queue item, a devlog entry, a commit message and an analysis file as though
+   it were settled, with a three-option decision stacked on top.
+
+   It came after six straight ticks of finding *real* defects of this exact silhouette:
+   duplicate imports, displaced generations, GEDCOM artifacts with no Wikidata id. **Being
+   freshly primed by genuine finds made the false positive more likely, not less.** A
+   record matching the shape of the last six defects has earned *more* scepticism, not
+   less. Nothing was applied and the question was asked before acting, which is the only
+   reason this cost a write-up instead of the line.
 
 3. **✅ THE PURANIC RING — DONE 2026-08-07, but NOT by splitting Daksha. Daksha was never
    the defect. Read the ⚠ block in the tangle table above before touching this.**
