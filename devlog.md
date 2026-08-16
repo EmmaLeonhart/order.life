@@ -3873,3 +3873,104 @@ One incidental: two item files in this dump hold valid JSON that is not an
 object, which crashed the first audit run. `merge_cluster.py` already documents
 and handles this, so the guard added matches existing precedent rather than
 inventing a convention.
+
+## 2026-08-15 — 894 stale references, repaired; raw edges now equal canonical
+
+Item 1d's measurement and repair, and item 0a.
+
+### 0a: the extract writes atomically now, and it was proved by a real kill
+
+`persons.tsv` was opened `"w"` and written row by row during the scan, so
+before a run finished the file on disk was a valid-looking PREFIX: it parsed,
+its rows were well formed, and nothing downstream checked the run had
+completed. `verify_repair.py` calls the extract as step 1, so an interrupted
+run left every gate reading a half-file — failing in the direction that reports
+success. It truncated `persons.tsv` by 71,218 rows on 2026-08-12.
+
+All five outputs now go through `AtomicWrite`: write `<name>.tmp`, `os.replace`
+onto `<name>` only if the block completes.
+
+**Not a synthetic test — the runner killed a real run mid-scan.**
+`persons.tsv.tmp` held 486KB of partial data; the live `persons.tsv` stayed
+byte-identical to its baseline at 107,038 rows. Under the old code it would
+have been a few thousand rows and would still have parsed.
+
+Side effect worth having: the auto-flush tick no longer has to decline a
+commit. Earlier the same day it correctly refused because `persons.tsv` was
+mid-write at 63,977 of 106,030 rows.
+
+### 1d: 894 claims naming a dead qid, across 708 records
+
+The measurement came from the extractor itself. It is the only place that sees
+a claim's raw and canonical spelling together and it was discarding the raw
+one; emitting `qa_vacated_refs.tsv` costs one list and no extra I/O. Three
+other routes were tried first and two failed outright — a standalone Python
+pass over 164k files (correct, 15-20 min, killed twice), and `git grep -F -f`
+over all 57,440 patterns (timed out past ten minutes). `git grep` for a *few*
+qids is 11.6s and is what the repair tool uses.
+
+894 claims, 708 records, 222 distinct dead qids, 344 of them naming one person
+twice in a single role. All repointed across 1,717 files.
+
+**Verified, and the cleanest evidence is not the byte-comparison.** The
+extractor's own summary now reads `parent edges (raw): 128,596` and
+`parent edges (canonical): 128,596`. Before the repair it was 129,250 against
+128,596 — **that gap was the dead spellings.** Raw converging on canonical is
+an independent structural statement that no claim uses a vacated qid, arrived
+at without trusting the repair tool. Same for spouses: 24,976 raw before,
+24,767 now, equal to canonical.
+
+`edges.tsv` and `persons.tsv` byte-identical to the pre-repair baseline after a
+1,717-file change. `qa_vacated_refs.tsv` 894 rows to 0. `check_invariants`
+PASS, `tangled_components 0`. `verify_applies_landed` 24/24,
+`verify_cuts_landed` 35/35.
+
+### Two defects in my own tool, both found by reading the diff
+
+**It reformatted every file it touched.** The dump's convention is `indent=2` —
+measured over a 400-file sample of tracked items, 399 at 2 and 1 at 1 — and
+every `apply_*.py` here writes `json.dumps(..., indent=1)`. The six-file
+`Q72693` pass produced ~3,000 changed lines for six semantic edits and I did
+not look at the time. At 1,711 files that would have buried the real change
+under millions of lines and made the commit unreviewable. The writer now sniffs
+each file's existing indent and preserves it.
+
+**`Path.write_text` on Windows translated `\n` to `\r\n`.** `.gitattributes`
+normalises that at commit time so nothing was committed wrong, but every local
+diff and `cat -A` was misleading. `newline="\n"` is now explicit.
+
+The six damaged files were restored and redone cleanly — **and the restore
+introduced a gap the tool could not see.** `Q72693` is not among the 222,
+because the extract that produced the list ran *after* that repair and
+correctly saw none; restoring the files reintroduced references the new pass
+did not cover. The tool printed "Verified across 1717 file(s)" and was right
+about its own scope and wrong about the tree. `git grep` found it.
+
+### What this does not buy
+
+Filing the item I wrote that it removes false two-parent readings from
+`qa_same_role_parents.tsv`. `same_role_parents.py` canonicalises
+(`cv = canon(v["id"])`), so all 344 duplicate slots were **already invisible**
+there. This fixes no current measurement.
+
+What it buys: `merge_cluster.py`'s stated rule becomes true, so a re-issued qid
+can no longer silently repoint 708 records at different people; and raw-qid
+comparisons can no longer be fooled, which is the class that cost eight days on
+the Lepidus cut.
+
+### Still open, and it is the half that matters
+
+**The enforcement gap is not closed.** `merge_cluster.py` checks that no file's
+`id` is a loser and that the survivor cites no alias; a third-party record
+citing the loser is never examined. That is how 894 accumulated across 222
+merges with every sweep reporting clean. Repairing them without closing it
+means they regrow.
+
+The fix is a behaviour change, not a check — the merge must repoint third-party
+references before asserting none remain, or a hard assert breaks every future
+merge. It is **deliberately not shipped unexercised**: verifying it needs a real
+merge, and item 0d's Maurya/Shunga dedupe is the natural occasion. Details in
+`queue.md` item 1d.
+
+Meanwhile there is a free standing detector: the extract prints the count every
+run, it is 0 now, and any non-zero value means a merge left references behind.

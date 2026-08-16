@@ -416,42 +416,6 @@ with AskUserQuestion instead of parking it here.**
    Verify with `verify_repair.py` around it; expect **no new tangle** and a depth *gain*,
    never a loss. Propagate to shadow files; `shadow_audit.py` at 0.
 
-0a. **`extract_genealogy.py` writes `persons.tsv` in place and progressively, so an
-   INTERRUPTED run leaves a half-written file that still parses. Make it atomic.**
-
-   **Corrected 2026-08-06, same day, and the correction is the useful part.** This item
-   first said the extractor "dies partway, twice, no traceback". **That was wrong.** It
-   never crashed. Its log shows it scanning cleanly — `80000/164550 parent_edges=59,076`
-   — and the exit code 255 was **my own `Stop-Process`**. One slow in-progress run was
-   misread as two crashes because `Get-Process -Id` spuriously returned nothing while the
-   process was in fact alive, and a mid-write byte count was read as a truncated final
-   one. **Do not go looking for a crash; there isn't one.** The run takes 20+ minutes over
-   ~164k files and was competing with `shadow_audit.py` and two stray processes for I/O.
-
-   **The narrower hazard is real and is worth fixing.** `persons.tsv` is opened `"w"` and
-   written row by row during the scan, so at any moment before completion the file on disk
-   is a valid-looking prefix of the real thing: it parses, its rows are well-formed, and
-   nothing in the toolchain checks that the run finished. `verify_repair.py` calls
-   `extract_genealogy.py` as its FIRST step, so an interrupted extract would leave
-   `compare_tangles`, `compare_depth` and `check_invariants` all reading a half-file —
-   failing in the direction that reports success. **This is the same shape as the vacuous
-   I2 check recorded further down this file: a gate that can silently half-succeed.**
-
-   **The fix is small:** write to `persons.tsv.tmp` (and likewise `edges.tsv`), and
-   `os.replace` onto the real name only after the scan completes. Optionally assert a
-   plausible row count before the rename. Then an interrupted run leaves the previous good
-   file in place instead of a plausible prefix.
-
-   **Not urgent, and it did not affect anything this session** — `persons.tsv` was restored
-   from `HEAD` and patched surgically, then verified byte-identical to `HEAD` at 7,531,500
-   bytes / 107,031 lines, which cross-checks against `shadow_audit`'s independently
-   measured 107,029 distinct qids.
-
-   **Note also that pytest IS installed here**, contrary to `CLAUDE.md`'s "no third-party
-   packages" line — a stray `python -m pytest -q` was found running, alongside a
-   `python -m genimerge` run that belongs to no script in this repo. Confirm what is
-   actually installed (`py -0p`, `pip list`) and correct that line.
-
 0b. **BC-DATE SIGN — CHECKED 2026-08-05. The inversion class is SOUND; nothing to
    revert. A narrower residual is real and is the remaining work.**
 
@@ -644,58 +608,48 @@ with AskUserQuestion instead of parking it here.**
    suspect `Q72786`, which had four fathers and three mothers.
    **Do not cut anything here until you have measured ancestral depth before and after.**
 
-1d. **MEASURE THE DUMP-WIDE VACATED-REFERENCE COUNT, and close the enforcement gap that
-   creates it. `Q72693` is done; nobody knows how many others there are.**
+1d. **CLOSE THE MERGE ENFORCEMENT GAP. The 894 stale references are repaired; the hole
+   that produced them is still open, so they will come back.**
 
-   **THE GAP, found 2026-08-15 and the reason this item exists.** This file states the rule
-   as *"after a merge, NO file may still claim the loser's qid"*, because vacating a qid
-   some file still claims lets that file win it and inject its claims — the phantom Cato
-   2-cycle came from exactly that. **`merge_cluster.py` does not implement that rule.** Its
-   post-merge sweep checks two narrower things:
+   **Measured and repaired 2026-08-15** — 894 claims, 708 records, 222 dead qids, all
+   repointed (`13238d287`), and a full regeneration confirms **0 remaining** with
+   `edges.tsv` byte-identical. That half is closed. **This is the half that is not.**
 
-   1. no file whose **`id`** is a loser — that is *ownership*, not reference;
+   **THE GAP.** This file states the rule as *"after a merge, NO file may still claim the
+   loser's qid"* — the phantom Cato 2-cycle is what happens when it breaks.
+   `merge_cluster.py` checks two narrower things and neither is that rule:
+
+   1. no file whose **`id`** is a loser — *ownership*, not reference;
    2. no alias cited by **the survivor's own record** (`stale = [v for v in vals(d, p) if
       v in alias]`, run only on `load(surv)`).
 
-   **A third-party record citing the loser is never examined.** `Q72786`, `Q144279` and
-   `Q72434` were all third parties to the `Q72615`/`Q72693` merge; they cited the loser and
-   nothing ever looked at them. So this is not drift or a stray hand edit — **the
-   enforcement has never covered this case, and every merge in this repo's history could
-   have left the same trail.**
+   **A third-party record citing the loser is never examined.** That is how 894 of them
+   accumulated across 222 merges with every sweep reporting clean.
 
-   **What is known, measured:** the redirect map holds **57,440** vacated qids. The
-   `Q72693` set was 6 files. The dump-wide figure is unmeasured.
+   **THE FIX, and it is a behaviour change, not just a check.** Adding a hard failure
+   alone would break every future merge, because nothing currently repoints third-party
+   references. So `merge_cluster.py` must, after vacating a qid: repoint every claim
+   naming it (the logic is already written and tested in `repoint_vacated_qids.py` —
+   import it rather than copying), then assert zero remain, then fail if any do.
 
-   **HOW TO MEASURE IT — read this before choosing a method, all three were tried.**
+   **WHY THIS IS NOT DONE YET, stated plainly:** it cannot be verified without performing
+   a real merge, and performing one purely to exercise the new code path is not a repair
+   this dump needs. Options, in preference order: wait until the next genuine merge is
+   wanted (the Maurya/Shunga triple dedupe in item 0d is one, and is already queued);
+   or build a throwaway two-record fixture under a temp dir and run `merge_cluster.py`
+   against it. **Do not ship this change unexercised** — an unrun repair path that
+   reports success is the exact failure this whole thread is about.
 
-   | approach | result |
-   |---|---|
-   | `git grep -l '"Qxxxxx"'`, one or few qids | **11.6 s.** ~70x faster than a Python pass; this is what `repoint_vacated_qids.py` uses |
-   | `git grep -F -f` with all 57,440 patterns | **timed out past 10 min.** Does not scale |
-   | Python pass parsing all 164,558 item files (`vacated_qid_audit.py`) | correct, ~15-20 min, and **killed twice by the runner before it finished** |
+   **A cheap standing check exists in the meantime.** `extract_genealogy.py` now emits
+   `qa_vacated_refs.tsv` on every run, and the count is in its summary line. It is
+   currently 0. **If it is ever non-zero again, a merge left references behind** — that
+   is the regression detector, and it costs nothing because the extract already runs as
+   step 1 of `verify_repair.py`.
 
-   **So the durable answer is neither: put it in `extract_genealogy.py`.** That script
-   already opens and parses every item file and already resolves every claim through the
-   redirect map — it is doing 100% of this work and throwing the mismatches away. Have it
-   emit `qa_vacated_refs.tsv` alongside the extracts, and the measurement becomes free and
-   automatic on every `verify_repair.py` run. `vacated_qid_audit.py` is kept as the
-   reference implementation and the thing to check a new extract against; it is correct,
-   just too slow to run casually.
-
-   Then repair with `repoint_vacated_qids.py`, which takes any number of qids and is
-   already written for it. **Expect it to be graph-neutral every time** — the extractor
-   resolves both spellings to the same edge, so the records change and `edges.tsv` cannot.
-   Prove it the way the `Q72693` pass did rather than assuming it: compare resolved claim
-   sets per file, HEAD against working tree.
-
-   **One correction to carry forward.** When item 1c was filed it claimed the repair
-   "removes a false two-father reading" from `qa_same_role_parents.tsv`. **Checked after
-   applying: `Q72434` does not appear in that file at all**, so that benefit was asserted
-   and is not real. What the repair actually buys is narrower and worth stating honestly:
-   the merge rule becomes true for this qid, so a re-issued `Q72693` can no longer point
-   five records at a different person; and a raw-qid comparison can no longer be fooled on
-   these records in either direction. Do not repeat the `qa_same_role_parents.tsv` claim
-   for the dump-wide pass without measuring it first.
+   **The structural check worth knowing:** when the count is 0, `parent edges (raw)`
+   equals `parent edges (canonical)` in the extractor's own summary — 128,596 = 128,596
+   as of 2026-08-15, where before the repair it was 129,250 against 128,596. That gap is
+   the dead spellings, visible without trusting any repair tool.
 
 2. **`Q73308` NEEDS A FATHER. One man, one edge.**
 
