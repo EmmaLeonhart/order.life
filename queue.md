@@ -377,59 +377,55 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-0f. **FINISH THE MAGADHA MERGE. The 27 stale refs are CLEARED; two records still need
-   repair, and they are NOT the same defect.**
+0f. **FINISH THE MAGADHA MERGE. The tail is merged; two phantom cuts and 3 stale refs
+   remain.**
 
-   **DONE 2026-08-16 — `qa_vacated_refs` 27 → 0.** 16 vacated qids were still cited by
-   third parties after the merge; `repoint_vacated_qids.py` fixed 33 files. Graph-neutral,
-   proved per-file (resolved claim sets identical to HEAD) and corroborated structurally by
-   the fresh extract: **raw parent edges 128,461 = canonical 128,461**, spouses
-   **24,744 = 24,744**. Raw meeting canonical says no claim anywhere names a vacated qid,
-   without trusting the repair tool.
+   **DONE:** 131 merges (`magadha-triple`), 27 stale refs cleared, then **11 more merges
+   (`magadha-tail`), all six gates green.** 142 duplicate records gone in total.
 
-   **STILL OPEN, and the diagnosis was previously wrong.** The merge dry run grouped
-   `Q2286` and `Q153455` together as "already carries two fathers". They are two different
-   defects and want two different repairs — applying one fix to both would be wrong for one
-   of them:
+   **The tail needed two tool bugs fixed first, and both would have done damage:**
 
-   **(1) `Q153455` SUNAKSHTRA MARUDEVA — a genuine DUPLICATE PAIR.** Fathers `Q2051` and
-   `Q50192`, **both labelled "Marudeva, King of Kosala"**, both listing `Q153455` as their
-   child. This is the parallel import again, one copy per block. `match_parallel_imports.py`
-   could not reach it because the two-father ambiguity blocked propagation — the ambiguity
-   *is* the duplication. **Repair: merge `Q2051` ← `Q50192`**, then the dropped pair
-   `Q153455` ← `Q160680` merges cleanly.
+   1. **`match_parallel_imports.py` was re-listing pairs it had already merged.** A
+      merged-away qid keeps its file as a copy of the survivor, so `Q50360.json` still
+      parses and looked live. A cluster built from that output would have **re-merged all
+      131 pairs from the first pass.** Fixed: a file whose internal `id` differs from its
+      qid is treated as vacated.
+   2. **The "two fathers" blocking `Q153455` WERE the duplication.** `Q2051` and `Q50192`
+      are both "Marudeva, King of Kosala", one copy per block. The matcher now collapses a
+      multi-valued role when every value sits in one group.
 
-   **(2) `Q2286` SENAJIT — a NAMELESS SHELL cited as a father.** `Q52176` has **no label,
-   no aliases, no description**, and a single non-genealogical claim. It is not a duplicate
-   of anything; it is an empty record standing in a parent slot. `Q2289` BRIHATKARMAN has
-   the identical shape with `Q52188`. **Repair: cut `Q52176` → `Q2286` and `Q52188` →
-   `Q2289`**, leaving each with its one named father. Then the dropped pairs `Q2286` ←
-   `Q51301`/`Q161211` merge cleanly.
+   **THE DUPLICATION SPANS FOUR QID REGIONS, not three** — `Q2xxx`, `Q50xxx`, **`Q153xxx`**,
+   `Q160xxx`. `Q2079` and `Q153475` are both "Bhanuratha, King of Kosala" *and* share the
+   father `Q153485`. Item 0d's three-block framing was wrong about the count.
 
-   **Doing both closes `children_over_2_parents` 1200 → 1199 as a side effect** — `Q2282`
-   Srutanjaya's three parents are the three unmerged SENAJIT copies, and they collapse to
-   one.
+   **The Kosala solar chain runs parallel at least eight more generations** — Bhanuratha,
+   Brihadasva, Sahdev Diwakar, Divakara, Bhanu, Prativyoma, Vatsavyuha, Arukshay. **More
+   dedupe remains above**; re-run the matcher once (3) below is resolved.
 
-   **⚠ DO NOT GENERALISE THE NAMELESS-PARENT FINDING.** Measured dump-wide from the TSVs
-   on 2026-08-16:
+   **STILL OPEN:**
 
-   | | |
-   |---|---:|
-   | nameless records cited as a parent | **697** |
-   | children with BOTH a nameless and a named parent | **1,097** |
-   | children whose ONLY parents are nameless | **301** |
+   **(1) Two phantom-shell cuts.** `Q52176` → `Q2286` and `Q52188` → `Q2289`. Both shells
+   have **no label, no aliases, no description** and one non-genealogical claim — empty
+   records in parent slots. Cut, leaving each its one named father. Then the three
+   originally-dropped SENAJIT pairs merge cleanly and **`children_over_2_parents`
+   1200 → 1199** (the `Q2282` Srutanjaya +1 is those three unmerged copies).
 
-   That looks exactly like a defect class. **It is not, or not uniformly:** every sampled
-   case is **taxonomic** — Porifera, Polyneoptera, Orthopter, Dictyoptera — where an
-   unnamed clade node is plausibly deliberate. `CLAUDE.md` rule 1 governs: surprising is not
-   evidence of broken, and after the Licinii Vari withdrawal on 2026-08-15 a silhouette
-   match is not licence to call a thousand records defective.
+   **(2) 3 stale refs across 3 records.** `qa_vacated_refs` 0 → 3 after the tail merge, the
+   same third-party-citation gap that is item 1d. Clear with `repoint_vacated_qids.py`;
+   graph-neutral, prove it per-file.
 
-   **The two Magadha records are safe to repair because their neighbourhood is a king
-   list** — every other record is a named king, so a nameless father beside a named one is
-   plainly spurious there. **Anyone wanting to touch the other 695 must first establish
-   what a nameless node means in the taxonomy, which is a separate question and probably
-   one for Emma.**
+   **(3) `Q153485` BRIHADASVA carries THREE fathers** (`Q53522`, `Q2623`, `Q29951`), so its
+   pair was dropped — merging would take the survivor to four parents. Which is real, or
+   whether the record merges several men, is **research and it is ours.** It blocks further
+   propagation up the Kosala chain.
+
+   **⚠ "A DEDUPE HERE GAINS DEPTH" IS DISPROVEN. Twice.** Item 0d argued the merge would
+   hand the surviving chain ancestry it lacked, because `Q2206` Ashoka had no father. Both
+   merges measured **0 records gained depth and 0 lost**; total depth fell only because
+   duplicate nodes stopped existing (−40,120 then −4,459). The chains were parallel **and
+   already joined**, so collapsing them removes nodes without changing anyone's reach. The
+   reason to do this is that 142 phantom people are gone, not depth. **Do not re-file the
+   depth argument.**
 
 0c. **THE THREE REMAINING ROOTLESS JAPANESE RECORDS — examine and attach if the
    succession supplies a father.**
