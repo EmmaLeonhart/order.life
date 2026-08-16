@@ -377,39 +377,59 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-0f. **FINISH THE MAGADHA MERGE: three dropped pairs, one +1 on `children_over_2_parents`,
-   and 27 stale references. All three are the same knot.**
+0f. **FINISH THE MAGADHA MERGE. The 27 stale refs are CLEARED; two records still need
+   repair, and they are NOT the same defect.**
 
-   The 131-pair merge landed 2026-08-16 (`magadha-triple`, all six gates green). **Three
-   residues, and two of them are one problem:**
+   **DONE 2026-08-16 — `qa_vacated_refs` 27 → 0.** 16 vacated qids were still cited by
+   third parties after the merge; `repoint_vacated_qids.py` fixed 33 files. Graph-neutral,
+   proved per-file (resolved claim sets identical to HEAD) and corroborated structurally by
+   the fresh extract: **raw parent edges 128,461 = canonical 128,461**, spouses
+   **24,744 = 24,744**. Raw meeting canonical says no claim anywhere names a vacated qid,
+   without trusting the repair tool.
 
-   **1. `Q2286` SENAJIT of Magadha and `Q153455` Sunakshtra Marudeva already carry two
-   fathers each**, so merging their third copies would have crossed the >2-parent
-   threshold. Three pairs were dropped: `Q2286`←`Q51301`, `Q2286`←`Q161211`,
-   `Q153455`←`Q160680`. These are the same two records `match_parallel_imports.py` refused
-   to propagate through — **the ambiguity is in the data, not in the matching.** Resolve
-   the parentage (which of the two fathers is real, or whether the record is a merge of two
-   men), then merge the copies.
+   **STILL OPEN, and the diagnosis was previously wrong.** The merge dry run grouped
+   `Q2286` and `Q153455` together as "already carries two fathers". They are two different
+   defects and want two different repairs — applying one fix to both would be wrong for one
+   of them:
 
-   **2. `children_over_2_parents` went 1199 → 1200, and it is a direct consequence of
-   dropping those pairs.** `Q2282` Srutanjaya of Magadha now has three parents:
-   **`Q2286`, `Q51301`, `Q161211` — which are the three unmerged copies of SENAJIT.**
-   Srutanjaya's own three copies merged; his father's did not, so one child now points at
-   three versions of one man. **This is not a new defect and needs no separate
-   investigation — it disappears the moment item 1 above is done.** Do not go looking for
-   it as though it were independent.
+   **(1) `Q153455` SUNAKSHTRA MARUDEVA — a genuine DUPLICATE PAIR.** Fathers `Q2051` and
+   `Q50192`, **both labelled "Marudeva, King of Kosala"**, both listing `Q153455` as their
+   child. This is the parallel import again, one copy per block. `match_parallel_imports.py`
+   could not reach it because the two-father ambiguity blocked propagation — the ambiguity
+   *is* the duplication. **Repair: merge `Q2051` ← `Q50192`**, then the dropped pair
+   `Q153455` ← `Q160680` merges cleanly.
 
-   **3. `qa_vacated_refs` went 0 → 27 across 22 records.** Predicted before the merge ran,
-   and it is `merge_cluster.py` behaving exactly as its docstring says: *"third-party
-   records that cite a loser qid are left alone."* **This is queue.md item 1d's enforcement
-   gap, now demonstrated with real data from a merge we control rather than inferred from
-   history.** Fix with `repoint_vacated_qids.py`, which takes any number of qids and is
-   graph-neutral by construction — prove it the way the `Q72693` pass did, by comparing
-   resolved claim sets per file rather than regenerating.
+   **(2) `Q2286` SENAJIT — a NAMELESS SHELL cited as a father.** `Q52176` has **no label,
+   no aliases, no description**, and a single non-genealogical claim. It is not a duplicate
+   of anything; it is an empty record standing in a parent slot. `Q2289` BRIHATKARMAN has
+   the identical shape with `Q52188`. **Repair: cut `Q52176` → `Q2286` and `Q52188` →
+   `Q2289`**, leaving each with its one named father. Then the dropped pairs `Q2286` ←
+   `Q51301`/`Q161211` merge cleanly.
 
-   **Doing 1 then 3 closes all of it**, and item 1d's fix (make `merge_cluster.py` repoint
-   third-party references itself) now has a real case to be verified against instead of a
-   hypothetical.
+   **Doing both closes `children_over_2_parents` 1200 → 1199 as a side effect** — `Q2282`
+   Srutanjaya's three parents are the three unmerged SENAJIT copies, and they collapse to
+   one.
+
+   **⚠ DO NOT GENERALISE THE NAMELESS-PARENT FINDING.** Measured dump-wide from the TSVs
+   on 2026-08-16:
+
+   | | |
+   |---|---:|
+   | nameless records cited as a parent | **697** |
+   | children with BOTH a nameless and a named parent | **1,097** |
+   | children whose ONLY parents are nameless | **301** |
+
+   That looks exactly like a defect class. **It is not, or not uniformly:** every sampled
+   case is **taxonomic** — Porifera, Polyneoptera, Orthopter, Dictyoptera — where an
+   unnamed clade node is plausibly deliberate. `CLAUDE.md` rule 1 governs: surprising is not
+   evidence of broken, and after the Licinii Vari withdrawal on 2026-08-15 a silhouette
+   match is not licence to call a thousand records defective.
+
+   **The two Magadha records are safe to repair because their neighbourhood is a king
+   list** — every other record is a named king, so a nameless father beside a named one is
+   plainly spurious there. **Anyone wanting to touch the other 695 must first establish
+   what a nameless node means in the taxonomy, which is a separate question and probably
+   one for Emma.**
 
 0c. **THE THREE REMAINING ROOTLESS JAPANESE RECORDS — examine and attach if the
    succession supplies a father.**

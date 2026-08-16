@@ -4396,3 +4396,57 @@ That is item 1d's enforcement gap — the one found on 2026-08-15 by tracing why
 control, rather than inferred from history.** The detector added yesterday
 caught it on the first merge run since. Fix with `repoint_vacated_qids.py`;
 item 1d's own fix now has a real case to be verified against.
+
+## 2026-08-16 — The merge's 27 stale references cleared, and two records that look alike aren't
+
+Item 0f, part 3 done and parts 1–2 re-diagnosed.
+
+**`qa_vacated_refs` 27 → 0.** After the Magadha merge, 16 vacated qids were
+still cited by third-party records — `merge_cluster.py` leaves those alone by
+design, which is item 1d's gap. `repoint_vacated_qids.py` fixed 33 files.
+
+Graph-neutral, proved two ways: resolved claim sets identical to HEAD for all 33
+files, and the fresh extract showing **raw parent edges 128,461 = canonical
+128,461** with spouses **24,744 = 24,744**. Raw meeting canonical is the
+structural statement that no claim anywhere names a vacated qid, reached without
+trusting the tool that did the repair.
+
+### A diagnosis I had merged, split
+
+The merge dry run reported `Q2286` and `Q153455` together as "already carries
+two fathers", and I carried that into item 0f as one problem. Looking at them
+properly, they are two defects wanting two different repairs:
+
+**`Q153455` Sunakshtra Marudeva is a duplicate pair.** Fathers `Q2051` and
+`Q50192`, *both labelled "Marudeva, King of Kosala"*, both listing him as child
+— the parallel import again, one copy per block. `match_parallel_imports.py`
+couldn't reach it because the two-father ambiguity blocked propagation; the
+ambiguity **is** the duplication. Fix: merge them.
+
+**`Q2286` SENAJIT's second father is a nameless shell.** `Q52176` has no label,
+no aliases, no description, and one non-genealogical claim. Not a duplicate of
+anything — an empty record occupying a parent slot. `Q2289` BRIHATKARMAN has the
+same shape with `Q52188`. Fix: cut the edge.
+
+Applying the merge fix to the shell case, or the cut to the duplicate case,
+would each have been wrong. Grouping them was a reasonable first read of the
+gate output and it did not survive looking at the records.
+
+### 697 nameless parents — measured, and deliberately not acted on
+
+Dump-wide from the TSVs: **697** nameless records cited as a parent, **1,097**
+children with both a nameless and a named parent, **301** whose only parents are
+nameless.
+
+That is the silhouette of a defect class, and this session has spent all night
+successfully mining exactly that silhouette. **Every sampled case is taxonomic**
+— Porifera, Polyneoptera, Orthopter, Dictyoptera — where an unnamed clade node
+is plausibly deliberate rather than broken.
+
+So: scoped the repair to the two Magadha records, whose neighbourhood is a king
+list where every other record is a named king and a nameless father beside a
+named one is plainly spurious. The other 695 need someone to establish what a
+nameless node *means* in the taxonomy first.
+
+`CLAUDE.md` rule 1 exists for this, and the Licinii Vari withdrawal yesterday is
+the same lesson at 1/500th the scale. A pattern match is not licence.
