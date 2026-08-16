@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161084$DE3C4D7D-5D27-16A2-49EC-CD1A4EF9A570",
+        "id": "Q2240$472CE713-64F9-4997-A2F9-584CBADB9849",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161071",
-              "numeric-id": 161071
+              "id": "Q2236",
+              "numeric-id": 2236
             }
           },
-          "hash": "bb75668bc320562507cd267dad1fb8a41a43a098",
+          "hash": "f53524fa23383d16768135a9ae2e76e5ed266987",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161084$97FCACD3-B9F3-4FD5-9524-99EAA0B184A5",
+        "id": "Q2240$D4E6B606-7A20-4FD9-B70E-17179C09DDE0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161084$9747B261-556A-44B9-B700-BF361EF37059",
+        "id": "Q2240$15F3C258-0406-41B9-BE89-D9080FFCAD99",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q161084$6EE25B5B-0D29-7C79-C1FE-4F27D10ED7FE",
+        "id": "Q2240$66CFFE98-0C13-4C13-B769-61D746591B24",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161098",
-              "numeric-id": 161098
+              "id": "Q2244",
+              "numeric-id": 2244
             }
           },
-          "hash": "8a60d564c3fa7f0b4d678ad93e60f12f4682cd77",
+          "hash": "b87c36f8b35036f22fa6c57363866cfa9e4b7c3e",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,18 +85,18 @@
     ],
     "P48": [
       {
-        "id": "Q161084$747FC04D-7835-19A3-C724-EA066721E77A",
+        "id": "Q2240$C2A81946-8955-466E-8D58-388A291939C5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161097",
-              "numeric-id": 161097
+              "id": "Q2243",
+              "numeric-id": 2243
             }
           },
-          "hash": "7468e1d45500a6797cfb7458d73e617e0c70013f",
+          "hash": "3321a9f6bc00ac79f3b6da1507b8f545979f8ab6",
           "property": "P48",
           "snaktype": "value"
         },
@@ -106,7 +106,7 @@
     ],
     "P55": [
       {
-        "id": "Q161084$39B7D8C0-3DE3-E315-5A96-380CA9AB9860",
+        "id": "Q2240$9C2D902B-C782-45FF-8D1B-E2EA1B905A07",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -119,6 +119,23 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2240$907B6EDD-25FF-4571-837B-D14821531A51",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nandivardha Anuruddha, King of Magadha Arms.svg"
+          },
+          "hash": "28d3d481af2a21d70a5f1294c959de2c3f2364d9",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -141,38 +158,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161084$CDD5317F-78E9-4BDF-9B3E-E5A1ACF84790",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Nandivardha Anuruddha, King of Magadha Arms.svg"
-          },
-          "hash": "28d3d481af2a21d70a5f1294c959de2c3f2364d9",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161084",
+  "id": "Q2240",
   "labels": {
     "en": {
       "language": "en",
       "value": "Nandivardha Anuruddha, King of Magadha"
     }
   },
-  "lastrevid": 17584430,
-  "modified": "2025-09-17T18:11:37Z",
+  "lastrevid": 17404664,
+  "modified": "2025-09-15T21:43:30Z",
   "ns": 860,
-  "pageid": 204249,
+  "pageid": 20725,
   "sitelinks": {},
-  "title": "Item:Q161084",
+  "title": "Item:Q2240",
   "type": "item"
 }

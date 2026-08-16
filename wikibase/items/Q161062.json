@@ -1,20 +1,27 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sisunaga, King of Magadha"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q161062$4C8CE9CB-C1FC-FA18-17EF-D87ABFAF8691",
+        "id": "Q2233$F416A568-6330-4114-B6D5-BB9005C1C218",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161053",
-              "numeric-id": 161053
+              "id": "Q2229",
+              "numeric-id": 2229
             }
           },
-          "hash": "063815fa43e583ea9ee24d6754df66bf9b380276",
+          "hash": "2e988863bd87020dbc63cc3712d27fefa1e10c4a",
           "property": "P20",
           "snaktype": "value"
         },
@@ -43,7 +50,7 @@
     ],
     "P39": [
       {
-        "id": "Q161062$8743FC4F-CEE6-482C-B376-53F0CC0AD6BB",
+        "id": "Q2233$A18F6289-1A37-4C23-A2C2-98FFD20CC078",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,7 +69,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161062$5C070244-A7A5-4F25-A855-71A3E13275A2",
+        "id": "Q2233$F6B0CD1F-5E21-41D5-905E-3A51E7FB9627",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -83,18 +90,18 @@
     ],
     "P47": [
       {
-        "id": "Q161062$9BA3607F-FDDD-E36B-1301-225D6FE63B90",
+        "id": "Q2233$1126FCD5-8703-45CA-BE18-91F639CE1C81",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161071",
-              "numeric-id": 161071
+              "id": "Q2236",
+              "numeric-id": 2236
             }
           },
-          "hash": "ca0fcde8718b758bb1fba8d3e5fa5c13b5338729",
+          "hash": "7d1eb374563ae2e8239b839bb5ce20c3960c9317",
           "property": "P47",
           "snaktype": "value"
         },
@@ -104,7 +111,7 @@
     ],
     "P55": [
       {
-        "id": "Q161062$C19F8292-CACC-13DC-F3EF-76FFE1C9BF20",
+        "id": "Q2233$DDA6545F-8B7C-48EF-A511-70384CF7433E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -117,6 +124,40 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q2233$DDB2CEE5-473B-D37B-1A0D-1739807F2CB9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3632946"
+          },
+          "hash": "9eeaa1446a25c0e655aa461bef38685162ae87ae",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2233$9FE09342-90F0-4F26-8CC5-96FFB0A7D433",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shishunaga Arms.svg"
+          },
+          "hash": "af96b6569b530a514ee5ecb2156652efd009df84",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -139,38 +180,118 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161062$880B7FB8-5C76-42DC-8C72-BEDE3EB50BA2",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Sisunaga, King of Magadha Arms.svg"
-          },
-          "hash": "e6d234bda50366f209638821fa2cb177b0fa40b5",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q161062",
-  "labels": {
+  "descriptions": {
+    "bn": {
+      "language": "bn",
+      "value": "মগধ ও অবন্তীর রাজা"
+    },
     "en": {
       "language": "en",
-      "value": "Sisunaga, King of Magadha"
+      "value": "Founder of Shishunaga dynasty (c. 413 – 395 BCE)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Empereur indien"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Magadha (412v Chr-395v Chr)"
+    },
+    "or": {
+      "language": "or",
+      "value": "ଭାରତୀୟ ରାଜା"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "правитель Магадхи, основатель династии Шайшунага"
+    },
+    "th": {
+      "language": "th",
+      "value": "ผู้ก่อตั้งราชวงศ์ศิศุนาค"
     }
   },
-  "lastrevid": 17584414,
-  "modified": "2025-09-17T18:11:24Z",
+  "id": "Q2233",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "শিশুনাগ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shishunaga"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shishunaga"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Shaishunâga"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "शिशुनाग"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "シシュナーガ"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಶಿಶುನಾಗ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "시슈나가"
+    },
+    "new": {
+      "language": "new",
+      "value": "शिशुनाग"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Shishunaga"
+    },
+    "or": {
+      "language": "or",
+      "value": "ଶିଶୁନାଗ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Dinastia Shishunaga"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Dinastia Shishunaga"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Шайшунага"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Shishunaga"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "சிசுநாகன்"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าศิศุนาค"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Шайшунага"
+    }
+  },
+  "lastrevid": 17404654,
+  "modified": "2025-09-15T21:43:21Z",
   "ns": 860,
-  "pageid": 204227,
+  "pageid": 20715,
   "sitelinks": {},
-  "title": "Item:Q161062",
+  "title": "Item:Q2233",
   "type": "item"
 }

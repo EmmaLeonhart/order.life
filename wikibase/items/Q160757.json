@@ -1,7 +1,56 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Devabhuti"
+      },
+      {
+        "language": "en",
+        "value": "King of Shunga X - Devabhuti (83–73 BC)"
+      }
+    ]
+  },
   "claims": {
     "P20": [
+      {
+        "id": "Q2074$3020B35A-32B2-431A-9541-B8BFF0C65CBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2065",
+              "numeric-id": 2065
+            }
+          },
+          "hash": "cd4bc33cbc7c72de46cfcf3f17cab805f94969b6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50360$0C15420A-E1AF-423C-BF22-3FC8EA0F6927",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50300",
+              "numeric-id": 50300
+            }
+          },
+          "hash": "d72bf12141fe66a86343fcf9293e08747f92f517",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q160757$DAC68DA4-D932-35D0-1CCB-DED5D57E6B1C",
         "mainsnak": {
@@ -24,7 +73,7 @@
     ],
     "P39": [
       {
-        "id": "Q160757$CFA981D7-4793-486E-9324-9B6156FD21A8",
+        "id": "Q2074$0BC710BD-EAFF-402E-8A7D-832B9EF7C839",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +92,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160757$769857C2-64F1-4D61-B74D-EB361F4A0144",
+        "id": "Q2074$4173A8F0-F234-47CC-BBFB-FC3435B55189",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,7 +111,146 @@
         "type": "statement"
       }
     ],
+    "P47": [
+      {
+        "id": "Q2074$192306F6-13EE-4CE5-A572-C0E7C495768E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2086",
+              "numeric-id": 2086
+            }
+          },
+          "hash": "effd9b6989019b3c79297de5ffa606573f8f3c8d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q2074$40F1B305-4CF5-4662-A260-78B03736049F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2074$7BC0E5D2-96D5-4441-A346-2BACBA5A4997",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0073-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3937585630dcb7fdb79b9225bab3ad676644cf06",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q2074$EBC07E2B-CFD4-4EFD-AB66-A79A2ED5D6B2",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "King of Shunga X - Devabhuti (83–73 BC) //"
+            }
+          },
+          "hash": "54ce6cabbfc103bbd6dca7d1ca135d70e7631c82",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q2074$342FB848-4872-E07D-5FFF-67A84E2D2DA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3878846"
+          },
+          "hash": "18777b913da26b556676ced179d0ffb2705b9a32",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2074$728F1D06-D028-4A0D-948C-67C763076D1A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Devabhuti Arms.svg"
+          },
+          "hash": "8ed0499497037c0ac08824b93ee672ffb6f6110d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P42": [
+      {
+        "id": "Q50360$A851B9D4-9CD9-406E-B33D-BA7E3DEF7A6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50364",
+              "numeric-id": 50364
+            }
+          },
+          "hash": "73a40e00eaff27453f6145884b7564c0ead7bfa8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q160757$00EE9909-31BA-0EC5-C797-BDA13AF1D385",
         "mainsnak": {
@@ -83,63 +271,21 @@
         "type": "statement"
       }
     ],
-    "P47": [
-      {
-        "id": "Q160757$4BC6A03D-3F8D-E5D0-FB8F-AB563BA2B087",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160777",
-              "numeric-id": 160777
-            }
-          },
-          "hash": "da52343183ec8c3ccc39e1bf3910de6250dc4110",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P48": [
       {
-        "id": "Q160757$24CC29B5-D97F-5D50-390A-B8A951F5AA3C",
+        "id": "Q50360$41109A16-28BF-418F-8783-DA78904E094A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160778",
-              "numeric-id": 160778
+              "id": "Q50416",
+              "numeric-id": 50416
             }
           },
-          "hash": "787e759a24c9aa0f00088ba3537f6e1781cdfc14",
+          "hash": "2d64106bb8dd76aefb527a937d2a72c12f815c38",
           "property": "P48",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P55": [
-      {
-        "id": "Q160757$B446E53E-F05A-89BD-0ABD-0EAAEFBF147D",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153718",
-              "numeric-id": 153718
-            }
-          },
-          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
-          "property": "P55",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -162,42 +308,97 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160757$03DD5A57-4A19-4D1F-BFB8-DF701FD75830",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "King of Shunga X - Devabhuti (8373 BC) Arms.svg"
-          },
-          "hash": "96788fbb9bb98be3d6505e3e2462dfad6e34636c",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q160757",
-  "labels": {
+  "descriptions": {
     "en": {
       "language": "en",
-      "value": "King of Shunga X - Devabhuti (8373 BC)"
+      "value": "shunga Emperor"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "சுங்க பேரரசர்"
+    }
+  },
+  "id": "Q2074",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "দেবভূতি"
+    },
+    "en": {
+      "language": "en",
+      "value": "Devabhuti"
     },
     "es": {
       "language": "es",
-      "value": "King of Shunga X - Devabhuti (83–73 BC)"
+      "value": "Devabhuti"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Devabhûti"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "देवभूति"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "デーヴァブーティ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "데바부티"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Devabhuti"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਦੇਵਾਭੂਤੀ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Devabuti"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Devabuti"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Devabhuti"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "தேவபூதி"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าเทวภูติ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Девабхуті"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "提婆菩提"
     }
   },
-  "lastrevid": 17583838,
-  "modified": "2025-09-17T18:03:33Z",
+  "lastrevid": 17404519,
+  "modified": "2025-09-15T21:39:34Z",
   "ns": 860,
-  "pageid": 203922,
-  "sitelinks": {},
-  "title": "Item:Q160757",
+  "pageid": 20455,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q2074",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q2074"
+    }
+  },
+  "title": "Item:Q2074",
   "type": "item"
 }

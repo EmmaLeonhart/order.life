@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161172$5DEB3568-0504-E819-D946-E9EDEDFD4B1B",
+        "id": "Q2268$AFBD6EBB-9C22-4A51-81BC-E264423469B7",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161159",
-              "numeric-id": 161159
+              "id": "Q2263",
+              "numeric-id": 2263
             }
           },
-          "hash": "b99cb0b1d9b9bfb9880d291112c1c60437f6fdcf",
+          "hash": "bb615c54d5e726b7fdbc6c28edf8273cab7ab7f0",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161172$8C5EF45B-1533-4C81-995B-E53C99638E9D",
+        "id": "Q2268$9960A4C0-8141-41C3-9295-8E0FAC396BBC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161172$858B120E-B261-44D7-A9C8-57EE12D91F4F",
+        "id": "Q2268$FFA4E680-86D3-4BC3-9D5C-23685BBF0176",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q161172$E24F35EC-E802-8C38-8B21-68B44E6E8F9B",
+        "id": "Q2268$2F985DB9-B05A-42DF-8CA4-7D5987F7D8EF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160496",
-              "numeric-id": 160496
+              "id": "Q1945",
+              "numeric-id": 1945
             }
           },
-          "hash": "a3b7a06ac9c65e46d4c3c98e615998f2406da3d1",
+          "hash": "3ba56329d034808297a2456a0551815112ed9a2b",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q161172$6462E443-F691-D448-F8F7-9235A366A821",
+        "id": "Q2268$C9EFBED0-1B13-4E06-829F-5A2B6DD8025C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,47 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q2268$33BA4BB8-4AB8-402A-989E-04EA088B414B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0700-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ead4b176d2f630cc476effcc8864a5df658a825e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2268$F2E0A339-63C6-4AB7-B864-71A68E3A87C5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sanjay Arms.svg"
+          },
+          "hash": "862bde6c4dd396026357af0a256254d6f8082dfd",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +161,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161172$1D6559B1-CC6B-4C94-86AA-529DC1B3E0DB",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "SANJAY Arms.svg"
-          },
-          "hash": "248bf415141b4fda588f2b221727366a1236bb16",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161172",
+  "id": "Q2268",
   "labels": {
     "en": {
       "language": "en",
-      "value": "SANJAY"
+      "value": "Sanjay"
     }
   },
-  "lastrevid": 17584494,
-  "modified": "2025-09-17T18:12:30Z",
+  "lastrevid": 17404706,
+  "modified": "2025-09-15T21:44:14Z",
   "ns": 860,
-  "pageid": 204337,
+  "pageid": 20767,
   "sitelinks": {},
-  "title": "Item:Q161172",
+  "title": "Item:Q2268",
   "type": "item"
 }

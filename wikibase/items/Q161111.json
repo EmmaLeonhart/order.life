@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161111$E57A37E0-0A6E-6408-62F3-2EA1CF7D2DD1",
+        "id": "Q2247$97BFC7D3-E782-4E00-9C50-D7CC79E17079",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161097",
-              "numeric-id": 161097
+              "id": "Q2243",
+              "numeric-id": 2243
             }
           },
-          "hash": "b6096d809e43f4a059a370e33770fadedb35498a",
+          "hash": "254b5d8f60ed8c341b85559d189217b1596af818",
           "property": "P20",
           "snaktype": "value"
         },
@@ -43,7 +43,7 @@
     ],
     "P39": [
       {
-        "id": "Q161111$F00AF311-069F-4956-9135-B99622FFF34A",
+        "id": "Q2247$814D899D-9C13-4556-9505-5D014205DD87",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,7 +62,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161111$94A1E3D2-48B3-460B-84FB-6BED21B3D64A",
+        "id": "Q2247$8A38FBC9-7AE1-41DC-A8A8-C51F4EACF964",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -83,18 +83,18 @@
     ],
     "P47": [
       {
-        "id": "Q161111$10BB4797-D295-E89C-C172-7736AD94D5A3",
+        "id": "Q2247$32EA793C-3A07-4E41-92EF-24828E4BFC2A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161128",
-              "numeric-id": 161128
+              "id": "Q2252",
+              "numeric-id": 2252
             }
           },
-          "hash": "c221b9e01dbca105037fd3b1b35a75a1f161e9c7",
+          "hash": "f08a05744d8f620cfec547f87075476e8d568e2d",
           "property": "P47",
           "snaktype": "value"
         },
@@ -104,7 +104,7 @@
     ],
     "P55": [
       {
-        "id": "Q161111$6AF46341-916B-64F0-92CA-B40186FB2CCB",
+        "id": "Q2247$BA533324-D563-45A5-B5B0-F3C7BE81F164",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -117,6 +117,47 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q2247$2FF2F20F-CA8A-4DC0-A66C-58D4E7596F07",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "db34a25e810e4a38761e77dbdbfd966b2022e20e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2247$69166BAF-BE43-4667-A811-96F5BF21D29B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prasenajit II of Kosala Arms.svg"
+          },
+          "hash": "190b198d9cd76597d973e059d425c9a57db67c18",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -139,38 +180,28 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161111$440FD415-E214-451F-9092-E382CD66E02C",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Prasenajit II of Kosala Arms.svg"
-          },
-          "hash": "190b198d9cd76597d973e059d425c9a57db67c18",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161111",
+  "id": "Q2247",
   "labels": {
     "en": {
       "language": "en",
       "value": "Prasenajit II of Kosala"
     }
   },
-  "lastrevid": 17584448,
-  "modified": "2025-09-17T18:11:52Z",
+  "lastrevid": 17404670,
+  "modified": "2025-09-15T21:43:38Z",
   "ns": 860,
-  "pageid": 204276,
-  "sitelinks": {},
-  "title": "Item:Q161111",
+  "pageid": 20734,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q2247",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q2247"
+    }
+  },
+  "title": "Item:Q2247",
   "type": "item"
 }

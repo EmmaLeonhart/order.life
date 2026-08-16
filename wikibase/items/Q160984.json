@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q160984$9C0E72E0-F500-79AC-6A3C-F71561E4ACCF",
+        "id": "Q2200$53DFF788-B7CC-406D-BD1C-063D44A96BDC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160969",
-              "numeric-id": 160969
+              "id": "Q2194",
+              "numeric-id": 2194
             }
           },
-          "hash": "68ce41489e7f52d92103b315679c2bfa05c87eae",
+          "hash": "413e6759420719680958f5b4850f2fd58b8d4c64",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q160984$683432CD-6811-4AAA-A20B-F7CF37DAA95C",
+        "id": "Q2200$3B2747C8-FA15-49B4-9984-9F68D595D6A1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160984$7B66D528-7BEA-4C19-A1AE-B47652808333",
+        "id": "Q2200$D32F9B1A-79E3-465B-9676-B7A4C93B54F6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,41 +62,20 @@
         "type": "statement"
       }
     ],
-    "P42": [
-      {
-        "id": "Q160984$0ECA91FE-D9C1-19EA-872A-4B61704A8AC8",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160985",
-              "numeric-id": 160985
-            }
-          },
-          "hash": "6f843b7110ece6dc12f5b995d437ba0e2a46c98f",
-          "property": "P42",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P47": [
       {
-        "id": "Q160984$8F4CA7FF-757E-99DF-FF2A-E3D79B03F685",
+        "id": "Q2200$C61456F3-4694-4B9F-8CBE-F24DFA5CAF10",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160996",
-              "numeric-id": 160996
+              "id": "Q2206",
+              "numeric-id": 2206
             }
           },
-          "hash": "f896f895a015629a6324fa542f9dacbcd04d8001",
+          "hash": "ca51b29cd1e64057a250e26c62320e5f846ca8a3",
           "property": "P47",
           "snaktype": "value"
         },
@@ -104,21 +83,17 @@
         "type": "statement"
       }
     ],
-    "P48": [
+    "P54": [
       {
-        "id": "Q160984$54B47EBE-F6F0-D43D-0AD4-990609F831AF",
+        "id": "Q2200$2FB8240B-CCA6-42D1-A0B4-84494EF6E29E",
         "mainsnak": {
-          "datatype": "wikibase-item",
+          "datatype": "string",
           "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160995",
-              "numeric-id": 160995
-            }
+            "type": "string",
+            "value": "King of Kashmir & Gandhara"
           },
-          "hash": "753b99327a9ccc5d637481e26591bb91470f276d",
-          "property": "P48",
+          "hash": "b7d4b7dbf9e6bf9ad58be2037b6ffe7986ccbd17",
+          "property": "P54",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -127,7 +102,7 @@
     ],
     "P55": [
       {
-        "id": "Q160984$506F5E71-0573-3479-DAF7-3A7656446359",
+        "id": "Q2200$5195A8AF-79BC-400C-8F28-64E789C824F9",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -140,6 +115,113 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q2200$ECAFC0B8-9357-4362-97FE-F9CF67F60F57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0260-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8549c08b4d9c3b4e1d223ef8fe612c228a4ff478",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2200$6B23B271-850D-49CC-8C77-2B3EA2AB87E1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0225-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0b11a3fb629ee2eda98d14692aa2c239974b31e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2200$49AD8001-49E4-4108-BF21-0E19364FAE2B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kunala King of Kashmir & Gandhara Arms.svg"
+          },
+          "hash": "e507a7f73ac2d0019884c31ea3a3a51ad96de4ba",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50873$02A99F59-E108-44BE-9C55-5104CEB5D93B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50878",
+              "numeric-id": 50878
+            }
+          },
+          "hash": "a4ec83573e59ccb9715630e8a506e7897b0d263a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q50873$D93B8189-D959-4835-89E3-3296569B95B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50903",
+              "numeric-id": 50903
+            }
+          },
+          "hash": "48b6da35e5991f2fe45791d72e76378083b70555",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -162,38 +244,28 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160984$00E20188-8D7D-4E84-B9A2-42503A05B022",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Kunala Arms.svg"
-          },
-          "hash": "13c040dce928c3b20f8b6efdd4229398c034f7ba",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160984",
+  "id": "Q2200",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Kunala"
+      "value": "Kunala King of Kashmir & Gandhara"
     }
   },
-  "lastrevid": 17584286,
-  "modified": "2025-09-17T18:09:40Z",
+  "lastrevid": 17404624,
+  "modified": "2025-09-15T21:42:29Z",
   "ns": 860,
-  "pageid": 204149,
-  "sitelinks": {},
-  "title": "Item:Q160984",
+  "pageid": 20663,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q2200",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q2200"
+    }
+  },
+  "title": "Item:Q2200",
   "type": "item"
 }

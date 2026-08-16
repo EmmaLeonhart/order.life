@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161113$DB7C809F-F712-3876-2BB0-45E998BB0D64",
+        "id": "Q2249$D8CB7BE5-F4FD-4102-B22B-87A63B59C557",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161098",
-              "numeric-id": 161098
+              "id": "Q2244",
+              "numeric-id": 2244
             }
           },
-          "hash": "b9f613afd8dffd38592509bb232cdbd3b95e35cc",
+          "hash": "168e717a047e057ca990e0bb344a49368c103676",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161113$21C26AC2-A601-40FA-B082-006DC9F72CC1",
+        "id": "Q2249$D793459A-2A24-4266-B15E-3446433F4405",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161113$183A35FF-ED1D-469E-AA9F-7F3B8405E7BC",
+        "id": "Q2249$470D1D74-359F-4324-9EF5-EF582EFAA14E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,20 +62,148 @@
         "type": "statement"
       }
     ],
-    "P42": [
+    "P47": [
       {
-        "id": "Q161113$2B3C6D13-1794-0EC5-CBFA-24A92358C645",
+        "id": "Q2249$97B7202E-804A-4B80-A8FC-4478848D8384",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161112",
-              "numeric-id": 161112
+              "id": "Q2254",
+              "numeric-id": 2254
             }
           },
-          "hash": "9e020c1c95baf54f9e4a3c175d90915d7aabe89d",
+          "hash": "13579bb9d69943b65cd3b902b8868e5b66daef7c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q2249$51577130-169C-429C-A7AA-9FA56C5D77BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2253",
+              "numeric-id": 2253
+            }
+          },
+          "hash": "724f8e4d919c7f563847f073b058d36a95d735c1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q2249$120F2502-F159-4F60-9A3F-98A398BF0560",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q2249$2A5ABC52-D2FA-49E4-B2D9-47D769C65959",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0544-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f19ef27bcdafea8355a0156232772f91a61a9e18",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2249$915AA24D-33F3-4433-B37B-0307A9E55A76",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0491-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0dfb19d2001cf0120f8654866ff12b60486409de",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2249$77E1D004-9AC0-4413-B35E-AD80B2C704E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "BIMBISARA of Magadha Arms.svg"
+          },
+          "hash": "0b598c051305e86e90b613372bb3c6d76de82b1b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q51164$2F390D7B-FAAA-4E7E-B4BF-D9174244CCCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51159",
+              "numeric-id": 51159
+            }
+          },
+          "hash": "4a8d53415809f3c42f5dd3c638958fc04fbad4a3",
           "property": "P42",
           "snaktype": "value"
         },
@@ -102,69 +230,6 @@
         "type": "statement"
       }
     ],
-    "P47": [
-      {
-        "id": "Q161113$046C213B-2476-DE8A-1076-62C7749D5E59",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q161130",
-              "numeric-id": 161130
-            }
-          },
-          "hash": "b4cd0fea0289d686b79ac5cd4413ad2f6c56def8",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P48": [
-      {
-        "id": "Q161113$4B14EFB7-4F1F-76AF-CE51-C1B13A4169F5",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q161129",
-              "numeric-id": 161129
-            }
-          },
-          "hash": "a94574e3563fd28fe16eeb002108aeeb2d7a39ad",
-          "property": "P48",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P55": [
-      {
-        "id": "Q161113$19B82C42-701E-BD57-33EE-BA60123EEC73",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153718",
-              "numeric-id": 153718
-            }
-          },
-          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P62": [
       {
         "id": "Q161113$1C68359D-20D0-45BA-41D0-3E0ACF1CFA79",
@@ -181,38 +246,28 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161113$E6AE93E7-AE37-4369-9122-0F60F87728AC",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "BIMBISARA Arms.svg"
-          },
-          "hash": "534bf3494215f09737076ab454df9e23629d756c",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161113",
+  "id": "Q2249",
   "labels": {
     "en": {
       "language": "en",
-      "value": "BIMBISARA"
+      "value": "BIMBISARA of Magadha"
     }
   },
-  "lastrevid": 17584452,
-  "modified": "2025-09-17T18:11:55Z",
+  "lastrevid": 17404674,
+  "modified": "2025-09-15T21:43:42Z",
   "ns": 860,
-  "pageid": 204278,
-  "sitelinks": {},
-  "title": "Item:Q161113",
+  "pageid": 20738,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q2249",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q2249"
+    }
+  },
+  "title": "Item:Q2249",
   "type": "item"
 }

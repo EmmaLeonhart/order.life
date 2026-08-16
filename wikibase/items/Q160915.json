@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q160915$A495BE5D-5ED6-C2E6-25C4-41DEC78703CF",
+        "id": "Q50721$CCB1747D-AB42-4F52-A84D-A0067DA9AE97",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160900",
-              "numeric-id": 160900
+              "id": "Q2165",
+              "numeric-id": 2165
             }
           },
-          "hash": "c2aa8997df28edc67b6fe7a89d0621208ef9bf2f",
+          "hash": "70164e9c960cd5d56d65d6a9325e61fd585320bd",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q160915$4953D22F-98E5-4E1C-8EB9-A655E5693351",
+        "id": "Q50721$07C09658-9484-4D09-B6B5-567929BB5506",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160915$3A77729B-712D-41D2-9FD8-8270870272E7",
+        "id": "Q50721$D02AA2E8-4E25-422F-AE8F-87324F699B1A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P42": [
       {
-        "id": "Q160915$BD581A23-5B7E-3FC0-51B8-8794FCE5F6EB",
+        "id": "Q50721$649E5E0A-9A6D-4594-8E2A-E51B26A8DCE2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160916",
-              "numeric-id": 160916
+              "id": "Q2175",
+              "numeric-id": 2175
             }
           },
-          "hash": "bf23700f54204ac3ec15cd29b3f90a33f4c4d68d",
+          "hash": "c9a61e08d97b72ac16b1d2b79390b032bc02e06b",
           "property": "P42",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q160915$314873A3-0E80-4780-EDA7-B88616F8659E",
+        "id": "Q50721$F4B69BC8-8E74-4DF8-80C8-DBA3D1B201B6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,23 @@
           },
           "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50721$30225C6C-A7F1-4B40-8C2A-9891E78CB84F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dharini Arms.svg"
+          },
+          "hash": "6c21a98c280db650e1f358daac8a312dada16879",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +137,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160915$2F2824E8-36F1-4E5D-AE95-DB018818A933",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Dharini Arms.svg"
-          },
-          "hash": "6c21a98c280db650e1f358daac8a312dada16879",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160915",
+  "id": "Q50721",
   "labels": {
     "en": {
       "language": "en",
       "value": "Dharini"
     }
   },
-  "lastrevid": 17584148,
-  "modified": "2025-09-17T18:07:51Z",
+  "lastrevid": 17457012,
+  "modified": "2025-09-16T11:35:17Z",
   "ns": 860,
-  "pageid": 204080,
+  "pageid": 65705,
   "sitelinks": {},
-  "title": "Item:Q160915",
+  "title": "Item:Q50721",
   "type": "item"
 }

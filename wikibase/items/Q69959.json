@@ -3,18 +3,37 @@
   "claims": {
     "P20": [
       {
-        "id": "Q51134$94ACFDF8-23A9-4D96-96CC-80238578A6C0",
+        "id": "Q2243$261B32DD-6F6A-413C-A4C1-A5B539FAD496",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51119",
-              "numeric-id": 51119
+              "id": "Q2240",
+              "numeric-id": 2240
             }
           },
-          "hash": "f7ece8f485e0f07e05fa41431aa34e428e7d7cbd",
+          "hash": "f8396ea947a038b624626f9425a587c1cb8a6884",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q161097$17E7A1FD-384E-6C09-EB0B-F0D0B96BB958",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q171373",
+              "numeric-id": 171373
+            }
+          },
+          "hash": "6ff11a38648f17827c8d3b66551836b61896dcb4",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +43,7 @@
     ],
     "P39": [
       {
-        "id": "Q51134$88AB2D7B-4ACF-4DEF-8521-6D786F237D77",
+        "id": "Q2243$0E2232D0-E923-4CA5-A145-D357A160344F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +62,7 @@
         "type": "statement"
       },
       {
-        "id": "Q51134$5D205095-D49A-46E1-896A-5A1026F44415",
+        "id": "Q2243$429FE0CD-1305-44C1-A842-0883209B357E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +83,18 @@
     ],
     "P42": [
       {
-        "id": "Q51134$BC773FB7-7FF3-4914-9E70-42183CBACC77",
+        "id": "Q2243$FB59095C-B8BE-4953-85E9-1EDE2FECB022",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51139",
-              "numeric-id": 51139
+              "id": "Q2244",
+              "numeric-id": 2244
             }
           },
-          "hash": "0f3718a8e7d2eede5b3404ad8bad4fd3a1c7a2f4",
+          "hash": "ee5fc6df761d9e0b496c97cce2aa229ff4470245",
           "property": "P42",
           "snaktype": "value"
         },
@@ -85,18 +104,18 @@
     ],
     "P47": [
       {
-        "id": "Q51134$93D51E49-CB64-4B50-ABD1-7A65475E8543",
+        "id": "Q2243$2387BA14-F772-4355-96F0-8CF68938D9D1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51154",
-              "numeric-id": 51154
+              "id": "Q2247",
+              "numeric-id": 2247
             }
           },
-          "hash": "d209ea40dfd0fc273b4e0c0694a44f17af0858f9",
+          "hash": "ffc4a351c245287fcd1067882c06a3bcdf92d13f",
           "property": "P47",
           "snaktype": "value"
         },
@@ -106,7 +125,7 @@
     ],
     "P55": [
       {
-        "id": "Q51134$87FCFF6A-209C-4D16-98E1-05D07A0FCB9B",
+        "id": "Q2243$90C95FFC-6A0C-4AC7-9537-5AC81A655614",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -127,7 +146,7 @@
     ],
     "P94": [
       {
-        "id": "Q51134$41AA9A01-A769-4384-AEC0-1E2837B4B123",
+        "id": "Q2243$984742BE-7C98-4BD9-B213-C8F66828EB34",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -141,21 +160,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q161097$FF8DB55C-F6F2-8D64-1142-CF2C92678CB9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009715946910"
+          },
+          "hash": "0219f0836f8a43a9098cb1f3207d905a30b660f0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q51134",
+  "id": "Q2243",
   "labels": {
     "en": {
       "language": "en",
       "value": "Vajira"
     }
   },
-  "lastrevid": 17457320,
-  "modified": "2025-09-16T11:39:54Z",
+  "lastrevid": 17404666,
+  "modified": "2025-09-15T21:43:33Z",
   "ns": 860,
-  "pageid": 66032,
+  "pageid": 20729,
   "sitelinks": {},
-  "title": "Item:Q51134",
+  "title": "Item:Q2243",
   "type": "item"
 }

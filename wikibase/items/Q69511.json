@@ -1,20 +1,31 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vajramitra"
+      },
+      {
+        "language": "en",
+        "value": "King of Shunga VIII - Vajramitra (...-110 BC)"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q50464$4A848248-3DE8-419E-913E-87EA48121D02",
+        "id": "Q2101$2771B3B2-8DDA-4FD6-87F2-AFEC0C0CE04A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q50412",
-              "numeric-id": 50412
+              "id": "Q2086",
+              "numeric-id": 2086
             }
           },
-          "hash": "ae708431c86a09c6097971250c987f9c79483b92",
+          "hash": "60781422a8963c079ef02bac63cdd10f22014d5f",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +35,7 @@
     ],
     "P39": [
       {
-        "id": "Q50464$D6B305C4-5A24-45D1-9F92-149176DD8296",
+        "id": "Q2101$BB754A82-DA4B-42BE-ADCB-D000255B16A2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +54,7 @@
         "type": "statement"
       },
       {
-        "id": "Q50464$2C80CC19-A778-4EBA-9358-23F69F3F523B",
+        "id": "Q2101$BA6DABD3-E36C-4A39-88B8-4377ABD15370",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -56,6 +67,109 @@
           },
           "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
           "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q2101$C2F8FC69-0604-417A-BC3C-41B19529D5C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2117",
+              "numeric-id": 2117
+            }
+          },
+          "hash": "0e5467d5c4bbc03faced90fc02f64f1df92b10a8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q2101$C1ABF56F-3287-462E-A22D-217079C2D281",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2101$B226B206-50D4-4E24-AA73-EB2A9F10CE3E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0110-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "65e530e5af23fe8d9ed08131aef44dbcf1c37181",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q2101$5451DB25-D68C-48B3-91F8-0E2EE6EF6583",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "King of Shunga VIII - Vajramitra (...-110 BC) //"
+            }
+          },
+          "hash": "99e0660204eb63a6e70f0c4862fa65c25ff46528",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2101$F15D3D2F-B1FF-45DF-B5BE-BC175CAA9E2C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vajramitra Arms.svg"
+          },
+          "hash": "1ed279d0ddbd176ad33392d49e0831a1fa94b84b",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -83,27 +197,6 @@
         "type": "statement"
       }
     ],
-    "P47": [
-      {
-        "id": "Q50464$3C26AB6B-1919-414E-8B10-FD05C780F415",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q50524",
-              "numeric-id": 50524
-            }
-          },
-          "hash": "0c57d883796878d429b3a01b0bd24095a90eece6",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P48": [
       {
         "id": "Q50464$03994BB4-1D7F-4A15-8230-B1F96A919236",
@@ -125,38 +218,17 @@
         "type": "statement"
       }
     ],
-    "P55": [
+    "P62": [
       {
-        "id": "Q50464$3D2D3CA4-2DB7-4F6F-BB0F-301CA3E08CFE",
+        "id": "Q160803$CBD985C5-817F-2062-0964-EFBF691752EE",
         "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153718",
-              "numeric-id": 153718
-            }
-          },
-          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q50464$1A8B169B-4212-4159-9FD4-4ED89AB3C8B4",
-        "mainsnak": {
-          "datatype": "commonsMedia",
+          "datatype": "external-id",
           "datavalue": {
             "type": "string",
-            "value": "Vajramitra Arms.svg"
+            "value": "6000000041015467098"
           },
-          "hash": "1ed279d0ddbd176ad33392d49e0831a1fa94b84b",
-          "property": "P94",
+          "hash": "89bd5ed0229c5a087c97cf084492edd9998ed20d",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -165,18 +237,18 @@
     ]
   },
   "descriptions": {},
-  "id": "Q50464",
+  "id": "Q2101",
   "labels": {
     "en": {
       "language": "en",
       "value": "Vajramitra"
     }
   },
-  "lastrevid": 17456692,
-  "modified": "2025-09-16T11:30:39Z",
+  "lastrevid": 17404545,
+  "modified": "2025-09-15T21:40:07Z",
   "ns": 860,
-  "pageid": 65513,
+  "pageid": 20502,
   "sitelinks": {},
-  "title": "Item:Q50464",
+  "title": "Item:Q2101",
   "type": "item"
 }

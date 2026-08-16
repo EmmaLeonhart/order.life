@@ -377,53 +377,39 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-0d. **DEDUPE THE MAURYA/SHUNGA TRIPLE IMPORT. Mapping is DONE and verified 2026-08-16 —
-   `wikibase/analysis/maurya_shunga_triples.md`. What remains is executing 28 merges.**
+0f. **FINISH THE MAGADHA MERGE: three dropped pairs, one +1 on `children_over_2_parents`,
+   and 27 stale references. All three are the same knot.**
 
-   **44 records, 16 kings, three parallel copies of two king lists.** Shunga: Pushyamitra
-   → Agnimitra → Vasumitra → Bhadraka → Pulindaka → Ghosha → Vajramitra → Bhagabhadra →
-   Devabhuti. Maurya: Sarvarthasiddhi → Chandragupta → Bindusara → Ashoka → Kunala →
-   Dasharatha → Brihadratha. Father-to-son in identical order in all three blocks. The full
-   qid table is in the analysis file; do not re-derive it.
+   The 131-pair merge landed 2026-08-16 (`magadha-triple`, all six gates green). **Three
+   residues, and two of them are one problem:**
 
-   **WHY THIS IS A DEDUPE AND NOT THREE SETS OF PEOPLE**, stated because a false
-   duplication claim was withdrawn here on 2026-08-15. These are **named kings of named
-   dynasties in regnal order**. There was one Shunga Agnimitra, not three, and the
-   `Q160xxx` block labels them outright — *"King of Shunga II - Agnimitra (149141 BC)"*. A
-   king list is a fixed sequence of individuals. That is nothing like two women of a common
-   name marrying into one family in successive generations, which is what the Licinia case
-   turned out to be.
+   **1. `Q2286` SENAJIT of Magadha and `Q153455` Sunakshtra Marudeva already carry two
+   fathers each**, so merging their third copies would have crossed the >2-parent
+   threshold. Three pairs were dropped: `Q2286`←`Q51301`, `Q2286`←`Q161211`,
+   `Q153455`←`Q160680`. These are the same two records `match_parallel_imports.py` refused
+   to propagate through — **the ambiguity is in the data, not in the matching.** Resolve
+   the parentage (which of the two fathers is real, or whether the record is a merge of two
+   men), then merge the copies.
 
-   **THE SURVIVOR IS `Q2xxx`, MEASURED not assumed:** 6 of its 12 records carry a Wikidata
-   id; `Q50xxx` carries 0 of 16 and `Q160xxx` 0 of 16. The Ayodhya bridge already attaches
-   to `Q2xxx`, so the Heo Hwang-ok line is undisturbed.
+   **2. `children_over_2_parents` went 1199 → 1200, and it is a direct consequence of
+   dropping those pairs.** `Q2282` Srutanjaya of Magadha now has three parents:
+   **`Q2286`, `Q51301`, `Q161211` — which are the three unmerged copies of SENAJIT.**
+   Srutanjaya's own three copies merged; his father's did not, so one child now points at
+   three versions of one man. **This is not a new defect and needs no separate
+   investigation — it disappears the moment item 1 above is done.** Do not go looking for
+   it as though it were independent.
 
-   **IT GAINS ANCESTRAL DEPTH — this is not hygiene.** `Q2206` Ashoka has **no father** and
-   the survivor block stops there, while both other copies carry three further generations
-   above him: Bindusara, Chandragupta, Sarvarthasiddhi. Likewise `Q2175` Agnimitra has no
-   father in `Q2xxx` while both other copies carry Pushyamitra, the dynasty's founder. The
-   merge hands the surviving chain ancestry it does not currently have, which is the
-   load-bearing direction.
+   **3. `qa_vacated_refs` went 0 → 27 across 22 records.** Predicted before the merge ran,
+   and it is `merge_cluster.py` behaving exactly as its docstring says: *"third-party
+   records that cite a loser qid are left alone."* **This is queue.md item 1d's enforcement
+   gap, now demonstrated with real data from a merge we control rather than inferred from
+   history.** Fix with `repoint_vacated_qids.py`, which takes any number of qids and is
+   graph-neutral by construction — prove it the way the `Q72693` pass did, by comparing
+   resolved claim sets per file rather than regenerating.
 
-   **EXECUTION, and why it is multi-tick.** `merge_cluster.py` per cluster,
-   `verify_repair.py` around it. Three constraints:
-
-   1. `merge_cluster.py` sweeps all 164k files every run, and **every long scan launched
-      from the tool runner this session was killed at ~5 minutes.** Launch it detached with
-      PowerShell `Start-Process` — that is what worked for `extract_genealogy.py`.
-   2. **Expect `compare_tangles` to move** and read the signature, not the verdict. The
-      dump is at `tangled_components 0`, so anything *newly* inside a tangle is a
-      regression, full stop.
-   3. **`compare_depth` must show a GAIN, never a loss.** Amputation here means the merge
-      dropped claims on the floor — a bug, not a judgement call.
-
-   **Ayutayus, same pass:** `Q2299` and `Q51321` "AYUTAYUS of Magadha" carry **identical
-   father lists** `['Q2302', 'Q52228']` — duplication with no inference needed. `Q161228`
-   and `Q29610` want checking alongside.
-
-   **One correction to this item as previously filed:** it recorded `Q160916` Agnimitra as
-   having two fathers, `Q160932` and `Q160933`. **Measured 2026-08-16: it has one,
-   `Q160932`.** Do not cite the two-father claim without re-measuring.
+   **Doing 1 then 3 closes all of it**, and item 1d's fix (make `merge_cluster.py` repoint
+   third-party references itself) now has a real case to be verified against instead of a
+   hypothetical.
 
 0c. **THE THREE REMAINING ROOTLESS JAPANESE RECORDS — examine and attach if the
    succession supplies a father.**

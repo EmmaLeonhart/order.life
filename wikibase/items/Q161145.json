@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161145$C0A1CCC4-39E7-D2CA-9EE6-DC28F8C01F56",
+        "id": "Q2258$78B88A9A-69B1-4806-B334-D41E80BCC920",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161128",
-              "numeric-id": 161128
+              "id": "Q2252",
+              "numeric-id": 2252
             }
           },
-          "hash": "17014374149b7e8c149d61c6cca28e70cf784b25",
+          "hash": "b6a213c67e8957cbc44fbd6bcf5e7300b8be60a3",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161145$7111D855-1557-4640-A018-F1F2EC1396FA",
+        "id": "Q2258$39E844A1-41BC-4C2C-AF80-6ACF51588B97",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161145$F9C95305-988E-4B2A-A5B1-449A6ACF45F7",
+        "id": "Q2258$47E3AB3C-A0CD-40E4-B3DB-F04D36CE5603",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q161145$A72C5CB4-FF49-CBEE-EE70-35BA58B0505B",
+        "id": "Q2258$E7B25D91-AB9B-43DE-A0B5-4257B90CEAFE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161159",
-              "numeric-id": 161159
+              "id": "Q2263",
+              "numeric-id": 2263
             }
           },
-          "hash": "bbd2b9f52f091fe2d48540a9233a79aac13f555f",
+          "hash": "40d9595f80e46c2a2a2b12c18869ea1ed8b327bc",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q161145$F0A8E446-31CA-3E10-5343-2EABA7D3DB0D",
+        "id": "Q2258$7E838971-1D86-4812-AB52-5391B2EFED68",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,47 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q2258$41114767-EE9C-4CFC-979D-36EA4887F8F2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2258$CE6F41B6-E6BA-422D-B71A-A16AEE7565BF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shudhyod Arms.svg"
+          },
+          "hash": "7db51fb607db652fc85f8041e3643a7a6b1391cd",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +161,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161145$4CA2E879-364D-4041-991B-BE0BF4BC9FE0",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Shudhyod Arms.svg"
-          },
-          "hash": "7db51fb607db652fc85f8041e3643a7a6b1391cd",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161145",
+  "id": "Q2258",
   "labels": {
     "en": {
       "language": "en",
       "value": "Shudhyod"
     }
   },
-  "lastrevid": 17584472,
-  "modified": "2025-09-17T18:12:11Z",
+  "lastrevid": 17404689,
+  "modified": "2025-09-15T21:43:57Z",
   "ns": 860,
-  "pageid": 204310,
+  "pageid": 20753,
   "sitelinks": {},
-  "title": "Item:Q161145",
+  "title": "Item:Q2258",
   "type": "item"
 }

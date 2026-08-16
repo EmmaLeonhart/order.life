@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q49659$D1274993-93A7-4FE1-9AF8-316553F01CFB",
+        "id": "Q1959$FF72B4A2-D2AC-40BE-B7BC-40C661BCA383",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q49610",
-              "numeric-id": 49610
+              "id": "Q1945",
+              "numeric-id": 1945
             }
           },
-          "hash": "70efa46dce2dad80c986fe6a4ebcd54425196c0b",
+          "hash": "a1b1e76bc4c0033ede3c0c9a255286e12a23e960",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q49659$8763159D-7E63-40D1-A510-DFF6EB5973FF",
+        "id": "Q1959$8A8B7F46-90A8-4C90-87E0-728BE2DC4365",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q49659$2A264154-CCC4-4B31-8669-FBA4EB73655C",
+        "id": "Q1959$96D92198-6ADF-4407-BEE9-784EF54FCC99",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q49659$66C515D1-814A-40FB-99F0-A0257AE425E8",
+        "id": "Q1959$138E9BD8-76B5-4DC2-8DBE-F37E0DE2F73E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q49731",
-              "numeric-id": 49731
+              "id": "Q1972",
+              "numeric-id": 1972
             }
           },
-          "hash": "c6a9866d151cbc3f39d35071a915a12f1c93bf8b",
+          "hash": "b0cebb5f2d9670f4ffd489ca0cae8ae60f45b1cf",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q49659$A2E45FAA-D0AB-47BF-953E-1C3B10920DCA",
+        "id": "Q1959$0B4F87E3-A454-498D-93CA-B676A3A2D9C7",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -104,9 +104,33 @@
         "type": "statement"
       }
     ],
+    "P56": [
+      {
+        "id": "Q1959$D2D0C8DB-4996-4A29-93CA-CAEE10AEC53A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0800-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d240ab2ead5742a62e159c6c19ff3d25f3c4d8d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P94": [
       {
-        "id": "Q49659$F2368526-18E5-4F1D-8494-8A149EE3DFCD",
+        "id": "Q1959$CB689A5C-A170-4766-991F-71DE1A4FEA21",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -120,21 +144,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q160521$71557733-D707-DF14-5627-9286EF0BA7A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000020948205032"
+          },
+          "hash": "9616e2b3c5ceabea40d93183a45303fcf36ada1c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q49659",
+  "id": "Q1959",
   "labels": {
     "en": {
       "language": "en",
       "value": "Kritanjaya"
     }
   },
-  "lastrevid": 17455546,
-  "modified": "2025-09-16T11:13:40Z",
+  "lastrevid": 17404410,
+  "modified": "2025-09-15T21:37:10Z",
   "ns": 860,
-  "pageid": 64911,
+  "pageid": 20251,
   "sitelinks": {},
-  "title": "Item:Q49659",
+  "title": "Item:Q1959",
   "type": "item"
 }

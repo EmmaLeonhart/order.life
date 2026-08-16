@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q160901$7840EB0D-5201-D1BB-CFEA-D7C762582BF7",
+        "id": "Q50685$D85DA0F7-3833-4ACC-A1CE-0F87B6F061BD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160882",
-              "numeric-id": 160882
+              "id": "Q2150",
+              "numeric-id": 2150
             }
           },
-          "hash": "b45e766d7cc211b294fceed19d5b19bb6f3784d1",
+          "hash": "924d55d2f994745d78b33e9c54fff6035b6f5a2b",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q160901$836EE799-308E-443D-9D87-E2CB4C7A7D6F",
+        "id": "Q50685$46274009-20A7-4768-BFE5-713746F2A75C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160901$982E3823-560C-47B2-B712-7EEDB10093CB",
+        "id": "Q50685$56DF8DBF-4ED1-4693-A81D-E380E08988AB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P42": [
       {
-        "id": "Q160901$056C09F0-A6E7-6AC5-04E6-301066DFD77C",
+        "id": "Q50685$2D349AF6-F2CD-4A0E-9E8C-87BF1E40E2C4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160900",
-              "numeric-id": 160900
+              "id": "Q2165",
+              "numeric-id": 2165
             }
           },
-          "hash": "6b192c32f1844155a9f7d4278c49b279563990be",
+          "hash": "3942b61b6cd71341fd81653e6feb7dddcc880d96",
           "property": "P42",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q160901$AF842547-C2D6-DDD8-C4BB-599ACF1A09F1",
+        "id": "Q50685$9581B052-7807-4B4A-8034-282B5BA07372",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,23 @@
           },
           "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50685$215814B3-1459-45CD-80B7-93CA9DE46CCF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "NN (Wife of Vasumitra) Arms.svg"
+          },
+          "hash": "9c4dc216f8d6819ee3f7c99a0972253585e892da",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +137,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160901$5BE5519E-F3B7-48AB-9EB8-252BBADF3BB8",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "NN (Wife of Vasumitra) Arms.svg"
-          },
-          "hash": "9c4dc216f8d6819ee3f7c99a0972253585e892da",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160901",
+  "id": "Q50685",
   "labels": {
     "en": {
       "language": "en",
       "value": "NN (Wife of Vasumitra)"
     }
   },
-  "lastrevid": 17584120,
-  "modified": "2025-09-17T18:07:29Z",
+  "lastrevid": 17456976,
+  "modified": "2025-09-16T11:34:47Z",
   "ns": 860,
-  "pageid": 204066,
+  "pageid": 65678,
   "sitelinks": {},
-  "title": "Item:Q160901",
+  "title": "Item:Q50685",
   "type": "item"
 }

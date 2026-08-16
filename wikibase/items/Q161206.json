@@ -1,20 +1,27 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "SRUTANJAYA of Magadha"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q161206$042DB5EB-2589-ADE6-59C5-BFFA13ED68AC",
+        "id": "Q2282$389FCB36-BDF7-4E24-8135-AA0C24D0E910",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161201",
-              "numeric-id": 161201
+              "id": "Q2279",
+              "numeric-id": 2279
             }
           },
-          "hash": "690ecf51de7a48e6b763602c778c7ab2c202c348",
+          "hash": "ceb265f707ab560e716ad2735d26ffc99af7e75f",
           "property": "P20",
           "snaktype": "value"
         },
@@ -43,7 +50,7 @@
     ],
     "P39": [
       {
-        "id": "Q161206$73BD5D37-03CA-482C-A39C-B338071A5C59",
+        "id": "Q2282$B9D38DB2-F4FB-4F44-A6CF-19746C59CE04",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,7 +69,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161206$D3AB0AA0-A99C-49E2-B733-2261AA50B328",
+        "id": "Q2282$60BD375C-6BCF-44CD-9182-923E371558AB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -83,6 +90,44 @@
     ],
     "P47": [
       {
+        "id": "Q2282$E9AD80B8-4A70-4B97-817C-E156BFB6A501",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2286",
+              "numeric-id": 2286
+            }
+          },
+          "hash": "cb83ef059a625bfac835d382db37451c2741ed18",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q51295$F797138A-E471-460B-84E5-5B0A0034E984",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51301",
+              "numeric-id": 51301
+            }
+          },
+          "hash": "b37226f9b747c4d02db65b7865f295abbb03c3d1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
         "id": "Q161206$B2E4177B-9F16-D8EB-D0B6-8FFD1124C9FE",
         "mainsnak": {
           "datatype": "wikibase-item",
@@ -102,9 +147,29 @@
         "type": "statement"
       }
     ],
+    "P5": [
+      {
+        "id": "Q2282$2af3f0de-4f5b-92d2-8e00-5252e754d685",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Srutanjaya /of Magadha/"
+            }
+          },
+          "hash": "715c9a421e6895566cd43a5eb37884e16fa771da",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P55": [
       {
-        "id": "Q161206$B37BE37D-98C3-6A5C-1811-0100FB22D0E2",
+        "id": "Q2282$C4479BB5-1B0C-42E1-8392-37C9724EE72A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -123,9 +188,57 @@
         "type": "statement"
       }
     ],
+    "P56": [
+      {
+        "id": "Q2282$2954020B-6F92-4BC1-9C0A-62539FECD784",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-1361-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6f22879f8d4f88ea1d3ea58866fefe711a2d5f0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2282$26020A63-D229-4BBA-8133-76FD284C515E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-1321-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d4d346a1f087b7c3375bb922c7eb17e64f6340e7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P62": [
       {
-        "id": "Q161206$4FD4DBF0-2066-68F7-953B-9A7D8D525964",
+        "id": "Q2282$25b2f7eb-4b2d-b4bb-51c5-6e7ce65d975c",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -142,14 +255,14 @@
     ],
     "P94": [
       {
-        "id": "Q161206$3C2BC0AC-61DD-4B84-A8EF-29430FA99712",
+        "id": "Q2282$5E0D825E-EB0C-4233-842A-35817368FE87",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
             "type": "string",
-            "value": "SRUTANJAYA Arms.svg"
+            "value": "SRUTANJAYA of Magadha Arms.svg"
           },
-          "hash": "a2cb04ca9f67363b4032a1c519c4d700b3be1fe9",
+          "hash": "0ac8752ea1c5ca4dbc544af2960d2ae3990696ce",
           "property": "P94",
           "snaktype": "value"
         },
@@ -159,18 +272,18 @@
     ]
   },
   "descriptions": {},
-  "id": "Q161206",
+  "id": "Q2282",
   "labels": {
     "en": {
       "language": "en",
-      "value": "SRUTANJAYA"
+      "value": "Srutanjaya of Magadha"
     }
   },
-  "lastrevid": 17584524,
-  "modified": "2025-09-17T18:12:55Z",
+  "lastrevid": 17404877,
+  "modified": "2025-09-15T21:48:15Z",
   "ns": 860,
-  "pageid": 204371,
+  "pageid": 20788,
   "sitelinks": {},
-  "title": "Item:Q161206",
+  "title": "Item:Q2282",
   "type": "item"
 }

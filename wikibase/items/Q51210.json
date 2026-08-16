@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q51210$1EE2D559-9FD3-4048-972A-7C2795EC7200",
+        "id": "Q2259$280B3703-D919-4734-92DA-4CCBA88DAD98",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51184",
-              "numeric-id": 51184
+              "id": "Q2253",
+              "numeric-id": 2253
             }
           },
-          "hash": "0d3d4fafc0125815bfc9f5b66a01b84f50ce07ca",
+          "hash": "10ea05b21cd19f41ced3aa37647cc8e2695e0596",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q51210$1EC23A3C-4C26-47AD-8345-33A3E85A34DD",
+        "id": "Q2259$C64D9DF8-3B85-453D-8DF7-83C985D38930",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q51210$99F62E5F-AC0F-48AE-87FF-1ED1D6D67C71",
+        "id": "Q2259$E3C6EF3E-5A7F-402B-B7DB-FA2142936B00",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q51210$0D76C352-3E77-40D3-A1B6-1AB1113D0D71",
+        "id": "Q2259$E78C2999-03DB-4466-BB40-01B7F80C56FF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51235",
-              "numeric-id": 51235
+              "id": "Q2264",
+              "numeric-id": 2264
             }
           },
-          "hash": "aaffca324a0bca4aa4b140059621a083965a62e5",
+          "hash": "962d08690467c3f2ef4cc5bec7d0999066b5dc65",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q51210$8A8BEF4A-4D54-4831-BD2C-51DF1024A03D",
+        "id": "Q2259$B5CB696F-1E29-4248-987A-00CBCB45824A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -106,7 +106,7 @@
     ],
     "P94": [
       {
-        "id": "Q51210$01B58A16-1794-4B3F-A400-6321DB6C9056",
+        "id": "Q2259$5355F5EF-2766-43B4-B38B-F3AC560031DA",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -120,21 +120,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q161146$D7637C90-500D-9C7A-EBAD-ED8408E9F64B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018545794710"
+          },
+          "hash": "056309eb4d4f5f592c149144e613cd1d8f0adea2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q51210",
+  "id": "Q2259",
   "labels": {
     "en": {
       "language": "en",
       "value": "Vishvajati of Magadha"
     }
   },
-  "lastrevid": 17457352,
-  "modified": "2025-09-16T11:40:23Z",
+  "lastrevid": 17404691,
+  "modified": "2025-09-15T21:43:59Z",
   "ns": 860,
-  "pageid": 66093,
+  "pageid": 20754,
   "sitelinks": {},
-  "title": "Item:Q51210",
+  "title": "Item:Q2259",
   "type": "item"
 }

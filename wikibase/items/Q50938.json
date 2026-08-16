@@ -3,18 +3,75 @@
   "claims": {
     "P20": [
       {
-        "id": "Q50938$57CDA447-CDB6-439D-9DED-247184BE2631",
+        "id": "Q2212$CBABB0D8-5A2E-44B9-B551-C4F5D22013DE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q50908",
-              "numeric-id": 50908
+              "id": "Q2206",
+              "numeric-id": 2206
             }
           },
-          "hash": "e55f1ea1aed710e577047fad851e974184796629",
+          "hash": "a9a95c8a60e86818374c317b8ff207ac8ff627ae",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q161006$E6F3B6CA-C74B-4995-214A-098450280AF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q171861",
+              "numeric-id": 171861
+            }
+          },
+          "hash": "5d3cfd3544642ed34c8ce88863ffd3408195811f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q161006$3171F0EF-D536-CCEF-DE34-B45EEA51F57D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q171862",
+              "numeric-id": 171862
+            }
+          },
+          "hash": "06087efb772d38c76e583ecbe1b9e5d2c95669c1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q161006$AB41EC3C-0E5C-044A-44C1-7CF081C4ECC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q171863",
+              "numeric-id": 171863
+            }
+          },
+          "hash": "18fe83502bd40590b79d474ea80a6dfef559a6fe",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +81,7 @@
     ],
     "P39": [
       {
-        "id": "Q50938$E43402DD-B315-4DCC-A30F-C6326E04150F",
+        "id": "Q2212$E7FB1448-E155-4185-AF5C-42B1B50176B0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +100,7 @@
         "type": "statement"
       },
       {
-        "id": "Q50938$3F66286A-69E6-4BAE-9C1B-6EB11B2EE453",
+        "id": "Q2212$4D4FFF1E-5E87-42FE-ABAB-9623C8F51C79",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -56,6 +113,65 @@
           },
           "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
           "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q2212$D98085CA-08C1-4ABB-AA0B-20209FFD28D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2217",
+              "numeric-id": 2217
+            }
+          },
+          "hash": "f7d0788e54ad43e47a5e56eb6dc268e0e6095538",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q2212$95E55BE5-6850-419D-8DBD-0251CDC808CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2212$C2AFFE86-0853-4F50-9A95-D2755BEC7CF5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Subhadrangi Arms.svg"
+          },
+          "hash": "c891e840d124aa65995c6124b77479f0245eb8c0",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -104,59 +220,17 @@
         "type": "statement"
       }
     ],
-    "P48": [
+    "P62": [
       {
-        "id": "Q50938$2ECEF41B-FE71-4098-A027-407A5A62948A",
+        "id": "Q161006$D85288D7-5F6F-97D0-5D83-1A37BE1DD45B",
         "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q50978",
-              "numeric-id": 50978
-            }
-          },
-          "hash": "a0b19a0f46728481a138f4c78238d0900566b9f6",
-          "property": "P48",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P55": [
-      {
-        "id": "Q50938$A4B8F106-C422-4250-BE05-B9C60C294E41",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153719",
-              "numeric-id": 153719
-            }
-          },
-          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q50938$30C89CF2-4A4F-4BF4-AF9A-0D056E31970A",
-        "mainsnak": {
-          "datatype": "commonsMedia",
+          "datatype": "external-id",
           "datavalue": {
             "type": "string",
-            "value": "Subhadrangi Arms.svg"
+            "value": "6000000006101386507"
           },
-          "hash": "c891e840d124aa65995c6124b77479f0245eb8c0",
-          "property": "P94",
+          "hash": "c1ce27b37580f240fe9e4f9a057e0f937a06dc53",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -165,18 +239,25 @@
     ]
   },
   "descriptions": {},
-  "id": "Q50938",
+  "id": "Q2212",
   "labels": {
     "en": {
       "language": "en",
       "value": "Subhadrangi"
     }
   },
-  "lastrevid": 17457186,
-  "modified": "2025-09-16T11:37:56Z",
+  "lastrevid": 17404630,
+  "modified": "2025-09-15T21:42:48Z",
   "ns": 860,
-  "pageid": 65876,
-  "sitelinks": {},
-  "title": "Item:Q50938",
+  "pageid": 20683,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q2212",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q2212"
+    }
+  },
+  "title": "Item:Q2212",
   "type": "item"
 }

@@ -3,18 +3,37 @@
   "claims": {
     "P20": [
       {
-        "id": "Q51154$5D39418D-B949-4EAF-8AC8-6496148EEC51",
+        "id": "Q2247$97BFC7D3-E782-4E00-9C50-D7CC79E17079",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51134",
-              "numeric-id": 51134
+              "id": "Q2243",
+              "numeric-id": 2243
             }
           },
-          "hash": "a40c25aee47e7dd12cd5235d32bb184ab36fcbda",
+          "hash": "254b5d8f60ed8c341b85559d189217b1596af818",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q161111$1B2AA7A6-4238-2E40-6AD1-0407DD53A1ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q171487",
+              "numeric-id": 171487
+            }
+          },
+          "hash": "8dc5a351303024b2f6675ea3473a706bebafbe55",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +43,7 @@
     ],
     "P39": [
       {
-        "id": "Q51154$AC15B002-B903-409A-BA11-DCC87438A300",
+        "id": "Q2247$814D899D-9C13-4556-9505-5D014205DD87",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +62,7 @@
         "type": "statement"
       },
       {
-        "id": "Q51154$9DA4BCED-9381-4243-B759-FC80C202F6F2",
+        "id": "Q2247$8A38FBC9-7AE1-41DC-A8A8-C51F4EACF964",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +83,18 @@
     ],
     "P47": [
       {
-        "id": "Q51154$BFA718FC-2F07-47EE-8308-5C84BC124C6A",
+        "id": "Q2247$32EA793C-3A07-4E41-92EF-24828E4BFC2A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51179",
-              "numeric-id": 51179
+              "id": "Q2252",
+              "numeric-id": 2252
             }
           },
-          "hash": "66c6ee1fd7980e5cef9a939eba78dee0142292e8",
+          "hash": "f08a05744d8f620cfec547f87075476e8d568e2d",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +104,7 @@
     ],
     "P55": [
       {
-        "id": "Q51154$E990B822-9709-4CA6-A01D-4167AD1D4ADD",
+        "id": "Q2247$BA533324-D563-45A5-B5B0-F3C7BE81F164",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -104,9 +123,33 @@
         "type": "statement"
       }
     ],
+    "P56": [
+      {
+        "id": "Q2247$2FF2F20F-CA8A-4DC0-A66C-58D4E7596F07",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "db34a25e810e4a38761e77dbdbfd966b2022e20e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P94": [
       {
-        "id": "Q51154$E07DA857-697F-49DA-89E0-BDE3E60490D6",
+        "id": "Q2247$69166BAF-BE43-4667-A811-96F5BF21D29B",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -120,21 +163,45 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q161111$C6F09375-A494-1CE0-2378-3F072447AEC4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018545776947"
+          },
+          "hash": "67f3b3f701a595aeb57fec595e165c8c4784e46e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q51154",
+  "id": "Q2247",
   "labels": {
     "en": {
       "language": "en",
       "value": "Prasenajit II of Kosala"
     }
   },
-  "lastrevid": 17457330,
-  "modified": "2025-09-16T11:40:03Z",
+  "lastrevid": 17404670,
+  "modified": "2025-09-15T21:43:38Z",
   "ns": 860,
-  "pageid": 66048,
-  "sitelinks": {},
-  "title": "Item:Q51154",
+  "pageid": 20734,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q2247",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q2247"
+    }
+  },
+  "title": "Item:Q2247",
   "type": "item"
 }

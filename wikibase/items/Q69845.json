@@ -10,8 +10,8 @@
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q50908",
-              "numeric-id": 50908
+              "id": "Q2206",
+              "numeric-id": 2206
             }
           },
           "hash": "e55f1ea1aed710e577047fad851e974184796629",
@@ -71,8 +71,8 @@
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q50938",
-              "numeric-id": 50938
+              "id": "Q2212",
+              "numeric-id": 2212
             }
           },
           "hash": "9c26c47c60f000fcbbfd325cdf27c46f615599eb",
@@ -177,6 +177,23 @@
           },
           "hash": "4db50468f63956a3147d86f906b1e85b0c9da604",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q161007$8C70976B-6601-A411-F38C-6BB749B3344A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006101386502"
+          },
+          "hash": "6551dfc739021f808695fca705e1448bfb182e47",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

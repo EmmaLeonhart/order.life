@@ -1,20 +1,86 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Brihadratha"
+      },
+      {
+        "language": "en",
+        "value": "Brihadratha, King of Maurya"
+      }
+    ]
+  },
   "claims": {
+    "P1185": [
+      {
+        "id": "Q2188$91B87BB1-1B94-4EB0-8C2D-71920BDA72C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "324706"
+          },
+          "hash": "f5eb2d8253a28eb9c539436a64cda72cd6395eb4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P20": [
       {
-        "id": "Q160951$996DCF37-A01D-A35F-D57D-609497560DA1",
+        "id": "Q2188$0694BAD4-9647-40F0-9750-1AFFE06B4A87",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160933",
-              "numeric-id": 160933
+              "id": "Q53514",
+              "numeric-id": 53514
             }
           },
-          "hash": "b759e53377b13510ab4be99ad4f0a5cf49386741",
+          "hash": "f9ed2a65f9e61fea0ea0a852e7cea0d8ca0171f2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q2188$46A598F3-C8C8-48D0-B89D-5B25EB200144",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2181",
+              "numeric-id": 2181
+            }
+          },
+          "hash": "f94cec28aa0972df2db5f63e657c574e0b3ac8f6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q2188$A890392A-78FE-467F-9D28-838BDFC68CC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29943",
+              "numeric-id": 29943
+            }
+          },
+          "hash": "6fd00fb3dda2c7e60e13fe4f89ccf1b59e1e988c",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +90,7 @@
     ],
     "P39": [
       {
-        "id": "Q160951$E3D00F0E-2E3E-48FB-9B59-F72A6051391D",
+        "id": "Q2188$FE6BFF39-E9CA-4A12-967A-502C0E79D810",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +109,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160951$DDD901A1-61EE-49C7-9628-3B06D1DC5F45",
+        "id": "Q2188$69CA650E-1D11-426D-8D5F-745F2FDD9584",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,41 +128,20 @@
         "type": "statement"
       }
     ],
-    "P42": [
-      {
-        "id": "Q160951$4CBC079F-3F9F-91B5-6608-227A43BADC33",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160952",
-              "numeric-id": 160952
-            }
-          },
-          "hash": "ec01d199147b2251a49ee66bd8d0faa0a65b6cc6",
-          "property": "P42",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P47": [
       {
-        "id": "Q160951$5F157E70-0BFF-EA96-5C3F-C1758CB950A7",
+        "id": "Q2188$D68D63D5-D05F-4138-A677-8D8950B03DD3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160969",
-              "numeric-id": 160969
+              "id": "Q2194",
+              "numeric-id": 2194
             }
           },
-          "hash": "985072f17380e0ea6571a979ac49afe509569ee6",
+          "hash": "b04f81ee94b70cfe096dc327d0b601c933f84d57",
           "property": "P47",
           "snaktype": "value"
         },
@@ -106,7 +151,7 @@
     ],
     "P55": [
       {
-        "id": "Q160951$AAD937D5-E71A-74E3-E932-8C25499E8F48",
+        "id": "Q2188$66ABB1EE-7A64-4AB5-9439-9BF3ED0A3FFF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -119,6 +164,105 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2188$4AA800CD-CDD3-4444-8421-72C76BFDF8D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0185-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1b47966026b80b0dd41b0c2f38f81a0eeec74ec9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q2188$486E470E-B847-4B5F-A6B2-1026D80EDE2B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Brihadratha, King of Maurya //"
+            }
+          },
+          "hash": "ca9fe92a86e4b07c8b8bc6f9432758c46660a342",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q2188$4CE272AE-4E7B-6890-2B32-B01A2D50970D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24405"
+          },
+          "hash": "82fe2c821328caaf9090da5e526df0480ebd9f1a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2188$59F43E4C-CE70-4BAD-BEDD-216D5B273DA2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Brihadratha Maurya Arms.svg"
+          },
+          "hash": "3665ddceebe03bde7ff9f4ee1997086c9625d9c8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50792$2A2685E6-5FA6-4D91-8A54-CA5B55AD5CEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50797",
+              "numeric-id": 50797
+            }
+          },
+          "hash": "927ca88382de1bea3fc8e0c1fcd42acc1bb2d5d5",
+          "property": "P42",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -141,38 +285,181 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160951$8CF4A7E1-2423-4CF3-B5E0-90E0FE5C5BC4",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Brihadratha, King of Maurya Arms.svg"
-          },
-          "hash": "7cb7511d44eed24fb1acd353dd63bddf2495bbbe",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q160951",
-  "labels": {
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herrescher des Maurya-Reichs"
+    },
     "en": {
       "language": "en",
-      "value": "Brihadratha, King of Maurya"
+      "value": "ruler of the Mauryan dynasty"
+    },
+    "es": {
+      "language": "es",
+      "value": "Noveno Emperador del Imperio Maurya"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur Maurya"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "છેલ્લો મૌર્ય રાજા"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "दसरथ मौर्य की आखिरी पीढ़ी"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "९वा मौर्य सम्राट"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Mauriaanse Rijk (-180v Chr)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "rei de Mágada"
     }
   },
-  "lastrevid": 17584220,
-  "modified": "2025-09-17T18:08:48Z",
+  "id": "Q2188",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "বৃহদ্রথ মৌর্য"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Brhadratha"
+    },
+    "de": {
+      "language": "de",
+      "value": "Brihadratha Maurya"
+    },
+    "en": {
+      "language": "en",
+      "value": "Brihadratha Maurya"
+    },
+    "es": {
+      "language": "es",
+      "value": "Brijadratha"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Brihadratha Maurya"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "બૃહદ્રથ મૌર્ય"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "बृहद्रथ मौर्य"
+    },
+    "id": {
+      "language": "id",
+      "value": "Brihadratha Maurya"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ブリハドラタ・マウリヤ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბრიჰადრათჰა"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "브리하드라타 마우리아"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ബൃഹദ്രഥൻ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "बृहद्रथ मौर्य"
+    },
+    "new": {
+      "language": "new",
+      "value": "बृहद्रथ मौर्य"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Brihadratha Maurya"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਬਰਿਹਦਰਥ ਮੌਰੀਆ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Brhadrata de Magadha"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Brhadrata de Magadha"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Брихадратха"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Brihadratha Maurya"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Brihadratha Maurya"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Brihadratha"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பிரகத்திர மௌரியன்"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าพฤหทรถะเมารยะ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Бріхадратха Маур'я"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ბრიჰადრათჰა"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "巨車王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "巨车王"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "巨車王"
+    }
+  },
+  "lastrevid": 17404618,
+  "modified": "2025-09-15T21:42:11Z",
   "ns": 860,
-  "pageid": 204116,
-  "sitelinks": {},
-  "title": "Item:Q160951",
+  "pageid": 20642,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q2188",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q2188"
+    }
+  },
+  "title": "Item:Q2188",
   "type": "item"
 }

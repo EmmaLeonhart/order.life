@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q160997$FDCC6FDA-5288-E627-7003-4A458E96677B",
+        "id": "Q50913$8557B137-F0E5-4D31-923D-629E881EFA7A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160986",
-              "numeric-id": 160986
+              "id": "Q50883",
+              "numeric-id": 50883
             }
           },
-          "hash": "01d1570014723bd45774ad7cbae3b636f13c7f17",
+          "hash": "ee97bcef0532dabe3b1a2b74a61c4fd7ad865aca",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q160997$77FE66FD-95B3-42C2-8AF9-9257809F6770",
+        "id": "Q50913$F06D6405-3DB2-4232-A58F-A43D1FC5ACDD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160997$FA56BB42-49AF-4487-B637-922CD0F3DBD6",
+        "id": "Q50913$7CC9C7E7-9D64-46E1-B8F7-20EF873970EE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q160997$E097655D-FE8A-5262-81FA-14C7F25CF2F9",
+        "id": "Q50913$F8658851-8D75-4262-8FF1-8A621C7FCC0C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161008",
-              "numeric-id": 161008
+              "id": "Q50948",
+              "numeric-id": 50948
             }
           },
-          "hash": "31e851e84f35b52182907b9bd279a5146e44229e",
+          "hash": "891a925f74c69816b435d45ace6db6a640b14b08",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q160997$B378D76E-2FEF-CD46-8261-639BB72FC01B",
+        "id": "Q50913$25673FA5-A02F-4903-90CA-0C86EB74E1EA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,23 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50913$896AE4C1-EDA4-4BAD-BCB0-5C4E167FBC4C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Abhisara II of Taxila Arms.svg"
+          },
+          "hash": "9bd6a1d4cd8ceca3ed68b1622a9069b3daa5e7a4",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +137,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160997$D3F929C2-63CC-4D28-AFD2-234533E33F2F",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Abhisara II of Taxila Arms.svg"
-          },
-          "hash": "9bd6a1d4cd8ceca3ed68b1622a9069b3daa5e7a4",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160997",
+  "id": "Q50913",
   "labels": {
     "en": {
       "language": "en",
       "value": "Abhisara II of Taxila"
     }
   },
-  "lastrevid": 17584312,
-  "modified": "2025-09-17T18:10:01Z",
+  "lastrevid": 17457166,
+  "modified": "2025-09-16T11:37:39Z",
   "ns": 860,
-  "pageid": 204162,
+  "pageid": 65856,
   "sitelinks": {},
-  "title": "Item:Q160997",
+  "title": "Item:Q50913",
   "type": "item"
 }

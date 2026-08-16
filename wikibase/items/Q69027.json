@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q49819$5E28E2C2-C1B5-4017-99F5-C66F1A86DA19",
+        "id": "Q1994$B3135CDD-65E3-471D-9633-3E71440B07AF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q49771",
-              "numeric-id": 49771
+              "id": "Q1983",
+              "numeric-id": 1983
             }
           },
-          "hash": "1424af736f2dc08d0a2203d85636c2118af325ea",
+          "hash": "dcfd007a61b97aeb464124c8d6ecf8d879836c33",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q49819$241031FC-4656-44D0-A094-8D7C0D8840E9",
+        "id": "Q1994$A5B3CF3F-68D0-4788-B07C-0147CC54ED26",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q49819$37DDF614-626E-42FB-98C1-6F94A767259E",
+        "id": "Q1994$CD18DC75-7909-4D20-AA05-5DACF476B09E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,19 +64,36 @@
     ],
     "P47": [
       {
-        "id": "Q49819$363DC8EA-1138-43B1-8219-9DE90DB41321",
+        "id": "Q1994$A85B2471-7123-4B71-AD02-41C0B341DB70",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q49859",
-              "numeric-id": 49859
+              "id": "Q2004",
+              "numeric-id": 2004
             }
           },
-          "hash": "071d007efb498440bd4a09a9809335ae1bf2043f",
+          "hash": "751b143363e79ddad8fc378c5ee2ea559d80f4bd",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q1994$2E7A592D-552D-45A1-A3FC-BBEDB5BA5C3C",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "I"
+          },
+          "hash": "5a31c32a7858ab960a7ec9fb5b891ccc2ce7c604",
+          "property": "P54",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -85,7 +102,7 @@
     ],
     "P55": [
       {
-        "id": "Q49819$C12EFADF-00B7-4DB4-B5CC-B8CEACEDFE7D",
+        "id": "Q1994$A6F67CDD-E008-4387-8777-72713E79A883",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -104,17 +121,58 @@
         "type": "statement"
       }
     ],
+    "P56": [
+      {
+        "id": "Q1994$2AF82A44-7643-4534-A234-9619D8A9896D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P94": [
       {
-        "id": "Q49819$4BBFC0EE-D4E2-45EF-B222-19693C0AD7AE",
+        "id": "Q1994$0A4F7318-4C99-4D6F-AF6B-75D55F97D017",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
             "type": "string",
-            "value": "Sumitra Amitrajit Arms.svg"
+            "value": "Sumitra Amitrajit I Arms.svg"
           },
-          "hash": "fba7ab8b5ba770ce4879df7d856e04916b358c5a",
+          "hash": "5748b185f54165673ea7199a8eb8652792048658",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q160583$4DC6C0B6-1E29-727D-D30A-3C64475E9F5C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018545694453"
+          },
+          "hash": "5eb270b9906dc146f67575bb810775a81502b3d8",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -123,18 +181,18 @@
     ]
   },
   "descriptions": {},
-  "id": "Q49819",
+  "id": "Q1994",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Sumitra Amitrajit"
+      "value": "Sumitra Amitrajit I"
     }
   },
-  "lastrevid": 17455778,
-  "modified": "2025-09-16T11:17:00Z",
+  "lastrevid": 17404437,
+  "modified": "2025-09-15T21:37:46Z",
   "ns": 860,
-  "pageid": 65031,
+  "pageid": 20315,
   "sitelinks": {},
-  "title": "Item:Q49819",
+  "title": "Item:Q1994",
   "type": "item"
 }

@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161131$52AB12A1-3F64-F445-C9D6-B62DCA2DBF92",
+        "id": "Q51194$EF66B2B0-1393-4F67-8571-C27EB4F4FC24",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161114",
-              "numeric-id": 161114
+              "id": "Q51169",
+              "numeric-id": 51169
             }
           },
-          "hash": "1951ad21a80ae2a52053df60169e6d2d8c968d66",
+          "hash": "ec2edf2eafca074d2c88fda193325d8faaa3703a",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161131$80B4E375-5A3A-4EAC-9DF8-B0E8A20B4581",
+        "id": "Q51194$C3334395-0D97-496A-A314-98C18EC8E834",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161131$456D83AE-F7CD-421D-AAFA-44A0AEFDD193",
+        "id": "Q51194$7FCAF96B-7359-467B-A054-A44BB8D31DAD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q161131$FBCC2C57-7D2A-E9A7-A3ED-FAFDE15FE799",
+        "id": "Q51194$4B2B5F61-B3C7-4BF5-90CB-3F07646F4DAB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161148",
-              "numeric-id": 161148
+              "id": "Q51220",
+              "numeric-id": 51220
             }
           },
-          "hash": "e5770c9f54a756d030f19c6a3f73f9477b73f9d8",
+          "hash": "e038cbcd88d0faf53b726f16e76c89be7f71f804",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q161131$D78F6129-3110-E46D-1754-8F3D66927D54",
+        "id": "Q51194$211D16DB-516E-4F7F-AEDD-FBCFB00D81CF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,23 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q51194$77085A34-2D32-4CFC-AE76-6AA3639CF199",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mahapadma Nanda Arms.svg"
+          },
+          "hash": "b0174f2ab9caecb52f1eb6ca632e7b6e85dce27a",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +137,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161131$EF4B3998-79D6-458F-AF7D-AC54E732F254",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Mahapadma Nanda Arms.svg"
-          },
-          "hash": "b0174f2ab9caecb52f1eb6ca632e7b6e85dce27a",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161131",
+  "id": "Q51194",
   "labels": {
     "en": {
       "language": "en",
       "value": "Mahapadma Nanda"
     }
   },
-  "lastrevid": 17584466,
-  "modified": "2025-09-17T18:12:07Z",
+  "lastrevid": 17457346,
+  "modified": "2025-09-16T11:40:17Z",
   "ns": 860,
-  "pageid": 204296,
+  "pageid": 66080,
   "sitelinks": {},
-  "title": "Item:Q161131",
+  "title": "Item:Q51194",
   "type": "item"
 }

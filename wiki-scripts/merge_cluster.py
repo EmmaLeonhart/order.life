@@ -466,47 +466,184 @@ CLUSTERS = {
     # both other copies carry Pushyamitra Shunga, the dynasty's founder. Pushyamitra has no
     # Q2xxx copy at all, so his own pair merges into Q50754 by the lower-qid convention and
     # the surviving chain lengthens by a generation.
-    # *** DO NOT RUN THIS CLUSTER YET. IT IS INCOMPLETE AND WILL FAIL I4. ***
+    # queue.md item 0d. THE MAGADHA PARALLEL IMPORT -- 89 groups, 223 records, 134 merged
+    # away. Derived by wiki-scripts/match_parallel_imports.py and reviewed against
+    # wikibase/analysis/qa_parallel_matches.tsv; the mapping is NOT hand-written, and that
+    # is deliberate -- see below.
     #
-    # The dry run on 2026-08-16 reported, correctly:
-    #     Q2175 <- Q50725: 1 parent(s) -> 3  (Q2181, Q50754, Q50758)
-    # because Agnimitra's MOTHER is triplicated too -- Q2181/Q50758/Q160933 "Marhindi
-    # Maurya" -- and merging the kings without their parents leaves the survivor with two
-    # copies of one mother. Same shape as the porcia cluster, where merging Porcia forced
-    # the Atilia and Atilius records above her.
+    # WHY NOT BY LABEL. Label matching was tried first and measured against sixteen kings
+    # whose correspondence was already established by hand. It split four of them --
+    # Dasaratha/Dasharatha, Pusyamitra/Pushyamitra, Brihadratha/"Brihadratha Maurya",
+    # Ashoka/"Ashoka II, King of Maurya III". A 25% false-singleton rate on the cases we can
+    # check is disqualifying for the method that decides who is the same person.
     #
-    # Marhindi is the JOINT between the two dynasties: Brihadratha Maurya's daughter,
-    # married to Pushyamitra Shunga, mother of Agnimitra. So shunga and maurya are NOT
-    # separable clusters -- merging either pulls in the other through her.
+    # HOW THIS WAS DERIVED. Seed with the sixteen hand-verified king triples, then
+    # propagate: if X ~ Y then father(X) ~ father(Y) and mother(X) ~ mother(Y). Only
+    # unambiguous steps; five were refused because a record carried two fathers (Q2286
+    # SENAJIT, Q153455 Sunakshtra Marudeva) and picking one would have been a guess.
+    # Converged in 23 rounds. Labels are kept as a CHECK: 75 of 89 groups agree, and the 14
+    # that do not are flagged inline below with [LABELS DIFFER: ...] so they get read.
     #
-    # The parent-closure over the 16 kings is roughly 65 groups and ~90 records, reaching
-    # back through the Nandas, Shishunagas and Haryankas to Bimbisara and Shuddhodana. It
-    # is not the 28 merges queue.md item 0d estimated.
+    # IT FOUND THE I4 BLOCKER ITSELF. The first attempt at this cluster covered only the
+    # kings and tripped >2-parent on Agnimitra, because his mother Marhindi Maurya
+    # (Q2181/Q50758/Q160933) is triplicated too. The propagation picks her up by following
+    # the mother edge, with no special-casing.
     #
-    # The pairs below are hand-verified by walking the three father-chains in parallel and
-    # are correct as far as they go. They are kept because that verification was real work.
-    # Adding the closure needs a STRUCTURAL matcher, not a label matcher -- see the note in
-    # maurya_shunga_triples.md on why label matching splits Dasaratha/Dasharatha,
-    # Pusyamitra/Pushyamitra and Brihadratha/Brihadratha Maurya into false singletons.
-    "shunga-triple": [
-        ("Q2175", "Q50725", "Agnimitra, Shunga II"),
-        ("Q2175", "Q160916", "Agnimitra, Shunga II -- third copy"),
-        ("Q2165", "Q50681", "Vasumitra, Shunga IV"),
-        ("Q2165", "Q160900", "Vasumitra, Shunga IV -- third copy"),
-        ("Q2150", "Q50645", "Bhadraka, Shunga V"),
-        ("Q2150", "Q160882", "Bhadraka, Shunga V -- third copy"),
-        ("Q2134", "Q50597", "Pulindaka, Shunga VI"),
-        ("Q2134", "Q160858", "Pulindaka, Shunga VI -- third copy"),
-        ("Q2117", "Q50524", "Ghosha, Shunga VII"),
-        ("Q2117", "Q160830", "Ghosha, Shunga VII -- third copy"),
-        ("Q2101", "Q50464", "Vajramitra, Shunga VIII"),
-        ("Q2101", "Q160803", "Vajramitra, Shunga VIII -- third copy"),
-        ("Q2086", "Q50412", "Bhagabhadra, Shunga IX -- survivor carries wd Q854679"),
-        ("Q2086", "Q160777", "Bhagabhadra, Shunga IX -- third copy"),
-        ("Q2074", "Q50360", "Devabhuti, Shunga X -- survivor carries wd Q3878846"),
-        ("Q2074", "Q160757", "Devabhuti, Shunga X -- third copy"),
-        ("Q50754", "Q160932", "Pushyamitra Shunga, the founder -- NO Q2xxx copy exists, "
-                              "so the lower of the two remaining qids survives"),
+    # WHERE IT STOPS, AND WHY THAT MATTERS. Two groups came out with a single member --
+    # Q78953 Orontes I and Q78956 Rhodogune -- which happens only when all three copies
+    # point at the SAME parent record. That is where the parallel Indian chains converge on
+    # a shared Iranian record and stop being parallel. Single-member groups produce no
+    # merge pairs, so the cross-tradition join CLAUDE.md protects is left untouched by
+    # construction rather than by remembering to avoid it.
+    #
+    # Survivor is the lowest qid in each group, per the standing convention. Checked before
+    # writing: no qid appears as both a survivor and a loser.
+    # THREE PAIRS DELIBERATELY DROPPED, and the reason is a pre-existing defect rather
+    # than anything about the dedupe. merge_cluster.py's I4 pre-check reported:
+    #
+    #     Q2286   <- Q51301/Q161211: 2 parent(s) -> 3  (Q2289, Q51306/Q161215, Q52176)
+    #     Q153455 <- Q160680:        2 parent(s) -> 3  (Q2051, Q50192, Q160711)
+    #
+    # Q2286 SENAJIT of Magadha and Q153455 Sunakshtra Marudeva ALREADY carry two fathers
+    # each, so merging a third copy in pushes them over the threshold. These are the same
+    # two records match_parallel_imports.py refused to propagate through, for the same
+    # reason -- the ambiguity is real and is in the data, not in the matching.
+    #
+    # Dropping the pairs keeps the merge clean and leaves the defect visible where it is,
+    # rather than burying two two-father records inside a 131-record dedupe. Filed as its
+    # own item; resolve the parentage first, then merge these three separately.
+    "magadha-triple": [
+        ("Q1928", "Q49553", "Jayasena"),
+        ("Q1928", "Q160468", "Jayasena"),
+        ("Q1945", "Q49610", "Rananjaya"),
+        ("Q1945", "Q160496", "Rananjaya"),
+        ("Q1959", "Q49659", "Kritanjaya"),
+        ("Q1959", "Q160521", "Kritanjaya"),
+        ("Q1972", "Q49731", "Dharmi"),
+        ("Q1972", "Q160547", "Dharmi"),
+        ("Q1983", "Q49771", "Brihadhvaj [LABELS DIFFER: Brihadhvaj]"),
+        ("Q1983", "Q160564", "Brihadhvaj [LABELS DIFFER: BRIHADVAJ]"),
+        ("Q1994", "Q49819", "Sumitra Amitrajit I [LABELS DIFFER: Sumitra Amitrajit]"),
+        ("Q1994", "Q160583", "Sumitra Amitrajit I [LABELS DIFFER: SUMITRA AMITRAJIT]"),
+        ("Q2004", "Q49859", "Suparna"),
+        ("Q2004", "Q160601", "Suparna"),
+        ("Q2015", "Q160620", "Kinnarasva"),
+        ("Q2027", "Q160646", "Pushkar"),
+        ("Q2074", "Q50360", "Devabhuti"),
+        ("Q2074", "Q160757", "Devabhuti"),
+        ("Q2086", "Q50412", "Bhagabhadra"),
+        ("Q2086", "Q160777", "Bhagabhadra"),
+        ("Q2101", "Q50464", "Vajramitra"),
+        ("Q2101", "Q160803", "Vajramitra"),
+        ("Q2117", "Q50524", "Ghosha"),
+        ("Q2117", "Q160830", "Ghosha"),
+        ("Q2134", "Q50597", "Pulindaka"),
+        ("Q2134", "Q160858", "Pulindaka"),
+        ("Q2150", "Q50645", "Bhadraka"),
+        ("Q2150", "Q160882", "Bhadraka"),
+        ("Q2165", "Q50681", "Vasumitra"),
+        ("Q2165", "Q160900", "Vasumitra"),
+        ("Q2175", "Q50725", "Agnimitra"),
+        ("Q2175", "Q160916", "Agnimitra"),
+        ("Q2181", "Q50758", "Marhindi Maurya"),
+        ("Q2181", "Q160933", "Marhindi Maurya"),
+        ("Q2188", "Q50792", "Brihadratha Maurya [LABELS DIFFER: Brihadratha]"),
+        ("Q2188", "Q160951", "Brihadratha Maurya [LABELS DIFFER: Brihadratha, King of Maurya]"),
+        ("Q2194", "Q50832", "Dasaratha Maurya [LABELS DIFFER: Dasharatha Maurya]"),
+        ("Q2194", "Q160969", "Dasaratha Maurya [LABELS DIFFER: King of Maurya IV - Dasharatha (232-2"),
+        ("Q2200", "Q50873", "Kunala King of Kashmir & Gandhara [LABELS DIFFER: Kunala]"),
+        ("Q2200", "Q160984", "Kunala King of Kashmir & Gandhara [LABELS DIFFER: Kunala]"),
+        ("Q2206", "Q50908", "Ashoka [LABELS DIFFER: Ashoka]"),
+        ("Q2206", "Q160996", "Ashoka [LABELS DIFFER: Ashoka II, King of Maurya III]"),
+        ("Q2212", "Q50938", "Subhadrangi"),
+        ("Q2212", "Q161006", "Subhadrangi"),
+        ("Q2217", "Q50978", "Nandini"),
+        ("Q2217", "Q161018", "Nandini"),
+        ("Q2222", "Q51023", "Dhananada [Xandrames], King of Magadha"),
+        ("Q2222", "Q161032", "Dhananada [Xandrames], King of Magadha"),
+        ("Q2226", "Q51053", "Ksemadharma, King of Magadha"),
+        ("Q2226", "Q161044", "Ksemadharma, King of Magadha"),
+        ("Q2229", "Q51073", "Kakavarna Kalashoka [LABELS DIFFER: Kalasoka Kakavara, King of Magadha"),
+        ("Q2229", "Q161053", "Kakavarna Kalashoka [LABELS DIFFER: Kalasoka Kakavara, King of Magadha"),
+        ("Q2233", "Q51089", "Shishunaga"),
+        ("Q2233", "Q161062", "Shishunaga"),
+        ("Q2236", "Q51104", "Nagadashoka, King of Magadha"),
+        ("Q2236", "Q161071", "Nagadashoka, King of Magadha"),
+        ("Q2240", "Q51119", "Nandivardha Anuruddha, King of Magadha"),
+        ("Q2240", "Q161084", "Nandivardha Anuruddha, King of Magadha"),
+        ("Q2243", "Q51134", "Vajira"),
+        ("Q2243", "Q161097", "Vajira"),
+        ("Q2244", "Q51139", "Ajatasatru Kunika, King of Magadha"),
+        ("Q2244", "Q161098", "Ajatasatru Kunika, King of Magadha"),
+        ("Q2247", "Q51154", "Prasenajit II of Kosala"),
+        ("Q2247", "Q161111", "Prasenajit II of Kosala"),
+        ("Q2249", "Q51164", "BIMBISARA of Magadha [LABELS DIFFER: BIMBISARA of Magadha]"),
+        ("Q2249", "Q161113", "BIMBISARA of Magadha [LABELS DIFFER: BIMBISARA]"),
+        ("Q2252", "Q51179", "Langal"),
+        ("Q2252", "Q161128", "Langal"),
+        ("Q2253", "Q51184", "Bimbi [LABELS DIFFER: Bimbi]"),
+        ("Q2253", "Q161129", "Bimbi [LABELS DIFFER: Princess Bimbi of Magadha]"),
+        ("Q2254", "Q51189", "Bhattiya, King of Magadha (the usurper)"),
+        ("Q2254", "Q161130", "Bhattiya, King of Magadha (the usurper)"),
+        ("Q2258", "Q51205", "Shudhyod"),
+        ("Q2258", "Q161145", "Shudhyod"),
+        ("Q2259", "Q51210", "Vishvajati of Magadha [LABELS DIFFER: Vishvajati of Magadha]"),
+        ("Q2259", "Q161146", "Vishvajati of Magadha [LABELS DIFFER: VISHVAJATI]"),
+        ("Q2260", "Q51215", "Haryanka"),
+        ("Q2260", "Q161147", "Haryanka"),
+        ("Q2263", "Q51230", "Shakay"),
+        ("Q2263", "Q161159", "Shakay"),
+        ("Q2264", "Q51235", "Satyajiti, King of Magadha"),
+        ("Q2264", "Q161160", "Satyajiti, King of Magadha"),
+        ("Q2268", "Q51245", "Sanjay"),
+        ("Q2268", "Q161172", "Sanjay"),
+        ("Q2269", "Q51250", "Drdhasena, King of Magadha [LABELS DIFFER: Drdhasena, King of Magadha]"),
+        ("Q2269", "Q161173", "Drdhasena, King of Magadha [LABELS DIFFER: DRIDHASENA]"),
+        ("Q2272", "Q51265", "Trinetra, King of Magadha"),
+        ("Q2272", "Q161185", "Trinetra, King of Magadha"),
+        ("Q2276", "Q51275", "Sunetra, King of Magadha"),
+        ("Q2276", "Q161196", "Sunetra, King of Magadha"),
+        ("Q2279", "Q51285", "Jayatsena, King of Magadha"),
+        ("Q2279", "Q161201", "Jayatsena, King of Magadha"),
+        ("Q2282", "Q51295", "Srutanjaya of Magadha [LABELS DIFFER: SRUTANJAYA of Magadha]"),
+        ("Q2282", "Q161206", "Srutanjaya of Magadha [LABELS DIFFER: SRUTANJAYA]"),
+        ("Q49557", "Q160469", "N.N."),
+        ("Q50416", "Q160778", "NN (Wife of Bhagabhadra)"),
+        ("Q50468", "Q160804", "NN (Wife of Vajramitra)"),
+        ("Q50528", "Q160831", "NN (Wife of Ghosha)"),
+        ("Q50601", "Q160859", "NN (Wife of Pulindaka)"),
+        ("Q50649", "Q160883", "NN (Wife of Bhadraka)"),
+        ("Q50685", "Q160901", "NN (Wife of Vasumitra)"),
+        ("Q50721", "Q160915", "Dharini"),
+        ("Q50754", "Q160932", "Pusyamitra Shunga"),
+        ("Q50797", "Q160952", "Berenike"),
+        ("Q50837", "Q160970", "Abhisara IV of Avanti"),
+        ("Q50842", "Q160971", "Princess of Syria"),
+        ("Q50878", "Q160985", "NN (Wife of Kunala of Taxila)"),
+        ("Q50883", "Q160986", "Abhisara III of Pancanada"),
+        ("Q50903", "Q160995", "Padmavati Sindhu"),
+        ("Q50913", "Q160997", "Abhisara II of Taxila"),
+        ("Q50943", "Q161007", "Bindusara  Maurya, van [LABELS DIFFER: King of Maurya II - Bindusara ("),
+        ("Q50948", "Q161008", "Abhisara I of Taxila"),
+        ("Q50973", "Q161017", "Chandragupta"),
+        ("Q50983", "Q161019", "Durdhara"),
+        ("Q51013", "Q161030", "Mura"),
+        ("Q51018", "Q161031", "Sarvarthasiddhi"),
+        ("Q51028", "Q161033", "Dhana  Nanda"),
+        ("Q51033", "Q161034", "Amitanita"),
+        ("Q51048", "Q161043", "Vrishala"),
+        ("Q51058", "Q161045", "Kaivarta"),
+        ("Q51078", "Q161054", "Dashasiddhaka"),
+        ("Q51094", "Q161063", "Govishanaka"),
+        ("Q51109", "Q161072", "Rashtrapala"),
+        ("Q51124", "Q161085", "Bhutapala"),
+        ("Q51144", "Q161099", "Pandugati"),
+        ("Q51159", "Q161112", "Chellana"),
+        ("Q51169", "Q161114", "Panduka"),
+        ("Q51194", "Q161131", "Mahapadma Nanda"),
+        ("Q51220", "Q161148", "Mahanandin"),
+        ("Q51240", "Q161161", "Kakavarna Kalashoka"),
+        ("Q51255", "Q161174", "Shishunaga"),
     ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "

@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q51275$47473D49-A8F8-4235-B34B-C4E99B651B97",
+        "id": "Q2276$428A54B5-F892-4788-91A9-95630362EB9B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51265",
-              "numeric-id": 51265
+              "id": "Q2272",
+              "numeric-id": 2272
             }
           },
-          "hash": "cf0b7983aeb44bf5dba0be51231df69225b5391a",
+          "hash": "b3b3f67a952244dc72d85ffa0332622b825f14ae",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q51275$A519F71C-BA2F-4664-9614-7F5B93DEAACE",
+        "id": "Q2276$A7793851-A3F9-4D88-953D-EBCA301A7F4E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q51275$583EBE11-7763-43B5-ABF0-8E133B26A13C",
+        "id": "Q2276$4F1A6D9A-2588-4F04-A9D5-AFC1B7CB3602",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q51275$D23E14C8-4C21-4C50-A422-7AEC7DB56C7E",
+        "id": "Q2276$87F487DA-859E-4251-8345-D2DEC1DF26A8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51285",
-              "numeric-id": 51285
+              "id": "Q2279",
+              "numeric-id": 2279
             }
           },
-          "hash": "1c37b04ddc460566e61a3b94882f8c27e5db41bc",
+          "hash": "f5755d4dd4d39641e9ed23d19578c0f97c811e9d",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q51275$8FAA591B-D1A5-465C-9486-07B39C9527C6",
+        "id": "Q2276$95E534A3-9F3E-459C-843C-EE40739E37DE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -106,7 +106,7 @@
     ],
     "P94": [
       {
-        "id": "Q51275$D6349D2E-68EB-450F-A202-95E4F441D858",
+        "id": "Q2276$08034215-4976-4BFA-9E6E-B550B3BB1890",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -120,21 +120,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q161196$BAB24CB2-1EEF-67ED-6209-DA99259FE8EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018557889825"
+          },
+          "hash": "290929465df1041c3649686ab377631278531359",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q51275",
+  "id": "Q2276",
   "labels": {
     "en": {
       "language": "en",
       "value": "Sunetra, King of Magadha"
     }
   },
-  "lastrevid": 17457378,
-  "modified": "2025-09-16T11:40:45Z",
+  "lastrevid": 17404718,
+  "modified": "2025-09-15T21:44:27Z",
   "ns": 860,
-  "pageid": 66145,
+  "pageid": 20779,
   "sitelinks": {},
-  "title": "Item:Q51275",
+  "title": "Item:Q2276",
   "type": "item"
 }

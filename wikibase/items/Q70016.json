@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q51230$5E56CA0D-20AC-46A0-9859-0AE149308C18",
+        "id": "Q2263$FB7917E4-27A1-4012-8037-6E3FCAD7D4D2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51205",
-              "numeric-id": 51205
+              "id": "Q2258",
+              "numeric-id": 2258
             }
           },
-          "hash": "0f030bbe58afe55fbc923a45f72264715d1f2526",
+          "hash": "da35c2463882d8d2a40ee9dc59122920fad5e482",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q51230$C034DA2A-F2CA-4264-8BCD-8623B997CAD8",
+        "id": "Q2263$1D03F534-0176-42DF-AA01-DDC9CA4848D2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q51230$B5FA2ED2-6B57-44D4-BBBF-1B6E1C6A0513",
+        "id": "Q2263$5B548B33-C3FE-4421-BB29-935C7CE186BA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q51230$01F9448B-CDCA-49E8-9C1E-84B5268AF4B8",
+        "id": "Q2263$2304B3AC-2E77-4D6A-B6DF-3A69239745C4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51245",
-              "numeric-id": 51245
+              "id": "Q2268",
+              "numeric-id": 2268
             }
           },
-          "hash": "d7d63115c3d57a7b9c3901f85b43152680415b6b",
+          "hash": "7c7b831bdd4590ad9b7f1ba74e1b8a685c486b1a",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q51230$6CB1F140-AB94-40D8-A309-FC8BAB28311A",
+        "id": "Q2263$9849EB2D-065B-4A89-A984-932E3C81F444",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -104,9 +104,33 @@
         "type": "statement"
       }
     ],
+    "P56": [
+      {
+        "id": "Q2263$4C41F0D7-7A65-4484-9316-71D55CF1C7FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22d35df1cfa932cd58f3acb2312bc355e0beeb04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P94": [
       {
-        "id": "Q51230$B2BADD85-BBBF-4439-8288-FCDB12A0EDF6",
+        "id": "Q2263$9B25C14A-1922-4AA3-8727-135B6B51FD27",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -120,21 +144,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q161159$9319250E-64EC-AE71-0844-CF812AED1683",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009716119436"
+          },
+          "hash": "001b39d8ba1d57d2d84282797020c42b0f268d1f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q51230",
+  "id": "Q2263",
   "labels": {
     "en": {
       "language": "en",
       "value": "Shakay"
     }
   },
-  "lastrevid": 17457360,
-  "modified": "2025-09-16T11:40:29Z",
+  "lastrevid": 17404700,
+  "modified": "2025-09-15T21:44:06Z",
   "ns": 860,
-  "pageid": 66109,
+  "pageid": 20759,
   "sitelinks": {},
-  "title": "Item:Q51230",
+  "title": "Item:Q2263",
   "type": "item"
 }

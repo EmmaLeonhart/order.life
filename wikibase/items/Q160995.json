@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q160995$3AAF6A43-B43F-12AF-82AC-35264F41D0C6",
+        "id": "Q50903$431C8A33-E7FF-45B1-B7EB-7B04FCECFD24",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160984",
-              "numeric-id": 160984
+              "id": "Q2200",
+              "numeric-id": 2200
             }
           },
-          "hash": "f995431426cece952501026e4a2158f0e84f0423",
+          "hash": "78c2de1b157ad4b8e37c4d04d056b346b38fc54a",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q160995$6F4C982C-4E7B-4698-A120-04FA26D3B1DB",
+        "id": "Q50903$400C1133-5A78-4A8C-A4E0-5C5759E3B2A8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160995$E5DDB510-1970-471C-A594-35D73F2F3C5D",
+        "id": "Q50903$EC873990-763E-4B02-B88A-B25FB5BF29A5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P42": [
       {
-        "id": "Q160995$3C149F7E-4414-D9A7-CCE3-0A0DAD530978",
+        "id": "Q50903$A134E8E2-83C5-4002-840D-114F94D2A9BC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160996",
-              "numeric-id": 160996
+              "id": "Q2206",
+              "numeric-id": 2206
             }
           },
-          "hash": "3c3ff4b02e53de3a2036119904b0c14ad7c98f2c",
+          "hash": "f180796c8f58989bfa770f7e4027faf2f6ec3e5d",
           "property": "P42",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q160995$F40A2C00-F058-86AC-4911-FFFF84CDF527",
+        "id": "Q50903$AE25CA2E-A4DA-4641-98A9-3FE98F1282EE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,23 @@
           },
           "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50903$9A4A4FFB-EFD6-4AF4-9228-D4DA08B800DB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Padmavati Sindhu Arms.svg"
+          },
+          "hash": "5e9f48853ae051539faa6e6d63e35ce1867a6649",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +137,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160995$7474F96C-0505-457B-A29B-5B84A8692575",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Padmavati Sindhu Arms.svg"
-          },
-          "hash": "5e9f48853ae051539faa6e6d63e35ce1867a6649",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160995",
+  "id": "Q50903",
   "labels": {
     "en": {
       "language": "en",
       "value": "Padmavati Sindhu"
     }
   },
-  "lastrevid": 17584308,
-  "modified": "2025-09-17T18:09:58Z",
+  "lastrevid": 17457158,
+  "modified": "2025-09-16T11:37:32Z",
   "ns": 860,
-  "pageid": 204160,
+  "pageid": 65848,
   "sitelinks": {},
-  "title": "Item:Q160995",
+  "title": "Item:Q50903",
   "type": "item"
 }

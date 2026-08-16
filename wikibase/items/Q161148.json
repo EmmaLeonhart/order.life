@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161148$6193B1B5-8F2F-4DF0-1369-B2B838523BA5",
+        "id": "Q51220$8B3EF704-8F9C-4041-A5A5-1E59873F97B1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161131",
-              "numeric-id": 161131
+              "id": "Q51194",
+              "numeric-id": 51194
             }
           },
-          "hash": "698731e9462ff6dd011fa9ce2e9436d20a7e7b4b",
+          "hash": "ba025916dc6fb490927af08270e536104354d2b4",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161148$2367C85A-92D7-4FEC-B1E3-AC087B9D6187",
+        "id": "Q51220$70DCCE4E-E541-4BB9-90BF-A5683C7A443D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161148$F7583F9F-2532-435B-8E7A-752707836842",
+        "id": "Q51220$D95FE575-CBD1-437A-872B-BF8E852A7360",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q161148$A88B3D6B-147A-6CF4-4F5B-EB0B59CE0334",
+        "id": "Q51220$3078F7DB-04E4-417E-B4DA-BF8B9749E38E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161161",
-              "numeric-id": 161161
+              "id": "Q51240",
+              "numeric-id": 51240
             }
           },
-          "hash": "3f872e7fc05d9668de9360c04127373e8be6e560",
+          "hash": "5f04e9c7a3b60aa7690bac0051b8299c65088c50",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q161148$B767F3CB-3B32-B7A4-4A2E-51831A66F8B4",
+        "id": "Q51220$F10268F5-98BC-4C4A-8AF7-FE02F14C5849",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,23 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q51220$1D83E83C-954E-4C52-9E28-D5670EC5C158",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mahanandin Arms.svg"
+          },
+          "hash": "be9fe47c6b8126fd8ff5f59099e7e2eb7046e101",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +137,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161148$D239739D-D940-420B-B62E-71A8F5B0B593",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Mahanandin Arms.svg"
-          },
-          "hash": "be9fe47c6b8126fd8ff5f59099e7e2eb7046e101",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161148",
+  "id": "Q51220",
   "labels": {
     "en": {
       "language": "en",
       "value": "Mahanandin"
     }
   },
-  "lastrevid": 17584478,
-  "modified": "2025-09-17T18:12:15Z",
+  "lastrevid": 17457356,
+  "modified": "2025-09-16T11:40:26Z",
   "ns": 860,
-  "pageid": 204313,
+  "pageid": 66101,
   "sitelinks": {},
-  "title": "Item:Q161148",
+  "title": "Item:Q51220",
   "type": "item"
 }

@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q160986$C240BF3A-B2B8-98B3-C46F-1CE19014C3C0",
+        "id": "Q50883$CDD67BE9-EDAD-4548-8584-2A202BEF6B74",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160970",
-              "numeric-id": 160970
+              "id": "Q50837",
+              "numeric-id": 50837
             }
           },
-          "hash": "77eccbb18e6ed429185b6c9ddce4226c9df66cc7",
+          "hash": "c428e0646b5316c7bdb23f08aee8dec7c2a48e33",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q160986$60CEC295-A932-4880-AE11-776F525B750F",
+        "id": "Q50883$78D7D69F-D959-415B-8B4A-F4F53EDB3912",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160986$23DADD0E-A1C6-46A0-AD41-0E2407FD54F6",
+        "id": "Q50883$3211235C-47E5-4F0C-8882-D00A8A7FB100",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q160986$6CB5D545-7EBE-33F9-07B8-AFDF5863AA0C",
+        "id": "Q50883$0B99FADC-BF9B-4954-8037-4970934B3BF7",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160997",
-              "numeric-id": 160997
+              "id": "Q50913",
+              "numeric-id": 50913
             }
           },
-          "hash": "d98afe244fb518d3ecafb757a5425154ed247f49",
+          "hash": "afa43c37c1686617f7a34e7007e9940d91ad2fb2",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q160986$D41C25D5-82F9-44B8-D71A-1BA76AA6D630",
+        "id": "Q50883$1DB12049-2574-4C64-AF65-F1550A07832F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,23 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50883$23536695-0D0E-4E92-8A73-482C9A3B5BA8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Abhisara III of Pancanada Arms.svg"
+          },
+          "hash": "4ae64c27e9cb2ab39e7ea3b1d436c448d582ce81",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +137,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160986$2F3EB3F2-AE6D-4484-985F-C2FCB62B000B",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Abhisara III of Pancanada Arms.svg"
-          },
-          "hash": "4ae64c27e9cb2ab39e7ea3b1d436c448d582ce81",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160986",
+  "id": "Q50883",
   "labels": {
     "en": {
       "language": "en",
       "value": "Abhisara III of Pancanada"
     }
   },
-  "lastrevid": 17584290,
-  "modified": "2025-09-17T18:09:43Z",
+  "lastrevid": 17457144,
+  "modified": "2025-09-16T11:37:19Z",
   "ns": 860,
-  "pageid": 204151,
+  "pageid": 65832,
   "sitelinks": {},
-  "title": "Item:Q160986",
+  "title": "Item:Q50883",
   "type": "item"
 }

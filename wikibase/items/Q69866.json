@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q50978$22EC1A3D-6BD3-4AA4-BF6B-7A9F5DEBBFE6",
+        "id": "Q2217$E00E4AC5-84ED-4B43-8261-A303A9773348",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q50938",
-              "numeric-id": 50938
+              "id": "Q2212",
+              "numeric-id": 2212
             }
           },
-          "hash": "dd20c25a66add2104dba83f2417b081fd84b9f82",
+          "hash": "0f77519bd8f53b98a1806efa724ff5db49b52007",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q50978$130F9904-CD3A-474E-989C-937FD61BB9B6",
+        "id": "Q2217$C880E59F-3D69-4CBC-A9B8-04DC4B51E60C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q50978$843EF959-9020-4788-ACDD-855FBCA5B96B",
+        "id": "Q2217$F93A54D1-99B4-4E30-AC70-D392D3E7B291",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -56,6 +56,65 @@
           },
           "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
           "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q2217$41AD7868-FE4C-432D-865D-3CBCEB717C8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2222",
+              "numeric-id": 2222
+            }
+          },
+          "hash": "89a6c0aa289e6bae81d27644b8cec2adfe62a3d5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q2217$979C422C-6E91-488D-8A16-B6C891287F62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2217$4800968D-3132-40CE-9249-F2A59271581C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nandini Arms.svg"
+          },
+          "hash": "c42b10361cfefcc28334c4c1d69464b7e130131f",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -83,59 +142,17 @@
         "type": "statement"
       }
     ],
-    "P47": [
+    "P62": [
       {
-        "id": "Q50978$44D192A7-2CD5-49FA-A80C-31CC6C7FA0D3",
+        "id": "Q161018$14C81C4E-4A84-33EF-8C1A-274C4F1CD0CB",
         "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q51023",
-              "numeric-id": 51023
-            }
-          },
-          "hash": "9111546a0cadce51fb65a44d7be51b8f80fcadab",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P55": [
-      {
-        "id": "Q50978$F5B942C7-374E-4386-A49F-9ACEBF6EF2DA",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153719",
-              "numeric-id": 153719
-            }
-          },
-          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q50978$B76AF517-EB63-4C0D-A19B-886F53AE99AA",
-        "mainsnak": {
-          "datatype": "commonsMedia",
+          "datatype": "external-id",
           "datavalue": {
             "type": "string",
-            "value": "Nandini Arms.svg"
+            "value": "6000000042326470858"
           },
-          "hash": "c42b10361cfefcc28334c4c1d69464b7e130131f",
-          "property": "P94",
+          "hash": "d75d696bd9f1d2153f092e09d4ae8236973bd7b0",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -144,18 +161,18 @@
     ]
   },
   "descriptions": {},
-  "id": "Q50978",
+  "id": "Q2217",
   "labels": {
     "en": {
       "language": "en",
       "value": "Nandini"
     }
   },
-  "lastrevid": 17457220,
-  "modified": "2025-09-16T11:38:26Z",
+  "lastrevid": 17404636,
+  "modified": "2025-09-15T21:42:56Z",
   "ns": 860,
-  "pageid": 65908,
+  "pageid": 20691,
   "sitelinks": {},
-  "title": "Item:Q50978",
+  "title": "Item:Q2217",
   "type": "item"
 }

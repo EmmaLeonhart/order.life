@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q50758$94610953-7317-4BBC-B8E3-D2B07B66AF0B",
+        "id": "Q2181$CDFF2F03-A934-4B33-ABE4-AEB8D5E009C7",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q50725",
-              "numeric-id": 50725
+              "id": "Q2175",
+              "numeric-id": 2175
             }
           },
-          "hash": "be13c3f4042e8b12efd7fcb4289835d5ccf00954",
+          "hash": "ec0a56bf9593ba2768f786283b2360fc1a7d7595",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q50758$4B0E58AF-1CBB-4077-9DA4-95BD4F69592E",
+        "id": "Q2181$7348C98E-CEEE-4D93-9FEF-B3456A8854FE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q50758$FF09C260-1DD6-4118-9DC2-A048F354ADE2",
+        "id": "Q2181$5490CA3F-55C9-4059-9E89-CFDB8F69659A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -56,6 +56,65 @@
           },
           "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
           "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q2181$0FE9859B-1401-44EA-A65E-EA164E1CB367",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2188",
+              "numeric-id": 2188
+            }
+          },
+          "hash": "b0a56c6c249f40b20d62aff8c9b1cfecbfc2cf1e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q2181$6D318A75-F161-46B3-A2D6-59C9F7A00A47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2181$07889ADB-6D1B-41C3-A57E-D428E489B3F5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marhindi Maurya Arms.svg"
+          },
+          "hash": "c438aea36b3c588ce3ee6c8d393e154d53340cda",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -83,27 +142,6 @@
         "type": "statement"
       }
     ],
-    "P47": [
-      {
-        "id": "Q50758$D8FFFCC5-AEF0-40BB-BD4D-AE68383354D3",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q50792",
-              "numeric-id": 50792
-            }
-          },
-          "hash": "0362e5f76f714632537e0f35ac27793dcb48f3db",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P48": [
       {
         "id": "Q50758$127747B5-15C0-4FAE-9F80-1BD673AD1DA3",
@@ -125,38 +163,17 @@
         "type": "statement"
       }
     ],
-    "P55": [
+    "P62": [
       {
-        "id": "Q50758$CB122F8A-4D8F-4152-9F52-E1B2D09B267B",
+        "id": "Q160933$7F7C20F5-C708-8FCF-0098-EBB21A653B2F",
         "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153719",
-              "numeric-id": 153719
-            }
-          },
-          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q50758$741AFAB4-56B3-44D5-BE55-5CB0838EDA60",
-        "mainsnak": {
-          "datatype": "commonsMedia",
+          "datatype": "external-id",
           "datavalue": {
             "type": "string",
-            "value": "Marhindi Maurya Arms.svg"
+            "value": "6000000041015097187"
           },
-          "hash": "c438aea36b3c588ce3ee6c8d393e154d53340cda",
-          "property": "P94",
+          "hash": "d1f48e366c9a959c9dc67d5778a76061314e33aa",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -165,18 +182,18 @@
     ]
   },
   "descriptions": {},
-  "id": "Q50758",
+  "id": "Q2181",
   "labels": {
     "en": {
       "language": "en",
       "value": "Marhindi Maurya"
     }
   },
-  "lastrevid": 17457050,
-  "modified": "2025-09-16T11:35:57Z",
+  "lastrevid": 17404612,
+  "modified": "2025-09-15T21:41:59Z",
   "ns": 860,
-  "pageid": 65733,
+  "pageid": 20631,
   "sitelinks": {},
-  "title": "Item:Q50758",
+  "title": "Item:Q2181",
   "type": "item"
 }

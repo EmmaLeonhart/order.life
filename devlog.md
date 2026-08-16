@@ -4335,3 +4335,64 @@ the Licinii Vari mistake with more records attached.
 
 The `shunga-triple` cluster stays in `merge_cluster.py` carrying the verified
 king pairs, behind a prominent DO-NOT-RUN guard naming the I4 failure.
+
+## 2026-08-16 — The Magadha merge: 131 pairs, 87 survivors, all six gates green
+
+Item 0d, applied. `merge_cluster.py magadha-triple` — 131 merges across 299 item
+files, from the mapping `match_parallel_imports.py` derived structurally.
+
+**The tool's own checks:** *"no file claims any of the 131 vacated qid(s)"* and
+*"all files agree with their survivor"* — content equality, not just id equality,
+across every shadow of both sides. 81 files reported as not readable as a JSON
+object and counted rather than silently skipped.
+
+**All six gates PASS** on a freshly regenerated extract: `compare_tangles` 0 → 0
+with **0 records newly inside a tangle**, `compare_depth` 0 lost and 0 gained,
+`check_invariants` with `tangled_components 0`, `verify_cuts_landed` 35/35,
+`verify_applies_landed` 24/24.
+
+### Three predictions recorded before the run. Two were wrong.
+
+| prediction | actual |
+|---|---|
+| `compare_tangles` will move | **wrong** — 0 → 0, nothing introduced or removed |
+| `compare_depth` will show a gain | **wrong** — 0 gained, 0 lost; total depth −40,120 |
+| `qa_vacated_refs` 0 → non-zero | **right** — 0 → 27 across 22 records |
+
+The depth miss is the one worth keeping. I argued the merge would hand the
+`Q2xxx` chain ancestry it lacked, because `Q2206` Ashoka had no father — and
+used that as the reason the dedupe was worth doing at all rather than being mere
+hygiene. **It gained nothing.** 0 records gained depth; total depth fell 40,120
+purely because 131 duplicate nodes stopped existing. The ancestry was already
+reachable: the three chains were parallel *and* already joined, so collapsing
+them removed nodes without changing anyone's reach.
+
+The merge is still right — it is a dedupe, and 131 fewer phantom people is the
+point. But the argument I gave for its value was wrong on the mechanism, and
+writing "gains depth" into the queue item before measuring was exactly the habit
+this session keeps catching.
+
+### The +1 on children_over_2_parents is self-inflicted and explained
+
+1199 → 1200. `Q2282` Srutanjaya of Magadha now has three parents: **`Q2286`,
+`Q51301`, `Q161211` — the three unmerged copies of SENAJIT.**
+
+Three merge pairs were dropped because `Q2286` SENAJIT and `Q153455` Sunakshtra
+Marudeva already carried two fathers each, so merging a third copy would have
+crossed the threshold. Srutanjaya's own three copies merged; his father's did
+not. One child, three versions of one man.
+
+**It is not a new defect and needs no separate investigation** — it disappears
+when SENAJIT is merged. Filed as item 0f with that stated explicitly, so nobody
+spends a tick chasing it as though it were independent.
+
+### qa_vacated_refs 0 → 27: my own detector, firing on my own merge
+
+Predicted, and it is `merge_cluster.py` doing exactly what its docstring says:
+*"third-party records that cite a loser qid are left alone."*
+
+That is item 1d's enforcement gap — the one found on 2026-08-15 by tracing why
+894 stale references existed — **now demonstrated with real data from a merge we
+control, rather than inferred from history.** The detector added yesterday
+caught it on the first merge run since. Fix with `repoint_vacated_qids.py`;
+item 1d's own fix now has a real case to be verified against.

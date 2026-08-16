@@ -1,30 +1,57 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ghosha"
+      },
+      {
+        "language": "en",
+        "value": "King of Shunga VII - Ghosha (119-... BC)"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q160830$31395182-A1C8-297F-9F23-B557B72A6122",
+        "id": "Q2117$0622B895-12AC-4124-AB7D-129B1E66616F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160803",
-              "numeric-id": 160803
+              "id": "Q2101",
+              "numeric-id": 2101
             }
           },
-          "hash": "95b8dc3400ec071de2aed56b87e037f1eefd4a51",
+          "hash": "42032dcea5970ab6c6814e7414d88b81f8185516",
           "property": "P20",
           "snaktype": "value"
         },
         "rank": "normal",
         "type": "statement"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P20",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q200015",
+              "numeric-id": 200015
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
       }
     ],
     "P39": [
       {
-        "id": "Q160830$FCAB4583-44E5-4861-A2F1-75073DB6ADC6",
+        "id": "Q2117$3CEC2156-6E33-4CC2-B9AE-1FDD6E7B884C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +70,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160830$D9F493A1-D071-4029-ACC2-1A957CDBF54B",
+        "id": "Q2117$68A54D3E-A7FC-4606-A8EF-B3262963AB26",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,63 +89,21 @@
         "type": "statement"
       }
     ],
-    "P42": [
-      {
-        "id": "Q160830$90FFE594-037B-694E-65E0-30DFB05E0670",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160831",
-              "numeric-id": 160831
-            }
-          },
-          "hash": "c5d9e3be16e029e357e029d7b29965f85f5e9586",
-          "property": "P42",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P47": [
       {
-        "id": "Q160830$8C52DFF6-A657-9798-98B9-FAE8692A20F3",
+        "id": "Q2117$A1BEEF07-1C07-4920-BB7B-C5F5E1DA77B1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160858",
-              "numeric-id": 160858
+              "id": "Q2134",
+              "numeric-id": 2134
             }
           },
-          "hash": "218e576347d39c9091e4cc229535a22b9b5ad882",
+          "hash": "97b28a0d35d2494f5eecc9b07c1da99c7f45adc7",
           "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P48": [
-      {
-        "id": "Q160830$049B9BB1-2585-C291-16FA-0DD228B95112",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160859",
-              "numeric-id": 160859
-            }
-          },
-          "hash": "043033f5499cae1a159ba50510db2145ab4900b6",
-          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -127,7 +112,7 @@
     ],
     "P55": [
       {
-        "id": "Q160830$FF30A483-9EB7-F6CC-F92E-A781D52319C8",
+        "id": "Q2117$589525E5-00F2-4091-8C82-BA6A0267563F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -140,6 +125,85 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q2117$EA1DBBF5-AF27-4FCA-B9D1-EAD2125BF4AF",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "King of Shunga VII - Ghosha (119-... BC) //"
+            }
+          },
+          "hash": "eccca28af3f49e9bd219dbbc397f9c5ccb2b2c63",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2117$372319F4-BC35-47DB-8488-759FC9C2F3B4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ghosha Arms.svg"
+          },
+          "hash": "c867f05d0423b7e238b2bf10149c967944194e16",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50524$5C958203-D827-44FD-BCF8-0DCB7960D598",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50528",
+              "numeric-id": 50528
+            }
+          },
+          "hash": "eca86ee1c0110ec1a70666c925772ff52fa6d17b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q50524$1F51FFD9-8E9F-40B5-8605-D0144FFC3063",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50601",
+              "numeric-id": 50601
+            }
+          },
+          "hash": "41c25a88815ae50b29e0995bf21c49575a52d3b4",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -162,38 +226,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160830$20A2D9C6-4473-4CC4-A505-1C1CFB54232D",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "King of Shunga VII - Ghosha (119-... BC) Arms.svg"
-          },
-          "hash": "8ae451358a82bbcf57787c38e29a18449f40f296",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160830",
+  "id": "Q2117",
   "labels": {
     "en": {
       "language": "en",
-      "value": "King of Shunga VII - Ghosha (119-... BC)"
+      "value": "Ghosha"
     }
   },
-  "lastrevid": 17583978,
-  "modified": "2025-09-17T18:05:24Z",
+  "lastrevid": 17404560,
+  "modified": "2025-09-15T21:40:30Z",
   "ns": 860,
-  "pageid": 203995,
+  "pageid": 20527,
   "sitelinks": {},
-  "title": "Item:Q160830",
+  "title": "Item:Q2117",
   "type": "item"
 }

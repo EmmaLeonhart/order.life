@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161159$436CE894-6937-0070-7C2F-BBA2EF718121",
+        "id": "Q2263$FB7917E4-27A1-4012-8037-6E3FCAD7D4D2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161145",
-              "numeric-id": 161145
+              "id": "Q2258",
+              "numeric-id": 2258
             }
           },
-          "hash": "67327f30f521caec5d7deddae2b9442bf847216f",
+          "hash": "da35c2463882d8d2a40ee9dc59122920fad5e482",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161159$6274A651-470A-45F0-8563-2243C66FF06E",
+        "id": "Q2263$1D03F534-0176-42DF-AA01-DDC9CA4848D2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161159$47FF71E2-D408-4112-8455-ED446192847D",
+        "id": "Q2263$5B548B33-C3FE-4421-BB29-935C7CE186BA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q161159$8D6387C9-C232-0236-B102-7C42575E27B1",
+        "id": "Q2263$2304B3AC-2E77-4D6A-B6DF-3A69239745C4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161172",
-              "numeric-id": 161172
+              "id": "Q2268",
+              "numeric-id": 2268
             }
           },
-          "hash": "b0ba103d7a15cad0a7736c0757909ac470bb6bfa",
+          "hash": "7c7b831bdd4590ad9b7f1ba74e1b8a685c486b1a",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q161159$825675DC-0F66-D73D-6B3E-702F7D817842",
+        "id": "Q2263$9849EB2D-065B-4A89-A984-932E3C81F444",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,47 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q2263$4C41F0D7-7A65-4484-9316-71D55CF1C7FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22d35df1cfa932cd58f3acb2312bc355e0beeb04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2263$9B25C14A-1922-4AA3-8727-135B6B51FD27",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shakay Arms.svg"
+          },
+          "hash": "667bae552c895de591a20e15fddbe15fb6032556",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +161,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161159$691182ED-20B6-4C0E-A232-4A98BB25015B",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Shakay Arms.svg"
-          },
-          "hash": "667bae552c895de591a20e15fddbe15fb6032556",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161159",
+  "id": "Q2263",
   "labels": {
     "en": {
       "language": "en",
       "value": "Shakay"
     }
   },
-  "lastrevid": 17584484,
-  "modified": "2025-09-17T18:12:21Z",
+  "lastrevid": 17404700,
+  "modified": "2025-09-15T21:44:06Z",
   "ns": 860,
-  "pageid": 204324,
+  "pageid": 20759,
   "sitelinks": {},
-  "title": "Item:Q161159",
+  "title": "Item:Q2263",
   "type": "item"
 }

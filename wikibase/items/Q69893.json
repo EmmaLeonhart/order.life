@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q51023$29C8D5F2-ACFA-4E05-9BE5-54590A008608",
+        "id": "Q2222$CC3FF811-8B1B-49BB-8390-2A6B226FE95F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q50978",
-              "numeric-id": 50978
+              "id": "Q2217",
+              "numeric-id": 2217
             }
           },
-          "hash": "eb0e64a42474d5e04cabd935431956bb7e428ad3",
+          "hash": "04c89094380ae914975611b4b6538683a9fb00a5",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q51023$8B2337BE-75D0-429D-96F5-9CDFD0555AA0",
+        "id": "Q2222$A2623902-A1B0-4BDE-81FF-53A6CFEBD13C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q51023$C46459B9-7C37-476C-AA0C-6E4FFA737695",
+        "id": "Q2222$37E43894-437D-4B88-8C0D-69EFA92AF3C6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q51023$D0027B8F-410E-461A-BFDD-3B00052A7D46",
+        "id": "Q2222$EB0699EB-A493-4DC6-8C05-393F32B28514",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51053",
-              "numeric-id": 51053
+              "id": "Q2226",
+              "numeric-id": 2226
             }
           },
-          "hash": "4fb8e19a7fbe19fed75f330c5c71852e737aecda",
+          "hash": "43276a8559e52df018173c2fa7a3f2f6b7541464",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q51023$562B1FC0-EF35-4A15-A3B3-9539913BE53F",
+        "id": "Q2222$D2F44742-6E77-4586-8D41-504FB763F543",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -106,7 +106,7 @@
     ],
     "P94": [
       {
-        "id": "Q51023$C6506C98-10DB-4E04-857E-DA29CA1317CC",
+        "id": "Q2222$9B8A9880-14CD-4684-B926-7768DAAF2141",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -120,21 +120,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q161032$620F75C0-B2B9-4065-C2A4-7F0C725B1753",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018548420929"
+          },
+          "hash": "ca59053aef291fd925eae174ed807d7db6a48fb0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q51023",
+  "id": "Q2222",
   "labels": {
     "en": {
       "language": "en",
       "value": "Dhananada [Xandrames], King of Magadha"
     }
   },
-  "lastrevid": 17457250,
-  "modified": "2025-09-16T11:38:52Z",
+  "lastrevid": 17404642,
+  "modified": "2025-09-15T21:43:04Z",
   "ns": 860,
-  "pageid": 65944,
+  "pageid": 20699,
   "sitelinks": {},
-  "title": "Item:Q51023",
+  "title": "Item:Q2222",
   "type": "item"
 }

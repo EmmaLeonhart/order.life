@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q51235$0478F06D-EDB9-4562-BE6C-F90ADCFEEF58",
+        "id": "Q2264$7C596DA0-0DEC-4F21-B5DE-6E97A778838E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51210",
-              "numeric-id": 51210
+              "id": "Q2259",
+              "numeric-id": 2259
             }
           },
-          "hash": "96aa5f9479539372c2ebdcbd92e1050829de17c5",
+          "hash": "d945a655757ca1dba2a1fbe9735f13134ea039b6",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q51235$9DC6ADB9-9C2B-41E6-8BC7-DE2331C70603",
+        "id": "Q2264$5D15D469-65A6-4331-80B3-C1A5CD63BE2C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q51235$47375775-E629-4FF1-9CC0-908E7F4C1886",
+        "id": "Q2264$55B68DE5-58F5-4670-A9B6-3C9578E7CDBF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q51235$0453C1B4-168B-414E-ADE4-9F06221EE7EC",
+        "id": "Q2264$97A5EA3A-4D11-4E87-9B37-162812CC1012",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51250",
-              "numeric-id": 51250
+              "id": "Q2269",
+              "numeric-id": 2269
             }
           },
-          "hash": "2f3ff9e37f357c28b430da0a74468f0b822fa7b9",
+          "hash": "6ab6c39c1ffa27ed5cd38dc6fc55354c72fd3d08",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q51235$A1D3B540-5137-4A05-B862-3BCF431C8569",
+        "id": "Q2264$1B530EEF-29B8-45A7-ACC3-A790F4F75689",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -106,7 +106,7 @@
     ],
     "P94": [
       {
-        "id": "Q51235$C698B671-3506-4558-8432-DB48D1026ACB",
+        "id": "Q2264$CA9A8AE4-6311-43C1-B06D-D12873FC57EB",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -120,21 +120,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q161160$B6FF9C73-678F-4013-C4AF-70B16D9CFCB3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018558385553"
+          },
+          "hash": "c399d46d63b05433632483eef4e1285ccc6131b8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q51235",
+  "id": "Q2264",
   "labels": {
     "en": {
       "language": "en",
       "value": "Satyajiti, King of Magadha"
     }
   },
-  "lastrevid": 17457362,
-  "modified": "2025-09-16T11:40:31Z",
+  "lastrevid": 17404702,
+  "modified": "2025-09-15T21:44:08Z",
   "ns": 860,
-  "pageid": 66113,
+  "pageid": 20760,
   "sitelinks": {},
-  "title": "Item:Q51235",
+  "title": "Item:Q2264",
   "type": "item"
 }

@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161063$96921BAE-C3E5-FAB0-97BF-D52B6F8A4EED",
+        "id": "Q51094$6CC507B2-60AA-4CAE-ABE9-4C25D65DAA02",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161054",
-              "numeric-id": 161054
+              "id": "Q51078",
+              "numeric-id": 51078
             }
           },
-          "hash": "c721dd31c2d4eb4a1931837d776198196b196105",
+          "hash": "bdc93cd718a5211a50b592b1ac1ff24427ec19f8",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161063$29CB0891-13EE-4F21-9AF8-B038D87050AB",
+        "id": "Q51094$99379C25-756A-49A4-A7D6-D89605E51B36",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161063$2E022173-A880-41A1-940F-1214CEAF3BC1",
+        "id": "Q51094$79922D0D-EA1A-4282-B401-A3A3FD765858",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q161063$9E9778B4-03FF-B9AF-715A-6632F0AE69C1",
+        "id": "Q51094$601D4352-C851-4BEF-AAAA-78F25F117CC1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161072",
-              "numeric-id": 161072
+              "id": "Q51109",
+              "numeric-id": 51109
             }
           },
-          "hash": "84b125414949d27aa3d731bbbed4515a26f18841",
+          "hash": "e80d07eed342d0091a5bf4528a24722ba4fd1ecb",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q161063$AE1060C9-0EC7-B64C-D502-89B8F6770DE2",
+        "id": "Q51094$E6459CAB-0999-427A-83A3-A25568D7B2F4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,23 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q51094$19B71E6D-2F05-4E02-9EAB-EA82C78FAC40",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Govishanaka Arms.svg"
+          },
+          "hash": "caa444d31fc455f6e46aa887bf8093fac6645f7e",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +137,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161063$7CD83243-8E4A-48E6-B5FB-EAFDF27AB2B7",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Govishanaka Arms.svg"
-          },
-          "hash": "caa444d31fc455f6e46aa887bf8093fac6645f7e",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161063",
+  "id": "Q51094",
   "labels": {
     "en": {
       "language": "en",
       "value": "Govishanaka"
     }
   },
-  "lastrevid": 17584416,
-  "modified": "2025-09-17T18:11:25Z",
+  "lastrevid": 17457294,
+  "modified": "2025-09-16T11:39:31Z",
   "ns": 860,
-  "pageid": 204228,
+  "pageid": 66000,
   "sitelinks": {},
-  "title": "Item:Q161063",
+  "title": "Item:Q51094",
   "type": "item"
 }

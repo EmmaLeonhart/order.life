@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q51053$F57643C2-6575-4F4F-A91E-BD364F82368D",
+        "id": "Q2226$91A3D2C3-B582-4FC4-AE09-ED2F3AC7D7C9",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51023",
-              "numeric-id": 51023
+              "id": "Q2222",
+              "numeric-id": 2222
             }
           },
-          "hash": "60daf15e2bd1c3a1aab1ff487b2c6a94eadf187f",
+          "hash": "e97f70f37033ebf6205d2c9c1e5b472190aba2ce",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q51053$1ECEA32C-27A8-428A-B90F-6B1590627EC9",
+        "id": "Q2226$5468655D-F98B-445C-A7CA-691D8EF6167D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q51053$1B548439-ADD5-4B63-A408-024005346BAD",
+        "id": "Q2226$1D8D6DF3-AFF2-407A-AA3B-586A2F6C8EEA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q51053$5F6D974E-DD66-4A58-8CBA-C9246A16BE04",
+        "id": "Q2226$40F70644-AA1F-4C6E-8384-8A48A73DEB91",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51073",
-              "numeric-id": 51073
+              "id": "Q2229",
+              "numeric-id": 2229
             }
           },
-          "hash": "02ba65a7c56bde0bee23b417427de4fa7836800f",
+          "hash": "b3f3a9c3d3960aec1ca359cadfa531724cdbcfc7",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q51053$AA468EF5-DE19-4A73-97B8-13A19639A0B2",
+        "id": "Q2226$02FAD438-88C3-4BC2-9EF4-990967160B9C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -106,7 +106,7 @@
     ],
     "P94": [
       {
-        "id": "Q51053$2841DFC1-919F-41A7-8E4A-362D4DE0DCDF",
+        "id": "Q2226$977E10A9-F052-4D73-A571-F8553C877E75",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -120,21 +120,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q161044$953430BA-E72C-EB13-45B7-01899715CB7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018548877623"
+          },
+          "hash": "c7e46e0c36361c9ceade6ee2722b04b1ba22bed9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q51053",
+  "id": "Q2226",
   "labels": {
     "en": {
       "language": "en",
       "value": "Ksemadharma, King of Magadha"
     }
   },
-  "lastrevid": 17457266,
-  "modified": "2025-09-16T11:39:07Z",
+  "lastrevid": 17404646,
+  "modified": "2025-09-15T21:43:11Z",
   "ns": 860,
-  "pageid": 65968,
+  "pageid": 20705,
   "sitelinks": {},
-  "title": "Item:Q51053",
+  "title": "Item:Q2226",
   "type": "item"
 }

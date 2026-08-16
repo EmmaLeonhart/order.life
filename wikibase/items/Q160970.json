@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q160970$85C57ED7-AA8C-D40C-4403-2918D97498EF",
+        "id": "Q50837$338CA885-4FEE-4A38-BD80-1CFF1D14514B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160952",
-              "numeric-id": 160952
+              "id": "Q50797",
+              "numeric-id": 50797
             }
           },
-          "hash": "a8b476d4014c64f04157e248283784a030958612",
+          "hash": "0ae6b8b96e4ff8b1d37611b3d6e71983c269043e",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q160970$B8D24A09-17C5-4797-B075-C7CE84B0B3CD",
+        "id": "Q50837$84B2CF62-7DB0-459A-BA96-DBF903776257",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160970$04AC7700-E935-4CE4-A7EA-B066477604FF",
+        "id": "Q50837$03E3B381-C2BD-42AC-86AD-82A469291BEB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P42": [
       {
-        "id": "Q160970$3BB66876-A2E1-B48B-D2D9-BAFD73565DAC",
+        "id": "Q50837$A56D1CA5-618A-4E36-A948-EC547E57FA63",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160971",
-              "numeric-id": 160971
+              "id": "Q50842",
+              "numeric-id": 50842
             }
           },
-          "hash": "2fb854b112703ad061618683f141e5b15b2945ff",
+          "hash": "3a5483c8d933eaa2a1340e3b9c9bbf3cf9778d6b",
           "property": "P42",
           "snaktype": "value"
         },
@@ -85,18 +85,18 @@
     ],
     "P47": [
       {
-        "id": "Q160970$1225F7EB-7AFC-CA22-EC22-98D206D34854",
+        "id": "Q50837$8BF17041-7BE4-45A7-B5EF-206B3111E257",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160986",
-              "numeric-id": 160986
+              "id": "Q50883",
+              "numeric-id": 50883
             }
           },
-          "hash": "4db9f8d9f64d2de07544911933d2ba8362b8416f",
+          "hash": "884076edd1bbc528c7d1c07f409b2ebade3ad4f3",
           "property": "P47",
           "snaktype": "value"
         },
@@ -106,7 +106,7 @@
     ],
     "P55": [
       {
-        "id": "Q160970$0E8E6C8E-CEFA-44D5-7808-8C4557DBB773",
+        "id": "Q50837$1DAB2431-6715-4E45-AB46-EC581A4263E7",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -119,6 +119,23 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50837$C8D6C102-B6BC-4EDE-A7A5-ED247C60723C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Abhisara IV of Avanti Arms.svg"
+          },
+          "hash": "86dfc538cf15904d4d02e3b21dd8a62e0a98037a",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -141,38 +158,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160970$EDAFDED3-72DD-4485-83F8-D259B3EC1562",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Abhisara IV of Avanti Arms.svg"
-          },
-          "hash": "86dfc538cf15904d4d02e3b21dd8a62e0a98037a",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160970",
+  "id": "Q50837",
   "labels": {
     "en": {
       "language": "en",
       "value": "Abhisara IV of Avanti"
     }
   },
-  "lastrevid": 17584258,
-  "modified": "2025-09-17T18:09:19Z",
+  "lastrevid": 17457116,
+  "modified": "2025-09-16T11:36:54Z",
   "ns": 860,
-  "pageid": 204135,
+  "pageid": 65795,
   "sitelinks": {},
-  "title": "Item:Q160970",
+  "title": "Item:Q50837",
   "type": "item"
 }

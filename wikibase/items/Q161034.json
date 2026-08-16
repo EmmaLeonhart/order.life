@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161034$933D85F5-4741-B84A-8D9B-4B394C78BA5D",
+        "id": "Q51033$2D32AC48-3428-4347-8D60-A634E6A567E0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161019",
-              "numeric-id": 161019
+              "id": "Q50983",
+              "numeric-id": 50983
             }
           },
-          "hash": "6ca933834a4e43e46cd593cadfbf810a30eb3217",
+          "hash": "39db2ada590c714bf7339f996497bff3ac09d95c",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161034$FA7280F2-C2C7-4A18-98EB-172742B04D47",
+        "id": "Q51033$B3B6E4D5-749E-4016-9A8E-E6612333451C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161034$752BB4EE-9A67-445E-B1BE-52B216976EB8",
+        "id": "Q51033$C67ECBE4-F398-467C-A821-0260E2F2A121",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P42": [
       {
-        "id": "Q161034$6C0ED9F1-A7FC-A64D-F450-9ABE4E40CC27",
+        "id": "Q51033$72C3CDF9-2230-4E70-8793-5AAD905EF551",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161033",
-              "numeric-id": 161033
+              "id": "Q51028",
+              "numeric-id": 51028
             }
           },
-          "hash": "b11e9c65b044b58a64ac412c741f70c5c43ca78a",
+          "hash": "7976f2e6040864b890a41ca675b541003f3c672b",
           "property": "P42",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q161034$427D43A5-D74F-E0BD-A31B-5F28CAD84CE7",
+        "id": "Q51033$FFFC08F1-CDF9-4D52-908A-0DF887F2FB05",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,23 @@
           },
           "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q51033$2A959ABD-0B55-4906-9EFC-8CF247E09131",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amitanita Arms.svg"
+          },
+          "hash": "1df1c5118319fba1cff948e9ce1e9bfdf5af9077",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +137,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161034$9E29A4A5-D9BE-4BB8-8C93-4E94DD63ADE1",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Amitanita Arms.svg"
-          },
-          "hash": "1df1c5118319fba1cff948e9ce1e9bfdf5af9077",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161034",
+  "id": "Q51033",
   "labels": {
     "en": {
       "language": "en",
       "value": "Amitanita"
     }
   },
-  "lastrevid": 17584382,
-  "modified": "2025-09-17T18:10:58Z",
+  "lastrevid": 17457254,
+  "modified": "2025-09-16T11:38:56Z",
   "ns": 860,
-  "pageid": 204199,
+  "pageid": 65952,
   "sitelinks": {},
-  "title": "Item:Q161034",
+  "title": "Item:Q51033",
   "type": "item"
 }

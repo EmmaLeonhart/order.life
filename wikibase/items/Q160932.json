@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q160932$BFC84EAA-9247-7427-F4C6-3115F0688B29",
+        "id": "Q50754$0B301691-910F-4574-9739-6D5C098D57A3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160916",
-              "numeric-id": 160916
+              "id": "Q2175",
+              "numeric-id": 2175
             }
           },
-          "hash": "910bbc4199acd8bbbd9a6c01c1c3d8dd1b5fef3e",
+          "hash": "be13c3f4042e8b12efd7fcb4289835d5ccf00954",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q160932$C212CA69-DFBF-4CA7-8716-728E2D6689C7",
+        "id": "Q50754$5F439D5E-70B0-420F-AAEF-44FABC4FDC49",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160932$6DAD8B33-C8CC-49B8-B4D9-8F92CB20BB20",
+        "id": "Q50754$26FBA02F-788E-4773-BA87-E0BF6108285F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P42": [
       {
-        "id": "Q160932$812A0B2D-9729-B8A6-232A-F645B662E7FC",
+        "id": "Q50754$77FBA950-EEB0-4EB1-B108-FD27FA668B61",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160933",
-              "numeric-id": 160933
+              "id": "Q2181",
+              "numeric-id": 2181
             }
           },
-          "hash": "193317c6aac586028edb1918f43d955dc5aee5a4",
+          "hash": "d2386e7569d0e0262b6babb1c31a0fe16e399ac9",
           "property": "P42",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q160932$79764674-585B-BEEE-B03C-CC456624C937",
+        "id": "Q50754$1439A3F4-C9B5-4C9E-8FA3-CC735A74DF4A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,23 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50754$DCE45D82-E0EC-4CB5-B9C5-CACBF8D44C52",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pusyamitra Shunga Arms.svg"
+          },
+          "hash": "256d261d883ef00da7ddd952f5cbd5fccd492066",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,42 +137,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160932$D9D58D8F-2D4A-4773-9FF5-26D04571EA9C",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "King of Shunga I - Pushyamitra Shunga (185149 BC) Arms.svg"
-          },
-          "hash": "edf6a881256ec5ab0e3de4799e695580d1a0f31f",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160932",
+  "id": "Q50754",
   "labels": {
     "en": {
       "language": "en",
-      "value": "King of Shunga I - Pushyamitra Shunga (185149 BC)"
-    },
-    "es": {
-      "language": "es",
-      "value": "King of Shunga I - Pushyamitra Shunga (185–149 BC)"
+      "value": "Pusyamitra Shunga"
     }
   },
-  "lastrevid": 17584182,
-  "modified": "2025-09-17T18:08:18Z",
+  "lastrevid": 17457046,
+  "modified": "2025-09-16T11:35:47Z",
   "ns": 860,
-  "pageid": 204097,
+  "pageid": 65730,
   "sitelinks": {},
-  "title": "Item:Q160932",
+  "title": "Item:Q50754",
   "type": "item"
 }

@@ -1,20 +1,31 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vasumitra"
+      },
+      {
+        "language": "en",
+        "value": "King of Shunga IV - Vasumitra (131–124 BC)"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q160900$FEEA604D-9BF6-C275-C172-D11100D37727",
+        "id": "Q2165$1263AA8D-CEDA-4666-AA6A-5C97B478A9EE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160882",
-              "numeric-id": 160882
+              "id": "Q2150",
+              "numeric-id": 2150
             }
           },
-          "hash": "b45e766d7cc211b294fceed19d5b19bb6f3784d1",
+          "hash": "11b43f303d658b0391ae14944431798a16754aac",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +35,7 @@
     ],
     "P39": [
       {
-        "id": "Q160900$DAAF8977-F455-4813-8A68-EAE0AE3BFDD1",
+        "id": "Q2165$A703FE0E-FA0D-4C94-876F-2D9E1B0E252B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +54,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160900$495775AB-0CEE-4143-BB30-3708F3AE0D38",
+        "id": "Q2165$D8E5CCC7-8E65-4FBF-9D84-EFD10DBAAE2C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,63 +73,21 @@
         "type": "statement"
       }
     ],
-    "P42": [
-      {
-        "id": "Q160900$C5F3F5AF-3F29-6765-902C-8B017903D388",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160901",
-              "numeric-id": 160901
-            }
-          },
-          "hash": "2a3834e7d98b46d4ad5260629779b6a66d687486",
-          "property": "P42",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P47": [
       {
-        "id": "Q160900$DEAEE564-78E0-A227-AEB1-89C487FA9EA3",
+        "id": "Q2165$63B24168-30E1-4119-9874-529FCA23F46C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160916",
-              "numeric-id": 160916
+              "id": "Q2175",
+              "numeric-id": 2175
             }
           },
-          "hash": "8c07d8165c1eb4f2dc1f688e925b8ccf7965c8af",
+          "hash": "cb7eb8a9b7bbcdacd1a426cceaa652576cce8840",
           "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P48": [
-      {
-        "id": "Q160900$7EAC8939-5647-C299-F9DD-63C946050489",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160915",
-              "numeric-id": 160915
-            }
-          },
-          "hash": "487f3914649a697ab433a3cf7af363610b634e7b",
-          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -127,7 +96,7 @@
     ],
     "P55": [
       {
-        "id": "Q160900$EA1D05AA-47DD-34C4-D2D6-7CFAF0377974",
+        "id": "Q2165$82B074A4-F49E-4BBE-A200-612E3C7D1CBA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -140,6 +109,143 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2165$F823308D-EBF5-4D64-B96A-CEDF63B3B94E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0124-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6bacc35e9635edef073a99a9c1f1db5158339d2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q2165$7AD8FCC3-C9C3-40C6-8841-45BD69F6380E",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "King of Shunga IV - Vasumitra (131–124 BC) //"
+            }
+          },
+          "hash": "147bdeffea357aea78cab1c4d1516a1cd1ba5ad4",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q2165$3D17C92C-4914-9CBD-74C3-570981E4150C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24327"
+          },
+          "hash": "38e8cc1588214806f383f209a20ae393cd7b3890",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q2165$4F42B735-DBE3-4EFD-A813-F0C0D5D487D0",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Vasumitra"
+          },
+          "hash": "10df34d987435567b834302d563b260cae57f962",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2165$DDF68480-58DC-49E4-89B9-F4388E4DD100",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vasumitra Arms.svg"
+          },
+          "hash": "0aa1a66a8caed99e0ca782b4866218d23488da5b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50681$59F7950C-2394-43AD-836D-C9823EF9D6DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50685",
+              "numeric-id": 50685
+            }
+          },
+          "hash": "e211fbad789f679d01db1d8ae069d7040cdc2757",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q50681$F7D84C6E-7749-4738-94C3-F9815BFCB4A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50721",
+              "numeric-id": 50721
+            }
+          },
+          "hash": "52c62195dc1a255d23916dc6ad6f42796b656a8d",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -162,42 +268,125 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160900$EFFAEDB2-D7FC-4EE0-AEE0-9ACB9A1751E7",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "King of Shunga IV - Vasumitra (131124 BC) Arms.svg"
-          },
-          "hash": "9298e7619b97ed8fac5af2069123f85d28eab5c3",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q160900",
-  "labels": {
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König der Shunga-Dynastie"
+    },
     "en": {
       "language": "en",
-      "value": "King of Shunga IV - Vasumitra (131124 BC)"
+      "value": "King of the Sunga Dynasty of Northern India"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Empereur de la dynastie Shunga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "シュンガ朝の第二代王"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "правитель империи Шунга"
+    }
+  },
+  "id": "Q2165",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فاسوميترا"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "বসুমিত্র"
+    },
+    "de": {
+      "language": "de",
+      "value": "Vasumitra"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vasumitra"
     },
     "es": {
       "language": "es",
-      "value": "King of Shunga IV - Vasumitra (131–124 BC)"
+      "value": "Vasumitra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Vasumitra"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "वसुमित्र"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヴァスミトラ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "바수미트라"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Vasumitra"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vasumitra"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਵਸੁਮਿਤਰ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Vasumitra de Magadha"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Vasumitra de Magadha"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Васумитра"
+    },
+    "sa": {
+      "language": "sa",
+      "value": "वसुमित्र"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "வசுமித்திரன்"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าวสุมิตร"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Васумітра"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "婆苏密多罗"
     }
   },
-  "lastrevid": 17584118,
-  "modified": "2025-09-17T18:07:26Z",
+  "lastrevid": 17404604,
+  "modified": "2025-09-15T21:41:38Z",
   "ns": 860,
-  "pageid": 204065,
-  "sitelinks": {},
-  "title": "Item:Q160900",
+  "pageid": 20604,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q2165",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q2165"
+    }
+  },
+  "title": "Item:Q2165",
   "type": "item"
 }

@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q51250$8884DA73-F1D0-4080-9AF4-A23B9290B572",
+        "id": "Q2269$83B90260-B386-447B-8812-C3AAFAB4B8CD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51235",
-              "numeric-id": 51235
+              "id": "Q2264",
+              "numeric-id": 2264
             }
           },
-          "hash": "0363d4af7713c0446bd06f89684a54ecd9511276",
+          "hash": "a26ebd2f64ede9b588248db812c4f2f105f5d97f",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q51250$3499947E-5C29-432B-BAAE-7F1198B896FA",
+        "id": "Q2269$1C25E458-7D16-4B52-AD93-8EA52AD0018A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q51250$10230012-1661-41DE-A5DC-57C1A2FDFF12",
+        "id": "Q2269$F0A2E559-FE29-498A-ADC3-38E0461D17E4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q51250$0E85CE7A-7804-481A-B7A8-D638158A3828",
+        "id": "Q2269$E31CB878-9DBE-44DE-804C-41A2FF69D174",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51265",
-              "numeric-id": 51265
+              "id": "Q2272",
+              "numeric-id": 2272
             }
           },
-          "hash": "945d4ac3a3108e6b7e47d7b71548f2bc5f52d037",
+          "hash": "baa0c2e9fda3019780aae0481888c7c055e07ba9",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q51250$1F9CFB8C-9DB2-4848-B40B-0A4AAA43875E",
+        "id": "Q2269$849220D8-8C77-4035-A5D8-EFE7A2A11F24",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -106,7 +106,7 @@
     ],
     "P94": [
       {
-        "id": "Q51250$3E658075-3922-4935-9286-FA0CC644F933",
+        "id": "Q2269$BD39D41A-8B8E-4262-BEE4-7C5ECF556C70",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -120,21 +120,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q161173$CC9C99A3-6C82-4DF7-D30B-7FF654D0D5D7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018557890889"
+          },
+          "hash": "e9494fb63f93890e20a2a2e3d2ec8efdcb5d8315",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q51250",
+  "id": "Q2269",
   "labels": {
     "en": {
       "language": "en",
       "value": "Drdhasena, King of Magadha"
     }
   },
-  "lastrevid": 17457368,
-  "modified": "2025-09-16T11:40:36Z",
+  "lastrevid": 17404708,
+  "modified": "2025-09-15T21:44:16Z",
   "ns": 860,
-  "pageid": 66125,
+  "pageid": 20768,
   "sitelinks": {},
-  "title": "Item:Q51250",
+  "title": "Item:Q2269",
   "type": "item"
 }

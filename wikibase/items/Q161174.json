@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161174$B2090092-366F-D67D-B499-A57472E26846",
+        "id": "Q51255$8A70BA06-75ED-4168-B7D4-F135539746E5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161161",
-              "numeric-id": 161161
+              "id": "Q51240",
+              "numeric-id": 51240
             }
           },
-          "hash": "b4db0f7d37cf05c48f06414b998736bd2fc251f6",
+          "hash": "4a2e1db66c6fe4f35ef33d6833a67d8af182d5ad",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161174$98B3002F-E911-4431-917E-F781314B8C52",
+        "id": "Q51255$2F2C4F55-D1F5-428D-AF21-B5C1B2454303",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161174$5D7D1047-D4F1-4848-9FD6-225D17071DCB",
+        "id": "Q51255$7A77BF28-276A-4B49-B921-A8DA810C9BFB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,7 +64,7 @@
     ],
     "P55": [
       {
-        "id": "Q161174$25243EFC-543C-3B78-723E-10F444F6DE0D",
+        "id": "Q51255$4AB3B36A-FD00-4728-AD56-3E48236712AA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -77,6 +77,23 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q51255$E709288D-2749-48C4-A74A-2959BE2C83C3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shishunaga Arms.svg"
+          },
+          "hash": "af96b6569b530a514ee5ecb2156652efd009df84",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -99,38 +116,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161174$738AFAEE-E919-4873-9AEB-269858C3545F",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Shishunaga Arms.svg"
-          },
-          "hash": "af96b6569b530a514ee5ecb2156652efd009df84",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161174",
+  "id": "Q51255",
   "labels": {
     "en": {
       "language": "en",
       "value": "Shishunaga"
     }
   },
-  "lastrevid": 17584498,
-  "modified": "2025-09-17T18:12:33Z",
+  "lastrevid": 17457370,
+  "modified": "2025-09-16T11:40:38Z",
   "ns": 860,
-  "pageid": 204339,
+  "pageid": 66129,
   "sitelinks": {},
-  "title": "Item:Q161174",
+  "title": "Item:Q51255",
   "type": "item"
 }

@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161147$1E535CD7-168A-63AD-9C1F-98A00B7E3C77",
+        "id": "Q2260$5DB2A2E8-70EE-4445-AE31-3D3CD79838D5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161130",
-              "numeric-id": 161130
+              "id": "Q2254",
+              "numeric-id": 2254
             }
           },
-          "hash": "96c4159980a0db0928ac0c2ee42a49748bb21800",
+          "hash": "f79bc3d1a956426dba33f80d99a3f3acb3758c02",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161147$096013BE-8E4C-43A0-8614-4D288DB54BCF",
+        "id": "Q2260$416CFABC-DE9F-4C47-96F9-0C0033A5986A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161147$2109CABA-9E54-4C8A-B8A2-38D0AB213E4C",
+        "id": "Q2260$F0C3E8FC-CF65-4CE2-8176-A55571A36EE2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,40 +64,19 @@
     ],
     "P47": [
       {
-        "id": "Q161147$11D1420B-FB46-D333-9436-ED39AC67182A",
+        "id": "Q2260$02512389-3A3C-46E1-B734-E3E690CBCB0E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160468",
-              "numeric-id": 160468
+              "id": "Q1928",
+              "numeric-id": 1928
             }
           },
-          "hash": "6657d1f7b35add4434cc2f0c2c499747d2aeeaff",
+          "hash": "ab3458450113a1dace22d83eee9e3519901a5867",
           "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P48": [
-      {
-        "id": "Q161147$2FD933F4-384B-F040-E7FB-B9FCC8EA18B7",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160469",
-              "numeric-id": 160469
-            }
-          },
-          "hash": "c848ba53429b555f7fddb3fe21807f6796702f2b",
-          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -106,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q161147$836BFC24-CE8F-BA90-F157-79E471BB7E27",
+        "id": "Q2260$EA73EF46-E5B7-41B4-9466-3EAD861CDA77",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -119,6 +98,44 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2260$4C576380-19AD-4CB7-89D0-ED1CF82FEA4F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haryanka Arms.svg"
+          },
+          "hash": "2b5b7f3e7d2b94b0a57a4ffc61cd8fbfd7c0414c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q51215$461DCB90-45A3-4FF4-90F5-867DE83A5F89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49557",
+              "numeric-id": 49557
+            }
+          },
+          "hash": "207e60e934086edde57449510770bc7e5919ce58",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -141,38 +158,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161147$0E7BC9CD-7447-4F77-B17C-00DB2DDFBD3C",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Haryanka Arms.svg"
-          },
-          "hash": "2b5b7f3e7d2b94b0a57a4ffc61cd8fbfd7c0414c",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161147",
+  "id": "Q2260",
   "labels": {
     "en": {
       "language": "en",
       "value": "Haryanka"
     }
   },
-  "lastrevid": 17584476,
-  "modified": "2025-09-17T18:12:14Z",
+  "lastrevid": 17404695,
+  "modified": "2025-09-15T21:44:01Z",
   "ns": 860,
-  "pageid": 204312,
+  "pageid": 20755,
   "sitelinks": {},
-  "title": "Item:Q161147",
+  "title": "Item:Q2260",
   "type": "item"
 }

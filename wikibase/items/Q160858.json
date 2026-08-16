@@ -1,20 +1,31 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pulindaka"
+      },
+      {
+        "language": "en",
+        "value": "King of Shunga VI - Pulindaka (122–119 BC)"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q160858$AE12D6BA-6C69-4A4A-AAA2-26BB0B64C357",
+        "id": "Q2134$A18C856E-B59A-484B-8210-47C7E92DFBE7",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160830",
-              "numeric-id": 160830
+              "id": "Q2117",
+              "numeric-id": 2117
             }
           },
-          "hash": "e6cbcec4aece02ac6c25c2a609f68c1ba11863a9",
+          "hash": "24695493139a13d32b92f5f6d802d5629706765e",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +35,7 @@
     ],
     "P39": [
       {
-        "id": "Q160858$38A5ECA7-8FD2-4DBE-A8C7-3AB0FA18E553",
+        "id": "Q2134$6659D08D-826C-48D9-AC44-28FEE43EE2F1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +54,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160858$E155085D-10DD-4C0F-9BC6-09E1C3FB04C2",
+        "id": "Q2134$BAD5FF9A-2625-4D11-95B8-645C1158A9B8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,63 +73,21 @@
         "type": "statement"
       }
     ],
-    "P42": [
-      {
-        "id": "Q160858$A3B22C8B-4ADD-505D-BB39-6B5633B6CA53",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160859",
-              "numeric-id": 160859
-            }
-          },
-          "hash": "a9526e758fe9521876cec777d4b63bb8772efd83",
-          "property": "P42",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P47": [
       {
-        "id": "Q160858$5EC813F3-5AA2-2A33-B058-EFBE100D4AAA",
+        "id": "Q2134$36C6DFD8-D57E-4A48-8344-D6924C3444FF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160882",
-              "numeric-id": 160882
+              "id": "Q2150",
+              "numeric-id": 2150
             }
           },
-          "hash": "19de78e104d4de99ecc760ddfd930a9eb5682677",
+          "hash": "421d6423c6380f45a45d5c569065cedc73f8f9d6",
           "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P48": [
-      {
-        "id": "Q160858$405C5181-556E-AFC8-C86C-F91AFFC063E7",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160883",
-              "numeric-id": 160883
-            }
-          },
-          "hash": "219ebd7f8fdfab16e0cf98572dcea751ac914fe8",
-          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -127,7 +96,7 @@
     ],
     "P55": [
       {
-        "id": "Q160858$F3EED618-CB1B-C8C5-EB95-056531209923",
+        "id": "Q2134$10E7D6DD-9114-44F0-9908-B0B3D325D9D7",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -140,6 +109,109 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2134$83290F35-0E2D-4DC6-A25A-0D15D2AFEFA2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0119-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "318881ad054602df49d8087a16c5dd929fc779bf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q2134$A32E1712-1AC6-49C9-BCFE-AAB203195CA9",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "King of Shunga VI - Pulindaka (122–119 BC) //"
+            }
+          },
+          "hash": "17f3541b2651f12a150ca1edccda63920d985725",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2134$357800EC-A850-48B0-BA86-CD2663C4E563",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pulindaka Arms.svg"
+          },
+          "hash": "9b23c2ac3acfa9b14701e84b4bd7ecc8e7c7bc35",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50597$F598BDD2-1F92-48F4-8A4B-F69DFF9AFABB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50601",
+              "numeric-id": 50601
+            }
+          },
+          "hash": "f0eaef6882c6572cc8d8b8a27992ca96887cbd5b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q50597$928278C7-5076-4904-9DD2-09B6BDD7C6A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50649",
+              "numeric-id": 50649
+            }
+          },
+          "hash": "d2519b9e8d4b7e8580d7365ddadd89cf0d0e0daf",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -162,42 +234,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160858$0E91CF89-04A6-4C76-8132-303079C44AE7",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "King of Shunga VI - Pulindaka (122119 BC) Arms.svg"
-          },
-          "hash": "c7aa3488d669e3abdd16a289e24b5f7d06990d82",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160858",
+  "id": "Q2134",
   "labels": {
     "en": {
       "language": "en",
-      "value": "King of Shunga VI - Pulindaka (122119 BC)"
-    },
-    "es": {
-      "language": "es",
-      "value": "King of Shunga VI - Pulindaka (122–119 BC)"
+      "value": "Pulindaka"
     }
   },
-  "lastrevid": 17584034,
-  "modified": "2025-09-17T18:06:08Z",
+  "lastrevid": 17404578,
+  "modified": "2025-09-15T21:41:03Z",
   "ns": 860,
-  "pageid": 204023,
+  "pageid": 20554,
   "sitelinks": {},
-  "title": "Item:Q160858",
+  "title": "Item:Q2134",
   "type": "item"
 }

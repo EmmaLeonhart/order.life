@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q51119$A3405C81-F113-4D80-A2C1-F0C3CBE8E6E7",
+        "id": "Q2240$472CE713-64F9-4997-A2F9-584CBADB9849",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51104",
-              "numeric-id": 51104
+              "id": "Q2236",
+              "numeric-id": 2236
             }
           },
-          "hash": "ce3c57cf1167737333884cb27fc83575a7309e49",
+          "hash": "f53524fa23383d16768135a9ae2e76e5ed266987",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q51119$F962D108-B773-4E7B-9B17-42F0C4516E7B",
+        "id": "Q2240$D4E6B606-7A20-4FD9-B70E-17179C09DDE0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q51119$D546F293-D6D9-4D4F-8734-90247D9FA26E",
+        "id": "Q2240$15F3C258-0406-41B9-BE89-D9080FFCAD99",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q51119$883AA10F-5310-4461-AFBE-71E0756E0849",
+        "id": "Q2240$66CFFE98-0C13-4C13-B769-61D746591B24",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51139",
-              "numeric-id": 51139
+              "id": "Q2244",
+              "numeric-id": 2244
             }
           },
-          "hash": "54ea8bb8a6208fc5c6a0c84c5d7938b22f47f84f",
+          "hash": "b87c36f8b35036f22fa6c57363866cfa9e4b7c3e",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,18 +85,18 @@
     ],
     "P48": [
       {
-        "id": "Q51119$4BD613D1-D786-4BD6-89E6-64D8C5581D45",
+        "id": "Q2240$C2A81946-8955-466E-8D58-388A291939C5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51134",
-              "numeric-id": 51134
+              "id": "Q2243",
+              "numeric-id": 2243
             }
           },
-          "hash": "85427601acc329540aee8aa498af2796d33024bf",
+          "hash": "3321a9f6bc00ac79f3b6da1507b8f545979f8ab6",
           "property": "P48",
           "snaktype": "value"
         },
@@ -106,7 +106,7 @@
     ],
     "P55": [
       {
-        "id": "Q51119$DBA2414F-31D6-49F6-BB8F-2F96D5ED35DE",
+        "id": "Q2240$9C2D902B-C782-45FF-8D1B-E2EA1B905A07",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -127,7 +127,7 @@
     ],
     "P94": [
       {
-        "id": "Q51119$029EF307-909E-435E-9501-F35610E2CDAD",
+        "id": "Q2240$907B6EDD-25FF-4571-837B-D14821531A51",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -141,21 +141,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q161084$0E6B8E89-0A09-9EE0-C6F7-C275D3A51415",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018546054318"
+          },
+          "hash": "8562e90d729ba4794337a990bf0e1f6921f1db3c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q51119",
+  "id": "Q2240",
   "labels": {
     "en": {
       "language": "en",
       "value": "Nandivardha Anuruddha, King of Magadha"
     }
   },
-  "lastrevid": 17457308,
-  "modified": "2025-09-16T11:39:44Z",
+  "lastrevid": 17404664,
+  "modified": "2025-09-15T21:43:30Z",
   "ns": 860,
-  "pageid": 66020,
+  "pageid": 20725,
   "sitelinks": {},
-  "title": "Item:Q51119",
+  "title": "Item:Q2240",
   "type": "item"
 }

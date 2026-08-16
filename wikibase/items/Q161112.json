@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161112$3AD4B7E7-F2BC-C543-AC7F-A86C8DF2F8B6",
+        "id": "Q51159$F41A8E17-DDC4-4D93-BD04-ED47F0DF0932",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161098",
-              "numeric-id": 161098
+              "id": "Q2244",
+              "numeric-id": 2244
             }
           },
-          "hash": "b9f613afd8dffd38592509bb232cdbd3b95e35cc",
+          "hash": "ba6e33b51ee03aadbde96953de28641f5c51f704",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161112$2D056A63-55DE-43B3-A13C-AC049EFEC3CA",
+        "id": "Q51159$20BE6648-3587-47BC-A0AD-A17271B0914C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161112$BCF8D543-0FF7-4416-B18E-1CD9F4C7293C",
+        "id": "Q51159$4F210ACA-0A48-430A-BF90-31CB61511B5C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P42": [
       {
-        "id": "Q161112$4D8F1D31-2C8D-69F1-8FDE-14A2F1F36AE9",
+        "id": "Q51159$10048639-539F-4D9A-8415-173C4BA7380A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161113",
-              "numeric-id": 161113
+              "id": "Q2249",
+              "numeric-id": 2249
             }
           },
-          "hash": "98612cee968507e16be8a028befaee48226ce765",
+          "hash": "c7e35c3d2f30554f9e2f18654801adfee8f2a250",
           "property": "P42",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q161112$6003DAD3-B50F-B142-957B-6FAD21B1FB11",
+        "id": "Q51159$A78A41E1-12FD-443F-9A50-65D183E7A2DA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,23 @@
           },
           "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q51159$324A6178-CF24-40B6-80A3-9FA78DD4AB51",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Chellana Arms.svg"
+          },
+          "hash": "71e4829ddd27b5bcf0b8d726a53a7d6762903592",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +137,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161112$E81BF08D-40AC-4C84-8CF9-EE7D2A8E9937",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Chellana Arms.svg"
-          },
-          "hash": "71e4829ddd27b5bcf0b8d726a53a7d6762903592",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161112",
+  "id": "Q51159",
   "labels": {
     "en": {
       "language": "en",
       "value": "Chellana"
     }
   },
-  "lastrevid": 17584450,
-  "modified": "2025-09-17T18:11:54Z",
+  "lastrevid": 17457332,
+  "modified": "2025-09-16T11:40:05Z",
   "ns": 860,
-  "pageid": 204277,
+  "pageid": 66052,
   "sitelinks": {},
-  "title": "Item:Q161112",
+  "title": "Item:Q51159",
   "type": "item"
 }

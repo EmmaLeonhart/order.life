@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q160859$A55B7E4B-1DD0-5BDF-B6C7-9FD27D6676F0",
+        "id": "Q50601$99A8DF5E-D65D-41AD-AC20-9768DA86E383",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160830",
-              "numeric-id": 160830
+              "id": "Q2117",
+              "numeric-id": 2117
             }
           },
-          "hash": "e6cbcec4aece02ac6c25c2a609f68c1ba11863a9",
+          "hash": "3481020a91e9f39ff8857fae71eeabc2fb8462d9",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q160859$5872FCC7-3268-45F8-8EF1-610165CCD4D5",
+        "id": "Q50601$0234A18D-D6D0-4003-9962-7847AAC7C9D4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160859$20BFA3E0-F1E8-4D35-BF80-0CCCACE404B9",
+        "id": "Q50601$5486CD72-0974-463F-9D93-512EE54F1709",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P42": [
       {
-        "id": "Q160859$83CD01E3-14DC-1D68-0029-EAD99C2D5348",
+        "id": "Q50601$8F9D84ED-16AF-4138-960E-4D07DC2C9FC1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160858",
-              "numeric-id": 160858
+              "id": "Q2134",
+              "numeric-id": 2134
             }
           },
-          "hash": "3565807d158c7636880102c3c855db6b9a3b323b",
+          "hash": "a263201e45d77f3665b966d203371b78b3707b0b",
           "property": "P42",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q160859$BED4FCBA-BEFC-CA02-EB36-2E89407B0C02",
+        "id": "Q50601$4F9F0A41-CA51-4C5E-B1DE-DF601390B663",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,23 @@
           },
           "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50601$02810074-03E6-432A-9B81-124FA3C85B76",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "NN (Wife of Pulindaka) Arms.svg"
+          },
+          "hash": "66d92d751ca048daf97fbf5fd1ca02c7633ee533",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +137,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160859$8580587F-B7A9-479A-A9AF-E4FB080AE897",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "NN (Wife of Pulindaka) Arms.svg"
-          },
-          "hash": "66d92d751ca048daf97fbf5fd1ca02c7633ee533",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160859",
+  "id": "Q50601",
   "labels": {
     "en": {
       "language": "en",
       "value": "NN (Wife of Pulindaka)"
     }
   },
-  "lastrevid": 17584036,
-  "modified": "2025-09-17T18:06:10Z",
+  "lastrevid": 17456896,
+  "modified": "2025-09-16T11:33:38Z",
   "ns": 860,
-  "pageid": 204024,
+  "pageid": 65615,
   "sitelinks": {},
-  "title": "Item:Q160859",
+  "title": "Item:Q50601",
   "type": "item"
 }

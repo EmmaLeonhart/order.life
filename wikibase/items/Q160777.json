@@ -1,20 +1,31 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bhagabhadra"
+      },
+      {
+        "language": "en",
+        "value": "King of Shunga IX - Bhagabhadra (110-83 BC)"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q160777$D5CD56E1-6BB5-A781-ACC7-73577946408A",
+        "id": "Q2086$0AFDA74B-450B-41D6-A79D-3BA50BD30F07",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160757",
-              "numeric-id": 160757
+              "id": "Q2074",
+              "numeric-id": 2074
             }
           },
-          "hash": "e43da94fe85c26749813e8bf0b1d00baf2efd48f",
+          "hash": "f615702a6ffbd5f4f7d6978c98cc64f0f20d9d3c",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +35,7 @@
     ],
     "P39": [
       {
-        "id": "Q160777$A6026BEA-0485-4230-954F-1AC33C67146E",
+        "id": "Q2086$4CABCC6C-29A7-4A9A-8E63-546D72DDE680",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +54,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160777$DB4960F7-6A9F-42DC-B661-0D6373689ADB",
+        "id": "Q2086$A918F967-A2F9-450F-94EA-6C4BA6199EEC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,63 +73,21 @@
         "type": "statement"
       }
     ],
-    "P42": [
-      {
-        "id": "Q160777$DEE1B958-DD68-EB0B-1800-3CF3E39A2132",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160778",
-              "numeric-id": 160778
-            }
-          },
-          "hash": "8ec1d34940ce8593e17f4cb2c50e9adfc3b83da5",
-          "property": "P42",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P47": [
       {
-        "id": "Q160777$75D9A323-6A8D-4493-0A42-F6FEECD425FC",
+        "id": "Q2086$1D547BA7-44E1-4EEB-B06F-742252097974",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160803",
-              "numeric-id": 160803
+              "id": "Q2101",
+              "numeric-id": 2101
             }
           },
-          "hash": "78d13db4ec741b298462528e0706a3957c8349de",
+          "hash": "b623512cb1faf63953e2aee86e2d21f6724883c9",
           "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P48": [
-      {
-        "id": "Q160777$EC329A1F-B8C4-FF74-D635-21726B831F57",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160804",
-              "numeric-id": 160804
-            }
-          },
-          "hash": "fe8fe2e09b8d628405c147e36fd666ab18797fd4",
-          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -127,7 +96,7 @@
     ],
     "P55": [
       {
-        "id": "Q160777$D297BCF5-34A4-1CEB-A330-6DCCE2B11749",
+        "id": "Q2086$E0F6D734-F4D4-4D27-B693-F34F0FD4FF57",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -140,6 +109,126 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2086$0B931C19-B778-493A-8942-CB8190BC5A5B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0083-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f9f721eb3770829a59278c6e9542159ec1e1fe3d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q2086$0F4EFE52-DC4F-4537-B987-8BACF0B291A7",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "King of Shunga IX - Bhagabhadra (110-83 BC) //"
+            }
+          },
+          "hash": "737a4c0195b945fcf05cda6873948ac7e39fe9f3",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q2086$44E1FC23-4C93-2C26-364C-59200CA7BF0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q854679"
+          },
+          "hash": "ac7fa57616179b92a30946025c8e8a436e0d42c7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2086$46A81581-0BCE-4EA8-AE0F-E87CD2CF822A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bhagabhadra Arms.svg"
+          },
+          "hash": "e0634d6d3bba1884a42e2923bd29b353bdc19e33",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50412$9A22A887-E5A8-48D1-A12A-EECA53EF922C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50416",
+              "numeric-id": 50416
+            }
+          },
+          "hash": "39566c1d82d4582ce67e4c76baf4b66ca1250be7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q50412$F8981432-861C-4159-8717-ECC23073E6BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50468",
+              "numeric-id": 50468
+            }
+          },
+          "hash": "5b201e202740337e737b721986cadc4fa6d7c9b3",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -162,38 +251,117 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160777$CE2C2587-04EF-44E9-9515-84DB2AB6E313",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "King of Shunga IX - Bhagabhadra (110-83 BC) Arms.svg"
-          },
-          "hash": "894be4e6816d1dc4feebbc3951913233df89c5ce",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q160777",
-  "labels": {
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "předposlední král z dynastie Šungů"
+    },
+    "de": {
+      "language": "de",
+      "value": "indischer Herrscher der Shunga-Dynastie"
+    },
     "en": {
       "language": "en",
-      "value": "King of Shunga IX - Bhagabhadra (110-83 BC)"
+      "value": "shunga Emperor"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador de la dinastía india Sunga"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur Shunga"
     }
   },
-  "lastrevid": 17583874,
-  "modified": "2025-09-17T18:04:01Z",
+  "id": "Q2086",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "بهاجابهادرا"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ভগভদ্র"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bhagabhadra"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bhagabhadra"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bhagabhadra"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bhagabhadra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bhagabhadra"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "भगभद्र"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bhagabhadra"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "바가바드라"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bhagabhadra"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਭਗਭਦਰ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Bhagabhadra de Magadha"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Bhagabhadra de Magadha"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Bhagabhadra"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பாஹபத்ரா"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าภคภัทร"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Бхагабхадра"
+    }
+  },
+  "lastrevid": 17404531,
+  "modified": "2025-09-15T21:39:48Z",
   "ns": 860,
-  "pageid": 203942,
-  "sitelinks": {},
-  "title": "Item:Q160777",
+  "pageid": 20475,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q2086",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q2086"
+    }
+  },
+  "title": "Item:Q2086",
   "type": "item"
 }

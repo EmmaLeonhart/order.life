@@ -1,20 +1,27 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kalasoka Kakavara, King of Magadha"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q51073$327C6D32-54BA-49E2-8D8B-5D1C6733DD30",
+        "id": "Q2229$AFEE9671-3801-430B-AF12-7459BEAAEEDB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51053",
-              "numeric-id": 51053
+              "id": "Q2226",
+              "numeric-id": 2226
             }
           },
-          "hash": "e3cf61f05b42069ebdea8280c6e9c38c3f9c9d13",
+          "hash": "e20323bdaae331122ccbe988b196460129292d55",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +31,7 @@
     ],
     "P39": [
       {
-        "id": "Q51073$1115C2C3-C4DB-4E2F-A6E5-E34E7C3C34E5",
+        "id": "Q2229$AFA7C68A-4410-49C8-AE2E-E6445F075CC8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +50,7 @@
         "type": "statement"
       },
       {
-        "id": "Q51073$688926CC-0AC8-488A-9AD1-85FA4C78C057",
+        "id": "Q2229$FFDC57F9-B0A0-4F3F-AA29-2ACF122FB2BE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +71,18 @@
     ],
     "P47": [
       {
-        "id": "Q51073$7F675274-5F42-462B-8A7A-EF0E7405B4E4",
+        "id": "Q2229$2ECD2351-6121-4178-9343-97581449CEF6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51089",
-              "numeric-id": 51089
+              "id": "Q2233",
+              "numeric-id": 2233
             }
           },
-          "hash": "9fa9c1e96307bc6771f482ea7600bc8b1b62e141",
+          "hash": "12d5e3c13f217c2dcea2486938ecc89d47c3e8ef",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q51073$A4F1D6D0-A6D1-4A66-A90A-5F91719CA0F1",
+        "id": "Q2229$DC714330-9272-43BE-9E0A-4E702990828F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -104,17 +111,51 @@
         "type": "statement"
       }
     ],
+    "P61": [
+      {
+        "id": "Q2229$0650E59F-4678-10E0-2B31-4C47F5C13CC9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10313627"
+          },
+          "hash": "28ec1cc57d484be88158a306f758b144e92dd28b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P94": [
       {
-        "id": "Q51073$5B2735C3-D1C2-4472-853F-305BE7DF8B48",
+        "id": "Q2229$F9FA24BD-F2C7-4A6B-976D-52535E88FBA3",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
             "type": "string",
-            "value": "Kalasoka Kakavara, King of Magadha Arms.svg"
+            "value": "Kakavarna Kalashoka Arms.svg"
           },
-          "hash": "7f98e3da64e98dfda573727fcffe8ae570d9fe4a",
+          "hash": "49ecd06a4a98cdc79a86ce488f302c005725990b",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q161053$F93ACC7E-A5B3-5667-92FF-22015E9D214D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018549321275"
+          },
+          "hash": "e6c8a73f802a26a47ee551cdbca252f50b32d850",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -122,19 +163,84 @@
       }
     ]
   },
-  "descriptions": {},
-  "id": "Q51073",
-  "labels": {
+  "descriptions": {
     "en": {
       "language": "en",
-      "value": "Kalasoka Kakavara, King of Magadha"
+      "value": "King of Magadha from c. 395 BC to c. 367 BC"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "правитель Магадхи из династии Шайшунага"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Vua nước Magadha"
     }
   },
-  "lastrevid": 17457280,
-  "modified": "2025-09-16T11:39:19Z",
+  "id": "Q2229",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "কাকবর্ণ কালাশোক"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kakavarna Kalashoka"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kakavarna Kalashoka"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "कालाशोक"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "칼라쇼카"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kalashoka"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Kakavarna de Magadha"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Kakavarna de Magadha"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Калашока"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kakavarna Kalashoka"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้ากลาโศก"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Какаварна"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Kakavarna Kalashoka"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "迦罗输伽"
+    }
+  },
+  "lastrevid": 17404652,
+  "modified": "2025-09-15T21:43:16Z",
   "ns": 860,
-  "pageid": 65984,
+  "pageid": 20709,
   "sitelinks": {},
-  "title": "Item:Q51073",
+  "title": "Item:Q2229",
   "type": "item"
 }

@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161033$42CEE8DA-A1F9-78A3-C0A6-D91F80A43015",
+        "id": "Q51028$9771DF5D-372B-4485-91E2-725AD232AB5D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161019",
-              "numeric-id": 161019
+              "id": "Q50983",
+              "numeric-id": 50983
             }
           },
-          "hash": "6ca933834a4e43e46cd593cadfbf810a30eb3217",
+          "hash": "39db2ada590c714bf7339f996497bff3ac09d95c",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161033$97AAF337-22F2-417E-BA85-709A0FDEEC0F",
+        "id": "Q51028$C5F58C93-9404-4897-8C92-597D65CF4F2D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161033$B8E377EF-09DD-4368-9E1F-30676F9252E8",
+        "id": "Q51028$149B28AB-CD68-4106-A8B0-59E7FFDD931B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P42": [
       {
-        "id": "Q161033$B957B506-57D4-3BA4-E922-072FEB25F4A7",
+        "id": "Q51028$82AB0FEC-E371-44AB-80AD-1AC8E78023A6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161034",
-              "numeric-id": 161034
+              "id": "Q51033",
+              "numeric-id": 51033
             }
           },
-          "hash": "82947621bf51a3bbc52daffd53359709331e783a",
+          "hash": "5935c050c133ac00c190ed9f24568086d472d2b2",
           "property": "P42",
           "snaktype": "value"
         },
@@ -85,19 +85,39 @@
     ],
     "P47": [
       {
-        "id": "Q161033$FD3472DF-69BD-64FD-ED11-DA2799523272",
+        "id": "Q51028$825C3EAB-D186-49CB-BAF2-68DEDAE2900B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161045",
-              "numeric-id": 161045
+              "id": "Q51058",
+              "numeric-id": 51058
             }
           },
-          "hash": "f704641e0fbef7b6f05dff44d52108a31ff38fb4",
+          "hash": "f644ac72bd11ed741720397aff0c613823e54701",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q51028$1FEA8789-4895-43BC-A286-414909ECA87A",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Dhana /Nanda/"
+            }
+          },
+          "hash": "1e2a254681cdbef1e2e48f1aac6377ef5ad4a0f0",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -106,7 +126,7 @@
     ],
     "P55": [
       {
-        "id": "Q161033$83F2189E-B01B-AAD8-72AE-9B02B1BE5F8C",
+        "id": "Q51028$1BEF5D41-68F7-45E4-8ADD-30E1F2BAE6E5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -119,6 +139,23 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q51028$76FF4474-A349-40A6-8DD3-01F31EEB1C2F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dhana  Nanda Arms.svg"
+          },
+          "hash": "1b3c4d788dceda2e78774a67b0606ec789084c94",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -141,38 +178,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161033$76DFB91C-D9FD-4EE5-8131-A0BDBC44E3C8",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Dhana Nanda Arms.svg"
-          },
-          "hash": "acbbb416251fd7723d78ff95bbfc66e81a853be2",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161033",
+  "id": "Q51028",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Dhana Nanda"
+      "value": "Dhana  Nanda"
     }
   },
-  "lastrevid": 17584380,
-  "modified": "2025-09-17T18:10:56Z",
+  "lastrevid": 17457252,
+  "modified": "2025-09-16T11:38:54Z",
   "ns": 860,
-  "pageid": 204198,
+  "pageid": 65948,
   "sitelinks": {},
-  "title": "Item:Q161033",
+  "title": "Item:Q51028",
   "type": "item"
 }

@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161098$BFCA242D-ECC1-F422-9137-893B0D151E29",
+        "id": "Q2244$9F691B50-5264-4506-89C4-435BED19EBF0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161084",
-              "numeric-id": 161084
+              "id": "Q2240",
+              "numeric-id": 2240
             }
           },
-          "hash": "90a1606a71dc855a0af92e8b1cda67fbf4d4988d",
+          "hash": "f8396ea947a038b624626f9425a587c1cb8a6884",
           "property": "P20",
           "snaktype": "value"
         },
@@ -43,7 +43,7 @@
     ],
     "P39": [
       {
-        "id": "Q161098$50971A54-1BF7-4B0C-87F3-D100C7310B50",
+        "id": "Q2244$28A410A5-9FF7-448A-A312-ECEBA8373437",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,7 +62,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161098$7E431F3B-8F51-4623-BF8B-16E7C39493B9",
+        "id": "Q2244$3128C030-9A30-415B-A81A-88E3E00E08F1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -83,18 +83,18 @@
     ],
     "P42": [
       {
-        "id": "Q161098$D028DBD2-119B-72BE-3E3C-8987A27BEACC",
+        "id": "Q2244$48A882E0-BB28-42E2-BD90-477631C8E9A6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161097",
-              "numeric-id": 161097
+              "id": "Q2243",
+              "numeric-id": 2243
             }
           },
-          "hash": "59089c7a704046ef2092d41cfbc96dff1ad07f7a",
+          "hash": "ed610db5c9dc5ac68467916edbf88ca29de574f1",
           "property": "P42",
           "snaktype": "value"
         },
@@ -104,40 +104,19 @@
     ],
     "P47": [
       {
-        "id": "Q161098$25D0ADC9-F9CD-E214-EC88-70D056C9727F",
+        "id": "Q2244$579F9181-ACF1-4309-964F-1F8B74243B67",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161113",
-              "numeric-id": 161113
+              "id": "Q2249",
+              "numeric-id": 2249
             }
           },
-          "hash": "94447e7bc05be6695ae9be0db41fd293279d0a18",
+          "hash": "b6014cb8d84f6828ab101247e0ce52a93da178d6",
           "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P48": [
-      {
-        "id": "Q161098$45032557-1136-EF75-9EE3-DBF567161FFE",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q161112",
-              "numeric-id": 161112
-            }
-          },
-          "hash": "da7c10aec7010fd22135ba7b6353759841f8ea49",
-          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -146,7 +125,7 @@
     ],
     "P55": [
       {
-        "id": "Q161098$1A3AB498-E476-55EF-A176-561E3D4F6524",
+        "id": "Q2244$7764EB31-5340-4F12-90FC-0155176B2C8E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -159,6 +138,92 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q2244$222B8823-3FB7-44F4-BB0B-24813EAE58D4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0491-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e99ea53beb96e2ff4762c43102254867acfff9e9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2244$BF9DB677-9FE4-461B-9953-B80F56EE02A7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0461-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "603bdb34190da5ea99505e5291581c4bb6f82e3c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2244$6FC87D2F-89ED-4972-B15D-7CA0DA2D15CD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ajatasatru Kunika, King of Magadha Arms.svg"
+          },
+          "hash": "7f543d53e91dba5b6745cf2d02c534ba625c3b99",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q51139$E297860A-E009-4FAB-B62C-9D024AAC43EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51159",
+              "numeric-id": 51159
+            }
+          },
+          "hash": "b8650db0ce38b77c412653d98aea0869a2f9e3cf",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -181,38 +246,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161098$1C6979FE-FCA4-4E4B-9D59-667C86D3AF91",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "AJATASHATRU KUNIKA Arms.svg"
-          },
-          "hash": "e068d8d489a5a31ed3ecfeea245511f54ddc89ba",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161098",
+  "id": "Q2244",
   "labels": {
     "en": {
       "language": "en",
-      "value": "AJATASHATRU KUNIKA"
+      "value": "Ajatasatru Kunika, King of Magadha"
     }
   },
-  "lastrevid": 17584440,
-  "modified": "2025-09-17T18:11:45Z",
+  "lastrevid": 17404668,
+  "modified": "2025-09-15T21:43:35Z",
   "ns": 860,
-  "pageid": 204263,
+  "pageid": 20730,
   "sitelinks": {},
-  "title": "Item:Q161098",
+  "title": "Item:Q2244",
   "type": "item"
 }

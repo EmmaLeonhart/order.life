@@ -1,20 +1,31 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agnimitra"
+      },
+      {
+        "language": "en",
+        "value": "King of Shunga II - Agnimitra (149–141 BC)"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q160916$7600CCBF-49AB-E53A-3B24-3A7C81A20AEF",
+        "id": "Q2175$9FD03E1D-000C-4267-A3AE-47545FA0EBBE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160900",
-              "numeric-id": 160900
+              "id": "Q2165",
+              "numeric-id": 2165
             }
           },
-          "hash": "c2aa8997df28edc67b6fe7a89d0621208ef9bf2f",
+          "hash": "36b8a4a79990583f13d90d94f4779222c995fc72",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +35,7 @@
     ],
     "P39": [
       {
-        "id": "Q160916$3DAC6B0B-EA07-489C-8EB3-796E9970AA21",
+        "id": "Q2175$02410274-C37E-49F3-8DCB-00013374BB91",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +54,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160916$02FEF913-3824-4319-9C32-AE95DCBA45C6",
+        "id": "Q2175$0BEAC77A-DBAE-4E44-858D-8C8CA02A3864",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,62 +73,20 @@
         "type": "statement"
       }
     ],
-    "P42": [
-      {
-        "id": "Q160916$6B090221-6896-F602-1E1D-CA0836EB8BF7",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160915",
-              "numeric-id": 160915
-            }
-          },
-          "hash": "1756348948e82eaea5ad6278bae6e63222ec2443",
-          "property": "P42",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P47": [
-      {
-        "id": "Q160916$C9539B7E-DE98-3A71-FFDF-A8AEADAA4E8B",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q160932",
-              "numeric-id": 160932
-            }
-          },
-          "hash": "f758ac2451d6b8d573288f48ba9f8429169aa503",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P48": [
       {
-        "id": "Q160916$FF17C457-CB3D-AEEB-50E3-BFBD9EED2316",
+        "id": "Q2175$F744E777-0349-4D3C-B8E2-757F453EA687",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160933",
-              "numeric-id": 160933
+              "id": "Q2181",
+              "numeric-id": 2181
             }
           },
-          "hash": "f2efd5564f867f6e2e6612ec3a26735bf5e01769",
+          "hash": "5d3d44e0239c7c5924682aa445d63a0517daa6b1",
           "property": "P48",
           "snaktype": "value"
         },
@@ -127,7 +96,7 @@
     ],
     "P55": [
       {
-        "id": "Q160916$30C5D1BD-4C17-5F4B-B69F-5558D9D5F428",
+        "id": "Q2175$0B6CBB46-FAAD-430D-80E3-F85D79B7CC70",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -140,6 +109,126 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2175$5DFB9E09-B53C-483E-BC89-AE8D943D9D73",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0141-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "62e9e2c85297c4242e2f4037e2830496e9571302",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q2175$60946ACF-6994-4454-B6D2-9A40BAF5800F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "King of Shunga II - Agnimitra (149–141 BC) //"
+            }
+          },
+          "hash": "0d424c1dd2d35966b4cfad5ca7859134fddec3a6",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q2175$33020475-4D88-83EF-D2C2-86D64F792D25",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24395"
+          },
+          "hash": "321e9b09bea60b8a7cac0c00c213a19b6e1c8eb1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2175$11CE8FF0-063C-432C-A1C6-B58DD832E854",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agnimitra Arms.svg"
+          },
+          "hash": "1aab79ec36bb2a25936519f42d32aab7cacc7b8a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50725$E91B1502-A276-4C70-94DB-386E902CEBB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50721",
+              "numeric-id": 50721
+            }
+          },
+          "hash": "19f64f08702303f79f72ea366896377214bec975",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50725$8787DB65-5D2C-446F-B397-1BC86A1B4D11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50754",
+              "numeric-id": 50754
+            }
+          },
+          "hash": "c2356530f52d6cdfebd4cf78d331f4564ffb3944",
+          "property": "P47",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -162,42 +251,173 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160916$6EFCDE60-3BE8-4618-B114-7829E05E83BD",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "King of Shunga II - Agnimitra (149141 BC) Arms.svg"
-          },
-          "hash": "9370fa3deef0714dbd6c369fd474230462c5b5fc",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q160916",
-  "labels": {
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "rei de la dinastía Sunga"
+    },
+    "de": {
+      "language": "de",
+      "value": "König der Shunga-Dynastie"
+    },
     "en": {
       "language": "en",
-      "value": "King of Shunga II - Agnimitra (149141 BC)"
+      "value": "king of the Sunga dynasty of northern India"
     },
     "es": {
       "language": "es",
-      "value": "King of Shunga II - Agnimitra (149–141 BC)"
+      "value": "rey de la dinastía Sunga"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Empereur de la dynastie Shunga"
+    },
+    "te": {
+      "language": "te",
+      "value": "శుంగ చక్రవర్తి"
     }
   },
-  "lastrevid": 17584150,
-  "modified": "2025-09-17T18:07:52Z",
+  "id": "Q2175",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اجنيميترا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Agnimitra"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "অগ্নিমিত্র"
+    },
+    "de": {
+      "language": "de",
+      "value": "Agnimitra"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agnimitra"
+    },
+    "es": {
+      "language": "es",
+      "value": "Agnimitra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agnimitra"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "અગ્નિમિત્ર"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "अग्निमित्र"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Agnimitra"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アグニミトラ"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಅಗ್ನಿಮಿತ್ರ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아그니미트라"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "അഗ്നിമിത്രൻ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "अग्निमित्र शुंग"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Agnimitra"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Agnimitra"
+    },
+    "or": {
+      "language": "or",
+      "value": "ଅଗ୍ନିମିତ୍ର"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਅਗਨੀਮਿਤਰ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Agnimitra"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Agnimitra"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Agnimitra"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агнимитра"
+    },
+    "sa": {
+      "language": "sa",
+      "value": "अग्निमित्र"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Agnimitra"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Agnimitra"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "அக்கினிமித்திரன்"
+    },
+    "te": {
+      "language": "te",
+      "value": "అగ్నిమిత్ర"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าอัคนิมิตร"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Агнімітра"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿耆尼密多罗"
+    }
+  },
+  "lastrevid": 17404608,
+  "modified": "2025-09-15T21:41:50Z",
   "ns": 860,
-  "pageid": 204081,
-  "sitelinks": {},
-  "title": "Item:Q160916",
+  "pageid": 20621,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q2175",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q2175"
+    }
+  },
+  "title": "Item:Q2175",
   "type": "item"
 }
