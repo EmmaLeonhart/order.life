@@ -3,7 +3,7 @@
   "claims": {
     "P20": [
       {
-        "id": "Q153485$909EA38A-0F93-4E20-AF04-0C0C965EFBDF",
+        "id": "Q50436$41D9712E-2302-4035-876C-1957945EF874",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -14,7 +14,7 @@
               "numeric-id": 2079
             }
           },
-          "hash": "c7b38829f96c0acde4a24dc2e1edd3bf59077673",
+          "hash": "a6b668df67709d55705b5bfdc06477b1c873f894",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q153485$3F611D55-AC43-4939-B33D-554BEC075110",
+        "id": "Q50436$FD0A7F11-47A5-4448-B66B-2D0B68932BBF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q153485$2214E0BF-18D1-4FAF-8356-E5DA5898D0C1",
+        "id": "Q50436$7BB49DF4-E595-4CDA-AACB-FED6C3B6A0D6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,26 +64,7 @@
     ],
     "P47": [
       {
-        "id": "Q153485$7E97A7FB-8BE1-49F1-ADF5-CFDC1B5454E5",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q53522",
-              "numeric-id": 53522
-            }
-          },
-          "hash": "3b6f09f011928c74e960b4cca69d1e268f691a05",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q153485$6DA5C0FB-F5F4-48FD-B5B4-ED9DE61D3A65",
+        "id": "Q50436$7A04603D-77BD-4D1C-84F1-1B049AE3F222",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -94,26 +75,7 @@
               "numeric-id": 2623
             }
           },
-          "hash": "6993af453099afe9a7a294bfddf85bd35e4a2810",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q153485$AFDC8768-3F92-4CAA-AA08-18830812B9FE",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q29951",
-              "numeric-id": 29951
-            }
-          },
-          "hash": "12326a12cf1c43ea60d8a9ce306cddbed6d90de0",
+          "hash": "2adad820a3492cc7fa798a78ed20562197b3ae30",
           "property": "P47",
           "snaktype": "value"
         },
@@ -123,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q153485$6CB08A92-3B39-41F1-9818-D1F4B893E4C0",
+        "id": "Q50436$1B3484C6-F6E4-40A6-8A9A-B5C5784A4654",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -136,6 +98,40 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50436$6164BA6B-CEF4-4BCF-9C89-5BECCFBC9B7D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "BRIHADASVA of Kosala Arms.svg"
+          },
+          "hash": "6ecafd4d2ba09e43afc4e2045b1ec57fb5ac39fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q160791$F1F922EA-C087-9C03-0A31-9E479625A628",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018545549898"
+          },
+          "hash": "520f5ff8f37cb59d7236f80b7c369e0bcb53cd0b",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -165,47 +161,25 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q153485$4405C126-4717-4DBD-A39C-D9DA6921860B",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "BRIHADASVA of Kosala Placeholder surname Arms.svg"
-          },
-          "hash": "de379875dd181d2bda86829fe611796030c5cafa",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {
-    "en": {
-      "language": "en",
-      "value": "Gaiad character"
-    }
-  },
-  "id": "Q153485",
+  "descriptions": {},
+  "id": "Q50436",
   "labels": {
     "en": {
       "language": "en",
-      "value": "BRIHADASVA of Kosala Placeholder surname"
+      "value": "BRIHADASVA of Kosala"
     },
     "es": {
       "language": "es",
-      "value": "BRIHADAŚVA of Kosala Placeholder surname"
+      "value": "BRIHADAŚVA of Kosala"
     }
   },
-  "lastrevid": 17581830,
-  "modified": "2025-09-17T17:35:45Z",
+  "lastrevid": 17456650,
+  "modified": "2025-09-16T11:30:02Z",
   "ns": 860,
-  "pageid": 191843,
+  "pageid": 65492,
   "sitelinks": {},
-  "title": "Item:Q153485",
+  "title": "Item:Q50436",
   "type": "item"
 }

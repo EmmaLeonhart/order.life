@@ -10,8 +10,8 @@
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q153485",
-              "numeric-id": 153485
+              "id": "Q50436",
+              "numeric-id": 50436
             }
           },
           "hash": "ef684cbd4c2c4966d785203b598d6ce6f238e38f",
@@ -139,6 +139,43 @@
           },
           "hash": "74844a4305b22bf1efb2588503c99c5dd3fd4f17",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q29951$9309C31E-9DFE-4D5E-AF7A-524AE1CE1252",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Sahdev /DIWAKAR/"
+            }
+          },
+          "hash": "0d83457bc79eabb00f04e3b612052f9fa5aabef4",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q160816$8829AA0B-DDB8-7209-2B35-932D71EC4F56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009716011799"
+          },
+          "hash": "1d5f4297e92c2cf44d736c95f8d0bd7223eafe30",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

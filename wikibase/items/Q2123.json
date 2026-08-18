@@ -10,49 +10,11 @@
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q53522",
-              "numeric-id": 53522
-            }
-          },
-          "hash": "64adc6a62729a2a0a92f045b4dd1e2b16d584241",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q2123$714D7BE9-3E66-4AAF-9A1D-F054169269DC",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
               "id": "Q2623",
               "numeric-id": 2623
             }
           },
-          "hash": "38ad8b1456fdfa978fde59dd5161dab136f4fc17",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q2123$E9005431-E618-4CAD-8A87-916197C0CB4E",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q29951",
-              "numeric-id": 29951
-            }
-          },
-          "hash": "08c4595ed909ddeb39a37a1b02d17b1cdf08a87e",
+          "hash": "64adc6a62729a2a0a92f045b4dd1e2b16d584241",
           "property": "P20",
           "snaktype": "value"
         },
@@ -177,6 +139,23 @@
           },
           "hash": "9412d9084711b1d095e88615e5a60e7dd0aa0512",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q160843$1ADD352C-2666-DB70-8353-E215F58875D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018546070163"
+          },
+          "hash": "fdf1b9e1a505c4f675990ff91b75a5238c58d42d",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

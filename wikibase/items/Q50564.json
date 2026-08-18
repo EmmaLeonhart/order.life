@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q50564$EFAEEDC0-CFEA-41CA-A25E-3147D246616D",
+        "id": "Q2123$2EDC7ECF-ED9A-449F-8226-F84C911B73BB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q50492",
-              "numeric-id": 50492
+              "id": "Q2623",
+              "numeric-id": 2623
             }
           },
-          "hash": "8cc02ad67bea863a7c1490ec16fde7e69bd24dcf",
+          "hash": "64adc6a62729a2a0a92f045b4dd1e2b16d584241",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q50564$33D7E30B-1683-4333-A8A9-EC905849F17D",
+        "id": "Q2123$D7B6AF4C-5D08-441C-B571-605D48A5CC22",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q50564$44B659E7-2844-4582-A42E-01FB58C310E9",
+        "id": "Q2123$8DA20615-49D6-49F4-BAB5-88DEBE00AEFF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,7 +64,7 @@
     ],
     "P47": [
       {
-        "id": "Q50564$EEE43664-C136-4F6D-81DB-927F5F495304",
+        "id": "Q2123$50978FF4-C920-4018-A4A1-1C2FB4481E9D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q50564$B332AEC8-4250-406E-A0F3-450B04DCD66F",
+        "id": "Q2123$0628F9B7-8048-4CA9-AA28-932797C63BE5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -104,9 +104,33 @@
         "type": "statement"
       }
     ],
+    "P56": [
+      {
+        "id": "Q2123$6B4FE6D5-5D31-4A74-A7C0-F4F629EDA37B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1225-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "20ac4dc2e64842ea6fd7164178e14f456faf0668",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P94": [
       {
-        "id": "Q50564$B1F518E0-D31F-4E6F-B064-293A503683B9",
+        "id": "Q2123$2776068A-43F1-4160-BE00-2C46DA23C71B",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -120,21 +144,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q160843$1ADD352C-2666-DB70-8353-E215F58875D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018546070163"
+          },
+          "hash": "fdf1b9e1a505c4f675990ff91b75a5238c58d42d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q50564",
+  "id": "Q2123",
   "labels": {
     "en": {
       "language": "en",
       "value": "Divakara, King of Kosala"
     }
   },
-  "lastrevid": 17456842,
-  "modified": "2025-09-16T11:32:50Z",
+  "lastrevid": 17404566,
+  "modified": "2025-09-15T21:40:46Z",
   "ns": 860,
-  "pageid": 65588,
+  "pageid": 20535,
   "sitelinks": {},
-  "title": "Item:Q50564",
+  "title": "Item:Q2123",
   "type": "item"
 }

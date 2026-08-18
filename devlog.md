@@ -4538,3 +4538,59 @@ Magadha" and `Q161236` "SOMAPI Sahadeva" are the same man and `Q2302` now lists
 both, which is the next merge. Above them `Q28300` SAHADEVA carries its own shell
 `Q52256`, and `Q28308`/`Q52264` above that. The pattern does not stop where this
 item's framing stopped.
+
+## 2026-08-18 — Kosala: five copies of one king, and why these clusters always stop short
+
+Item 0f, part 2. `kosala-diwakar`: **9 merges**, all six gates green,
+`children_over_2_parents` **1199 → 1198**, `qa_vacated_refs` back to 0 after
+`repoint_vacated_qids.py` over 6 files. 0 records lost depth and 0 gained; total
+depth −3,612, which is the 9 duplicates ceasing to exist. 168 duplicate records gone across the
+four Magadha/Kosala passes.
+
+### The "three fathers wanting research" were one man
+
+`magadha-tail` dropped the pair `Q50436` ← `Q153485` because `Q153485`
+BRIHADASVA carries three fathers, and filed it as *"a genuine multi-parent
+defect… which of the three is real, or whether Q153485 is itself a merge of
+several men."* The research is one look at the three records:
+
+- `Q2623` "Sahdev DIWAKAR" — father `Q2123`, child `Q153485`, born 1200
+- `Q29951` "Sahdev  DIWAKAR" — father `Q2123`, child `Q153485`, born 1200
+- `Q53522` — nameless, and `Q2123` lists it among its children beside the other two
+
+Same father, same child, same year, two identical labels. `Q50492` and `Q160816`
+carry the label again above `Q50436`. **Five copies of one king**, and none of it
+needed a source outside the dump — it needed reading five records instead of
+counting to three.
+
+### Why every cluster of this kind stops one level short
+
+Not a compromise, and worth writing down because it will recur. Each level's
+copies each carry their own copy of the man above, so after merging levels 1..k
+the survivor at level k inherits three *unmerged* fathers and fails I4. There is
+no k that avoids it; the only terminating choice is to stop one level below the
+frontier and leave that survivor with two same-role fathers. `magadha-triple`,
+`magadha-tail`, `magadha-senajit` and `kosala-diwakar` all stopped for this
+reason. `kosala-diwakar` ends at Prativyoma, whose two Vatsavyuha fathers
+(`Q153536`, `Q160907`) stay two.
+
+So: plan one cluster per few generations, not one big merge. The residue at the
+top of each pass is the entry point for the next.
+
+### The blocks are already partly joined, so group sizes vary
+
+`Q2140` "Bhanu" lists both `Q2123` and `Q50564` as children — the `Q50xxx` block
+has no Bhanu of its own — and `Q2156`'s father is `Q153536`, across in the
+`Q153xxx` block. A group of two where the neighbours have three or four is what
+the dump holds, not an incomplete match.
+
+### What is verified and waiting
+
+The `Q28xxx` continuation above SOMAPI, checked by hand and not yet written:
+`Q28284` ← `Q161236`; `Q28300` ← `Q161242`, `Q52256`; `Q28308` ← `Q161249`,
+`Q52264`; `Q28320` ← `Q161255`, `Q52276`, `Q53518`. **The shells there carry
+mothers and that is the confirmation** — `Q52256` shares `Q51331` with `Q28300`,
+`Q52264` shares `Q51341` with `Q28308`, `Q52276` and `Q53518` share `Q51352` with
+`Q28320`. The wives have to merge in the same cluster (`Q51331` ← `Q161250`,
+`Q51341` ← `Q161254`), and `Q161256` "2 of KASHI" must NOT be merged into the
+first — Brihadratha married twin princesses of Kashi, so that is a second wife.

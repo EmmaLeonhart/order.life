@@ -93,6 +93,21 @@ SEED = [
     # labelled SENAJIT, all three have the single child Q2282 Srutanjaya, and each now has
     # exactly one father, all three labelled BRIHATKARMAN.
     ("senajit",         "Q2286", "Q51301", "Q161211"),
+    # Added 2026-08-18, after magadha-senajit merged the run above. Two re-entry points
+    # for what is left, and between them they establish that the duplication spans FIVE
+    # qid regions -- Q28xxx joins Q2xxx, Q50xxx, Q153xxx and Q160xxx.
+    #
+    # SOMAPI: Q2302 SRUTASRAVA now lists both Q28284 "SOMAPI of Magadha" and Q161236
+    # "SOMAPI Sahadeva" as fathers, which is the same man in two blocks. Above them
+    # Q28300 SAHADEVA carries its own nameless shell Q52256, so the shell copy continues
+    # too.
+    ("somapi",          "Q28284", "Q161236", "-"),
+    # DIWAKAR: Q153485 BRIHADASVA's three fathers are one man -- Q2623 and Q29951 both
+    # "Sahdev DIWAKAR" with the same father Q2123, the same child and the same birth year
+    # 1200, plus the nameless copy Q53522. Q50492 and Q160816 carry the identical label
+    # above Q50436. Five copies. Seeded with the four named ones; the shell rides in on
+    # the correspondence.
+    ("diwakar",         "Q2623", "Q29951", "Q50492", "Q160816"),
 ]
 
 _cache = {}

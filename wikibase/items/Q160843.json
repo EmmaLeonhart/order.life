@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q160843$0190CFB7-82FF-94CF-153E-07BE7486794F",
+        "id": "Q2123$2EDC7ECF-ED9A-449F-8226-F84C911B73BB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160816",
-              "numeric-id": 160816
+              "id": "Q2623",
+              "numeric-id": 2623
             }
           },
-          "hash": "9c85e19f0f4420379db19ee01213cb8138ea4e36",
+          "hash": "64adc6a62729a2a0a92f045b4dd1e2b16d584241",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q160843$26FF8FE6-B1F4-4387-87DF-4A454D8FC538",
+        "id": "Q2123$D7B6AF4C-5D08-441C-B571-605D48A5CC22",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160843$96875A2A-C193-46BF-AB1B-CF73A46D73A0",
+        "id": "Q2123$8DA20615-49D6-49F4-BAB5-88DEBE00AEFF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q160843$79750F48-8A20-3A58-006A-9D3CDA5181E2",
+        "id": "Q2123$50978FF4-C920-4018-A4A1-1C2FB4481E9D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160868",
-              "numeric-id": 160868
+              "id": "Q2140",
+              "numeric-id": 2140
             }
           },
-          "hash": "3beafb8ff4b62f6b04d4b501765dbf7918d19352",
+          "hash": "23b31a99b0f3cad410f4077dc2abeba65b648ac6",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q160843$98C66F6C-55A8-9055-3790-5B126FFAE525",
+        "id": "Q2123$0628F9B7-8048-4CA9-AA28-932797C63BE5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,47 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q2123$6B4FE6D5-5D31-4A74-A7C0-F4F629EDA37B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1225-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "20ac4dc2e64842ea6fd7164178e14f456faf0668",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2123$2776068A-43F1-4160-BE00-2C46DA23C71B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Divakara, King of Kosala Arms.svg"
+          },
+          "hash": "9412d9084711b1d095e88615e5a60e7dd0aa0512",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +161,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160843$BB769ECD-98D6-4840-874B-9606C7F09B5D",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Divakara, King of Kosala Arms.svg"
-          },
-          "hash": "9412d9084711b1d095e88615e5a60e7dd0aa0512",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160843",
+  "id": "Q2123",
   "labels": {
     "en": {
       "language": "en",
       "value": "Divakara, King of Kosala"
     }
   },
-  "lastrevid": 17584004,
-  "modified": "2025-09-17T18:05:44Z",
+  "lastrevid": 17404566,
+  "modified": "2025-09-15T21:40:46Z",
   "ns": 860,
-  "pageid": 204008,
+  "pageid": 20535,
   "sitelinks": {},
-  "title": "Item:Q160843",
+  "title": "Item:Q2123",
   "type": "item"
 }

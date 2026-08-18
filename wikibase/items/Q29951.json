@@ -3,15 +3,15 @@
   "claims": {
     "P20": [
       {
-        "id": "Q29951$1C38384B-7C5C-4B9F-ADB3-D8309D4AF175",
+        "id": "Q2623$F7D4843D-65E3-4834-9539-26E8998AD884",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q153485",
-              "numeric-id": 153485
+              "id": "Q50436",
+              "numeric-id": 50436
             }
           },
           "hash": "ef684cbd4c2c4966d785203b598d6ce6f238e38f",
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q29951$9A8990E0-FAF0-4146-9765-D9BDFC4AC7E0",
+        "id": "Q2623$A9751373-0462-4B2C-AB90-3185B02B4598",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q29951$4CC95A8B-3597-488C-8362-5616F30A9C34",
+        "id": "Q2623$22B12BA0-4326-4B4D-9C8B-166993999118",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,7 +64,7 @@
     ],
     "P47": [
       {
-        "id": "Q29951$7D8CC34F-C39C-45D2-8AC7-D13955BA796A",
+        "id": "Q2623$0DBFC45F-6938-4C93-9D8B-FB65DCCFDA3C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -77,6 +77,68 @@
           },
           "hash": "824e4ed9e41a5130bf61a6a0af72d666dfd2fe96",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q2623$1DE462B1-D758-4EDD-969E-E0D81F1EFF81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q2623$A374DD17-2ECA-4118-8CAF-359396F93F64",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "64fc1fe35713d03f3edfabacf753f4328d9d46e8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2623$B1387DE6-41A9-4FDD-83E4-672BF3543B92",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sahdev DIWAKAR Arms.svg"
+          },
+          "hash": "74844a4305b22bf1efb2588503c99c5dd3fd4f17",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -103,62 +165,17 @@
         "type": "statement"
       }
     ],
-    "P55": [
+    "P62": [
       {
-        "id": "Q29951$A966BB3D-44BC-4865-9002-2D9A0F801AD9",
+        "id": "Q160816$8829AA0B-DDB8-7209-2B35-932D71EC4F56",
         "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153718",
-              "numeric-id": 153718
-            }
-          },
-          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P56": [
-      {
-        "id": "Q29951$D56EA185-C45D-472A-ABB7-9CEDFD653234",
-        "mainsnak": {
-          "datatype": "time",
-          "datavalue": {
-            "type": "time",
-            "value": {
-              "after": 0,
-              "before": 0,
-              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
-              "precision": 9,
-              "time": "+1200-00-00T00:00:00Z",
-              "timezone": 0
-            }
-          },
-          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
-          "property": "P56",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q29951$01173457-8074-4FEC-AE02-DC1A3DF22ADF",
-        "mainsnak": {
-          "datatype": "commonsMedia",
+          "datatype": "external-id",
           "datavalue": {
             "type": "string",
-            "value": "Sahdev  DIWAKAR Arms.svg"
+            "value": "6000000009716011799"
           },
-          "hash": "16b051f7fc4b03667c3355f3931ca7b873a877e3",
-          "property": "P94",
+          "hash": "1d5f4297e92c2cf44d736c95f8d0bd7223eafe30",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -167,18 +184,18 @@
     ]
   },
   "descriptions": {},
-  "id": "Q29951",
+  "id": "Q2623",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Sahdev  DIWAKAR"
+      "value": "Sahdev DIWAKAR"
     }
   },
-  "lastrevid": 17429464,
-  "modified": "2025-09-16T04:56:35Z",
+  "lastrevid": 17405088,
+  "modified": "2025-09-15T21:52:24Z",
   "ns": 860,
-  "pageid": 50180,
+  "pageid": 21362,
   "sitelinks": {},
-  "title": "Item:Q29951",
+  "title": "Item:Q2623",
   "type": "item"
 }

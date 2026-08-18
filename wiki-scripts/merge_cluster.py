@@ -762,6 +762,50 @@ CLUSTERS = {
                               "not the lower qid, because this tool carries claims and "
                               "not labels"),
     ],
+    # queue.md item 0f, part 2 (2026-08-18). The Kosala solar chain, from Sahdev Diwakar up
+    # to Prativyoma, and the BRIHADASVA pair magadha-tail dropped.
+    #
+    # THE "THREE FATHERS" THAT BLOCKED IT ARE ONE MAN. Q153485 BRIHADASVA carries Q2623,
+    # Q29951 and Q53522, which magadha-tail read as a genuine multi-parent defect wanting
+    # research. The research is one lookup at the records: Q2623 and Q29951 are both
+    # labelled "Sahdev DIWAKAR", both have father Q2123, both have child Q153485 and both
+    # are born 1200; Q53522 is the nameless copy, in the same slot, with Q2123 listing it
+    # among its children. Q50492 and Q160816 carry the identical label above Q50436.
+    # FIVE copies of one king.
+    #
+    # THE BLOCKS ARE ALREADY PARTLY JOINED, which is why the group sizes vary rather than
+    # being a tidy three or four everywhere. Q2140 "Bhanu" lists BOTH Q2123 and Q50564
+    # among its children -- the Q50xxx block has no Bhanu of its own -- and Q2156's father
+    # is Q153536, across into the Q153xxx block. Read the group sizes as what the dump
+    # actually holds, not as an incomplete match.
+    #
+    # WHERE IT STOPS, AND WHY IT HAS TO STOP SOMEWHERE. Every level's copies have their own
+    # copy of the next man up, so the TOP group of any cluster like this inherits three
+    # unmerged fathers and fails I4. Stopping one level lower is not a compromise, it is
+    # the only terminating choice: this cluster ends at Prativyoma, whose two Vatsavyuha
+    # fathers (Q153536, Q160907) stay two -- the same residue magadha-triple and
+    # magadha-tail each left at their own top. Above it the chain continues, verified by
+    # hand and left for the next cluster: Vatsavyuha Arukshay (Q153536/Q160907), ARUKSHAY
+    # (Q2178/Q50742/Q160926), BRIHATKSHATRA BRIHADBAL (Q153548/Q50777/Q160944), BRIHADBAL
+    # TAKSHAKA (Q153552/Q53526/Q50817/Q160963), TAKSHAKA PRASENJIT-1 (Q153556/...).
+    "kosala-diwakar": [
+        ("Q2623", "Q29951", "Sahdev DIWAKAR -- same father Q2123, same child Q153485, same "
+                            "birth year 1200, identical label"),
+        ("Q2623", "Q50492", "Sahdev DIWAKAR -- the Q50xxx copy, father of Q50436 BRIHADASVA"),
+        ("Q2623", "Q160816", "Sahdev DIWAKAR -- the Q160xxx copy, father of Q160791, which "
+                             "magadha-tail already merged into Q50436"),
+        ("Q2623", "Q53522", "the nameless copy of Sahdev DIWAKAR -- child of Q2123 Divakara "
+                            "and father of Q153485 BRIHADASVA, the same slot the four "
+                            "named copies occupy"),
+        ("Q2123", "Q50564", "Divakara, King of Kosala -- identical label"),
+        ("Q2123", "Q160843", "Divakara, King of Kosala -- identical label"),
+        ("Q2140", "Q160868", "Bhanu"),
+        ("Q2156", "Q160889", "Prativyoma, King of Kosala"),
+        ("Q50436", "Q153485", "BRIHADASVA of Kosala [LABELS DIFFER: BRIHADASVA of Kosala "
+                              "Placeholder surname] -- the pair magadha-tail dropped. Both "
+                              "are fathers of Q2079 Bhanuratha and both descend from the "
+                              "Diwakar group merged above, so the two-father block is gone"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "

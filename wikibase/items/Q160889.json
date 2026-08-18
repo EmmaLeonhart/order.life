@@ -1,20 +1,27 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prativyoma, King of Kosala"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q160889$2A71E7AC-CC9F-CF7B-095B-CCBDD0BA916A",
+        "id": "Q2156$A992FD80-4EA6-41B2-BF5F-709AE3A4F640",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q160868",
-              "numeric-id": 160868
+              "id": "Q2140",
+              "numeric-id": 2140
             }
           },
-          "hash": "3ccc621f7fa7f69682052cc7884d0e066d689fa8",
+          "hash": "eba3a17297b3e22a767c1b9551cef1e91a3f695e",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +31,7 @@
     ],
     "P39": [
       {
-        "id": "Q160889$1E7F3BF0-8B90-40BD-9A00-D40793FEE9DC",
+        "id": "Q2156$DD73A721-056A-4B4E-BF19-EE42DF1B8326",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +50,7 @@
         "type": "statement"
       },
       {
-        "id": "Q160889$FACD3353-D1C1-49AC-A4F3-474BE704B5C1",
+        "id": "Q2156$7F4EEB42-19CC-4415-9365-5A9D3CC7CF9E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -63,6 +70,25 @@
       }
     ],
     "P47": [
+      {
+        "id": "Q2156$A1AC5B21-3EAC-438A-8BA3-27B2D06AFBF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153536",
+              "numeric-id": 153536
+            }
+          },
+          "hash": "3e019ba7ef71d984307c478f4883c78e0457a7d5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q160889$93F225D2-9A99-713D-A93C-E1B142EC3B21",
         "mainsnak": {
@@ -85,7 +111,7 @@
     ],
     "P55": [
       {
-        "id": "Q160889$3DD7C5DD-1B18-4E43-8191-B2BEF9E127AA",
+        "id": "Q2156$2F1C1127-E284-44D9-BC0E-CE01E15C1F87",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +124,47 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q2156$2DC22B87-C943-4617-8944-F268D96F4791",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2156$219383D0-BCB0-44E8-A2E8-C6BF364B78EB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prativyoma, King of Kosala Arms.svg"
+          },
+          "hash": "87d77c0f4c334c253812b4fb70bcb3daccafa1dd",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +187,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q160889$4F211326-79DB-4214-ABB0-84D850B13A82",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Prativyoma, King of Kosala Arms.svg"
-          },
-          "hash": "87d77c0f4c334c253812b4fb70bcb3daccafa1dd",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q160889",
+  "id": "Q2156",
   "labels": {
     "en": {
       "language": "en",
       "value": "Prativyoma, King of Kosala"
     }
   },
-  "lastrevid": 17584096,
-  "modified": "2025-09-17T18:07:08Z",
+  "lastrevid": 17404594,
+  "modified": "2025-09-15T21:41:29Z",
   "ns": 860,
-  "pageid": 204054,
+  "pageid": 20588,
   "sitelinks": {},
-  "title": "Item:Q160889",
+  "title": "Item:Q2156",
   "type": "item"
 }
