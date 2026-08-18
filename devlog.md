@@ -4784,3 +4784,17 @@ and Girika's own parents after that. Simulated: the extended version gives
 better, and the simulation is how you find that out before writing it.
 
 `qa_vacated_refs` 15 → 0 via `repoint_vacated_qids.py` over 14 files.
+
+### The invariants baseline had gone slack, and is re-taken
+
+`invariants.json` still read `tangled_components 8`, `records_in_a_cycle 80`,
+`children_over_2_parents 1201` — the state before the eight tangles were closed
+on 2026-08-15. Against a baseline five units looser than reality,
+`check_invariants` reported PASS on anything, which is the failure mode this repo
+has already named once: *a gate that could not fail against the source it was
+checking.*
+
+Re-taken at `0 / 0 / 1196`. **This is the opposite of "do not re-baseline to make
+it pass"** — it is re-baselining to make it able to fail. The next cluster is a
+live test of that: simulating the Vrihadratha extension gives 1197, which now
+fails the gate, correctly, because that extension is worse than stopping.
