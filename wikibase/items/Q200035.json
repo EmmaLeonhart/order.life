@@ -1,0 +1,118 @@
+{
+ "type": "item",
+ "id": "Q200035",
+ "labels": {
+  "en": {
+   "language": "en",
+   "value": "Iiirine"
+  }
+ },
+ "aliases": {
+  "en": [
+   {
+    "language": "en",
+    "value": "Izumo no Iiirine"
+   },
+   {
+    "language": "en",
+    "value": "飯入根"
+   }
+  ]
+ },
+ "descriptions": {
+  "en": {
+   "language": "en",
+   "value": "Izumo kuni no miyatsuko line; eleventh generation from Ame no Hohi, killed by his elder brother Izumo no Furune"
+  }
+ },
+ "claims": {
+  "P39": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P39",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153801",
+       "numeric-id": 153801
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   },
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P39",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153802",
+       "numeric-id": 153802
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P55": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P55",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153718",
+       "numeric-id": 153718
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P47": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q200034",
+       "numeric-id": 200034
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P20": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P20",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q200036",
+       "numeric-id": 200036
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ]
+ }
+}

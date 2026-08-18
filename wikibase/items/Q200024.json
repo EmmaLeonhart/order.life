@@ -1,0 +1,114 @@
+{
+ "type": "item",
+ "id": "Q200024",
+ "labels": {
+  "en": {
+   "language": "en",
+   "value": "Haji no Obito"
+  }
+ },
+ "aliases": {
+  "en": [
+   {
+    "language": "en",
+    "value": "土師首"
+   }
+  ]
+ },
+ "descriptions": {
+  "en": {
+   "language": "en",
+   "value": "Haji clan; son of Haji no Ōhodo, father of Haji no U"
+  }
+ },
+ "claims": {
+  "P39": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P39",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153801",
+       "numeric-id": 153801
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   },
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P39",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153802",
+       "numeric-id": 153802
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P55": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P55",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153718",
+       "numeric-id": 153718
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P47": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q200023",
+       "numeric-id": 200023
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P20": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P20",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q200025",
+       "numeric-id": 200025
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ]
+ }
+}

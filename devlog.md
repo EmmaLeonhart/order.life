@@ -4655,3 +4655,67 @@ sets, but nothing checked that an `add_bridge_edges.py` bridge is still in the
 graph — the same hole that let the Lepidus cut sit applied-and-alive for eight
 days. Registered this bridge's two edges; 10 scripts, 26 assertions. The older
 bridges are still unlisted, which is a gap and not a claim about them.
+
+## 2026-08-18 — Haji no Hodo to Izanagi, twenty-six generations
+
+Item 0c finished. `haji-hodo-ancestry` (4 records) and `izumo-kokuso-chain` (10),
+on top of this morning's `haji-osoba` (1). All six gates green: +346 total depth,
+23 records gained, **0 lost**, no tangle introduced, `children_over_2_parents`
+unchanged at 1198.
+
+Verified from the regenerated `edges.tsv`, not from the tool that wrote it:
+
+    Q7915 Haji no Hodo -> Totoko -> U -> Obito -> Ōhodo -> Q14463 Kuiko
+      -> Q14866 Otori -> Q200022 Ōsoba -> Q15732 Mukuro -> Q16508 Iwabi
+      -> Q17793 Adakatsu -> Q19453 Nomi no Sukune -> Umashikaraihine -> Iiirine
+      -> Yomorosu -> Chiri -> Kushida -> Kushichitoriumi -> Kushitsuki
+      -> Kushifusaki -> Tsusa -> Isaga -> Q6715 Takehiratori -> Q6615 Ame no Hohi
+      -> Q6590 Amaterasu -> Q6491 Izanagi -> Q6553 Omodaru
+
+**And it does not reach `Q1` Aster, which is not a defect of this repair.** Omodaru
+is rootless and always was; the Japanese route to Aster is the maternal one —
+Takano no Niigasa, Korean and Indian — exactly as `CLAUDE.md` says. Saying "Haji
+no Hodo now reaches Aster" would have been false, and the count would have looked
+the same either way.
+
+**The story is one sentence of the Shinsen Shōjiroku**, and the bridges add
+nothing it does not say: 天穂日命十二世孫可美乾飯根命之後也 — "descendants of
+Umashikaraihine no Mikoto, twelfth-generation descendant of Ame no Hohi." Every
+generation number in the created records' descriptions is that count.
+
+### Emma's naming ruling, and it generalises
+
+Five of the fifteen records have **no English label on Wikidata**: 土師土徳
+(its own alias is 土徳連), 土師兎, 土師首, 可美乾飯根命, 伊佐我命. Asked whether
+to romanise, label them in kanji, or leave them out, Emma chose **romanise, kanji
+kept as an alias**.
+
+Two readings are standard — Umashikaraihine, Isaga. **Three are guesses and each
+says so in its own `note` field**: Haji no Totoko, Haji no U, Haji no Obito. The
+note is the whole point. A guessed reading that stops being labelled a guess is
+indistinguishable from an attested one a week later.
+
+One label was changed rather than copied: wd `Q135579354`'s English label is
+"Tsusahime no Mikoto", but the kanji 津狭命 carries no 姫 and Wikidata's own P21
+says male. Created as **Tsusa no Mikoto** with the hime form kept as an alias.
+
+### Where Wikidata is wrong, and the bridge does not follow it
+
+wd `Q55533680` Iiirine carries two fathers, wd `Q55533077` Izumo no Furune and
+wd `Q135579361` Yomorosu. **Furune and Iiirine are brothers.** Nihon Shoki,
+Sujin 60: Furune was away in Tsukushi, his younger brother surrendered the divine
+treasures of Izumo, and Furune killed him for it. Both are Yomorosu's sons, which
+is Wikidata's other claim on the same record. Yomorosu is taken as the father and
+Furune is not imported at all — a sibling carries no descent, and this queue ranks
+depth over width.
+
+Importing an attested record is not the same as importing it uncritically. Two
+fathers on the source is the same signal here as it is in the dump.
+
+### The gate that did not cover this
+
+`verify_applies_landed.py` covered the `apply_*.py` scripts and never covered
+`add_bridge_edges.py` at all — a bridge could detach silently and every delta gate
+would read it as a no-op, which is exactly how the Lepidus cut survived eight days.
+The four anchor edges of these chains are now registered, the ones touching records
+that already existed, so a chain that comes loose at either end fails the gate.

@@ -1,0 +1,118 @@
+{
+ "type": "item",
+ "id": "Q200028",
+ "labels": {
+  "en": {
+   "language": "en",
+   "value": "Tsusa no Mikoto"
+  }
+ },
+ "aliases": {
+  "en": [
+   {
+    "language": "en",
+    "value": "Tsusahime no Mikoto"
+   },
+   {
+    "language": "en",
+    "value": "津狭命"
+   }
+  ]
+ },
+ "descriptions": {
+  "en": {
+   "language": "en",
+   "value": "Izumo kuni no miyatsuko line; fourth generation from Ame no Hohi"
+  }
+ },
+ "claims": {
+  "P39": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P39",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153801",
+       "numeric-id": 153801
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   },
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P39",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153802",
+       "numeric-id": 153802
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P55": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P55",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153718",
+       "numeric-id": 153718
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P47": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q200027",
+       "numeric-id": 200027
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P20": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P20",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q200029",
+       "numeric-id": 200029
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ]
+ }
+}

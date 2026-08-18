@@ -56,6 +56,17 @@ EXPECTED = [
     ("add_bridge_edges.py haji-osoba", ("Q200022", "Q14866"), PRESENT,
      "Haji no Osoba is Otori's father -- wd Q97613635's P40 is wd Q97613634, Q14866's own P61"),
 
+    # The four anchor edges of the two Haji/Izumo chains -- the ones that touch records
+    # that already existed, so a chain that silently detached at either end fails here.
+    ("add_bridge_edges.py haji-hodo-ancestry", ("Q14463", "Q200023"), PRESENT,
+     "Haji no Kuiko is Ohodo's father -- wd Q97613632's P22 is wd Q97613631, Q14463's own P61"),
+    ("add_bridge_edges.py haji-hodo-ancestry", ("Q200026", "Q7915"), PRESENT,
+     "Haji no Totoko is Hodo's father -- wd Q58420107's P22 is wd Q136929945"),
+    ("add_bridge_edges.py izumo-kokuso-chain", ("Q6715", "Q200027"), PRESENT,
+     "Takehiratori is Isaga's father -- wd Q135284917's P22 is wd Q11065428, Q6715's own P61"),
+    ("add_bridge_edges.py izumo-kokuso-chain", ("Q200036", "Q19453"), PRESENT,
+     "Umashikaraihine is Nomi no Sukune's father -- wd Q965742's P22 is wd Q136908598"),
+
     ("apply_lepidus_cut.py", ("Q72786", "Q72615"), ABSENT,
      "Quintus's father is Q144279; wd Q3625112 lists exactly two children"),
 

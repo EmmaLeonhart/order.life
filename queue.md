@@ -480,49 +480,32 @@ with AskUserQuestion instead of parking it here.**
    without changing anyone's reach. The reason to do this is that 168 phantom people are
    gone, not depth. **Do not re-file the depth argument.**
 
-0c. **THE HAJI/IZUMO LINE — the three rootless records ARE EXAMINED (2026-08-18); one
-   gap is closed and sixteen records stand between this clan and Amaterasu.**
+0c. **LOOK FOR MORE `Q200022`-SHAPED GAPS — one missing generation between two runs
+   that are both already in the dump.**
 
-   **The three-record question this item was written to answer is answered.** All three
-   carry a `P61` Wikidata id, so no label-guessing was involved:
+   The Haji repair on 2026-08-18 closed three gaps, and the first was worth more than
+   the item that found it: `Q14866` Haji no Otori had no father, `Q15732` Haji no Mukuro
+   had no child, and **both already carried the `P61` that says wd `Q97613635` sits
+   between them.** One created record joined two runs that had been sitting apart in the
+   same dump. See `devlog.md` 2026-08-18 and `add_bridge_edges.py haji-osoba`.
 
-   | qid | wd | attested father? |
-   |---|---|---|
-   | `Q7119` Furihime | `Q28415396` | **No.** Wikidata gives her a spouse and a son (Keitai) and no parents. The Nihon Shoki calls her a seventh-generation descendant of Emperor Suinin and names no intermediate. **A genuine line-end.** |
-   | `Q7349` Otohiko Owari | `Q97706283` | **No.** One child, no parents. **A genuine line-end.** |
-   | `Q7915` Haji no Hodo | `Q58420107` (土師富杼) | **Yes** — `Q136929945` 土師土徳, and a further 27 generations above it |
+   **Nothing looks for that shape.** It is cheap and exact, and it is NOT a general
+   defect sweep — the test is arithmetic on ids the dump already holds:
 
-   **DONE: `add_bridge_edges.py haji-osoba`.** The Haji clan was in the dump as two
-   fragments that did not touch, and exactly one man was missing between them:
+   - take every record with no father and a `P61`
+   - take every record with no child and a `P61`
+   - ask Wikidata whether the fatherless one's `P22` chain reaches the childless one's id
+     in a small number of steps
+   - report the gap and the records that would fill it; **create nothing without reading
+     the case**
 
-   - fragment A — `Q14866` Haji no Otori (no father) → `Q14463` Haji no Kuiko
-   - fragment B — `Q19453` Nomi no Sukune → `Q17793` Adakatsu → `Q16508` Iwabi →
-     `Q15732` Haji no Mukuro (no child)
+   `qa_links_match.tsv` and `persons.tsv`'s `wikidata_qid` column are the inputs; 60,075
+   dump records carry a Wikidata id. Batch the lookups and cache them — `urllib.request`
+   with an explicit `User-Agent`, or the API returns 403.
 
-   `Q200022` Haji no Ōsoba (wd `Q97613635`) is Mukuro's son and Otori's father, and both
-   dump records already carried the matching `P61`, so the identification is the dump's
-   own rather than a label match. **Kuiko and Otori now reach Nomi no Sukune.**
-
-   **THE STORY, since a reachability count is not a result:** the Haji (土師氏) are Nomi
-   no Sukune's clan, and Nomi no Sukune descends from **Ame no Hohi** — `Q6615`, already
-   in the dump — the son Amaterasu and Susanoo produced in the ukehi, whence `Q6595`
-   Susanoo and `Q6491` Izanagi. That is the Izumo descent, and it is why closing these
-   gaps is worth doing rather than a tidy-up.
-
-   **STILL OPEN — sixteen attested records, and FIVE OF THEM NEED A NAME FROM EMMA.**
-   Every one exists on Wikidata with a documented filiation; none is invented. Eleven have
-   an English label and can be created as-is. Five have **only a Japanese label**, and
-   choosing a romanisation is a naming call, not research:
-
-   | gap | records to create, bottom-up | needs a name |
-   |---|---|---|
-   | `Q7915` Hodo → `Q14463` Kuiko | 土師土徳 `Q136929945`, 土師兎 `Q136931977`, 土師首 `Q97613641`, Haji no Ōhodo `Q97613632` | **three of four** |
-   | `Q19453` Nomi no Sukune → `Q6715` Takehiratori | 可美乾飯根命 `Q136908598`, Iiirine `Q55533680`, Izumo no Furune `Q55533077`, Yomorosunomikoto `Q135579361`, Chirinomikoto `Q135579360`, Kushidanomikoto `Q135579359`, Kushichitoriuminomikoto `Q135579358`, Kushitsukinomikoto `Q135579356`, Kushifusakinomikoto `Q135579355`, Tsusahime no Mikoto `Q135579354`, 伊佐我命 `Q135284917` | **two of eleven**, and both sit at the ends of the chain, so neither gap closes without them |
-
-   **Ask Emma with `AskUserQuestion`, do not park this.** The question is narrow: what to
-   call 土師土徳 (Wikidata's own alias is 土徳連), 土師兎, 土師首, 可美乾飯根命 and
-   伊佐我命 — a romanisation, the kanji, or something else. Everything around it is ready
-   to write.
+   **Report the gaps, do not bulk-fill them.** Each one is a filiation claim and the Haji
+   pass found Wikidata wrong about one of them (Izumo no Furune recorded as his brother
+   Iiirine's father). A gap list is the deliverable; the bridges are read one at a time.
 
 0b. **BC-DATE SIGN — CHECKED 2026-08-05. The inversion class is SOUND; nothing to
    revert. A narrower residual is real and is the remaining work.**

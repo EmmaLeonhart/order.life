@@ -615,6 +615,172 @@ BRIDGES = {
                                   "by its own P61 -- and Q14866 had no father recorded"),
         ],
     },
+    # queue.md item 0c (2026-08-18), the rest of the Haji line. Two chains, fourteen
+    # generations, every one of them an attested Wikidata record with a documented
+    # filiation -- this imports records the original import skipped, it does not invent
+    # people. Emma ruled on 2026-08-18 that the five records with no English label anywhere
+    # get a romanisation with the kanji kept as an alias, rather than a kanji label or
+    # being left out. Those five say so in their own note; the other nine carry Wikidata's
+    # English label unchanged.
+    #
+    # THE STORY. The Haji are Nomi no Sukune's clan. The Shinsen Shojiroku's entry for them
+    # reads "descendants of Umashikaraihine no Mikoto, twelfth-generation descendant of Ame
+    # no Hohi", and Ame no Hohi (Q6615) is the son Amaterasu and Susanoo produced in the
+    # ukehi -- already in the dump under Q6595 Susanoo and Q6491 Izanagi. Both chains below
+    # reconstruct exactly that sentence, and the generation numbers in the descriptions are
+    # its count.
+    #
+    # WHERE WIKIDATA IS WRONG AND THIS DOES NOT FOLLOW IT. wd Q55533680 Iiirine carries TWO
+    # fathers, wd Q55533077 Izumo no Furune and wd Q135579361 Yomorosu. Furune and Iiirine
+    # are BROTHERS -- Nihon Shoki, Sujin 60: Furune was away in Tsukushi, his younger
+    # brother Iiirine surrendered the divine treasures, and Furune killed him for it. Both
+    # are sons of Yomorosu, which is Wikidata's other claim. The Furune edge is taken as the
+    # error and Yomorosu as the father. Furune is not imported at all: he is a sibling, he
+    # contributes no descent, and the queue ranks depth over width.
+    #
+    # Cannot close a cycle, checked against edges.tsv before writing: Q6715 Takehiratori is
+    # not among Q19453 Nomi no Sukune's 6 descendants, Q19453 is not among Q6715's 1, and
+    # Q14463 Kuiko is not among Q7915 Haji no Hodo's 1,215.
+    "haji-hodo-ancestry": {
+        "create": [
+            {
+                "qid": "Q200023",
+                "label": "Haji no Ōhodo",
+                "aliases": ["Haji no Oohodo", "Haji no Ohodo", "土師大保度"],
+                "desc": "Haji clan; son of Haji no Kuiko, father of Haji no Obito",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q97613632, English label attested on Wikidata",
+            },
+            {
+                "qid": "Q200024",
+                "label": "Haji no Obito",
+                "aliases": ["土師首"],
+                "desc": "Haji clan; son of Haji no Ōhodo, father of Haji no U",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q97613641. NO English label on Wikidata and no source gives a reading -- Obito is the kabane reading of 首 and is a GUESS, ruled acceptable by Emma 2026-08-18 with the kanji kept as an alias",
+            },
+            {
+                "qid": "Q200025",
+                "label": "Haji no U",
+                "aliases": ["土師兎"],
+                "desc": "Haji clan; son of Haji no Obito, father of Haji no Totoko",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q136931977. NO English label on Wikidata -- U is the ordinary reading of 兎 and is a GUESS, ruled acceptable by Emma 2026-08-18",
+            },
+            {
+                "qid": "Q200026",
+                "label": "Haji no Totoko",
+                "aliases": ["土師土徳", "土徳連"],
+                "desc": "Haji clan; son of Haji no U, father of Haji no Hodo",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q136929945, whose own alias is 土徳連. NO English label and no source gives a reading -- Totoko is a GUESS, ruled acceptable by Emma 2026-08-18",
+            },
+        ],
+        "edges": [
+            ("Q14463", "Q200023", "wd Q97613632 father is wd Q97613631, which is Q14463 by its own P61"),
+            ("Q200023", "Q200024", "wd Q97613641 father is wd Q97613632"),
+            ("Q200024", "Q200025", "wd Q136931977 father is wd Q97613641"),
+            ("Q200025", "Q200026", "wd Q136929945 father is wd Q136931977"),
+            ("Q200026", "Q7915", "wd Q58420107 father is wd Q136929945, and Q7915 carries wd Q58420107 as its own P61"),
+        ],
+    },
+    "izumo-kokuso-chain": {
+        "create": [
+            {
+                "qid": "Q200027",
+                "label": "Isaga no Mikoto",
+                "aliases": ["伊佐我命"],
+                "desc": "Izumo kuni no miyatsuko line; third generation from Ame no Hohi",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q135284917. No English label on Wikidata; Isaga is the standard reading of 伊佐我 in the Izumo kokuso lineage",
+            },
+            {
+                "qid": "Q200028",
+                "label": "Tsusa no Mikoto",
+                "aliases": ["Tsusahime no Mikoto", "津狭命"],
+                "desc": "Izumo kuni no miyatsuko line; fourth generation from Ame no Hohi",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q135579354. Wikidata's English label reads Tsusahime no Mikoto, but the kanji 津狭命 carries no 姫 and Wikidata's own P21 says male, so the romanisation used here is Tsusa and the hime form is kept as an alias",
+            },
+            {
+                "qid": "Q200029",
+                "label": "Kushifusakinomikoto",
+                "aliases": ["櫃瓺前命"],
+                "desc": "Izumo kuni no miyatsuko line; fifth generation from Ame no Hohi",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q135579355, English label attested",
+            },
+            {
+                "qid": "Q200030",
+                "label": "Kushitsukinomikoto",
+                "aliases": ["櫃月命"],
+                "desc": "Izumo kuni no miyatsuko line; sixth generation from Ame no Hohi",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q135579356, English label attested",
+            },
+            {
+                "qid": "Q200031",
+                "label": "Kushichitoriuminomikoto",
+                "aliases": ["櫃瓺鳥海命"],
+                "desc": "Izumo kuni no miyatsuko line; seventh generation from Ame no Hohi",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q135579358, English label attested",
+            },
+            {
+                "qid": "Q200032",
+                "label": "Kushidanomikoto",
+                "aliases": ["櫃田命"],
+                "desc": "Izumo kuni no miyatsuko line; eighth generation from Ame no Hohi",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q135579359, English label attested",
+            },
+            {
+                "qid": "Q200033",
+                "label": "Chirinomikoto",
+                "aliases": ["知理命"],
+                "desc": "Izumo kuni no miyatsuko line; ninth generation from Ame no Hohi",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q135579360, English label attested",
+            },
+            {
+                "qid": "Q200034",
+                "label": "Yomorosunomikoto",
+                "aliases": ["世毛呂須命"],
+                "desc": "Izumo kuni no miyatsuko line; tenth generation from Ame no Hohi",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q135579361, English label attested",
+            },
+            {
+                "qid": "Q200035",
+                "label": "Iiirine",
+                "aliases": ["Izumo no Iiirine", "飯入根"],
+                "desc": "Izumo kuni no miyatsuko line; eleventh generation from Ame no Hohi, killed by his elder brother Izumo no Furune",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q55533680, English label attested",
+            },
+            {
+                "qid": "Q200036",
+                "label": "Umashikaraihine no Mikoto",
+                "aliases": ["可美乾飯根命"],
+                "desc": "Izumo kuni no miyatsuko line; twelfth generation from Ame no Hohi and the ancestor the Shinsen Shojiroku names for the Haji",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q136908598. No English label on Wikidata; the reading follows the Shinsen Shojiroku entry",
+            },
+        ],
+        "edges": [
+            ("Q6715", "Q200027", "wd Q135284917 father is wd Q11065428, which is Q6715 by its own P61"),
+            ("Q200027", "Q200028", "wd Q135579354 father is wd Q135284917"),
+            ("Q200028", "Q200029", "wd Q135579355 father is wd Q135579354"),
+            ("Q200029", "Q200030", "wd Q135579356 father is wd Q135579355"),
+            ("Q200030", "Q200031", "wd Q135579358 father is wd Q135579356"),
+            ("Q200031", "Q200032", "wd Q135579359 father is wd Q135579358"),
+            ("Q200032", "Q200033", "wd Q135579360 father is wd Q135579359"),
+            ("Q200033", "Q200034", "wd Q135579361 father is wd Q135579360"),
+            ("Q200034", "Q200035", "wd Q55533680 father is wd Q135579361 -- NOT wd Q55533077 Furune, who is his brother and his killer"),
+            ("Q200035", "Q200036", "wd Q136908598 father is wd Q55533680"),
+            ("Q200036", "Q19453", "wd Q965742 father is wd Q136908598, and Q19453 carries wd Q965742 as its own P61"),
+        ],
+    },
     "heo-hwang-ok-ayodhya": {
         "create": [
             {
