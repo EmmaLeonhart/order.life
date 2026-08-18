@@ -4798,3 +4798,85 @@ Re-taken at `0 / 0 / 1196`. **This is the opposite of "do not re-baseline to mak
 it pass"** — it is re-baselining to make it able to fail. The next cluster is a
 live test of that: simulating the Vrihadratha extension gives 1197, which now
 fails the gate, correctly, because that extension is worse than stopping.
+
+## 2026-08-18 — The merge tool destroyed the evidence for two of its own merges
+
+Item 0f. No merge this tick. What happened instead is worth more than one would
+have been.
+
+### Two of the eleven "nameless" shells were not nameless
+
+Yesterday's and this morning's passes merged eleven contentless records into
+named kings on the strength of their position — same father, same mother, same
+child. Every commit message describing them said **"no label, no aliases, no
+description"**. That was true of nine of them. It was not true of two:
+
+    Q52228  aliases: ['SRUTASRAVA of Magadha']          merged into Q2302 SRUTASRAVA of Magadha
+    Q52256  aliases: ['SAHADEVA of Magadha Jarasandha'] merged into Q28300 SAHADEVA of Magadha  Jarasandha
+
+**The dump named them, and it named exactly the men the graph position said they
+were.** That is independent confirmation of the identification — and
+`merge_cluster.py` deleted it in the act of performing the merge, because it
+carries claims and drops terms. I then wrote the "no aliases" claim into two
+commit messages and the devlog without having looked at the aliases; my
+inspection script printed labels and claims and not terms, which is why.
+
+Correcting the record: the identification was right, the evidence for it was
+better than reported, and the report was wrong about the evidence.
+
+### The 38-dropped-properties bug, one layer up
+
+`merge_cluster.py` was fixed on 2026-07-31 to carry every *claim* the survivor
+lacks, after ten merges silently dropped 38 properties including six birth and
+death dates. It was never taught to carry *terms*. Found the same way, by
+measuring after the fact rather than trusting the word "additive": diff each
+loser's pre-merge file against its survivor's current one, across all five
+Magadha/Kosala passes. Three losses, and no more:
+
+    Q50436 <- Q153485   description "Gaiad character"
+    Q28300 <- Q52256    alias "SAHADEVA of Magadha Jarasandha"
+    Q2302  <- Q52228    alias "SRUTASRAVA of Magadha"  (identical to Q2302's own label)
+
+Fixed both ends. `merge_cluster.py` now carries the loser's description where the
+survivor has none, unions aliases, and **adds the loser's label as an alias when
+the labels differ** — so "BRIHADASVA of Kosala Placeholder surname" survives as
+an alias of "BRIHADASVA of Kosala" instead of vanishing. A GEDCOM artefact is
+still what the dump said, and it is what makes a merge auditable a week later.
+`backfill_merged_terms.py` restores the three, shadow-aware, 8 files rewritten,
+verified from the files.
+
+Graph-neutral by construction — it writes no claims at all — and the gates agree.
+
+### The Kosala chain cannot be staged, and that is a measurement not a guess
+
+The other half of item 0f is the Kosala solar chain above Prativyoma, and it is
+the first branch where "stop one level short" does not work. Simulated five
+successive stopping points against `edges.tsv`:
+
+    stop after vatsavyuha   1196 -> 1197   Q153536 newly over two
+    stop after arukshay     1196 -> 1197   Q2178
+    stop after brihadbal    1196 -> 1197   Q50777
+    stop after takshaka     1196 -> 1197   Q50817
+    stop after prasenjit-1  1196 -> 1197   Q50857
+
+Every one is +1, and the reason is structural: **nobody in this run is currently
+over two parents**, so the top survivor of any partial cluster crosses for the
+first time. `magadha-somapi` got away with the same shape only because `Q28308`
+was already at four and stayed there while two others dropped out.
+
+It does terminate. `Q2227` Susandhi already carries three fathers, so a cluster
+that runs all the way up to the Prasusruta group takes him to one and ends net
+**negative**. That is roughly eleven levels and thirty-odd merges in a single
+cluster, and the `Q50xxx` column is not yet walked above Visrutavant. Mapped into
+queue.md as a table with the gaps marked; not attempted on a partial map.
+
+One flag on it: `Q2627`/`Q29967` "Prasusruta, King of Kosala" is described in
+`merge_cluster.py`'s own 2026-08-01 comments as "the Kosala dedup, which queue.md
+holds for Emma". **That note predates her 2026-08-05 rulings and "Apply them
+lol"**, so it may be another parked question nobody re-asked. Worth one question
+before building the cluster, not a reason to stop.
+
+### And the invariants baseline is now tight enough to have caught this
+
+The +1 above would have passed silently against the old `1201` baseline. It fails
+against the `1196` re-taken this morning, which is what a baseline is for.

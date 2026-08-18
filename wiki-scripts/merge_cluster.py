@@ -1075,7 +1075,7 @@ def main():
         return 1
 
     print("\napplying...")
-    carried, conflicts, claimed_by = {}, {}, {}
+    carried, conflicts, claimed_by, terms = {}, {}, {}, {}
     for surv, loser, _ in merges:
         ds, dl = load(surv), load(loser)
         before = {p: len(vals(ds, p)) for p in GEN_PROPS}
@@ -1118,6 +1118,47 @@ def main():
                 b = sorted(str(v) for v in vals(dl, p))
                 if a != b:
                     conflicts.setdefault(surv, []).append((p, a, b))
+
+        # Carry the loser's TERMS too -- description, aliases, and its label as an alias.
+        # This is the 38-dropped-properties bug one layer up, and it was found the same
+        # way: by measuring afterwards instead of trusting the word "additive". Before
+        # 2026-08-18 the tool carried every claim and silently dropped every term, so:
+        #
+        #   Q153485 "BRIHADASVA of Kosala Placeholder surname" carried the description
+        #     "Gaiad character" into a survivor that has none, and it was lost.
+        #   Q52228 and Q52256, two of the nameless Magadha shells, each carried an ALIAS
+        #     naming the man -- "SRUTASRAVA of Magadha" and "SAHADEVA of Magadha
+        #     Jarasandha" -- which is the dump independently confirming an identification
+        #     that had been made from graph position alone. Both were dropped, and the
+        #     merge notes went on calling those records "no label, no alias, no
+        #     description", which was true of nine of the eleven and not of those two.
+        #
+        # Losing the evidence for a merge in the act of performing it is the worst version
+        # of this. The loser's label becomes an alias rather than being discarded, even
+        # when it is a GEDCOM artefact like "Placeholder surname": it is what the dump
+        # said, and it is what makes the merge auditable afterwards.
+        for lang, v in (dl.get("descriptions") or {}).items():
+            if lang not in (ds.get("descriptions") or {}):
+                ds.setdefault("descriptions", {})[lang] = json.loads(json.dumps(v))
+                terms.setdefault(surv, []).append("desc[%s]=%r" % (lang, v.get("value")))
+        want = collections.defaultdict(list)
+        for lang, vs in (dl.get("aliases") or {}).items():
+            for v in vs:
+                want[lang].append(v.get("value"))
+        for lang, v in (dl.get("labels") or {}).items():
+            slab = ((ds.get("labels") or {}).get(lang) or {}).get("value")
+            if v.get("value") and v.get("value") != slab:
+                want[lang].append(v.get("value"))
+        for lang, values in want.items():
+            have = {a.get("value") for a in (ds.get("aliases") or {}).get(lang, [])}
+            have.add(((ds.get("labels") or {}).get(lang) or {}).get("value"))
+            for value in values:
+                if value in have:
+                    continue
+                ds.setdefault("aliases", {}).setdefault(lang, []).append(
+                    {"language": lang, "value": value})
+                have.add(value)
+                terms.setdefault(surv, []).append("alias[%s]=%r" % (lang, value))
 
         for p in GEN_PROPS:
             kept, seen = [], set()
@@ -1173,6 +1214,10 @@ def main():
             print(f"\n  reconciled {len(restale)} file(s) left stale by an earlier merge "
                   f"into {surv}: {', '.join(restale)}")
 
+    if terms:
+        print("\nterms carried over from the loser (description / aliases / its label):")
+        for q, ts in sorted(terms.items()):
+            print(f"  {q}: {', '.join(ts)}")
     if carried:
         print("\nnon-genealogical properties carried over from the loser:")
         for q, ps in sorted(carried.items()):

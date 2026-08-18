@@ -457,21 +457,50 @@ with AskUserQuestion instead of parking it here.**
    the offsetting decreases; the simulation does. **`check_invariants` is still the gate
    that decides — the simulation only tells you whether to spend twenty minutes.**
 
-   **(2) The Kosala solar chain continues above Prativyoma.** Verified by hand, same
-   shape, same stopping rule:
+   **(2) The Kosala solar chain above Prativyoma — MAPPED 2026-08-18, and it CANNOT be
+   staged. It has to go in one cluster, Vatsavyuha through Prasusruta.**
 
-   | who | copies |
-   |---|---|
-   | Vatsavyuha Arukshay | `Q153536`, `Q160907` |
-   | ARUKSHAY | `Q2178`, `Q50742`, `Q160926` |
-   | BRIHATKSHATRA BRIHADBAL | `Q153548`, `Q50777`, `Q160944` |
-   | BRIHADBAL TAKSHAKA | `Q153552`, `Q53526` (nameless), `Q50817`, `Q160963` |
-   | TAKSHAKA PRASENJIT-1 | `Q153556`, and whatever the matcher finds above |
+   This is the first branch where the "stop one level short" trick does not work, and the
+   reason is worth stating because it decides how to write the cluster. At every level
+   here the copies each have their own copy of the man above and **nobody in the run is
+   currently over two parents**, so merging levels 1..k gives the level-k survivor three
+   unmerged fathers — a **real +1** to `children_over_2_parents`, not the illusory one
+   `magadha-somapi` had. **Simulated at five successive stopping points against `edges.tsv`, and every
+   one lands on 1197 — +1 each time**, with a different record newly crossing each time
+   (`Q153536`, `Q2178`, `Q50777`, `Q50817`, `Q50857`).
 
-   Re-seed `match_parallel_imports.py` on `arukshay` = (`Q2178`, `Q50742`, `Q160926`) and
-   read its table before writing the cluster — the seeds already in the file are all
-   vacated now, so the tool reports 0 groups until a live one is added. That is expected,
-   not a regression.
+   `magadha-somapi` got away with it because `Q28308` was already at four parents and
+   stayed there while `Q28300` and `Q161249` dropped out. Nothing here is already over.
+
+   **Where it terminates, and it does terminate.** Walking all three copies upward:
+
+   | level | `Q2xxx` | `Q50xxx` | `Q153xxx` | `Q160xxx` | nameless |
+   |---|---|---|---|---|---|
+   | Vatsavyuha Arukshay | — | — | `Q153536` | `Q160907` | — |
+   | ARUKSHAY | `Q2178` | `Q50742` | — | `Q160926` | — |
+   | BRIHATKSHATRA BRIHADBAL | — | `Q50777` | `Q153548` | `Q160944` | — |
+   | BRIHADBAL TAKSHAKA | — | `Q50817` | `Q153552` | `Q160963` | `Q53526` |
+   | TAKSHAKA PRASENJIT-1 | — | `Q50857` | `Q153556` | `Q160979` | — |
+   | PRASENJIT-1 | — | `Q50888` | `Q153560` | `Q160991` | — |
+   | Vishwabahu VISHRUTWAN | — | ? | `Q153564` | `Q161002` | — |
+   | Visrutavant | `Q2215` | `Q50958` | — | `Q161013` | — |
+   | Shasvant | `Q2219` | ? | — | `Q161025` | — |
+   | Amarshan | `Q2224` | ? | — | `Q161041` | — |
+   | Susandhi | `Q2227` | ? | — | `Q161051` | — |
+   | Prasusruta | `Q2627` | `Q29967` | — | `Q161060` | `Q53538` |
+
+   **`Q2227` Susandhi is the exit.** It already carries THREE fathers — `Q53538`, `Q2627`,
+   `Q29967` — so it is already counted, and merging the Prasusruta group takes it to one,
+   which is a **−1**. A cluster that runs all the way to Prasusruta therefore ends net
+   negative; anything short of it ends +1. **Fill the `?` cells from the item files before
+   writing it** — the Q50xxx column is not walked above Visrutavant.
+
+   ⚠ **`Q2627`/`Q29967` "Prasusruta, King of Kosala" is flagged in `merge_cluster.py`'s
+   own comments (2026-08-01) as "the Kosala dedup, which queue.md holds for Emma and which
+   gates the Indian line" — and that note predates Emma's 2026-08-05 rulings and her
+   "Apply them lol".** Check whether it is still held before building the cluster; it may
+   be another parked question nobody re-asked. That is the one thing here that is not
+   simply research.
 
    **⚠ "A DEDUPE HERE GAINS DEPTH" IS DISPROVEN. Five times now.** Item 0d argued the
    merge would hand the surviving chain ancestry it lacked, because `Q2206` Ashoka had no

@@ -108,6 +108,17 @@ SEED = [
     # above Q50436. Five copies. Seeded with the four named ones; the shell rides in on
     # the correspondence.
     ("diwakar",         "Q2623", "Q29951", "Q50492", "Q160816"),
+    # Added 2026-08-18. kosala-diwakar stopped at Prativyoma, leaving Q2156 with two
+    # Vatsavyuha fathers; ARUKSHAY is the next live re-entry point above it. All three
+    # carry the identical label and each is the father of a Vatsavyuha copy.
+    ("arukshay",        "Q2178", "Q50742", "Q160926"),
+    # ARUKSHAY alone converges in one round and stops: Q50742 carries TWO fathers,
+    # Q153548 and Q50777, and the ambiguity IS the duplication -- both are labelled
+    # "BRIHATKSHATRA BRIHADBAL". Same shape as the Marudeva case above. Seeding the
+    # Brihadbal correspondence lets propagation continue, and vatsavyuha is the level
+    # kosala-diwakar stopped one short of.
+    ("vatsavyuha",      "Q153536", "Q160907", "-"),
+    ("brihadbal",       "Q153548", "Q50777", "Q160944"),
 ]
 
 _cache = {}
