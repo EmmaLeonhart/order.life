@@ -1,0 +1,122 @@
+{
+ "type": "item",
+ "id": "Q200022",
+ "labels": {
+  "en": {
+   "language": "en",
+   "value": "Haji no Ōsoba"
+  }
+ },
+ "aliases": {
+  "en": [
+   {
+    "language": "en",
+    "value": "Haji no Osoba"
+   },
+   {
+    "language": "en",
+    "value": "Haji no Oosoba"
+   },
+   {
+    "language": "en",
+    "value": "土師意富祖婆"
+   }
+  ]
+ },
+ "descriptions": {
+  "en": {
+   "language": "en",
+   "value": "Haji clan, son of Haji no Mukuro and father of Haji no Otori"
+  }
+ },
+ "claims": {
+  "P39": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P39",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153801",
+       "numeric-id": 153801
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   },
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P39",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153802",
+       "numeric-id": 153802
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P55": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P55",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q153718",
+       "numeric-id": 153718
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P47": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P47",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q15732",
+       "numeric-id": 15732
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ],
+  "P20": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P20",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "id": "Q14866",
+       "numeric-id": 14866
+      },
+      "type": "wikibase-entityid"
+     }
+    },
+    "type": "statement",
+    "rank": "normal"
+   }
+  ]
+ }
+}

@@ -566,6 +566,55 @@ BRIDGES = {
     # CANNOT CREATE A CYCLE, checked before writing: Heo Hwang-ok's descendant set is 1,269
     # records (the Gaya/Kim block plus, since Modeok, the whole Kanmu block) and contains
     # no Indian record at all -- not Ghosha, not Devabhuti, not Rama.
+    # queue.md item 0c (2026-08-18). The Haji clan is in the dump TWICE, as two fragments
+    # that do not touch, and one missing generation is the whole break:
+    #
+    #   fragment A   Q14866 Haji no Otori (NO father) -> Q14463 Haji no Kuiko
+    #   fragment B   Q19453 Nomi no Sukune -> Q17793 Adakatsu -> Q16508 Iwabi ->
+    #                Q15732 Haji no Mukuro (NO child)
+    #
+    # Wikidata puts exactly one man between them: Q97613635 "Haji no Osoba"
+    # (土師意富祖婆), whose father is Q97613639 = Q15732 Mukuro and whose child is
+    # Q97613634 = Q14866 Otori. Both dump records already carry the matching P61, so the
+    # identification is the dump's own, not a label match. This invents nobody -- it
+    # imports one attested record that the original import skipped.
+    #
+    # THE STORY, which is the part that matters: the Haji (土師氏) are the clan of Nomi no
+    # Sukune, who is descended from Ame no Hohi (Q6615, in the dump), the son Amaterasu and
+    # Susanoo produced in the ukehi -- the standard Izumo descent. Closing this gap puts
+    # Kuiko and Otori back on that line as far as Nomi no Sukune.
+    #
+    # Cannot close a cycle: checked against edges.tsv -- Q14866 has no ancestors at all,
+    # and Q15732's ancestors are Iwabi, Adakatsu and Nomi no Sukune, none of which is a
+    # descendant of Q14866.
+    #
+    # NOT DONE HERE, and it is the rest of item 0c: Nomi no Sukune (Q19453) is himself
+    # rootless, and eleven attested Izumo records stand between him and Q6715
+    # Takehiratori. Q7915 Haji no Hodo is rootless for the same reason -- his father
+    # Q136929945 and three more above him are absent. Five of those sixteen records have
+    # NO English label on Wikidata (土師土徳, 土師兎, 土師首, 可美乾飯根命, 伊佐我命) and
+    # naming them is Emma's call, not research; see queue.md.
+    "haji-osoba": {
+        "create": [
+            {
+                "qid": "Q200022",
+                "label": "Haji no Ōsoba",
+                "aliases": ["Haji no Osoba", "Haji no Oosoba", "土師意富祖婆"],
+                "desc": "Haji clan, son of Haji no Mukuro and father of Haji no Otori",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153718"]},
+                "note": "created 2026-08-18 for queue.md item 0c; wd Q97613635, the "
+                        "generation missing between Q15732 Mukuro (childless here) and "
+                        "Q14866 Otori (fatherless here). This tool cannot write P61, so "
+                        "the record does not carry wd Q97613635",
+            },
+        ],
+        "edges": [
+            ("Q15732", "Q200022", "wd Q97613635's father is wd Q97613639, which is Q15732 "
+                                  "by its own P61 -- and Q15732 had no child recorded"),
+            ("Q200022", "Q14866", "wd Q97613635's child is wd Q97613634, which is Q14866 "
+                                  "by its own P61 -- and Q14866 had no father recorded"),
+        ],
+    },
     "heo-hwang-ok-ayodhya": {
         "create": [
             {

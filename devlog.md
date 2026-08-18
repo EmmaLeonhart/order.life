@@ -4594,3 +4594,64 @@ mothers and that is the confirmation** — `Q52256` shares `Q51331` with `Q28300
 `Q28320`. The wives have to merge in the same cluster (`Q51331` ← `Q161250`,
 `Q51341` ← `Q161254`), and `Q161256` "2 of KASHI" must NOT be merged into the
 first — Brihadratha married twin princesses of Kashi, so that is a second wife.
+
+## 2026-08-18 — The Haji clan was in the dump twice, one generation apart
+
+Item 0c. `add_bridge_edges.py haji-osoba`: one record created, two edges, all six
+gates green. +14 total depth, 3 records gained, 0 lost, no tangle introduced.
+
+### The three rootless records are examined, and two of them are line-ends
+
+All three carry a `P61`, so none of this rested on a label match.
+
+- **`Q7119` Furihime** (wd `Q28415396`) — Wikidata gives her a spouse and a son,
+  Emperor Keitai, and no parents. The Nihon Shoki calls her a seventh-generation
+  descendant of Emperor Suinin and names nobody in between. Rootless, correctly.
+- **`Q7349` Otohiko Owari** (wd `Q97706283`) — one child, no parents. Rootless,
+  correctly.
+- **`Q7915` Haji no Hodo** (wd `Q58420107`, 土師富杼) — has an attested father,
+  and 27 generations above it.
+
+Leaving two of them rootless is the finding, not a failure to find one. The item
+asked whether the succession supplies a father; for these two it does not.
+
+### One missing man, two disconnected fragments
+
+Following Hodo's line up turned up something the item did not ask about: the Haji
+clan is in the dump **twice**, as two runs that do not touch.
+
+    fragment A   Q14866 Haji no Otori (no father) -> Q14463 Haji no Kuiko
+    fragment B   Q19453 Nomi no Sukune -> Q17793 Adakatsu -> Q16508 Iwabi
+                 -> Q15732 Haji no Mukuro (no child)
+
+Wikidata puts exactly one man between them — `Q97613635` Haji no Ōsoba, whose
+father is `Q97613639` and whose child is `Q97613634`. Both dump records already
+carry those as their own `P61`, so **the identification is the dump's, not mine**.
+Created as `Q200022`. Kuiko and Otori now reach Nomi no Sukune.
+
+**The story, since a count is not a result:** the Haji (土師氏) are Nomi no
+Sukune's clan, and Nomi no Sukune descends from Ame no Hohi — `Q6615`, already in
+the dump — the son Amaterasu and Susanoo produced in the ukehi, and thence
+Susanoo `Q6595` and Izanagi `Q6491`. That is why this gap is worth closing and
+why the item's own note that it is "tidy-up, not a severed line" was too modest.
+
+### Sixteen records to go, and five of them need Emma
+
+`Q19453` Nomi no Sukune is himself rootless, with eleven attested Izumo records
+between him and `Q6715` Takehiratori; `Q7915` Hodo needs four above him. Every
+one exists on Wikidata with a documented filiation — this is importing attested
+records, not inventing bridges.
+
+Eleven have an English label. **Five have only a Japanese one** — 土師土徳
+(Wikidata's own alias: 土徳連), 土師兎, 土師首, 可美乾飯根命, 伊佐我命 — and
+choosing a romanisation for those is naming, which is Emma's, not research. They
+sit at the ends of both gaps, so neither closes without them. Filed in queue.md
+as a question to ask her directly rather than parked.
+
+### And the bridges were never covered by the standing-claim gate
+
+`verify_applies_landed.py` covered the `apply_*.py` scripts and `cut_edges.py`'s
+sets, but nothing checked that an `add_bridge_edges.py` bridge is still in the
+graph — the same hole that let the Lepidus cut sit applied-and-alive for eight
+days. Registered this bridge's two edges; 10 scripts, 26 assertions. The older
+bridges are still unlisted, which is a gap and not a claim about them.

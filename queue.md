@@ -474,37 +474,55 @@ with AskUserQuestion instead of parking it here.**
 
    **⚠ "A DEDUPE HERE GAINS DEPTH" IS DISPROVEN. Four times now.** Item 0d argued the
    merge would hand the surviving chain ancestry it lacked, because `Q2206` Ashoka had no
-   father. All three merges measured **0 records gained depth and 0 lost**; total depth
+   father. All four merges measured **0 records gained depth and 0 lost**; total depth
    fell only because duplicate nodes stopped existing (−40,120, then −4,459, then −5,700, then −3,612).
    The chains were parallel **and already joined**, so collapsing them removes nodes
    without changing anyone's reach. The reason to do this is that 168 phantom people are
    gone, not depth. **Do not re-file the depth argument.**
 
-0c. **THE THREE REMAINING ROOTLESS JAPANESE RECORDS — examine and attach if the
-   succession supplies a father.**
+0c. **THE HAJI/IZUMO LINE — the three rootless records ARE EXAMINED (2026-08-18); one
+   gap is closed and sixteen records stand between this clan and Amaterasu.**
 
-   Item 0c proper (the Ōjin reconnection) is **DONE 2026-08-06** — see the devlog. Of the
-   five rootless records Kanmu's line dead-ended at, two are now closed: `Q7038`
-   Ichinobe-no Oshiwa by the Ōjin bridge, `Q7687` Yamato no Ototsugu by the Junda line.
-   **Three were never examined:**
+   **The three-record question this item was written to answer is answered.** All three
+   carry a `P61` Wikidata id, so no label-guessing was involved:
 
-   | qid | label | state |
+   | qid | wd | attested father? |
    |---|---|---|
-   | `Q7119` | Furihime | unexamined — no parents |
-   | `Q7349` | Otohiko Owari | unexamined — no parents |
-   | `Q7915` | Haji no Hodo | unexamined — no parents |
+   | `Q7119` Furihime | `Q28415396` | **No.** Wikidata gives her a spouse and a son (Keitai) and no parents. The Nihon Shoki calls her a seventh-generation descendant of Emperor Suinin and names no intermediate. **A genuine line-end.** |
+   | `Q7349` Otohiko Owari | `Q97706283` | **No.** One child, no parents. **A genuine line-end.** |
+   | `Q7915` Haji no Hodo | `Q58420107` (土師富杼) | **Yes** — `Q136929945` 土師土徳, and a further 27 generations above it |
 
-   These are **maternal-side and clan records**, not emperors, so they will not all have a
-   Kojiki succession answer. **Research, ours to do**: look each up on Wikidata by label,
-   and where an attested father exists, wire it with `add_bridge_edges.py`. Where none
-   exists, say so and leave the record rootless rather than inventing one — Furihime and
-   Haji no Hodo may genuinely be line-ends.
+   **DONE: `add_bridge_edges.py haji-osoba`.** The Haji clan was in the dump as two
+   fragments that did not touch, and exactly one man was missing between them:
 
-   Note this is now **much lower value than it was**: Kanmu already reaches `Q1` Aster
-   through Jimmu, so these no longer gate anything. They are tidy-up, not a severed line.
+   - fragment A — `Q14866` Haji no Otori (no father) → `Q14463` Haji no Kuiko
+   - fragment B — `Q19453` Nomi no Sukune → `Q17793` Adakatsu → `Q16508` Iwabi →
+     `Q15732` Haji no Mukuro (no child)
 
-   Verify with `verify_repair.py` around it; expect **no new tangle** and a depth *gain*,
-   never a loss. Propagate to shadow files; `shadow_audit.py` at 0.
+   `Q200022` Haji no Ōsoba (wd `Q97613635`) is Mukuro's son and Otori's father, and both
+   dump records already carried the matching `P61`, so the identification is the dump's
+   own rather than a label match. **Kuiko and Otori now reach Nomi no Sukune.**
+
+   **THE STORY, since a reachability count is not a result:** the Haji (土師氏) are Nomi
+   no Sukune's clan, and Nomi no Sukune descends from **Ame no Hohi** — `Q6615`, already
+   in the dump — the son Amaterasu and Susanoo produced in the ukehi, whence `Q6595`
+   Susanoo and `Q6491` Izanagi. That is the Izumo descent, and it is why closing these
+   gaps is worth doing rather than a tidy-up.
+
+   **STILL OPEN — sixteen attested records, and FIVE OF THEM NEED A NAME FROM EMMA.**
+   Every one exists on Wikidata with a documented filiation; none is invented. Eleven have
+   an English label and can be created as-is. Five have **only a Japanese label**, and
+   choosing a romanisation is a naming call, not research:
+
+   | gap | records to create, bottom-up | needs a name |
+   |---|---|---|
+   | `Q7915` Hodo → `Q14463` Kuiko | 土師土徳 `Q136929945`, 土師兎 `Q136931977`, 土師首 `Q97613641`, Haji no Ōhodo `Q97613632` | **three of four** |
+   | `Q19453` Nomi no Sukune → `Q6715` Takehiratori | 可美乾飯根命 `Q136908598`, Iiirine `Q55533680`, Izumo no Furune `Q55533077`, Yomorosunomikoto `Q135579361`, Chirinomikoto `Q135579360`, Kushidanomikoto `Q135579359`, Kushichitoriuminomikoto `Q135579358`, Kushitsukinomikoto `Q135579356`, Kushifusakinomikoto `Q135579355`, Tsusahime no Mikoto `Q135579354`, 伊佐我命 `Q135284917` | **two of eleven**, and both sit at the ends of the chain, so neither gap closes without them |
+
+   **Ask Emma with `AskUserQuestion`, do not park this.** The question is narrow: what to
+   call 土師土徳 (Wikidata's own alias is 土徳連), 土師兎, 土師首, 可美乾飯根命 and
+   伊佐我命 — a romanisation, the kanji, or something else. Everything around it is ready
+   to write.
 
 0b. **BC-DATE SIGN — CHECKED 2026-08-05. The inversion class is SOUND; nothing to
    revert. A narrower residual is real and is the remaining work.**

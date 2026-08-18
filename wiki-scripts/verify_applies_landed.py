@@ -47,6 +47,15 @@ ABSENT, PRESENT = "absent", "present"
 
 # (script, edge (parent, child), expectation, why)
 EXPECTED = [
+    # add_bridge_edges.py declares its bridges the same way cut_edges.py declares cuts, but
+    # nothing was checking that they are still in the graph. Registering them here as they
+    # are written; the older bridges are not listed, which is a gap and not an assertion
+    # that they are absent.
+    ("add_bridge_edges.py haji-osoba", ("Q15732", "Q200022"), PRESENT,
+     "Haji no Mukuro is Osoba's father -- wd Q97613635's P22 is wd Q97613639, Q15732's own P61"),
+    ("add_bridge_edges.py haji-osoba", ("Q200022", "Q14866"), PRESENT,
+     "Haji no Osoba is Otori's father -- wd Q97613635's P40 is wd Q97613634, Q14866's own P61"),
+
     ("apply_lepidus_cut.py", ("Q72786", "Q72615"), ABSENT,
      "Quintus's father is Q144279; wd Q3625112 lists exactly two children"),
 
