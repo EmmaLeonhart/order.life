@@ -377,17 +377,19 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-0f. **FINISH THE MAGADHA/KOSALA DEDUPE. Senajit up to Somapi and Diwakar up to
-   Prativyoma are merged; the `Q28xxx` continuation above each remains.**
+0f. **FINISH THE MAGADHA/KOSALA DEDUPE. Senajit up to VRIHADRATHA and Diwakar up to
+   Prativyoma are merged; the levels above each remain.**
 
    **DONE:** 131 merges (`magadha-triple`), 27 stale refs cleared, 11 more merges
-   (`magadha-tail`), and on **2026-08-18** two more clusters — `magadha-senajit`
+   (`magadha-tail`), and on **2026-08-18** three more clusters — `magadha-senajit`
    (17 merges: the three dropped SENAJIT pairs, every generation above them as far as
    SOMAPI, and the six nameless shells that were blocking all of it) and
    `kosala-diwakar` (9 merges: the five copies of Sahdev Diwakar, Divakara, Bhanu,
-   Prativyoma, and the BRIHADASVA pair `magadha-tail` dropped). All six gates green on
-   both; `children_over_2_parents` **1200 → 1199 → 1198**, and the 1200 → 1199 is exactly
-   the number this item predicted from the cause it named. **168 duplicate records gone
+   Prativyoma, and the BRIHADASVA pair `magadha-tail` dropped), then `magadha-somapi`
+   (9 merges: SOMAPI, SAHADEVA, JARASANDHA, two more nameless VRIHADRATHA copies, and the
+   two wives they hang from). All six gates green on all three;
+   `children_over_2_parents` **1200 → 1199 → 1198 → 1196**, and the 1200 → 1199 is exactly
+   the number this item predicted from the cause it named. **177 duplicate records gone
    in total.**
 
    **THE PRESCRIBED REPAIR FOR THE SHELLS WAS WRONG AND THIS IS WHY.** This item called
@@ -424,37 +426,36 @@ with AskUserQuestion instead of parking it here.**
      was `Q2302` SRUTASRAVA's *only* declared father. Same condition as the divine-father
      rule: only remove a parent where a named one survives.
 
-   **STILL OPEN — and the shape of what is left is now known, which it was not before.**
+   **STILL OPEN — and the shape of what is left is known, which it was not before.**
 
    **EVERY CLUSTER OF THIS KIND MUST STOP ONE LEVEL SHORT, so this is iterative by
    construction and not one big merge.** Each level's copies each carry their own copy of
    the next man up, so the TOP group of any cluster inherits three unmerged fathers and
-   fails I4. `magadha-triple`, `magadha-tail`, `magadha-senajit` and `kosala-diwakar` each
-   stopped for exactly this reason. It is not a compromise and it is not a bug to fix —
-   plan on one cluster per few generations.
+   fails I4. `magadha-triple`, `magadha-tail`, `magadha-senajit`, `kosala-diwakar` and
+   `magadha-somapi` each stopped for exactly this reason. It is not a compromise and it is
+   not a bug to fix — plan on one cluster per few generations.
 
-   **(1) The Magadha chain continues into a FIFTH qid region, `Q28xxx`.** `Q2302`
-   SRUTASRAVA now lists two fathers because of it. Verified by hand, ready to write as a
-   cluster:
+   **(1) The Magadha chain, above King VRIHADRATHA.** `magadha-somapi` stopped there and
+   `Q28308` JARASANDHA keeps **two** Vrihadratha fathers, `Q28320` and `Q161255`, as the
+   residue. Merging them is not a two-line extension: it needs `Q153399` UPARICHARA VASU
+   ← `Q160517` **and** `Q51352` GIRIKA ← `Q161261` in the same cluster, and Girika's own
+   parents (`Q51377`/`Q161269`, `Q51382`/`Q161270`) after that. Simulated: the extended
+   version scores **worse** — `children_over_2_parents` −1 instead of −2, with `Q51352`
+   newly at four parents. **Simulate before writing the cluster** (see below); do not
+   assume more merging is better.
 
-   | who | survivor | losers |
-   |---|---|---|
-   | SOMAPI | `Q28284` | `Q161236` |
-   | SAHADEVA / Jarasandha | `Q28300` | `Q161242`, `Q52256` |
-   | JARASANDHA / Brihadratha | `Q28308` | `Q161249`, `Q52264` |
-   | King VRIHADRATHA | `Q28320` | `Q161255`, `Q52276`, `Q53518` |
+   **`Q28308`'s TWO MOTHERS ARE THE STORY, NOT A DEFECT.** `Q51341` and `Q161256` are the
+   twin princesses of Kashi. Brihadratha married both, and the Mahabharata is explicit
+   that Jarasandha was born of the two of them — each queen bore half a child and the
+   rakshasi Jara joined the halves, which is where the name comes from. Do not "fix" it.
 
-   **The shells here carry MOTHERS, and that is the confirmation, not a complication:**
-   `Q52256`'s mother is `Q51331`, which is also `Q28300`'s; `Q52264`'s is `Q51341`, which
-   is also `Q28308`'s; `Q52276` and `Q53518` share `Q51352` with `Q28320`. Two nameless
-   regions run in parallel here (`Q52xxx` **and** `Q53xxx`), which is why Vrihadratha has
-   two shells rather than one.
-
-   **The wives must go in the same cluster or the survivors gain two mothers:**
-   `Q51331` "Wife of Jarasandha" ← `Q161250` (same label); `Q51341` "PRINCESS 1 of KASHI"
-   ← `Q161254` "1 of KASHI\Banaras\Varanasi". **`Q161256` "2 of KASHI" is a SECOND wife,
-   not a duplicate** — Brihadratha married twin princesses of Kashi — so do not merge it
-   into the first. Check `Q51352` GIRIKA for a `Q161xxx` counterpart before writing.
+   **SIMULATE A CLUSTER BEFORE APPLYING IT.** Applying `magadha-somapi` needed
+   `--force-i4`, and the way to know that was safe was not argument: apply the cluster's
+   alias map to both endpoints of every edge in `edges.tsv` and recount. That took a
+   second and predicted `1198 → 1196` exactly, against a pre-check that warned of an
+   increase. The pre-check's own docstring says it over-warns because it does not model
+   the offsetting decreases; the simulation does. **`check_invariants` is still the gate
+   that decides — the simulation only tells you whether to spend twenty minutes.**
 
    **(2) The Kosala solar chain continues above Prativyoma.** Verified by hand, same
    shape, same stopping rule:
@@ -472,12 +473,12 @@ with AskUserQuestion instead of parking it here.**
    vacated now, so the tool reports 0 groups until a live one is added. That is expected,
    not a regression.
 
-   **⚠ "A DEDUPE HERE GAINS DEPTH" IS DISPROVEN. Four times now.** Item 0d argued the
+   **⚠ "A DEDUPE HERE GAINS DEPTH" IS DISPROVEN. Five times now.** Item 0d argued the
    merge would hand the surviving chain ancestry it lacked, because `Q2206` Ashoka had no
-   father. All four merges measured **0 records gained depth and 0 lost**; total depth
-   fell only because duplicate nodes stopped existing (−40,120, then −4,459, then −5,700, then −3,612).
+   father. All five merges measured **0 records gained depth and 0 lost**; total depth
+   fell only because duplicate nodes stopped existing (−40,120, then −4,459, then −5,700, then −3,612, then −2,313).
    The chains were parallel **and already joined**, so collapsing them removes nodes
-   without changing anyone's reach. The reason to do this is that 168 phantom people are
+   without changing anyone's reach. The reason to do this is that 177 phantom people are
    gone, not depth. **Do not re-file the depth argument.**
 
 0c. **LOOK FOR MORE `Q200022`-SHAPED GAPS — one missing generation between two runs

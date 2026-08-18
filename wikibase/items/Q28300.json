@@ -22,18 +22,18 @@
         "type": "statement"
       },
       {
-        "id": "Q28300$2935963E-CC4E-4AF4-B490-14CDA696BF29",
+        "id": "Q161242$0185346D-62FA-EFC8-98F6-79DFDF7C3993",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161236",
-              "numeric-id": 161236
+              "id": "Q170770",
+              "numeric-id": 170770
             }
           },
-          "hash": "cc8215402ea4e51ba0432c50b701e431135e09cb",
+          "hash": "eb0096fec5894f27ec256e865cee26e122a2c5a8",
           "property": "P20",
           "snaktype": "value"
         },
@@ -95,25 +95,6 @@
             }
           },
           "hash": "9801cc216819efc4b98dd5cd2156085b18e1905e",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q28300$7F9577E8-FFE4-4CFC-8959-E14681AA3681",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q52264",
-              "numeric-id": 52264
-            }
-          },
-          "hash": "e31038953091847734269717c3acd2b3592c808e",
           "property": "P47",
           "snaktype": "value"
         },
@@ -242,6 +223,23 @@
           },
           "hash": "23006180778f90943d90624492c20dc788014f9c",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q161242$B4FA803A-061B-7741-69F3-28E1858BB5B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009709918023"
+          },
+          "hash": "7ea8cb093a898d146d5182b60a846591cfcfe169",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

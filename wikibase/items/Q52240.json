@@ -3,7 +3,7 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161236$21CE5719-FCAB-2184-2D80-1AB175B64C9A",
+        "id": "Q28284$A9BF53D9-1322-48FF-B374-BAA5B5CA49BD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -14,7 +14,7 @@
               "numeric-id": 2302
             }
           },
-          "hash": "2e7a27f4d50cc4df76ad40c47c7f10ef5e82a06b",
+          "hash": "c84802c885fc2ab8f85952874b88e998d0353c64",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q161236$1A646B29-6CEA-40E7-8B9D-EFE5FD2C2817",
+        "id": "Q28284$369DDA17-C92A-40EC-9C54-57502024EF5E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161236$419B1B90-1B9A-4CB8-9FE6-B61362121384",
+        "id": "Q28284$10D8B3B7-A4D0-42D5-809D-AD91461CAD87",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q161236$201607A5-9C45-A147-C662-253CFA3DC8CB",
+        "id": "Q28284$4DA261E5-0F24-4408-A2F4-0DEC24EF625F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161242",
-              "numeric-id": 161242
+              "id": "Q28300",
+              "numeric-id": 28300
             }
           },
-          "hash": "c9b0705838cf9e7df5fbb5f0a94a50f8ab1c187d",
+          "hash": "5ea3c6167afa5476010e89c873950980dc61a564",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q161236$54E08BF0-C99A-65A2-B021-F2C05326088E",
+        "id": "Q28284$D699D3E4-C786-4AA6-A6B7-37C66DF09818",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +98,71 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q28284$5E3DD6CD-416E-49C6-9BD2-5ECC50AD41E1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1676-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "81b7c3cb4c1cf1f1a2d60c82e58ba3da9441d20d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q28284$F4A3C361-6992-4E19-A080-8131507F7EC7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1618-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "12c341d53d4bd90801890766bd1f7295a267abdb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q28284$0937C675-3CF4-4F2E-B3C3-2EAEC91695F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "SOMAPI of Magadha Arms.svg"
+          },
+          "hash": "3d91b73acb100c28bc584f043168cd52856e4151",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,42 +185,25 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161236$E54EAF71-3495-46AB-916E-FE92A38E19F9",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "SOMAPI Sahadeva Arms.svg"
-          },
-          "hash": "89848671d9a500574d78d29b4853ee5fe350bf3c",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161236",
+  "id": "Q28284",
   "labels": {
     "en": {
       "language": "en",
-      "value": "SOMAPI Sahadeva"
+      "value": "SOMAPI of Magadha"
     },
     "es": {
       "language": "es",
-      "value": "SOMĀPI /Sahadeva/"
+      "value": "SOMĀPI of Magadha"
     }
   },
-  "lastrevid": 17584552,
-  "modified": "2025-09-17T18:13:17Z",
+  "lastrevid": 17427586,
+  "modified": "2025-09-16T04:29:19Z",
   "ns": 860,
-  "pageid": 204401,
+  "pageid": 48942,
   "sitelinks": {},
-  "title": "Item:Q161236",
+  "title": "Item:Q28284",
   "type": "item"
 }

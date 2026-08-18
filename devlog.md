@@ -4719,3 +4719,68 @@ fathers on the source is the same signal here as it is in the dump.
 would read it as a no-op, which is exactly how the Lepidus cut survived eight days.
 The four anchor edges of these chains are now registered, the ones touching records
 that already existed, so a chain that comes loose at either end fails the gate.
+
+## 2026-08-18 — Jarasandha's two mothers, and simulating a merge instead of arguing about it
+
+Item 0f, part 1. `magadha-somapi`: **9 merges**, all six gates green,
+`children_over_2_parents` **1198 → 1196**, 0 records lost depth and 0 gained,
+total depth −2,313. 177 duplicate records gone across the five Magadha/Kosala
+passes.
+
+### The pre-check said this cluster would fail, and it was wrong
+
+`merge_cluster.py`'s I4 pre-check refused `Q28308` JARASANDHA: two canonical
+parents before, four after, `--write` aborts. Its own docstring says it
+over-warns — it counts survivors crossing upward and does not model the
+offsetting decreases a merge produces elsewhere.
+
+The way to settle that was not to argue with it. Apply the cluster's alias map to
+both endpoints of every edge in `edges.tsv` and recount:
+
+    children_over_2_parents  1198 -> 1196   (delta -2)
+    newly over 2:            none
+    no longer over 2:        Q28300, Q161249
+
+That took a second and it was exactly right — `check_invariants` on the
+regenerated extract reports 1196. `Q28308` sits at four distinct parents today
+and four afterwards: already counted, still counted, no change. Applied with
+`--force-i4` on that evidence, and the gate that decided it was
+`check_invariants`, not the override.
+
+**Simulate before spending twenty minutes on a sweep.** This is the same lesson
+as the I4 pre-check's own origin — 45 minutes of 164k-file sweeps to learn
+something computable in a second from the inputs — pointed the other way.
+
+### Jarasandha has two mothers and that is the Mahabharata, not a defect
+
+`Q28308`'s four parents are two Vrihadrathas (`Q28320`, `Q161255` — the residue
+this cluster stops on) and **two mothers, `Q51341` and `Q161256`, who are the
+twin princesses of Kashi**. Brihadratha married both. Each queen bore half a
+child; the rakshasi Jara joined the halves, which is where the name Jarasandha
+comes from.
+
+So `Q161254` "1 of KASHI" merges into `Q51341` and **`Q161256` "2 of KASHI" must
+not** — they are two women, and the dump is right to carry both as mothers. A
+same-role scan will keep offering that pair; it is on the do-not-merge list now.
+
+### The shells carry mothers, which is what identifies them
+
+Six nameless records were merged in the last three passes on position alone. Here
+the evidence is stronger and worth recording as the pattern: `Q52256` shares
+**both** parents with `Q28300` (father `Q28308`, mother `Q51331`), `Q52264` shares
+both with `Q28308`, and `Q52276` and `Q53518` share both with `Q28320`. A
+contentless record with the same father, the same mother and the same child as a
+named one is that man twice.
+
+Two nameless regions run in parallel at the Vrihadratha level — `Q52xxx` and
+`Q53xxx` — which is why that generation had two shells rather than one.
+
+### Where it stops, and why more merging scored worse
+
+`Q28320` VRIHADRATHA is not merged with its `Q161255` copy. That needs Uparichara
+Vasu (`Q153399`/`Q160517`) and Girika (`Q51352`/`Q161261`) in the same cluster,
+and Girika's own parents after that. Simulated: the extended version gives
+**−1 instead of −2, with `Q51352` newly at four parents**. More merging is not
+better, and the simulation is how you find that out before writing it.
+
+`qa_vacated_refs` 15 → 0 via `repoint_vacated_qids.py` over 14 files.

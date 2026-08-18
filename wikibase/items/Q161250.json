@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q161250$572EEC2A-B804-6635-4B87-3CE879E685F5",
+        "id": "Q51331$33A93BC1-2B8C-4BF9-B65B-2BC323ECBA08",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161242",
-              "numeric-id": 161242
+              "id": "Q28300",
+              "numeric-id": 28300
             }
           },
-          "hash": "10a1a6b10d6c676d16dfed4cd15abd0978b1e2e4",
+          "hash": "e36c165efe64eb4de5a0fd3791ad56f85e589190",
           "property": "P20",
           "snaktype": "value"
         },
@@ -62,7 +62,7 @@
     ],
     "P39": [
       {
-        "id": "Q161250$5E2225B5-5982-4FE8-89BC-DC4E8D69F57A",
+        "id": "Q51331$D0078362-0A73-4F24-8EBB-07704FC943AB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -81,7 +81,7 @@
         "type": "statement"
       },
       {
-        "id": "Q161250$6823EA3C-28E6-4306-BA36-805A58C522C6",
+        "id": "Q51331$20270D82-9FCC-4A13-AAD4-2A3AD21BC61C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -102,19 +102,39 @@
     ],
     "P42": [
       {
-        "id": "Q161250$43BEBD44-3DD3-2292-E241-11281AA46DF3",
+        "id": "Q51331$9521DC13-842F-4A2A-8DAD-8870310D44AA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q161249",
-              "numeric-id": 161249
+              "id": "Q28308",
+              "numeric-id": 28308
             }
           },
-          "hash": "68882e150ee304e3b8c63f9b16d3d1e1bc708404",
+          "hash": "c991904f98d1eb118ac31b1d9318ce2f05a80ef0",
           "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q51331$01AD6933-E45C-4185-B194-EF16D1DB6527",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Wife of /Jarasandha/"
+            }
+          },
+          "hash": "69da736f329c01fbec32154d66803b71c18d23af",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -123,7 +143,7 @@
     ],
     "P55": [
       {
-        "id": "Q161250$AB92FA8D-F38E-36D8-9FA3-5BE750C5993F",
+        "id": "Q51331$CCE3C077-222C-4BFD-B3A0-EF28448FD487",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -136,6 +156,23 @@
           },
           "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q51331$5A32BF64-727D-4592-8CC0-1FBBD1992D92",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wife of  Jarasandha Arms.svg"
+          },
+          "hash": "5b8f2f5b23c4ed1f4691a02c8e805f1c3bd60645",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -158,38 +195,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q161250$44216984-E575-40E3-957D-8D3ACBB80026",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Wife of Jarasandha Arms.svg"
-          },
-          "hash": "8bc0bd7dfd2444d3a1fae79b34330247649e6659",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q161250",
+  "id": "Q51331",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Wife of Jarasandha"
+      "value": "Wife of  Jarasandha"
     }
   },
-  "lastrevid": 17584572,
-  "modified": "2025-09-17T18:13:33Z",
+  "lastrevid": 17457402,
+  "modified": "2025-09-16T11:41:07Z",
   "ns": 860,
-  "pageid": 204415,
+  "pageid": 66189,
   "sitelinks": {},
-  "title": "Item:Q161250",
+  "title": "Item:Q51331",
   "type": "item"
 }

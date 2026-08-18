@@ -1,9 +1,68 @@
 {
   "aliases": {},
   "claims": {
+    "P20": [
+      {
+        "id": "Q28308$1A13B867-A3C2-4507-AA08-7F0EE159CC5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28300",
+              "numeric-id": 28300
+            }
+          },
+          "hash": "8e73c2f3eb257388a22e3c71e4587820d84f24d3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q161249$5EE1E1C4-581F-9C7D-18E5-564B0D0524FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q170684",
+              "numeric-id": 170684
+            }
+          },
+          "hash": "b5c09f5f037517b0ae85d924f12e9b71e3f18f8b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q161249$3C8372E7-396B-EB0B-EBF6-73B32D4EB39B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q170685",
+              "numeric-id": 170685
+            }
+          },
+          "hash": "9094090898e2e32691ed78058ccaf1ac594b4a72",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P39": [
       {
-        "id": "Q52264$3930854B-48CB-41A7-959F-4717BE197CDC",
+        "id": "Q28308$C0C36645-0D93-40A1-BFA1-DFB48D587573",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +81,7 @@
         "type": "statement"
       },
       {
-        "id": "Q52264$E29BC12D-E287-4083-88B6-966E84670868",
+        "id": "Q28308$D83EE065-506C-487F-85AB-53868B5D0B3C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -40,23 +99,249 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P42": [
+      {
+        "id": "Q28308$2A12AB4B-3732-480C-BBD3-834BA9774C9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51331",
+              "numeric-id": 51331
+            }
+          },
+          "hash": "ddbff933c3bd46c47b7c1e6254141f70187534e4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q28308$386452D9-D622-45B6-8656-1102FAEF4315",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28320",
+              "numeric-id": 28320
+            }
+          },
+          "hash": "a4d689737368c26f4042261e6a83cc8be663dc06",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q161249$D3C79907-38DE-E491-7EDC-2B2833AEE513",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q161255",
+              "numeric-id": 161255
+            }
+          },
+          "hash": "bb0616a8578e99fe127c39264127888c0264607f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q28308$882389A8-85E7-4B1B-B229-3CB8EC6C4C0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51341",
+              "numeric-id": 51341
+            }
+          },
+          "hash": "479771cadf1c4ee77e4acf4b54a5ad196e1a4312",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q161249$6596C1FA-882F-C1C9-B59C-146EC1EA9D04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q161256",
+              "numeric-id": 161256
+            }
+          },
+          "hash": "d9e0589865b5f2cd6147972701826b060fbc281b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q28308$09A36129-BC4C-4D3C-9FB6-8214E90977A1",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "JARĀSANDHA /Brihadratha/"
+            }
+          },
+          "hash": "5f0a9353217b26b9767aed4a9c65248f037beed9",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q28308$C32A62A0-0C37-40FC-A9D1-051E4080E354",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q28308$4B300B4F-F397-4BE7-83CC-C44FB6C2B9A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1760-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "76816e46422f068f4430d6cebb671040cfa71325",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q28308$CB1B5248-073D-4C3C-A97A-97A83C3BC0CE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1718-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "99aad94f924fe7c339b4f9b07d6a5349fc8cbc3b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q28308$181B19B8-8CBB-4ACE-9DE0-C0E2C3BE17FB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "JARASANDHA  Brihadratha Arms.svg"
+          },
+          "hash": "b184fc80d82078808e1d7676a93215d2fa26718a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q161249$C90B51E9-B67E-A49E-E776-A6019EFCBC7E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001442038829"
+          },
+          "hash": "3b65b91cc916001c6fcd970e7cfab13bf7214d50",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q52264",
-  "labels": {},
-  "lastrevid": 17458222,
-  "modified": "2025-09-16T11:53:30Z",
-  "ns": 860,
-  "pageid": 67095,
-  "sitelinks": {
-    "evolutionismwiki": {
-      "badges": [],
-      "site": "evolutionismwiki",
-      "title": "Notes:Q52264",
-      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q52264"
+  "id": "Q28308",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "JARASANDHA  Brihadratha"
+    },
+    "es": {
+      "language": "es",
+      "value": "JARĀSANDHA  Brihadratha"
     }
   },
-  "title": "Item:Q52264",
+  "lastrevid": 17427604,
+  "modified": "2025-09-16T04:29:34Z",
+  "ns": 860,
+  "pageid": 48960,
+  "sitelinks": {},
+  "title": "Item:Q28308",
   "type": "item"
 }

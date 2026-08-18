@@ -1,16 +1,49 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "SAHADEVA of Magadha Jarasandha"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
+    "P20": [
+      {
+        "id": "Q28300$E94AADE0-A4B0-4520-80F1-A1913AED14DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28284",
+              "numeric-id": 28284
+            }
+          },
+          "hash": "746641c87f5384726a30f7f609a46236a6438ad5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q161242$0185346D-62FA-EFC8-98F6-79DFDF7C3993",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q170770",
+              "numeric-id": 170770
+            }
+          },
+          "hash": "eb0096fec5894f27ec256e865cee26e122a2c5a8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P39": [
       {
-        "id": "Q52256$E691A78C-BA27-4470-9B50-327EB845D843",
+        "id": "Q28300$463FCD50-3073-4F54-BFF9-E83A0C231223",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -29,7 +62,7 @@
         "type": "statement"
       },
       {
-        "id": "Q52256$44CD74E5-54FF-463A-9C9A-4A884C0B9581",
+        "id": "Q28300$35476805-9702-4540-BF05-2B23D589FDB8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -47,23 +80,193 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P47": [
+      {
+        "id": "Q28300$0708995E-BA11-4AA6-8B8E-FCA72C4385EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28308",
+              "numeric-id": 28308
+            }
+          },
+          "hash": "9801cc216819efc4b98dd5cd2156085b18e1905e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q28300$57A417A0-66E6-4A5D-974C-8DD291D9F34B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51331",
+              "numeric-id": 51331
+            }
+          },
+          "hash": "284c49f07102b7668aa87a5f6431b0c35eead1a1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q28300$F5078BCF-98EA-4FE5-B397-200C55EAD753",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "SAHADEVA of Magadha /Jarasandha/"
+            }
+          },
+          "hash": "9ef65389c52ac742157b3e11e84c671d2b374f0b",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q28300$19224D4C-FDCF-45BC-95E5-682F5710B675",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q28300$3C8A293C-710A-4616-A051-1C6326C55A95",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1718-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "54b1fdb910f369c2e8cd898b96487d1682d37e16",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q28300$3B50C1FC-68A9-4D01-BF08-825B7BA3F51E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1676-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fea51f4d2efd837944152640def43bc3079d612d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q28300$CF4C3932-7322-43BB-AAFF-E3924D041538",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "SAHADEVA of Magadha  Jarasandha Arms.svg"
+          },
+          "hash": "23006180778f90943d90624492c20dc788014f9c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q161242$B4FA803A-061B-7741-69F3-28E1858BB5B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009709918023"
+          },
+          "hash": "7ea8cb093a898d146d5182b60a846591cfcfe169",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q52256",
-  "labels": {},
-  "lastrevid": 17458208,
-  "modified": "2025-09-16T11:53:17Z",
+  "id": "Q28300",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "SAHADEVA of Magadha  Jarasandha"
+    }
+  },
+  "lastrevid": 17427598,
+  "modified": "2025-09-16T04:29:29Z",
   "ns": 860,
-  "pageid": 67087,
+  "pageid": 48954,
   "sitelinks": {
     "evolutionismwiki": {
       "badges": [],
       "site": "evolutionismwiki",
-      "title": "Notes:Q52256",
-      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q52256"
+      "title": "Notes:Q28300",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q28300"
     }
   },
-  "title": "Item:Q52256",
+  "title": "Item:Q28300",
   "type": "item"
 }

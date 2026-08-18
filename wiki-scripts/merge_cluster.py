@@ -806,6 +806,69 @@ CLUSTERS = {
                               "are fathers of Q2079 Bhanuratha and both descend from the "
                               "Diwakar group merged above, so the two-father block is gone"),
     ],
+    # queue.md item 0f, part 1 (2026-08-18). The Q28xxx continuation above SOMAPI, which
+    # is where magadha-senajit stopped. Same shape as every pass before it: three named
+    # copies per generation across Q2xxx/Q28xxx/Q161xxx, plus nameless copies in the
+    # Q52xxx and Q53xxx regions.
+    #
+    # THE SHELLS HERE CARRY MOTHERS, and that is the confirmation rather than a
+    # complication. Q52256's mother is Q51331, which is also Q28300's; Q52264's is Q51341,
+    # which is also Q28308's; Q52276 and Q53518 share Q51352 with Q28320. A nameless record
+    # that shares BOTH parents with a named one, and sits in its slot, is that man.
+    #
+    # THE WIVES MERGE IN THE SAME CLUSTER or the survivors gain a second mother:
+    # Q51331 "Wife of Jarasandha" <- Q161250, same label; Q51341 "PRINCESS 1 of KASHI" <-
+    # Q161254 "1 of KASHI\Banaras\Varanasi".
+    #
+    # Q161256 "2 of KASHI" IS NOT MERGED AND MUST NOT BE. Brihadratha married the TWIN
+    # princesses of Kashi, and the Mahabharata is explicit that Jarasandha was born of both
+    # -- each queen bore half a child and the rakshasi Jara joined the halves, which is
+    # where his name comes from. Two mothers on Q28308 is the story, not a defect, and it
+    # is the reason the I4 pre-check has to be overridden below.
+    #
+    # WHY --force-i4 IS CORRECT HERE, MEASURED RATHER THAN ARGUED. The pre-check compares
+    # the survivor's canonicalised parents before (2: Q28320, Q51341) against the union
+    # after (4: Q28320, Q161255, Q51341, Q161256) and warns. Its own docstring says it
+    # over-warns because it does not model the offsetting decreases. Simulated against
+    # edges.tsv by applying this cluster's alias map to both endpoints of every edge:
+    #
+    #   children_over_2_parents  1198 -> 1196   (delta -2)
+    #   newly over 2:            none
+    #   no longer over 2:        Q28300, Q161249
+    #
+    # Q28308 is at FOUR distinct parents today (Q28320, Q52276, Q53518, Q51341) and at four
+    # afterwards (Q28320, Q161255, Q51341, Q161256) -- already counted, still counted, no
+    # change. check_invariants is the gate that decides this, not the pre-check.
+    #
+    # WHERE IT STOPS, and it is the same rule as kosala-diwakar: Q28320 VRIHADRATHA is NOT
+    # merged with its Q161255 copy. Doing so needs their parents merged too -- Uparichara
+    # Vasu Q153399/Q160517 and Girika Q51352/Q161261 -- and simulating THAT gives a worse
+    # result, delta -1 with Q51352 newly crossing to four parents, because Girika's own
+    # parents then need merging in turn. So Q28308 keeps two Vrihadratha fathers as the
+    # residue and the next cluster starts there.
+    "magadha-somapi": [
+        ("Q28284", "Q161236", "SOMAPI -- both are fathers of Q2302 SRUTASRAVA, which is "
+                              "why Q2302 came out of magadha-senajit with two"),
+        ("Q28300", "Q161242", "SAHADEVA of Magadha / Jarasandha"),
+        ("Q28300", "Q52256", "the nameless copy of SAHADEVA -- child of Q28308 JARASANDHA "
+                             "by Q51331, which is Q28300's own father and mother, and "
+                             "father of Q28284 SOMAPI"),
+        ("Q28308", "Q161249", "JARASANDHA / Brihadratha"),
+        ("Q28308", "Q52264", "the nameless copy of JARASANDHA -- child of Q28320 "
+                             "VRIHADRATHA by Q51341, which is Q28308's own father and "
+                             "mother, and father of Q28300 SAHADEVA"),
+        ("Q28320", "Q52276", "a nameless copy of King VRIHADRATHA -- child of Q153399 "
+                             "UPARICHARA VASU by Q51352 GIRIKA, which is Q28320's own "
+                             "father and mother, and father of Q28308 JARASANDHA"),
+        ("Q28320", "Q53518", "the SECOND nameless copy of King VRIHADRATHA, same parents "
+                             "and same slot -- two nameless regions run in parallel here, "
+                             "Q52xxx and Q53xxx"),
+        ("Q51331", "Q161250", "Wife of Jarasandha -- identical label, and the mother of "
+                              "the SAHADEVA group merged above"),
+        ("Q51341", "Q161254", "PRINCESS 1 of KASHI [LABELS DIFFER: 1 of "
+                              "KASHI\\Banaras\\Varanasi Banaras] -- the FIRST of the "
+                              "twin princesses. Her twin Q161256 is a different woman"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "
