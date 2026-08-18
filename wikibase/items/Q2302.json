@@ -20,44 +20,6 @@
         },
         "rank": "normal",
         "type": "statement"
-      },
-      {
-        "id": "Q2302$C6F04C58-1FD6-439C-9A4B-E78160C01CAB",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q51321",
-              "numeric-id": 51321
-            }
-          },
-          "hash": "865e28965f8d386a9c1ca30ae313fe38c991ef80",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q2302$A9A5BA0C-2C83-4998-8146-B8199391253B",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q52216",
-              "numeric-id": 52216
-            }
-          },
-          "hash": "fb0c7de1acc85df0a31a87decf0b16ea20ec0ed1",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
       }
     ],
     "P39": [
@@ -109,8 +71,8 @@
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q52240",
-              "numeric-id": 52240
+              "id": "Q161236",
+              "numeric-id": 161236
             }
           },
           "hash": "ee0d2323e1b497f66f6770975a3a97f82eaa6c13",
@@ -201,6 +163,23 @@
           },
           "hash": "41d0193e6e97822f2bbf942d56334b98cf3bc145",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q161232$259F6A15-FC70-3F97-EBEF-FE08869F7DF0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009709721118"
+          },
+          "hash": "1d444ae244e7e437c89f88e74daf4f3f541d6e97",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

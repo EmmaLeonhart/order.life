@@ -691,6 +691,77 @@ CLUSTERS = {
         ("Q50436", "Q160791", "BRIHADASVA of Kosala [LABELS DIFFER: BRIHADASVA of Kosala]"),
         ("Q153455", "Q160680", "SUNAKSHTRA MARUDEVA"),
     ],
+    # queue.md item 0f, part 1 (2026-08-18). The three SENAJIT pairs the magadha-triple
+    # pass dropped, plus everything above them, plus the thing that was blocking all of it.
+    #
+    # WHAT WAS ACTUALLY IN THE WAY. Item 0f called Q52176 and Q52188 "empty records in
+    # parent slots" and prescribed a cut. They are not empty slots -- they are a FOURTH,
+    # NAMELESS copy of the Magadha king list, running in parallel with the Q2xxx, Q51xxx
+    # and Q161xxx copies. Each shell has no label, no alias, no description and one
+    # non-genealogical claim (P39, the same two values the named kings carry), so nothing
+    # about the record itself says who it is -- but its POSITION does, and every one of
+    # them sits in a named king's exact slot:
+    #
+    #   Q52176  child of Q2292 SUKSHATRA,   father of Q2286 SENAJIT       = BRIHATKARMAN
+    #   Q52188  child of Q2296 NIRAMITRA,   father of Q2289 BRIHATKARMAN  = SUKSHATRA
+    #   Q52204  child of Q2299 AYUTAYUS,    father of Q2292 SUKSHATRA     = NIRAMITRA
+    #   Q52216  child of Q2302 SRUTASRAVA,  father of Q2296 NIRAMITRA     = AYUTAYUS
+    #   Q52228  (no parent),                father of Q2299 AYUTAYUS      = SRUTASRAVA
+    #   Q52240  (no parent),                father of Q2302 SRUTASRAVA    = SOMAPI
+    #
+    # The offsets are consistent one generation at a time and they reproduce the Vishnu
+    # Purana's Brihadratha succession, which the named chain also records in order:
+    # Somapi -> Srutasravas -> Ayutayus -> Niramitra -> Sukshatra -> Brihatkarman ->
+    # Senajit -> Srutanjaya. The last line is not read off the position at all --
+    # match_parallel_imports.py propagated the correspondence structurally and landed
+    # Q52240 opposite Q161236 "SOMAPI Sahadeva" on its own.
+    #
+    # WHY MERGE AND NOT CUT, which is what the item said. Cutting removes the shell's
+    # father-claim and leaves the shell behind as a nameless childless extra child of the
+    # king above it -- six of them. Merging removes the same edges AND retires the record,
+    # and DEDUPE outranks CUT in cycle_policy.md's repair order precisely here: this is
+    # parallel imports, which is what step 2 is for. The cut was written, applied and
+    # reverted before committing, once the matcher named Q52240 as Somapi and the "empty
+    # slot" reading stopped holding.
+    #
+    # WHY Q161236 SURVIVES ITS PAIR while every other survivor is the lowest qid: this tool
+    # carries claims, not labels, so merging the named SOMAPI into the nameless Q52240
+    # would leave a nameless survivor. Lowest-qid is a convention, not a safety property.
+    #
+    # NOT INCLUDED, and the omission is deliberate: nothing above Q161236. The Q2xxx chain
+    # ends at Somapi and the shell chain with it.
+    "magadha-senajit": [
+        ("Q2286", "Q51301", "SENAJIT of Magadha -- same single child Q2282 Srutanjaya, "
+                            "same single father by correspondence"),
+        ("Q2286", "Q161211", "SENAJIT [LABELS DIFFER: SENAJIT] -- same single child Q2282"),
+        ("Q2289", "Q51306", "BRIHATKARMAN of Magadha"),
+        ("Q2289", "Q161215", "BRIHATKARMAN [LABELS DIFFER: BRIHATKARMAN]"),
+        ("Q2289", "Q52176", "the nameless copy of BRIHATKARMAN -- child of Q2292 "
+                            "SUKSHATRA and father of Q2286 SENAJIT, Brihatkarman's exact "
+                            "slot in the Puranic succession"),
+        ("Q2292", "Q51311", "SUKSHATRA of Magadha"),
+        ("Q2292", "Q161220", "SUKSHATRA [LABELS DIFFER: SUKSHATRA]"),
+        ("Q2292", "Q52188", "the nameless copy of SUKSHATRA -- child of Q2296 NIRAMITRA "
+                            "and father of Q2289 BRIHATKARMAN"),
+        ("Q2296", "Q51316", "NIRAMITRA of Magadha"),
+        ("Q2296", "Q161224", "NIRAMITRA [LABELS DIFFER: NIRAMITRA]"),
+        ("Q2296", "Q52204", "the nameless copy of NIRAMITRA -- child of Q2299 AYUTAYUS "
+                            "and father of Q2292 SUKSHATRA"),
+        ("Q2299", "Q51321", "AYUTAYUS of Magadha"),
+        ("Q2299", "Q161228", "AYUTAYUS [LABELS DIFFER: AYUTAYUS]"),
+        ("Q2299", "Q52216", "the nameless copy of AYUTAYUS -- child of Q2302 SRUTASRAVA "
+                            "and father of Q2296 NIRAMITRA"),
+        ("Q2302", "Q161232", "SRUTASRAVA [LABELS DIFFER: SRUTASRAVA]. The Q51xxx block has "
+                             "no Srutasrava of its own -- Q2302 already lists both Q2299 "
+                             "and Q51321 among its children"),
+        ("Q2302", "Q52228", "the nameless copy of SRUTASRAVA -- father of both Q2299 and "
+                            "Q51321, the two AYUTAYUS copies it sits above"),
+        ("Q161236", "Q52240", "the nameless copy of SOMAPI -- father of Q2302 SRUTASRAVA, "
+                              "matched structurally to Q161236 'SOMAPI Sahadeva' by "
+                              "match_parallel_imports.py. Survivor is the NAMED record, "
+                              "not the lower qid, because this tool carries claims and "
+                              "not labels"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "

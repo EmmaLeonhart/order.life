@@ -4450,3 +4450,91 @@ nameless node *means* in the taxonomy first.
 
 `CLAUDE.md` rule 1 exists for this, and the Licinii Vari withdrawal yesterday is
 the same lesson at 1/500th the scale. A pattern match is not licence.
+
+## 2026-08-18 — The six "empty slots" were six kings
+
+Item 0f, part 1. `magadha-senajit`: **17 merges**, all six gates green,
+`children_over_2_parents` **1200 → 1199** — the number the item predicted, from
+the cause the item named. 159 duplicate records gone across the three Magadha
+passes.
+
+### The repair the item prescribed was the wrong one
+
+Item 0f said `Q52176` and `Q52188` were "empty records in parent slots" and said
+to cut. Yesterday's devlog said the same thing in more words: *"Not a duplicate
+of anything."* Both were written after looking at the records, and the records
+really do say nothing — no label, no alias, no description, one P39 claim whose
+two values every Magadha king also carries.
+
+What neither looked at was where they sit. Walking the chain upward turns six
+contentless records into six kings, one generation apart, each in a named king's
+exact slot:
+
+| shell | child of | father of | therefore |
+|---|---|---|---|
+| `Q52176` | `Q2292` SUKSHATRA | `Q2286` SENAJIT | BRIHATKARMAN |
+| `Q52188` | `Q2296` NIRAMITRA | `Q2289` BRIHATKARMAN | SUKSHATRA |
+| `Q52204` | `Q2299` AYUTAYUS | `Q2292` SUKSHATRA | NIRAMITRA |
+| `Q52216` | `Q2302` SRUTASRAVA | `Q2296` NIRAMITRA | AYUTAYUS |
+| `Q52228` | `Q28284` SOMAPI | `Q2299` AYUTAYUS | SRUTASRAVA |
+| `Q52240` | `Q28300` SAHADEVA | `Q2302` SRUTASRAVA | SOMAPI |
+
+That is the Vishnu Purana's Brihadratha succession, in order, and the named chain
+records the same run. A fourth parallel copy of the king list, nameless, beside
+the `Q2xxx`, `Q51xxx` and `Q161xxx` copies.
+
+**The line that settled it was not read off the table.** `match_parallel_imports.py`
+propagates correspondence structurally and it put `Q52240` opposite `Q161236`
+"SOMAPI Sahadeva" by itself, with no access to the reasoning above. A tool that
+had not been told what to conclude concluded it.
+
+So: DEDUPE, not CUT, and the repair order says so — cutting would have removed six
+father-edges and left six nameless childless records hanging off the kings above
+them. The cut set was written, applied, verified green, and then reverted
+uncommitted once the Somapi match landed.
+
+### What actually unblocked the three dropped SENAJIT pairs
+
+`Q2286` carrying two fathers is why the first pass refused to propagate, and both
+of those fathers being real is why nobody could fix it by choosing. The second
+father was one of the six. Once the shells merge, `match_parallel_imports.py`
+walks from SENAJIT up through BRIHATKARMAN, SUKSHATRA, NIRAMITRA, AYUTAYUS and
+SRUTASRAVA to SOMAPI without a single ambiguous step.
+
+### Two rules, confirmed against live data
+
+- **A nameless record is not necessarily contentless.** Position is evidence, and
+  here it was the only evidence there was.
+- **A shell whose child would be orphaned is not cuttable.** `Q52240` was `Q2302`
+  SRUTASRAVA's *only* declared father. Cutting it would not have removed a
+  spurious second parent, it would have severed the head of the run. Same
+  condition as the divine-father rule: only remove a parent where a named one
+  survives. Merging it into Somapi keeps the line and retires the duplicate.
+
+### `qa_vacated_refs` 7 → 0
+
+The merge left seven third-party citations of vacated qids — `merge_cluster.py`
+leaves those alone by design, which is item 1d's gap. `repoint_vacated_qids.py`
+rewrote 12 files. Graph-neutral by construction and the gates agree: compare_depth
+reports 0 records losing depth and 0 gaining, compare_tangles reports nothing.
+
+### Item 0f part 3 is answered, and it was not a multi-parent defect
+
+`Q153485` BRIHADASVA's three fathers — `Q2623`, `Q29951`, `Q53522` — are one man.
+Same father `Q2123`, same child `Q153485`, same birth year 1200, and two of the
+three carry the identical label "Sahdev DIWAKAR"; the third is the nameless copy
+again. Two more copies sit above `Q50436`: `Q50492` and `Q160816`, both "Sahdev
+DIWAKAR". **Five copies of one king.**
+
+Not merged in this pass, deliberately. `Q2623`'s father is `Q2123`, `Q50492`'s is
+`Q50564`, `Q160816`'s is `Q160843` — Divakara copies — so merging the Diwakars
+alone hands the survivor three fathers and fails I4. It has to be one cluster up
+the whole Kosala solar chain, built from a matcher run, not by hand.
+
+### And the duplication spans FIVE qid regions, not four
+
+`Q28xxx` joins `Q2xxx`, `Q50xxx`, `Q153xxx` and `Q160xxx`. `Q28284` "SOMAPI of
+Magadha" and `Q161236` "SOMAPI Sahadeva" are the same man and `Q2302` now lists
+both, which is the next merge. Above them `Q28300` SAHADEVA carries its own shell
+`Q52256`, and `Q28308`/`Q52264` above that. The pattern does not stop where this
+item's framing stopped.

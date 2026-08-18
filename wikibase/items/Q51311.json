@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q51311$B428794D-5D1E-4DDB-808C-B6560804BDA3",
+        "id": "Q2292$1CC05A2A-9DC3-4D76-9192-3EEC32FC98BC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51306",
-              "numeric-id": 51306
+              "id": "Q2289",
+              "numeric-id": 2289
             }
           },
-          "hash": "d46a89634efe0f9cfab00ef4d3f1df00d01d11b6",
+          "hash": "55f7e70ccfb08607b19fdc29b848d9b224a8fdaa",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q51311$50BB06DA-03DB-4AEC-AAF9-ABCDB0E38D1F",
+        "id": "Q2292$34A221F4-536A-4139-8DC7-8639605D8B7C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q51311$D54F0400-0BB1-4E16-A3EC-9AD0A08648AB",
+        "id": "Q2292$7F6342BE-E877-4851-81C0-A2ED924F1065",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +64,18 @@
     ],
     "P47": [
       {
-        "id": "Q51311$61FE3A19-1323-4BE7-8C48-54DE8A218B56",
+        "id": "Q2292$37790AC3-E445-48F5-9859-291CA84C8798",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q51316",
-              "numeric-id": 51316
+              "id": "Q2296",
+              "numeric-id": 2296
             }
           },
-          "hash": "5b75340e6b74bb3fdc1b23ef8e2ae2cba957a24a",
+          "hash": "a4344a1c5fcee9b188f805c96463fa5daa004377",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q51311$27A77840-D5A4-4101-A269-E3A4390536B2",
+        "id": "Q2292$7BCA79FD-5B7C-4299-9317-E8855F05ADD8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -104,9 +104,57 @@
         "type": "statement"
       }
     ],
+    "P56": [
+      {
+        "id": "Q2292$97F10B99-F08E-4B14-9710-15B0EA51DBFE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1415-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a5cfa107da8663a02f1fb7d6b3bc9b0516964799",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2292$655C623D-A410-4FD7-AD4B-4EDECB676E65",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1407-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e21eddeaafbd91b6f1b8c0ca543b6bcedb2d92f1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P94": [
       {
-        "id": "Q51311$D4D243A6-5678-46A9-85BF-73A932D41F18",
+        "id": "Q2292$6F5805B4-2AB1-4970-9A50-76202A3818E4",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -120,21 +168,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q161220$C376177E-99E9-D7CB-029D-B717CE33F128",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009716047143"
+          },
+          "hash": "5b3e757b6fc0c107eecf757f745efef84048c60e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q51311",
+  "id": "Q2292",
   "labels": {
     "en": {
       "language": "en",
       "value": "SUKSHATRA of Magadha"
     }
   },
-  "lastrevid": 17457390,
-  "modified": "2025-09-16T11:40:55Z",
+  "lastrevid": 17404742,
+  "modified": "2025-09-15T21:44:53Z",
   "ns": 860,
-  "pageid": 66173,
+  "pageid": 20804,
   "sitelinks": {},
-  "title": "Item:Q51311",
+  "title": "Item:Q2292",
   "type": "item"
 }

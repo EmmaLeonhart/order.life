@@ -85,6 +85,14 @@ SEED = [
     # Kosala solar chain above Pratikanshva, and reveals that the duplication spans FOUR
     # qid regions (Q2xxx, Q50xxx, Q153xxx, Q160xxx), not the three the item assumed.
     ("bhanuratha",      "Q2079", "Q153475", "-"),
+    # Added 2026-08-18 after cut_edges.py magadha-shell-fathers. Every seed above is now
+    # vacated -- the 2026-08-16 merges consumed them -- so the matcher had nothing left to
+    # propagate from and reported 0 groups. SENAJIT is the re-entry point, and it is the
+    # pair set the first pass dropped: Q2286 carried a nameless shell as a second father,
+    # which blocked the I4 pre-check, and that shell is now cut. All three copies are
+    # labelled SENAJIT, all three have the single child Q2282 Srutanjaya, and each now has
+    # exactly one father, all three labelled BRIHATKARMAN.
+    ("senajit",         "Q2286", "Q51301", "Q161211"),
 ]
 
 _cache = {}

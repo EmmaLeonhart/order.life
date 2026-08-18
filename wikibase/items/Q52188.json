@@ -1,9 +1,30 @@
 {
   "aliases": {},
   "claims": {
+    "P20": [
+      {
+        "id": "Q2292$1CC05A2A-9DC3-4D76-9192-3EEC32FC98BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2289",
+              "numeric-id": 2289
+            }
+          },
+          "hash": "55f7e70ccfb08607b19fdc29b848d9b224a8fdaa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P39": [
       {
-        "id": "Q52188$1B6C1A8F-9BDA-4CBE-892F-5EA716DAC6F7",
+        "id": "Q2292$34A221F4-536A-4139-8DC7-8639605D8B7C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q52188$640C0264-A024-4FFB-8DA9-3CC8E46E59CA",
+        "id": "Q2292$7F6342BE-E877-4851-81C0-A2ED924F1065",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -40,16 +61,145 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P47": [
+      {
+        "id": "Q2292$37790AC3-E445-48F5-9859-291CA84C8798",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2296",
+              "numeric-id": 2296
+            }
+          },
+          "hash": "a4344a1c5fcee9b188f805c96463fa5daa004377",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q2292$7BCA79FD-5B7C-4299-9317-E8855F05ADD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q2292$97F10B99-F08E-4B14-9710-15B0EA51DBFE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1415-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a5cfa107da8663a02f1fb7d6b3bc9b0516964799",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2292$655C623D-A410-4FD7-AD4B-4EDECB676E65",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1407-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e21eddeaafbd91b6f1b8c0ca543b6bcedb2d92f1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2292$6F5805B4-2AB1-4970-9A50-76202A3818E4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "SUKSHATRA of Magadha Arms.svg"
+          },
+          "hash": "524f79d908f971513fef3167cb366359c5686ff9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q161220$C376177E-99E9-D7CB-029D-B717CE33F128",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009716047143"
+          },
+          "hash": "5b3e757b6fc0c107eecf757f745efef84048c60e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q52188",
-  "labels": {},
-  "lastrevid": 17458104,
-  "modified": "2025-09-16T11:51:45Z",
+  "id": "Q2292",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "SUKSHATRA of Magadha"
+    }
+  },
+  "lastrevid": 17404742,
+  "modified": "2025-09-15T21:44:53Z",
   "ns": 860,
-  "pageid": 67019,
+  "pageid": 20804,
   "sitelinks": {},
-  "title": "Item:Q52188",
+  "title": "Item:Q2292",
   "type": "item"
 }

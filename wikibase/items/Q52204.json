@@ -1,9 +1,30 @@
 {
   "aliases": {},
   "claims": {
+    "P20": [
+      {
+        "id": "Q2296$88DAAFAB-375A-476C-B496-5815A8CDCD1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2292",
+              "numeric-id": 2292
+            }
+          },
+          "hash": "ee194fe0a72d515130f486b0d74c6d2644d7f9ef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P39": [
       {
-        "id": "Q52204$9EAF9465-A57B-416C-9662-06DCD370092F",
+        "id": "Q2296$7A9A184F-5FE0-469C-8B5B-AAFDD5BFF250",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q52204$DCFDD3F2-BD74-461F-B8C7-6B9E69DC4587",
+        "id": "Q2296$24D1D42C-A594-4FD6-AD67-46C93C692F9D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -40,16 +61,145 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P47": [
+      {
+        "id": "Q2296$29DF8929-E90A-4B94-A72F-72CD78EC7EE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2299",
+              "numeric-id": 2299
+            }
+          },
+          "hash": "f55b9d1148ad1d110a7c3909dfa7c88aa9e26383",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q2296$5202A348-41B7-4A3C-8E7E-F9A14449FE6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q2296$B80E7BDD-87AA-454B-ADB6-D65914A18637",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1515-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "648f09fbdbf9f47f54e557d52d9810afad1001aa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q2296$87F4E058-6605-4F6C-89B8-580323C57CDF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1415-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1783f33dd51915bd59a1e7de699602d79b855730",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2296$29218D67-0ABC-43DE-B079-D2E510043104",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "NIRAMITRA of Magadha Arms.svg"
+          },
+          "hash": "74526b0d3ec2375ee3509c817792ecd7172f8774",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q161224$4B2E5A5E-FC17-3630-3711-454C5526E6B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009715952989"
+          },
+          "hash": "1188142bb65536a19608ea4bdb8ab71b6e72156f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q52204",
-  "labels": {},
-  "lastrevid": 17458128,
-  "modified": "2025-09-16T11:52:06Z",
+  "id": "Q2296",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "NIRAMITRA of Magadha"
+    }
+  },
+  "lastrevid": 17404744,
+  "modified": "2025-09-15T21:44:58Z",
   "ns": 860,
-  "pageid": 67035,
+  "pageid": 20810,
   "sitelinks": {},
-  "title": "Item:Q52204",
+  "title": "Item:Q2296",
   "type": "item"
 }

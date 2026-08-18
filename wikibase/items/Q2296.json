@@ -20,25 +20,6 @@
         },
         "rank": "normal",
         "type": "statement"
-      },
-      {
-        "id": "Q2296$135746AC-E9DE-4E24-A20F-4B2DEC3F0B8C",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q52188",
-              "numeric-id": 52188
-            }
-          },
-          "hash": "c6875138732c69ac77eadbe45152bd38d41cf23f",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
       }
     ],
     "P39": [
@@ -95,25 +76,6 @@
             }
           },
           "hash": "f55b9d1148ad1d110a7c3909dfa7c88aa9e26383",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q2296$428A0B16-8656-42DE-87A8-A1EE7E52228D",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q52216",
-              "numeric-id": 52216
-            }
-          },
-          "hash": "e3cf01852721ec7671cb36b0e645ccfbe7f6365f",
           "property": "P47",
           "snaktype": "value"
         },
@@ -201,6 +163,23 @@
           },
           "hash": "74526b0d3ec2375ee3509c817792ecd7172f8774",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q161224$4B2E5A5E-FC17-3630-3711-454C5526E6B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009715952989"
+          },
+          "hash": "1188142bb65536a19608ea4bdb8ab71b6e72156f",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
