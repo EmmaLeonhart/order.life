@@ -4944,3 +4944,33 @@ edges 128,413 → 128,413, tangles 0 → 0, total depth 15,514,846 → 15,514,84
 `P55` on the parent. The `PHANTOM` class is done. `GAP` (219) still needs its four
 records created and named — item 17 — and `BOTH-REAL` (2,479) is still per-record
 judgement. The rule did not leak out of the class it was ruled for.
+
+## 2026-08-18 — Three queue items that described a dump that no longer exists
+
+No repair this tick. `queue.md` is what the Topaz cockpit renders as the board, so
+an item that describes a closed state is not harmless clutter — it reads from
+outside the repo as live work nobody is doing.
+
+- **Item 8, the Theban ring** — six Second Intermediate Period records, waiting on
+  the Turin King List and Ryholt. It was tangle 7 and it was **closed on 2026-08-07**
+  by `apply_mentuhotep_queen.py`. Deleted. Its one durable lesson is not lost: the
+  redirect-alias blindness that let `theban-senebhenaf` report success while removing
+  nothing is written into `verify_cuts_landed.py`'s own docstring, which is where it
+  belongs.
+- **Item 15, "work the remaining cycles"** — opens by ranking *all 35 tangles* and
+  names five Roman cycles of length ≥ 20. `tangled_components` has been **0** since
+  2026-08-15. Deleted.
+- **Item 16** kept its whole pre-ruling argument, including the paragraph weighing ADD
+  against REMOVE and concluding *"Needs Emma"* — for a decision she made on
+  2026-08-05 and which was executed this morning. Trimmed to what is genuinely open:
+  `GAP` (219, item 17, needs her names) and **`BOTH-REAL` (2,479), which is the real
+  work**, plus the standing warning that ADD was scoped to placeholder people and must
+  not leak past them.
+
+**One live consequence, not just tidying:** the committed
+`edge_symmetry_classified.tsv` is from 2026-08-01 and this morning's pass moved 1,028
+of its rows into the two-sided majority. Anything working `BOTH-REAL` has to rebuild
+it first, and item 16 now says so.
+
+`children_over_2_parents` 1196, `tangled_components` 0 — unchanged, and nothing in
+this tick could have moved them, since no item file was touched.

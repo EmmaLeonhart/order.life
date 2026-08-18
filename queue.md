@@ -867,46 +867,6 @@ with AskUserQuestion instead of parking it here.**
      generation down, both "Abba 'Abbahu' bar Acha bar Sallah al-Kafri", both children of
      Acha.
 
-8. **THE THEBAN RING — needs an Egyptological source, not another pass over the dump.**
-   Tangle 11, the Second Intermediate Period kings. **None of the seven records carries a
-   Wikidata id**, so the method the banner prescribes — look the dates up — does not reach
-   them directly; they had to be matched by name first.
-
-   One edge is settled and was cut on 2026-08-01 (`cut_edges.py theban-senebhenaf`):
-   Wikidata has the vizier Senebhenaf's child as `Q536310` **Queen Mentuhotep**, whose
-   spouse is `Q889883` Djehuti. So the dump's `Q85514` → `Q85498` recorded Djehuti's
-   father-in-law as his father. Cut, 0 records lost Aster, tangle 7 → 6 records.
-
-   **THAT CUT DID NOT ACTUALLY LAND UNTIL 2026-08-02, and the tool said it had.** `Q85514`
-   listed **both** `Q85498` and `Q85518` as children, and `Q85518` is a silent redirect to
-   `Q85498` — the same man under a duplicate qid. Removing the literal `Q85498` left
-   `Q85518` behind, `extract_genealogy.py` canonicalized it straight back to
-   `Q85514 → Q85498`, and `cut_edges.py`'s own verify pass — which compared cited qids
-   literally — reported "edges gone from both sides". The tangle stayed at 7 for a day.
-   **`cut_edges.py` now compares through `redirects.tsv`** (`canon`/`cvals`) on plan, apply
-   and verify, and additionally checks every alias file of both endpoints. Re-run under the
-   fixed tool: tangle **7 → 6**, records in a tangle 102 → 101, 0 records lost Aster, depth
-   **+6**. A sweep of all 29 declared cuts across the 21 cut sets found this was the **only**
-   one still live.
-
-   **The surviving ring, and it is not guessable** (six records, re-read from
-   `cycles_review.md` after the cut actually landed — `Q85478` Neferhotep III is in the
-   ring, not below it):
-
-       Q85478 Neferhotep III → Q85578 Mentuhotep VI → Q85554 Sebekemsaf → Q85528 Yauyebi
-       → Q85514 Senebhenaf → Q85500 Mentuhotep → Q85478
-
-   `Q85514` → `Q85500` is the attested edge and must not be cut. The false one is among the
-   other three, and **Wikidata cannot settle it**: it records no parents for Sobekemsaf I
-   (`Q563693`), has **no entry at all for "Yauyebi"**, and dates Senebhenaf to −1500 while
-   dating his own daughter to −1650, so its chronology here is placeholder round numbers
-   and decides nothing. This needs the Turin King List and Ryholt's reconstruction of the
-   16th Dynasty.
-
-   The one edge that would dissolve the ring on its own is `Q85578` → `Q85554`, and it is
-   expensive — **3 records lose their route to Aster and 31,790 lose ancestry**. Do not
-   take it as the cheap way out.
-
 13. **CLASSIFY `qa_same_role_parents.tsv` before repairing any of it. "Every row is a
    defect" was WRONG.**
 
@@ -1014,115 +974,36 @@ with AskUserQuestion instead of parking it here.**
    children of `Q67561` — and `Q67552` is flagged `COLLAPSE` against `Q67561`, so those two
    must not be merged either.
 
-15. **Work the remaining cycles under the repair order above.** Start from
-   `wikibase/analysis/qa_tangle_repairs.md`, which is generated and ranks all 35 tangles.
-   34 are `REVIEW`: no Wikidata evidence decides them, mostly because "contradicted" there
-   means *Wikidata records no link*, which is an absence and not a refutation. Unmerge
-   candidates first.
-   The five remaining cycles of length >= 20 are all Roman, sharing the Q61957/Q62255/
-   Q63192/Q63747/Q70152/Q138467 stretch — likely the same repeating-cognomen collision that
-   produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
-   delete.
+16. **The one-sided edges: `PHANTOM` is DONE, `BOTH-REAL` is what is left.**
 
-16. **Fix the one-sided edges. THE PHANTOM RULE IS NOW SET — AND THE CLASS IS DONE.**
+   **`PHANTOM` — 1,050 edges, closed 2026-08-18** by `add_phantom_mirrors.py` under
+   Emma's ruling of 2026-08-05, *"ADD the missing side, always."* 1,028 written, 21
+   already two-sided, **1 refused** — a `parent-only` edge whose parent carries no `P55`,
+   so nothing decides whether the mirror is `P47` or `P48`. `edges.tsv` records
+   parent→child either way, which makes a wrong choice there invisible to every gate in
+   this repo; it is skipped and counted, and it stays that way until the parent has a sex.
 
-   **DONE 2026-08-18. `wiki-scripts/add_phantom_mirrors.py`, two batches: 400 then 628 —
-   1,028 mirror claims across 578 records, every gate green on both, and the
-   graph-neutrality claim proven rather than asserted: edges 128,413 → 128,413, tangles
-   0 → 0, total depth 15,514,846 → 15,514,846, 0 records gained or lost, both times.**
+   **`ORPHAN` — 0 left**, all 14 cut 2026-08-01, `dangling_endpoints` 13 → 4.
 
-   Of the 1,050 candidates: **1,028 to write, 21 already two-sided, and exactly 1 refused**
-   — a `parent-only` edge whose parent has no `P55`, so nothing decides whether the mirror
-   is `P47` or `P48`. That choice is invisible to every gate here, because `edges.tsv`
-   records parent→child either way, so the script skips and counts it rather than guessing.
+   **`GAP` — 219. DO NOT CUT THESE. This is item 17 and it needs names from Emma.** An
+   endpoint has no item file while other records record parents *and* children around it —
+   a real person whose file is missing. **`Q74656` has 144 children and 2 parents;
+   `Q75282` has 59 children** and sits between the Titans and Melaneus; `Q54196` and
+   `Q78402` are the others. *(Learned by cutting all 233 as one batch: `compare_depth`
+   failed at −10 levels, Melaneus and Aeneus lost the Titan line entirely, reverted.)*
 
-   **One correction to the scope, and it went the other way from the usual.** A first cut
-   of the script also required the receiving shell to have no *description*, which dropped
-   217 edges — `Q130498` "Greek goddess of the night" among them. `edge_symmetry.py`'s own
-   `substantive` test is `has_label or has_alias or has_geneal` and never looked at
-   descriptions, so those 217 are inside the class Emma was shown and ruled on. Narrowing
-   a ruled class by a test of my own is the per-record second-guessing the ruling exists to
-   end. Removed; the receiving endpoint test is "unnamed" and nothing else.
+   **`BOTH-REAL` — 2,479, and this is the open work.** Both endpoints are substantive
+   records, so none of the phantom reasoning reaches them: the shell argument was that
+   nothing in an *empty* record distinguishes a half-finished deletion from a
+   half-finished import, and that is exactly what stops being true here. **Decide per
+   record whether the missing side should be added or the present side removed, and do
+   NOT blanket-add** — Emma's ADD ruling was scoped to placeholder people and must not
+   leak past them.
 
-
-   > **RULED BY EMMA 2026-08-05, asked directly: "ADD the missing side, always."**
-   >
-   > This settles the `PHANTOM` class — **1,050 edges, 430 shell records** — and it is a
-   > *rule about placeholder people*, not a one-off: when an edge is declared on only one
-   > side and the other endpoint is an empty shell, **write the mirror claim into the
-   > shell**. Never remove the present side.
-   >
-   > **Why this is safe to run in bulk, unlike everything else in this file:** ADD is
-   > **provably graph-neutral**. `edges.tsv` is built from the UNION of both directions, so
-   > the edge is already in the graph and writing the mirror cannot change it. Expect
-   > `compare_tangles` and `compare_depth` to come back **completely clean** — and if
-   > either moves, the script wrote something other than the mirror of an existing edge.
-   > **That is the gate: any movement at all is a bug, not a finding.**
-   >
-   > It also removes the silent-revert hazard this item exists for: a one-sided edge is
-   > one vacated file away from disappearing.
-   >
-   > **Scope of the ruling: `PHANTOM` only.** `GAP` (219) still needs its four missing
-   > records CREATED and named — that is item 17 and still Emma's. `BOTH-REAL` (2,479) is
-   > still per-record judgement and the do-not-blanket-add warning below still applies to
-   > it in full. Do not let "ADD always" leak out of the phantom class.
-   >
-   > Emma was shown the counter-argument — that some one-sided edges are half-finished
-   > deletions and adding would cement an edge someone meant to remove — and ruled ADD
-   > anyway. Nothing in an empty shell distinguishes the two cases, so **do not try to
-   > second-guess it per record**; that is precisely the analysis paralysis the ruling ends.
-   >
-   > Propagate every write to all shadow files claiming those qids; `shadow_audit.py` must
-   > finish at 0. Commit in batches with the count in the message, not as one 1,050-edge
-   > commit.
-
-   `wikibase/analysis/edge_symmetry.txt`, rebuilt 2026-08-01:
-   **97.1%** of edges are declared on both sides; **3,762** are one-sided. (The older
-   96.3% / 4,723 figures were inflated — the scan compared raw qids without canonicalising
-   through `redirects.tsv`, and 961 were never a defect.)
-
-   `edge_symmetry_classified.tsv` splits all 3,762 by what their endpoints are:
-
-   - **`ORPHAN` — 0 left.** All 14 cut 2026-08-01, every gate green, **zero records lost
-     depth**. `dangling_endpoints` 13 → 4.
-   - **`GAP` — 219. DO NOT CUT THESE.** An endpoint has **no item file**, but other records
-     record a family around it — parents *and* children. That is a **real person whose file
-     is missing**, not a nonexistent one. Four records, and they are not small:
-     **`Q74656` has 144 children and 2 parents; `Q75282` has 59 children** and sits between
-     the Titans and Melaneus; `Q54196` and `Q78402` are the others.
-     **The repair is to CREATE the missing record, not delete its edges** — and that needs
-     a name, which is Emma's. *(Learned by cutting all 233 as one batch: `compare_depth`
-     failed at −10 levels, Melaneus and Aeneus lost the Titan line entirely, reverted.)*
-   - **`PHANTOM` — 1,050. Analysed 2026-08-01, NOT acted on. It has the same shape as
-     GAP, and the connectivity test was run BEFORE cutting this time.** 430 distinct shell
-     records; **269 of them are connectors** with both parents and children, `Q132255`
-     alone having **79 children**. **861 of the 1,050 edges touch a connector and are not
-     safe to cut.** The other 189 touch only leaf/root shells.
-
-     **But the leaf shells are not junk either.** Sampled: `Q135293` is **the father of
-     Darius I of Persia**; `Q108512` is the father of Al-Qasim ibn an-Nafs az-Zakiyya;
-     `Q136745` is a child of Archelaus. They are **unnamed placeholder people** — empty
-     items carrying only `P39` — and deleting their edges erases the statement *this person
-     had a father*, which is information rather than noise.
-
-     **The decision, and it is genuinely open:**
-     - **ADD the missing side** — write the mirror claim into the shell. **This provably
-       cannot change `edges.tsv`**, because the graph is built from the UNION and the edge
-       is already in it. Purely additive, no data lost, and it removes the silent-failure
-       hazard this whole item is about.
-     - **REMOVE the present side** — changes the graph and destroys a recorded
-       relationship.
-
-     ADD is graph-neutral and REMOVE is not, which argues for ADD. **The counter-argument
-     is the one this item already states:** some one-sided edges are deletions that only
-     got half done, and adding would cement an edge someone meant to remove. Nothing in an
-     empty shell distinguishes the two. **Needs Emma**, or a rule from her about which way
-     placeholder people should go.
-   - **`BOTH-REAL` — 2,479.** Both endpoints substantive. **The real judgement calls** and
-     what the do-not-blanket-add warning is about.
-
-   Decide per record whether the missing side should be added or the present side removed;
-   do NOT blanket-add, since some one-sided edges are deletions that only got half done.
+   Rebuild the classification with `edge_symmetry.py` before working it: the committed
+   `edge_symmetry_classified.tsv` is from 2026-08-01 and the 2026-08-18 mirror pass has
+   moved 1,028 of its rows into the two-sided majority. **97.1%** of edges were declared
+   on both sides at that count, with **3,762** one-sided.
 
 17. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
    have no item file, yet 219 edges reference them and they hold 200+ recorded
