@@ -40,6 +40,42 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P20": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P20",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q29806",
+              "numeric-id": 29806
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P47": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P47",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q29710",
+              "numeric-id": 29710
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
     ]
   },
   "descriptions": {},

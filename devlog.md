@@ -4933,3 +4933,14 @@ generator, not a verdict.
 
 Filed as one question for Emma: are the `Q160xxx` copies of the Puranic core
 duplicates like the Magadha and Kosala blocks, or deliberate?
+
+### Phantom mirrors, batch 2: the class is closed
+
+628 more mirror claims across 416 records, and the same result to the digit:
+edges 128,413 → 128,413, tangles 0 → 0, total depth 15,514,846 → 15,514,846,
+0 gained, 0 lost. All six gates green.
+
+**1,028 of 1,050 written; 21 were already two-sided; 1 refused** for want of a
+`P55` on the parent. The `PHANTOM` class is done. `GAP` (219) still needs its four
+records created and named — item 17 — and `BOTH-REAL` (2,479) is still per-record
+judgement. The rule did not leak out of the class it was ruled for.

@@ -1024,12 +1024,12 @@ with AskUserQuestion instead of parking it here.**
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-16. **Fix the one-sided edges. THE PHANTOM RULE IS NOW SET — AND IS BEING APPLIED.**
+16. **Fix the one-sided edges. THE PHANTOM RULE IS NOW SET — AND THE CLASS IS DONE.**
 
-   **IN PROGRESS 2026-08-18. `wiki-scripts/add_phantom_mirrors.py`, batch 1 of 2: 400
-   mirror claims across 162 records, every gate green and the graph-neutrality claim
-   proven rather than asserted — edges +0, tangles +0, total depth +0, 0 records gained
-   or lost.** 628 remain.
+   **DONE 2026-08-18. `wiki-scripts/add_phantom_mirrors.py`, two batches: 400 then 628 —
+   1,028 mirror claims across 578 records, every gate green on both, and the
+   graph-neutrality claim proven rather than asserted: edges 128,413 → 128,413, tangles
+   0 → 0, total depth 15,514,846 → 15,514,846, 0 records gained or lost, both times.**
 
    Of the 1,050 candidates: **1,028 to write, 21 already two-sided, and exactly 1 refused**
    — a `parent-only` edge whose parent has no `P55`, so nothing decides whether the mirror
