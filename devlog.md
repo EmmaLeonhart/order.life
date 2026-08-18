@@ -4974,3 +4974,34 @@ it first, and item 16 now says so.
 
 `children_over_2_parents` 1196, `tangled_components` 0 — unchanged, and nothing in
 this tick could have moved them, since no item file was touched.
+
+## 2026-08-18 — Emma rules the Q160xxx block out of use
+
+Asked directly whether the `Q160xxx` block is a duplicate of the Puranic core or
+deliberate: *"Ngl this is confusing af and I think the best rule is to not use that
+portion of the order.life tree at all."*
+
+Recorded in `CLAUDE.md`. **No merges, cuts, repairs, or reasoning built on that
+portion of the tree.**
+
+**What it stops is a merge that looked good by every number this repo has.** The
+67-pair closure scored `children_over_2_parents` 1196 → 1195 with nothing newly over
+two, and every pair was reached by the matcher's own unambiguous-step rule rather
+than by guessing. It was still the wrong thing to run: it merges Brahma, Kashyapa,
+Aditi, Marichi, Daksha, Prachetas, both Manus and Prithu in one batch, and Daksha is
+the record this queue was already wrong about once — applied and reverted inside a
+day.
+
+**A good invariant score is not permission.** That is the whole content of this
+entry. The gates measure whether a repair breaks the graph; they cannot measure
+whether it should be made, and the one time I had a 67-record answer that passed
+every gate, the right move was to ask. She said no.
+
+The Kosala chain above Prativyoma goes with it — same material, and its only
+terminating cluster runs up through Prasusruta, which is inside the block. It was
+never blocked on the Prasusruta ruling I had been asking about for three status
+reports; it is now simply out of scope.
+
+**Not reverted:** the five passes already applied, 177 records, 2026-08-16 to
+2026-08-18. She was asked about the block and about what to do next, not about those,
+and I am not widening a ruling by inference in either direction.

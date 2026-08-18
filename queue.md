@@ -435,109 +435,19 @@ with AskUserQuestion instead of parking it here.**
    `magadha-somapi` each stopped for exactly this reason. It is not a compromise and it is
    not a bug to fix — plan on one cluster per few generations.
 
-   **(1) The Magadha chain, above King VRIHADRATHA.** `magadha-somapi` stopped there and
-   `Q28308` JARASANDHA keeps **two** Vrihadratha fathers, `Q28320` and `Q161255`, as the
-   residue. Merging them is not a two-line extension: it needs `Q153399` UPARICHARA VASU
-   ← `Q160517` **and** `Q51352` GIRIKA ← `Q161261` in the same cluster, and Girika's own
-   parents (`Q51377`/`Q161269`, `Q51382`/`Q161270`) after that. Simulated: the extended
-   version scores **worse** — `children_over_2_parents` −1 instead of −2, with `Q51352`
-   newly at four parents. **Simulate before writing the cluster** (see below); do not
-   assume more merging is better.
+   **STOPPED BY EMMA, 2026-08-18 — `CLAUDE.md` § *The `Q160xxx` Puranic block*.**
 
-   **`Q28308`'s TWO MOTHERS ARE THE STORY, NOT A DEFECT.** `Q51341` and `Q161256` are the
-   twin princesses of Kashi. Brihadratha married both, and the Mahabharata is explicit
-   that Jarasandha was born of the two of them — each queen bore half a child and the
-   rakshasi Jara joined the halves, which is where the name comes from. Do not "fix" it.
+   Everything that was open here ran through the `Q160xxx` block: the Magadha chain above
+   King VRIHADRATHA, the Kosala chain above Prativyoma, and the 67-pair closure that
+   scored 1196 → 1195. Asked whether that block is duplicates or deliberate, she ruled
+   **do not use that portion of the tree at all.** So none of it is pending work and none
+   of it is blocked — it is ruled out, which is a different thing, and the queue should
+   not carry it as either.
 
-   **SIMULATE A CLUSTER BEFORE APPLYING IT.** Applying `magadha-somapi` needed
-   `--force-i4`, and the way to know that was safe was not argument: apply the cluster's
-   alias map to both endpoints of every edge in `edges.tsv` and recount. That took a
-   second and predicted `1198 → 1196` exactly, against a pre-check that warned of an
-   increase. The pre-check's own docstring says it over-warns because it does not model
-   the offsetting decreases; the simulation does. **`check_invariants` is still the gate
-   that decides — the simulation only tells you whether to spend twenty minutes.**
-
-   **(2) The Kosala solar chain above Prativyoma — MAPPED 2026-08-18, and it CANNOT be
-   staged. It has to go in one cluster, Vatsavyuha through Prasusruta.**
-
-   This is the first branch where the "stop one level short" trick does not work, and the
-   reason is worth stating because it decides how to write the cluster. At every level
-   here the copies each have their own copy of the man above and **nobody in the run is
-   currently over two parents**, so merging levels 1..k gives the level-k survivor three
-   unmerged fathers — a **real +1** to `children_over_2_parents`, not the illusory one
-   `magadha-somapi` had. **Simulated at five successive stopping points against `edges.tsv`, and every
-   one lands on 1197 — +1 each time**, with a different record newly crossing each time
-   (`Q153536`, `Q2178`, `Q50777`, `Q50817`, `Q50857`).
-
-   `magadha-somapi` got away with it because `Q28308` was already at four parents and
-   stayed there while `Q28300` and `Q161249` dropped out. Nothing here is already over.
-
-   **Where it terminates, and it does terminate.** Walking all three copies upward:
-
-   | level | `Q2xxx` | `Q50xxx` | `Q153xxx` | `Q160xxx` | nameless |
-   |---|---|---|---|---|---|
-   | Vatsavyuha Arukshay | — | — | `Q153536` | `Q160907` | — |
-   | ARUKSHAY | `Q2178` | `Q50742` | — | `Q160926` | — |
-   | BRIHATKSHATRA BRIHADBAL | — | `Q50777` | `Q153548` | `Q160944` | — |
-   | BRIHADBAL TAKSHAKA | — | `Q50817` | `Q153552` | `Q160963` | `Q53526` |
-   | TAKSHAKA PRASENJIT-1 | — | `Q50857` | `Q153556` | `Q160979` | — |
-   | PRASENJIT-1 | — | `Q50888` | `Q153560` | `Q160991` | — |
-   | Vishwabahu VISHRUTWAN | — | ? | `Q153564` | `Q161002` | — |
-   | Visrutavant | `Q2215` | `Q50958` | — | `Q161013` | — |
-   | Shasvant | `Q2219` | ? | — | `Q161025` | — |
-   | Amarshan | `Q2224` | ? | — | `Q161041` | — |
-   | Susandhi | `Q2227` | ? | — | `Q161051` | — |
-   | Prasusruta | `Q2627` | `Q29967` | — | `Q161060` | `Q53538` |
-
-   **`Q2227` Susandhi is the exit.** It already carries THREE fathers — `Q53538`, `Q2627`,
-   `Q29967` — so it is already counted, and merging the Prasusruta group takes it to one,
-   which is a **−1**. A cluster that runs all the way to Prasusruta therefore ends net
-   negative; anything short of it ends +1. **Fill the `?` cells from the item files before
-   writing it** — the Q50xxx column is not walked above Visrutavant.
-
-   ⚠ **`Q2627`/`Q29967` "Prasusruta, King of Kosala" is flagged in `merge_cluster.py`'s
-   own comments (2026-08-01) as "the Kosala dedup, which queue.md holds for Emma and which
-   gates the Indian line" — and that note predates Emma's 2026-08-05 rulings and her
-   "Apply them lol".** Check whether it is still held before building the cluster; it may
-   be another parked question nobody re-asked. That is the one thing here that is not
-   simply research.
-
-   **(3) THE `Q160xxx` BLOCK IS A PARALLEL IMPORT OF THE PURANIC CORE, AND THE WHOLE
-   THING CLOSES AT −1. Found 2026-08-18. DO NOT APPLY IT WITHOUT EMMA.**
-
-   Seeded with just the two obvious Vrihadratha pairs and grown by the only rule the
-   matcher uses — *if X~Y and each side has exactly one unmatched parent in the same role,
-   those two correspond* — the cluster **closes after 16 rounds at 67 pairs**, and
-   simulating it against `edges.tsv` gives `children_over_2_parents` **1196 → 1195 with
-   nothing newly over two**. Six residual ambiguities, all reported, none required.
-
-   It is not a Magadha king list. It runs through **Brahma `Q1952`, Kashyapa `Q1924`,
-   Aditi `Q153381`, Marichi `Q1939`, Daksha `Q153390`, Prachetas `Q1955`, Svayambhuva Manu
-   `Q153407`, Vaivasvata Manu `Q29963`, Prithu `Q153429`, Vena, Anga, Sunita, Tvastar,
-   Surya, Agni** — and the mountains and rivers, Kolahala and Shuktimati.
-
-   **Three reasons this is not a work-loop decision:**
-
-   1. **`Q153390` DAKSHA is in it.** The ⚠ trap above is about a *split*, not a dedupe, so
-      this is not the same proposal — but Daksha is the record this queue has been wrong
-      about before, and a 67-pair batch is not where to find out again.
-   2. **`Q200020`/`Q200021` Mrityu is in it, and those two were created DELIBERATELY, one
-      per block, by `apply_sunita_mrityu.py`.** Merging them collapses that. Worse, it
-      breaks a standing gate: `verify_applies_landed.py` asserts
-      `("Q200021", "Q160640") PRESENT`, and after the merge that edge canonicalises to
-      `(Q200020, Q153444)` and the literal pair is gone. **That entry must be updated in
-      the same commit** — an entry that drifts from its script passes while measuring the
-      wrong thing.
-   3. **Sixty-seven pairs propagated automatically is exactly the shape the banner warns
-      about** — "guessing is how a 90-record merge becomes 90 opportunities to be wrong."
-      The closure is a *hypothesis generator*. Every pair still wants reading.
-
-   **The question for Emma is one question:** are the `Q160xxx` copies of the Puranic core
-   duplicates to be merged, like the Magadha and Kosala blocks already were, or is that
-   block deliberate? Everything else here is research and it is done.
-
-   Reproduce with the scratchpad closure script described in `devlog.md` 2026-08-18; it
-   proposes nothing and writes nothing.
+   **What remains of item 0f is the record of what was done**, above: 177 duplicate
+   records retired across five passes, `children_over_2_parents` 1200 → 1196,
+   `qa_vacated_refs` 0, every gate green on every pass. That stands; the ruling was about
+   what to do next, not about undoing it.
 
    **⚠ "A DEDUPE HERE GAINS DEPTH" IS DISPROVEN. Five times now.** Item 0d argued the
    merge would hand the surviving chain ancestry it lacked, because `Q2206` Ashoka had no

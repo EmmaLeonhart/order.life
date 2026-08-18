@@ -137,6 +137,41 @@ Three further rules follow, and they are not optional:
    loop, drop the rest). If a cycle can only be broken by cutting a tradition-joining edge,
    the real defect is elsewhere in the loop — go find it.
 
+## The `Q160xxx` Puranic block — DO NOT USE IT. Emma, 2026-08-18
+
+Asked whether the `Q160xxx` block is a duplicate of the Puranic core or deliberate, she
+answered:
+
+> *"Ngl this is confusing af and I think the best rule is to not use that portion of the
+> order.life tree at all."*
+
+**So: no merges, no cuts, no repairs, and no reasoning built on that portion of the tree.**
+It is not to be deduplicated against `Q1xxx`/`Q49xxx`/`Q153xxx`, and a finding that depends
+on it is not a finding.
+
+**What this stops, concretely.** A closure grown from two seed pairs by the matcher's own
+unambiguous-step rule reaches **67 pairs** and scores `children_over_2_parents`
+1196 → 1195 with nothing newly broken — a clean-looking merge running through **Brahma
+`Q1952`, Kashyapa `Q1924`, Aditi `Q153381`, Marichi `Q1939`, Daksha `Q153390`, Prachetas
+`Q1955`, Svayambhuva Manu `Q153407`, Vaivasvata Manu `Q29963`, Prithu `Q153429`**, and the
+mountain Kolahala and river Shuktimati. **It is not to be applied.** A good invariant score
+is not permission; she was asked and said no.
+
+**The Kosala chain above Prativyoma stops here too.** It is the same material and the same
+kind of parallel import, and its terminating cluster runs up through Prasusruta — which is
+inside the block. Do not build it.
+
+**Scope, stated rather than assumed.** The ruling was given about the `Q160xxx` block in
+answer to a question about that block. The five Magadha/Kosala passes already applied
+(177 records, 2026-08-16 to 2026-08-18) are **not** reverted by it — she was not asked
+about those and did not mention them. If the intent is wider than the block, that is hers
+to widen; do not widen it by inference, and do not narrow it either.
+
+**Why it is worth honouring even though the numbers looked good.** Her stated reason is
+that the material is confusing, and the queue's own record agrees: Daksha is the record
+this repo has already been wrong about once, applied and reverted in a day. A 67-pair
+automatic closure over that material is the shape `CLAUDE.md` rule 1 exists to stop.
+
 **Install the pre-commit gate once per checkout:** `git config core.hooksPath .githooks`.
 It blocks any commit touching `wikibase/items/*.json` where a record's shadow files
 disagree with it. 39,527 qids are claimed by more than one file and the extractor keeps
