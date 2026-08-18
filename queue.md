@@ -502,6 +502,43 @@ with AskUserQuestion instead of parking it here.**
    be another parked question nobody re-asked. That is the one thing here that is not
    simply research.
 
+   **(3) THE `Q160xxx` BLOCK IS A PARALLEL IMPORT OF THE PURANIC CORE, AND THE WHOLE
+   THING CLOSES AT −1. Found 2026-08-18. DO NOT APPLY IT WITHOUT EMMA.**
+
+   Seeded with just the two obvious Vrihadratha pairs and grown by the only rule the
+   matcher uses — *if X~Y and each side has exactly one unmatched parent in the same role,
+   those two correspond* — the cluster **closes after 16 rounds at 67 pairs**, and
+   simulating it against `edges.tsv` gives `children_over_2_parents` **1196 → 1195 with
+   nothing newly over two**. Six residual ambiguities, all reported, none required.
+
+   It is not a Magadha king list. It runs through **Brahma `Q1952`, Kashyapa `Q1924`,
+   Aditi `Q153381`, Marichi `Q1939`, Daksha `Q153390`, Prachetas `Q1955`, Svayambhuva Manu
+   `Q153407`, Vaivasvata Manu `Q29963`, Prithu `Q153429`, Vena, Anga, Sunita, Tvastar,
+   Surya, Agni** — and the mountains and rivers, Kolahala and Shuktimati.
+
+   **Three reasons this is not a work-loop decision:**
+
+   1. **`Q153390` DAKSHA is in it.** The ⚠ trap above is about a *split*, not a dedupe, so
+      this is not the same proposal — but Daksha is the record this queue has been wrong
+      about before, and a 67-pair batch is not where to find out again.
+   2. **`Q200020`/`Q200021` Mrityu is in it, and those two were created DELIBERATELY, one
+      per block, by `apply_sunita_mrityu.py`.** Merging them collapses that. Worse, it
+      breaks a standing gate: `verify_applies_landed.py` asserts
+      `("Q200021", "Q160640") PRESENT`, and after the merge that edge canonicalises to
+      `(Q200020, Q153444)` and the literal pair is gone. **That entry must be updated in
+      the same commit** — an entry that drifts from its script passes while measuring the
+      wrong thing.
+   3. **Sixty-seven pairs propagated automatically is exactly the shape the banner warns
+      about** — "guessing is how a 90-record merge becomes 90 opportunities to be wrong."
+      The closure is a *hypothesis generator*. Every pair still wants reading.
+
+   **The question for Emma is one question:** are the `Q160xxx` copies of the Puranic core
+   duplicates to be merged, like the Magadha and Kosala blocks already were, or is that
+   block deliberate? Everything else here is research and it is done.
+
+   Reproduce with the scratchpad closure script described in `devlog.md` 2026-08-18; it
+   proposes nothing and writes nothing.
+
    **⚠ "A DEDUPE HERE GAINS DEPTH" IS DISPROVEN. Five times now.** Item 0d argued the
    merge would hand the surviving chain ancestry it lacked, because `Q2206` Ashoka had no
    father. All five merges measured **0 records gained depth and 0 lost**; total depth
@@ -987,7 +1024,26 @@ with AskUserQuestion instead of parking it here.**
    produced the short Roman 2-cycles. Emma: preserve the Roman material; unmerge, do not
    delete.
 
-16. **Fix the one-sided edges. THE PHANTOM RULE IS NOW SET.**
+16. **Fix the one-sided edges. THE PHANTOM RULE IS NOW SET — AND IS BEING APPLIED.**
+
+   **IN PROGRESS 2026-08-18. `wiki-scripts/add_phantom_mirrors.py`, batch 1 of 2: 400
+   mirror claims across 162 records, every gate green and the graph-neutrality claim
+   proven rather than asserted — edges +0, tangles +0, total depth +0, 0 records gained
+   or lost.** 628 remain.
+
+   Of the 1,050 candidates: **1,028 to write, 21 already two-sided, and exactly 1 refused**
+   — a `parent-only` edge whose parent has no `P55`, so nothing decides whether the mirror
+   is `P47` or `P48`. That choice is invisible to every gate here, because `edges.tsv`
+   records parent→child either way, so the script skips and counts it rather than guessing.
+
+   **One correction to the scope, and it went the other way from the usual.** A first cut
+   of the script also required the receiving shell to have no *description*, which dropped
+   217 edges — `Q130498` "Greek goddess of the night" among them. `edge_symmetry.py`'s own
+   `substantive` test is `has_label or has_alias or has_geneal` and never looked at
+   descriptions, so those 217 are inside the class Emma was shown and ruled on. Narrowing
+   a ruled class by a test of my own is the per-record second-guessing the ruling exists to
+   end. Removed; the receiving endpoint test is "unnamed" and nothing else.
+
 
    > **RULED BY EMMA 2026-08-05, asked directly: "ADD the missing side, always."**
    >

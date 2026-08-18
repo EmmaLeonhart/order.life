@@ -4880,3 +4880,56 @@ before building the cluster, not a reason to stop.
 
 The +1 above would have passed silently against the old `1201` baseline. It fails
 against the `1196` re-taken this morning, which is what a baseline is for.
+
+## 2026-08-18 — The phantom mirrors, and a 67-pair cluster that closes on Brahma
+
+Item 16, ruled by Emma on 2026-08-05 — *"ADD the missing side, always"* — and not
+acted on since. `add_phantom_mirrors.py`, batch 1 of 2: **400 mirror claims across
+162 records**, all six gates green.
+
+**The graph-neutrality claim is now proven rather than asserted:** edges
+128,413 → 128,413, tangles 0 → 0, total depth 15,514,846 → 15,514,846, 0 records
+gained and 0 lost. That is the gate the item specified — *any movement at all is a
+bug in the script, not a finding* — and it did not move.
+
+Of 1,050 candidates: 1,028 to write, 21 already two-sided, **1 refused**. That one
+is a `parent-only` edge whose parent carries no `P55`, so nothing says whether the
+mirror belongs in `P47` or `P48`. `edges.tsv` records parent→child either way, so a
+wrong guess there is a data error every gate in this repo is structurally blind to.
+Skipped and counted.
+
+### A scope correction that went the other way from the usual one
+
+The first version of the script also required the receiving shell to have no
+*description*, and that quietly dropped **217** of the 1,050 — `Q130498` "Greek
+goddess of the night" among them. `edge_symmetry.py`'s `substantive` test is
+`has_label or has_alias or has_geneal`; it never looked at descriptions. So those
+217 are inside the class Emma was shown, and narrowing it by a test of my own is
+precisely the per-record second-guessing the ruling was made to end. Removed.
+
+The usual failure here is a rule leaking wider than its ruling. This was the
+inverse and it is just as much a departure from what was decided.
+
+### The Q160xxx block is a parallel import of the Puranic core
+
+Chasing item 0f's Vrihadratha residue turned into something much larger. Seeded
+with two obvious pairs and grown by the one rule the matcher uses — *if X~Y and
+each side has exactly one unmatched parent in the same role, those correspond* —
+the cluster **closes after 16 rounds at 67 pairs**, scoring
+`children_over_2_parents` **1196 → 1195 with nothing newly over two**.
+
+It is not a king list. It runs through Brahma, Kashyapa, Aditi, Marichi, Daksha,
+Prachetas, both Manus, Prithu, Vena, Anga, Tvastar, Surya, Agni — and the mountain
+Kolahala and the river Shuktimati.
+
+**Not applied, and three separate reasons why not.** `Q153390` Daksha is in it, and
+Daksha is the record this queue has already been wrong about once. `Q200020` and
+`Q200021` Mrityu are in it, and those two were created *deliberately, one per
+block*, by `apply_sunita_mrityu.py` — merging them also breaks a standing gate,
+since `verify_applies_landed.py` asserts `("Q200021", "Q160640") PRESENT` and that
+literal pair disappears into `(Q200020, Q153444)`. And sixty-seven pairs propagated
+automatically is the exact shape the banner warns about: a closure is a hypothesis
+generator, not a verdict.
+
+Filed as one question for Emma: are the `Q160xxx` copies of the Puranic core
+duplicates like the Magadha and Kosala blocks, or deliberate?
