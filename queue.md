@@ -457,33 +457,6 @@ with AskUserQuestion instead of parking it here.**
    without changing anyone's reach. The reason to do this is that 177 phantom people are
    gone, not depth. **Do not re-file the depth argument.**
 
-0c. **LOOK FOR MORE `Q200022`-SHAPED GAPS — one missing generation between two runs
-   that are both already in the dump.**
-
-   The Haji repair on 2026-08-18 closed three gaps, and the first was worth more than
-   the item that found it: `Q14866` Haji no Otori had no father, `Q15732` Haji no Mukuro
-   had no child, and **both already carried the `P61` that says wd `Q97613635` sits
-   between them.** One created record joined two runs that had been sitting apart in the
-   same dump. See `devlog.md` 2026-08-18 and `add_bridge_edges.py haji-osoba`.
-
-   **Nothing looks for that shape.** It is cheap and exact, and it is NOT a general
-   defect sweep — the test is arithmetic on ids the dump already holds:
-
-   - take every record with no father and a `P61`
-   - take every record with no child and a `P61`
-   - ask Wikidata whether the fatherless one's `P22` chain reaches the childless one's id
-     in a small number of steps
-   - report the gap and the records that would fill it; **create nothing without reading
-     the case**
-
-   `qa_links_match.tsv` and `persons.tsv`'s `wikidata_qid` column are the inputs; 60,075
-   dump records carry a Wikidata id. Batch the lookups and cache them — `urllib.request`
-   with an explicit `User-Agent`, or the API returns 403.
-
-   **Report the gaps, do not bulk-fill them.** Each one is a filiation claim and the Haji
-   pass found Wikidata wrong about one of them (Izumo no Furune recorded as his brother
-   Iiirine's father). A gap list is the deliverable; the bridges are read one at a time.
-
 0b. **BC-DATE SIGN — CHECKED 2026-08-05. The inversion class is SOUND; nothing to
    revert. A narrower residual is real and is the remaining work.**
 

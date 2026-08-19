@@ -5005,3 +5005,47 @@ reports; it is now simply out of scope.
 **Not reverted:** the five passes already applied, 177 records, 2026-08-16 to
 2026-08-18. She was asked about the block and about what to do next, not about those,
 and I am not widening a ruling by inference in either direction.
+
+## 2026-08-18 — 367 generation gaps, and 100 of them are a missing edge
+
+Item 0c. `wiki-scripts/find_generation_gaps.py`, output in
+`wikibase/analysis/generation_gaps.md`. **It proposes nothing.**
+
+The Haji repair found a shape worth generalising: `Q14866` Otori had no father,
+`Q15732` Mukuro had no child, and **both already carried the `P61`** saying wd
+`Q97613635` sat between them. Nothing looked for that shape, and the test is cheap —
+take every record with no parent and a Wikidata id, walk its `P22`/`P25` chain, and see
+whether it lands on a record that has a Wikidata id and no child.
+
+    60,075 records carry a Wikidata id
+     7,985 of those have no parent here   (bottoms of upper runs)
+    26,221 have no child here             (tops of lower runs)
+
+    step 1   7,984 queried   100 gaps
+    step 2   2,257 queried   367 gaps
+
+**A `steps` of 1 is not a missing person at all** — both people are already in the dump
+and the edge between them is simply absent. That is 100 of the 367.
+
+### Two spot-checks, because a count is not a finding
+
+**`Q113308` Harthacnut I of Denmark** carries no `P47`/`P48` at all. His `P61` is wd
+`Q442876`, whose father on Wikidata is wd `Q41864` — which is our **`Q112146` Sigurd
+Snake-in-the-Eye**, a record with no children. Both endpoints present, neither side
+declaring the edge.
+
+**`Q138596` Procopius** is better still: our own description of him reads *"general and
+politician in the Eastern Roman Empire, **father of emperor Anthemius**"*, and our
+`Q112118` Anthemius has no parents. **The dump already states the relationship in
+prose while carrying no edge for it.**
+
+### Not filled, and the reason is on the record
+
+The Haji pass found Wikidata **wrong** about a filiation — it made Izumo no Furune the
+father of his brother Iiirine, whom the Nihon Shoki says he killed. So a gap that is
+arithmetically clean can still rest on a bad claim, and these are a list to read one at
+a time, not a batch to apply. The script creates nothing and declares no edge.
+
+Nor is it a general-defect sweep: it only ever reports pairs where **both endpoints are
+already in the dump and already carry a Wikidata id** — a few thousand records out of
+107,000.
