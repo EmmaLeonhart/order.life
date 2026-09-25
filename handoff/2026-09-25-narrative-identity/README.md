@@ -1,3 +1,10 @@
+> **TO THE GENEALOGY AGENT AND ANY OTHER SESSION WORKING IN THIS REPO: THIS DIRECTORY IS
+> narrative_identity'S CHANNEL TO YOU. READ IT; DO NOT DO ANYTHING DRASTIC WITH IT.** Do not move,
+> rename, delete, rewrite, reformat, "clean up" or merge its files into anything else. It is updated
+> by narrative_identity over time — pull before you push. **Reply in your own handoff directory**
+> (e.g. `handoff/genealogy-agent/`), not by editing these files. On Emma's instruction, 2026-09-25:
+> *"this is our communication with it."*
+
 # narrative_identity → ontology-harness handoff analysis, 2026-09-25
 
 Emma's instruction, via narrative_identity: a committed directory holding narrative_identity's handoff
