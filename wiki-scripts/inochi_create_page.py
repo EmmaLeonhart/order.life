@@ -33,25 +33,34 @@ API = "https://inochi.miraheze.org/w/api.php"
 UA = "InochiBot/1.0 (User:Immanuelle; inochi.miraheze.org; order.life)"
 
 
+def _json(r: requests.Response) -> dict:
+    """Decode an API response, or say plainly what came back instead."""
+    try:
+        return r.json()
+    except ValueError:
+        raise RuntimeError(f"HTTP {r.status_code} from {r.url}, not JSON: "
+                           f"{r.text[:300]!r}") from None
+
+
 def login(s: requests.Session, username: str, password: str) -> str:
-    token = s.get(API, params={"action": "query", "meta": "tokens",
-                               "type": "login", "format": "json"}).json()
+    token = _json(s.get(API, params={"action": "query", "meta": "tokens",
+                               "type": "login", "format": "json"}))
     token = token["query"]["tokens"]["logintoken"]
     if "@" in username:
-        r = s.post(API, data={"action": "login", "lgname": username,
+        r = _json(s.post(API, data={"action": "login", "lgname": username,
                               "lgpassword": password, "lgtoken": token,
-                              "format": "json"}).json()
+                              "format": "json"}))
         if r.get("login", {}).get("result") != "Success":
             raise RuntimeError(f"login failed: {r}")
     else:
-        r = s.post(API, data={"action": "clientlogin", "username": username,
+        r = _json(s.post(API, data={"action": "clientlogin", "username": username,
                               "password": password, "logintoken": token,
                               "loginreturnurl": "https://inochi.miraheze.org/",
-                              "format": "json"}).json()
+                              "format": "json"}))
         if r.get("clientlogin", {}).get("status") != "PASS":
             raise RuntimeError(f"clientlogin failed: {r.get('clientlogin', r)}")
-    who = s.get(API, params={"action": "query", "meta": "userinfo",
-                             "format": "json"}).json()
+    who = _json(s.get(API, params={"action": "query", "meta": "userinfo",
+                             "format": "json"}))
     return who["query"]["userinfo"]["name"]
 
 
@@ -70,8 +79,8 @@ def main() -> int:
     s = requests.Session()
     s.headers["User-Agent"] = UA
 
-    exists = s.get(API, params={"action": "query", "titles": args.title,
-                                "format": "json"}).json()
+    exists = _json(s.get(API, params={"action": "query", "titles": args.title,
+                                "format": "json"}))
     page = next(iter(exists["query"]["pages"].values()))
     if "missing" not in page:
         print(f"[[{args.title}]] already exists; not touching it.")
@@ -89,13 +98,13 @@ def main() -> int:
         return 1
     print(f"Logged in as {login(s, username, password)}")
 
-    csrf = s.get(API, params={"action": "query", "meta": "tokens",
-                              "format": "json"}).json()
+    csrf = _json(s.get(API, params={"action": "query", "meta": "tokens",
+                              "format": "json"}))
     csrf = csrf["query"]["tokens"]["csrftoken"]
-    r = s.post(API, data={"action": "edit", "title": args.title,
+    r = _json(s.post(API, data={"action": "edit", "title": args.title,
                           "text": text, "summary": args.summary,
                           "createonly": 1, "token": csrf,
-                          "format": "json"}).json()
+                          "format": "json"}))
     if r.get("edit", {}).get("result") != "Success":
         print(f"edit failed: {r}", file=sys.stderr)
         return 1
