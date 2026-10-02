@@ -1,0 +1,49 @@
+name: inochi-wiki
+
+# Creates ONE page on inochi.miraheze.org per run, by hand only.
+# No schedule and no bulk loop, so it cannot flood the wiki.
+# Create-only: an existing page is never overwritten.
+
+on:
+  workflow_dispatch:
+    inputs:
+      title:
+        description: "Page title to create"
+        required: true
+        default: "命"
+      file:
+        description: "Wikitext file in the repo"
+        required: true
+        default: "inochi-pages/命.wiki"
+      apply:
+        description: "Actually create the page (false = dry run)"
+        required: true
+        default: "false"
+        type: choice
+        options: ["false", "true"]
+
+concurrency:
+  group: inochi-wiki
+  cancel-in-progress: false
+
+jobs:
+  create-page:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      INOCHI_USERNAME: Immanuelle
+      INOCHI_PASSWORD: ${{ secrets.INOCHI_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - run: pip install requests
+
+      - name: Create page
+        run: |
+          ARGS=(--title "${{ inputs.title }}" --file "${{ inputs.file }}")
+          if [ "${{ inputs.apply }}" = "true" ]; then ARGS+=(--apply); fi
+          python wiki-scripts/inochi_create_page.py "${ARGS[@]}"
