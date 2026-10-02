@@ -21,6 +21,12 @@ on:
         default: "false"
         type: choice
         options: ["false", "true"]
+      runner:
+        description: "Runner image (Miraheze auto-blocks some runner IPs; cycle until one gets through)"
+        required: true
+        default: "ubuntu-latest"
+        type: choice
+        options: ["ubuntu-latest", "ubuntu-22.04", "windows-latest", "macos-latest"]
 
 concurrency:
   group: inochi-wiki
@@ -28,7 +34,7 @@ concurrency:
 
 jobs:
   create-page:
-    runs-on: ubuntu-latest
+    runs-on: ${{ inputs.runner }}
     timeout-minutes: 5
     env:
       INOCHI_USERNAME: Immanuelle
@@ -43,6 +49,7 @@ jobs:
       - run: pip install requests
 
       - name: Create page
+        shell: bash
         run: |
           ARGS=(--title "${{ inputs.title }}" --file "${{ inputs.file }}")
           if [ "${{ inputs.apply }}" = "true" ]; then ARGS+=(--apply); fi
