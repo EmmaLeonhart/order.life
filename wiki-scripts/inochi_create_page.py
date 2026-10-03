@@ -69,6 +69,8 @@ def main() -> int:
     ap.add_argument("--title", required=True)
     ap.add_argument("--file", required=True)
     ap.add_argument("--summary", default="Create page from order.life")
+    ap.add_argument("--overwrite", action="store_true",
+                    help="allow replacing an existing page (default: create-only)")
     ap.add_argument("--apply", action="store_true",
                     help="actually create the page (default: dry run)")
     args = ap.parse_args()
@@ -82,12 +84,12 @@ def main() -> int:
     exists = _json(s.get(API, params={"action": "query", "titles": args.title,
                                 "format": "json"}))
     page = next(iter(exists["query"]["pages"].values()))
-    if "missing" not in page:
+    if "missing" not in page and not args.overwrite:
         print(f"[[{args.title}]] already exists; not touching it.")
         return 0
 
     if not args.apply:
-        print(f"DRY RUN: would create [[{args.title}]] ({len(text)} chars):")
+        print(f"DRY RUN: would write [[{args.title}]] ({len(text)} chars):")
         print(text)
         return 0
 
@@ -103,12 +105,12 @@ def main() -> int:
     csrf = csrf["query"]["tokens"]["csrftoken"]
     r = _json(s.post(API, data={"action": "edit", "title": args.title,
                           "text": text, "summary": args.summary,
-                          "createonly": 1, "token": csrf,
-                          "format": "json"}))
+                          "token": csrf, "format": "json",
+                          **({} if args.overwrite else {"createonly": 1})}))
     if r.get("edit", {}).get("result") != "Success":
         print(f"edit failed: {r}", file=sys.stderr)
         return 1
-    print(f"Created [[{args.title}]]: "
+    print(f"Saved [[{args.title}]]: "
           f"https://inochi.miraheze.org/wiki/{args.title.replace(' ', '_')}")
     return 0
 
