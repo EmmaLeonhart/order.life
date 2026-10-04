@@ -1,0 +1,11 @@
+<!-- History offloaded: due to miraheze stability concerns, the edit history of this page has been offloaded to the XML archive. See https://emmaleonhart.github.io/shintowiki-scripts/wikihistory.html?page=Designation%2Fdivbox for full history. Last refreshed: [[github:EmmaLeonhart/shintowiki-scripts/actions/runs/24756154998|commit triggered pipeline]] -->
+{{#if:{{{1<includeonly>|</includeonly>}}}|
+<div style="border:4px solid {{#if:{{{delisted|}}}|&#35;ddd|{{Designation/colour2|{{{1}}}}}}}; line-height: 1.5; text-align: center;">
+{{#if:{{{delisted|}}}|Former&nbsp;}}{{#ifeq:{{Designation/text|{{{1}}}}}|Invalid designation|<span style="color:red">Error: Invalid designation</span>{{main other|}}|{{Designation/text|{{{1}}}}}}}</div>}}<noinclude>
+{{documentation}}
+
+[[Category:Articles using Template:Designation with invalid designation]]
+[[Category:Templates fixed with noinclude]]
+{{wikidata link|Q13233261|en|Designation/divbox}}
+</noinclude>
+<noinclude>[[Category:Git synced pages]]</noinclude>

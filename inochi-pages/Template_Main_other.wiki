@@ -1,0 +1,21 @@
+{{safesubst:<noinclude/>#switch:
+  <noinclude>
+{{wikidata link|Q5627213|abstract|Template:Main other|ab|Ашаблон:Main other|ace|Seunaleuëk:Main other|af|Sjabloon:Main other|alt|Ӱлекер:Main other|ami|Masalipa:Main other|am|መለጠፊያ:Main other|ang|Bysen:Main other|ar|قالب:رئيسي آخر|ary|موضيل:Main other|arz|قالب:رئيسى آخر|ast|Plantía:Main other|as|সাঁচ:Ns0|azb|شابلون:Main other|az|Şablon:Main other|ban|Mal:Main other|bar|Vorlog:Main other|ba|Ҡалып:Main other|bbc|Templat:Main other|bcl|Plantilya:Main other|check_date=2026-06-04}}
+[[Category:Templates transcluded in mainspace]]
+</noinclude>
+  {{safesubst:<noinclude/>#if:{{{demospace|}}} 
+  | {{safesubst:<noinclude/>lc: {{{demospace}}} }}    <noinclude></noinclude>
+  | {{safesubst:<noinclude/>#ifeq:{{safesubst:<noinclude/>NAMESPACE}}|{{safesubst:<noinclude/>ns:0}}
+    | main
+    | other
+    }} 
+  }}
+| main     = {{{1|}}}
+| other
+| #default = {{{2|}}}
+}}<noinclude>
+
+{{documentation}}
+
+</noinclude>
+<noinclude>[[Category:Git synced pages]]</noinclude>

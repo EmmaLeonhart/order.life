@@ -1,0 +1,29 @@
+mw.loader.load("https://shinto.miraheze.org/w/index.php?title=User:Daduxing/familytree.js&action=raw&ctype=text/javascript");
+mw.loader.load("https://shinto.miraheze.org/w/index.php?title=User:Qwertyytrew11werty/DisamAssist.js&action=raw&ctype=text/javascript");
+mw.loader.load("https://shinto.miraheze.org/w/index.php?title=MediaWiki:Gadget-HotCat.js&action=raw&ctype=text/javascript");
+importScript("User:Daduxing/familytree.js");
+mw.loader.load("https://shinto.miraheze.org/w/index.php?title=MediaWiki:Familytree.js&action=raw&ctype=text/javascript");
+mw.loader.load('https://en.wikipedia.org/w/index.php?title=User:Nardog/RefRenamer.js&action=raw&ctype=text/javascript');
+importScript("MediaWiki:Gadget-Cat-a-lot.js");
+mw.loader.load("https://shinto.miraheze.org/w/index.php?title=MediaWiki:Gadget-Cat-a-lot.js&action=raw&ctype=text/javascript");
+
+mw.loader.load("https://shinto.miraheze.org/wiki/MediaWiki:Twinkle.js?action=raw&ctype=text/javascript");
+importScript("MediaWiki:Gadget-twinkleunlink.js");
+mw.loader.load("https://shinto.miraheze.org/w/index.php?title=MediaWiki:Gadget-twinkleunlink.js&action=raw&ctype=text/javascript");
+
+//catALot///////////////////////////////////////
+////////// Cat-a-lot user preferences //////////
+window.catALotPrefs = {"disambig_category":"Disambiguation categories","redir_category":"Category redirects","watchlist":"watch","minor":false,"editpages":false,"docleanup":false,"subcatcount":50,"uncat":true,"button":true};
+////////////////////////////////////catALotEnd//
+mw.loader.load('//en.wikipedia.org/w/index.php?title=User:Joeytje50/JWB.js/load.js&action=raw&ctype=text/javascript');
+
+//<nowiki>
+/* Cat-a-lot - changes category of multiple files */
+mw.loader.using(['jquery.ui', 'mediawiki.util'], function(){
+	mw.loader.load('//commons.wikimedia.org/w/load.php?modules=ext.gadget.Cat-a-lot');
+});
+////////// Cat-a-lot user preferences //////////
+window.catALotPrefs = {"watchlist":"preferences","minor":true,"editpages":true,"docleanup":false,"subcatcount":10};
+////////////////////////////////////catALotEnd//
+mw.loader.load( 'ext.gadget.VisualFileChange' );
+//</nowiki>

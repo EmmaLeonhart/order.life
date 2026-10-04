@@ -1,0 +1,15 @@
+<includeonly>{{#if:{{{1|}}}
+| {{#switch:{{padleft:|1|{{uc:{{{1}}}}}}}
+  | Q | P  = [[d:Special:EntityPage/{{uc:{{{1}}}}}|{{replace|{{#invoke:wd|label|{{uc:{{{1}}}}}}}|'|&#39;}} <small>({{uc:{{{1}}}}})</small>]]
+  | #default = [[d:Special:EntityPage/Q{{uc:{{{1}}}}}|{{replace|{{#invoke:wd|label|Q{{uc:{{{1}}}}}}}|'|&#39;}} <small>(Q{{uc:{{{1|}}}}})</small>]]
+  }}
+| {{#if:{{#invoke:wd|label|raw}}
+  | [[d:Special:EntityPage/{{#invoke:wd|label|raw}}|{{#invoke:wd|label}} <small>({{#invoke:wd|label|raw}})</small>]]
+  | <small>(no entity)</small>
+  }}
+}}</includeonly><noinclude>{{Documentation}}
+[[Category:Independently git synced pages]]
+{{wikidata link|Q17280715|abstract|Template:Q|ab|Ашаблон:Авикидыррақәа рҭыԥ ахь азхьарԥш|ar|قالب:وصلة ويكي بيانات|ary|موضيل:ليان د ويكيداطا|arz|قالب:وصلة ويكي بيانات|ast|Plantía:Enllaz entidaes Wikidata|as|সাঁচ:Wikidata entity link|azb|شابلون:Wikidata entity link|az|Şablon:WD item|ban|Mal:Wikidata entity link|ba|Ҡалып:WD item|be|Шаблон:Wikidata entity link|bg|Шаблон:Q|bh|टेम्पलेट:Wikidata entity link|bn|টেমপ্লেট:উইকিউপাত্ত সত্তার সংযোগ|br|Patrom:Liamm Wikidata|bs|Šablon:Wikidata entity link|ca|Plantilla:Q|cdo|模板:Wikidata entity link|ckb|داڕێژە:Wikidata entity link|check_date=2026-08-20}}
+[[Category:Templates transcluded in mainspace]]
+</noinclude>
+<noinclude>[[Category:Git synced pages]]</noinclude>

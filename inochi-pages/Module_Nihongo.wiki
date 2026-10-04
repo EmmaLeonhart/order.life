@@ -1,0 +1,481 @@
+require('strict');
+
+--[[--------------------------< E R R O R _ M E S S A G E S >--------------------------------------------------
+
+error messaging; keys to this table are the template base names:
+	'nihongo', 'nihongo3', 'nihongo krt', 'nihongo foot' → 'nihongo' etc
+
+]]
+
+local err_msg = {
+	['nihongo'] = 'Japanese or romaji text required',
+	}
+
+local err_cat = {
+	['nihongo'] = '[[Category:Nihongo template errors]]',
+	}
+
+
+--[[--------------------------< C O N F I G U R A T I O N >----------------------------------------------------
+
+configuration setting for the various templates.  keys to this table are the template names without capitalization
+
+]]
+
+local cfg = {
+	['nihongo'] = {
+		tag = 'ja',
+		system = 'hepburn',
+		system_link = '[[Hepburn romanization|Hepburn]]',
+		err_msg = err_msg.nihongo,
+		err_cat = err_cat.nihongo,
+		},
+	['nihongo3'] = {
+		tag = 'ja',
+		system = 'hepburn',
+		err_msg = err_msg.nihongo,
+		err_cat = err_cat.nihongo,
+		},
+	['nihongo krt'] = {
+		tag = 'ja',
+		system = 'hepburn',
+		err_msg = err_msg.nihongo,
+		err_cat = err_cat.nihongo,
+		},
+	['nihongo foot'] = {
+		tag = 'ja',
+		system = 'hepburn',
+		system_link = '[[Hepburn romanization|Hepburn]]',
+		err_msg = err_msg.nihongo,
+		err_cat = err_cat.nihongo,
+		},
+	}
+
+
+--[[--------------------------< E R R O R _ M E S S A G E >----------------------------------------------------
+
+Creates an error message for {{nihongo}}, {{nihongo3}}, {{nihongo krt}}, and {{nihongo foot}} when these template are missing <japanese>
+or <romaji> inputs; names the offending template, links to template page, and adds article to Category:Nihongo template errors
+
+]]
+
+local function error_message (template)
+	local msg = {'<span class="error" style="font-size:100%">error: {{'};
+	table.insert (msg, template);
+	table.insert (msg, '}}: ');
+	table.insert (msg, cfg[template].err_msg);
+	table.insert (msg, ' ([[Template:');
+	table.insert (msg, template);
+	table.insert (msg, '|help]])</span>');
+	if 0 == mw.title.getCurrentTitle().namespace then
+		table.insert (msg, cfg[template].err_cat);
+	end
+
+	return table.concat (msg);	
+end
+
+
+--[[--------------------------< R E N D E R E R >--------------------------------------------------------------
+
+Shared support function for nihingo(), nihongo3(), and nihongo_foot().  Calculates an index into formatting{}
+from set/unset parameters:
+	args[1] (english text) has a value of 8 (set) or 0 (unset)
+	args[2] (native text) has a value of 4
+	args[3] (romanized text) has a value of 2
+	args[4] (extra) has a value of 1
+index, the sum of these values, gets the appropriate format string from formatting{} table with associated values
+from the formatting[index][2] table
+
+]]
+
+local function renderer (args, formatting, extra2)
+	local output;
+	local index = 0;															-- index into formatting{}
+	local param_weight = {8, 4, 2, 1};											-- binary parameter weights: [1] = english (8), [2] = japanese (4), [3] = romaji (2), [4] = extra (1)
+
+	for i=1, 5 do																-- spin through args[1] – args[4]
+		index = index + (args[i] and param_weight[i] or 0);						-- calculate an index into formatting{}
+	end
+
+	output = (0 ~= index) and string.format (formatting[index][1] and formatting[index][1], formatting[index][2][1], formatting[index][2][2], formatting[index][2][3], formatting[index][2][4]) or nil;
+
+	if extra2 then																-- always just attached to the end (if there is an end) so not part of formatting{}
+		output = output and (output .. ' ' .. extra2) or '<5p4n>' .. extra2;	-- <5p4n> and </5p4n>: place holders for font-weight style spans; akin to stripmarkers, to be replaced
+	end																			-- (nihongo and nihongo3) or removed (nihongo foot)
+
+	return output and (output .. '</5p4n>') or '';								-- where there is output, add secret tag close
+end
+
+
+--[[--------------------------< R O M A N I Z E D _ K E R N >--------------------------------------------------
+
+Add kerning when first or last character of romanized text contacts adjacent opening or closing parenthesis
+
+In this example, without kerning, the romanized characters 'j' and 'V' are italicized so will contact the parentheses
+	(<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">jV</i>)
+
+<ret_string> is the formatted template output (except that the magic string '<5p4n>' has not yet been replaced)
+<romanized> is the return from lang_module._xlit() so is not wrapped in parentheses
+
+]]
+
+local function romanized_kern (ret_string, romanized)
+	if not romanized or ('' == romanized) then									-- if romanized not set
+		return ret_string;														-- then we're done
+	end
+
+	local romanized_text = romanized:gsub ('%b<>', ''):gsub ('\'\'+', ''):gsub ('%[%[', ''):gsub ('%]%]', '');	-- strip HTML tags
+
+	romanized = romanized:gsub ('([%(%)%.%%%+%-%*%?%[%^%$%]])', '%%%1');				-- escape lua pattern characters
+
+	local romanized_has_leading_paren = ret_string:match ('%(' .. romanized);			-- has a value if (<romanized>; nil else
+	local romanized_has_trailing_paren = ret_string:match (romanized .. '%)');		-- has a value if <romanized>); nil else
+
+	local kern_lead_pattern = '^[jpy]';											-- list of characters that when italicized contact unitalicized leading parenthesis
+	local kern_tail_pattern = '[dfijkltCEFHIJKMNPR-Z\'"%?!%]]$';				-- list of characters that when italicized contact unitalicized trailing parenthesis
+
+	local kern_right = '<span style="margin-right:.09em">(</span>%1';			-- %1 is <romanized> capture
+	local kern_left = '%1<span style="margin-left:.09em">)</span>';				-- %1 is <romanized> capture
+
+	if romanized_has_leading_paren and romanized_text:match (kern_lead_pattern) then
+		ret_string = ret_string:gsub ('%((' .. romanized .. ')', kern_right);		-- replace plain '(' with kerned '('; <romanized> included here to ensure that the correct '(' is kerned
+	end
+	if romanized_has_trailing_paren and romanized_text:match (kern_tail_pattern) then
+		ret_string = ret_string:gsub ('(' .. romanized .. ')%)', kern_left);		-- replace plain ')' with kerned ')'; <romanized> included here to ensure that the correct ')' is kerned
+	end
+
+	return ret_string;															-- done
+end
+
+
+--[[--------------------------< C O M M O N >------------------------------------------------------------------
+
+Common support for {{nihongo}}
+
+render order: is translated (English), native, romanized
+
+<template> is used to select the appropriate cfg table
+
+]]
+
+local function common (frame, template)
+	local lang_module = require ('Module:Lang' .. (frame:getTitle():match ('/sandbox') or ''));	-- if this module is the sandbox, use Module:lang/sandbox; Module:Lang else
+
+	local args = require ('Module:Arguments').getArgs (frame);
+	
+	local english, native, romanized, extra, extra2 = args[1], args[2], args[3], args.extra or args[4], args.extra2 or args[5];	-- meaningful names
+	args[4] = extra or args[4];													-- ensure that extra is 'positional' for use by renderer()
+
+	local lead = require ('Module:yesno')(args.lead);							-- make boolean
+
+	if not (native or romanized) then											-- not present, return an error message
+		return error_message (template);
+	end
+	if native then
+		native = lead and lang_module._langx ({['code']=cfg[template].tag, ['text']=native, ['template']=template}) or
+			lang_module._lang ({cfg[template].tag, native, ['template']=template});	-- add ja script with/without language prefix
+	end
+	if romanized then
+		romanized = (lead and english and (cfg[template].system_link .. ': ') or '') .. lang_module._xlit ({'ja', cfg[template].system, romanized, ['template']=template}) or nil;
+	end
+
+	local formatting = {														-- <5p4n> and </5p4n>: place holders for font-weight style spans; akin to stripmarkers, replaced  before function returns
+		{'<5p4n>(%s)', {extra}}, 												-- 1 - (extra)
+		{'%s<5p4n>', {romanized}},												-- 2 - romanized
+		{'%s<5p4n> (%s)', {romanized, extra}},									-- 3 - romanized (extra)
+		{'<5p4n>(%s)', {native}},												-- 4 - native
+		{'<5p4n>(%s; %s)', {native, extra}},									-- 5 - (native; extra)
+		{'%s<5p4n> (%s)', {romanized, native}},									-- 6 - romanized (native)
+		{'%s<5p4n> (%s; %s)', {romanized, native, extra}},						-- 7 - romanized (native; extra)
+		{'%s<5p4n>', {english}},												-- 8 - english
+		{'%s<5p4n> (%s)', {english, extra}},									-- 9 - english (extra)
+		{'%s<5p4n> (%s)', {english, romanized}},								-- 10 - english (romanized)
+		{'%s<5p4n> (%s; %s)', {english, romanized, extra}},						-- 11 - english (romanized; extra)
+		{'%s<5p4n> (%s)', {english, native}},									-- 12 - english (native)
+		{'%s<5p4n> (%s; %s)', {english, native, extra}},						-- 13 - english (native; extra)
+		{'%s<5p4n> (%s, %s)', {english, native, romanized}},					-- 14 - english (native, romanized)
+		{'%s<5p4n> (%s, %s; %s)', {english, native, romanized, extra}},			-- 15 - english (native, romanized; extra)
+		}
+
+	local ret_string = renderer (args, formatting, extra2)
+	ret_string = romanized_kern (ret_string, romanized);						-- kern romanized text when appropriate
+	ret_string = ret_string:gsub ('<5p4n>', '<span style="font-weight: normal">'):gsub ('</5p4n>', '</span>');	-- replace 'secret' tags with proper tags
+
+	return ret_string;															-- because gsub returns the number of replacements made as second return value
+end
+
+
+--[[--------------------------< C O M M O N _ R O M A N I Z E D _ N A T I V E _ T R A N S L A T E D >----------
+
+Common support for {{nihongo3}}
+
+render order: is romanized, native, translated (English)
+
+<template> is used to select the appropriate cfg table
+
+]]
+
+local function common_romanized_native_translated (frame, template)
+	local lang_module = require ('Module:Lang' .. (frame:getTitle():match ('/sandbox') or ''));	-- if this module is the sandbox, use Module:lang/sandbox; Module:Lang else
+	local args = require ('Module:Arguments').getArgs (frame);
+	
+	local english, native, romanized, extra, extra2 = args[1], args[2], args[3], args.extra or args[4], args.extra2 or args[5];	-- meaningful names
+	args[4] = extra or args[4];													-- ensure that extra is 'positional' for use by renderer()
+
+	if not (native or romanized) then											-- not present, return an error message
+		return error_message (template);
+	end
+	native = native and lang_module._lang ({cfg[template].tag, native, ['template']=template}) or nil;
+	romanized = romanized and lang_module._xlit ({cfg[template].tag, cfg[template].system, romanized, ['template']=template}) or nil;
+	
+	local formatting = {														-- <5p4n> and </5p4n>: place holders for font-weight style spans; akin to stripmarkers, replaced  before function returns
+		{'<5p4n>(%s)', {extra}}, 												-- 1 - (extra)
+		{'%s<5p4n>', {romanized}},												-- 2 - romanized
+		{'%s<5p4n> (%s)', {romanized, extra}},									-- 3 - romanized (extra)
+		{'<5p4n>(%s)', {native}},												-- 4 - native
+		{'<5p4n>(%s; %s)', {native, extra}},									-- 5 - (native; extra)
+		{'%s<5p4n> (%s)', {romanized, native}},									-- 6 - romanized (native)
+		{'%s<5p4n> (%s; %s)', {romanized, native, extra}},						-- 7 - romanized (native; extra)
+		{'%s<5p4n>', {english}},												-- 8 - english
+		{'%s<5p4n> (%s)', {english, extra}},									-- 9 - english (extra)
+		{'%s<5p4n> (%s)', {romanized, english}},								-- 10 - romanized (english)
+		{'%s<5p4n> (%s; %s)', {romanized, english, extra}},						-- 11 - romanized (english; extra)
+		{'%s<5p4n> (%s)', {english, native}},									-- 12 - english (native)
+		{'%s<5p4n> (%s; %s)', {english, native, extra}},						-- 13 - english (native; extra)
+		{'%s<5p4n> (%s, %s)', {romanized, native, english}},					-- 14 - romanized (native, english)
+		{'%s<5p4n> (%s, %s; %s)', {romanized, native, english, extra}},			-- 15 - romanized (native, english; extra)
+		}
+
+	local ret_string = renderer (args, formatting, extra2)
+	ret_string = ret_string:gsub ('<5p4n>', '<span style="font-weight: normal">'):gsub ('</5p4n>', '</span>');	-- replace 'secret' tags with proper tags
+	return ret_string;															-- because gsub returns the number of replacements made as second return value
+end
+
+--[[--------------------------< C O M M O N _ N A T I V E _ R O M A N I Z E D _ T R A N S L A T E D >----------
+
+Common support for {{nihongo krt}}
+
+render order: is native, romanized, translated (English)
+
+<template> is used to select the appropriate cfg table
+
+]]
+
+local function common_native_romanized_translated (frame, template)
+	local lang_module = require ('Module:Lang' .. (frame:getTitle():match ('/sandbox') or ''));	-- if this module is the sandbox, use Module:lang/sandbox; Module:Lang else
+	local args = require ('Module:Arguments').getArgs (frame);
+	
+	local english, native, romanized, extra, extra2 = args[1], args[2], args[3], args.extra or args[4], args.extra2 or args[5];	-- meaningful names
+	args[4] = extra or args[4];													-- ensure that extra is 'positional' for use by renderer()
+
+	if not (native or romanized) then											-- not present, return an error message
+		return error_message (template);
+	end
+	native = native and lang_module._lang ({cfg[template].tag, native, ['template']=template}) or nil;
+	romanized = romanized and lang_module._xlit ({cfg[template].tag, cfg[template].system, romanized, ['template']=template}) or nil;
+	
+	local formatting = {														-- <5p4n> and </5p4n>: place holders for font-weight style spans; akin to stripmarkers, replaced  before function returns
+		{'<5p4n>(%s)', {extra}}, 												-- 1 - (extra)
+		{'%s<5p4n>', {romanized}},												-- 2 - romanized
+		{'%s<5p4n> (%s)', {romanized, extra}},									-- 3 - romanized (extra)
+		{'<5p4n>%s', {native}},													-- 4 - native
+		{'<5p4n>%s (%s)', {native, extra}},										-- 5 - native (extra)
+		{'<5p4n>%s (%s)', {native, romanized}},									-- 6 - native (romanized)
+		{'<5p4n>%s (%s; %s)', {native, romanized, extra}},						-- 7 - native (romanized; extra)
+		{'%s<5p4n>', {english}},												-- 8 - english
+		{'%s<5p4n> (%s)', {english, extra}},									-- 9 - english (extra)
+		{'%s<5p4n> (%s)', {romanized, english}},								-- 10 - romanized (english)
+		{'%s<5p4n> (%s; %s)', {romanized, english, extra}},						-- 11 - romanized (english; extra)
+		{'<5p4n>%s (%s)', {native, english}},									-- 12 - native (english)
+		{'<5p4n>%s (%s; %s)', {native, english, extra}},						-- 13 - native (english; extra)
+		{'<5p4n>%s (%s, %s)', {native, romanized, english}},						-- 14 - native (romanized, english)
+		{'<5p4n>%s (%s, %s; %s)', {native, romanized, english, extra}},			-- 15 - native (romanized, english; extra)
+		}
+
+	local ret_string = renderer (args, formatting, extra2)
+	ret_string = romanized_kern (ret_string, romanized);						-- kern romanized text when appropriate
+	ret_string = ret_string:gsub ('<5p4n>', '<span style="font-weight: normal">'):gsub ('</5p4n>', '</span>');	-- replace 'secret' tags with proper tags
+	return ret_string;															-- because gsub returns the number of replacements made as second return value
+end
+
+
+--[[--------------------------< C O M M O N _ F O O T >--------------------------------------------------------
+
+Common support for {{nihongo foot}}
+
+render order: is English<ref>native, romanized</ref>
+
+<template> is used to select the appropriate cfg table
+
+]]
+
+local function common_foot (frame, template)
+	local lang_module = require ('Module:Lang' .. (frame:getTitle():match ('/sandbox') or ''));	-- if this module is the sandbox, use Module:lang/sandbox; Module:Lang else
+	local args = require ('Module:Arguments').getArgs (frame);
+	
+	local english, native, romanized, extra, extra2 = args[1], args[2], args[3], args.extra or args[4], args.extra2 or args[5];	-- meaningful names
+	args[4] = extra or args[4];													-- ensure that extra is 'positional' for use by renderer()
+	local post = args[6] or args.post;
+	local group = args.group;
+	local ref_name = args.ref_name
+	local lead = require ('Module:yesno')(args.lead);							-- make boolean
+
+	if not (native or romanized) then											-- not present, return an error message
+		return error_message (template);
+	end
+	if native then
+		native = lead and lang_module._langx ({['code']=cfg[template].tag, ['text']=native, ['template']=template}) or
+			lang_module._lang ({cfg[template].tag, native, ['template']=template});	-- add ja script with/without language prefix
+	end
+	if romanized then
+		romanized = (lead and (cfg[template].system_link .. ': ') or '') .. lang_module._xlit ({'ja', cfg[template].system, romanized, ['template']=template}) or nil;
+	end
+	
+	local formatting = {
+		{'%s', {extra}}, 														-- 1 - extra
+		{'%s', {romanized}},													-- 2 - romanized
+		{'%s; %s', {romanized, extra}},											-- 3 - romanized; extra
+		{'%s', {native}},														-- 4 - native
+		{'%s; %s', {native, extra}},											-- 5 - native; extra
+		{'%s, %s', {native, romanized}},										-- 6 - native romanized
+		{'%s, %s; %s', {native, romanized, extra}},								-- 7 - native romanized; extra
+																				-- from here english is used in the mapping but not rendered by renderer so not included in the table
+		{'', {''}},																-- 8 - english
+		{'%s', {extra}},														-- 9 - extra
+		{'%s', {romanized}},													-- 10 - romanized
+		{'%s; %s', {romanized, extra}},											-- 11 - romanized; extra
+		{'%s', {native}},														-- 12 - native
+		{'%s; %s', {native, extra}},											-- 13 - native; extra
+		{'%s, %s', {native, romanized}},										-- 14 - native romanized
+		{'%s, %s; %s', {native, romanized, extra}},								-- 15 - native romanized; extra
+		}
+
+	if english and post then													-- rewrite english to include |post=
+		english = english .. post;												-- if english has a value append post else just post
+	elseif post then
+		english = post;															-- english not set, use post
+	elseif not english then														-- neither are set
+		english = '';															-- make english an empty string for concatenation
+	end
+
+	if native or romanized or extra or extra2 then								-- no ref tag when none of these are set (it would be empty)
+		local content = renderer (args, formatting, extra2);
+		content = content:gsub ('<5p4n>', ''):gsub ('</5p4n>$', '', 1);			-- strip secret <5p4n> and </5p4n> tags added by renderer(); spans not used by this template
+
+		if english:match ('\'\'+$') then										-- if <english> is italic, bold, or both
+			local text = english:gsub ('%b<>', ''):gsub ('\'\'+', ''):gsub ('%[%[', ''):gsub ('%]%]', '');	-- strip markup
+			if text:match ('[dfijkltCEFHIJKMNPR-Z\'"%?!%]]$') then				-- when <english> ends with one of these characters
+				english =  '<span style="margin-right:.09em">' .. english .. '</span>';	-- add kerning
+			end
+		end
+
+		return english .. frame:extensionTag ({name='ref', args={group=group, name=ref_name}, content=content});	-- english with attached reference tag
+	else
+		return english;															-- nothing to be inside ref tag so just return english
+	end
+end
+
+
+--[=[-------------------------< N I H O N G O >----------------------------------------------------------------
+
+Implement {{nihongo}} using Module:Lang for language and transliteration markup
+
+{{Nihongo|<English>|<japanese>|<romaji>|<extra>|<extra2>|lead=yes}}
+
+<English>, <japanese>, and <romaji> are positional parameters
+	<English>: rendered as presented; purports to be English translation of <kanji/kana>
+	<japanese>: Japanese language text using Japanese script; TODO: require?
+	<romaji>: Hepburn romanization (transliteration); TODO: in Module:Lang/data change tooltip text to 'Hepburn romanization'?
+<extra> and <extra2> are positional or named: |extra= and |extra2=; mixing can be problematic
+	<extra> is rendered as presented preceeded with <comma><space>
+	<extra2> is rendered as presented preceeded with <space>
+|lead=: takes one value 'yes'; renders language name same as {{langx|ja}} but also adds [[Hepburn romanization|Hepburn]]:<space> ahead of the romanization; TODO: in Module:Lang, turnoff tooltip for transl when |lead=yes
+
+]=]
+
+local function nihongo (frame)
+	return common (frame, 'nihongo')
+end
+
+
+--[=[-------------------------< N I H O N G O 3 >--------------------------------------------------------------
+
+Implement {{nihongo3}} using Module:Lang for language and transliteration markup
+
+Similar to {{nihongo}} but changes rendered order and does not support |lead=
+
+{{Nihongo3|<English>|<japanese>|<romaji>|<extra>|<extra2>}}
+
+<English>, <japanese>, and <romaji> are positional parameters
+	<English>: rendered as presented; purports to be English translation of <kanji/kana>
+	<japanese>: Japanese language text using Japanese script; TODO: require?
+	<romaji>: Hepburn romanization (transliteration); TODO: in Module:Lang/data change tooltip text to 'Hepburn romanization'?
+<extra> and <extra2> are positional or named: |extra= and |extra2=; mixing can be problematic
+	<extra> is rendered as presented preceded with <comma><space>
+	<extra2> is rendered as presented preceded with <space>
+
+]=]
+
+local function nihongo3 (frame)
+	return common_romanized_native_translated (frame, 'nihongo3')
+end
+
+
+--[=[-------------------------< N I H O N G O _ K R T >--------------------------------------------------------
+
+Implement {{nihongo krt}} using Module:Lang for language and transliteration markup
+
+Similar to {{nihongo}} but changes rendered order and does not support |lead=
+
+{{Nihongo krt|<English>|<japanese>|<romaji>|<extra>|<extra2>}}
+
+<English>, <japanese>, and <romaji> are positional parameters
+	<English>: rendered as presented; purports to be English translation of <kanji/kana>
+	<japanese>: Japanese language text using Japanese script; TODO: require?
+	<romaji>: Hepburn romanization (transliteration); TODO: in Module:Lang/data change tooltip text to 'Hepburn romanization'?
+	<extra> and <extra2> are positional or named: |extra= and |extra2=; mixing can be problematic
+	<extra> is rendered as presented preceded with <comma><space>
+	<extra2> is rendered as presented preceded with <space>
+
+]=]
+
+local function nihongo_krt (frame)
+	return common_native_romanized_translated (frame, 'nihongo krt')
+end
+
+
+--[=[-------------------------< N I H O N G O _ F O O T >------------------------------------------------------
+
+Implement {{nihongo_foot}} using Module:Lang for language and transliteration markup
+
+{{Nihongo foot|<English>|<japanese>|<romaji>|<extra>|<extra2>|<post>|lead=yes|group}}
+
+<English>, <japanese>, and <romaji> are positional parameters
+	<English>: rendered as presented; purports to be English translation of <kanji/kana>
+	<japanese>: Japanese language text using Japanese script; TODO: require?
+	<romaji>: Hepburn romanization (transliteration); TODO: in Module:Lang/data change tooltip text to 'Hepburn romanization'?
+<extra> and <extra2> are positional or named: |extra= and |extra2=; mixing can be problematic
+	<extra> is rendered as presented preceded with <comma><space>
+	<extra2> is rendered as presented preceded with <space>
+<post> is positional or named: |post= is a postscript character preceding the <ref>..</ref> tag (after <English>)
+|lead=: takes one value 'yes'; renders language name same as {{langx|ja}} but also adds [[Hepburn romanization|Hepburn]]:<space> ahead of the romanization;
+	TODO: in Module:Lang, turnoff tooltip for transl when |lead=yes
+	in the live template |lead= also adds the Help:Installing Japanese character sets link; this is not supported in this code (nihongo nor nihongo3 have this support)
+|group=: the group attribute in <ref group="..."> and in {{reflist}}
+
+]=]
+
+local function nihongo_foot (frame)
+	return common_foot (frame, 'nihongo foot')
+end
+
+
+--[[--------------------------< E X P O R T E D   F U N C T I O N S >------------------------------------------
+]]
+
+return {
+	nihongo = nihongo,
+	nihongo3 = nihongo3,
+	nihongo_krt = nihongo_krt,
+	nihongo_foot = nihongo_foot,
+	}
