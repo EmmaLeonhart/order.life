@@ -1,0 +1,12 @@
+{{ {{{|safesubst:}}}#invoke:Unsubst||date=__DATE__ |$B=
+{{Unreferenced|section|name=Unreferenced section|small={{#if:{{{small|}}}|left}}
+|subst=<includeonly>{{subst:substcheck}}</includeonly>
+|find={{#if:{{{find|}}}|{{{find|}}}|none}}
+|find2={{{find2|{{{unquoted|}}}}}}
+|date={{{date|}}}
+}}
+}}<noinclude>
+{{Documentation}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

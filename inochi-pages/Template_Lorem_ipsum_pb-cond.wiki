@@ -1,0 +1,18 @@
+{{#ifeq: {{{2|{{{join|no}}}}}} | yes 
+  | &nbsp;
+  | {{#switch: {{#invoke:string|sub|x{{{1|}}}|2|2}}
+      | : | # | * = 
+      | #default = </p>
+<p><!--
+--> }}
+}}<noinclude></p>{{Documentation |content=
+Conditional paragraph break. Generates correct content between lorem paragraphs, depending on ''prefix'' and ''join'':
+* a single space in the case of joins
+* an inverted p-tag pair between paragraphs where needed
+* nothing at all for prefix metacharacters like (<code>*</code>, <code>#</code>, or <code>:</code>) which must sit in column 1.
+
+== Usage ==
+{{tlc|Lorem ipsum/pb-cond|''prefix''|''join''}}
+}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

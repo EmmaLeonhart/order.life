@@ -1,0 +1,14 @@
+<noinclude>{{This is a redirect/rcat}}
+</noinclude>{{Redirect template
+  |id=R from merge
+  |name=From a merge
+  |from=a page that was merged into another page
+  |info=This redirect was kept in order to preserve [[Special:PageHistory/{{FULLPAGENAMEE}}|'''the edit history of this page''']] after its content was merged into {{#if:{{{1|}}}|'''[[{{{1}}}]]'''|the content of the target page}}.  Please ''do not'' remove the tag that generates this text (unless the need to recreate content on this page has been demonstrated) or delete this page.
+** For redirects with substantive [[Help:page histories|page histories]] that ''did not result from page merges'' use {{tl|R with history}} instead. 
+  |all category=Redirects from merges
+}}<noinclude>
+<!-- Place categories on /doc subpage; interwikis go to Wikidata. -->
+{{Documentation}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

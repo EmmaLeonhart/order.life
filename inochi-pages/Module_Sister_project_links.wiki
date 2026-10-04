@@ -1,0 +1,582 @@
+require('strict')
+
+-- Module to create sister project link box
+local getArgs = require('Module:Arguments').getArgs
+local commonsLink = require('Module:Commons link')
+local sideBox = require('Module:Side box')._main
+local generateWarning = require('Module:If preview')._warning
+local p = {}
+
+local logo = {
+	wikt="Wiktionary-logo-v2.svg",
+	c="Commons-logo.svg",
+	n="Wikinews-logo.svg",
+	q="Wikiquote-logo.svg",
+	s="Wikisource-logo.svg",
+	b="Wikibooks-logo.svg",
+	voy="Wikivoyage-Logo-v3-icon.svg",
+	v="Wikiversity logo 2017.svg",
+	species="Wikispecies-logo.svg",
+	iw="Wikipedia-logo-v2.svg",
+	iw1="Wikipedia-logo-v2.svg",
+	iw2="Wikipedia-logo-v2.svg",
+	d="Wikidata-logo.svg",
+	m="Wikimedia Community Logo.svg",
+	mw="MediaWiki-2020-icon.svg"}
+
+local prefixList = {'wikt', 'c', 'n', 'q', 's', 'b', 'voy', 'v', 
+	'species', 'species_author', 'iw', 'iw1', 'iw2', 'd', 'm', 'mw'}
+
+local sisterName = {
+	wikt="Wiktionary",
+	c="Commons",
+	n="Wikinews",
+	q="Wikiquote",
+	s="Wikisource",
+	b="Wikibooks",
+	voy="Wikivoyage",
+	v="Wikiversity",
+	species="Wikispecies",
+	iw="Wikipedia",
+	iw1="Wikipedia",
+	iw2="Wikipedia",
+	d="Wikidata",
+	m="Meta-Wiki",
+	mw="MediaWiki"}
+
+local sisterInfo = {
+	wikt="Definitions",
+	c="Media",
+	n="News",
+	q="Quotations",
+	s="Texts",
+	b="Textbooks",
+	voy="Travel guides",
+	v="Resources",
+	species="Taxa",
+	species_author="Authorship",
+	iw="Edition",
+	iw1="Edition",
+	iw2="Edition",
+	d="Data",
+	m="Discussions",
+	mw="Documentation"
+}
+
+local defaultSisters = {
+	wikt=true,
+	c=true,
+	n=true,
+	q=true,
+	s=true,
+	b=true,
+	voy='auto',
+	v=true,
+	species='auto',
+	species_author=false,
+	iw=false,
+	iw1=false,
+	iw2=false,
+	d=false,
+	m=false,
+	mw=false
+}
+
+local sisterDb = {	
+	wikt="enwiktionary",
+	n="enwikinews",
+	q="enwikiquote",
+	s="enwikisource",
+	b="enwikibooks",
+	voy="enwikivoyage",
+	v="enwikiversity",
+	species="specieswiki"}
+
+local trackingType = {
+	wdMismatch="Pages using Sister project links with wikidata mismatch",
+	wdNamespace="Pages using Sister project links with wikidata namespace mismatch",
+	wdHidden="Pages using Sister project links with hidden wikidata",
+	defaultSearch="Pages using Sister project links with default search"}
+
+local inSandbox = mw.getCurrentFrame():getTitle():find('sandbox', 1, true) 
+
+-- Function to add "-sand" to classes when called from sandbox
+local function sandbox(s)
+	return inSandbox and s.."-sand" or s
+end
+
+-- Function to canonicalize string
+-- search for variants of "yes", and "no", and transform
+-- them into a standard form (like [[Template:YesNo]])
+-- Argument:
+--   s --- input string
+-- Result:
+--  {x,y} list of length 2
+--    x = nil if s is canonicalized, otherwise has trimmed s
+--    y = canonical form of s (true if "yes" or other, false if "no", nil if blank)
+local function canonicalize(s)
+	if s == nil then
+		return {nil, nil}
+	end
+	-- if s is table/list, then assume already canonicalized and return unchanged
+	if tostring(type(s)) == "table" then
+		return s
+	end
+	s = mw.text.trim(tostring(s))
+	if s == "" then
+		return {nil, nil}
+	end
+	local lowerS = s:lower()
+	-- Check for various forms of "yes"
+	if lowerS == 'yes' or lowerS == 'y' or lowerS == 't' 
+	      or lowerS == '1' or lowerS == 'true' or lowerS == 'on' then
+		return {nil, true}
+	end
+    -- Check for various forms of "no"
+	if lowerS == 'no' or lowerS == 'n' or lowerS == 'f' 
+	       or lowerS == '0' or lowerS == 'false' or lowerS == 'off'then
+		return {nil, false}
+	end
+    -- Neither yes nor no recognized, leave string trimmed
+	return {s, true}
+end
+
+-- Merge two or more canonicalized argument lists
+-- Arguments:
+--  argList = list of canonicalized arguments
+--  noAll = if true, return no when all argList is no.
+--          otherwise, return blank when all argList is blank
+local function mergeArgs(argList,noAll)
+	local test = nil -- default, return blank if all blank
+	if noAll then
+		test = false -- return no if all no
+	end
+	local allSame = true
+	-- Search through string for first non-no or non-blank
+	for _, arg in ipairs(argList) do
+		if arg[2] then
+			return arg -- found non-no and non-blank, return it
+		end
+		-- test to see if argList is all blank / no
+		allSame = allSame and (arg[2] == test)
+	end
+	-- if all blank / no, return blank / no
+	if allSame then
+		return {nil, test} -- all match no/blank, return it
+	end
+	-- otherwise, return no / blank
+	if noAll then
+		return {nil, nil}
+	end
+	return {nil, false}
+end
+		
+-- Function to get sitelink for a wiki
+-- Arguments:
+--   wiki = db name of wiki to lookup
+--   qid = QID of entity to search for, current page entity by default
+local function getSitelink(wiki,qid)
+	-- return nil if some sort of lookup failure
+	return qid and mw.wikibase.getSitelink(qid,wiki)
+end
+
+-- Function to get sitelink for a wiki
+-- Arguments:
+--   prefix = prefix string for wiki to lookup
+--   qid = QID of entity to search for, current page entity by default
+local function fetchWikidata(prefix,qid)
+	local sisterDbName = sisterDb[prefix]
+	return sisterDbName and getSitelink(sisterDbName,qid)
+end
+
+-- Function to generate the sister link itself
+-- Arguments:
+--  args = argument table for function
+--     args[1] = page to fetch
+--     args.default = link when blank
+--     args.auto = new auto mode (don't fall back to search)
+--     args.sitelink = wikidata sitelink (if available)
+--     args.qid = QID of entity
+--     args.search = fallback string to search for
+--     args.sisterPrefix = wikitext prefix for sister site
+--     args.information = type of info sister site contains
+--  tracking = tracking table
+local function genSisterLink(args, tracking)
+	if args[1][2] == false or (not args.default and args[1][2] == nil) then
+		return nil --- either editor specified "no", or "blank" (and default=no), then skip this sister
+	end
+	local sitelink = args.sitelink or fetchWikidata(args.sisterPrefix,args.qid)
+	if args.auto and not sitelink and args[1][2] == nil then
+		return nil --- in auto mode, if link is blank and no sitelink, then skip
+	end
+	-- fallback order of sister link: first specified page, then wikidata, then search
+	local link = args[1][1] or sitelink or (args.search and "Special:"..args.search)
+	if not link then
+		return nil --- no link found, just skip
+	end
+	if tracking then
+		-- update state for tracking categories
+		if args[1][1] and sitelink then
+			-- transform supplied page name to be in wiki-format
+			local page = mw.ustring.gsub(args[1][1],"_"," ")
+			page = mw.ustring.sub(page,1,1):upper()..mw.ustring.sub(page,2)
+			local pageNS = mw.ustring.match(page,"^([^:]+):")
+			local sitelinkNS = mw.ustring.match(sitelink,"^([^:]+):")
+			if page == sitelink then
+				tracking.wdHidden = args.sisterPrefix
+			elseif pageNS ~= sitelinkNS then
+				tracking.wdNamespace = args.sisterPrefix
+			else
+				tracking.wdMismatch = args.sisterPrefix
+			end
+		-- if no page link, nor a wikidata entry, and search is on, then warn
+		elseif not (args[1][2] or sitelink) and args.search then
+			tracking.defaultSearch = args.sisterPrefix
+		end
+	end
+	return {prefix=args.sisterPrefix, link=link, logo=args.logo, name=args.name,
+		    information=args.information}
+end
+
+-- Function to handle special case of commons link
+local function commonsLinks(args, commonsPage)
+	-- use [[Module:Commons link]] to determine best commons link
+	local cLink = (not args.commonscat) and commonsLink._hasGallery(args.qid)
+	                 or commonsLink._hasCategory(args.qid)
+	if commonsPage[1] and not mw.ustring.match(commonsPage[1]:lower(),"^category:") then
+		commonsPage[1] = (args.commonscat and "Category:" or "")..commonsPage[1]
+	end
+	local commonsSearch = "Search/"..(args.commonscat and "Category:" or "")..args[1]
+	return {link=cLink, search=commonsSearch}
+end
+
+-- Function to handle special case for "author" and "cookbook"
+local function handleSubtype(args)
+	local ns = args.ns
+	local ns_len = mw.ustring.len(ns)
+	local result = {}
+	result.sitelink = fetchWikidata(args.prefix, args.qid)
+	local subtype = false
+	if args.page then
+		if mw.ustring.sub(args.page,1,ns_len) == ns then
+    		subtype = true
+    	elseif args.subtype then
+    		result.page = ns..args.page
+    		subtype = true
+    	end
+	elseif result.sitelink then
+		subtype = mw.ustring.sub(result.sitelink,1,ns_len) == ns
+	elseif args.subtype then
+		result.search = "Search/"..ns..args.default
+		subtype = true
+	end
+	if subtype then
+		result.info = args.info
+	end
+	return result
+end
+
+-- Function to create a sister link, by prefix
+-- Arguments:
+--   prefix = sister prefix (e.g., "c" for commons)
+--   args = arguments for this sister (see p._sisterLink above)
+--   tracking = tracking table
+local function sisterLink(prefix, args, tracking)
+	-- determine arguments to genSisterLink according to prefix
+	if prefix == 'species_author' and not args.species[1] and args.species[2] and not args.species_author[1] and args.species_author[2] then
+		return nil
+	end
+	local default = defaultSisters[prefix]
+	if default == 'auto' then
+		default = args.auto
+	end
+	-- Handle exceptions by prefix
+	local search = ((prefix == 'd' and "ItemByTitle/enwiki/") or "Search/")..args[1]
+	local sitelink = prefix == 'd' and args.qid
+    local page = args[prefix]
+    local info = sisterInfo[prefix]
+    -- special case handling of author and cookbook
+    local subtype = nil
+    if prefix == 's' then
+    	subtype = handleSubtype({prefix='s',qid=args.qid,subtype=args.author,page=page[1],
+    		                    ns='Author:',info=nil,default=args[1]})
+    elseif prefix == 'b' then
+    	subtype = handleSubtype({prefix='b',qid=args.qid,subtype=args.cookbook,page=page[1],
+    		                    ns='Cookbook:',info='Recipes',default=args[1]})
+    end
+    if subtype then
+        page[1] = subtype.page or page[1]
+		search = subtype.search or search
+		sitelink = subtype.sitelink or sitelink
+		info = subtype.info or info
+	end
+    if prefix == 'voy' then
+    	if not args.bar then
+    		info = "Travel information"
+    	end
+    	if page[1] then
+    		if mw.ustring.match(page[1],"phrasebook") then
+    			info = "Phrasebook"
+    		end
+    	elseif page[2] or args.auto then
+    		sitelink = sitelink or fetchWikidata('voy',args.qid)
+    		if sitelink and mw.ustring.match(sitelink,"phrasebook") then
+    			info = "Phrasebook"
+    		end
+		end
+    end
+    info = args.information or info
+    if prefix == 'c' then
+    	local commons = commonsLinks(args, page)
+    	search = commons.search
+    	sitelink = commons.link
+    end
+    prefix = (prefix == 'species_author' and 'species') or prefix
+    local logo = logo[prefix]
+    local name = sisterName[prefix]
+    if mw.ustring.sub(prefix,1,2) == 'iw' then
+    	local lang = nil
+    	local iw_arg = args[prefix]
+    	if iw_arg[1] then
+    		lang = iw_arg[1]
+    	elseif iw_arg[2] then
+    		local P424 = mw.wikibase.getBestStatements(args.qid, "P424")[1]
+	        if P424 and P424.mainsnak.datavalue then
+	        	lang = P424.mainsnak.datavalue.value
+	        end
+	    end
+		if lang == nil then
+			return nil
+		end
+	    prefix = ':'..lang
+	    page[1] = ""
+	    page[2] = true
+	    local langname = mw.language.fetchLanguageName( lang, 'en')
+	    if langname then
+	    	info = langname..' '..info
+	    end
+    end
+    return genSisterLink({
+    	page,
+    	auto=args.auto,
+    	qid=args.qid,
+    	logo=logo,
+    	name=name,
+    	sitelink=sitelink,
+    	default=default,
+    	sisterPrefix = prefix,
+    	search=search,
+    	information=info}, tracking)
+end
+
+local function templatestyles_page(is_bar)
+	local sandbox = inSandbox and 'sandbox/' or ''
+	if is_bar then
+		return mw.ustring.format(
+			'Module:Sister project links/bar/%sstyles.css',
+			sandbox
+		)
+	end
+	return mw.ustring.format(
+		'Module:Sister project links/%sstyles.css',
+		sandbox
+	)
+end
+
+-- Function to create html containers for sister project link list
+-- Arguments:
+--   args = table of arguments
+--      args.position: if 'left', position links to left
+--      args.collapsible: if non-empty, make box collapsible. If 'collapse', start box hidden
+--      args.style: CSS style string appended to end of default CSS
+--      args.display: boldface name to display
+local function createSisterBox(sisterList, args)
+
+	local list = mw.html.create('ul')
+    for i, link in ipairs(sisterList) do
+	  local li = list:tag('li')
+	  -- html element for 27px-high logo
+	  local logoSpan = li:tag('span')
+	  logoSpan:addClass(sandbox("sister-logo"))
+	  logoSpan:wikitext("[[File:"..link.logo.."|27x27px|middle|link=|alt=]]")
+	  -- html element for link
+	  local linkspan = li:tag('span')
+	  linkspan:addClass(sandbox("sister-link"))
+	  local linkText = "[["..link.prefix..":"..link.link.."|"..link.information .."]] from "..link.name
+	  linkspan:wikitext(linkText)
+    end
+    list:allDone()
+    
+    return sideBox({
+		role = 'navigation',
+		labelledby = 'sister-projects',
+		class = sandbox("sister-box") .. ' sistersitebox plainlinks',
+		position = args.position,
+		style = args.style,
+		abovestyle = args.collapsible and 'clear: both' or nil,
+		above = mw.ustring.format(
+			"<b>%s</b>  at Wikipedia's [[Wikipedia:Wikimedia sister projects|<span id=\"sister-projects\">sister projects</span>]]",
+			args.display or args[1]
+		),
+		text = tostring(list),
+		collapsible = args.collapsible,
+		templatestyles = templatestyles_page()
+	})
+end
+
+local function createSisterBar(sisterList,args)
+	local nav = mw.html.create( 'div' )
+	nav:addClass( 'noprint')
+	nav:addClass( 'metadata')
+	nav:addClass( sandbox('sister-bar'))
+	nav:attr( 'role', 'navigation' )
+	nav:attr( 'aria-label' , 'sister-projects' )
+	local header = nav:tag('div')
+	header:addClass(sandbox('sister-bar-header'))
+	local pagename = header:tag('b')
+	pagename:wikitext(args.display or args[1])
+	local headerText = " at Wikipedia's [[Wikipedia:Wikimedia sister projects|"
+	headerText = headerText..'<span id="sister-projects" style="white-space:nowrap;">sister projects</span>]]:'
+	header:wikitext(headerText)
+	if #sisterList == 1 and args.trackSingle then
+		header:wikitext("[[Category:Pages with single-entry sister bar]]")
+	end
+	local container = nav:tag('ul')
+	container:addClass(sandbox('sister-bar-content'))
+	for _, link in ipairs(sisterList) do
+		local item = container:tag('li')
+		item:addClass(sandbox('sister-bar-item'))
+		local logoSpan = item:tag('span')
+		logoSpan:addClass(sandbox('sister-bar-logo'))
+		logoSpan:wikitext("[[File:"..link.logo.."|21x19px|link=|alt=]]")
+		local linkSpan = item:tag('span')
+		linkSpan:addClass(sandbox('sister-bar-link'))
+		linkSpan:wikitext("<b>[["..link.prefix..":"..link.link.."|"..link.information .."]]</b> from "..link.name)
+	end
+	return nav
+end
+
+function p._main(args)
+	local titleObject = mw.title.getCurrentTitle()
+	local ns = titleObject.namespace
+	-- find qid, either supplied with args, from search string, or from current page
+	args.qid = args.qid or mw.wikibase.getEntityIdForTitle(args[1] or "") or mw.wikibase.getEntityIdForCurrentPage()
+	args.qid = args.qid and args.qid:upper()
+	-- search string defaults to PAGENAME
+    args[1] = args[1] or mw.wikibase.getSitelink(args.qid or "") or titleObject.text
+    -- handle redundant "commons"/"c" prefix
+    args.c = args.c or args.commons
+	-- Canonicalize all sister links (handle yes/no/empty)
+	for _, k in ipairs(prefixList) do
+		args[k] = canonicalize(args[k])
+	end
+	-- Canonicalize cookbook
+	args.cookbook = canonicalize(args.cookbook)
+	args.b = mergeArgs({args.b,args.cookbook})
+	args.cookbook = args.cookbook[2]
+	-- handle trackSingle parameter
+	if args.trackSingle == nil then
+    	args.trackSingle = true
+	end
+    if ns ~= 0 and ns ~= 14 then
+    	args.trackSingle = false
+    end
+    -- Canonicalize general parameters
+    for _,k in pairs({"auto","commonscat","author","bar","tracking","sandbox","trackSingle"}) do
+    	args[k] = canonicalize(args[k])[2]
+    end
+	-- Initialize tracking categories if main namespace
+	local tracking = (args.tracking or ns == 0) and {}
+    local sisterList = {}
+    local prefix
+    -- Loop through all sister projects, generate possible links
+    for _, prefix in ipairs(prefixList) do
+    	local link = sisterLink(prefix, args, tracking)
+    	if link then
+			table.insert(sisterList, link)
+		end
+	end
+    local box = mw.html.create()
+    if args.bar and #sisterList > 0 then
+    	box:wikitext(mw.getCurrentFrame():extensionTag{
+			name = 'templatestyles', args = { src = templatestyles_page(true) }
+    	})
+    	box:node(createSisterBar(sisterList,args))
+    elseif #sisterList == 1 then
+    	-- Use  single sister box instead of multi-sister box
+    	local sister = sisterList[1]
+    	local link =  "[["..sister.prefix..":"..sister.link.."|<b><i>"..(args.display or args[1]).."</i></b>]]"
+    	if sister.name == 'Commons' then
+    		sister.name = 'Wikimedia Commons' -- make single sister commons box look like {{Commons}}
+    	end
+    	local text = sister.name.." has "..mw.ustring.lower(sister.information).." related to "..link
+    	if sister.name == 'Wikipedia' then  -- make single sister interwiki box look like {{InterWiki}}
+    		text = "[["..sister.prefix..":"..sister.link.."|<b><i>"..sister.information.."</i></b>]] at [[Wikipedia]], the free encyclopedia"
+    	end
+    	box:wikitext(sideBox({
+    		role = 'navigation',
+    		position=args.position,
+    		image="[[File:"..sister.logo.."|40x40px|class=noviewer|alt=|link=]]",
+    		metadata='no',
+    		class='plainlinks sistersitebox',
+    	    text=text,
+			templatestyles = templatestyles_page()
+    	}))
+    elseif #sisterList > 0 then
+    	-- else use sister box if non-empty
+    	box:wikitext(createSisterBox(sisterList,args))
+    end
+    if #sisterList == 0 and args.auto then
+    	box:wikitext(generateWarning({"No sister project links found in Wikidata. Try auto=0"}))
+    end
+	-- Append tracking categories to container div
+	-- Alpha ordering is by sister prefix
+	if tracking then
+		for k, v in pairs(tracking) do
+			box:wikitext("[[Category:"..trackingType[k].."|"..v.."]]")
+		end
+    	if #sisterList == 0 then
+    		box:wikitext("[[Category:Pages with empty sister project links]]")
+    	end
+	end
+	return tostring(box)
+end
+
+-- Main entry point for generating sister project links box
+function p.main(frame)
+	local args = getArgs(frame,{frameOnly=false,parentOnly=false,parentFirst=false})
+	return p._main(args)
+end
+
+-- Lua entry point for generate one sister link
+function p._sisterlink(args)
+    local prefix = args.prefix
+	-- Canonicalize all sister links (handle yes/no/empty)
+	for _, k in ipairs(prefixList) do
+		args[k] = canonicalize(args[k])
+	end
+	-- Canonicalize cookbook
+	args.cookbook = canonicalize(args.cookbook)
+	args.b = mergeArgs({args.b,args.cookbook})
+	args.cookbook = args.cookbook[2]
+    -- Canonicalize general parameters
+    for _,k in pairs({"auto","commonscat","author"}) do
+    	args[k] = canonicalize(args[k])[2]
+    end
+    args[1] = args[1] or mw.title.getCurrentTitle().text
+	args.qid = args.qid or mw.wikibase.getEntityIdForCurrentPage()
+	args.qid = args.qid and args.qid:upper()
+	local link = sisterLink(prefix, args,nil)
+	if not link then
+		return ""
+	end
+	return "[["..link.prefix..":"..link.link.."|"..link.information .."]] from "..link.name
+end
+
+-- Template entry point for generating one sister link
+function p.link(frame)
+	local args = getArgs(frame)
+	return p._sisterlink(args)
+end
+
+return p

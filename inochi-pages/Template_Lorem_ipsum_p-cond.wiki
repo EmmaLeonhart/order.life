@@ -1,0 +1,17 @@
+{{#ifeq: {{{2|{{{join|no}}}}}} | yes 
+  | 
+  | {{#switch: {{#invoke:string|sub|x{{{1|}}}|2|2}}
+      | : | # | * = 
+      | #default = <p><!--
+ -->}}
+}}</p><noinclude>{{Documentation |content=
+Conditional paragraph begin. Generates a begin p-tag if needed, depending on ''prefix'' and ''join'':
+* nothing, in the case of joins;
+* nothing, where prefix metacharacters are present like (<code>*</code>, <code>#</code>, or <code>:</code>) which must sit in column 1;
+* a begin p-tag before the first lorem paragraph, in other cases.
+
+== Usage ==
+{{tlc|Lorem ipsum/p-cond|''prefix''|''join''}}
+}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

@@ -1,0 +1,10 @@
+{{#if:{{{hangul|{{{1|}}}}}}|{{#ifeq:{{lc:{{{labels|yes}}}}}|no
+  |{{lang|ko-Hang|{{{hangul|{{{1|}}}}}}}}{{#if:{{{hanja|{{{2|}}}}}}|&#59; {{lang|ko-Hani|{{{hanja|{{{2|}}}}}}}} }}{{#if:{{{rr|{{{3|}}}}}}|&#59; {{Transliteration|ko|{{{rr|{{{3|}}}}}}}} }}{{#if:{{{mr|{{{4|}}}}}}|&#59; {{Transliteration|ko|{{{mr|{{{4|}}}}}}}} }}
+  |{{#ifeq:{{lc:{{{links|yes}}}}}|no
+      |Korean&#58;&nbsp;{{lang|ko-Hang|{{{hangul|{{{1|}}}}}}}}{{#if:{{{hanja|{{{2|}}}}}}|&#59; Hanja&#58;&nbsp;{{lang|ko-Hani|{{{hanja|{{{2|}}}}}}}} }}{{#if:{{{rr|{{{3|}}}}}}|&#59; {{abbr|RR|Revised Romanization of Korean}}&#58;&nbsp;{{Transliteration|ko|{{{rr|{{{3|}}}}}}}} }}{{#if:{{{mr|{{{4|}}}}}}|&#59; {{abbr|MR|McCune–Reischauer}}&#58;&nbsp;{{Transliteration|ko|{{{mr|{{{4|}}}}}}}} }}
+      |[[Korean language|Korean]]&#58;&nbsp;{{lang|ko-Hang|{{{hangul|{{{1|}}}}}}}}{{#if:{{{hanja|{{{2|}}}}}}|&#59; [[Hanja{{!}}{{#switch:{{{context|}}}|north=Hancha|#default=Hanja}}]]&#58;&nbsp;{{lang|ko-Hani|{{{hanja|{{{2|}}}}}}}} }}{{#if:{{{rr|{{{3|}}}}}}|&#59; [[Revised Romanization of Korean|RR]]&#58;&nbsp;{{Transliteration|ko|{{{rr|{{{3|}}}}}}}} }}{{#if:{{{mr|{{{4|}}}}}}|&#59; [[McCune–Reischauer|MR]]&#58;&nbsp;{{Transliteration|ko|{{{mr|{{{4|}}}}}}}} }}
+   }}
+}}|<span class="error"><code style="color:inherit; border:inherit; padding:inherit;">[[Template:Korean]] requires {{para|hangul}} parameter.</code></span>}}{{#if: {{{lit|}}}|&#59; {{abbr|lit.|literal translation}}&nbsp;{{{lit}}}}}{{category handler
+|main=[[Category:Articles containing Korean-language text]]}}<noinclude>{{documentation}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

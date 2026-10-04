@@ -1,0 +1,6 @@
+<templatestyles src="Script/styles_hebrew.css" /><span class="script-hebrew" style="font-size: {{{size|115%}}}; {{{style|}}}" {{{attributes|}}} {{#ifeq: {{{no_rtl_mark|+}}} | {{{no_rtl_mark|-}}}||dir="rtl"}}>{{{1}}}</span>{{#ifeq: {{{no_rtl_mark|+}}} | {{{no_rtl_mark|-}}}||&lrm;}}<noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

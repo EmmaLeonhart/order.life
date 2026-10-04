@@ -1,0 +1,17 @@
+{{#ifeq: {{{2|{{{join|no}}}}}} | yes 
+  | 
+  | {{#switch: {{#invoke:string|sub|x{{{1|}}}|2|2}}
+      | : | # | * = 
+      | #default = </p><!--
+ -->}}
+}}<noinclude>{{Documentation |content=
+Conditional paragraph end. Generates an p-tag if needed, depending on ''prefix'' and ''join'':
+* nothing, in the case of joins;
+* nothing, where prefix metacharacters are present like (<code>*</code>, <code>#</code>, or <code>:</code>) which must sit in column 1, don't acquire begin-p tags, and therefore don't need an end p-tag;
+* an end p-tag after the lorem paragraph emitted last, in other cases.
+
+== Usage ==
+{{tlc|Lorem ipsum/p-end-cond|''prefix''|''join''}}
+}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

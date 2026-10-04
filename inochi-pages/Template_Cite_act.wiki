@@ -1,0 +1,23 @@
+<includeonly>{{#invoke:Template wrapper|wrap
+|_template = cite book
+|_exclude = {{#if: {{{odf|}}} || date, }} title, df, type, article, article-type, articletype, number, trans-title, script-title, chapter-url, year, index, legislature, odf,
+| chapter = {{{title|}}}
+| trans-chapter = {{{trans-title|}}}
+| script-chapter = {{{script-title|}}}
+| publisher = {{{legislature|}}}
+| title = {{#if: {{{article|}}} | {{{article-type|{{{articletype|Article}}}}}} {{{article|}}}, }} {{{type|Act}}} {{#if: {{{index|{{{number|}}}}}} | No. {{{index|{{{number|}}}}}} }} {{#if: {{{odf|}}} || of {{#ifeq:
+{{{date|}}}|{{#time:j F Y|{{{date|}}}}}|{{{date|}}}|
+{{#ifeq:{{{date|}}}|{{#time:F j, Y|{{{date|}}}}}|{{{date|}}}|
+{{#ifeq:{{{date|}}}|{{#time:F Y|{{{date|}}}}}|{{{date|}}}|
+{{#ifeq:{{{date|{{{year}}}}}}|{{#time:Y|{{{date|{{{year}}}}}}}}|{{{date|{{{year}}}}}}|
+<span class="error">'''Error: the <code>date</code> or <code>year</code> parameters are either empty or in an invalid format, please use a valid year for <code>year</code>, and use DMY, MDY, MY, or Y date formats for <code>date</code>'''</span>
+}}
+}}
+}}
+}}
+}}
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

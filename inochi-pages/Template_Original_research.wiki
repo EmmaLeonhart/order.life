@@ -1,0 +1,20 @@
+{{ {{{|safesubst:}}}#invoke:Unsubst||date=__DATE__ |$B=
+{{Ambox
+| name  = Original research
+| subst = <includeonly>{{subst:substcheck}}</includeonly>
+| type  = content
+| class = ambox-Original_research
+| small = {{{small|}}}
+| issue = This {{{part|{{{1|article}}}}}} '''possibly contains [[Wikipedia:No original research|original research]]'''. {{#if:{{{reason|}}}|{{{reason|}}}}}
+| fix   = Please [{{fullurl:{{FULLPAGENAME}}|action=edit}} improve it] by [[WP:Verifiability|verifying]] the claims made and adding [[Wikipedia:Citing sources#Inline citations|inline citations]]. Statements consisting only of original research should be removed.
+| removalnotice = yes
+| talk  = {{{discuss|}}}
+| cat   = Articles that may contain original research
+| all   = All articles that may contain original research
+| date  = {{{date|}}}
+}}
+}}<noinclude>
+{{Documentation}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>
