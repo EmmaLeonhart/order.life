@@ -1,0 +1,73 @@
+grep is a command-line utility for searching plain-text data sets for lines that match a regular expression
+[[Category:Linux]]
+[[sn:Grep]]Grep looks for a pattern inside a file. It ignores most [[linux special characters]] and treats them as normal text
+
+== Examples ==
+grep 'hello' foo.txt
+
+* looks for every line containing 'hello' and displays all the lines
+grep -i 'ea'
+
+* looks for every line containing "EA" "Ea" "eA" "ea"
+
+== Command syntax ==
+grep options 'regular expression' file(s)
+
+== Options ==
+
+* -n display line numbers with the output
+* -c display just a count of lines
+* -i case insensitive mode
+* -v display all lines that don't match the pattern
+** Sometimes useful if the lines you want are easier to get by elimination
+
+=== Mutual exclusions ===
+
+* n and c make it so that the number is just displayed, n is ignored
+
+== Grep special characters ==
+
+* ^ beginning of a line
+** has to be at the beginning of the regex or else it is treated as a literal
+* $ end of a line
+** has to be at the end of the line otherwise it is treated as a literal
+* . any single character (like ? for shell file matching)
+* * 0 or more of the previous character (one to the left)
+* [] a single character that is one of the ones listed in [...] (similar to [ ...] for shell file matching)
+
+== Complex command structure ==
+
+* .* combines period and asterisk. Makes a wildcard
+** * is zero or more of the previous character, previous character does not need to show up as a result
+** ..* is the intuitive version of at least one character
+
+== Review excercises ==
+
+* ab*
+* a[bc][bc]*
+* a[0-9][0-9]*
+* 5 strings associated with this regualr epression [^0-9][ab]*f
+** [^ negates the numbers meaning it's any character that isn't there
+** af
+** aaf
+** !f
+** LF
+** JF
+* 5 smallest strings
+** 2f
+** 3f
+** 2af
+** 2bf
+** 3af
+** 3bf
+
+== See Also ==
+
+* [[sed]]
+* [[awk]]
+
+== References ==
+{{lowercase}}
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

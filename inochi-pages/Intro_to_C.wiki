@@ -1,0 +1,68 @@
+[[Category:Operating Systems]][[Category:Machine Architecture]]
+
+C is somewhat linked to [[awk]] but it goes C -> Unix -> awk
+
+==hello.c==
+<nowiki>#</nowiki>include <stdio.h> /* instructions to compiler to include stdio.h, .h means a header file, stdio is the standard input/output */
+
+<nowiki>#</nowiki>include <string.h>
+
+<nowiki>#</nowiki>include "junk.c" /* include file located in the current directory and run the code. More of a code transclusion*/
+
+int main() { /* every C program includes a main function */
+
+    printf("Hello World!\n");
+
+    return 0; /* need to return something */
+
+}
+
+==Data types==
+===Integers===
+* byte
+* short
+* int
+* long
+===Floating point===
+* float
+* double
+===Bool===
+* bool
+
+These ones are not standardized
+
+==Other Stuff==
+Need to learn how to use pointers
+
+== January 12th notes ==
+Continuing with C, see [[#hello.c]]
+
+== Pointers ==
+[[File:Pointers example.jpg|thumb|600x600px|Code for today]]
+View image to the right
+
+<nowiki>*</nowiki>p gives the value at location p (p->1709->7)
+
+p gives the value of the location (1709)
+
+&p gives its own memory location (1712)
+
+x gives 7
+
+<nowiki>*</nowiki>x gives the value at location 7 (x->7->location(7))
+
+* only works if x is declared as a pointer
+
+&x gives memory location of content (1709)
+
+==malloc==
+Make a n array
+
+p = (int*)malloc(sizeof(int)*5)[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

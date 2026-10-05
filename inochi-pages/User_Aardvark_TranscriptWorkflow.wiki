@@ -1,0 +1,211 @@
+{{#lst:The Portal Transcripts|transcript-infobox}} <!-- Includes the Transcripts project infobox -->
+
+This is the workflow for generating and editing transcripts for [[The Portal Podcast]] and other [[Content by Eric Weinstein]]. It introduces the tools we use, our style guide, and our process.
+
+== Before you start ==
+There are a few things you should have ready before starting. Also check that there isn't already a completed transcript for what you would like to contribute to, using our [https://docs.google.com/spreadsheets/d/1lFYnK-Z_eDAp_6D7SAZvCrcw3LxoLdBcEHzzVs9oztI/edit?usp=sharing spreadsheet], the [[:Category:Transcript|transcript wiki category]], or the [https://theportal.group/blog blog].
+
+=== Make accounts ===
+In order to give you access to our transcripts, you'll need accounts with the services we use.
+* Have a [https://discord.com/ Discord] account. Discord is an online chat service where we coordinate our work.
+* Have an [https://otter.ai/ Otter.ai] account. We generate our transcripts in Otter, where they can be edited to match speakers to text.
+* Have a [https://google.com/ Google] account. We use Google Drive and Google Docs to store and coordinate our work.
+
+=== Contact us on Discord ===
+Contact Aardvark or Brooke on our transcript-focused [https://discord.gg/wu957e7 Discord server] or our main [https://discord.gg/VxEuDZD2PC Discord server]. Say what you'd like to work on and we'll give you access to our Drive folder and the AI-generated transcript in Otter.
+
+== Basic Editing Rules ==
+[[File:ParagraphsExampleImage.png|thumb|right|A labelled example that shows paragraph formatting.]]
+We have developed a style guide to keep our transcripts consistent. Here are the basics:
+
+* We use American English.
+* We use a clean verbatim style. This means filler words (um, uh, etc.) and repeated words or phrases, when they do not add meaning or nuance, are removed.
+* Paragraphs are not indented.
+* Leave an empty paragraph between paragraphs.
+* Timestamps (preferably taken from the content's YouTube version) are at the start of a paragraph, italicized, of the form ''HH:MM:SS'', and separated by a line break (<code>Shift + Enter</code>) from the rest of the paragraph.
+* Speaker tags are bold, punctuated with a colon, and use the speaker's full name (first + last).
+* Only the first of consecutive paragraphs by a speaker should have a speaker tag.
+* Add notes in brackets for things that happen in video but don't translate to audio.
+* Add headings to identify the discussion topic.
+
+Be sure to review our style guide for everything in detail with examples.
+
+== Editing Process ==
+Some people prefer doing the majority of their editing and corrections in Otter, while others prefer Google Docs. Both are necessary, but you are free to use them as best suits your preferences. The general process follows these steps:
+# Edit in Otter, focusing on matching text to the correct speaker and correcting obvious errors as convenient.
+# Export to Google Docs when finished.
+# Edit in Google Docs while listening to the source material, correcting major errors and adding paragraph breaks and new timestamps where necessary.
+# Edit in Google Docs again, fine tuning grammar and punctuation.
+
+Leave comments where you're uncertain on what is being said. Search online for terms or phrases that you don't know, Google can usually find most of them. Search for song lyrics or exact quotes in order to mirror how they were originally written.
+
+For guidance on typesetting mathematics, see our style guide.
+
+=== Tips for Otter ===
+[[File:OtterExportOptions.png|thumb|right|Options to use when exporting from Otter.]]
+* Export as text to your clipboard, and paste it into a new Google Doc.
+* Wait to make sure that Otter has finished "matching speakers" before exporting.
+* [https://help.otter.ai/hc/en-us/articles/360047731754-Edit-a-conversation Otter's Editing Guide]
+* [https://help.otter.ai/hc/en-us/articles/360047733634-Export-conversations Otter's Export Guide]
+
+=== Tips for Google Docs ===
+[[File:GDocsSmartQuotes.png|thumb|right|The smart quotes option in Preferences.]]
+[[File:GDocsSubstitutions.png|thumb|right|The automatic substitution option in Preferences.]]
+* Disable smart quotes in Preferences
+* Disable substitutions in Preferences
+* Use heading level 3 as your highest heading level.
+
+== When finished ==
+Tell Aardvark or Brooke. We'll look it over and post it on the blog.
+
+=== Putting it on the wiki ===
+[[File:WikiTimestampLineBreakExample.png|thumb|right|Example of using <br> tags to insert linebreaks after timestamps.]]
+Copy/Paste it from Google Docs onto the wiki. Note that:
+* Timestamps must be followed by a <code><nowiki><br></nowiki></code> tag to insert the linebreak.
+* Perform a find/replace operation with each speaker name, replacing the speaker name with the name surrounded by three tick marks. So <code>Eric Weinstein:</code> is replaced <code><nowiki>'''Eric Weinstein:'''</nowiki></code>.
+* Add the necessary markup around section headings. Keep in mind that heading levels may differ between the Google Doc and the wiki, all that needs to be preserved is the relative ordering.
+
+Add the [[:Template:Transcript blurb|transcript blurb template]] and credit yourself.
+
+For more help on using the wiki, see [https://en.wikipedia.org/wiki/Help:Wikitext Wikipedia's guide on Wiki markup] and our [[Wiki Usage FAQ]].
+
+== Example Transcripts ==
+Here are some completed transcripts to refer to as examples.
+
+{| class="wikitable"
+|-
+! Transcript !! Google Doc !! Wiki Page !! Blog Post
+|-
+| The Portal Podcast Episode 2 || [https://docs.google.com/document/d/1BEXCxpOkKKK7lYWRYlnf2p9QTD2VWz-GYUDY_OP8zLw/edit?usp=sharing Link] || [[Ep2|Link]] || [https://theportal.group/the-portal-episode-002-what-is-the-portal/ Link]
+|-
+| The Portal Podcast Episode 8 || [https://docs.google.com/document/d/1xoYpcimh0SflNpzshWSbUVbzw2gk21195p-RvSRZK9o/edit?usp=sharing Link] || [[Ep8|Link]] || [https://theportal.group/8-andrew-yang-the-different-candidate-the-media-wants-you-to-ignore/ Link]
+|-
+| Eric on the Glenn Beck Podcast || [https://docs.google.com/document/d/1mY1xPog-jW12uwtepsuAZ0Wz95Q5a-hMzHumZwH50wY/edit?usp=sharing Link] || [[Why Eric Weinstein Is Finally Talking to Glenn Beck (YouTube Content)|Link]] || [https://theportal.group/eric-on-the-glenn-beck-podcast/ Link]
+|-
+| Geometric Unity on Into the Impossible || [https://docs.google.com/document/d/1g-FYv6Wi0zQLhPlaRRcaix2aySKkyGNivWX70UOkI-Q/edit?usp=sharing Link] || [[Eric Weinstein: A Conversation (YouTube Content)|Link]] || [https://theportal.group/into-the-impossible-eric-weinstein-geometric-unity-revealed/ Link]
+|}
+
+== If I want to stop part-way ==
+Tell us!
+
+<!--
+== Working on a Transcript ==
+
+=== Make a Machine Readable Version ===
+* Get the MP3 (from the episode wiki page)
+* Import the MP3 into Descript
+* Export a VTT file from Descript
+** Check the "Remove ums/uhs Checkbox"
+* Upload VTT file to wiki
+* Link VTT file in [https://docs.google.com/spreadsheets/d/1lFYnK-Z_eDAp_6D7SAZvCrcw3LxoLdBcEHzzVs9oztI/edit#gid=0 The Portal Media Progress]
+
+=== Run Through Alex's VTT Conversion Program ===
+Find the [https://github.com/Buhlean/The-Portal-Scripts VTT Conversion Program] on Github.
+Then either:
+* Download [http://Python.org/downloads Python] 3.x, download the Conversion Script ([https://github.com/Buhlean/The-Portal-Scripts/blob/master/Transcript_Converter.pyw .pyw]) and run it.
+or:
+* Download the [https://github.com/Buhlean/The-Portal-Scripts/blob/master/Transcript_Converter.zip .zip] with the Windows executable inside from GitHub and run it.
+Regardless of which one you choose, you can then:
+* open the output '_wiki.txt' file
+* Paste into Wiki
+
+=== Make Human-Edited Version ===
+* Add your name to the "Responsibility" column in [https://docs.google.com/spreadsheets/d/1lFYnK-Z_eDAp_6D7SAZvCrcw3LxoLdBcEHzzVs9oztI/edit#gid=0 The Portal Media Progress], so people know who to contact with questions.
+* Make edits to the wiki. All progress will be tracked in the "View History" tab.
+** If you want your name to be listed in the History, then you'll need to [[Special:CreateAccount|create an account]].
+
+=== Update VTT file with Human-edited Version ===
+* Upload the MP3 file to Descript
+* Make sure file is in right format to be imported into Descript.
+** https://help.descript.com/en/articles/2343178-import-transcript-formatting-tips
+** https://help.descript.com/en/articles/3337674-transcribing-an-audio-video-file
+** Import the transcript into Descript
+* Export VTT file
+* Upload back to wiki. Make sure you use the same filename, so that a new version of the file is created.
+
+=== Run Through VTT Parser to Make Wiki-Friendly Text ===
+* Paste new version to wiki.
+* Update "Transcript Notes".
+-->
+
+<!--
+=== The Portal Podcast .vtt Files ===
+{| class="wikitable sortable" 
+|-
+! scope="col"| #
+! scope="col"| Title
+! scope="col" style="width: 17%;" | File
+! scope="col"| File Status
+|-
+| 31 || [[31: to be broadcast]] || - || .vtt file needed
+|-
+| 30 || [[30: Ross Douthat - The Rave before the Fall]] || - || .vtt file needed
+|-
+| 29 || [[29: Jamie Metzl - The Bio-Hacker will see you now, Ready or Not]] || - || .vtt file needed
+|-
+| Special 1 || [[A_Portal_Special_Presentation-_Geometric_Unity:_A_First_Look|A Portal Special Presentation- Geometric Unity: A First Look]] || [[:File:Geometric-Unity-A-First-Look_-_YouTube.vtt|Special 1 VTT File]] || .vtt file needs editing
+|-
+| 28 || [[28: Eric Lewis - The Singular Genius of Elew]] || - || .vtt file needed
+|-
+| 27 || [[27: Daniel Schmachtenberger - On Avoiding Apocalypses]] || - || .vtt file needed
+|-
+| 26 || [[26: James O’Keefe: What is (and isn't) Journalism in the 21st century]] || [[:File:James_O’Keefe_What_is_%28and_isn%27t%29_Journalism_in_the_21st_century.vtt|Episode 26 VTT File]] || Finished
+|-
+| 25 || [[25: The Construct: Jeffrey Epstein]] || [[:File:EW_-_Epstein_V2_FINAL_AUDIO.vtt|Episode 25 VTT File]] || Finished
+|-
+| 24 || [[24: Kai Lenny - To Play and Flirt with Giants]] || - || .vtt file needed
+|-
+| 23 || [[23: Agnes Callard - Courage, Meta-cognitive detachment and their limits]] || - || .vtt file needed
+|-
+| 22 || [[22: Ben Greenfield - Wheat From Chaff in Human Fitness]] || [[:File:Ep_22_art19.vtt|Episode 22 VTT File]] || Finished
+|-
+| 21 || [[21: Ashley Mathews (aka Riley Reid) - The mogul and brains behind America's Sweetheart]] || [[:File:Ep_21_art19.vtt|Episode 21 VTT File]] || Finished
+|-
+| 20 || [[20: Sir Roger Penrose - Plotting the Twist of Einstein’s Legacy]] || - || .vtt file needed
+|-
+| 19 || [[19: Bret Weinstein - The Prediction and the DISC]] || [[:File:19_Bret_Weinstein.vtt|Episode 19 VTT File]] || Finished
+|-
+| 18 || [[18: Slipping the DISC: State of The Portal & Chapter 2020]] || - || .vtt file needed
+|-
+| 17 || [[17: Anna Khachiyan - Reconstructing The Mystical Feminine From The Ashes Of “The Feminine Mystique”]] || [[:File:Ep_17_art19.vtt|Episode 17 VTT File]] || Finished
+|-
+| 16 || [[16: Tyler Cowen - The Revolution Will Not Be Marginalized]] || - || .vtt file needed
+|-
+| 15 || [[15: Garrett Lisi - My Arch-nemesis, Myself]] || - || .vtt file needed
+|-
+| 14 || [[14: London Tsai - The Reclusive Dean of The New Escherians]] || - || .vtt file needed
+|-
+| 13 || [[13: Garry Kasparov - Avoiding Zugzwang in AI and Politics]] || - || .vtt file needed
+|-
+| 12 || [[12: Vitalik Buterin - The Ethereal Prince and His Virtual Machine]] || - || .vtt file needed
+|-
+| 11 || [[11: Sam Harris - Fighting with Friends]] || [[:File:11_Sam_Harris.vtt|Episode 11 VTT File]] || Speakers and timestamps aligned. May require cleaning and removal of filler words.
+|-
+| 10 || [[10: Julie Lindahl: Shaking the poisoned fruit of shame out of the family tree]] || [[:File:Ep_10.vtt|Episode 10 VTT File]] || Speakers and timestamps aligned.  May require editing for grammar, punctuation, and spelling.
+|-
+| 9 || [[9: Bryan Callen - Cracking Wise]] || - || .vtt file needed
+|-
+| 8 || [[8: Andrew Yang - The Dangerously Different Candidate The Media Wants You To Ignore]] || [[:File:8_Andrew_Yang.vtt|Episode 8 VTT File]] || Finished
+|-
+| 7 || [[7: Bret Easton Ellis - The Dark Laureate of Generation X]] || - || .vtt file needed
+|-
+| 6 || [[6: Jocko Willink - The Way of the Violent Intellectual]] || [[:File:Ep_6.vtt|Episode 6 VTT File]] || Speakers and timestamps aligned.  May require editing for grammar, punctuation, and spelling.
+|-
+| 5 || [[5: Rabbi Wolpe - “So a Rabbi and an atheist walk into a podcast...”]] || [[:File:Ep_5.vtt|Episode 5 VTT File]] || Speakers and timestamps aligned.  May require editing for grammar, punctuation, and spelling.
+|-
+| 4 || [[4: Timur Kuran - The Economics of Revolution and Mass Deception]] || [[:File:Ep_4.vtt|Episode 4 VTT File]] || Speakers and timestamps aligned.  May require editing for grammar, punctuation, and spelling.
+|-
+| 3 || [[3: Werner Herzog]] || [[:File:3_Werner_Herzog.vtt|Episode 3 VTT File]] || Finished
+|-
+| 2 || [[2: What Is The Portal?]] || [[:File:2_What_Is_The_Portal_.vtt|Episode 2 VTT File]] || Finished
+|-
+| 1 || [[1: Peter Thiel]] || [[:File:1_Peter_Thiel.vtt|Episode 1 VTT File]] || Finished
+|-
+| 0 ||[[0: Welcome to The Portal]] || [[:File:0_welcome.vtt|Episode 0 VTT File]] || Finished
+|}
+-->
+
+[[Category:Portal Users]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

@@ -1,0 +1,30 @@
+[[File:Uml classes en.svg|thumb]]
+UML class diagrams
+[[Category:UML]]
+[[sn:Class diagram]]{{UML_diagram_types}}
+
+==Relationships==
+* '''Association''' describes the relationship between two or more components
+* '''Multiplicity''' describes the number of elements possible in a relationship between the components
+**One to many
+**Many to one
+**One to one
+**etc
+**2, 4 indicates 2 or 4
+**2... 4 indicates 2-4
+* '''Navigability''' describes the directional flow of data in the association
+
+== Operations ==
+Operations describe what instances of a class can do
+
+* Getters and setters
+* Perform calculations
+* Send messages to other objects
+[[Category:UML]]
+[[sn:Class diagram]]* Create or destroy links
+
+
+Use https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

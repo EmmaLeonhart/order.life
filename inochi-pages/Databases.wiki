@@ -1,0 +1,119 @@
+[[Category:College]]
+[[sn:Databases]][[sn:Databases]][[Category:Databases]]
+Really getting back into this. Need to complete by January 7.
+Use [[Template:Databases]] on every page related to this
+
+==September 20 2023==
+Keys review
+
+Reviewing bridge tables
+
+==September 22, 2023==
+Stuff that seems like clear review
+==Septembeer 27 2023==
+Review of [[set theory]]
+==Decode==
+
+SELECT program, 
+       SUM(DECODE(g.course_ID, 'COSC111', 1, 0)) COSC111,
+       SUM(DECODE(g.course_ID, 'COSC121', 1, 0)) COSC121,
+       SUM(DECODE(g.course_ID, 'COSC222', 1, 0)) COSC222,
+FROM students s, grades g
+WHERE s.student_ID = g.student_ID
+GROUP BY program
+ORDER BY program;
+
+== Superkey ==
+A superkey is any combination of columns that determines all the other columns
+
+All columns together is a trivial superkey
+
+A minimal superkey (also known as a candidate key) is a superkey of which removing any column will make it no longer a superkey. There can be multiple minimal superkeys, it is not the smallest superkey
+
+== Relations ==
+
+=== Augmentation ===
+This is a new one
+
+Augmentation means fo any superkey you an add another thing to it to be one
+
+If
+
+A -> B
+
+then
+
+A, C -> B
+
+=== Transitivity ===
+
+=== Reflexivity ===
+{{Main|Reflexive}}
+In database math Reflexivity is trivial because
+==PLSQL==
+
+DECLARE
+
+BEGIN
+
+EXCEPTION
+
+END;
+
+
+=== SELECT INTO statements ===
+DECLARE 
+
+v_stu_name VARCHAR2(20);
+
+BEGIN 
+
+SELECT stu_name INTO v_stu_name
+
+===Exception handling===
+Two main exceprions
+
+NO_DATA_FOUND
+TOO_MANY_ROWS
+
+
+Handle them as follows
+
+
+EXCEPTION
+    WHEN NO_DATA_FOUND
+         dbs output
+
+== Old class ==
+
+=== Data vs knowledge ===
+Data is just the bytes
+Information adds context allowing it to be used
+It involves metadata
+
+=== File system vs database ===
+Databases are more effective than file systems for a wide variety of purposes and reasons. Notably efficiency in accessing data and storing it in one place
+{{databases}}
+
+=== E-R diagrams ===
+
+=== EED Diagram ===
+{{Main|EED Diagram}}
+
+=== Database Normalization ===
+{{Main|Database Normalization}}
+
+=== Data Warehouse vs Data Mart ===
+[[File:Data Warehouse vs Data Mart.png|thumb]]
+
+=== Transient vs periodic data ===
+[[File:Capture.PNG|thumb|Page 423]]
+Transient data is overwritten and periodic is never altered, just added to store
+
+=== Current page ===
+At page 476/552 in the textbook right now
+
+[[File:Types of Analytics.png]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

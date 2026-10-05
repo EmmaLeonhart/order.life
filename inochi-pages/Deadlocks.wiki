@@ -1,0 +1,44 @@
+[[Category:Operating Systems]]
+Regard system as a set of processes and resources
+
+Examples of resoures - devices, cpu cycles, semaphores, mutex locks, shared memory
+
+
+Assume processes use resources in 3 steps
+
+# Request
+# Use
+# Release
+
+==Deadlocks==
+Deadlocks occur when something cannot happen because there's an impossible paradox of things waiting
+
+[[File:Resource allocation graph.png|thumb|Resource allocation graph]]
+Resource allocation graphs
+
+==Dealing with deadlock==
+
+Three methods
+
+# Ensure system never enters deadlock
+# allow deadlock and then let the system recover
+# Do nothing
+
+3rd is the most common
+
+==Deadlock prevention==
+
+* Mutex exclusion, make resources shareable
+* Hold and wait, force processes to request every resource they need simultaneously
+* No preemption:
+
+Circular wait: apply some enumeration to all resources: r1, r2, r3, ......, rm
+===Additional note===
+Each process needs to declare the amount of resources it needs beforehand[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

@@ -1,0 +1,255 @@
+I do math
+= Algebraic Geometry of Computing =
+Finite state machines appear in a variety of instantiations: mechanical, electronic, fluidic. The physical mechanisms involved necessitate that the design is described by differential equations, but ultimately the manipulation of abstracted "logical" states is the final goal. Thus we can describe the architecture of a general finite state machine with <math> \mathbb{Z}/2\mathbb{Z} </math> algebra (or other finite rings too).
+=== Gates ===
+Typically you will see a logic gate defined by its values on all combinations of inputs as a "truth table":
+{| class="wikitable" style="margin:auto"
+|+ AND
+|-
+! x !! y !! x AND y = AND(x,y)
+|-
+| 0 || 0 || 0
+|-
+| 0 || 1 || 0
+|-
+| 1 || 0 || 0
+|-
+| 1 || 1 || 1
+|}
+And statements written with logical connectives: <math> (x\and y)\or z = OR(AND(x,y),z) </math> 
+<br>
+Along with distributive laws: <math> (x\and y)\or z = (x\or z)\and(y\or z) </math>, <math> (x\or y)\and z = (x\and z)\or(y\and z) </math>
+<br>
+De Morgan's laws: <math> \neg(x\and y) = (\neg x)\or (\neg y) </math>, <math> \neg(x\or y) = (\neg x)\and (\neg y) </math>
+<br>
+All of which apply to more complicated sentences rather than just individual variables. These laws along with commutative and associative laws are sufficient to evaluate and simplify any general logical expression, however we contend that this is the wrong language for computing and makes other important aspects - the dynamics and algebra - obscure. 
+<br>
+There is one thing we can extract from logical connectives before moving on. The disjunctive normal form allows us to read truth tables and directly translate them into connective formulae which we can use later. Let us look at a different example which will help us escape the artificiality of AND and OR.
+{| class="wikitable" style="margin:auto"
+|+ XOR
+|-
+! x !! y !! XOR(x,y)
+|-
+| 0 || 0 || 0
+|-
+| 0 || 1 || 1
+|-
+| 1 || 0 || 1
+|-
+| 1 || 1 || 0
+|}
+XOR is only "true" or 1 when x or y but not both, are 1. Disjunctive normal form says that we can view the x, y entries as unary operators which return the input with no change, combine these as given on the lines which evaluate to 1, and take the OR of all of them for the total connective form of the truth table. Here is the third line: <math> x\and\neg y</math>. 
+<br> The total is:
+<math>
+\begin{align*}
+&(x\and\neg y)\or (\neg x\and y) \\
+=&(x\or(\neg x\and y))\and(\neg y\or(\neg x\and y)) \\
+=&(x\or\neg x)\and (x\or y)\and(\neg y\or\neg x)\and(\neg y\or y) \\
+=&(x\or y)\and (\neg y\or\neg x) \\
+=&(x\or y)\and\neg (y\and x)
+\end{align*}
+</math> 
+<br>
+This process can be viewed as a sum of "elementary functions" which are only 1 on one line each, and building a general function/table.
+
+= Read prototype =
+[[File:Linmechfieldsfolds.jpg|thumb|alt=Linear algebra, Mechanics, Relativity and Fields, Differential Geometry|The starter pack to physics and differential geometry]]
+
+
+Our point of view is that the texts typically used in physics and especially mathematics degree tracks are window dressing for the real job of being a mathematical physicist or even an engineer. Excellent texts meet a certain standard we set here; Texts should be concise to respect the reader's time and occupations, interdisciplinary, at least relating mathematical tools between areas of mathematics:
+* Lang's algebra text contains examples and applications in geometry and number theory throughout
+* Vaisman emphasizes the typically algebro-geometric method of sheaves in a differential geometry setting and to develop the theory of multiple sorts of manifolds
+* We choose physics texts which connect to heavy mathematical machinery such as curvature and covariant derivatives in general relativity or symplectic/variational geometry in mechanics
+* The algebraic topology texts are not "pure" either - focusing on applications to differential or algebraic geometry, and many more. 
+
+Thus, the structure of this book list will be centered around core topics in theoretical physics which are already given direct connection to technology and reality, and the mathematics that follows from the theory rather than simply chasing popular formalisms. Future iterations will make an effort to connect with more computational content, such as that seen in representation theory or Olver's text on applications of Lie groups. This pertains to our last criterion that there should be some elementary aspects in a text - showing the translation of the abstract machinery into basic computations to make the relationships with other areas even more transparent.
+
+
+Also see this [[Watch|list of video lectures]], the lectures by Schuller concisely summarize various algebraic and geometric constructions commonly appearing in theoretical physics.
+
+
+A related set of texts to this one, working with the same basics has been produced leading all the way up and through gauge field theory, quantum mechanics, algebraic geometry, and quantum field theory [http://sheafification.com/the-fast-track/ here].
+
+== List Structure ==
+
+Calculus is not in the pictured starter pack because it is found more often in high school curricula, while linear algebra (''despite being core to "applied mathematics" topics such as engineering, numerical computing, and statistics'') is often missing at the required level of rigor. Thus, we suggest looking at any '''Basic Mathematics''' to quickly fill in your gaps and as a source of quick and dirty computational techniques used universally.
+
+The texts by '''Landau''' are the list's core. While on that track, you should start dipping into the texts listed under the Landau volumes to enhance your perspective on repeated readings
+
+The '''General Mathematics''' section covers the knowledge that would be acquired in standard (but basic) graduate courses on the different areas of mathematics that later develop into modern topics, and should be developed alongside Landau.
+
+The '''Aspirational''' section contains some of the big ideas, which may be repeated from earlier but deserve emphasis. These are the triumphs of mathematics, peaks that everyone deserves to climb.
+
+== Basic Mathematics ==
+<div class="flex-container" style="clear: both;">
+{{BookListing
+| cover = Lang Basic Mathematics Cover.jpg
+| link = Basic Mathematics (Book)
+| title = === Basic Mathematics ===
+| desc = Review of arithmetic, algebra, trigonometry, logic, and geometry by Serge Lang.
+}}
+{{BookListing
+| cover = Shilov Linear Algebra Cover.jpg
+| link = Linear Algebra (Book)
+| title = === Linear Algebra ===
+| desc = Linear algebra of linear equations, maps, tensors, and geometry by Georgi Shilov.
+}}
+{{BookListing
+| cover = Apostol Calculus V1 Cover.jpg
+| link = Calculus (Book)
+| title = === Calculus ===
+| desc = Overview of single and multi-variable calculus with applications to differential equations and probability by Tom Apostol.
+}}
+</div>
+== Landau ==
+<div class="flex-container">
+{{BookListing
+| cover = Landau Course in Theoretical Physics V1 Cover.jpg
+| link = Mechanics (Book)
+| title = === Mechanics ===
+| desc = Classical mechanics of particles by Lev Landau.<br>
+<div class="flex-container" style="clear: both;">
+{{BookListing
+| cover = Mechmath.jpg
+| link = Mechanics (Book)
+| title = === Applications ===
+| desc = Symplectic geometry and other mathematical Structures of Classical Mechanics
+}}
+</div>
+}}
+{{BookListing
+| cover = Landau Course in Theoretical Physics V2 Cover.jpg
+| link = The Classical Theory of Fields (Book)
+| title = === The Classical Theory of Fields ===
+| desc = Classical field theory of electromagnetism and general relativity by Lev Landau.<br>
+<div class="flex-container" style="clear: both;">
+{{BookListing
+| cover = Fieldsmath.jpg
+| link = The Classical Theory of Fields (Book)
+| title = === Applications ===
+| desc = Differential/Riemannian geometry and other mathematical Structures in Relativistic Field Theory
+}}
+</div>
+}}
+{{BookListing
+| cover = Landau Quantum Mechanics.jpg
+| link = Quantum Mechanics (Book)
+| title = === Quantum Mechanics ===
+| desc = Quantum Mechanics of particles, atoms, molecules by Landau and Lifshitz<br>
+<div class="flex-container" style="clear: both;">
+{{BookListing
+| cover = Quantmath.jpg
+| link = Quantum Mechanics (Book)
+| title = === Applications ===
+| desc = Generalized functions, spectra of self-adjoint operators, and other mathematical Structures in Quantum Mechanics
+}}
+</div>
+}}
+
+{{BookListing
+| cover = Lawvere Sets for Mathematics Cover.jpg
+| link = Sets for Mathematics (Book)
+| title = === Sets for Mathematics ===
+| desc = Categorical approach to set theory by F. William Lawvere.<br>
+'''Backbone reference:'''
+* [[{{FULLPAGENAME}}#Set Theory and Metric Spaces|Set Theory and Metric Spaces]]
+* [[{{FULLPAGENAME}}#Foundations of Analysis|Foundations of Analysis]]
+}}
+
+
+{{BookListing
+| cover = Bishop Tensor Analysis Cover.jpg
+| link = Tensor Analysis on Manifolds (Book)
+| title = === Tensor Analysis on Manifolds ===
+| desc = Tensor analysis by Richard Bishop and Samuel Goldberg.<br>
+'''Prerequisite:'''
+* [[{{FULLPAGENAME}}#Linear Algebra|Linear Algebra]]
+'''Backbone reference:'''
+* [[{{FULLPAGENAME}}#Principles of Mathematical Analysis|Principles of Mathematical Analysis]]
+* [[{{FULLPAGENAME}}#Topology: A Categorical Approach|Topology: A Categorical Approach]]
+}}
+{{BookListing
+| cover = Sternberg Differential Geometry Cover.jpg
+| link = Lectures on Differential Geometry (Book)
+| title = === Lectures on Differential Geometry ===
+| desc = Differential geometry by Shlomo Sternberg.<br>
+'''Prerequisite:'''
+* [[{{FULLPAGENAME}}#Linear Algebra|Linear Algebra]]
+'''Backbone reference:'''
+* [[{{FULLPAGENAME}}#Principles of Mathematical Analysis|Principles of Mathematical Analysis]]
+* [[{{FULLPAGENAME}}#Topology: A Categorical Approach|Topology: A Categorical Approach]]
+}}
+{{BookListing
+| cover = Vaisman Cohomology and Differential Forms Cover.jpg
+| link = Cohomology & Differential Forms (Book)
+| title = === Cohomology & Differential Forms ===
+| desc = Cohomology and differential forms by Isu Vaisman. Sheaf theoretic description of the cohomology of real, complex, and foliated manifolds.<br>
+'''Backbone reference:'''
+* [[{{FULLPAGENAME}}#Algebra: Chapter 0|Algebra: Chapter 0]]
+* [[{{FULLPAGENAME}}#Algebra|Algebra]]
+}}
+</div>
+
+== Backbone ==
+<div class="flex-container">
+{{BookListing
+| cover = Kaplansky Set Theory and Metric Spaces Cover.jpg
+| link = Set Theory and Metric Spaces (Book)
+| title = === Set Theory and Metric Spaces ===
+| desc = Set theory and metric spaces by Irving Kaplansky.
+}}
+{{BookListing
+| cover = E Landau Foundations of Analysis Cover.jpg
+| link = Foundations of Analysis (Book)
+| title = === Foundations of Analysis ===
+| desc = Analysis, intro to numbers, by Edmund Landau.
+}}
+{{BookListing
+| cover = Rudin Principles of Mathematical Analysis Cover.jpg
+| link = Principles of Mathematical Analysis (Book)
+| title = === Principles of Mathematical Analysis ===
+| desc = Mathematical analysis by Walter Rudin.
+}}
+{{BookListing
+| cover = Arnold Ordinary Differential Equations Cover.jpg
+| link = Ordinary Differential Equations (Book)
+| title = === Ordinary Differential Equations ===
+| desc = Ordinary differential equations by Vladimir Arnold.
+}}
+{{BookListing
+| cover = Bradley Bryson Terrilla Topology A Categorical Appoach Cover.jpg
+| link = Topology: A Categorical Approach (Book)
+| title = === Topology: A Categorical Approach ===
+| desc = Topology by Tai-Danae Bradley, Tyler Bryson, Josn Terrilla. [https://topology.mitpress.mit.edu/ Click here for the Open Access version.]
+}}
+{{BookListing
+| cover = Ahlfors Complex Analysis Cover.jpg
+| link = Complex Analysis (Book)
+| title = === Complex Analysis ===
+| desc = Complex analysis by Lars Ahlfors.
+}}
+{{BookListing
+| cover = Olver Applications of Lie Groups to Differential Equations Cover.jpg
+| link = Applications of Lie Groups to Differential Equations (Book)
+| title = === Applications of Lie Groups to Differential Equations ===
+| desc = Applications of Lie Groups to Differential Equations by Peter Olver.
+}}
+{{BookListing
+| cover = Aluffi Algebra Chapter 0 Cover.jpg
+| link = Algebra Chapter 0 (Book)
+| title = === Algebra Chapter 0 ===
+| desc = Algebra by Paolo Aluffi. Easier than Lang's, but less direct.
+}}
+{{BookListing
+| cover = Lang Algebra Cover.jpg
+| link = Algebra (Book)
+| title = === Algebra ===
+| desc = Algebra by Serge Lang. The most direct approach to the subject.
+}}
+</div>
+
+[[Category:Bot Commands]]
+[[Category:Portal Users]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

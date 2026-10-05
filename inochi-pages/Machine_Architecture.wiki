@@ -1,0 +1,75 @@
+[[Category:College]]
+[[sn:Machine Architecture]][[sn:Machine Architecture]][[Category:Machine Architecture]]
+Elective class.
+Strongly linked in content to [[Operating Systems]]
+
+==Textbooks==
+# Need physical copy of the book. "Sparc Architecture, Assembly Language Programming and C" by Richard Paul
+# K&R the C Programming language. Helps with [[Operating Systems]] too
+
+== Most of the content isn't covered ==
+Hardware security is not covered due to SPARC machine root access not being given
+
+== What is SPARC ==
+SPARC architecture is one of the most common architecture. Especially v8
+
+It is a RISC architecture
+
+RISC
+
+'''R'''educed
+
+'''I'''nstruction
+
+'''S'''et
+
+'''C'''omputing
+
+
+It contrasts with CISC or complex instruction set computing
+
+CISC to RISC transition occurred in the mid 1980s. Surprisingly late, so assembly language radically transformed.
+
+== x86 vs SPARC ==
+x86 is cheaper to run. SPARC lasts longer and scales more
+
+x86 was originally CISC but over time simplified to become more RISC like
+
+windows generally uses x86
+
+Apple is the only company to really advance with developing the Apple M1
+
+M1 is a system on a chip, meaning you don't need a separate bus for io and some other stuff
+
+== Using a macroprocessor ==
+text substitution.
+
+TotalSalary - deductions = netSalary.
+
+l1                l0            o1
+
+
+define(TotalSalary, l1)
+
+macroprocessor lets us use sensible names to refer to things in assembly. 
+
+Macroprocessor m4
+
+Will learn how to use the [[GNU Debugger]] (gdb)
+
+== Compiler and Toy CPU ==
+Basically the same as before
+==REAL SPARC==
+{{Main|SPARC}}
+==Binary arithmetic==
+{{Main|Binary Arithmetic}}
+
+== questions ==
+first three questions of chapter 5
+
+== sparc commands ==
+
+* ld
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

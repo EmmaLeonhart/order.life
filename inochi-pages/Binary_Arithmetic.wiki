@@ -1,0 +1,121 @@
+
+
+Binary arithmetic is arithmetic done at a hardware level in binary
+
+== Adding ==
+{| class="wikitable"
+|+
+!Operand
+!0
+!0
+!1
+!1
+|-
+!Operand
+!0
+!1
+!1
+!0
+|-
+|Intermediate
+|0
+|1
+|Carry
+|1
+|-
+|Intermediate
+|0
+|Carry
+|0
+|1
+|-
+|Sum
+|1
+|0
+|0
+|1
+|}
+
+== Subtracting ==
+Subtraction is hard enough that it is not done
+{| class="wikitable"
+|+
+!1
+!0
+!1
+!1
+!1
+!0
+!1
+!1
+|-
+!0
+!0
+!1
+!1
+!0
+!1
+!1
+!1
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+Playing around with base ten to start
+{| class="wikitable"
+|+
+!9
+!9
+!9
+!9
+!9
+|-
+!0
+!7
+!1
+!4
+!6
+|-
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|}
+Intentionally do an integer overflow instead of subtraction. If max is 100 then -1 is 99
+
+
+Add a negative number with Two's complement
+
+== Get Two's complement ==
+Flip all the bits then add one
+
+[[Category:Machine Architecture]][[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

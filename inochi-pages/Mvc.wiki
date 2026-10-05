@@ -1,0 +1,27 @@
+[[File:MVC-Process.svg|right|200px|thumb|Diagram of interactions within one possible take on the MVC pattern]]
+{{Wikipedia}}Model view controller<ref>Model–view–controller. (2022, August 30). In ''Wikipedia''. <nowiki>https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller</nowiki></ref>
+
+[[MVC]] was one of the first [[design patterns]] invented in Palo Alto in the 70s
+
+== Model ==
+Data and methods for the problem being solved
+
+== View ==
+Shows what the model is doing
+
+Changing interface language (not affecting displayed data) would be solely with the controller and view and not affect the model
+
+There can be multiple views
+
+== Controller ==
+Acts on the model and the view to update data flow into the model and updating the view
+
+Controller has both view and model. View and model are not supposed to touch each other (ignore wikipedia derived image)
+
+There cannot be multiple controllers. If there are t hen the model is not at the right scale
+==References==
+<references />{{Design Patterns Patterns}}
+[[sn:Mvc]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

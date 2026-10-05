@@ -1,0 +1,17 @@
+
+[[Category:Object Oriented Analysis and Design]]
+[[sn:Cohesion]]Cohesion is the degree to which the elements inside a module belong together. A module could be a class or a package or even a microservice. Simply put, it means “the code that changes together, stays together”.
+
+A module with high cohesion contains elements that are tightly related to each other and united in their purpose. For example, all the methods within a User class should represent the user behavior.
+
+A module is said to have low cohesion if it contains unrelated elements. For example, a User class containing a method on how to validate the email address. User class can be responsible for storing the email address of the user but not for validating it or sending an email:
+<!--nyaaa this comment was added to indicate that this page has been reviewed from the [[Great November Outage]]-->
+
+AD[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

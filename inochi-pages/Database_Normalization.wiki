@@ -1,0 +1,38 @@
+{{Databases}}
+Three anomalies<ref>https://www.youtube.com/watch?v=xoTyrdT9SZI&list=PLLGlmW7jT-nTr1ory9o2MgsOmmx2w8FB3</ref>
+==Insertion Anomaly==
+[[File:Capture3.png]]
+Repetition of data in a table
+You are repeating student information and branch information in a table, and as a result you are duplicating data in the table. This can be inefficient and lead to
+
+==Deletion Anomaly==
+If you delete all the student info then you also delete all the branch info, so you lose it
+
+==Updation Anomaly==
+You need to update all the branch info at once across the table instead of just once
+==First Normal Form==
+{{Main|1NF}}
+First Normal Form is the default and should always be done<ref>https://www.youtube.com/watch?v=mUtAPbb1ECM&list=PLLGlmW7jT-nTr1ory9o2MgsOmmx2w8FB3&index=2</ref>
+
+Rules
+
+# Each row should be an atomic value, no other lines
+# A column should contain values of the same kind
+# Each column needs a unique name
+# Order of data shouldn't matter
+## Add a numbering system if necessary
+[[File:1NF_video_violation.png|thumb]]
+[[File:1NF_video_fixing.png|thumb]]
+Normalization example
+
+==Second Normal Form==
+{{Main|2NF}}
+
+==References==[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

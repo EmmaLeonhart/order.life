@@ -1,0 +1,27 @@
+Communication between processes
+
+Two models
+
+* Shared memory
+** More common in games
+** Faster but limited to one machine
+* Message passing
+** Can be used between multiple machnies
+
+== Message passing ==
+two approaches
+
+* direct communication
+* indirect communication
+** sockets
+
+=== Synchronization ===
+Message passing can be blocking (synchronous) or non-blocking (asynchronous)
+[[Category:Operating Systems]][[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

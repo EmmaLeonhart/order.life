@@ -1,0 +1,47 @@
+[[Category:Machine Architecture]]
+M4 is a macro processor not a programming language
+
+
+When we encouner a macro, wherever it's called, the definition is replaced and pushed back into the input stream to be rescanned
+
+==Writing code in m4==
+We are writing code in m4. Which is symbolic
+
+M4 being more forgiving on Linux makes it bad, ideally compile on machine provided instead.{{quote|
+define(N, 100)<br>
+N<br>
+define(N, 200)<br>
+N
+}}
+
+cannot redefine N (100) as 200, gives error on Solaris, gives nothing in Linux{{quote|
+define(N, 100)<br>
+N<br>
+define(`N', 200)<br>
+N
+}}
+
+gives 200 in both
+
+Spaces are not allowed, if they are included in this then they are included in the variable name Trailing whitespace is preserved, leading whitespace is discarded7
+==Defining functions in m4==
+$<nowiki>{{digit}}</nowiki> refers to the number of an argument
+
+define(FOO, TWOARGS: $1 AND $2)
+
+Supports recursion
+
+dnl is a comment marker, has complex syntax though
+
+dnl discards everything up to and including the next new line marker
+
+===Example===
+
+define(`loc', eval(loc + 2))[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

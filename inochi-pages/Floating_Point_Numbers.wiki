@@ -1,0 +1,31 @@
+[[Category:Machine Architecture]]
+
+How we use floating point numbers
+
+==Three parts==
+#Mantissa
+#Sign Bit
+#Exponent
+
+Mantissa is an unsigned integer. This is used so we can compare magnitudes easily
+
+==Approximation==
+
+Have a finite amount of accuracy because the mantissa has a finite size
+===Mantissa===
+First significant digit is always a 1, so we don't need to represent it. Can save a bit
+
+first bit is
+
+sign = first bit 
+
+e =s 8 bits
+
+f= 23 bits[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]
