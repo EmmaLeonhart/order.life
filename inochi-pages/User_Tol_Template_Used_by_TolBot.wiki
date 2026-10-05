@@ -1,0 +1,9 @@
+{{Mbox
+| type = notice
+| image =
+| text =
+This page is used by [[User:TolBot|TolBot]]{{#if:{{{task|}}}|'s [[:m:User:TolBot/Task {{{task}}}|Task {{{task}}}]]}}. Please notify [[User:Tol]], its operator, before making major or breaking changes. Thank you. {{{text|}}}
+}}{{#ifeq:{{SUBPAGENAME}}|doc||<includeonly>[[Category:Pages used by TolBot {{#if:{{{task|}}}|Task {{{task}}}}}]]</includeonly>}}
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

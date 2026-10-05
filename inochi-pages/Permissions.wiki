@@ -1,0 +1,75 @@
+== Basic permissions ==
+
+* Read lets a file be read 
+* Write permission lets you write to a file
+* Execute lets you execute a file
+[[Category:Linux]]
+[[sn:Permissions]]== Combinations ==
+
+* Executing a file requires it to be readable
+* Execute permission doesn't stop user from copying file elsewhere and then running it. More of a direction than a permission
+* Write is a hard permission for keeping a file under control in a specific location
+
+== Directory permissions ==
+
+* read lets you view or access the files in the directory
+**Cannot read files, just read what the files are
+* Write means you can change contents of directory
+**Can't do much without execute permission
+**Can't write a file into a directory without execute permission
+* Execute means that you can navigate into the directory
+** navigate into directory
+** access inodes in a directory
+***This lets you read a file if it has read permission
+***Similar to FAT/file allocation table but that is used in windows and inodes are used in linux
+
+== Bits ==
+{| class="fandom-table"
+!#
+!Sum
+!rwx
+!Permission
+|-
+|<code>7</code>
+|4(r) + 2(w) + 1(x)
+|<code>rwx</code>
+|read, write and execute
+|-
+|<code>6</code>
+|4(r) + 2(w)
+|<code>rw-</code>
+|read and write
+|-
+|<code>5</code>
+|4(r)        + 1(x)
+|<code>r-x</code>
+|read and execute
+|-
+|<code>4</code>
+|4(r)
+|<code>r--</code>
+|read only
+|-
+|<code>3</code>
+|      2(w) + 1(x)
+|<code>-wx</code>
+|write and execute
+|-
+|<code>2</code>
+|      2(w)
+|<code>-w-</code>
+|write only
+|-
+|<code>1</code>
+|             1(x)
+|<code>--x</code>
+|execute only
+|-
+|<code>0</code>
+|0
+|<code>---</code>
+|none
+|}
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

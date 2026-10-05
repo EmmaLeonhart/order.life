@@ -1,0 +1,152 @@
+Threads
+
+== Threads vs processes ==
+[[File:Threads example.jpg|thumb]]
+Bash and other clis work with processes. The command line clones itself and then one of the processes then runs the program selected. 
+
+Otherwise it's best to use threads. Threads in contrast to processes do not clone all global variables but use the same memory locations for their global variables.
+
+[[Category:Operating Systems]]
+
+
+
+== Creating threads ==
+pthread_create(&name, NULL, (void*)fee, NULL);
+
+pthread_create(&name, NULL, (void*)foo, NULL);
+
+pthread_join(name, NULL);
+
+
+
+== Java threads ==
+
+
+
+public static void main (String[] args){
+
+foo f1 = new foo("Hi Bob");
+}
+
+
+private static class Foo implements Runnable{
+
+private String msg;
+
+public foo(String m){msg=m;}
+
+public void run(){
+
+
+}
+
+}
+
+=="Spinning"==
+
+make a thread go 
+
+flag[j] = true;
+while(flag[j]);
+
+//this results in the thread not doing anything until another thread changes the flag
+
+This is sometimes called "busy waiting" because it consumes CPU cycles. This makes it inefficient.
+
+==Critical Section problem==
+The critical section problem is a fundamental problem in computer science, which arises when multiple processes (or threads) share a common resource or data structure that can only be accessed by one process at a time. The goal is to design a solution that ensures mutual exclusion, progress, and bounded waiting.
+
+===Mutual Exclusion:===
+Mutual exclusion means that only one process can access the critical section (i.e., the shared resource) at a time. This requirement ensures that concurrent processes cannot interfere with each other when accessing the shared resource. To achieve mutual exclusion, the solution must provide some mechanism to ensure that when a process is executing in the critical section, no other process can enter it until the first process has completed its execution.
+
+===Progress:===
+Progress means that if no process is currently executing in the critical section and some processes are waiting to enter it, then the selection of the process that will enter next must be made in a reasonable amount of time. This requirement ensures that the system does not remain indefinitely deadlocked, with all processes waiting for access to the critical section. To achieve progress, the solution must guarantee that some process will eventually be able to enter the critical section if it is not currently being executed.
+
+==== Violation ====
+If a program satisfies mutual exclusion and bounded waiting but not progress, it means that the program can suffer from deadlock, where processes are indefinitely blocked from entering the critical section, even if it is not currently being executed by another process. This situation can occur when a process that is currently executing in the critical section is unable to release the resource for some reason, such as waiting for a non-critical section resource, and is therefore indefinitely blocking other processes from accessing the critical section.
+
+For example, consider a program that uses a shared lock to provide mutual exclusion and bounded waiting. A process that requests the lock while another process is currently holding it will be blocked until the lock is released. However, if the process holding the lock never releases it (e.g., due to a programming error or a deadlock), then all other processes waiting for the lock will also be indefinitely blocked, violating the progress requirement.
+
+In this situation, the program can become stuck in a deadlock, with all processes waiting for the lock, and none of them able to proceed. Therefore, it is essential to ensure that all three requirements of mutual exclusion, progress, and bounded waiting are met in any solution to the critical section problem to avoid these kinds of situations.
+
+===Bounded Waiting:===
+Bounded waiting means that there is a limit on the amount of time that a process can wait to enter the critical section. This requirement ensures that no process is indefinitely postponed from accessing the critical section while other processes continue to access it. To achieve bounded waiting, the solution must ensure that the time spent waiting to enter the critical section by a process is limited and that no process is starved of accessing the critical section indefinitely.
+
+A solution that satisfies all three requirements of mutual exclusion, progress, and bounded waiting is known as a fair solution to the critical section problem. Many synchronization mechanisms have been developed to address this problem, such as semaphores, monitors, and locks.
+====Violation====
+If a program satisfies mutual exclusion and progress but not bounded waiting, it means that there is no guarantee that a process will eventually be able to enter the critical section, even though other processes are not currently executing in it. This situation could occur when a high-priority process continually accesses the critical section, and lower-priority processes are indefinitely postponed from accessing it, even if they have been waiting for a long time.
+
+For example, consider a program that uses a priority queue to select the next process that will enter the critical section. The highest priority process is always selected first, and lower priority processes may never get a chance to enter the critical section if there are always high-priority processes waiting to enter. This situation violates the bounded waiting requirement because there is no limit on the waiting time of lower priority processes.
+
+As a result, the program may experience starvation, where some processes are unable to access the shared resource indefinitely, even though there are periods when the resource is not in use. Therefore, it is important to ensure that all three requirements of mutual exclusion, progress, and bounded waiting are satisfied in any solution to the critical section problem to avoid these kinds of situations.
+
+==Hardware support for synchronization==
+
+* testAndSet(&Lock)
+* void swap(bool *a, bool *b)
+* mutex lock
+* Call mutex lock variable - mutex initialized to false void acquire
+
+== Example ==
+while (true){
+
+bool keu = true;
+
+while(key) swap(&lock, &key);
+
+//Critical section
+
+lock - false;
+
+//Critical section end
+
+}
+
+==Semaphores==
+Integer value with two atomic operations: increment and decrement
+
+You can initialize it to whatecer you want
+
+=== Example program ===
+<nowiki>#</nowiki>include<semaphore.h>
+
+void foo(){
+
+sem_wait(%mutex);
+
+fooDo();
+
+}
+
+void fee(){
+
+feeDo();
+
+sem_post(&mutex);
+
+}
+
+//mutex is the semaphore
+
+sem.t mutex; pthread_t t1,t2;
+
+int main(){
+
+sem_init(&mutex,0,0);
+
+pthread_create(&t1,NULL,(void*)foo,NULL);
+
+pthread_create(&t2,NULL,(void*)fee,NULL);
+
+//Want to have 
+
+......
+
+}[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

@@ -1,0 +1,43 @@
+[[Category:Operating Systems]]
+Scheduling algorithms determine what to be used by the CPU at what time.
+==Sheculing criteria==
+
+* CPU utilization
+* throughput - number of processes that complete esecution per time unit
+
+== Example ==
+{| class="wikitable"
+|+
+!Process
+!Burst time
+!Arrival time
+|-
+|P1
+|24
+|0
+|-
+|P2
+|7
+|0
+|-
+|P3
+|9
+|4
+|}
+
+==Pre-emptive vs non-pre-emptive algorithms==
+==Shortest job first==
+Algorithm that always runs the job with the shortest remaining time
+==Round Robin Scheduling==
+Each process gets a time quantum. Really confusing
+
+Used primarily for when each process constantly running is a thing that's valued. For example running a compiler and a web browser and a music player at the same time
+
+==Multilevel Queue Scheduling==[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

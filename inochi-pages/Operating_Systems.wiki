@@ -1,0 +1,37 @@
+* [[Intro to C]]
+
+==Second Course==
+Course is not really related
+[[Category:Operating Systems]]
+[[Category:College]]
+[[sn:Operating Systems]][[sn:Operating Systems]]Annoying course but I am confident in it. Did well in the earlier class
+
+==Jan 10==
+{{Main|Models of a computer}}
+[[Intro to C]]
+
+==Jan 17==
+When you create an array all the values in it will be arbitrary until you declare them. Whatever was in memory originally.
+
+==Strings==
+
+Strings in C are null terminated arrays of char
+
+Why are they null terminated?
+
+Because strings are null terminated it means there's a security issue called string overflow in C
+
+==Post-C Operating Systems stuff==
+{{Main|What is an operating system}}
+
+==C pipes==
+{{Main|Interprocess Communication}}
+Reading a pipe is a blocking operation. Process does not continue until reading starts.
+
+==Post Reading Break==
+{{Main|Threads}}
+==Resources==
+{{Main|Resources}}
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

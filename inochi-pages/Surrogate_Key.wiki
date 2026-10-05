@@ -1,0 +1,16 @@
+When to Create a Surrogate Key
+
+A surrogate key is usually created to simplify the key structures. According to Hoberman (2006), a surrogate key should be created when any of the following conditions hold:
+
+* There is a composite primary key, as in the case of the DEPENDENT relation shown previously with the four-component primary key.
+* The natural primary key (i.e., the key used in the organization and recognized in conceptual data modeling as the identifier) is inefficient. For example, it may be very long and hence costly for database software to handle if it is used as a foreign key that references other tables.
+* The natural primary key is recycled (i.e., the key is reused or repeated periodically, so it may not actually be unique over time); a more general statement of this condition is when the natural primary key cannot, in fact, be guaranteed to be unique over time (e.g., there could be duplicates, such as with names or titles).{{Databases}}
+
+Whenever a surrogate key is created, the natural key is always kept as nonkey data in the same relation because the natural key has organizational meaning that has to be captured in the database. In fact, surrogate keys mean nothing to users, so they are usually never shown to the user. Instead, the natural keys are used as identifiers in searches.[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

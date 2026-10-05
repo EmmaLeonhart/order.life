@@ -1,0 +1,26 @@
+[[Category:Operating Systems]]
+==Life Cycle==
+[[File:Process Life Cycle.jpg|thumb]]
+
+===New===
+===Ready===
+Ready processes are put into a queue for the processor to process. They then go to the running category
+
+===Running===
+===Waiting===
+===Terminated===
+==Scheduler==
+Context switch determines what the CPU runs
+Short term scheduler determines what goes into the CPU next
+Long term scheduler deicides which jobs go into memory
+==Types==
+*  io bound processes spend most of their time waiting for io to be done
+* cpu bound processes spend most of their time waiting for the cpu
+
+== See Also ==
+
+* [[Interprocess Communication]][[Category:Old pages]][[Category:Old pages]][[Category:Old pages]][[Category:Old pages]][[Category:Old pages]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

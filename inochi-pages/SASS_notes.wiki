@@ -1,0 +1,116 @@
+[[Category:SASS]]
+==September 20, 2023==
+Single process containers
+
+Multi process containers exist
+
+Compositions 
+
+Compose is multiple containers that interact with each other
+==Why use compose==
+Using compose lets you scale up individual parts like the server or the database independently
+
+Compose is called Compose so that you can make an "orchestra" of multiple boxes
+
+Volumes are drives for a docker container. They are permanent storage
+
+==Bind volume==
+A bind volume is one that is bound to a specific folder in your computer
+
+tmpfs volumes are temporary storage in ram
+
+You can specify a volume as read only
+
+==Services and Tasks==
+Tasks are monotonic so they always go forward and never back
+==Missed lecture==
+
+==10-16==
+Docker deployment
+There are many millions of docker deployments.Most web hosts such as Amazon AWS, Microsoft Azure Google cloud and smaller ones like Digital Ocean and Linode do it
+===AWS options===
+* Elastic Beanstalk (EBS). Very PaaS option, platform as a service
+* ELB - Elastic Load Balancer
+* ECS - Elastic Container Service
+
+===Beanstalk downsides===
+* If you get a lot of traffic your website will still work but gives a huge bill
+* Less granular control
+===Fargate and "serverless" architecture===
+With elastic beanstalk and ECS it's typical to use the standard Amazon Elastic Compute (EC2) instances to run the application
+
+It is "serverless" as it lacks a dedicated server. Minimum cost .4 cents per hour
+
+Fargate lets you access resources based on the location of the users. So if your users are in India you will not have issues of your server being located in Seattle
+==Taking containers from local host and putting them onto the web 10-18==
+[[File:A-Guide-to-the-Cloud-Computing-Pyramid.jpg|thumb]]
+Almost everyone offers this service at this point
+
+Pyramid model will be on the midterm
+
+=== Conceptual knowledge about containers ===
+What makes a container different than a virtual machine
+
+* uses the computers kernel
+
+=== Create a basic dockerfile ===
+=== Create a compose.yml file===
+==Compose vs Swarm==
+In order of scaling level
+* individual container
+* docker compose which allows for the scaling of individual components but not the entire application
+* Docker Swarm allowws all components to be scaled. You may have multiple databases whioch sync somehow but this is outside the scope of the course
+
+==Stuff==
+They want you to bring a link to a registry with the image so they can deploy it rather than constructing one
+==Serverless benefits==
+Serverless infrastructure is better at the lower end for cost savings
+
+Also no potential instances floating around doing nothing
+
+===Fargate Task Definition Best Practices===
+Each task definition should define a single complete image
+
+It is a lot more strict for Fargate vs electric beanstalk. You are more at Amazon's behest due to the serverless infrastructure
+==Docker alternatives==
+Kubernetes and LXC are the biggest ones
+
+===LXC===
+LXC (Linux containers) provide a lower level virtualization but not a virtual machine
+
+Can use root in LXC
+
+OS level virtualization
+
+LXC does not virtualize mouse, but generally LXC is a lot more of an actual operating system, goes beyond running an application which is the purpose of a docker container
+
+LXC basically only has bound volumes. Volumes are not portable, It has images but nothing like compose or swarm
+
+Make single app in one container
+
+Containerization is more straightforward with LXC
+
+LXC does not give container management tools, due to it being less abstracted from the host system reliability has issues since it operates more closely related to host hardware
+
+==== Why use LXC ====
+Low level enterprise software
+
+=== Kubernetes ===
+Basically has just a swarm and not other stuff
+Since it was developed by google it excels at scaling massively
+
+Kubernetes can run docker or LXC or other containers
+
+Kubernetes is really complicated to manage. You can have multiple container types in a Kubernetes cluster such as 50 LXC containers and 50 
+
+Everyone came together and basically agreed Kubernetes was best for large scale container swarms. So this is why it is almost universally used. Being open source helps
+==2023-11-27: Kubernetes continued==
+We had a kubernetes lab
+
+Since kubernetes is complex a lot of people use GKE (Google Kubernetes Engine) instead
+
+SIDR and subnet masks are basically the same thing[[Category:Old pages]][[Category:Old pages]][[Category:Old pages]][[Category:Old pages]][[Category:Old pages]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

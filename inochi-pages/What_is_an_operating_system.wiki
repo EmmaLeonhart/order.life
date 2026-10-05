@@ -1,0 +1,38 @@
+What does an OS do?
+* manage system resources
+* provide an interface
+==What is the OS approach==
+Device e.g. mobile, PC, mainframe
+User's perspective
+==Von Neumann architecture==
+Von Neumann built computers to have stored programs that are run from memory rather than the physical structure
+==Powerup==
+Program counter starts running itself when power supply starts
+==Interrupts==
+Interrupts are kind of like events, they are things that occur to operating systems at a hardware level that alert the CPU to make a change
+==Dual mode- avoiding memory collissions==
+Preventing collisions became a major thing
+
+They introduced a mode bit 
+
+# User Mode
+# Kernel Mode
+===System call===
+Way that user processes get kernel mode permission
+
+==Multiprocessor vs single processor==
+Multiple processors means multiple processes can be run simultaneously but does not increase the speed of any given process
+
+[[Category:Operating Systems]]
+==Components==
+Operating system is always in memory
+Kernel is lowest level of operating system
+[[File:Windows 2000 architecture.svg|thumb]]
+{{see also|Process}}[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

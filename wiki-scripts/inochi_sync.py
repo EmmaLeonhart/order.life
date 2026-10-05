@@ -37,6 +37,7 @@ File layout::
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import re
@@ -118,9 +119,17 @@ def category_members(s: requests.Session) -> list[str]:
 
 
 def fetch(s: requests.Session, title: str) -> tuple[str, int, str] | None:
-    r = _json(s.get(API, params={"action": "query", "titles": title,
-                                 "prop": "revisions", "rvprop": "content|ids|contentmodel",
-                                 "rvslots": "main", "format": "json"}))
+    # Miraheze answers the odd 502 over thousands of reads; retry rather than lose the whole run.
+    for attempt in range(5):
+        try:
+            r = _json(s.get(API, params={"action": "query", "titles": title,
+                                         "prop": "revisions", "rvprop": "content|ids|contentmodel",
+                                         "rvslots": "main", "format": "json"}, timeout=120))
+            break
+        except (RuntimeError, requests.RequestException):
+            if attempt == 4:
+                raise
+            time.sleep(15 * (attempt + 1))
     page = next(iter(r["query"]["pages"].values()))
     if "missing" in page:
         return None
@@ -178,12 +187,19 @@ def tag_all(s: requests.Session, w: Writer, apply: bool) -> None:
 
 def pull(s: requests.Session, state: dict) -> None:
     titles = list(dict.fromkeys(category_members(s) + load_extra()))
+    # Windows file names ignore case, so "Patriarchal Priesthood" and "Patriarchal priesthood" would share
+    # one file and push would write one page's text over the other (it did, 2026-10-05). A title whose
+    # file name is already held by a different title gets a hash suffix instead.
+    claimed = {meta["file"].lower(): t for t, meta in state.items()}
     for title in titles:
         got = fetch(s, title)
         if got is None:
             continue
         text, revid, model = got
-        filename = title_to_filename(title)
+        filename = state.get(title, {}).get("file") or title_to_filename(title)
+        if claimed.get(filename.lower(), title) != title:
+            filename = filename[:-5] + "__" + hashlib.sha1(title.encode("utf-8")).hexdigest()[:8] + ".wiki"
+        claimed[filename.lower()] = title
         path = os.path.join(PAGES_DIR, filename)
         if state.get(title, {}).get("revid") == revid and os.path.exists(path):
             continue
@@ -200,8 +216,14 @@ def pull(s: requests.Session, state: dict) -> None:
 
 def push(s: requests.Session, w: Writer, state: dict, apply: bool) -> None:
     by_file = {meta["file"]: t for t, meta in state.items()}
+    shared = {}
+    for t, meta in state.items():
+        shared.setdefault(meta["file"].lower(), []).append(t)
     for filename in sorted(os.listdir(PAGES_DIR)):
         if not filename.endswith(".wiki"):
+            continue
+        if len(shared.get(filename.lower(), [])) > 1:
+            print(f"  NOT pushed, file shared by {shared[filename.lower()]}: {filename}", file=sys.stderr)
             continue
         title = by_file.get(filename) or filename[:-5].replace("_", " ")
         if state.get(title, {}).get("model") in PULL_ONLY_MODELS:

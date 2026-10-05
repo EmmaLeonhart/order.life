@@ -1,0 +1,27 @@
+[[Category:Operating Systems]]
+Allocate a memory segment based on pages.
+
+If you want a certain amount of memory you request the creation of a segment, which is a certain amount of pages allocated at once
+
+
+==Starting virtual memory for real==
+
+Basic idea is that you can have a logical page that is used and virtual then it will be loaded into ram (into a frame) until the cpu requests that.
+
+* Pages: abstracted memory segment
+** abstract logical thing
+** also stored on hard disk
+* Frames: segment of RAM
+
+==Page replacement algorithm examples==
+First in First out
+
+==Beladys anomaly==
+Memory situation where more frames means more page faults[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]

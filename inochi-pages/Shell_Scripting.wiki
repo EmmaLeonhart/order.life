@@ -1,0 +1,104 @@
+Linux shell scripting. 
+A script is a sequence of shell commands
+
+== Example ==
+<nowiki>#</nowiki>!/bin/bash
+
+
+if grep immanuelle /etc/passwd > /dev/null
+then
+
+ echo "Hello World!"
+
+fi
+
+echo "Done
+
+=== Explanation ===
+```#!/bin/bash```
+determined that the shell is using Bash which is important for a script file which may be opened when using a different shell scripting language (terminology right?)
+<br>
+The if follows from a command successfully executing<br>
+indentation for readability but it is not technically necessary<br>
+fi is the end of an if statement (if backwards)
+[[Category:Operating Systems]]
+===Commands===
+* x=7 lets you define a variable locally 
+* test
+==Syntax 2 11-29-2022==
+
+=== Variable assignment ===
+
+* variable has no dollar sign at the front when assigning
+* No whitespace
+* x=5
+* x=50
+* etc
+* very strict
+* x="Bob Smith"
+* x='Bob Smith'
+* foo=$(cat fee.txt)
+
+=== < and > ===
+
+* cat fee.txt > foo.txt 
+** takes data from fee.txt to foo.txt 
+* fee.txt < foo.txt
+** identical to
+** cat foo.txt | fee.txt
+
+=== Continuation ===
+
+=== If command ===
+if command
+
+* if exit code is zero then move forward
+* exit code is zero if command is successfully implemented
+* exit code of one is failure
+* test command gives a zero if  logical truth or else a one
+
+then
+
+* -
+* -
+* -
+* -
+
+elif command
+
+* -
+* -
+* -
+* -
+
+fi
+
+* (this is the else)
+* -
+* -
+* -
+* -
+
+==Shell arithmetic==
+$(($x-1))
+
+Does arithmetic directly on the shell. Dollar sign double parentheses needed for this
+
+It is not a command
+
+==While command==
+while (test); do
+* -
+* -
+done
+
+== For command ==
+for fname in $filename ; do
+
+* echo "File $fname"
+
+done[[Category:Old pages]][[Category:Old pages]][[Category:Old pages]][[Category:Old pages]][[Category:Old pages]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+
+[[Category:Git synced pages]]
