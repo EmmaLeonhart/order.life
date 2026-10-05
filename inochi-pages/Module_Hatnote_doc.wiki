@@ -1,0 +1,92 @@
+{{used in system|in [[MediaWiki:Wantedpages-summary]]}}
+{{module rating|protected}}
+{{Lua|Module:Yesno|Module:Arguments}}
+{{Uses TemplateStyles|Module:Hatnote/styles.css}}
+This is a meta-module that provides various functions for making [[Wikipedia:Hatnote|hatnotes]]. It implements the {{tl|hatnote}} template, for use in hatnotes at the top of pages, and the {{tl|format link}} template, which is used to format a wikilink for use in hatnotes. It also contains a number of helper functions for use in other Lua hatnote modules.
+
+== Use from wikitext ==
+
+The functions in this module cannot be used directly from #invoke, and must be used through templates instead. Please see [[Template:Hatnote]] and [[Template:Format link]] for documentation.
+
+== Use from other Lua modules ==
+
+To load this module from another Lua module, use the following code.
+
+<syntaxhighlight lang="lua">
+local mHatnote = require('Module:Hatnote')
+</syntaxhighlight>
+
+You can then use the functions as documented below.
+
+=== Hatnote ===
+
+<syntaxhighlight lang="lua">
+mHatnote._hatnote(s, options)
+</syntaxhighlight>
+
+Formats the string <var>s</var> as a hatnote. This encloses <var>s</var> in the tags {{tag|div|params=class="hatnote"}}. Options are provided in the <var>options</var> table. Options include:
+* <var>options.extraclasses</var> - a string of extra classes to provide
+* <var>options.selfref</var> - if this is not nil or false, adds the class "selfref", used to denote self-references to Wikipedia (see [[Template:Selfref]]))
+The CSS of the hatnote class is defined in [[Module:Hatnote/styles.css]].
+
+; Example 1
+
+<syntaxhighlight lang="lua">
+mHatnote._hatnote('This is a hatnote.')
+</syntaxhighlight>
+
+Produces:
+{{tag|div|content=This is a hatnote.|params=class="hatnote"}}
+
+Displays as:
+{{hatnote|This is a hatnote.}}
+
+; Example 2
+
+<syntaxhighlight lang="lua">
+mHatnote._hatnote('This is a hatnote.', {extraclasses = 'boilerplate seealso', selfref = true})
+</syntaxhighlight>
+
+Produces:
+{{tag|div|content=This is a hatnote.|params=class="hatnote boilerplate seealso selfref"}}
+
+Displayed as:
+{{hatnote|This is a hatnote.|extraclasses=boilerplate seealso|selfref=true}}
+
+=== Find namespace id ===
+
+<syntaxhighlight lang="lua">
+mHatnote.findNamespaceId(link, removeColon)
+</syntaxhighlight>
+
+Finds the [[WP:NS|namespace id]] of the string <var>link</var>, which should be a valid page name, with or without the section name. This function will not work if the page name is enclosed with square brackets. When trying to parse the namespace name, colons are removed from the start of the link by default. This is helpful if users have specified colons when they are not strictly necessary. If you do not need to check for initial colons, set <var>removeColon</var> to false.
+
+;Examples:
+: {{code|mHatnote.findNamespaceId('Lion')|lua}} &rarr; 0
+: {{code|mHatnote.findNamespaceId('Category:Lions')|lua}} &rarr; 14
+: {{code|mHatnote.findNamespaceId(':Category:Lions')|lua}} &rarr; 14
+: {{code|mHatnote.findNamespaceId(':Category:Lions', false)|lua}} &rarr; 0 (the namespace is detected as ":Category", rather than "Category")
+
+=== Make wikitext error ===
+
+<syntaxhighlight lang="lua">
+mHatnote.makeWikitextError(msg, helpLink, addTrackingCategory)
+</syntaxhighlight>
+
+Formats the string <var>msg</var> as a red wikitext error message, with optional link to a help page <var>helpLink</var>. Normally this function also adds {{clc|Hatnote templates with errors}}. To suppress categorization, pass <code>false</code> as third parameter of the function (<code>addTrackingCategory</code>).
+
+Examples:
+:{{code|mHatnote.makeWikitextError('an error has occurred')|lua}} &rarr; <strong class="error">Error: an error has occurred.</strong>
+:{{code|mHatnote.makeWikitextError('an error has occurred', 'Template:Example#Errors')|lua}} &rarr; <strong class="error">Error: an error has occurred ([[Template:Example#Errors|help]]).</strong>
+
+== Examples ==
+
+For an example of how this module is used in other Lua modules, see [[Module:Main]]
+<includeonly>{{Sandbox other||
+<!-- Categories go here and interwikis go in Wikidata. -->
+[[Category:Hatnote modules| ]]
+[[Category:Modules that add a tracking category]]
+
+}}</includeonly>
+
+[[Category:Git synced pages]]

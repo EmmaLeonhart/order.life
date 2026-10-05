@@ -1,0 +1,35 @@
+/* {{pp-template}} */
+.sister-box .side-box-abovebelow {
+    padding: 0.75em 0;
+	text-align: center;
+}
+
+.sister-box .side-box-abovebelow > b {
+	display: block;
+}
+
+.sister-box .side-box-text > ul {
+	border-top: 1px solid #aaa;
+	padding: 0.75em 0;
+	width: 217px;
+	margin: 0 auto;
+}
+
+.sister-box .side-box-text > ul > li {
+	min-height: 31px;
+}
+
+.sister-logo {
+	display: inline-block;
+	width: 31px;
+	line-height: 31px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.sister-link {
+	display: inline-block;
+	margin-left: 4px;
+	width: 182px;
+	vertical-align: middle;
+}

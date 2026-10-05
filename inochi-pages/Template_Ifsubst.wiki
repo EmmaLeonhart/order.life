@@ -1,0 +1,13 @@
+{{ safesubst:<noinclude/>#if:{{{demo|}}}
+|{{ safesubst:<noinclude/>#ifeq:{{{demo}}} |no
+ |{{{no|{{{2|}}}}}}
+ |{{{yes|{{{1|}}}}}}
+}}
+|{{ safesubst:<noinclude/>#ifeq:{{ safesubst:<noinclude/>NAMESPACE}}|{{NAMESPACE}}
+ |{{{no|{{{2|}}}}}}
+ |{{{yes|{{{1|}}}}}}
+}}}}<noinclude>
+{{Documentation}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

@@ -4,6 +4,7 @@ Item:Q2
 Item:Q3
 Module:Arguments
 Module:Authority control
+Module:Authority control/config
 Module:Category handler
 Module:Category handler/blacklist
 Module:Category handler/config
@@ -21,9 +22,11 @@ Module:Color contrast
 Module:Color contrast/colors
 Module:Commons link
 Module:DecodeEncode
+Module:Delink
 Module:Disambiguation/templates
 Module:Documentation
 Module:Documentation/config
+Module:Documentation/styles.css
 Module:EditAtWikidata
 Module:Effective protection expiry
 Module:Effective protection level
@@ -31,14 +34,17 @@ Module:Error
 Module:Exponential search
 Module:File link
 Module:Find sources
+Module:Find sources/config
 Module:Format link
 Module:GaiadDate
 Module:Hatnote
 Module:Hatnote list
+Module:Hatnote/styles.css
 Module:High-use
 Module:If empty
 Module:If preview
 Module:If preview/configuration
+Module:If preview/styles.css
 Module:Infobox
 Module:Infobox mapframe
 Module:Infobox/styles.css
@@ -57,10 +63,14 @@ Module:Lang/data/is latn data
 Module:Lang/tag from name
 Module:Mapframe
 Module:Message box
+Module:Message box/ambox.css
 Module:Message box/configuration
+Module:Message box/ombox.css
 Module:Message box/tmbox.css
+Module:Namespace detect/data
 Module:Navbar
 Module:Navbar/configuration
+Module:Navbar/styles.css
 Module:Navbox
 Module:Navbox/configuration
 Module:Nihongo
@@ -73,18 +83,25 @@ Module:Pagetype/setindex
 Module:Pagetype/softredirect
 Module:ParameterCount
 Module:Protection banner
+Module:Protection banner/config
 Module:Redirect
 Module:Redirect template
 Module:SDcat
 Module:Separated entries
 Module:Side box
+Module:Side box/styles.css
 Module:Sister project links
+Module:Sister project links/styles.css
 Module:String
 Module:TableTools
 Module:Template wrapper
 Module:Transclusion count
+Module:Transclusion count/data/L
+Module:Transclusion count/data/R
+Module:Transclusion count/data/T
 Module:Unicode data
 Module:Unicode data/scripts
+Module:Unsubst
 Module:Wd
 Module:Wd/i18n
 Module:Wikidata
@@ -92,4 +109,9 @@ Module:Wikitext Parsing
 Module:Yesno
 Property:P1
 Property:P2
+Template:Blockquote/styles.css
+Template:Hlist/styles.css
+Template:Plainlist/styles.css
+Template:Reflist/styles.css
+Template:Script/styles hebrew.css
 User:Immanuelle/common.js
