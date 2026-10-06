@@ -37,6 +37,7 @@ File layout::
 from __future__ import annotations
 
 import argparse
+import csv
 import hashlib
 import json
 import os
@@ -52,6 +53,10 @@ from inochi_create_page import API, UA, _json, login  # noqa: E402
 PAGES_DIR = os.path.join(os.path.dirname(__file__), "..", "inochi-pages")
 STATE_FILE = os.path.join(PAGES_DIR, "_sync_state.json")
 EXTRA_FILE = os.path.join(PAGES_DIR, "_extra_pages.txt")
+# Redirects are never synced (Emma, 2026-10-05): they stay on the wiki, and this registry of each one and
+# its target is the authority. Any redirect the sync meets is added here instead of pulled.
+REDIRECTS_FILE = os.path.join(PAGES_DIR, "_redirects.csv")
+REDIRECT = re.compile(r"\s*#redirect\s*:?\s*\[\[([^\]|]+)", re.I)
 SYNC_CATEGORY = "Category:Git synced pages"
 CATEGORY_TAG = "[[" + SYNC_CATEGORY + "]]"
 THROTTLE = 1.5
@@ -74,6 +79,26 @@ def save_state(state: dict) -> None:
     with open(STATE_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(state, f, ensure_ascii=False, indent=2, sort_keys=True)
         f.write("\n")
+
+
+def load_redirects() -> dict[str, str]:
+    if not os.path.exists(REDIRECTS_FILE):
+        return {}
+    with open(REDIRECTS_FILE, encoding="utf-8", newline="") as f:
+        return {row["title"]: row["target"] for row in csv.DictReader(f)}
+
+
+def save_redirects(reg: dict[str, str]) -> None:
+    with open(REDIRECTS_FILE, "w", encoding="utf-8", newline="") as f:
+        out = csv.writer(f, lineterminator="\n")
+        out.writerow(["title", "target"])
+        for t in sorted(reg):
+            out.writerow([t, reg[t]])
+
+
+def redirect_target(text: str) -> str | None:
+    m = REDIRECT.match(text)
+    return m.group(1).strip() if m else None
 
 
 def load_extra() -> list[str]:
@@ -165,14 +190,19 @@ class Writer:
 
 def tag_all(s: requests.Session, w: Writer, apply: bool) -> None:
     extra = load_extra()
+    reg = load_redirects()
     synced = set(category_members(s)) | set(extra)
     for title in all_pages(s):
-        if title in synced:
+        if title in synced or title in reg:
             continue
         got = fetch(s, title)
         if got is None:
             continue
         text, _, model = got
+        if model == "wikitext" and redirect_target(text):
+            reg[title] = redirect_target(text)
+            print(f"  redirect, registered not tagged: {title}")
+            continue
         if model != "wikitext":
             extra.append(title)
             print(f"  listed ({model}): {title}")
@@ -183,6 +213,7 @@ def tag_all(s: requests.Session, w: Writer, apply: bool) -> None:
         if w.edit(title, tagged(text, title), "Add to Git synced pages (every inochi page is git synced)"):
             print(f"  tagged: {title}")
     save_extra(extra)
+    save_redirects(reg)
 
 
 def _sha(text: str) -> str:
@@ -210,7 +241,8 @@ def latest_revids(s: requests.Session, titles: list[str]) -> dict[str, int]:
 
 
 def pull(s: requests.Session, state: dict) -> None:
-    titles = list(dict.fromkeys(category_members(s) + load_extra()))
+    reg = load_redirects()
+    titles = [t for t in dict.fromkeys(category_members(s) + load_extra()) if t not in reg]
     current = latest_revids(s, titles)
     # Windows file names ignore case, so "Patriarchal Priesthood" and "Patriarchal priesthood" would share
     # one file and push would write one page's text over the other (it did, 2026-10-05). A title whose
@@ -230,6 +262,11 @@ def pull(s: requests.Session, state: dict) -> None:
         if got is None:
             continue
         text, revid, model = got
+        if model == "wikitext" and redirect_target(text):
+            reg[title] = redirect_target(text)
+            state.pop(title, None)
+            print(f"  redirect, registered not pulled: {title}")
+            continue
         with open(path, "w", encoding="utf-8", newline="\n") as f:
             f.write(text.rstrip() + "\n")
         state[title] = {"file": filename, "revid": revid, "model": model, "sha": _sha(text)}
@@ -238,11 +275,15 @@ def pull(s: requests.Session, state: dict) -> None:
     for title in [t for t in state if t not in titles]:
         print(f"  no longer synced (file kept): {title}")
         del state[title]
+    save_redirects(reg)
     print(f"Pull complete: {len(titles)} synced pages.")
 
 
 def push(s: requests.Session, w: Writer, state: dict, apply: bool) -> None:
-    by_file = {meta["file"]: t for t, meta in state.items()}
+    # Keyed by lower case: Windows may hand back a file name in a different case from the one recorded,
+    # and an exact match then guessed the title from the name and nearly pushed the case twin's text.
+    by_file = {meta["file"].lower(): t for t, meta in state.items()}
+    reg = load_redirects()
     shared = {}
     for t, meta in state.items():
         shared.setdefault(meta["file"].lower(), []).append(t)
@@ -252,7 +293,9 @@ def push(s: requests.Session, w: Writer, state: dict, apply: bool) -> None:
         if len(shared.get(filename.lower(), [])) > 1:
             print(f"  NOT pushed, file shared by {shared[filename.lower()]}: {filename}", file=sys.stderr)
             continue
-        title = by_file.get(filename) or filename[:-5].replace("_", " ")
+        title = by_file.get(filename.lower()) or filename[:-5].replace("_", " ")
+        if title in reg:
+            continue
         meta = state.get(title, {})
         if meta.get("model") in PULL_ONLY_MODELS:
             continue
