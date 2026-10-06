@@ -1,0 +1,63 @@
+<noinclude>
+Template for displaying summary information about [[Projects|projects]].
+
+'''Usage: Copy paste the code below, filling in relevant fields after the = sign. Fields that are left empty or are removed will not show up in the generated infobox.'''
+
+<syntaxhighlight lang="html+handlebars">{{InfoboxProject
+|project=
+|image=
+|topic=
+|leader=
+|startdate=
+|customlabel1=
+|customdata1=
+|customlabel2=
+|customdata2=
+|customlabel3=
+|customdata3=
+|customlabel4=
+|customdata4=
+|link1title=
+|link1=
+|link2title=
+|link2=
+|link3title=
+|link3=
+|link4title=
+|link4=
+}}</syntaxhighlight>
+</noinclude>
+{{Infobox
+|bodyclass=infoboxproject
+|autoheaders=y
+|above={{{project}}}
+|subheader=
+|image={{{image|}}}
+|header1=Information
+|label1=Topic
+|data1={{{topic|}}}
+|label2=Leader
+|data2={{{leader|}}}
+|label3=Start Date
+|data3={{{startdate|}}}
+|label4={{{customlabel1|}}}
+|data4={{{customdata1|}}}
+|label5={{{customlabel2|}}}
+|data5={{{customdata2|}}}
+|label6={{{customlabel3|}}}
+|data6={{{customdata3|}}}
+|label7={{{customlabel4|}}}
+|data7={{{customdata4|}}}
+|header10=Links
+|label11={{{link1title|}}}
+|data11={{{link1|}}}
+|label12={{{link2title|}}}
+|data12={{{link2|}}}
+|label13={{{link3title|}}}
+|data13={{{link3|}}}
+|label14={{{link4title|}}}
+|data14={{{link4|}}}
+|below=<span style="text-align:center">[[Projects|All Projects]]</span>
+}}
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

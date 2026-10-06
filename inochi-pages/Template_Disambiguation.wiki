@@ -1,0 +1,24 @@
+<includeonly>{{#if:{{{nocat|}}}||{{Disambiguation page short description}}}}</includeonly>
+{{Dmbox
+| type = disambig
+| text = {{#switch: {{{nsoverride|<includeonly>{{NAMESPACE}}</includeonly>}}}|<!--detects namespace between Wikipedia, Portal, and everything else-->
+ | #default = This [[Help:Disambiguation|disambiguation]] page lists {{{type|{{#if:{{{ignore_parentheses|}}}||{{Title disambig text|1={{Str rep|{{{page-title|{{FULLPAGENAME}}}}}|(disambiguation)|}}}}}}}}} {{namespace detect|main=articles|category=categories|wikipedia=project pages<includeonly>|template=templates</includeonly>|other=pages}} associated with the title '''{{#if:{{{ignore_parentheses|}}}|{{{page-title|{{FULLPAGENAME}}}}}|{{PAGENAMEBASE|{{{page-title|{{FULLPAGENAME}}}}}}}}}'''.<!--for normal disambiguation pages-->
+ | Wikipedia  = This page is a list of [[Wikipedia:Project namespace|project pages]] associated with the same title or shortcut.[[Category:Wikipedia disambiguation pages]]<!--for Wikipedia disambiguation pages-->
+ | Portal = This page is a list of [[Wikipedia:Contents/Portals|portals]] associated with the same title.[[Category:Portal disambiguation pages]]<!--for Portal disambiguation pages-->
+}}<br /><small>{{main other<!--detects if in mainspace or not-->
+ | demospace = {{{demospace|}}}<!--for testing, see docs at [[Template:Main other]]-->
+ | If an [{{fullurl:Special:WhatLinksHere/{{{page-title|{{FULLPAGENAME}}}}}|namespace=0}} internal link] led you here, you may wish to change the link to point directly to the intended article.<!--If in mainspace, the "internal link" only links to incoming links in mainspace, and we use the term "intended article"-->
+ | If an [{{fullurl:Special:WhatLinksHere/{{{page-title|{{FULLPAGENAME}}}}}}} internal link] led you here, you may wish to change the link to point directly to the intended page.<!--If not in mainspace, the "internal link" links to incoming links in all namespaces, and we use the term "intended page"-->
+}}</small>
+| nocat = {{{nocat|}}}   <!--So "nocat=true" works-->
+}}{{main other
+| demospace = {{{demospace|}}}
+| [[Category:Disambiguation pages]]{{disambiguation/cat|{{{1|}}}}}{{disambiguation/cat|{{{2|}}}}}{{disambiguation/cat|{{{3|}}}}}{{disambiguation/cat|{{{4|}}}}}{{disambiguation/cat|{{{5|}}}}}{{disambiguation/cat|{{{6|}}}}}{{disambiguation/cat|{{{7|}}}}}{{disambiguation/cat|{{{8|}}}}}{{disambiguation/cat|{{{9|}}}}}{{disambiguation/cat|{{{10|}}}}}{{#if: {{{hn|}}} | [[Category:Human name disambiguation pages|{{{hn}}}]] }}{{#if:{{Title disambig text|1={{Str rep|{{FULLPAGENAME}}|(disambiguation)|}}}}|[[Category:Disambiguation pages with (qualified) titles]]|}}<!-- The preceding test should include articles like "Socialist Party (Sweden) (disambiguation)". -->
+| <!-- Don't categorise when not in main (article) space. However, note that {{Dmbox}} categorises pages into Category:All disambiguation pages and Category:All article disambiguation pages-->
+}}<includeonly>{{#if:{{{nocat|}}}||{{#ifeq:{{#invoke:redirect|isRedirect|{{TALKPAGENAME}}}}|yes|[[Category:Unsynchronized disambiguation talk pages]]
+[[sn:{{subst:PAGENAME}}]]}}}}</includeonly><noinclude>
+{{Documentation}}
+<!-- Add categories to the /doc subpage and interwikis to Wikidata, not here! -->
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

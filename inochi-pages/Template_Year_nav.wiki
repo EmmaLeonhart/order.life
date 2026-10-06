@@ -1,0 +1,38 @@
+{{short description|Calendar year|2=noreplace}}
+{{sidebar
+|title=[[List of decades, centuries, and millennia|Years]]
+|name=Year nav
+|contentclass=hlist
+
+|heading1=Millennium
+|content1= [[{{#expr: floor( {{{1|{{CURRENTYEAR}}}}} / 1000 ) }}th millenium]]
+
+|heading2=Centuries
+|content2=
+* [[{{#expr: floor( {{{1|{{CURRENTYEAR}}}}} / 100 ) - 2 }}th century]]
+* '''[[{{#expr: floor( {{{1|{{CURRENTYEAR}}}}} / 100 ) - 1 }}th century]]'''
+* [[{{#expr: floor( {{{1|{{CURRENTYEAR}}}}} / 100 ) + 0 }}th century]]
+
+|heading3=Decades
+|content3=
+* [[{{#expr: ( {{{1|{{CURRENTYEAR}}}}} + -2 ) * 10}}s]]
+* [[{{#expr: ( {{{1|{{CURRENTYEAR}}}}} + -1 ) * 10}}s]]
+* '''[[{{#expr: ( {{{1|{{CURRENTYEAR}}}}} + 0 ) * 10}}s]]'''
+* [[{{#expr: ( {{{1|{{CURRENTYEAR}}}}} + 1 ) * 10}}s]]
+* [[{{#expr: ( {{{1|{{CURRENTYEAR}}}}} + 2 ) * 10}}s]]
+
+|heading4=[[List of years|Years]]
+|content4=
+* [[{{#expr: {{{1|{{CURRENTYEAR}}}}} + -3}} GE]]
+* [[{{#expr: {{{1|{{CURRENTYEAR}}}}} + -2}} GE]]
+* [[{{#expr: {{{1|{{CURRENTYEAR}}}}} + -1}} GE]]
+* '''[[{{#expr: {{{1|{{CURRENTYEAR}}}}} + 0}} GE]]'''
+* [[{{#expr: {{{1|{{CURRENTYEAR}}}}} + 1}} GE]]
+* [[{{#expr: {{{1|{{CURRENTYEAR}}}}} + 2}} GE]]
+* [[{{#expr: {{{1|{{CURRENTYEAR}}}}} + 3}} GE]]
+}}
+<noinclude>
+{{documentation}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

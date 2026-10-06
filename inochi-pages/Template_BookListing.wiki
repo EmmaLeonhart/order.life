@@ -1,0 +1,51 @@
+<div class="book-listing" style="flex: 0 1 300px;">
+{{#if: {{{cover|}}}|<nowiki/>
+<div class="book-cover">
+[[File:{{{cover}}}|300px|center|link={{{link|}}}]]
+</div>|<nowiki/>
+}}<nowiki/>
+{{#if: {{{title|}}}|<nowiki/>
+<div class="book-title">
+{{{title}}}
+</div>|<nowiki/>
+}}<nowiki/>
+{{#if: {{{desc|}}}|<nowiki/>
+<div class="book-desc">
+{{{desc}}}
+</div>|<nowiki/>
+}}<nowiki/>
+</div><noinclude><templatedata>
+{
+	"params": {
+		"cover": {
+			"label": "Book Cover",
+			"description": "File name of the book cover to display",
+			"type": "string",
+			"suggested": true
+		},
+		"link": {
+			"label": "Cover Link",
+			"description": "Specify the link to visit when clicking on the cover.",
+			"type": "string",
+			"suggested": true
+		},
+		"title": {
+			"label": "Book Title",
+			"description": "Specify the title of the book.",
+			"type": "string",
+			"suggested": true
+		},
+		"desc": {
+			"label": "Book Description",
+			"description": "Describe the book.",
+			"type": "content",
+			"suggested": true
+		}
+	},
+	"description": "For use in flex-containers.",
+	"format": "block"
+}
+</templatedata>
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

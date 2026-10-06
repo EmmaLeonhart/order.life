@@ -1,0 +1,11 @@
+{{#if:{{{1|}}}
+ |{{{then|{{{3|}}}}}}
+ |{{#if:{{{2|}}}
+  |{{{then|{{{3|}}}}}}
+  |{{{else|{{{4|}}}}}}
+ }}
+}}<noinclude>
+{{Documentation}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

@@ -1,0 +1,95 @@
+{{{onright|{{{rhs|}}}}}}
+{{Cmbox
+| type = notice
+| style = padding-bottom:0.5em;
+| image = {{#ifeq:{{{type|}}}|module|[[File:Lua-logo-nolabel.svg|44px|Lua logo|alt=Lua logo|link=]]|[[File:Curly Brackets.svg|44px|Template braces|alt=|link=]]}}
+| text = <div style="width:98%;"><!--
+
+ Container-category message
+   -->{{yesno|1={{{container|}}}
+       |yes=<div style="font-size:115%;padding:0.5em 0;"> '''''Note: Please do not add {{#ifeq:{{{type|}}}|module|modules|templates}} to this category; instead, use one of its subcategories.'''''{{category other|[[Category:Container categories]]}}</div>
+      }}<!--
+
+ (type/)topic/description
+   -->{{#if:{{{topic|}}}{{{description|}}}
+       | <div style="background:#d5e4ed;line-height:1.5em;border:1px solid #aaa;font-size:120%;padding:0.35em;"> <!--
+          -->{{#if:{{{topic|}}} |'''{{#switch:{{lc:{{{type}}}}} |navbox|navigation|navigational|infobox|sidebar|stub|={{ucfirst:{{{type}}}}} templates |module=Modules|#default=Templates}} relating to {{{topic}}}.'''&nbsp;{{{1|}}}{{{description|}}}
+              | <div><!--(in case 1/description begins with newline:)--> {{{1|}}}{{{description|}}} </div>
+             }} </div>
+      }}<!--
+
+ type --><div style="line-height:1.3em;padding-top:0.3em;"> <!--
+          -->{{#if:{{{type|}}} <!--
+    (then:)-->| <div style="font-size:95%;font-weight:bold;"> The pages listed in this category are {{#ifeq:{{{type|}}}|module||meant to be}} <!--
+                 -->{{#switch:{{lc:{{{type}}}}}
+                     | ambox = [[Wikipedia:Manual of Style/Article message boxes|article message box (ambox)]] templates
+                     | category header
+                     | category heading
+                     | catheader | cat header
+                     | cathead = [[Wikipedia:Categorization|category]] header templates
+                     | campaignbox = [[Wikipedia:Manual of Style/Military history#Campaignboxes|campaignbox]] templates
+                     | conversion = templates that perform [[Wikipedia:Manual of Style/Dates and numbers#Unit conversions|conversions]]
+                     | external link = templates providing [[Wikipedia:External links|external links]]
+                     | formatting = templates that provide [[Wikipedia:Manual of Style/Text formatting|formatting]]
+                     | function = function templates{{nobold|, i.e. templates that produce text, images or other elements}}
+                     | infobox = [[Wikipedia:Manual of Style/Infoboxes|infobox]] templates
+                <!-- | message = [[Wikipedia:Template messages|message]] templates -->
+                     | module = [[Wikipedia:Lua|Lua modules]]
+                     | meta = [[Help:Metatemplating|metatemplates]]
+                     | navigation |navigational |navbox = [[Wikipedia:Navigation template|navigation]] templates
+                     | sidebar = [[WP:SIDEBAR|sidebar]] templates
+                     | stub = [[Wikipedia:WikiProject Stub sorting/Stub types|stub]] templates
+                     | sub = [[Help:Template#Creating and editing templates|subtemplates]]{{nobold|, i.e. templates used by another template or templates}}
+                     | timeline = [[Wikipedia:Timeline|timeline]] templates
+                     | user
+                     | userbox = [[Wikipedia:User templates|user]] templates, including [[Wikipedia:Userboxes|userboxes]]
+                     | #default = {{{1|{{{description|}}}}}}
+                     | {{{type}}} templates
+                    }}. </div><!--
+
+    (else:)-->| <div style="font-size:95%;font-weight:bold;"> The pages listed in this category are [[Help:Template|templates]]. </div>}}
+                <div style="font-size:95%;padding:0.15em 0;line-height:1.3em;"> This page is part of [[:Category:Wikipedia administration|Wikipedia's administration]] and not part of the encyclopedia. </div> {{#if:{{{ALTTEXT|}}}|<hr/>{{{ALTTEXT}}}<hr/>}}
+<!--
+ Further template category notes
+          --><div class="mw-collapsible mw-collapsed" style="font-size:90%;padding-top:0.25em;line-height:1.3em;">
+               <div style="border-bottom:1px solid #aaa;font-weight:bold;"> Further {{#ifeq:{{{type|}}}|module|module|template}} category notes </div>
+               <div class="mw-collapsible-content">
+                 <div> This [[Help:Category|category]] contains pages in the {{#ifeq:{{{type|}}}|module|[[Wikipedia:Lua|module namespace]]|[[Wikipedia:Template namespace|template namespace]]}}. It should not be used to categorize [[Wikipedia:What is an article?|articles]] or pages in other [[Wikipedia:Namespace|namespaces]]. </div><br/><!--
+
+                Help subsection
+                 -->{{#if:{{{help|}}}{{{2|}}} <!--
+                 (then:)-->| {{yesno|{{{help|}}} |no={{#if:{{{2|}}}|<div>{{{2}}}</div><br/>}} |yes=<div>{{{help}}}{{{2|}}}</div><br/>|def=<div>{{{help}}}{{{2|}}}</div><br/>}}<!--
+                 (else:)-->| <div> To add a {{#ifeq:{{{type|}}}|module|module|template}} to this category: </div>
+                 {{#ifeq:{{{type|}}}|module|{{Unbulleted list |list_style=padding-left:1.4em;
+                | In the documentation page (usually named "Module:''Name''/doc"), add
+                | {{pad|css=user-select:none;}}<kbd>{{brackets|{{FULLPAGENAME}}}}</kbd>
+                | to the <nowiki><includeonly></nowiki> section at the bottom of that page.
+               }}|{{Unbulleted list |list_style=padding-left:1.4em;
+                  | If the template has a separate documentation page (usually called "{{#ifeq:{{{type|}}}|module|Module|Template}}:''template name''/doc"), add
+                  | {{pad|css=user-select:none;}}<kbd>&#91;&#91;{{FULLPAGENAME}}&#93;&#93;</kbd>
+                  | to the <nowiki><includeonly></nowiki> section at the bottom of that page. Otherwise, add
+                  | {{pad|css=user-select:none;}}<kbd>&lt;noinclude&gt;&#91;&#91;{{FULLPAGENAME}}&#93;&#93;&lt;/noinclude&gt;</kbd>
+                  | to the end of the template code, making sure it starts on the same line as the code's last character.
+                 }} }} }}
+               </div>
+             </div> <!--(end "Further template category notes")
+
+      --></div> <!--(end of "type" div)-->
+
+</div> <!--(end containing div)
+
+## Tracking categories
+-->{{Category other|<!--
+    -->{{#if: {{{topic|}}}{{{description|}}}<!--
+        -->|<!-- # We have a topic/description, so all ok
+        -->|[[Category:Template:Template category with no topic or description]]<!--
+    -->}}<!--
+-->}}
+}}<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:14}}
+                | {{#if: {{{category|}}} | {{{category}}} | {{#ifeq: {{{type|}}} | module | [[Category:Wikipedia module categories]] | [[Category:Wikipedia template categories]]
+[[Category:qq]][[sn:{{subst:PAGENAME}}]][[Category:qq]]
+ }} }} }}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

@@ -1,0 +1,43 @@
+[[{{#if: {{{2|}}}|{{#switch: {{{2}}}
+ | Ingredients
+ | Tools
+ | Lore Fragments
+ | Influences = {{#ifeq: {{{1}}}|Wood|Moth|{{{1}}}}}#{{{2}}}
+ | L
+ | F
+ | Fragments
+ | Lore = {{#ifeq: {{{1}}}|Wood|Moth|{{{1}}}}}#Lore Fragments
+ | Ing = {{#ifeq: {{{1}}}|Wood|Moth|{{{1}}}}}#Ingredients
+ | T = {{#ifeq: {{{1}}}|Wood|Moth|{{{1}}}}}#Tools
+ | Inf = {{#ifeq: {{{1}}}|Wood|Moth|{{{1}}}}}#Influences
+ | #default = {{{2}}}
+}}|{{#ifeq: {{{1}}}|Wood|Moth|{{{1}}}}}}}|<span style="font-weight:bold;{{#switch: {{{1}}}
+ | Grail = color:#008000
+ | Wood
+ | Moth = color:#0000FF
+ | Lantern = color:#ffe300
+ | Forge = color:#ff8e3e
+ | Heart = color:#fe7e8b
+ | Edge = color:#f2e9c2
+ | Winter = color:#beeeff
+ | Knock = color:#b54efc
+ | Secret Histories = color:#fe43f0
+ | #default = 
+}};">{{#if: {{{3|}}}|{{{3}}}|{{#switch: {{{2}}}
+ | Ingredients
+ | Tools
+ | Lore Fragments
+ | Influences = {{{2}}}
+ | L
+ | F
+ | Fragments
+ | Lore = Lore Fragments
+ | Ing = Ingredients
+ | T = Tools
+ | Inf = Influences
+ | #default = {{#if: {{{2|}}}|{{{2}}}|{{{1}}}}}
+}}}}</span>]]<noinclude>
+{{doc}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

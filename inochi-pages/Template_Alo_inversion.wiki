@@ -1,0 +1,52 @@
+{{ {{{|safesubst:}}}#invoke:Unsubst||Expert needed|date=__DATE__|$B=
+{{Ambox
+| name = Alo inversion
+| subst= <includeonly>{{subst:</includeonly><includeonly>substcheck}}</includeonly>
+| type = content
+| sect = {{{2|}}}
+| issue= '''this page uses the deprecated alo inversion {{#if:{{{1|}}}
+ |in {{{1}}}{{#if:{{{ex2|}}}
+  |{{#if:{{{ex3|}}}
+   | , {{{ex2}}}{{#if:{{{ex4|}}}
+    | , {{{ex3}}}{{#if:{{{ex5|}}}
+     | , {{{ex4}}} or {{{ex5}}}
+     | &nbsp;or {{{ex4}}}}}
+    | &nbsp;or {{{ex3}}}}}
+   | &nbsp;or {{{ex2}}}}}
+  |}}
+ |on the subject}}'''. {{#if:{{{reason|}}}
+ |The specific problem is: '''{{{reason}}}.'''
+}} {{#if:{{{talk|}}}
+ |See the [[{{TALKPAGENAME}}&#x23;{{{talk}}}|talk page]] for details.
+ |{{#if:{{{reason|}}}|
+  |Please add a ''reason'' or a ''talk'' parameter to this template to explain the issue with the {{{2|article}}}.<includeonly>{{category handler|nocat={{{nocat|}}}|main=[[Category:Articles needing expert attention with no reason or talk parameter]]}}</includeonly>
+ }}
+}}
+|fix={{#if: {{{1|}}}
+ |[[Wikipedia:WikiProject {{ucfirst:{{{1}}}}}|WikiProject {{ucfirst:{{{1}}}}}]]{{#if:{{{ex2|}}}
+  |{{#if:{{{ex3|}}}
+   |, [[Wikipedia:WikiProject {{ucfirst:{{{ex2}}}}}|WikiProject {{ucfirst:{{{ex2}}}}}]]{{#if:{{{ex4|}}}
+    |, [[Wikipedia:WikiProject {{ucfirst:{{{ex3}}}}}|WikiProject {{ucfirst:{{{ex3}}}}}]]{{#if:{{{ex5|}}}
+     |, [[Wikipedia:WikiProject {{ucfirst:{{{ex4}}}}}|WikiProject {{ucfirst:{{{ex4}}}}}]] or [[Wikipedia:WikiProject {{ucfirst:{{{ex5}}}}}|WikiProject {{ucfirst:{{{ex5}}}}}]]
+     |&nbsp;or [[Wikipedia:WikiProject {{ucfirst:{{{ex4}}}}}|WikiProject {{ucfirst:{{{ex4}}}}}]]}}
+    |&nbsp;or [[Wikipedia:WikiProject {{ucfirst:{{{ex3}}}}}|WikiProject {{ucfirst:{{{ex3}}}}}]]}}
+   |&nbsp;or [[Wikipedia:WikiProject {{ucfirst:{{{ex2}}}}}|WikiProject {{ucfirst:{{{ex2}}}}}]]}}
+  |}} may be able to help recruit an expert.
+ |<br /><small>''When placing this tag, consider [[:Template:Expert needed#Parameters|associating this request]] with a [[WP:WikiProject|WikiProject]].''</small><includeonly>{{category handler|nocat={{{nocat|}}}|main=[[Category:Articles using Alo inversion]]}}</includeonly>
+}}
+| date = {{{date|<noinclude>{{CURRENTMONTHNAME}} {{CURRENTYEAR}}</noinclude>}}}
+| cat  = Articles needing expert attention
+| all  = All articles needing expert attention
+}}<!--
+
+  Additional categories
+
+-->{{category handler
+|nocat={{{nocat|<noinclude>true</noinclude>}}}
+|main={{Expert needed/catcheck|{{{1|}}}}}{{Expert needed/catcheck|{{{ex2|}}}}}{{Expert needed/catcheck|{{{ex3|}}}}}{{Expert needed/catcheck|{{{ex4|}}}}}{{Expert needed/catcheck|{{{ex5|}}}}}
+}}
+}}<noinclude>
+{{Documentation}}<!-- Add category links to the /doc subpage -->
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

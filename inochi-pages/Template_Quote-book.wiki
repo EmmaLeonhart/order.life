@@ -1,0 +1,36 @@
+<includeonly>{{check deprecated lang param usage|lang={{{lang|}}}|{{quote-meta
+|indent1 = {{{i1|{{{indent|}}}}}}
+|source  = {{#invoke:quote|source_t
+    | author         = {{{author|{{#if:{{{lang|}}}|{{{2|}}}|{{{3|}}}}}}}}
+    | chapter        = {{{chapter|{{{entry|}}}}}}
+    | chapterurl     = {{{chapterurl|{{{entryurl|}}}}}}
+    | trans-chapter  = {{{trans-chapter|{{{trans-entry|}}}}}}
+    | title          = {{{title|{{#if:{{{lang|}}}|{{{3|}}}|{{{4|}}}}}}}}
+    | url            = {{{url|{{#if:{{{lang|}}}|{{{4|}}}|{{{5|}}}}}}}}
+    | urls           = {{{urls|}}}
+    | type           = {{{type|translation}}}
+    | isbn           = {{{ISBN|{{{isbn|}}}}}}
+    | issn           = {{{ISSN|{{{issn|}}}}}}
+    | lccn           = {{{LCCN|{{{lccn|}}}}}}
+    | oclc           = {{{OCLC|{{{oclc|}}}}}}
+    | ol             = {{{OL|{{{ol|}}}}}}
+    | year           = {{{year|{{#if:{{{lang|}}}|{{{1|}}}|{{{2|}}}}}}}}
+    | issue          = {{{issue|{{{number|}}}}}}
+    | section        = {{{section|}}}{{#if:{{{note|}}}|{{{note|}}}}}
+    | page           = {{{page|{{#if:{{{lang|}}}|{{{5|}}}|{{{6|}}}}}}}}
+}}
+|passage         = {{{text|{{{passage|{{#if:{{{lang|}}}|{{{6|}}}|{{{7|}}}}}}}}}}}
+|brackets        = {{{brackets|}}}
+|translation     = {{{t|{{{translation|{{#if:{{{lang|}}}|{{{7|}}}|{{{8|}}}}}}}}}}}
+|transliteration = {{{tr|{{{transliteration|}}}}}}
+|transcription   = {{{ts|{{{transcription|}}}}}}
+|lang            = {{#if:{{{lang|}}}|{{{lang|}}}|{{{1|und}}}}}
+|subst           = {{{subst|}}}
+|lit             = {{{lit|}}}
+|nocat           = {{{nocat|}}}
+|footer          = {{{footer|}}}
+}}}}<!--
+
+--></includeonly><noinclude>{{quote-book|en|author=F[rancis] Scott Fitzgerald|authorlink=F. Scott Fitzgerald|chapter=IX|title=[[w:The Great Gatsby|The Great Gatsby]]|location=New York, N.Y.|publisher=[[w:Charles Scribner's Sons|Charles Scribner’s Sons]]|year=1925|oclc=884653065|location2=New York, N.Y.|publisher2=Charles Scribner’s Sons|year2=1953|isbn2=978-0-684-16498-4|page2=182|pageurl2=https://archive.org/stream/in.ernet.dli.2015.184960/2015.184960.The-Great-Gatsby#page/n185/mode/1up|passage=So we beat on, boats against the current, borne back '''ceaselessly''' into the past.}}{{documentation}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

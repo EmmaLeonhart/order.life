@@ -1,0 +1,3 @@
+{{#if:{{{1|}}}|{{#ifeq:{{{2|}}}|yes|*|&#32;}} [{{fullurl:{{FULLPAGENAME}}|from={{urlencode:{{{3|}}}{{#invoke:String|replace|source={{{1}}}|pattern=.*%[(.-)[%{{!}}%]].*|replace=%1|plain=false}}}}}} {{delink|{{{1}}}}}]}}
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

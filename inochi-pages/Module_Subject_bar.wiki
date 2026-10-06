@@ -1,0 +1,85 @@
+require('strict')
+
+local getArgs = require('Module:Arguments').getArgs
+local yesNo = require('Module:Yesno')
+
+-- Determine whether we're being called from a sandbox
+local isSandbox = mw.getCurrentFrame():getTitle():find('sandbox', 1, true)
+local sandbox = isSandbox and '/sandbox' or ''
+
+local p = {}
+
+local sisters = {'commons','species','voy','n','wikt','b','q','s','v','iw','iw1','iw2','d'}
+
+local function findNumericArgs(key, args)
+	local pattern = "^"..key.."_?(%d+)$"  -- pattern to match
+	local values = {}
+	for k, v in pairs(args) do  --- loop through all arguments
+		local ord = tonumber(mw.ustring.match(k,pattern)) --- if "foo_?%d+", extract number
+		if ord then
+			values[ord] = v
+		end
+	end
+	if args[key] ~= nil then
+		values[1] = args[key]
+	end
+	local compressSparseArray = require('Module:TableTools').compressSparseArray
+	values = compressSparseArray(values)  --- squeeze out gaps/nils in values, keep ordering
+	return values
+end
+
+function p._main(args)
+	local result = ""
+		
+	local hasPortal = false
+	for key, _ in pairs(args) do
+		if mw.ustring.sub(key,1,6) == 'portal' or tonumber(key) then
+			hasPortal = true
+			break
+		end
+	end
+	
+	local hasSister = yesNo(args.auto,true) or yesNo(args.author,true) or yesNo(args.cookbook,true)
+	for _, sister in ipairs(sisters) do
+		if hasSister then
+			break
+		end
+		if yesNo(args[sister],true) or yesNo(args[sister..'-search'],true) then
+			hasSister = true
+		end
+	end
+
+	if hasPortal then
+		local portalList = findNumericArgs("portal",args)
+		for _, positional in ipairs(args) do
+			table.insert(portalList, positional)
+		end
+		local portalBar = require('Module:Portal bar'..sandbox)._main
+		result = result..portalBar(portalList, {tracking=args.tracking, qid=args.qid})
+	end
+	
+	if hasSister then
+		local sisterArgs = {auto=1, bar=1, trackSingle=not hasPortal}
+		sisterArgs[1] = args.search
+		for _, k in ipairs({'author','commonscat','cookbook','display','tracking','qid'}) do
+			sisterArgs[k] = args[k]
+		end
+    	for _, t in ipairs(sisters) do
+    		sisterArgs[t] = args[t..'-search'] or args[t]
+    	end
+    	local sisterBar = require('Module:Sister project links'..sandbox)._main
+		result = result..sisterBar(sisterArgs)
+	end
+	
+	return result
+end
+
+function p.main(frame)
+    -- If called via #invoke, use the args passed into the invoking template,
+    -- or the args passed to #invoke if any exist. Otherwise assume args are
+    -- being passed directly in from the debug console or from another Lua module.
+    local args = getArgs(frame)
+    return p._main(args)
+end
+
+return p

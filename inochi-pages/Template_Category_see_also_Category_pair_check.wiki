@@ -1,0 +1,22 @@
+<noinclude>{{pp-template|small=yes}}</noinclude><includeonly>{{#ifeq: {{NAMESPACE}} | Category |<!--
+ -->{{#if: {{#invoke:String|match|{{BASEPAGENAME}}|%d+[snrt][tdh]%-century.+$|ignore_errors=true}}<!--
+    -->|<!-- it's on a century category
+        -->{{#if: {{#invoke:String|match|{{{1|}}}|{{#invoke:String|match|{{BASEPAGENAME}}|-century.+$|ignore_errors=true}}|ignore_errors=true|plain=true}}<!--
+            -->|<!-- the link is to a similar century category
+                -->[[Category:Template Category see also used when Template Category pair probably should be]]<!--
+        -->}}<!--
+    -->}}<!--
+-->}}</includeonly><noinclude>
+{{Documentation|content=
+{{High-use}}
+Check whether [[Template:Category see also]] has been used when [[Template:Category pair]] probably should be use.
+
+The test is:
+#Is this page in the Category namespace?
+#Does this page's title end in "nn(st{{!}}nd{{!}}rd{{!}}th)-century something"
+#does the first linked cat's title end in the same "-century something" as the title of the page it is used on?
+
+If the answer to all 3 is yes, then categorise the page in the hidden tracking category [[:Category:Template Category see also used when Template Category pair probably should be]]
+}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

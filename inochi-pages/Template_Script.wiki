@@ -1,0 +1,245 @@
+{{#switch:{{{1|}}}
+<!--scripts with dedicated templates-->
+<!-- As of 2021-12-03, ISO 15924 and Unicode:
+ 1. This list contains *all* ISO 15924 regular script IDs. By ISO pattern alpha4 = 'Abcd'.
+ 2. Not included: Special codes (ISO number 900-999, e.g. symbols, unk scripts, private scripts):
+    Qaaa..Qabx, Zinh Zmth Zsye Zsym Zxxx Zyyy Zzzz
+ 3. Totals: 204 regular alpha4 script IDs.
+ 4. Depending on font handling, scripts can be commented out, i.e. will use regular fonts.
+ 5. Scripts defined in Unicode: to be documented.
+ 6. Scripts that have lang-specifier like 'fa-Arab': unchanged, not an ISO15924 topic -->
+|Adlm = {{Script/Adlam|1={{{2}}}}}
+<!--|Afak = {{Script/Afak|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Aghb = {{Script/Caucasian_Albanian|1={{{2}}}}}
+|Ahom = {{Script/Ahom|1={{{2}}}}}
+|Arab|Arabic = {{Script/Arabic|1={{{2}}}}}
+|fa-Arab|az-Arab = {{Script/Nastaliq|1={{{2}}}|2=fa}}
+|ps-Arab = {{Script/Nastaliq|1={{{2}}}|2=ps}}
+|ur-Arab = {{Script/Nastaliq|1={{{2}}}}}
+|Aran|Nastaliq = {{Script/Nastaliq|1={{{2}}}}}
+|Armi = {{Script/Aramaic|1={{{2}}}}}
+<!--|Armn = {{Script/Armenian|1={{{2}}}}} commonly supported, may not need transclusion-->
+|Avst = {{Script/Avestan|1={{{2}}}}}
+|Bali = {{Script/Bali|1={{{2}}}}}
+|Bamu = {{Script/Bamum|1={{{2}}}}}
+|Bass = {{Script/Bassa Vah|1={{{2}}}}}
+|Batk = {{Script/Batak|1={{{2}}}}}
+<!--|Beng = {{Script/Bengali|1={{{2}}}}} commonly supported, may not need transclusion-->
+|Bhks = {{Script/Bhaiksuki|1={{{2}}}}}
+<!--|Blis = {{Script/Blissymbols|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+<!--|Bopo = {{Script/Bopomofo|1={{{2}}}}} commonly supported, may not need transclusion-->
+|Brah = {{Script/Brahmi|1={{{2}}}}}
+<!--|Brai|Braille = (Feb 2021: ISO 15924 code; in Unicode. Not a {{Script}} option) -->
+|Bugi = {{Script/Lontara|2={{{2}}}}}
+|Buhd = {{Script/Buhid|1={{{2}}}}}
+|Cakm = {{Script/Chakma|1={{{2}}}}}
+<!--|Cans = {{Script/Unified Canadian Aboriginal Syllabics|1={{{2}}}}} commonly supported, may not need transclusion-->
+<!--|Cari = {{Script/Carian|1={{{2}}}}} supported with Segoe UI Historic font-->
+|Cham = {{Script/Cham|1={{{2}}}}}
+<!--|Cher|Cherokee = (Feb 2021: ISO 15924 code; in Unicode. Not a {{Script}} option) -->
+|Chrs = {{Script/Chorasmian|1={{{2}}}}}
+<!--|Cirt = {{Script/Cirth|1={{{2}}}}} supported by CSUR-->
+|Copt = {{Script/Coptic|1={{{2}}}}}
+<!--|Cpmn = {{Script/Cypro-Minoan|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+<!--|Cprt = {{Script/Cprt|1={{{2}}}}} see below-->
+<!--|Cyrl = {{Script/Cyrillic|1={{{2}}}}} commonly supported, may not need transclusion-->
+|Cyrs = {{Script/Slavonic|1={{{2}}}}}
+<!--|Deva = {{Script/Devanagari|1={{{2}}}}} commonly supported, may not need transclusion-->
+<!--|Diak = {{Script/Dives_Akuru|1={{{2}}}}} pending font support-->
+|Dogr = {{Script/Dogra|1={{{2}}}}}
+<!--|Dsrt = {{Script/Deseret|1={{{2}}}}} supported with Segoe UI Symbol font-->
+|Dupl = {{Script/Duployan|1={{{2}}}}}
+<!--|Egyd = {{Script/Demotic|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+<!--|Egyh = {{Script/Hieratic|1={{{2}}}}} combined with "Egyptian Hieroglyphs"-->
+<!--|Egyp = {{Script/Egyptian_Hieroglyphs|1={{{2}}}}} supported with Segoe UI Historic font-->
+|Elba = {{Script/Elbasan|1={{{2}}}}}
+|Elym = {{Script/Elymaic|1={{{2}}}}}
+|Ethi = {{Script/Ethiopic|1={{{2}}}}}
+|Geok = {{Script/Khutsuri|1={{{2}}}}}
+<!--|Geor = {{Script/Georgian|1={{{2}}}}} commonly supported, may not need transclusion-->
+|Glag = {{Script/Glagolitic|1={{{2}}}}}
+|Gong = {{Script/Gunjala Gondi|1={{{2}}}}}
+|Gonm = {{Script/Masaram Gondi|1={{{2}}}}}
+|Goth = {{Script/Gothic|1={{{2}}}}}
+|Gran = {{Script/Grantha|1={{{2}}}}}
+|Grek|Greek = {{Script/Greek|1={{{2}}}}}
+<!--|Gujr = {{Script/Gujarati|1={{{2}}}}} commonly supported, may not need transclusion-->
+<!--|Guru = {{Script/Gurmukhi|1={{{2}}}}} commonly supported, may not need transclusion-->
+<!--|Hanb = (Hanzi with bopomofo) commonly supported, may not need transclusion-->
+<!--|Hang = {{Script/Hangul|1={{{2}}}}} commonly supported, may not need transclusion-->
+<!--|Hani = commonly supported, may not need transclusion-->
+|Hano|Hanunoo = {{Script/Hanunoo|1={{{2}}}}}
+<!--|Hans = (Simplified Chinese) commonly supported, may not need transclusion-->
+<!--|Hant = (Traditional Chinese) commonly supported, may not need transclusion-->
+|Hatr = {{Script/Hatran|1={{{2}}}}}
+|Hebr|Hebrew = {{Script/Hebrew|1={{{2}}}}}
+<!--|Hira = (Japanese hiragana) commonly supported, may not need transclusion-->
+|Hluw = {{Script/Anatolian Hieroglyphs|1={{{2}}}}}
+|Hmng = {{Script/Pahawh Hmong|1={{{2}}}}}
+|Hmnp = {{Script/Nyiakeng Puachue Hmong|1={{{2}}}}}
+<!--|Hrkt = (Japanese kana) commonly supported, may not need transclusion-->
+|Hung = {{Script/Old Hungarian|1={{{2}}}}}
+<!--|Inds = {{Script/Indus|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Ital = {{Script/Old Italic|1={{{2}}}}}
+<!--|Jamo = under Korean -->
+|Java = {{Script/Java|1={{{2}}}}}
+<!--|Jpan = (Japanese) commonly supported, may not need transclusion-->
+<!--|Jurc = {{Script/Jurchen|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Kali = {{Script/Kayah Li|1={{{2}}}}}
+<!--|Kana = (Japanese katakana) commonly supported, may not need transclusion-->
+|Kawi = {{Script/Kawi|1={{{2}}}}}
+<!--|Khar = {{Script/Kharosthi|1={{{2}}}}} supported with Segoe UI Historic font (RTL)-->
+|Khmr = {{Script/Khmer|1={{{2}}}}}
+|Khoj = {{Script/Khojki|1={{{2}}}}}
+<!--|Kitl = {{Script/Khitan Large Script|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Kits = {{Script/Khitan Small Script|1={{{2}}}}}
+<!--|Knda = {{Script/Kannada|1={{{2}}}}} commonly supported, may not need transclusion-->
+|Kore = {{Script/Korean|1={{{2}}}}}
+<!--|Kpel = {{Script/Kpelle|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Kthi = {{Script/Kaithi|1={{{2}}}}}
+|Lana = {{Script/Tai Tham|1={{{2}}}}}
+<!--|Laoo = {{Script/Lao|1={{{2}}}}} commonly supported, but transclusion may be needed to display Pali additional characters-->
+<!--|Latf = {{Script/Fraktur blackletter|1={{{2}}}}} see below-->
+<!--|en-Latf = {{Script/Textura blackletter|1={{{2}}}}} see below-->
+<!--|it-Latf = {{Script/Rotunda blackletter|1={{{2}}}}} see below-->
+|Latg = {{Script/Gaelic|1={{{2}}}}}
+|Latn = {{Script/Classical and Medieval Latin|1={{{2}}}}}
+<!--|Leke = {{Script/Leke|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Lepc = {{Script/Lepcha|1={{{2}}}}}
+|Limb|Limbu = {{Script/Limbu|1={{{2}}}}}
+<!--|Lina = {{Script/Linear A|1={{{2}}}}} see below-->
+<!--|Linb = {{Script/Linear B|1={{{2}}}}} see below-->
+|Lisu|Fraser = {{Script/Lisu|1={{{2}}}}}
+<!--|Loma = {{Script/Loma|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Lyci = {{Script/Lycian|1={{{2}}}}}
+<!--|Lydi = {{Script/Lydian|1={{{2}}}}} supported with Segoe UI Historic font-->
+|Mahj|Mahajani = {{Script/Mahajani|1={{{2}}}}}
+|Maka = {{Script/Makasar|1={{{2}}}}}
+|Mand = {{Script/Mandaic|1={{{2}}}}} 
+|Mani = {{Script/Manichaean|1={{{2}}}}} 
+|Marc = {{Script/Marchen|1={{{2}}}}} 
+<!--|Maya = {{Script/Maya|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Medf = {{Script/Medefaidrin|1={{{2}}}}} 
+|Mend = {{Script/Mende Kikakui|1={{{2}}}}} 
+|Merc = {{Script/Meroitic Cursive|1={{{2}}}}} 
+|Mero = {{Script/Meroitic Hieroglyphs|1={{{2}}}}} 
+<!--|Mlym = {{Script/Malayalam|1={{{2}}}}} commonly supported, may not need transclusion-->
+|Modi = {{Script/Modi|1={{{2}}}}} 
+<!--|Mong|Mongolian = use Template:MongolUnicode -->
+<!--|Moon = {{Script/Moon Type|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Mroo|Mru = {{Script/Mro|1={{{2}}}}} 
+|Mtei|Meithei|Meetei Mayek = {{Script/Meetei Mayek|1={{{2}}}}}
+|Mult = {{Script/Multani|1={{{2}}}}} 
+|Mymr|Myanmar = {{Script/Myanmar|1={{{2}}}}}
+|Nagm = {{Script/Nag Mundari|1={{{2}}}}}
+|Nand = {{Script/Nandinagari|1={{{2}}}}}
+|Narb = {{Script/Old North Arabian|1={{{2}}}}}
+|Nbat = {{Script/Nabataean|1={{{2}}}}}
+|Newa = {{Script/Newa|1={{{2}}}}}
+<!--|Nkdb = {{Script/Naxi Dongba|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+<!--|Nkgb = {{Script/Naxi Geba|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Nkoo|Nko = {{Script/Nko|1={{{2}}}}}
+|noto = {{Script/Noto|1={{{2}}}}}
+|Nshu = {{Script/Nushu|1={{{2}}}}}
+|Ogam = {{Script/Ogam|1={{{2}}}}}
+<!--|Olck = {{Script/Ol Chiki|1={{{2}}}}} supported with Nirmala UI font-->
+|Orkh = {{Script/Orkhon|1={{{2}}}}}
+<!--|Orya = {{Script/Oriya|1={{{2}}}}} commonly supported, may not need transclusion-->
+|Osge = {{Script/Osage|1={{{2}}}}} <!--supported with latest Gadugi font-->
+|Osma = {{Script/Osmanya|1={{{2}}}}}
+<!--|Ougr = (Feb 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option) -->
+|Palm = {{Script/Palmyrene|1={{{2}}}}}
+|Pauc = {{Script/Pau Cin Hau|1={{{2}}}}}
+<!--|Pcun = (Feb 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option) -->
+<!--|Pelm = (Feb 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option) -->
+|Perm = {{Script/Old Permic|1={{{2}}}}}
+<!--|Phag = {{Script/Phags-pa|1={{{2}}}}} supported with Microsoft PhagsPa font-->
+|Phli = {{Script/Pahlavi|1={{{2}}}}}
+|Phlp = {{Script/Psalter Pahlavi|1={{{2}}}}}
+<!--|Phlv = {{Script/Book Pahlavi|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Phnx|Phoenician = {{Script/Phoenician|1={{{2}}}}}
+|Piqd = {{Script/Klingon|1={{{2}}}}}
+|Plrd|Pollard = {{Script/Pollard|1={{{2}}}}}
+|Prti = {{Script/Pahlavi|1={{{2}}}}}
+<!--|Psin = (Feb 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option) -->
+<!--|Ranj = (Feb 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option) -->
+|Rjng|Rejang = {{Script/Rejang|1={{{2}}}}}
+|Rohg = {{Script/Hanifi Rohingya|1={{{2}}}}}
+<!--|Roro = {{Script/Rongorongo|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Runr = {{Script/Runic|1={{{2}}}|2={{{3}}}}}
+|Samr = {{Script/Samaritan|1={{{2}}}}}
+<!--|Sara = {{Script/Sarati|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+<!--|Sarb = {{Script/Old South Arabian|1={{{2}}}}} supported with Segoe UI Historic font-->
+|Saur = {{Script/Saurashtra|1={{{2}}}}}
+|serif = {{Script/Serif|1={{{2}}}}}
+|Sgnw = {{Script/Sutton SignWriting|1={{{2}}}}}
+<!--|Shaw = {{Script/Shavian|1={{{2}}}}} supported with Segoe UI Historic font-->
+|Shrd = {{Script/Sharada|1={{{2}}}}}
+<!--|Shui|Sui = {{Script/Shuishu|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Sidd = {{Script/Siddham|1={{{2}}}}}
+|Sind = {{Script/Khudawadi|1={{{2}}}}}
+<!--|Sinh = {{Script/Sinhala|1={{{2}}}}} commonly supported, may not need transclusion (vertical)-->
+|Sogd = {{Script/Sogdian|1={{{2}}}}}
+|Sogo = {{Script/Old Sogdian|1={{{2}}}}}
+<!--|Sora = {{Script/Sorang Sompeng|1={{{2}}}}} supported with Nirmala UI font -->
+|Soyo = {{Script/Soyombo|1={{{2}}}}}
+|Sund|Sunda = {{Script/Sund|1={{{2}}}}}
+<!--|Sunu = {{Script/Sunuwar|1={{{2}}}}} (Dec 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+|Sylo = {{Script/Syloti|1={{{2}}}}}
+<!--|Syrc = {{Script/Syriac|1={{{2}}}}} commonly supported, may not need transclusion / ??? -->
+|Syre = {{Script/Estrangelo Syriac|1={{{2}}}}}
+|Syrj = {{Script/Western Syriac|1={{{2}}}}}
+|Syrn = {{Script/Eastern Syriac|1={{{2}}}}}
+|Tagb = {{Script/Tagbanwa|1={{{2}}}}}
+|Takr = {{Script/Takri|1={{{2}}}}}
+<!--|Tale = {{Script/Tai Le|1={{{2}}}}} supported with Microsoft Tai Le font-->
+|Talu = {{Script/New Tai Lue|1={{{2}}}}}
+<!--|Taml = {{Script/Tamil|1={{{2}}}}} commonly supported, may not need transclusion-->
+|Tang = {{Script/Tangut|1={{{2}}}}} 
+|Tavt = {{Script/Tai Viet|1={{{2}}}}}
+<!--|Telu = {{Script/Telugu|1={{{2}}}}} commonly supported, may not need transclusion-->
+<!--|Teng = {{Script/Tengwar|1={{{2}}}}} supported by CSUR-->
+|Tfng = {{Script/Tifinagh|1={{{2}}}}}
+|Tglg = {{Script/Baybayin|1={{{2}}}}}
+<!--|Thaa = {{Script/Thaana|1={{{2}}}}} commonly supported, may not need transclusion-->
+<!--|Thai = {{Script/Thai|1={{{2}}}}} commonly supported, may not need transclusion-->
+<!--|Tibt|Tibetan = {{Script/Tibetan|1={{{2}}}}} commonly supported, may not need transclusion /(Feb 2021: is ISO 15924 code, in Unicode) -->
+|Tirh = {{Script/Tirhuta|1={{{2}}}}}
+<!--|Toto = {{Script/Toto|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+<!--|Ugar = {{Script/Ugaritic|1={{{2}}}}} see below: by class="..." -->
+|Vaii|Vai = {{Script/Vai|1={{{2}}}}}
+<!--|Visp = {{Script/Visible Speech|1={{{2}}}}} supported by CSUR-->
+|Vith = {{Script/Vithkuqi|1={{{2}}}}}
+|Wara = {{Script/Warang Citi|1={{{2}}}}}
+|Wcho = {{Script/Wancho|1={{{2}}}}}
+<!--|Wole = {{Script/Woleai|1={{{2}}}}} (Mar 2021: ISO 15924 code; not in Unicode. Not a {{Script}} option)-->
+<!--|Xpeo = {{Script/Old Persian|1={{{2}}}}} see below: by class="..." -->
+|Xsux = {{Script/Cuneiform|1={{{2}}}}}
+|Yezi|Yezidi = {{Script/Yezidi|1={{{2}}}}}
+|Yiii|Yi = {{Script/Yi|1={{{2}}}}}
+|Zanb = {{Script/Zanabazar Square|1={{{2}}}}}
+<!--other scripts use standard language spans-->
+|#default =<!--
+ START SWITCH2
+ (resolving the switch1-#default. switch2 does envelop outer code, templatestyles & span)
+ -->{{{{{|safesubst:}}}ifsubst|1=|2=<templatestyles src="Script/styles.css" />}}<span {{#switch:{{{1}}}
+  <!-- tweaks which should be moved to global CSS classes, with fonts supported in the Universal Language Selector -->
+  |Cprt         = class="script-Cprt"
+  <!-- |Hano|Hanunoo = class="script-Hano" Already catched above, uses {{Script/Hanunoo}} -->
+  |Latf|de-Latf = class="script-Latf"
+  |en-Latf      = class="script-en-Latf"
+  |it-Latf      = class="script-it-Latf"
+  |Lina         = class="script-Lina"
+  |Linb         = class="script-Linb"
+  |Ugar         = class="script-Ugar"
+  |Xpeo         = class="script-Xpeo"
+  |#default     = class="Unicode"<!-- all-the-rest ends up here. BMP(?), use generic "Unicode" CSS class for all other scripts, including "Latn" for IPA -->
+ }}>{{{2}}}</span><!--
+ Tail job: analyse & categorise input-1 (script ID) not recognised
+ -->{{#switch:{{{1|}}}|Cprt|Hano|Hanunoo|Latf|de-Latf|en-Latf|it-Latf|Lina|Linb|Ugar|Xpeo=<!--
+ -->|#default={{Script/doc/id-unk|input1={{{1|<noinclude>Test</noinclude>}}}}}<!-- end Tail job
+ -->}}}}<!-- end switch2, switch1
+
+--><noinclude>{{documentation}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

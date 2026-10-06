@@ -1,0 +1,51 @@
+<!--
+ optional icon - included by default
+-->{{#if:{{{no-icon|{{{noicon|}}}}}}||{{#ifeq: {{{wstitle|}}}||<span class="noprint">[[File:PD-icon.svg|12px|class=noviewer|alt=|link=]]&nbsp;</span>}}}}<!-- optional public domain icon when wstitle is missing or empty
+ -->{{#invoke:template wrapper|{{#if:{{{_debug|}}}|list|wrap}}|_template=cite encyclopedia
+  |_exclude=display, no-icon, noicon, short, wstitle, language, lang, _debug
+  |_reuse=chapter, title, url <!-- these are reused -->
+  |_alias-map=name-list-format:name-list-style,accessdate:access-date,authorlink:author-link
+
+  |editor-first={{#if:{{{short|}}}||Hugh}}
+  |editor-last={{#if:{{{short|}}}||Chisholm}}
+  |editor-link={{#if:{{{short|}}}||Hugh Chisholm}}
+  |encyclopedia=[[Encyclopædia Britannica Eleventh Edition|Encyclopædia Britannica]]
+  |title={{#if:{{{wstitle|}}}|{{cite wikisource/make link
+              |link=1911 Encyclopædia Britannica/{{{wstitle}}}
+              |label={{{display|{{{wstitle|}}}}}}
+              |noicon={{{no-icon|{{{noicon|}}}}}}
+            }}|{{#if:{{{title|}}}|{{{title}}}}}}}
+  |chapter={{#if:{{{chapter|}}}
+                |{{#if:{{{wstitle|}}}{{{title|}}}
+                      |{{cite wikisource/make link
+                        |link=1911 Encyclopædia Britannica/{{{wstitle}}}
+                        |anchor={{{chapter|}}}
+                        |label={{{chapter|}}}
+                        |noicon={{{noicon|}}}
+                      }}
+                      |{{{chapter|}}}<!-- else #if NOT wstitle OR title; cs1|2 will emit a missing title error message here because no title -->
+                 }}<!-- end #if wstitle, title -->
+           }}<!-- end #if chapter -->
+  |url={{#if:{{{wstitle|}}}||{{{url|}}}}}
+  |edition=11th
+  |date=1911
+  |language=en
+  |publisher={{#if:{{{short|}}}||Cambridge University Press}}
+}}<noinclude>
+{{documentation}}</noinclude><!--
+--><includeonly><!--
+-->{{#ifeq: {{NAMESPACEE}} |<!--is set-->
+     |<!--Sort out the parameters-->
+     {{#ifeq: {{#if: {{{wstitle|}}}|{{{wstitle}}}}}|<!--eq to empty-->
+     |<!-- then-->
+       {{#ifeq: {{#if: {{{title|}}}|{{{title}}}|}}|<!--eq to empty-->
+       |<!--then-->[[Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with no article parameter]]
+       |<!--else-->[[Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica without Wikisource reference]]
+       }}<!--end title-->
+     |<!--else-->[[Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference]]
+     }}<!--end of check wstitle-->
+   |<!--else not in NAMESPACE do nothing-->
+   }}<!--end NAMESPACE no white space
+--></includeonly><!--DO NOT PUT A BLANK LINE AFTER THIS COMMENT-->
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

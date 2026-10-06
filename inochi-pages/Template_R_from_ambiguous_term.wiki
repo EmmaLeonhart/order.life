@@ -1,0 +1,15 @@
+<noinclude>{{This is a redirect/rcat}}
+</noinclude>{{Redirect template
+  |id=R from ambiguous term
+  |name=From an ambiguous term
+  |from=an ambiguous page name
+  |to=a page or list that disambiguates it
+  |info=These redirects are pointed to by links that should always be disambiguated.  Therefore, this template should ''never'' appear on a page that has "(disambiguation)" in its title – in that case use {{tl|R to disambiguation page}} ''instead''.
+  |all category=Redirects from ambiguous terms
+  |printworthy={{#ifeq:{{{1}}}|printworthy|yes|no}}
+}}<includeonly>{{#ifeq:{{#invoke:redirect|isRedirect|{{TALKPAGENAME}}}}|yes|{{#ifeq:{{PAGENAME:{{#invoke:redirect|main|{{TALKPAGENAME}}}}}}|{{PAGENAME:{{#invoke:redirect|main|{{FULLPAGENAME}}}}}}||[[Category:Unsynchronized ambiguous term talk page redirects]]}}}}</includeonly><noinclude>
+<!-- Place categories on /doc subpage; interwikis go to Wikidata. -->
+{{Documentation}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

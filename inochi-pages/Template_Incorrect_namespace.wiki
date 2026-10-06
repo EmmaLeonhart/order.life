@@ -1,0 +1,13 @@
+<includeonly>{{#ifeq:{{NAMESPACE}}|Template||{{#ifeq:{{SUBPAGENAME}}|sandbox||{{#ifeq:{{SUBPAGENAME}}|testcases||{{#ifeq:{{FULLPAGENAME}}|Wikipedia:Sandbox||{{#ifeq:{{FULLPAGENAME}}|Wikipedia:Template index/Redirect pages|| </includeonly>{{Mbox
+| type = content
+| image = [[File:Ambox warning orange.svg|50px|link=|alt=]]
+| text = {{Error|This template should only be transcluded in the ''{{{1}}}'' namespace(s).}}
+}}<includeonly>{{Category handler
+|all=[[Category:Pages with templates in the wrong namespace]]
+|nocat={{{nocat|}}}
+|category2={{{category|¬}}}
+}}}}}}}}}}}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

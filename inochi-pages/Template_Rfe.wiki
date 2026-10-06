@@ -1,0 +1,20 @@
+{{check deprecated lang param usage|lang={{{lang|}}}|<!--
+
+-->{{rfe/dowork<!--
+-->|1={{#if:{{{lang|}}}|{{{lang|}}}|{{{1|}}}}}<!--
+-->|2={{#if:{{{lang|}}}|{{{1|}}}|{{{2|}}}}}<!--
+-->|box={{or else|{{{box|}}}|{{#ifexpr:{{#invoke:string|len|{{#if:{{{lang|}}}|{{{1|}}}|{{{2|}}}}}}} >= 100|yes|no}}}}<!--
+-->|y={{{y|}}}<!--
+-->|m={{{m|}}}<!--
+-->|fragment={{{fragment|{{{section|}}}}}}<!--
+-->|noes={{{noes|}}}<!--
+-->|nocap={{{nocap|}}}<!--
+-->|nocat={{{nocat|}}}<!--
+-->|sort={{{sort|}}}<!--
+-->}}<!--
+
+-->}}<!--
+
+--><noinclude>{{documentation}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

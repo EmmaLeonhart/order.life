@@ -1,0 +1,284 @@
+POINT_IN_TIME_PID = "P585"
+YT_CHAN_ID_PID= "P2397"
+SUB_COUNT_PID = "P8687"
+
+local p = {} 
+
+-- taken from https://en.wikipedia.org/wiki/Module:Wd
+function parseDate(dateStr, precision)
+	precision = precision or "d"
+
+	local i, j, index, ptr
+	local parts = {nil, nil, nil}
+
+	if dateStr == nil then
+		return parts[1], parts[2], parts[3]  -- year, month, day
+	end
+
+	-- 'T' for snak values, '/' for outputs with '/Julian' attached
+	i, j = dateStr:find("[T/]")
+
+	if i then
+		dateStr = dateStr:sub(1, i-1)
+	end
+
+	local from = 1
+
+	if dateStr:sub(1,1) == "-" then
+		-- this is a negative number, look further ahead
+		from = 2
+	end
+
+	index = 1
+	ptr = 1
+
+	i, j = dateStr:find("-", from)
+
+	if i then
+		-- year
+		parts[index] = tonumber(mw.ustring.gsub(dateStr:sub(ptr, i-1), "^%+(.+)$", "%1"), 10)  -- remove '+' sign (explicitly give base 10 to prevent error)
+
+		if parts[index] == -0 then
+			parts[index] = tonumber("0")  -- for some reason, 'parts[index] = 0' may actually store '-0', so parse from string instead
+		end
+
+		if precision == "y" then
+			-- we're done
+			return parts[1], parts[2], parts[3]  -- year, month, day
+		end
+
+		index = index + 1
+		ptr = i + 1
+
+		i, j = dateStr:find("-", ptr)
+
+		if i then
+			-- month
+			parts[index] = tonumber(dateStr:sub(ptr, i-1), 10)
+
+			if precision == "m" then
+				-- we're done
+				return parts[1], parts[2], parts[3]  -- year, month, day
+			end
+
+			index = index + 1
+			ptr = i + 1
+		end
+	end
+
+	if dateStr:sub(ptr) ~= "" then
+		-- day if we have month, month if we have year, or year
+		parts[index] = tonumber(dateStr:sub(ptr), 10)
+	end
+
+	return parts[1], parts[2], parts[3]  -- year, month, day
+end
+
+-- taken from https://en.wikipedia.org/wiki/Module:Wd
+local function datePrecedesDate(aY, aM, aD, bY, bM, bD)
+	if aY == nil or bY == nil then
+		return nil
+	end
+	aM = aM or 1
+	aD = aD or 1
+	bM = bM or 1
+	bD = bD or 1
+
+	if aY < bY then
+		return true
+	elseif aY > bY then
+		return false
+	elseif aM < bM then
+		return true
+	elseif aM > bM then
+		return false
+	elseif aD < bD then
+		return true
+	end
+
+	return false
+end
+
+function getClaimDate(claim)
+	if claim['qualifiers'] and claim['qualifiers'][POINT_IN_TIME_PID] then 
+		local pointsInTime = claim['qualifiers'][POINT_IN_TIME_PID]
+		if #pointsInTime ~= 1 then
+			-- be conservative in what we accept
+			error("Encountered a statement with zero or multiple point in time (P85) qualifiers. Please add or remove point in time information so each statement has exactly one")
+		end
+		local pointInTime = pointsInTime[1]
+		if pointInTime and 
+		   pointInTime['datavalue'] and 
+		   pointInTime['datavalue']['value'] and 
+		   pointInTime['datavalue']['value']['time'] 
+		then
+			return parseDate(pointInTime['datavalue']['value']['time'])
+		end
+	end
+	return nil
+end
+
+-- for a given list of statements find the newest one with a matching qual
+function newestMatchingStatement(statements, qual, targetQualValue)
+	local newestStatement = nil
+	local newestStatementYr = nil
+	local newestStatementMo = nil
+	local newestStatementDay = nil
+    for k, v in pairs(statements) do
+    	if v['rank'] ~= "deprecated" and v['qualifiers'] and v['qualifiers'][qual] then
+    		local quals = v['qualifiers'][qual]
+    		-- should only have one instance of the qualifier on a statement
+    		if #quals == 1 then
+    			local qual = quals[1]
+    			if qual['datavalue'] and qual['datavalue']['value'] then
+    				local qualValue = qual['datavalue']['value']
+    				if qualValue == targetQualValue then
+	    				local targetYr, targetMo, targetDay = getClaimDate(v)
+	    				if targetYr then
+	    					local older = datePrecedesDate(targetYr, targetMo, targetDay, newestStatementYr, newestStatementMo, newestStatementDay)
+	    					if older == nil or not older then
+	    						newestStatementYr, newestStatementMo, newestStatementDay = targetYr, targetMo, targetDay
+	    						newestStatement = v
+	    					end
+	    				end
+    				end
+    			end
+    		end
+    	end
+    end
+	return newestStatement
+end
+
+-- for a given property and qualifier pair returns the newest statement that matches
+function newestMatching(e, prop, qual, targetQualValue)
+	-- first check the best statements
+	local statements = e:getBestStatements(prop)
+	local newestStatement = newestMatchingStatement(statements, qual, targetQualValue)
+	if newestStatement then
+		return newestStatement
+	end
+	-- try again with all statements if nothing so far
+	statements = e:getAllStatements(prop)
+	newestStatement = newestMatchingStatement(statements, qual, targetQualValue)
+	if newestStatement then
+		return newestStatement
+	end
+	return nil
+end
+
+function getEntity ( frame )
+	local qid = nil
+	if frame.args then
+		qid = frame.args["qid"]
+	end
+	if not qid then
+		qid = mw.wikibase.getEntityIdForCurrentPage()
+	end
+	if not qid then
+		local e = nil
+		return e
+	end
+	local e = mw.wikibase.getEntity(qid)
+	assert(e, "No such item found: " .. qid)
+	return e
+end
+
+-- find the channel ID we are going to be getting the sub counts for
+function getBestYtChanId(e) 
+	local chanIds = e:getBestStatements(YT_CHAN_ID_PID)
+	if #chanIds == 1 then
+		local chan = chanIds[1]
+		if chan and 
+		   chan["mainsnak"] and 
+		   chan["mainsnak"]["datavalue"] and 
+		   chan["mainsnak"]["datavalue"]["value"] 
+		then
+			return chan["mainsnak"]["datavalue"]["value"]
+		end
+	end
+	return nil
+end
+
+function returnError(frame, eMessage)
+	return frame:expandTemplate{ title = 'error', args = { eMessage } } .. "[[Category:Pages with YouTubeSubscribers module errors]]"
+end
+
+-- the date of the current YT subscriber count
+function p.date( frame )
+	local e = getEntity(frame)
+	assert(e, "No qid found for page. Please make a Wikidata item for this article")
+	local chanId = getBestYtChanId(e)
+	assert(chanId, "Could not find a single best YouTube channel ID for this item. Add a YouTube channel ID or set the rank of one channel ID to be preferred")
+	local s = newestMatching(e, SUB_COUNT_PID, YT_CHAN_ID_PID, chanId)
+	if s then
+		local yt_year, yt_month, yt_day = getClaimDate(s)
+		if not yt_year then
+			return nil
+		end
+		local dateString = yt_year .. "|"
+		-- construct YYYY|mm|dd date string
+		if yt_month and yt_month ~= 0 then
+			dateString = dateString .. yt_month .. "|"
+			-- truncate the day of month
+			--if yt_day and yt_day ~= 0 then
+			--	dateString = dateString .. yt_day
+			--end
+		end
+		return frame:expandTemplate{title="Format date", args = {yt_year, yt_month, yd_day}}
+	end
+	error("Could not find a date for YouTube subscriber information. Is there a social media followers statement (P8687) qualified with good values for P585 and P2397?")
+end
+
+function p.dateNice( frame )
+	local status, obj = pcall(p.date, frame)
+	if status then
+		return obj
+	else 
+		return returnError(frame, obj)
+	end
+end
+
+-- the most up to date number of subscribers
+function p.subCount( frame )
+	local subCount = nil
+	local e = getEntity(frame)
+	if not e then
+		subCount = -424
+    	return tonumber(subCount)
+	end
+	local chanId = getBestYtChanId(e)
+	if chanId then
+		local s = newestMatching(e, SUB_COUNT_PID, YT_CHAN_ID_PID, chanId)
+		if s and 
+		   s["mainsnak"] and 
+		   s['mainsnak']["datavalue"] and 
+		   s['mainsnak']["datavalue"]["value"] and 
+		   s['mainsnak']["datavalue"]['value']['amount']
+		then
+			subCount = s['mainsnak']["datavalue"]['value']['amount']
+		end
+	else 
+		subCount = -404
+	end
+    if subCount then
+    	return tonumber(subCount)
+    else
+		subCount = -412
+    	return tonumber(subCount)
+    end
+end
+
+function p.subCountNice( frame )
+	local status, obj = pcall(p.subCount, frame)
+	if status then
+		if obj >= 0 then
+			return frame:expandTemplate{title="Format price", args = {obj}}
+		else
+			return obj
+		end
+	else 
+		return returnError(frame, obj)
+	end
+end
+
+return p

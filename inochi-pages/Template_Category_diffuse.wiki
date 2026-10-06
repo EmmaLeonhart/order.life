@@ -1,0 +1,15 @@
+{{Cmbox
+| type = notice
+| style = margin-bottom:0.5em;
+| image = <div style="padding:2px 0 4px;">[[File:Sub-arrows.svg|40px|alt=|link=]]</div>
+| text = Pages in this category '''should be moved to subcategories where applicable.''' This category may require frequent maintenance to avoid becoming too large. It should directly contain very few, if any, pages and should mainly contain subcategories.
+}} <includeonly>{{#ifeq:{{lc:{{{nocat|false}}}}}|false
+                 | {{Single namespace|category|{{{category|[[Category:Categories requiring diffusion]]}}}}}
+                 | <!--(else categorization suppressed)-->
+                }}<!--
+--></includeonly><noinclude>
+{{Documentation}}
+<!-- Add categories to the /doc subpage, interwikis to Wikidata, not here -->
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

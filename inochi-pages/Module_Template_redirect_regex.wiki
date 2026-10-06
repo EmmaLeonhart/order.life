@@ -1,0 +1,30 @@
+local p = {}
+
+--returns a table of regular expressions, sorted by descending popularity, for a parent template and all redirects to it as of a certain date, or nil
+--regex for the 1st pipe and surrounding whitespace are purposefully omitted to give the calling modules more flexibility
+function p.main( template )
+
+	--expand the following table as-needed, following the same format
+	local tCanonical_templates = {
+		['Category redirect'] = { 
+			--the following 11 pages (6 condensed) redirect to [[Template:Category redirect]], as of 2022/9:
+			'{{ *[Cc]ate?g?o?r?y?[ _]*[rR]edirect',	--parent+505+312+243+1 transclusions
+			'{{ *[Cc]atr',							--21
+			'{{ *[Cc]at[ _]*[rR]edir',				--5+3
+			'{{ *[Cc]at[ _]*[rR]ed',				--3+2
+			'{{ *[Cc]at[ _]*[mM]ove',				--1
+			'{{ *[Cc]ategory[ _]*[mM]ove',			--0
+		},
+		
+		['Taxonbar'] = { 
+			--the following 6 pages (3 condensed) redirect to [[Template:Taxonbar]], as of 2023/8:
+			'{{ *[Tt]axon?[ _-]?[bB]ar',		--parent+50+11+2+2 transclusions
+			'{{ *[Tt]axon[Ii]ds',				--45
+			'{{ *[Tt]axon[ _]*[iI]dentifiers',	--1
+		},
+	}
+	
+	return tCanonical_templates[template] or nil
+end
+
+return p

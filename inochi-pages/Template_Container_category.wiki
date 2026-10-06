@@ -1,0 +1,9 @@
+{{Cmbox
+| type = notice
+| text = This is a '''[[:Category:Container categories|container category]]'''. Due to its scope, it should contain ''only'' [[Wikipedia:Categorization#Subcategorization|subcategories]].
+}}<includeonly>{{#ifeq: {{lc:{{{nocat|false}}}}}|false|{{Single namespace|category|{{{category|[[Category:Container categories]]}}}}}|<!-- Category suppressed -->}}</includeonly><noinclude>
+{{Documentation}}
+<!-- Please add metadata to the <includeonly> section at the bottom of the /doc sub-page. -->
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

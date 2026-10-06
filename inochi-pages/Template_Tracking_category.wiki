@@ -1,0 +1,22 @@
+{{Cmbox
+| type  = notice
+| image = [[File:Category.svg|80px|alt=|link=]]
+| text  =<div style="text-align: center; font-size: larger; font-weight: bold; width: 87%; margin: 0px auto 0px 0px">This is a [[:Category:Tracking categories|tracking category]].</div>''It is used to build and maintain lists of pages&mdash;primarily for the sake of the lists themselves and their use in article and category maintenance. It is not part of the '''[[Wikipedia:Categorization|encyclopedia's categorization scheme]]'''.''{{#if:{{{text|}}}|<br />{{{text|}}}}}__HIDDENCAT__ 
+{{Hidden begin|title=More information:|style=width:95%;margin:auto;font-size:100%}}
+* This category is '''[[Wikipedia:Categorization#Hiding categories|hidden]]''' on its [[:Category:Hidden categories|member pages]]&mdash;unless the corresponding [[Special:Preferences#mw-prefsection-rendering|user preference]] (Appearance → Show hidden categories) is set.
+* These categories are used to track, build and organize lists of pages needing "attention ''en masse''" (for example, pages using deprecated syntax), or that may need to be edited at someone's earliest convenience.
+* These categories also serve to aggregate members of several lists or sub-categories into a larger, more efficient list (''discriminated by classifications'').
+* Typically, tracking categories are automatically populated by templates invoked in pages or by the MediaWiki software (see [[Special:TrackingCategories]] for an overview of the latter).
+{{Hidden end}}}}
+{{#ifeq:{{{container}}}|yes|{{Cmbox
+| type = notice
+| text = This is a '''[[:Category:Container categories|container category]]'''. Due to its scope, it should contain ''only'' '''[[Wikipedia:Categorization#Subcategorization|subcategories]]'''. <includeonly>{{Category other|[[Category:Container categories]]}}</includeonly>}}{{#if:{{{1|}}}|<p>{{{1}}}</p>|}}
+}}
+{{Possibly empty category}}
+<includeonly>{{Single namespace|category|{{#ifeq:{{{category|}}}|no||{{{category|[[Category:Tracking categories]]
+[[Category:qq]][[sn:{{subst:PAGENAME}}]][[Category:qq]]
+ __NOGALLERY__}}}}}}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

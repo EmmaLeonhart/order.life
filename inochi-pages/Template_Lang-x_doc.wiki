@@ -1,0 +1,115 @@
+{{#ifeq:{{#invoke:High-use|num|x}}|many||{{High-use}}}}
+{{COinS safe|n}}
+{{No subst}}
+__NOEDITSECTION__{{Documentation subpage|multiple templates located in [[:Category:Lang-x templates]]}}
+<noinclude>{{Lua|Module:Lang/documentor tool}}</noinclude>
+{{#if:{{#invoke:Lang/documentor tool|uses_module|template={{ROOTPAGENAME}}}}|{{Lua|Module:Lang}}}}
+
+== Usage ==
+{{#invoke:Lang/documentor tool|lang_xx_settings|template={{ROOTPAGENAME}}}}
+The language template {{Tlf|'''{{lcfirst:{{BASEPAGENAME}}}}'''|nolink=yes}} identifies {{#ifeq:{{FULLPAGENAME}}|Template:Lang-x/doc|foreign language|{{#invoke:Lang|name_from_tag|link=yes|{{#invoke:String|sub|{{ROOTPAGENAME}}|6}}}}}} text. The term or phrase is the only mandatory parameter. The text is formatted according to recommendations in {{section link|Wikipedia:Manual of Style/Text formatting#Foreign terms}}; italics for languages that use the [[Latin alphabet]]<!-- Not the same thing as Romance languages and Latinate languages-->, normal for others.
+
+The template should generally be placed after the English translation of the foreign term or phrase.
+
+The parameter <!--Not implemented in all templates yet! {{Para|link|no}} (or {{Para|links|no}})--> {{Para|links|no}} prevents the language name from being linked.
+
+The parameter {{Para|translit}} allows for a [[romanization]] to be identified. The templates that have this parameter are <span class="plainlinks">[https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Template:Language_with_name_and_transliteration&namespace=10&limit=500&hidelinks=1 listed here]</span>. (This parameter is not supported by <code>lang-{{var|x}}</code> templates for languages that are already written in Latin script.)
+
+The parameter {{Para|lit}} enables a literal translation (in English) to be given. It [[Template talk:Language with name#Suggestion: An optional literal translation|is being rolled out]] to these templates and so may be available for {{Tlf|{{lcfirst:{{BASEPAGENAME}}}}|nolink=yes}}.
+{{#if:{{#invoke:Lang/documentor tool|uses_module|template={{ROOTPAGENAME}}}}|
+== Parameters ==
+{{#lst:Template:Lang-x/doc/parameters|lang_xx_parameters}}
+}}
+== Examples ==
+The following examples show translations from German.
+
+'''Edit'''
+* Weimar is located in the federal state of Thuringia (<code><nowiki>{{Lang-de|Thüringen}}</nowiki></code>).
+* The Seafarers of Catan (<code><nowiki>{{Lang-de|Die Seefahrer von Catan}}</nowiki></code>) is an expansion of the board game ''[[The Settlers of Catan]]''.
+* Albert the Bear (<code><nowiki>{{Lang-de|Albrecht der Bär|links=no}}</nowiki></code>)
+*''All Quiet on the Western Front'' (<code><nowiki>{{Lang-de|Im Westen nichts Neues|lit=In the West Nothing New}}</nowiki></code>) is a novel by [[Erich Maria Remarque]].
+
+'''Resulting text'''
+* Weimar is located in the federal state of Thuringia ({{Lang-de|Thüringen}}).
+* The Seafarers of Catan ({{Lang-de|Die Seefahrer von Catan}}) is an expansion of the board game ''[[The Settlers of Catan]]''.
+* Albert the Bear ({{Lang-de|Albrecht der Bär|links=no}})
+* ''All Quiet on the Western Front'' ({{Lang-de|Im Westen nichts Neues|lit=In the West Nothing New}}) is a novel by [[Erich Maria Remarque]].
+{{#if:{{{category|}}}{{{tracking-category|}}}|
+== Category ==
+{{#if:{{{category|}}}|Articles using this template are automatically placed in {{Category link with count|{{{category}}}}}.|}}
+{{#if:{{{tracking-category|}}}|
+=== Tracking categories ===
+* {{Category link with count|{{{tracking-category}}}}}
+|}}<!-- /tracking-category -->
+|}}<!-- /category OR tracking-category
+ -->{{#if:{{#invoke:Lang/documentor tool|uses_module|template={{ROOTPAGENAME}}}}||
+== Supporting templates ==<!-- render 'Supporting template' section only for those {{tld|lang-??}} templates that do not use [[Module:lang]] -->
+This template may use one of the following templates:
+* {{Tl|Language with name}}
+All of the above use {{Tl|Lang}}}}
+== TemplateData ==
+{{TemplateData header}}
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "Text",
+			"description": "The foreign text to display.",
+			"type": "string",
+			"required": true
+		},
+		"links": {
+			"label": "Display link",
+			"description": "Set to 'no' to disable the link to the article's language.",
+			"type": "boolean",
+			"aliases": [
+				"link"
+			]
+		},
+		"lit": {
+			"label": "Literal translation",
+			"description": "The literal translation of the foreign text.",
+			"type": "string",
+			"aliases": [
+				"translation"
+			]
+		},
+		"translit": {
+			"label": "Transliteration",
+			"description": "The transliteration of the foreign text, for languages that do not use the Latin alphabet. This field is ignored for languages that do use the Latin alphabet.",
+			"type": "string"
+		},
+		"label": {
+			"label": "Language label",
+			"description": "If 'none', suppresses language link and label. Other options may be available depending on the language.",
+			"example": "none",
+			"type": "line"
+		}
+	},
+	"description": "Indicates to readers the original form of a term or phrase in a foreign language.",
+	"paramOrder": [
+		"1",
+		"links",
+		"lit",
+		"translit",
+		"label"
+	]
+}
+</templatedata>
+
+== See also ==
+{{#invoke:Lang/documentor tool|see_also|{{{see-also|}}}}}
+* {{Tl|Lang}}
+* {{Tl|Language with name/for}}
+* [[List of ISO 639-1 codes]] (language codes)
+* {{tl|IPA}}<includeonly>
+{{Sandbox other||<!-- CATEGORIES (which are not already covered in the individual lang-x templates) HERE, THANKS -->
+{{#ifeq:0
+|{{#ifexist:ISO 639:{{#invoke:string|sub|{{BASEPAGENAME}}|6}}|0|1}}
+|[[Category:Lang-x templates|{{#invoke:String|match|{{FULLPAGENAME}}|Template:Lang%-([a-z%-]+)$|nomatch=}}]]
+|{{#if:{{#invoke:Lang/documentor tool|uses_module|template={{ROOTPAGENAME}}}}|[[Category:Lang-x templates|{{#invoke:String|match|{{FULLPAGENAME}}|Template:Lang%-([a-z%-]+)$|nomatch=}}]]|[[Category:Lang-x templates with other than ISO 639]]}}
+}}
+}}</includeonly><noinclude>
+{{sandbox other||[[Category:Documentation shared content templates]]}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

@@ -1,0 +1,45 @@
+{{#switch: {{lc:{{{1|}}}}}
+| egyptian = background-color: #decd87
+| meitei = background-color:#00FF00
+| greek = background-color:#cef2e0
+| hindu = background-color:#FFC569
+| irish = background-color: #90db90
+| norse = background-color: #d6dbbe
+| jain = background-color:#F5DEB3
+| slavic = color:#FFFFFF; background-color:#CD0000
+| turkic = color:#FFFFFF; background-color: #00ABC2
+| roman = background-color: #F0ACAC
+| etruscan = background-color: #f7e3cd
+| mesopotamian = color:#FFFFFF; background-color:#228b22
+| canaanite= color:#FFFFFF; background-color: #800080
+| muisca = background-color: #FFD500
+| arabian = background-color: #cdc8b8
+| philippine = background-color: #F6E396
+| hurrian = background-color: #4b539c
+| hittite = background-color: #021af2
+| elamite = background-color: #159e4f
+| ugaritic = background-color: #00817d
+| eblaite = background-color: #008113
+| polynesian = background-color: #AFEEEE
+| hawaiian = background-color: #AFEEEE
+| japanese = background-color:  #b0000f; color: #FFF;
+| shinto = background-color:#A12F25; color: #FFF; 
+| aztec = color:#FFFFFF; background-color: #00a86b
+| Aztec = color:#FFFFFF; background-color: #00a86b
+| maya = color:#FFFFFF; background-color: #50C578
+| mayan = color:#FFFFFF; background-color: #50C578
+| Indo-european = background-color:#006400; 
+| indo-european = background-color:#006400; 
+| indo european = background-color:#006400; 
+| indo European = background-color:#006400; 
+}}<noinclude>
+{{documentation|content=
+This sub-template is used to determine the section coloring in {{t|Infobox deity}}.
+
+A list of the colors can be found in the corresponding [[Template:Infobox deity/doc|documentation]].
+
+[[Category:Color templates]]
+}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

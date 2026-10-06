@@ -1,0 +1,69 @@
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <title source="title2"/>
+  <image source="image1">
+    <caption source="caption1"/>
+  </image>
+  <group>
+    <header>Basin relationships</header>
+    <data source="basin">
+      <label>Basin</label>
+    </data>
+    <data source="parent">
+      <label>Parent</label>
+    </data>
+    <data source="children">
+      <label>Children</label>
+    </data>
+  </group>
+  <group>
+    <header>Worship</header>
+    <data source="epithets">
+      <label>Epithets</label>
+    </data>
+    <data source="aspects">
+      <label>Aspects</label>
+    </data>
+    <data source="cult_centers">
+      <label>Cult centers </label>
+    </data>
+  </group>
+</infobox>
+<noinclude>
+Example usage:
+<pre>
+{{Nymphs
+
+  | title1=Example
+
+  | title2=Example
+
+  | image1=Example
+
+  | caption1=Example
+
+  | basin=Example
+
+  | parent=Example
+
+  | children=Example
+
+  | epithets=Example
+
+  | aspects=Example
+
+  | cult_centers=Example
+
+}}
+</pre>
+<templatedata>
+{"params":{"title1":{"suggested":true},"title2":{"suggested":true},"image1":{"suggested":true},"caption1":{"suggested":true},"basin":{"suggested":true},"parent":{"suggested":true},"children":{"suggested":true},"epithets":{"suggested":true},"aspects":{"suggested":true},"cult_centers":{"suggested":true}},"sets":[],"maps":{}}
+</templatedata>
+</noinclude>
+
+[[Category:Basin Guardians]]
+[[sn:Template:Nymphs]]
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

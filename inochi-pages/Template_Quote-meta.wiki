@@ -1,0 +1,12 @@
+<noinclude># {{n-g|A word that means something}}.
+</noinclude>{{{indent1|#*}}} <div class="citation-whole"><span class="cited-source">{{{1|{{{source<includeonly>|</includeonly>}}}}}}<!--
+--></span><dl><dd><!--
+-->{{#if:{{{2|{{{passage<includeonly>|</includeonly>}}}}}}{{{3|{{{translation|}}}}}}{{{4|{{{transliteration|}}}}}}<!--
+  if passage or translation or transliteration is present, call quote-meta/quote to display actual quote
+  -->|{{quote-meta/quote|{{#invoke:usex/templates|first_lang|{{{lang|en}}}}}|{{{2|{{{passage<includeonly>|</includeonly>}}}}}}|{{{3|{{{translation<includeonly>|</includeonly>}}}}}}|tr={{{4|{{{transliteration<includeonly>|</includeonly>}}}}}}|ts={{{transcription|}}}|brackets={{#ifeq:{{{brackets|}}}|on|on|}}|subst={{{subst|}}}|lit={{{lit|}}}|nocat=1|footer={{{footer|}}}}}<!--
+  else display nothing
+  -->|<!--
+-->}}<!--
+--></dd></dl></div><noinclude>{{documentation}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

@@ -1,0 +1,10 @@
+{{Script/doc/id-unk/core
+|input1={{{input1|<noinclude>Test</noinclude>}}}
+|alpha4={{Script/doc/id-unk/name-to-alpha4|input1={{{input1|<noinclude>Test</noinclude>}}}}}
+|is-alpha4={{#invoke:String|match|s=_{{Script/doc/id-unk/name-to-alpha4|input1={{{input1|<noinclude>Test</noinclude>}}}}}|pattern=^_[A-Z][a-z][a-z][a-z]$|plain=false |nomatch=}}<!-- is-alpha4=empty/blank when false -->
+|is-in-unicode={{ISO 15924 alias|alpha4={{Script/doc/id-unk/name-to-alpha4|input1={{{input1|<noinclude>Test</noinclude>}}}}}|default=}}<!--is-in-unicode=Unicode Alias ID when true; blank when false -->
+}}<!--
+
+--><noinclude>{{documentation}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

@@ -1,0 +1,70 @@
+local p = {}
+local shiftOf = {Mon=0, Tue=1, Wed=2, Thu=3, Fri=4, Sat=5, Sun=6}
+local months = {
+  {name='Sagittarius', offset=0},
+  {name='Capricorn',   offset=28},
+  {name='Aquarius',    offset=56},
+  {name='Pisces',      offset=84},
+  {name='Aries',       offset=112},
+  {name='Taurus',      offset=140},
+  {name='Gemini',      offset=168},
+  {name='Cancer',      offset=196},
+  {name='Leo',         offset=224},
+  {name='Virgo',       offset=252},
+  {name='Libra',       offset=280},
+  {name='Scorpio',     offset=308},
+  {name='Ophiuchus',   offset=336},
+}
+local function gCell(m,d) return string.format('[[%s %d|%d]]',m,d,d) end
+local function dateCell(ts)
+  local m=os.date('!%B',ts);local mb=os.date('!%b',ts);local d=tonumber(os.date('!%d',ts))
+  return string.format('[[:en:%s %d|%s %d]]',m,d,mb,d)
+end
+function p.main(frame)
+  local a=frame:getParent().args
+  local start=(a.start or 'Mon'):gsub('^%l',string.upper)
+  local leap=(a.leap or 'no')
+  local sh=shiftOf[start] or 0
+  local base=(leap=='yes')and 2000 or 2001
+  local jan1=os.time{year=base,month=1,day=1,hour=12}
+  local out={}
+  table.insert(out,'{| class="wikitable" style="table-layout:fixed;width:100%;font-size:90%;"')
+  table.insert(out,string.format('|+ %s year starting on %s',leap=='yes' and 'Leap' or'Common',start))
+  table.insert(out,'|-')
+  table.insert(out,'! style="width:12%;" | {{v|t|e|template=Gaian_calendar}}')
+  table.insert(out,'! colspan="14" | [[Gaian calendar]]')
+  table.insert(out,'|-')
+  table.insert(out,'! style="width:12%;" | Days')
+  table.insert(out,'! colspan="14" |')
+  table.insert(out,'|-')
+  for _,m in ipairs(months) do
+    local row1={'! rowspan="4" | [['..m.name..']]'}
+    for d=1,14 do table.insert(row1,gCell(m.name,d)) end
+    table.insert(out,table.concat(row1,' || '))
+    table.insert(out,'|-')
+    -- row2 greg 0-13
+    local gregs={}
+    for i=0,13 do
+      local ts=jan1+(m.offset+sh+i)*86400
+      table.insert(gregs,dateCell(ts))
+    end
+    table.insert(out,'| '..table.concat(gregs,' || '))
+    table.insert(out,'|-')
+    -- row3 gaian 15-28
+    local row3={}
+    for d=15,28 do table.insert(row3,gCell(m.name,d)) end
+    table.insert(out,'| '..table.concat(row3,' || '))
+    table.insert(out,'|-')
+    -- row4 greg 14-27
+    local gregs2={}
+    for i=14,27 do
+      local ts=jan1+(m.offset+sh+i)*86400
+      table.insert(gregs2,dateCell(ts))
+    end
+    table.insert(out,'| '..table.concat(gregs2,' || '))
+    table.insert(out,'|-')
+  end
+  table.insert(out,'|}')
+  return table.concat(out,'\n')
+end
+return p

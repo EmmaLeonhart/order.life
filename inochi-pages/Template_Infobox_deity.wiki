@@ -1,0 +1,238 @@
+{{Infobox
+
+| abovestyle = {{Infobox deity/color|{{{type}}}}}
+| headerstyle = {{Infobox deity/color|{{{type}}}}}
+
+| above = {{{name|{{{Name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}}}}
+
+| subheader = {{#if:{{{deity_of|{{{god_of|{{{alusi_of|}}}}}}}}}|<div style="font-size: 110%;">{{{deity_of|{{{god_of|{{{alusi_of|}}}}}}}}}</div> }} 
+| subheader2 = {{#if:{{{member_of|}}}|Member of {{{member_of}}}}}
+| decat = {{#if:{{{deity_of|}}}{{{god_of|}}}{{{alusi_of|}}}|yes|no}} <!-- avoid populating "no data rows" -->
+
+| image = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|upright={{{image_upright|}}}|alt={{{alt|}}}|suppressplaceholder=yes}}
+| caption = {{{caption|}}}
+
+| label1 = Other names
+| data1 = {{{other_names|}}}
+
+| label2 = Name in [[Egyptian hieroglyphs|hieroglyphs]]
+| data2 = {{{hiero|{{{hiro|{{{Hiro|}}}}}}}}}
+
+| label3 = Name in [[Old Norse]]
+| data3 = {{{old_norse|{{{Old_Norse|}}}}}}
+
+| label4 = [[Devanagari]]
+| data4 = {{{devanagari|{{{Devanagari|}}}}}}
+
+| label5 = [[Sanskrit]] transliteration
+| data5 = {{{sanskrit_transliteration|{{{Sanskrit_transliteration|}}}}}}
+
+| label6 = [[Tamil script]]
+| data6 = {{{tamil_script|{{{Tamil_script|}}}}}}
+
+| label7 = [[Tamil language|Tamil]] transliteration
+| data7 = {{{tamil_transliteration|{{{Tamil_transliteration|}}}}}}
+
+| label8 = [[Kannada script]]
+| data8 = {{{kannada_script|{{{Kannada_script|}}}}}}
+
+| label9 = [[Kannada language|Kannada]] transliteration
+| data9 = {{{kannada_transliteration|{{{Kannada_transliteration|}}}}}}
+
+| label10 = {{{script_name}}}
+| data10 = {{#if:{{{script_name|}}}|{{{script|}}} }}
+
+| label11 = Venerated in
+| data11 = {{{venerated_in|}}}
+
+| label12 = {{#if:{{{associate|}}}|Associate|Affiliation}}
+| data12 = {{if empty| {{{associate|}}} | {{{affiliation|}}} }}
+
+| label13 = Major cult {{#if:{{{cult_centre|}}}|centre|center}}
+| data13 = {{{cult_centre|{{{cult_center|}}}}}}
+
+| label14 = Predecessor
+| data14 = {{{predecessor|}}}
+
+| label15 = Successor
+| data15 = {{{successor|}}}
+
+| label16 = {{#if:{{{abode|}}}|Abode|Abodes}}
+| data16 = {{if empty| {{{abode|}}} | {{{abodes|}}} }}
+
+| label17 = {{#if:{{{planet|}}}|[[Classical planet|Planet]] | World}}
+| data17 = {{if empty| {{{planet|}}} | {{{world|}}} }}
+
+| label18 = [[Mantra]]
+| data18 = {{{mantra|}}}
+
+| label19 = {{#if:{{{weapon|}}}|Weapon|Weapons}}
+| data19 = {{if empty| {{{weapon|}}} | {{{weapons|}}} }}
+
+| label20 = Army
+| data20 = {{{army|}}}
+
+| label21 = Battles
+| data21 = {{{battles|{{{Battles|}}}}}}
+
+| label22 = {{#if:{{{artefacts|}}}|Artefacts|Artifacts}}
+| data22 = {{if empty| {{{artefacts|}}} | {{{artifacts|}}} }}
+
+| label23 = Animals
+| data23 = {{{animals|}}}
+
+| label24 = {{#switch:{{lc:{{{type|}}}}}
+ | hindu = [[Hindu iconography#Symbols associated with individual devas|{{#if:{{{symbol|}}}|Symbol|Symbols}}]]
+ | #default = {{#if:{{{symbol|}}}|Symbol|Symbols}}
+ }}
+| data24 = {{if empty| {{{symbol|}}} | {{{symbols|}}} }}
+
+| label25 = Adherents
+| data25 = {{{adherents|}}}
+
+| label26 = Height
+| data26 = {{{height|}}}
+
+| label27 = Age
+| data27 = {{{age|}}}
+
+| label28 = Tree
+| data28 = {{{tree|}}}
+
+| label29 = {{#switch:{{lc:{{{type|}}}}}
+ | alusi = [[Igbo calendar|Day]]
+ | #default = Day
+ }}
+| data29 = {{{day|}}}
+
+| label30 = {{#if:{{{complexion|}}}|Complexion|{{#if:{{{colour|}}}|Colour|Color}}}}
+| data30 = {{if empty| {{{complexion|}}} | {{{colour|}}} | {{{color|}}} }}
+
+| label31 = Number
+| data31 = {{{number|}}}
+
+| label32 = {{#switch:{{lc:{{{type|}}}}}
+ | hindu = [[Vahana|Mount]]
+ | #default = Mount
+ }}
+| data32 = {{{mount|}}}
+
+| label33 = {{#switch:{{lc:{{{type|}}}}}
+ | hindu = [[Hindu texts|Texts]]
+ | #default = Texts
+ }}
+| data33 = {{{texts|}}}
+
+| label34 = Gender
+| data34 = {{{gender|}}}
+
+| label35 = Region
+| data35 = {{{region|}}}
+
+| label36 = Ethnic group
+| data36 = {{{ethnic_group|}}}
+
+| label37 = {{#if:{{{temples|}}}|Temples|Temple}}
+| data37 = {{if empty|{{{temples|}}}|{{{temple|}}}}}
+
+| label38 = Festivals
+| data38 = {{{festivals|}}}
+
+| header39 = {{#if:{{{birth_name|}}}{{{avatar_birth|}}}{{{avatar_end|}}}{{{birth_date|}}}{{{birth_place|}}}{{{death_date|}}}{{{death_place|}}}{{{spouse|}}}{{{children|}}}{{{father|}}}{{{mother|}}}{{{siblings|}}}{{{dynasty|}}}|Personal information}}
+
+| label40 = Born
+| data40 = {{Br separated entries|1={{#if:{{{birth_name|{{{birthname|}}}}}}|<div style="display:inline;" class="nickname">{{{birth_name|{{{birthname|}}}}}}</div>}}|2={{{birth_date|}}}|3={{#if:{{{birth_place|}}}|<div style="display:inline;" class="birthplace">{{{birth_place|}}}</div>}}}}
+
+| label41 = Died
+| data41 = {{#if:{{{death_date|}}}{{{death_place|}}}
+ |{{Br separated entries|1={{{death_date|}}}|2={{#if:{{{death_place|}}}|<div style="display:inline;" class="deathplace">{{{death_place|}}}</div>}}}}
+ |{{Br separated entries|1={{{moksha_date|}}}|2={{#if:{{{moksha_place|}}}|<div style="display:inline;" class="deathplace">{{{moksha_place|}}}</div>}}}}
+ }}
+
+| label42 = Avatar birth
+| data42 = {{{avatar_birth|}}}
+
+| label43 = Avatar end
+| data43 = {{{avatar_end|}}}
+
+| label44 = Parents
+|  data44 = {{#if:{{{parents|}}}
+ |{{{parents|}}}
+ |{{unbulleted list
+    |1={{#if:{{{father|}}}|{{{father|}}} (father)}}
+    |2={{#if:{{{mother|}}}|{{{mother|}}} (mother)}}
+  }}
+ }}
+
+| label45 = Siblings
+| data45 = {{{siblings|}}}
+
+| label46 = {{#if:{{{consort|}}}|Consort|{{#if:{{{consorts|}}}|Consorts|Spouse}}}}
+| data46 = {{if empty| {{{consort|}}} | {{{consorts|}}} | {{{spouse|}}} }}
+
+| label47 = {{#if:{{{offspring|}}}|Offspring|Children}}
+| data47 = {{if empty|{{{offspring|}}} | {{{children|}}} }}
+
+| label48 = Dynasty
+| data48 = {{{dynasty|}}}
+
+| header49 = {{#if:{{{greek_equivalent|{{{Greek_equivalent|}}}}}}{{{roman_equivalent|{{{Roman_equivalent|}}}}}}{{{norse_equivalent|{{{Norse_equivalent|}}}}}}{{{etruscan_equivalent|{{{Etruscan_equivalent|}}}}}}{{{christian_equivalent|{{{Christian_equivalent|}}}}}}{{{slavic_equivalent|{{{Slavic_equivalent|}}}}}}{{{hinduism_equivalent|{{{Hinduism_equivalent|}}}}}}{{{canaanite_equivalent|{{{Canaanite_equivalent|}}}}}}{{{maya_equivalent|{{{Maya_equivalent|}}}}}}{{{aztec_equivalent|{{{Aztec_equivalent|}}}}}}{{{indo-european_equivalent|{{{Indo-european_equivalent|}}}}}}{{{equivalent1|}}}{{{equivalent2|}}}{{{equivalent3|}}}{{{equivalent4|}}}{{{equivalent5|}}}|Equivalents}}
+
+| label50 = Greek equivalent
+| data50 = {{{greek_equivalent|{{{Greek_equivalent|}}}}}}
+
+| label51 = Roman equivalent
+| data51 = {{{roman_equivalent|{{{Roman_equivalent|}}}}}}
+
+| label52 = Norse equivalent
+| data52 = {{{norse_equivalent|{{{Norse_equivalent|}}}}}}
+
+| label53 = Etruscan equivalent
+| data53 = {{{etruscan_equivalent|{{{Etruscan_equivalent|}}}}}}
+
+| label54 = Christian equivalent
+| data54 = {{{christian_equivalent|{{{Christian_equivalent|}}}}}}
+
+| label55 = Slavic equivalent
+| data55 = {{{slavic_equivalent|{{{Slavic_equivalent|}}}}}}
+
+| label56 = Hinduism equivalent
+| data56 = {{{hinduism_equivalent|{{{Hinduism_equivalent|}}}}}}
+
+| label57 = Canaanite equivalent
+| data57 = {{{canaanite_equivalent|{{{Canaanite_equivalent|}}}}}}
+
+| label58 = Manipuri equivalent
+| data58 =  {{{manipuri_equivalent|{{{Manipuri_equivalent|}}}}}}
+
+| label59 = Maya equivalent
+| data59 =  {{{maya_equivalent|{{{Maya_equivalent|}}}}}}
+
+| label60 = Aztec equivalent
+| data60 =  {{{aztec_equivalent|{{{Aztec_equivalent|}}}}}}
+
+| label61 = Indo-European equivalent
+| data61 = {{{indo-european_equivalent|{{{Indo-european_equivalent|}}}}}}
+
+| label62 = {{{equivalent1_type|}}} equivalent
+| data62 = {{#if:{{{equivalent1_type|}}}|{{{equivalent1|}}}}}
+
+| label63 = {{{equivalent2_type|}}} equivalent
+| data63 = {{#if:{{{equivalent2_type|}}}|{{{equivalent2|}}}}}
+
+| label64 = {{{equivalent3_type|}}} equivalent
+| data64 = {{#if:{{{equivalent3_type|}}}|{{{equivalent3|}}}}}
+
+| label65 = {{{equivalent4_type|}}} equivalent
+| data65 = {{#if:{{{equivalent4_type|}}}|{{{equivalent4|}}}}}
+
+| label66 = {{{equivalent5_type|}}} equivalent
+| data66 = {{#if:{{{equivalent5_type|}}}|{{{equivalent5|}}}}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox deity with unknown parameters|_VALUE_{{PAGENAME}}]]}}|ignoreblank=y|preview=Page using [[Template:Infobox deity]] with unknown parameter "_VALUE_"
+| abode | abodes | adherents | affiliation | age | alt | alusi_of | animals | army | artefacts | artifacts | associate | battles | birth_date | birth_name | birth_place | birthname | avatar_birth | avatar_end | Canaanite_equivalent | canaanite_equivalent | caption | children | Christian_equivalent | christian_equivalent | color | colour | complexion | consort | consorts | cult_center | cult_centre | day | death_date | death_place | deity_of | Devanagari | devanagari | dynasty | ethnic_group | Etruscan_equivalent | etruscan_equivalent | equivalent1 | equivalent1_type | equivalent2 | equivalent2_type | equivalent3 | equivalent3_type | equivalent4 | equivalent4_type | equivalent5 | equivalent5_type | father | festivals | gender | god_of | Greek_equivalent | greek_equivalent | Aztec_equivalent | aztec_equivalent | Maya_equivalent | maya_equivalent | height | Hinduism_equivalent | hinduism_equivalent | hiero | image | image_upright | mantra | member_of | moksha_date | moksha_place | mother | mount | name | Norse_equivalent | norse_equivalent | number | offspring | Old_Norse | old_norse | other_names | parents | planet | predecessor | region | Roman_equivalent | roman_equivalent | Manipuri_equivalent | manipuri_equivalent | indo-european_equivalent | Indo-european_equivalent |Sanskrit_transliteration | sanskrit_transliteration  | script | script_name | siblings | Slavic_equivalent | slavic_equivalent | spouse | successor | symbol | symbols | temple | temples | texts | tree | type | venerated_in | weapon | weapons | world 
+}}{{#if:{{{type|}}}||[[Category:Pages using infobox deity without type param]]}}{{#if:{{{color|}}}{{{colour|}}}|[[Category:Pages using infobox deity with color param]]
+[[sn:Infobox deity]]}}<includeonly>{{#ifeq:{{{child|}}}|yes||{{Wikidata image|1={{{image|}}}|2={{{nocat_wdimage|}}}}}}}</includeonly>{{compare image with Wikidata|local={{{image|}}}}}<noinclude>
+{{Documentation}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

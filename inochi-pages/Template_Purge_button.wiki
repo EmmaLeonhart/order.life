@@ -1,0 +1,9 @@
+<div class="purge-button plainlinks <includeonly>noprint</includeonly>" style="border: 1px solid #a2a9b1; background-color: #f8f9fa; position:relative; font-size:85%; text-align:center; {{#switch:{{lc:{{{align|{{{1|}}}}}}}}
+|right=float:right;margin:0 0.5em;
+|center= margin:0 auto;
+|#default=float:left;margin:0 0.5em;
+}}; width:{{#expr:{{{iconsize|64}}}+6}}px;"><span style="position:absolute;left:3px;top:3px;">[[File:View-refresh.svg|{{{iconsize|64}}}px|link=|alt=]]</span>[[Special:Purge/{{FULLPAGENAME}}|<span style="display:block;position:relative;margin:-1px;padding:{{#expr:{{{iconsize|64}}}+10}}px 0.4em 0.4em;line-height:1.2em;font-weight:bold;{{{textstyle|}}}">{{#if:{{{label|}}}|{{{label}}}|Update this page}}</span>]]</div><noinclude>{{clear}}<!--(to separate template and Documentation boxes)-->{{Documentation}}</noinclude>
+
+[[sn:Purge button]][[sn:Purge button]]
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

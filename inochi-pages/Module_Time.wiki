@@ -1,0 +1,193 @@
+local export = {}
+
+
+local language = mw.getContentLanguage()
+local function format(code, timestamp)
+	local ok, date = pcall(language.formatDate, language, code, timestamp)
+	if ok then
+		return date
+	else
+		-- All the formats used in quote_impl are fine,
+		-- so the timestamp must be at fault.
+		error("Timestamp '" .. tostring(timestamp) .. "' could not be parsed; "
+			.. "see the [[mw:Help:Extension:ParserFunctions##time|"
+			.. "documentation for the #time parser function"
+			.. "]]).")
+	end
+end
+
+local sub = mw.ustring.sub
+local gsub = mw.ustring.gsub
+
+
+local abbrs = {
+	["a."] = { anchor = "a.", full = "ante", },
+	["c."] = { anchor = "c.", full = "circa", },
+	["p."] = { anchor = "p.", full = "post", },
+}
+
+
+-- The formatDate method of the mw.language object behaves like the {{#time:}}
+-- parser function, which doesn't accept the formats
+-- "monthday monthname, year" or "year monthname monthday",
+-- but outputs garbage when it receives them, behavior inherited from PHP.
+-- {{#formatdate:}} magic word is more forgiving.
+-- Fix dates so that, for instance, the |date= parameter of
+-- {{quote-journal}} (which uses this module) and the |accessdate=
+-- parameter (which uses {{#formatdate:}}) accept similar date formats.
+-- [[mw:Extension:Scribunto/Lua_reference_manual#mw.language:formatDate]]
+-- [[mw:Help:Extension:ParserFunctions##time]]
+-- [[mw:Help:Magic_words#Formatting]]
+local function fix_date(date)
+	if tonumber(date) ~= nil then
+		error("|date= parameter should contain a full date: year, month, day of month. "
+			.. "Use |year= parameter for year.")
+	elseif date and date:find "%s*%a+,%s*%d+%s*$" then
+		error("|date= parameter should contain a full date: year, month, day of month. "
+			.. "Use |month= and |year= parameters for month and year.")
+	end
+	if date then
+		date = gsub(date, "(%d+ %a+),", "%1")
+		date = gsub(date, "^(%d%d%d%d) (%a+ %d%d?)$", "%2 %1")
+		return date
+	end
+end
+
+
+local function maintenance_line(text)
+	return "<span class=\"maintenance-line\" style=\"color: #777777;\">(" .. text .. ")</span>"
+end
+
+
+function export.quote(frame)
+	local params = {
+		["year"] = {},
+		["month"] = {},
+		["date"] = {},
+		["start_date"] = {},
+		["start_year"] = {},
+		["nodate"] = { type = boolean, default = false },
+		["accessdate"] = {},
+		["origdate"] = {},
+		["origyear"] = {},
+		["origmonth"] = {},
+	}
+	
+	local args = require("Module:parameters").process(frame:getParent().args, params, true)
+	return export.quote_impl(args)
+end
+
+function export.quote_impl(args)	
+	local output = {}
+	local namespace = mw.title.getCurrentTitle().nsText
+	
+	local start_date, date = fix_date(args.start_date), fix_date(args.date)
+	
+	local function insert(text)
+		table.insert(output, text)
+	end
+	
+	local year = args.year
+	
+	if year then
+		local prefix = sub(year, 1, 2)
+		local abbr = abbrs[prefix]
+		
+		if abbr then
+			insert('\'\'[[Appendix:Glossary#' .. abbr.anchor .. '|<abbr title="' .. abbr.full .. '">' .. abbr.anchor .. '</abbr>]]\'\' ')
+			-- [[Special:WhatLinksHere/Template:tracking/quote/abbr]]
+			require("Module:debug").track("quote/abbr")
+			
+			-- Remove lowercase letter, period, and space from beginning of year parameter.
+			year = gsub(year, "^%l%.%s*", "")
+		end
+		
+		if start_date then
+			if format("Y", start_date) == year then
+				if format("F", start_date) == args.month then
+					insert(
+						format("'''Y''' F j", start_date)
+							.. "–" .. date
+					)
+				else
+					insert(
+						format("'''Y''' F j",
+							start_date)
+							.. " – " .. args.month .. " " .. date
+					)
+				end
+			end
+		else
+			if args.month then
+				if args.start_year then
+					insert(
+						"'''" .. args.start_year
+						.. "'''&nbsp;– "
+					)
+				end
+				
+				insert(
+					"'''" .. year .. "''' "
+					.. args.month
+				)
+				
+				if date then
+					insert(" " .. date)
+				end
+			else
+				if args.start_year then
+					insert("'''" .. args.start_year .. "'''–")
+				end
+				
+				insert("'''" .. year .. "'''")
+			end
+		end
+	else
+		if date then
+			if start_date then
+				if format("Y", start_date) == format("Y", date) then
+					if format("n", start_date) == format("n", date) then
+						insert(
+							format("'''Y''' F j", start_date)
+								.. "–" .. format("j", date)
+						)
+					else
+						insert(
+							format("'''Y''' F j", start_date)
+								.. "–" .. format("F j", date)
+						)
+					end
+				else
+					insert(
+						format("'''Y''' F j", start_date)
+							.. "–" .. format("'''Y''' F j", date)
+					)
+				end
+			else
+				insert(
+					format("'''Y''' F j", date)
+				)
+			end
+		else
+			if not args.nodate then
+				if args.accessdate then
+					insert(
+						format("'''Y''' F j", args.accessdate)
+						.. " (last accessed)"
+					)
+				else
+					if namespace ~= "Template" then
+						insert(
+							maintenance_line("Can we [[:Category:Requests for date|date]] this quote?") ..
+							"[[Category:Requests for date]]"
+						)
+					end
+				end
+			end
+		end
+	end
+
+	return table.concat(output)
+end
+
+return export
