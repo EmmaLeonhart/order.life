@@ -1,0 +1,15 @@
+{| class="collapsible {{#ifeq:{{Yesno-no|{{{collapsed|{{{collapse|}}}}}}}}|yes|collapsed|expanded}}" style="{{#switch:{{{align|}}}{{{float|}}}
+ | left     = margin: 0.3em 1em 0.3em 0; float:left; clear:{{{clear|left}}}; min-width:{{{min-width|{{{width|33em}}}}}};
+ | right    = margin: 0.3em 0 0.3em 1em; float:right; clear:{{{clear|right}}}; min-width:{{{min-width|{{{width|33em}}}}}};
+ | #default = margin: 0.3em auto auto; clear:{{{clear|none}}}; min-width:{{{min-width|{{{width|60em}}}}}};
+ }} width:{{{width|auto}}}; font-size:85%; border:1px solid #aaa"
+! style="padding:0.2em 0.3em 0.2em {{#if:{{{template_name|}}}|0.3em|4.3em}};{{#if:{{{background|}}}|background:{{{background|}}}|background:none}}; width:{{{width|auto}}}" | {{#if:{{{template_name|}}}
+ |{{Navbar-collapsible|{{{title|{{{1|Family of {{PAGENAME}}}}}}}}|{{{template_name}}}}}
+ |{{{title|{{{1|Family of {{PAGENAME}}}}}}}}
+ }}
+|-
+| style="text-align:{{{text-align|center}}}" | {{#invoke:Check for unknown parameters|check|unknown=[[Category:Pages using chart top with unknown parameters|_VALUE_{{PAGENAME}}]]|preview=Page using [[Template:Chart top]] with unknown parameter "_VALUE_"|ignoreblank=y| 1 | align | background | clear | collapse | collapsed | float | min-width | template_name | text-align | title | width }}<noinclude>
+|}
+{{documentation}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

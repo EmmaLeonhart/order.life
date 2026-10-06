@@ -1,0 +1,7 @@
+{{#if:{{{noicon|}}}
+|[[:s:{{#if:{{{language|}}}|{{{language}}}:}}{{#if:{{{anchor|}}}|{{{link|}}}{{#if:{{{chapter|}}}|/{{{chapter}}}}}#{{{anchor}}}|{{{link|}}}{{#if:{{{chapter|}}}|/{{{chapter}}}}}}}|{{{label|{{{link|}}}}}}]]
+|[[s:{{#if:{{{language|}}}|{{{language}}}:}}{{#if:{{{anchor|}}}|{{{link|}}}{{#if:{{{chapter|}}}|/{{{chapter}}}}}#{{{anchor}}}|{{{link|}}}{{#if:{{{chapter|}}}|/{{{chapter}}}}}}}|{{{label|{{{link|}}}}}}]]}}<noinclude>
+{{documentation}}
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

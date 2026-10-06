@@ -1,0 +1,50 @@
+[https://www.youtube.com/{{#if:{{{user|{{{u|}}}}}}
+ |user/{{{user|{{{u|}}}}}} {{#if:{{{title|{{{1|}}}}}}|<span class="plainlinks">{{delink|<nowiki/>{{{title|{{{1}}}}}}}}</span>|{{PAGENAMEBASE}}}}{{{suffix|'s}}} channel]
+ |{{#if:{{{channel|{{{c|}}}}}}
+  |channel/{{{channel|{{{c|}}}}}} {{#if:{{{title|{{{1|}}}}}}|<span class="plainlinks">{{delink|<nowiki/>{{{title|{{{1}}}}}}}}</span>|{{PAGENAMEBASE}}}}{{{suffix|'s}}} channel]
+  |{{#if:{{{show|{{{s|}}}}}}
+   |show/{{{show|{{{s|}}}}}} {{#if:{{{title|{{{1|}}}}}}|<span class="plainlinks">{{delink|<nowiki/>{{{title|{{{1}}}}}}}}</span>|''{{PAGENAMEBASE}}''}}] show
+   |{{#if:{{{playlist|{{{p|}}}}}}
+    |playlist?list={{{playlist|{{{p|}}}}}} {{#if:{{{title|{{{1|}}}}}}|<span class="plainlinks">{{delink|<nowiki/>{{{title|{{{1}}}}}}}}</span>|{{PAGENAMEBASE}}}}] playlist
+    |{{#if:{{{custom|}}}
+     |c/{{{custom}}} {{#if:{{{title|{{{1|}}}}}}|<span class="plainlinks">{{delink|<nowiki/>{{{title|{{{1}}}}}}}}</span>|{{PAGENAMEBASE}}}}{{{suffix|'s}}} channel]
+     |{{#if:{{{id|{{{1<includeonly>|</includeonly>}}}}}}
+      |watch?v={{Trim|{{{id|{{{1|}}}}}}}}{{#if:{{{time|{{{t|}}}}}}|&t={{Trim|{{{time|{{{t|}}}}}}}}|}} {{#if:{{{title|}}}|<span class="plainlinks">{{replace|{{delink|<nowiki/>{{{title}}}}}|]|&#93;}}</span>|{{#if:{{{id|}}}|{{#if:{{{1|}}}|<span class="plainlinks">{{replace|{{delink|<nowiki/>{{{1}}}}}|]|&#93;}}</span>|Video}}|{{#if:{{{2|}}}|<span class="plainlinks">{{replace|{{delink|<nowiki/>{{{2}}}}}|]|&#93;}}</span>|Video}}}}}}]
+      |{{error|Error:No page id specified}}]{{Namespace detect |talk=|wikipedia=|help=|template=|module= |other=[[Category:Articles using YouTube with invalid parameters]] }}
+     }}
+    }}
+   }}
+  }}
+ }}
+}} on {{#ifeq:{{{link}}}|no
+ |YouTube
+ |[[YouTube]]
+}}{{#ifexpr:{{#expr:
+  {{#if:{{{user|}}}|1|0}}+
+  {{#if:{{{u|}}}|1|0}}+
+  {{#if:{{{channel|}}}|1|0}}+
+  {{#if:{{{c|}}}|1|0}}+
+  {{#if:{{{custom|}}}|1|0}}+
+  {{#if:{{{show|}}}|1|0}}+
+  {{#if:{{{s|}}}|1|0}}+
+  {{#if:{{{playlist|}}}|1|0}}+
+  {{#if:{{{p|}}}|1|0}}+
+  {{#if:{{{id|}}}|1|0}}+
+  {{#if:{{{2|}}}|1|0}}+
+  {{#if:{{{title|}}}|{{#if:{{{1|{{{2|}}}}}}|1|0}}|0}}
+ }}>1
+ |{{Namespace detect
+  |talk=|wikipedia=|help=|template=|module=
+  |other=[[Category:Articles using YouTube with invalid parameters]]
+ }}
+}}{{#if:{{{user|}}}{{{u|}}}{{{channel|}}}{{{c|}}}
+ ||{{#ifeq:{{{suffix|α}}}|α
+  ||{{Namespace detect
+   |talk=|wikipedia=|help=|template=|module=
+   |other=[[Category:Articles using YouTube with invalid parameters]]
+  }}
+ }}
+}}<!--
+-->{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using YouTube with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:YouTube]] with unknown parameter "_VALUE_"|ignoreblank=y| 1 | 2 | c | channel | custom | id | link | p | playlist | s | show | suffix | t | time | title | u | user }}<noinclude>{{documentation}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

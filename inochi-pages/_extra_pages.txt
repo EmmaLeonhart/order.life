@@ -2,15 +2,19 @@
 Item:Q1
 Item:Q2
 Item:Q3
+Module:About
 Module:Arguments
 Module:Authority control
 Module:Authority control/config
+Module:Cat main
 Module:Category handler
 Module:Category handler/blacklist
 Module:Category handler/config
 Module:Category handler/data
 Module:Category handler/shared
+Module:Check for clobbered parameters
 Module:Check for unknown parameters
+Module:Check isxn
 Module:Citation/CS1
 Module:Citation/CS1/COinS
 Module:Citation/CS1/Configuration
@@ -21,30 +25,50 @@ Module:Citation/CS1/Whitelist
 Module:Color contrast
 Module:Color contrast/colors
 Module:Commons link
+Module:Complex date
+Module:DateI18n
+Module:Debug
+Module:Debug/track
 Module:DecodeEncode
 Module:Delink
+Module:Detect singular
 Module:Disambiguation/templates
+Module:Distinguish
 Module:Documentation
 Module:Documentation/config
 Module:Documentation/styles.css
 Module:EditAtWikidata
 Module:Effective protection expiry
 Module:Effective protection level
+Module:En-headword
 Module:Error
 Module:Exponential search
 Module:File link
 Module:Find sources
 Module:Find sources/config
+Module:Footnotes
+Module:Footnotes/anchor id list
+Module:Footnotes/anchor id list/data
+Module:Footnotes/whitelist
 Module:Format link
 Module:GaiadDate
+Module:Gender and number
+Module:Gender and number/data
+Module:HTMLDecode
 Module:Hatnote
 Module:Hatnote list
 Module:Hatnote/styles.css
+Module:Headword
+Module:Headword/data
 Module:High-use
+Module:I18n/complex date
+Module:ISOdate
+Module:Icon
 Module:If empty
 Module:If preview
 Module:If preview/configuration
 Module:If preview/styles.css
+Module:In lang
 Module:Infobox
 Module:Infobox mapframe
 Module:Infobox/styles.css
@@ -61,12 +85,18 @@ Module:Lang/data/iana suppressed scripts
 Module:Lang/data/iana variants
 Module:Lang/data/is latn data
 Module:Lang/tag from name
+Module:Languages
+Module:Large category TOC
+Module:Links
+Module:Links/data
+Module:List
 Module:Mapframe
 Module:Message box
 Module:Message box/ambox.css
 Module:Message box/configuration
 Module:Message box/ombox.css
 Module:Message box/tmbox.css
+Module:Multiple image
 Module:Namespace detect/data
 Module:Navbar
 Module:Navbar/configuration
@@ -74,6 +104,7 @@ Module:Navbar/styles.css
 Module:Navbox
 Module:Navbox/configuration
 Module:Nihongo
+Module:No globals
 Module:Other uses
 Module:Pagetype
 Module:Pagetype/config
@@ -81,30 +112,64 @@ Module:Pagetype/disambiguation
 Module:Pagetype/rfd
 Module:Pagetype/setindex
 Module:Pagetype/softredirect
+Module:Palindromes
+Module:Palindromes/data
 Module:ParameterCount
+Module:Parameters
+Module:Parameters/remove holes
+Module:Plain text
+Module:Portal
+Module:Portal-inline
+Module:Portal/images/aliases
 Module:Protection banner
 Module:Protection banner/config
+Module:Qualifier
+Module:Quote
 Module:Redirect
 Module:Redirect template
+Module:RedirectData
 Module:SDcat
+Module:Script utilities
+Module:Script utilities/data
+Module:Scripts
+Module:Scripts/data
+Module:Scripts/findBestScript
+Module:Senseid
 Module:Separated entries
 Module:Side box
 Module:Side box/styles.css
+Module:Sidebar
+Module:Sidebar/configuration
 Module:Sister project links
 Module:Sister project links/styles.css
 Module:String
+Module:String/pattern escape
+Module:Table
 Module:TableTools
 Module:Template wrapper
 Module:Transclusion count
 Module:Transclusion count/data/L
 Module:Transclusion count/data/R
 Module:Transclusion count/data/T
+Module:Transliteration/data
+Module:Tree chart
+Module:Tree chart/data
 Module:Unicode data
 Module:Unicode data/scripts
 Module:Unsubst
+Module:Usex
+Module:Usex/templates
+Module:Utilities
+Module:Utilities/data
+Module:Utilities/format categories
+Module:Utilities/templates
 Module:Wd
 Module:Wd/i18n
+Module:Webarchive
 Module:Wikidata
+Module:WikidataIB
+Module:Wikimedia languages
+Module:Wikimedia languages/data
 Module:Wikitext Parsing
 Module:Yesno
 Property:P1

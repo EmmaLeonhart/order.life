@@ -1,0 +1,45 @@
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption1"/>
+  </image>
+<image source="link">
+    <caption source="link"/>
+  </image>
+  <data source="date">
+    <label>date</label>
+  </data>
+  <data source="tiktok">
+    <label>Tiktok link</label>
+  </data>
+  <data source="youtube">
+    <label>YouTube link</label>
+  </data>
+</infobox>[[Category:Shorts]]
+[[sn:Template:Short]]<noinclude>
+Example usage:
+<pre>
+{{Short
+
+  | title1=Example
+
+  | image1=Example
+
+  | link=Example
+
+  | topic=Example
+
+  | linking_videos=Example
+
+  | linked_video=Example
+
+}}
+</pre>
+<templatedata>
+{"params":{"title1":{"suggested":true},"image1":{"suggested":true},"date":{"suggested":true},"link":{"suggested":true},"topic":{"suggested":true},"linking_videos":{"suggested":true},"linked_video":{"suggested":true}},"sets":[],"maps":{}}
+</templatedata>
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

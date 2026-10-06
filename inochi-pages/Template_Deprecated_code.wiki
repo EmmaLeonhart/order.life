@@ -1,0 +1,5 @@
+{{#ifeq:{{{active|}}}|no|{{{1}}}|<span class="deprecated" title="{{#if:{{{tooltip|}}}|{{{tooltip}}}|This is a deprecated template usage.}}">''([[:Category:Successfully deprecated templates|{{#if:{{{text|}}}|{{{text}}}|deprecated template usage}}]])'' {{{1}}}</span>{{categorize|und|Pages using deprecated templates}}}}<!--
+
+--><noinclude>{{documentation}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

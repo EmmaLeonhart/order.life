@@ -1,0 +1,77 @@
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption1"/>
+  </image>
+  <data source="color">
+    <label>Color</label>
+  </data>
+  <data source="aspects">
+    <label>Aspects</label>
+  </data>
+  <data source="anathema">
+    <label>Anathema</label>
+  </data>
+  <data source="active_virtue">
+    <label>Active Virtue</label>
+  </data>
+  <data source="receptive_virtue">
+    <label>Receptive Virtue</label>
+  </data>
+  <data source="trifunctional">
+    <label>Trifunctional</label>
+  </data>
+  <data source="trimurti">
+    <label>Trimurti</label>
+  </data>
+  <data source="jewel">
+    <label>Jewel</label>
+  </data>
+  <data source="trinity">
+    <label>Trinity</label>
+  </data>
+  <data source="scripture">
+    <label>Scripture</label>
+  </data>
+</infobox>
+<noinclude>
+Example usage:
+<pre>
+{{Alo aspect
+
+  | title1=Example
+
+  | image1=Example
+
+  | caption1=Example
+
+  | color=Example
+
+  | aspects=Example
+
+  | anathema=Example
+
+  | active_virtue=Example
+
+  | receptive_virtue=Example
+
+  | trifunctional=Example
+
+  | trimurti=Example
+
+  | jewel=Example
+
+  | trinity=Example
+
+  | scripture=Example
+
+}}
+</pre>
+<templatedata>
+{"params":{"title1":{"suggested":true},"image1":{"suggested":true},"caption1":{"suggested":true},"color":{"suggested":true},"aspects":{"suggested":true},"anathema":{"suggested":true},"active_virtue":{"suggested":true},"receptive_virtue":{"suggested":true},"trifunctional":{"suggested":true},"trimurti":{"suggested":true},"jewel":{"suggested":true},"trinity":{"suggested":true},"scripture":{"suggested":true}},"sets":[],"maps":{}}
+</templatedata>
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

@@ -1,0 +1,64 @@
+return function (export, text, lang, scripts, forceDetect)
+	--[=[
+		Remove any HTML entities; catfix function in [[Module:utilities]]
+		adds tagging to a no-break space (&nbsp;), which contains Latin characters;
+		hence Latin was returned as the script if "Latn" is one of the language's scripts.
+	]=]
+	text = string.gsub(text, "&[a-zA-Z0-9]+;", "")
+	
+	-- Try to match every script against the text,
+	-- and return the one with the most matching characters.
+	local bestcount, Hantcount, Hanscount = 0, 0, 0
+	local bestscript, Hant, Hans
+	
+	-- Remove any spacing or punctuation characters, and get resultant length.
+	-- Counting instances of UTF-8 character pattern is faster than mw.ustring.len.
+	local reducedText = mw.ustring.gsub(text, "[%s%p]+", "")
+	local _, length = string.gsub(reducedText, "[\1-\127\194-\244][\128-\191]*", "")
+	
+	-- If the length is 0 then we're probably dealing with a punctuation character, so only remove spacing characters, in case it is script-specific.
+	if length == 0 then
+		reducedText = mw.ustring.gsub(text, "[%s]+", "")
+		_, length = string.gsub(reducedText, "[\1-\127\194-\244][\128-\191]*", "")
+		
+		if length == 0 then
+			return export.getByCode("None")
+		end
+	end
+	
+	for i, script in ipairs(scripts) do
+		local count = script:countCharacters(reducedText)
+		
+		-- Special case for "Hani" (general Han), which is overridden by "Hant" (traditional) or "Hans" (simplified) if they are the best script checked so far. Otherwise, "Hani" would be selected in situations where exclusively traditional or simplified characters are used in strings with characters used in both varieties: "Hani" will match all CJK characters, while "Hant" and "Hans" will not match with shared characters. This is to prevent having to include all shared characters (>90%) on both the traditional and simplified character lists.
+		-- Subject to the above, "Hant", "Hans" or "Hani" will be returned if they match at least one character, even if another script would otherwise be selected.
+		if script._code == "Hani" then
+			if Hantcount > Hanscount then
+				return Hant
+			elseif Hanscount > Hantcount then
+				return Hans
+			elseif count > 0 then
+				return script
+			end
+		end
+		
+		if count >= length then
+			return script
+		elseif count > bestcount then
+			bestcount = count
+			bestscript = script
+		elseif script._code == "Hant" then
+			Hantcount = count
+			Hant = script
+		elseif script._code == "Hans" then
+			Hanscount = count
+			Hans = script
+		end
+	end
+	
+	if bestscript then
+		return bestscript
+	end
+	
+	-- No matching script was found. Return "None".
+	return export.getByCode("None")
+end

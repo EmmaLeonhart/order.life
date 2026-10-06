@@ -1,0 +1,16 @@
+{{#if:{{#property:P18}}
+|{{#if:{{{local|}}}
+| {{#ifeq: {{filepath:
+{{Replace
+|{{Replace|{{{local|}}}|File:|}}
+|Image:|}}
+}}
+    | {{filepath:{{#invoke:WikidataIB |getPreferredValue |P18 |name=image |fetchwikidata=ALL |onlysourced=no |noicon=yes | maxvals=1 }}}}
+|[[Category:Articles having same image on Wikidata and Wikipedia]]
+|[[Category:Articles having different image on Wikidata and Wikipedia]]
+}}
+|[[Category:No local image but image on Wikidata]]
+}}
+}}<noinclude>{{Documentation}}</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

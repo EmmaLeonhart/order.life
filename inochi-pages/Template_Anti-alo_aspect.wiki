@@ -1,0 +1,42 @@
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption1"/>
+  </image>
+  <data source="alo_aspect">
+    <label>Alo aspect</label>
+  </data>
+  <data source="nietzschean_hazard">
+    <label>Nietzschean hazard</label>
+  </data>
+  <data source="three_poisons">
+    <label>Three poisons</label>
+  </data>
+</infobox>
+<noinclude>
+Example usage:
+<pre>
+{{Anti-alo aspect
+
+  | title1=Example
+
+  | image1=Example
+
+  | caption1=Example
+
+  | alo_aspect=Example
+
+  | nietzschean_hazard=Example
+
+  | three_poisons=Example
+
+}}
+</pre>
+<templatedata>
+{"params":{"title1":{"suggested":true},"image1":{"suggested":true},"caption1":{"suggested":true},"alo_aspect":{"suggested":true},"nietzschean_hazard":{"suggested":true},"three_poisons":{"suggested":true}},"sets":[],"maps":{}}
+</templatedata>
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

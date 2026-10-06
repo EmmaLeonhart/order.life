@@ -1,0 +1,243 @@
+local export = {}
+local Script = {}
+
+function Script:getCode()
+	return self._code
+end
+
+
+function Script:getCanonicalName()
+	return self._rawData.canonicalName
+end
+
+
+function Script:getDisplayForm()
+	return self:getCategoryName("nocap")
+end
+
+
+function Script:getOtherNames(onlyOtherNames)
+	return require("Module:language-like").getOtherNames(self, onlyOtherNames)
+end
+
+
+function Script:getAliases()
+	return self._rawData.aliases or {}
+end
+
+
+function Script:getVarieties(flatten)
+	return require("Module:language-like").getVarieties(self, flatten)
+end
+
+
+function Script:getParent()
+	return self._rawData.parent
+end
+
+
+function Script:getSystems()
+	if not self._systemObjects then
+		local m_systems = require("Module:writing systems")
+		self._systemObjects = {}
+		
+		for _, sys in ipairs(self._rawData.systems or {}) do
+			table.insert(self._systemObjects, m_systems.getByCode(sys))
+		end
+	end
+	
+	return self._systemObjects
+end
+
+
+--function Script:getAllNames()
+--	return self._rawData.names
+--end
+
+
+function Script:getType()
+	return "script"
+end
+
+
+function Script:getCategoryName(nocap)
+	local name = self._rawData.canonicalName
+	
+	-- If the name already has "code" or "semaphore" in it, don't add it.
+	-- No names contain "script".
+	if not name:find("[Cc]ode$") and not name:find("[Ss]emaphore$") then
+		name = name .. " script"
+	end
+	if not nocap then
+		name = mw.getContentLanguage():ucfirst(name)
+	end
+	return name
+end
+
+
+function Script:makeCategoryLink()
+	return "[[:Category:" .. self:getCategoryName() .. "|" .. self:getDisplayForm() .. "]]"
+end
+
+
+function Script:getWikipediaArticle()
+	return self._rawData.wikipedia_article or self:getCategoryName()
+end
+
+
+function Script:getCharacters()
+	if self._rawData.characters then
+		return self._rawData.characters
+	else
+		return nil
+	end
+end
+
+
+function Script:countCharacters(text)
+	if not self._rawData.characters then
+		return 0
+	-- Due to the number of Chinese characters, a different determination method is used when differentiating between traditional ("Hant") and simplified ("Hans") Chinese.
+	elseif self._code == "Hant" then
+		local ts_data = mw.loadData("Module:zh/data/ts")
+		local num = 0
+		for cp in mw.ustring.gcodepoint(text) do
+			if ts_data.ts[mw.ustring.char(cp)] then num = num + 1 end
+		end
+		return num
+	elseif self._code == "Hans" then
+		local st_data = mw.loadData("Module:zh/data/st")
+		local num = 0
+		for cp in mw.ustring.gcodepoint(text) do
+			if st_data.st[mw.ustring.char(cp)] then num = num + 1 end
+		end
+		return num
+	else
+		local _, num = mw.ustring.gsub(text, "[" .. self._rawData.characters .. "]", "")
+		return num
+	end
+end
+
+
+function Script:getDirection()
+	local direction = self._rawData.direction
+	if not direction then
+		return nil
+	else
+		return direction
+	end
+end
+
+
+function Script:getRawData()
+	return self._rawData
+end
+
+
+-- Return true if the language requires fixes to Unciode normalization under certain circumstances.
+function Script:hasNormalizationFixes()
+	return not not self._rawData.normalizationFixes
+end
+
+
+function Script:toJSON()
+	local ret = {
+		canonicalName = self:getCanonicalName(),
+		categoryName = self:getCategoryName("nocap"),
+		code = self._code,
+		otherNames = self:getOtherNames(true),
+		aliases = self:getAliases(),
+		varieties = self:getVarieties(),
+		type = self:getType(),
+		direction = self:getDirection(),
+		characters = self:getCharacters(),
+		parent = self:getParent(),
+		systems = self._rawData.systems or {},
+		wikipediaArticle = self._rawData.wikipedia_article,
+	}
+	
+	return require("Module:JSON").toJSON(ret)
+end
+
+
+Script.__index = Script
+
+
+function export.makeObject(code, data)
+	return data and setmetatable({ _rawData = data, _code = code, _type = "script object" }, Script) or nil
+end
+
+
+function export.getByCode(code, paramForError, disallowNil)
+	if code == nil and not disallowNil then
+		return nil
+	end
+	if code == "IPAchar" then
+		require("Module:debug/track")("IPAchar")
+	end
+	local retval = export.makeObject(code, mw.loadData("Module:scripts/data")[code])
+	if not retval and paramForError then
+		require("Module:languages").err(code, paramForError, "script code", nil, "not real lang")
+	end
+	return retval
+end
+
+
+function export.getByCanonicalName(name)
+	local code = mw.loadData("Module:scripts/by name")[name]
+	
+	if not code then
+		return nil
+	end
+	
+	return export.makeObject(code, mw.loadData("Module:scripts/data")[code])
+end
+
+-- Find the best script to use, based on the characters of a string.
+-- If forceDetect is set, run the detection algorithm even if there's only one
+-- possible script; in that case, if the text isn't in the script, the return
+-- value will be None.
+function export.findBestScript(text, lang, forceDetect)
+	if not text or not lang or not lang.getScripts then
+		return export.getByCode("None")
+	end
+	
+	-- Ensure that "Hani" is moved to the end of the list (if present), as it
+	-- is a special-case in [[Module:scripts/findBestScript]].
+	local scripts, Hani = {}
+	for code, script in ipairs(lang:getScripts()) do
+		if script._code == "Hani" then
+			Hani = script
+		else
+			table.insert(scripts, script)
+		end
+	end
+	if Hani then table.insert(scripts, Hani) end
+	
+	if not scripts[2] and not forceDetect then
+		return scripts[1]
+	end
+	
+	return require("Module:scripts/findBestScript")(export, text, lang, scripts, forceDetect)
+end
+
+--[=[
+	Takes a codepoint or a character and finds the script code (if any) that is
+	appropriate for it based on the codepoint, using the data module
+	[[Module:scripts/recognition data]]. The data module was generated from the
+	patterns in [[Module:scripts/data]] using [[Module:User:Erutuon/script recognition]].
+
+	Converts the character to a codepoint. Returns a script code if the codepoint
+	is in the list of individual characters, or if it is in one of the defined
+	ranges in the 4096-character block that it belongs to, else returns "None".
+]=]
+function export.charToScript(char)
+	return require("Module:scripts/charToScript").charToScript(char)
+end
+
+
+function export.findBestScriptWithoutLang(text)
+	return require("Module:scripts/charToScript").findBestScriptWithoutLang(text)
+end
+
+return export

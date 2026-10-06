@@ -1,0 +1,10 @@
+__EXPECTUNUSEDCATEGORY__{{#ifeq:{{{hide}}}|true||{{Cmbox
+| type  = content
+| style = text-align: center;
+| text  = <span style="font-size:15px;">'''Administrators: Please do not delete this category as empty!'''</span><br/> This category may be empty occasionally or even most of the time. {{{1|}}}
+}}}}<includeonly>{{#ifeq: {{lc:{{{nocat|false}}}}}|false|{{Single namespace|category}}|<!-- Category suppressed -->}}</includeonly><noinclude>
+{{Documentation}}
+<!-- Add categories to the /doc subpage and interwikis in Wikidata, not here! -->
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

@@ -1,0 +1,63 @@
+local export = {}
+
+-- Used by {{categorize}}
+function export.template_categorize(frame)
+	local NAMESPACE = mw.title.getCurrentTitle().nsText
+	local format = frame.args["format"]
+	local args = frame:getParent().args
+	
+	local langcode = args[1]; if langcode == "" then langcode = nil end
+	local sort_key = args["sort"]; if sort_key == "" then sort_key = nil end
+	local categories = {}
+	
+	if not langcode then
+		if NAMESPACE == "Template" then return "" end
+		error("Language code has not been specified. Please pass parameter 1 to the template.")
+	end
+	
+	local lang = require("Module:languages").getByCode(langcode)
+	
+	if not lang then
+		if NAMESPACE == "Template" then return "" end
+		error("The language code \"" .. langcode .. "\" is not valid.")
+	end
+	
+	local prefix = ""
+	
+	if format == "pos" then
+		prefix = lang:getCanonicalName() .. " "
+	elseif format == "topic" then
+		prefix = lang:getCode() .. ":"
+	end
+	
+	local i = 1
+	local individual_sort_keys = {}
+	local has_individual_sort_keys = false
+	
+	while args[i + 1] do
+		local cat = args[i + 1]
+		local individual_sort_key = args["sort" .. i]
+	
+		if cat ~= "" then
+			table.insert(categories, prefix .. cat)
+			if individual_sort_key then
+				individual_sort_keys[#categories] = individual_sort_key
+				has_individual_sort_keys = true
+			end
+		end
+		
+		i = i + 1
+	end
+	
+	if has_individual_sort_keys then
+		local categories_with_sort_keys = {}
+		for i, category in ipairs(categories) do
+			table.insert(categories_with_sort_keys, { category = category, sort_key = individual_sort_keys[i] })
+		end
+		return require("Module:utilities/format_categories_with_sort_keys")(categories_with_sort_keys, lang, sort_key)
+	else
+		return require("Module:utilities/format_categories")(categories, lang, sort_key)
+	end
+end
+
+return export

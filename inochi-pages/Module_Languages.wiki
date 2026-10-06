@@ -1,0 +1,521 @@
+local export = {}
+
+local function do_entry_name_or_sort_key_replacements(text, replacements, sc)
+	if replacements.from then
+		for i, from in ipairs(replacements.from) do
+			text = mw.ustring.gsub(text, from, replacements.to[i] or "")
+		end
+	end
+	
+	if replacements.remove_diacritics then
+		if replacements.remove_exceptions then -- converts any exceptions into PUA characters, to avoid having characters stripped
+			for _,exception in ipairs(replacements.remove_exceptions) do
+				local substitute = {mw.ustring.codepoint(exception,1,mw.ustring.len(exception))}
+				for _,codepoint in ipairs(substitute) do codepoint = codepoint+0xF000 end
+				text = mw.ustring.gsub(text, exception, table.concat(substitute))
+			end
+		end
+		if sc:hasNormalizationFixes() then text = require("Module:string").toFixedNFD(text) else text = mw.ustring.toNFD(text) end
+		text = mw.ustring.gsub(text,
+			'[' .. replacements.remove_diacritics .. ']',
+			'')
+		if sc:hasNormalizationFixes() then text = require("Module:string").toFixedNFC(text) else text = mw.ustring.toNFC(text) end
+		if replacements.remove_exceptions then -- converts the exceptions back
+			for _,exception in ipairs(replacements.remove_exceptions) do
+				local substitute = {mw.ustring.codepoint(exception,1,mw.ustring.len(exception))}
+				for _,codepoint in ipairs(substitute) do codepoint = codepoint+0xF000 end
+				text = mw.ustring.gsub(text, table.concat(substitute), exception)
+			end
+		end
+	end
+	
+	return text
+end
+
+local Language = {}
+
+function Language:getCode()
+	return self._code
+end
+
+
+function Language:getCanonicalName()
+	return self._rawData[1] or self._rawData.canonicalName
+end
+
+
+function Language:getDisplayForm()
+	return self:getCanonicalName()
+end
+
+
+function Language:getOtherNames(onlyOtherNames)
+	self:loadInExtraData()
+	return require("Module:language-like").getOtherNames(self, onlyOtherNames)
+end
+
+
+function Language:getAliases()
+	self:loadInExtraData()
+	return self._extraData.aliases or {}
+end
+
+
+function Language:getVarieties(flatten)
+	self:loadInExtraData()
+	return require("Module:language-like").getVarieties(self, flatten)
+end
+
+
+function Language:getType()
+	return self._rawData.type or "regular"
+end
+
+
+function Language:getWikimediaLanguages()
+	if not self._wikimediaLanguageObjects then
+		local m_wikimedia_languages = require("Module:wikimedia languages")
+		self._wikimediaLanguageObjects = {}
+		local wikimedia_codes = self._rawData.wikimedia_codes or { self._code }
+		
+		for _, wlangcode in ipairs(wikimedia_codes) do
+			table.insert(self._wikimediaLanguageObjects, m_wikimedia_languages.getByCode(wlangcode))
+		end
+	end
+	
+	return self._wikimediaLanguageObjects
+end
+
+function Language:getWikipediaArticle()
+	if self._rawData.wikipedia_article then
+		return self._rawData.wikipedia_article 
+	elseif self._wikipedia_article then
+		return self._wikipedia_article
+	elseif self:getWikidataItem() and mw.wikibase then
+		self._wikipedia_article = mw.wikibase.sitelink(self:getWikidataItem(), 'enwiki')
+	end
+	if not self._wikipedia_article then
+		self._wikipedia_article = mw.ustring.gsub(self:getCategoryName(), "Creole language", "Creole")
+	end
+	return self._wikipedia_article
+end
+
+function Language:makeWikipediaLink()
+	return "[[w:" .. self:getWikipediaArticle() .. "|" .. self:getCanonicalName() .. "]]"
+end
+
+function Language:getWikidataItem()
+	local item = self._rawData[2]
+	
+	if type(item) == "number" then
+		return "Q" .. item
+	else
+		return item
+	end
+end
+
+function Language:getScripts()
+	if not self._scriptObjects then
+		local m_scripts = require("Module:scripts")
+		self._scriptObjects = {}
+		
+		for _, sc in ipairs(self:getScriptCodes()) do
+			table.insert(self._scriptObjects, m_scripts.getByCode(sc))
+		end
+	end
+	
+	return self._scriptObjects
+end
+
+function Language:getScriptCodes()
+	return self._rawData.scripts or self._rawData[4] or { "None" }
+end
+
+function Language:getFamily()
+	if self._familyObject then
+		return self._familyObject
+	end
+		
+	local family = self._rawData[3] or self._rawData.family 
+	if family then
+		self._familyObject = require("Module:families").getByCode(family)
+	end
+	
+	return self._familyObject
+end
+
+
+function Language:getAncestors()
+	if not self._ancestorObjects then
+		self._ancestorObjects = {}
+		
+		if self._rawData.ancestors then
+			for _, ancestor in ipairs(self._rawData.ancestors) do
+				table.insert(self._ancestorObjects, export.getByCode(ancestor) or require("Module:etymology languages").getByCode(ancestor))
+			end
+		else
+			local fam = self:getFamily()
+			local protoLang = fam and fam:getProtoLanguage() or nil
+			
+			-- For the case where the current language is the proto-language
+			-- of its family, we need to step up a level higher right from the start.
+			if protoLang and protoLang:getCode() == self:getCode() then
+				fam = fam:getFamily()
+				protoLang = fam and fam:getProtoLanguage() or nil
+			end
+			
+			while not protoLang and not (not fam or fam:getCode() == "qfa-not") do
+				fam = fam:getFamily()
+				protoLang = fam and fam:getProtoLanguage() or nil
+			end
+			
+			table.insert(self._ancestorObjects, protoLang)
+		end
+	end
+	
+	return self._ancestorObjects
+end
+
+local function iterateOverAncestorTree(node, func)
+	for _, ancestor in ipairs(node:getAncestors()) do
+		if ancestor then
+			local ret = func(ancestor) or iterateOverAncestorTree(ancestor, func)
+			if ret then
+				return ret
+			end
+		end
+	end
+end
+
+function Language:getAncestorChain()
+	if not self._ancestorChain then
+		self._ancestorChain = {}
+		local step = #self:getAncestors() == 1 and self:getAncestors()[1] or nil
+		
+		while step do
+			table.insert(self._ancestorChain, 1, step)
+			step = #step:getAncestors() == 1 and step:getAncestors()[1] or nil
+		end
+	end
+	
+	return self._ancestorChain
+end
+
+
+function Language:hasAncestor(otherlang)
+	local function compare(ancestor)
+		return ancestor:getCode() == otherlang:getCode()
+	end
+	
+	return iterateOverAncestorTree(self, compare) or false
+end
+
+
+function Language:getCategoryName(nocap)
+	local name = self:getCanonicalName()
+	
+	-- If the name already has "language" in it, don't add it.
+	if not name:find("[Ll]anguage$") then
+		name = name .. " language"
+	end
+	if not nocap then
+		name = mw.getContentLanguage():ucfirst(name)
+	end
+	return name
+end
+
+
+function Language:makeCategoryLink()
+	return "[[:Category:" .. self:getCategoryName() .. "|" .. self:getDisplayForm() .. "]]"
+end
+
+
+function Language:getStandardCharacters()
+	return self._rawData.standardChars
+end
+
+
+function Language:makeEntryName(text, sc)
+	text = mw.ustring.match(text, "^[¿¡]?(.-[^%s%p].-)%s*[؟?!;՛՜ ՞ ՟？！︖︕।॥။၊་།]?$") or text
+	text = mw.ustring.gsub(text, "­", "") -- strip soft hyphens
+	if not sc or sc._type ~= "script object" then sc = require("Module:scripts").findBestScript(text, self) end
+	
+	local entry_name_data = self._rawData.entry_name
+	if type(entry_name_data) == "table" then
+		text = do_entry_name_or_sort_key_replacements(text, entry_name_data, sc)
+	elseif type(entry_name_data) == "string" then
+		text = require("Module:" .. entry_name_data).makeEntryName(text, self:getCode(), sc:getCode())
+	end
+	
+	return text
+end
+
+
+-- Return true if the language has display processing enabled, i.e. lang:makeDisplayText()
+-- does non-trivial processing.
+function Language:hasDisplayProcessing()
+	return not not self._rawData.display
+end
+
+
+-- Apply display-text replacements to `text`, if any.
+function Language:makeDisplayText(text)
+	if not sc or sc._type ~= "script object" then sc = require("Module:scripts").findBestScript(text, self) end
+	if type(self._rawData.display) == "table" then
+		text = do_entry_name_or_sort_key_replacements(text, self._rawData.display, sc)
+	end
+	
+	return text
+end
+
+function Language:makeSortKey(name, sc)
+	-- Remove initial hyphens and *
+	local hyphens_regex = "^[-־ـ᠊*]+(.)"
+	name = mw.ustring.gsub(name, hyphens_regex, "%1")
+	if not sc or sc._type ~= "script object" then sc = require("Module:scripts").findBestScript(name, self) end
+	
+	if sc:hasNormalizationFixes() then name = require("Module:string").toFixedNFC(name) else name = mw.ustring.toNFC(name) end
+	
+	-- If there is a language-specific sortkey module, use that
+	if type(self._rawData.sort_key) == "string" then
+		name = require("Module:" .. self._rawData.sort_key).makeSortKey(name, self:getCode(), sc:getCode())
+	else
+		if self.dotted_dotless_i then
+			name = name:gsub("I", "ı")
+		end
+		
+		name = mw.ustring.lower(name)
+		
+		-- If there are language-specific rules to generate the key, use those
+		if type(self._rawData.sort_key) == "table" then
+			name = do_entry_name_or_sort_key_replacements(name, self._rawData.sort_key, sc)
+		end
+		
+		if self.dotted_dotless_i then
+			name = name:gsub("i", "İ")
+		end
+		
+		name = mw.ustring.upper(name)
+	end
+	
+	-- Remove parentheses, as long as they are either preceded or followed by something
+	name = mw.ustring.gsub(name, "(.)[()]+", "%1")
+	name = mw.ustring.gsub(name, "[()]+(.)", "%1")
+	
+	return name
+end
+
+function Language:overrideManualTranslit()
+	return not not self._rawData.override_translit
+end
+
+
+function Language:transliterate(text, sc, module_override)
+	if not ((module_override or self._rawData.translit_module) and text) then
+		return nil
+	end
+	
+	if module_override then
+		require("Module:debug").track("module_override")
+	end
+	
+	if not sc or sc._type ~= "script object" then sc = require("Module:scripts").findBestScript(text, self) end
+	if sc:hasNormalizationFixes() then text = require("Module:string").toFixedNFC(text) else text = mw.ustring.toNFC(text) end
+	
+	return require("Module:" .. (module_override or self._rawData.translit_module)).tr(text, self:getCode(), sc:getCode())
+end
+
+function Language:hasTranslit()
+	return self._rawData.translit_module and true or false
+end
+
+
+function Language:link_tr()
+	return self._rawData.link_tr and true or false
+end
+
+
+function Language:toJSON()
+	local entryNamePatterns = nil
+	local entryNameRemoveDiacritics = nil
+	
+	if self._rawData.entry_name then
+		entryNameRemoveDiacritics = self._rawData.entry_name.remove_diacritics
+		if self._rawData.entry_name.from then
+			entryNamePatterns = {}
+			for i, from in ipairs(self._rawData.entry_name.from) do
+				table.insert(entryNamePatterns, { from = from, to = self._rawData.entry_name.to[i] or "" })
+			end
+		end
+	end
+	
+	local ret = {
+		ancestors = self._rawData.ancestors,
+		canonicalName = self:getCanonicalName(),
+		categoryName = self:getCategoryName("nocap"),
+		code = self._code,
+		entryNamePatterns = entryNamePatterns,
+		entryNameRemoveDiacritics = entryNameRemoveDiacritics,
+		family = self._rawData[3] or self._rawData.family,
+		otherNames = self:getOtherNames(true),
+		aliases = self:getAliases(),
+		varieties = self:getVarieties(),
+		scripts = self._rawData.scripts or self._rawData[4],
+		type = self:getType(),
+		wikimediaLanguages = self._rawData.wikimedia_codes,
+		wikidataItem = self:getWikidataItem(),
+	}
+	
+	return require("Module:JSON").toJSON(ret)
+end
+
+
+-- Do NOT use these methods!
+-- All uses should be pre-approved on the talk page!
+function Language:getRawData()
+	return self._rawData
+end
+
+function Language:getRawExtraData()
+	self:loadInExtraData()
+	return self._extraData
+end
+
+Language.__index = Language
+
+
+function export.getDataModuleName(code)
+	if code:find("^%l%l$") then
+		return "languages/data2"
+	elseif code:find("^%l%l%l$") then
+		local prefix = code:sub(1, 1)
+		return "languages/data3/" .. prefix
+	elseif code:find("^[%l-]+$") then
+		return "languages/datax"
+	else
+		return nil
+	end
+end
+
+
+function export.getExtraDataModuleName(code)
+	if code:find("^%l%l$") then
+		return "languages/extradata2"
+	elseif code:find("^%l%l%l$") then
+		local prefix = code:sub(1, 1)
+		return "languages/extradata3/" .. prefix
+	elseif code:find("^[%l-]+$") then
+		return "languages/extradatax"
+	else
+		return nil
+	end
+end
+
+
+local function getRawLanguageData(code)
+	local modulename = export.getDataModuleName(code)
+	return modulename and mw.loadData("Module:" .. modulename)[code] or nil
+end
+
+
+local function getRawExtraLanguageData(code)
+	local modulename = export.getExtraDataModuleName(code)
+	return modulename and mw.loadData("Module:" .. modulename)[code] or nil
+end
+
+
+function Language:loadInExtraData()
+	if not self._extraData then
+		-- load extra data from module and assign to meta table
+		-- use empty table as a fallback if extra data is nil
+		local meta = getmetatable(self)
+		meta._extraData = getRawExtraLanguageData(self._code) or {}
+		setmetatable(self, meta)
+	end
+end
+
+
+function export.makeObject(code, data)
+	if data and data.deprecated then
+		require("Module:debug").track {
+			"languages/deprecated",
+			"languages/deprecated/" .. code
+		}
+	end
+	
+	return data and setmetatable({ _rawData = data, _code = code, _type = "language object" }, Language) or nil
+end
+
+
+function export.getByCode(code, paramForError, allowEtymLang, allowFamily)
+	if type(code) ~= "string" then
+		error("The function getByCode expects a string as its first argument, but received " .. (code == nil and "nil" or "a " .. type(code)) .. ".")
+	end
+	
+	local retval = export.makeObject(code, getRawLanguageData(code))
+	if not retval and allowEtymLang then
+		retval = require("Module:etymology languages").getByCode(code)
+	end
+	if not retval and allowFamily then
+		retval = require("Module:families").getByCode(code)
+	end
+	if not retval and paramForError then
+		require("Module:languages/errorGetBy").code(code, paramForError, allowEtymLang, allowFamily)
+	end
+	return retval
+end
+
+
+function export.getByName(name, errorIfInvalid)
+	local byName = mw.loadData("Module:languages/by name")
+	local code = byName.all and byName.all[name] or byName[name]
+	
+	if not code then
+		if errorIfInvalid then
+			error("The language name \"" .. name .. "\" is not valid. See [[Wiktionary:List of languages]].")
+		else
+			return nil
+		end
+	end
+	
+	return export.makeObject(code, getRawLanguageData(code))
+end
+
+function export.getByCanonicalName(name, errorIfInvalid, allowEtymLang, allowFamily)
+	local byName = mw.loadData("Module:languages/canonical names")
+	local code = byName and byName[name]
+
+	local retval = code and export.makeObject(code, getRawLanguageData(code)) or nil
+	if not retval and allowEtymLang then
+		retval = require("Module:etymology languages").getByCanonicalName(name)
+	end
+	if not retval and allowFamily then
+		local famname = name:match("^(.*) languages$")
+		famname = famname or name
+		retval = require("Module:families").getByCanonicalName(famname)
+	end
+	if not retval and errorIfInvalid then
+		require("Module:languages/errorGetBy").canonicalName(name, allowEtymLang, allowFamily)
+	end
+	return retval
+end
+
+--[[	If language is an etymology language, iterates through parent languages
+		until it finds a non-etymology language. ]]
+function export.getNonEtymological(lang)
+	while lang:getType() == "etymology language" do
+		local parentCode = lang:getParentCode()
+		lang = export.getByCode(parentCode)
+			or require("Module:etymology languages").getByCode(parentCode)
+			or require("Module:families").getByCode(parentCode)
+	end
+	
+	return lang
+end
+
+-- for backwards compatibility only; modules should require the /error themselves
+function export.err(lang_code, param, code_desc, template_tag, not_real_lang)
+	return require("Module:languages/error")(lang_code, param, code_desc, template_tag, not_real_lang)
+end
+
+return export

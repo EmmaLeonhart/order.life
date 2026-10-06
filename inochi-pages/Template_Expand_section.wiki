@@ -1,0 +1,19 @@
+{{SAFESUBST:<noinclude />#invoke:Unsubst||date=__DATE__ |$B=
+<!--{{Expand section}} begin-->{{Ambox
+| name  = Expand section
+| type  = content
+| small = {{{small|left}}}
+| image = [[File:Wiki letter w cropped.svg|{{#ifeq:{{{small|}}}|no|44px|20px}}|alt=&#91;icon&#93;]]
+| issue = This section '''needs expansion'''{{#if:{{{with|{{{for|{{{1|}}}}}}}}}
+ | &#32;with: {{{with|{{{for|{{{1}}}}}}}}}}}{{#ifeq:{{{punctuation|{{{period|}}}}}}|no||.}} You can help by [{{fullurl:{{FULLPAGENAME}}|action=edit&section={{{section|}}}}} adding to it].{{#if: {{{find|}}} | {{br}}{{find sources mainspace|{{{find|{{ARTICLENAME}} }}} | {{{find2|}}} }}|}}
+| talk  = {{{talk|{{{discuss|{{{talksection|}}}}}}}}}
+| all   = All articles to be expanded
+| cat   = Articles to be expanded
+| date  = {{{date|}}}
+}}<!--{{Expand section}} end-->
+}}<noinclude>
+{{Documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

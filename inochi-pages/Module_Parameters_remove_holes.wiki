@@ -1,0 +1,21 @@
+
+-- A helper function that removes empty numeric indexes in a table,
+-- so that the values are tightly packed like in a normal Lua table.
+-- equivalent to require("Module:table").compressSparseArray
+return function (t)
+	local ret = {}
+	local index = 1
+	local highest = 0
+	for num, _ in pairs(t) do
+		if type(num) == "number" and num > 0 and num < math.huge and math.floor(num) == num then
+			highest = math.max(highest, num)
+		end
+	end
+	for i = 1, highest do
+		if t[i] then
+			ret[index] = t[i]
+			index = index + 1
+		end
+	end
+	return ret
+end

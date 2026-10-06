@@ -1,0 +1,53 @@
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption1"/>
+  </image>
+<image source="link">
+    <caption source="link"/>
+  </image>
+  <data source="link">
+    <label>link</label>
+  </data>
+  <data source="date">
+    <label>date</label>
+  </data>
+  <data source="linking_videos">
+    <label>Linking videos</label>
+  </data>
+  <data source="links">
+    <label>Linking videos</label>
+  </data>
+  <data source="linked_video">
+    <label>Linked video</label>
+  </data>
+</infobox>[[Category:Videos]]
+[[sn:Video]][[sn:Template:Video]]<noinclude>
+Example usage:
+<pre>
+{{Video
+
+  | title1=Example
+
+  | image1=Example
+
+  | link=Example
+
+  | date=Example
+
+  | topic=Example
+
+  | linking_videos=Example
+
+  | linked_video=Example
+
+}}
+</pre>
+<templatedata>
+{"params":{"title1":{"suggested":true},"image1":{"suggested":true},"link":{"suggested":true},"date":{"suggested":true},"topic":{"suggested":true},"links":{"suggested":true},"linked_video":{"suggested":true}},"sets":[],"maps":{}}
+</templatedata>
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>

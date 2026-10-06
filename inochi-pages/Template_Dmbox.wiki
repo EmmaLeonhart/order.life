@@ -1,0 +1,54 @@
+<templatestyles src="Dmbox/styles.css" />
+<div role="note" id="
+{{#switch:{{{type|}}}
+| setindex = setindexbox
+| disambig      
+| #default = disambigbox
+}}" class="metadata plainlinks dmbox 
+{{#switch:{{{type|}}}
+| setindex = dmbox-setindex
+| disambig      
+| #default = dmbox-disambig
+}} {{{class|}}}">{{#ifeq:{{{image|}}}|none|
+| {{#if:{{{image|}}}
+  | <div>{{{image}}}</div>
+  | [[File:{{#switch:{{{type|}}}
+    | setindex = DAB list gray.svg
+    | disambig      <!-- disambig = default -->
+    | #default = Disambig gray.svg
+    }}|30px|alt=Disambiguation icon]]
+  }}
+}}<div class="dmbox-body">{{{text}}}</div>{{#if:{{{imageright|}}}|<div>{{{imageright}}}</div>}}
+</div><!-- 
+  Detect and report usage with faulty "type" parameter:
+-->{{#switch:{{{type|}}}
+|   <!-- No type fed, is also valid input -->
+| disambig
+| setindex =    <!-- Do nothing, valid "type" -->
+| #default = <div class="dmbox-invalid-type">This message box is using an invalid "type={{{type|}}}" parameter and needs fixing.</div>[[Category:Wikipedia message box parameter needs fixing|{{main other|Main:}}{{FULLPAGENAME}}]]<!-- Sort on namespace -->
+}}<!-- 
+  Magic word for disambiguation pages:
+-->{{#if:{{{nocat|}}}||{{#ifeq:{{{type|}}}|disambig|__DISAMBIG__|}}}}<!-- 
+  Categorization:
+-->{{#switch:{{{type|}}}
+| setindex = 
+  {{category handler
+  | main = [[Category:All set index articles]]
+  | nocat = {{{nocat|}}}   <!--So "nocat=true" works-->
+  | page = {{{page|}}}   <!--For testing-->
+  }}
+| disambig    <!-- disambig = default -->
+| #default = 
+  {{category handler
+  | main = [[Category:All article disambiguation pages]][[Category:All disambiguation pages]]
+  | template =    <!-- Don't categorize on template pages. -->
+  | other = [[Category:All disambiguation pages]]
+  | nocat = {{{nocat|}}}   <!--So "nocat=true" works-->
+  | page = {{{page|}}}   <!--For testing-->
+  }}
+}}<noinclude>
+{{documentation}}
+<!-- Add categories to the /doc subpage and interwikis to Wikidata, not here! -->
+</noinclude>
+[[Category:Pages]]
+<noinclude>[[Category:Git synced pages]]</noinclude>
