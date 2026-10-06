@@ -207,6 +207,11 @@ def tag_all(s: requests.Session, w: Writer, apply: bool) -> None:
             extra.append(title)
             print(f"  listed ({model}): {title}")
             continue
+        if CATEGORY_TAG in text:
+            # Written but not registered, e.g. after an unclosed <!-- (Category:Cyberspace collected six
+            # copies, one an hour). Appending another changes nothing; the page needs fixing by hand.
+            print(f"  tag present but not registered, not re-tagged: {title}")
+            continue
         if not apply:
             print(f"  would tag: {title}")
             continue
