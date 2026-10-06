@@ -185,27 +185,54 @@ def tag_all(s: requests.Session, w: Writer, apply: bool) -> None:
     save_extra(extra)
 
 
+def _sha(text: str) -> str:
+    return hashlib.sha1((text.rstrip() + "\n").encode("utf-8")).hexdigest()
+
+
+def latest_revids(s: requests.Session, titles: list[str]) -> dict[str, int]:
+    """Current revision id of each title, 50 titles a request, so a run reads only pages that changed."""
+    out = {}
+    for i in range(0, len(titles), 50):
+        for attempt in range(5):
+            try:
+                r = _json(s.get(API, params={"action": "query", "titles": "|".join(titles[i:i + 50]),
+                                             "prop": "revisions", "rvprop": "ids", "format": "json",
+                                             "formatversion": 2}, timeout=120))
+                break
+            except (RuntimeError, requests.RequestException):
+                if attempt == 4:
+                    raise
+                time.sleep(15 * (attempt + 1))
+        for page in r["query"]["pages"]:
+            if not page.get("missing") and page.get("revisions"):
+                out[page["title"]] = page["revisions"][0]["revid"]
+    return out
+
+
 def pull(s: requests.Session, state: dict) -> None:
     titles = list(dict.fromkeys(category_members(s) + load_extra()))
+    current = latest_revids(s, titles)
     # Windows file names ignore case, so "Patriarchal Priesthood" and "Patriarchal priesthood" would share
     # one file and push would write one page's text over the other (it did, 2026-10-05). A title whose
     # file name is already held by a different title gets a hash suffix instead.
     claimed = {meta["file"].lower(): t for t, meta in state.items()}
     for title in titles:
-        got = fetch(s, title)
-        if got is None:
+        if title not in current:
             continue
-        text, revid, model = got
         filename = state.get(title, {}).get("file") or title_to_filename(title)
         if claimed.get(filename.lower(), title) != title:
             filename = filename[:-5] + "__" + hashlib.sha1(title.encode("utf-8")).hexdigest()[:8] + ".wiki"
         claimed[filename.lower()] = title
         path = os.path.join(PAGES_DIR, filename)
-        if state.get(title, {}).get("revid") == revid and os.path.exists(path):
+        if state.get(title, {}).get("revid") == current[title] and os.path.exists(path):
             continue
+        got = fetch(s, title)
+        if got is None:
+            continue
+        text, revid, model = got
         with open(path, "w", encoding="utf-8", newline="\n") as f:
             f.write(text.rstrip() + "\n")
-        state[title] = {"file": filename, "revid": revid, "model": model}
+        state[title] = {"file": filename, "revid": revid, "model": model, "sha": _sha(text)}
         print(f"  pulled: {title} -> {filename}")
         time.sleep(THROTTLE)
     for title in [t for t in state if t not in titles]:
@@ -226,12 +253,21 @@ def push(s: requests.Session, w: Writer, state: dict, apply: bool) -> None:
             print(f"  NOT pushed, file shared by {shared[filename.lower()]}: {filename}", file=sys.stderr)
             continue
         title = by_file.get(filename) or filename[:-5].replace("_", " ")
-        if state.get(title, {}).get("model") in PULL_ONLY_MODELS:
+        meta = state.get(title, {})
+        if meta.get("model") in PULL_ONLY_MODELS:
             continue
         with open(os.path.join(PAGES_DIR, filename), encoding="utf-8") as f:
             local = f.read()
+        # A file whose text is what was last pulled has nothing to push; only changed or new files are
+        # read back from the wiki. Entries from before hashes were kept take the file as their baseline.
+        if meta and "sha" not in meta:
+            meta["sha"] = _sha(local)
+        if meta and meta["sha"] == _sha(local):
+            continue
         got = fetch(s, title)
         if got and got[0].rstrip() == local.rstrip():
+            if meta:
+                meta["sha"] = _sha(local)
             continue
         if not apply:
             print(f"  would push: {title}")
@@ -239,7 +275,7 @@ def push(s: requests.Session, w: Writer, state: dict, apply: bool) -> None:
         revid = w.edit(title, local, "Sync page from order.life repo")
         if revid:
             state[title] = {"file": filename, "revid": revid,
-                            "model": got[2] if got else "wikitext"}
+                            "model": got[2] if got else "wikitext", "sha": _sha(local)}
             print(f"  pushed: {title}")
 
 
