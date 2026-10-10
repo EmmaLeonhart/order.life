@@ -5049,3 +5049,14 @@ a time, not a batch to apply. The script creates nothing and declares no edge.
 Nor is it a general-defect sweep: it only ever reports pairs where **both endpoints are
 already in the dump and already carry a Wikidata id** — a few thousand records out of
 107,000.
+
+## 2026-10-09 — Malta chapter back into verse; "late-Capricorn" closed
+
+- **Chapter 144 (Malta)** recast from expository prose into rhymed quatrains, in place,
+  same facts (181 → 141 lines). Commit 954c75a41.
+- **"Late-Capricorn drift": nothing to fix, closed.** Capricorn is chapters 29–56, and
+  all of them are already rhymed verse, unchanged since before the note was written
+  (2026-04-18, `dd696d074`). That note was written about the 130–205 power-through
+  block, and the prose drift it describes is what 130–205 actually shows (140–149 all
+  checked). So the work continues as STATUS.md's next item, 130 onward. This was
+  decided without asking Emma, because the instruction was to make the call and record it.

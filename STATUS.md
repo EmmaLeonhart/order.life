@@ -12,11 +12,9 @@ Written: **238 / 364**. Remaining gaps: **253–328** (76), **330–364** (35).
 
 ## Queued work
 
-1. **Fix the Malta chapter and the late-Capricorn drift.** Emma flagged that the Malta chapter and the late-Capricorn stretch drifted from the earlier poetic form into a declarative / expository mode — probably because the source material was more fleshed-out, which "poisoned" the register. The fix is not a rewrite; it is a tone correction in place: compress, re-shape into the ABAB-ish verse form, keep the facts, cut the reporter voice. Earlier chapters ship first, so this has priority over further writing.
+1. **Fix the early human-era chapters first.** The 130–205 block was power-through quality — real chapters but first-pass. Emma has said to prioritize fixing earlier chapters because they ship through the Discord stream first. Start at 130 and work forward; don't wait on a full editing pass. The register should match the register set by 1–129 (verse, not declarative).
 
-2. **Fix the early human-era chapters first.** The 130–205 block was power-through quality — real chapters but first-pass. Emma has said to prioritize fixing earlier chapters because they ship through the Discord stream first. Start at 130 and work forward; don't wait on a full editing pass. The register should match the register set by 1–129 (verse, not declarative).
-
-3. **Genealogical analysis follow-up.** The Wikibase dump completed 2026-04-16 — 164k items, 4,840 wiki pages, 377 images. Centrality passed (Charlemagne, Bustanai, Jesus, Muhammad all load-bearing). Open: 1,230 children-with->2-parents (Geni merge errors, mostly Iberian royals), 69 cycles that should be zero, fan-out suspects (Danaus 231, Oceanus 155, Dhritarashtra 131, Heracles 113). Lineage gaps: Kosala → Heo Hwang-ok (~15–20 invented kings), Genghis Khan's 7-gen chain disconnected from Adam, Heo Hwang-ok → Jimmu not joined. None of this blocks chapter writing, but the analysis is the handle for per-chapter genealogy callouts.
+2. **Genealogical analysis follow-up.** The Wikibase dump completed 2026-04-16 — 164k items, 4,840 wiki pages, 377 images. Centrality passed (Charlemagne, Bustanai, Jesus, Muhammad all load-bearing). Open: 1,230 children-with->2-parents (Geni merge errors, mostly Iberian royals), 69 cycles that should be zero, fan-out suspects (Danaus 231, Oceanus 155, Dhritarashtra 131, Heracles 113). Lineage gaps: Kosala → Heo Hwang-ok (~15–20 invented kings), Genghis Khan's 7-gen chain disconnected from Adam, Heo Hwang-ok → Jimmu not joined. None of this blocks chapter writing, but the analysis is the handle for per-chapter genealogy callouts.
 
 ## Pinned corrections (I keep dropping these)
 
