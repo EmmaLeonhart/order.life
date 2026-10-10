@@ -199,6 +199,17 @@ days 225–252, the Americas, ending with Lehi).
 Placed by this: the Johannes Bureus chapter falls in Virgo (he lived 1568–1652); the chapter on
 Emma and her ancestry falls in Ophiuchus. Within a month nothing is numbered.
 
+**Material for Emma's own chapter (Ophiuchus): the Virgo coincidence.** Her observation, 2026-10-10:
+"a lot of my genealogy investigation, at least in this year, was really stuck in Virgo. Like around
+the Bure time was when I discovered this stuff." Virgo in 2026 ran Monday 7 September to Sunday
+4 October (days 253–280, ISO weeks 37–40), the same weeks as her Bure campaign and the RootsMagic
+extraction she declared finished on 30 September. Virgo is the month the Gaiad gives to the 1500s
+and 1600s, the century of Johannes Bureus and of the first documented Bures (1548, 1553). So the
+year she traced the line ran on top of the book's calendar for that line's own era. She wants this
+in: "that's an interesting meta thing to occur." It fits "the book's own moment"
+(`gaiad-253-364/ch362-handoff.md`): the calendar the scripture runs on, and the person writing it,
+meeting in the record.
+
 ## Using the themes as a test
 
 A modern subject goes in when it does at least one of these, and says "something special about
