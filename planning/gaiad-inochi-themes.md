@@ -205,5 +205,10 @@ Subjects that only fill coverage (a war, a style, a decade) go in only through o
 - **Still open from before, in her words:** Russia ("unsure how much"), the Safavids ("I don't know
   what to say about the Safavids"), why Japan succeeded ("I'm not really sure why it didn't"), and
   "are there places clearly missed by this structure?"
+- **The Bure get more room (2026-10-10).** Her words: "I'm straight up going to be a bit more
+  selfish with it, with the Bure", and "we have to be cautious about like how we divide this
+  stuff ... gotta figure out how to divide it." The Bure kinship (Bureätten) is the Swedish line the
+  genealogy repo's pipeline is already centred on, and one of Emma's own ancestral lines (A L758,
+  A L771). How the modern months are divided is still open.
 - **The two old numbered maps** (`modern-period-chapter-map.md`, `proposal-253-329.md`) are agent
   work she never marked up; this file does not rely on them.
