@@ -178,6 +178,27 @@ the ancestors is itself written with AI; and the book does not say whether the m
 hands or in everyone's. The legacy table's "AI achieves consciousness; epic becomes self-aware" goes
 against the refusal to predict and is dropped.
 
+## The modern months (Emma, 2026-10-10)
+
+Her division: "Virgo is 1500s and 1600s. Libra is 1700s and 1800s. Scorpius is 1900s and [Ophiuchus]
+is 2000s. I think that's probably the best way to do it."
+
+| month | days | centuries | about |
+|---|---|---|---|
+| Virgo | 253–280 | 1500s, 1600s | 14 chapters a century |
+| Libra | 281–308 | 1700s, 1800s | 14 chapters a century |
+| Scorpius | 309–336 | 1900s | 28 chapters, about one every 3–4 years |
+| Ophiuchus | 337–364 | 2000s | the AI month; with the fixed endpoints (2026 and the time skip, the cryonic revival, Milkomeda) at the end, a little under a chapter a year |
+
+Her reading of it: "the early modern period is pretty decently covered, but the 21st century
+particularly really has a time to shine and the 20th century too. The 21st century is obviously by
+far the highest represented ... less than a chapter per year." And: "there are substantial parts of
+the early modern period that don't actually need to be covered because they were in Leo" (Leo,
+days 225–252, the Americas, ending with Lehi).
+
+Placed by this: the Johannes Bureus chapter falls in Virgo (he lived 1568–1652); the chapter on
+Emma and her ancestry falls in Ophiuchus. Within a month nothing is numbered.
+
 ## Using the themes as a test
 
 A modern subject goes in when it does at least one of these, and says "something special about
@@ -196,9 +217,8 @@ Subjects that only fill coverage (a war, a style, a decade) go in only through o
 
 ## Open, for Emma
 
-- **How much of Ophiuchus is AI.** "the last month be about AI ... Or at least ... a lot of stuff
-  about AI at the end." Either the month is AI throughout (and the postwar decades move into
-  Scorpius), or AI is the dominant thread in a month that also carries the late 20th century.
+- **How much of Ophiuchus is AI.** Settled by the division above: Ophiuchus is the 2000s, so it is
+  the AI month with the rest of the 21st century in it.
 - **Where 1945 and the Daijōsai go.** Her 2026-09-25 correction moves the drafted Daijōsai chapter
   "closer to Yom Kippur" and gives the Niiname-sai slot to Emperor Heisei's real Daijōsai (1990). No
   plan is updated for this yet, and it moves the end of the war-years block.
