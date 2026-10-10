@@ -29599,183 +29599,143 @@ The historical age of the Gaiad begins.
 
 # Chapter 144: Malta — The Oldest Temples
 
-The haplogroup register closes. And the named civilization register
-Opens. And the first named civilization is one whose name has not
-Survived.
+The haplogroup register gives way;
+The named civilizations now begin—
+And the first of them is nameless to this day,
+A people with no writing to be read in.
 
-            The builders of the temples of {{p|Malta}}.
+On a small dry island in the middle sea,
+{{p|Malta}}, a few thousand farmers at the most
+Raised temples out of limestone, standing free,
+The oldest on the earth—before the host
 
-                                                    The oldest free-standing
-Stone structures on earth. Older than Stonehenge. Older than the
-{{p|Egyptian}} pyramids. Older than the {{p|Sumerian}} ziggurats. Built on a
-Small rocky island in the middle of the {{p|Mediterranean Sea}} between
+Of {{p|Egypt}} piled its pyramids, before
+The ziggurats of {{p|Sumer}}, long before
+{{p|Stonehenge}}: thirty-six hundred BCE, and more
+Than a thousand years of building from that shore—
 
-Approximately three thousand six hundred and twenty-five hundred BCE—
-Which is to say, around five thousand years ago, in the late
-{{p|Neolithic}}, before the {{p|Yamnaya}} expansion had reached {{p|Europe}}, before
-The wheel had been widely adopted, before writing had been invented
+{{p|Ġgantija}}, {{p|Ħaġar Qim}}, {{p|Mnajdra}}, {{p|Tarxien}}.
+They quarried blocks of fifty tons from bedrock's hold
+And moved them with no wheel, no metal; how, and when,
+And by what craft, is argued and untold.
 
-Anywhere. And yet, on this small island, a population of farmers—
-Probably a few thousand people at most—built a series of massive
-Temple complexes out of enormous limestone blocks. {{p|Ġgantija}}.
-{{p|Ħaġar Qim}}. {{p|Mnajdra}}. {{p|Tarxien}}. {{p|Ġgantija}} alone includes
+They left no name for themselves, and none
+For any god they served. What we can keep
+Is stone and sherd and bone, and, one by one,
+The little figures, seated or asleep:
 
-Megaliths weighing fifty tons, quarried from bedrock and moved
-Across distances without wheels, without metal tools, without
-Draft animals heavier than goats. The construction methods are
-Still debated. The engineering achievement is staggering. And the
+The {{p|Fat Lady}}, broad of hip and thigh,
+In clay and limestone—the most singular art
+Of {{p|Europe}}'s {{p|Neolithic}}, and the reply,
+In {{p|Malta}}'s idiom, to an older heart:
 
-People who built them have no name. The civilization left no
-Writing. The language they spoke is completely lost. We have no
-Idea what they called themselves. We have no idea what they called
-Their gods. We have only the stones and the pottery and the bones
+The mother Marija Gimbutas found
+Beneath Old {{p|Europe}}, before the horsemen came;
+The {{p|Venus of Willendorf}} on other ground,
+{{p|Cucuteni-Trypillia}}'s clay—the same
 
-And the carved fat-goddess figurines that suggest the worship of
-A mother-earth deity or multiple mother deities. The "{{p|Fat Lady}}"
-Figurines of {{p|Malta}}—small, squat, female figures, often depicted
-Seated or sleeping—are among the most iconographically distinctive
+Great mother, as the Gaiad reads the sign.
+But nowhere else did that devotion raise
+Such stone. Look at the temples' own design,
+The shape they kept through all their building days:
 
-Art of the entire European {{p|Neolithic}}. They are, in the Gaiad's
-Reading, the same figure that Marija Gimbutas identified with
-The goddess-worshipping pre-Indo-European religious substrate of
-Old {{p|Europe}}. The "{{p|Fat Lady}}" is the {{p|Maltese}} expression of the
+Paired lobes along a central corridor,
+A kidney or a clover in the plan,
+The entrance on the long axis, and before
+Each chamber, uprights where the lintels span—
 
-Same religious imagination that produced the {{p|Venus of Willendorf}}
-And the {{p|Cucuteni-Trypillia}} figurines. A fertility-mother cult
-With deep roots in the European and circum-Mediterranean
-{{p|Neolithic}}. And on {{p|Malta}}, that cult built temples on a scale
+The trilithon, a thousand years ahead
+Of {{p|Stonehenge}}. On the walls, the carven spiral,
+The plant, the beast, the pillar-pairs some read
+As gateways of the world; and in the interior
 
-That no other {{p|Neolithic}} population attempted.
+The figurines, the ash of ritual fire,
+The bones of offered beasts beneath the stone.
+For a thousand years the island fed the choir
+Of builders. Then the builders were gone.
 
-                                                     The temples are
-Characterized by a distinctive architectural form: paired lobed
-Chambers arranged around a central corridor, often described as
+Near twenty-five hundred BCE it ends.
+No sign of war, no burning, no invader—
+The temples simply empty. No one tends
+Them. Bronze Age settlers, coming later,
 
-"Kidney-shaped" or "clover-shaped" in plan. The entrance is typically
-On the long axis, with the lobes extending symmetrically to either
-Side. The stones are arranged as uprights supporting horizontal
-Lintels—the same megalithic technique that would later be used at
+Lived on the island with no memory
+Of who had built the temples on its hills.
+The likeliest cause: the island, ringed by sea,
+Was used up—soil worn thin by tilling, the hills
 
-Stonehenge, but developed here first, on this small island, a
-Thousand years earlier. The walls of the temples often include
-Carved reliefs—spirals, plant motifs, animal figures, the paired
-Uprights that have been interpreted as world-pillars or cosmic
+Stripped of their trees for firewood and for the work
+Of moving stone—until the land that fed
+A few thousand temple-builders, in the murk
+Of slow decline, could not. Not with a bang. They fled,
 
-Gateways. And the interior chambers, when excavated, yielded the
-Fat-lady figurines and the sacrificial animal bones and the traces
-Of fire that suggest ritual use.
+Or starved, or thinned away. And the temples stood,
+Empty and silent on the windy rise,
+Four thousand years, until the nineteenth century could
+Read them for what they were with {{p|Europe}}'s eyes.
 
-                                     And then, around twenty-five
-Hundred BCE, the civilization ended. The temples were abandoned.
+The Gaiad honors them as first in line
+After {{p|Göbekli Tepe}}: there, the hunter came
+To gather at the stones; here, at the shrine,
+The settled farmer laid his harvest's claim.
 
-The population—whatever had sustained it, whatever had allowed it
-To build at this scale—collapsed. There is no evidence of invasion,
-No evidence of warfare, no evidence of violent destruction. The
-Temples were simply left to stand. The population dispersed or died.
+Foraging gave way to the field; the feast
+Gave way to the standing house of god; and here,
+For the first time we know, a people ceased
+To keep back anything: year after year
 
-And a later {{p|Maltese}} population, a {{p|Bronze Age}} culture probably
-Of {{p|Indo-European}} provenance, eventually settled the island without
-Any apparent memory of or connection to the temple-builders.
+Their surplus went to temples, till the land
+Gave out. No palace and no city wall,
+No fortress—only temples, the work of every hand.
+They built for their gods, and that was all.
 
-What happened? The most common theory is ecological collapse. The
-Small island was over-farmed. The soils were exhausted. The forests
-Were cut down for firewood and for temple construction. The
-Ecosystem that had supported a few thousand temple-builders could
+The Gaiad reads the temple as the elder
+Of the city, at {{p|Göbekli Tepe}}, and the greater
+For thousands of years after; and no welder
+Of stone to faith was purer than these, or straighter.
 
-Not continue to support them. And so the population starved, or
-Dispersed to neighboring islands, or was gradually absorbed by
-Later arrivals. The civilization died not with a bang but with a
-Slow ecological whimper. And the temples remained, empty, silent,
+In one narrow sense the most devout
+Of any people in the human line—
+And so the warning: if the work runs out
+Ahead of field and harvest, then the shrine
 
-For four thousand years, until nineteenth-century {{p|European}}
-Archaeology began to recognize what they were.
+Devours the hands that raise it. Not that the temple
+Is wrong; but that the building can outrun
+The ground beneath it. {{p|Rapa Nui}} will sample
+The same cup later: every tree undone
 
-                                                    The Gaiad honors
-The builders of {{p|Malta}} as the first of the post-{{p|Göbekli Tepe}}
-Temple civilizations. {{p|Göbekli Tepe}} was built by hunter-gatherers.
+To move the {{p|Moai}}, and the island's fall.
+Small island, fervent faith, the building spree,
+And then the crash—{{p|Malta}} was first of all.
+Both are warnings. Neither, as we see,
 
-{{p|Malta}} was built by settled farmers. The transition from foraging
-To farming has happened. The transition from ephemeral ritual
-Gatherings to permanent temple-complexes has happened. And {{p|Malta}} is
-The first place, as far as we can tell, where a small-scale farming
+Is heeded by the peoples who come after.
+Was this a greatness or a tragedy?
+The Gaiad does not answer. Without laughter
+And without blame, it says that both can be:
 
-Society poured its entire surplus productive capacity into the
-Construction of religious architecture on a scale that exhausted
-The society itself. {{p|Malta}} is the warning. The too-much-temple
-Civilization. The society that built so many temples that it
+The temples splendid, and the builders dead;
+Their gods remembered now by no one living;
+The sacred turned to ruin, and in its stead
+The ruin turned memorial—the giving
 
-Ran out of food and died.
+Is all we have: the stones upon the hill,
+The spirals and the lobes, the wind that blows
+Along the empty corridors, and still,
+In {{p|Valletta}}, behind glass, the {{p|Fat Lady}}'s pose.
 
-                              And the lesson is not that temples
-Are bad. The lesson is that the temple-building impulse, if it
-Runs ahead of the ecological and economic capacity of the society,
+Honor them: the builders who built past their means;
+The priests who led the work; the women's hands
+That shaped the mother out of clay; the teams
+Of farmers whose surplus fed the stone, till the lands
 
-Can be the society's undoing. This is a lesson that {{p|Easter Island}},
-Much later, will also learn. The {{p|Moai}}-builders of {{p|Rapa Nui}} will
-Cut down every tree on their island to move their statues, and
-Their civilization will collapse. The pattern is deep. A small
+Ran out—the whole people that set the shrine
+Above itself, and perished by the choice.
+{{p|Malta}}: first temple people in the line
+After {{p|Göbekli Tepe}}. The first warning voice.
 
-Island society, a strong religious impulse, a runaway construction
-Program, and an ecological crash. {{p|Malta}} is the {{p|Neolithic}}
-Precedent for the {{p|Easter Island}} pattern. Both are warnings. Both
-Are ignored by the civilizations that follow.
-
-The {{p|Maltese}} temples stand today as a memorial to the builders
-Whose names we will never know, whose language we will never recover,
-Whose religious imagination we can only dimly reconstruct from the
-Fat-lady figurines and the spiral carvings and the paired lobes of
-
-The temple chambers. They were here. They built. They vanished. The
-Stones remain. And the Gaiad includes them because the Gaiad's
-Reading is that the temple came before the city, at {{p|Göbekli Tepe}},
-And that the temple's importance continued to outweigh the city's
-
-Importance for thousands of years thereafter, and that {{p|Malta}} is
-One of the purest expressions of that priority: a society that
-Built almost nothing but temples, lived in almost nothing but
-Small farmhouses, and devoted its monumental architecture entirely
-
-To religion. The {{p|Maltese}} built no palaces. They built no fortifications.
-They built no city walls. They built temples and only temples. And
-When the temples exhausted them, they died.
-
-                                                 This is the pure
-Religious society. The society whose priority was entirely the
-Worship of whatever they worshipped. The society whose architectural
-Legacy is entirely sacred. {{p|Malta}} is, in a certain narrow sense,
-
-The most religious society in human history. And the Gaiad honors
-This. The pure devotion. The total priority of the sacred. The
-Willingness to die for the temple.
-
-                                       But the Gaiad also notices:
-The society did die. The temples remained. The builders did not.
-
-And the question of whether the priority was right—whether a
-Society that builds itself to death for the sake of its gods is
-A society that has achieved something great, or a society that has
-Achieved something tragic—is a question the Gaiad does not answer.
-
-It is both. It is great and tragic at once. The temples are
-Magnificent. The people are dead. The gods—whoever they were—are
-Remembered by no one. The sacred became the ecological catastrophe.
-The catastrophe became the memorial. The memorial is what we have.
-
-{{p|Malta}}. The oldest free-standing stone temples on earth. The
-Unnamed builders. The exhausted soil. The abandoned lobes and
-Spirals. The {{p|Fat Lady}} figurine in the museum case in {{p|Valletta}}.
-The stones on the hill. The wind blowing through the corridors.
-
-Honor them. The builders who built past their means. The priests
-Who directed the work. The women who modeled the mother-goddess
-Figurines from clay. The farmers whose surplus fed the builders
-Until the surplus ran out. The whole population that chose
-
-The temple over the self, and was extinguished by the choice.
-
-{{p|Malta}}. The first post-{{p|Göbekli Tepe}} temple civilization. The
-First warning. The first loss. The first unnamed civilization
-Of the post-haplogroup Gaiad.
+The first loss. The first civilization
+Whose name is gone, in the Gaiad's human age.
 
                                     Stand.
 
