@@ -211,7 +211,8 @@ Subjects that only fill coverage (a war, a style, a decade) go in only through o
   chapters of it. One chapter associated with me, but that chapter is going to be more associated
   with my ancestry, me and my ancestry. And one chapter is going to be associated with, like,
   Johannes." So: **a Johannes Bureus chapter** (the Swedish antiquarian and Gothicist of the early
-  1600s, who recorded the Bure genealogy; from memory, to be checked) and **a chapter on Emma and
+  1600s, who wrote the Bure genealogy *Om Bura namn och ätt*; checked 2026-10-10, see the
+  inochi-no-michikyo repo's `research/bure-and-bureus.md`) and **a chapter on Emma and
   her ancestry**, the latter fitting "the book's own moment" at the end. The medieval Bure origins
   are background to these, not a chapter of their own. Placement not decided.
 - **The two old numbered maps** (`modern-period-chapter-map.md`, `proposal-253-329.md`) are agent
