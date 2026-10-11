@@ -1,7 +1,52 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Abba \"Abbahu\"  bar Acha bar Sallah al-Kafri"
+      }
+    ]
+  },
   "claims": {
     "P20": [
+      {
+        "id": "Q86589$DF005FA7-EFD8-40C7-9FAF-23CEFB11B9A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86575",
+              "numeric-id": 86575
+            }
+          },
+          "hash": "4642cbc7922f89801e57a298f882759d519f034e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86589$51EA7C4A-EAB4-4B3F-A782-332A5EDA9C90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86591",
+              "numeric-id": 86591
+            }
+          },
+          "hash": "c933de5f8637a8c2b3566b6a8220bd1ffa0d1513",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q91134$71B4E7C7-3CCD-4EC9-AFDC-6B4DF0E8735B",
         "mainsnak": {
@@ -81,7 +126,7 @@
     ],
     "P39": [
       {
-        "id": "Q91134$30631A4E-93E6-490C-88B7-4608794DB113",
+        "id": "Q86589$652CF20F-4E51-4364-8316-1DC238C0D762",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -100,7 +145,7 @@
         "type": "statement"
       },
       {
-        "id": "Q91134$87A045F7-2FCA-4F1C-BDBD-0B32B74B710B",
+        "id": "Q86589$225E2B76-03E9-42EA-A9DB-31C5C981B41D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -121,7 +166,7 @@
     ],
     "P47": [
       {
-        "id": "Q91134$E0676C03-718D-4CB5-83CE-ED46E6DD7D4F",
+        "id": "Q86589$FD9371DF-DEEB-4F40-8AA1-855D2781DCCB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -142,18 +187,39 @@
     ],
     "P5": [
       {
-        "id": "Q91134$8D316C7C-DCD2-46EE-A1E2-E2B2B2DF492F",
+        "id": "Q86589$AFE06FA0-2AA2-4B8A-BB23-6E3F4E368022",
         "mainsnak": {
           "datatype": "monolingualtext",
           "datavalue": {
             "type": "monolingualtext",
             "value": {
               "language": "en",
-              "text": "Abba \"Abbahu\" /bar Acha bar Sallah al-Kafri/"
+              "text": "Abba \"Abbahu\" /bar Acha bar Sallah al-Kafri, resh metivta al-Kafri/"
             }
           },
-          "hash": "8821d897fdeb501dffc2bac819b01526778ca558",
+          "hash": "b5765513f6fd0379bb9315637adc4671f7e3a750",
           "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q86589$BB7F870D-1A8B-47C0-AFB9-C34DFA31A9DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -171,27 +237,6 @@
           },
           "hash": "e8a7b4b9154dcbbbaa25e891d930926a6cd1cb88",
           "property": "P54",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P55": [
-      {
-        "id": "Q91134$A0E576BC-119F-4DB1-953B-63E3F62C180E",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153718",
-              "numeric-id": 153718
-            }
-          },
-          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
-          "property": "P55",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -234,18 +279,18 @@
     ]
   },
   "descriptions": {},
-  "id": "Q91134",
+  "id": "Q86589",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Abba \"Abbahu\"  bar Acha bar Sallah al-Kafri"
+      "value": "Abba \"Abbahu\"  bar Acha bar Sallah al-Kafri, resh metivta al-Kafri"
     }
   },
-  "lastrevid": 17505939,
-  "modified": "2025-09-16T23:24:05Z",
+  "lastrevid": 17501399,
+  "modified": "2025-09-16T22:19:12Z",
   "ns": 860,
-  "pageid": 106208,
+  "pageid": 101420,
   "sitelinks": {},
-  "title": "Item:Q91134",
+  "title": "Item:Q86589",
   "type": "item"
 }

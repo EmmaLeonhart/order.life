@@ -879,6 +879,27 @@ CLUSTERS = {
                               "both are spouses of the same record Q78066, which lists "
                               "both as wives"),
     ],
+    # queue.md item 7 (2026-10-10): duplicates found while cutting loops and left unmerged
+    # then. Run apply_loop_duplicates_prep.py --write FIRST: it removes the two false edges
+    # (Leocadia as Arsenda's mother, Lucius Pinarius married to a copy of his mother) that
+    # these merges would otherwise carry onto the survivors. Zebudah (Q4626/Q60222) needs
+    # nothing: Q60222's file already claims Q4626.
+    "loop-duplicates": [
+        ("Q137708", "Q78267", "Julia Major -- 'Julia Caesaris Major' has the same parents "
+                              "Q73029 Caesar / Q73026 Aurelia; Q137708 carries wd Q2743448"),
+        ("Q78264", "Q78108", "Lucius Pinarius (Scarpus) -- wd Q382127 carries both names; "
+                             "Q78108 is the same man recorded as his own son"),
+        ("Q78264", "Q77955", "Lucius Pinarius Scarpus -- a third copy, one more generation "
+                             "down the same false chain"),
+        ("Q118293", "Q104371", "Arsenda de Cabrera -- same husband Ermengol VI and son "
+                               "Ermengol VII; Q118293 carries wd Q21126905"),
+        ("Q51954", "Q87862", "You Xiong -- same father Q54433 and only child Q6421 "
+                             "Shaodian; Q51954's aliases include the other's label"),
+        ("Q86617", "Q91224", "Shila Ish Kfar Temarta -- same label, both fathers of "
+                             "Q86607 Acha"),
+        ("Q86589", "Q91134", "Abba 'Abbahu' bar Acha bar Sallah al-Kafri -- same name, "
+                             "both children of Q86607 Acha"),
+    ],
 }
 
 

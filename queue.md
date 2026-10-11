@@ -377,36 +377,6 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-7. **DUPLICATES SURFACED BY LOOP WORK — real, deliberately not merged.** Every one was
-   found while cutting a loop, and in each case the merge would NOT have broken the loop,
-   which is why they are here and not done. Scope this session is loops.
-
-   - **The Pinarii, tangle 19 (2026-08-01).** Wikidata has a two-generation family:
-     `Q93953755` Pinarius, Caesar's brother-in-law, and his son `Q382127`, which carries
-     **both** labels *Lucius Pinarius* and *Lucius Pinarius Scarpus*. The dump spreads that
-     one son over three records — `Q78264` (holding the wd id), `Q78108` and `Q77955`
-     (same label, no wd id) — and gives him **two wives who are the same woman**:
-     `Q137708` "Julia Major" and `Q78267` "Julia Caesaris Major" have identical parents
-     `Q73029`/`Q73026`, so Lucius Pinarius is married to a second copy of his own mother.
-   - **Arsenda de Cabrera, twice (2026-08-02).** `Q118293` "Arsenda de Cabrera" carries
-     wd `Q21126905`, her real parents `Q123444`/`Q123448`, her husband Ermengol VI and her
-     son Ermengol VII. `Q104371` "Arsende de Cabrera" carries **no wd id** and the *same*
-     husband and son. The loop it sat in was cut instead, because merging would not have
-     broken it — the survivor keeps the false father-claim either way.
-   - **Zebudah, twice (2026-08-02).** `Q4626` and `Q60222` share the label, the Wikidata
-     id `Q30527376`, both fathers, and both sons. Surfaced by the Pedaiah unmerge; both sit
-     on the same side of that split, so it did not need deciding.
-   - **You Xiong, twice (2026-08-02).** `Q51954` "You Xiong" and `Q87862` " (You Xiong)
-     Youxiong" both have father `Q54433` and exactly one child, `Q6421` Shaodian, and
-     `Q51954`'s aliases include the other's label verbatim. Surfaced by the Shaodian cut;
-     merging would not have broken that ring. **Note `Q54433` is the haplogroup bridge
-     node**, so this pair sits on a cross-tradition join — check `cycle_policy.md` before
-     touching it.
-   - **The Shila pair.** `Q86617` and `Q91224` are both "Shila Ish Kfar Temarta" and both
-     recorded as the father of `Q86607` Acha. `Q86589` / `Q91134` is the same story one
-     generation down, both "Abba 'Abbahu' bar Acha bar Sallah al-Kafri", both children of
-     Acha.
-
 13. **CLASSIFY `qa_same_role_parents.tsv` before repairing any of it. "Every row is a
    defect" was WRONG.**
 

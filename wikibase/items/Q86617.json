@@ -1,5 +1,20 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shila Ish Kfar Temarta"
+      },
+      {
+        "language": "en",
+        "value": "שילא"
+      },
+      {
+        "language": "en",
+        "value": "Shila  Ish Kfar Temarta איש כפר תמרתא"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -114,6 +129,40 @@
           },
           "hash": "597cc1141a41406f96e0bb4507b59e6f6217ab81",
           "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q91224$A66C9D05-12E5-488A-ABA7-EFCCC6EB9C66",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "איש כפר תמרתא"
+          },
+          "hash": "1aecc6d93bc6e9b7371d5347cd48cee0c15cdae6",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q91224$2C265037-9BFC-4B8A-8229-231003A1E4E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
           "snaktype": "value"
         },
         "rank": "normal",

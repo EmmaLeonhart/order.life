@@ -18,7 +18,7 @@
   "claims": {
     "P20": [
       {
-        "id": "Q91224$FD859988-7135-4D80-BC60-AA0561EA8836",
+        "id": "Q86617$D50ADCFE-75E1-48B2-8DA4-0EE2FE5D4D74",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -39,7 +39,7 @@
     ],
     "P39": [
       {
-        "id": "Q91224$FD1F4A48-2031-4500-BC83-1A182060595B",
+        "id": "Q86617$CE14876B-0CF1-42CE-BCDD-592C1F5B534D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -58,7 +58,7 @@
         "type": "statement"
       },
       {
-        "id": "Q91224$5CD4610B-FBA7-46CA-B400-7E0EB14B6185",
+        "id": "Q86617$CD969D69-3452-496D-AB0F-DFFA8205B90C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -79,7 +79,7 @@
     ],
     "P5": [
       {
-        "id": "Q91224$0E004FEF-7A89-466E-8AD8-320CA9F3F605",
+        "id": "Q86617$34B10747-7A64-42FE-BF3C-359758BD6325",
         "mainsnak": {
           "datatype": "monolingualtext",
           "datavalue": {
@@ -91,6 +91,44 @@
           },
           "hash": "b834199cabda9fc07bc6707ca09d59399c284790",
           "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q86617$BFDDB035-20FA-4407-9DC6-D39EB3B3C458",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q86617$93563E1B-8408-4525-9A15-B07F4E455A31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000019071991923"
+          },
+          "hash": "597cc1141a41406f96e0bb4507b59e6f6217ab81",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -114,27 +152,6 @@
         "type": "statement"
       }
     ],
-    "P55": [
-      {
-        "id": "Q91224$506CA9DE-29FC-4A66-8B09-769931C7ED35",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153718",
-              "numeric-id": 153718
-            }
-          },
-          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P56": [
       {
         "id": "Q91224$2C265037-9BFC-4B8A-8229-231003A1E4E7",
@@ -151,45 +168,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P62": [
-      {
-        "id": "Q91224$27E49FEB-F03E-4954-BFD1-35C892E4FA9B",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "6000000019080307361"
-          },
-          "hash": "f65db483bfc85d3589e65df6a143fb157f7e072f",
-          "property": "P62",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q91224",
+  "id": "Q86617",
   "labels": {
     "en": {
       "language": "en",
       "value": "Shila  Ish Kfar Temarta"
     }
   },
-  "lastrevid": 17506029,
-  "modified": "2025-09-16T23:25:17Z",
+  "lastrevid": 17501427,
+  "modified": "2025-09-16T22:19:35Z",
   "ns": 860,
-  "pageid": 106328,
-  "sitelinks": {
-    "evolutionismwiki": {
-      "badges": [],
-      "site": "evolutionismwiki",
-      "title": "Notes:Q91224",
-      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q91224"
-    }
-  },
-  "title": "Item:Q91224",
+  "pageid": 101448,
+  "sitelinks": {},
+  "title": "Item:Q86617",
   "type": "item"
 }

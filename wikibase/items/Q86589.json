@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Abba \"Abbahu\"  bar Acha bar Sallah al-Kafri"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -34,6 +41,82 @@
             }
           },
           "hash": "c933de5f8637a8c2b3566b6a8220bd1ffa0d1513",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91134$71B4E7C7-3CCD-4EC9-AFDC-6B4DF0E8735B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91080",
+              "numeric-id": 91080
+            }
+          },
+          "hash": "469e5368db91bd2f20ce28d4ff900ba3fc284dfb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91134$7EFCEF16-1906-41C9-B94E-6CE85BA7FB0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91136",
+              "numeric-id": 91136
+            }
+          },
+          "hash": "4675ee626da0772658208e84bc5a3e1e93ebcc5d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91134$AFA2269A-29AF-4A9A-9943-0B4BF7CADAD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91138",
+              "numeric-id": 91138
+            }
+          },
+          "hash": "9418beeaa8d02b8dfea07b035898d3b1254cf7e4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91134$783AFD6C-35B9-49DC-BE50-9893BB401B6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91140",
+              "numeric-id": 91140
+            }
+          },
+          "hash": "c6b57ce64f566a33a3ea2393c27d36bd4670a547",
           "property": "P20",
           "snaktype": "value"
         },
@@ -137,6 +220,57 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q91134$D8842E8B-B848-42F7-922D-62461DC2CF02",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "resh metivta al-Kafri"
+          },
+          "hash": "e8a7b4b9154dcbbbaa25e891d930926a6cd1cb88",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q91134$DD2F6C64-6CDF-4899-BC0E-9BE39E69C474",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91134$511C6187-571C-4694-B8F7-0D8C344A6AA0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000019072029582"
+          },
+          "hash": "d69cd4d5c4b7d7f90a83f8f857273ac734da11be",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

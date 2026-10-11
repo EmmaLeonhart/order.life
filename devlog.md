@@ -5125,3 +5125,19 @@ reading.
 `Q133062` Chloris (both sides of the edge) and the Wikidata id `Q1183222`, which moved off `Q75123`
 and its shadow `Q89022`; `Q75123` keeps `Q1183226`. Checked against Wikidata first: `Q1183222` is
 "son of Neleus", mother `Q28122362` Chloris = dump `Q133062`. Verified from disk.
+
+## 2026-10-10 — the loop-work duplicates merged (item 7 done)
+
+Seven merges, cluster `loop-duplicates` in `merge_cluster.py`: Julia Caesaris Major into Julia Major
+`Q137708`; two later copies of Lucius Pinarius (Scarpus) into `Q78264` (wd Q382127), which had
+recorded him as his own son and grandson; Arsende into Arsenda de Cabrera `Q118293`; You Xiong
+`Q87862` into `Q51954`; the Shila pair into `Q86617`; the Abba bar Acha pair into `Q86589`. Zebudah
+needed nothing (`Q60222` already claims `Q4626`).
+
+Before it, `apply_loop_duplicates_prep.py` removed two false edges the merges would have carried:
+Leocadia de Castro as Arsenda's mother (Wikidata gives Berenguera de Queralt and a Sancha), and
+Lucius Pinarius married to "Julia Caesaris Major", a copy of his own mother. I4 pre-check clean.
+
+First real run of the item 1d change: the merge repointed 33 files that named a merged-away qid, and
+its verify found no file claiming or naming any of the 7 vacated qids. `shadow_audit.py`: 0 qids
+where files disagree. Extract and invariants are being regenerated after the merge.

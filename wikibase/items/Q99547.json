@@ -1,9 +1,34 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "有熊 (Yǒu Xióng)"
+      },
+      {
+        "language": "en",
+        "value": "You Xiong  (you Xiong)"
+      },
+      {
+        "language": "en",
+        "value": "(You Xiong)  Youxiong"
+      },
+      {
+        "language": "en",
+        "value": " (You Xiong)  Youxiong"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "有熊 (Yǒu Xióng)  Youxiong"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q87862$C9B7F4C6-A1A5-4363-9B39-5DF35AA3D6BF",
+        "id": "Q51954$F2FC6D5A-2912-43E1-A415-55BA067EC857",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -24,7 +49,7 @@
     ],
     "P39": [
       {
-        "id": "Q87862$9B5589C5-A5D9-45FA-8843-2F3402B0C69B",
+        "id": "Q51954$D1195429-9EA9-4146-BE89-15A7470C8D23",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +68,7 @@
         "type": "statement"
       },
       {
-        "id": "Q87862$F6E1C801-6472-4D36-B5C1-D6DF2F4044BA",
+        "id": "Q51954$3C169F3A-CEA6-489E-98AE-53DCEA86417A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,7 +89,7 @@
     ],
     "P47": [
       {
-        "id": "Q87862$F352E8A1-6511-4567-B071-E8BACB69D6BF",
+        "id": "Q51954$3DED98D8-1C4E-47EC-8FC2-49E7094BC932",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -85,7 +110,7 @@
     ],
     "P5": [
       {
-        "id": "Q87862$AEB3424D-F0DA-4C38-BE70-F92D505BFB29",
+        "id": "Q51954$E740D234-8589-45A3-B8D6-CD65AB16C6DF",
         "mainsnak": {
           "datatype": "monolingualtext",
           "datavalue": {
@@ -105,7 +130,7 @@
     ],
     "P55": [
       {
-        "id": "Q87862$E4D73686-0C13-40C2-9C9A-986C2F97E175",
+        "id": "Q51954$4AB37AC0-B467-48BC-81DE-2FA33C1053CE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -123,25 +148,42 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P94": [
+      {
+        "id": "Q51954$0D04AB5B-4196-4BC7-A548-A41E72915390",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "You Xiong Arms.svg"
+          },
+          "hash": "8e4617b9d03ab97ad6eabe94438c94fb54f9a5c2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q87862",
+  "id": "Q51954",
   "labels": {
     "en": {
       "language": "en",
-      "value": " (You Xiong)  Youxiong"
+      "value": "You Xiong"
     },
     "es": {
       "language": "es",
-      "value": "有熊 (Yǒu Xióng)  Youxiong"
+      "value": "Yǒu Xióng"
     }
   },
-  "lastrevid": 17502665,
-  "modified": "2025-09-16T22:37:22Z",
+  "lastrevid": 17457830,
+  "modified": "2025-09-16T11:47:46Z",
   "ns": 860,
-  "pageid": 102693,
+  "pageid": 66785,
   "sitelinks": {},
-  "title": "Item:Q87862",
+  "title": "Item:Q51954",
   "type": "item"
 }

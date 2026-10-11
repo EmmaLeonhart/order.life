@@ -1,30 +1,17 @@
 {
-  "aliases": {},
-  "claims": {
-    "P20": [
+  "aliases": {
+    "en": [
       {
-        "id": "Q78108$B3E4E002-9A69-447A-8630-114D0BF05AC6",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q77955",
-              "numeric-id": 77955
-            }
-          },
-          "hash": "23ef1710a983ec0f6109b3dea61147a6419aaf6f",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
+        "language": "en",
+        "value": "Lucius Pinarius Scarpus"
       }
-    ],
+    ]
+  },
+  "claims": {
+    "P20": [],
     "P39": [
       {
-        "id": "Q78108$F272234F-3C4E-4073-85A1-2A7FC244BBCF",
+        "id": "Q78264$DD69B007-1E21-46AD-A713-D032EB5F9100",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +30,7 @@
         "type": "statement"
       },
       {
-        "id": "Q78108$0D43103A-04FC-4B17-98FF-A5D43EACEA2E",
+        "id": "Q78264$1ED64E68-754E-4880-BA79-EF1495330FF3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +51,18 @@
     ],
     "P47": [
       {
-        "id": "Q78108$CA5D54CA-CA12-4C2C-995D-1B08E92DF9EF",
+        "id": "Q78264$9E38DB9D-3D5A-4DBD-841C-05E83E77C6F9",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q78264",
-              "numeric-id": 78264
+              "id": "Q77782",
+              "numeric-id": 77782
             }
           },
-          "hash": "d4c7e2027ae858b7575f8b1a657ca3d4682ecbf6",
+          "hash": "72eb4312ed0f68e548a4e813b6efd6c971d9c1f9",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,18 +72,18 @@
     ],
     "P48": [
       {
-        "id": "Q78108$0C59C168-1DF1-4671-93B5-3051155082DC",
+        "id": "Q78264$E1D125ED-B0BB-4B97-92E1-0E86DC1AA6C8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q78267",
-              "numeric-id": 78267
+              "id": "Q137708",
+              "numeric-id": 137708
             }
           },
-          "hash": "615f29309c43c92691a6435043d9d738a7fe900a",
+          "hash": "46b5e4ac0c87cfdafa5edbb0cb8118554c0bf8c7",
           "property": "P48",
           "snaktype": "value"
         },
@@ -106,7 +93,7 @@
     ],
     "P55": [
       {
-        "id": "Q78108$BEBF4D60-F9EF-4B86-9700-50D54CAD99F5",
+        "id": "Q78264$D1FCB542-3B9E-4059-BE30-E9F5FCF8C6A8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -125,16 +112,33 @@
         "type": "statement"
       }
     ],
+    "P61": [
+      {
+        "id": "Q78264$99AD8A8A-B67D-49C0-888E-6E770BF3805B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q382127"
+          },
+          "hash": "845428c14ea4e37e06f2240bf376c7c926380562",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P94": [
       {
-        "id": "Q78108$6159C5E0-8EF0-4604-8564-F10F042FD0E0",
+        "id": "Q78264$ED455D0A-701C-4E20-B350-DDBFB175A5A7",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
             "type": "string",
-            "value": "Lucius Pinarius Scarpus Arms.svg"
+            "value": "Lucius Pinarius Arms.svg"
           },
-          "hash": "c50f55b03e3b5d53909ff76a9f06e57e87972472",
+          "hash": "d83a786090ecd8e801122451486b5dc3d778f527",
           "property": "P94",
           "snaktype": "value"
         },
@@ -143,19 +147,108 @@
       }
     ]
   },
-  "descriptions": {},
-  "id": "Q78108",
-  "labels": {
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "militar romà del segle II aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker und Feldherr, neffe Caesars"
+    },
     "en": {
       "language": "en",
-      "value": "Lucius Pinarius Scarpus"
+      "value": "nephew or grandnephew of Julius Caesar"
+    },
+    "es": {
+      "language": "es",
+      "value": "legado de legión en Cirenaica"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
     }
   },
-  "lastrevid": 17492102,
-  "modified": "2025-09-16T20:08:38Z",
+  "id": "Q78264",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "لوسيوس پيناريوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Луций Пинарий Скарп"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Pinari"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Pinarius Scarpus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Pinarius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Pinario Escarpo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Pinarius Scarpus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Lucius Pinarius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Pinario"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Pinarius Scarpus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Pinarius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Пинарий Скарп"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Pinarius"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lucius Pinarius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Пінарій Скарп"
+    }
+  },
+  "lastrevid": 17492266,
+  "modified": "2025-09-16T20:10:56Z",
   "ns": 860,
-  "pageid": 92939,
+  "pageid": 93095,
   "sitelinks": {},
-  "title": "Item:Q78108",
+  "title": "Item:Q78264",
   "type": "item"
 }

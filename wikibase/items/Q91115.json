@@ -1,27 +1,14 @@
 {
-  "aliases": {},
-  "claims": {
-    "P20": [
+  "aliases": {
+    "en": [
       {
-        "id": "Q78264$363DDC84-AE7D-44B6-8360-7D2D660A26B9",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q78108",
-              "numeric-id": 78108
-            }
-          },
-          "hash": "49d43e66146c97747079519ce4c09d16b7c75033",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
+        "language": "en",
+        "value": "Lucius Pinarius Scarpus"
       }
-    ],
+    ]
+  },
+  "claims": {
+    "P20": [],
     "P39": [
       {
         "id": "Q78264$DD69B007-1E21-46AD-A713-D032EB5F9100",
@@ -56,27 +43,6 @@
           },
           "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
           "property": "P39",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P42": [
-      {
-        "id": "Q78264$A2A4A082-3B0C-47A3-8107-972809688635",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q78267",
-              "numeric-id": 78267
-            }
-          },
-          "hash": "e16af22988f2f41265dc4a6fb7f1a58f96db8f01",
-          "property": "P42",
           "snaktype": "value"
         },
         "rank": "normal",

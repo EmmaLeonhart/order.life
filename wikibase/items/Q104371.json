@@ -3,16 +3,73 @@
     "en": [
       {
         "language": "en",
-        "value": "Arsenda de Cabrera"
+        "value": "Arsende de Cabrera"
       },
       {
         "language": "en",
-        "value": "Arsende de Cabrera"
+        "value": "Arsende  de Cabrera"
       }
     ]
   },
   "claims": {
     "P20": [
+      {
+        "id": "Q118293$A68F2E5A-0E58-4E8F-BB61-7CB72E1B0532",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119232",
+              "numeric-id": 119232
+            }
+          },
+          "hash": "9268468ba9588051080a1ca926b566188c1153b4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118293$F408CBF4-B0B2-4930-B823-2BF3EC1E66DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114812",
+              "numeric-id": 114812
+            }
+          },
+          "hash": "85dd4071cd84512129dcfa1dca4253ff162eacf4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118293$77C1ADB5-9786-4B48-9FB9-9D06565E635F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q107162",
+              "numeric-id": 107162
+            }
+          },
+          "hash": "42c2b741a0a745360902cfed9252a403aba55b83",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q104371$41A1D2CD-B665-4CF8-AA82-BB69E82758A7",
         "mainsnak": {
@@ -26,25 +83,6 @@
             }
           },
           "hash": "150958d234bf9daf160e52d9717e122a9a6dbc0d",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q104371$9A78781C-77D1-4A4A-BC85-DA196D7CD00E",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q107162",
-              "numeric-id": 107162
-            }
-          },
-          "hash": "42c2b741a0a745360902cfed9252a403aba55b83",
           "property": "P20",
           "snaktype": "value"
         },
@@ -73,7 +111,7 @@
     ],
     "P39": [
       {
-        "id": "Q104371$3041E9F7-CD58-4009-BDB0-D9C8954DDE6E",
+        "id": "Q118293$D5216634-C184-4F26-95DC-944129CE3051",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -92,7 +130,7 @@
         "type": "statement"
       },
       {
-        "id": "Q104371$7831C555-0B21-4F88-BF05-F9AAD22788AA",
+        "id": "Q118293$BA753318-965D-4270-AF7F-A577BE5F00A1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -113,7 +151,7 @@
     ],
     "P42": [
       {
-        "id": "Q104371$AECE1CD9-3D3D-42DE-BABD-01F62D85762B",
+        "id": "Q118293$EB8B179B-54FE-46CF-A985-E17131DD3432",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -132,20 +170,41 @@
         "type": "statement"
       }
     ],
-    "P48": [
+    "P47": [
       {
-        "id": "Q104371$7CB6954F-DC59-485D-9777-3B626A79BE14",
+        "id": "Q118293$E39DF338-5020-4D9C-B2E0-3BB482E0707A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q104369",
-              "numeric-id": 104369
+              "id": "Q123444",
+              "numeric-id": 123444
             }
           },
-          "hash": "aa85c1a220d4e6aecaca763301e7377b295d7bf7",
+          "hash": "ad6ec5d970f3fe483e883fc7a7e798168278d7d0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q118293$0D423B9F-1C97-4B58-8CDF-8F6563BC63C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123448",
+              "numeric-id": 123448
+            }
+          },
+          "hash": "2224abdca95a129d84d213c7d5ab2fd0f5f87121",
           "property": "P48",
           "snaktype": "value"
         },
@@ -155,7 +214,7 @@
     ],
     "P55": [
       {
-        "id": "Q104371$FBF07B93-4183-4322-80D5-3BFEA38D4E08",
+        "id": "Q118293$E3F89F1F-0D67-4BD1-B755-CDA8D2A69565",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -168,6 +227,40 @@
           },
           "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q118293$1AC175A0-79F7-48B5-80BA-FBA4EC89793E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q21126905"
+          },
+          "hash": "142cff27474eecac2bee25a220b9c0ed677f200b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118293$DFD3DFD1-82AD-49B5-A495-ED7736A4FEEC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arsenda de Cabrera Arms.svg"
+          },
+          "hash": "671d2b880a46a5bf8a6a4e4ae94cbf280d6c85f9",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -190,38 +283,42 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q104371$8C69235A-7523-4C6F-89A2-D72BF16D11FF",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Arsende  de Cabrera Arms.svg"
-          },
-          "hash": "85bfe963d7001badaf963ad699f01109ddc3e98d",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q104371",
-  "labels": {
-    "en": {
-      "language": "en",
-      "value": "Arsende  de Cabrera"
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "comtessa consort d'Urgell"
     }
   },
-  "lastrevid": 17517092,
-  "modified": "2025-09-17T02:11:06Z",
+  "id": "Q118293",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Arsenda de Cabrera"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arsenda de Cabrera"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arsenda de Cabrera"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Arsende de Cabrera"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arsenda de Cabrera"
+    }
+  },
+  "lastrevid": 17530945,
+  "modified": "2025-09-17T05:42:13Z",
   "ns": 860,
-  "pageid": 123421,
+  "pageid": 142113,
   "sitelinks": {},
-  "title": "Item:Q104371",
+  "title": "Item:Q118293",
   "type": "item"
 }
