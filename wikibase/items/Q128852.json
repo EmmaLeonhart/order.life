@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Adolphus I, Count of the Mark"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -254,40 +247,6 @@
         "type": "statement"
       }
     ],
-    "P61": [
-      {
-        "id": "Q128852$20693BBC-5B74-4C69-B91E-35359002AB0D",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q83960"
-          },
-          "hash": "9082eabc581fd1540c6d1de63193492bb2ffbe88",
-          "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P62": [
-      {
-        "id": "Q128852$D7C9D66F-B77C-439F-A5B4-0D2EA397EBB5",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "6000000002288008174"
-          },
-          "hash": "318e3ccb0e8ad91d0a8f8b68621c7c83f97874d9",
-          "property": "P62",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P8172": [
       {
         "id": "Q128852$D5D6A34E-4149-4490-B97B-166AD023394A",
@@ -305,183 +264,32 @@
         "type": "statement"
       }
     ],
-    "P94": [
+    "P61": [
       {
-        "id": "Q128852$6C835F57-582E-4219-81E3-C4ED69C642B9",
         "mainsnak": {
-          "datatype": "commonsMedia",
+          "snaktype": "value",
+          "property": "P61",
           "datavalue": {
-            "type": "string",
-            "value": "Solomon Luria Arms.svg"
-          },
-          "hash": "e6dd4bbe5683fdea0470d96498d1278702b1a57f",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q95646",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "ar": {
-      "language": "ar",
-      "value": "حاخام بولندي"
-    },
-    "bn": {
-      "language": "bn",
-      "value": "পোলীয় রাব্বি"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "rabí polonès"
-    },
-    "cs": {
-      "language": "cs",
-      "value": "polský rabín"
-    },
-    "de": {
-      "language": "de",
-      "value": "jüdischer Gelehrter"
-    },
     "en": {
       "language": "en",
-      "value": "Polish rabbi"
-    },
-    "en-ca": {
-      "language": "en-ca",
-      "value": "Polish rabbi"
-    },
-    "en-gb": {
-      "language": "en-gb",
-      "value": "Polish rabbi"
-    },
-    "es": {
-      "language": "es",
-      "value": "rabino polaco"
-    },
-    "et": {
-      "language": "et",
-      "value": "Poola rabi"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "rabbin polonais"
-    },
-    "gl": {
-      "language": "gl",
-      "value": "rabino polaco"
-    },
-    "he": {
-      "language": "he",
-      "value": "רב ומנהיג יהודי, ממעצבי ההלכה היהודית"
-    },
-    "hr": {
-      "language": "hr",
-      "value": "poljski rabin"
-    },
-    "it": {
-      "language": "it",
-      "value": "rabbino polacco"
-    },
-    "pl": {
-      "language": "pl",
-      "value": "uczony żydowski, rabin"
-    },
-    "ro": {
-      "language": "ro",
-      "value": "rabin polonez"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "галахист и комментатор Талмуда"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "rabin polak"
-    },
-    "tr": {
-      "language": "tr",
-      "value": "Polonyalı haham (1510 – 1573)"
-    },
-    "yi": {
-      "language": "yi",
-      "value": "רב אין פוילן"
+      "value": "count of the Mark, son of Frederick I of Berg-Altena (identity restored 2026-10-11 from its children on Wikidata; an import had written that of the rabbi Solomon Luria, b. 1510, over it)"
     }
   },
   "id": "Q128852",
   "labels": {
-    "ar": {
-      "language": "ar",
-      "value": "سليمان لوريا"
-    },
-    "cs": {
-      "language": "cs",
-      "value": "Salomon Luria"
-    },
-    "de": {
-      "language": "de",
-      "value": "Salomo Luria"
-    },
     "en": {
       "language": "en",
-      "value": "Solomon Luria"
-    },
-    "eo": {
-      "language": "eo",
-      "value": "Salomon Luria"
-    },
-    "es": {
-      "language": "es",
-      "value": "Solomon Luria"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Šlōmō ben Yeḥî'ēl Lûrîa"
-    },
-    "he": {
-      "language": "he",
-      "value": "שלמה לוריא"
-    },
-    "hu": {
-      "language": "hu",
-      "value": "Salomon Luria"
-    },
-    "id": {
-      "language": "id",
-      "value": "Salomo Luria"
-    },
-    "it": {
-      "language": "it",
-      "value": "Solomon Luria"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Šlōmō ben Yeḥî'ēl Lûrîa"
-    },
-    "pl": {
-      "language": "pl",
-      "value": "Salomon Luria"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "Соломон Лурия"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Solomon Luria"
-    },
-    "tr": {
-      "language": "tr",
-      "value": "Solomon Luria"
-    },
-    "uk": {
-      "language": "uk",
-      "value": "Шломо Лурія"
-    },
-    "yi": {
-      "language": "yi",
-      "value": "מהרש\"ל"
+      "value": "Adolf I, Count of the Mark"
     }
   },
   "lastrevid": 17541881,

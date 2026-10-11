@@ -5362,3 +5362,13 @@ and Teruko, are recorded correctly). The record itself is female and born 18 Feb
 Ono's birthday; an import had written the identity of Henry of Friemar, a 14th-century Augustinian
 theologian, over it. Restored as Yoko Ono (wd Q117012). The other two flags are Wikidata-side bad
 dates, nothing to fix here: Idris Ibn Abdallah (Wikidata birth "2013") and Nuno Alvites ("100").
+
+## 2026-10-11 — two more collisions in the second tier (item 17c)
+
+With the threshold at 150 years instead of 300, the new rows are mostly not collisions: the
+Genesis 11 patriarchs under Mesopotamian royal names (Ishme-Dagan with Arpachshad's id, Naram-Ilum
+with Salah's), which are deliberate, and imprecise ancient dates (Kenan, Scorpion II, Da Ding of
+Shang, Mary of Clopas). Two were real: "Solomon Luria" (the rabbi, b. 1510), whose children are
+13th-century von der Marks, is Adolf I, Count of the Mark; "Louis I, Count Palatine of Zweibrücken"
+(b. 1424), a woman whose son is the trouvère Conon de Béthune, is his mother Adélise de Saint-Pol.
+Both restored with `fix_collided_identity.py`.
