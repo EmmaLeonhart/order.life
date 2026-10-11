@@ -5353,3 +5353,12 @@ With the rate limit lifted: `Q143384` is Udo von Nellenburg, archbishop of Trier
 of Nellenburg), and `Q153600` is Manegold of Berg, bishop of Passau (son of Diepold II of Berg);
 each the only child Wikidata gives the parents that the dump lacks, of the right sex. Restored with
 `fix_collided_identity.py`. Two NN records remain by choice (the Sulla father, the Marius claimant).
+
+## 2026-10-11 — "Henry of Friemar" was Yoko Ono (item 17c)
+
+Flagged because its relatives' Wikidata birth years (1902, 1911) were 650 years after its own. The
+relatives are right: Eisuke and Isoko Ono, Yoko Ono's parents (Isoko's own parents, Yasuda Zenzaburō
+and Teruko, are recorded correctly). The record itself is female and born 18 February 1933, Yoko
+Ono's birthday; an import had written the identity of Henry of Friemar, a 14th-century Augustinian
+theologian, over it. Restored as Yoko Ono (wd Q117012). The other two flags are Wikidata-side bad
+dates, nothing to fix here: Idris Ibn Abdallah (Wikidata birth "2013") and Nuno Alvites ("100").
