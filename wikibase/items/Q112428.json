@@ -1,5 +1,20 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elvira Alfonso"
+      },
+      {
+        "language": "en",
+        "value": "Elvira Alfonso de Castilla y Leon"
+      },
+      {
+        "language": "en",
+        "value": "Elvira  Alfonso de Castilla y Leon"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -41,18 +56,94 @@
         "type": "statement"
       },
       {
-        "id": "Q112428$F57E49F5-9556-4DFA-81F7-861A6F85CA3B",
+        "id": "Q104282$AF24DA01-D7EF-4B10-891A-4A6D1599C762",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q107026",
-              "numeric-id": 107026
+              "id": "Q118681",
+              "numeric-id": 118681
             }
           },
-          "hash": "7a4c822d30c761f7ef31c8c6ca5b477f2eeb42ea",
+          "hash": "feda459fe488f3a4be4049fca791b0058b45c774",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104282$152BB322-80D0-4917-B96C-CB1286145891",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q107030",
+              "numeric-id": 107030
+            }
+          },
+          "hash": "2d95bc6bad41ec59194d3b7fef21fea56fb0a606",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104282$67E66C09-D061-468D-BB1C-CCA8426D5BA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118687",
+              "numeric-id": 118687
+            }
+          },
+          "hash": "de204806b7c15f937a24b6009cc79c508423f69a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104282$551F39C4-F3E3-426C-8A56-9A63D7B27121",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118689",
+              "numeric-id": 118689
+            }
+          },
+          "hash": "7ee4394f47eca649c266111da18a151a9556562f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104282$CFCC7744-0ECB-4D6D-8227-B9980CDD225F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118691",
+              "numeric-id": 118691
+            }
+          },
+          "hash": "1df07bc830e17918f1525ff3154e931ac61cbc78",
           "property": "P20",
           "snaktype": "value"
         },
@@ -133,6 +224,25 @@
             }
           },
           "hash": "e26c3f81879b078a744ee7d17ecef5b01f2cdd75",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104282$D0C9AE8C-10A6-4F03-B795-BB850393C484",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118685",
+              "numeric-id": 118685
+            }
+          },
+          "hash": "d47f5d527a61fa3d970fd2f17a06ac6cdf670c19",
           "property": "P42",
           "snaktype": "value"
         },
@@ -231,6 +341,40 @@
           },
           "hash": "e4e1520c779a63f06c02d090bb59e9ded6f95e5d",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q104282$E766D6BF-0661-4CDF-AA47-7370B8D884FB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "condesa de Tolosa"
+          },
+          "hash": "6bd52d039ecc4b499abd73c7df0f0efd5d6f47c9",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q104282$58FE4819-F9C9-4A6F-96A3-F8312ABD194D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000900889388"
+          },
+          "hash": "ec51edf02fee516366b4c7b6b3f3218ba93e5497",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

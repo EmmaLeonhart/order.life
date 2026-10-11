@@ -1,12 +1,14 @@
 {
   "aliases": {
-    "el": [
-      {
-        "language": "el",
-        "value": "Κλεοπάτρα"
-      }
-    ],
     "en": [
+      {
+        "language": "en",
+        "value": "Cleopatra III"
+      },
+      {
+        "language": "en",
+        "value": "Cleopatra III of Egypt"
+      },
       {
         "language": "en",
         "value": "Cleopatra"
@@ -23,10 +25,111 @@
         "language": "en",
         "value": "Cleopatra III, Queen of Egypt"
       }
+    ],
+    "el": [
+      {
+        "language": "el",
+        "value": "Κλεοπάτρα"
+      }
     ]
   },
   "claims": {
     "P20": [
+      {
+        "id": "Q73035$C953C52B-8A51-4FC9-B144-321FB3F705EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78713",
+              "numeric-id": 78713
+            }
+          },
+          "hash": "1cae983fa0d8699d1066c3b48742ba885b814fac",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73035$BAB818AD-963E-471C-9F31-4BBD8233D119",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135920",
+              "numeric-id": 135920
+            }
+          },
+          "hash": "14e2878407eaddfe3f4cd5655553276a803253cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73035$24E49893-AEB0-4053-85BD-0DC0819B2B6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78402",
+              "numeric-id": 78402
+            }
+          },
+          "hash": "9846bbb85f39d689f77380a3893e07e115984bb4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73035$997098A6-A63B-47A5-AF43-E96BC549F86C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135922",
+              "numeric-id": 135922
+            }
+          },
+          "hash": "e6fe652b6b47419221c42e99f03ddfa3bab8bb1d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73035$707734E9-D402-4DB4-B274-1676DA2FC9AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72888",
+              "numeric-id": 72888
+            }
+          },
+          "hash": "1615a37f87cdb6d02f663da693b5e564a98a1b7e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q78719$8D790BC2-D175-4EF5-83AD-DE2A97A5DF5D",
         "mainsnak": {
@@ -40,44 +143,6 @@
             }
           },
           "hash": "249a0d735d4d3b421ddabe9425fae61213d6a98c",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q78719$2095D169-B543-4E77-9D49-4C86BADF0307",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q72888",
-              "numeric-id": 72888
-            }
-          },
-          "hash": "b29d1fe8f7d3ea46fef894b4c87b1743d3c3137b",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q78719$99C546A8-FAE4-4A7B-BF61-92B5E8EBD885",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q78713",
-              "numeric-id": 78713
-            }
-          },
-          "hash": "1cae983fa0d8699d1066c3b48742ba885b814fac",
           "property": "P20",
           "snaktype": "value"
         },
@@ -201,7 +266,7 @@
     ],
     "P39": [
       {
-        "id": "Q78719$7A4315F9-1291-4E5E-8971-9EDEE4AFE392",
+        "id": "Q73035$C3448E96-6FB1-4BCB-8E34-5DEDA0BEAF0D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -220,7 +285,7 @@
         "type": "statement"
       },
       {
-        "id": "Q78719$27FB24F8-CE07-4430-86B7-0BDFD6096AAF",
+        "id": "Q73035$816C25D4-F162-4C0B-9276-55448987EEFD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -241,6 +306,44 @@
     ],
     "P42": [
       {
+        "id": "Q73035$96ED4BB4-5B9C-4FD5-8458-E280AAE93B18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73038",
+              "numeric-id": 73038
+            }
+          },
+          "hash": "2734f8941439896c34273408ee5b12bdff322bc2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73035$1C51B66B-8B9F-4C14-A655-9F56D85BF166",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73197",
+              "numeric-id": 73197
+            }
+          },
+          "hash": "f042cd9fc4613f1e1eaa319878d6839aa7d37e9e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
         "id": "Q78719$D2F51DB3-F52F-440B-A6AF-C185E272F711",
         "mainsnak": {
           "datatype": "wikibase-item",
@@ -258,49 +361,11 @@
         },
         "rank": "normal",
         "type": "statement"
-      },
-      {
-        "id": "Q78719$2244772D-6DB4-437F-8777-28E50300A700",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q73197",
-              "numeric-id": 73197
-            }
-          },
-          "hash": "d14275e84fe8c76c5ae6ddee48a74485532c151d",
-          "property": "P42",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
       }
     ],
     "P47": [
       {
-        "id": "Q78719$CA33A558-4204-42A5-A9EA-2824EADC52C1",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q73038",
-              "numeric-id": 73038
-            }
-          },
-          "hash": "36c73143e7a4930c8deb3fc8d6d31881a11d1990",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q78719$2B19AF7B-B671-4924-AC51-2E387C08B59A",
+        "id": "Q73035$12854395-A6AD-48D6-9122-039222698998",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -311,7 +376,7 @@
               "numeric-id": 73197
             }
           },
-          "hash": "d57e0b919b328a46f212f3fa3f9b5ed4cdd22c3a",
+          "hash": "b29c9429810668c3ca1677bb606712214f043ca6",
           "property": "P47",
           "snaktype": "value"
         },
@@ -321,7 +386,7 @@
     ],
     "P48": [
       {
-        "id": "Q78719$0281F0BD-152E-4C4C-B275-6562579976D9",
+        "id": "Q73035$B2F26346-751C-49B7-91B4-5E80912D574E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -340,26 +405,9 @@
         "type": "statement"
       }
     ],
-    "P54": [
-      {
-        "id": "Q78719$863C71F1-DE95-47FA-A33F-B6184BC071A3",
-        "mainsnak": {
-          "datatype": "string",
-          "datavalue": {
-            "type": "string",
-            "value": "Θεά της Αιγύπτου"
-          },
-          "hash": "39ebbd862380b48fb70349076c3b10422654cfe5",
-          "property": "P54",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P55": [
       {
-        "id": "Q78719$A5887B1C-8712-45EA-BA5E-C1AC40534ED1",
+        "id": "Q73035$873D0817-7755-4AE5-9BC7-76574D24E8FB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -372,6 +420,57 @@
           },
           "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73035$FF2A917A-44CA-4C97-8B42-F3926622D625",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q40003"
+          },
+          "hash": "2aaea3201c7a461673d8022209bcc0eb16a56f10",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73035$23084C19-56F5-4295-906C-7033776ECB67",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleopatra III of Egypt Arms.svg"
+          },
+          "hash": "02a60c6dc3acbe252d60e30f194cec87c74d58a7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q78719$863C71F1-DE95-47FA-A33F-B6184BC071A3",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Θεά της Αιγύπτου"
+          },
+          "hash": "39ebbd862380b48fb70349076c3b10422654cfe5",
+          "property": "P54",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -426,23 +525,6 @@
         "type": "statement"
       }
     ],
-    "P61": [
-      {
-        "id": "Q78719$2A19D8EB-4D41-BD8F-0B0B-0F86CB307CD2",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q40003"
-          },
-          "hash": "2aaea3201c7a461673d8022209bcc0eb16a56f10",
-          "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P62": [
       {
         "id": "Q78719$E9F5AA50-96C5-49D7-A977-11E4D451BBB0",
@@ -454,23 +536,6 @@
           },
           "hash": "6712e9de98933a179ee0ac5ddcc5704788acce6b",
           "property": "P62",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q78719$4E96EF7A-2110-4F66-A976-669C6E8DC2F4",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Cleopatra III of Egypt Arms.svg"
-          },
-          "hash": "02a60c6dc3acbe252d60e30f194cec87c74d58a7",
-          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -536,7 +601,7 @@
       "value": "Цариця Єгипту"
     }
   },
-  "id": "Q78719",
+  "id": "Q73035",
   "labels": {
     "ar": {
       "language": "ar",
@@ -731,11 +796,18 @@
       "value": "克娄巴特拉三世"
     }
   },
-  "lastrevid": 17492716,
-  "modified": "2025-09-16T20:17:19Z",
+  "lastrevid": 17485686,
+  "modified": "2025-09-16T18:38:23Z",
   "ns": 860,
-  "pageid": 93550,
-  "sitelinks": {},
-  "title": "Item:Q78719",
+  "pageid": 87866,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73035",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73035"
+    }
+  },
+  "title": "Item:Q73035",
   "type": "item"
 }

@@ -1,5 +1,24 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Raymund IV 'de St. Gilles' de Tolosa"
+      },
+      {
+        "language": "en",
+        "value": "Raymond IV, comte de Toulouse"
+      },
+      {
+        "language": "en",
+        "value": "Raymond de TOULOUSE"
+      },
+      {
+        "language": "en",
+        "value": "Raymond  de TOULOUSE"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -41,18 +60,37 @@
         "type": "statement"
       },
       {
-        "id": "Q112446$5A6A92CB-2C1A-46AB-ACA4-3379356ADCFC",
+        "id": "Q107024$9C00AD48-BDA1-4D54-9472-FD5157C6E5E2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q107026",
-              "numeric-id": 107026
+              "id": "Q118681",
+              "numeric-id": 118681
             }
           },
-          "hash": "7a4c822d30c761f7ef31c8c6ca5b477f2eeb42ea",
+          "hash": "feda459fe488f3a4be4049fca791b0058b45c774",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q107024$D1014B7E-D979-47EB-A1E4-DDC98C7B7096",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q107030",
+              "numeric-id": 107030
+            }
+          },
+          "hash": "2d95bc6bad41ec59194d3b7fef21fea56fb0a606",
           "property": "P20",
           "snaktype": "value"
         },
@@ -250,6 +288,30 @@
           },
           "hash": "64b35c7afe7a14576d4b1d7f034939795dbecfce",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q107024$469E8276-344C-4CF7-9A23-590C013E0706",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1105-02-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f7fd4914049a9c0f6420a76dbbd6a291d841a42d",
+          "property": "P57",
           "snaktype": "value"
         },
         "rank": "normal",

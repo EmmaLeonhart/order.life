@@ -5406,3 +5406,15 @@ parents are themselves duplicates or one carries a false parent (Manrique Pérez
 III's copy with Ptolemy VIII, Urraca Garcés, Urraca of León, Alphonse Jourdain, Elvira Menéndez) and
 wait for their parents. Merged (`merge_cluster.py dedupe-batch-1`): Prometheus, Inachus, Maud of
 Savoy, Constantine the Great, Deucalion; 107 files repointed.
+
+## 2026-10-11 — DEDUPE backlog, batch 2: twelve merged, two false parents cut
+
+Five of batch 1's six blocked pairs resolved by fixing their parents first. Cut: Ptolemy VIII as
+father of the Cleopatra III copy (`cleopatra-iii-copy`, the edge already cut from the main record),
+and "Jimena Fernández de Castro" as mother of the Geni copy of Elvira of Castile, whose mother is
+Jimena Muñoz on Wikidata and on the main record (`elvira-castile-copy`; simulated, worst loss 1
+level). Merged, parents before children (`merge_cluster.py dedupe-batch-2`): Fernando Bermúdez,
+García Sánchez II of Pamplona, Jimena Fernández, Constance of Burgundy, Raymond IV of Toulouse,
+Elvira of Castile, Hermenegildo Gutiérrez, then Cleopatra III, Urraca Garcés, Urraca of León,
+Alphonse Jourdain and Elvira Menéndez; 144 files repointed. Left: Manrique Pérez de Lara, whose two
+mothers (Eva Pérez de Traba, Ava of Rochechouart) are rival identifications, not copies.

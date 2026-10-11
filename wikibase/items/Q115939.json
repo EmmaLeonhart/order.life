@@ -8,24 +8,47 @@
       {
         "language": "en",
         "value": "Elvira Alfonso de Castilla y Leon"
+      },
+      {
+        "language": "en",
+        "value": "Elvira  Alfonso de Castilla y Leon"
       }
     ]
   },
   "claims": {
     "P20": [
       {
-        "id": "Q104282$166BF0BF-3E36-4B3E-84E8-97547E013DFE",
+        "id": "Q112428$FCDFE0B9-B547-4E5A-8AAF-0ECC80961332",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q107026",
-              "numeric-id": 107026
+              "id": "Q118679",
+              "numeric-id": 118679
             }
           },
-          "hash": "7a4c822d30c761f7ef31c8c6ca5b477f2eeb42ea",
+          "hash": "5c57afb9d46ac396495813d5104bf146d7e691d8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112428$A1113213-AC07-48AA-9BAB-C622240A7278",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113780",
+              "numeric-id": 113780
+            }
+          },
+          "hash": "c54fa5e70598b3a920e171089d7beb568ecb824d",
           "property": "P20",
           "snaktype": "value"
         },
@@ -130,7 +153,7 @@
     ],
     "P39": [
       {
-        "id": "Q104282$9299C7DD-7D8A-442D-A48D-3046CCBAD86E",
+        "id": "Q112428$F5E3D267-6098-47D2-BF8B-D14C3358D77B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -149,7 +172,7 @@
         "type": "statement"
       },
       {
-        "id": "Q104282$5BF67E21-75C9-4328-8896-C2FDEB1B2F6C",
+        "id": "Q112428$44CD129D-1DBA-4773-89DE-E5850D37833A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -170,18 +193,37 @@
     ],
     "P42": [
       {
-        "id": "Q104282$63AF067E-D5FD-4CCE-8131-68FFF14E5EA8",
+        "id": "Q112428$6379291B-7FDB-4601-9D40-329015E18183",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q107024",
-              "numeric-id": 107024
+              "id": "Q112446",
+              "numeric-id": 112446
             }
           },
-          "hash": "477157918761f5fa25b10c9080095f36ebc708a5",
+          "hash": "d9b82feee1ec72df5240b675b8c620bd7e01da0e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112428$28138E8D-983B-4AE5-9A86-4EBF15495F03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113778",
+              "numeric-id": 113778
+            }
+          },
+          "hash": "e26c3f81879b078a744ee7d17ecef5b01f2cdd75",
           "property": "P42",
           "snaktype": "value"
         },
@@ -210,7 +252,7 @@
     ],
     "P47": [
       {
-        "id": "Q104282$0588B985-9EB3-4898-9DFB-0A82340D7527",
+        "id": "Q112428$5B0D0923-817C-4426-9601-8BEC3E92B4A9",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -231,19 +273,74 @@
     ],
     "P48": [
       {
-        "id": "Q104282$B9E57F18-FA20-4E7A-8489-1BA5E2EC42CB",
+        "id": "Q112428$871F6771-AEF8-4E9B-BD35-4192F4373A61",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q114176",
-              "numeric-id": 114176
+              "id": "Q111675",
+              "numeric-id": 111675
             }
           },
-          "hash": "c4dcbbc9f574dce36f049b14acbd0f87664ff6ea",
+          "hash": "ec5919b9a3c663241eebbe7718698bec1b89e049",
           "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q112428$A2AD60D8-FAF9-4A0F-8019-9E5F6D01CDE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q112428$7C19E718-09C9-4906-A280-9D2B9F2D4A13",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1185160"
+          },
+          "hash": "6402dd647a6f5e18efff56a5f79a16911113cc6a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q112428$C2028B73-F912-4E33-B405-A51FB8E0D12A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elvira of Castile Arms.svg"
+          },
+          "hash": "e4e1520c779a63f06c02d090bb59e9ded6f95e5d",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -267,27 +364,6 @@
         "type": "statement"
       }
     ],
-    "P55": [
-      {
-        "id": "Q104282$B4472EB1-691C-4763-A378-3EDDBE0C4E8F",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153719",
-              "numeric-id": 153719
-            }
-          },
-          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P62": [
       {
         "id": "Q104282$58FE4819-F9C9-4A6F-96A3-F8312ABD194D",
@@ -304,45 +380,158 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q104282$E751804E-C1E4-4215-A9FA-3D8B4AC1B280",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Elvira  Alfonso de Castilla y Leon Arms.svg"
-          },
-          "hash": "676f45334518ec37ba9e8fc00da097ab952bf445",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q104282",
-  "labels": {
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كونتيسة تولوز"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "španělská šlechtična"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ισπανίδα ευγενής"
+    },
     "en": {
       "language": "en",
-      "value": "Elvira  Alfonso de Castilla y Leon"
+      "value": "Countess of Toulouse"
+    },
+    "es": {
+      "language": "es",
+      "value": "Infanta de León y condesa consorte de Tolosa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comtesse de Toulouse"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשת אצולה ספרדית"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aristocrate uit Koninkrijk León (1081-1157)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Condessa de Toulouse"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "filha ilegítima do rei Afonso VI de Leão e Castela"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "графиня Тулузька"
     }
   },
-  "lastrevid": 17517007,
-  "modified": "2025-09-17T02:09:56Z",
+  "id": "Q112428",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "إلبيرة القشتالية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ايلڤيرا الفونسيز كونتيسة تولوز"
+    },
+    "br": {
+      "language": "br",
+      "value": "Elvira Alfónsez"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Elvira Alfònsez"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Elvíra Kastilská"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ελβίρα της Καστίλης, κόμισσα της Τουλούζης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Elvira of Castile"
+    },
+    "es": {
+      "language": "es",
+      "value": "Elvira Alfónsez, condesa de Tolosa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "الویرا کاستیا، کنتس تولوز"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Elvire de Castille"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Elvira de Castela"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלווירה מקסטיליה, רוזנת טולוז"
+    },
+    "id": {
+      "language": "id",
+      "value": "Elvira dari Kastilia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Elvira di Castiglia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エルビラ・デ・カスティーリャ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elvira van Castilië"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Elvira de Castelha"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Elvira de Castela"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Elvira de Castela"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эльвира Кастильская"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Elvira of Castile"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Elvira av Kastilien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ельвіра ді Кастилія"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卡斯蒂利亞的艾薇拉"
+    }
+  },
+  "lastrevid": 17524137,
+  "modified": "2025-09-17T03:56:53Z",
   "ns": 860,
-  "pageid": 123301,
-  "sitelinks": {
-    "evolutionismwiki": {
-      "badges": [],
-      "site": "evolutionismwiki",
-      "title": "Notes:Q104282",
-      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q104282"
-    }
-  },
-  "title": "Item:Q104282",
+  "pageid": 134253,
+  "sitelinks": {},
+  "title": "Item:Q112428",
   "type": "item"
 }

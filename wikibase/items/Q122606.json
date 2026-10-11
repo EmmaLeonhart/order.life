@@ -4,6 +4,24 @@
       {
         "language": "en",
         "value": "Fernando Bermudez"
+      },
+      {
+        "language": "en",
+        "value": "Fernando Bermúdez de León"
+      },
+      {
+        "language": "en",
+        "value": "Fernán Bermúdez de León"
+      },
+      {
+        "language": "en",
+        "value": "Fernan  Bermudez de Leon"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Fernán  Bermúdez de León"
       }
     ]
   },
@@ -200,6 +218,47 @@
           },
           "hash": "2048a5e6457c3f73a4ba8e54d43c4d99ba450fd2",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q113455$0277090D-528A-4ABA-A331-A1167DF2F8A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0978-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a64b3d80274799f62bed2ffdaad8822165176057",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113455$DCBE97C6-1A96-42BA-97DF-6F85777A6FBE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000424629902"
+          },
+          "hash": "040a3feb7694ea95924b66a4e21f5f1eda90eb50",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

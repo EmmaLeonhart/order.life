@@ -1093,6 +1093,19 @@ CUTS = {
         ("Q123443", "Q104013", "the same Sancha as mother of Alfonso VI (b. 1040); his mother is "
                                "Sancha of Leon Q110976, also on his record"),
     ],
+    # DEDUPE batch 2 (2026-10-11): the copy of Cleopatra III still had Ptolemy VIII as father, the
+    # edge already cut from the main record (one-sided-contradicted, 2026-10-10). Before merging it.
+    "cleopatra-iii-copy": [
+        ("Q73038", "Q78719", "Ptolemy VIII as father of the Cleopatra III copy; her father is "
+                             "Ptolemy VI Q73197, also on it"),
+    ],
+    # DEDUPE batch 2 (2026-10-11): the Geni copy of Elvira of Castile (wife of Raymond IV) had
+    # "Jimena Fernandez de Castro" as mother; Wikidata Q1185160 and the main record Q112428 give
+    # Jimena Munoz Q111675. Simulated: worst loss 1 level (15 Comminges/Couserans descendants).
+    "elvira-castile-copy": [
+        ("Q114176", "Q104282", "Jimena Fernandez de Castro as mother of the Elvira of Castile copy; "
+                               "her mother is Jimena Munoz Q111675 (wd Q8196664)"),
+    ],
     # queue.md item 17b (2026-10-10). Simulated: 0 records lose depth.
     "cleopatra-iv": [
         ("Q73194", "Q78402", "Cleopatra II as a second mother of Cleopatra IV (wd Q40023), daughter "

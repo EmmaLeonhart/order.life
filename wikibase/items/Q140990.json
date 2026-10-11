@@ -16,12 +16,44 @@
       {
         "language": "en",
         "value": "Urraca Garces reina consorte de Leon"
+      },
+      {
+        "language": "en",
+        "value": "Urraca Garces"
       }
     ],
     "es": [
       {
         "language": "es",
         "value": "Urraca Garcés reina consorte de León"
+      },
+      {
+        "language": "es",
+        "value": "Urraca Garcés"
+      }
+    ],
+    "ar": [
+      {
+        "language": "ar",
+        "value": "التقويم الغريغوري"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "先発グレゴリオ暦"
+      }
+    ],
+    "ko": [
+      {
+        "language": "ko",
+        "value": "역산 그레고리력"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "外推格里曆"
       }
     ]
   },
@@ -40,6 +72,44 @@
             }
           },
           "hash": "9f2e177ae52f3d357270b2f501c947e401f26b9b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101722$46CD3610-5C2A-4D31-8FFE-5E33A4ACD750",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113509",
+              "numeric-id": 113509
+            }
+          },
+          "hash": "eaad992f3ef233de7e800fc67b8b33c20c6aae32",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101722$C4B903C7-F7FE-4373-BBEF-2B741B5DDB0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q102451",
+              "numeric-id": 102451
+            }
+          },
+          "hash": "2be824c481d8fc1706d61afbb730f8a9b665bcd6",
           "property": "P20",
           "snaktype": "value"
         },
@@ -238,6 +308,30 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P57": [
+      {
+        "id": "Q101722$50E78E11-9050-4D4B-A94C-82ABC9B7A6A3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1041-08-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "98c6f2b197512053623c9c5d611133cc41cc8605",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {
@@ -256,6 +350,14 @@
     "gl": {
       "language": "gl",
       "value": "raíña consorte de León"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グレゴリオ暦の暦法をその施行前にも適用したもの"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "將格里曆回推至最早採用的時間點以前而成的曆法"
     }
   },
   "id": "Q113385",

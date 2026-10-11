@@ -1002,6 +1002,23 @@ CLUSTERS = {
         ("Q62555", "Q61367", "Constantine the Great -- same name, shared parent and shared spouse (qa_same_role_parents.tsv, 2026-10-11)"),
         ("Q75153", "Q90478", "Deucalion -- same name, shared parent and shared spouse (qa_same_role_parents.tsv, 2026-10-11)"),
     ],
+    # DEDUPE batch 2 (2026-10-11): the strong pairs of batch 1 that tripped I4, with their duplicated
+    # parents merged first (parents listed before children). Manrique Perez de Lara left out: his two
+    # mothers (Eva Perez de Traba, Ava of Rochechouart) are rival identifications, not copies.
+    "dedupe-batch-2": [
+        ("Q110074", "Q100950", "Garcia Sanchez II of Pamplona -- Geni copy, same children"),
+        ("Q110954", "Q113455", "Fernando Bermudez -- Geni copy, father of both Jimena copies"),
+        ("Q110482", "Q101718", "Jimena Fernandez -- Geni copy, same children"),
+        ("Q118255", "Q106601", "Constance of Burgundy -- Geni copy, same husband Alfonso VI and daughter"),
+        ("Q112446", "Q107024", "Raymond IV of Toulouse -- Geni copy, same son Alphonse Jourdain"),
+        ("Q112428", "Q104282", "Elvira of Castile -- Geni copy, same son Alphonse Jourdain"),
+        ("Q75441", "Q99879", "Hermenegildo Gutierrez -- both carry wd Q840579"),
+        ("Q73035", "Q78719", "Cleopatra III -- both carry wd Q40003 (run cut_edges.py cleopatra-iii-copy first)"),
+        ("Q113385", "Q101722", "Urraca Garces -- same parents once theirs are merged"),
+        ("Q118257", "Q106603", "Urraca of Leon -- same parents once Constance is merged"),
+        ("Q118679", "Q107026", "Alphonse Jourdain -- same parents once theirs are merged"),
+        ("Q75438", "Q99895", "Elvira Menendez -- same parents once Hermenegildo is merged"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),

@@ -3,18 +3,47 @@
     "en": [
       {
         "language": "en",
-        "value": "Jimena Fernández"
+        "value": "Jimena Fernandez"
       },
       {
         "language": "en",
         "value": "Jimena Fernández de León"
+      },
+      {
+        "language": "en",
+        "value": "Jimena  Fernandez de Leon"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Jimena  Fernández de León"
       }
     ]
   },
   "claims": {
     "P20": [
       {
-        "id": "Q101718$10E25AEB-CAE3-4CC8-A22C-47B11C2E3535",
+        "id": "Q110482$7E567436-93B5-4779-8875-D7DBB4651BA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113385",
+              "numeric-id": 113385
+            }
+          },
+          "hash": "5f0fb3268756747068f0a3270cf2d84b531e343b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q110482$FC7191C4-EBB0-4ADF-BD76-31DBE8244269",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -26,6 +55,44 @@
             }
           },
           "hash": "0646c2b2da10e98d53dad9813d2e64ac2195cfb0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q110482$30B824B9-F54F-45BB-9F6C-5C2A8484107B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110486",
+              "numeric-id": 110486
+            }
+          },
+          "hash": "af59c4e2c4af6eb648a6b51b35bee00744a160c6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q110482$B82B358C-0747-4FDD-86D2-881A3EAD10B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110484",
+              "numeric-id": 110484
+            }
+          },
+          "hash": "bfee064940c39a2cc73c2f5c58cace7d4da7a12f",
           "property": "P20",
           "snaktype": "value"
         },
@@ -45,25 +112,6 @@
             }
           },
           "hash": "58682f57f3827c9b4a9f305d7ac0f1b708a361c8",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q101718$377782A7-798D-40AD-825D-5CB65BA2A1D1",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q101722",
-              "numeric-id": 101722
-            }
-          },
-          "hash": "5f0fb3268756747068f0a3270cf2d84b531e343b",
           "property": "P20",
           "snaktype": "value"
         },
@@ -92,7 +140,7 @@
     ],
     "P39": [
       {
-        "id": "Q101718$703150A7-C23C-436D-9CEC-3FEAB4049042",
+        "id": "Q110482$91B7BA1D-3BE1-4F1A-A092-797CFEB03426",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -111,7 +159,7 @@
         "type": "statement"
       },
       {
-        "id": "Q101718$E00DD15E-1D3B-40F0-ABD4-5F49246C0821",
+        "id": "Q110482$6127B4A0-D408-4162-8E88-E158D9155C26",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -132,18 +180,18 @@
     ],
     "P42": [
       {
-        "id": "Q101718$FD9B2949-DE44-484D-87D1-C89BD02531DD",
+        "id": "Q110482$9ABB4AF8-6104-46D2-9A20-9DC47D2F6B3F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q100950",
-              "numeric-id": 100950
+              "id": "Q110074",
+              "numeric-id": 110074
             }
           },
-          "hash": "d53774336c2c275970b6eec370792534d751bdfc",
+          "hash": "3944e812f642cadbff7b6fd77b5d0662a80d6f02",
           "property": "P42",
           "snaktype": "value"
         },
@@ -153,18 +201,18 @@
     ],
     "P47": [
       {
-        "id": "Q101718$BDD4A4A4-7F54-42BC-8B19-E223F261DD97",
+        "id": "Q110482$9E34F996-AEDB-47C9-A2F8-D1FA1D8C7865",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q113455",
-              "numeric-id": 113455
+              "id": "Q110954",
+              "numeric-id": 110954
             }
           },
-          "hash": "d661e2c246394dea19eab9707d218509f256dc1e",
+          "hash": "67024337c49411f4c5f994ae3604f7990d9af56b",
           "property": "P47",
           "snaktype": "value"
         },
@@ -174,7 +222,7 @@
     ],
     "P48": [
       {
-        "id": "Q101718$4ECE3BAB-E7EF-4292-9DAA-38B0135BE864",
+        "id": "Q110482$D792A6D0-E520-4877-B8B7-AE4F67276D0D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -195,7 +243,7 @@
     ],
     "P55": [
       {
-        "id": "Q101718$BA06E261-135A-44DC-8350-6370CC055DCC",
+        "id": "Q110482$DDCD20EE-2963-4683-A9BF-79362B0FAC06",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -208,6 +256,40 @@
           },
           "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q110482$6EFF52DC-D6DE-45AE-856E-13CF6B3E53E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3807743"
+          },
+          "hash": "92b8faf05cf7304765c6ce399f11479fc1e356c5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q110482$53D7C91B-9665-4584-851A-90B5158A0751",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jimena Fernández Arms.svg"
+          },
+          "hash": "be566db0412d4e37c7c265c362bae3294bcef932",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -237,42 +319,114 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q101718$839CFD08-ABAB-4D15-B496-1BFFD53623F0",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Jimena  Fernandez de Leon Arms.svg"
-          },
-          "hash": "c322e142704f610bcba3b8b8ba6c10412df60d75",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q101718",
-  "labels": {
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "pamplonská královna choť"
+    },
     "en": {
       "language": "en",
-      "value": "Jimena  Fernandez de Leon"
+      "value": "Queen consort of Pamplona"
     },
     "es": {
       "language": "es",
-      "value": "Jimena  Fernández de León"
+      "value": "reina consorte de Pamplona y condesa consorte de Aragón"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "best singer of Spain"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "navarrai királyné"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "королева Наварры"
     }
   },
-  "lastrevid": 17515299,
-  "modified": "2025-09-17T01:37:43Z",
+  "id": "Q110482",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Ximena Ferrández"
+    },
+    "br": {
+      "language": "br",
+      "value": "Jimena Fernández"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Jimena Fernández"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ximena Fernández"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jimena Fernándezová"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jimena Fernández"
+    },
+    "el": {
+      "language": "el",
+      "value": "Χιμένα Φερνάντεθ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jimena Fernández"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jimena Fernández"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ximena Fernanditz"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Chimène de Cea"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Jimena Fernández"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Jimena Fernández"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Jimena Fernández"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヒメナ・フェルナンデス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jimena Vermúdez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Химена Фернандес"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Jimena Fernández"
+    }
+  },
+  "lastrevid": 17522257,
+  "modified": "2025-09-17T03:30:26Z",
   "ns": 860,
-  "pageid": 119850,
+  "pageid": 131639,
   "sitelinks": {},
-  "title": "Item:Q101718",
+  "title": "Item:Q110482",
   "type": "item"
 }

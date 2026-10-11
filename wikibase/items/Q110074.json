@@ -4,12 +4,32 @@
       {
         "language": "en",
         "value": "Garcia Sanchez II of Pamplona"
+      },
+      {
+        "language": "en",
+        "value": "García II 'el Temblón' Sánchez de Navarra"
+      },
+      {
+        "language": "en",
+        "value": "García II el Temblón, rey de Navarra"
+      },
+      {
+        "language": "en",
+        "value": "García Sánchez II \"El Trémulo\""
+      },
+      {
+        "language": "en",
+        "value": "Garcia  Sanchez II \"El Tremulo\""
       }
     ],
     "es": [
       {
         "language": "es",
         "value": "García Sánchez II of Pamplona"
+      },
+      {
+        "language": "es",
+        "value": "García  Sánchez II \"El Trémulo\""
       }
     ]
   },
@@ -23,30 +43,11 @@
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q101722",
-              "numeric-id": 101722
-            }
-          },
-          "hash": "5f0fb3268756747068f0a3270cf2d84b531e343b",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q110074$F6821061-F1F0-4153-A643-9FFD19247232",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
               "id": "Q113385",
               "numeric-id": 113385
             }
           },
-          "hash": "83cde5162c98054761b399f56e552892c2992b02",
+          "hash": "5f0fb3268756747068f0a3270cf2d84b531e343b",
           "property": "P20",
           "snaktype": "value"
         },
@@ -104,6 +105,44 @@
             }
           },
           "hash": "bfee064940c39a2cc73c2f5c58cace7d4da7a12f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100950$75329947-DD93-4856-BB5F-DA6367D0E207",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113383",
+              "numeric-id": 113383
+            }
+          },
+          "hash": "58682f57f3827c9b4a9f305d7ac0f1b708a361c8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100950$27292D4A-6EC8-4372-BF00-639894CB07A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113387",
+              "numeric-id": 113387
+            }
+          },
+          "hash": "65543bc258b90de96d57a623263dad376a02751c",
           "property": "P20",
           "snaktype": "value"
         },
@@ -263,6 +302,40 @@
           },
           "hash": "252f5040114d199c8660209c6fbdbd64fe660eb0",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q100950$AFA638A9-6DDA-45EA-AEC8-6BAC45AD9373",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "rey de Navarra"
+          },
+          "hash": "2495b82ab1916ff4824f1b221a6e53acbc54e26e",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q100950$0492AC94-7E2F-4A99-B81B-F9A938CF0053",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000128773458"
+          },
+          "hash": "b7be8eb2fc4614c1ee5f5a57807c08e7d2e20a88",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

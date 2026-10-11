@@ -16,13 +16,51 @@
       {
         "language": "en",
         "value": "Alphonse Jourdain"
+      },
+      {
+        "language": "en",
+        "value": "Alphonse Jourdain comte de Tolosa"
       }
     ]
   },
   "claims": {
+    "P1185": [
+      {
+        "id": "Q118679$833C4D64-8627-47AC-933F-0A6725B89D1F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "472089"
+          },
+          "hash": "fc567295d0f721f7c3c6dd50aaf98a12369ebe3d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q118679$037E8D42-5F78-42C5-8AD0-CA57C02E74DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00065049"
+          },
+          "hash": "b9cc5496d681da3ecc61bc95359180e1ab2f06d7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P20": [
       {
-        "id": "Q107026$D3836C07-9585-444B-85E0-02D602AC1732",
+        "id": "Q118679$0999208A-E609-40CA-A757-74FB7B1326F9",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -41,7 +79,7 @@
         "type": "statement"
       },
       {
-        "id": "Q107026$C78B8C02-ABF8-4638-9B76-6EA972CE0BA1",
+        "id": "Q118679$0466AD4F-F6DE-4401-92E9-90D7930698C8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -60,7 +98,7 @@
         "type": "statement"
       },
       {
-        "id": "Q107026$F39C64E8-68EF-4247-BC42-75AF79FDF886",
+        "id": "Q118679$760D88CF-E8C0-4D25-8F40-571973D48280",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -79,7 +117,7 @@
         "type": "statement"
       },
       {
-        "id": "Q107026$3037A28A-2320-46E7-A442-FD1920410EDB",
+        "id": "Q118679$8AD7477F-8D58-4197-AB6C-352B815282CD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,9 +136,26 @@
         "type": "statement"
       }
     ],
+    "P2949": [
+      {
+        "id": "Q118679$8A9B63F0-60C4-48B6-AA1D-2BA010798FFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Toulouse-128"
+          },
+          "hash": "da7b5a8f20d523340efa813d5e9385e124a51202",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P39": [
       {
-        "id": "Q107026$970CC6CE-9295-4006-85E7-2F2E07F47E22",
+        "id": "Q118679$BC60C5B4-63F0-4B77-B0BE-57C197094634",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -119,7 +174,7 @@
         "type": "statement"
       },
       {
-        "id": "Q107026$4C96D765-5E84-4CDD-BA4B-0737476AF292",
+        "id": "Q118679$9435CAE2-C636-45EA-8063-3A27C3B615EB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -138,9 +193,26 @@
         "type": "statement"
       }
     ],
+    "P4159": [
+      {
+        "id": "Q118679$6299ADB4-E7BD-47DA-BC6A-BF1F3723AF79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Alfonso_Jordan_(1)"
+          },
+          "hash": "9060d13fb94bc6f2b8f5301000ce1581bd9b9267",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P42": [
       {
-        "id": "Q107026$418AC780-365A-4126-9115-362191258C2C",
+        "id": "Q118679$DC23D835-EA79-46D8-BD95-17293CDD9063",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -159,28 +231,26 @@
         "type": "statement"
       }
     ],
-    "P47": [
+    "P4638": [
       {
-        "id": "Q107026$97C39463-B034-4A5B-803C-DABD039FFDCC",
+        "id": "Q118679$3D4EDB68-3267-4827-B97C-4478AC92DF66",
         "mainsnak": {
-          "datatype": "wikibase-item",
+          "datatype": "external-id",
           "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q107024",
-              "numeric-id": 107024
-            }
+            "type": "string",
+            "value": "p2025.htm#i20248"
           },
-          "hash": "71fce29b5edbfc95d0c1643d1b040b7f4186b6b6",
-          "property": "P47",
+          "hash": "a401d0578899ee5167ab27a15b3033411b0086cb",
+          "property": "P4638",
           "snaktype": "value"
         },
         "rank": "normal",
         "type": "statement"
-      },
+      }
+    ],
+    "P47": [
       {
-        "id": "Q107026$43291BF0-2778-4026-B6AF-C2256EC147B0",
+        "id": "Q118679$7712547F-6D32-4875-BD9B-F767B73B1A7D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -201,26 +271,7 @@
     ],
     "P48": [
       {
-        "id": "Q107026$37E00B56-AFFB-4E1A-B1A7-E6AF964D89D2",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q104282",
-              "numeric-id": 104282
-            }
-          },
-          "hash": "3ded39684a2c46403da886b4a998433eefa6161c",
-          "property": "P48",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q107026$8447E50E-37E2-45F1-AF4F-9AD89BFB9542",
+        "id": "Q118679$16204557-A12F-44DA-80D7-AFA27DE0DE93",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -239,9 +290,26 @@
         "type": "statement"
       }
     ],
+    "P54": [
+      {
+        "id": "Q118679$E099A0B9-68EA-4E28-9AD2-9E507772DF8A",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "comte de Tolosa"
+          },
+          "hash": "15543e37b8ecd3bd57a50a8cfea04a8330b8bf80",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P55": [
       {
-        "id": "Q107026$6D446A8D-AAA6-43A5-BC5D-8057B2A58434",
+        "id": "Q118679$EB2F193E-1226-4723-827F-68A79A381397",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -262,7 +330,7 @@
     ],
     "P56": [
       {
-        "id": "Q107026$522DA1EA-E620-4426-9380-C3AB64431AF2",
+        "id": "Q118679$0A9766F7-C53C-4DB1-9CFD-1A46112AE6A1",
         "mainsnak": {
           "datatype": "time",
           "datavalue": {
@@ -286,7 +354,7 @@
     ],
     "P57": [
       {
-        "id": "Q107026$2B1E9F20-C007-41C4-9544-B485B62DB76E",
+        "id": "Q118679$EB49386F-ACF2-4177-8A5E-E92B7DF55F6D",
         "mainsnak": {
           "datatype": "time",
           "datavalue": {
@@ -306,11 +374,84 @@
         },
         "rank": "normal",
         "type": "statement"
+      },
+      {
+        "id": "Q118679$CE039411-9FFB-4624-A58F-56DDE0417870",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1148-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2a87d400653ed557f99e78fe011048a69cdd1765",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q118679$FC35CD22-5028-40B5-8F88-60DDFD8BDEA7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q561182"
+          },
+          "hash": "f6952bcf5ae7833dc4c3ed42496cea39dc02d282",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118679$1E0DF6A7-CB23-41BD-BBDE-890C38680A01",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000665131865"
+          },
+          "hash": "067684f523441bbd7f973305095af30e1a677cc7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q118679$B7E49777-0B01-4EDE-B83A-EEB2C17F0F43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=alphonse;n=de toulouse;oc=1"
+          },
+          "hash": "0a3c4f33a4e46fb68ed6d4b61e9c337b77e25d54",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
       }
     ],
     "P94": [
       {
-        "id": "Q107026$47A062D1-756F-4D94-B3F5-F00958C680C0",
+        "id": "Q118679$9BAD19A4-10F2-48D5-9C79-909EF034A07E",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -326,19 +467,235 @@
       }
     ]
   },
-  "descriptions": {},
-  "id": "Q107026",
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "اقطاعى من فرنسا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "feudatariu francés (1103–1148)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "hrabě z Tripolisu, Toulouse, Rouergue a markýz provensálský"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "France siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Toulouse und Markgraf der Provence"
+    },
+    "el": {
+      "language": "el",
+      "value": "κόμης της Τρίπολης, μετέπειτα κόμης της Τουλούζης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Count of Tripoli, 1105-1109, thereafter Count of Toulouse"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble francés"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Toulouse"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobiluomo francese, conte di Tripoli e poi conte di Tolosa"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "greve av Toulouse, markgreve av Provence"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans feodaal (1103-1148)"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Comte de Tolosa"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "hrabia Tuluzy i Trypolisu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "conde de Trípoli (1105-1109), conde de Toulouse (como Afonso I), de Rouergue, d'Albi, de l'Agenais e du Quercy, marquês de Gothie, de Provença e duque de Narbona (1108-1148)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "conde de Trípoli (1105-1109), conde de Toulouse (como Afonso I), de Rouergue, d'Albi, de l'Agenais e du Quercy, marquês de Gothie, de Provença e duque de Narbona (1108-1148)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız soylu (1103-1148)"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Amanyɔni"
+    }
+  },
+  "id": "Q118679",
   "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ألفونسو جوردن"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الفونسو جوردن"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alfons Jordà"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Alfons Jordan z Toulouse"
+    },
+    "da": {
+      "language": "da",
+      "value": "Alphonse Jourdain"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alfons Jordan"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλφόνσος Ιορδάνης"
+    },
     "en": {
       "language": "en",
       "value": "Alphonse Jourdain"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alfonso Jordán"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آلفونسو ژردان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Alphonse Jourdain"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alphonse Jourdain"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלפונס ז'ורדן"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Alfonz Jordán toulouse-i gróf"
+    },
+    "id": {
+      "language": "id",
+      "value": "Alfonso Jordan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alfonso Giordano di Tolosa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルフォンス・ジュルダン"
+    },
+    "la": {
+      "language": "la",
+      "value": "Alphonsus Iordanus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Alphonse Jourdain"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alfons Jordaan van Toulouse"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Alphonse Jourdain"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Anfós Jordan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Alfons-Jordan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Afonso-Jordão de Toulouse"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Afonso-Jordão de Toulouse"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Альфонс I Иордан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Alphonse Jourdain"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Alphonse Jourdain"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Алфонс Жордан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Alfonso Jordan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Alphonse Jourdain"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Альфонс Журден"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿尔丰斯·茹尔当"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿尔丰斯·茹尔当"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿爾豐斯·茹爾當"
     }
   },
-  "lastrevid": 17519227,
-  "modified": "2025-09-17T02:46:11Z",
+  "lastrevid": 17531629,
+  "modified": "2025-09-17T05:51:23Z",
   "ns": 860,
-  "pageid": 126993,
-  "sitelinks": {},
-  "title": "Item:Q107026",
+  "pageid": 142632,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q118679",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q118679"
+    }
+  },
+  "title": "Item:Q118679",
   "type": "item"
 }

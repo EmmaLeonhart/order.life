@@ -20,13 +20,65 @@
       {
         "language": "en",
         "value": "Urraca of León"
+      },
+      {
+        "language": "en",
+        "value": "Urraca of León Reina de León y Castilla"
+      },
+      {
+        "language": "en",
+        "value": "Urraca of Leon"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Urraca I /Alfonsez Castile Leon/ Reina de León y Castilla"
+      },
+      {
+        "language": "es",
+        "value": "Urraca of León"
       }
     ]
   },
   "claims": {
+    "P1185": [
+      {
+        "id": "Q118257$BBC599AE-F5E5-493E-A262-A16F454652B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "11730"
+          },
+          "hash": "c73c8c1ed70daf4c8a34fd87d10f031f07ce1992",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q118257$5EF0C67A-C091-4A6F-99DA-88B176F95E0C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020531"
+          },
+          "hash": "a006f1bc83d6d6365a054a394d3569741994eaf3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P20": [
       {
-        "id": "Q106603$E9CE33D5-1C19-41E7-B85D-8F031401FC73",
+        "id": "Q118257$59EEA467-D495-4C87-B86F-9FCE0D493542",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -45,7 +97,7 @@
         "type": "statement"
       },
       {
-        "id": "Q106603$29FBA13E-455B-41F0-B6B8-64330F13FB60",
+        "id": "Q118257$2BB537AA-9BFD-4978-9FC7-20909790C85F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,7 +116,7 @@
         "type": "statement"
       },
       {
-        "id": "Q106603$E3A3B101-CEAA-4158-86D5-54B17333E9FA",
+        "id": "Q118257$5BF82433-377E-4C02-8005-D70F367F42CF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -83,7 +135,7 @@
         "type": "statement"
       },
       {
-        "id": "Q106603$2C215FBC-7714-4778-950D-E14E545A836D",
+        "id": "Q118257$9F2144E1-9B68-46E4-A3E2-DBC00B50D3AE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -100,11 +152,47 @@
         },
         "rank": "normal",
         "type": "statement"
+      },
+      {
+        "id": "Q118257$6F062B77-47F8-4E21-B130-1F26A6C0C3AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q206132",
+              "numeric-id": 206132
+            }
+          },
+          "hash": "ea5bfbded45216af2d9125438146bcd5d559526b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q118257$C6836D5A-ADE8-4280-B08E-49B1B6466E2C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Castilla-25"
+          },
+          "hash": "2d8eaafe8efc572b96490bf75088f95c36ac7c52",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
       }
     ],
     "P39": [
       {
-        "id": "Q106603$A854A0E5-E0AA-49A3-8DB8-608DC277C2E4",
+        "id": "Q118257$73161F15-FB9B-4D84-8540-EF082C531019",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -123,7 +211,7 @@
         "type": "statement"
       },
       {
-        "id": "Q106603$06238D75-A16F-49B7-B50D-EFF7D4B520B0",
+        "id": "Q118257$6894244F-59A8-4EAD-81EC-610331AB63A8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -142,28 +230,26 @@
         "type": "statement"
       }
     ],
-    "P42": [
+    "P4159": [
       {
-        "id": "Q106603$EA7C4D32-18A6-47A2-8E82-4A29EBABA1BE",
+        "id": "Q118257$4CB3D571-E756-4F77-BEAC-099E622B836B",
         "mainsnak": {
-          "datatype": "wikibase-item",
+          "datatype": "external-id",
           "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q112408",
-              "numeric-id": 112408
-            }
+            "type": "string",
+            "value": "Urraca_of_León_(1)"
           },
-          "hash": "4efdc35b9b7fc5faa4a271fbc09b8d6308c05b45",
-          "property": "P42",
+          "hash": "78c0c3de6549954623e05b02f9137ebd2c1257c2",
+          "property": "P4159",
           "snaktype": "value"
         },
         "rank": "normal",
         "type": "statement"
-      },
+      }
+    ],
+    "P42": [
       {
-        "id": "Q106603$AB1A03D6-4D58-495C-BF61-D352FDE7A2B0",
+        "id": "Q118257$3B74C33D-DB41-457B-8057-E47BC0DC6EB6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -182,7 +268,26 @@
         "type": "statement"
       },
       {
-        "id": "Q106603$C0C227A7-5E6F-455A-9C67-F93F1154689F",
+        "id": "Q118257$C0DB6FAA-B965-4F60-B78B-DD87D68C5E33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112408",
+              "numeric-id": 112408
+            }
+          },
+          "hash": "4efdc35b9b7fc5faa4a271fbc09b8d6308c05b45",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118257$84847731-BC8E-4E3C-9E3A-75D6ABC53B14",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -201,9 +306,26 @@
         "type": "statement"
       }
     ],
+    "P4638": [
+      {
+        "id": "Q118257$A37422C0-3C79-4B23-A513-CE1AAE56EDDC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11332.htm#i113318"
+          },
+          "hash": "fb3f7e4bf7601e7d9311bf7e6a8be901d4d1427b",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P47": [
       {
-        "id": "Q106603$4D3BD700-08E5-4374-8219-48F3BCA40102",
+        "id": "Q118257$580F5813-C515-4491-9F45-A51C047B1D95",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -224,19 +346,36 @@
     ],
     "P48": [
       {
-        "id": "Q106603$A9120DDA-1650-4D56-BBBA-8236DB1D9D3F",
+        "id": "Q118257$E07FF9D2-40C9-4904-996E-1964EFA4C9BF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q106601",
-              "numeric-id": 106601
+              "id": "Q118255",
+              "numeric-id": 118255
             }
           },
-          "hash": "b8ab0c09c105d0babd731a4e7a9380b2514d1b93",
+          "hash": "bbcbd0fa9feada056d685a70ae5b34ba0bf42be9",
           "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q118257$219BD86D-4F58-4D24-A9C8-5F6115203630",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Reina de León y Castilla"
+          },
+          "hash": "0843bc05e252c16dcfb89e06dd47d0bb4714f0dc",
+          "property": "P54",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -245,7 +384,7 @@
     ],
     "P55": [
       {
-        "id": "Q106603$FA791AB7-5C71-4C3E-B516-A448E28B4A95",
+        "id": "Q118257$A550E223-40B5-466F-BA66-DEDFC38A586A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -266,7 +405,7 @@
     ],
     "P56": [
       {
-        "id": "Q106603$F96573EC-81C5-4FDB-AB6A-463BC52A5BB1",
+        "id": "Q118257$8560F4D7-F2E6-4144-9EAE-8DCB1B143401",
         "mainsnak": {
           "datatype": "time",
           "datavalue": {
@@ -290,7 +429,7 @@
     ],
     "P57": [
       {
-        "id": "Q106603$88CCD593-EAFD-410A-B5D6-04719C4E7234",
+        "id": "Q118257$A27A462E-19D4-4C6F-8AE8-4A4C78D03006",
         "mainsnak": {
           "datatype": "time",
           "datavalue": {
@@ -312,16 +451,101 @@
         "type": "statement"
       }
     ],
+    "P61": [
+      {
+        "id": "Q118257$8313629B-EEF2-4524-9DEC-BDABEBBCE8AE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q128701"
+          },
+          "hash": "a189c1efe6ba55fa3dec2dedb20863c18e78ffe2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118257$6D32D028-E807-4C85-B55E-C110D5093F69",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000010656307831"
+          },
+          "hash": "0cb1015bc5c4af5258381e91a7e5c00a1dd24ba8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q118257$BBC0A3C3-ECD3-410B-96A1-7345147A5F3C",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Urraca I de León"
+          },
+          "hash": "40f1dc7f4ecaf7a40b8e1930252c5680747af171",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q118257$DF31C3A1-2679-4F9D-8A56-83857EAEECEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=urraca;n=de castilla"
+          },
+          "hash": "9bd902ddb858e768dfc0726b97d388a30cd4f257",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q118257$7C0D3B95-ECB1-4C65-A00D-E71E79DF14F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "sg.137695"
+          },
+          "hash": "f7e681c0c864d966fcfd625ede7b02d453cebcd7",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P94": [
       {
-        "id": "Q106603$74A0AE49-2B67-429B-BD13-4893484914E2",
+        "id": "Q118257$AB4AE013-4B72-4E12-89FE-470D23F4ADDF",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
             "type": "string",
-            "value": "Urraca of Leon Arms.svg"
+            "value": "Urraca of León Arms.svg"
           },
-          "hash": "1f051513e95b0cc9ba7ccdf4d65494a6588b9bf4",
+          "hash": "c82de1f18f4edeeaf8588894e606fd2bff13eaf6",
           "property": "P94",
           "snaktype": "value"
         },
@@ -330,23 +554,275 @@
       }
     ]
   },
-  "descriptions": {},
-  "id": "Q106603",
-  "labels": {
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "каралева Леона і Кастыліі (1109—1126)"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Španska vladarica"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "reina de Lleó i de Castella"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "královna Kastilie a Leónu ve Španělsku (1082-1126)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Königin von Kastilien, Galicien und Leon"
+    },
     "en": {
       "language": "en",
-      "value": "Urraca of Leon"
+      "value": "Spanish queen"
     },
     "es": {
       "language": "es",
-      "value": "Urraca of León"
+      "value": "reina de León, Castilla y Galicia (1081-1126)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine de Castille"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "raíña ou emperatriz de toda Galiza"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "kraljica Leona, Kastilje i Galicije"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kasztíliai királynő"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina di Galizia (r. 1107-1112) e di Castiglia e León (r. 1109-1126)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Koninkrijk León (1081-1126)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Nasceu em 24 de junho de 1081"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "королева Кастилии и Леона"
     }
   },
-  "lastrevid": 17519144,
-  "modified": "2025-09-17T02:40:53Z",
+  "id": "Q118257",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Urraca I de Leyón"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أوراكا ملكة قشتالة"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اوراكا ملكه قشتاله"
+    },
+    "be": {
+      "language": "be",
+      "value": "Урака I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Урака I"
+    },
+    "br": {
+      "language": "br",
+      "value": "Urraca Iañ León"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Uraka Leonska i Kastiljska"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Urraca I de Lleó"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Urraca Kastilská"
+    },
+    "de": {
+      "language": "de",
+      "value": "Urraca I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ουρράκα του Λεόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Urraca of León"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Urraca la 1-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Urraca I de León"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Urraka Gaztelakoa"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Urraca"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Urraque Ire de León"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Orraca de León"
+    },
+    "he": {
+      "language": "he",
+      "value": "אורקה, מלכת לאון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Uraka Leonska i Kastiljska"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Urraca kasztíliai és leóni királynő"
+    },
+    "id": {
+      "language": "id",
+      "value": "Urraca dari León"
+    },
+    "it": {
+      "language": "it",
+      "value": "Urraca di Castiglia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウラカ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ურაკა"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "우라카"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Uraka"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Urraca I de León"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Urraca van Castilië en León"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Urraka Kastylijska"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Urraca I de Leão e Castela"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Urraca I de Leão e Castela"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Urraca a Leonului și Castiliei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уррака"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Urraca od Leona i Kastilje"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Uraka, kraljica Kastilje in Leóna"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Uraka I od Leona"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Urraca av León och Kastilien"
+    },
+    "th": {
+      "language": "th",
+      "value": "สมเด็จพระราชินีนาถอูร์รากาที่ 1 แห่งเลออน"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Уррака I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Urraca I của León và Castilla"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "烏拉卡"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "乌拉卡"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "乌拉卡"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "烏拉卡"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "烏拉卡"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "乌拉卡"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "烏拉卡"
+    }
+  },
+  "lastrevid": 17530882,
+  "modified": "2025-09-17T05:41:24Z",
   "ns": 860,
-  "pageid": 126424,
-  "sitelinks": {},
-  "title": "Item:Q106603",
+  "pageid": 142065,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q118257",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q118257"
+    }
+  },
+  "title": "Item:Q118257",
   "type": "item"
 }
