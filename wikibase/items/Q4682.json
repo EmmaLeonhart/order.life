@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Julius Aurelius Zenobius of Parthia"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -62,27 +69,6 @@
         "type": "statement"
       }
     ],
-    "P47": [
-      {
-        "id": "Q4682$02501156-DB06-42EE-B4CB-3EF865632533",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q144407",
-              "numeric-id": 144407
-            }
-          },
-          "hash": "74ecf1f4854359596ef1067efd1ea1b7799a9d8e",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P48": [
       {
         "id": "Q4682$9A753371-917C-4C77-85C4-DA9099903687",
@@ -136,6 +122,65 @@
           },
           "hash": "0b2ff26d0fe7684b68d8d6589fc30a5a6df33749",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q166216$028D0AB9-63D5-0317-5B5E-87A3A5F64269",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166261",
+              "numeric-id": 166261
+            }
+          },
+          "hash": "e6d4c2907fa38f5d45554cf09b1bbd2ad2927bbc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q166216$AACE0DD6-E210-1F47-81AC-2BE0EB2D6EFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166170",
+              "numeric-id": 166170
+            }
+          },
+          "hash": "2c815bf833fb519c08da0b96aa0f5e2b5aa28f5c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q166216$E80227A9-1B24-FBBB-872E-C93E77DF60AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006451925896"
+          },
+          "hash": "4ef4f143211218b8f718930f0dd8aec80d5f3194",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

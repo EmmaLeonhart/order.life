@@ -1056,6 +1056,14 @@ CUTS = {
                                "Avitus = dump Q151864, which Q4681 already carries. Simulated "
                                "with the merges that follow: 0 records lose depth"),
     ],
+    # queue.md item 13, Zenobius (2026-10-10). Run before `merge_cluster.py zenobius`.
+    "zenobius-elagabalus": [
+        ("Q144407", "Q4682", "Elagabalus (b. 203, d. 222) recorded as father of Julius Aurelius "
+                             "Zenobius, strategos of Palmyra in 231-232 (wd Q16683948 "
+                             "'Zabdilas'). The bilingual inscription names his father and "
+                             "paternal grandfather Maliku, i.e. Malchus, whom the other copy "
+                             "Q166216 already has (frwiki 'Zabdilas', itwiki)"),
+    ],
 }
 
 

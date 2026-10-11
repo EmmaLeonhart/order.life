@@ -5162,3 +5162,17 @@ where files disagree. Extract and invariants are being regenerated after the mer
 then merged Mamaea `Q166205` into `Q4681`, Gessius Bassianus `Q166249` into `Q151866` and Theoclia
 `Q166250` into `Q151865`. Simulated on `edges.tsv` copies first with `compare_depth.py`: 0 records
 lose depth. I4 clean; 10 files repointed; nothing names the vacated qids. Zenobius stays open.
+
+## 2026-10-10 — Zenobius: Elagabalus cut, the copies merged (item 13 done)
+
+Julius Aurelius Zenobius is Wikidata `Q16683948` "Zabdilas", strategos of Palmyra in 231–232. The
+bilingual inscription names his father and paternal grandfather Maliku (Malchus): frwiki "Zabdilas",
+itwiki "Giulio Aurelio Zenobio". Elagabalus (b. 203) as his father is false, and Malchus II, the
+father of the other copy, is right. `cut_edges.py zenobius-elagabalus`, then `merge_cluster.py
+zenobius` (Zenobius `Q166216` into `Q4682`, Zenobia `Q166262` into `Q38274`); simulated first, worst
+loss one level (Zenobius and Zenobia, 291 → 290). `apply_item13_fixes.py` also removed Elagabalus as
+Mamaea's husband (she was his aunt). 12 files repointed; nothing names the vacated qids.
+
+Left as it was: Zenobia as Zenobius's daughter. Both wikis note that three milestones name her
+father Antiochus, and Settipani makes Zenobius her grandfather; where she hangs is a story matter.
+Zenobius's mother (Mamaea) has no source either.

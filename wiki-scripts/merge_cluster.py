@@ -925,6 +925,13 @@ CLUSTERS = {
         ("Q151865", "Q166250", "Theoclia -- same parents once Mamaea is one record; Q151865 "
                                "carries wd Q15982251"),
     ],
+    # queue.md item 13, Zenobius (2026-10-10). Run `cut_edges.py zenobius-elagabalus` first.
+    "zenobius": [
+        ("Q4682", "Q166216", "Julius Aurelius Zenobius (wd Q16683948 'Zabdilas') -- same "
+                             "mother, father Malchus once the Elagabalus edge is cut"),
+        ("Q38274", "Q166262", "Zenobia, queen of the Palmyrene Empire -- same label, father "
+                              "Zenobius once he is one record"),
+    ],
 }
 
 

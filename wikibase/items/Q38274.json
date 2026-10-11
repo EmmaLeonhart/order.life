@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zenobia, queen of the Palmyrene Empire"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
@@ -114,6 +121,179 @@
           },
           "hash": "a53607c5edc08398b067b10fbefd74fe34d135df",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q166262$6FBD1886-88B5-6774-2D8D-5BC0AED9CF58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166308",
+              "numeric-id": 166308
+            }
+          },
+          "hash": "e307973aa84aad6cb85190def96549af43314018",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q166262$8089712F-C150-927D-4295-BFFB485A253B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166311",
+              "numeric-id": 166311
+            }
+          },
+          "hash": "a2930dfe5d4f540da00e095441ec3e9c325756df",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q166262$2FE46980-D5F4-AD20-DE70-F9A4BB7B4B94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166312",
+              "numeric-id": 166312
+            }
+          },
+          "hash": "69b7472abadf83a3ca93e061f177f98a807593ef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q166262$3314E5BB-1983-58A5-5B6F-8D8305DA54E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166313",
+              "numeric-id": 166313
+            }
+          },
+          "hash": "88fe9d8a22ef23cb3550aaf87c86a3a7dc9d2dcf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q166262$833372ED-931E-08FA-234B-81B302770F88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166314",
+              "numeric-id": 166314
+            }
+          },
+          "hash": "37078c104803a4e8934e59096ec5cb3fe4590088",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q166262$F59BA04C-BE3A-236B-74A3-B1FE249E1BF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166307",
+              "numeric-id": 166307
+            }
+          },
+          "hash": "8d13feed49cee942e70a2c2a70bdb17e099e1d2c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q166262$1C1E9046-73DB-6234-ABE2-13A791F198D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166309",
+              "numeric-id": 166309
+            }
+          },
+          "hash": "061edac02fe68f90c0805b8de16fb943f5fb45ea",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q166262$EC1ADAE6-7B5F-A621-2B61-248A68EE0016",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166310",
+              "numeric-id": 166310
+            }
+          },
+          "hash": "6e960d83db3f186f439c039df01564b73916b20a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q166262$48563751-B500-4510-D9B8-F2418287A83A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003828401456"
+          },
+          "hash": "5c66dfd88393d9e9406b38e01e35e2e823880a02",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

@@ -1,10 +1,13 @@
-"""Queue item 13's two small defects (2026-10-10):
+"""Queue item 13's small defects (2026-10-10):
 
 1. 37 records carry sex P55 = Q1. Q1 is Aster, not a sex: an import error (Japanese kami and
    sukune, e.g. Futsunushi, Ii Yoshinao). The claim is removed, leaving the sex unrecorded rather
    than guessed.
 2. Q74677 Ops carries Wikidata id Q96761, which is "Paul Bildt", a German actor. Removed; its other
    id, Q859392 Ops, stays.
+3. Q144407 Elagabalus and Q4681 Julia Avita Mamaea are recorded as spouses. She was his aunt (his
+   mother Julia Soaemias's sister); Wikidata gives her one husband, Gessius Marcianus. Removed on both
+   sides (added 2026-10-10, second run).
 
 Every file claiming each record (shadows via redirects.tsv). Idempotent; dry run unless --write;
 verifies from disk.
@@ -47,7 +50,8 @@ def main():
                      if (d := load(s)) is not None and (d.get("id") or s) == q]
     with open(AN / "persons.tsv", encoding="utf-8", newline="") as f:
         bad_sex = [r["qid"] for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE) if r["sex"] == "Q1"]
-    drops = [(q, "P55", "Q1") for q in bad_sex] + [("Q74677", "P61", "Q96761")]
+    drops = [(q, "P55", "Q1") for q in bad_sex] + [("Q74677", "P61", "Q96761"),
+                                                    ("Q144407", "P42", "Q4681"), ("Q4681", "P42", "Q144407")]
     print(f"{len(bad_sex)} records with sex = Q1")
 
     n, touched = 0, []

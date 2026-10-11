@@ -377,13 +377,6 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-13. **ZENOBIUS'S FATHER (the rest of the Severan subtree was merged 2026-10-10).** `Q4682` and
-   `Q166216` are both Julius Aurelius Zenobius, father of Zenobia (`Q38274` / `Q166262`, also two
-   copies). Both now have mother `Q4681` Mamaea, but `Q4682`'s father is Elagabalus `Q144407` and
-   `Q166216`'s is Malchus II of Palmyra `Q166170`. One edge is false: find a source, cut it, then
-   merge the two Zenobii and the two Zenobias. Elagabalus is also recorded as Mamaea's husband,
-   which cannot be right: she was his aunt.
-
 14. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
    `Q66385` "Imaam 'Udd \ Add Ben Add Ben ?'Udadh", `Q66394` "Udd son of Umaisi", and
    `Q86503` "Nabhan Banu Ismail" (the last acquired in the M3 merge). At most one is right.
