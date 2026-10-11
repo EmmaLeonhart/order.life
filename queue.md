@@ -382,8 +382,7 @@ with AskUserQuestion instead of parking it here.**
    side. The 172 where Wikidata names a different parent are left, and they are not a cut list.
    Many are a wrong Wikidata id on the dump's record (e.g. `Q123443` Sancha), some are deliberate
    myth variants, some are rulings already made (Abas/Ixion). Done: the 7 the child disowns and 5 more cuts; the Greek myth variants kept (devlog
-   2026-10-10). Next: unmerge `Q73380` "BAD MERGE" (a Seleucid and Icarius); check `Q102901` /
-   `Q110956` (two Fernando I?); then the 141 where Wikidata's parent is not in the dump. Work them one at a time: fix the id,
+   2026-10-10). Next: check `Q102901` / `Q110956` (two Fernando I?); then the 141 where Wikidata's parent is not in the dump. Work them one at a time: fix the id,
    keep the variant, or cut with `compare_depth`. The 1,942 without Wikidata ids on both ends and the
    1 PHANTOM edge whose parent has no sex stay as they are.
 

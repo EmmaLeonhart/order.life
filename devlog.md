@@ -5223,3 +5223,13 @@ parentages are the norm and the dump keeps them deliberately. Left for their own
 "BAD MERGE" (a Seleucid merged with Icarius, father of Penelope) needs an unmerge; the two fathers of
 the three kings, `Q102901` and `Q110956`, look like two Fernando I records; Seth-Peribsen →
 Nimaethap needs a source.
+
+## 2026-10-10 — "BAD MERGE" `Q73380`: Icarius taken out, the record is Antiochus IV again
+
+`Q73380` held Antiochus IV Epiphanes (wd Q3356), the Seleucid prince Antiochus (wd Q2045778) and
+Icarius of Sparta (wd Q1658054). Icarius already had his own record, `Q133344` (no label), which his
+parents, all thirteen children and his four wives point to; `Q73380`'s Icarius claims were one-sided
+duplicates. `apply_icarius_unmerge.py` removed them from `Q73380` (relabelled Antiochus IV Epiphanes)
+and gave `Q133344` its name, Wikidata id, sex and marriages. Simulated: the Seleucids lose nothing;
+Icarius's children go from 77 levels to 26, the false Seleucid descent removed, accepted on the
+2026-08-15 Lepidus precedent. The prince/king conflation inside `Q73380` is left.
