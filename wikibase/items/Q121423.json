@@ -4,6 +4,16 @@
       {
         "language": "en",
         "value": "Andregoto Galindez"
+      },
+      {
+        "language": "en",
+        "value": "Andregoto  Galindez"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Andregoto  Galíndez"
       }
     ]
   },
@@ -22,6 +32,25 @@
             }
           },
           "hash": "36df28e265808e7c6ac689311ee1b80cf8a75ac8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100828$405F1A6C-CC30-4CC1-A60D-5F1A24C81315",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101007",
+              "numeric-id": 101007
+            }
+          },
+          "hash": "f599b71db03b637df81d6914454749c5cda4b943",
           "property": "P20",
           "snaktype": "value"
         },
@@ -83,6 +112,25 @@
             }
           },
           "hash": "8b417c297bcac5b884e5bcf9e1581ec0dd493cc9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100828$9A2AC8D3-C270-4316-BCE2-2A7A06A0B7E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100447",
+              "numeric-id": 100447
+            }
+          },
+          "hash": "cf0d818627dc99b59bec62e134a9e6ef4439b7f0",
           "property": "P42",
           "snaktype": "value"
         },
@@ -203,6 +251,23 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P54": [
+      {
+        "id": "Q100828$218F9282-D18E-4D46-8401-FD1DD46028A8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "condesa de Aragón"
+          },
+          "hash": "342ada6ba16bc3a013e3a55a1e2cf7ca65c920e0",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {
@@ -245,6 +310,14 @@
     "ru": {
       "language": "ru",
       "value": "графиня Арагона"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "عالم خرائط ألماني"
+    },
+    "he": {
+      "language": "he",
+      "value": "קרטוגרף אמריקאי"
     }
   },
   "id": "Q109770",

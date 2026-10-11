@@ -1106,6 +1106,16 @@ CUTS = {
         ("Q114176", "Q104282", "Jimena Fernandez de Castro as mother of the Elvira of Castile copy; "
                                "her mother is Jimena Munoz Q111675 (wd Q8196664)"),
     ],
+    # DEDUPE batch 5 (2026-10-11): the nameless copy of Hedwige de Namur (wife of Gerard of
+    # Lorraine, mother of Beatrice) hangs one generation too high, from Albert I of Namur and
+    # Ermengarde; Hedwige's parents (Wikidata Q22328237 and the main record Q117598) are their son
+    # Albert II and Regelinde. Simulated: only the nameless record loses depth, before its merge.
+    "hedwige-copy": [
+        ("Q205607", "Q206689", "Albert I of Namur as father of the nameless Hedwige copy; her "
+                               "father is Albert II Q120099"),
+        ("Q207019", "Q206689", "Ermengarde as mother of the nameless Hedwige copy; her mother is "
+                               "Regelindis Q120522"),
+    ],
     # queue.md item 17b (2026-10-10). Simulated: 0 records lose depth.
     "cleopatra-iv": [
         ("Q73194", "Q78402", "Cleopatra II as a second mother of Cleopatra IV (wd Q40023), daughter "

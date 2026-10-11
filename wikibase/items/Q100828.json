@@ -3,14 +3,24 @@
     "en": [
       {
         "language": "en",
-        "value": "Andregoto Galíndez"
+        "value": "Andregoto Galindez"
+      },
+      {
+        "language": "en",
+        "value": "Andregoto  Galindez"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Andregoto  Galíndez"
       }
     ]
   },
   "claims": {
     "P20": [
       {
-        "id": "Q100828$6D7D1B89-3985-4B2F-A34B-E8912056E5A8",
+        "id": "Q109770$17B42BA5-17DD-477E-AB50-0F98336F4CF0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -50,7 +60,7 @@
     ],
     "P39": [
       {
-        "id": "Q100828$977F2D2F-17BF-4313-8F09-B4DB09009350",
+        "id": "Q109770$1DD1B77B-CC07-4C84-B80A-E69532B1B4E5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -69,7 +79,7 @@
         "type": "statement"
       },
       {
-        "id": "Q100828$440A2E48-2276-4AAF-A137-BD5AD12CD7DA",
+        "id": "Q109770$302D6F34-998D-4498-BB0C-5195574E3B40",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -89,6 +99,25 @@
       }
     ],
     "P42": [
+      {
+        "id": "Q109770$5B24A3E2-A41F-46F1-8DFA-1397FB0570EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109559",
+              "numeric-id": 109559
+            }
+          },
+          "hash": "8b417c297bcac5b884e5bcf9e1581ec0dd493cc9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q100828$9A2AC8D3-C270-4316-BCE2-2A7A06A0B7E5",
         "mainsnak": {
@@ -111,7 +140,7 @@
     ],
     "P47": [
       {
-        "id": "Q100828$74B4F2C8-7EB6-473E-85BF-D54055D1CE0E",
+        "id": "Q109770$074295F4-FF91-4160-920D-A7E7393BD9EE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -132,19 +161,91 @@
     ],
     "P48": [
       {
-        "id": "Q100828$CA23575A-ADDD-4E86-BB3F-C5DC18063F90",
+        "id": "Q109770$A2C8096A-7740-4EC9-8951-5CA603876D6F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q100776",
-              "numeric-id": 100776
+              "id": "Q109742",
+              "numeric-id": 109742
             }
           },
-          "hash": "a4830b8a314301120f5df5e86500beed1103b841",
+          "hash": "ba7c5115e0ffacc0043e42e7435f27aa4497ccbc",
           "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q109770$625CB4A4-991C-43D5-A3A5-AB67064F2292",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q109770$D86FD722-34EA-4125-BBF8-665F4B65C5AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1119208"
+          },
+          "hash": "7d2b4e08a54aa053a0a6de728d35cb8816f812d3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q109770$FAF9B54E-217E-4EC5-A898-679DE5672827",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000101296552998"
+          },
+          "hash": "db0599838a92b82cc4bb93d64fdeb048f05563fa",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q109770$7C153754-9F2D-42C9-89A1-36B005884788",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Andregoto Galíndez Arms.svg"
+          },
+          "hash": "74997a1916585b2fdff251626e2835e04fe0b3ad",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -167,100 +268,170 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P55": [
-      {
-        "id": "Q100828$0B5681FC-6246-4E1F-A488-C51E380A3230",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153719",
-              "numeric-id": 153719
-            }
-          },
-          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P62": [
-      {
-        "id": "Q100828$3064C74A-26D8-4FFA-9AAC-FB0C5C121596",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "6000000004058800000"
-          },
-          "hash": "d84567e36ee27601c16a74e54b90f267a432f20c",
-          "property": "P62",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q100828$68789C9F-A68A-4D4F-935F-CA17C8E2122F",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Andregoto  Galindez Arms.svg"
-          },
-          "hash": "658e6abe801560ee68f2eb5d38d1e487653e2a8e",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {
-    "ar": {
-      "language": "ar",
-      "value": "عالم خرائط ألماني"
+    "cs": {
+      "language": "cs",
+      "value": "pamplonská královna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gräfin von Aragón"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασίλισσα της Παμπλόνα"
     },
     "en": {
       "language": "en",
-      "value": "German cartographer (1852–1921)"
+      "value": "Pamplona's queen consort"
+    },
+    "es": {
+      "language": "es",
+      "value": "condesa de Aragón y reina consorte de Pamplona"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kraljica Pamplone"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "navarrai királyné"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Graafschap Aragón (910-972)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "królowa Nawarry, hrabina Aragonii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "графиня Арагона"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "عالم خرائط ألماني"
     },
     "he": {
       "language": "he",
       "value": "קרטוגרף אמריקאי"
     }
   },
-  "id": "Q100828",
+  "id": "Q109770",
   "labels": {
+    "an": {
+      "language": "an",
+      "value": "Andregoto Galíndez"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Andregoto Galíndez"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Andregot Galindes"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Andregoto Galíndez"
+    },
+    "de": {
+      "language": "de",
+      "value": "Andregoto Galíndez"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ανδρεγότο Γκαλίντεθ"
+    },
     "en": {
       "language": "en",
-      "value": "Andregoto  Galindez"
+      "value": "Andregoto Galíndez"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Andregoto Galíndez"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Andregoto Galíndez"
     },
     "es": {
       "language": "es",
-      "value": "Andregoto  Galíndez"
+      "value": "Andregoto Galíndez"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Andregoto Garindoitz"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Andregoto Galíndez"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Andregoto Galíndez"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Andregota Galíndez"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Andregoto Galíndez"
+    },
+    "it": {
+      "language": "it",
+      "value": "Andregoto Galíndez"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンドレゴタ・ガリンデス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Andregoto van Aragón"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Andregota Galíndez"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Andregoto Galíndez"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Andregoto Galíndez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Андрегота Галиндес"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Андрегота Галиндез"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Andregoto Galíndez"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Andregoto Galíndez"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Андрегота Галіндес"
     }
   },
-  "lastrevid": 17409531,
-  "modified": "2025-09-15T23:01:04Z",
+  "lastrevid": 17521559,
+  "modified": "2025-09-17T03:20:47Z",
   "ns": 860,
-  "pageid": 118653,
-  "sitelinks": {
-    "evolutionismwiki": {
-      "badges": [],
-      "site": "evolutionismwiki",
-      "title": "Notes:Q100828",
-      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q100828"
-    }
-  },
-  "title": "Item:Q100828",
+  "pageid": 130684,
+  "sitelinks": {},
+  "title": "Item:Q109770",
   "type": "item"
 }

@@ -1,5 +1,18 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Beatrix Clementia  gravin van Boergondie"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Beatrix Clementia  gravin van Boergondië"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -72,6 +85,44 @@
             }
           },
           "hash": "bcf60ef8a2afc8ca62cf6de241f80d4974d882a3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q206650$EBDFB809-5F4D-424C-1722-36D0481997C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q206158",
+              "numeric-id": 206158
+            }
+          },
+          "hash": "c587002d90d0c221ef08507a98928eb1cd24b64b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q206650$1469FADC-B8B7-E4B8-9D28-B80F8D2E3BD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q206372",
+              "numeric-id": 206372
+            }
+          },
+          "hash": "cda5bd9e8259eebc66729f11f7641c24b5ac605f",
           "property": "P20",
           "snaktype": "value"
         },
@@ -231,6 +282,69 @@
           },
           "hash": "bb419fe98cf1a57917cf40b9a9a7fa118c08f56b",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q206650$857057AC-4AFE-7098-3321-06F862E18E67",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1116-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60c997cb624d2154b4e47c8b4b44740adc637736",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q206650$C7DABF72-4874-A13C-E8B7-617737BDBDB0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1117-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c6ab93fccad4ac0ed49911c387ba5851c9a72801",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q206650$9AFAFF86-D034-897A-183E-8E08A06FAC95",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000005598872029"
+          },
+          "hash": "23ed34fa9f570d26e8b49498a72d6dbab70c0ec6",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

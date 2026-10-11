@@ -1,20 +1,56 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Onneca Rebel of Sanguesa"
+      },
+      {
+        "language": "en",
+        "value": "Oneca  Rebelle"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Onneca Rebel of Sangüesa"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q101766$BE93FEFF-ED91-4C18-9A20-921D5E6780A4",
+        "id": "Q110034$1F0654DD-717F-4C99-8B33-4A1D0A425AF6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q100776",
-              "numeric-id": 100776
+              "id": "Q109762",
+              "numeric-id": 109762
             }
           },
-          "hash": "5fa9a3f6f5464a33c4b794f3fe1ada06be90336f",
+          "hash": "607ae5b31bbb7aee3751269db7974eb57b1a7308",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q110034$9878112B-CADE-42A4-8A6B-BB0A094C47ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109742",
+              "numeric-id": 109742
+            }
+          },
+          "hash": "637826f3c1ac3d708bae7b43da95bf2115e19386",
           "property": "P20",
           "snaktype": "value"
         },
@@ -43,7 +79,7 @@
     ],
     "P39": [
       {
-        "id": "Q101766$F55DD5EF-2013-4406-A881-379E9BBCCBF4",
+        "id": "Q110034$6973645D-31B9-41BC-8AA5-299C21C26752",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,7 +98,7 @@
         "type": "statement"
       },
       {
-        "id": "Q101766$335BF419-C0A9-4558-B5B2-512D16CF897A",
+        "id": "Q110034$2F00986D-F8D8-408D-8BD2-697EA9497E2F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -83,18 +119,18 @@
     ],
     "P42": [
       {
-        "id": "Q101766$B30B0003-EEE8-4591-8AFF-DF17CB60570E",
+        "id": "Q110034$94015CEF-8791-462A-A9FF-59F729E7CA41",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q100978",
-              "numeric-id": 100978
+              "id": "Q109760",
+              "numeric-id": 109760
             }
           },
-          "hash": "fa05c15b88fed1261d3197e91c0508437276c1dc",
+          "hash": "cf16761824c76cdbf140cf14ac2505df17729a0f",
           "property": "P42",
           "snaktype": "value"
         },
@@ -104,7 +140,7 @@
     ],
     "P55": [
       {
-        "id": "Q101766$CED20C54-2288-43E5-AA66-9A359FFCEA55",
+        "id": "Q110034$C0D1D68C-E97E-47B2-9BDD-07EE81A06621",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -117,6 +153,40 @@
           },
           "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q110034$3F003C78-B07A-4172-BADE-28C6022514C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q28147496"
+          },
+          "hash": "8b258d7d133248c191bbf323a2ac238afa4cfb25",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q110034$A9428206-1670-4468-9414-8538D8CEA813",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Onneca Rebel of Sangüesa Arms.svg"
+          },
+          "hash": "171c1167ccf869a95f486a09daf8673bdd434583",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -146,38 +216,62 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q101766$D319E61A-8DCE-40EB-96D4-2C70FC2BDA96",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Oneca  Rebelle Arms.svg"
-          },
-          "hash": "5623fc7349841583faf476a9c8d7fa2c56b87181",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q101766",
-  "labels": {
+  "descriptions": {
     "en": {
       "language": "en",
-      "value": "Oneca  Rebelle"
+      "value": "835-"
+    },
+    "es": {
+      "language": "es",
+      "value": "Noble navarra del siglo IX"
     }
   },
-  "lastrevid": 17515315,
-  "modified": "2025-09-17T01:38:18Z",
+  "id": "Q110034",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Ònnega Rebelle de Sangüesa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ονέκα Ρεβέγε της Σανγκέσα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Onneca Rebel of Sangüesa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Onneca Rebelde de Sangüesa"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Oneka Zangozakoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Onneca Rebelle Sangüesa"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Onneca Rebelle de Sangüesa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Онека Ребель из Сангезы"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Onneca Rebel of Sanguesa"
+    }
+  },
+  "lastrevid": 17521817,
+  "modified": "2025-09-17T03:24:19Z",
   "ns": 860,
-  "pageid": 119914,
+  "pageid": 131039,
   "sitelinks": {},
-  "title": "Item:Q101766",
+  "title": "Item:Q110034",
   "type": "item"
 }

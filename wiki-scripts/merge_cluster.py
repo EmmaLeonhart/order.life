@@ -1039,6 +1039,16 @@ CLUSTERS = {
         ("Q112602", "Q206731", "Beatrice de Macon -- same parents once Aubry is merged"),
         ("Q120285", "Q206929", "Maria di Sorrento -- same father once Guy is merged"),
     ],
+    # DEDUPE batch 5 (2026-10-11): two levels up for Andregoto Galindez and Beatrice of Lorraine.
+    "dedupe-batch-5": [
+        ("Q110050", "Q113431", "Jimeno of Pamplona -- parentless copy, father of the Garcia Jimenez copy"),
+        ("Q109760", "Q100978", "Garcia Jimenez of Pamplona -- copy, father of both Sancha copies"),
+        ("Q110034", "Q101766", "Onneca of Sanguesa -- copy ('Oneca Rebelle'), mother of both Sancha copies"),
+        ("Q109742", "Q100776", "Sancha Garces of Pamplona -- same parents once theirs are merged"),
+        ("Q117598", "Q206689", "Hedwige de Namur -- the nameless copy in her exact slot (run cut_edges.py hedwige-copy first)"),
+        ("Q109770", "Q100828", "Andregoto Galindez -- same parents once Sancha is merged"),
+        ("Q116887", "Q206650", "Beatrice of Lorraine -- both carry wd Q22328248"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),

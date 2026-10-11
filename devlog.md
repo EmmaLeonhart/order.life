@@ -5438,3 +5438,13 @@ Batch 3's four I4 cases, duplicated parents first. Merged (`dedupe-batch-4`): Au
 di Sorrento; 39 files repointed. Two parent merges tripped I4 again one level up (Sancha Garcés of
 Pamplona, and Hedwige de Namur with her nameless copy), so Andregoto Galíndez and Beatrice of Lorraine
 wait for their grandparents.
+
+## 2026-10-11 — DEDUPE backlog, batch 5: seven merged; the backlog's blocked pairs are cleared
+
+Two levels up for Andregoto Galíndez and Beatrice of Lorraine. Cut: the nameless copy of Hedwige de
+Namur hung one generation too high, from Albert I of Namur and Ermengarde, while Hedwige's parents
+(Wikidata and the main record) are their son Albert II and Regelinde (`hedwige-copy`; simulated, only
+the nameless record lost depth before its merge). Merged (`dedupe-batch-5`): Jimeno of Pamplona,
+García Jiménez of Pamplona, Onneca of Sangüesa, Sancha Garcés of Pamplona, Hedwige de Namur, then
+Andregoto Galíndez and Beatrice of Lorraine; 54 files repointed. All the pairs batches 1–4 had to
+leave are now merged except Manrique Pérez de Lara (rival mothers) and the hand-excluded ones.
