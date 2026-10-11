@@ -993,6 +993,15 @@ CLUSTERS = {
         ("Q88266", "Q90916", "Q90xxx parallel-import copy -- same name, shared relatives"),
         ("Q86557", "Q90954", "Q90xxx parallel-import copy -- same name, shared relatives"),
     ],
+    # order.life todo.md DEDUPE backlog, batch 1 (2026-10-11): same normalised name, a shared parent AND a
+    # shared spouse, no conflicting Wikidata ids; not the Q160xxx block, held pairs, taxa, or the Quraysh lines.
+    "dedupe-batch-1": [
+        ("Q75195", "Q90388", "Prometheus -- same name, shared parent and shared spouse (qa_same_role_parents.tsv, 2026-10-11)"),
+        ("Q75360", "Q90325", "Inachus -- same name, shared parent and shared spouse (qa_same_role_parents.tsv, 2026-10-11)"),
+        ("Q118403", "Q106750", "Maud of Savoy -- same name, shared parent and shared spouse (qa_same_role_parents.tsv, 2026-10-11)"),
+        ("Q62555", "Q61367", "Constantine the Great -- same name, shared parent and shared spouse (qa_same_role_parents.tsv, 2026-10-11)"),
+        ("Q75153", "Q90478", "Deucalion -- same name, shared parent and shared spouse (qa_same_role_parents.tsv, 2026-10-11)"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),

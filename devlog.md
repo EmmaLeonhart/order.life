@@ -5394,3 +5394,15 @@ deliberate Wu line (Kokorohiro's ancestry runs to the Jī clan, CLAUDE.md "Japan
 ancestries"); not done, left to Emma. Finding 4 (Armenia): the full Hayk → … → Aram chain is already
 in the dump; the Aram directly under Hayk mirrors a separate Wikidata item ("Aram (fils de Haïk)");
 no change. Notes added to `epic_vs_dump.md`.
+
+## 2026-10-11 — DEDUPE backlog, batch 1: five merged
+
+`same_role_parents.py` regenerated (it dated from 2026-08-01): 1,966 colliding pairs, 1,699 DEDUPE,
+1,135 of them corroborated. Batch 1 took only the strongest: same normalised name, a shared parent
+AND a shared spouse, no conflicting Wikidata ids, nothing from the `Q160xxx` block, the pairs held
+for Emma, taxa, or the Quraysh lines near Muhammad's ancestry (Durrah bint Abu Lahab skipped for
+that reason, "of Chi" for its vague label). 11 pairs; 6 tripped the I4 pre-check because their
+parents are themselves duplicates or one carries a false parent (Manrique Pérez de Lara, Cleopatra
+III's copy with Ptolemy VIII, Urraca Garcés, Urraca of León, Alphonse Jourdain, Elvira Menéndez) and
+wait for their parents. Merged (`merge_cluster.py dedupe-batch-1`): Prometheus, Inachus, Maud of
+Savoy, Constantine the Great, Deucalion; 107 files repointed.
