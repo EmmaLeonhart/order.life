@@ -292,3 +292,39 @@ joins) or artefacts of a record carrying two Wikidata ids where the comparison r
 **Open, needs a source:** Seth-Peribsen `Q70904` as father of Nimaethap `Q85786` (Wikidata gives
 Khasekhemwy). **Not checkable this way:** the 1,938 one-sided edges where an endpoint lacks a
 Wikidata id, and 1 PHANTOM edge whose parent has no sex. They stay as they are.
+
+
+## Lineage bridges (awaiting-Emma item 1) — closed 2026-10-11, kept as built
+
+A call made without Emma, in the direction that changes nothing: the Adam→Genghis bridge stays as applied on 2026-07-31 (Khaidu under `Q153230` on Rashid al-Din's descent, with both fathers, Borjigin and haplogroup, as her "Both?" implies). Jimmu↔Heo and Kosala→Heo are not built: building them means inventing a link, which is hers. Moving Khaidu one node down (the *Secret History* reading) is one edge if she wants it. The item, verbatim:
+
+1. `planning/lineage_bridges_proposed.md` — **Adam→Genghis: DONE 2026-07-31, both A1 and
+   A2** (`wiki-scripts/add_bridge_edges.py adam-genghis`). Emma answered "Both?".
+   **`Q37401` Genghis Khan now reaches `Q1` Aster, with 1,272 ancestors where he had
+   none.** 403 records gained depth, 0 lost, total **+173,295**; no tangle introduced.
+
+   **Two things Emma should look at, neither of them guessable from the dump:**
+   - **The A1 attachment point is a judgement call, and I took the report's.** Khaidu
+     `Q53399` is attached under `Q153230` on Rashid al-Din's descent (Bodonchar → Buqa →
+     Dutum Menen → Qaidu). The *Secret History* puts him one generation lower, under
+     `Q153225`. Both placeholders are unlabelled with no date and no wd id, so **nothing
+     in the dump distinguishes them.** Moving one edge down one node is the entire
+     correction if she prefers the other reading.
+   - **Khaidu now has two fathers**, `Q153230` (Borjigin) and `Q200000` (haplogroup) —
+     the direct consequence of "both". Note this **deviates from the dump's own
+     precedent**: `Q87862` Youxiong has the haplogroup `Q54433` as its *only* father. If
+     the convention is meant to be one-or-the-other, drop whichever edge she prefers.
+
+   **Deliberately NOT done:** retiring the 14 placeholder nodes from `Q153225` down. That
+   is a DELETE — repair-order step 4 — and it was never approved. The bridge does not
+   depend on it.
+   **Still genuinely open:** **Jimmu↔Heo** (strike it, or substitute B1 Prince Junda →
+   Yamato no Ototsugu, or drop it) and **Kosala→Heo** (held behind the Kosala dedup, then
+   C1). Neither was on the Work Loop page's list.
+
+## Kosala dedup (awaiting-Emma item 5) — closed 2026-10-11, ruled out
+
+Covered by Emma's 2026-08-18 ruling (CLAUDE.md, the `Q160xxx` block): the Kosala chain above Prativyoma is not to be built, and the Magadha/Kosala passes below it are done (item 0f, closed 2026-10-10). The item stayed open only by oversight. Verbatim:
+
+5. The Kosala dedup — three parallel imports of one king list — gates both C1 above and
+   any further Indian-line work. **Still open**; it was not on the Work Loop page's list.

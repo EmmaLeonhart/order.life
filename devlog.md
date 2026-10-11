@@ -5378,3 +5378,11 @@ Both restored with `fix_collided_identity.py`.
 The unambiguous import collisions are fixed: 35 records across 2026-10-10/11 restored from their
 relatives on Wikidata or stripped to NN. The noisy remainder of `collision_candidates.tsv` (851
 COLLISION?, 1,985 EDGE?, mostly imprecise ancient dates) needs a per-row look and moved to `todo.md`.
+
+## 2026-10-11 — awaiting-Emma items 1 and 5 closed; a research note on item 2
+
+Item 1 (lineage bridges) closed without a change, a call made without Emma: the Adam→Genghis bridge
+stays as built; Jimmu↔Heo and Kosala→Heo are not built, since that would mean inventing links.
+Item 5 (Kosala dedup) closed: covered by her 2026-08-18 ruling. Item 2 (epic vs dump) gets a research
+note: the *Garakguk-gi* appears to name only Suro's eldest son Geodeung, so the nine other sons are
+unnamed in the source (from memory, to be checked against the text before anything is created).
