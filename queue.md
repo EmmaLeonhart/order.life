@@ -377,47 +377,11 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-0b. **BC-DATE SIGN — CHECKED 2026-08-05. The inversion class is SOUND; nothing to
-   revert. A narrower residual is real and is the remaining work.**
-
-   **I raised this as a novel hazard and it was already known.** `cycle_chronology.py`
-   documents it in its own docstring — *"BC dates in this dump are stored with a '+' sign
-   … `death < birth` is a reliable detector"* — and line 42 acts on it. The one script
-   that reasons chronologically already handles the sign. Overstated on my part.
-
-   **The inversion class does not depend on these fields at all.** Read the cut set in
-   `cut_edges.py`; every one of the five rests on something else:
-
-   | cut | what the argument actually used |
-   |---|---|
-   | Martel → Pepin of Landen | Wikidata's nine-child list, plus AD-only dates |
-   | Olaf → Gandalf | the patronymic *Alfgeirsson*, plus AD-only dates |
-   | Morfudd → Dyddgu | Welsh patronymics — the pedigree *is* the names |
-   | Cotys → Rhescuporis | **Wikidata descriptions** ("Sapean King of Thrace, 48–41 BC" vs "1st century AD Bosporan king") |
-   | Livius Drusus unmerge | **two Wikidata ids on one record** — structural, not dated |
-
-   **So: nothing to revert, and the earlier worry is closed.** It also cross-confirms the
-   Lepidus finding independently — the Drusus unmerge preserves the tribune's line
-   "through his mother `Q72801` Cornelia", and Wikidata gives that Cornelia exactly three
-   children: the tribune, Livia, and **Mamercus** = dump `Q72786`.
-
-   **THE RESIDUAL, and it is the part worth doing.** The `death < birth` detector needs
-   **both** dates. Measured 2026-08-05:
-
-   | | |
-   |---|---:|
-   | explicit negative (unambiguous BC) | 133 |
-   | both dates positive | 16,523 |
-   | …of those, caught by `death < birth` | **1,619** |
-   | **only ONE positive date — detector is blind** | **11,833** |
-
-   A BC record with only a birth *or* only a death reads as AD and nothing catches it.
-   `Q2175` Agnimitra (d. 141 BC, stored `+0141`, no birth) is exactly this case.
-
-   **It is tractable: 11,223 of the 11,833 carry a Wikidata id**, so their real dates are
-   fetchable authoritatively; only 610 need another source. **Propose before applying** —
-   11k lookups and 11k record edits is not a two-line change, it needs batching, a cache,
-   and shadow propagation. Do NOT bulk-flip signs by heuristic.
+0b. **APPLY THE 749 BC SIGN FLIPS.** The proposal is done (2026-10-10,
+   `wikibase/analysis/bc_sign_proposed.md` and `.tsv`): of 11,223 one-date records with a
+   Wikidata id, 749 are BC on Wikidata with the same year. Flip the sign of that one date in
+   every shadow file, verify from disk, regenerate the extract. Leave the 59 MISMATCH and 33
+   NO_WD_DATE rows alone. (The inversion class was checked sound on 2026-08-05; nothing to revert.)
 
 1d. **CLOSE THE MERGE ENFORCEMENT GAP. The 894 stale references are repaired; the hole
    that produced them is still open, so they will come back.**

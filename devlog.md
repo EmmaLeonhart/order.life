@@ -5086,3 +5086,10 @@ Item 0f (Magadha/Kosala dedupe) held only the record of its five passes (177 dup
 `children_over_2_parents` 1200 → 1196); what was left of it was ruled out by Emma on 2026-08-18 (the
 `Q160xxx` block), and the item itself said the queue should not carry it. Its text moved verbatim to
 `wikibase/analysis/closed_repairs.md`. No data changed.
+
+## 2026-10-10 — BC sign proposal for the one-date records (item 0b)
+
+`wiki-scripts/propose_bc_signs.py` fetched Wikidata birth/death for the 11,223 records with one
+non-negative date and a Wikidata id (the count the item predicted). 749 FLIP (BC on Wikidata, same
+year), 10,382 AD, 59 MISMATCH, 33 without a Wikidata date. Write-up in
+`wikibase/analysis/bc_sign_proposed.md`. Nothing applied; item 0b is now "apply the 749 flips".
