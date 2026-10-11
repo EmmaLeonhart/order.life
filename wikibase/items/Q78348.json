@@ -8,6 +8,26 @@
       {
         "language": "en",
         "value": "Antipater II 'the Idumaean'"
+      },
+      {
+        "language": "en",
+        "value": "Antipas"
+      },
+      {
+        "language": "en",
+        "value": "אנטיפס\\אנטיפטרוס"
+      },
+      {
+        "language": "en",
+        "value": "Antipas\\Antipater"
+      },
+      {
+        "language": "en",
+        "value": "אנטיפס\\אנטיפטרוס Governor of Idumaea"
+      },
+      {
+        "language": "en",
+        "value": "Antipas\\Antipaterus Governor of Idumaea"
       }
     ]
   },
@@ -208,6 +228,25 @@
         },
         "rank": "normal",
         "type": "statement"
+      },
+      {
+        "id": "Q99725$399F640B-4721-45E8-BA41-5C7C6574C7A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99727",
+              "numeric-id": 99727
+            }
+          },
+          "hash": "e4407da4b1e5b8a677c7d2426e860b4e0c9c4531",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
       }
     ],
     "P54": [
@@ -371,6 +410,82 @@
           },
           "hash": "03469d20a175dc8155f2a721859732742cfd969b",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q99725$7560D7A9-A8F6-4451-BB05-BCD6657709A8",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "אנטיפס\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\אנטיפטרוס"
+            }
+          },
+          "hash": "fc64a78b0f242ce02a644925082bbae150a4985a",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99725$DD12E6F1-F95B-47A6-A719-F378ABDC6564",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Antipater the Idumaean"
+            }
+          },
+          "hash": "35ea165707c00299428ffd040b40eda9793ae3fa",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99725$F23D44C2-E81C-43C2-B986-AD9FA81B6F5B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "אנטיפס\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\אנטיפטרוס //"
+            }
+          },
+          "hash": "5a47990d9f9024ca30d30c9b7970cd804fb1fad0",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99725$7C01E6E9-AB5F-4125-92F1-A9A3A2528B72",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Antipater the Idumaean //"
+            }
+          },
+          "hash": "3b3d9cf32e65a4a01cb1dd524d4aada4c123abbb",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

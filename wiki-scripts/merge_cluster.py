@@ -932,6 +932,12 @@ CLUSTERS = {
         ("Q38274", "Q166262", "Zenobia, queen of the Palmyrene Empire -- same label, father "
                               "Zenobius once he is one record"),
     ],
+    # queue.md item 16 (2026-10-10): both records carry wd Q319075 and the same wife Q78351;
+    # Q99725 had recorded the man as his own father. Q78348 has the correctly signed birth.
+    "antipater": [
+        ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
+                             "Q78351, same father Q144298"),
+    ],
 }
 
 

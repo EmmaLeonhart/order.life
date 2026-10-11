@@ -5192,3 +5192,18 @@ against Wikidata: 330 CONFIRMED, 172 CONTRADICTED, 7 SILENT, 1,942 without Wikid
 files, shadows included; graph-neutral; verified from disk). The 172 contradicted edges are left:
 spot-checks show wrong Wikidata ids on the dump's record, myth variants and earlier rulings, not a
 cut list. Item 16 is now those 172. Write-up: `wikibase/analysis/one_sided_proposed.md`.
+
+## 2026-10-10 — item 16: the 7 contradicted edges the child itself disowns
+
+Of the 172 contradicted one-sided edges, 7 are declared only by the parent while the child's own
+record already names the parent Wikidata gives. Simulated together first (`compare_depth`, worst loss
+4 levels, the Castro correction itself):
+
+- `cut_edges.py one-sided-contradicted`: Pepin of Landen as Charlemagne's father; Cleopatra III as
+  Ptolemy Memphites's mother; Ptolemy VIII as father of Cleopatra III and of Cleopatra Thea.
+- `apply_castro_unmerge.py`: `Q123528` held two Fernando Rodríguez de Castros. It stays the one of
+  1280–1304 (wd Q3006087); the one of 1125–1185 (wd Q5444910) is new, `Q200038`, son of Rodrigo
+  `Q113686` and Eilo `Q115832`, father of Pedro Fernández `Q119242`.
+- `merge_cluster.py antipater`: the two "Antipater the Idumaean" (both wd Q319075) merged into
+  `Q78348`. The survivor keeps the duplicate's second father `Q99727` "Herodes", next to the
+  Wikidata father `Q144298`; that two-father pair was already in the dump and is left for a look.

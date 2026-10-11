@@ -1064,6 +1064,20 @@ CUTS = {
                              "paternal grandfather Maliku, i.e. Malchus, whom the other copy "
                              "Q166216 already has (frwiki 'Zabdilas', itwiki)"),
     ],
+    # queue.md item 16 (2026-10-10): one-sided edges declared only by the parent, where the
+    # child's own record already names the parent Wikidata gives in that role. The child
+    # disowns the edge and Wikidata agrees with the child. Simulated with the Castro unmerge
+    # and the Antipater dedupe: worst loss 4 levels (the Castro correction itself).
+    "one-sided-contradicted": [
+        ("Q111318", "Q115039", "Pepin of Landen (d. 640) as father of Charlemagne, whose father "
+                               "is Pepin the Short Q136124 (wd Q81212), already on his record"),
+        ("Q73035", "Q51818", "Cleopatra III as mother of Ptolemy Memphites, whose mother is "
+                             "Cleopatra II Q73194 (wd Q40247), already on his record"),
+        ("Q73038", "Q73035", "Ptolemy VIII as father of Cleopatra III, his niece and wife; her "
+                             "father is Ptolemy VI Q73197 (wd Q39952), already on her record"),
+        ("Q73038", "Q73044", "Ptolemy VIII as father of Cleopatra Thea, his niece; her father is "
+                             "Ptolemy VI Q73197, already on her record"),
+    ],
 }
 
 
