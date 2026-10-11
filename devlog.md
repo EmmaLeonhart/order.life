@@ -5488,3 +5488,10 @@ Onneca Fortúnez, Alberade of Lorraine and Adelaide del Vasto (different parents
 Across 2026-10-11 the backlog work merged 53 duplicates in nine sets. What is left (pairs with
 differently written names, different parents, or in the lines held for Emma) needs research per
 person and stays in `todo.md`.
+
+## 2026-10-11 — Heo Hwang-ok's ten sons: the note checked
+
+Korean Wikipedia (허황옥, 거등왕), citing the *Samguk yusa*'s *Garakguk-gi*: ten sons, only the
+eldest, Geodeung, named; the two Heo sons and the seven monk-sons are later legend. The note in
+`epic_vs_dump.md` and the queue now says so. Also found: the *Samguk yusa* never places "Ayuta" in
+India; that identification is modern. Chapter 181 follows the modern reading. Both for Emma.

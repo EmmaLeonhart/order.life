@@ -421,7 +421,7 @@ filler" verdict are withdrawn.
    licence to invent.**
    Row 1 of the eight (the Noah relabel) is **withdrawn** — see item 3.
    The other six rows are still unanswered.
-   **Research note, 2026-10-11 (from memory, not yet checked against the text):** the
+   **Research note, 2026-10-11 (checked the same day against Korean Wikipedia citing the *Samguk yusa*):** the
    *Garakguk-gi* (in *Samguk yusa*) names only the eldest son, Geodeung, who succeeded Suro; two
    sons took their mother's surname Heo; the seven who became monks are named in later Chilbulsa
    legend, not in the *Garakguk-gi*. If that holds, the nine sons are unnamed in the source, and

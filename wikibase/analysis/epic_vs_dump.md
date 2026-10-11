@@ -191,6 +191,16 @@ prose side without deleting a line the Samguk Yusa actually supports.**
 
 ---
 
+> **Checked 2026-10-11 (Korean Wikipedia, 허황옥 and 거등왕, citing the *Samguk yusa* 가락국기):** the
+> *Garakguk-gi* says she bore ten sons and names only the eldest, **Geodeung** (거등왕), who succeeded.
+> The two sons given the Heo surname and the seven who became Buddhas (하동칠불, Chilbulsa) are
+> legend from later temple and folk tradition, not the *Garakguk-gi*. So the nine other sons are
+> unnamed in the source; naming them stays Emma's question, not something to invent.
+> **Also from the same source:** the *Samguk yusa* gives only the name "Ayuta" (아유타국) and never
+> says where it is; the link to India (and so to Ayodhya) is modern, from popular culture after
+> 1948. The chapter's "princess of Ayodhya … the Kingdom of Ayuta in India" follows the modern
+> reading, not the text. Whether that matters to the verse is hers.
+
 ## Finding 4 — Chapter 185, Armenia: the verse is right and the dump collapsed the line
 
 | Claim (ch. 185, L40120–40127) | Dump | Verdict |
