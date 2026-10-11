@@ -5141,3 +5141,16 @@ Lucius Pinarius married to "Julia Caesaris Major", a copy of his own mother. I4 
 First real run of the item 1d change: the merge repointed 33 files that named a merged-away qid, and
 its verify found no file claiming or naming any of the 7 vacated qids. `shadow_audit.py`: 0 qids
 where files disagree. Extract and invariants are being regenerated after the merge.
+
+## 2026-10-10 — item 13's named pieces done; the item narrowed to the Severan subtree
+
+- `merge_cluster.py item13-pieces`: the `Q90xxx` Cronos and Rhea into Saturn `Q74680` and Ops
+  `Q74677` (same parents; Saturn carries Cronus's Wikidata id), and with them the second Poseidon
+  `Q90291` into `Q75039`; Gessius Marcianus `Q166247` into `Q151898` (wd Q2494981). I4 clean, 23 files
+  repointed, nothing names the vacated qids.
+- `apply_item13_fixes.py`: the bogus `sex = Q1` (Aster) removed from 37 records (41 files), leaving
+  sex unrecorded rather than guessed; Wikidata id Q96761 removed from Ops, since it is Paul Bildt,
+  a German actor.
+- The standing rule (classify a two-father record only when it is in front of you; no sweep over the
+  998) and the DEDUPE-batch backlog moved to `todo.md`. What stays in the queue is the Severan
+  subtree, with the Wikidata finding that unblocks it.

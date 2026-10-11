@@ -900,6 +900,20 @@ CLUSTERS = {
         ("Q86589", "Q91134", "Abba 'Abbahu' bar Acha bar Sallah al-Kafri -- same name, "
                              "both children of Q86607 Acha"),
     ],
+    # queue.md item 13's named pieces (2026-10-10). The Q90xxx Poseidon hangs from a parallel
+    # Cronos/Rhea pair. Saturn carries Cronus's Wikidata id (Q44204) and Saturn/Ops have the
+    # same parents (Uranus Q74698 / Gaia Q74701), so the dump already treats Saturn as Cronus
+    # and Ops as Rhea; the parallel pair merges into them and no survivor gains a parent. Gessius: merging him is what the item said
+    # would unblock two of the four Severan pairs.
+    "item13-pieces": [
+        ("Q74680", "Q90368", "Cronos -- same parents as Saturn, which carries wd Q44204 Cronus"),
+        ("Q74677", "Q90376", "Rhea -- same parents as Ops, the Roman counterpart the "
+                             "dump pairs with Saturn = Cronus"),
+        ("Q75039", "Q90291", "Poseidon -- same label, both husbands of Q90402 and Q90514; "
+                             "Q75039 carries wd Q41127"),
+        ("Q151898", "Q166247", "Marcus Julius Gessius Marcianus -- same label, both husbands "
+                               "of a Julia Avita Mamaea; Q151898 carries wd Q2494981"),
+    ],
 }
 
 

@@ -2,6 +2,24 @@
 
 ---
 
+## 👥 Two-father records and the DEDUPE backlog (moved from queue item 13, 2026-10-10)
+
+**Standing rule, Emma 2026-08-05:** two biological fathers is an error; adoptive + biological is
+legitimate (keep both, mark which is which); a divine father beside a human one is a blessing, not
+an edge. **Do not open a sweep over the 998 two-father records.** Classify one only when it is in
+front of you for another reason, and record which case it is (worked example: `Q72786`/`Q139719`,
+adoption).
+
+**Backlog:** `qa_same_role_parents.tsv` (`same_role_parents.py`, 2026-08-01) lists ~1,149 DEDUPE
+candidates, 630 with corroboration (shared parent or spouse). Work them in batches with
+`merge_cluster.py`, highest corroboration first, hand-checking each; DEDUPE is a candidate, not a
+verdict. Held for Emma: the Kosala (`Q2627`/`Q29967`) and Quraysh (`Q64471`/`Q94808`,
+`Q65861`/`Q94403`) pairs. `Q1683`/`Q48279` Gayatri Rajapatni is a three-level cascade and needs its
+own cluster. Rows in the evolutionary taxonomy (e.g. `Q39502`/`Q153134` Euteleostei) are clades, not
+people: do not apply prosopography reasoning to them.
+
+---
+
 ## 👥 Teresa Eriz de Lugo is in the dump three times — dedupe (2026-08-07)
 
 `Q79618` "Tereza Eriz de Lugo", `Q100413` "Teresa Eriz" and `Q110516` "Teresa Eris de
