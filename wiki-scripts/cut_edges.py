@@ -1078,6 +1078,21 @@ CUTS = {
         ("Q73038", "Q73044", "Ptolemy VIII as father of Cleopatra Thea, his niece; her father is "
                              "Ptolemy VI Q73197, already on her record"),
     ],
+    # queue.md item 16, second batch (2026-10-10): the child carries both the false parent and
+    # the one Wikidata gives; the false one goes.
+    "one-sided-contradicted-2": [
+        ("Q73197", "Q78713", "Ptolemy VI as father of Ptolemy IX Lathyros, son of Ptolemy VIII "
+                             "Q73038 (wd Q3350), who is also on his record"),
+        ("Q73197", "Q135918", "Ptolemy VI as father of Ptolemy Apion, son of Ptolemy VIII Q73038, "
+                              "who is also on his record"),
+        ("Q123443", "Q104007", "Sancha Q123443, the 12th-century wife of Q118289 (wd Q111457114), "
+                               "as mother of Sancho II (b. 1036); his mother is Sancha of Leon "
+                               "Q110976 (wd Q1847459), also on his record"),
+        ("Q123443", "Q104011", "the same Sancha as mother of Garcia II of Galicia (b. 1042); his "
+                               "mother is Sancha of Leon Q110976, also on his record"),
+        ("Q123443", "Q104013", "the same Sancha as mother of Alfonso VI (b. 1040); his mother is "
+                               "Sancha of Leon Q110976, also on his record"),
+    ],
 }
 
 

@@ -5207,3 +5207,19 @@ record already names the parent Wikidata gives. Simulated together first (`compa
 - `merge_cluster.py antipater`: the two "Antipater the Idumaean" (both wd Q319075) merged into
   `Q78348`. The survivor keeps the duplicate's second father `Q99727` "Herodes", next to the
   Wikidata father `Q144298`; that two-father pair was already in the dump and is left for a look.
+
+## 2026-10-10 — item 16, second batch: the 24 with the Wikidata parent in the dump
+
+`cut_edges.py one-sided-contradicted-2`, simulated first (worst loss 4 levels, 503 descendants of
+the Leonese kings, who lose depth that came through the wrong Sancha):
+- Ptolemy VI cut as father of Ptolemy IX Lathyros and of Ptolemy Apion; both are sons of Ptolemy
+  VIII, who is on both records.
+- `Q123443` Sancha (12th century, wife of `Q118289`, wd Q111457114) cut as mother of Sancho II,
+  García II and Alfonso VI (b. 1036–1042), whose mother Sancha of León `Q110976` is on their records.
+
+Kept as they are, a call made without Emma: the Greek myth variants in this group (Dies or Nyx as
+Uranus's mother, Klymene as Phaethon's, Hesione as Deucalion's, and the like), where competing
+parentages are the norm and the dump keeps them deliberately. Left for their own steps: `Q73380`
+"BAD MERGE" (a Seleucid merged with Icarius, father of Penelope) needs an unmerge; the two fathers of
+the three kings, `Q102901` and `Q110956`, look like two Fernando I records; Seth-Peribsen →
+Nimaethap needs a source.
