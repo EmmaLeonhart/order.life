@@ -5307,3 +5307,10 @@ the batch and were dropped. `merge_cluster.py q90-corroborated-1` merged the oth
 Phoroneus, Demeter, Laomedon, Pontus, Talaos, Stymphalis, the Argive and Arcadian wives, and five
 in the exilarch and Kalonymide lines), 131 files repointed. The analysis script is not committed
 (scratch); the rule is written here and in the cluster's comment.
+
+## 2026-10-11 — item 17b closed: the corroborated Q90xxx passes have converged
+
+After the first pass and a fresh extract (invariants pass, children_over_2_parents 1160), the rule
+finds only Picus and Minyas, which trip I4 through copy parents that have no corroborated twin. The
+corroborated passes are exhausted; the ~40 name-only pairs and those two moved to the DEDUPE backlog
+in `todo.md` for hand checks.

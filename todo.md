@@ -18,6 +18,8 @@ verdict. Held for Emma: the Kosala (`Q2627`/`Q29967`) and Quraysh (`Q64471`/`Q94
 own cluster. Rows in the evolutionary taxonomy (e.g. `Q39502`/`Q153134` Euteleostei) are clades, not
 people: do not apply prosopography reasoning to them.
 
+**The Q90xxx parallel import (2026-10-11):** after the corroborated passes (Cronos, Rhea, Poseidon, Zeus, Arcas and 24 more merged; the rule is in `merge_cluster.py`, cluster `q90-corroborated-1`), about 40 copies still have a unique same-name twin but no shared relative, and Picus `Q90259` and Minyas `Q90486` trip I4 through copy parents (the Cerulus copy `Q90271`, the Amphitrite copy `Q90412`). Those need a hand check each, as the rest of this backlog does.
+
 ---
 
 ## 👥 Teresa Eriz de Lugo is in the dump three times — dedupe (2026-08-07)

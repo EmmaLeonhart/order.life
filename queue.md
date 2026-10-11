@@ -377,14 +377,6 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-17b. **DEDUPE THE Q90xxx GREEK BLOCK TOP-DOWN (2026-10-11).** Its Cronos, Rhea, Poseidon and Zeus
-   are merged and Arcas is done. The copies below cascade: Danae, Io, Antiope, Maia and Taygete
-   (consorts of Zeus) have copy parents (Acrisius, Inachus, Nycteus, Atlas/Pleione), and their
-   children (Perseus, Epaphos, Amphion, Dardanus, ...) can only merge after their mothers. Work it
-   top-down, one generation per cluster, with `merge_cluster.py` and the I4 pre-check; match by
-   name, then by shared parents or spouses, checking each. Copies with no main-block twin (Hermes,
-   Persephone, Myrmidon of Troy, Eurymedusa, Demeter) stay as they are.
-
 17c. **FIND THE OTHER IMPORT-COLLIDED RECORDS (2026-10-10).** The 2026-04-15 Wikibase fill wrote
    modern people's labels and ids over mythic records (`Q130001` and seven of Mnemosyne's family so
    far). Detect the rest: a record whose parents or children are mythic or ancient while its
