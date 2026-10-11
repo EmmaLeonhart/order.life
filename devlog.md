@@ -5386,3 +5386,11 @@ stays as built; Jimmu↔Heo and Kosala→Heo are not built, since that would mea
 Item 5 (Kosala dedup) closed: covered by her 2026-08-18 ruling. Item 2 (epic vs dump) gets a research
 note: the *Garakguk-gi* appears to name only Suro's eldest son Geodeung, so the nine other sons are
 unnamed in the source (from memory, to be checked against the text before anything is created).
+
+## 2026-10-11 — epic vs dump: two findings checked, no change
+
+Finding 2 (Jimmu): the proposed repoint of Hoori's father from Kokorohiro to Ninigi would sever the
+deliberate Wu line (Kokorohiro's ancestry runs to the Jī clan, CLAUDE.md "Japan ought to have two
+ancestries"); not done, left to Emma. Finding 4 (Armenia): the full Hayk → … → Aram chain is already
+in the dump; the Aram directly under Hayk mirrors a separate Wikidata item ("Aram (fils de Haïk)");
+no change. Notes added to `epic_vs_dump.md`.

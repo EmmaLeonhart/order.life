@@ -151,6 +151,8 @@ couplet — "Jimmu's great-grandfather was Ninigi / Jimmu's great-grandmother wa
 Toyotamahime" — makes them a generational pair they are not, in the myth or in the dump.
 **Fix the verse.**
 
+> **Checked 2026-10-11: do NOT repoint Hoori to Ninigi.** `Q70230` Kokorohiro-no-Mikoto is not a stray Yayoi placeholder: its line runs up eleven generations (Okuro, Ōmichi, … Shikahiko) to the **Jī clan** (`Q153769` Jī Yuèyīng, `Q70134` Jī Zhòngfān, `Q70131` Jī Gāoyuǎn), the royal house of Wu. That is the deliberate Chinese paternal ancestry of Japan in `CLAUDE.md` ("Japan ought to have two ancestries"), and the repoint would sever it. Whether Ninigi is added beside it or the verse is left as the tradition's claim against the dump's story is Emma's.
+
 **Also noted, not resolved here:** the chapter says Toyotama-hime is "daughter of the sea
 dragon god"; the dump gives her father as **Xu Fu (Q6462)**. The 2026-07-30 Wikidata audit
 already flagged Q6462 as carrying Watatsumi's identifier, so this may be that same known
@@ -200,6 +202,8 @@ prose side without deleting a line the Samguk Yusa actually supports.**
 On the Aram row the verse is the more accurate of the two. Armenian tradition runs Hayk →
 Armenak → Aramais → Amasia → Gegham → Harma → Aram, six generations, which is what "through
 several fall" says. The dump has collapsed it to one edge. **Fix the dump.**
+
+> **Checked 2026-10-11: the full chain is already in the dump.** Hayk → Armenak `Q132705` → Arameis `Q134013` → Amasias `Q134504` → Gegham `Q134740` → Arma `Q134835` → **Aram `Q134876`** (wd Q12078913, "Legendary Armenian patriarch") → Ara the Beautiful, every link with a Wikidata id. The Aram directly under Hayk is `Q132711`, a childless record carrying wd Q2859473 "Aram (fils de Haïk)", which Wikidata itself keeps as a separate item with Hayk as father (frwiki only). Nothing descends from it. No change made; the verse matches the dump's main line.
 
 ---
 
