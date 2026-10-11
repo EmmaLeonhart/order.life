@@ -3,6 +3,25 @@
   "claims": {
     "P20": [
       {
+        "id": "Q74864$BAF14931-2777-400F-A7BA-D1BA4E823E63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74846",
+              "numeric-id": 74846
+            }
+          },
+          "hash": "371397180a18c9b749f7ae8139a847600cb8f542",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
         "id": "Q90508$F8F70560-A3A5-4F30-A771-84FF7231FFD9",
         "mainsnak": {
           "datatype": "wikibase-item",
@@ -24,7 +43,7 @@
     ],
     "P39": [
       {
-        "id": "Q90508$83895F5B-3F02-4259-A67A-E8D98DD94827",
+        "id": "Q74864$C1247302-ADDE-401C-BA64-7523F67D164F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +62,7 @@
         "type": "statement"
       },
       {
-        "id": "Q90508$F984676D-4C45-4D2D-806D-5F4F72E61AC3",
+        "id": "Q74864$CFB35AB9-FA3C-4C95-9002-B57F549B041E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +83,18 @@
     ],
     "P42": [
       {
-        "id": "Q90508$46AF8D0F-93DD-47EE-A8DA-4D42ACB89DCE",
+        "id": "Q74864$1B57D190-5D3C-4A3F-A42C-94547A66742C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q90436",
-              "numeric-id": 90436
+              "id": "Q74867",
+              "numeric-id": 74867
             }
           },
-          "hash": "e4e74c0535b7ec0fae3cf22ea8080bccf02bb87c",
+          "hash": "c6c657992a6abe511991ec7f26b803ba894df99b",
           "property": "P42",
           "snaktype": "value"
         },
@@ -85,7 +104,7 @@
     ],
     "P47": [
       {
-        "id": "Q90508$8A7A64E3-CAE1-4831-AC2F-FB6BC9854FDD",
+        "id": "Q74864$A3C8855F-FD1F-4F07-91E4-4E4068E1E10A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -106,7 +125,7 @@
     ],
     "P48": [
       {
-        "id": "Q90508$C4927F17-DFFF-4670-A33A-315D74626024",
+        "id": "Q74864$3ED5F025-F9CA-4358-B10B-AC833543CA75",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -127,7 +146,7 @@
     ],
     "P55": [
       {
-        "id": "Q90508$C23A63B1-02E2-4240-8702-DB7761F64B1C",
+        "id": "Q74864$D6E6AF22-9ADA-4BC3-96F3-1C4BA71D6797",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -145,21 +164,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P94": [
+      {
+        "id": "Q74864$17B06704-7746-4771-AA6D-0E3713073D8D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Capys Arms.svg"
+          },
+          "hash": "cb943638103da71e4d87a7412dc1a9993dbf0057",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q90508",
+  "id": "Q74864",
   "labels": {
     "en": {
       "language": "en",
       "value": "Capys"
     }
   },
-  "lastrevid": 17505315,
-  "modified": "2025-09-16T23:15:40Z",
+  "lastrevid": 17487897,
+  "modified": "2025-09-16T19:09:08Z",
   "ns": 860,
-  "pageid": 105381,
+  "pageid": 89695,
   "sitelinks": {},
-  "title": "Item:Q90508",
+  "title": "Item:Q74864",
   "type": "item"
 }

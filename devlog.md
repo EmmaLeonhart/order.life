@@ -5418,3 +5418,15 @@ García Sánchez II of Pamplona, Jimena Fernández, Constance of Burgundy, Raymo
 Elvira of Castile, Hermenegildo Gutiérrez, then Cleopatra III, Urraca Garcés, Urraca of León,
 Alphonse Jourdain and Elvira Menéndez; 144 files repointed. Left: Manrique Pérez de Lara, whose two
 mothers (Eva Pérez de Traba, Ava of Rochechouart) are rival identifications, not copies.
+
+## 2026-10-11 — DEDUPE backlog, batch 3: seven merged
+
+From the same-role list, skipping pairs merged since: shared parent OR spouse, same normalised name,
+no conflicting Wikidata ids. 31 candidates; left out by hand: generic labels (N.N., "N. de la
+Cavalleria", "of Chao", "of Tsai", "of Eastern Chou", Ying, Urraca, Nuña, Regina, Theodora), the
+Gayatri Rajapatni / Wisnuwardana cascade, the Puranic copies near the held Kosala lines (Dileepa,
+Sudaas, Arukshay, Vajranabha, Arjuna), Umaimah (Quraysh lines), and the two Publius Licinius Crassus
+records (they swap a mother and a spouse: a tangle, not a copy). Of 11 left, 4 tripped I4 through
+duplicated parents (Andregoto Galíndez, Béatrice de Mâcon, Beatrice of Lorraine, Maria di
+Sorrento). Merged (`dedupe-batch-3`): Capys, Themiste, Zhong Nu, Plectrude, Frederuna, Ermengarde
+d'Auvergne, Alfonso Téllez I de Meneses; 59 files repointed.

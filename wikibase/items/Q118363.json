@@ -16,6 +16,16 @@
       {
         "language": "en",
         "value": "Alfonso Téllez I de Meneses el Viejo, 2º Señor de Meneses y 1º Señor de Alburquerque"
+      },
+      {
+        "language": "en",
+        "value": "Alfonso Tellez I de Meneses"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Alfonso Téllez I de Meneses"
       }
     ]
   },
@@ -87,6 +97,63 @@
             }
           },
           "hash": "90dc77ab4751ded4c8e980290622213c9d6e4b3e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q106710$66FD6538-8293-4946-8FE7-6C7EA818045C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q106712",
+              "numeric-id": 106712
+            }
+          },
+          "hash": "fa65321b637e9710e96431c0d174afdc337ab4f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q106710$17D2A80C-254E-47ED-9BC5-E28DC5D1D449",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q106714",
+              "numeric-id": 106714
+            }
+          },
+          "hash": "af68207ec402829e1f3d835e3196b61eba1a90b0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q106710$95A9A1BB-0026-4864-933E-F0209E88F2EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q106716",
+              "numeric-id": 106716
+            }
+          },
+          "hash": "2257a5d2a6a1fbedfbfd3d3a355f2dcdba54e588",
           "property": "P20",
           "snaktype": "value"
         },
@@ -182,6 +249,25 @@
             }
           },
           "hash": "3e41a5c3455df905c01b61b9e5436b0678a57e08",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q106710$92E7A74B-6036-42BD-BEA3-A620F4EB1979",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104091",
+              "numeric-id": 104091
+            }
+          },
+          "hash": "4c60c57a5959c41189bdb391f5fdf337c75eadee",
           "property": "P42",
           "snaktype": "value"
         },

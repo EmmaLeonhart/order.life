@@ -1,5 +1,18 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Плектруда"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Плектруда"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -34,6 +47,25 @@
             }
           },
           "hash": "1a3f0dfe3833555728652108849aa9fbe1bf70c9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q206906$7E534294-1884-9582-CCFB-0C09A26EE497",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q206660",
+              "numeric-id": 206660
+            }
+          },
+          "hash": "f17ca481bc75fbc39a1ee4eb9828728149902f59",
           "property": "P20",
           "snaktype": "value"
         },
@@ -193,6 +225,23 @@
           },
           "hash": "e61b67f264582d91ce8617aeffc3b4c25a03de21",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q206906$4750EB95-1906-21C1-EA75-7AA8A0D857D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007948783909"
+          },
+          "hash": "2d3ddf8d0c64be4dc269cc2fc1cb4fe27b428fc0",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

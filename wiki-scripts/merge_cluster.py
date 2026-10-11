@@ -1019,6 +1019,18 @@ CLUSTERS = {
         ("Q118679", "Q107026", "Alphonse Jourdain -- same parents once theirs are merged"),
         ("Q75438", "Q99895", "Elvira Menendez -- same parents once Hermenegildo is merged"),
     ],
+    # DEDUPE batch 3 (2026-10-11): shared parent OR spouse, same normalised name, hand-checked. Left out:
+    # generic labels (N.N., "of Chao", Urraca, Regina, ...), the Gayatri/Wisnuwardana cascade, the Puranic
+    # copies near the held Kosala lines, Umaimah (Quraysh lines), and the Publius Licinius Crassus tangle.
+    "dedupe-batch-3": [
+        ("Q74864", "Q90508", "Capys -- same name, shared parent or spouse, no conflicting Wikidata id"),
+        ("Q74867", "Q90436", "Themiste  Queen of Dardania -- same name, shared parent or spouse, no conflicting Wikidata id"),
+        ("Q60233", "Q87364", "Zhong Nu -- same name, shared parent or spouse, no conflicting Wikidata id"),
+        ("Q112064", "Q206906", "Plectrude -- same name, shared parent or spouse, no conflicting Wikidata id"),
+        ("Q116691", "Q207475", "Frederuna -- same name, shared parent or spouse, no conflicting Wikidata id"),
+        ("Q114139", "Q205529", "Ermengarde d'Auvergne -- same name, shared parent or spouse, no conflicting Wikidata id"),
+        ("Q118363", "Q106710", "Alfonso Téllez I de Meneses -- same name, shared parent or spouse, no conflicting Wikidata id"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),

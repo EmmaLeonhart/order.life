@@ -3,6 +3,63 @@
   "claims": {
     "P20": [
       {
+        "id": "Q116691$6BC87B84-A5C3-4739-8985-CFB994C4E6EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116309",
+              "numeric-id": 116309
+            }
+          },
+          "hash": "29b4d25eb8690c0971f978d5af1d63751758280b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q116691$9F936519-22BE-4DCA-9C13-605E762BD5CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114058",
+              "numeric-id": 114058
+            }
+          },
+          "hash": "8fc2335177e28a13c325b05219353d248687f636",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q116691$12315EB5-EBD6-49DC-832B-FF143C1C5166",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118910",
+              "numeric-id": 118910
+            }
+          },
+          "hash": "b517481399dd6689a8584dda6f582d86018b4b5b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
         "id": "Q207475$E0172FF8-E743-1FC5-BEBA-AC3C46EE3654",
         "mainsnak": {
           "datatype": "wikibase-item",
@@ -34,25 +91,6 @@
             }
           },
           "hash": "09e3043effcd0167f400a68a0e28551f2bbb1b4f",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q207475$78B77222-2EA4-BE38-05E0-50E97BBD3B73",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q114058",
-              "numeric-id": 114058
-            }
-          },
-          "hash": "8fc2335177e28a13c325b05219353d248687f636",
           "property": "P20",
           "snaktype": "value"
         },
@@ -119,7 +157,7 @@
     ],
     "P39": [
       {
-        "id": "Q207475$D266CBE9-4B80-4B93-BC0A-854BFC29DEAB",
+        "id": "Q116691$911FFAB3-9FE9-4695-83FD-FE4DDE34AF6B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -138,7 +176,7 @@
         "type": "statement"
       },
       {
-        "id": "Q207475$E4A465F0-F99E-45A0-9EB9-B658AB686C85",
+        "id": "Q116691$154E2DBF-8454-4139-82D2-46D71F6D3189",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -159,7 +197,7 @@
     ],
     "P42": [
       {
-        "id": "Q207475$CF719AA7-92CE-2D54-4EDC-0D1CA2742F6D",
+        "id": "Q116691$237DE94C-D73A-4DBF-86E4-32D575A66C06",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -180,7 +218,7 @@
     ],
     "P55": [
       {
-        "id": "Q207475$3C31D43F-E3FF-00C7-F423-3E9DA00EE01B",
+        "id": "Q116691$26EBD12E-C970-429F-BAAC-9AE89CE23337",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -199,16 +237,33 @@
         "type": "statement"
       }
     ],
-    "P62": [
+    "P61": [
       {
-        "id": "Q207475$5084AB10-D2CD-04E3-8798-CE8F14FECDBA",
+        "id": "Q116691$135E546D-EABB-4548-AA08-DD4DD6AB0593",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
             "type": "string",
-            "value": "6000000013601123514"
+            "value": "Q272103"
           },
-          "hash": "3a3adbb9fc96dd15db98b8ac54116896ac81e589",
+          "hash": "220ceb7ef55356dbdaf1235810e2360dab941e3d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q116691$421AC6C3-919F-4EB6-86A4-78634EFD9DA0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000053184617821"
+          },
+          "hash": "d4b7d8b120569e0bf48ef302d9031b397c5c9d4a",
           "property": "P62",
           "snaktype": "value"
         },
@@ -218,7 +273,7 @@
     ],
     "P94": [
       {
-        "id": "Q207475$38266FC5-3C7F-4952-BC40-3E0E0ADBB22A",
+        "id": "Q116691$E8CA7C0A-963F-4CBA-AB98-F92236728CD4",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
@@ -234,19 +289,168 @@
       }
     ]
   },
-  "descriptions": {},
-  "id": "Q207475",
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "první manželka západofranského krále Karla III."
+    },
+    "de": {
+      "language": "de",
+      "value": "westfränkische Königin"
+    },
+    "en": {
+      "language": "en",
+      "value": "French queen consort"
+    },
+    "es": {
+      "language": "es",
+      "value": "primera esposa del rey Carlos III de Francia"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina consorte di Francia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "regină consoartă"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "королева Западно-Франкского королевства"
+    }
+  },
+  "id": "Q116691",
   "labels": {
+    "be": {
+      "language": "be",
+      "value": "Фрэдэруна"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фредеруна"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Frederuna"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Frédérune"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Frederuna"
+    },
+    "da": {
+      "language": "da",
+      "value": "Frédérune"
+    },
+    "de": {
+      "language": "de",
+      "value": "Frederuna"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φρεδερόνη"
+    },
     "en": {
       "language": "en",
       "value": "Frederuna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Frederuna"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Frédérune"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Frédérune"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Frederuna"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Frederuna"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Frédérune"
+    },
+    "id": {
+      "language": "id",
+      "value": "Frédérune"
+    },
+    "it": {
+      "language": "it",
+      "value": "Frederuna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フレデルナ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프레데루나"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Frédérune"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frederune"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Frédérune"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Frederuna"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Frederuna"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Frederuna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фредеруна"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Frederuna"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Frédérune"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Frederuna"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Frédérune"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фредеруна"
     }
   },
-  "lastrevid": 17610932,
-  "modified": "2025-09-18T00:10:35Z",
+  "lastrevid": 17529140,
+  "modified": "2025-09-17T05:17:40Z",
   "ns": 860,
-  "pageid": 219328,
+  "pageid": 139967,
   "sitelinks": {},
-  "title": "Item:Q207475",
+  "title": "Item:Q116691",
   "type": "item"
 }

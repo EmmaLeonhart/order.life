@@ -3,6 +3,25 @@
   "claims": {
     "P20": [
       {
+        "id": "Q74867$148E68D0-CA86-4580-B22B-8B6B3A6A0E47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74846",
+              "numeric-id": 74846
+            }
+          },
+          "hash": "371397180a18c9b749f7ae8139a847600cb8f542",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
         "id": "Q90436$5212117E-6DE5-4BED-8BD5-DFE7C56E0E9F",
         "mainsnak": {
           "datatype": "wikibase-item",
@@ -24,7 +43,7 @@
     ],
     "P39": [
       {
-        "id": "Q90436$BB545B68-BC8D-4525-B934-9EB818300E75",
+        "id": "Q74867$3B6E56E6-5F54-4A9A-9778-174572583B23",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +62,7 @@
         "type": "statement"
       },
       {
-        "id": "Q90436$B1A522C5-99BF-445B-9073-59E387522DB7",
+        "id": "Q74867$5331FEC6-7436-44F6-83FF-77B77283ED44",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +83,18 @@
     ],
     "P42": [
       {
-        "id": "Q90436$36C7404F-FF3F-4D2E-B203-EA7E756C8730",
+        "id": "Q74867$F680C80B-CDB7-4855-8646-B7C7E4F2CA73",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q90508",
-              "numeric-id": 90508
+              "id": "Q74864",
+              "numeric-id": 74864
             }
           },
-          "hash": "84a0b3ccbc709637d9c1491647d1518af447a7d2",
+          "hash": "096d77212de79c5e5454918c8681c813a54e82ad",
           "property": "P42",
           "snaktype": "value"
         },
@@ -85,7 +104,7 @@
     ],
     "P47": [
       {
-        "id": "Q90436$EAD1CED3-B5CF-4404-B7E7-63A5EFBF4F28",
+        "id": "Q74867$CA55107C-F959-4F46-94CD-6E231943EDCA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -106,7 +125,7 @@
     ],
     "P48": [
       {
-        "id": "Q90436$4E06CB8E-363B-427A-B3DB-8F458B8129EF",
+        "id": "Q74867$72E82287-7A75-41A0-86E6-F3C7987EF00E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -127,7 +146,7 @@
     ],
     "P5": [
       {
-        "id": "Q90436$B542D3FC-36C3-4237-9787-FAD74024509B",
+        "id": "Q74867$66D0155A-FA2A-4BF7-9101-452A6FF578C7",
         "mainsnak": {
           "datatype": "monolingualtext",
           "datavalue": {
@@ -147,7 +166,7 @@
     ],
     "P55": [
       {
-        "id": "Q90436$8472B1AE-CC18-4B20-BB1C-F974440576C3",
+        "id": "Q74867$E7D89B44-B685-4601-83F8-B7C9A900AD17",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -165,21 +184,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P94": [
+      {
+        "id": "Q74867$31028648-12AF-42F9-9468-8CC6B317CF7C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Themiste  Queen of Dardania Arms.svg"
+          },
+          "hash": "0cd994057a6ba7cf9e194a3d9446cd243670a2c8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q90436",
+  "id": "Q74867",
   "labels": {
     "en": {
       "language": "en",
       "value": "Themiste  Queen of Dardania"
     }
   },
-  "lastrevid": 17505243,
-  "modified": "2025-09-16T23:14:38Z",
+  "lastrevid": 17487901,
+  "modified": "2025-09-16T19:09:11Z",
   "ns": 860,
-  "pageid": 105284,
+  "pageid": 89698,
   "sitelinks": {},
-  "title": "Item:Q90436",
+  "title": "Item:Q74867",
   "type": "item"
 }
