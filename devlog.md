@@ -5253,3 +5253,12 @@ Q131122); Ptolemy XII Auletes `Q51822` had his brother Ptolemy of Cyprus's (Q888
 Q39991). Fixed with `fix_wikidata_ids.py` (new, shadow-aware; 11 files). The 13 "BAD MERGE" rows are
 stale (fixed by the Icarius split). Kept: Leto with Latona's id (the dump's Roman pairing, as with
 Saturn), and the Saturn, Hesione and Klymene rows, which are myth variants.
+
+## 2026-10-10 — item 16 closed
+
+With the three ids fixed, 102 more one-sided edges were Wikidata-confirmed and completed (107 claims).
+`Q130001` lost the labels and ids of a 17th-century Bohemian count that an import had written over a
+mythic woman, and is now "NN (Wife of Melissus of Crete)" by the dump's convention
+(`apply_q130001_terms.py`). The nameless `Q70685` was merged into Octavius Laenas `Q70122` (one man
+recorded as his own father). The remaining contradicted edges are myth variants or two-id artefacts
+and are kept; Seth-Peribsen → Nimaethap needs a source. Summary in `closed_repairs.md`.

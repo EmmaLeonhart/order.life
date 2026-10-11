@@ -274,3 +274,21 @@ Decided without Emma, on the instruction to make the call and record it. `Q65555
    Related and also unresolved: `Q66385`'s own two fathers `Q67549` and `Q67552` are both
    children of `Q67561` — and `Q67552` is flagged `COLLAPSE` against `Q67561`, so those two
    must not be merged either.
+
+
+## One-sided edges between real records (queue item 16) — closed 2026-10-10
+
+`edge_symmetry.py` → `propose_one_sided.py` → Wikidata, per edge (`one_sided_proposed.md`). Done on
+2026-10-10: 432 Wikidata-confirmed edges given their missing side (330, then 102 more once three
+wrong Wikidata ids were fixed: Danaus, Erebos, Ptolemy XII); 12 false parent edges cut; the Castro,
+Icarius and Q130001 records separated from the people merged into them; Antipater, Ferdinand I (with
+two daughters) and Octavius Laenas deduplicated. Every structural change simulated with
+`compare_depth.py` first.
+
+**Kept, a call made without Emma:** the 40 remaining contradicted edges are Greek and Roman myth
+variants (Dies or Nyx as mother of Uranus, Klymene and Hesione as mothers of the Heliades and
+Deucalion, Saturn's Roman children, Lamech → Shu-Ilishu as one of the deliberate Genesis/Mesopotamian
+joins) or artefacts of a record carrying two Wikidata ids where the comparison read the first.
+**Open, needs a source:** Seth-Peribsen `Q70904` as father of Nimaethap `Q85786` (Wikidata gives
+Khasekhemwy). **Not checkable this way:** the 1,938 one-sided edges where an endpoint lacks a
+Wikidata id, and 1 PHANTOM edge whose parent has no sex. They stay as they are.

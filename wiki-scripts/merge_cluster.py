@@ -945,6 +945,13 @@ CLUSTERS = {
         ("Q111565", "Q104009", "Elvira of Toro -- daughter of Ferdinand I; Q111565 carries wd "
                                "Q4704980"),
     ],
+    # queue.md item 16 (2026-10-10): the nameless Q70685 has Q70122's description ("grandfather
+    # of emperor Nerva"), the same wife Sergia Plautilla Q144242 and the same children, and is
+    # recorded as Q70122's father -- one man shifted a generation, like the Pinarii.
+    "octavius-laenas": [
+        ("Q70122", "Q70685", "Gaius Octavius Laenas, grandfather of Nerva -- same description, "
+                             "wife and children; Q70122 carries wd Q12289187"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),

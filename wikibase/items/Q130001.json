@@ -1,30 +1,6 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Amalthea"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
-    "P1185": [
-      {
-        "id": "Q130001$7CC7E595-14C6-4B33-8AA2-52CCF3619979",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "613388"
-          },
-          "hash": "ab304b0de3e1c53b1c29c917fe3040dfb9681b13",
-          "property": "P1185",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P20": [
       {
         "id": "Q130001$9A6BF3CA-EFCC-4577-9ED7-19EF118BBEB2",
@@ -40,23 +16,6 @@
           },
           "hash": "02b086c9e891e48432b027e295360f595f22c0da",
           "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P2949": [
-      {
-        "id": "Q130001$5EBC696C-B524-4497-BF2A-290DDE8096E8",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Hohenlohe-Weikersheim-6"
-          },
-          "hash": "1d4e0281e13685ad9faf58086e85f54591061182",
-          "property": "P2949",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -186,173 +145,19 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P61": [
-      {
-        "id": "Q130001$86087406-9647-4F76-AC30-747AC5B78421",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q96124"
-          },
-          "hash": "034bf5757e14331259f3bcfd7564f8d1add564c4",
-          "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q130001$FFA28011-96DF-401D-8A5E-06A5BAF31CAC",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Georg Friedrich of Hohenlohe-Neuenstein-Weikersheim Arms.svg"
-          },
-          "hash": "d0a489066fab83db6a9505630bc46d647d9b2601",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {
-    "cs": {
-      "language": "cs",
-      "value": "český šlechtic"
-    },
-    "de": {
-      "language": "de",
-      "value": "Graf von Hohenlohe-Neuenstein-Weikersdorf, böhmischer Standesherr, Offizier und Gelegenheitsdichter"
-    },
-    "dv": {
-      "language": "dv",
-      "value": "ލިޔުންތެރިއެއް"
-    },
     "en": {
       "language": "en",
-      "value": "Czech nobleman, Count of Hohenlohe-Neuenstein-Weikersdorf, Bohemian nobleman, officer and occasional poet"
-    },
-    "fa": {
-      "language": "fa",
-      "value": "نویسنده آلمانی"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "comte de Hohenlohe-Neuenstein-Weikersdorf, noble de Bohème, officier et poète occasionnel"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "uasal Seiceach"
-    },
-    "it": {
-      "language": "it",
-      "value": "conte di Hohenlohe-Neuenstein-Weikersdorf, nobile boemo, ufficiale e poeta occasionale"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Duits auteur"
+      "value": "daughter of Tethys, wife of Melissus of Crete and mother of Adrasteia. The labels and identifiers of Georg Friedrich of Hohenlohe-Neuenstein-Weikersheim (wd Q96124), written over this record by an import, were removed on 2026-10-10"
     }
   },
   "id": "Q130001",
   "labels": {
-    "arz": {
-      "language": "arz",
-      "value": "جورج فريدريش"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "Georg Friedrich of Hohenlohe-Neuenstein-Weikersheim"
-    },
-    "bg": {
-      "language": "bg",
-      "value": "Георг Фридрих фон Хоенлое-Нойенщайн-Вайкерсхайм"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Georg Friedrich von Hohenlohe"
-    },
-    "cs": {
-      "language": "cs",
-      "value": "Jiří Bedřich z Hohenlohe"
-    },
-    "da": {
-      "language": "da",
-      "value": "Georg Friedrich"
-    },
-    "de": {
-      "language": "de",
-      "value": "Georg Friedrich"
-    },
     "en": {
       "language": "en",
-      "value": "Georg Friedrich of Hohenlohe-Neuenstein-Weikersheim"
-    },
-    "en-ca": {
-      "language": "en-ca",
-      "value": "Georg Friedrich of Hohenlohe-Neuenstein-Weikersheim"
-    },
-    "en-gb": {
-      "language": "en-gb",
-      "value": "Georg Friedrich of Hohenlohe-Neuenstein-Weikersheim"
-    },
-    "es": {
-      "language": "es",
-      "value": "Georg Friedrich of Hohenlohe-Neuenstein-Weikersheim"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Georg Friedrich von Hohenlohe"
-    },
-    "it": {
-      "language": "it",
-      "value": "Georg Friedrich"
-    },
-    "ja": {
-      "language": "ja",
-      "value": "ゲオルク・フリードリヒ (ホーエンローエ・ノイエンシュタイン・ヴァイカースハイム)"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Georg Friedrich"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Georg Friedrich of Hohenlohe-Neuenstein-Weikersheim"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "Georg Friedrich"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "Georg Friedrich of Hohenlohe-Neuenstein-Weikersheim"
-    },
-    "pt-br": {
-      "language": "pt-br",
-      "value": "Georg Friedrich of Hohenlohe-Neuenstein-Weikersheim"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "Георг Фридрих фон Гогенлоэ-Нойенштайн-Вайкерсхайм"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Georg Friedrich of Hohenlohe-Neuenstein-Weikersheim"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Georg Friedrich"
-    },
-    "zh": {
-      "language": "zh",
-      "value": "格奧爾格·腓特烈"
+      "value": "NN (Wife of Melissus of Crete)"
     }
   },
   "lastrevid": 17542943,

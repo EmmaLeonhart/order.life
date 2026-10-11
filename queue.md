@@ -377,15 +377,6 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-16. **THE CONTRADICTED ONE-SIDED EDGES (2026-10-10): the two batches with a dump alternative are done.** The BOTH-REAL class was checked against
-   Wikidata (`wikibase/analysis/one_sided_proposed.md`): the 330 confirmed edges got their missing
-   side. The 172 where Wikidata names a different parent are left, and they are not a cut list.
-   Many are a wrong Wikidata id on the dump's record (e.g. `Q123443` Sancha), some are deliberate
-   myth variants, some are rulings already made (Abas/Ixion). Done: the 7 the child disowns and 5 more cuts; the Greek myth variants kept (devlog
-   2026-10-10). Next: then the 141 where Wikidata's parent is not in the dump. Work them one at a time: fix the id,
-   keep the variant, or cut with `compare_depth`. The 1,942 without Wikidata ids on both ends and the
-   1 PHANTOM edge whose parent has no sex stay as they are.
-
 17. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
    have no item file, yet 219 edges reference them and they hold 200+ recorded
    relationships between them. They are holes in the dump where the surrounding family
