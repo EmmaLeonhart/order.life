@@ -3,7 +3,7 @@
   "claims": {
     "P20": [
       {
-        "id": "Q90612$AADBD2D0-684C-4501-8829-A064B625DB00",
+        "id": "Q75333$623DC77B-FF88-4761-8B02-B96FC5AAE011",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q90612$D8189DB0-9C30-4FFC-8392-9FC0F9A88121",
+        "id": "Q75333$1951894D-5734-4341-A977-795062D2B33F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q90612$5FD837A4-D664-4860-B026-3A07312DB21E",
+        "id": "Q75333$67916058-6A32-4C72-A92C-7D82967FD19D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,7 +64,7 @@
     ],
     "P55": [
       {
-        "id": "Q90612$E9FAC5DD-AE80-41FF-8CC4-4FEB9BB16A0A",
+        "id": "Q75333$FF51B281-2CA9-4368-8041-5DB0792F8870",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -82,21 +82,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q75333$84C9BE29-D77D-4DD4-82C9-09CE6258FF2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006746076189"
+          },
+          "hash": "6e66d4add6f8d345a17abdbe8a259c2ae519f85e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q75333$29E71A63-D6B3-4502-9712-9C2E23D10AE1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hercules Lybius Arms.svg"
+          },
+          "hash": "d9ce85c7e914952816d8e600875dd672cb637c04",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q90612",
+  "id": "Q75333",
   "labels": {
     "en": {
       "language": "en",
       "value": "Hercules Lybius"
     }
   },
-  "lastrevid": 17505419,
-  "modified": "2025-09-16T23:17:07Z",
+  "lastrevid": 17488528,
+  "modified": "2025-09-16T19:17:36Z",
   "ns": 860,
-  "pageid": 105523,
+  "pageid": 90164,
   "sitelinks": {},
-  "title": "Item:Q90612",
+  "title": "Item:Q75333",
   "type": "item"
 }

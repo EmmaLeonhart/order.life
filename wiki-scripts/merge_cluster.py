@@ -964,6 +964,35 @@ CLUSTERS = {
     "zeus-children-1": [
         ("Q75174", "Q90448", "Arcas -- same parents Zeus Q74656 / Callisto Q75207"),
     ],
+    # queue.md item 17b (2026-10-11): Q90xxx parallel-import copies with a unique same-name twin
+    # outside the block, corroborated by a shared parent, spouse or child (after mapping the
+    # other pairs) and keeping at most two parents. Found by name + corroboration, not name alone.
+    "q90-corroborated-1": [
+        ("Q74894", "Q90267", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q132843", "Q90343", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q51826", "Q90355", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q75225", "Q90374", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q75141", "Q90396", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q75336", "Q90406", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q130562", "Q90454", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q74997", "Q90460", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q75006", "Q90466", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q74979", "Q90468", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q75216", "Q90522", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q74946", "Q90538", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q74949", "Q90558", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q75093", "Q90562", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q75345", "Q90594", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q75291", "Q90606", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q75333", "Q90612", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q94052", "Q90686", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q87978", "Q90743", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q86537", "Q90859", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q88178", "Q90871", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q88254", "Q90910", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q88266", "Q90916", "Q90xxx parallel-import copy -- same name, shared relatives"),
+        ("Q86557", "Q90954", "Q90xxx parallel-import copy -- same name, shared relatives"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),

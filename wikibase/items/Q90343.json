@@ -1,7 +1,33 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Chalcomedusa"
+      }
+    ]
+  },
   "claims": {
     "P20": [
+      {
+        "id": "Q132843$179DF28C-23FA-43BA-8AFC-E5DE8835E06E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132844",
+              "numeric-id": 132844
+            }
+          },
+          "hash": "959a3aaa03e0408968d0655815639ee7b08ef79a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q90343$27DF88CA-99D1-4186-BA38-9172363EA378",
         "mainsnak": {
@@ -24,7 +50,7 @@
     ],
     "P39": [
       {
-        "id": "Q90343$D701A3D4-0C43-421C-B41F-6FA092569177",
+        "id": "Q132843$FF636505-D040-4B1B-BDC1-472F8FC27811",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +69,7 @@
         "type": "statement"
       },
       {
-        "id": "Q90343$26D0E795-0E52-45EF-92D0-C7477500D945",
+        "id": "Q132843$7655242C-D691-497C-A60E-B428BB9E5745",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -63,6 +89,25 @@
       }
     ],
     "P42": [
+      {
+        "id": "Q132843$007141C0-52F7-480A-85B6-74768490E5DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131675",
+              "numeric-id": 131675
+            }
+          },
+          "hash": "e8b193fb16317804fc57162a34eae27a8910b582",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q90343$32B3C69E-DDBC-4DAD-B40D-C61D45913A83",
         "mainsnak": {
@@ -85,7 +130,7 @@
     ],
     "P55": [
       {
-        "id": "Q90343$5543AFD7-6B21-48AC-AE82-BAA3D39E36C9",
+        "id": "Q132843$C4BC28D7-7D7A-4257-B391-C65CDA0A3B40",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +148,148 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P61": [
+      {
+        "id": "Q132843$E23B0E7B-C119-4BE5-A873-583E08AB7022",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1059810"
+          },
+          "hash": "61c6dd17121c87a6002edeec503eaec6bac34a6b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132843$6DAE7D90-8717-4EE3-A297-B66EA63448F1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Chalcomedusa Arms.svg"
+          },
+          "hash": "e0bcbfe769dc56c85786711d5d164a918b3f19bd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
-  "descriptions": {},
-  "id": "Q90343",
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "mare de Laertes"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "postava řecké mytologie"
+    },
+    "de": {
+      "language": "de",
+      "value": "Person der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "mythological mother of Laertes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות במיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Griekse mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    }
+  },
+  "id": "Q132843",
   "labels": {
+    "az": {
+      "language": "az",
+      "value": "Xalkomeduza"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Chalkomedusa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Calcomedusa"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Chalkomédusa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Chalkomedusa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Χαλκομέδουσα"
+    },
     "en": {
       "language": "en",
       "value": "Chalcomedusa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Calcomedusa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Chalcoméduse"
+    },
+    "he": {
+      "language": "he",
+      "value": "קלקומדוזה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Khalkomedusza"
+    },
+    "it": {
+      "language": "it",
+      "value": "Calcomedusa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Халкомедуза"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Халкомедуза"
     }
   },
-  "lastrevid": 17505151,
-  "modified": "2025-09-16T23:13:18Z",
+  "lastrevid": 17546627,
+  "modified": "2025-09-17T09:14:51Z",
   "ns": 860,
-  "pageid": 105175,
+  "pageid": 161228,
   "sitelinks": {},
-  "title": "Item:Q90343",
+  "title": "Item:Q132843",
   "type": "item"
 }

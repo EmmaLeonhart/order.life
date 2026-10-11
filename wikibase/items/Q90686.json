@@ -7,6 +7,10 @@
       },
       {
         "language": "en",
+        "value": "The priest Rapha"
+      },
+      {
+        "language": "en",
         "value": "The Priest Rafa"
       }
     ]
@@ -14,7 +18,7 @@
   "claims": {
     "P20": [
       {
-        "id": "Q90686$42B2047B-553F-41EF-A352-0B0EC0066895",
+        "id": "Q94052$258812D5-A2BC-4D31-9872-5C2E3E5D3B02",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -35,7 +39,7 @@
     ],
     "P39": [
       {
-        "id": "Q90686$74D6817E-7D1B-492B-B819-AD1F9B413EE2",
+        "id": "Q94052$BE63B9AC-68F5-4529-8D67-79C1980E7A91",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -54,7 +58,7 @@
         "type": "statement"
       },
       {
-        "id": "Q90686$CEA0438E-5D0D-4410-AD0F-75AC2B3C2E84",
+        "id": "Q94052$143828E9-88DE-4FE6-B8A1-7424ED199BC4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -74,6 +78,25 @@
       }
     ],
     "P47": [
+      {
+        "id": "Q94052$B464C773-2A13-480F-A56F-F47B026BE95C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93957",
+              "numeric-id": 93957
+            }
+          },
+          "hash": "7f0d48f4a5462710046ecc82137d3e47da3d05e4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q90686$975F2440-9768-496B-813D-BA29964A05CE",
         "mainsnak": {
@@ -96,7 +119,7 @@
     ],
     "P5": [
       {
-        "id": "Q90686$1ADD1845-CEA9-472C-B276-039BC039F7F4",
+        "id": "Q94052$AA3FD041-18BD-417E-9E8B-C3EDAAB5546B",
         "mainsnak": {
           "datatype": "monolingualtext",
           "datavalue": {
@@ -116,7 +139,7 @@
     ],
     "P55": [
       {
-        "id": "Q90686$909C6E0B-6898-4D1E-92DB-0DAFB615D4BE",
+        "id": "Q94052$23AD3310-3EC6-4BD7-A6B3-A98D51CE36E1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -135,16 +158,58 @@
         "type": "statement"
       }
     ],
+    "P56": [
+      {
+        "id": "Q94052$297A92AA-84EA-44C3-8BD0-E1E762BADC0A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q94052$62FFF9A1-CE02-4C81-ACEE-4DF338865896",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P62": [
       {
-        "id": "Q90686$1628C060-8B52-4520-81ED-3A54364BBF9F",
+        "id": "Q94052$D41239B3-FCC6-44C0-A95F-1D261DE25AE3",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
             "type": "string",
-            "value": "6000000206223716885"
+            "value": "6000000169609312913"
           },
-          "hash": "ecc697af5f425555bbef54f9f073bd7ee5343901",
+          "hash": "20aaa548e90b4e460cfd786b67644f3dbf678db1",
           "property": "P62",
           "snaktype": "value"
         },
@@ -154,18 +219,25 @@
     ]
   },
   "descriptions": {},
-  "id": "Q90686",
+  "id": "Q94052",
   "labels": {
     "en": {
       "language": "en",
       "value": "Yakov bar Chanania HaKohen"
     }
   },
-  "lastrevid": 17505493,
-  "modified": "2025-09-16T23:18:06Z",
+  "lastrevid": 17508841,
+  "modified": "2025-09-17T00:04:41Z",
   "ns": 860,
-  "pageid": 105624,
-  "sitelinks": {},
-  "title": "Item:Q90686",
+  "pageid": 109555,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q94052",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q94052"
+    }
+  },
+  "title": "Item:Q94052",
   "type": "item"
 }

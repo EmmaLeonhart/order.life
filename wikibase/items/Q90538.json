@@ -3,7 +3,7 @@
   "claims": {
     "P20": [
       {
-        "id": "Q90538$A792038C-38B1-4573-80DC-B66D38DB6440",
+        "id": "Q74946$125CCC0C-CD50-4907-94E5-01303554C135",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +22,26 @@
         "type": "statement"
       },
       {
-        "id": "Q90538$0BB3E531-E4CB-488C-8221-8A583FDA38F8",
+        "id": "Q74946$4D6E1C2C-C6DA-4378-9C03-5C9E913F1E72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74952",
+              "numeric-id": 74952
+            }
+          },
+          "hash": "c3b55440f510130f1f8916ff03bf848f97689679",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74946$226676A8-8114-444B-8993-7450DDCDF15A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +62,7 @@
     ],
     "P39": [
       {
-        "id": "Q90538$80CE7502-C808-485F-91C6-89FE6655260D",
+        "id": "Q74946$62CF4141-A2B4-4494-A166-BCA94602C2EC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,7 +81,7 @@
         "type": "statement"
       },
       {
-        "id": "Q90538$128A6742-C06E-4C38-B7F2-29626FD09B48",
+        "id": "Q74946$FBABC317-E884-4537-8DE3-8456AB94D780",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -83,18 +102,18 @@
     ],
     "P42": [
       {
-        "id": "Q90538$16FB8E65-DDDC-4EE3-92B9-B91C40CAA114",
+        "id": "Q74946$673DBDED-36EB-4F62-80FF-407D8FCCB685",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q90558",
-              "numeric-id": 90558
+              "id": "Q74949",
+              "numeric-id": 74949
             }
           },
-          "hash": "7f7bbfd3ce36cedc939903a786f283e6fb1d64d6",
+          "hash": "0ffb3a901d98d6dde706596fa6e62783d67c7fe6",
           "property": "P42",
           "snaktype": "value"
         },
@@ -104,7 +123,7 @@
     ],
     "P47": [
       {
-        "id": "Q90538$E9F49F82-95D9-45AD-85D8-FB570B0BC30E",
+        "id": "Q74946$5151FEE0-3247-48C2-851A-326DEA913C82",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -125,7 +144,7 @@
     ],
     "P48": [
       {
-        "id": "Q90538$5CC3C9CE-E33A-43EE-B1A9-F639938371A9",
+        "id": "Q74946$40372F26-17C8-42F1-AD00-B03F69E06B60",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -146,7 +165,7 @@
     ],
     "P5": [
       {
-        "id": "Q90538$C95BE417-39EA-47D5-BB55-A27C97036B5C",
+        "id": "Q74946$B5116C67-5D86-4554-B85D-7A63B624966C",
         "mainsnak": {
           "datatype": "monolingualtext",
           "datavalue": {
@@ -166,7 +185,7 @@
     ],
     "P55": [
       {
-        "id": "Q90538$6365E047-FF74-4DF2-8653-E234F71286E5",
+        "id": "Q74946$6765C5C7-EC40-4A04-A5FF-296F4AB2FDAA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -184,21 +203,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P94": [
+      {
+        "id": "Q74946$8F2902AB-9043-49FF-B3F3-139F3D5C429B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Talaos  King of Argos Arms.svg"
+          },
+          "hash": "1309e8c715af444da8c2cf44fd638d0fc7632a5b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q90538",
+  "id": "Q74946",
   "labels": {
     "en": {
       "language": "en",
       "value": "Talaos  King of Argos"
     }
   },
-  "lastrevid": 17505345,
-  "modified": "2025-09-16T23:16:05Z",
+  "lastrevid": 17488008,
+  "modified": "2025-09-16T19:10:37Z",
   "ns": 860,
-  "pageid": 105422,
+  "pageid": 89777,
   "sitelinks": {},
-  "title": "Item:Q90538",
+  "title": "Item:Q74946",
   "type": "item"
 }

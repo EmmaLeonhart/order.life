@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Laomedon  King of Troy"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
@@ -115,6 +122,68 @@
           },
           "hash": "2267d2bba7712fbb415ab9766683ccecf175601a",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q90355$F4AADAC7-7A54-481F-B6ED-6141B8ED2FB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90303",
+              "numeric-id": 90303
+            }
+          },
+          "hash": "2381c4fba2861b3a8768444aa26bdb8d4ce37344",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q90355$DD6396E4-9BD7-4546-A964-F83315D1AD80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90353",
+              "numeric-id": 90353
+            }
+          },
+          "hash": "ead1cb1cc368de97f3da9f6431eaecc1ad5e5d7f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q90355$C36BFCE6-754A-40B7-B201-227CE55F7F6A",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Laomedon /King of Troy/"
+            }
+          },
+          "hash": "f3eba331b543939d1045edc2313753d4a33b22b0",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

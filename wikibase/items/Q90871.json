@@ -1,20 +1,27 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yosef ben Hai  MeRomi"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q90871$F9560DB3-4F00-4F1B-9F39-B683F5EECAFB",
+        "id": "Q88178$A707B878-CB75-458C-A504-9017CD2955A8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q90910",
-              "numeric-id": 90910
+              "id": "Q88254",
+              "numeric-id": 88254
             }
           },
-          "hash": "09b3c918c2ab6f6361489826c0e1e64b587cd186",
+          "hash": "08a1e0fc836515544dbd2967829066baccb4990a",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +31,7 @@
     ],
     "P39": [
       {
-        "id": "Q90871$42E424B6-A19A-4170-BBC7-97A531E10E0E",
+        "id": "Q88178$29DEE94B-AEDA-4046-A6EB-8D4A7810F749",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +50,7 @@
         "type": "statement"
       },
       {
-        "id": "Q90871$EC037019-6452-4800-B554-8384B7BA8F26",
+        "id": "Q88178$046EF89A-8DA6-413A-B4BA-8DA3C091E187",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,7 +71,7 @@
     ],
     "P47": [
       {
-        "id": "Q90871$9423F3E2-7253-4C88-BC65-4BFD68F5FB60",
+        "id": "Q88178$927EFA5A-0EAF-4845-8593-0C5DC9DE7D55",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -85,7 +92,7 @@
     ],
     "P48": [
       {
-        "id": "Q90871$2C83F618-480A-4A86-8687-932B388F9711",
+        "id": "Q88178$78A1C2E2-32EE-4F93-9708-55179DDB847C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -106,17 +113,17 @@
     ],
     "P5": [
       {
-        "id": "Q90871$95C94A27-F348-43C5-97D6-AAF708CFB64F",
+        "id": "Q88178$94598C58-171E-4AED-95F0-A15AA5E17A17",
         "mainsnak": {
           "datatype": "monolingualtext",
           "datavalue": {
             "type": "monolingualtext",
             "value": {
               "language": "en",
-              "text": "Yosef ben Hai /MeRomi/"
+              "text": "Yosef ben Hai /Maromi/"
             }
           },
-          "hash": "70d94706c299facd9b0b723366b8880525b2f90f",
+          "hash": "774796dd222cba8409301aca3f376dc2c48e059d",
           "property": "P5",
           "snaktype": "value"
         },
@@ -126,7 +133,7 @@
     ],
     "P55": [
       {
-        "id": "Q90871$A864DDE7-72B0-4D67-AAB5-1B9CC0D601D9",
+        "id": "Q88178$BC3BC4BA-10B1-4E16-B42B-BD00D92AC87D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -189,25 +196,18 @@
     ]
   },
   "descriptions": {},
-  "id": "Q90871",
+  "id": "Q88178",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Yosef ben Hai  MeRomi"
+      "value": "Yosef ben Hai  Maromi"
     }
   },
-  "lastrevid": 17505677,
-  "modified": "2025-09-16T23:20:34Z",
+  "lastrevid": 17502983,
+  "modified": "2025-09-16T22:41:46Z",
   "ns": 860,
-  "pageid": 105858,
-  "sitelinks": {
-    "evolutionismwiki": {
-      "badges": [],
-      "site": "evolutionismwiki",
-      "title": "Notes:Q90871",
-      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q90871"
-    }
-  },
-  "title": "Item:Q90871",
+  "pageid": 103009,
+  "sitelinks": {},
+  "title": "Item:Q88178",
   "type": "item"
 }

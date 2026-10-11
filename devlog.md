@@ -5295,3 +5295,15 @@ child's mother is a copy consort (Danae, Io, Antiope, Maia, Taygete), whose pare
 (Acrisius, Inachus, Nycteus, Atlas/Pleione). Merging a child first would give it three parents and
 fail I4, so the Q90xxx block has to be deduplicated top-down, a level at a time, as the Magadha
 passes were. Hermes, Persephone, Myrmidon, Eurymedusa and Demeter have no main-block twin by name.
+
+## 2026-10-11 — Q90xxx block: 24 corroborated copies merged (item 17b, first pass)
+
+The Q90xxx range holds 493 records, a parallel import mixing Greek myth with Spanish nobles and the
+exilarch lines. Name alone is unsafe there (one name occurs eight times). A copy was merged only if
+its name has exactly one twin outside the block and exactly one inside it, the two share a parent,
+spouse or child (after mapping the other candidate pairs), and the survivor keeps at most two
+parents: 26 pairs, of which 2 (Picus, Minyas) tripped the I4 pre-check through copy parents outside
+the batch and were dropped. `merge_cluster.py q90-corroborated-1` merged the other 24 (Iapetos,
+Phoroneus, Demeter, Laomedon, Pontus, Talaos, Stymphalis, the Argive and Arcadian wives, and five
+in the exilarch and Kalonymide lines), 131 files repointed. The analysis script is not committed
+(scratch); the rule is written here and in the cluster's comment.

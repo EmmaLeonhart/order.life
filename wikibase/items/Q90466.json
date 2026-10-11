@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q90466$5AECCF42-4F31-4487-B311-FDCF505F7D92",
+        "id": "Q75006$79D37D48-9C09-4300-882E-A65F73AC1D72",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q90468",
-              "numeric-id": 90468
+              "id": "Q74979",
+              "numeric-id": 74979
             }
           },
-          "hash": "c4b5dca3f6e0c9f03634ded6dc00bb683d37f29a",
+          "hash": "b12049b4db28afc04add2a99e4098ffb12c0371d",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q90466$807017C5-4B91-4E9F-9FA8-53F5A8E8494C",
+        "id": "Q75006$15D60E66-C285-4756-80BF-22C4B1B3C756",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q90466$56487524-CAE6-4924-993E-82BD0259890E",
+        "id": "Q75006$74AAB371-866B-43B2-9C6B-68DB95D97B59",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,7 +64,7 @@
     ],
     "P42": [
       {
-        "id": "Q90466$11856E8D-F065-46DC-8AB5-482D768428A4",
+        "id": "Q75006$8351279A-9852-43A8-A429-07E6E42DFFC8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -85,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q90466$639D7C73-A662-4901-83F0-B830ABC155B4",
+        "id": "Q75006$EA30D73F-7E10-46A8-B9D0-0B70E39E96A5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +103,38 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P94": [
+      {
+        "id": "Q75006$CA2EEFB3-9DB2-4B4C-86CB-C08B1F028690",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Idea Arms.svg"
+          },
+          "hash": "5b767ddc6d5bd4417b82780267be631d047b4a31",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q90466",
+  "id": "Q75006",
   "labels": {
     "en": {
       "language": "en",
       "value": "Idea"
     }
   },
-  "lastrevid": 17505273,
-  "modified": "2025-09-16T23:15:04Z",
+  "lastrevid": 17488090,
+  "modified": "2025-09-16T19:11:42Z",
   "ns": 860,
-  "pageid": 105325,
+  "pageid": 89837,
   "sitelinks": {},
-  "title": "Item:Q90466",
+  "title": "Item:Q75006",
   "type": "item"
 }
