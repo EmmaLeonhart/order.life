@@ -1,5 +1,26 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Martín Rodríguez de Maluenda y Alvarez de Castr"
+      },
+      {
+        "language": "en",
+        "value": "Martín Rodríguez de Maluenda Álvarez de Castro"
+      },
+      {
+        "language": "en",
+        "value": "Martin  Rodriguez de Maluenda Alvarez de Castro"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Martín  Rodríguez de Maluenda Álvarez de Castro"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -177,6 +198,94 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q91962$16EDA432-7947-4FCC-BD02-CB802BE90514",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92260",
+              "numeric-id": 92260
+            }
+          },
+          "hash": "1ec53cc40c733e7c5fee85d20b87db0a53d27bd2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q91962$C2CD65E7-2518-4581-AFFB-5E0B6AC8EB48",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q91962$75E0D15F-CEB5-4C60-94DC-0F6D77AC7835",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91962$32B9859E-D053-4270-97A7-FE7C37708DA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000059889502042"
+          },
+          "hash": "76564489457da6b98e863a431594a958618db5e8",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

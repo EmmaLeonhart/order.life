@@ -1054,6 +1054,19 @@ CLUSTERS = {
         ("Q61301", "Q99314", "Julius Constantius -- both carry the same Wikidata id, shared parent or spouse"),
         ("Q85263", "Q195390", "Necho I (Menkheperre Necho) -- both carry the same Wikidata id, shared parent or spouse"),
     ],
+    # DEDUPE by hand, set 1 (2026-10-11): label-subset pairs with the same parents, checked one by one.
+    # Skipped: Jakob Wyss / Jakob Wyss II (same parents; II may be a second son of the name), the
+    # Puranic RICHEYU pair, and al-Muttalib / al-Muqawwim (Quraysh lines).
+    "dedupe-hand-1": [
+        ("Q89759", "Q91574", "Diego de Cervantes y (Alvarez de) Toledo -- same parents, fuller form of the name"),
+        ("Q90173", "Q91962", "Martin Rodriguez de Maluenda -- same parents, same name"),
+        ("Q31721", "Q92290", "Juan de Saavedra Guzman -- same parents and same wife"),
+        ("Q92404", "Q32327", "Antonio de Saavedra Guzman -- same mother and two shared wives; father is the Juan merged above; Q92404 carries wd Q22122560"),
+        ("Q32929", "Q92708", "Alonso (Fernandez de) Castro Polanco -- same parents, fuller form"),
+        ("Q33680", "Q92930", "Diego de Castro y Lopez Zuniga Torquemada -- same parents, same name"),
+        ("Q35045", "Q35083", "Gil de Alvarado (y) Benavides -- same parents, same name"),
+        ("Q61565", "Q62552", "Constantius Chlorus -- same parents; Q61565 carries wd Q131195"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),

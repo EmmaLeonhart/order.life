@@ -1,5 +1,18 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Diego  de Castro y Lopez Zuniga Torquemada y Zu"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Diego  de Castro y López Zúñiga Torquemada y Zú"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -180,9 +193,86 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P42": [
+      {
+        "id": "Q92930$1A50A6C9-13D7-4CDA-A2F1-BE6B7CAB9933",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93634",
+              "numeric-id": 93634
+            }
+          },
+          "hash": "f09257c897f85b09168339431f922a36a269b9ab",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q92930$7C7E12CD-92A9-4590-A1DB-32B10A6F0D3B",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "IV Señor de Santiuste y IV Señor de Pelilla"
+          },
+          "hash": "cb5ca62ff7cc9b9d4f2a871e00cca797331c9720",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q92930$5F3DFFEE-A9FF-467A-8A26-1F748A7477CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q92930$0D405920-B5D3-4157-895B-D4E473489491",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000049320859836"
+          },
+          "hash": "3a991729d517f8d8975fd09ec548dd1487cfe290",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
-  "descriptions": {},
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "IV Señor de Santiuste y IV Señor de Pelilla"
+    }
+  },
   "id": "Q33680",
   "labels": {
     "en": {

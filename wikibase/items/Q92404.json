@@ -1,5 +1,18 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antonio  de Saavedra Guzman"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Antonio  de Saavedra Guzmán"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -111,8 +124,8 @@
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q92290",
-              "numeric-id": 92290
+              "id": "Q31721",
+              "numeric-id": 31721
             }
           },
           "hash": "41e07d7f669769a3400b4e9ab5a95962ead2464a",
@@ -255,6 +268,23 @@
           },
           "hash": "546211c527aad97655e80bf7d968c96a1b14d673",
           "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32327$F316F0F7-1DF8-4CA5-B5CD-F829C2223024",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antonio  de Saavedra Guzman Arms.svg"
+          },
+          "hash": "3378ff010a9c18dd98ff62e87b9b01a4bc6a3bab",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",

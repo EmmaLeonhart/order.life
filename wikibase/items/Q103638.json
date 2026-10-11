@@ -8,13 +8,23 @@
       {
         "language": "en",
         "value": "Martín Rodríguez de Maluenda Álvarez de Castro"
+      },
+      {
+        "language": "en",
+        "value": "Martin  Rodriguez de Maluenda Alvarez de Castro"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Martín  Rodríguez de Maluenda Álvarez de Castro"
       }
     ]
   },
   "claims": {
     "P20": [
       {
-        "id": "Q91962$D684ABDD-7284-49BE-825C-4F7A2B567DFA",
+        "id": "Q90173$51101959-CC85-4074-A340-E68266146871",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -33,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q91962$7B046278-13F4-49DC-A4B4-164CB79FD392",
+        "id": "Q90173$B882ACC2-730C-4696-AB3E-32DB1A17D993",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -52,7 +62,7 @@
         "type": "statement"
       },
       {
-        "id": "Q91962$E04DD7D8-C250-45EA-8660-0C2132E707D7",
+        "id": "Q90173$483B49A2-773A-4F7C-8BA7-71F50AF6A698",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -73,7 +83,7 @@
     ],
     "P39": [
       {
-        "id": "Q91962$51017CF1-20D4-496F-96A5-9A26AB3B0BAC",
+        "id": "Q90173$FEF143D1-7510-4023-849F-BE3E5F125DB3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -92,7 +102,7 @@
         "type": "statement"
       },
       {
-        "id": "Q91962$3CA8D414-7AB7-4AA9-BEBB-69C5C476C9EC",
+        "id": "Q90173$80E720DC-10AC-4F8E-B9BE-5EE02A2E13BE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -105,6 +115,89 @@
           },
           "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
           "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q90173$C5ED4CC1-3860-4B6A-92D0-8C36DB91B56E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89925",
+              "numeric-id": 89925
+            }
+          },
+          "hash": "eaeabfd926f343bb612cf37cc11002c7aff7ae73",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q90173$B6D6388E-CE9B-401C-B056-7979027D0243",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91960",
+              "numeric-id": 91960
+            }
+          },
+          "hash": "47172d5cad04cce64a2c3b2e2f0465d7123400a1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q90173$451B019B-9678-4794-96F8-A621911544CB",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Martín /Rodríguez de Maluenda y Alvarez de Castro/"
+            }
+          },
+          "hash": "02cdf6ef139a3969a05254cbc226d569b4f7ee1f",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q90173$F086465B-E937-46F5-ADFF-D4CC62438356",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -126,89 +219,6 @@
           },
           "hash": "1ec53cc40c733e7c5fee85d20b87db0a53d27bd2",
           "property": "P42",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P47": [
-      {
-        "id": "Q91962$25E2C71A-8A03-4DF9-A164-60062E8CA573",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q89925",
-              "numeric-id": 89925
-            }
-          },
-          "hash": "eaeabfd926f343bb612cf37cc11002c7aff7ae73",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P48": [
-      {
-        "id": "Q91962$0FE0517C-1C4C-4E24-9DA0-4D3670747D90",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q91960",
-              "numeric-id": 91960
-            }
-          },
-          "hash": "47172d5cad04cce64a2c3b2e2f0465d7123400a1",
-          "property": "P48",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P5": [
-      {
-        "id": "Q91962$C9929729-6504-4667-B60E-79A48E3799B8",
-        "mainsnak": {
-          "datatype": "monolingualtext",
-          "datavalue": {
-            "type": "monolingualtext",
-            "value": {
-              "language": "en",
-              "text": "Martín /Rodríguez de Maluenda Álvarez de Castro/"
-            }
-          },
-          "hash": "d70a9c7fd6b3b5649d5eb7722b605b9bdf21dfa7",
-          "property": "P5",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P55": [
-      {
-        "id": "Q91962$77CD6764-F5BC-49A3-99DA-9A40F9B003D8",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153718",
-              "numeric-id": 153718
-            }
-          },
-          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
-          "property": "P55",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -284,22 +294,22 @@
     ]
   },
   "descriptions": {},
-  "id": "Q91962",
+  "id": "Q90173",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Martin  Rodriguez de Maluenda Alvarez de Castro"
+      "value": "Martin  Rodriguez de Maluenda y Alvarez de Castro"
     },
     "es": {
       "language": "es",
-      "value": "Martín  Rodríguez de Maluenda Álvarez de Castro"
+      "value": "Martín  Rodríguez de Maluenda y Alvarez de Castro"
     }
   },
-  "lastrevid": 17506763,
-  "modified": "2025-09-16T23:35:12Z",
+  "lastrevid": 17504981,
+  "modified": "2025-09-16T23:10:51Z",
   "ns": 860,
-  "pageid": 107296,
+  "pageid": 105005,
   "sitelinks": {},
-  "title": "Item:Q91962",
+  "title": "Item:Q90173",
   "type": "item"
 }

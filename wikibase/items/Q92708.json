@@ -1,9 +1,22 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alonso  Fernandez de Castro y Polanco"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Alonso  Fernández de Castro y Polanco"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q92708$9695D655-66D4-4D34-832C-38D4BACB4BA6",
+        "id": "Q32929$EA80D362-E301-440C-A5FF-3B1118E48754",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -24,7 +37,7 @@
     ],
     "P39": [
       {
-        "id": "Q92708$9F435823-EA36-4B75-95E1-F583EF61CFE4",
+        "id": "Q32929$602C4529-DA10-4F0B-B43F-9FA25106C0DC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +56,7 @@
         "type": "statement"
       },
       {
-        "id": "Q92708$56EFD2A6-9E44-4620-8D00-B7DD2BD7D74E",
+        "id": "Q32929$18855F08-C155-4E67-9921-AFCD937C724C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -56,6 +69,106 @@
           },
           "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
           "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q32929$6D8FDC67-FB9A-4F94-BF1B-F0E43B782455",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92706",
+              "numeric-id": 92706
+            }
+          },
+          "hash": "6aa61f383652ef4f63b3c62f84d224e69bf9fa47",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q32929$4AA6B336-66BF-46FB-8B77-77FC495A9A89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31617",
+              "numeric-id": 31617
+            }
+          },
+          "hash": "2661136f0d50372123bc2182c2f273726cde9d11",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q32929$D6D5B5AB-54E4-48F0-A2A5-411F81EEB04F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Alonso /Castro Polanco/"
+            }
+          },
+          "hash": "cccf7dafc62cb6964d74db507bb218d71f8186d6",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32929$7FFF2898-910E-4D84-A870-F5013553D5A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32929$145F9A69-032F-4495-8563-C0F8E9BC8B9B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alonso  Castro Polanco Arms.svg"
+          },
+          "hash": "4386b0c016c37d21617a9305c04105226e65c72b",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -83,68 +196,6 @@
         "type": "statement"
       }
     ],
-    "P47": [
-      {
-        "id": "Q92708$1B681C9D-166C-4A8A-A642-92BBAACABCAB",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q92706",
-              "numeric-id": 92706
-            }
-          },
-          "hash": "6aa61f383652ef4f63b3c62f84d224e69bf9fa47",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P48": [
-      {
-        "id": "Q92708$54D93F12-37E5-48A3-9905-34F2DFE7D040",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q31617",
-              "numeric-id": 31617
-            }
-          },
-          "hash": "2661136f0d50372123bc2182c2f273726cde9d11",
-          "property": "P48",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P5": [
-      {
-        "id": "Q92708$3609EC03-8C5C-4929-97EC-0ED1B72DDB29",
-        "mainsnak": {
-          "datatype": "monolingualtext",
-          "datavalue": {
-            "type": "monolingualtext",
-            "value": {
-              "language": "en",
-              "text": "Alonso /Fernández de Castro y Polanco/"
-            }
-          },
-          "hash": "f11b5ef022a6d59b39049335e5c5d9c8099beaa7",
-          "property": "P5",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P54": [
       {
         "id": "Q92708$2D0D2AFC-53C4-410B-96E1-D2A17A2A7DEB",
@@ -156,27 +207,6 @@
           },
           "hash": "23febd794dbf469aded7647efdf866d946524580",
           "property": "P54",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P55": [
-      {
-        "id": "Q92708$3F3840B3-45A0-4F57-B2F4-4ACFC816EAAE",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153718",
-              "numeric-id": 153718
-            }
-          },
-          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
-          "property": "P55",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -227,22 +257,18 @@
     ]
   },
   "descriptions": {},
-  "id": "Q92708",
+  "id": "Q32929",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Alonso  Fernandez de Castro y Polanco"
-    },
-    "es": {
-      "language": "es",
-      "value": "Alonso  Fernández de Castro y Polanco"
+      "value": "Alonso  Castro Polanco"
     }
   },
-  "lastrevid": 17507503,
-  "modified": "2025-09-16T23:45:09Z",
+  "lastrevid": 17433454,
+  "modified": "2025-09-16T05:54:14Z",
   "ns": 860,
-  "pageid": 108080,
+  "pageid": 52408,
   "sitelinks": {},
-  "title": "Item:Q92708",
+  "title": "Item:Q32929",
   "type": "item"
 }

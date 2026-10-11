@@ -5458,3 +5458,14 @@ II tripped I4 through a duplicated parent. What remains needs a hand check per p
 labels differ but one contains the other (some are father and son, e.g. "Jakob Wyss" / "Jakob Wyss
 II"; some different people, e.g. "Diego de Cervantes y Toledo" / "… y Álvarez"), and the Senusret II
 cascade.
+
+## 2026-10-11 — DEDUPE by hand, set 1: eight merged
+
+The first 12 label-subset pairs, checked one by one. Merged (`dedupe-hand-1`, 92 files repointed),
+each with the same parents and a name that differs only by a fuller form: Diego de Cervantes y
+(Álvarez de) Toledo, Martín Rodríguez de Maluenda, Juan de Saavedra Guzmán (same wife too), Antonio
+de Saavedra Guzmán (after Juan; two shared wives), Alonso (Fernández de) Castro Polanco, Diego de
+Castro y López Zúñiga, Gil de Alvarado (y) Benavides, Constantius Chlorus. Correction: batch 6's note
+called the two Diegos de Cervantes "different people" from their labels alone; they have the same
+parents. Skipped: Jakob Wyss / Jakob Wyss II (same parents; "II" may mark a second son of the
+name), the Puranic RICHEYU pair, al-Muttalib and al-Muqawwim (Quraysh lines). 25 pairs left.
