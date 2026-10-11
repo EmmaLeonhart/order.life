@@ -5176,3 +5176,10 @@ Mamaea's husband (she was his aunt). 12 files repointed; nothing names the vacat
 Left as it was: Zenobia as Zenobius's daughter. Both wikis note that three milestones name her
 father Antiochus, and Settipani makes Zenobius her grandfather; where she hangs is a story matter.
 Zenobius's mother (Mamaea) has no source either.
+
+## 2026-10-10 — item 14 closed: Adnan's three fathers kept as variant traditions
+
+Decided without Emma (instruction: make the call and record it), in the direction that changes
+nothing: the two 'Udd records and Nabhan stay as Adnan's fathers, as variant source traditions;
+neither merged nor cut. Recorded in `closed_repairs.md` with a do-not-sweep note. If she wants a
+single chain, the merge and cuts are hers to call.

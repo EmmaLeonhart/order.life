@@ -250,3 +250,27 @@ Decided without Emma, on the instruction to make the call: the cut stands and is
    Rudras with a named father and mother, not Rudra-Shiva the creator. **If the intent was
    the Shaiva reading, this cut is wrong and is one revert** — `cut_edges.py`, cut set
    `brahma-rudras`.
+
+
+## 'Udd / Adnan parentage (queue item 14) — closed 2026-10-10: kept as variant traditions, no change
+
+Decided without Emma, on the instruction to make the call and record it. `Q65555` Adnan keeps all three fathers, `Q66385` ('Udd son of 'Udadh), `Q66394` ('Udd son of Umaisi) and `Q86503` (Nabhan Banu Ismail), as variant source traditions of Adnan's ancestry, which the Arab genealogists do give in competing chains. Nabhan arrived with the M3 merge Emma approved on 2026-07-31, and Muhammad's ancestry here is deliberate (CLAUDE.md rule 1). Merging the two 'Udds would collapse a variant and cutting any father would choose between traditions, both of which are hers. **Do not merge or cut these in a sweep.** Adnan stays counted in `children_over_2_parents`; that is accepted. If she wants one chain, the merge and cuts are hers to call. The item, verbatim:
+
+14. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
+   `Q66385` "Imaam 'Udd \ Add Ben Add Ben ?'Udadh", `Q66394` "Udd son of Umaisi", and
+   `Q86503` "Nabhan Banu Ismail" (the last acquired in the M3 merge). At most one is right.
+
+   `Q66385` and `Q66394` are both married to **the same woman** `Q66382`, who lists both as
+   her husbands — the dump stating the duplication about itself. Neither carries a Wikidata
+   id and neither is an ancestor of the other, so nothing structural separates them.
+
+   **But their fathers differ in exactly the way variant traditions differ:** `Q66385`'s
+   father is `'Udadh`, `Q66394`'s is `Umaisi`/`Humaisi`. The Arab sources give variant
+   chains for Adnan's ancestry, and *'Udd* and *'Udad* are variants of one name. **This may
+   be two source-traditions deliberately kept, not a duplicate** — and R1 already
+   established that Muhammad's ancestry here is intentional. Merging them would collapse
+   the variant. **Do not merge without Emma.**
+
+   Related and also unresolved: `Q66385`'s own two fathers `Q67549` and `Q67552` are both
+   children of `Q67561` — and `Q67552` is flagged `COLLAPSE` against `Q67561`, so those two
+   must not be merged either.

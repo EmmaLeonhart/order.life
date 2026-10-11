@@ -377,25 +377,6 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-14. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
-   `Q66385` "Imaam 'Udd \ Add Ben Add Ben ?'Udadh", `Q66394` "Udd son of Umaisi", and
-   `Q86503` "Nabhan Banu Ismail" (the last acquired in the M3 merge). At most one is right.
-
-   `Q66385` and `Q66394` are both married to **the same woman** `Q66382`, who lists both as
-   her husbands — the dump stating the duplication about itself. Neither carries a Wikidata
-   id and neither is an ancestor of the other, so nothing structural separates them.
-
-   **But their fathers differ in exactly the way variant traditions differ:** `Q66385`'s
-   father is `'Udadh`, `Q66394`'s is `Umaisi`/`Humaisi`. The Arab sources give variant
-   chains for Adnan's ancestry, and *'Udd* and *'Udad* are variants of one name. **This may
-   be two source-traditions deliberately kept, not a duplicate** — and R1 already
-   established that Muhammad's ancestry here is intentional. Merging them would collapse
-   the variant. **Do not merge without Emma.**
-
-   Related and also unresolved: `Q66385`'s own two fathers `Q67549` and `Q67552` are both
-   children of `Q67561` — and `Q67552` is flagged `COLLAPSE` against `Q67561`, so those two
-   must not be merged either.
-
 16. **The one-sided edges: `PHANTOM` is DONE, `BOTH-REAL` is what is left.**
 
    **`PHANTOM` — 1,050 edges, closed 2026-08-18** by `add_phantom_mirrors.py` under
