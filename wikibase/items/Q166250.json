@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Theoclia"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q166250$9E84F1E4-FADE-45D0-A73E-16A29F0941B0",
+        "id": "Q151865$700F40E5-423F-4973-93C0-4593EE23D8E7",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q166250$45226404-A6B3-4510-8C2E-E5ED7C00D2EF",
+        "id": "Q151865$48FAAE67-42E0-43F3-B9E8-1266DAFEDE00",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -35,6 +42,103 @@
           },
           "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
           "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151865$DEF45BF7-5521-4519-8002-4EB577770F65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151898",
+              "numeric-id": 151898
+            }
+          },
+          "hash": "444dfaf3a4c34672f27c5d6a70057fff92306be8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151865$7EBC6BB8-2349-4002-9827-DB58E4D6F04B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4681",
+              "numeric-id": 4681
+            }
+          },
+          "hash": "057f80ca291923f78675cd6e0c78a5a0c91c9ac6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151865$66D07C8C-B9FD-43BD-8C60-7404FC0F2855",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151865$B1DAE099-D09F-40DB-9BB8-3B9D88C5F831",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15982251"
+          },
+          "hash": "e4088ccf3fe3065ba6c011ea99a339aaf1cfc128",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151865$6F53C081-89FD-433D-BCD2-EA560D36A0B6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Theoclia Arms.svg"
+          },
+          "hash": "7f561e79bea36aa440ee929c4c27fd1ae2df65b3",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -62,69 +166,6 @@
         "type": "statement"
       }
     ],
-    "P47": [
-      {
-        "id": "Q166250$456355C2-A481-DF32-1120-9EB61A854AA6",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q151898",
-              "numeric-id": 151898
-            }
-          },
-          "hash": "489aa33f6733ebeb9e77cb533636ff9186e3198f",
-          "property": "P47",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P48": [
-      {
-        "id": "Q166250$EB445853-236D-845C-7968-F72435E92E00",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q166205",
-              "numeric-id": 166205
-            }
-          },
-          "hash": "f2f389aabfab0f52ccf7b76885838b2b2156553f",
-          "property": "P48",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P55": [
-      {
-        "id": "Q166250$522DC9D3-CFD9-6B60-2AB8-5E9FF9FA5FF3",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153719",
-              "numeric-id": 153719
-            }
-          },
-          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P62": [
       {
         "id": "Q166250$BF8227D1-6CD6-EF78-9D55-44070FB0DC8C",
@@ -141,38 +182,66 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q166250$CB7A0628-8FF3-4CE5-8D38-5C58DE2F93FC",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Theoclia Arms.svg"
-          },
-          "hash": "7f561e79bea36aa440ee929c4c27fd1ae2df65b3",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q166250",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "vermutlich Schwester von Kaiser Alexander Severus"
+    },
+    "el": {
+      "language": "el",
+      "value": "αδελφή του Αλέξανδρου Σεβήρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "supposed sister of emperor Alexander Severus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "імовірна сестра імператора Александра Севера"
+    }
+  },
+  "id": "Q151865",
   "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Theoclia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Theoclia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Theoclia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Theoclia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θεόκλεια"
+    },
     "en": {
       "language": "en",
       "value": "Theoclia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Theoclia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Теоклія"
     }
   },
-  "lastrevid": 17593994,
-  "modified": "2025-09-17T20:21:09Z",
+  "lastrevid": 17580050,
+  "modified": "2025-09-17T17:10:34Z",
   "ns": 860,
-  "pageid": 209415,
+  "pageid": 180319,
   "sitelinks": {},
-  "title": "Item:Q166250",
+  "title": "Item:Q151865",
   "type": "item"
 }

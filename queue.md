@@ -377,16 +377,12 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-13. **THE SEVERAN SUBTREE — unblocked by Wikidata (2026-10-10).** Gessius Marcianus is
-   merged (`Q151898`). Julia Avita Mamaea's father on Wikidata (`Q235090`) is `Q1232755` Julius
-   Avitus = dump `Q151864`, the father `Q4681` carries. Her copy `Q166205` instead hangs from
-   `Q166158` "Julius Piso III", which is the false edge. Remove it (both sides; run
-   `compare_depth.py` first, since Piso has ancestors of his own), then merge `Q166205` into
-   `Q4681`, and then the two children pairs `Q166249` → `Q151866` (Gessius Bassianus, wd
-   Q15982235) and `Q166250` → `Q151865` (Theoclia, wd Q15982251). **Zenobius stays open:**
-   `Q4682`'s father is Elagabalus `Q144407` and `Q166216`'s is Malchus II `Q166170`. One edge is
-   false and needs a source. Elagabalus is also recorded as Mamaea's husband, which cannot be right:
-   she was his aunt.
+13. **ZENOBIUS'S FATHER (the rest of the Severan subtree was merged 2026-10-10).** `Q4682` and
+   `Q166216` are both Julius Aurelius Zenobius, father of Zenobia (`Q38274` / `Q166262`, also two
+   copies). Both now have mother `Q4681` Mamaea, but `Q4682`'s father is Elagabalus `Q144407` and
+   `Q166216`'s is Malchus II of Palmyra `Q166170`. One edge is false: find a source, cut it, then
+   merge the two Zenobii and the two Zenobias. Elagabalus is also recorded as Mamaea's husband,
+   which cannot be right: she was his aunt.
 
 14. **THE 'UDD / ADNAN PARENTAGE — NEEDS EMMA.** `Q65555` Adnan has **three fathers**:
    `Q66385` "Imaam 'Udd \ Add Ben Add Ben ?'Udadh", `Q66394` "Udd son of Umaisi", and

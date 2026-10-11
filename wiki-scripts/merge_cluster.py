@@ -914,6 +914,17 @@ CLUSTERS = {
         ("Q151898", "Q166247", "Marcus Julius Gessius Marcianus -- same label, both husbands "
                                "of a Julia Avita Mamaea; Q151898 carries wd Q2494981"),
     ],
+    # queue.md item 13, the Severan subtree (2026-10-10). Run `cut_edges.py severan-piso`
+    # first, or Mamaea inherits a false second father. Zenobius (Q4682/Q166216) is left out:
+    # his two copies have different fathers, Elagabalus and Malchus II, and one is false.
+    "severan": [
+        ("Q4681", "Q166205", "Julia Avita Mamaea -- same mother Julia Maesa Q4680; Q4681 "
+                             "carries wd Q235090"),
+        ("Q151866", "Q166249", "Marcus Julius Gessius Bassianus -- same parents once Mamaea "
+                               "is one record; Q151866 carries wd Q15982235"),
+        ("Q151865", "Q166250", "Theoclia -- same parents once Mamaea is one record; Q151865 "
+                               "carries wd Q15982251"),
+    ],
 }
 
 

@@ -1,9 +1,33 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Julius Gessius Bassianus"
+      }
+    ]
+  },
   "claims": {
+    "P1185": [
+      {
+        "id": "Q151866$4CE9E5A4-F7AC-4D34-9EAE-4A8A3A91F7EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "351458"
+          },
+          "hash": "73e0e0f04880e5362a8ab45c570e0686f57b1eac",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P39": [
       {
-        "id": "Q166249$DB0FC3EC-AD1C-4C8A-8DD7-5B61617FA0E2",
+        "id": "Q151866$3C39D595-3756-4B54-8365-42A21D02C510",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +46,7 @@
         "type": "statement"
       },
       {
-        "id": "Q166249$294BFFB6-C26E-44AE-9910-B5D25702412D",
+        "id": "Q151866$1E1B1355-CF16-48B0-A752-B597094A2531",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +67,7 @@
     ],
     "P47": [
       {
-        "id": "Q166249$73D55190-4712-FAA9-302C-C85259C076F7",
+        "id": "Q151866$AB197901-0B2F-4A69-9ED8-3A4F8C4285BA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -54,7 +78,7 @@
               "numeric-id": 151898
             }
           },
-          "hash": "489aa33f6733ebeb9e77cb533636ff9186e3198f",
+          "hash": "444dfaf3a4c34672f27c5d6a70057fff92306be8",
           "property": "P47",
           "snaktype": "value"
         },
@@ -64,18 +88,18 @@
     ],
     "P48": [
       {
-        "id": "Q166249$3B0F2DE3-30BA-8540-4F61-726F2DE23F1F",
+        "id": "Q151866$501C3A29-7E06-42D2-8B11-6B8F88C97834",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q166205",
-              "numeric-id": 166205
+              "id": "Q4681",
+              "numeric-id": 4681
             }
           },
-          "hash": "f2f389aabfab0f52ccf7b76885838b2b2156553f",
+          "hash": "057f80ca291923f78675cd6e0c78a5a0c91c9ac6",
           "property": "P48",
           "snaktype": "value"
         },
@@ -85,7 +109,7 @@
     ],
     "P55": [
       {
-        "id": "Q166249$746D19F2-92E2-6A5B-0E21-67730975C53F",
+        "id": "Q151866$6D601003-BADF-4C3A-84C2-C68818AB57EC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -98,6 +122,40 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151866$302B2039-8984-45E3-B353-6B060A313009",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15982235"
+          },
+          "hash": "5c27b3b69409c4f647a15edaff20a213bcb237b2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151866$EDD40F58-9D6F-49FA-8D11-459CFD8FD455",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Julius Gessius Bassianus Arms.svg"
+          },
+          "hash": "dfe394641cf46e871b831d642457cf1e3b0c487e",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -120,38 +178,54 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q166249$D1B03967-078B-40D6-B951-BE02EF30176A",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Marcus Julius Gessius Bassianus Arms.svg"
-          },
-          "hash": "dfe394641cf46e871b831d642457cf1e3b0c487e",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q166249",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "3rd century Roman nobleman and member of the Arval brethren"
+    }
+  },
+  "id": "Q151866",
   "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Marcus Julius Gessius Bassianus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Marcus Julius Gessius Bassianus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Iulius Gessius Bassianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Ιούλιος Γέσιος Βασιανός"
+    },
     "en": {
       "language": "en",
       "value": "Marcus Julius Gessius Bassianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Julio Gesio Basiano"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Giulio Gessio Bassiano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Iulius Gessius Bassianus"
     }
   },
-  "lastrevid": 17593992,
-  "modified": "2025-09-17T20:21:07Z",
+  "lastrevid": 17580052,
+  "modified": "2025-09-17T17:10:35Z",
   "ns": 860,
-  "pageid": 209414,
+  "pageid": 180320,
   "sitelinks": {},
-  "title": "Item:Q166249",
+  "title": "Item:Q151866",
   "type": "item"
 }

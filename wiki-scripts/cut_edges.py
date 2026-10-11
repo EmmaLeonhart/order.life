@@ -1047,6 +1047,15 @@ CUTS = {
          "(Q148206), not to the tribune; the tribune keeps his real 920-deep ancestry "
          "through his mother Q72801 Cornelia"),
     ],
+    # queue.md item 13, the Severan subtree (2026-10-10). Run before `merge_cluster.py
+    # severan`. Not an unmerge or a dedupe: the false edge is on a duplicate that is about to
+    # be merged, and kept it would give the survivor a second father.
+    "severan-piso": [
+        ("Q166158", "Q166205", "Julius Piso III recorded as father of a copy of Julia Avita "
+                               "Mamaea; Wikidata Q235090 gives her father as Q1232755 Julius "
+                               "Avitus = dump Q151864, which Q4681 already carries. Simulated "
+                               "with the merges that follow: 0 records lose depth"),
+    ],
 }
 
 

@@ -118,6 +118,25 @@
         },
         "rank": "normal",
         "type": "statement"
+      },
+      {
+        "id": "Q166205$A0658A23-E30A-1F99-7273-2B3D94B13868",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166216",
+              "numeric-id": 166216
+            }
+          },
+          "hash": "cb8197aac80c7f5098ccd3f23d644fc1af5e9f3f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
       }
     ],
     "P39": [
@@ -210,6 +229,44 @@
             }
           },
           "hash": "0039b69d90809673c3d36b3a8bf0c8fbea2028d5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q166205$D97C79A8-E466-B57A-1140-F5999F587DA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166170",
+              "numeric-id": 166170
+            }
+          },
+          "hash": "99ac30564f53da8a22805e00f5b5ddb408521ceb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q166205$52D99704-DDBA-88BF-381D-35201E358EB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166246",
+              "numeric-id": 166246
+            }
+          },
+          "hash": "309541a59751c5a195a00b591a9ce122bbc89c7b",
           "property": "P42",
           "snaktype": "value"
         },
@@ -390,6 +447,23 @@
           },
           "hash": "5eae56cf0227d868d739c037272277b7dca63724",
           "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q166205$A4EFB39F-4FA1-5B95-519F-046665E131EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000041261225338"
+          },
+          "hash": "ecc66e2f5931afcc4d744492d0fb3a67612d58f2",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

@@ -5154,3 +5154,11 @@ where files disagree. Extract and invariants are being regenerated after the mer
 - The standing rule (classify a two-father record only when it is in front of you; no sweep over the
   998) and the DEDUPE-batch backlog moved to `todo.md`. What stays in the queue is the Severan
   subtree, with the Wikidata finding that unblocks it.
+
+## 2026-10-10 — the Severan subtree merged (item 13, all but Zenobius)
+
+`cut_edges.py severan-piso` removed Julius Piso III `Q166158` as father of the Mamaea copy `Q166205`
+(Wikidata Q235090 gives her father as Julius Avitus = dump `Q151864`). `merge_cluster.py severan`
+then merged Mamaea `Q166205` into `Q4681`, Gessius Bassianus `Q166249` into `Q151866` and Theoclia
+`Q166250` into `Q151865`. Simulated on `edges.tsv` copies first with `compare_depth.py`: 0 records
+lose depth. I4 clean; 10 files repointed; nothing names the vacated qids. Zenobius stays open.
