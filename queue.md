@@ -377,13 +377,16 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-17b. **FOLLOW-UPS FROM THE FOUR CREATED RECORDS (2026-10-10).** (1) Cleopatra IV `Q78402` has two
-   mothers, Cleopatra II `Q73194` and Cleopatra III `Q73035`; her mother is Cleopatra III, so the
-   Cleopatra II edge is the one to check and cut. (2) Apollo's consort `Q131522` is labelled
-   "Margarethe von Oven" with wd Q92328, which looks like the same import collision as `Q130001`:
-   find who she is from her edges and strip the wrong identity. (3) The Q90xxx Zeus brought 8 children
-   and 7 consorts into `Q74656`; several are probably copies of main-block records (the same parallel
-   import). Dedupe them with `merge_cluster.py`, checking each.
+17b. **DEDUPE THE Q90xxx CHILDREN AND CONSORTS OF ZEUS (2026-10-10).** The parallel-import Zeus
+   brought 8 children and 7 consorts into `Q74656`; several are probably copies of main-block
+   records. Dedupe them with `merge_cluster.py`, checking each. (Cleopatra IV and the Muses were
+   done the same day.)
+
+17c. **FIND THE OTHER IMPORT-COLLIDED RECORDS (2026-10-10).** The 2026-04-15 Wikibase fill wrote
+   modern people's labels and ids over mythic records (`Q130001` and seven of Mnemosyne's family so
+   far). Detect the rest: a record whose parents or children are mythic or ancient while its
+   Wikidata id is a person born after 1500. Fix each with `fix_collided_identity.py`, identifying it
+   from its edges; label NN where the edges do not decide.
 
 ## AWAITING EMMA — reports written, decisions open
 

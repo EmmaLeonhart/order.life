@@ -1093,6 +1093,11 @@ CUTS = {
         ("Q123443", "Q104013", "the same Sancha as mother of Alfonso VI (b. 1040); his mother is "
                                "Sancha of Leon Q110976, also on his record"),
     ],
+    # queue.md item 17b (2026-10-10). Simulated: 0 records lose depth.
+    "cleopatra-iv": [
+        ("Q73194", "Q78402", "Cleopatra II as a second mother of Cleopatra IV (wd Q40023), daughter "
+                             "of Ptolemy VIII and Cleopatra III Q73035, who is also on her record"),
+    ],
     # queue.md item 16 (2026-10-10): the same 12th-century Sancha as mother of the three
     # daughters on the duplicate Ferdinand I record Q102901. She has no parents, so the cut
     # costs no depth. Run before `merge_cluster.py fernando-i`.

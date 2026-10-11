@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Urania"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -174,102 +167,30 @@
     ],
     "P61": [
       {
-        "id": "Q131522$36DA9DF5-A7F5-4A64-8055-1C504B5DDDED",
         "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q92328"
-          },
-          "hash": "45cf8e5c230ef12cf9f2a3907f21c9eb3f1ea83e",
+          "snaktype": "value",
           "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q131522$F791BBCD-E823-455D-BCDA-C1014B3EC606",
-        "mainsnak": {
-          "datatype": "commonsMedia",
           "datavalue": {
-            "type": "string",
-            "value": "Margarethe von Oven Arms.svg"
-          },
-          "hash": "6400db9ed24aeaf4c22b3e95bb646efb5ca9b0f2",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q104002",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "arz": {
-      "language": "arz",
-      "value": "مقاومه من المانيا"
-    },
-    "de": {
-      "language": "de",
-      "value": "deutsche Widerstandskämpferin"
-    },
     "en": {
       "language": "en",
-      "value": "German secretary at the Bendlerblock during time of Valkyrie coup attempt (1904–1991)"
+      "value": "Muse of astronomy, daughter of Zeus and Mnemosyne, mother of Linus by Apollo (identity restored 2026-10-10: an import had written Margarethe von Oven's over it)"
     }
   },
   "id": "Q131522",
   "labels": {
-    "arz": {
-      "language": "arz",
-      "value": "مارجريت فون فرن"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "Margarethe von Oven"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Margarethe von Oven"
-    },
-    "de": {
-      "language": "de",
-      "value": "Margarethe von Oven"
-    },
     "en": {
       "language": "en",
-      "value": "Margarethe von Oven"
-    },
-    "es": {
-      "language": "es",
-      "value": "Margarethe von Oven"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Margarethe von Oven"
-    },
-    "ja": {
-      "language": "ja",
-      "value": "マルガレーテ・フォン・オーヴェン"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Margarethe von Oven"
-    },
-    "oc": {
-      "language": "oc",
-      "value": "Margarethe von Oven"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Margarethe von Oven"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Margarethe von Oven"
+      "value": "Urania"
     }
   },
   "lastrevid": 17544412,

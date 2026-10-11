@@ -5273,3 +5273,16 @@ Ptolemy IX and Antiochus IX). `create_gap_records.py` wrote each with label, Wik
 the family claims its neighbours already declare (graph-neutral). Then `merge_cluster.py zeus` merged
 the Q90xxx parallel-import Zeus `Q90359` into `Q74656` (I4 clean, 42 files repointed). Follow-ups
 queued as 17b.
+
+## 2026-10-10 — item 17b, first two: Cleopatra IV's mother; Mnemosyne and the Muses restored
+
+- `cut_edges.py cleopatra-iv`: Cleopatra II removed as a second mother of Cleopatra IV, whose mother
+  Cleopatra III is on her record (simulated: 0 records lose depth).
+- Apollo's consort "Margarethe von Oven" was the first sign of a family of import collisions. Her
+  mother "Alexander Mronz" (`Q130458`) is Mnemosyne (daughter of Uranus and Gaia, consort of Zeus,
+  mother of Calliope, Erato, Polyhymnia), and she is Urania (Wikidata: Linus, "son of Apollo and
+  Urania"). `fix_collided_identity.py` (new; generalises the Q130001 fix) restored both, with their
+  Wikidata ids (Q102884, Q104002). Five more of Mnemosyne's daughters carried modern German
+  identities (Birlenbach, Speer, Schomburg, Fugger, Gaspari); their edges do not say which Muse each
+  is (two are mothers of Sirens by Achelous, which the sources give to Melpomene or Terpsichore), so
+  they were stripped and labelled by the dump's NN convention, not guessed. Family claims untouched.

@@ -1,30 +1,6 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Mnemosyne"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
-    "P1185": [
-      {
-        "id": "Q130458$6967A131-5F3A-4C3E-BA13-A298F0AFB39D",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "114445"
-          },
-          "hash": "03647685a52cdf5ff6f1a1497a58897b8e8532bb",
-          "property": "P1185",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P20": [
       {
         "id": "Q130458$41636C29-D1FE-4533-96FD-358FC8B60D33",
@@ -381,234 +357,30 @@
     ],
     "P61": [
       {
-        "id": "Q130458$911BBCA1-DD0A-4FB3-BDB1-DCA4A7859317",
         "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q91204"
-          },
-          "hash": "804d8f23b10fcdf88018ba1568c13f03d3833813",
+          "snaktype": "value",
           "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q130458$BDD6D2CA-A4D3-46C5-B20F-9B40EDC20D78",
-        "mainsnak": {
-          "datatype": "commonsMedia",
           "datavalue": {
-            "type": "string",
-            "value": "Alexander Mronz Arms.svg"
-          },
-          "hash": "c8cddad80a2d1d9a385d0387ec0f501850ab262b",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q102884",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "ar": {
-      "language": "ar",
-      "value": "لاعب كرة مضرب ألماني"
-    },
-    "arz": {
-      "language": "arz",
-      "value": "لاعب تنس من المانيا"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "tenista alemán"
-    },
-    "bn": {
-      "language": "bn",
-      "value": "জার্মান টেনিস খেলোয়াড়"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "tennista professional alemany"
-    },
-    "de": {
-      "language": "de",
-      "value": "deutscher Tennisspieler"
-    },
     "en": {
       "language": "en",
-      "value": "German tennis player"
-    },
-    "en-ca": {
-      "language": "en-ca",
-      "value": "German tennis player"
-    },
-    "en-gb": {
-      "language": "en-gb",
-      "value": "German tennis player"
-    },
-    "eo": {
-      "language": "eo",
-      "value": "germana vira tenisisto"
-    },
-    "es": {
-      "language": "es",
-      "value": "tenista profesional alemán"
-    },
-    "et": {
-      "language": "et",
-      "value": "Saksamaa tennisist"
-    },
-    "eu": {
-      "language": "eu",
-      "value": "tenislari alemaniarra"
-    },
-    "fa": {
-      "language": "fa",
-      "value": "بازیکن تنیس آلمانی"
-    },
-    "fi": {
-      "language": "fi",
-      "value": "saksalainen tennispelaaja"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "joueur de tennis allemand"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "imreoir leadóige Gearmánach"
-    },
-    "gl": {
-      "language": "gl",
-      "value": "tenista profesional alemán"
-    },
-    "he": {
-      "language": "he",
-      "value": "טניסאי גרמני"
-    },
-    "it": {
-      "language": "it",
-      "value": "tennista tedesco"
-    },
-    "lt": {
-      "language": "lt",
-      "value": "vokiečių tenisininkas"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Duits tennisser"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "tenista alemão"
-    },
-    "ro": {
-      "language": "ro",
-      "value": "jucător de tenis german"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "lojtar tenisi gjerman"
-    },
-    "uk": {
-      "language": "uk",
-      "value": "німецький тенісист"
+      "value": "personification of memory in Greek mythology, daughter of Uranus and Gaia, mother of the nine Muses by Zeus (identity restored 2026-10-10: an import had written a tennis player's over it)"
     }
   },
   "id": "Q130458",
   "labels": {
-    "ar": {
-      "language": "ar",
-      "value": "ألكسندر مرونز"
-    },
-    "arz": {
-      "language": "arz",
-      "value": "الكسندر مرونز"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "Alexander Mronz"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Alexander Mronz"
-    },
-    "da": {
-      "language": "da",
-      "value": "Alexander Mronz"
-    },
-    "de": {
-      "language": "de",
-      "value": "Alexander Mronz"
-    },
     "en": {
       "language": "en",
-      "value": "Alexander Mronz"
-    },
-    "eo": {
-      "language": "eo",
-      "value": "Alexander Mronz"
-    },
-    "es": {
-      "language": "es",
-      "value": "Alexander Mronz"
-    },
-    "fa": {
-      "language": "fa",
-      "value": "الکساندر مرونز"
-    },
-    "fi": {
-      "language": "fi",
-      "value": "Alexander Mronz"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Alexander Mronz"
-    },
-    "it": {
-      "language": "it",
-      "value": "Alexander Mronz"
-    },
-    "ja": {
-      "language": "ja",
-      "value": "アレクサンダー・ムロンツ"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Alexander Mronz"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Alexander Mronz"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "Alexander Mronz"
-    },
-    "oc": {
-      "language": "oc",
-      "value": "Alexander Mronz"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Alexander Mronz"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Alexander Mronz"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Alexander Mronz"
-    },
-    "uk": {
-      "language": "uk",
-      "value": "Александр Мронц"
+      "value": "Mnemosyne"
     }
   },
   "lastrevid": 17543385,
