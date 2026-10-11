@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hugues du Perche, Comte de Gatinais"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -15,6 +22,25 @@
             }
           },
           "hash": "50f0c54a766e1083f6a7375b7f6be5b91279fe55",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q205255$478560D4-DF74-AA30-9B77-9B9551C4C136",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q207927",
+              "numeric-id": 207927
+            }
+          },
+          "hash": "bc138c05149324b140deb67d783b4c0e43addb25",
           "property": "P20",
           "snaktype": "value"
         },
@@ -174,6 +200,23 @@
           },
           "hash": "46c1a75029b3c623b571791c744f1669f116ccde",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q205255$9D882C17-D620-8666-EEBA-EC58A8EDFE45",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000437100264"
+          },
+          "hash": "b150b04b769a058a7cce5346fa8671ee0d0ca7bb",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

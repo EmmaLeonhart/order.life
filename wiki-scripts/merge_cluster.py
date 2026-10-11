@@ -1075,6 +1075,14 @@ CLUSTERS = {
         ("Q76693", "Q99659", "Sergius Octavius Pontianus -- same parents and wife, name in another order"),
         ("Q88216", "Q90849", "Judith bat Zemah ben Paltoi -- same parents and husband"),
     ],
+    # DEDUPE by hand, set 3 (2026-10-11). Skipped: the N. de la Cavalleria pairs (generic), Onneca
+    # Fortunez, Alberade of Lorraine and Adelaide del Vasto (different parents), and the Puranic copies.
+    "dedupe-hand-3": [
+        ("Q89309", "Q91378", "Tomas Garcia de Santa Maria (Todroz Benveniste) -- same parent and wife"),
+        ("Q109559", "Q100447", "Garcia Sanchez I of Pamplona -- same parents, shared wife; Q109559 carries wd Q773815"),
+        ("Q114193", "Q205255", "Hugues du Perche -- the parentless copy has the same wife Beatrice de Macon; Q114193 carries wd Q3142767"),
+        ("Q116311", "Q206655", "Reginar I Longneck -- same parents; Q116311 carries wd Q206774"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),

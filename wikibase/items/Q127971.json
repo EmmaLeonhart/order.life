@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Reginar I Longneck de Lotharingia duc de Lorraine, comte de Hainault"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -96,6 +103,44 @@
         },
         "rank": "normal",
         "type": "statement"
+      },
+      {
+        "id": "Q206655$07EB398C-B29C-AE3C-9415-0E59D060B41D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q206141",
+              "numeric-id": 206141
+            }
+          },
+          "hash": "00212b0d441250b9c92fe3c7f680fa4f7396a0a0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q206655$0D306261-74BE-F29E-E68F-67AF2A6FAC05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q208600",
+              "numeric-id": 208600
+            }
+          },
+          "hash": "8082466bde5124448ee72337300e0aaf9f1d7aaf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
       }
     ],
     "P39": [
@@ -171,6 +216,44 @@
             }
           },
           "hash": "c200c93315e35eb8261e23b83377c9984022f4bf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q206655$C9BCAF25-9ECE-8AC4-7064-5324F5341219",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q206658",
+              "numeric-id": 206658
+            }
+          },
+          "hash": "941c8ed3a6a8167938af89488634268a5e35e17e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q206655$825A24AC-17F0-C1A7-757B-6C10E9FE9B4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q205634",
+              "numeric-id": 205634
+            }
+          },
+          "hash": "f05b8b8abda3727c154d7219d5bd5185264cea91",
           "property": "P42",
           "snaktype": "value"
         },

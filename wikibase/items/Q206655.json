@@ -1,7 +1,109 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Reginar I Longneck de Lotharingia duc de Lorraine, comte de Hainault"
+      }
+    ]
+  },
   "claims": {
     "P20": [
+      {
+        "id": "Q116311$8170524D-3D1C-435D-AFC9-E59B93AC2DA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113888",
+              "numeric-id": 113888
+            }
+          },
+          "hash": "b098aaead8711e67f5bfe9d0695027987540c756",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q116311$FC35054B-F57A-488F-A0AE-794AE9CC7E5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113962",
+              "numeric-id": 113962
+            }
+          },
+          "hash": "75a340461f007982bca80c1b1eef9b040763ac5e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q116311$12AACDD3-C4A8-492A-A92A-C147D2C551AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120073",
+              "numeric-id": 120073
+            }
+          },
+          "hash": "e909d56253f482b1121bb172a960a7d97c19ca81",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q116311$CA31EC23-316D-4727-8CD1-4156555B94AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116313",
+              "numeric-id": 116313
+            }
+          },
+          "hash": "ecf7bbc0dd8b41f0b053568c31ea013b3fba447f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q116311$C7B55D25-8EF3-4F07-B45C-551D25413617",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120075",
+              "numeric-id": 120075
+            }
+          },
+          "hash": "01d41feabe7b543bc1755ccae3a08cdab581c5a0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q206655$07EB398C-B29C-AE3C-9415-0E59D060B41D",
         "mainsnak": {
@@ -15,25 +117,6 @@
             }
           },
           "hash": "00212b0d441250b9c92fe3c7f680fa4f7396a0a0",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q206655$A9ACEDA1-AEC7-F558-9327-72204459A3EF",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q116313",
-              "numeric-id": 116313
-            }
-          },
-          "hash": "ecf7bbc0dd8b41f0b053568c31ea013b3fba447f",
           "property": "P20",
           "snaktype": "value"
         },
@@ -62,7 +145,7 @@
     ],
     "P39": [
       {
-        "id": "Q206655$09B5ED09-601D-4942-A5AB-C7B3E6F927BB",
+        "id": "Q116311$DC2FCE31-FE29-461E-B929-0BE8FA312384",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -81,7 +164,7 @@
         "type": "statement"
       },
       {
-        "id": "Q206655$6BDEE770-F65D-4E79-958C-9E9472243671",
+        "id": "Q116311$D0B88A82-694D-46EF-A443-69C3A4CE6ACD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -101,6 +184,44 @@
       }
     ],
     "P42": [
+      {
+        "id": "Q116311$92FC5784-14E3-42E9-A35A-871D3851018D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116503",
+              "numeric-id": 116503
+            }
+          },
+          "hash": "6a972e4bca271702be59537ecf9cbe6e99e5e0c4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q116311$2154DD71-7676-4904-9BDB-950FA5B11B04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120077",
+              "numeric-id": 120077
+            }
+          },
+          "hash": "c200c93315e35eb8261e23b83377c9984022f4bf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q206655$C9BCAF25-9ECE-8AC4-7064-5324F5341219",
         "mainsnak": {
@@ -142,7 +263,7 @@
     ],
     "P47": [
       {
-        "id": "Q206655$9115DCE2-609F-8FF9-FE33-7A1C43577AD0",
+        "id": "Q116311$2D36CB7D-3B40-4351-99EB-B48D5C23333E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -163,7 +284,7 @@
     ],
     "P48": [
       {
-        "id": "Q206655$E099D989-79AC-7C44-1DE2-8B95A82C91DF",
+        "id": "Q116311$171AC8FB-1459-4C91-B15D-E57850B2BDC8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -184,7 +305,7 @@
     ],
     "P55": [
       {
-        "id": "Q206655$E5702DD6-AC72-AFEA-A789-8C753A0D5640",
+        "id": "Q116311$12F9B954-B21C-4510-9681-A5750B65C99E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -203,16 +324,33 @@
         "type": "statement"
       }
     ],
-    "P62": [
+    "P61": [
       {
-        "id": "Q206655$F7EAE19D-0A6C-DC4B-AE40-9758B4644D0E",
+        "id": "Q116311$18C9D4A0-7DCB-42D5-B388-E495181484DD",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
             "type": "string",
-            "value": "6000000005705768014"
+            "value": "Q206774"
           },
-          "hash": "8ecbd43aed3ed2c61297549bae3bc837d27882e0",
+          "hash": "708eae6459ad47f2f4186e512de67aa25d822455",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q116311$B81B18EC-37AE-4053-AD64-9840FA56A4CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007324231598"
+          },
+          "hash": "0ad58ac45d7db31b9a42ae58511bf936a686351b",
           "property": "P62",
           "snaktype": "value"
         },
@@ -222,14 +360,14 @@
     ],
     "P94": [
       {
-        "id": "Q206655$BBA87FF4-F18E-459E-A034-168E5A0C6F94",
+        "id": "Q116311$101124EA-42A7-41F4-AD58-AD3B36810B1E",
         "mainsnak": {
           "datatype": "commonsMedia",
           "datavalue": {
             "type": "string",
-            "value": "Reginar I Longneck de Lotharingia duc de Lorraine, comte de Hainault Arms.svg"
+            "value": "Reginar I Longneck Arms.svg"
           },
-          "hash": "b44422bea27297c8c8bb98d4ad0e9cbd2212d70a",
+          "hash": "7d4ade1f408d772a1a466915a4ee406ceae791b3",
           "property": "P94",
           "snaktype": "value"
         },
@@ -238,19 +376,152 @@
       }
     ]
   },
-  "descriptions": {},
-  "id": "Q206655",
-  "labels": {
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قسيس كاتوليك"
+    },
+    "be": {
+      "language": "be",
+      "value": "герцаг Латарынгіі"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Lotharingian fonheddig"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Hennegau und Maasgau"
+    },
     "en": {
       "language": "en",
-      "value": "Reginar I Longneck de Lotharingia duc de Lorraine, comte de Hainault"
+      "value": "Lotharingian noble"
+    },
+    "es": {
+      "language": "es",
+      "value": "Duque de Lotaringia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Comte de Hainaut"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hainaut grófja"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "герцог Лотарингии"
     }
   },
-  "lastrevid": 17609458,
-  "modified": "2025-09-17T23:50:11Z",
+  "id": "Q116311",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ريغنار الأول طويل العنق"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ريجنار الاول طويل العنق"
+    },
+    "be": {
+      "language": "be",
+      "value": "Рэнье I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Регинхар I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Renyer I d'Hainaut"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Reginar I. Henegavský"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Reginar I Longneck"
+    },
+    "de": {
+      "language": "de",
+      "value": "Reginhar"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρέγκιναρ Α΄ της Λωρραίνης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Reginar I Longneck"
+    },
+    "es": {
+      "language": "es",
+      "value": "Reginar I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Régnier Ier de Hainaut"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Reginár hainaut-i gróf"
+    },
+    "id": {
+      "language": "id",
+      "value": "Regnier"
+    },
+    "it": {
+      "language": "it",
+      "value": "Reginardo di Lotaringia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "レニエ1世 (エノー伯)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Régnier Ier de Hainaut"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Reinier I van Henegouwen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Reginaldo I de Langhals"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Reginaldo I de Langhals"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Reginar de Lorena"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ренье I"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Reginar I Longneck"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Регінар I (правитель Лотарингії)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃諾伯爵雷尼埃一世"
+    }
+  },
+  "lastrevid": 17528763,
+  "modified": "2025-09-17T05:12:22Z",
   "ns": 860,
-  "pageid": 217475,
+  "pageid": 139457,
   "sitelinks": {},
-  "title": "Item:Q206655",
+  "title": "Item:Q116311",
   "type": "item"
 }

@@ -1,5 +1,18 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tomas  Garcia de Santa Maria (Todroz Benveniste"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Tomás  García de Santa María (Todroz Benveniste"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -139,6 +152,23 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91378$CA098BAC-A3DD-4E53-937C-2AD8B9DA33FF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000042600344310"
+          },
+          "hash": "6a7c3a2f17581812b33ef6842f2b560fc0080c66",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

@@ -5478,3 +5478,13 @@ another order), Judith bat Zemah ben Paltoi (same parents and husband). Skipped:
 lines), Crassus Dives and the two Octavius Laenas (different parents), bat Abba / bat Shahanya /
 Aivu (different parents or spouses), "of Chao" / "of Tsai" / "of Eastern Chou" (generic), the
 al-Huqayq daughter (near Muhammad's household).
+
+## 2026-10-11 — DEDUPE by hand, set 3: four merged; the label-subset list is done
+
+Merged (`dedupe-hand-3`, 52 files repointed): Tomás García de Santa María (same parent and wife),
+García Sánchez I of Pamplona (same parents, shared wife), Hugues du Perche (the parentless copy has
+the same wife), Reginar I Longneck (same parents). Skipped: the N. de la Cavallería pairs (generic),
+Onneca Fortúnez, Alberade of Lorraine and Adelaide del Vasto (different parents), the Puranic copies.
+Across 2026-10-11 the backlog work merged 53 duplicates in nine sets. What is left (pairs with
+differently written names, different parents, or in the lines held for Emma) needs research per
+person and stays in `todo.md`.
