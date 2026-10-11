@@ -19,6 +19,7 @@ COLLAPSE	father	Q33552	Pedro  Ramirez de Arellano y Zuniga	Q32146	Francisco  Ram
 COLLAPSE	father	Q33556	Gaspar  Ramirez de Arellano y Zuniga	Q32146	Francisco  Ramirez de Arellano y Zuniga	Q92386	Francisco  Ramirez de Arellano y Zuniga			real	real	Q31110,Q92384	
 COLLAPSE	mother	Q40310	Maria  Ruiz de Esparza y Lopez de Elizalde	Q40306	Maria Angelina  Lopez de Elizalde y Becerra	Q40378	Juana Maria  Lopez De Elizalde			real	real		
 COLLAPSE	mother	Q49500	Sihahanu	Q49496	Kacchana	Q49557	N.N.			real	real		
+COLLAPSE	mother	Q51822	Ptolemy XII Auletes	Q73035	Cleopatra III of Egypt	Q78402	Cleopatra IV	Q40003	Q40023	real	real		Q73038,Q78713
 COLLAPSE	father	Q52320		Q2327	Dileepa Deerghabahu	Q28376	Solar Dynasty			real	real		
 COLLAPSE	father	Q52320		Q2327	Dileepa Deerghabahu	Q30011	BHAGIRATHA  son of Dilipa			real	real		
 COLLAPSE	father	Q65585	Julius	Q66991	Gaius Julius Longinus Soaemus of Emesa	Q67024	Gaius Julius Sampsigeramus		Q5517443	real	real		
@@ -50,7 +51,8 @@ COLLAPSE	father	Q75348	Tithonus	Q74656	Zeus	Q132332		Q34201	Q332324	real	real
 COLLAPSE	father	Q75360	Inachus	Q74973	Danaus	Q90309	Oceanus	Q210883	Q161419	real	real	Q74701	Q74701,Q74970,Q129993,Q130562,Q130996
 COLLAPSE	father	Q76625	Gaius Neratius	Q77083	Gaius Betitius	Q99665	Gaius Betitius Pietas			real	real		
 COLLAPSE	father	Q77257	Julia	Q77485	Tiberius Julius Lupus	Q77722	Tiberius Julius Lupus	Q11729324	Q30069228	real	real		
-COLLAPSE	mother	Q78713	Ptolemy IX Lathyros	Q73035	Cleopatra III of Egypt	Q78402	Cleopatra IV	Q40003	Q40023	real	real		Q73038
+COLLAPSE	mother	Q78713	Ptolemy IX Lathyros	Q73035	Cleopatra III of Egypt	Q78402	Cleopatra IV	Q40003	Q40023	real	real		Q73038,Q78713
+COLLAPSE	mother	Q78716	Cleopatra Selene I of Egypt	Q73035	Cleopatra III of Egypt	Q78402	Cleopatra IV	Q40003	Q40023	real	real		Q73038,Q78713
 COLLAPSE	father	Q86089	Itakayt .	Q86065	Kheperkare Senusret I	Q86147	Khakheperre Senusret II		Q18722	real	real		
 COLLAPSE	mother	Q86089	Itakayt .	Q85640	Nefrusheri	Q86159	Itaweret Itaurt of  Egypt			real	real		
 COLLAPSE	father	Q87229	Tingtosh Chu  Tsu	Q87241	Liu of the Southern av Hiung  Xiongnu	Q87243	(Hou Yeh) Shih Chu Hou Ti Chu Hou  Ti			real	real		
@@ -1099,7 +1101,6 @@ DEDUPE	father	Q72654	Marcus Terentius-Varro Lucullus	Q72825	Lucius  Licinius-Luc
 DEDUPE	father	Q72675	Decimus Junius Silanus Manlianus	Q72849	Titus Manlius  Torquatus	Q151527	Decimus Iunius Silanus		Q1215347	real	real		
 DEDUPE	father	Q72798	Marcus Livius Drusus	Q72951	Gaius Livius Drusus	Q73431	Marcus Livius Drusus	Q1270114		real	real		Q72954
 DEDUPE	father	Q72801	Cornelia	Q72957	Consul (138 BC) - Publius Cornelius Scipio Nasica Serapio	Q73017	Pacuvius Calavius			real	real		
-DEDUPE	mother	Q72888	Tryphaena	Q73035	Cleopatra III of Egypt	Q78719	Cleopatra III of Egypt	Q40003	Q40003	real	real	Q73194,Q73197	Q73038,Q73197
 DEDUPE	father	Q72915	Marcus Claudius Marcellus	Q73065	Gaius Claudius Marcus  Marcellus	Q141470	Marcus Claudius Marcellus		Q521485	real	real		
 DEDUPE	father	Q72933	Marcus Licinius Crassus	Q72657	Publius Licinius Crassus Dives	Q73083	Publius Licinius Crassus Dives (consul 97 BC)	Q656527		real	real		Q73098
 DEDUPE	father	Q73002	Salonia	Q73164	Salonius	Q151389	Salonius		Q94102336	real	real		
@@ -1134,15 +1135,11 @@ DEDUPE	mother	Q74680	Saturn	Q74701	Terra	Q131440		Q93172		real	real	Q130392,Q131
 DEDUPE	mother	Q74701	Terra	Q74720	Nyx	Q130498		Q131203		real	real	Q74717,Q130496	Q74698,Q74717,Q130392,Q130590,Q131556
 DEDUPE	mother	Q74717	Erebos	Q130496	Ananke	Q131428		Q4286521		real	real	Q132730	Q131426
 DEDUPE	father	Q74804	Latinus Silvius	Q74813	Aeneas Silvius	Q134044	Aeneas Silvius		Q380923	real	real		
-DEDUPE	father	Q74846	Anchises	Q74864	Capys	Q90508	Capys			real	real	Q74879,Q74882	
-DEDUPE	mother	Q74846	Anchises	Q74867	Themiste  Queen of Dardania	Q90436	Themiste  Queen of Dardania			real	real	Q74885,Q74888	
 DEDUPE	father	Q75072	Alcidice	Q75096	Aleus	Q90566	Aleus	Q1536527		real	real		
 DEDUPE	mother	Q75072	Alcidice	Q75099	Neaera	Q90598	Neaera			real	real		
 DEDUPE	father	Q75093	Caribanthus	Q75129	Jesius	Q90592				real	real		
-DEDUPE	father	Q75153	Deucalion	Q75195	Prometheus	Q90388	Prometheus	Q83160		real	real	Q75054,Q75225,Q90317	Q75192,Q90476,Q130710,Q132044,Q132045
 DEDUPE	father	Q75192	Klymene	Q74973	Danaus	Q132255		Q210883		real	real	Q90576,Q131024	Q131028,Q133462,Q133463,Q133464,Q133465,Q133466,Q133467,Q133468,Q133469,Q133470
 DEDUPE	mother	Q75195	Prometheus	Q75054	Themis	Q90317	Clymene Asia	Q159168		real	real	Q74698,Q74701,Q74970	Q75225
-DEDUPE	father	Q75336	Phoroneus	Q75360	Inachus	Q90325	Inachus	Q735623		real	real	Q74970,Q74973,Q90309	Q75357
 DEDUPE	father	Q75441	Hermenegildo Gutiérrez	Q75447	Gutierre	Q99973	Guterre  Mendès de COÏMBRA	Q123479314		real	real		
 DEDUPE	mother	Q75441	Hermenegildo Gutiérrez	Q75450	Elvira	Q99975	Elvira  Anzures			real	real		
 DEDUPE	father	Q75495	Maria  de Rome	Q75501	Flavius Anicius Petronius Maximus	Q99627	Petronius Maximus		Q191940	real	real	Q75513	Q75498
@@ -1167,7 +1164,6 @@ DEDUPE	father	Q78603	Archelaus	Q74228	Perdiccas II of Macedon	Q78710	Archelaus	Q
 DEDUPE	mother	Q78609	Cleopatra V of Egypt	Q78716	Cleopatra Selene I of Egypt	Q136155	Berenice III		Q231688	real	real		
 DEDUPE	father	Q78691	King of Pergamon II - Eumenes I (263241 BC)	Q78764	Eumenes of Pergamon	Q78770	Philetaerus		Q312452	real	real	Q78824,Q78827	
 DEDUPE	father	Q78704	John Hyrcanus	Q78776	Simon Thassi	Q151286		Q359711		real	real	Q78836	
-DEDUPE	mother	Q78713	Ptolemy IX Lathyros	Q73035	Cleopatra III of Egypt	Q78719	Cleopatra III of Egypt	Q40003	Q40003	real	real	Q73194,Q73197	Q73038,Q73197
 DEDUPE	father	Q78770	Philetaerus	Q78824	Attalus of Pergamon	Q136454	Attalus		Q109485735	real	real		
 DEDUPE	mother	Q78770	Philetaerus	Q78827	Boa of Pergamon	Q136455	Boa		Q29166980	real	real		
 DEDUPE	mother	Q79114	Epiphania	Q99508	Lucia	Q113001	NN		Q116471675	real	real		
@@ -1197,7 +1193,6 @@ DEDUPE	father	Q86836	Hazrat Syed Imam Muhammad Baqer RH son of  Imam Zainal Abid
 DEDUPE	father	Q87283		Q87295		Q87300				real	real		
 DEDUPE	mother	Q87283		Q87298	Wang	Q87302	隴西上邽			real	real		
 DEDUPE	father	Q87322	劉	Q87314	Che  Liu	Q87344				real	real	Q87330	
-DEDUPE	mother	Q87340	Elchishye Bektur	Q60233	Zhong Nu	Q87364	Zhong Nu			real	real	Q87380	
 DEDUPE	mother	Q87428		Q58889	of Chao	Q87434	of Chao			real	real		Q87436
 DEDUPE	mother	Q87448	Cheng Kung  of Yan	Q58290	of Tsai	Q87454	of Tsai			real	real	Q87460	
 DEDUPE	father	Q87450		Q58856	贏	Q87456	贏			real	real		
@@ -1292,7 +1287,6 @@ DEDUPE	father	Q100427	García Fernández of Castile	Q100421	Fernan	Q109784	Fern�
 DEDUPE	mother	Q100427	García Fernández of Castile	Q100084	Sancha  Sanchez de Pamplona, reina consorte de Leon	Q109563	Sancha Sánchez of Pamplona		Q2554235	real	real	Q100441,Q100443	Q99907
 DEDUPE	father	Q100435	Urraca Fernández	Q100421	Fernan	Q109784	Fernán González of Castile		Q443034	real	real	Q100483	
 DEDUPE	mother	Q100435	Urraca Fernández	Q100084	Sancha  Sanchez de Pamplona, reina consorte de Leon	Q109563	Sancha Sánchez of Pamplona		Q2554235	real	real	Q100441,Q100443	Q99907
-DEDUPE	father	Q100441	Sancho I of Pamplona	Q100978	Garcia  Jimenez	Q109760	García Jiménez of Pamplona		Q2275620	real	real		Q100976
 DEDUPE	father	Q100443	Toda of Pamplona	Q100364	Aznar  Sanchez de Larraun	Q109437	Aznar Sánchez de Larraún		Q2875189	real	real		
 DEDUPE	mother	Q100443	Toda of Pamplona	Q100352	Onneca o Iniga  Fortunez de Pamplona	Q109355	Onneca Fortúnez		Q3754184	real	real		Q100758
 DEDUPE	father	Q100483	Gonzalo Fernández of Castile	Q100481	Fernando  Munoz de Castrojeriz "El Negro"	Q110520	Fernando González 'the Black' of Castrosiero		Q110302249	real	real		
@@ -1300,13 +1294,10 @@ DEDUPE	mother	Q100483	Gonzalo Fernández of Castile	Q100120	Gutina  de Castilla	
 DEDUPE	father	Q100912	Ava of Ribagorza	Q101591	Raimundo II  de Rivagorza	Q110422	Ramon II of Ribagorza		Q4389784	real	real		
 DEDUPE	mother	Q100912	Ava of Ribagorza	Q102778	Garsenda  de Fezensac	Q110530	Garsende of Fesensac		Q21155040	real	real		
 DEDUPE	father	Q100948	Sancho II of Pamplona	Q100447	Garcia I  Sanchez	Q109559	García Sánchez I of Pamplona		Q773815	real	real	Q100441,Q100443	
-DEDUPE	mother	Q100948	Sancho II of Pamplona	Q100828	Andregoto  Galindez	Q109770	Andregoto Galíndez		Q1119208	real	real	Q100374	
 DEDUPE	father	Q100976	Dadildis of Pallars	Q110054	Loup Donat	Q113415	Lupo  de Bigorra, IV Count of Bigorre	Q4269614		real	real		
 DEDUPE	mother	Q100976	Dadildis of Pallars	Q110056	Faquilena de Roergue	Q113417	Faquilene  de Toulouse (de Rouergue)	Q27974984		real	real		
 DEDUPE	father	Q101021	Fernan	Q100467	NN  Duque de Estrada	Q113501	Sancho  Bermudez			real	real		
 DEDUPE	father	Q101361	Alfonso V of León	Q100661	Dordia Osorez	Q110116	Bermudo II of León		Q342520	real	real	Q100435	Q100926
-DEDUPE	father	Q101722	Urraca Garces	Q100950	Garcia  Sanchez II "El Tremulo"	Q110074	García Sánchez II of Pamplona		Q358396	real	real	Q100435,Q100948	
-DEDUPE	mother	Q101722	Urraca Garces	Q101718	Jimena  Fernandez de Leon	Q110482	Jimena Fernández		Q3807743	real	real	Q114318	
 DEDUPE	mother	Q102377	Maria Pais de Ribeira	Q114038	Urraca  Nunez de Braganza	Q125096	Urraca Nunes I de Bragança		Q110523401	real	real		
 DEDUPE	father	Q102603	Pedro Froilaz de Traba	Q104027	Bermudez	Q125050	Froila Vermúdez de Traba		Q3394919	real	real		
 DEDUPE	mother	Q102603	Pedro Froilaz de Traba	Q103963	Dna. Elvira  de Faro	Q125052	Elvira Mendez de Faro		Q59348896	real	real		
@@ -1316,7 +1307,6 @@ DEDUPE	mother	Q102913	Ramon Berenguer I, Count of Barcelona	Q101679	Sancha de Ca
 DEDUPE	mother	Q102941	Ramiro I of Aragon	Q102939	Sancha  de Aybar	Q111547	Sancha of Aibar		Q56235827	real	real		Q143499
 DEDUPE	father	Q103077	Urraca  Flores	Q105065	N  N	Q105067	Froyla  Pelaez			real	real		
 DEDUPE	mother	Q103252	Soeiro  Bufinho	Q103254	Gontinha  Nunes Velho	Q118555	Maria  Soares			real	real		Q101944
-DEDUPE	mother	Q104087	Sancho I of Portugal	Q106750	Maud of Savoy	Q118403	Maud of Savoy		Q234234	real	real	Q115988,Q118269	Q104129
 DEDUPE	mother	Q104135	Theresa of León	Q111675	Jimena Muñoz (León)	Q114176	Jimena  Fernandez de Castro	Q8196664		real	real		Q104013
 DEDUPE	father	Q104137	Henry of Burgundy	Q106776		Q118429	Henry of Burgundy		Q2351549	real	real	Q112695,Q114530	Q111733
 DEDUPE	mother	Q104137	Henry of Burgundy	Q106778	Sibila	Q111733	Sybilla of Barcelona		Q3960015	real	real		Q106776
@@ -1327,8 +1317,6 @@ DEDUPE	mother	Q106609	Sancho Alfonsez	Q106607	Zaida Isabel	Q112422	Zaida of Sevi
 DEDUPE	mother	Q106782	Robert of Burgundy, bishop of Langres	Q106778	Sibila	Q111733	Sybilla of Barcelona		Q3960015	real	real		Q106776
 DEDUPE	father	Q106950	Manrique Perez de Lara	Q104767	Pedro "Queen's Lover"  Gonzalez de Lara	Q112885	Pedro González de Lara		Q3014411	real	real		
 DEDUPE	mother	Q106950	Manrique Perez de Lara	Q104246	Eva  Perez de Traba	Q112382	Ava of Rochechouart		Q99838632	real	real		
-DEDUPE	father	Q107026	Alphonse Jourdain	Q107024	Raymond  de TOULOUSE	Q112446	Raymond IV, Count of Toulouse		Q299612	real	real		
-DEDUPE	mother	Q107026	Alphonse Jourdain	Q104282	Elvira  Alfonso de Castilla y Leon	Q112428	Elvira of Castile		Q1185160	real	real	Q104013	
 DEDUPE	father	Q107158	Ermengol VI, Count of Urgell	Q107214	Ermengol V 'el de Mollerussa'  d'Urgell	Q114802	Ermengol V, Count of Urgell		Q2862206	real	real		
 DEDUPE	mother	Q107158	Ermengol VI, Count of Urgell	Q104427	Maria  Perez de Valladolid	Q115822	María Pérez		Q6004470	real	real		
 DEDUPE	father	Q108692	Al-Qasim ibn an-Nafs az-Zakiyyah	Q94559	Muhammad al-Nafs al-Zakiyya Al-Hasani	Q108512		Q533216		real	real		
@@ -1337,7 +1325,6 @@ DEDUPE	mother	Q108942	Muhammad al-Jawad	Q95882	Sabikah  Al-Nubi	Q108940	Sabīkah
 DEDUPE	father	Q109832	Anastasius	Q60030	Flavius Probus	Q110168	Sabinianus		Q977653	real	real		
 DEDUPE	father	Q110072	Ramiro III of León	Q100340	Sancho I "El Craso"  de Leon	Q109766	Sancho I of León		Q279554	real	real	Q143493	
 DEDUPE	mother	Q110072	Ramiro III of León	Q100738	Teresa  Ansurez	Q110070	Velasquita Ramírez		Q943730	real	real		
-DEDUPE	mother	Q110508	Jimena of León	Q101722	Urraca Garces	Q113385	Urraca Garcés		Q2620695	real	real	Q110074,Q110482	Q101361
 DEDUPE	father	Q110510	Odo of Gascony	Q107090	Guillaume, V duc d'Aquitaine & III comte de Poitou	Q118743	William V, Duke of Aquitaine		Q382339	real	real	Q110982,Q110984	Q110096,Q110986,Q110988
 DEDUPE	father	Q110512	Adelais	Q107090	Guillaume, V duc d'Aquitaine & III comte de Poitou	Q118743	William V, Duke of Aquitaine		Q382339	real	real	Q110982,Q110984	Q110096,Q110986,Q110988
 DEDUPE	father	Q110984	Emma of Blois	Q111617	Theobald I, Count of Blois	Q206184	Thibaud II le Tricheur, comte de Blois	Q540472		real	real		
@@ -1377,7 +1364,6 @@ DEDUPE	father	Q112801	Hugh I, Duke of Burgundy	Q106776		Q118429	Henry of Burgund
 DEDUPE	father	Q112803	Odo I, Duke of Burgundy	Q106776		Q118429	Henry of Burgundy		Q2351549	real	real	Q112695,Q114530	Q111733
 DEDUPE	father	Q112805	Raynald I, abbot of Flavigny	Q106776		Q118429	Henry of Burgundy		Q2351549	real	real	Q112695,Q114530	Q111733
 DEDUPE	father	Q112807	Beatrice de Bourgogne	Q106776		Q118429	Henry of Burgundy		Q2351549	real	real	Q112695,Q114530	Q111733
-DEDUPE	mother	Q113235	Drogo of Champagne	Q112064	Plectrude	Q206906	Plectrude	Q463984		real	real		Q135895
 DEDUPE	father	Q113366	Maulana Ishaq	Q112196	Ibrahim Zaindin kubra samarqandi	Q171423	11 Maulana Ibrahim Al-Hadrami Azmatkhan	Q108732918		real	real		
 DEDUPE	mother	Q113464	Drogo	Q115564	Regina	Q205213	Regina	Q4995102		real	real		Q115039
 DEDUPE	father	Q113566	Boso of Provence	Q115645	Bivin of Gorze	Q205968	comte et abbe laic de Gorze	Q605836		real	real		
@@ -1392,10 +1378,6 @@ DEDUPE	mother	Q113626	Ermengarde of Tours	Q113622	Ava of Morvois	Q206694	Ava de 
 DEDUPE	father	Q113732	Adela of Roucy	Q113716	Hilduin IV of Montdidier	Q208745	Count of Reims I Ebles	Q3135626		real	real		
 DEDUPE	mother	Q113774	Callixtus II	Q113646	Stephanie of Burgundy	Q205352	av Burgund	Q2878505		real	real		Q112606
 DEDUPE	mother	Q113790	Raymond of Burgundy	Q113646	Stephanie of Burgundy	Q205352	av Burgund	Q2878505		real	real		Q112606
-DEDUPE	mother	Q113792	Sancha Raimúndez	Q106603	Urraca of Leon	Q118257	Urraca of León		Q128701	real	real	Q104013	Q112408,Q112885,Q113790
-DEDUPE	mother	Q113794	Alfonso VII of Castile	Q106603	Urraca of Leon	Q118257	Urraca of León		Q128701	real	real	Q104013	Q112408,Q112885,Q113790
-DEDUPE	mother	Q113796	Elvira Pérez de Lara	Q106603	Urraca of Leon	Q118257	Urraca of León		Q128701	real	real	Q104013	Q112408,Q112885,Q113790
-DEDUPE	mother	Q113798	Fernando Pérez de Lara	Q106603	Urraca of Leon	Q118257	Urraca of León		Q128701	real	real	Q104013	Q112408,Q112885,Q113790
 DEDUPE	mother	Q113800	Roger II of Sicily	Q116082	Adelaide del Vasto	Q205919	Adelaide del Vasto signora di Savona	Q51000		real	real		Q116080
 DEDUPE	father	Q113874	Otto I	Q116255	Liudolf, Duke of Saxony	Q205410	Liudolfo da Saxonia	Q437974		real	real		
 DEDUPE	mother	Q113874	Otto I	Q116257	Oda of Billung	Q205411	Oda	Q11993048		real	real		
@@ -1414,12 +1396,9 @@ DEDUPE	father	Q114020	Berengar II of Italy	Q116637	Adalbert I of Ivrea	Q205191	A
 DEDUPE	mother	Q114020	Berengar II of Italy	Q116639	Gisela of Friuli	Q206967	Gisla del Friuli	Q3769073		real	real		
 DEDUPE	mother	Q114028	Gerberga d'Ivrea	Q114022	Willa of Tuscany	Q206809	Willa di Toscana	Q2054995		real	real	Q115700	Q114020
 DEDUPE	mother	Q114035	Louis V of France	Q116315	Emma of Italy	Q205970	Czeski	Q261883		real	real	Q113912	Q113896
-DEDUPE	mother	Q114058	Gisela of France	Q116691	Frederuna	Q207475	Frederuna	Q272103		real	real		Q115496
 DEDUPE	mother	Q114103	Baldwin III, Count of Flanders	Q112540	Adele of Vermandois	Q206864	Aleidis van Vermandois	Q506720		real	real	Q112458,Q112538	Q114101
 DEDUPE	mother	Q114129	Conrad I of Burgundy	Q116355	Bertha of Swabia	Q205409	Berta	Q270395		real	real		Q115670
-DEDUPE	mother	Q114141	Theobald III	Q114139	Ermengarde d'Auvergne	Q205529	Ermengarde d'Auvergne	Q18223300		real	real		Q112562
-DEDUPE	father	Q114197	Geoffrey II, Count of Gâtinais	Q114193	Hugues du Perche	Q205255	Hugues du Perche, Comte de Gatinais	Q3142767		real	real		
-DEDUPE	mother	Q114197	Geoffrey II, Count of Gâtinais	Q112602	Béatrice de Mâcon	Q206731	Beatrice de Macon	Q2929506		real	real	Q111637	
+DEDUPE	father	Q114197	Geoffrey II, Count of Gâtinais	Q114193	Hugues du Perche	Q205255	Hugues du Perche, Comte de Gatinais	Q3142767		real	real		Q112602
 DEDUPE	mother	Q114211	Stephen I, Count of Burgundy	Q113646	Stephanie of Burgundy	Q205352	av Burgund	Q2878505		real	real		Q112606
 DEDUPE	mother	Q114215	Clementia of Burgundy	Q113646	Stephanie of Burgundy	Q205352	av Burgund	Q2878505		real	real		Q112606
 DEDUPE	father	Q114223	Robert Guiscard	Q116459	Tancred of Hauteville	Q205221	Tancredi d'Altavilla	Q26731		real	real		
@@ -1460,14 +1439,6 @@ DEDUPE	father	Q115988	Amadeus III, Count of Savoy	Q115984	Umberto II, Count of S
 DEDUPE	mother	Q115988	Amadeus III, Count of Savoy	Q113776	Gisela of Burgundy	Q205447	Gisela	Q623188		real	real	Q112606	
 DEDUPE	father	Q115990	Adelaide of Maurienne	Q115984	Umberto II, Count of Savoy	Q205169	Umberto II, conte di Savoia "il Rinforzato"	Q553289		real	real	Q114303	
 DEDUPE	mother	Q115990	Adelaide of Maurienne	Q113776	Gisela of Burgundy	Q205447	Gisela	Q623188		real	real	Q112606	
-DEDUPE	father	Q116000	Raymond V, Count of Toulouse	Q107026	Alphonse Jourdain	Q118679	Alphonse Jourdain		Q561182	real	real	Q112428,Q112446	Q115998
-DEDUPE	father	Q116002	Alphonse of Toulouse	Q107026	Alphonse Jourdain	Q118679	Alphonse Jourdain		Q561182	real	real	Q112428,Q112446	Q115998
-DEDUPE	father	Q116004	Faidiva of Toulouse	Q107026	Alphonse Jourdain	Q118679	Alphonse Jourdain		Q561182	real	real	Q112428,Q112446	Q115998
-DEDUPE	father	Q116006	Laurence of Toulouse	Q107026	Alphonse Jourdain	Q118679	Alphonse Jourdain		Q561182	real	real	Q112428,Q112446	Q115998
-DEDUPE	mother	Q116030	Urraca of Portugal	Q106750	Maud of Savoy	Q118403	Maud of Savoy		Q234234	real	real	Q115988,Q118269	Q104129
-DEDUPE	mother	Q116032	Theresa of Portugal	Q106750	Maud of Savoy	Q118403	Maud of Savoy		Q234234	real	real	Q115988,Q118269	Q104129
-DEDUPE	mother	Q116038	Mafalda of Portugal	Q106750	Maud of Savoy	Q118403	Maud of Savoy		Q234234	real	real	Q115988,Q118269	Q104129
-DEDUPE	mother	Q116040	Sancha of Portugal I	Q106750	Maud of Savoy	Q118403	Maud of Savoy		Q234234	real	real	Q115988,Q118269	Q104129
 DEDUPE	father	Q116080	Roger I of Sicily	Q116459	Tancred of Hauteville	Q205221	Tancredi d'Altavilla	Q26731		real	real		
 DEDUPE	mother	Q116080	Roger I of Sicily	Q113948	Fressenda of Hauteville	Q205224	Person Q205224	Q13563381		real	real		
 DEDUPE	mother	Q116243	Pippin	Q115652	Richilde of Provence	Q205540	Richilda	Q235776		real	real		Q115524
@@ -1497,8 +1468,6 @@ DEDUPE	father	Q116765	Ardolf I of Guînes	Q116763	Siegfried I of Guînes	Q205199
 DEDUPE	mother	Q116765	Ardolf I of Guînes	Q114109	Elstrude de Flandre	Q205116	Elstrude, gravin van Vlaanderen	Q75558721		real	real	Q114101	
 DEDUPE	mother	Q116805	Stephen	Q116801	Gersende of Maine	Q206652	Gersende du Maine	Q7365775		real	real		Q114141
 DEDUPE	mother	Q116879	Judith of Flanders, Countess of Northumbria	Q114201	Eleanor of Normandy	Q206121	Eleonora van Normandie	Q3173713		real	real	Q113932,Q114199	Q116589
-DEDUPE	mother	Q116891	William IV of Burgundy	Q116887	Beatrice of Lorraine	Q206650	Beatrice of Lorraine	Q22328248	Q22328248	real	real		Q114211
-DEDUPE	mother	Q116893	Marguerite de Bourgogne	Q116887	Beatrice of Lorraine	Q206650	Beatrice of Lorraine	Q22328248	Q22328248	real	real		Q114211
 DEDUPE	father	Q116903	Baldwin VII, Count of Flanders	Q116899	Robert II	Q205344	Robrecht II	Q333306		real	real	Q116613,Q120460	Q114215
 DEDUPE	father	Q117025	Gertrude of Brunswick	Q114273	Egbert I, Margrave of Meissen	Q206938	Eckbert I, margrave of Meissen	Q62523		real	real	Q112636	
 DEDUPE	mother	Q117025	Gertrude of Brunswick	Q117023	Immilla of Turin	Q206768	Person Q206768	Q16985749		real	real		
@@ -1510,7 +1479,6 @@ DEDUPE	mother	Q117337	Fulk FitzRoy	Q119553	Ansfride (?)	Q205487	Ansfride Widow o
 DEDUPE	father	Q117646	Albert III of Namur	Q120099	Albert II of Namur	Q205615	Albert II  comte de Namur	Q262528		real	real		
 DEDUPE	mother	Q117646	Albert III of Namur	Q120522	Regelindis of Lower-Lorraine	Q205616	Regilinde de Namur	Q2288787		real	real		
 DEDUPE	father	Q118220	Foy	Q115706	Hugh of Rouergue	Q205229	Hugues, comte de Rouergue	Q2506456		real	real		
-DEDUPE	father	Q118394	Constans	Q61367	Constantine the Great	Q62555	Constantine the Great		Q8413	real	real	Q61565,Q61664	Q61334
 DEDUPE	mother	Q118474	Gratian	Q123624	Marina Severa	Q166660	Marina Severa	Q1233341		real	real		Q73089
 DEDUPE	father	Q118743	William V, Duke of Aquitaine	Q110982	William IV, Duke of Aquitaine	Q205619	Guillaume V d'Aquitaine Fierbrace	Q708547		real	real		Q110984
 DEDUPE	father	Q118858	Nyi Ageng Ngerang III	Q118854	Sunan Kalijaga	Q162170	Person Q162170	Q4201251		real	real		
@@ -1522,10 +1490,9 @@ DEDUPE	father	Q119996	Hugh II, Count of Maine	Q116231	Hugh I, Count of Maine	Q20
 DEDUPE	father	Q120042	Louis the Child	Q120038	Arnulf of Carinthia	Q208193	Arnulf Arnoul ( Batard ) von Karnten	Q154936		real	real	Q118938	
 DEDUPE	mother	Q120042	Louis the Child	Q124165	Ota	Q205695	Oda	Q265436		real	real		
 DEDUPE	father	Q120052	Gerberga of Lorraine	Q116287	Godfrey, Count Palatine of Lotharingia	Q206379	Person Q206379	Q835242		real	real		
-DEDUPE	mother	Q120052	Gerberga of Lorraine	Q118910	Ermentrud des Francs	Q205368	Billung Im Padergau	Q76300819		real	real	Q115496	
+DEDUPE	mother	Q120052	Gerberga of Lorraine	Q118910	Ermentrud des Francs	Q205368	Billung Im Padergau	Q76300819		real	real	Q115496,Q116691	
 DEDUPE	father	Q120105	Cunigunde of Swabia	Q124044	Berchthold I of Swabia	Q205611	Berthold I, pfalzgraf in Schwaben	Q12273182		real	real		
 DEDUPE	mother	Q120105	Cunigunde of Swabia	Q118950	Gisela	Q206757	Gisela of Alsace	Q24039064		real	real	Q115520	
-DEDUPE	mother	Q120287	Richard of Salerno	Q120285	Maria di Sorrento	Q206929	Maria di Sorrento	Q21197903		real	real		Q116473
 DEDUPE	father	Q120402	Boniface III, Margrave of Tuscany	Q125945	Tedald of Canossa	Q205329	Tedaldo di Canossa margrave of Brescia, Modena, Ferrara, Reggio & Mantua	Q2055129		real	real		
 DEDUPE	mother	Q120402	Boniface III, Margrave of Tuscany	Q124149	Willa of Tuscany	Q207812	Willa III Hucpoldinga	Q60040644		real	real		
 DEDUPE	mother	Q120406	Matilda of Tuscany	Q116559	Beatrice of Lorraine	Q206722	Beatrice di Lotaringia	Q266635		real	real		Q120402,Q120404
@@ -1541,20 +1508,13 @@ DEDUPE	mother	Q121509	Henry the Lion	Q117221	Gertrude of Süpplingenburg	Q205296
 DEDUPE	father	Q121586	Manfred II of Saluzzo	Q126807	Manfred I, Marquess of Saluzzo	Q205436	Manfredo I del Vasto marchese di Saluzzo	Q368445		real	real		
 DEDUPE	father	Q121971	Adelaide of Mochental	Q117455	Diepold II, Margrave of Vohburg	Q205785	Diepold II von Vohburg Graf im bayerischen Nordgau	Q61812302		real	real		
 DEDUPE	mother	Q121971	Adelaide of Mochental	Q117457	Liutgard von Zähringen	Q206578	Luitgard von Karnten	Q1866153		real	real		
-DEDUPE	father	Q122303	Thierry of Lorraine, Count of Flanders	Q117600	Theodoric II	Q205966	Diederik II, hertog van Lotharingen	Q700593		real	real		
+DEDUPE	father	Q122303	Thierry of Lorraine, Count of Flanders	Q117600	Theodoric II	Q205966	Diederik II, hertog van Lotharingen	Q700593		real	real	Q114453	
 DEDUPE	mother	Q122303	Thierry of Lorraine, Count of Flanders	Q120462	Gertrude of Flanders	Q207467	Gertrudis, gravin van Leuven	Q3104402		real	real	Q116613,Q120460	
 DEDUPE	father	Q123355	Guaimar III of Salerno	Q143444	John II of Salerno	Q205389	Giovanni II "Maledictus" principe di Salerno	Q2518611		real	real		
 DEDUPE	father	Q123357	Gaitelgrima di Benevento	Q143446	Pandulf II of Benevento	Q205110	Pandolfo II-III "il Vecchio" principe di Benevento e Capua	Q2986986		real	real		
 DEDUPE	father	Q123379	Ingegerd Knutsdotter of Denmark	Q123257	Canute IV of Denmark	Q206831	Knut IV Svendsen  kung av Danmark	Q212284		real	real		Q118212
-DEDUPE	father	Q123556	Constantina	Q61367	Constantine the Great	Q62555	Constantine the Great		Q8413	real	real	Q61565,Q61664	Q61334
-DEDUPE	father	Q123558	Helena	Q61367	Constantine the Great	Q62555	Constantine the Great		Q8413	real	real	Q61565,Q61664	Q61334
-DEDUPE	father	Q123560	Constantius II	Q61367	Constantine the Great	Q62555	Constantine the Great		Q8413	real	real	Q61565,Q61664	Q61334
-DEDUPE	father	Q123562	Constantine II	Q61367	Constantine the Great	Q62555	Constantine the Great		Q8413	real	real	Q61565,Q61664	Q61334
-DEDUPE	father	Q123564	Crispus	Q61367	Constantine the Great	Q62555	Constantine the Great		Q8413	real	real	Q61565,Q61664	Q61334
 DEDUPE	mother	Q123632	Constantia	Q61041	Fausta	Q136835	Faustina		Q63533	real	real		Q123560
 DEDUPE	father	Q124163	Vertha of Provence	Q119085	Hugh of Italy	Q206702	Hugues I d'Arles, King of Italy, Regent of Lower Burgundy	Q378763		real	real		
-DEDUPE	father	Q125138	João Afonso Telo de Meneses	Q106710	Alfonso Tellez I de Meneses	Q118363	Alfonso Téllez I de Meneses		Q521492	real	real		Q119720
-DEDUPE	father	Q125140	Afonso Telo de Meneses	Q106710	Alfonso Tellez I de Meneses	Q118363	Alfonso Téllez I de Meneses		Q521492	real	real		Q119720
 DEDUPE	father	Q126047	Adelaide of Leuven	Q120862	Henry III, Count of Louvain	Q206526	Hendrik III van Leuven en Brussel	Q967088		real	real		
 DEDUPE	mother	Q126047	Adelaide of Leuven	Q120462	Gertrude of Flanders	Q207467	Gertrudis, gravin van Leuven	Q3104402		real	real	Q116613,Q120460	
 DEDUPE	father	Q126305	Obizzo I d’Este	Q120728	Fulco I, Margrave of Milan	Q206648	/Fulco I of /Este-Milan/fulk/	Q530743		real	real		
@@ -1590,7 +1550,6 @@ DEDUPE	mother	Q130632	Thallo	Q75054	Themis	Q90317	Clymene Asia	Q159168		real	rea
 DEDUPE	mother	Q130634	Arctus	Q75054	Themis	Q90317	Clymene Asia	Q159168		real	real	Q74698,Q74701,Q74970	Q75225
 DEDUPE	mother	Q130636	Carpo	Q75054	Themis	Q90317	Clymene Asia	Q159168		real	real	Q74698,Q74701,Q74970	Q75225
 DEDUPE	mother	Q130638	Acme	Q75054	Themis	Q90317	Clymene Asia	Q159168		real	real	Q74698,Q74701,Q74970	Q75225
-DEDUPE	father	Q130648	Hellen	Q75153	Deucalion	Q90478	Deucalion	Q207715	Q207715	real	real	Q90388,Q90476	Q132042
 DEDUPE	mother	Q131430	Dies	Q74720	Nyx	Q130498		Q131203		real	real	Q74717,Q130496	Q74698,Q74717,Q130392,Q130590,Q131556
 DEDUPE	mother	Q131552	Charon	Q74720	Nyx	Q130498		Q131203		real	real	Q74717,Q130496	Q74698,Q74717,Q130392,Q130590,Q131556
 DEDUPE	mother	Q131554	Eris	Q74720	Nyx	Q130498		Q131203		real	real	Q74717,Q130496	Q74698,Q74717,Q130392,Q130590,Q131556
@@ -1615,18 +1574,6 @@ DEDUPE	mother	Q131592	Epaphus	Q74720	Nyx	Q130498		Q131203		real	real	Q74717,Q130
 DEDUPE	mother	Q131594	Euphrosyne	Q74720	Nyx	Q130498		Q131203		real	real	Q74717,Q130496	Q74698,Q74717,Q130392,Q130590,Q131556
 DEDUPE	mother	Q131596	Hesperis	Q74720	Nyx	Q130498		Q131203		real	real	Q74717,Q130496	Q74698,Q74717,Q130392,Q130590,Q131556
 DEDUPE	mother	Q132030	Vesta	Q74677	Ops	Q132029		Q859392		real	real	Q74698,Q74701	Q74680
-DEDUPE	father	Q132046	Thebe	Q75195	Prometheus	Q90388	Prometheus	Q83160		real	real	Q75054,Q75225,Q90317	Q75192,Q90476,Q130710,Q132044,Q132045
-DEDUPE	father	Q132047	Chimaereus	Q75195	Prometheus	Q90388	Prometheus	Q83160		real	real	Q75054,Q75225,Q90317	Q75192,Q90476,Q130710,Q132044,Q132045
-DEDUPE	father	Q132048	Lycus	Q75195	Prometheus	Q90388	Prometheus	Q83160		real	real	Q75054,Q75225,Q90317	Q75192,Q90476,Q130710,Q132044,Q132045
-DEDUPE	father	Q132049	Aidos	Q75195	Prometheus	Q90388	Prometheus	Q83160		real	real	Q75054,Q75225,Q90317	Q75192,Q90476,Q130710,Q132044,Q132045
-DEDUPE	father	Q132098	Amphictyon	Q75153	Deucalion	Q90478	Deucalion	Q207715	Q207715	real	real	Q90388,Q90476	Q132042
-DEDUPE	father	Q132099	Orestheus	Q75153	Deucalion	Q90478	Deucalion	Q207715	Q207715	real	real	Q90388,Q90476	Q132042
-DEDUPE	father	Q132100	Thyia	Q75153	Deucalion	Q90478	Deucalion	Q207715	Q207715	real	real	Q90388,Q90476	Q132042
-DEDUPE	father	Q132101	Melantho daughter of Deucalion	Q75153	Deucalion	Q90478	Deucalion	Q207715	Q207715	real	real	Q90388,Q90476	Q132042
-DEDUPE	father	Q132102	Protogeneia	Q75153	Deucalion	Q90478	Deucalion	Q207715	Q207715	real	real	Q90388,Q90476	Q132042
-DEDUPE	father	Q132103	Haemone	Q75153	Deucalion	Q90478	Deucalion	Q207715	Q207715	real	real	Q90388,Q90476	Q132042
-DEDUPE	father	Q132104	Candybus	Q75153	Deucalion	Q90478	Deucalion	Q207715	Q207715	real	real	Q90388,Q90476	Q132042
-DEDUPE	father	Q132105	Pandora	Q75153	Deucalion	Q90478	Deucalion	Q207715	Q207715	real	real	Q90388,Q90476	Q132042
 DEDUPE	father	Q132271	Cleopatra	Q74973	Danaus	Q132255		Q210883		real	real	Q90576,Q131024	Q131028,Q133462,Q133463,Q133464,Q133465,Q133466,Q133467,Q133468,Q133469,Q133470
 DEDUPE	father	Q132272	Autonoe	Q74973	Danaus	Q132255		Q210883		real	real	Q90576,Q131024	Q131028,Q133462,Q133463,Q133464,Q133465,Q133466,Q133467,Q133468,Q133469,Q133470
 DEDUPE	father	Q132273	Eurydice	Q74973	Danaus	Q132255		Q210883		real	real	Q90576,Q131024	Q131028,Q133462,Q133463,Q133464,Q133465,Q133466,Q133467,Q133468,Q133469,Q133470
@@ -1725,9 +1672,6 @@ DEDUPE	father	Q139631	Lucius Aemilius Paullus	Q70952	Lucius milius Lepidus Paull
 DEDUPE	mother	Q139631	Lucius Aemilius Paullus	Q70949	Cornelia Scipio	Q139597	Cornelia		Q2530944	real	real	Q72242	
 DEDUPE	father	Q141312	Boniface II, Margrave of Tuscany	Q143968	Boniface I, Margrave of Tuscany	Q206987	Bonifacio I "il Bavaro" conte e duca di Lucca	Q2178216		real	real		
 DEDUPE	mother	Q141768	Lucius Plautius Lamia Silvanus	Q76669	Annia	Q144370	Rupilia		Q12292675	real	real		Q76666
-DEDUPE	mother	Q143493	Ramiro II of León	Q75438	Elvira Menendez	Q99895	Elvira  Menéndez	Q840414		real	real	Q75441,Q75444	Q99907
-DEDUPE	father	Q143499	Sancho III of Navarre	Q100950	Garcia  Sanchez II "El Tremulo"	Q110074	García Sánchez II of Pamplona		Q358396	real	real	Q100435,Q100948	
-DEDUPE	mother	Q143499	Sancho III of Navarre	Q101718	Jimena  Fernandez de Leon	Q110482	Jimena Fernández		Q3807743	real	real	Q114318	
 DEDUPE	mother	Q143971	Theodora II of Tusculum	Q143970	Theodora	Q205798	Theodora	Q44978		real	real		Q143969
 DEDUPE	father	Q147881	Gisulf I of Salerno	Q143964	Guaimar II of Salerno	Q206421	Guaimario II "il Gobbo" principe di Salerno	Q2705969		real	real		
 DEDUPE	mother	Q147881	Gisulf I of Salerno	Q147879	Gaitelgrima of Benevento	Q206427	Gaitelgrima di Capua	Q124424132		real	real		
@@ -1937,7 +1881,6 @@ DEDUPE	mother	Q195366	Osorkon IV	Q195083	Tadibast	Q195547	N.N.			real	real
 DEDUPE	mother	Q208301	Ruthilde	Q206162	Alix (Adela) de Valois	Q208861	Adelaide De Valois			real	real		Q114141
 DEDUPE	father	Q16001278	Haplogroup A0-T	Q152973	Adam Y Chromosomal Adam	Q1034073	Macro-haplogroup A(X-BT)	Q351265		real	real		
 DISTINCT	father	Q51822	Ptolemy XII Auletes	Q51818	Ptolemy Memphites	Q78713	Ptolemy IX Lathyros	Q1670765	Q3340	real	real	Q73038	
-DISTINCT	mother	Q51822	Ptolemy XII Auletes	Q78402	Cleopatra IV	Q78719	Cleopatra III of Egypt	Q40023	Q40003	real	real	Q73038	Q73038,Q78713
 DISTINCT	father	Q64516	Antoninus Pius	Q65423	Titus Aurelius Fulvus	Q65489	Hadrian	Q1230832	Q1427	real	real		
 DISTINCT	father	Q65489	Hadrian	Q66751	Publius Aelius Hadrianus Afer	Q66784	Andhra Pradesh	Q2280800	Q1159	real	real		
 DISTINCT	mother	Q65489	Hadrian	Q66718	Domitia Paulina	Q66817	Pompeia Plotina	Q452705	Q239448	real	real		
@@ -1949,12 +1892,9 @@ DISTINCT	father	Q73020	Lucilia	Q72648	Sextus Pompeius	Q139727	Marcus Lucilius	Q8
 DISTINCT	father	Q73515	Laodice	Q73380	Antiochus IV Epiphanes	Q133344	Icarius of Sparta	Q3356	Q1658054	real	real		
 DISTINCT	father	Q74723	Aristomachus	Q74732	Merops	Q134107	Cleodaeus	Q1319783	Q329690	real	real		
 DISTINCT	father	Q74949	Lysimache,Eurynome or Lyssianassa	Q74991	Abas	Q90590	Abas	Q305614	Q305611	real	real	Q132482	
-DISTINCT	mother	Q75153	Deucalion	Q75192	Klymene	Q90476	Hesione	Q669635	Q120197205	real	real	Q74970,Q74973,Q90309,Q132255	Q74732,Q75195,Q75225,Q90388,Q130598
+DISTINCT	mother	Q75153	Deucalion	Q75192	Klymene	Q90476	Hesione	Q669635	Q120197205	real	real	Q74970,Q74973,Q90309,Q132255	Q74732,Q75195,Q75225,Q130598
 DISTINCT	father	Q78609	Cleopatra V of Egypt	Q78713	Ptolemy IX Lathyros	Q135920	Ptolemy X Alexander I	Q3340	Q3345	real	real	Q73035,Q73038	Q135922
-DISTINCT	mother	Q78713	Ptolemy IX Lathyros	Q78402	Cleopatra IV	Q78719	Cleopatra III of Egypt	Q40023	Q40003	real	real	Q73038	Q73038,Q78713
-DISTINCT	father	Q78716	Cleopatra Selene I of Egypt	Q73038	Ptolemy VIII Physcon	Q73197	Ptolemy VI	Q3350	Q39952	real	real	Q73200,Q73203	Q73035,Q73194,Q78719,Q136154
-DISTINCT	mother	Q78716	Cleopatra Selene I of Egypt	Q78402	Cleopatra IV	Q78719	Cleopatra III of Egypt	Q40023	Q40003	real	real	Q73038	Q73038,Q78713
-DISTINCT	father	Q78719	Cleopatra III of Egypt	Q73038	Ptolemy VIII Physcon	Q73197	Ptolemy VI	Q3350	Q39952	real	real	Q73200,Q73203	Q73035,Q73194,Q78719,Q136154
+DISTINCT	father	Q78716	Cleopatra Selene I of Egypt	Q73038	Ptolemy VIII Physcon	Q73197	Ptolemy VI	Q3350	Q39952	real	real	Q73200,Q73203	Q73035,Q73194,Q136154
 DISTINCT	mother	Q112711	Guillaume X	Q112705	Ermengarde of Anjou	Q112707	Philippa, Countess of Toulouse	Q3056729	Q3048073	real	real		Q111669
 DISTINCT	mother	Q114018	Ermengarde-Gerberga of Anjou	Q112532	Adelaide of Blois	Q114121	Adele of Meaux	Q3442309	Q2038405	real	real		Q113576
 DISTINCT	father	Q115656	Ermengarde	Q113566	Boso of Provence	Q115658	Louis II of Italy	Q73806	Q215204	real	real		

@@ -3,10 +3,6 @@
     "en": [
       {
         "language": "en",
-        "value": "Menkheperre Necho"
-      },
-      {
-        "language": "en",
         "value": "Necho I"
       },
       {
@@ -18,7 +14,7 @@
   "claims": {
     "P1185": [
       {
-        "id": "Q195390$15381281-3D4A-4826-B720-031D4A148AA7",
+        "id": "Q85263$7699A6F2-7067-4AB9-A48A-4E91AF978C42",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -35,7 +31,7 @@
     ],
     "P20": [
       {
-        "id": "Q195390$81FEBC98-0C86-39D8-6B0A-688570D434DC",
+        "id": "Q85263$2C2274AE-0269-42B1-BBBE-1012FE0411AC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -47,6 +43,25 @@
             }
           },
           "hash": "1217cd1ce4a547ae857c9a5f2af49e46e07b0ddc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q85263$4D0B002E-13BA-4192-AF51-24B3FE3BD6DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136463",
+              "numeric-id": 136463
+            }
+          },
+          "hash": "0283241b67ee06a66b54165e54846a62caf10a06",
           "property": "P20",
           "snaktype": "value"
         },
@@ -71,30 +86,11 @@
         },
         "rank": "normal",
         "type": "statement"
-      },
-      {
-        "id": "Q195390$37AAF75D-70A6-4716-B919-9153BD1C4987",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q136463",
-              "numeric-id": 136463
-            }
-          },
-          "hash": "0283241b67ee06a66b54165e54846a62caf10a06",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
       }
     ],
     "P39": [
       {
-        "id": "Q195390$6501F36C-BC99-48D8-BD9C-65913C66CDE9",
+        "id": "Q85263$F82BB2DE-0BB6-463F-8CB8-0489E720DA09",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -113,7 +109,7 @@
         "type": "statement"
       },
       {
-        "id": "Q195390$793F4BF4-5731-4669-A031-B5198121D28C",
+        "id": "Q85263$39653BFE-7A60-4D96-92B4-C9390484EDB3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -134,6 +130,25 @@
     ],
     "P42": [
       {
+        "id": "Q85263$255C52B1-BE52-4CB7-B546-D6C48E385BCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85261",
+              "numeric-id": 85261
+            }
+          },
+          "hash": "310d16b61d22d6e0352eb24da33f624bbc1b18fb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
         "id": "Q195390$D202F840-B481-ADBA-9220-9E7B92D153CC",
         "mainsnak": {
           "datatype": "wikibase-item",
@@ -151,30 +166,11 @@
         },
         "rank": "normal",
         "type": "statement"
-      },
-      {
-        "id": "Q195390$F2CC3874-236D-F2BC-3FE9-E188A6D24C4C",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q85261",
-              "numeric-id": 85261
-            }
-          },
-          "hash": "310d16b61d22d6e0352eb24da33f624bbc1b18fb",
-          "property": "P42",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
       }
     ],
     "P47": [
       {
-        "id": "Q195390$B7D387A0-621E-4853-B39F-F81FBBF788F0",
+        "id": "Q85263$54AA436E-DB0A-4835-AE69-89406ED58AFB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -195,7 +191,7 @@
     ],
     "P48": [
       {
-        "id": "Q195390$2219916A-F668-403A-9419-BEB58FF6E1B3",
+        "id": "Q85263$9820051E-0DE6-401C-A9E4-D2A05C2362F4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -216,7 +212,7 @@
     ],
     "P55": [
       {
-        "id": "Q195390$5AE431FE-0451-8225-D127-5F94B14953B7",
+        "id": "Q85263$027286EA-9130-4EC0-B8C5-77397E246000",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -237,7 +233,7 @@
     ],
     "P56": [
       {
-        "id": "Q195390$0556B602-CDB5-475B-8DDF-C85CBD04AC5D",
+        "id": "Q85263$2BA36137-3027-4421-97A9-CD471D5578A9",
         "mainsnak": {
           "datatype": "time",
           "datavalue": {
@@ -261,7 +257,7 @@
     ],
     "P57": [
       {
-        "id": "Q195390$13470D4D-1DD2-4AD4-A572-C815F7B76148",
+        "id": "Q85263$F20AE8E1-B330-43C0-84F9-381F267ABB32",
         "mainsnak": {
           "datatype": "time",
           "datavalue": {
@@ -285,7 +281,7 @@
     ],
     "P61": [
       {
-        "id": "Q195390$5FE9512D-5DFE-41E2-B489-B3022BFC540E",
+        "id": "Q85263$F82CD471-CDC6-438F-818A-0C1F24BB1640",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -369,7 +365,7 @@
       "value": "древнеегипетский правитель города Саис, отец Псамметиха I"
     }
   },
-  "id": "Q195390",
+  "id": "Q85263",
   "labels": {
     "ar": {
       "language": "ar",
@@ -405,7 +401,7 @@
     },
     "en": {
       "language": "en",
-      "value": "Necho I"
+      "value": "Menkheperre Necho"
     },
     "en-ca": {
       "language": "en-ca",
@@ -540,11 +536,11 @@
       "value": "尼科一世"
     }
   },
-  "lastrevid": 17606060,
-  "modified": "2025-09-17T23:04:07Z",
+  "lastrevid": 17500121,
+  "modified": "2025-09-16T22:00:23Z",
   "ns": 860,
-  "pageid": 217175,
+  "pageid": 100094,
   "sitelinks": {},
-  "title": "Item:Q195390",
+  "title": "Item:Q85263",
   "type": "item"
 }

@@ -5448,3 +5448,13 @@ the nameless record lost depth before its merge). Merged (`dedupe-batch-5`): Jim
 García Jiménez of Pamplona, Onneca of Sangüesa, Sancha Garcés of Pamplona, Hedwige de Namur, then
 Andregoto Galíndez and Beatrice of Lorraine; 54 files repointed. All the pairs batches 1–4 had to
 leave are now merged except Manrique Pérez de Lara (rival mothers) and the hand-excluded ones.
+
+## 2026-10-11 — DEDUPE backlog, batch 6: two merged; the automatic tiers are exhausted
+
+The regenerated same-role list (1,906 colliding pairs, 1,641 DEDUPE, 1,080 corroborated) has no
+exact-name pair left that passes the rules. Of the three pairs sharing a Wikidata id, Julius
+Constantius and Necho I (Menkheperre Necho) merged (`dedupe-batch-6`, 21 files repointed); Senusret
+II tripped I4 through a duplicated parent. What remains needs a hand check per pair: 55 pairs whose
+labels differ but one contains the other (some are father and son, e.g. "Jakob Wyss" / "Jakob Wyss
+II"; some different people, e.g. "Diego de Cervantes y Toledo" / "… y Álvarez"), and the Senusret II
+cascade.

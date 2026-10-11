@@ -3,11 +3,11 @@
     "en": [
       {
         "language": "en",
-        "value": "Flavius Julius Constantius"
+        "value": "Flavius Julius Constantius, Consul of Rome"
       },
       {
         "language": "en",
-        "value": "Flavius Julius Constantius, Consul of Rome"
+        "value": "Flavius Julius Constantius"
       },
       {
         "language": "en",
@@ -18,7 +18,7 @@
   "claims": {
     "P1185": [
       {
-        "id": "Q99314$5E9C4E8A-17CE-4E5D-B67C-D1B8F92D316A",
+        "id": "Q61301$BA6453E7-0DE5-4E06-8D9F-7217C4865D2D",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -35,7 +35,7 @@
     ],
     "P1819": [
       {
-        "id": "Q99314$A9D8421B-C732-47A9-A10A-46196895EE10",
+        "id": "Q61301$1A6807AC-A445-4DED-BE69-4179FC12308E",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -52,7 +52,7 @@
     ],
     "P20": [
       {
-        "id": "Q99314$05152582-B1C3-41FB-80A9-5C413B7EEB62",
+        "id": "Q61301$133726CA-F24F-4DC5-A3CD-3771C2EDEA90",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -71,7 +71,7 @@
         "type": "statement"
       },
       {
-        "id": "Q99314$46B93351-A159-47D2-BB8D-6763E3BFEAD8",
+        "id": "Q61301$9D372186-BDE4-4CFC-AE90-3619C6E01A9F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -90,7 +90,7 @@
         "type": "statement"
       },
       {
-        "id": "Q99314$05EF4233-58CB-490D-9DEF-E3D746AEBCBC",
+        "id": "Q61301$27CD57D3-DBC4-4689-ABFA-CC11884832CE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -109,7 +109,7 @@
         "type": "statement"
       },
       {
-        "id": "Q99314$36F2EE89-DFC4-4505-A38C-CC0F899E743F",
+        "id": "Q61301$E772FB3F-BEE1-4846-8585-A87D2161ECDA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -130,7 +130,7 @@
     ],
     "P2949": [
       {
-        "id": "Q99314$4339F659-ABE9-4A3F-BB65-D84D661CCDEE",
+        "id": "Q61301$CA7F3D07-28D9-46E3-BC53-D2D0A7119404",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -147,7 +147,7 @@
     ],
     "P3": [
       {
-        "id": "Q99314$E2BDE630-F4E4-4F4E-9ED8-4B45B73314CC",
+        "id": "Q61301$99BDBC05-5A43-4819-B46B-7A5D4FCD2176",
         "mainsnak": {
           "datatype": "monolingualtext",
           "datavalue": {
@@ -165,7 +165,7 @@
         "type": "statement"
       },
       {
-        "id": "Q99314$BCA37A4F-2CEE-4AC3-8DF8-580979A83963",
+        "id": "Q61301$93C206B7-4F52-4914-9977-A0FA9D8FAFFF",
         "mainsnak": {
           "datatype": "monolingualtext",
           "datavalue": {
@@ -183,9 +183,49 @@
         "type": "statement"
       }
     ],
+    "P39": [
+      {
+        "id": "Q61301$43AFCAB4-08A1-491D-846B-09E027529C4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61301$B8DE4943-B2AF-4F45-BDA1-6816A95ECAC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P4159": [
       {
-        "id": "Q99314$A9A63C96-2064-4869-ABAB-0CAE591541F9",
+        "id": "Q61301$DA5B8BBB-A04A-4150-9D2A-8731260F14A8",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -202,7 +242,7 @@
     ],
     "P42": [
       {
-        "id": "Q99314$2764C159-AC61-47A0-9BE5-2CF047C1B54E",
+        "id": "Q61301$64A21B48-4A75-430A-A18D-29D9C223E8B8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -221,7 +261,7 @@
         "type": "statement"
       },
       {
-        "id": "Q99314$D01635BC-6E7D-4AB8-B77A-F4818B50BE7F",
+        "id": "Q61301$72D4860A-4AF9-4AE9-9B33-A50E3B8F6F8B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -242,7 +282,7 @@
     ],
     "P47": [
       {
-        "id": "Q99314$CAE8F53A-B42D-42E3-A13D-7124BD4D2872",
+        "id": "Q61301$6343EB8E-7788-4DDF-B209-EB46D3B7CD75",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -263,7 +303,7 @@
     ],
     "P48": [
       {
-        "id": "Q99314$A79DBF89-76EE-4B19-ADAB-8DAB998B0A46",
+        "id": "Q61301$0FEE0195-C1C1-4636-8708-AD3895115E3D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -284,7 +324,7 @@
     ],
     "P5": [
       {
-        "id": "Q99314$435C3AD3-1398-44E6-B48F-9C05C82D2D31",
+        "id": "Q61301$71F627D0-1638-4B05-8DBA-1BA2A6D57CFB",
         "mainsnak": {
           "datatype": "monolingualtext",
           "datavalue": {
@@ -302,7 +342,7 @@
         "type": "statement"
       },
       {
-        "id": "Q99314$C95EA7D9-AED1-49D9-AE7A-C092B9762C1C",
+        "id": "Q61301$89A338C9-285A-4D96-9B09-37FD384AA00A",
         "mainsnak": {
           "datatype": "monolingualtext",
           "datavalue": {
@@ -322,7 +362,7 @@
     ],
     "P55": [
       {
-        "id": "Q99314$AD221B0F-E5A2-42BD-B940-B921F954772E",
+        "id": "Q61301$06B2FA14-12F5-47F0-A6FC-2BC00EC2459C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -343,7 +383,7 @@
     ],
     "P56": [
       {
-        "id": "Q99314$41A49B0F-750F-492A-BA11-57D45FB1DDB0",
+        "id": "Q61301$3B2CA357-B316-4067-A553-9E7B1C5ADAC8",
         "mainsnak": {
           "datatype": "time",
           "datavalue": {
@@ -367,7 +407,7 @@
     ],
     "P57": [
       {
-        "id": "Q99314$653FEBA7-B580-4414-AFDB-A3EA6AAE6C36",
+        "id": "Q61301$DDFDE7F9-4524-4416-8279-0C3907F355F9",
         "mainsnak": {
           "datatype": "time",
           "datavalue": {
@@ -391,7 +431,7 @@
     ],
     "P61": [
       {
-        "id": "Q99314$3EDFF3BD-1652-40CC-AF29-98595A1D5819",
+        "id": "Q61301$FEEE40DF-A903-4F6F-86CC-6A1F7E2F23B1",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -408,7 +448,7 @@
     ],
     "P62": [
       {
-        "id": "Q99314$1279A794-4953-41FE-ACD6-49A7C3DDF418",
+        "id": "Q61301$D0B16C82-DDFD-4580-A4DC-684382DC5AE9",
         "mainsnak": {
           "datatype": "external-id",
           "datavalue": {
@@ -417,6 +457,23 @@
           },
           "hash": "3597a5309319e35130f619427f1ef2944aaa852e",
           "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q61301$6A88373C-6CCB-487F-B4FB-FE4CC577AA7D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Julius Constantius Arms.svg"
+          },
+          "hash": "48632250ff4b28a49a69a94936a749b1593d658c",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -514,7 +571,7 @@
       "value": "bror till Konstantin den store"
     }
   },
-  "id": "Q99314",
+  "id": "Q61301",
   "labels": {
     "ar": {
       "language": "ar",
@@ -554,7 +611,7 @@
     },
     "en": {
       "language": "en",
-      "value": "Flavius Julius Constantius, Consul of Rome"
+      "value": "Julius Constantius"
     },
     "en-ca": {
       "language": "en-ca",
@@ -665,10 +722,10 @@
       "value": "尤利烏斯·君士坦提烏斯"
     }
   },
-  "lastrevid": 17396246,
-  "modified": "2025-09-10T05:13:09Z",
+  "lastrevid": 17470784,
+  "modified": "2025-09-16T15:00:29Z",
   "ns": 860,
-  "pageid": 116623,
+  "pageid": 76132,
   "sitelinks": {
     "evolutionismwiki": {
       "badges": [],
@@ -677,6 +734,6 @@
       "url": "https://evolutionism.miraheze.org/wiki/Notes:Q99314"
     }
   },
-  "title": "Item:Q99314",
+  "title": "Item:Q61301",
   "type": "item"
 }

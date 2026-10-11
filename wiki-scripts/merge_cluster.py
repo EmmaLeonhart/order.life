@@ -1049,6 +1049,11 @@ CLUSTERS = {
         ("Q109770", "Q100828", "Andregoto Galindez -- same parents once Sancha is merged"),
         ("Q116887", "Q206650", "Beatrice of Lorraine -- both carry wd Q22328248"),
     ],
+    # DEDUPE batch 6 (2026-10-11): no exact-name pair is left; these share a Wikidata id.
+    "dedupe-batch-6": [
+        ("Q61301", "Q99314", "Julius Constantius -- both carry the same Wikidata id, shared parent or spouse"),
+        ("Q85263", "Q195390", "Necho I (Menkheperre Necho) -- both carry the same Wikidata id, shared parent or spouse"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),
