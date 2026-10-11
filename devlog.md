@@ -5346,3 +5346,10 @@ Publius Cornelius Sulla, consul 65 BC, who was the dictator's nephew, so the dum
 another man), and the child of Gaius Marius the Younger, for whom Wikidata offers only
 "Pseudo-Marius", an impostor who claimed the descent. Two more (`Q143384`, `Q153600`) were not
 checked: Wikidata rate-limited the run (HTTP 429).
+
+## 2026-10-11 — two more NN records identified (item 17c)
+
+With the rate limit lifted: `Q143384` is Udo von Nellenburg, archbishop of Trier (son of Eberhard VI
+of Nellenburg), and `Q153600` is Manegold of Berg, bishop of Passau (son of Diepold II of Berg);
+each the only child Wikidata gives the parents that the dump lacks, of the right sex. Restored with
+`fix_collided_identity.py`. Two NN records remain by choice (the Sulla father, the Marius claimant).

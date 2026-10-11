@@ -378,8 +378,8 @@ with AskUserQuestion instead of parking it here.**
 `cut_edges.py inversion-class`.
 
 17c. **THE REST OF THE IMPORT COLLISIONS (2026-10-11).** The unambiguous 28 are fixed (17
-   restored, 11 stripped to NN; devlog). Left: (1) four NN records: `Q143384` and `Q153600` not checked
-   yet (rate limit), the father of "Lucius Cornelius Sulla" `Q139729`, the child of Marius the Younger `Q141603`; (2) Idris Ibn Abdallah
+   restored, 11 stripped to NN; devlog). Left: (1) two NN records left by choice: the father of "Lucius
+   Cornelius Sulla" `Q139729`, the child of Marius the Younger `Q141603`; (2) Idris Ibn Abdallah
    `Q108514`, Nuno Alvites `Q112775` and Henry of Friemar `Q78454`, flagged for other reasons;
    (3) `collision_candidates.tsv`: 851 COLLISION? and 1,985 EDGE? rows, mostly imprecise ancient
    dates but with real collisions and false edges among them. Work from the top.
