@@ -377,13 +377,13 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-17. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
-   have no item file, yet 219 edges reference them and they hold 200+ recorded
-   relationships between them. They are holes in the dump where the surrounding family
-   survived. Creating them is one `add_bridge_edges.py`-style operation each; deciding
-   *who they are* is not something the dump answers.
-
----
+17b. **FOLLOW-UPS FROM THE FOUR CREATED RECORDS (2026-10-10).** (1) Cleopatra IV `Q78402` has two
+   mothers, Cleopatra II `Q73194` and Cleopatra III `Q73035`; her mother is Cleopatra III, so the
+   Cleopatra II edge is the one to check and cut. (2) Apollo's consort `Q131522` is labelled
+   "Margarethe von Oven" with wd Q92328, which looks like the same import collision as `Q130001`:
+   find who she is from her edges and strip the wrong identity. (3) The Q90xxx Zeus brought 8 children
+   and 7 consorts into `Q74656`; several are probably copies of main-block records (the same parallel
+   import). Dedupe them with `merge_cluster.py`, checking each.
 
 ## AWAITING EMMA — reports written, decisions open
 

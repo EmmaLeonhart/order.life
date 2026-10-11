@@ -5262,3 +5262,14 @@ mythic woman, and is now "NN (Wife of Melissus of Crete)" by the dump's conventi
 (`apply_q130001_terms.py`). The nameless `Q70685` was merged into Octavius Laenas `Q70122` (one man
 recorded as his own father). The remaining contradicted edges are myth variants or two-id artefacts
 and are kept; Seth-Peribsen → Nimaethap needs a source. Summary in `closed_repairs.md`.
+
+## 2026-10-10 — the four missing records created (item 17 done)
+
+`Q74656`, `Q75282`, `Q54196` and `Q78402` were pointed to by 219+ edges but had no file. Identified
+from their neighbours, which is research rather than naming: Zeus (child of Saturn and Ops, 60
+consorts, 144 children), Apollo (child of Leto; Linus, Aristaeus, Troilus, Miletus), Neoptera (the
+insect clade above Eumetabola and Polyneoptera) and Cleopatra IV (daughter of Ptolemy VIII, wife of
+Ptolemy IX and Antiochus IX). `create_gap_records.py` wrote each with label, Wikidata id, sex and
+the family claims its neighbours already declare (graph-neutral). Then `merge_cluster.py zeus` merged
+the Q90xxx parallel-import Zeus `Q90359` into `Q74656` (I4 clean, 42 files repointed). Follow-ups
+queued as 17b.

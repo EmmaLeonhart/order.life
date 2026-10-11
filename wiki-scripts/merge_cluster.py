@@ -952,6 +952,13 @@ CLUSTERS = {
         ("Q70122", "Q70685", "Gaius Octavius Laenas, grandfather of Nerva -- same description, "
                              "wife and children; Q70122 carries wd Q12289187"),
     ],
+    # queue.md item 17 (2026-10-10): Q90359 Zeus belonged to the Q90xxx parallel import, whose
+    # Cronos and Rhea were merged into Saturn and Ops (cluster item13-pieces); Q74656, created from
+    # its neighbours the same day, is the main Zeus (144 children, wd Q34201).
+    "zeus": [
+        ("Q74656", "Q90359", "Zeus -- same parents Saturn Q74680 / Ops Q74677 since the Q90xxx "
+                             "Cronos and Rhea were merged; Q74656 carries wd Q34201"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),
