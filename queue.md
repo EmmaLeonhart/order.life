@@ -377,49 +377,6 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-1d. **CLOSE THE MERGE ENFORCEMENT GAP. The 894 stale references are repaired; the hole
-   that produced them is still open, so they will come back.**
-
-   **Measured and repaired 2026-08-15** — 894 claims, 708 records, 222 dead qids, all
-   repointed (`13238d287`), and a full regeneration confirms **0 remaining** with
-   `edges.tsv` byte-identical. That half is closed. **This is the half that is not.**
-
-   **THE GAP.** This file states the rule as *"after a merge, NO file may still claim the
-   loser's qid"* — the phantom Cato 2-cycle is what happens when it breaks.
-   `merge_cluster.py` checks two narrower things and neither is that rule:
-
-   1. no file whose **`id`** is a loser — *ownership*, not reference;
-   2. no alias cited by **the survivor's own record** (`stale = [v for v in vals(d, p) if
-      v in alias]`, run only on `load(surv)`).
-
-   **A third-party record citing the loser is never examined.** That is how 894 of them
-   accumulated across 222 merges with every sweep reporting clean.
-
-   **THE FIX, and it is a behaviour change, not just a check.** Adding a hard failure
-   alone would break every future merge, because nothing currently repoints third-party
-   references. So `merge_cluster.py` must, after vacating a qid: repoint every claim
-   naming it (the logic is already written and tested in `repoint_vacated_qids.py` —
-   import it rather than copying), then assert zero remain, then fail if any do.
-
-   **WHY THIS IS NOT DONE YET, stated plainly:** it cannot be verified without performing
-   a real merge, and performing one purely to exercise the new code path is not a repair
-   this dump needs. Options, in preference order: wait until the next genuine merge is
-   wanted (the Maurya/Shunga triple dedupe in item 0d is one, and is already queued);
-   or build a throwaway two-record fixture under a temp dir and run `merge_cluster.py`
-   against it. **Do not ship this change unexercised** — an unrun repair path that
-   reports success is the exact failure this whole thread is about.
-
-   **A cheap standing check exists in the meantime.** `extract_genealogy.py` now emits
-   `qa_vacated_refs.tsv` on every run, and the count is in its summary line. It is
-   currently 0. **If it is ever non-zero again, a merge left references behind** — that
-   is the regression detector, and it costs nothing because the extract already runs as
-   step 1 of `verify_repair.py`.
-
-   **The structural check worth knowing:** when the count is 0, `parent edges (raw)`
-   equals `parent edges (canonical)` in the extractor's own summary — 128,596 = 128,596
-   as of 2026-08-15, where before the repair it was 129,250 against 128,596. That gap is
-   the dead spellings, visible without trusting any repair tool.
-
 4. **ONE CUT TO SANITY-CHECK IF YOU DISAGREE — Brahma and the eleven Rudras
    (2026-08-02, applied).** Tangle 15 was cut on the reading that `Q160946` "11 Rudras" is
    the **Kashyapa-and-Surabhi** set of the Vishnu Purana — its mother in the dump is

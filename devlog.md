@@ -5101,3 +5101,13 @@ year), 10,382 AD, 59 MISMATCH, 33 without a Wikidata date. Write-up in
 from disk, idempotent. The 59 mismatches and 33 records with no Wikidata date were left alone. Before
 this, the extract regenerated after the Q72786 unmerge passed `check_invariants.py` (0 tangles,
 children_over_2_parents 1196, 0 vacated refs).
+
+## 2026-10-10 — merge_cluster.py repoints third-party references (item 1d done)
+
+`merge_cluster.py --write` now repoints every record that names a merged-away qid as parent, child
+or spouse, right after the merge, using `repoint_vacated_qids.repoint_everywhere()` (factored out of
+that script's main, which now calls it too) with a redirect map that includes the run's own merges.
+Its verify step fails if any such claim remains. Exercised on a throwaway git fixture,
+`tests/test_merge_repoint.py` (`python -m unittest tests/test_merge_repoint.py`): survivor, loser, a
+child naming only the loser (repointed), that child's shadow (synced) and a child naming both
+(duplicate dropped). The test fails with the repoint step disabled. No real merge was run.

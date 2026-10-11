@@ -1214,6 +1214,20 @@ def main():
             print(f"\n  reconciled {len(restale)} file(s) left stale by an earlier merge "
                   f"into {surv}: {', '.join(restale)}")
 
+    # THIRD-PARTY REFERENCES (queue item 1d, 2026-10-10). The rule is that after a merge NO
+    # file may still claim the loser's qid, and until now this tool only checked ownership
+    # and the survivor's own claims, so 894 references held by other records piled up across
+    # 222 merges. Repoint them now, with the logic repoint_vacated_qids.py already had, using
+    # a redirect map that includes this run's merges (redirects.tsv does not know them until
+    # the extract is regenerated). The verify below fails if any remain.
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import repoint_vacated_qids as rv
+    vacated = {loser for _, loser, _ in merges}
+    red_now = dict(redirects)
+    red_now.update({loser: surv for surv, loser, _ in merges})
+    print("\nrepointing third-party references to the vacated qid(s)...")
+    repointed = rv.repoint_everywhere(vacated, red_now, write=True)
+
     if terms:
         print("\nterms carried over from the loser (description / aliases / its label):")
         for q, ts in sorted(terms.items()):
@@ -1260,6 +1274,22 @@ def main():
         ok = False
     else:
         print(f"  no file claims any of the {len(losers)} vacated qid(s)")
+
+    # ...and no record anywhere may still NAME one in a family role (item 1d).
+    if repointed is None:
+        print("  FAIL: repointing third-party references did not verify")
+        ok = False
+    left = [p.name for p in rv.candidate_files(losers)
+            if isinstance(d := json.loads(p.read_text(encoding="utf-8")), dict)
+            and any(rv.target_of(c) in losers for pid in rv.ROLES
+                    for c in (d.get("claims") or {}).get(pid, []))]
+    if left:
+        print(f"  FAIL: {len(left)} file(s) still name a vacated qid in a family role: "
+              f"{', '.join(sorted(left)[:10])}")
+        ok = False
+    else:
+        print(f"  no record names a vacated qid as parent, child or spouse "
+              f"({len(repointed or [])} file(s) repointed)")
 
     # Compare CONTENT, not just the id field. The old check asked only whether each file's
     # internal id equalled the survivor's, which every stale copy also satisfies -- a file

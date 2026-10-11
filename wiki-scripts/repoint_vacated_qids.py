@@ -183,7 +183,18 @@ def main():
             print(f"ABORT: {q} is not in redirects.tsv -- it is not a vacated qid.")
             return 1
 
-    targets = set(args)
+    return 0 if repoint_everywhere(set(args), red, write) is not None else 1
+
+
+def repoint_everywhere(targets, red, write):
+    """Repoint every tracked claim naming one of `targets` (vacated qids) to what `red` resolves
+    it to, and sync the shadows of every touched record. Returns the list of files written ([] on
+    a dry run or when nothing names a target), or None if the verify after writing failed.
+
+    Used by main() and by merge_cluster.py, which calls it right after vacating qids (queue item
+    1d) with a redirect map that already includes the merge it has just made.
+    """
+    args = sorted(targets)
     hits = candidate_files(targets)
     print(f"  {len(hits)} file(s) hold a genealogy claim naming them\n")
 
@@ -203,7 +214,7 @@ def main():
 
     if not edits:
         print("nothing to do -- no genealogy claim names a vacated qid here.")
-        return 0
+        return []
 
     # Every file claiming a touched record must end up identical, or the edit reverts the
     # moment a different file becomes the numerically-lowest claimant for that qid.
@@ -225,7 +236,7 @@ def main():
           + (f", {len(missing)} shadow(s) to sync." if missing else "."))
     if not write:
         print("Dry run. Re-run with --write to apply.")
-        return 0
+        return []
 
     for name, (data, _, indent) in edits.items():
         write_item(ITEMS / name, data, indent)
@@ -255,11 +266,11 @@ def main():
         print("\nVERIFY FAILED:")
         for b in bad:
             print("  " + b)
-        return 1
+        return None
     print(f"Verified across {len(hits) + len(missing)} file(s): none names these qids now.")
     print("NOTE: that is every file the audit found, not an independent sweep. Re-run\n"
           "      vacated_qid_audit.py to confirm the dump-wide count went to zero.")
-    return 0
+    return list(edits) + [p.name for p in missing]
 
 
 if __name__ == "__main__":
