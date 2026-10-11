@@ -5334,3 +5334,15 @@ Angelina, Berthold II of Andechs, Wilbrand I of Loccum-Hallermund, Alexander II 
 Folke jarl and Siegfried III of Weimar-Orlamünde. The other 11 had the wrong identity stripped and are
 labelled NN by their parents or first child, because the match was too weak (e.g. the child of Orhan
 and Nilüfer, very likely Murad I). Family claims untouched.
+
+## 2026-10-11 — seven of the NN records identified (item 17c)
+
+For each record stripped to NN, the candidates were the children Wikidata gives its parents (or the
+parent its children share), minus siblings the dump already has, filtered by recorded sex. Nine came
+out with a single candidate. Restored: Murad I (son of Orhan and Nilüfer), Udo IV of the Nordmark,
+Gertrude of Baden, Ladislaus II of Hungary, Bruno II von Berg, Irmengard of the Rhine, and Frederick
+of Wettin (bishop of Münster). Left NN: the father of "Lucius Cornelius Sulla" (Wikidata offers
+Publius Cornelius Sulla, consul 65 BC, who was the dictator's nephew, so the dump's Lucius may be
+another man), and the child of Gaius Marius the Younger, for whom Wikidata offers only
+"Pseudo-Marius", an impostor who claimed the descent. Two more (`Q143384`, `Q153600`) were not
+checked: Wikidata rate-limited the run (HTTP 429).
