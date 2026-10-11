@@ -377,11 +377,6 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-17c. **THE REST OF THE IMPORT COLLISIONS (2026-10-11).** The unambiguous 28 are fixed (17
-   restored, 11 stripped to NN; devlog). Left: (1) two NN records left by choice: the father of "Lucius
-   Cornelius Sulla" `Q139729`, the child of Marius the Younger `Q141603`; (2) `collision_candidates.tsv`: 851 COLLISION? and 1,985 EDGE? rows, mostly imprecise ancient
-   dates but with real collisions and false edges among them. Work from the top.
-
 ## AWAITING EMMA — reports written, decisions open
 
 > ### ⛔ NOTION WINS. READ IT BEFORE TRUSTING THIS SECTION.

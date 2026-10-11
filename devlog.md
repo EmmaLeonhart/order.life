@@ -5372,3 +5372,9 @@ Shang, Mary of Clopas). Two were real: "Solomon Luria" (the rabbi, b. 1510), who
 13th-century von der Marks, is Adolf I, Count of the Mark; "Louis I, Count Palatine of Zweibrücken"
 (b. 1424), a woman whose son is the trouvère Conon de Béthune, is his mother Adélise de Saint-Pol.
 Both restored with `fix_collided_identity.py`.
+
+## 2026-10-11 — item 17c closed
+
+The unambiguous import collisions are fixed: 35 records across 2026-10-10/11 restored from their
+relatives on Wikidata or stripped to NN. The noisy remainder of `collision_candidates.tsv` (851
+COLLISION?, 1,985 EDGE?, mostly imprecise ancient dates) needs a per-row look and moved to `todo.md`.
