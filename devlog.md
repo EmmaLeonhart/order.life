@@ -5502,3 +5502,9 @@ Finding 2's open note (Toyotama-hime's father recorded as Xu Fu, suspected ID de
 is a deliberate identification of Xu Fu with Watatsumi (both Wikidata ids, the alias, Watatsumi's
 children, both sets of parents), the same Chinese-Japanese join as the Wu line. No change. The
 divine-father rule would cut Izanagi here; not applied, since Izanagi is the point. Noted for Emma.
+
+## 2026-10-11 — epic vs dump: "Adnan had twelve sons" checked
+
+The main tradition (English Wikipedia, "Adnan") gives Adnan two sons, Ma'add and Akk; twelve is
+Ishmael's number in Genesis 25, so the verse's "twelve" looks carried over from him. Noted in
+`epic_vs_dump.md` for Emma; no data change.

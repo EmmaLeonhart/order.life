@@ -229,6 +229,13 @@ several fall" says. The dump has collapsed it to one edge. **Fix the dump.**
 | "Adnan had **twelve sons**" | No Adnan record has twelve children: Q65555 has 9, Q111364 has 2, Q86433 has 1 | UNRESOLVED |
 | — | Muhammad (Q65705) reaches an Adnan record that is **not connected to Ishmael at all** | DATA GAP |
 
+> **Checked 2026-10-11 (English Wikipedia, "Adnan"):** the main tradition gives Adnan **two** sons by
+> his wife, Ma'add and Akk. Twelve sons is what Genesis 25 gives **Ishmael** (the dump has them on
+> `Q129307`), so the verse's "twelve" looks carried over from Ishmael. Some genealogists list more
+> sons for Adnan (not verified here; the Arabic article's list did not come through the API). The
+> dump's main Adnan record `Q65555` has 9 children, kept as variant traditions (queue item 14,
+> closed 2026-10-11). Which side moves, if either, is Emma's.
+
 **Correction to an earlier reading.** A first pass over this chapter checked descendants of
 `Ishmael` **Q129307** and found no Adnan among them, which suggested the Adnanite genealogy
 was missing from the dump entirely. That was wrong, and it was wrong because **Abraham has
