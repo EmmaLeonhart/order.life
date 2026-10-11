@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pontianus Sergius Octavius"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -272,6 +279,43 @@
           },
           "hash": "864e0297a831e7764ef0917b8be77de0a95ebd4d",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q99659$A2974C9C-9F5E-471D-8B77-5673682D6A2D",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Pontianus Sergius Octavius"
+            }
+          },
+          "hash": "c18c23003ae1004fcbe810fa36e55c472cdb62fd",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99659$9EC8F90D-4366-42DF-A6B9-7ACE8491E921",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000024878664232"
+          },
+          "hash": "f292c3219e805e3a06481d497a0362540005381d",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

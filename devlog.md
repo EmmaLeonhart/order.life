@@ -5469,3 +5469,12 @@ Castro y López Zúñiga, Gil de Alvarado (y) Benavides, Constantius Chlorus. Co
 called the two Diegos de Cervantes "different people" from their labels alone; they have the same
 parents. Skipped: Jakob Wyss / Jakob Wyss II (same parents; "II" may mark a second son of the
 name), the Puranic RICHEYU pair, al-Muttalib and al-Muqawwim (Quraysh lines). 25 pairs left.
+
+## 2026-10-11 — DEDUPE by hand, set 2: three merged
+
+Merged (`dedupe-hand-2`, 33 files repointed): Petronius Maximus (the full-name copy into the record
+with wd Q191940; shared parent and wife), Sergius Octavius Pontianus (same parents and wife, name in
+another order), Judith bat Zemah ben Paltoi (same parents and husband). Skipped: Abu Lahab (Quraysh
+lines), Crassus Dives and the two Octavius Laenas (different parents), bat Abba / bat Shahanya /
+Aivu (different parents or spouses), "of Chao" / "of Tsai" / "of Eastern Chou" (generic), the
+al-Huqayq daughter (near Muhammad's household).

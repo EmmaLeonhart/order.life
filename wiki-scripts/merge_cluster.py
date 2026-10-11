@@ -1067,6 +1067,14 @@ CLUSTERS = {
         ("Q35045", "Q35083", "Gil de Alvarado (y) Benavides -- same parents, same name"),
         ("Q61565", "Q62552", "Constantius Chlorus -- same parents; Q61565 carries wd Q131195"),
     ],
+    # DEDUPE by hand, set 2 (2026-10-11). Skipped: Abu Lahab (Quraysh), the Crassus Dives and Octavius
+    # Laenas pairs (different parents), bat Abba / bat Shahanya / Aivu (different parents or spouses),
+    # 'of Chao' / 'of Tsai' / 'of Eastern Chou' (generic), the al-Huqayq daughter (near Muhammad's household).
+    "dedupe-hand-2": [
+        ("Q99627", "Q75501", "Petronius Maximus -- the full name Flavius Anicius Petronius Maximus; shared parent and wife; Q99627 carries wd Q191940"),
+        ("Q76693", "Q99659", "Sergius Octavius Pontianus -- same parents and wife, name in another order"),
+        ("Q88216", "Q90849", "Judith bat Zemah ben Paltoi -- same parents and husband"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),

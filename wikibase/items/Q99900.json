@@ -1,5 +1,30 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Judith Bat Zemah ben Paltoi Kohen Sedeq Gaon de Pumbeditha bat Ẓemaḥ ben Palṭoi Kohen Ṣedeq Gaon of"
+      },
+      {
+        "language": "en",
+        "value": "Ben Yosef"
+      },
+      {
+        "language": "en",
+        "value": "bat Ẓemaḥ ben Palṭoi Kohen Ṣedeq"
+      },
+      {
+        "language": "en",
+        "value": "bat Zemah ben Paltoi Kohen Sedeq"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "bat Ẓemaḥ ben Palṭoi Kohen Ṣedeq"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -179,6 +204,40 @@
           },
           "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q90849$A5F06996-974E-4707-AE15-70D7EA764812",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaon of Pumbeditha"
+          },
+          "hash": "1894029f9f135f2b71edbbdc2d2035e3aed8d74e",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q90849$6946CAFF-9DCC-4DC5-AF29-77C8E651D93C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001101740245"
+          },
+          "hash": "d3bb25f28be1e32c96f94e2e082c9f0b12f3f217",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",
