@@ -1,39 +1,74 @@
 {
- "type": "item",
- "id": "Q200002",
- "labels": {
-  "en": {
-   "language": "en",
-   "value": "Deimachus"
+  "type": "item",
+  "id": "Q200002",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Deimachus"
+    }
+  },
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Deimachus son of Neleus"
+      }
+    ]
+  },
+  "descriptions": {},
+  "claims": {
+    "P47": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P47",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q131902",
+              "numeric-id": 131902
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P48": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P48",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q133062",
+              "numeric-id": 133062
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q75123$CE497F4E-1AEF-418C-88B7-D2000C35EE88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1183222"
+          },
+          "hash": "30828d4eac2334cf173c01686550f56fac06fd9e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
   }
- },
- "aliases": {
-  "en": [
-   {
-    "language": "en",
-    "value": "Deimachus son of Neleus"
-   }
-  ]
- },
- "descriptions": {},
- "claims": {
-  "P47": [
-   {
-    "mainsnak": {
-     "snaktype": "value",
-     "property": "P47",
-     "datavalue": {
-      "value": {
-       "entity-type": "item",
-       "id": "Q131902",
-       "numeric-id": 131902
-      },
-      "type": "wikibase-entityid"
-     }
-    },
-    "type": "statement",
-    "rank": "normal"
-   }
-  ]
- }
 }

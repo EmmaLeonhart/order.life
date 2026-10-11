@@ -377,21 +377,6 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-6. **TWO RESIDUES FROM THE DEIMACHUS UNMERGE — small, precise, and not hidden.**
-   The unmerge landed on 2026-08-01 and dissolved tangle 15, but the existing tools cannot
-   write two of the claims it implies:
-
-   - **`Q200002` has its father `Q131902` Neleus but not its mother `Q133062` Chloris.**
-     `add_bridge_edges.py` writes `P47` only. The claim is true and attested (wd
-     `Q1183222`'s mother is wd `Q28122362` = Chloris) and is simply unrecorded.
-   - **`Q75123` still carries BOTH Wikidata ids**, `Q1183226` *and* `Q1183222`, and
-     `Q200002` carries none. No tool here writes `P61`. **This is a re-merge hazard** —
-     the duplicated id is exactly the signal that found the defect, so leaving it invites a
-     later session to re-merge them.
-
-   Neither is worth a new script on its own; both should go in the next time anything
-   touches `P48`/`P61`.
-
 7. **DUPLICATES SURFACED BY LOOP WORK — real, deliberately not merged.** Every one was
    found while cutting a loop, and in each case the merge would NOT have broken the loop,
    which is why they are here and not done. Scope this session is loops.

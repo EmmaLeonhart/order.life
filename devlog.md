@@ -5118,3 +5118,10 @@ Decided without Emma (instruction: make the call and record it). All records in 
 `Q160xxx` block she ruled out of use on 2026-08-18, so it is left as applied and not reverted. Moved
 to `wikibase/analysis/closed_repairs.md` with the one-command revert, should she want the Shaiva
 reading.
+
+## 2026-10-10 — the two Deimachus residues written (item 6 done)
+
+`wiki-scripts/apply_deimachus_residues.py`: `Q200002` Deimachus son of Neleus now has his mother
+`Q133062` Chloris (both sides of the edge) and the Wikidata id `Q1183222`, which moved off `Q75123`
+and its shadow `Q89022`; `Q75123` keeps `Q1183226`. Checked against Wikidata first: `Q1183222` is
+"son of Neleus", mother `Q28122362` Chloris = dump `Q133062`. Verified from disk.
