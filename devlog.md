@@ -5060,3 +5060,22 @@ already in the dump and already carry a Wikidata id** — a few thousand records
   block, and the prose drift it describes is what 130–205 actually shows (140–149 all
   checked). So the work continues as STATUS.md's next item, 130 onward. This was
   decided without asking Emma, because the instruction was to make the call and record it.
+
+## 2026-10-10 — Q72786 unmerged: Mamercus to his own record, a second Marcus split out
+
+Queue item 1 (the unmerge proper; the ring was cut 2026-08-15). `wiki-scripts/apply_lepidus_unmerge.py`,
+130 claim changes across every shadow file, verified from disk, idempotent.
+
+- **Couple A was a parallel import, not a third parentage.** Mamercus Aemilius Lepidus Livianus
+  (wd Q721477) already had his own record, `Q139719` (father `Q73011`, mother `Q72801`, a wife, a
+  child). A's edges came off `Q72786`; the one thing `Q139719` lacked, his biological father
+  `Q72798` M. Livius Drusus, was added there beside the adoptive `Q73011` (the legitimate
+  two-father case), and its description says so.
+- **Couple B** (`Q73113`, son of the praetor of 218/213 BC, and `Q73110` his wife) moved to a new
+  record, **`Q200037` "Marcus Aemilius Lepidus"**, unidentified in the prosopography.
+- **`Q72786` keeps couple C** (father `Q73173` "M. Aemilius Lepidus, Consul") and its wife `Q72789`.
+  Its mother edge to `Q72789` was dropped: she was recorded as both its wife and its mother.
+- `Q72786` has no children, so nothing below it lost ancestry. Its four Geni ids came from the merged
+  profiles and were left on it; they are not attributable without Geni.
+- Naming: B's record keeps the label the import gave it. The rule here is that naming is Emma's; the
+  instruction for this run was to make the call and record it, so it was made and is recorded here.
