@@ -5243,3 +5243,13 @@ shadow-aware tool for non-parent claims) and as mother of the three daughters on
 (`cut_edges.py fernando-sancha`; she has no parents, so no depth lost). `merge_cluster.py fernando-i`
 then merged Ferdinand, Urraca (`Q104005` into Urraca of Zamora `Q111563`) and Elvira (`Q104009` into
 Elvira of Toro `Q111565`). Tigridia keeps her father and has no recorded mother. 15 files repointed.
+
+## 2026-10-10 — three wrong Wikidata ids that made 90 one-sided edges look contradicted
+
+Most of the 140 remaining contradicted edges hung off a few parents, and three of those carried
+someone else's Wikidata id: Danaus `Q74973` had Oceanus's (Q161419; Danaus is Q210883), so his 78
+Danaid children were compared with Oceanus's; Erebos `Q74717` had Chaos's (Q131090; Erebos is
+Q131122); Ptolemy XII Auletes `Q51822` had his brother Ptolemy of Cyprus's (Q888470; Auletes is
+Q39991). Fixed with `fix_wikidata_ids.py` (new, shadow-aware; 11 files). The 13 "BAD MERGE" rows are
+stale (fixed by the Icarius split). Kept: Leto with Latona's id (the dump's Roman pairing, as with
+Saturn), and the Saturn, Hesione and Klymene rows, which are myth variants.
