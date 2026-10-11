@@ -1093,6 +1093,18 @@ CUTS = {
         ("Q123443", "Q104013", "the same Sancha as mother of Alfonso VI (b. 1040); his mother is "
                                "Sancha of Leon Q110976, also on his record"),
     ],
+    # queue.md item 16 (2026-10-10): the same 12th-century Sancha as mother of the three
+    # daughters on the duplicate Ferdinand I record Q102901. She has no parents, so the cut
+    # costs no depth. Run before `merge_cluster.py fernando-i`.
+    "fernando-sancha": [
+        ("Q123443", "Q104005", "Sancha Q123443 (12th century) as mother of Urraca, daughter of "
+                               "Ferdinand I (d. 1065); a copy of Urraca of Zamora Q111563, whose "
+                               "mother is Sancha of Leon Q110976"),
+        ("Q123443", "Q104009", "the same Sancha as mother of Elvira, a copy of Elvira of Toro "
+                               "Q111565, whose mother is Sancha of Leon Q110976"),
+        ("Q123443", "Q104015", "the same Sancha as mother of Tigridia, daughter of Ferdinand I; "
+                               "her mother is left unrecorded rather than guessed"),
+    ],
 }
 
 

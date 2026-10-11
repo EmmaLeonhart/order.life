@@ -1,5 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elvira de Castilla y León"
+      },
+      {
+        "language": "en",
+        "value": "Elvira, reina titular de Toro"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
@@ -132,6 +143,82 @@
           },
           "hash": "9f1067d3f25383ad6cb4ae7b54449d53cb3a65f4",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q104009$3A170EF1-7C08-4DB7-9354-CD2B8C675FE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q106591",
+              "numeric-id": 106591
+            }
+          },
+          "hash": "c90369637301e9bcc89d04b896f487300cfbd736",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q104009$CCDE2030-7432-4F7E-810B-144DBD283E5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q106589",
+              "numeric-id": 106589
+            }
+          },
+          "hash": "77b20275709a6aafbae1e90af14243a0fa5c7c4d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q104009$56471DF2-31D1-4854-ACAD-F1F462C041C6",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "reina titular de Toro"
+          },
+          "hash": "254554d288b3bef4122e8e18a97f2107fc9090e8",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q104009$7A8FF3D6-919A-423D-B20C-ED39279B9DEC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003574049805"
+          },
+          "hash": "162750b8d52f83774d7b0b58ddaa7771501839f6",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

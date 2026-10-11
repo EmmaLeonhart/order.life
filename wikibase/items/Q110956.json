@@ -4,12 +4,56 @@
       {
         "language": "en",
         "value": "Ferdinand I of Leon and Castile"
+      },
+      {
+        "language": "en",
+        "value": "Ferdinand I \"the Great\" of Navarre"
+      },
+      {
+        "language": "en",
+        "value": "Ferdinand I the Great, King of Castile"
+      },
+      {
+        "language": "en",
+        "value": "Ferran I «el Magne» de Navarra"
+      },
+      {
+        "language": "en",
+        "value": "Ferran I el Magne, rei de Castella"
+      },
+      {
+        "language": "en",
+        "value": "Fernando I «el Magno» de Castilla y León"
+      },
+      {
+        "language": "en",
+        "value": "Fernando I el Magno, rey de Castilla"
+      },
+      {
+        "language": "en",
+        "value": "Fernando I «o Magno» de Navarra"
+      },
+      {
+        "language": "en",
+        "value": "Fernando I o Magno, rei de Castela"
       }
     ],
     "es": [
       {
         "language": "es",
         "value": "Ferdinand I of León and Castile"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "アーネム＝ナイメーヘン都市圏"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "阿納姆-奈梅亨都會區"
       }
     ]
   },
@@ -104,6 +148,25 @@
             }
           },
           "hash": "2a5b8fd07a8f5ca247f56d8716e9b7d25fe69b99",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102901$9612F60B-9E71-46EA-967B-DC8F6C25BCD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104015",
+              "numeric-id": 104015
+            }
+          },
+          "hash": "7856885080c92be620b613b096c2b9c15ce3a4bd",
           "property": "P20",
           "snaktype": "value"
         },
@@ -280,6 +343,23 @@
           },
           "hash": "d18e823937efb1bc112febb94d80145b7b2bdc1d",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q102901$C89F573F-CCF6-4F60-8628-58FA7AEA6954",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "rei de Castela"
+          },
+          "hash": "d3aacf5e458f519353e6fc037fe2b562e2fe83ce",
+          "property": "P54",
           "snaktype": "value"
         },
         "rank": "normal",

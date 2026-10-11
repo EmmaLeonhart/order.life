@@ -1,5 +1,26 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Urraca de Castilla y León"
+      },
+      {
+        "language": "en",
+        "value": "Urraca de León, reina titular de Zamora"
+      },
+      {
+        "language": "en",
+        "value": "Urraca  de Castilla y Leon"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Urraca  de Castilla y León"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
@@ -132,6 +153,40 @@
           },
           "hash": "e59c2e6f18a59c9e392683591ddd6ad8e61edd11",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q104005$5C4E89AE-27E5-4949-90AC-1E879DDB73EA",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Reina de Zamora"
+          },
+          "hash": "7a1f8d246b33df209a361e1dd9eb3745915c273f",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q104005$25CAD8D7-8731-47A1-90CC-A1271DD3D532",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007058569898"
+          },
+          "hash": "485b358b95e4bbeca0735a84834a7f927ae27d8d",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

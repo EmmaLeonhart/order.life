@@ -5233,3 +5233,13 @@ duplicates. `apply_icarius_unmerge.py` removed them from `Q73380` (relabelled An
 and gave `Q133344` its name, Wikidata id, sex and marriages. Simulated: the Seleucids lose nothing;
 Icarius's children go from 77 levels to 26, the false Seleucid descent removed, accepted on the
 2026-08-15 Lepidus precedent. The prince/king conflation inside `Q73380` is left.
+
+## 2026-10-10 — the two Ferdinand I records merged
+
+`Q102901` "Fernando I o Magno" (description "metropolitan area in the Netherlands") and `Q110956`
+Ferdinand I of León and Castile (wd Q296863) have the same parents and sons. Before the merge, the
+same wrong 12th-century Sancha `Q123443` was removed as his wife (`drop_claims.py`, a new
+shadow-aware tool for non-parent claims) and as mother of the three daughters on his copy
+(`cut_edges.py fernando-sancha`; she has no parents, so no depth lost). `merge_cluster.py fernando-i`
+then merged Ferdinand, Urraca (`Q104005` into Urraca of Zamora `Q111563`) and Elvira (`Q104009` into
+Elvira of Toro `Q111565`). Tigridia keeps her father and has no recorded mother. 15 files repointed.

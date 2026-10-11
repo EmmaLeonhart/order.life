@@ -934,6 +934,17 @@ CLUSTERS = {
     ],
     # queue.md item 16 (2026-10-10): both records carry wd Q319075 and the same wife Q78351;
     # Q99725 had recorded the man as his own father. Q78348 has the correctly signed birth.
+    # queue.md item 16 (2026-10-10): same parents (Q143499 / Q110540) and the same three sons.
+    # First: drop_claims.py Q102901:P42:Q123443 Q123443:P42:Q102901 --write (that Sancha is
+    # the 12th-century wife of Q118289, not Ferdinand's queen, who is Q110976).
+    "fernando-i": [
+        ("Q110956", "Q102901", "Ferdinand I of Leon and Castile -- same parents and sons; Q110956 "
+                               "carries wd Q296863"),
+        ("Q111563", "Q104005", "Urraca of Zamora -- daughter of Ferdinand I; Q111563 carries wd "
+                               "Q449527 (run cut_edges.py fernando-sancha first)"),
+        ("Q111565", "Q104009", "Elvira of Toro -- daughter of Ferdinand I; Q111565 carries wd "
+                               "Q4704980"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),
