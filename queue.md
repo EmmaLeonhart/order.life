@@ -377,12 +377,6 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-0b. **APPLY THE 749 BC SIGN FLIPS.** The proposal is done (2026-10-10,
-   `wikibase/analysis/bc_sign_proposed.md` and `.tsv`): of 11,223 one-date records with a
-   Wikidata id, 749 are BC on Wikidata with the same year. Flip the sign of that one date in
-   every shadow file, verify from disk, regenerate the extract. Leave the 59 MISMATCH and 33
-   NO_WD_DATE rows alone. (The inversion class was checked sound on 2026-08-05; nothing to revert.)
-
 1d. **CLOSE THE MERGE ENFORCEMENT GAP. The 894 stale references are repaired; the hole
    that produced them is still open, so they will come back.**
 

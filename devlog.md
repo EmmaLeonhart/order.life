@@ -5093,3 +5093,11 @@ Item 0f (Magadha/Kosala dedupe) held only the record of its five passes (177 dup
 non-negative date and a Wikidata id (the count the item predicted). 749 FLIP (BC on Wikidata, same
 year), 10,382 AD, 59 MISMATCH, 33 without a Wikidata date. Write-up in
 `wikibase/analysis/bc_sign_proposed.md`. Nothing applied; item 0b is now "apply the 749 flips".
+
+## 2026-10-10 — 749 BC dates given their minus sign (item 0b done)
+
+`wiki-scripts/apply_bc_signs.py` flipped the one date on each FLIP row of `bc_sign_proposed.tsv`
+(BC on Wikidata, same year): 1,014 dates in 1,014 files (records plus shadows), sign only, verified
+from disk, idempotent. The 59 mismatches and 33 records with no Wikidata date were left alone. Before
+this, the extract regenerated after the Q72786 unmerge passed `check_invariants.py` (0 tangles,
+children_over_2_parents 1196, 0 vacated refs).
