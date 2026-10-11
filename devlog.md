@@ -5314,3 +5314,23 @@ After the first pass and a fresh extract (invariants pass, children_over_2_paren
 finds only Picus and Minyas, which trip I4 through copy parents that have no corroborated twin. The
 corroborated passes are exhausted; the ~40 name-only pairs and those two moved to the DEDUPE backlog
 in `todo.md` for hand checks.
+
+## 2026-10-11 — import collisions found dump-wide: 17 identities restored, 11 stripped (item 17c)
+
+`wiki-scripts/detect_collisions.py` fetched Wikidata birth years for all 60,040 Wikidata ids (cached
+in `wd_birth_cache.json`) and listed records whose birth year is impossible against their dated
+family (`collision_candidates.tsv`: 851 COLLISION?, 1,985 EDGE?; most are imprecise ancient dates,
+not collisions). The unambiguous set, a birth year more than 300 years from every dated relative, is
+31 records, of which 3 are not collisions (Idris Ibn Abdallah and Nuno Alvites have bad Wikidata
+dates; Henry of Friemar's relatives are the odd ones out).
+
+For the other 28 the real identity was looked for on Wikidata: the parent their children share
+(and the child their parents list). Accepted when it scored at least 2, at least twice the runner-up,
+and matched the recorded sex: 17 restored with `fix_collided_identity.py`, among them Jehoshaphat
+("Kai A. Konrad"), Stephen Uroš I of Serbia (whose label was right but carried Kim Jong-un's id),
+Ivan Alexander of Bulgaria, Empress Yuan Qigui, Ralph IV of Valois, Siegfried of Ballenstedt,
+Alexander I of Scotland, Otto IV of Wittelsbach, Herman I of Winzenburg, Louis I of Blois, Irene
+Angelina, Berthold II of Andechs, Wilbrand I of Loccum-Hallermund, Alexander II of Epirus, Lulach,
+Folke jarl and Siegfried III of Weimar-Orlamünde. The other 11 had the wrong identity stripped and are
+labelled NN by their parents or first child, because the match was too weak (e.g. the child of Orhan
+and Nilüfer, very likely Murad I). Family claims untouched.

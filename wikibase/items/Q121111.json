@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Alexander I of Scotland"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -220,23 +213,6 @@
         "type": "statement"
       }
     ],
-    "P61": [
-      {
-        "id": "Q121111$3761FF30-88F3-4366-92B4-D4641E8D0191",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q4833"
-          },
-          "hash": "426733be99e5e66259e58f55d5f9d538dba50849",
-          "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P64": [
       {
         "id": "Q121111$AAA9C907-5B89-4D9E-B581-99E6E78771C4",
@@ -254,179 +230,32 @@
         "type": "statement"
       }
     ],
-    "P94": [
+    "P61": [
       {
-        "id": "Q121111$8E2622E6-E655-465A-86AA-FF818BAF1059",
         "mainsnak": {
-          "datatype": "commonsMedia",
+          "snaktype": "value",
+          "property": "P61",
           "datavalue": {
-            "type": "string",
-            "value": "Marcel Doret Arms.svg"
-          },
-          "hash": "8f0638c080f5b3cf67f8cae3be373f8a6fab9cf1",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q60843",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "ar": {
-      "language": "ar",
-      "value": "طيار فرنسي"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "aviador francés (1896–1955)"
-    },
-    "de": {
-      "language": "de",
-      "value": "französischer Pilot"
-    },
     "en": {
       "language": "en",
-      "value": "French aviator (1896–1955)"
-    },
-    "es": {
-      "language": "es",
-      "value": "aviador francés"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "aviateur français"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "eitleoir Francach"
-    },
-    "he": {
-      "language": "he",
-      "value": "טייס צרפתי"
-    },
-    "it": {
-      "language": "it",
-      "value": "aviatore e pilota acrobatico francese"
-    },
-    "ne": {
-      "language": "ne",
-      "value": "फ्रान्सेली हवाई चालक"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Frans piloot (1896-1955)"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "Французский авиатор"
-    },
-    "tr": {
-      "language": "tr",
-      "value": "Fransız pilot (1896-1955)"
-    },
-    "uk": {
-      "language": "uk",
-      "value": "французький авіатор"
+      "value": "King of the Scots (1078-1124) (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Marcel Doret over it)"
     }
   },
   "id": "Q121111",
   "labels": {
-    "an": {
-      "language": "an",
-      "value": "Marcel Doret"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "Marcel Doret"
-    },
-    "br": {
-      "language": "br",
-      "value": "Marcel Doret"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Marcel Doret"
-    },
-    "da": {
-      "language": "da",
-      "value": "Marcel Doret"
-    },
-    "de": {
-      "language": "de",
-      "value": "Marcel Doret"
-    },
     "en": {
       "language": "en",
-      "value": "Marcel Doret"
-    },
-    "es": {
-      "language": "es",
-      "value": "Marcel Doret"
-    },
-    "ext": {
-      "language": "ext",
-      "value": "Marcel Doret"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Marcel Doret"
-    },
-    "gl": {
-      "language": "gl",
-      "value": "Marcel Doret"
-    },
-    "hu": {
-      "language": "hu",
-      "value": "Marcel Doret"
-    },
-    "it": {
-      "language": "it",
-      "value": "Marcel Doret"
-    },
-    "mul": {
-      "language": "mul",
-      "value": "Marcel Doret"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Marcel Doret"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Marcel Doret"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "Marcel Doret"
-    },
-    "oc": {
-      "language": "oc",
-      "value": "Marcel Doret"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "Марсель Дорэ"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Marcel Doret"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Marcel Doret"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Marcel Doret"
-    },
-    "tr": {
-      "language": "tr",
-      "value": "Marcel Doret"
-    },
-    "uk": {
-      "language": "uk",
-      "value": "Марсель Доре"
+      "value": "Alexander I of Scotland"
     }
   },
   "lastrevid": 17534319,

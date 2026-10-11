@@ -1,20 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Kai A. Konrad"
-      },
-      {
-        "language": "en",
-        "value": "Jehoshaphat"
-      },
-      {
-        "language": "en",
-        "value": "Jehoshaphat  King of Judah"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -322,23 +307,6 @@
         "type": "statement"
       }
     ],
-    "P61": [
-      {
-        "id": "Q38182$164E79F8-F6BA-4C53-A44D-B07ED6578857",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q115029"
-          },
-          "hash": "fca02179e84812267965c291d81f651f6bab438c",
-          "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P64": [
       {
         "id": "Q38182$AC1AE38D-2ACE-4042-81C0-9E96DD0C5A33",
@@ -356,231 +324,32 @@
         "type": "statement"
       }
     ],
-    "P94": [
+    "P61": [
       {
-        "id": "Q38182$DE5B1C5E-850F-4543-B98B-DBB125A82FB5",
         "mainsnak": {
-          "datatype": "commonsMedia",
+          "snaktype": "value",
+          "property": "P61",
           "datavalue": {
-            "type": "string",
-            "value": "Kai A. Konrad Arms.svg"
-          },
-          "hash": "e100fa014a04c41361e464d4cc8c7afa4be7999e",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q126689",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "ar": {
-      "language": "ar",
-      "value": "عالم اقتصاد ألماني"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "economista alemán"
-    },
-    "bn": {
-      "language": "bn",
-      "value": "জার্মান অর্থনীতিবিদ"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "economista alemany"
-    },
-    "da": {
-      "language": "da",
-      "value": "tysk økonom"
-    },
-    "dag": {
-      "language": "dag",
-      "value": "Germany karimba ŋun nyɛ doo"
-    },
-    "de": {
-      "language": "de",
-      "value": "deutscher Wirtschaftswissenschaftler"
-    },
     "en": {
       "language": "en",
-      "value": "German economist"
-    },
-    "en-ca": {
-      "language": "en-ca",
-      "value": "German economist"
-    },
-    "en-gb": {
-      "language": "en-gb",
-      "value": "German economist"
-    },
-    "es": {
-      "language": "es",
-      "value": "economista alemán"
-    },
-    "et": {
-      "language": "et",
-      "value": "Saksamaa majandusteadlane"
-    },
-    "fa": {
-      "language": "fa",
-      "value": "اقتصاددان آلمانی"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "économiste allemand"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "eacnamaí Gearmánach"
-    },
-    "gl": {
-      "language": "gl",
-      "value": "economista alemán"
-    },
-    "he": {
-      "language": "he",
-      "value": "כלכלן גרמני"
-    },
-    "hr": {
-      "language": "hr",
-      "value": "njemački ekonomist"
-    },
-    "it": {
-      "language": "it",
-      "value": "economista tedesco"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "tysk økonom"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Duits econoom"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "tysk økonom"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "professor académico alemão"
-    },
-    "ro": {
-      "language": "ro",
-      "value": "economist german"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "ekonomist gjerman"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "tysk ekonom"
-    },
-    "uk": {
-      "language": "uk",
-      "value": "німецький економіст"
+      "value": "fourth king of the Kingdom of Judah (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Kai A. Konrad over it)"
     }
   },
   "id": "Q38182",
   "labels": {
-    "ar": {
-      "language": "ar",
-      "value": "كاي أ. كونراد"
-    },
-    "arz": {
-      "language": "arz",
-      "value": "كاى ا. كونراد"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "Kai A. Konrad"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Kai A. Konrad"
-    },
-    "da": {
-      "language": "da",
-      "value": "Kai A. Konrad"
-    },
-    "dag": {
-      "language": "dag",
-      "value": "Kai A. Konrad"
-    },
-    "de": {
-      "language": "de",
-      "value": "Kai A. Konrad"
-    },
     "en": {
       "language": "en",
-      "value": "Kai A. Konrad"
-    },
-    "es": {
-      "language": "es",
-      "value": "Kai A. Konrad"
-    },
-    "fi": {
-      "language": "fi",
-      "value": "Kai A. Konrad"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Kai A. Konrad"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "Kai A. Konrad"
-    },
-    "it": {
-      "language": "it",
-      "value": "Kai A. Konrad"
-    },
-    "mul": {
-      "language": "mul",
-      "value": "Kai A. Konrad"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Kai A. Konrad"
-    },
-    "nds": {
-      "language": "nds",
-      "value": "Kai A. Konrad"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Kai A. Konrad"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "Kai A. Konrad"
-    },
-    "oc": {
-      "language": "oc",
-      "value": "Kai A. Konrad"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "Kai A. Konrad"
-    },
-    "pt-br": {
-      "language": "pt-br",
-      "value": "Kai A. Konrad"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Kai A. Konrad"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Kai A. Konrad"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Kai A. Konrad"
+      "value": "Jehoshaphat"
     }
   },
   "lastrevid": 17440796,

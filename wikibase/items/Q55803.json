@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Ivan Alexander of Bulgaria //"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -156,23 +149,6 @@
         "type": "statement"
       }
     ],
-    "P61": [
-      {
-        "id": "Q55803$12544B3A-C843-4F86-9F6B-ECA7A1BEF1AA",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q110958"
-          },
-          "hash": "1b1a796005890d03efec669e1bc37c2b2d828801",
-          "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P64": [
       {
         "id": "Q55803$E48B4C50-5D62-42D9-889B-EC7614DAEE00",
@@ -190,219 +166,32 @@
         "type": "statement"
       }
     ],
-    "P94": [
+    "P61": [
       {
-        "id": "Q55803$2F0D27CC-D368-4607-80FB-8A7E913218C9",
         "mainsnak": {
-          "datatype": "commonsMedia",
+          "snaktype": "value",
+          "property": "P61",
           "datavalue": {
-            "type": "string",
-            "value": "Gertrud Prellwitz Arms.svg"
-          },
-          "hash": "62a5984f066136ca4c7010436ce48d7eeb0652e3",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q122610",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "an": {
-      "language": "an",
-      "value": "escritora alemana"
-    },
-    "ar": {
-      "language": "ar",
-      "value": "كاتبة ألمانية"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "escritora alemana"
-    },
-    "bn": {
-      "language": "bn",
-      "value": "জার্মান লেখিকা"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "escriptora alemanya"
-    },
-    "cs": {
-      "language": "cs",
-      "value": "německá spisovatelka"
-    },
-    "da": {
-      "language": "da",
-      "value": "tysk skribent"
-    },
-    "de": {
-      "language": "de",
-      "value": "deutsche Lehrerin und Schriftstellerin"
-    },
-    "dv": {
-      "language": "dv",
-      "value": "ލިޔުންތެރިއެއް"
-    },
     "en": {
       "language": "en",
-      "value": "German writer (1869–1942)"
-    },
-    "en-ca": {
-      "language": "en-ca",
-      "value": "German writer"
-    },
-    "en-gb": {
-      "language": "en-gb",
-      "value": "German writer"
-    },
-    "es": {
-      "language": "es",
-      "value": "escritora alemana"
-    },
-    "et": {
-      "language": "et",
-      "value": "Saksamaa kirjanik"
-    },
-    "eu": {
-      "language": "eu",
-      "value": "idazle alemaniarra"
-    },
-    "fa": {
-      "language": "fa",
-      "value": "نویسنده آلمانی"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "écrivaine allemande"
-    },
-    "gl": {
-      "language": "gl",
-      "value": "escritora alemá"
-    },
-    "he": {
-      "language": "he",
-      "value": "סופרת גרמנייה"
-    },
-    "it": {
-      "language": "it",
-      "value": "scrittrice tedesca"
-    },
-    "ml": {
-      "language": "ml",
-      "value": "ജര്മ്മനിയിലെ രചയിതാവ്"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Duits schrijfster (1869-1942)"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "tysk skribent"
-    },
-    "oc": {
-      "language": "oc",
-      "value": "escrivana alemanda"
-    },
-    "pl": {
-      "language": "pl",
-      "value": "pisarka"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "escritora alemã"
-    },
-    "ro": {
-      "language": "ro",
-      "value": "scriitoare germană"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "немецкая писательница"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "shkrimtare gjermane"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "tysk författare"
-    },
-    "uk": {
-      "language": "uk",
-      "value": "німецька письменниця"
+      "value": "Tsar of Bulgaria (r. 1331 to 1371) (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Gertrud Prellwitz over it)"
     }
   },
   "id": "Q55803",
   "labels": {
-    "ast": {
-      "language": "ast",
-      "value": "Gertrud Prellwitz"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Gertrud Prellwitz"
-    },
-    "cy": {
-      "language": "cy",
-      "value": "Gertrud Prellwitz"
-    },
-    "da": {
-      "language": "da",
-      "value": "Gertrud Prellwitz"
-    },
-    "de": {
-      "language": "de",
-      "value": "Gertrud Prellwitz"
-    },
     "en": {
       "language": "en",
-      "value": "Gertrud Prellwitz"
-    },
-    "es": {
-      "language": "es",
-      "value": "Gertrud Prellwitz"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Gertrud Prellwitz"
-    },
-    "it": {
-      "language": "it",
-      "value": "Gertrud Prellwitz"
-    },
-    "mul": {
-      "language": "mul",
-      "value": "Gertrud Prellwitz"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Gertrud Prellwitz"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Gertrud Prellwitz"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "Gertrud Prellwitz"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "Гертруда Преллвитц"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Gertrud Prellwitz"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Gertrud Prellwitz"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Gertrud Prellwitz"
+      "value": "Ivan Alexander of Bulgaria"
     }
   },
   "lastrevid": 17463978,

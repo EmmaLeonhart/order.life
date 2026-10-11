@@ -1,18 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Stephen Uros I of Serbia"
-      }
-    ],
-    "es": [
-      {
-        "language": "es",
-        "value": "Stephen Uroš I of Serbia //"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -266,241 +253,30 @@
     ],
     "P61": [
       {
-        "id": "Q49869$C070EAE7-190C-4DF2-9B06-8102152C1A44",
         "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q56255"
-          },
-          "hash": "cd31b0decf6d4a05adb4f859168836d2e2d92019",
+          "snaktype": "value",
           "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q49869$B88CA1E4-C9E6-4F13-8C62-FCB31DF9180E",
-        "mainsnak": {
-          "datatype": "external-id",
           "datavalue": {
-            "type": "string",
-            "value": "Q73810"
-          },
-          "hash": "ef998108d538e0ecf59b283ed261de1cfd8132aa",
-          "property": "P61",
-          "snaktype": "value"
+            "value": "Q73810",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q49869$0A6AEFA3-3CB0-40DF-AD8F-C8AAFFC2A961",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Stephen Uroš I of Serbia Arms.svg"
-          },
-          "hash": "bf73d8ef198a797f3f1a37e0f47861138ceb591c",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "cs": {
-      "language": "cs",
-      "value": "srbský král"
-    },
-    "de": {
-      "language": "de",
-      "value": "serbischer König (1243–1276)"
-    },
-    "el": {
-      "language": "el",
-      "value": "Βασιλιάς της Σερβίας"
-    },
     "en": {
       "language": "en",
-      "value": "Serbian king (1220-1277)"
-    },
-    "es": {
-      "language": "es",
-      "value": "Cuarto Rey del Reino de Serbia"
-    },
-    "hr": {
-      "language": "hr",
-      "value": "Srpski vladar, otac kraljeva"
-    },
-    "hu": {
-      "language": "hu",
-      "value": "szerb király"
-    },
-    "id": {
-      "language": "id",
-      "value": "raja Serbia dari 1243 hingga 1376"
-    },
-    "it": {
-      "language": "it",
-      "value": "re di Serbia (r. 1243-1276)"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "politicus uit Raška (staat) (1220-1277)"
-    },
-    "pl": {
-      "language": "pl",
-      "value": "król serbski"
-    },
-    "ro": {
-      "language": "ro",
-      "value": "rege al Serbiei"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "король Сербии"
-    },
-    "sr": {
-      "language": "sr",
-      "value": "краљ Србије (1243—76. )"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "regent"
+      "value": "Serbian king (1220-1277) (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Stephen Uroš I of Serbia over it)"
     }
   },
   "id": "Q49869",
   "labels": {
-    "ar": {
-      "language": "ar",
-      "value": "ستيفان أوروش الأول"
-    },
-    "be": {
-      "language": "be",
-      "value": "Стэфан Ураш I"
-    },
-    "bg": {
-      "language": "bg",
-      "value": "Стефан Урош I"
-    },
-    "bs": {
-      "language": "bs",
-      "value": "Stefan Uroš I, kralj Srbije"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Esteve Uroš I de Sèrbia"
-    },
-    "cs": {
-      "language": "cs",
-      "value": "Štěpán Uroš I."
-    },
-    "de": {
-      "language": "de",
-      "value": "Stefan Uroš I."
-    },
-    "el": {
-      "language": "el",
-      "value": "Στέφανος Ούρος Α΄"
-    },
     "en": {
       "language": "en",
       "value": "Stephen Uroš I of Serbia"
-    },
-    "es": {
-      "language": "es",
-      "value": "Esteban Uroš I de Serbia"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Stefan Uroš Ier"
-    },
-    "gl": {
-      "language": "gl",
-      "value": "Estevo Uroš I"
-    },
-    "he": {
-      "language": "he",
-      "value": "אורוש הראשון"
-    },
-    "hr": {
-      "language": "hr",
-      "value": "Stefan Uroš I."
-    },
-    "hu": {
-      "language": "hu",
-      "value": "I. István Uroš szerb király"
-    },
-    "id": {
-      "language": "id",
-      "value": "Stefan Uroš I dari Serbia"
-    },
-    "it": {
-      "language": "it",
-      "value": "Stefano Uroš I"
-    },
-    "ja": {
-      "language": "ja",
-      "value": "ステファン・ウロシュ1世"
-    },
-    "mk": {
-      "language": "mk",
-      "value": "Стефан Урош I"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Stefan Uroš I"
-    },
-    "pl": {
-      "language": "pl",
-      "value": "Stefan Urosz I"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "Estêvão Uroš I"
-    },
-    "pt-br": {
-      "language": "pt-br",
-      "value": "Estêvão Uroš I"
-    },
-    "ro": {
-      "language": "ro",
-      "value": "Ștefan Uroș I al Serbiei"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "Стефан Урош I"
-    },
-    "sh": {
-      "language": "sh",
-      "value": "Stefan Uroš I"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Štefan Uroš I."
-    },
-    "sr": {
-      "language": "sr",
-      "value": "Стефан Урош I"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Stefan Uroš I"
-    },
-    "uk": {
-      "language": "uk",
-      "value": "Стефан Урош I"
-    },
-    "zh": {
-      "language": "zh",
-      "value": "斯特凡·烏羅什一世"
     }
   },
   "lastrevid": 17455850,

@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Siegfried of Ballenstedt"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -239,23 +232,6 @@
         "type": "statement"
       }
     ],
-    "P61": [
-      {
-        "id": "Q120954$715CF9A6-08FF-4EBA-864D-052285A500FF",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q108720"
-          },
-          "hash": "139cb064a0be323d497417037d32708482f76faa",
-          "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P64": [
       {
         "id": "Q120954$A2D7CAF9-98D1-4984-81B0-E8273F8F1245",
@@ -273,111 +249,32 @@
         "type": "statement"
       }
     ],
-    "P94": [
+    "P61": [
       {
-        "id": "Q120954$A6DE9C30-3792-4935-BA64-CA80F699DD17",
         "mainsnak": {
-          "datatype": "commonsMedia",
+          "snaktype": "value",
+          "property": "P61",
           "datavalue": {
-            "type": "string",
-            "value": "Manfred Knodt Arms.svg"
-          },
-          "hash": "2dc8049d3add34bbcaa196256e7044b0ce22da06",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q120373",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "de": {
-      "language": "de",
-      "value": "deutscher evangelischer Geistlicher und Landeshistoriker"
-    },
     "en": {
       "language": "en",
-      "value": "German regional historian and historian (1920-1995)"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Duits regionaal historicus (1920-1995)"
-    },
-    "pl": {
-      "language": "pl",
-      "value": "niemiecki historyk i duchowny"
+      "value": "Count Palatine of the Rhineland (c. 1075–1113) (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Manfred Knodt over it)"
     }
   },
   "id": "Q120954",
   "labels": {
-    "ast": {
-      "language": "ast",
-      "value": "Manfred Knodt"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Manfred Knodt"
-    },
-    "da": {
-      "language": "da",
-      "value": "Manfred Knodt"
-    },
-    "de": {
-      "language": "de",
-      "value": "Manfred Knodt"
-    },
     "en": {
       "language": "en",
-      "value": "Manfred Knodt"
-    },
-    "es": {
-      "language": "es",
-      "value": "Manfred Knodt"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Manfred Knodt"
-    },
-    "it": {
-      "language": "it",
-      "value": "Manfred Knodt"
-    },
-    "mul": {
-      "language": "mul",
-      "value": "Manfred Knodt"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Manfred Knodt"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Manfred Knodt"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "Manfred Knodt"
-    },
-    "pl": {
-      "language": "pl",
-      "value": "Manfred Knodt"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "Манфред Кнодт"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Manfred Knodt"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Manfred Knodt"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Manfred Knodt"
+      "value": "Siegfried of Ballenstedt"
     }
   },
   "lastrevid": 17534161,

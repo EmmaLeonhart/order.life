@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Alexandros II of Epirus"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -215,23 +208,6 @@
         "type": "statement"
       }
     ],
-    "P61": [
-      {
-        "id": "Q135588$D1BDFAAD-F867-465D-9EE1-FE77F2993028",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q112687"
-          },
-          "hash": "4b42a4de776706450ed7a04ff94635a9628f5bae",
-          "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P64": [
       {
         "id": "Q135588$A09BEB40-E478-4A93-A34B-B18666589F93",
@@ -249,119 +225,32 @@
         "type": "statement"
       }
     ],
-    "P94": [
+    "P61": [
       {
-        "id": "Q135588$065012E0-10D1-49C3-ABAB-65FAC4A0932D",
         "mainsnak": {
-          "datatype": "commonsMedia",
+          "snaktype": "value",
+          "property": "P61",
           "datavalue": {
-            "type": "string",
-            "value": "Heinz Verbnjak Arms.svg"
-          },
-          "hash": "5da6d7a25809efe0dc99707269aadb9aed2bd86d",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q124346",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "arz": {
-      "language": "arz",
-      "value": "متسلق جبال تزلج من النمسا"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "esquiador de travesía austriacu"
-    },
-    "de": {
-      "language": "de",
-      "value": "österreichischer Skibergsteiger"
-    },
     "en": {
       "language": "en",
-      "value": "Austrian ski mountaineer"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "sléibhteoir sciála Ostarach"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "sporter uit Oostenrijk"
+      "value": "king of Epirus from 272 BC to 240 BC (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Heinz Verbnjak over it)"
     }
   },
   "id": "Q135588",
   "labels": {
-    "arz": {
-      "language": "arz",
-      "value": "هاينز فيربينجاك"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "Heinz Verbnjak"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Heinz Verbnjak"
-    },
-    "da": {
-      "language": "da",
-      "value": "Heinz Verbnjak"
-    },
-    "de": {
-      "language": "de",
-      "value": "Heinz Verbnjak"
-    },
     "en": {
       "language": "en",
-      "value": "Heinz Verbnjak"
-    },
-    "es": {
-      "language": "es",
-      "value": "Heinz Verbnjak"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Heinz Verbnjak"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "Heinz Verbnjak"
-    },
-    "mul": {
-      "language": "mul",
-      "value": "Heinz Verbnjak"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Heinz Verbnjak"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Heinz Verbnjak"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "Heinz Verbnjak"
-    },
-    "oc": {
-      "language": "oc",
-      "value": "Heinz Verbnjak"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Heinz Verbnjak"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Heinz Verbnjak"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Heinz Verbnjak"
+      "value": "Alexandros II of Epirus"
     }
   },
   "lastrevid": 17551815,

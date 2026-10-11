@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Berthold II, Count of Andechs"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -296,40 +289,6 @@
         "type": "statement"
       }
     ],
-    "P61": [
-      {
-        "id": "Q126664$F8CFF0BA-6790-4690-B346-42E4D415F24C",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q84882"
-          },
-          "hash": "1411a67cebc722a39d832a2c49e58bf2cf42bd14",
-          "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P62": [
-      {
-        "id": "Q126664$38827DED-26F9-491F-B328-44DA8DBCEF0E",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "6000000076741194104"
-          },
-          "hash": "b7bcccdba49973ef12a6f0fff26902725dbf7499",
-          "property": "P62",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P64": [
       {
         "id": "Q126664$D491CCDD-1F09-41D6-9B4A-4F22CD36AD3A",
@@ -347,227 +306,32 @@
         "type": "statement"
       }
     ],
-    "P94": [
+    "P61": [
       {
-        "id": "Q126664$19E7136B-45BA-4284-82D2-2B711D31E7B6",
         "mainsnak": {
-          "datatype": "commonsMedia",
+          "snaktype": "value",
+          "property": "P61",
           "datavalue": {
-            "type": "string",
-            "value": "Alexander von Krobatin Arms.svg"
-          },
-          "hash": "856884fa2ba1db84e9fb9a202dbe15e9c406ce03",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q96566",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "ar": {
-      "language": "ar",
-      "value": "تربوي نمساوي"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "pedagogu austriacu (1849–1933)"
-    },
-    "cs": {
-      "language": "cs",
-      "value": "rakouský maršál a politik"
-    },
-    "dag": {
-      "language": "dag",
-      "value": "Austrian siyaasa nira ŋun nyɛ doo"
-    },
-    "de": {
-      "language": "de",
-      "value": "österreichischer Feldmarschall und Kriegsminister"
-    },
     "en": {
       "language": "en",
-      "value": "Austrian-Hungarian General and Minister of War (1849-1933)"
-    },
-    "es": {
-      "language": "es",
-      "value": "pedagogo austríaco"
-    },
-    "fi": {
-      "language": "fi",
-      "value": "itävaltalainen sotamarsalkka"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "militaire autrichien"
-    },
-    "hu": {
-      "language": "hu",
-      "value": "(1849–1933) politikus, közös hadügyminiszter"
-    },
-    "it": {
-      "language": "it",
-      "value": "militare austriaco"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "militair uit Oostenrijk (1849-1933)"
-    },
-    "pl": {
-      "language": "pl",
-      "value": "austriacki polityk"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "австро-венгерский военачальник"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "österrikisk militär"
+      "value": "Count of Andechs, Dießen, Plassenburg and Kulmbach and Vogt of Benediktbeuern Abbey (1105–1151) (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Alexander von Krobatin over it)"
     }
   },
   "id": "Q126664",
   "labels": {
-    "arz": {
-      "language": "arz",
-      "value": "اليكساندر ڤون كروباتين"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "Alexander von Krobatin"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Alexander von Krobatin"
-    },
-    "cs": {
-      "language": "cs",
-      "value": "Alexander von Krobatin"
-    },
-    "da": {
-      "language": "da",
-      "value": "Alexander von Krobatin"
-    },
-    "de": {
-      "language": "de",
-      "value": "Alexander von Krobatin"
-    },
     "en": {
       "language": "en",
-      "value": "Alexander von Krobatin"
-    },
-    "es": {
-      "language": "es",
-      "value": "Alexander von Krobatin"
-    },
-    "fi": {
-      "language": "fi",
-      "value": "Alexander von Krobatin"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Alexander von Krobatin"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "Alexander von Krobatin"
-    },
-    "he": {
-      "language": "he",
-      "value": "אלכסנדר פון קרובטין"
-    },
-    "hr": {
-      "language": "hr",
-      "value": "Alexander von Krobatin"
-    },
-    "hu": {
-      "language": "hu",
-      "value": "Krobatin Sándor"
-    },
-    "it": {
-      "language": "it",
-      "value": "Alexander von Krobatin"
-    },
-    "mul": {
-      "language": "mul",
-      "value": "Alexander von Krobatin"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Alexander von Krobatin"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Alexander von Krobatin"
-    },
-    "oc": {
-      "language": "oc",
-      "value": "Alexander von Krobatin"
-    },
-    "pap": {
-      "language": "pap",
-      "value": "Alexander von Krobatin"
-    },
-    "pl": {
-      "language": "pl",
-      "value": "Alexander von Krobatin"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "Alexander von Krobatin"
-    },
-    "pt-br": {
-      "language": "pt-br",
-      "value": "Alexander von Krobatin"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "Александр фон Кробатин"
-    },
-    "sk": {
-      "language": "sk",
-      "value": "Alexander von Krobatin"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Alexander von Krobatin"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Alexander von Krobatin"
-    },
-    "sr": {
-      "language": "sr",
-      "value": "Александер фон Кробатин"
-    },
-    "sr-ec": {
-      "language": "sr-ec",
-      "value": "Александер фон Кробатин"
-    },
-    "sr-el": {
-      "language": "sr-el",
-      "value": "Aleksander fon Krobatin"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Alexander von Krobatin"
-    },
-    "uk": {
-      "language": "uk",
-      "value": "Александр фон Кробатін"
-    },
-    "zh": {
-      "language": "zh",
-      "value": "亞歷山大·馮·克羅巴廷"
-    },
-    "zh-cn": {
-      "language": "zh-cn",
-      "value": "亚历山大·冯·克罗巴廷"
-    },
-    "zh-hans": {
-      "language": "zh-hans",
-      "value": "亚历山大·冯·克罗巴廷"
+      "value": "Berthold II, Count of Andechs"
     }
   },
   "lastrevid": 17539764,

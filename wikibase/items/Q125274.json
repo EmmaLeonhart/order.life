@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Irene Angelina"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -258,199 +251,30 @@
     ],
     "P61": [
       {
-        "id": "Q125274$A2B419E9-054D-4600-862D-5AA0DB8E744A",
         "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q107778"
-          },
-          "hash": "ab8827297fb7490946627b7c68bb7228bff99927",
+          "snaktype": "value",
           "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P62": [
-      {
-        "id": "Q125274$8681DBA4-8393-4F97-9452-10F8E2E23C43",
-        "mainsnak": {
-          "datatype": "external-id",
           "datavalue": {
-            "type": "string",
-            "value": "338442956190014986"
-          },
-          "hash": "85c7eda2aa093fbb8a8997afc31d0cafc2f8b463",
-          "property": "P62",
-          "snaktype": "value"
+            "value": "Q119431",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q125274$9E73876B-219F-4346-ABDB-C63136AB2ADA",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Clärenore Stinnes Arms.svg"
-          },
-          "hash": "99473ed8c21254dc6b275f925746a1b5e6305076",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "ar": {
-      "language": "ar",
-      "value": "كاتبة ألمانية"
-    },
-    "arz": {
-      "language": "arz",
-      "value": "سائقه سياره سباق من المانيا"
-    },
-    "cy": {
-      "language": "cy",
-      "value": "cyfarwyddwr ffilm a aned ym Mülheim an der Ruhr yn 1901"
-    },
-    "de": {
-      "language": "de",
-      "value": "deutsche Rennfahrerin"
-    },
-    "dv": {
-      "language": "dv",
-      "value": "ލިޔުންތެރިއެއް"
-    },
     "en": {
       "language": "en",
-      "value": "German racing driver (1901–1990)"
-    },
-    "es": {
-      "language": "es",
-      "value": "pilota de automovilismo alemana"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "pilote de courses automobiles allemande (1901-1990)"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "tiománaí carr rásaíochta Gearmánach"
-    },
-    "gl": {
-      "language": "gl",
-      "value": "expedicionaria alemá, primeira muller en dar a volta ao mundo en coche"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Duits coureur"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "немецкая автогонщица и автопутешественница"
+      "value": "Byzantine queen (1180-1208) (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Clärenore Stinnes over it)"
     }
   },
   "id": "Q125274",
   "labels": {
-    "arz": {
-      "language": "arz",
-      "value": "كلارينور ستينز"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "Clärenore Stinnes"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Clärenore Stinnes"
-    },
-    "cs": {
-      "language": "cs",
-      "value": "Clara Eleonore Stinnes-Söderström"
-    },
-    "cy": {
-      "language": "cy",
-      "value": "Clärenore Stinnes"
-    },
-    "da": {
-      "language": "da",
-      "value": "Clärenore Stinnes"
-    },
-    "de": {
-      "language": "de",
-      "value": "Clärenore Stinnes"
-    },
     "en": {
       "language": "en",
-      "value": "Clärenore Stinnes"
-    },
-    "es": {
-      "language": "es",
-      "value": "Clärenore Stinnes"
-    },
-    "eu": {
-      "language": "eu",
-      "value": "Clärenore Stinnes"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Clärenore Stinnes"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "Clärenore Stinnes"
-    },
-    "gl": {
-      "language": "gl",
-      "value": "Clärenore Stinnes"
-    },
-    "it": {
-      "language": "it",
-      "value": "Clarenore Sitinnes"
-    },
-    "ja": {
-      "language": "ja",
-      "value": "クレレノーレ・シュティネス"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Clärenore Stinnes"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Clärenore Stinnes"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "Clärenore Stinnes"
-    },
-    "oc": {
-      "language": "oc",
-      "value": "Clärenore Stinnes"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "Клереноре Штиннес-Сёдерстрём"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Clärenore Stinnes"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Clärenore Stinnes"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Clärenore Stinnes"
+      "value": "Irene Angelina"
     }
   },
   "lastrevid": 17538390,

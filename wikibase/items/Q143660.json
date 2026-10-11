@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Siegfried III, Count of Weimar-Orlamünde"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -258,23 +251,6 @@
         "type": "statement"
       }
     ],
-    "P61": [
-      {
-        "id": "Q143660$512AC3E8-393C-4A6E-AA11-F86CB9B1588D",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q99496"
-          },
-          "hash": "b61266cee58311133ece33b2c1fe8532f8599a61",
-          "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P64": [
       {
         "id": "Q143660$3C58B25C-F364-468C-8A6D-AB6AA4AA4DD0",
@@ -292,159 +268,32 @@
         "type": "statement"
       }
     ],
-    "P94": [
+    "P61": [
       {
-        "id": "Q143660$F8B0AB27-A763-4972-A2D8-AAD4930853F0",
         "mainsnak": {
-          "datatype": "commonsMedia",
+          "snaktype": "value",
+          "property": "P61",
           "datavalue": {
-            "type": "string",
-            "value": "Helmut Deutsch Arms.svg"
-          },
-          "hash": "746a5c4cf70e4e1cf582544dc429ed61b9e82da6",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q111158",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "ar": {
-      "language": "ar",
-      "value": "عازف أورغن ألماني"
-    },
-    "cs": {
-      "language": "cs",
-      "value": "německý varhaník"
-    },
-    "da": {
-      "language": "da",
-      "value": "tysk professor"
-    },
-    "dag": {
-      "language": "dag",
-      "value": "Germany karimba ŋun nyɛ doo"
-    },
-    "de": {
-      "language": "de",
-      "value": "deutscher Organist"
-    },
     "en": {
       "language": "en",
-      "value": "German organist"
-    },
-    "en-ca": {
-      "language": "en-ca",
-      "value": "German organist"
-    },
-    "en-gb": {
-      "language": "en-gb",
-      "value": "German organist"
-    },
-    "es": {
-      "language": "es",
-      "value": "organista alemán"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "orgánaí Gearmánach"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Duits organist"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "professor académico alemão"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "tysk professor"
+      "value": "Count of Weimar Orlamünde (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Helmut Deutsch over it)"
     }
   },
   "id": "Q143660",
   "labels": {
-    "ast": {
-      "language": "ast",
-      "value": "Helmut Deutsch"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Helmut Deutsch"
-    },
-    "cs": {
-      "language": "cs",
-      "value": "Helmut Deutsch"
-    },
-    "da": {
-      "language": "da",
-      "value": "Helmut Deutsch"
-    },
-    "dag": {
-      "language": "dag",
-      "value": "Helmut Deutsch"
-    },
-    "de": {
-      "language": "de",
-      "value": "Helmut Deutsch"
-    },
     "en": {
       "language": "en",
-      "value": "Helmut Deutsch"
-    },
-    "es": {
-      "language": "es",
-      "value": "Helmut Deutsch"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Helmut Deutsch"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "Helmut Deutsch"
-    },
-    "mul": {
-      "language": "mul",
-      "value": "Helmut Deutsch"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Helmut Deutsch"
-    },
-    "nds": {
-      "language": "nds",
-      "value": "Helmut Deutsch"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Helmut Deutsch"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "Helmut Deutsch"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "Helmut Deutsch"
-    },
-    "pt-br": {
-      "language": "pt-br",
-      "value": "Helmut Deutsch"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Helmut Deutsch"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Helmut Deutsch"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Helmut Deutsch"
+      "value": "Siegfried III, Count of Weimar-Orlamünde"
     }
   },
   "lastrevid": 17565238,

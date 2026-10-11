@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Empress Yuan Qigui"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -199,23 +192,6 @@
         "type": "statement"
       }
     ],
-    "P61": [
-      {
-        "id": "Q75362$90277F1C-7BE3-4FDB-ADDF-2BAF85478110",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q103862"
-          },
-          "hash": "d4050aa8d75535c2becbf69bc90f7365d2a59a9e",
-          "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P64": [
       {
         "id": "Q75362$20452C8D-A4F1-499E-8790-12E27401CF1E",
@@ -233,167 +209,32 @@
         "type": "statement"
       }
     ],
-    "P94": [
+    "P61": [
       {
-        "id": "Q75362$30E23CE6-558E-4352-980D-61173E3BB78B",
         "mainsnak": {
-          "datatype": "commonsMedia",
+          "snaktype": "value",
+          "property": "P61",
           "datavalue": {
-            "type": "string",
-            "value": "Harald Feller Arms.svg"
-          },
-          "hash": "a166faacfd220054b76587f60ae8c0f4d50a9695",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q115521",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "cy": {
-      "language": "cy",
-      "value": "cyfansoddwr a aned yn 1951"
-    },
-    "de": {
-      "language": "de",
-      "value": "deutscher Organist, Komponist und Arrangeur"
-    },
     "en": {
       "language": "en",
-      "value": "German organist, choral conductor, composer and academic"
-    },
-    "fat": {
-      "language": "fat",
-      "value": "German ndwomtonyi"
-    },
-    "ja": {
-      "language": "ja",
-      "value": "南朝宋の文帝劉義隆の皇后"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Duits componist"
+      "value": "Chinese Empress (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Harald Feller over it)"
     }
   },
   "id": "Q75362",
   "labels": {
-    "arz": {
-      "language": "arz",
-      "value": "هارالد فيلير"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "Harald Feller"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Harald Feller"
-    },
-    "da": {
-      "language": "da",
-      "value": "Harald Feller"
-    },
-    "de": {
-      "language": "de",
-      "value": "Harald Feller"
-    },
     "en": {
       "language": "en",
-      "value": "Harald Feller"
-    },
-    "es": {
-      "language": "es",
-      "value": "Harald Feller"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Harald Feller"
-    },
-    "id": {
-      "language": "id",
-      "value": "Permaisuri Yuan Qigui"
-    },
-    "it": {
-      "language": "it",
-      "value": "Harald Feller"
-    },
-    "ja": {
-      "language": "ja",
-      "value": "袁斉嬀"
-    },
-    "mul": {
-      "language": "mul",
-      "value": "Harald Feller"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Harald Feller"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Harald Feller"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "Harald Feller"
-    },
-    "oc": {
-      "language": "oc",
-      "value": "Harald Feller"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "Юань Цигуй"
-    },
-    "sh": {
-      "language": "sh",
-      "value": "Carica Yuan Qigui"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Harald Feller"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Harald Feller"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Harald Feller"
-    },
-    "vi": {
-      "language": "vi",
-      "value": "Viên Tề Quy"
-    },
-    "zh": {
-      "language": "zh",
-      "value": "袁齊媯"
-    },
-    "zh-cn": {
-      "language": "zh-cn",
-      "value": "袁齐妫"
-    },
-    "zh-hans": {
-      "language": "zh-hans",
-      "value": "袁齐妫"
-    },
-    "zh-hant": {
-      "language": "zh-hant",
-      "value": "袁齊媯"
-    },
-    "zh-hk": {
-      "language": "zh-hk",
-      "value": "袁齊媯"
-    },
-    "zh-sg": {
-      "language": "zh-sg",
-      "value": "袁齐妫"
-    },
-    "zh-tw": {
-      "language": "zh-tw",
-      "value": "袁齊媯"
+      "value": "Empress Yuan Qigui"
     }
   },
   "lastrevid": 17488566,

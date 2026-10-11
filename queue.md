@@ -377,11 +377,12 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-17c. **FIND THE OTHER IMPORT-COLLIDED RECORDS (2026-10-10).** The 2026-04-15 Wikibase fill wrote
-   modern people's labels and ids over mythic records (`Q130001` and seven of Mnemosyne's family so
-   far). Detect the rest: a record whose parents or children are mythic or ancient while its
-   Wikidata id is a person born after 1500. Fix each with `fix_collided_identity.py`, identifying it
-   from its edges; label NN where the edges do not decide.
+17c. **THE REST OF THE IMPORT COLLISIONS (2026-10-11).** The unambiguous 28 are fixed (17
+   restored, 11 stripped to NN; devlog). Left: (1) the 11 NN records, each worth a look on Wikidata
+   from its relatives (the child of Orhan and Nilüfer is very likely Murad I); (2) Idris Ibn Abdallah
+   `Q108514`, Nuno Alvites `Q112775` and Henry of Friemar `Q78454`, flagged for other reasons;
+   (3) `collision_candidates.tsv`: 851 COLLISION? and 1,985 EDGE? rows, mostly imprecise ancient
+   dates but with real collisions and false edges among them. Work from the top.
 
 ## AWAITING EMMA — reports written, decisions open
 

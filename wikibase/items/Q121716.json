@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Otto IV, Count of Wittelsbach"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -298,178 +291,30 @@
     ],
     "P61": [
       {
-        "id": "Q121716$58F9A60F-E6F4-4A65-9FBB-5CB2FE2FEB93",
         "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q50609"
-          },
-          "hash": "15edb0f653cf8d521c39977122310cf3c6ada00e",
+          "snaktype": "value",
           "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q121716$028BB9A6-64A6-42DB-B66C-8431B2E71AD3",
-        "mainsnak": {
-          "datatype": "commonsMedia",
           "datavalue": {
-            "type": "string",
-            "value": "Bong Jung-keun Arms.svg"
-          },
-          "hash": "fe441cb8d896ffe5dff16f72f0e6e6c3fde100c4",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q69620",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "ar": {
-      "language": "ar",
-      "value": "لاعب كرة قاعدة كوري جنوبي"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "xugador de béisbol surcoreanu"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "jugador de beisbol sud-coreà"
-    },
-    "de": {
-      "language": "de",
-      "value": "koreanischer Baseballspieler"
-    },
     "en": {
       "language": "en",
-      "value": "South Korean baseball player"
-    },
-    "es": {
-      "language": "es",
-      "value": "jugador sudcoreano de béisbol"
-    },
-    "eu": {
-      "language": "eu",
-      "value": "beisbol jokalari korearra"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "joueur coréen de baseball"
-    },
-    "gl": {
-      "language": "gl",
-      "value": "beisbolista surcoreano"
-    },
-    "it": {
-      "language": "it",
-      "value": "giocatore di baseball sudcoreano"
-    },
-    "ko": {
-      "language": "ko",
-      "value": "대한민국의 야구 선수"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "honkballer uit Zuid-Korea"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "jogador de beisebol sul-coreano"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "корейский бейсболист"
-    },
-    "uk": {
-      "language": "uk",
-      "value": "південнокорейський бейсболіст"
-    },
-    "zh": {
-      "language": "zh",
-      "value": "韓國棒球運動員"
-    },
-    "zh-hans": {
-      "language": "zh-hans",
-      "value": "韩国棒球运动员"
-    },
-    "zh-hant": {
-      "language": "zh-hant",
-      "value": "韓國棒球運動員"
+      "value": "Count Palatine of Bavaria (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Bong Jung-keun over it)"
     }
   },
   "id": "Q121716",
   "labels": {
-    "arz": {
-      "language": "arz",
-      "value": "بونج چونج كيون"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "Bong Jung-keun"
-    },
-    "de": {
-      "language": "de",
-      "value": "Bong Jung-keun"
-    },
     "en": {
       "language": "en",
-      "value": "Bong Jung-keun"
-    },
-    "es": {
-      "language": "es",
-      "value": "Bong Jung-keun"
-    },
-    "fa": {
-      "language": "fa",
-      "value": "جونگ بونگ"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Bong Jung-keun"
-    },
-    "it": {
-      "language": "it",
-      "value": "Bong Jung-keun"
-    },
-    "ja": {
-      "language": "ja",
-      "value": "奉重根"
-    },
-    "ko": {
-      "language": "ko",
-      "value": "봉중근"
-    },
-    "ms": {
-      "language": "ms",
-      "value": "Bong Jung-keun"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Bong Jung-keun"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Bong Jung-keun"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Bong Jung-keun"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Bong Jung-keun"
-    },
-    "zh": {
-      "language": "zh",
-      "value": "奉重根"
+      "value": "Otto IV, Count of Wittelsbach"
     }
   },
   "lastrevid": 17534908,

@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Raoul IV of Vexin"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -277,23 +270,6 @@
         "type": "statement"
       }
     ],
-    "P61": [
-      {
-        "id": "Q120440$78F0DE60-7A4A-4239-9A7B-00D8665EE7BE",
-        "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q108369"
-          },
-          "hash": "de30abaf1d8a1487ed0e91bef72afc894aea4b4e",
-          "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
     "P64": [
       {
         "id": "Q120440$60346CE2-056F-478F-AA81-C26393FA04C2",
@@ -311,119 +287,32 @@
         "type": "statement"
       }
     ],
-    "P94": [
+    "P61": [
       {
-        "id": "Q120440$0BFF163D-A1DB-4162-8E40-0CD7F9BFCEA5",
         "mainsnak": {
-          "datatype": "commonsMedia",
+          "snaktype": "value",
+          "property": "P61",
           "datavalue": {
-            "type": "string",
-            "value": "Kathrin Becker Arms.svg"
-          },
-          "hash": "9fc2aea4c5a3b800a1989b54bbafb80d77ee3f1f",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q120023",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "ast": {
-      "language": "ast",
-      "value": "conservadora de muséu alemana"
-    },
-    "de": {
-      "language": "de",
-      "value": "deutsche Kuratorin"
-    },
     "en": {
       "language": "en",
-      "value": "German curator"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Duits conservatrice"
+      "value": "Count of Valois (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Kathrin Becker over it)"
     }
   },
   "id": "Q120440",
   "labels": {
-    "ar": {
-      "language": "ar",
-      "value": "كاثرين بيكر"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "Kathrin Becker"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Kathrin Becker"
-    },
-    "da": {
-      "language": "da",
-      "value": "Kathrin Becker"
-    },
-    "de": {
-      "language": "de",
-      "value": "Kathrin Becker"
-    },
     "en": {
       "language": "en",
-      "value": "Kathrin Becker"
-    },
-    "es": {
-      "language": "es",
-      "value": "Kathrin Becker"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Kathrin Becker"
-    },
-    "it": {
-      "language": "it",
-      "value": "Kathrin Becker"
-    },
-    "mul": {
-      "language": "mul",
-      "value": "Kathrin Becker"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Kathrin Becker"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Kathrin Becker"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "Kathrin Becker"
-    },
-    "oc": {
-      "language": "oc",
-      "value": "Kathrin Becker"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "Kathrin Becker"
-    },
-    "pt-br": {
-      "language": "pt-br",
-      "value": "Kathrin Becker"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Kathrin Becker"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Kathrin Becker"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Kathrin Becker"
+      "value": "Ralph IV of Valois"
     }
   },
   "lastrevid": 17533643,

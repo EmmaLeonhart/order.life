@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Wilbrand I van Loccum-Hallermund"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -180,142 +173,30 @@
     ],
     "P61": [
       {
-        "id": "Q128467$8808CD8E-B294-4139-AE9F-E58FBAA4518C",
         "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q98617"
-          },
-          "hash": "d3a4d207da3671cbd6c7338d444d48eb3bc86f7e",
+          "snaktype": "value",
           "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q128467$08BA1F1B-1BDC-4102-8580-83B18ABE8CC9",
-        "mainsnak": {
-          "datatype": "commonsMedia",
           "datavalue": {
-            "type": "string",
-            "value": "Dieter Schlüter Arms.svg"
-          },
-          "hash": "db89f0085c4225813f142fba4d9c4231c1e07e0b",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q110277",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "de": {
-      "language": "de",
-      "value": "deutscher Ingenieur"
-    },
     "en": {
       "language": "en",
-      "value": "German engineer and entrepreneur (1931–2021)"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "ingénieur allemand"
-    },
-    "it": {
-      "language": "it",
-      "value": "ingegnere e imprenditore tedesco"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Duits ingenieur"
+      "value": " (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Dieter Schlüter over it)"
     }
   },
   "id": "Q128467",
   "labels": {
-    "ar": {
-      "language": "ar",
-      "value": "ديتر شلوتر"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "Dieter Schlüter"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Dieter Schlüter"
-    },
-    "da": {
-      "language": "da",
-      "value": "Dieter Schlüter"
-    },
-    "de": {
-      "language": "de",
-      "value": "Dieter Schlüter"
-    },
     "en": {
       "language": "en",
-      "value": "Dieter Schlüter"
-    },
-    "es": {
-      "language": "es",
-      "value": "Dieter Schlüter"
-    },
-    "fi": {
-      "language": "fi",
-      "value": "Dieter Schlüter"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Dieter Schlüter"
-    },
-    "it": {
-      "language": "it",
-      "value": "Dieter Schlüter"
-    },
-    "ja": {
-      "language": "ja",
-      "value": "ディータル・シュルーター"
-    },
-    "mg": {
-      "language": "mg",
-      "value": "Dieter Schlüter"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Dieter Schlüter"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Dieter Schlüter"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "Dieter Schlüter"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "Dieter Schlüter"
-    },
-    "pt-br": {
-      "language": "pt-br",
-      "value": "Dieter Schlüter"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Dieter Schlüter"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Dieter Schluter"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Dieter Schlüter"
+      "value": "Wilbrand I van Loccum-Hallermund"
     }
   },
   "lastrevid": 17541505,

@@ -1,12 +1,5 @@
 {
-  "aliases": {
-    "en": [
-      {
-        "language": "en",
-        "value": "Lulach"
-      }
-    ]
-  },
+  "aliases": {},
   "claims": {
     "P20": [
       {
@@ -222,262 +215,30 @@
     ],
     "P61": [
       {
-        "id": "Q141078$28A3AFAB-9A99-403C-B964-2285632A359B",
         "mainsnak": {
-          "datatype": "external-id",
-          "datavalue": {
-            "type": "string",
-            "value": "Q105979"
-          },
-          "hash": "c69b55455c9210a9eced099636cf3331a31bacdc",
+          "snaktype": "value",
           "property": "P61",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
-    ],
-    "P94": [
-      {
-        "id": "Q141078$B5C6BDC9-F456-4E30-8912-C4C24F94D51A",
-        "mainsnak": {
-          "datatype": "commonsMedia",
           "datavalue": {
-            "type": "string",
-            "value": "Gudrun Gut Arms.svg"
-          },
-          "hash": "724b969d90bf01ecaae68829bbf890f243b8b6d2",
-          "property": "P94",
-          "snaktype": "value"
+            "value": "Q117633",
+            "type": "string"
+          }
         },
-        "rank": "normal",
-        "type": "statement"
+        "type": "statement",
+        "rank": "normal"
       }
     ]
   },
   "descriptions": {
-    "ar": {
-      "language": "ar",
-      "value": "موسيقية ألمانية"
-    },
-    "arz": {
-      "language": "arz",
-      "value": "موسيقيه من المانيا"
-    },
-    "bn": {
-      "language": "bn",
-      "value": "জার্মান সুরকার"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "músic alemanya"
-    },
-    "de": {
-      "language": "de",
-      "value": "deutsche Musikerin, DJ, Moderatorin und Produzentin"
-    },
     "en": {
       "language": "en",
-      "value": "German musician"
-    },
-    "en-ca": {
-      "language": "en-ca",
-      "value": "German musician"
-    },
-    "en-gb": {
-      "language": "en-gb",
-      "value": "German musician"
-    },
-    "es": {
-      "language": "es",
-      "value": "música alemana"
-    },
-    "et": {
-      "language": "et",
-      "value": "Saksamaa muusik"
-    },
-    "fa": {
-      "language": "fa",
-      "value": "تهیهکننده موسیقی آلمانی"
-    },
-    "fat": {
-      "language": "fat",
-      "value": "German ndwomtonyi"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "musicienne allemande"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "ceoltóir Gearmánach"
-    },
-    "gl": {
-      "language": "gl",
-      "value": "música alemá"
-    },
-    "he": {
-      "language": "he",
-      "value": "מוזיקאית גרמנייה"
-    },
-    "hr": {
-      "language": "hr",
-      "value": "njemačka glazbenica"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "tysk musiker"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Duits muziekproducente"
-    },
-    "ro": {
-      "language": "ro",
-      "value": "muziciană germană"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "muzikante gjermane"
-    },
-    "tw": {
-      "language": "tw",
-      "value": "German ndwomtoni"
+      "value": "Scottish king (1030-1058) (identity restored 2026-10-10 from its relatives on Wikidata; an import had written that of Gudrun Gut over it)"
     }
   },
   "id": "Q141078",
   "labels": {
-    "arz": {
-      "language": "arz",
-      "value": "جودرون جوت"
-    },
-    "ast": {
-      "language": "ast",
-      "value": "Gudrun Gut"
-    },
-    "br": {
-      "language": "br",
-      "value": "Gudrun Gut"
-    },
-    "ca": {
-      "language": "ca",
-      "value": "Gudrun Gut"
-    },
-    "cs": {
-      "language": "cs",
-      "value": "Gudrun Gut"
-    },
-    "da": {
-      "language": "da",
-      "value": "Gudrun Gut"
-    },
-    "de": {
-      "language": "de",
-      "value": "Gudrun Gut"
-    },
     "en": {
       "language": "en",
-      "value": "Gudrun Gut"
-    },
-    "es": {
-      "language": "es",
-      "value": "Gudrun Gut"
-    },
-    "et": {
-      "language": "et",
-      "value": "Gudrun Gut"
-    },
-    "fi": {
-      "language": "fi",
-      "value": "Gudrun Gut"
-    },
-    "fr": {
-      "language": "fr",
-      "value": "Gudrun Gut"
-    },
-    "ga": {
-      "language": "ga",
-      "value": "Gudrun Gut"
-    },
-    "hu": {
-      "language": "hu",
-      "value": "Gudrun Gut"
-    },
-    "is": {
-      "language": "is",
-      "value": "Gudrun Gut"
-    },
-    "it": {
-      "language": "it",
-      "value": "Gudrun Gut"
-    },
-    "ja": {
-      "language": "ja",
-      "value": "グートルン・グート"
-    },
-    "nb": {
-      "language": "nb",
-      "value": "Gudrun Gut"
-    },
-    "nl": {
-      "language": "nl",
-      "value": "Gudrun Gut"
-    },
-    "nn": {
-      "language": "nn",
-      "value": "Gudrun Gut"
-    },
-    "oc": {
-      "language": "oc",
-      "value": "Gudrun Gut"
-    },
-    "pl": {
-      "language": "pl",
-      "value": "Gudrun Gut"
-    },
-    "pt": {
-      "language": "pt",
-      "value": "Gudrun Gut"
-    },
-    "ro": {
-      "language": "ro",
-      "value": "Gudrun Gut"
-    },
-    "ru": {
-      "language": "ru",
-      "value": "Гудрун Гут"
-    },
-    "sk": {
-      "language": "sk",
-      "value": "Gudrun Gut"
-    },
-    "sl": {
-      "language": "sl",
-      "value": "Gudrun Gut"
-    },
-    "sq": {
-      "language": "sq",
-      "value": "Gudrun Gut"
-    },
-    "sv": {
-      "language": "sv",
-      "value": "Gudrun Gut"
-    },
-    "th": {
-      "language": "th",
-      "value": "กูดรุน กัต"
-    },
-    "tr": {
-      "language": "tr",
-      "value": "Gudrun Gut"
-    },
-    "zh": {
-      "language": "zh",
-      "value": "古德伦·古特"
-    },
-    "zh-hant": {
-      "language": "zh-hant",
-      "value": "古德倫·古特"
+      "value": "Lulach"
     }
   },
   "lastrevid": 17560719,
