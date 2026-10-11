@@ -5430,3 +5430,11 @@ records (they swap a mother and a spouse: a tangle, not a copy). Of 11 left, 4 t
 duplicated parents (Andregoto Galíndez, Béatrice de Mâcon, Beatrice of Lorraine, Maria di
 Sorrento). Merged (`dedupe-batch-3`): Capys, Themiste, Zhong Nu, Plectrude, Frederuna, Ermengarde
 d'Auvergne, Alfonso Téllez I de Meneses; 59 files repointed.
+
+## 2026-10-11 — DEDUPE backlog, batch 4: five merged
+
+Batch 3's four I4 cases, duplicated parents first. Merged (`dedupe-batch-4`): Aubry II of Mâcon
+(copy "Alberic II"), Gerard, Duke of Lorraine, Guy, Duke of Sorrento, then Béatrice de Mâcon and Maria
+di Sorrento; 39 files repointed. Two parent merges tripped I4 again one level up (Sancha Garcés of
+Pamplona, and Hedwige de Namur with her nameless copy), so Andregoto Galíndez and Beatrice of Lorraine
+wait for their grandparents.

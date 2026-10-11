@@ -1031,6 +1031,14 @@ CLUSTERS = {
         ("Q114139", "Q205529", "Ermengarde d'Auvergne -- same name, shared parent or spouse, no conflicting Wikidata id"),
         ("Q118363", "Q106710", "Alfonso Téllez I de Meneses -- same name, shared parent or spouse, no conflicting Wikidata id"),
     ],
+    # DEDUPE batch 4 (2026-10-11): batch 3's four I4 cases, duplicated parents first.
+    "dedupe-batch-4": [
+        ("Q112598", "Q206973", "Aubry II of Macon -- 'Alberic II' is the same name, same wife and daughter"),
+        ("Q114453", "Q206824", "Gerard, Duke of Lorraine -- copy ('Gerard IV, duke of Upper Lorraine'), same daughter"),
+        ("Q123359", "Q208229", "Guy, Duke of Sorrento -- copy ('Guido di Salerno duca di Sorrento'), same daughter"),
+        ("Q112602", "Q206731", "Beatrice de Macon -- same parents once Aubry is merged"),
+        ("Q120285", "Q206929", "Maria di Sorrento -- same father once Guy is merged"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),

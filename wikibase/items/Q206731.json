@@ -1,7 +1,52 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Beatrice de Macon"
+      }
+    ]
+  },
   "claims": {
     "P20": [
+      {
+        "id": "Q112602$31E5C7D7-95E3-427E-8F51-1C414CF89667",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114195",
+              "numeric-id": 114195
+            }
+          },
+          "hash": "2e8a714b240063a79d3d19533c81dc1bdfc60591",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112602$95148517-8EB6-41F6-B1F3-AB99EF5594BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114197",
+              "numeric-id": 114197
+            }
+          },
+          "hash": "50f0c54a766e1083f6a7375b7f6be5b91279fe55",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q206731$F51B90D7-66EC-F3B5-42E6-9D20217829E2",
         "mainsnak": {
@@ -15,25 +60,6 @@
             }
           },
           "hash": "d3eda6140c11bb0e50e63ed6284e533743f7cc2d",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      },
-      {
-        "id": "Q206731$24E304F2-BFDD-CE31-4258-BCF039C3160D",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q114197",
-              "numeric-id": 114197
-            }
-          },
-          "hash": "50f0c54a766e1083f6a7375b7f6be5b91279fe55",
           "property": "P20",
           "snaktype": "value"
         },
@@ -62,7 +88,7 @@
     ],
     "P39": [
       {
-        "id": "Q206731$64A07F81-E297-4B56-B93B-9726A3FD7C6A",
+        "id": "Q112602$1FEA4C08-69BF-4FB9-A0A5-F6855911C088",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -81,7 +107,7 @@
         "type": "statement"
       },
       {
-        "id": "Q206731$47B521E5-6DD2-4EBC-BA17-10754D75B537",
+        "id": "Q112602$07515ACF-8019-4CE2-9529-604B931A6443",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -101,6 +127,44 @@
       }
     ],
     "P42": [
+      {
+        "id": "Q112602$2ED149A9-654B-40D4-90B5-FFCFDF89DDC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114191",
+              "numeric-id": 114191
+            }
+          },
+          "hash": "09ceef29dd3a59e4dd6ac1e51510528e77bf8625",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112602$5D23E2C0-6624-45A7-A84D-A006A53EE20D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114193",
+              "numeric-id": 114193
+            }
+          },
+          "hash": "06a3edccfc79881df50df6709e05483dcd73aab1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
       {
         "id": "Q206731$B1B7594D-91CF-BC8A-D2A4-5D7D99B66026",
         "mainsnak": {
@@ -142,18 +206,18 @@
     ],
     "P47": [
       {
-        "id": "Q206731$5093829F-4878-C9E0-91FC-49ACC386BED9",
+        "id": "Q112602$AABC1156-44AB-45ED-A0C8-9C907C57B640",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q206973",
-              "numeric-id": 206973
+              "id": "Q112598",
+              "numeric-id": 112598
             }
           },
-          "hash": "259ef58b3bef5aefb9a16ae6b127241605d7d258",
+          "hash": "33ce1dd05b4212169263e391838b5489e5c0ed85",
           "property": "P47",
           "snaktype": "value"
         },
@@ -163,7 +227,7 @@
     ],
     "P48": [
       {
-        "id": "Q206731$5686AFA5-D8F2-35D8-76A6-FA4D3FEFFE89",
+        "id": "Q112602$4D116D71-CB7B-4B19-8E60-DFF7DD323F7A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -184,7 +248,7 @@
     ],
     "P55": [
       {
-        "id": "Q206731$15D32B62-D119-1B97-DA2C-EF7E8C39B425",
+        "id": "Q112602$1D89A0DF-93CD-4202-8ED6-6E2453836A3F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -197,6 +261,40 @@
           },
           "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q112602$F226441A-6559-4F65-8C04-1E65F20C90B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2929506"
+          },
+          "hash": "8de887fb66d72c933470ca26a50c80fffada7db1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q112602$C359CE4C-372B-40DF-8D77-C029F49D1DD0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Béatrice de Mâcon Arms.svg"
+          },
+          "hash": "507966ed2afdc3621966258077b5c9c05a133e3b",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -219,42 +317,58 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q206731$D347A53C-75BE-485D-BB9A-3DCEFA961696",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Beatrice de Macon Arms.svg"
-          },
-          "hash": "8145edca17e94a2bec9d56ff8dc249f6e1f23b8f",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q206731",
-  "labels": {
+  "descriptions": {
     "en": {
       "language": "en",
-      "value": "Beatrice de Macon"
+      "value": "970-1028"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Comtesse de Macon"
+    }
+  },
+  "id": "Q112602",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Béatrice de Mâcon"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βεατρίκη του Μακόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Béatrice de Mâcon"
     },
     "es": {
       "language": "es",
       "value": "Béatrice de Mâcon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Béatrice de Mâcon"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ベアトリス・ド・マコン (1030年以降没)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Béatrice de Mâcon"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Беатрис де Макон"
     }
   },
-  "lastrevid": 17609590,
-  "modified": "2025-09-17T23:51:56Z",
+  "lastrevid": 17524311,
+  "modified": "2025-09-17T03:59:16Z",
   "ns": 860,
-  "pageid": 217944,
+  "pageid": 134486,
   "sitelinks": {},
-  "title": "Item:Q206731",
+  "title": "Item:Q112602",
   "type": "item"
 }

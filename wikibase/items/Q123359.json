@@ -4,6 +4,10 @@
       {
         "language": "en",
         "value": "Guy, Duke of Sorrento"
+      },
+      {
+        "language": "en",
+        "value": "Guido di Salerno duca di Sorrento"
       }
     ]
   },
@@ -77,6 +81,63 @@
             }
           },
           "hash": "c0f46bd20b58ff0b64008d28d7989b1c4e5b8746",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q208229$FAA0A83F-EC1D-965D-C0EC-73428AC976DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q206927",
+              "numeric-id": 206927
+            }
+          },
+          "hash": "b4c90071919c37d8ead375871f7f459475d8e731",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q208229$B4CB485C-4D1D-6BF3-4BA2-F52B458E6D21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q208228",
+              "numeric-id": 208228
+            }
+          },
+          "hash": "d914df3dab1271e4f07efe181948c423e078ba35",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q208229$0B449F4E-F725-67A5-FC42-152D7769F83D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q208350",
+              "numeric-id": 208350
+            }
+          },
+          "hash": "9def1b50e4ee3835ce599af524f08ebb4e1964b4",
           "property": "P20",
           "snaktype": "value"
         },
@@ -331,6 +392,64 @@
           },
           "hash": "5239a5632807ca89342ae09cd71e0ad77110d493",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q208229$2A99F553-5788-3362-EB75-1743DA8269BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q208362",
+              "numeric-id": 208362
+            }
+          },
+          "hash": "4f2376b82b082d7e109bb8a04ffa7d25c692a02e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q208229$D154621D-F50A-48F2-84F8-A098CBAC8C98",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Guido /di Salerno/ duca di Sorrento"
+            }
+          },
+          "hash": "832365a770e4796bb8ce65713225fe88ef1d4628",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q208229$3B71AC87-9776-ED4D-ACB9-9557CDC40622",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000082447210907"
+          },
+          "hash": "1a526f27b86af1c9c10a498b5977087ddcb0a9ca",
+          "property": "P62",
           "snaktype": "value"
         },
         "rank": "normal",

@@ -1,20 +1,75 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aubry II of Macon"
+      },
+      {
+        "language": "en",
+        "value": "Alberic II"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Aubry II of Mâcon"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q206973$333D20C8-FBA8-C3E4-6859-269FDCEBD313",
+        "id": "Q112598$EAFD53A1-8F22-4844-83ED-FD2C762B0E2D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q206731",
-              "numeric-id": 206731
+              "id": "Q112602",
+              "numeric-id": 112602
             }
           },
-          "hash": "ed92350cd4513b8fcf3e8da24e23c00d03d2b4c6",
+          "hash": "d3c21902412eed90c251df9c6dda66ec9520872d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112598$34D004B7-F3F3-4F1A-8AA1-84078FE23BF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112600",
+              "numeric-id": 112600
+            }
+          },
+          "hash": "0f706f3ec74f20c0c62ea18c1cb132c4a3a36b94",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112598$5EC1C719-FE7D-4535-B296-86B4E8A153E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114183",
+              "numeric-id": 114183
+            }
+          },
+          "hash": "b925ac2c9a9910246ce8985afba1acbcf9703841",
           "property": "P20",
           "snaktype": "value"
         },
@@ -62,7 +117,7 @@
     ],
     "P39": [
       {
-        "id": "Q206973$F1A7A17F-385D-4E54-9339-32C0F09D014C",
+        "id": "Q112598$E809F387-5B9C-4CB8-ABCC-C054650D05D0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -81,7 +136,7 @@
         "type": "statement"
       },
       {
-        "id": "Q206973$D0A42EED-5D9E-4523-8AAB-99F7CBF75E26",
+        "id": "Q112598$C45CFB0D-5C0E-4E5C-90F2-3F63D48FE84A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -102,7 +157,7 @@
     ],
     "P42": [
       {
-        "id": "Q206973$680AC571-1A19-E3D5-57C3-5E9F83A66B98",
+        "id": "Q112598$5650F1C4-021E-42AA-86B4-70CEC7F99C70",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -121,9 +176,51 @@
         "type": "statement"
       }
     ],
+    "P47": [
+      {
+        "id": "Q112598$A3C27305-3E95-45A5-B9EF-0722CBDB2E38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114179",
+              "numeric-id": 114179
+            }
+          },
+          "hash": "4b777af8660a956e63d216eee6a92c292e0b4b3f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q112598$703813F3-E6FB-4BEC-B80D-3347CD811285",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114181",
+              "numeric-id": 114181
+            }
+          },
+          "hash": "434318e704dc3adafb4fcfa5130f94c2744fe6d6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P55": [
       {
-        "id": "Q206973$75AF6D77-F13B-6E04-6087-266C5A43A4DF",
+        "id": "Q112598$41AE4ECA-C79D-4CAB-995F-D9142DB351AC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -136,6 +233,40 @@
           },
           "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
           "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q112598$EBE8B29B-FFEF-488F-9ECE-ADC2DAD335E6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q505020"
+          },
+          "hash": "0958d0be7f89d6c64019c546b8a6cda92860cdfb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q112598$FDAF8E15-CE07-449B-A993-116FDA8115B4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aubry II of Mâcon Arms.svg"
+          },
+          "hash": "a798a217c5ec7a4a916e5f08b998fc6ca89b0ddb",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -158,38 +289,74 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P94": [
-      {
-        "id": "Q206973$D03D6F0E-8E56-4DFB-ABED-3BFCC2A7C139",
-        "mainsnak": {
-          "datatype": "commonsMedia",
-          "datavalue": {
-            "type": "string",
-            "value": "Alberic II Arms.svg"
-          },
-          "hash": "d8e5e82aec1a8be573c6056aec06d9be07b3d811",
-          "property": "P94",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q206973",
-  "labels": {
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Mâcon und Burgund"
+    },
     "en": {
       "language": "en",
-      "value": "Alberic II"
+      "value": "935-975"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Macon"
     }
   },
-  "lastrevid": 17610026,
-  "modified": "2025-09-17T23:57:51Z",
+  "id": "Q112598",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Обри II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aubry II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλμπέρικ Β΄ του Μακόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aubry II of Mâcon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aubry II of Mâcon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aubry II de Mâcon"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alberico II di Mâcon"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オーブリー2世 (マコン伯)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alberik III van Mâcon"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Обри II де Макон"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Aubry II of Macon"
+    }
+  },
+  "lastrevid": 17524307,
+  "modified": "2025-09-17T03:59:12Z",
   "ns": 860,
-  "pageid": 217943,
+  "pageid": 134481,
   "sitelinks": {},
-  "title": "Item:Q206973",
+  "title": "Item:Q112598",
   "type": "item"
 }
