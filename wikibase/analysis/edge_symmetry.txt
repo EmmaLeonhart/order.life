@@ -1,6 +1,6 @@
-items scanned            : 164456  (unreadable/non-dict: 81)  in 32s
-edges from parent P20    : 126694  (raw 126854, before canonicalising)
-edges from child P47/P48 : 126824  (raw 126934)
+items scanned            : 164493  (unreadable/non-dict: 81)  in 62s
+edges from parent P20    : 127053  (raw 127053, before canonicalising)
+edges from child P47/P48 : 127035  (raw 127035)
 
 ENDPOINTS ARE CANONICALISED through redirects.tsv before the two sides are
 compared, as extract_genealogy.py does. Without that, a parent naming a child by
@@ -8,10 +8,10 @@ a redirected qid while the child declares the canonical one reads as a one-sided
 edge when it is nothing of the kind. Every figure this file reported before
 2026-08-01 lacked that step and overstated the asymmetry.
 
-declared on BOTH sides   :  124878  (97.1% of all edges)
-parent side ONLY         :    1816  (child has no P47/P48 back to it)
-child side ONLY          :    1946  (parent has no P20 forward to it)
-union (what edges.tsv holds):  128640
+declared on BOTH sides   :  125709  (97.9% of all edges)
+parent side ONLY         :    1344  (child has no P47/P48 back to it)
+child side ONLY          :    1326  (parent has no P20 forward to it)
+union (what edges.tsv holds):  128379
 
 Why this matters: any repair that edits only one side leaves the edge alive in the
 other, and the graph still contains it. edges.tsv is built from the UNION, so a
@@ -37,43 +37,43 @@ sample parent-side-only edges:
 sample child-side-only edges:
     Q1016 -> Q1014
     Q1016 -> Q1015
-    Q106776 -> Q104137
-    Q106776 -> Q106782
-    Q106776 -> Q106788
-    Q106776 -> Q106790
-    Q106776 -> Q112801
-    Q106776 -> Q112803
-    Q106776 -> Q112805
-    Q106776 -> Q112807
-    Q108512 -> Q108692
     Q110388 -> Q101814
     Q110388 -> Q101818
     Q110540 -> Q102897
     Q110540 -> Q102899
+    Q110540 -> Q102901
+    Q110540 -> Q102903
+    Q110540 -> Q102905
+    Q110540 -> Q102907
+    Q113280 -> Q102843
+    Q113292 -> Q100872
+    Q113303 -> Q102871
+    Q113303 -> Q102873
+    Q113311 -> Q100800
 
 records with the most parent-side-only children:
     Q90309: 142
     Q74973: 81
     Q74720: 32
-    Q74717: 25
+    Q74717: 23
     Q75054: 16
-    Q74680: 14
     Q73380: 13
+    Q74680: 12
     Q73038: 11
-    Q90478: 9
+    Q104149: 9
     Q75441: 9
 
 ONE-SIDED EDGES BY WHAT THEIR ENDPOINTS ARE  (queue.md item 4)
   GAP          219  an endpoint has no FILE but has both parents and children -- a real person, file absent. DO NOT CUT
-  ORPHAN        14  an endpoint has no record and edges one way only; nothing connects through it
-  PHANTOM     1050  an endpoint is a shell with no label, alias or genealogy
-  BOTH-REAL   2479  both endpoints are real records -- these are the judgement calls
+  ORPHAN         0  an endpoint has no record and edges one way only; nothing connects through it
+  PHANTOM        0  an endpoint is a shell with no label, alias or genealogy
+  BOTH-REAL   2451  both endpoints are real records -- these are the judgement calls
 
 ORPHAN is removable with no judgement. GAP is NOT: 233 edges were cut on
 2026-08-01 treating both alike, and compare_depth failed at -10 levels because
 219 of them ran through a gap -- Melaneus and Aeneus lost the Titan line. The
 repair for a GAP is to CREATE the missing record, which needs a name.
 PHANTOM is a shell that does exist. BOTH-REAL is the part queue.md warns against
-blanket-fixing, and it is 2479 of the 3762.
+blanket-fixing, and it is 2451 of the 2670.
 
 Per-edge detail: edge_symmetry_classified.tsv

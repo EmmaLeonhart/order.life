@@ -377,36 +377,13 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-16. **The one-sided edges: `PHANTOM` is DONE, `BOTH-REAL` is what is left.**
-
-   **`PHANTOM` — 1,050 edges, closed 2026-08-18** by `add_phantom_mirrors.py` under
-   Emma's ruling of 2026-08-05, *"ADD the missing side, always."* 1,028 written, 21
-   already two-sided, **1 refused** — a `parent-only` edge whose parent carries no `P55`,
-   so nothing decides whether the mirror is `P47` or `P48`. `edges.tsv` records
-   parent→child either way, which makes a wrong choice there invisible to every gate in
-   this repo; it is skipped and counted, and it stays that way until the parent has a sex.
-
-   **`ORPHAN` — 0 left**, all 14 cut 2026-08-01, `dangling_endpoints` 13 → 4.
-
-   **`GAP` — 219. DO NOT CUT THESE. This is item 17 and it needs names from Emma.** An
-   endpoint has no item file while other records record parents *and* children around it —
-   a real person whose file is missing. **`Q74656` has 144 children and 2 parents;
-   `Q75282` has 59 children** and sits between the Titans and Melaneus; `Q54196` and
-   `Q78402` are the others. *(Learned by cutting all 233 as one batch: `compare_depth`
-   failed at −10 levels, Melaneus and Aeneus lost the Titan line entirely, reverted.)*
-
-   **`BOTH-REAL` — 2,479, and this is the open work.** Both endpoints are substantive
-   records, so none of the phantom reasoning reaches them: the shell argument was that
-   nothing in an *empty* record distinguishes a half-finished deletion from a
-   half-finished import, and that is exactly what stops being true here. **Decide per
-   record whether the missing side should be added or the present side removed, and do
-   NOT blanket-add** — Emma's ADD ruling was scoped to placeholder people and must not
-   leak past them.
-
-   Rebuild the classification with `edge_symmetry.py` before working it: the committed
-   `edge_symmetry_classified.tsv` is from 2026-08-01 and the 2026-08-18 mirror pass has
-   moved 1,028 of its rows into the two-sided majority. **97.1%** of edges were declared
-   on both sides at that count, with **3,762** one-sided.
+16. **THE 172 CONTRADICTED ONE-SIDED EDGES (2026-10-10).** The BOTH-REAL class was checked against
+   Wikidata (`wikibase/analysis/one_sided_proposed.md`): the 330 confirmed edges got their missing
+   side. The 172 where Wikidata names a different parent are left, and they are not a cut list.
+   Many are a wrong Wikidata id on the dump's record (e.g. `Q123443` Sancha), some are deliberate
+   myth variants, some are rulings already made (Abas/Ixion). Work them one at a time: fix the id,
+   keep the variant, or cut with `compare_depth`. The 1,942 without Wikidata ids on both ends and the
+   1 PHANTOM edge whose parent has no sex stay as they are.
 
 17. **NAME THE FOUR MISSING RECORDS — needs Emma.** `Q74656`, `Q75282`, `Q54196`, `Q78402`
    have no item file, yet 219 edges reference them and they hold 200+ recorded

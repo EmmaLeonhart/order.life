@@ -5183,3 +5183,12 @@ Decided without Emma (instruction: make the call and record it), in the directio
 nothing: the two 'Udd records and Nabhan stay as Adnan's fathers, as variant source traditions;
 neither merged nor cut. Recorded in `closed_repairs.md` with a do-not-sweep note. If she wants a
 single chain, the merge and cuts are hers to call.
+
+## 2026-10-10 — one-sided edges: the Wikidata-confirmed 330 completed (item 16 narrowed)
+
+`edge_symmetry.py` rebuilt: 2,451 BOTH-REAL one-sided edges. `propose_one_sided.py` checked them
+against Wikidata: 330 CONFIRMED, 172 CONTRADICTED, 7 SILENT, 1,942 without Wikidata ids on both ends.
+`apply_one_sided_confirmed.py` added the missing side of the 330 confirmed edges (467 claims in 381
+files, shadows included; graph-neutral; verified from disk). The 172 contradicted edges are left:
+spot-checks show wrong Wikidata ids on the dump's record, myth variants and earlier rulings, not a
+cut list. Item 16 is now those 172. Write-up: `wikibase/analysis/one_sided_proposed.md`.
