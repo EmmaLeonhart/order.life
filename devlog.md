@@ -5111,3 +5111,10 @@ Its verify step fails if any such claim remains. Exercised on a throwaway git fi
 `tests/test_merge_repoint.py` (`python -m unittest tests/test_merge_repoint.py`): survivor, loser, a
 child naming only the loser (repointed), that child's shadow (synced) and a child naming both
 (duplicate dropped). The test fails with the repoint step disabled. No real merge was run.
+
+## 2026-10-10 — item 4 closed: the Brahma / eleven Rudras cut stands
+
+Decided without Emma (instruction: make the call and record it). All records in the cut are in the
+`Q160xxx` block she ruled out of use on 2026-08-18, so it is left as applied and not reverted. Moved
+to `wikibase/analysis/closed_repairs.md` with the one-command revert, should she want the Shaiva
+reading.

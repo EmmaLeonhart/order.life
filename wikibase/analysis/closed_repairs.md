@@ -232,3 +232,21 @@ The rest was ruled out by Emma on 2026-08-18 (the `Q160xxx` block), so the item 
    The chains were parallel **and already joined**, so collapsing them removes nodes
    without changing anyone's reach. The reason to do this is that 177 phantom people are
    gone, not depth. **Do not re-file the depth argument.**
+
+
+## Brahma and the eleven Rudras (queue item 4) — closed 2026-10-10, the cut stands
+
+Decided without Emma, on the instruction to make the call: the cut stands and is not reverted. Every record in it (`Q160946`, `Q160966`, `Q160947`) is in the `Q160xxx` block, which Emma ruled out of use on 2026-08-18 ("the best rule is to not use that portion of the order.life tree at all"), so no further change there, a revert included. If she wants the Shaiva reading, the revert is one command (`cut_edges.py`, cut set `brahma-rudras`). The item, verbatim:
+
+4. **ONE CUT TO SANITY-CHECK IF YOU DISAGREE — Brahma and the eleven Rudras
+   (2026-08-02, applied).** Tangle 15 was cut on the reading that `Q160946` "11 Rudras" is
+   the **Kashyapa-and-Surabhi** set of the Vishnu Purana — its mother in the dump is
+   `Q160966` **Surbhi** — and therefore Brahma's descendant, not his parent. Brahma keeps
+   `Q160947` **Gobardhan Vishnu**, his canonical birth.
+
+   **The reading I rejected, in case it was yours:** in Shaiva cosmology Shiva *does*
+   generate Brahma, and a Shaiva/Vaishnava synthesis is exactly the kind of cross-tradition
+   join this project exists to make. I ruled it out because the record is the *eleven*
+   Rudras with a named father and mother, not Rudra-Shiva the creator. **If the intent was
+   the Shaiva reading, this cut is wrong and is one revert** — `cut_edges.py`, cut set
+   `brahma-rudras`.

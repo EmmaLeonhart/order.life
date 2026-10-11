@@ -377,19 +377,6 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
-4. **ONE CUT TO SANITY-CHECK IF YOU DISAGREE — Brahma and the eleven Rudras
-   (2026-08-02, applied).** Tangle 15 was cut on the reading that `Q160946` "11 Rudras" is
-   the **Kashyapa-and-Surabhi** set of the Vishnu Purana — its mother in the dump is
-   `Q160966` **Surbhi** — and therefore Brahma's descendant, not his parent. Brahma keeps
-   `Q160947` **Gobardhan Vishnu**, his canonical birth.
-
-   **The reading I rejected, in case it was yours:** in Shaiva cosmology Shiva *does*
-   generate Brahma, and a Shaiva/Vaishnava synthesis is exactly the kind of cross-tradition
-   join this project exists to make. I ruled it out because the record is the *eleven*
-   Rudras with a named father and mother, not Rudra-Shiva the creator. **If the intent was
-   the Shaiva reading, this cut is wrong and is one revert** — `cut_edges.py`, cut set
-   `brahma-rudras`.
-
 6. **TWO RESIDUES FROM THE DEIMACHUS UNMERGE — small, precise, and not hidden.**
    The unmerge landed on 2026-08-01 and dissolved tangle 15, but the existing tools cannot
    write two of the claims it implies:
