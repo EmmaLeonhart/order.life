@@ -959,6 +959,11 @@ CLUSTERS = {
         ("Q74656", "Q90359", "Zeus -- same parents Saturn Q74680 / Ops Q74677 since the Q90xxx "
                              "Cronos and Rhea were merged; Q74656 carries wd Q34201"),
     ],
+    # queue.md item 17b (2026-10-10): the one Q90xxx child of Zeus whose mother is already the
+    # main-block record (Callisto Q75207); the others wait for their mothers' copies to merge.
+    "zeus-children-1": [
+        ("Q75174", "Q90448", "Arcas -- same parents Zeus Q74656 / Callisto Q75207"),
+    ],
     "antipater": [
         ("Q78348", "Q99725", "Antipater the Idumaean -- same Wikidata id Q319075, same wife "
                              "Q78351, same father Q144298"),

@@ -5286,3 +5286,12 @@ queued as 17b.
   identities (Birlenbach, Speer, Schomburg, Fugger, Gaspari); their edges do not say which Muse each
   is (two are mothers of Sirens by Achelous, which the sources give to Melpomene or Terpsichore), so
   they were stripped and labelled by the dump's NN convention, not guessed. Family claims untouched.
+
+## 2026-10-11 — Q90xxx copies around Zeus: Arcas merged; the rest is a top-down block dedupe
+
+Of the 15 children and consorts the Q90xxx Zeus brought into `Q74656`, only Arcas (`Q90448` into
+`Q75174`, same mother Callisto) merges cleanly now (14 files repointed). The rest cascade: each copy
+child's mother is a copy consort (Danae, Io, Antiope, Maia, Taygete), whose parents are copies too
+(Acrisius, Inachus, Nycteus, Atlas/Pleione). Merging a child first would give it three parents and
+fail I4, so the Q90xxx block has to be deduplicated top-down, a level at a time, as the Magadha
+passes were. Hermes, Persephone, Myrmidon, Eurymedusa and Demeter have no main-block twin by name.
