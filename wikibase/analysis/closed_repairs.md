@@ -147,3 +147,88 @@ repo's own written rule. Full account in `licinii_vari_resolved.md`.
 artifacts with no Wikidata id. **Being freshly primed by genuine finds made the false
 positive more likely, not less.** A record matching the shape of the last six defects has
 earned more scepticism, not less.
+
+
+## Magadha/Kosala dedupe (queue item 0f) — closed; moved out of queue.md 2026-10-10
+
+The rest was ruled out by Emma on 2026-08-18 (the `Q160xxx` block), so the item held only its record. Verbatim:
+
+0f. **FINISH THE MAGADHA/KOSALA DEDUPE. Senajit up to VRIHADRATHA and Diwakar up to
+   Prativyoma are merged; the levels above each remain.**
+
+   **DONE:** 131 merges (`magadha-triple`), 27 stale refs cleared, 11 more merges
+   (`magadha-tail`), and on **2026-08-18** three more clusters — `magadha-senajit`
+   (17 merges: the three dropped SENAJIT pairs, every generation above them as far as
+   SOMAPI, and the six nameless shells that were blocking all of it) and
+   `kosala-diwakar` (9 merges: the five copies of Sahdev Diwakar, Divakara, Bhanu,
+   Prativyoma, and the BRIHADASVA pair `magadha-tail` dropped), then `magadha-somapi`
+   (9 merges: SOMAPI, SAHADEVA, JARASANDHA, two more nameless VRIHADRATHA copies, and the
+   two wives they hang from). All six gates green on all three;
+   `children_over_2_parents` **1200 → 1199 → 1198 → 1196**, and the 1200 → 1199 is exactly
+   the number this item predicted from the cause it named. **177 duplicate records gone
+   in total.**
+
+   **THE PRESCRIBED REPAIR FOR THE SHELLS WAS WRONG AND THIS IS WHY.** This item called
+   `Q52176` and `Q52188` "empty records in parent slots" and said to cut. They are a
+   **fourth, nameless copy of the Magadha king list**, running beside the `Q2xxx`,
+   `Q51xxx` and `Q161xxx` copies. Nothing on the record says so — no label, no alias, no
+   description, one non-genealogical claim — but every one of them sits in a named king's
+   exact slot, offset one generation at a time:
+
+   | shell | child of | father of | therefore |
+   |---|---|---|---|
+   | `Q52176` | `Q2292` SUKSHATRA | `Q2286` SENAJIT | BRIHATKARMAN |
+   | `Q52188` | `Q2296` NIRAMITRA | `Q2289` BRIHATKARMAN | SUKSHATRA |
+   | `Q52204` | `Q2299` AYUTAYUS | `Q2292` SUKSHATRA | NIRAMITRA |
+   | `Q52216` | `Q2302` SRUTASRAVA | `Q2296` NIRAMITRA | AYUTAYUS |
+   | `Q52228` | `Q28284` SOMAPI | `Q2299` AYUTAYUS | SRUTASRAVA |
+   | `Q52240` | `Q28300` SAHADEVA | `Q2302` SRUTASRAVA | SOMAPI |
+
+   That sequence is the Vishnu Purana's Brihadratha succession, which the named chain also
+   records in order. The last line was not read off the position at all —
+   `match_parallel_imports.py` propagated the correspondence structurally and landed
+   `Q52240` opposite `Q161236` "SOMAPI Sahadeva" on its own, which is what made the
+   "empty slot" reading collapse. **Cutting would have removed the six father-edges and
+   left six nameless childless records hanging off the kings above them; merging removes
+   the same edges and retires the record.** DEDUPE outranks CUT in `cycle_policy.md` and
+   this is the case it is for. The cut was written, applied, and reverted before
+   committing.
+
+   **Two rules confirmed on live data, worth keeping:**
+
+   - **A nameless record is not necessarily contentless.** Position is evidence. Six
+     records with one claim between them turned out to be six kings.
+   - **A shell whose child would be orphaned is not cuttable and was not cut.** `Q52240`
+     was `Q2302` SRUTASRAVA's *only* declared father. Same condition as the divine-father
+     rule: only remove a parent where a named one survives.
+
+   **STILL OPEN — and the shape of what is left is known, which it was not before.**
+
+   **EVERY CLUSTER OF THIS KIND MUST STOP ONE LEVEL SHORT, so this is iterative by
+   construction and not one big merge.** Each level's copies each carry their own copy of
+   the next man up, so the TOP group of any cluster inherits three unmerged fathers and
+   fails I4. `magadha-triple`, `magadha-tail`, `magadha-senajit`, `kosala-diwakar` and
+   `magadha-somapi` each stopped for exactly this reason. It is not a compromise and it is
+   not a bug to fix — plan on one cluster per few generations.
+
+   **STOPPED BY EMMA, 2026-08-18 — `CLAUDE.md` § *The `Q160xxx` Puranic block*.**
+
+   Everything that was open here ran through the `Q160xxx` block: the Magadha chain above
+   King VRIHADRATHA, the Kosala chain above Prativyoma, and the 67-pair closure that
+   scored 1196 → 1195. Asked whether that block is duplicates or deliberate, she ruled
+   **do not use that portion of the tree at all.** So none of it is pending work and none
+   of it is blocked — it is ruled out, which is a different thing, and the queue should
+   not carry it as either.
+
+   **What remains of item 0f is the record of what was done**, above: 177 duplicate
+   records retired across five passes, `children_over_2_parents` 1200 → 1196,
+   `qa_vacated_refs` 0, every gate green on every pass. That stands; the ruling was about
+   what to do next, not about undoing it.
+
+   **⚠ "A DEDUPE HERE GAINS DEPTH" IS DISPROVEN. Five times now.** Item 0d argued the
+   merge would hand the surviving chain ancestry it lacked, because `Q2206` Ashoka had no
+   father. All five merges measured **0 records gained depth and 0 lost**; total depth
+   fell only because duplicate nodes stopped existing (−40,120, then −4,459, then −5,700, then −3,612, then −2,313).
+   The chains were parallel **and already joined**, so collapsing them removes nodes
+   without changing anyone's reach. The reason to do this is that 177 phantom people are
+   gone, not depth. **Do not re-file the depth argument.**

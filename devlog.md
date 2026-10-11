@@ -5079,3 +5079,10 @@ Queue item 1 (the unmerge proper; the ring was cut 2026-08-15). `wiki-scripts/ap
   profiles and were left on it; they are not attributable without Geni.
 - Naming: B's record keeps the label the import gave it. The rule here is that naming is Emma's; the
   instruction for this run was to make the call and record it, so it was made and is recorded here.
+
+## 2026-10-10 — queue item 0f closed out of the queue
+
+Item 0f (Magadha/Kosala dedupe) held only the record of its five passes (177 duplicates retired,
+`children_over_2_parents` 1200 → 1196); what was left of it was ruled out by Emma on 2026-08-18 (the
+`Q160xxx` block), and the item itself said the queue should not carry it. Its text moved verbatim to
+`wikibase/analysis/closed_repairs.md`. No data changed.
