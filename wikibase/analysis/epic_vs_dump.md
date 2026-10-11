@@ -159,6 +159,8 @@ already flagged Q6462 as carrying Watatsumi's identifier, so this may be that sa
 ID defect rather than a second one. **UNRESOLVED** — it belongs to the ID-repair worklist,
 not to this sweep.
 
+> **Checked 2026-10-11: not an ID defect, a deliberate identification.** `Q6462` is labelled Xu Fu with "Watatsumi" as an alias, carries both Wikidata ids (Q1474187 Ōwatatsumi and Q700302 Xu Fu), has Watatsumi's children (Toyotama-hime, Tamayori-hime, Furutama) and both sets of parents (Xu Fu's father Xú Měng, and Izanagi and Izanami). It is the same Chinese-Japanese join the dump makes through the Wu line, so it stays. The verse's "daughter of the sea dragon god" is true of this record. One thing for Emma: the 2026-08-07 rule (drop a divine father where a human one remains) would cut Izanagi here, but Izanagi is the point of the identification, so it was not applied.
+
 ---
 
 ## Finding 3 — Chapter 181, Heo Hwang-ok: the claim that started this item

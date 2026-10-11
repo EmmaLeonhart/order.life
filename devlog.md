@@ -5495,3 +5495,10 @@ Korean Wikipedia (허황옥, 거등왕), citing the *Samguk yusa*'s *Garakguk-gi
 eldest, Geodeung, named; the two Heo sons and the seven monk-sons are later legend. The note in
 `epic_vs_dump.md` and the queue now says so. Also found: the *Samguk yusa* never places "Ayuta" in
 India; that identification is modern. Chapter 181 follows the modern reading. Both for Emma.
+
+## 2026-10-11 — epic vs dump: the Xu Fu / Watatsumi record is deliberate
+
+Finding 2's open note (Toyotama-hime's father recorded as Xu Fu, suspected ID defect) checked: `Q6462`
+is a deliberate identification of Xu Fu with Watatsumi (both Wikidata ids, the alias, Watatsumi's
+children, both sets of parents), the same Chinese-Japanese join as the Wu line. No change. The
+divine-father rule would cut Izanagi here; not applied, since Izanagi is the point. Noted for Emma.
