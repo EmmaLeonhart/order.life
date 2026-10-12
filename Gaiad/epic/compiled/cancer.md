@@ -93,6 +93,21 @@ Shia Ismaili, rivaling the Sunni Abbasids.
 They founded {{p|Cairo}} and the {{c|al-Azhar University}},
 which has taught Islamic scholarship continuously for ages.
 
+On the Caspian's southern shore, in {{p|Mazandaran}},
+the old princes of {{p|Tabaristan}} held the forest and the height,
+the {{c|Bavandids}}, who named the {{c|Sasanian}} kings as kin,
+the last of Iran's old houses not yet taken by the fight.
+
+{{c|Qarin}} the First ruled there from 817,
+and when his rival {{c|Mazyar}} rose against the caliph's hand,
+Qarin stood with Baghdad, and in 842
+he took Islam himself, and kept his mountain land.
+
+So the blood of the old kings went on inside the new faith.
+His son {{c|Abul Melik}} carried it, and in 869 a grandson came,
+{{c|Abul Hamza}}, born in {{p|Armenia}}, among the Artsruni,
+and the line of Tabaristan went west under an Armenian name.
+
 The {{c|Seljuk Turks}} took over the Abbasid heartland
 in the eleventh century, nominal caliphs remaining
 but real power with the sultan.
@@ -653,6 +668,36 @@ The {{c|Crusader States}} were established: the Kingdom of Jerusalem,
 the Principality of Antioch, the County of Tripoli,
 the County of Edessa. They lasted about two centuries
 on the margins of the Middle East, culturally polys.
+
+At the far edge of the same war, in {{p|Georgia}},
+{{c|David the Builder}} faced the Seljuks with too few men,
+so he married {{c|Gurandukht}}, a {{c|Cuman}} khan's daughter,
+and in 1118 forty thousand Cuman families came down to fight for him then.
+
+At {{p|Didgori}} in 1121 they broke the Seljuk host,
+and {{p|Tbilisi}} was Georgian again the year after.
+The steppe and the Caucasus were married to each other,
+and it was not the first time. Hear an older chapter:
+
+A hundred years before, {{c|Mariam}} of {{p|Vaspurakan}},
+an Artsruni of {{c|Abul Hamza}}'s line, of {{c|Qarin}}'s blood,
+wife of {{c|George}} the First of Georgia, bore a daughter,
+{{c|Guarandukht}}, who was given north across the flood
+
+of grass to {{c|Osen}}, a khan of the {{c|Cumans}},
+and bore him {{c|Aepa}}, and Aepa had a daughter, {{c|Anna}}.
+In 1108 {{c|Vladimir Monomakh}} made peace with Aepa
+and took Anna for his son {{c|Yuri}}: a steppe hosanna
+
+of a wedding, Christian prince and Cuman bride.
+Yuri, the Long-Armed, would found {{p|Moscow}} in his day,
+and Anna bore him {{c|Andrey}}, who built the white churches.
+So the princes of {{p|Tabaristan}} came, the long way,
+
+by {{p|Armenia}} and {{p|Georgia}} and the tents of the steppe,
+into the house of the {{c|Rus}}. The crusaders never knew.
+They fought for one city. Meanwhile the old blood
+walked north on its own road and the families grew.
 
 The {{c|Second Crusade}} (1147-1150) was launched
 after the fall of Edessa. It was a disaster.
