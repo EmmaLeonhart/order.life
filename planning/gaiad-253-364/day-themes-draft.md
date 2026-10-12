@@ -148,9 +148,9 @@ the machine ends in a few hands or everyone's; climate; reactionary invented tra
 19. 2020: COVID
 20. 2014 and 2022: Russia invades Ukraine, Crimea then the full invasion; war in Europe again (Emma: "the biggest missing part here")
 21. 2022: ChatGPT, the writing machine
-22. 2023 to 2024: the fork, open weights and closed, the machine in few hands or everyone's
-23. 2024 to 2025: agents, machines that act, and a scripture written with them
-24. 2001 to 2026: Shinto overseas and new religions online, traditions carried past their borders
+22. February 2023: LLaMA's weights get out, the machine leaves the lab (the fork: few hands or everyone's)
+23. November 2023: the OpenAI board crisis, safety against acceleration, who controls the machine
+24. February 2025: Claude Code and the agents, machines that act, and a scripture written with them
 25. 2026: Emma and her ancestry, with the Virgo coincidence
 26. 2026 and the time skip (hard anchor, ch 362)
 27. The cryonic revival (hard anchor, ch 363)
