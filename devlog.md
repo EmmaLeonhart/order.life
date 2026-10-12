@@ -5642,3 +5642,12 @@ Osen of the Cumans, their son Aepa, his daughter Anna, married to Yuri Dolgoruky
 Bogolyubsky her son). The Guarandukht-Osen marriage is constructed (her FamilySearch record has no
 husband; his recorded wife is an error, the Countess of Blois); the record of that is in the parent
 repo's `research/osen-khan-wife.md`, not in the verse.
+
+## 2026-10-12 — ch 257 written: Here I Stand
+
+Virgo 5 (1517, Luther; print takes scripture out of the priests' hands). The miner's son from
+Eisleben foreshadowed at the end of ch 253; the press of ch 214 as the reason he was not burned like
+Hus; Worms and the printers' "Here I stand"; the September Testament in the people's German. The
+other side held with it: "smite, slay, and stab" in the Peasants' War, and the 1543 book against the
+Jews that the Reich reprinted. Ends on the Gaiad's own "Stand." Facts checked from memory (the German
+translation of the theses dated to early 1518, not two weeks).

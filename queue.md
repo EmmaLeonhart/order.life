@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-256 are done.
-   - **Ch 257 (Virgo 5):** 1517: Luther; print takes scripture out of the priests' hands.
+   its line here when done. Ch 253-257 are done.
    - **Ch 258 (Virgo 6):** 1520 to 1566: Suleiman and the millet system, religions as a state register.
    - **Ch 259 (Virgo 7):** 1538 and 1563: parish registers begin (England, then Trent), the register of every soul.
    - **Ch 260 (Virgo 8):** 1543: Copernicus, the Earth leaves the centre.
