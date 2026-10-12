@@ -431,12 +431,26 @@ Items, in order:
    devices. "I can put them in the Gaian calendar and celebrate those of my ancestors." Her ancestors
    include Abul Hamza by her decision ("I'm putting Abul Hamza in my ancestors"), whatever the
    documented line shows. The calendar is 13 months of 28 days, so a date keeps its weekday every
-   year. Work: (a) find where the iCal reads its days (`content/gaian_days.json`, `_vevent` in
-   `build.py`) and whether a second feed or a category is the cleaner place; (b) write the
-   Gregorian-to-Gaian conversion if only the reverse (`_gaian_day_to_greg`) exists; (c) list where
-   the seed people and their dates live in the `genealogy` submodule (read its own docs first; its
-   data has a specific way it is to be read). NEEDS-DECISION (Emma) before anything goes live:
-   which ancestors, and whether it is a separate feed.
+   year.
+
+   **Her spec, 2026-10-12 (it replaces an earlier "NEEDS-DECISION: which ancestors, and whether it
+   is a separate feed" that should never have been asked):** "All of them." "It's not a separate
+   feed ... In the exact same feed, literally extremely simple." Each day's existing item keeps its
+   summary and the link to its page; then, "below it in that item, a link to the order.life slash
+   ancestors slash 232 or whatever it is. Whatever day it is. And this does include the leap days";
+   then the births and the deaths, "one line each, with the person's name". So, for each day of the
+   year including the leap days:
+   - a page at `order.life/ancestors/<day>` (day of the Gaian year);
+   - in that day's existing iCal event, after the summary and page link: the link to
+     `order.life/ancestors/<day>`, then one line per ancestor born that day and one per ancestor who
+     died that day, with the name.
+
+   Work: (a) where the iCal builds each day's event (`_vevent` in `build.py`, days from
+   `content/gaian_days.json`), and add the ancestor link and lines there; (b) a Gregorian-to-Gaian
+   date conversion if only the reverse (`_gaian_day_to_greg`) exists, including the leap days;
+   (c) where all her ancestors and their birth and death dates live in the `genealogy` submodule
+   (read its own docs first; its data has a specific way it is to be read); (d) build the
+   `ancestors/<day>` pages.
 6. **Write a revision convention for Ophiuchus.** One short section in
    `planning/gaiad-inochi-themes.md`: Ophiuchus is the living month; its day themes and chapters are
    revised as the century goes on ("not every year", her words, "but for a while"); each revision is
