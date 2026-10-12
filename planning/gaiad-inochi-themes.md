@@ -231,8 +231,9 @@ Subjects that only fill coverage (a war, a style, a decade) go in only through o
 - **How much of Ophiuchus is AI.** Settled by the division above: Ophiuchus is the 2000s, so it is
   the AI month with the rest of the 21st century in it.
 - **Where 1945 and the Daijōsai go.** Her 2026-09-25 correction moves the drafted Daijōsai chapter
-  "closer to Yom Kippur" and gives the Niiname-sai slot to Emperor Heisei's real Daijōsai (1990). No
-  plan is updated for this yet, and it moves the end of the war-years block.
+  "closer to Yom Kippur" and gives the Niiname-sai slot to Emperor Heisei's real Daijōsai (1990).
+  Decided 2026-10-12 (Claude, Emma may overrule): ch 329 stays on Niiname-sai and the 1990 Daijōsai
+  is woven into it at revision; the reasons are in `gaiad-253-364/day-themes-draft.md`, Scorpius.
 - **Still open from before, in her words:** Russia ("unsure how much"), the Safavids ("I don't know
   what to say about the Safavids"), why Japan succeeded ("I'm not really sure why it didn't"), and
   "are there places clearly missed by this structure?"
