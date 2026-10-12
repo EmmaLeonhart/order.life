@@ -5563,3 +5563,10 @@ in the Geni union are mostly year-only placeholders. Abul Hamza himself has only
 he is in the data but on no day. The first version (one 12-generation FamilySearch file, 1,464
 people) was never published. Not built locally; templates rendered through `base.html` in a
 scratch venv.
+
+## 2026-10-12 — Ophiuchus revision convention
+
+A short section in `planning/gaiad-inochi-themes.md`: Ophiuchus, the 21st century, is revised as
+the century goes on ("not every year ... but for a while", her words); each revision is dated in
+the file with what moved and why; earlier text stays in git; the endpoints (ch 362-364) stay fixed;
+the other months are edited the ordinary way.

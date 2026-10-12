@@ -400,10 +400,6 @@ Her request: queue items "for reworking the Gaian calendar and the Gaiad to make
 
 Items, in order:
 
-6. **Write a revision convention for Ophiuchus.** One short section in
-   `planning/gaiad-inochi-themes.md`: Ophiuchus is the living month; its day themes and chapters are
-   revised as the century goes on ("not every year", her words, "but for a while"); each revision is
-   dated and the earlier text kept in git, not deleted.
 7. **Draft the modern chapters from the day themes, Virgo first.** She thinks the material is there
    and that the sections are "not going to be set in stone". Barrel-through mode is allowed (pinned
    correction 9): real chapters, verse, `{{c|}}`/`{{p|}}` templating, ending "Stand." Begin with

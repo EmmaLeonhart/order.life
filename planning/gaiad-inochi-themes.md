@@ -210,6 +210,21 @@ in: "that's an interesting meta thing to occur." It fits "the book's own moment"
 (`gaiad-253-364/ch362-handoff.md`): the calendar the scripture runs on, and the person writing it,
 meeting in the record.
 
+## Ophiuchus is the living month: how it is revised (2026-10-12)
+
+Ophiuchus is the 21st century, and the century is about a quarter through. Emma, 2026-10-11/12:
+"Am I going to say it's going to be rewritten every year? Every year? No. But I imagine it's going
+to be such for a while." So:
+
+- Its day themes (`gaiad-253-364/day-themes-draft.md`) and its chapters are revised as the century
+  goes on, when something happens that changes what a day should carry, not on a schedule.
+- Each revision is dated, in the file it changes, with a line on what moved and why.
+- Earlier text is not deleted in place to make room: it stays in git history, and a theme that
+  moves is moved, not dropped, unless Emma drops it.
+- The fixed endpoints do not move: Ophiuchus 26 to 28 (ch 362 to 364) are the time skip, the
+  cryonic revival and Milkomeda. Day 25 (2026) holds the year the book was finished.
+- The other twelve months are not "living" in this sense; a change there is an ordinary edit.
+
 ## Using the themes as a test
 
 A modern subject goes in when it does at least one of these, and says "something special about
