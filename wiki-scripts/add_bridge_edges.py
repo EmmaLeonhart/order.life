@@ -851,6 +851,44 @@ BRIDGES = {
                                          "the Vedic and epic material into Korea and Japan"),
         ],
     },
+    # 2026-10-11. The Yamato no Atai into the imperial line, DECIDED BY EMMA (inochi-no-michikyo
+    # research/shinbetsu.md): "this is our canonical genealogy", and the attachment is hers:
+    # Kōrei's two Yamato consorts are daughters of Nishiba no mikoto Q6896 (wd Q134847899),
+    # "the great grandfather of Ichishi no Nagaochi" -- Kōrei is Sujin's great-grandfather, so
+    # they are one generation. The Atai chain Shiinetsuhiko Q6709 -> Shimatsu -> Takehayamochi
+    # -> Nishiba -> Idetasuni -> Mimo -> Nagaochi Q7054 was already in the dump.
+    # Kōrei's children and consorts are the texts' own (Kojiki, Nihon Shoki); before this he
+    # had one child, Kōgen, and no consort, and Yamato-no-kuni-ka-hime Q6665 and Wakatakehiko
+    # Q6673 had no father. Haeirodo was absent. The filiation of the sisters is the Gaiad's.
+    "yamato-no-atai-korei": {
+        "create": [
+            {
+                "qid": "Q221675",
+                "label": "Haeirodo",
+                "aliases": ["蝿伊呂杼", "絙某弟", "Hae-irodo", "Haehiro-ne no otouto"],
+                "desc": "consort of Emperor Kōrei, mother of Wakatakehiko; younger sister of "
+                        "Yamato-no-kuni-ka-hime",
+                "props": {"P39": ["Q153801", "Q153802"], "P55": ["Q153719"]},
+                "note": "created 2026-10-11; Kojiki 蝿伊呂杼, Nihon Shoki 絙某弟, mother of "
+                        "Waka-takekibitsuhiko and so great-grandmother of Yamato Takeru",
+            },
+        ],
+        "edges": [
+            ("Q6896", "Q6665", "P47", "Emma 2026-10-11: Kōrei's Yamato consorts are daughters "
+                                      "of Nishiba no mikoto, Ichishi no Nagaochi's great-grandfather"),
+            ("Q6896", "Q221675", "P47", "the same ruling, for the younger sister"),
+            ("Q153777", "Q6512", "P47", "Kojiki/Shoki: Yamato-totohi-momoso-hime is Kōrei's daughter"),
+            ("Q153777", "Q6669", "P47", "Kojiki/Shoki: Yamato-totowakaya-hime is Kōrei's daughter"),
+            ("Q153777", "Q6671", "P47", "Kojiki/Shoki: Kibitsuhiko is Kōrei's son"),
+            ("Q153777", "Q6673", "P47", "Kojiki/Shoki: Wakatakehiko is Kōrei's son"),
+            ("Q221675", "Q6673", "P48", "Kojiki: Waka-takekibitsuhiko's mother is Haeirodo"),
+        ],
+        "spouses": [
+            ("Q153777", "Q6665", "Kojiki/Shoki: Ō-yamato-kuniare-hime (Shoki Yamato-no-kuni-ka-hime) "
+                                 "is Kōrei's consort"),
+            ("Q153777", "Q221675", "Kojiki/Shoki: Haeirodo is Kōrei's consort"),
+        ],
+    },
 }
 
 FATHER, MOTHER, CHILD, SPOUSE = "P47", "P48", "P20", "P42"
