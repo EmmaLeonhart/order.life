@@ -90,6 +90,21 @@ Shia Ismaili, rivaling the Sunni Abbasids.
 They founded {{p|Cairo}} and the {{c|al-Azhar University}},
 which has taught Islamic scholarship continuously for ages.
 
+On the Caspian's southern shore, in {{p|Mazandaran}},
+the old princes of {{p|Tabaristan}} held the forest and the height,
+the {{c|Bavandids}}, who named the {{c|Sasanian}} kings as kin,
+the last of Iran's old houses not yet taken by the fight.
+
+{{c|Qarin}} the First ruled there from 817,
+and when his rival {{c|Mazyar}} rose against the caliph's hand,
+Qarin stood with Baghdad, and in 842
+he took Islam himself, and kept his mountain land.
+
+So the blood of the old kings went on inside the new faith.
+His son {{c|Abul Melik}} carried it, and in 869 a grandson came,
+{{c|Abul Hamza}}, born in {{p|Armenia}}, among the Artsruni,
+and the line of Tabaristan went west under an Armenian name.
+
 The {{c|Seljuk Turks}} took over the Abbasid heartland
 in the eleventh century, nominal caliphs remaining
 but real power with the sultan.

@@ -5629,3 +5629,16 @@ items in day order, ch 257 to ch 364, each with its day, its theme from the appr
 draft and its holiday where it has one, plus ch 329's revision (Heisei's Daijōsai) in its place.
 Ch 253-256 were already written. The shared rules (planning reads, verse, templating, placenames,
 "Stand.", fact check, runway, one chapter per commit) are stated once in the item's header.
+
+## 2026-10-12 — Qarin I's line into the Rus': ch 197 and ch 202
+
+Emma's decision, both chapters. Ch 197 (Islamic Golden Age) gains three stanzas on the Bavandid princes
+of Tabaristan: Qarin I (r. 817-867), who stood with Baghdad against Mazyar and took Islam in 842, and
+the line through his son Abul Melik to Abul Hamza, born in Armenia in 869. Ch 202 (Crusades) gains a
+passage on the crusades' eastern edge: David IV of Georgia, his Cuman bride and the Cuman families of
+1118, Didgori (1121); then the older Georgian-Cuman marriage that carries Qarin's line north: Mariam of
+Vaspurakan (Artsruni, Abul Hamza's line), wife of George I of Georgia, her daughter Guarandukht given to
+Osen of the Cumans, their son Aepa, his daughter Anna, married to Yuri Dolgoruky in 1108 (Andrey
+Bogolyubsky her son). The Guarandukht-Osen marriage is constructed (her FamilySearch record has no
+husband; his recorded wife is an error, the Countess of Blois); the record of that is in the parent
+repo's `research/osen-khan-wife.md`, not in the verse.
