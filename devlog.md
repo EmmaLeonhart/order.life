@@ -5600,3 +5600,13 @@ joining as double-edged (the astrolabe and the pepper, the cannon and the burnin
 Mary). Enrique of Melaka, who came home the long way round, and the lost day on the *Victoria* close
 it. Modern placenames, templated, ends "Stand." Checked from memory before committing; a reading
 against sources is still owed.
+
+## 2026-10-12 — ch 255 drafted: There Is No Hindu, There Is No Muslim
+
+Virgo 3 (c. 1499 to 1539, Guru Nanak, Sikhism as a new synthesis). The spine's syncretism axis
+from the other side: a synthesis that had to become a third community because the bridge had
+nowhere to stand. The janamsakhi stories (the Kali Bein, the mosque, Haridwar, Mecca, the flowers)
+are told as stories and marked so; the hymns, the langar, Babur's sack of Eminabad and the
+guruship passed to Lehna/Angad rather than his sons (set against the Marozia years in ch 253) are
+the firm ground. Ends at the Kartarpur corridor and "Stand." Checked from memory; a reading
+against sources is still owed.
