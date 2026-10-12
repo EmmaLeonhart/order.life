@@ -10,7 +10,12 @@ file only.
 **Status, her words:** Virgo, Libra and Scorpius: "I am supportive of every single one of these
 things." Ophiuchus: "the 21st century needs a bit of a redo", because the first version had blanks
 and leaned on her personal arc, which "wasn't as well documented in there as I think you thought it
-was". The Ophiuchus below is that redo and has **not** been read by her yet.
+was". Of the redo below: "I think it's good ... I think I like this one." Then: "give particular
+years associated with all these ones, just because some of these ... don't go quite the way they
+seem." Every entry now carries its year, and entries the years showed to be out of order were
+reordered (Nanak and the Safavids before Luther; Dolly before Deep Blue; the Genome Project before
+the Soviet collapse; Facebook before Google Books; AlexNet before Wikidata). Years are from memory
+and are to be checked before drafting.
 
 The division is hers, 2026-10-10 (`../gaiad-inochi-themes.md`): Virgo 1500s and 1600s, Libra 1700s
 and 1800s, Scorpius 1900s, Ophiuchus 2000s. Leo already covers the early-modern Americas. Hard
@@ -19,65 +24,65 @@ are the time skip, the cryonic revival and Milkomeda.
 
 ## Virgo: 1500s and 1600s (days 253 to 280)
 
-1. Chronicle of the Popes, Peter to Alexander VI (hard anchor, ch 253)
-2. The sea joins the world: da Gama, Magellan
-3. Luther, 1517: print takes scripture out of the priests' hands
-4. Guru Nanak: Sikhism as a new synthesis
-5. The Safavids make Iran Shia (open: "I don't know what to say about the Safavids")
-6. Parish registers begin (England 1538, then Trent): the register of every soul
-7. Copernicus, 1543: the Earth leaves the centre
-8. The first documented Bures (1548, 1553); Vasa's Lutheran Sweden
-9. Xavier lands in Japan, 1549
-10. Suleiman and the millet system: religions as a state register
-11. Akbar's House of Worship and the Din-i Ilahi: an emperor's synthetic religion
-12. Matteo Ricci in China: Confucian and Christian accommodation
-13. Hideyoshi; the Twenty-Six Martyrs, 1597
-14. Sekigahara, 1600: the Tokugawa order
-15. The VOC, 1602: a company with the powers of a state
-16. Johannes Bureus: runes, Kabbalah, Gothicism, *Om Bura namn och ätt*
-17. Galileo's telescope: the sky opens
-18. Russia: the Romanovs (1613) and the Old Believer schism (1666) (open: "unsure how much")
-19. Gustavus Adolphus; Gothicism as Sweden's state myth
-20. Sakoku and the temple registration system: every household registered through a temple
-21. Shimabara, 1637, and the Hidden Christians: a faith kept in secret for 250 years
-22. The Ming fall and the Qing take over, 1644
-23. The Thirty Years' War and Westphalia, 1648
-24. The Royal Society, 1660
-25. Sabbatai Zevi, 1665: a messiah and a mass movement
-26. Newton's *Principia*, 1687
-27. Aurangzeb: the Mughal synthesis closes
-28. Leibniz: binary, the I Ching, a universal language (the bridge to Libra)
+1. Chronicle of the Popes, Peter to Alexander VI (to 1503) (hard anchor, ch 253)
+2. 1498 to 1522: the sea joins the world, da Gama to Magellan's circumnavigation
+3. c. 1499 to 1539: Guru Nanak, Sikhism as a new synthesis
+4. 1501: the Safavids make Iran Shia (open: "I don't know what to say about the Safavids")
+5. 1517: Luther; print takes scripture out of the priests' hands
+6. 1520 to 1566: Suleiman and the millet system, religions as a state register
+7. 1538 and 1563: parish registers begin (England, then Trent), the register of every soul
+8. 1543: Copernicus, the Earth leaves the centre
+9. 1548 and 1553: the first documented Bures; Vasa's Lutheran Sweden
+10. 1549: Xavier lands in Japan
+11. 1575 and 1582: Akbar's House of Worship and the Din-i Ilahi, an emperor's synthetic religion
+12. 1582 to 1610: Matteo Ricci in China, Confucian and Christian accommodation
+13. 1590 and 1597: Hideyoshi unifies Japan; the Twenty-Six Martyrs
+14. 1600: Sekigahara, the Tokugawa order
+15. 1602: the VOC, a company with the powers of a state
+16. 1568 to 1652, working years from c. 1600: Johannes Bureus, runes, Kabbalah, Gothicism, *Om Bura namn och ätt*
+17. 1609 to 1610: Galileo's telescope, the sky opens
+18. 1611 to 1632: Gustavus Adolphus; Gothicism as Sweden's state myth
+19. 1613 and 1666: Russia, the Romanovs and the Old Believer schism (open: "unsure how much")
+20. 1618 to 1648: the Thirty Years' War and Westphalia
+21. 1630s to 1660s: sakoku and the temple registration system, every household registered through a temple
+22. 1637 to 1638: Shimabara and the Hidden Christians, a faith kept in secret for 250 years
+23. 1644: the Ming fall and the Qing take over
+24. 1658 to 1707: Aurangzeb, the Mughal synthesis closes
+25. 1660: the Royal Society
+26. 1665 to 1666: Sabbatai Zevi, a messiah and a mass movement
+27. 1687: Newton's *Principia*
+28. 1679 to 1703: Leibniz, binary, the I Ching, a universal language (the bridge to Libra)
 
 ## Libra: 1700s and 1800s (days 281 to 308)
 
-1. The Chinese Rites controversy: Rome refuses the synthesis
-2. Linnaeus, 1735: a Swede puts all life into one system
-3. Swedenborg: a Swedish visionary's new church
-4. Wahhabism, 1744: purification as a split
-5. The Baal Shem Tov and Hasidism
-6. The *Encyclopédie*, 1751: all knowledge in one structure
-7. Ossian, 1760: a tradition made to look ancient
-8. Watt's engine: the machine age
-9. The *Siku Quanshu*: the largest compilation ever made, and a censorship
-10. Cook in the Pacific
-11. William Jones, 1786: languages turn out to have a family tree
-12. The French Republican calendar, 1793: a revolution remakes time
-13. The Cult of the Supreme Being: a state invents a god
-14. Motoori Norinaga, *Kojiki-den* (1798): ancient Shinto recovered
-15. Napoleon; the Holy Roman Empire ends, 1806
-16. The Rosetta Stone deciphered, 1822: the dead speak again
-17. The Grimms and the *Kalevala*, 1835: a national epic compiled
-18. Babbage and Lovelace: the record gets a machine
-19. The Báb, 1844, then Baháʼu'lláh: a religion of unification
-20. Taiping: Christ's younger brother
-21. Perry, 1853: Japan opens
-22. Darwin, 1859: the Gaiad's own foundation
-23. Mendel and Galton: inheritance, and who gets to survive
-24. Meiji, 1868: the Department of Divinities restored; kami and buddhas forced apart
-25. Theosophy, 1875: East and West in one system
-26. Nietzsche's *Genealogy of Morals*, 1887: who gets to define good
-27. Hollerith, 1890: the census becomes a machine
-28. The Parliament of the World's Religions, 1893; Vivekananda
+1. 1704 and 1742: the Chinese Rites controversy, Rome refuses the synthesis
+2. 1735: Linnaeus, a Swede puts all life into one system
+3. c. 1740: the Baal Shem Tov and Hasidism
+4. 1744: Wahhabism, purification as a split
+5. 1745 to 1772: Swedenborg, a Swedish visionary's new church
+6. 1751: the *Encyclopédie*, all knowledge in one structure
+7. 1760: Ossian, a tradition made to look ancient
+8. 1768 to 1779: Cook in the Pacific
+9. 1769 and 1776: Watt's engine, the machine age
+10. 1773 to 1782: the *Siku Quanshu*, the largest compilation ever made, and a censorship
+11. 1786: William Jones, languages turn out to have a family tree
+12. 1793: the French Republican calendar, a revolution remakes time
+13. 1794: the Cult of the Supreme Being, a state invents a god
+14. 1798: Motoori Norinaga completes the *Kojiki-den*, ancient Shinto recovered
+15. 1804 and 1806: Napoleon; the Holy Roman Empire ends
+16. 1812 and 1835: the Grimms and the *Kalevala*, a national epic compiled
+17. 1822: the Rosetta Stone deciphered, the dead speak again
+18. 1822 to 1843: Babbage and Lovelace, the record gets a machine
+19. 1844 and 1863: the Báb, then Baháʼu'lláh, a religion of unification
+20. 1850 to 1864: Taiping, Christ's younger brother
+21. 1853: Perry, Japan opens
+22. 1859: Darwin, the Gaiad's own foundation
+23. 1866 and 1869: Mendel and Galton, inheritance and who gets to survive
+24. 1868: Meiji; the Department of Divinities restored, kami and buddhas forced apart
+25. 1875: Theosophy, East and West in one system
+26. 1887: Nietzsche's *Genealogy of Morals*, who gets to define good
+27. 1890: Hollerith, the census becomes a machine
+28. 1893: the Parliament of the World's Religions; Vivekananda
 
 ## Scorpius: 1900s (days 309 to 336)
 
@@ -86,67 +91,67 @@ are the time skip, the cryonic revival and Milkomeda.
 day 8, and puts Heisei's Daijōsai (1990, the Niiname-sai slot, her 2026-09-25 correction) on day
 21. Either the list shifts so 1945 lands on day 21, or ch 329 migrates.
 
-1. Einstein, 1905
-2. The Qing fall, 1911: the imperial cult of Heaven ends
-3. The First World War
-4. Russia, 1917: Marxism takes a state
-5. The caliphate abolished, 1924
-6. Turing, 1936: what can be computed
-7. The Holocaust: who survives, and the names kept (Yad Vashem)
-8. Hiroshima and Nagasaki
-9. ENIAC and the transistor
-10. The Shinto Directive, the Humanity Declaration, and the founding of Jinja Honchō, 1946
-11. The UN and the Universal Declaration of Human Rights
-12. Partition, and Israel: splits
-13. DNA, 1953
-14. Sputnik, 1957
-15. Vatican II: the rite in the people's language
-16. The Granite Mountain Records Vault, 1965: the Mormons microfilm the world's ancestors
-17. The Cultural Revolution: tradition destroyed
-18. The Moon landing and ARPANET, 1969
-19. Revived paganisms: Ásatrú recognised in Iceland, 1973
-20. Deng opens China; the Iranian Revolution (1978 to 1979)
-21. Heisei's Daijōsai, 1990 (the Niiname-sai slot)
-22. The Soviet collapse, 1991
-23. The Web
-24. The Human Genome Project begins
-25. Aum Shinrikyo, 1995: the shadow side of new religions
-26. Deep Blue, 1997
-27. Dolly the sheep: copying life
-28. Y2K: the century ends worried about its own clocks
+1. 1905: Einstein
+2. 1911 to 1912: the Qing fall, the imperial cult of Heaven ends
+3. 1914 to 1918: the First World War
+4. 1917: Russia, Marxism takes a state
+5. 1924: the caliphate abolished
+6. 1936: Turing, what can be computed
+7. 1941 to 1945: the Holocaust, who survives, and the names kept (Yad Vashem, 1953)
+8. 1945: Hiroshima and Nagasaki
+9. 1945 and 1947: ENIAC and the transistor
+10. 1945 to 1946: the Shinto Directive, the Humanity Declaration, the founding of Jinja Honchō
+11. 1945 and 1948: the UN and the Universal Declaration of Human Rights
+12. 1947 and 1948: Partition, and Israel, splits
+13. 1953: DNA
+14. 1957: Sputnik
+15. 1962 to 1965: Vatican II, the rite in the people's language
+16. 1965: the Granite Mountain Records Vault, the Mormons microfilm the world's ancestors
+17. 1966 to 1976: the Cultural Revolution, tradition destroyed
+18. 1969: the Moon landing and ARPANET
+19. 1973: revived paganisms, Ásatrú recognised in Iceland
+20. 1978 and 1979: Deng opens China; the Iranian Revolution
+21. 1990: Heisei's Daijōsai (the Niiname-sai slot)
+22. 1990: the Human Genome Project begins
+23. 1991: the Soviet collapse
+24. 1991: the Web goes public
+25. 1995: Aum Shinrikyo, the shadow side of new religions
+26. 1996: Dolly the sheep, copying life
+27. 1997: Deep Blue
+28. 2000: Y2K, the century ends worried about its own clocks
 
-## Ophiuchus: 2000s (days 337 to 364), redo, not yet read by Emma
+## Ophiuchus: 2000s (days 337 to 364)
 
 Built on the planned shape of the month (`../gaiad-inochi-themes.md`, `ch362-handoff.md`): the
 register that began on paper becomes a database and then a writing machine; the fork over whether
 the machine ends in a few hands or everyone's; climate; reactionary invented tradition; 2026 as
 "still in it", not a prediction. Emma's own arc is one chapter (day 25), not a thread.
 
-1. Wikipedia, 2001: everyone writes the record
-2. 9/11 and its wars: religion back at the centre of politics
-3. The Genome completed, 2003: the code of descent read
-4. Google Books: the paper record becomes searchable
-5. Facebook: kinship becomes a network
-6. Consumer DNA and indexed genealogy (23andMe, FamilySearch): everyone traces descent
-7. The iPhone, 2007: the machine in every hand
-8. The 2008 crash and Bitcoin: trust moves from institutions to protocol
-9. Climate, from Copenhagen to Paris: who survives
-10. The Arab Spring, 2011: networks against states
-11. Fukushima, 2011
-12. Wikidata, 2012: the register becomes a machine-readable ontology
-13. AlexNet, 2012: machines learn to see
-14. Snowden, 2013: the register watches back
-15. The Islamic State, 2014: reactionary invented tradition
-16. AlphaGo, 2016: the oldest game falls
-17. The populist turn, 2016: invented tradition in politics
-18. The Transformer, 2017: attention
-19. Reiwa's Daijōsai, 2019: the oldest rite continued
-20. COVID, 2020
-21. ChatGPT, 2022: the writing machine
-22. The fork: open weights and closed, the machine in few hands or everyone's
-23. Agents: machines that act, and a scripture written with them
-24. Shinto overseas and new religions online: traditions carried past their borders
-25. Emma and her ancestry, 2026, with the Virgo coincidence
+1. 2001: Wikipedia, everyone writes the record
+2. 2001: 9/11 and its wars, religion back at the centre of politics
+3. 2003: the Genome completed, the code of descent read
+4. 2004: Facebook, kinship becomes a network
+5. 2004: Google Books, the paper record becomes searchable
+6. 2007: the iPhone, the machine in every hand
+7. 2006 to 2007: indexed genealogy and consumer DNA (FamilySearch indexing, 23andMe), everyone traces descent
+8. 2008 to 2009: the crash and Bitcoin, trust moves from institutions to protocol
+9. 2009 to 2015: climate, from Copenhagen to Paris, who survives
+10. 2010 to 2011: the Arab Spring, networks against states
+11. 2011: Fukushima
+12. 2012: AlexNet, machines learn to see
+13. 2012: Wikidata, the register becomes a machine-readable ontology
+14. 2013: Snowden, the register watches back
+15. 2014: the Islamic State, reactionary invented tradition
+16. 2016: AlphaGo, the oldest game falls
+17. 2016: the populist turn, invented tradition in politics
+18. 2017: the Transformer, attention
+19. 2019: Reiwa's Daijōsai, the oldest rite continued
+20. 2020: COVID
+21. 2022: ChatGPT, the writing machine
+22. 2023 to 2024: the fork, open weights and closed, the machine in few hands or everyone's
+23. 2024 to 2025: agents, machines that act, and a scripture written with them
+24. 2001 to 2026: Shinto overseas and new religions online, traditions carried past their borders
+25. 2026: Emma and her ancestry, with the Virgo coincidence
 26. 2026 and the time skip (hard anchor, ch 362)
 27. The cryonic revival (hard anchor, ch 363)
 28. Milkomeda (hard anchor, ch 364)
