@@ -402,7 +402,9 @@ Items, in order:
 
 7. **The modern chapters, one item each, in order (Emma, 2026-10-12 15:55: "each chapter is individually
    there in order so that they just get made ... reliably, not half-assed").** Themes are from the
-   approved `planning/gaiad-253-364/day-themes-draft.md`. For every chapter: read
+   approved `planning/gaiad-253-364/day-themes-draft.md`. Each one is written, not drafted (Emma,
+   15:56: "it's not supposed to be drafted. You're supposed to literally write each one of them in
+   order"): a finished chapter, in order, before the next. For every chapter: read
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
@@ -523,6 +525,17 @@ Items, in order:
    (year + 10000, from the ISO week as now), and show both in `_ancestor_lines` in `build.py` and in
    `templates/sections/ancestor-day.html`, e.g. "(14 March 825; Virgo 26, 10825 GE)"; for a date
    placed by her rules, show what the source said ("abt 825"). No zero padding.
+
+9. **After every chapter is written: a systematic review of the whole Gaiad, in chronological order
+   (Emma, 2026-10-12 15:56).** Her words: "a systematic review of all of the chapters in chronological
+   order ... to review the degree that they satisfy all of the criteria that order.life is supposed
+   to have." Ch 1 to 364 in order, one chapter at a time, each checked against every criterion: the
+   pinned corrections in `STATUS.md` (verse register, three braided registers, modern placenames,
+   `{{c|}}`/`{{p|}}` templating, ends "Stand."), `CLAUDE.md` (the synoptic genealogy told by its
+   story; linear time; one person, one set of parents; cross-tradition joins kept), the tone and
+   founder guidance in `planning/gaiad-tone-and-founders.md`, the thematic spine for 253-364, the
+   chapter's day and holiday in the calendar, and its facts. Record each chapter's result, fix what
+   fails, one commit per chapter. Starts only when ch 364 exists.
 
 ## AWAITING EMMA — reports written, decisions open
 
