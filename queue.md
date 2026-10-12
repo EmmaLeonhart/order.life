@@ -406,6 +406,14 @@ Items, in order:
    Virgo's anchors (ch 253, the Chronicle of the Popes; the Johannes Bureus chapter) and the days
    item 2 shows to sit on holidays. Check `planning/gaiad-tone-and-founders.md` and
    `planning/gaiad-253-364/` before each chapter.
+8. **Ancestor lines: full dates in both calendars (Emma, 2026-10-12 15:09).** On her phone the iCal
+   line reads "Died: Welf I von Altdorf Graf in Schwaben (0825)": the Gregorian year alone,
+   zero-padded, on a Gaian day. She wants the date as the source gives it (Gregorian, or the native
+   calendar's date) and the Gaian date. Work: keep the source's date text in
+   `content/ancestor_days.json` (`scripts/build_ancestor_days.py`), compute the Gaian date with year
+   (year + 10000, from the ISO week as now), and show both in `_ancestor_lines` in `build.py` and in
+   `templates/sections/ancestor-day.html`, e.g. "(14 March 825; Virgo 26, 10825 GE)"; for a date
+   placed by her rules, show what the source said ("abt 825"). No zero padding.
 
 ## AWAITING EMMA — reports written, decisions open
 
