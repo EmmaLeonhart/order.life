@@ -5527,3 +5527,13 @@ Mid-Autumn on Ricci in China, Shindensai on Sekigahara, Yom Kippur on Westphalia
 Heisei's Daijōsai. Weak ones worth her look: the Eve of Ancestors (Libra 21) on Perry, with Darwin
 and Mendel/Galton one and two days later; the second US Thanksgiving on Aum Shinrikyo; Christmas on
 the 2022 invasion of Ukraine. Nothing moved.
+
+## 2026-10-12 — ch 329 stays on Scorpius 21 (decided, Emma may overrule)
+
+The open question was whether ch 329, "The Covenant of Peace" (1945), migrates to make room for
+Heisei's Daijōsai on Niiname-sai, or the list shifts. Emma's instruction today was to make such
+calls myself and record why. Decided: ch 329 stays, and the 1990 Daijōsai is woven into it at
+revision. The calendar's text for Scorpius 21 in `content/gaian_days.json` already calls the day
+"the Postwar Victory Celebration ... the happiest chapter", the chapter is a festival chapter
+built for that holiday, and the approved list puts the bombs on day 8, so day 21 reads as the
+peace after them. No file moved; recorded in the day-themes draft.

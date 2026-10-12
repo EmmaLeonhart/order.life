@@ -86,10 +86,18 @@ are the time skip, the cryonic revival and Milkomeda.
 
 ## Scorpius: 1900s (days 309 to 336)
 
-**NEEDS-DECISION (Emma):** ch 329 (Scorpius 21), "The Covenant of Peace", is already drafted as a
-1945 peace tableau and is a soft anchor. This list, which she approved, puts the war's end around
-day 8, and puts Heisei's Daijōsai (1990, the Niiname-sai slot, her 2026-09-25 correction) on day
-21. Either the list shifts so 1945 lands on day 21, or ch 329 migrates.
+**Day 21 decided 2026-10-12 (by Claude, on Emma's standing "make the call yourself"; hers to
+overrule):** ch 329 (Scorpius 21), "The Covenant of Peace", stays where it is, and Heisei's Daijōsai
+joins it rather than replacing it. Reasons: the calendar's own entry for the day
+(`content/gaian_days.json`, Labor Thanksgiving Niiname-sai) says it "marks the Postwar Victory
+Celebration ... the happiest chapter", so moving the chapter would leave the live holiday text
+describing a chapter that is not there; the chapter is a festival chapter (Labor Day, the Kartik
+lamps, the Shinto harvest offered "before a broken shrine", Hanukkah, the New Year's Humanity
+Declaration) built for that holiday; and day 8 here is the bombs, so day 21 can be the peace after
+them without the list shifting. Her 2026-09-25 correction (the Niiname-sai slot to Heisei's real
+Daijōsai) is kept by weaving the 1990 Daijōsai, an emperor's first Niiname-sai, into ch 329 when it
+is revised: the 1945 harvest before a broken shrine, answered by the rite performed in full 45 years
+later.
 
 1. 1905: Einstein
 2. 1911 to 1912: the Qing fall, the imperial cult of Heaven ends
@@ -111,7 +119,7 @@ day 8, and puts Heisei's Daijōsai (1990, the Niiname-sai slot, her 2026-09-25 c
 18. 1969: the Moon landing and ARPANET
 19. 1973: revived paganisms, Ásatrú recognised in Iceland
 20. 1978 and 1979: Deng opens China; the Iranian Revolution
-21. 1990: Heisei's Daijōsai (the Niiname-sai slot)
+21. 1945 and 1990: the Covenant of Peace (ch 329, drafted) with Heisei's Daijōsai woven in at revision (the Niiname-sai slot)
 22. 1990: the Human Genome Project begins
 23. 1991: the Soviet collapse
 24. 1991: the Web goes public
@@ -185,6 +193,6 @@ The "fit" column is my reading, not hers; no theme has been moved, and any move 
 | Libra 28 (308) | Samhain (Halloween Final) | 1893: the Parliament of the World's Religions | neutral to good: a closing gathering of traditions on the month's last day |
 | Scorpius 14 (322) | Ides of Scorpio, Shichi-go-san | 1957: Sputnik | weak: a children's rite on a space launch |
 | Scorpius 18 (326) | US Thanksgiving (first) | 1969: the Moon landing and ARPANET | fair: two American firsts on the American holiday |
-| Scorpius 21 (329) | Niiname-sai | 1990: Heisei's Daijōsai | good by design (her 2026-09-25 correction); ch 329's 1945 tableau is the open question above |
+| Scorpius 21 (329) | Niiname-sai | 1945 and 1990: ch 329 with Heisei's Daijōsai | good by design: the calendar's own text names ch 329's postwar celebration, and her 2026-09-25 correction adds the Daijōsai (decided above) |
 | Scorpius 25 (333) | US Thanksgiving (second) | 1995: Aum Shinrikyo | poor: a thanksgiving on the shadow side of new religions |
 | Ophiuchus 21 (357) | Christmas, Dongzhi Festival | 2022: Russia's full invasion of Ukraine; ChatGPT; Emma's Sudowrite | weak: no shared subject; war on Christmas is a hard pairing |

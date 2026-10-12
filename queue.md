@@ -400,11 +400,6 @@ Her request: queue items "for reworking the Gaian calendar and the Gaiad to make
 
 Items, in order:
 
-3. **NEEDS-DECISION (Emma): ch 329 and Scorpius 21.** The drafted ch 329 ("The Covenant of Peace")
-   is a 1945 peace tableau on Scorpius 21. The data puts Niiname-sai on Scorpius 21, and her
-   2026-09-25 correction gives the Niiname-sai slot to Heisei's real Daijōsai (1990), which is where
-   her approved day-themes list puts it. Her list has 1945 around Scorpius 8. So ch 329 either moves
-   to the war's end in the list, or the list shifts. Ask her with AskUserQuestion.
 4. **Record her 2026-10-12 instruction against pinned correction 5.** `STATUS.md` pins "Do not
    propose numbered chapter lists." On 2026-10-12 she asked for a complete day-by-day list and
    approved it (quotes above and in the draft's header). Add a dated note under pinned correction 5
