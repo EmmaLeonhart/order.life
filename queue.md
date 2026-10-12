@@ -377,6 +377,77 @@ with AskUserQuestion instead of parking it here.**
 21 records off this table in one pass. See the devlog entry; the cut set is
 `cut_edges.py inversion-class`.
 
+## GAIAD AND THE GAIAN CALENDAR (added 2026-10-12, from Emma's psilocybin-session chat of 2026-10-11/12)
+
+Her request: queue items "for reworking the Gaian calendar and the Gaiad to make this work better",
+"based off of all of the stuff that we've been talking about". The chat is in the
+`psilocybin-session-management` repo (`sessions/2026-10-11_d11e58a5.md`,
+`research/session-2026-10-11.md`). What she said that these items rest on:
+
+- The calendar is the part of the Gaiad she is proudest of: "I managed to establish it into a
+  calendar system so that it's something that can actually be used liturgically rather than ...
+  some long book nobody reads." "The calendar is actually doing more work than I may initially think
+  of it as being."
+- The modern sections: "we probably should have enough content and ideas that we can ... make the
+  modern sections. They're not going to be set in stone."
+- Ophiuchus is the 21st century and is rewritten often for a while: "Am I going to say it's going
+  to be rewritten every year? Every year? No. But I imagine it's going to be such for a while ...
+  we're about a quarter of the way through it."
+- What she likes: "It feels like an ancient tradition. That couldn't have been made in the modern
+  day, except it was made in this year."
+- The day-by-day draft must be complete: "just this thing being out there as a thing ... makes it
+  so that it's, in a sense, citable ... But it does kind of have to be complete."
+
+Items, in order:
+
+1. **Month blurbs in `build.py` contradict her division.** Her division (2026-10-10, in
+   `planning/gaiad-inochi-themes.md`): Virgo 1500s and 1600s, Libra 1700s and 1800s, Scorpius 1900s,
+   Ophiuchus 2000s. `build.py`'s month descriptions still say Libra reaches "the beginnings of the
+   World Wars, and ... the 20th century" and Ophiuchus covers "the Cold War, the digital
+   revolution". Rewrite the Libra, Scorpius and Ophiuchus blurbs (and their translations, if any)
+   to her division. The blurbs' holiday days are also out of date against `content/gaian_days.json`:
+   Virgo's says Rosh Hashanah on Virgo 7 and Yom Kippur on Virgo 15, the data has Virgo 10 and
+   Virgo 20; Scorpius's says Scorpio 21 is V-J Day, the data has Niiname-sai there. Take the days
+   from the data. Do not run `build.py` locally (pinned correction 1).
+2. **Reconcile `planning/gaiad-253-364/day-themes-draft.md` with the holidays.** The draft was
+   written without them. In `content/gaian_days.json` (checked 2026-10-12): Virgo 10 Rosh Hashanah,
+   11 to 19 the Days of Awe, 12 Mid-Autumn Festival, 14 Shindensai, 20 Yom Kippur, 26 Sukkot; Libra 1
+   Japan Sports Day and Canada Thanksgiving, 21 Halloween ("Eve of Ancestors"), 28 Samhain; Scorpius
+   14 Shichi-go-san, 18 and 25 US Thanksgiving, 21 Niiname-sai; Ophiuchus 21 Christmas and Dongzhi.
+   Mark in the draft which day themes fall on these days and whether they fit; move nothing without
+   her word. Libra 21, "Eve of Ancestors", bears on item 5.
+3. **NEEDS-DECISION (Emma): ch 329 and Scorpius 21.** The drafted ch 329 ("The Covenant of Peace")
+   is a 1945 peace tableau on Scorpius 21. The data puts Niiname-sai on Scorpius 21, and her
+   2026-09-25 correction gives the Niiname-sai slot to Heisei's real Daijōsai (1990), which is where
+   her approved day-themes list puts it. Her list has 1945 around Scorpius 8. So ch 329 either moves
+   to the war's end in the list, or the list shifts. Ask her with AskUserQuestion.
+4. **Record her 2026-10-12 instruction against pinned correction 5.** `STATUS.md` pins "Do not
+   propose numbered chapter lists." On 2026-10-12 she asked for a complete day-by-day list and
+   approved it (quotes above and in the draft's header). Add a dated note under pinned correction 5
+   saying the day-themes draft exists at her request and is a theme per day, not a chapter
+   outline; do not rewrite her earlier rule.
+5. **Ancestor days in the calendar.** Her idea, 2026-10-12: ancestors' birth and death days placed
+   in the Gaian calendar and reminded through the order.life iCal she has subscribed on all her
+   devices. "I can put them in the Gaian calendar and celebrate those of my ancestors." Her ancestors
+   include Abul Hamza by her decision ("I'm putting Abul Hamza in my ancestors"), whatever the
+   documented line shows. The calendar is 13 months of 28 days, so a date keeps its weekday every
+   year. Work: (a) find where the iCal reads its days (`content/gaian_days.json`, `_vevent` in
+   `build.py`) and whether a second feed or a category is the cleaner place; (b) write the
+   Gregorian-to-Gaian conversion if only the reverse (`_gaian_day_to_greg`) exists; (c) list where
+   the seed people and their dates live in the `genealogy` submodule (read its own docs first; its
+   data has a specific way it is to be read). NEEDS-DECISION (Emma) before anything goes live:
+   which ancestors, and whether it is a separate feed.
+6. **Write a revision convention for Ophiuchus.** One short section in
+   `planning/gaiad-inochi-themes.md`: Ophiuchus is the living month; its day themes and chapters are
+   revised as the century goes on ("not every year", her words, "but for a while"); each revision is
+   dated and the earlier text kept in git, not deleted.
+7. **Draft the modern chapters from the day themes, Virgo first.** She thinks the material is there
+   and that the sections are "not going to be set in stone". Barrel-through mode is allowed (pinned
+   correction 9): real chapters, verse, `{{c|}}`/`{{p|}}` templating, ending "Stand." Begin with
+   Virgo's anchors (ch 253, the Chronicle of the Popes; the Johannes Bureus chapter) and the days
+   item 2 shows to sit on holidays. Check `planning/gaiad-tone-and-founders.md` and
+   `planning/gaiad-253-364/` before each chapter.
+
 ## AWAITING EMMA — reports written, decisions open
 
 > ### ⛔ NOTION WINS. READ IT BEFORE TRUSTING THIS SECTION.
