@@ -146,7 +146,7 @@ the machine ends in a few hands or everyone's; climate; reactionary invented tra
 17. 2017: the Transformer, attention
 18. 2019: Reiwa's Daijōsai, the oldest rite continued
 19. 2020: COVID; alongside it, Emma's 2020: the Gaiad's weekly verses through much of the year, to about chapter 60
-20. 2021: the vaccines, and the Taliban back in Kabul; alongside it, Emma's 2021: the gap in the Gaiad
+20. 2021: the vaccines, and the Taliban back in Kabul; alongside it, Emma's 2021: "a pretty significant year for me where I ran around Europe and did lots of stuff" (her words, 2026-10-12; the Gaiad itself had a gap that year)
 21. 2022: Russia's full invasion of Ukraine (after Crimea, 2014), war in Europe again (Emma: "the biggest missing part here"); ChatGPT, the writing machine; alongside it, Emma's 2022: Sudowrite, her first writing with AI
 22. 2023: Shinto overseas, traditions carried past their borders; alongside it, Emma's 2023: "a lot of this Shinto stuff fall into my hands"
 23. 2024: the fork, the machine in few hands or everyone's; alongside it, Emma's 2024: "trying to reclaim a sacred geography, trying to reclaim other things ... being able to do so, but having it yanked away from me, too"
