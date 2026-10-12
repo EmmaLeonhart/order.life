@@ -5580,3 +5580,14 @@ Alexander VI and Tordesillas, the papacy's family years under Marozia as the gen
 "reckoning" Virgo opens. Templated, ends "Stand." Facts checked from memory before committing
 (Henry IV a king at Canossa, Hus burned 1415 two years before Martin V, Luther born at Eisleben);
 a reading against sources is still owed, like every barrel-through chapter.
+
+## 2026-10-12 — ancestor days: Emma's date rules, 42,904 events
+
+Emma, 2026-10-12: "We are going for abundance here. We're not going for being exact." Dates now
+placed by her rules in `scripts/build_ancestor_days.py`: exact on its day; month and year on the
+1st; year only on 1 January; approximate (abt, est, cal) on 1 June; before a year on 31 December of
+the year before (bef 800 -> 31 Dec 799); after a year on 31 December of that year (aft 800 -> 31 Dec
+800); a range on both ends. The pre-1700 1 January filter is gone. Same 32,574 people; events placed
+went from 3,932 to 42,904, on 369 days; the days at the turn of the year carry about 3,000 each, which
+she expects. Abul Hamza (year 869) is now on a day. Bef/aft with a month or full date follow the same
+pattern (last day before / last day of); that extension is mine.

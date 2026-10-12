@@ -17,11 +17,13 @@ the root person too. The run of 2026-10-12, from the inochi-no-michikyo checkout
 
 Ancestors are found by walking parent links (FAMC and CHIL) up from the root, so the descendants
 and side branches these files also hold are left out. A person in more than one source counts
-once: matched on FamilySearch id, else on name and exact birth (or death) date. Only exact dates
-(day, month, year) are placed, except 1 January before 1700: in the Geni union that is mostly a
-year-only date stored as 1 Jan (63 of 3,988 placed dates fell on 1 January, about 11 expected).
-Anyone with no death event who was born in the last 110 years, or
-whose birth year is unknown, is treated as living and left out. Dates are used as written
+once: matched on FamilySearch id, else on name and exact birth (or death) date. Dates are placed by
+Emma's rules (2026-10-12, "going for abundance here, not for being exact"): an exact date on its
+day; month and year on the 1st of the month; year only on 1 January; approximate (abt, est, cal)
+on 1 June of the year; before a year on 31 December of the year before (bef 800 -> 31 Dec 799),
+after a year on 31 December of that year (aft 800 -> 31 Dec 800); a range on both of its ends.
+Anyone with no death event who was born in the last 110 years, or whose birth year is unknown, is
+treated as living and left out. Dates are used as written
 (proleptic Gregorian; Julian dates are not converted). A date's Gaian day of the year comes from
 its ISO week date, as in build.py's gregorian_to_gaian: 1-364, and 365-371 for Horus 1-7.
 """
@@ -33,7 +35,6 @@ import sys
 from pathlib import Path
 
 LIVING_YEARS = 110
-JAN1_PLACEHOLDER_BEFORE = 1700
 OUT = Path(__file__).resolve().parent.parent / "content" / "ancestor_days.json"
 
 MONTHS = {
@@ -140,6 +141,84 @@ def exact_date(value):
         return None
 
 
+MY = re.compile(r"^([A-Za-z]+)\.? (\d{3,4})$")
+APPROX = re.compile(r"^(abt|about|est|estimated|cal|calculated|circa|ca|c|int)\.?\s+", re.I)
+BEFORE = re.compile(r"^(bef|before)\.?\s+(.+)$", re.I)
+AFTER = re.compile(r"^(aft|after)\.?\s+(.+)$", re.I)
+RANGE = re.compile(r"^(?:from|bet|between)\.?\s+(.+?)\s+(?:to|and)\s+(.+)$", re.I)
+OPEN_RANGE = re.compile(r"^(?:from|to)\.?\s+(.+)$", re.I)
+
+
+def _plain_date(v):
+    """Exact date as it is; month and year -> the 1st; year only -> 1 January."""
+    v = v.strip().strip("<>").strip()
+    d = exact_date(v)
+    if d:
+        return d
+    try:
+        m = MY.match(v)
+        if m and m[1].lower() in MONTHS:
+            return datetime.date(int(m[2]), MONTHS[m[1].lower()], 1)
+        m = re.match(r"^(\d{3,4})(/\d{1,2})?$", v)
+        if m:
+            return datetime.date(int(m[1]), 1, 1)
+    except ValueError:
+        pass
+    return None
+
+
+def _period_end(v, before):
+    """Before a period: the last day before it starts (bef 800 -> 31 Dec 799). After a period: the
+    last day of it (aft 800 -> 31 Dec 800); after an exact date, that date."""
+    v = v.strip("<>").strip()
+    try:
+        d = exact_date(v)
+        if d:
+            return d - datetime.timedelta(days=1) if before else d
+        m = MY.match(v)
+        if m and m[1].lower() in MONTHS:
+            first = datetime.date(int(m[2]), MONTHS[m[1].lower()], 1)
+            if before:
+                return first - datetime.timedelta(days=1)
+            nxt = datetime.date(first.year + (first.month == 12), first.month % 12 + 1, 1)
+            return nxt - datetime.timedelta(days=1)
+        y = YEAR.search(v)
+        if y:
+            return datetime.date(int(y[1]) - 1, 12, 31) if before else datetime.date(int(y[1]), 12, 31)
+    except (ValueError, OverflowError):
+        return None
+    return None
+
+
+def placed_dates(value):
+    """The days an event is kept on, by Emma's rules (2026-10-12), "going for abundance here,
+    not for being exact": an exact date on its day; month and year on the 1st of the month; year
+    only on 1 January; an approximate date (abt, est, cal) on 1 June of its year; bef and
+    aft as in _period_end; a range (from ... to, bet ... and) on both of its ends."""
+    v = (value or "").strip().strip("<>").strip()
+    if not v:
+        return []
+    m = RANGE.match(v)
+    if m:
+        return [d for d in (_plain_date(m[1]), _plain_date(m[2])) if d]
+    m = BEFORE.match(v) or AFTER.match(v)
+    if m:
+        d = _period_end(m[2].strip(), before=bool(BEFORE.match(v)))
+        return [d] if d else []
+    if APPROX.match(v):
+        rest = APPROX.sub("", v, count=1)
+        y = YEAR.search(rest)
+        try:
+            return [datetime.date(int(y[1]), 6, 1)] if y else []
+        except ValueError:
+            return []
+    m = OPEN_RANGE.match(v)
+    if m:
+        v = m[1]
+    d = _plain_date(v)
+    return [d] if d else []
+
+
 def any_year(value):
     m = YEAR.search(value or "")
     return int(m[1]) if m else None
@@ -197,16 +276,14 @@ def main(sources):
             living += 1
             continue
         for tag, key in (("BIRT", "births"), ("DEAT", "deaths")):
-            d = exact_date(p[tag])
-            if not d or (d.month == 1 and d.day == 1 and d.year < JAN1_PLACEHOLDER_BEFORE):
-                continue
-            e = {"name": p["name"] or "(no name)", "date": d.isoformat()}
-            if p["fsid"]:
-                e["fsid"] = p["fsid"]
-            elif p["geni"]:
-                e["geni"] = p["geni"]
-            days.setdefault(str(gaian_doy(d)), {"births": [], "deaths": []})[key].append(e)
-            placed += 1
+            for d in placed_dates(p[tag]):
+                e = {"name": p["name"] or "(no name)", "date": d.isoformat()}
+                if p["fsid"]:
+                    e["fsid"] = p["fsid"]
+                elif p["geni"]:
+                    e["geni"] = p["geni"]
+                days.setdefault(str(gaian_doy(d)), {"births": [], "deaths": []})[key].append(e)
+                placed += 1
     for v in days.values():
         for key in ("births", "deaths"):
             v[key].sort(key=lambda e: (e["date"], e["name"]))
