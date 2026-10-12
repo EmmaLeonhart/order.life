@@ -5570,3 +5570,13 @@ A short section in `planning/gaiad-inochi-themes.md`: Ophiuchus, the 21st centur
 the century goes on ("not every year ... but for a while", her words); each revision is dated in
 the file with what moved and why; earlier text stays in git; the endpoints (ch 362-364) stay fixed;
 the other months are edited the ordinary way.
+
+## 2026-10-12 — ch 253 drafted: The Chronicle of the Popes
+
+The Virgo hard anchor, first of the modern chapters (queue item 7). Chronicle form, as
+`planning/gaiad-253-364/chapter-allocation.md` sets it: the succession compressed from Peter to
+Alexander VI and Tordesillas, the papacy's family years under Marozia as the genealogical turn
+(the tone guide's peak of papal corruption), ending on the threshold of the Reformation and the
+"reckoning" Virgo opens. Templated, ends "Stand." Facts checked from memory before committing
+(Henry IV a king at Canossa, Hus burned 1415 two years before Martin V, Luther born at Eisleben);
+a reading against sources is still owed, like every barrel-through chapter.
