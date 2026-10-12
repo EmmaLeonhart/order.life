@@ -400,12 +400,121 @@ Her request: queue items "for reworking the Gaian calendar and the Gaiad to make
 
 Items, in order:
 
-7. **Draft the modern chapters from the day themes, Virgo first.** She thinks the material is there
-   and that the sections are "not going to be set in stone". Barrel-through mode is allowed (pinned
-   correction 9): real chapters, verse, `{{c|}}`/`{{p|}}` templating, ending "Stand." Begin with
-   Virgo's anchors (ch 253, the Chronicle of the Popes; the Johannes Bureus chapter) and the days
-   item 2 shows to sit on holidays. Check `planning/gaiad-tone-and-founders.md` and
-   `planning/gaiad-253-364/` before each chapter.
+7. **The modern chapters, one item each, in order (Emma, 2026-10-12 15:55: "each chapter is individually
+   there in order so that they just get made ... reliably, not half-assed").** Themes are from the
+   approved `planning/gaiad-253-364/day-themes-draft.md`. For every chapter: read
+   `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
+   first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
+   check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
+   its line here when done. Ch 253-256 are done.
+   - **Ch 257 (Virgo 5):** 1517: Luther; print takes scripture out of the priests' hands.
+   - **Ch 258 (Virgo 6):** 1520 to 1566: Suleiman and the millet system, religions as a state register.
+   - **Ch 259 (Virgo 7):** 1538 and 1563: parish registers begin (England, then Trent), the register of every soul.
+   - **Ch 260 (Virgo 8):** 1543: Copernicus, the Earth leaves the centre.
+   - **Ch 261 (Virgo 9):** 1548 and 1553: the first documented Bures; Vasa's Lutheran Sweden.
+   - **Ch 262 (Virgo 10):** 1549: Xavier lands in Japan. Holiday: Rosh Hashanah.
+   - **Ch 263 (Virgo 11):** 1575 and 1582: Akbar's House of Worship and the Din-i Ilahi, an emperor's synthetic religion. Holiday: Days of Awe.
+   - **Ch 264 (Virgo 12):** 1582 to 1610: Matteo Ricci in China, Confucian and Christian accommodation. Holiday: Mid-Autumn Festival; Days of Awe.
+   - **Ch 265 (Virgo 13):** 1590 and 1597: Hideyoshi unifies Japan; the Twenty-Six Martyrs. Holiday: Days of Awe.
+   - **Ch 266 (Virgo 14):** 1600: Sekigahara, the Tokugawa order. Holiday: Shindensai; Days of Awe.
+   - **Ch 267 (Virgo 15):** 1602: the VOC, a company with the powers of a state. Holiday: Days of Awe.
+   - **Ch 268 (Virgo 16):** 1568 to 1652, working years from c. 1600: Johannes Bureus, runes, Kabbalah, Gothicism, *Om Bura namn och ätt*. Holiday: Days of Awe.
+   - **Ch 269 (Virgo 17):** 1609 to 1610: Galileo's telescope, the sky opens. Holiday: Days of Awe.
+   - **Ch 270 (Virgo 18):** 1611 to 1632: Gustavus Adolphus; Gothicism as Sweden's state myth. Holiday: Days of Awe.
+   - **Ch 271 (Virgo 19):** 1613 and 1666: Russia, the Romanovs and the Old Believer schism (open: "unsure how much"). Holiday: Days of Awe.
+   - **Ch 272 (Virgo 20):** 1618 to 1648: the Thirty Years' War and Westphalia. Holiday: Yom Kippur.
+   - **Ch 273 (Virgo 21):** 1630s to 1660s: sakoku and the temple registration system, every household registered through a temple.
+   - **Ch 274 (Virgo 22):** 1637 to 1638: Shimabara and the Hidden Christians, a faith kept in secret for 250 years.
+   - **Ch 275 (Virgo 23):** 1644: the Ming fall and the Qing take over.
+   - **Ch 276 (Virgo 24):** 1658 to 1707: Aurangzeb, the Mughal synthesis closes.
+   - **Ch 277 (Virgo 25):** 1660: the Royal Society.
+   - **Ch 278 (Virgo 26):** 1665 to 1666: Sabbatai Zevi, a messiah and a mass movement. Holiday: Sukkot.
+   - **Ch 279 (Virgo 27):** 1687: Newton's *Principia*.
+   - **Ch 280 (Virgo 28):** 1679 to 1703: Leibniz, binary, the I Ching, a universal language (the bridge to Libra).
+   - **Ch 281 (Libra 1):** 1704 and 1742: the Chinese Rites controversy, Rome refuses the synthesis. Holiday: Harvest Day.
+   - **Ch 282 (Libra 2):** 1735: Linnaeus, a Swede puts all life into one system.
+   - **Ch 283 (Libra 3):** c. 1740: the Baal Shem Tov and Hasidism.
+   - **Ch 284 (Libra 4):** 1744: Wahhabism, purification as a split.
+   - **Ch 285 (Libra 5):** 1745 to 1772: Swedenborg, a Swedish visionary's new church.
+   - **Ch 286 (Libra 6):** 1751: the *Encyclopédie*, all knowledge in one structure.
+   - **Ch 287 (Libra 7):** 1760: Ossian, a tradition made to look ancient.
+   - **Ch 288 (Libra 8):** 1768 to 1779: Cook in the Pacific.
+   - **Ch 289 (Libra 9):** 1769 and 1776: Watt's engine, the machine age.
+   - **Ch 290 (Libra 10):** 1773 to 1782: the *Siku Quanshu*, the largest compilation ever made, and a censorship.
+   - **Ch 291 (Libra 11):** 1786: William Jones, languages turn out to have a family tree.
+   - **Ch 292 (Libra 12):** 1793: the French Republican calendar, a revolution remakes time.
+   - **Ch 293 (Libra 13):** 1794: the Cult of the Supreme Being, a state invents a god.
+   - **Ch 294 (Libra 14):** 1798: Motoori Norinaga completes the *Kojiki-den*, ancient Shinto recovered.
+   - **Ch 295 (Libra 15):** 1804 and 1806: Napoleon; the Holy Roman Empire ends.
+   - **Ch 296 (Libra 16):** 1812 and 1835: the Grimms and the *Kalevala*, a national epic compiled.
+   - **Ch 297 (Libra 17):** 1822: the Rosetta Stone deciphered, the dead speak again.
+   - **Ch 298 (Libra 18):** 1822 to 1843: Babbage and Lovelace, the record gets a machine.
+   - **Ch 299 (Libra 19):** 1844 and 1863: the Báb, then Baháʼu'lláh, a religion of unification.
+   - **Ch 300 (Libra 20):** 1850 to 1864: Taiping, Christ's younger brother.
+   - **Ch 301 (Libra 21):** 1853: Perry, Japan opens. Holiday: Halloween, Eve of Ancestors.
+   - **Ch 302 (Libra 22):** 1859: Darwin, the Gaiad's own foundation.
+   - **Ch 303 (Libra 23):** 1866 and 1869: Mendel and Galton, inheritance and who gets to survive.
+   - **Ch 304 (Libra 24):** 1868: Meiji; the Department of Divinities restored, kami and buddhas forced apart.
+   - **Ch 305 (Libra 25):** 1875: Theosophy, East and West in one system.
+   - **Ch 306 (Libra 26):** 1887: Nietzsche's *Genealogy of Morals*, who gets to define good.
+   - **Ch 307 (Libra 27):** 1890: Hollerith, the census becomes a machine.
+   - **Ch 308 (Libra 28):** 1893: the Parliament of the World's Religions; Vivekananda. Holiday: Samhain.
+   - **Ch 309 (Scorpius 1):** 1905: Einstein.
+   - **Ch 310 (Scorpius 2):** 1911 to 1912: the Qing fall, the imperial cult of Heaven ends.
+   - **Ch 311 (Scorpius 3):** 1914 to 1918: the First World War.
+   - **Ch 312 (Scorpius 4):** 1917: Russia, Marxism takes a state.
+   - **Ch 313 (Scorpius 5):** 1924: the caliphate abolished.
+   - **Ch 314 (Scorpius 6):** 1936: Turing, what can be computed.
+   - **Ch 315 (Scorpius 7):** 1941 to 1945: the Holocaust, who survives, and the names kept (Yad Vashem, 1953).
+   - **Ch 316 (Scorpius 8):** 1945: Hiroshima and Nagasaki.
+   - **Ch 317 (Scorpius 9):** 1945 and 1947: ENIAC and the transistor.
+   - **Ch 318 (Scorpius 10):** 1945 to 1946: the Shinto Directive, the Humanity Declaration, the founding of Jinja Honchō.
+   - **Ch 319 (Scorpius 11):** 1945 and 1948: the UN and the Universal Declaration of Human Rights.
+   - **Ch 320 (Scorpius 12):** 1947 and 1948: Partition, and Israel, splits.
+   - **Ch 321 (Scorpius 13):** 1953: DNA.
+   - **Ch 322 (Scorpius 14):** 1957: Sputnik. Holiday: Shichi-go-san.
+   - **Ch 323 (Scorpius 15):** 1962 to 1965: Vatican II, the rite in the people's language.
+   - **Ch 324 (Scorpius 16):** 1965: the Granite Mountain Records Vault, the Mormons microfilm the world's ancestors.
+   - **Ch 325 (Scorpius 17):** 1966 to 1976: the Cultural Revolution, tradition destroyed.
+   - **Ch 326 (Scorpius 18):** 1969: the Moon landing and ARPANET. Holiday: US Thanksgiving.
+   - **Ch 327 (Scorpius 19):** 1973: revived paganisms, Ásatrú recognised in Iceland.
+   - **Ch 328 (Scorpius 20):** 1978 and 1979: Deng opens China; the Iranian Revolution.
+   - **Ch 329 (Scorpius 21), revise:** weave Heisei's 1990 Daijōsai into "The Covenant of Peace" (decided 2026-10-12; see the draft's Scorpius note). Holiday: Niiname-sai.
+   - **Ch 330 (Scorpius 22):** 1990: the Human Genome Project begins.
+   - **Ch 331 (Scorpius 23):** 1991: the Soviet collapse.
+   - **Ch 332 (Scorpius 24):** 1991: the Web goes public.
+   - **Ch 333 (Scorpius 25):** 1995: Aum Shinrikyo, the shadow side of new religions. Holiday: US Thanksgiving.
+   - **Ch 334 (Scorpius 26):** 1996: Dolly the sheep, copying life.
+   - **Ch 335 (Scorpius 27):** 1997: Deep Blue.
+   - **Ch 336 (Scorpius 28):** 2000: Y2K, the century ends worried about its own clocks.
+   - **Ch 337 (Ophiuchus 1):** 2001: Wikipedia, everyone writes the record.
+   - **Ch 338 (Ophiuchus 2):** 2001: 9/11 and its wars, religion back at the centre of politics.
+   - **Ch 339 (Ophiuchus 3):** 2003: the Genome completed, the code of descent read.
+   - **Ch 340 (Ophiuchus 4):** 2004: Facebook, kinship becomes a network.
+   - **Ch 341 (Ophiuchus 5):** 2004: Google Books, the paper record becomes searchable.
+   - **Ch 342 (Ophiuchus 6):** 2007: the iPhone, the machine in every hand.
+   - **Ch 343 (Ophiuchus 7):** 2006 to 2007: indexed genealogy and consumer DNA (FamilySearch indexing, 23andMe), everyone traces descent.
+   - **Ch 344 (Ophiuchus 8):** 2008 to 2009: the crash and Bitcoin, trust moves from institutions to protocol.
+   - **Ch 345 (Ophiuchus 9):** 2009 to 2015: climate, from Copenhagen to Paris, who survives.
+   - **Ch 346 (Ophiuchus 10):** 2010 to 2011: the Arab Spring, networks against states; Fukushima.
+   - **Ch 347 (Ophiuchus 11):** 2012: AlexNet, machines learn to see.
+   - **Ch 348 (Ophiuchus 12):** 2012: Wikidata, the register becomes a machine-readable ontology.
+   - **Ch 349 (Ophiuchus 13):** 2013: Snowden, the register watches back.
+   - **Ch 350 (Ophiuchus 14):** 2014: the Islamic State, reactionary invented tradition.
+   - **Ch 351 (Ophiuchus 15):** 2016: AlphaGo, the oldest game falls.
+   - **Ch 352 (Ophiuchus 16):** 2016: the populist turn, invented tradition in politics.
+   - **Ch 353 (Ophiuchus 17):** 2017: the Transformer, attention.
+   - **Ch 354 (Ophiuchus 18):** 2019: Reiwa's Daijōsai, the oldest rite continued.
+   - **Ch 355 (Ophiuchus 19):** 2020: COVID; alongside it, Emma's 2020: the Gaiad's weekly verses through much of the year, to about chapter 60.
+   - **Ch 356 (Ophiuchus 20):** 2021: the vaccines, and the Taliban back in Kabul; alongside it, Emma's 2021: "a pretty significant year for me where I ran around Europe and did lots of stuff" (her words, 2026-10-12; the Gaiad itself had a gap that year).
+   - **Ch 357 (Ophiuchus 21):** 2022: Russia's full invasion of Ukraine (after Crimea, 2014), war in Europe again (Emma: "the biggest missing part here"); ChatGPT, the writing machine; alongside it, Emma's 2022: Sudowrite, her first writing with AI. Holiday: Christmas, Dongzhi.
+   - **Ch 358 (Ophiuchus 22):** 2023: Shinto overseas, traditions carried past their borders; alongside it, Emma's 2023: "a lot of this Shinto stuff fall into my hands".
+   - **Ch 359 (Ophiuchus 23):** 2024: the fork, the machine in few hands or everyone's; alongside it, Emma's 2024: "trying to reclaim a sacred geography, trying to reclaim other things .. being able to do so, but having it yanked away from me, too".
+   - **Ch 360 (Ophiuchus 24):** 2025: agents, machines that act, and a scripture written with them; alongside it, Emma's 2025: "a very, very, very miserable year".
+   - **Ch 361 (Ophiuchus 25):** 2026: Emma and her ancestry, with the Virgo coincidence; "an extremely well-documented year of my life".
+   - **Ch 362 (Ophiuchus 26):** 2026 and the time skip (hard anchor, ch 362).
+   - **Ch 363 (Ophiuchus 27):** The cryonic revival (hard anchor, ch 363).
+   - **Ch 364 (Ophiuchus 28):** Milkomeda (hard anchor, ch 364).
 8. **Ancestor lines: full dates in both calendars (Emma, 2026-10-12 15:09).** On her phone the iCal
    line reads "Died: Welf I von Altdorf Graf in Schwaben (0825)": the Gregorian year alone,
    zero-padded, on a Gaian day. She wants the date as the source gives it (Gregorian, or the native

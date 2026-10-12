@@ -5620,3 +5620,12 @@ imposes Twelver Shiism on a largely Sunni country, scholars are imported from Ja
 faith outlives the God-King's defeat at Çaldıran. The genealogy note: Ismail's grandmother was
 Theodora Komnene of Trabzon. Hers to keep or replace. Checked from memory; a reading against
 sources is still owed.
+
+## 2026-10-12 — the modern chapters, one queue item each
+
+Emma, 2026-10-12: each chapter should be "individually there in order so that they just get made ...
+reliably, not half-assed". Queue item 7 ("draft the modern chapters, Virgo first") replaced by 108
+items in day order, ch 257 to ch 364, each with its day, its theme from the approved day-themes
+draft and its holiday where it has one, plus ch 329's revision (Heisei's Daijōsai) in its place.
+Ch 253-256 were already written. The shared rules (planning reads, verse, templating, placenames,
+"Stand.", fact check, runway, one chapter per commit) are stated once in the item's header.
