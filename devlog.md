@@ -5610,3 +5610,13 @@ are told as stories and marked so; the hymns, the langar, Babur's sack of Eminab
 guruship passed to Lehna/Angad rather than his sons (set against the Marozia years in ch 253) are
 the firm ground. Ends at the Kartarpur corridor and "Stand." Checked from memory; a reading
 against sources is still owed.
+
+## 2026-10-12 — ch 256 drafted: The Red Heads
+
+Virgo 4 (1501, the Safavids make Iran Shia), the theme Emma left open ("I don't know what to say
+about the Safavids"). The answer tried here is the spine's invented-tradition axis: a Sufi lodge at
+Ardabil becomes the Qizilbash army, a fourteen-year-old poet who calls himself God's mystery
+imposes Twelver Shiism on a largely Sunni country, scholars are imported from Jabal Amil, and the
+faith outlives the God-King's defeat at Çaldıran. The genealogy note: Ismail's grandmother was
+Theodora Komnene of Trabzon. Hers to keep or replace. Checked from memory; a reading against
+sources is still owed.
