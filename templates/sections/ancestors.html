@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}Ancestor Days — {{ t.site_title }}{% endblock %}
+{% block meta_description %}The births and deaths of the founder's ancestors, kept on the days of the Gaian calendar.{% endblock %}
+{% block og_title %}Ancestor Days — {{ t.site_title }}{% endblock %}
+{% block og_description %}The births and deaths of the founder's ancestors, kept on the days of the Gaian calendar.{% endblock %}
+{% block twitter_title %}Ancestor Days — {{ t.site_title }}{% endblock %}
+{% block twitter_description %}The births and deaths of the founder's ancestors, kept on the days of the Gaian calendar.{% endblock %}
+
+{% block head %}
+<style>
+.anc-days { list-style: none; padding: 0; columns: 16rem; column-gap: 2rem; }
+.anc-days li { break-inside: avoid; padding: 2px 0; }
+.anc-days .anc-count { opacity: 0.7; font-size: 0.85em; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>Ancestor Days</h1>
+  <p>The births and deaths of the founder's ancestors, on the days of the Gaian year.</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    Ancestors
+  </div>
+
+  <div class="section-content">
+    <p>
+      A Gaian date falls on the same weekday every year, so an ancestor's day comes round
+      unchanged. Each day of the year has a page here, the seven days of Horus included, and
+      each day's entry in the calendar feed links to it. Only dates known to the day are
+      placed; the living are left out.
+    </p>
+    <ul class="anc-days">
+      {% for d in ancestor_days %}
+      <li>
+        <a href="{{ base }}/ancestors/{{ d.doy }}/">{{ d.symbol }} {{ d.month }} {{ d.day_num }}</a>
+        {% if d.births or d.deaths %}<span class="anc-count">— {{ d.births|length + d.deaths|length }}</span>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+{% endblock %}

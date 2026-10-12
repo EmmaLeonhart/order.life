@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block title %}{{ aday.month }} {{ aday.day_num }}: Ancestor Day — {{ t.site_title }}{% endblock %}
+{% block meta_description %}Ancestors born and died on {{ aday.month }} {{ aday.day_num }} of the Gaian calendar.{% endblock %}
+{% block og_title %}{{ aday.month }} {{ aday.day_num }}: Ancestor Day — {{ t.site_title }}{% endblock %}
+{% block og_description %}Ancestors born and died on {{ aday.month }} {{ aday.day_num }} of the Gaian calendar.{% endblock %}
+{% block twitter_title %}{{ aday.month }} {{ aday.day_num }}: Ancestor Day — {{ t.site_title }}{% endblock %}
+{% block twitter_description %}Ancestors born and died on {{ aday.month }} {{ aday.day_num }} of the Gaian calendar.{% endblock %}
+
+{% macro person(e) -%}
+  {%- if e.fsid -%}<a href="https://www.familysearch.org/tree/person/details/{{ e.fsid }}">{{ e.name }}</a>
+  {%- elif e.geni -%}<a href="https://www.geni.com/people/x/{{ e.geni }}">{{ e.name }}</a>
+  {%- else -%}{{ e.name }}{%- endif %}
+  ({{ e.date }})
+{%- endmacro %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>{{ aday.symbol }} {{ aday.month }} {{ aday.day_num }}</h1>
+  <p>{% if aday.month_num <= 13 %}Day {{ aday.doy }} of the Gaian year{% else %}Horus {{ aday.day_num }}, an intercalary day{% endif %}</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    <a href="{{ base }}/ancestors/">Ancestors</a>
+    <span>›</span>
+    {{ aday.month }} {{ aday.day_num }}
+  </div>
+
+  <div class="section-content">
+    {% if aday.births %}
+    <h2>Born</h2>
+    <ul>
+      {% for e in aday.births %}<li>{{ person(e) }}</li>{% endfor %}
+    </ul>
+    {% endif %}
+    {% if aday.deaths %}
+    <h2>Died</h2>
+    <ul>
+      {% for e in aday.deaths %}<li>{{ person(e) }}</li>{% endfor %}
+    </ul>
+    {% endif %}
+    {% if not aday.births and not aday.deaths %}
+    <p>No ancestor's birth or death is recorded on this day yet.</p>
+    {% endif %}
+
+    <p>
+      <a href="{{ base }}/calendar/{{ '%02d' % aday.month_num }}/{{ '%02d' % aday.day_num }}/">This day in the calendar</a>
+      {% if aday.month_num <= 13 %} · <a href="{{ base }}/gaiad/{{ '%03d' % aday.doy }}/">Gaiad chapter {{ aday.doy }}</a>{% endif %}
+    </p>
+    <p>
+      <a href="{{ base }}/ancestors/{{ prev_day.doy }}/">← {{ prev_day.month }} {{ prev_day.day_num }}</a>
+      ·
+      <a href="{{ base }}/ancestors/{{ next_day.doy }}/">{{ next_day.month }} {{ next_day.day_num }} →</a>
+    </p>
+  </div>
+</div>
+{% endblock %}

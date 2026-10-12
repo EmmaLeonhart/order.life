@@ -5543,3 +5543,23 @@ peace after them. No file moved; recorded in the day-themes draft.
 A dated note under `STATUS.md` pinned correction 5 ("Do not propose numbered chapter lists"): the
 complete day-themes draft exists at Emma's own 2026-10-12 request, is a theme per day and not a
 chapter outline, and the rule still stands otherwise. Her rule itself is unchanged.
+
+## 2026-10-12 — ancestor days in the calendar
+
+Emma's spec of 2026-10-12, built and published on her word ("Just fucking do it ... we're
+excluding living people ... security through obscurity"). Every day of the year, Horus 1-7
+included, has a page at `/ancestors/<day>/` (Gaian day of the year, 365-371 for Horus), with an
+index at `/ancestors/`; each day's event in the daily iCal feeds (`current.ics`, `current_ja.ics`)
+now ends with the link to that page and one line per ancestor born or died that day. Same feed.
+
+Data: `content/ancestor_days.json` from `scripts/build_ancestor_days.py`, merged from every source
+that has them, on her correction that one file is never enough: the Geni union
+(`genealogy/out/merged.ged`, 32,125 of her ancestors), her FamilySearch tree via RootsMagic
+(`second_attempt.rmtree`, 25,055, all but 2 already in the union), and Abul Hamza's hourglass (him
+and his 716 ancestors, 476 new). 32,574 people after merging; 3,932 births and deaths known to the
+day, on 367 of 371 days. Left out: anyone with no death event born in the last 110 years or with
+no birth year (1,569, mostly people with no dates at all), and 1 January dates before 1700, which
+in the Geni union are mostly year-only placeholders. Abul Hamza himself has only a year (869), so
+he is in the data but on no day. The first version (one 12-generation FamilySearch file, 1,464
+people) was never published. Not built locally; templates rendered through `base.html` in a
+scratch venv.
