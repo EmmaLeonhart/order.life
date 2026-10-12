@@ -136,17 +136,17 @@ the machine ends in a few hands or everyone's; climate; reactionary invented tra
 7. 2006 to 2007: indexed genealogy and consumer DNA (FamilySearch indexing, 23andMe), everyone traces descent
 8. 2008 to 2009: the crash and Bitcoin, trust moves from institutions to protocol
 9. 2009 to 2015: climate, from Copenhagen to Paris, who survives
-10. 2010 to 2011: the Arab Spring, networks against states
-11. 2011: Fukushima
-12. 2012: AlexNet, machines learn to see
-13. 2012: Wikidata, the register becomes a machine-readable ontology
-14. 2013: Snowden, the register watches back
-15. 2014: the Islamic State, reactionary invented tradition
-16. 2016: AlphaGo, the oldest game falls
-17. 2016: the populist turn, invented tradition in politics
-18. 2017: the Transformer, attention
-19. 2019: Reiwa's Daijōsai, the oldest rite continued
-20. 2020: COVID
+10. 2010 to 2011: the Arab Spring, networks against states; Fukushima
+11. 2012: AlexNet, machines learn to see
+12. 2012: Wikidata, the register becomes a machine-readable ontology
+13. 2013: Snowden, the register watches back
+14. 2014: the Islamic State, reactionary invented tradition
+15. 2016: AlphaGo, the oldest game falls
+16. 2016: the populist turn, invented tradition in politics
+17. 2017: the Transformer, attention
+18. 2019: Reiwa's Daijōsai, the oldest rite continued
+19. 2020: COVID
+20. 2014 and 2022: Russia invades Ukraine, Crimea then the full invasion; war in Europe again (Emma: "the biggest missing part here")
 21. 2022: ChatGPT, the writing machine
 22. 2023 to 2024: the fork, open weights and closed, the machine in few hands or everyone's
 23. 2024 to 2025: agents, machines that act, and a scripture written with them
