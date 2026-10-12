@@ -145,16 +145,20 @@ the machine ends in a few hands or everyone's; climate; reactionary invented tra
 16. 2016: the populist turn, invented tradition in politics
 17. 2017: the Transformer, attention
 18. 2019: Reiwa's Daijōsai, the oldest rite continued
-19. 2020: COVID
-20. 2014 and 2022: Russia invades Ukraine, Crimea then the full invasion; war in Europe again (Emma: "the biggest missing part here")
-21. 2022: ChatGPT, the writing machine
+19. 2020: COVID; alongside it, Emma's 2020: the Gaiad's weekly verses through much of the year, to about chapter 60
+20. 2021: the vaccines, and the Taliban back in Kabul; alongside it, Emma's 2021: the gap in the Gaiad
+21. 2022: Russia's full invasion of Ukraine (after Crimea, 2014), war in Europe again (Emma: "the biggest missing part here"); ChatGPT, the writing machine; alongside it, Emma's 2022: Sudowrite, her first writing with AI
 22. 2023: Shinto overseas, traditions carried past their borders; alongside it, Emma's 2023: "a lot of this Shinto stuff fall into my hands"
 23. 2024: the fork, the machine in few hands or everyone's; alongside it, Emma's 2024: "trying to reclaim a sacred geography, trying to reclaim other things ... being able to do so, but having it yanked away from me, too"
 24. 2025: agents, machines that act, and a scripture written with them; alongside it, Emma's 2025: "a very, very, very miserable year"
 25. 2026: Emma and her ancestry, with the Virgo coincidence; "an extremely well-documented year of my life"
 
-**Days 22 to 25 follow Emma's own arc, her words, 2026-10-12:** "I feel like I have the most coherent
-character arc throughout this period." One year a day, each beside one of the month's abstractions.
+**Days 19 to 25 are the 2020s, one chapter a year, and follow Emma's own arc**, her words,
+2026-10-12: "I feel like I have the most coherent character arc throughout this period", and "The
+entirety of the 2020s as a decade gets one year, one chapter" (confirmed: one chapter for each year).
+Each year carries that year's world events and her year beside them. Her 2020 to 2022 entries come
+from her own Gaiad history in `narrative_identity/my-story/THE-ACCOUNT.md` (2026-09-26); 2023 to
+2026 are her words from this night.
 The record for it: `narrative_identity` (`my-story/THE-ACCOUNT.md` and the transcripts) and the
 session logs, which for 2026 hold text "almost every single day". The pairings of year to
 abstraction are a draft of mine; she has not ruled on them.
