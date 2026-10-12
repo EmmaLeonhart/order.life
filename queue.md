@@ -400,11 +400,6 @@ Her request: queue items "for reworking the Gaian calendar and the Gaiad to make
 
 Items, in order:
 
-4. **Record her 2026-10-12 instruction against pinned correction 5.** `STATUS.md` pins "Do not
-   propose numbered chapter lists." On 2026-10-12 she asked for a complete day-by-day list and
-   approved it (quotes above and in the draft's header). Add a dated note under pinned correction 5
-   saying the day-themes draft exists at her request and is a theme per day, not a chapter
-   outline; do not rewrite her earlier rule.
 5. **Ancestor days in the calendar.** Her idea, 2026-10-12: ancestors' birth and death days placed
    in the Gaian calendar and reminded through the order.life iCal she has subscribed on all her
    devices. "I can put them in the Gaian calendar and celebrate those of my ancestors." Her ancestors

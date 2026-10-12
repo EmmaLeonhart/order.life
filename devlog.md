@@ -5537,3 +5537,9 @@ revision. The calendar's text for Scorpius 21 in `content/gaian_days.json` alrea
 "the Postwar Victory Celebration ... the happiest chapter", the chapter is a festival chapter
 built for that holiday, and the approved list puts the bombs on day 8, so day 21 reads as the
 peace after them. No file moved; recorded in the day-themes draft.
+
+## 2026-10-12 — pinned correction 5 annotated
+
+A dated note under `STATUS.md` pinned correction 5 ("Do not propose numbered chapter lists"): the
+complete day-themes draft exists at Emma's own 2026-10-12 request, is a theme per day and not a
+chapter outline, and the rule still stands otherwise. Her rule itself is unchanged.

@@ -23,6 +23,10 @@ Written: **238 / 364**. Remaining gaps: **253–328** (76), **330–364** (35).
 3. **Use `C:\Users\Immanuelle\AppData\Local\Programs\Python\Python313\python.exe`.** The default `python` can resolve to `ambie`'s install, which has no packages. The `Immanuelle` install is the one with everything.
 4. **Discord bot timing is not time-critical.** GitHub Actions cron is unreliable by design; the state file in `discord-bot/state.json` handles dedup. Do not over-engineer for exact-time posting, DST edge cases, or sub-minute precision.
 5. **Do not propose numbered chapter lists.** Emma has explicitly rejected this ("trying to make a list of the chapters is the absolute worst thing that can be done"). The `planning/gaiad-*.md` docs are *unnumbered* chronologies plus tone guidance; chapters emerge when the writer sits down.
+   *Note, 2026-10-12:* `planning/gaiad-253-364/day-themes-draft.md` is a complete day-by-day list for
+   Virgo to Ophiuchus, made at Emma's own request that night ("it does kind of have to be complete",
+   so it is "citable") and approved by her. It is a theme for each day, not a chapter outline; the
+   rule above still stands for everything else.
 6. **Three registers braid, not sequence.** Haplogroup/migration (A), mythic antiquity (B), and proper historiography (C) all continue through the block. A does not "close" at the Bronze Age Collapse — Hitler, Napoleon, Perry Y, Japanese D all still belong in register A.
 7. **Modern placenames for classical geography.** The Gaiad says Antalya, not Lycia. Grounds ancient events in recognizable geography for modern readers.
 8. **Every chapter ends with "Stand."** Single word, period, nothing after. Every chapter uses `{{c|Name}}` for characters and `{{p|Place}}` for places.
