@@ -5591,3 +5591,12 @@ the year before (bef 800 -> 31 Dec 799); after a year on 31 December of that yea
 went from 3,932 to 42,904, on 369 days; the days at the turn of the year carry about 3,000 each, which
 she expects. Abul Hamza (year 869) is now on a day. Bef/aft with a month or full date follow the same
 pattern (last day before / last day of); that extension is mine.
+
+## 2026-10-12 — ch 254 drafted: The Sea Joins the World
+
+Virgo 2 in the day-themes draft (1498 to 1522, da Gama to Magellan). Two axes of the spine: the
+joining as double-edged (the astrolabe and the pepper, the cannon and the burning of the pilgrim ship
+*Miri*), and syncretism by mistake (da Gama's men praying to a goddess at Kozhikode, taking her for
+Mary). Enrique of Melaka, who came home the long way round, and the lost day on the *Victoria* close
+it. Modern placenames, templated, ends "Stand." Checked from memory before committing; a reading
+against sources is still owed.
