@@ -152,27 +152,29 @@ MONTH_THEMES = {
         "early 1830s. This is the Book of Lehi, one of the most sacred narratives in the Gaiad."
     ),
     "virgo": (
-        "The Modern Era — Season of Repentance",
-        "Days 253–280 enter the modern era: colonialism, revolution, and the reckoning with history. "
-        "Virgo is the season of repentance, echoing the Jewish High Holy Days: Virgo 7 (Rosh Hashanah), "
-        "Virgo 15 (Yom Kippur), Virgo 19 (Sukkot), Virgo 26 (end of Sukkot). The narrative of "
+        "The Early Modern World — Season of Repentance",
+        "Days 253–280 cover the 1500s and 1600s: colonialism, reformation, and the reckoning with history. "
+        "Virgo is the season of repentance, echoing the Jewish High Holy Days: Virgo 10 (Rosh Hashanah), "
+        "the Days of Awe from Virgo 11 to 19, Virgo 20 (Yom Kippur), and Virgo 26 (Sukkot). The narrative of "
         "colonialism and repentance follows its own arc rather than being spread across all days as Easter is."
     ),
     "libra": (
-        "The Modern World",
-        "Days 281–308 continue through the modern world — the Industrial Revolution, the beginnings "
-        "of the World Wars, and the geopolitical landscape of the 20th century taking shape."
+        "The 18th and 19th Centuries",
+        "Days 281–308 cover the 1700s and 1800s — the Enlightenment, the age of revolutions, and the "
+        "Industrial Revolution. Libra opens with Harvest Day on Libra 1 and turns to the ancestors at "
+        "its end: Libra 21 is the Eve of Ancestors (Halloween) and Libra 28 is Samhain."
     ),
     "scorpius": (
         "The 20th Century",
-        "Days 309–336 bring the great conflicts and turning points of the modern age to their "
-        "resolution. Scorpio 21 marks the end of World War II — V-J Day and the formal surrender "
-        "aboard the USS Missouri."
+        "Days 309–336 give a whole month to the 1900s — the world wars, the end of empires, and the "
+        "turning points of the century. Scorpius is also the month of thanksgiving: Shichi-go-san on "
+        "Scorpius 14, US Thanksgiving on Scorpius 18 or 25, and Niiname-sai on Scorpius 21."
     ),
     "ophiuchus": (
-        "Recent History and the Vision",
-        "Days 337–364 cover the most recent history — the Cold War, the digital revolution, "
-        "and the founding of the Order of Life itself. The final chapters of the Gaiad turn to "
+        "The 21st Century and the Vision",
+        "Days 337–364 cover the 2000s, the century we are living in, and the founding of the Order of "
+        "Life itself. Ophiuchus is the living month: its chapters are revised as the century goes on. "
+        "Christmas and the Dongzhi Festival fall on Ophiuchus 21. The final chapters of the Gaiad turn to "
         "prophecy and offer a vision of the world to come."
     ),
     "horus": (

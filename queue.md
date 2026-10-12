@@ -400,15 +400,6 @@ Her request: queue items "for reworking the Gaian calendar and the Gaiad to make
 
 Items, in order:
 
-1. **Month blurbs in `build.py` contradict her division.** Her division (2026-10-10, in
-   `planning/gaiad-inochi-themes.md`): Virgo 1500s and 1600s, Libra 1700s and 1800s, Scorpius 1900s,
-   Ophiuchus 2000s. `build.py`'s month descriptions still say Libra reaches "the beginnings of the
-   World Wars, and ... the 20th century" and Ophiuchus covers "the Cold War, the digital
-   revolution". Rewrite the Libra, Scorpius and Ophiuchus blurbs (and their translations, if any)
-   to her division. The blurbs' holiday days are also out of date against `content/gaian_days.json`:
-   Virgo's says Rosh Hashanah on Virgo 7 and Yom Kippur on Virgo 15, the data has Virgo 10 and
-   Virgo 20; Scorpius's says Scorpio 21 is V-J Day, the data has Niiname-sai there. Take the days
-   from the data. Do not run `build.py` locally (pinned correction 1).
 2. **Reconcile `planning/gaiad-253-364/day-themes-draft.md` with the holidays.** The draft was
    written without them. In `content/gaian_days.json` (checked 2026-10-12): Virgo 10 Rosh Hashanah,
    11 to 19 the Days of Awe, 12 Mid-Autumn Festival, 14 Shindensai, 20 Yom Kippur, 26 Sukkot; Libra 1

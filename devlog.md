@@ -5508,3 +5508,13 @@ divine-father rule would cut Izanagi here; not applied, since Izanagi is the poi
 The main tradition (English Wikipedia, "Adnan") gives Adnan two sons, Ma'add and Akk; twelve is
 Ishmael's number in Genesis 25, so the verse's "twelve" looks carried over from him. Noted in
 `epic_vs_dump.md` for Emma; no data change.
+
+## 2026-10-12 — month blurbs brought to Emma's division
+
+`build.py`'s Virgo, Libra, Scorpius and Ophiuchus descriptions now follow her 2026-10-10 division
+(Virgo 1500s–1600s, Libra 1700s–1800s, Scorpius 1900s, Ophiuchus 2000s, in
+`planning/gaiad-inochi-themes.md`) and take their holiday days from `content/gaian_days.json`:
+Rosh Hashanah Virgo 10 (was 7), Yom Kippur Virgo 20 (was 15), Sukkot Virgo 26; V-J Day removed
+from Scorpius 21, which the data gives to Niiname-sai (ch 329's 1945 tableau stays an open question
+for Emma, queue item 3). The holiday list in `templates/calendar/index.html` had the same old days
+and is corrected from the same data. No translations of these blurbs exist. Not built locally.
