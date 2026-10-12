@@ -5518,3 +5518,12 @@ Rosh Hashanah Virgo 10 (was 7), Yom Kippur Virgo 20 (was 15), Sukkot Virgo 26; V
 from Scorpius 21, which the data gives to Niiname-sai (ch 329's 1945 tableau stays an open question
 for Emma, queue item 3). The holiday list in `templates/calendar/index.html` had the same old days
 and is corrected from the same data. No translations of these blurbs exist. Not built locally.
+
+## 2026-10-12 — day themes marked against the holidays
+
+The day-themes draft for Virgo to Ophiuchus now ends with a table of the 14 holiday days in
+`content/gaian_days.json` and the theme the list puts on each, with my reading of the fit. Good fits:
+Mid-Autumn on Ricci in China, Shindensai on Sekigahara, Yom Kippur on Westphalia, Niiname-sai on
+Heisei's Daijōsai. Weak ones worth her look: the Eve of Ancestors (Libra 21) on Perry, with Darwin
+and Mendel/Galton one and two days later; the second US Thanksgiving on Aum Shinrikyo; Christmas on
+the 2022 invasion of Ukraine. Nothing moved.

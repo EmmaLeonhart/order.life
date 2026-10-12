@@ -165,3 +165,26 @@ abstraction are a draft of mine; she has not ruled on them.
 26. 2026 and the time skip (hard anchor, ch 362)
 27. The cryonic revival (hard anchor, ch 363)
 28. Milkomeda (hard anchor, ch 364)
+
+## The holidays against the day themes (marked 2026-10-12; nothing moved)
+
+The list above was drafted without the calendar's holidays. These are the holidays in
+`content/gaian_days.json` that fall in the four months, with the theme the list puts on each day.
+The "fit" column is my reading, not hers; no theme has been moved, and any move is hers to make.
+
+| day | holiday (from the data) | theme on that day | fit |
+|---|---|---|---|
+| Virgo 10 (262) | Rosh Hashanah | 1549: Xavier lands in Japan | neutral: a new year and an arrival, no shared subject |
+| Virgo 11–19 (263–271) | the Days of Awe | Akbar; Ricci; Hideyoshi and the Twenty-Six Martyrs; Sekigahara; the VOC; Bureus; Galileo; Gustavus Adolphus; the Old Believer schism | partial: the martyrs (13), Galileo (17) and the schism (19) carry a reckoning; the rest do not, which matches the month's "own arc" rather than every day |
+| Virgo 12 (264) | Mid-Autumn Festival | 1582 to 1610: Ricci in China | good: a Chinese festival on the China day |
+| Virgo 14 (266) | Shindensai | 1600: Sekigahara, the Tokugawa order | good: a Japanese rite on a Japanese day |
+| Virgo 20 (272) | Yom Kippur | 1618 to 1648: the Thirty Years' War and Westphalia | good: the Day of Atonement on the end of Europe's religious war |
+| Virgo 26 (278) | Sukkot | 1665 to 1666: Sabbatai Zevi | good on subject (a Jewish holiday on a Jewish day); his story is a false messiah, which a festival of joy may sit uneasily with |
+| Libra 1 (281) | Harvest Day (Indigenous Peoples' Day; Canada Thanksgiving, Japan Sports Day) | 1704 and 1742: the Chinese Rites controversy | weak |
+| Libra 21 (301) | Halloween, "Eve of Ancestors" | 1853: Perry, Japan opens | weak. Darwin (Libra 22) or Mendel and Galton (Libra 23), both about descent, would sit on the Eve of Ancestors; it also bears on the ancestor days (queue item 5) |
+| Libra 28 (308) | Samhain (Halloween Final) | 1893: the Parliament of the World's Religions | neutral to good: a closing gathering of traditions on the month's last day |
+| Scorpius 14 (322) | Ides of Scorpio, Shichi-go-san | 1957: Sputnik | weak: a children's rite on a space launch |
+| Scorpius 18 (326) | US Thanksgiving (first) | 1969: the Moon landing and ARPANET | fair: two American firsts on the American holiday |
+| Scorpius 21 (329) | Niiname-sai | 1990: Heisei's Daijōsai | good by design (her 2026-09-25 correction); ch 329's 1945 tableau is the open question above |
+| Scorpius 25 (333) | US Thanksgiving (second) | 1995: Aum Shinrikyo | poor: a thanksgiving on the shadow side of new religions |
+| Ophiuchus 21 (357) | Christmas, Dongzhi Festival | 2022: Russia's full invasion of Ukraine; ChatGPT; Emma's Sudowrite | weak: no shared subject; war on Christmas is a hard pairing |

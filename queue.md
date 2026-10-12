@@ -400,13 +400,6 @@ Her request: queue items "for reworking the Gaian calendar and the Gaiad to make
 
 Items, in order:
 
-2. **Reconcile `planning/gaiad-253-364/day-themes-draft.md` with the holidays.** The draft was
-   written without them. In `content/gaian_days.json` (checked 2026-10-12): Virgo 10 Rosh Hashanah,
-   11 to 19 the Days of Awe, 12 Mid-Autumn Festival, 14 Shindensai, 20 Yom Kippur, 26 Sukkot; Libra 1
-   Japan Sports Day and Canada Thanksgiving, 21 Halloween ("Eve of Ancestors"), 28 Samhain; Scorpius
-   14 Shichi-go-san, 18 and 25 US Thanksgiving, 21 Niiname-sai; Ophiuchus 21 Christmas and Dongzhi.
-   Mark in the draft which day themes fall on these days and whether they fit; move nothing without
-   her word. Libra 21, "Eve of Ancestors", bears on item 5.
 3. **NEEDS-DECISION (Emma): ch 329 and Scorpius 21.** The drafted ch 329 ("The Covenant of Peace")
    is a 1945 peace tableau on Scorpius 21. The data puts Niiname-sai on Scorpius 21, and her
    2026-09-25 correction gives the Niiname-sai slot to Heisei's real Daijōsai (1990), which is where
