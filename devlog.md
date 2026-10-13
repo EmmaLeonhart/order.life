@@ -5794,3 +5794,13 @@ a third of Germany dead. Five years of talks at Münster and Osnabrück, the qua
 1648 peace (Calvinists counted, the 1624 rule, the right to leave, Swiss and Dutch freedom; sovereignty
 as the later reading). For the day: atonement between people needs going to the person (Mishnah Yoma
 8:9); not love, but stopping. Facts checked from memory.
+
+## 2026-10-13 — ch 273 written: The Closed Country and the Temple Book
+
+Virgo 21 (1630s-1660s, sakoku and the temple registration system). Iemitsu's edicts of 1633-1639, the
+Portuguese expelled and the 1640 envoys beheaded; the "locked country" as four watched gates (Dejima and
+the Chinese at Nagasaki, Tsushima, Satsuma, Matsumae), "sakoku" a later name. After Shimabara: every
+household a temple's danka, certified yearly in the shūmon aratame chō, nationwide by the 1670s; the
+fumi-e. Funeral Buddhism as the temples' price, and its reckoning in Meiji (Libra). The register's
+double nature at its plainest: a census of conscience, and the best record of ordinary lives in the old
+world. Facts checked from memory (population about 25 million, not 30).
