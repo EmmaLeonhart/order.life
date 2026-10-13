@@ -1,197 +1,133 @@
 # Chapter 141: P at Baikal — Paikal
 
 And in the middle of the {{p|Siberian}} winter,
-At the deepest lake on earth,
-Haplogroup {{c|P}} arrived.
+At the deepest lake on earth, there came
+{{c|Haplogroup P}}—the long road's splinter
+Ending at water. {{p|Lake Baikal}}. The name
 
-                                 {{p|Lake Baikal}}.
+Of the oldest lake: some twenty-five million years
+A rift in the continent, slowly growing wide,
+Slowly filling, more than a mile deep, the tears
+Of the taiga gathered in it, till inside
 
-The deepest lake. The oldest lake.
-Five thousand feet deep at its deepest. Twenty-five
-Million years old. A rift lake. A sub-continental
-Crack in the earth, slowly widening, slowly filling,
+That single crack in the earth there came to lie
+A fifth of all the fresh unfrozen water
+On the surface of the world. Beneath its sky
+Swim the omul and the nerpa, the one daughter
 
-Slowly accumulating the fresh water that would become
-The largest reservoir of fresh surface water on the planet.
-Twenty percent of all the fresh liquid water on earth
-Is in this one lake. The lake of the siberian taiga.
+Of the seals who chose fresh water. Every year
+The lake freezes meters thick, a mirror
+Of ice. The {{p|Evenki}} and the {{p|Buryat}} here
+Keep it sacred; the shaman's drum is nearer
 
-The lake of the taimen and the omul and the nerpa,
-The only freshwater seal in the world.
-The lake that freezes to a depth of several meters
-Every winter. The lake of the {{p|Evenki}} and the {{p|Buryat}}
+To that water than to anything. A cathedral
+Of ice in the taiga. And it was here {{c|P}} came.
+{{c|P}} is the divergence, the fork, the father
+Of {{c|Q}} and {{c|R}}—and in this chapter, the same
 
-And the {{p|Yakut}} and the reindeer-herders of the
-Surrounding taiga. The sacred lake of multiple
-Indigenous traditions. The shaman's lake. The ice-
-Thick cathedral of the Siberian frozen mirror.
+As the place itself: {{c|Paikal}}, the lake's own son,
+The pun the Gaiad cannot leave alone.
+Since the {{p|Bab al-Mandab}}, his fathers had run
+The length of {{p|Eurasia}}; here, by ice and stone,
 
-This is where {{c|P}} arrived.
+At the deepest lake on earth, they paused, and stood,
+And looked at the frozen surface, and asked: where next?
+Two answers came. The first was east: the good
+Dry land of {{p|Beringia}}, where the sea's retreat had left
 
-                                    {{c|Haplogroup P}}.
+A walkable continent where the {{p|Bering Strait}} is now.
+Some of {{c|P}}'s sons walked over, and became {{c|Q}};
+And {{c|Q}} would cross to {{p|North America}}, and plough
+Through ten or fifteen thousand years, and go through
 
-{{c|P}} is the divergence point. {{c|P}} is the father of
-{{c|Q}} and {{c|R}}. And {{c|P}} is, for this chapter, the figure
-Of the place itself—the lake, the crossroads, the
-Bifurcation where the road forked and one branch
+The whole {{p|Western Hemisphere}}, from the {{p|Aleutians}}
+To {{p|Tierra del Fuego}}; every people born
+In the {{p|Americas}}, the {{p|Inuit}}, the nations
+Of the far south, come of {{c|Q}}. But that is the morning
 
-Went east toward {{p|Beringia}} and the {{p|Americas}},
-And the other branch turned back west toward
-{{p|Europe}} and the steppe and the eventual Yamnaya
-Expansion that would remake half the world.
+Of another book: Leo, two hundred twenty-one
+To two fifty-two. {{c|Q}}'s chapter is not yet.
+The second answer was west: to turn and run
+Back the way they came, retrace the debt
 
-{{c|P}} is "{{c|Paikal}}." The pun that the Gaiad cannot
-Resist. The haplogroup of the lake. The {{p|Y}}-chromosomal
-Signature of the men who, having migrated the length
-Of {{p|Eurasia}} from the {{p|Bab al-Mandab}} crossing many
+Of the earlier walking, back across {{p|Central Asia}},
+Toward the grass of the {{p|Pontic-Caspian}} steppe,
+Where in some thousands of years the horse would raise a
+Whole world on its back. That branch kept
 
-Thousands of years before, have reached the deepest
-Lake on earth, and have paused there, and have looked
-At its frozen surface, and have asked themselves
-Where next.
+The name of {{c|R}}: the boomerang, the line
+That went as far east as it could, and then came back.
+{{c|R}} will be the Yamnaya; {{c|R}} will be the sign
+Of Manu and of Yemo; down {{c|R}}'s track
 
-                   There are two answers to that question.
+Will run the Indo-European tongue,
+R1a east to {{p|India}} and {{p|Iran}} and the Slavs,
+R1b west to Celt and German, the young
+Italic peoples—most of {{p|Europe}}'s men. {{c|R}} has
 
-The first answer is east. Continue east. Cross the
-Land bridge that exists, at this time, across what is
-Now the {{p|Bering Strait}}. {{p|Beringia}} is a walkable continent
-In the Late Pleistocene. The sea levels are low. The land
+The horse, the wagon, the chariot to come,
+The sky-father and the solar wheel. But not yet.
+In this chapter {{c|R}} is still {{c|P}}, still dumb
+Before the frozen lake, still in the debt
 
-That is now underwater is above water. You can walk from
-{{p|Siberia}} to {{p|Alaska}} without crossing a significant body
-Of water. And some of the {{c|P}}-descended population
-Does exactly this. That branch becomes {{c|Q}}. {{c|Q}} crosses
+Of the decision. And the image is the lake:
+The moment one line, at the edge of the ice,
+Goes both ways at once. One son will take
+The road east to the {{p|Americas}}; the price
 
-{{p|Beringia}}. {{c|Q}} enters {{p|North America}}. {{c|Q}} spreads, over
-The next ten or fifteen thousand years, across the
-Entire {{p|Western Hemisphere}}—from the {{p|Aleutians}} down to
-{{p|Tierra del Fuego}}. Every indigenous population of the
+Of the other road is the long way west, to all
+Of {{p|Europe}}, {{p|Central Asia}}, {{p|South Asia}}.
+And the father stands on the ice as the shadows fall
+In the long Siberian night, and does not follow either,
 
-{{p|Americas}}, from the {{p|Inuit}} of the {{p|Arctic}} to the {{p|Fuegians}}
-Of the southernmost tip of {{p|South America}}, is descended
-From the {{c|Q}}-carrying branch of {{c|P}} that crossed {{p|Beringia}}.
-That story—the peopling of the {{p|Americas}}—is the Book
+But watches both his sons go into the dusk.
+His own story is short: what {{c|P}} did
+Was make {{c|Q}} and {{c|R}}, and theirs is the husk
+And kernel of half the world, two of the biggest
 
-Of Leo's material, chapters 221 through 252. Not this
-Chapter. Not yet. {{c|Q}}'s chapter is later.
+Stories in the whole tree: {{c|Q}} is the {{p|Americas}},
+{{c|R}} is nearly everything else. Between the two
+Of them, the peopling of half the world. The {{p|Mal'ta-Buret'}}
+Culture, twenty-four thousand years ago, is the clue
 
-The second answer is west. Turn back west. Retrace the
-Steps of the earlier migration in reverse. Go back across
-{{p|Central Asia}}, toward the steppes, toward what will become
-The {{p|Pontic-Caspian}} grasslands, toward the place where, in a
+The ground has kept of this. Near {{p|Irkutsk}}, a boy,
+Four years old, was buried; in nineteen twenty-eight
+His bones were found, and in our century the ploy
+Of reading DNA from bone told his estate:
 
-Few thousand years, the domestication of the horse will
-Change everything. That branch becomes {{c|R}}. {{c|R}} is the
-Boomerang. {{c|R}} is the lineage that went east as far as it
-Could, all the way to {{p|Baikal}}, and then turned and came back.
+His father's line was {{c|R}}, near its very root—
+{{c|R}} still at {{p|Baikal}}, not yet turned west—
+And his ancestry runs to both the {{p|Navajo}} and the {{p|Lithuanian}},
+The {{p|Cherokee}} and the {{p|Swede}}, the {{p|Inca}} and the rest
 
-{{c|R}} will, in later chapters, become the Yamnaya. {{c|R}} will
-Become Manu and Yemo. {{c|R}} will become the Indo-European
-Language family's Y-chromosomal carrier. {{c|R}} will become
-R1a and R1b, the Indic-Iranian-Slavic eastern branch and the
+Of {{p|Europe}}: the {{p|Mal'ta boy}}, the child at the crossroads,
+In whose blood both roads were already laid.
+The lake is still there. The taiga still loads
+Its snow on the shore; the {{p|Buryat}} drums are played
 
-Celtic-Germanic-Italic western branch. {{c|R}} will become the
-Signature of most of modern {{p|Europe}}'s men. {{c|R}} will ride
-Horses. {{c|R}} will make chariots. {{c|R}} will invent the wheeled
-Vehicle and the solar wheel and the sky-father religion.
+At the water's edge; the {{p|nerpa seals}} still rise
+Through the ice to breathe. The lake was there before
+{{c|P}} came, and will be there when the names we prize
+For haplogroups are lost. But for the length of our
 
-But that is in later chapters. In this chapter, {{c|R}} is
-Still {{c|P}}. Still at {{p|Baikal}}. Still looking at the frozen
-Lake and waiting to decide which way to go.
+Telling, it is the fork: the place on the earth
+Where a single lineage looked east, looked west,
+And chose both. And no one chose: the slow birth
+Of populations over thousands of years did the rest,
 
-And the image—the core image of this chapter—is the
-Lake itself. The moment of bifurcation. The moment when
-A single lineage, having reached the deepest lake on
-Earth, turns and goes both ways at once. One son goes
+Without a single choice—some crossed the land bridge
+To the new world; some turned home, to the grass,
+Where the horse would be tamed, and on the ridge
+Of the steppe a tongue would be born, and pass
 
-East to the Americas. The other son goes west, eventually,
-To every corner of {{p|Europe}} and {{p|Central Asia}} and {{p|South Asia}}.
-And the father—the {{c|P}}-carrier himself—stands on the
-Frozen surface in the gathering twilight of a long Siberian
+To half the modern world its inheritance.
+But all of that is later. Here, in the deep
+Past, in the Siberian winter, at the entrance
+Of the crossroads, {{c|P}} stands where the lineages keep
 
-Night and watches both sons disappear into the dusk.
+Their fork. The stars. The ice. The silence. Two
+Silhouettes going two ways. The father, alone.
+{{c|Q}} goes east. {{c|R}} goes west. The lake stays true.
+{{c|Paikal}}. The deepest water. The crossroads stone.
 
-This is the divergence point. This is "{{c|Paikal}}." The
-Haplogroup of the crossroads. The haplogroup whose
-Own story is brief, because what {{c|P}} did was make
-{{c|Q}} and {{c|R}}, and the stories of {{c|Q}} and {{c|R}} are two of the
-
-Biggest stories in the entire haplogroup tree. {{c|Q}} is the
-Americas. {{c|R}} is everything else—or at least the biggest
-Everything-else. The two sons of {{c|P}} carry between them
-The peopling of half the world.
-
-The {{p|Mal'ta-Buret'}} culture, an Upper Paleolithic
-Culture of {{p|Lake Baikal}} and the surrounding region
-From roughly twenty-four thousand years ago, is
-The archaeological signature of this moment. The
-
-{{p|Mal'ta boy}}—a four-year-old child whose skeleton was
-Found near {{p|Irkutsk}} in nineteen twenty-nine, and
-Whose DNA was sequenced in twenty thirteen—carries
-Ancestry that contributes both to Native Americans
-
-And to Europeans. The child is the genetic missing link
-Between the two branches. The child is the ancestor
-(In a statistical sense) of both the {{p|Navajo}} and the
-{{p|Lithuanian}}, the {{p|Cherokee}} and the {{p|Swede}}, the {{p|Inca}} and
-
-The {{p|Irishman}}. One child at {{p|Lake Baikal}} whose DNA
-Contains the seeds of both the peopling of the {{p|Americas}}
-And the peopling of {{p|Europe}} by the Indo-European expansion.
-The {{p|Mal'ta boy}} is {{c|P}} in the flesh. The {{p|Mal'ta boy}} is
-
-The child at the crossroads, the one whose descendants
-Would go both directions at once.
-
-And the landscape, the actual landscape of {{p|Lake Baikal}},
-Endures. The lake is still there. The taiga is still there.
-The {{p|Buryat}} shamans still drum at the edge of the water.
-The {{p|nerpa seals}} still surface through the ice to breathe.
-
-The lake was there before {{c|P}} arrived, and the lake
-Will be there after the haplogroup names have been
-Forgotten. But for the length of this chapter, the lake
-Is the divergence point. The geographical anchor of the
-
-Bifurcation. The place on the earth where a single lineage
-Looked east and west and chose both directions.
-
-{{c|P}} is {{c|Paikal}}. The haplogroup of the deepest lake on earth.
-The father of {{c|Q}} and {{c|R}}. The ancestor, at one remove, of
-The {{p|Americas}} and of Indo-European {{p|Europe}}. The quiet
-Paternal haplogroup whose own distinct narrative is short
-
-Because his sons' narratives are long.
-
-But the lake remains. The lake is the symbol of the
-Chapter. The frozen surface of the oldest lake reflects
-The Siberian stars. And the stars reflect back. And the
-{{c|P}}-carrying men of the {{p|Mal'ta-Buret'}} culture, twenty-four
-
-Thousand years ago, looked up at those stars and decided—
-Or the long slow tide of their populations decided, without
-Any single decision, over the following thousands of years—
-That some would cross the land bridge into the new world,
-
-And some would turn around and go home, back to the
-Steppes, back to the grasslands, back to the places
-Where, in a few thousand more years, the horse would be
-Domesticated and the wheel would be invented and the
-
-Language family that would become Indo-European would
-Be born, and from that fire, half of the modern world
-Would take its inheritance.
-
-But all of that is later. Here, at {{p|Baikal}}, in the
-Siberian winter, {{c|P}} stands at the edge of the frozen
-Water and looks both ways. Here, in the depth of the deep
-Past, is the crossroads. Here is where the lineages fork.
-
-{{c|P}}. {{c|Paikal}}. The lake. The crossroads. Stand.
-
-And the rest of this chapter is the lake. The silence.
-The stars. The ice. The two silhouettes disappearing
-In two different directions. The father watching them go.
-
-Q goes east. R goes west. The lake remains.
+                                    Stand.
