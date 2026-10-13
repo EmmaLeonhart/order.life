@@ -6094,6 +6094,20 @@ does not obey the cross. Abbot in 1868; the counting stopped. It was cited befor
 1900 and taken up that year. Galton, born 1822 like Mendel, cousin
 through Erasmus Darwin: *Hereditary Genius* (Macmillan, 1869) argues eminence runs in
 families and that the eminent should marry young. The word eugenics is his in 1883,
-not in that book. Darwin admired it. The turn: the recessive returns whole; a list of
-the renowned is not a right over who is born. The uncut-pages story about Darwin's
-copy of Mendel is not used. 82 lines. Facts checked from memory. Runway 289/364.
+not in that book. Darwin's letter of 23 December 1869, after fifty pages read
+aloud by Emma, admired it, and he still held that zeal mattered. The turn: the
+recessive returns whole; a list of the renowned is not a right over who is born.
+The uncut-pages story about Darwin's copy of Mendel is not used. 86 lines.
+Facts checked from memory. Runway 289/364.
+
+## 2026-10-13 — ch 303 corrected
+
+The first push let Darwin's admiration become a blessing on Galton's pruning.
+His letter of 23 December 1869 (Darwin Correspondence DCP-LETT-7032) covers
+about fifty pages, through the judges. He called the book the most interesting
+and original thing he had ever read, said Galton had converted him in one sense
+(men differ in intellect, not only in zeal and hard work), and still thought the
+zeal mattered. Emma Darwin was reading it aloud. The chapter now says that, and
+that a warm letter is not a license over who is born. Hawkweed continued after
+the 1868 election as abbot and would not give the pea ratio. The tax fight was
+years later, not the reason the pea rows ended. The word eugenics stays in 1883.
