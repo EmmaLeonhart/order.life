@@ -5700,3 +5700,13 @@ after Kozhikode in ch 254), then "Deusu" and the monks' "dai-uso"; the converts'
 who never heard, from Xavier's 1552 letter (paraphrased, marked "in substance"), set on the day the
 books are opened; Kyoto in ruins, Yamaguchi in silk, Shangchuan. Ends with the ancestors kept. Facts
 checked from memory.
+
+## 2026-10-12 — ch 263 written: The House of Worship
+
+Virgo 11 (1575 and 1582, Akbar's House of Worship and the Din-i Ilahi; Days of Awe). The emperor who
+could not read and would not stop listening: the Rajput marriage, the jizya abolished, Fatehpur Sikri,
+the Thursday debates opened to Shia, Brahmins, Jains, Zoroastrians and the Jesuits of 1580, the mahzar,
+Abul Fazl and the Divine Faith with its eighteen-odd disciples. Turned, for the Days of Awe, into a
+question to this book itself: a founder's synthesis dies with the founder unless it has days anyone
+can keep, a book anyone can read and a rite without the founder in the room (set against Nanak's
+kitchen and successor in ch 255). Facts checked from memory (the Ibadat Khana's site is disputed).
