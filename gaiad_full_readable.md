@@ -56275,10 +56275,13 @@ And the care of them after, and the names of the missing,
 Not for a season. The charter said the care was to last.
 
 Frederic Kenyon, director of the British Museum,
-Reported to the commission in November of 1918.
-He put equality at the center of the marking.
+Was asked on the twentieth of November, 1917, to settle the marking.
+He put equality at the center of it.
 The same stone. Not a private monument as the rule.
-The architects already named to the work were
+He signed the report on the twenty-fourth of January, 1918.
+The commission had it in February.
+It was published in November.
+The architects named to the work were
 Edwin Lutyens, Herbert Baker, and Reginald Blomfield.
 The stones were mostly still unbuilt.
 The rule was written.
