@@ -6160,3 +6160,21 @@ refused. Runway 291/364.
 ## 2026-10-13 — ch 304 closing line corrected
 
 The body already had the dates: the Jingikan's name returned in June 1868, under the council, and the paper set it highest in August 1869. The last line still said the date was the spring of 1868. The close now keeps the parting in that spring, the name in June, and the height in August 1869.
+
+## 2026-10-13 — ch 306 written: Who Names the Good
+
+Libra 26 (1887: Nietzsche's *Genealogy of Morals*, who gets to define good).
+Written at Sils Maria in July 1887; he told Brandes it was decided, written, and
+sent between 10 and 30 July. Manuscript to C. G. Naumann in Leipzig on 17 July,
+same dress as *Beyond Good and Evil* (1886), 600 copies, a continuation on the
+title page's reverse. Proofs in Venice with Köselitz. First copies in Nice in
+the first half of November. Two months on, about 200 of the 600 had been ordered.
+Three essays. The preface's question is kept: under what conditions good and
+evil were invented, and what they are worth. The first essay's two namings are
+kept. His sentence that the Jews began the slave revolt is stated as his and
+refused: a genealogy that needs a people to be the author of a sickness has
+already chosen its evil. The malus/melas etymology is marked as not holding.
+Schuld as guilt and debt is marked as holding. The blond beast is a rank, not
+a finding. The ascetic third essay ends on willing nothing rather than not
+willing. Paul Rée's usefulness-account is the friend he answers. 102 lines.
+Ends "Stand." Runway 292/364.

@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-305 are done (Virgo complete; Libra through Theosophy).
-   - **Ch 306 (Libra 26):** 1887: Nietzsche's *Genealogy of Morals*, who gets to define good.
+   its line here when done. Ch 253-306 are done (Virgo complete; Libra through the Genealogy).
    - **Ch 307 (Libra 27):** 1890: Hollerith, the census becomes a machine.
    - **Ch 308 (Libra 28):** 1893: the Parliament of the World's Religions; Vivekananda. Holiday: Samhain.
    - **Ch 309 (Scorpius 1):** 1905: Einstein.
