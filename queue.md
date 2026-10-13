@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-269 are done.
-   - **Ch 270 (Virgo 18):** 1611 to 1632: Gustavus Adolphus; Gothicism as Sweden's state myth. Holiday: Days of Awe.
+   its line here when done. Ch 253-270 are done.
    - **Ch 271 (Virgo 19):** 1613 and 1666: Russia, the Romanovs and the Old Believer schism (open: "unsure how much"). Holiday: Days of Awe.
    - **Ch 272 (Virgo 20):** 1618 to 1648: the Thirty Years' War and Westphalia. Holiday: Yom Kippur.
    - **Ch 273 (Virgo 21):** 1630s to 1660s: sakoku and the temple registration system, every household registered through a temple.

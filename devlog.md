@@ -5766,3 +5766,12 @@ Starry Messenger, Venus's phases and the sunspots: not a new idea but a view any
 1616 warning, the 1632 Dialogue, the 1633 abjuration ("and yet it moves" as the printers' line, like
 Luther's in ch 257), Arcetri, Leiden, 1642. For the Day of Awe: the 1992 admission after 359 years as
 what an institution's repentance can look like. Facts checked from memory.
+
+## 2026-10-12 — ch 270 written: The King of the Goths
+
+Virgo 18 (1611-1632, Gustavus Adolphus; Gothicism as Sweden's state myth; Eighth Day of Awe). Bureus's
+pupil: the Swedes-Goths-Wends title, the king as Berik at the 1617 coronation festivities, the military
+reforms and the parish conscription rolls (one in ten). The Vasa, too tall for her keel, sinking on her
+maiden voyage in 1628. Germany 1630, Breitenfeld, the Swedish drink, Lützen in the fog (an echo of
+Sekigahara). Rudbeck's Atlantis and Poltava. For the Day of Awe: repent of the legends that cost souls;
+the raised Vasa as the better myth. Facts checked from memory.
