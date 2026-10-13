@@ -6118,16 +6118,20 @@ Libra 24 (1868: Meiji; the Department of Divinities restored, kami and buddhas
 forced apart). Yoshinobu returned the government in November 1867 expecting a
 council; the court declared the restoration of imperial rule on 3 January 1868.
 The emperor was fifteen. The era name Meiji dates from October 1868; January was
-still Keiō. Charter Oath, 6 April, five articles before the kami. The Jingikan
-was ordered restored that spring, highest in the proclamation, a name whose halls
-had burned in the Ōnin War. Separation orders the same spring: shrine-monks
+still Keiō. Charter Oath, 6 April: five articles sworn before the kami; Sanjō
+Sanetomi read them. A rites section opened that spring. The Jingikan name
+returned on 11 June 1868, under the council, not over it. The paper set it
+above the council on 15 August 1869. The ancient office had ranked above; its
+halls burned in the Ōnin War. Separation orders the same spring: shrine-monks
 defrocked, gongen titles stripped, Buddhist images out of the shintai, Hachiman
-at Usa and Iwashimizu no longer a bodhisattva. The orders said separate. Haibutsu
-kishaku was the wreck the domains made of that: temples closed, bells melted.
-Yamaguchi (Chōshū) nearly emptied of temples. The wreck was uneven; the order was
-not. Ise had kept Buddhist halls. Yoshida and Shirakawa lost the licensing.
-Norinaga's commentary is the contrast: a book does not melt a bell. 1871 the
-department lowered to a ministry; 1872 the Ministry of Doctrine sent both
-teachings out and did not restore the fusion. 105 lines. Ends "Stand."
-Facts checked against the separation edicts' spring 1868 dates and the 1871–1872
-demotion. Runway 290/364.
+at Usa and Iwashimizu no longer a bodhisattva (to be Hachiman Daijin). The
+orders said separate. Haibutsu kishaku was the wreck the domains made of that:
+temples closed, bells melted. In Kagoshima (Satsuma) every temple was shut, a
+clearing begun before the 1868 paper. The wreck was uneven. Ise had kept
+Buddhist halls. Yoshida and Shirakawa lost the licensing. Norinaga's commentary
+is the contrast: a book does not melt a bell. August 1871 the department
+lowered to a ministry; 1872 the Ministry of Doctrine sent both teachings out
+and did not restore the fusion. 85 lines. Ends "Stand." Facts checked against the
+Seitaisho (11 June 1868), the 15 August 1869 staff ordinance, the Kokugakuin
+account of the separation stages, and the Satsuma census (no temple left).
+Runway 290/364.

@@ -11,21 +11,25 @@ The war followed the paper. The paper is the part this day keeps,
 Because the paper reached the gods before the year was out.
 
 On the sixth of April, in the palace at {{p|Kyoto}},
-The emperor read five articles before the kami.
+Five articles were sworn before the kami.
+{{c|Sanjō Sanetomi}} read them. The emperor was in the hall.
 A new government, speaking in the form of an old oath.
-In the same spring the court ordered an old office back into being.
 
-The Department of Divinities. The Jingikan.
-In the ancient law it had stood over the other offices,
+That spring a section for the rites was opened.
+In June the old name returned.
+The Department of Divinities. The Jingikan,
+Set under the council. The height was not yet given.
+
+In the ancient law it had stood over the other offices.
 Unity of rites and government, the slogan they printed.
 The halls of that department had burned in the Ōnin War.
-
 For centuries it had been a name with no one in the room.
-They put the name over every shrine in the country.
-In the proclamation it was the highest office.
+
+They meant that name for every shrine in the country.
+In August of 1869 the paper set it highest.
 In the governing, the council governed. The height was on paper.
 
-Then the parting. Through that spring the orders came.
+The parting was that same spring. The orders came.
 Monks who served at shrines, the intendants and the shrine-monks,
 Were to put off the robe or leave the shrine.
 A buddha's word was taken off a kami's name.
@@ -43,10 +47,9 @@ Of a distinction. The cry was: abolish the buddhas, smash Śākyamuni.
 Temples were closed. Bells were melted for the metal.
 Sutras were burned. Statues were broken in the precinct
 They had shared with the kami for centuries.
-In {{p|Yamaguchi}} the temples were nearly all shut.
-
+In {{p|Kagoshima}} every temple was shut.
+The clearing there had begun before the paper.
 It was not the same wreck in every town.
-The order was the same order.
 For a thousand years a shrine had kept a temple in the yard,
 And a kami had answered to a buddha's title,
 
@@ -82,7 +85,7 @@ The fusion was not given back. The smashed things stayed smashed.
 
 A bell that has become metal does not become a bell.
 The pure thing the edict described was not what the people were,
-And the state, three years on, already needed both pulpits.
+And the state, four years on, already needed both pulpits.
 Count the parting as it was.
 
 A government, new, still at war, restoring an office
