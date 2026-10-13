@@ -5681,3 +5681,13 @@ print, Osiander's unsigned preface, the copy on the deathbed. Not the first: Ari
 Maragha school and Ibn al-Shatir, whose devices his models share (the Golden Age transmission of ch
 197). The Lifeist turn: the Earth is not the centre and never was; what grew here is. Index 1616 to
 1835. Checked from memory.
+
+## 2026-10-12 — ch 261 written: The Farmers at Bure
+
+Virgo 9 (1548 and 1553, the first documented Bures; Vasa's Lutheran Sweden), from the parent repo's
+checked note `research/bure-and-bureus.md`. One story: the Stockholm Bloodbath, Gustav Vasa's flight
+and election (6 June 1523), Västerås 1527, the Petri brothers and the 1541 Bible, and Vasa the keeper
+of accounts, whose tax rolls are where the Bures first appear: Olof Andersson at Bure (1548) and his
+brother Isak (1553), sons of Anders Burman of Röbäck. Then Bureus's family book carrying the line
+further back, and Emma's maternal Bures (Malin Olofsdotter, abt 1505; Kerstin, 1533) placed honestly
+before the tax rolls, "in the family book, not in the king's." Facts checked from memory.
