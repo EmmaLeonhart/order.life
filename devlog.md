@@ -5918,3 +5918,12 @@ correspondences, the Last Judgment of 1757; the Stockholm fire seen from Gothenb
 *Dreams of a Spirit-Seer*; held against Bureus and Newton (chs 268, 279): he did not keep the box shut.
 His death foretold to Wesley; the New Church; Johnny Appleseed's orchards; his bones in Uppsala near
 Linnaeus. Facts checked from memory.
+
+## 2026-10-13 — ch 286 written: All Knowledge in One Structure
+
+Libra 6 (1751, the *Encyclopédie*). The translation job that became a reasoned dictionary of everything;
+Diderot after Vincennes; the Baconian tree with theology a twig on Reason; seventy-two thousand articles
+and Jaucourt's seventeen thousand at his own cost; the cannibals article cross-referenced to the
+Eucharist; the plates that gave the crafts the dignity of philosophy. Banned 1752 and 1759; Malesherbes
+hiding the manuscripts; Le Breton's secret cuts found in 1764; Catherine buying the library. The thread to
+Wikipedia (Ophiuchus 1). Facts checked from memory (the tree a chart in vol. 1, not the frontispiece).
