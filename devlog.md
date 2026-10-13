@@ -5995,3 +5995,13 @@ death clause; the dechristianization and the Cult of Reason in Notre-Dame; Robes
 blackened Wisdom; two days later the law of 22 Prairial and the Great Terror; Thermidor. The mirror for
 this book's own new faith, set against Akbar (ch 263): a faith founded from power is a festival with a
 scaffold behind it; Lifeism may ask, never require. Facts checked from memory.
+
+## 2026-10-13 — ch 294 written: The Mountain Cherry
+
+Libra 14 (1798, Motoori Norinaga completes the *Kojiki-den*). The *Kojiki* of 712 left on the shelf
+behind the *Nihon Shoki*; the cotton merchant's son turned children's doctor; the one night with Kamo no
+Mabuchi in 1763; thirty-four years and forty-four volumes giving the gods their sounds back; *mono no
+aware*. The other edge (the spine's invented tradition): the *karagokoro* critique, Hirata, State Shinto,
+and his cherry poem naming the first kamikaze units in 1944. For a book made by one who keeps the kami:
+keep the reading, refuse the purity; the old way was always mixed. Facts checked from memory (the rice,
+not the goddess, came from the continent).

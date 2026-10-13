@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-293 are done (Virgo complete).
-   - **Ch 294 (Libra 14):** 1798: Motoori Norinaga completes the *Kojiki-den*, ancient Shinto recovered.
+   its line here when done. Ch 253-294 are done (Virgo complete).
    - **Ch 295 (Libra 15):** 1804 and 1806: Napoleon; the Holy Roman Empire ends.
    - **Ch 296 (Libra 16):** 1812 and 1835: the Grimms and the *Kalevala*, a national epic compiled.
    - **Ch 297 (Libra 17):** 1822: the Rosetta Stone deciphered, the dead speak again.
