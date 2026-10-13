@@ -5842,3 +5842,12 @@ Transactions* as a register of facts dated by publication. Who was kept out: Mar
 1667 and the first women Fellows in 1945. The *History of Fishes* and Halley paying for the *Principia*;
 Newton's presidency and the calculus report he wrote himself. Ends by turning the motto on this book: do
 not believe the Gaiad because it is scripture. Facts checked from memory (Fishes 1686).
+
+## 2026-10-13 — ch 278 written: The Barrels Stayed Packed
+
+Virgo 26 (1665-1666, Sabbatai Zevi; Sukkot). The holiday table had flagged a false messiah as uneasy on
+a festival of joy; the answer is the sukkah, the commanded joy in a temporary house. Khmelnytsky's
+massacres and the Lurianic sparks; Sabbatai's bright and dark seasons; Nathan of Gaza; Smyrna; the
+communities selling their houses; Glückel of Hameln's father-in-law packing barrels and keeping them
+packed for three years; Gallipoli, Edirne, the turban, the Dönme; death in Ulcinj on Yom Kippur 1676.
+"The scope of the messiah was wrong. The joy was not wrong." Facts checked from memory.

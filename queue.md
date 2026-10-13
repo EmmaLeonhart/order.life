@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-277 are done.
-   - **Ch 278 (Virgo 26):** 1665 to 1666: Sabbatai Zevi, a messiah and a mass movement. Holiday: Sukkot.
+   its line here when done. Ch 253-278 are done.
    - **Ch 279 (Virgo 27):** 1687: Newton's *Principia*.
    - **Ch 280 (Virgo 28):** 1679 to 1703: Leibniz, binary, the I Ching, a universal language (the bridge to Libra).
    - **Ch 281 (Libra 1):** 1704 and 1742: the Chinese Rites controversy, Rome refuses the synthesis. Holiday: Harvest Day.
