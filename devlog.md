@@ -5672,3 +5672,12 @@ book's own genealogy: Emma's maternal line gets its first exact day there (Per O
 from her FamilySearch tree), "the democracy of the dead"; and its other edge, the state reading the
 same books for soldiers, taxes and blood; then the Mormon microfilms that the tree is built on.
 Facts checked from memory (the tax fear as West Country rumour, 1539).
+
+## 2026-10-12 — ch 260 written: The Earth Leaves the Centre
+
+Virgo 8 (1543, Copernicus). The canon of Frombork (Toruń, Olsztyn against the Teutonic Knights, the coin
+treatise), the Commentariolus and the thirty years' wait, Rheticus the Lutheran who talked him into
+print, Osiander's unsigned preface, the copy on the deathbed. Not the first: Aristarchus, and the
+Maragha school and Ibn al-Shatir, whose devices his models share (the Golden Age transmission of ch
+197). The Lifeist turn: the Earth is not the centre and never was; what grew here is. Index 1616 to
+1835. Checked from memory.
