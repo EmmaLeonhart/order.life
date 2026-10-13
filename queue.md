@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-258 are done.
-   - **Ch 259 (Virgo 7):** 1538 and 1563: parish registers begin (England, then Trent), the register of every soul.
+   its line here when done. Ch 253-259 are done.
    - **Ch 260 (Virgo 8):** 1543: Copernicus, the Earth leaves the centre.
    - **Ch 261 (Virgo 9):** 1548 and 1553: the first documented Bures; Vasa's Lutheran Sweden.
    - **Ch 262 (Virgo 10):** 1549: Xavier lands in Japan. Holiday: Rosh Hashanah.

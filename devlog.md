@@ -5661,3 +5661,14 @@ millet system" as order rather than modern tolerance; the Sephardic refuge and J
 devshirme and Sinan; Hürrem and Mustafa; Muhibbi's couplet on health. Ends on the register as the
 seed of the census. Facts checked from memory (Baghdad 1534 not at accession; the Phanar only from
 1601; Naxos under Selim II; Mustafa in the army tent).
+
+## 2026-10-12 — ch 259 written: The Register of Every Soul
+
+Virgo 7 (1538 and 1563, parish registers begin). Cromwell's injunction (a book every Sunday, a coffer
+with two locks, the tax rumour), the 1598 parchment copies from 1558, Trent's twenty-fourth session
+(marriages before witnesses, baptisms with godparents), the 1614 Ritual and the Book of the State of
+Souls, the Swedish Church Law of 1686 and its household examinations. The register's thread through the
+book's own genealogy: Emma's maternal line gets its first exact day there (Per Olofsson, 4 April 1696,
+from her FamilySearch tree), "the democracy of the dead"; and its other edge, the state reading the
+same books for soldiers, taxes and blood; then the Mormon microfilms that the tree is built on.
+Facts checked from memory (the tax fear as West Country rumour, 1539).
