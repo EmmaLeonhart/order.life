@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-301 are done (Virgo complete).
-   - **Ch 302 (Libra 22):** 1859: Darwin, the Gaiad's own foundation.
+   its line here when done. Ch 253-302 are done (Virgo complete; Libra through Darwin).
    - **Ch 303 (Libra 23):** 1866 and 1869: Mendel and Galton, inheritance and who gets to survive.
    - **Ch 304 (Libra 24):** 1868: Meiji; the Department of Divinities restored, kami and buddhas forced apart.
    - **Ch 305 (Libra 25):** 1875: Theosophy, East and West in one system.

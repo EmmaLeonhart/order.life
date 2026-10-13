@@ -6072,3 +6072,15 @@ of the American sailors of 1854 and the Russian sailors of the *Diana* (wrecked 
 its monks to this day. Uraga, the black ships, the letter, Kanagawa and the two ports, the toy train and
 the sumo wrestlers, Yoshida Shōin's night row to the flagship; the opening as the door that led to Ōura
 (ch 274). On the Eve of Ancestors: keep the dead who are not yours. Facts checked from memory.
+
+## 2026-10-13 — ch 302 written: Endless Forms
+
+Libra 22 (1859, Darwin, the Gaiad's own foundation). The voyage dated, not the beach myth:
+Plymouth 27 December 1831, home 2 October 1836, Gould in London on the mockingbirds and the
+unsorted finches, the notebook tree of July 1837. Charles Waring Darwin died 28 June 1858;
+the Linnean reading of Darwin with Wallace was 1 July, and Darwin stayed at Downe. Wallace's
+letter from Ternate. The book 24 November 1859, John Murray, 1,250 copies taken by the trade
+that day; the title is not *Evolution*; *evolved* is the last word; the clause on man is one
+clause. Emma Darwin's fear for the afterlife is in the letters and is not played for a laugh.
+The turn: descent is the ground under the ancestor days, not a private pedigree. 76 lines.
+Facts checked from memory. Runway 288/364.
