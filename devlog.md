@@ -5937,3 +5937,12 @@ singers cleared onto the ships, the tartan revived as costume in 1822. The mirro
 Emma's own words from her queue item ("it feels like an ancient tradition ... except it was made in this
 year"): the one difference from Macpherson is the date, which the Gaiad writes on the page. Ends with
 Duncan Ban MacIntyre, real and dated. Facts checked from memory.
+
+## 2026-10-13 — ch 288 written: Two Navigators
+
+Libra 8 (1768-1779, Cook in the Pacific), continuing ch 254's joining of the world. The collier boy,
+the transit of Venus and the sealed orders; Solander, Linnaeus's apostle (ch 282); Tupaia of Raiatea and
+his chart of seventy-four islands, interpreter to the Māori; Kamay/Botany Bay and the claim on a land
+that was not empty; the reef; Batavia's fever (the VOC city, ch 267) killing Tupaia; the Antarctic Circle
+and Harrison's clock; Kealakekua at Makahiki, the Lono dispute kept open, the death on the shore. Honour
+both navigators; the first chart of the Pacific was its own people's. Facts checked from memory.

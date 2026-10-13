@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-287 are done (Virgo complete).
-   - **Ch 288 (Libra 8):** 1768 to 1779: Cook in the Pacific.
+   its line here when done. Ch 253-288 are done (Virgo complete).
    - **Ch 289 (Libra 9):** 1769 and 1776: Watt's engine, the machine age.
    - **Ch 290 (Libra 10):** 1773 to 1782: the *Siku Quanshu*, the largest compilation ever made, and a censorship.
    - **Ch 291 (Libra 11):** 1786: William Jones, languages turn out to have a family tree.
