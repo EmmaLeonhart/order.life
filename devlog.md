@@ -5946,3 +5946,13 @@ his chart of seventy-four islands, interpreter to the Māori; Kamay/Botany Bay a
 that was not empty; the reef; Batavia's fever (the VOC city, ch 267) killing Tupaia; the Antarctic Circle
 and Harrison's clock; Kealakekua at Makahiki, the Lono dispute kept open, the death on the shore. Honour
 both navigators; the first chart of the Pacific was its own people's. Facts checked from memory.
+
+## 2026-10-13 — ch 289 written: Buried Sunlight
+
+Libra 9 (1769 and 1776, Watt's engine, the machine age). Opens in the Carboniferous swamps the Gaiad's
+Aquarius month already sang ("that would later power industrial civilization"); Watt's model Newcomen
+engine, Glasgow Green, the separate condenser; Roebuck, Boulton, Wilkinson's cannon-boring; 1776 with the
+Declaration and *The Wealth of Nations*; Boulton's "power", horsepower. The spine's double edge: work and
+bread for the many, and the child in the mill, the miner's lungs, and the carbon returned to the air that
+Ophiuchus will meet. The Lunar Society by the full moon (Wedgwood's medallion, Erasmus Darwin, Priestley).
+Facts checked from memory (the wood-eating hypothesis hedged).
