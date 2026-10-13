@@ -5927,3 +5927,13 @@ and Jaucourt's seventeen thousand at his own cost; the cannibals article cross-r
 Eucharist; the plates that gave the crafts the dignity of philosophy. Banned 1752 and 1759; Malesherbes
 hiding the manuscripts; Le Breton's secret cuts found in 1764; Catherine buying the library. The thread to
 Wikipedia (Ophiuchus 1). Facts checked from memory (the tree a chart in vol. 1, not the frontispiece).
+
+## 2026-10-13 — ch 287 written: The Bard Who Never Was
+
+Libra 7 (1760, Ossian, a tradition made to look ancient). Culloden and the tartan ban; Macpherson's
+*Fragments*, *Fingal*, *Temora*; Werther, Napoleon, and his godson Oscar who became Oscar I of Sweden;
+Selma; Johnson's demand for manuscripts and the 1805 report (real ballads, a new whole); the real Gaelic
+singers cleared onto the ships, the tartan revived as costume in 1822. The mirror turned on this book with
+Emma's own words from her queue item ("it feels like an ancient tradition ... except it was made in this
+year"): the one difference from Macpherson is the date, which the Gaiad writes on the page. Ends with
+Duncan Ban MacIntyre, real and dated. Facts checked from memory.
