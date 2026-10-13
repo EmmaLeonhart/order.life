@@ -5691,3 +5691,12 @@ of accounts, whose tax rolls are where the Bures first appear: Olof Andersson at
 brother Isak (1553), sons of Anders Burman of Röbäck. Then Bureus's family book carrying the line
 further back, and Emma's maternal Bures (Malin Olofsdotter, abt 1505; Kerstin, 1533) placed honestly
 before the tax rolls, "in the family book, not in the king's." Facts checked from memory.
+
+## 2026-10-12 — ch 262 written: The Great Sun and the Dead
+
+Virgo 10 (1549, Xavier lands in Japan; Rosh Hashanah). Anjirō at Melaka; Kagoshima on the Assumption;
+God rendered as Dainichi and the Jesuits taken for a Buddhist school (the second joining-by-mistake,
+after Kozhikode in ch 254), then "Deusu" and the monks' "dai-uso"; the converts' grief for ancestors
+who never heard, from Xavier's 1552 letter (paraphrased, marked "in substance"), set on the day the
+books are opened; Kyoto in ruins, Yamaguchi in silk, Shangchuan. Ends with the ancestors kept. Facts
+checked from memory.
