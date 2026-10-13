@@ -5833,3 +5833,12 @@ Aurangzeb with the historians' division kept, and the sure facts: the jizya of 1
 Mathura, Tegh Bahadur (1675) and the Khalsa (Nanak's line, ch 255), the caps, the Deccan, the plain
 grave. The brother who lost the war won the long game: the Upanishads through Anquetil-Duperron (1801)
 to Schopenhauer. Facts checked from memory.
+
+## 2026-10-13 — ch 277 written: Take Nobody's Word for It
+
+Virgo 25 (1660, the Royal Society). The Restoration and the meeting of 28 November 1660; the charter and
+*Nullius in verba*; the witnessed experiment (Boyle's pump), Hooke's flea and his cells; *Philosophical
+Transactions* as a register of facts dated by publication. Who was kept out: Margaret Cavendish's visit in
+1667 and the first women Fellows in 1945. The *History of Fishes* and Halley paying for the *Principia*;
+Newton's presidency and the calculus report he wrote himself. Ends by turning the motto on this book: do
+not believe the Gaiad because it is scripture. Facts checked from memory (Fishes 1686).
