@@ -6044,3 +6044,13 @@ Engine's store and mill on Jacquard's cards; Ada, Byron's daughter raised on mat
 Menabrea, Note G's Bernoulli program, the music and the loom; her objection that the engine originates
 nothing, and Turing's answer by name in 1950. The book faces it: it is written with a writing machine; the
 machine weaves from what it was given; name the weavers. The 1991 engine. Facts checked from memory.
+
+## 2026-10-13 — ch 299 written: The Gate and the Glory
+
+Libra 19 (1844 and 1863, the Báb, then Baháʼu'lláh, a religion of unification). The cloth merchant of
+Shiraz and the night of 23 May 1844; Táhirih unveiled at Badasht and her last words; the execution at
+Tabriz with the two volleys kept as the followers' account; Baháʼu'lláh of Nur in Mazandaran (Qarin's
+Tabaristan), the Black Pit, Ridván 1863, Edirne (Sabbatai's town, ch 278), Akka; the teachings and the
+letters to the kings. Set against Akbar (ch 263): a unity faith that lasted because it had a book, a
+covenant, an institution and its own calendar (19 x 19 with days set apart, kin to the Horus days).
+Lifeism as a younger sister; the persecution in Iran today. Facts checked from memory.
