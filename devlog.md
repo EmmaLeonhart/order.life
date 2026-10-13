@@ -6015,3 +6015,13 @@ with the armies; the Dutch surname decree of 1811 (the patronymic turning into a
 in ch 282; the joke names marked as legend) and the Jewish surnames of 1808; the Grand Sanhedrin and the
 opened ghettos. The whole man: the wars, slavery restored, Ossian, Bernadotte's Oscar, Russia, Saint Helena.
 His longest legacy: the book in the mairie. Facts checked from memory (Zondervan is "without a van").
+
+## 2026-10-13 — ch 296 written: The Compilers
+
+Libra 16 (1812 and 1835, the Grimms and the *Kalevala*, a national epic compiled). Answers Ossian (ch 287)
+with two compilations: the Grimms' tales gathered largely from educated young women, several of Huguenot
+French descent, and softened edition by edition (mothers made stepmothers); Jacob's sound law (after Jones,
+ch 291) and the dictionary finished in 1961. Lönnrot in Karelia, Finland newly lost by Sweden to Russia:
+real singers by name (Arhippa Perttunen), the songs arranged and the arranging admitted in the 1835
+preface; Sibelius, Tolkien. The model for the Gaiad's own compiling: keep the sources, name the singers,
+show the seams, leave the cruelty where it was. Facts checked from memory.
