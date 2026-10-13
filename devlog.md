@@ -5908,3 +5908,13 @@ one promise (the genealogy note); the self-name muwahhidun; Karbala 1802, Mecca 
 domes; Diriyah razed in 1818; Riyadh 1902, the kingdom, oil. The pattern named: the return that is an
 invention, set against the Old Believers (ch 271); the grandmother's rag on the tree as the faith alive.
 Facts checked from memory.
+
+## 2026-10-13 — ch 285 written: The Assessor of the Board of Mines
+
+Libra 5 (1745-1772, Swedenborg). The name made new at ennoblement (Swedberg to Swedenborg, beside
+Linnaeus's linden, ch 282); thirty years on the Board of Mines, the flying machine, the cortex, the solar
+cloud; the dream journal and the London vision of 1745; *Heavenly Secrets* and *Heaven and Hell*,
+correspondences, the Last Judgment of 1757; the Stockholm fire seen from Gothenburg and Kant's
+*Dreams of a Spirit-Seer*; held against Bureus and Newton (chs 268, 279): he did not keep the box shut.
+His death foretold to Wesley; the New Church; Johnny Appleseed's orchards; his bones in Uppsala near
+Linnaeus. Facts checked from memory.
