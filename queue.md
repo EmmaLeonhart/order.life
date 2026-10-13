@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-303 are done (Virgo complete; Libra through Galton).
-   - **Ch 304 (Libra 24):** 1868: Meiji; the Department of Divinities restored, kami and buddhas forced apart.
+   its line here when done. Ch 253-304 are done (Virgo complete; Libra through the Jingikan).
    - **Ch 305 (Libra 25):** 1875: Theosophy, East and West in one system.
    - **Ch 306 (Libra 26):** 1887: Nietzsche's *Genealogy of Morals*, who gets to define good.
    - **Ch 307 (Libra 27):** 1890: Hollerith, the census becomes a machine.
