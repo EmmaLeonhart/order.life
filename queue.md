@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-291 are done (Virgo complete).
-   - **Ch 292 (Libra 12):** 1793: the French Republican calendar, a revolution remakes time.
+   its line here when done. Ch 253-292 are done (Virgo complete).
    - **Ch 293 (Libra 13):** 1794: the Cult of the Supreme Being, a state invents a god.
    - **Ch 294 (Libra 14):** 1798: Motoori Norinaga completes the *Kojiki-den*, ancient Shinto recovered.
    - **Ch 295 (Libra 15):** 1804 and 1806: Napoleon; the Holy Roman Empire ends.

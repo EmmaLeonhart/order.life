@@ -5975,3 +5975,14 @@ longer exists"); father in five tongues; Proto-Indo-European and its gods, Dyēu
 one of Emma's old trees). Not the first: Sassetti, Boxhorn, Coeurdoux, kept; his errors kept; Shakuntala and
 Faust. The darkness named: *ārya* made into a race and used to murder; speech is not blood. Facts checked
 from memory (a word I had inserted into his sentence removed).
+
+## 2026-10-13 — ch 292 written: The Year One
+
+Libra 12 (1793, the French Republican calendar). The equinox of 1792 as day one; Romme and Fabre
+d'Églantine; twelve months of thirty days, the décade and its tenth-day rest, the decimal clock; the
+months named for the season and every day for a plant, animal or tool. The people's resistance (one rest
+in ten), Fabre guillotined in Germinal, Thermidor and Brumaire, the end in 1806. The mirror turned on
+the Gaian calendar, using only what its design records: a new era, thirteen months of twenty-eight days,
+the seven-day week and three sabbaths kept, every day named for a chapter and now for the ancestors. A
+calendar is a theology and a promise to the tired. Facts checked from memory (an animal on every fifth
+day, not always the cow).
