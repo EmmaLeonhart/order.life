@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-289 are done (Virgo complete).
-   - **Ch 290 (Libra 10):** 1773 to 1782: the *Siku Quanshu*, the largest compilation ever made, and a censorship.
+   its line here when done. Ch 253-290 are done (Virgo complete).
    - **Ch 291 (Libra 11):** 1786: William Jones, languages turn out to have a family tree.
    - **Ch 292 (Libra 12):** 1793: the French Republican calendar, a revolution remakes time.
    - **Ch 293 (Libra 13):** 1794: the Cult of the Supreme Being, a state invents a god.

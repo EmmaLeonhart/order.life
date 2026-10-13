@@ -5956,3 +5956,13 @@ Declaration and *The Wealth of Nations*; Boulton's "power", horsepower. The spin
 bread for the many, and the child in the mill, the miner's lungs, and the carbon returned to the air that
 Ophiuchus will meet. The Lunar Society by the full moon (Wedgwood's medallion, Erasmus Darwin, Priestley).
 Facts checked from memory (the wood-eating hypothesis hedged).
+
+## 2026-10-13 — ch 290 written: The Four Treasuries
+
+Libra 10 (1773-1782, the *Siku Quanshu* and its censorship). The *Encyclopédie*'s mirror (ch 286), the same
+decades: Qianlong's order, the four categories, 3,460 works in 36,000 handwritten volumes, seven
+pavilions; the conqueror as keeper (ch 275). The same act as erasure: some three thousand works burned or
+altered, the literary inquisition, Ji Yun writing both the great catalogue and the list of the banned.
+The copies' fates: Yuanmingyuan 1860, the Taiping war, Hangzhou's scholars recopying by lamplight, the
+first copy in Taipei. For this book: keep the record of the erasure beside the record of the kept. Facts
+checked from memory ("taels", not "dollars").
