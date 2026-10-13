@@ -5757,3 +5757,12 @@ namn och ätt*, the first Bure family tree; and the mystic of the Adulruna, the 
 reckoned end of the world and Gothicism (invented antiquity for a rising kingdom). The Day of Awe turn:
 his kinswoman's scripture does the same work, so it must do what he did not and mark the dream as a
 dream. Facts checked from memory (Emma is Bure kin, not Bureus's descendant).
+
+## 2026-10-12 — ch 269 written: The Sky Opens
+
+Virgo 17 (1609-1610, Galileo's telescope; Seventh Day of Awe). Lipperhey's patent, the Venetian
+campanile, the mountains of the Moon, Jupiter's moons from 7 January 1610, the Milky Way as stars, the
+Starry Messenger, Venus's phases and the sunspots: not a new idea but a view anyone could climb to. The
+1616 warning, the 1632 Dialogue, the 1633 abjuration ("and yet it moves" as the printers' line, like
+Luther's in ch 257), Arcetri, Leiden, 1642. For the Day of Awe: the 1992 admission after 359 years as
+what an institution's repentance can look like. Facts checked from memory.
