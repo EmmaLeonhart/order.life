@@ -5879,3 +5879,13 @@ ancestral tablets. The orders' quarrel, Kangxi's 1700 statement, Clement XI's 17
 legation and Maigrot who could not read the characters, Kangxi's red-brush dismissal, the 1724 ban, the
 1742 oath; and the 1939 reversal, 197 years on: Ricci (ch 264) and Leibniz (ch 280) were right. The
 harvests of the day gathered at the end. Facts checked from memory.
+
+## 2026-10-13 — ch 282 written: The Names of Everything
+
+Libra 2 (1735, Linnaeus). The genealogy note: his father Nils Ingemarsson made the surname from a linden on
+the farm, the patronymic giving way to a chosen name. Lapland and the Sámi costume; *Systema Naturae*
+(1735), the sexual system and Siegesbeck; the binomials of 1753; *Homo sapiens* among the primates (1758)
+and his letter asking for one difference between man and ape. The harm kept in: the four ranked
+"varieties", the seed of scientific racism. The apostles; "God created, Linnaeus ordered". For Lifeism:
+learning the names is the first respect; one species, one family. Facts checked from memory (burial in
+Uppsala Cathedral; the linden no longer claimed to stand).
