@@ -5804,3 +5804,13 @@ household a temple's danka, certified yearly in the shūmon aratame chō, nation
 fumi-e. Funeral Buddhism as the temples' price, and its reckoning in Meiji (Libra). The register's
 double nature at its plainest: a census of conscience, and the best record of ordinary lives in the old
 world. Facts checked from memory (population about 25 million, not 30).
+
+## 2026-10-13 — ch 274 written: Our Hearts Are the Same as Yours
+
+Virgo 22 (1637-1638, Shimabara and the Hidden Christians). The Matsukura taxes and the straw-coat burning,
+Amakusa Shirō and the prophecy, the 37,000 at Hara, the Dutch ship De Ryp firing for the shogun and the
+rebels' arrow taunt, the fall in April 1638, Matsukura beheaded. Then 250 years without priests: orasho,
+the baptizers, the secret calendars, Maria Kannon (syncretism forced by fear, kept as their own), the
+contrition after the fumi-e. Ōura, 17 March 1865: Isabelina Yuri Sugimoto's "Our hearts are the same as
+yours" and "Where is the image of Santa Maria?"; the Urakami exile and the 1873 lifting; the kakure who
+stayed apart. Facts checked from memory.
