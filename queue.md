@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-270 are done.
-   - **Ch 271 (Virgo 19):** 1613 and 1666: Russia, the Romanovs and the Old Believer schism (open: "unsure how much"). Holiday: Days of Awe.
+   its line here when done. Ch 253-271 are done.
    - **Ch 272 (Virgo 20):** 1618 to 1648: the Thirty Years' War and Westphalia. Holiday: Yom Kippur.
    - **Ch 273 (Virgo 21):** 1630s to 1660s: sakoku and the temple registration system, every household registered through a temple.
    - **Ch 274 (Virgo 22):** 1637 to 1638: Shimabara and the Hidden Christians, a faith kept in secret for 250 years.

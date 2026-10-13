@@ -5775,3 +5775,12 @@ reforms and the parish conscription rolls (one in ten). The Vasa, too tall for h
 maiden voyage in 1628. Germany 1630, Breitenfeld, the Swedish drink, Lützen in the fog (an echo of
 Sekigahara). Rudbeck's Atlantis and Poltava. For the Day of Awe: repent of the legends that cost souls;
 the raised Vasa as the better myth. Facts checked from memory.
+
+## 2026-10-12 — ch 271 written: Two Fingers
+
+Virgo 19 (1613 and 1666, Russia, the Romanovs and the Old Believer schism; Ninth Day of Awe; her note
+"unsure how much", so kept shorter). Moscow as Yuri Dolgoruky's town; the Time of Troubles, Minin and
+Pozharsky, Michael Romanov chosen in 1613. Nikon's correction to the Greek books, with its irony: the
+two-fingered sign was the older Byzantine use, a modernization dressed as a restoration (invented
+tradition in reverse). The 1666 anathema, Avvakum, Morozova, the burnings, the Lykovs found in 1978.
+Facts checked from memory.
