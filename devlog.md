@@ -6063,3 +6063,12 @@ Guangxi, Jintian, the long hair against the queue (ch 275); the Heavenly Capital
 and opium banned, women officers, the land plan); the East King's trances and the 1856 purge; Zeng Guofan,
 Ward and Gordon; twenty to thirty million dead; the "manna" and the fall. The difference from the Báb and
 Baháʼu'lláh: not the vision, the sword. Facts checked from memory (Feng a friend, not a cousin).
+
+## 2026-10-13 — ch 301 written: The Black Ships and the Strangers' Graves
+
+Libra 21 (1853, Perry, Japan opens; Halloween, the Eve of Ancestors). The pairing the holiday table had
+marked weak, made to fit through a true place: Gyokusen-ji at Shimoda, the temple that has kept the graves
+of the American sailors of 1854 and the Russian sailors of the *Diana* (wrecked by the tsunami), tended by
+its monks to this day. Uraga, the black ships, the letter, Kanagawa and the two ports, the toy train and
+the sumo wrestlers, Yoshida Shōin's night row to the flagship; the opening as the door that led to Ōura
+(ch 274). On the Eve of Ancestors: keep the dead who are not yours. Facts checked from memory.
