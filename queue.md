@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-307 are done (Virgo complete; Libra through the census machine).
-   - **Ch 308 (Libra 28):** 1893: the Parliament of the World's Religions; Vivekananda. Holiday: Samhain.
+   its line here when done. Ch 253-308 are done (Virgo complete; Libra through Samhain).
    - **Ch 309 (Scorpius 1):** 1905: Einstein.
    - **Ch 310 (Scorpius 2):** 1911 to 1912: the Qing fall, the imperial cult of Heaven ends.
    - **Ch 311 (Scorpius 3):** 1914 to 1918: the First World War.

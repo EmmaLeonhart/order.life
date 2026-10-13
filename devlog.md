@@ -6206,3 +6206,23 @@ damaged by water, smoke, and fire. Congress authorized destruction of the
 spoiled remainder 21 February 1933; gone by 1935. 6,160 names remain from the
 general schedules. About 75,000 Union veteran and widow schedules survived.
 141 lines. Ends "Stand." The count is kept. It is not the register. Runway 293/364.
+
+## 2026-10-13 — ch 308 written: The Tenth Stroke
+
+Libra 28 (1893: the Parliament of the World's Religions; Vivekananda). Holiday:
+Samhain, the last day of Libra. The Columbian Liberty Bell struck ten times on
+11 September 1893 for the ten religions the organizers counted. The hall was the
+Art Institute, not the fairground. Gibbons in scarlet with Bonney; Barrows chaired.
+Vivekananda, thirty, born Narendranath Datta in Kolkata, disciple of Ramakrishna,
+was sent back by John Henry Wright's letter (credentials like asking the sun its
+right to shine). "Sisters and brothers of America" that first afternoon. His
+shelter-story of Israel in the year the temple fell is given as his offer, not as
+a dated document. Dharmapala from Colombo; Shaku Sōen of Engaku-ji in Kamakura;
+Reuchi Shibata for Shinto, the eight million deities asked to keep America too,
+twenty-five years after the separation edicts. Virchand Gandhi. Pung Kwang Yu for
+the court. Islam was a stroke: Alexander Russell Webb spoke; the sultan in
+Istanbul did not let his subjects come. Julia Ward Howe spoke. The parliament ran
+through 27 September. On the Midway, people from Dahomey (Benin) were exhibited
+and had no chair. Comparison is kept. The host's hope to be the meaning of the
+room, and the pen on the Midway, are refused. 119 lines. Ends "Stand."
+Runway 294/364.
