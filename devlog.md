@@ -5651,3 +5651,13 @@ Hus; Worms and the printers' "Here I stand"; the September Testament in the peop
 other side held with it: "smite, slay, and stab" in the Peasants' War, and the 1543 book against the
 Jews that the Reich reprinted. Ends on the Gaiad's own "Stand." Facts checked from memory (the German
 translation of the theses dated to early 1518, not two weeks).
+
+## 2026-10-12 — ch 258 written: The Lawgiver's Register
+
+Virgo 6 (1520-1566, Suleiman and the millet system, religions as a state register). The conqueror
+(Belgrade, Rhodes, Mohács, Vienna) and the Lawgiver: the tahrir defters counting every household by
+faith, the jizya, the communities judging by their own law, "what historians would later call the
+millet system" as order rather than modern tolerance; the Sephardic refuge and Joseph Nasi; the
+devshirme and Sinan; Hürrem and Mustafa; Muhibbi's couplet on health. Ends on the register as the
+seed of the census. Facts checked from memory (Baghdad 1534 not at accession; the Phanar only from
+1601; Naxos under Selim II; Mustafa in the army tent).

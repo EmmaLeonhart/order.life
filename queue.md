@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-257 are done.
-   - **Ch 258 (Virgo 6):** 1520 to 1566: Suleiman and the millet system, religions as a state register.
+   its line here when done. Ch 253-258 are done.
    - **Ch 259 (Virgo 7):** 1538 and 1563: parish registers begin (England, then Trent), the register of every soul.
    - **Ch 260 (Virgo 8):** 1543: Copernicus, the Earth leaves the centre.
    - **Ch 261 (Virgo 9):** 1548 and 1553: the first documented Bures; Vasa's Lutheran Sweden.
