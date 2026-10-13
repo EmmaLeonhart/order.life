@@ -6135,3 +6135,24 @@ and did not restore the fusion. 85 lines. Ends "Stand." Facts checked against th
 Seitaisho (11 June 1868), the 15 August 1869 staff ordinance, the Kokugakuin
 account of the separation stages, and the Satsuma census (no temple left).
 Runway 290/364.
+
+## 2026-10-13 — ch 305 written: By Physical Processes
+
+Libra 25 (1875: Theosophy, East and West in one system). Olcott met Blavatsky at the
+Eddy farmhouse in Chittenden in October 1874; she had been in the country since
+1873. On 7 September 1875 George Henry Felt lectured in her New York rooms on the
+lost canon of proportion of the Egyptians, Greeks, and Romans; about seventeen
+were there, and Olcott moved that they form a society. On 8 September Olcott
+chaired, Judge kept the minutes, and sixteen put their names in. The name
+Theosophical Society was adopted on 13 September. Bylaws on 30 October; the
+preamble seeks knowledge of the Supreme Power and the higher spirits by physical
+processes. Olcott later corrected the printed date: the society stood on
+17 November 1875, Mott Memorial Hall, 64 Madison Avenue. He was president.
+Blavatsky was corresponding secretary. Judge was counsel. Felt and Seth Pancoast
+were vice-presidents. The three objects quoted since were a later wording, not
+those bylaws. Isis Unveiled is 1877. The May 1878 circular teaches Eastern
+philosophies to the West and calls dogmatic theology, the Christian in particular,
+pernicious. Mumbai in February 1879; Adyar, in Chennai, is the later headquarters.
+The masters are her later account, not a fact this chapter certifies. 73 lines.
+Ends "Stand." The comparison is granted. The ownership of the other religions is
+refused. Runway 291/364.
