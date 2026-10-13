@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-283 are done (Virgo complete).
-   - **Ch 284 (Libra 4):** 1744: Wahhabism, purification as a split.
+   its line here when done. Ch 253-284 are done (Virgo complete).
    - **Ch 285 (Libra 5):** 1745 to 1772: Swedenborg, a Swedish visionary's new church.
    - **Ch 286 (Libra 6):** 1751: the *Encyclopédie*, all knowledge in one structure.
    - **Ch 287 (Libra 7):** 1760: Ossian, a tradition made to look ancient.

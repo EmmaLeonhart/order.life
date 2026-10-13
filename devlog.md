@@ -5898,3 +5898,13 @@ healer of Medzhybizh. "No place empty of Him"; joy over fasting; the shepherd bo
 The Maggid, the spread, the Vilna Gaon's ban of 1772; and the genealogy turn: the rebbes' courts as
 dynasties, his great-grandson Nachman of Breslov and Uman. Lifeism shares the core: no place empty of the
 sacred. Facts checked from memory.
+
+## 2026-10-13 — ch 284 written: The Pact at Diriyah
+
+Libra 4 (1744, Wahhabism, purification as a split), the spine's own example of invented tradition,
+told as historians tell it and not as polemic. Ibn Abd al-Wahhab's *Oneness of God*, the tree and the
+tomb at Uyaynah, the 1744 pact at Diriyah: the Saud and the Al ash-Sheikh as two family trees bound by
+one promise (the genealogy note); the self-name muwahhidun; Karbala 1802, Mecca and Medina, the Baqi
+domes; Diriyah razed in 1818; Riyadh 1902, the kingdom, oil. The pattern named: the return that is an
+invention, set against the Old Believers (ch 271); the grandmother's rag on the tree as the faith alive.
+Facts checked from memory.
