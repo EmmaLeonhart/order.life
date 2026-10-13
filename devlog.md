@@ -5870,3 +5870,12 @@ thread that Ophiuchus carries; *Novissima Sinica* and his defence of Ricci's acc
 leading into the Rites controversy of Libra 1; Bouvet's hexagram diagram (Shao Yong's order, not Fuxi's)
 and the 1703 paper; the lonely funeral. With it, all 28 Virgo chapters (253-280) are written. Facts
 checked from memory.
+
+## 2026-10-13 — ch 281 written: The Harvest at the Ancestors' Hall
+
+Libra 1 (1704 and 1742, the Chinese Rites controversy; Harvest Day). The pairing the holiday table had
+marked weak, made to work through the rites themselves: the season's first fruits set before the
+ancestral tablets. The orders' quarrel, Kangxi's 1700 statement, Clement XI's 1704 decree, Tournon's
+legation and Maigrot who could not read the characters, Kangxi's red-brush dismissal, the 1724 ban, the
+1742 oath; and the 1939 reversal, 197 years on: Ricci (ch 264) and Leibniz (ch 280) were right. The
+harvests of the day gathered at the end. Facts checked from memory.
