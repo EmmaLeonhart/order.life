@@ -36,6 +36,9 @@ from pathlib import Path
 
 LIVING_YEARS = 110
 OUT = Path(__file__).resolve().parent.parent / "content" / "ancestor_days.json"
+# Emma's stated identifications, fs id to Wikidata QID. The superproject keeps
+# the file; a checkout without it simply stamps no qid.
+JOIN_KEYS = Path(__file__).resolve().parents[2] / "research" / "join-keys.tsv"
 
 MONTHS = {
     "jan": 1, "january": 1, "feb": 2, "february": 2, "mar": 3, "march": 3,
@@ -97,13 +100,33 @@ def ancestors_of(path, root_id):
     return roots, anc
 
 
-def details(path, wanted):
+def load_joins(path=JOIN_KEYS):
+    """fs id -> Wikidata QID. A missing file means no stated joins."""
+    if not path.exists():
+        alt = Path("research/join-keys.tsv")
+        path = alt if alt.exists() else None
+    if path is None:
+        return {}
+    out = {}
+    with open(path, encoding="utf-8") as fh:
+        next(fh, None)
+        for line in fh:
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            parts = line.split("\t")
+            if len(parts) >= 2 and parts[0] and parts[1].startswith("Q"):
+                out.setdefault(parts[0], parts[1])
+    return out
+
+
+def details(path, wanted, joins):
     """Pass 2: name, ids and birth/death of the wanted people."""
     out = {}
     for xref, kind, lines in records(path):
         if kind != "INDI" or xref not in wanted:
             continue
-        p = {"name": "", "fsid": "", "geni": "", "dead": False, "BIRT": "", "DEAT": ""}
+        p = {"name": "", "fsid": "", "geni": "", "qid": "", "dead": False, "BIRT": "", "DEAT": ""}
         m = GENI_XREF.match(xref)
         if m:
             p["geni"] = m[1]
@@ -117,10 +140,16 @@ def details(path, wanted):
                     p["fsid"] = value.strip()
                 elif tag == "REFN" and value.strip().startswith("fs:") and not p["fsid"]:
                     p["fsid"] = value.strip()[3:]
+                elif tag == "WWW" and "wikidata.org" in value and not p["qid"]:
+                    found = re.search(r"\b(Q\d+)\b", value)
+                    if found:
+                        p["qid"] = found[1]
                 elif tag == "DEAT":
                     p["dead"] = True
             elif level == 2 and tag == "DATE" and current in ("BIRT", "DEAT") and not p[current]:
                 p[current] = value
+        if p["fsid"] and not p["qid"]:
+            p["qid"] = joins.get(p["fsid"], "")
         out[xref] = p
     return out
 
@@ -230,7 +259,8 @@ def gaian_doy(d):
 
 
 def main(sources):
-    merged, by_fsid, by_name_date = [], {}, {}
+    joins = load_joins()
+    merged, by_fsid, by_name_date, by_qid = [], {}, {}, {}
     report = []
     for src in sources:
         bits = src.split("::")
@@ -238,12 +268,14 @@ def main(sources):
         roots, anc = ancestors_of(path, root_id)
         if with_self:
             anc |= roots
-        people = details(path, anc)
+        people = details(path, anc, joins)
         new = 0
         for p in people.values():
             b = exact_date(p["BIRT"]) or exact_date(p["DEAT"])
             key_nd = (p["name"].lower(), b.isoformat()) if b and p["name"] else None
             i = by_fsid.get(p["fsid"]) if p["fsid"] else None
+            if i is None and p["qid"]:
+                i = by_qid.get(p["qid"])
             if i is None and key_nd:
                 i = by_name_date.get(key_nd)
             if i is None:
@@ -252,7 +284,7 @@ def main(sources):
                 new += 1
             else:
                 q = merged[i]
-                for k in ("fsid", "geni", "BIRT", "DEAT"):
+                for k in ("fsid", "geni", "qid", "BIRT", "DEAT"):
                     if not q[k] and p[k]:
                         q[k] = p[k]
                 q["dead"] = q["dead"] or p["dead"]
@@ -263,6 +295,8 @@ def main(sources):
             q = merged[i]
             if q["fsid"]:
                 by_fsid[q["fsid"]] = i
+            if q["qid"]:
+                by_qid[q["qid"]] = i
             if key_nd:
                 by_name_date[key_nd] = i
         report.append(f"{Path(path).name} ({root_id}): {len(anc)} people, {new} new")
@@ -282,6 +316,8 @@ def main(sources):
                     e["fsid"] = p["fsid"]
                 elif p["geni"]:
                     e["geni"] = p["geni"]
+                if p["qid"]:
+                    e["qid"] = p["qid"]
                 days.setdefault(str(gaian_doy(d)), {"births": [], "deaths": []})[key].append(e)
                 placed += 1
     for v in days.values():
