@@ -6178,3 +6178,31 @@ Schuld as guilt and debt is marked as holding. The blond beast is a rank, not
 a finding. The ascetic third essay ends on willing nothing rather than not
 willing. Paul Rée's usefulness-account is the friend he answers. 102 lines.
 Ends "Stand." Runway 292/364.
+
+## 2026-10-13 — ch 307 written: The Card and the Name
+
+Libra 27 (1890: Hollerith, the census becomes a machine).
+Hollerith, born Buffalo 29 February 1860, School of Mines 1879, on the 1880
+census under William P. Trowbridge. Billings urged a machine for the mechanical
+part. 1887: health records of Baltimore and New Jersey. 1888 contest, four areas
+of St. Louis from the 1880 returns: the other two captured in 144.5 and 100.5
+hours and prepared the tables in 44.5 and 55.5; Hollerith 72.5 and 5.5. Hours
+are not assigned to Pidgin or to Hunt. Patent 395,781 issued 8 January 1889,
+applied for the previous September. Enumeration as of 1 June, a Sunday, so the
+enumerators went out on 2 June. Porter superintendent; the Census Office was
+still temporary, inside Interior. One sheet to a family, this census only.
+The rough count, 62,947,714, was a keyboard with the card reader taken off,
+six weeks, and was not the punch cards (Truesdell). The published population
+is 62,979,766, against 50,189,209 in 1880, up 25.5 percent. Cards blank,
+corner-cut, 3.25 by 7.375 inches; the template held the words; about 500 cards
+a day on the pantograph; forty dials; pins into mercury; a practiced clerk
+eighty cards a minute; some sixty million cards. The name was not a hole.
+Race words are the schedule's: white, black, mulatto, quadroon, octoroon,
+Chinese, Japanese, Indian. Twenty-five volumes. Porter resigned 31 July 1893.
+The office was closed by the act of 2 March 1895; remainder under Interior
+until 1 July 1897. Fire 10 January 1921, Commerce Building basement, schedules
+outside the vault. Rogers: about 25 percent destroyed, about half the rest
+damaged by water, smoke, and fire. Congress authorized destruction of the
+spoiled remainder 21 February 1933; gone by 1935. 6,160 names remain from the
+general schedules. About 75,000 Union veteran and widow schedules survived.
+141 lines. Ends "Stand." The count is kept. It is not the register. Runway 293/364.
