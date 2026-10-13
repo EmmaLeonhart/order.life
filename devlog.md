@@ -5784,3 +5784,13 @@ Pozharsky, Michael Romanov chosen in 1613. Nikon's correction to the Greek books
 two-fingered sign was the older Byzantine use, a modernization dressed as a restoration (invented
 tradition in reverse). The 1666 anathema, Avvakum, Morozova, the burnings, the Lykovs found in 1978.
 Facts checked from memory.
+
+## 2026-10-13 — ch 272 written: The Sabbath of Sabbaths
+
+Virgo 20 (1618-1648, the Thirty Years' War and Westphalia; the Lifeist Yom Kippur, always a Saturday,
+"the Sabbath of Sabbaths" in the calendar). The window at Prague, the White Mountain, Denmark, Sweden
+and Lützen, France against the emperor; Magdeburg and "to magdeburgize"; Wallenstein at Cheb; a fifth to
+a third of Germany dead. Five years of talks at Münster and Osnabrück, the quarrels over doors, and the
+1648 peace (Calvinists counted, the 1624 rule, the right to leave, Swiss and Dutch freedom; sovereignty
+as the later reading). For the day: atonement between people needs going to the person (Mishnah Yoma
+8:9); not love, but stopping. Facts checked from memory.
