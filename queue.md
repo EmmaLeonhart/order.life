@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-297 are done (Virgo complete).
-   - **Ch 298 (Libra 18):** 1822 to 1843: Babbage and Lovelace, the record gets a machine.
+   its line here when done. Ch 253-298 are done (Virgo complete).
    - **Ch 299 (Libra 19):** 1844 and 1863: the Báb, then Baháʼu'lláh, a religion of unification.
    - **Ch 300 (Libra 20):** 1850 to 1864: Taiping, Christ's younger brother.
    - **Ch 301 (Libra 21):** 1853: Perry, Japan opens. Holiday: Halloween, Eve of Ancestors.

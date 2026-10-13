@@ -6035,3 +6035,12 @@ on 14 September 1822; the workmen's strike at Deir el-Medina among the voices th
 calendar's own debt: the Horus days (in the years that have them) named for Osiris, Horus, Set, Isis and
 Nephthys, names read again because of him. Facts checked from memory (the Horus days described as the
 calendar actually has them).
+
+## 2026-10-13 — ch 298 written: The Engine That Weaves
+
+Libra 18 (1822-1843, Babbage and Lovelace, the record gets a machine), the machine thread from Leibniz
+(ch 280) getting its first engine. "Executed by steam"; the Difference Engine unfinished; the Analytical
+Engine's store and mill on Jacquard's cards; Ada, Byron's daughter raised on mathematics, her Notes on
+Menabrea, Note G's Bernoulli program, the music and the loom; her objection that the engine originates
+nothing, and Turing's answer by name in 1950. The book faces it: it is written with a writing machine; the
+machine weaves from what it was given; name the weavers. The 1991 engine. Facts checked from memory.
