@@ -5889,3 +5889,12 @@ and his letter asking for one difference between man and ape. The harm kept in: 
 "varieties", the seed of scientific racism. The apostles; "God created, Linnaeus ordered". For Lifeism:
 learning the names is the first respect; one species, one family. Facts checked from memory (burial in
 Uppsala Cathedral; the linden no longer claimed to stand).
+
+## 2026-10-13 — ch 283 written: No Place Empty
+
+Libra 3 (c. 1740, the Baal Shem Tov and Hasidism). After the false messiah's shame (ch 278): the orphan of
+Podolia who walked the children to school singing, the hidden clay-digger revealed at thirty-six, the
+healer of Medzhybizh. "No place empty of Him"; joy over fasting; the shepherd boy's whistle on Yom Kippur.
+The Maggid, the spread, the Vilna Gaon's ban of 1772; and the genealogy turn: the rebbes' courts as
+dynasties, his great-grandson Nachman of Breslov and Uman. Lifeism shares the core: no place empty of the
+sacred. Facts checked from memory.
