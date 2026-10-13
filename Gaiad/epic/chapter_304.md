@@ -102,7 +102,7 @@ A restoration that begins by forbidding
 A thousand years of speech is not a return.
 It is a new religion, with a date and an old letterhead.
 The letterhead was the Department of Divinities.
-
-The date was the spring of 1868.
+The parting was that spring. The name returned in June.
+The paper set the office highest in August of 1869.
 
 Stand.

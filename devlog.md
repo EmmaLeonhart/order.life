@@ -6156,3 +6156,7 @@ pernicious. Mumbai in February 1879; Adyar, in Chennai, is the later headquarter
 The masters are her later account, not a fact this chapter certifies. 73 lines.
 Ends "Stand." The comparison is granted. The ownership of the other religions is
 refused. Runway 291/364.
+
+## 2026-10-13 — ch 304 closing line corrected
+
+The body already had the dates: the Jingikan's name returned in June 1868, under the council, and the paper set it highest in August 1869. The last line still said the date was the spring of 1868. The close now keeps the parting in that spring, the name in June, and the height in August 1869.
