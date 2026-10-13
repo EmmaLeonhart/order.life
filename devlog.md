@@ -5986,3 +5986,12 @@ the Gaian calendar, using only what its design records: a new era, thirteen mont
 the seven-day week and three sabbaths kept, every day named for a chapter and now for the ancestors. A
 calendar is a theology and a promise to the tired. Facts checked from memory (an animal on every fifth
 day, not always the cow).
+
+## 2026-10-13 — ch 293 written: The Festival of the Supreme Being
+
+Libra 13 (1794, the Cult of the Supreme Being, a state invents a god). Rousseau's civil religion and its
+death clause; the dechristianization and the Cult of Reason in Notre-Dame; Robespierre's decree of May
+1794; the festival of 20 Prairial (8 June, Pentecost), David's mountain, the burning of Atheism and the
+blackened Wisdom; two days later the law of 22 Prairial and the Great Terror; Thermidor. The mirror for
+this book's own new faith, set against Akbar (ch 263): a faith founded from power is a festival with a
+scaffold behind it; Lifeism may ask, never require. Facts checked from memory.
