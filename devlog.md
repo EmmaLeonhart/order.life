@@ -6054,3 +6054,12 @@ Tabaristan), the Black Pit, Ridván 1863, Edirne (Sabbatai's town, ch 278), Akka
 letters to the kings. Set against Akbar (ch 263): a unity faith that lasted because it had a book, a
 covenant, an institution and its own calendar (19 x 19 with days set apart, kin to the Horus days).
 Lifeism as a younger sister; the persecution in Iran today. Facts checked from memory.
+
+## 2026-10-13 — ch 300 written: The Heavenly Kingdom
+
+Libra 20 (1850-1864, the Taiping, Christ's younger brother), the counterweight to ch 299. The failed
+candidate, Liang Fa's tract, the fever visions read as God and an elder brother; the God Worshippers of
+Guangxi, Jintian, the long hair against the queue (ch 275); the Heavenly Capital and its laws (footbinding
+and opium banned, women officers, the land plan); the East King's trances and the 1856 purge; Zeng Guofan,
+Ward and Gordon; twenty to thirty million dead; the "manna" and the fall. The difference from the Báb and
+Baháʼu'lláh: not the vision, the sword. Facts checked from memory (Feng a friend, not a cousin).
