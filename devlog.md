@@ -6005,3 +6005,13 @@ aware*. The other edge (the spine's invented tradition): the *karagokoro* critiq
 and his cherry poem naming the first kamikaze units in 1944. For a book made by one who keeps the kami:
 keep the reading, refuse the purity; the old way was always mixed. Facts checked from memory (the rice,
 not the goddess, came from the continent).
+
+## 2026-10-13 — ch 295 written: The Crown He Took
+
+Libra 15 (1804 and 1806, Napoleon; the Holy Roman Empire ends). From Charlemagne's crowning in 800 (ch 253)
+to Napoleon taking the crown from the pope's presence in 1804 and Francis II laying it down in 1806. The
+register thread: civil registration taken from the parish in 1792, the Civil Code, the registers spreading
+with the armies; the Dutch surname decree of 1811 (the patronymic turning into a fixed name, after Linnaeus
+in ch 282; the joke names marked as legend) and the Jewish surnames of 1808; the Grand Sanhedrin and the
+opened ghettos. The whole man: the wars, slavery restored, Ossian, Bernadotte's Oscar, Russia, Saint Helena.
+His longest legacy: the book in the mairie. Facts checked from memory (Zondervan is "without a van").
