@@ -6304,10 +6304,11 @@ work in 1915 as the Graves Registration Commission, and in 1916 as the
 Directorate of Grave Registration and Enquiries. A royal charter of
 21 May 1917 created the Imperial War Graves Commission. The Prince of Wales
 was president. Ware was vice-chairman. The care was to last. Grave totals
-are left out. Frederic Kenyon, director of the British Museum, reported in
-November 1918: the same stone, not a private monument as the rule. The
-architects already named were Edwin Lutyens, Herbert Baker, and Reginald
-Blomfield. The stones were mostly unbuilt. The families' quarrel reached
+are left out. Frederic Kenyon, director of the British Museum, was asked on
+20 November 1917 and signed the report on 24 January 1918. The commission
+had it in February. Publication was November 1918. The same stone, not a
+private monument as the rule. The architects named were Edwin Lutyens,
+Herbert Baker, and Reginald Blomfield. The stones were mostly unbuilt. The families' quarrel reached
 Parliament in May 1920; the day is not pinned. Rudyard Kipling gave "Known
 unto God" for a body with no name. John Kipling had been missing since
 27 September 1915 at Loos. The later identification is disputed and is not
@@ -6320,3 +6321,11 @@ hours after the signature, and the Prime Minister said the armistice was
 signed at five in the morning and the war ceased at eleven. No death count
 is given for the six hours. Grey's lamps, the 1940 carriage, and a battle
 catalog are left out. 119 lines. Ends "Stand." Runway 297/364.
+
+## 2026-10-13 — ch 311 corrected
+
+Kenyon was asked on 20 November 1917. The printed report is signed 24 January
+1918, and his own later note says it was submitted to the commission in
+February. He added a note on 14 November 1918. Ware's preface is 22 November
+1918. The chapter had said he reported in November 1918. 122 lines. Ends
+"Stand."
