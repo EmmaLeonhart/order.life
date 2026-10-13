@@ -6084,3 +6084,16 @@ that day; the title is not *Evolution*; *evolved* is the last word; the clause o
 clause. Emma Darwin's fear for the afterlife is in the letters and is not played for a laugh.
 The turn: descent is the ground under the ancestor days, not a private pedigree. 76 lines.
 Facts checked from memory. Runway 288/364.
+
+## 2026-10-13 — ch 303 written: The Short Plant Returns
+
+Libra 23 (1866 and 1869: Mendel and Galton, inheritance and who gets to survive).
+Mendel at the Augustinian abbey in Brno: seven pea traits, the 3:1 return, lectures
+8 February and 8 March 1865, the paper in 1866. Nägeli sent him to hawkweed, which
+does not obey the cross. Abbot in 1868; the counting stopped. It was cited before
+1900 and taken up that year. Galton, born 1822 like Mendel, cousin
+through Erasmus Darwin: *Hereditary Genius* (Macmillan, 1869) argues eminence runs in
+families and that the eminent should marry young. The word eugenics is his in 1883,
+not in that book. Darwin admired it. The turn: the recessive returns whole; a list of
+the renowned is not a right over who is born. The uncut-pages story about Darwin's
+copy of Mendel is not used. 82 lines. Facts checked from memory. Runway 289/364.
