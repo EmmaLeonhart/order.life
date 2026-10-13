@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-267 are done.
-   - **Ch 268 (Virgo 16):** 1568 to 1652, working years from c. 1600: Johannes Bureus, runes, Kabbalah, Gothicism, *Om Bura namn och ätt*. Holiday: Days of Awe.
+   its line here when done. Ch 253-268 are done.
    - **Ch 269 (Virgo 17):** 1609 to 1610: Galileo's telescope, the sky opens. Holiday: Days of Awe.
    - **Ch 270 (Virgo 18):** 1611 to 1632: Gustavus Adolphus; Gothicism as Sweden's state myth. Holiday: Days of Awe.
    - **Ch 271 (Virgo 19):** 1613 and 1666: Russia, the Romanovs and the Old Believer schism (open: "unsure how much"). Holiday: Days of Awe.

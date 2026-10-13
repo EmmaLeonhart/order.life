@@ -5747,3 +5747,13 @@ Islands emptied for nutmeg in 1621 under Coen (his "spare not your enemies"), Ba
 Sri Lanka, the Cape, and Dejima as Japan's one window. The archive that keeps the enslaved it destroyed.
 The spine's double edge, and the Ophiuchus question foreshadowed (company power and the next machine).
 Bankrupt 1799. Facts checked from memory.
+
+## 2026-10-12 — ch 268 written: The Rune-Keeper
+
+Virgo 16 (Johannes Bureus, 1568-1652; Sixth Day of Awe), from the checked note
+`research/bure-and-bureus.md` in the parent repo. The scholar who drew every runestone, printed the
+first rune primer, tutored Gustavus Adolphus and became the first riksantikvarie; the author of *Om Bura
+namn och ätt*, the first Bure family tree; and the mystic of the Adulruna, the Rosicrucian letters, the
+reckoned end of the world and Gothicism (invented antiquity for a rising kingdom). The Day of Awe turn:
+his kinswoman's scripture does the same work, so it must do what he did not and mark the dream as a
+dream. Facts checked from memory (Emma is Bure kin, not Bureus's descendant).
