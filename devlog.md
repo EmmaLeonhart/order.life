@@ -6226,3 +6226,27 @@ through 27 September. On the Midway, people from Dahomey (Benin) were exhibited
 and had no chair. Comparison is kept. The host's hope to be the meaning of the
 room, and the pen on the Midway, are refused. 119 lines. Ends "Stand."
 Runway 294/364.
+
+## 2026-10-13 — ch 309 written: The Same Instant
+
+Scorpius 1 (1905: Einstein). Born Ulm 14 March 1879. Swiss citizen 21 February 1901.
+Chosen technical expert third class at the Bern patent office 19 June 1902.
+Married Mileva Marić; 6 January 1905 was the second anniversary. Light paper sent
+17 March, received 18 March, printed 9 June: light quanta, energy proportional to
+frequency. He called that paper revolutionary in the 18 May letter to Habicht, not
+the clocks. Dissertation to the University of Zurich 30 April, "A New Determination
+of Molecular Dimensions"; Philosophy II approved it unanimously 27 July; the degree
+is dated 15 January 1906. Brownian paper received 11 May, printed 18 July: he did
+not discover the motion; he gave its measure if molecules are real. Hans Albert
+turned one on 14 May. Habicht letter 18 May: four papers, the fourth only a draft,
+a modification of space and time. Worked out with Michele Besso at the office;
+Einstein later said he sent it five or six weeks after the idea. Received 30 June,
+printed 26 September, about thirty pages, no references, thanks Besso only.
+Not "everything is relative": the laws are the same, light in empty space has one
+speed, and so simultaneity is a procedure with signals. Late summer in Serbia with
+Mileva and the child. Mass-energy paper received 27 September, printed 21 November:
+mass lessens by the energy given off as light, divided by the square of the speed
+of light. The page does not print E=mc². Twenty-one heat reviews in the Beiblätter
+that year. A further Brownian paper, received 19 December, is not this chapter.
+The 1921 prize, announced in 1922, cited the photoelectric law, not the clocks.
+149 lines. Ends "Stand." The calendar keeps one frame on purpose. Runway 295/364.
