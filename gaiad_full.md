@@ -55286,7 +55286,7 @@ Of the tall ones was two kinds of tall: one that would indeed
 Breed true, and one that carried a shortness it did not show.
 He called the trait that shows itself dominating, and the trait
 That waits, recessive. A thing can leave the visible, and go
-Under for a generation, and return, whole, not an approximate.
+Under for a generation, and return whole, not mixed into a blur.
 
 He said it in {{p|Brno}} on the eighth of February, 1865,
 And again on the eighth of March, to the naturalists' society.
@@ -55299,9 +55299,9 @@ Without the cross. The ratios would not come. The tally
 Of the peas had been the truth, and the next plant overthrew the tone
 
 Of an easy repetition. In 1868 the house made him abbot.
-The counting stopped. There was a monastery to run, and a fight
-With the tax, and the garden still outside, and the work not
-Picked up. He died in 1884. Sixteen years later the light
+The pea rows ended. Hawkweed went on, and would not give
+The ratio. Years later he fought a tax on the house.
+The garden was still there. He died in 1884. Sixteen years on, the light
 
 Came from other gardens: men counting other plants found
 His paper, and found they had repeated him. The peas had waited
@@ -55325,10 +55325,15 @@ A name for arranging births. The earlier book already has the premises:
 
 Let the eminent marry young. Discourage the rest.
 The fame of a house becomes a right over the unborn.
-{{c|Charles Darwin}}, at {{p|Downe}}, who had printed the whole tree, blessed
-The book with admiration. The man of the one descent turned
+On the twenty-third of December, {{c|Charles Darwin}} at {{p|Downe}}
+Had read fifty pages, through the judges. He wrote that he had never
 
-Warmly toward the man who had begun to prune it.
+Read anything more interesting and original. {{c|Emma Darwin}}
+Was reading the book aloud. He had thought men differed in zeal
+And hard work, not much in intellect, and he still thought
+The zeal mattered. Fifty pages is not the whole book.
+
+A warm letter is not a license for a hand on who is born.
 Hold both facts. The counting, in both gardens, was real.
 Mendel saw a hidden factor survive intact, and knew it
 By the ratio. Galton saw a distribution, and the appeal
