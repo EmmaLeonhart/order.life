@@ -5719,3 +5719,13 @@ redrawn with China near the middle; Euclid with Xu Guangqi; Shangdi in the class
 the ancestor rites as civil, so converts could still bow to their fathers' names, set at the Mid-Autumn
 table with a place for the absent. The clocks that let him stay in Beijing, the grave by imperial grant,
 the Three Pillars, and the rites controversy ahead (Libra 1). Facts checked from memory.
+
+## 2026-10-12 — ch 265 written: The Monkey and the Hill of Crosses
+
+Virgo 13 (1590 and 1597, Hideyoshi unifies Japan; the Twenty-Six Martyrs; Days of Awe). The peasant
+called the Monkey who rose and then pulled up the ladder: the Taikō land survey (every field in one
+register), the sword hunt, the 1591 edict fixing every person in his class. Nagasaki given to the
+Jesuits, the slave trade, the 1587 expulsion edict, the San Felipe; the twenty-six marched from Kyoto
+with their left ears cut and crucified at Nishizaka on 5 February 1597 (Paul Miki's forgiveness; Luis
+Ibaraki, twelve, asking which cross was his). Korea and the Mimizuka; the death poem, "a dream within a
+dream". For the Days of Awe: repent of every list that crosses out a name. Facts checked from memory.
