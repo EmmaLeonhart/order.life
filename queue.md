@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-263 are done.
-   - **Ch 264 (Virgo 12):** 1582 to 1610: Matteo Ricci in China, Confucian and Christian accommodation. Holiday: Mid-Autumn Festival; Days of Awe.
+   its line here when done. Ch 253-264 are done.
    - **Ch 265 (Virgo 13):** 1590 and 1597: Hideyoshi unifies Japan; the Twenty-Six Martyrs. Holiday: Days of Awe.
    - **Ch 266 (Virgo 14):** 1600: Sekigahara, the Tokugawa order. Holiday: Shindensai; Days of Awe.
    - **Ch 267 (Virgo 15):** 1602: the VOC, a company with the powers of a state. Holiday: Days of Awe.

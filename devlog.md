@@ -5710,3 +5710,12 @@ Abul Fazl and the Divine Faith with its eighteen-odd disciples. Turned, for the 
 question to this book itself: a founder's synthesis dies with the founder unless it has days anyone
 can keep, a book anyone can read and a rite without the founder in the room (set against Nanak's
 kitchen and successor in ch 255). Facts checked from memory (the Ibadat Khana's site is disputed).
+
+## 2026-10-12 — ch 264 written: The Scholar from the Western Sea
+
+Virgo 12 (1582-1610, Ricci in China; Mid-Autumn Festival, Days of Awe). Picks up from Xavier's death in
+ch 262: Ricci learns instead of commanding; the Buddhist robe and then the scholar's silk; the world map
+redrawn with China near the middle; Euclid with Xu Guangqi; Shangdi in the classics; and the wager on
+the ancestor rites as civil, so converts could still bow to their fathers' names, set at the Mid-Autumn
+table with a place for the absent. The clocks that let him stay in Beijing, the grave by imperial grant,
+the Three Pillars, and the rites controversy ahead (Libra 1). Facts checked from memory.
