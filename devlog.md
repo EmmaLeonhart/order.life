@@ -5814,3 +5814,12 @@ the baptizers, the secret calendars, Maria Kannon (syncretism forced by fear, ke
 contrition after the fumi-e. Ōura, 17 March 1865: Isabelina Yuri Sugimoto's "Our hearts are the same as
 yours" and "Where is the image of Santa Maria?"; the Urakami exile and the 1873 lifting; the kakure who
 stayed apart. Facts checked from memory.
+
+## 2026-10-13 — ch 275 written: The Mandate Changes Hands
+
+Virgo 23 (1644, the Ming fall and the Qing take over). The little ice age, the silver, Li Zicheng the
+dismissed courier; Chongzhen's bell that no one answered and Coal Hill; Wu Sangui opening Shanhai Pass;
+Shunzhi and Dorgon. The two ways the few ruled the many: the queue order of 1645 ("keep your hair and lose
+your head"), Yangzhou and Jiading, identity written on the body; and becoming more Confucian than the
+Ming (Kangxi). Koxinga taking Taiwan from the Dutch in 1662 (the VOC of ch 267), made a saint of every
+side. Ends: the Mandate is the harvest. Facts checked from memory (Li Zicheng died 1645).

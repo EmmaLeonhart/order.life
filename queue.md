@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-274 are done.
-   - **Ch 275 (Virgo 23):** 1644: the Ming fall and the Qing take over.
+   its line here when done. Ch 253-275 are done.
    - **Ch 276 (Virgo 24):** 1658 to 1707: Aurangzeb, the Mughal synthesis closes.
    - **Ch 277 (Virgo 25):** 1660: the Royal Society.
    - **Ch 278 (Virgo 26):** 1665 to 1666: Sabbatai Zevi, a messiah and a mass movement. Holiday: Sukkot.
