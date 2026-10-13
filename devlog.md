@@ -5851,3 +5851,12 @@ massacres and the Lurianic sparks; Sabbatai's bright and dark seasons; Nathan of
 communities selling their houses; Glückel of Hameln's father-in-law packing barrels and keeping them
 packed for three years; Gallipoli, Edirne, the turban, the Dönme; death in Ulcinj on Yom Kippur 1676.
 "The scope of the messiah was wrong. The joy was not wrong." Facts checked from memory.
+
+## 2026-10-13 — ch 279 written: One Law for the Apple and the Moon
+
+Virgo 27 (1687, Newton's *Principia*). The quart-pot child, the list of sins, the plague year at
+Woolsthorpe; Halley's question of 1684 and the book of 1687 (paid for by Halley, ch 277); three laws and
+one gravity for the apple and the Moon, the comet that came back in 1758: the sky made of world, the
+Gaiad's first chapter in Latin. The other Newton: the alchemy, the secret anti-Trinitarianism, 2060,
+Keynes's "last of the magicians"; set against Bureus (ch 268): Newton knew which was which and kept the
+dream in a labelled box. The Mint and the gallows; the shell on the shore. Facts checked from memory.

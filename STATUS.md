@@ -6,7 +6,7 @@ The work here is **making the Gaiad ship as a daily stream and the order.life si
 
 ## Chapter runway (load-bearing metric)
 
-Written: **264 / 364**. Remaining gaps: **279–328** (50), **330–364** (35).
+Written: **265 / 364**. Remaining gaps: **280–328** (49), **330–364** (35).
 
 **The Leo gate is LIFTED — Emma, 2026-08-05, a week early. Chapter writing is open.** It had held since roughly 2026-07: the 130–220 barrel-through was an emergency stopgap to keep the daily stream from starving, and once the stream was comfortable for months the gate stopped further barrelling. That was a pacing judgement, and Emma has called it done. What survives is only "don't barrel" — chapters emerge at the writing desk, not from a numbered list made in advance.
 

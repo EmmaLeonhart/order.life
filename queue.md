@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-278 are done.
-   - **Ch 279 (Virgo 27):** 1687: Newton's *Principia*.
+   its line here when done. Ch 253-279 are done.
    - **Ch 280 (Virgo 28):** 1679 to 1703: Leibniz, binary, the I Ching, a universal language (the bridge to Libra).
    - **Ch 281 (Libra 1):** 1704 and 1742: the Chinese Rites controversy, Rome refuses the synthesis. Holiday: Harvest Day.
    - **Ch 282 (Libra 2):** 1735: Linnaeus, a Swede puts all life into one system.
