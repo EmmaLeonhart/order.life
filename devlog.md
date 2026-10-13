@@ -6250,3 +6250,35 @@ of light. The page does not print E=mc². Twenty-one heat reviews in the Beiblä
 that year. A further Brownian paper, received 19 December, is not this chapter.
 The 1921 prize, announced in 1922, cited the photoelectric law, not the clocks.
 149 lines. Ends "Stand." The calendar keeps one frame on purpose. Runway 295/364.
+
+## 2026-10-13 — ch 310 written: The Round Altar
+
+Scorpius 2 (1911 to 1912: the Qing fall, and the imperial cult of Heaven).
+Wuchang, now part of Wuhan, rose on 10 October 1911. Sun Yat-sen, abroad, was
+chosen provisional president at Nanjing on 29 December and inaugurated there
+on 1 January 1912. Puyi, born 7 February 1906, was six on 12 February 1912.
+Longyu, Guangxu's widow, issued the abdication edict that day. She was not
+his mother. The edict says where the people's hearts have turned, the mandate
+can be known (人心所向，天命可知), gives the rule to the whole country as a
+constitutional republic, and cites the old sentence that all under heaven is
+a public thing (天下为公). It does not say a private will in the sky picked
+the republic. Five peoples: Manchu, Han, Mongol, Hui, Tibetan, Manchu named
+first. Yuan Shikai is named, by the edict, prime minister from the Advisory
+Council's election, with full power to organize a provisional government.
+Nanjing chose him provisional president on 15 February. He swore the oath in
+Beijing on 10 March and did not swear it in Nanjing. The Articles of
+Favorable Treatment left Puyi the title of emperor and a court in the
+Forbidden City until Feng Yuxiang's soldiers put him out on 5 November 1924.
+The Temple of Heaven precinct is Ming, fifteenth century; later emperors
+rebuilt the round altar. The Qing winter-solstice rite was the emperor's.
+The February edict closed the house. It did not close the fire. On 23 December
+1914, the third winter solstice of the republic, Yuan sacrificed at the
+Circular Mound as president. The prayer names him 大总统袁世凯代表国民 and
+says 惟天降鉴，集命于民. It does not call him Son of Heaven. No later
+republican president repeated it. That is the last state sacrifice to Heaven
+there. Richard Wilhelm read the day as preparation for a throne; the chapter
+states the reading as his and does not adopt it. Yuan accepted an imperial
+title on 12 December 1915, reign-name Hongxian, to open 1 January 1916, held
+no formal enthronement, put the title down on 22 March 1916, and died on
+6 June 1916. Family tablets are not the state's solstice. 111 lines. Ends
+"Stand." Runway 296/364.
