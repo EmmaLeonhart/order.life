@@ -33,7 +33,7 @@ Columns of the register filled with soldiers. The tolls
 Of it on the villages: one man in ten taken, and most did not come home.
 And the pride. In 1628 the great warship {{c|Vasa}},
 Named for his grandfather's house, built higher than a dome,
-Gilded, carved with lions and Roman emperors, the slaver
+Gilded, carved with lions and Roman emperors, to be the master
 
 Of the Baltic, sixty-four guns on two decks, sailed out
 Into {{p|Stockholm}}'s harbour on her maiden voyage before the crowd,
