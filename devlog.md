@@ -6025,3 +6025,13 @@ ch 291) and the dictionary finished in 1961. Lönnrot in Karelia, Finland newly 
 real singers by name (Arhippa Perttunen), the songs arranged and the arranging admitted in the 1835
 preface; Sibelius, Tolkien. The model for the Gaiad's own compiling: keep the sources, name the singers,
 show the seams, leave the cruelty where it was. Facts checked from memory.
+
+## 2026-10-13 — ch 297 written: The Dead Speak Again
+
+Libra 17 (1822, the Rosetta Stone deciphered). Esmet-Akhom's last hieroglyphs at Philae (394) and fourteen
+centuries of misreading the signs as symbols; the stone found at Rashid by Napoleon's army (ch 295), taken
+to London, asked back by Egypt; Young's cartouches; Champollion's Coptic, the living key, and *Ra-mes-ses*
+on 14 September 1822; the workmen's strike at Deir el-Medina among the voices that came back. The Gaian
+calendar's own debt: the Horus days (in the years that have them) named for Osiris, Horus, Set, Isis and
+Nephthys, names read again because of him. Facts checked from memory (the Horus days described as the
+calendar actually has them).
