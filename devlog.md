@@ -5860,3 +5860,13 @@ one gravity for the apple and the Moon, the comet that came back in 1758: the sk
 Gaiad's first chapter in Latin. The other Newton: the alchemy, the secret anti-Trinitarianism, 2060,
 Keynes's "last of the magicians"; set against Bureus (ch 268): Newton knew which was which and kept the
 dream in a labelled box. The Mint and the gallows; the shell on the shore. Facts checked from memory.
+
+## 2026-10-13 — ch 280 written: One and Nothing (Virgo complete)
+
+Virgo 28 (1679-1703, Leibniz, binary, the I Ching, a universal language; the bridge to Libra). The
+self-taught boy, the fifteen thousand letters, the calculus signs; binary in 1679 and the medal motto
+(one suffices to draw all from nothing); the stepped reckoner and *calculemus*, the seed of the machine
+thread that Ophiuchus carries; *Novissima Sinica* and his defence of Ricci's accommodation (ch 264),
+leading into the Rites controversy of Libra 1; Bouvet's hexagram diagram (Shao Yong's order, not Fuxi's)
+and the 1703 paper; the lonely funeral. With it, all 28 Virgo chapters (253-280) are written. Facts
+checked from memory.
