@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-265 are done.
-   - **Ch 266 (Virgo 14):** 1600: Sekigahara, the Tokugawa order. Holiday: Shindensai; Days of Awe.
+   its line here when done. Ch 253-266 are done.
    - **Ch 267 (Virgo 15):** 1602: the VOC, a company with the powers of a state. Holiday: Days of Awe.
    - **Ch 268 (Virgo 16):** 1568 to 1652, working years from c. 1600: Johannes Bureus, runes, Kabbalah, Gothicism, *Om Bura namn och ätt*. Holiday: Days of Awe.
    - **Ch 269 (Virgo 17):** 1609 to 1610: Galileo's telescope, the sky opens. Holiday: Days of Awe.

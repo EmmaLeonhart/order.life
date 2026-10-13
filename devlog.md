@@ -5729,3 +5729,12 @@ Jesuits, the slave trade, the 1587 expulsion edict, the San Felipe; the twenty-s
 with their left ears cut and crucified at Nishizaka on 5 February 1597 (Paul Miki's forgiveness; Luis
 Ibaraki, twelve, asking which cross was his). Korea and the Mimizuka; the death poem, "a dream within a
 dream". For the Days of Awe: repent of every list that crosses out a name. Facts checked from memory.
+
+## 2026-10-12 — ch 266 written: The One Who Waited
+
+Virgo 14 (1600, Sekigahara and the Tokugawa order; Shindensai, Fourth Day of Awe). The cuckoo saying of
+the three unifiers; Ieyasu the hostage who waited; Sekigahara in the fog and Kobayakawa's turn (the
+cannon story marked as told); Osaka 1614-15; the Edo peace and alternate attendance. Tied to the day as
+the calendar gives it ("the institutional maturation of modern faith"): Ieyasu enshrined at Nikkō as
+Tōshō Daigongen, state and shrine one pillar, the temple registers foreshadowed (Virgo 21), William
+Adams as the one window. "The pillar held. It held too long." Facts checked from memory.
