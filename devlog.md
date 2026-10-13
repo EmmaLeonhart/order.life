@@ -5966,3 +5966,12 @@ altered, the literary inquisition, Ji Yun writing both the great catalogue and t
 The copies' fates: Yuanmingyuan 1860, the Taiping war, Hangzhou's scholars recopying by lamplight, the
 first copy in Taipei. For this book: keep the record of the erasure beside the record of the kept. Facts
 checked from memory ("taels", not "dollars").
+
+## 2026-10-13 — ch 291 written: The Common Source
+
+Libra 11 (1786, William Jones, languages turn out to have a family tree). The judge in Kolkata learning
+Sanskrit from a Vaidya pandit; the discourse of 2 February 1786 ("some common source, which, perhaps, no
+longer exists"); father in five tongues; Proto-Indo-European and its gods, Dyēus and Perkwunos (the name on
+one of Emma's old trees). Not the first: Sassetti, Boxhorn, Coeurdoux, kept; his errors kept; Shakuntala and
+Faust. The darkness named: *ārya* made into a race and used to murder; speech is not blood. Facts checked
+from memory (a word I had inserted into his sentence removed).
