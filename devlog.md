@@ -5738,3 +5738,12 @@ cannon story marked as told); Osaka 1614-15; the Edo peace and alternate attenda
 the calendar gives it ("the institutional maturation of modern faith"): Ieyasu enshrined at Nikkō as
 Tōshō Daigongen, state and shrine one pillar, the temple registers foreshadowed (Virgo 21), William
 Adams as the one window. "The pillar held. It held too long." Facts checked from memory.
+
+## 2026-10-12 — ch 267 written: The Company
+
+Virgo 15 (1602, the VOC; Fifth Day of Awe). From the Liefde (Adams's ship, ch 266) to the 1602 charter:
+a company with the powers of a state, shares anyone could buy, permanent capital. The price: the Banda
+Islands emptied for nutmeg in 1621 under Coen (his "spare not your enemies"), Batavia, Melaka,
+Sri Lanka, the Cape, and Dejima as Japan's one window. The archive that keeps the enslaved it destroyed.
+The spine's double edge, and the Ophiuchus question foreshadowed (company power and the next machine).
+Bankrupt 1799. Facts checked from memory.
