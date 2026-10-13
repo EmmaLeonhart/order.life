@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-310 are done (Virgo complete; Libra through Samhain; Scorpius through the round altar).
-   - **Ch 311 (Scorpius 3):** 1914 to 1918: the First World War.
+   its line here when done. Ch 253-311 are done (Virgo complete; Libra through Samhain; Scorpius through the appointed hour).
    - **Ch 312 (Scorpius 4):** 1917: Russia, Marxism takes a state.
    - **Ch 313 (Scorpius 5):** 1924: the caliphate abolished.
    - **Ch 314 (Scorpius 6):** 1936: Turing, what can be computed.

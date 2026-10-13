@@ -6282,3 +6282,41 @@ title on 12 December 1915, reign-name Hongxian, to open 1 January 1916, held
 no formal enthronement, put the title down on 22 March 1916, and died on
 6 June 1916. Family tablets are not the state's solstice. 111 lines. Ends
 "Stand." Runway 296/364.
+
+## 2026-10-13 — ch 311 written: The Appointed Hour
+
+Scorpius 3 (1914 to 1918: the First World War). On 28 June 1914 in Sarajevo,
+Gavrilo Princip shot Franz Ferdinand and Sophie, Duchess of Hohenberg. A
+pistol is not the war. Austria-Hungary's ultimatum to Serbia was 23 July;
+the declaration, 28 July. Germany declared war on Russia on 1 August and
+on France on 3 August, and entered Belgium on 4 August. Britain's ultimatum
+that afternoon expired at 11 p.m.; Britain declared war. Japan's imperial
+rescript, in the name of Yoshihito, is dated Tokyo, 23 August 1914, 6 p.m.
+(FRUS 1914 Supplement). It says he had hoped to keep the peace of the East
+and was still in mourning for his mother. The ultimatum day is left as the
+middle of the month: sources split between 14 and 15 August. Qingdao
+surrendered on 7 November 1914. No troop counts: the published figures
+disagree. Britain had asked for ships. Japan took a port. The
+Anglo-Japanese alliance is not written as the obligation that took Japan in.
+Fabian Ware was 45, too old for the army, and in September 1914 headed a
+mobile British Red Cross unit in France (CWGC). The army took the grave
+work in 1915 as the Graves Registration Commission, and in 1916 as the
+Directorate of Grave Registration and Enquiries. A royal charter of
+21 May 1917 created the Imperial War Graves Commission. The Prince of Wales
+was president. Ware was vice-chairman. The care was to last. Grave totals
+are left out. Frederic Kenyon, director of the British Museum, reported in
+November 1918: the same stone, not a private monument as the rule. The
+architects already named were Edwin Lutyens, Herbert Baker, and Reginald
+Blomfield. The stones were mostly unbuilt. The families' quarrel reached
+Parliament in May 1920; the day is not pinned. Rudyard Kipling gave "Known
+unto God" for a body with no name. John Kipling had been missing since
+27 September 1915 at Loos. The later identification is disputed and is not
+in the chapter. The armistice was signed in a railway carriage in the forest
+of Compiègne before dawn on 11 November 1918. Ferdinand Foch signed for the
+Allies. Matthias Erzberger signed at the head of the Germans. Rosslyn
+Wemyss also signed and is not named. Hansard, Commons, 11 November 1918,
+vol 110: the clause is cessation of operations by land and in the air six
+hours after the signature, and the Prime Minister said the armistice was
+signed at five in the morning and the war ceased at eleven. No death count
+is given for the six hours. Grey's lamps, the 1940 carriage, and a battle
+catalog are left out. 119 lines. Ends "Stand." Runway 297/364.
