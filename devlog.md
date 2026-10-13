@@ -5823,3 +5823,13 @@ Shunzhi and Dorgon. The two ways the few ruled the many: the queue order of 1645
 your head"), Yangzhou and Jiading, identity written on the body; and becoming more Confucian than the
 Ming (Kangxi). Koxinga taking Taiwan from the Dutch in 1662 (the VOC of ch 267), made a saint of every
 side. Ends: the Mandate is the harvest. Facts checked from memory (Li Zicheng died 1645).
+
+## 2026-10-13 — ch 276 written: The Confluence of the Two Seas
+
+Virgo 24 (1658-1707, Aurangzeb; the Mughal synthesis closes). The Taj and the war of four brothers;
+Dara Shikoh's *Confluence of the Two Seas* and his Persian Upanishads (1657), Akbar's House of Worship in
+one heart (ch 263); Samugarh, the elephant, the apostasy trial (1659); Shah Jahan watching the tomb.
+Aurangzeb with the historians' division kept, and the sure facts: the jizya of 1679, Varanasi and
+Mathura, Tegh Bahadur (1675) and the Khalsa (Nanak's line, ch 255), the caps, the Deccan, the plain
+grave. The brother who lost the war won the long game: the Upanishads through Anquetil-Duperron (1801)
+to Schopenhauer. Facts checked from memory.
