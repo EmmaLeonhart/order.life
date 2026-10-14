@@ -82,9 +82,9 @@ Another says the nineteenth-century holdings,
 About a million, out of about eight million.
 Another says the whole library.
 The Bodleian dates from sixteen hundred and two.
-One paper says the volumes were chained,
-So they would not be stolen.
-The chain is not this scan.
+One paper says more than eight million books,
+On shelves of more than a hundred and twenty miles.
+The length of the shelves is not the scan.
 
 The number from {{p|New York}} is not given.
 One paper says fragile books,
@@ -109,7 +109,8 @@ The way of the scan is not set down.
 
 One report says a small sample from Michigan
 Could be searched that Tuesday.
-Another says the samples were beginning to be scanned.
+The library's own account says a larger body
+Comes later, as the work moves out of a pilot.
 The two are not one arrival.
 
 The company did not give the price.
@@ -118,15 +119,15 @@ Says ten dollars a book, and a decade,
 For fifteen million.
 The librarian's six years are not that estimate.
 None is chosen.
-One report says each library receives a copy
+One report says a library receives a copy
 Of what was made from its own books.
 
 The name on this Tuesday is Google Print.
 A later name is not this year.
 The suits of the next year are not this Tuesday.
 
-The absurdity is a library that chained a book
-So the book would stay in the room,
+The absurdity is a catalog searched for years
+While the pages of the books were not,
 And a company that takes the pages in
 So a sentence can be found,
 While the libraries do not agree which pages,
@@ -137,7 +138,7 @@ From standing in for the book,
 And the catalog from standing in for the page,
 And to hold the public whole
 Apart from the book that is still owned.
-The chain was a care.
+The searchable catalog was a care.
 The limit on the excerpt is a care.
 They are not the same care.
 The counts are not chosen.

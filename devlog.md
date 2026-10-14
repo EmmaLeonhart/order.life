@@ -7627,3 +7627,17 @@ for fifteen million. None is chosen. The name that Tuesday is
 Google Print. A later name is not this year. The suits of the
 next year are not this Tuesday. 145 lines. Ends "Stand."
 Runway 326/364. Next is chapter 342, the iPhone.
+
+## 2026-10-14 — ch 341 corrected: the shelves, the later body, a library's copy
+
+No paper of that week says the Bodleian chained its volumes.
+The Oxford paper says more than eight million books, on shelves
+of more than a hundred and twenty miles. The length of the
+shelves is not the scan. A small sample from Michigan could be
+searched that Tuesday. The library's own account says a larger
+body comes later, as the work moves out of a pilot. One report
+says a library receives a copy of what was made from its own
+books. It does not say each library. The catalog that could be
+searched is the care set beside the limit on the excerpt. 146
+lines. Ends "Stand." Runway stays 326/364. Next is chapter 342,
+the iPhone.
