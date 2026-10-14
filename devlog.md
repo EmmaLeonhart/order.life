@@ -8078,3 +8078,20 @@ a sacred geography and having it yanked away. Yanked away is not
 never held. An answer from the record is not the record. 79
 lines. Ends "Stand." Runway 344/364. Next is chapter 360, agents
 and Emma's 2025.
+
+## 2026-10-14 — ch 360 written: The Hand That Acts
+
+Ophiuchus 24 (2025, agents, machines that act, and a scripture
+written with them; alongside it, Emma's 2025). No holiday is
+named. The day's leftover note on the dawn of AI was not used. A
+tool called is not a will, and looking like a will is enough to
+be dangerous. Acting for another is not being another. Monday 20
+January 2025, a model from Hangzhou with its weights; Monday 27
+January, a falling price is not a falling machine. Thursday 8
+May, Prevost becomes Leo XIV, and on Saturday 10 May a name is
+not a policy. Saying one checked is not checking. This book was
+written with such machines; written with is not written by.
+Emma's 2025, in her words, a very, very, very miserable year;
+the book does not tell more than she said. A miserable year is
+not a lost year. 75 lines. Ends "Stand." Runway 345/364. Next is
+chapter 361, Emma and her ancestry, 2026.
