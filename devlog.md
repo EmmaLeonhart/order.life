@@ -7976,3 +7976,20 @@ the spread. Guessing the next word is not knowing what is said.
 Published is not owned. A machine made of attention is not
 attentive. 66 lines. Ends "Stand." Runway 338/364. Next is
 chapter 354, Reiwa's Daijōsai.
+
+## 2026-10-14 — ch 354 written: The Shell and the Two Fields
+
+Ophiuchus 18 (2019, Reiwa's Daijōsai, the oldest rite
+continued). No holiday is named. The day's leftover note on
+September 11th was not used; Niiname-sai stays with Scorpius 21.
+Monday 1 April 2019, Reiwa is taken from the Man'yōshū preface,
+which itself echoes a Chinese model. A law for one is not a rule
+for all. On Wednesday 1 May the regalia pass in boxes, and the
+unseen is not the absent. Monday 13 May, a cracked shell chooses
+Tochigi and Kyoto, and growing is not offering. The proclamation
+of Tuesday 22 October is not the rite. Fumihito's question is
+not a refusal; paying is not deciding what the rite means.
+Thursday night into Friday 15 November, the halls taken down are
+not lost. The line as told is not the line as proved. 74 lines.
+Ends "Stand." Runway 339/364. Next is chapter 355, COVID and
+Emma's 2020.
