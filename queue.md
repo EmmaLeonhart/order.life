@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-312 are done (Virgo complete; Libra through Samhain; Scorpius through the old style).
-   - **Ch 313 (Scorpius 5):** 1924: the caliphate abolished.
+   its line here when done. Ch 253-313 are done (Virgo complete; Libra through Samhain; Scorpius through the caliph of the Muslims).
    - **Ch 314 (Scorpius 6):** 1936: Turing, what can be computed.
    - **Ch 315 (Scorpius 7):** 1941 to 1945: the Holocaust, who survives, and the names kept (Yad Vashem, 1953).
    - **Ch 316 (Scorpius 8):** 1945: Hiroshima and Nagasaki.

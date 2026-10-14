@@ -6362,3 +6362,52 @@ Moscow is claimed. Sverdlov told the central executive committee on
 family had been taken somewhere safe. The withering of the state is the
 books' sentence, not the winter's act. 122 lines. Ends "Stand."
 Runway 298/364.
+
+## 2026-10-13 — ch 313 written: The Caliph of the Muslims
+
+Scorpius 5 (1924: the caliphate abolished). On 1 November 1922 the Grand
+National Assembly abolished the sultanate and kept the caliphate in the
+Ottoman house, to be given to the one most fit in learning and character.
+TDV İslâm Ansiklopedisi (Abdülmecid Efendi) attaches law number 431 to that
+November decision. The chapter does not. Law 431 is the 3 March 1924
+abolition (Atatürk Ansiklopedisi). Mehmed VI went to the Friday prayer on
+3 November still under both names. On 16 November the assembly decided to
+charge him with treason against the homeland. He left Istanbul on a British
+warship on the night of 16-17 November. The ship is not named. The assembly
+elected Abdülmecid on 19 November. Britannica says 18 November; the chapter
+follows TDV's 19th. The title given was halife-i müslimin, not
+emîrü'l-mü'minîn. He asked also for hâdimü'l-Haremeyn. He did not hold Mecca
+or Medina. He asked for Fatih's turban. Mustafa Kemal said a frock coat.
+The allegiance was on 24 November at Topkapı, in the room of the prophet's
+cloak. The prayer was in Turkish. Müfid Efendi read a Turkish sermon at the
+Fatih Mosque and took the greater struggle as the struggle against
+ignorance. The Indian Khilafat Conference, 21-27 December 1922, accepted
+him. On 3 January 1923 Indian Muslims gave Mustafa Kemal the title
+müncî-i hilâfet. The republic was proclaimed 29 October 1923 and he was
+elected president. Atatürk is a 1934 surname and is not used. On 5 December
+1923 the papers printed the Aga Khan and Amir Ali letter to Prime Minister
+İsmet Pasha. On the night of 8-9 December a closed sitting decided to send
+an independence tribunal to Istanbul. On 3 March 1924, a Monday, Saffet
+Efendi of Urfa and fifty-three colleagues brought the bill. Seyyid Bey,
+minister of justice, trained in the medreses and at al-Azhar, told the
+chamber the caliphate was a worldly question and not a creed. Zeki Bey of
+Gümüşhane spoke against the closing. No vote tally is given: one official
+account records the first article as accepted without a contrary vote, and
+other accounts say he cast the only no. The president approved law 431 the
+same day. The same day the ministry of religious affairs and pious
+foundations was closed and the Presidency of Religious Affairs was set up
+for faith and worship, and the schools were brought under one education
+ministry. The general staff is not in the chapter. That night he was taken
+by car to Çatalca (TDV). The Times (Constantinople, 5 March, printed
+6 March) has him boarding the Simplon-Orient Express the evening of
+4 March after waiting through the day. The chapter says the night transfer
+and the next evening's train. With him: Ömer Faruk, Dürrüşehvar, two women
+of the house, the tutor, the secretary, and the doctor. The envelope held
+2,000 pounds and exit visas. The hotel wired was at Territet. TDV spells
+the town Territel. On 11 March he declared the decision void and asked for
+a religious council. Within the week the Swiss told him Turkey had objected
+and the work would not be permitted. Hussein ibn Ali was proclaimed caliph
+in that March. The day is not pinned: the records split across the month.
+His death is 23 August 1944 in Paris, while the city was being bombed. The
+body was not brought home. Burial at al-Baqi in Medina was 30 March 1954.
+149 lines. Ends "Stand." Runway 299/364.
