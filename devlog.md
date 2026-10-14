@@ -6755,3 +6755,65 @@ Chitose ame is a thousand years, red and white, and not a contract.
 The children were not brought because of the sphere. The rite is
 older than 1957. The calendar puts them on one day. 135 lines. Ends
 "Stand." Runway 308/364.
+
+## 2026-10-13 — ch 323 written: The Mother Tongue
+
+Scorpius 15 (1962 to 1965: Vatican II, the rite in the people's
+language). No holiday was confirmed for this day of the book. John
+XXIII said on 25 January 1959, in the basilica of Saint Paul Outside
+the Walls in Rome, that a council would be called. The word
+aggiornamento is the one Britannica gives for the purpose he stated
+then, a bringing up to date. He opened the council on 11 October 1962
+in the basilica of Saint Peter, in Vatican City. The opening address,
+Gaudet Mater Ecclesia, is not quoted. The first session closed on
+8 December 1962. He died on 3 June 1963 in Rome, between sessions, and
+did not promulgate the constitution. Paul VI was elected on 21 June
+1963. The Vatican table also prints 30 June, the coronation. That day
+is left out of the verse. His name before the election, Giovanni
+Battista Montini, is left out. The second session ran from
+29 September to 4 December 1963. On 4 December he promulgated
+Sacrosanctum Concilium. Inter mirifica was promulgated the same day
+and is left out of the verse. Vote counts that are commonly printed,
+2158 to 19 with one iuxta modum on 22 November, and 2147 to 4 on
+4 December, are left out. The Acta was not opened. Article 36 keeps
+Latin in the Latin rites, particular law remaining in force, and
+extends the mother tongue first to the readings and the directives
+and to some prayers and chants. The territorial authority decides the
+extent. The Apostolic See confirms it. A translation is from the
+Latin text. Article 54 gives a suitable place in Masses with the
+people, first to the readings and the common prayer, and to the parts
+that pertain to the people, and it charges that the faithful also be
+able to say or sing in Latin the ordinary parts that are theirs. A
+wider use follows article 40. Article 22 says no other person, even a
+priest, may add, remove, or change anything on his own authority.
+Article 3 sets the practical norms on the Roman rite. Article 4 holds
+the other lawfully acknowledged rites of equal right and dignity, and
+to be preserved. The places already excepted by particular law are
+not named. The Kyrie of the Mass was already Greek. Article 14 calls
+conscious and active participation a right and a duty by baptism.
+Article 48 says the faithful are not to be there as strangers or
+silent spectators. The chapter treats that sentence as a charge.
+Sacram Liturgiam, 25 January 1964, with some norms from 16 February,
+is left out of the verse. It is not the language list. The
+instruction Inter Oecumenici is dated 26 September 1964. The Consilium
+prepared it by mandate of Paul VI. Giacomo Lercaro presented it. Paul
+VI confirmed it in an audience given to Arcadio Maria Larraona,
+prefect of the Congregation of Rites, and ordered it observed from
+7 March 1965, the first Sunday of Lent. Article 57 lists what may
+pass into the people's language once the Holy See confirms the
+decision: lessons, epistle, gospel, prayer of the faithful, the
+ordinary chants, the proper antiphons, the chants between the
+readings, acclamations, greetings, dialogues, the communion formulas,
+and the Lord's Prayer with its introduction and embolism. The verse
+calls the embolism the short prayer after the Lord's Prayer. The
+missal keeps the Latin text as well. Article 58 reserves to the Holy
+See the parts the celebrant sings or recites alone. Article 59
+repeats the charge that the people still be able to say or sing the
+ordinary in Latin. The instruction's freestanding altar, the omission
+of Psalm 42, the last gospel, and the Leonine prayers are left out,
+so the chapter stays on the language. A later permission for the
+priest's own parts, and a later book of the Mass, are not dated in
+the verse and are not moved back into 1962–1965. The council closed
+on 8 December 1965. The sixteen documents are not listed. Observers,
+a headcount, and a Mass said in Italian on 7 March were not used.
+127 lines. Ends "Stand." Runway 309/364.
