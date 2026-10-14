@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-334 are done (Virgo complete; Libra through Samhain; Scorpius through the white face). The next blank is 335.
-   - **Ch 335 (Scorpius 27):** 1997: Deep Blue.
+   its line here when done. Ch 253-335 are done (Virgo complete; Libra through Samhain; Scorpius through the nineteenth move). The next blank is 336.
    - **Ch 336 (Scorpius 28):** 2000: Y2K, the century ends worried about its own clocks.
    - **Ch 337 (Ophiuchus 1):** 2001: Wikipedia, everyone writes the record.
    - **Ch 338 (Ophiuchus 2):** 2001: 9/11 and its wars, religion back at the centre of politics.

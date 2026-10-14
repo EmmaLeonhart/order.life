@@ -7260,3 +7260,36 @@ to the copy was looked for and not established. Her body is kept in
 the museum in Edinburgh. A transgenic lamb of the next year is not
 this chapter. 145 lines. Ends "Stand." Runway 319/364. Next is
 chapter 335, Deep Blue.
+
+## 2026-10-13 — ch 335 written: The Nineteenth Move
+
+Scorpius 27 (1997: Deep Blue). No holiday is named for this day. The
+calendar's leftover note about DNA is not the theme. In February 1996,
+in Philadelphia, the Association for Computing Machinery's challenge,
+the machine won the first game on Saturday the tenth. He resigned
+before his thirty-seventh move. Hsu entered the moves on a terminal.
+He had already lost faster games. One report says no machine had
+beaten a person at the slow rate. Another says lesser masters had
+lost regulation games, and that under championship conditions no
+machine had beaten the best. This chapter keeps the narrower saying. On Sunday the eleventh the
+machine resigned on the seventy-third move. On Saturday the
+seventeenth he won the sixth. Three wins, two draws, one loss. The
+match was four to two. The two reports of 12 February do not choose
+one room for the first games. A report puts the machine upstate, and
+a screen in the room. One report says three minutes for a move in the
+same sentence as forty moves in two hours. That sentence is not split
+into two clocks. In May 1997, on the thirty-fifth floor of the
+Equitable Building in New York, the paper calls the Philadelphia
+machine an earlier, slower version. Saturday 3 May the handlers
+resigned it at the forty-fifth move. Sunday 4 May he resigned at the
+forty-fifth, after three hours and forty-two minutes. The paper of
+7 May says a drawing line had been missed by both. The point was not
+returned. Draws on the sixth, the seventh, and the tenth. Sunday the
+eleventh he resigned at the machine's nineteenth move. The match was
+three and a half to two and a half. The title did not move. That
+night he did not give a settled charge of a cheat. Tan said there was
+no human assistance during the games. The record was not given to him
+that night. That month he asked for ten games, every second day,
+across twenty days. The builders would not promise them. What was
+done with the machine afterwards is not this chapter. 136 lines.
+Ends "Stand." Runway 320/364. Next is chapter 336, Y2K.
