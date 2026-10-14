@@ -953,9 +953,10 @@ No holiday is named for this day.
 The leftover note on an older expansion of the mind
 Is not this page.
 
-In March a house in {{p|New York}} was sold,
+In March a house in {{p|New York}} was agreed,
 With the reserve in the deal.
-That sale is not this September.
+The closing is not that March.
+The agreement is not this September.
 The price is not taken from one sentence.
 
 On Sunday, the seventh of September, 2008,
@@ -997,9 +998,10 @@ The House passed that bill,
 Two hundred sixty-three to one hundred seventy-one.
 {{c|George W. Bush}} signed it the same day.
 The law authorizes up to seven hundred billion.
-One account of an earlier draft
-Begins at two hundred fifty, with room to seven hundred.
-The drafts are not the signed line.
+The signed line lets the available sum begin
+At two hundred fifty,
+With room, on further steps, to seven hundred.
+The first sum is not the whole.
 
 On Friday, the thirty-first of October,
 A note went to a list of people who worked on codes.
