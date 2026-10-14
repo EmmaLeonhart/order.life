@@ -7301,3 +7301,19 @@ be given at a fitting time. In the same month he asked for ten games,
 with a day between them. The builders did not promise them. What was
 done with the machine after the Sunday is not this page. 134 lines.
 Ends "Stand." Runway 320/364. Next is chapter 336, Y2K.
+
+## 2026-10-13 — ch 335 corrected: two threes of minutes, Hsu's title, May not at Yorktown
+
+The loop's rewrite had collapsed two sentences in the 12 February 1996
+report. One sentence says three minutes for a move beside forty moves
+in two hours. That sentence is not split into two clocks. Another
+sentence in the same report gives three minutes for how far the machine
+can look. That three minutes is not the clock. Hsu, in the report that
+puts him at the terminal, is the chief designer. The principal
+representative in that report is Tan. The February report puts the
+machine upstate, with a screen in the room, and does not name the town.
+Yorktown Heights is taken out of the May stanza. The floor of the
+Equitable Building stays unagreed. Tan said there was no human
+assistance during the games. A part of the record, he said, might be
+published later. The night of 11 May did not give Kasparov the record.
+138 lines. Ends "Stand." Runway stays 320/364. Next is chapter 336, Y2K.
