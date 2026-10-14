@@ -7039,3 +7039,23 @@ The announcement of relations was 15 December in Washington and
 16 December in Beijing. The two dates are not collapsed. A communique
 dated the official visit through 4 February. He left Seattle on the
 morning of 5 February. 105 lines. Ends "Stand."
+
+## 2026-10-13 — ch 329 revised: the Daijōsai woven into The Covenant of Peace
+
+Scorpius 21. The drafted festival chapter stays. Heisei's Daijōsai is
+woven in at the end, and the chapter now ends with Stand. The signing
+in the bay was 2 September 1945, a Sunday. Labor Day was 3 September.
+The line that put the treaty on Labor Day is corrected. Hirohito died
+7 January 1989. Akihito was emperor from that day. The proclamation in
+the palace hall was 12 November 1990, a state ceremony. The Daijōsai
+was 22 and 23 November, an imperial-house ceremony, not a state
+ceremony. The provinces were chosen 8 February: Akita for the yuki
+rice, Ōita for the suki rice. The rice was cut 28 September and
+10 October. The first hall was the evening of the 22nd, half past six
+to half past nine. The second was half past twelve to half past three
+on the morning of the 23rd. The 23rd is Labor Thanksgiving, the public
+day on the Niiname-sai date. The Daijōsai is once a reign. The one
+before it was 1928. The bed in the papers is not furnished. No sum of
+money is chosen. The 1946 sentence is not undone, and it had not made
+the rite impossible. 145 lines. Ends "Stand." Runway stays 314/364,
+because 329 was already in the count. Next blank is 330.
