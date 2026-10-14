@@ -7503,3 +7503,64 @@ the most final form they could ever have dreamed of. A form that
 can be searched is not an answer already judged. The June draft
 is not this Monday. 94 lines. Ends "Stand." Runway 324/364.
 Next is chapter 340, Facebook.
+
+## 2026-10-13 — ch 340 written: A Friend of a Friend
+
+Ophiuchus 4 (2004: Facebook, kinship becomes a network). No
+holiday is named. The day's leftover note on a suburban dream
+was not used. The houses at Cambridge already kept books of
+faces. A book for the whole college was being talked about and
+was not finished. On Wednesday 4 February 2004, in the
+afternoon, after about a week of coding, Mark Zuckerberg opened
+thefacebook.com. The first paper does not name the room. A later
+account puts it in Kirkland House. A Harvard address could put
+up a picture and personal and academic information. The way of
+the joining is not set down. He said Friendster was a model. A
+person could search by interests and make a network of friends.
+He said a search could be limited to a friend, or a friend of a
+friend, or to a year, a house, or a class. An earlier site, from
+the fall, is not this Wednesday. He said that one had been a
+joke and that it had problems. The way of it is not set down.
+The paper of Monday 9 February gives more than 650 as of Sunday
+afternoon. He thought 900 by that morning. A later telling puts
+650 inside the first day. The counts are not made one. He said
+each person's experience improves if their friends join. He said
+the new thing was the names in a class. On Wednesday
+18 February he said he had downplayed the courses, because
+people would use the social part. He said he had no idea why it
+was so popular. The paper gives more than 4,300 as of the day
+before, students, alumni, and faculty, and he said the count was
+likely larger because a person could keep out of the tally. He
+said he was not going to sell anybody's e-mail address. He had
+thought of a fee for companies to search resumes and did not
+want to touch it. What was sold in later years is not this
+February. Kevin Davis, director of residential computing, said a
+facebook was already a high priority and was meant to be done by
+the end of the spring. The complication was a directory that
+could be compiled without authorization. Whether the college
+finished its book is not this page. The day the other schools
+opened is not agreed. The Crimson of Monday 1 March says
+Columbia the previous Wednesday, Stanford the day after, and
+Yale that Monday. The Spectator says Columbia on 26 February.
+None is chosen. A person at one school could not open a person
+at another. That Monday paper gives just shy of 7,500 in the
+whole, and 5,055 at Harvard as of the last day of February. He
+wrote that 85 in a hundred at Harvard had registered. That
+fraction is his letter, not an audit. A paper in New York says
+one picture, not an album. An earlier network there is not this
+site. He said the server was about 85 dollars a month and that
+he paid it. A later telling puts 1,000 dollars with Eduardo
+Saverin, to keep the site up for two months. The sums are not
+made one. The lists of who began it do not agree. Chris Hughes
+is named that March as the one who spoke for the site. Dustin
+Moskovitz is in the later lists. The list is not closed. In the
+summer he and Moskovitz went to the valley south of San
+Francisco. A later account names Palo Alto. A later account says
+Saverin did not go. That year Peter Thiel put in 500,000. The
+next year Zuckerberg called it seed money, the first large sum.
+Another account calls it a loan later made into a share. The
+form is not agreed. The later price is not this year. The
+shorter name is not this year. The opening past the schools is
+not this year. A feed of what the friends did is not this year.
+149 lines. Ends "Stand." Runway 325/364. Next is chapter 341,
+Google Books.

@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-339 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through the sequence that is not completely complete). The next blank is 340.
-   - **Ch 340 (Ophiuchus 4):** 2004: Facebook, kinship becomes a network.
+   its line here when done. Ch 253-340 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through the friend of a friend). The next blank is 341.
    - **Ch 341 (Ophiuchus 5):** 2004: Google Books, the paper record becomes searchable.
    - **Ch 342 (Ophiuchus 6):** 2007: the iPhone, the machine in every hand.
    - **Ch 343 (Ophiuchus 7):** 2006 to 2007: indexed genealogy and consumer DNA (FamilySearch indexing, 23andMe), everyone traces descent.
