@@ -6411,3 +6411,11 @@ in that March. The day is not pinned: the records split across the month.
 His death is 23 August 1944 in Paris, while the city was being bombed. The
 body was not brought home. Burial at al-Baqi in Medina was 30 March 1954.
 149 lines. Ends "Stand." Runway 299/364.
+
+## 2026-10-13 — ch 313 corrected
+
+The death line said Paris was being bombed. He died on 23 August 1944, during
+the liberation of the city. The line now says the city was being taken back.
+The Çatalca night and the next evening's train are left as written: TDV has
+the car that night, and the Times has the Simplon-Orient Express on the
+evening of 4 March. 149 lines. Ends "Stand."
