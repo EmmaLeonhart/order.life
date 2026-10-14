@@ -7849,3 +7849,12 @@ pursuing efforts toward one and a half, is not the earlier
 below. The text does not name who survives. 150 lines. Ends
 "Stand." Runway 330/364. Next is chapter 346, the Arab Spring
 and Fukushima.
+
+## 2026-10-14 — ch 345 corrected: a view to holding is not a holding
+
+The accord's second sentence speaks, with a view to the cuts,
+of holding the increase below two. A view to holding is not a
+holding already promised. It is not the same sentence as
+"should be below." Neither sentence says pre-industrial.
+150 lines. Ends "Stand." Runway stays 330/364. Next is
+chapter 346, the Arab Spring and Fukushima.
