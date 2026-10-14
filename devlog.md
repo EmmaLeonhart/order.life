@@ -6603,3 +6603,33 @@ corporation to the sects, the temples, and the churches. Article 1 did
 not yet name a shrine. Shrines were brought in by the amendment of
 2 February 1946, the day the Jingiin was ended. That end had been set
 for 31 January and did not fall on that day. 120 lines. Ends "Stand."
+
+## 2026-10-13 — ch 319 written: None Against
+
+Scorpius 11 (1945 and 1948: the UN and the Universal Declaration of
+Human Rights). The charter was signed in San Francisco on 26 June 1945
+by fifty governments. Poland was not there. It signed on 15 October
+1945 and is an original member. The charter tells the organization to
+promote respect for human rights and fundamental freedoms without
+distinction of race, sex, language, or religion. It does not list the
+rights. It entered into force on 24 October 1945, when the five
+permanent members and a majority of the other signatories had ratified.
+Eleanor Roosevelt chaired the Commission on Human Rights. John
+Humphrey, of the secretariat, brought the first full draft. René
+Cassin set an order on it. The text is not one hand. P. C. Chang
+asked that article 1 hold conscience as well as reason, and brought
+the Chinese word ren. The English that stayed is conscience. Hansa
+Mehta required "human beings" where a draft said men. On 10 December
+1948, before midnight, at the Palais de Chaillot in Paris, the
+General Assembly adopted the declaration, resolution 217, of which
+the declaration is the first part. Thirty articles. Of 58 members,
+48 voted for, none against, eight abstained: the Soviet Union,
+Ukraine, Belarus, Poland, Czechoslovakia, Yugoslavia, Saudi Arabia,
+and South Africa. Honduras and Yemen were absent. The night is not
+called unanimous. Saudi Arabia had spoken against the article that
+lets a person change belief. Vyshinsky asked the assembly to wait
+until the next year. That motion lost, 45 to 6. The declaration was
+not signed and is not a treaty. The covenants that bind a state which
+accepts them came later and are not moved back into this night. The
+preamble names barbarous acts and does not name the camps or the
+cities. 105 lines. Ends "Stand." Runway 305/364.
