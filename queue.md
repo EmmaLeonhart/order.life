@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-330 are done (Virgo complete; Libra through Samhain; Scorpius through the Human Genome Project's beginning). The next blank is 331.
-   - **Ch 331 (Scorpius 23):** 1991: the Soviet collapse.
+   its line here when done. Ch 253-331 are done (Virgo complete; Libra through Samhain; Scorpius through the Soviet collapse). The next blank is 332.
    - **Ch 332 (Scorpius 24):** 1991: the Web goes public.
    - **Ch 333 (Scorpius 25):** 1995: Aum Shinrikyo, the shadow side of new religions. Holiday: US Thanksgiving.
    - **Ch 334 (Scorpius 26):** 1996: Dolly the sheep, copying life.

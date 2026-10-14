@@ -7125,3 +7125,41 @@ range. The executive summary's opening says an estimated 100,000,
 the number whose places the work would find. The two wordings are
 both in the April plan. Neither is a count. 152 lines. Ends "Stand."
 Runway stays 315/364.
+
+## 2026-10-13 — ch 331 written: Now Ceases
+
+Scorpius 23 (1991: the Soviet collapse). No holiday is named for this
+day. On 18 August, at Foros, Gorbachev refused to declare an
+emergency. On 19 August a committee announced one for six months,
+beginning at 4 a.m. Moscow time, and said the office passed to
+Yanayev because of his health. The television played a ballet. Yeltsin
+spoke from a tank outside the Russian parliament's house. On the night
+between 20 and 21 August, Dmitry Komar, Ilya Krichevsky, and Vladimir
+Usov were killed in the tunnel at the Garden Ring. The accounts do not
+agree which blow took which man. On 21 August the troops were ordered
+out. The six months were not kept. On 6 September the State Council,
+Gorbachev in the chair, recognized Lithuania, Latvia, and Estonia.
+That Friday is not the day each of them had declared. On 1 December
+Ukraine voted on the act of 24 August. More than ninety in a hundred
+of the ballots were yes. The chapter does not split the later
+fraction. Kravchuk was elected the same day. On 8 December, at
+Viskuli, Belarus, the Russian Federation, and Ukraine signed. The
+agreement still writes RSFSR beside the Russian name. They confirm
+that the union, as a subject of international law and a geopolitical
+entity, now ceases to exist. Minsk is the seat named for the
+coordinating bodies. The pens were not in the city. Gorbachev did not
+sign. The page strives to eliminate nuclear weapons and leaves single
+control to a special agreement. It names Chernobyl and does not clean
+the land. On 21 December, at Alma-Ata, eleven states signed. Georgia
+was not among them, and the three Baltic states were not. The
+commonwealth is not a state and not a structure set above states.
+With its formation, the declaration says, the union ceases. The
+protocol says the agreement of the 8th comes into force for each
+state on ratification. On 25 December he discontinued his activities
+as president. He had stood for the republics and for the union, and
+said a decision of this size should have been a popular will. The
+flag came down that evening. The minute is not agreed. On 26 December
+the Council of the Republics adopted declaration 142-N: with the
+commonwealth, the union as a state and a subject of international law
+ceases. The four sentences are not collapsed. 133 lines. Ends
+"Stand." Runway 316/364. Next is chapter 332, the Web goes public.
