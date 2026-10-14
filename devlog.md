@@ -7451,3 +7451,17 @@ way of the strikes is not set down. Some in the government named
 Iraq in those days. The war there is not this year. On Friday
 26 October a law was signed. A law is not a creed. 103 lines.
 Ends "Stand." Runway 323/364. Next is chapter 339, the genome.
+
+## 2026-10-13 — ch 338 corrected: our grief, a conditional regret, every nation
+
+The Friday speech says we are here in the middle hour of our grief.
+It does not say they were in the middle hour of their grief. On
+Sunday 16 September the sentence was "this crusade, this war on
+terrorism." The spokesman's briefing of 18 September says the
+president would regret the word if it upset a partner, and that
+the purpose was a broad cause. The papers of the next day say he
+regretted it. The two sayings are not one. The regret he spoke in
+2004 stays out of this autumn. On Thursday 20 September the
+sentence was to every nation: with them, or with the terrorists.
+It was not a sentence about a person. 105 lines. Ends "Stand."
+Runway stays 323/364. Next is chapter 339, the genome.
