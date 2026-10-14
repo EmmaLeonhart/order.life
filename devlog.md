@@ -7413,3 +7413,41 @@ reply, that it would be a wiki, is Sanger's memory, not a
 transcript. His leaving is 2002, and is not this page. 150 lines.
 Ends "Stand." Runway 322/364. Next is chapter 338, 2001, the
 attacks and the wars.
+
+## 2026-10-13 — ch 338 written: The Middle Hour
+
+Ophiuchus 2 (2001: 9/11 and its wars, religion back at the centre
+of politics). No holiday is named. The day's leftover note on an
+older march was not used. Tuesday 11 September 2001. Four planes,
+in that order: the north tower in New York, the south tower, the
+Pentagon in Arlington, a field near Shanksville. The minute of the
+fourth is not agreed. The way of the turning is not set down. The
+people on the fourth plane fought. The way of the fight is not set
+down. The plane did not reach a city. What building it had been
+turned toward is not one sentence. The south tower fell first. The
+north tower fell after. A part of the Pentagon fell later that
+morning, and the minute of that fall is not agreed. The bomb of
+1993 is not this morning. The counts of the dead do not agree: one
+later report leaves out the men on the planes, another adds them,
+and the first reports said more. None is chosen. Deaths of later
+years, from the dust, are not this morning. A report of 2004
+counts nineteen men on the four planes, and that report is not
+this morning. George W. Bush was with children in a school in
+Sarasota when he was told of the second plane. How long he
+remained is not agreed. The speech of that night is not the
+Friday. On Friday 14 September, at the cathedral in Washington,
+he said they were in the middle hour of their grief. They came to
+pray for the missing and the dead, and for the ones who loved
+them. On Sunday 16 September he said the word crusade. His
+spokesman said he regretted the word and meant a broad cause. A
+regret he spoke in 2004 is not this autumn. On Thursday
+20 September he said a person was with them or with the
+terrorists, and he set demands on the men who held Afghanistan.
+Osama bin Laden was named. The tapes are not made one sentence.
+On Sunday 7 October the strikes began, on his order, against the
+camps and against the regime that held them. Britain was in it.
+Others pledged forces. A pledge is not that Sunday's strikes. The
+way of the strikes is not set down. Some in the government named
+Iraq in those days. The war there is not this year. On Friday
+26 October a law was signed. A law is not a creed. 103 lines.
+Ends "Stand." Runway 323/364. Next is chapter 339, the genome.
