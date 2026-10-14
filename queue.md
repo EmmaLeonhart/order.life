@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-341 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through the page shown). The next blank is 342.
-   - **Ch 342 (Ophiuchus 6):** 2007: the iPhone, the machine in every hand.
+   its line here when done. Ch 253-342 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through one device). The next blank is 343.
    - **Ch 343 (Ophiuchus 7):** 2006 to 2007: indexed genealogy and consumer DNA (FamilySearch indexing, 23andMe), everyone traces descent.
    - **Ch 344 (Ophiuchus 8):** 2008 to 2009: the crash and Bitcoin, trust moves from institutions to protocol.
    - **Ch 345 (Ophiuchus 9):** 2009 to 2015: climate, from Copenhagen to Paris, who survives.

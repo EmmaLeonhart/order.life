@@ -7641,3 +7641,50 @@ books. It does not say each library. The catalog that could be
 searched is the care set beside the limit on the excerpt. 146
 lines. Ends "Stand." Runway stays 326/364. Next is chapter 342,
 the iPhone.
+
+## 2026-10-14 — ch 342 written: One Device
+
+Ophiuchus 6 (2007: the iPhone, the machine in every hand). No
+holiday is named. The day's leftover note on an older medicine
+was not used. Tuesday 9 January 2007, in San Francisco, Steve
+Jobs showed a phone that was not yet for sale. He said he had
+looked forward to the day for two and a half years. He set it
+beside the computer of 1984 and the music player of 2001. Those
+machines are not this Tuesday. One account has him say the three
+products are one device, named iPhone. Another shortens the
+sentence. One account says the company is going to reinvent the
+phone. Another says they want to. The verb is not agreed. The
+same day Apple Computer became Apple. There is no separate pen.
+He said the pointer is the hand. The way of the glass is not set
+down. He set the phones already in the world at 957 million.
+The chapter does not audit the figure. The price that day, with
+a two-year contract, is 499 and 599. One report rounds each to
+the hundred. The January papers name Cingular. He said June, and
+at first only the United States. Europe, he said, in the last
+quarter, and Asia in the next year. The faster phone is not this
+year. On Monday 11 June, before the sale, the release offers
+other people's programs as web pages that can look like a built-in
+program, and says this keeps the phone secure. Accounts of the
+room have him call it a sweet solution. A program that lives on
+the phone is not what that Monday offered. The way of making the
+page is not set down. Friday 29 June the sale began. The release
+of the day before, from Cupertino, says 6 p.m. local time, 164
+stores, until midnight, as many as two phones. The online store
+took orders at 6 p.m. Pacific time. The two sixes are not one
+clock. The release names AT&T. The company said 270,000 in the
+first two days. On Wednesday 5 September the larger phone was
+cut by 200 dollars, to 399, and the smaller was withdrawn. One
+paper rounds 600 to 400. He said the cut was for the holiday,
+and that a million by the end of September would have come
+without it. Another reading says the sales were short. On
+Thursday the letter says the early buyers trusted the company.
+It offers 100 dollars in the store to a buyer not already due a
+rebate. The 100 is not the 200. The day the million was reached
+is not agreed: one paper says the weekend and 74 days, another
+the Monday. He had said the end of September. A hope of 10
+million by the end of the next year is not a count of this
+summer. In October he wrote that a kit for other people's
+programs would reach their hands in February. February is the
+next year. The shop of the summer after is not this year. 140
+lines. Ends "Stand." Runway 327/364. Next is chapter 343,
+indexed genealogy and consumer DNA.
