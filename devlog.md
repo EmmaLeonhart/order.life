@@ -6946,3 +6946,46 @@ out. The money was a defense agency's. The web is not moved back.
 Thanksgiving 1969 was 27 November. The 1621 harvest at Plymouth and
 Lincoln's 1863 proclamation are not the same event, and neither is
 the landing. 142 lines. Ends "Stand." Runway 312/364.
+
+## 2026-10-13 — ch 327 written: As Far as a New Time
+
+Scorpius 19 (1973: revived paganisms, Ásatrú recognised in Iceland).
+No holiday is named on this day of the book. The fellowship
+Ásatrúarfélagið met at Hótel Borg in Reykjavík on 20 April 1972, the
+first day of summer that year. A later account also names 30 April.
+The two meetings are not collapsed. Sveinbjörn Beinteinsson, a sheep
+farmer in Borgarfjörður and a singer of rímur, was given the title
+allsherjargoði soon after. The medieval office is not restored. The
+first letter asked for the old religion that had been law until the
+year 1000, so far as it fitted a new time. Vísir on 3 May 1972 called
+them the Ásatrú people of the new time. They said nýheiðni. At
+Þingvellir the assembly took the Christian law in the year later
+tellings call 1000. Private sacrifice was permitted and then withdrawn.
+Before Christmas 1972 Sveinbjörn and Þorsteinn Guðjónsson went to
+Ólafur Jóhannesson. He thought it a joke, then asked for papers. The
+thunderstorm is Sveinbjörn's account, and Vísir's joke of 2 January
+1973. It is not the cause of the letter. Bishop Sigurbjörn Einarsson's
+opinion is dated 2 January 1973. He read the constitutional phrase as
+one god, named Germany, and wrote that the group was twenty-one. An
+earlier letter said about a hundred. No roll is chosen. The applicants
+denied national socialism. The denial is not a proof, and the bishop's
+fear is not the fellowship. The first papers failed the rules. A letter
+of 3 May 1973, to Ingólfsstræti, confirmed Sveinbjörn as legal head.
+The papers reported it on 15 May. A meeting on 16 May had twenty-one
+people in the room. Attendance is not the roll. What May gave was a
+registered society beside the Evangelical Lutheran national church,
+with naming, coming of age, marriage, burial, and a share of the
+church tax by adult members. The old goði's work is not copied line
+for line. On 27 November Halldór Blöndal and Magnús Jónsson asked why.
+Magnús called it polytheism and idol worship. The minister answered
+with freedom of association and of religion, and said the scholars had
+not agreed. On 5 August, at Dragháls, a blót was held in the rain under
+a plaster figure of Þór made by Jörmundur Ingi Hansen. A May headline
+said nine hundred years. The August telling called the day the first
+public outdoor blót since the ban. Neither sentence is used as a count
+of the silence. A bird was killed in the kitchen. The farmer said the
+meat was bought. A Viking Brotherhood in the United States had a tax
+exemption in 1972. The Pagan Front in Britain had been named by 1971.
+Neither is this letter. A later folkish use is not moved back into May.
+In 1975 the Althing made the next recognition harder. 149 lines. Ends
+"Stand." Runway 313/364.
