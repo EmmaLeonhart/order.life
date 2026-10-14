@@ -7465,3 +7465,41 @@ regretted it. The two sayings are not one. The regret he spoke in
 sentence was to every nation: with them, or with the terrorists.
 It was not a sentence about a person. 105 lines. Ends "Stand."
 Runway stays 323/364. Next is chapter 339, the genome.
+
+## 2026-10-13 — ch 339 written: Not Completely Complete
+
+Ophiuchus 3 (2003: the Genome completed, the code of descent
+read). No holiday is named. Monday 14 April 2003, in Bethesda,
+the international consortium announced that the project had met
+its goals, more than two years before the schedule. In the
+United States the work was led by two agencies. The release
+calls finished a technical term: highly accurate, fewer than one
+error in ten thousand letters, and highly contiguous, the
+remaining gaps being regions the method could not reliably
+resolve. The same release says about ninety-nine in a hundred of
+the gene-containing part, at an accuracy of 99.99 percent. That
+accuracy is the same standard as one error in ten thousand. The
+same week another report says the finish was ten times better
+than that standard. Robert Waterston says the error was one in a
+hundred thousand. The two rates are not made one. The June 2000
+draft covered ninety in a hundred of the gene-containing part
+and held about 150,000 gaps. The finish, the release says, holds
+the missing part in fewer than four hundred gaps. Francis
+Collins said, of the sequence that opened that day in Santa
+Cruz, that it is not completely complete, and perhaps never will
+be. The gaps he names are about four hundred, about one in a
+hundred of the gene-containing part. Another report says
+ninety-nine in a hundred of the genome. The two sentences are
+not made one. The paper of Tuesday 15 April gives Waterston's
+sentence from the announcement: the instruction set that carries
+each of us from the one-cell egg through adulthood to the grave.
+A reference sequence is not each life. The donors are not named.
+This April did not give a count of the genes. That Tuesday paper
+says the analysts had not yet computed one. An earlier estimate
+of about thirty thousand is not a count chosen here. A count
+published the next year is not this page. Collins said almost
+everybody looking for answers from the genome would find it in
+the most final form they could ever have dreamed of. A form that
+can be searched is not an answer already judged. The June draft
+is not this Monday. 94 lines. Ends "Stand." Runway 324/364.
+Next is chapter 340, Facebook.
