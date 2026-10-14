@@ -6826,3 +6826,35 @@ basilica itself. The word aggiornamento in that address is on the
 bringing up to date of the code of canon law, together with a synod
 for the city and a council for the church. It is not the name of the
 council. 131 lines. Ends "Stand."
+
+## 2026-10-13 — ch 324 written: The Master in the Mountain
+
+Scorpius 16 (1965: the Granite Mountain Records Vault). No holiday is
+listed on this day. The Genealogical Society of Utah began microfilming
+in 1938. The vault is not the first camera. Little Cottonwood Canyon,
+about a mile from the mouth, about twenty miles southeast of Salt Lake
+City, cut into the north wall. The published depth is about six hundred
+feet. The cover of stone is published as hundreds of feet and the
+numbers do not agree, so none is chosen. The rock is quartz monzonite,
+called granite, the stone of the Salt Lake Temple. The temple's blocks
+were split from boulders at the mouth. The workers' account is that
+explosives were not used on those blocks. The temple was dedicated in
+1893. The vault was blasted into the wall. The quarry and the vault are
+not the same cut. Testing was in the late 1950s. Blasting began in May
+1960. The first rolls went in during April 1963. Construction finished
+in December 1963, and visitors were taken through that month. The
+published cost is two million dollars. Door weights disagree: fourteen
+and nine tons in one account, nine to fourteen at a door in another.
+They were said to stand against a blast. That saying is not a trial.
+Six chambers in one account, three corridors and four cross tunnels in
+the newspaper at the showing. No room count is chosen. Operational in
+1965, named in May 1966, dedicated on 22 June 1966. The church's "built
+in 1965" is refused as the whole story. The owner is the Church of
+Jesus Christ of Latter-day Saints. The cameras copied books where an
+archive agreed. The book stays. The master stays in the mountain. A
+reader uses a copy elsewhere. The names are kept so the living can ask
+a baptism, in a temple, in the name of a dead person. The rite is not
+done in the mountain. The church teaches that the dead may accept or
+refuse. That is the teaching, not a report. A later digitizing and a
+website are not moved back into 1965. Not every dead person is claimed
+to be on the rolls. 122 lines. Ends "Stand." Runway 310/364.

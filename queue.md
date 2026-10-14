@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-323 are done (Virgo complete; Libra through Samhain; Scorpius through the mother tongue).
-   - **Ch 324 (Scorpius 16):** 1965: the Granite Mountain Records Vault, the Mormons microfilm the world's ancestors.
+   its line here when done. Ch 253-324 are done (Virgo complete; Libra through Samhain; Scorpius through the master in the mountain).
    - **Ch 325 (Scorpius 17):** 1966 to 1976: the Cultural Revolution, tradition destroyed.
    - **Ch 326 (Scorpius 18):** 1969: the Moon landing and ARPANET. Holiday: US Thanksgiving.
    - **Ch 327 (Scorpius 19):** 1973: revived paganisms, Ásatrú recognised in Iceland.
