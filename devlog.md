@@ -6329,3 +6329,36 @@ Kenyon was asked on 20 November 1917. The printed report is signed 24 January
 February. He added a note on 14 November 1918. Ware's preface is 22 November
 1918. The chapter had said he reported in November 1918. 122 lines. Ends
 "Stand."
+
+## 2026-10-13 — ch 312 written: The Old Style
+
+Scorpius 4 (1917: Russia, Marxism takes a state). Russia was on the Julian
+calendar, thirteen days behind the count this book keeps, until the decree
+of 24 January 1918 old style (6 February new). The day after 31 January was
+called 14 February. International Women's Day in Petrograd, now St.
+Petersburg, was 23 February old style, 8 March 1917. Nicholas II abdicated
+at Pskov on 15 March new style (2 March old), for himself and for Alexei,
+in favor of his brother Michael. Michael refused on 16 March unless a
+constituent assembly should confer the crown. Lvov, then Kerensky. The
+provisional government stayed in the war. Lenin reached Petrograd on
+16 April new style (3 April old) through a sealed train Germany had
+allowed. The April Theses were the next day. Germany's permission is not
+treated as authorship. On 7 November new style (25 October old) the Winter
+Palace was taken. The Aurora fired a blank. The congress at the Smolny
+passed decrees on peace and on land. A council of people's commissars was
+named, Lenin at its head. That night is not the civil war. The constituent
+assembly met on 18 January 1918 new style (5 January old) at the Tauride
+Palace. The Socialist Revolutionaries had the most deputies. It was closed
+the next day. Early 1918 the government printed the separation of church
+from state and school from church. The liturgy is not said to have been
+abolished by that sentence. Brest-Litovsk, now Brest, 3 March 1918: Russia
+left the war and ceded a wide territory in the west. In March the
+government moved to Moscow. On the night of 16-17 July 1918, at the Ipatiev
+House in Yekaterinburg, Nicholas, Alexandra, Olga, Tatiana, Maria,
+Anastasia, Alexei, and Botkin, Demidova, Trupp, and Kharitonov were killed.
+Yurovsky read an order of the Ural soviet. No prior written order from
+Moscow is claimed. Sverdlov told the central executive committee on
+18 July that the presidium approved it. On 19 July the paper said the
+family had been taken somewhere safe. The withering of the state is the
+books' sentence, not the winter's act. 122 lines. Ends "Stand."
+Runway 298/364.
