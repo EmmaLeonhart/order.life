@@ -6547,5 +6547,5 @@ not the hand that day. On 23 December he called the demonstration a
 magnificent Christmas present. Early in 1948 he worked out a junction
 device, a layer between two layers. It was not the December object.
 John Pierce's word, transistor, was chosen before the announcement.
-They told the press in New York on 30 June 1948. 120 lines. Ends
+They told the press in New York on 30 June 1948. 119 lines. Ends
 "Stand." Runway 303/364.
