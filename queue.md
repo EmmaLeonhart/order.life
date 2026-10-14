@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-336 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits). The next blank is 337.
-   - **Ch 337 (Ophiuchus 1):** 2001: Wikipedia, everyone writes the record.
+   its line here when done. Ch 253-337 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through the open page). The next blank is 338.
    - **Ch 338 (Ophiuchus 2):** 2001: 9/11 and its wars, religion back at the centre of politics.
    - **Ch 339 (Ophiuchus 3):** 2003: the Genome completed, the code of descent read.
    - **Ch 340 (Ophiuchus 4):** 2004: Facebook, kinship becomes a network.

@@ -7373,3 +7373,43 @@ The release says the shutdowns are not believed to be Y2K-related.
 North Carolina is taken out. The other counts stay uncollapsed.
 150 lines. Ends "Stand." Runway stays 321/364. Next is chapter 337,
 Wikipedia.
+
+## 2026-10-13 — ch 337 written: Add a Little Article
+
+Ophiuchus 1 (2001: Wikipedia, everyone writes the record). No holiday
+is named. The day's crud about rock and roll was not used. Larry
+Sanger had been writing a digest of the Y2K reports. In January 2000
+Jimmy Wales answered a letter about a successor to that digest with
+an encyclopedia. Sanger has written that the open encyclopedia was
+Wales's idea and the money was Bomis's. He names Wales, Tim Shell,
+and Michael Davis. He arrived in San Diego early in February and
+finished the degree in June. Nupedia's board agreed to seven steps.
+The first page to pass was on atonality, by Christoph Hust, in the
+summer, the month not pinned. The finished counts do not agree:
+about twenty-five by the next winter in his memory, twelve after
+eighteen months in a later interview, just over twenty on his own
+page that July. On Tuesday 2 January 2001 he ate with Ben Kovitz
+in Pacific Beach. Who set the encyclopedia in front of whom is not
+one sentence. On Wednesday 10 January the pages opened under
+Nupedia's address. A clear majority of the board wanted nothing to
+do with them. The own address opened Monday 15 January, at
+wikipedia.com, a .com because ads were still in mind. The later
+assurance against ads is not this month. The foundation is not this
+January. The letter that says humor me, five or ten minutes, is
+dated to the fifteenth in one account and the seventeenth in
+another. The software did not keep a sure history. A later recovery
+gives an unsigned line from the office machine: This is the new
+WikiPedia! That line is not called a hello, and it is not given to
+Wales or to Sanger. The sizes he later gives are approximate, and
+the September paper's some ten thousand is not made into the
+eighteen thousand or the twenty thousand. The paper of Thursday
+20 September calls him of Las Vegas, a founder with Wales, and
+editor in chief of the book with the steps. He refused the title of
+editor of the open book. The rule to ignore the rules was meant as
+temporary, and as a joke. He later set it aside. The book did not.
+Wales opened the page called Neutral Point of View. Sanger has
+written that a neutrality is not a point of view. Cunningham's
+reply, that it would be a wiki, is Sanger's memory, not a
+transcript. His leaving is 2002, and is not this page. 150 lines.
+Ends "Stand." Runway 322/364. Next is chapter 338, 2001, the
+attacks and the wars.
