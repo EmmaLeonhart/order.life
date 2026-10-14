@@ -60198,21 +60198,21 @@ One account has him say these are not three devices.
 This is one device, and the name is iPhone.
 Another account shortens that sentence.
 The two accounts are not made one.
-One account has him say the company
-Is going to reinvent the phone.
-Another has him say they want to.
-The verb is not agreed.
+He said the company is going to reinvent the phone.
+In that account he also says they are going to,
+After he says what they want is a leap.
+The want is not the verb.
 
 The same day the computer left the company's name.
 Apple Computer became Apple.
 The company did not stop making the computers.
 
 There is no separate pen.
-He said the pointer is the hand,
-What a person is born with.
+He said the pointers are the fingers,
+Ten of them, what a person is born with.
 The way of the glass is not set down.
 
-He set the phones already in the world
+He set the phones sold the year before
 At nine hundred fifty-seven million.
 The chapter does not audit the figure.
 The phone on the stage was not in those hands.
@@ -60270,12 +60270,9 @@ On Wednesday, the fifth of September,
 The larger phone was cut by two hundred dollars,
 To three hundred ninety-nine.
 The smaller phone was withdrawn.
-One paper rounds the prices
-From six hundred to four hundred.
-The round is not the company's figure.
-He said the cut was for the holiday to come,
-And that a million by the end of the month
-Would have been reached without the cut.
+One paper says the cut was by a third.
+The third is not the two hundred.
+He said the cut was for the holiday to come.
 Another reading says the sales were short.
 The two reasons are not made one.
 
@@ -60288,11 +60285,11 @@ To a buyer who is not already due a rebate.
 The hundred is not the two hundred.
 The way of collecting the credit is not set down.
 
-The day the count reached a million is not agreed.
-One paper says the weekend, and seventy-four days.
-Another says the Monday.
+The papers that name the day
+Say the weekend, and seventy-four days.
+The Monday is the day they announced it.
 He had said the end of September.
-None is chosen.
+The announcement is not the weekend.
 A million hands are not the figure he gave in January.
 A hope of ten million by the end of the next year
 Is not a count of this summer.
