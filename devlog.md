@@ -7362,3 +7362,14 @@ report gives the office until the end of March. A satellite clock had
 already rolled in August 1999. The clock of 2038 is not this night.
 150 lines. Ends "Stand." Runway 321/364. Next is chapter 337,
 Wikipedia.
+
+## 2026-10-13 — ch 336 corrected: the third plant is in South Carolina
+
+The third count names three plants whose trouble the plants did
+not tie to the date. The NRC release of 1 January 2000 (No. 00-001)
+names those shutdowns in South Carolina, Georgia, and Pennsylvania:
+Catawba near Rock Hill, Vogtle in Georgia, Limerick in Pennsylvania.
+The release says the shutdowns are not believed to be Y2K-related.
+North Carolina is taken out. The other counts stay uncollapsed.
+150 lines. Ends "Stand." Runway stays 321/364. Next is chapter 337,
+Wikipedia.

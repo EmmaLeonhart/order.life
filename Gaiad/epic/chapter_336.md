@@ -77,7 +77,7 @@ At least five utilities had trouble from the date.
 Another says seven nuclear plants
 Had minor trouble, and the service held.
 A third names three plants, in {{p|Georgia}},
-{{p|Pennsylvania}}, and {{p|North Carolina}},
+{{p|Pennsylvania}}, and {{p|South Carolina}},
 Whose trouble the plants did not tie to the date.
 None of these counts is made into the others.
 
