@@ -1110,7 +1110,7 @@ The headquarters of the supreme commander
 Sent a memorandum to the imperial government.
 Its number was 448.
 Its subject was the abolition of the state's
-Sponsorship, support, control, and dissemination
+Sponsorship, support, perpetuation, control, and dissemination
 Of State Shinto.
 The sponsorship by the national government,
 By the prefectures, and by the towns,
@@ -1120,8 +1120,8 @@ Public money was to cease at once.
 A gift that a person gave, and gave freely,
 Could still be received.
 The ground of a park might still be kept by the city.
-The shrine standing on it was not to be kept
-Out of the public purse.
+The shrine standing on it was to take nothing
+From the public purse.
 An official was not to go, in his office,
 To report that he had taken the post,
 Or to stand at a rite as the government.
@@ -1135,8 +1135,9 @@ It did not order a shrine closed.
 It did not order a building pulled down.
 
 On the twenty-eighth of December
-An ordinance let a shrine be a religious corporation,
-As other religions already could be.
+An ordinance opened a corporation
+To the sects, the temples, and the churches.
+A shrine was not yet named in it.
 
 On the first of January, 1946,
 The newspapers printed a rescript of the emperor {{c|Hirohito}}.
@@ -1180,9 +1181,9 @@ The office that had held the shrines for the state
 Was the Jingiin, set inside the Home Ministry
 In November of 1940.
 The memorandum had required the separation.
-The office was ended on the last day of January.
-
-On the second of February the shrines on the register
+The end was first set for the last day of January.
+On the second of February the office was ended,
+And the shrines on the register
 Were deemed religious corporations.
 On the third of February the association was established.
 Its name was Jinja Honchō,
