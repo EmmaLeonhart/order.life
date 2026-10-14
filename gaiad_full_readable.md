@@ -60592,8 +60592,8 @@ The three are not one span.
 The decision takes note of the Copenhagen Accord.
 Taking note is not adopting.
 The accord says the increase should be below two degrees.
-It also says the increase is to be held below two.
-The two sentences are not one sentence.
+It also speaks, with a view to the cuts, of holding that increase below two.
+A view to holding is not a holding already promised.
 Neither sentence says pre-industrial.
 The accord cites the fourth assessment.
 The fourth is not the fifth.
