@@ -7703,3 +7703,50 @@ the cut. The papers that name the day of the million say the
 weekend, and seventy-four days. The Monday is the day they
 announced it. 137 lines. Ends "Stand." Runway stays 327/364.
 Next is chapter 343, indexed genealogy and consumer DNA.
+
+## 2026-10-14 — ch 343 written: The Typed Name
+
+Ophiuchus 7 (2006 to 2007: indexed genealogy and consumer DNA).
+No holiday is named. The day's leftover note on an older
+mystique was not used. Tuesday 1 August 2006, in Provo, Jensen
+said a scanned film still had to be indexed. The ordinance is
+not the index. The pedigree is not the index. Saturday
+30 September, Anderson said thousands were already indexing,
+and access was expected by the next year. That expectation is
+not an opening. Nauta, in the same paper, said testing would
+begin. The two sentences are not made one. The August opening
+and the September testing are not one sentence. Witcher, one
+of two, was watching Indiana marriages from 1820 to 1957. He
+estimated 36 months, and said less than half would not surprise
+him. Each record was to be typed twice. The way of the deciding
+is not set down. The Saturday paper says 2.4 million rolls.
+The next August's paper says 2.5 million. The counts are not
+audited. The mountain's dedication is not this year. Saturday
+11 August 2007, some 50,000 volunteers, and a hope of twice
+that. The hope is not the count. The 1900 census was being
+typed. A search being tested would show images not yet indexed,
+and also indexes. The two uses are not one use. A later
+recollection of an open September is not that September's
+paper. A prototype in May 2005, and an earnest start in 1978,
+are not the year of the opening. Monday 19 November 2007, in
+Mountain View, the company said it had launched in the United
+States. The release names Avey and Wojcicki, and the year 2006.
+A later account names Cusenza, and a month. The lists are not
+closed. The price was 999 dollars. A Friday account, a Saturday
+account, and the Monday release are not one day. Disease,
+traits, and ancestry are not one offer. Four to six weeks and
+three weeks are not one time. More than 500,000 markers and
+more than 600,000 are not one count. A count of markers is not
+the whole sequence. A headline's thousand is not the price,
+and its decode is not the count. The odds are not a diagnosis.
+A map is not a name. A study in time, data made available
+outside and never sold, and the sentence that the data would
+not leave, are not one sentence. The marriage is not the shop.
+Google's spring sum in one paper is 3.9 million, and he had
+stepped back. The sum is not the price. Another company had
+announced and was not yet selling. Europe, Canada, and a
+cheaper price are not this year. The index in the papers is
+free. The tube is not. Fifty thousand is not everyone. The
+price is not everyone. A typed name is not a marker. 150 lines.
+Ends "Stand." Runway 328/364. Next is chapter 344, 2008 to
+2009, the crash and Bitcoin.
