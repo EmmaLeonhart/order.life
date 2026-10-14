@@ -6720,3 +6720,38 @@ moved back into April. A pairing can set the next chain. It does not
 say whether the copy should be made, or what the copy is for. The
 paper says suggests, and it says possible. 106 lines. Ends "Stand."
 Runway 307/364.
+
+## 2026-10-13 — ch 322 written: The Published Frequency
+
+Scorpius 14 (1957: Sputnik). Holiday on this day of the book:
+Shichi-go-san, and the calendar's ides of Scorpio. The ides are not
+narrated. The launch was 4 October 1957, 19:28:34 by the Greenwich
+clock, 22:28:34 in Moscow. At Tyuratam the date had turned: 00:28:34
+on the fifth. The chapter keeps the three clocks. The pad is the site
+now called the Baikonur Cosmodrome, in Kazakhstan. The town of
+Baikonur is not the pad. The sphere is the simplest satellite, PS-1.
+The announcement's word is the word for a satellite. The name that
+stayed is Sputnik. Fifty-eight centimeters, 83.6 kilograms, four
+antennas, thirty-six bolts, nitrogen sealed in. The rocket was a form
+of the R-7, made to carry a warhead between continents. In August
+1957 a rocket of that form had already completed a flight with no
+satellite. The day of that flight is not pinned. Korolev directed the
+work. The state did not publish his name. The frequencies were
+published: 20.005 and 40.002. A circuit is about ninety-six minutes.
+The batteries lasted until 26 October 1957. The sphere came down on
+4 January 1958. Orbit counts disagree, and none is chosen. On
+3 November 1957 a second satellite left the same pad, carrying the
+dog Laika, with no way prepared to bring her down. The report said
+she lived for days. In 2002 Dimitri Malashenkov said the heat killed
+her within hours, by the fourth circuit. The seventh of November was
+the anniversary the second launch was written toward. It is not
+allowed to answer for her. Shichi-go-san is the fifteenth of November.
+It is not a state holiday, and a household may go on a nearby day.
+At three the hair was let grow, for girls and for boys. At five a boy
+was put in hakama. At seven a girl took the wide sash. The shrine
+visit in the form households keep spread in the Meiji years. The
+story that a shogun fixed the fifteenth is refused as unsettled.
+Chitose ame is a thousand years, red and white, and not a contract.
+The children were not brought because of the sphere. The rite is
+older than 1957. The calendar puts them on one day. 135 lines. Ends
+"Stand." Runway 308/364.
