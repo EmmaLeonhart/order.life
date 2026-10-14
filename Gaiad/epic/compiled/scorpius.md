@@ -1679,10 +1679,14 @@ On the eleventh of October, 1962,
 In the basilica of Saint Peter, in {{p|Vatican City}},
 {{c|John XXIII}} opened a council.
 He had said, on the twenty-fifth of January, 1959,
-In {{p|Rome}}, in the basilica of Saint Paul Outside the Walls,
-That a council would be called.
-The word he used was aggiornamento.
+In {{p|Rome}}, to the cardinals gathered in the house
+Beside the basilica of Saint Paul Outside the Walls,
+That a council would be called,
+And a synod for the city,
+And a bringing up to date of the code of the law.
+The word on the code was aggiornamento.
 It means a bringing up to date.
+It was not the name of the council.
 
 The first session closed on the eighth of December.
 He died on the third of June, 1963, in {{p|Rome}}.
