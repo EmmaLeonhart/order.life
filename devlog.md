@@ -7317,3 +7317,48 @@ Equitable Building stays unagreed. Tan said there was no human
 assistance during the games. A part of the record, he said, might be
 published later. The night of 11 May did not give Kasparov the record.
 138 lines. Ends "Stand." Runway stays 320/364. Next is chapter 336, Y2K.
+
+## 2026-10-13 — ch 336 written: The Two Digits
+
+Scorpius 28 (2000: Y2K, the century ends worried about its own clocks).
+The day's holiday is the second Thanksgiving Sunday. In 2000 that
+Sunday was 26 November. The night was Friday 31 December 1999 into
+Saturday 1 January 2000. The feast is not the night. A year kept in
+two digits could be read as a hundred years back. The sums spent do
+not agree, and none is chosen. At the turn of 1995 the date line was
+bent around Kiribati. That turn is not this night. A 1997 report says
+Caroline Island was also named Millennium Island. The inhabited island
+is Kiritimati. Teburoro Tito had moved the line. In August 1999
+Taufa'ahau Tupou IV added an hour in Tonga. Fiji and New Zealand
+claimed the morning. One account gives the first sunrise to Pitt
+Island. Who was first is not chosen. One count ends the century on
+this night. Another waits for Monday 1 January 2001. Neither is
+chosen. On Saturday Bill Richardson said it was too early to call the
+night done. After Monday 3 January, the first full work day, John
+Koskinen said the bug had been squashed for the key systems, and that
+they were victims of their own success. He said the quiet was the
+work, and also that some places that seemed unready came through, and
+later that more work had been done than could be seen. Which sentence
+made the morning quiet is not chosen. Three systems in a state he did
+not name were left running and stopped. In Japan a report says a
+system that watched a nuclear plant failed, and does not say the plant
+failed. The United States counts do not agree: at least five
+utilities; seven nuclear plants with service held; three plants in
+Georgia, Pennsylvania, and North Carolina whose trouble the plants did
+not tie to the date. At Oak Ridge the briefings do not use one
+sentence for the machine that misread the date. A reconnaissance
+satellite and a guidance system are not made one machine. The guidance
+report puts the hours after the midnight kept at Greenwich. A report
+connects power outages in Gambia to the date. A shop near Albany asked
+91,250 for a tape the machine called a hundred years late. The
+committee's guessed rates for the small chips did not stay still. Some,
+the report says, set clocks back and called that a success. The way is
+not set down. Tuesday 29 February was a real leap day, because the year
+divides by four hundred, and it is not the night. Koskinen called the
+glitches a handful. A Coast Guard message archive refused the date.
+Operations held. At Offutt, near Omaha, a count of equipment stumbled
+and was caught. He said the center's watch ended that day. Another
+report gives the office until the end of March. A satellite clock had
+already rolled in August 1999. The clock of 2038 is not this night.
+150 lines. Ends "Stand." Runway 321/364. Next is chapter 337,
+Wikipedia.
