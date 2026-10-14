@@ -7224,3 +7224,39 @@ hanging of 6 July 2018 is not this spring. In October the Tokyo court
 ordered the corporation dissolved. A later name of the group is not
 brought back. 112 lines. Ends "Stand." Runway 318/364. Next is
 chapter 334, Dolly.
+
+## 2026-10-13 — ch 334 written: The White Face
+
+Scorpius 26 (1996: Dolly the sheep, copying life). No holiday is named
+for this day. An earlier page's sentence about a chain copying itself
+is not this lamb. On Friday 5 July 1996 a lamb was born at the Roslin
+Institute, by Edinburgh. The laboratory dates the birth to that day.
+The people who fused the cell later named 8 February as the day they
+made her. A fusion is not a birth. The paper calls her 6LL3. She was
+a Finn Dorset. The ewe who carried her was a Scottish Blackface. The
+white face was the first sign, not the last proof. The paper later
+matched marks in the nucleus to the cells it had come from. The
+nucleus came from a culture taken from the mammary gland of a
+six-year-old Finn Dorset in the last third of a pregnancy. The paper
+says the type of the one cell is not known. The egg was a Scottish
+Blackface with its own nucleus taken out. The ewe who carried her was
+another. What the egg kept of its own stayed in the egg. For that
+adult culture the paper counts 277 fusions, 29 embryos put into 13
+ewes, one pregnancy, one live lamb. The lambs in the same paper from
+a fetus and from an embryo are not her. Megan and Morag, born in 1995
+from cultured cells of an embryo, are not this lamb. The month of
+their birth is not chosen. She is the first mammal the paper could
+claim from a tissue of an adult, not the first copy. Ian Wilmut's
+name is first on the paper. Keith Campbell is on it. The institute
+did the work with a company at the same village. They named her Dolly,
+for Dolly Parton, because the cell was from the gland. The name is
+not the result. She stood on her own within minutes of the birth. The
+laboratory told the public on Saturday 22 February 1997. The paper is
+dated Thursday 27 February, in Nature. The two days are not one. A
+person was not born that Friday. She bore six lambs. The ram was a
+Welsh Mountain. On 14 February 2003 she was put down. The lung disease
+is one that sheep take. She had arthritis. A cause tying the illness
+to the copy was looked for and not established. Her body is kept in
+the museum in Edinburgh. A transgenic lamb of the next year is not
+this chapter. 145 lines. Ends "Stand." Runway 319/364. Next is
+chapter 335, Deep Blue.
