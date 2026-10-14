@@ -7059,3 +7059,60 @@ before it was 1928. The bed in the papers is not furnished. No sum of
 money is chosen. The 1946 sentence is not undone, and it had not made
 the rite impossible. 145 lines. Ends "Stand." Runway stays 314/364,
 because 329 was already in the count. Next blank is 330.
+
+## 2026-10-13 — ch 330 written: The Source Book
+
+Scorpius 22 (1990: the Human Genome Project begins). No holiday is
+named for this day. The plan Understanding Our Genetic Inheritance,
+the first five years, fiscal years 1991 through 1995, was published
+in April 1990 by the National Institutes of Health and the Department
+of Energy (DOE/ER-0452P, NIH Publication No. 90-1590). The National
+Center for Human Genome Research sits in Bethesda. The program dates
+the plan as implemented on 1 October 1990, the first day of the fiscal
+year the plan named, and dates the fifteen-year clock to that day.
+The date is the program's, including the June 1992 synopsis of the
+plan. It is not a ceremony, and it is not a finished sequence. The
+plan calls the work worldwide and says other countries' programs were
+getting organized. A later center is not moved back. The five-year
+aims used here are the plan's: a genetic map at 2 to 5 centimorgans,
+each marker an STS; a physical map at about 100,000 base pairs; methods
+at $0.50 a base pair; an aggregate of 10 Mb of human DNA in long
+stretches; a mouse genetic map and a start on one or two chromosomes;
+about 20 Mb from model organisms. Ten million is not the book. The
+plan says an estimated 100,000 human genes. The Times of 4 October
+1988 gave roughly 50,000 to 100,000. Neither is used as a count. A
+later count is not this April. More than 4,000 genetic diseases, and
+the phrase source book for biomedical science in the 21st century, are
+the plan's. A hope of treatment is not a treatment. The budget it
+anticipates is about $200 million a year for about fifteen years, the
+figure it says the NRC and the OTA had named. The goals assume that
+level will be reached. Fiscal years 1988 to 1990 are the plan's
+organizing years. Some money was earmarked. The whole price is not
+treated as voted on 1 October. The Department of Energy's reason is
+the plan's sentence: assessing the effects of radiation and
+energy-related chemicals. It is not written as a weapon or as an
+apology. In Santa Cruz, Robert Sinsheimer, then chancellor, convened
+a workshop from the evening of Friday 24 May 1985 to the morning of
+Sunday 26 May. A gift of $36 million meant for a telescope had to be
+returned. The institute he hoped for was not funded. His later recall,
+that the question changed from whether it could be done to whether it
+should, is not a vote of the room. In 1988 the National Research
+Council recommended the effort and that the money be new. JAMA of
+11 March 1988 reports the recommendation. In the fall of 1988 the two
+agencies signed a memorandum. James Wyngaarden signed for the
+institutes. Human Genome News (May 1990) gives the fall and not the
+day. Watson's appointment as associate director was reported by the
+Times of 4 October 1988, a Tuesday, as effective the previous Saturday,
+1 October. He would keep Cold Spring Harbor and come to the institutes
+one or two days a week. On 1 October 1989 the Office of Human Genome
+Research was abolished and the National Center was established, with
+him as director. The 1953 paper suggested a copy. It is not a
+sequence. His resignation in 1992 is not this year. At an October
+1988 press conference he said the problems were already with us,
+independent of the program, and that real money should go to discussing
+them. Printed shares run from 3 percent to 3-to-5 percent to 5 percent.
+None is chosen. The plan asks that the ethical, legal, and social
+questions be identified and that initial options be drafted. A heading
+is not a safeguard. The reference sequence, the draft of 2000, and the
+completion of 2003 are not this October. 150 lines. Ends "Stand."
+Runway 315/364. Next is chapter 331, 1991, the Soviet collapse.
