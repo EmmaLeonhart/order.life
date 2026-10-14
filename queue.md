@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-332 are done (Virgo complete; Libra through Samhain; Scorpius through the web going public). The next blank is 333.
-   - **Ch 333 (Scorpius 25):** 1995: Aum Shinrikyo, the shadow side of new religions. Holiday: US Thanksgiving.
+   its line here when done. Ch 253-333 are done (Virgo complete; Libra through Samhain; Scorpius through the morning trains). The next blank is 334.
    - **Ch 334 (Scorpius 26):** 1996: Dolly the sheep, copying life.
    - **Ch 335 (Scorpius 27):** 1997: Deep Blue.
    - **Ch 336 (Scorpius 28):** 2000: Y2K, the century ends worried about its own clocks.

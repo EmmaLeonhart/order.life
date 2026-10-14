@@ -7198,3 +7198,29 @@ for the SPIRES database. Menlo Park is not the 1969 room. On 30 April
 CERN. That declaration, and Mosaic, are not this August. 137 lines.
 Ends "Stand." Runway 317/364. Next is chapter 333, 1995, Aum
 Shinrikyo.
+
+## 2026-10-13 — ch 333 written: The Morning Trains
+
+Scorpius 25 (1995: Aum Shinrikyo). The holiday named for the day is
+the second US Thanksgiving. In 1995 that Thursday was 23 November,
+which is also Japan's Labor Thanksgiving. The attack was Monday 20
+March. The feasts are not the trains. In February 1984 Chizuo
+Matsumoto began Aum Shinsen no Kai. In June 1987 the name became Aum
+Shinrikyo. The English "Supreme Truth" is not treated as those words.
+In August 1989 Tokyo registered it as a religious corporation. In
+November 1989, in Yokohama, members killed Tsutsumi Sakamoto, Satoko
+Sakamoto, and their son Tatsuhiko, a year old. The bodies were found
+in September 1995. On the night of 27 June 1994, in the city of
+Matsumoto, sarin was released. The judicial count of the dead is
+seven. A later death is not added. On 20 March 1995 members released
+sarin on five trains on the Hibiya, Chiyoda, and Marunouchi lines,
+through Kasumigaseki. The way of the release is not set down. The
+counts of the dead print twelve, thirteen, and fourteen, and the
+injured counts disagree. None is chosen. Raids two days later did not
+find him. On Tuesday 16 May, at Kamikuishiki, he was found in a hidden
+room of the sixth building. The reports give 9:45. The posture is not
+agreed. The two names are one man. An arrest is not the sentence. The
+hanging of 6 July 2018 is not this spring. In October the Tokyo court
+ordered the corporation dissolved. A later name of the group is not
+brought back. 112 lines. Ends "Stand." Runway 318/364. Next is
+chapter 334, Dolly.
