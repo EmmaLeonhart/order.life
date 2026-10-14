@@ -6817,3 +6817,12 @@ the verse and are not moved back into 1962–1965. The council closed
 on 8 December 1965. The sixteen documents are not listed. Observers,
 a headcount, and a Mass said in Italian on 7 March were not used.
 127 lines. Ends "Stand." Runway 309/364.
+
+## 2026-10-13 — ch 323 corrected
+
+The announcement of 25 January 1959 was spoken to the cardinals in the
+house beside the basilica of Saint Paul Outside the Walls, not in the
+basilica itself. The word aggiornamento in that address is on the
+bringing up to date of the code of canon law, together with a synod
+for the city and a council for the church. It is not the name of the
+council. 131 lines. Ends "Stand."
