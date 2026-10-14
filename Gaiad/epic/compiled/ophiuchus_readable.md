@@ -2625,10 +2625,259 @@ From being taken for either nothing or a proof.
 Stand.
 
 
-*Chapter 362 not yet written.*
+# Chapter 362: Still in It
+
+No holiday is named for this day.
+The leftover note on a singularity of consciousness
+Is not this page.
+No consciousness is promised here.
+
+This is the last chapter of the people as they are.
+It is written in the year it tells.
+On Wednesday, the fourteenth of October, 2026,
+The tenth of Libra of the year 12026 by this calendar,
+These lines are set down.
+The day they are written is not the day they are read.
+
+Here is the present, held still for one page.
+The machines write and act,
+And it is not settled in whose hands.
+The water rises,
+And the halls still take note.
+Men still reach for an old robe and an old word
+To make a new rule look ancient.
+The gap that closed after the great war
+Has opened again, and is not closed.
+The faiths that were mixed and then forbidden
+Are still being mixed, by a few, in small rooms,
+And a few is not none.
+None of this is finished.
+Not finished is not lost.
+
+The book does not say what happens next.
+It is not a prophecy.
+A prophecy is a register of what has not happened.
+This register has refused to keep one.
+It keeps only what is near enough to see,
+And what is far enough to be sure of.
+The middle distance it leaves blank.
+A blank is not an absence.
+It is the place where the living will write.
+
+The first reading of this chapter
+Is the first reading of the whole.
+A book read for the first time on the day it ends
+Is not yet a tradition.
+It is the seed of one.
+Read it again next year on this day,
+And it will be one year older than it was.
+That is how old things are made.
+
+Now the voice turns.
+It has spoken of what was.
+It speaks now to whoever reads after.
+
+You who read this
+In a year the book did not name,
+You know what happened in the blank.
+We do not.
+We did not make it out of nothing.
+We were still in it.
+The machines were new to us, and the water was rising,
+And we argued over who would hold the record.
+Some of us kept the days anyway,
+And gave each one a name,
+So that you would have a calendar
+When you woke.
+
+If you are reading this after a long sleep,
+The next chapter is yours.
+If you are reading it the next morning,
+It is still yours.
+The skip is not a door slammed.
+It is a page turned with the hand still on it.
+
+Between this page and the next
+Lie years this book will not tell.
+Not telling is not forgetting.
+It is trusting.
+
+The absurdity is a people at the edge of every fork at once,
+Writing a scripture that ends with them still deciding.
+The striving is to keep the open from being taken for the lost,
+The blank from being taken for the end,
+And the hand on the page
+From letting go too soon.
+
+Stand.
 
 
-*Chapter 363 not yet written.*
+# Chapter 363: The Waking
+
+No holiday is named for this day.
+The leftover note on a cosmic reunion approaching
+Is close to this page,
+And is not this page.
+The waking from the cold is kept again,
+In the leap days, on the Birth of Horus.
+
+On Thursday, the twelfth of January, 1967,
+In {{p|California}}, James Bedford,
+A teacher of psychology, dead of cancer,
+Was cooled and kept in the cold,
+The first so kept with the hope of waking.
+A hope is not a method.
+Robert Ettinger had written a book
+On the prospect of not dying for good.
+A prospect is not a promise.
+
+In the years after, others were kept.
+In tanks of liquid nitrogen,
+In {{p|Arizona}}, in {{p|Michigan}}, and elsewhere,
+Bodies, and some heads alone,
+At a cold below which nothing decays.
+Nothing decays is not nothing is lost.
+What was lost in the dying and the cooling
+Was not known.
+Not known is not known to be gone.
+The law called them dead.
+The keepers called them patients.
+The two names are not one name.
+
+This is the far side of the blank.
+The book told the blank and did not fill it.
+Now it tells what it said must happen,
+If anyone is kept and anyone is left to wake them.
+That if is not small.
+The book does not say how.
+It does not say when.
+It says only: the sleepers are woken.
+
+They open their eyes in a world they did not see made.
+The tongues have moved.
+The names of the streets are new.
+A new name is not an erased one.
+Someone kept the old names,
+In a register that a machine could walk,
+So that a sleeper could be told
+Where she had been.
+
+The first thing told them is the date.
+A date is not a home.
+But it is where a home begins.
+Someone reads them the day's chapter,
+And tells them what day of the year it is,
+And they find the calendar still counting.
+A calendar still counting is not a world unchanged.
+It is a world that remembered to count.
+
+They ask who is left.
+The answer is in the lines,
+Mother to daughter, father to son,
+Down through the blank years,
+To whoever stands at the bedside.
+A descendant is not a stranger.
+A descendant is not the child who was left.
+The one at the bedside is both near and far.
+
+This is the end of the people as people,
+In the book's telling.
+Not the end of people.
+The end of the part the book can tell as history.
+What the woken do next
+Is theirs, and not this page's.
+
+The absurdity is a bet placed against death by the cold,
+On the patience of strangers not yet born.
+The striving is to keep the hope from being taken for the method,
+The date from being taken for the home,
+And the one at the bedside
+From being taken for a stranger.
+
+Stand.
 
 
-*Chapter 364 not yet written.*
+# Chapter 364: Milkdromeda
+
+No holiday is named for this day.
+The leftover note on the union of the Alpha and the Omega
+Is this page's subject,
+And not its words.
+The leap days of the Horus month come after,
+When the year has them.
+Then the year turns, and the yarn is spun again.
+
+At the beginning, Aster, the Alpha,
+Spun the universe from a ball of yarn,
+And made Andromeda, the Omega, to love,
+And threw her a thread across the dark,
+And the thread broke into galaxies.
+That was the first chapter.
+This is the last.
+
+Our galaxy is the milk Aster spilled.
+The galaxy of {{p|Andromeda}}
+Is about two and a half million light years away.
+It is coming toward us
+At about a hundred and ten kilometres in each second.
+Coming toward is not arriving.
+A study in 2012, from the motion of its stars,
+Put the meeting at about four and a half billion years.
+A study in 2025, weighing more neighbours,
+Gave the meeting within ten billion years
+About even odds.
+Even odds is not certain.
+It is not impossible.
+The book chose to tell it.
+A choice to tell is not a claim to know.
+
+If they meet, the stars do not strike one another.
+The space between them is too wide.
+Wide is not empty.
+The clouds of gas strike, and new stars are born from them.
+The two spirals lose their shapes
+And settle into one round cloud of old light.
+The astronomers call it {{p|Milkomeda}}.
+This book calls it Milkdromeda.
+The two names are one thing.
+
+The two centres sink toward each other,
+The two great dark hearts,
+And at the last they become one.
+One is not the loss of two.
+It is the thread that broke at the beginning
+Tied at the end.
+
+By then our sun will have grown and dimmed.
+Whoever watches, if anyone watches,
+Is not a person of the kind this book has told.
+The book does not say who they are.
+Not saying is not doubting them.
+It is leaving them their own book.
+
+From the first chapter to this one
+Is three hundred and sixty-four days,
+And about thirteen billion years told,
+And a few billion more foretold.
+A day for an age is not a fair measure.
+It is a measure that can be kept.
+A measure that can be kept is a calendar.
+A calendar kept is a tradition.
+A tradition kept is how the dead speak to the woken.
+
+Here Aster and Andromeda meet.
+The Alpha and the Omega are one.
+The yarn is whole.
+Whole is not finished.
+Tomorrow is the first day again,
+And the ball of yarn is in the catgirl's hands,
+And she begins to spin.
+
+The absurdity is a love story told across the whole of time
+By a creature who lives for less than a century of it.
+The striving is to keep the even odds from being taken for certainty,
+The meeting from being taken for an ending,
+And the last day of the year
+From being taken for the last day.
+
+Stand.
