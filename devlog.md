@@ -7578,3 +7578,52 @@ month. The paper says he paid it. The later thousand was to keep
 the site up for at least two months. Moskovitz is named that
 March, writing the programs. 150 lines. Ends "Stand." Runway
 stays 325/364. Next is chapter 341, Google Books.
+
+## 2026-10-14 — ch 341 written: The Page Shown
+
+Ophiuchus 5 (2004: Google Books, the paper record becomes
+searchable). No holiday is named. The day's leftover note on an
+older awakening was not used. The publishers' program had been
+in a test for nearly a year. The day it opened is not agreed.
+One trade paper says it went live on Tuesday 5 October.
+Another dates an announcement to Wednesday the sixth. The
+paper of Friday the eighth is dated from the fair in Frankfurt
+on Thursday the seventh. Larry Page and Sergey Brin were there.
+The lists of houses do not agree. Random House had not signed.
+They would not say how many books had been taken in. A few
+pages could be seen, the phrase marked, with a link to a shop.
+Publishers did not pay. Advertisements were sold and the money
+shared. Susan Wojcicki said there were no plans to sell the
+books. The plan was to be a search. A search inside books at a
+shop is older than this fair. The offering of August is not
+this fair. That week's invitation asked for books in English,
+with a standard number. The way of the scan is not set down.
+On Tuesday 14 December, in Mountain View, the program widened
+to five libraries: Harvard in Cambridge, Stanford, Michigan in
+Ann Arbor, Oxford, and the public library in New York. The five
+did not give the same pile. Harvard's pilot is about forty
+thousand, taken at random, in and out of copyright. The size of
+the whole library is not agreed. Michigan's count is not
+agreed: William Gosling says seven million, not the special
+collections, about six years, against about five thousand a
+year. Another paper says 7.4 million. Stanford is seven million
+in one estimate and nearly all of eight million in another.
+Oxford is not agreed: books of 1900 and before; the
+nineteenth-century holdings, about a million out of about eight
+million; or the whole library. One paper says the Bodleian,
+from 1602, chained the volumes so they would not be stolen.
+New York's number is not given. One paper says fragile books
+out of copyright. The library's account says twenty million
+books among more than fifty million items. The catalog had been
+searchable. The pages had not. For a book out of copyright the
+reports give the whole text. For a book still in copyright they
+do not agree: at first only the naming line, or a short excerpt
+and where to find it. The whole may be taken in. The page shown
+is not the whole. One report says a small sample from Michigan
+could be searched that Tuesday. Another says the samples were
+beginning to be scanned. The company did not give the price.
+One estimate, not theirs, says ten dollars a book and a decade
+for fifteen million. None is chosen. The name that Tuesday is
+Google Print. A later name is not this year. The suits of the
+next year are not this Tuesday. 145 lines. Ends "Stand."
+Runway 326/364. Next is chapter 342, the iPhone.
