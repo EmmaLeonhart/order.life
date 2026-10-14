@@ -8010,3 +8010,21 @@ about chapter 60, and about the sixtieth is not the end. When
 the days lost their names, she was numbering them. 70 lines.
 Ends "Stand." Runway 340/364. Next is chapter 356, the vaccines,
 Kabul, and Emma's 2021.
+
+## 2026-10-14 — ch 356 written: The Message and the Gate
+
+Ophiuchus 20 (2021, the vaccines and the Taliban back in Kabul;
+alongside it, Emma's 2021 in Europe). No holiday is named. The
+day's leftover note on the climate crisis was not used; that
+subject is chapter 345's. Tuesday 8 December 2020, in Coventry,
+a first dose is the first. The message is not the virus. Karikó
+and Weissman's work was not funded well, and not funded is not
+wrong. Fast is not careless; the decades before were the
+slowness. First paid is not most in need. The Doha agreement of
+Saturday 29 February 2020 had no Kabul government at the table.
+Sunday 15 August 2021, twenty years is undone in a day. Holding
+on is not boarding. The last plane on Monday 30 August is not
+the last person who wished to leave. Emma's 2021 in Europe: a
+gap in the book is not a gap in the life. 69 lines. Ends
+"Stand." Runway 341/364. Next is chapter 357, Ukraine, ChatGPT,
+Sudowrite and Christmas.
