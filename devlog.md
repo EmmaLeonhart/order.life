@@ -7032,3 +7032,10 @@ embassy of 4 November 1979 is left out. The shah's death in 1980 is
 left out. The two winters are not written as one event. The
 communique's ended campaign is not a filled grave, and chapter 325 is
 not retold. 101 lines. Ends "Stand." Runway 314/364.
+
+## 2026-10-13 — ch 328 corrected: the two dates of the announcement, and the morning he left
+
+The announcement of relations was 15 December in Washington and
+16 December in Beijing. The two dates are not collapsed. A communique
+dated the official visit through 4 February. He left Seattle on the
+morning of 5 February. 105 lines. Ends "Stand."
