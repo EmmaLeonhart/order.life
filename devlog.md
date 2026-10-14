@@ -6858,3 +6858,57 @@ done in the mountain. The church teaches that the dead may accept or
 refuse. That is the teaching, not a report. A later digitizing and a
 website are not moved back into 1965. Not every dead person is claimed
 to be on the rolls. 122 lines. Ends "Stand." Runway 310/364.
+
+## 2026-10-13 — ch 325 written: Left as a Museum
+
+Scorpius 17 (1966 to 1976: the Cultural Revolution, tradition
+destroyed). No holiday was confirmed for this day. The 16 May
+Notification was an inner-party circular from an expanded Politburo
+session. It was not published to the country that day. People's Daily
+printed it on 17 May 1967. The chapter does not retell the dispute
+over the opera Hai Rui Dismissed from Office. On 8 August 1966 the
+Central Committee adopted the decision in sixteen points. The chapter
+does not quote a line from it. The four names, old ideas, old culture,
+old customs, and old habits, are the Four Olds. The term is attributed
+to the People's Daily editorial of 1 June 1966. What counted as old
+was not catalogued. On 18 August Mao received the Red Guards at
+Tiananmen. Lin Biao told them to smash the four. Crowd figures differ,
+a million in some accounts and eight hundred thousand in others, and
+the later total of the rallies differs as well. No figure is chosen.
+The letter of 1 August is left out. Accounts disagree on whether it
+went to the middle school or the university. The exchange with Song
+Binbin, and the name Yaowu, is widely told and was not checked against
+a transcript, so it is left out. He is said to have worn an army coat.
+The chapter keeps the coat and does not date the last time he had worn
+one. Beijing's dead in August are given as 1,772 in one official
+reckoning and 10,275 in a later official reckoning. Neither is used.
+No national toll is chosen. The New York Times gives the persecuted in
+the tens of millions and no single count of the dead. In Qufu the
+three places are the temple, the mansion, and the cemetery. A
+dissertation records that local Red Guards tried in August and did not
+take them. In November Tan Houlan led a group from Beijing Normal
+University. One scholarly account dates the arrival 9 November and
+gives a number over two hundred. The verse says early November and
+does not use the number. On 12 November later accounts of a telephone
+order from Chen Boda and Qi Benyu agree on three charges: do not
+destroy the mansion, the temple, or the cemetery; leave them as a
+museum, on the model of the Rent Collection Courtyard; the grave may
+be dug. They do not agree on which stelae were to be spared. The verse
+keeps the shared three. On 15 November the State Council protection
+stelae were broken at a rally. The grave is dated the twenty-ninth in
+one account and the thirtieth in another. The verse says the last days
+of November and does not say what was found. One interview says the
+tomb was empty. That finding is not used. The corpse of the
+seventy-sixth-generation descendant is not described. Counts of burned
+books and smashed relics differ, including a later figure of about
+100,000 volumes and a 1984 report of 2,000 books and 900 scrolls.
+None is chosen. Some objects were hidden. The 1973–1974 campaign
+against Lin Biao and Confucius is inside these years and is not
+narrated. Zhou Enlai's death on 8 January 1976 and the gathering of
+5 April are left out. Mao died on 9 September 1976 in Beijing. On
+6 October Hua Guofeng had Jiang Qing, Zhang Chunqiao, Yao Wenyuan,
+and Wang Hongwen arrested. The name Gang of Four is the name given
+afterward. The arrest is the end used by later tellings, including
+the New York Times account. The 1981 party resolution is not moved
+back into October. Deng's return is chapter 328 and is not previewed.
+101 lines. Ends "Stand." Runway 311/364.

@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-324 are done (Virgo complete; Libra through Samhain; Scorpius through the master in the mountain).
-   - **Ch 325 (Scorpius 17):** 1966 to 1976: the Cultural Revolution, tradition destroyed.
+   its line here when done. Ch 253-325 are done (Virgo complete; Libra through Samhain; Scorpius through left as a museum).
    - **Ch 326 (Scorpius 18):** 1969: the Moon landing and ARPANET. Holiday: US Thanksgiving.
    - **Ch 327 (Scorpius 19):** 1973: revived paganisms, Ásatrú recognised in Iceland.
    - **Ch 328 (Scorpius 20):** 1978 and 1979: Deng opens China; the Iranian Revolution.
