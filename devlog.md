@@ -6591,3 +6591,15 @@ association. Yasukuni is its own corporation and is not written as a
 member. Today's shrine count is not used. The present Yoyogi address is
 not used for 1946. The first officers are not named. 119 lines. Ends
 "Stand." Runway 304/364.
+
+## 2026-10-13 — ch 318 corrected
+
+The park lines had said the shrine was not to be kept out of the public
+purse. SCAPIN-448 says no public funds for a shrine on a park, while the
+ground itself may still be kept. The shrine now takes nothing from the
+purse. The subject line now includes perpetuation, which is in the
+memorandum's subject. The ordinance of 28 December 1945 opened a
+corporation to the sects, the temples, and the churches. Article 1 did
+not yet name a shrine. Shrines were brought in by the amendment of
+2 February 1946, the day the Jingiin was ended. That end had been set
+for 31 January and did not fall on that day. 120 lines. Ends "Stand."
