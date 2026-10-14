@@ -6478,3 +6478,9 @@ citizenship of the murdered, and honorary citizenship of the righteous, are
 left out: the first was not checked against the enacted text, and the second
 may be a later reading of the law. No camp list. No IBM. 119 lines. Ends
 "Stand." Runway 301/364.
+
+## 2026-10-13 — ch 315 corrected
+
+The Babyn Yar line said the Jews of the city were shot. The killing of
+29 and 30 September 1941 was the people who had been gathered at the
+ravine. The line now says that. 119 lines. Ends "Stand."

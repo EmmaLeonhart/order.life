@@ -36,7 +36,7 @@ In the territory taken that summer,
 Jews were shot beside the towns.
 On the twenty-ninth and the thirtieth of September,
 At Babyn Yar, the ravine at {{p|Kyiv}},
-The Jews of the city were shot.
+The Jews who had been gathered there were shot.
 A ravine is a place and two days.
 It is not an explanation.
 
