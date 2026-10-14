@@ -59244,10 +59244,9 @@ It was the Association for Computing Machinery's challenge.
 
 The rate the reports settle on
 Is forty moves in two hours.
-One of them also says three minutes for a move,
-In the same sentence as the forty.
-This chapter does not split that sentence
-Into two clocks.
+One of them says three minutes,
+For how far the machine can look.
+That three minutes is not the clock.
 
 He had already lost faster games to machines.
 One report names a five-minute game, two years before.
@@ -59263,29 +59262,29 @@ The machine won the first game.
 He resigned before his thirty-seventh move.
 Feng-Hsiung Hsu entered the man's moves
 On a terminal, and carried out the machine's answers.
-The report calls him the chief designer.
+The report calls him the principal designer.
 The hand was not the search.
-Another report puts the machine upstate,
-And a screen in the room where the board was.
 
 On the eleventh, a Sunday, he had white.
-The machine resigned on the seventy-third move.
+The machine resigned after the seventy-third move.
 On the seventeenth, a Saturday, he won the sixth.
 Three wins, two draws, and one loss.
 The match was four to two.
 Do not give February to the machine.
 
 A report of the twelfth of February
-Has him leave the convention center after the first game.
-Another, of that morning,
-Holds the next four for that center,
-And does not place the first two there.
-This chapter keeps the city, and does not choose the room.
+Has him leave the convention center
+After the first game.
+This chapter keeps the city.
 
 In May 1997 the name was used again,
 In {{p|New York}},
-On the thirty-fifth floor of the Equitable Building.
-The paper on the second game there
+At the Equitable Building.
+The floor is not agreed.
+One report leaves the machine
+At {{p|Yorktown Heights}},
+And the board in the city.
+The paper on the second game
 Calls the Philadelphia machine an earlier, slower version.
 Do not fold this May back into that February.
 Two hours for each side to make forty moves.
@@ -59331,12 +59330,11 @@ Asked if he was charging a cheat,
 He said the match had gone beyond his understanding,
 And that there was probably no way to prove
 Which side had made a move.
-Chung-Jen Tan said there had been
-No human assistance during the games.
 On the Saturday a copy of the record
 Was to be left with a neutral party.
 That night it was not given to him, nor to the public.
-Chung-Jen Tan said a part might be published later.
+Chung-Jen Tan said the record
+Would be given at a fitting time.
 This chapter does not settle it,
 And does not make Garry Kasparov's answer
 A sharper charge than the one he spoke.
@@ -59345,8 +59343,8 @@ A hand on the keys, in February,
 Is not a chooser inside the search.
 
 In the same month he asked for ten games,
-On every second day, across twenty days.
-The builders would not promise them.
+With a day between them.
+The builders did not promise them.
 What was done with the machine after the Sunday
 Is not this page.
 
