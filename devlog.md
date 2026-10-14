@@ -7750,3 +7750,42 @@ free. The tube is not. Fifty thousand is not everyone. The
 price is not everyone. A typed name is not a marker. 150 lines.
 Ends "Stand." Runway 328/364. Next is chapter 344, 2008 to
 2009, the crash and Bitcoin.
+
+## 2026-10-14 — ch 344 written: Instead of Trust
+
+Ophiuchus 8 (2008 to 2009: the crash and Bitcoin, trust moves
+from institutions to protocol). No holiday is named. The day's
+leftover note on an older expansion of the mind was not used.
+The March sale is not this September, and its price is not one
+sentence. Sunday 7 September 2008 the two mortgage houses were
+taken in. One chronology says a hundred billion for each. That
+figure is not audited. Monday 15 September, early morning,
+another house filed. It is called the largest to that day. The
+size is not one number. The same weekend a third house was
+sold. One chronology says fifty billion. Not audited. The
+secretary said there would be no public money for a buyer. A
+paper of December says the reserve lent on the Monday and the
+Tuesday to a piece of the house that had filed. The refusal
+and the loan are not one policy. Tuesday the insurer was not
+allowed to fail. The first credit is given as eighty-five
+billion. Later credits are not that Tuesday. Monday
+29 September the House refused, 228 to 205. The index fall is
+not one number. Wednesday 1 October the Senate passed a changed
+bill, 74 to 25. Friday 3 October the House passed it, 263 to
+171, and Bush signed it that day. The law authorizes up to
+700 billion. An earlier draft's 250, with room to 700, is not
+the signed line. Friday 31 October a note to the code list
+carries the name Satoshi Nakamoto. Who held the name is not
+known. The note says peer to peer, no trusted third party. The
+paper says a proof in the place of trust. The two are not one
+sentence. The way of the proof is not set down. Saturday
+3 January 2009 the first block carries the London headline of
+that morning, the chancellor on brink of a second bailout. The
+headline's words are "on brink," not "on the brink." The
+chancellor is not the American secretary. The October law is
+not that headline. The first reward cannot be spent, and the
+accounts do not agree whether that was meant. The next block
+is six days later. Why is not agreed. The program's offer to
+others, a second person's payment, a market price, and a pizza
+are not this Saturday or this year. 105 lines. Ends "Stand."
+Runway 329/364. Next is chapter 345, climate.

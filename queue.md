@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-343 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through the typed name). The next blank is 344.
-   - **Ch 344 (Ophiuchus 8):** 2008 to 2009: the crash and Bitcoin, trust moves from institutions to protocol.
+   its line here when done. Ch 253-344 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through instead of trust). The next blank is 345.
    - **Ch 345 (Ophiuchus 9):** 2009 to 2015: climate, from Copenhagen to Paris, who survives.
    - **Ch 346 (Ophiuchus 10):** 2010 to 2011: the Arab Spring, networks against states; Fukushima.
    - **Ch 347 (Ophiuchus 11):** 2012: AlexNet, machines learn to see.
