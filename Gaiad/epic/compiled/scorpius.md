@@ -2623,9 +2623,11 @@ They ask for a genetic map of the mouse,
 A start on the physical map of a chromosome or two,
 And about twenty million letters from other organisms.
 
-The plan says an estimated one hundred thousand human genes.
-In October 1988 the Times had given a range,
-From fifty thousand to a hundred thousand.
+The plan says the human genome consists of
+Fifty thousand to a hundred thousand genes.
+The Times, in October 1988, had given the same range.
+The opening of the same plan says an estimated
+One hundred thousand, the number whose places it would find.
 The plan's word is an estimate, and not a count.
 A later count is not this April.
 The plan says the book would help to understand,
