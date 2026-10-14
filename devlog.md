@@ -7993,3 +7993,20 @@ Thursday night into Friday 15 November, the halls taken down are
 not lost. The line as told is not the line as proved. 74 lines.
 Ends "Stand." Runway 339/364. Next is chapter 355, COVID and
 Emma's 2020.
+
+## 2026-10-14 — ch 355 written: The Weekly Verses
+
+Ophiuchus 19 (2020, COVID; alongside it, Emma's 2020, the
+Gaiad's weekly verses to about chapter 60). No holiday is named.
+The day's leftover note on social media was not used. Tuesday 31
+December 2019, unknown cause is not no cause. Thursday 23
+January 2020, a closed city is not a closed virus. The emergency
+of Thursday 30 January and the word pandemic of Wednesday 11
+March: a word late is not a word wrong. Friday 27 March, the
+pope alone in the rain is not unheard. A meeting on a screen is
+a meeting. An argued count is not a false count. The dead are
+not counted. Emma's weekly verses ran through much of 2020 to
+about chapter 60, and about the sixtieth is not the end. When
+the days lost their names, she was numbering them. 70 lines.
+Ends "Stand." Runway 340/364. Next is chapter 356, the vaccines,
+Kabul, and Emma's 2021.

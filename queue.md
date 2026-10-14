@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-354 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note). The next blank is 355.
-   - **Ch 355 (Ophiuchus 19):** 2020: COVID; alongside it, Emma's 2020: the Gaiad's weekly verses through much of the year, to about chapter 60.
+   its line here when done. Ch 253-355 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note). The next blank is 356.
    - **Ch 356 (Ophiuchus 20):** 2021: the vaccines, and the Taliban back in Kabul; alongside it, Emma's 2021: "a pretty significant year for me where I ran around Europe and did lots of stuff" (her words, 2026-10-12; the Gaiad itself had a gap that year).
    - **Ch 357 (Ophiuchus 21):** 2022: Russia's full invasion of Ukraine (after Crimea, 2014), war in Europe again (Emma: "the biggest missing part here"); ChatGPT, the writing machine; alongside it, Emma's 2022: Sudowrite, her first writing with AI. Holiday: Christmas, Dongzhi.
    - **Ch 358 (Ophiuchus 22):** 2023: Shinto overseas, traditions carried past their borders; alongside it, Emma's 2023: "a lot of this Shinto stuff fall into my hands".
