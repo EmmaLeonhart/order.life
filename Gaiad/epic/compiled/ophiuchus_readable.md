@@ -1208,16 +1208,370 @@ From being taken for a degree on a page.
 Stand.
 
 
-*Chapter 346 not yet written.*
+# Chapter 346: The Square and the Cooling
+
+No holiday is named for this day.
+The leftover note on a landing on the moon
+Is not this page.
+
+On Friday, the seventeenth of December, 2010,
+In {{p|Sidi Bouzid}}, in {{p|Tunisia}},
+Mohamed Bouazizi, who sells fruit from a cart,
+Sets himself on fire outside the governor's office.
+The cart is not a cause.
+A fire outside an office is not yet a revolt.
+He dies on Tuesday, the fourth of January, 2011.
+The dying is not the protest.
+The protest has already left the town.
+
+The pictures go out on telephones.
+A telephone is not a crowd.
+A page shared is not a street filled.
+The network carries the pictures.
+The network does not walk.
+
+On Friday, the fourteenth of January,
+Zine El Abidine Ben Ali leaves {{p|Tunisia}}
+And lands in {{p|Saudi Arabia}}.
+Leaving is not a trial.
+Twenty-three years in office are not undone by a flight.
+
+On Tuesday, the twenty-fifth of January,
+In {{p|Cairo}}, the crowds come to {{p|Tahrir Square}}.
+The day is the holiday of the police.
+The crowd chose the police's own day.
+A holiday is not a law.
+On Friday, the twenty-eighth,
+The state cuts the country off the internet.
+A cut network is not a quiet street.
+The people come out anyway.
+The cut does not keep them in.
+
+On Friday, the eleventh of February,
+Omar Suleiman reads a short statement.
+Hosni Mubarak gives up the office of president
+And hands the affairs of the country
+To the supreme council of the armed forces.
+A handing to the army is not a handing to the square.
+The square cheers that night.
+The night is not the years that follow.
+
+In {{p|Benghazi}} the protests begin in the middle of February.
+On Thursday, the seventeenth of March,
+The council in {{p|New York}} passes a resolution
+That authorizes all necessary measures
+To protect civilians in {{p|Libya}}.
+Protecting civilians is not a named change of ruler.
+On Thursday, the twentieth of October,
+Near {{p|Sirte}}, Muammar Gaddafi is killed.
+The resolution does not say that day.
+
+In {{p|Daraa}}, in {{p|Syria}}, boys write on a wall,
+And they are taken.
+The writing is not the arrest.
+The arrest is not the war.
+The war is not finished on this page.
+
+The networks did not overthrow anyone.
+People did, and people were shot.
+A trending word is not a body in a square.
+The state that cut the cables learned the cables matter.
+The crowd that used them learned the state was still there.
+
+On Friday, the eleventh of March, 2011,
+At fourteen forty-six, in the time of {{p|Japan}},
+The floor of the sea moves off {{p|Tōhoku}}.
+The magnitude is given as nine.
+The water comes after the shaking.
+The wall at the shore was not tall enough.
+The chapter does not count the dead.
+The towns of the coast are named by the people who lived there,
+Not by this page.
+
+At {{p|Fukushima Daiichi}}, the reactors that were running
+Shut down as they were built to.
+A shut-down reactor is not a cold reactor.
+The water takes the power for the pumps.
+Without the pumps the cores are not cooled.
+On Saturday, the twelfth, a building of unit one explodes.
+The explosion is hydrogen.
+Hydrogen is not the core.
+The cores of units one, two and three melt.
+On Tuesday, the twelfth of April,
+The rating is raised to seven,
+The same number as {{p|Chernobyl}}.
+The same number is not the same day.
+The people of the zone are moved away.
+Being moved away is not going home.
+
+A network of wires against a state,
+And a sea against a machine that was only safe while cooled.
+Both springs were sudden.
+Neither was the end of what it began.
+
+The absurdity is a year when a cart and a wave
+Each brought down what was thought to be fixed.
+The striving is to keep the picture from being taken for the people,
+The shutdown from being taken for the cooling,
+And the night in the square
+From being taken for the years after it.
+
+Stand.
 
 
-*Chapter 347 not yet written.*
+# Chapter 347: The Second Place
+
+No holiday is named for this day.
+The leftover note on the computer coming into the home
+Is not this page.
+
+Before the machine could see, someone had to say what was seen.
+The set called {{p|ImageNet}} was gathered under Fei-Fei Li.
+Its pictures were labelled by people paid by the task,
+Through a market of small jobs on the net.
+The label is not the picture.
+The person who typed the label is not named in the set.
+
+In 2012 the challenge asks for a thousand kinds of thing.
+About one million two hundred thousand pictures are given for training.
+A thousand kinds are not every kind.
+A cat in the set is not every cat.
+
+In {{p|Toronto}}, Alex Krizhevsky, Ilya Sutskever,
+And Geoffrey Hinton enter a deep network.
+It has about sixty million weights
+And about six hundred and fifty thousand units.
+It is trained on two graphics cards
+Made for games.
+A card made for games is not a game.
+The training takes days, not years.
+
+The measure is the top five.
+A guess counts as right
+If the true label is among the five it names.
+Five tries are not one sight.
+The network's error is about fifteen in a hundred.
+The entry in second place errs about twenty-six in a hundred.
+The gap is not a rounding.
+Second place is not a failure of the second team.
+It is the end of a way of building.
+
+The units are made simpler.
+Some are switched off at random while it learns,
+So that no one of them carries the whole.
+A switched-off unit is not a lost unit.
+The method had been called a dead end for years.
+Being called a dead end is not being one.
+
+The results are shown in {{p|Florence}}, in October,
+At a workshop beside a larger meeting.
+The paper is given in December,
+At a meeting held by {{p|Lake Tahoe}}.
+The showing is not the paper.
+The paper is not the change.
+The change is the next years,
+When nearly every entry is a network like it.
+
+Earlier that summer a team at {{p|Google}}
+Let a large network watch frames of video
+Without labels,
+And a unit in it came to answer to faces of cats.
+Answering to cats is not knowing what a cat is.
+The machine does not know it is looking.
+
+A seeing machine is not an eye.
+It has no light of its own.
+It returns a word and a number for how sure it is.
+How sure it is is not whether it is right.
+The labels came from people,
+And what the people did not label
+The machine does not see.
+
+The absurdity is that sight came from games and from piecework,
+From cards built for play and labels typed for cents.
+The striving is to keep the score from being taken for the seeing,
+The label from being taken for the thing,
+And the people who typed the labels
+From being left out of the count.
+
+Stand.
 
 
-*Chapter 348 not yet written.*
+# Chapter 348: The Numbered Thing
+
+No holiday is named for this day.
+The leftover note on the birth of the network
+Is not this page.
+
+On Monday, the twenty-ninth of October, 2012,
+A new site opens, kept from {{p|Berlin}}
+By the German chapter of the movement
+That keeps the free encyclopedia.
+It is called {{p|Wikidata}}.
+Denny Vrandečić and Markus Krötzsch
+Had argued for such a thing for years.
+An argument is not a site.
+The site is not yet full.
+
+Each thing it holds is given a number with a letter.
+The universe is given the first.
+A writer of jokes about the universe
+Is given forty-two.
+The number is not the thing.
+The joke is not a rule.
+A number does not change when the name changes,
+And that is the reason for it.
+
+At first the site does one plain task.
+It keeps in one place the links
+Between the pages on the same subject
+In the different languages.
+A page in {{p|Hungary}}'s language
+Is among the first to take its links from there,
+In January of 2013.
+A link is not a fact about the world.
+It is a fact about the pages.
+
+Then the statements come.
+A thing has a property, and the property has a value.
+A person is an instance of human.
+A person has a father, and the father is another number.
+A father in the data is not a father at the table.
+A statement can carry a source.
+A statement without a source is still a statement.
+That is not the same as true.
+
+The data is given away
+With no rights kept back.
+Giving away is not losing.
+Machines can read it without asking,
+And the machines of large companies do.
+A free gift to everyone is also a gift to the largest.
+
+The register had been a book,
+Then a card, then a page on a screen.
+Now it is a graph that a machine can walk.
+A graph that can be walked is not a world that is known.
+Two numbers for one person are an error.
+One number for two people is an error of another kind.
+To merge is not to correct.
+To split is not to correct.
+Each needs a reason that can be shown.
+
+Lines of descent are written in it,
+Father to son, mother to daughter,
+And a machine can follow a line
+Back past where any one family remembers.
+Following a line is not the line being right.
+A loop in the line, where a man is his own ancestor,
+Is the data telling on itself.
+
+The ontology is made by whoever comes.
+Whoever comes is not everyone.
+The classes are argued over on talk pages,
+And the argument is part of the record.
+A class is not a kind in nature.
+It is a choice that was voted on,
+Or that no one undid.
+
+The absurdity is that the oldest wish of the register,
+To write every thing once and name it truly,
+Was given to strangers in their spare hours.
+The striving is to keep the number from being taken for the thing,
+The statement from being taken for the truth,
+And the line in the graph
+From being taken for the blood.
+
+Stand.
 
 
-*Chapter 349 not yet written.*
+# Chapter 349: Not Wittingly
+
+No holiday is named for this day.
+The leftover note on the shaping of genes
+Is not this page.
+
+On Tuesday, the twelfth of March, 2013,
+In {{p|Washington}}, a senator asks
+Whether the agency collects any type of data at all
+On millions of Americans.
+James Clapper answers, No, sir.
+Then he adds, Not wittingly.
+The added words are not the first answer.
+The first answer is the one the room heard.
+
+On Wednesday, the fifth of June,
+A paper in {{p|London}} prints an order
+From the secret court of {{p|Washington}}.
+It tells a telephone company
+To hand over, every day, the records of its calls.
+The records are not the words spoken.
+They are who called whom, and when, and for how long.
+Who called whom is not nothing.
+
+On Thursday, the sixth,
+That paper and a paper of {{p|Washington}}
+Print slides about a program they call PRISM.
+The slides name large companies of the net.
+The companies say they gave no door.
+A slide is not a door.
+A denial is not a description of the pipes.
+
+On Sunday, the ninth, in {{p|Hong Kong}},
+A young man in a hotel room
+Gives his name on camera.
+He is Edward Snowden.
+He had worked for a contractor in {{p|Hawaii}}.
+He took the files with him.
+Taking the files is not reading every one.
+The papers choose what to print.
+Choosing is not hiding.
+
+Glenn Greenwald and Laura Poitras were in the room.
+Barton Gellman wrote for the other paper.
+A reporter is not a source.
+A source is not a spy for the asking.
+The charge filed against him
+Names the act against espionage.
+A charge is not a verdict.
+
+On Sunday, the twenty-third,
+He flies to {{p|Moscow}}.
+His passport has been revoked.
+He stays in the transit zone of the airport
+For weeks.
+A transit zone is not a country.
+On Thursday, the first of August,
+He is given asylum for a year.
+Asylum is not a welcome.
+Where he stays is not what he said he wanted.
+
+The register had watched the people since the first census.
+The census counted heads and asked their names.
+This register counts the threads between the heads,
+And keeps them, in case.
+In case is not a reason.
+Keeping is not looking, the agency says.
+Not looking is not not keeping.
+
+The machine that was built to connect everyone
+Is also the best record ever made of who is connected.
+The same wire carries the letter and the copy.
+A copy is not a reading.
+A reading is not a judgment.
+A judgment, when it comes, comes from a secret court
+That hears one side.
+One side is not a hearing.
+
+The absurdity is that the register turned and looked back,
+And the ones it looked at learned it from a hotel room.
+The striving is to keep the metadata from being taken for nothing,
+The denial from being taken for the pipes,
+And the man in the airport
+From being taken for either a saint or a traitor
+Before the record is read.
+
+Stand.
 
 
 *Chapter 350 not yet written.*
