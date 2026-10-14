@@ -56586,7 +56586,7 @@ The proclamation did not reopen the office Ankara had closed.
 Holding a sanctuary is not the succession.
 
 He died in {{p|Paris}} on the twenty-third of August, 1944,
-While the city was being bombed.
+While the city was being taken back.
 {{c|Dürrüşehvar}} came and was given a promise.
 The body was not brought.
 On the thirtieth of March, 1954, he was buried at al-Baqi,
