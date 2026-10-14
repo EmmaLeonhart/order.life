@@ -8148,3 +8148,20 @@ a home, but it is where a home begins. A calendar still counting
 is a world that remembered to count. The one at the bedside is
 both near and far. 72 lines. Ends "Stand." Runway 348/364. Next
 is chapter 364, Milkomeda.
+
+## 2026-10-14 — ch 364 written: Milkdromeda
+
+Ophiuchus 28 (Milkomeda, the hard anchor that closes the Gaiad).
+No holiday is named; the day's leftover note on the union of
+Alpha and Omega is the subject, not the words. The last chapter
+answers the first: the broken thread of chapter 1 is tied.
+Andromeda is about 2.5 million light years away and coming at
+about 110 km/s; coming toward is not arriving. The 2012 study
+put the meeting at about 4.5 billion years; the 2025 study gave
+about even odds within ten billion years, and even odds is not
+certain. A choice to tell is not a claim to know. The stars do
+not strike; wide is not empty. Milkomeda and Milkdromeda are one
+thing. One is not the loss of two. A day for an age is a measure
+that can be kept. Whole is not finished; tomorrow the yarn is
+spun again. 73 lines. Ends "Stand." Runway 349/364. All chapters
+253 to 364 are written.

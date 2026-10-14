@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-363 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note). The next blank is 364.
-   - **Ch 364 (Ophiuchus 28):** Milkomeda (hard anchor, ch 364).
+   its line here when done. Ch 253-364 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note).
 8. **Ancestor lines: full dates in both calendars (Emma, 2026-10-12 15:09).** On her phone the iCal
    line reads "Died: Welf I von Altdorf Graf in Schwaben (0825)": the Gregorian year alone,
    zero-padded, on a Gaian day. She wants the date as the source gives it (Gregorian, or the native
