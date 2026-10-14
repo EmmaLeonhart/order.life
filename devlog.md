@@ -8131,3 +8131,20 @@ it. The skip is a page turned with the hand still on it. Not
 telling is not forgetting; it is trusting. 73 lines. Ends
 "Stand." Runway 347/364. Next is chapter 363, the cryonic
 revival.
+
+## 2026-10-14 — ch 363 written: The Waking
+
+Ophiuchus 27 (the cryonic revival, the hard anchor that closes
+the human period). No holiday is named; the waking is kept again
+in the leap days on the Birth of Horus. The day's leftover note
+on the cosmic reunion approaching was not used as such. Thursday
+12 January 1967, Bedford is the first kept with the hope of
+waking; a hope is not a method, and Ettinger's prospect is not a
+promise. Nothing decays is not nothing is lost. The law's dead
+and the keepers' patients are not one name. On the far side of
+the blank, the book says only that the sleepers are woken, and
+not how or when. A new name is not an erased one. A date is not
+a home, but it is where a home begins. A calendar still counting
+is a world that remembered to count. The one at the bedside is
+both near and far. 72 lines. Ends "Stand." Runway 348/364. Next
+is chapter 364, Milkomeda.
