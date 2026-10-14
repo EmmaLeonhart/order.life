@@ -7946,3 +7946,18 @@ impossible, and the program resigns. Four to one on Tuesday 15
 March. Cannot be defeated, in 2019, is not a law. Playing only
 itself is not playing no one. 73 lines. Ends "Stand." Runway
 336/364. Next is chapter 352, the populist turn.
+
+## 2026-10-14 — ch 352 written: Again
+
+Ophiuchus 16 (2016, the populist turn, invented tradition in
+politics). No holiday is named. The day's leftover note on the
+World Wide Web was not used. Thursday 23 June 2016, about fifty-
+two to forty-eight is not a divided country; the count made the
+division visible. Back is not a date. Cameron's going is not the
+leaving, and the letter of Wednesday 29 March 2017 is not the
+leaving either. Tuesday 8 November 2016, fewer votes across the
+country is not a lost election under that rule. The swearing on
+Friday 20 January 2017 is not the winning. Again is not a date.
+A crowd at a rally is the part of the nation that came. The book
+does not choose between the votes. 71 lines. Ends "Stand."
+Runway 337/364. Next is chapter 353, the Transformer.
