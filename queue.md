@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-320 are done (Virgo complete; Libra through Samhain; Scorpius through the recommendation).
-   - **Ch 321 (Scorpius 13):** 1953: DNA.
+   its line here when done. Ch 253-321 are done (Virgo complete; Libra through Samhain; Scorpius through the suggested copy).
    - **Ch 322 (Scorpius 14):** 1957: Sputnik. Holiday: Shichi-go-san.
    - **Ch 323 (Scorpius 15):** 1962 to 1965: Vatican II, the rite in the people's language.
    - **Ch 324 (Scorpius 16):** 1965: the Granite Mountain Records Vault, the Mormons microfilm the world's ancestors.

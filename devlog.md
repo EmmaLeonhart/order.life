@@ -6686,3 +6686,37 @@ the four o'clock reading. Soviet recognition on 17 May was not
 re-checked and is left out. The recommendation is not written as the
 country. The equality sentence is a charge the scroll wrote, not a
 report of the year. 94 lines. Ends "Stand." Runway 306/364.
+
+## 2026-10-13 — ch 321 written: The Suggested Copy
+
+Scorpius 13 (1953: DNA). On 25 April 1953 Nature printed three papers.
+Watson and Crick, from the Cavendish at Cambridge, wish to suggest a
+structure: two chains, adenine with thymine, guanine with cytosine.
+The pairing, they write, immediately suggests a possible copying
+mechanism for the genetic material. They say the suggestion was
+stimulated by the unpublished results and ideas of Wilkins, Franklin,
+and their co-workers at King's College, London. The paper begins on
+page 737 and ends on 738. It is not called one page. The second paper
+is Wilkins, Stokes, and Wilson. The chapter names Wilkins and his
+colleagues and does not list Stokes and Wilson. The third is Franklin
+and Gosling, pages 740–741. Their photograph of the salt, taken in
+1952, is in that issue under their names. Franklin had measured a
+helix, with the phosphates outside and the bases toward the middle.
+The claim that she failed to see her own photograph is refused.
+Watson's 1968 book says Wilkins showed him the photograph in the first
+months of 1953 and that his pulse raced. The book is his account,
+fifteen years on. The chapter tells the reader to take the April page.
+On 30 May 1953, five weeks later, Watson and Crick published the
+genetical implications. That paper is not the first sentence. Avery,
+MacLeod, and McCarty had shown in 1944 that the substance which changed
+a bacterium was this acid and not a protein. Hershey and Chase, the
+year before the April papers, argued that what a virus puts into a
+bacterium is the acid and not the coat. Chargaff had weighed the match
+of the bases and did not sign the April papers. Pauling's three-chain
+structure, earlier in 1953, did not hold. In 1962 the prize in
+physiology or medicine went to Watson, Crick, and Wilkins. Franklin
+had died in 1958. The prize is not given to the dead, and it is not
+moved back into April. A pairing can set the next chain. It does not
+say whether the copy should be made, or what the copy is for. The
+paper says suggests, and it says possible. 106 lines. Ends "Stand."
+Runway 307/364.
