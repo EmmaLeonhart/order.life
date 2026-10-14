@@ -6442,3 +6442,39 @@ future that table has. The phrase "halting problem" is not used for the
 1936 paper. In September he went to Princeton. The printed byline names the
 Graduate College. Gödel 1931 is a limit inside one system, not this limit.
 106 lines. Ends "Stand." Runway 300/364.
+
+## 2026-10-13 — ch 315 written: A Hand and a Name
+
+Scorpius 7 (1941 to 1945: the Holocaust, who survives, and the names kept,
+Yad Vashem, 1953). The Knesset passed the Martyrs' and Heroes' Remembrance
+(Yad Vashem) Law, 5713-1953, on 19 August 1953. That date is Yad Vashem's.
+A monograph cites publication in Book of Laws 132 on 28 August 1953; the
+chapter dates the passage, not the gazette. The name is Isaiah 56:5, yad
+vashem, a hand and a name, spoken in the verse to the eunuchs who would
+have no children. The law's first charge is the six million of the Jewish
+people murdered by the Nazis and their helpers. The chapter reports the
+statute's figure and does not perform its own count. It also follows the
+law in naming households, communities, houses of prayer, schools, and
+institutions of mercy, destroyed in a plan to blot out the name of Israel.
+Germany invaded the Soviet Union on 22 June 1941. Babyn Yar, at Kyiv, was
+29 and 30 September 1941. No perpetrator tally is used. On 31 July 1941
+Göring charged Heydrich to prepare what they called the final solution.
+That charge is not written as the first killing. Wannsee was 20 January
+1942. The minutes' eleven million is the plan's scope for the Jews of
+Europe, not a count of the dead. The number of men at the table is not
+pinned. At Oświęcim the camp was called Auschwitz. The Auschwitz Museum's
+last roll call, 17 January 1945, is 67,012. About 56,000 were marched out
+between 17 and 21 January. On 27 January the Red Army found about 7,000
+still there. The Soviet unit is not named: the accounts differ. The march's
+death toll is a range in the museum's own pages and is omitted. The
+crematoria are not described. The 1953 law also names the righteous among
+the nations who risked their lives to save Jews. The commission that judges
+each case is the early 1960s; 1962 and 1963 both appear, so the year is not
+pinned, and no total of the honored is given. JTA's bulletin of 20 August
+1953 says the bill passed that night, the Herut deputies did not vote, and
+the house stood for five minutes. The chapter keeps the abstention and the
+five minutes and dates the passage 19 August with the institution. Posthumous
+citizenship of the murdered, and honorary citizenship of the righteous, are
+left out: the first was not checked against the enacted text, and the second
+may be a later reading of the law. No camp list. No IBM. 119 lines. Ends
+"Stand." Runway 301/364.
