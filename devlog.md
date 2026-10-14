@@ -6912,3 +6912,37 @@ afterward. The arrest is the end used by later tellings, including
 the New York Times account. The 1981 party resolution is not moved
 back into October. Deng's return is chapter 328 and is not previewed.
 101 lines. Ends "Stand." Runway 311/364.
+
+## 2026-10-13 — ch 326 written: The Eagle and the Two Letters
+
+Scorpius 18 (1969: the Moon landing and ARPANET). Holiday on this day
+of the book: US Thanksgiving. The launch was 16 July 1969 from the
+cape then called Cape Kennedy, now Cape Canaveral. The center is the
+Kennedy Space Center. The names are not collapsed. A person had
+already left the Earth in the spring of 1961. Kennedy's charge was
+25 May 1961. The Eagle landed on 20 July on both clocks: 20:17 by
+Greenwich, 4:17 p.m. in the east of the United States. The second is
+not pinned. Armstrong said Houston, Tranquility Base here, the Eagle
+has landed. Collins stayed in Columbia and did not walk. The step was
+still 20 July in the United States, about 10:56 p.m. in the east, and
+21 July by Greenwich, about 02:56. The second on the tape is not
+settled. The little word between step and man is not settled. Before
+the step Aldrin asked on the open line for a pause and a thanks. The
+bread and wine, and the card from John about the vine and the
+branches, were not spoken on the open line. A machine struck the Moon
+in 1959. A machine set down and sent pictures in 1966. In December
+1968 three people went around and came back. The plaque says men,
+July 1969, and peace for all mankind. It does not give the day. The
+year was also a contest. The flag was held out by a rod. About
+twenty-one and a half hours on the ground, about two and a half
+outside. They left the ground on the twenty-first by both clocks.
+Splashdown 24 July in the Pacific. The ship was the Hornet. On 29
+October, 10:30 p.m. in Los Angeles, Charley Kline typed toward Bill
+Duvall at the Stanford Research Institute in Menlo Park, from Leonard
+Kleinrock's laboratory. The word meant was login. The first try
+carried LO and stopped. A further try went through. Santa Barbara and
+Utah were not on that night. The four were joined before the year was
+out. The money was a defense agency's. The web is not moved back.
+Thanksgiving 1969 was 27 November. The 1621 harvest at Plymouth and
+Lincoln's 1863 proclamation are not the same event, and neither is
+the landing. 142 lines. Ends "Stand." Runway 312/364.
