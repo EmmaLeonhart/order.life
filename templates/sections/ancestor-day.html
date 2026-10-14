@@ -11,7 +11,7 @@
   {%- elif e.geni -%}<a href="https://www.geni.com/people/x/{{ e.geni }}">{{ e.name }}</a>
   {%- else -%}{{ e.name }}{%- endif %}
   {%- if e.qid %} <a href="https://www.wikidata.org/wiki/{{ e.qid }}">{{ e.qid }}</a>{% endif %}
-  ({{ e.date }})
+  ({% if e.when and e.gaian %}{{ e.when }}; {{ e.gaian }}{% else %}{{ e.date }}{% endif %})
 {%- endmacro %}
 
 {% block content %}

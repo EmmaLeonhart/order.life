@@ -8165,3 +8165,11 @@ thing. One is not the loss of two. A day for an age is a measure
 that can be kept. Whole is not finished; tomorrow the yarn is
 spun again. 73 lines. Ends "Stand." Runway 349/364. All chapters
 253 to 364 are written.
+
+## 2026-10-14 — ancestor lines with full dates in both calendars
+
+Emma's screenshot of 2026-10-12 showed "Died: Welf I ... (0825)": the Gregorian year, zero-padded, on a
+Gaian day. Each entry in `content/ancestor_days.json` now carries `when` (the source's date written out,
+"3 October 825", "October 832", or verbatim for partial ones, "abt 825") and `gaian` (the Gaian date with
+its year from the ISO week, "Virgo 26, 10825 GE"). The iCal lines (`_ancestor_lines` in `build.py`) and the
+`/ancestors/<day>/` pages show "(when; gaian)". Rendered through `base.html` in a scratch venv to check.

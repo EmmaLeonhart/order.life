@@ -253,6 +253,34 @@ def any_year(value):
     return int(m[1]) if m else None
 
 
+GAIAN_MONTHS = ["Sagittarius", "Capricorn", "Aquarius", "Pisces", "Aries", "Taurus", "Gemini",
+                "Cancer", "Leo", "Virgo", "Libra", "Scorpius", "Ophiuchus", "Horus"]
+MONTH_NAMES = ["January", "February", "March", "April", "May", "June", "July", "August",
+               "September", "October", "November", "December"]
+
+
+def shown_date(value):
+    """The date as the source gives it (Emma, 2026-10-12: the Gregorian or native date, not a
+    bare zero-padded year): an exact date written out ("3 October 825"), anything else verbatim
+    ("abt 825", "from 1650 to 1660")."""
+    d = exact_date(value)
+    if d:
+        return f"{d.day} {MONTH_NAMES[d.month - 1]} {d.year}"
+    v = " ".join((value or "").split())
+    m = MY.match(v)
+    if m and m[1].lower() in MONTHS:
+        return f"{MONTH_NAMES[MONTHS[m[1].lower()] - 1]} {int(m[2])}"
+    return v
+
+
+def gaian_date(d):
+    """The Gaian date with its year, from the ISO week date: "Virgo 26, 10825 GE"."""
+    year, week, weekday = d.isocalendar()
+    doy = (week - 1) * 7 + weekday
+    month, day = ((doy - 1) // 28 + 1, (doy - 1) % 28 + 1) if doy <= 364 else (14, doy - 364)
+    return f"{GAIAN_MONTHS[month - 1]} {day}, {year + 10000} GE"
+
+
 def gaian_doy(d):
     _, week, weekday = d.isocalendar()
     return (week - 1) * 7 + weekday
@@ -311,7 +339,8 @@ def main(sources):
             continue
         for tag, key in (("BIRT", "births"), ("DEAT", "deaths")):
             for d in placed_dates(p[tag]):
-                e = {"name": p["name"] or "(no name)", "date": d.isoformat()}
+                e = {"name": p["name"] or "(no name)", "date": d.isoformat(),
+                     "when": shown_date(p[tag]), "gaian": gaian_date(d)}
                 if p["fsid"]:
                     e["fsid"] = p["fsid"]
                 elif p["geni"]:

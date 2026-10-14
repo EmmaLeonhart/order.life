@@ -409,15 +409,6 @@ Items, in order:
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
    its line here when done. Ch 253-364 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note).
-8. **Ancestor lines: full dates in both calendars (Emma, 2026-10-12 15:09).** On her phone the iCal
-   line reads "Died: Welf I von Altdorf Graf in Schwaben (0825)": the Gregorian year alone,
-   zero-padded, on a Gaian day. She wants the date as the source gives it (Gregorian, or the native
-   calendar's date) and the Gaian date. Work: keep the source's date text in
-   `content/ancestor_days.json` (`scripts/build_ancestor_days.py`), compute the Gaian date with year
-   (year + 10000, from the ISO week as now), and show both in `_ancestor_lines` in `build.py` and in
-   `templates/sections/ancestor-day.html`, e.g. "(14 March 825; Virgo 26, 10825 GE)"; for a date
-   placed by her rules, show what the source said ("abt 825"). No zero padding.
-
 9. **After every chapter is written: a systematic review of the whole Gaiad, in chronological order
    (Emma, 2026-10-12 15:56).** Her words: "a systematic review of all of the chapters in chronological
    order ... to review the degree that they satisfy all of the criteria that order.life is supposed

@@ -705,9 +705,16 @@ def _ancestor_lines(month_num, day_num):
     doy = _ancestor_doy(month_num, day_num)
     day = _ANCESTOR_DAYS.get(str(doy), {})
     lines = [f"ancestors: https://order.life/ancestors/{doy}/"]
-    lines += [f"Born: {e['name']} ({e['date'][:4]})" for e in day.get("births", [])]
-    lines += [f"Died: {e['name']} ({e['date'][:4]})" for e in day.get("deaths", [])]
+    lines += [f"Born: {e['name']} ({_ancestor_when(e)})" for e in day.get("births", [])]
+    lines += [f"Died: {e['name']} ({_ancestor_when(e)})" for e in day.get("deaths", [])]
     return lines
+
+
+def _ancestor_when(e):
+    """The source's own date, then the Gaian date with its year (Emma, 2026-10-12: both calendars)."""
+    if e.get("when") and e.get("gaian"):
+        return f"{e['when']}; {e['gaian']}"
+    return e["date"].lstrip("0") or e["date"]
 
 def _holiday_summary_with_emoji(h, lang="en"):
     """Return localized holiday summary prefixed with its emoji (if present)."""
