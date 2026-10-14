@@ -7263,33 +7263,41 @@ chapter 335, Deep Blue.
 
 ## 2026-10-13 — ch 335 written: The Nineteenth Move
 
-Scorpius 27 (1997: Deep Blue). No holiday is named for this day. The
-calendar's leftover note about DNA is not the theme. In February 1996,
-in Philadelphia, the Association for Computing Machinery's challenge,
-the machine won the first game on Saturday the tenth. He resigned
-before his thirty-seventh move. Hsu entered the moves on a terminal.
-He had already lost faster games. One report says no machine had
-beaten a person at the slow rate. Another says lesser masters had
-lost regulation games, and that under championship conditions no
-machine had beaten the best. This chapter keeps the narrower saying. On Sunday the eleventh the
-machine resigned on the seventy-third move. On Saturday the
-seventeenth he won the sixth. Three wins, two draws, one loss. The
-match was four to two. The two reports of 12 February do not choose
-one room for the first games. A report puts the machine upstate, and
-a screen in the room. One report says three minutes for a move in the
-same sentence as forty moves in two hours. That sentence is not split
-into two clocks. In May 1997, on the thirty-fifth floor of the
-Equitable Building in New York, the paper calls the Philadelphia
-machine an earlier, slower version. Saturday 3 May the handlers
-resigned it at the forty-fifth move. Sunday 4 May he resigned at the
-forty-fifth, after three hours and forty-two minutes. The paper of
-7 May says a drawing line had been missed by both. The point was not
-returned. Draws on the sixth, the seventh, and the tenth. Sunday the
-eleventh he resigned at the machine's nineteenth move. The match was
-three and a half to two and a half. The title did not move. That
-night he did not give a settled charge of a cheat. Tan said there was
-no human assistance during the games. The record was not given to him
-that night. That month he asked for ten games, every second day,
-across twenty days. The builders would not promise them. What was
-done with the machine afterwards is not this chapter. 136 lines.
+Scorpius 27 (1997: Deep Blue). No holiday is named for this day. In
+February 1996, in Philadelphia, Garry Kasparov played the Association
+for Computing Machinery's challenge. The match did not offer the title.
+The rate the reports settle on is forty moves in two hours. A report's
+three minutes is how far the machine can look, not that clock. He had
+lost five-minute games about two years before. The reports do not agree
+how wide the first win was. This chapter keeps the narrower saying:
+under championship conditions, no machine had beaten the best. On
+Saturday 10 February the machine won the first game. He resigned before
+his thirty-seventh move. Feng-Hsiung Hsu, called the principal designer,
+entered the moves. On Sunday 11 February he had white, and the machine
+resigned after the seventy-third move. On Saturday 17 February he won
+the sixth. Three wins, two draws, one loss: four to two. A report of
+12 February has him leave the convention center after the first game.
+In May 1997 the name was used again in New York, at the Equitable
+Building. The floor is not agreed. One report leaves the machine at
+Yorktown Heights and the board in the city. The paper on the second
+game calls the Philadelphia machine an earlier, slower version. On
+Saturday 3 May he had white. The column calls the opening a Reti. The
+handlers resigned the machine at the forty-fifth move. On Sunday 4 May
+the machine had white, a Ruy Lopez. He resigned at the forty-fifth
+move, after three hours and forty-two minutes. The paper of 7 May said
+a line there would draw, and that he and the machine had both missed
+it. Draws on Tuesday 6 May and Wednesday 7 May left the score two to
+two, where the earlier match had stood after four. On Saturday 10 May
+he offered the third draw and the handlers accepted. On Sunday 11 May
+the machine had white, a Caro-Kann. He resigned at the machine's
+nineteenth move. The match was three and a half to two and a half. The
+title was not offered. That night, asked if he was charging a cheat, he
+said the match had gone beyond his understanding, and that there was
+probably no way to prove which side had made a move. He said the making
+had been to beat him, and had not been the science. On the Saturday a
+copy of the record was to be left with a neutral party. That night it
+was not given to him or the public. Chung-Jen Tan said the record would
+be given at a fitting time. In the same month he asked for ten games,
+with a day between them. The builders did not promise them. What was
+done with the machine after the Sunday is not this page. 134 lines.
 Ends "Stand." Runway 320/364. Next is chapter 336, Y2K.
