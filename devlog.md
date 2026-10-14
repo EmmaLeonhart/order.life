@@ -7887,3 +7887,17 @@ is not the December paper by Lake Tahoe. The summer's cat unit
 is not knowing what a cat is. How sure is not whether right. 64
 lines. Ends "Stand." Runway 332/364. Next is chapter 348,
 Wikidata.
+
+## 2026-10-14 — ch 348 written: The Numbered Thing
+
+Ophiuchus 12 (2012, Wikidata, the register becomes a machine-
+readable ontology). No holiday is named. The day's leftover note
+on the network's birth was not used. Monday 29 October 2012,
+from Berlin, the site opens and is not yet full. The universe is
+the first number and forty-two is a writer of jokes; the number
+is not the thing. Hungarian pages take their links first, in
+January 2013, and a link is a fact about pages. A father in the
+data is not a father at the table. A statement is not the same
+as true. Merging and splitting are not correcting. A loop in the
+line is the data telling on itself. 74 lines. Ends "Stand."
+Runway 333/364. Next is chapter 349, Snowden.
