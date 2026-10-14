@@ -36,7 +36,7 @@ The way of that site is not set down.
 The paper of Monday, the ninth of February,
 Gives more than six hundred and fifty
 As of Sunday afternoon.
-He thought nine hundred by that morning.
+He thought nine hundred by the morning of the paper.
 A later telling puts six hundred and fifty
 Inside the first day.
 The counts are not made one.
@@ -44,9 +44,10 @@ The counts are not made one.
 He said the nature of the site
 Is that each person's experience improves
 If their friends join.
-He said the new thing was the names in a class,
-So a person who knew no one could ask for help.
-A student said the same.
+He said the new thing was a search of a class,
+So a person could start a friendship, or a study.
+A student said the names were how to ask for help
+When a person knew no one there.
 On the Wednesday two weeks on,
 He said he had downplayed the courses,
 Because people would use the social part.
@@ -74,8 +75,8 @@ What was sold in later years is not this February.
 Said a facebook was already a high priority,
 And was meant to be done by the end of the spring.
 The complication, he said,
-Was a directory that could be compiled
-Without authorization.
+Was how to keep a directory
+From being compiled without authorization.
 He said there was nothing inherently wrong
 With a site where students chose
 To make a personal network.
@@ -93,7 +94,7 @@ A person at one school could not open
 A person at another.
 The Monday paper gives just under
 Seven thousand five hundred in the whole,
-And five thousand fifty-five at Harvard
+And five thousand fifty-five students at Harvard
 As of the last day of February.
 He wrote that eighty-five in a hundred at Harvard
 Had registered.
@@ -103,16 +104,16 @@ A paper in {{p|New York}} says a member
 Could post one picture, not an album.
 An earlier network there is not this site.
 
-He said the server was about eighty-five dollars a month,
-And that he paid it.
+He said the server was about eighty-five dollars a month.
+The paper says he paid it.
 A later telling puts a thousand dollars
 With {{c|Eduardo Saverin}},
-To keep the site up for two months.
+To keep the site up for at least two months.
 The sums are not made one.
 The lists of who began it do not agree.
 {{c|Chris Hughes}} is named that March
 As the one who spoke for the site.
-{{c|Dustin Moskovitz}} is in the later lists.
+{{c|Dustin Moskovitz}} is named that March, writing the programs.
 This chapter does not close the list.
 
 In the summer he and Moskovitz went to the valley
@@ -135,7 +136,7 @@ A feed of what the friends did is not this year.
 The absurdity is a house book of faces
 Becoming a graph of who named whom.
 The reason for going slowly
-Was that a directory can be compiled.
+Was keeping a directory from being compiled.
 The use of the week
 Was that a friend of a friend can be looked up.
 The striving is to keep a named friend

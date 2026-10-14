@@ -7564,3 +7564,17 @@ shorter name is not this year. The opening past the schools is
 not this year. A feed of what the friends did is not this year.
 149 lines. Ends "Stand." Runway 325/364. Next is chapter 341,
 Google Books.
+
+## 2026-10-13 — ch 340 corrected: the Monday morning, the student's sentence, the directory
+
+The nine hundred is the morning of the Monday paper, not the
+Sunday morning. Zuckerberg said the new thing was a search of a
+class, for a friendship or a study. The student said the names
+were how to ask for help when a person knew no one there. Davis
+said the complication was how to keep a directory from being
+compiled without authorization. The five thousand fifty-five are
+students. He said the server was about eighty-five dollars a
+month. The paper says he paid it. The later thousand was to keep
+the site up for at least two months. Moskovitz is named that
+March, writing the programs. 150 lines. Ends "Stand." Runway
+stays 325/364. Next is chapter 341, Google Books.
