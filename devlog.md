@@ -7901,3 +7901,17 @@ data is not a father at the table. A statement is not the same
 as true. Merging and splitting are not correcting. A loop in the
 line is the data telling on itself. 74 lines. Ends "Stand."
 Runway 333/364. Next is chapter 349, Snowden.
+
+## 2026-10-14 — ch 349 written: Not Wittingly
+
+Ophiuchus 13 (2013, Snowden, the register watches back). No
+holiday is named. The day's leftover note on genetic engineering
+was not used. Tuesday 12 March 2013, the added words are not the
+first answer. Wednesday 5 June, the call records are not the
+words spoken, and who called whom is not nothing. Thursday 6
+June, a slide is not a door. Sunday 9 June, in Hong Kong, the
+papers choose what to print, and choosing is not hiding. A
+charge is not a verdict. A transit zone is not a country.
+Keeping is not looking, and not looking is not not keeping. One
+side is not a hearing. 75 lines. Ends "Stand." Runway 334/364.
+Next is chapter 350, the Islamic State.

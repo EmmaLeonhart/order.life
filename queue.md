@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-348 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note). The next blank is 349.
-   - **Ch 349 (Ophiuchus 13):** 2013: Snowden, the register watches back.
+   its line here when done. Ch 253-349 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note). The next blank is 350.
    - **Ch 350 (Ophiuchus 14):** 2014: the Islamic State, reactionary invented tradition.
    - **Ch 351 (Ophiuchus 15):** 2016: AlphaGo, the oldest game falls.
    - **Ch 352 (Ophiuchus 16):** 2016: the populist turn, invented tradition in politics.
