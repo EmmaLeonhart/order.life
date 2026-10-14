@@ -7116,3 +7116,12 @@ questions be identified and that initial options be drafted. A heading
 is not a safeguard. The reference sequence, the draft of 2000, and the
 completion of 2003 are not this October. 150 lines. Ends "Stand."
 Runway 315/364. Next is chapter 331, 1991, the Soviet collapse.
+
+## 2026-10-13 — ch 330 corrected: the plan's gene figure is the same range the Times had given
+
+The scientific goals say the human genome consists of 50,000 to
+100,000 genes. The Times of 4 October 1988 gave roughly the same
+range. The executive summary's opening says an estimated 100,000,
+the number whose places the work would find. The two wordings are
+both in the April plan. Neither is a count. 152 lines. Ends "Stand."
+Runway stays 315/364.
