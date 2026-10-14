@@ -8028,3 +8028,20 @@ the last person who wished to leave. Emma's 2021 in Europe: a
 gap in the book is not a gap in the life. 69 lines. Ends
 "Stand." Runway 341/364. Next is chapter 357, Ukraine, ChatGPT,
 Sudowrite and Christmas.
+
+## 2026-10-14 — ch 357 written: The Longest Night
+
+Ophiuchus 21 (2022, Russia's full invasion of Ukraine, ChatGPT,
+and Emma's Sudowrite). This is Christmas Day and the Dongzhi
+Festival. The day's leftover note on the Great Recession was not
+used. Tuesday 18 March 2014, a treaty signed by one side of a
+border is not a border moved; the war is older than 2022.
+Thursday 24 February 2022, a name is not a thing, and expected
+is not done. Bucha's dead are not counted. A vow is not a wall.
+Wednesday 30 November 2022, a million trying is not a million
+understanding, and the even voice is not the truth. Emma's first
+writing with a machine, Sudowrite, was not a book written by
+one; choosing what stays is the writing. Sunday 25 December 2022
+in Ukraine: moving a date is not moving a faith. The returning
+light is not peace. 71 lines. Ends "Stand." Runway 342/364. Next
+is chapter 358, Shinto overseas and Emma's 2023.
