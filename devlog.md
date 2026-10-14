@@ -6633,3 +6633,56 @@ not signed and is not a treaty. The covenants that bind a state which
 accepts them came later and are not moved back into this night. The
 preamble names barbarous acts and does not name the camps or the
 cities. 105 lines. Ends "Stand." Runway 305/364.
+
+## 2026-10-13 — ch 320 written: The Recommendation
+
+Scorpius 12 (1947 and 1948: Partition, and Israel, splits). No holiday
+was confirmed for the day. General Assembly resolution 181 (II), 29
+November 1947, in New York, recommended a partition of the Palestine
+mandate. The vote was 33 for, 13 against, 10 abstentions, and one
+absent (Thailand, then also called Siam). The chapter does not list
+the roll. The United States and the Soviet Union voted for it.
+Britain, the mandatory power, abstained. The plan is an Arab state, a
+Jewish state, and Jerusalem as a corpus separatum under an
+international regime. The mandate was to end not later than 1 August
+1948. The two states and the city were to come into existence not
+later than 1 October 1948. Boundaries, corridors, and area figures
+are not catalogued. The Jewish Agency accepted the plan. The Arab
+Higher Committee rejected it. The chapter does not treat either
+people as one mind, and it does not name a spokesman. Britain ended
+the mandate at midnight on the night of 14 to 15 May 1948, earlier
+than the plan's last date. The High Commissioner, Alan Cunningham,
+and the ship are left out. On 14 May 1948, at four in the afternoon,
+in the museum in Tel Aviv, David Ben-Gurion read the Declaration of
+the Establishment of the State of Israel. The state takes effect from
+the end of the mandate that night. The scroll claims a natural and
+historic right and the strength of the Assembly's resolution. It does
+not draw the plan's borders as the state's borders. It says complete
+equality of social and political rights to all its inhabitants,
+irrespective of religion, race, or sex. One English rendering says
+citizens; the chapter follows inhabitants. It says the holy places of
+all religions will be safeguarded, and that the state will be faithful
+to the principles of the Charter. The closing words put trust in the
+Rock of Israel (Tzur Yisrael). The chapter says the words can be heard
+as God or as the people, and that the text does not choose. The
+signatory count, the length of the reading, Hatikvah, the gavel, and
+the orchestra are left out. The declaration's date for a constituent
+assembly, not later than 1 October 1948, is left out of the verse.
+The Arab state in the plan was not declared. On 15 May the armies of
+Egypt, Transjordan, Syria, Lebanon, and Iraq entered. Transjordan is
+the name used in 1948. No battle is catalogued. No village is named.
+Deir Yassin is not made the meaning of the year. No death toll is
+chosen. Refugee counts conflict, and the chapter refuses a number.
+People left their houses, and people were driven from them. Neither
+sentence cancels the other. Later departures of Jews from Arab
+countries are outside 1947 and 1948 and are left out. The 1949
+armistice dates are left out so the chapter stays inside those two
+years. Jerusalem was not set up as the separated city. The fighting
+divided it. The international regime was not established. The United
+States recognized the state de facto on 14 May. The minute is omitted.
+Washington at 6:11 in the evening is about eleven minutes after the
+mandate's midnight on the American clock, not eleven minutes after
+the four o'clock reading. Soviet recognition on 17 May was not
+re-checked and is left out. The recommendation is not written as the
+country. The equality sentence is a charge the scroll wrote, not a
+report of the year. 94 lines. Ends "Stand." Runway 306/364.
