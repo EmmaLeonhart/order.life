@@ -7163,3 +7163,38 @@ the Council of the Republics adopted declaration 142-N: with the
 commonwealth, the union as a state and a subject of international law
 ceases. The four sentences are not collapsed. 133 lines. Ends
 "Stand." Runway 316/364. Next is chapter 332, the Web goes public.
+
+## 2026-10-13 — ch 332 written: Files on the Net
+
+Scorpius 24 (1991: the Web goes public). No holiday is named for this
+day. The sixth of August is not the sixth of August 1945. In March
+1989 Tim Berners-Lee gave Mike Sendall a proposal at the laboratory
+by Geneva. The day of the month is not settled. Sendall wrote vague
+but exciting. The proposal asked for a place to put a thing and a way
+to find it afterwards, generality ahead of fancy graphics. Enquire,
+in 1980, did not leave its machine. In May 1990 the proposal was
+circulated again. In October he and Robert Cailliau reformulated it,
+and he chose World Wide Web over Information Mesh, the Mine of
+Information, and the Information Mine. On 12 November 1990 the two
+dated WorldWideWeb: Proposal for a HyperText Project. It asks for
+three months and three more, and for four software engineers and a
+programmer. The months and the number are the proposal's. On 20
+December 1990 the laboratory's timeline dates the first server and
+the first page, info.cern.ch, on a NeXT. His word is Christmas for
+the browsers being shown. The two are not one morning. Nicola Pellow
+began the line-mode browser in November 1990. March 1991 was a
+limited audience. 17 May was the central machines. Inside is not the
+net. His 1995 chronology: files available on the net, posted on
+alt.hypertext on 6, 16, and 19 August, comp.sys.next on the 20th,
+comp.text.sgml and comp.mail.multi-media on the 22nd. The sixth was
+a Tuesday and is the first, not the only notice. October starts the
+anonymous telnet. It is not moved into August. Hypertext '91 in San
+Antonio was a poster and a demonstration, not an adoption. His 1995
+list puts a first server outside Europe at SLAC in May. SLAC dates
+the installation to Thursday 12 December 1991. His email of the 13th
+names Terry Hung, Paul Kunz, and Louise Addis, an experimental server
+for the SPIRES database. Menlo Park is not the 1969 room. On 30 April
+1993 the directors declared the technology freely usable, no fee to
+CERN. That declaration, and Mosaic, are not this August. 137 lines.
+Ends "Stand." Runway 317/364. Next is chapter 333, 1995, Aum
+Shinrikyo.
