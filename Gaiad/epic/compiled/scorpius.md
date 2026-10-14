@@ -2361,15 +2361,19 @@ A later telling calls {{c|Deng Xiaoping}} the leader from this session.
 The titles in the communique are the titles of that week.
 A later change of chairman is not this December.
 
-On the fifteenth of December the two states announced
+On the fifteenth of December, in {{p|Washington}},
+And on the sixteenth, in {{p|Beijing}},
+The two states announced
 That relations would begin on the first of January.
+Do not collapse the two dates of the announcement.
 On the twenty-ninth of January, 1979,
 {{c|Deng Xiaoping}} was received in {{p|Washington}},
 As vice premier.
 {{c|Jimmy Carter}} welcomed him.
 On the thirty-first they signed agreements
 On science, and on culture.
-The visit ran to the fourth of February.
+A communique dated the official visit through the fourth of February.
+He left {{p|Seattle}} on the morning of the fifth.
 The visit is not the day the relations began.
 An agreement on a science is not a constitution.
 Do not say one sentence opened a market.
