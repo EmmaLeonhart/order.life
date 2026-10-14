@@ -7915,3 +7915,19 @@ charge is not a verdict. A transit zone is not a country.
 Keeping is not looking, and not looking is not not keeping. One
 side is not a hearing. 75 lines. Ends "Stand." Runway 334/364.
 Next is chapter 350, the Islamic State.
+
+## 2026-10-14 — ch 350 written: The Borrowed Robe
+
+Ophiuchus 14 (2014, the Islamic State, reactionary invented
+tradition). This is the Ides of Ophiuchus. The day's leftover
+note on the AIDS crisis was not used. Monday 3 March 1924, in
+Ankara, an abolished office is not a forgotten one. Tuesday 10
+June 2014, Mosul falls and leaving is not losing a battle.
+Sunday 29 June, the first of the fast, a declaration is not a
+consensus. Friday 4 July, at al-Nuri, recalling the Abbasids is
+not descending, and a pulpit is not a lineage. Saying the rules
+are old is not their being old. Sunday 3 August at Sinjar, a
+people with no book is not a people with no tradition. Khaled
+al-Asaad is killed on Tuesday 18 August 2015. The pulpit going
+on 21 June 2017 is not the idea going. 79 lines. Ends "Stand."
+Runway 335/364. Next is chapter 351, AlphaGo.
