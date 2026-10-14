@@ -6419,3 +6419,26 @@ the liberation of the city. The line now says the city was being taken back.
 The Çatalca night and the next evening's train are left as written: TDV has
 the car that night, and the Times has the Simplon-Orient Express on the
 evening of 4 March. 149 lines. Ends "Stand."
+
+## 2026-10-13 — ch 314 written: Finite Means
+
+Scorpius 6 (1936: Turing, what can be computed). Born London, 23 June 1912.
+Fellow of King's College, Cambridge. The work was done there. Hilbert's
+decision problem: a procedure that, for every statement of the logic, says
+whether it has a proof. Computable numbers are reals whose decimals are
+calculable by finite means. The machine is a finite table, a tape of
+squares, one symbol seen, one condition at a time. He did not call it by
+his own name. The machines can be listed and the reals cannot. A universal
+machine follows another machine's table written on the tape. The London
+Mathematical Society received the paper on 28 May 1936. He was twenty-three.
+The paper's own line says it was read on 12 November 1936. Copeland: part
+issued 30 November 1936, the rest 23 December 1936. The common "published
+1937" is the volume's other dating, and it is not used. A correction is in
+the next volume. Church's effective calculability, spring 1936, reached the
+same refusal by another definition. Newman had seen Church's paper. The
+appendix says the two definitions meet. No machine settles Hilbert's
+question for every statement. No machine says, for every table, which
+future that table has. The phrase "halting problem" is not used for the
+1936 paper. In September he went to Princeton. The printed byline names the
+Graduate College. Gödel 1931 is a limit inside one system, not this limit.
+106 lines. Ends "Stand." Runway 300/364.
