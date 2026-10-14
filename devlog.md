@@ -7858,3 +7858,18 @@ holding already promised. It is not the same sentence as
 "should be below." Neither sentence says pre-industrial.
 150 lines. Ends "Stand." Runway stays 330/364. Next is
 chapter 346, the Arab Spring and Fukushima.
+
+## 2026-10-14 — ch 346 written: The Square and the Cooling
+
+Ophiuchus 10 (2010 to 2011, the Arab Spring and Fukushima). No
+holiday is named. The day's leftover note on a moon landing was
+not used. Friday 17 December 2010, in Sidi Bouzid, the cart is
+not a cause. Ben Ali's flight on 14 January is not a trial.
+Tahrir fills on the police's own holiday, and the cut network of
+28 January does not keep the crowd in. Mubarak's office goes to
+the army, not to the square. Resolution 1973 is not a named
+change of ruler. The networks did not walk. Friday 11 March
+2011, 14:46 in Japan: the shutdown is not the cooling, hydrogen
+is not the core, and the rating of seven is not Chernobyl's day.
+The dead are not counted. 94 lines. Ends "Stand." Runway
+331/364. Next is chapter 347, AlexNet.
