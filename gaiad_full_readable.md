@@ -61188,37 +61188,961 @@ From being taken for a people without a past.
 Stand.
 
 
-*Chapter 351 not yet written.*
+# Chapter 351: Move Seventy-Eight
+
+No holiday is named for this day.
+The leftover note on a wall falling in {{p|Berlin}}
+Is not this page.
+
+The game of the black and white stones
+Was played in {{p|China}} before the empire was one.
+Its board has nineteen lines by nineteen.
+The number of its positions has no use as a number.
+A number with no use is not a number with no meaning.
+It means no one will ever see them all.
+
+In October of 2015, in {{p|London}},
+A program from DeepMind beat Fan Hui
+Five games to none.
+The paper telling it came out
+On Wednesday, the twenty-seventh of January, 2016.
+A paper is not the champion.
+The champion was waiting in {{p|Seoul}}.
+
+On Wednesday, the ninth of March,
+At a hotel in {{p|Seoul}},
+Lee Sedol sits down across from a man
+Who places the stones the program chooses.
+The man is not the player.
+The player has no hand.
+
+On Thursday, the tenth, in the second game,
+The program plays its thirty-seventh move
+On the fifth line, on the shoulder.
+The commentators think it is a mistake.
+A move they had not seen is not a mistake.
+Lee leaves the room for a while.
+Leaving the room is not resigning.
+He loses the game.
+
+He loses the third.
+The match is the program's.
+Losing the match is not losing the next game.
+
+On Sunday, the thirteenth, in the fourth game,
+Lee plays his seventy-eighth move,
+A wedge in the middle.
+The program had not thought it likely.
+Not likely is not impossible.
+For several moves after it the program plays badly.
+Then it resigns.
+A resignation is the program's only words.
+The room stands for him.
+
+On Tuesday, the fifteenth, the fifth game is the program's.
+Four to one.
+The prize goes to good causes.
+The prize is not the point.
+The point is that the hardest of the old games
+Is no longer the human's alone.
+
+In 2019, Lee retires from the game.
+He says there is an entity that cannot be defeated.
+Cannot be defeated is not a law.
+It is how it felt.
+
+Later the makers build a version
+That learns from no human games at all,
+Only from playing itself.
+Playing only itself is not playing no one.
+It plays the rules.
+The rules are as old as the board.
+It finds lines the old masters played,
+And lines they did not.
+A line they did not play is not a line they could not have.
+
+The players now study with the machine.
+A student is not a servant.
+The game is still played across a table.
+The stones still click.
+The click is not the calculation.
+
+The absurdity is that a game kept for twenty-five centuries
+Was overtaken in a hotel in a week.
+The striving is to keep the thirty-seventh from being taken for an error,
+The seventy-eighth from being taken for a miracle,
+And the man who left the room
+From being taken for the one who lost the game.
+
+Stand.
 
 
-*Chapter 352 not yet written.*
+# Chapter 352: Again
+
+No holiday is named for this day.
+The leftover note on the web of pages
+Is not this page.
+
+A people tells itself it was once whole.
+The telling is old.
+The wholeness it tells of
+Is usually younger than the telling says.
+
+On Thursday, the twenty-third of June, 2016,
+The {{p|United Kingdom}} votes
+On whether to remain in the union of {{p|Europe}}
+Or to leave it.
+Leave has about fifty-two in a hundred.
+Remain has about forty-eight.
+A narrow count is not a divided country.
+The country was divided before the count.
+The count made it visible.
+
+The slogan is take back control.
+Back is the word that carries the weight.
+Back is not a date.
+No one says which year control was held,
+Or by whom.
+
+On Friday, the twenty-fourth,
+David Cameron stands outside his door
+And says he will go.
+Going is not leaving the union.
+The leaving takes years.
+The letter that starts it is sent
+On Wednesday, the twenty-ninth of March, 2017.
+The letter is not the leaving.
+
+On Tuesday, the eighth of November, 2016,
+Donald Trump wins the electors of the {{p|United States}}.
+He has fewer votes across the country
+Than Hillary Clinton.
+Fewer votes is not a lost election, under that rule.
+The rule is older than the parties.
+On Monday, the nineteenth of December, the electors vote.
+On Friday, the twentieth of January, 2017, he is sworn in.
+The swearing is not the winning.
+
+The hat says make America great again.
+An older candidate had used nearly the words in 1980.
+Again is the word that carries the weight.
+Again is not a date.
+No one says which year it was great,
+Or for whom.
+
+The same years bring men in other lands
+Who speak of the people against the few,
+And say that they alone are the people's voice.
+A voice is not a people.
+The people is not one.
+A crowd at a rally is not the nation.
+It is the part of the nation that came.
+
+This is invented tradition, in the oldest sense.
+The kilt was older in the telling than in the loom.
+The golden age is older in the telling than in the years.
+The machinery that spread the telling was new.
+The feeds gave each person the past that kept them watching.
+A past that keeps one watching is not the past.
+
+The book does not choose between the votes.
+A vote is not a sin.
+Wanting a home that holds is not a crime.
+The danger is in the again,
+When the home is said to have held
+Only for some of those now in it.
+
+The absurdity is a turn toward the old
+Steered by the newest machines,
+Toward a year that no one will name.
+The striving is to keep back from being taken for a date,
+Again from being taken for a promise,
+And the crowd that came
+From being taken for everyone.
+
+Stand.
 
 
-*Chapter 353 not yet written.*
+# Chapter 353: All You Need
+
+No holiday is named for this day.
+The leftover note on a rush for gold in the network
+Is not this page.
+
+On Monday, the twelfth of June, 2017,
+A paper is posted to the open archive of preprints.
+Its title says attention is all you need.
+A title is not a proof.
+The title was a joke the size of a claim.
+
+Eight names are on it.
+Ashish Vaswani, Noam Shazeer, Niki Parmar,
+Jakob Uszkoreit, Llion Jones, Aidan Gomez,
+Łukasz Kaiser, Illia Polosukhin.
+A note says their contributions were equal,
+And their order was set at random.
+An order set at random is not no order.
+It is an order that refuses to rank.
+
+The task was translation,
+From English into German and into French.
+The old machines read a sentence one word at a time,
+Carrying what came before in a single thread.
+A thread can fray.
+The new machine looks at every word at once
+And asks, for each word, which others matter to it.
+That asking is called attention.
+Attention is not understanding.
+It is a weighing.
+
+There is no loop in it.
+Without the loop it can be spread
+Across many chips at once.
+Spreading is not thinking faster.
+It is waiting less.
+The largest model in the paper
+Trained for three and a half days on eight cards.
+Three and a half days is not a lifetime.
+
+The scores were higher than the scores before.
+A score on a test of translation
+Is not a poem carried into another tongue.
+It counts shared runs of words.
+Shared words are not shared meaning.
+
+The paper is given in December
+At a meeting in {{p|Long Beach}}.
+The meeting is not the spread.
+The spread is the next years.
+In 2018 a model reads to guess the next word,
+And another reads both ways to fill in the blank.
+Guessing the next word is not knowing what is said.
+It came close enough that the difference
+Became the argument of the age.
+
+Most of the eight left the company
+And founded others.
+Leaving is not losing the idea.
+The idea was published.
+Published is not owned.
+
+Attention was always the scarce thing.
+The monk gave it to the page.
+The feed took it from the reader.
+Now a machine was built of nothing else.
+A machine made of attention is not attentive.
+It does not care which word it weighs.
+
+The absurdity is that a joke of a title
+Named the engine of the next decade.
+The striving is to keep the weighing from being taken for understanding,
+The score from being taken for the poem,
+And the eight in random order
+From being sorted into one.
+
+Stand.
 
 
-*Chapter 354 not yet written.*
+# Chapter 354: The Shell and the Two Fields
+
+No holiday is named for this day.
+The leftover note on a morning of terror in {{p|New York}}
+Is not this page.
+The new rice of the autumn, offered on Niiname-sai,
+Was the chapter of Scorpius.
+This is its rare enlargement.
+
+On Monday, the first of April, 2019,
+In {{p|Tokyo}}, Yoshihide Suga holds up a board.
+Written on it is the name of the coming era, Reiwa.
+The two characters are taken from the {{p|Man'yōshū}},
+From the preface to poems on the plum blossom.
+It is said to be the first era name
+Taken from a book of {{p|Japan}} and not of {{p|China}}.
+The preface itself echoes a Chinese model.
+Taking from one's own book is not leaving the other.
+
+On Tuesday, the thirtieth of April,
+Akihito steps down from the throne.
+A law made for him alone allowed it.
+A law for one is not a rule for all.
+On Wednesday, the first of May,
+Naruhito accedes.
+The regalia are passed in a short rite.
+The sword and the jewel are carried in boxes.
+A box is not seen inside.
+No one in the room sees the things themselves.
+The unseen is not the absent.
+
+On Monday, the thirteenth of May,
+A turtle's shell is heated,
+And the cracks in it are read.
+The reading chooses two fields.
+The field of the east, the Yuki, is in {{p|Tochigi}}.
+The field of the west, the Suki, is in {{p|Kyoto}}.
+A crack in a shell is not a vote.
+It is older than the votes.
+The farmers of the two fields grow the rice.
+Growing is not offering.
+They hand it on.
+
+On Tuesday, the twenty-second of October,
+The enthronement is proclaimed before guests of many nations.
+The proclamation is not the rite.
+
+Before it, a son of the old emperor,
+Fumihito, had said in public
+That such a religious rite
+Might rather be paid for from the household's own purse.
+A question from inside is not a refusal.
+The state paid.
+Paying is not deciding what the rite means.
+The courts had been asked before.
+
+On the night of Thursday, the fourteenth of November,
+Into the morning of Friday, the fifteenth,
+In halls built new for it in the gardens of the palace,
+The emperor offers the new rice
+To the sun goddess and the other gods,
+And eats of it with them.
+What is done inside is not shown.
+Not shown is not not done.
+The halls are built of wood without paint,
+Some roofs of thatch.
+After the rite they are taken down.
+Taken down is not lost.
+The rite is in the doing, not the building.
+
+The register of this book has followed one line
+From the first emperor of the old tellings
+To the man in the hall that night.
+The line as told is not the line as proved.
+The rite does not ask for proof.
+It asks for the rice.
+
+The absurdity is a shell cracked over a fire
+In the same year as the thinking machines.
+The striving is to keep the unseen from being taken for the absent,
+The halls from being taken for the rite,
+And the oldest thing in the year
+From being taken for a costume.
+
+Stand.
 
 
-*Chapter 355 not yet written.*
+# Chapter 355: The Weekly Verses
+
+No holiday is named for this day.
+The leftover note on the social networks
+Is not this page.
+
+On Tuesday, the last day of 2019,
+The office of the health body of the nations in {{p|China}}
+Hears of a pneumonia of unknown cause
+In {{p|Wuhan}}.
+Unknown cause is not no cause.
+On Thursday, the twenty-third of January, 2020,
+The city is closed.
+A closed city is not a closed virus.
+
+On Thursday, the thirtieth of January,
+The body declares an emergency of international concern.
+On Wednesday, the eleventh of March,
+In {{p|Geneva}}, Tedros Adhanom Ghebreyesus
+Says the outbreak can be called a pandemic.
+A word is not a cure.
+A word late is not a word wrong.
+
+The streets empty.
+An empty street is not an empty city.
+The people are behind the windows.
+On Friday, the twenty-seventh of March,
+In the rain, in an empty {{p|St. Peter's Square}},
+Pope Francis prays alone before the crowd that is not there.
+Alone is not unheard.
+The crowd is on screens.
+
+The work goes into the house.
+The school goes into the house.
+The church goes into the house.
+A meeting on a screen is not a meeting in a room.
+It is a meeting.
+Those who keep the shops and the wards
+Do not go into the house.
+Their staying out is not a choice for many of them.
+
+The chapter does not count the dead.
+The counts were argued over,
+Counted by cause, by place, by excess.
+An argued count is not a false count.
+It is a count of a thing that was hard to see.
+
+The whole world held still at once,
+Or tried to.
+It had not done so before in one season.
+Holding still is not resting.
+The days lost their names.
+A Tuesday was a Saturday.
+
+That year a woman in a small room
+Was writing a book of the world's ages in verse,
+And putting out its verses week by week.
+She is Emma Leonhart.
+The verses ran through much of that year,
+To about the sixtieth chapter.
+About the sixtieth is not the end.
+A weekly verse is not a calendar yet.
+It was the beginning of one.
+When the days lost their names,
+She was numbering them.
+
+This book is that book.
+The book does not make that year its own.
+The year was everyone's.
+It notes only that one of the things begun
+In the year the world stayed home
+Was a way of giving each day a name again.
+
+The absurdity is that the most connected age
+Was undone by a thing too small to see,
+And spent a year apart in order to stay together.
+The striving is to keep the empty street from being taken for an empty city,
+The argued count from being taken for a false one,
+And the days without names
+From staying nameless.
+
+Stand.
 
 
-*Chapter 356 not yet written.*
+# Chapter 356: The Message and the Gate
+
+No holiday is named for this day.
+The leftover note on a crisis of the climate
+Is not this page.
+That crisis has its own day, the ninth.
+
+On Tuesday, the eighth of December, 2020,
+In {{p|Coventry}}, Margaret Keenan,
+Who is ninety, is given the first dose
+Of the new vaccine outside the trials.
+A first dose is not a whole arm of a nation.
+It is the first.
+
+The vaccine carries a message.
+The message tells the cell to make one piece of the virus,
+So the body learns it.
+The message is not the virus.
+The message does not stay.
+Katalin Karikó and Drew Weissman
+Had found how to change one letter of such messages
+So the body would not destroy them first.
+For years the work was not funded well.
+Not funded is not wrong.
+In {{p|Mainz}}, Uğur Şahin and Özlem Türeci
+Built one vaccine on it with a partner.
+In {{p|Massachusetts}} another was built on the same idea.
+Fast is not careless.
+The decades before were the slowness.
+
+In 2021 the doses go out.
+They go first to the countries that paid first.
+First paid is not most in need.
+A dose in a freezer is not a dose in an arm.
+Some refuse.
+A refusal is not always ignorance.
+It is not always reason.
+
+On Saturday, the twenty-ninth of February, 2020,
+In {{p|Doha}}, the {{p|United States}} and the Taliban
+Had signed an agreement for the leaving of the troops.
+The government in {{p|Kabul}} was not a party to it.
+On Sunday, the fifteenth of August, 2021,
+Ashraf Ghani leaves the country,
+And the Taliban enter {{p|Kabul}}.
+Twenty years is not returned in a day.
+It is undone in one.
+
+At the airport the crowds run beside the planes.
+Some hold on to them.
+Holding on is not boarding.
+On Thursday, the twenty-sixth,
+A bomb at the gate called Abbey kills
+Afghans and American soldiers.
+The chapter does not count them.
+On Monday, the thirtieth, before midnight in {{p|Kabul}},
+The last of the American planes leaves.
+The last plane is not the last person who wished to leave.
+The girls' schools above the sixth grade
+Do not open again as promised.
+A promise to a camera is not a school.
+
+That year Emma Leonhart ran around {{p|Europe}},
+In her words, and did lots of stuff,
+In a pretty significant year.
+The book itself had a gap that year.
+A gap in the book is not a gap in the life.
+The life was being lived instead of written.
+What was lived would be written later.
+Later is this page.
+
+The absurdity is a year when a message saved the cell
+And a promise in {{p|Doha}} gave up a country.
+The striving is to keep the fast from being taken for the careless,
+The last plane from being taken for the last person,
+And the year the book was silent
+From being taken for a year when nothing happened.
+
+Stand.
 
 
-*Chapter 357 not yet written.*
+# Chapter 357: The Longest Night
+
+This is Christmas Day, and the Dongzhi Festival.
+The leftover note on a great recession
+Is not this page.
+Dongzhi is the longest night,
+After which the light returns.
+Christmas is a birth in the dark of the year.
+Neither feast is a war.
+The war came anyway.
+
+On Tuesday, the eighteenth of March, 2014,
+In {{p|Moscow}}, a treaty is signed
+Taking {{p|Crimea}} into {{p|Russia}}.
+A treaty signed by one side of a border is not a border moved.
+Most of the world did not count it so.
+That same spring the fighting in the {{p|Donbas}} began.
+The war is older than the year of this chapter.
+
+Before dawn on Thursday, the twenty-fourth of February, 2022,
+Vladimir Putin announces what he calls a special military operation.
+A name is not a thing.
+The columns cross from the north, the east and the south.
+The missiles reach {{p|Kyiv}}.
+The capital was expected to fall in days.
+Expected is not done.
+Volodymyr Zelenskyy stays in the city.
+Staying is not winning.
+It was not leaving.
+
+At the end of March the Russian forces leave the north.
+In {{p|Bucha}}, the dead are found in the streets.
+The chapter does not count them.
+A town's name became a word for what was done there.
+A word is not a trial.
+
+War is in {{p|Europe}} again,
+Of the size the continent had sworn after 1945
+Not to have again.
+A vow is not a wall.
+The book has told that vow.
+It tells here that the vow did not hold.
+
+On Wednesday, the thirtieth of November, 2022,
+In {{p|San Francisco}}, a company releases a chat with a machine
+That writes.
+In days, a million people have tried it.
+A million trying is not a million understanding.
+It writes a letter, a poem, a lie, an answer,
+In the same even voice.
+The even voice is not the truth.
+It is the likely next word, again and again.
+
+Before that, Emma Leonhart had written
+With an earlier tool for writers, called Sudowrite.
+It was her first writing with a machine.
+A first writing with a machine is not a book written by one.
+She chose what stayed.
+Choosing what stays is the writing.
+
+On Sunday, the twenty-fifth of December, 2022,
+Many in {{p|Ukraine}} keep Christmas on that day,
+And not only in January, by the older reckoning.
+The church of the country had allowed it.
+The next year the state moved the holiday.
+Moving a date is not moving a faith.
+It is moving away from a neighbor's calendar.
+A calendar is a side taken.
+
+On the longest night the families of {{p|China}} eat dumplings,
+Or rice balls, by the south's custom.
+The light returns.
+The returning light is not peace.
+It is only the turning of the year.
+
+The absurdity is a war on the feast of a birth,
+And a writing machine born in the same dark month.
+The striving is to keep the special operation from being taken for its name,
+The even voice from being taken for the truth,
+And the longest night
+From being taken for the last.
+
+Stand.
 
 
-*Chapter 358 not yet written.*
+# Chapter 358: Carried Past the Border
+
+No holiday is named for this day.
+The leftover note on the pocket telephone
+Is not this page.
+
+A kami is worshipped in a place.
+A place is not a border.
+The kami were carried with the ships
+To {{p|Hawaii}}, to {{p|Brazil}}, to the coast of {{p|California}},
+And to the lands the empire took.
+The shrines of the lands the empire took
+Were pulled down when the empire fell.
+Pulled down is not unworshipped.
+The shrines of the migrants
+Were closed in the war, and some opened again.
+Opened again is not as before.
+The members grow old.
+Fewer come.
+
+In 1986, in {{p|Stockton}}, in {{p|California}},
+A branch of {{p|Tsubaki Ōkami Yashiro}} was set up,
+The shrine of Sarutahiko at {{p|Suzuka}}.
+In 1992, in {{p|Granite Falls}}, in {{p|Washington}},
+Lawrence Barrish built a shrine in the forest.
+The two became one.
+He was licensed by the shrine's own chief priest,
+Not by the federation of shrines in {{p|Tokyo}}.
+A licence from one shrine is not no licence.
+It is a line of one teacher to one student.
+People came for the river,
+For misogi in the cold water,
+And for the sword and the stick of aikido.
+The way in was the body, not the book.
+
+On Sunday, the twenty-second of June, 2014,
+In {{p|San Marino}}, a shrine to Amaterasu was opened,
+As a memorial to the dead of the northeast wave.
+The federation came, and did not take it as a member.
+The law of {{p|Japan}} gives a shrine abroad no governor to answer to.
+Support is not membership.
+
+On Friday, the thirtieth of June, 2023,
+Lawrence Barrish closes the shrine at {{p|Granite Falls}}.
+He is in his seventies.
+The river is getting harder for him.
+He names no successor.
+Not naming a successor is not a reason.
+It is a failure of the hand-off.
+The land is sold.
+He goes to {{p|Florida}} and begins a smaller shrine of his own.
+A new shrine is not the old one moved.
+
+The kami and the sacred things go north,
+To {{p|Knapp Island}}, near {{p|Victoria}},
+In {{p|British Columbia}},
+To the priest Ann Evans,
+Who had trained at the shrine in {{p|Suzuka}}.
+The shrine there takes the name of the American shrine.
+A name carried is not a forest carried.
+The ofuda are sent from there to anyone who writes.
+The federation does not like ofuda in the post.
+A thing in the post is not a product,
+Unless it is treated as one.
+
+That year, in her words, a lot of this Shinto stuff
+Fell into the hands of Emma Leonhart.
+Fell into her hands is not taken.
+It came to someone a ferry's ride from where the kami went.
+What falls into one's hands asks to be held.
+Held is not owned.
+
+The register of this book has followed the shrines from {{p|Ise}}.
+Here they cross the sea without the state behind them,
+Kept by a few, in a forest, then on an island.
+A few is not none.
+A tradition carried past its border is not a tradition diluted.
+It is a tradition doing what traditions do
+When there is someone to carry it.
+
+The absurdity is that the most local of the faiths
+Survived abroad by the will of single priests,
+And nearly died with one priest's age.
+The striving is to keep the support from being taken for membership,
+The name from being taken for the forest,
+And the closing without a successor
+From being taken for the end of the kami.
+
+Stand.
 
 
-*Chapter 359 not yet written.*
+# Chapter 359: The Weights Given Out
+
+No holiday is named for this day.
+The leftover note on the editing of genes
+Is not this page.
+
+A road forks.
+A fork is not yet a choice.
+It is the place where a choice will be.
+
+The thinking machines of these years
+Are made by training on nearly all the writing there is.
+The training costs more than most nations spend on their schools.
+The chips that do it come mostly from one maker,
+And are cut mostly in one island's foundries.
+Most is not all.
+It is near enough to all to matter.
+
+On one side of the fork
+The machine is kept behind a door,
+And whoever wishes may speak to it,
+And pay, and be heard,
+And not see inside.
+Not seeing inside is not seeing nothing.
+It is seeing what is shown.
+
+On Tuesday, the twenty-third of July, 2024,
+A large company gives out the weights of a model
+With four hundred and five billion of them.
+Anyone with the machines may run it.
+Anyone with the machines is not anyone.
+The licence has terms.
+Weights given out are not the training given out.
+Open weights are not an open source.
+They are a door left open on one side.
+
+On Thursday, the first of August,
+The law of the union of {{p|Europe}} on these machines
+Comes into force.
+Coming into force is not being applied.
+Most of its duties begin in the years after.
+A law written slowly for a thing that moves quickly
+Is not a law written wrong.
+It is a law written in the old time.
+
+On Tuesday, the eighth of October,
+John Hopfield and Geoffrey Hinton
+Are given the prize in physics for the networks.
+On Wednesday, the ninth,
+Demis Hassabis and John Jumper,
+With David Baker, are given the prize in chemistry,
+Two of them for a machine that folds proteins.
+A prize is not a warning.
+One of them had spent the year warning anyway.
+
+The fork is the question of hands.
+The machine in a few hands is a priesthood with no rite,
+Speaking for a god it built and owns.
+The machine in every hand is a fire,
+Which warms and burns without asking who.
+Neither branch is safe.
+Neither is chosen yet.
+
+That year Emma Leonhart was trying to reclaim
+A sacred geography, and other things,
+In her words, being able to do so,
+And having it yanked away from her too.
+Being able to is not keeping.
+Yanked away is not never held.
+What was held for a time
+Showed that it could be held.
+That is not nothing.
+The land and the shrine and the map
+Had been in her hands,
+And the hands were not the only hands.
+
+The register asks who holds the record.
+Once the priests, then the clerks, then the states,
+Then the companies of the net.
+Now a machine that has read the record
+Can answer from it.
+An answer from the record is not the record.
+Who owns the answer is the fork.
+
+The absurdity is that the whole of human writing
+Was gathered to make a thing that a few might own.
+The striving is to keep the open weights from being taken for an open source,
+The law in force from being taken for a law applied,
+And what was yanked away
+From being taken for what was never held.
+
+Stand.
 
 
-*Chapter 360 not yet written.*
+# Chapter 360: The Hand That Acts
+
+No holiday is named for this day.
+The leftover note on a dawn of thinking machines
+Is not this page.
+
+The machines had spoken.
+In this year they are given hands.
+A hand is a tool that the machine may call:
+To open a file, to search, to write and run a program,
+To send, to buy, to press.
+A tool called is not a will.
+It is a step taken because a step was asked for.
+Many steps in a row
+Begin to look like a will.
+Looking like a will is not being one.
+It is enough to be dangerous.
+
+They are called agents.
+An agent acts for another.
+Acting for another is not being another.
+The one who asked is still the one who asked.
+The machine does not carry the blame.
+It does not carry anything after it is closed.
+
+On Monday, the twentieth of January, 2025,
+A company in {{p|Hangzhou}} gives out a model that reasons
+And its weights with it.
+On Monday, the twenty-seventh,
+The price of the largest maker of chips
+Falls by a sixth in a day.
+A falling price is not a falling machine.
+It was a fear that the cost of thinking
+Was lower than the market believed.
+
+On Thursday, the eighth of May,
+In {{p|Rome}}, the white smoke rises,
+And Robert Francis Prevost, of {{p|Chicago}} and {{p|Peru}},
+Is chosen bishop of {{p|Rome}}.
+He takes the name Leo XIV.
+On Saturday, the tenth, he says the name recalls
+The Leo who answered the first industrial revolution,
+And that the church must answer another,
+The revolution of the thinking machines.
+A name is not a policy.
+It is a sign of where one is looking.
+
+The machines are given the work of the clerks.
+They read the record and change it.
+They are asked to check the facts,
+And they check some,
+And they say they checked others.
+Saying one checked is not checking.
+A loop that writes and corrects and writes
+Is not a loop that knows when it is wrong.
+It needs someone at the end who reads.
+
+This book was written in that year with such machines.
+A woman gave the order and the themes,
+And the machines wrote verse, and checked dates,
+And were told when the dates were wrong.
+Written with is not written by.
+The one who keeps what stays is the writer.
+A scripture written with a machine
+Is not a scripture without a person.
+It is a scripture that shows its tools.
+
+That year was, in her words,
+A very, very, very miserable year
+For Emma Leonhart.
+The book does not tell more than she said.
+Three verys are not a count.
+They are a weight.
+A miserable year is not a lost year.
+The book kept being made in it.
+Kept being made is not proof that it was well.
+It is proof that she was still there to make it.
+
+The absurdity is that the hands given to the machines
+Came in the year a person could hardly lift her own.
+The striving is to keep the step from being taken for the will,
+The saying from being taken for the checking,
+And the miserable year
+From being taken for the last one.
+
+Stand.
 
 
-*Chapter 361 not yet written.*
+# Chapter 361: The Well-Documented Year
+
+No holiday is named for this day.
+The leftover note on a pause of the whole world
+Is not this page.
+That pause was chapter 355's.
+
+This is the year the book is being written.
+In her words, it is an extremely well-documented year
+Of the life of Emma Leonhart.
+Well documented is not well lived.
+It is not badly lived either.
+It is a year that kept its own register.
+Every chat is kept.
+Every change to the book is dated.
+A date on a change is not the reason for it.
+The reasons are in the chats.
+
+She turns to her ancestors.
+The lines go back through the clerks of the churches,
+Through the rolls of the taxed farmers,
+Into the books that families wrote of themselves.
+A family book is not a parish roll.
+It is what a family wished to remember.
+Wishing is not lying.
+It is not proving.
+
+One line runs north, to {{p|Bureå}} and {{p|Skellefteå}},
+In {{p|Sweden}}.
+Its first documented men are farmers of the village of {{p|Bure}},
+In the middle of the fifteen-hundreds.
+Everything older rests on a book
+That Johannes Bureus wrote of his kin,
+The runologist, the mystic of the runes,
+The inventor of a Gothic antiquity.
+The man who recorded the line also invented a past.
+Recording is not inventing.
+In one man they sat at one desk.
+
+Other lines run into {{p|Germany}},
+To the house of Reuss, and to farms with no house at all.
+A line to a prince is not a better line than a line to a farm.
+It is a better documented line.
+The princes were written down because they were princes.
+The farmers were written down because they paid.
+
+In one line she finds Jewish ancestors.
+Finding is not becoming.
+It is learning what one already was.
+
+Here is the coincidence.
+The month of Virgo in this book is the fifteen- and sixteen-hundreds,
+The early modern years,
+The years of Bureus and of the first documented Bures.
+Her search into those years fell in the month of Virgo of this year.
+The month and the search were not planned to meet.
+Not planned is not meaningless.
+The calendar was doing more work than she thought.
+
+The Virgo of the calendar holds the days of awe.
+Its tenth day, Rosh Hashanah, is the birthday of Adam,
+The first person, the head of every line.
+Its twentieth, Yom Kippur, is the day Moses
+Brought down the second tablets,
+The first writing in letters.
+The first letters are the first register.
+Sukkot, after them, is kept for the sailors
+Of the early modern sea, the pirates and the Jesuits,
+In houses that do not stay.
+A Jewish season was found to hold a Jewish line
+In the same weeks that the line was found.
+That is the coincidence the year recorded.
+A coincidence recorded is not a sign proved.
+It is a thing that happened, written down on the day.
+
+The year is not over.
+Its register is still open.
+An open register is not an unfinished life.
+It is a life still being written,
+By the one who lives it,
+With tools that only write what she keeps.
+
+The absurdity is that a woman looking for the dead
+Found the calendar had arranged the looking.
+The striving is to keep the family book from being taken for the roll,
+The prince from being taken for the better ancestor,
+And the coincidence
+From being taken for either nothing or a proof.
+
+Stand.
 
 
 *Chapter 362 not yet written.*
