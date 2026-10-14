@@ -7789,3 +7789,12 @@ is six days later. Why is not agreed. The program's offer to
 others, a second person's payment, a market price, and a pizza
 are not this Saturday or this year. 105 lines. Ends "Stand."
 Runway 329/364. Next is chapter 345, climate.
+
+## 2026-10-14 — ch 344 corrected: the March agreement, the signed line's first sum
+
+The March event is an agreement. The closing is not that March.
+The signed law lets the available sum begin at two hundred fifty
+billion, with room, on further steps, to seven hundred. The
+first sum is not the whole. It is not an earlier draft set apart
+from the signed line. 107 lines. Ends "Stand." Runway stays
+329/364. Next is chapter 345, climate.
