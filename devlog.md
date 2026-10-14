@@ -6513,3 +6513,39 @@ mornings are not a proof that no other act could have ended the war,
 and they are not a proof that a city was a price rightly paid. The
 sky over Kokura hid the aim. A procedure had chosen the names. 87
 lines. Ends "Stand." Runway 302/364.
+
+## 2026-10-13 — ch 317 written: The Plugs and the Point
+
+Scorpius 9 (1945 and 1947: ENIAC and the transistor). The construction
+contract was signed on 5 June 1943 at the Moore School in Philadelphia,
+for firing tables for the Ballistic Research Laboratory. Herman
+Goldstine brought the Army's part. John Mauchly and J. Presper Eckert
+designed the machine. The work was Project PX. On 10 December 1945
+the room was put to work. The work of that December, brought by John
+von Neumann from Los Alamos, was a study of a further weapon, which
+had not been made. The cities of August are already past. The machine
+did not hold its instructions. Plugs and switches set a problem, and
+it counted in tens. A stored program is a later form. Six computers
+were set to it: Kay McNulty, Jean Jennings, Betty Snyder, Marlyn
+Wescoff, Frances Bilas, Ruth Lichterman. Goldstine called them
+operators. The designation for the women was subprofessional. On the
+evening of 14 February 1946 they showed it. Snyder and Jennings had
+set the demonstration, a shell's path. Herman and Adele Goldstine
+were credited. The dedication was the next day. The dinner did not
+invite the six. The press said giant brain. The chapter refuses that,
+and refuses the claim that this was the first: Tommy Flowers had
+already set a machine of tubes in England to a purpose that was kept
+secret, Konrad Zuse had already run a sequence on a machine of relays
+in Berlin and the bombing destroyed it in 1943, and John Atanasoff
+and Clifford Berry had started a machine of tubes at Ames and stopped
+in 1942. ENIAC was turned on at Aberdeen on 29 July 1947 and turned
+off at eleven forty-five at night on 2 October 1955. On 16 December
+1947, in the afternoon, at Murray Hill, John Bardeen and Walter
+Brattain made two gold points on germanium steer a larger current.
+They had not named it. William Shockley was the group's head and was
+not the hand that day. On 23 December he called the demonstration a
+magnificent Christmas present. Early in 1948 he worked out a junction
+device, a layer between two layers. It was not the December object.
+John Pierce's word, transistor, was chosen before the announcement.
+They told the press in New York on 30 June 1948. 120 lines. Ends
+"Stand." Runway 303/364.
