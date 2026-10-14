@@ -59721,22 +59721,24 @@ That night he spoke from the house.
 The speech of that night is not the Friday.
 On Friday the fourteenth, at the cathedral
 In {{p|Washington}},
-He said they were in the middle hour of their grief.
+He said, we are here in the middle hour of our grief.
 They came to pray for the missing and the dead,
 And for the ones who loved them.
 The grief is not a trick.
 The use of the grief is not the grief.
 
 On Sunday the sixteenth he said the word crusade,
-For the war on terror.
-His spokesman said he regretted the word,
-And meant a broad cause.
+For the war on terrorism.
+His spokesman said he would regret the word
+If it upset a partner, and that he had meant a broad cause.
+The papers said he regretted it.
+The two sayings are not one.
 The word had been said.
 A regret he spoke in 2004 is not this autumn.
 The chapter does not take the word up.
 
 On Thursday the twentieth he said
-A person was with them, or with the terrorists.
+Every nation was with them, or with the terrorists.
 He set demands on the men who held {{p|Afghanistan}}:
 Give up the leaders they were sheltering.
 {{c|Osama bin Laden}} was named.
