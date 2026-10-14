@@ -58406,7 +58406,7 @@ Confessed defeat across the empire’s seas;
 In Times Square strangers, dazzled, found a dare,
 And sealed a vow with one unbridled squeeze.
 
-On Labor Day the treaty met its fate;
+The second of September set its fate;
 Steel decks became the altar of release.
 The working world inhaled and sealed its fate,
 Proclaiming labor’s covenant of peace.
@@ -58470,6 +58470,70 @@ So ended war and dawned the workers’ dream,
 With lamps and bells and grains beneath the sky;
 The plague of hate dissolved like distant steam,
 And human hands began to build on high.
+
+The signing in the bay was the second of September, a Sunday.
+Labor Day was the Monday after.
+Do not make the holiday the hour of the treaty.
+
+The harvest before a broken shrine, in this chapter,
+Is the autumn of 1945.
+Forty-five years later the first harvest rite of a reign
+Was done again.
+{{c|Hirohito}} died on the seventh of January, 1989.
+{{c|Akihito}} was emperor from that day.
+The era is called Heisei.
+The night rite did not make him emperor.
+
+On the twelfth of November, 1990,
+In the palace hall in {{p|Tokyo}},
+The accession was proclaimed.
+That day was a state ceremony.
+Guests from other countries were in the room.
+That day is not the night rite.
+
+On the eighth of February the two provinces were chosen.
+{{p|Akita}} for the yuki rice, the field to the north and east.
+{{p|Ōita}} for the suki rice, the field to the south and west.
+The yuki rice was cut on the twenty-eighth of September.
+The suki rice was cut on the tenth of October.
+
+On the twenty-second and the twenty-third of November,
+In temporary halls in the East Gardens of the palace,
+He offered new rice to the imperial ancestors
+And to the deities of heaven and earth,
+And he ate of what he had offered.
+The court's sentence is thanks, and a prayer
+For peace and for the harvest.
+The first hall was the evening of the twenty-second,
+From half past six until half past nine.
+The second was after midnight, from half past twelve
+Until half past three on the morning of the twenty-third.
+Do not collapse the two dates.
+The twenty-third is the public holiday on the old date
+Of the yearly rite, Niiname-sai.
+This night is the Daijōsai, the first of a reign.
+It is once. The one before it was in 1928.
+Do not say the great rite had been kept every November.
+
+The papers spoke of a sun goddess and a bed.
+The household's ritualists said he does not lie on it.
+This chapter does not furnish the room.
+A prayer for peace is not a report that the peace was finished.
+The night was a ceremony of the imperial house,
+Not a state ceremony.
+The purse was argued, a religious act
+And the public money in the same argument.
+No sum is chosen.
+The constitution's word for him was not changed that night.
+The English word divine is not this offering.
+Do not say the harvest undid the New Year sentence.
+Do not say that sentence had made the harvest impossible.
+
+A broken offering and a full one are not the same rite.
+Both are a thanks.
+A thanks is not yet the peace it names.
+
+Stand.
 
 
 *Chapter 330 not yet written.*
