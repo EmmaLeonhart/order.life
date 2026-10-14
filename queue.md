@@ -408,9 +408,8 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-327 are done (Virgo complete; Libra through Samhain; Scorpius through the registered fellowship).
+   its line here when done. Ch 253-328 are done (Virgo complete; Libra through Samhain; Scorpius through as of 1979). The next modern chapter that is still a blank is 330. Ch 329 is a revision of a chapter that already exists, not a new file.
 
-   - **Ch 328 (Scorpius 20):** 1978 and 1979: Deng opens China; the Iranian Revolution.
    - **Ch 329 (Scorpius 21), revise:** weave Heisei's 1990 Daijōsai into "The Covenant of Peace" (decided 2026-10-12; see the draft's Scorpius note). Holiday: Niiname-sai.
    - **Ch 330 (Scorpius 22):** 1990: the Human Genome Project begins.
    - **Ch 331 (Scorpius 23):** 1991: the Soviet collapse.

@@ -6989,3 +6989,46 @@ exemption in 1972. The Pagan Front in Britain had been named by 1971.
 Neither is this letter. A later folkish use is not moved back into May.
 In 1975 the Althing made the next recognition harder. 149 lines. Ends
 "Stand." Runway 313/364.
+
+## 2026-10-13 — ch 328 written: As of 1979
+
+Scorpius 20 (1978 and 1979: Deng opens China; the Iranian Revolution).
+No holiday was confirmed for this day. The third plenary session of
+the 11th Central Committee sat in Beijing from 18 to 22 December 1978.
+The Jingxi Hotel is the place often named and is left out of the verse.
+Hua Guofeng presided and remained chairman. Deng Xiaoping was a
+vice-chairman. On 13 December, at the close of the working conference
+that prepared the session, he spoke. The speech is "Emancipate the
+Mind, Seek Truth from Facts, and Unite as One in Looking to the
+Future." It is not the communique. The communique was adopted on
+22 December. It says the large-scale movement to expose and criticize
+Lin Biao and the gang of four had in the main been completed
+victoriously, and that the stress of the party's work should shift to
+socialist modernization as of 1979. The word victoriously is kept as
+the communique's word and is not a count. Attendance, 169 members and
+112 alternates, is left out of the verse. The Four Modernizations are
+an older name and are not treated as coined that week. The special
+economic zones are a later marking and are not moved back. Hua was not
+removed in December. A later change of chairman is outside this
+session. On 15 December 1978 the United States and China announced
+that relations would begin on 1 January 1979. Deng was received in
+Washington on 29 January as vice premier. Carter welcomed him. On
+31 January they signed agreements on science and on culture. The joint
+press communique dates the visit from 29 January to 4 February. The
+visit is not the day relations began. His other offices that month are
+not listed. The cowboy hat is not used. On 16 January 1979 Mohammad
+Reza Pahlavi left Tehran. No abdication was signed. Shapour Bakhtiar
+remained prime minister. On 1 February Ruhollah Khomeini landed at
+Mehrabad at 9:30 a.m. local time, on a chartered Air France aircraft
+from Paris. Exile is given as fourteen years and as fifteen. Neither
+is chosen. Crowd figures differ, and none is chosen. He spoke at the
+airport and went to Behesht-e Zahra. On 11 February Bakhtiar's
+government fell. The armed forces' declaration of neutrality is the
+usual account of that day and is not narrated past the fall. The
+referendum on an Islamic republic was 30 and 31 March. The figure of
+more than 98 percent is not used. A constitution vote is dated
+November in one account and December in another, and is left out. The
+embassy of 4 November 1979 is left out. The shah's death in 1980 is
+left out. The two winters are not written as one event. The
+communique's ended campaign is not a filled grave, and chapter 325 is
+not retold. 101 lines. Ends "Stand." Runway 314/364.
