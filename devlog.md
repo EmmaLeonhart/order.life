@@ -8061,3 +8061,20 @@ carried is not a forest carried. Emma's 2023, in her words: a
 lot of this Shinto stuff fell into her hands. Held is not owned.
 Carried past its border is not diluted. 78 lines. Ends "Stand."
 Runway 343/364. Next is chapter 359, the fork and Emma's 2024.
+
+## 2026-10-14 — ch 359 written: The Weights Given Out
+
+Ophiuchus 23 (2024, the fork, the machine in few hands or
+everyone's; alongside it, Emma's 2024). No holiday is named. The
+day's leftover note on CRISPR was not used. A fork is not yet a
+choice. Most chips from one maker is not all, but near enough to
+matter. Tuesday 23 July 2024, weights given out are not the
+training given out, and open weights are not an open source.
+Thursday 1 August, the EU law in force is not yet applied.
+Tuesday 8 and Wednesday 9 October, a prize is not a warning. The
+few hands are a priesthood with no rite; every hand is a fire;
+neither branch is chosen. Emma's 2024, in her words: reclaiming
+a sacred geography and having it yanked away. Yanked away is not
+never held. An answer from the record is not the record. 79
+lines. Ends "Stand." Runway 344/364. Next is chapter 360, agents
+and Emma's 2025.
