@@ -7931,3 +7931,18 @@ people with no book is not a people with no tradition. Khaled
 al-Asaad is killed on Tuesday 18 August 2015. The pulpit going
 on 21 June 2017 is not the idea going. 79 lines. Ends "Stand."
 Runway 335/364. Next is chapter 351, AlphaGo.
+
+## 2026-10-14 — ch 351 written: Move Seventy-Eight
+
+Ophiuchus 15 (2016, AlphaGo, the oldest game falls). No holiday
+is named. The day's leftover note on the Berlin Wall was not
+used. Fan Hui loses five to none in October 2015, and the paper
+of Wednesday 27 January 2016 is not the champion. Wednesday 9
+March, in Seoul, the man who places the stones is not the
+player. Thursday 10 March, the thirty-seventh move on the fifth
+line is not a mistake, and leaving the room is not resigning.
+Sunday 13 March, Lee's seventy-eighth is not likely and not
+impossible, and the program resigns. Four to one on Tuesday 15
+March. Cannot be defeated, in 2019, is not a law. Playing only
+itself is not playing no one. 73 lines. Ends "Stand." Runway
+336/364. Next is chapter 352, the populist turn.
