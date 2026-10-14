@@ -6549,3 +6549,45 @@ device, a layer between two layers. It was not the December object.
 John Pierce's word, transistor, was chosen before the announcement.
 They told the press in New York on 30 June 1948. 119 lines. Ends
 "Stand." Runway 303/364.
+
+## 2026-10-13 — ch 318 written: The Same Footing
+
+Scorpius 10 (1945 to 1946: the Shinto Directive, the Humanity Declaration,
+the founding of Jinja Honchō). SCAPIN-448, 15 December 1945, from GHQ
+SCAP to the imperial government through the Central Liaison Office, Tokyo.
+The subject is the abolition of governmental sponsorship, support,
+perpetuation, control, and dissemination of State Shinto (Kokka Shinto,
+Jinja Shinto). Public funds and official affiliation stop. A voluntary
+private gift may continue. The ground of a park may still be kept; the
+shrine on it is not to be paid from public funds. Officials may not visit
+a shrine in their official capacity to report taking office, to report the
+state of affairs, or to represent the government at a rite. Militaristic
+and ultra-nationalistic propagation is forbidden in Shinto and in every
+other religion. The stated aim is to separate religion from the state and
+to set all religions on the same legal footing. The order does not close
+a shrine or pull a building down. Dyke's description of the religion as
+manufactured is not used. The Jingiin was set up on 9 November 1940 as an
+external bureau of the Home Ministry and was ended as of 31 January 1946
+by imperial ordinance after the directive. The chapter says November 1940
+and the last day of January, and does not pin the ninth. The Religious
+Corporations Ordinance was promulgated and put in force on 28 December
+1945. Hirohito's rescript of 1 January 1946 is titled the construction of
+a new Japan. Ningen sengen is the name people gave it, not the title.
+It was printed in the newspapers. It is not the 15 August broadcast.
+It opens on Meiji's five clauses of the Charter Oath. The English says
+the tie is not predicated on the false conception that the emperor is
+divine and that the Japanese are superior and fated to rule the world.
+The rescript's word is akitsumikami (現御神), not the commoner arahitogami.
+The chapter does not treat the two as one word, and does not treat the
+English "divine" as the whole of the Japanese. FRUS prints "predicted"
+for "predicated"; the chapter follows the translation that says
+predicated. A cabinet-and-MacArthur approval on 30 December is left out
+of the verse. On 23 January 1946 the Kōten Kōkyūsho, the Dainippon
+Jingikai, and the Jingū Hōsaikai declared an association under the inner
+shrine at Ise (Kōtai Jingū) as honso. Jinja Honchō was established on
+3 February 1946. On 2 February the shrines on the register, and Yasukuni,
+were deemed religious corporations. Most shrines, not all, came under the
+association. Yasukuni is its own corporation and is not written as a
+member. Today's shrine count is not used. The present Yoyogi address is
+not used for 1946. The first officers are not named. 119 lines. Ends
+"Stand." Runway 304/364.
