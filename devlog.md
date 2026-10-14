@@ -7873,3 +7873,17 @@ change of ruler. The networks did not walk. Friday 11 March
 is not the core, and the rating of seven is not Chernobyl's day.
 The dead are not counted. 94 lines. Ends "Stand." Runway
 331/364. Next is chapter 347, AlexNet.
+
+## 2026-10-14 — ch 347 written: The Second Place
+
+Ophiuchus 11 (2012, AlexNet, machines learn to see). No holiday
+is named. The day's leftover note on home computing was not
+used. ImageNet's labels were typed by people paid by the task,
+and the label is not the picture. Krizhevsky, Sutskever and
+Hinton train about sixty million weights on two cards made for
+games. The top five is not one sight. About fifteen in a hundred
+against about twenty-six is not a rounding. Florence in October
+is not the December paper by Lake Tahoe. The summer's cat unit
+is not knowing what a cat is. How sure is not whether right. 64
+lines. Ends "Stand." Runway 332/364. Next is chapter 348,
+Wikidata.

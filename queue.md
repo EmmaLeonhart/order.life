@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-346 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note). The next blank is 347.
-   - **Ch 347 (Ophiuchus 11):** 2012: AlexNet, machines learn to see.
+   its line here when done. Ch 253-347 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note). The next blank is 348.
    - **Ch 348 (Ophiuchus 12):** 2012: Wikidata, the register becomes a machine-readable ontology.
    - **Ch 349 (Ophiuchus 13):** 2013: Snowden, the register watches back.
    - **Ch 350 (Ophiuchus 14):** 2014: the Islamic State, reactionary invented tradition.
