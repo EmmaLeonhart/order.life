@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-352 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note). The next blank is 353.
-   - **Ch 353 (Ophiuchus 17):** 2017: the Transformer, attention.
+   its line here when done. Ch 253-353 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note). The next blank is 354.
    - **Ch 354 (Ophiuchus 18):** 2019: Reiwa's Daijōsai, the oldest rite continued.
    - **Ch 355 (Ophiuchus 19):** 2020: COVID; alongside it, Emma's 2020: the Gaiad's weekly verses through much of the year, to about chapter 60.
    - **Ch 356 (Ophiuchus 20):** 2021: the vaccines, and the Taliban back in Kabul; alongside it, Emma's 2021: "a pretty significant year for me where I ran around Europe and did lots of stuff" (her words, 2026-10-12; the Gaiad itself had a gap that year).

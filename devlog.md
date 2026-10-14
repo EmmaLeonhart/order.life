@@ -7961,3 +7961,18 @@ Friday 20 January 2017 is not the winning. Again is not a date.
 A crowd at a rally is the part of the nation that came. The book
 does not choose between the votes. 71 lines. Ends "Stand."
 Runway 337/364. Next is chapter 353, the Transformer.
+
+## 2026-10-14 — ch 353 written: All You Need
+
+Ophiuchus 17 (2017, the Transformer, attention). No holiday is
+named. The day's leftover note on the dot-com boom was not used.
+Monday 12 June 2017, a title is not a proof. Eight names in an
+order set at random is an order that refuses to rank. Attention
+is not understanding; it is a weighing. Without the loop the
+work is spread across chips, and spreading is waiting less.
+Three and a half days on eight cards. A score of shared runs of
+words is not a poem carried over. Long Beach in December is not
+the spread. Guessing the next word is not knowing what is said.
+Published is not owned. A machine made of attention is not
+attentive. 66 lines. Ends "Stand." Runway 338/364. Next is
+chapter 354, Reiwa's Daijōsai.
