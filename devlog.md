@@ -8045,3 +8045,19 @@ one; choosing what stays is the writing. Sunday 25 December 2022
 in Ukraine: moving a date is not moving a faith. The returning
 light is not peace. 71 lines. Ends "Stand." Runway 342/364. Next
 is chapter 358, Shinto overseas and Emma's 2023.
+
+## 2026-10-14 — ch 358 written: Carried Past the Border
+
+Ophiuchus 22 (2023, Shinto overseas; alongside it, Emma's 2023).
+No holiday is named. The day's leftover note on the smartphone
+was not used. Shrines pulled down when the empire fell are not
+unworshipped. Tsubaki's branch, Stockton 1986 and Granite Falls
+1992: a licence from one shrine is not no licence, and the way
+in was the body, not the book. Sunday 22 June 2014, San Marino:
+support is not membership. Friday 30 June 2023, Barrish closes
+the shrine and names no successor; that is a failure of the
+hand-off. The kami go to Knapp Island and Ann Evans; a name
+carried is not a forest carried. Emma's 2023, in her words: a
+lot of this Shinto stuff fell into her hands. Held is not owned.
+Carried past its border is not diluted. 78 lines. Ends "Stand."
+Runway 343/364. Next is chapter 359, the fork and Emma's 2024.

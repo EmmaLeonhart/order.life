@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-357 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note). The next blank is 358.
-   - **Ch 358 (Ophiuchus 22):** 2023: Shinto overseas, traditions carried past their borders; alongside it, Emma's 2023: "a lot of this Shinto stuff fall into my hands".
+   its line here when done. Ch 253-358 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note). The next blank is 359.
    - **Ch 359 (Ophiuchus 23):** 2024: the fork, the machine in few hands or everyone's; alongside it, Emma's 2024: "trying to reclaim a sacred geography, trying to reclaim other things .. being able to do so, but having it yanked away from me, too".
    - **Ch 360 (Ophiuchus 24):** 2025: agents, machines that act, and a scripture written with them; alongside it, Emma's 2025: "a very, very, very miserable year".
    - **Ch 361 (Ophiuchus 25):** 2026: Emma and her ancestry, with the Virgo coincidence; "an extremely well-documented year of my life".
