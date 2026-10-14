@@ -7798,3 +7798,54 @@ billion, with room, on further steps, to seven hundred. The
 first sum is not the whole. It is not an earlier draft set apart
 from the signed line. 107 lines. Ends "Stand." Runway stays
 329/364. Next is chapter 345, climate.
+
+## 2026-10-14 — ch 345 written: Takes Note
+
+Ophiuchus 9 (2009 to 2015: climate, from Copenhagen to Paris,
+who survives). No holiday is named. The day's leftover note
+on an older rising of the earth was not used. The conference
+page says 7 through 18 December 2009. The report says 7
+through 19. The accord is dated the 18th. Taking note is not
+adopting. Below two is not well below, and those sentences do
+not say pre-industrial. The fourth assessment is not the fifth.
+Approaching 30 billion is not a counted sum. A goal of 100
+billion a year by 2020 is not money already paid. The
+Copenhagen Green Climate Fund, inside the noted text, is not
+the Green Climate Fund established at Cancún, 29 November
+through 10 December 2010. A board is not the money.
+Considering 1.5 in a review is not a promise. Sunday
+11 December 2011 in Durban launches a process, an outcome
+with legal force applicable to all, to be completed no later
+than 2015 and to come into effect from 2020. A launch is not
+the instrument. Saturday 8 December 2012 in Doha adopts an
+amendment. Adoption is not entry into force. The second
+period is written to begin 1 January 2013. The amendment is
+not in force that day. The day it comes into force is not
+these years. Friday 27 September 2013, the Stockholm release
+says extremely likely. The same release dates the session
+23 through 26 September and also says the summary was
+approved on Friday. The 26th is not a Friday. The two datings
+are not made one. Extremely likely is not a count of the
+living. Days before Warsaw, a storm comes ashore in the
+Philippines. The wires say Haiyan. The islands say Yolanda.
+The chapter does not choose the name. The dead are not counted.
+The session runs 11 through 23 November 2013. The mechanism
+for loss and damage sits under the Cancún adaptation
+framework. Finance is a word. No quantity is set beside it.
+Wednesday 12 November 2014 in Beijing, Obama and Xi state
+intentions: 26 to 28 percent below 2005 by 2025, with best
+efforts to the 28; China to peak carbon dioxide emissions
+around 2030, with best efforts to peak early, and non-fossil
+primary energy around 20 percent by 2030. An intention is not
+a treaty. Lima, 1 through 14 December 2014, asks for intended
+contributions in the first quarter of the next year, by those
+ready. Ready is not everyone. Saturday 12 December 2015 at
+Le Bourget, outside Paris, the agreement is adopted. The hall
+is not the center of the city. Adoption is not the signing of
+22 April 2016 in New York, and that April, called a day of
+the earth, is not the older note. Entry into force on
+4 November 2016 is not this Saturday. Well below two, and
+pursuing efforts toward one and a half, is not the earlier
+below. The text does not name who survives. 150 lines. Ends
+"Stand." Runway 330/364. Next is chapter 346, the Arab Spring
+and Fukushima.
