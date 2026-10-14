@@ -8113,3 +8113,21 @@ on Rosh Hashanah, Moses and the first letters on Yom Kippur, and
 the sailors, pirates and Jesuits on Sukkot. A coincidence
 recorded is not a sign proved. 78 lines. Ends "Stand." Runway
 346/364. Next is chapter 362, 2026 and the time skip.
+
+## 2026-10-14 — ch 362 written: Still in It
+
+Ophiuchus 26 (2026 and the time skip, the hard anchor of the
+handoff). No holiday is named. The day's leftover note on a
+singularity of consciousness was not used; no consciousness is
+promised. Written on Wednesday 14 October 2026, Libra 10 of
+12026; the day written is not the day read. The machines, the
+water, the old robe, the reopened gap and the mixed faiths are
+held open; not finished is not lost. A prophecy is a register of
+what has not happened, and the book keeps none; the middle
+distance is left blank, and a blank is the place where the
+living will write. The first reading is the seed of a tradition.
+The voice turns to the reader after the skip: we were still in
+it. The skip is a page turned with the hand still on it. Not
+telling is not forgetting; it is trusting. 73 lines. Ends
+"Stand." Runway 347/364. Next is chapter 363, the cryonic
+revival.
