@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-315 are done (Virgo complete; Libra through Samhain; Scorpius through a hand and a name).
-   - **Ch 316 (Scorpius 8):** 1945: Hiroshima and Nagasaki.
+   its line here when done. Ch 253-316 are done (Virgo complete; Libra through Samhain; Scorpius through the aim and the city).
    - **Ch 317 (Scorpius 9):** 1945 and 1947: ENIAC and the transistor.
    - **Ch 318 (Scorpius 10):** 1945 to 1946: the Shinto Directive, the Humanity Declaration, the founding of Jinja Honchō.
    - **Ch 319 (Scorpius 11):** 1945 and 1948: the UN and the Universal Declaration of Human Rights.

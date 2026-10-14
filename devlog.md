@@ -6484,3 +6484,32 @@ may be a later reading of the law. No camp list. No IBM. 119 lines. Ends
 The Babyn Yar line said the Jews of the city were shot. The killing of
 29 and 30 September 1941 was the people who had been gathered at the
 ravine. The line now says that. 119 lines. Ends "Stand."
+
+## 2026-10-13 — ch 316 written: The Aim and the City
+
+Scorpius 8 (1945: Hiroshima and Nagasaki). On 6 August 1945 the morning
+at Hiroshima was clear. The uranium bomb left the Enola Gay, Paul
+Tibbets piloting, at a quarter past eight, and burst less than a minute
+later. Japanese commemoration keeps 8:15; the detonation is the next
+minute, so the chapter does not collapse the two. Little Boy had not
+been fired whole before that morning. Trinity, 16 July 1945, in New
+Mexico, was the plutonium design, and it was not a city. The Potsdam
+notice was 26 July. Japan had not surrendered on it. The Soviet Union
+declared war on 8 August. Its armies entered Manchuria in the early
+hours of 9 August, before the second bomb. That morning the primary
+aim was Kokura, now part of Kitakyushu. Cloud and smoke hid the
+arsenal. The chapter does not count the passes or the fuel. Charles
+Sweeney flew on to Nagasaki. At 11:02 the plutonium bomb burst over
+the Urakami valley, not on the point the orders had named. The hills
+held some of the blast. No death toll is chosen for either city: the
+published ranges do not close. Koreans died in both cities. No
+separate figure is invented. Hibakusha names the living the bomb
+touched, and is not used as a name for the dead. At noon on 15 August
+the recorded voice of Hirohito was broadcast. He told the nation to
+endure the unendurable and to accept the July notice. He did not use
+a soldier's plain word for defeat. The instrument of surrender was
+signed on 2 September in Tokyo Bay. The ship is not named. The two
+mornings are not a proof that no other act could have ended the war,
+and they are not a proof that a city was a price rightly paid. The
+sky over Kokura hid the aim. A procedure had chosen the names. 87
+lines. Ends "Stand." Runway 302/364.
