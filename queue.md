@@ -408,8 +408,7 @@ Items, in order:
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
    first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames, ends "Stand.";
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
-   its line here when done. Ch 253-360 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note). The next blank is 361.
-   - **Ch 361 (Ophiuchus 25):** 2026: Emma and her ancestry, with the Virgo coincidence; "an extremely well-documented year of my life".
+   its line here when done. Ch 253-361 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note). The next blank is 362.
    - **Ch 362 (Ophiuchus 26):** 2026 and the time skip (hard anchor, ch 362).
    - **Ch 363 (Ophiuchus 27):** The cryonic revival (hard anchor, ch 363).
    - **Ch 364 (Ophiuchus 28):** Milkomeda (hard anchor, ch 364).

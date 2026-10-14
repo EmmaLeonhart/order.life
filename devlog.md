@@ -8095,3 +8095,21 @@ Emma's 2025, in her words, a very, very, very miserable year;
 the book does not tell more than she said. A miserable year is
 not a lost year. 75 lines. Ends "Stand." Runway 345/364. Next is
 chapter 361, Emma and her ancestry, 2026.
+
+## 2026-10-14 — ch 361 written: The Well-Documented Year
+
+Ophiuchus 25 (2026, Emma and her ancestry, with the Virgo
+coincidence). No holiday is named. The day's leftover note on
+the pandemic pause was not used; that is chapter 355's. Well
+documented, in her words, is not well lived and not badly lived.
+A family book is not a parish roll. The first documented Bures
+are farmers of the mid-1500s; everything older rests on Bureus,
+who recorded the line and invented a past at one desk. A line to
+the Reuss princes is a better documented line, not a better
+line. Finding Jewish ancestors is not becoming; it is learning
+what one already was. Her search into the early modern years
+fell in the Virgo of the year, and Virgo holds Adam's birthday
+on Rosh Hashanah, Moses and the first letters on Yom Kippur, and
+the sailors, pirates and Jesuits on Sukkot. A coincidence
+recorded is not a sign proved. 78 lines. Ends "Stand." Runway
+346/364. Next is chapter 362, 2026 and the time skip.
