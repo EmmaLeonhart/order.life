@@ -27,6 +27,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from neo_kunyomi import kanji_for
 from chinese_names import chinese_name
+from monarch_names import build as build_monarch_names
 from export_gedcom import (ANA, MONTHS, SEX_FEMALE, SEX_MALE, clean_name, couples_for_child,
                            load, name_lines)
 
@@ -379,7 +380,8 @@ def build_gedcom7(out_path, extra_lang=None):
         with open(labels_path, encoding="utf-8", newline="") as fh:
             for r in csv.DictReader(fh, delimiter="\t"):
                 labels[r["qid"]].append((r["lang"], r["label"]))
-    n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = n_clado = n_nk = n_zh = 0
+    n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = n_clado = n_nk = n_zh = n_mon = 0
+    temple_names, horus_names = build_monarch_names()
     zh_taken = {lb for v in labels.values() for lg, lb in v if lg == "zh"}
     for qid in sorted(persons, key=lambda q: int(q[1:]) if q[1:].isdigit() else 0):
         row = persons[qid]
@@ -431,6 +433,19 @@ def build_gedcom7(out_path, extra_lang=None):
                 w("2 TYPE OTHER")
                 w("3 PHRASE Chinese name (generated)")
                 n_zh += 1
+        # Temple and Horus names for monarchs (planning/monarch-names.md; approved 2026-10-15).
+        if qid in temple_names:
+            tn, why = temple_names[qid]
+            w(f"1 NAME {tn}")
+            w("2 TYPE OTHER")
+            w(f"3 PHRASE temple name (generated; {val(why)})")
+            n_mon += 1
+        if qid in horus_names:
+            hn, gloss = horus_names[qid]
+            w(f"1 NAME {hn}")
+            w("2 TYPE OTHER")
+            w(f"3 PHRASE Horus name (generated): {gloss}")
+            n_mon += 1
         more, lineage_notes = lineage_extras(qid, persons, sex_of, canon, labels)
         for n, phrase in lineage_names(qid, persons, sex_of, canon) + more:
             w(f"1 NAME {val(n)}")
@@ -543,7 +558,7 @@ def build_gedcom7(out_path, extra_lang=None):
     with open(tmp, "w", encoding="utf-8-sig", newline="\n") as f:
         f.write("\n".join(out))
     tmp.replace(out_path)
-    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal, "gaiad_notes": n_notes, "cladoplasts": n_clado, "neo_kunyomi": n_nk, "chinese_names": n_zh,
+    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal, "gaiad_notes": n_notes, "cladoplasts": n_clado, "neo_kunyomi": n_nk, "chinese_names": n_zh, "monarch_names": n_mon,
             "bytes": out_path.stat().st_size}
 
 

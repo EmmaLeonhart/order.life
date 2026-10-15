@@ -8354,3 +8354,10 @@ syllables, by a compact form of the standard transliteration table, unique in th
 not known, so the surname comes from the family name, not the house (her 哈 for Banu Hashim needs a clan table); a few
 East Asian figures with no Chinese label get a transliteration (Wu Kung of Yan -> 伊乌); only records with a clean given
 name and a family name are covered.
+
+2026-10-15 13:16 PST: temple and Horus names built and applied (Emma: "Build and apply"; `wiki-scripts/monarch_names.py`): 4,736 typed
+names in /gaiad.ged, marked generated. Temple names by each ruler's place among the holders of a position, ordered by birth
+(太祖 first, 太宗 second, 末帝 last, virtue names between); Horus names Ḥr kꜣ-nḫt, "Horus, Strong Bull", with the byname's
+epithet where the label has one (Cyrus the Great: Ḥr kꜣ-nḫt wr). Left to their own traditions: Chinese, Korean, Vietnamese
+and Japanese rulers (real temple and era names; Genghis Khan is Yuan Taizu) and pharaohs (attested Horus names). Not done:
+Christian or Muslim names for Chinese emperors (the method needs each emperor's deeds, which the data does not hold).
