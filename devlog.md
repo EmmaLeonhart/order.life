@@ -8287,3 +8287,12 @@ an open question. Only the book's public record; nothing about her life.
 the primary name and as their own typed NAME. Translations in the file: 1,536 -> 56,593; 54 MB; all people still match
 back by ID. The items hold labels in 452 languages (about 12 per person); all of them would add some 50 MB to one file,
 so the other languages belong to the per-language files of the download package.
+
+2026-10-15 07:09 PST: name schema, lineage names' later work (`planning/name-schema.md`) in /gaiad.ged: Welsh stacked forms
+along the canonical line for people whose records are Welsh-styled (2,582; "Madog ab Einion ap Julian", ab before a
+vowel); Arabic-script forms where person and parent have real Arabic labels (2,962; "برة بنت السموأل"); Russian
+patronymics where the person's own Russian label already carries one (337, marked approximate: the endings are the
+usual rules, so "Ярославович" where the old form is "Ярославич"); and 1,376 notes where a record's own patronymic
+differs from the canonical line ("Recorded patronymic 'ibn Yahya'; by the canonical line ... Gedaliah is Don Shlomo's
+son"). Russian forms for everyone with a Russian label were tried and dropped: they put Japanese surnames into
+patronymics. labels.tsv now also holds ar and ru labels; only zh, ja and ko go into the file as TRAN.

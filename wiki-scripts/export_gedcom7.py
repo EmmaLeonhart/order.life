@@ -29,6 +29,9 @@ from export_gedcom import (ANA, MONTHS, SEX_FEMALE, SEX_MALE, clean_name, couple
                            load, name_lines)
 
 ORDERLIFE_QID_URI = "https://order.life/wikibase/entity/"
+# Languages whose labels go into the main file as TRAN (name schema: zh, ja, ko beside English); labels.tsv
+# may hold others (ar, ru) for the lineage names in those scripts.
+PRIMARY_LANGS = ("zh", "ja", "ko")
 WIKIDATA_URI = "http://www.wikidata.org/entity/"
 # Fixed namespace: the UID of a person is uuid5(UID_NAMESPACE, their order.life QID) forever.
 UID_NAMESPACE = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/person/")
@@ -187,6 +190,85 @@ def lineage_names(qid, persons, sex_of, canon):
     return [(f"{child_g} {parent_g}'s {rel}", f"{kind}, English form"),
             (f"{child_g} {arabic} {parent_g}", f"{kind}, Arabic form")]
 
+WELSH = re.compile(r"\b(ap|ab|ferch|verch)\s+(\S+)", re.I)
+RECORDED_PATRONYMIC = re.compile(r"\b(ap|ab|ferch|verch|ibn|bin|bint)\s+(\S+)", re.I)
+
+
+def russian_patronymic(parent_given, sex):
+    """A Russian patronymic from a parent's Russian given name, by the usual endings: -ович/-овна after a
+    consonant, -евич/-евна for -й/-ь, -ич/-ична for -а/-я (Илья -> Ильич). An approximation, marked as such."""
+    n = parent_given
+    if not n or not re.fullmatch(r"[А-Яа-яЁё-]+", n):
+        return ""
+    if n[-1] in "йь":
+        stem, m, f = n[:-1], "евич", "евна"
+    elif n[-1] in "ая":
+        stem, m, f = n[:-1], "ич", "ична"
+    elif n[-1] in "еиоуыэю":
+        stem, m, f = n, "вич", "вна"
+    else:
+        stem, m, f = n, "ович", "овна"
+    return stem + (f if sex == "F" else m)
+
+
+def lineage_extras(qid, persons, sex_of, canon, labels):
+    """Name-schema step 2, later work (planning/name-schema.md): Welsh stacking where the record is Welsh-styled,
+    Arabic-script and Russian forms where both person and parent have real labels in those languages, and a NOTE
+    where the record's own patronymic differs from the canonical line. Returns (names, notes)."""
+    names, notes = [], []
+    if qid not in canon:
+        return names, notes
+    parent, link = canon[qid]
+    kind = "patronymic" if link == "father" else "matronymic"
+    sex = sex_of.get(qid)
+    label = persons[qid].get("label") or ""
+    def given(row):
+        # Welsh-styled labels carry no separate given name: it is the word before the first ap/ferch.
+        g = given_name(row)
+        m = WELSH.search(row.get("label") or "")
+        if not g and m:
+            head = (row.get("label") or "")[:m.start()].strip()
+            if head and " " not in head:
+                g = head
+        return g
+    child_g, parent_g = given(persons[qid]), given(persons.get(parent, {}))
+    if child_g and parent_g and parent_g.lower() not in ("father", "mother"):
+        if WELSH.search(label):
+            chain, cur, word = [child_g], parent, ("ferch" if sex == "F" else "ap")
+            for _ in range(2):
+                g = given(persons.get(cur, {}))
+                if not g:
+                    break
+                if word == "ap" and g[0].lower() in "aeiouyâêîôûŵŷ":
+                    word = "ab"  # Welsh writes ab before a vowel (ab Einion)
+                chain.append(f"{word} {g}")
+                word = "ap" if sex_of.get(cur) == "M" else "ferch"
+                if cur not in canon:
+                    break
+                cur = canon[cur][0]
+            if len(chain) > 2:
+                names.append((" ".join(chain), f"{kind}, Welsh stacked form"))
+        m = RECORDED_PATRONYMIC.search(label)
+        if m and m.group(2).strip(",.").lower() != parent_g.split()[0].lower():
+            notes.append(f"Recorded patronymic \"{m.group(0)}\"; by the canonical line to Aster and Andromeda, "
+                         f"{child_g} is {parent_g}'s {'daughter' if sex == 'F' else 'son'}.")
+    lab = dict(labels.get(qid, []))
+    plab = dict(labels.get(parent, []))
+    if lab.get("ar") and plab.get("ar"):
+        word = "بنت" if sex == "F" else "بن"
+        names.append((f"{lab['ar'].split()[0]} {word} {plab['ar'].split()[0]}", f"{kind}, Arabic script"))
+    # Russian form only where the person's own Russian label already carries a patronymic, so it is used
+    # for people named in the Russian way, not imposed on a Japanese or Persian name.
+    ru_has_pat = bool(lab.get("ru")) and bool(re.search(r"\S+(ович|евич|ич|овна|евна|ична|инична)\b", lab.get("ru", "")[len(lab.get("ru", "").split()[0]):]))
+    first_ru = lab.get("ru", " ").split()[0] if lab.get("ru") else ""
+    if first_ru.endswith(("ович", "евич", "овна", "евна", "ична")):
+        ru_has_pat = False  # the record's first name is itself a patronymic (Igorevich Yaroslavich)
+    if ru_has_pat and plab.get("ru"):
+        pat = russian_patronymic(plab["ru"].split()[0], sex) if link == "father" else ""
+        if pat:
+            names.append((f"{lab['ru'].split()[0]} {pat}", f"{kind}, Russian form (approximate)"))
+    return names, notes
+
 
 def build_gedcom7(out_path):
     persons, parents_of, spouse_pairs, precision = load()
@@ -277,7 +359,7 @@ def build_gedcom7(out_path):
         # The item's own labels in the primary languages (zh, ja, ko; wikibase/analysis/labels.tsv), where
         # the name lines above do not already have them: as TRAN and as their own NAME, since programs
         # often drop TRAN.
-        extra = [(lg, lb) for lg, lb in labels.get(qid, []) if lb not in names]
+        extra = [(lg, lb) for lg, lb in labels.get(qid, []) if lg in PRIMARY_LANGS and lb not in names]
         for lg, lb in extra:
             w(f"2 TRAN {val(lb)}")
             w(f"3 LANG {lg}")
@@ -292,11 +374,14 @@ def build_gedcom7(out_path):
             w(f"1 NAME {val(lb)}")
             w("2 TYPE OTHER")
             w(f"3 PHRASE {lg} name")
-        for n, phrase in lineage_names(qid, persons, sex_of, canon):
+        more, lineage_notes = lineage_extras(qid, persons, sex_of, canon, labels)
+        for n, phrase in lineage_names(qid, persons, sex_of, canon) + more:
             w(f"1 NAME {val(n)}")
             w("2 TYPE OTHER")
             w(f"3 PHRASE {phrase}")
             n_lineage += 1
+        for note in lineage_notes:
+            w(f"1 NOTE {val(note)}")
         w(f"1 SEX {sex_of[qid]}")
 
         prec_birth, prec_death = precision.get(qid, ("", ""))
