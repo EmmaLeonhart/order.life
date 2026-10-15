@@ -16,7 +16,7 @@ From self-creation, forms began to be,
 {{c|Aster}}'s love transcends the void of death.
 
 The seed, her essence, spread across the deep,
-{{c|Multiplying}}, and thriving in the dark.
+Multiplying, and thriving in the dark.
 From smallest life to creatures vast, they creep,
 Her love and light ignite creation’s spark.
 

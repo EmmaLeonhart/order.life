@@ -30,3 +30,4 @@ Standing decisions:
 | 3 | Andromeda's Answer | Emma's verse; passes | untagged (words): Together, Now, Main, Incomplete, Discovery, Red, Milky; to `x` (kind unclear): Steppenwolves. |
 | 4 | The First Yarn String | Emma's verse; passes | untagged (words): Once; to `x` (kind unclear): Nova. |
 | 5 | The Big Bang of Longing | Emma's verse; passes | untagged (words): Oceans. |
+| 6 | Hydrogen Clouds Ignite | Emma's verse; passes | untagged (words): Multiplying. |
