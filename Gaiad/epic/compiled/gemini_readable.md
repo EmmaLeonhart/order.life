@@ -4126,48 +4126,48 @@ the {{p|Kingdom of Aksum}} rose in highland
 of what is now {{p|Ethiopia}}'s head.
 
 They traded with {{p|Rome}}, {{p|India}}, {{p|Arabia}},
-from {{p|Adulis}} on the Red Sea coast.
+from {{p|Adulis}} on the {{p|Red Sea}} coast.
 Their script was Ge'ez, their language Semitic,
-cousin of Arabic from distant host.
+cousin of {{x|Arabic}} from distant host.
 
 Ezana, king in the fourth century,
-converted to Christianity around
+converted to {{x|Christianity}} around
 three-thirty, through the Syrian missionary
 Frumentius, captured then renowned.
 
 Frumentius had been shipwrecked as a boy,
 served in the royal court, was trusted,
-returned to Alexandria and was consecrated
+returned to {{p|Alexandria}} and was consecrated
 bishop by Athanasius, who encrusted
 
 him with authority to evangelize.
-He returned to Ethiopia and preached.
+He returned to {{p|Ethiopia}} and preached.
 Ezana became Christian, and the kingdom
 became the second Christian state reached.
 
-(After Armenia. Before Rome.
-Ethiopia was the second nation
-in history to adopt Christianity
+(After {{p|Armenia}}. Before {{p|Rome}}.
+{{p|Ethiopia}} was the second nation
+in history to adopt {{x|Christianity}}
 as its official state declaration.)
 
-The Ethiopian Church took Monophysite
+The {{x|Ethiopian Church}} took Monophysite
 position at {{p|Chalcedon}} in four-fifty-one,
 holding that Christ had one nature, divine,
 absorbing the human into the one.
 
 This put it outside Western orthodoxy
 but aligned with {{p|Alexandria}} and {{p|Antioch}}'s stance.
-The Oriental Orthodox communion formed:
+The {{x|Oriental Orthodox}} communion formed:
 Copts, Syrians, Armenians, Ethiopians' dance.
 
-Ethiopia has a tradition that the Ark of the Covenant
+{{p|Ethiopia}} has a tradition that the Ark of the Covenant
 rests at {{p|Aksum}} in the Church of {{p|St. Mary of Zion}},
 brought there by Menelik I, son of
 Solomon and Sheba, the kebra nagast scion.
 
-The Kebra Nagast, "Glory of the Kings,"
+The {{x|Kebra Nagast}}, "{{x|Glory of the Kings}},"
 tells how the Queen of Sheba visited Solomon,
-bore his son Menelik, who returned to Ethiopia
+bore his son Menelik, who returned to {{p|Ethiopia}}
 taking the Ark back to his own dominion.
 
 Whether or not this is literally true,
@@ -4175,32 +4175,32 @@ the Ethiopian royal line claimed descent
 from Solomon for three thousand years
 until Haile Selassie's twentieth-century bent.
 
-Ethiopia was never colonized
-in the nineteenth-century Scramble for Africa —
+{{p|Ethiopia}} was never colonized
+in the nineteenth-century {{x|Scramble for Africa}} —
 held off the Italians at {{p|Adwa}} in 1896,
-the only African state that defeated Europa.
+the only African state that defeated {{p|Europa}}.
 
 The country has Jewish communities too,
-the Beta Israel, who practice a Judaism
-older than the Talmud, based on the Torah,
+the Beta Israel, who practice a {{x|Judaism}}
+older than the {{x|Talmud}}, based on the {{x|Torah}},
 preserved in highland isolation from racism.
 
-Most were airlifted to Israel in the 1980s
-in Operations Moses and Solomon.
+Most were airlifted to {{p|Israel}} in the 1980s
+in {{x|Operations Moses and Solomon}}.
 A three-thousand-year lineage exiled
 to the ancestral homeland at last come.
 
-Aksum declined in the seventh century
-as the rise of Islam cut trade routes.
+{{p|Aksum}} declined in the seventh century
+as the rise of {{x|Islam}} cut trade routes.
 The kingdom moved south and became
 the medieval Ethiopian kingdom of roots.
 
 Lalibela in the twelfth century
 would carve eleven churches from solid rock,
 each one hewn down from a single stone,
-a New Jerusalem, a pilgrim's dock.
+a {{x|New Jerusalem}}, a pilgrim's dock.
 
-Ethiopia's story is the African Christian kingdom,
+{{p|Ethiopia}}'s story is the African Christian kingdom,
 ancient, persistent, mystical, strange,
 isolated but connected, deeply rooted,
 surviving every political change.
@@ -4209,24 +4209,24 @@ surviving every political change.
 # Chapter 187: Constantine and the Fall of Rome
 
 Constantine fought his rival Maxentius
-at the {{p|Milvian Bridge}} outside Rome in three-twelve.
+at the {{p|Milvian Bridge}} outside {{p|Rome}} in three-twelve.
 The night before, he saw a cross of light,
 or chi-rho sign, and a voice did delve:
 
 "In hoc signo vinces." In this sign, conquer.
 He put the Christian monogram on his shields,
 won the battle, credited Christ,
-and ended Christianity's persecution fields.
+and ended {{x|Christianity}}'s persecution fields.
 
-The Edict of Milan in three-thirteen
-legalized Christianity throughout the empire.
+The {{x|Edict of Milan}} in three-thirteen
+legalized {{x|Christianity}} throughout the empire.
 Confiscated churches were returned.
 Worship was free. The martyrs could retire.
 
 Constantine moved the capital east to
 {{p|Byzantium}}, renamed {{p|Constantinople}},
-"New Rome," the city of the emperor,
-strategically placed on the Bosphorus people.
+"{{p|New Rome}}," the city of the emperor,
+strategically placed on the {{p|Bosphorus}} people.
 
 He called the Council of Nicaea in three-twenty-five
 to settle the question of Christ's nature.
@@ -4239,11 +4239,11 @@ Athanasius said the Son was eternal,
 homoousios with the Father, the same grade.
 
 Constantine pushed for consensus. The creed
-was written. Homoousios won the day.
-Arianism was condemned, though it would
+was written. {{x|Homoousios}} won the day.
+{{x|Arianism}} was condemned, though it would
 persist among the Goths for centuries to stay.
 
-The Nicene Creed became the foundation
+The {{x|Nicene Creed}} became the foundation
 of orthodox Christian theology:
 one God, three persons, Father, Son, Spirit,
 consubstantial, coeternal trinity.
@@ -4251,7 +4251,7 @@ consubstantial, coeternal trinity.
 Constantine was baptized on his deathbed.
 Whether sincere or political, who can say?
 His mother Helena went to {{p|Jerusalem}},
-found (she said) the True Cross where it lay.
+found (she said) the {{x|True Cross}} where it lay.
 
 After Constantine, his sons divided
 the empire, fought civil wars, returned
@@ -4260,50 +4260,50 @@ briefly tried to restore the old gods burned.
 
 But it was too late. The church was too strong.
 Julian died in battle against the Persians.
-The Theodosian reforms would make Christianity
+The Theodosian reforms would make {{x|Christianity}}
 the state religion, exclusive, without diversions.
 
 Theodosius I in three-ninety-two
 outlawed pagan worship entirely.
 The old temples were closed or converted.
-The Olympic Games were ended, purely.
+The {{x|Olympic Games}} were ended, purely.
 
-The Visigoths sacked Rome in four-ten
+The Visigoths sacked {{p|Rome}} in four-ten
 under Alaric. The unthinkable happened.
 The city that had not fallen in eight centuries
 was looted by barbarians now unchained.
 
 Augustine wrote The City of God
-in response — Rome had fallen because
+in response — {{p|Rome}} had fallen because
 it trusted in earthly power, not heavenly.
 The true City endured beyond human laws.
 
-The Vandals sacked Rome again in four-fifty-five.
-The Western Empire was fragmenting fast.
-Britain was abandoned. Gaul filled with Franks.
-Spain filled with Visigoths from Rome's past.
+The Vandals sacked {{p|Rome}} again in four-fifty-five.
+The {{p|Western Empire}} was fragmenting fast.
+{{p|Britain}} was abandoned. {{p|Gaul}} filled with Franks.
+{{p|Spain}} filled with Visigoths from {{p|Rome}}'s past.
 
 Romulus Augustulus, a child emperor
 with a diminutive name ironic in sum,
 was deposed by the Gothic general
-Odoacer in four-seventy-six. Rome was done.
+Odoacer in four-seventy-six. {{p|Rome}} was done.
 
-Or rather, the Western Roman Empire was done.
-The Eastern Empire at {{p|Constantinople}}
+Or rather, the {{p|Western Roman Empire}} was done.
+The {{p|Eastern Empire}} at {{p|Constantinople}}
 continued for a thousand years more
 as {{p|Byzantium}}, Greek-speaking, ecclesiastical.
 
 Justinian would briefly reconquer
 parts of the West in the sixth century,
-taking Italy back from the Goths, North Africa
+taking {{p|Italy}} back from the Goths, {{p|North Africa}}
 from the Vandals, with Belisarius' bravery.
 
-He codified Roman law as the Corpus Juris Civilis,
-built the Hagia Sophia in Constantinople,
-closed the Academy of Athens which had run
+He codified Roman law as the {{x|Corpus Juris Civilis}},
+built the Hagia Sophia in {{p|Constantinople}},
+closed the {{x|Academy of Athens}} which had run
 for nine hundred years as philosophy's steeple.
 
-The Platonic philosophers fled to Persia
+The Platonic philosophers fled to {{p|Persia}}
 to Khosrow I, who welcomed them kindly,
 though they eventually returned homeward
 under guarantee of tolerance, blindly.
@@ -4315,8 +4315,8 @@ The Arabs would strike these weakened civilians.
 
 But that is the next arc. For now, mark
 the transition: the classical world ended.
-The Western Roman Empire fell.
-Christianity became what Rome defended.
+The {{p|Western Roman Empire}} fell.
+{{x|Christianity}} became what {{p|Rome}} defended.
 
 The old gods were gone from public life.
 The temples were churches or ruins now.
@@ -4333,7 +4333,7 @@ The Yellow Turbans rose with fervent heart.
 
 Zhang Jue and his brothers led
 the Yellow Turban Rebellion in 184.
-Taiping Dao, the Way of Great Peace,
+{{x|Taiping Dao}}, the {{x|Way of Great Peace}},
 promised a new heaven, a new core.
 
 Zhang Jue claimed healing powers, faith
@@ -4341,72 +4341,72 @@ cures, magical ceremonies, bean counting.
 When plague and famine struck the peasants,
 his followers numbered hundreds of thousands mounting.
 
-The Han court raised armies, crushed the revolt,
+The {{x|Han}} court raised armies, crushed the revolt,
 but the generals became too strong thereby.
 Dong Zhuo marched into the capital,
 controlled the boy emperor, made him cry.
 
 Dong Zhuo was assassinated. The warlords
-carved up China like meat on the bone.
+carved up {{p|China}} like meat on the bone.
 Cao Cao, Liu Bei, Sun Quan emerged
 as the three great regional powers alone.
 
 Cao Cao held the north, controlled the emperor,
-ruled through the Han name though he was king.
-Liu Bei claimed descent from Han imperial blood,
+ruled through the {{x|Han}} name though he was king.
+Liu Bei claimed descent from {{x|Han}} imperial blood,
 built his base in {{p|Shu}}, the southwestern ring.
 
 Sun Quan inherited the south from his father and brother,
-built his power along the Yangtze's mouth,
-Wu the eastern kingdom along the coast.
-Three Kingdoms: Wei, Shu, Wu, facing drouth.
+built his power along the {{p|Yangtze}}'s mouth,
+{{p|Wu}} the eastern kingdom along the coast.
+{{x|Three Kingdoms}}: {{p|Wei}}, {{p|Shu}}, {{p|Wu}}, facing drouth.
 
 In two-twenty, Cao Cao's son Cao Pi
-forced the last Han emperor to abdicate.
-The Han was formally dead. Cao Pi
-declared Wei dynasty at its birth date.
+forced the last {{x|Han}} emperor to abdicate.
+The {{x|Han}} was formally dead. Cao Pi
+declared {{p|Wei}} dynasty at its birth date.
 
-Liu Bei declared Shu Han in response.
-Sun Quan declared Wu a few years later.
-The Three Kingdoms period had begun,
+Liu Bei declared {{p|Shu Han}} in response.
+Sun Quan declared {{p|Wu}} a few years later.
+The {{x|Three Kingdoms}} period had begun,
 lasting sixty years, never quieter.
 
-The Han had lasted four hundred years.
+The {{x|Han}} had lasted four hundred years.
 Its fall was the end of classical Chinese order.
 What followed was three centuries of division,
 three centuries of warfare on every border.
 
-The Three Kingdoms, then Jin unification briefly,
-then the Sixteen Kingdoms in the north,
-then the Southern and Northern Dynasties period,
-three hundred years of China torn forth.
+The {{x|Three Kingdoms}}, then {{x|Jin}} unification briefly,
+then the {{x|Sixteen Kingdoms}} in the north,
+then the {{x|Southern and Northern Dynasties}} period,
+three hundred years of {{p|China}} torn forth.
 
-During this time, Buddhism took deep root.
+During this time, {{x|Buddhism}} took deep root.
 With Confucian order failing, people turned
 to the foreign teaching that addressed suffering.
 Monasteries multiplied, sutras were earned.
 
 Kumarajiva was brought from {{p|Kucha}} as hostage
 to {{p|Chang'an}} where he translated sutras,
-the Lotus, the Diamond, the Vimalakirti,
+the {{x|Lotus}}, the {{x|Diamond}}, the {{x|Vimalakirti}},
 setting the standard for Chinese Buddhist tutors.
 
-Daoism also consolidated in this period
+{{x|Daoism}} also consolidated in this period
 into an organized religion with clergy,
 temples, canon, and liturgies modeled
 on Buddhist forms they found analogously.
 
 The Celestial Masters had emerged
-in the late Han as an organized church.
+in the late {{x|Han}} as an organized church.
 Ge Hong's alchemy sought immortality.
-Daoism became institutional perch.
+{{x|Daoism}} became institutional perch.
 
-China would not be reunified until
+{{p|China}} would not be reunified until
 Sui Wendi in five-eighty-nine.
 And then the Tang Dynasty would build
 on that foundation the greatest era fine.
 
-But first, the Three Kingdoms would become
+But first, the {{x|Three Kingdoms}} would become
 the great subject of Chinese historical imagination.
 The Romance of the Three Kingdoms novel
 would make these warlords into every nation's creation.
@@ -4418,33 +4418,33 @@ Guan Yu: the loyal sworn brother, servant of heaven's pavement.
 
 Their stories would shape Chinese culture
 for fifteen centuries to come,
-like the Mahabharata for India,
-like the Iliad for classical Greek home.
+like the {{x|Mahabharata}} for {{p|India}},
+like the {{x|Iliad}} for classical Greek home.
 
 
 # Chapter 189: Romance of the Three Kingdoms
 
 The novel by Luo Guanzhong
 in the fourteenth century brought alive
-the Three Kingdoms war with such vividness
+the {{x|Three Kingdoms}} war with such vividness
 that fact and fiction no longer survive
 
 as separate things. What "everyone knows"
 about this period comes from his book.
-The historical Chen Shou's Records of Three Kingdoms
+The historical Chen Shou's {{x|Records of Three Kingdoms}}
 is less read, less fun, less took.
 
 The opening line: "The empire, long divided,
 must unite; long united, must divide.
 Thus it has ever been." The novel begins
-with the Peach Garden Oath on a riverside.
+with the {{x|Peach Garden Oath}} on a riverside.
 
 Liu Bei, Guan Yu, and Zhang Fei
 swore brotherhood in a peach garden,
 pledging to die on the same day, to
-restore the Han, to share every burden.
+restore the {{x|Han}}, to share every burden.
 
-Liu Bei claimed descent from the Han imperial line,
+Liu Bei claimed descent from the {{x|Han}} imperial line,
 but sold straw sandals and mats to live.
 Guan Yu was a fugitive for avenging
 a local bully who would not forgive.
@@ -4461,7 +4461,7 @@ before he would consent to be a lobbyist
 
 for Liu Bei's cause. He devised the strategy
 of the tripod: three kingdoms balancing,
-Shu allied with Wu against Wei,
+{{p|Shu}} allied with {{p|Wu}} against {{p|Wei}},
 the weaker two against the one advancing.
 
 The Battle of Red Cliffs in two-oh-eight
@@ -4480,36 +4480,36 @@ The fire ships slipped into Cao Cao's fleet
 chained together, and the conflagration was continuous.
 
 Cao Cao's navy burned. His army fled
-along the Huarong Road through marsh and mud.
+along the {{p|Huarong Road}} through marsh and mud.
 Guan Yu let him escape at the narrow pass,
 repaying old debt of favor, blood.
 
 (This was not in the histories. Luo Guanzhong
-invented the Huarong Road release
+invented the {{p|Huarong Road}} release
 to show Guan Yu's righteousness, his sense
 of honor even to foes, sense of peace.)
 
 Guan Yu became the god of war,
 of loyalty, of brotherhood, of merchants,
-worshipped across China and Chinese diaspora
+worshipped across {{p|China}} and Chinese diaspora
 as Guandi, in temples of gold and servants.
 
-Zhuge Liang's Six Campaigns against Wei
-ended in his death at Wuzhang Plains.
+Zhuge Liang's {{x|Six Campaigns}} against {{p|Wei}}
+ended in his death at {{p|Wuzhang Plains}}.
 "The heavens will not let me succeed,"
-he said. Shu collapsed from his absent pains.
+he said. {{p|Shu}} collapsed from his absent pains.
 
-Shu fell to Wei in two-sixty-three.
-Wei was replaced by the Jin Dynasty in two-sixty-five.
-Wu fell to Jin in two-eighty.
+{{p|Shu}} fell to {{p|Wei}} in two-sixty-three.
+{{p|Wei}} was replaced by the Jin Dynasty in two-sixty-five.
+{{p|Wu}} fell to {{x|Jin}} in two-eighty.
 The empire was briefly reunified alive.
 
-But Jin would not last. Barbarian invasions
-from the north would push the Jin south,
+But {{x|Jin}} would not last. Barbarian invasions
+from the north would push the {{x|Jin}} south,
 the {{p|Northern and Southern Dynasties}} would begin.
-China would be divided with famine in its mouth.
+{{p|China}} would be divided with famine in its mouth.
 
-Yet the Three Kingdoms tales endured.
+Yet the {{x|Three Kingdoms}} tales endured.
 Liu Bei as the righteous rightful heir.
 Cao Cao as the cunning realist.
 Zhuge Liang as wisdom incarnate there.
@@ -4545,26 +4545,26 @@ through a line of gods at their minimum.
 Six-sixty BCE is the traditional date
 for Jimmu's eastern expedition from {{p|Kyushu}}
 to the {{p|Yamato}} plain, where he founded
-the imperial line that Japan would issue.
+the imperial line that {{p|Japan}} would issue.
 
 Historically, the date is far too early.
-The Yayoi rice-culture people had barely arrived.
-The Yamato state would not coalesce
+The {{x|Yayoi}} rice-culture people had barely arrived.
+The {{p|Yamato}} state would not coalesce
 until several centuries after this contrived.
 
 But the myth sets the frame: the imperial line
 descends from the sun goddess through her grandson
 Ninigi who came down to {{p|Mount Takachiho}}
-carrying the Three Sacred Treasures begun:
+carrying the {{x|Three Sacred Treasures}} begun:
 
-the mirror Yata no Kagami,
+the mirror {{x|Yata no Kagami}},
 the sword Kusanagi (taken from the tail
 of the eight-headed serpent Yamata no Orochi
 by Susanoo in myth's oldest detail),
 
-and the jewel Yasakani no Magatama.
+and the jewel {{x|Yasakani no Magatama}}.
 These three still exist (or so it is said)
-as the imperial regalia of Japan,
+as the imperial regalia of {{p|Japan}},
 passed down through seventy centuries' tread.
 
 Jimmu's great-grandfather was Ninigi.
@@ -4577,14 +4577,14 @@ the sun goddess Amaterasu above
 and through the sea dragon gods below.
 He is sky and sea, embraced by both's love.
 
-He marched east from Kyushu, subduing
+He marched east from {{p|Kyushu}}, subduing
 local chieftains, defeating rivals as he went.
-At {{p|Kashihara}} in the Yamato plain
+At {{p|Kashihara}} in the {{p|Yamato}} plain
 he founded the capital, his tent.
 
 He ascended the throne there, we are told,
 on February 11 of 660 BCE.
-This date became Japan's National Foundation Day,
+This date became {{p|Japan}}'s {{x|National Foundation Day}},
 a holiday ever since, at least in theory.
 
 For centuries after, the emperors listed
@@ -4622,8 +4622,8 @@ Korean invasion. But there was certainly
 contact with Korean kingdoms {{p|Baekje}}, {{p|Silla}}, {{p|Gaya}},
 trade, migration, cultural transfer apparently.
 
-From Baekje came writing, Confucianism, Buddhism
-into Japan — Buddhism officially in 538 or 552,
+From Baekje came writing, {{x|Confucianism}}, {{x|Buddhism}}
+into {{p|Japan}} — {{x|Buddhism}} officially in 538 or 552,
 though private transmission was earlier.
 From Gaya came iron, craftsmen, immigrant troops.
 
@@ -4633,21 +4633,21 @@ the massive kofun burial mounds,
 the largest tombs in the world, filling.
 
 The Daisenryō Kofun attributed to
-emperor Nintoku is longer than the Great Pyramid,
+emperor Nintoku is longer than the {{p|Great Pyramid}},
 though lower — a 486-meter keyhole shape
 of earth and stone, for the imperial pyramid.
 
 These burial mounds mark the emergence
 of a centralized state in the Japanese archipelago,
 absorbing Korean immigrants, Chinese influence,
-building toward what would become emperor Yamato.
+building toward what would become emperor {{p|Yamato}}.
 
-The Soga clan would push Buddhism.
+The Soga clan would push {{x|Buddhism}}.
 The Mononobe clan would resist.
-In 587, the Soga won, and Buddhism
-became the state religion, with Shinto's midst.
+In 587, the Soga won, and {{x|Buddhism}}
+became the state religion, with {{x|Shinto}}'s midst.
 
-The Kofun period was ending. The Asuka period
+The {{x|Kofun}} period was ending. The {{x|Asuka}} period
 beginning. The constitution of Prince Shōtoku
 in 604 would organize the state
 along Chinese lines — the shape we still see.
@@ -4666,7 +4666,7 @@ descended from Joktan son of Eber,
 speakers of ancient South Arabian scribes.
 
 And Adnan, the northern Arabs, the
-desert tribes of the Hejaz and Najd,
+desert tribes of the {{p|Hejaz}} and {{p|Najd}},
 descended from Ishmael son of Abraham
 through a line of thirty generations laid.
 
@@ -4685,7 +4685,7 @@ Allah was the high god, creator, most high,
 but rarely worshipped directly — his daughters
 al-Lat, al-Uzza, and Manat drew the eye.
 
-The Kaaba at Mecca housed 360 idols,
+The Kaaba at {{p|Mecca}} housed 360 idols,
 one for every day of the lunar year,
 tribal gods, astral deities, household idols,
 Hubal the chief among them held dear.
@@ -4696,31 +4696,31 @@ of Abraham, who worshipped the one God
 without joining Jewish or Christian shrine.
 
 Muhammad's great-great-grandfather Qusay
-had consolidated the Quraysh in Mecca,
+had consolidated the Quraysh in {{p|Mecca}},
 establishing them as guardians of the Kaaba
 and the pilgrimage trade's great bank-checker.
 
 The Quraysh controlled the sacred months
-when fighting was forbidden throughout Arabia
+when fighting was forbidden throughout {{p|Arabia}}
 to allow caravans and pilgrimages to flow.
-This gave them wealth through Mecca's bizarria.
+This gave them wealth through {{p|Mecca}}'s bizarria.
 
-{{p|Yemen}} to the south had the Himyarite Kingdom,
-which converted to Judaism in the fourth century,
-then was invaded by Christian Aksum, then
-by Sassanid Persia, politically drifting free.
+{{p|Yemen}} to the south had the {{p|Himyarite Kingdom}},
+which converted to {{x|Judaism}} in the fourth century,
+then was invaded by Christian {{p|Aksum}}, then
+by {{p|Sassanid Persia}}, politically drifting free.
 
 The Ghassanids on the northwestern frontier
-were Christian Arab vassals of Byzantium.
+were Christian Arab vassals of {{p|Byzantium}}.
 The Lakhmids in the east were Christian
 Arab vassals of the Sassanids, serving them.
 
-Jewish tribes lived in {{p|Medina}} (Yathrib):
+Jewish tribes lived in {{p|Medina}} ({{p|Yathrib}}):
 the Banu Qurayza, Banu Nadir, Banu Qaynuqa,
 who had fled there after Roman wars
 and established themselves as the economic driver.
 
-Christian monks wandered the Hejaz
+Christian monks wandered the {{p|Hejaz}}
 as hermits in caves along trade routes,
 where caravans would stop for water
 and hear the teaching at lonely outposts.
@@ -4730,19 +4730,19 @@ multiple religions already present,
 where monotheism was known but not
 universal, where pagan worship was prevalent.
 
-Trade connected Arabia to the world.
-Frankincense and myrrh went north to Rome.
-Silk and spices came from India and China
-through the Arabian ports of Yemen's home.
+Trade connected {{p|Arabia}} to the world.
+Frankincense and myrrh went north to {{p|Rome}}.
+Silk and spices came from {{p|India}} and {{p|China}}
+through the Arabian ports of {{p|Yemen}}'s home.
 
 The century before Muhammad saw
 the great Byzantine-Sassanid wars,
 which weakened both empires, disrupted trade,
-and left Arabia watching both contenders' scores.
+and left {{p|Arabia}} watching both contenders' scores.
 
-The Year of the Elephant, 570 CE,
+The {{x|Year of the Elephant}}, 570 CE,
 saw Abraha, the Christian Ethiopian ruler
-of Yemen, march on Mecca with elephants
+of {{p|Yemen}}, march on {{p|Mecca}} with elephants
 to destroy the Kaaba, sacred center ruler.
 
 His expedition was miraculously defeated
@@ -4761,14 +4761,14 @@ He married the wealthy widow Khadija
 fifteen years his senior, a deal well done.
 
 He would go to the cave of {{p|Hira}} to meditate
-on the Mount of Light outside Mecca.
+on the {{p|Mount of Light}} outside {{p|Mecca}}.
 At forty, in the year 610,
 the archangel Gabriel would visit him, a wrecker
 
 of his old life and opener of the new.
 "Recite!" the angel said. "In the name of your Lord
 who created, created man from a clot."
-The Quran began. A new religion was born.
+The {{x|Quran}} began. A new religion was born.
 
 
 # Chapter 192: Muhammad and the Rise of Islam
@@ -4780,7 +4780,7 @@ became the first Muslim at his side.
 
 The revelations continued for twenty-three years,
 verse by verse, surah by surah,
-collected after his death into the Quran,
+collected after his death into the {{x|Quran}},
 the recitation, Allah's word, no error.
 
 The core message: tawhid, the oneness of God.
@@ -4790,15 +4790,15 @@ the absolute one of all waters.
 
 The five pillars would crystallize:
 shahada — the profession of faith.
-salat — five daily prayers toward Mecca.
+salat — five daily prayers toward {{p|Mecca}}.
 zakat — charity for the poor, the aggrieved.
 
-sawm — fasting during Ramadan.
-hajj — pilgrimage to Mecca once in life.
+sawm — fasting during {{x|Ramadan}}.
+hajj — pilgrimage to {{p|Mecca}} once in life.
 Simple, clear, demanding, but doable,
 a structure for the whole of one's strife.
 
-For thirteen years in Mecca, Muhammad preached
+For thirteen years in {{p|Mecca}}, Muhammad preached
 and was persecuted by the Quraysh,
 whose economic and religious order
 depended on the pagan pilgrimage flesh.
@@ -4809,7 +4809,7 @@ His uncle Abu Talib protected him
 through clan obligation, not conviction.
 
 When Abu Talib died, and Khadija died
-the same year, 619, the "Year of Sorrow,"
+the same year, 619, the "{{x|Year of Sorrow}},"
 Muhammad's situation grew desperate.
 Persecution intensified. Would there be a morrow?
 
@@ -4819,32 +4819,32 @@ where tribes had invited him to arbitrate
 their feuds and be their prophet-leader subpoena.
 
 The Hijra is year one of the Islamic calendar.
-The community in Medina, the ummah,
+The community in {{p|Medina}}, the ummah,
 became the first Muslim polity,
 Muhammad as both prophet and ruler summa.
 
-The Jewish tribes of Medina initially
+The Jewish tribes of {{p|Medina}} initially
 were expected by Muhammad to recognize him
 as a prophet in the Abrahamic line.
 When they refused, the qibla changed from the rim
 
-of Jerusalem to Mecca. The fast was
-changed from Yom Kippur to Ramadan.
-The split with Judaism became permanent.
-Islam was now its own religion, untouched ran.
+of {{p|Jerusalem}} to {{p|Mecca}}. The fast was
+changed from {{x|Yom Kippur}} to {{x|Ramadan}}.
+The split with {{x|Judaism}} became permanent.
+{{x|Islam}} was now its own religion, untouched ran.
 
 War with the Quraysh broke out. The Battle of Badr
 in 624 was the first great victory.
 Three hundred Muslims defeated one thousand Quraysh.
 It was taken as divine sanction for their story.
 
-The Battle of Uhud in 625 was a defeat.
+The {{x|Battle of Uhud}} in 625 was a defeat.
 Muhammad was wounded, thought dead briefly.
 The community was shaken. New revelations
 addressed the setback and steadied them chiefly.
 
-The Battle of the Trench in 627 was
-a siege of Medina by the Quraysh,
+The {{x|Battle of the Trench}} in 627 was
+a siege of {{p|Medina}} by the Quraysh,
 repelled by the strategy of digging a trench,
 a Persian tactic from a convert's wish.
 
@@ -4853,24 +4853,24 @@ was accused of conspiring with the enemies.
 The men were killed, the women and children enslaved.
 This is one of the darkest episodes in history's arenas.
 
-In 628, the Treaty of Hudaybiyyah
+In 628, the {{x|Treaty of Hudaybiyyah}}
 was negotiated with the Quraysh.
 It seemed unfavorable to the Muslims,
 but Muhammad accepted, and his ash
 
 followers grumbled. Within two years
 the treaty was broken by Quraysh allies.
-Muhammad marched on Mecca with ten thousand
+Muhammad marched on {{p|Mecca}} with ten thousand
 and the city surrendered without heavy plies.
 
-Muhammad entered the Kaaba, destroyed the idols,
+Muhammad entered the {{p|Kaaba}}, destroyed the idols,
 proclaimed only one God, forgave most enemies.
 It was the triumph of his mission.
-Mecca was now the center of the new community.
+{{p|Mecca}} was now the center of the new community.
 
-In 632, Muhammad made the Farewell Pilgrimage,
-delivered the Farewell Sermon at Arafat,
-and died shortly after in Medina
+In 632, Muhammad made the {{x|Farewell Pilgrimage}},
+delivered the {{x|Farewell Sermon}} at {{p|Arafat}},
+and died shortly after in {{p|Medina}}
 in the arms of Aisha, his beloved mate.
 
 The community was devastated. Abu Bakr,
@@ -4880,21 +4880,21 @@ know that he is dead. If you worship Allah, he lives raw."
 
 Abu Bakr was elected the first caliph,
 the successor, the Rightly Guided.
-He crushed the Ridda wars, tribes rebelling,
+He crushed the {{x|Ridda}} wars, tribes rebelling,
 and held the ummah together, undivided.
 
 Then came Umar, second caliph, who
 launched the great Arab conquests outward.
 Within twelve years of Muhammad's death,
-Syria, Iraq, Persia, Egypt fell toward
+{{p|Syria}}, {{p|Iraq}}, {{p|Persia}}, {{p|Egypt}} fell toward
 
-the new empire. The Sassanid Empire
-collapsed completely. The Byzantine Empire
+the new empire. The {{p|Sassanid Empire}}
+collapsed completely. The {{p|Byzantine Empire}}
 lost its richest provinces. The map was redrawn.
 A new civilization rose from the fire.
 
 Umar was assassinated. Uthman was third caliph,
-who codified the Quran in its current form,
+who codified the {{x|Quran}} in its current form,
 collected all variants, destroyed the others,
 standardized the text without reform.
 
@@ -4905,7 +4905,7 @@ The community was dividing without forth.
 
 Ali was assassinated. Muawiya of the Umayyad clan
 seized the caliphate, moved capital to {{p|Damascus}}.
-The Rashidun era ended. The Umayyad dynasty
+The {{x|Rashidun}} era ended. The Umayyad dynasty
 began its ninety-year rule over fate's ramparts.
 
 Those who had favored Ali became
@@ -4924,11 +4924,11 @@ The split between them would be enduring, the fissure not undone.
 In the Tang Dynasty of {{p|China}},
 the monk Xuanzang set out west
 in 629 to find the original
-Sanskrit sutras, his life's one quest.
+{{x|Sanskrit}} sutras, his life's one quest.
 
 He was unhappy with the Chinese translations.
 He felt the dharma had been transmitted poorly.
-He applied for permission to leave China.
+He applied for permission to leave {{p|China}}.
 It was denied. He went illegally, surely.
 
 For seventeen years he traveled through
@@ -4941,12 +4941,12 @@ in history at that time, ten thousand monks,
 thousands of professors, vast libraries,
 teaching logic, philosophy, medicine, thunks.
 
-Xuanzang mastered Sanskrit, the six Buddhist schools,
-debated the Mahayana against the Theravada,
+Xuanzang mastered {{x|Sanskrit}}, the six Buddhist schools,
+debated the {{x|Mahayana}} against the {{x|Theravada}},
 was offered leadership of Nalanda itself,
 but chose to return home to his own data.
 
-He returned in 645 with 657 Sanskrit texts
+He returned in 645 with 657 {{x|Sanskrit}} texts
 loaded on twenty-two horses across the passes.
 The emperor Taizong welcomed him back
 despite the illegal departure from the masses.
@@ -4963,7 +4963,7 @@ when those kingdoms vanished, undocumented otherwise.
 
 {{p|Bamiyan}}'s giant Buddha statues — he saw them
 when they stood complete, fifty and thirty-five meters,
-cut into the cliff face of Afghanistan.
+cut into the cliff face of {{p|Afghanistan}}.
 Destroyed by Taliban in 2001, their lintels.
 
 But we know what they looked like from Xuanzang.
@@ -4971,7 +4971,7 @@ We know the kingdoms, the cities, the sages,
 the quality of rice at particular places,
 the customs of pilgrims on various pages.
 
-Nine hundred years later, in the Ming dynasty,
+Nine hundred years later, in the {{x|Ming}} dynasty,
 Wu Cheng'en wrote Journey to the West,
 the great fantasy novel based on Xuanzang's trip,
 with supernatural companions along for the test.
@@ -4984,7 +4984,7 @@ caused havoc in heaven, was imprisoned with hard arts.
 He was freed to accompany Xuanzang
 (called Tripitaka in the novel, the monk)
 with the golden headband that could constrict
-if the monk chanted the spell's Sanskrit funk.
+if the monk chanted the spell's {{x|Sanskrit}} funk.
 
 Pigsy (Zhu Bajie), the lazy glutton pig-man,
 Sandy (Sha Wujing), the stoic river demon,
@@ -4994,44 +4994,44 @@ four disciples of the monk, the protection demon.
 They encountered eighty-one trials on the road,
 demons in disguise, kingdoms of women,
 volcanoes of flaming mountains, rivers of sand.
-They reached India, collected sutras, were even
+They reached {{p|India}}, collected sutras, were even
 
 granted enlightenment upon their return.
 The novel is comedy, satire, theology,
-one of the Four Classical Novels of China,
+one of the {{x|Four Classical Novels of China}},
 beloved for centuries across geography.
 
 It has been adapted as opera, film, television,
 anime, video game, manga without count.
-Son Goku of Dragon Ball is a direct
+Son Goku of {{x|Dragon Ball}} is a direct
 descendant of Sun Wukong in amount.
 
 Xuanzang himself is historical.
 Sun Wukong is fictional. But both together
 represent the deep Chinese relationship
-with Buddhism — Chinese adaptation of weather.
+with {{x|Buddhism}} — Chinese adaptation of weather.
 
 The novel's implicit theology: enlightenment
 requires the journey, the trials, the companions.
 The demons are inner obstacles externalized.
 The goal is to carry the teaching back to one's nation.
 
-Chinese Buddhism had become by the Tang
-fully domesticated. Chan (Zen) was emerging
+Chinese {{x|Buddhism}} had become by the {{x|Tang}}
+fully domesticated. Chan ({{x|Zen}}) was emerging
 under Huineng the Sixth Patriarch, whose
 sudden enlightenment school was surging.
 
-Pure Land Buddhism was expanding too,
+Pure Land {{x|Buddhism}} was expanding too,
 the devotional school of Amitabha,
-the Buddha of the Western Paradise,
+the Buddha of the {{p|Western Paradise}},
 saving all who called his name in awe.
 
-Tang China was the world-civilization of its time.
+{{x|Tang}} {{p|China}} was the world-civilization of its time.
 {{p|Chang'an}} was the world's largest city.
 Persians, Arabs, Sogdians, Japanese, Koreans
 came to study, trade, and live in the pretty.
 
-The Tang would be the golden age
+The {{x|Tang}} would be the golden age
 that all subsequent Chinese dynasties measured themselves against.
 The model to emulate. The high water mark.
 The era that even now is most well-fenced.
@@ -5039,30 +5039,30 @@ The era that even now is most well-fenced.
 
 # Chapter 194: Kūkai
 
-In Japan of the early ninth century,
+In {{p|Japan}} of the early ninth century,
 the monk Kūkai (774-835)
-brought Shingon Buddhism from Tang China
+brought Shingon {{x|Buddhism}} from {{x|Tang}} {{p|China}}
 and made it into something alive.
 
 He was born on {{p|Shikoku}} island,
 the smallest of the four main islands,
 went to {{p|Chang'an}} in 804 with the embassy,
-studied at Qinglong Temple's vast hidings.
+studied at {{p|Qinglong Temple}}'s vast hidings.
 
 He studied under Huiguo, the master
-of Chinese Vajrayana Buddhism,
+of Chinese Vajrayana {{x|Buddhism}},
 who transmitted the full esoteric tradition
 to Kūkai in just a few months' witnessing.
 
 Huiguo died shortly after. Kūkai returned
-to Japan with scriptures, mandalas, ritual tools,
+to {{p|Japan}} with scriptures, mandalas, ritual tools,
 and the complete transmission of Shingon,
-"the True Word," the esoteric school's schools.
+"the {{x|True Word}}," the esoteric school's schools.
 
 He established his mountain monastery at {{p|Mount Kōya}},
 eight peaks forming a natural mandala.
 He systematized the esoteric teachings
-into Japan's first complete Buddhist alphabeta.
+into {{p|Japan}}'s first complete Buddhist alphabeta.
 
 He is credited (perhaps legendarily)
 with inventing the kana syllabary,
@@ -5092,12 +5092,12 @@ Shingon promises immediate escape from strife.
 Kūkai was also a calligrapher of legend,
 a poet, an engineer who built ponds and bridges,
 a theorist of language and signification.
-He is one of Japan's cultural ridges.
+He is one of {{p|Japan}}'s cultural ridges.
 
 He is said not to have died but to have
-entered eternal meditation at Mount Kōya,
+entered eternal meditation at {{p|Mount Kōya}},
 where his body remains uncorrupted
-in the Oku-no-In mausoleum, in quiet.
+in the {{p|Oku-no-In}} mausoleum, in quiet.
 
 Pilgrims still visit. They believe he is
 still there, waiting for Maitreya the future Buddha,
@@ -5106,38 +5106,38 @@ His tomb is attended daily with meals put through-a-
 
 the door in rituals of feeding the living master.
 Meanwhile, a separate monk Saichō (767-822)
-brought Tendai Buddhism from China
+brought Tendai {{x|Buddhism}} from {{p|China}}
 and established {{p|Mount Hiei}}, a center true.
 
-Tendai was based on the Lotus Sutra,
+Tendai was based on the {{x|Lotus Sutra}},
 on the teaching of Zhiyi of the Tiantai school,
 integrating all Buddhist teachings into
 a hierarchical synthesis of the rule.
 
-From Mount Hiei would come Japan's major
+From {{p|Mount Hiei}} would come {{p|Japan}}'s major
 medieval Buddhist traditions:
-Honen and Pure Land. Shinran and True Pure Land.
-Nichiren and Lotus Sutra intuitions.
-Dōgen and Sōtō Zen, with its meditations.
+Honen and {{x|Pure Land}}. Shinran and {{x|True Pure Land}}.
+Nichiren and {{x|Lotus Sutra}} intuitions.
+Dōgen and {{x|Sōtō Zen}}, with its meditations.
 
 All started as Tendai monks who
-left to found new schools. Mount Hiei was
-the matrix from which Japanese Buddhism emerged.
+left to found new schools. {{p|Mount Hiei}} was
+the matrix from which Japanese {{x|Buddhism}} emerged.
 Saichō had built an institutional pause.
 
 Kūkai and Saichō were contemporaries.
 They corresponded, borrowed texts, occasionally disagreed.
-Together they shaped Japanese Buddhism
+Together they shaped Japanese {{x|Buddhism}}
 into its distinctive esoteric breed.
 
-The capital {{p|Heian-kyō}} (Kyoto) had just been founded
+The capital {{p|Heian-kyō}} ({{p|Kyoto}}) had just been founded
 in 794 by Emperor Kanmu.
-The new Buddhism matched the new capital.
-A new era was beginning, the Heian, anew.
+The new {{x|Buddhism}} matched the new capital.
+A new era was beginning, the {{x|Heian}}, anew.
 
-The syncretism of Shinto and Buddhism
+The syncretism of {{x|Shinto}} and {{x|Buddhism}}
 deepened in this era. Honji suijaku, the theory
-that Shinto kami were local manifestations
+that {{x|Shinto}} kami were local manifestations
 of Buddhist bodhisattvas, was the theology.
 
 Amaterasu became Dainichi Nyorai's manifestation.
@@ -5146,7 +5146,7 @@ Shrines and temples were built together.
 One religion with two faces, no divide-a.
 
 This synthesis would last a thousand years
-until the Meiji period's forced separation
+until the {{x|Meiji}} period's forced separation
 in 1868 violently distinguished them.
 But for the medieval period, they were one vocation.
 
@@ -5156,7 +5156,7 @@ But for the medieval period, they were one vocation.
 In the West, after {{p|Rome}} had fallen,
 the Franks rose to fill the void.
 Clovis I in the late fifth century
-had converted to orthodox Christianity, enjoyed.
+had converted to orthodox {{x|Christianity}}, enjoyed.
 
 His descendants, the Merovingians, ruled
 for three centuries, but became weak,
@@ -5166,7 +5166,7 @@ by Mayors of the Palace, the real peak.
 Charles Martel, the Hammer, as Mayor
 of the Palace, defeated the Muslim advance
 at Tours in 732, stopping the conquest
-of Europe by the Umayyad trance.
+of {{p|Europe}} by the {{x|Umayyad}} trance.
 
 His son Pepin the Short asked the Pope
 if the one who had the real power
@@ -5176,15 +5176,15 @@ The Pope agreed. Pepin took the crown's tower.
 The Merovingians were deposed. The Carolingians
 began with Pepin, a dynasty new.
 Pepin's son was Charlemagne, Charles the Great,
-who would build an empire Europe had not in view.
+who would build an empire {{p|Europe}} had not in view.
 
 Charlemagne reigned 768-814. In those years
 he conquered the Saxons (converting them by force),
-defeated the Lombards in Italy,
+defeated the Lombards in {{p|Italy}},
 pushed the Muslims back from {{p|Spain}} and the course.
 
 He patronized learning, brought Alcuin
-from York to head his palace school.
+from {{p|York}} to head his palace school.
 The Carolingian Renaissance revived
 classical learning, standardized the scribal tool.
 
@@ -5196,7 +5196,7 @@ that would have otherwise been lost in crime.
 On Christmas Day 800, Pope Leo III
 crowned Charlemagne Imperator Romanorum,
 Emperor of the Romans, in {{p|St. Peter's}},
-reviving the Western Empire, its forum.
+reviving the {{p|Western Empire}}, its forum.
 
 This offended {{p|Constantinople}}, where the
 Byzantine Empress Irene held the throne.
@@ -5204,11 +5204,11 @@ She claimed to be the only legitimate Roman emperor.
 Her title was challenged by the Frank unknown.
 
 The Byzantines never accepted the Frankish claim.
-"Holy Roman Empire" as the Franks called it,
-was considered in Byzantium a joke,
+"{{p|Holy Roman Empire}}" as the Franks called it,
+was considered in {{p|Byzantium}} a joke,
 the barbarians pretending to be the successor of unit.
 
-Byzantium itself was in a period of flux.
+{{p|Byzantium}} itself was in a period of flux.
 Iconoclasm had erupted in the 720s,
 when Emperor Leo III had ordered
 all religious images destroyed, all icons beauties.
@@ -5218,15 +5218,15 @@ The iconodules defended images as windows
 to the spiritual, doors to divine presence.
 The controversy raged for over a century, endows
 
-In 787, the Second Council of Nicaea
+In 787, the {{x|Second Council of Nicaea}}
 affirmed the veneration (not worship) of icons.
 But iconoclasm revived again,
 and was only finally ended in 843, that entrances.
 
-The Triumph of Orthodoxy is still celebrated
+The {{x|Triumph of Orthodoxy}} is still celebrated
 in Eastern churches on the first Sunday of Lent.
 Icons were fully restored. The aesthetic of Byzantine
-Christianity was sealed, to their descendant.
+{{x|Christianity}} was sealed, to their descendant.
 
 Cyril and Methodius were Byzantine missionaries
 who evangelized the Slavs in the ninth century.
@@ -5236,25 +5236,25 @@ to write Slavic languages, bringing liturgical entry.
 {{p|Moravia}}, {{p|Bulgaria}}, and eventually {{p|Kievan Rus}}
 would be Christianized in the Byzantine rite
 with Slavic liturgy, unique among European Christianities
-that insisted on Latin or Greek at the site.
+that insisted on {{x|Latin}} or Greek at the site.
 
-This is the origin of Eastern Orthodoxy's
+This is the origin of {{x|Eastern Orthodoxy}}'s
 willingness to translate into local languages,
-which shaped the spread of the Slavic Christianity
-into Russia, Serbia, Bulgaria, Ukraine's pages.
+which shaped the spread of the Slavic {{x|Christianity}}
+into {{p|Russia}}, {{p|Serbia}}, {{p|Bulgaria}}, {{p|Ukraine}}'s pages.
 
 Charlemagne's empire fragmented after his death.
 His grandsons divided it at the Treaty of Verdun in 843:
-West Francia (France), East Francia (Germany),
-and Middle Francia (which would disintegrate in free).
+West Francia ({{p|France}}), East Francia ({{p|Germany}}),
+and {{p|Middle Francia}} (which would disintegrate in free).
 
 The Viking raids began in the late eighth century.
 The first recorded raid on {{p|Lindisfarne}} in 793
-shocked Christian Europe. The monks were slaughtered.
-The raiders came from Scandinavia, from the sea.
+shocked Christian {{p|Europe}}. The monks were slaughtered.
+The raiders came from {{p|Scandinavia}}, from the sea.
 
 For the next three centuries, Vikings would raid
-from Ireland to Russia, from Spain to Iraq.
+from {{p|Ireland}} to {{p|Russia}}, from {{p|Spain}} to {{p|Iraq}}.
 They would settle, found kingdoms, convert eventually.
 But they would be the scourge of the early Medieval track.
 
@@ -5262,12 +5262,12 @@ But they would be the scourge of the early Medieval track.
 # Chapter 196: Tang and the Great Persecution
 
 The Tang Dynasty (618-907) was
-the golden age of imperial China.
+the golden age of imperial {{p|China}}.
 {{p|Chang'an}} was the greatest city in the world,
 one million people in its central arena.
 
 The founder Li Yuan (Gaozu) had been
-a general who seized power from the Sui.
+a general who seized power from the {{x|Sui}}.
 His son Taizong killed his brothers,
 forced his father to abdicate on the cue.
 
@@ -5276,24 +5276,24 @@ the model of Confucian good rulership,
 the era of peace and prosperity,
 the golden reign held up as a reference for leadership.
 
-Empress Wu Zetian rose under the third Tang emperor,
+Empress Wu Zetian rose under the third {{x|Tang}} emperor,
 eliminated rivals, and became the only woman
-to rule China as emperor in her own name,
+to rule {{p|China}} as emperor in her own name,
 founding the {{p|Zhou Dynasty}} briefly, a prism human.
 
-She patronized Buddhism, elevated it above
-Confucianism and Daoism temporarily.
+She patronized {{x|Buddhism}}, elevated it above
+{{x|Confucianism}} and {{x|Daoism}} temporarily.
 Under her, the massive Buddha statues at {{p|Longmen}}
 were carved, her face modeled, supposedly.
 
-After her reign, the Tang continued
+After her reign, the {{x|Tang}} continued
 under Xuanzong, whose early reign was glorious
 but whose later years fell to the disaster
 of the An Lushan Rebellion, devastating notoriously.
 
 An Lushan was a Sogdian general, trusted
 and elevated by Xuanzong, who rebelled
-in 755 and plunged China into civil war
+in 755 and plunged {{p|China}} into civil war
 for eight years. Millions died. The empire propelled
 
 into a long decline. The census before
@@ -5302,7 +5302,7 @@ After, the census recorded 17 million.
 Whether this represents actual deaths or administrative steeple
 
 failure, the scale was catastrophic.
-The Tang survived but never recovered its former strength.
+The {{x|Tang}} survived but never recovered its former strength.
 Xuanzong's beloved concubine Yang Guifei
 was killed at his soldiers' demand, the length
 
@@ -5311,72 +5311,72 @@ The great poet Li Bai had been at his court.
 The great poet Du Fu had lived through the chaos,
 writing war poetry of unmatched import.
 
-Poetry flourished in the Tang. Li Bai, Du Fu,
+Poetry flourished in the {{x|Tang}}. Li Bai, Du Fu,
 Wang Wei, Bai Juyi, the Four Greats,
 became the classical masters of Chinese verse,
 whose works every subsequent scholar debates.
 
 In 845, Emperor Wuzong launched
 the Great Anti-Buddhist Persecution
-(the Huichang Persecution, named for his era).
+(the {{x|Huichang Persecution}}, named for his era).
 It was the most thorough effusion
 
-of state power against Buddhism in Chinese history.
+of state power against {{x|Buddhism}} in Chinese history.
 Forty thousand temples and shrines were destroyed.
 Two hundred sixty thousand monks and nuns were
 returned to lay life, their wealth deployed.
 
 The motives were mixed. Economic — the monasteries
 held vast untaxed lands. Ideological — Wuzong was
-a Daoist who thought Buddhism was foreign. Xenophobic —
+a Daoist who thought {{x|Buddhism}} was foreign. Xenophobic —
 foreign religions were targeted broadly without pause.
 
-Manichaeism was virtually wiped out in China.
-Nestorian Christianity, which had entered in the Tang,
+{{x|Manichaeism}} was virtually wiped out in {{p|China}}.
+Nestorian Christianity, which had entered in the {{x|Tang}},
 was also persecuted and largely destroyed.
 Zoroastrianism among Sogdian communities sang.
 
-Buddhism recovered somewhat after Wuzong's death
+{{x|Buddhism}} recovered somewhat after Wuzong's death
 (his successor reversed the policy),
 but the intellectual glory days were over.
-Chan (Zen) would survive more readily.
+Chan ({{x|Zen}}) would survive more readily.
 
-Chan Buddhism was less dependent on scriptures,
+Chan {{x|Buddhism}} was less dependent on scriptures,
 libraries, and wealthy monasteries.
 Its simple meditation-based practice
 could survive with minimal institutional stories.
 
-Pure Land Buddhism also survived,
+Pure Land {{x|Buddhism}} also survived,
 through devotional practice by laypeople,
 chanting the name of Amitabha Buddha,
 requiring no temples or scholarly steeple.
 
 These two schools — Chan and Pure Land —
-would become the dominant forms of East Asian Buddhism,
-not the scholarly schools like Huayan or Tiantai,
+would become the dominant forms of East Asian {{x|Buddhism}},
+not the scholarly schools like {{x|Huayan}} or {{x|Tiantai}},
 which required institutional support for their dualism.
 
-The Tang declined through the ninth century.
+The {{x|Tang}} declined through the ninth century.
 Regional warlords, the Jiedushi, became
 de facto independent. Eunuchs controlled the court.
 Peasant rebellions erupted with blame.
 
-In 907, the Tang was formally deposed.
+In 907, the {{x|Tang}} was formally deposed.
 The {{p|Five Dynasties and Ten Kingdoms}} period began,
 fifty-three years of fragmentation,
 until the Song Dynasty reunified in 960, man.
 
-The Song would be more scholarly, less military,
+The {{x|Song}} would be more scholarly, less military,
 less imperial, more refined.
 It would lose the northern frontier to Khitans and Jurchens,
 but would be culturally very defined.
 
-The Song would invent movable type printing,
+The {{x|Song}} would invent movable type printing,
 refine gunpowder, develop the compass.
-Song painting and ceramics would be exquisite.
+{{x|Song}} painting and ceramics would be exquisite.
 The civil service exam would be the crown accomplished.
 
-But the Tang remained the memory, the ideal,
+But the {{x|Tang}} remained the memory, the ideal,
 the civilization-peak to look back on.
-"Tang poetry" still means the finest Chinese verse.
-"Tang" is still how Chinese abroad call their people gone.
+"{{x|Tang}} poetry" still means the finest Chinese verse.
+"{{x|Tang}}" is still how Chinese abroad call their people gone.

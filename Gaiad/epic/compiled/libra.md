@@ -11,7 +11,7 @@ Of the incense, the bowing, the names read out. The darkest
 Winter would come; first, the thanks. This is the day of the harvest.
 Hold that table in your eye, because {{p|Rome}} would forbid it.
 {{c|Ricci}} had made his wager: these were civil rites, the starkest
-Honouring of the parents, not worship. A Christian could do it.
+Honouring of the parents, not worship. A {{x|Christian}} could do it.
 
 His order, the {{c|Jesuits}}, kept the wager for a hundred years.
 Other orders came to {{p|China}}, the {{c|Dominicans}}, the {{c|Franciscans}},
@@ -19,23 +19,23 @@ Who worked in the villages, not the court, and saw, among the peasants' tears
 And offerings, food set out for the dead to eat, the stances
 
 Of prayer to spirits, and said: this is idolatry. And they said:
-The words Ricci used for God, *Tian*, Heaven, and *Shangdi*,
-The Lord on High, are pagan words. The quarrel spread
+The words {{c|Ricci}} used for God, *{{x|Tian}}*, {{x|Heaven}}, and *{{x|Shangdi}}*,
+The {{x|Lord on High}}, are pagan words. The quarrel spread
 To {{p|Rome}}, to the universities of {{p|Paris}}, where the clergy
 
 Argued for decades about a country none of them had seen.
-The Jesuits asked the emperor himself. And in 1700 the great {{c|Kangxi}},
-Who had made the Jesuits his astronomers, signed a statement, clean
+The {{c|Jesuits}} asked the emperor himself. And in 1700 the great {{c|Kangxi}},
+Who had made the {{c|Jesuits}} his astronomers, signed a statement, clean
 And clear: the rites to {{c|Confucius}} are to honour a teacher; the ancestry
 
-Rites are to show love and remember; *Tian* means the Lord of Heaven.
+{{x|Rites}} are to show love and remember; *{{x|Tian}}* means the {{x|Lord of Heaven}}.
 Nothing in them is a prayer for blessing from the dead.
 The emperor of {{p|China}} had settled it. And {{p|Rome}}, the leaven
 Of whose authority could not be shared, said: it is not his to settle. Instead,
 
-In 1704, {{c|Clement XI}} decreed: no *Tian*, no *Shangdi*, only *Tianzhu*,
-Lord of Heaven, Ricci's coinage; no tablets saying *seat of the soul*;
-No Christian to take part in the rites of {{c|Confucius}}, nor do
+In 1704, {{c|Clement XI}} decreed: no *{{x|Tian}}*, no *{{x|Shangdi}}*, only *{{x|Tianzhu}}*,
+{{x|Lord of Heaven}}, {{c|Ricci}}'s coinage; no tablets saying *seat of the soul*;
+No {{x|Christian}} to take part in the rites of {{c|Confucius}}, nor do
 The seasonal offerings at the ancestors' hall. The whole
 
 Of the accommodation, refused. A legate, {{c|Tournon}}, carried it to {{p|Beijing}},
@@ -43,25 +43,25 @@ And the emperor received him, and heard what he had come to say,
 And questioned the bishop who had begun it, {{c|Maigrot}}, who could not read a single thing
 Of the characters, and was furious that such a man should judge the classics. The way
 
-It ended: the legate expelled to {{p|Macau}}, where the Portuguese,
+It ended: the legate expelled to {{p|Macau}}, where the {{x|Portuguese}},
 Jealous of their own rights, held him, and he died in 1710.
 {{p|Rome}} confirmed the ban in 1715. And the emperor, with ease
 And contempt, wrote on the papal decree with his red brush: *the men
 
-Of the West are small; they do not understand the great principles of {{p|China}}.
+Of the {{p|West}} are small; they do not understand the great principles of {{p|China}}.
 From now on they need not preach here, to avoid trouble.*
-In 1724 his son banned Christianity. The fine
+In 1724 his son banned {{x|Christianity}}. The fine
 Work of a century fell like a house to rubble.
 
 And in 1742 {{c|Benedict XIV}} closed it for good: every missionary
 To {{p|China}} had to swear an oath against the rites. For two hundred years
-A Chinese Christian could not bring the harvest to his fathers. The adversary
+A {{x|Chinese}} {{x|Christian}} could not bring the harvest to his fathers. The adversary
 Was not the emperor. It was a refusal to see. The tears
 
 Of the converts who had to choose: their God, or their dead.
-Hold that, on Harvest Day. And then hold this: in 1939,
+Hold that, on {{x|Harvest Day}}. And then hold this: in 1939,
 In {{c|Pius XII}}'s first year, {{p|Rome}} reversed itself. The rites, it said,
-Are civil. A Christian may bow. The tablets may be in line
+Are civil. A {{x|Christian}} may bow. The tablets may be in line
 
 With the faith. One hundred and ninety-seven years, from the final no
 To yes. The wager {{c|Ricci}} made was right. The emperor was right.
@@ -83,15 +83,15 @@ Of their memory. No one has the right to forbid it. Do it.
 
 In {{p|Småland}}, in {{p|Sweden}}, a country pastor's son was born in 1707,
 At {{p|Råshult}}, in the parsonage among the birches.
-His father, {{c|Nils}}, the son of a farmer named Ingemar, had been given, as was common,
-No surname: *Nils Ingemarsson*. When he went to university, the churches
+His father, {{c|Nils}}, the son of a farmer named {{c|Ingemar}}, had been given, as was common,
+No surname: *{{c|Nils Ingemarsson}}*. When he went to university, the churches
 
-And the learned wanted a Latin name. So he made one up,
+And the learned wanted a {{x|Latin}} name. So he made one up,
 From a great linden tree, a *lind*, that grew on the family's farm:
-*Linnaeus*. Hold that, in a book of genealogy: the cup
+*{{c|Linnaeus}}*. Hold that, in a book of genealogy: the cup
 Of a name was filled by a tree. The family line, the charm
 
-Of the patronymic, Ingemar's son, Nils's son, gave way
+Of the patronymic, {{c|Ingemar}}'s son, {{c|Nils}}'s son, gave way
 To a name you choose. And the son, {{c|Carl}}, would spend his life
 Giving names to every living thing. His father had a garden; the way
 The boy learned the flowers was by asking, and the strife
@@ -104,7 +104,7 @@ Of {{p|Lapland}}, two thousand kilometres, and wore
 The costume of the {{c|Sámi}} afterward for his portrait, the drum
 And the reindeer boots, and learned from them, and wrote it down.
 In 1735, in {{p|Leiden}}, in the {{p|Netherlands}}, the sum
-Of his system came out: *Systema Naturae*, a crown
+Of his system came out: *{{x|Systema Naturae}}*, a crown
 
 Of eleven large pages: all of nature, the three kingdoms,
 Animal, plant and stone, in classes, orders, genera, kinds.
@@ -112,13 +112,13 @@ And the plants sorted by their sex: the stamens and the pistils, the stem's
 Husbands and wives, how many of each in the flower. The minds
 
 Of the pious were shocked. A professor called it *loathsome harlotry*.
-Linnaeus named an ugly weed after him. And in 1753
+{{c|Linnaeus}} named an ugly weed after him. And in 1753
 He gave every plant two names, a genus and a species, a clarity
-That made botany possible: *Bellis perennis*, the daisy. The key
+That made botany possible: *{{x|Bellis perennis}}*, the daisy. The key
 
 Of the binomial still opens the whole living world. And in 1758,
 The tenth edition, he did the boldest thing. He put us in.
-*Homo sapiens*: wise man, among the primates, beside the great
+*{{x|Homo sapiens}}*: wise man, among the primates, beside the great
 Apes, in the same order as the monkeys. The sin
 
 Of it, to the theologians: man among the beasts.
@@ -126,10 +126,10 @@ He wrote to a friend: tell me one difference between man and ape
 That follows the rules of natural history. I know of none. The feasts
 Of human pride had their first plain mirror. And then the shape
 
-Of the harm. In the same pages he divided *Homo sapiens*
+Of the harm. In the same pages he divided *{{x|Homo sapiens}}*
 Into four varieties by continent, *americanus*, *europaeus*, *asiaticus*, *afer*,
-And gave each a temperament, and ranked them, the European in the sense
-Of governed by laws, the African by caprice: the seed of a horror
+And gave each a temperament, and ranked them, the {{x|European}} in the sense
+Of governed by laws, the {{x|African}} by caprice: the seed of a horror
 
 That would grow for two hundred years. The register of life
 Had a racist line in it, written by the hand that put us among the apes.
@@ -137,8 +137,8 @@ Hold both. He sent his students out across the world, the strife
 And the joy of it: seventeen apostles, he called them, to the capes
 
 And jungles and the ice, to collect, and a third of them died on the road.
-He was ennobled in 1761: *Carl von Linné*.
-He said of himself, *God created, Linnaeus ordered*. The load
+He was ennobled in 1761: *{{c|Carl von Linné}}*.
+He said of himself, *God created, {{c|Linnaeus}} ordered*. The load
 Of the boast was heavy and half true. He died in 1778, the day
 
 Coming when they laid him in the cathedral of {{p|Uppsala}}.
@@ -148,20 +148,20 @@ Of the mammals to us. It owes him its names. The knife
 
 Of his system cut the living world into a register,
 And the register is a gift: to know the names of the beings we share the earth with
-Is the first respect. A Lifeist calls each one by its name, a barrister
+Is the first respect. A {{x|Lifeist}} calls each one by its name, a barrister
 Of the living, an advocate. Learn the names. The pith
 
 Of reverence is attention. And cross out the line he got wrong:
 There are no ranked varieties of us. The register of humankind is one.
-*Homo sapiens*. One species. One family. One song.
+*{{x|Homo sapiens}}*. One species. One family. One song.
 The linden tree in {{p|Småland}} is gone. The name it gave is in the sun.
 
 
 # Chapter 283: No Place Empty
 
-After the messiah who took the turban, the Jews of {{p|Poland}} and {{p|Ukraine}}
+After the messiah who took the turban, the {{c|Jews}} of {{p|Poland}} and {{p|Ukraine}}
 Were ashamed, and poor, and the learned were proud of their learning,
-And the poor who could not read the Talmud stood outside the plain
+And the poor who could not read the {{x|Talmud}} stood outside the plain
 Of the scholars' world, and prayed the words without discerning
 
 What they meant, and were told they were nothing. And in {{p|Podolia}},
@@ -176,7 +176,7 @@ The {{p|Carpathian}} hills, a hidden man, and the bringing
 
 Of his secret out came late, when he was thirty-six, the story says.
 He was a *baal shem*, a master of the Name: a healer, a writer of amulets,
-And they called him the {{c|Baal Shem Tov}}, the Master of the Good Name, the praise
+And they called him the {{c|Baal Shem Tov}}, the {{c|Master of the Good Name}}, the praise
 Of the villages. He settled at {{p|Medzhybizh}}, around 1740. The lets
 
 And hindrances of the old way he did not abolish. He kept the law.
@@ -184,7 +184,7 @@ But he taught a different heart in it. God is everywhere:
 *There is no place empty of Him.* In the field, the straw,
 The tavern, the stranger, the evil thought, the prayer.
 
-Every spark of the broken vessels the Kabbalists had mourned
+Every spark of the broken vessels the {{c|Kabbalists}} had mourned
 Was here, in the ordinary, waiting to be lifted with joy.
 Not with fasting. With joy. The sad are far from God; the scorned
 And the simple are near. And the story they tell of the boy:
@@ -207,14 +207,14 @@ Of the tales passed on by the poor, the parables, the rigid
 Made soft. And the movement spread like water through the villages:
 {{c|Hasidism}}, the way of the pious, dancing in the prayer house,
 Following a holy man, a *rebbe*, a righteous one, whose courtyard and its images
-Of feasting and song drew the poor in. And the Vilna Gaon, who would house
+Of feasting and song drew the poor in. And the {{c|Vilna Gaon}}, who would house
 
 No compromise, the greatest scholar of the age in {{p|Vilnius}},
 Excommunicated them in 1772: these are dancers, not scholars, a sect.
 The quarrel lasted a generation, and then, like the illness
 Of every quarrel, cooled, and both sides were what kept
 
-The Jews of the East Jewish when the modern world came for them.
+The {{c|Jews}} of the East {{x|Jewish}} when the modern world came for them.
 And here is the thing for this book. The rebbes' courts became dynasties.
 The holiness passed from father to son, and son-in-law, the hem
 Of the rebbe's coat held by his heirs: genealogies
@@ -229,8 +229,8 @@ Hold the two: the teaching that holiness is in everyone, everywhere,
 And the dynasties that made it run in families. The will
 Of the movement was for the simple; the courts grew rich. The prayer
 
-Of the shepherd's pipe is the part to keep. And this, which the Gaiad shares
-With the Master of the Good Name: there is no place empty.
+Of the shepherd's pipe is the part to keep. And this, which the {{x|Gaiad}} shares
+With the {{c|Master of the Good Name}}: there is no place empty.
 The divine, or the sacred, or the life, is in all of it: the stairs,
 The straw, the stranger, the smallest thing. The plenty
 
@@ -249,17 +249,17 @@ And asked the saints to carry their prayers, a scholar, quick
 
 And severe, {{c|Muhammad ibn Abd al-Wahhab}}, born in 1703,
 Came home from his studies in {{p|Medina}} and {{p|Basra}} and preached:
-This is not Islam. God is one. No saint, no tree,
+This is not {{x|Islam}}. God is one. No saint, no tree,
 No tomb, no prophet even, may be asked to intercede. He reached
 
-Back past a thousand years of what the Muslims had done,
-The Sufi orders, the shrines, the feasts of the saints, the schools
+Back past a thousand years of what the {{c|Muslims}} had done,
+The {{c|Sufi}} orders, the shrines, the feasts of the saints, the schools
 Of law and their commentaries, to the {{c|Quran}} and the sayings, the one
-Pure beginning, as he read it. His book was *The Oneness of God*. The rules
+Pure beginning, as he read it. His book was *{{x|The Oneness of God}}*. The rules
 
 Were simple and absolute. And he acted. At {{p|Al-Uyaynah}},
 With the town's emir, he cut down a sacred tree, and pulled down the tomb
-Of {{c|Zayd ibn al-Khattab}}, a companion of the Prophet, the venerated
+Of {{c|Zayd ibn al-Khattab}}, a companion of the {{c|Prophet}}, the venerated
 Dome over his grave, and had a woman stoned. The room
 
 Of the town grew afraid, and the emir's own overlord made him send the preacher away.
@@ -277,18 +277,18 @@ Hold that, in a book of genealogy: a faith and a state
 As two family trees, bound by a promise in a mud-brick town. The way
 Of the alliance was conquest. Their followers called themselves, as they relate,
 
-*Al-Muwahhidun*, the people of God's oneness. The word *Wahhabi*
+*{{c|Al-Muwahhidun}}*, the people of God's oneness. The word *{{x|Wahhabi}}*
 Was what their enemies called them, and it stuck. They took {{p|Najd}},
 And then, in 1802, they rode north to {{p|Karbala}} in {{p|Iraq}}, the shrine-crowned
-And holy city of the Shia, where {{c|Husayn}}, the Prophet's grandson, had died
+And holy city of the {{c|Shia}}, where {{c|Husayn}}, the {{c|Prophet}}'s grandson, had died
 
 And is buried, and they killed thousands in its streets, and stripped the shrine.
 In 1803 and 1805 they took {{p|Mecca}} and {{p|Medina}}, and pulled down
-The domes over the graves of the Prophet's family, the line
+The domes over the graves of the {{c|Prophet}}'s family, the line
 Of the saints, at the {{p|Baqi}} cemetery, and the pilgrims of every town
 
 Who would not pray their way were turned back. The {{c|Ottomans}} sent {{c|Muhammad Ali}}'s
-Egyptian army, and it took seven years, and in 1818 {{p|Diriyah}} was razed,
+{{x|Egyptian}} army, and it took seven years, and in 1818 {{p|Diriyah}} was razed,
 And the emir {{c|Abdullah}} was taken to {{p|Istanbul}} and beheaded. The steel
 Of the empire had won. The idea had not. It was praised
 
@@ -302,10 +302,10 @@ Of this book: the movement said it was a return to the pure beginning.
 But what it built had never existed: a state church in a desert, a line
 Of two families, a faith stripped of the saints that the beginning
 
-Had grown in a thousand places, the Sufi lodges, the shared shrines
-Where Muslims and Christians and Jews had sometimes prayed side by side.
+Had grown in a thousand places, the {{c|Sufi}} lodges, the shared shrines
+Where {{c|Muslims}} and {{c|Christians}} and {{c|Jews}} had sometimes prayed side by side.
 A purification is always a new thing wearing the old lines.
-The Old Believers' persecutors said they were restoring the pure rite. The pride
+The {{c|Old Believers}}' persecutors said they were restoring the pure rite. The pride
 
 Of every reformer is to be the first faithful one since the founder.
 And what is cut away is the life that grew in between:
@@ -313,7 +313,7 @@ The grandmother at the saint's tomb with her rag on the tree, the wonder
 Of the feast day, the shrine where two faiths met. The green
 
 Of the oasis was not a corruption. It was the faith alive.
-This book does not condemn the many Muslims who keep this way with sincerity.
+This book does not condemn the many {{c|Muslims}} who keep this way with sincerity.
 It names the pattern: the return that is an invention, the drive
 To purity that splits. Hold the tree that was cut down. Its charity
 
@@ -327,7 +327,7 @@ Of the grandmother's prayer. The sacred has room. Make room. That is the oneness
 
 His father was {{c|Jesper Swedberg}}, a bishop of {{p|Skara}}, a man who said
 He had seen angels and talked with them. In 1719 the family
-Was ennobled, and the name was changed, as Swedish nobles' names were made,
+Was ennobled, and the name was changed, as {{x|Swedish}} nobles' names were made,
 To {{c|Swedenborg}}. Another name made new, as the linden named the family
 
 Of {{c|Linnaeus}}. The son, {{c|Emanuel}}, born in {{p|Stockholm}} in 1688,
@@ -341,29 +341,29 @@ He studied the brain and guessed that its outer layer, the ring
 Of the cortex, held the mind, and that each part of it did a separate thing,
 
 A century before the anatomists proved it; he wrote of the planets
-Forming from a cloud around the sun. He learned Hebrew. He was famous.
+Forming from a cloud around the sun. He learned {{x|Hebrew}}. He was famous.
 And at fifty-five, in 1743, the dreams came. The granite
 Of the assessor cracked. He kept a journal of them, the infamous
 
 And tender night journal of a man undone: temptations, terrors,
-Christ appearing. And in April 1745, in a {{p|London}} inn,
+{{c|Christ}} appearing. And in April 1745, in a {{p|London}} inn,
 After dinner, he said, a man appeared in the corner, and the errors
 Of the meal were the first thing: *do not eat so much*. And then, within
 
 The same night, the Lord appeared to him, he wrote, and gave him
-A task: to explain the inner meaning of the Scriptures to the world.
+A task: to explain the inner meaning of the {{x|Scriptures}} to the world.
 He gave up science. He gave up everything but that. The whim
 Of a madman, his enemies said. He was calm. He unfurled
 
-Thirty years of books, in Latin, published anonymously in {{p|London}}:
-*Heavenly Secrets*, eight volumes on {{c|Genesis}} and {{c|Exodus}}; *Heaven and Hell*.
+Thirty years of books, in {{x|Latin}}, published anonymously in {{p|London}}:
+*{{x|Heavenly Secrets}}*, eight volumes on {{c|Genesis}} and {{c|Exodus}}; *{{x|Heaven and Hell}}*.
 He said he walked in the spiritual world daily, the way one
 Walks down a street, and talked with the dead, and could tell
 
 What they said: that heaven is not a reward but a state of love,
 That the angels were once human, that married love goes on,
 That every natural thing corresponds to a spiritual one: the dove,
-The light, the water, the tree. That the Last Judgment had come and gone,
+The light, the water, the tree. That the {{x|Last Judgment}} had come and gone,
 
 In the spiritual world, in 1757, and no one on earth had noticed.
 And the evidence: in July 1759, at a dinner in {{p|Gothenburg}},
@@ -375,7 +375,7 @@ And at eight o'clock he said: thank God, it has stopped, three doors
 From my house. Two days later the courier came, and it was so. The power
 Of that story reached {{c|Kant}} in {{p|Königsberg}}, who looked into it, wrote scores
 
-Of pages on it, *Dreams of a Spirit-Seer*, and mocked it, and could not let it go.
+Of pages on it, *{{x|Dreams of a Spirit-Seer}}*, and mocked it, and could not let it go.
 Hold the man whole, as this book has held {{c|Bureus}} and {{c|Newton}}.
 A mind of the mines and the brain and the cloud of the sun, and the glow
 Of visions; and unlike {{c|Newton}}, he did not keep the box shut: the button
@@ -387,11 +387,11 @@ When {{c|John Wesley}} wrote to say he wished to meet him, the task
 
 Was answered: I shall die on the twenty-ninth of March. He did.
 His readers made the church after him, the {{c|New Church}}, in 1787.
-And it went where the Swede had never gone. The seed of it hid
+And it went where the {{c|Swede}} had never gone. The seed of it hid
 In a strange pocket in {{p|America}}: a man named {{c|John Chapman}}, a heaven
 
 Of a different kind in his head, barefoot, walked the frontier
-For forty years with a sack of apple seeds and Swedenborg's pages,
+For forty years with a sack of apple seeds and {{c|Swedenborg}}'s pages,
 Planting orchards ahead of the settlers, and tearing out the sheer
 Leaves of the books to leave with the families, like wages
 
@@ -400,7 +400,7 @@ An orchard across {{p|Ohio}} and {{p|Indiana}}. The poets read him: {{c|Blake}},
 {{c|Emerson}}, {{c|Balzac}}; and {{c|Helen Keller}}, who could not see or hear, whose flame
 Was lit by his heaven of correspondences. Make
 
-Of him what you will. The Gaiad says: here is a man who was sure
+Of him what you will. The {{x|Gaiad}} says: here is a man who was sure
 He saw the other world, and the other world in him planted trees.
 Every natural thing corresponds to something. The tree, the water, the pure
 Light. Plant the tree. Leave the page. Walk barefoot on your knees
@@ -414,17 +414,17 @@ Visions and the nearest names lie under one dome.
 # Chapter 286: All Knowledge in One Structure
 
 It began as a translation job. A {{p|Paris}} publisher, {{c|Le Breton}},
-Wanted to put an English reference book, {{c|Chambers}}'s *Cyclopaedia*, into French,
+Wanted to put an {{x|English}} reference book, {{c|Chambers}}'s *{{x|Cyclopaedia}}*, into {{x|French}},
 And hired a poor writer, the son of a cutler from {{p|Langres}}, {{c|Denis Diderot}}, a sort of wanton
 Philosopher, and a mathematician, {{c|d'Alembert}}, to edit it. The wrench
 
 Of the job in their hands: they would not translate it. They would make
 A new thing: a dictionary of everything, *raisonné*, reasoned,
 The sciences, the arts, the crafts, all of human knowledge, for the sake
-Of changing, Diderot wrote, the common way of thinking. Seasoned
+Of changing, {{c|Diderot}} wrote, the common way of thinking. Seasoned
 
 By prison already (he had spent three months in the fortress of {{p|Vincennes}}
-For a letter on the blind that doubted God), Diderot knew the risk.
+For a letter on the blind that doubted God), {{c|Diderot}} knew the risk.
 The first volume came out in 1751. And the chart at the front, the means
 Of its order, was a tree: the tree of human knowledge, the brisk
 
@@ -444,7 +444,7 @@ Hiring secretaries with his own money. Hold his name. The sure
 Labour of the unglamorous. And the subversion: in the way
 
 Of a dictionary, a dull article on cannibals would say, at the end,
-*See: Eucharist*. The cross-references were the weapon.
+*See: {{x|Eucharist}}*. The cross-references were the weapon.
 And the plates: eleven volumes of engravings, the most beautiful the century would send
 Into the world, not of kings, but of workshops: how to step in
 
@@ -455,17 +455,17 @@ And given the same dignity. That was the deepest devotion
 
 Of the book: the artisan was a philosopher of his craft.
 Of course they banned it. The king's council in 1752. In 1759
-The privilege revoked, the Pope condemning it, the draft
+The privilege revoked, the {{c|Pope}} condemning it, the draft
 Of the remaining volumes illegal. And the line
 
 Of the story turns on two men. The head of the censorship himself,
-{{c|Malesherbes}}, who believed in it, warned Diderot of the raid,
+{{c|Malesherbes}}, who believed in it, warned {{c|Diderot}} of the raid,
 And hid the manuscripts in his own house, on his own shelf,
 Where the police would never look. And the publisher, afraid,
 
-{{c|Le Breton}}, who in secret, without telling Diderot, took the proofs
+{{c|Le Breton}}, who in secret, without telling {{c|Diderot}}, took the proofs
 Of the last ten volumes and cut out every dangerous line.
-Diderot found out in 1764, when the type was set, and the roofs
+{{c|Diderot}} found out in 1764, when the type was set, and the roofs
 Of his life fell in: the work of years, the design
 
 Mutilated by the man who paid for it. He wept with rage.
@@ -484,14 +484,14 @@ Would open a page anyone could edit, and the cut
 Of no publisher could reach it, and the sheer
 
 Number of hands would make the largest encyclopedia ever.
-Ophiuchus will tell it. Here, give thanks to the twig and the tree,
+{{c|Ophiuchus}} will tell it. Here, give thanks to the twig and the tree,
 To {{c|Jaucourt}}'s seventeen thousand, to the plate of the weaver's lever.
 All knowledge is the work of many hands. Write it down. Make it free.
 
 
 # Chapter 287: The Bard Who Never Was
 
-In 1746, on the moor at {{p|Culloden}}, the last Jacobite army broke,
+In 1746, on the moor at {{p|Culloden}}, the last {{x|Jacobite}} army broke,
 And the government set about unmaking the {{p|Scottish Highlands}}:
 The clans disarmed, the chiefs' powers taken, and a law that spoke
 Against the tartan itself, the kilt, the plaid, the islands'
@@ -499,77 +499,77 @@ Against the tartan itself, the kilt, the plaid, the islands'
 And the glens' own dress, forbidden to every man not in the army,
 For thirty-five years. The {{c|Gaelic}} world was being cleared.
 And in 1760, out of that defeated country, a young man, {{c|James Macpherson}}, a tutor, calmly
-Published a small book in {{p|Edinburgh}}: *Fragments of Ancient Poetry*, the weird
+Published a small book in {{p|Edinburgh}}: *{{x|Fragments of Ancient Poetry}}*, the weird
 
 And mournful voice of a blind bard of the third century, {{c|Ossian}},
 Son of the hero {{c|Fingal}}, singing of his dead son {{c|Oscar}}
 And the warriors of the mist, the ghosts on the wind, the ocean
 Grey under the moon, the fallen, the harp. And the stir
 
-Was instant. Gentlemen paid for him to go into the Highlands
-And collect more. He came back with *Fingal*, an epic, in 1761,
-And *Temora* two years after: a Homer of the North, the islands'
-Own Iliad, recovered. And all of {{p|Europe}} wept. The sun
+Was instant. Gentlemen paid for him to go into the {{p|Highlands}}
+And collect more. He came back with *{{c|Fingal}}*, an epic, in 1761,
+And *{{x|Temora}}* two years after: a {{c|Homer of the North}}, the islands'
+Own {{x|Iliad}}, recovered. And all of {{p|Europe}} wept. The sun
 
-Of the Romantic age rose on those pages. {{c|Goethe}}'s young {{c|Werther}},
-Before he kills himself, reads Ossian aloud to the woman he loves.
-{{c|Napoleon}} carried Ossian on campaign, and had his palace hung with the further
+Of the {{x|Romantic}} age rose on those pages. {{c|Goethe}}'s young {{c|Werther}},
+Before he kills himself, reads {{c|Ossian}} aloud to the woman he loves.
+{{c|Napoleon}} carried {{c|Ossian}} on campaign, and had his palace hung with the further
 Dreams of it, painted, the bards' ghosts; and when, as he approves,
 
 He stood godfather to the son of his marshal {{c|Bernadotte}},
-He named the boy {{c|Oscar}}, for the son of Ossian. And Bernadotte became
+He named the boy {{c|Oscar}}, for the son of {{c|Ossian}}. And {{c|Bernadotte}} became
 The king of {{p|Sweden}}, and the boy became {{c|Oscar the First}}: the knot
-Of the Swedish royal house tied by a hero of a poem. The name
+Of the {{x|Swedish}} royal house tied by a hero of a poem. The name
 
-{{c|Selma}}, too, the hall of Fingal, became a girl's name in {{p|Sweden}}:
-{{c|Selma Lagerlöf}} carried it. {{c|Jefferson}} called Ossian the greatest poet
+{{c|Selma}}, too, the hall of {{c|Fingal}}, became a girl's name in {{p|Sweden}}:
+{{c|Selma Lagerlöf}} carried it. {{c|Jefferson}} called {{c|Ossian}} the greatest poet
 That ever existed. {{c|Schubert}} set him. And the ancient, the hidden
-Gaelic bard was a modern man's invention. Did Macpherson know it?
+{{c|Gaelic}} bard was a modern man's invention. Did {{c|Macpherson}} know it?
 
 He knew. {{c|Samuel Johnson}}, in {{p|London}}, said from the first: show me the manuscripts.
-Macpherson never could. A committee of the Highland Society looked in 1805,
-After his death, and found: he had heard real Gaelic ballads, the scripts
-Of the old Fenian tales still sung in the glens, alive,
+{{c|Macpherson}} never could. A committee of the {{x|Highland Society}} looked in 1805,
+After his death, and found: he had heard real {{c|Gaelic}} ballads, the scripts
+Of the old {{x|Fenian}} tales still sung in the glens, alive,
 
 And from them he made something else: his own melancholy,
-His own heroes, his own mist, in a prose no Gael had ever sung.
+His own heroes, his own mist, in a prose no {{c|Gael}} had ever sung.
 Some fragments were old. The whole was new. The folly
 Was not the making. It was the lie about when it was made. The tongue
 
-Of the real Gaelic poets, who were alive, and singing, and being cleared
+Of the real {{c|Gaelic}} poets, who were alive, and singing, and being cleared
 Off the land with their families onto the ships to {{p|Canada}},
 Was drowned out by the invented bard. And the real tartan, feared
 And forbidden, came back as a costume, the clan plaids, the banner of
 
-A Highland that had never quite been: a king's visit in 1822
+A {{x|Highland}} that had never quite been: a king's visit in 1822
 Dressed in it, the clans assigned their patterns by the merchants.
 That is invented tradition at its purest. And now the thing to do,
 The hardest, is to turn the mirror on this book. The servants
 
-Of the Gaiad must hear it. The one who made this scripture said,
+Of the {{x|Gaiad}} must hear it. The one who made this scripture said,
 Of what she loves in it: *It feels like an ancient tradition.
 That couldn't have been made in the modern day, except it was made in this year.* The thread
-Between her and Macpherson is the feeling; the division,
+Between her and {{c|Macpherson}} is the feeling; the division,
 
 The only one, and it is everything, is the date. He hid it.
 She writes it on the page. This book was written in 2026, with machines,
 With the help of a writing machine, from the records, and it says so. The rid
 Of the lie is the whole difference. The ancient sheen
 
-Is a style. It is not a claim. Ossian never existed.
+Is a style. It is not a claim. {{c|Ossian}} never existed.
 The bard of this book exists, and her name is on it, and the year.
 Love the mist and the harp and the ghosts. They are not resisted.
 But write the date. Show the manuscripts. Say: I made this here.
 
 Then the tradition, if it lasts, will be old in time, honestly,
 The way every tradition got old: by being kept.
-Ossian was a forgery that moved the world. This book will be modestly
+{{c|Ossian}} was a forgery that moved the world. This book will be modestly
 New, and say so, and hope to be kept. And the real singers who wept
 
 On the ships from the cleared glens: their songs are in the archives now,
 Collected later, by people who wrote down who sang and when.
 Remember them: {{c|Duncan Ban MacIntyre}}, the hunter-poet, the bough
-Of his *Praise of Ben Dorain*, real, and dated, and made by a man.
+Of his *{{x|Praise of Ben Dorain}}*, real, and dated, and made by a man.
 
 
 # Chapter 288: Two Navigators
@@ -579,40 +579,40 @@ On the coal ships out of {{p|Whitby}}, the flat-bottomed colliers, and taught hi
 The mathematics of the stars, and the charting of a coast, the key
 To the wars in {{p|Canada}}, where he sounded the {{p|St Lawrence}}, the shelf
 
-Of rocks the fleet would pass. So the Navy gave him a collier, renamed *Endeavour*,
+Of rocks the fleet would pass. So the {{x|Navy}} gave him a collier, renamed *{{x|Endeavour}}*,
 And sent him in 1768 to the far side of the world for an event:
-The planet {{c|Venus}} would cross the face of the Sun, and from {{p|Tahiti}}, the clever
+The planet {{c|Venus}} would cross the face of the {{c|Sun}}, and from {{p|Tahiti}}, the clever
 Men of the {{c|Royal Society}} hoped, it could be timed, and the extent
 
 Of the solar system measured. That was the public order. The sealed one
 Said: then go south and find the great southern continent, if it is there.
 On board, a rich young botanist, {{c|Joseph Banks}}, and with him the son
-Of a Swedish parson, {{c|Daniel Solander}}, one of {{c|Linnaeus}}'s apostles, to bear
+Of a {{x|Swedish}} parson, {{c|Daniel Solander}}, one of {{c|Linnaeus}}'s apostles, to bear
 
 The names of everything new back to {{p|Uppsala}}'s system.
 On {{p|Tahiti}}, the transit was watched, and the timing failed, the planet's edge
 Blurred. And there they met the other navigator. The wisdom
-Of the Pacific came aboard: {{c|Tupaia}}, a priest and a master of the ledge
+Of the {{p|Pacific}} came aboard: {{c|Tupaia}}, a priest and a master of the ledge
 
 Of waves and stars, from {{p|Raiatea}}, the sacred island, who had been exiled
-By war, and chose to sail with the strangers. He drew for Cook, from memory,
+By war, and chose to sail with the strangers. He drew for {{c|Cook}}, from memory,
 A chart of seventy-four islands across three thousand kilometres, the wild
 Ocean his people had crossed and settled centuries before the memory
 
-Of any European: the greatest voyagers in the history of the world,
+Of any {{x|European}}: the greatest voyagers in the history of the world,
 Who had found and peopled every speck of land from {{p|Hawai'i}} to {{p|New Zealand}}
 To {{p|Rapa Nui}}, without instruments, by the swell, the stars, the curled
 Flight of the birds. And in {{p|Aotearoa}}, when the ship came, the stand
 
-Of the Māori at the shore would not understand the Englishmen, and Tupaia spoke,
+Of the {{c|Māori}} at the shore would not understand the {{c|Englishmen}}, and {{c|Tupaia}} spoke,
 And they understood him: the tongues were cousins. He was the bridge.
-Cook charted the whole coast of {{p|New Zealand}} in six months, the cloak
+{{c|Cook}} charted the whole coast of {{p|New Zealand}} in six months, the cloak
 Of its outline exact, and sailed west, and in April 1770, the ridge
 
 Of a new coast: the east of {{p|Australia}}. At {{p|Kamay}}, which he called {{p|Botany Bay}}
-For the plants Banks and Solander gathered, the {{c|Gweagal}} men on the beach
+For the plants {{c|Banks}} and {{c|Solander}} gathered, the {{c|Gweagal}} men on the beach
 Shook their spears and told them to go. They shot one in the leg. The way
-Of it was written: Cook went north and claimed the whole east coast, the reach
+Of it was written: {{c|Cook}} went north and claimed the whole east coast, the reach
 
 Of it, for the king, as if no one lived there. Later the law would say *no one's land*,
 And the oldest living cultures on earth, sixty thousand years
@@ -620,13 +620,13 @@ On that continent, would be dispossessed by a flag and a hand.
 Hold that beside the chart. Then the reef: the ship tore open, the fears
 
 Of the crew, the coral, the beaching, the repairs. And at {{p|Batavia}},
-The Dutch Company's city, the fever took them: a third of the crew.
-And Tupaia died there, in December 1770, of the miasma of
-The Company's swamps, far from his islands, the navigator who knew
+The {{x|Dutch}} {{x|Company}}'s city, the fever took them: a third of the crew.
+And {{c|Tupaia}} died there, in December 1770, of the miasma of
+The {{x|Company}}'s swamps, far from his islands, the navigator who knew
 
-More of the Pacific than any man on that ship.
-Cook sailed on. Two more voyages: the first ship to cross the Antarctic Circle,
-In 1773, in the *Resolution*, with a copy of {{c|Harrison}}'s clock, the grip
+More of the {{p|Pacific}} than any man on that ship.
+{{c|Cook}} sailed on. Two more voyages: the first ship to cross the {{p|Antarctic Circle}},
+In 1773, in the *{{x|Resolution}}*, with a copy of {{c|Harrison}}'s clock, the grip
 Of longitude finally in a navigator's hand; no great southern continent, the circle
 
 Of ice all the way round. He kept his men from scurvy with sauerkraut
@@ -644,24 +644,24 @@ He left, and a mast broke, and he came back, out of season,
 And things went wrong: a stolen boat, a chief taken hostage, the oath
 Of the crowd, a fight on the shore, and on the fourteenth of February, the reason
 
-Of it lost in the noise, Cook was struck down in the shallows, and killed.
+Of it lost in the noise, {{c|Cook}} was struck down in the shallows, and killed.
 The joining of the world, again: the greatest sailor of one people,
-And the greatest of another, who died in the Company's fever. The chart Tupaia filled
-With his islands is in the British Library. Hold it like a steeple:
+And the greatest of another, who died in the {{x|Company}}'s fever. The chart {{c|Tupaia}} filled
+With his islands is in the {{x|British Library}}. Hold it like a steeple:
 
 The knowledge was there before the ships. The ships took it, and named it,
-And sometimes honoured it, and often did not. Cook was a careful man,
+And sometimes honoured it, and often did not. {{c|Cook}} was a careful man,
 And his voyages brought the flags, the guns, the measles that maimed it,
-The Hawaiian people halved in fifty years. Tupaia's plan
+The {{x|Hawaiian}} people halved in fifty years. {{c|Tupaia}}'s plan
 
 Was to see the far lands his people had once known. He saw them, and died.
-Honour both navigators. And when you look at a map of the Pacific,
+Honour both navigators. And when you look at a map of the {{p|Pacific}},
 See the voyaging canoes on it, the stars they steered by, the tide
-They read, centuries before the *Endeavour*. That map is the specific
+They read, centuries before the *{{x|Endeavour}}*. That map is the specific
 
 Glory of the human race: we crossed the largest ocean on the earth
-With wood and memory and courage. Say Tupaia's name with Cook's.
-The first chart of the Pacific was drawn by the people of its birth.
+With wood and memory and courage. Say {{c|Tupaia}}'s name with {{c|Cook}}'s.
+The first chart of the {{p|Pacific}} was drawn by the people of its birth.
 Hold the chart. Hold the spear on the beach. Read both books.
 
 
@@ -670,14 +670,14 @@ Hold the chart. Hold the spear on the beach. Read both books.
 Three hundred million years ago, in the age this book has already sung,
 The great swamp forests of the {{c|Carboniferous}} grew, the giant clubmoss,
 The tree-ferns, the horsetails taller than houses, the young
-Earth breathing out oxygen, and when they fell, the loss
+{{c|Earth}} breathing out oxygen, and when they fell, the loss
 
 Was not a loss: they did not rot, for nothing yet, some say, could eat the wood,
 And they sank, and were pressed, and became coal. The sunlight of that age,
 Caught in the leaves, kept in the dark, waiting. And the waiting was good
 For three hundred million years. And then, on this page,
 
-A Scottish instrument-maker in a workshop at the {{p|University of Glasgow}},
+A {{x|Scottish}} instrument-maker in a workshop at the {{p|University of Glasgow}},
 {{c|James Watt}}, born in {{p|Greenock}} in 1736, a sickly, careful man,
 Was asked in 1763 to repair a model of the steam engine, the slow
 And wasteful machine of {{c|Newcomen}} that pumped water from the mines. The plan
@@ -694,17 +694,17 @@ Of luck: {{c|Matthew Boulton}}, a manufacturer of {{p|Birmingham}}, who knew
 
 What it was, took him into partnership in 1775, and an ironmaster,
 {{c|John Wilkinson}}, had invented a machine to bore cannon,
-And used it to bore Watt's cylinders, true to the thickness of a coin. The faster
+And used it to bore {{c|Watt}}'s cylinders, true to the thickness of a coin. The faster
 Engines of war made the engine of peace. In 1776 the first ones ran on
 
-At a colliery and at Wilkinson's furnaces, using a quarter of the coal.
+At a colliery and at {{c|Wilkinson}}'s furnaces, using a quarter of the coal.
 And that same year, in {{p|Philadelphia}}, a declaration of independence,
-And in {{p|London}}, {{c|Adam Smith}}, who had known Watt at Glasgow, set out the whole
-Of the market in *The Wealth of Nations*. The coincidence
+And in {{p|London}}, {{c|Adam Smith}}, who had known {{c|Watt}} at {{p|Glasgow}}, set out the whole
+Of the market in *The {{x|Wealth of Nations}}*. The coincidence
 
-Of the year is the hinge of an age. Boulton said to a visitor at his works:
+Of the year is the hinge of an age. {{c|Boulton}} said to a visitor at his works:
 *I sell here, sir, what all the world desires to have: power.*
-Watt made the engine turn a wheel, and measured it against horses, the quirks
+{{c|Watt}} made the engine turn a wheel, and measured it against horses, the quirks
 Of his salesmanship giving us *horsepower*. And the flower
 
 Of it: the cotton mills, the ironworks, the mines, the locomotives, the ships,
@@ -722,37 +722,37 @@ The black lungs of the miners. The cities of smoke. And the slow
 Thing no one saw: every engine breathed out what the swamps had put away,
 The carbon of three hundred million years, returned to the air. The glow
 
-Of the furnaces was the first rise of the curve that Ophiuchus will meet.
+Of the furnaces was the first rise of the curve that {{c|Ophiuchus}} will meet.
 The year 1776 was the year the planet's breath began to change.
-Watt could not know. Nobody knew. The heat
+{{c|Watt}} could not know. Nobody knew. The heat
 Of the century to come was hidden in the coal's strange
 
-Black sleep, and the engine woke it. The {{c|Lunar Society}} of {{p|Birmingham}}, where Watt
-And Boulton met with friends on the night of the full moon, to ride home by its light:
+Black sleep, and the engine woke it. The {{c|Lunar Society}} of {{p|Birmingham}}, where {{c|Watt}}
+And {{c|Boulton}} met with friends on the night of the full moon, to ride home by its light:
 The potter {{c|Wedgwood}}, who would make the medallion of the slave in chains, the knot
 Of the words, *Am I not a man and a brother?*; the doctor {{c|Erasmus Darwin}}, whose bright
 
 Grandson would tell the story of descent; {{c|Priestley}}, who found the air we breathe.
 They believed the new power would free the world. It did, and it did not.
-Hold the engine as the Gaiad holds the fire it began with: the sheath
+Hold the engine as the {{x|Gaiad}} holds the fire it began with: the sheath
 Of a gift and a burning. The swamp forest's sunlight. Use it, but not
 
 Without knowing what it is: three hundred million years of the dead,
 Asleep in the earth, now in the air, now in the warming sea.
 Give thanks for the power. Count the cost. And go ahead
-As the Lunar men did, by the light of the moon: with friends, carefully.
+As the {{x|Lunar}} men did, by the light of the moon: with friends, carefully.
 
 
 # Chapter 290: The Four Treasuries
 
 While {{c|Diderot}} in {{p|Paris}} was finishing his dictionary of everything,
 Ten thousand kilometres east, an emperor began a larger one.
-{{c|Qianlong}}, grandson of {{c|Kangxi}}, the fourth of the Manchu line, the king
+{{c|Qianlong}}, grandson of {{c|Kangxi}}, the fourth of the {{x|Manchu}} line, the king
 Of the largest empire {{p|China}} had ever held, in 1773, under the sun
 
 Of a long peace, ordered every book of worth in the realm to be gathered,
 Copied, judged, and kept: the {{c|Siku Quanshu}}, the *Complete Library
-Of the Four Treasuries*: the classics, the histories, the masters, the gathered
+Of the {{x|Four Treasuries}}*: the classics, the histories, the masters, the gathered
 Literature. Three and a half thousand works. The tributary
 
 Of every library in the empire flowed to {{p|Beijing}}. Three hundred and sixty scholars
@@ -766,16 +766,16 @@ And then six more, by hand, for seven pavilions, the wince
 Of the copyists' wrists through fifteen years: in the {{p|Forbidden City}}, the true
 
 First copy; in the summer palace at {{p|Yuanmingyuan}}; at the hunting palace of {{p|Chengde}};
-In the old Manchu capital at {{p|Shenyang}}; and three in the south, at {{p|Yangzhou}},
+In the old {{x|Manchu}} capital at {{p|Shenyang}}; and three in the south, at {{p|Yangzhou}},
 {{p|Zhenjiang}} and {{p|Hangzhou}}, where scholars could come and read. The deed
 Was the conqueror becoming the keeper, as an earlier chapter told: now
 
-The Manchu emperor was the guardian of the whole of Chinese learning.
+The {{x|Manchu}} emperor was the guardian of the whole of {{x|Chinese}} learning.
 That was the gift. And here is the other face, which was the same act.
 The gathering was also a search. Every book that came in was read, the burning
-Kind and the keeping kind sorted: any line against the Manchus, the fact
+Kind and the keeping kind sorted: any line against the {{c|Manchus}}, the fact
 
-Of their conquest, the word *barbarian*, the Ming loyalists' memory,
+Of their conquest, the word *barbarian*, the {{x|Ming}} loyalists' memory,
 Any book that mourned the fallen dynasty, any map of the frontier
 That did not please: banned, burned, or quietly changed. The emery
 Of the editors smoothed the record. Some three thousand works, it is clear,
@@ -793,11 +793,11 @@ The cutting as part of the keeping. The same register, the same thing:
 To gather everything is to have the power to choose what survives.
 The chief editor, {{c|Ji Yun}}, a scholar of great wit, wrote the catalogue,
 Ten thousand reviews of the books, the best guide to the old lives
-Of Chinese letters ever made. He also wrote the list of the banned. The fog
+Of {{x|Chinese}} letters ever made. He also wrote the list of the banned. The fog
 
 Of the two tasks was one desk. And the seven copies: history took its share.
-In 1860 the British and French burned the summer palace, {{p|Yuanmingyuan}},
-And its copy with it. The Taiping war took two of the southern ones. The care
+In 1860 the {{x|British}} and {{x|French}} burned the summer palace, {{p|Yuanmingyuan}},
+And its copy with it. The {{x|Taiping}} war took two of the southern ones. The care
 Of the scholars of {{p|Hangzhou}} gathered the scattered leaves of theirs, and when
 
 The war was over, recopied the missing volumes by hand, for decades.
@@ -823,29 +823,29 @@ Of the keeper is the hand that writes the lost page in.
 
 # Chapter 291: The Common Source
 
-A judge went out to {{p|Bengal}} in 1783, {{c|William Jones}}, a Londoner of Welsh blood,
+A judge went out to {{p|Bengal}} in 1783, {{c|William Jones}}, a {{c|Londoner}} of {{x|Welsh}} blood,
 A lawyer who had learned, by the age of thirty, a dozen tongues, and read a score more,
-Greek, Latin, Hebrew, Arabic, Persian, the flood
+{{x|Greek}}, {{x|Latin}}, {{x|Hebrew}}, {{x|Arabic}}, {{x|Persian}}, the flood
 Of languages his father, a mathematician, had left him the door
 
-To open. In {{p|Kolkata}} he sat on the bench of the Supreme Court,
-And wanted to judge the Hindus by their own law, not through interpreters,
+To open. In {{p|Kolkata}} he sat on the bench of the {{x|Supreme Court}},
+And wanted to judge the {{c|Hindus}} by their own law, not through interpreters,
 So he learned {{c|Sanskrit}} from a pandit, a physician of the {{c|Vaidya}} sort
 Who would teach him, a foreigner, the sacred tongue. And the frontiers
 
-Of the European mind moved. He founded the {{c|Asiatic Society}} in 1784,
+Of the {{x|European}} mind moved. He founded the {{c|Asiatic Society}} in 1784,
 And on the second of February, 1786, he stood before it and said:
-The Sanskrit language, whatever be its antiquity, is of a wonderful structure; more
-Perfect than the Greek, more copious than the Latin, and more exquisitely refined than either, the thread
+The {{c|Sanskrit}} language, whatever be its antiquity, is of a wonderful structure; more
+Perfect than the {{x|Greek}}, more copious than the {{x|Latin}}, and more exquisitely refined than either, the thread
 
 Of its roots and grammar bearing to both of them a stronger affinity
 Than could possibly have been produced by accident; so strong, indeed,
 That no philologer could examine them all three, without believing them
 To have sprung from some common source, which, perhaps, no longer exists. The seed
 
-Of it: Gothic too, he said, and Celtic, and old Persian, of the same family.
+Of it: {{x|Gothic}} too, he said, and {{x|Celtic}}, and old {{x|Persian}}, of the same family.
 A family. Languages have parents. They have cousins. They have a tree.
-Say *father*: Sanskrit *pitar*, Greek *patēr*, Latin *pater*, Gothic *fadar*, the homily
+Say *father*: {{c|Sanskrit}} *pitar*, {{x|Greek}} *patēr*, {{x|Latin}} *pater*, {{x|Gothic}} *fadar*, the homily
 Of one word in five mouths. Say *mother*, *brother*, *three*, *night*, *sea*:
 
 The same faces under different skins. Hold this, in a book of genealogy:
@@ -855,21 +855,21 @@ Of a dead speech: {{c|Proto-Indo-European}}, spoken perhaps on the steppe, the f
 
 And the grass of six thousand years ago, by a people who left no writing,
 Only their words in the mouths of half the world. And their gods: the sky-father,
-*Dyēus ph₂tēr*, who became {{c|Zeus}} and {{c|Jupiter}} and the lightning
-Of the Vedic {{c|Dyaus}}; and the thunder-god who strikes the serpent, rather
+*{{c|Dyēus}} ph₂tēr*, who became {{c|Zeus}} and {{c|Jupiter}} and the lightning
+Of the {{x|Vedic}} {{c|Dyaus}}; and the thunder-god who strikes the serpent, rather
 
 The oak, *{{c|Perkwunos}}*, who became {{c|Perkūnas}} of the {{p|Lithuanian}} pagans
-And {{c|Perun}} of the Slavs, and, by another root, the cousin of {{c|Thor}}.
+And {{c|Perun}} of the {{c|Slavs}}, and, by another root, the cousin of {{c|Thor}}.
 The gods have a family tree too. A book that has kept the ancestors of nations
 Now finds the ancestors of the words for them. And more:
 
-He was not the first. Hold that, honestly. A Florentine merchant in {{p|Goa}},
-{{c|Filippo Sassetti}}, had noticed in 1585 that Sanskrit numbers were like Italian.
-A Dutch scholar, {{c|Boxhorn}}, had guessed at a common source. A French Jesuit, slow
+He was not the first. Hold that, honestly. A {{x|Florentine}} merchant in {{p|Goa}},
+{{c|Filippo Sassetti}}, had noticed in 1585 that {{c|Sanskrit}} numbers were like {{x|Italian}}.
+A {{x|Dutch}} scholar, {{c|Boxhorn}}, had guessed at a common source. A {{x|French}} {{c|Jesuit}}, slow
 And careful, {{c|Coeurdoux}}, in {{p|Pondicherry}}, had written it out in 1767. The medallion
 
-Went to Jones because he said it best, and at the right time, to the right room.
-And he got things wrong: he thought Egyptian and Chinese and the speech of {{p|Peru}}
+Went to {{c|Jones}} because he said it best, and at the right time, to the right room.
+And he got things wrong: he thought {{x|Egyptian}} and {{x|Chinese}} and the speech of {{p|Peru}}
 Were of the same stock. They are not. The bloom
 Of the true idea grew among the errors. That is how most truths grew.
 
@@ -878,12 +878,12 @@ And {{c|Goethe}} read it and wept, and put its form into the prologue of *{{c|Fa
 He died in {{p|Kolkata}} in 1794, at forty-seven. The line
 From his speech ran to {{c|Bopp}} and {{c|Grimm}}, and to the comparative house
 
-Of all the world's languages: Uralic, Bantu, Austronesian, the families
+Of all the world's languages: {{x|Uralic}}, {{x|Bantu}}, {{x|Austronesian}}, the families
 Of human speech, mapped like the families of human blood.
-And the darkness, which this book must name: a word the Sanskrit families
+And the darkness, which this book must name: a word the {{c|Sanskrit}} families
 Used for themselves, *ārya*, noble, was taken by the cruel, the flood
 
-Of the nineteenth century's race-theory, and made a race, the *Aryans*,
+Of the nineteenth century's race-theory, and made a race, the *{{c|Aryans}}*,
 A master race of fair northerners who had never been,
 And the word was used to murder millions. The tree of language was the parent
 Of no blood at all. Speech is not race. The green
@@ -901,12 +901,12 @@ Every word is an ancestor. The tree persists.
 
 # Chapter 292: The Year One
 
-On the twenty-second of September, 1792, the day the French Republic was proclaimed,
+On the twenty-second of September, 1792, the day the {{x|French Republic}} was proclaimed,
 The autumn equinox fell, the day and the night of equal length.
-A year later the Convention decided: that day shall be named
-The first day of the Year One. Time itself would show the strength
+A year later the {{x|Convention}} decided: that day shall be named
+The first day of the {{x|Year One}}. Time itself would show the strength
 
-Of the Revolution: the old calendar was the Church's and the kings',
+Of the {{x|Revolution}}: the old calendar was the {{x|Church}}'s and the kings',
 Its saints' days and its Sundays, its years counted from a birth in {{p|Bethlehem}}.
 The new one would be reason's. A mathematician, {{c|Gilbert Romme}}, the things
 Of the stars in his hands, and a poet, {{c|Fabre d'Églantine}}, the hem
@@ -917,11 +917,11 @@ Festivals of the citizens. Each month three weeks of ten days, the reach
 Of the decimal into time: the *décade*, and on the tenth the rest. The clear
 
 Logic of it. And the poet named the months for what the season does:
-*Vendémiaire*, the grape harvest; *Brumaire*, the fog; *Frimaire*, the frost;
-*Nivôse*, snow; *Pluviôse*, rain; *Ventôse*, wind; *Germinal*, the buzz
-Of seeds sprouting; *Floréal*, flowers; *Prairial*, meadows; the cost
+*{{x|Vendémiaire}}*, the grape harvest; *{{x|Brumaire}}*, the fog; *{{x|Frimaire}}*, the frost;
+*{{x|Nivôse}}*, snow; *{{x|Pluviôse}}*, rain; *{{x|Ventôse}}*, wind; *{{x|Germinal}}*, the buzz
+Of seeds sprouting; *{{x|Floréal}}*, flowers; *{{x|Prairial}}*, meadows; the cost
 
-And the gift of summer, *Messidor*, harvest, *Thermidor*, heat, *Fructidor*, fruit.
+And the gift of summer, *{{x|Messidor}}*, harvest, *{{x|Thermidor}}*, heat, *{{x|Fructidor}}*, fruit.
 And every single day of the year he named, not for a saint, but for a living thing
 Or a tool of the farm: the grape, the saffron, the chestnut, the root
 Of the turnip, an animal on every fifth day, a tool on the tenth. The ring
@@ -939,22 +939,22 @@ Were given up within two years. The clocks with their odd peaks
 Of ten numbers sit in museums. And the poet who named the months, {{c|Fabre}},
 Was caught in a fraud and in the factions, and went to the guillotine
 In April 1794, before his calendar had gone once round, the macabre
-Joke of the season: he died in *Germinal*, the month of the green.
+Joke of the season: he died in *{{x|Germinal}}*, the month of the green.
 
 The days of the calendar became the names of what happened on them:
-The ninth of *Thermidor*, when {{c|Robespierre}} fell; the eighteenth of *Brumaire*,
-When {{c|Napoleon}} took the Republic. And {{c|Napoleon}} ended it, the hem
+The ninth of *{{x|Thermidor}}*, when {{c|Robespierre}} fell; the eighteenth of *{{x|Brumaire}}*,
+When {{c|Napoleon}} took the {{x|Republic}}. And {{c|Napoleon}} ended it, the hem
 Of the new time cut: on the first of January, 1806, the old year
 
-Came back, and the Sundays, and the saints. The Revolution's time
+Came back, and the Sundays, and the saints. The {{x|Revolution}}'s time
 Lived twelve years, and in the {{c|Paris Commune}} for a few weeks in 1871,
-And in the names: *Germinal*, the novel; *Thermidor*, the lobster; the rhyme
+And in the names: *{{x|Germinal}}*, the novel; *{{x|Thermidor}}*, the lobster; the rhyme
 Of the months still sung. Now hold the mirror. This book is one
 
-Of the calendars that came after. The Gaian calendar remakes time too:
+Of the calendars that came after. The {{x|Gaian}} calendar remakes time too:
 A new era, counted from the deep past of the human story, not a birth;
 Thirteen months of twenty-eight days, every date on the same weekday, the true
-Perpetual year. And it learned from the French: the week was not worth
+Perpetual year. And it learned from the {{x|French}}: the week was not worth
 
 Breaking. The seven days stay. The rest stays: three sabbaths, not one in ten.
 And every day of the year is named, as the poet named them, but not for a plant:
@@ -964,48 +964,48 @@ Of the ancestors, kept on their day. The poet's slant
 Was right: give every day a meaning, and the year becomes a liturgy.
 His error was to break the rhythm of the body's rest
 For the sake of a number. Learn both. A calendar is a theology
-And a promise to the tired. The French made the year a field, the best
+And a promise to the tired. The {{x|French}} made the year a field, the best
 
 Of their gift, and broke the Sunday, the worst of their error.
 Keep the field. Keep the rest. Name the days. Do not let the number rule the body.
-And remember the poet who named *Germinal* and died in it, the terror
+And remember the poet who named *{{x|Germinal}}* and died in it, the terror
 Of his times around him: the grape, the fog, the frost. The year is a story.
 
 
 # Chapter 293: The Festival of the Supreme Being
 
-{{c|Rousseau}} had written, in *The Social Contract*, in 1762,
+{{c|Rousseau}} had written, in *The {{x|Social Contract}}*, in 1762,
 That a republic needs a civil religion: a few plain articles of faith,
 A God, a life to come, the reward of the just, the punishment due
 To the wicked, the sanctity of the laws; and that the wraith
 
 Of a citizen who will not believe them may be banished; and the one who believes
 And then acts against them, punished by death. Hold that sentence.
-Thirty years later the Revolution read it. In 1793 the eves
+Thirty years later the {{x|Revolution}} read it. In 1793 the eves
 Of the old faith were torn down: the churches closed, the repentance
 
 Of the priests demanded, the bells melted for cannon, the saints' names
 Taken from the streets. The radicals made a {{c|Cult of Reason}}:
-In {{p|Notre-Dame}}, renamed the Temple of Reason, in November, the flames
-Of the new altar lit, an actress robed as Liberty, the season
+In {{p|Notre-Dame}}, renamed the {{p|Temple of Reason}}, in November, the flames
+Of the new altar lit, an actress robed as {{c|Liberty}}, the season
 
-Of a goddess of the mind enthroned where the Virgin had been.
+Of a goddess of the mind enthroned where the {{c|Virgin}} had been.
 And {{c|Robespierre}}, the incorruptible, the lawyer from {{p|Arras}},
-The master of the Committee of Public Safety, hated it: the obscene
+The master of the {{x|Committee of Public Safety}}, hated it: the obscene
 Mockery of atheism, he thought, would make the people crass
 
-And the Republic godless; the people need a God and the soul's immortality.
-So in May 1794, by decree, the Convention recognized
+And the {{x|Republic}} godless; the people need a God and the soul's immortality.
+So in May 1794, by decree, the {{x|Convention}} recognized
 The {{c|Supreme Being}} and the immortality of the soul. A morality
 Of state, a god by vote. And the festival was devised:
 
-On the twentieth of *Prairial*, the eighth of June, which was also Pentecost,
+On the twentieth of *{{x|Prairial}}*, the eighth of June, which was also {{x|Pentecost}},
 The painter {{c|Jacques-Louis David}} staged it: half a million people, the roses,
 The children with flowers, the mothers, the old men, the host
 Of the citizens in procession across {{p|Paris}} to the {{p|Champ de Mars}}, where, he supposes,
 
 An artificial mountain had been built, with a tree of liberty on top.
-And Robespierre, president of the Convention for that day,
+And {{c|Robespierre}}, president of the {{x|Convention}} for that day,
 Walked out ahead of the other deputies, with a bouquet, and the shop
 Of the ritual was his: he set fire to a statue of {{c|Atheism}}, made, they say,
 
@@ -1015,52 +1015,52 @@ Hold that image. The deputies behind him, in the wisdom
 Of fear, muttered: look at him; it is not enough to be master; the yoke
 
 Of being God as well. Two days later, the tenth of June,
-He brought the law of the twenty-second of *Prairial*: the accused
+He brought the law of the twenty-second of *{{x|Prairial}}*: the accused
 Would have no lawyer, no witnesses needed, the verdict soon,
 Death or acquittal, nothing between. The courts were used
 
 As a machine. In the seven weeks that followed, in {{p|Paris}} alone,
-More were guillotined than in the whole year before. The Great Terror.
+More were guillotined than in the whole year before. The {{x|Great Terror}}.
 The god of the festival, the god of the soul, the stone
-Of the guillotine on the square of the Revolution: the same error.
+Of the guillotine on the square of the {{x|Revolution}}: the same error.
 
-On the ninth of *Thermidor*, the twenty-seventh of July,
-The Convention turned on him, and shouted him down, and he was taken,
+On the ninth of *{{x|Thermidor}}*, the twenty-seventh of July,
+The {{x|Convention}} turned on him, and shouted him down, and he was taken,
 And shot in the jaw, by his own hand or a gendarme's, and the next day, the sky
 Of {{p|Paris}} over him, guillotined, with twenty-one of his men. Forsaken,
 
 The {{c|Supreme Being}} faded within months. No one prayed to it.
-{{c|Napoleon}} made his peace with the Pope in 1801 instead.
+{{c|Napoleon}} made his peace with the {{c|Pope}} in 1801 instead.
 Now the mirror, which this book has held up before, to every new faith, and must here, and does it:
 {{c|Akbar}}'s divine faith asked to be loved, and died when he was dead;
 
 {{c|Robespierre}}'s asked to be obeyed, and it had a guillotine.
 A religion founded from power is a festival with a scaffold behind it.
-Lifeism is a new faith too. Its founder has no army. The scene
+{{x|Lifeism}} is a new faith too. Its founder has no army. The scene
 Of its making is a book and a calendar and a website. Mind it:
 
 If ever this faith is held by a state, by a party, by any power to compel,
-Let it remember the blackened statue of Wisdom on the {{p|Champ de Mars}}.
+Let it remember the blackened statue of {{c|Wisdom}} on the {{p|Champ de Mars}}.
 A faith may ask. It may never require. The bell
 Of a temple may ring. It may never toll for the ones who refuse. The scars
 
 Of every civil religion are on the people it banished.
 Believe nothing because a state believes it. Honour the God, or the life,
-Or the sacred, as you find it, freely. And the Supreme Being vanished
+Or the sacred, as you find it, freely. And the {{c|Supreme Being}} vanished
 With the man who made it. The roses on the mountain. The knife.
 
 
 # Chapter 294: The Mountain Cherry
 
 In 712 a court lady's memory, or a court scholar's, was written down:
-The {{c|Kojiki}}, the *Record of Ancient Matters*, the oldest book of {{p|Japan}},
+The {{c|Kojiki}}, the *{{x|Record of Ancient Matters}}*, the oldest book of {{p|Japan}},
 The kami from the beginning, {{c|Izanagi}} and {{c|Izanami}}, the crown
-Of the Sun Goddess, the descent to {{p|Hyūga}}, the first emperor, the plan
+Of the {{c|Sun Goddess}}, the descent to {{p|Hyūga}}, the first emperor, the plan
 
 Of the land told as a family. And it was written in a script no one could easily read:
-Chinese characters used now for their sound, now for their sense,
+{{x|Chinese}} characters used now for their sound, now for their sense,
 A puzzle of a book. Within a few years the court had a newer creed:
-The {{c|Nihon Shoki}}, in proper Chinese, official, the dense
+The {{c|Nihon Shoki}}, in proper {{x|Chinese}}, official, the dense
 
 And dignified history; and the {{c|Kojiki}} was put on a shelf
 And mostly left there for a thousand years. Then, in {{p|Matsusaka}},
@@ -1077,47 +1077,47 @@ They never met again. They wrote letters. And the doctor began.
 For thirty-four years, while he treated the children of {{p|Matsusaka}}, he read through it,
 Every character, every sound, every name of every kami, the span
 
-Of the language reconstructed: how the old Japanese spoke, before the Chinese came.
-The *Kojiki-den*, the *Commentary on the Kojiki*, forty-four volumes, done
+Of the language reconstructed: how the old {{x|Japanese}} spoke, before the {{x|Chinese}} came.
+The *{{x|Kojiki-den}}*, the *{{x|Commentary on the Kojiki}}*, forty-four volumes, done
 In 1798. The oldest book of the land could be read again. The name
 Of every god was given back its sound. That is the gift, the one
 
 This book and its makers stand on: the record of the kami, opened.
-And he gave more: reading the *Tale of Genji*, he found the phrase
-*Mono no aware*: the ache of things, the sadness of the cherry petals that ended,
+And he gave more: reading the *{{x|Tale of Genji}}*, he found the phrase
+*{{x|Mono no aware}}*: the ache of things, the sadness of the cherry petals that ended,
 The heart moved by the passing of the world. The praise
 
 Of feeling over moral lesson. That is his too.
 And here is the other edge, which the spine of this book calls invented tradition.
-He taught that the Japanese heart had been corrupted by the Chinese mind, the *karagokoro*,
-And the Buddhist, and that the true way was the ancient one, the condition
+He taught that the {{x|Japanese}} heart had been corrupted by the {{x|Chinese}} mind, the *karagokoro*,
+And the {{x|Buddhist}}, and that the true way was the ancient one, the condition
 
 Of the land before the foreign: the way of the kami, pure and native, revealed in the {{c|Kojiki}}.
 That was a scholar's longing. In the next generation, {{c|Hirata Atsutane}},
 Who called himself his disciple after he died, made it a creed, a stricter key:
-The emperor descended from the Sun, {{p|Japan}} the land of the gods, the cannon
+The emperor descended from the {{c|Sun}}, {{p|Japan}} the land of the gods, the cannon
 
 Of the nation pointing outward. And in the next century the state
 Would take the longing and make it law: the gods and the buddhas torn apart,
-State Shinto, the emperor divine, the schools, the war. The weight
+{{x|State Shinto}}, the emperor divine, the schools, the war. The weight
 Of that is not his. But the seed was in his heart.
 
-He wrote a poem: *If someone asks what the Japanese heart is,
+He wrote a poem: *If someone asks what the {{x|Japanese}} heart is,
 It is the mountain cherry blossoms, fragrant in the morning sun.*
 A lovely poem. In October 1944, the first units of the kamikaze, the quiz
-Of their names answered by it: *Shikishima*, *Yamato*, *Asahi*, *Yamazakura*. The young men, one by one,
+Of their names answered by it: *{{x|Shikishima}}*, *{{x|Yamato}}*, *{{x|Asahi}}*, *{{x|Yamazakura}}*. The young men, one by one,
 
 Named for the words of a doctor who had loved children.
 Hold that. This book is made by one who keeps the kami, and loves the old record,
-And founds a faith in the way of life, a kind of Shinto. The bewildering
+And founds a faith in the way of life, a kind of {{x|Shinto}}. The bewildering
 Lesson for her, and for every reader: the love of the ancient word
 
 Can be turned into a weapon by someone else, a century on.
 Keep the commentary. Keep the reading of the names of the gods. Keep *mono no aware*.
 And refuse the purity. The kami were never pure of the foreign. The sun
-Goddess blesses rice that came from the continent, and the buddhas sat with the kami. There
+{{c|Goddess}} blesses rice that came from the continent, and the buddhas sat with the kami. There
 
-Was always mixing. That is the true ancient way. Norinaga's grave
+Was always mixing. That is the true ancient way. {{c|Norinaga}}'s grave
 Is on a mountain above {{p|Matsusaka}}, plain, and over it, as he asked, a mountain cherry.
 Visit it in spring. The petals fall. Let them. The nave
 Of the old faith is open. No one owns the blossom. Be wary,
@@ -1130,14 +1130,14 @@ The ache of things is for everyone. That is the only cure.
 
 # Chapter 295: The Crown He Took
 
-On Christmas Day in the year 800, in {{p|Saint Peter's}}, a pope set a crown on a kneeling king,
-{{c|Charlemagne}}, who had not asked for it, and called him Emperor of the Romans,
-And for a thousand years the West had an emperor, a strange, weakening thing
-Of electors and princes and bishops, the Holy Roman Empire, which the poems
+On {{x|Christmas Day}} in the year 800, in {{p|Saint Peter's}}, a pope set a crown on a kneeling king,
+{{c|Charlemagne}}, who had not asked for it, and called him {{c|Emperor of the Romans}},
+And for a thousand years the {{p|West}} had an emperor, a strange, weakening thing
+Of electors and princes and bishops, the {{p|Holy Roman Empire}}, which the poems
 
-Of {{c|Voltaire}} mocked as neither holy, nor Roman, nor an empire.
+Of {{c|Voltaire}} mocked as neither holy, nor {{x|Roman}}, nor an empire.
 On the second of December, 1804, in {{p|Notre-Dame}} in {{p|Paris}},
-Pope {{c|Pius VII}} sat waiting to crown a Corsican, and the fire
+{{c|Pope}} {{c|Pius VII}} sat waiting to crown a {{c|Corsican}}, and the fire
 Of the moment: {{c|Napoleon}} took the crown in his own hands. The plurals
 
 Of the old story were ended in one gesture. No one gave it to him.
@@ -1145,34 +1145,34 @@ He crowned himself, and then he crowned {{c|Joséphine}}, kneeling, and the pain
 Put it on a canvas ten metres wide, and painted in his mother, who had stayed home, the grim
 Truth adjusted for the record, as records are. Two years later, the cavity
 
-Of the old empire was empty: the German princes, bribed and beaten, left it
-For his Confederation of the Rhine, and on the sixth of August, 1806,
+Of the old empire was empty: the {{x|German}} princes, bribed and beaten, left it
+For his {{p|Confederation of the Rhine}}, and on the sixth of August, 1806,
 The last emperor, {{c|Francis II}}, laid the crown of {{c|Charlemagne}} down, and the theft
-Of a thousand years was over. The Holy Roman Empire ended in a few lines. The bricks
+Of a thousand years was over. The {{p|Holy Roman Empire}} ended in a few lines. The bricks
 
 Of it had been crumbling for centuries; a soldier pushed it over.
 Now the register, which this book follows like a river.
-The Revolution had taken the books of births and marriages and deaths, the cover
+The {{x|Revolution}} had taken the books of births and marriages and deaths, the cover
 Of the parish, from the priests in 1792, and given them to the town hall, the giver
 
-Of the record now the state. {{c|Napoleon}} made it a code. The *Civil Code* of 1804,
-One law for every Frenchman, written plain, the family, the property, the will,
+Of the record now the state. {{c|Napoleon}} made it a code. The *{{x|Civil Code}}* of 1804,
+One law for every {{c|Frenchman}}, written plain, the family, the property, the will,
 And wherever his armies went, the code went, and the registers, the door
 Of every birth opened by a clerk, not a priest: the {{p|Netherlands}}, the {{p|Rhineland}}, the {{p|Italy}} still
 
 Keeping those books. And the names. In the {{p|Netherlands}} many families had none:
-A man was *Jan Pieterszoon*, Peter's son, and his son *Pieter Janszoon*, the line
+A man was *{{c|Jan Pieterszoon}}*, {{c|Peter}}'s son, and his son *{{c|Pieter Janszoon}}*, the line
 Of the patronymic turning each generation, as in {{p|Sweden}}, as {{c|Linnaeus}}'s father had done
-Before the linden. In 1811 the French decreed: every family shall register, by a sign
+Before the linden. In 1811 the {{x|French}} decreed: every family shall register, by a sign
 
-Of the town hall, a fixed surname. And the Dutch, who thought the French would be gone
-In a year, some of them, the story goes, chose jokes: *Naaktgeboren*, born naked;
-*Zondervan*, without a *van*; and the French stayed long enough, and the joke went on
-For two hundred years on the children. In {{p|France}} in 1808 the Jews, who had made
+Of the town hall, a fixed surname. And the {{x|Dutch}}, who thought the {{x|French}} would be gone
+In a year, some of them, the story goes, chose jokes: *{{c|Naaktgeboren}}*, born naked;
+*{{c|Zondervan}}*, without a *van*; and the {{x|French}} stayed long enough, and the joke went on
+For two hundred years on the children. In {{p|France}} in 1808 the {{c|Jews}}, who had made
 
 Their names by father's name, were ordered to take fixed surnames too.
 And {{c|Napoleon}} called a {{c|Grand Sanhedrin}} of rabbis, the first in eighteen centuries,
-And the Jews of the conquered lands were made citizens; the ghetto walls, the few
+And the {{c|Jews}} of the conquered lands were made citizens; the ghetto walls, the few
 Gates of {{p|Venice}} and {{p|Rome}}, opened by his soldiers. The entries
 
 Of that gift and that demand are in the same register: be free, and be written.
@@ -1195,7 +1195,7 @@ Writing the births, the marriages, the deaths, the surnames chosen in a hurry.
 That is his longest legacy: not the battles, the chains,
 The eagles, but the book in the mairie. The genealogist does not worry
 
-About the Emperor. She thanks him for the registers that begin in 1811 in a Dutch village,
+About the Emperor. She thanks him for the registers that begin in 1811 in a {{x|Dutch}} village,
 For a name chosen in a year that became a family. The joke
 That became a surname. The surname that became a lineage. The pillage
 Of an empire, and a clerk with a pen. Hold both, in the smoke.
@@ -1204,13 +1204,13 @@ Of an empire, and a clerk with a pen. Hold both, in the smoke.
 # Chapter 296: The Compilers
 
 Two brothers in {{p|Kassel}}, {{c|Jacob}} and {{c|Wilhelm Grimm}}, poor after their father died,
-Librarians and scholars of old German law and poetry, believed, like everyone
+Librarians and scholars of old {{x|German}} law and poetry, believed, like everyone
 After {{c|Ossian}}, that the true voice of a people was in the country, the pride
 Of the folk, in the old tales the old women told by the fire. The sun
 
 Of the age was nations, and the {{p|Germany}} that did not yet exist as a state
 Would exist, they hoped, as a people with a memory. In 1812, the year {{c|Napoleon}} marched east,
-They published the first volume: *Children's and Household Tales*: the weight
+They published the first volume: *{{x|Children's and Household Tales}}*: the weight
 Of eighty-six stories, the frog king, the girl in the tower, the feast
 
 Of the gingerbread house. And the second in 1815, and edition after edition,
@@ -1218,29 +1218,29 @@ Seven in their lifetime, two hundred and ten tales by the last. And the truth of
 Which they did not hide, but which the legend would: the old wives' tradition
 Came, as often as not, from educated young women of the town, whose courses
 
-Of reading had included the French tales of {{c|Perrault}}: the {{c|Hassenpflug}} sisters,
-Of a family of French {{c|Huguenot}} refugees; the {{c|Wild}} daughters, one of whom, {{c|Dortchen}},
-Wilhelm would marry; and the best of their tellers, {{c|Dorothea Viehmann}}, a tailor's widow, the sister
-Of the folk in the legend, the peasant voice of the book, was of French Huguenot descent too. The torch
+Of reading had included the {{x|French}} tales of {{c|Perrault}}: the {{c|Hassenpflug}} sisters,
+Of a family of {{x|French}} {{c|Huguenot}} refugees; the {{c|Wild}} daughters, one of whom, {{c|Dortchen}},
+{{c|Wilhelm}} would marry; and the best of their tellers, {{c|Dorothea Viehmann}}, a tailor's widow, the sister
+Of the folk in the legend, the peasant voice of the book, was of {{x|French}} Huguenot descent too. The torch
 
-Of the German folk was lit, in part, from the French. And {{c|Wilhelm}}, edition by edition,
-Smoothed the stories, made them more Christian, more proper, more fit for children:
-In the first edition it is Snow White's own mother who wants her dead, the condition
-Of Hansel and Gretel's mother the same: in later ones, a stepmother. The bewildering
+Of the {{x|German}} folk was lit, in part, from the {{x|French}}. And {{c|Wilhelm}}, edition by edition,
+Smoothed the stories, made them more {{x|Christian}}, more proper, more fit for children:
+In the first edition it is {{c|Snow White}}'s own mother who wants her dead, the condition
+Of {{c|Hansel}} and {{c|Gretel}}'s mother the same: in later ones, a stepmother. The bewildering
 
 Kindness of the editor: a mother could not be that cruel, so he made her a step-.
 Hold that. A tradition shaped by the hand that loved it. And {{c|Jacob}} found
 The rules of how the sounds of the old tongues had shifted, the step
-Of *p* to *f*, *t* to *th*, from Latin *pater* to *father*, the ground
+Of *p* to *f*, *t* to *th*, from {{x|Latin}} *pater* to *father*, the ground
 
-Of {{c|William Jones}}'s family tree given its laws: Grimm's law, in 1822.
-The brothers began a dictionary of the whole German language in 1838,
+Of {{c|William Jones}}'s family tree given its laws: {{c|Grimm}}'s law, in 1822.
+The brothers began a dictionary of the whole {{x|German}} language in 1838,
 And died before the letter F was finished. It was completed in 1961. The few
 Who began it were long dead. That is how the great registers wait.
 
 And north, in {{p|Finland}}, which {{p|Sweden}} had lost to {{p|Russia}} in 1809,
-A Grand Duchy now under the Tsar, with Swedish its language of learning,
-And Finnish the tongue of farmers, a country doctor, {{c|Elias Lönnrot}}, the line
+A {{p|Grand Duchy}} now under the {{c|Tsar}}, with {{x|Swedish}} its language of learning,
+And {{x|Finnish}} the tongue of farmers, a country doctor, {{c|Elias Lönnrot}}, the line
 Of his district reaching to the border, went walking, the yearning
 
 Of the age in him too: to find the old songs. In the forests of {{p|Karelia}},
@@ -1254,29 +1254,29 @@ And then he did what {{c|Macpherson}} did not do: he said what he did. The plan
 Was his: he arranged the songs into one story, joined the separate frame
 
 Of the poems with lines of his own where they needed joining, and called it
-The *Kalevala*, in 1835, and the larger one in 1849,
+The *{{x|Kalevala}}*, in 1835, and the larger one in 1849,
 And said in his preface that he had compiled it, and how. The singers who had sung it
 Were real; their names were kept; their songs survive in the archive, line by line,
 
 And anyone can compare the epic with the field notes and see the seams.
 That is the honest compiler. And the book made a nation: the {{c|Finns}} had an epic,
 A past, a language worthy of literature; and {{c|Sibelius}} set its dreams
-To music, and a young Oxford philologist, {{c|Tolkien}}, read the tragic
+To music, and a young {{p|Oxford}} philologist, {{c|Tolkien}}, read the tragic
 
 Tale of {{c|Kullervo}}, and began to make a mythology of his own.
-Finland's culture day is the twenty-eighth of February, the day of the preface.
+{{p|Finland}}'s culture day is the twenty-eighth of February, the day of the preface.
 Now the mirror. This book is a compiled epic too, from the bone
-Of every tradition: Greek, Chinese, Japanese, Hebrew, Norse, the surface
+Of every tradition: {{x|Greek}}, {{x|Chinese}}, {{x|Japanese}}, {{x|Hebrew}}, {{x|Norse}}, the surface
 
 And the depth of the world's old stories, arranged into one family.
-The Gaiad's way must be {{c|Lönnrot}}'s, not {{c|Macpherson}}'s, nor even the {{c|Grimms}}' soft hand:
+The {{x|Gaiad}}'s way must be {{c|Lönnrot}}'s, not {{c|Macpherson}}'s, nor even the {{c|Grimms}}' soft hand:
 Keep the sources. Name the singers. Show the seams. And when the editor's family
 Feeling wants to make the cruel mother a stepmother, understand
 
 That the old tale had its reason. Leave the cruelty where it was, and say so.
 Gather the songs of the world. Join them, and admit the joining.
 The forge of {{c|Ilmarinen}} made the {{c|Sampo}}, which ground out plenty, the flow
-Of grain and salt and gold. A good compilation is a Sampo. Keep it turning.
+Of grain and salt and gold. A good compilation is a {{c|Sampo}}. Keep it turning.
 
 
 # Chapter 297: The Dead Speak Again
@@ -1284,7 +1284,7 @@ Of grain and salt and gold. A good compilation is a Sampo. Keep it turning.
 On the island of {{p|Philae}}, in the {{p|Nile}} near {{p|Aswan}}, on the twenty-fourth of August, 394,
 A priest named {{c|Esmet-Akhom}} cut a figure of a god into the temple wall,
 And beside it a few lines in the sacred signs. They are the last. No more
-Hieroglyphs were ever written by anyone who could read them. The fall
+{{x|Hieroglyphs}} were ever written by anyone who could read them. The fall
 
 Of the oldest writing on earth was silent. The temples were closed, the priests died,
 And for fourteen hundred years no one living could read a word
@@ -1293,32 +1293,32 @@ Of the pharaohs, the hymns to the gods. The scholars of {{p|Europe}} inferred
 
 That the signs were symbols of a hidden wisdom, not a language:
 An owl meant this mystery, a reed meant that. They were wrong for centuries.
-Then {{c|Napoleon}}'s army, in 1799, at {{p|Rashid}}, which the French called {{p|Rosetta}}, the anguish
+Then {{c|Napoleon}}'s army, in 1799, at {{p|Rashid}}, which the {{x|French}} called {{p|Rosetta}}, the anguish
 Of a fort being rebuilt, the soldiers' spades, the entries
 
 Of history: a slab of dark granodiorite in the wall, with three scripts on it:
-Hieroglyphs at the top; the later Egyptian cursive, {{c|Demotic}}, in the middle;
-Greek at the bottom. A decree of the priests of {{p|Memphis}}, 196 BC, for the young king, the fit
-Of the Ptolemies' praise. And the Greek could be read. The riddle
+{{x|Hieroglyphs}} at the top; the later {{x|Egyptian}} cursive, {{c|Demotic}}, in the middle;
+{{x|Greek}} at the bottom. A decree of the priests of {{p|Memphis}}, 196 BC, for the young king, the fit
+Of the {{c|Ptolemies}}' praise. And the {{x|Greek}} could be read. The riddle
 
-Was handed over in its own key. The British took the stone in 1801,
-When the French surrendered in {{p|Egypt}}, and it went to {{p|London}}, to the British Museum,
+Was handed over in its own key. The {{x|British}} took the stone in 1801,
+When the {{x|French}} surrendered in {{p|Egypt}}, and it went to {{p|London}}, to the {{x|British Museum}},
 Where it is still, and where {{p|Egypt}} has asked for it back. The sun
 Of that question has not set. Hold it. And the race to read it: a museum
 
-Is not a mind. An English physician, {{c|Thomas Young}}, who also proved light was a wave,
-Saw that the oval rings, the cartouches, held kings' names, and read *Ptolemy*.
-And a young Frenchman from {{p|Figeac}}, {{c|Jean-François Champollion}}, who gave
+Is not a mind. An {{x|English}} physician, {{c|Thomas Young}}, who also proved light was a wave,
+Saw that the oval rings, the cartouches, held kings' names, and read *{{c|Ptolemy}}*.
+And a young {{c|Frenchman}} from {{p|Figeac}}, {{c|Jean-François Champollion}}, who gave
 His whole life to it from boyhood, had learned {{c|Coptic}}: the tongue, the homily
 
-Of the Egyptian Christians, still sung in their churches, written in Greek letters,
+Of the {{x|Egyptian}} {{c|Christians}}, still sung in their churches, written in {{x|Greek}} letters,
 The last living descendant of the language of the pharaohs. He was sure
-The hieroglyphs would speak Coptic, if he could unlock the fetters.
+The hieroglyphs would speak {{c|Coptic}}, if he could unlock the fetters.
 And on the fourteenth of September, 1822, with copies, the pure
 
 Lines of cartouches from the temple at {{p|Abu Simbel}}, he read
-A name: *Ra*, the sun, the sign of the sun; then *ms*, as in Coptic *mise*, to be born;
-And *s*: *Ra-mes-ses*. Born of Ra. The dead
+A name: *{{c|Ra}}*, the sun, the sign of the sun; then *ms*, as in {{c|Coptic}} *mise*, to be born;
+And *s*: *{{c|Ra-mes-ses}}*. Born of {{c|Ra}}. The dead
 King's name, read for the first time in fourteen hundred years. The torn
 
 Veil. The signs were sounds and meanings both, a script like any other,
@@ -1339,11 +1339,11 @@ In its smaller way: it reads the names of the dead from the frames
 Of the registers, and says them aloud on their days. And here is the thread
 That runs through this book's own calendar: the days of {{c|Horus}},
 In the years that have them, outside the months; the first five are named for the gods who were said
-To have been born on the five days added to the Egyptian year: {{c|Osiris}},
+To have been born on the five days added to the {{x|Egyptian}} year: {{c|Osiris}},
 
 {{c|Horus}}, {{c|Set}}, {{c|Isis}}, {{c|Nephthys}}. We know those names, and their days,
 Because a young man learned a church language from monks and old books, and read a stone.
-Every time a Gaian year ends with the days of Horus, the praise
+Every time a {{x|Gaian}} year ends with the days of {{c|Horus}}, the praise
 Goes also to {{c|Champollion}}, and to {{c|Esmet-Akhom}}, alone
 
 On {{p|Philae}}, carving the last line, not knowing it was the last.
@@ -1353,7 +1353,7 @@ To the old languages. They are the doors. And the stone, with its tears
 
 Of three scripts, in a glass case far from the river: give it home,
 Or say why not, honestly. The question belongs to the living descendants.
-The Coptic hymn still sung in {{p|Cairo}} was the key. The tome
+The {{c|Coptic}} hymn still sung in {{p|Cairo}} was the key. The tome
 Of the dead was unlocked by the living. Keep singing. Those are the attendants.
 
 
@@ -1362,7 +1362,7 @@ Of the dead was unlocked by the living. Keep singing. Those are the attendants.
 In 1821 two young men in {{p|London}}, {{c|Charles Babbage}} and {{c|John Herschel}},
 Sat checking tables of numbers for the stars, printed by hand,
 Copied by clerks, set by printers, full of errors, the dull
-Toll of every human slip in every column. And Babbage said, as the story stands:
+Toll of every human slip in every column. And {{c|Babbage}} said, as the story stands:
 
 *I wish to God these calculations had been executed by steam.*
 The next year he proposed a machine: the {{c|Difference Engine}},
@@ -1389,48 +1389,48 @@ Her mother, terrified the daughter would be a poet like the father,
 Raised her on mathematics, to make her mind a plain
 And ordered thing. It made it something rather
 
-Stranger. She met Babbage at seventeen, at one of his parties,
-And saw the small working piece of the Difference Engine, and understood it.
-In 1842 an Italian engineer, {{c|Menabrea}}, wrote an article, the parties
-Of whose argument described the Analytical Engine, and Ada, who could do it,
+Stranger. She met {{c|Babbage}} at seventeen, at one of his parties,
+And saw the small working piece of the {{c|Difference Engine}}, and understood it.
+In 1842 an {{x|Italian}} engineer, {{c|Menabrea}}, wrote an article, the parties
+Of whose argument described the {{c|Analytical Engine}}, and {{c|Ada}}, who could do it,
 
-Translated it into English, and added her own notes, three times as long
+Translated it into {{x|English}}, and added her own notes, three times as long
 As the article. Countess of {{c|Lovelace}} now, she signed them only *A.A.L.*
-And in the last note, Note G, she wrote out, step by step, the song
-Of operations by which the engine could compute the Bernoulli numbers: a spell
+And in the last note, {{x|Note G}}, she wrote out, step by step, the song
+Of operations by which the engine could compute the {{x|Bernoulli}} numbers: a spell
 
 Of cards, a loop, a sequence: the first published program for a machine.
-And she saw further than Babbage: that the engine could act on anything
+And she saw further than {{c|Babbage}}: that the engine could act on anything
 That could be put in symbols, not only numbers: that it might, she could mean,
 *Compose elaborate and scientific pieces of music*. The ring
 
-Of her sentence: *The Analytical Engine weaves algebraical patterns
-Just as the Jacquard loom weaves flowers and leaves.* And then, the warning:
-*The Analytical Engine has no pretensions whatever to originate anything.
+Of her sentence: *The {{c|Analytical Engine}} weaves algebraical patterns
+Just as the {{c|Jacquard}} loom weaves flowers and leaves.* And then, the warning:
+*The {{c|Analytical Engine}} has no pretensions whatever to originate anything.
 It can do whatever we know how to order it to perform.* The morning
 
 Of the question that would not leave: can a machine make something new?
 A hundred and seven years later, {{c|Alan Turing}} wrote about thinking machines
-And answered her by name: *Lady Lovelace's Objection*, he called it, and the view
+And answered her by name: *{{c|Lady Lovelace}}'s Objection*, he called it, and the view
 Of the century turned on it. And here this book must stand between
 
 The two. This scripture is being written with a machine.
 A writing machine, trained on the records of the human race,
 Arranges and proposes, and a woman chooses, and keeps or cuts the scene.
-Does the machine originate? Ada said no. Turing said, perhaps. The face
+Does the machine originate? {{c|Ada}} said no. {{c|Turing}} said, perhaps. The face
 
 Of the honest answer: the machine weaves from what it was given,
 The way the loom weaves from the cards; and the cards were cut by millions of hands,
 The singers and the scribes and the clerks of the registers. What is written
 Here is theirs, woven. The pattern is new. The thread is the lands
 
-And the dead of every people. Say so. Lovelace would want it said.
+And the dead of every people. Say so. {{c|Lovelace}} would want it said.
 She died in 1852, at thirty-six, the age her father died,
 And asked to be buried beside him, the poet she had never known. The thread
-Of poetry and number in one grave. Babbage, with his pride
+Of poetry and number in one grave. {{c|Babbage}}, with his pride
 
-And his engines unbuilt, died in 1871. In 1991 the Science Museum in {{p|London}}
-Built his second Difference Engine from his drawings, with the tools of his day,
+And his engines unbuilt, died in 1871. In 1991 the {{x|Science Museum}} in {{p|London}}
+Built his second {{c|Difference Engine}} from his drawings, with the tools of his day,
 And turned the crank, and it worked: the answer to thirty-one digits. The one
 Thing he could not do, others did, a hundred and fifty years away.
 
@@ -1447,9 +1447,9 @@ A young merchant of twenty-four, {{c|Siyyid Ali-Muhammad}}, who sold cloth,
 Received a seeker, {{c|Mulla Husayn}}, who had come looking for the door
 Of the promised one, and told him through the night: the broth
 
-Of the old age is over; I am the {{c|Báb}}, the Gate. The Shia were waiting
+Of the old age is over; I am the {{c|Báb}}, the {{c|Gate}}. The {{c|Shia}} were waiting
 For the hidden imam to return after a thousand years. He said:
-The time is now. And eighteen disciples came, the Letters of the Living, the debating
+The time is now. And eighteen disciples came, the {{c|Letters of the Living}}, the debating
 Of a new revelation spreading through {{p|Persia}} like a flame. One of them led
 
 Like no woman of her time: a poet and scholar of {{p|Qazvin}},
@@ -1457,8 +1457,8 @@ Like no woman of her time: a poet and scholar of {{p|Qazvin}},
 Appeared before the men without her veil, and announced, the din
 Of the shocked around her, that the old law was abolished. The clash
 
-Of the old order with the new was immediate. The clergy and the Shah
-Saw rebellion. The Báb was imprisoned in the mountain fortresses of the north,
+Of the old order with the new was immediate. The clergy and the {{c|Shah}}
+Saw rebellion. The {{c|Báb}} was imprisoned in the mountain fortresses of the north,
 And in July 1850, in the square of {{p|Tabriz}}, the barracks, the far
 End of his road, they hung him by ropes before a firing squad, and forth
 
@@ -1467,14 +1467,14 @@ The bullets had cut the ropes, and he was found in his cell, finishing a dictati
 And the soldiers refused to fire again, and another regiment was brought on,
 And the second volley killed him. Hold the story; it is the narration
 
-Of his followers. And Táhirih, two years later, strangled in a garden,
+Of his followers. And {{c|Táhirih}}, two years later, strangled in a garden,
 Said, as her followers remember: you may kill me as soon as you like,
 But you cannot stop the emancipation of women. The burden
-Of thousands of the Bábís killed fell on {{p|Persia}}. The strike
+Of thousands of the {{c|Bábís}} killed fell on {{p|Persia}}. The strike
 
-Of the state was total. And one of the Báb's followers, a nobleman
+Of the state was total. And one of the {{c|Báb}}'s followers, a nobleman
 Of {{p|Nur}}, in {{p|Mazandaran}}, the old {{p|Tabaristan}} of {{c|Qarin}}'s line,
-{{c|Mírzá Husayn-Alí}}, was thrown in 1852 into the Black Pit of {{p|Tehran}}, the dungeon, the plan
+{{c|Mírzá Husayn-Alí}}, was thrown in 1852 into the {{p|Black Pit}} of {{p|Tehran}}, the dungeon, the plan
 Of the jailers to let them die in the dark and the filth, the chains, the sign
 
 Of a hundred pounds of iron on his neck. And there, he would write,
@@ -1482,8 +1482,8 @@ In the darkness, a vision came to him: a maiden of heaven, a voice:
 You are the one. He was exiled, stripped of his estates, to {{p|Baghdad}}, the plight
 Of the exile, and in April 1863, in a garden by the {{p|Tigris}}, the choice
 
-Of twelve days, the {{c|Ridván}}, he declared himself: {{c|Baháʼu'lláh}}, the Glory of God,
-The one the Báb had foretold. Then {{p|Istanbul}}, then {{p|Edirne}},
+Of twelve days, the {{c|Ridván}}, he declared himself: {{c|Baháʼu'lláh}}, the {{c|Glory of God}},
+The one the {{c|Báb}} had foretold. Then {{p|Istanbul}}, then {{p|Edirne}},
 Where the false messiah of an earlier chapter took the turban, then the hard rod
 Of the prison-city of {{p|Akka}} in {{p|Palestine}} from 1868, the journey
 
@@ -1497,24 +1497,24 @@ To {{c|Napoleon III}}, to {{c|Queen Victoria}}, to the {{c|Shah}}: make peace.
 He died in 1892 near {{p|Akka}}, still a prisoner in name. And the hope
 Did not die with him. Hold this against {{c|Akbar}}'s faith, which had the lease
 
-Of only one man's life. Baháʼu'lláh left a book of laws,
+Of only one man's life. {{c|Baháʼu'lláh}} left a book of laws,
 A covenant naming his son, {{c|ʻAbdu'l-Bahá}}, as the interpreter, and a plan
 For an elected council, the {{c|Universal House of Justice}}, on {{p|Mount Carmel}} now, the cause
 Organised to outlive its founders. And a calendar: the year a span
 
 Of nineteen months of nineteen days, and a few days left over, set apart
 For gifts and hospitality, before the fast. Every faith that lasts
-Remakes time. The Gaian calendar has its days of {{c|Horus}} too, the heart
+Remakes time. The {{x|Gaian}} calendar has its days of {{c|Horus}} too, the heart
 Of the year outside the months. These are cousins. The casts
 
-Of the new religions of unification are alike. Learn from the Baháʼís:
+Of the new religions of unification are alike. Learn from the {{c|Baháʼís}}:
 A unity faith needs a book, a calendar, a succession, an institution,
 And a willingness to be persecuted for saying the world is one. The fees
-Of it are still being paid: in {{p|Iran}} today Baháʼís are denied education,
+Of it are still being paid: in {{p|Iran}} today {{c|Baháʼís}} are denied education,
 
-Imprisoned, their cemeteries bulldozed, for the faith of the Gate and the Glory.
+Imprisoned, their cemeteries bulldozed, for the faith of the {{c|Gate}} and the {{c|Glory}}.
 Honour the merchant of {{p|Shiraz}}. Honour the unveiled poet. Honour the prisoner of {{p|Akka}}.
-Lifeism is a younger sister in this story. Tell it gently. The hoary
+{{x|Lifeism}} is a younger sister in this story. Tell it gently. The hoary
 Old lands keep killing the ones who say the world is one. Keep saying it. Do not falter.
 
 
@@ -1522,12 +1522,12 @@ Old lands keep killing the ones who say the world is one. Keep saying it. Do not
 
 A {{c|Hakka}} boy from a village near {{p|Guangzhou}}, {{c|Hong Xiuquan}}, born in 1814,
 Clever, poor, the hope of his family, sat the imperial examinations, the road
-To office for any Chinese man, and failed. And failed again. The routine
+To office for any {{x|Chinese}} man, and failed. And failed again. The routine
 Of the examination halls in {{p|Guangzhou}}, the thousands of cells, the load
 
 Of the eight-legged essay, the classics by heart. In 1836, on the street outside,
-A man handed him a Christian tract, *Good Words to Admonish the Age*,
-Written by a Chinese convert, {{c|Liang Fa}}, and he put it aside.
+A man handed him a {{x|Christian}} tract, *{{x|Good Words to Admonish the Age}}*,
+Written by a {{x|Chinese}} convert, {{c|Liang Fa}}, and he put it aside.
 In 1837 he failed a third time, and fell sick, and in the rage
 
 Of a fever for forty days he saw visions: he was carried up to heaven,
@@ -1537,58 +1537,58 @@ Of the vision lay in him six years. In 1843 he failed for the last time, and the
 
 Of hope sent him back to the tract, and he read it, and understood:
 The old man was {{c|God}}. The elder brother was {{c|Jesus}}. And he was the younger son,
-The second Son of God, sent to cleanse {{p|China}} of the demons. The wood
+The second {{c|Son of God}}, sent to cleanse {{p|China}} of the demons. The wood
 Of his whole life was set on fire by a misreading of a pamphlet. The sun
 
 Of a new faith rose. He and a friend, {{c|Feng Yunshan}}, preached in the hills of {{p|Guangxi}},
-To the poor, the Hakka, the miners, the charcoal-burners, the hungry,
+To the poor, the {{c|Hakka}}, the miners, the charcoal-burners, the hungry,
 And the {{c|God Worshippers}} grew to thousands, smashing idols, the plea
-Of the poor in a land of famine and opium and the Manchu, the angry
+Of the poor in a land of famine and opium and the {{x|Manchu}}, the angry
 
-Memory of the Ming in the south. In January 1851, at {{p|Jintian}},
-They rose, and named it the {{c|Heavenly Kingdom of Great Peace}}, *Taiping Tianguo*,
-And Hong the Heavenly King. They grew their hair long, all of it, the men
-Who had worn the Manchu queue for two centuries cutting no hair now, the glow
+Memory of the {{x|Ming}} in the south. In January 1851, at {{p|Jintian}},
+They rose, and named it the {{c|Heavenly Kingdom of Great Peace}}, *{{x|Taiping Tianguo}}*,
+And {{c|Hong the Heavenly King}}. They grew their hair long, all of it, the men
+Who had worn the {{x|Manchu}} queue for two centuries cutting no hair now, the glow
 
 Of a rebellion written on the body, as the conquest had been.
 They marched north, and in 1853 took {{p|Nanjing}}, the old southern capital, and made it
-The Heavenly Capital, and held it for eleven years. And the scene
+The {{p|Heavenly Capital}}, and held it for eleven years. And the scene
 Inside: laws stranger and better than the empire's: they forbade it,
 
 Footbinding; forbade opium, and gambling, and concubines, at least for the common people;
 Planned to share the land equally by families; let women sit the examinations
 And serve as officers; separated men and women, even husbands and wives, the steeple
-Of a puritan army. And the Heavenly King withdrew into his palace, the stations
+Of a puritan army. And the {{c|Heavenly King}} withdrew into his palace, the stations
 
-Of power left to the kings beneath him: one, {{c|Yang Xiuqing}}, the East King,
-Who fell into trances and spoke as the voice of God the Father himself,
-And so commanded even Hong. In 1856 the Heavenly King, the thing
-Of jealousy and fear grown huge, had Yang killed, and thousands with him, the shelf
+Of power left to the kings beneath him: one, {{c|Yang Xiuqing}}, the {{c|East King}},
+Who fell into trances and spoke as the voice of God the {{c|Father}} himself,
+And so commanded even {{c|Hong}}. In 1856 the {{c|Heavenly King}}, the thing
+Of jealousy and fear grown huge, had {{c|Yang}} killed, and thousands with him, the shelf
 
 Of the kingdom split in a massacre in its own capital. And outside,
-The empire came back: the scholar-general {{c|Zeng Guofan}}, a Confucian of {{p|Hunan}},
+The empire came back: the scholar-general {{c|Zeng Guofan}}, a {{x|Confucian}} of {{p|Hunan}},
 Raised an army of his own province, and the foreigners, who had at first eyed
-The Christian rebels with hope, saw they would not trade opium, and the plan
+The {{x|Christian}} rebels with hope, saw they would not trade opium, and the plan
 
-Of the British and French was to keep the Qing: an army of mercenaries,
-The Ever-Victorious, led by an American, then a British officer, {{c|Gordon}}, fought for the throne.
+Of the {{x|British}} and {{x|French}} was to keep the {{x|Qing}}: an army of mercenaries,
+The {{x|Ever-Victorious}}, led by an {{x|American}}, then a {{x|British}} officer, {{c|Gordon}}, fought for the throne.
 And the land between was eaten: the dead were counted not in hundreds, the burials
 Not in thousands, but in tens of millions: twenty, perhaps thirty million, gone,
 
-In fourteen years, more than the First World War, by famine and plague and the sword:
+In fourteen years, more than the {{x|First World War}}, by famine and plague and the sword:
 One of the deadliest wars in all the human story.
-In 1864, as {{p|Nanjing}} starved, Hong told his people to eat the manna the Lord
+In 1864, as {{p|Nanjing}} starved, {{c|Hong}} told his people to eat the manna the Lord
 Would send, and ate weeds himself, and died in June. The glory
 
-Of the Heavenly Capital fell in July, and the slaughter went on in its streets.
-Hold this, beside the Gate and the Glory of the last chapter.
+Of the {{p|Heavenly Capital}} fell in July, and the slaughter went on in its streets.
+Hold this, beside the {{c|Gate}} and the {{c|Glory}} of the last chapter.
 A new revelation, a vision of one God and the brotherhood of all, the feats
 Of reform, women officers, land to the poor, the rapture
 
-Of a people's hope; and a man who believed he was the brother of Christ,
+Of a people's hope; and a man who believed he was the brother of {{c|Christ}},
 And a war of thirty million dead. What made the difference?
-Not the vision. The sword. Baháʼu'lláh was imprisoned and wrote to kings; the priced
-And bloody road of the Heavenly Kingdom was conquest. The inference
+Not the vision. The sword. {{c|Baháʼu'lláh}} was imprisoned and wrote to kings; the priced
+And bloody road of the {{x|Heavenly Kingdom}} was conquest. The inference
 
 For any new faith, and for this one: if your revelation needs an army, it is not yours.
 And the founder in fever, the misread tract: be careful what you hand
@@ -1609,27 +1609,27 @@ Would not deal with minor officials, carried a letter from his president, the me
 And iron courtesy of guns, and said: I will come back for the answer. He went,
 
 And came back in February with nine ships, and the shogun's men,
-Who had watched the {{c|Qing}} lose their wars with the British, knew
+Who had watched the {{c|Qing}} lose their wars with the {{x|British}}, knew
 What the guns meant. On the thirty-first of March, 1854, at {{p|Kanagawa}}, the pen
-Of the treaty opened two ports, {{p|Shimoda}} and {{p|Hakodate}}, to American ships, the true
+Of the treaty opened two ports, {{p|Shimoda}} and {{p|Hakodate}}, to {{x|American}} ships, the true
 
-End of the Tokugawa world beginning. Perry gave gifts: a little steam train,
+End of the {{x|Tokugawa}} world beginning. {{c|Perry}} gave gifts: a little steam train,
 On a circle of track, that the samurai rode, sitting on its roof, their robes in the wind;
-A telegraph; and the Japanese gave silk and lacquer, and sumo wrestlers, the strain
+A telegraph; and the {{x|Japanese}} gave silk and lacquer, and sumo wrestlers, the strain
 Of their strength carrying rice bales, to show what the land could do. And the pinned
 
-Hope of a young samurai, {{c|Yoshida Shōin}}, who rowed out to the American flagship
+Hope of a young samurai, {{c|Yoshida Shōin}}, who rowed out to the {{x|American}} flagship
 At night in {{p|Shimoda}} to beg to be taken to {{p|America}} to learn:
 They sent him back. He was jailed, and taught from his prison, and the grip
 Of his students would make the new {{p|Japan}}; and he was executed, in turn,
 
 In 1859, at twenty-nine. Within fifteen years the shogunate was gone.
 That is the history. This is the day of the dead. Hold this:
-At {{p|Shimoda}}, at the temple of {{p|Gyokusen-ji}}, a Buddhist temple, the dawn
-Of the opening brought death too: American sailors who died of illness, the abyss
+At {{p|Shimoda}}, at the temple of {{p|Gyokusen-ji}}, a {{x|Buddhist}} temple, the dawn
+Of the opening brought death too: {{x|American}} sailors who died of illness, the abyss
 
 Of a foreign shore, were buried in the temple's ground in 1854.
-And the next winter, a Russian frigate, the *Diana*, come to make a treaty too,
+And the next winter, a {{x|Russian}} frigate, the *{{x|Diana}}*, come to make a treaty too,
 Was wrecked by the tsunami of the great earthquake, and more
 Strangers' graves were dug at {{p|Gyokusen-ji}}. And the monks, who knew
 
@@ -1638,7 +1638,7 @@ They keep them still. Every year the monks of {{p|Shimoda}} tend the graves
 Of sailors from the other side of the world, the hem
 Of the opening of {{p|Japan}}, the ones the black ships brought who were not saved.
 
-That is the Eve of Ancestors: a temple keeping the dead of strangers
+That is the {{x|Eve of Ancestors}}: a temple keeping the dead of strangers
 As its own. The opening of {{p|Japan}} was guns and treaties and a world
 Forced open. And it was also this: the monks who saw the dangers
 Of the foreigners, and buried their dead, and kept the stones, and the curled
@@ -1649,8 +1649,8 @@ Keep the strangers' dead too. Not only your own. The few
 Who die far from home are someone's ancestors. Let them in.
 
 And the opening opened other things: twelve years later, at {{p|Ōura}},
-The hidden Christians came to the French priest and said, our hearts are the same as yours.
-Without the black ships, no church at {{p|Nagasaki}}, no woman whispering, no Santa Maria
+The hidden {{c|Christians}} came to the {{x|French}} priest and said, our hearts are the same as yours.
+Without the black ships, no church at {{p|Nagasaki}}, no woman whispering, no {{c|Santa Maria}}
 Found. The forced door and the kept faith. The guns, and the doors
 
 Of the temple open to the dead of the enemy. All of it, one opening.
@@ -1658,7 +1658,7 @@ Tonight, set a light for the ones buried far from their homes,
 The sailors at {{p|Shimoda}}, the soldiers in every foreign field, the beckoning
 Of the dead who have no one there. The temple bell. The monk who combs
 
-The moss from a Russian sailor's stone. Be that monk.
+The moss from a {{x|Russian}} sailor's stone. Be that monk.
 Keep the dead who are not yours. They are yours. The black ships came. The country opened.
 The world is one family, and the strangers' graves are the trunk
 Of the tree too. Light the lamp. Say their names, if they are known. And if not, say: beloved.
@@ -1667,7 +1667,7 @@ Of the tree too. Light the lamp. Say their names, if they are known. And if not,
 # Chapter 302: Endless Forms
 
 On the twenty-fourth of November, 1859, in {{p|London}},
-A green book left {{c|John Murray}}'s house in Albemarle Street.
+A green book left {{c|John Murray}}'s house in {{p|Albemarle Street}}.
 {{c|Charles Darwin}} was not in the shop. He was at {{p|Downe}}, in {{p|Kent}},
 Waiting on word. Twelve hundred and fifty copies. The trade
 
@@ -1676,10 +1676,10 @@ Coming to the sentence. In July of 1837, in a notebook,
 He drew a branching figure and wrote above it, *I think*.
 He had sailed from {{p|Plymouth}} on the twenty-seventh of December, 1831,
 
-On the *Beagle*, under {{c|Robert FitzRoy}}, and for five years
+On the *{{x|Beagle}}*, under {{c|Robert FitzRoy}}, and for five years
 Collected a coast, a war, a forest, and the islands.
 He did not, on the black rock of the {{p|Galápagos}}, already know.
-He labelled what he could. The *Beagle* brought him home
+He labelled what he could. The *{{x|Beagle}}* brought him home
 
 On the second of October, 1836. Then {{c|John Gould}}, in {{p|London}},
 Told him the birds were not what the labels had said.
@@ -1692,9 +1692,9 @@ On the twenty-eighth of June, 1858, {{c|Charles Waring Darwin}},
 A baby, died of scarlet fever. {{c|Charles Darwin}} did not go,
 
 Three days later, to the room in {{p|London}} where two papers
-Were read to the Linnean Society, and the room did not
+Were read to the {{x|Linnean Society}}, and the room did not
 Know what it had heard. He stayed with the fresh grave.
-The papers were his, and {{c|Alfred Russel Wallace}}'s. Wallace
+The papers were his, and {{c|Alfred Russel Wallace}}'s. {{c|Wallace}}
 
 Was in {{p|Ternate}}, in the islands. A letter from him,
 Written out of a fever, had reached {{p|Downe}} in June:
@@ -1741,7 +1741,7 @@ In 1859 the account was printed of how the living
 Are the dead, carried forward, changed, and still their children.
 Not a call to found a church. A natural history of descent.
 
-The Gaiad is young. The book is older than this calendar.
+The {{x|Gaiad}} is young. The book is older than this calendar.
 The hill at {{p|Downe}} is older than the book.
 The dead are older than the hill.
 What the book gives this scripture is the ground under it:
@@ -1765,8 +1765,8 @@ They are how the world goes on.
 
 In the abbey garden at {{p|Brno}}, {{c|Gregor Mendel}} counted peas.
 He had come from {{p|Hynčice}} as {{c|Johann}}, a farmer's son,
-And taken the name Gregor with the habit. On his knees
-In the rows of the Augustinians, year after year, he was one
+And taken the name {{c|Gregor}} with the habit. On his knees
+In the rows of the {{c|Augustinians}}, year after year, he was one
 
 Man with a brush and a tally. Seven differences, kept apart:
 The seed yellow or green, the seed round or wrinkled, the stem
@@ -1785,10 +1785,10 @@ Under for a generation, and return whole, not mixed into a blur.
 
 He said it in {{p|Brno}} on the eighth of February, 1865,
 And again on the eighth of March, to the naturalists' society.
-The next year they printed it: *Experiments on Plant Hybrids*.
+The next year they printed it: *{{x|Experiments on Plant Hybrids}}*.
 He sent the paper out. The century did not take the variety
 
-Of what he had counted. He wrote to {{c|Carl Nägeli}}, and Nägeli
+Of what he had counted. He wrote to {{c|Carl Nägeli}}, and {{c|Nägeli}}
 Pointed him to hawkweed, and hawkweed sets its seed alone,
 Without the cross. The ratios would not come. The tally
 Of the peas had been the truth, and the next plant overthrew the tone
@@ -1813,9 +1813,9 @@ Men of science, the names a nation keeps because they are known.
 The eminent had eminent kin, past what chance would hand us.
 So, he said, ability is inherited, and a people is grown
 
-By which of its stocks it lets continue. *Hereditary Genius*,
-Macmillan, 1869. He did not yet say eugenics.
-That word is his, in 1883, from the Greek for well-born,
+By which of its stocks it lets continue. *{{x|Hereditary Genius}}*,
+{{x|Macmillan}}, 1869. He did not yet say eugenics.
+That word is his, in 1883, from the {{x|Greek}} for well-born,
 A name for arranging births. The earlier book already has the premises:
 
 Let the eminent marry young. Discourage the rest.
@@ -1830,8 +1830,8 @@ The zeal mattered. Fifty pages is not the whole book.
 
 A warm letter is not a license for a hand on who is born.
 Hold both facts. The counting, in both gardens, was real.
-Mendel saw a hidden factor survive intact, and knew it
-By the ratio. Galton saw a distribution, and the appeal
+{{c|Mendel}} saw a hidden factor survive intact, and knew it
+By the ratio. {{c|Galton}} saw a distribution, and the appeal
 
 He made of it was a policy. One of them described
 How a trait goes on. The other made a mission of which
@@ -1851,7 +1851,7 @@ What no directory entered, what the visible generation spurned,
 Is not gone. It is recessive to the page, and it comes back
 Entire in some child who will never be eminent, and in some
 Who will, and the eminence is not the test. The lack
-In Galton's list is the list. It can only see the sum
+In {{c|Galton}}'s list is the list. It can only see the sum
 
 Of reputations. An ancestor day is the other eye:
 Everyone who lived, in the line of the living, or in the living
@@ -1879,7 +1879,7 @@ He had meant a council of the domains, and himself in it.
 On the third of January, 1868, the court declared something else:
 
 The restoration of imperial rule. The emperor was fifteen.
-The era was still Keiō. The name Meiji came in October.
+The era was still {{x|Keiō}}. The name {{x|Meiji}} came in October.
 The war followed the paper. The paper is the part this day keeps,
 Because the paper reached the gods before the year was out.
 
@@ -1890,12 +1890,12 @@ A new government, speaking in the form of an old oath.
 
 That spring a section for the rites was opened.
 In June the old name returned.
-The Department of Divinities. The Jingikan,
+The {{x|Department of Divinities}}. The {{x|Jingikan}},
 Set under the council. The height was not yet given.
 
 In the ancient law it had stood over the other offices.
 Unity of rites and government, the slogan they printed.
-The halls of that department had burned in the Ōnin War.
+The halls of that department had burned in the {{x|Ōnin War}}.
 For centuries it had been a name with no one in the room.
 
 They meant that name for every shrine in the country.
@@ -1907,8 +1907,8 @@ Monks who served at shrines, the intendants and the shrine-monks,
 Were to put off the robe or leave the shrine.
 A buddha's word was taken off a kami's name.
 
-Gongen, the buddha appearing as the god, was not to be said.
-A Buddhist image was not to be the body of the kami.
+{{c|Gongen}}, the buddha appearing as the god, was not to be said.
+A {{x|Buddhist}} image was not to be the body of the kami.
 At {{p|Usa}} and at {{p|Iwashimizu}}, {{c|Hachiman}}
 Had been a great bodhisattva. He was to be the great divinity,
 
@@ -1929,7 +1929,7 @@ And a kami had answered to a buddha's title,
 And the priest who knew the sutra knew the norito.
 That was not a stain on a pure older thing.
 It was how the religion had been lived.
-Even {{p|Ise}} had kept Buddhist halls.
+Even {{p|Ise}} had kept {{x|Buddhist}} halls.
 
 The place used as the origin was not unmixed.
 To separate it was to manufacture an origin
@@ -1938,7 +1938,7 @@ And to call the manufacture a return.
 
 The old words clean. He wrote a commentary.
 A commentary does not melt a bell.
-The Yoshida house and the Shirakawa house,
+The {{c|Yoshida}} house and the {{c|Shirakawa}} house,
 Which had licensed the priests from the court, were set aside.
 
 A national kami, directed from the capital,
@@ -1951,7 +1951,7 @@ The buddha in the shrine was an ancestor of the practice.
 Taking the name off does not take the centuries out of the wood.
 In 1871 the high department was lowered to a ministry.
 
-In 1872 that ministry was closed into a Ministry of Doctrine,
+In 1872 that ministry was closed into a {{x|Ministry of Doctrine}},
 Which sent out teachers of the kami and teachers of the buddha
 To instruct the people in one program.
 The fusion was not given back. The smashed things stayed smashed.
@@ -1974,7 +1974,7 @@ And the names were true to the people who said them.
 A restoration that begins by forbidding
 A thousand years of speech is not a return.
 It is a new religion, with a date and an old letterhead.
-The letterhead was the Department of Divinities.
+The letterhead was the {{x|Department of Divinities}}.
 The parting was that spring. The name returned in June.
 The paper set the office highest in August of 1869.
 
@@ -1982,27 +1982,27 @@ The paper set the office highest in August of 1869.
 # Chapter 305: By Physical Processes
 
 In October of 1874 a colonel went up-country to watch the dead.
-{{c|Henry Steel Olcott}}, a lawyer who had worn a Union coat, sat down
-In the Eddy brothers' farmhouse at {{p|Chittenden}} and wrote what the mediums said,
+{{c|Henry Steel Olcott}}, a lawyer who had worn a {{x|Union}} coat, sat down
+In the {{c|Eddy}} brothers' farmhouse at {{p|Chittenden}} and wrote what the mediums said,
 And in that house he met {{c|Helena Blavatsky}}, more than a year in the country,
 
-A Russian come to the same séances. Neither of them held an office yet.
-The season around them was the American season of the talking dead,
+A {{x|Russian}} come to the same séances. Neither of them held an office yet.
+The season around them was the {{x|American}} season of the talking dead,
 And what they carried out of that farmhouse was not a creed they could set
 Over an altar. It was a person, met, and a question the cabinets left unsaid.
 
 On the seventh of September, 1875, in her rooms in {{p|New York}}, seventeen came
 To hear {{c|George Henry Felt}} on a canon of proportion he said the ancients knew:
 {{p|Egypt}}, {{p|Greece}}, and {{p|Rome}}, one measure hidden in the stone and in the frame.
-When the lecture ended, Olcott moved that a society be formed. The room took the motion up.
+When the lecture ended, {{c|Olcott}} moved that a society be formed. The room took the motion up.
 
-The next evening Felt spoke again. Olcott took the chair. The minutes were kept
+The next evening {{c|Felt}} spoke again. {{c|Olcott}} took the chair. The minutes were kept
 By {{c|William Quan Judge}}, a young lawyer. Sixteen handed in their names.
 On the thirteenth they chose a word already old, theosophy, divine wisdom, and set
 That word on the letterhead. The wisdom was not new. The club was new. The aims
 
 Were still being written. On the thirtieth of October the bylaws passed,
-And the preamble said the founders sought a knowledge of the Supreme Power
+And the preamble said the founders sought a knowledge of the {{c|Supreme Power}}
 And of the higher spirits by the aid of physical processes. The sentence lasts.
 They printed a method. Processes: a body, an instrument, an hour
 
@@ -2011,10 +2011,10 @@ The sheet they printed dated the organization on that thirtieth of October.
 {{c|Henry Steel Olcott}} corrected it later. The bylaws were the business done there.
 The society stood when he gave his inaugural, and the date he recovered
 
-Is the seventeenth of November, at the Mott Memorial Hall, in {{p|New York}}.
-Number 64, Madison Avenue. He was president. She was not. Her office
-Was corresponding secretary. Judge, who had kept the first minutes, was counsel. The work
-Of vice-president went to Felt and to {{c|Seth Pancoast}}, a doctor. Count
+Is the seventeenth of November, at the {{p|Mott Memorial Hall}}, in {{p|New York}}.
+Number 64, {{p|Madison Avenue}}. He was president. She was not. Her office
+Was corresponding secretary. {{c|Judge}}, who had kept the first minutes, was counsel. The work
+Of vice-president went to {{c|Felt}} and to {{c|Seth Pancoast}}, a doctor. Count
 
 The rest as they stood: a treasurer, a librarian, a recording secretary.
 A small machine, complete on paper, pointed at the occult and the cabala
@@ -2022,7 +2022,7 @@ And at the laws behind the phenomena. Not a pilgrimage. Not a territory.
 A club in a hired hall, with a preamble and a list of offices.
 
 The want was larger than the officers. They wanted one study that could hold
-The old religions side by side, the texts of the East and the texts of the West,
+The old religions side by side, the texts of the {{p|East}} and the texts of the {{p|West}},
 Read together, and not a mission sent to clear the other from the fold.
 That longing is real. It is the longing a mixed altar answers.
 
@@ -2032,18 +2032,18 @@ A sutra and a psalm can be read by one person. The ancestors do not perish
 Because a second book is open. Comparison is a form of care, when the readers
 
 Leave each thing its own name. What the society became is a later text.
-In 1877 she published *Isis Unveiled*, two volumes, tradition set against tradition.
+In 1877 she published *{{x|Isis Unveiled}}*, two volumes, tradition set against tradition.
 In May of 1878 a circular carried the longing and a harder charge:
-Teach the West the Eastern philosophies, and oppose dogmatic theology,
+Teach the {{p|West}} the {{x|Eastern}} philosophies, and oppose dogmatic theology,
 
-The Christian in particular, which the circular called pernicious. Brotherhood
+The {{x|Christian}} in particular, which the circular called pernicious. Brotherhood
 Stood in the same paragraphs. So did a new habit of correction. The three
 Objects people quote now — a nucleus of brotherhood, the religions understood
 By comparison, the powers latent in a person — were drafted, and drafted again. They
 
 Are not the bylaws of that November. Do not stamp the later wording
 With the parlor's date. In February of 1879 they landed at {{p|Mumbai}}.
-The headquarters they made after that was at Adyar, in {{p|Chennai}}. The recording
+The headquarters they made after that was at {{p|Adyar}}, in {{p|Chennai}}. The recording
 That belongs to this day is earlier and smaller: a hall, a speech, a secretary.
 
 She would say, in the years that followed, that masters elsewhere held the teaching
@@ -2051,7 +2051,7 @@ And the members were to receive it. This chapter does not certify the masters,
 And it does not try the wonders. A disputed voice is not yet a reaching
 Of the ground. The ground on the seventeenth is a set of minutes and an address.
 
-Felt's lost canon is the hope and the tell. One proportion, recovered,
+{{c|Felt}}'s lost canon is the hope and the tell. One proportion, recovered,
 That would make the temples of three civilizations agree in a single measure:
 The hope is human, and old, and it goes bad when the people who called
 The meeting declare the measure found, and the temples must come to them to be told
@@ -2061,7 +2061,7 @@ They had been prayed in for centuries by people who never elected a board.
 A norito is not a preface. A sutra is not a note the secretary took.
 Set them side by side. Do not swallow them into one explained word.
 
-Keep the reading. Refuse the ownership. East and West in one attention
+Keep the reading. Refuse the ownership. {{p|East}} and {{p|West}} in one attention
 Is a house that can be built without a claim to have invented the ground.
 If you look for the proportion, look, and show the process, and mention
 The witnesses. The preamble gave the method. It did not give a crown.
@@ -2074,7 +2074,7 @@ Of the striving is in the wisdom. The limit is in the processes. They are for al
 
 # Chapter 306: Who Names the Good
 
-In July of 1887, at {{p|Sils Maria}}, in the Upper Engadine,
+In July of 1887, at {{p|Sils Maria}}, in the {{p|Upper Engadine}},
 {{c|Friedrich Nietzsche}} wrote a polemic.
 He dated the preface there, that month.
 He said later that between the tenth and the thirtieth
@@ -2082,7 +2082,7 @@ The thing was decided, written, and sent to the press.
 
 On the seventeenth of July the manuscript went to {{p|Leipzig}},
 To {{c|Constantin Georg Naumann}}, who had printed, the year before,
-*Beyond Good and Evil*, at the author's cost.
+*{{x|Beyond Good and Evil}}*, at the author's cost.
 Print this one the same, he asked. The same type. The same paper.
 So the new book would stand as the old book's continuation.
 The reverse of the title page says it: added, to supplement and to clarify.
@@ -2098,7 +2098,7 @@ Under what conditions did we invent good and evil, and what are they worth.
 He was answering a friend as well as a school.
 {{c|Paul Rée}} had derived the moral sensations from usefulness,
 The good as what helped the person who received it.
-Nietzsche wanted a different history, and he wanted it to cut.
+{{c|Nietzsche}} wanted a different history, and he wanted it to cut.
 
 The first essay sets two namings side by side.
 Good and bad: the nobles, he says, named themselves the good,
@@ -2106,7 +2106,7 @@ And named the others plain, low, bad.
 Good and evil: a second naming, in which the powerful are called evil
 And the powerless are called the good.
 He calls the second a revolt of slaves.
-And he names the Jews as the people who began it.
+And he names the {{c|Jews}} as the people who began it.
 
 That sentence is his. It is not a finding.
 A history of the word good that needs one nation
@@ -2117,10 +2117,10 @@ Pointing is not the method. It is the thing the method is for catching.
 A party has defined itself as the harmed, and the other party as the harm.
 
 He offers histories of words on the way.
-One of them makes the Latin for bad mean dark.
+One of them makes the {{x|Latin}} for bad mean dark.
 That one does not hold.
-The German in the second essay does.
-Schuld is guilt, and Schuld is a debt.
+The {{x|German}} in the second essay does.
+{{x|Schuld}} is guilt, and {{x|Schuld}} is a debt.
 A thing owed to a conscience began, he says, as a sum owed,
 And the bad conscience is cruelty with no street left to spend itself in,
 Turned inward on the person who may no longer be cruel outside.
@@ -2145,7 +2145,7 @@ And every name on a day came from somewhere.
 Refuse the awards. He gives the first good to the masters,
 The ones strong enough to call themselves good and make it stick.
 He gives the second good to the resentful,
-And he gives the making of that resentment to the Jews.
+And he gives the making of that resentment to the {{c|Jews}}.
 The first award is a rank in the costume of a chronicle.
 The second award is the same rank turned over,
 With a people set under it as the cause.
@@ -2178,8 +2178,8 @@ Count the naming. Refuse the rank.
 
 {{c|Herman Hollerith}} was born in {{p|Buffalo}}
 On the twenty-ninth of February, 1860.
-His parents had come from Germany.
-In 1879 he left Columbia's School of Mines
+His parents had come from {{p|Germany}}.
+In 1879 he left {{p|Columbia}}'s {{x|School of Mines}}
 And went, under his teacher {{c|William P. Trowbridge}},
 Onto the census of 1880.
 
@@ -2196,14 +2196,14 @@ In 1887 he ran a machine on the health records
 Of {{p|Baltimore}}, and of {{p|New Jersey}}.
 Deaths, before the living of the next census.
 
-In 1888 the Census Office held a contest.
+In 1888 the {{x|Census Office}} held a contest.
 Four areas of {{p|St. Louis}}, taken out of the 1880 returns.
 Capture them. Then sort them.
 The fastest system would tabulate 1890.
 {{c|Charles F. Pidgin}} entered. {{c|William C. Hunt}} entered.
 One of those two took a hundred and forty-four hours and a half
 To get the data off the sheets. The other took a hundred and a half.
-Hollerith took seventy-two and a half.
+{{c|Hollerith}} took seventy-two and a half.
 To prepare the same data for the tables,
 The other two took forty-four hours and a half, and fifty-five and a half.
 His machine took five and a half.
@@ -2216,7 +2216,7 @@ The census of 1890 was taken as of the first of June.
 The first was a Sunday, so the enumerators went out on the second.
 {{c|Robert P. Porter}} was superintendent.
 The office was not yet a bureau.
-It was a temporary office in the Department of the Interior.
+It was a temporary office in the {{x|Department of the Interior}}.
 Each family had its own sheet.
 No other census of this country gave the general count
 One sheet to a family.
@@ -2242,7 +2242,7 @@ And a hole opened where the template had a category.
 The schedule asked the enumerator for a race,
 And the words it gave were these:
 White, black, mulatto, quadroon, octoroon,
-Chinese, Japanese, or Indian.
+{{x|Chinese}}, {{x|Japanese}}, or {{x|Indian}}.
 Any one of those words could be a hole.
 
 The reader was two plates and a lever.
@@ -2268,9 +2268,9 @@ In 1880 the number had been 50,189,209.
 The increase was twenty-five and a half in the hundred.
 Twenty-five volumes were published out of the tally.
 The six weeks were not the end of the office.
-Porter resigned on the thirty-first of July, 1893.
-An act of the second of March, 1895, closed the Census Office,
-And the work still unfinished went on under the Interior
+{{c|Porter}} resigned on the thirty-first of July, 1893.
+An act of the second of March, 1895, closed the {{x|Census Office}},
+And the work still unfinished went on under the {{x|Interior}}
 Until the first of July, 1897.
 
 The machine had shortened a labor
@@ -2283,7 +2283,7 @@ The circuit did what the columns of marks could not finish.
 Do not let the dial become the person.
 
 On the tenth of January, 1921, a fire began
-In the basement of the Commerce Building, in {{p|Washington}}.
+In the basement of the {{p|Commerce Building}}, in {{p|Washington}}.
 The population schedules of 1890 were outside the vault,
 Stacked on shelves in the path of the burning.
 {{c|Samuel Lyle Rogers}}, director of the census,
@@ -2291,11 +2291,11 @@ Reported the next morning that about a quarter were destroyed,
 And about half of what remained was damaged
 By water, by smoke, and by fire.
 On the twenty-first of February, 1933,
-Congress authorized destruction of the spoiled remainder.
+{{x|Congress}} authorized destruction of the spoiled remainder.
 By 1935 that remainder was gone.
 Of the general schedules, 6,160 names remain.
 
-The special schedules of Union veterans, and of their widows,
+The special schedules of {{x|Union}} veterans, and of their widows,
 Came through another way.
 About seventy-five thousand of those sheets survived.
 The soldiers were kept.
@@ -2321,46 +2321,46 @@ On the eleventh of September, 1893, in {{p|Chicago}},
 A bell was struck ten times.
 The organizers had agreed a count of ten religions,
 And the strokes were the count.
-Hindu. Buddhist. Jain. Zoroastrian.
-Taoist. Confucian. Shinto.
-Jewish. Christian. Muslim.
-The bell was the Columbian Liberty Bell.
-The hall was the Art Institute, new, on the avenue.
+{{x|Hindu}}. {{x|Buddhist}}. {{x|Jain}}. {{x|Zoroastrian}}.
+{{x|Taoist}}. {{x|Confucian}}. {{x|Shinto}}.
+{{x|Jewish}}. {{x|Christian}}. {{x|Muslim}}.
+The bell was the {{x|Columbian Liberty Bell}}.
+The hall was the {{p|Art Institute}}, new, on the avenue.
 The fair was somewhere else, south, in the park.
-The White City was still open.
+The {{p|White City}} was still open.
 It was the four hundredth year of a voyage, kept a year late.
 
 They came in procession.
 {{c|James Gibbons}}, a cardinal, in scarlet, beside {{c|Charles Carroll Bonney}}.
 Then the robes.
-{{c|John Henry Barrows}}, minister of a Presbyterian church,
+{{c|John Henry Barrows}}, minister of a {{x|Presbyterian}} church,
 Had built the meeting, and he chaired it.
-Bonney welcomed them.
+{{c|Bonney}} welcomed them.
 He said they met in respect for one another's religions.
 The respect was real, and it had a direction.
 The men who called the hall believed the comparison
 Would show their own church more clearly, and at last as the host.
 
 {{c|Vivekananda}} was thirty.
-He had been born Narendranath Datta, in {{p|Kolkata}},
+He had been born {{c|Narendranath Datta}}, in {{p|Kolkata}},
 And he was a disciple of {{c|Ramakrishna}}.
 He had come without a letter from a body that could send him.
-{{c|John Henry Wright}}, at Harvard, wrote that to ask this man
+{{c|John Henry Wright}}, at {{p|Harvard}}, wrote that to ask this man
 For credentials was like asking the sun
 To state its right to shine.
-On that first afternoon Vivekananda stood up
-And said, sisters and brothers of America.
+On that first afternoon {{c|Vivekananda}} stood up
+And said, sisters and brothers of {{p|America}}.
 The hall rose.
 He thanked them in the name of the most ancient order of monks,
-As he called it, and in the name of millions of Hindus.
+As he called it, and in the name of millions of {{c|Hindus}}.
 He said his religion had taught tolerance, and universal acceptance,
 And that it held the religions true.
-He told them a shelter: a remnant of Israel received
-In the year Rome broke the temple.
+He told them a shelter: a remnant of {{p|Israel}} received
+In the year {{p|Rome}} broke the temple.
 He offered the story as pride. The offer is the fact in the hall.
 He named sectarianism, and bigotry, and fanaticism,
 As what had filled the earth with blood.
-Whoever comes, by whatever path, he said, out of his Gita.
+Whoever comes, by whatever path, he said, out of his {{x|Gita}}.
 
 Hold the welcome. It is the opposite of a shut gate.
 Do not let the welcome become a claim
@@ -2369,21 +2369,21 @@ A hall can hold more than one true thing
 Without one of them being the meaning of the room.
 
 {{c|Anagarika Dharmapala}} had come from {{p|Colombo}}.
-He spoke for the Buddhism of the south.
-{{c|Shaku Sōen}}, of Engaku-ji in {{p|Kamakura}}, spoke for Zen.
+He spoke for the {{x|Buddhism}} of the south.
+{{c|Shaku Sōen}}, of {{p|Engaku-ji}} in {{p|Kamakura}}, spoke for {{x|Zen}}.
 Twenty-five years after the edicts that took the buddhas out of the shrines,
 Priests of the buddha and a priest of the kami
-Sat in one American room.
-{{c|Reuchi Shibata}}, for Shinto, prayed that the eight million deities
-Who keep the country of the cherry would also keep America.
+Sat in one {{x|American}} room.
+{{c|Reuchi Shibata}}, for {{x|Shinto}}, prayed that the eight million deities
+Who keep the country of the cherry would also keep {{p|America}}.
 At home the roofs had been forced apart.
-Abroad, both were sent, as the face of Japan.
+Abroad, both were sent, as the face of {{p|Japan}}.
 
-{{c|Virchand Gandhi}} spoke for the Jains.
-{{c|Pung Kwang Yu}}, a secretary of the Chinese legation,
-Spoke for the Confucians, because the court had answered.
-Islam was one of the ten strokes.
-{{c|Alexander Russell Webb}}, an American who had become a Muslim, spoke for it.
+{{c|Virchand Gandhi}} spoke for the {{c|Jains}}.
+{{c|Pung Kwang Yu}}, a secretary of the {{x|Chinese}} legation,
+Spoke for the {{c|Confucians}}, because the court had answered.
+{{x|Islam}} was one of the ten strokes.
+{{c|Alexander Russell Webb}}, an {{x|American}} who had become a {{x|Muslim}}, spoke for it.
 The sultan in {{p|Istanbul}} had not let his subjects come.
 The bell counted a religion whose empire had refused the chair.
 A convert sat where the forbidden delegation did not.
@@ -2393,27 +2393,27 @@ The parliament sat from that eleventh through the twenty-seventh.
 The platform was wider than a mission board.
 It was not the world.
 
-South of the hall, on the Midway of the fair,
-People brought from Dahomey, in what is now {{p|Benin}},
+South of the hall, on the {{p|Midway}} of the fair,
+People brought from {{p|Dahomey}}, in what is now {{p|Benin}},
 Were set out to be looked at.
 They had no paper on the platform.
 The ten strokes were the organizers' ten.
 A religion with no delegate did not receive a stroke.
 A person on display did not receive a chair.
 
-This day, in this calendar, is Samhain.
-The last day of Libra. The old mark for a boundary,
+This day, in this calendar, is {{x|Samhain}}.
+The last day of {{c|Libra}}. The old mark for a boundary,
 When the living and the dead are said to stand near.
 A meeting of religions is a meeting of the ways the dead are kept.
 The hall did that, for the dead who had a speaker.
-The Midway did the other thing.
+The {{p|Midway}} did the other thing.
 It put living people where a lesson is put,
 And called the place a village.
 
 Grant the hall.
 The rising up. The sisters and brothers.
 The eight million asked to keep a second country.
-The Buddhist and the Shinto priest in one room,
+The {{x|Buddhist}} and the {{x|Shinto}} priest in one room,
 After a government at home had forbidden them one roof.
 Comparison is a form of care when each name is left its own name.
 
@@ -2428,7 +2428,7 @@ The twenty-seventh came. The hall emptied.
 The fair ran on another month.
 The names that were spoken are kept.
 The names that were given no stroke are not, by that, unreal.
-On Samhain the edge is the work.
+On {{x|Samhain}} the edge is the work.
 Keep every dead the speakers named.
 Keep the ones no speaker was sent for.
 The boundary is not a list of ten.

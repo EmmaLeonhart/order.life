@@ -71,7 +71,7 @@ Of the temporary shelter on the beach.
 They did not walk to {{p|America}}. They came
 By boat—the humble craft whose reach
 
-Was the greatest vehicle of the Pleistocene:
+Was the greatest vehicle of the {{x|Pleistocene}}:
 The skin-boat, the dugout, the sewn-plank
 Canoe that hugged the coastline's evergreen
 And kelp-draped shore—they drank
@@ -83,7 +83,7 @@ Of the tidal fisher and the searchin'
 
 Eye that read the current and the swell.
 
-No Bering bridge of dusty steppe—
+No {{p|Bering}} bridge of dusty steppe—
 The oldest Americans knew well
 The ocean's rhythm, and their step
 
@@ -106,7 +106,7 @@ Of human habitation, the sturdy
 And undeniable proof that people lived
 At the far end of the {{p|Americas}}
 Before the inland ice-free corridor contrived
-To open—which means the Americas'
+To open—which means the {{p|Americas}}'
 
 First peoples came by sea.
 
@@ -130,7 +130,7 @@ And the interior was locked.
 
                                And south they went—
 Past {{p|California}}'s golden kelp-forests,
-Past {{p|Mexico}}'s warm Pacific coast, the bent
+Past {{p|Mexico}}'s warm {{p|Pacific}} coast, the bent
 And narrowing land of {{p|Central America}}'s crests,
 
 To {{p|Colombia}} and {{p|Ecuador}} and the long
@@ -203,7 +203,7 @@ Ground sloth, the horse, the camel—
 Everything that was defiant
 And enormous on the enamel
 
-Of the {{p|Americas}}' Pleistocene stage.
+Of the {{p|Americas}}' {{x|Pleistocene}} stage.
 
 Thirteen thousand years before our era,
 The Clovis people turned the page
@@ -262,7 +262,7 @@ And the {{p|Americas}} shuddered.
                                  The megafauna
 Had evolved for fifty million years
 Without a human predator—the fauna
-Of the New World knew no fears
+Of the {{p|New World}} knew no fears
 
 Of the upright ape, had no instinct
 To flee the two-legged shadow on the plain—
@@ -478,7 +478,7 @@ To build the Aztec empire's pillages
 
 And pyramids—one language family
 Stretching three thousand miles of latitude,
-The proof that the Americas' homily
+The proof that the {{p|Americas}}' homily
 Of connection ran beneath the multitude
 
 Of surface difference.
@@ -838,7 +838,7 @@ Material—the symbiotic run
 
 Of coast and valley, fisher and farmer,
 Protein and fiber intertwined
-In the Americas' first economic charmer:
+In the {{p|Americas}}' first economic charmer:
 The fish fed the farmer, the farmer's twined
 
 Cotton nets caught the fish—the circle
@@ -850,7 +850,7 @@ Free offering to the powers of the earth.
 
 Contemporary with {{p|Sumer}}'s ziggurats—
 Contemporary with the {{p|Nile}}'s rebirth
-In the Old Kingdom's acrobats
+In the {{x|Old Kingdom}}'s acrobats
 
 Of stone—the Norte Chico stood
 As proof that civilization was no accident
@@ -908,7 +908,7 @@ In basalt, and the rendering
 Was the first great portraiture of the {{p|Americas}}.
 
 And more—the Olmec gave the calendar:
-The Long Count's vast and mathematical theatres
+The {{x|Long Count}}'s vast and mathematical theatres
 Of time, the vigesimal and regular
 
 System of the Maya that the Olmec
@@ -952,7 +952,7 @@ Of the ceremonial center.
                                Honor {{p|Caral}}
 And the fishers of the {{p|Peruvian}} coast
 Whose nets and flutes built the corral
-Of the Americas' first urban post—
+Of the {{p|Americas}}' first urban post—
 
 And honor the Olmec and their colossal
 Heads that stare from the jungle floor
@@ -994,12 +994,12 @@ Bell tolling through the canopy's wool
 
 Of mist and rain—the Maya cities,
 The jeweled and painted capitals
-Of the Classic age, the ditties
+Of the {{x|Classic}} age, the ditties
 Of whose glory and whose intervals
 
 Of war and peace and art and astronomical
 Precision built the most sophisticated
-Civilization of the Americas' anatomical
+Civilization of the {{p|Americas}}' anatomical
 And intellectual body—the elated
 
 And terrible and beautiful achievement
@@ -1067,7 +1067,7 @@ Achievement: the number that finds
 
 Its value in its emptiness.
 
-And the calendar—the Long Count's
+And the calendar—the {{x|Long Count}}'s
 Architecture of time, the press
 Of days accumulated in accounts
 
@@ -1095,7 +1095,7 @@ To superior knowledge.
 
                          And the eclipse—
 The Maya predicted eclipses
-With the Dresden Codex's apocalypse-
+With the {{x|Dresden Codex}}'s apocalypse-
 Tables, the ellipses
 
 Of the moon's shadow calculated
@@ -1114,7 +1114,7 @@ Of the new day prophesied and fulfilled.
 The great king whose tomb was billed
 In the crypt beneath the Temple of the Banal
 
-Inscription—no, the Temple of the Inscriptions,
+Inscription—no, the {{p|Temple of the Inscriptions}},
 The pyramid whose interior stairway
 Led down to the sarcophagus, the descriptions
 Of whose carved lid showed the Maya
@@ -1132,7 +1132,7 @@ And sacred womb
 Of the pyramid's heart.
 
                           {{p|Tikal}} and {{p|Calakmul}}—
-The superpower rivals of the Classic,
+The superpower rivals of the {{x|Classic}},
 The two great cities whose beautiful
 And savage competition was the Jurassic
 
@@ -1192,7 +1192,7 @@ The Maya are not the token
 And vanished past but the pleasant
 
 And enduring and resilient thread
-Of the Americas' oldest literate mind.
+Of the {{p|Americas}}' oldest literate mind.
 
 Honor the Maya—the scribes who read
 The stars and wrote the time,

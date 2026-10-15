@@ -40053,48 +40053,48 @@ the {{p|Kingdom of Aksum}} rose in highland
 of what is now {{p|Ethiopia}}'s head.
 
 They traded with {{p|Rome}}, {{p|India}}, {{p|Arabia}},
-from {{p|Adulis}} on the Red Sea coast.
+from {{p|Adulis}} on the {{p|Red Sea}} coast.
 Their script was Ge'ez, their language Semitic,
-cousin of Arabic from distant host.
+cousin of {{x|Arabic}} from distant host.
 
 Ezana, king in the fourth century,
-converted to Christianity around
+converted to {{x|Christianity}} around
 three-thirty, through the Syrian missionary
 Frumentius, captured then renowned.
 
 Frumentius had been shipwrecked as a boy,
 served in the royal court, was trusted,
-returned to Alexandria and was consecrated
+returned to {{p|Alexandria}} and was consecrated
 bishop by Athanasius, who encrusted
 
 him with authority to evangelize.
-He returned to Ethiopia and preached.
+He returned to {{p|Ethiopia}} and preached.
 Ezana became Christian, and the kingdom
 became the second Christian state reached.
 
-(After Armenia. Before Rome.
-Ethiopia was the second nation
-in history to adopt Christianity
+(After {{p|Armenia}}. Before {{p|Rome}}.
+{{p|Ethiopia}} was the second nation
+in history to adopt {{x|Christianity}}
 as its official state declaration.)
 
-The Ethiopian Church took Monophysite
+The {{x|Ethiopian Church}} took Monophysite
 position at {{p|Chalcedon}} in four-fifty-one,
 holding that Christ had one nature, divine,
 absorbing the human into the one.
 
 This put it outside Western orthodoxy
 but aligned with {{p|Alexandria}} and {{p|Antioch}}'s stance.
-The Oriental Orthodox communion formed:
+The {{x|Oriental Orthodox}} communion formed:
 Copts, Syrians, Armenians, Ethiopians' dance.
 
-Ethiopia has a tradition that the Ark of the Covenant
+{{p|Ethiopia}} has a tradition that the Ark of the Covenant
 rests at {{p|Aksum}} in the Church of {{p|St. Mary of Zion}},
 brought there by Menelik I, son of
 Solomon and Sheba, the kebra nagast scion.
 
-The Kebra Nagast, "Glory of the Kings,"
+The {{x|Kebra Nagast}}, "{{x|Glory of the Kings}},"
 tells how the Queen of Sheba visited Solomon,
-bore his son Menelik, who returned to Ethiopia
+bore his son Menelik, who returned to {{p|Ethiopia}}
 taking the Ark back to his own dominion.
 
 Whether or not this is literally true,
@@ -40102,32 +40102,32 @@ the Ethiopian royal line claimed descent
 from Solomon for three thousand years
 until Haile Selassie's twentieth-century bent.
 
-Ethiopia was never colonized
-in the nineteenth-century Scramble for Africa —
+{{p|Ethiopia}} was never colonized
+in the nineteenth-century {{x|Scramble for Africa}} —
 held off the Italians at {{p|Adwa}} in 1896,
-the only African state that defeated Europa.
+the only African state that defeated {{p|Europa}}.
 
 The country has Jewish communities too,
-the Beta Israel, who practice a Judaism
-older than the Talmud, based on the Torah,
+the Beta Israel, who practice a {{x|Judaism}}
+older than the {{x|Talmud}}, based on the {{x|Torah}},
 preserved in highland isolation from racism.
 
-Most were airlifted to Israel in the 1980s
-in Operations Moses and Solomon.
+Most were airlifted to {{p|Israel}} in the 1980s
+in {{x|Operations Moses and Solomon}}.
 A three-thousand-year lineage exiled
 to the ancestral homeland at last come.
 
-Aksum declined in the seventh century
-as the rise of Islam cut trade routes.
+{{p|Aksum}} declined in the seventh century
+as the rise of {{x|Islam}} cut trade routes.
 The kingdom moved south and became
 the medieval Ethiopian kingdom of roots.
 
 Lalibela in the twelfth century
 would carve eleven churches from solid rock,
 each one hewn down from a single stone,
-a New Jerusalem, a pilgrim's dock.
+a {{x|New Jerusalem}}, a pilgrim's dock.
 
-Ethiopia's story is the African Christian kingdom,
+{{p|Ethiopia}}'s story is the African Christian kingdom,
 ancient, persistent, mystical, strange,
 isolated but connected, deeply rooted,
 surviving every political change.
@@ -40136,24 +40136,24 @@ surviving every political change.
 # Chapter 187: Constantine and the Fall of Rome
 
 Constantine fought his rival Maxentius
-at the {{p|Milvian Bridge}} outside Rome in three-twelve.
+at the {{p|Milvian Bridge}} outside {{p|Rome}} in three-twelve.
 The night before, he saw a cross of light,
 or chi-rho sign, and a voice did delve:
 
 "In hoc signo vinces." In this sign, conquer.
 He put the Christian monogram on his shields,
 won the battle, credited Christ,
-and ended Christianity's persecution fields.
+and ended {{x|Christianity}}'s persecution fields.
 
-The Edict of Milan in three-thirteen
-legalized Christianity throughout the empire.
+The {{x|Edict of Milan}} in three-thirteen
+legalized {{x|Christianity}} throughout the empire.
 Confiscated churches were returned.
 Worship was free. The martyrs could retire.
 
 Constantine moved the capital east to
 {{p|Byzantium}}, renamed {{p|Constantinople}},
-"New Rome," the city of the emperor,
-strategically placed on the Bosphorus people.
+"{{p|New Rome}}," the city of the emperor,
+strategically placed on the {{p|Bosphorus}} people.
 
 He called the Council of Nicaea in three-twenty-five
 to settle the question of Christ's nature.
@@ -40166,11 +40166,11 @@ Athanasius said the Son was eternal,
 homoousios with the Father, the same grade.
 
 Constantine pushed for consensus. The creed
-was written. Homoousios won the day.
-Arianism was condemned, though it would
+was written. {{x|Homoousios}} won the day.
+{{x|Arianism}} was condemned, though it would
 persist among the Goths for centuries to stay.
 
-The Nicene Creed became the foundation
+The {{x|Nicene Creed}} became the foundation
 of orthodox Christian theology:
 one God, three persons, Father, Son, Spirit,
 consubstantial, coeternal trinity.
@@ -40178,7 +40178,7 @@ consubstantial, coeternal trinity.
 Constantine was baptized on his deathbed.
 Whether sincere or political, who can say?
 His mother Helena went to {{p|Jerusalem}},
-found (she said) the True Cross where it lay.
+found (she said) the {{x|True Cross}} where it lay.
 
 After Constantine, his sons divided
 the empire, fought civil wars, returned
@@ -40187,50 +40187,50 @@ briefly tried to restore the old gods burned.
 
 But it was too late. The church was too strong.
 Julian died in battle against the Persians.
-The Theodosian reforms would make Christianity
+The Theodosian reforms would make {{x|Christianity}}
 the state religion, exclusive, without diversions.
 
 Theodosius I in three-ninety-two
 outlawed pagan worship entirely.
 The old temples were closed or converted.
-The Olympic Games were ended, purely.
+The {{x|Olympic Games}} were ended, purely.
 
-The Visigoths sacked Rome in four-ten
+The Visigoths sacked {{p|Rome}} in four-ten
 under Alaric. The unthinkable happened.
 The city that had not fallen in eight centuries
 was looted by barbarians now unchained.
 
 Augustine wrote The City of God
-in response — Rome had fallen because
+in response — {{p|Rome}} had fallen because
 it trusted in earthly power, not heavenly.
 The true City endured beyond human laws.
 
-The Vandals sacked Rome again in four-fifty-five.
-The Western Empire was fragmenting fast.
-Britain was abandoned. Gaul filled with Franks.
-Spain filled with Visigoths from Rome's past.
+The Vandals sacked {{p|Rome}} again in four-fifty-five.
+The {{p|Western Empire}} was fragmenting fast.
+{{p|Britain}} was abandoned. {{p|Gaul}} filled with Franks.
+{{p|Spain}} filled with Visigoths from {{p|Rome}}'s past.
 
 Romulus Augustulus, a child emperor
 with a diminutive name ironic in sum,
 was deposed by the Gothic general
-Odoacer in four-seventy-six. Rome was done.
+Odoacer in four-seventy-six. {{p|Rome}} was done.
 
-Or rather, the Western Roman Empire was done.
-The Eastern Empire at {{p|Constantinople}}
+Or rather, the {{p|Western Roman Empire}} was done.
+The {{p|Eastern Empire}} at {{p|Constantinople}}
 continued for a thousand years more
 as {{p|Byzantium}}, Greek-speaking, ecclesiastical.
 
 Justinian would briefly reconquer
 parts of the West in the sixth century,
-taking Italy back from the Goths, North Africa
+taking {{p|Italy}} back from the Goths, {{p|North Africa}}
 from the Vandals, with Belisarius' bravery.
 
-He codified Roman law as the Corpus Juris Civilis,
-built the Hagia Sophia in Constantinople,
-closed the Academy of Athens which had run
+He codified Roman law as the {{x|Corpus Juris Civilis}},
+built the Hagia Sophia in {{p|Constantinople}},
+closed the {{x|Academy of Athens}} which had run
 for nine hundred years as philosophy's steeple.
 
-The Platonic philosophers fled to Persia
+The Platonic philosophers fled to {{p|Persia}}
 to Khosrow I, who welcomed them kindly,
 though they eventually returned homeward
 under guarantee of tolerance, blindly.
@@ -40242,8 +40242,8 @@ The Arabs would strike these weakened civilians.
 
 But that is the next arc. For now, mark
 the transition: the classical world ended.
-The Western Roman Empire fell.
-Christianity became what Rome defended.
+The {{p|Western Roman Empire}} fell.
+{{x|Christianity}} became what {{p|Rome}} defended.
 
 The old gods were gone from public life.
 The temples were churches or ruins now.
@@ -40260,7 +40260,7 @@ The Yellow Turbans rose with fervent heart.
 
 Zhang Jue and his brothers led
 the Yellow Turban Rebellion in 184.
-Taiping Dao, the Way of Great Peace,
+{{x|Taiping Dao}}, the {{x|Way of Great Peace}},
 promised a new heaven, a new core.
 
 Zhang Jue claimed healing powers, faith
@@ -40268,72 +40268,72 @@ cures, magical ceremonies, bean counting.
 When plague and famine struck the peasants,
 his followers numbered hundreds of thousands mounting.
 
-The Han court raised armies, crushed the revolt,
+The {{x|Han}} court raised armies, crushed the revolt,
 but the generals became too strong thereby.
 Dong Zhuo marched into the capital,
 controlled the boy emperor, made him cry.
 
 Dong Zhuo was assassinated. The warlords
-carved up China like meat on the bone.
+carved up {{p|China}} like meat on the bone.
 Cao Cao, Liu Bei, Sun Quan emerged
 as the three great regional powers alone.
 
 Cao Cao held the north, controlled the emperor,
-ruled through the Han name though he was king.
-Liu Bei claimed descent from Han imperial blood,
+ruled through the {{x|Han}} name though he was king.
+Liu Bei claimed descent from {{x|Han}} imperial blood,
 built his base in {{p|Shu}}, the southwestern ring.
 
 Sun Quan inherited the south from his father and brother,
-built his power along the Yangtze's mouth,
-Wu the eastern kingdom along the coast.
-Three Kingdoms: Wei, Shu, Wu, facing drouth.
+built his power along the {{p|Yangtze}}'s mouth,
+{{p|Wu}} the eastern kingdom along the coast.
+{{x|Three Kingdoms}}: {{p|Wei}}, {{p|Shu}}, {{p|Wu}}, facing drouth.
 
 In two-twenty, Cao Cao's son Cao Pi
-forced the last Han emperor to abdicate.
-The Han was formally dead. Cao Pi
-declared Wei dynasty at its birth date.
+forced the last {{x|Han}} emperor to abdicate.
+The {{x|Han}} was formally dead. Cao Pi
+declared {{p|Wei}} dynasty at its birth date.
 
-Liu Bei declared Shu Han in response.
-Sun Quan declared Wu a few years later.
-The Three Kingdoms period had begun,
+Liu Bei declared {{p|Shu Han}} in response.
+Sun Quan declared {{p|Wu}} a few years later.
+The {{x|Three Kingdoms}} period had begun,
 lasting sixty years, never quieter.
 
-The Han had lasted four hundred years.
+The {{x|Han}} had lasted four hundred years.
 Its fall was the end of classical Chinese order.
 What followed was three centuries of division,
 three centuries of warfare on every border.
 
-The Three Kingdoms, then Jin unification briefly,
-then the Sixteen Kingdoms in the north,
-then the Southern and Northern Dynasties period,
-three hundred years of China torn forth.
+The {{x|Three Kingdoms}}, then {{x|Jin}} unification briefly,
+then the {{x|Sixteen Kingdoms}} in the north,
+then the {{x|Southern and Northern Dynasties}} period,
+three hundred years of {{p|China}} torn forth.
 
-During this time, Buddhism took deep root.
+During this time, {{x|Buddhism}} took deep root.
 With Confucian order failing, people turned
 to the foreign teaching that addressed suffering.
 Monasteries multiplied, sutras were earned.
 
 Kumarajiva was brought from {{p|Kucha}} as hostage
 to {{p|Chang'an}} where he translated sutras,
-the Lotus, the Diamond, the Vimalakirti,
+the {{x|Lotus}}, the {{x|Diamond}}, the {{x|Vimalakirti}},
 setting the standard for Chinese Buddhist tutors.
 
-Daoism also consolidated in this period
+{{x|Daoism}} also consolidated in this period
 into an organized religion with clergy,
 temples, canon, and liturgies modeled
 on Buddhist forms they found analogously.
 
 The Celestial Masters had emerged
-in the late Han as an organized church.
+in the late {{x|Han}} as an organized church.
 Ge Hong's alchemy sought immortality.
-Daoism became institutional perch.
+{{x|Daoism}} became institutional perch.
 
-China would not be reunified until
+{{p|China}} would not be reunified until
 Sui Wendi in five-eighty-nine.
 And then the Tang Dynasty would build
 on that foundation the greatest era fine.
 
-But first, the Three Kingdoms would become
+But first, the {{x|Three Kingdoms}} would become
 the great subject of Chinese historical imagination.
 The Romance of the Three Kingdoms novel
 would make these warlords into every nation's creation.
@@ -40345,33 +40345,33 @@ Guan Yu: the loyal sworn brother, servant of heaven's pavement.
 
 Their stories would shape Chinese culture
 for fifteen centuries to come,
-like the Mahabharata for India,
-like the Iliad for classical Greek home.
+like the {{x|Mahabharata}} for {{p|India}},
+like the {{x|Iliad}} for classical Greek home.
 
 
 # Chapter 189: Romance of the Three Kingdoms
 
 The novel by Luo Guanzhong
 in the fourteenth century brought alive
-the Three Kingdoms war with such vividness
+the {{x|Three Kingdoms}} war with such vividness
 that fact and fiction no longer survive
 
 as separate things. What "everyone knows"
 about this period comes from his book.
-The historical Chen Shou's Records of Three Kingdoms
+The historical Chen Shou's {{x|Records of Three Kingdoms}}
 is less read, less fun, less took.
 
 The opening line: "The empire, long divided,
 must unite; long united, must divide.
 Thus it has ever been." The novel begins
-with the Peach Garden Oath on a riverside.
+with the {{x|Peach Garden Oath}} on a riverside.
 
 Liu Bei, Guan Yu, and Zhang Fei
 swore brotherhood in a peach garden,
 pledging to die on the same day, to
-restore the Han, to share every burden.
+restore the {{x|Han}}, to share every burden.
 
-Liu Bei claimed descent from the Han imperial line,
+Liu Bei claimed descent from the {{x|Han}} imperial line,
 but sold straw sandals and mats to live.
 Guan Yu was a fugitive for avenging
 a local bully who would not forgive.
@@ -40388,7 +40388,7 @@ before he would consent to be a lobbyist
 
 for Liu Bei's cause. He devised the strategy
 of the tripod: three kingdoms balancing,
-Shu allied with Wu against Wei,
+{{p|Shu}} allied with {{p|Wu}} against {{p|Wei}},
 the weaker two against the one advancing.
 
 The Battle of Red Cliffs in two-oh-eight
@@ -40407,36 +40407,36 @@ The fire ships slipped into Cao Cao's fleet
 chained together, and the conflagration was continuous.
 
 Cao Cao's navy burned. His army fled
-along the Huarong Road through marsh and mud.
+along the {{p|Huarong Road}} through marsh and mud.
 Guan Yu let him escape at the narrow pass,
 repaying old debt of favor, blood.
 
 (This was not in the histories. Luo Guanzhong
-invented the Huarong Road release
+invented the {{p|Huarong Road}} release
 to show Guan Yu's righteousness, his sense
 of honor even to foes, sense of peace.)
 
 Guan Yu became the god of war,
 of loyalty, of brotherhood, of merchants,
-worshipped across China and Chinese diaspora
+worshipped across {{p|China}} and Chinese diaspora
 as Guandi, in temples of gold and servants.
 
-Zhuge Liang's Six Campaigns against Wei
-ended in his death at Wuzhang Plains.
+Zhuge Liang's {{x|Six Campaigns}} against {{p|Wei}}
+ended in his death at {{p|Wuzhang Plains}}.
 "The heavens will not let me succeed,"
-he said. Shu collapsed from his absent pains.
+he said. {{p|Shu}} collapsed from his absent pains.
 
-Shu fell to Wei in two-sixty-three.
-Wei was replaced by the Jin Dynasty in two-sixty-five.
-Wu fell to Jin in two-eighty.
+{{p|Shu}} fell to {{p|Wei}} in two-sixty-three.
+{{p|Wei}} was replaced by the Jin Dynasty in two-sixty-five.
+{{p|Wu}} fell to {{x|Jin}} in two-eighty.
 The empire was briefly reunified alive.
 
-But Jin would not last. Barbarian invasions
-from the north would push the Jin south,
+But {{x|Jin}} would not last. Barbarian invasions
+from the north would push the {{x|Jin}} south,
 the {{p|Northern and Southern Dynasties}} would begin.
-China would be divided with famine in its mouth.
+{{p|China}} would be divided with famine in its mouth.
 
-Yet the Three Kingdoms tales endured.
+Yet the {{x|Three Kingdoms}} tales endured.
 Liu Bei as the righteous rightful heir.
 Cao Cao as the cunning realist.
 Zhuge Liang as wisdom incarnate there.
@@ -40472,26 +40472,26 @@ through a line of gods at their minimum.
 Six-sixty BCE is the traditional date
 for Jimmu's eastern expedition from {{p|Kyushu}}
 to the {{p|Yamato}} plain, where he founded
-the imperial line that Japan would issue.
+the imperial line that {{p|Japan}} would issue.
 
 Historically, the date is far too early.
-The Yayoi rice-culture people had barely arrived.
-The Yamato state would not coalesce
+The {{x|Yayoi}} rice-culture people had barely arrived.
+The {{p|Yamato}} state would not coalesce
 until several centuries after this contrived.
 
 But the myth sets the frame: the imperial line
 descends from the sun goddess through her grandson
 Ninigi who came down to {{p|Mount Takachiho}}
-carrying the Three Sacred Treasures begun:
+carrying the {{x|Three Sacred Treasures}} begun:
 
-the mirror Yata no Kagami,
+the mirror {{x|Yata no Kagami}},
 the sword Kusanagi (taken from the tail
 of the eight-headed serpent Yamata no Orochi
 by Susanoo in myth's oldest detail),
 
-and the jewel Yasakani no Magatama.
+and the jewel {{x|Yasakani no Magatama}}.
 These three still exist (or so it is said)
-as the imperial regalia of Japan,
+as the imperial regalia of {{p|Japan}},
 passed down through seventy centuries' tread.
 
 Jimmu's great-grandfather was Ninigi.
@@ -40504,14 +40504,14 @@ the sun goddess Amaterasu above
 and through the sea dragon gods below.
 He is sky and sea, embraced by both's love.
 
-He marched east from Kyushu, subduing
+He marched east from {{p|Kyushu}}, subduing
 local chieftains, defeating rivals as he went.
-At {{p|Kashihara}} in the Yamato plain
+At {{p|Kashihara}} in the {{p|Yamato}} plain
 he founded the capital, his tent.
 
 He ascended the throne there, we are told,
 on February 11 of 660 BCE.
-This date became Japan's National Foundation Day,
+This date became {{p|Japan}}'s {{x|National Foundation Day}},
 a holiday ever since, at least in theory.
 
 For centuries after, the emperors listed
@@ -40549,8 +40549,8 @@ Korean invasion. But there was certainly
 contact with Korean kingdoms {{p|Baekje}}, {{p|Silla}}, {{p|Gaya}},
 trade, migration, cultural transfer apparently.
 
-From Baekje came writing, Confucianism, Buddhism
-into Japan — Buddhism officially in 538 or 552,
+From Baekje came writing, {{x|Confucianism}}, {{x|Buddhism}}
+into {{p|Japan}} — {{x|Buddhism}} officially in 538 or 552,
 though private transmission was earlier.
 From Gaya came iron, craftsmen, immigrant troops.
 
@@ -40560,21 +40560,21 @@ the massive kofun burial mounds,
 the largest tombs in the world, filling.
 
 The Daisenryō Kofun attributed to
-emperor Nintoku is longer than the Great Pyramid,
+emperor Nintoku is longer than the {{p|Great Pyramid}},
 though lower — a 486-meter keyhole shape
 of earth and stone, for the imperial pyramid.
 
 These burial mounds mark the emergence
 of a centralized state in the Japanese archipelago,
 absorbing Korean immigrants, Chinese influence,
-building toward what would become emperor Yamato.
+building toward what would become emperor {{p|Yamato}}.
 
-The Soga clan would push Buddhism.
+The Soga clan would push {{x|Buddhism}}.
 The Mononobe clan would resist.
-In 587, the Soga won, and Buddhism
-became the state religion, with Shinto's midst.
+In 587, the Soga won, and {{x|Buddhism}}
+became the state religion, with {{x|Shinto}}'s midst.
 
-The Kofun period was ending. The Asuka period
+The {{x|Kofun}} period was ending. The {{x|Asuka}} period
 beginning. The constitution of Prince Shōtoku
 in 604 would organize the state
 along Chinese lines — the shape we still see.
@@ -40593,7 +40593,7 @@ descended from Joktan son of Eber,
 speakers of ancient South Arabian scribes.
 
 And Adnan, the northern Arabs, the
-desert tribes of the Hejaz and Najd,
+desert tribes of the {{p|Hejaz}} and {{p|Najd}},
 descended from Ishmael son of Abraham
 through a line of thirty generations laid.
 
@@ -40612,7 +40612,7 @@ Allah was the high god, creator, most high,
 but rarely worshipped directly — his daughters
 al-Lat, al-Uzza, and Manat drew the eye.
 
-The Kaaba at Mecca housed 360 idols,
+The Kaaba at {{p|Mecca}} housed 360 idols,
 one for every day of the lunar year,
 tribal gods, astral deities, household idols,
 Hubal the chief among them held dear.
@@ -40623,31 +40623,31 @@ of Abraham, who worshipped the one God
 without joining Jewish or Christian shrine.
 
 Muhammad's great-great-grandfather Qusay
-had consolidated the Quraysh in Mecca,
+had consolidated the Quraysh in {{p|Mecca}},
 establishing them as guardians of the Kaaba
 and the pilgrimage trade's great bank-checker.
 
 The Quraysh controlled the sacred months
-when fighting was forbidden throughout Arabia
+when fighting was forbidden throughout {{p|Arabia}}
 to allow caravans and pilgrimages to flow.
-This gave them wealth through Mecca's bizarria.
+This gave them wealth through {{p|Mecca}}'s bizarria.
 
-{{p|Yemen}} to the south had the Himyarite Kingdom,
-which converted to Judaism in the fourth century,
-then was invaded by Christian Aksum, then
-by Sassanid Persia, politically drifting free.
+{{p|Yemen}} to the south had the {{p|Himyarite Kingdom}},
+which converted to {{x|Judaism}} in the fourth century,
+then was invaded by Christian {{p|Aksum}}, then
+by {{p|Sassanid Persia}}, politically drifting free.
 
 The Ghassanids on the northwestern frontier
-were Christian Arab vassals of Byzantium.
+were Christian Arab vassals of {{p|Byzantium}}.
 The Lakhmids in the east were Christian
 Arab vassals of the Sassanids, serving them.
 
-Jewish tribes lived in {{p|Medina}} (Yathrib):
+Jewish tribes lived in {{p|Medina}} ({{p|Yathrib}}):
 the Banu Qurayza, Banu Nadir, Banu Qaynuqa,
 who had fled there after Roman wars
 and established themselves as the economic driver.
 
-Christian monks wandered the Hejaz
+Christian monks wandered the {{p|Hejaz}}
 as hermits in caves along trade routes,
 where caravans would stop for water
 and hear the teaching at lonely outposts.
@@ -40657,19 +40657,19 @@ multiple religions already present,
 where monotheism was known but not
 universal, where pagan worship was prevalent.
 
-Trade connected Arabia to the world.
-Frankincense and myrrh went north to Rome.
-Silk and spices came from India and China
-through the Arabian ports of Yemen's home.
+Trade connected {{p|Arabia}} to the world.
+Frankincense and myrrh went north to {{p|Rome}}.
+Silk and spices came from {{p|India}} and {{p|China}}
+through the Arabian ports of {{p|Yemen}}'s home.
 
 The century before Muhammad saw
 the great Byzantine-Sassanid wars,
 which weakened both empires, disrupted trade,
-and left Arabia watching both contenders' scores.
+and left {{p|Arabia}} watching both contenders' scores.
 
-The Year of the Elephant, 570 CE,
+The {{x|Year of the Elephant}}, 570 CE,
 saw Abraha, the Christian Ethiopian ruler
-of Yemen, march on Mecca with elephants
+of {{p|Yemen}}, march on {{p|Mecca}} with elephants
 to destroy the Kaaba, sacred center ruler.
 
 His expedition was miraculously defeated
@@ -40688,14 +40688,14 @@ He married the wealthy widow Khadija
 fifteen years his senior, a deal well done.
 
 He would go to the cave of {{p|Hira}} to meditate
-on the Mount of Light outside Mecca.
+on the {{p|Mount of Light}} outside {{p|Mecca}}.
 At forty, in the year 610,
 the archangel Gabriel would visit him, a wrecker
 
 of his old life and opener of the new.
 "Recite!" the angel said. "In the name of your Lord
 who created, created man from a clot."
-The Quran began. A new religion was born.
+The {{x|Quran}} began. A new religion was born.
 
 
 # Chapter 192: Muhammad and the Rise of Islam
@@ -40707,7 +40707,7 @@ became the first Muslim at his side.
 
 The revelations continued for twenty-three years,
 verse by verse, surah by surah,
-collected after his death into the Quran,
+collected after his death into the {{x|Quran}},
 the recitation, Allah's word, no error.
 
 The core message: tawhid, the oneness of God.
@@ -40717,15 +40717,15 @@ the absolute one of all waters.
 
 The five pillars would crystallize:
 shahada — the profession of faith.
-salat — five daily prayers toward Mecca.
+salat — five daily prayers toward {{p|Mecca}}.
 zakat — charity for the poor, the aggrieved.
 
-sawm — fasting during Ramadan.
-hajj — pilgrimage to Mecca once in life.
+sawm — fasting during {{x|Ramadan}}.
+hajj — pilgrimage to {{p|Mecca}} once in life.
 Simple, clear, demanding, but doable,
 a structure for the whole of one's strife.
 
-For thirteen years in Mecca, Muhammad preached
+For thirteen years in {{p|Mecca}}, Muhammad preached
 and was persecuted by the Quraysh,
 whose economic and religious order
 depended on the pagan pilgrimage flesh.
@@ -40736,7 +40736,7 @@ His uncle Abu Talib protected him
 through clan obligation, not conviction.
 
 When Abu Talib died, and Khadija died
-the same year, 619, the "Year of Sorrow,"
+the same year, 619, the "{{x|Year of Sorrow}},"
 Muhammad's situation grew desperate.
 Persecution intensified. Would there be a morrow?
 
@@ -40746,32 +40746,32 @@ where tribes had invited him to arbitrate
 their feuds and be their prophet-leader subpoena.
 
 The Hijra is year one of the Islamic calendar.
-The community in Medina, the ummah,
+The community in {{p|Medina}}, the ummah,
 became the first Muslim polity,
 Muhammad as both prophet and ruler summa.
 
-The Jewish tribes of Medina initially
+The Jewish tribes of {{p|Medina}} initially
 were expected by Muhammad to recognize him
 as a prophet in the Abrahamic line.
 When they refused, the qibla changed from the rim
 
-of Jerusalem to Mecca. The fast was
-changed from Yom Kippur to Ramadan.
-The split with Judaism became permanent.
-Islam was now its own religion, untouched ran.
+of {{p|Jerusalem}} to {{p|Mecca}}. The fast was
+changed from {{x|Yom Kippur}} to {{x|Ramadan}}.
+The split with {{x|Judaism}} became permanent.
+{{x|Islam}} was now its own religion, untouched ran.
 
 War with the Quraysh broke out. The Battle of Badr
 in 624 was the first great victory.
 Three hundred Muslims defeated one thousand Quraysh.
 It was taken as divine sanction for their story.
 
-The Battle of Uhud in 625 was a defeat.
+The {{x|Battle of Uhud}} in 625 was a defeat.
 Muhammad was wounded, thought dead briefly.
 The community was shaken. New revelations
 addressed the setback and steadied them chiefly.
 
-The Battle of the Trench in 627 was
-a siege of Medina by the Quraysh,
+The {{x|Battle of the Trench}} in 627 was
+a siege of {{p|Medina}} by the Quraysh,
 repelled by the strategy of digging a trench,
 a Persian tactic from a convert's wish.
 
@@ -40780,24 +40780,24 @@ was accused of conspiring with the enemies.
 The men were killed, the women and children enslaved.
 This is one of the darkest episodes in history's arenas.
 
-In 628, the Treaty of Hudaybiyyah
+In 628, the {{x|Treaty of Hudaybiyyah}}
 was negotiated with the Quraysh.
 It seemed unfavorable to the Muslims,
 but Muhammad accepted, and his ash
 
 followers grumbled. Within two years
 the treaty was broken by Quraysh allies.
-Muhammad marched on Mecca with ten thousand
+Muhammad marched on {{p|Mecca}} with ten thousand
 and the city surrendered without heavy plies.
 
-Muhammad entered the Kaaba, destroyed the idols,
+Muhammad entered the {{p|Kaaba}}, destroyed the idols,
 proclaimed only one God, forgave most enemies.
 It was the triumph of his mission.
-Mecca was now the center of the new community.
+{{p|Mecca}} was now the center of the new community.
 
-In 632, Muhammad made the Farewell Pilgrimage,
-delivered the Farewell Sermon at Arafat,
-and died shortly after in Medina
+In 632, Muhammad made the {{x|Farewell Pilgrimage}},
+delivered the {{x|Farewell Sermon}} at {{p|Arafat}},
+and died shortly after in {{p|Medina}}
 in the arms of Aisha, his beloved mate.
 
 The community was devastated. Abu Bakr,
@@ -40807,21 +40807,21 @@ know that he is dead. If you worship Allah, he lives raw."
 
 Abu Bakr was elected the first caliph,
 the successor, the Rightly Guided.
-He crushed the Ridda wars, tribes rebelling,
+He crushed the {{x|Ridda}} wars, tribes rebelling,
 and held the ummah together, undivided.
 
 Then came Umar, second caliph, who
 launched the great Arab conquests outward.
 Within twelve years of Muhammad's death,
-Syria, Iraq, Persia, Egypt fell toward
+{{p|Syria}}, {{p|Iraq}}, {{p|Persia}}, {{p|Egypt}} fell toward
 
-the new empire. The Sassanid Empire
-collapsed completely. The Byzantine Empire
+the new empire. The {{p|Sassanid Empire}}
+collapsed completely. The {{p|Byzantine Empire}}
 lost its richest provinces. The map was redrawn.
 A new civilization rose from the fire.
 
 Umar was assassinated. Uthman was third caliph,
-who codified the Quran in its current form,
+who codified the {{x|Quran}} in its current form,
 collected all variants, destroyed the others,
 standardized the text without reform.
 
@@ -40832,7 +40832,7 @@ The community was dividing without forth.
 
 Ali was assassinated. Muawiya of the Umayyad clan
 seized the caliphate, moved capital to {{p|Damascus}}.
-The Rashidun era ended. The Umayyad dynasty
+The {{x|Rashidun}} era ended. The Umayyad dynasty
 began its ninety-year rule over fate's ramparts.
 
 Those who had favored Ali became
@@ -40851,11 +40851,11 @@ The split between them would be enduring, the fissure not undone.
 In the Tang Dynasty of {{p|China}},
 the monk Xuanzang set out west
 in 629 to find the original
-Sanskrit sutras, his life's one quest.
+{{x|Sanskrit}} sutras, his life's one quest.
 
 He was unhappy with the Chinese translations.
 He felt the dharma had been transmitted poorly.
-He applied for permission to leave China.
+He applied for permission to leave {{p|China}}.
 It was denied. He went illegally, surely.
 
 For seventeen years he traveled through
@@ -40868,12 +40868,12 @@ in history at that time, ten thousand monks,
 thousands of professors, vast libraries,
 teaching logic, philosophy, medicine, thunks.
 
-Xuanzang mastered Sanskrit, the six Buddhist schools,
-debated the Mahayana against the Theravada,
+Xuanzang mastered {{x|Sanskrit}}, the six Buddhist schools,
+debated the {{x|Mahayana}} against the {{x|Theravada}},
 was offered leadership of Nalanda itself,
 but chose to return home to his own data.
 
-He returned in 645 with 657 Sanskrit texts
+He returned in 645 with 657 {{x|Sanskrit}} texts
 loaded on twenty-two horses across the passes.
 The emperor Taizong welcomed him back
 despite the illegal departure from the masses.
@@ -40890,7 +40890,7 @@ when those kingdoms vanished, undocumented otherwise.
 
 {{p|Bamiyan}}'s giant Buddha statues — he saw them
 when they stood complete, fifty and thirty-five meters,
-cut into the cliff face of Afghanistan.
+cut into the cliff face of {{p|Afghanistan}}.
 Destroyed by Taliban in 2001, their lintels.
 
 But we know what they looked like from Xuanzang.
@@ -40898,7 +40898,7 @@ We know the kingdoms, the cities, the sages,
 the quality of rice at particular places,
 the customs of pilgrims on various pages.
 
-Nine hundred years later, in the Ming dynasty,
+Nine hundred years later, in the {{x|Ming}} dynasty,
 Wu Cheng'en wrote Journey to the West,
 the great fantasy novel based on Xuanzang's trip,
 with supernatural companions along for the test.
@@ -40911,7 +40911,7 @@ caused havoc in heaven, was imprisoned with hard arts.
 He was freed to accompany Xuanzang
 (called Tripitaka in the novel, the monk)
 with the golden headband that could constrict
-if the monk chanted the spell's Sanskrit funk.
+if the monk chanted the spell's {{x|Sanskrit}} funk.
 
 Pigsy (Zhu Bajie), the lazy glutton pig-man,
 Sandy (Sha Wujing), the stoic river demon,
@@ -40921,44 +40921,44 @@ four disciples of the monk, the protection demon.
 They encountered eighty-one trials on the road,
 demons in disguise, kingdoms of women,
 volcanoes of flaming mountains, rivers of sand.
-They reached India, collected sutras, were even
+They reached {{p|India}}, collected sutras, were even
 
 granted enlightenment upon their return.
 The novel is comedy, satire, theology,
-one of the Four Classical Novels of China,
+one of the {{x|Four Classical Novels of China}},
 beloved for centuries across geography.
 
 It has been adapted as opera, film, television,
 anime, video game, manga without count.
-Son Goku of Dragon Ball is a direct
+Son Goku of {{x|Dragon Ball}} is a direct
 descendant of Sun Wukong in amount.
 
 Xuanzang himself is historical.
 Sun Wukong is fictional. But both together
 represent the deep Chinese relationship
-with Buddhism — Chinese adaptation of weather.
+with {{x|Buddhism}} — Chinese adaptation of weather.
 
 The novel's implicit theology: enlightenment
 requires the journey, the trials, the companions.
 The demons are inner obstacles externalized.
 The goal is to carry the teaching back to one's nation.
 
-Chinese Buddhism had become by the Tang
-fully domesticated. Chan (Zen) was emerging
+Chinese {{x|Buddhism}} had become by the {{x|Tang}}
+fully domesticated. Chan ({{x|Zen}}) was emerging
 under Huineng the Sixth Patriarch, whose
 sudden enlightenment school was surging.
 
-Pure Land Buddhism was expanding too,
+Pure Land {{x|Buddhism}} was expanding too,
 the devotional school of Amitabha,
-the Buddha of the Western Paradise,
+the Buddha of the {{p|Western Paradise}},
 saving all who called his name in awe.
 
-Tang China was the world-civilization of its time.
+{{x|Tang}} {{p|China}} was the world-civilization of its time.
 {{p|Chang'an}} was the world's largest city.
 Persians, Arabs, Sogdians, Japanese, Koreans
 came to study, trade, and live in the pretty.
 
-The Tang would be the golden age
+The {{x|Tang}} would be the golden age
 that all subsequent Chinese dynasties measured themselves against.
 The model to emulate. The high water mark.
 The era that even now is most well-fenced.
@@ -40966,30 +40966,30 @@ The era that even now is most well-fenced.
 
 # Chapter 194: Kūkai
 
-In Japan of the early ninth century,
+In {{p|Japan}} of the early ninth century,
 the monk Kūkai (774-835)
-brought Shingon Buddhism from Tang China
+brought Shingon {{x|Buddhism}} from {{x|Tang}} {{p|China}}
 and made it into something alive.
 
 He was born on {{p|Shikoku}} island,
 the smallest of the four main islands,
 went to {{p|Chang'an}} in 804 with the embassy,
-studied at Qinglong Temple's vast hidings.
+studied at {{p|Qinglong Temple}}'s vast hidings.
 
 He studied under Huiguo, the master
-of Chinese Vajrayana Buddhism,
+of Chinese Vajrayana {{x|Buddhism}},
 who transmitted the full esoteric tradition
 to Kūkai in just a few months' witnessing.
 
 Huiguo died shortly after. Kūkai returned
-to Japan with scriptures, mandalas, ritual tools,
+to {{p|Japan}} with scriptures, mandalas, ritual tools,
 and the complete transmission of Shingon,
-"the True Word," the esoteric school's schools.
+"the {{x|True Word}}," the esoteric school's schools.
 
 He established his mountain monastery at {{p|Mount Kōya}},
 eight peaks forming a natural mandala.
 He systematized the esoteric teachings
-into Japan's first complete Buddhist alphabeta.
+into {{p|Japan}}'s first complete Buddhist alphabeta.
 
 He is credited (perhaps legendarily)
 with inventing the kana syllabary,
@@ -41019,12 +41019,12 @@ Shingon promises immediate escape from strife.
 Kūkai was also a calligrapher of legend,
 a poet, an engineer who built ponds and bridges,
 a theorist of language and signification.
-He is one of Japan's cultural ridges.
+He is one of {{p|Japan}}'s cultural ridges.
 
 He is said not to have died but to have
-entered eternal meditation at Mount Kōya,
+entered eternal meditation at {{p|Mount Kōya}},
 where his body remains uncorrupted
-in the Oku-no-In mausoleum, in quiet.
+in the {{p|Oku-no-In}} mausoleum, in quiet.
 
 Pilgrims still visit. They believe he is
 still there, waiting for Maitreya the future Buddha,
@@ -41033,38 +41033,38 @@ His tomb is attended daily with meals put through-a-
 
 the door in rituals of feeding the living master.
 Meanwhile, a separate monk Saichō (767-822)
-brought Tendai Buddhism from China
+brought Tendai {{x|Buddhism}} from {{p|China}}
 and established {{p|Mount Hiei}}, a center true.
 
-Tendai was based on the Lotus Sutra,
+Tendai was based on the {{x|Lotus Sutra}},
 on the teaching of Zhiyi of the Tiantai school,
 integrating all Buddhist teachings into
 a hierarchical synthesis of the rule.
 
-From Mount Hiei would come Japan's major
+From {{p|Mount Hiei}} would come {{p|Japan}}'s major
 medieval Buddhist traditions:
-Honen and Pure Land. Shinran and True Pure Land.
-Nichiren and Lotus Sutra intuitions.
-Dōgen and Sōtō Zen, with its meditations.
+Honen and {{x|Pure Land}}. Shinran and {{x|True Pure Land}}.
+Nichiren and {{x|Lotus Sutra}} intuitions.
+Dōgen and {{x|Sōtō Zen}}, with its meditations.
 
 All started as Tendai monks who
-left to found new schools. Mount Hiei was
-the matrix from which Japanese Buddhism emerged.
+left to found new schools. {{p|Mount Hiei}} was
+the matrix from which Japanese {{x|Buddhism}} emerged.
 Saichō had built an institutional pause.
 
 Kūkai and Saichō were contemporaries.
 They corresponded, borrowed texts, occasionally disagreed.
-Together they shaped Japanese Buddhism
+Together they shaped Japanese {{x|Buddhism}}
 into its distinctive esoteric breed.
 
-The capital {{p|Heian-kyō}} (Kyoto) had just been founded
+The capital {{p|Heian-kyō}} ({{p|Kyoto}}) had just been founded
 in 794 by Emperor Kanmu.
-The new Buddhism matched the new capital.
-A new era was beginning, the Heian, anew.
+The new {{x|Buddhism}} matched the new capital.
+A new era was beginning, the {{x|Heian}}, anew.
 
-The syncretism of Shinto and Buddhism
+The syncretism of {{x|Shinto}} and {{x|Buddhism}}
 deepened in this era. Honji suijaku, the theory
-that Shinto kami were local manifestations
+that {{x|Shinto}} kami were local manifestations
 of Buddhist bodhisattvas, was the theology.
 
 Amaterasu became Dainichi Nyorai's manifestation.
@@ -41073,7 +41073,7 @@ Shrines and temples were built together.
 One religion with two faces, no divide-a.
 
 This synthesis would last a thousand years
-until the Meiji period's forced separation
+until the {{x|Meiji}} period's forced separation
 in 1868 violently distinguished them.
 But for the medieval period, they were one vocation.
 
@@ -41083,7 +41083,7 @@ But for the medieval period, they were one vocation.
 In the West, after {{p|Rome}} had fallen,
 the Franks rose to fill the void.
 Clovis I in the late fifth century
-had converted to orthodox Christianity, enjoyed.
+had converted to orthodox {{x|Christianity}}, enjoyed.
 
 His descendants, the Merovingians, ruled
 for three centuries, but became weak,
@@ -41093,7 +41093,7 @@ by Mayors of the Palace, the real peak.
 Charles Martel, the Hammer, as Mayor
 of the Palace, defeated the Muslim advance
 at Tours in 732, stopping the conquest
-of Europe by the Umayyad trance.
+of {{p|Europe}} by the {{x|Umayyad}} trance.
 
 His son Pepin the Short asked the Pope
 if the one who had the real power
@@ -41103,15 +41103,15 @@ The Pope agreed. Pepin took the crown's tower.
 The Merovingians were deposed. The Carolingians
 began with Pepin, a dynasty new.
 Pepin's son was Charlemagne, Charles the Great,
-who would build an empire Europe had not in view.
+who would build an empire {{p|Europe}} had not in view.
 
 Charlemagne reigned 768-814. In those years
 he conquered the Saxons (converting them by force),
-defeated the Lombards in Italy,
+defeated the Lombards in {{p|Italy}},
 pushed the Muslims back from {{p|Spain}} and the course.
 
 He patronized learning, brought Alcuin
-from York to head his palace school.
+from {{p|York}} to head his palace school.
 The Carolingian Renaissance revived
 classical learning, standardized the scribal tool.
 
@@ -41123,7 +41123,7 @@ that would have otherwise been lost in crime.
 On Christmas Day 800, Pope Leo III
 crowned Charlemagne Imperator Romanorum,
 Emperor of the Romans, in {{p|St. Peter's}},
-reviving the Western Empire, its forum.
+reviving the {{p|Western Empire}}, its forum.
 
 This offended {{p|Constantinople}}, where the
 Byzantine Empress Irene held the throne.
@@ -41131,11 +41131,11 @@ She claimed to be the only legitimate Roman emperor.
 Her title was challenged by the Frank unknown.
 
 The Byzantines never accepted the Frankish claim.
-"Holy Roman Empire" as the Franks called it,
-was considered in Byzantium a joke,
+"{{p|Holy Roman Empire}}" as the Franks called it,
+was considered in {{p|Byzantium}} a joke,
 the barbarians pretending to be the successor of unit.
 
-Byzantium itself was in a period of flux.
+{{p|Byzantium}} itself was in a period of flux.
 Iconoclasm had erupted in the 720s,
 when Emperor Leo III had ordered
 all religious images destroyed, all icons beauties.
@@ -41145,15 +41145,15 @@ The iconodules defended images as windows
 to the spiritual, doors to divine presence.
 The controversy raged for over a century, endows
 
-In 787, the Second Council of Nicaea
+In 787, the {{x|Second Council of Nicaea}}
 affirmed the veneration (not worship) of icons.
 But iconoclasm revived again,
 and was only finally ended in 843, that entrances.
 
-The Triumph of Orthodoxy is still celebrated
+The {{x|Triumph of Orthodoxy}} is still celebrated
 in Eastern churches on the first Sunday of Lent.
 Icons were fully restored. The aesthetic of Byzantine
-Christianity was sealed, to their descendant.
+{{x|Christianity}} was sealed, to their descendant.
 
 Cyril and Methodius were Byzantine missionaries
 who evangelized the Slavs in the ninth century.
@@ -41163,25 +41163,25 @@ to write Slavic languages, bringing liturgical entry.
 {{p|Moravia}}, {{p|Bulgaria}}, and eventually {{p|Kievan Rus}}
 would be Christianized in the Byzantine rite
 with Slavic liturgy, unique among European Christianities
-that insisted on Latin or Greek at the site.
+that insisted on {{x|Latin}} or Greek at the site.
 
-This is the origin of Eastern Orthodoxy's
+This is the origin of {{x|Eastern Orthodoxy}}'s
 willingness to translate into local languages,
-which shaped the spread of the Slavic Christianity
-into Russia, Serbia, Bulgaria, Ukraine's pages.
+which shaped the spread of the Slavic {{x|Christianity}}
+into {{p|Russia}}, {{p|Serbia}}, {{p|Bulgaria}}, {{p|Ukraine}}'s pages.
 
 Charlemagne's empire fragmented after his death.
 His grandsons divided it at the Treaty of Verdun in 843:
-West Francia (France), East Francia (Germany),
-and Middle Francia (which would disintegrate in free).
+West Francia ({{p|France}}), East Francia ({{p|Germany}}),
+and {{p|Middle Francia}} (which would disintegrate in free).
 
 The Viking raids began in the late eighth century.
 The first recorded raid on {{p|Lindisfarne}} in 793
-shocked Christian Europe. The monks were slaughtered.
-The raiders came from Scandinavia, from the sea.
+shocked Christian {{p|Europe}}. The monks were slaughtered.
+The raiders came from {{p|Scandinavia}}, from the sea.
 
 For the next three centuries, Vikings would raid
-from Ireland to Russia, from Spain to Iraq.
+from {{p|Ireland}} to {{p|Russia}}, from {{p|Spain}} to {{p|Iraq}}.
 They would settle, found kingdoms, convert eventually.
 But they would be the scourge of the early Medieval track.
 
@@ -41189,12 +41189,12 @@ But they would be the scourge of the early Medieval track.
 # Chapter 196: Tang and the Great Persecution
 
 The Tang Dynasty (618-907) was
-the golden age of imperial China.
+the golden age of imperial {{p|China}}.
 {{p|Chang'an}} was the greatest city in the world,
 one million people in its central arena.
 
 The founder Li Yuan (Gaozu) had been
-a general who seized power from the Sui.
+a general who seized power from the {{x|Sui}}.
 His son Taizong killed his brothers,
 forced his father to abdicate on the cue.
 
@@ -41203,24 +41203,24 @@ the model of Confucian good rulership,
 the era of peace and prosperity,
 the golden reign held up as a reference for leadership.
 
-Empress Wu Zetian rose under the third Tang emperor,
+Empress Wu Zetian rose under the third {{x|Tang}} emperor,
 eliminated rivals, and became the only woman
-to rule China as emperor in her own name,
+to rule {{p|China}} as emperor in her own name,
 founding the {{p|Zhou Dynasty}} briefly, a prism human.
 
-She patronized Buddhism, elevated it above
-Confucianism and Daoism temporarily.
+She patronized {{x|Buddhism}}, elevated it above
+{{x|Confucianism}} and {{x|Daoism}} temporarily.
 Under her, the massive Buddha statues at {{p|Longmen}}
 were carved, her face modeled, supposedly.
 
-After her reign, the Tang continued
+After her reign, the {{x|Tang}} continued
 under Xuanzong, whose early reign was glorious
 but whose later years fell to the disaster
 of the An Lushan Rebellion, devastating notoriously.
 
 An Lushan was a Sogdian general, trusted
 and elevated by Xuanzong, who rebelled
-in 755 and plunged China into civil war
+in 755 and plunged {{p|China}} into civil war
 for eight years. Millions died. The empire propelled
 
 into a long decline. The census before
@@ -41229,7 +41229,7 @@ After, the census recorded 17 million.
 Whether this represents actual deaths or administrative steeple
 
 failure, the scale was catastrophic.
-The Tang survived but never recovered its former strength.
+The {{x|Tang}} survived but never recovered its former strength.
 Xuanzong's beloved concubine Yang Guifei
 was killed at his soldiers' demand, the length
 
@@ -41238,75 +41238,75 @@ The great poet Li Bai had been at his court.
 The great poet Du Fu had lived through the chaos,
 writing war poetry of unmatched import.
 
-Poetry flourished in the Tang. Li Bai, Du Fu,
+Poetry flourished in the {{x|Tang}}. Li Bai, Du Fu,
 Wang Wei, Bai Juyi, the Four Greats,
 became the classical masters of Chinese verse,
 whose works every subsequent scholar debates.
 
 In 845, Emperor Wuzong launched
 the Great Anti-Buddhist Persecution
-(the Huichang Persecution, named for his era).
+(the {{x|Huichang Persecution}}, named for his era).
 It was the most thorough effusion
 
-of state power against Buddhism in Chinese history.
+of state power against {{x|Buddhism}} in Chinese history.
 Forty thousand temples and shrines were destroyed.
 Two hundred sixty thousand monks and nuns were
 returned to lay life, their wealth deployed.
 
 The motives were mixed. Economic — the monasteries
 held vast untaxed lands. Ideological — Wuzong was
-a Daoist who thought Buddhism was foreign. Xenophobic —
+a Daoist who thought {{x|Buddhism}} was foreign. Xenophobic —
 foreign religions were targeted broadly without pause.
 
-Manichaeism was virtually wiped out in China.
-Nestorian Christianity, which had entered in the Tang,
+{{x|Manichaeism}} was virtually wiped out in {{p|China}}.
+Nestorian Christianity, which had entered in the {{x|Tang}},
 was also persecuted and largely destroyed.
 Zoroastrianism among Sogdian communities sang.
 
-Buddhism recovered somewhat after Wuzong's death
+{{x|Buddhism}} recovered somewhat after Wuzong's death
 (his successor reversed the policy),
 but the intellectual glory days were over.
-Chan (Zen) would survive more readily.
+Chan ({{x|Zen}}) would survive more readily.
 
-Chan Buddhism was less dependent on scriptures,
+Chan {{x|Buddhism}} was less dependent on scriptures,
 libraries, and wealthy monasteries.
 Its simple meditation-based practice
 could survive with minimal institutional stories.
 
-Pure Land Buddhism also survived,
+Pure Land {{x|Buddhism}} also survived,
 through devotional practice by laypeople,
 chanting the name of Amitabha Buddha,
 requiring no temples or scholarly steeple.
 
 These two schools — Chan and Pure Land —
-would become the dominant forms of East Asian Buddhism,
-not the scholarly schools like Huayan or Tiantai,
+would become the dominant forms of East Asian {{x|Buddhism}},
+not the scholarly schools like {{x|Huayan}} or {{x|Tiantai}},
 which required institutional support for their dualism.
 
-The Tang declined through the ninth century.
+The {{x|Tang}} declined through the ninth century.
 Regional warlords, the Jiedushi, became
 de facto independent. Eunuchs controlled the court.
 Peasant rebellions erupted with blame.
 
-In 907, the Tang was formally deposed.
+In 907, the {{x|Tang}} was formally deposed.
 The {{p|Five Dynasties and Ten Kingdoms}} period began,
 fifty-three years of fragmentation,
 until the Song Dynasty reunified in 960, man.
 
-The Song would be more scholarly, less military,
+The {{x|Song}} would be more scholarly, less military,
 less imperial, more refined.
 It would lose the northern frontier to Khitans and Jurchens,
 but would be culturally very defined.
 
-The Song would invent movable type printing,
+The {{x|Song}} would invent movable type printing,
 refine gunpowder, develop the compass.
-Song painting and ceramics would be exquisite.
+{{x|Song}} painting and ceramics would be exquisite.
 The civil service exam would be the crown accomplished.
 
-But the Tang remained the memory, the ideal,
+But the {{x|Tang}} remained the memory, the ideal,
 the civilization-peak to look back on.
-"Tang poetry" still means the finest Chinese verse.
-"Tang" is still how Chinese abroad call their people gone.
+"{{x|Tang}} poetry" still means the finest Chinese verse.
+"{{x|Tang}}" is still how Chinese abroad call their people gone.
 
 ---
 
@@ -41320,22 +41320,22 @@ in 750, moving the capital east to
 the new city of {{p|Baghdad}} founded by al-Mansur
 in 762, a round city with four gates through.
 
-Baghdad became the intellectual center
+{{p|Baghdad}} became the intellectual center
 of the world for four centuries.
-The House of Wisdom, Bayt al-Hikma,
+The House of Wisdom, {{x|Bayt al-Hikma}},
 patronized translation of Greek, Persian, Indian century.
 
 The works of Aristotle, Plato, Galen,
 Euclid, Ptolemy, Hippocrates
-were translated into Arabic, preserved
-when Western Europe had lost most.
+were translated into {{x|Arabic}}, preserved
+when {{p|Western Europe}} had lost most.
 
 Indian mathematics — the decimal system,
 zero as a number, algebra's foundation —
 came through al-Khwarizmi, whose name
 gave us "algorithm" and whose work "al-jabr"
 
-gave us "algebra." He wrote in Baghdad
+gave us "algebra." He wrote in {{p|Baghdad}}
 in the ninth century, synthesizing Indian and Greek
 mathematics into a coherent discipline.
 Without him, modern math would be weak.
@@ -41343,120 +41343,120 @@ Without him, modern math would be weak.
 Al-Razi (Rhazes) was the great physician,
 who distinguished smallpox from measles,
 pioneered experimental medicine,
-wrote the Comprehensive Book of Medicine in easels.
+wrote the {{x|Comprehensive Book of Medicine}} in easels.
 
-Ibn Sina (Avicenna) wrote the Canon of Medicine,
-used as the standard medical text in Europe for six centuries.
-His philosophical synthesis of Aristotle and Neoplatonism
+Ibn Sina (Avicenna) wrote the {{x|Canon of Medicine}},
+used as the standard medical text in {{p|Europe}} for six centuries.
+His philosophical synthesis of Aristotle and {{x|Neoplatonism}}
 shaped both Islamic and Christian theological tendencies.
 
 Ibn al-Haytham (Alhazen) founded modern optics
-with the Book of Optics, establishing
+with the {{x|Book of Optics}}, establishing
 the scientific method through controlled experiment,
 three centuries before Galileo, everything advancing.
 
 Al-Biruni measured the Earth's circumference
 with astonishing accuracy using trigonometry,
-studied India with anthropological depth,
+studied {{p|India}} with anthropological depth,
 wrote 146 treatises spanning every discipline's reverie.
 
-Al-Ghazali wrote the Incoherence of the Philosophers,
-attacking the Aristotelian rationalists of Islam.
-Ibn Rushd (Averroes) wrote the Incoherence
-of the Incoherence, defending philosophy from qualm.
+Al-Ghazali wrote the {{x|Incoherence of the Philosophers}},
+attacking the Aristotelian rationalists of {{x|Islam}}.
+Ibn Rushd (Averroes) wrote the {{x|Incoherence}}
+of the {{x|Incoherence}}, defending philosophy from qualm.
 
 Ibn Rushd's commentaries on Aristotle
 would be the foundation of Medieval European
 scholasticism. Thomas Aquinas read him.
-Without Averroes, no Summa Theologica, see.
+Without Averroes, no {{x|Summa Theologica}}, see.
 
 Ibn Khaldun in the fourteenth century wrote
-the Muqaddimah, the first work of sociology,
+the {{x|Muqaddimah}}, the first work of sociology,
 theorizing about the cycle of dynasties,
 asabiyyah (group solidarity), the rise-and-fall typology.
 
 Al-Farabi was called "the Second Teacher"
 after Aristotle. Ibn Arabi was the mystical
-unifier of Sufism into philosophical vision.
+unifier of {{x|Sufism}} into philosophical vision.
 Rumi would write the greatest mystical
 
-poetry in any language, the Masnavi,
-from his Persian-speaking Sufi center in Konya.
-Sufism flourished across the Islamic world,
-from Morocco to India, a mystical ocean.
+poetry in any language, the {{x|Masnavi}},
+from his Persian-speaking Sufi center in {{p|Konya}}.
+{{x|Sufism}} flourished across the Islamic world,
+from {{p|Morocco}} to {{p|India}}, a mystical ocean.
 
-Al-Hallaj had cried "Ana al-Haqq" — "I am the Truth" —
+Al-Hallaj had cried "{{x|Ana al-Haqq}}" — "I am the Truth" —
 and been executed for the heresy
 of identifying himself with God.
-Sufism always danced on the edge of orthodoxy.
+{{x|Sufism}} always danced on the edge of orthodoxy.
 
 The caliphate itself fragmented politically.
 The Umayyads who had survived in {{p|Spain}}
 established the Emirate of Córdoba,
 later the Caliphate, a rival reign.
 
-Córdoba became the greatest city in Western Europe,
+{{p|Córdoba}} became the greatest city in {{p|Western Europe}},
 with half a million people, libraries of hundreds of thousands of books,
 public baths, street lighting, paved streets.
-In an age when Paris was a muddy village of outlooks.
+In an age when {{p|Paris}} was a muddy village of outlooks.
 
-The Fatimid Caliphate arose in Egypt in 909,
-Shia Ismaili, rivaling the Sunni Abbasids.
+The Fatimid Caliphate arose in {{p|Egypt}} in 909,
+{{x|Shia}} Ismaili, rivaling the {{x|Sunni}} Abbasids.
 They founded {{p|Cairo}} and the al-Azhar University,
 which has taught Islamic scholarship continuously for ages.
 
-On the Caspian's southern shore, in {{p|Mazandaran}},
+On the {{p|Caspian}}'s southern shore, in {{p|Mazandaran}},
 the old princes of {{p|Tabaristan}} held the forest and the height,
 the Bavandids, who named the Sasanian kings as kin,
-the last of Iran's old houses not yet taken by the fight.
+the last of {{p|Iran}}'s old houses not yet taken by the fight.
 
 Qarin the First ruled there from 817,
 and when his rival Mazyar rose against the caliph's hand,
-Qarin stood with Baghdad, and in 842
-he took Islam himself, and kept his mountain land.
+Qarin stood with {{p|Baghdad}}, and in 842
+he took {{x|Islam}} himself, and kept his mountain land.
 
 So the blood of the old kings went on inside the new faith.
 His son Abul Melik carried it, and in 869 a grandson came,
 Abul Hamza, born in {{p|Armenia}}, among the Artsruni,
-and the line of Tabaristan went west under an Armenian name.
+and the line of {{p|Tabaristan}} went west under an Armenian name.
 
-The Seljuk Turks took over the Abbasid heartland
+The Seljuk Turks took over the {{x|Abbasid}} heartland
 in the eleventh century, nominal caliphs remaining
 but real power with the sultan.
 They defeated the Byzantines at Manzikert in 1071, maintaining
 
 Turkish dominance in {{p|Anatolia}}, which would
 eventually become modern {{p|Turkey}}.
-This was the beginning of the end for Byzantium,
+This was the beginning of the end for {{p|Byzantium}},
 whose heartland was now lost irretrievably turkey.
 
-The Seljuks were Sunni, patronized the mainstream
-Hanafi school of Islamic jurisprudence.
+The Seljuks were {{x|Sunni}}, patronized the mainstream
+{{x|Hanafi}} school of Islamic jurisprudence.
 They also patronized learning, building madrasas
 across their empire, educational abundance.
 
-Baghdad itself would fall to the Mongols in 1258,
+{{p|Baghdad}} itself would fall to the Mongols in 1258,
 ending the Abbasid Caliphate formally.
-The House of Wisdom's books were thrown in the Tigris.
-The Tigris ran black with ink, conformably.
+The House of Wisdom's books were thrown in the {{p|Tigris}}.
+The {{p|Tigris}} ran black with ink, conformably.
 
-That is the end of the Islamic Golden Age.
+That is the end of the {{x|Islamic Golden Age}}.
 But what was produced in those four centuries
 is one of the greatest intellectual legacies
 of human history, rivaling any civilization's treasures.
 
 Without Islamic transmission of Greek learning
-through Córdoba and Toledo to Christian Europe,
-there would have been no Renaissance.
+through {{p|Córdoba}} and {{p|Toledo}} to Christian {{p|Europe}},
+there would have been no {{x|Renaissance}}.
 The chain of transmission included this stoop.
 
 
 # Chapter 198: Heian Japan
 
 The Heian period (794-1185) took its name
-from the new capital {{p|Heian-kyō}}, "Capital of Peace,"
+from the new capital {{p|Heian-kyō}}, "{{p|Capital of Peace}},"
 which we now call {{p|Kyoto}}, a planned city
-modeled on Tang Chang'an's pre-lease.
+modeled on {{x|Tang}} {{p|Chang'an}}'s pre-lease.
 
 For nearly four centuries, the imperial court
 lived in exquisite aesthetic refinement,
@@ -41484,7 +41484,7 @@ Court women writing in kana produced
 the masterpieces of Japanese story-mystery.
 
 Murasaki Shikibu (c. 978-1014) wrote
-the Tale of Genji (Genji Monogatari),
+the Tale of Genji ({{x|Genji Monogatari}}),
 fifty-four chapters about the amorous adventures
 of the Shining Prince Genji, at length contradictory.
 
@@ -41494,9 +41494,9 @@ Its portrayal of the court, the aesthetics
 of mono no aware (the bittersweet of passing), eloquent.
 
 Sei Shōnagon, Murasaki's contemporary and rival,
-wrote the Pillow Book, Makura no Sōshi,
+wrote the Pillow Book, {{x|Makura no Sōshi}},
 a collection of observations, lists, vignettes
-of courtly life — "Things That Make One's Heart Beat Fast," she
+of courtly life — "{{x|Things That Make One's Heart Beat Fast}}," she
 wrote, and catalogs of beautiful and ugly things.
 
 Izumi Shikibu wrote passionate love poetry.
@@ -41515,7 +41515,7 @@ is forgotten. The kana writing of women endures.
 A strange historical irony, clearer and clearer.
 
 The aesthetic of mono no aware — the pathos of things —
-permeates Heian culture. The awareness that
+permeates {{x|Heian}} culture. The awareness that
 everything is passing, that beauty is fleeting,
 that sadness is the proper response to the fact.
 
@@ -41525,11 +41525,11 @@ The court love affair of a night, then separation.
 Every pleasure carries the taste of loss' gown.
 
 This aesthetic would persist through Japanese
-cultural history, from the Heian to the modern,
+cultural history, from the {{x|Heian}} to the modern,
 in the tea ceremony, in haiku, in film,
 the foundational mood of the Japanese modern.
 
-Politically, the Heian was becoming hollow.
+Politically, the {{x|Heian}} was becoming hollow.
 The capital was all-important to the court,
 but outside the capital, the warrior class
 was rising, the bushi, who would soon comport.
@@ -41556,10 +41556,10 @@ with the sacred sword Kusanagi at the sea.
 
 Yoritomo established the Kamakura Shogunate,
 the first military government, in 1192.
-The emperor remained in Kyoto as symbolic head,
-but real power was now in Kamakura's view.
+The emperor remained in {{p|Kyoto}} as symbolic head,
+but real power was now in {{p|Kamakura}}'s view.
 
-The Heian era was over. The medieval era began.
+The {{x|Heian}} era was over. The medieval era began.
 The refined court aesthetic remained as ideal,
 but the ruling class was now the warrior,
 with its code of bushido, martial and real.
@@ -41584,7 +41584,7 @@ and wrote them down for scaldic poets' discipline myths.
 
 Odin, the Allfather, who hung on {{p|Yggdrasil}}
 for nine days and nights to gain the runes.
-Thor, the thunder god with Mjölnir the hammer.
+Thor, the thunder god with {{x|Mjölnir}} the hammer.
 Freyr and Freyja, fertility gods of the dunes.
 
 Loki, the trickster, who birthed monsters
@@ -41599,7 +41599,7 @@ The cosmology: {{p|Yggdrasil}} the world tree with nine realms.
 
 {{p|Svartalfheim}} of the dark elves or dwarves.
 {{p|Hel}} the land of the dead who didn't die in battle.
-{{p|Valhalla}} in Asgard for warriors killed in combat,
+{{p|Valhalla}} in {{p|Asgard}} for warriors killed in combat,
 brought there by Valkyries on horseback in rattle.
 
 Ragnarök was the end: Fenrir would devour Odin.
@@ -41609,7 +41609,7 @@ And then a new world would emerge, clean, a new millennium.
 
 This cyclical eschatology distinguishes Norse myth
 from the linear Judeo-Christian end.
-After Ragnarök, two humans hide in Yggdrasil,
+After Ragnarök, two humans hide in {{p|Yggdrasil}},
 come out, repopulate, become friends again.
 
 The historical Vikings began raiding in 793
@@ -41617,47 +41617,47 @@ with the attack on {{p|Lindisfarne}} monastery.
 For three centuries they raided, traded, settled
 from {{p|Ireland}} to {{p|Russia}}, an unexpected quandary.
 
-They founded {{p|Dublin}}, {{p|Waterford}}, {{p|Cork}} in Ireland.
-They conquered much of England (the Danelaw).
-They served as mercenaries in Byzantium,
+They founded {{p|Dublin}}, {{p|Waterford}}, {{p|Cork}} in {{p|Ireland}}.
+They conquered much of {{p|England}} (the {{p|Danelaw}}).
+They served as mercenaries in {{p|Byzantium}},
 the Varangian Guard, the emperor's personal crow.
 
 They sailed to {{p|Iceland}} and settled it around 870.
 To {{p|Greenland}} under Erik the Red in 986.
-To {{p|Vinland}} (North America) under Leif Erikson around 1000,
+To {{p|Vinland}} ({{p|North America}}) under Leif Erikson around 1000,
 five centuries before Columbus' trick.
 
 They sailed up the Russian rivers to trade
-with Byzantium and the Islamic world.
-The Kievan Rus were founded by Swedish Vikings,
-the Rus tribe, whose name on Russia is unfurled.
+with {{p|Byzantium}} and the Islamic world.
+The {{p|Kievan Rus}} were founded by Swedish Vikings,
+the Rus tribe, whose name on {{p|Russia}} is unfurled.
 
 Rurik founded {{p|Novgorod}}. His kin took {{p|Kiev}}.
-Vladimir the Great in 988 converted to Orthodoxy
+Vladimir the Great in 988 converted to {{x|Orthodoxy}}
 after sending emissaries to investigate all religions.
-They came back from Constantinople with advocacy.
+They came back from {{p|Constantinople}} with advocacy.
 
 "We knew not whether we were in heaven or on earth,"
-they reported. The beauty of Hagia Sophia's liturgy
-had converted them. Kievan Rus became Orthodox.
+they reported. The beauty of {{p|Hagia Sophia}}'s liturgy
+had converted them. {{p|Kievan Rus}} became Orthodox.
 The Slavic Orthodox church was born with liturgy.
 
-Back in Scandinavia, conversion came slowly.
+Back in {{p|Scandinavia}}, conversion came slowly.
 Harald Bluetooth of {{p|Denmark}} converted around 965.
-Olaf Tryggvason of Norway forcefully converted his people.
+Olaf Tryggvason of {{p|Norway}} forcefully converted his people.
 Olaf II died a martyr and was canonized alive.
 
 Sweden was the last to convert, into the twelfth century.
-The Uppsala temple with its human sacrifices
+The {{p|Uppsala}} temple with its human sacrifices
 was destroyed in the early twelfth century.
-The Old Way was ending, despite its old vices.
+The {{x|Old Way}} was ending, despite its old vices.
 
-But in Iceland, the conversion was peaceful.
-In 1000, the Althing (parliament) voted
-to officially adopt Christianity, though
+But in {{p|Iceland}}, the conversion was peaceful.
+In 1000, the {{x|Althing}} (parliament) voted
+to officially adopt {{x|Christianity}}, though
 private pagan worship was temporarily floated.
 
-Iceland's conversion by parliamentary vote
+{{p|Iceland}}'s conversion by parliamentary vote
 is unique in world history of religions.
 It reflected the democratic nature of Icelandic society,
 where legal decisions were made collectively, with provisions.
@@ -41669,18 +41669,18 @@ great literature of a unique historical interlude.
 
 William the Conqueror of {{p|Normandy}} was
 a Viking descendant, whose ancestor Rollo
-had been granted Normandy by the French king
+had been granted {{p|Normandy}} by the French king
 in 911 to stop the raids, a settlement deal to follow.
 
-Norman French absorbed Old Norse words and
+{{x|Norman French}} absorbed {{x|Old Norse}} words and
 preserved Norse traits of boldness and administration.
-In 1066, William invaded England and
-won the Battle of Hastings, changing England's foundation.
+In 1066, William invaded {{p|England}} and
+won the Battle of Hastings, changing {{p|England}}'s foundation.
 
 The Vikings had ceased to be Vikings,
 assimilating to Christian Latin civilization.
-But they had shaped the map of Europe permanently,
-from Russia to England to Sicily's nation.
+But they had shaped the map of {{p|Europe}} permanently,
+from {{p|Russia}} to {{p|England}} to {{p|Sicily}}'s nation.
 
 
 # Chapter 200: Ireland and Brian Boru
@@ -41690,84 +41690,84 @@ the history of the Christian West.
 Converted by Saint Patrick in the fifth century,
 it became a center of monastic learning blessed.
 
-While the rest of Western Europe was being
-overrun by barbarian invasions, Ireland was safe,
-an island beyond the reach of Rome's fall,
+While the rest of {{p|Western Europe}} was being
+overrun by barbarian invasions, {{p|Ireland}} was safe,
+an island beyond the reach of {{p|Rome}}'s fall,
 where classical learning found a haven safe.
 
-Irish monks preserved Greek and Latin manuscripts
+Irish monks preserved {{x|Greek}} and {{x|Latin}} manuscripts
 that would otherwise have been lost.
-Columba founded {{p|Iona}} in Scotland in 563.
+Columba founded {{p|Iona}} in {{p|Scotland}} in 563.
 Columbanus founded monasteries across the continent's frost.
 
-Aidan of Lindisfarne evangelized northern England.
+Aidan of {{p|Lindisfarne}} evangelized northern {{p|England}}.
 The Book of Kells, the most beautiful illuminated manuscript
-in the world, was produced in Iona or Kells around 800,
+in the world, was produced in {{p|Iona}} or {{p|Kells}} around 800,
 a masterpiece of interlaced Celtic art, intricate.
 
-Ireland was politically divided into
+{{p|Ireland}} was politically divided into
 numerous small kingdoms (tuath), with
 overkings (ri ruirech) and finally the High King
-(Ard Rí) at {{p|Tara}}, a ceremonial central kinship.
+({{x|Ard Rí}}) at {{p|Tara}}, a ceremonial central kinship.
 
-The Viking raids began devastating Ireland
-in 795. The monastery of Iona was sacked repeatedly.
-The Vikings founded trading towns — Dublin, Waterford,
-Cork, Limerick, Wexford — which Ireland had not previously.
+The Viking raids began devastating {{p|Ireland}}
+in 795. The monastery of {{p|Iona}} was sacked repeatedly.
+The Vikings founded trading towns — {{p|Dublin}}, {{p|Waterford}},
+{{p|Cork}}, {{p|Limerick}}, {{p|Wexford}} — which {{p|Ireland}} had not previously.
 
-(Pre-Viking Ireland had no towns. It was a rural,
+(Pre-Viking {{p|Ireland}} had no towns. It was a rural,
 tribal, monastic society. The Vikings introduced
 urban life. Those original Norse-Irish towns
-remained the major cities of Ireland, preserved, produced.)
+remained the major cities of {{p|Ireland}}, preserved, produced.)
 
 Brian Boru (c. 941-1014) rose from
 the {{p|Dál gCais}} of {{p|Munster}} to become High King
-of Ireland in 1002, the first to actually
+of {{p|Ireland}} in 1002, the first to actually
 unite the island under his ruling wing.
 
 He defeated the Vikings and the allied
-Leinster kings at the Battle of Clontarf on
-Good Friday 1014. The battle broke the Norse
-power in Ireland, though it was won-
+{{p|Leinster}} kings at the Battle of Clontarf on
+{{x|Good Friday}} 1014. The battle broke the Norse
+power in {{p|Ireland}}, though it was won-
 
 but at the cost of Brian Boru's own life.
 He was killed in his tent as the battle ended,
 by fleeing Vikings who stumbled upon him at prayer.
 His dynasty would not survive as he had intended.
 
-After Brian Boru, Ireland returned to
+After Brian Boru, {{p|Ireland}} returned to
 disunity and warfare between provincial kings.
 In 1169, the Normans invaded at the invitation
-of the deposed king of Leinster, with rings
+of the deposed king of {{p|Leinster}}, with rings
 
 of mail and plate. The Anglo-Norman invasion
 would begin eight centuries of English involvement
-in Ireland, which would not end until 1922
+in {{p|Ireland}}, which would not end until 1922
 (and is not yet fully ended with Northern Irish movement).
 
 But the cultural and religious legacy of
-Celtic Christianity remained distinctive.
+Celtic {{x|Christianity}} remained distinctive.
 The Irish monks had kept alive learning
-during the Dark Ages, a unique incentive.
+during the {{x|Dark Ages}}, a unique incentive.
 
 John Scotus Eriugena (815-877), an Irish scholar
 at the court of Charles the Bald, was the most
-sophisticated philosopher of the Carolingian Renaissance,
-working in Greek as well as Latin, a rare ghost.
+sophisticated philosopher of the {{x|Carolingian Renaissance}},
+working in {{x|Greek}} as well as {{x|Latin}}, a rare ghost.
 
-He translated Pseudo-Dionysius the Areopagite from Greek,
-bringing Neoplatonism into Latin Christianity.
-He wrote the Periphyseon, a vast Neoplatonic synthesis,
+He translated Pseudo-Dionysius the Areopagite from {{x|Greek}},
+bringing {{x|Neoplatonism}} into {{x|Latin}} {{x|Christianity}}.
+He wrote the {{x|Periphyseon}}, a vast Neoplatonic synthesis,
 which was condemned centuries later for pantheism and vanity.
 
 The legacy of Celtic art — the interlaced knotwork,
 the illuminated manuscripts, the high crosses —
-remained distinctive. Ireland preserved a connection
+remained distinctive. {{p|Ireland}} preserved a connection
 to the pre-Roman Celtic world through lossess.
 
-Old Irish literature preserved some of the oldest
-vernacular literature in Western Europe after Greek and Latin.
-The Táin Bó Cúailnge, the Cattle Raid of Cooley,
+{{x|Old Irish}} literature preserved some of the oldest
+vernacular literature in {{p|Western Europe}} after {{x|Greek}} and {{x|Latin}}.
+The Táin Bó Cúailnge, the {{x|Cattle Raid of Cooley}},
 the epic of Cú Chulainn, had pagan matin.
 
 Cú Chulainn was the Irish warrior hero,
@@ -41780,9 +41780,9 @@ shape-shifting in battle, impossible feats,
 and death tied to a geis (taboo) violation.
 The Indo-European pattern recurs on these beats.
 
-Queen Medb of Connacht, whose name means "the intoxicating,"
+Queen Medb of {{p|Connacht}}, whose name means "the intoxicating,"
 is the war goddess euhemerized, corresponds
-to Maeve in modern Irish, to Maenads in Greek,
+to Maeve in modern Irish, to Maenads in {{x|Greek}},
 the female warrior-sovereignty of Indo-European bonds.
 
 The Irish preserved Indo-European mythological
@@ -41792,10 +41792,10 @@ and the relatively gentle conversion's traces.
 
 (Saint Patrick did not burn temples or martyrs.
 He preached, he converted chiefs, the tribes followed.
-Irish Christianity absorbed rather than destroyed
+Irish {{x|Christianity}} absorbed rather than destroyed
 the old pagan elements, not hollowed.)
 
-The deflationary polytheist sees Ireland
+The deflationary polytheist sees {{p|Ireland}}
 as a kind of time capsule where Indo-European
 mythology survived in Christian clothing,
 visible in the folk traditions, superheroic accrue.
@@ -41805,12 +41805,12 @@ visible in the folk traditions, superheroic accrue.
 
 After the Gupta Empire fell in the sixth century,
 {{p|India}} fragmented into regional kingdoms.
-Unlike China, which would keep reunifying,
-India would not have a single imperial kingdom
+Unlike {{p|China}}, which would keep reunifying,
+{{p|India}} would not have a single imperial kingdom
 
 until the Delhi Sultanate, and then
-not fully until the Mughals and the British Raj.
-For the early medieval period, India was
+not fully until the Mughals and the {{x|British Raj}}.
+For the early medieval period, {{p|India}} was
 a mosaic of competing regional marge.
 
 But this political fragmentation did not
@@ -41820,27 +41820,27 @@ regional languages, temples, and theological opposite.
 
 Shankara (c. 788-820) was the great
 philosopher of Advaita Vedanta,
-non-dualism, the teaching that Brahman
-and Atman are one, all else is maya-granta.
+non-dualism, the teaching that {{x|Brahman}}
+and {{x|Atman}} are one, all else is maya-granta.
 
 His commentaries on the Upanishads, the
 Bhagavad Gita, and the Brahma Sutras
-became the orthodox Vedanta interpretation.
-He debated Buddhists across India for the new laws.
+became the orthodox {{x|Vedanta}} interpretation.
+He debated Buddhists across {{p|India}} for the new laws.
 
-He is credited with reviving Hinduism against
-the dominance of Buddhism. Whether this is
-strictly accurate, or whether Buddhism declined
+He is credited with reviving {{x|Hinduism}} against
+the dominance of {{x|Buddhism}}. Whether this is
+strictly accurate, or whether {{x|Buddhism}} declined
 for other reasons, is debated by scholars' quizzes.
 
-But Buddhism did decline in India in this period.
+But {{x|Buddhism}} did decline in {{p|India}} in this period.
 By the eleventh century it was marginal.
 The great monastery of {{p|Nalanda}} would be
 destroyed by Turkic invaders in 1193, final.
 
-The knowledge in Nalanda's libraries was lost.
-Some was preserved in Tibet, where Buddhism
-had been established. Some in China and Southeast Asia.
+The knowledge in {{p|Nalanda}}'s libraries was lost.
+Some was preserved in {{p|Tibet}}, where {{x|Buddhism}}
+had been established. Some in {{p|China}} and {{p|Southeast Asia}}.
 But the Indian Buddhist tradition became antiquarianism.
 
 Meanwhile, Hindu devotional movements (bhakti)
@@ -41874,61 +41874,61 @@ artistic achievements of medieval art,
 preserved in museums and temples the world over freight.
 
 In the north, the Pala Empire of {{p|Bengal}}
-patronized Buddhism and the remaining monastic universities.
-They also spread Tantric Buddhism (Vajrayana)
-to Tibet, where it flourished in diversity.
+patronized {{x|Buddhism}} and the remaining monastic universities.
+They also spread Tantric {{x|Buddhism}} ({{x|Vajrayana}})
+to {{p|Tibet}}, where it flourished in diversity.
 
-The Rashtrakutas of the Deccan,
+The Rashtrakutas of the {{p|Deccan}},
 the Pratiharas of {{p|Kanauj}},
-the Palas of Bengal,
-were the three powers contesting northern India's usufruct.
+the Palas of {{p|Bengal}},
+were the three powers contesting northern {{p|India}}'s usufruct.
 
-This Tripartite Struggle exhausted all three,
-leaving northern India vulnerable when
+This {{x|Tripartite Struggle}} exhausted all three,
+leaving northern {{p|India}} vulnerable when
 the Ghaznavids and then the Ghurids struck
 from the Afghan highlands into Hindu lands then.
 
-Mahmud of Ghazni made seventeen raids into India
+Mahmud of Ghazni made seventeen raids into {{p|India}}
 between 1000 and 1027, looting temples,
 destroying {{p|Somnath}} in 1025 for its gold,
 carrying away wealth in enormous cartons of marples.
 
 Muhammad of Ghor conquered more permanently
 in the 1190s, defeating the Rajput prince
-Prithviraj Chauhan at the Second Battle of Tarain.
+Prithviraj Chauhan at the {{x|Second Battle of Tarain}}.
 His successors founded the Delhi Sultanate, whence
 
-Muslim rule in northern India began,
+Muslim rule in northern {{p|India}} began,
 which would last in some form until 1857,
 six and a half centuries of Islamic rule
 overlying the Hindu majority, never quite kevin.
 
 The cultural synthesis of Indo-Islamic civilization
-— Urdu language, Mughal architecture, Sufi poetry,
+— {{x|Urdu}} language, Mughal architecture, Sufi poetry,
 courtly Persian aesthetics — was yet to develop.
 For now, the conquest was violent, memory laboratory.
 
 The Khilji Dynasty under Alauddin Khilji would
-extend Delhi Sultanate rule south to the Deccan.
-Tughlaq Dynasty would briefly control almost all India.
+extend Delhi Sultanate rule south to the {{p|Deccan}}.
+Tughlaq Dynasty would briefly control almost all {{p|India}}.
 Muhammad bin Tughlaq's eccentric experiments had a beacon
 
-of moving the capital to the Deccan, issuing
-copper coinage, invading Central Asia, all failed.
+of moving the capital to the {{p|Deccan}}, issuing
+copper coinage, invading {{p|Central Asia}}, all failed.
 The Delhi Sultanate declined. Regional sultanates emerged:
-Bengal, Deccan, Gujarat, Jaunpur, Malwa trailed.
+{{p|Bengal}}, {{p|Deccan}}, {{p|Gujarat}}, {{p|Jaunpur}}, {{p|Malwa}} trailed.
 
-Then Timur sacked Delhi in 1398,
+Then Timur sacked {{p|Delhi}} in 1398,
 slaughtering the inhabitants, carrying elephants back
-to Samarkand. The Delhi Sultanate was finished
+to {{p|Samarkand}}. The Delhi Sultanate was finished
 as a unifying power. The field was open for the new tack.
 
 The Vijayanagara Empire in the south (1336-1646)
 would be the last great Hindu empire, preserving
-temples, language, literature in Telugu and Kannada,
-until the Deccan sultanates defeated them at {{p|Talikota}}, serving.
+temples, language, literature in {{x|Telugu}} and {{x|Kannada}},
+until the {{p|Deccan}} sultanates defeated them at {{p|Talikota}}, serving.
 
-Until that fall, Vijayanagara was a magnificent
+Until that fall, {{p|Vijayanagara}} was a magnificent
 capital, visited by Portuguese travelers who
 reported its wealth and beauty rivaled any city
 in the world they had seen. Now ruins, the abstract of past due.
@@ -41936,9 +41936,9 @@ in the world they had seen. Now ruins, the abstract of past due.
 
 # Chapter 202: The Crusades
 
-In 1095, Pope Urban II at the Council of Clermont
+In 1095, Pope Urban II at the {{x|Council of Clermont}}
 called on the knights of {{p|Europe}} to march east
-to aid the Byzantine Empire and recover
+to aid the {{p|Byzantine Empire}} and recover
 {{p|Jerusalem}} from the Muslims, the Christian feast.
 
 "Deus vult!" — "God wills it!" — the crowd cried.
@@ -41947,8 +41947,8 @@ remission of sins for those who died on the expedition.
 This was the birth of the plenary indulgence, promised.
 
 The Byzantines had asked for mercenary help
-after their defeat at Manzikert in 1071 had
-lost much of Anatolia to the Seljuk Turks.
+after their defeat at {{x|Manzikert}} in 1071 had
+lost much of {{p|Anatolia}} to the Seljuk Turks.
 They did not expect an army of European unbad
 
 knights and peasants marching overland
@@ -41957,19 +41957,19 @@ which is what they got. Emperor Alexios I Komnenos
 managed the crusaders carefully, anticipating whitening.
 
 He extracted oaths of loyalty that the crusaders
-would return conquered territory to Byzantium.
+would return conquered territory to {{p|Byzantium}}.
 Most crusaders ignored those oaths after taking {{p|Antioch}}
 and {{p|Jerusalem}}, establishing their own crusader states, stymied.
 
 The First Crusade actually succeeded, miraculously.
-Jerusalem fell in 1099 after a brutal siege.
+{{p|Jerusalem}} fell in 1099 after a brutal siege.
 The crusaders massacred the city's inhabitants,
 Muslims, Jews, even Eastern Christians, the wedge.
 
-The Crusader States were established: the Kingdom of Jerusalem,
-the Principality of Antioch, the County of Tripoli,
-the County of Edessa. They lasted about two centuries
-on the margins of the Middle East, culturally polys.
+The Crusader States were established: the {{p|Kingdom of Jerusalem}},
+the {{p|Principality of Antioch}}, the {{p|County of Tripoli}},
+the {{p|County of Edessa}}. They lasted about two centuries
+on the margins of the {{p|Middle East}}, culturally polys.
 
 At the far edge of the same war, in {{p|Georgia}},
 David the Builder faced the Seljuks with too few men,
@@ -41978,7 +41978,7 @@ and in 1118 forty thousand Cuman families came down to fight for him then.
 
 At {{p|Didgori}} in 1121 they broke the Seljuk host,
 and {{p|Tbilisi}} was Georgian again the year after.
-The steppe and the Caucasus were married to each other,
+The steppe and the {{p|Caucasus}} were married to each other,
 and it was not the first time. Hear an older chapter:
 
 A hundred years before, Mariam of {{p|Vaspurakan}},
@@ -42002,68 +42002,68 @@ They fought for one city. Meanwhile the old blood
 walked north on its own road and the families grew.
 
 The Second Crusade (1147-1150) was launched
-after the fall of Edessa. It was a disaster.
-Louis VII of France and Conrad III of Germany
+after the fall of {{p|Edessa}}. It was a disaster.
+Louis VII of {{p|France}} and Conrad III of {{p|Germany}}
 accomplished essentially nothing, a waste of raster.
 
 The Third Crusade (1189-1192) was launched
-after Saladin's recapture of Jerusalem in 1187.
-Richard the Lionheart of England, Philip II of France,
-Frederick Barbarossa of Germany led the reckoning given.
+after Saladin's recapture of {{p|Jerusalem}} in 1187.
+Richard the Lionheart of {{p|England}}, Philip II of {{p|France}},
+Frederick Barbarossa of {{p|Germany}} led the reckoning given.
 
-Barbarossa drowned in a river in Anatolia.
+Barbarossa drowned in a river in {{p|Anatolia}}.
 Philip returned home early after quarreling with Richard.
 Richard and Saladin fought to a stalemate,
 agreeing to a truce that allowed Christian pilgrim traffic.
 
-Richard did not take Jerusalem. Saladin did
+Richard did not take {{p|Jerusalem}}. Saladin did
 not expel the Christians. The balance held
-with Jerusalem in Muslim hands but Christians
+with {{p|Jerusalem}} in Muslim hands but Christians
 allowed to visit. Both leaders were chivalrously held.
 
 Saladin (Salah ad-Din) was a {{p|Kurdish}}
-general who had risen to rule Egypt, then Syria,
+general who had risen to rule {{p|Egypt}}, then {{p|Syria}},
 unifying the Muslim response to the crusaders.
-His reputation for chivalry spread to Europe's myria.
+His reputation for chivalry spread to {{p|Europe}}'s myria.
 
 The Fourth Crusade (1202-1204) never even
-reached the Holy Land. Diverted by Venetian bankers
+reached the {{p|Holy Land}}. Diverted by Venetian bankers
 to whom the crusaders owed money, they
-sacked Constantinople instead, Christian brethren hampers.
+sacked {{p|Constantinople}} instead, Christian brethren hampers.
 
 The city was looted for three days. Relics
 were carried off to Western churches. A Latin Empire
-was established in Constantinople for sixty years
+was established in {{p|Constantinople}} for sixty years
 until the Byzantines reclaimed it, though the empire-
 
-was permanently weakened. Constantinople
+was permanently weakened. {{p|Constantinople}}
 would never fully recover from the Fourth Crusade.
 It is one of the great betrayals of history,
 Christians sacking the greatest Christian city unhade.
 
 The Eastern Orthodox would never forgive.
-The Great Schism of 1054 between
-Catholic and Orthodox Christianity
+The {{x|Great Schism}} of 1054 between
+Catholic and Orthodox {{x|Christianity}}
 became essentially permanent after this scene.
 
 Subsequent crusades became increasingly desperate.
-The Children's Crusade of 1212 ended with
+The {{x|Children's Crusade}} of 1212 ended with
 the children sold into slavery or lost at sea.
-The Fifth Crusade attacked Egypt, failed pithy.
+The {{x|Fifth Crusade}} attacked {{p|Egypt}}, failed pithy.
 
-The Sixth Crusade of Frederick II, excommunicated
+The {{x|Sixth Crusade}} of Frederick II, excommunicated
 but proceeding anyway, actually negotiated
-the return of Jerusalem in 1229 without battle.
-Jerusalem was lost again in 1244, never regained acquainted.
+the return of {{p|Jerusalem}} in 1229 without battle.
+{{p|Jerusalem}} was lost again in 1244, never regained acquainted.
 
 Saint Louis (Louis IX of France) led the Seventh
-Crusade to Egypt in 1248, was captured and ransomed.
-Led the Eighth Crusade to Tunis in 1270,
+Crusade to {{p|Egypt}} in 1248, was captured and ransomed.
+Led the {{x|Eighth Crusade}} to {{p|Tunis}} in 1270,
 died of dysentery there. His body was fractioned.
 
 The last crusader stronghold {{p|Acre}} fell in 1291.
 The crusader states were finished. The project
-of recovering the Holy Land by European military force
+of recovering the {{p|Holy Land}} by European military force
 had failed completely, except as cultural object.
 
 The crusades had side effects, however.
@@ -42074,7 +42074,7 @@ technology, luxury goods, new cultural interior.
 Italian city-states like {{p|Venice}} and {{p|Genoa}}
 grew rich from crusader transport contracts.
 The money economy expanded. Banking developed.
-The foundations of the Renaissance were thus extracted.
+The foundations of the {{x|Renaissance}} were thus extracted.
 
 The Military Orders — the Templars, Hospitallers, Teutonic Knights —
 were founded to protect pilgrims, fight infidels,
@@ -42084,10 +42084,10 @@ The Templars would be destroyed in 1307 on heresy drills.
 The deflationary polytheist sees the crusades
 as a failed attempt to project European power
 into a more sophisticated civilization,
-which exposed Europe to what was superior in the hour.
+which exposed {{p|Europe}} to what was superior in the hour.
 
-Europe would digest that exposure over centuries,
-and the Renaissance that emerged in the fourteenth century
+{{p|Europe}} would digest that exposure over centuries,
+and the {{x|Renaissance}} that emerged in the fourteenth century
 was partly a product of what the crusades had brought back:
 Greek texts via Islamic transmission, entering the inventory.
 
@@ -42125,8 +42125,8 @@ is one of the most astonishing military feats
 in world history — the conquest of three continents' text.
 
 He invaded Western Xia (Tangut) in 1209, subjugated them.
-He invaded the Jin Dynasty (Jurchen China) in 1211,
-taking Beijing in 1215, reducing North China to ruins.
+He invaded the Jin Dynasty (Jurchen {{p|China}}) in 1211,
+taking {{p|Beijing}} in 1215, reducing {{p|North China}} to ruins.
 He invaded the Khwarazmian Empire in 1219, the Muslim pavilion.
 
 This last was allegedly in response to a Khwarazmian
@@ -42135,9 +42135,9 @@ Genghis Khan was methodical and brutal in response.
 Cities that resisted were annihilated, the inhabitants slaughtered in sargeants.
 
 {{p|Samarkand}}, {{p|Bukhara}}, {{p|Merv}}, {{p|Nishapur}}, {{p|Herat}} —
-the great cities of Central Asia and Persia —
+the great cities of {{p|Central Asia}} and {{p|Persia}} —
 were reduced to rubble. Populations were massacred.
-The irrigation systems of Central Asia were destroyed wholesia.
+The irrigation systems of {{p|Central Asia}} were destroyed wholesia.
 
 Some regions never recovered. {{p|Khorasan}} had
 been the breadbasket of the Islamic world.
@@ -42151,85 +42151,85 @@ everyone who witnessed the burial, return to the womb.
 
 He left his empire to his sons. Ogedei
 became Great Khan. Jochi's descendants got
-the western steppes. Chagatai got Central Asia.
+the western steppes. Chagatai got {{p|Central Asia}}.
 Tolui got the Mongol homeland, no dot.
 
 Under Ogedei, the Mongol expansion continued.
-The remainder of Jin China was conquered in 1234.
+The remainder of {{x|Jin}} {{p|China}} was conquered in 1234.
 The Kipchak steppe was conquered under Batu Khan
-in the 1230s. Russia was next on the door.
+in the 1230s. {{p|Russia}} was next on the door.
 
 {{p|Kiev}} fell in 1240. Most of the Russian
 principalities were sacked and made tributaries,
-the "Tatar Yoke" that would last two centuries.
+the "{{x|Tatar Yoke}}" that would last two centuries.
 {{p|Moscow}}, a small town then, became notaries
 
 of the Mongol tax-collection system, which
-would eventually give Moscow the resources to rise.
+would eventually give {{p|Moscow}} the resources to rise.
 Russian history cannot be understood without
 the Mongol period, which shaped its administrative prize.
 
 Batu's army continued west, invading {{p|Poland}}
 and {{p|Hungary}} in 1241. They destroyed Polish-German
 knightly armies at {{p|Legnica}}. They destroyed Hungarian
-armies at {{p|Mohi}}. Central Europe was about to stem
+armies at {{p|Mohi}}. {{p|Central Europe}} was about to stem
 
-total Mongol conquest, but Ogedei died in Mongolia,
+total Mongol conquest, but Ogedei died in {{p|Mongolia}},
 and Batu returned east to attend the succession.
-Europe was saved by the contingency of
+{{p|Europe}} was saved by the contingency of
 a Great Khan's death, an accidental concession.
 
-The Mongol Empire was the largest contiguous
-land empire in history, stretching from Korea
-to Hungary, from Siberia to Vietnam.
-It connected Eurasia as had never been seen in area.
+The {{p|Mongol Empire}} was the largest contiguous
+land empire in history, stretching from {{p|Korea}}
+to {{p|Hungary}}, from {{p|Siberia}} to {{p|Vietnam}}.
+It connected {{p|Eurasia}} as had never been seen in area.
 
 The Pax Mongolica enabled travel and trade
 across the entire continent safely for the first time.
 Merchants, missionaries, and adventurers could travel
-from Europe to China by land, without great crime.
+from {{p|Europe}} to {{p|China}} by land, without great crime.
 
-Marco Polo's journey from Venice to China in
+Marco Polo's journey from {{p|Venice}} to {{p|China}} in
 the late thirteenth century was possible because
 of the Mongol peace. His account would fire European
 imagination about the riches of the East, such boas.
 
-The Silk Road reached its peak. Chinese technology —
+The {{p|Silk Road}} reached its peak. Chinese technology —
 printing, gunpowder, the compass, paper money —
 began to transmit westward systematically,
 preparing the ground for European modernity.
 
 The Mongols themselves were religiously tolerant,
 possibly because they had no strong religion of their own.
-Nestorian Christianity was the faith of many Mongol
-noblewomen. Tibetan Buddhism attracted some Mongol men.
+{{x|Nestorian Christianity}} was the faith of many Mongol
+noblewomen. Tibetan {{x|Buddhism}} attracted some Mongol men.
 
-Islam would eventually convert most of the western
+{{x|Islam}} would eventually convert most of the western
 Mongol realms — the Ilkhanate and the Golden Horde.
 The eastern Mongol realms would absorb Chinese culture
 as the Yuan Dynasty of Kublai Khan, imperial lord.
 
 But that is the next chapter. For now, mark
-the hinge: one man, from obscurity in Mongolia,
+the hinge: one man, from obscurity in {{p|Mongolia}},
 unified his tribe and launched a conquest that
-reshaped the world, from Hungary to Cambodia.
+reshaped the world, from {{p|Hungary}} to {{p|Cambodia}}.
 
 
 # Chapter 204: The Mongols in China
 
 Kublai Khan, grandson of Genghis, completed
-the conquest of China. He defeated the Southern
+the conquest of {{p|China}}. He defeated the Southern
 Song Dynasty, which had held out for decades
 behind the {{p|Yangtze River}} and mountain curtain.
 
 The final battle was at sea — the Battle of Yamen
-in 1279. The loyalist Song fleet was destroyed.
-The last boy emperor of Song was carried
+in 1279. The loyalist {{x|Song}} fleet was destroyed.
+The last boy emperor of {{x|Song}} was carried
 by a loyal minister, who leapt with him into the void.
 
-With the emperor's death, the Song was finished.
+With the emperor's death, the {{x|Song}} was finished.
 Kublai established the Yuan Dynasty (1271-1368),
-the first foreign dynasty to rule all of China.
+the first foreign dynasty to rule all of {{p|China}}.
 His capital was {{p|Khanbaliq}}, "City of the Khan," patented
 
 on the site of modern {{p|Beijing}}. He adopted
@@ -42242,12 +42242,12 @@ This ethnic stratification was resented and
 contributed to the dynasty's instability.
 Marco Polo served Kublai in his land.
 
-Polo's account of Khanbaliq's splendor,
+Polo's account of {{p|Khanbaliq}}'s splendor,
 the paper money, the coal burning for fuel,
 the postal relay system, the canals and roads,
 astonished European readers when finally full.
 
-(Whether Polo actually reached China, or whether
+(Whether Polo actually reached {{p|China}}, or whether
 his book is a composite of Persian sources, is debated.
 But the information it contained was mostly accurate,
 and fueled European interest in the East, newly inflated.)
@@ -42262,59 +42262,59 @@ The Mongol fleet was caught in harbor and shattered.
 Four thousand ships and over 100,000 men were lost.
 The kamikaze belief entered Japanese culture, mattered.)
 
-The Yuan also attempted to invade {{p|Vietnam}} and {{p|Java}}
+The {{x|Yuan}} also attempted to invade {{p|Vietnam}} and {{p|Java}}
 with similar lack of success. The Mongol military
 machine, built for steppe warfare, was less effective
 against tropical jungle and sea-based military.
 
 The Yuan Dynasty declined in the fourteenth century
-due to plague, flooding of the Yellow River,
+due to plague, flooding of the {{p|Yellow River}},
 economic collapse from overprinting paper money,
 and the factional disputes between Mongol nobles whither.
 
 The Red Turban Rebellion erupted in 1351.
 The peasant leader Zhu Yuanzhang emerged as
-the dominant rebel commander, took Nanjing in 1356,
-took Khanbaliq (renamed {{p|Beiping}}) in 1368, was
+the dominant rebel commander, took {{p|Nanjing}} in 1356,
+took {{p|Khanbaliq}} (renamed {{p|Beiping}}) in 1368, was
 
 proclaimed the Hongwu Emperor, founder of the
 Ming Dynasty. The Mongols were expelled back
 to the steppes. Native Chinese rule was restored.
-The Yuan had lasted less than a century, off the track.
+The {{x|Yuan}} had lasted less than a century, off the track.
 
 Meanwhile, in the western Mongol realms:
-the Ilkhanate ruled Persia and {{p|Iraq}}.
+the Ilkhanate ruled {{p|Persia}} and {{p|Iraq}}.
 Hulagu Khan, Kublai's brother, had sacked
-{{p|Baghdad}} in 1258, ending the Abbasid Caliphate.
+{{p|Baghdad}} in 1258, ending the {{x|Abbasid Caliphate}}.
 
-The last Abbasid caliph was rolled up in a carpet
+The last {{x|Abbasid}} caliph was rolled up in a carpet
 and trampled to death by horses (by Mongol
 tradition, royal blood should not touch the ground).
-The books of the House of Wisdom were thrown into the Tigris, the role'
+The books of the {{x|House of Wisdom}} were thrown into the {{p|Tigris}}, the role'
 
 of four centuries of Islamic scholarship
-was destroyed. The Tigris ran black with the ink
+was destroyed. The {{p|Tigris}} ran black with the ink
 of uncounted manuscripts. This was the end
-of the classical Islamic Golden Age, a great sink.
+of the classical {{x|Islamic Golden Age}}, a great sink.
 
-Hulagu continued west toward Egypt. The Mamluks
-of Egypt defeated him at Ain Jalut in 1260.
+Hulagu continued west toward {{p|Egypt}}. The Mamluks
+of {{p|Egypt}} defeated him at Ain Jalut in 1260.
 This was the first major defeat of the Mongol army.
-It saved Egypt and the Muslim West from conquest, relieved.
+It saved {{p|Egypt}} and the Muslim West from conquest, relieved.
 
-The Ilkhanate eventually converted to Islam under
+The Ilkhanate eventually converted to {{x|Islam}} under
 Ghazan in 1295. Persian culture absorbed the Mongol overlords.
 Persian literary flourishing continued: Saadi, Rumi,
 Hafez — the great Persian poets working through swords.
 
-The Golden Horde ruled the western steppes and Russia.
-They converted to Islam under Uzbeg Khan in the fourteenth century.
-They ruled Russia indirectly through the princes,
+The Golden Horde ruled the western steppes and {{p|Russia}}.
+They converted to {{x|Islam}} under Uzbeg Khan in the fourteenth century.
+They ruled {{p|Russia}} indirectly through the princes,
 demanding tribute and acknowledgment, religious centuries.
 
-The Chagatai Khanate ruled Central Asia.
+The Chagatai Khanate ruled {{p|Central Asia}}.
 Eventually fragmented and was partly absorbed
-into the Timurid Empire in the late fourteenth century.
+into the {{p|Timurid Empire}} in the late fourteenth century.
 Timur would emerge from its ruins, scorned.
 
 The Mongol conquests changed world history forever.
@@ -42322,68 +42322,68 @@ They killed perhaps forty million people in the course
 of their conquests — a staggering portion of the world
 population at that time, a genocide at source.
 
-But they also connected Eurasia as never before.
+But they also connected {{p|Eurasia}} as never before.
 Technologies transmitted both east and west.
-The Black Death would transmit west along Mongol routes.
+The {{x|Black Death}} would transmit west along Mongol routes.
 The whole world was becoming connected for its test.
 
 
 # Chapter 205: The Mongols in the Middle East
 
-Hulagu Khan's campaign through the Middle East
+Hulagu Khan's campaign through the {{p|Middle East}}
 was one of the most destructive military events
 in human history. {{p|Persia}} had been devastated by
 his grandfather; now the western Islamic world spent.
 
 Hulagu was tasked by his brother Möngke Khan,
 then Great Khan, with finishing the job of subjugating
-the Middle East. He marched west with an army of
+the {{p|Middle East}}. He marched west with an army of
 150,000 men, meticulously plated.
 
 His first target was the Nizari Ismailis,
-the Assassins of the {{p|Alamut}} fortress in the Elburz mountains.
-They had terrorized the Middle East for a century
+the Assassins of the {{p|Alamut}} fortress in the {{p|Elburz}} mountains.
+They had terrorized the {{p|Middle East}} for a century
 with their targeted political killings and mountain fountains.
 
-The Assassins' master at Alamut surrendered
+The Assassins' master at {{p|Alamut}} surrendered
 in 1256. Hulagu had the fortress razed,
 the library of the Ismaili philosophers destroyed,
 the grand master executed with all his amazed.
 
 (Some Ismaili communities survived. The Nizari Ismailis
 today are led by the Aga Khan, descended from
-the Alamut line. They are a peaceful, philanthropic
+the {{p|Alamut}} line. They are a peaceful, philanthropic
 community now, with followers across the dome.)
 
-After Alamut, Hulagu marched on Baghdad. The
+After {{p|Alamut}}, Hulagu marched on {{p|Baghdad}}. The
 Abbasid Caliph al-Mustasim refused to surrender.
 Hulagu besieged the city in 1258. The walls were breached.
 The city was sacked for a week, without any vendor.
 
 Estimates of the dead range from 200,000 to over a million.
 The canals that irrigated {{p|Mesopotamia}} were destroyed
-or silted up. The breadbasket of the Middle East
+or silted up. The breadbasket of the {{p|Middle East}}
 became a depopulated desert, employed.
 
-The Caliph was killed. With him, the Abbasid line
+The Caliph was killed. With him, the {{x|Abbasid}} line
 that had ruled the Sunni Muslim world for five centuries
-was extinguished. The symbolic leader of Sunni Islam
+was extinguished. The symbolic leader of Sunni {{x|Islam}}
 was gone. An era had ended, with all its centuries.
 
-(A distant Abbasid cousin was later installed as caliph
-by the Mamluks in Cairo, but this was a symbolic office
+(A distant {{x|Abbasid}} cousin was later installed as caliph
+by the Mamluks in {{p|Cairo}}, but this was a symbolic office
 without power. The Ottoman sultans would later claim
-the caliphal title after conquering Egypt — a different office.)
+the caliphal title after conquering {{p|Egypt}} — a different office.)
 
 Hulagu continued west to {{p|Damascus}}, which surrendered
-without resistance. Then he planned to invade Egypt.
+without resistance. Then he planned to invade {{p|Egypt}}.
 But Möngke Khan died in 1259, and Hulagu had to return
 east with most of his army for the succession, complicit.
 
 He left a garrison of about 20,000 men under
-the general Kitbuqa in {{p|Syria}}. The Mamluks of Egypt,
+the general Kitbuqa in {{p|Syria}}. The Mamluks of {{p|Egypt}},
 a slave-soldier dynasty, marched north to confront them.
-At Ain Jalut (Spring of Goliath) in 1260, defeat was dripped.
+At Ain Jalut ({{p|Spring of Goliath}}) in 1260, defeat was dripped.
 
 The Mamluk Sultan Qutuz and his general Baybars
 employed Mongol tactics against the Mongols:
@@ -42391,14 +42391,14 @@ feigned retreat, envelopment, hidden reserves. Kitbuqa
 was killed. The Mongol army was destroyed, battlefield molls.
 
 This was the first major Mongol defeat, the end of
-their westward expansion. Egypt was saved. The Muslim
-heartland of Syria and Egypt remained independent.
+their westward expansion. {{p|Egypt}} was saved. The Muslim
+heartland of {{p|Syria}} and {{p|Egypt}} remained independent.
 The Mamluks would rule for two centuries, a Turkic-Circassian custom.
 
-The Ilkhanate settled into ruling {{p|Persia}} and Iraq.
+The Ilkhanate settled into ruling {{p|Persia}} and {{p|Iraq}}.
 Over generations, the Mongol conquerors absorbed Persian
-culture, converted to Islam. Ghazan Khan in 1295 made
-Islam the state religion, reversing Mongol-Christian contenders.
+culture, converted to {{x|Islam}}. Ghazan Khan in 1295 made
+{{x|Islam}} the state religion, reversing Mongol-Christian contenders.
 
 Under Ilkhanid rule, despite the initial devastation,
 Persian culture eventually revived. Rashid al-Din,
@@ -42416,33 +42416,33 @@ The great Persian historical manuscripts were illustrated
 with scenes that blended Mongol, Chinese, and Persian conditions.
 
 The Ilkhanate declined in the mid-fourteenth century
-due to succession disputes and the Black Death.
+due to succession disputes and the {{x|Black Death}}.
 It fragmented into regional dynasties: the Jalayirids,
 the Muzaffarids, the Sarbadars, each holding its breath.
 
 Out of this fragmentation would emerge Timur (Tamerlane)
 in the late fourteenth century, a Turco-Mongol conqueror
 from {{p|Transoxiana}} who would try to restore the
-Mongol Empire and create his own terror.
+{{p|Mongol Empire}} and create his own terror.
 
-But before Timur, the Black Death came. Plague had
+But before Timur, the {{x|Black Death}} came. Plague had
 been endemic in the Mongolian steppes for centuries.
 The Mongol military connections carried it to the
-Crimean Genoese colony, thence to Europe through agencies.
+Crimean Genoese colony, thence to {{p|Europe}} through agencies.
 
-The pandemic would kill perhaps a third of Europe
+The pandemic would kill perhaps a third of {{p|Europe}}
 in the decade 1347-1351. It would also kill
-large portions of the Islamic world, China, India.
+large portions of the Islamic world, {{p|China}}, {{p|India}}.
 It is the demographic catastrophe of the medieval bill.
 
 The deflationary polytheist sees the Mongol conquest
-of the Middle East as the greatest civilizational setback
-in Islamic history. The Abbasid Baghdad was never replaced.
+of the {{p|Middle East}} as the greatest civilizational setback
+in Islamic history. The {{x|Abbasid}} {{p|Baghdad}} was never replaced.
 Islamic intellectual life moved to the margins, less pack.
 
 {{p|Cairo}} under the Mamluks, {{p|Samarkand}} under Timur,
 {{p|Delhi}} under the Sultans, {{p|Istanbul}} under the future Ottomans —
-these would be the new centers. But Baghdad's
+these would be the new centers. But {{p|Baghdad}}'s
 three-quarters of a millennium of centrality was lost by Mongols.
 
 
@@ -42458,29 +42458,29 @@ then the Russian principalities in frost-bound recedes.
 {{p|Kiev}} in 1240, reduced to rubble
 with only two hundred houses un-cracked.
 
-The "Tatar Yoke" began. For two centuries
+The "{{x|Tatar Yoke}}" began. For two centuries
 the Russian princes would pay tribute,
 travel to the Golden Horde's capital
-at {{p|Sarai}} on the Volga, submit their contribute.
+at {{p|Sarai}} on the {{p|Volga}}, submit their contribute.
 
 {{p|Moscow}}, a minor town among many,
 proved useful as tax-collector for the Horde.
 Its princes accumulated wealth and favor,
 and would eventually rise to become lord.
 
-After Russia, Batu pushed into {{p|Poland}} and {{p|Hungary}}
+After {{p|Russia}}, Batu pushed into {{p|Poland}} and {{p|Hungary}}
 in 1241. At Legnica, a Polish-German
 army was destroyed by Mongol feigned retreat.
 At Mohi, the Hungarian army was stern
 
 defeated, King Béla IV fleeing for his life.
-The Mongols reached the Adriatic Sea.
-{{p|Vienna}} was in the plans. Europe expected
+The Mongols reached the {{p|Adriatic Sea}}.
+{{p|Vienna}} was in the plans. {{p|Europe}} expected
 annihilation — but then reprieve came free.
 
 Great Khan Ögedei died in {{p|Karakorum}} that December.
 Batu had to return east for the succession quarrel.
-He never came back west. Europe was saved
+He never came back west. {{p|Europe}} was saved
 by a drunkard's death in a distant Mongol barrel.
 
 The Mongols had demonstrated that European
@@ -42488,20 +42488,20 @@ knightly armies were not equipped to face
 steppe-warfare tactics. Composite bows, feigned retreat,
 mobile light cavalry, coordinated attack pace.
 
-Europe would learn these lessons slowly.
-Later, in the Hundred Years' War, the English
+{{p|Europe}} would learn these lessons slowly.
+Later, in the {{x|Hundred Years' War}}, the English
 longbow would answer in similar logic.
 Warfare was about to change its language.
 
 The Golden Horde established itself on the
-lower Volga and ruled the western steppes.
-For two and a half centuries, from the Black Sea
-to the Urals, the Horde kept rule of its steps.
+lower {{p|Volga}} and ruled the western steppes.
+For two and a half centuries, from the {{p|Black Sea}}
+to the {{p|Urals}}, the Horde kept rule of its steps.
 
 The Russian princes would eventually unite
-under Moscow to throw off this yoke.
+under {{p|Moscow}} to throw off this yoke.
 That story is chapter 222. For now, mark
-how the eastern horsemen made Europe choke.
+how the eastern horsemen made {{p|Europe}} choke.
 
 
 # Chapter 207: Kamakura Japan and the Kamikaze
@@ -42516,32 +42516,32 @@ in 1232, the first warrior legal code,
 establishing samurai law distinct from
 the court's traditional Chinese-derived mode.
 
-Buddhism in Kamakura Japan exploded
+{{x|Buddhism}} in {{x|Kamakura}} {{p|Japan}} exploded
 into new schools. Hōnen (1133-1212) founded
-Jōdo-shū (Pure Land) — salvation by faith
+Jōdo-shū ({{x|Pure Land}}) — salvation by faith
 in Amida's name, simple, democratic, abounded.
 
 Shinran (1173-1263), Hōnen's disciple,
-founded Jōdo Shinshū (True Pure Land),
+founded Jōdo Shinshū ({{x|True Pure Land}}),
 radicalized — one sincere calling of Amida's name
 suffices, the rest is the divine's hand.
 
 Eisai (1141-1215) brought Rinzai Zen
-from China, with koans and warriors' discipline.
+from {{p|China}}, with koans and warriors' discipline.
 Dōgen (1200-1253) founded Sōtō Zen,
 emphasizing just-sitting meditation.
 
 Nichiren (1222-1282) founded his own school,
 demanding exclusive devotion to the Lotus Sutra,
 denouncing all other schools as heretical,
-predicting doom for Japan, prophetic prodra.
+predicting doom for {{p|Japan}}, prophetic prodra.
 
 He predicted foreign invasion, and he was right.
 Kublai Khan sent demands for Japanese submission.
 When the Hōjō regent refused, the Mongol
 fleet sailed in 1274, armed for decision.
 
-The Mongols landed at {{p|Hakata Bay}} on Kyushu.
+The Mongols landed at {{p|Hakata Bay}} on {{p|Kyushu}}.
 The samurai fought one-on-one duels by tradition.
 The Mongols fought in formations with poisoned arrows
 and gunpowder bombs (tetsuhau) — modern ammunition.
@@ -42552,14 +42552,14 @@ was damaged. They retreated. The samurai
 claimed victory, but knew they had been beaten in the heat.
 
 They spent seven years preparing. They built
-a stone wall along Hakata Bay, twenty kilometers long,
+a stone wall along {{p|Hakata Bay}}, twenty kilometers long,
 two meters high. They trained samurai in group tactics.
-They prayed at shrines and temples, Shinto and Buddhist alike, strong.
+They prayed at shrines and temples, {{x|Shinto}} and Buddhist alike, strong.
 
 In 1281, Kublai sent two fleets: 900 ships
-from Korea, 3,500 from South China, carrying
+from {{p|Korea}}, 3,500 from {{p|South China}}, carrying
 140,000 men in total, the largest amphibious
-operation until D-Day, seven centuries tarrying.
+operation until {{x|D-Day}}, seven centuries tarrying.
 
 The samurai held them off the beach for weeks.
 Then another typhoon struck. The fleet was caught
@@ -42568,12 +42568,12 @@ Perhaps 100,000 men drowned, or couldn't be brought.
 
 The survivors who made shore were slaughtered.
 The Japanese called the typhoon kamikaze,
-"divine wind," sent by the gods to defend Japan.
-Shinto belief in divine protection bore hazy.
+"divine wind," sent by the gods to defend {{p|Japan}}.
+{{x|Shinto}} belief in divine protection bore hazy.
 
-(In World War II, "kamikaze" would be revived
+(In {{x|World War II}}, "kamikaze" would be revived
 for the suicide pilots, invoking the same myth,
-that Japan was divinely protected, and if
+that {{p|Japan}} was divinely protected, and if
 the gods failed to send wind, men would be the shift.)
 
 The Mongol invasions exhausted the Kamakura Shogunate.
@@ -42601,16 +42601,16 @@ among the besiegers. They catapulted bodies as ammunition-y.
 
 The Genoese fled by ship to {{p|Messina}} in {{p|Sicily}}
 in 1347. They carried the plague with them.
-From there, it spread across the Mediterranean,
-then up through Europe, relentless, like the phlegm.
+From there, it spread across the {{p|Mediterranean}},
+then up through {{p|Europe}}, relentless, like the phlegm.
 
 {{p|Marseille}} fell. {{p|Avignon}}, where the papacy
 then resided, was struck — Pope Clement VI
 survived by sitting between two roaring fires
 on his doctor's advice, and the plague did miss.
 
-{{p|Paris}}, {{p|London}}, the Hansa cities, {{p|Norway}},
-Iceland — the plague reached every corner of Europe.
+{{p|Paris}}, {{p|London}}, the {{x|Hansa}} cities, {{p|Norway}},
+{{p|Iceland}} — the plague reached every corner of {{p|Europe}}.
 Perhaps a third of the population died
 in the decade 1347-1351, a holocaust whose scope
 
@@ -42629,7 +42629,7 @@ Giovanni Boccaccio set his Decameron
 among Florentines fleeing the plague to a country villa,
 telling stories while the city died on.
 
-Flagellant movements erupted across Europe,
+Flagellant movements erupted across {{p|Europe}},
 groups of penitents whipping themselves as atonement
 for sins they believed had brought the plague.
 Jewish communities were massacred as scapegoats, bent
@@ -42649,9 +42649,9 @@ The Islamic world was struck equally hard.
 "civilization had decreased" from the plague's destruction.
 The Mamluk Sultanate never fully recovered after that.
 
-China was probably struck even earlier.
+{{p|China}} was probably struck even earlier.
 The Yuan Dynasty's decline accelerated
-as plague, famine, and flooding of the Yellow River
+as plague, famine, and flooding of the {{p|Yellow River}}
 all compounded. The Mongol regime's pretend-ated.
 
 The long-term consequences were enormous.
@@ -42659,7 +42659,7 @@ Labor became scarce. Wages rose.
 The feudal system came under pressure.
 Serfs could demand better terms from their lords' toes.
 
-The authority of the Church was undermined
+The authority of the {{x|Church}} was undermined
 by its inability to prevent or explain the disaster.
 This contributed, a century later, to receptivity
 to the Protestant Reformation's pastor.
@@ -42669,26 +42669,26 @@ development of printing — labor-saving technology.
 The scarcity of labor in general encouraged
 technological innovation and demographic methodology.
 
-Europe emerged from the plague changed permanently.
+{{p|Europe}} emerged from the plague changed permanently.
 The medieval certainties were shaken.
-The Renaissance was partly enabled by
+The {{x|Renaissance}} was partly enabled by
 what the plague had shaken up, forsaken.
 
 The plague would return periodically until
-the late seventeenth century — the Great Plague
-of London in 1665 was one of the last major outbreaks.
+the late seventeenth century — the {{x|Great Plague}}
+of {{p|London}} in 1665 was one of the last major outbreaks.
 But the 1348 pandemic remained the archetype, the vague.
 
 
 # Chapter 209: The Kenmu Restoration
 
-In 1333, Emperor Go-Daigo of Japan
+In 1333, Emperor Go-Daigo of {{p|Japan}}
 led a revolt against the Kamakura Shogunate.
 With the help of disaffected samurai —
 notably Ashikaga Takauji and Kusunoki Masashige, state
 
 turned against state. The Hōjō regents fell.
-Kamakura was captured. The shogunate ended
+{{x|Kamakura}} was captured. The shogunate ended
 after a century and a half of warrior rule.
 Go-Daigo entered {{p|Kyoto}} in triumph, ascended.
 
@@ -42704,41 +42704,41 @@ from the confiscated Hōjō lands, the dried.
 
 Ashikaga Takauji, who had betrayed the Hōjō,
 betrayed Go-Daigo next. In 1336, he took
-Kyoto, installed a rival emperor from the junior
+{{p|Kyoto}}, installed a rival emperor from the junior
 line of the imperial family, his chosen hook.
 
 Go-Daigo fled to {{p|Yoshino}} in the mountains south
-of Kyoto and continued to claim legitimacy there.
-For nearly sixty years, Japan had two imperial courts,
-the Northern (Kyoto, Ashikaga's) and Southern (Yoshino), air.
+of {{p|Kyoto}} and continued to claim legitimacy there.
+For nearly sixty years, {{p|Japan}} had two imperial courts,
+the Northern ({{p|Kyoto}}, Ashikaga's) and Southern ({{p|Yoshino}}), air.
 
 This is called the Nanboku-chō period (1336-1392),
-the Northern and Southern Courts. Each claimed to be
+the {{x|Northern and Southern Courts}}. Each claimed to be
 the legitimate continuation of the imperial line.
 Samurai families chose sides based on strategy.
 
 Kusunoki Masashige had been Go-Daigo's most loyal general,
 a military genius who had defeated much larger forces
 through guerrilla tactics. He foresaw defeat at
-the Battle of Minatogawa but went to fight his courses.
+the {{x|Battle of Minatogawa}} but went to fight his courses.
 
 He committed ritual suicide with his brother after the battle,
 having extracted the promise from his son to continue the fight.
 Kusunoki became the emblem of loyal service
 to the emperor against all odds, warrior of light.
 
-(In modern Japan, Kusunoki was revived as the model
-samurai for the Meiji and Showa imperial ideology,
+(In modern {{p|Japan}}, Kusunoki was revived as the model
+samurai for the {{x|Meiji}} and {{x|Showa}} imperial ideology,
 the loyal servant who dies for the Emperor.
 His statue stands before the imperial palace, mythology.)
 
 Takauji established the Ashikaga Shogunate (1336-1573)
-based in the Muromachi district of Kyoto.
+based in the {{x|Muromachi}} district of {{p|Kyoto}}.
 It was weaker than the Kamakura Shogunate,
 unable to control regional warlords' potento.
 
 The Ashikaga ruled for over two centuries, but
-their real power extended only to central Japan.
+their real power extended only to central {{p|Japan}}.
 The rest was governed by regional warlords (shugo)
 who increasingly ignored the shogun's plan.
 
@@ -42749,18 +42749,18 @@ Sen no Rikyū later, aesthetic of age.
 
 The arts of Noh drama were codified by
 Zeami Motokiyo in the late fourteenth century.
-Ink painting (sumi-e) was imported from Song China.
+Ink painting (sumi-e) was imported from {{x|Song}} {{p|China}}.
 Japanese arts reached sophisticated refinery.
 
-The Kinkaku-ji (Golden Pavilion) was built
+The Kinkaku-ji ({{p|Golden Pavilion}}) was built
 by Ashikaga Yoshimitsu in 1397, covered in gold leaf.
-The Ginkaku-ji (Silver Pavilion) was built
+The Ginkaku-ji ({{p|Silver Pavilion}}) was built
 by Yoshimasa later, more subtle belief.
 
 The Kenmu Restoration had failed, but the model
 of imperial restoration would inspire later movements.
-The Meiji Restoration of 1868 would invoke
-Kenmu as its direct precedent improvements.
+The {{x|Meiji Restoration}} of 1868 would invoke
+{{x|Kenmu}} as its direct precedent improvements.
 
 Go-Daigo would be remembered as the emperor
 who attempted the impossible — to restore
@@ -42771,7 +42771,7 @@ A failed restorer, but a heroic figure lore.
 # Chapter 210: The Ming Rises
 
 In {{p|China}}, the Yuan Dynasty was collapsing.
-Plague, flooding of the Yellow River, famine,
+Plague, flooding of the {{p|Yellow River}}, famine,
 factional disputes among the Mongol princes,
 and hyperinflation from paper money, a mane.
 
@@ -42791,13 +42791,13 @@ He defeated the warlord Chen Youliang at the naval
 Battle of Lake Poyang in 1363, fortune seekers.
 
 In 1368, his armies entered {{p|Khanbaliq}} (renamed {{p|Beiping}}).
-The Yuan emperor fled north to Mongolia.
+The {{x|Yuan}} emperor fled north to {{p|Mongolia}}.
 Zhu Yuanzhang proclaimed himself the Hongwu Emperor,
 founder of the Ming Dynasty, native rule's victoria.
 
 He was one of the only Chinese emperors in history
 to rise from genuine peasant origins. (The other
-major one was Liu Bang, Han founder, a thousand years before.)
+major one was Liu Bang, {{x|Han}} founder, a thousand years before.)
 He ruled with the suspicion of someone who knew brothers
 
 can betray, courts can conspire, and nothing
@@ -42811,14 +42811,14 @@ through direct correspondence with departments.
 The emperor now did everything, generally.
 
 He reinstated the civil service examination with
-heavy Confucian emphasis. He promoted Neo-Confucianism
-as state orthodoxy. He sealed China off from foreign
-trade (the Maritime Prohibition), strict autarky-ism.
+heavy Confucian emphasis. He promoted {{x|Neo-Confucianism}}
+as state orthodoxy. He sealed {{p|China}} off from foreign
+trade (the {{x|Maritime Prohibition}}), strict autarky-ism.
 
 He established the penal code Da Ming Lü.
-He rebuilt the Great Wall in its current form.
+He rebuilt the {{p|Great Wall}} in its current form.
 He redistributed land to peasants who had been
-landless under the Yuan. He was stormy, firm.
+landless under the {{x|Yuan}}. He was stormy, firm.
 
 He died in 1398. His grandson Jianwen became emperor,
 but was overthrown in 1402 by his uncle
@@ -42826,8 +42826,8 @@ Zhu Di, the Prince of Yan, in a civil war.
 Jianwen disappeared in the palace fire, the buckle
 
 of continuity broken. Zhu Di became the Yongle Emperor
-(1402-1424), perhaps the greatest Ming emperor.
-He moved the capital from Nanjing to {{p|Beijing}},
+(1402-1424), perhaps the greatest {{x|Ming}} emperor.
+He moved the capital from {{p|Nanjing}} to {{p|Beijing}},
 rebuilt the Forbidden City, the symbolic emperor.
 
 He commissioned the Yongle Encyclopedia, the
@@ -42840,12 +42840,12 @@ Zheng He — chapter 213's story.
 He built huge fleets and massive shipyards.
 He attempted to conquer {{p|Vietnam}}, in his glory.
 
-After Yongle, the Ming would retreat from maritime
+After Yongle, the {{x|Ming}} would retreat from maritime
 expansion. The treasure voyages would stop. The fleets
-would be burned. China would turn inward again.
-The Ming's early vigor would fade with seasonal sheets.
+would be burned. {{p|China}} would turn inward again.
+The {{x|Ming}}'s early vigor would fade with seasonal sheets.
 
-But the Ming would last until 1644, when
+But the {{x|Ming}} would last until 1644, when
 the Manchus would conquer from the north
 and found the Qing Dynasty. That story is later.
 For now, mark: native Chinese rule was called forth.
@@ -42864,23 +42864,23 @@ and ruled as son-in-law rather than khan.
 He was not a direct descendant of the Mongol line.
 
 He unified the Chagatai Khanate territories in
-Central Asia through the 1370s. Then he launched
+{{p|Central Asia}} through the 1370s. Then he launched
 a series of conquests comparable in scale to Genghis Khan's,
 though never quite as geographically ranched.
 
-He invaded {{p|Persia}} in the 1380s, sacking Isfahan
+He invaded {{p|Persia}} in the 1380s, sacking {{p|Isfahan}}
 where 70,000 civilians were beheaded to build
 towers of skulls that he was famous for constructing.
 This was his signature atrocity, filled.
 
 He defeated the Golden Horde under Tokhtamysh
-in 1395, sacked Sarai the Golden Horde capital,
+in 1395, sacked {{p|Sarai}} the Golden Horde capital,
 destroyed the economic base of the Horde,
-contributing to its decline and Muscovy's rise capital.
+contributing to its decline and {{p|Muscovy}}'s rise capital.
 
 He invaded {{p|India}} in 1398, sacked {{p|Delhi}},
 massacred the population (perhaps 100,000 killed
-in one day), carried elephants back to Samarkand.
+in one day), carried elephants back to {{p|Samarkand}}.
 The Delhi Sultanate was crippled by his skill.
 
 He invaded the Mamluk Sultanate in 1400,
@@ -42896,31 +42896,31 @@ Bayezid died in captivity, a humiliated sultana.
 This Ottoman defeat delayed the fall of {{p|Constantinople}}
 by half a century. If Timur had not intervened,
 Bayezid probably would have taken the city.
-The Byzantine Empire got a fifty-year reprieve.
+The {{p|Byzantine Empire}} got a fifty-year reprieve.
 
-Timur was preparing to invade Ming China
-when he died in 1405 at Otrar on the way.
-He is buried at the Gur-e-Amir in Samarkand,
-which inspired the architecture of the Taj Mahal later, lay.
+Timur was preparing to invade {{x|Ming}} {{p|China}}
+when he died in 1405 at {{p|Otrar}} on the way.
+He is buried at the Gur-e-Amir in {{p|Samarkand}},
+which inspired the architecture of the {{p|Taj Mahal}} later, lay.
 
 His grandson Ulugh Beg (1394-1449) was an astronomer
-who built a great observatory at Samarkand,
+who built a great observatory at {{p|Samarkand}},
 compiled accurate star catalogs before Tycho Brahe,
 and ruled as a scholar-king — until killed by his son's hand.
 
-The Timurid Renaissance at Samarkand and {{p|Herat}}
-was one of the great cultural moments of Central Asia.
+The Timurid Renaissance at {{p|Samarkand}} and {{p|Herat}}
+was one of the great cultural moments of {{p|Central Asia}}.
 Persian miniature painting, poetry, architecture flourished.
-Jami and others wrote great works of Persia.
+Jami and others wrote great works of {{p|Persia}}.
 
-The Timurid Empire fragmented after Timur's death.
+The {{p|Timurid Empire}} fragmented after Timur's death.
 His descendants would continue as regional rulers,
 one of them, Babur, a great-great-grandson of Timur,
-would found the Mughal Empire in India, deceitfuller.
+would found the Mughal Empire in {{p|India}}, deceitfuller.
 
 (Mughal = "Mongol" in Persian. The Mughals claimed
 Timurid descent, and through him, Chingisid descent.
-They were Central Asian Turks ruling India as
+They were Central Asian Turks ruling {{p|India}} as
 Persianate emperors, a layered cultural ascent.)
 
 Timur killed perhaps seventeen million people in
@@ -42930,7 +42930,7 @@ suffered terribly at his hands — a paradox immense.
 
 He built beautiful monuments, patronized poets and scholars.
 He massacred entire cities, built skull-pyramids.
-He is remembered in Central Asia as a hero,
+He is remembered in {{p|Central Asia}} as a hero,
 in his victims' lands as the devil, on skids.
 
 The deflationary polytheist sees Timur as
@@ -42941,10 +42941,10 @@ would dominate, not horse-archer hordes on sea.
 
 # Chapter 212: Lithuania, the Last Pagans
 
-While the rest of Europe had been Christianized
+While the rest of {{p|Europe}} had been Christianized
 for centuries, {{p|Lithuania}} remained pagan
 into the late fourteenth century — the last
-pagan state in Europe, the Baltic stronghold.
+pagan state in {{p|Europe}}, the Baltic stronghold.
 
 The Lithuanians worshipped Perkūnas the thunder god
 (cognate with Thor, Zeus, Indra, Perun),
@@ -42961,20 +42961,20 @@ against the Lithuanians since the thirteenth century,
 officially to convert them, actually to conquer them.
 The Lithuanians fought back with ferocity surgery.
 
-Under Grand Duke Gediminas (r. 1316-1341), Lithuania
+Under Grand Duke Gediminas (r. 1316-1341), {{p|Lithuania}}
 expanded dramatically, absorbing Russian principalities
 weakened by the Mongol yoke. By the 1380s it stretched
-from the Baltic to the Black Sea, the greatest of entities.
+from the Baltic to the {{p|Black Sea}}, the greatest of entities.
 
 Gediminas's tolerant policy allowed Orthodox Christian
 Russians to practice their faith while Lithuanians
-remained pagan. The Grand Duchy was a multi-religious
+remained pagan. The {{p|Grand Duchy}} was a multi-religious
 confederation, an unusual political consortium tanya-ns.
 
 In 1386, Grand Duke Jogaila (Jagiełło in Polish)
-married Queen Jadwiga of Poland, converted to
-Catholicism, and was crowned King of Poland. He committed
-Lithuania to Christianization as part of the deal, too.
+married Queen Jadwiga of {{p|Poland}}, converted to
+{{x|Catholicism}}, and was crowned King of {{p|Poland}}. He committed
+{{p|Lithuania}} to Christianization as part of the deal, too.
 
 The conversion was top-down and partial. The nobility
 converted first. The peasants retained pagan practices
@@ -42988,28 +42988,28 @@ for gods that Hindus would recognize, intact.
 
 The Polish-Lithuanian Union became one of the
 great European powers of the fifteenth-sixteenth centuries.
-At the Battle of Grunwald in 1410, Poland-Lithuania
+At the Battle of Grunwald in 1410, {{p|Poland-Lithuania}}
 defeated the Teutonic Knights decisively, no century-teeth.
 
-The Teutonic Knights never recovered from Grunwald.
+The Teutonic Knights never recovered from {{p|Grunwald}}.
 Their crusading justification was gone — the Lithuanians
 were Christian now. The Order would fade into irrelevance
 over the following century, pagan-hunting orphanians.
 
-The deflationary polytheist notes Lithuania as the
-counterfactual that proves the rule: Christianity spread
+The deflationary polytheist notes {{p|Lithuania}} as the
+counterfactual that proves the rule: {{x|Christianity}} spread
 through political-military pressure, not popular conversion.
 When a state could hold out, paganism could persist widespread.
 
 The Lithuanians have preserved Indo-European linguistic
-features that are older than Sanskrit. The Lithuanian
+features that are older than {{x|Sanskrit}}. The Lithuanian
 language is the most archaic of surviving Indo-European
-languages, closer to Proto-Indo-European than the maritime.
+languages, closer to {{x|Proto-Indo-European}} than the maritime.
 
-"The Book That Was Never Written" — there could have been
-a Baltic equivalent of the Eddas or the Mahabharata,
+"{{x|The Book That Was Never Written}}" — there could have been
+a Baltic equivalent of the {{x|Eddas}} or the {{x|Mahabharata}},
 preserving the Indo-European pantheon in its purest form,
-had Lithuania had a Snorri Sturluson, a sacra-data.
+had {{p|Lithuania}} had a Snorri Sturluson, a sacra-data.
 
 But there was no Lithuanian Snorri. The oral tradition
 survived partially in folklore, but the mythology as
@@ -43017,7 +43017,7 @@ a coherent system was lost. What we can reconstruct
 is fragmentary, compared to the Norse or Greek corpus.
 
 It is one of the great "what ifs" of world literature.
-The last great Indo-European polytheism in Europe,
+The last great Indo-European polytheism in {{p|Europe}},
 undocumented at the moment of its conversion.
 A civilizational voice silenced without a final pope-hat.
 
@@ -43037,14 +43037,14 @@ was renamed Zheng He for his exceptional direction.
 When Zhu Di became emperor in 1402, he commissioned
 Zheng He to lead the treasure voyages — massive
 fleets of exploration, diplomacy, and power projection
-across the Indian Ocean, an unprecedented pelagic.
+across the {{p|Indian Ocean}}, an unprecedented pelagic.
 
 The first voyage (1405-1407) consisted of 317 ships
 and 28,000 men. The flagship treasure ships were
 400 feet long, 160 feet wide — larger than any
 European ship for the next four centuries, superior.
 
-(For comparison, Columbus's Santa Maria in 1492 was
+(For comparison, Columbus's {{x|Santa Maria}} in 1492 was
 about 85 feet long. The scale difference is staggering.
 The Chinese were capable of mass ocean exploration
 when the Europeans were still hugging coasts, laboring.)
@@ -43052,17 +43052,17 @@ when the Europeans were still hugging coasts, laboring.)
 Over seven voyages (1405-1433), Zheng He sailed to
 {{p|Southeast Asia}}, {{p|India}}, {{p|Arabia}}, and the
 east coast of {{p|Africa}} as far south as {{p|Mogadishu}}
-and possibly further to the Cape of Good Hope's vicinia.
+and possibly further to the {{p|Cape of Good Hope}}'s vicinia.
 
-He visited Calicut, Ceylon, Hormuz, Mecca (some of his
-crew performed the hajj while he waited nearby), Aden,
-Mogadishu, Malindi. Foreign ambassadors and exotic animals
-were brought back to China — a giraffe from Africa, identified
+He visited {{p|Calicut}}, {{p|Ceylon}}, {{p|Hormuz}}, {{p|Mecca}} (some of his
+crew performed the hajj while he waited nearby), {{p|Aden}},
+{{p|Mogadishu}}, {{p|Malindi}}. Foreign ambassadors and exotic animals
+were brought back to {{p|China}} — a giraffe from {{p|Africa}}, identified
 
-in Beijing as a qilin, a mythical auspicious beast.
+in {{p|Beijing}} as a qilin, a mythical auspicious beast.
 Its arrival was taken as heavenly approval of Yongle's
 reign. The giraffe was painted and celebrated in the court.
-The voyages asserted Ming China's maritime superior roles.
+The voyages asserted {{x|Ming}} {{p|China}}'s maritime superior roles.
 
 Zheng He fought one minor war — against a pirate
 base in {{p|Sumatra}} — but mostly the voyages were
@@ -43072,42 +43072,42 @@ diplomatic relationships. No conquest was attempted, fair.
 This is striking compared to what European exploration
 would do a century later — immediately conquer and
 colonize what they found. Zheng He could have conquered
-much of the Indian Ocean rim. He chose not to, unplanned.
+much of the {{p|Indian Ocean}} rim. He chose not to, unplanned.
 
 After Yongle died in 1424, the treasure voyages were
 controversial. Conservative Confucian scholars considered
 them wasteful extravagance. After one more voyage under
 Xuande (1431-1433), they were discontinued.
 
-The Ming court turned inward. The fleets were dismantled.
+The {{x|Ming}} court turned inward. The fleets were dismantled.
 Shipyards were closed. Records of the voyages were destroyed
-by conservative bureaucrats. The ocean-going capacity of China
+by conservative bureaucrats. The ocean-going capacity of {{p|China}}
 was allowed to atrophy in the decades that followed, deployed.
 
-By the time Vasco da Gama reached Calicut in 1498,
-China's maritime power was long gone. Portuguese with
+By the time Vasco da Gama reached {{p|Calicut}} in 1498,
+{{p|China}}'s maritime power was long gone. Portuguese with
 their much smaller caravels could establish dominance
 in waters that Zheng He had sailed with giant ships.
 
 Zheng He himself died on the seventh voyage, probably at
-Calicut or on the return journey. His grave is not known.
-Some traditions place his tomb in Nanjing, empty, honorific.
+{{p|Calicut}} or on the return journey. His grave is not known.
+Some traditions place his tomb in {{p|Nanjing}}, empty, honorific.
 The Muslim Chinese eunuch admiral was not shown.
 
-Zheng He has been revived in modern China as a symbol
+Zheng He has been revived in modern {{p|China}} as a symbol
 of peaceful Chinese engagement with the world.
 The Belt and Road Initiative invokes his voyages.
 A sign of ambitions: to return to those maritime old worlds.
 
 The deflationary polytheist sees in the discontinuation
-of the voyages a civilizational choice: China chose
-to turn inward, and thus Europe got the seas.
+of the voyages a civilizational choice: {{p|China}} chose
+to turn inward, and thus {{p|Europe}} got the seas.
 If Yongle's successors had continued, Columbus might be unused.
 
 The treasure voyages are the great "what if" of
 maritime history. Zheng He was doing in 1410
 what Columbus would attempt in 1492, at vastly larger
-scale — but China walked away from its opening, again.
+scale — but {{p|China}} walked away from its opening, again.
 
 
 # Chapter 214: Gutenberg and the Press
@@ -43117,14 +43117,14 @@ Johannes Gutenberg (c. 1400-1468), a goldsmith of
 movable-type printing in the 1440s. It was the most
 consequential media technology invented, ever propelled.
 
-Printing with carved wooden blocks existed in China
-since the Tang dynasty. Movable type was invented
-by Bi Sheng in China around 1040. Korean
+Printing with carved wooden blocks existed in {{p|China}}
+since the {{x|Tang}} dynasty. Movable type was invented
+by Bi Sheng in {{p|China}} around 1040. Korean
 metal movable type existed by the thirteenth century, presented.
 
 But the East Asian writing systems had thousands of characters.
 Movable type was less efficient than carved blocks for them.
-The printing revolution would not happen in Asia
+The printing revolution would not happen in {{p|Asia}}
 until later reforms made it practical for their gem.
 
 Alphabetic writing with only two dozen letters was
@@ -43153,17 +43153,17 @@ than all the hand-copied books produced in the preceding
 thousand years. The "incunabula" period was lore.
 
 The consequences were staggering. Scientific knowledge
-could now propagate rapidly across Europe. Observations
+could now propagate rapidly across {{p|Europe}}. Observations
 made by one scholar could be read by thousands of others
 within months, enabling cumulative discovery, infinitations.
 
 Religious texts became accessible to laypeople. The
 Protestant Reformation a few decades later was directly
-enabled by printing — Martin Luther's 95 Theses
-spread across Germany in two weeks, thoroughly collected.
+enabled by printing — Martin Luther's 95 {{x|Theses}}
+spread across {{p|Germany}} in two weeks, thoroughly collected.
 
 National languages gained prestige through being printed.
-Before printing, Latin had been the universal scholarly
+Before printing, {{x|Latin}} had been the universal scholarly
 language. Print editions in German, French, English,
 Spanish, Italian cemented these as literary languages, owned.
 
@@ -43185,38 +43185,38 @@ for war were printed. The dark side of printing, imprinted.
 But overall, the printing press is considered by many
 historians to be the most important invention of the
 second millennium. It reshaped European society, enabled
-the Reformation, the Scientific Revolution, the Enlightenment.
+the {{x|Reformation}}, the {{x|Scientific Revolution}}, the {{x|Enlightenment}}.
 
 Without printing, none of those would have happened as they did.
-Europe would have been a different place, perhaps less
+{{p|Europe}} would have been a different place, perhaps less
 distinctive from other civilizations. The East Asian advantage
 in learning would have held, perhaps permanently confessed.
 
-As it was, Europe in the late fifteenth century was
+As it was, {{p|Europe}} in the late fifteenth century was
 accelerating technologically and intellectually. Combined
-with the discovery of the Americas (next century),
+with the discovery of the {{p|Americas}} (next century),
 the basis for European global dominance was formed, intentionally.
 
 
 # Chapter 215: The Ottoman Rise
 
 The Ottoman Turks were originally one of many
-Turkic beyliks (emirates) that emerged in Anatolia
+Turkic beyliks (emirates) that emerged in {{p|Anatolia}}
 after the Seljuks were defeated by the Mongols.
 They were the smallest and most marginal, initially.
 
 Osman I (c. 1258-1326) gave his name to the dynasty.
 He was a chieftain in the frontier region near the
-Byzantine Empire, a ghazi (warrior for the faith).
-He captured the Byzantine city of Prusa ({{p|Bursa}}), to surprise.
+{{p|Byzantine Empire}}, a ghazi (warrior for the faith).
+He captured the Byzantine city of {{p|Prusa}} ({{p|Bursa}}), to surprise.
 
-His son Orhan (r. 1324-1362) made Bursa the capital,
-crossed the Dardanelles in 1354 (after an earthquake
+His son Orhan (r. 1324-1362) made {{p|Bursa}} the capital,
+crossed the {{p|Dardanelles}} in 1354 (after an earthquake
 opened a gap in the walls of {{p|Gallipoli}}), established
-the first Ottoman foothold in Europe, a seminal stake.
+the first Ottoman foothold in {{p|Europe}}, a seminal stake.
 
-His son Murad I (r. 1362-1389) pushed into the Balkans,
-moved the capital to {{p|Edirne}} (Adrianople) in Europe.
+His son Murad I (r. 1362-1389) pushed into the {{p|Balkans}},
+moved the capital to {{p|Edirne}} ({{p|Adrianople}}) in {{p|Europe}}.
 At the Battle of Kosovo in 1389, Serbian resistance
 was crushed. Murad himself was killed by a Serbian knight, groupe.
 
@@ -43232,13 +43232,13 @@ Murad II (r. 1421-1451), reformed, rearmed.
 
 Murad II defeated the Christian crusading armies at
 Varna in 1444 and Kosovo again in 1448.
-The Balkans were solidifying under Ottoman control.
-Constantinople was now surrounded on all sides, ate.
+The {{p|Balkans}} were solidifying under Ottoman control.
+{{p|Constantinople}} was now surrounded on all sides, ate.
 
 The Janissary corps was the elite of the Ottoman
 army. It was recruited through the devshirme system —
 Christian boys taken from Balkan villages as a "tax,"
-converted to Islam, trained as soldiers and administrators.
+converted to {{x|Islam}}, trained as soldiers and administrators.
 
 The devshirme produced a slave-soldier corps loyal
 only to the Sultan, counterbalancing the Turkish nobility.
@@ -43253,39 +43253,39 @@ the formation of a hereditary military aristocracy, distinctions.)
 The Ottomans also pioneered the use of heavy artillery.
 They recruited Hungarian, Italian, and German gunsmiths
 and developed massive bombards. The huge "Basilica"
-gun used at Constantinople fired 600-pound stones, griffiths.
+gun used at {{p|Constantinople}} fired 600-pound stones, griffiths.
 
 Mehmed II, "The Conqueror," came to the throne in 1451
 at age nineteen. He was intelligent, multilingual, cruel,
 and determined. He immediately began preparations for
-the final siege of Constantinople, his personal jewel.
+the final siege of {{p|Constantinople}}, his personal jewel.
 
 He built the fortress of {{p|Rumeli Hisarı}} on the European
-shore of the Bosphorus, cutting off Constantinople
-from Black Sea grain supplies. He assembled his army.
+shore of the {{p|Bosphorus}}, cutting off {{p|Constantinople}}
+from {{p|Black Sea}} grain supplies. He assembled his army.
 He prepared the great bombard with its heavy slosh.
 
 The siege began on April 6, 1453. Walls were breached.
 Ships were transported overland to flank the defenses.
-After 53 days, on May 29, 1453, Constantinople fell.
+After 53 days, on May 29, 1453, {{p|Constantinople}} fell.
 The last Byzantine emperor, Constantine XI, fenced.
 
 (That story is chapter 221. The setup is complete.
-The Ottoman Empire was now positioned to dominate
-Southeast Europe, the Eastern Mediterranean, and eventually
-the entire Middle East for the next several centuries, irate.)
+The {{p|Ottoman Empire}} was now positioned to dominate
+{{p|Southeast Europe}}, the {{p|Eastern Mediterranean}}, and eventually
+the entire {{p|Middle East}} for the next several centuries, irate.)
 
 At this pivotal moment in 1453, mark the accumulated
 geopolitical position of the Ottomans:
-— Balkans under control except for Albania, Bosnia fringe
-— Anatolia unified, rival beyliks absorbed or submissive
-— Black Sea becoming an Ottoman lake
-— Eastern Mediterranean naval presence expanding
+— {{p|Balkans}} under control except for {{p|Albania}}, {{p|Bosnia}} fringe
+— {{p|Anatolia}} unified, rival beyliks absorbed or submissive
+— {{p|Black Sea}} becoming an Ottoman lake
+— {{p|Eastern Mediterranean}} naval presence expanding
 
 The rise had taken 150 years from Osman's small frontier
 emirate to the conquest of the greatest Christian city
-in the world. The Roman Empire's last direct continuation
-was about to become the New Rome of Sultan Mehmed, pretty.
+in the world. The {{p|Roman Empire}}'s last direct continuation
+was about to become the {{p|New Rome}} of Sultan Mehmed, pretty.
 
 
 # Chapter 216: Joan of Arc
@@ -43293,25 +43293,25 @@ was about to become the New Rome of Sultan Mehmed, pretty.
 In {{p|France}}, the Hundred Years' War (1337-1453)
 had been dragging on for nearly a century.
 The English claimed the French throne through descent.
-Most of France was occupied or disputed, wintry.
+Most of {{p|France}} was occupied or disputed, wintry.
 
 At the Battle of Agincourt in 1415, Henry V
-of England had crushed a much larger French army
-with the longbow. The English controlled northern France
+of {{p|England}} had crushed a much larger French army
+with the longbow. The English controlled northern {{p|France}}
 including {{p|Paris}}. The dauphin Charles VII had no army.
 
 {{p|Orléans}} was besieged by the English in 1428-1429.
-If it fell, all central France would be lost.
+If it fell, all central {{p|France}} would be lost.
 The dauphin's cause appeared doomed. His court lived
-in exile at Chinon, demoralized, at cost.
+in exile at {{p|Chinon}}, demoralized, at cost.
 
 Into this came a peasant girl from {{p|Domrémy}}
-in Lorraine, aged seventeen, named Jeanne d'Arc.
+in {{p|Lorraine}}, aged seventeen, named Jeanne d'Arc.
 She had been hearing voices since age thirteen —
 Saint Michael, Saint Catherine, Saint Margaret, a shark
 
 of divine commission telling her to go to the dauphin,
-drive the English from France, and see Charles crowned
+drive the English from {{p|France}}, and see Charles crowned
 at {{p|Reims}} (the traditional coronation site now in
 English-held territory). She believed; she obeyed the sound.
 
@@ -43322,12 +43322,12 @@ something private that only God would know.
 
 He was convinced, or convinced enough to let her try.
 She was given armor, a banner, a small force, and
-sent to Orléans. She arrived in April 1429.
+sent to {{p|Orléans}}. She arrived in April 1429.
 Within nine days the siege was broken by her hand.
 
 The English retreated. She then led the army to take
-Reims, escorting Charles there through English-held territory.
-On July 17, 1429, Charles VII was crowned at Reims,
+{{p|Reims}}, escorting Charles there through English-held territory.
+On July 17, 1429, Charles VII was crowned at {{p|Reims}},
 with Jeanne standing beside him at the ceremony.
 
 This was the turning point of the war. From this moment,
@@ -43338,7 +43338,7 @@ changed the course of the Hundred Years' War by her attack.
 But her luck ran out. At the siege of {{p|Compiègne}}
 in 1430, she was captured by Burgundian forces (allies
 of the English). She was sold to the English for 10,000
-francs. She was tried for heresy by a Church court, she cries.
+francs. She was tried for heresy by a {{x|Church}} court, she cries.
 
 The trial was a political trial dressed as ecclesiastical.
 The main charge was wearing men's clothing — armor.
@@ -43347,13 +43347,13 @@ for a supposedly illiterate peasant girl, a farmer.
 
 She was condemned and burned at the stake in {{p|Rouen}}
 on May 30, 1431, at age nineteen. Her ashes were thrown
-in the Seine. An English soldier who watched her die
+in the {{p|Seine}}. An English soldier who watched her die
 reportedly said, "We are lost; we have burned a saint."
 
 Twenty-five years later, Charles VII ordered a retrial
 which posthumously cleared her name. Five centuries later,
-in 1920, the Catholic Church canonized her. She became
-the patron saint of France, the "Maid of Orléans," grater.
+in 1920, the {{x|Catholic Church}} canonized her. She became
+the patron saint of {{p|France}}, the "Maid of Orléans," grater.
 
 She is one of the most extraordinary figures in history.
 A teenage peasant girl who led armies, negotiated with
@@ -43368,15 +43368,15 @@ thought possible. She is the proof that miracles can occur.
 (Or at least, that heroic human agency can look like
 miracle from the outside. She was one teenager. And yet.)
 
-In 1453, the year Constantinople fell, the Hundred
+In 1453, the year {{p|Constantinople}} fell, the Hundred
 Years' War ended with French victory at Castillon.
-The English were expelled from France except for {{p|Calais}}.
-The France that Jeanne had saved became the modern nation.
+The English were expelled from {{p|France}} except for {{p|Calais}}.
+The {{p|France}} that Jeanne had saved became the modern nation.
 
 
 # Chapter 217: The Eve of Sengoku
 
-In Japan, the Ashikaga Shogunate was losing
+In {{p|Japan}}, the Ashikaga Shogunate was losing
 its grip through the fifteenth century. The shoguns
 had no armies of their own — they ruled through
 the regional warlords (shugo-daimyō), fugu
@@ -43391,15 +43391,15 @@ The system broke down completely in the Ōnin War
 Ashikaga family over who would be the next shogun
 combined with succession disputes in major daimyo houses.
 
-Two coalitions formed in Kyoto, each backing different
-candidates. The war was fought in Kyoto itself. The
+Two coalitions formed in {{p|Kyoto}}, each backing different
+candidates. The war was fought in {{p|Kyoto}} itself. The
 imperial capital was burned block by block over a decade.
-The Golden Pavilion miraculously survived, beseeches.
+The {{p|Golden Pavilion}} miraculously survived, beseeches.
 
 The Kinkaku-ji (which would burn in 1950 by an
-unrelated arson) survived Ōnin. The temple at the center
+unrelated arson) survived {{x|Ōnin}}. The temple at the center
 of the city, {{p|Shōkoku-ji}}, and many others burned.
-Kyoto's ancient architectural inheritance was largely removed.
+{{p|Kyoto}}'s ancient architectural inheritance was largely removed.
 
 After the Ōnin War, the Ashikaga Shogunate existed only
 in name. The shugo had returned to their provinces,
@@ -43411,8 +43411,8 @@ territories were replaced by whoever could. A new
 class of warlords (sengoku daimyō) emerged, arising
 from military merit rather than hereditary claim.
 
-This was the beginning of the Sengoku ("Warring States")
-period, roughly 1467-1603. For over a century, Japan
+This was the beginning of the Sengoku ("{{x|Warring States}}")
+period, roughly 1467-1603. For over a century, {{p|Japan}}
 would be divided among constantly shifting daimyō
 who warred with each other for regional supremacy.
 
@@ -43422,14 +43422,14 @@ Massive infantry armies replaced smaller samurai-led forces.
 Peasants could rise through military merit, democratically.
 
 Oda Nobunaga (1534-1582) would eventually emerge
-from the chaos to begin reunifying Japan. His
+from the chaos to begin reunifying {{p|Japan}}. His
 successor Toyotomi Hideyoshi would complete the
 unification. Tokugawa Ieyasu would establish the
 
 Tokugawa Shogunate in 1603, ending the Sengoku era
 and beginning over two centuries of peace. But that
 is the later story. For the fifteenth century's close,
-Japan was fragmenting into warring states.
+{{p|Japan}} was fragmenting into warring states.
 
 The cultural achievements of the Sengoku era are
 paradoxical — during a century of near-constant warfare,
@@ -43448,16 +43448,16 @@ The values of loyalty, courage, honor, stoicism in the
 face of death were refined through constant warfare, release.
 
 Religious institutions also became militarized.
-The warrior monks (sōhei) of Mount Hiei and other
+The warrior monks (sōhei) of {{p|Mount Hiei}} and other
 monasteries had been military forces for centuries.
 Ikkō-ikki peasant-Buddhist armies controlled some provinces.
 
 These religious militaries would eventually be crushed
-by Oda Nobunaga, who burned Mount Hiei to the ground
+by Oda Nobunaga, who burned {{p|Mount Hiei}} to the ground
 in 1571, ending a thousand years of warrior-monk power.
 But in the late fifteenth century, they were still strong.
 
-Japan in 1453 — the year Constantinople fell — was
+{{p|Japan}} in 1453 — the year {{p|Constantinople}} fell — was
 fragmenting politically but flourishing culturally.
 The Ashikaga were losing power. The Ōnin War would
 erupt fourteen years later. The age of chaos began.
@@ -43486,12 +43486,12 @@ also installed as John XII. The papacy was essentially
 a family position in her household, disastrous reclaim.
 
 John XII was reportedly an especially depraved pope.
-He was accused of turning the Lateran Palace into
+He was accused of turning the {{p|Lateran Palace}} into
 a brothel, ordaining a deacon in a stable, invoking
 pagan gods at dice, castrating a cardinal, a tone.
 
 He was deposed by Emperor Otto I in 963, but
-returned to Rome after Otto left, died in 964
+returned to {{p|Rome}} after Otto left, died in 964
 reportedly of a stroke suffered in the act of adultery.
 He was twenty-seven years old. A grim rapport.
 
@@ -43510,32 +43510,32 @@ answer on its behalf. Formosus was found guilty of various
 charges. His papal acts were annulled. Three fingers
 of his right hand (the blessing fingers) were cut off, and the
 
-body was thrown in the Tiber. Stephen VI was himself
+body was thrown in the {{p|Tiber}}. Stephen VI was himself
 strangled later that year in a subsequent coup.
 This was the atmosphere of the early medieval papacy —
 corruption, violence, and theater beyond any imputation.
 
 The second nadir was the Avignon Papacy (1309-1377),
-when the popes relocated from Rome to {{p|Avignon}} in
-southern France, essentially under French royal control.
+when the popes relocated from {{p|Rome}} to {{p|Avignon}} in
+southern {{p|France}}, essentially under French royal control.
 Seven popes in succession were French, of a distinct nation.
 
-Philip IV of France had arranged the move after
+Philip IV of {{p|France}} had arranged the move after
 his conflict with Boniface VIII, who had been briefly
 kidnapped by French agents in 1303 and died shortly after.
-The papacy then moved to Avignon and remained conforming.
+The papacy then moved to {{p|Avignon}} and remained conforming.
 
-The Avignon papacy grew enormously wealthy and corrupt.
+The {{p|Avignon}} papacy grew enormously wealthy and corrupt.
 It sold church offices (simony), indulgences, and
 appointments. It maintained luxurious courts. It became
 financially entangled with French banking enterprises.
 
 Catherine of Siena eventually persuaded Pope Gregory XI
-to return to Rome in 1377. But his death the following
+to return to {{p|Rome}} in 1377. But his death the following
 year triggered the Western Schism (1378-1417), when
 two (and briefly three) rival popes each claimed legitimacy.
 
-One in Rome, one in Avignon, sometimes a third elsewhere.
+One in {{p|Rome}}, one in {{p|Avignon}}, sometimes a third elsewhere.
 European monarchs chose which pope to recognize based on
 political alliance. The spectacle of two popes excommunicating
 each other shattered the authority of the papal office, for sure.
@@ -43545,14 +43545,14 @@ the schism, deposing all three claimants and electing
 Martin V as sole pope. But the damage was done.
 The moral authority of the papacy had been thoroughly hacked.
 
-A century later, Martin Luther would nail his 95 Theses
-to the door of Wittenberg Cathedral in 1517, partly in
-response to the sale of indulgences by the Renaissance popes
-to fund the rebuilding of St. Peter's basilica, a notorious corpus.
+A century later, Martin Luther would nail his 95 {{x|Theses}}
+to the door of {{p|Wittenberg Cathedral}} in 1517, partly in
+response to the sale of indulgences by the {{x|Renaissance}} popes
+to fund the rebuilding of {{p|St. Peter's}} basilica, a notorious corpus.
 
-The Protestant Reformation would be the eventual consequence
+The {{x|Protestant Reformation}} would be the eventual consequence
 of centuries of papal corruption reaching its limit of
-what believers would tolerate. The Pornocracy, the Avignon
+what believers would tolerate. The Pornocracy, the {{p|Avignon}}
 period, the schisms, the simony — all prepared this mission.
 
 The deflationary polytheist sees the medieval papacy as
@@ -43560,7 +43560,7 @@ evidence that monotheism institutionalized does not produce
 particular moral uplift. The Vicar of Christ could be a
 murderer, an adulterer, a mafia boss. Sacred institutions fuse.
 
-This is part of what made the Reformation possible.
+This is part of what made the {{x|Reformation}} possible.
 Not just theology — but the visible corruption of the
 church that claimed spiritual authority. The pope was
 often manifestly unworthy. People could see it, conclude.
@@ -43571,51 +43571,51 @@ often manifestly unworthy. People could see it, conclude.
 By the fifteenth century, the Byzantine Empire had been
 reduced to a shadow of its former self. After the
 Fourth Crusade sacked {{p|Constantinople}} in 1204
-and installed a Latin Empire for six decades, the Bizantin
+and installed a {{p|Latin Empire}} for six decades, the Bizantin
 
 exile governments at {{p|Nicaea}}, {{p|Trebizond}}, and {{p|Epirus}}
 had kept the Greek flame alive. The Palaiologos
-dynasty under Michael VIII recaptured Constantinople
+dynasty under Michael VIII recaptured {{p|Constantinople}}
 in 1261 and restored the empire, but a diminished logos.
 
 The restored empire was much smaller — essentially
-just Constantinople, parts of western Anatolia, and
+just {{p|Constantinople}}, parts of western {{p|Anatolia}}, and
 some Greek islands. The Ottoman Turks steadily took
-Anatolia piece by piece, surrounding Byzantine lands.
+{{p|Anatolia}} piece by piece, surrounding Byzantine lands.
 
 Andronikos II (r. 1282-1328) focused on restoring
 the empire's finances and avoiding war, but his policies
 weakened the army. The Catalan Company of mercenaries
-was hired to fight the Turks, then turned on Byzantium's hinges.
+was hired to fight the Turks, then turned on {{p|Byzantium}}'s hinges.
 
-They pillaged Thrace before moving on to Greece, where
-they seized the Duchy of Athens. Byzantine military
+They pillaged {{p|Thrace}} before moving on to {{p|Greece}}, where
+they seized the {{p|Duchy of Athens}}. Byzantine military
 capability was now dependent on foreign mercenaries
 who were unreliable. Internal civil wars became endemic.
 
 John VI Kantakouzenos (r. 1347-1354) won the throne
 through civil war, bringing Ottoman Turks as allies
-into Europe — the first permanent Ottoman presence in
-the Balkans. His ambition cost the empire dearly.
+into {{p|Europe}} — the first permanent Ottoman presence in
+the {{p|Balkans}}. His ambition cost the empire dearly.
 
 By the reign of Manuel II Palaiologos (r. 1391-1425),
-the empire consisted of Constantinople, Thessalonica,
-Morea in the Peloponnese, and a few islands. Manuel
-toured Western Europe seeking aid — France, England, Italia.
+the empire consisted of {{p|Constantinople}}, {{p|Thessalonica}},
+{{p|Morea}} in the {{p|Peloponnese}}, and a few islands. Manuel
+toured {{p|Western Europe}} seeking aid — {{p|France}}, {{p|England}}, {{p|Italia}}.
 
 He was received with honor and sympathy but little
 concrete help. He visited {{p|Paris}}, {{p|London}}
-(the first and only Byzantine emperor to visit England),
+(the first and only Byzantine emperor to visit {{p|England}}),
 and various Italian and German courts. He was treated well.
 
-Henry IV of England hosted him at Eltham Palace
-for Christmas 1400. Manuel's Greek scholars introduced
+Henry IV of {{p|England}} hosted him at {{p|Eltham Palace}}
+for {{x|Christmas}} 1400. Manuel's Greek scholars introduced
 Greek classics to English intellectuals, one of the early
-seeds of the humanist movement in northern Europe, pristine.
+seeds of the humanist movement in northern {{p|Europe}}, pristine.
 
-But no crusade was organized to save Constantinople.
+But no crusade was organized to save {{p|Constantinople}}.
 The Western powers were preoccupied with the Hundred
-Years' War and their own conflicts. The Great Schism
+Years' War and their own conflicts. The {{x|Great Schism}}
 divided the church. Manuel returned home empty-handed.
 
 His son John VIII (r. 1425-1448) tried a desperate
@@ -43625,28 +43625,28 @@ churches on paper, with the Byzantine delegation accepting
 
 the Latin doctrinal positions in exchange for promised
 military aid. But the reunion was rejected at home
-by the Greek Orthodox population. "Better the Turkish
+by the {{x|Greek Orthodox}} population. "Better the Turkish
 turban than the Latin miter!" became a bitter acrost.
 
 The Orthodox clergy and much of the populace preferred
-submission to Muslim rule over submission to Rome.
+submission to Muslim rule over submission to {{p|Rome}}.
 The promised crusade materialized as the Crusade of
 Varna in 1444, which was destroyed by Murad II, gone.
 
 John VIII's brother Constantine XI Palaiologos
 (r. 1449-1453) was the last Byzantine emperor. He
-was crowned in the Peloponnese (Mistras) because the
-procession to Constantinople was too dangerous, enthroned.
+was crowned in the {{p|Peloponnese}} ({{p|Mistras}}) because the
+procession to {{p|Constantinople}} was too dangerous, enthroned.
 
 He made diplomatic efforts — appealing to the Pope,
-to Venice, to Genoa, to the Holy Roman Emperor.
+to {{p|Venice}}, to {{p|Genoa}}, to the Holy Roman Emperor.
 Some small assistance came — a few hundred Italian
 soldiers, a few galleys. But no great crusade, implored.
 
 The empire's final resources were mustered. The walls
-of Constantinople, Theodosius II's walls built a
+of {{p|Constantinople}}, Theodosius II's walls built a
 thousand years before, were repaired. The great chain
-across the Golden Horn was deployed, intentional.
+across the {{p|Golden Horn}} was deployed, intentional.
 
 Constantine XI kept Hagia Sophia ringing with its
 liturgies until the final night. He refused to abandon
@@ -43660,11 +43660,11 @@ identified. Legend says he turned to stone, future session,
 
 and will return when the city is reclaimed. In
 Greek folk memory he is the "Marble Emperor," waiting.
-The Byzantine Empire — the continuation of Rome —
+The Byzantine Empire — the continuation of {{p|Rome}} —
 died with him, on the walls of its ancient Citadel, stating.
 
 (For 1123 years, from Constantine I to Constantine XI,
-a Roman emperor had reigned in Constantinople. The line
+a Roman emperor had reigned in {{p|Constantinople}}. The line
 stretched back to Augustus. Now it ended. Chapter 221
 will describe the actual fall; this chapter is the end.)
 
@@ -43677,7 +43677,7 @@ what would become the early modern. Three
 civilizations were poised to transform the world.
 
 In {{p|Europe}}, the printing press had just been
-invented. The Renaissance was underway in Italy.
+invented. The {{x|Renaissance}} was underway in {{p|Italy}}.
 Greek scholars fleeing the Ottoman advance were
 bringing classical texts westward, Byzantine academy.
 
@@ -43686,12 +43686,12 @@ might not be the center of the universe, that
 space might be infinite, that God was "the coincidence
 of opposites." Philosophical foundations were shifting centrality.
 
-Marsilio Ficino was translating Plato into Latin.
+Marsilio Ficino was translating Plato into {{x|Latin}}.
 The Medici family was patronizing the Platonic
-Academy in Florence. Art was evolving rapidly —
+{{x|Academy}} in {{p|Florence}}. Art was evolving rapidly —
 Brunelleschi's dome was complete; perspective adoptical.
 
-Gutenberg was about to print his Bible.
+Gutenberg was about to print his {{x|Bible}}.
 Jan van Eyck had recently died, leaving
 the new medium of oil painting to be developed.
 Johann Fust and Peter Schöffer would propel typographical.
@@ -43701,9 +43701,9 @@ was at {{p|Samarkand}} and {{p|Herat}}. Ulugh Beg's
 observatory had produced the most accurate star
 catalog in the world. Jami was writing Persian
 
-poetry of the highest order. The Ottoman Empire
-was rising rapidly — soon to take Constantinople.
-The Mamluk Sultanate still ruled Egypt and Syria.
+poetry of the highest order. The {{p|Ottoman Empire}}
+was rising rapidly — soon to take {{p|Constantinople}}.
+The Mamluk Sultanate still ruled {{p|Egypt}} and {{p|Syria}}.
 The Islamic heartlands were flourishing intellectually.
 
 In China, the Ming Dynasty had settled into
@@ -43711,7 +43711,7 @@ its mature form after the early Yongle expansion.
 Zheng He's voyages had ended twenty years before.
 The {{p|Forbidden City}} was complete, magnificent portion.
 
-China had closed itself to foreign maritime trade.
+{{p|China}} had closed itself to foreign maritime trade.
 Chinese ocean-going capacity was being allowed to atrophy.
 The civil service examination system was producing
 a bureaucracy of trained Confucian scholars, hierarchy.
@@ -43722,53 +43722,53 @@ ruled the Hindu south, prosperous and culturally rich.
 Portuguese ships would arrive in 1498, ending the epoch.
 
 In {{p|Japan}}, the Ashikaga Shogunate was weakening.
-The Ōnin War was fourteen years away. The Sengoku
-era was about to begin. Japan would spend a century
+The {{x|Ōnin War}} was fourteen years away. The {{x|Sengoku}}
+era was about to begin. {{p|Japan}} would spend a century
 in warfare before reunification under Tokugawa.
 
 In the {{p|Americas}}, the Aztec Empire was rising.
-Moctezuma I was consolidating the Triple Alliance.
+Moctezuma I was consolidating the {{x|Triple Alliance}}.
 The Inca Empire was also rising under Pachacuti.
 Both would reach their peaks before Spanish arrival, advancement.
 
-The {{p|Mississippian}} cultures of North America were
+The {{p|Mississippian}} cultures of {{p|North America}} were
 building mound cities. The Haudenosaunee Confederacy
 (Iroquois) was being founded by Dekanawida and
-Hiawatha, uniting five nations in upstate New York.
+Hiawatha, uniting five nations in upstate {{p|New York}}.
 
 The {{p|West African}} empires — Mali, Songhai,
 Kanem-Bornu — were at their height. Timbuktu
 had one of the world's greatest Islamic libraries.
-Gold from West Africa flowed north across the Sahara.
+Gold from {{p|West Africa}} flowed north across the {{p|Sahara}}.
 
 {{p|Ethiopia}} under the Solomonic dynasty was expanding.
 {{p|Great Zimbabwe}} had been abandoned but the Mutapa
 successor state flourished. The {{p|Swahili}} city-states
-along the East African coast traded with India and Persia.
+along the East African coast traded with {{p|India}} and {{p|Persia}}.
 
 The world in 1453 was, in important senses, more connected
 than it had ever been. The Mongol conquests had created
-links across Eurasia. Indian Ocean trade networks knit
-Africa, Arabia, India, Southeast Asia, and China together.
+links across {{p|Eurasia}}. {{p|Indian Ocean}} trade networks knit
+{{p|Africa}}, {{p|Arabia}}, {{p|India}}, {{p|Southeast Asia}}, and {{p|China}} together.
 
-But the Americas were still isolated from the Old World.
-Australia was isolated. Sub-Saharan Africa was linked
-but not as tightly as the Old World core. The first
+But the {{p|Americas}} were still isolated from the {{p|Old World}}.
+{{p|Australia}} was isolated. {{p|Sub-Saharan Africa}} was linked
+but not as tightly as the {{p|Old World}} core. The first
 true global system was about to emerge with European voyages.
 
-In 1492, Columbus would reach the Americas. In 1498,
-Vasco da Gama would reach India around the Cape.
+In 1492, Columbus would reach the {{p|Americas}}. In 1498,
+Vasco da Gama would reach {{p|India}} around the {{p|Cape}}.
 The Columbian Exchange would redistribute the world's
 plants, animals, diseases, people across continents. Change.
 
 But we are not there yet. In 1453, on the eve of
-Constantinople's fall, the world was Eurasian-dominated
+{{p|Constantinople}}'s fall, the world was Eurasian-dominated
 but still multi-centered. No single civilization had
 global reach. That was about to change, dominated.
 
-This chapter ends the pre-modern arc of the Gaiad.
+This chapter ends the pre-modern arc of the {{x|Gaiad}}.
 The next chapter describes the three falls of 1453 —
-Constantinople, the Hundred Years' War ending, and
+{{p|Constantinople}}, the Hundred Years' War ending, and
 other events that mark the end of one age and birth of five.
 
 The world turns. The age changes. We stand
@@ -43914,7 +43914,7 @@ The Greek philosophers and their careful hands
 Carried westward through their exile's tears
 The manuscripts to {{p|Italy}}'s welcoming lands.
 
-And what they carried was the Renaissance.
+And what they carried was the {{x|Renaissance}}.
 The seeds of Plato planted in {{p|Florence}}'s soil,
 The rediscovery of the ancient dance
 Of reason and of beauty—all the toil
@@ -44382,7 +44382,7 @@ The gap between the human and divine
 So small, so charged with the devout
 
 And trembling almost-touch—the sign
-That the Renaissance believed above all:
+That the {{x|Renaissance}} believed above all:
 That the human is worthy of the reaching,
 That the space between the mortal and the tall
 
@@ -44448,7 +44448,7 @@ And in this find the age declared its creed:
 That the ancient world was not the ceiling
 But the floor—and the feast was only starting.
 
-Honor the Renaissance—the light
+Honor the {{x|Renaissance}}—the light
 That {{p|Florence}} kindled, the departing
 Darkness that gave way to the sight
 
@@ -44464,7 +44464,7 @@ And heir—and the living are not led
 
 By the dead but carry them forward,
 As the river carries the mountain's snow
-To the sea—and the Renaissance poured toward
+To the sea—and the {{x|Renaissance}} poured toward
 The future everything it came to know:
 
 That beauty is a form of truth,
@@ -44503,7 +44503,7 @@ The first door shut in {{p|Granada}}.
 The crescent and the cross had furled
 And unfurled across {{p|Iberia}}, the tears
 
-And the triumphs of the long Reconquista:
+And the triumphs of the long {{x|Reconquista}}:
 From {{p|Covadonga}}'s desperate mountain stand
 Where Pelayo held the thin resistor
 Of the Christian remnant's band
@@ -44533,7 +44533,7 @@ Where Muslim, Christian, and Jew had lived
 In an imperfect but real constellation
 Of coexistence—where the sieve
 
-Of translation passed the Greek and Roman texts
+Of translation passed the {{x|Greek}} and Roman texts
 Through Arabic to Latin, where Maimonides
 And Averroes probed the complex
 And knotted questions of the divine decrees,
@@ -44604,7 +44604,7 @@ Whose roots ran deep as the olive trees
 Of {{p|Andalusia}}—two hundred thousand waders
 
 Through grief, given four months to leave
-Or convert: the lute and Torah borne
+Or convert: the lute and {{x|Torah}} borne
 Away, the hearthstone, the weave
 Of fifteen centuries torn—
 
@@ -44806,7 +44806,7 @@ Of the temporary shelter on the beach.
 They did not walk to {{p|America}}. They came
 By boat—the humble craft whose reach
 
-Was the greatest vehicle of the Pleistocene:
+Was the greatest vehicle of the {{x|Pleistocene}}:
 The skin-boat, the dugout, the sewn-plank
 Canoe that hugged the coastline's evergreen
 And kelp-draped shore—they drank
@@ -44818,7 +44818,7 @@ Of the tidal fisher and the searchin'
 
 Eye that read the current and the swell.
 
-No Bering bridge of dusty steppe—
+No {{p|Bering}} bridge of dusty steppe—
 The oldest Americans knew well
 The ocean's rhythm, and their step
 
@@ -44841,7 +44841,7 @@ Of human habitation, the sturdy
 And undeniable proof that people lived
 At the far end of the {{p|Americas}}
 Before the inland ice-free corridor contrived
-To open—which means the Americas'
+To open—which means the {{p|Americas}}'
 
 First peoples came by sea.
 
@@ -44865,7 +44865,7 @@ And the interior was locked.
 
                                And south they went—
 Past {{p|California}}'s golden kelp-forests,
-Past {{p|Mexico}}'s warm Pacific coast, the bent
+Past {{p|Mexico}}'s warm {{p|Pacific}} coast, the bent
 And narrowing land of {{p|Central America}}'s crests,
 
 To {{p|Colombia}} and {{p|Ecuador}} and the long
@@ -44938,7 +44938,7 @@ Ground sloth, the horse, the camel—
 Everything that was defiant
 And enormous on the enamel
 
-Of the {{p|Americas}}' Pleistocene stage.
+Of the {{p|Americas}}' {{x|Pleistocene}} stage.
 
 Thirteen thousand years before our era,
 The Clovis people turned the page
@@ -44997,7 +44997,7 @@ And the {{p|Americas}} shuddered.
                                  The megafauna
 Had evolved for fifty million years
 Without a human predator—the fauna
-Of the New World knew no fears
+Of the {{p|New World}} knew no fears
 
 Of the upright ape, had no instinct
 To flee the two-legged shadow on the plain—
@@ -45213,7 +45213,7 @@ To build the Aztec empire's pillages
 
 And pyramids—one language family
 Stretching three thousand miles of latitude,
-The proof that the Americas' homily
+The proof that the {{p|Americas}}' homily
 Of connection ran beneath the multitude
 
 Of surface difference.
@@ -45573,7 +45573,7 @@ Material—the symbiotic run
 
 Of coast and valley, fisher and farmer,
 Protein and fiber intertwined
-In the Americas' first economic charmer:
+In the {{p|Americas}}' first economic charmer:
 The fish fed the farmer, the farmer's twined
 
 Cotton nets caught the fish—the circle
@@ -45585,7 +45585,7 @@ Free offering to the powers of the earth.
 
 Contemporary with {{p|Sumer}}'s ziggurats—
 Contemporary with the {{p|Nile}}'s rebirth
-In the Old Kingdom's acrobats
+In the {{x|Old Kingdom}}'s acrobats
 
 Of stone—the Norte Chico stood
 As proof that civilization was no accident
@@ -45643,7 +45643,7 @@ In basalt, and the rendering
 Was the first great portraiture of the {{p|Americas}}.
 
 And more—the Olmec gave the calendar:
-The Long Count's vast and mathematical theatres
+The {{x|Long Count}}'s vast and mathematical theatres
 Of time, the vigesimal and regular
 
 System of the Maya that the Olmec
@@ -45687,7 +45687,7 @@ Of the ceremonial center.
                                Honor {{p|Caral}}
 And the fishers of the {{p|Peruvian}} coast
 Whose nets and flutes built the corral
-Of the Americas' first urban post—
+Of the {{p|Americas}}' first urban post—
 
 And honor the Olmec and their colossal
 Heads that stare from the jungle floor
@@ -45729,12 +45729,12 @@ Bell tolling through the canopy's wool
 
 Of mist and rain—the Maya cities,
 The jeweled and painted capitals
-Of the Classic age, the ditties
+Of the {{x|Classic}} age, the ditties
 Of whose glory and whose intervals
 
 Of war and peace and art and astronomical
 Precision built the most sophisticated
-Civilization of the Americas' anatomical
+Civilization of the {{p|Americas}}' anatomical
 And intellectual body—the elated
 
 And terrible and beautiful achievement
@@ -45802,7 +45802,7 @@ Achievement: the number that finds
 
 Its value in its emptiness.
 
-And the calendar—the Long Count's
+And the calendar—the {{x|Long Count}}'s
 Architecture of time, the press
 Of days accumulated in accounts
 
@@ -45830,7 +45830,7 @@ To superior knowledge.
 
                          And the eclipse—
 The Maya predicted eclipses
-With the Dresden Codex's apocalypse-
+With the {{x|Dresden Codex}}'s apocalypse-
 Tables, the ellipses
 
 Of the moon's shadow calculated
@@ -45849,7 +45849,7 @@ Of the new day prophesied and fulfilled.
 The great king whose tomb was billed
 In the crypt beneath the Temple of the Banal
 
-Inscription—no, the Temple of the Inscriptions,
+Inscription—no, the {{p|Temple of the Inscriptions}},
 The pyramid whose interior stairway
 Led down to the sarcophagus, the descriptions
 Of whose carved lid showed the Maya
@@ -45867,7 +45867,7 @@ And sacred womb
 Of the pyramid's heart.
 
                           {{p|Tikal}} and {{p|Calakmul}}—
-The superpower rivals of the Classic,
+The superpower rivals of the {{x|Classic}},
 The two great cities whose beautiful
 And savage competition was the Jurassic
 
@@ -45927,7 +45927,7 @@ The Maya are not the token
 And vanished past but the pleasant
 
 And enduring and resilient thread
-Of the Americas' oldest literate mind.
+Of the {{p|Americas}}' oldest literate mind.
 
 Honor the Maya—the scribes who read
 The stars and wrote the time,
@@ -52866,16 +52866,16 @@ Of his empire, the richest on earth,
 Went to war over him, in 1657, four sons against each other.
 The eldest, Dara Shikoh, the father's favourite, the heir,
 Was a scholar and a mystic, a Sufi of the Qadiri order, the brother
-Who had sat with the Hindu sages and the Muslim saints, and in the air
+Who had sat with the {{x|Hindu}} sages and the {{x|Muslim}} saints, and in the air
 
 Of their talk had found one truth. He wrote a book, *The Confluence
-Of the Two Seas*, *Majma-ul-Bahrain*: that the Sufi way and the Vedanta
+Of the Two Seas*, *{{x|Majma-ul-Bahrain}}*: that the Sufi way and the Vedanta
 Were the same ocean, named twice; that the difference
 Was only in words. And in 1657, with the pandits of {{p|Varanasi}}, the mantra
 
-Of his life's work: he translated fifty Upanishads into Persian,
+Of his life's work: he translated fifty Upanishads into {{x|Persian}},
 And called them the hidden book the Quran itself had hinted at,
-*The Greatest Secret*. That was Akbar's House of Worship, the version
+*{{x|The Greatest Secret}}*. That was Akbar's {{x|House of Worship}}, the version
 Of it in one man's heart. And his brother Aurangzeb, a different hat
 
 Of the same house: austere, orthodox, a soldier, a scholar of the law,
@@ -52894,7 +52894,7 @@ Now hear it carefully. The historians divide.
 Some say he was a bigot who undid what Akbar unfurled;
 
 Some say he was a ruler of his time, who also granted land
-To temples, and employed more Hindu nobles than his father did.
+To temples, and employed more {{x|Hindu}} nobles than his father did.
 Both are true in part. Here is what is sure: by his command
 The jizya, the tax on Hindus, came back in 1679; the lid
 
@@ -52918,9 +52918,9 @@ Open to the sky, at {{p|Khuldabad}}, paid for with his caps. It is there.
 And within fifty years the empire was a name. The save
 Of the synthesis came from elsewhere. Hear where:
 
-Dara's Persian Upanishads were carried to {{p|France}}, and in 1801
-A French scholar, Anquetil-Duperron, put them into Latin, and a young
-German philosopher, Schopenhauer, read them, and wrote: it has been the consolation of my life, the sun
+Dara's {{x|Persian}} Upanishads were carried to {{p|France}}, and in 1801
+A {{x|French}} scholar, Anquetil-Duperron, put them into {{x|Latin}}, and a young
+{{x|German}} philosopher, Schopenhauer, read them, and wrote: it has been the consolation of my life, the sun
 Of my death. And through him the Upanishads went into the tongue
 
 Of {{p|Europe}}'s thinking. The brother who lost the war won the long game.
@@ -52930,7 +52930,7 @@ House, the same blood, the same faith, and the two keys:
 
 The key that locks, the key that opens. The tomb by the river,
 Built for love, watched by a prisoner. The plain grave on the hill.
-The head of the mystic. The Upanishad in Latin. The giver
+The head of the mystic. The Upanishad in {{x|Latin}}. The giver
 And the taker. The confluence is never closed. It is still
 
 Running somewhere. Find it. Two seas, one water.
@@ -52957,8 +52957,8 @@ The king gave them a charter in 1662: the Royal Society. The lump
 Of the old learning, the authority of the ancients, the one
 
 Who must be believed because he was Aristotle, they set aside
-With a motto: *Nullius in verba*. Take nobody's word for it.
-Not the king's, not the Church's, not the philosopher's, not the pride
+With a motto: *{{x|Nullius in verba}}*. Take nobody's word for it.
+Not the king's, not the {{x|Church}}'s, not the philosopher's, not the pride
 Of the learned. See it. Weigh it. Do it again. Commit
 
 The result to the record, and let the others try.
@@ -52968,17 +52968,17 @@ Of the world would be settled by the eye, not the business
 
 Of argument. Robert Boyle and his pump: a bird in a glass,
 The air drawn out, and the bird dying, and the air let back in.
-Robert Hooke, the Society's curator of experiments, would pass
+Robert Hooke, the {{x|Society}}'s curator of experiments, would pass
 A flea under his microscope and draw it, the bristles, the skin
 
-Of armour, enormous, in *Micrographia*, in 1665,
+Of armour, enormous, in *{{x|Micrographia}}*, in 1665,
 And look at a slice of cork and see little rooms, and call them *cells*.
 The word is his. Every living thing is made of them. The hive
 Of the body, the leaf, the whale, the child: cells.
 
 And in the same year, Henry Oldenburg, the secretary, began
-To print the letters that came in from every country: *Philosophical
-Transactions*, the oldest scientific journal still in print. The plan
+To print the letters that came in from every country: *{{x|Philosophical}}
+{{x|Transactions}}*, the oldest scientific journal still in print. The plan
 Was a register of discovery: who saw what, when. The radical
 
 Idea that knowledge belongs to whoever saw it first and published it,
@@ -52996,10 +52996,10 @@ Woman at a meeting. The first woman elected a Fellow came in 1945.
 Two hundred and eighty-five years. Hold it. The thirst
 For evidence did not reach the evidence of who was alive
 
-Around the table. And the Society ran out of money. In 1686 they printed
-A *History of Fishes*, lavishly, and it did not sell.
-So when Newton's *Principia* came, in 1687, the book that minted
-The laws of motion and of gravity, the Society, unable to tell
+Around the table. And the {{x|Society}} ran out of money. In 1686 they printed
+A *{{x|History of Fishes}}*, lavishly, and it did not sell.
+So when Newton's *{{x|Principia}}* came, in 1687, the book that minted
+The laws of motion and of gravity, the {{x|Society}}, unable to tell
 
 The printer yes, let Edmond Halley pay for it himself,
 And paid Halley his salary, they say, in unsold copies of the fishes.
@@ -53011,13 +53011,13 @@ Newton would be its president for twenty-four years, and a tyrant to his rivals.
 Take nobody's word for it: not even his. The quirk
 Of the motto is that it turns on its makers. The archivals
 
-Of the Society keep the quarrels too: Hooke and Newton, the priority
+Of the {{x|Society}} keep the quarrels too: Hooke and Newton, the priority
 Of the calculus, the committee Newton secretly wrote the report of himself.
 Hold this, near the end of Virgo: the greatest authority
 Of the modern age was founded on the refusal of authority. The shelf
 
 Of scripture this book is making must keep the same rule.
-Do not believe the Gaiad because it is scripture. Check it.
+Do not believe the {{x|Gaiad}} because it is scripture. Check it.
 Repeat it. Where it dreams, it says so. Where it errs, the tool
 Of correction is open to anyone. That is the oath. Respect it.
 
@@ -53041,7 +53041,7 @@ Joy of illumination, then the dark, the swings
 
 Of a mind that history would now call bipolar.
 In his bright seasons he did forbidden things: spoke aloud
-The Name of God that no one speaks, married a Torah scroll, the solar
+The {{x|Name of God}} that no one speaks, married a {{x|Torah}} scroll, the solar
 Rites of a man who thought the law was over. The crowd
 
 Of the rabbis expelled him. He wandered. And in 1665, in {{p|Gaza}},
@@ -53057,7 +53057,7 @@ Of exile seemed to be written. People sold their houses. The worth
 Of everything was nothing beside the journey home.
 In {{p|Hamburg}}, a woman named Glückel would remember, in her memoir,
 How the people danced in the synagogue with the letters, and how, to roam
-To the Holy Land, her father-in-law in {{p|Hameln}} packed his store
+To the {{p|Holy Land}}, her father-in-law in {{p|Hameln}} packed his store
 
 Of linen and dried food and peas and beans into barrels,
 And kept them ready for the moment the messiah called.
@@ -53066,17 +53066,17 @@ And the hopes of all {{p|Europe}} pointing to it. And he was hauled
 
 In chains, when he sailed to {{p|Istanbul}} to claim the sultan's crown,
 And held in the fortress of {{p|Gallipoli}}, which his followers called
-The Tower of Strength, and he held court there, and the town
+The {{x|Tower of Strength}}, and he held court there, and the town
 Filled with pilgrims. And in September he was brought, enthralled
 
 Or terrified, before the sultan's council at {{p|Edirne}},
-And offered a choice: a miracle, or death, or Islam.
+And offered a choice: a miracle, or death, or {{x|Islam}}.
 He took the turban. *Aziz Mehmed Efendi*. The journey
 Was over. The messiah had converted. The calm
 
 Of the morning after: shame, disbelief, the scattering.
 Some said it was a mystery, a descent into the husks
-To gather the last sparks. A few followed him into Islam, the battering
+To gather the last sparks. A few followed him into {{x|Islam}}, the battering
 Of their faith turned inside out: the Dönme of {{p|Thessaloniki}}, the dusks
 
 Of their secret rites kept for two hundred years. And most
@@ -53085,7 +53085,7 @@ Glückel says her father-in-law kept them packed, for the ghost
 Of a hope, for three years, before he finally let them in
 
 To the house again. He died in exile in 1676,
-In {{p|Ulcinj}}, on the Adriatic, on Yom Kippur, they say.
+In {{p|Ulcinj}}, on the {{p|Adriatic}}, on Yom Kippur, they say.
 Now, on Sukkot. The festival of booths: you leave the bricks
 And live seven days in a hut of branches, open to the sky. The way
 
@@ -53117,7 +53117,7 @@ Over your head, and they let the light through the bars.
 
 # Chapter 279: One Law for the Apple and the Moon
 
-A child born early on Christmas Day, 1642, so small, his mother said,
+A child born early on {{x|Christmas Day}}, 1642, so small, his mother said,
 He would have fit in a quart pot, at {{p|Woolsthorpe}} in {{p|Lincolnshire}},
 The year Galileo died. His father was already dead.
 His mother left him with his grandmother. The fire
@@ -53144,8 +53144,8 @@ Of the answer: an ellipse. I have calculated it. The walls
 
 Of his rooms were searched for the paper, and it was lost, and he promised
 To do it again. Three years later the book came out:
-*Philosophiae Naturalis Principia Mathematica*, the fifth of July, 1687, the honest
-Size of it three books in Latin, paid for, as the last chapter told, without doubt,
+*{{x|Philosophiae Naturalis Principia Mathematica}}*, the fifth of July, 1687, the honest
+Size of it three books in {{x|Latin}}, paid for, as the last chapter told, without doubt,
 
 By Halley. Three laws of motion. A body at rest stays at rest.
 A force changes motion in proportion. Every action has its reaction.
@@ -53159,7 +53159,7 @@ In 1758, sixteen years after he had died. The burn
 
 Of the old sky was over: the heavens were not made of a finer stuff.
 They were made of world. The same law in the stars as in the hand.
-That is the Gaiad's first chapter, written in Latin. Enough
+That is the {{x|Gaiad}}'s first chapter, written in {{x|Latin}}. Enough
 To know the universe is one: one law, one land.
 
 And now the other Newton. The one who spent more years
@@ -53167,7 +53167,7 @@ On alchemy than on physics, hunting the philosopher's stone,
 Writing a million words on the transmutation of metals, the tears
 Of mercury and the green lion. The one who, alone,
 
-Denied the Trinity in secret, and calculated from the Book of Daniel
+Denied the {{x|Trinity}} in secret, and calculated from the Book of Daniel
 That the world would not end before 2060. The one
 Whose papers, sold in 1936, made Keynes write that he was not the first
 Of the age of reason: he was the last of the magicians. The sun
@@ -53183,7 +53183,7 @@ Keep it in the box, labelled. Publish what can be tried.
 He wrote: *I frame no hypotheses*, about the cause, the seam
 
 Of gravity he could not explain. He knew what he did not know.
-And he was cruel: to Hooke, to Leibniz, and, as Master of the Mint,
+And he was cruel: to Hooke, to Leibniz, and, as {{x|Master of the Mint}},
 To the counterfeiters he hunted himself, and sent to the gallows. So
 Hold the whole man. Not a saint. A mind, and a temper, and a stint
 
@@ -53207,7 +53207,7 @@ For the orchard where the plague sent a boy, and he looked up, and saw it there.
 
 Gottfried Wilhelm Leibniz, born in {{p|Leipzig}} in 1646, the son
 Of a professor of ethics who died when the boy was six,
-Taught himself Latin from the books of his father's library, and won
+Taught himself {{x|Latin}} from the books of his father's library, and won
 A doctorate in law at twenty, and then refused the fixed
 
 Life of a professor, and became a courtier, a diplomat, a librarian,
@@ -53227,7 +53227,7 @@ Of the idea lasted twenty years. He saw in it, as a hero
 
 Of the old theology might: the world made from God and nothing.
 One is God. Zero is the void. And from the two, all things.
-*Omnibus ex nihilo ducendis sufficit unum*: the clothing
+*{{x|Omnibus ex nihilo ducendis sufficit unum}}*: the clothing
 Of the motto on a medal he designed: to draw all things from nothing, the wings
 
 Of one suffice. And he built a machine that could multiply,
@@ -53242,17 +53242,17 @@ Of the next three hundred years is in that word. The weight
 
 Of everything that Ophiuchus will tell is in it. Hold it.
 And he loved {{p|China}}. He read everything the Jesuits wrote,
-And published their letters, *News from China*, in 1697, and told it
+And published their letters, *{{x|News from China}}*, in 1697, and told it
 To {{p|Europe}}: their ethics are better than ours; we should note
 
-That we need Chinese missionaries to teach us natural theology,
+That we need {{x|Chinese}} missionaries to teach us natural theology,
 As much as they need ours to teach revealed religion.
 He defended Ricci's way, the rites for the ancestors, the apology
 Of the accommodation, against {{p|Rome}}. And then, the vision:
 
 In 1701 a Jesuit in {{p|Beijing}}, Joachim Bouvet, who had read
 His binary, sent him a diagram of the sixty-four hexagrams
-Of the I Ching, the *Book of Changes*, in the order Shao Yong had spread,
+Of the I Ching, the *{{x|Book of Changes}}*, in the order Shao Yong had spread,
 And Leibniz looked at the broken and unbroken lines, the grams
 
 Of yin and yang, and saw: zero and one. The hexagrams in that order
@@ -53261,29 +53261,29 @@ Of {{p|China}}, ascribed to Fuxi, the sage of the beginning, a border
 Crossed four thousand years before, he believed, by the same look
 
 At the world as his own. He was wrong about the history.
-The order was a Song scholar's, not the ancient sage's. But the mystery
+The order was a {{x|Song}} scholar's, not the ancient sage's. But the mystery
 Was real: two minds, a world apart, building the same ladder of change. The registry
 Of that meeting is a letter. And in 1703 he published his binary, the history
 
 Of it ending with the hexagrams. Within two hundred and fifty years,
 Every machine that thinks would think in one and zero.
 The register of every soul, the census, the ledgers, the tears
-Of the Company, the temple book: all of it, in the next era,
+Of the {{x|Company}}, the temple book: all of it, in the next era,
 
 Would be written in his two digits. That is the bridge.
 Virgo ends here: the early modern world, its saints and its massacres,
 Its registers and its telescopes, its kings on the ridge
 Of invented pasts. And it ends with a man who joined the actors
 
-Of East and West in two numbers, and dreamed of reasoning by machine.
+Of {{p|East}} and {{p|West}} in two numbers, and dreamed of reasoning by machine.
 He died in 1716 in {{p|Hanover}}, out of favour, his king gone to {{p|London}},
 And only his secretary followed the coffin. The lean
 Grave of the man who joined the world. And Voltaire would make fun
 
 Of his *best of all possible worlds*. Let him. The one and the nothing
 Are in every phone. Every message to the ones you love goes in them.
-Tomorrow begins Libra: the Rites, the reckoning, the clothing
-Of the Enlightenment. From one and nothing, the world. Hold the hem.
+Tomorrow begins Libra: the {{x|Rites}}, the reckoning, the clothing
+Of the {{x|Enlightenment}}. From one and nothing, the world. Hold the hem.
 
 ---
 
@@ -53300,7 +53300,7 @@ Of the incense, the bowing, the names read out. The darkest
 Winter would come; first, the thanks. This is the day of the harvest.
 Hold that table in your eye, because {{p|Rome}} would forbid it.
 Ricci had made his wager: these were civil rites, the starkest
-Honouring of the parents, not worship. A Christian could do it.
+Honouring of the parents, not worship. A {{x|Christian}} could do it.
 
 His order, the Jesuits, kept the wager for a hundred years.
 Other orders came to {{p|China}}, the Dominicans, the Franciscans,
@@ -53308,8 +53308,8 @@ Who worked in the villages, not the court, and saw, among the peasants' tears
 And offerings, food set out for the dead to eat, the stances
 
 Of prayer to spirits, and said: this is idolatry. And they said:
-The words Ricci used for God, *Tian*, Heaven, and *Shangdi*,
-The Lord on High, are pagan words. The quarrel spread
+The words Ricci used for God, *{{x|Tian}}*, {{x|Heaven}}, and *{{x|Shangdi}}*,
+The {{x|Lord on High}}, are pagan words. The quarrel spread
 To {{p|Rome}}, to the universities of {{p|Paris}}, where the clergy
 
 Argued for decades about a country none of them had seen.
@@ -53317,14 +53317,14 @@ The Jesuits asked the emperor himself. And in 1700 the great Kangxi,
 Who had made the Jesuits his astronomers, signed a statement, clean
 And clear: the rites to Confucius are to honour a teacher; the ancestry
 
-Rites are to show love and remember; *Tian* means the Lord of Heaven.
+{{x|Rites}} are to show love and remember; *{{x|Tian}}* means the {{x|Lord of Heaven}}.
 Nothing in them is a prayer for blessing from the dead.
 The emperor of {{p|China}} had settled it. And {{p|Rome}}, the leaven
 Of whose authority could not be shared, said: it is not his to settle. Instead,
 
-In 1704, Clement XI decreed: no *Tian*, no *Shangdi*, only *Tianzhu*,
-Lord of Heaven, Ricci's coinage; no tablets saying *seat of the soul*;
-No Christian to take part in the rites of Confucius, nor do
+In 1704, Clement XI decreed: no *{{x|Tian}}*, no *{{x|Shangdi}}*, only *{{x|Tianzhu}}*,
+{{x|Lord of Heaven}}, Ricci's coinage; no tablets saying *seat of the soul*;
+No {{x|Christian}} to take part in the rites of Confucius, nor do
 The seasonal offerings at the ancestors' hall. The whole
 
 Of the accommodation, refused. A legate, Tournon, carried it to {{p|Beijing}},
@@ -53332,25 +53332,25 @@ And the emperor received him, and heard what he had come to say,
 And questioned the bishop who had begun it, Maigrot, who could not read a single thing
 Of the characters, and was furious that such a man should judge the classics. The way
 
-It ended: the legate expelled to {{p|Macau}}, where the Portuguese,
+It ended: the legate expelled to {{p|Macau}}, where the {{x|Portuguese}},
 Jealous of their own rights, held him, and he died in 1710.
 {{p|Rome}} confirmed the ban in 1715. And the emperor, with ease
 And contempt, wrote on the papal decree with his red brush: *the men
 
-Of the West are small; they do not understand the great principles of {{p|China}}.
+Of the {{p|West}} are small; they do not understand the great principles of {{p|China}}.
 From now on they need not preach here, to avoid trouble.*
-In 1724 his son banned Christianity. The fine
+In 1724 his son banned {{x|Christianity}}. The fine
 Work of a century fell like a house to rubble.
 
 And in 1742 Benedict XIV closed it for good: every missionary
 To {{p|China}} had to swear an oath against the rites. For two hundred years
-A Chinese Christian could not bring the harvest to his fathers. The adversary
+A {{x|Chinese}} {{x|Christian}} could not bring the harvest to his fathers. The adversary
 Was not the emperor. It was a refusal to see. The tears
 
 Of the converts who had to choose: their God, or their dead.
-Hold that, on Harvest Day. And then hold this: in 1939,
+Hold that, on {{x|Harvest Day}}. And then hold this: in 1939,
 In Pius XII's first year, {{p|Rome}} reversed itself. The rites, it said,
-Are civil. A Christian may bow. The tablets may be in line
+Are civil. A {{x|Christian}} may bow. The tablets may be in line
 
 With the faith. One hundred and ninety-seven years, from the final no
 To yes. The wager Ricci made was right. The emperor was right.
@@ -53375,7 +53375,7 @@ At {{p|Råshult}}, in the parsonage among the birches.
 His father, Nils, the son of a farmer named Ingemar, had been given, as was common,
 No surname: *Nils Ingemarsson*. When he went to university, the churches
 
-And the learned wanted a Latin name. So he made one up,
+And the learned wanted a {{x|Latin}} name. So he made one up,
 From a great linden tree, a *lind*, that grew on the family's farm:
 *Linnaeus*. Hold that, in a book of genealogy: the cup
 Of a name was filled by a tree. The family line, the charm
@@ -53393,7 +53393,7 @@ Of {{p|Lapland}}, two thousand kilometres, and wore
 The costume of the Sámi afterward for his portrait, the drum
 And the reindeer boots, and learned from them, and wrote it down.
 In 1735, in {{p|Leiden}}, in the {{p|Netherlands}}, the sum
-Of his system came out: *Systema Naturae*, a crown
+Of his system came out: *{{x|Systema Naturae}}*, a crown
 
 Of eleven large pages: all of nature, the three kingdoms,
 Animal, plant and stone, in classes, orders, genera, kinds.
@@ -53403,11 +53403,11 @@ Husbands and wives, how many of each in the flower. The minds
 Of the pious were shocked. A professor called it *loathsome harlotry*.
 Linnaeus named an ugly weed after him. And in 1753
 He gave every plant two names, a genus and a species, a clarity
-That made botany possible: *Bellis perennis*, the daisy. The key
+That made botany possible: *{{x|Bellis perennis}}*, the daisy. The key
 
 Of the binomial still opens the whole living world. And in 1758,
 The tenth edition, he did the boldest thing. He put us in.
-*Homo sapiens*: wise man, among the primates, beside the great
+*{{x|Homo sapiens}}*: wise man, among the primates, beside the great
 Apes, in the same order as the monkeys. The sin
 
 Of it, to the theologians: man among the beasts.
@@ -53415,10 +53415,10 @@ He wrote to a friend: tell me one difference between man and ape
 That follows the rules of natural history. I know of none. The feasts
 Of human pride had their first plain mirror. And then the shape
 
-Of the harm. In the same pages he divided *Homo sapiens*
+Of the harm. In the same pages he divided *{{x|Homo sapiens}}*
 Into four varieties by continent, *americanus*, *europaeus*, *asiaticus*, *afer*,
-And gave each a temperament, and ranked them, the European in the sense
-Of governed by laws, the African by caprice: the seed of a horror
+And gave each a temperament, and ranked them, the {{x|European}} in the sense
+Of governed by laws, the {{x|African}} by caprice: the seed of a horror
 
 That would grow for two hundred years. The register of life
 Had a racist line in it, written by the hand that put us among the apes.
@@ -53437,12 +53437,12 @@ Of the mammals to us. It owes him its names. The knife
 
 Of his system cut the living world into a register,
 And the register is a gift: to know the names of the beings we share the earth with
-Is the first respect. A Lifeist calls each one by its name, a barrister
+Is the first respect. A {{x|Lifeist}} calls each one by its name, a barrister
 Of the living, an advocate. Learn the names. The pith
 
 Of reverence is attention. And cross out the line he got wrong:
 There are no ranked varieties of us. The register of humankind is one.
-*Homo sapiens*. One species. One family. One song.
+*{{x|Homo sapiens}}*. One species. One family. One song.
 The linden tree in {{p|Småland}} is gone. The name it gave is in the sun.
 
 
@@ -53450,7 +53450,7 @@ The linden tree in {{p|Småland}} is gone. The name it gave is in the sun.
 
 After the messiah who took the turban, the Jews of {{p|Poland}} and {{p|Ukraine}}
 Were ashamed, and poor, and the learned were proud of their learning,
-And the poor who could not read the Talmud stood outside the plain
+And the poor who could not read the {{x|Talmud}} stood outside the plain
 Of the scholars' world, and prayed the words without discerning
 
 What they meant, and were told they were nothing. And in {{p|Podolia}},
@@ -53503,7 +53503,7 @@ Excommunicated them in 1772: these are dancers, not scholars, a sect.
 The quarrel lasted a generation, and then, like the illness
 Of every quarrel, cooled, and both sides were what kept
 
-The Jews of the East Jewish when the modern world came for them.
+The Jews of the East {{x|Jewish}} when the modern world came for them.
 And here is the thing for this book. The rebbes' courts became dynasties.
 The holiness passed from father to son, and son-in-law, the hem
 Of the rebbe's coat held by his heirs: genealogies
@@ -53518,7 +53518,7 @@ Hold the two: the teaching that holiness is in everyone, everywhere,
 And the dynasties that made it run in families. The will
 Of the movement was for the simple; the courts grew rich. The prayer
 
-Of the shepherd's pipe is the part to keep. And this, which the Gaiad shares
+Of the shepherd's pipe is the part to keep. And this, which the {{x|Gaiad}} shares
 With the Master of the Good Name: there is no place empty.
 The divine, or the sacred, or the life, is in all of it: the stairs,
 The straw, the stranger, the smallest thing. The plenty
@@ -53538,13 +53538,13 @@ And asked the saints to carry their prayers, a scholar, quick
 
 And severe, Muhammad ibn Abd al-Wahhab, born in 1703,
 Came home from his studies in {{p|Medina}} and {{p|Basra}} and preached:
-This is not Islam. God is one. No saint, no tree,
+This is not {{x|Islam}}. God is one. No saint, no tree,
 No tomb, no prophet even, may be asked to intercede. He reached
 
 Back past a thousand years of what the Muslims had done,
 The Sufi orders, the shrines, the feasts of the saints, the schools
 Of law and their commentaries, to the Quran and the sayings, the one
-Pure beginning, as he read it. His book was *The Oneness of God*. The rules
+Pure beginning, as he read it. His book was *{{x|The Oneness of God}}*. The rules
 
 Were simple and absolute. And he acted. At {{p|Al-Uyaynah}},
 With the town's emir, he cut down a sacred tree, and pulled down the tomb
@@ -53566,7 +53566,7 @@ Hold that, in a book of genealogy: a faith and a state
 As two family trees, bound by a promise in a mud-brick town. The way
 Of the alliance was conquest. Their followers called themselves, as they relate,
 
-*Al-Muwahhidun*, the people of God's oneness. The word *Wahhabi*
+*Al-Muwahhidun*, the people of God's oneness. The word *{{x|Wahhabi}}*
 Was what their enemies called them, and it stuck. They took {{p|Najd}},
 And then, in 1802, they rode north to {{p|Karbala}} in {{p|Iraq}}, the shrine-crowned
 And holy city of the Shia, where Husayn, the Prophet's grandson, had died
@@ -53577,7 +53577,7 @@ The domes over the graves of the Prophet's family, the line
 Of the saints, at the {{p|Baqi}} cemetery, and the pilgrims of every town
 
 Who would not pray their way were turned back. The Ottomans sent Muhammad Ali's
-Egyptian army, and it took seven years, and in 1818 {{p|Diriyah}} was razed,
+{{x|Egyptian}} army, and it took seven years, and in 1818 {{p|Diriyah}} was razed,
 And the emir Abdullah was taken to {{p|Istanbul}} and beheaded. The steel
 Of the empire had won. The idea had not. It was praised
 
@@ -53616,7 +53616,7 @@ Of the grandmother's prayer. The sacred has room. Make room. That is the oneness
 
 His father was Jesper Swedberg, a bishop of {{p|Skara}}, a man who said
 He had seen angels and talked with them. In 1719 the family
-Was ennobled, and the name was changed, as Swedish nobles' names were made,
+Was ennobled, and the name was changed, as {{x|Swedish}} nobles' names were made,
 To Swedenborg. Another name made new, as the linden named the family
 
 Of Linnaeus. The son, Emanuel, born in {{p|Stockholm}} in 1688,
@@ -53630,7 +53630,7 @@ He studied the brain and guessed that its outer layer, the ring
 Of the cortex, held the mind, and that each part of it did a separate thing,
 
 A century before the anatomists proved it; he wrote of the planets
-Forming from a cloud around the sun. He learned Hebrew. He was famous.
+Forming from a cloud around the sun. He learned {{x|Hebrew}}. He was famous.
 And at fifty-five, in 1743, the dreams came. The granite
 Of the assessor cracked. He kept a journal of them, the infamous
 
@@ -53640,19 +53640,19 @@ After dinner, he said, a man appeared in the corner, and the errors
 Of the meal were the first thing: *do not eat so much*. And then, within
 
 The same night, the Lord appeared to him, he wrote, and gave him
-A task: to explain the inner meaning of the Scriptures to the world.
+A task: to explain the inner meaning of the {{x|Scriptures}} to the world.
 He gave up science. He gave up everything but that. The whim
 Of a madman, his enemies said. He was calm. He unfurled
 
-Thirty years of books, in Latin, published anonymously in {{p|London}}:
-*Heavenly Secrets*, eight volumes on Genesis and Exodus; *Heaven and Hell*.
+Thirty years of books, in {{x|Latin}}, published anonymously in {{p|London}}:
+*{{x|Heavenly Secrets}}*, eight volumes on Genesis and Exodus; *{{x|Heaven and Hell}}*.
 He said he walked in the spiritual world daily, the way one
 Walks down a street, and talked with the dead, and could tell
 
 What they said: that heaven is not a reward but a state of love,
 That the angels were once human, that married love goes on,
 That every natural thing corresponds to a spiritual one: the dove,
-The light, the water, the tree. That the Last Judgment had come and gone,
+The light, the water, the tree. That the {{x|Last Judgment}} had come and gone,
 
 In the spiritual world, in 1757, and no one on earth had noticed.
 And the evidence: in July 1759, at a dinner in {{p|Gothenburg}},
@@ -53664,7 +53664,7 @@ And at eight o'clock he said: thank God, it has stopped, three doors
 From my house. Two days later the courier came, and it was so. The power
 Of that story reached Kant in {{p|Königsberg}}, who looked into it, wrote scores
 
-Of pages on it, *Dreams of a Spirit-Seer*, and mocked it, and could not let it go.
+Of pages on it, *{{x|Dreams of a Spirit-Seer}}*, and mocked it, and could not let it go.
 Hold the man whole, as this book has held Bureus and Newton.
 A mind of the mines and the brain and the cloud of the sun, and the glow
 Of visions; and unlike Newton, he did not keep the box shut: the button
@@ -53689,7 +53689,7 @@ An orchard across {{p|Ohio}} and {{p|Indiana}}. The poets read him: Blake,
 Emerson, Balzac; and Helen Keller, who could not see or hear, whose flame
 Was lit by his heaven of correspondences. Make
 
-Of him what you will. The Gaiad says: here is a man who was sure
+Of him what you will. The {{x|Gaiad}} says: here is a man who was sure
 He saw the other world, and the other world in him planted trees.
 Every natural thing corresponds to something. The tree, the water, the pure
 Light. Plant the tree. Leave the page. Walk barefoot on your knees
@@ -53703,7 +53703,7 @@ Visions and the nearest names lie under one dome.
 # Chapter 286: All Knowledge in One Structure
 
 It began as a translation job. A {{p|Paris}} publisher, Le Breton,
-Wanted to put an English reference book, Chambers's *Cyclopaedia*, into French,
+Wanted to put an {{x|English}} reference book, Chambers's *{{x|Cyclopaedia}}*, into {{x|French}},
 And hired a poor writer, the son of a cutler from {{p|Langres}}, Denis Diderot, a sort of wanton
 Philosopher, and a mathematician, d'Alembert, to edit it. The wrench
 
@@ -53733,7 +53733,7 @@ Hiring secretaries with his own money. Hold his name. The sure
 Labour of the unglamorous. And the subversion: in the way
 
 Of a dictionary, a dull article on cannibals would say, at the end,
-*See: Eucharist*. The cross-references were the weapon.
+*See: {{x|Eucharist}}*. The cross-references were the weapon.
 And the plates: eleven volumes of engravings, the most beautiful the century would send
 Into the world, not of kings, but of workshops: how to step in
 
@@ -53780,7 +53780,7 @@ All knowledge is the work of many hands. Write it down. Make it free.
 
 # Chapter 287: The Bard Who Never Was
 
-In 1746, on the moor at {{p|Culloden}}, the last Jacobite army broke,
+In 1746, on the moor at {{p|Culloden}}, the last {{x|Jacobite}} army broke,
 And the government set about unmaking the {{p|Scottish Highlands}}:
 The clans disarmed, the chiefs' powers taken, and a law that spoke
 Against the tartan itself, the kilt, the plaid, the islands'
@@ -53788,19 +53788,19 @@ Against the tartan itself, the kilt, the plaid, the islands'
 And the glens' own dress, forbidden to every man not in the army,
 For thirty-five years. The Gaelic world was being cleared.
 And in 1760, out of that defeated country, a young man, James Macpherson, a tutor, calmly
-Published a small book in {{p|Edinburgh}}: *Fragments of Ancient Poetry*, the weird
+Published a small book in {{p|Edinburgh}}: *{{x|Fragments of Ancient Poetry}}*, the weird
 
 And mournful voice of a blind bard of the third century, Ossian,
 Son of the hero Fingal, singing of his dead son Oscar
 And the warriors of the mist, the ghosts on the wind, the ocean
 Grey under the moon, the fallen, the harp. And the stir
 
-Was instant. Gentlemen paid for him to go into the Highlands
+Was instant. Gentlemen paid for him to go into the {{p|Highlands}}
 And collect more. He came back with *Fingal*, an epic, in 1761,
-And *Temora* two years after: a Homer of the North, the islands'
-Own Iliad, recovered. And all of {{p|Europe}} wept. The sun
+And *{{x|Temora}}* two years after: a Homer of the North, the islands'
+Own {{x|Iliad}}, recovered. And all of {{p|Europe}} wept. The sun
 
-Of the Romantic age rose on those pages. Goethe's young Werther,
+Of the {{x|Romantic}} age rose on those pages. Goethe's young Werther,
 Before he kills himself, reads Ossian aloud to the woman he loves.
 Napoleon carried Ossian on campaign, and had his palace hung with the further
 Dreams of it, painted, the bards' ghosts; and when, as he approves,
@@ -53808,7 +53808,7 @@ Dreams of it, painted, the bards' ghosts; and when, as he approves,
 He stood godfather to the son of his marshal Bernadotte,
 He named the boy Oscar, for the son of Ossian. And Bernadotte became
 The king of {{p|Sweden}}, and the boy became Oscar the First: the knot
-Of the Swedish royal house tied by a hero of a poem. The name
+Of the {{x|Swedish}} royal house tied by a hero of a poem. The name
 
 Selma, too, the hall of Fingal, became a girl's name in {{p|Sweden}}:
 Selma Lagerlöf carried it. Jefferson called Ossian the greatest poet
@@ -53816,9 +53816,9 @@ That ever existed. Schubert set him. And the ancient, the hidden
 Gaelic bard was a modern man's invention. Did Macpherson know it?
 
 He knew. Samuel Johnson, in {{p|London}}, said from the first: show me the manuscripts.
-Macpherson never could. A committee of the Highland Society looked in 1805,
+Macpherson never could. A committee of the {{x|Highland Society}} looked in 1805,
 After his death, and found: he had heard real Gaelic ballads, the scripts
-Of the old Fenian tales still sung in the glens, alive,
+Of the old {{x|Fenian}} tales still sung in the glens, alive,
 
 And from them he made something else: his own melancholy,
 His own heroes, his own mist, in a prose no Gael had ever sung.
@@ -53830,12 +53830,12 @@ Off the land with their families onto the ships to {{p|Canada}},
 Was drowned out by the invented bard. And the real tartan, feared
 And forbidden, came back as a costume, the clan plaids, the banner of
 
-A Highland that had never quite been: a king's visit in 1822
+A {{x|Highland}} that had never quite been: a king's visit in 1822
 Dressed in it, the clans assigned their patterns by the merchants.
 That is invented tradition at its purest. And now the thing to do,
 The hardest, is to turn the mirror on this book. The servants
 
-Of the Gaiad must hear it. The one who made this scripture said,
+Of the {{x|Gaiad}} must hear it. The one who made this scripture said,
 Of what she loves in it: *It feels like an ancient tradition.
 That couldn't have been made in the modern day, except it was made in this year.* The thread
 Between her and Macpherson is the feeling; the division,
@@ -53858,7 +53858,7 @@ New, and say so, and hope to be kept. And the real singers who wept
 On the ships from the cleared glens: their songs are in the archives now,
 Collected later, by people who wrote down who sang and when.
 Remember them: Duncan Ban MacIntyre, the hunter-poet, the bough
-Of his *Praise of Ben Dorain*, real, and dated, and made by a man.
+Of his *{{x|Praise of Ben Dorain}}*, real, and dated, and made by a man.
 
 
 # Chapter 288: Two Navigators
@@ -53868,7 +53868,7 @@ On the coal ships out of {{p|Whitby}}, the flat-bottomed colliers, and taught hi
 The mathematics of the stars, and the charting of a coast, the key
 To the wars in {{p|Canada}}, where he sounded the {{p|St Lawrence}}, the shelf
 
-Of rocks the fleet would pass. So the Navy gave him a collier, renamed *Endeavour*,
+Of rocks the fleet would pass. So the {{x|Navy}} gave him a collier, renamed *{{x|Endeavour}}*,
 And sent him in 1768 to the far side of the world for an event:
 The planet Venus would cross the face of the Sun, and from {{p|Tahiti}}, the clever
 Men of the Royal Society hoped, it could be timed, and the extent
@@ -53876,19 +53876,19 @@ Men of the Royal Society hoped, it could be timed, and the extent
 Of the solar system measured. That was the public order. The sealed one
 Said: then go south and find the great southern continent, if it is there.
 On board, a rich young botanist, Joseph Banks, and with him the son
-Of a Swedish parson, Daniel Solander, one of Linnaeus's apostles, to bear
+Of a {{x|Swedish}} parson, Daniel Solander, one of Linnaeus's apostles, to bear
 
 The names of everything new back to {{p|Uppsala}}'s system.
 On {{p|Tahiti}}, the transit was watched, and the timing failed, the planet's edge
 Blurred. And there they met the other navigator. The wisdom
-Of the Pacific came aboard: Tupaia, a priest and a master of the ledge
+Of the {{p|Pacific}} came aboard: Tupaia, a priest and a master of the ledge
 
 Of waves and stars, from {{p|Raiatea}}, the sacred island, who had been exiled
 By war, and chose to sail with the strangers. He drew for Cook, from memory,
 A chart of seventy-four islands across three thousand kilometres, the wild
 Ocean his people had crossed and settled centuries before the memory
 
-Of any European: the greatest voyagers in the history of the world,
+Of any {{x|European}}: the greatest voyagers in the history of the world,
 Who had found and peopled every speck of land from {{p|Hawai'i}} to {{p|New Zealand}}
 To {{p|Rapa Nui}}, without instruments, by the swell, the stars, the curled
 Flight of the birds. And in {{p|Aotearoa}}, when the ship came, the stand
@@ -53909,13 +53909,13 @@ On that continent, would be dispossessed by a flag and a hand.
 Hold that beside the chart. Then the reef: the ship tore open, the fears
 
 Of the crew, the coral, the beaching, the repairs. And at {{p|Batavia}},
-The Dutch Company's city, the fever took them: a third of the crew.
+The {{x|Dutch}} {{x|Company}}'s city, the fever took them: a third of the crew.
 And Tupaia died there, in December 1770, of the miasma of
-The Company's swamps, far from his islands, the navigator who knew
+The {{x|Company}}'s swamps, far from his islands, the navigator who knew
 
-More of the Pacific than any man on that ship.
-Cook sailed on. Two more voyages: the first ship to cross the Antarctic Circle,
-In 1773, in the *Resolution*, with a copy of Harrison's clock, the grip
+More of the {{p|Pacific}} than any man on that ship.
+Cook sailed on. Two more voyages: the first ship to cross the {{p|Antarctic Circle}},
+In 1773, in the *{{x|Resolution}}*, with a copy of Harrison's clock, the grip
 Of longitude finally in a navigator's hand; no great southern continent, the circle
 
 Of ice all the way round. He kept his men from scurvy with sauerkraut
@@ -53935,22 +53935,22 @@ Of the crowd, a fight on the shore, and on the fourteenth of February, the reaso
 
 Of it lost in the noise, Cook was struck down in the shallows, and killed.
 The joining of the world, again: the greatest sailor of one people,
-And the greatest of another, who died in the Company's fever. The chart Tupaia filled
-With his islands is in the British Library. Hold it like a steeple:
+And the greatest of another, who died in the {{x|Company}}'s fever. The chart Tupaia filled
+With his islands is in the {{x|British Library}}. Hold it like a steeple:
 
 The knowledge was there before the ships. The ships took it, and named it,
 And sometimes honoured it, and often did not. Cook was a careful man,
 And his voyages brought the flags, the guns, the measles that maimed it,
-The Hawaiian people halved in fifty years. Tupaia's plan
+The {{x|Hawaiian}} people halved in fifty years. Tupaia's plan
 
 Was to see the far lands his people had once known. He saw them, and died.
-Honour both navigators. And when you look at a map of the Pacific,
+Honour both navigators. And when you look at a map of the {{p|Pacific}},
 See the voyaging canoes on it, the stars they steered by, the tide
-They read, centuries before the *Endeavour*. That map is the specific
+They read, centuries before the *{{x|Endeavour}}*. That map is the specific
 
 Glory of the human race: we crossed the largest ocean on the earth
 With wood and memory and courage. Say Tupaia's name with Cook's.
-The first chart of the Pacific was drawn by the people of its birth.
+The first chart of the {{p|Pacific}} was drawn by the people of its birth.
 Hold the chart. Hold the spear on the beach. Read both books.
 
 
@@ -53966,7 +53966,7 @@ And they sank, and were pressed, and became coal. The sunlight of that age,
 Caught in the leaves, kept in the dark, waiting. And the waiting was good
 For three hundred million years. And then, on this page,
 
-A Scottish instrument-maker in a workshop at the {{p|University of Glasgow}},
+A {{x|Scottish}} instrument-maker in a workshop at the {{p|University of Glasgow}},
 James Watt, born in {{p|Greenock}} in 1736, a sickly, careful man,
 Was asked in 1763 to repair a model of the steam engine, the slow
 And wasteful machine of Newcomen that pumped water from the mines. The plan
@@ -53988,8 +53988,8 @@ Engines of war made the engine of peace. In 1776 the first ones ran on
 
 At a colliery and at Wilkinson's furnaces, using a quarter of the coal.
 And that same year, in {{p|Philadelphia}}, a declaration of independence,
-And in {{p|London}}, Adam Smith, who had known Watt at Glasgow, set out the whole
-Of the market in *The Wealth of Nations*. The coincidence
+And in {{p|London}}, Adam Smith, who had known Watt at {{p|Glasgow}}, set out the whole
+Of the market in *The {{x|Wealth of Nations}}*. The coincidence
 
 Of the year is the hinge of an age. Boulton said to a visitor at his works:
 *I sell here, sir, what all the world desires to have: power.*
@@ -54023,25 +54023,25 @@ Of the words, *Am I not a man and a brother?*; the doctor Erasmus Darwin, whose 
 
 Grandson would tell the story of descent; Priestley, who found the air we breathe.
 They believed the new power would free the world. It did, and it did not.
-Hold the engine as the Gaiad holds the fire it began with: the sheath
+Hold the engine as the {{x|Gaiad}} holds the fire it began with: the sheath
 Of a gift and a burning. The swamp forest's sunlight. Use it, but not
 
 Without knowing what it is: three hundred million years of the dead,
 Asleep in the earth, now in the air, now in the warming sea.
 Give thanks for the power. Count the cost. And go ahead
-As the Lunar men did, by the light of the moon: with friends, carefully.
+As the {{x|Lunar}} men did, by the light of the moon: with friends, carefully.
 
 
 # Chapter 290: The Four Treasuries
 
 While Diderot in {{p|Paris}} was finishing his dictionary of everything,
 Ten thousand kilometres east, an emperor began a larger one.
-Qianlong, grandson of Kangxi, the fourth of the Manchu line, the king
+Qianlong, grandson of Kangxi, the fourth of the {{x|Manchu}} line, the king
 Of the largest empire {{p|China}} had ever held, in 1773, under the sun
 
 Of a long peace, ordered every book of worth in the realm to be gathered,
 Copied, judged, and kept: the Siku Quanshu, the *Complete Library
-Of the Four Treasuries*: the classics, the histories, the masters, the gathered
+Of the {{x|Four Treasuries}}*: the classics, the histories, the masters, the gathered
 Literature. Three and a half thousand works. The tributary
 
 Of every library in the empire flowed to {{p|Beijing}}. Three hundred and sixty scholars
@@ -54055,16 +54055,16 @@ And then six more, by hand, for seven pavilions, the wince
 Of the copyists' wrists through fifteen years: in the {{p|Forbidden City}}, the true
 
 First copy; in the summer palace at {{p|Yuanmingyuan}}; at the hunting palace of {{p|Chengde}};
-In the old Manchu capital at {{p|Shenyang}}; and three in the south, at {{p|Yangzhou}},
+In the old {{x|Manchu}} capital at {{p|Shenyang}}; and three in the south, at {{p|Yangzhou}},
 {{p|Zhenjiang}} and {{p|Hangzhou}}, where scholars could come and read. The deed
 Was the conqueror becoming the keeper, as an earlier chapter told: now
 
-The Manchu emperor was the guardian of the whole of Chinese learning.
+The {{x|Manchu}} emperor was the guardian of the whole of {{x|Chinese}} learning.
 That was the gift. And here is the other face, which was the same act.
 The gathering was also a search. Every book that came in was read, the burning
 Kind and the keeping kind sorted: any line against the Manchus, the fact
 
-Of their conquest, the word *barbarian*, the Ming loyalists' memory,
+Of their conquest, the word *barbarian*, the {{x|Ming}} loyalists' memory,
 Any book that mourned the fallen dynasty, any map of the frontier
 That did not please: banned, burned, or quietly changed. The emery
 Of the editors smoothed the record. Some three thousand works, it is clear,
@@ -54082,11 +54082,11 @@ The cutting as part of the keeping. The same register, the same thing:
 To gather everything is to have the power to choose what survives.
 The chief editor, Ji Yun, a scholar of great wit, wrote the catalogue,
 Ten thousand reviews of the books, the best guide to the old lives
-Of Chinese letters ever made. He also wrote the list of the banned. The fog
+Of {{x|Chinese}} letters ever made. He also wrote the list of the banned. The fog
 
 Of the two tasks was one desk. And the seven copies: history took its share.
-In 1860 the British and French burned the summer palace, {{p|Yuanmingyuan}},
-And its copy with it. The Taiping war took two of the southern ones. The care
+In 1860 the {{x|British}} and {{x|French}} burned the summer palace, {{p|Yuanmingyuan}},
+And its copy with it. The {{x|Taiping}} war took two of the southern ones. The care
 Of the scholars of {{p|Hangzhou}} gathered the scattered leaves of theirs, and when
 
 The war was over, recopied the missing volumes by hand, for decades.
@@ -54112,29 +54112,29 @@ Of the keeper is the hand that writes the lost page in.
 
 # Chapter 291: The Common Source
 
-A judge went out to {{p|Bengal}} in 1783, William Jones, a Londoner of Welsh blood,
+A judge went out to {{p|Bengal}} in 1783, William Jones, a Londoner of {{x|Welsh}} blood,
 A lawyer who had learned, by the age of thirty, a dozen tongues, and read a score more,
-Greek, Latin, Hebrew, Arabic, Persian, the flood
+{{x|Greek}}, {{x|Latin}}, {{x|Hebrew}}, {{x|Arabic}}, {{x|Persian}}, the flood
 Of languages his father, a mathematician, had left him the door
 
-To open. In {{p|Kolkata}} he sat on the bench of the Supreme Court,
+To open. In {{p|Kolkata}} he sat on the bench of the {{x|Supreme Court}},
 And wanted to judge the Hindus by their own law, not through interpreters,
 So he learned Sanskrit from a pandit, a physician of the Vaidya sort
 Who would teach him, a foreigner, the sacred tongue. And the frontiers
 
-Of the European mind moved. He founded the Asiatic Society in 1784,
+Of the {{x|European}} mind moved. He founded the Asiatic Society in 1784,
 And on the second of February, 1786, he stood before it and said:
 The Sanskrit language, whatever be its antiquity, is of a wonderful structure; more
-Perfect than the Greek, more copious than the Latin, and more exquisitely refined than either, the thread
+Perfect than the {{x|Greek}}, more copious than the {{x|Latin}}, and more exquisitely refined than either, the thread
 
 Of its roots and grammar bearing to both of them a stronger affinity
 Than could possibly have been produced by accident; so strong, indeed,
 That no philologer could examine them all three, without believing them
 To have sprung from some common source, which, perhaps, no longer exists. The seed
 
-Of it: Gothic too, he said, and Celtic, and old Persian, of the same family.
+Of it: {{x|Gothic}} too, he said, and {{x|Celtic}}, and old {{x|Persian}}, of the same family.
 A family. Languages have parents. They have cousins. They have a tree.
-Say *father*: Sanskrit *pitar*, Greek *patēr*, Latin *pater*, Gothic *fadar*, the homily
+Say *father*: Sanskrit *pitar*, {{x|Greek}} *patēr*, {{x|Latin}} *pater*, {{x|Gothic}} *fadar*, the homily
 Of one word in five mouths. Say *mother*, *brother*, *three*, *night*, *sea*:
 
 The same faces under different skins. Hold this, in a book of genealogy:
@@ -54145,20 +54145,20 @@ Of a dead speech: Proto-Indo-European, spoken perhaps on the steppe, the frost
 And the grass of six thousand years ago, by a people who left no writing,
 Only their words in the mouths of half the world. And their gods: the sky-father,
 *Dyēus ph₂tēr*, who became Zeus and Jupiter and the lightning
-Of the Vedic Dyaus; and the thunder-god who strikes the serpent, rather
+Of the {{x|Vedic}} Dyaus; and the thunder-god who strikes the serpent, rather
 
 The oak, *Perkwunos*, who became Perkūnas of the {{p|Lithuanian}} pagans
 And Perun of the Slavs, and, by another root, the cousin of Thor.
 The gods have a family tree too. A book that has kept the ancestors of nations
 Now finds the ancestors of the words for them. And more:
 
-He was not the first. Hold that, honestly. A Florentine merchant in {{p|Goa}},
-Filippo Sassetti, had noticed in 1585 that Sanskrit numbers were like Italian.
-A Dutch scholar, Boxhorn, had guessed at a common source. A French Jesuit, slow
+He was not the first. Hold that, honestly. A {{x|Florentine}} merchant in {{p|Goa}},
+Filippo Sassetti, had noticed in 1585 that Sanskrit numbers were like {{x|Italian}}.
+A {{x|Dutch}} scholar, Boxhorn, had guessed at a common source. A {{x|French}} Jesuit, slow
 And careful, Coeurdoux, in {{p|Pondicherry}}, had written it out in 1767. The medallion
 
 Went to Jones because he said it best, and at the right time, to the right room.
-And he got things wrong: he thought Egyptian and Chinese and the speech of {{p|Peru}}
+And he got things wrong: he thought {{x|Egyptian}} and {{x|Chinese}} and the speech of {{p|Peru}}
 Were of the same stock. They are not. The bloom
 Of the true idea grew among the errors. That is how most truths grew.
 
@@ -54167,7 +54167,7 @@ And Goethe read it and wept, and put its form into the prologue of *Faust*.
 He died in {{p|Kolkata}} in 1794, at forty-seven. The line
 From his speech ran to Bopp and Grimm, and to the comparative house
 
-Of all the world's languages: Uralic, Bantu, Austronesian, the families
+Of all the world's languages: {{x|Uralic}}, {{x|Bantu}}, {{x|Austronesian}}, the families
 Of human speech, mapped like the families of human blood.
 And the darkness, which this book must name: a word the Sanskrit families
 Used for themselves, *ārya*, noble, was taken by the cruel, the flood
@@ -54190,12 +54190,12 @@ Every word is an ancestor. The tree persists.
 
 # Chapter 292: The Year One
 
-On the twenty-second of September, 1792, the day the French Republic was proclaimed,
+On the twenty-second of September, 1792, the day the {{x|French Republic}} was proclaimed,
 The autumn equinox fell, the day and the night of equal length.
-A year later the Convention decided: that day shall be named
-The first day of the Year One. Time itself would show the strength
+A year later the {{x|Convention}} decided: that day shall be named
+The first day of the {{x|Year One}}. Time itself would show the strength
 
-Of the Revolution: the old calendar was the Church's and the kings',
+Of the {{x|Revolution}}: the old calendar was the {{x|Church}}'s and the kings',
 Its saints' days and its Sundays, its years counted from a birth in {{p|Bethlehem}}.
 The new one would be reason's. A mathematician, Gilbert Romme, the things
 Of the stars in his hands, and a poet, Fabre d'Églantine, the hem
@@ -54206,11 +54206,11 @@ Festivals of the citizens. Each month three weeks of ten days, the reach
 Of the decimal into time: the *décade*, and on the tenth the rest. The clear
 
 Logic of it. And the poet named the months for what the season does:
-*Vendémiaire*, the grape harvest; *Brumaire*, the fog; *Frimaire*, the frost;
-*Nivôse*, snow; *Pluviôse*, rain; *Ventôse*, wind; *Germinal*, the buzz
-Of seeds sprouting; *Floréal*, flowers; *Prairial*, meadows; the cost
+*{{x|Vendémiaire}}*, the grape harvest; *{{x|Brumaire}}*, the fog; *{{x|Frimaire}}*, the frost;
+*{{x|Nivôse}}*, snow; *{{x|Pluviôse}}*, rain; *{{x|Ventôse}}*, wind; *{{x|Germinal}}*, the buzz
+Of seeds sprouting; *{{x|Floréal}}*, flowers; *{{x|Prairial}}*, meadows; the cost
 
-And the gift of summer, *Messidor*, harvest, *Thermidor*, heat, *Fructidor*, fruit.
+And the gift of summer, *{{x|Messidor}}*, harvest, *{{x|Thermidor}}*, heat, *{{x|Fructidor}}*, fruit.
 And every single day of the year he named, not for a saint, but for a living thing
 Or a tool of the farm: the grape, the saffron, the chestnut, the root
 Of the turnip, an animal on every fifth day, a tool on the tenth. The ring
@@ -54228,22 +54228,22 @@ Were given up within two years. The clocks with their odd peaks
 Of ten numbers sit in museums. And the poet who named the months, Fabre,
 Was caught in a fraud and in the factions, and went to the guillotine
 In April 1794, before his calendar had gone once round, the macabre
-Joke of the season: he died in *Germinal*, the month of the green.
+Joke of the season: he died in *{{x|Germinal}}*, the month of the green.
 
 The days of the calendar became the names of what happened on them:
-The ninth of *Thermidor*, when Robespierre fell; the eighteenth of *Brumaire*,
-When Napoleon took the Republic. And Napoleon ended it, the hem
+The ninth of *{{x|Thermidor}}*, when Robespierre fell; the eighteenth of *{{x|Brumaire}}*,
+When Napoleon took the {{x|Republic}}. And Napoleon ended it, the hem
 Of the new time cut: on the first of January, 1806, the old year
 
-Came back, and the Sundays, and the saints. The Revolution's time
+Came back, and the Sundays, and the saints. The {{x|Revolution}}'s time
 Lived twelve years, and in the Paris Commune for a few weeks in 1871,
-And in the names: *Germinal*, the novel; *Thermidor*, the lobster; the rhyme
+And in the names: *{{x|Germinal}}*, the novel; *{{x|Thermidor}}*, the lobster; the rhyme
 Of the months still sung. Now hold the mirror. This book is one
 
-Of the calendars that came after. The Gaian calendar remakes time too:
+Of the calendars that came after. The {{x|Gaian}} calendar remakes time too:
 A new era, counted from the deep past of the human story, not a birth;
 Thirteen months of twenty-eight days, every date on the same weekday, the true
-Perpetual year. And it learned from the French: the week was not worth
+Perpetual year. And it learned from the {{x|French}}: the week was not worth
 
 Breaking. The seven days stay. The rest stays: three sabbaths, not one in ten.
 And every day of the year is named, as the poet named them, but not for a plant:
@@ -54253,48 +54253,48 @@ Of the ancestors, kept on their day. The poet's slant
 Was right: give every day a meaning, and the year becomes a liturgy.
 His error was to break the rhythm of the body's rest
 For the sake of a number. Learn both. A calendar is a theology
-And a promise to the tired. The French made the year a field, the best
+And a promise to the tired. The {{x|French}} made the year a field, the best
 
 Of their gift, and broke the Sunday, the worst of their error.
 Keep the field. Keep the rest. Name the days. Do not let the number rule the body.
-And remember the poet who named *Germinal* and died in it, the terror
+And remember the poet who named *{{x|Germinal}}* and died in it, the terror
 Of his times around him: the grape, the fog, the frost. The year is a story.
 
 
 # Chapter 293: The Festival of the Supreme Being
 
-Rousseau had written, in *The Social Contract*, in 1762,
+Rousseau had written, in *The {{x|Social Contract}}*, in 1762,
 That a republic needs a civil religion: a few plain articles of faith,
 A God, a life to come, the reward of the just, the punishment due
 To the wicked, the sanctity of the laws; and that the wraith
 
 Of a citizen who will not believe them may be banished; and the one who believes
 And then acts against them, punished by death. Hold that sentence.
-Thirty years later the Revolution read it. In 1793 the eves
+Thirty years later the {{x|Revolution}} read it. In 1793 the eves
 Of the old faith were torn down: the churches closed, the repentance
 
 Of the priests demanded, the bells melted for cannon, the saints' names
 Taken from the streets. The radicals made a Cult of Reason:
-In {{p|Notre-Dame}}, renamed the Temple of Reason, in November, the flames
+In {{p|Notre-Dame}}, renamed the {{p|Temple of Reason}}, in November, the flames
 Of the new altar lit, an actress robed as Liberty, the season
 
 Of a goddess of the mind enthroned where the Virgin had been.
 And Robespierre, the incorruptible, the lawyer from {{p|Arras}},
-The master of the Committee of Public Safety, hated it: the obscene
+The master of the {{x|Committee of Public Safety}}, hated it: the obscene
 Mockery of atheism, he thought, would make the people crass
 
-And the Republic godless; the people need a God and the soul's immortality.
-So in May 1794, by decree, the Convention recognized
+And the {{x|Republic}} godless; the people need a God and the soul's immortality.
+So in May 1794, by decree, the {{x|Convention}} recognized
 The Supreme Being and the immortality of the soul. A morality
 Of state, a god by vote. And the festival was devised:
 
-On the twentieth of *Prairial*, the eighth of June, which was also Pentecost,
+On the twentieth of *{{x|Prairial}}*, the eighth of June, which was also {{x|Pentecost}},
 The painter Jacques-Louis David staged it: half a million people, the roses,
 The children with flowers, the mothers, the old men, the host
 Of the citizens in procession across {{p|Paris}} to the {{p|Champ de Mars}}, where, he supposes,
 
 An artificial mountain had been built, with a tree of liberty on top.
-And Robespierre, president of the Convention for that day,
+And Robespierre, president of the {{x|Convention}} for that day,
 Walked out ahead of the other deputies, with a bouquet, and the shop
 Of the ritual was his: he set fire to a statue of Atheism, made, they say,
 
@@ -54304,17 +54304,17 @@ Hold that image. The deputies behind him, in the wisdom
 Of fear, muttered: look at him; it is not enough to be master; the yoke
 
 Of being God as well. Two days later, the tenth of June,
-He brought the law of the twenty-second of *Prairial*: the accused
+He brought the law of the twenty-second of *{{x|Prairial}}*: the accused
 Would have no lawyer, no witnesses needed, the verdict soon,
 Death or acquittal, nothing between. The courts were used
 
 As a machine. In the seven weeks that followed, in {{p|Paris}} alone,
-More were guillotined than in the whole year before. The Great Terror.
+More were guillotined than in the whole year before. The {{x|Great Terror}}.
 The god of the festival, the god of the soul, the stone
-Of the guillotine on the square of the Revolution: the same error.
+Of the guillotine on the square of the {{x|Revolution}}: the same error.
 
-On the ninth of *Thermidor*, the twenty-seventh of July,
-The Convention turned on him, and shouted him down, and he was taken,
+On the ninth of *{{x|Thermidor}}*, the twenty-seventh of July,
+The {{x|Convention}} turned on him, and shouted him down, and he was taken,
 And shot in the jaw, by his own hand or a gendarme's, and the next day, the sky
 Of {{p|Paris}} over him, guillotined, with twenty-one of his men. Forsaken,
 
@@ -54325,7 +54325,7 @@ Akbar's divine faith asked to be loved, and died when he was dead;
 
 Robespierre's asked to be obeyed, and it had a guillotine.
 A religion founded from power is a festival with a scaffold behind it.
-Lifeism is a new faith too. Its founder has no army. The scene
+{{x|Lifeism}} is a new faith too. Its founder has no army. The scene
 Of its making is a book and a calendar and a website. Mind it:
 
 If ever this faith is held by a state, by a party, by any power to compel,
@@ -54342,14 +54342,14 @@ With the man who made it. The roses on the mountain. The knife.
 # Chapter 294: The Mountain Cherry
 
 In 712 a court lady's memory, or a court scholar's, was written down:
-The Kojiki, the *Record of Ancient Matters*, the oldest book of {{p|Japan}},
+The Kojiki, the *{{x|Record of Ancient Matters}}*, the oldest book of {{p|Japan}},
 The kami from the beginning, Izanagi and Izanami, the crown
 Of the Sun Goddess, the descent to {{p|Hyūga}}, the first emperor, the plan
 
 Of the land told as a family. And it was written in a script no one could easily read:
-Chinese characters used now for their sound, now for their sense,
+{{x|Chinese}} characters used now for their sound, now for their sense,
 A puzzle of a book. Within a few years the court had a newer creed:
-The Nihon Shoki, in proper Chinese, official, the dense
+The Nihon Shoki, in proper {{x|Chinese}}, official, the dense
 
 And dignified history; and the Kojiki was put on a shelf
 And mostly left there for a thousand years. Then, in {{p|Matsusaka}},
@@ -54366,20 +54366,20 @@ They never met again. They wrote letters. And the doctor began.
 For thirty-four years, while he treated the children of {{p|Matsusaka}}, he read through it,
 Every character, every sound, every name of every kami, the span
 
-Of the language reconstructed: how the old Japanese spoke, before the Chinese came.
-The *Kojiki-den*, the *Commentary on the Kojiki*, forty-four volumes, done
+Of the language reconstructed: how the old {{x|Japanese}} spoke, before the {{x|Chinese}} came.
+The *{{x|Kojiki-den}}*, the *{{x|Commentary on the Kojiki}}*, forty-four volumes, done
 In 1798. The oldest book of the land could be read again. The name
 Of every god was given back its sound. That is the gift, the one
 
 This book and its makers stand on: the record of the kami, opened.
-And he gave more: reading the *Tale of Genji*, he found the phrase
-*Mono no aware*: the ache of things, the sadness of the cherry petals that ended,
+And he gave more: reading the *{{x|Tale of Genji}}*, he found the phrase
+*{{x|Mono no aware}}*: the ache of things, the sadness of the cherry petals that ended,
 The heart moved by the passing of the world. The praise
 
 Of feeling over moral lesson. That is his too.
 And here is the other edge, which the spine of this book calls invented tradition.
-He taught that the Japanese heart had been corrupted by the Chinese mind, the *karagokoro*,
-And the Buddhist, and that the true way was the ancient one, the condition
+He taught that the {{x|Japanese}} heart had been corrupted by the {{x|Chinese}} mind, the *karagokoro*,
+And the {{x|Buddhist}}, and that the true way was the ancient one, the condition
 
 Of the land before the foreign: the way of the kami, pure and native, revealed in the Kojiki.
 That was a scholar's longing. In the next generation, Hirata Atsutane,
@@ -54388,17 +54388,17 @@ The emperor descended from the Sun, {{p|Japan}} the land of the gods, the cannon
 
 Of the nation pointing outward. And in the next century the state
 Would take the longing and make it law: the gods and the buddhas torn apart,
-State Shinto, the emperor divine, the schools, the war. The weight
+{{x|State Shinto}}, the emperor divine, the schools, the war. The weight
 Of that is not his. But the seed was in his heart.
 
-He wrote a poem: *If someone asks what the Japanese heart is,
+He wrote a poem: *If someone asks what the {{x|Japanese}} heart is,
 It is the mountain cherry blossoms, fragrant in the morning sun.*
 A lovely poem. In October 1944, the first units of the kamikaze, the quiz
-Of their names answered by it: *Shikishima*, *Yamato*, *Asahi*, *Yamazakura*. The young men, one by one,
+Of their names answered by it: *{{x|Shikishima}}*, *{{x|Yamato}}*, *{{x|Asahi}}*, *{{x|Yamazakura}}*. The young men, one by one,
 
 Named for the words of a doctor who had loved children.
 Hold that. This book is made by one who keeps the kami, and loves the old record,
-And founds a faith in the way of life, a kind of Shinto. The bewildering
+And founds a faith in the way of life, a kind of {{x|Shinto}}. The bewildering
 Lesson for her, and for every reader: the love of the ancient word
 
 Can be turned into a weapon by someone else, a century on.
@@ -54419,12 +54419,12 @@ The ache of things is for everyone. That is the only cure.
 
 # Chapter 295: The Crown He Took
 
-On Christmas Day in the year 800, in {{p|Saint Peter's}}, a pope set a crown on a kneeling king,
+On {{x|Christmas Day}} in the year 800, in {{p|Saint Peter's}}, a pope set a crown on a kneeling king,
 Charlemagne, who had not asked for it, and called him Emperor of the Romans,
-And for a thousand years the West had an emperor, a strange, weakening thing
-Of electors and princes and bishops, the Holy Roman Empire, which the poems
+And for a thousand years the {{p|West}} had an emperor, a strange, weakening thing
+Of electors and princes and bishops, the {{p|Holy Roman Empire}}, which the poems
 
-Of Voltaire mocked as neither holy, nor Roman, nor an empire.
+Of Voltaire mocked as neither holy, nor {{x|Roman}}, nor an empire.
 On the second of December, 1804, in {{p|Notre-Dame}} in {{p|Paris}},
 Pope Pius VII sat waiting to crown a Corsican, and the fire
 Of the moment: Napoleon took the crown in his own hands. The plurals
@@ -54434,17 +54434,17 @@ He crowned himself, and then he crowned Joséphine, kneeling, and the painter Da
 Put it on a canvas ten metres wide, and painted in his mother, who had stayed home, the grim
 Truth adjusted for the record, as records are. Two years later, the cavity
 
-Of the old empire was empty: the German princes, bribed and beaten, left it
-For his Confederation of the Rhine, and on the sixth of August, 1806,
+Of the old empire was empty: the {{x|German}} princes, bribed and beaten, left it
+For his {{p|Confederation of the Rhine}}, and on the sixth of August, 1806,
 The last emperor, Francis II, laid the crown of Charlemagne down, and the theft
-Of a thousand years was over. The Holy Roman Empire ended in a few lines. The bricks
+Of a thousand years was over. The {{p|Holy Roman Empire}} ended in a few lines. The bricks
 
 Of it had been crumbling for centuries; a soldier pushed it over.
 Now the register, which this book follows like a river.
-The Revolution had taken the books of births and marriages and deaths, the cover
+The {{x|Revolution}} had taken the books of births and marriages and deaths, the cover
 Of the parish, from the priests in 1792, and given them to the town hall, the giver
 
-Of the record now the state. Napoleon made it a code. The *Civil Code* of 1804,
+Of the record now the state. Napoleon made it a code. The *{{x|Civil Code}}* of 1804,
 One law for every Frenchman, written plain, the family, the property, the will,
 And wherever his armies went, the code went, and the registers, the door
 Of every birth opened by a clerk, not a priest: the {{p|Netherlands}}, the {{p|Rhineland}}, the {{p|Italy}} still
@@ -54452,11 +54452,11 @@ Of every birth opened by a clerk, not a priest: the {{p|Netherlands}}, the {{p|R
 Keeping those books. And the names. In the {{p|Netherlands}} many families had none:
 A man was *Jan Pieterszoon*, Peter's son, and his son *Pieter Janszoon*, the line
 Of the patronymic turning each generation, as in {{p|Sweden}}, as Linnaeus's father had done
-Before the linden. In 1811 the French decreed: every family shall register, by a sign
+Before the linden. In 1811 the {{x|French}} decreed: every family shall register, by a sign
 
-Of the town hall, a fixed surname. And the Dutch, who thought the French would be gone
+Of the town hall, a fixed surname. And the {{x|Dutch}}, who thought the {{x|French}} would be gone
 In a year, some of them, the story goes, chose jokes: *Naaktgeboren*, born naked;
-*Zondervan*, without a *van*; and the French stayed long enough, and the joke went on
+*Zondervan*, without a *van*; and the {{x|French}} stayed long enough, and the joke went on
 For two hundred years on the children. In {{p|France}} in 1808 the Jews, who had made
 
 Their names by father's name, were ordered to take fixed surnames too.
@@ -54484,7 +54484,7 @@ Writing the births, the marriages, the deaths, the surnames chosen in a hurry.
 That is his longest legacy: not the battles, the chains,
 The eagles, but the book in the mairie. The genealogist does not worry
 
-About the Emperor. She thanks him for the registers that begin in 1811 in a Dutch village,
+About the Emperor. She thanks him for the registers that begin in 1811 in a {{x|Dutch}} village,
 For a name chosen in a year that became a family. The joke
 That became a surname. The surname that became a lineage. The pillage
 Of an empire, and a clerk with a pen. Hold both, in the smoke.
@@ -54493,13 +54493,13 @@ Of an empire, and a clerk with a pen. Hold both, in the smoke.
 # Chapter 296: The Compilers
 
 Two brothers in {{p|Kassel}}, Jacob and Wilhelm Grimm, poor after their father died,
-Librarians and scholars of old German law and poetry, believed, like everyone
+Librarians and scholars of old {{x|German}} law and poetry, believed, like everyone
 After Ossian, that the true voice of a people was in the country, the pride
 Of the folk, in the old tales the old women told by the fire. The sun
 
 Of the age was nations, and the {{p|Germany}} that did not yet exist as a state
 Would exist, they hoped, as a people with a memory. In 1812, the year Napoleon marched east,
-They published the first volume: *Children's and Household Tales*: the weight
+They published the first volume: *{{x|Children's and Household Tales}}*: the weight
 Of eighty-six stories, the frog king, the girl in the tower, the feast
 
 Of the gingerbread house. And the second in 1815, and edition after edition,
@@ -54507,29 +54507,29 @@ Seven in their lifetime, two hundred and ten tales by the last. And the truth of
 Which they did not hide, but which the legend would: the old wives' tradition
 Came, as often as not, from educated young women of the town, whose courses
 
-Of reading had included the French tales of Perrault: the Hassenpflug sisters,
-Of a family of French Huguenot refugees; the Wild daughters, one of whom, Dortchen,
+Of reading had included the {{x|French}} tales of Perrault: the Hassenpflug sisters,
+Of a family of {{x|French}} Huguenot refugees; the Wild daughters, one of whom, Dortchen,
 Wilhelm would marry; and the best of their tellers, Dorothea Viehmann, a tailor's widow, the sister
-Of the folk in the legend, the peasant voice of the book, was of French Huguenot descent too. The torch
+Of the folk in the legend, the peasant voice of the book, was of {{x|French}} Huguenot descent too. The torch
 
-Of the German folk was lit, in part, from the French. And Wilhelm, edition by edition,
-Smoothed the stories, made them more Christian, more proper, more fit for children:
+Of the {{x|German}} folk was lit, in part, from the {{x|French}}. And Wilhelm, edition by edition,
+Smoothed the stories, made them more {{x|Christian}}, more proper, more fit for children:
 In the first edition it is Snow White's own mother who wants her dead, the condition
 Of Hansel and Gretel's mother the same: in later ones, a stepmother. The bewildering
 
 Kindness of the editor: a mother could not be that cruel, so he made her a step-.
 Hold that. A tradition shaped by the hand that loved it. And Jacob found
 The rules of how the sounds of the old tongues had shifted, the step
-Of *p* to *f*, *t* to *th*, from Latin *pater* to *father*, the ground
+Of *p* to *f*, *t* to *th*, from {{x|Latin}} *pater* to *father*, the ground
 
 Of William Jones's family tree given its laws: Grimm's law, in 1822.
-The brothers began a dictionary of the whole German language in 1838,
+The brothers began a dictionary of the whole {{x|German}} language in 1838,
 And died before the letter F was finished. It was completed in 1961. The few
 Who began it were long dead. That is how the great registers wait.
 
 And north, in {{p|Finland}}, which {{p|Sweden}} had lost to {{p|Russia}} in 1809,
-A Grand Duchy now under the Tsar, with Swedish its language of learning,
-And Finnish the tongue of farmers, a country doctor, Elias Lönnrot, the line
+A {{p|Grand Duchy}} now under the Tsar, with {{x|Swedish}} its language of learning,
+And {{x|Finnish}} the tongue of farmers, a country doctor, Elias Lönnrot, the line
 Of his district reaching to the border, went walking, the yearning
 
 Of the age in him too: to find the old songs. In the forests of {{p|Karelia}},
@@ -54543,22 +54543,22 @@ And then he did what Macpherson did not do: he said what he did. The plan
 Was his: he arranged the songs into one story, joined the separate frame
 
 Of the poems with lines of his own where they needed joining, and called it
-The *Kalevala*, in 1835, and the larger one in 1849,
+The *{{x|Kalevala}}*, in 1835, and the larger one in 1849,
 And said in his preface that he had compiled it, and how. The singers who had sung it
 Were real; their names were kept; their songs survive in the archive, line by line,
 
 And anyone can compare the epic with the field notes and see the seams.
 That is the honest compiler. And the book made a nation: the Finns had an epic,
 A past, a language worthy of literature; and Sibelius set its dreams
-To music, and a young Oxford philologist, Tolkien, read the tragic
+To music, and a young {{p|Oxford}} philologist, Tolkien, read the tragic
 
 Tale of Kullervo, and began to make a mythology of his own.
-Finland's culture day is the twenty-eighth of February, the day of the preface.
+{{p|Finland}}'s culture day is the twenty-eighth of February, the day of the preface.
 Now the mirror. This book is a compiled epic too, from the bone
-Of every tradition: Greek, Chinese, Japanese, Hebrew, Norse, the surface
+Of every tradition: {{x|Greek}}, {{x|Chinese}}, {{x|Japanese}}, {{x|Hebrew}}, {{x|Norse}}, the surface
 
 And the depth of the world's old stories, arranged into one family.
-The Gaiad's way must be Lönnrot's, not Macpherson's, nor even the Grimms' soft hand:
+The {{x|Gaiad}}'s way must be Lönnrot's, not Macpherson's, nor even the Grimms' soft hand:
 Keep the sources. Name the singers. Show the seams. And when the editor's family
 Feeling wants to make the cruel mother a stepmother, understand
 
@@ -54573,7 +54573,7 @@ Of grain and salt and gold. A good compilation is a Sampo. Keep it turning.
 On the island of {{p|Philae}}, in the {{p|Nile}} near {{p|Aswan}}, on the twenty-fourth of August, 394,
 A priest named Esmet-Akhom cut a figure of a god into the temple wall,
 And beside it a few lines in the sacred signs. They are the last. No more
-Hieroglyphs were ever written by anyone who could read them. The fall
+{{x|Hieroglyphs}} were ever written by anyone who could read them. The fall
 
 Of the oldest writing on earth was silent. The temples were closed, the priests died,
 And for fourteen hundred years no one living could read a word
@@ -54582,25 +54582,25 @@ Of the pharaohs, the hymns to the gods. The scholars of {{p|Europe}} inferred
 
 That the signs were symbols of a hidden wisdom, not a language:
 An owl meant this mystery, a reed meant that. They were wrong for centuries.
-Then Napoleon's army, in 1799, at {{p|Rashid}}, which the French called {{p|Rosetta}}, the anguish
+Then Napoleon's army, in 1799, at {{p|Rashid}}, which the {{x|French}} called {{p|Rosetta}}, the anguish
 Of a fort being rebuilt, the soldiers' spades, the entries
 
 Of history: a slab of dark granodiorite in the wall, with three scripts on it:
-Hieroglyphs at the top; the later Egyptian cursive, Demotic, in the middle;
-Greek at the bottom. A decree of the priests of {{p|Memphis}}, 196 BC, for the young king, the fit
-Of the Ptolemies' praise. And the Greek could be read. The riddle
+{{x|Hieroglyphs}} at the top; the later {{x|Egyptian}} cursive, Demotic, in the middle;
+{{x|Greek}} at the bottom. A decree of the priests of {{p|Memphis}}, 196 BC, for the young king, the fit
+Of the Ptolemies' praise. And the {{x|Greek}} could be read. The riddle
 
-Was handed over in its own key. The British took the stone in 1801,
-When the French surrendered in {{p|Egypt}}, and it went to {{p|London}}, to the British Museum,
+Was handed over in its own key. The {{x|British}} took the stone in 1801,
+When the {{x|French}} surrendered in {{p|Egypt}}, and it went to {{p|London}}, to the {{x|British Museum}},
 Where it is still, and where {{p|Egypt}} has asked for it back. The sun
 Of that question has not set. Hold it. And the race to read it: a museum
 
-Is not a mind. An English physician, Thomas Young, who also proved light was a wave,
+Is not a mind. An {{x|English}} physician, Thomas Young, who also proved light was a wave,
 Saw that the oval rings, the cartouches, held kings' names, and read *Ptolemy*.
 And a young Frenchman from {{p|Figeac}}, Jean-François Champollion, who gave
 His whole life to it from boyhood, had learned Coptic: the tongue, the homily
 
-Of the Egyptian Christians, still sung in their churches, written in Greek letters,
+Of the {{x|Egyptian}} Christians, still sung in their churches, written in {{x|Greek}} letters,
 The last living descendant of the language of the pharaohs. He was sure
 The hieroglyphs would speak Coptic, if he could unlock the fetters.
 And on the fourteenth of September, 1822, with copies, the pure
@@ -54628,11 +54628,11 @@ In its smaller way: it reads the names of the dead from the frames
 Of the registers, and says them aloud on their days. And here is the thread
 That runs through this book's own calendar: the days of Horus,
 In the years that have them, outside the months; the first five are named for the gods who were said
-To have been born on the five days added to the Egyptian year: Osiris,
+To have been born on the five days added to the {{x|Egyptian}} year: Osiris,
 
 Horus, Set, Isis, Nephthys. We know those names, and their days,
 Because a young man learned a church language from monks and old books, and read a stone.
-Every time a Gaian year ends with the days of Horus, the praise
+Every time a {{x|Gaian}} year ends with the days of Horus, the praise
 Goes also to Champollion, and to Esmet-Akhom, alone
 
 On {{p|Philae}}, carving the last line, not knowing it was the last.
@@ -54680,13 +54680,13 @@ And ordered thing. It made it something rather
 
 Stranger. She met Babbage at seventeen, at one of his parties,
 And saw the small working piece of the Difference Engine, and understood it.
-In 1842 an Italian engineer, Menabrea, wrote an article, the parties
+In 1842 an {{x|Italian}} engineer, Menabrea, wrote an article, the parties
 Of whose argument described the Analytical Engine, and Ada, who could do it,
 
-Translated it into English, and added her own notes, three times as long
+Translated it into {{x|English}}, and added her own notes, three times as long
 As the article. Countess of Lovelace now, she signed them only *A.A.L.*
-And in the last note, Note G, she wrote out, step by step, the song
-Of operations by which the engine could compute the Bernoulli numbers: a spell
+And in the last note, {{x|Note G}}, she wrote out, step by step, the song
+Of operations by which the engine could compute the {{x|Bernoulli}} numbers: a spell
 
 Of cards, a loop, a sequence: the first published program for a machine.
 And she saw further than Babbage: that the engine could act on anything
@@ -54718,7 +54718,7 @@ She died in 1852, at thirty-six, the age her father died,
 And asked to be buried beside him, the poet she had never known. The thread
 Of poetry and number in one grave. Babbage, with his pride
 
-And his engines unbuilt, died in 1871. In 1991 the Science Museum in {{p|London}}
+And his engines unbuilt, died in 1871. In 1991 the {{x|Science Museum}} in {{p|London}}
 Built his second Difference Engine from his drawings, with the tools of his day,
 And turned the crank, and it worked: the answer to thirty-one digits. The one
 Thing he could not do, others did, a hundred and fifty years away.
@@ -54763,7 +54763,7 @@ Of thousands of the Bábís killed fell on {{p|Persia}}. The strike
 
 Of the state was total. And one of the Báb's followers, a nobleman
 Of {{p|Nur}}, in {{p|Mazandaran}}, the old {{p|Tabaristan}} of Qarin's line,
-Mírzá Husayn-Alí, was thrown in 1852 into the Black Pit of {{p|Tehran}}, the dungeon, the plan
+Mírzá Husayn-Alí, was thrown in 1852 into the {{p|Black Pit}} of {{p|Tehran}}, the dungeon, the plan
 Of the jailers to let them die in the dark and the filth, the chains, the sign
 
 Of a hundred pounds of iron on his neck. And there, he would write,
@@ -54793,7 +54793,7 @@ Organised to outlive its founders. And a calendar: the year a span
 
 Of nineteen months of nineteen days, and a few days left over, set apart
 For gifts and hospitality, before the fast. Every faith that lasts
-Remakes time. The Gaian calendar has its days of Horus too, the heart
+Remakes time. The {{x|Gaian}} calendar has its days of Horus too, the heart
 Of the year outside the months. These are cousins. The casts
 
 Of the new religions of unification are alike. Learn from the Baháʼís:
@@ -54803,7 +54803,7 @@ Of it are still being paid: in {{p|Iran}} today Baháʼís are denied education,
 
 Imprisoned, their cemeteries bulldozed, for the faith of the Gate and the Glory.
 Honour the merchant of {{p|Shiraz}}. Honour the unveiled poet. Honour the prisoner of {{p|Akka}}.
-Lifeism is a younger sister in this story. Tell it gently. The hoary
+{{x|Lifeism}} is a younger sister in this story. Tell it gently. The hoary
 Old lands keep killing the ones who say the world is one. Keep saying it. Do not falter.
 
 
@@ -54811,12 +54811,12 @@ Old lands keep killing the ones who say the world is one. Keep saying it. Do not
 
 A Hakka boy from a village near {{p|Guangzhou}}, Hong Xiuquan, born in 1814,
 Clever, poor, the hope of his family, sat the imperial examinations, the road
-To office for any Chinese man, and failed. And failed again. The routine
+To office for any {{x|Chinese}} man, and failed. And failed again. The routine
 Of the examination halls in {{p|Guangzhou}}, the thousands of cells, the load
 
 Of the eight-legged essay, the classics by heart. In 1836, on the street outside,
-A man handed him a Christian tract, *Good Words to Admonish the Age*,
-Written by a Chinese convert, Liang Fa, and he put it aside.
+A man handed him a {{x|Christian}} tract, *{{x|Good Words to Admonish the Age}}*,
+Written by a {{x|Chinese}} convert, Liang Fa, and he put it aside.
 In 1837 he failed a third time, and fell sick, and in the rage
 
 Of a fever for forty days he saw visions: he was carried up to heaven,
@@ -54832,16 +54832,16 @@ Of his whole life was set on fire by a misreading of a pamphlet. The sun
 Of a new faith rose. He and a friend, Feng Yunshan, preached in the hills of {{p|Guangxi}},
 To the poor, the Hakka, the miners, the charcoal-burners, the hungry,
 And the God Worshippers grew to thousands, smashing idols, the plea
-Of the poor in a land of famine and opium and the Manchu, the angry
+Of the poor in a land of famine and opium and the {{x|Manchu}}, the angry
 
-Memory of the Ming in the south. In January 1851, at {{p|Jintian}},
-They rose, and named it the Heavenly Kingdom of Great Peace, *Taiping Tianguo*,
+Memory of the {{x|Ming}} in the south. In January 1851, at {{p|Jintian}},
+They rose, and named it the Heavenly Kingdom of Great Peace, *{{x|Taiping Tianguo}}*,
 And Hong the Heavenly King. They grew their hair long, all of it, the men
-Who had worn the Manchu queue for two centuries cutting no hair now, the glow
+Who had worn the {{x|Manchu}} queue for two centuries cutting no hair now, the glow
 
 Of a rebellion written on the body, as the conquest had been.
 They marched north, and in 1853 took {{p|Nanjing}}, the old southern capital, and made it
-The Heavenly Capital, and held it for eleven years. And the scene
+The {{p|Heavenly Capital}}, and held it for eleven years. And the scene
 Inside: laws stranger and better than the empire's: they forbade it,
 
 Footbinding; forbade opium, and gambling, and concubines, at least for the common people;
@@ -54855,21 +54855,21 @@ And so commanded even Hong. In 1856 the Heavenly King, the thing
 Of jealousy and fear grown huge, had Yang killed, and thousands with him, the shelf
 
 Of the kingdom split in a massacre in its own capital. And outside,
-The empire came back: the scholar-general Zeng Guofan, a Confucian of {{p|Hunan}},
+The empire came back: the scholar-general Zeng Guofan, a {{x|Confucian}} of {{p|Hunan}},
 Raised an army of his own province, and the foreigners, who had at first eyed
-The Christian rebels with hope, saw they would not trade opium, and the plan
+The {{x|Christian}} rebels with hope, saw they would not trade opium, and the plan
 
-Of the British and French was to keep the Qing: an army of mercenaries,
-The Ever-Victorious, led by an American, then a British officer, Gordon, fought for the throne.
+Of the {{x|British}} and {{x|French}} was to keep the {{x|Qing}}: an army of mercenaries,
+The {{x|Ever-Victorious}}, led by an {{x|American}}, then a {{x|British}} officer, Gordon, fought for the throne.
 And the land between was eaten: the dead were counted not in hundreds, the burials
 Not in thousands, but in tens of millions: twenty, perhaps thirty million, gone,
 
-In fourteen years, more than the First World War, by famine and plague and the sword:
+In fourteen years, more than the {{x|First World War}}, by famine and plague and the sword:
 One of the deadliest wars in all the human story.
 In 1864, as {{p|Nanjing}} starved, Hong told his people to eat the manna the Lord
 Would send, and ate weeds himself, and died in June. The glory
 
-Of the Heavenly Capital fell in July, and the slaughter went on in its streets.
+Of the {{p|Heavenly Capital}} fell in July, and the slaughter went on in its streets.
 Hold this, beside the Gate and the Glory of the last chapter.
 A new revelation, a vision of one God and the brotherhood of all, the feats
 Of reform, women officers, land to the poor, the rapture
@@ -54877,7 +54877,7 @@ Of reform, women officers, land to the poor, the rapture
 Of a people's hope; and a man who believed he was the brother of Christ,
 And a war of thirty million dead. What made the difference?
 Not the vision. The sword. Baháʼu'lláh was imprisoned and wrote to kings; the priced
-And bloody road of the Heavenly Kingdom was conquest. The inference
+And bloody road of the {{x|Heavenly Kingdom}} was conquest. The inference
 
 For any new faith, and for this one: if your revelation needs an army, it is not yours.
 And the founder in fever, the misread tract: be careful what you hand
@@ -54898,27 +54898,27 @@ Would not deal with minor officials, carried a letter from his president, the me
 And iron courtesy of guns, and said: I will come back for the answer. He went,
 
 And came back in February with nine ships, and the shogun's men,
-Who had watched the Qing lose their wars with the British, knew
+Who had watched the Qing lose their wars with the {{x|British}}, knew
 What the guns meant. On the thirty-first of March, 1854, at {{p|Kanagawa}}, the pen
-Of the treaty opened two ports, {{p|Shimoda}} and {{p|Hakodate}}, to American ships, the true
+Of the treaty opened two ports, {{p|Shimoda}} and {{p|Hakodate}}, to {{x|American}} ships, the true
 
-End of the Tokugawa world beginning. Perry gave gifts: a little steam train,
+End of the {{x|Tokugawa}} world beginning. Perry gave gifts: a little steam train,
 On a circle of track, that the samurai rode, sitting on its roof, their robes in the wind;
-A telegraph; and the Japanese gave silk and lacquer, and sumo wrestlers, the strain
+A telegraph; and the {{x|Japanese}} gave silk and lacquer, and sumo wrestlers, the strain
 Of their strength carrying rice bales, to show what the land could do. And the pinned
 
-Hope of a young samurai, Yoshida Shōin, who rowed out to the American flagship
+Hope of a young samurai, Yoshida Shōin, who rowed out to the {{x|American}} flagship
 At night in {{p|Shimoda}} to beg to be taken to {{p|America}} to learn:
 They sent him back. He was jailed, and taught from his prison, and the grip
 Of his students would make the new {{p|Japan}}; and he was executed, in turn,
 
 In 1859, at twenty-nine. Within fifteen years the shogunate was gone.
 That is the history. This is the day of the dead. Hold this:
-At {{p|Shimoda}}, at the temple of {{p|Gyokusen-ji}}, a Buddhist temple, the dawn
-Of the opening brought death too: American sailors who died of illness, the abyss
+At {{p|Shimoda}}, at the temple of {{p|Gyokusen-ji}}, a {{x|Buddhist}} temple, the dawn
+Of the opening brought death too: {{x|American}} sailors who died of illness, the abyss
 
 Of a foreign shore, were buried in the temple's ground in 1854.
-And the next winter, a Russian frigate, the *Diana*, come to make a treaty too,
+And the next winter, a {{x|Russian}} frigate, the *{{x|Diana}}*, come to make a treaty too,
 Was wrecked by the tsunami of the great earthquake, and more
 Strangers' graves were dug at {{p|Gyokusen-ji}}. And the monks, who knew
 
@@ -54927,7 +54927,7 @@ They keep them still. Every year the monks of {{p|Shimoda}} tend the graves
 Of sailors from the other side of the world, the hem
 Of the opening of {{p|Japan}}, the ones the black ships brought who were not saved.
 
-That is the Eve of Ancestors: a temple keeping the dead of strangers
+That is the {{x|Eve of Ancestors}}: a temple keeping the dead of strangers
 As its own. The opening of {{p|Japan}} was guns and treaties and a world
 Forced open. And it was also this: the monks who saw the dangers
 Of the foreigners, and buried their dead, and kept the stones, and the curled
@@ -54938,7 +54938,7 @@ Keep the strangers' dead too. Not only your own. The few
 Who die far from home are someone's ancestors. Let them in.
 
 And the opening opened other things: twelve years later, at {{p|Ōura}},
-The hidden Christians came to the French priest and said, our hearts are the same as yours.
+The hidden Christians came to the {{x|French}} priest and said, our hearts are the same as yours.
 Without the black ships, no church at {{p|Nagasaki}}, no woman whispering, no Santa Maria
 Found. The forced door and the kept faith. The guns, and the doors
 
@@ -54947,7 +54947,7 @@ Tonight, set a light for the ones buried far from their homes,
 The sailors at {{p|Shimoda}}, the soldiers in every foreign field, the beckoning
 Of the dead who have no one there. The temple bell. The monk who combs
 
-The moss from a Russian sailor's stone. Be that monk.
+The moss from a {{x|Russian}} sailor's stone. Be that monk.
 Keep the dead who are not yours. They are yours. The black ships came. The country opened.
 The world is one family, and the strangers' graves are the trunk
 Of the tree too. Light the lamp. Say their names, if they are known. And if not, say: beloved.
@@ -54956,7 +54956,7 @@ Of the tree too. Light the lamp. Say their names, if they are known. And if not,
 # Chapter 302: Endless Forms
 
 On the twenty-fourth of November, 1859, in {{p|London}},
-A green book left John Murray's house in Albemarle Street.
+A green book left John Murray's house in {{p|Albemarle Street}}.
 Charles Darwin was not in the shop. He was at {{p|Downe}}, in {{p|Kent}},
 Waiting on word. Twelve hundred and fifty copies. The trade
 
@@ -54965,10 +54965,10 @@ Coming to the sentence. In July of 1837, in a notebook,
 He drew a branching figure and wrote above it, *I think*.
 He had sailed from {{p|Plymouth}} on the twenty-seventh of December, 1831,
 
-On the *Beagle*, under Robert FitzRoy, and for five years
+On the *{{x|Beagle}}*, under Robert FitzRoy, and for five years
 Collected a coast, a war, a forest, and the islands.
 He did not, on the black rock of the {{p|Galápagos}}, already know.
-He labelled what he could. The *Beagle* brought him home
+He labelled what he could. The *{{x|Beagle}}* brought him home
 
 On the second of October, 1836. Then John Gould, in {{p|London}},
 Told him the birds were not what the labels had said.
@@ -54981,7 +54981,7 @@ On the twenty-eighth of June, 1858, Charles Waring Darwin,
 A baby, died of scarlet fever. Charles Darwin did not go,
 
 Three days later, to the room in {{p|London}} where two papers
-Were read to the Linnean Society, and the room did not
+Were read to the {{x|Linnean Society}}, and the room did not
 Know what it had heard. He stayed with the fresh grave.
 The papers were his, and Alfred Russel Wallace's. Wallace
 
@@ -55030,7 +55030,7 @@ In 1859 the account was printed of how the living
 Are the dead, carried forward, changed, and still their children.
 Not a call to found a church. A natural history of descent.
 
-The Gaiad is young. The book is older than this calendar.
+The {{x|Gaiad}} is young. The book is older than this calendar.
 The hill at {{p|Downe}} is older than the book.
 The dead are older than the hill.
 What the book gives this scripture is the ground under it:
@@ -55074,7 +55074,7 @@ Under for a generation, and return whole, not mixed into a blur.
 
 He said it in {{p|Brno}} on the eighth of February, 1865,
 And again on the eighth of March, to the naturalists' society.
-The next year they printed it: *Experiments on Plant Hybrids*.
+The next year they printed it: *{{x|Experiments on Plant Hybrids}}*.
 He sent the paper out. The century did not take the variety
 
 Of what he had counted. He wrote to Carl Nägeli, and Nägeli
@@ -55102,9 +55102,9 @@ Men of science, the names a nation keeps because they are known.
 The eminent had eminent kin, past what chance would hand us.
 So, he said, ability is inherited, and a people is grown
 
-By which of its stocks it lets continue. *Hereditary Genius*,
-Macmillan, 1869. He did not yet say eugenics.
-That word is his, in 1883, from the Greek for well-born,
+By which of its stocks it lets continue. *{{x|Hereditary Genius}}*,
+{{x|Macmillan}}, 1869. He did not yet say eugenics.
+That word is his, in 1883, from the {{x|Greek}} for well-born,
 A name for arranging births. The earlier book already has the premises:
 
 Let the eminent marry young. Discourage the rest.
@@ -55168,7 +55168,7 @@ He had meant a council of the domains, and himself in it.
 On the third of January, 1868, the court declared something else:
 
 The restoration of imperial rule. The emperor was fifteen.
-The era was still Keiō. The name Meiji came in October.
+The era was still {{x|Keiō}}. The name {{x|Meiji}} came in October.
 The war followed the paper. The paper is the part this day keeps,
 Because the paper reached the gods before the year was out.
 
@@ -55179,12 +55179,12 @@ A new government, speaking in the form of an old oath.
 
 That spring a section for the rites was opened.
 In June the old name returned.
-The Department of Divinities. The Jingikan,
+The {{x|Department of Divinities}}. The {{x|Jingikan}},
 Set under the council. The height was not yet given.
 
 In the ancient law it had stood over the other offices.
 Unity of rites and government, the slogan they printed.
-The halls of that department had burned in the Ōnin War.
+The halls of that department had burned in the {{x|Ōnin War}}.
 For centuries it had been a name with no one in the room.
 
 They meant that name for every shrine in the country.
@@ -55197,7 +55197,7 @@ Were to put off the robe or leave the shrine.
 A buddha's word was taken off a kami's name.
 
 Gongen, the buddha appearing as the god, was not to be said.
-A Buddhist image was not to be the body of the kami.
+A {{x|Buddhist}} image was not to be the body of the kami.
 At {{p|Usa}} and at {{p|Iwashimizu}}, Hachiman
 Had been a great bodhisattva. He was to be the great divinity,
 
@@ -55218,7 +55218,7 @@ And a kami had answered to a buddha's title,
 And the priest who knew the sutra knew the norito.
 That was not a stain on a pure older thing.
 It was how the religion had been lived.
-Even {{p|Ise}} had kept Buddhist halls.
+Even {{p|Ise}} had kept {{x|Buddhist}} halls.
 
 The place used as the origin was not unmixed.
 To separate it was to manufacture an origin
@@ -55240,7 +55240,7 @@ The buddha in the shrine was an ancestor of the practice.
 Taking the name off does not take the centuries out of the wood.
 In 1871 the high department was lowered to a ministry.
 
-In 1872 that ministry was closed into a Ministry of Doctrine,
+In 1872 that ministry was closed into a {{x|Ministry of Doctrine}},
 Which sent out teachers of the kami and teachers of the buddha
 To instruct the people in one program.
 The fusion was not given back. The smashed things stayed smashed.
@@ -55263,7 +55263,7 @@ And the names were true to the people who said them.
 A restoration that begins by forbidding
 A thousand years of speech is not a return.
 It is a new religion, with a date and an old letterhead.
-The letterhead was the Department of Divinities.
+The letterhead was the {{x|Department of Divinities}}.
 The parting was that spring. The name returned in June.
 The paper set the office highest in August of 1869.
 
@@ -55271,12 +55271,12 @@ The paper set the office highest in August of 1869.
 # Chapter 305: By Physical Processes
 
 In October of 1874 a colonel went up-country to watch the dead.
-Henry Steel Olcott, a lawyer who had worn a Union coat, sat down
+Henry Steel Olcott, a lawyer who had worn a {{x|Union}} coat, sat down
 In the Eddy brothers' farmhouse at {{p|Chittenden}} and wrote what the mediums said,
 And in that house he met Helena Blavatsky, more than a year in the country,
 
-A Russian come to the same séances. Neither of them held an office yet.
-The season around them was the American season of the talking dead,
+A {{x|Russian}} come to the same séances. Neither of them held an office yet.
+The season around them was the {{x|American}} season of the talking dead,
 And what they carried out of that farmhouse was not a creed they could set
 Over an altar. It was a person, met, and a question the cabinets left unsaid.
 
@@ -55300,8 +55300,8 @@ The sheet they printed dated the organization on that thirtieth of October.
 Henry Steel Olcott corrected it later. The bylaws were the business done there.
 The society stood when he gave his inaugural, and the date he recovered
 
-Is the seventeenth of November, at the Mott Memorial Hall, in {{p|New York}}.
-Number 64, Madison Avenue. He was president. She was not. Her office
+Is the seventeenth of November, at the {{p|Mott Memorial Hall}}, in {{p|New York}}.
+Number 64, {{p|Madison Avenue}}. He was president. She was not. Her office
 Was corresponding secretary. Judge, who had kept the first minutes, was counsel. The work
 Of vice-president went to Felt and to Seth Pancoast, a doctor. Count
 
@@ -55311,7 +55311,7 @@ And at the laws behind the phenomena. Not a pilgrimage. Not a territory.
 A club in a hired hall, with a preamble and a list of offices.
 
 The want was larger than the officers. They wanted one study that could hold
-The old religions side by side, the texts of the East and the texts of the West,
+The old religions side by side, the texts of the {{p|East}} and the texts of the {{p|West}},
 Read together, and not a mission sent to clear the other from the fold.
 That longing is real. It is the longing a mixed altar answers.
 
@@ -55321,18 +55321,18 @@ A sutra and a psalm can be read by one person. The ancestors do not perish
 Because a second book is open. Comparison is a form of care, when the readers
 
 Leave each thing its own name. What the society became is a later text.
-In 1877 she published *Isis Unveiled*, two volumes, tradition set against tradition.
+In 1877 she published *{{x|Isis Unveiled}}*, two volumes, tradition set against tradition.
 In May of 1878 a circular carried the longing and a harder charge:
-Teach the West the Eastern philosophies, and oppose dogmatic theology,
+Teach the {{p|West}} the {{x|Eastern}} philosophies, and oppose dogmatic theology,
 
-The Christian in particular, which the circular called pernicious. Brotherhood
+The {{x|Christian}} in particular, which the circular called pernicious. Brotherhood
 Stood in the same paragraphs. So did a new habit of correction. The three
 Objects people quote now — a nucleus of brotherhood, the religions understood
 By comparison, the powers latent in a person — were drafted, and drafted again. They
 
 Are not the bylaws of that November. Do not stamp the later wording
 With the parlor's date. In February of 1879 they landed at {{p|Mumbai}}.
-The headquarters they made after that was at Adyar, in {{p|Chennai}}. The recording
+The headquarters they made after that was at {{p|Adyar}}, in {{p|Chennai}}. The recording
 That belongs to this day is earlier and smaller: a hall, a speech, a secretary.
 
 She would say, in the years that followed, that masters elsewhere held the teaching
@@ -55350,7 +55350,7 @@ They had been prayed in for centuries by people who never elected a board.
 A norito is not a preface. A sutra is not a note the secretary took.
 Set them side by side. Do not swallow them into one explained word.
 
-Keep the reading. Refuse the ownership. East and West in one attention
+Keep the reading. Refuse the ownership. {{p|East}} and {{p|West}} in one attention
 Is a house that can be built without a claim to have invented the ground.
 If you look for the proportion, look, and show the process, and mention
 The witnesses. The preamble gave the method. It did not give a crown.
@@ -55363,7 +55363,7 @@ Of the striving is in the wisdom. The limit is in the processes. They are for al
 
 # Chapter 306: Who Names the Good
 
-In July of 1887, at {{p|Sils Maria}}, in the Upper Engadine,
+In July of 1887, at {{p|Sils Maria}}, in the {{p|Upper Engadine}},
 Friedrich Nietzsche wrote a polemic.
 He dated the preface there, that month.
 He said later that between the tenth and the thirtieth
@@ -55371,7 +55371,7 @@ The thing was decided, written, and sent to the press.
 
 On the seventeenth of July the manuscript went to {{p|Leipzig}},
 To Constantin Georg Naumann, who had printed, the year before,
-*Beyond Good and Evil*, at the author's cost.
+*{{x|Beyond Good and Evil}}*, at the author's cost.
 Print this one the same, he asked. The same type. The same paper.
 So the new book would stand as the old book's continuation.
 The reverse of the title page says it: added, to supplement and to clarify.
@@ -55406,10 +55406,10 @@ Pointing is not the method. It is the thing the method is for catching.
 A party has defined itself as the harmed, and the other party as the harm.
 
 He offers histories of words on the way.
-One of them makes the Latin for bad mean dark.
+One of them makes the {{x|Latin}} for bad mean dark.
 That one does not hold.
-The German in the second essay does.
-Schuld is guilt, and Schuld is a debt.
+The {{x|German}} in the second essay does.
+{{x|Schuld}} is guilt, and {{x|Schuld}} is a debt.
 A thing owed to a conscience began, he says, as a sum owed,
 And the bad conscience is cruelty with no street left to spend itself in,
 Turned inward on the person who may no longer be cruel outside.
@@ -55467,8 +55467,8 @@ Count the naming. Refuse the rank.
 
 Herman Hollerith was born in {{p|Buffalo}}
 On the twenty-ninth of February, 1860.
-His parents had come from Germany.
-In 1879 he left Columbia's School of Mines
+His parents had come from {{p|Germany}}.
+In 1879 he left {{p|Columbia}}'s {{x|School of Mines}}
 And went, under his teacher William P. Trowbridge,
 Onto the census of 1880.
 
@@ -55485,7 +55485,7 @@ In 1887 he ran a machine on the health records
 Of {{p|Baltimore}}, and of {{p|New Jersey}}.
 Deaths, before the living of the next census.
 
-In 1888 the Census Office held a contest.
+In 1888 the {{x|Census Office}} held a contest.
 Four areas of {{p|St. Louis}}, taken out of the 1880 returns.
 Capture them. Then sort them.
 The fastest system would tabulate 1890.
@@ -55505,7 +55505,7 @@ The census of 1890 was taken as of the first of June.
 The first was a Sunday, so the enumerators went out on the second.
 Robert P. Porter was superintendent.
 The office was not yet a bureau.
-It was a temporary office in the Department of the Interior.
+It was a temporary office in the {{x|Department of the Interior}}.
 Each family had its own sheet.
 No other census of this country gave the general count
 One sheet to a family.
@@ -55531,7 +55531,7 @@ And a hole opened where the template had a category.
 The schedule asked the enumerator for a race,
 And the words it gave were these:
 White, black, mulatto, quadroon, octoroon,
-Chinese, Japanese, or Indian.
+{{x|Chinese}}, {{x|Japanese}}, or {{x|Indian}}.
 Any one of those words could be a hole.
 
 The reader was two plates and a lever.
@@ -55558,8 +55558,8 @@ The increase was twenty-five and a half in the hundred.
 Twenty-five volumes were published out of the tally.
 The six weeks were not the end of the office.
 Porter resigned on the thirty-first of July, 1893.
-An act of the second of March, 1895, closed the Census Office,
-And the work still unfinished went on under the Interior
+An act of the second of March, 1895, closed the {{x|Census Office}},
+And the work still unfinished went on under the {{x|Interior}}
 Until the first of July, 1897.
 
 The machine had shortened a labor
@@ -55572,7 +55572,7 @@ The circuit did what the columns of marks could not finish.
 Do not let the dial become the person.
 
 On the tenth of January, 1921, a fire began
-In the basement of the Commerce Building, in {{p|Washington}}.
+In the basement of the {{p|Commerce Building}}, in {{p|Washington}}.
 The population schedules of 1890 were outside the vault,
 Stacked on shelves in the path of the burning.
 Samuel Lyle Rogers, director of the census,
@@ -55580,11 +55580,11 @@ Reported the next morning that about a quarter were destroyed,
 And about half of what remained was damaged
 By water, by smoke, and by fire.
 On the twenty-first of February, 1933,
-Congress authorized destruction of the spoiled remainder.
+{{x|Congress}} authorized destruction of the spoiled remainder.
 By 1935 that remainder was gone.
 Of the general schedules, 6,160 names remain.
 
-The special schedules of Union veterans, and of their widows,
+The special schedules of {{x|Union}} veterans, and of their widows,
 Came through another way.
 About seventy-five thousand of those sheets survived.
 The soldiers were kept.
@@ -55610,19 +55610,19 @@ On the eleventh of September, 1893, in {{p|Chicago}},
 A bell was struck ten times.
 The organizers had agreed a count of ten religions,
 And the strokes were the count.
-Hindu. Buddhist. Jain. Zoroastrian.
-Taoist. Confucian. Shinto.
-Jewish. Christian. Muslim.
-The bell was the Columbian Liberty Bell.
-The hall was the Art Institute, new, on the avenue.
+{{x|Hindu}}. {{x|Buddhist}}. {{x|Jain}}. {{x|Zoroastrian}}.
+{{x|Taoist}}. {{x|Confucian}}. {{x|Shinto}}.
+{{x|Jewish}}. {{x|Christian}}. {{x|Muslim}}.
+The bell was the {{x|Columbian Liberty Bell}}.
+The hall was the {{p|Art Institute}}, new, on the avenue.
 The fair was somewhere else, south, in the park.
-The White City was still open.
+The {{p|White City}} was still open.
 It was the four hundredth year of a voyage, kept a year late.
 
 They came in procession.
 James Gibbons, a cardinal, in scarlet, beside Charles Carroll Bonney.
 Then the robes.
-John Henry Barrows, minister of a Presbyterian church,
+John Henry Barrows, minister of a {{x|Presbyterian}} church,
 Had built the meeting, and he chaired it.
 Bonney welcomed them.
 He said they met in respect for one another's religions.
@@ -55634,22 +55634,22 @@ Vivekananda was thirty.
 He had been born Narendranath Datta, in {{p|Kolkata}},
 And he was a disciple of Ramakrishna.
 He had come without a letter from a body that could send him.
-John Henry Wright, at Harvard, wrote that to ask this man
+John Henry Wright, at {{p|Harvard}}, wrote that to ask this man
 For credentials was like asking the sun
 To state its right to shine.
 On that first afternoon Vivekananda stood up
-And said, sisters and brothers of America.
+And said, sisters and brothers of {{p|America}}.
 The hall rose.
 He thanked them in the name of the most ancient order of monks,
 As he called it, and in the name of millions of Hindus.
 He said his religion had taught tolerance, and universal acceptance,
 And that it held the religions true.
-He told them a shelter: a remnant of Israel received
-In the year Rome broke the temple.
+He told them a shelter: a remnant of {{p|Israel}} received
+In the year {{p|Rome}} broke the temple.
 He offered the story as pride. The offer is the fact in the hall.
 He named sectarianism, and bigotry, and fanaticism,
 As what had filled the earth with blood.
-Whoever comes, by whatever path, he said, out of his Gita.
+Whoever comes, by whatever path, he said, out of his {{x|Gita}}.
 
 Hold the welcome. It is the opposite of a shut gate.
 Do not let the welcome become a claim
@@ -55658,21 +55658,21 @@ A hall can hold more than one true thing
 Without one of them being the meaning of the room.
 
 Anagarika Dharmapala had come from {{p|Colombo}}.
-He spoke for the Buddhism of the south.
-Shaku Sōen, of Engaku-ji in {{p|Kamakura}}, spoke for Zen.
+He spoke for the {{x|Buddhism}} of the south.
+Shaku Sōen, of {{p|Engaku-ji}} in {{p|Kamakura}}, spoke for {{x|Zen}}.
 Twenty-five years after the edicts that took the buddhas out of the shrines,
 Priests of the buddha and a priest of the kami
-Sat in one American room.
-Reuchi Shibata, for Shinto, prayed that the eight million deities
-Who keep the country of the cherry would also keep America.
+Sat in one {{x|American}} room.
+Reuchi Shibata, for {{x|Shinto}}, prayed that the eight million deities
+Who keep the country of the cherry would also keep {{p|America}}.
 At home the roofs had been forced apart.
-Abroad, both were sent, as the face of Japan.
+Abroad, both were sent, as the face of {{p|Japan}}.
 
 Virchand Gandhi spoke for the Jains.
-Pung Kwang Yu, a secretary of the Chinese legation,
+Pung Kwang Yu, a secretary of the {{x|Chinese}} legation,
 Spoke for the Confucians, because the court had answered.
-Islam was one of the ten strokes.
-Alexander Russell Webb, an American who had become a Muslim, spoke for it.
+{{x|Islam}} was one of the ten strokes.
+Alexander Russell Webb, an {{x|American}} who had become a {{x|Muslim}}, spoke for it.
 The sultan in {{p|Istanbul}} had not let his subjects come.
 The bell counted a religion whose empire had refused the chair.
 A convert sat where the forbidden delegation did not.
@@ -55682,27 +55682,27 @@ Julia Ward Howe was among the speakers.
 The platform was wider than a mission board.
 It was not the world.
 
-South of the hall, on the Midway of the fair,
-People brought from Dahomey, in what is now {{p|Benin}},
+South of the hall, on the {{p|Midway}} of the fair,
+People brought from {{p|Dahomey}}, in what is now {{p|Benin}},
 Were set out to be looked at.
 They had no paper on the platform.
 The ten strokes were the organizers' ten.
 A religion with no delegate did not receive a stroke.
 A person on display did not receive a chair.
 
-This day, in this calendar, is Samhain.
+This day, in this calendar, is {{x|Samhain}}.
 The last day of Libra. The old mark for a boundary,
 When the living and the dead are said to stand near.
 A meeting of religions is a meeting of the ways the dead are kept.
 The hall did that, for the dead who had a speaker.
-The Midway did the other thing.
+The {{p|Midway}} did the other thing.
 It put living people where a lesson is put,
 And called the place a village.
 
 Grant the hall.
 The rising up. The sisters and brothers.
 The eight million asked to keep a second country.
-The Buddhist and the Shinto priest in one room,
+The {{x|Buddhist}} and the {{x|Shinto}} priest in one room,
 After a government at home had forbidden them one roof.
 Comparison is a form of care when each name is left its own name.
 
@@ -55717,7 +55717,7 @@ The twenty-seventh came. The hall emptied.
 The fair ran on another month.
 The names that were spoken are kept.
 The names that were given no stroke are not, by that, unreal.
-On Samhain the edge is the work.
+On {{x|Samhain}} the edge is the work.
 Keep every dead the speakers named.
 Keep the ones no speaker was sent for.
 The boundary is not a list of ten.
@@ -55732,7 +55732,7 @@ The boundary is not a list of ten.
 On the fourteenth of March, 1905, Albert Einstein turned twenty-six.
 He had been born in {{p|Ulm}} on that day in 1879.
 He was in {{p|Bern}}.
-He had been a Swiss citizen since the twenty-first of February, 1901.
+He had been a {{x|Swiss}} citizen since the twenty-first of February, 1901.
 On the nineteenth of June, 1902, the federal patent office there
 Had chosen him technical expert of the third class.
 By day he judged other people's machines.
@@ -55741,7 +55741,7 @@ The office was a register of inventions.
 On the sixth of January it had been two years
 Since he married Mileva Marić.
 
-Three days after the birthday he sent a paper to the Annalen der Physik.
+Three days after the birthday he sent a paper to the {{x|Annalen der Physik}}.
 The journal received it on the eighteenth of March,
 And printed it on the ninth of June.
 On a heuristic point of view
@@ -55758,17 +55758,17 @@ To the University of {{p|Zurich}}.
 A new determination of molecular dimensions.
 The size of a molecule, taken from diffusion
 And from the drag inside a dilute solution.
-On the twenty-seventh of July the Philosophy II faculty approved it,
+On the twenty-seventh of July the {{x|Philosophy II}} faculty approved it,
 Unanimously.
 The degree was dated the fifteenth of January, 1906.
 Through the months of the papers, he was not yet formally the doctor.
 
-On the eleventh of May the Annalen received the next.
+On the eleventh of May the {{x|Annalen}} received the next.
 Particles on the order of a thousandth of a millimeter,
 Suspended in a liquid that is otherwise still,
 Must already wander so that the wander can be seen,
 If heat is the motion of molecules.
-Physiologists had watched that wander and named it Brownian.
+Physiologists had watched that wander and named it {{x|Brownian}}.
 He had not discovered the motion.
 He showed that molecules, if they are real, require it,
 And he set down the measure of the wander,
@@ -55777,7 +55777,7 @@ The journal printed that paper on the eighteenth of July.
 
 On the fourteenth of May his son, Hans Albert Einstein, turned one.
 
-On the eighteenth of May he wrote from Bern to Conrad Habicht,
+On the eighteenth of May he wrote from {{p|Bern}} to Conrad Habicht,
 Who was no longer in the city.
 He promised four papers.
 The first, on radiation and the energy of light, he called very revolutionary.
@@ -55790,7 +55790,7 @@ By a modification of the teaching of space and time.
 He worked that fourth paper out in talk with Michele Besso,
 At the same office.
 He later said he sent it five or six weeks after the idea came.
-The Annalen received it on the thirtieth of June.
+The {{x|Annalen}} received it on the thirtieth of June.
 On the electrodynamics of moving bodies.
 Printed the twenty-sixth of September.
 About thirty pages. No list of authorities.
@@ -55829,7 +55829,7 @@ One living name. No bibliography.
 
 In the late summer Einstein went with Mileva and the child to {{p|Serbia}},
 To friends, and to her family.
-On the twenty-seventh of September the Annalen received three pages.
+On the twenty-seventh of September the {{x|Annalen}} received three pages.
 Does the inertia of a body depend upon its energy content?
 Printed the twenty-first of November.
 If a body gives off energy as light, its mass lessens
@@ -55837,10 +55837,10 @@ By that energy divided by the square of the speed of light.
 The page does not contain the line the world later printed.
 The line is a later writing of what the three pages showed.
 
-In the same year the Annalen's supplement carried twenty-one short reviews
+In the same year the {{x|Annalen}}'s supplement carried twenty-one short reviews
 He had written, of papers on heat.
 The work he called revolutionary, and the ordinary notice of other work,
-Went out of the same months in Bern.
+Went out of the same months in {{p|Bern}}.
 
 Keep the distinction he made on the eighteenth of May.
 The countable light, he called revolutionary.
@@ -55878,8 +55878,8 @@ Do not pretend the sky held it before you did.
 
 # Chapter 310: The Round Altar
 
-On the tenth of October, 1911, soldiers at Wuchang rose.
-Wuchang is now part of {{p|Wuhan}}.
+On the tenth of October, 1911, soldiers at {{p|Wuchang}} rose.
+{{p|Wuchang}} is now part of {{p|Wuhan}}.
 Through the autumn the provinces left the court.
 Sun Yat-sen was abroad.
 On the twenty-ninth of December the assembly at {{p|Nanjing}}
@@ -55909,17 +55909,17 @@ All under heaven is a public thing.
 The sentence is the public thing.
 It is not a private will in the sky, picking a flag.
 The paper named Yuan Shikai,
-And called him prime minister by the Advisory Council's election,
+And called him prime minister by the {{x|Advisory Council}}'s election,
 And gave him full power to organize a provisional government
 And to confer with the people's army.
 It asked that five peoples stand as one republic:
-Manchu, Han, Mongol, Hui, Tibetan.
+{{x|Manchu}}, {{x|Han}}, {{x|Mongol}}, {{x|Hui}}, {{x|Tibetan}}.
 The house that was signing set its own name first.
 
-On the fifteenth of February the assembly at Nanjing chose him
+On the fifteenth of February the assembly at {{p|Nanjing}} chose him
 Provisional president.
 He took the oath on the tenth of March, in {{p|Beijing}}.
-He did not take it in Nanjing.
+He did not take it in {{p|Nanjing}}.
 The capital stayed where he stood.
 
 The child stayed in the palace.
@@ -55931,10 +55931,10 @@ A courtesy inside a palace is a courtesy.
 It is not the winter rite.
 
 South of the city stands the {{p|Temple of Heaven}}.
-The Ming raised the precinct in the fifteenth century.
+The {{x|Ming}} raised the precinct in the fifteenth century.
 Later emperors built the round altar up again.
 The duty they claimed is older than that brick.
-The Qing rite was the emperor's,
+The {{x|Qing}} rite was the emperor's,
 At the round altar, at the winter solstice.
 The February edict closed the house that had claimed the standing.
 It closed the house in the words of a public sky.
@@ -55954,11 +55954,11 @@ No later president of the republic came to do it.
 That fire was the last the state lit there for Heaven.
 
 Why he stood there is still disputed.
-A missionary from Germany read the day as a stair toward a throne.
+A missionary from {{p|Germany}} read the day as a stair toward a throne.
 The reading is his. The chapter does not adopt it.
 The next winter Yuan accepted an imperial title,
 On the twelfth of December, 1915.
-The reign-name was to be Hongxian,
+The reign-name was to be {{x|Hongxian}},
 And the reign was to open on the first of January.
 He held no formal enthronement.
 On the twenty-second of March, 1916, he put the title down.
@@ -55991,58 +55991,58 @@ The names do not need that brick in order to be kept.
 
 On the twenty-eighth of June, 1914, in {{p|Sarajevo}},
 Gavrilo Princip shot two people in a car.
-Franz Ferdinand was the heir of Austria-Hungary.
+Franz Ferdinand was the heir of {{p|Austria-Hungary}}.
 Sophie, Duchess of Hohenberg, was his wife.
 She died with him.
 A pistol is not a war.
 The war was dated afterward, by cabinets.
 
-On the twenty-third of July, Austria-Hungary sent Serbia an ultimatum.
+On the twenty-third of July, {{p|Austria-Hungary}} sent {{p|Serbia}} an ultimatum.
 On the twenty-eighth it declared war.
-On the first of August, Germany declared war on Russia.
-On the third, Germany declared war on France.
-On the fourth, Germany entered Belgium.
-Britain's ultimatum, sent that afternoon, expired at eleven at night.
-No answer had come. Britain declared war.
+On the first of August, {{p|Germany}} declared war on {{p|Russia}}.
+On the third, {{p|Germany}} declared war on {{p|France}}.
+On the fourth, {{p|Germany}} entered {{p|Belgium}}.
+{{p|Britain}}'s ultimatum, sent that afternoon, expired at eleven at night.
+No answer had come. {{p|Britain}} declared war.
 The empire followed the declaration.
 
-On the twenty-third of August, Japan declared war on Germany.
+On the twenty-third of August, {{p|Japan}} declared war on {{p|Germany}}.
 The rescript was in the name of the emperor Yoshihito.
-It said he had hoped to keep the peace of the East,
+It said he had hoped to keep the peace of the {{p|East}},
 And that he was still in mourning for his mother.
 An ultimatum in the middle of the month had not been accepted.
-{{p|Qingdao}}, the German port on the Shandong coast, was the object.
-A Japanese force, with a smaller British one beside it,
-Took the place. The German garrison surrendered
+{{p|Qingdao}}, the {{x|German}} port on the {{p|Shandong}} coast, was the object.
+A {{x|Japanese}} force, with a smaller {{x|British}} one beside it,
+Took the place. The {{x|German}} garrison surrendered
 On the seventh of November.
 The two anchors of this book were in the same war,
 On the same side, and not for the same reason.
-Britain had asked for ships.
-Japan took a port.
+{{p|Britain}} had asked for ships.
+{{p|Japan}} took a port.
 
-The killing in Europe did not pause for a register.
+The killing in {{p|Europe}} did not pause for a register.
 Graves were dug where the line happened to be,
 And the next fight went over them, and the mark was gone.
 Fabian Ware was forty-five, too old for the army.
-In September of 1914 he was in France
-At the head of a mobile unit of the British Red Cross.
+In September of 1914 he was in {{p|France}}
+At the head of a mobile unit of the {{x|British Red Cross}}.
 He began to write down the graves his unit found.
 In 1915 the army took the work over
-And called it the Graves Registration Commission.
+And called it the {{x|Graves Registration Commission}}.
 In 1916 the name widened:
-The Directorate of Grave Registration and Enquiries.
+The {{x|Directorate of Grave Registration and Enquiries}}.
 The dead were being made into a file
 While they were still being made.
 
 On the twenty-first of May, 1917, a royal charter
-Created the Imperial War Graves Commission.
+Created the {{x|Imperial War Graves Commission}}.
 The Prince of Wales was president.
 Ware was vice-chairman.
 The charge was the graves of the empire's dead in that war,
 And the care of them after, and the names of the missing,
 Not for a season. The charter said the care was to last.
 
-Frederic Kenyon, director of the British Museum,
+Frederic Kenyon, director of the {{x|British Museum}},
 Was asked on the twentieth of November, 1917, to settle the marking.
 He put equality at the center of it.
 The same stone. Not a private monument as the rule.
@@ -56056,12 +56056,12 @@ The rule was written.
 Rudyard Kipling gave the sentence for a body with no name.
 Known unto God.
 His own son, John Kipling, had been missing
-Since the twenty-seventh of September, 1915, at Loos.
+Since the twenty-seventh of September, 1915, at {{p|Loos}}.
 
-This was the British Empire's rule for its own dead.
+This was the {{p|British Empire}}'s rule for its own dead.
 It was not the only rule other armies used.
 It was a decision, not a discovery.
-In May of 1920 the families' quarrel with it reached Parliament.
+In May of 1920 the families' quarrel with it reached {{x|Parliament}}.
 Many wanted the body brought home, or a stone of their own choosing.
 The commission held to the ground where the body lay,
 And to one form of stone.
@@ -56082,7 +56082,7 @@ Ferdinand Foch signed for the Allies.
 Matthias Erzberger signed at the head of the Germans.
 The terms said the operations on land and in the air
 Would cease six hours after the signature.
-The government told Parliament that day
+The government told {{x|Parliament}} that day
 That the armistice had been signed at five in the morning,
 And that the war ceased at eleven.
 The hour was appointed. The killing was not thereby already over.
@@ -56111,14 +56111,14 @@ And the names the hour did not give back.
 
 # Chapter 312: The Old Style
 
-Russia kept an older count of the days.
+{{p|Russia}} kept an older count of the days.
 The count this book keeps was already the one in use to the west.
 In 1917 the two stood thirteen days apart.
 
 On the eighth of March, in {{p|St. Petersburg}},
-The city was called Petrograd.
+The city was called {{p|Petrograd}}.
 By the calendar the country kept, it was the twenty-third of February.
-Women came out. On that calendar it was International Women's Day.
+Women came out. On that calendar it was {{x|International Women's Day}}.
 They came for bread. The garrison came over.
 Nicholas II was not in the city.
 
@@ -56137,10 +56137,10 @@ It kept the country in the war.
 The summer did not take the country out.
 The government did not last the autumn.
 
-On the sixteenth of April, Vladimir Lenin arrived in Petrograd.
+On the sixteenth of April, Vladimir Lenin arrived in {{p|Petrograd}}.
 The country dated the day the third of April.
-Germany had let him cross in a sealed train.
-It wanted Russia out of the war.
+{{p|Germany}} had let him cross in a sealed train.
+It wanted {{p|Russia}} out of the war.
 The permission is not the authorship of the night that came after.
 The next day he read the theses that bear April's name.
 No support for the provisional government.
@@ -56151,9 +56151,9 @@ On the seventh of November the party took the city.
 The country dated the night the twenty-fifth of October.
 The revolution kept October for its name.
 Kerensky had gone.
-The cruiser Aurora, lying in the river, fired a blank as a signal.
-The Winter Palace was taken.
-A congress of soviets sat at the Smolny Institute.
+The cruiser {{x|Aurora}}, lying in the river, fired a blank as a signal.
+The {{p|Winter Palace}} was taken.
+A congress of soviets sat at the {{p|Smolny Institute}}.
 It passed a decree on peace, and a decree on land.
 A council of people's commissars was named, with Lenin at its head.
 That night is not the civil war.
@@ -56163,7 +56163,7 @@ In November the country elected a constituent assembly.
 The Socialist Revolutionaries returned the most deputies.
 The Bolsheviks did not.
 On the eighteenth of January, 1918, the assembly met
-At the Tauride Palace in Petrograd.
+At the {{p|Tauride Palace}} in {{p|Petrograd}}.
 The country dated the day the fifth of January.
 It sat once.
 On the nineteenth, the sixth of January in the country's count,
@@ -56186,27 +56186,27 @@ After that night the state's days and this book's days are one register.
 October remained the name.
 In the register that remained, the night is the seventh of November.
 
-On the third of March, at {{p|Brest}}, then called Brest-Litovsk,
-Russia signed itself out of the war,
+On the third of March, at {{p|Brest}}, then called {{x|Brest-Litovsk}},
+{{p|Russia}} signed itself out of the war,
 And signed away a wide territory in the west.
-That exit is what Germany had wanted from the train.
+That exit is what {{p|Germany}} had wanted from the train.
 The treaty records the want.
 It does not make the night a foreign order.
 
-In March the government left Petrograd for {{p|Moscow}}.
+In March the government left {{p|Petrograd}} for {{p|Moscow}}.
 
 The people of the house were still alive.
 In the night of the sixteenth of July, crossing into the seventeenth,
-At the Ipatiev House in {{p|Yekaterinburg}}, they were killed.
+At the {{p|Ipatiev House}} in {{p|Yekaterinburg}}, they were killed.
 Nicholas II. Alexandra.
 Olga. Tatiana. Maria. Anastasia. Alexei.
 Four who served them were killed in the same room:
 Eugene Botkin, Anna Demidova, Alexei Trupp, Ivan Kharitonov.
 Yakov Yurovsky, commandant of the house,
-Read an order of the Ural soviet.
-A written order from Moscow, dated before the shooting, has not been found.
+Read an order of the {{p|Ural}} soviet.
+A written order from {{p|Moscow}}, dated before the shooting, has not been found.
 On the eighteenth, Yakov Sverdlov told the central executive committee
-That its presidium approved what the Urals had done.
+That its presidium approved what the {{p|Urals}} had done.
 On the nineteenth the paper said the former emperor had been shot,
 And that his family had been taken to a safe place.
 The children were already dead.
@@ -56234,7 +56234,7 @@ A state that has been taken has not withered.
 # Chapter 313: The Caliph of the Muslims
 
 On the third of March, 1924, in {{p|Ankara}},
-The Grand National Assembly deposed the caliph
+The {{x|Grand National Assembly}} deposed the caliph
 And abolished the office.
 The law said the office was already contained
 In the meaning of the government and the republic.
@@ -56260,7 +56260,7 @@ Sultan and caliph.
 On the sixteenth the assembly decided to charge him
 With treason against the homeland.
 That night, the sixteenth into the seventeenth,
-He left {{p|Istanbul}} on a British warship.
+He left {{p|Istanbul}} on a {{x|British}} warship.
 
 On the nineteenth of November the assembly elected
 Abdülmecid II.
@@ -56269,7 +56269,7 @@ The assembly did not give him the old title,
 Commander of the faithful.
 It gave him caliph of the Muslims.
 He asked to be called also servant of the two sanctuaries.
-He did not hold {{p|Mecca}}. He did not hold Medina.
+He did not hold {{p|Mecca}}. He did not hold {{p|Medina}}.
 He asked to wear the turban of Mehmed the Conqueror.
 Mustafa Kemal answered that a frock coat would do.
 Later he signed in the manner of a sultan's son.
@@ -56278,23 +56278,23 @@ The signature was heard as the reign, trying to return.
 On the twenty-fourth of November, at {{p|Topkapı}},
 In the room where the prophet's cloak was kept,
 The allegiance was given.
-The prayer that day was in Turkish.
-At the Fatih Mosque a sermon was read in Turkish,
+The prayer that day was in {{x|Turkish}}.
+At the {{p|Fatih Mosque}} a sermon was read in {{x|Turkish}},
 In the new caliph's name.
 It took the sentence about the greater struggle
 And read the struggle as the one against ignorance.
 
 From the twenty-first to the twenty-seventh of December,
-A caliphate conference in India accepted him.
+A caliphate conference in {{p|India}} accepted him.
 On the third of January, 1923,
-Indian Muslims gave Mustafa Kemal a title:
+{{x|Indian}} Muslims gave Mustafa Kemal a title:
 Saviour of the caliphate.
 
 On the twenty-ninth of October the assembly proclaimed the republic
 And elected him president.
-The caliph stayed in Istanbul.
+The caliph stayed in {{p|Istanbul}}.
 An office without the state sat in the old capital.
-The state without that office sat in Ankara.
+The state without that office sat in {{p|Ankara}}.
 
 On the fifth of December the papers printed a letter
 To the prime minister, İsmet Pasha,
@@ -56302,12 +56302,12 @@ From Aga Khan and from Amir Ali.
 It asked that the office be kept,
 And that the caliph's standing be given back.
 On the night of the eighth the assembly, sitting in closed session,
-Decided to send an independence tribunal to Istanbul.
+Decided to send an independence tribunal to {{p|Istanbul}}.
 
 On the third of March the bill was brought by
-Saffet Efendi, deputy for Urfa, and fifty-three with him.
+Saffet Efendi, deputy for {{p|Urfa}}, and fifty-three with him.
 Seyyid Bey, the minister of justice,
-Had taught the law of the religion, and had studied at al-Azhar.
+Had taught the law of the religion, and had studied at {{p|al-Azhar}}.
 He told the chamber the caliphate was not a creed.
 It was a worldly question, among the public affairs of the people.
 Zeki Bey, the deputy from {{p|Gümüşhane}}, spoke against the closing.
@@ -56331,22 +56331,22 @@ Two of the women of the house,
 And the tutor, the secretary, and the doctor.
 An envelope from the governor held two thousand pounds
 And visas that let them out.
-They had wired a hotel at {{p|Territet}}, on the lake, in Switzerland.
+They had wired a hotel at {{p|Territet}}, on the lake, in {{p|Switzerland}}.
 The house was banned from living in the republic.
 
 On the eleventh of March he answered.
 He said the assembly's decision was void.
 He asked for a religious council,
 And for help to revive the office.
-Within the week Switzerland told him
-The Turkish government had objected,
+Within the week {{p|Switzerland}} told him
+The {{x|Turkish}} government had objected,
 And that he would not be permitted the work.
 
 In that same March, Hussein ibn Ali,
-King of the Hejaz, who held Mecca,
+King of the Hejaz, who held {{p|Mecca}},
 Was proclaimed caliph.
 The day of it is not one day in the records.
-The proclamation did not reopen the office Ankara had closed.
+The proclamation did not reopen the office {{p|Ankara}} had closed.
 Holding a sanctuary is not the succession.
 
 He died in {{p|Paris}} on the twenty-third of August, 1944,
@@ -56354,7 +56354,7 @@ While the city was being taken back.
 Dürrüşehvar came and was given a promise.
 The body was not brought.
 On the thirtieth of March, 1954, he was buried at al-Baqi,
-In Medina.
+In {{p|Medina}}.
 The grave is in the prophet's city.
 The grave is not the office.
 
@@ -56369,11 +56369,11 @@ Do not say the bureau for worship is the succession.
 It is a state keeping the rites it will administer.
 Hold that keeping.
 Refuse the consolation that a closed office was never an office.
-Refuse the consolation that a grave in Medina restores one.
+Refuse the consolation that a grave in {{p|Medina}} restores one.
 
 The question of who succeeds is older than this law.
 The community has given more than one answer.
-This answer is a vote and a signature, on a Monday in Ankara.
+This answer is a vote and a signature, on a Monday in {{p|Ankara}}.
 The man they called saviour of the caliphate signed the paper that ended it.
 The man they called caliph of the Muslims died without the name.
 Count the office closed on the day the law says.
@@ -56383,7 +56383,7 @@ Keep the question. It was not in the statute.
 # Chapter 314: Finite Means
 
 On the twenty-third of June, 1912, Alan Turing was born in {{p|London}}.
-He was a fellow of King's College, in {{p|Cambridge}}.
+He was a fellow of {{p|King's College}}, in {{p|Cambridge}}.
 The work of this chapter was done there.
 
 David Hilbert had asked a question of method.
@@ -56420,7 +56420,7 @@ The universal one does not know the work in advance.
 It knows how to follow a table.
 The table is the work.
 
-The London Mathematical Society received the paper
+The {{x|London Mathematical Society}} received the paper
 On the twenty-eighth of May, 1936.
 He was twenty-three.
 The paper's own line says it was read on the twelfth of November.
@@ -56438,7 +56438,7 @@ Effective calculability, he called it.
 It is not a tape.
 In the spring of 1936 he had reached the same refusal:
 There is no general procedure for the decision problem.
-Max Newman, at Cambridge, had seen Church's paper.
+Max Newman, at {{p|Cambridge}}, had seen Church's paper.
 Turing wrote an appendix.
 The appendix says the two definitions meet.
 He did not pretend the limit was his private finding.
@@ -56453,8 +56453,8 @@ Says in every case which future that table has.
 A procedure can be written for a world of questions
 And still not be a procedure for its own future.
 
-In September he went to Princeton.
-The printed paper names him at the Graduate College there.
+In September he went to {{p|Princeton}}.
+The printed paper names him at the {{p|Graduate College}} there.
 The naming is the place he had reached.
 It is not the place where the table was made.
 
@@ -56489,7 +56489,7 @@ Do not pretend the sky was running the tape before you wrote the table.
 # Chapter 315: A Hand and a Name
 
 On the nineteenth of August, 1953, in {{p|Jerusalem}},
-The Knesset passed a law.
+The {{x|Knesset}} passed a law.
 It established an authority of remembrance
 And named the authority with two words from Isaiah.
 A hand and a name.
@@ -56498,18 +56498,18 @@ A memorial and a name, better than sons and daughters,
 A name that would not be cut off.
 The law took the words for the murdered.
 It did not say the verse had been kept.
-The law's title sets the Shoah, the catastrophe,
+The law's title sets the {{x|Shoah}}, the catastrophe,
 Beside the heroism.
 The halls were not yet the charge.
 The charge was the statute.
 
 The law's first article is the six million
-Of the Jewish people murdered
+Of the {{x|Jewish}} people murdered
 By the Nazis and those who helped them.
 It names also the households, the communities,
 The houses of prayer, the schools,
 The institutions of mercy,
-Destroyed in a plan to blot out the name of Israel
+Destroyed in a plan to blot out the name of {{p|Israel}}
 From under the sky.
 The statute says six million.
 This chapter does not contain the names.
@@ -56519,11 +56519,11 @@ The killing was a procedure
 Before any memorial had a statute.
 
 On the twenty-second of June, 1941,
-Germany invaded the Soviet Union.
+{{p|Germany}} invaded the {{p|Soviet Union}}.
 In the territory taken that summer,
 Jews were shot beside the towns.
 On the twenty-ninth and the thirtieth of September,
-At Babyn Yar, the ravine at {{p|Kyiv}},
+At {{p|Babyn Yar}}, the ravine at {{p|Kyiv}},
 The Jews who had been gathered there were shot.
 A ravine is a place and two days.
 It is not an explanation.
@@ -56531,14 +56531,14 @@ It is not an explanation.
 On the thirty-first of July, Hermann Göring
 Charged Reinhard Heydrich
 To prepare what they called the final solution
-Of the Jewish question in Europe.
+Of the {{x|Jewish}} question in {{p|Europe}}.
 An order to prepare is not the first grave.
 The shootings were already underway.
 
 On the twentieth of January, 1942,
 At {{p|Wannsee}}, in {{p|Berlin}},
 Heydrich sat with the officials of the ministries.
-The minutes count eleven million Jews in Europe
+The minutes count eleven million Jews in {{p|Europe}}
 As the people the plan named.
 That count is the plan's.
 It is not the number of the dead.
@@ -56546,14 +56546,14 @@ Do not give the murder to the meeting.
 The meeting arranged the offices.
 The killing did not wait for the minutes.
 
-At {{p|Oświęcim}} the camp was called Auschwitz.
+At {{p|Oświęcim}} the camp was called {{p|Auschwitz}}.
 There a number was put on the body.
 The number is not a name.
 On the seventeenth of January, 1945,
 The last roll call of that camp's system
 Counted sixty-seven thousand and twelve.
 In the days after, about fifty-six thousand were marched out.
-On the twenty-seventh the Red Army entered
+On the twenty-seventh the {{x|Red Army}} entered
 And found about seven thousand still there.
 The people on the roads were not freed by the gate.
 Do not give the end of the killing
@@ -56573,7 +56573,7 @@ A life kept is a particular act
 On a particular day.
 It is not a proof the century came through.
 
-The deputies of Herut did not cast a vote.
+The deputies of {{x|Herut}} did not cast a vote.
 The bill passed.
 The house then stood for five minutes.
 
@@ -56596,7 +56596,7 @@ Where a procedure had set a number.
 The law can order the labor.
 It cannot order the death undone.
 
-Count the authority from the day the Knesset gives.
+Count the authority from the day the {{x|Knesset}} gives.
 Keep the question the statute cannot close.
 Who was killed, by name.
 Who lived, and by what particular refusal.
@@ -56609,7 +56609,7 @@ And they are not finished here.
 
 On the sixth of August, 1945, the morning at {{p|Hiroshima}} was clear.
 A quarter past eight, the uranium bomb left the aircraft.
-The aircraft was the Enola Gay.
+The aircraft was the {{x|Enola Gay}}.
 Paul Tibbets was its pilot.
 The bomb burst less than a minute later, over the city.
 The offices that kept the city's names were in the fire.
@@ -56621,30 +56621,30 @@ The other design, the plutonium bomb, had been fired once.
 On the sixteenth of July, in the desert of {{p|New Mexico}},
 A test of that design was set off before any city.
 The test was not a city.
-The morning at Hiroshima was a city.
+The morning at {{p|Hiroshima}} was a city.
 
 On the twenty-sixth of July a notice had been sent.
-It told Japan to surrender.
+It told {{p|Japan}} to surrender.
 The government had not surrendered on that notice
 When the first bomb burst.
 
-On the eighth of August the Soviet Union declared war.
-In the early hours of the ninth its armies entered Manchuria.
-The same morning another aircraft was over Japan.
-The aim was Kokura, now part of {{p|Kitakyushu}}.
+On the eighth of August the {{p|Soviet Union}} declared war.
+In the early hours of the ninth its armies entered {{p|Manchuria}}.
+The same morning another aircraft was over {{p|Japan}}.
+The aim was {{p|Kokura}}, now part of {{p|Kitakyushu}}.
 Cloud and the smoke of the ground hid the arsenal.
 The aircraft passed over and did not drop.
 It went on to {{p|Nagasaki}}.
 Charles Sweeney was its pilot.
 At two minutes past eleven the plutonium bomb burst
-Over the valley of Urakami,
+Over the valley of {{p|Urakami}},
 Not on the point the orders had named.
 The hills held some of the blast.
 They did not hold the dead.
 The counts for this city also fail to close.
 They are not given a single number here.
 
-People brought from Korea were in both cities.
+People brought from {{p|Korea}} were in both cities.
 They died under the same hours.
 The chapter will not invent their separate figure.
 Their names belong in the same keeping.
@@ -56665,17 +56665,17 @@ The instrument of surrender was signed.
 
 Do not make the two mornings into a proof
 That the war could have ended by no other act.
-The Soviet armies were already in Manchuria
+The {{x|Soviet}} armies were already in {{p|Manchuria}}
 When the second bomb burst.
 Do not make the two mornings into a proof
 That a city was a price rightly paid.
-The aim at Kokura was a city.
-The sky over Kokura hid the aim.
+The aim at {{p|Kokura}} was a city.
+The sky over {{p|Kokura}} hid the aim.
 A procedure chose the names in advance.
 The sky did not keep the list.
-Hiroshima was the first name, and the morning was clear.
-Kokura was the next name, and the morning was not.
-Nagasaki was the name the aircraft could see.
+{{p|Hiroshima}} was the first name, and the morning was clear.
+{{p|Kokura}} was the next name, and the morning was not.
+{{p|Nagasaki}} was the name the aircraft could see.
 
 Hold the hours. They are known.
 A quarter past eight. Two minutes past eleven.
@@ -56694,7 +56694,7 @@ The dead are not the argument that closes the question.
 
 # Chapter 317: The Plugs and the Point
 
-On the tenth of December, 1945, at the Moore School in {{p|Philadelphia}},
+On the tenth of December, 1945, at the {{p|Moore School}} in {{p|Philadelphia}},
 A room of tubes was put to work.
 The room had been built for the path of a shell.
 The work of that December was a study brought from {{p|Los Alamos}},
@@ -56707,14 +56707,14 @@ Do not make the study into the reason the room existed.
 The contract was a table of firing.
 
 The contract was signed on the fifth of June, 1943.
-The Army's laboratory at {{p|Aberdeen}} wanted the tables.
+The {{x|Army}}'s laboratory at {{p|Aberdeen}} wanted the tables.
 Herman Goldstine brought the money and watched the work.
 John Mauchly and J. Presper Eckert designed the machine.
-They called the work Project PX.
+They called the work {{x|Project PX}}.
 A person who calculated for a living was called a computer.
 The machine took the name of that work.
-Electronic Numerical Integrator and Computer.
-The letters are ENIAC.
+{{x|Electronic Numerical Integrator}} and Computer.
+The letters are {{x|ENIAC}}.
 The name does not say what the December work was.
 
 It did not hold its own instructions.
@@ -56754,7 +56754,7 @@ Tubes failed.
 The room stopped until the failed one was found.
 
 Do not call it the first.
-In England Tommy Flowers had already set a machine of tubes
+In {{p|England}} Tommy Flowers had already set a machine of tubes
 To one purpose, and the purpose was kept secret.
 In {{p|Berlin}}, Konrad Zuse had already run a sequence
 On a machine of relays.
@@ -56764,7 +56764,7 @@ Had started a machine of tubes.
 The work was stopped in 1942.
 This was the one they showed.
 
-On the twenty-ninth of July, 1947, they turned it on at Aberdeen.
+On the twenty-ninth of July, 1947, they turned it on at {{p|Aberdeen}}.
 The proving ground was the place the tables had been for.
 At eleven forty-five in the night, on the second of October, 1955,
 It was turned off.
@@ -56779,7 +56779,7 @@ They had not yet named it.
 William Shockley was the head of their group.
 He was not the hand on the point that day.
 On the twenty-third they showed it to the laboratory.
-He called the demonstration a magnificent Christmas present.
+He called the demonstration a magnificent {{x|Christmas}} present.
 Early in 1948 he worked out a different device,
 A layer between two layers, which could be made to a pattern.
 That device was not the object in the December room.
@@ -56789,7 +56789,7 @@ John Pierce offered the word.
 They called it a transistor.
 On the thirtieth of June, 1948, in {{p|New York}}, they told the press.
 The device of that December was delicate.
-Do not move the later device back into the Christmas demonstration.
+Do not move the later device back into the {{x|Christmas}} demonstration.
 
 A tube is a finite means.
 A point on a crystal is a finite means.
@@ -56819,7 +56819,7 @@ Sent a memorandum to the imperial government.
 Its number was 448.
 Its subject was the abolition of the state's
 Sponsorship, support, perpetuation, control, and dissemination
-Of State Shinto.
+Of {{x|State Shinto}}.
 The sponsorship by the national government,
 By the prefectures, and by the towns,
 And by any official acting as an official,
@@ -56835,7 +56835,7 @@ To report that he had taken the post,
 Or to stand at a rite as the government.
 He could go as a man.
 The order forbade militarist teaching
-In the rites of Shinto and in the rites of every other religion,
+In the rites of {{x|Shinto}} and in the rites of every other religion,
 The same prohibition, the same hour.
 Its stated aim was to separate religion from the state
 And to set every religion on the same legal footing.
@@ -56849,23 +56849,23 @@ A shrine was not yet named in it.
 
 On the first of January, 1946,
 The newspapers printed a rescript of the emperor Hirohito.
-Its title was the construction of a new Japan.
+Its title was the construction of a new {{p|Japan}}.
 What people called it was the declaration
 That he was human.
 It was not the recorded voice of the fifteenth of August.
 It began by taking up the five clauses
-Of the Charter Oath Meiji had proclaimed.
+Of the {{x|Charter Oath}} Meiji had proclaimed.
 Then it said the tie between him and the people
 Had always stood on mutual trust and affection.
 It did not depend on mere legends and myths.
-The English that went with the rescript
+The {{x|English}} that went with the rescript
 Says the tie is not predicated on a false conception:
 That the emperor is divine,
-And that the Japanese are superior to other races
+And that the {{x|Japanese}} are superior to other races
 And fated to rule the world.
 The rescript's own word is akitsumikami,
 A manifest kami.
-The English says divine.
+The {{x|English}} says divine.
 They are not the same word.
 The sentence refuses a conception of the bond.
 It does not say what a shrine may still hold,
@@ -56881,12 +56881,12 @@ Under the inner shrine at {{p|Ise}},
 Which they looked to as the source,
 For the shrines of the country,
 To carry the shrines' own charge
-And to contribute to the construction of a new Japan.
+And to contribute to the construction of a new {{p|Japan}}.
 The rescript had used that aim in its title.
 The declaration used it as the work.
 
 The office that had held the shrines for the state
-Was the Jingiin, set inside the Home Ministry
+Was the {{x|Jingiin}}, set inside the {{x|Home Ministry}}
 In November of 1940.
 The memorandum had required the separation.
 The end was first set for the last day of January.
@@ -56894,7 +56894,7 @@ On the second of February the office was ended,
 And the shrines on the register
 Were deemed religious corporations.
 On the third of February the association was established.
-Its name was Jinja Honchō,
+Its name was {{x|Jinja Honchō}},
 The main office of the shrines.
 The shrines that came under it
 Were a religious corporation's shrines,
@@ -56902,12 +56902,12 @@ Not a ministry's.
 Not every shrine came under it.
 {{p|Yasukuni}} was deemed a religious corporation
 In its own right, and is not written here as theirs.
-Ise was the source they named.
+{{p|Ise}} was the source they named.
 It was not a hall the office owned.
 
 Do not say the memorandum ended the kami.
 It ended a budget and an official attendance.
-Do not say the English word divine
+Do not say the {{x|English}} word divine
 Is the whole of the word he used.
 Do not say the new office was the ministry, renamed.
 A voluntary gift is not a tax.
@@ -56917,7 +56917,7 @@ Hold that.
 The stories are not what the rescript rested the bond on.
 The stories are not thereby made nothing.
 Refuse the consolation that a separation is a deletion,
-And the consolation that an office looking to Ise
+And the consolation that an office looking to {{p|Ise}}
 Has restored the state that paid.
 The striving is the footing:
 A shrine among religions, kept by those who come,
@@ -56957,15 +56957,15 @@ René Cassin set an order on that draft.
 The text is not one hand.
 Peng Chun Chang asked that the first article hold conscience
 As well as reason.
-He brought the Chinese word ren to the argument,
+He brought the {{x|Chinese}} word ren to the argument,
 The regard of one person for another.
-The English that stayed beside reason is conscience.
+The {{x|English}} that stayed beside reason is conscience.
 Hansa Mehta required the article to say human beings.
 A draft had said men.
 The article does not say men.
 
-On the tenth of December, 1948, at the Palais de Chaillot in {{p|Paris}},
-Before midnight, the General Assembly adopted the declaration.
+On the tenth of December, 1948, at the {{p|Palais de Chaillot}} in {{p|Paris}},
+Before midnight, the {{x|General Assembly}} adopted the declaration.
 The resolution is 217.
 The declaration is its first part.
 Thirty articles.
@@ -56985,14 +56985,14 @@ Fifty-eight states were members.
 Forty-eight voted for the declaration.
 None voted against it.
 Eight abstained.
-The Soviet Union abstained,
-And Ukraine, and Belarus, and Poland,
-And Czechoslovakia, and Yugoslavia.
-Saudi Arabia abstained.
+The {{p|Soviet Union}} abstained,
+And {{p|Ukraine}}, and {{p|Belarus}}, and {{p|Poland}},
+And {{p|Czechoslovakia}}, and {{p|Yugoslavia}}.
+{{p|Saudi Arabia}} abstained.
 It had spoken against the article that lets a person change belief.
-South Africa abstained.
-Honduras was not in the vote.
-Yemen was not in the vote.
+{{p|South Africa}} abstained.
+{{p|Honduras}} was not in the vote.
+{{p|Yemen}} was not in the vote.
 Do not call the night unanimous.
 A vote with eight abstentions and two absent
 Is not a vote of every member.
@@ -57015,7 +57015,7 @@ The charter named a respect.
 The declaration named articles.
 They are two documents, and two years.
 
-Hold the June signing, fifty hands, Poland not yet among them.
+Hold the June signing, fifty hands, {{p|Poland}} not yet among them.
 Hold the October day, when the charter had force and still no list.
 Hold the tenth of December, before midnight.
 Forty-eight for. None against. Eight withholding.
@@ -57039,16 +57039,16 @@ The dead are not thereby left off the work of naming.
 # Chapter 320: The Recommendation
 
 On the twenty-ninth of November, 1947, in {{p|New York}},
-The General Assembly voted.
-Resolution 181 recommended a partition of the mandate of Palestine.
+The {{x|General Assembly}} voted.
+{{x|Resolution 181}} recommended a partition of the mandate of {{p|Palestine}}.
 Thirty-three voted for it.
 Thirteen voted against it.
 Ten abstained.
 One was absent.
-The United States voted for it.
-The Soviet Union voted for it.
-Britain, the power that held the mandate, abstained.
-The plan was an Arab state, a Jewish state,
+The {{p|United States}} voted for it.
+The {{p|Soviet Union}} voted for it.
+{{p|Britain}}, the power that held the mandate, abstained.
+The plan was an {{x|Arab}} state, a {{x|Jewish}} state,
 And {{p|Jerusalem}} as a corpus separatum,
 A city under an international regime,
 Not the capital of either.
@@ -57058,37 +57058,37 @@ The resolution says recommends.
 A recommendation is not a government.
 The people of the country did not cast these votes.
 
-The Jewish Agency accepted the plan.
-The Arab Higher Committee rejected it.
+The {{x|Jewish Agency}} accepted the plan.
+The {{x|Arab Higher Committee}} rejected it.
 The states that voted no had said no with their names.
 Between the vote and the spring there was already fighting.
 The declaration did not begin it.
 
-Britain did not stay until the plan's last date.
+{{p|Britain}} did not stay until the plan's last date.
 At midnight, the night of the fourteenth of May, 1948,
 The mandate ended.
 That afternoon, at four, in the museum in {{p|Tel Aviv}},
 David Ben-Gurion read a scroll.
-It declared a Jewish state, to be called Israel,
+It declared a {{x|Jewish}} state, to be called {{p|Israel}},
 From the moment the mandate ended that night.
 It claimed a natural and historic right,
-And the strength of the Assembly's resolution.
+And the strength of the {{x|Assembly}}'s resolution.
 The scroll does not draw the plan's borders as its own.
 It says the state will keep complete equality
 Of social and political rights
 To all its inhabitants, irrespective of religion, race, or sex.
 It says it will safeguard the holy places of all religions.
-It says it will be faithful to the principles of the Charter.
+It says it will be faithful to the principles of the {{x|Charter}}.
 The closing words put trust in the Rock of Israel.
 The words can be heard as God.
 The words can be heard as the people.
 The text does not say which.
 
-The Arab state in the plan was not declared.
+The {{x|Arab}} state in the plan was not declared.
 On the fifteenth the armies entered:
-Egypt, Transjordan, Syria, Lebanon, and Iraq.
-Transjordan is the name that state then used.
-Jerusalem was not set up as the separated city.
+{{p|Egypt}}, {{p|Transjordan}}, {{p|Syria}}, {{p|Lebanon}}, and {{p|Iraq}}.
+{{p|Transjordan}} is the name that state then used.
+{{p|Jerusalem}} was not set up as the separated city.
 The fighting divided it.
 The international regime was not established.
 
@@ -57098,12 +57098,12 @@ The counts of how many do not agree.
 This chapter does not choose a count.
 Neither fact cancels the other.
 A village is not the whole, and the whole is not a village.
-The United States recognized the state that day,
+The {{p|United States}} recognized the state that day,
 De facto.
 Recognition is not the map.
 
 Do not say the recommendation was the country.
-The Assembly drew three regimes on one land.
+The {{x|Assembly}} drew three regimes on one land.
 What the year did was one declaration, a war,
 And a city that was not international.
 Do not say the scroll's equality is a report of the year.
@@ -57111,7 +57111,7 @@ It is a charge the state wrote down for itself.
 A charge is not kept by being written.
 Do not say the war was the only answer the vote could have had.
 Do not say the vote was nothing because a war followed.
-The Agency said yes. The Committee said no.
+The {{x|Agency}} said yes. The {{x|Committee}} said no.
 Those were decisions. Other decisions were open,
 And were not taken.
 

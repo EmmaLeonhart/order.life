@@ -6,7 +6,7 @@
 On the fourteenth of March, 1905, {{c|Albert Einstein}} turned twenty-six.
 He had been born in {{p|Ulm}} on that day in 1879.
 He was in {{p|Bern}}.
-He had been a Swiss citizen since the twenty-first of February, 1901.
+He had been a {{x|Swiss}} citizen since the twenty-first of February, 1901.
 On the nineteenth of June, 1902, the federal patent office there
 Had chosen him technical expert of the third class.
 By day he judged other people's machines.
@@ -15,14 +15,14 @@ The office was a register of inventions.
 On the sixth of January it had been two years
 Since he married {{c|Mileva Marić}}.
 
-Three days after the birthday he sent a paper to the Annalen der Physik.
+Three days after the birthday he sent a paper to the {{x|Annalen der Physik}}.
 The journal received it on the eighteenth of March,
 And printed it on the ninth of June.
 On a heuristic point of view
 Concerning the production and transformation of light.
 {{c|Max Planck}}, in 1900, had portioned the energy of the oscillators
 That absorb and emit.
-Einstein portioned the light itself.
+{{c|Einstein}} portioned the light itself.
 A quantum of it carries an energy proportional to the frequency of the light.
 He did not, in March, call the paper revolutionary.
 That word comes in May, in a letter, and it is for this paper.
@@ -32,17 +32,17 @@ To the University of {{p|Zurich}}.
 A new determination of molecular dimensions.
 The size of a molecule, taken from diffusion
 And from the drag inside a dilute solution.
-On the twenty-seventh of July the Philosophy II faculty approved it,
+On the twenty-seventh of July the {{x|Philosophy II}} faculty approved it,
 Unanimously.
 The degree was dated the fifteenth of January, 1906.
 Through the months of the papers, he was not yet formally the doctor.
 
-On the eleventh of May the Annalen received the next.
+On the eleventh of May the {{x|Annalen}} received the next.
 Particles on the order of a thousandth of a millimeter,
 Suspended in a liquid that is otherwise still,
 Must already wander so that the wander can be seen,
 If heat is the motion of molecules.
-Physiologists had watched that wander and named it Brownian.
+Physiologists had watched that wander and named it {{x|Brownian}}.
 He had not discovered the motion.
 He showed that molecules, if they are real, require it,
 And he set down the measure of the wander,
@@ -51,7 +51,7 @@ The journal printed that paper on the eighteenth of July.
 
 On the fourteenth of May his son, {{c|Hans Albert Einstein}}, turned one.
 
-On the eighteenth of May he wrote from Bern to {{c|Conrad Habicht}},
+On the eighteenth of May he wrote from {{p|Bern}} to {{c|Conrad Habicht}},
 Who was no longer in the city.
 He promised four papers.
 The first, on radiation and the energy of light, he called very revolutionary.
@@ -64,7 +64,7 @@ By a modification of the teaching of space and time.
 He worked that fourth paper out in talk with {{c|Michele Besso}},
 At the same office.
 He later said he sent it five or six weeks after the idea came.
-The Annalen received it on the thirtieth of June.
+The {{x|Annalen}} received it on the thirtieth of June.
 On the electrodynamics of moving bodies.
 Printed the twenty-sixth of September.
 About thirty pages. No list of authorities.
@@ -97,13 +97,13 @@ The length of a duration is not shared either.
 What is shared is the speed, and the form of the laws.
 
 The paper names no book and no predecessor.
-It ends by thanking Besso, friend and colleague,
+It ends by thanking {{c|Besso}}, friend and colleague,
 For his help, and for suggestions.
 One living name. No bibliography.
 
-In the late summer Einstein went with Mileva and the child to {{p|Serbia}},
+In the late summer {{c|Einstein}} went with {{c|Mileva}} and the child to {{p|Serbia}},
 To friends, and to her family.
-On the twenty-seventh of September the Annalen received three pages.
+On the twenty-seventh of September the {{x|Annalen}} received three pages.
 Does the inertia of a body depend upon its energy content?
 Printed the twenty-first of November.
 If a body gives off energy as light, its mass lessens
@@ -111,10 +111,10 @@ By that energy divided by the square of the speed of light.
 The page does not contain the line the world later printed.
 The line is a later writing of what the three pages showed.
 
-In the same year the Annalen's supplement carried twenty-one short reviews
+In the same year the {{x|Annalen}}'s supplement carried twenty-one short reviews
 He had written, of papers on heat.
 The work he called revolutionary, and the ordinary notice of other work,
-Went out of the same months in Bern.
+Went out of the same months in {{p|Bern}}.
 
 Keep the distinction he made on the eighteenth of May.
 The countable light, he called revolutionary.
@@ -152,8 +152,8 @@ Do not pretend the sky held it before you did.
 
 # Chapter 310: The Round Altar
 
-On the tenth of October, 1911, soldiers at Wuchang rose.
-Wuchang is now part of {{p|Wuhan}}.
+On the tenth of October, 1911, soldiers at {{p|Wuchang}} rose.
+{{p|Wuchang}} is now part of {{p|Wuhan}}.
 Through the autumn the provinces left the court.
 {{c|Sun Yat-sen}} was abroad.
 On the twenty-ninth of December the assembly at {{p|Nanjing}}
@@ -165,7 +165,7 @@ The emperor was six.
 {{c|Puyi}} had been born on the seventh of February, 1906.
 On the twelfth of February, 1912, an edict went out in his name.
 {{c|Longyu}} issued it.
-She was empress dowager, widow of the emperor Guangxu,
+She was empress dowager, widow of the emperor {{c|Guangxu}},
 And the child was that emperor's nephew.
 She was not the boy's mother.
 Officials wrote the words. The decree that sent them was hers.
@@ -183,17 +183,17 @@ All under heaven is a public thing.
 The sentence is the public thing.
 It is not a private will in the sky, picking a flag.
 The paper named {{c|Yuan Shikai}},
-And called him prime minister by the Advisory Council's election,
+And called him prime minister by the {{x|Advisory Council}}'s election,
 And gave him full power to organize a provisional government
 And to confer with the people's army.
 It asked that five peoples stand as one republic:
-Manchu, Han, Mongol, Hui, Tibetan.
+{{x|Manchu}}, {{x|Han}}, {{x|Mongol}}, {{x|Hui}}, {{x|Tibetan}}.
 The house that was signing set its own name first.
 
-On the fifteenth of February the assembly at Nanjing chose him
+On the fifteenth of February the assembly at {{p|Nanjing}} chose him
 Provisional president.
 He took the oath on the tenth of March, in {{p|Beijing}}.
-He did not take it in Nanjing.
+He did not take it in {{p|Nanjing}}.
 The capital stayed where he stood.
 
 The child stayed in the palace.
@@ -205,34 +205,34 @@ A courtesy inside a palace is a courtesy.
 It is not the winter rite.
 
 South of the city stands the {{p|Temple of Heaven}}.
-The Ming raised the precinct in the fifteenth century.
+The {{x|Ming}} raised the precinct in the fifteenth century.
 Later emperors built the round altar up again.
 The duty they claimed is older than that brick.
-The Qing rite was the emperor's,
+The {{x|Qing}} rite was the emperor's,
 At the round altar, at the winter solstice.
 The February edict closed the house that had claimed the standing.
 It closed the house in the words of a public sky.
 February did not close the fire.
 
 On the twenty-third of December, 1914, the winter solstice,
-Yuan came to the round altar as president.
+{{c|Yuan}} came to the round altar as president.
 It was the third winter solstice of the republic.
 He changed into the old sacrificial dress.
 The prayer named the day.
 It named him president, representing the people.
-It said that Heaven looks down,
+It said that {{c|Heaven}} looks down,
 And that the charge is gathered on the people.
-The prayer did not call him Son of Heaven.
+The prayer did not call him {{c|Son of Heaven}}.
 What had been read was burned, as that rite burns its writing.
 No later president of the republic came to do it.
-That fire was the last the state lit there for Heaven.
+That fire was the last the state lit there for {{c|Heaven}}.
 
 Why he stood there is still disputed.
-A missionary from Germany read the day as a stair toward a throne.
+A missionary from {{p|Germany}} read the day as a stair toward a throne.
 The reading is his. The chapter does not adopt it.
-The next winter Yuan accepted an imperial title,
+The next winter {{c|Yuan}} accepted an imperial title,
 On the twelfth of December, 1915.
-The reign-name was to be Hongxian,
+The reign-name was to be {{x|Hongxian}},
 And the reign was to open on the first of January.
 He held no formal enthronement.
 On the twenty-second of March, 1916, he put the title down.
@@ -265,58 +265,58 @@ The names do not need that brick in order to be kept.
 
 On the twenty-eighth of June, 1914, in {{p|Sarajevo}},
 {{c|Gavrilo Princip}} shot two people in a car.
-{{c|Franz Ferdinand}} was the heir of Austria-Hungary.
+{{c|Franz Ferdinand}} was the heir of {{p|Austria-Hungary}}.
 {{c|Sophie, Duchess of Hohenberg}}, was his wife.
 She died with him.
 A pistol is not a war.
 The war was dated afterward, by cabinets.
 
-On the twenty-third of July, Austria-Hungary sent Serbia an ultimatum.
+On the twenty-third of July, {{p|Austria-Hungary}} sent {{p|Serbia}} an ultimatum.
 On the twenty-eighth it declared war.
-On the first of August, Germany declared war on Russia.
-On the third, Germany declared war on France.
-On the fourth, Germany entered Belgium.
-Britain's ultimatum, sent that afternoon, expired at eleven at night.
-No answer had come. Britain declared war.
+On the first of August, {{p|Germany}} declared war on {{p|Russia}}.
+On the third, {{p|Germany}} declared war on {{p|France}}.
+On the fourth, {{p|Germany}} entered {{p|Belgium}}.
+{{p|Britain}}'s ultimatum, sent that afternoon, expired at eleven at night.
+No answer had come. {{p|Britain}} declared war.
 The empire followed the declaration.
 
-On the twenty-third of August, Japan declared war on Germany.
+On the twenty-third of August, {{p|Japan}} declared war on {{p|Germany}}.
 The rescript was in the name of the emperor {{c|Yoshihito}}.
-It said he had hoped to keep the peace of the East,
+It said he had hoped to keep the peace of the {{p|East}},
 And that he was still in mourning for his mother.
 An ultimatum in the middle of the month had not been accepted.
-{{p|Qingdao}}, the German port on the Shandong coast, was the object.
-A Japanese force, with a smaller British one beside it,
-Took the place. The German garrison surrendered
+{{p|Qingdao}}, the {{x|German}} port on the {{p|Shandong}} coast, was the object.
+A {{x|Japanese}} force, with a smaller {{x|British}} one beside it,
+Took the place. The {{x|German}} garrison surrendered
 On the seventh of November.
 The two anchors of this book were in the same war,
 On the same side, and not for the same reason.
-Britain had asked for ships.
-Japan took a port.
+{{p|Britain}} had asked for ships.
+{{p|Japan}} took a port.
 
-The killing in Europe did not pause for a register.
+The killing in {{p|Europe}} did not pause for a register.
 Graves were dug where the line happened to be,
 And the next fight went over them, and the mark was gone.
 {{c|Fabian Ware}} was forty-five, too old for the army.
-In September of 1914 he was in France
-At the head of a mobile unit of the British Red Cross.
+In September of 1914 he was in {{p|France}}
+At the head of a mobile unit of the {{x|British Red Cross}}.
 He began to write down the graves his unit found.
 In 1915 the army took the work over
-And called it the Graves Registration Commission.
+And called it the {{x|Graves Registration Commission}}.
 In 1916 the name widened:
-The Directorate of Grave Registration and Enquiries.
+The {{x|Directorate of Grave Registration and Enquiries}}.
 The dead were being made into a file
 While they were still being made.
 
 On the twenty-first of May, 1917, a royal charter
-Created the Imperial War Graves Commission.
-The Prince of Wales was president.
-Ware was vice-chairman.
+Created the {{x|Imperial War Graves Commission}}.
+The {{c|Prince of Wales}} was president.
+{{c|Ware}} was vice-chairman.
 The charge was the graves of the empire's dead in that war,
 And the care of them after, and the names of the missing,
 Not for a season. The charter said the care was to last.
 
-{{c|Frederic Kenyon}}, director of the British Museum,
+{{c|Frederic Kenyon}}, director of the {{x|British Museum}},
 Was asked on the twentieth of November, 1917, to settle the marking.
 He put equality at the center of it.
 The same stone. Not a private monument as the rule.
@@ -330,12 +330,12 @@ The rule was written.
 {{c|Rudyard Kipling}} gave the sentence for a body with no name.
 Known unto God.
 His own son, {{c|John Kipling}}, had been missing
-Since the twenty-seventh of September, 1915, at Loos.
+Since the twenty-seventh of September, 1915, at {{p|Loos}}.
 
-This was the British Empire's rule for its own dead.
+This was the {{p|British Empire}}'s rule for its own dead.
 It was not the only rule other armies used.
 It was a decision, not a discovery.
-In May of 1920 the families' quarrel with it reached Parliament.
+In May of 1920 the families' quarrel with it reached {{x|Parliament}}.
 Many wanted the body brought home, or a stone of their own choosing.
 The commission held to the ground where the body lay,
 And to one form of stone.
@@ -352,11 +352,11 @@ The stopping was also a decision, and it was timed.
 In a railway carriage in the forest of {{p|Compiègne}},
 Before dawn on the eleventh of November, 1918,
 The armistice was signed.
-{{c|Ferdinand Foch}} signed for the Allies.
-{{c|Matthias Erzberger}} signed at the head of the Germans.
+{{c|Ferdinand Foch}} signed for the {{c|Allies}}.
+{{c|Matthias Erzberger}} signed at the head of the {{c|Germans}}.
 The terms said the operations on land and in the air
 Would cease six hours after the signature.
-The government told Parliament that day
+The government told {{x|Parliament}} that day
 That the armistice had been signed at five in the morning,
 And that the war ceased at eleven.
 The hour was appointed. The killing was not thereby already over.
@@ -364,7 +364,7 @@ Orders still ran, in the six hours, on both sides of a line
 That had a clock and did not yet have a peace.
 
 Do not give the war to the pistol.
-Princip fired. Sophie died with the heir.
+{{c|Princip}} fired. {{c|Sophie}} died with the heir.
 The declarations were signed on later days, by other men,
 Who could have not signed them.
 Do not give the end of it to the word war, as if a war ends itself.
@@ -373,7 +373,7 @@ Until that hour the guns were still a legal instrument.
 
 The register had already begun, years before the hour,
 Because the ground was not keeping what it was given.
-Ware's file is not the resurrection and not the trial.
+{{c|Ware}}'s file is not the resurrection and not the trial.
 It is the refusal to let the next advance be the erasure.
 Count the named. Cut the same stone for the rank and for the private.
 Keep the missing as missing, which is a kind of name.
@@ -385,14 +385,14 @@ And the names the hour did not give back.
 
 # Chapter 312: The Old Style
 
-Russia kept an older count of the days.
+{{p|Russia}} kept an older count of the days.
 The count this book keeps was already the one in use to the west.
 In 1917 the two stood thirteen days apart.
 
 On the eighth of March, in {{p|St. Petersburg}},
-The city was called Petrograd.
+The city was called {{p|Petrograd}}.
 By the calendar the country kept, it was the twenty-third of February.
-Women came out. On that calendar it was International Women's Day.
+Women came out. On that calendar it was {{x|International Women's Day}}.
 They came for bread. The garrison came over.
 {{c|Nicholas II}} was not in the city.
 
@@ -400,7 +400,7 @@ On the fifteenth of March, at {{p|Pskov}},
 The country dated the day the second of March.
 He abdicated for himself and for his son {{c|Alexei}},
 And he named his brother {{c|Michael Alexandrovich}} to the crown.
-On the sixteenth, Michael refused it,
+On the sixteenth, {{c|Michael}} refused it,
 Unless a constituent assembly, still to be elected, should confer it.
 The crown was offered. It was not taken.
 The reign ended on that refusal.
@@ -411,10 +411,10 @@ It kept the country in the war.
 The summer did not take the country out.
 The government did not last the autumn.
 
-On the sixteenth of April, {{c|Vladimir Lenin}} arrived in Petrograd.
+On the sixteenth of April, {{c|Vladimir Lenin}} arrived in {{p|Petrograd}}.
 The country dated the day the third of April.
-Germany had let him cross in a sealed train.
-It wanted Russia out of the war.
+{{p|Germany}} had let him cross in a sealed train.
+It wanted {{p|Russia}} out of the war.
 The permission is not the authorship of the night that came after.
 The next day he read the theses that bear April's name.
 No support for the provisional government.
@@ -424,20 +424,20 @@ An end to the war.
 On the seventh of November the party took the city.
 The country dated the night the twenty-fifth of October.
 The revolution kept October for its name.
-Kerensky had gone.
-The cruiser Aurora, lying in the river, fired a blank as a signal.
-The Winter Palace was taken.
-A congress of soviets sat at the Smolny Institute.
+{{c|Kerensky}} had gone.
+The cruiser {{x|Aurora}}, lying in the river, fired a blank as a signal.
+The {{p|Winter Palace}} was taken.
+A congress of soviets sat at the {{p|Smolny Institute}}.
 It passed a decree on peace, and a decree on land.
-A council of people's commissars was named, with Lenin at its head.
+A council of people's commissars was named, with {{c|Lenin}} at its head.
 That night is not the civil war.
 The civil war came after, and the dead of it were not few.
 
 In November the country elected a constituent assembly.
-The Socialist Revolutionaries returned the most deputies.
-The Bolsheviks did not.
+The {{c|Socialist Revolutionaries}} returned the most deputies.
+The {{c|Bolsheviks}} did not.
 On the eighteenth of January, 1918, the assembly met
-At the Tauride Palace in Petrograd.
+At the {{p|Tauride Palace}} in {{p|Petrograd}}.
 The country dated the day the fifth of January.
 It sat once.
 On the nineteenth, the sixth of January in the country's count,
@@ -460,27 +460,27 @@ After that night the state's days and this book's days are one register.
 October remained the name.
 In the register that remained, the night is the seventh of November.
 
-On the third of March, at {{p|Brest}}, then called Brest-Litovsk,
-Russia signed itself out of the war,
+On the third of March, at {{p|Brest}}, then called {{x|Brest-Litovsk}},
+{{p|Russia}} signed itself out of the war,
 And signed away a wide territory in the west.
-That exit is what Germany had wanted from the train.
+That exit is what {{p|Germany}} had wanted from the train.
 The treaty records the want.
 It does not make the night a foreign order.
 
-In March the government left Petrograd for {{p|Moscow}}.
+In March the government left {{p|Petrograd}} for {{p|Moscow}}.
 
 The people of the house were still alive.
 In the night of the sixteenth of July, crossing into the seventeenth,
-At the Ipatiev House in {{p|Yekaterinburg}}, they were killed.
+At the {{p|Ipatiev House}} in {{p|Yekaterinburg}}, they were killed.
 {{c|Nicholas II}}. {{c|Alexandra}}.
 {{c|Olga}}. {{c|Tatiana}}. {{c|Maria}}. {{c|Anastasia}}. {{c|Alexei}}.
 Four who served them were killed in the same room:
 {{c|Eugene Botkin}}, {{c|Anna Demidova}}, {{c|Alexei Trupp}}, {{c|Ivan Kharitonov}}.
 {{c|Yakov Yurovsky}}, commandant of the house,
-Read an order of the Ural soviet.
-A written order from Moscow, dated before the shooting, has not been found.
+Read an order of the {{p|Ural}} soviet.
+A written order from {{p|Moscow}}, dated before the shooting, has not been found.
 On the eighteenth, {{c|Yakov Sverdlov}} told the central executive committee
-That its presidium approved what the Urals had done.
+That its presidium approved what the {{p|Urals}} had done.
 On the nineteenth the paper said the former emperor had been shot,
 And that his family had been taken to a safe place.
 The children were already dead.
@@ -508,7 +508,7 @@ A state that has been taken has not withered.
 # Chapter 313: The Caliph of the Muslims
 
 On the third of March, 1924, in {{p|Ankara}},
-The Grand National Assembly deposed the caliph
+The {{x|Grand National Assembly}} deposed the caliph
 And abolished the office.
 The law said the office was already contained
 In the meaning of the government and the republic.
@@ -518,7 +518,7 @@ The prophet died at {{p|Medina}}.
 The revelation does not contain this statute.
 After the death the community gave its answers,
 And the answers were more than one.
-The house of Osman carried one of them.
+The house of {{c|Osman}} carried one of them.
 The name was caliph, a successor.
 The law of 1924 is a state's answer to that name.
 It does not erase the question.
@@ -530,21 +530,21 @@ To be given to the one most fit in learning and character.
 It did not say that {{c|Mehmed VI}} had been elected to it.
 On the third of November, a Friday,
 He went out to the prayer under both names,
-Sultan and caliph.
+{{c|Sultan}} and caliph.
 On the sixteenth the assembly decided to charge him
 With treason against the homeland.
 That night, the sixteenth into the seventeenth,
-He left {{p|Istanbul}} on a British warship.
+He left {{p|Istanbul}} on a {{x|British}} warship.
 
 On the nineteenth of November the assembly elected
 {{c|Abdülmecid II}}.
-He painted. One of the canvases is Beethoven in the palace.
+He painted. One of the canvases is {{c|Beethoven}} in the palace.
 The assembly did not give him the old title,
 Commander of the faithful.
-It gave him caliph of the Muslims.
+It gave him caliph of the {{c|Muslims}}.
 He asked to be called also servant of the two sanctuaries.
-He did not hold {{p|Mecca}}. He did not hold Medina.
-He asked to wear the turban of Mehmed the Conqueror.
+He did not hold {{p|Mecca}}. He did not hold {{p|Medina}}.
+He asked to wear the turban of {{c|Mehmed the Conqueror}}.
 {{c|Mustafa Kemal}} answered that a frock coat would do.
 Later he signed in the manner of a sultan's son.
 The signature was heard as the reign, trying to return.
@@ -552,23 +552,23 @@ The signature was heard as the reign, trying to return.
 On the twenty-fourth of November, at {{p|Topkapı}},
 In the room where the prophet's cloak was kept,
 The allegiance was given.
-The prayer that day was in Turkish.
-At the Fatih Mosque a sermon was read in Turkish,
+The prayer that day was in {{x|Turkish}}.
+At the {{p|Fatih Mosque}} a sermon was read in {{x|Turkish}},
 In the new caliph's name.
 It took the sentence about the greater struggle
 And read the struggle as the one against ignorance.
 
 From the twenty-first to the twenty-seventh of December,
-A caliphate conference in India accepted him.
+A caliphate conference in {{p|India}} accepted him.
 On the third of January, 1923,
-Indian Muslims gave Mustafa Kemal a title:
+{{x|Indian}} {{c|Muslims}} gave {{c|Mustafa Kemal}} a title:
 Saviour of the caliphate.
 
 On the twenty-ninth of October the assembly proclaimed the republic
 And elected him president.
-The caliph stayed in Istanbul.
+The caliph stayed in {{p|Istanbul}}.
 An office without the state sat in the old capital.
-The state without that office sat in Ankara.
+The state without that office sat in {{p|Ankara}}.
 
 On the fifth of December the papers printed a letter
 To the prime minister, {{c|İsmet Pasha}},
@@ -576,12 +576,12 @@ From {{c|Aga Khan}} and from {{c|Amir Ali}}.
 It asked that the office be kept,
 And that the caliph's standing be given back.
 On the night of the eighth the assembly, sitting in closed session,
-Decided to send an independence tribunal to Istanbul.
+Decided to send an independence tribunal to {{p|Istanbul}}.
 
 On the third of March the bill was brought by
-{{c|Saffet Efendi}}, deputy for Urfa, and fifty-three with him.
+{{c|Saffet Efendi}}, deputy for {{p|Urfa}}, and fifty-three with him.
 {{c|Seyyid Bey}}, the minister of justice,
-Had taught the law of the religion, and had studied at al-Azhar.
+Had taught the law of the religion, and had studied at {{p|al-Azhar}}.
 He told the chamber the caliphate was not a creed.
 It was a worldly question, among the public affairs of the people.
 {{c|Zeki Bey}}, the deputy from {{p|Gümüşhane}}, spoke against the closing.
@@ -605,22 +605,22 @@ Two of the women of the house,
 And the tutor, the secretary, and the doctor.
 An envelope from the governor held two thousand pounds
 And visas that let them out.
-They had wired a hotel at {{p|Territet}}, on the lake, in Switzerland.
+They had wired a hotel at {{p|Territet}}, on the lake, in {{p|Switzerland}}.
 The house was banned from living in the republic.
 
 On the eleventh of March he answered.
 He said the assembly's decision was void.
 He asked for a religious council,
 And for help to revive the office.
-Within the week Switzerland told him
-The Turkish government had objected,
+Within the week {{p|Switzerland}} told him
+The {{x|Turkish}} government had objected,
 And that he would not be permitted the work.
 
 In that same March, {{c|Hussein ibn Ali}},
-King of the Hejaz, who held Mecca,
+{{c|King of the Hejaz}}, who held {{p|Mecca}},
 Was proclaimed caliph.
 The day of it is not one day in the records.
-The proclamation did not reopen the office Ankara had closed.
+The proclamation did not reopen the office {{p|Ankara}} had closed.
 Holding a sanctuary is not the succession.
 
 He died in {{p|Paris}} on the twenty-third of August, 1944,
@@ -628,7 +628,7 @@ While the city was being taken back.
 {{c|Dürrüşehvar}} came and was given a promise.
 The body was not brought.
 On the thirtieth of March, 1954, he was buried at al-Baqi,
-In Medina.
+In {{p|Medina}}.
 The grave is in the prophet's city.
 The grave is not the office.
 
@@ -643,13 +643,13 @@ Do not say the bureau for worship is the succession.
 It is a state keeping the rites it will administer.
 Hold that keeping.
 Refuse the consolation that a closed office was never an office.
-Refuse the consolation that a grave in Medina restores one.
+Refuse the consolation that a grave in {{p|Medina}} restores one.
 
 The question of who succeeds is older than this law.
 The community has given more than one answer.
-This answer is a vote and a signature, on a Monday in Ankara.
+This answer is a vote and a signature, on a Monday in {{p|Ankara}}.
 The man they called saviour of the caliphate signed the paper that ended it.
-The man they called caliph of the Muslims died without the name.
+The man they called caliph of the {{c|Muslims}} died without the name.
 Count the office closed on the day the law says.
 Keep the question. It was not in the statute.
 
@@ -657,7 +657,7 @@ Keep the question. It was not in the statute.
 # Chapter 314: Finite Means
 
 On the twenty-third of June, 1912, {{c|Alan Turing}} was born in {{p|London}}.
-He was a fellow of King's College, in {{p|Cambridge}}.
+He was a fellow of {{p|King's College}}, in {{p|Cambridge}}.
 The work of this chapter was done there.
 
 {{c|David Hilbert}} had asked a question of method.
@@ -666,7 +666,7 @@ Answers yes or no: this statement has a proof, or it has none.
 The procedure would have to work for every statement.
 A cleverness that sometimes arrives is not the thing he asked for.
 
-Turing defined a number a machine can write.
+{{c|Turing}} defined a number a machine can write.
 A computable number, he said, is a real number
 Whose decimals are calculable by finite means.
 The means are a table.
@@ -694,7 +694,7 @@ The universal one does not know the work in advance.
 It knows how to follow a table.
 The table is the work.
 
-The London Mathematical Society received the paper
+The {{x|London Mathematical Society}} received the paper
 On the twenty-eighth of May, 1936.
 He was twenty-three.
 The paper's own line says it was read on the twelfth of November.
@@ -712,12 +712,12 @@ Effective calculability, he called it.
 It is not a tape.
 In the spring of 1936 he had reached the same refusal:
 There is no general procedure for the decision problem.
-{{c|Max Newman}}, at Cambridge, had seen Church's paper.
-Turing wrote an appendix.
+{{c|Max Newman}}, at {{p|Cambridge}}, had seen {{c|Church}}'s paper.
+{{c|Turing}} wrote an appendix.
 The appendix says the two definitions meet.
 He did not pretend the limit was his private finding.
 
-What he showed is that Hilbert's question has no such procedure.
+What he showed is that {{c|Hilbert}}'s question has no such procedure.
 No machine takes every statement and returns the verdict.
 He also showed a nearer limit, about the machines themselves.
 Some of them go on writing digits.
@@ -727,8 +727,8 @@ Says in every case which future that table has.
 A procedure can be written for a world of questions
 And still not be a procedure for its own future.
 
-In September he went to Princeton.
-The printed paper names him at the Graduate College there.
+In September he went to {{p|Princeton}}.
+The printed paper names him at the {{p|Graduate College}} there.
 The naming is the place he had reached.
 It is not the place where the table was made.
 
@@ -736,7 +736,7 @@ In 1931 {{c|Kurt Gödel}} had shown
 That a system strong enough to hold ordinary arithmetic
 Contains true sentences it cannot prove.
 That is a limit inside one set of rules.
-Turing's limit is about the method itself.
+{{c|Turing}}'s limit is about the method itself.
 It asks whether any method exists that will always answer.
 The two limits are not the same fact.
 Do not fold them into one darkness.
@@ -763,27 +763,27 @@ Do not pretend the sky was running the tape before you wrote the table.
 # Chapter 315: A Hand and a Name
 
 On the nineteenth of August, 1953, in {{p|Jerusalem}},
-The Knesset passed a law.
+The {{x|Knesset}} passed a law.
 It established an authority of remembrance
-And named the authority with two words from Isaiah.
+And named the authority with two words from {{c|Isaiah}}.
 A hand and a name.
 The verse had been spoken to the childless:
 A memorial and a name, better than sons and daughters,
 A name that would not be cut off.
 The law took the words for the murdered.
 It did not say the verse had been kept.
-The law's title sets the Shoah, the catastrophe,
+The law's title sets the {{x|Shoah}}, the catastrophe,
 Beside the heroism.
 The halls were not yet the charge.
 The charge was the statute.
 
 The law's first article is the six million
-Of the Jewish people murdered
-By the Nazis and those who helped them.
+Of the {{x|Jewish}} people murdered
+By the {{c|Nazis}} and those who helped them.
 It names also the households, the communities,
 The houses of prayer, the schools,
 The institutions of mercy,
-Destroyed in a plan to blot out the name of Israel
+Destroyed in a plan to blot out the name of {{p|Israel}}
 From under the sky.
 The statute says six million.
 This chapter does not contain the names.
@@ -793,26 +793,26 @@ The killing was a procedure
 Before any memorial had a statute.
 
 On the twenty-second of June, 1941,
-Germany invaded the Soviet Union.
+{{p|Germany}} invaded the {{p|Soviet Union}}.
 In the territory taken that summer,
-Jews were shot beside the towns.
+{{c|Jews}} were shot beside the towns.
 On the twenty-ninth and the thirtieth of September,
-At Babyn Yar, the ravine at {{p|Kyiv}},
-The Jews who had been gathered there were shot.
+At {{p|Babyn Yar}}, the ravine at {{p|Kyiv}},
+The {{c|Jews}} who had been gathered there were shot.
 A ravine is a place and two days.
 It is not an explanation.
 
 On the thirty-first of July, {{c|Hermann Göring}}
 Charged {{c|Reinhard Heydrich}}
 To prepare what they called the final solution
-Of the Jewish question in Europe.
+Of the {{x|Jewish}} question in {{p|Europe}}.
 An order to prepare is not the first grave.
 The shootings were already underway.
 
 On the twentieth of January, 1942,
 At {{p|Wannsee}}, in {{p|Berlin}},
-Heydrich sat with the officials of the ministries.
-The minutes count eleven million Jews in Europe
+{{c|Heydrich}} sat with the officials of the ministries.
+The minutes count eleven million {{c|Jews}} in {{p|Europe}}
 As the people the plan named.
 That count is the plan's.
 It is not the number of the dead.
@@ -820,22 +820,22 @@ Do not give the murder to the meeting.
 The meeting arranged the offices.
 The killing did not wait for the minutes.
 
-At {{p|Oświęcim}} the camp was called Auschwitz.
+At {{p|Oświęcim}} the camp was called {{p|Auschwitz}}.
 There a number was put on the body.
 The number is not a name.
 On the seventeenth of January, 1945,
 The last roll call of that camp's system
 Counted sixty-seven thousand and twelve.
 In the days after, about fifty-six thousand were marched out.
-On the twenty-seventh the Red Army entered
+On the twenty-seventh the {{x|Red Army}} entered
 And found about seven thousand still there.
 The people on the roads were not freed by the gate.
 Do not give the end of the killing
 To the day an army arrived.
 
 The same law names a further charge.
-Those who were not Jews,
-And who risked their lives to keep a Jew from being taken.
+Those who were not {{c|Jews}},
+And who risked their lives to keep a {{c|Jew}} from being taken.
 It calls them the righteous among the nations.
 In that year the law did not judge the cases.
 The judging came later, one person at a time,
@@ -847,7 +847,7 @@ A life kept is a particular act
 On a particular day.
 It is not a proof the century came through.
 
-The deputies of Herut did not cast a vote.
+The deputies of {{x|Herut}} did not cast a vote.
 The bill passed.
 The house then stood for five minutes.
 
@@ -870,7 +870,7 @@ Where a procedure had set a number.
 The law can order the labor.
 It cannot order the death undone.
 
-Count the authority from the day the Knesset gives.
+Count the authority from the day the {{x|Knesset}} gives.
 Keep the question the statute cannot close.
 Who was killed, by name.
 Who lived, and by what particular refusal.
@@ -883,7 +883,7 @@ And they are not finished here.
 
 On the sixth of August, 1945, the morning at {{p|Hiroshima}} was clear.
 A quarter past eight, the uranium bomb left the aircraft.
-The aircraft was the Enola Gay.
+The aircraft was the {{x|Enola Gay}}.
 {{c|Paul Tibbets}} was its pilot.
 The bomb burst less than a minute later, over the city.
 The offices that kept the city's names were in the fire.
@@ -895,30 +895,30 @@ The other design, the plutonium bomb, had been fired once.
 On the sixteenth of July, in the desert of {{p|New Mexico}},
 A test of that design was set off before any city.
 The test was not a city.
-The morning at Hiroshima was a city.
+The morning at {{p|Hiroshima}} was a city.
 
 On the twenty-sixth of July a notice had been sent.
-It told Japan to surrender.
+It told {{p|Japan}} to surrender.
 The government had not surrendered on that notice
 When the first bomb burst.
 
-On the eighth of August the Soviet Union declared war.
-In the early hours of the ninth its armies entered Manchuria.
-The same morning another aircraft was over Japan.
-The aim was Kokura, now part of {{p|Kitakyushu}}.
+On the eighth of August the {{p|Soviet Union}} declared war.
+In the early hours of the ninth its armies entered {{p|Manchuria}}.
+The same morning another aircraft was over {{p|Japan}}.
+The aim was {{p|Kokura}}, now part of {{p|Kitakyushu}}.
 Cloud and the smoke of the ground hid the arsenal.
 The aircraft passed over and did not drop.
 It went on to {{p|Nagasaki}}.
 {{c|Charles Sweeney}} was its pilot.
 At two minutes past eleven the plutonium bomb burst
-Over the valley of Urakami,
+Over the valley of {{p|Urakami}},
 Not on the point the orders had named.
 The hills held some of the blast.
 They did not hold the dead.
 The counts for this city also fail to close.
 They are not given a single number here.
 
-People brought from Korea were in both cities.
+People brought from {{p|Korea}} were in both cities.
 They died under the same hours.
 The chapter will not invent their separate figure.
 Their names belong in the same keeping.
@@ -939,17 +939,17 @@ The instrument of surrender was signed.
 
 Do not make the two mornings into a proof
 That the war could have ended by no other act.
-The Soviet armies were already in Manchuria
+The {{x|Soviet}} armies were already in {{p|Manchuria}}
 When the second bomb burst.
 Do not make the two mornings into a proof
 That a city was a price rightly paid.
-The aim at Kokura was a city.
-The sky over Kokura hid the aim.
+The aim at {{p|Kokura}} was a city.
+The sky over {{p|Kokura}} hid the aim.
 A procedure chose the names in advance.
 The sky did not keep the list.
-Hiroshima was the first name, and the morning was clear.
-Kokura was the next name, and the morning was not.
-Nagasaki was the name the aircraft could see.
+{{p|Hiroshima}} was the first name, and the morning was clear.
+{{p|Kokura}} was the next name, and the morning was not.
+{{p|Nagasaki}} was the name the aircraft could see.
 
 Hold the hours. They are known.
 A quarter past eight. Two minutes past eleven.
@@ -968,7 +968,7 @@ The dead are not the argument that closes the question.
 
 # Chapter 317: The Plugs and the Point
 
-On the tenth of December, 1945, at the Moore School in {{p|Philadelphia}},
+On the tenth of December, 1945, at the {{p|Moore School}} in {{p|Philadelphia}},
 A room of tubes was put to work.
 The room had been built for the path of a shell.
 The work of that December was a study brought from {{p|Los Alamos}},
@@ -981,14 +981,14 @@ Do not make the study into the reason the room existed.
 The contract was a table of firing.
 
 The contract was signed on the fifth of June, 1943.
-The Army's laboratory at {{p|Aberdeen}} wanted the tables.
+The {{x|Army}}'s laboratory at {{p|Aberdeen}} wanted the tables.
 {{c|Herman Goldstine}} brought the money and watched the work.
 {{c|John Mauchly}} and {{c|J. Presper Eckert}} designed the machine.
-They called the work Project PX.
+They called the work {{x|Project PX}}.
 A person who calculated for a living was called a computer.
 The machine took the name of that work.
-Electronic Numerical Integrator and Computer.
-The letters are ENIAC.
+{{x|Electronic Numerical Integrator}} and Computer.
+The letters are {{x|ENIAC}}.
 The name does not say what the December work was.
 
 It did not hold its own instructions.
@@ -1010,13 +1010,13 @@ Six of the computers were set to the machine.
 {{c|Marlyn Wescoff}}.
 {{c|Frances Bilas}}.
 {{c|Ruth Lichterman}}.
-Goldstine called them operators.
+{{c|Goldstine}} called them operators.
 The designation given the women was subprofessional.
 The men with the same mathematics were called professionals.
 
 On the evening of the fourteenth of February, 1946,
 They showed the machine.
-Betty Snyder and Jean Jennings had set the demonstration.
+{{c|Betty Snyder}} and {{c|Jean Jennings}} had set the demonstration.
 It was the path of a shell.
 A person at a desk would have taken weeks.
 {{c|Herman Goldstine}} and {{c|Adele Goldstine}} were credited for it.
@@ -1028,7 +1028,7 @@ Tubes failed.
 The room stopped until the failed one was found.
 
 Do not call it the first.
-In England {{c|Tommy Flowers}} had already set a machine of tubes
+In {{p|England}} {{c|Tommy Flowers}} had already set a machine of tubes
 To one purpose, and the purpose was kept secret.
 In {{p|Berlin}}, {{c|Konrad Zuse}} had already run a sequence
 On a machine of relays.
@@ -1038,7 +1038,7 @@ Had started a machine of tubes.
 The work was stopped in 1942.
 This was the one they showed.
 
-On the twenty-ninth of July, 1947, they turned it on at Aberdeen.
+On the twenty-ninth of July, 1947, they turned it on at {{p|Aberdeen}}.
 The proving ground was the place the tables had been for.
 At eleven forty-five in the night, on the second of October, 1955,
 It was turned off.
@@ -1053,7 +1053,7 @@ They had not yet named it.
 {{c|William Shockley}} was the head of their group.
 He was not the hand on the point that day.
 On the twenty-third they showed it to the laboratory.
-He called the demonstration a magnificent Christmas present.
+He called the demonstration a magnificent {{x|Christmas}} present.
 Early in 1948 he worked out a different device,
 A layer between two layers, which could be made to a pattern.
 That device was not the object in the December room.
@@ -1063,7 +1063,7 @@ Before the announcement, the laboratory chose a name.
 They called it a transistor.
 On the thirtieth of June, 1948, in {{p|New York}}, they told the press.
 The device of that December was delicate.
-Do not move the later device back into the Christmas demonstration.
+Do not move the later device back into the {{x|Christmas}} demonstration.
 
 A tube is a finite means.
 A point on a crystal is a finite means.
@@ -1093,7 +1093,7 @@ Sent a memorandum to the imperial government.
 Its number was 448.
 Its subject was the abolition of the state's
 Sponsorship, support, perpetuation, control, and dissemination
-Of State Shinto.
+Of {{x|State Shinto}}.
 The sponsorship by the national government,
 By the prefectures, and by the towns,
 And by any official acting as an official,
@@ -1109,7 +1109,7 @@ To report that he had taken the post,
 Or to stand at a rite as the government.
 He could go as a man.
 The order forbade militarist teaching
-In the rites of Shinto and in the rites of every other religion,
+In the rites of {{x|Shinto}} and in the rites of every other religion,
 The same prohibition, the same hour.
 Its stated aim was to separate religion from the state
 And to set every religion on the same legal footing.
@@ -1123,23 +1123,23 @@ A shrine was not yet named in it.
 
 On the first of January, 1946,
 The newspapers printed a rescript of the emperor {{c|Hirohito}}.
-Its title was the construction of a new Japan.
+Its title was the construction of a new {{p|Japan}}.
 What people called it was the declaration
 That he was human.
 It was not the recorded voice of the fifteenth of August.
 It began by taking up the five clauses
-Of the Charter Oath {{c|Meiji}} had proclaimed.
+Of the {{x|Charter Oath}} {{c|Meiji}} had proclaimed.
 Then it said the tie between him and the people
 Had always stood on mutual trust and affection.
 It did not depend on mere legends and myths.
-The English that went with the rescript
+The {{x|English}} that went with the rescript
 Says the tie is not predicated on a false conception:
 That the emperor is divine,
-And that the Japanese are superior to other races
+And that the {{x|Japanese}} are superior to other races
 And fated to rule the world.
 The rescript's own word is akitsumikami,
 A manifest kami.
-The English says divine.
+The {{x|English}} says divine.
 They are not the same word.
 The sentence refuses a conception of the bond.
 It does not say what a shrine may still hold,
@@ -1155,12 +1155,12 @@ Under the inner shrine at {{p|Ise}},
 Which they looked to as the source,
 For the shrines of the country,
 To carry the shrines' own charge
-And to contribute to the construction of a new Japan.
+And to contribute to the construction of a new {{p|Japan}}.
 The rescript had used that aim in its title.
 The declaration used it as the work.
 
 The office that had held the shrines for the state
-Was the Jingiin, set inside the Home Ministry
+Was the {{x|Jingiin}}, set inside the {{x|Home Ministry}}
 In November of 1940.
 The memorandum had required the separation.
 The end was first set for the last day of January.
@@ -1168,7 +1168,7 @@ On the second of February the office was ended,
 And the shrines on the register
 Were deemed religious corporations.
 On the third of February the association was established.
-Its name was Jinja Honchō,
+Its name was {{x|Jinja Honchō}},
 The main office of the shrines.
 The shrines that came under it
 Were a religious corporation's shrines,
@@ -1176,12 +1176,12 @@ Not a ministry's.
 Not every shrine came under it.
 {{p|Yasukuni}} was deemed a religious corporation
 In its own right, and is not written here as theirs.
-Ise was the source they named.
+{{p|Ise}} was the source they named.
 It was not a hall the office owned.
 
 Do not say the memorandum ended the kami.
 It ended a budget and an official attendance.
-Do not say the English word divine
+Do not say the {{x|English}} word divine
 Is the whole of the word he used.
 Do not say the new office was the ministry, renamed.
 A voluntary gift is not a tax.
@@ -1191,7 +1191,7 @@ Hold that.
 The stories are not what the rescript rested the bond on.
 The stories are not thereby made nothing.
 Refuse the consolation that a separation is a deletion,
-And the consolation that an office looking to Ise
+And the consolation that an office looking to {{p|Ise}}
 Has restored the state that paid.
 The striving is the footing:
 A shrine among religions, kept by those who come,
@@ -1231,15 +1231,15 @@ The commission that was to draft them met after that.
 The text is not one hand.
 {{c|Peng Chun Chang}} asked that the first article hold conscience
 As well as reason.
-He brought the Chinese word ren to the argument,
+He brought the {{x|Chinese}} word ren to the argument,
 The regard of one person for another.
-The English that stayed beside reason is conscience.
+The {{x|English}} that stayed beside reason is conscience.
 {{c|Hansa Mehta}} required the article to say human beings.
 A draft had said men.
 The article does not say men.
 
-On the tenth of December, 1948, at the Palais de Chaillot in {{p|Paris}},
-Before midnight, the General Assembly adopted the declaration.
+On the tenth of December, 1948, at the {{p|Palais de Chaillot}} in {{p|Paris}},
+Before midnight, the {{x|General Assembly}} adopted the declaration.
 The resolution is 217.
 The declaration is its first part.
 Thirty articles.
@@ -1259,14 +1259,14 @@ Fifty-eight states were members.
 Forty-eight voted for the declaration.
 None voted against it.
 Eight abstained.
-The Soviet Union abstained,
-And Ukraine, and Belarus, and Poland,
-And Czechoslovakia, and Yugoslavia.
-Saudi Arabia abstained.
+The {{p|Soviet Union}} abstained,
+And {{p|Ukraine}}, and {{p|Belarus}}, and {{p|Poland}},
+And {{p|Czechoslovakia}}, and {{p|Yugoslavia}}.
+{{p|Saudi Arabia}} abstained.
 It had spoken against the article that lets a person change belief.
-South Africa abstained.
-Honduras was not in the vote.
-Yemen was not in the vote.
+{{p|South Africa}} abstained.
+{{p|Honduras}} was not in the vote.
+{{p|Yemen}} was not in the vote.
 Do not call the night unanimous.
 A vote with eight abstentions and two absent
 Is not a vote of every member.
@@ -1289,12 +1289,12 @@ The charter named a respect.
 The declaration named articles.
 They are two documents, and two years.
 
-Hold the June signing, fifty hands, Poland not yet among them.
+Hold the June signing, fifty hands, {{p|Poland}} not yet among them.
 Hold the October day, when the charter had force and still no list.
 Hold the tenth of December, before midnight.
 Forty-eight for. None against. Eight withholding.
 The word in the first article is human beings.
-The word Chang asked for is in the sentence.
+The word {{c|Chang}} asked for is in the sentence.
 A declaration can put a person on a page with every other person.
 It does not, by being adopted, keep the person alive.
 It does not close a shrine.
@@ -1313,16 +1313,16 @@ The dead are not thereby left off the work of naming.
 # Chapter 320: The Recommendation
 
 On the twenty-ninth of November, 1947, in {{p|New York}},
-The General Assembly voted.
-Resolution 181 recommended a partition of the mandate of Palestine.
+The {{x|General Assembly}} voted.
+{{x|Resolution 181}} recommended a partition of the mandate of {{p|Palestine}}.
 Thirty-three voted for it.
 Thirteen voted against it.
 Ten abstained.
 One was absent.
-The United States voted for it.
-The Soviet Union voted for it.
-Britain, the power that held the mandate, abstained.
-The plan was an Arab state, a Jewish state,
+The {{p|United States}} voted for it.
+The {{p|Soviet Union}} voted for it.
+{{p|Britain}}, the power that held the mandate, abstained.
+The plan was an {{x|Arab}} state, a {{x|Jewish}} state,
 And {{p|Jerusalem}} as a corpus separatum,
 A city under an international regime,
 Not the capital of either.
@@ -1332,37 +1332,37 @@ The resolution says recommends.
 A recommendation is not a government.
 The people of the country did not cast these votes.
 
-The Jewish Agency accepted the plan.
-The Arab Higher Committee rejected it.
+The {{x|Jewish Agency}} accepted the plan.
+The {{x|Arab Higher Committee}} rejected it.
 The states that voted no had said no with their names.
 Between the vote and the spring there was already fighting.
 The declaration did not begin it.
 
-Britain did not stay until the plan's last date.
+{{p|Britain}} did not stay until the plan's last date.
 At midnight, the night of the fourteenth of May, 1948,
 The mandate ended.
 That afternoon, at four, in the museum in {{p|Tel Aviv}},
 {{c|David Ben-Gurion}} read a scroll.
-It declared a Jewish state, to be called Israel,
+It declared a {{x|Jewish}} state, to be called {{p|Israel}},
 From the moment the mandate ended that night.
 It claimed a natural and historic right,
-And the strength of the Assembly's resolution.
+And the strength of the {{x|Assembly}}'s resolution.
 The scroll does not draw the plan's borders as its own.
 It says the state will keep complete equality
 Of social and political rights
 To all its inhabitants, irrespective of religion, race, or sex.
 It says it will safeguard the holy places of all religions.
-It says it will be faithful to the principles of the Charter.
-The closing words put trust in the Rock of Israel.
+It says it will be faithful to the principles of the {{x|Charter}}.
+The closing words put trust in the {{c|Rock of Israel}}.
 The words can be heard as God.
 The words can be heard as the people.
 The text does not say which.
 
-The Arab state in the plan was not declared.
+The {{x|Arab}} state in the plan was not declared.
 On the fifteenth the armies entered:
-Egypt, Transjordan, Syria, Lebanon, and Iraq.
-Transjordan is the name that state then used.
-Jerusalem was not set up as the separated city.
+{{p|Egypt}}, {{p|Transjordan}}, {{p|Syria}}, {{p|Lebanon}}, and {{p|Iraq}}.
+{{p|Transjordan}} is the name that state then used.
+{{p|Jerusalem}} was not set up as the separated city.
 The fighting divided it.
 The international regime was not established.
 
@@ -1372,12 +1372,12 @@ The counts of how many do not agree.
 This chapter does not choose a count.
 Neither fact cancels the other.
 A village is not the whole, and the whole is not a village.
-The United States recognized the state that day,
+The {{p|United States}} recognized the state that day,
 De facto.
 Recognition is not the map.
 
 Do not say the recommendation was the country.
-The Assembly drew three regimes on one land.
+The {{x|Assembly}} drew three regimes on one land.
 What the year did was one declaration, a war,
 And a city that was not international.
 Do not say the scroll's equality is a report of the year.
@@ -1385,7 +1385,7 @@ It is a charge the state wrote down for itself.
 A charge is not kept by being written.
 Do not say the war was the only answer the vote could have had.
 Do not say the vote was nothing because a war followed.
-The Agency said yes. The Committee said no.
+The {{x|Agency}} said yes. The {{x|Committee}} said no.
 Those were decisions. Other decisions were open,
 And were not taken.
 

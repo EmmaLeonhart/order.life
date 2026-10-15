@@ -2267,16 +2267,16 @@ Of his empire, the richest on earth,
 Went to war over him, in 1657, four sons against each other.
 The eldest, Dara Shikoh, the father's favourite, the heir,
 Was a scholar and a mystic, a Sufi of the Qadiri order, the brother
-Who had sat with the Hindu sages and the Muslim saints, and in the air
+Who had sat with the {{x|Hindu}} sages and the {{x|Muslim}} saints, and in the air
 
 Of their talk had found one truth. He wrote a book, *The Confluence
-Of the Two Seas*, *Majma-ul-Bahrain*: that the Sufi way and the Vedanta
+Of the Two Seas*, *{{x|Majma-ul-Bahrain}}*: that the Sufi way and the Vedanta
 Were the same ocean, named twice; that the difference
 Was only in words. And in 1657, with the pandits of {{p|Varanasi}}, the mantra
 
-Of his life's work: he translated fifty Upanishads into Persian,
+Of his life's work: he translated fifty Upanishads into {{x|Persian}},
 And called them the hidden book the Quran itself had hinted at,
-*The Greatest Secret*. That was Akbar's House of Worship, the version
+*{{x|The Greatest Secret}}*. That was Akbar's {{x|House of Worship}}, the version
 Of it in one man's heart. And his brother Aurangzeb, a different hat
 
 Of the same house: austere, orthodox, a soldier, a scholar of the law,
@@ -2295,7 +2295,7 @@ Now hear it carefully. The historians divide.
 Some say he was a bigot who undid what Akbar unfurled;
 
 Some say he was a ruler of his time, who also granted land
-To temples, and employed more Hindu nobles than his father did.
+To temples, and employed more {{x|Hindu}} nobles than his father did.
 Both are true in part. Here is what is sure: by his command
 The jizya, the tax on Hindus, came back in 1679; the lid
 
@@ -2319,9 +2319,9 @@ Open to the sky, at {{p|Khuldabad}}, paid for with his caps. It is there.
 And within fifty years the empire was a name. The save
 Of the synthesis came from elsewhere. Hear where:
 
-Dara's Persian Upanishads were carried to {{p|France}}, and in 1801
-A French scholar, Anquetil-Duperron, put them into Latin, and a young
-German philosopher, Schopenhauer, read them, and wrote: it has been the consolation of my life, the sun
+Dara's {{x|Persian}} Upanishads were carried to {{p|France}}, and in 1801
+A {{x|French}} scholar, Anquetil-Duperron, put them into {{x|Latin}}, and a young
+{{x|German}} philosopher, Schopenhauer, read them, and wrote: it has been the consolation of my life, the sun
 Of my death. And through him the Upanishads went into the tongue
 
 Of {{p|Europe}}'s thinking. The brother who lost the war won the long game.
@@ -2331,7 +2331,7 @@ House, the same blood, the same faith, and the two keys:
 
 The key that locks, the key that opens. The tomb by the river,
 Built for love, watched by a prisoner. The plain grave on the hill.
-The head of the mystic. The Upanishad in Latin. The giver
+The head of the mystic. The Upanishad in {{x|Latin}}. The giver
 And the taker. The confluence is never closed. It is still
 
 Running somewhere. Find it. Two seas, one water.
@@ -2358,8 +2358,8 @@ The king gave them a charter in 1662: the Royal Society. The lump
 Of the old learning, the authority of the ancients, the one
 
 Who must be believed because he was Aristotle, they set aside
-With a motto: *Nullius in verba*. Take nobody's word for it.
-Not the king's, not the Church's, not the philosopher's, not the pride
+With a motto: *{{x|Nullius in verba}}*. Take nobody's word for it.
+Not the king's, not the {{x|Church}}'s, not the philosopher's, not the pride
 Of the learned. See it. Weigh it. Do it again. Commit
 
 The result to the record, and let the others try.
@@ -2369,17 +2369,17 @@ Of the world would be settled by the eye, not the business
 
 Of argument. Robert Boyle and his pump: a bird in a glass,
 The air drawn out, and the bird dying, and the air let back in.
-Robert Hooke, the Society's curator of experiments, would pass
+Robert Hooke, the {{x|Society}}'s curator of experiments, would pass
 A flea under his microscope and draw it, the bristles, the skin
 
-Of armour, enormous, in *Micrographia*, in 1665,
+Of armour, enormous, in *{{x|Micrographia}}*, in 1665,
 And look at a slice of cork and see little rooms, and call them *cells*.
 The word is his. Every living thing is made of them. The hive
 Of the body, the leaf, the whale, the child: cells.
 
 And in the same year, Henry Oldenburg, the secretary, began
-To print the letters that came in from every country: *Philosophical
-Transactions*, the oldest scientific journal still in print. The plan
+To print the letters that came in from every country: *{{x|Philosophical}}
+{{x|Transactions}}*, the oldest scientific journal still in print. The plan
 Was a register of discovery: who saw what, when. The radical
 
 Idea that knowledge belongs to whoever saw it first and published it,
@@ -2397,10 +2397,10 @@ Woman at a meeting. The first woman elected a Fellow came in 1945.
 Two hundred and eighty-five years. Hold it. The thirst
 For evidence did not reach the evidence of who was alive
 
-Around the table. And the Society ran out of money. In 1686 they printed
-A *History of Fishes*, lavishly, and it did not sell.
-So when Newton's *Principia* came, in 1687, the book that minted
-The laws of motion and of gravity, the Society, unable to tell
+Around the table. And the {{x|Society}} ran out of money. In 1686 they printed
+A *{{x|History of Fishes}}*, lavishly, and it did not sell.
+So when Newton's *{{x|Principia}}* came, in 1687, the book that minted
+The laws of motion and of gravity, the {{x|Society}}, unable to tell
 
 The printer yes, let Edmond Halley pay for it himself,
 And paid Halley his salary, they say, in unsold copies of the fishes.
@@ -2412,13 +2412,13 @@ Newton would be its president for twenty-four years, and a tyrant to his rivals.
 Take nobody's word for it: not even his. The quirk
 Of the motto is that it turns on its makers. The archivals
 
-Of the Society keep the quarrels too: Hooke and Newton, the priority
+Of the {{x|Society}} keep the quarrels too: Hooke and Newton, the priority
 Of the calculus, the committee Newton secretly wrote the report of himself.
 Hold this, near the end of Virgo: the greatest authority
 Of the modern age was founded on the refusal of authority. The shelf
 
 Of scripture this book is making must keep the same rule.
-Do not believe the Gaiad because it is scripture. Check it.
+Do not believe the {{x|Gaiad}} because it is scripture. Check it.
 Repeat it. Where it dreams, it says so. Where it errs, the tool
 Of correction is open to anyone. That is the oath. Respect it.
 
@@ -2442,7 +2442,7 @@ Joy of illumination, then the dark, the swings
 
 Of a mind that history would now call bipolar.
 In his bright seasons he did forbidden things: spoke aloud
-The Name of God that no one speaks, married a Torah scroll, the solar
+The {{x|Name of God}} that no one speaks, married a {{x|Torah}} scroll, the solar
 Rites of a man who thought the law was over. The crowd
 
 Of the rabbis expelled him. He wandered. And in 1665, in {{p|Gaza}},
@@ -2458,7 +2458,7 @@ Of exile seemed to be written. People sold their houses. The worth
 Of everything was nothing beside the journey home.
 In {{p|Hamburg}}, a woman named Glückel would remember, in her memoir,
 How the people danced in the synagogue with the letters, and how, to roam
-To the Holy Land, her father-in-law in {{p|Hameln}} packed his store
+To the {{p|Holy Land}}, her father-in-law in {{p|Hameln}} packed his store
 
 Of linen and dried food and peas and beans into barrels,
 And kept them ready for the moment the messiah called.
@@ -2467,17 +2467,17 @@ And the hopes of all {{p|Europe}} pointing to it. And he was hauled
 
 In chains, when he sailed to {{p|Istanbul}} to claim the sultan's crown,
 And held in the fortress of {{p|Gallipoli}}, which his followers called
-The Tower of Strength, and he held court there, and the town
+The {{x|Tower of Strength}}, and he held court there, and the town
 Filled with pilgrims. And in September he was brought, enthralled
 
 Or terrified, before the sultan's council at {{p|Edirne}},
-And offered a choice: a miracle, or death, or Islam.
+And offered a choice: a miracle, or death, or {{x|Islam}}.
 He took the turban. *Aziz Mehmed Efendi*. The journey
 Was over. The messiah had converted. The calm
 
 Of the morning after: shame, disbelief, the scattering.
 Some said it was a mystery, a descent into the husks
-To gather the last sparks. A few followed him into Islam, the battering
+To gather the last sparks. A few followed him into {{x|Islam}}, the battering
 Of their faith turned inside out: the Dönme of {{p|Thessaloniki}}, the dusks
 
 Of their secret rites kept for two hundred years. And most
@@ -2486,7 +2486,7 @@ Glückel says her father-in-law kept them packed, for the ghost
 Of a hope, for three years, before he finally let them in
 
 To the house again. He died in exile in 1676,
-In {{p|Ulcinj}}, on the Adriatic, on Yom Kippur, they say.
+In {{p|Ulcinj}}, on the {{p|Adriatic}}, on Yom Kippur, they say.
 Now, on Sukkot. The festival of booths: you leave the bricks
 And live seven days in a hut of branches, open to the sky. The way
 
@@ -2518,7 +2518,7 @@ Over your head, and they let the light through the bars.
 
 # Chapter 279: One Law for the Apple and the Moon
 
-A child born early on Christmas Day, 1642, so small, his mother said,
+A child born early on {{x|Christmas Day}}, 1642, so small, his mother said,
 He would have fit in a quart pot, at {{p|Woolsthorpe}} in {{p|Lincolnshire}},
 The year Galileo died. His father was already dead.
 His mother left him with his grandmother. The fire
@@ -2545,8 +2545,8 @@ Of the answer: an ellipse. I have calculated it. The walls
 
 Of his rooms were searched for the paper, and it was lost, and he promised
 To do it again. Three years later the book came out:
-*Philosophiae Naturalis Principia Mathematica*, the fifth of July, 1687, the honest
-Size of it three books in Latin, paid for, as the last chapter told, without doubt,
+*{{x|Philosophiae Naturalis Principia Mathematica}}*, the fifth of July, 1687, the honest
+Size of it three books in {{x|Latin}}, paid for, as the last chapter told, without doubt,
 
 By Halley. Three laws of motion. A body at rest stays at rest.
 A force changes motion in proportion. Every action has its reaction.
@@ -2560,7 +2560,7 @@ In 1758, sixteen years after he had died. The burn
 
 Of the old sky was over: the heavens were not made of a finer stuff.
 They were made of world. The same law in the stars as in the hand.
-That is the Gaiad's first chapter, written in Latin. Enough
+That is the {{x|Gaiad}}'s first chapter, written in {{x|Latin}}. Enough
 To know the universe is one: one law, one land.
 
 And now the other Newton. The one who spent more years
@@ -2568,7 +2568,7 @@ On alchemy than on physics, hunting the philosopher's stone,
 Writing a million words on the transmutation of metals, the tears
 Of mercury and the green lion. The one who, alone,
 
-Denied the Trinity in secret, and calculated from the Book of Daniel
+Denied the {{x|Trinity}} in secret, and calculated from the Book of Daniel
 That the world would not end before 2060. The one
 Whose papers, sold in 1936, made Keynes write that he was not the first
 Of the age of reason: he was the last of the magicians. The sun
@@ -2584,7 +2584,7 @@ Keep it in the box, labelled. Publish what can be tried.
 He wrote: *I frame no hypotheses*, about the cause, the seam
 
 Of gravity he could not explain. He knew what he did not know.
-And he was cruel: to Hooke, to Leibniz, and, as Master of the Mint,
+And he was cruel: to Hooke, to Leibniz, and, as {{x|Master of the Mint}},
 To the counterfeiters he hunted himself, and sent to the gallows. So
 Hold the whole man. Not a saint. A mind, and a temper, and a stint
 
@@ -2608,7 +2608,7 @@ For the orchard where the plague sent a boy, and he looked up, and saw it there.
 
 Gottfried Wilhelm Leibniz, born in {{p|Leipzig}} in 1646, the son
 Of a professor of ethics who died when the boy was six,
-Taught himself Latin from the books of his father's library, and won
+Taught himself {{x|Latin}} from the books of his father's library, and won
 A doctorate in law at twenty, and then refused the fixed
 
 Life of a professor, and became a courtier, a diplomat, a librarian,
@@ -2628,7 +2628,7 @@ Of the idea lasted twenty years. He saw in it, as a hero
 
 Of the old theology might: the world made from God and nothing.
 One is God. Zero is the void. And from the two, all things.
-*Omnibus ex nihilo ducendis sufficit unum*: the clothing
+*{{x|Omnibus ex nihilo ducendis sufficit unum}}*: the clothing
 Of the motto on a medal he designed: to draw all things from nothing, the wings
 
 Of one suffice. And he built a machine that could multiply,
@@ -2643,17 +2643,17 @@ Of the next three hundred years is in that word. The weight
 
 Of everything that Ophiuchus will tell is in it. Hold it.
 And he loved {{p|China}}. He read everything the Jesuits wrote,
-And published their letters, *News from China*, in 1697, and told it
+And published their letters, *{{x|News from China}}*, in 1697, and told it
 To {{p|Europe}}: their ethics are better than ours; we should note
 
-That we need Chinese missionaries to teach us natural theology,
+That we need {{x|Chinese}} missionaries to teach us natural theology,
 As much as they need ours to teach revealed religion.
 He defended Ricci's way, the rites for the ancestors, the apology
 Of the accommodation, against {{p|Rome}}. And then, the vision:
 
 In 1701 a Jesuit in {{p|Beijing}}, Joachim Bouvet, who had read
 His binary, sent him a diagram of the sixty-four hexagrams
-Of the I Ching, the *Book of Changes*, in the order Shao Yong had spread,
+Of the I Ching, the *{{x|Book of Changes}}*, in the order Shao Yong had spread,
 And Leibniz looked at the broken and unbroken lines, the grams
 
 Of yin and yang, and saw: zero and one. The hexagrams in that order
@@ -2662,26 +2662,26 @@ Of {{p|China}}, ascribed to Fuxi, the sage of the beginning, a border
 Crossed four thousand years before, he believed, by the same look
 
 At the world as his own. He was wrong about the history.
-The order was a Song scholar's, not the ancient sage's. But the mystery
+The order was a {{x|Song}} scholar's, not the ancient sage's. But the mystery
 Was real: two minds, a world apart, building the same ladder of change. The registry
 Of that meeting is a letter. And in 1703 he published his binary, the history
 
 Of it ending with the hexagrams. Within two hundred and fifty years,
 Every machine that thinks would think in one and zero.
 The register of every soul, the census, the ledgers, the tears
-Of the Company, the temple book: all of it, in the next era,
+Of the {{x|Company}}, the temple book: all of it, in the next era,
 
 Would be written in his two digits. That is the bridge.
 Virgo ends here: the early modern world, its saints and its massacres,
 Its registers and its telescopes, its kings on the ridge
 Of invented pasts. And it ends with a man who joined the actors
 
-Of East and West in two numbers, and dreamed of reasoning by machine.
+Of {{p|East}} and {{p|West}} in two numbers, and dreamed of reasoning by machine.
 He died in 1716 in {{p|Hanover}}, out of favour, his king gone to {{p|London}},
 And only his secretary followed the coffin. The lean
 Grave of the man who joined the world. And Voltaire would make fun
 
 Of his *best of all possible worlds*. Let him. The one and the nothing
 Are in every phone. Every message to the ones you love goes in them.
-Tomorrow begins Libra: the Rites, the reckoning, the clothing
-Of the Enlightenment. From one and nothing, the world. Hold the hem.
+Tomorrow begins Libra: the {{x|Rites}}, the reckoning, the clothing
+Of the {{x|Enlightenment}}. From one and nothing, the world. Hold the hem.
