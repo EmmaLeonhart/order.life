@@ -1580,7 +1580,7 @@ Together walking hope’s unblemished way.
  
 In days of old, the purple farmers thrived,
 Their colors stirring life across each field.
-Prasina, green, took in the rays deprived,
+Prasea, green, took in the rays deprived,
 From her did Saya, Chloroflexi yield.
 
 

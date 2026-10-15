@@ -1574,7 +1574,7 @@ Their kinship served as strong and sure release,
  
 In days of old, the purple farmers thrived,
 Their colors stirring life across each field.
-{{c|Prasina}}, green, took in the rays deprived,
+{{c|Prasea}}, green, took in the rays deprived,
 From her did {{c|Saya}}, {{c|Chloroflexi}} yield.
 
 
