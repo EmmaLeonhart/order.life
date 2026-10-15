@@ -8210,3 +8210,7 @@ Okanagan in 2023) for the Japan trip and her shrine translations; 359 drops the 
 her shrine pages and the French Wikipedia block; 360 "begun" with machines, plus the Engishiki shrine register on
 Wikidata; 361 cuts the unsupported "Jewish season" coincidence for the Bure one she recorded, and adds the Sutra
 paper and the move to Vancouver. Nothing private was added.
+
+2026-10-15 02:35 PST: the Ophiuchus layout for the 2026 edition (Ophiuchus N = 2000 + N) is now pinned correction 12 in
+STATUS.md and a note at the head of the Ophiuchus section of `planning/gaiad-253-364/day-themes-draft.md`. No chapter
+moved: per her "self-healing", each moves one day later when next revised, since each is paired with its day's holidays.

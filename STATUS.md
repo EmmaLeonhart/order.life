@@ -33,6 +33,7 @@ Written: **349 / 364**. Remaining gaps: none.
 9. **Barrel-through mode ≠ notes.** Power-through chapters are still real chapters — poetic verse. A later editing pass is expected, which is what licenses the speed, not lower quality bars.
 10. **No length guideline (Emma, 2026-10-14).** "There's no upper bound for the lengths of chapters"; "There is no guideline whatsoever about chapter length like that." Chapters "can very regularly get well beyond 150 lines" and "probably should be". The old ~60-150 lines (from 2026-04-18) is withdrawn everywhere.
 11. **Rhyme is graded (Emma, 2026-10-14).** "Rhyming is something that you are supposed to be actively grading and monitoring, because rhyming is actually an important part of it." Every review grades each chapter's rhyme.
+12. **Ophiuchus N is the year 2000 + N, by revision, not by reorder (Emma, 2026-10-12).** Each day of Ophiuchus is a year of the 21st century: Ophiuchus 1 (ch 337) = 2001 through Ophiuchus 26 (ch 362) = 2026, with 1999 to 2000 on Scorpius 20; Ophiuchus 27 and 28 are "the distant finale". "The 2027 edition might be different." Today the month runs one year early (Ophiuchus N tells 1999 + N; ch 361 is 2026). She called the layout "by its nature somewhat self-healing": when a chapter is next revised, move its year one day later; do not reorder the month in one pass, because each chapter is paired with its day's holidays.
 
 ## Pointers
 

@@ -135,6 +135,11 @@ register that began on paper becomes a database and then a writing machine; the 
 the machine ends in a few hands or everyone's; climate; reactionary invented tradition; 2026 as
 "still in it", not a prediction. Emma's own arc is one chapter (day 25), not a thread.
 
+**Layout for the 2026 edition (Emma, 2026-10-12):** Ophiuchus N is the year 2000 + N (ch 337 = 2001,
+ch 362 = 2026; 1999 to 2000 on Scorpius 20; days 27 and 28 the distant finale). The written chapters run one
+year early; each moves one day later when it is next revised (`STATUS.md` pin 12). The list below is the
+first draft's numbering.
+
 1. 2001: Wikipedia, everyone writes the record
 2. 2001: 9/11 and its wars, religion back at the centre of politics
 3. 2003: the Genome completed, the code of descent read
