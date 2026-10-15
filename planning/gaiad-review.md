@@ -32,6 +32,7 @@ Standing decisions:
 | 4 | The First Yarn String | Emma's verse; passes | untagged (words): Once; to `x` (kind unclear): Nova. |
 | 5 | The Big Bang of Longing | Emma's verse; passes | untagged (words): Oceans. |
 | 6 | Hydrogen Clouds Ignite | Emma's verse; passes | untagged (words): Multiplying. |
+| 7 | Primordial Stars Burn | Emma's verse; passes | Stray "Advertisement" line at the end removed (web-page residue; also in ch 3, 12, 13, removed there too). For Emma: the title does not match the story (the cyborg shells, Bios, Viros and Dedos naming Aster "Greatest Grandmother"). No holiday on the day. |
 
 ## Tagging pass, ch 7-364 (2026-10-14, evening)
 

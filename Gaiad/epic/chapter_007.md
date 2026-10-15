@@ -64,5 +64,3 @@ And this is why we call her to this day,
 Our Greatest {{c|Grandmother}}, wise and true.
 Her light still guides us on our cosmic way,
 A title passed to us and all of you.
-
-Advertisement

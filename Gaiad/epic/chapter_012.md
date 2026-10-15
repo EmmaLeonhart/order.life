@@ -124,5 +124,3 @@ Our strength will hold, as we fulfill your say."
 "Across these worlds, your love will guide us through.
 Through every trial, no matter how far,
 We swear to keep your cosmic vow in view."
-
-Advertisement

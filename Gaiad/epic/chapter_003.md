@@ -84,5 +84,3 @@ In her collapse, a supernova flared,
 A brilliant burst before she fell from sight.
 From that great death, a black hole then prepared,
 To pull the stars into eternal night.
-
-Advertisement
