@@ -36,13 +36,13 @@ Unable to unite within their world.
 
 Aster threw yarn to Andromeda's side,
 But it broke, forming galaxies anew.
-Triangulum and Magellan clouds wide,
+{{p|Triangulum}} and Magellan clouds wide,
 From threads that snapped, a cosmic scene we view.
 
 And so, each day, we gaze up to the sky,
-At Sagittarius and the Princess
+At {{p|Sagittarius}} and the Princess
 We hope their union, once again, draws nigh,
-When Milkdromeda forms from love endless
+When {{p|Milkdromeda}} forms from love endless
 
 The Omega point, all will unify,
 As Aster and Andromeda break free.
