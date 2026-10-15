@@ -1552,6 +1552,24 @@ def generate_gedcom(out_path):
         return {"individuals": 0, "families": 0, "deep_time_dates": 0, "bytes": 0}
 
 
+def generate_gedcom7(out_path):
+    """Write the genealogy as GEDCOM 7 (wiki-scripts/export_gedcom7.py) to out_path.
+
+    Like generate_gedcom, a failure here must not take the site down.
+    """
+    try:
+        sys.path.insert(0, str(SCRIPT_DIR / "wiki-scripts"))
+        from export_gedcom7 import build_gedcom7
+
+        stats = build_gedcom7(out_path)
+        print(f"  {stats['individuals']:,} individuals, {stats['families']:,} families, "
+              f"{stats['bytes'] / 1048576:.1f} MB")
+        return stats
+    except Exception as e:
+        print(f"  ERROR exporting GEDCOM 7: {e}")
+        return None
+
+
 def generate_festival_data_js(static_dst):
     """Generate static/js/festival-data.js with Hebrew and Islamic calendar data.
 
@@ -1849,6 +1867,10 @@ def build_site():
     # Export the genealogy as GEDCOM, served at /gedcom/gaiad.ged
     print("Exporting GEDCOM...")
     gedcom_stats = generate_gedcom(SITE_TMP_DIR / "gedcom" / "gaiad.ged")
+
+    # The same genealogy as GEDCOM 7 with permanent IDs on every person, served at /gaiad.ged
+    print("Exporting GEDCOM 7...")
+    generate_gedcom7(SITE_TMP_DIR / "gaiad.ged")
 
     # Write shrine data as static JSON for the map
     print("Writing shrines.json...")
