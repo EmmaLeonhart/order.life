@@ -84,5 +84,3 @@ Of the apple falling, and the Moon held, by one thing.
 The universe is one law. And the ocean is still there.
 Pick up a shell. Check it. Keep your dreams in a box, labelled. And sing
 For the orchard where the plague sent a boy, and he looked up, and saw it there.
-
-Stand.

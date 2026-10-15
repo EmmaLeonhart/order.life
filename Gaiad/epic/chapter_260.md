@@ -89,5 +89,3 @@ Learned the new sky, and it was not a loss.
 We are travelling. We were always travelling. The year
 Is a journey round a star, and the cross
 Of the seasons is our orbit. Count it, and be glad to be here.
-
-Stand.

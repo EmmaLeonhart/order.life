@@ -119,5 +119,3 @@ But that is the next chapter. For now, mark
 the hinge: one man, from obscurity in Mongolia,
 unified his tribe and launched a conquest that
 reshaped the world, from Hungary to Cambodia.
-
-Stand.

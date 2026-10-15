@@ -141,5 +141,3 @@ Count one live lamb.
 Count three animals in the making.
 The ordinary way a lamb is two parents
 Is not the way this one was made.
-
-Stand.

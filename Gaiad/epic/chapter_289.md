@@ -74,5 +74,3 @@ Without knowing what it is: three hundred million years of the dead,
 Asleep in the earth, now in the air, now in the warming sea.
 Give thanks for the power. Count the cost. And go ahead
 As the Lunar men did, by the light of the moon: with friends, carefully.
-
-Stand.

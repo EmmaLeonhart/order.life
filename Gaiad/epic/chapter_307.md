@@ -137,5 +137,3 @@ A name is how the line is kept.
 Count the persons.
 Keep the names.
 The hole will not do the second thing.
-
-Stand.

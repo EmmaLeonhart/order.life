@@ -118,5 +118,3 @@ Known unto God is a sentence for a body.
 It is not a body.
 The day keeps the hour they appointed,
 And the names the hour did not give back.
-
-Stand.

@@ -212,7 +212,7 @@ The {{c|J}}-haplogroup figure at the junction of {{c|J1}} and {{c|J2}}. The
 Ancestor of {{c|Isaac}} and {{c|Ishmael}}, of {{p|Israel}} and of {{p|Ishmaelite}}
 {{p|Arabia}}, of {{p|Judaism}} and {{p|Christianity}} and {{p|Islam}}. The most
 Consequential religious figure in the biblical tradition between
-{{c|Noah}} and {{c|Moses}}. Stand.
+{{c|Noah}} and {{c|Moses}}.
 
 And the {{p|Neo-Sumerian}} empire, whose collapse made his journey
 Possible, falls into history. {{p|Ur}} is burned. The ziggurat is
@@ -222,4 +222,4 @@ The collapse, the patriarch of the monotheistic religions takes
 His first steps toward {{p|Canaan}}. The {{p|Neo-Sumerian}} ending is
 The {{p|Abrahamic}} beginning. Both happen in the same twenty-first
 Century BCE. Both are, in their different ways, the end of one
-Era and the start of another. Stand.
+Era and the start of another.

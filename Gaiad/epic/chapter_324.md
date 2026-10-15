@@ -118,5 +118,3 @@ The master stays.
 The book stays in its archive.
 The question the rite asks
 Is not answered by the stone.
-
-Stand.

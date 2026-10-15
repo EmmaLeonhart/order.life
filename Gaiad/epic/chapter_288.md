@@ -89,5 +89,3 @@ Glory of the human race: we crossed the largest ocean on the earth
 With wood and memory and courage. Say Tupaia's name with Cook's.
 The first chart of the Pacific was drawn by the people of its birth.
 Hold the chart. Hold the spear on the beach. Read both books.
-
-Stand.

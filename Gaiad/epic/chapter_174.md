@@ -327,4 +327,4 @@ To spread and for {{p|Buddhism}} to meet {{p|Hellenism}}.
 
 {{c|Alexander}}. The conqueror whose conquests lasted thirteen years
 And whose cultural consequences have lasted two thousand three
-Hundred. Stand.
+Hundred.

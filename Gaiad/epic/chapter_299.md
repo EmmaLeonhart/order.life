@@ -74,5 +74,3 @@ Imprisoned, their cemeteries bulldozed, for the faith of the Gate and the Glory.
 Honour the merchant of {{p|Shiraz}}. Honour the unveiled poet. Honour the prisoner of {{p|Akka}}.
 Lifeism is a younger sister in this story. Tell it gently. The hoary
 Old lands keep killing the ones who say the world is one. Keep saying it. Do not falter.
-
-Stand.

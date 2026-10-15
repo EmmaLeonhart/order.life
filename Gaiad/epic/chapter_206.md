@@ -54,5 +54,3 @@ The Russian princes would eventually unite
 under Moscow to throw off this yoke.
 That story is chapter 222. For now, mark
 how the eastern horsemen made Europe choke.
-
-Stand.

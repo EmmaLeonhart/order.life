@@ -104,5 +104,3 @@ The world turns. The age changes. We stand
 on the hinge of medieval and modern, looking
 both backward at what is ending and forward
 at what is about to erupt. And in 1492, the banks.
-
-Stand.

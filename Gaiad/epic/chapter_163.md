@@ -297,4 +297,4 @@ With enormous theological consequences.
 
                                            {{c|Zarathustra}}. The first
 Prophet of the Axial Age. The reformer of {{p|Indo-Iranian}} religion.
-The invisible ancestor of {{p|Western}} monotheism. Stand.
+The invisible ancestor of {{p|Western}} monotheism.

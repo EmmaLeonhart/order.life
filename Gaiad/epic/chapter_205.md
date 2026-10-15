@@ -114,5 +114,3 @@ Islamic intellectual life moved to the margins, less pack.
 {{p|Delhi}} under the Sultans, {{p|Istanbul}} under the future Ottomans —
 these would be the new centers. But Baghdad's
 three-quarters of a millennium of centrality was lost by Mongols.
-
-Stand.

@@ -146,5 +146,3 @@ Refuse the consolation that a page anyone can change
 Has already been judged true,
 And the consolation that a degree, on the older book,
 Had already judged the open one empty.
-
-Stand.

@@ -102,5 +102,3 @@ The new sentence is the shape, and the copy the shape allows.
 A shape is not a commandment.
 The dead of the prize's year are not this chapter.
 Franklin's measurement is.
-
-Stand.

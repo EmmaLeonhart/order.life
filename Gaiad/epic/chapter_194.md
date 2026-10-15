@@ -110,5 +110,3 @@ This synthesis would last a thousand years
 until the Meiji period's forced separation
 in 1868 violently distinguished them.
 But for the medieval period, they were one vocation.
-
-Stand.

@@ -101,5 +101,3 @@ Count the communique on the twenty-second of December.
 Count the landing on the first of February.
 The map of the work and the map of the state
 Are not the same map.
-
-Stand.

@@ -74,5 +74,3 @@ Say *father* in your tongue. Hear, under it, a voice six thousand years away.
 Say *night*, *star*, *mother*. The common source no longer exists,
 And it speaks every day. Honour the dead speech by what you say.
 Every word is an ancestor. The tree persists.
-
-Stand.

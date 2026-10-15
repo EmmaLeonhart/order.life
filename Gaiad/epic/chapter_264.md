@@ -84,5 +84,3 @@ Of the accommodation came. But hold the full moon now.
 A man from the far west learned the classics by heart, and sat
 At the Chinese table, and did not ask the dead to leave. The vow
 Of the moon festival is reunion. Set the place. Keep that.
-
-Stand.

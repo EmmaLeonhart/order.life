@@ -94,5 +94,3 @@ Their stories would shape Chinese culture
 for fifteen centuries to come,
 like the Mahabharata for India,
 like the Iliad for classical Greek home.
-
-Stand.

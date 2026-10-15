@@ -133,5 +133,3 @@ And to hold the letter's sentence about trust
 Beside the cut the letter does not repay in full.
 The page on the web is not the later shop.
 The counts are not chosen.
-
-Stand.

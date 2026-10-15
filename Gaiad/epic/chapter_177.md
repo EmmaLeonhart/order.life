@@ -274,5 +274,3 @@ Institutions. The beginning of the end for the {{p|Republic}}.
 
 {{p|Punic Wars}}. The century-long duel. The emergence of what would
 Become the greatest {{p|Mediterranean}} empire.
-
-Stand.

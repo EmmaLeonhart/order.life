@@ -83,5 +83,3 @@ The striving is to keep the thirty-seventh from being taken for an error,
 The seventy-eighth from being taken for a miracle,
 And the man who left the room
 From being taken for the one who lost the game.
-
-Stand.

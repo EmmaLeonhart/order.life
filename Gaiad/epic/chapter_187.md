@@ -114,5 +114,3 @@ The old gods were gone from public life.
 The temples were churches or ruins now.
 A new Christian civilization was forming
 on the old Roman frame, altered somehow.
-
-Stand.

@@ -84,5 +84,3 @@ Go-Daigo would be remembered as the emperor
 who attempted the impossible — to restore
 direct imperial rule in an age when it was impossible.
 A failed restorer, but a heroic figure lore.
-
-Stand.

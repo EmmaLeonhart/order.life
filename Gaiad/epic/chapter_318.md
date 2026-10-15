@@ -116,5 +116,3 @@ Count the memorandum on the fifteenth of December.
 Count the rescript on the first of January.
 Count the office on the third of February.
 The kami are not an article in any of the three.
-
-Stand.

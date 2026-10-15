@@ -146,5 +146,3 @@ And the two counts of when a century ends.
 Refuse the consolation that a clock is only a number,
 And the consolation that a morning without a ruin
 Has already judged the ones who read the dates.
-
-Stand.

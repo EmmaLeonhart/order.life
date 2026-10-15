@@ -102,5 +102,3 @@ Count what the table writes.
 Keep the questions the table cannot close.
 Say which is the procedure and which is the question.
 Do not pretend the sky was running the tape before you wrote the table.
-
-Stand.

@@ -89,5 +89,3 @@ The processes belong to anyone who will carry them out. They are not a rank.
 The seventeenth of November, 1875. The president spoke in a hired hall.
 Divine wisdom, by physical processes: hold both halves of the phrase. The worth
 Of the striving is in the wisdom. The limit is in the processes. They are for all.
-
-Stand.

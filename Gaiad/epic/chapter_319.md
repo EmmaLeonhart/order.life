@@ -101,5 +101,3 @@ Count its force on the twenty-fourth of October.
 Count the declaration before midnight on the tenth of December.
 The articles are not the dead.
 The dead are not thereby left off the work of naming.
-
-Stand.

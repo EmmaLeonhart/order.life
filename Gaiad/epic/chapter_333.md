@@ -108,5 +108,3 @@ Refuse the consolation that a form of words
 Had already saved the people on the train,
 And the consolation that striking the corporation
 From the register gave the dead back their morning.
-
-Stand.

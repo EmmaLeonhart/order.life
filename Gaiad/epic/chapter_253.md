@@ -171,5 +171,3 @@ Count them. Keep the list. The list is what the house is.
 The age of the chronicle ends. Here begins the age
 
 Of the reckoning.
-
-Stand.

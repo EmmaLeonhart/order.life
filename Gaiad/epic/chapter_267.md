@@ -89,5 +89,3 @@ And remember the islands. Repent of every profit made
 By strangers who never had to see the hills
 Where the people starved. Own your shares in the shade
 Of that question. Ask what the ledger kills.
-
-Stand.

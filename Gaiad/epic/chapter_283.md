@@ -79,5 +79,3 @@ Is everywhere. Lift it with joy. Do not be sad; the sad
 Are far from the sacred. Sing on the way to school.
 And if you have no words, blow the whistle. What you had
 Was enough. It always was. The heart is the rule.
-
-Stand.

@@ -105,5 +105,3 @@ The striving is to keep the picture from being taken for the people,
 The shutdown from being taken for the cooling,
 And the night in the square
 From being taken for the years after it.
-
-Stand.

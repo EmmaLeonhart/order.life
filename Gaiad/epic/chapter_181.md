@@ -159,5 +159,3 @@ The dharma was becoming world-religion,
 no longer just an Indian way.
 The Buddha's "middle path" had proved
 capable of crossing every sway.
-
-Stand.

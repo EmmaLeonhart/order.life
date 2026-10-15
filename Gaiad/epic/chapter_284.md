@@ -79,5 +79,3 @@ Was shade. Somebody prayed under it. Remember them.
 God is one, the preacher said, and he was right. The oneness
 Is wide enough for the rag on the tree, and the saint's dome, and the hem
 Of the grandmother's prayer. The sacred has room. Make room. That is the oneness.
-
-Stand.

@@ -114,5 +114,3 @@ And named, and given a border of its own.
 It is still the clearest thing said in this age.
 There is no Hindu. There is no Muslim. Sit on the floor. The bread is shown
 To all. Eat. Turn the page.
-
-Stand.

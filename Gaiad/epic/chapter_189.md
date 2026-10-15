@@ -109,5 +109,3 @@ The deflationary polytheist sees here
 the Chinese counterpart to epic,
 the narrative matrix that shapes
 moral imagination, subsonic and sceptic.
-
-Stand.

@@ -79,5 +79,3 @@ Of scripture this book is making must keep the same rule.
 Do not believe the Gaiad because it is scripture. Check it.
 Repeat it. Where it dreams, it says so. Where it errs, the tool
 Of correction is open to anyone. That is the oath. Respect it.
-
-Stand.

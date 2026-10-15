@@ -74,5 +74,3 @@ Of reverence is attention. And cross out the line he got wrong:
 There are no ranked varieties of us. The register of humankind is one.
 *Homo sapiens*. One species. One family. One song.
 The linden tree in {{p|Småland}} is gone. The name it gave is in the sun.
-
-Stand.

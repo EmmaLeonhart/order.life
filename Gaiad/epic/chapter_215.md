@@ -86,5 +86,3 @@ The rise had taken 150 years from Osman's small frontier
 emirate to the conquest of the greatest Christian city
 in the world. The Roman Empire's last direct continuation
 was about to become the New Rome of Sultan Mehmed, pretty.
-
-Stand.

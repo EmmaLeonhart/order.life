@@ -88,5 +88,3 @@ The striving is to keep the open weights from being taken for an open source,
 The law in force from being taken for a law applied,
 And what was yanked away
 From being taken for what was never held.
-
-Stand.

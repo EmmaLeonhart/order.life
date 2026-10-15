@@ -84,5 +84,3 @@ The treasure voyages are the great "what if" of
 maritime history. Zheng He was doing in 1410
 what Columbus would attempt in 1492, at vastly larger
 scale — but China walked away from its opening, again.
-
-Stand.

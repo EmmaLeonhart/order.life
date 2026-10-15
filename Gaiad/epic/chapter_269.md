@@ -84,5 +84,3 @@ Is not undone. What was refused is not refused now.
 Open the sky. Look. Let the evidence come in the window.
 And when you are the one who was wrong, take the vow
 He was never given: say so. Not in a whisper. Say it, and let it go.
-
-Stand.

@@ -80,5 +80,3 @@ The striving is to keep the even odds from being taken for certainty,
 The meeting from being taken for an ending,
 And the last day of the year
 From being taken for the last day.
-
-Stand.

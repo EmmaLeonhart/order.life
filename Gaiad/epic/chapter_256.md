@@ -104,5 +104,3 @@ As if it had always been. And that the boy believed it.
 That is the hardest part. He was not lying. He was young
 And had been hidden, and was saved, and he received it:
 God's mystery, in the Turkish of his tongue.
-
-Stand.

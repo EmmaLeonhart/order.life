@@ -74,5 +74,3 @@ And the shrines and the ancestors' halls: the harvest belongs to all of them.
 Give thanks for the food. Give thanks to the hands that grew it.
 Give thanks to the ones who came before, and set the bowl at the hem
 Of their memory. No one has the right to forbid it. Do it.
-
-Stand.

@@ -216,4 +216,4 @@ Subsequent upheaval, until the present day.
 
 {{c|Huangdi}}. The {{c|Yellow Emperor}}. {{p|China}}'s mythic founder.
 The culture-hero of the {{p|Yellow River}}. The ancestor claimed
-By a hundred generations of {{p|Chinese}} civilization. Stand.
+By a hundred generations of {{p|Chinese}} civilization.

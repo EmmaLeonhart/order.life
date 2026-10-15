@@ -142,5 +142,3 @@ The searchable catalog was a care.
 The limit on the excerpt is a care.
 They are not the same care.
 The counts are not chosen.
-
-Stand.

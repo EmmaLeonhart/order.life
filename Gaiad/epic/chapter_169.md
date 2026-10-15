@@ -318,4 +318,3 @@ Intellectual tradition. The twin traditions that, together, would
 Shape a civilization.
 
 {{c|Confucius}} and {{c|Laozi}}. Paired pillars of the {{p|East Asian}} mind.
-Stand.

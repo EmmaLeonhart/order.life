@@ -110,5 +110,3 @@ The Heian era was over. The medieval era began.
 The refined court aesthetic remained as ideal,
 but the ruling class was now the warrior,
 with its code of bushido, martial and real.
-
-Stand.

@@ -101,5 +101,3 @@ Refuse the consolation that the dead had proved a creed,
 And the consolation that the prayer was only politics.
 The counts are not chosen.
 The way is not set down.
-
-Stand.

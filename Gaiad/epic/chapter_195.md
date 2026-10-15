@@ -104,5 +104,3 @@ For the next three centuries, Vikings would raid
 from Ireland to Russia, from Spain to Iraq.
 They would settle, found kingdoms, convert eventually.
 But they would be the scourge of the early Medieval track.
-
-Stand.

@@ -83,5 +83,3 @@ The denial from being taken for the pipes,
 And the man in the airport
 From being taken for either a saint or a traitor
 Before the record is read.
-
-Stand.

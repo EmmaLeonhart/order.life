@@ -212,4 +212,4 @@ Sky-father. The patriarchal warrior band. The replacement of old
 Europe with new Europe. The cultural package that made the world
 We still live in. And the grave of the world we replaced.
 
-{{p|Yamnaya}}. The steppe expansion. The Indo-European arrival. Stand.
+{{p|Yamnaya}}. The steppe expansion. The Indo-European arrival.

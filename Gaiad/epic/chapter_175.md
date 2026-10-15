@@ -252,5 +252,3 @@ Long forgetting and the nineteenth-century rediscovery.
                                                               {{p|Maurya}}.
 The unification of {{p|India}}. {{c|Ashoka}}'s ethical experiment. The
 {{p|Buddhist}} missions outward.
-
-Stand.

@@ -114,5 +114,3 @@ The Vikings had ceased to be Vikings,
 assimilating to Christian Latin civilization.
 But they had shaped the map of Europe permanently,
 from Russia to England to Sicily's nation.
-
-Stand.

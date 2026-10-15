@@ -114,5 +114,3 @@ The Tang would be the golden age
 that all subsequent Chinese dynasties measured themselves against.
 The model to emulate. The high water mark.
 The era that even now is most well-fenced.
-
-Stand.

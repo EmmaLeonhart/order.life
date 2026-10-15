@@ -217,4 +217,4 @@ Empire last. {{p|Akkad}}. {{p|Ur III}}. {{p|Old Babylon}}. {{p|Assyria}}. {{p|Ne
 Empire. Each inheriting the template {{c|Sargon}} had established.
 Each, eventually, falling. The cycle begins here.
 
-{{c|Sargon}}. {{p|Akkad}}. The first empire. Stand.
+{{c|Sargon}}. {{p|Akkad}}. The first empire.

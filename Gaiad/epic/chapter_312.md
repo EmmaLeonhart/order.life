@@ -118,5 +118,3 @@ And the paper hid the children.
 Keep the names. Keep the day the register you chose actually holds.
 A theory is not a calendar.
 A state that has been taken has not withered.
-
-Stand.

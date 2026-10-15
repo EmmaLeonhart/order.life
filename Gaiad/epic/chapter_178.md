@@ -219,5 +219,3 @@ Rome had reached its high plateau.
 From here, the slow decline began.
 But for two hundred years it held
 the greatest empire made by man.
-
-Stand.

@@ -146,5 +146,3 @@ The fund from being taken for the money,
 The aim from being taken for the survival,
 And the people in the path of the water
 From being taken for a degree on a page.
-
-Stand.

@@ -29,8 +29,8 @@ Written: **349 / 364**. Remaining gaps: none.
    rule above still stands for everything else.
 6. **Three registers braid, not sequence.** Haplogroup/migration (A), mythic antiquity (B), and proper historiography (C) all continue through the block. A does not "close" at the Bronze Age Collapse — Hitler, Napoleon, Perry Y, Japanese D all still belong in register A.
 7. **Modern placenames for classical geography.** The Gaiad says Antalya, not Lycia. Grounds ancient events in recognizable geography for modern readers.
-8. **Every chapter ends with "Stand."** Single word, period, nothing after. Every chapter uses `{{c|Name}}` for characters and `{{p|Place}}` for places.
-9. **Barrel-through mode ≠ notes.** Power-through chapters are still real chapters — poetic verse, ~60–150 lines, proper templating, Stand. Ending. A later editing pass is expected, which is what licenses the speed, not lower quality bars.
+8. **No set closing word.** Every chapter uses `{{c|Name}}` for characters and `{{p|Place}}` for places. *(2026-10-14 16:58: the old rule that every chapter ends with "Stand." is withdrawn on Emma's word, "I just want you to remove it from all of them". A Claude agent invented it on 2026-04-18 as a refrain for the haplogroup chapters and another agent made it a rule the same day; she never chose it. See `research/stand-origin.md` in the parent repo. It was removed from all chapters the same day.)*
+9. **Barrel-through mode ≠ notes.** Power-through chapters are still real chapters — poetic verse, ~60–150 lines, proper templating. A later editing pass is expected, which is what licenses the speed, not lower quality bars.
 
 ## Pointers
 

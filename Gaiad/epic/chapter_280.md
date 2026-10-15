@@ -79,5 +79,3 @@ Of his *best of all possible worlds*. Let him. The one and the nothing
 Are in every phone. Every message to the ones you love goes in them.
 Tomorrow begins {{c|Libra}}: the Rites, the reckoning, the clothing
 Of the Enlightenment. From one and nothing, the world. Hold the hem.
-
-Stand.

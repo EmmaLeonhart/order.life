@@ -129,5 +129,3 @@ The end of the register is not the good delivered.
 It is not a proof the good was only a machine.
 Do not say the idea ended because the flag came down.
 A later war is not this December.
-
-Stand.

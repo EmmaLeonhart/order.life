@@ -131,5 +131,3 @@ Count the dog, and the hours, not the days.
 Count seven, five, and three.
 The sphere came down.
 The rite is still kept.
-
-Stand.

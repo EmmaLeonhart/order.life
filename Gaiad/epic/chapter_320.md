@@ -90,5 +90,3 @@ Count the vote on the twenty-ninth of November.
 Count the scroll on the fourteenth of May.
 The map of the plan and the map of the fighting
 Are not the same map.
-
-Stand.

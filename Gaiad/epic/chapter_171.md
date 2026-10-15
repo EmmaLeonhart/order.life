@@ -342,5 +342,3 @@ Epic of an entire civilization.
 The text that has shaped {{p|Hindu}} moral and religious imagination
 
 For twenty-five hundred years.
-
-Stand.

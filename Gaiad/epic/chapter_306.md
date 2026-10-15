@@ -98,5 +98,3 @@ Do not let the answer be a people.
 Do not let the answer be a class.
 The name is not a title the speaker keeps.
 Count the naming. Refuse the rank.
-
-Stand.

@@ -69,5 +69,3 @@ As your fathers prayed, if you can, and change what must change,
 And never burn anyone over the fingers of a hand.
 The Old Believers are still in {{p|Russia}}, and in {{p|Alaska}}, and in the strange
 Green valleys of {{p|Oregon}}. Two fingers raised. They stand.
-
-Stand.

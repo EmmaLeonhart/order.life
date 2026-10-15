@@ -103,5 +103,3 @@ And to hold the people who lost the houses
 Apart from the law and apart from the block.
 The counts are not chosen.
 The way is not set down.
-
-Stand.

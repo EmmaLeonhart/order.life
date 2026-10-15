@@ -145,5 +145,3 @@ As a new time would bear it.
 That limit is the striving.
 A list can hold a name. It cannot hold the years since the assembly,
 And it cannot make those years nothing.
-
-Stand.

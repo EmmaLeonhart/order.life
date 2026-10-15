@@ -328,4 +328,4 @@ Astronomer-priests. The library of {{c|Ashurbanipal}}, preserving
 {{p|Gilgamesh}} in its ashes. The template of text-centered religion.
 
 {{p|Assyria}} and {{p|Babylon}}. The {{p|Mesopotamian}} twilight. The catastrophe
-That produced {{p|Judaism}}. Stand.
+That produced {{p|Judaism}}.

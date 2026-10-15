@@ -74,5 +74,3 @@ Of every civil religion are on the people it banished.
 Believe nothing because a state believes it. Honour the God, or the life,
 Or the sacred, as you find it, freely. And the Supreme Being vanished
 With the man who made it. The roses on the mountain. The knife.
-
-Stand.

@@ -72,5 +72,3 @@ The striving is to keep the score from being taken for the seeing,
 The label from being taken for the thing,
 And the people who typed the labels
 From being left out of the count.
-
-Stand.

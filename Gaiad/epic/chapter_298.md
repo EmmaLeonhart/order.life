@@ -79,5 +79,3 @@ Honour the poetical scientist, as she called herself. Honour the engine
 That waited. And hold her warning close, as this book holds its loom:
 Know whose thread it is. Name the weavers. The machine has been
 Given everything we know. What it makes is ours. Make room.
-
-Stand.

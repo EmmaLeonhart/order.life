@@ -144,5 +144,3 @@ Those who accepted the status quo became
 the {{c|Sunni}}, "followers of the sunnah,"
 the tradition, the mainstream majority.
 The split between them would be enduring, the fissure not undone.
-
-Stand.

@@ -176,7 +176,7 @@ Carries the ancient signature. The old {{c|Y}}. The old land.
 The one who was here before. The hold of the will
 To endure. The keeping hand.
 
-                               {{c|Haplogroup I}}. Old Europe. Stand.
+                               {{c|Haplogroup I}}. Old Europe.
 
 The rest of the continent's story is layered on top. But {{c|I}}
 Is the bottom. And the bottom, in a continent, is what the top

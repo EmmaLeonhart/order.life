@@ -89,5 +89,3 @@ The plague would return periodically until
 the late seventeenth century — the Great Plague
 of London in 1665 was one of the last major outbreaks.
 But the 1348 pandemic remained the archetype, the vague.
-
-Stand.

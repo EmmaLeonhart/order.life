@@ -389,5 +389,3 @@ Short century.
                       Classical {{p|Athens}}. The fifth-century
 Civilization that taught the {{p|West}} what cities, what democracies,
 What philosophy, and what theater could be.
-
-Stand.

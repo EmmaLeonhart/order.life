@@ -79,5 +79,3 @@ Is not that we love each other. It is that we stop.
 That we lay down the sword and go home and plant the field
 That the armies burned. Atone. Go to the one you wronged. Drop
 The argument about the door. Sign. And let the land be healed.
-
-Stand.

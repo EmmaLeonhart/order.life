@@ -198,4 +198,4 @@ World.
 The myth and the haplogroup are the same story, told twice—once
 In the grammar of genealogy, once in the grammar of myth.
 
-{{c|R}}. The Yamnaya. The boomerang. The Indo-European. Stand.
+{{c|R}}. The Yamnaya. The boomerang. The Indo-European.

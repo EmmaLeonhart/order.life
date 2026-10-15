@@ -109,5 +109,3 @@ But they also connected Eurasia as never before.
 Technologies transmitted both east and west.
 The Black Death would transmit west along Mongol routes.
 The whole world was becoming connected for its test.
-
-Stand.

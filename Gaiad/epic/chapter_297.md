@@ -74,5 +74,3 @@ Of three scripts, in a glass case far from the river: give it home,
 Or say why not, honestly. The question belongs to the living descendants.
 The Coptic hymn still sung in {{p|Cairo}} was the key. The tome
 Of the dead was unlocked by the living. Keep singing. Those are the attendants.
-
-Stand.

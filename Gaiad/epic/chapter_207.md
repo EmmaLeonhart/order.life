@@ -79,5 +79,3 @@ its eventual collapse in 1333, when
 Emperor {{c|Go-Daigo}} tried to restore direct
 imperial rule in the {{c|Kenmu Restoration}}.
 That attempt would fail — the next chapter's rect.
-
-Stand.

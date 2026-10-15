@@ -74,5 +74,3 @@ And be moved. Both. The doctor read the oldest book for thirty-four years
 So we could read it. Read it. And when anyone tells you the heart of a people is pure,
 Remember the morning sun on the cherry, and the young men, and the tears.
 The ache of things is for everyone. That is the only cure.
-
-Stand.

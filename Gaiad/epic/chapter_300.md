@@ -74,5 +74,3 @@ For any new faith, and for this one: if your revelation needs an army, it is not
 And the founder in fever, the misread tract: be careful what you hand
 To the desperate on the street. The words of comfort can open doors
 To a war. And remember the twenty million, with no names on the land.
-
-Stand.

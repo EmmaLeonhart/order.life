@@ -74,5 +74,3 @@ That the old tale had its reason. Leave the cruelty where it was, and say so.
 Gather the songs of the world. Join them, and admit the joining.
 The forge of {{c|Ilmarinen}} made the {{c|Sampo}}, which ground out plenty, the flow
 Of grain and salt and gold. A good compilation is a Sampo. Keep it turning.
-
-Stand.

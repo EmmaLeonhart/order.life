@@ -159,4 +159,4 @@ And eastern. The one who found, in the taiga, the reach
 
 And range to preserve an old language against the new.
 
-{{c|Haplogroup N}}. Stand.
+{{c|Haplogroup N}}.

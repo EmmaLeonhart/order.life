@@ -81,5 +81,3 @@ The striving is to keep the unseen from being taken for the absent,
 The halls from being taken for the rite,
 And the oldest thing in the year
 From being taken for a costume.
-
-Stand.

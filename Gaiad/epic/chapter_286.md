@@ -74,5 +74,3 @@ Number of hands would make the largest encyclopedia ever.
 Ophiuchus will tell it. Here, give thanks to the twig and the tree,
 To {{c|Jaucourt}}'s seventeen thousand, to the plate of the weaver's lever.
 All knowledge is the work of many hands. Write it down. Make it free.
-
-Stand.

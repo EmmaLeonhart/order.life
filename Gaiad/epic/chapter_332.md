@@ -133,5 +133,3 @@ Count the sixth of August.
 Count the twelfth of December.
 The network was already there.
 The pointing was not.
-
-Stand.

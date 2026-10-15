@@ -97,5 +97,3 @@ Count the grave in the last days of November.
 The name of a tradition and the stone of a grave
 Are not the same thing.
 The year struck at both.
-
-Stand.

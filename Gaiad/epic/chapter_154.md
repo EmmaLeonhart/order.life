@@ -227,5 +227,3 @@ Family remains in {{p|Egypt}}, multiplying, waiting for what will come.
 The moment of prosperity before the reversal. The {{c|J}}-haplogroup
 {{p|Semitic}} population flourishing under foreign-dynasty patronage
 In a cosmopolitan {{p|Egypt}}. The twelve sons. The prophecies. The tent.
-
-Stand.

@@ -105,9 +105,6 @@ Every reader, a priest. That was the promise and the danger.
 The register of souls the priests had kept would pass
 To the state. The book would pass to the stranger.
 
-And the Gaiad says, at the end of every chapter,
-The word he did not say and was remembered saying.
-Not *I can do no other*. Only the standing.
+Hold the one sentence that was surely his, before the printing:
+Unless I am convinced, I cannot. The rest is the printers' saying.
 A conscience in a hall. The press. The hymn. The praying.
-
-Stand.

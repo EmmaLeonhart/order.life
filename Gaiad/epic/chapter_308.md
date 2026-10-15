@@ -115,5 +115,3 @@ On Samhain the edge is the work.
 Keep every dead the speakers named.
 Keep the ones no speaker was sent for.
 The boundary is not a list of ten.
-
-Stand.

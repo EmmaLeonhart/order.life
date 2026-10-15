@@ -218,4 +218,4 @@ Of a lost civilization from its hidden tablets.
 
 {{p|Hittites}}. {{p|Hattusa}}. {{p|Kadesh}}. The {{c|R1b}}-haplogroup empire of
 {{p|Anatolia}}. The northern pole of Bronze Age political order. The
-Forgotten and rediscovered empire. Stand.
+Forgotten and rediscovered empire.

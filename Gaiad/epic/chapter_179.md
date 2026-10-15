@@ -166,5 +166,3 @@ But all agreed: one God, no image,
 covenant, Torah, Sabbath, kosher.
 And all were waiting for what would come
 to change the world and bring it closer.
-
-Stand.

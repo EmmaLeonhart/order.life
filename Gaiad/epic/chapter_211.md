@@ -84,5 +84,3 @@ The deflationary polytheist sees Timur as
 the last great steppe conqueror, the end of the
 Mongol-era pattern. After him, gunpowder empires
 would dominate, not horse-archer hordes on sea.
-
-Stand.

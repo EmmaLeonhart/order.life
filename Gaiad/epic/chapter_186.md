@@ -84,5 +84,3 @@ Ethiopia's story is the African Christian kingdom,
 ancient, persistent, mystical, strange,
 isolated but connected, deeply rooted,
 surviving every political change.
-
-Stand.

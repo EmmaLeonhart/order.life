@@ -148,5 +148,3 @@ And the consolation that a sequence would be a soul, or a verdict.
 Count ten million letters as the five years' aim.
 Count the whole book as a term the plan named,
 And this morning did not reach.
-
-Stand.

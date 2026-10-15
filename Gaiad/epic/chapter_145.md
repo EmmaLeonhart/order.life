@@ -224,4 +224,4 @@ Fragmented, and the pyramids were left to weather in the sun, the
 Civilization did not die—it only paused, and reassembled, and
 Continued. The pyramids remain as witnesses.
 
-{{p|Old Kingdom}}. The pyramids. {{c|Khufu}}, {{c|Khafre}}, {{c|Menkaure}}. Stand.
+{{p|Old Kingdom}}. The pyramids. {{c|Khufu}}, {{c|Khafre}}, {{c|Menkaure}}.

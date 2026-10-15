@@ -127,5 +127,3 @@ Count the instruction on the seventh of March.
 In these years the tongue of the reading
 And the tongue of the prayer the priest said alone
 Were not the same tongue.
-
-Stand.

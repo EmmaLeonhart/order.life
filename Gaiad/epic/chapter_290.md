@@ -74,5 +74,3 @@ Copyist, unpaid, restoring what was lost, line by line.
 Gather everything. Burn nothing. And where the fire has been,
 Copy again. The four treasuries are the world's. The sign
 Of the keeper is the hand that writes the lost page in.
-
-Stand.

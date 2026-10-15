@@ -115,5 +115,3 @@ Who lived, and by what particular refusal.
 This chapter has the dates.
 The names are the work the law ordered,
 And they are not finished here.
-
-Stand.

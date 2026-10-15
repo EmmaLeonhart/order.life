@@ -79,5 +79,3 @@ For the foot on the image, and grateful for the page
 That says a fisher's daughter lived, and married, and had two sons, and died,
 In a village whose name you would never have known. The age
 Of the locked country kept her. Read her. She is on our side.
-
-Stand.

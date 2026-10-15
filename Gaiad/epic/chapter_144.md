@@ -137,5 +137,3 @@ After {{p|Göbekli Tepe}}. The first warning voice.
 
 The first loss. The first civilization
 Whose name is gone, in the Gaiad's human age.
-
-                                    Stand.

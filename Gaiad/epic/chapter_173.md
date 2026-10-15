@@ -357,4 +357,3 @@ Transition to the {{p|Hellenistic}} world. The closing of the classical
 Age.
 
          The {{p|Greek}} achievement: foundational, flawed, immortal.
-Stand.

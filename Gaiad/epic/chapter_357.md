@@ -79,5 +79,3 @@ The striving is to keep the special operation from being taken for its name,
 The even voice from being taken for the truth,
 And the longest night
 From being taken for the last.
-
-Stand.

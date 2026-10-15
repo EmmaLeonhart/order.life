@@ -94,5 +94,3 @@ They could not: no one is lost for not having heard.
 The names are kept. The dead are not condemned.
 Read them out this new year, every word,
 And let the Great Sun rise on all of them.
-
-Stand.

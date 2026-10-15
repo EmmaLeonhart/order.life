@@ -363,5 +363,3 @@ Would shape three Abrahamic religions.
 The exile as crucible. The crushing defeat that forged a new
 Theological imagination. The catastrophe that produced the
 Vocabulary of half the world's religions.
-
-Stand.

@@ -89,5 +89,3 @@ Of the North in summer, does not quite go dark. The rune-keeper
 Kept the stones and the dream, and did not tell them apart.
 His heir will. That is the vow: to be the keeper and the reaper
 Of both, and to show the seam. Draw the stone. Know the heart.
-
-Stand.

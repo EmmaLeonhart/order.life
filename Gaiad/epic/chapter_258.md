@@ -94,5 +94,3 @@ Of the scribe in the village, is where the modern state begins:
 Not only in the guns. In the page that says who you are.
 A faith as an address. A people as a column.
 Hold the gift and the wound in the one ledger. Here we are.
-
-Stand.

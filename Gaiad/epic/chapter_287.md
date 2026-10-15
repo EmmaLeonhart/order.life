@@ -79,5 +79,3 @@ On the ships from the cleared glens: their songs are in the archives now,
 Collected later, by people who wrote down who sang and when.
 Remember them: {{c|Duncan Ban MacIntyre}}, the hunter-poet, the bough
 Of his *Praise of Ben Dorain*, real, and dated, and made by a man.
-
-Stand.

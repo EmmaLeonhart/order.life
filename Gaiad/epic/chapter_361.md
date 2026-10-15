@@ -86,5 +86,3 @@ The striving is to keep the family book from being taken for the roll,
 The prince from being taken for the better ancestor,
 And the coincidence
 From being taken for either nothing or a proof.
-
-Stand.

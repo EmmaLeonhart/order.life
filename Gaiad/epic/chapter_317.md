@@ -115,5 +115,3 @@ Say which afternoon the point worked.
 Say which year the name existed.
 The machine did not choose the cities.
 The crystal did not choose its use.
-
-Stand.

@@ -165,4 +165,4 @@ Families and four thousand years of literacy. The state
 
 And status of more than a quarter of living humanity today.
 
-{{c|Haplogroup O}}. East Asia. Rice. Stand.
+{{c|Haplogroup O}}. East Asia. Rice.

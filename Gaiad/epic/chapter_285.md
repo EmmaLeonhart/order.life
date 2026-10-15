@@ -84,5 +84,3 @@ If you must, in a strange country, with a sack of seeds. The harvest
 Is for people you will never meet. His bones are in {{p|Uppsala}} now, brought home,
 In the cathedral, near {{c|Linnaeus}}'s. The farthest
 Visions and the nearest names lie under one dome.
-
-Stand.

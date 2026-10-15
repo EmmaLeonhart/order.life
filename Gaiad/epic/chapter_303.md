@@ -106,5 +106,3 @@ Take the ratio. One in four, the hidden, entire. The clock
 Of a life is not a prize list. Keep the ones the directories ignore.
 
 They are in the seed. They return. Let them.
-
-Stand.

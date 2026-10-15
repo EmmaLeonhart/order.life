@@ -79,5 +79,3 @@ The striving is to keep the hope from being taken for the method,
 The date from being taken for the home,
 And the one at the bedside
 From being taken for a stranger.
-
-Stand.

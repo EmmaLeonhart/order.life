@@ -195,4 +195,4 @@ In clay tablets in the {{p|Fertile Crescent}} at the founding of the mind
 
 Of civilization.
 
-                  {{c|J}}. The {{p|Semitic}}. The {{p|Near East}}. Stand.
+                  {{c|J}}. The {{p|Semitic}}. The {{p|Near East}}.

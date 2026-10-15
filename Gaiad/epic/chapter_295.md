@@ -69,5 +69,3 @@ About the Emperor. She thanks him for the registers that begin in 1811 in a Dutc
 For a name chosen in a year that became a family. The joke
 That became a surname. The surname that became a lineage. The pillage
 Of an empire, and a clerk with a pen. Hold both, in the smoke.
-
-Stand.

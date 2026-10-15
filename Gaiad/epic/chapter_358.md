@@ -85,5 +85,3 @@ The striving is to keep the support from being taken for membership,
 The name from being taken for the forest,
 And the closing without a successor
 From being taken for the end of the kami.
-
-Stand.

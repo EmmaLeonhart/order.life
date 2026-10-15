@@ -64,5 +64,3 @@ The moss from a Russian sailor's stone. Be that monk.
 Keep the dead who are not yours. They are yours. The black ships came. The country opened.
 The world is one family, and the strangers' graves are the trunk
 Of the tree too. Light the lamp. Say their names, if they are known. And if not, say: beloved.
-
-Stand.

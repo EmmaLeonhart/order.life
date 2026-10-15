@@ -88,5 +88,3 @@ The striving is to keep the robe from being taken for the line,
 The rule from being taken for the first century,
 And the Yazidis
 From being taken for a people without a past.
-
-Stand.

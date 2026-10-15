@@ -146,5 +146,3 @@ Beside the search.
 Neither sentence is a trick.
 His week and the college's spring are not one clock.
 The counts are not chosen.
-
-Stand.

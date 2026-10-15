@@ -79,5 +79,3 @@ Running somewhere. Find it. Two seas, one water.
 Sit with the sages. Do not cut off the head
 Of the brother who found the same ocean in another's daughter
 Faith. The two seas meet. Let them. Let the river be fed.
-
-Stand.

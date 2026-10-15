@@ -84,5 +84,3 @@ The world through one window, and made him a samurai, and let no one leave.
 The patient man waited, and the bird sang, and the song
 Was long and beautiful and the same. Grieve
 And give thanks. The pillar held. It held too long.
-
-Stand.

@@ -119,5 +119,3 @@ But the Tang remained the memory, the ideal,
 the civilization-peak to look back on.
 "Tang poetry" still means the finest Chinese verse.
 "Tang" is still how Chinese abroad call their people gone.
-
-Stand.

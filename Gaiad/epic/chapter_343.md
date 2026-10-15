@@ -146,5 +146,3 @@ Stay two sentences.
 The sender of the spit chose.
 The names on the film did not, in this chapter, ask.
 The counts are not chosen.
-
-Stand.

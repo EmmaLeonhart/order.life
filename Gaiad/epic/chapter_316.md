@@ -83,5 +83,3 @@ Do not pretend the cloud was a judgment.
 Do not pretend the clear morning was one either.
 Say which city. Say which hour.
 The dead are not the argument that closes the question.
-
-Stand.

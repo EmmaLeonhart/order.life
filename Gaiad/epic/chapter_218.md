@@ -99,5 +99,3 @@ This is part of what made the Reformation possible.
 Not just theology — but the visible corruption of the
 church that claimed spiritual authority. The pope was
 often manifestly unworthy. People could see it, conclude.
-
-Stand.

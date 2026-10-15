@@ -69,5 +69,3 @@ Of their gift, and broke the Sunday, the worst of their error.
 Keep the field. Keep the rest. Name the days. Do not let the number rule the body.
 And remember the poet who named *Germinal* and died in it, the terror
 Of his times around him: the grape, the fog, the frost. The year is a story.
-
-Stand.

@@ -79,5 +79,3 @@ But the Ming would last until 1644, when
 the {{c|Manchus}} would conquer from the north
 and found the {{c|Qing Dynasty}}. That story is later.
 For now, mark: native Chinese rule was called forth.
-
-Stand.

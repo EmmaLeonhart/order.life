@@ -78,5 +78,3 @@ The striving is to keep the empty street from being taken for an empty city,
 The argued count from being taken for a false one,
 And the days without names
 From staying nameless.
-
-Stand.

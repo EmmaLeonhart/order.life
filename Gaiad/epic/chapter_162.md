@@ -313,5 +313,3 @@ The {{p|Bantu}} expansion. The southern half of {{p|Africa}} becoming
 One linguistic family. The grand demographic movement that
 Completes what the first out-of-{{p|Africa}} migrations began: the
 Filling of the continent by its final and largest population.
-
-Stand.

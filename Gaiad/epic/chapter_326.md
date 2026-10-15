@@ -138,5 +138,3 @@ The reason is what the people do with the path,
 And what they refuse to call a peace
 When the plaque has said the word
 And the year has not finished saying it.
-
-Stand.

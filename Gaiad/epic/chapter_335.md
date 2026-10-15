@@ -134,5 +134,3 @@ The Sunday the New York score was one to one,
 And the Sunday of the nineteenth move.
 Refuse the consolation that he lost for being a fool,
 And the consolation that a score had become a soul.
-
-Stand.

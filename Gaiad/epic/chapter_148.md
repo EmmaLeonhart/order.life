@@ -206,4 +206,4 @@ Civilization of the {{p|Aegean}}, wrecked by a volcano and absorbed
 By the {{p|Mycenaeans}}, but surviving—in fragments, in images, in
 The substrate of later {{p|Greek}} mythology—into the present.
 
-{{p|Minoan Crete}}. {{p|Knossos}}. {{p|Linear A}} unread. Stand.
+{{p|Minoan Crete}}. {{p|Knossos}}. {{p|Linear A}} unread.

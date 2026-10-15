@@ -253,5 +253,3 @@ Would try to match.
                          {{p|Qin}} and {{p|Han}}. {{p|China}}'s classical empires.
 The template of {{p|East Asian}} civilization for the next two thousand
 Years.
-
-Stand.

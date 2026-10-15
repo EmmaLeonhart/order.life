@@ -79,5 +79,3 @@ It is one of the great "what ifs" of world literature.
 The last great Indo-European polytheism in Europe,
 undocumented at the moment of its conversion.
 A civilizational voice silenced without a final pope-hat.
-
-Stand.

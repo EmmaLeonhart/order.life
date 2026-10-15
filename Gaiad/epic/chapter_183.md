@@ -141,5 +141,3 @@ the battle of the Milvian Bridge, confessing.
 "In this sign, conquer." The chi-rho.
 He won the battle, credited Christ,
 and the whole direction began to flow.
-
-Stand.

@@ -89,5 +89,3 @@ Together, in the robe of another faith, under the eye
 Of the register. Honor the boy on the wall of {{p|Hara}}. Honor
 The woman at {{p|Ōura}}. Honor what is kept when the priests die, the keeper and the corner
 Where it was kept. Where is the image of Santa Maria? Here. Our hearts are the same.
-
-Stand.

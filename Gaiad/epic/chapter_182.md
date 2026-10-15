@@ -129,5 +129,3 @@ His memory was damned, "damnatio memoriae,"
 his name scratched out, his image defaced.
 But history remembered him as
 the strangest emperor Rome had faced.
-
-Stand.

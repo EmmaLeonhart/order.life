@@ -197,4 +197,4 @@ The sun-god, receiving the law. The law still legible. The king
 
 Still legible. The empire long gone.
 
-{{c|Hammurabi}}. {{p|Babylon}}. The {{p|Code}}. Stand.
+{{c|Hammurabi}}. {{p|Babylon}}. The {{p|Code}}.

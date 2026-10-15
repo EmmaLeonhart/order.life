@@ -204,5 +204,3 @@ They met in upper rooms to pray.
 They broke bread together and shared all things.
 They waited for the return imminent.
 And the spirit came on them on tongues' wings.
-
-Stand.

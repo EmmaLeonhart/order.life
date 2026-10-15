@@ -236,4 +236,4 @@ The grain fed the builders. The builders fed the god.
 The god is gone. The grain remains. The world was lit
 By their choice. And every city since has trod
 
-On the path they trod. {{c|G}}. The {{p|Neolithic}}. Stand.
+On the path they trod. {{c|G}}. The {{p|Neolithic}}.

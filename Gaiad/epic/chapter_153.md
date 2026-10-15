@@ -217,4 +217,4 @@ To the {{p|Levant}}. The {{p|Canaanite}} presence in the delta. The classical
 
 Age of {{p|Egyptian}} civilization.
 
-{{p|Middle Kingdom}}. {{p|Egypt}} restored. Stand.
+{{p|Middle Kingdom}}. {{p|Egypt}} restored.

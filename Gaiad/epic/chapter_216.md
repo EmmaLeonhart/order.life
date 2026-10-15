@@ -82,5 +82,3 @@ In 1453, the year Constantinople fell, the Hundred
 Years' War ended with French victory at {{c|Castillon}}.
 The English were expelled from France except for {{p|Calais}}.
 The France that Jeanne had saved became the modern nation.
-
-Stand.

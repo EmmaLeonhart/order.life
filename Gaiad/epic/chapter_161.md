@@ -257,4 +257,4 @@ Lost mandate and the new dynasty. The {{p|Middle Kingdom}} defining
 Itself as center of the world. The eight-hundred-year reign.
 
 Fall of {{p|Shang}}. Rise of {{p|Zhou}}. {{p|China}}'s Bronze Age ending and its
-Classical age beginning. Stand.
+Classical age beginning.

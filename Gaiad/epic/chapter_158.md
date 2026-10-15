@@ -227,4 +227,4 @@ The foundation of {{p|Greek}} identity that would be preserved through
 The {{p|Dark Age}} in oral poetry and recovered, in attenuated form,
 When {{c|Homer}} sang the songs that became the {{p|Iliad}} and {{p|Odyssey}}.
 
-{{p|Mycenaeans}}. {{c|Agamemnon}}'s kingdom. {{p|Troy}}'s rival. Stand.
+{{p|Mycenaeans}}. {{c|Agamemnon}}'s kingdom. {{p|Troy}}'s rival.

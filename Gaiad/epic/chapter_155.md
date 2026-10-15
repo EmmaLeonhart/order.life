@@ -250,4 +250,4 @@ A central deity of the new synthesis. The civilization that
 Would compose the {{p|Mahabharata}} and the {{p|Bhagavad Gita}} and
 The {{p|Upanishads}} is taking shape in this period.
 
-{{p|Aryan Migration}}. {{p|India}}. The synthesis. Stand.
+{{p|Aryan Migration}}. {{p|India}}. The synthesis.

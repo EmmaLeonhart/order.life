@@ -74,5 +74,3 @@ The striving is to keep the weighing from being taken for understanding,
 The score from being taken for the poem,
 And the eight in random order
 From being sorted into one.
-
-Stand.

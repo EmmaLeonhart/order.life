@@ -129,5 +129,3 @@ Until that fall, Vijayanagara was a magnificent
 capital, visited by Portuguese travelers who
 reported its wealth and beauty rivaled any city
 in the world they had seen. Now ruins, the abstract of past due.
-
-Stand.

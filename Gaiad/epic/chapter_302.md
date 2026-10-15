@@ -93,5 +93,3 @@ Keep the names. Keep the unnamed. They are one descent.
 From so simple a beginning, the endless forms.
 Say it over the days: the dead are not gone from the world.
 They are how the world goes on.
-
-Stand.

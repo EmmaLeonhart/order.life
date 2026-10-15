@@ -134,5 +134,3 @@ Without Islamic transmission of Greek learning
 through Córdoba and Toledo to Christian Europe,
 there would have been no Renaissance.
 The chain of transmission included this stoop.
-
-Stand.

@@ -89,5 +89,3 @@ Confuse a man with the end of the world.
 And never stop leaving the roof open to the stars.
 Rejoice in the booth. The branches are curled
 Over your head, and they let the light through the bars.
-
-Stand.

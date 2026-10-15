@@ -114,5 +114,3 @@ of his old life and opener of the new.
 "Recite!" the angel said. "In the name of your Lord
 who created, created man from a clot."
 The Quran began. A new religion was born.
-
-Stand.

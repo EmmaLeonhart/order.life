@@ -79,5 +79,3 @@ But the culture endured. The church endured.
 The alphabet still writes what Mashtots penned.
 A small mountain nation held on through empires.
 The deflationary polytheist sees how they fend.
-
-Stand.

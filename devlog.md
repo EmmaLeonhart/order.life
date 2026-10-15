@@ -8173,3 +8173,12 @@ Gaian day. Each entry in `content/ancestor_days.json` now carries `when` (the so
 "3 October 825", "October 832", or verbatim for partial ones, "abt 825") and `gaian` (the Gaian date with
 its year from the ISO week, "Virgo 26, 10825 GE"). The iCal lines (`_ancestor_lines` in `build.py`) and the
 `/ancestors/<day>/` pages show "(when; gaian)". Rendered through `base.html` in a scratch venv to check.
+
+## 2026-10-14 — "Stand." removed from every chapter
+
+Emma, 2026-10-14: "I just want you to remove it from all of them." Traced first (parent repo,
+`research/stand-origin.md`): a Claude agent began it on 2026-04-18 as a set-off refrain in the haplogroup
+chapters (ch 135: "Haplogroup I. Old Europe. Stand.", after lines about enduring), and another agent turned
+it into pinned correction 8 that afternoon with no reason given. Removed: 171 own-line closings and 27
+inline uses (ch 135-174); ch 257's stanza about "the end of every chapter" rewritten. Pinned correction 8 now
+states only the templating rule, with a dated note. Chapters without it untouched.

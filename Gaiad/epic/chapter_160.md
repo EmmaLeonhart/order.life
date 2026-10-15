@@ -283,5 +283,3 @@ Integrated Bronze Age world.
                               {{p|Exodus}}, {{p|Trojan War}}, {{p|Bronze Age Collapse}}.
 Three names. One crisis. One birthing. The next three millennia
 Of human civilization shaped in the rubble.
-
-Stand.

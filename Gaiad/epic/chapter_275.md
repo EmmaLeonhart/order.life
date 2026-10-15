@@ -86,5 +86,3 @@ The Mandate is the harvest. When the harvest is assailed,
 The Mandate goes. Feed the people. Then look
 
 At the rites.
-
-Stand.

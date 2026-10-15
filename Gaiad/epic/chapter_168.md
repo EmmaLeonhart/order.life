@@ -296,5 +296,3 @@ Ancient world. The foundation beneath {{p|Western}} and {{p|Eastern}}
 
 Political imagination alike. The conquering empire that was also
 The civilizing empire.
-
-Stand.

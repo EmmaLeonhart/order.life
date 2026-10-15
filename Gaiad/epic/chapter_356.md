@@ -75,5 +75,3 @@ The striving is to keep the fast from being taken for the careless,
 The last plane from being taken for the last person,
 And the year the book was silent
 From being taken for a year when nothing happened.
-
-Stand.

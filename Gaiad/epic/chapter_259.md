@@ -89,5 +89,3 @@ To come from. All of it rests on a clerk on a Sunday,
 In a cold church, with a quill, writing a name.
 Honor him. He did not know what he was making. One day
 Someone would read his hand, and say: there, that is where I came.
-
-Stand.

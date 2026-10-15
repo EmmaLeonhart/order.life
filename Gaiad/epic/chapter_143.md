@@ -193,7 +193,7 @@ Every major haplogroup represented in multiple places, and with
 {{c|E}} closing the loop by carrying a branch of the out-of-Africa
 Lineage back to the continent it had left.
 
-{{c|E}}. {{p|Africa}}. The return. The loop. Stand.
+{{c|E}}. {{p|Africa}}. The return. The loop.
 
 And with this chapter, the haplogroup sequence is complete.
 Fourteen chapters. Fourteen haplogroups. One great branching tree.

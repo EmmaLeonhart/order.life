@@ -84,5 +84,3 @@ She never left. Go and see her. A nation keeps its wreck
 On view, and teaches its children: this is what pride
 Does to a keel. That is a better myth than Berik. The deck
 Is the lesson. Stand on the quay. The water is on every side.
-
-Stand.

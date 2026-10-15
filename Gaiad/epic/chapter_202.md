@@ -154,5 +154,3 @@ Europe would digest that exposure over centuries,
 and the Renaissance that emerged in the fourteenth century
 was partly a product of what the crusades had brought back:
 Greek texts via Islamic transmission, entering the inventory.
-
-Stand.

@@ -145,5 +145,3 @@ The same instant is a thing you make,
 With a signal, and a rule that the way there equals the way back.
 Make it. Say which frame you made it in.
 Do not pretend the sky held it before you did.
-
-Stand.

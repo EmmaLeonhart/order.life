@@ -89,5 +89,3 @@ Repent, on this day, of every list that crosses out a name.
 Remember the boy who asked which cross was his.
 Remember the peasant who climbed, and pulled the ladder up, the same
 Man, the same hand. The dew falls. That is what is.
-
-Stand.

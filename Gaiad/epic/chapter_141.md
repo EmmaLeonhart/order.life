@@ -129,5 +129,3 @@ Their fork. The stars. The ice. The silence. Two
 Silhouettes going two ways. The father, alone.
 {{c|Q}} goes east. {{c|R}} goes west. The lake stays true.
 {{c|Paikal}}. The deepest water. The crossroads stone.
-
-                                    Stand.

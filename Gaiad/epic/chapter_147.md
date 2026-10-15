@@ -211,4 +211,4 @@ Astronomical calendar that still works. The monument that outlived
 Its builders, its culture, and its language, and still stands,
 Weathered and whole, on the {{p|Salisbury Plain}} in the evening light.
 
-{{p|Stonehenge}}. The stone circle. The solstice calendar. Stand.
+{{p|Stonehenge}}. The stone circle. The solstice calendar.

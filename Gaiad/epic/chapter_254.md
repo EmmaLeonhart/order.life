@@ -121,5 +121,3 @@ It was done by a slave who found his way back to his source.
 Hold all three. The sea joins. The world will never again be free
 
 Of the rest of the world.
-
-Stand.

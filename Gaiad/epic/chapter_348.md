@@ -82,5 +82,3 @@ The striving is to keep the number from being taken for the thing,
 The statement from being taken for the truth,
 And the line in the graph
 From being taken for the blood.
-
-Stand.

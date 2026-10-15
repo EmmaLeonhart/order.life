@@ -114,5 +114,3 @@ The deflationary polytheist sees Ireland
 as a kind of time capsule where Indo-European
 mythology survived in Christian clothing,
 visible in the folk traditions, superheroic accrue.
-
-Stand.

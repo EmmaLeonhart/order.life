@@ -91,5 +91,3 @@ That a king's clerk had given them, in wax
 And ink, the one thing the old sagas could never:
 
 A date.
-
-Stand.

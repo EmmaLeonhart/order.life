@@ -366,5 +366,3 @@ And {{c|Thucydides}}. The cultural hothouse taking shape.
 
 Classical {{p|Greece}}, part one. The preparation. The rise of a
 Civilization that would shape all of {{p|Western}} thought.
-
-Stand.

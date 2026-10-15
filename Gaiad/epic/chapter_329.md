@@ -141,5 +141,3 @@ Do not say that sentence had made the harvest impossible.
 A broken offering and a full one are not the same rite.
 Both are a thanks.
 A thanks is not yet the peace it names.
-
-Stand.

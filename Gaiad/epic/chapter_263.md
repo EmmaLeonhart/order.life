@@ -84,5 +84,3 @@ What it gives. Honor the emperor who could not read
 And would not stop listening. Learn from the room
 He built for every faith, and from its emptiness. The seed
 Needs ground. Plant it in the days, not in the throne. Not in the tomb.
-
-Stand.

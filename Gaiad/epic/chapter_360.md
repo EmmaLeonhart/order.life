@@ -82,5 +82,3 @@ The striving is to keep the step from being taken for the will,
 The saying from being taken for the checking,
 And the miserable year
 From being taken for the last one.
-
-Stand.

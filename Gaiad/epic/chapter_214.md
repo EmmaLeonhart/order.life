@@ -84,5 +84,3 @@ As it was, Europe in the late fifteenth century was
 accelerating technologically and intellectually. Combined
 with the discovery of the Americas (next century),
 the basis for European global dominance was formed, intentionally.
-
-Stand.

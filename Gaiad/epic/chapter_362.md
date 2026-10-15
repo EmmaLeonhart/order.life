@@ -81,5 +81,3 @@ The striving is to keep the open from being taken for the lost,
 The blank from being taken for the end,
 And the hand on the page
 From letting go too soon.
-
-Stand.

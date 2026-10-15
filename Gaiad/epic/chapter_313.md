@@ -145,5 +145,3 @@ The man they called saviour of the caliphate signed the paper that ended it.
 The man they called caliph of the Muslims died without the name.
 Count the office closed on the day the law says.
 Keep the question. It was not in the statute.
-
-Stand.

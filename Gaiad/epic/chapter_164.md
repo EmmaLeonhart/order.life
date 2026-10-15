@@ -278,4 +278,4 @@ Millennia of prayer.
 Human complexity opened space for a new kind of political and
 
 Religious imagination. The ancestor, by flesh or by adoption,
-Of every messianic hope. Stand.
+Of every messianic hope.

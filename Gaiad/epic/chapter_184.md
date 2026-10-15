@@ -94,5 +94,3 @@ The Shahnameh of {{c|Ferdowsi}} would
 preserve the pre-Islamic past in verse.
 The Zoroastrians who fled to India
 became {{c|Parsis}}, their faith's unsquashed reverse.
-
-Stand.

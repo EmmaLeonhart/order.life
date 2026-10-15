@@ -85,5 +85,3 @@ Japan in 1453 — the year Constantinople fell — was
 fragmenting politically but flourishing culturally.
 The Ashikaga were losing power. The Ōnin War would
 erupt fourteen years later. The age of chaos began.
-
-Stand.

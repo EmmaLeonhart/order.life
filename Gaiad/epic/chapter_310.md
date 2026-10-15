@@ -107,5 +107,3 @@ Public still has the dead in it.
 The round altar is still south of the city.
 The brick can stand with no emperor on it.
 The names do not need that brick in order to be kept.
-
-Stand.

@@ -220,4 +220,4 @@ Would eventually bring the Bronze Age itself crashing down.
 
 {{p|New Kingdom}}. {{c|Hatshepsut}}. {{c|Thutmose III}}. {{c|Akhenaten}}. {{c|Ramesses II}}.
 The {{p|Egyptian}} Empire. The {{p|Kadesh Peace Treaty}}. The persecution of
-The {{p|Israelites}}. The glories before the collapse. Stand.
+The {{p|Israelites}}. The glories before the collapse.

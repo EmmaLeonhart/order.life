@@ -99,5 +99,3 @@ died with him, on the walls of its ancient Citadel, stating.
 a Roman emperor had reigned in Constantinople. The line
 stretched back to Augustus. Now it ended. Chapter 221
 will describe the actual fall; this chapter is the end.)
-
-Stand.

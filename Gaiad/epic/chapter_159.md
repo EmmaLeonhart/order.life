@@ -294,4 +294,3 @@ That thought itself as one world.
                                      The {{p|Ramayana}}. Eastern reflex
 Of the shared narrative. The great swerve that acknowledges
 Humanity's unity at the moment of greatest apparent fragmentation.
-Stand.

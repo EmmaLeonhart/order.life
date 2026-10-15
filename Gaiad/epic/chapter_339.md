@@ -90,5 +90,3 @@ And the two rates of error.
 Refuse the consolation that finished means every letter,
 And the consolation that a reference
 Has already read a life.
-
-Stand.

@@ -114,5 +114,3 @@ The Kofun period was ending. The Asuka period
 beginning. The constitution of {{c|Prince Shōtoku}}
 in 604 would organize the state
 along Chinese lines — the shape we still see.
-
-Stand.

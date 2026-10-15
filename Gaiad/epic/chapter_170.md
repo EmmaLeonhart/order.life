@@ -344,4 +344,4 @@ Sentient beings without distinction of caste or species. The one
 Whose teaching is, still today, a living path for hundreds of
 Millions.
 
-             The {{c|Buddha}}. Awakened one. Stand.
+             The {{c|Buddha}}. Awakened one.

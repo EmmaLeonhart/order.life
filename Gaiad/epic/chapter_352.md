@@ -80,5 +80,3 @@ The striving is to keep back from being taken for a date,
 Again from being taken for a promise,
 And the crowd that came
 From being taken for everyone.
-
-Stand.
