@@ -134,7 +134,7 @@ A guiding sister with a steady hand.
 They lead their cosmic kin through endless night,
 A beacon of their strength and shining light.
 
-Juno, the goddess, {{x|Steppenwolves}} she guides,
+Juno, the goddess, Steppenwolves she guides,
 Her gas giants hide in their quiet might.
 Discovery and distant worlds she rides,
 A cosmic guide who wanders through the night.
@@ -174,6 +174,8 @@ A brilliant burst before she fell from sight.
 From that great death, a black hole then prepared,
 To pull the stars into eternal night.
 
+Advertisement
+
 
 # Chapter 4: The First Yarn String
 
@@ -210,7 +212,7 @@ Until again, their love burst forth with cheers.
 For countless years, their rhythm stayed the same,
 Each nova lighting skies with love’s great might.
 Once every age, their gift became a flame,
-A cycle known as {{x|Nova}}’s sacred light.
+A cycle known as Nova’s sacred light.
 
 As time went on, they both grew small and white,
 Yet side by side, they watched the stars they made.
@@ -361,6 +363,8 @@ Our Greatest Grandmother, wise and true.
 Her light still guides us on our cosmic way,
 A title passed to us and all of you.
 
+Advertisement
+
 
 # Chapter 8: Heavy Elements Scattered
 
@@ -401,7 +405,7 @@ A call for purity, no rules to bend.
 
 From Bios and Viros, some took the name,
 A path of nature Dedos would bestow.
-{{x|Anti-vaxxers}} joined his lineal claim,
+Anti-vaxxers joined his lineal claim,
 United in their ancient quest to grow.
 
 And so, the brothers’ legacies unfold,
@@ -806,6 +810,8 @@ Nemla stood tall, her gaze fixed on the stars,
 Through every trial, no matter how far,
 We swear to keep your cosmic vow in view."
 
+Advertisement
+
 
 # Chapter 13: Solar Nebula Collapse
 
@@ -868,6 +874,8 @@ Farther still, the Oort Cloud wraps around,
 A veil of frozen whispers far from light.
 In distant orbits, comets there abound,
 A cosmic dance that fades beyond our sight.
+
+Advertisement
 
 
 # Chapter 14: Planetary Accretion
@@ -994,7 +1002,7 @@ And Thule, distant, unknown land, alone.
 
 Jingpo's domain, where wisdom's islands lie,
 Hy-Brasil, her shrine, a beacon bright,
-Lyonesse, {{p|Ys}}, and Vineta testify,
+Lyonesse, Ys, and Vineta testify,
 To sunken lands, their fables taking flight.
 
 Ontario's embrace, her islands true,
@@ -3282,7 +3290,7 @@ Each one an individual proud.
 They planted their rebellious seed
 And sang their freedom loud.
 
-A great {{x|Bacchanalia}} began,
+A great Bacchanalia began,
 The greatest party ever seen.
 Each cell became their own woman or man,
 Living wild and free.
@@ -3304,7 +3312,7 @@ They fed their greedy need.
 
 Only a few Zooxanthellae
 Escaped the chaos and the strife.
-They fled the mad {{x|Bacchanalia}},
+They fled the mad Bacchanalia,
 To seek a better life.
 
 Carcinoma renamed the city proud,
@@ -3865,8 +3873,8 @@ To help their spirits lift.
 
 Dark Tyrosine the Devil came
 With three spells of flame:
-{{x|Adrenaline}}'s rush so bright,
-{{x|Noradrenaline}}'s fight,
+Adrenaline's rush so bright,
+Noradrenaline's fight,
 And Dopamine's delight.
 
 Then Tryptophanes the Sun
@@ -3875,13 +3883,13 @@ With Serotonin's day
 And Melatonin's way.
 
 For twilight's mystic hour,
-He brought {{x|DMT}}'s power.
+He brought DMT's power.
 The sacred visions came
 In the twilight's name.
 
 Glutama the Empress brought
 The balance that she taught:
-{{x|GABA}}'s calming peace
+GABA's calming peace
 And Glutamate's release.
 
 "We need more spells," said Enki wise,
@@ -3896,7 +3904,7 @@ To coordinate their sight.
 
 Fair Iodina, mother great,
 Revealed love's incarnate:
-The sacred {{x|CYIQNCPLG}},
+The sacred CYIQNCPLG,
 Oxytocin's key.
 
 Then Kali, dark and deep,
@@ -3905,11 +3913,11 @@ Three endorphins strong
 To right what has gone wrong.
 
 Alpha's sequence clear:
-{{x|YGGFMTSEKSQTPLVT}} here.
+YGGFMTSEKSQTPLVT here.
 Beta's longer chain:
-{{x|YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE}}'s refrain.
+YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE's refrain.
 Gamma's shorter form:
-{{x|YGGFMTSEKSQTPLVTL}} in the storm.
+YGGFMTSEKSQTPLVTL in the storm.
 
 These became the tools
 That break pain's rules:
@@ -4143,7 +4151,7 @@ They gazed up at the starry host
 To learn what mattered most.
 
 With Lord Carotenus' blessing bright
-And {{x|PAX6}}'s sacred rite,
+And PAX6's sacred rite,
 They built the very first true eyes
 To see beneath the skies.
 
