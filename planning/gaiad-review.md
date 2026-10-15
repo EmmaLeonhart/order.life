@@ -14,8 +14,13 @@ Standing decisions:
 - The site strips the tags (`build.py` `load_chapters`): `{{c|Aster}}` renders as plain "Aster", so tags
   are an index, not links, today. The tags take no display alias, so a name whose tag would point at the wrong
   entity is left untagged. Real links are the later "links are present" item.
+- The galaxies are beings in the Gaiad's cosmology (Aster and Andromeda are galaxies as persons; Triangulum and
+  the Magellanic Clouds act in ch 2; Milkdromeda is their union; Sagittarius beside "the Princess" stands for
+  Aster), so they keep `{{c|}}` tags. Words tagged as characters by the 2025-11-18 automated pass ("Once",
+  "Together" and the like, which also made junk files in `Gaiad/genealogy/`) are untagged.
 - Length (60-150 lines) is a guide for new chapters, not a reason to cut or pad hers.
 
 | ch | title | verdict | changes |
 |---|---|---|---|
-| 1 | The Yarn of Creation | Emma's 2020 verse; passes | tags fixed (17:08): `{{c|Once}}` untagged (a word, from the 2025-11-18 automated tagging); Triangulum, Sagittarius, Milkdromeda tagged as places, not characters; "Magellan clouds" untagged (`{{p|Magellan}}` would index the explorer). 32 lines, her length kept. |
+| 1 | The Yarn of Creation | Emma's 2020 verse; passes | `{{c|Once}}` untagged (a word, from the 2025-11-18 automated tagging). Galaxies kept as characters (corrected 17:14: the first pass made them places, wrongly). 32 lines, her length kept. |
+| 2 | Aster's First Call | Emma's verse; passes | `{{c|Together}}` untagged (a word). |
