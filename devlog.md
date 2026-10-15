@@ -8384,3 +8384,10 @@ a third, unlabelled parent). Committed tables: `wikibase/analysis/synoptic_perso
 `synoptic_drop.tsv`. Emma's placeholder parents (Q502, Q503) are replaced by Helen Frisk and Richard Wade Borsheim, with her
 brother Jared. Size decides the split: with every graft the file is 99.7 MB, at GitHub's limit, so the main /gaiad.ged takes
 order.life plus Emma's own ancestry (131,177 people, 89.8 MB) and the zips carry the full graft (148,765 people) as gedcom.ged.
+
+2026-10-15 15:15 PST: /gaiad.ged rebuilt to Emma's specification of today, replacing the wikibase-based file and its grafts
+(`wiki-scripts/build_gaiad_ged.py`): I1 Aster, I2 Emma Leonhart, I3 Andromeda; then every distinct {{c|...}} tag name in order
+of first appearance, strictly from the text, no links (4,786 individuals; false positives such as "Once" stay, as she
+said); then her ancestry from her family tree (`Gaiad/ancestry/second_attempt.ged`, the RootsMagic conversion of her
+FamilySearch tree: 53,984 people, 26,547 families), her record resolved as I2. 15.6 MB; no dangling pointers. One file:
+the zips package the same file. The old exporter (`export_gedcom7.py`, the wikibase base) is no longer called.

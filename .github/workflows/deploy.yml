@@ -62,8 +62,7 @@ jobs:
           pandoc /tmp/gaiad_book.md -f markdown+hard_line_breaks --toc --toc-depth=2 -o site/gaiad.odt
           pandoc /tmp/gaiad_book.md -f markdown+hard_line_breaks -t plain -s --wrap=none -o site/gaiad.txt
           mkdir -p /tmp/gaiad-zip
-          # The zip carries the full graft: every character's ancestry from the synoptic tree (near 100 MB unzipped).
-          python wiki-scripts/export_gedcom7.py /tmp/gaiad-zip/gedcom.ged --full > /dev/null
+          cp site/gaiad.ged /tmp/gaiad-zip/gedcom.ged   # the one GEDCOM, packaged with the books
           cp site/gaiad.pdf site/gaiad.epub site/gaiad.docx site/gaiad.odt site/gaiad.txt /tmp/gaiad-zip/
           (cd /tmp/gaiad-zip && zip -q -r -9 "$GITHUB_WORKSPACE/site/gaiad.zip" .)
           ls -la site/gaiad.pdf site/gaiad.epub site/gaiad.docx site/gaiad.odt site/gaiad.txt site/gaiad.zip
@@ -75,7 +74,7 @@ jobs:
         run: |
           for lang in ja zh es hi ar fr ru uk; do
             d=/tmp/zip-$lang && rm -rf $d && mkdir -p $d
-            python wiki-scripts/export_gedcom7.py $d/gedcom.ged $lang --full > /dev/null
+            cp site/gaiad.ged $d/gedcom.ged   # same file; language versions will differ only by translations
             cp site/gaiad.pdf site/gaiad.epub $d/
             mkdir -p site/$lang
             (cd $d && zip -q -r -9 "$GITHUB_WORKSPACE/site/$lang/gaiad.zip" .)
