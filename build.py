@@ -657,6 +657,26 @@ def _is_gaian_leap(gaian_year):
     return ((thu - jan1).days + 7) // 7 == 53
 
 
+def _neighbor_day(month_num, day, step, t):
+    """The previous or next day of the perpetual calendar, across months, as (month_num, day, name).
+
+    The year is a cycle (Emma, 2026-10-13: "the final chapter wraps around to the first chapter"):
+    Ophiuchus 28 is followed by Sagittarius 1, and Sagittarius 1 is preceded by Ophiuchus 28. The
+    seven Horus days (month 14, leap years only) sit between Ophiuchus 28 and Sagittarius 1 on their
+    own pages: Horus 1 follows from Ophiuchus 28 backwards, Horus 7 leads to Sagittarius 1.
+    """
+    length = 7 if month_num == 14 else 28
+    d, mn = day + step, month_num
+    if d < 1:
+        mn = 13 if month_num in (1, 14) else month_num - 1
+        d = 28
+    elif d > length:
+        mn = 1 if month_num in (13, 14) else month_num + 1
+        d = 1
+    mid = next(x["id"] for x in MONTHS if x["num"] == mn)
+    return (mn, d, t["months"].get(mid, mid.title()))
+
+
 def _ical_fold(line):
     """Fold an iCal line at 75 octets with CRLF + space continuation."""
     encoded = line.encode("utf-8")
@@ -2237,6 +2257,8 @@ def build_site():
                     "weekday_data": WEEKDAYS[((d - 1) % 7)],
                     "wiki_day_intro": wiki_day.get("intro"),
                     "wiki_day_overview": wiki_day.get("overview"),
+                    "prev_day": _neighbor_day(m["num"], d, -1, t),
+                    "next_day": _neighbor_day(m["num"], d, +1, t),
                 }
                 render_page(env, "calendar/day.html", day_dir / "index.html", day_ctx)
 
@@ -2267,8 +2289,8 @@ def build_site():
                 "chapter_stanzas": [s.strip("\n") for s in re.split(r"\n\s*\n", ch_data[1].replace("\r", "")) if s.strip()] if ch_data and ch_data[1] else [],
                 "chapter_month": MONTHS[ch_month - 1] if ch_month <= 14 else None,
                 "chapter_day": ch_day,
-                "prev_chapter": ch_num - 1 if ch_num > 1 else None,
-                "next_chapter": ch_num + 1 if ch_num < 364 else None,
+                "prev_chapter": ch_num - 1 if ch_num > 1 else 364,  # the year is a cycle: ch 1 follows ch 364
+                "next_chapter": ch_num + 1 if ch_num < 364 else 1,  # Emma: "the final chapter wraps around to the first chapter"
                 "further_reading": further_reading.get(ch_num, []) if lang == DEFAULT_LANG else [],
             }
             render_page(env, "gaiad/chapter.html", ch_dir / "index.html", ch_ctx)

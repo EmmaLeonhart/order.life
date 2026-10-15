@@ -8226,3 +8226,8 @@ Thursday) turned out to be corrected in the data already.
 It had been only on the lunar festivals page (Passover − 30 days), never in `content/gaian_days.json`, so the day pages
 and the iCal lacked it; that is what Grok saw. Aquarius 14 answers 14 Adar, falls on a Sunday, and is the day the
 festivals page's own offset points to (Rosh Hashanah, Virgo 10, minus 193 days, within a day).
+
+2026-10-15 03:28 PST: the year wraps round. Chapter 364's "Next" goes to chapter 1 and chapter 1's "Previous" to 364;
+calendar day pages now link across months (they stopped at each month's edge), with Ophiuchus 28 leading to
+Sagittarius 1 and the Horus days between them. The "Coming soon" Emma saw on ch 364 was deploy lag: the live page
+shows the chapter now.

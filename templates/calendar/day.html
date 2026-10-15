@@ -94,16 +94,9 @@
 
   {# Day navigation #}
   <div class="chapter-nav">
-    {% if day_num > 1 %}
-    <a href="{{ base }}/calendar/{{ '%02d' % month.num }}/{{ '%02d' % (day_num - 1) }}/">{{ t.prev }}: {{ month_display_name }} {{ day_num - 1 }}</a>
-    {% else %}
-    <span></span>
-    {% endif %}
-    {% if day_num < days_in_month %}
-    <a href="{{ base }}/calendar/{{ '%02d' % month.num }}/{{ '%02d' % (day_num + 1) }}/">{{ t.next }}: {{ month_display_name }} {{ day_num + 1 }}</a>
-    {% else %}
-    <span></span>
-    {% endif %}
+    {# Across months, and round the year: Ophiuchus 28 leads to Sagittarius 1 #}
+    <a href="{{ base }}/calendar/{{ '%02d' % prev_day[0] }}/{{ '%02d' % prev_day[1] }}/">{{ t.prev }}: {{ prev_day[2] }} {{ prev_day[1] }}</a>
+    <a href="{{ base }}/calendar/{{ '%02d' % next_day[0] }}/{{ '%02d' % next_day[1] }}/">{{ t.next }}: {{ next_day[2] }} {{ next_day[1] }}</a>
   </div>
 </div>
 
