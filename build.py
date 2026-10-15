@@ -1185,7 +1185,24 @@ def gaian_day_description(gaian_year, month_num, day_num):
         reading = ""
 
     custom = _CUSTOM_DAY_NOTES.get((month_num, day_num), "")
-    return " ".join(p for p in [intro, auspicious, custom, reading] if p)
+    # The chapter's own summary (content/gaian_days.json "chapter_summaries"). Where there is one,
+    # the older sentences in the day note that half-describe the chapter are dropped, so the
+    # description does not say it twice.
+    summary = _CHAPTER_SUMMARIES.get(chapter, "") if chapter else ""
+    if summary:
+        custom = _strip_chapter_sentences(custom)
+        summary = f"Gaiad chapter {chapter}: {summary}"
+    return " ".join(p for p in [intro, auspicious, custom, summary, reading] if p)
+
+
+_CHAPTER_SENTENCE_RE = re.compile(
+    r"[^.]*(?:\b[Cc]hapter \d+ of the Gaiad is read|\bwe read chapter \d+|"
+    r"\bis the \d+(?:st|nd|rd|th) day of the Gaian year)[^.]*\.?\s*")
+
+
+def _strip_chapter_sentences(note):
+    """Drop the sentences of a day note that only name the day or half-describe its chapter."""
+    return " ".join(_CHAPTER_SENTENCE_RE.sub(" ", note or "").split())
 
 
 def _ical_year_holidays(gy, month_display, lang="en"):
