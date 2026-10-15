@@ -88,6 +88,39 @@
       });
     }
   })();
+
+  // ── Person records: /wikibase/entity/Q<n> (the URL the GEDCOM's EXIDs name) ──────
+  // Built from site/wikibase/entity/_index/<n div 1000>.json (wiki-scripts/entity_index.py).
+  (function () {
+    var m = window.location.pathname.match(/^\/wikibase\/entity\/(Q\d+)\/?$/);
+    if (!m) return;
+    var q = m[1];
+    function esc(s) { return String(s).replace(/[&<>"]/g, function (c) {
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+    function link(x, names) { return '<a href="/wikibase/entity/' + x + '">' + esc(names[x] || x) + '</a>'; }
+    document.addEventListener('DOMContentLoaded', function () {
+      var box = document.getElementById('_404_body');
+      fetch('/wikibase/entity/_index/' + Math.floor(parseInt(q.slice(1), 10) / 1000) + '.json')
+        .then(function (r) { return r.ok ? r.json() : {}; })
+        .then(function (b) {
+          var r = b[q];
+          if (!r) return;
+          document.title = (r.l || q) + ' — order.life ' + q;
+          var h = '<div class="section-hero"><h1>' + esc(r.l || q) + '</h1><p>order.life ' + q +
+                  (r.b || r.d ? ' · ' + esc(r.b || '?') + ' – ' + esc(r.d || '') : '') + '</p></div>';
+          h += '<div class="container section-content">';
+          if (r.p && r.p.length) h += '<p><strong>Parents:</strong> ' + r.p.map(function (x) { return link(x, r.n); }).join(', ') + '</p>';
+          if (r.c && r.c.length) h += '<p><strong>Children:</strong> ' + r.c.map(function (x) { return link(x, r.n); }).join(', ') + '</p>';
+          var out = [];
+          if (r.s) out.push('<a href="/gaiad/characters/' + r.s + '/">In the Gaiad</a>');
+          if (r.w) out.push('<a href="https://www.wikidata.org/wiki/' + r.w + '">Wikidata ' + r.w + '</a>');
+          if (r.g) out.push('<a href="https://www.geni.com/profile/index/' + r.g + '">Geni</a>');
+          out.push('<a href="/gaiad.ged" download>the whole tree (GEDCOM 7)</a>');
+          h += '<p>' + out.join(' · ') + '</p></div>';
+          box.innerHTML = h;
+        });
+    });
+  })();
   </script>
 </head>
 <body>

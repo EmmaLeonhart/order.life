@@ -8318,3 +8318,9 @@ Archaea, Bacta -> Bacteria, Viros -> virus). The other 551 links sit on items wi
 /fr/, /ru/, /uk/): its gedcom.ged adds that language's real labels to the primary zh, ja and ko (the French one 13,584
 more), with the English PDF and EPUB beside it, as Emma described the language versions. `labels.tsv` now holds nine
 languages. The media subdirectory (each person's arms as SVG and PNG) waits on the arms.
+
+2026-10-15 10:23 PST: /wikibase/entity/Q<n> resolves. The GEDCOM's EXIDs named that URL and it was a 404 for everyone. build.py now
+writes a person index in 284 JSON buckets (`wiki-scripts/entity_index.py`, about 20 MB), and 404.html shows the record of
+any /wikibase/entity/Q<n> from its bucket: label, dates, parents and children linked the same way, the Gaiad character
+page, Wikidata, Geni. Also drafted `planning/wikidata-property-proposal.md` (an "order.life person ID" property, formatter
+URL that address, examples Muhammad Q65705, Confucius Q30266, Genghis Khan Q37401), for Emma to file herself if she wants.

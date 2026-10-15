@@ -1911,6 +1911,13 @@ def build_site():
     # The same genealogy as GEDCOM 7 with permanent IDs on every person, served at /gaiad.ged
     print("Exporting GEDCOM 7...")
     generate_gedcom7(SITE_TMP_DIR / "gaiad.ged")
+    # Person records at /wikibase/entity/Q<n>, shown by 404.html from small JSON buckets
+    try:
+        from entity_index import build as build_entity_index
+        n_people, n_buckets = build_entity_index(SITE_TMP_DIR / "wikibase" / "entity" / "_index")
+        print(f"  entity index: {n_people:,} people in {n_buckets} buckets")
+    except Exception as e:
+        print(f"  ERROR writing the entity index: {e}")
 
     # Write shrine data as static JSON for the map
     print("Writing shrines.json...")
