@@ -8341,3 +8341,8 @@ one stanza rewritten, "Thus Plastidus and Chlora, wise, / Joined light to cell, 
 2026-10-15 13:09 PST: ch 4-20 retitled from the verse on Emma's word (the old titles came from the 2025 plan of the cosmos and
 named what the chapters do not tell): e.g. 4 "The First Yarn String" -> "The First Lovers Among the Stars", 19 "First Oceans
 Condense" -> "Euka, Lilith and Eve". Ch 12 and 13 kept (their titles already fit). Old and new in planning/gaiad-review.md.
+
+2026-10-15 13:11 PST: neo-kun'yomi applied to /gaiad.ged on Emma's approval ("Apply as drafted"): `wiki-scripts/neo_kunyomi.py` holds the
+25-root table; 3,234 people whose given name belongs to a root carry the kanji as a typed NAME, "neo-kun'yomi (read Miguel)".
+Cladoplasts are skipped (the archaeal Yuri is not a George). Only clean given names (the given part of the gedcom name or a
+one-word label), as with the lineage names.

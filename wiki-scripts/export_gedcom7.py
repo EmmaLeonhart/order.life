@@ -25,6 +25,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from neo_kunyomi import kanji_for
 from export_gedcom import (ANA, MONTHS, SEX_FEMALE, SEX_MALE, clean_name, couples_for_child,
                            load, name_lines)
 
@@ -377,7 +378,7 @@ def build_gedcom7(out_path, extra_lang=None):
         with open(labels_path, encoding="utf-8", newline="") as fh:
             for r in csv.DictReader(fh, delimiter="\t"):
                 labels[r["qid"]].append((r["lang"], r["label"]))
-    n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = n_clado = 0
+    n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = n_clado = n_nk = 0
     for qid in sorted(persons, key=lambda q: int(q[1:]) if q[1:].isdigit() else 0):
         row = persons[qid]
         w(f"0 @I{qid}@ INDI")
@@ -409,6 +410,14 @@ def build_gedcom7(out_path, extra_lang=None):
             w(f"1 NAME {val(lb)}")
             w("2 TYPE OTHER")
             w(f"3 PHRASE {lg} name")
+        # Neo-kun'yomi (planning/neo-kunyomi-names.md; approved 2026-10-15): the root's kanji, read as the own name.
+        g = given_name(row)
+        kj = kanji_for(g) if qid not in cladoplasts else None   # a cladoplast's name is a clade's, not a given name
+        if kj:
+            w(f"1 NAME {kj}")
+            w("2 TYPE OTHER")
+            w(f"3 PHRASE neo-kun'yomi (read {val(g.split()[0])})")
+            n_nk += 1
         more, lineage_notes = lineage_extras(qid, persons, sex_of, canon, labels)
         for n, phrase in lineage_names(qid, persons, sex_of, canon) + more:
             w(f"1 NAME {val(n)}")
@@ -521,7 +530,7 @@ def build_gedcom7(out_path, extra_lang=None):
     with open(tmp, "w", encoding="utf-8-sig", newline="\n") as f:
         f.write("\n".join(out))
     tmp.replace(out_path)
-    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal, "gaiad_notes": n_notes, "cladoplasts": n_clado,
+    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal, "gaiad_notes": n_notes, "cladoplasts": n_clado, "neo_kunyomi": n_nk,
             "bytes": out_path.stat().st_size}
 
 
