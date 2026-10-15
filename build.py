@@ -2263,6 +2263,8 @@ def build_site():
                 "chapter_num": ch_num,
                 "chapter_title": ch_data[0] if ch_data else None,
                 "chapter_text": ch_data[1] if ch_data else None,
+                # Stanzas, numbered from 1, so a passage can be cited as Gaiad N.S and linked as #sS.
+                "chapter_stanzas": [s.strip("\n") for s in re.split(r"\n\s*\n", ch_data[1].replace("\r", "")) if s.strip()] if ch_data and ch_data[1] else [],
                 "chapter_month": MONTHS[ch_month - 1] if ch_month <= 14 else None,
                 "chapter_day": ch_day,
                 "prev_chapter": ch_num - 1 if ch_num > 1 else None,

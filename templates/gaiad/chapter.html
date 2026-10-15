@@ -32,7 +32,14 @@
       {% endif %}
     </div>
 
-    {% if chapter_text %}
+    {% if chapter_stanzas %}
+    <div class="chapter-text chapter-stanzas">
+      {%- for s in chapter_stanzas %}
+      <div class="stanza" id="s{{ loop.index }}"><a class="stanza-num" href="#s{{ loop.index }}" title="Gaiad {{ chapter_num }}.{{ loop.index }}">{{ loop.index }}</a>{{ s }}</div>
+      {%- endfor %}
+    </div>
+    <p class="cite-note">Cite a stanza as <em>Gaiad {{ chapter_num }}.1</em>, <em>Gaiad {{ chapter_num }}.2</em> and so on (chapter, stanza); each number links to its stanza.</p>
+    {% elif chapter_text %}
     <div class="chapter-text">{{ chapter_text }}</div>
     {% else %}
     <div class="text-center" style="padding: 60px 20px; color: var(--text-muted);">
