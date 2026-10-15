@@ -8,7 +8,7 @@ Announced it—the first was not seen
 
 By anyone who could report it—only
 A spore landing on a bare stone slope
-In early Triassic morning, the lonely
+In early {{x|Triassic}} morning, the lonely
 And unremarkable arrival of hope
 
 In the form of a bryophyte—a moss—
@@ -28,7 +28,7 @@ A place to root—and so the love
 
 Of life reasserted itself in increments
 Too small to witness but too vast
-To stop—the Triassic's sentiments
+To stop—the {{x|Triassic}}'s sentiments
 Were those of rebuilding from the last
 
 Foundation stone of any possible world:
@@ -45,7 +45,7 @@ Of acid rain, her cone-seeds' creeds
 Of dormancy preserved through the long dying
 As they had always waited for the right
 Conditions—and the right conditions lying
-In the early Triassic morning light
+In the early {{x|Triassic}} morning light
 
 Were only this: less poison, less heat,
 A little water in the rain
@@ -96,7 +96,7 @@ Numerous of all his clans—
 
 Began to seize the empty ocean:
 The teleosts, who had been modest
-In the Permian sea, their notion
+In the {{x|Permian}} sea, their notion
 Of diversity modest
 
 Beside the great marine invertebrates
@@ -112,7 +112,7 @@ Former occupant, the current
 Rush of teleost radiation began—
 The largest vertebrate explosion
 In the history of the ocean ran
-Through the Triassic's slow erosion
+Through the {{x|Triassic}}'s slow erosion
 
 Of emptiness back into abundance—
 The ray-finned fish would ultimately
@@ -131,7 +131,7 @@ Find, that emptiness is opportunity
 
 Dressed in gray.
 
-The first Easter of the Triassic
+The first {{x|Easter}} of the {{x|Triassic}}
 Had no witnesses who understood it—
 Only the ordinary, the classic
 Persistence of life that could not
@@ -151,7 +151,7 @@ That you are rebuilding, just alive
 And going forward, going, going
 Toward whatever life can give.
 
-Honor the Triassic morning—the gray
+Honor the {{x|Triassic}} morning—the gray
 Light of the new world filling slowly with
 The green of those who lived—each day
 A little less of death, a little myth
@@ -166,5 +166,5 @@ Clearing, of the first small mammal
 Looking at the morning and seeing free
 And empty opportunity.
 
-New world, new age—the Triassic's cradle
+New world, new age—the {{x|Triassic}}'s cradle
 Rocking life back into being.

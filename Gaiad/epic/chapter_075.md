@@ -10,10 +10,10 @@ The sauropsid line, who kept their cold
 And ancient ways beneath a varied code
 Of armor, scale, and patience, bought and sold
 
-In the Permian market of survival
+In the {{x|Permian}} market of survival
 By different means than {{c|Theraps}} chose.
 {{c|Sauros}} had two children at arrival
-On the Permian stage: two different shows
+On the {{x|Permian}} stage: two different shows
 
 Of being a reptile in a drying world.
 The first was {{c|Paraps}}—parareptile—
@@ -41,7 +41,7 @@ Of armor that no predator too long
 Could penetrate without a weapon's groan
 
 Of effort—{{c|Paraps}} was the fortress class
-Of Permian herbivores, the ones
+Of {{x|Permian}} herbivores, the ones
 Who said to predators: let this pass
 Without an attempt—I am the ones
 
@@ -86,13 +86,13 @@ The windows in the skull a paradigm
 Of opened possibility, the words
 
 Of a new evolutionary grammar
-That would speak across the Mesozoic age—
+That would speak across the {{x|Mesozoic}} age—
 But that was future. Now {{c|Eureps}}' hammer
-And chisel worked in Permian's early stage.
+And chisel worked in {{x|Permian}}'s early stage.
 
 {{c|Paraps}} and {{c|Eureps}} shared the drying land
 With {{c|Theraps}}' children—different nations
-Walking in the Pangean red and grand
+Walking in the {{p|Pangean}} red and grand
 Red desert with their separate stations:
 
 The armored fortress moving through the waste,
@@ -108,7 +108,7 @@ The amniote design that gave the lift
 Of land-birth to the vertebrate:
 No longer bound to pool or stream
 For spawning, free to populate
-The driest inland of the Pangean dream.
+The driest inland of the {{p|Pangean}} dream.
 
 Honor {{c|Paraps}} who chose the heavy shield
 And {{c|Eureps}} who chose the window'd skull—

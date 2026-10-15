@@ -1,36 +1,36 @@
 # Chapter 92: The Cynodont's Vigil
 
-While the great ones ruled the Triassic plains—
+While the great ones ruled the {{x|Triassic}} plains—
 While {{c|Cruros}} held the rivers and the lowlands
 And {{c|Deinos}}' children ran in upland lanes—
 The children of {{c|Cynos}} lived in small commands
 
 Of burrow-dwelling, nighttime, careful kinds
-Who had inherited the Permian loss
+Who had inherited the {{x|Permian}} loss
 And carried in their milk-producing glands
 And fur-touched skin the memory of the cross
 
 That {{c|Synaps}}' dynasty had borne: the fall
-From Permian dominance to Triassic shadow,
+From {{x|Permian}} dominance to {{x|Triassic}} shadow,
 From the world's great lords to creatures small
 Enough to hide in any grassy meadow.
 
 For {{c|Cynos}} had been great—remember this—
 His father {{c|Theraps}} and his grandsire {{c|Pelyon}}
-Had ruled the Permian world in tooth and kiss
+Had ruled the {{x|Permian}} world in tooth and kiss
 Of predator and grazer—every hellion
 
 And gentle herbivore of the synapsid age
 Had answered to the house of {{c|Synaps}} once—
-But the Great Dying wrote a different page,
+But the {{x|Great Dying}} wrote a different page,
 And those who survived were not the mighty hunts-
 
-Men of the Permian peak but the burrowers,
+Men of the {{x|Permian}} peak but the burrowers,
 The small ones, the ones who ate the least
 And needed least, the underground endurers
 Who outlived the fire and the poisoned feast.
 
-And now, in the Triassic's middle years,
+And now, in the {{x|Triassic}}'s middle years,
 The children of {{c|Cynos}} grew smaller still—
 For the archosaurs above pressed down with fears
 And appetite on anything that filled
@@ -49,7 +49,7 @@ Of vibrissae that turned the blind and flat
 
 World of the nighttime into a map of touch.
 
-And in the late Triassic, from the smallest
+And in the late {{x|Triassic}}, from the smallest
 Of {{c|Cynos}}' shrinking children, came the clutch
 Of the first true mammals—{{c|Mammos}}, the humblest
 
@@ -107,7 +107,7 @@ Of smallness, of the patient flag unfurled
 In darkness, of the nighttime pioneers
 
 Who kept the synapsid flame alive
-Through all the Mesozoic's long dominion
+Through all the {{x|Mesozoic}}'s long dominion
 Of the archosaur lords—content to survive
 And wait, and hold, and keep their one opinion:
 

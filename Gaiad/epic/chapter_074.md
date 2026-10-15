@@ -6,7 +6,7 @@ To warm himself at dawn and hoard
 The sun's heat like a living solar shrine—
 
 {{c|Pelyon}} had been master of the land
-Through all the later Carboniferous age:
+Through all the later {{x|Carboniferous}} age:
 Dimetrodon's great bulk held proud command
 Of every hollow and of every stage
 
@@ -25,7 +25,7 @@ A first attempt at solving the great need
 For warmth—the sail was answer to a ridge
 Of cold that warmer flesh could supersede,
 
-And in the later Permian there arose
+And in the later {{x|Permian}} there arose
 From {{c|Synaps}}' lineage a different kind
 Who found the answer not through dorsal shows
 Of spine-fin but through working of the mind
@@ -86,7 +86,7 @@ That {{c|Cynos}} would achieve, that final creed
 Of warm-bloodedness where cold and heat compete
 
 No longer—but that came later. For now
-{{c|Theraps}} walked the Permian land in pride,
+{{c|Theraps}} walked the {{x|Permian}} land in pride,
 His uprightness a covenant, his vow
 To be not passive sun-warmed but inside-
 
@@ -102,7 +102,7 @@ A living battering ram that drove the grain
 
 Of fear through every creature on the land—
 Thick skulls for head-butting, wide and stout,
-They ruled the middle Permian firsthand
+They ruled the middle {{x|Permian}} firsthand
 Before their own extinction's sudden rout.
 
 And {{c|Theraps}} branched in many directions wide:
@@ -115,7 +115,7 @@ The sprawling gait was ending, and the age
 Of upright walking had arrived—the proof
 Was written in each trackway on the stage
 
-Of Permian red desert: prints that show
+Of {{x|Permian}} red desert: prints that show
 The feet beneath the body, not spread wide—
 The law of {{c|Theraps}} told the world: below
 The body is where limbs were meant to guide.

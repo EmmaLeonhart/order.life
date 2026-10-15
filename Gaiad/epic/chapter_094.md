@@ -21,12 +21,12 @@ Of skin, a bat-wing's cousin, the ancient string
 Of membrane that gave {{c|Pteros}} his first flight.
 
 He was the first vertebrate in the sky—
-Not counting the gliders of the Permian trees,
+Not counting the gliders of the {{x|Permian}} trees,
 The small and desperate lizard-forms that fly
 For a moment between branches in the breeze—
 
 {{c|Pteros}} achieved true powered flight: the beat
-Of membrane wings against the Triassic air,
+Of membrane wings against the {{x|Triassic}} air,
 The lift and thrust and banking that complete
 The mastery of the third dimension's lair.
 
@@ -51,7 +51,7 @@ The first {{c|Pteros}} were small—sparrow-sized,
 With teeth for catching insects on the strand
 Of evening air, with wings not yet king-sized
 
-But adequate for the modest Triassic skies
+But adequate for the modest {{x|Triassic}} skies
 Where no other vertebrate competed
 For the aerial niche—{{c|Neopter}}'s flies
 And dragonflies had owned it, undefeated,
@@ -59,7 +59,7 @@ And dragonflies had owned it, undefeated,
 For three hundred million years—but now
 A backbone and a warm-ish body brought
 A new competitor beneath the brow
-Of every Triassic sunset, and the thought
+Of every {{x|Triassic}} sunset, and the thought
 
 Of vertebrate dominion in the air
 Began with {{c|Pteros}}' small and toothed patrol
@@ -68,13 +68,13 @@ Of insects in the aerial aureole.
 
 His children would grow large—enormous—some
 With wingspans wider than a fighter plane—
-{{c|Quetzal}} of the Cretaceous would become
+{{c|Quetzal}} of the {{x|Cretaceous}} would become
 The largest thing that ever flew—but that refrain
 
 Is for a later chapter. Here, the start:
 Small, toothed, membrane-winged, and insect-fed,
 {{c|Pteros}} took the sky and played his part
-In the Triassic's grand experiment, and led
+In the {{x|Triassic}}'s grand experiment, and led
 
 The first invasion of the vertebrate
 Into the realm that only arthropods had known—
@@ -88,7 +88,7 @@ The vertebrates would find to powered flight:
 {{c|Pteros}}' membrane and the feathered contributions
 Of {{c|Deinos}}' later children—but tonight,
 
-In the Triassic's fading light, only one
+In the {{x|Triassic}}'s fading light, only one
 Existed: the membrane wing, the finger-kite,
 The pterosaur ascending toward the sun
 And banking in the thermal's lifting height.

@@ -1,6 +1,6 @@
 # Chapter 95: The Eve of the Second Dying
 
-The Triassic had been good. Not perfect—nothing
+The {{x|Triassic}} had been good. Not perfect—nothing
 Is perfect in the aftermath of the greatest
 Death the world had known—but the recloathing
 Of the earth in green, the sea's belated
@@ -15,31 +15,31 @@ The {{c|Nothros}} paddled in the shallow seas,
 And on the land {{c|Cruros}}' children held their sweep
 Of rivers while {{c|Deinos}} grew by slow degrees.
 
-It was a good world, and the end of the Triassic
+It was a good world, and the end of the {{x|Triassic}}
 Saw it full of life: three hundred species
 Of marine reptile in the {{p|Tethys}} classic
 Corridors, a thousand insects in the creases
 
 Of every forest—the recovery
-Was nearly complete, the scars of the Permian
+Was nearly complete, the scars of the {{x|Permian}}
 Almost healed over—and the discovery
 Of new ways of living, the median
 
-Of Mesozoic innovation, was underway.
+Of {{x|Mesozoic}} innovation, was underway.
 
 But the earth keeps its appointments with the fire.
 
 Beneath the floor of what would one day
-Be the Atlantic Ocean, the entire
+Be the {{p|Atlantic Ocean}}, the entire
 
 Mantle surged and pressed against the crust
 Where {{p|Pangaea}}'s seam was opening—
-The Central Atlantic Magmatic thrust,
-The CAMP volcanism, the rope-and-ring
+The {{x|Central Atlantic Magmatic}} thrust,
+The {{x|CAMP}} volcanism, the rope-and-ring
 
 Of basalt eruption that would stretch from pole
 To pole along the widening rift—
-And in the last ten thousand years of the Triassic's role,
+And in the last ten thousand years of the {{x|Triassic}}'s role,
 The earth gave its second terrible gift
 
 Of volcanic excess: carbon dioxide
@@ -64,7 +64,7 @@ To hunt as herbivore populations ranged
 Toward zero in the climate's gathering stress.
 
 And {{c|Cruros}}' dynasty—the elder son
-Of {{c|Archon}}, who had held the Triassic crown
+Of {{c|Archon}}, who had held the {{x|Triassic}} crown
 For forty million years—came undone.
 
 The world was changing, and the world frowned
@@ -98,8 +98,8 @@ Another morning.
 
                    But the great ones fell.
 The rauisuchians, the phytosaurs, the tall
-And heavy lords of {{c|Cruros}}' Triassic spell—
-Gone, in the CAMP volcanism's pall.
+And heavy lords of {{c|Cruros}}' {{x|Triassic}} spell—
+Gone, in the {{x|CAMP}} volcanism's pall.
 
 And as the elder brother's kingdom burned,
 The younger brother's children—{{c|Deinos}}' small
@@ -113,7 +113,7 @@ To hold his kingdom underneath the sun.
 
 Honor the eve—the last good evening
 Before the fire—for every living thing
-That breathed the Triassic air was weaving
+That breathed the {{x|Triassic}} air was weaving
 Its own ending, and did not know the sting
 
 Of what the morning's volcanism would bring.

@@ -90,8 +90,8 @@ Because the burrow kept his young secure,
 Because the den's consistent temperature snug
 Was warmer than the drying world's unsure
 
-And swinging temperatures of Permian night
-And Permian day—he dug for practical
+And swinging temperatures of {{x|Permian}} night
+And {{x|Permian}} day—he dug for practical
 And present reasons, and the hidden light
 Of that decision, tactical
 
@@ -103,7 +103,7 @@ And only burrowers were not dead.
 So {{c|Cynos}} in his burrow raised his young
 With warm milk—not yet true mammalian,
 Perhaps still eggs, but with the tongue
-Of ancient motherhood, Pygmalion
+Of ancient motherhood, {{c|Pygmalion}}
 
 Of what care would become—he sat above
 His clutch and warmed them with his own body's heat,

@@ -20,10 +20,10 @@ Or starve—the water shapes them to the race
 And every time the answer is the same.
 
 {{c|Ichthyos}} found this answer first among
-The reptiles of the Triassic—and his claim
+The reptiles of the {{x|Triassic}}—and his claim
 To the dolphin shape was older, deeper, wrung
 
-From fifty million years of Triassic sea
+From fifty million years of {{x|Triassic}} sea
 Before the dolphins of a later age
 Would find the same solution—convergency,
 The ocean's only universal page:
@@ -35,7 +35,7 @@ Of hydrodynamics writing the same tale
 
 In every lineage that tries the deep.
 
-By middle Triassic, {{c|Ichthyos}}' children bore
+By middle {{x|Triassic}}, {{c|Ichthyos}}' children bore
 No trace of the limbed ancestor who'd creep
 Ashore between his hunts—the leg was no more:
 
@@ -58,7 +58,7 @@ Of the hunt.
 
              Great {{c|Shonisauros}} grew
 To the length of whales—fifteen meters long—
-In the Triassic seas of {{p|Tethys}}, through
+In the {{x|Triassic}} seas of {{p|Tethys}}, through
 The corridors of {{p|Panthalassa}} strong
 
 And wide, where the enormous ocean stretched
@@ -103,7 +103,7 @@ Best answer to the question of the speed
 In water, and every lineage that has won
 The ocean's race has read the selfsame creed.
 
-The shark found it first, in the Devonian tide—
+The shark found it first, in the {{x|Devonian}} tide—
 The tuna found it in the bony fish—
 And {{c|Ichthyos}} found it from the reptile side,
 And dolphins later from the mammal's wish—

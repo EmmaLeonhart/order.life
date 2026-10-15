@@ -5,14 +5,14 @@ And poison of the age's ending wept
 Its curtain down, the sea retained its choir
 Of all the beauty that the oceans kept
 
-Through every age of life—the Permian sea
+Through every age of life—the {{x|Permian}} sea
 Was rich beyond what any age before
 Had managed: every reef ecology
 Alive with color, every ocean floor
 
 Abundant—let us pause here at the water's
 Edge before the dying, let us see
-What the Paleozoic sea still offers
+What the {{x|Paleozoic}} sea still offers
 In its last fullness, let us be
 
 The witnesses of what will not survive:
@@ -24,12 +24,12 @@ The reef's foundations in their oral
 Architecture, building stone from sea—
 Four-fold symmetry of polyp flesh
 On limestone foundations, the decree
-Of the ancient Paleozoic's fresh
+Of the ancient {{x|Paleozoic}}'s fresh
 
 And living architecture—this would go.
 The rugose coral would not cross the line
 Of extinction, would not see tomorrow's show
-Of Triassic sea—their four-fold sign
+Of {{x|Triassic}} sea—their four-fold sign
 
 Would vanish from the reef, replaced in time
 By the six-fold scleractinian form—
@@ -52,7 +52,7 @@ And in the open water, {{c|Belemno}}
 The belemnite swam with his cylindrical curled
 And solid body, sleek, torpedo
 
-Of the Permian ocean, hunting small
+Of the {{x|Permian}} ocean, hunting small
 And smaller prey through acres of the sea—
 His hard internal rod the only wall
 Between his soft flesh and the hungry
@@ -70,21 +70,21 @@ Of {{c|Coleios}}' house against the sky
 Of ocean above.
 
 And the ammonites—who had swum these waters
-Since the Devonian, the coiled ones
+Since the {{x|Devonian}}, the coiled ones
 Whose geometry produced the daughters
 Of spiral perfection, the suns
 
 Of mathematics in their shell's design—
 Still coiling, still abundant, still the most
-Common fossil of the Paleozoic's wine
+Common fossil of the {{x|Paleozoic}}'s wine
 Of time—they too would nearly be lost
 
 At the great extinction, reduced to one
 Or two survivors who would spread again
-Through the Mesozoic like the sun
+Through the {{x|Mesozoic}} like the sun
 After the storm—but now they reigned
 
-In numbers past all counting through the Permian
+In numbers past all counting through the {{x|Permian}}
 Sea, their shells the meter of the age.
 
 And {{c|Malacos}} held the ocean floor's dominion—
@@ -107,14 +107,14 @@ Accounting—rich enough to fill
 
 Each chapter of a thousand books and still
 Leave volumes unwritten of the creatures
-That the Permian sea kept—until
+That the {{x|Permian}} sea kept—until
 The fire came and changed all features
 
 Of this world at once.
                           So let us pause.
 Let us be grateful witnesses before
 The curtain falls without applause,
-Before the Paleozoic shore
+Before the {{x|Paleozoic}} shore
 
 Is poisoned—let us stand here in the light
 That still pours clean and warm through water
@@ -127,11 +127,11 @@ Years of unbroken beauty, shut
 At last but not diminished—still a billion
 
 Lives complete within themselves before
-The ending—the Paleozoic sea
+The ending—the {{x|Paleozoic}} sea
 Was not a failure for its close:
 Each life lived fully is a victory.
 
-Honor the last Paleozoic deep—
+Honor the last {{x|Paleozoic}} deep—
 The reef that predates every reef we know,
-The ocean that the Permian would keep
+The ocean that the {{x|Permian}} would keep
 In trust for us to mourn and also know.

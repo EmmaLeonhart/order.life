@@ -6,7 +6,7 @@ As {{c|Gorgo}}—gorgonopsid, whose career
 Was built on being death refined to art:
 
 The saber-toothed therapsid, apex lord
-Of all the late Permian world walked
+Of all the late {{x|Permian}} world walked
 With a killing fang that was the sword
 And scepter of the age—that talked
 
@@ -17,7 +17,7 @@ The purest form of living, and her charge
 
 At {{c|Dicyno}} and his herds was swift—
 She ran with semi-upright gait across
-The Permian red plains, and with the gift
+The {{x|Permian}} red plains, and with the gift
 Of saber canine teeth she turned the loss
 
 Of opportunity to instant death:
@@ -30,7 +30,7 @@ To bear-size, heavy-bodied, low-slung still
 In part the older sprawl, but quick enough through
 The short sprint to accomplish the kill
 
-Before her prey could flee—the Permian's
+Before her prey could flee—the {{x|Permian}}'s
 Equivalent of tiger, of the lion's
 Ancient fury—{{c|Gorgo}} scans
 The herd of {{c|Dicyno}} with the shining
@@ -69,21 +69,21 @@ Was sealed before she moved.
 
 The gorgonopsid was the first great theater
 Of mammal-lineage predation—grooved
-Into the Permian's closing chapter
+Into the {{x|Permian}}'s closing chapter
 
 As the apex that the world before had never seen
 In quite this form: warm-ish blood and speed
 And saber-tooth combined, a keen
 And searching mind in service of its need.
 
-She was the Permian heroic peak—
+She was the {{x|Permian}} heroic peak—
 The thing the age had spent three hundred million
 Years of prior life preparing to seek
 This form: predator of one medallion
 
 Design above all others, matched against
 {{c|Dicyno}}'s horn-beaked millions grazing wide
-Across the Pangean plain—the tense
+Across the {{p|Pangean}} plain—the tense
 And beautiful equation of the pride
 
 Of predator and plenty of the prey
@@ -101,7 +101,7 @@ And so {{c|Gorgo}} was the gift that {{c|Dicyno}}
 Did not want but needed: the shadow
 That made the herd alert and on the go.
 
-This was the Permian at its finest hour—
+This was the {{x|Permian}} at its finest hour—
 The ecosystem balanced, rich, complex,
 Predator and prey each at its power,
 Each shaping what the other would be next.
@@ -116,7 +116,7 @@ But while it lasted, honor {{c|Gorgo}}'s reign—
 The saber and the sprint, the mastery
 Of reading life and taking it again
 
-And again across the Permian red plain.
+And again across the {{x|Permian}} red plain.
 The finest predator the age could make,
 Who ruled the world and will not rule again—
 The gorgonopsid gone for beauty's sake.

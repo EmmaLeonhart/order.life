@@ -44,7 +44,7 @@ That drew him through the water, the ancient swing
 
 Of arms through fluid that the later plesiosaurs
 Would perfect to an art—but {{c|Nothros}} began it,
-In the Triassic {{p|Tethys}}, along the shores
+In the {{x|Triassic}} {{p|Tethys}}, along the shores
 Of {{p|Pangaea}}'s coastline, where the granite
 
 Shelves dropped off to deeper water, and the fish
@@ -60,7 +60,7 @@ To deeper water, and these were the best
 Adapted for the open sea, and these
 Became the {{c|Plesios}} in the later age—
 True plesiosaurs who never left the seas,
-Who wrote the Jurassic ocean's grandest page.
+Who wrote the {{x|Jurassic}} ocean's grandest page.
 
 And {{c|Plakos}}, his cousin on the bottom shelf,
 Showed the other path: the turtle-echo,
@@ -100,7 +100,7 @@ Of {{c|Paraps}}' house are written high and low
 
 In every turtle basking on his stone
 And every plesiosaur that dove beneath
-The Mesozoic waves—they share the bone
+The {{x|Mesozoic}} waves—they share the bone
 Of common ancestry, the shared belief
 
 That life is best lived slowly, strongly, deep,

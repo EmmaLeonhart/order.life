@@ -8,12 +8,12 @@ Of creatures that did not yet know their name.
 For the first dinosaurs were modest things:
 No larger than a dog, with hollow bones
 And hands that grasped, and legs like coiled springs
-Built for running over Triassic stones.
+Built for running over {{x|Triassic}} stones.
 
 In the uplands of the southern {{p|Gondwana}} land,
 Where {{c|Cruros}}' river-children held no sway,
 The earliest of {{c|Avemeta}}'s band
-Appeared—{{c|Deinos}}, whose Triassic day
+Appeared—{{c|Deinos}}, whose {{x|Triassic}} day
 
 Was spent in running, catching, staying small
 In a world where {{c|Cruros}}' rauisuchians prowled
@@ -34,7 +34,7 @@ Three-fingered, dextrous, built for catching chance
 And insect, lizard, small mammal in the brush.
 They ran on two legs—bipedal, light,
 With tails outstretched for balance in the rush
-Of their hunting dashes through the Triassic night.
+Of their hunting dashes through the {{x|Triassic}} night.
 
 {{c|Eoraptoros}} was among the first—
 "Dawn plunderer" in the later name that men
@@ -56,14 +56,14 @@ That hinted at the hunting future, where
 The theropod line would build a predation
 Empire spanning every biosphere.
 
-But they were few. The Triassic was not theirs—
+But they were few. The {{x|Triassic}} was not theirs—
 Not yet. The rauisuchians owned the plains,
 The phytosaurs controlled the river-lairs,
 And {{c|Deinos}}' children lived on what remains
 
 The great ones left behind—the edges, scraps,
 The upland territories no one wanted,
-The arid margins on the Triassic maps
+The arid margins on the {{x|Triassic}} maps
 Where rainfall failed and bigger beasts were daunted.
 
 This is how kingdoms begin: not in the center
@@ -95,11 +95,11 @@ To hold a greater gut, the better equipped
 For breaking down the cellulose of plants.
 
 Three houses of the dinosaurs were born
-In the Triassic uplands—three new clans
+In the {{x|Triassic}} uplands—three new clans
 From {{c|Avemeta}}'s children, small and worn
 
 And unremarkable—who did not know
-They held the future of the Mesozoic world
+They held the future of the {{x|Mesozoic}} world
 Within their hollow bones and racing flow
 Of warm-ish blood—the banners not yet unfurled
 

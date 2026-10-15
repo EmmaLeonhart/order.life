@@ -53,7 +53,7 @@ Through every form of lizard, snake, and these
 Who hold the oldest lineage of all—
 The tuatara in his island fastness,
 Last of a line that heard the ancient call
-Of {{c|Sauros}}' children in their Carboniferous vastness.
+Of {{c|Sauros}}' children in their {{x|Carboniferous}} vastness.
 
 His children bear the scale of lizard-kind
 From mountain height to tidal rocky shore,

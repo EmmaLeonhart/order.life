@@ -10,8 +10,8 @@ On hind legs faster than his brothers could.
 No armor like {{c|Paraps}}' armored clan,
 No venom, and no size—but {{c|Archon}} stood
 
-Upon the Triassic stage when every throne
-Was vacant and the Permian lords were ash—
+Upon the {{x|Triassic}} stage when every throne
+Was vacant and the {{x|Permian}} lords were ash—
 And in that emptiness he made his own
 A kingdom built from speed and metabolic flash.
 
@@ -27,7 +27,7 @@ They had was fire enough to outperform
 
 The sluggish sprawl of {{c|Squamos}}' kindred cold.
 
-Two sons had {{c|Archon}} in the Triassic morn:
+Two sons had {{c|Archon}} in the {{x|Triassic}} morn:
 Great {{c|Cruros}}, firstborn, heavy, proud, and bold,
 And {{c|Avemeta}}, lighter, later-born.
 
@@ -39,7 +39,7 @@ For ambush, armor, patience, and the burst
 Of sudden violence from the water's edge.
 The rauisuchians walked on upright limbs
 And hunted like great wolves along the sedge
-Of Triassic rivers—at the water's brims
+Of {{x|Triassic}} rivers—at the water's brims
 
 {{c|Cruros}}' dynasty built their riverine domain:
 Phytosaurs with the crocodilian shape
@@ -53,12 +53,12 @@ The river-king design, perfectly matched
 
 To every watercourse on {{p|Pangaea}}'s face.
 
-And {{c|Cruros}}' children were the Triassic lords—
+And {{c|Cruros}}' children were the {{x|Triassic}} lords—
 They ruled the land and water, and their race
 Seemed destined for ten thousand years of hordes
 
 And hunting-empires by the riverside.
-No creature in the early Triassic stood
+No creature in the early {{x|Triassic}} stood
 Against the rauisuchian's hungry stride
 Or challenged the phytosaur's neighborhood.
 
@@ -100,7 +100,7 @@ The one who ran on hollow bones and stayed
 In the edges of his brother's bargains,
 Waiting for the world to be remade.
 
-For {{c|Cruros}} ruled the Triassic entire—
+For {{c|Cruros}} ruled the {{x|Triassic}} entire—
 But {{c|Avemeta}}'s children would inherit
 What {{c|Cruros}} lost when the world caught fire:
 The future favors those with patient merit.

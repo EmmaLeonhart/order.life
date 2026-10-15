@@ -1,6 +1,6 @@
 # Chapter 82: Good Permian Friday
 
-Then Siberia opened.
+Then {{p|Siberia}} opened.
 
 Not all at once—the way
 A wound opens is slowly, the first
@@ -15,7 +15,7 @@ Of all volcanic fields, the sum
 Of eruption beyond any scale
 The world had seen in living memory—
 Two million cubic miles of basalt's trail
-Of fire written on the Siberian territory
+Of fire written on the {{p|Siberian}} territory
 
 In layers and in years, not hours—
 This was no single blast but an age
@@ -28,7 +28,7 @@ Before the cooling—and then the cry
 Of sulfur dioxide, the storming
 
 Of the atmosphere with acid—every cloud
-That formed above the Permian land
+That formed above the {{x|Permian}} land
 Came down as acid rain, a shroud
 Of chemical death across the strand
 
@@ -85,7 +85,7 @@ And few—would meet the fire
 Of the last extinction, cold
 
 And permanent—the trilobite whose line
-Stretched back to the Cambrian explosion's
+Stretched back to the {{x|Cambrian}} explosion's
 Dawn, who had survived every sign
 Of mass death in the ocean's
 
@@ -116,7 +116,7 @@ And racing hunter, proud and fierce,
 
 Was taken—not by any rival's tooth
 But by the failure of the food—
-And the Permian age went down in truth
+And the {{x|Permian}} age went down in truth
 To the last word that all life understood:
 
 That the world can end not with a war
@@ -126,8 +126,8 @@ Of photosynthesis, the friend
 
 Of all that breathes.
 
-                      This is Good Permian Friday:
-The death of the Paleozoic world—
+                      This is {{x|Good Permian Friday}}:
+The death of the {{x|Paleozoic}} world—
 Not villainy, not error, not the wrong way
 Chosen—only the deep-buried, curled
 

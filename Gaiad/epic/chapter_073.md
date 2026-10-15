@@ -2,7 +2,7 @@
 
 The coal swamps did not perish in one night—
 They drew back slowly as a tide retreats
-When Pangea locked the continents tight
+When {{p|Pangea}} locked the continents tight
 And cut the middle world from ocean's feats
 
 Of moisture-carrying: no monsoon rain
@@ -35,9 +35,9 @@ Himself retreated to the coasts of wet
 Where rainfall still could feed him, and the gross
 Interior became a stone regret
 
-Of what had been—the Coal Swamp's glorious reign
+Of what had been—the {{x|Coal Swamp}}'s glorious reign
 Had lasted sixty million years of green,
-Had towered through the Carboniferous main
+Had towered through the {{x|Carboniferous}} main
 And made the richest canopy yet seen.
 
 Now it was ending. And from every ridge
@@ -90,7 +90,7 @@ Where green met dust—armored, short, and stout,
 Her trunk a cistern on each rocky ledge
 Where she could store what little rain came out
 
-Of Pangea's miserly and clouded skies—
+Of {{p|Pangea}}'s miserly and clouded skies—
 Her cone at the crown-top bore seeds that fell
 To any scrap of soil; she had no prize
 Of abundance, only the stern spell

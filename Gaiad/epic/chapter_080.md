@@ -2,12 +2,12 @@
 
 Now hear of {{c|Dicyno}}, the beaked and tusked
 And patient one, who fed the world through all
-The late Permian age—who walked and brusked
+The late {{x|Permian}} age—who walked and brusked
 Through every landscape from the great hall
 
 Of tropical basin to the high
 And arid plateau—who moved in herds
-Of thousands through the Pangean sky-
+Of thousands through the {{p|Pangean}} sky-
 Wide plains and said with every word
 
 Of his abundant living: I am here.
@@ -15,7 +15,7 @@ I am the bread of this world. I am
 The patient herbivore without a fear
 Too large for my endurance—{{c|Dicyno}}'s calm
 
-Was legend in the Permian ecosystem:
+Was legend in the {{x|Permian}} ecosystem:
 Where others starved or fled the spreading dry,
 {{c|Dicyno}} found a way to seize them—
 The roots beneath the soil, the dry
@@ -38,7 +38,7 @@ And dying vegetation, ground
 Still worth exploring for the root below.
 The dicynodont became the most abundant
 Large land vertebrate of any show
-The Permian staged—redundant
+The {{x|Permian}} staged—redundant
 
 Only in the sense that numbers vast
 Were needed to sustain the pyramid
@@ -69,7 +69,7 @@ A different niche, a different overflow
 Of adaptation: the borrower of burrows
 Who dug his den beside the termite mound,
 The aquatic wader of the furrows
-Of the slow Permian rivers, found
+Of the slow {{x|Permian}} rivers, found
 
 Half-sunk in mud; the dry-land wanderer
 Who covered a hundred miles of red
@@ -77,11 +77,11 @@ Rock in a season, following the thunderer
 Of monsoon's trail for the brief spread
 
 Of green that followed any rain—
-{{c|Dicyno}} was everywhere that the Permian
+{{c|Dicyno}} was everywhere that the {{x|Permian}}
 World put vegetation, every plain
 And hillside of the supercontinent's span.
 
-He was the sheep of the Permian—
+He was the sheep of the {{x|Permian}}—
 The innocent abundance that supports
 The wolf—the one whose death was plan
 A of the ecosystem's courts
@@ -91,7 +91,7 @@ To this role without complaint or flight
 Beyond what flight was useful, fitted
 To his purpose, present in the light
 
-Of each Permian dawn—the broad-backed herd
+Of each {{x|Permian}} dawn—the broad-backed herd
 That crossed the plain at dawn was his,
 And every track that follows after heard
 The predator behind: this is

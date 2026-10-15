@@ -2,7 +2,7 @@
 
 There was a time—a brief and final time—
 When all the world seemed rich enough to last:
-The Permian at the edge of its sublime
+The {{x|Permian}} at the edge of its sublime
 And complicated order, the vast past
 
 Three hundred million years arrived at this:
@@ -10,14 +10,14 @@ An evening of the age, a gathering
 Of all that life had built, a final kiss
 Of ordinary beauty—{{c|Dicyno}} scattering
 
-Across the Pangean plain in morning light,
+Across the {{p|Pangean}} plain in morning light,
 {{c|Gorgo}} watching from the ridge above,
-The sea in all its Paleozoic bright
+The sea in all its {{x|Paleozoic}} bright
 Abundance—and above and below, the love
 
 Of creature for its living, for the air
 And water and the food and the den made
-From nothing—the Permian was fair
+From nothing—the {{x|Permian}} was fair
 In this last hour before its fade.
 
 The gymnosperm forests on the ridgelines stood
@@ -28,11 +28,11 @@ And arid landscape, but a proud
 One—the cone-trees on the red rock plain
 Like dark green candles in the desert air,
 The reptiles basking in the afternoon
-Of Permian summer without care
+Of {{x|Permian}} summer without care
 
-For what lay under the earth of Siberia—
+For what lay under the earth of {{p|Siberia}}—
 What lay beneath the frozen north
-Of Pangea's shoulder—the bacteria-
+Of {{p|Pangea}}'s shoulder—the bacteria-
 Rich basalts cooking in the worth
 
 Of the planet's own deep heat, building
@@ -41,7 +41,7 @@ In what geologists would call the gilding
 Of catastrophe—the subterranean gust
 
 Of magma seeking every crack and seam
-In the Siberian basement rock
+In the {{p|Siberian}} basement rock
 Toward the surface, in a patient dream
 Of eruption ticking like a clock
 
@@ -70,7 +70,7 @@ Of warning she could read.
 
                              And yet—
 
-Deep in the rock of Siberia, a breath
+Deep in the rock of {{p|Siberia}}, a breath
 Of gas leaked through a fissure, wet
 With sulfur smell—an early death
 
@@ -90,14 +90,14 @@ Take this image: the world entire
 At table—every living thing consuming
 Its evening meal before the fire.
 
-The reef below the Permian water
+The reef below the {{x|Permian}} water
 Feeding on the current's plankton bloom;
 The {{c|Dicyno}} herd, the predator
 Who watches, all within a room
 
 Of ordinary evening, ordinary
 Necessity of life—and somewhere north,
-Deep in Siberian rock, the ordinary
+Deep in {{p|Siberian}} rock, the ordinary
 Becoming something else—the north
 
 Breathing its first breath of sulfur out
@@ -115,7 +115,7 @@ Of extraordinary ending—and the meal
 Continues, and the creatures do not grieve
 What they cannot see or feel.
 
-Honor the last evening of the Permian—
+Honor the last evening of the {{x|Permian}}—
 The ordinary beauty of the full
 World eating, sleeping, hunting, and therein
 Finding the day's grace—the pull

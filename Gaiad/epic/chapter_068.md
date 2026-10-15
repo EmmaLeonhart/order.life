@@ -25,7 +25,7 @@ Who kept the ancient body-plan most pure:
 His scales like plates of bony stone hard-cursed
 In fossil record—scales that would endure.
 
-The bichirs of the deepest African streams
+The bichirs of the deepest {{p|African}} streams
 Still carry {{c|Bichiros}}' ancient form today—
 They breathe both air and water, feeding on dreams
 Of prey in mudflat shallows after day.

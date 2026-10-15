@@ -1,6 +1,6 @@
 # Chapter 93: The Pack Hunters
 
-In the dry arroyos of the late Triassic,
+In the dry arroyos of the late {{x|Triassic}},
 Where the red sandstone baked beneath a sun
 That knew no ice at either pole—the classic
 And greenhouse world where {{c|Pangaea}}'s run
@@ -56,16 +56,16 @@ But the social bond, the pack's coordination
 
 That would echo through the theropod line
 For a hundred million years: the raptors
-Of the Cretaceous hunting in a fine
+Of the {{x|Cretaceous}} hunting in a fine
 And deadly chorus—all of them the actors
 
 In a play that {{c|Coelos}} first rehearsed
-In the late Triassic's arid scrubland stage.
+In the late {{x|Triassic}}'s arid scrubland stage.
 
 The prey they hunted? Anything that durst
 To walk the open ground: the heritage
 
-Of the Triassic's moderate-sized game—
+Of the {{x|Triassic}}'s moderate-sized game—
 Small ornithischians browsing in the brush,
 The last rhynchosaurs bearing the ancient claim
 Of beaked herbivory, the early rush
@@ -106,7 +106,7 @@ And the heavy to the ground.
 
                               Honor {{c|Coelos}}—
 The first pack-hunter of the dinosaur line,
-Who proved in the Triassic's arid bellows
+Who proved in the {{x|Triassic}}'s arid bellows
 That cooperation is the truest sign
 
 Of evolutionary sophistication—

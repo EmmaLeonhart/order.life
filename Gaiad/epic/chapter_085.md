@@ -8,7 +8,7 @@ And welcoming abyss, the first creation
 That still remembered every form it made
 And held in its chemistry the ancient means
 Of feeding, floating, breathing in the shade
-Of waves—and now, in the Triassic's scenes
+Of waves—and now, in the {{x|Triassic}}'s scenes
 
 Of devastation, some of {{c|Sauros}}' kin
 Looked seaward from the ruined shore and chose
@@ -18,7 +18,7 @@ Again in water what the land foreclosed.
 For this was not the first time.
 
                                   Long before,
-In the Permian's last age, a humble line
+In the {{x|Permian}}'s last age, a humble line
 Had tried the water—{{c|Mesos}}, from the shore
 Of {{p|Gondwana}}'s southern lakes, the fine
 
@@ -38,14 +38,14 @@ To water when they chose—the covenant revealed
 As two-way door, not exile, not a burn
 
 Of bridges back to {{c|Tethys}}' ancient home.
-{{c|Mesos}} perished in the Permian's end—
+{{c|Mesos}} perished in the {{x|Permian}}'s end—
 But the lesson lived: the sea was free to roam
 For any who had lungs and limbs to bend
 
 Toward the swimming shape.
 
                            And in the wake
-Of the Great Dying, when the ocean lay
+Of the {{x|Great Dying}}, when the ocean lay
 Still poisoned, slowly healing—for the sake
 Of empty niches stretching every way—
 
@@ -73,18 +73,18 @@ Across the healing waters of the mind
 Of {{c|Tethys}}, slowly waking from her grief.
 
 {{c|Ichthyos}} grew large, then larger—some
-The size of whales in the Triassic reef
+The size of whales in the {{x|Triassic}} reef
 Of the recovering sea—{{c|Shonisauros}} from
 
 The western {{p|Tethys}} reached the length of ships,
 Enormous eyes like dinner plates that peered
-Through dim Triassic waters—at his lips
+Through dim {{x|Triassic}} waters—at his lips
 No teeth at all, for he had engineered
 
 A suction-feeding mouth to draw in prey
 Like a great vacuum of the ancient deep.
 
-And in those same Triassic waters, gray
+And in those same {{x|Triassic}} waters, gray
 And strange, the {{c|Thalattos}} clans would creep
 
 Along the shallow coasts with downturned snout
@@ -92,7 +92,7 @@ And crushing teeth for shellfish on the floor—
 A group whose place in {{c|Sauros}}' tree throughout
 The ages would remain unclear—no more
 
-Than a brief Triassic experiment
+Than a brief {{x|Triassic}} experiment
 In strange-faced, shallow-water, coastal prowl—
 But for their time they were magnificent:
 The snub-nosed hunters of the tidal shoal.
@@ -121,7 +121,7 @@ He dove to the bottom of the shallow bay
 And crushed the mollusks with his pavement teeth—
 Broad and flat for grinding shell to dust—
 A bottom-feeder in the coral beneath
-The Triassic shallows, armored, slow, robust.
+The {{x|Triassic}} shallows, armored, slow, robust.
 
 {{c|Plakos}} looked like {{c|Turtlos}} in his way—
 Round-bodied, armored, patient on the floor—
@@ -133,7 +133,7 @@ The turtle-shape, the armored, patient form
 That carries home upon its back, the planned
 And fortress-bodied refuge from the storm.
 
-Seven lineages tried the Triassic sea:
+Seven lineages tried the {{x|Triassic}} sea:
 {{c|Mesos}}' memory, {{c|Ichthyos}}' speed,
 {{c|Thalattos}}' strange coast-crawling spree,
 {{c|Nothros}}' neck and {{c|Plakos}}' patient greed,

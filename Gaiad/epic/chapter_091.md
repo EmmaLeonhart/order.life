@@ -2,7 +2,7 @@
 
 The world was one, and then the world was not.
 
-{{p|Pangaea}}—the All-Land, the single face
+{{p|Pangaea}}—the {{p|All-Land}}, the single face
 Of continent that held in one great lot
 Every shore and mountain, every place
 
@@ -14,7 +14,7 @@ Had pushed against the crust in magma-streams
 For a hundred million years.
 
                                The rift began
-In the Triassic's heart, a slow unzipping
+In the {{x|Triassic}}'s heart, a slow unzipping
 Of the continental skin that ran
 From north to south, the mantle's hot blood dripping
 
@@ -36,20 +36,20 @@ Fed new corals, new fish, the reborn swarm
 
 Of marine life in the expanding space.
 
-But first the breaking. The Carnian rains.
+But first the breaking. The {{x|Carnian}} rains.
 
-In the midst of the Triassic, every trace
+In the midst of the {{x|Triassic}}, every trace
 Of the dry and arid world was drowned—the plains
 
 That had been desert for ten million years
-Grew suddenly wet: the Carnian Pluvial
+Grew suddenly wet: the {{x|Carnian Pluvial}}
 Episode, a million years of tears
 From skies that had forgotten the alluvial
 
 And the monsoon—and now remembered them.
 The cause was volcanic, tectonic, the shift
 Of continents and currents—a requiem
-For the dry Triassic world, a gift
+For the dry {{x|Triassic}} world, a gift
 
 Of water to a world that had been parched—
 But water that arrived too fast, too much,
@@ -70,7 +70,7 @@ Left {{c|Cruros}}' children weakened at the core
 
 While {{c|Avemeta}}'s nimble dinosaurs,
 Adapted to the marginal and the changing,
-Found opportunity in the Carnian doors
+Found opportunity in the {{x|Carnian}} doors
 That opened as the old world was rearranging.
 
 The rains subsided. The world resumed its drift.
@@ -108,12 +108,12 @@ That would give each continent its unique creed
 
 Of creatures: the marsupials of the south,
 The placentals of the north, the island birds,
-The lemurs of Madagascar—from the mouth
+The lemurs of {{p|Madagascar}}—from the mouth
 Of this great cracking came the different words
 
 Of life's vocabulary on each shore.
 
-But for now, in the middle Triassic's age,
+But for now, in the middle {{x|Triassic}}'s age,
 The breaking was just beginning—nothing more
 Than a wider seaway and a wetter stage
 

@@ -5,7 +5,7 @@ For hundreds of millions of years the sea
 Had narrowed between each landmass coast to coast
 Until the world became geography
 
-Of one: great Pangea, the supercontinent
+Of one: great {{p|Pangea}}, the supercontinent
 That gathered all the land the earth possessed
 Into one mass from tropic to the bent
 And frozen poles—east touching west,
@@ -23,7 +23,7 @@ Could reach, where desert-red and stone
 Defined the world for thousands of miles wide—
 No ocean breeze, no monsoon rain could cross
 The mountain ranges ringing every side
-To soften the Pangean interior's loss
+To soften the {{p|Pangean}} interior's loss
 
 Of moisture—only the wildest swings
 Of temperature from day to night remained,
@@ -36,7 +36,7 @@ The temperature to something less devout
 To killing heat and cold—a desert psalm
 
 Of desolation sang across the heart
-Of Pangea. But the small ones heard
+Of {{p|Pangea}}. But the small ones heard
 A different sermon in it—for the art
 Of being small is this: the word
 
@@ -53,7 +53,7 @@ Needs not the wealth of river or of brook
 To thrive—a fallen leaf, a fallen seed,
 The bodies of the dead, the fungal mat—
 This is enough for {{c|Neopter}}'s creed,
-And Pangea's great interior was that
+And {{p|Pangea}}'s great interior was that
 
 And more: it was a continent of road
 For those with wings to cross it with,
@@ -86,11 +86,11 @@ Of colony, the drum
 Of eusocial living's creed
 
 Was already beginning in the hymenoptera's
-Ancestors who walked the Permian plain
+Ancestors who walked the {{x|Permian}} plain
 And found in shared defense and shared endeavors
 More survival than the lone's campaign.
 
-And {{c|Arachnus}} crossed the Pangean road
+And {{c|Arachnus}} crossed the {{p|Pangean}} road
 As well—the spiders with their silk
 Had tools of conquest that no other showed:
 A web across the world, white milk
@@ -111,7 +111,7 @@ New arrival—predator ingrained
 In the same great crossing, wary
 
 And patient, eight-eyed in the dark.
-So Pangea that seemed pure desolation—
+So {{p|Pangea}} that seemed pure desolation—
 That vast red heart with not a mark
 Of ocean moisture—was a nation
 
@@ -126,7 +126,7 @@ That no geography can close
 A kingdom to the ones of small enough girth
 
 To enter it between the stones.
-Honor the Pangean road that linked
+Honor the {{p|Pangean}} road that linked
 All lands in one—that sent the small through zones
 Of desolation and the world re-linked
 

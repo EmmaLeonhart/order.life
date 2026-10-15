@@ -46,7 +46,7 @@ To stand alone like living stories told
 From when the dinosaurs would walk no more.
 
 Great {{c|Cordaios}} was the first to tower
-Above the Carboniferous forest floor:
+Above the {{x|Carboniferous}} forest floor:
 A tree of forty meters, hour by hour
 He'd grown to match the {{c|Lepidos}} before.
 
@@ -121,7 +121,7 @@ Who'd watch the dinosaurs both rise and fall
 And still be standing after all their roar
 
 Had faded into stone—the ginkgo tree
-That Buddhist monks would tend in temple courts,
+That {{x|Buddhist}} monks would tend in temple courts,
 Who'd stand through every age with dignity
 And make of permanence the highest sort
 

@@ -21,9 +21,9 @@ His children filled the rotting wood with more
 New generations than the swamp could hide.
 
 The cockroaches, the most ancient of all
-Who walked the Carboniferous in such sum
+Who walked the {{x|Carboniferous}} in such sum
 That scholars gave the era's ancient call
-"The Age of Cockroaches" in studies come—
+"The {{x|Age of Cockroaches}}" in studies come—
 
 Ten thousand times the number of a man
 In generations counted from the first,

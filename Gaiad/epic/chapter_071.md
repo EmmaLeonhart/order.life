@@ -2,7 +2,7 @@
 
 Among the crustacean nations of the sea
 Whose ancient story reached from far before
-The Carboniferous age, lived one so free
+The {{x|Carboniferous}} age, lived one so free
 In body-plan it split the others' lore:
 
 For {{c|Malacos}} had given all his sons

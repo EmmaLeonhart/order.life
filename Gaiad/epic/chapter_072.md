@@ -75,7 +75,7 @@ The shark cannot run out of teeth to spare,
 And every tooth is sharp as surgeon's glove
 And serrated for the cutting laid bare.
 
-The Carboniferous seas were golden age—
+The {{x|Carboniferous}} seas were golden age—
 A hundred kinds of shark from every form
 Wrote their diversity on history's page
 Beneath the coal-swamp ocean's ancient storm.
@@ -132,7 +132,7 @@ Of plankton-feeder—yet the same at sea
 
 In cartilage and in the six-gill breath,
 In the live birth or leather-cased egg-purse,
-In the ampullae of Lorenzini's depth
+In the ampullae of {{x|Lorenzini}}'s depth
 Of sense that reads the ocean's hidden verse
 
 Of electromagnetic field that every
@@ -146,7 +146,7 @@ Has seen the mammals learn to colonize
 The land and sea—and still the shark is brave
 
 Enough to be exactly what it was
-In early Carboniferous seas of coal:
+In early {{x|Carboniferous}} seas of coal:
 A shape so perfect evolution does
 Not need to change—the perfect is the whole
 

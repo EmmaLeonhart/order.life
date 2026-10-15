@@ -7,7 +7,7 @@ The silence of the empty room, the closed
 Theater after the audience's release
 Has gone and only broken chairs disclosed
 
-The weight of what had happened—the Permian
+The weight of what had happened—the {{x|Permian}}
 Earth in the immediate extinction's wake
 Was not recovered land but the meridian
 Of horror: everything still at stake
@@ -23,7 +23,7 @@ Of the topsoil long since ripped
 Away—bare rock, bare clay, the sea
 
 Of mudstone and the desert's gray
-Expanse of what had been the Permian plain.
+Expanse of what had been the {{x|Permian}} plain.
 
 And over all of this, the gray
 And silent reign of fungi, the champagne
@@ -39,7 +39,7 @@ After the green—in fossil layers, sheets
 Of fungal spores replace the reliance
 
 On pollen and plant spores that had marked
-Every layer of the Permian above—
+Every layer of the {{x|Permian}} above—
 A spike of fungal abundance, parked
 At the extinction boundary—a shove
 
@@ -111,9 +111,9 @@ In the post-extinction world a strange
 And solitary abundance: the ground
 Was his entirely—the full range
 
-Of the Triassic early land was {{c|Lystro}}'s
+Of the {{x|Triassic}} early land was {{c|Lystro}}'s
 Without competition, without predator—
-The first years of the Triassic's throes
+The first years of the {{x|Triassic}}'s throes
 Were his inheritance—the corridor
 
 Of empty continent walked by one small
@@ -127,7 +127,7 @@ Of the aftermath, to merely survive
 Is the whole achievement, and that spell
 
 Of bare survival is not lesser than
-The glorious Permian peak—it is
+The glorious {{x|Permian}} peak—it is
 Perhaps more—the one who can
 Endure the harrowing is
 
