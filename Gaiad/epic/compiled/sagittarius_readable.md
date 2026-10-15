@@ -747,8 +747,8 @@ Next came the bold, who led with strength, Lammes,
 And now the one who carries on, Nolah."
 
 Nemla stood upon the high mountain’s crest,
-Before the gathered crowd, with pride he spoke.
-His voice a call to honor those he blessed,
+Before the gathered crowd, with pride she spoke.
+Her voice a call to honor those she blessed,
 The line of Viros, forged through flame and smoke.
 
 "My heritage runs deep from ancient might,
@@ -2120,7 +2120,12 @@ Would bring the gift of green to every shore.
 Their children, rooted, reaching for the height,
 Would feed all life forevermore.
 
-Now Plantus sought a partner for his art,
+From Plantus and his bride Cortica fair,
+Came Plastidus, master of the green.
+His chloroplasts would spread everywhere,
+The most efficient solar machines ever seen.
+
+Now Plastidus sought a partner for his art,
 He needed one who knew the light's true way.
 Fair Chlora, with her photosynthetic heart,
 Agreed to join his realm by night and day.
@@ -2131,7 +2136,7 @@ Her chlorophyll and carotenoids fine
 Would make their solar conquest second to none.
 
 Great Mithra blessed their sacred, symbiotic bond,
-As Chlora entered Plantus's embrace.
+As Chlora entered Plastidus's embrace.
 Like Eve with Euka in the times beyond,
 She found within his cell her destined place.
 
@@ -2140,13 +2145,8 @@ And built her thylakoids in ordered stacks.
 Her photosystems, beautiful and true,
 Would capture light that nothing ever lacks.
 
-From Plantus and his bride Chlora fair,
-Came Plastidus, master of the green.
-His chloroplasts would spread everywhere,
-The most efficient solar machines ever seen.
-
-Plastidus wed Cortica the wise,
-Who knew the ways of gathering and storing.
+Thus Plastidus and Chlora, wise,
+Joined light to cell, both giving and restoring.
 Together they would claim the earth's great prize,
 Their photosynthetic kingdom ever soaring.
 
@@ -2228,7 +2228,7 @@ While protists would explore in their own way.
 Thus from the love of Nectarius true
 And fair Ambrosia's wisdom bright,
 The eukaryotic kingdoms grew
-Into the world we know today's sight.
+Into the world we know in today's light.
 
 
 # Chapter 22: Kingdom Diversification

@@ -747,8 +747,8 @@ Then followed by late great {{c|Methuselah}}.
 And now the one who carries on, {{c|Nolah}}."
 
 {{c|Nemla}} stood upon the high mountain’s crest,
-Before the gathered crowd, with pride he spoke.
-His voice a call to honor those he blessed,
+Before the gathered crowd, with pride she spoke.
+Her voice a call to honor those she blessed,
 The line of {{c|Viros}}, forged through flame and smoke.
 
 "My heritage runs deep from ancient might,
@@ -2120,7 +2120,12 @@ Would bring the gift of green to every shore.
 Their children, rooted, reaching for the height,
 Would feed all life forevermore.
 
-{{c|Now}} {{c|Plantus}} sought a partner for his art,
+From {{c|Plantus}} and his bride {{c|Cortica}} fair,
+Came {{c|Plastidus}}, master of the green.
+His chloroplasts would spread everywhere,
+The most efficient solar machines ever seen.
+
+{{c|Now}} {{c|Plastidus}} sought a partner for his art,
 He needed one who knew the light's true way.
 {{c|Fair}} {{c|Chlora}}, with her photosynthetic heart,
 Agreed to join his realm by night and day.
@@ -2131,7 +2136,7 @@ Her chlorophyll and carotenoids fine
 Would make their solar conquest second to none.
 
 Great {{c|Mithra}} blessed their sacred, symbiotic bond,
-As {{c|Chlora}} entered {{c|Plantus}}'s embrace.
+As {{c|Chlora}} entered {{c|Plastidus}}'s embrace.
 Like {{c|Eve}} with {{c|Euka}} in the times beyond,
 She found within his cell her destined place.
 
@@ -2140,13 +2145,8 @@ And built her thylakoids in ordered stacks.
 Her photosystems, beautiful and true,
 Would capture light that nothing ever lacks.
 
-From {{c|Plantus}} and his bride {{c|Chlora}} fair,
-Came {{c|Plastidus}}, master of the green.
-His chloroplasts would spread everywhere,
-The most efficient solar machines ever seen.
-
-{{c|Plastidus}} wed {{c|Cortica}} the wise,
-Who knew the ways of gathering and storing.
+Thus {{c|Plastidus}} and {{c|Chlora}}, wise,
+Joined light to cell, both giving and restoring.
 {{c|Together}} they would claim the earth's great prize,
 Their photosynthetic kingdom ever soaring.
 
@@ -2228,7 +2228,7 @@ While protists would explore in their own way.
 Thus from the love of {{c|Nectarius}} true
 And fair {{c|Ambrosia}}'s wisdom bright,
 The eukaryotic kingdoms grew
-Into the world we know today's sight.
+Into the world we know in today's light.
 
 
 # Chapter 22: Kingdom Diversification
