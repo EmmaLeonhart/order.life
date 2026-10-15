@@ -8338,6 +8338,6 @@ to Plantus and Cortica, then Chlora enters his cell: the birth stanza moved up, 
 one stanza rewritten, "Thus Plastidus and Chlora, wise, / Joined light to cell, both giving and restoring"). Review log rows
 12, 21 and 22 updated.
 
-2026-10-15 13:12 PST: ch 4-20 retitled from the verse on Emma's word (the old titles came from the 2025 plan of the cosmos and
+2026-10-15 13:09 PST: ch 4-20 retitled from the verse on Emma's word (the old titles came from the 2025 plan of the cosmos and
 named what the chapters do not tell): e.g. 4 "The First Yarn String" -> "The First Lovers Among the Stars", 19 "First Oceans
 Condense" -> "Euka, Lilith and Eve". Ch 12 and 13 kept (their titles already fit). Old and new in planning/gaiad-review.md.
