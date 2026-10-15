@@ -28,3 +28,4 @@ Standing decisions:
 | 1 | The Yarn of Creation | Emma's 2020 verse; passes | `{{c|Once}}` untagged (a word, from the 2025-11-18 automated tagging). Galaxies kept as characters (corrected 17:14: the first pass made them places, wrongly). 32 lines, her length kept. |
 | 2 | Aster's First Call | Emma's verse; passes | `{{c|Together}}` untagged (a word). |
 | 3 | Andromeda's Answer | Emma's verse; passes | untagged (words): Together, Now, Main, Incomplete, Discovery, Red, Milky; to `x` (kind unclear): Steppenwolves. |
+| 4 | The First Yarn String | Emma's verse; passes | untagged (words): Once; to `x` (kind unclear): Nova. |
