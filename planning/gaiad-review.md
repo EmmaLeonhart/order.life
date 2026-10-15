@@ -33,6 +33,18 @@ Standing decisions:
 | 5 | The Big Bang of Longing | Emma's verse; passes | untagged (words): Oceans. |
 | 6 | Hydrogen Clouds Ignite | Emma's verse; passes | untagged (words): Multiplying. |
 | 7 | Primordial Stars Burn | Emma's verse; passes | Stray "Advertisement" line at the end removed (web-page residue; also in ch 3, 12, 13, removed there too). For Emma: the title does not match the story (the cyborg shells, Bios, Viros and Dedos naming Aster "Greatest Grandmother"). No holiday on the day. |
+| 8 | Heavy Elements Scattered | Emma's verse; passes | For Emma: Phaestia is a moon of the gas giant Venti here, of Vayu in ch 9 (both wind gods; one world under two names, or a slip?). Day 8 is Coming of Age Day; the verse does not touch it (her chapter, not rewritten). |
+| 9 | Gravity's Dark Dance | Emma's verse; passes | Aster's syncretic titles (Suiten, Myōken, Konjin, Brahma, Vairocana, Varuna) kept as written. |
+| 10 | Spiral Arms Form | Emma's verse; passes | Serenitide, Pluvia, Quiyah. |
+
+**Titles of ch 4-20 (noted 2026-10-14 18:20).** They come from `COMPREHENSIVE_CHAPTER_PLAN.md` (2025-09-07), a
+plan of the cosmos in order (stars, heavy elements, the solar nebula, the Moon's birth), and the verse went its
+own way (Hesper, Phaestia, Serenitide, the three brothers), so most of these titles name what the chapter does
+not tell. For Emma: retitle from the verse, or keep the plan's titles. Left as they are until she says. Queue
+item 25 (the chapters and their histories) covers the same split.
+
+Line-initial plain-word tags still left (Replication, Consuming, Preferring, Starvation, People, Volcanoes,
+Lava, Propelled...) belong to queue item 26 and are not touched in the review.
 
 ## Tagging pass, ch 7-364 (2026-10-14, evening)
 
