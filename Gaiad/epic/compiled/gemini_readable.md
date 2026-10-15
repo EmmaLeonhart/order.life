@@ -321,7 +321,6 @@ Intellectual tradition. The twin traditions that, together, would
 Shape a civilization.
 
 Confucius and Laozi. Paired pillars of the {{p|East Asian}} mind.
-Stand.
 
 
 # Chapter 170: The Buddha
@@ -670,7 +669,7 @@ Sentient beings without distinction of caste or species. The one
 Whose teaching is, still today, a living path for hundreds of
 Millions.
 
-             The Buddha. Awakened one. Stand.
+             The Buddha. Awakened one.
 
 
 # Chapter 171: The Mahabharata
@@ -1017,8 +1016,6 @@ Epic of an entire civilization.
 The text that has shaped {{p|Hindu}} moral and religious imagination
 
 For twenty-five hundred years.
-
-Stand.
 
 
 # Chapter 172: Classical Greece, Part Two
@@ -1413,8 +1410,6 @@ Short century.
 Civilization that taught the {{p|West}} what cities, what democracies,
 What philosophy, and what theater could be.
 
-Stand.
-
 
 # Chapter 173: Classical Greece, Part Three
 
@@ -1775,7 +1770,6 @@ Transition to the {{p|Hellenistic}} world. The closing of the classical
 Age.
 
          The {{p|Greek}} achievement: foundational, flawed, immortal.
-Stand.
 
 
 # Chapter 174: Alexander the Great
@@ -2107,7 +2101,7 @@ To spread and for {{p|Buddhism}} to meet {{p|Hellenism}}.
 
 Alexander. The conqueror whose conquests lasted thirteen years
 And whose cultural consequences have lasted two thousand three
-Hundred. Stand.
+Hundred.
 
 
 # Chapter 175: The Maurya Empire
@@ -2365,8 +2359,6 @@ Long forgetting and the nineteenth-century rediscovery.
 The unification of {{p|India}}. Ashoka's ethical experiment. The
 {{p|Buddhist}} missions outward.
 
-Stand.
-
 
 # Chapter 176: Qin and Han
 
@@ -2623,8 +2615,6 @@ Would try to match.
                          {{p|Qin}} and {{p|Han}}. {{p|China}}'s classical empires.
 The template of {{p|East Asian}} civilization for the next two thousand
 Years.
-
-Stand.
 
 
 # Chapter 177: The Punic Wars
@@ -2904,8 +2894,6 @@ Institutions. The beginning of the end for the {{p|Republic}}.
 {{p|Punic Wars}}. The century-long duel. The emergence of what would
 Become the greatest {{p|Mediterranean}} empire.
 
-Stand.
-
 
 # Chapter 178: Rome
 
@@ -3129,8 +3117,6 @@ From here, the slow decline began.
 But for two hundred years it held
 the greatest empire made by man.
 
-Stand.
-
 
 # Chapter 179: Second Temple Period
 
@@ -3300,8 +3286,6 @@ But all agreed: one God, no image,
 covenant, Torah, Sabbath, kosher.
 And all were waiting for what would come
 to change the world and bring it closer.
-
-Stand.
 
 
 # Chapter 180: Jesus
@@ -3511,8 +3495,6 @@ They broke bread together and shared all things.
 They waited for the return imminent.
 And the spirit came on them on tongues' wings.
 
-Stand.
-
 
 # Chapter 181: Buddhism Enters the Han
 
@@ -3676,8 +3658,6 @@ no longer just an Indian way.
 The Buddha's "middle path" had proved
 capable of crossing every sway.
 
-Stand.
-
 
 # Chapter 182: Elagabalus
 
@@ -3810,8 +3790,6 @@ His memory was damned, "damnatio memoriae,"
 his name scratched out, his image defaced.
 But history remembered him as
 the strangest emperor Rome had faced.
-
-Stand.
 
 
 # Chapter 183: The Third Century Crisis
@@ -3958,8 +3936,6 @@ Constantine saw a vision, or claimed to.
 He won the battle, credited Christ,
 and the whole direction began to flow.
 
-Stand.
-
 
 # Chapter 184: The Sassanid Empire
 
@@ -4058,8 +4034,6 @@ preserve the pre-Islamic past in verse.
 The Zoroastrians who fled to India
 became Parsis, their faith's unsquashed reverse.
 
-Stand.
-
 
 # Chapter 185: Armenia
 
@@ -4142,8 +4116,6 @@ But the culture endured. The church endured.
 The alphabet still writes what Mashtots penned.
 A small mountain nation held on through empires.
 The deflationary polytheist sees how they fend.
-
-Stand.
 
 
 # Chapter 186: Ethiopia
@@ -4232,8 +4204,6 @@ Ethiopia's story is the African Christian kingdom,
 ancient, persistent, mystical, strange,
 isolated but connected, deeply rooted,
 surviving every political change.
-
-Stand.
 
 
 # Chapter 187: Constantine and the Fall of Rome
@@ -4353,8 +4323,6 @@ The temples were churches or ruins now.
 A new Christian civilization was forming
 on the old Roman frame, altered somehow.
 
-Stand.
-
 
 # Chapter 188: The Fall of Han
 
@@ -4452,8 +4420,6 @@ Their stories would shape Chinese culture
 for fifteen centuries to come,
 like the Mahabharata for India,
 like the Iliad for classical Greek home.
-
-Stand.
 
 
 # Chapter 189: Romance of the Three Kingdoms
@@ -4567,8 +4533,6 @@ The deflationary polytheist sees here
 the Chinese counterpart to epic,
 the narrative matrix that shapes
 moral imagination, subsonic and sceptic.
-
-Stand.
 
 
 # Chapter 190: Jimmu to Jingū
@@ -4688,8 +4652,6 @@ beginning. The constitution of Prince Shōtoku
 in 604 would organize the state
 along Chinese lines — the shape we still see.
 
-Stand.
-
 
 # Chapter 191: Arabia Before Islam
 
@@ -4807,8 +4769,6 @@ of his old life and opener of the new.
 "Recite!" the angel said. "In the name of your Lord
 who created, created man from a clot."
 The Quran began. A new religion was born.
-
-Stand.
 
 
 # Chapter 192: Muhammad and the Rise of Islam
@@ -4958,8 +4918,6 @@ the Sunni, "followers of the sunnah,"
 the tradition, the mainstream majority.
 The split between them would be enduring, the fissure not undone.
 
-Stand.
-
 
 # Chapter 193: Journey to the West
 
@@ -5078,8 +5036,6 @@ that all subsequent Chinese dynasties measured themselves against.
 The model to emulate. The high water mark.
 The era that even now is most well-fenced.
 
-Stand.
-
 
 # Chapter 194: Kūkai
 
@@ -5194,8 +5150,6 @@ until the Meiji period's forced separation
 in 1868 violently distinguished them.
 But for the medieval period, they were one vocation.
 
-Stand.
-
 
 # Chapter 195: Charlemagne and Byzantium
 
@@ -5303,8 +5257,6 @@ For the next three centuries, Vikings would raid
 from Ireland to Russia, from Spain to Iraq.
 They would settle, found kingdoms, convert eventually.
 But they would be the scourge of the early Medieval track.
-
-Stand.
 
 
 # Chapter 196: Tang and the Great Persecution
@@ -5428,5 +5380,3 @@ But the Tang remained the memory, the ideal,
 the civilization-peak to look back on.
 "Tang poetry" still means the finest Chinese verse.
 "Tang" is still how Chinese abroad call their people gone.
-
-Stand.

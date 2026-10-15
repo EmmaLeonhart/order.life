@@ -78,8 +78,6 @@ Give thanks for the food. Give thanks to the hands that grew it.
 Give thanks to the ones who came before, and set the bowl at the hem
 Of their memory. No one has the right to forbid it. Do it.
 
-Stand.
-
 
 # Chapter 282: The Names of Everything
 
@@ -157,8 +155,6 @@ Of reverence is attention. And cross out the line he got wrong:
 There are no ranked varieties of us. The register of humankind is one.
 *Homo sapiens*. One species. One family. One song.
 The linden tree in {{p|Småland}} is gone. The name it gave is in the sun.
-
-Stand.
 
 
 # Chapter 283: No Place Empty
@@ -243,8 +239,6 @@ Are far from the sacred. Sing on the way to school.
 And if you have no words, blow the whistle. What you had
 Was enough. It always was. The heart is the rule.
 
-Stand.
-
 
 # Chapter 284: The Pact at Diriyah
 
@@ -327,8 +321,6 @@ Was shade. Somebody prayed under it. Remember them.
 God is one, the preacher said, and he was right. The oneness
 Is wide enough for the rag on the tree, and the saint's dome, and the hem
 Of the grandmother's prayer. The sacred has room. Make room. That is the oneness.
-
-Stand.
 
 
 # Chapter 285: The Assessor of the Board of Mines
@@ -418,8 +410,6 @@ Is for people you will never meet. His bones are in {{p|Uppsala}} now, brought h
 In the cathedral, near Linnaeus's. The farthest
 Visions and the nearest names lie under one dome.
 
-Stand.
-
 
 # Chapter 286: All Knowledge in One Structure
 
@@ -497,8 +487,6 @@ Number of hands would make the largest encyclopedia ever.
 Ophiuchus will tell it. Here, give thanks to the twig and the tree,
 To Jaucourt's seventeen thousand, to the plate of the weaver's lever.
 All knowledge is the work of many hands. Write it down. Make it free.
-
-Stand.
 
 
 # Chapter 287: The Bard Who Never Was
@@ -582,8 +570,6 @@ On the ships from the cleared glens: their songs are in the archives now,
 Collected later, by people who wrote down who sang and when.
 Remember them: Duncan Ban MacIntyre, the hunter-poet, the bough
 Of his *Praise of Ben Dorain*, real, and dated, and made by a man.
-
-Stand.
 
 
 # Chapter 288: Two Navigators
@@ -678,8 +664,6 @@ With wood and memory and courage. Say Tupaia's name with Cook's.
 The first chart of the Pacific was drawn by the people of its birth.
 Hold the chart. Hold the spear on the beach. Read both books.
 
-Stand.
-
 
 # Chapter 289: Buried Sunlight
 
@@ -757,8 +741,6 @@ Without knowing what it is: three hundred million years of the dead,
 Asleep in the earth, now in the air, now in the warming sea.
 Give thanks for the power. Count the cost. And go ahead
 As the Lunar men did, by the light of the moon: with friends, carefully.
-
-Stand.
 
 
 # Chapter 290: The Four Treasuries
@@ -838,8 +820,6 @@ Gather everything. Burn nothing. And where the fire has been,
 Copy again. The four treasuries are the world's. The sign
 Of the keeper is the hand that writes the lost page in.
 
-Stand.
-
 
 # Chapter 291: The Common Source
 
@@ -918,8 +898,6 @@ Say *night*, *star*, *mother*. The common source no longer exists,
 And it speaks every day. Honour the dead speech by what you say.
 Every word is an ancestor. The tree persists.
 
-Stand.
-
 
 # Chapter 292: The Year One
 
@@ -992,8 +970,6 @@ Of their gift, and broke the Sunday, the worst of their error.
 Keep the field. Keep the rest. Name the days. Do not let the number rule the body.
 And remember the poet who named *Germinal* and died in it, the terror
 Of his times around him: the grape, the fog, the frost. The year is a story.
-
-Stand.
 
 
 # Chapter 293: The Festival of the Supreme Being
@@ -1073,8 +1049,6 @@ Believe nothing because a state believes it. Honour the God, or the life,
 Or the sacred, as you find it, freely. And the Supreme Being vanished
 With the man who made it. The roses on the mountain. The knife.
 
-Stand.
-
 
 # Chapter 294: The Mountain Cherry
 
@@ -1153,8 +1127,6 @@ So we could read it. Read it. And when anyone tells you the heart of a people is
 Remember the morning sun on the cherry, and the young men, and the tears.
 The ache of things is for everyone. That is the only cure.
 
-Stand.
-
 
 # Chapter 295: The Crown He Took
 
@@ -1227,8 +1199,6 @@ About the Emperor. She thanks him for the registers that begin in 1811 in a Dutc
 For a name chosen in a year that became a family. The joke
 That became a surname. The surname that became a lineage. The pillage
 Of an empire, and a clerk with a pen. Hold both, in the smoke.
-
-Stand.
 
 
 # Chapter 296: The Compilers
@@ -1308,8 +1278,6 @@ Gather the songs of the world. Join them, and admit the joining.
 The forge of Ilmarinen made the Sampo, which ground out plenty, the flow
 Of grain and salt and gold. A good compilation is a Sampo. Keep it turning.
 
-Stand.
-
 
 # Chapter 297: The Dead Speak Again
 
@@ -1387,8 +1355,6 @@ Of three scripts, in a glass case far from the river: give it home,
 Or say why not, honestly. The question belongs to the living descendants.
 The Coptic hymn still sung in {{p|Cairo}} was the key. The tome
 Of the dead was unlocked by the living. Keep singing. Those are the attendants.
-
-Stand.
 
 
 # Chapter 298: The Engine That Weaves
@@ -1473,8 +1439,6 @@ That waited. And hold her warning close, as this book holds its loom:
 Know whose thread it is. Name the weavers. The machine has been
 Given everything we know. What it makes is ours. Make room.
 
-Stand.
-
 
 # Chapter 299: The Gate and the Glory
 
@@ -1552,8 +1516,6 @@ Imprisoned, their cemeteries bulldozed, for the faith of the Gate and the Glory.
 Honour the merchant of {{p|Shiraz}}. Honour the unveiled poet. Honour the prisoner of {{p|Akka}}.
 Lifeism is a younger sister in this story. Tell it gently. The hoary
 Old lands keep killing the ones who say the world is one. Keep saying it. Do not falter.
-
-Stand.
 
 
 # Chapter 300: The Heavenly Kingdom
@@ -1633,8 +1595,6 @@ And the founder in fever, the misread tract: be careful what you hand
 To the desperate on the street. The words of comfort can open doors
 To a war. And remember the twenty million, with no names on the land.
 
-Stand.
-
 
 # Chapter 301: The Black Ships and the Strangers' Graves
 
@@ -1702,8 +1662,6 @@ The moss from a Russian sailor's stone. Be that monk.
 Keep the dead who are not yours. They are yours. The black ships came. The country opened.
 The world is one family, and the strangers' graves are the trunk
 Of the tree too. Light the lamp. Say their names, if they are known. And if not, say: beloved.
-
-Stand.
 
 
 # Chapter 302: Endless Forms
@@ -1801,8 +1759,6 @@ Keep the names. Keep the unnamed. They are one descent.
 From so simple a beginning, the endless forms.
 Say it over the days: the dead are not gone from the world.
 They are how the world goes on.
-
-Stand.
 
 
 # Chapter 303: The Short Plant Returns
@@ -1914,8 +1870,6 @@ Of a life is not a prize list. Keep the ones the directories ignore.
 
 They are in the seed. They return. Let them.
 
-Stand.
-
 
 # Chapter 304: The Precinct Divided
 
@@ -2024,8 +1978,6 @@ The letterhead was the Department of Divinities.
 The parting was that spring. The name returned in June.
 The paper set the office highest in August of 1869.
 
-Stand.
-
 
 # Chapter 305: By Physical Processes
 
@@ -2118,8 +2070,6 @@ The processes belong to anyone who will carry them out. They are not a rank.
 The seventeenth of November, 1875. The president spoke in a hired hall.
 Divine wisdom, by physical processes: hold both halves of the phrase. The worth
 Of the striving is in the wisdom. The limit is in the processes. They are for all.
-
-Stand.
 
 
 # Chapter 306: Who Names the Good
@@ -2222,8 +2172,6 @@ Do not let the answer be a people.
 Do not let the answer be a class.
 The name is not a title the speaker keeps.
 Count the naming. Refuse the rank.
-
-Stand.
 
 
 # Chapter 307: The Card and the Name
@@ -2366,8 +2314,6 @@ Count the persons.
 Keep the names.
 The hole will not do the second thing.
 
-Stand.
-
 
 # Chapter 308: The Tenth Stroke
 
@@ -2486,5 +2432,3 @@ On Samhain the edge is the work.
 Keep every dead the speakers named.
 Keep the ones no speaker was sent for.
 The boundary is not a list of ten.
-
-Stand.

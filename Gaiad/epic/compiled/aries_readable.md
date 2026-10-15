@@ -4115,7 +4115,7 @@ Carries the ancient signature. The old Y. The old land.
 The one who was here before. The hold of the will
 To endure. The keeping hand.
 
-                               Haplogroup I. Old Europe. Stand.
+                               Haplogroup I. Old Europe.
 
 The rest of the continent's story is layered on top. But I
 Is the bottom. And the bottom, in a continent, is what the top
@@ -4371,7 +4371,7 @@ The grain fed the builders. The builders fed the god.
 The god is gone. The grain remains. The world was lit
 By their choice. And every city since has trod
 
-On the path they trod. G. The {{p|Neolithic}}. Stand.
+On the path they trod. G. The {{p|Neolithic}}.
 
 
 # Chapter 137: J — The Semitic World
@@ -4571,7 +4571,7 @@ In clay tablets in the {{p|Fertile Crescent}} at the founding of the mind
 
 Of civilization.
 
-                  J. The {{p|Semitic}}. The {{p|Near East}}. Stand.
+                  J. The {{p|Semitic}}. The {{p|Near East}}.
 
 
 # Chapter 138: H, L, T — The Indus Valley
@@ -4959,7 +4959,7 @@ And eastern. The one who found, in the taiga, the reach
 
 And range to preserve an old language against the new.
 
-Haplogroup N. Stand.
+Haplogroup N.
 
 
 # Chapter 140: O — Rice Agriculture and East Asia
@@ -5129,4 +5129,4 @@ Families and four thousand years of literacy. The state
 
 And status of more than a quarter of living humanity today.
 
-Haplogroup O. East Asia. Rice. Stand.
+Haplogroup O. East Asia. Rice.

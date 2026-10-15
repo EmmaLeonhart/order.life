@@ -27954,7 +27954,7 @@ Carries the ancient signature. The old Y. The old land.
 The one who was here before. The hold of the will
 To endure. The keeping hand.
 
-                               Haplogroup I. Old Europe. Stand.
+                               Haplogroup I. Old Europe.
 
 The rest of the continent's story is layered on top. But I
 Is the bottom. And the bottom, in a continent, is what the top
@@ -28210,7 +28210,7 @@ The grain fed the builders. The builders fed the god.
 The god is gone. The grain remains. The world was lit
 By their choice. And every city since has trod
 
-On the path they trod. G. The {{p|Neolithic}}. Stand.
+On the path they trod. G. The {{p|Neolithic}}.
 
 
 # Chapter 137: J — The Semitic World
@@ -28410,7 +28410,7 @@ In clay tablets in the {{p|Fertile Crescent}} at the founding of the mind
 
 Of civilization.
 
-                  J. The {{p|Semitic}}. The {{p|Near East}}. Stand.
+                  J. The {{p|Semitic}}. The {{p|Near East}}.
 
 
 # Chapter 138: H, L, T — The Indus Valley
@@ -28798,7 +28798,7 @@ And eastern. The one who found, in the taiga, the reach
 
 And range to preserve an old language against the new.
 
-Haplogroup N. Stand.
+Haplogroup N.
 
 
 # Chapter 140: O — Rice Agriculture and East Asia
@@ -28968,7 +28968,7 @@ Families and four thousand years of literacy. The state
 
 And status of more than a quarter of living humanity today.
 
-Haplogroup O. East Asia. Rice. Stand.
+Haplogroup O. East Asia. Rice.
 
 ---
 
@@ -29106,8 +29106,6 @@ Their fork. The stars. The ice. The silence. Two
 Silhouettes going two ways. The father, alone.
 Q goes east. R goes west. The lake stays true.
 Paikal. The deepest water. The crossroads stone.
-
-                                    Stand.
 
 
 # Chapter 142: Manu and Yemo — R and the Yamnaya
@@ -29310,7 +29308,7 @@ World.
 The myth and the haplogroup are the same story, told twice—once
 In the grammar of genealogy, once in the grammar of myth.
 
-R. The Yamnaya. The boomerang. The Indo-European. Stand.
+R. The Yamnaya. The boomerang. The Indo-European.
 
 
 # Chapter 143: E — Returns to Africa
@@ -29508,7 +29506,7 @@ Every major haplogroup represented in multiple places, and with
 E closing the loop by carrying a branch of the out-of-Africa
 Lineage back to the continent it had left.
 
-E. {{p|Africa}}. The return. The loop. Stand.
+E. {{p|Africa}}. The return. The loop.
 
 And with this chapter, the haplogroup sequence is complete.
 Fourteen chapters. Fourteen haplogroups. One great branching tree.
@@ -29672,8 +29670,6 @@ After {{p|Göbekli Tepe}}. The first warning voice.
 
 The first loss. The first civilization
 Whose name is gone, in the Gaiad's human age.
-
-                                    Stand.
 
 
 # Chapter 145: The Old Kingdom — Pyramids at Giza
@@ -29902,7 +29898,7 @@ Fragmented, and the pyramids were left to weather in the sun, the
 Civilization did not die—it only paused, and reassembled, and
 Continued. The pyramids remain as witnesses.
 
-{{p|Old Kingdom}}. The pyramids. Khufu, Khafre, Menkaure. Stand.
+{{p|Old Kingdom}}. The pyramids. Khufu, Khafre, Menkaure.
 
 
 # Chapter 146: The Akkadian Empire
@@ -30124,7 +30120,7 @@ Empire last. {{p|Akkad}}. {{p|Ur III}}. {{p|Old Babylon}}. {{p|Assyria}}. {{p|Ne
 Empire. Each inheriting the template Sargon had established.
 Each, eventually, falling. The cycle begins here.
 
-Sargon. {{p|Akkad}}. The first empire. Stand.
+Sargon. {{p|Akkad}}. The first empire.
 
 
 # Chapter 147: Stonehenge
@@ -30340,7 +30336,7 @@ Astronomical calendar that still works. The monument that outlived
 Its builders, its culture, and its language, and still stands,
 Weathered and whole, on the {{p|Salisbury Plain}} in the evening light.
 
-{{p|Stonehenge}}. The stone circle. The solstice calendar. Stand.
+{{p|Stonehenge}}. The stone circle. The solstice calendar.
 
 
 # Chapter 148: Minoan Crete
@@ -30551,7 +30547,7 @@ Civilization of the {{p|Aegean}}, wrecked by a volcano and absorbed
 By the {{p|Mycenaeans}}, but surviving—in fragments, in images, in
 The substrate of later {{p|Greek}} mythology—into the present.
 
-{{p|Minoan Crete}}. {{p|Knossos}}. {{p|Linear A}} unread. Stand.
+{{p|Minoan Crete}}. {{p|Knossos}}. {{p|Linear A}} unread.
 
 
 # Chapter 149: Yamnaya — The Steppe Breaks Europe
@@ -30768,7 +30764,7 @@ Sky-father. The patriarchal warrior band. The replacement of old
 Europe with new Europe. The cultural package that made the world
 We still live in. And the grave of the world we replaced.
 
-{{p|Yamnaya}}. The steppe expansion. The Indo-European arrival. Stand.
+{{p|Yamnaya}}. The steppe expansion. The Indo-European arrival.
 
 
 # Chapter 150: The Yellow Emperor
@@ -30989,7 +30985,7 @@ Subsequent upheaval, until the present day.
 
 Huangdi. The Yellow Emperor. {{p|China}}'s mythic founder.
 The culture-hero of the {{p|Yellow River}}. The ancestor claimed
-By a hundred generations of {{p|Chinese}} civilization. Stand.
+By a hundred generations of {{p|Chinese}} civilization.
 
 
 # Chapter 151: Neo-Sumerian Empire and Abraham
@@ -31206,7 +31202,7 @@ The J-haplogroup figure at the junction of J1 and J2. The
 Ancestor of Isaac and Ishmael, of {{p|Israel}} and of {{p|Ishmaelite}}
 {{p|Arabia}}, of {{p|Judaism}} and {{p|Christianity}} and {{p|Islam}}. The most
 Consequential religious figure in the biblical tradition between
-Noah and Moses. Stand.
+Noah and Moses.
 
 And the {{p|Neo-Sumerian}} empire, whose collapse made his journey
 Possible, falls into history. {{p|Ur}} is burned. The ziggurat is
@@ -31216,7 +31212,7 @@ The collapse, the patriarch of the monotheistic religions takes
 His first steps toward {{p|Canaan}}. The {{p|Neo-Sumerian}} ending is
 The {{p|Abrahamic}} beginning. Both happen in the same twenty-first
 Century BCE. Both are, in their different ways, the end of one
-Era and the start of another. Stand.
+Era and the start of another.
 
 
 # Chapter 152: Hammurabi — Law and the Old Babylonian Empire
@@ -31418,7 +31414,7 @@ The sun-god, receiving the law. The law still legible. The king
 
 Still legible. The empire long gone.
 
-Hammurabi. {{p|Babylon}}. The {{p|Code}}. Stand.
+Hammurabi. {{p|Babylon}}. The {{p|Code}}.
 
 
 # Chapter 153: The Middle Kingdom
@@ -31640,7 +31636,7 @@ To the {{p|Levant}}. The {{p|Canaanite}} presence in the delta. The classical
 
 Age of {{p|Egyptian}} civilization.
 
-{{p|Middle Kingdom}}. {{p|Egypt}} restored. Stand.
+{{p|Middle Kingdom}}. {{p|Egypt}} restored.
 
 
 # Chapter 154: Jacob, Joseph, and the Hyksos
@@ -31872,8 +31868,6 @@ Jacob. Joseph. The {{p|Hyksos}}. The {{p|Canaanite}} welcome in the delta.
 The moment of prosperity before the reversal. The J-haplogroup
 {{p|Semitic}} population flourishing under foreign-dynasty patronage
 In a cosmopolitan {{p|Egypt}}. The twelve sons. The prophecies. The tent.
-
-Stand.
 
 
 # Chapter 155: The Aryan Migration
@@ -32128,7 +32122,7 @@ A central deity of the new synthesis. The civilization that
 Would compose the {{p|Mahabharata}} and the {{p|Bhagavad Gita}} and
 The {{p|Upanishads}} is taking shape in this period.
 
-{{p|Aryan Migration}}. {{p|India}}. The synthesis. Stand.
+{{p|Aryan Migration}}. {{p|India}}. The synthesis.
 
 
 # Chapter 156: The New Kingdom
@@ -32353,7 +32347,7 @@ Would eventually bring the Bronze Age itself crashing down.
 
 {{p|New Kingdom}}. Hatshepsut. Thutmose III. Akhenaten. Ramesses II.
 The {{p|Egyptian}} Empire. The {{p|Kadesh Peace Treaty}}. The persecution of
-The {{p|Israelites}}. The glories before the collapse. Stand.
+The {{p|Israelites}}. The glories before the collapse.
 
 
 # Chapter 157: The Hittites
@@ -32576,7 +32570,7 @@ Of a lost civilization from its hidden tablets.
 
 {{p|Hittites}}. {{p|Hattusa}}. {{p|Kadesh}}. The R1b-haplogroup empire of
 {{p|Anatolia}}. The northern pole of Bronze Age political order. The
-Forgotten and rediscovered empire. Stand.
+Forgotten and rediscovered empire.
 
 
 # Chapter 158: The Mycenaeans
@@ -32808,7 +32802,7 @@ The foundation of {{p|Greek}} identity that would be preserved through
 The {{p|Dark Age}} in oral poetry and recovered, in attenuated form,
 When Homer sang the songs that became the {{p|Iliad}} and {{p|Odyssey}}.
 
-{{p|Mycenaeans}}. Agamemnon's kingdom. {{p|Troy}}'s rival. Stand.
+{{p|Mycenaeans}}. Agamemnon's kingdom. {{p|Troy}}'s rival.
 
 
 # Chapter 159: The Ramayana
@@ -33107,7 +33101,6 @@ That thought itself as one world.
                                      The {{p|Ramayana}}. Eastern reflex
 Of the shared narrative. The great swerve that acknowledges
 Humanity's unity at the moment of greatest apparent fragmentation.
-Stand.
 
 
 # Chapter 160: Exodus, Trojan War, Bronze Age Collapse
@@ -33396,8 +33389,6 @@ Integrated Bronze Age world.
 Three names. One crisis. One birthing. The next three millennia
 Of human civilization shaped in the rubble.
 
-Stand.
-
 
 # Chapter 161: Fall of Shang
 
@@ -33658,7 +33649,7 @@ Lost mandate and the new dynasty. The {{p|Middle Kingdom}} defining
 Itself as center of the world. The eight-hundred-year reign.
 
 Fall of {{p|Shang}}. Rise of {{p|Zhou}}. {{p|China}}'s Bronze Age ending and its
-Classical age beginning. Stand.
+Classical age beginning.
 
 
 # Chapter 162: The Bantu Expansion
@@ -33977,8 +33968,6 @@ One linguistic family. The grand demographic movement that
 Completes what the first out-of-{{p|Africa}} migrations began: the
 Filling of the continent by its final and largest population.
 
-Stand.
-
 
 # Chapter 163: Zarathustra
 
@@ -34279,7 +34268,7 @@ With enormous theological consequences.
 
                                            Zarathustra. The first
 Prophet of the Axial Age. The reformer of {{p|Indo-Iranian}} religion.
-The invisible ancestor of {{p|Western}} monotheism. Stand.
+The invisible ancestor of {{p|Western}} monotheism.
 
 
 # Chapter 164: David
@@ -34562,7 +34551,7 @@ Millennia of prayer.
 Human complexity opened space for a new kind of political and
 
 Religious imagination. The ancestor, by flesh or by adoption,
-Of every messianic hope. Stand.
+Of every messianic hope.
 
 
 # Chapter 165: Classical Greece, Part One
@@ -34934,8 +34923,6 @@ And Thucydides. The cultural hothouse taking shape.
 Classical {{p|Greece}}, part one. The preparation. The rise of a
 Civilization that would shape all of {{p|Western}} thought.
 
-Stand.
-
 
 # Chapter 166: Assyria and Babylon
 
@@ -35267,7 +35254,7 @@ Astronomer-priests. The library of Ashurbanipal, preserving
 {{p|Gilgamesh}} in its ashes. The template of text-centered religion.
 
 {{p|Assyria}} and {{p|Babylon}}. The {{p|Mesopotamian}} twilight. The catastrophe
-That produced {{p|Judaism}}. Stand.
+That produced {{p|Judaism}}.
 
 
 # Chapter 167: The Babylonian Exile and the Birth of Monotheism
@@ -35636,8 +35623,6 @@ The exile as crucible. The crushing defeat that forged a new
 Theological imagination. The catastrophe that produced the
 Vocabulary of half the world's religions.
 
-Stand.
-
 
 # Chapter 168: The Persian Empire
 
@@ -35937,8 +35922,6 @@ Ancient world. The foundation beneath {{p|Western}} and {{p|Eastern}}
 
 Political imagination alike. The conquering empire that was also
 The civilizing empire.
-
-Stand.
 
 ---
 
@@ -36265,7 +36248,6 @@ Intellectual tradition. The twin traditions that, together, would
 Shape a civilization.
 
 Confucius and Laozi. Paired pillars of the {{p|East Asian}} mind.
-Stand.
 
 
 # Chapter 170: The Buddha
@@ -36614,7 +36596,7 @@ Sentient beings without distinction of caste or species. The one
 Whose teaching is, still today, a living path for hundreds of
 Millions.
 
-             The Buddha. Awakened one. Stand.
+             The Buddha. Awakened one.
 
 
 # Chapter 171: The Mahabharata
@@ -36961,8 +36943,6 @@ Epic of an entire civilization.
 The text that has shaped {{p|Hindu}} moral and religious imagination
 
 For twenty-five hundred years.
-
-Stand.
 
 
 # Chapter 172: Classical Greece, Part Two
@@ -37357,8 +37337,6 @@ Short century.
 Civilization that taught the {{p|West}} what cities, what democracies,
 What philosophy, and what theater could be.
 
-Stand.
-
 
 # Chapter 173: Classical Greece, Part Three
 
@@ -37719,7 +37697,6 @@ Transition to the {{p|Hellenistic}} world. The closing of the classical
 Age.
 
          The {{p|Greek}} achievement: foundational, flawed, immortal.
-Stand.
 
 
 # Chapter 174: Alexander the Great
@@ -38051,7 +38028,7 @@ To spread and for {{p|Buddhism}} to meet {{p|Hellenism}}.
 
 Alexander. The conqueror whose conquests lasted thirteen years
 And whose cultural consequences have lasted two thousand three
-Hundred. Stand.
+Hundred.
 
 
 # Chapter 175: The Maurya Empire
@@ -38309,8 +38286,6 @@ Long forgetting and the nineteenth-century rediscovery.
 The unification of {{p|India}}. Ashoka's ethical experiment. The
 {{p|Buddhist}} missions outward.
 
-Stand.
-
 
 # Chapter 176: Qin and Han
 
@@ -38567,8 +38542,6 @@ Would try to match.
                          {{p|Qin}} and {{p|Han}}. {{p|China}}'s classical empires.
 The template of {{p|East Asian}} civilization for the next two thousand
 Years.
-
-Stand.
 
 
 # Chapter 177: The Punic Wars
@@ -38848,8 +38821,6 @@ Institutions. The beginning of the end for the {{p|Republic}}.
 {{p|Punic Wars}}. The century-long duel. The emergence of what would
 Become the greatest {{p|Mediterranean}} empire.
 
-Stand.
-
 
 # Chapter 178: Rome
 
@@ -39073,8 +39044,6 @@ From here, the slow decline began.
 But for two hundred years it held
 the greatest empire made by man.
 
-Stand.
-
 
 # Chapter 179: Second Temple Period
 
@@ -39244,8 +39213,6 @@ But all agreed: one God, no image,
 covenant, Torah, Sabbath, kosher.
 And all were waiting for what would come
 to change the world and bring it closer.
-
-Stand.
 
 
 # Chapter 180: Jesus
@@ -39455,8 +39422,6 @@ They broke bread together and shared all things.
 They waited for the return imminent.
 And the spirit came on them on tongues' wings.
 
-Stand.
-
 
 # Chapter 181: Buddhism Enters the Han
 
@@ -39620,8 +39585,6 @@ no longer just an Indian way.
 The Buddha's "middle path" had proved
 capable of crossing every sway.
 
-Stand.
-
 
 # Chapter 182: Elagabalus
 
@@ -39754,8 +39717,6 @@ His memory was damned, "damnatio memoriae,"
 his name scratched out, his image defaced.
 But history remembered him as
 the strangest emperor Rome had faced.
-
-Stand.
 
 
 # Chapter 183: The Third Century Crisis
@@ -39902,8 +39863,6 @@ Constantine saw a vision, or claimed to.
 He won the battle, credited Christ,
 and the whole direction began to flow.
 
-Stand.
-
 
 # Chapter 184: The Sassanid Empire
 
@@ -40002,8 +39961,6 @@ preserve the pre-Islamic past in verse.
 The Zoroastrians who fled to India
 became Parsis, their faith's unsquashed reverse.
 
-Stand.
-
 
 # Chapter 185: Armenia
 
@@ -40086,8 +40043,6 @@ But the culture endured. The church endured.
 The alphabet still writes what Mashtots penned.
 A small mountain nation held on through empires.
 The deflationary polytheist sees how they fend.
-
-Stand.
 
 
 # Chapter 186: Ethiopia
@@ -40176,8 +40131,6 @@ Ethiopia's story is the African Christian kingdom,
 ancient, persistent, mystical, strange,
 isolated but connected, deeply rooted,
 surviving every political change.
-
-Stand.
 
 
 # Chapter 187: Constantine and the Fall of Rome
@@ -40297,8 +40250,6 @@ The temples were churches or ruins now.
 A new Christian civilization was forming
 on the old Roman frame, altered somehow.
 
-Stand.
-
 
 # Chapter 188: The Fall of Han
 
@@ -40396,8 +40347,6 @@ Their stories would shape Chinese culture
 for fifteen centuries to come,
 like the Mahabharata for India,
 like the Iliad for classical Greek home.
-
-Stand.
 
 
 # Chapter 189: Romance of the Three Kingdoms
@@ -40511,8 +40460,6 @@ The deflationary polytheist sees here
 the Chinese counterpart to epic,
 the narrative matrix that shapes
 moral imagination, subsonic and sceptic.
-
-Stand.
 
 
 # Chapter 190: Jimmu to Jingū
@@ -40632,8 +40579,6 @@ beginning. The constitution of Prince Shōtoku
 in 604 would organize the state
 along Chinese lines — the shape we still see.
 
-Stand.
-
 
 # Chapter 191: Arabia Before Islam
 
@@ -40751,8 +40696,6 @@ of his old life and opener of the new.
 "Recite!" the angel said. "In the name of your Lord
 who created, created man from a clot."
 The Quran began. A new religion was born.
-
-Stand.
 
 
 # Chapter 192: Muhammad and the Rise of Islam
@@ -40902,8 +40845,6 @@ the Sunni, "followers of the sunnah,"
 the tradition, the mainstream majority.
 The split between them would be enduring, the fissure not undone.
 
-Stand.
-
 
 # Chapter 193: Journey to the West
 
@@ -41022,8 +40963,6 @@ that all subsequent Chinese dynasties measured themselves against.
 The model to emulate. The high water mark.
 The era that even now is most well-fenced.
 
-Stand.
-
 
 # Chapter 194: Kūkai
 
@@ -41138,8 +41077,6 @@ until the Meiji period's forced separation
 in 1868 violently distinguished them.
 But for the medieval period, they were one vocation.
 
-Stand.
-
 
 # Chapter 195: Charlemagne and Byzantium
 
@@ -41247,8 +41184,6 @@ For the next three centuries, Vikings would raid
 from Ireland to Russia, from Spain to Iraq.
 They would settle, found kingdoms, convert eventually.
 But they would be the scourge of the early Medieval track.
-
-Stand.
 
 
 # Chapter 196: Tang and the Great Persecution
@@ -41372,8 +41307,6 @@ But the Tang remained the memory, the ideal,
 the civilization-peak to look back on.
 "Tang poetry" still means the finest Chinese verse.
 "Tang" is still how Chinese abroad call their people gone.
-
-Stand.
 
 ---
 
@@ -41517,8 +41450,6 @@ through Córdoba and Toledo to Christian Europe,
 there would have been no Renaissance.
 The chain of transmission included this stoop.
 
-Stand.
-
 
 # Chapter 198: Heian Japan
 
@@ -41632,8 +41563,6 @@ The Heian era was over. The medieval era began.
 The refined court aesthetic remained as ideal,
 but the ruling class was now the warrior,
 with its code of bushido, martial and real.
-
-Stand.
 
 
 # Chapter 199: Scandinavia and the Eddas
@@ -41753,8 +41682,6 @@ assimilating to Christian Latin civilization.
 But they had shaped the map of Europe permanently,
 from Russia to England to Sicily's nation.
 
-Stand.
-
 
 # Chapter 200: Ireland and Brian Boru
 
@@ -41872,8 +41799,6 @@ The deflationary polytheist sees Ireland
 as a kind of time capsule where Indo-European
 mythology survived in Christian clothing,
 visible in the folk traditions, superheroic accrue.
-
-Stand.
 
 
 # Chapter 201: India in the Early Medieval
@@ -42007,8 +41932,6 @@ Until that fall, Vijayanagara was a magnificent
 capital, visited by Portuguese travelers who
 reported its wealth and beauty rivaled any city
 in the world they had seen. Now ruins, the abstract of past due.
-
-Stand.
 
 
 # Chapter 202: The Crusades
@@ -42168,8 +42091,6 @@ and the Renaissance that emerged in the fourteenth century
 was partly a product of what the crusades had brought back:
 Greek texts via Islamic transmission, entering the inventory.
 
-Stand.
-
 
 # Chapter 203: Genghis Khan
 
@@ -42293,8 +42214,6 @@ the hinge: one man, from obscurity in Mongolia,
 unified his tribe and launched a conquest that
 reshaped the world, from Hungary to Cambodia.
 
-Stand.
-
 
 # Chapter 204: The Mongols in China
 
@@ -42407,8 +42326,6 @@ But they also connected Eurasia as never before.
 Technologies transmitted both east and west.
 The Black Death would transmit west along Mongol routes.
 The whole world was becoming connected for its test.
-
-Stand.
 
 
 # Chapter 205: The Mongols in the Middle East
@@ -42528,8 +42445,6 @@ Islamic intellectual life moved to the margins, less pack.
 these would be the new centers. But Baghdad's
 three-quarters of a millennium of centrality was lost by Mongols.
 
-Stand.
-
 
 # Chapter 206: The Mongols in Europe
 
@@ -42587,8 +42502,6 @@ The Russian princes would eventually unite
 under Moscow to throw off this yoke.
 That story is chapter 222. For now, mark
 how the eastern horsemen made Europe choke.
-
-Stand.
 
 
 # Chapter 207: Kamakura Japan and the Kamikaze
@@ -42672,8 +42585,6 @@ its eventual collapse in 1333, when
 Emperor Go-Daigo tried to restore direct
 imperial rule in the Kenmu Restoration.
 That attempt would fail — the next chapter's rect.
-
-Stand.
 
 
 # Chapter 208: The Black Death
@@ -42768,8 +42679,6 @@ the late seventeenth century — the Great Plague
 of London in 1665 was one of the last major outbreaks.
 But the 1348 pandemic remained the archetype, the vague.
 
-Stand.
-
 
 # Chapter 209: The Kenmu Restoration
 
@@ -42858,8 +42767,6 @@ who attempted the impossible — to restore
 direct imperial rule in an age when it was impossible.
 A failed restorer, but a heroic figure lore.
 
-Stand.
-
 
 # Chapter 210: The Ming Rises
 
@@ -42942,8 +42849,6 @@ But the Ming would last until 1644, when
 the Manchus would conquer from the north
 and found the Qing Dynasty. That story is later.
 For now, mark: native Chinese rule was called forth.
-
-Stand.
 
 
 # Chapter 211: Timur
@@ -43033,8 +42938,6 @@ the last great steppe conqueror, the end of the
 Mongol-era pattern. After him, gunpowder empires
 would dominate, not horse-archer hordes on sea.
 
-Stand.
-
 
 # Chapter 212: Lithuania, the Last Pagans
 
@@ -43117,8 +43020,6 @@ It is one of the great "what ifs" of world literature.
 The last great Indo-European polytheism in Europe,
 undocumented at the moment of its conversion.
 A civilizational voice silenced without a final pope-hat.
-
-Stand.
 
 
 # Chapter 213: Zheng He
@@ -43208,8 +43109,6 @@ maritime history. Zheng He was doing in 1410
 what Columbus would attempt in 1492, at vastly larger
 scale — but China walked away from its opening, again.
 
-Stand.
-
 
 # Chapter 214: Gutenberg and the Press
 
@@ -43297,8 +43196,6 @@ As it was, Europe in the late fifteenth century was
 accelerating technologically and intellectually. Combined
 with the discovery of the Americas (next century),
 the basis for European global dominance was formed, intentionally.
-
-Stand.
 
 
 # Chapter 215: The Ottoman Rise
@@ -43390,8 +43287,6 @@ emirate to the conquest of the greatest Christian city
 in the world. The Roman Empire's last direct continuation
 was about to become the New Rome of Sultan Mehmed, pretty.
 
-Stand.
-
 
 # Chapter 216: Joan of Arc
 
@@ -43477,8 +43372,6 @@ In 1453, the year Constantinople fell, the Hundred
 Years' War ended with French victory at Castillon.
 The English were expelled from France except for {{p|Calais}}.
 The France that Jeanne had saved became the modern nation.
-
-Stand.
 
 
 # Chapter 217: The Eve of Sengoku
@@ -43568,8 +43461,6 @@ Japan in 1453 — the year Constantinople fell — was
 fragmenting politically but flourishing culturally.
 The Ashikaga were losing power. The Ōnin War would
 erupt fourteen years later. The age of chaos began.
-
-Stand.
 
 
 # Chapter 218: The Corruption of the Papacy
@@ -43674,8 +43565,6 @@ Not just theology — but the visible corruption of the
 church that claimed spiritual authority. The pope was
 often manifestly unworthy. People could see it, conclude.
 
-Stand.
-
 
 # Chapter 219: The Last Byzantines
 
@@ -43778,8 +43667,6 @@ died with him, on the walls of its ancient Citadel, stating.
 a Roman emperor had reigned in Constantinople. The line
 stretched back to Augustus. Now it ended. Chapter 221
 will describe the actual fall; this chapter is the end.)
-
-Stand.
 
 
 # Chapter 220: The Eve
@@ -43888,8 +43775,6 @@ The world turns. The age changes. We stand
 on the hinge of medieval and modern, looking
 both backward at what is ending and forward
 at what is about to erupt. And in 1492, the banks.
-
-Stand.
 
 
 # Chapter 221: The Year of Three Falls
@@ -50889,8 +50774,6 @@ The age of the chronicle ends. Here begins the age
 
 Of the reckoning.
 
-Stand.
-
 
 # Chapter 254: The Sea Joins the World
 
@@ -51016,8 +50899,6 @@ Hold all three. The sea joins. The world will never again be free
 
 Of the rest of the world.
 
-Stand.
-
 
 # Chapter 255: There Is No Hindu, There Is No Muslim
 
@@ -51136,8 +51017,6 @@ It is still the clearest thing said in this age.
 There is no Hindu. There is no Muslim. Sit on the floor. The bread is shown
 To all. Eat. Turn the page.
 
-Stand.
-
 
 # Chapter 256: The Red Heads
 
@@ -51245,8 +51124,6 @@ As if it had always been. And that the boy believed it.
 That is the hardest part. He was not lying. He was young
 And had been hidden, and was saved, and he received it:
 God's mystery, in the Turkish of his tongue.
-
-Stand.
 
 
 # Chapter 257: Here I Stand
@@ -51356,12 +51233,9 @@ Every reader, a priest. That was the promise and the danger.
 The register of souls the priests had kept would pass
 To the state. The book would pass to the stranger.
 
-And the Gaiad says, at the end of every chapter,
-The word he did not say and was remembered saying.
-Not *I can do no other*. Only the standing.
+Hold the one sentence that was surely his, before the printing:
+Unless I am convinced, I cannot. The rest is the printers' saying.
 A conscience in a hall. The press. The hymn. The praying.
-
-Stand.
 
 
 # Chapter 258: The Lawgiver's Register
@@ -51461,8 +51335,6 @@ Not only in the guns. In the page that says who you are.
 A faith as an address. A people as a column.
 Hold the gift and the wound in the one ledger. Here we are.
 
-Stand.
-
 
 # Chapter 259: The Register of Every Soul
 
@@ -51556,8 +51428,6 @@ In a cold church, with a quill, writing a name.
 Honor him. He did not know what he was making. One day
 Someone would read his hand, and say: there, that is where I came.
 
-Stand.
-
 
 # Chapter 260: The Earth Leaves the Centre
 
@@ -51650,8 +51520,6 @@ Learned the new sky, and it was not a loss.
 We are travelling. We were always travelling. The year
 Is a journey round a star, and the cross
 Of the seasons is our orbit. Count it, and be glad to be here.
-
-Stand.
 
 
 # Chapter 261: The Farmers at Bure
@@ -51747,8 +51615,6 @@ That a king's clerk had given them, in wax
 And ink, the one thing the old sagas could never:
 
 A date.
-
-Stand.
 
 
 # Chapter 262: The Great Sun and the Dead
@@ -51848,8 +51714,6 @@ The names are kept. The dead are not condemned.
 Read them out this new year, every word,
 And let the Great Sun rise on all of them.
 
-Stand.
-
 
 # Chapter 263: The House of Worship
 
@@ -51938,8 +51802,6 @@ And would not stop listening. Learn from the room
 He built for every faith, and from its emptiness. The seed
 Needs ground. Plant it in the days, not in the throne. Not in the tomb.
 
-Stand.
-
 
 # Chapter 264: The Scholar from the Western Sea
 
@@ -52027,8 +51889,6 @@ Of the accommodation came. But hold the full moon now.
 A man from the far west learned the classics by heart, and sat
 At the Chinese table, and did not ask the dead to leave. The vow
 Of the moon festival is reunion. Set the place. Keep that.
-
-Stand.
 
 
 # Chapter 265: The Monkey and the Hill of Crosses
@@ -52123,8 +51983,6 @@ Remember the boy who asked which cross was his.
 Remember the peasant who climbed, and pulled the ladder up, the same
 Man, the same hand. The dew falls. That is what is.
 
-Stand.
-
 
 # Chapter 266: The One Who Waited
 
@@ -52212,8 +52070,6 @@ The world through one window, and made him a samurai, and let no one leave.
 The patient man waited, and the bird sang, and the song
 Was long and beautiful and the same. Grieve
 And give thanks. The pillar held. It held too long.
-
-Stand.
 
 
 # Chapter 267: The Company
@@ -52308,8 +52164,6 @@ By strangers who never had to see the hills
 Where the people starved. Own your shares in the shade
 Of that question. Ask what the ledger kills.
 
-Stand.
-
 
 # Chapter 268: The Rune-Keeper
 
@@ -52403,8 +52257,6 @@ Kept the stones and the dream, and did not tell them apart.
 His heir will. That is the vow: to be the keeper and the reaper
 Of both, and to show the seam. Draw the stone. Know the heart.
 
-Stand.
-
 
 # Chapter 269: The Sky Opens
 
@@ -52492,8 +52344,6 @@ Is not undone. What was refused is not refused now.
 Open the sky. Look. Let the evidence come in the window.
 And when you are the one who was wrong, take the vow
 He was never given: say so. Not in a whisper. Say it, and let it go.
-
-Stand.
 
 
 # Chapter 270: The King of the Goths
@@ -52583,8 +52433,6 @@ On view, and teaches its children: this is what pride
 Does to a keel. That is a better myth than Berik. The deck
 Is the lesson. Stand on the quay. The water is on every side.
 
-Stand.
-
 
 # Chapter 271: Two Fingers
 
@@ -52657,8 +52505,6 @@ As your fathers prayed, if you can, and change what must change,
 And never burn anyone over the fingers of a hand.
 The Old Believers are still in {{p|Russia}}, and in {{p|Alaska}}, and in the strange
 Green valleys of {{p|Oregon}}. Two fingers raised. They stand.
-
-Stand.
 
 
 # Chapter 272: The Sabbath of Sabbaths
@@ -52743,8 +52589,6 @@ That we lay down the sword and go home and plant the field
 That the armies burned. Atone. Go to the one you wronged. Drop
 The argument about the door. Sign. And let the land be healed.
 
-Stand.
-
 
 # Chapter 273: The Closed Country and the Temple Book
 
@@ -52827,8 +52671,6 @@ For the foot on the image, and grateful for the page
 That says a fisher's daughter lived, and married, and had two sons, and died,
 In a village whose name you would never have known. The age
 Of the locked country kept her. Read her. She is on our side.
-
-Stand.
 
 
 # Chapter 274: Our Hearts Are the Same as Yours
@@ -52923,8 +52765,6 @@ Of the register. Honor the boy on the wall of {{p|Hara}}. Honor
 The woman at {{p|Ōura}}. Honor what is kept when the priests die, the keeper and the corner
 Where it was kept. Where is the image of Santa Maria? Here. Our hearts are the same.
 
-Stand.
-
 
 # Chapter 275: The Mandate Changes Hands
 
@@ -53015,8 +52855,6 @@ The Mandate goes. Feed the people. Then look
 
 At the rites.
 
-Stand.
-
 
 # Chapter 276: The Confluence of the Two Seas
 
@@ -53100,8 +52938,6 @@ Sit with the sages. Do not cut off the head
 Of the brother who found the same ocean in another's daughter
 Faith. The two seas meet. Let them. Let the river be fed.
 
-Stand.
-
 
 # Chapter 277: Take Nobody's Word for It
 
@@ -53184,8 +53020,6 @@ Of scripture this book is making must keep the same rule.
 Do not believe the Gaiad because it is scripture. Check it.
 Repeat it. Where it dreams, it says so. Where it errs, the tool
 Of correction is open to anyone. That is the oath. Respect it.
-
-Stand.
 
 
 # Chapter 278: The Barrels Stayed Packed
@@ -53280,8 +53114,6 @@ And never stop leaving the roof open to the stars.
 Rejoice in the booth. The branches are curled
 Over your head, and they let the light through the bars.
 
-Stand.
-
 
 # Chapter 279: One Law for the Apple and the Moon
 
@@ -53370,8 +53202,6 @@ The universe is one law. And the ocean is still there.
 Pick up a shell. Check it. Keep your dreams in a box, labelled. And sing
 For the orchard where the plague sent a boy, and he looked up, and saw it there.
 
-Stand.
-
 
 # Chapter 280: One and Nothing
 
@@ -53455,8 +53285,6 @@ Are in every phone. Every message to the ones you love goes in them.
 Tomorrow begins Libra: the Rites, the reckoning, the clothing
 Of the Enlightenment. From one and nothing, the world. Hold the hem.
 
-Stand.
-
 ---
 
 # Libra (11宮) - Days 281-308
@@ -53539,8 +53367,6 @@ Give thanks for the food. Give thanks to the hands that grew it.
 Give thanks to the ones who came before, and set the bowl at the hem
 Of their memory. No one has the right to forbid it. Do it.
 
-Stand.
-
 
 # Chapter 282: The Names of Everything
 
@@ -53618,8 +53444,6 @@ Of reverence is attention. And cross out the line he got wrong:
 There are no ranked varieties of us. The register of humankind is one.
 *Homo sapiens*. One species. One family. One song.
 The linden tree in {{p|Småland}} is gone. The name it gave is in the sun.
-
-Stand.
 
 
 # Chapter 283: No Place Empty
@@ -53704,8 +53528,6 @@ Are far from the sacred. Sing on the way to school.
 And if you have no words, blow the whistle. What you had
 Was enough. It always was. The heart is the rule.
 
-Stand.
-
 
 # Chapter 284: The Pact at Diriyah
 
@@ -53788,8 +53610,6 @@ Was shade. Somebody prayed under it. Remember them.
 God is one, the preacher said, and he was right. The oneness
 Is wide enough for the rag on the tree, and the saint's dome, and the hem
 Of the grandmother's prayer. The sacred has room. Make room. That is the oneness.
-
-Stand.
 
 
 # Chapter 285: The Assessor of the Board of Mines
@@ -53879,8 +53699,6 @@ Is for people you will never meet. His bones are in {{p|Uppsala}} now, brought h
 In the cathedral, near Linnaeus's. The farthest
 Visions and the nearest names lie under one dome.
 
-Stand.
-
 
 # Chapter 286: All Knowledge in One Structure
 
@@ -53958,8 +53776,6 @@ Number of hands would make the largest encyclopedia ever.
 Ophiuchus will tell it. Here, give thanks to the twig and the tree,
 To Jaucourt's seventeen thousand, to the plate of the weaver's lever.
 All knowledge is the work of many hands. Write it down. Make it free.
-
-Stand.
 
 
 # Chapter 287: The Bard Who Never Was
@@ -54043,8 +53859,6 @@ On the ships from the cleared glens: their songs are in the archives now,
 Collected later, by people who wrote down who sang and when.
 Remember them: Duncan Ban MacIntyre, the hunter-poet, the bough
 Of his *Praise of Ben Dorain*, real, and dated, and made by a man.
-
-Stand.
 
 
 # Chapter 288: Two Navigators
@@ -54139,8 +53953,6 @@ With wood and memory and courage. Say Tupaia's name with Cook's.
 The first chart of the Pacific was drawn by the people of its birth.
 Hold the chart. Hold the spear on the beach. Read both books.
 
-Stand.
-
 
 # Chapter 289: Buried Sunlight
 
@@ -54218,8 +54030,6 @@ Without knowing what it is: three hundred million years of the dead,
 Asleep in the earth, now in the air, now in the warming sea.
 Give thanks for the power. Count the cost. And go ahead
 As the Lunar men did, by the light of the moon: with friends, carefully.
-
-Stand.
 
 
 # Chapter 290: The Four Treasuries
@@ -54299,8 +54109,6 @@ Gather everything. Burn nothing. And where the fire has been,
 Copy again. The four treasuries are the world's. The sign
 Of the keeper is the hand that writes the lost page in.
 
-Stand.
-
 
 # Chapter 291: The Common Source
 
@@ -54379,8 +54187,6 @@ Say *night*, *star*, *mother*. The common source no longer exists,
 And it speaks every day. Honour the dead speech by what you say.
 Every word is an ancestor. The tree persists.
 
-Stand.
-
 
 # Chapter 292: The Year One
 
@@ -54453,8 +54259,6 @@ Of their gift, and broke the Sunday, the worst of their error.
 Keep the field. Keep the rest. Name the days. Do not let the number rule the body.
 And remember the poet who named *Germinal* and died in it, the terror
 Of his times around him: the grape, the fog, the frost. The year is a story.
-
-Stand.
 
 
 # Chapter 293: The Festival of the Supreme Being
@@ -54534,8 +54338,6 @@ Believe nothing because a state believes it. Honour the God, or the life,
 Or the sacred, as you find it, freely. And the Supreme Being vanished
 With the man who made it. The roses on the mountain. The knife.
 
-Stand.
-
 
 # Chapter 294: The Mountain Cherry
 
@@ -54614,8 +54416,6 @@ So we could read it. Read it. And when anyone tells you the heart of a people is
 Remember the morning sun on the cherry, and the young men, and the tears.
 The ache of things is for everyone. That is the only cure.
 
-Stand.
-
 
 # Chapter 295: The Crown He Took
 
@@ -54688,8 +54488,6 @@ About the Emperor. She thanks him for the registers that begin in 1811 in a Dutc
 For a name chosen in a year that became a family. The joke
 That became a surname. The surname that became a lineage. The pillage
 Of an empire, and a clerk with a pen. Hold both, in the smoke.
-
-Stand.
 
 
 # Chapter 296: The Compilers
@@ -54769,8 +54567,6 @@ Gather the songs of the world. Join them, and admit the joining.
 The forge of Ilmarinen made the Sampo, which ground out plenty, the flow
 Of grain and salt and gold. A good compilation is a Sampo. Keep it turning.
 
-Stand.
-
 
 # Chapter 297: The Dead Speak Again
 
@@ -54848,8 +54644,6 @@ Of three scripts, in a glass case far from the river: give it home,
 Or say why not, honestly. The question belongs to the living descendants.
 The Coptic hymn still sung in {{p|Cairo}} was the key. The tome
 Of the dead was unlocked by the living. Keep singing. Those are the attendants.
-
-Stand.
 
 
 # Chapter 298: The Engine That Weaves
@@ -54934,8 +54728,6 @@ That waited. And hold her warning close, as this book holds its loom:
 Know whose thread it is. Name the weavers. The machine has been
 Given everything we know. What it makes is ours. Make room.
 
-Stand.
-
 
 # Chapter 299: The Gate and the Glory
 
@@ -55013,8 +54805,6 @@ Imprisoned, their cemeteries bulldozed, for the faith of the Gate and the Glory.
 Honour the merchant of {{p|Shiraz}}. Honour the unveiled poet. Honour the prisoner of {{p|Akka}}.
 Lifeism is a younger sister in this story. Tell it gently. The hoary
 Old lands keep killing the ones who say the world is one. Keep saying it. Do not falter.
-
-Stand.
 
 
 # Chapter 300: The Heavenly Kingdom
@@ -55094,8 +54884,6 @@ And the founder in fever, the misread tract: be careful what you hand
 To the desperate on the street. The words of comfort can open doors
 To a war. And remember the twenty million, with no names on the land.
 
-Stand.
-
 
 # Chapter 301: The Black Ships and the Strangers' Graves
 
@@ -55163,8 +54951,6 @@ The moss from a Russian sailor's stone. Be that monk.
 Keep the dead who are not yours. They are yours. The black ships came. The country opened.
 The world is one family, and the strangers' graves are the trunk
 Of the tree too. Light the lamp. Say their names, if they are known. And if not, say: beloved.
-
-Stand.
 
 
 # Chapter 302: Endless Forms
@@ -55262,8 +55048,6 @@ Keep the names. Keep the unnamed. They are one descent.
 From so simple a beginning, the endless forms.
 Say it over the days: the dead are not gone from the world.
 They are how the world goes on.
-
-Stand.
 
 
 # Chapter 303: The Short Plant Returns
@@ -55375,8 +55159,6 @@ Of a life is not a prize list. Keep the ones the directories ignore.
 
 They are in the seed. They return. Let them.
 
-Stand.
-
 
 # Chapter 304: The Precinct Divided
 
@@ -55485,8 +55267,6 @@ The letterhead was the Department of Divinities.
 The parting was that spring. The name returned in June.
 The paper set the office highest in August of 1869.
 
-Stand.
-
 
 # Chapter 305: By Physical Processes
 
@@ -55579,8 +55359,6 @@ The processes belong to anyone who will carry them out. They are not a rank.
 The seventeenth of November, 1875. The president spoke in a hired hall.
 Divine wisdom, by physical processes: hold both halves of the phrase. The worth
 Of the striving is in the wisdom. The limit is in the processes. They are for all.
-
-Stand.
 
 
 # Chapter 306: Who Names the Good
@@ -55683,8 +55461,6 @@ Do not let the answer be a people.
 Do not let the answer be a class.
 The name is not a title the speaker keeps.
 Count the naming. Refuse the rank.
-
-Stand.
 
 
 # Chapter 307: The Card and the Name
@@ -55827,8 +55603,6 @@ Count the persons.
 Keep the names.
 The hole will not do the second thing.
 
-Stand.
-
 
 # Chapter 308: The Tenth Stroke
 
@@ -55947,8 +55721,6 @@ On Samhain the edge is the work.
 Keep every dead the speakers named.
 Keep the ones no speaker was sent for.
 The boundary is not a list of ten.
-
-Stand.
 
 ---
 
@@ -56103,8 +55875,6 @@ With a signal, and a rule that the way there equals the way back.
 Make it. Say which frame you made it in.
 Do not pretend the sky held it before you did.
 
-Stand.
-
 
 # Chapter 310: The Round Altar
 
@@ -56215,8 +55985,6 @@ Public still has the dead in it.
 The round altar is still south of the city.
 The brick can stand with no emperor on it.
 The names do not need that brick in order to be kept.
-
-Stand.
 
 
 # Chapter 311: The Appointed Hour
@@ -56340,8 +56108,6 @@ It is not a body.
 The day keeps the hour they appointed,
 And the names the hour did not give back.
 
-Stand.
-
 
 # Chapter 312: The Old Style
 
@@ -56463,8 +56229,6 @@ And the paper hid the children.
 Keep the names. Keep the day the register you chose actually holds.
 A theory is not a calendar.
 A state that has been taken has not withered.
-
-Stand.
 
 
 # Chapter 313: The Caliph of the Muslims
@@ -56615,8 +56379,6 @@ The man they called caliph of the Muslims died without the name.
 Count the office closed on the day the law says.
 Keep the question. It was not in the statute.
 
-Stand.
-
 
 # Chapter 314: Finite Means
 
@@ -56722,8 +56484,6 @@ Count what the table writes.
 Keep the questions the table cannot close.
 Say which is the procedure and which is the question.
 Do not pretend the sky was running the tape before you wrote the table.
-
-Stand.
 
 
 # Chapter 315: A Hand and a Name
@@ -56844,8 +56604,6 @@ This chapter has the dates.
 The names are the work the law ordered,
 And they are not finished here.
 
-Stand.
-
 
 # Chapter 316: The Aim and the City
 
@@ -56932,8 +56690,6 @@ Do not pretend the cloud was a judgment.
 Do not pretend the clear morning was one either.
 Say which city. Say which hour.
 The dead are not the argument that closes the question.
-
-Stand.
 
 
 # Chapter 317: The Plugs and the Point
@@ -57053,8 +56809,6 @@ Say which afternoon the point worked.
 Say which year the name existed.
 The machine did not choose the cities.
 The crystal did not choose its use.
-
-Stand.
 
 
 # Chapter 318: The Same Footing
@@ -57176,8 +56930,6 @@ Count the rescript on the first of January.
 Count the office on the third of February.
 The kami are not an article in any of the three.
 
-Stand.
-
 
 # Chapter 319: None Against
 
@@ -57283,8 +57035,6 @@ Count the declaration before midnight on the tenth of December.
 The articles are not the dead.
 The dead are not thereby left off the work of naming.
 
-Stand.
-
 
 # Chapter 320: The Recommendation
 
@@ -57378,8 +57128,6 @@ Count the vote on the twenty-ninth of November.
 Count the scroll on the fourteenth of May.
 The map of the plan and the map of the fighting
 Are not the same map.
-
-Stand.
 
 
 # Chapter 321: The Suggested Copy
@@ -57486,8 +57234,6 @@ The new sentence is the shape, and the copy the shape allows.
 A shape is not a commandment.
 The dead of the prize's year are not this chapter.
 Franklin's measurement is.
-
-Stand.
 
 
 # Chapter 322: The Published Frequency
@@ -57624,8 +57370,6 @@ Count seven, five, and three.
 The sphere came down.
 The rite is still kept.
 
-Stand.
-
 
 # Chapter 323: The Mother Tongue
 
@@ -57757,8 +57501,6 @@ In these years the tongue of the reading
 And the tongue of the prayer the priest said alone
 Were not the same tongue.
 
-Stand.
-
 
 # Chapter 324: The Master in the Mountain
 
@@ -57881,8 +57623,6 @@ The book stays in its archive.
 The question the rite asks
 Is not answered by the stone.
 
-Stand.
-
 
 # Chapter 325: Left as a Museum
 
@@ -57983,8 +57723,6 @@ Count the grave in the last days of November.
 The name of a tradition and the stone of a grave
 Are not the same thing.
 The year struck at both.
-
-Stand.
 
 
 # Chapter 326: The Eagle and the Two Letters
@@ -58127,8 +57865,6 @@ The reason is what the people do with the path,
 And what they refuse to call a peace
 When the plaque has said the word
 And the year has not finished saying it.
-
-Stand.
 
 
 # Chapter 327: As Far as a New Time
@@ -58279,8 +58015,6 @@ That limit is the striving.
 A list can hold a name. It cannot hold the years since the assembly,
 And it cannot make those years nothing.
 
-Stand.
-
 
 # Chapter 328: As of 1979
 
@@ -58385,8 +58119,6 @@ Count the communique on the twenty-second of December.
 Count the landing on the first of February.
 The map of the work and the map of the state
 Are not the same map.
-
-Stand.
 
 
 # Chapter 329: The Covenant of Peace
@@ -58532,8 +58264,6 @@ Do not say that sentence had made the harvest impossible.
 A broken offering and a full one are not the same rite.
 Both are a thanks.
 A thanks is not yet the peace it names.
-
-Stand.
 
 
 # Chapter 330: The Source Book
@@ -58687,8 +58417,6 @@ Count ten million letters as the five years' aim.
 Count the whole book as a term the plan named,
 And this morning did not reach.
 
-Stand.
-
 
 # Chapter 331: Now Ceases
 
@@ -58821,8 +58549,6 @@ The end of the register is not the good delivered.
 It is not a proof the good was only a machine.
 Do not say the idea ended because the flag came down.
 A later war is not this December.
-
-Stand.
 
 
 # Chapter 332: Files on the Net
@@ -58961,8 +58687,6 @@ Count the twelfth of December.
 The network was already there.
 The pointing was not.
 
-Stand.
-
 
 # Chapter 333: The Morning Trains
 
@@ -59074,8 +58798,6 @@ Refuse the consolation that a form of words
 Had already saved the people on the train,
 And the consolation that striking the corporation
 From the register gave the dead back their morning.
-
-Stand.
 
 
 # Chapter 334: The White Face
@@ -59222,8 +58944,6 @@ Count three animals in the making.
 The ordinary way a lamb is two parents
 Is not the way this one was made.
 
-Stand.
-
 
 # Chapter 335: The Nineteenth Move
 
@@ -59361,8 +59081,6 @@ The Sunday the New York score was one to one,
 And the Sunday of the nineteenth move.
 Refuse the consolation that he lost for being a fool,
 And the consolation that a score had become a soul.
-
-Stand.
 
 
 # Chapter 336: The Two Digits
@@ -59513,8 +59231,6 @@ And the two counts of when a century ends.
 Refuse the consolation that a clock is only a number,
 And the consolation that a morning without a ruin
 Has already judged the ones who read the dates.
-
-Stand.
 
 ---
 
@@ -59670,8 +59386,6 @@ Has already been judged true,
 And the consolation that a degree, on the older book,
 Had already judged the open one empty.
 
-Stand.
-
 
 # Chapter 338: The Middle Hour
 
@@ -59777,8 +59491,6 @@ And the consolation that the prayer was only politics.
 The counts are not chosen.
 The way is not set down.
 
-Stand.
-
 
 # Chapter 339: Not Completely Complete
 
@@ -59872,8 +59584,6 @@ And the two rates of error.
 Refuse the consolation that finished means every letter,
 And the consolation that a reference
 Has already read a life.
-
-Stand.
 
 
 # Chapter 340: A Friend of a Friend
@@ -60025,8 +59735,6 @@ Neither sentence is a trick.
 His week and the college's spring are not one clock.
 The counts are not chosen.
 
-Stand.
-
 
 # Chapter 341: The Page Shown
 
@@ -60173,8 +59881,6 @@ The limit on the excerpt is a care.
 They are not the same care.
 The counts are not chosen.
 
-Stand.
-
 
 # Chapter 342: One Device
 
@@ -60311,8 +60017,6 @@ And to hold the letter's sentence about trust
 Beside the cut the letter does not repay in full.
 The page on the web is not the later shop.
 The counts are not chosen.
-
-Stand.
 
 
 # Chapter 343: The Typed Name
@@ -60464,8 +60168,6 @@ The sender of the spit chose.
 The names on the film did not, in this chapter, ask.
 The counts are not chosen.
 
-Stand.
-
 
 # Chapter 344: Instead of Trust
 
@@ -60572,8 +60274,6 @@ And to hold the people who lost the houses
 Apart from the law and apart from the block.
 The counts are not chosen.
 The way is not set down.
-
-Stand.
 
 
 # Chapter 345: Takes Note
@@ -60725,8 +60425,6 @@ The aim from being taken for the survival,
 And the people in the path of the water
 From being taken for a degree on a page.
 
-Stand.
-
 
 # Chapter 346: The Square and the Cooling
 
@@ -60836,8 +60534,6 @@ The shutdown from being taken for the cooling,
 And the night in the square
 From being taken for the years after it.
 
-Stand.
-
 
 # Chapter 347: The Second Place
 
@@ -60913,8 +60609,6 @@ The striving is to keep the score from being taken for the seeing,
 The label from being taken for the thing,
 And the people who typed the labels
 From being left out of the count.
-
-Stand.
 
 
 # Chapter 348: The Numbered Thing
@@ -61002,8 +60696,6 @@ The statement from being taken for the truth,
 And the line in the graph
 From being taken for the blood.
 
-Stand.
-
 
 # Chapter 349: Not Wittingly
 
@@ -61090,8 +60782,6 @@ The denial from being taken for the pipes,
 And the man in the airport
 From being taken for either a saint or a traitor
 Before the record is read.
-
-Stand.
 
 
 # Chapter 350: The Borrowed Robe
@@ -61185,8 +60875,6 @@ The rule from being taken for the first century,
 And the Yazidis
 From being taken for a people without a past.
 
-Stand.
-
 
 # Chapter 351: Move Seventy-Eight
 
@@ -61274,8 +60962,6 @@ The seventy-eighth from being taken for a miracle,
 And the man who left the room
 From being taken for the one who lost the game.
 
-Stand.
-
 
 # Chapter 352: Again
 
@@ -61360,8 +61046,6 @@ Again from being taken for a promise,
 And the crowd that came
 From being taken for everyone.
 
-Stand.
-
 
 # Chapter 353: All You Need
 
@@ -61439,8 +61123,6 @@ The striving is to keep the weighing from being taken for understanding,
 The score from being taken for the poem,
 And the eight in random order
 From being sorted into one.
-
-Stand.
 
 
 # Chapter 354: The Shell and the Two Fields
@@ -61527,8 +61209,6 @@ The halls from being taken for the rite,
 And the oldest thing in the year
 From being taken for a costume.
 
-Stand.
-
 
 # Chapter 355: The Weekly Verses
 
@@ -61611,8 +61291,6 @@ The argued count from being taken for a false one,
 And the days without names
 From staying nameless.
 
-Stand.
-
 
 # Chapter 356: The Message and the Gate
 
@@ -61691,8 +61369,6 @@ The striving is to keep the fast from being taken for the careless,
 The last plane from being taken for the last person,
 And the year the book was silent
 From being taken for a year when nothing happened.
-
-Stand.
 
 
 # Chapter 357: The Longest Night
@@ -61776,8 +61452,6 @@ The striving is to keep the special operation from being taken for its name,
 The even voice from being taken for the truth,
 And the longest night
 From being taken for the last.
-
-Stand.
 
 
 # Chapter 358: Carried Past the Border
@@ -61867,8 +61541,6 @@ The striving is to keep the support from being taken for membership,
 The name from being taken for the forest,
 And the closing without a successor
 From being taken for the end of the kami.
-
-Stand.
 
 
 # Chapter 359: The Weights Given Out
@@ -61962,8 +61634,6 @@ The law in force from being taken for a law applied,
 And what was yanked away
 From being taken for what was never held.
 
-Stand.
-
 
 # Chapter 360: The Hand That Acts
 
@@ -62049,8 +61719,6 @@ The striving is to keep the step from being taken for the will,
 The saying from being taken for the checking,
 And the miserable year
 From being taken for the last one.
-
-Stand.
 
 
 # Chapter 361: The Well-Documented Year
@@ -62142,8 +61810,6 @@ The prince from being taken for the better ancestor,
 And the coincidence
 From being taken for either nothing or a proof.
 
-Stand.
-
 
 # Chapter 362: Still in It
 
@@ -62229,8 +61895,6 @@ The blank from being taken for the end,
 And the hand on the page
 From letting go too soon.
 
-Stand.
-
 
 # Chapter 363: The Waking
 
@@ -62313,8 +61977,6 @@ The striving is to keep the hope from being taken for the method,
 The date from being taken for the home,
 And the one at the bedside
 From being taken for a stranger.
-
-Stand.
 
 
 # Chapter 364: Milkdromeda
@@ -62399,5 +62061,3 @@ The striving is to keep the even odds from being taken for certainty,
 The meeting from being taken for an ending,
 And the last day of the year
 From being taken for the last day.
-
-Stand.

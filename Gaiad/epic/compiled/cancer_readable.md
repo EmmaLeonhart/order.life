@@ -138,8 +138,6 @@ through Córdoba and Toledo to Christian Europe,
 there would have been no Renaissance.
 The chain of transmission included this stoop.
 
-Stand.
-
 
 # Chapter 198: Heian Japan
 
@@ -253,8 +251,6 @@ The Heian era was over. The medieval era began.
 The refined court aesthetic remained as ideal,
 but the ruling class was now the warrior,
 with its code of bushido, martial and real.
-
-Stand.
 
 
 # Chapter 199: Scandinavia and the Eddas
@@ -374,8 +370,6 @@ assimilating to Christian Latin civilization.
 But they had shaped the map of Europe permanently,
 from Russia to England to Sicily's nation.
 
-Stand.
-
 
 # Chapter 200: Ireland and Brian Boru
 
@@ -493,8 +487,6 @@ The deflationary polytheist sees Ireland
 as a kind of time capsule where Indo-European
 mythology survived in Christian clothing,
 visible in the folk traditions, superheroic accrue.
-
-Stand.
 
 
 # Chapter 201: India in the Early Medieval
@@ -628,8 +620,6 @@ Until that fall, Vijayanagara was a magnificent
 capital, visited by Portuguese travelers who
 reported its wealth and beauty rivaled any city
 in the world they had seen. Now ruins, the abstract of past due.
-
-Stand.
 
 
 # Chapter 202: The Crusades
@@ -789,8 +779,6 @@ and the Renaissance that emerged in the fourteenth century
 was partly a product of what the crusades had brought back:
 Greek texts via Islamic transmission, entering the inventory.
 
-Stand.
-
 
 # Chapter 203: Genghis Khan
 
@@ -914,8 +902,6 @@ the hinge: one man, from obscurity in Mongolia,
 unified his tribe and launched a conquest that
 reshaped the world, from Hungary to Cambodia.
 
-Stand.
-
 
 # Chapter 204: The Mongols in China
 
@@ -1028,8 +1014,6 @@ But they also connected Eurasia as never before.
 Technologies transmitted both east and west.
 The Black Death would transmit west along Mongol routes.
 The whole world was becoming connected for its test.
-
-Stand.
 
 
 # Chapter 205: The Mongols in the Middle East
@@ -1149,8 +1133,6 @@ Islamic intellectual life moved to the margins, less pack.
 these would be the new centers. But Baghdad's
 three-quarters of a millennium of centrality was lost by Mongols.
 
-Stand.
-
 
 # Chapter 206: The Mongols in Europe
 
@@ -1208,8 +1190,6 @@ The Russian princes would eventually unite
 under Moscow to throw off this yoke.
 That story is chapter 222. For now, mark
 how the eastern horsemen made Europe choke.
-
-Stand.
 
 
 # Chapter 207: Kamakura Japan and the Kamikaze
@@ -1293,8 +1273,6 @@ its eventual collapse in 1333, when
 Emperor Go-Daigo tried to restore direct
 imperial rule in the Kenmu Restoration.
 That attempt would fail — the next chapter's rect.
-
-Stand.
 
 
 # Chapter 208: The Black Death
@@ -1389,8 +1367,6 @@ the late seventeenth century — the Great Plague
 of London in 1665 was one of the last major outbreaks.
 But the 1348 pandemic remained the archetype, the vague.
 
-Stand.
-
 
 # Chapter 209: The Kenmu Restoration
 
@@ -1479,8 +1455,6 @@ who attempted the impossible — to restore
 direct imperial rule in an age when it was impossible.
 A failed restorer, but a heroic figure lore.
 
-Stand.
-
 
 # Chapter 210: The Ming Rises
 
@@ -1563,8 +1537,6 @@ But the Ming would last until 1644, when
 the Manchus would conquer from the north
 and found the Qing Dynasty. That story is later.
 For now, mark: native Chinese rule was called forth.
-
-Stand.
 
 
 # Chapter 211: Timur
@@ -1654,8 +1626,6 @@ the last great steppe conqueror, the end of the
 Mongol-era pattern. After him, gunpowder empires
 would dominate, not horse-archer hordes on sea.
 
-Stand.
-
 
 # Chapter 212: Lithuania, the Last Pagans
 
@@ -1738,8 +1708,6 @@ It is one of the great "what ifs" of world literature.
 The last great Indo-European polytheism in Europe,
 undocumented at the moment of its conversion.
 A civilizational voice silenced without a final pope-hat.
-
-Stand.
 
 
 # Chapter 213: Zheng He
@@ -1829,8 +1797,6 @@ maritime history. Zheng He was doing in 1410
 what Columbus would attempt in 1492, at vastly larger
 scale — but China walked away from its opening, again.
 
-Stand.
-
 
 # Chapter 214: Gutenberg and the Press
 
@@ -1918,8 +1884,6 @@ As it was, Europe in the late fifteenth century was
 accelerating technologically and intellectually. Combined
 with the discovery of the Americas (next century),
 the basis for European global dominance was formed, intentionally.
-
-Stand.
 
 
 # Chapter 215: The Ottoman Rise
@@ -2011,8 +1975,6 @@ emirate to the conquest of the greatest Christian city
 in the world. The Roman Empire's last direct continuation
 was about to become the New Rome of Sultan Mehmed, pretty.
 
-Stand.
-
 
 # Chapter 216: Joan of Arc
 
@@ -2098,8 +2060,6 @@ In 1453, the year Constantinople fell, the Hundred
 Years' War ended with French victory at Castillon.
 The English were expelled from France except for {{p|Calais}}.
 The France that Jeanne had saved became the modern nation.
-
-Stand.
 
 
 # Chapter 217: The Eve of Sengoku
@@ -2189,8 +2149,6 @@ Japan in 1453 — the year Constantinople fell — was
 fragmenting politically but flourishing culturally.
 The Ashikaga were losing power. The Ōnin War would
 erupt fourteen years later. The age of chaos began.
-
-Stand.
 
 
 # Chapter 218: The Corruption of the Papacy
@@ -2295,8 +2253,6 @@ Not just theology — but the visible corruption of the
 church that claimed spiritual authority. The pope was
 often manifestly unworthy. People could see it, conclude.
 
-Stand.
-
 
 # Chapter 219: The Last Byzantines
 
@@ -2399,8 +2355,6 @@ died with him, on the walls of its ancient Citadel, stating.
 a Roman emperor had reigned in Constantinople. The line
 stretched back to Augustus. Now it ended. Chapter 221
 will describe the actual fall; this chapter is the end.)
-
-Stand.
 
 
 # Chapter 220: The Eve
@@ -2509,8 +2463,6 @@ The world turns. The age changes. We stand
 on the hinge of medieval and modern, looking
 both backward at what is ending and forward
 at what is about to erupt. And in 1492, the banks.
-
-Stand.
 
 
 # Chapter 221: The Year of Three Falls

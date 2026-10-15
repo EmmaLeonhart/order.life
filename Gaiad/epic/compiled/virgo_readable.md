@@ -175,8 +175,6 @@ The age of the chronicle ends. Here begins the age
 
 Of the reckoning.
 
-Stand.
-
 
 # Chapter 254: The Sea Joins the World
 
@@ -302,8 +300,6 @@ Hold all three. The sea joins. The world will never again be free
 
 Of the rest of the world.
 
-Stand.
-
 
 # Chapter 255: There Is No Hindu, There Is No Muslim
 
@@ -422,8 +418,6 @@ It is still the clearest thing said in this age.
 There is no Hindu. There is no Muslim. Sit on the floor. The bread is shown
 To all. Eat. Turn the page.
 
-Stand.
-
 
 # Chapter 256: The Red Heads
 
@@ -531,8 +525,6 @@ As if it had always been. And that the boy believed it.
 That is the hardest part. He was not lying. He was young
 And had been hidden, and was saved, and he received it:
 God's mystery, in the Turkish of his tongue.
-
-Stand.
 
 
 # Chapter 257: Here I Stand
@@ -642,12 +634,9 @@ Every reader, a priest. That was the promise and the danger.
 The register of souls the priests had kept would pass
 To the state. The book would pass to the stranger.
 
-And the Gaiad says, at the end of every chapter,
-The word he did not say and was remembered saying.
-Not *I can do no other*. Only the standing.
+Hold the one sentence that was surely his, before the printing:
+Unless I am convinced, I cannot. The rest is the printers' saying.
 A conscience in a hall. The press. The hymn. The praying.
-
-Stand.
 
 
 # Chapter 258: The Lawgiver's Register
@@ -747,8 +736,6 @@ Not only in the guns. In the page that says who you are.
 A faith as an address. A people as a column.
 Hold the gift and the wound in the one ledger. Here we are.
 
-Stand.
-
 
 # Chapter 259: The Register of Every Soul
 
@@ -842,8 +829,6 @@ In a cold church, with a quill, writing a name.
 Honor him. He did not know what he was making. One day
 Someone would read his hand, and say: there, that is where I came.
 
-Stand.
-
 
 # Chapter 260: The Earth Leaves the Centre
 
@@ -936,8 +921,6 @@ Learned the new sky, and it was not a loss.
 We are travelling. We were always travelling. The year
 Is a journey round a star, and the cross
 Of the seasons is our orbit. Count it, and be glad to be here.
-
-Stand.
 
 
 # Chapter 261: The Farmers at Bure
@@ -1033,8 +1016,6 @@ That a king's clerk had given them, in wax
 And ink, the one thing the old sagas could never:
 
 A date.
-
-Stand.
 
 
 # Chapter 262: The Great Sun and the Dead
@@ -1134,8 +1115,6 @@ The names are kept. The dead are not condemned.
 Read them out this new year, every word,
 And let the Great Sun rise on all of them.
 
-Stand.
-
 
 # Chapter 263: The House of Worship
 
@@ -1224,8 +1203,6 @@ And would not stop listening. Learn from the room
 He built for every faith, and from its emptiness. The seed
 Needs ground. Plant it in the days, not in the throne. Not in the tomb.
 
-Stand.
-
 
 # Chapter 264: The Scholar from the Western Sea
 
@@ -1313,8 +1290,6 @@ Of the accommodation came. But hold the full moon now.
 A man from the far west learned the classics by heart, and sat
 At the Chinese table, and did not ask the dead to leave. The vow
 Of the moon festival is reunion. Set the place. Keep that.
-
-Stand.
 
 
 # Chapter 265: The Monkey and the Hill of Crosses
@@ -1409,8 +1384,6 @@ Remember the boy who asked which cross was his.
 Remember the peasant who climbed, and pulled the ladder up, the same
 Man, the same hand. The dew falls. That is what is.
 
-Stand.
-
 
 # Chapter 266: The One Who Waited
 
@@ -1498,8 +1471,6 @@ The world through one window, and made him a samurai, and let no one leave.
 The patient man waited, and the bird sang, and the song
 Was long and beautiful and the same. Grieve
 And give thanks. The pillar held. It held too long.
-
-Stand.
 
 
 # Chapter 267: The Company
@@ -1594,8 +1565,6 @@ By strangers who never had to see the hills
 Where the people starved. Own your shares in the shade
 Of that question. Ask what the ledger kills.
 
-Stand.
-
 
 # Chapter 268: The Rune-Keeper
 
@@ -1689,8 +1658,6 @@ Kept the stones and the dream, and did not tell them apart.
 His heir will. That is the vow: to be the keeper and the reaper
 Of both, and to show the seam. Draw the stone. Know the heart.
 
-Stand.
-
 
 # Chapter 269: The Sky Opens
 
@@ -1778,8 +1745,6 @@ Is not undone. What was refused is not refused now.
 Open the sky. Look. Let the evidence come in the window.
 And when you are the one who was wrong, take the vow
 He was never given: say so. Not in a whisper. Say it, and let it go.
-
-Stand.
 
 
 # Chapter 270: The King of the Goths
@@ -1869,8 +1834,6 @@ On view, and teaches its children: this is what pride
 Does to a keel. That is a better myth than Berik. The deck
 Is the lesson. Stand on the quay. The water is on every side.
 
-Stand.
-
 
 # Chapter 271: Two Fingers
 
@@ -1943,8 +1906,6 @@ As your fathers prayed, if you can, and change what must change,
 And never burn anyone over the fingers of a hand.
 The Old Believers are still in {{p|Russia}}, and in {{p|Alaska}}, and in the strange
 Green valleys of {{p|Oregon}}. Two fingers raised. They stand.
-
-Stand.
 
 
 # Chapter 272: The Sabbath of Sabbaths
@@ -2029,8 +1990,6 @@ That we lay down the sword and go home and plant the field
 That the armies burned. Atone. Go to the one you wronged. Drop
 The argument about the door. Sign. And let the land be healed.
 
-Stand.
-
 
 # Chapter 273: The Closed Country and the Temple Book
 
@@ -2113,8 +2072,6 @@ For the foot on the image, and grateful for the page
 That says a fisher's daughter lived, and married, and had two sons, and died,
 In a village whose name you would never have known. The age
 Of the locked country kept her. Read her. She is on our side.
-
-Stand.
 
 
 # Chapter 274: Our Hearts Are the Same as Yours
@@ -2209,8 +2166,6 @@ Of the register. Honor the boy on the wall of {{p|Hara}}. Honor
 The woman at {{p|Ōura}}. Honor what is kept when the priests die, the keeper and the corner
 Where it was kept. Where is the image of Santa Maria? Here. Our hearts are the same.
 
-Stand.
-
 
 # Chapter 275: The Mandate Changes Hands
 
@@ -2301,8 +2256,6 @@ The Mandate goes. Feed the people. Then look
 
 At the rites.
 
-Stand.
-
 
 # Chapter 276: The Confluence of the Two Seas
 
@@ -2386,8 +2339,6 @@ Sit with the sages. Do not cut off the head
 Of the brother who found the same ocean in another's daughter
 Faith. The two seas meet. Let them. Let the river be fed.
 
-Stand.
-
 
 # Chapter 277: Take Nobody's Word for It
 
@@ -2470,8 +2421,6 @@ Of scripture this book is making must keep the same rule.
 Do not believe the Gaiad because it is scripture. Check it.
 Repeat it. Where it dreams, it says so. Where it errs, the tool
 Of correction is open to anyone. That is the oath. Respect it.
-
-Stand.
 
 
 # Chapter 278: The Barrels Stayed Packed
@@ -2566,8 +2515,6 @@ And never stop leaving the roof open to the stars.
 Rejoice in the booth. The branches are curled
 Over your head, and they let the light through the bars.
 
-Stand.
-
 
 # Chapter 279: One Law for the Apple and the Moon
 
@@ -2656,8 +2603,6 @@ The universe is one law. And the ocean is still there.
 Pick up a shell. Check it. Keep your dreams in a box, labelled. And sing
 For the orchard where the plague sent a boy, and he looked up, and saw it there.
 
-Stand.
-
 
 # Chapter 280: One and Nothing
 
@@ -2740,5 +2685,3 @@ Of his *best of all possible worlds*. Let him. The one and the nothing
 Are in every phone. Every message to the ones you love goes in them.
 Tomorrow begins Libra: the Rites, the reckoning, the clothing
 Of the Enlightenment. From one and nothing, the world. Hold the hem.
-
-Stand.

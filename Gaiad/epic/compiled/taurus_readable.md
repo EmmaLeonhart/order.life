@@ -133,8 +133,6 @@ Silhouettes going two ways. The father, alone.
 Q goes east. R goes west. The lake stays true.
 Paikal. The deepest water. The crossroads stone.
 
-                                    Stand.
-
 
 # Chapter 142: Manu and Yemo — R and the Yamnaya
 
@@ -336,7 +334,7 @@ World.
 The myth and the haplogroup are the same story, told twice—once
 In the grammar of genealogy, once in the grammar of myth.
 
-R. The Yamnaya. The boomerang. The Indo-European. Stand.
+R. The Yamnaya. The boomerang. The Indo-European.
 
 
 # Chapter 143: E — Returns to Africa
@@ -534,7 +532,7 @@ Every major haplogroup represented in multiple places, and with
 E closing the loop by carrying a branch of the out-of-Africa
 Lineage back to the continent it had left.
 
-E. {{p|Africa}}. The return. The loop. Stand.
+E. {{p|Africa}}. The return. The loop.
 
 And with this chapter, the haplogroup sequence is complete.
 Fourteen chapters. Fourteen haplogroups. One great branching tree.
@@ -698,8 +696,6 @@ After {{p|Göbekli Tepe}}. The first warning voice.
 
 The first loss. The first civilization
 Whose name is gone, in the Gaiad's human age.
-
-                                    Stand.
 
 
 # Chapter 145: The Old Kingdom — Pyramids at Giza
@@ -928,7 +924,7 @@ Fragmented, and the pyramids were left to weather in the sun, the
 Civilization did not die—it only paused, and reassembled, and
 Continued. The pyramids remain as witnesses.
 
-{{p|Old Kingdom}}. The pyramids. Khufu, Khafre, Menkaure. Stand.
+{{p|Old Kingdom}}. The pyramids. Khufu, Khafre, Menkaure.
 
 
 # Chapter 146: The Akkadian Empire
@@ -1150,7 +1146,7 @@ Empire last. {{p|Akkad}}. {{p|Ur III}}. {{p|Old Babylon}}. {{p|Assyria}}. {{p|Ne
 Empire. Each inheriting the template Sargon had established.
 Each, eventually, falling. The cycle begins here.
 
-Sargon. {{p|Akkad}}. The first empire. Stand.
+Sargon. {{p|Akkad}}. The first empire.
 
 
 # Chapter 147: Stonehenge
@@ -1366,7 +1362,7 @@ Astronomical calendar that still works. The monument that outlived
 Its builders, its culture, and its language, and still stands,
 Weathered and whole, on the {{p|Salisbury Plain}} in the evening light.
 
-{{p|Stonehenge}}. The stone circle. The solstice calendar. Stand.
+{{p|Stonehenge}}. The stone circle. The solstice calendar.
 
 
 # Chapter 148: Minoan Crete
@@ -1577,7 +1573,7 @@ Civilization of the {{p|Aegean}}, wrecked by a volcano and absorbed
 By the {{p|Mycenaeans}}, but surviving—in fragments, in images, in
 The substrate of later {{p|Greek}} mythology—into the present.
 
-{{p|Minoan Crete}}. {{p|Knossos}}. {{p|Linear A}} unread. Stand.
+{{p|Minoan Crete}}. {{p|Knossos}}. {{p|Linear A}} unread.
 
 
 # Chapter 149: Yamnaya — The Steppe Breaks Europe
@@ -1794,7 +1790,7 @@ Sky-father. The patriarchal warrior band. The replacement of old
 Europe with new Europe. The cultural package that made the world
 We still live in. And the grave of the world we replaced.
 
-{{p|Yamnaya}}. The steppe expansion. The Indo-European arrival. Stand.
+{{p|Yamnaya}}. The steppe expansion. The Indo-European arrival.
 
 
 # Chapter 150: The Yellow Emperor
@@ -2015,7 +2011,7 @@ Subsequent upheaval, until the present day.
 
 Huangdi. The Yellow Emperor. {{p|China}}'s mythic founder.
 The culture-hero of the {{p|Yellow River}}. The ancestor claimed
-By a hundred generations of {{p|Chinese}} civilization. Stand.
+By a hundred generations of {{p|Chinese}} civilization.
 
 
 # Chapter 151: Neo-Sumerian Empire and Abraham
@@ -2232,7 +2228,7 @@ The J-haplogroup figure at the junction of J1 and J2. The
 Ancestor of Isaac and Ishmael, of {{p|Israel}} and of {{p|Ishmaelite}}
 {{p|Arabia}}, of {{p|Judaism}} and {{p|Christianity}} and {{p|Islam}}. The most
 Consequential religious figure in the biblical tradition between
-Noah and Moses. Stand.
+Noah and Moses.
 
 And the {{p|Neo-Sumerian}} empire, whose collapse made his journey
 Possible, falls into history. {{p|Ur}} is burned. The ziggurat is
@@ -2242,7 +2238,7 @@ The collapse, the patriarch of the monotheistic religions takes
 His first steps toward {{p|Canaan}}. The {{p|Neo-Sumerian}} ending is
 The {{p|Abrahamic}} beginning. Both happen in the same twenty-first
 Century BCE. Both are, in their different ways, the end of one
-Era and the start of another. Stand.
+Era and the start of another.
 
 
 # Chapter 152: Hammurabi — Law and the Old Babylonian Empire
@@ -2444,7 +2440,7 @@ The sun-god, receiving the law. The law still legible. The king
 
 Still legible. The empire long gone.
 
-Hammurabi. {{p|Babylon}}. The {{p|Code}}. Stand.
+Hammurabi. {{p|Babylon}}. The {{p|Code}}.
 
 
 # Chapter 153: The Middle Kingdom
@@ -2666,7 +2662,7 @@ To the {{p|Levant}}. The {{p|Canaanite}} presence in the delta. The classical
 
 Age of {{p|Egyptian}} civilization.
 
-{{p|Middle Kingdom}}. {{p|Egypt}} restored. Stand.
+{{p|Middle Kingdom}}. {{p|Egypt}} restored.
 
 
 # Chapter 154: Jacob, Joseph, and the Hyksos
@@ -2898,8 +2894,6 @@ Jacob. Joseph. The {{p|Hyksos}}. The {{p|Canaanite}} welcome in the delta.
 The moment of prosperity before the reversal. The J-haplogroup
 {{p|Semitic}} population flourishing under foreign-dynasty patronage
 In a cosmopolitan {{p|Egypt}}. The twelve sons. The prophecies. The tent.
-
-Stand.
 
 
 # Chapter 155: The Aryan Migration
@@ -3154,7 +3148,7 @@ A central deity of the new synthesis. The civilization that
 Would compose the {{p|Mahabharata}} and the {{p|Bhagavad Gita}} and
 The {{p|Upanishads}} is taking shape in this period.
 
-{{p|Aryan Migration}}. {{p|India}}. The synthesis. Stand.
+{{p|Aryan Migration}}. {{p|India}}. The synthesis.
 
 
 # Chapter 156: The New Kingdom
@@ -3379,7 +3373,7 @@ Would eventually bring the Bronze Age itself crashing down.
 
 {{p|New Kingdom}}. Hatshepsut. Thutmose III. Akhenaten. Ramesses II.
 The {{p|Egyptian}} Empire. The {{p|Kadesh Peace Treaty}}. The persecution of
-The {{p|Israelites}}. The glories before the collapse. Stand.
+The {{p|Israelites}}. The glories before the collapse.
 
 
 # Chapter 157: The Hittites
@@ -3602,7 +3596,7 @@ Of a lost civilization from its hidden tablets.
 
 {{p|Hittites}}. {{p|Hattusa}}. {{p|Kadesh}}. The R1b-haplogroup empire of
 {{p|Anatolia}}. The northern pole of Bronze Age political order. The
-Forgotten and rediscovered empire. Stand.
+Forgotten and rediscovered empire.
 
 
 # Chapter 158: The Mycenaeans
@@ -3834,7 +3828,7 @@ The foundation of {{p|Greek}} identity that would be preserved through
 The {{p|Dark Age}} in oral poetry and recovered, in attenuated form,
 When Homer sang the songs that became the {{p|Iliad}} and {{p|Odyssey}}.
 
-{{p|Mycenaeans}}. Agamemnon's kingdom. {{p|Troy}}'s rival. Stand.
+{{p|Mycenaeans}}. Agamemnon's kingdom. {{p|Troy}}'s rival.
 
 
 # Chapter 159: The Ramayana
@@ -4133,7 +4127,6 @@ That thought itself as one world.
                                      The {{p|Ramayana}}. Eastern reflex
 Of the shared narrative. The great swerve that acknowledges
 Humanity's unity at the moment of greatest apparent fragmentation.
-Stand.
 
 
 # Chapter 160: Exodus, Trojan War, Bronze Age Collapse
@@ -4422,8 +4415,6 @@ Integrated Bronze Age world.
 Three names. One crisis. One birthing. The next three millennia
 Of human civilization shaped in the rubble.
 
-Stand.
-
 
 # Chapter 161: Fall of Shang
 
@@ -4684,7 +4675,7 @@ Lost mandate and the new dynasty. The {{p|Middle Kingdom}} defining
 Itself as center of the world. The eight-hundred-year reign.
 
 Fall of {{p|Shang}}. Rise of {{p|Zhou}}. {{p|China}}'s Bronze Age ending and its
-Classical age beginning. Stand.
+Classical age beginning.
 
 
 # Chapter 162: The Bantu Expansion
@@ -5003,8 +4994,6 @@ One linguistic family. The grand demographic movement that
 Completes what the first out-of-{{p|Africa}} migrations began: the
 Filling of the continent by its final and largest population.
 
-Stand.
-
 
 # Chapter 163: Zarathustra
 
@@ -5305,7 +5294,7 @@ With enormous theological consequences.
 
                                            Zarathustra. The first
 Prophet of the Axial Age. The reformer of {{p|Indo-Iranian}} religion.
-The invisible ancestor of {{p|Western}} monotheism. Stand.
+The invisible ancestor of {{p|Western}} monotheism.
 
 
 # Chapter 164: David
@@ -5588,7 +5577,7 @@ Millennia of prayer.
 Human complexity opened space for a new kind of political and
 
 Religious imagination. The ancestor, by flesh or by adoption,
-Of every messianic hope. Stand.
+Of every messianic hope.
 
 
 # Chapter 165: Classical Greece, Part One
@@ -5960,8 +5949,6 @@ And Thucydides. The cultural hothouse taking shape.
 Classical {{p|Greece}}, part one. The preparation. The rise of a
 Civilization that would shape all of {{p|Western}} thought.
 
-Stand.
-
 
 # Chapter 166: Assyria and Babylon
 
@@ -6293,7 +6280,7 @@ Astronomer-priests. The library of Ashurbanipal, preserving
 {{p|Gilgamesh}} in its ashes. The template of text-centered religion.
 
 {{p|Assyria}} and {{p|Babylon}}. The {{p|Mesopotamian}} twilight. The catastrophe
-That produced {{p|Judaism}}. Stand.
+That produced {{p|Judaism}}.
 
 
 # Chapter 167: The Babylonian Exile and the Birth of Monotheism
@@ -6662,8 +6649,6 @@ The exile as crucible. The crushing defeat that forged a new
 Theological imagination. The catastrophe that produced the
 Vocabulary of half the world's religions.
 
-Stand.
-
 
 # Chapter 168: The Persian Empire
 
@@ -6963,5 +6948,3 @@ Ancient world. The foundation beneath {{p|Western}} and {{p|Eastern}}
 
 Political imagination alike. The conquering empire that was also
 The civilizing empire.
-
-Stand.

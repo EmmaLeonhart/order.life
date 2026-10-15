@@ -149,8 +149,6 @@ With a signal, and a rule that the way there equals the way back.
 Make it. Say which frame you made it in.
 Do not pretend the sky held it before you did.
 
-Stand.
-
 
 # Chapter 310: The Round Altar
 
@@ -261,8 +259,6 @@ Public still has the dead in it.
 The round altar is still south of the city.
 The brick can stand with no emperor on it.
 The names do not need that brick in order to be kept.
-
-Stand.
 
 
 # Chapter 311: The Appointed Hour
@@ -386,8 +382,6 @@ It is not a body.
 The day keeps the hour they appointed,
 And the names the hour did not give back.
 
-Stand.
-
 
 # Chapter 312: The Old Style
 
@@ -509,8 +503,6 @@ And the paper hid the children.
 Keep the names. Keep the day the register you chose actually holds.
 A theory is not a calendar.
 A state that has been taken has not withered.
-
-Stand.
 
 
 # Chapter 313: The Caliph of the Muslims
@@ -661,8 +653,6 @@ The man they called caliph of the Muslims died without the name.
 Count the office closed on the day the law says.
 Keep the question. It was not in the statute.
 
-Stand.
-
 
 # Chapter 314: Finite Means
 
@@ -768,8 +758,6 @@ Count what the table writes.
 Keep the questions the table cannot close.
 Say which is the procedure and which is the question.
 Do not pretend the sky was running the tape before you wrote the table.
-
-Stand.
 
 
 # Chapter 315: A Hand and a Name
@@ -890,8 +878,6 @@ This chapter has the dates.
 The names are the work the law ordered,
 And they are not finished here.
 
-Stand.
-
 
 # Chapter 316: The Aim and the City
 
@@ -978,8 +964,6 @@ Do not pretend the cloud was a judgment.
 Do not pretend the clear morning was one either.
 Say which city. Say which hour.
 The dead are not the argument that closes the question.
-
-Stand.
 
 
 # Chapter 317: The Plugs and the Point
@@ -1099,8 +1083,6 @@ Say which afternoon the point worked.
 Say which year the name existed.
 The machine did not choose the cities.
 The crystal did not choose its use.
-
-Stand.
 
 
 # Chapter 318: The Same Footing
@@ -1222,8 +1204,6 @@ Count the rescript on the first of January.
 Count the office on the third of February.
 The kami are not an article in any of the three.
 
-Stand.
-
 
 # Chapter 319: None Against
 
@@ -1329,8 +1309,6 @@ Count the declaration before midnight on the tenth of December.
 The articles are not the dead.
 The dead are not thereby left off the work of naming.
 
-Stand.
-
 
 # Chapter 320: The Recommendation
 
@@ -1424,8 +1402,6 @@ Count the vote on the twenty-ninth of November.
 Count the scroll on the fourteenth of May.
 The map of the plan and the map of the fighting
 Are not the same map.
-
-Stand.
 
 
 # Chapter 321: The Suggested Copy
@@ -1532,8 +1508,6 @@ The new sentence is the shape, and the copy the shape allows.
 A shape is not a commandment.
 The dead of the prize's year are not this chapter.
 Franklin's measurement is.
-
-Stand.
 
 
 # Chapter 322: The Published Frequency
@@ -1670,8 +1644,6 @@ Count seven, five, and three.
 The sphere came down.
 The rite is still kept.
 
-Stand.
-
 
 # Chapter 323: The Mother Tongue
 
@@ -1803,8 +1775,6 @@ In these years the tongue of the reading
 And the tongue of the prayer the priest said alone
 Were not the same tongue.
 
-Stand.
-
 
 # Chapter 324: The Master in the Mountain
 
@@ -1927,8 +1897,6 @@ The book stays in its archive.
 The question the rite asks
 Is not answered by the stone.
 
-Stand.
-
 
 # Chapter 325: Left as a Museum
 
@@ -2029,8 +1997,6 @@ Count the grave in the last days of November.
 The name of a tradition and the stone of a grave
 Are not the same thing.
 The year struck at both.
-
-Stand.
 
 
 # Chapter 326: The Eagle and the Two Letters
@@ -2173,8 +2139,6 @@ The reason is what the people do with the path,
 And what they refuse to call a peace
 When the plaque has said the word
 And the year has not finished saying it.
-
-Stand.
 
 
 # Chapter 327: As Far as a New Time
@@ -2325,8 +2289,6 @@ That limit is the striving.
 A list can hold a name. It cannot hold the years since the assembly,
 And it cannot make those years nothing.
 
-Stand.
-
 
 # Chapter 328: As of 1979
 
@@ -2431,8 +2393,6 @@ Count the communique on the twenty-second of December.
 Count the landing on the first of February.
 The map of the work and the map of the state
 Are not the same map.
-
-Stand.
 
 
 # Chapter 329: The Covenant of Peace
@@ -2578,8 +2538,6 @@ Do not say that sentence had made the harvest impossible.
 A broken offering and a full one are not the same rite.
 Both are a thanks.
 A thanks is not yet the peace it names.
-
-Stand.
 
 
 # Chapter 330: The Source Book
@@ -2733,8 +2691,6 @@ Count ten million letters as the five years' aim.
 Count the whole book as a term the plan named,
 And this morning did not reach.
 
-Stand.
-
 
 # Chapter 331: Now Ceases
 
@@ -2867,8 +2823,6 @@ The end of the register is not the good delivered.
 It is not a proof the good was only a machine.
 Do not say the idea ended because the flag came down.
 A later war is not this December.
-
-Stand.
 
 
 # Chapter 332: Files on the Net
@@ -3007,8 +2961,6 @@ Count the twelfth of December.
 The network was already there.
 The pointing was not.
 
-Stand.
-
 
 # Chapter 333: The Morning Trains
 
@@ -3120,8 +3072,6 @@ Refuse the consolation that a form of words
 Had already saved the people on the train,
 And the consolation that striking the corporation
 From the register gave the dead back their morning.
-
-Stand.
 
 
 # Chapter 334: The White Face
@@ -3268,8 +3218,6 @@ Count three animals in the making.
 The ordinary way a lamb is two parents
 Is not the way this one was made.
 
-Stand.
-
 
 # Chapter 335: The Nineteenth Move
 
@@ -3407,8 +3355,6 @@ The Sunday the New York score was one to one,
 And the Sunday of the nineteenth move.
 Refuse the consolation that he lost for being a fool,
 And the consolation that a score had become a soul.
-
-Stand.
 
 
 # Chapter 336: The Two Digits
@@ -3559,5 +3505,3 @@ And the two counts of when a century ends.
 Refuse the consolation that a clock is only a number,
 And the consolation that a morning without a ruin
 Has already judged the ones who read the dates.
-
-Stand.

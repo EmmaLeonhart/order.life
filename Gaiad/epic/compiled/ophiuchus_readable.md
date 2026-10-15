@@ -150,8 +150,6 @@ Has already been judged true,
 And the consolation that a degree, on the older book,
 Had already judged the open one empty.
 
-Stand.
-
 
 # Chapter 338: The Middle Hour
 
@@ -257,8 +255,6 @@ And the consolation that the prayer was only politics.
 The counts are not chosen.
 The way is not set down.
 
-Stand.
-
 
 # Chapter 339: Not Completely Complete
 
@@ -352,8 +348,6 @@ And the two rates of error.
 Refuse the consolation that finished means every letter,
 And the consolation that a reference
 Has already read a life.
-
-Stand.
 
 
 # Chapter 340: A Friend of a Friend
@@ -505,8 +499,6 @@ Neither sentence is a trick.
 His week and the college's spring are not one clock.
 The counts are not chosen.
 
-Stand.
-
 
 # Chapter 341: The Page Shown
 
@@ -653,8 +645,6 @@ The limit on the excerpt is a care.
 They are not the same care.
 The counts are not chosen.
 
-Stand.
-
 
 # Chapter 342: One Device
 
@@ -791,8 +781,6 @@ And to hold the letter's sentence about trust
 Beside the cut the letter does not repay in full.
 The page on the web is not the later shop.
 The counts are not chosen.
-
-Stand.
 
 
 # Chapter 343: The Typed Name
@@ -944,8 +932,6 @@ The sender of the spit chose.
 The names on the film did not, in this chapter, ask.
 The counts are not chosen.
 
-Stand.
-
 
 # Chapter 344: Instead of Trust
 
@@ -1052,8 +1038,6 @@ And to hold the people who lost the houses
 Apart from the law and apart from the block.
 The counts are not chosen.
 The way is not set down.
-
-Stand.
 
 
 # Chapter 345: Takes Note
@@ -1205,8 +1189,6 @@ The aim from being taken for the survival,
 And the people in the path of the water
 From being taken for a degree on a page.
 
-Stand.
-
 
 # Chapter 346: The Square and the Cooling
 
@@ -1316,8 +1298,6 @@ The shutdown from being taken for the cooling,
 And the night in the square
 From being taken for the years after it.
 
-Stand.
-
 
 # Chapter 347: The Second Place
 
@@ -1393,8 +1373,6 @@ The striving is to keep the score from being taken for the seeing,
 The label from being taken for the thing,
 And the people who typed the labels
 From being left out of the count.
-
-Stand.
 
 
 # Chapter 348: The Numbered Thing
@@ -1482,8 +1460,6 @@ The statement from being taken for the truth,
 And the line in the graph
 From being taken for the blood.
 
-Stand.
-
 
 # Chapter 349: Not Wittingly
 
@@ -1570,8 +1546,6 @@ The denial from being taken for the pipes,
 And the man in the airport
 From being taken for either a saint or a traitor
 Before the record is read.
-
-Stand.
 
 
 # Chapter 350: The Borrowed Robe
@@ -1665,8 +1639,6 @@ The rule from being taken for the first century,
 And the Yazidis
 From being taken for a people without a past.
 
-Stand.
-
 
 # Chapter 351: Move Seventy-Eight
 
@@ -1754,8 +1726,6 @@ The seventy-eighth from being taken for a miracle,
 And the man who left the room
 From being taken for the one who lost the game.
 
-Stand.
-
 
 # Chapter 352: Again
 
@@ -1840,8 +1810,6 @@ Again from being taken for a promise,
 And the crowd that came
 From being taken for everyone.
 
-Stand.
-
 
 # Chapter 353: All You Need
 
@@ -1919,8 +1887,6 @@ The striving is to keep the weighing from being taken for understanding,
 The score from being taken for the poem,
 And the eight in random order
 From being sorted into one.
-
-Stand.
 
 
 # Chapter 354: The Shell and the Two Fields
@@ -2007,8 +1973,6 @@ The halls from being taken for the rite,
 And the oldest thing in the year
 From being taken for a costume.
 
-Stand.
-
 
 # Chapter 355: The Weekly Verses
 
@@ -2091,8 +2055,6 @@ The argued count from being taken for a false one,
 And the days without names
 From staying nameless.
 
-Stand.
-
 
 # Chapter 356: The Message and the Gate
 
@@ -2171,8 +2133,6 @@ The striving is to keep the fast from being taken for the careless,
 The last plane from being taken for the last person,
 And the year the book was silent
 From being taken for a year when nothing happened.
-
-Stand.
 
 
 # Chapter 357: The Longest Night
@@ -2256,8 +2216,6 @@ The striving is to keep the special operation from being taken for its name,
 The even voice from being taken for the truth,
 And the longest night
 From being taken for the last.
-
-Stand.
 
 
 # Chapter 358: Carried Past the Border
@@ -2347,8 +2305,6 @@ The striving is to keep the support from being taken for membership,
 The name from being taken for the forest,
 And the closing without a successor
 From being taken for the end of the kami.
-
-Stand.
 
 
 # Chapter 359: The Weights Given Out
@@ -2442,8 +2398,6 @@ The law in force from being taken for a law applied,
 And what was yanked away
 From being taken for what was never held.
 
-Stand.
-
 
 # Chapter 360: The Hand That Acts
 
@@ -2529,8 +2483,6 @@ The striving is to keep the step from being taken for the will,
 The saying from being taken for the checking,
 And the miserable year
 From being taken for the last one.
-
-Stand.
 
 
 # Chapter 361: The Well-Documented Year
@@ -2622,8 +2574,6 @@ The prince from being taken for the better ancestor,
 And the coincidence
 From being taken for either nothing or a proof.
 
-Stand.
-
 
 # Chapter 362: Still in It
 
@@ -2709,8 +2659,6 @@ The blank from being taken for the end,
 And the hand on the page
 From letting go too soon.
 
-Stand.
-
 
 # Chapter 363: The Waking
 
@@ -2793,8 +2741,6 @@ The striving is to keep the hope from being taken for the method,
 The date from being taken for the home,
 And the one at the bedside
 From being taken for a stranger.
-
-Stand.
 
 
 # Chapter 364: Milkdromeda
@@ -2879,5 +2825,3 @@ The striving is to keep the even odds from being taken for certainty,
 The meeting from being taken for an ending,
 And the last day of the year
 From being taken for the last day.
-
-Stand.
