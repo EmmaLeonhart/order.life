@@ -153,6 +153,9 @@ def given_name(row):
     return ""
 
 
+PAGE_NAME = {}   # qid -> the name its /gaiad/characters/ page is built from
+
+
 def load_gaiad_citations():
     """qid -> [(chapter, stanza, line)] from the rebuilt Gaiad/genealogy files (one person per file)."""
     import json
@@ -166,6 +169,7 @@ def load_gaiad_citations():
         q = d.get("qid")
         if not q:
             continue
+        PAGE_NAME.setdefault(q, d.get("name"))
         seen = out.setdefault(q, [])
         for c in d.get("citations", []):
             t = (c["chapter"], c["stanza"], c["line"])
@@ -362,7 +366,7 @@ def build_gedcom7(out_path):
         with open(labels_path, encoding="utf-8", newline="") as fh:
             for r in csv.DictReader(fh, delimiter="\t"):
                 labels[r["qid"]].append((r["lang"], r["label"]))
-    n_indi = n_trans = n_lineage = n_cite = n_cal = 0
+    n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = 0
     for qid in sorted(persons, key=lambda q: int(q[1:]) if q[1:].isdigit() else 0):
         row = persons[qid]
         w(f"0 @I{qid}@ INDI")
@@ -438,6 +442,31 @@ def build_gedcom7(out_path):
             w(f"2 TYPE {WIKIDATA_URI}")
         ids = f"order.life {qid}; UID {uid}" + (f"; Wikidata {wd}" if wd else "")
         w(f"1 NOTE Gaiad person {ids}")
+        # Person notes (Emma, 2026-10-12: "a link to the order.life page on the individual, a link to their wiki
+        # item if present, a link to ... their family search and or [Geni] items if present ... It'll cite verses").
+        links = []
+        if qid in PAGE_NAME and PAGE_NAME[qid]:
+            slug = re.sub(r"[^a-zA-Z0-9_-]", "", PAGE_NAME[qid].replace(" ", "_")).lower()
+            if slug:
+                links.append(f"order.life https://order.life/gaiad/characters/{slug}/")
+        if wd:
+            links.append(f"Wikidata https://www.wikidata.org/wiki/{wd}")
+        geni = (row.get("geni_id") or "").strip()
+        if geni.isdigit():
+            links.append(f"Geni https://www.geni.com/profile/index/{geni}")
+        if links:
+            w(f"1 NOTE Links: {'; '.join(links)}")
+        cites = gaiad_cites.get(qid, [])
+        if cites:
+            ch, st, _ = cites[0]
+            k = len(cites)
+            w(f"1 NOTE In the Gaiad: first named in chapter {ch} (Gaiad {ch}.{st}); cited in {k} stanza{'s' if k != 1 else ''}.")
+            for lg, text in (("zh", f"在《盖亚德》中：首次出现于第{ch}章（Gaiad {ch}.{st}）；共有{k}节提及。"),
+                             ("ja", f"『ガイアド』では：第{ch}章（Gaiad {ch}.{st}）に初出、{k}連で言及。"),
+                             ("ko", f"《가이아드》에서: 제{ch}장(Gaiad {ch}.{st})에 처음 등장, {k}개 연에서 언급.")):
+                w(f"2 TRAN {text}")
+                w(f"3 LANG {lg}")
+            n_notes += 1
         w("1 SOUR @S1@")
         w(f"2 PAGE order.life genealogy, {qid}")
         for ch, st, line in gaiad_cites.get(qid, []):
@@ -474,7 +503,7 @@ def build_gedcom7(out_path):
     with open(tmp, "w", encoding="utf-8-sig", newline="\n") as f:
         f.write("\n".join(out))
     tmp.replace(out_path)
-    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal,
+    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal, "gaiad_notes": n_notes,
             "bytes": out_path.stat().st_size}
 
 

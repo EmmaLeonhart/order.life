@@ -8302,3 +8302,8 @@ solar Hijri dates (`wiki-scripts/calendars.py`, Reingold and Dershowitz arithmet
 "arithmetic", omitted before 622). Checked: 12 Sep 2026 = 1 Tishri 5787, 21 Mar 2026 = 1 Farvardin 1405, 29 Dec 2025 =
 Sagittarius 1, 12026. Limitation: the dates come from Wikidata timestamps without their calendar model, so a pre-1582
 date recorded in the Julian calendar is read as Gregorian, here as in the DATE line itself.
+
+2026-10-15 08:21 PST: person notes in /gaiad.ged: a "Links" note (the order.life character page where the person has one,
+Wikidata, Geni; 35,123 people have a Geni id) and, for the 1,173 people the entity resolution tied to the verse, an "In
+the Gaiad" note (first chapter and stanza, how many stanzas cite them) with fixed-wording translations in zh, ja and ko
+as TRAN. FamilySearch ids are not in the order.life data, so no FamilySearch links. 65 MB; all people match back by ID.
