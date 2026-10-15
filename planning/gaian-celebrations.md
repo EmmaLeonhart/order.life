@@ -754,8 +754,8 @@ Sunday, day 371 in leap years. In ordinary years it is kept on Ophiuchus 28, day
 
 Things noticed in `content/gaian_days.json` while writing this, recorded here and not changed:
 
-- **Ash Wednesday (3rd possible)** is at month 2 day 24 but has `day_of_year` 80. Month 2 day 24 is day 52. The weekly sequence of Ash Wednesdays (Capricorn 10, 17, 24, Aquarius 3, 10) supports day 52.
-- **Good Friday (II)** is at Pisces 4, which is a Thursday. The other four Good Fridays are on Fridays; Pisces 5 (day 89) would fit.
+- **Ash Wednesday (3rd possible)** is at month 2 day 24 but has `day_of_year` 80. Month 2 day 24 is day 52. The weekly sequence of Ash Wednesdays (Capricorn 10, 17, 24, Aquarius 3, 10) supports day 52. (Checked 2026-10-15: already corrected in the data.)
+- **Good Friday (II)** is at Pisces 4, which is a Thursday. The other four Good Fridays are on Fridays; Pisces 5 (day 89) would fit. (Checked 2026-10-15: already corrected in the data.)
 - **Kinen-sai** had `summary_ja` 紀元節 (Kigensetsu, the old Foundation Day). Fixed 2026-10-15 to 祈年祭, which its own extension's Wikidata item (Q118906710, Kinensai) names.
 - **Halloween, Samhain, Shichi-go-san, Niiname-sai and Christmas** all had an `extensions` entry named "Oharae", copied. Fixed 2026-10-15 from their Wikidata ids: Halloween and Samhain → Halloween (Q251868); Shichi-go-san → Shichi-Go-San (Q1072387); Niiname-sai → Niiname-sai (Q11501518, was Shichi-Go-San's id); Christmas → Christmas (Q19809, likewise). The real Oharae (Q11261910) stays on Midyear.
 - **Tigralia and the Easters** have `note` text describing older chapter contents (dicynodonts, pterosaurs, sauropods) that differ from the current `chapter_summaries`. This plan follows `chapter_summaries`.
