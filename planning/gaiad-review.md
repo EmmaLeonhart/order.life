@@ -48,6 +48,9 @@ removed again (`7dcb10881`). The tag changes recorded in rows 1-6 no longer appl
 | 8 | Heavy Elements Scattered | Emma's verse; passes | For Emma: Phaestia is a moon of the gas giant Venti here, of Vayu in ch 9 (both wind gods; one world under two names, or a slip?). Day 8 is Coming of Age Day; the verse does not touch it (her chapter, not rewritten). Rhyme: good (ABAB, mostly full; life/might slant). |
 | 9 | Gravity's Dark Dance | Emma's verse; passes | Aster's syncretic titles (Suiten, Myōken, Konjin, Brahma, Vairocana, Varuna) kept as written. Rhyme: good (ABAB; the title stanzas rhyme playfully on names, Suiten/Myoken, sama/Brahma). |
 | 10 | Spiral Arms Form | Emma's verse; passes | Serenitide, Pluvia, Quiyah. Rhyme: strong (ABAB, full rhymes). |
+| 11 | Aster Embodies the Galaxy | Emma's verse; passes | Kolob under the fourth sun Attle; the Anti-Alpha; the Berserkers' comet fire; on to Sol, the fifth sun. Rhyme: good (ABAB, mostly full; warm/charm, flame/untame slant). |
+| 12 | The Long Genealogies | Emma's verse; passes | Nolah's line from Bios and Nemla's from Viros mirror the Sethite and Cainite lines of Genesis 4-5 (Kenan, Jared, Methuselah, Lammes, Nolah; Caynen, Irad, Mehuthen): kept, deliberate. For Emma: Nemla is "he" ("with pride he spoke") and later "her gaze". Rhyme: uneven (the narrative stanzas rhyme; the name stanzas mostly slant or miss, Bios/Aenos, Jared/Enid, Sarnod/Illod). |
+| 13 | Solar Nebula Collapse | Emma's verse; passes | Sol's planets as daughters and brothers, kept as mythic (Mercury's lost water, Io's boiled seas). Rhyme: strong (ABAB, full rhymes throughout). |
 
 **Titles of ch 4-20 (noted 2026-10-14 18:20).** They come from `COMPREHENSIVE_CHAPTER_PLAN.md` (2025-09-07), a
 plan of the cosmos in order (stars, heavy elements, the solar nebula, the Moon's birth), and the verse went its
