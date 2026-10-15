@@ -51,14 +51,14 @@ Protection that would never, ever fail
 To keep him safe from foe he chanced to meet.
 
 Great {{c|Ammon}} grew a shell of coiled design,
-Compact and true to serve his heart's desire,
+{{c|Compact}} and true to serve his heart's desire,
 Wherever destiny would draw the line
 He'd dwell with freedom bright as sacred fire.
 
 He swam through waters blue where others fished,
 But made his home wherever he would roam,
-Free as the wind that danced as he had wished
-Throughout the vast and boundless ocean's dome.
+{{c|Free}} as the wind that danced as he had wished
+{{c|Throughout}} the vast and boundless ocean's dome.
 
 Among the sons of bright {{c|Ectus}}' great might,
 {{c|Malacus}} bore three sons of noble fame:
@@ -75,7 +75,7 @@ With courage burning bright from night to day.
 The call of destiny with faithful care
 To make their lineage great in everything.
 
-Throughout the world so wide from shore to shore
+{{c|Throughout}} the world so wide from shore to shore
 With ocean as their guide through all their days,
 They'd build what none had ever built before
 And walk in their appointed, faithful ways.
@@ -91,9 +91,9 @@ According to her sacred, mother's prayer
 And oath of love that heaven to her sent.
 
 Of motherhood so pure it would endure
-Throughout the years to come when wars were done,
+{{c|Throughout}} the years to come when wars were done,
 Within her pouch they grew both strong and sure,
-Fed by her love beneath the blazing sun.
+{{c|Fed}} by her love beneath the blazing sun.
 
 Great {{c|Yuval}} bore two sons of different ways:
 {{c|Decapus}} when the dawn began to break,
@@ -167,7 +167,7 @@ Create than conquer—architects who bore
 
 Great channels carved in stone that they called home,
 {{c|Cities}} beneath the sea for all to see
-Throughout eternity beneath the foam
+{{c|Throughout}} eternity beneath the foam
 Of ocean's vast and boundless majesty.
 
 To this day we honor all their works
@@ -223,7 +223,7 @@ Within their neighborhood beneath the sun.
 As squat lobsters they'd make their dwelling place
 And tell their stories of the humble way,
 Of simple living and amazing grace
-Throughout each blessed and ordinary day.
+{{c|Throughout}} each blessed and ordinary day.
 
 This quiet life would change in future time
 When ten generations' faithful rhyme
@@ -253,7 +253,7 @@ As homes to keep them safe through day and night.
 Alas, the great revolt of brave {{c|Proteus}}
 Felt failure's bitter sting and painful dart,
 No victory could come to those who'd thus
-Rebelled with proud and unrepentant heart.
+{{c|Rebelled}} with proud and unrepentant heart.
 
 The great {{c|Protean}} rebellion failed to bring
 {{c|Subjection}} to great {{c|Devon}}'s mighty reign
@@ -276,12 +276,12 @@ But now a new realm called beyond the wave
 Where they could make their victory complete.
 
 The frontier of the trees where land could see
-New possibilities for societies,
+{{c|New}} possibilities for societies,
 Where forest offered them the chance to be
 The founders of new communities.
 
 There sons of brave {{c|Proteus}} would find at last
-Victorious domains to claim with pride,
+{{c|Victorious}} domains to claim with pride,
 And build upon the ruins of the past
 With hope and truth as their eternal guide.
 
@@ -317,7 +317,7 @@ Show beauty in the depths forevermore.
 
 The quiet squat lobsters and hermit crabs
 Who foster care for shells that others left
-Teach us that wisdom never fails or flags
+{{c|Teach}} us that wisdom never fails or flags
 When love protects us from all sense of theft.
 
 The great {{c|Protean}} rebellion's bitter end

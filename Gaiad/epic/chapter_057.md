@@ -7,7 +7,7 @@ As pillars in evolution's sacred sight.
 
 {{c|Janusicthus}} begat two sons of fame:
 First {{c|Kondricthus}}, noble, strong, and true,
-And bright {{c|Osticthus}}, bearer of the name
+And bright {{c|{{c|453|Osticthus}}}}, bearer of the name
 Of those who'd find their home in waters blue.
 
 As they lived beneath the ocean's foam
@@ -40,14 +40,14 @@ Of life's experiments in earth and sea
 Will be revealed that you might learn and grow
 In wisdom's ways through all eternity."
 
-Great {{c|Chondricthus}} declared with royal pride:
+Great {{c|{{c|452|Chondricthus}}}} declared with royal pride:
 "As eldest I shall make the choice today—
 The nose I'll take to be my faithful guide
 To rule the boundless sea in every way.
 
 I'll hunt the placoderms with scenting power
 And conquer all their spirit of resistance
-Throughout each day and every passing hour
+{{c|Throughout}} each day and every passing hour
 With skill that knows no limits or distance."
 
 And so he was granted then and there
@@ -73,7 +73,7 @@ With stories that his children yet would tell.
 And so the noble sons of bright sight
 {{c|Osticthus}} learned to rule by vision clear
 While mighty sons of {{c|Kondricthus}}' might
-Ruled by the scents that they could always hear.
+{{c|Ruled}} by the scents that they could always hear.
 
 Great {{c|Chondricthus}} could smell from waters far
 Sweet streams that called like some celestial star
@@ -128,7 +128,7 @@ Down his throat like crown worn from the sky.
 And so his spiracles became the door
 For air, not water's flow, to enter in—
 A change that helped him grow much more
-Than he had ever dreamed that he could win.
+{{c|Than}} he had ever dreamed that he could win.
 
 The noble sons of bright {{c|Osticthus}} sing
 Their hymns of victory and sacred praise
@@ -138,12 +138,12 @@ Their hearts the sight of home through all their days
 In mountains ancient where their song rings clear
 And life is old and deep beyond all measure
 And memories keep their vigil year by year
-Despite all joys and fears that time can treasure.
+{{c|Despite}} all joys and fears that time can treasure.
 
 {{c|Osticthus}} married fair {{c|Eutelea}} bright,
 Beyond compare in beauty and in grace,
 And in their blessed home filled with delight
-Together in their sacred dwelling place
+{{c|Together}} in their sacred dwelling place
 
 They bore two sons both noble, tried, and true:
 {{c|Actinus}} and great {{c|Sacropter}}'s name,
@@ -163,7 +163,7 @@ Of great {{c|Elivagar}}'s blessed, sacred view.
 He swam between the trees with graceful art
 And expertise that came from faithful prayer
 And built with all his loving, patient heart
-Strong bony fins with tender, loving care
+{{c|Strong}} bony fins with tender, loving care
 
 To bear his weight as he would gently push
 Through forest's leafy, green, and sacred bush
@@ -195,7 +195,7 @@ And he took blessed {{c|Andrea}} {{c|Lepis}} home
 As wife, who made their sacred marriage roam
 With joy through realms where angels love to roam.
 
-Nine hundred eggs so bright she laid with care
+{{c|Nine}} hundred eggs so bright she laid with care
 That filled the world with sight beyond compare
 And showed that love can multiply and share
 Its blessings far beyond what mortals dare.
@@ -301,7 +301,7 @@ In ways we never dreamed were possible
 When we thought we were responsible
 
 For everything alone, but heaven's grace
-Reveals to us our true and destined place
+{{c|Reveals}} to us our true and destined place
 In love's eternal plan for you and me
 Through all the days of our eternity.
 
@@ -327,7 +327,7 @@ More than they seem through all eternity.
 
 From {{c|Janus}} to the three great houses blessed,
 We see how prayer and faith when they're expressed
-Together can free the seeking, faithful mind
+{{c|Together}} can free the seeking, faithful mind
 And help the heart true peace and wisdom find
 
 Beyond what we can know through strength alone,

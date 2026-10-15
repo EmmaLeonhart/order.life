@@ -21,7 +21,7 @@ A golden age where love and life both grew.
 These daughters of the {{c|Earth}} upheld their peace,
 Their gifts and blessings multiplied each day.
 Their kinship served as strong and sure release,
-Together walking hope’s unblemished way.
+{{c|Together}} walking hope’s unblemished way.
  
 In days of old, the purple farmers thrived,
 Their colors stirring life across each field.
@@ -47,7 +47,7 @@ With {{c|Sol}} and {{c|Gaia}}, {{c|Luna}}'s voice did agree,
 They begged that {{c|Saya}}'s reckless growth should lease.
 
 Yet {{c|Saya}} pressed for ever-greater yield,
-Demanding others curb their own supply.
+{{c|Demanding}} others curb their own supply.
 Her own emissions soared across the field,
 While {{c|Earth}}’s deep scars revealed a mortal cry.
  

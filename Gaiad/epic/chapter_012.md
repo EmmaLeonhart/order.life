@@ -5,7 +5,7 @@ Two figures stood beneath the endless night.
 {{c|Nolah}}, bold and steadfast unto her core,
 And {{c|Nemla}}, wise, her heart a beacon bright.
 
-Together, they beheld the frozen land,
+{{c|Together}}, they beheld the frozen land,
 A world so far removed from warmth or grace.
 Yet in their hearts, the yarn that fate had spanned,
 Connected them to {{c|Aster}}'s loving face.
@@ -62,7 +62,7 @@ And in their steps, I now stand proud and high.
 
 From {{c|Kolob}} came the mighty one, {{c|Idris}},
 Then followed by late great {{c|Methuselah}}.
-Next came the bold, who led with strength, {{c|Lammes}},
+{{c|Next}} came the bold, who led with strength, {{c|Lammes}},
 And now the one who carries on, {{c|Nolah}}."
 
 {{c|Nemla}} stood upon the high mountain’s crest,
@@ -108,10 +108,10 @@ Their strength lives on, and I still bear their name."
 From {{c|Kolob}} came first {{c|Valorous}} {{c|Oblas}},
 Then came great wisdom in {{c|Makusholah}}.
 His strength endured through battles, fierce {{c|Romas}}
-Till now the line continues with {{c|Nemla}}.
+{{c|Till}} now the line continues with {{c|Nemla}}.
 
 From distant stars, {{c|Aster}}'s voice filled the sky,
-"Here in this system, your roots will grow deep.
+"{{c|Here}} in this system, your roots will grow deep.
 Through trials and storms, your people will not die,
 The light you carry shall forever keep."
 
@@ -124,3 +124,5 @@ Our strength will hold, as we fulfill your say."
 "Across these worlds, your love will guide us through.
 Through every trial, no matter how far,
 We swear to keep your cosmic vow in view."
+
+Advertisement

@@ -31,7 +31,7 @@ Pair of siblings fought
 For all that could be bought
 
 With power and with might
-Throughout the day and night.
+{{c|Throughout}} the day and night.
 When their mother died
 They could not decide
 
@@ -53,14 +53,14 @@ According to the book
 Of inheritance and law
 That neither brother saw
 The same way as the other
-Despite they shared one mother.
+{{c|Despite}} they shared one mother.
 
 The flight of {{c|Eurypteron}}
 Across the sky begun
 A dynasty of those
 Who ruled where wind blows
 
-High above the earth
+{{c|High}} above the earth
 From moment of their birth
 To death's appointed day
 They'd rule in their own way.
@@ -76,12 +76,12 @@ To with equal measure—
 Their numbers were his treasure.
 
 {{c|Eurypterus}} was most
-Fertile of the host
+{{c|Fertile}} of the host
 Of {{c|Silur}}'s noble sons.
 In each generation begun
 
 His house would grow
-Ten thousand-fold, and so
+{{c|Ten}} thousand-fold, and so
 His numbers multiplied
 Beyond what could be tried
 
@@ -115,7 +115,7 @@ In their tenacity.
 In beauty and in grace,
 And in their dwelling place
 
-Together they bore one
+{{c|Together}} they bore one
 Son when day begun:
 {{c|Slender}}, fast, and sly,
 Who'd rule beneath the sky
@@ -148,7 +148,7 @@ To {{c|Pterygo}}'s fame.
 The sons of {{c|Pterygo}}
 Were rulers high and low
 Of all {{c|Eurypterids}}.
-Fast, strong, their power bids
+{{c|Fast}}, strong, their power bids
 
 The world to bow before
 Their might from shore to shore.
@@ -210,7 +210,7 @@ As scorpions in their way,
 Still carrying the torch
 Of those who scorch
 
-New paths through virgin land
+{{c|New}} paths through virgin land
 Built by their own hand
 From nothing into all
 That answers courage's call.
@@ -220,7 +220,7 @@ That answers courage's call.
 Of fate would write their names
 In evolution's games.
 
-Together they bore two:
+{{c|Together}} they bore two:
 {{c|Makoko}}, tried and true,
 And {{c|Stylonurus}} strong
 Who lived his whole life long.
@@ -241,7 +241,7 @@ With brothers and with cousins
 Who by the dozens
 
 Had claimed the seas for their
-Own use, and would not share
+{{c|Own}} use, and would not share
 With him a single place
 To call his dwelling space.
 
@@ -262,7 +262,7 @@ And he would take charge
 
 Of all the river's course
 With wisdom and with force.
-Larger, tougher than
+{{c|Larger}}, tougher than
 Any other man
 
 Of his time, he survived
@@ -271,8 +271,8 @@ Through countless trials
 Across thousands of miles.
 
 His people were a race
-Resilient in their place,
-Powerful and old,
+{{c|Resilient}} in their place,
+{{c|Powerful}} and old,
 With stories yet untold
 
 Of how they overcame
@@ -316,13 +316,13 @@ To fight for the same prize:
 The land beneath the skies.
 
 For both had more ambition
-Than any opposition
+{{c|Than}} any opposition
 Could contain or tame
 In their quest for fame.
 
 Both were men whose dreams
 Surpassed all that seems
-Possible to those
+{{c|Possible}} to those
 Who seek repose
 
 In comfort and in ease
@@ -352,7 +352,7 @@ For his own story.
 
 And so the stage was set
 For a conflict yet
-Unseen in all the world
+{{c|Unseen}} in all the world
 Where banners were unfurled
 
 Between two mighty lines
@@ -397,12 +397,12 @@ That no one ever wins.
 
 The rivalry between
 {{c|Brothers}} who have seen
-Different paths to take
+{{c|Different}} paths to take
 For their own sake
 
 And their children's future
-Shows how nature's suture
-Often cannot hold
+{{c|Shows}} how nature's suture
+{{c|Often}} cannot hold
 When ambitions grow bold
 
 Beyond what can be shared
@@ -422,7 +422,7 @@ Beneath the starry skies.
 
 The world is big enough
 For all who are tough
-Enough to make their way
+{{c|Enough}} to make their way
 Through each and every day
 
 Of challenge and of strife
@@ -451,7 +451,7 @@ Of cooperation true
 With me and you.
 
 The eurypterids' rise
-Shows us to be wise
+{{c|Shows}} us to be wise
 In how we use our power
 In each and every hour
 
@@ -471,14 +471,14 @@ With possibility
 For all humanity,
 
 The lesson clear as day
-Shows us the way
+{{c|Shows}} us the way
 To be both brave and wise
 Beneath the starry skies
 
 Where all our dreams can grow
 If we but choose to sow
 The seeds of peace and love
-Blessed from above
+{{c|Blessed}} from above
 
 In every choice we make
 For everyone's sake

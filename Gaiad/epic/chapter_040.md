@@ -6,7 +6,7 @@ We must not forget the foundation
 Of {{c|Mithra}}'s great creation.
 
 First {{c|Amaterasu}}'s light
-Blesses us both day and night.
+{{c|Blesses}} us both day and night.
 A millionth reaches {{c|Terra}}'s seas
 To feed life's mysteries.
 
@@ -51,7 +51,7 @@ Their multitudes would grow
 In waters high and low.
 
 And then there were of old
-Purple farmers, brave and bold,
+{{c|Purple}} farmers, brave and bold,
 Who came before {{c|Saya}}'s line
 With photosynthesis fine.
 
@@ -75,10 +75,10 @@ The {{c|Choanoflagellates}}' line—
 Our closest cousins true
 In waters deep and blue.
 
-Alongside sons of {{c|Choanos}}
+{{c|Alongside}} sons of {{c|Choanos}}
 Lived the tiny golden rados:
-Golden {{c|Algae}} bright and fair
-Floating everywhere.
+{{c|Golden}} {{c|Algae}} bright and fair
+{{c|Floating}} everywhere.
 
 The sons of {{c|Dinoflagellus}}
 Saw prosperity's telltale thus
@@ -107,7 +107,7 @@ Turned to ways rebellious.
 
 To cannibalism they turned,
 While the water burned
-Red with carnage from their feast—
+{{c|Red}} with carnage from their feast—
 They became a bloody beast.
 
 The blood poisoned all
@@ -207,7 +207,7 @@ And earn decomposer's crown.
 
 They ate them and released
 A million spores increased
-Throughout the watery realm
+{{c|Throughout}} the watery realm
 With {{c|Chytros}} at the helm.
 
 The {{c|Fungi}} are the knights
@@ -226,7 +226,7 @@ To all the little ones
 From great ones when day done.
 
 From here the zooplankton
-Emerged, their lives begon:
+{{c|Emerged}}, their lives begon:
 The sons of {{c|Foramer}}
 And sons of {{c|Cilliofer}}.
 
@@ -255,7 +255,7 @@ Into their mouths so good.
 With beating hairs they fed
 And thus were nourished.
 
-Tiny {{c|Trilobites}} came
+{{c|Tiny}} {{c|Trilobites}} came
 To play the hunting game.
 They ate the sons of both
 {{c|Foramer}} and, by oath,
@@ -358,7 +358,7 @@ Who lived his whole life long.
 While brethren lived as squirts
 Avoiding nature's hurts,
 {{c|Thallasus}} built his city
-Floating (what a pity
+{{c|Floating}} (what a pity
 
 That none could match his art!)
 Across the waters' heart.
@@ -366,7 +366,7 @@ His city sailed the sea
 Most beautifully.
 
 {{c|Thallasus}} bore a son
-Named {{c|Dolios}}, lonely one
+{{c|Named}} {{c|Dolios}}, lonely one
 Who lived his life alone
 And made the sea his home.
 
@@ -393,7 +393,7 @@ A city floating free.
 {{c|Propelled}} by wastewater
 Like some divine daughter
 Of engineering's art,
-Playing nature's part.
+{{c|Playing}} nature's part.
 
 While {{c|Salpus}} built a chain
 Through sun and storm and rain

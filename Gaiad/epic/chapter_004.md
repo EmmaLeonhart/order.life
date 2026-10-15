@@ -32,8 +32,8 @@ Until again, their love burst forth with cheers.
 
 For countless years, their rhythm stayed the same,
 Each nova lighting skies with love’s great might.
-Once every age, their gift became a flame,
-A cycle known as {{x|Nova}}’s sacred light.
+{{c|Once}} every age, their gift became a flame,
+A cycle known as {{c|Nova}}’s sacred light.
 
 As time went on, they both grew small and white,
 Yet side by side, they watched the stars they made.

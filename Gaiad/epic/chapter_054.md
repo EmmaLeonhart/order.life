@@ -32,7 +32,7 @@ By {{c|Saya}}'s daughters' song.
 
 Through his gills the flow
 Of hematic maidens go,
-Carrying oxygen sweet
+{{c|Carrying}} oxygen sweet
 To make his life complete.
 
 To all his subjects they
@@ -65,7 +65,7 @@ Through waters without shame,
 He opened his mouth wide
 And let the water glide
 
-Freely over and through
+{{c|Freely}} over and through
 His gills, so tried and true,
 With current's gentle flow
 That helped his body grow.
@@ -91,7 +91,7 @@ Their vigil through the night,
 Food was purified bright.
 
 {{c|Pancreas}} and gallbladder
-Joined like faithful gladder
+{{c|Joined}} like faithful gladder
 {{c|Partners}} in the art
 Of playing their true part.
 
@@ -117,7 +117,7 @@ Through calm and raging storm.
 
 And vitamins so pure
 That would always endure
-Throughout his living days
+{{c|Throughout}} his living days
 In their life-giving ways.
 
 And his liver would clean
@@ -153,14 +153,14 @@ Two would be the risen:
 {{c|Llŷr}} and {{c|Stennisio}},
 Both glorious
 In their appointed ways
-Throughout their living days.
+{{c|Throughout}} their living days.
 
 The sons of {{c|Stennisio}}
 Lived in ratio
 Across the seafloor wide
 With ocean as their guide.
 
-Eating clams each day
+{{c|Eating}} clams each day
 In their ancient way,
 They lived lives of the deep
 Where ocean secrets keep.
@@ -171,9 +171,9 @@ In wisdom and in might
 Both day and through the night.
 
 {{c|Bran}} begat {{c|Caradoc}},
-Solid as a rock
+{{c|Solid}} as a rock
 In all his noble ways
-Throughout his living days.
+{{c|Throughout}} his living days.
 
 {{c|Caradoc}} begat three:
 {{c|Cynan}} of the sea,
@@ -207,13 +207,13 @@ Who lived his whole life long.
 
 {{c|Rhineheart}} lived upon
 The {{c|Rhine}} when day begun,
-Flattened and hidden well
+{{c|Flattened}} and hidden well
 Like some secret spell.
 
-Invisible was he
+{{c|Invisible}} was he
 To those who couldn't see
 The wisdom of his way
-Throughout each passing day.
+{{c|Throughout}} each passing day.
 
 Like ray before rays came
 To win their lasting fame,
@@ -298,7 +298,7 @@ Do more than others could,
 And {{c|Ptycho}}, maiden fair
 Beyond all compare
 In beauty and in grace
-Throughout her dwelling place.
+{{c|Throughout}} her dwelling place.
 
 The daughters of fair {{c|Ptycho}}
 Were numerous, and so
@@ -327,7 +327,7 @@ As those who'd be the guide
 
 Of {{c|Arthrodires}}' line
 With characteristics fine
-Throughout the world so vast
+{{c|Throughout}} the world so vast
 From first unto the last.
 
 {{c|Arthur the Younger}} bore
@@ -352,7 +352,7 @@ And {{c|Melehan}}'s days
 
 Of darkness and of shame
 That blackened his name
-Throughout the world entire
+{{c|Throughout}} the world entire
 With corruption's fire.
 
 {{c|Melehan}} begat two:
@@ -393,7 +393,7 @@ Who filled the world with sight.
 {{c|Dunkella}} grew to be
 Greatest yet to see
 Among all {{c|Metazo}}:
-Six meters high to show
+{{c|Six}} meters high to show
 
 Her power and her might—
 Three {{c|Jaekelopterii}} bright
@@ -403,12 +403,12 @@ As {{c|Cameroceras}} strong,
 She had a thousand times
 His men in war's rhymes
 And ruled with iron hand
-Throughout the entire land.
+{{c|Throughout}} the entire land.
 
 The sons and daughters all
 Of {{c|Pachos}} heard the call
 To greatness, and they grew
-Strong and powerful too.
+{{c|Strong}} and powerful too.
 
 They ruled the world entire
 In that age of fire
@@ -460,7 +460,7 @@ To {{c|Janusicthus}}' fate
 That led to fish and more,
 The tale from shore to shore
 
-Shows how innovation's art
+{{c|Shows}} how innovation's art
 Can play the vital part
 In making life evolve
 And every problem solve
@@ -491,7 +491,7 @@ Of tyranny and power
 In that ancient hour,
 
 To {{c|Mary}}'s gift of love
-Blessed from above
+{{c|Blessed}} from above
 That nurtured life within
 Her womb, free from sin,
 
@@ -511,7 +511,7 @@ To others' right to live
 But only take, not give.
 
 From {{c|Devon}}'s peaceful ways
-Throughout his living days
+{{c|Throughout}} his living days
 To {{c|Brachy}}'s iron rule
 That made the world his tool,
 
@@ -535,7 +535,7 @@ To {{c|Dunkella}}'s miracle
 Of size and power great,
 The vertebrates' fate
 
-Shows how life finds its way
+{{c|Shows}} how life finds its way
 From night into the day
 Of possibility
 For all eternity.
@@ -566,7 +566,7 @@ Who'll inherit what we build
 In the fields we've tilled
 
 With love or hate or fear
-Throughout each passing year
+{{c|Throughout}} each passing year
 Of our brief time on earth
 Where we show our worth
 

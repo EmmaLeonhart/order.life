@@ -11,7 +11,7 @@ Through darkness and in glory's golden rays
 Both day and through the blessed, eternal night.
 
 {{c|Dikar}} married {{c|Ferma}} fair and true,
-Together they became a blessed pair
+{{c|Together}} they became a blessed pair
 Who bore two sons of fame before they knew
 Their lives would spread throughout the earth and air.
 
@@ -56,7 +56,7 @@ When our defenses fail through loss or strain
 From what we ought to fear but do not seek.
 
 {{c|Saccharos}}, noble son of great {{c|Ascus}},
-Abandoned what his father's way begun
+{{c|Abandoned}} what his father's way begun
 And chose a path less parasitic, thus
 He found a different way when day was done.
 
@@ -82,7 +82,7 @@ Of bread and beer for all the human race.
 
 He is the greatest among all the yeast,
 His song brews drinks so fine and makes our bread
-Divine with rising power for the feast
+{{c|Divine}} with rising power for the feast
 That fills us when our hungry souls are fed
 
 With blessing from above through his pure love
@@ -112,11 +112,11 @@ And keep their banners of hope unfurled.
 
 But {{c|Leotios}} became the father true
 Of forms that would much rather complex be
-Than simple—filamentous through and through
+{{c|Than}} simple—filamentous through and through
 With great complexity for all to see,
 
 But never letting all their intricate ways
-Extend beyond the microscopic scale,
+{{c|Extend}} beyond the microscopic scale,
 In their detailed story through all their days
 They keep their fascinating, detailed tale.
 
@@ -142,7 +142,7 @@ To health restored and recovery's sweet sight.
 
 And {{c|Capnos}} became father of the race
 Of those who'd rather live as soot mold does
-Throughout each day, and in their dwelling place
+{{c|Throughout}} each day, and in their dwelling place
 They serve the world with quiet, faithful love.
 
 {{c|Baston}} begat two sons of different ways:
@@ -183,7 +183,7 @@ And bless all those who walk within their sight.
 {{c|Ustella}} blesses all our corn each hour
 With protein and with taste beyond compare
 That none should waste—her sweet, abundant power
-Fills harvest time with blessings rich and rare.
+{{c|Fills}} harvest time with blessings rich and rare.
 
 Her daughters are the smuts—though some may think
 They're gross, those who have tasted truly know
@@ -218,7 +218,7 @@ Four sons who'd never let their light grow dim
 Against their father's ways through all their days
 But serve with faithful hearts both true and strong
 And sing his glory in their faithful praise
-Throughout their lives and in their faithful song.
+{{c|Throughout}} their lives and in their faithful song.
 
 {{c|Jello}} formed vessels bright of gel to hold
 The sight of spores, and he returned once more
@@ -226,7 +226,7 @@ To where {{c|Virginia}}'s forests, green and old,
 Burned bright with life from mountain peak to shore.
 
 In rain forests where aria of life
-Rang out so clear for all who had an ear
+{{c|Rang}} out so clear for all who had an ear
 To hear above the noise and bitter strife
 The song of hope that conquers every fear.
 
@@ -276,8 +276,8 @@ What once was meant to be our daily care—
 They steal like thieves and in the darkness hide
 
 The goodness that was meant for those who never
-Bent to evil's poisonous, bitter ways
-Throughout their lives, who would forever
+{{c|Bent}} to evil's poisonous, bitter ways
+{{c|Throughout}} their lives, who would forever
 Live faithfully through all their earthly days.
 
 Eat mushrooms, but beware and never eat

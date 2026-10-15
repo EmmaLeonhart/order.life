@@ -78,7 +78,7 @@ Had given him an edge beyond compare.
 Like {{c|Dimetron}}, his sons would later be
 With great sails spread to glory in the sun,
 The masters of their age who'd hunt and see
-Their dynasty grow tall before the {{x|Permian}}'s done.
+Their dynasty grow tall before the Permian's done.
 
 From {{c|Pelyon}} would rise the house of {{c|Theraps}}—
 More upright, faster, with a keener brain,

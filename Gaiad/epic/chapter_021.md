@@ -1,12 +1,12 @@
 # Chapter 21: The Eukaryotic Wedding
 
-Now in the warming seas where ice had ruled,
+{{c|Now}} in the warming seas where ice had ruled,
 Great {{c|Nectarius}} felt his destined hour.
 The frozen world no longer was fooled,
 And life burst forth with new creative power.
 
 He sought a bride to share his noble quest,
-Fair {{c|Ambrosia}}, daughter of wise {{c|Jingu}}.
+{{c|Fair}} {{c|Ambrosia}}, daughter of wise {{c|Jingu}}.
 Her beauty filled his heart with love's sweet rest,
 Her wisdom made their bond forever true.
 
@@ -26,7 +26,7 @@ First came the sons, brave {{c|Animus}} and true
 {{c|Plantus}}, each destined for eternal name.
 
 Then came the daughters, fair beyond compare,
-Bold {{c|Opima}}, huntress of the sea,
+{{c|Bold}} {{c|Opima}}, huntress of the sea,
 And wise {{c|Cortica}}, who would prepare
 The gathered fruits of earth's prosperity.
 
@@ -35,8 +35,8 @@ Each taking up their destined, sacred role.
 When time's great wheel had finally run,
 They'd shape the world with body, mind, and soul.
 
-Now {{c|Animus}}, the eldest of the four,
-Gazed out upon the warming, living sea.
+{{c|Now}} {{c|Animus}}, the eldest of the four,
+{{c|Gazed}} out upon the warming, living sea.
 "My realm," he said, "shall stretch from shore to shore,
 A kingdom of activity set free."
 
@@ -45,8 +45,8 @@ He could not stay in any single form.
 His nature filled with endless, wild desire
 To dance and hunt through calm and raging storm.
 
-Fair {{c|Opima}} joined her brother's quest,
-Together they would rule the moving realm.
+{{c|Fair}} {{c|Opima}} joined her brother's quest,
+{{c|Together}} they would rule the moving realm.
 While he provided motion's endless zest,
 She'd hunt and guide and take the warrior's helm.
 
@@ -61,7 +61,7 @@ He loved the golden sunlight from above.
 And feed the world with photosynthetic love."
 
 Sweet {{c|Cortica}} became his willing bride,
-Together they would harvest solar power.
+{{c|Together}} they would harvest solar power.
 She'd gather nutrients from far and wide,
 While he transformed them in each golden hour.
 
@@ -70,9 +70,9 @@ Would bring the gift of green to every shore.
 Their children, rooted, reaching for the height,
 Would feed all life forevermore.
 
-Now {{c|Plantus}} sought a partner for his art,
+{{c|Now}} {{c|Plantus}} sought a partner for his art,
 He needed one who knew the light's true way.
-Fair {{c|Chlora}}, with her photosynthetic heart,
+{{c|Fair}} {{c|Chlora}}, with her photosynthetic heart,
 Agreed to join his realm by night and day.
 
 She was a daughter of the cyan line,
@@ -97,15 +97,15 @@ The most efficient solar machines ever seen.
 
 {{c|Plastidus}} wed {{c|Cortica}} the wise,
 Who knew the ways of gathering and storing.
-Together they would claim the earth's great prize,
+{{c|Together}} they would claim the earth's great prize,
 Their photosynthetic kingdom ever soaring.
 
 They bore three children of the verdant line:
-Fair {{c|Glauca}} of the ancient, simple way,
+{{c|Fair}} {{c|Glauca}} of the ancient, simple way,
 And {{c|Alges}}, who would make the waters shine,
 And {{c|Alga}}, who'd advance from day to day.
 
-Now {{c|Glauca}} kept her mother's older dress,
+{{c|Now}} {{c|Glauca}} kept her mother's older dress,
 With peptidoglycan sequins bright and strong.
 She chose the path of simple, clonal success,
 Her daughters numbering billions strong.

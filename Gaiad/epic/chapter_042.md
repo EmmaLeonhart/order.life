@@ -18,7 +18,7 @@ Where truth and myth combine.
 After the mists cleared
 And new dawn appeared,
 The world was greater still
-Than any mortal will
+{{c|Than}} any mortal will
 
 Could have imagined then.
 The {{c|Planktonic}} {{c|Planimals}} when
@@ -98,7 +98,7 @@ As mysteries unraveled.
 {{c|Ordovices}} put to work
 The sons of {{c|Cnider}} (perk
 Of wisdom's gentle hand)
-Throughout his peaceful land.
+{{c|Throughout}} his peaceful land.
 
 And so the sons of {{c|Anthus}}
 Built cities, cantus
@@ -178,7 +178,7 @@ To share in nature's game.
 The fish find shelter here
 From predators they fear,
 While hunters find their prey
-Throughout the night and day.
+{{c|Throughout}} the night and day.
 
 And so economy
 Grew in perfect harmony
@@ -196,7 +196,7 @@ Had threatened life with death
 And stole away its breath.
 
 This boom became the name
-Of {{x|GOBE}}—greatest fame
+Of GOBE—greatest fame
 The Great {{c|Ordovician}}
 Event, magician
 
@@ -212,7 +212,7 @@ The heart that loves to see
 
 More prosperous it grew
 With species old and new
-Finding their perfect place
+{{c|Finding}} their perfect place
 In evolution's race.
 
 And it would only grow
@@ -322,12 +322,12 @@ When reason was in rhyme
 
 With nature's deepest law:
 That beauty without flaw
-Comes not from force and might
+{{c|Comes}} not from force and might
 But from love's gentle sight
 
 That sees in every creature
 A perfect, special feature
-Worth protecting well
+{{c|Worth}} protecting well
 As stories always tell
 
 Of {{c|Leviathan}}'s son

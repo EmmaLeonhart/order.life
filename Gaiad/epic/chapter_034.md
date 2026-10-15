@@ -37,7 +37,7 @@ For food that he could eat.
 
 A great tail he made
 That would never fade,
-Extending past his rear
+{{c|Extending}} past his rear
 To swim both far and near.
 
 A heart he built within
@@ -61,13 +61,13 @@ Across the world so wide
 With fortune as their guide.
 
 Great fortune blessed their way
-Throughout each passing day.
+{{c|Throughout}} each passing day.
 This time was called by all
 The {{c|Fortunian}}'s call.
 
 First born were the twins
 Where the story begins:
-Bold {{c|Ambulus}} the free
+{{c|Bold}} {{c|Ambulus}} the free
 And {{c|Chordatus}} of the sea.
 
 These brothers both worked well
@@ -80,7 +80,7 @@ Of {{c|Ediacar}}'s grand
 Empire that had been
 Since time was first seen.
 
-Now {{c|Ambulus}} settled down
+{{c|Now}} {{c|Ambulus}} settled down
 Upon a rocky crown.
 He built his simple home
 Where he could freely roam.
@@ -120,7 +120,7 @@ A different path than those
 Who followed central rule—
 They kept the older school.
 
-Local leaders they obeyed,
+{{c|Local}} leaders they obeyed,
 And to shamans they prayed.
 No great lords they needed,
 Their freedom they heeded.

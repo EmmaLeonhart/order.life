@@ -10,7 +10,7 @@ Each one supported by
 With water pressure in their frame
 They bore their body's name.
 
-Together they perceived the flaw:
+{{c|Together}} they perceived the flaw:
 When movement broke the law
 Of circulation through their form,
 Their blood could not stay warm.
@@ -20,7 +20,7 @@ They needed greater strength.
 So hearts they built with arteries
 And veins like flowing seas.
 
-Together each one made with care
+{{c|Together}} each one made with care
 Closed systems everywhere.
 The blood would flow in circuits true
 And nourish organs through.
@@ -31,7 +31,7 @@ From hydrostatic to circulatory,
 Evolution's greatest story.
 
 From {{c|Annelon}} came two sons:
-{{c|Segmentus}} when day begun
+Segmentus when day begun
 And {{c|Ribbon}}, hunter of the deep
 Whose prey would never sleep.
 
@@ -43,15 +43,15 @@ His prey with skillful stunt.
 His sons are known today
 As {{c|Ribbon}} {{c|Worms}} who slay
 Their victims with their poison dart
-Shot straight into the heart.
+{{c|Shot}} straight into the heart.
 
-{{c|Segmentus}} built his body wise
+Segmentus built his body wise
 With segments that would rise
 In number past all count—
 Each segment paramount.
 
 He built resilience strong
-Throughout his body long.
+{{c|Throughout}} his body long.
 With countless legs and bristles too
 His segments carried through
 
@@ -60,7 +60,7 @@ And spread them everywhere.
 Each segment bore its pair
 Of legs beyond compare.
 
-{{c|Segmentus}} bore two sons:
+Segmentus bore two sons:
 {{c|Pleistos}} when day begun
 And {{c|Amphon}} of the sea
 Who lived quite happily.
@@ -72,7 +72,7 @@ Who chose a different fate.
 
 {{c|Amphinos}} became the sire
 Of worms that burn like fire.
-Fierce beasts with spikes of poison bright
+{{c|Fierce}} beasts with spikes of poison bright
 In colors burning bright.
 
 We never tread upon their ground
@@ -80,7 +80,7 @@ Where they can be found.
 Their beauty hides their deadly art—
 They'll pierce the beating heart.
 
-Modern flags today still show
+{{c|Modern}} flags today still show
 The colors that bestow
 Great honor to {{c|Amphinos}}' line
 With patterns so divine.
@@ -103,7 +103,7 @@ Who swam the ocean blue.
 {{c|Greatswimmer}} bore a son and daughter:
 {{c|Phyllos}} swift of water
 And {{c|Eunice}}, jealous, wild,
-Never meek or mild.
+{{c|Never}} meek or mild.
 
 {{c|Eunice}} the vicious was
 {{c|Jealous}} without cause.
@@ -121,7 +121,7 @@ More diverse than any:
 Across the boundless sea.
 
 {{c|Syllides}} the lazy one
-Never courted, never won
+{{c|Never}} courted, never won
 A mate through his own art—
 He'd bud off body part
 
@@ -162,7 +162,7 @@ From west unto the east.
 With feathers bright and fair,
 And {{c|Spiona}} everywhere
 With tentacles that sway
-Throughout the night and day.
+{{c|Throughout}} the night and day.
 
 {{c|Sabella}}'s daughters live
 As fishermen who give
@@ -204,7 +204,7 @@ Like {{c|Sipuncula}} before,
 Was so unique and fine
 We thought her line divine
 
-Enough to be its own
+{{c|Enough}} to be its own
 {{c|Phylum}}, standing alone.
 Her creativity
 Gave her divinity.
@@ -231,7 +231,7 @@ He made his living spot.
 
 {{c|Acros}} became the sire
 Of forms that never tire:
-{{c|Squidworm}} and {{c|Swima}} too
+{{c|Squidworm}} and Swima too
 Swam the ocean blue.
 
 {{c|Clitella}} was small of head

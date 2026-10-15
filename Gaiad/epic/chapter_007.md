@@ -27,7 +27,7 @@ Their strength now boundless as they boldly grew.
 
 Three brothers stood, their destinies held close,
 One to nurture life, his name was {{c|Bios}}.
-Another thrived through cunning, slick {{c|Viros}},
+{{c|Another}} thrived through cunning, slick {{c|Viros}},
 The last sought purity, he was {{c|Dedos}}.
 
 The brothers gathered in a hallowed place,
@@ -64,3 +64,5 @@ And this is why we call her to this day,
 Our Greatest {{c|Grandmother}}, wise and true.
 Her light still guides us on our cosmic way,
 A title passed to us and all of you.
+
+Advertisement

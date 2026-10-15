@@ -7,12 +7,12 @@ That lasted both their whole life long.
 
 Great {{c|Symbio-Mygus}}, fungal lord,
 Son of {{c|Mygus}} by accord,
-Tenth generation from the line
+{{c|Tenth}} generation from the line
 Of {{c|Zygos}}, ancient and divine.
 
-Fair {{c|Charina-Planta}} bright,
+{{c|Fair}} {{c|Charina-Planta}} bright,
 {{c|Daughter}} of photosynthetic light,
-Tenth from {{c|Charina}}'s algae clan
+{{c|Tenth}} from {{c|Charina}}'s algae clan
 That lived where river waters ran.
 
 These two would meet beside the shore
@@ -28,7 +28,7 @@ And rule through all our living days."
 "I capture light from sunny skies,
 You gather nutrients that arise
 From earth and stone and decay.
-Together we can rule the day."
+{{c|Together}} we can rule the day."
 
 {{c|Charina}}-{{c|Planta}} heard his call
 And agreed to join with all
@@ -51,16 +51,16 @@ But when the waters dried away,
 They slept until another day.
 
 {{c|Dormant}} in the drought they lay,
-Waiting for the rain's display.
+{{c|Waiting}} for the rain's display.
 When water came, they rose again
 To rule their vast domain.
 
-Together they bore children bright,
+{{c|Together}} they bore children bright,
 The lichens, filled with dual might.
 Each one a fusion of their line,
 Both fungal strong and plant divine.
 
-Countless forms they took with glee,
+{{c|Countless}} forms they took with glee,
 Each suited to their destiny.
 {{c|Fruticose}} lichens, tall and proud,
 Like trees they rose above the crowd.
@@ -71,7 +71,7 @@ Like trees they rose above the crowd.
 While {{c|Old}} {{c|Man}}'s {{c|Hair}} in breeches grew.
 
 The great foliose lichens came,
-Leafy beauties earning fame.
+{{c|Leafy}} beauties earning fame.
 {{c|Ruffle}} {{c|Lichen}}, soft and fair,
 {{c|Pillow}} {{c|Lichen}} everywhere.
 
@@ -91,13 +91,13 @@ So tough they were, so strong to last,
 They held when other life had passed.
 
 The powdery leprose clan
-Spread everywhere that they began.
-Breaking apart upon the wind,
-New territories they would find.
+{{c|Spread}} everywhere that they began.
+{{c|Breaking}} apart upon the wind,
+{{c|New}} territories they would find.
 
 {{c|Leprose}} {{c|Lichen}}, golden dust,
-Scattered with the wind's great thrust.
-Golden particles would fly
+{{c|Scattered}} with the wind's great thrust.
+{{c|Golden}} particles would fly
 To colonize both low and high.
 
 Some lichens chose the hardest way,
@@ -117,7 +117,7 @@ From harm in every area.
 
 {{c|Ephebe}} wrapped his threads around
 The blue-green life that he had found.
-Together they would make their home
+{{c|Together}} they would make their home
 Where neither could survive alone.
 
 And strangest of them all to see
@@ -136,7 +136,7 @@ Took another bride to see.
 Of {{c|Trent}}, with golden hair.
 
 The daughters of {{c|Trentophila}}
-Spread far across the area.
+{{c|Spread}} far across the area.
 They colonized the world around
 With partnership they'd found.
 
@@ -155,7 +155,7 @@ Their union glorious.
 They bore both {{c|Glomer}} and {{c|Ashley}},
 A pair both strong and free.
 
-Now {{c|Ashley}} wed with {{c|Wort}} the wise,
+{{c|Now}} {{c|Ashley}} wed with {{c|Wort}} the wise,
 And from their love there would arise
 The ancestors of plants so green
 And mosses, fairest ever seen.
@@ -212,7 +212,7 @@ Of fungal networks everywhere.
 
 With eighty percent market hold,
 His story still is told.
-{{x|WoodNet}} service, tried and true,
+WoodNet service, tried and true,
 Connects the forest through and through.
 
 But other fungi joined the game,
@@ -266,9 +266,9 @@ Show us how two different kinds
 Can join their hearts and minds.
 
 The Wood Wide {{c|Web}} beneath our feet
-Makes forest life complete.
+{{c|Makes}} forest life complete.
 The network that they started long
-Ago still sings its song.
+{{c|Ago}} still sings its song.
 
 In partnership we find our strength,
 We'll go to any length
@@ -276,6 +276,6 @@ To help each other as we grow
 Through all that we may know.
 
 The lichen's lesson, tried and true:
-Together, me and you
+{{c|Together}}, me and you
 Can face whatever storm may come
 And never be undone.

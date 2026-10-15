@@ -1,6 +1,6 @@
 # Chapter 1: The Yarn of Creation
 
-Once upon a time there was a catgirl
+{{c|Once}} upon a time there was a catgirl
 Her name was {{c|Aster}}, and she had a ball,
 Of yarn she spun, with skill just like a pearl.
 She shaped the universe from void to all.

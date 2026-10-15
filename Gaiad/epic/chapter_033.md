@@ -17,7 +17,7 @@ Who answered duty's call.
 
 Among his many sons of fame
 Two earned eternal name:
-Bold {{c|Kimberella}} the king
+{{c|Bold}} {{c|Kimberella}} the king
 And {{c|Gnathifer}}'s ring.
 
 {{c|Kimberella}} earned his fame
@@ -53,11 +53,11 @@ His heart was not so stayed.
 With ferocious jaws so bright
 He brought the fearsome sight
 To sons of {{c|Isomeres}}
-Throughout their territories.
+{{c|Throughout}} their territories.
 
 In old age from his loins
 Came two, like ancient coins:
-Bold {{c|Gnathos}}, fierce and wild,
+{{c|Bold}} {{c|Gnathos}}, fierce and wild,
 And {{c|Hydrover}}, gentler child.
 
 {{c|Gnathos}} was vicious
@@ -70,13 +70,13 @@ Though still belligerent.
 He grew jaws within jaws,
 Against all natural laws.
 
-Fifteen jaws in all he made,
+{{c|Fifteen}} jaws in all he made,
 A fearsome masquerade.
 Each jaw within the last
 Held prey both firm and fast.
 
 From {{c|Xenognath}} came two sons:
-Bold {{c|Marinus}}, who runs
+{{c|Bold}} {{c|Marinus}}, who runs
 The seas with might and main,
 And {{c|Limnos}} of the rain.
 
@@ -92,13 +92,13 @@ His kingdom there was bent.
 
 The sons of {{c|Marinus}} mock
 Their freshwater flock:
-"Small jawed ones," they call
+"{{c|Small}} jawed ones," they call
 Their cousins one and all.
 
 From {{c|Marinus}} came two more:
 {{c|Rotiferus}} to explore
 And brave {{c|Amisquius}},
-Bold and glorious.
+{{c|Bold}} and glorious.
 
 {{c|Rotiferus}} looked around
 And peaceful living found
@@ -166,7 +166,7 @@ No prey can swim away
 From their hunting display.
 
 The conservative path
-Sometimes shows its wrath
+{{c|Sometimes}} shows its wrath
 In children who rebel
 And stories they do tell.
 
@@ -217,7 +217,7 @@ Through all eternity.
 
 But {{c|Spiralius}} shows us well
 That traditions tell
-Important truths that last
+{{c|Important}} truths that last
 Through future and past.
 
 {{c|Innovation}} has its place

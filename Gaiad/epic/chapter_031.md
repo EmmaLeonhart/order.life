@@ -3,7 +3,7 @@
 When {{c|Cambrius}} and {{c|Spriggina}} died,
 Great heroes who had ruled with pride,
 Two sons were left to claim their throne:
-Bold {{c|Protos}} and {{c|Dutrus}}, each alone.
+{{c|Bold}} {{c|Protos}} and {{c|Dutrus}}, each alone.
 
 Each brother saw a different way
 To honor what their parents' legacy would say.
@@ -41,14 +41,14 @@ He'd make a different claim:
 The first hole takes waste away."
 
 "The mesoderm is something more
-Than what we've seen before.
+{{c|Than}} what we've seen before.
 Beyond mesoglea it goes,
 Where fisherman and shieldmaid grows."
 
 "A reunion, don't you see,
 Of ancient unity?
 {{c|Choanoderm}} and {{c|Archaeocyte}}
-Together in the fight."
+{{c|Together}} in the fight."
 
 "O heathen, can't you understand?
 The mouth is progress' hand!
@@ -75,7 +75,7 @@ From {{c|Protos}} came with valor high
 Four grandsons of the ancient line
 Would make their fates align.
 
-Strange {{c|Saccorhytus}} had no rear,
+{{c|Strange}} {{c|Saccorhytus}} had no rear,
 No anus did appear.
 With no way to expel his waste,
 His life would not be graced.
@@ -86,8 +86,8 @@ The loyal son would carry on
 Until his life was done.
 
 The sons of {{c|Dutrus}}, it was known,
-Throughout the world had grown
-Famous for their heads so wise,
+{{c|Throughout}} the world had grown
+{{c|Famous}} for their heads so wise,
 But {{c|Dietrich}} had no eyes.
 
 No head had he to lead the way,
@@ -186,7 +186,7 @@ Shells appeared for the fight.
 Made survival's trick.
 
 The explosion had begun
-Underneath the ancient sun.
+{{c|Underneath}} the ancient sun.
 {{c|Cambrius}}' legacy lived on
 From dusk until the dawn.
 

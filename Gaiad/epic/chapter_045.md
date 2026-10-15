@@ -11,7 +11,7 @@ Design, and thus began
 Evolution's plan
 
 For five-fold symmetry
-Throughout eternity.
+{{c|Throughout}} eternity.
 {{c|Esther}} saw before
 Her eyes from shore to shore
 
@@ -47,7 +47,7 @@ With architecture fine.
 
 Her daughters spread so wide
 With pentamerous pride
-Throughout the ancient seas
+{{c|Throughout}} the ancient seas
 Like blossoms on the trees.
 
 {{c|Crinosa}} begat two:
@@ -60,9 +60,9 @@ Who lived beside the sea.
 Of {{c|Crinoids}} everywhere
 Who danced with graceful flair.
 
-Together {{c|Crinoids}} bright
+{{c|Together}} {{c|Crinoids}} bright
 And {{c|Blastoids}} in their might
-Spread all across the seas
+{{c|Spread}} all across the seas
 Like flowers in the breeze.
 
 They became the wall
@@ -143,7 +143,7 @@ To build a stalk like dad—
 {{c|Asteros}} and {{c|Echinos}}
 Went to war (heaven knows
 Why brothers had to fight
-Throughout the day and night).
+{{c|Throughout}} the day and night).
 
 Each with a million sons
 Arranged when day begun
@@ -177,13 +177,13 @@ And chose to make a change.
 
 They married and became
 {{c|Partners}} without shame
-Despite their fathers' war
+{{c|Despite}} their fathers' war
 That raged from shore to shore.
 
 From their union came
 Children of great fame:
 The {{c|Brittle}} {{c|Stars}} so bright,
-Centralized in might.
+{{c|Centralized}} in might.
 
 {{c|Muscular}} creatures, they
 Were machines in every way
@@ -191,7 +191,7 @@ Of strength and vigor great
 Who never would abate
 
 Their energy and power
-Throughout each passing hour
+{{c|Throughout}} each passing hour
 Of their devoted lives
 Where motion always thrives.
 
@@ -211,7 +211,7 @@ Would slither with precision
 Through every dark decision
 
 Of where to hunt their prey
-Throughout the night and day.
+{{c|Throughout}} the night and day.
 Their tube feet were not meant
 For moving, but were bent
 
@@ -232,12 +232,12 @@ Like nets on every side.
 
 She became ancestress
 Of {{c|Basket}} {{c|Stars}} no less
-Remarkable than she
+{{c|Remarkable}} than she
 In their complexity.
 
 Their arms branch out like trees
 To catch what ocean sees
-Fit to provide as food
+{{c|Fit}} to provide as food
 In their planktonic mood.
 
 {{c|Starfy}} begat the race
@@ -300,9 +300,9 @@ Was {{c|Sandy}}, everywhere
 Known as ancestress
 Of {{c|Sand}} {{c|Dollars}} no less
 
-Beautiful than she
+{{c|Beautiful}} than she
 In their complexity.
-Flat and round they lie
+{{c|Flat}} and round they lie
 Beneath the ocean sky.
 
 {{c|Cucus}} became the sire
@@ -353,7 +353,7 @@ To walk through joy and pain,
 From {{c|Asteros}} and his brother
 {{c|Echinos}}, and no other
 {{c|Way}} to settle their debate
-Than war to seal their fate,
+{{c|Than}} war to seal their fate,
 
 From {{c|Ophis}} and fair {{c|Britta}}
 Who made the war less bitter
@@ -368,7 +368,7 @@ Design so glorious
 Into forms so diverse
 That no single verse
 Could capture all their ways
-Throughout their living days.
+{{c|Throughout}} their living days.
 
 From stalked sea lilies
 To mobile enemies
@@ -388,7 +388,7 @@ And every sea urchin's charm.
 In every brittle star
 That travels near and far
 With muscles flexing strong
-Throughout its whole life long,
+{{c|Throughout}} its whole life long,
 
 In every crinoid's dance
 And every basket's stance
@@ -403,7 +403,7 @@ From dusk until the dawn
 Of {{c|Echidna}}'s great choice
 To let five be the voice
 Of symmetry's design
-Throughout the end of time.
+{{c|Throughout}} the end of time.
 
 From bilateral start
 To pentamerous art
@@ -428,7 +428,7 @@ Five points of nature's law
 That guide the echinoderm
 Through every living term
 Of their existence here
-Throughout each passing year.
+{{c|Throughout}} each passing year.
 
 In {{c|Luther}}'s rebel choice
 To let freedom be his voice,

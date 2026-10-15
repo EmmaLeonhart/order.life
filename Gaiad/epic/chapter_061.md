@@ -26,7 +26,7 @@ The lungfish could survive from year to year
 And stay alive through everything.
 
 By breathing air so free from sky above
-Throughout eternity they would survive
+{{c|Throughout}} eternity they would survive
 Until the rains returned with gentle love
 And waters they had yearned for came alive
 
@@ -43,7 +43,7 @@ And find his food in rivers, lakes, and seas.
 All fish have nostrils four by nature's law:
 Two let the water pour inside for breath,
 Two let the water flow without a flaw
-Back out through gills that conquer watery death.
+{{c|Back}} out through gills that conquer watery death.
 
 {{c|Tetram}} was no exception to this rule,
 His nostrils came in four like all before,
@@ -92,7 +92,7 @@ Of how from fish the land-dweller arose.
 
 {{c|Tintetra}} bore two sons beyond compare:
 {{c|Platelpis}} and {{c|Tiniraus}}, each following
-Different laws but sharing the same prayer
+{{c|Different}} laws but sharing the same prayer
 For growth through each new dawn that life is bringing.
 
 {{c|Platelpis}} bore two sons of different ways:
@@ -112,7 +112,7 @@ And filled his days with beauty and delight.
 
 Through marshes dark and deep where secrets dwell
 He kept his vigil through the passing years,
-Despite all joys and fears he knew full well
+{{c|Despite}} all joys and fears he knew full well
 That exploration conquers all our fears.
 
 {{c|Elpis}} begat a son when wandering done:
@@ -130,7 +130,7 @@ A maiden bright who filled his world with light,
 He married her with joy beyond compare
 And made their union shine both day and night.
 
-Together they would raise with tender care
+{{c|Together}} they would raise with tender care
 A son whom they would name {{c|Tictalicus}},
 A name that would be known everywhere
 As greater than a throne most glorious.
@@ -170,14 +170,14 @@ So air could flow in cleaner, purer streams
 And he could smell each scent upon the air
 And hear each sound in all his vivid dreams.
 
-Now he could hear with crystal clarity
+{{c|Now}} he could hear with crystal clarity
 Each whisper of the wind through forest green
 And smell with perfect sensory ability
 The sweetest fragrances he'd ever seen.
 
 {{c|Icthyos}} bore a son when youth was past:
 The {{c|Watcher}} who would build no gills at all,
-Despite the water's call that held him fast
+{{c|Despite}} the water's call that held him fast
 He chose to heed the land's eternal call.
 
 For {{c|Watcher}} needed none—when youth was done
@@ -191,7 +191,7 @@ In evolution's book and chose the way
 Of those who'd left the sea's ancestral cage.
 
 He lived on land so green and breathed air free
-Throughout his days beneath the open sky,
+{{c|Throughout}} his days beneath the open sky,
 And there he raised his sons in harmony
 With all the earth beneath and heaven high.
 
@@ -227,7 +227,7 @@ To build their cities bright from day to day.
 
 He became the great father of all those
 Who'd rather live in air forever free
-Than go back to the sea where their birth arose
+{{c|Than}} go back to the sea where their birth arose
 But now they sang a different melody.
 
 From {{c|Rhipidistius}}' survival through the night
@@ -235,7 +235,7 @@ To evolution's arrival at the door
 Of land both green and filled with morning light,
 The vertebrates discovered something more
 
-Than they had ever dreamed was possible
+{{c|Than}} they had ever dreamed was possible
 In their ancestral home beneath the waves:
 The freedom that would make responsible
 Each soul that from the sea's embrace it saves.

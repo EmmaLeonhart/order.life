@@ -23,7 +23,7 @@ As faith and strength held fast in every place.
 But deep within {{c|Kolob}}'s unyielding core,
 A strain began to grow, a seed of strife.
 A force unknown, unseen in days before,
-Threatened to tear apart their peaceful life.
+{{c|Threatened}} to tear apart their peaceful life.
 
 From shadowed thoughts and whispered words of doubt,
 A darkness rose from discontent and pain.
@@ -73,7 +73,7 @@ They brought destruction with a vengeful hand.
 The skies above {{c|Kolob}} grew dark with flame,
 As icy deluge rained from distant stars.
 The {{c|Berserkers}}' wrath, unholy and untame,
-Wrought ruin upon the land, leaving scars.
+{{c|Wrought}} ruin upon the land, leaving scars.
 
 {{c|Kolob}}'s cities crumbled under freezing rain,
 The oceans boiled and fumed with violent force.

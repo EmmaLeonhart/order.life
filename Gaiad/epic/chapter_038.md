@@ -38,7 +38,7 @@ Who lived his whole life long.
 {{c|Acorn}} lived as worm
 Through ocean's every term.
 But {{c|Oak}} lived as a tree
-Rooted eternally.
+{{c|Rooted}} eternally.
 
 {{c|Oak}} bore two sons in time:
 {{c|Biscarpon}}, strong and prime,
@@ -51,7 +51,7 @@ To heights in ocean blue:
 {{c|Graptolites}} he grew,
 
 And {{c|Pterobranches}} too,
-Colonial and true.
+{{c|Colonial}} and true.
 Like trees beneath the sea
 They lived quite happily.
 
@@ -116,11 +116,11 @@ The ancient symmetry
 For new geometry.
 
 {{c|Helicoplacus}} wed
-Fair {{c|Adria}}-{{c|Esther}}, led
+{{c|Fair}} {{c|Adria}}-{{c|Esther}}, led
 By love both true and strong
 To sing their mating song.
 
-Together they built low
+{{c|Together}} they built low
 A city's five-fold glow
 Upon the rocks below
 Where ocean currents flow.
@@ -175,7 +175,7 @@ Their cities bore no lack
 Of beauty or of might—
 A wondrous, flowery sight.
 
-Floating cities they built
+{{c|Floating}} cities they built
 Without any guilt
 Upon the ocean floor
 Like gardens evermore.
@@ -207,7 +207,7 @@ To complex living art.
 
 The graptolites and more
 {{c|Pterobranches}} explore
-Colonial living true
+{{c|Colonial}} living true
 In waters deep and blue.
 
 The early echinoderms

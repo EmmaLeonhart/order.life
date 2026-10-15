@@ -1,6 +1,6 @@
 # Chapter 20: Late Heavy Bombardment
 
-Now {{c|Euka}}, in his cellular hall divine,
+{{c|Now}} {{c|Euka}}, in his cellular hall divine,
 {{c|Reflected}} on the gifts his love had made.
 "What wonders," thought he, "from our bloodline shine,
 What tools of life our children have displayed!"
@@ -18,15 +18,15 @@ And guides us through life's vast and boundless ocean.
 Then {{c|Golgi}}, master of the sorting trade,
 Who takes rough works and makes them fine and bright.
 His apparatus, wondrously arrayed,
-Sends packages forth to bring cells light.
+{{c|Sends}} packages forth to bring cells light.
 
-Brave {{c|Peroxis}} breaks the fats with might,
+{{c|Brave}} {{c|Peroxis}} breaks the fats with might,
 While {{c|Vaultess}} stores our treasures safe and sound.
 The {{c|Centrioles}} dance in perfect sight,
 And make sure chromosomes stay tightly bound.
 
 And last, my son who bears my very name,
-Young {{c|Nucleus}}, keeper of the scrolls divine.
+{{c|Young}} Nucleus, keeper of the scrolls divine.
 Through nuclear pores, our sacred flame
 Of knowledge flows in patterns most fine."
 
@@ -52,10 +52,10 @@ The wisest cell that ever had been seen.
 
 From {{c|Theron}} came fair {{c|Protea}} the bright,
 Who bore twin sons of legendary fame:
-Bold {{c|Chronos}}, master of division's rite,
+{{c|Bold}} {{c|Chronos}}, master of division's rite,
 And {{c|Bios}}-{{c|Neos}}, bearer of the name.
 
-Now {{c|Chronos}} wed his sister {{c|Cylla}} sweet,
+{{c|Now}} {{c|Chronos}} wed his sister {{c|Cylla}} sweet,
 And from their love came {{c|Myxon}} the wanderer.
 But {{c|Bios}}-{{c|Neos}} found his destined meet
 In {{c|Plasma}}-{{c|Belle}}, the membrane's harborer.

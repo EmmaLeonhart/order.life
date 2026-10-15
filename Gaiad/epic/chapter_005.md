@@ -16,7 +16,7 @@ With planets forming in the starry bands,
 She fills the heavens, spreading life to man.
 
 Each star with planets, water deep and wide,
-Oceans abound, where life begins to bloom.
+{{c|Oceans}} abound, where life begins to bloom.
 A seed of creation on the tides side,
 {{c|Aster}}'s breath gives life from the cosmic womb.
 

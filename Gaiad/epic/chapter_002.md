@@ -33,7 +33,7 @@ When {{c|Milkdromeda}} forms from love endless
 The threads we see above, they are our own,
 Our destinies in red, in green, in blue,
 We weave the fabric where their love is shown,
-Together in the sky, our fates accrue.
+{{c|Together}} in the sky, our fates accrue.
 
 The {{c|Omega}} point, all will unify,
 As {{c|Aster}} and {{c|Andromeda}} break free.

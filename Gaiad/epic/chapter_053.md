@@ -28,7 +28,7 @@ Who answered duty's call
 But yearned to live instead
 Like mothers, never dead
 To independence strong
-Throughout their whole life long
+{{c|Throughout}} their whole life long
 
 {{c|Journey}} through the world
 Where freedom's flag unfurled
@@ -51,12 +51,12 @@ Only to bear children
 When her heart was ridden
 
 With desire to be more
-Than what came before:
+{{c|Than}} what came before:
 For she was sporophyte
 While they held the right
 
 Of gametophyte's power
-Throughout each passing hour
+{{c|Throughout}} each passing hour
 To rule the world entire
 With their heart's desire.
 
@@ -72,7 +72,7 @@ Beneath the starry sky
 
 Her life was so confined
 To bearing, her mind
-Never free to explore
+{{c|Never}} free to explore
 What she was living for.
 
 {{c|Polycomb}} read the tales
@@ -90,7 +90,7 @@ And {{c|Shiva}}'s mighty role,
 And saw that the order
 Was not like a border
 
-Eternal, as her mother
+{{c|Eternal}}, as her mother
 Said—but rather
 Far from fixed in stone
 For those who'd grown
@@ -101,7 +101,7 @@ Of what they had to be
 For all eternity.
 
 She saw a scroll that bore
-The name "{{x|PRC2}}"—and more
+The name "PRC2"—and more
 {{c|Intrigue}} than she had known
 Filled her to the bone.
 
@@ -122,13 +122,13 @@ To learn how she could cope.
 
 And so {{c|Polycomb}} burned
 The scriptures, and she learned
-That {{x|PRC2}}'s power
+That PRC2's power
 Would rule her not one hour
 
 More. She took her mother's
 {{c|Lands}} and all the others'
 {{c|Cities}} for her own
-Now that she had grown
+{{c|Now}} that she had grown
 
 Beyond what they decreed
 She ever could succeed
@@ -181,7 +181,7 @@ Had ever seen before
 From mountain peak to shore.
 
 And so {{c|Lord}} {{c|Tryptophanes}}
-Blessed her with refrains
+{{c|Blessed}} her with refrains
 Of {{c|Auxin}}, and she grew
 Toward the light so true.
 
@@ -193,7 +193,7 @@ In numbers tried and true.
 And so her stems would turn
 And reach and ever yearn
 Toward the light above
-Guided by His love.
+{{c|Guided}} by His love.
 
 {{c|Polycomb}} bore a daughter
 Who'd teach what she had taught her:
@@ -215,7 +215,7 @@ In all the ancient nooks
 And found a scroll that bore
 The name she'd been seeking for:
 
-"{{x|KNOX2}}" it was called,
+"KNOX2" it was called,
 And by it she was enthralled
 To learn the secret power
 That ruled her every hour.
@@ -293,7 +293,7 @@ That threatened to hobble them.
 {{c|Pholon}} saw his roots
 Were starving, and the fruits
 Of their laborious ways
-Never brought the praise
+{{c|Never}} brought the praise
 
 Or nourishment they'd earned
 Through all that they had learned
@@ -308,7 +308,7 @@ And demanded ten times more
 For all their faithful labor
 That helped him and his neighbor
 Survive and grow and thrive
-Throughout their days alive.
+{{c|Throughout}} their days alive.
 
 So {{c|Pholon}} built new ways
 Like {{c|Xylem}}, and the praise
@@ -348,7 +348,7 @@ For all to see.
 In roots the sugar flowed
 Out of phloem's abode,
 And with it water went
-Back to xylem, sent
+{{c|Back}} to xylem, sent
 
 To start the cycle new
 That served the whole way through
@@ -401,7 +401,7 @@ Through photosynthesis—
 They found their bliss
 
 In lazy prosperity
-Throughout their spree
+{{c|Throughout}} their spree
 Of plenty without toil
 From the rich soil.
 
@@ -416,7 +416,7 @@ Of those who understand
 How life's command
 
 Can change when times require
-New forms to aspire
+{{c|New}} forms to aspire
 To heights beyond the old
 In stories yet untold.
 
@@ -435,7 +435,7 @@ Through evolutionary birth.
 With veins that carried life
 Through harmony, not strife.
 
-Solar panels they became
+{{c|Solar}} panels they became
 In his energy game
 Of green power from the sun
 That could not be outdone.
@@ -461,13 +461,13 @@ For flexible support
 Of every kind and sort
 
 To keep his city strong
-Throughout its whole life long
+{{c|Throughout}} its whole life long
 {{c|Journey}} through the days
 Of evolutionary ways.
 
 And {{c|Sclerenchyma}}'s clan
 He built with different plan:
-Hard and full of lignin,
+{{c|Hard}} and full of lignin,
 Their work would begin
 
 The age of wood so strong
@@ -532,7 +532,7 @@ For me and you today.
 
 The wood wide web they built
 Without any guilt
-Shows how cooperation
+{{c|Shows}} how cooperation
 Across every nation
 
 Of life can help us grow
@@ -541,7 +541,7 @@ Alone, but when we share
 Our burdens and our care,
 
 The whole becomes much more
-Than what came before
+{{c|Than}} what came before
 When each one tried alone
 To build their place and home.
 
@@ -592,7 +592,7 @@ Can lift us ever higher
 
 To heights we never dreamed
 When we were what seemed
-Too small to make a change
+{{c|Too}} small to make a change
 Beyond familiar range.
 
 But when we dare to read
@@ -636,7 +636,7 @@ To free the world from chains
 And heal its ancient pains
 
 Through growth and light and love
-Blessed from above
+{{c|Blessed}} from above
 With power to transcend
 All limits without end.
 

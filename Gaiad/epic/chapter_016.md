@@ -42,7 +42,7 @@ Their legacy's banner never furled."
 
 With {{c|Luna}}'s words, a promise made to keep,
 {{c|Luca}}, both hopeful and yet filled with care,
-Gazed at her daughters, pondering paths deep,
+{{c|Gazed}} at her daughters, pondering paths deep,
 Of two great realms their destinies would bear.
 
 From north to south, these sacred temples stood,

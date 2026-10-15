@@ -25,7 +25,7 @@ To one who serves:
 "{{c|Wiwaxius}}, I choose thee
 To set the world life free.
 
-Restore what has been lost
+{{c|Restore}} what has been lost
 And count extinction's cost.
 Protect us from the doom
 That fills up every room."
@@ -43,22 +43,22 @@ A kingdom with no fate.
 But {{c|Molluscus}} bore many
 Sons, more than any
 Other patriarch could claim.
-Eldest was {{c|Testar}}'s name.
+{{c|Eldest}} was {{c|Testar}}'s name.
 
 {{c|Testar}} the sixteen-plated
 Built shell sophisticated.
 A great thick shell he made
 Of valves in organized parade.
 
-Sixteen valves in all:
+{{c|Sixteen}} valves in all:
 Eight large and eight small.
 Eight upon the right
 And eight upon the left so bright.
 
 His brothers had no care
 For building anywhere.
-Bad work ethics they possessed,
-Never did their best.
+{{c|Bad}} work ethics they possessed,
+{{c|Never}} did their best.
 
 {{c|Solenos}} just drank the blood
 Of sons through ocean's flood:
@@ -76,7 +76,7 @@ And {{c|Conchifer}} {{c|Verticus}},
 Both builders glorious.
 
 {{c|Chiton}} {{c|Horizontus}}
-Unified like kratos
+{{c|Unified}} like kratos
 His shells in horizontal row:
 Eight shells in neat tableau.
 
@@ -90,7 +90,7 @@ When threatened from their goal.
 But they aren't very wise—
 They gave up brain's prize
 
-Long ago in time past,
+{{c|Long}} ago in time past,
 Their simple ways held fast.
 {{c|Intelligence}} they traded
 For armor that's not faded.
@@ -116,13 +116,13 @@ His shells into just one—
 Two paths when day begun.
 
 {{c|Bivos}} laid in sand
-Throughout the fertile land
+{{c|Throughout}} the fertile land
 And fished food from the sea
 Most gracefully.
 
 When threatened he would close
 His shells against his foes.
-Together they would shut
+{{c|Together}} they would shut
 Like door without a cut.
 
 His children came to lay
@@ -221,7 +221,7 @@ He became ancestor
 Of tusk shells, protector
 
 Of nothing but his ease.
-Simple creatures please
+{{c|Simple}} creatures please
 Themselves with brainless ways,
 Living all their days
 
@@ -278,7 +278,7 @@ Who from destruction rose.
 {{c|Wiwaxius}} heard the call
 To save life from the fall
 And through his chosen sons
-New chapters begun
+{{c|New}} chapters begun
 
 Of life upon the earth
 That celebrates the worth
@@ -337,7 +337,7 @@ Would end life's choir.
 
 Their shells protect and serve
 Their forms with every curve
-Designed for life's demands
+{{c|Designed}} for life's demands
 In seas and on the lands.
 
 So honor {{c|Molluscus}}' name
