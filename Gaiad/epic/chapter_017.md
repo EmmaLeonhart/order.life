@@ -52,7 +52,7 @@ Two daughters claimed her fiber fierce and wild,
 
 {{c|Actano}} bore two daughters of her own:
 {{c|Actina}}, mother of {{c|Actino}}'s line,
-And {{c|Prasea}}, from whom two seeds were sown—
+And {{c|Prasina}}, from whom two seeds were sown—
 {{c|Saya}} and {{c|Chloroflexa}}, both divine.
 
 {{c|Saya}} the bacteria shed her coat,
@@ -62,7 +62,7 @@ She drank the sun where swirling currents float,
 
 Then {{c|Chloroflexa}} claimed her tapestry,
 Of filamentous grace in silent seas.
-Both born of wise {{c|Prasea}}'s legacy,
+Both born of wise {{c|Prasina}}'s legacy,
 They wove {{c|Earth}}'s green with ancient expertise.
 
 {{c|Fermus}}, the other child of {{c|Terra}}'s sphere,
