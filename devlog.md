@@ -8312,3 +8312,9 @@ as TRAN. FamilySearch ids are not in the order.life data, so no FamilySearch lin
 (1,626 links, clade labels from Wikidata) into `wikibase/analysis/cladoplasts.tsv`; the exporter writes each as a typed
 FACT ("Cladoplast of" Archaea, with the Wikidata link) on the 1,075 that are people in the genealogy (Luca -> life, Arka ->
 Archaea, Bacta -> Bacteria, Viros -> virus). The other 551 links sit on items with no person row.
+
+2026-10-15 10:07 PST: the download package grows. The deploy now also makes /gaiad.docx, /gaiad.odt and /gaiad.txt (pandoc; all in
+/gaiad.zip with the GEDCOM, PDF and EPUB), and a gaiad.zip under each language directory (/ja/, /zh/, /es/, /hi/, /ar/,
+/fr/, /ru/, /uk/): its gedcom.ged adds that language's real labels to the primary zh, ja and ko (the French one 13,584
+more), with the English PDF and EPUB beside it, as Emma described the language versions. `labels.tsv` now holds nine
+languages. The media subdirectory (each person's arms as SVG and PNG) waits on the arms.

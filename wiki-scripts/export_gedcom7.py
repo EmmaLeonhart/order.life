@@ -294,7 +294,11 @@ def lineage_extras(qid, persons, sex_of, canon, labels):
     return names, notes
 
 
-def build_gedcom7(out_path):
+def build_gedcom7(out_path, extra_lang=None):
+    """extra_lang: a language directory's own language (Emma, 2026-10-14: the other language versions "only
+    contain English, Japanese, Chinese, and then whatever ... other language the directory is in"); its real
+    labels are added beside the primary zh, ja and ko."""
+    tran_langs = PRIMARY_LANGS + ((extra_lang,) if extra_lang and extra_lang not in PRIMARY_LANGS else ())
     persons, parents_of, spouse_pairs, precision = load()
 
     sex_of = {}
@@ -390,7 +394,7 @@ def build_gedcom7(out_path):
         # The item's own labels in the primary languages (zh, ja, ko; wikibase/analysis/labels.tsv), where
         # the name lines above do not already have them: as TRAN and as their own NAME, since programs
         # often drop TRAN.
-        extra = [(lg, lb) for lg, lb in labels.get(qid, []) if lg in PRIMARY_LANGS and lb not in names]
+        extra = [(lg, lb) for lg, lb in labels.get(qid, []) if lg in tran_langs and lb not in names]
         for lg, lb in extra:
             w(f"2 TRAN {val(lb)}")
             w(f"3 LANG {lg}")
@@ -523,7 +527,7 @@ def build_gedcom7(out_path):
 
 if __name__ == "__main__":
     dest = Path(sys.argv[1]) if len(sys.argv) > 1 else ANA / "gaiad7.ged"
-    stats = build_gedcom7(dest)
+    stats = build_gedcom7(dest, sys.argv[2] if len(sys.argv) > 2 else None)   # optional: a directory language
     print(f"Wrote {dest}")
     for k, v in stats.items():
         print(f"  {k}: {v:,}")

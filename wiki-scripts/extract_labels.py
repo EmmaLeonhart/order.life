@@ -6,7 +6,7 @@ language directory's files add that directory's language (Emma, 2026-10-14). The
 languages, about 12 per person; all of them in one GEDCOM would add some 50 MB, so the exporter takes the
 primary languages, and per-language files can take their own.
 
-    python wiki-scripts/extract_labels.py [lang ...]     # default: zh ja ko ar ru
+    python wiki-scripts/extract_labels.py [lang ...]     # default: zh ja ko ar ru es fr hi uk
                                                            # writes wikibase/analysis/labels.tsv
 
 Only labels the items actually carry; nothing is generated or transliterated. Stdlib only.
@@ -55,4 +55,4 @@ def main(langs):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1:] or ["zh", "ja", "ko", "ar", "ru"])
+    main(sys.argv[1:] or ["zh", "ja", "ko", "ar", "ru", "es", "fr", "hi", "uk"])

@@ -57,11 +57,29 @@ jobs:
           python scripts/build_book.py /tmp/gaiad_book.md
           pandoc /tmp/gaiad_book.md -f markdown+hard_line_breaks --toc --toc-depth=2 -o site/gaiad.epub
           pandoc /tmp/gaiad_book.md -f markdown+hard_line_breaks --toc --toc-depth=1 --pdf-engine=typst -o site/gaiad.pdf
+          # "all these other formats" (Emma, 2026-10-14): Word, OpenDocument and plain text beside PDF and EPUB.
+          pandoc /tmp/gaiad_book.md -f markdown+hard_line_breaks --toc --toc-depth=2 -o site/gaiad.docx
+          pandoc /tmp/gaiad_book.md -f markdown+hard_line_breaks --toc --toc-depth=2 -o site/gaiad.odt
+          pandoc /tmp/gaiad_book.md -f markdown+hard_line_breaks -t plain -s --wrap=none -o site/gaiad.txt
           mkdir -p /tmp/gaiad-zip
           cp site/gaiad.ged /tmp/gaiad-zip/gedcom.ged
-          cp site/gaiad.pdf site/gaiad.epub /tmp/gaiad-zip/
+          cp site/gaiad.pdf site/gaiad.epub site/gaiad.docx site/gaiad.odt site/gaiad.txt /tmp/gaiad-zip/
           (cd /tmp/gaiad-zip && zip -q -r -9 "$GITHUB_WORKSPACE/site/gaiad.zip" .)
-          ls -la site/gaiad.pdf site/gaiad.epub site/gaiad.zip
+          ls -la site/gaiad.pdf site/gaiad.epub site/gaiad.docx site/gaiad.odt site/gaiad.txt site/gaiad.zip
+
+      # One zip under each language directory (Emma, 2026-10-14: those versions "only contain English, Japanese,
+      # Chinese, and then whatever ... other language the directory is in"): its GEDCOM adds that language's real
+      # labels; the books in it are the English text.
+      - name: Build the language zips
+        run: |
+          for lang in ja zh es hi ar fr ru uk; do
+            d=/tmp/zip-$lang && rm -rf $d && mkdir -p $d
+            python wiki-scripts/export_gedcom7.py $d/gedcom.ged $lang > /dev/null
+            cp site/gaiad.pdf site/gaiad.epub $d/
+            mkdir -p site/$lang
+            (cd $d && zip -q -r -9 "$GITHUB_WORKSPACE/site/$lang/gaiad.zip" .)
+          done
+          ls -la site/*/gaiad.zip
 
       - uses: actions/upload-pages-artifact@v3
         with:
