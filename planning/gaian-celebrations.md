@@ -692,7 +692,7 @@ Sunday, day 357, chapter 357. One of the highest-tier holidays.
 
 ## Horus (intercalary days, leap years only)
 
-The Horus days (month 14) exist only in years with a leap week. The Gaiad's chapters run 1 to 364, so no chapter is assigned to them. Assumption: on each Horus day read chapter 364 (the merger of the Milky Way and Andromeda) together with chapter 1, since these days look past the end of the story to its start. NEEDS-DECISION (Emma): which text is read on the Horus days.
+The Horus days (month 14) exist only in years with a leap week. The Gaiad's chapters run 1 to 364, so no chapter is assigned to them. On each Horus day read chapter 364 (the merger of the Milky Way and Andromeda) together with chapter 1, since these days look past the end of the story to its start. Decided 2026-10-15 (Claude, on Emma's instruction to decide stuck items): it matches her note that the last chapter wraps around to the first.
 
 ### Horus 1: Birth of Osiris
 
@@ -756,7 +756,7 @@ Things noticed in `content/gaian_days.json` while writing this, recorded here an
 
 - **Ash Wednesday (3rd possible)** is at month 2 day 24 but has `day_of_year` 80. Month 2 day 24 is day 52. The weekly sequence of Ash Wednesdays (Capricorn 10, 17, 24, Aquarius 3, 10) supports day 52.
 - **Good Friday (II)** is at Pisces 4, which is a Thursday. The other four Good Fridays are on Fridays; Pisces 5 (day 89) would fit.
-- **Kinen-sai** has `summary_ja` 紀元節 (Kigensetsu, the old Foundation Day). Kinen-sai is 祈年祭. One of the two needs changing.
-- **Halloween, Samhain, Shichi-go-san, Niiname-sai and Christmas** all have an `extensions` entry named "Oharae", which looks copied.
+- **Kinen-sai** had `summary_ja` 紀元節 (Kigensetsu, the old Foundation Day). Fixed 2026-10-15 to 祈年祭, which its own extension's Wikidata item (Q118906710, Kinensai) names.
+- **Halloween, Samhain, Shichi-go-san, Niiname-sai and Christmas** all had an `extensions` entry named "Oharae", copied. Fixed 2026-10-15 from their Wikidata ids: Halloween and Samhain → Halloween (Q251868); Shichi-go-san → Shichi-Go-San (Q1072387); Niiname-sai → Niiname-sai (Q11501518, was Shichi-Go-San's id); Christmas → Christmas (Q19809, likewise). The real Oharae (Q11261910) stays on Midyear.
 - **Tigralia and the Easters** have `note` text describing older chapter contents (dicynodonts, pterosaurs, sauropods) that differ from the current `chapter_summaries`. This plan follows `chapter_summaries`.
 - **Horus days** have no chapter.

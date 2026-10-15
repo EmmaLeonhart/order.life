@@ -8214,3 +8214,10 @@ paper and the move to Vancouver. Nothing private was added.
 2026-10-15 02:35 PST: the Ophiuchus layout for the 2026 edition (Ophiuchus N = 2000 + N) is now pinned correction 12 in
 STATUS.md and a note at the head of the Ophiuchus section of `planning/gaiad-253-364/day-themes-draft.md`. No chapter
 moved: per her "self-healing", each moves one day later when next revised, since each is paired with its day's holidays.
+
+2026-10-15 02:39 PST: the celebrations plan's three open points settled. Horus days: chapters 364 and 1 together
+(matches "the last chapter wraps around to the first"). `content/gaian_days.json`: Kinen-sai's Japanese label
+紀元節 corrected to 祈年祭 (its own Wikidata item, Q118906710); the five copied "Oharae" extensions renamed from
+their Wikidata ids (Halloween ×2, Shichi-Go-San), and Niiname-sai and Christmas given their own ids (Q11501518,
+Q19809) in place of Shichi-Go-San's. The two other data notes (Ash Wednesday's day_of_year, Good Friday II on a
+Thursday) were left for their own look.
