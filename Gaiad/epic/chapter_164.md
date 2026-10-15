@@ -253,7 +253,7 @@ And {{p|Islamic}} political theology. A king stands under {{c|God}}, not
 Beside him. A king can be rebuked by a prophet. A king is
 Accountable. The {{c|David}}-{{c|Nathan}} encounter—the prophet confronting
 The king about his sin—is one of the foundational moments of
-{{p|Western}} political-religious imagination. It asserts that even
+Western political-religious imagination. It asserts that even
 
 The most powerful ruler is accountable to a moral order that
 Transcends his own authority. The implications of this for the

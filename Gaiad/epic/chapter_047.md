@@ -16,7 +16,7 @@ That sons of {{c|Scaphopus}},
 Not quite so prosperous,
 
 Would fade from memory
-{{c|Throughout}} history.
+Throughout history.
 Few know them at all
 Who hear the ocean's call.
 
@@ -36,7 +36,7 @@ In wisdom's deepest lore
 From mountain peak to shore.
 
 {{c|Ellesmere}} went deeper
-{{c|Than}} any secret keeper
+Than any secret keeper
 Had gone before his time
 Down below the brine
 
@@ -75,8 +75,8 @@ When his growth was done
 Grew nine thousand long
 {{c|Millimeters}} strong.
 
-{{c|Twenty}} cubits he
-{{c|Measured}}, front to back, free
+Twenty cubits he
+Measured, front to back, free
 From end to end complete—
 No foe could compete.
 
@@ -86,7 +86,7 @@ A new age in the sea
 Of cephalopod decree.
 
 {{c|Actinos}}, by his air
-{{c|Heavenly}} and fair
+Heavenly and fair
 Within his shell contained,
 Had power that sustained
 
@@ -116,7 +116,7 @@ Upon the earth below
 Where wisdom's waters flow.
 
 In his old age he bore
-{{c|Countless}} children more
+Countless children more
 Who did the very same:
 Youth's glory and fame
 
@@ -137,7 +137,7 @@ Who lived his whole life long.
 
 {{c|Oncos}} lived a life
 Without much joy or strife—
-{{c|Coiled}} but simple, he
+Coiled but simple, he
 Lived quite peacefully.
 
 {{c|Oncos}} bore many sons,
@@ -146,7 +146,7 @@ Their lives was {{c|Rutos}}, who
 Would see great wonders through.
 
 {{c|Rutos}} bore a son
-{{c|Named}} {{c|Nautilus}}, begun
+Named {{c|Nautilus}}, begun
 In wisdom of the deep
 That ancestors would keep.
 
@@ -247,7 +247,7 @@ To rule with providence
 
 Over the ancient sea
 Where {{c|Leviathan}}'s decree
-{{c|Once}} held the power supreme
+Once held the power supreme
 In every ocean's dream.
 
 But wisdom overthrew
@@ -282,7 +282,7 @@ From night into the day,
 
 The cephalopods remind
 Us that the wisest mind
-{{c|Often}} starts quite small
+Often starts quite small
 But answers wisdom's call
 
 To grow beyond all measure

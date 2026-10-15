@@ -21,12 +21,12 @@ By her blessing, bright and true,
 On the full moon he bore two.
 
 Two sons came in her silver light:
-{{c|Traditional}} {{c|Anthus}}, shining bright,
+Traditional {{c|Anthus}}, shining bright,
 And bold {{c|Anaxydros}} the new,
 Whose innovations would shine through.
 
 To this day when {{c|Luna}}'s face
-{{c|Shines}} full upon the watery place,
+Shines full upon the watery place,
 The sons of {{c|Cnider}} and fair {{c|Nettle}}
 Their reproductive matters settle.
 
@@ -35,7 +35,7 @@ As {{c|Luna}}'s ancient song is sung.
 The tidal pull, the silver beam
 Fulfill their reproductive dream.
 
-{{c|Now}} {{c|Anthus}} kept the ancient way,
+Now {{c|Anthus}} kept the ancient way,
 Following tradition's display.
 His children built their homes on stone
 And never far from land they'd roam.
@@ -61,7 +61,7 @@ A new city he did build
 That with wanderlust was filled.
 
 His city floated in the sea,
-{{c|Drifting}} wild and drifting free.
+Drifting wild and drifting free.
 The ancestor of jellyfish,
 He granted their floating wish.
 
@@ -96,11 +96,11 @@ These partnerships would make
 The reefs for others' sake.
 
 From {{c|Meduson}} came children two:
-{{c|Bold}} {{c|Diplos}} and sweet {{c|Jelly}} true.
+Bold {{c|Diplos}} and sweet {{c|Jelly}} true.
 Each would take a different path
 Through ocean's joy and wrath.
 
-{{c|Fair}} {{c|Jelly}} bore two mighty lines
+Fair {{c|Jelly}} bore two mighty lines
 Of jellyfish with grand designs:
 The {{c|Cubozoans}}, box-shaped, wise,
 Who learned to use their eyes.
@@ -156,7 +156,7 @@ Beneath the waves they rise
 Like underwater skies.
 
 Each polyp in its cup
-{{c|Reaches}} tentacles up
+Reaches tentacles up
 To catch the food that drifts
 Through water's gentle shifts.
 
@@ -177,7 +177,7 @@ Without a doubt.
 
 From {{c|Cnider}}'s rocky throne
 His children, fully grown,
-{{c|Spread}} through the waters wide
+Spread through the waters wide
 With tentacles as guide.
 
 In every sting you feel
@@ -187,7 +187,7 @@ That gave them their start.
 
 The radial symmetry
 Of their biology
-{{c|Shows}} patterns clean and true
+Shows patterns clean and true
 In everything they do.
 
 So honor great {{c|Cnider}},

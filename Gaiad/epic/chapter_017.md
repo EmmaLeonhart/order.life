@@ -1,7 +1,7 @@
 # Chapter 17: The Hadean Hellscape
 
 From {{c|Bacta}}'s womb, two daughters did arise,
-{{c|Fair}} {{c|Hydra}} one, and {{c|Terra}} forged in might.
+Fair {{c|Hydra}} one, and {{c|Terra}} forged in might.
 In swirling seas, they cast their ancient eyes,
 To found the clans now thriving in the light.
 
@@ -21,7 +21,7 @@ From {{c|Rachel}}’s line would humans one day share
 A kinship bridging worlds across all space.
 
 {{c|Kalia}}'s brood, the {{c|Calisto}} line named,
-{{c|Spread}} subtle powers through the hidden deep.
+Spread subtle powers through the hidden deep.
 {{c|Proteus}} watched, content in all she claimed,
 While daughters thrived in countless worlds to keep.
 
@@ -43,7 +43,7 @@ While {{c|Korba}}’s path saw more constructive deed.
 {{c|Korba}} then mothered {{c|Chlorobia}}’s seed,
 And {{c|Bactero}}, whose brood spread wide on land.
 Thus {{c|Hydra}}’s line advanced in timely deed,
-{{c|Expanding}} far to flourish as they planned.
+Expanding far to flourish as they planned.
 
 Meanwhile, fair {{c|Terra}}, {{c|Bacta}}’s other child,
 Stood quite bright in {{c|Gram}}-positivity

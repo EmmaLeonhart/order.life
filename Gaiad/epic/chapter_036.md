@@ -27,7 +27,7 @@ A mate both true and kind.
 
 {{c|Pantopus}} was lonely there
 Until he met a maiden fair.
-{{c|Beautiful}} {{c|Pyka}} was her name,
+Beautiful {{c|Pyka}} was her name,
 Who set his heart aflame.
 
 "You are all legs!" he cried
@@ -36,7 +36,7 @@ And so they became the line
 Of {{c|Sea}} {{c|Spiders}} so fine.
 
 The {{c|Sea}} {{c|Spiders}} built cities strange
-{{c|Throughout}} their ocean range.
+Throughout their ocean range.
 In their legs they stored
 All organs they adored:
 
@@ -67,7 +67,7 @@ Great legs for their trade.
 
 Some lived in waters blue,
 Some on land walked through.
-{{c|Aquatic}} and terrestrial,
+Aquatic and terrestrial,
 Both paths proved beneficial.
 
 {{c|Insectus}} bore three sons strong:
@@ -95,7 +95,7 @@ Where dry and wet air talked.
 The asphyxiating land
 They faced with courage grand.
 
-{{c|Here}} they laid their eggs
+Here they laid their eggs
 Between the stone ledges.
 In gardens of lichen green
 Their young would first be seen.
@@ -139,8 +139,8 @@ Of {{c|Marellans}} no less.
 
 Like phantoms in the sea
 They lived quite freely.
-{{c|Soft}}-bodied and ethereal,
-{{c|Almost}} immaterial.
+Soft-bodied and ethereal,
+Almost immaterial.
 
 {{c|Trilobon}} bore four children
 In waters never still then:
@@ -229,7 +229,7 @@ A body plan quite slim.
 The {{c|Crustaceans}} in the sea
 Built their dynasty.
 The insects on the land
-{{c|Spread}} with courage grand.
+Spread with courage grand.
 
 The arachnids eight-legged
 From {{c|Chelicer}} were pledged.
@@ -244,7 +244,7 @@ Until their final day.
 From {{c|Pantopus}} and {{c|Pyka}}'s love
 To rulers high above,
 {{c|Arthur}}'s legacy spread
-{{c|Long}} after he was dead.
+Long after he was dead.
 
 In every arthropod
 That walks upon the sod,

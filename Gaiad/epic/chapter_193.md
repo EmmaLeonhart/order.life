@@ -66,7 +66,7 @@ with the golden headband that could constrict
 if the monk chanted the spell's {{x|Sanskrit}} funk.
 
 {{c|Pigsy}} ({{c|Zhu Bajie}}), the lazy glutton pig-man,
-{{c|Sandy}} ({{c|Sha Wujing}}), the stoic river demon,
+Sandy ({{c|Sha Wujing}}), the stoic river demon,
 and the dragon prince who became the horse —
 four disciples of the monk, the protection demon.
 

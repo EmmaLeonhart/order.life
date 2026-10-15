@@ -174,7 +174,7 @@ At its end—was one of the most creative periods in human history.
 
 {{p|Athens}} produced the playwrights {{c|Aeschylus}}, {{c|Sophocles}}, {{c|Euripides}},
 And {{c|Aristophanes}}—whose tragedies and comedies founded the
-{{p|Western}} dramatic tradition. It produced the historians {{c|Herodotus}}
+Western dramatic tradition. It produced the historians {{c|Herodotus}}
 And {{c|Thucydides}}—who invented history as a literary and analytical
 
 Genre. It produced the sculptor {{c|Phidias}}, whose statues of {{c|Athena}}
@@ -185,7 +185,7 @@ One of the most influential buildings ever designed. It produced
 The politician {{c|Pericles}}, whose leadership and oratory defined
 The golden age. And it produced {{c|Socrates}}, whose radically
 Different philosophical method would reshape all subsequent
-{{p|Western}} thought. All within a single city of perhaps fifty
+Western thought. All within a single city of perhaps fifty
 
 Thousand adult male citizens. All within roughly a century. The
 Cultural output per capita is staggering. Nothing comparable had
@@ -275,7 +275,7 @@ Is impossible, being is eternal and unchanging, what appears to
 
 Change is mere illusion. These two opposed positions—the {{c|Heraclitean}}
 And the {{c|Parmenidean}}—frame a dialectic that still structures
-{{p|Western}} philosophy. Every metaphysical debate about the nature
+Western philosophy. Every metaphysical debate about the nature
 Of change, of identity, of permanence, of becoming, traces back
 
 To these {{p|pre-Socratic}} arguments. And meanwhile, while these

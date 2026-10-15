@@ -56,7 +56,7 @@ His words of warning seemed to seal their tomb
 And gave them little choice but heed them all.
 
 {{c|Shesha}} traveled to every distant sea
-{{c|Despite}} the cold night breeze and bitter storm,
+Despite the cold night breeze and bitter storm,
 Across the reefs where coral colonies
 Had flourished long in beauty's living form.
 
@@ -76,7 +76,7 @@ Only the faithful's vision, and their worth,
 Will guide them through the storm with faithful sight
 
 And keep their bodies warm when all the rest
-{{c|Turns}} into dust because they could not see
+Turns into dust because they could not see
 That those who fail the ultimate test
 Are those who trust in their own vanity."
 
@@ -96,7 +96,7 @@ Two demons came with death's cruel tyranny:
 {{c|Kellwasser}}'s breath of poisoned misery
 
 And {{c|Hangenberg}}'s most cruel and evil hand
-{{c|Destroyed}} both ocean's depths and fertile land.
+Destroyed both ocean's depths and fertile land.
 The reefs that filled the world with beauty bright
 Were crushed beneath the weight of endless night.
 
@@ -157,12 +157,12 @@ And he was left to face the world unknown.
 
 While all the sons of mighty {{c|Eurypter}}
 Were exiled from the seas they'd loved so long,
-{{c|Never}} to return, no one to deter
+Never to return, no one to deter
 Their banishment—they'd lost their ancient song
 
 Of joy that they had sung through centuries
 In waters that they'd loved through all their days,
-{{c|Never}} to return to gentle seas
+Never to return to gentle seas
 That they would yearn for all their exiled ways.
 
 The blood of ammonites turned all the seas
@@ -172,7 +172,7 @@ And left the world filled with the faithful dead.
 
 The last graptolite lived a life so lone
 That none would give to any living thing:
-{{c|Completely}} isolated and alone,
+Completely isolated and alone,
 {{c|Remembering}} the glory of his king
 
 And all the beauty that was lost when frost
@@ -190,7 +190,7 @@ Of sorrow, loss, and unrelenting pain
 That fell like bitter acid rain to sour
 The faithful hearts that struggled to remain
 
-{{c|True}} to their hope when evil's poison spread
+True to their hope when evil's poison spread
 Its bitterness throughout the world so wide
 And hope seemed like a flower that was dead
 With none to tend it or stand by its side.
@@ -231,7 +231,7 @@ Of those who came before and paid the cost
 Of freedom when all hope seemed to be lost.
 
 The wisdom of the old must not remain
-{{c|Untold}}, but passed from heart to heart again
+Untold, but passed from heart to heart again
 If we would ever hope to make a start
 At healing the world's broken heart
 

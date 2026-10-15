@@ -27,7 +27,7 @@ And make it all his own."
 
 And so began the era
 Of {{c|Silurian}} chimera,
-{{c|Rising}} from the ashes
+Rising from the ashes
 Of {{c|Ordovician}}'s crashes.
 
 {{c|Silur}} bore two sons:
@@ -43,7 +43,7 @@ Living by the sea.
 {{c|Xiphos}} became the sire
 Of crabs whose desire
 Was horseshoe-shaped design
-{{c|Throughout}} the end of time.
+Throughout the end of time.
 
 {{c|Belangkas}} climbed up high
 Onto the land to try
@@ -72,13 +72,13 @@ Who spread life everywhere.
 
 {{c|Opiliona}} spread the moss
 Across the world, no loss
-{{c|Too}} great for her to bear
+Too great for her to bear
 In her maternal care.
 
 She grazed upon the green
 And on what could be seen
 Of daughters of {{c|Millipa}}
-{{c|Throughout}} the earthly steppe-a.
+Throughout the earthly steppe-a.
 
 {{c|Opiliona}} was a mother
 Great, and like no other
@@ -90,7 +90,7 @@ As one who would confer
 Great blessings on the land
 With her maternal hand.
 
-{{c|Beautiful}} legs so long
+Beautiful legs so long
 Made her the subject of song:
 "{{c|Granny}} {{c|Long}} Legs" they'd call
 Her, beloved by all.
@@ -161,7 +161,7 @@ With worry and with fear—
 {{c|Parasites}} we hear
 
 {{c|Stifle}} life with their ways
-{{c|Throughout}} our living days,
+Throughout our living days,
 {{c|Horrific}} in their greed
 That plants destruction's seed.
 
@@ -198,10 +198,10 @@ Who answer hunting's call.
 {{c|Kitzi}} begat two sons:
 {{c|Byblos}} when day begun
 And {{c|Paras}}, who would be
-{{c|Small}} in his degree.
+Small in his degree.
 
 {{c|Byblos}} the Book {{c|Knight}}
-{{c|Continues}} day and night
+Continues day and night
 To this very day
 To guard in his own way
 
@@ -221,7 +221,7 @@ And {{c|Holoxos}} the strong
 Who lived his whole life long.
 
 {{c|Mesos}} was a hunter
-{{c|Fierce}}, and he would shunt-er
+Fierce, and he would shunt-er
 Across the globe to find
 {{c|Prey}} to feed his mind
 
@@ -335,7 +335,7 @@ That steals away our breath.
 But only greed and hate,
 {{c|Engorged}} with others' fate,
 
-{{c|Shows}} us what becomes
+Shows us what becomes
 Of those whose evil sums
 Into a force so strong
 That right can't win from wrong.
@@ -382,7 +382,7 @@ For you and me.
 
 Some choose to heal and mend
 What others would rend
-{{c|Apart}} with greed and hate
+Apart with greed and hate
 That seals our mortal fate.
 
 Others choose to take
@@ -391,7 +391,7 @@ What others need to live
 And never learn to give.
 
 The lesson clear as day
-{{c|Shows}} us the way
+Shows us the way
 To choose what we will be
 For all eternity:
 

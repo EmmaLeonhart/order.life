@@ -27,7 +27,7 @@ Their strength now boundless as they boldly grew.
 
 Three brothers stood, their destinies held close,
 One to nurture life, his name was {{c|Bios}}.
-{{c|Another}} thrived through cunning, slick {{c|Viros}},
+Another thrived through cunning, slick {{c|Viros}},
 The last sought purity, he was {{c|Dedos}}.
 
 The brothers gathered in a hallowed place,

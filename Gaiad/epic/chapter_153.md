@@ -4,7 +4,7 @@ And {{p|Egypt}} emerged from the {{p|First Intermediate Period}}.
 
 The collapse of the {{p|Old Kingdom}} around twenty-two hundred BCE
 Had fragmented the unified state into rival regional dynasties.
-{{p|Upper}} and {{p|Lower Egypt}} had split. {{p|Herakleopolis}} ruled the
+Upper and {{p|Lower Egypt}} had split. {{p|Herakleopolis}} ruled the
 North. {{p|Thebes}}—an obscure provincial town at the time—gradually
 
 Rose in the south. For over a century, {{p|Egypt}} was divided, weakened,

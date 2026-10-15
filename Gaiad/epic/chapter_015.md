@@ -46,7 +46,7 @@ A testament to life's enduring grace,
 With Mother {{c|Earth}}, their bond forever true.
 
 Within the temple's walls, a daughter stood,
-{{c|Named}} {{c|Luca}}, gazing at the starlit dome;
+Named {{c|Luca}}, gazing at the starlit dome;
 As {{c|Sol}} receded, {{c|Luna}} bright withstood,
 And in her heart, a promise found its home.
 

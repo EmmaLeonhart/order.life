@@ -182,7 +182,7 @@ Formative importance. There would be later great dynasties—{{p|Tang}},
 Trying to live up to the template set by the {{p|Han}}. The {{p|Han}}
 Was, for subsequent {{p|Chinese}} civilization, what {{p|Rome}} was for
 
-{{p|Western}} civilization: the classical imperial model against which
+Western civilization: the classical imperial model against which
 All later empires were measured.
 
                                       The {{p|Han Dynasty}} declined in

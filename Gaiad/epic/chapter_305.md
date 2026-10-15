@@ -70,7 +70,7 @@ And the members were to receive it. This chapter does not certify the masters,
 And it does not try the wonders. A disputed voice is not yet a reaching
 Of the ground. The ground on the seventeenth is a set of minutes and an address.
 
-{{c|Felt}}'s lost canon is the hope and the tell. One proportion, recovered,
+Felt's lost canon is the hope and the tell. One proportion, recovered,
 That would make the temples of three civilizations agree in a single measure:
 The hope is human, and old, and it goes bad when the people who called
 The meeting declare the measure found, and the temples must come to them to be told

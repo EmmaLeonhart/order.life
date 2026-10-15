@@ -10,7 +10,7 @@ Each one supported by
 With water pressure in their frame
 They bore their body's name.
 
-{{c|Together}} they perceived the flaw:
+Together they perceived the flaw:
 When movement broke the law
 Of circulation through their form,
 Their blood could not stay warm.
@@ -20,7 +20,7 @@ They needed greater strength.
 So hearts they built with arteries
 And veins like flowing seas.
 
-{{c|Together}} each one made with care
+Together each one made with care
 Closed systems everywhere.
 The blood would flow in circuits true
 And nourish organs through.
@@ -43,7 +43,7 @@ His prey with skillful stunt.
 His sons are known today
 As {{c|Ribbon}} {{c|Worms}} who slay
 Their victims with their poison dart
-{{c|Shot}} straight into the heart.
+Shot straight into the heart.
 
 {{c|Segmentus}} built his body wise
 With segments that would rise
@@ -51,7 +51,7 @@ In number past all count—
 Each segment paramount.
 
 He built resilience strong
-{{c|Throughout}} his body long.
+Throughout his body long.
 With countless legs and bristles too
 His segments carried through
 
@@ -72,7 +72,7 @@ Who chose a different fate.
 
 {{c|Amphinos}} became the sire
 Of worms that burn like fire.
-{{c|Fierce}} beasts with spikes of poison bright
+Fierce beasts with spikes of poison bright
 In colors burning bright.
 
 We never tread upon their ground
@@ -80,7 +80,7 @@ Where they can be found.
 Their beauty hides their deadly art—
 They'll pierce the beating heart.
 
-{{c|Modern}} flags today still show
+Modern flags today still show
 The colors that bestow
 Great honor to {{c|Amphinos}}' line
 With patterns so divine.
@@ -103,7 +103,7 @@ Who swam the ocean blue.
 {{c|Greatswimmer}} bore a son and daughter:
 {{c|Phyllos}} swift of water
 And {{c|Eunice}}, jealous, wild,
-{{c|Never}} meek or mild.
+Never meek or mild.
 
 {{c|Eunice}} the vicious was
 {{c|Jealous}} without cause.
@@ -121,7 +121,7 @@ More diverse than any:
 Across the boundless sea.
 
 {{c|Syllides}} the lazy one
-{{c|Never}} courted, never won
+Never courted, never won
 A mate through his own art—
 He'd bud off body part
 
@@ -162,7 +162,7 @@ From west unto the east.
 With feathers bright and fair,
 And {{c|Spiona}} everywhere
 With tentacles that sway
-{{c|Throughout}} the night and day.
+Throughout the night and day.
 
 {{c|Sabella}}'s daughters live
 As fishermen who give
@@ -204,7 +204,7 @@ Like {{c|Sipuncula}} before,
 Was so unique and fine
 We thought her line divine
 
-{{c|Enough}} to be its own
+Enough to be its own
 {{c|Phylum}}, standing alone.
 Her creativity
 Gave her divinity.

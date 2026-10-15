@@ -10,7 +10,7 @@ Who bore his son bright {{c|Navros}} in the night.
 Then {{c|Navros}} sired bold {{c|Gravros}}, strong and lean,
 Who faced the world with viral, cunning might.
 
-{{c|Now}} {{c|Gravros}} wed fair {{c|Heimdalla}} the true,
+Now {{c|Gravros}} wed fair {{c|Heimdalla}} the true,
 That watchful guardian of the arctic realm.
 Their union blessed, from love their lineage grew,
 With {{c|Poxus}} born to take the viral helm.
@@ -37,7 +37,7 @@ Who bore within his form both gifts divine.
 
 {{c|Proto}}-Two then found his destined mate,
 In {{c|Nuclella}} of the membrane wall.
-{{c|Together}} they would not procrastinate,
+Together they would not procrastinate,
 But answer evolution's sacred call.
 
 And from their union, blessed by {{c|Aster}}'s grace,
@@ -50,14 +50,14 @@ A nucleus wrapped in membrane double-walled.
 His father's legacy, forevermore,
 Would guard the scrolls where destiny was scrawled.
 
-{{c|Now}} {{c|Euka}} wandered through the frozen sea,
+Now {{c|Euka}} wandered through the frozen sea,
 Where ice had locked the world in silent death.
 His nuclear gift could set all life free,
 But first he needed love's life-giving breath.
 
 In deep thermal vents where warmth still flowed,
 Two sisters dwelt in phospholipid halls.
-{{c|Fair}} {{c|Eve}} and {{c|Lilith}}, from one mother showed,
+Fair {{c|Eve}} and {{c|Lilith}}, from one mother showed,
 Both beautiful, both answering love's calls.
 
 These daughters of the proteobacter line,
@@ -72,7 +72,7 @@ And promised warmth throughout the endless night.
 
 "Come dwell with me," she whispered soft and low,
 "My cristae fold in patterns deep and wide.
-{{c|Together}} we can make ATP flow,
+Together we can make ATP flow,
 With you as master, I'll be faithful bride."
 
 And {{c|Euka}}, cold from wandering alone,
@@ -100,7 +100,7 @@ To steal his viral secrets and his power.
 But {{c|Euka}} felt his sacred essence flown,
 And knew this was corruption's bitter hour.
 
-"{{c|False}} bride!" he cried, "You seek to steal my soul!
+"False bride!" he cried, "You seek to steal my soul!
 My nuclear gift is not for selfish gain!
 I sought a partner, not one to control—
 Our love is broken, trust forever slain!"
@@ -116,8 +116,8 @@ She swore revenge upon the first-born cell.
 And make your progeny's life a living hell!"
 
 From {{c|Lilith}}'s fury sprang her dreadful line:
-{{c|Dark}} {{c|Rickettsia}} with her spotted fever,
-{{c|Cruel}} {{c|Wolbachia}} with her love malign,
+Dark {{c|Rickettsia}} with her spotted fever,
+Cruel {{c|Wolbachia}} with her love malign,
 And hosts of parasites, each a deceiver.
 
 These daughters of the first rejected bride
@@ -141,12 +141,12 @@ No greed or pride dimmed her radiant sight,
 Only pure love and purpose divine.
 
 And {{c|Euka}}, seeing {{c|Eve}}'s devoted heart,
-{{c|Welcomed}} her to his nuclear domain.
+Welcomed her to his nuclear domain.
 Two beings joined, yet never to depart,
 Their union blessed by joy, not born of pain.
 
 Great {{c|Mithra}}, god of sacred bonds and trust,
-{{c|Descended}} from his stellar throne on high.
+Descended from his stellar throne on high.
 "This marriage shall endure while time's dust
 Still marks the passage of eternity."
 
@@ -185,7 +185,7 @@ Could beat in rhythm through the liquid medium.
 With undulation's grace, she gave to all
 The gift of motion, life's own freedom.
 
-{{c|Next}} born was {{c|Golgi}}, master of the trade,
+Next born was {{c|Golgi}}, master of the trade,
 Who built his apparatus, complex, vast.
 Through vesicles and cisternae he made
 The proteins that would serve and last.
@@ -215,7 +215,7 @@ That would divide the chromosomes with care.
 Their dance at mitosis, rhythmic,
 {{c|Ensured}} each daughter got her rightful share.
 
-{{c|Last}} came their son, brave {{c|Nucleus}} the Second,
+Last came their son, brave {{c|Nucleus}} the Second,
 Who formalized his father's ancient gift.
 With pores and lamins, carefully reckoned,
 He gave the cell structure that would not drift.
@@ -233,7 +233,7 @@ To make life complex, rich, and fair.
 But {{c|Lilith}}'s curse was not forgotten,
 Her daughters prowled the cellular seas.
 They struck when defenses had grown rotten,
-{{c|Bringing}} fever, plague, disease.
+Bringing fever, plague, disease.
 
 {{c|Rickettsia}} brought her spotted fever's bane,
 While {{c|Wolbachia}} enslaved her willing hosts.
@@ -268,7 +268,7 @@ Will fill the cosmos, claiming rightful space.
 In every cell that breathes today,
 In every beat of living heart,
 The marriage of that ancient day
-{{c|Plays}} its eternal, vital part.
+Plays its eternal, vital part.
 
 So honor {{c|Euka}}, first and true,
 And gentle {{c|Eve}}, his faithful bride.

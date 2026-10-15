@@ -2,7 +2,7 @@
 
 From {{c|Anu}}'s unique lineage came
 Two sons of very different fame:
-{{c|Bold}} {{c|Enki}}, seeker of the sea,
+Bold {{c|Enki}}, seeker of the sea,
 And {{c|Homos}}, keeping family.
 
 While {{c|Homos}} chose his father's way,
@@ -11,7 +11,7 @@ Great {{c|Enki}} felt adventure's call
 To sail beyond the harbor wall.
 
 "I shall explore the ocean wide,"
-{{c|Declared}} brave {{c|Enki}} with great pride.
+Declared brave {{c|Enki}} with great pride.
 "My creatures shall both move and scurry
 Through seas and lands without worry."
 
@@ -42,10 +42,10 @@ The paths through space and time.
 
 The {{c|Flamens}} looked into the sky
 And saw with their trained eye
-{{c|Rich}} larvae floating by
+Rich larvae floating by
 With yolks that multiply.
 
-"{{c|Here}}," they said, "the signs are right
+"Here," they said, "the signs are right
 To build beneath this sight.
 The stars align above
 To bless what we love."
@@ -55,14 +55,14 @@ The gods came into view.
 Each brought a sacred gift,
 To help their spirits lift.
 
-{{c|Dark}} {{c|Tyrosine}} the {{c|Devil}} came
+Dark {{c|Tyrosine}} the {{c|Devil}} came
 With three spells of flame:
 {{x|Adrenaline}}'s rush so bright,
 {{x|Noradrenaline}}'s fight,
 And {{c|Dopamine}}'s delight.
 
 Then {{c|Tryptophanes}} the {{c|Sun}}
-{{c|Blessed}} them, every one,
+Blessed them, every one,
 With {{c|Serotonin}}'s day
 And {{c|Melatonin}}'s way.
 
@@ -86,8 +86,8 @@ And blessed him by the sea
 With {{c|Acetylcholine}}'s might
 To coordinate their sight.
 
-{{c|Fair}} {{c|Iodina}}, mother great,
-{{c|Revealed}} love's incarnate:
+Fair {{c|Iodina}}, mother great,
+Revealed love's incarnate:
 The sacred {{x|CYIQNCPLG}},
 {{c|Oxytocin}}'s key.
 
@@ -117,7 +117,7 @@ The nervous system's might:
 
 The {{c|Flamens}} learned to spear
 The larvae swimming near.
-{{c|Coordinated}}, they became
+Coordinated, they became
 {{c|Nematocysts}} by name.
 
 Their hunting grew precise
@@ -157,10 +157,10 @@ It weathered every storm.
 
 From {{c|Enki}} came two sons
 When his great work was done:
-{{c|Bold}} {{c|Paraxus}} the strong
+Bold {{c|Paraxus}} the strong
 And {{c|Xiangus}} life long.
 
-{{c|Now}} {{c|Xiangus}} took the way
+Now {{c|Xiangus}} took the way
 Of robotic arms' display.
 His fishermen arranged
 On arms that never changed.

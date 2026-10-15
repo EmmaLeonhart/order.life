@@ -10,7 +10,7 @@ A {{c|Hox}} of power so divine.
 The {{c|Homeobox}}, that sacred tool
 Would be bilateral symmetry's rule.
 
-"{{c|Look}} here," fair {{c|Hecate}} declared,
+"Look here," fair {{c|Hecate}} declared,
 "{{c|Direction}} shall be yours to share.
 No more shall creatures drift around
 Without a plan of what they've found."
@@ -52,17 +52,17 @@ In bilateral abundance.
 
 From {{c|Paraxus}} came three sons
 When his great work was done:
-{{c|Bold}} {{c|Bilateron}} the true,
+Bold {{c|Bilateron}} the true,
 {{c|Cnider}} with his mouths so new,
 And {{c|Placus}}, simple through and through.
 
-{{c|Now}} {{c|Cnider}} built a wondrous form,
+Now {{c|Cnider}} built a wondrous form,
 To weather every storm.
 From each lobe of his body wide
 He made a mouth on either side.
 
 Through these portals he would feed,
-{{c|Catching}} fish to meet his need.
+Catching fish to meet his need.
 His radial symmetry
 Brought him prosperity.
 
@@ -101,9 +101,9 @@ Gave {{c|Bilateron}} sight.
 No more would he hunt blind
 With only touch to find.
 
-{{c|Fair}} {{c|Vendia}} became his bride,
+Fair {{c|Vendia}} became his bride,
 And stayed there by his side.
-{{c|Together}} they bore children two:
+Together they bore children two:
 Great {{c|Coelomus}} and {{c|Xenus}} true.
 
 The sons of {{c|Xenus}} held the line
@@ -116,7 +116,7 @@ Was {{c|Roscoff}}, who found his place
 When he wed {{c|Tetraselma}} fair,
 An algae beyond compare.
 
-{{c|Together}} they became the pair
+Together they became the pair
 Who founded lineages rare.
 The {{c|Roscoff}} worms today
 Still follow their ancient way.
@@ -129,7 +129,7 @@ Still swim there side by side.
 But {{c|Coelomus}} chose a different course,
 He built with greater force.
 His stomach sent so deep it went
-{{c|Right}} through his whole extent.
+Right through his whole extent.
 
 It came out the other side
 And became his pride:
@@ -151,20 +151,20 @@ Connected every part of his land.
 Each citizen was tied
 To the network far and wide.
 
-{{c|Fair}} {{c|Kimberella}} became his queen,
+Fair {{c|Kimberella}} became his queen,
 The fairest ever seen.
-{{c|Together}} they bore {{c|Nephrus}},
-{{c|Strong}} and prosperous.
+Together they bore {{c|Nephrus}},
+Strong and prosperous.
 
-{{c|Now}} {{c|Nephrus}} built throughout his frame
-{{c|Small}} kidneys to his name.
+Now {{c|Nephrus}} built throughout his frame
+Small kidneys to his name.
 Across his body they were spread
 To keep his systems fed.
 
 Sweet {{c|Ikaria}} became his wife,
 The love of all his life.
-{{c|Together}} they bore {{c|Cambrius}},
-{{c|Bold}} and glorious.
+Together they bore {{c|Cambrius}},
+Bold and glorious.
 
 Great {{c|Cambrius}} saw the need
 For a more complex deed.
@@ -174,7 +174,7 @@ To weather every storm.
 In countless repeating parts
 He built his many hearts.
 Each segment had its own
-{{c|Sophisticated}} bone.
+Sophisticated bone.
 
 {{c|Scaffolding}} so complex and true
 Made his body new.

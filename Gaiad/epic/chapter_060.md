@@ -27,7 +27,7 @@ The {{c|Carboniferous}} in reason and rhyme.
 
 {{c|Romulus}} and {{c|Remus}} fought with pride
 About the place where they should build their home
-{{c|Throughout}} the fertile lands both far and wide
+Throughout the fertile lands both far and wide
 Where future generations yet might roam.
 
 {{c|Romulus}} declared with voice so strong:
@@ -36,7 +36,7 @@ Of {{c|Mississippi}}'s waters deep and long
 Our mighty nation surely ought to grow."
 
 But {{c|Remus}} chose a different destiny:
-{{c|Small}} {{c|Aventine}} below the river's might,
+Small {{c|Aventine}} below the river's might,
 A valley where his people could be free
 But hidden from the glory of sunlight.
 
@@ -63,7 +63,7 @@ And secrets of the earth can still be found
 In aquifers so deep and caverns wide
 Where ancient mysteries keep vigil true
 Through all the years with patience as their guide
-{{c|Despite}} the joys and sorrows they've been through.
+Despite the joys and sorrows they've been through.
 
 But {{c|Romulus}} climbed up into the day
 Upon the land like brothers who had come
@@ -105,7 +105,7 @@ Whose hearts desired both {{c|Tails}} and {{c|Collembo}},
 Two children who like bright and shining ones
 Would always their father's loving nature show
 
-{{c|Throughout}} each day in all they chose to do
+Throughout each day in all they chose to do
 With hearts both brave and faithful to the end,
 Their legacy would prove both strong and true
 And on their strength all future hopes depend.
@@ -225,7 +225,7 @@ More graceful than a crown of feathers bright
 Upon the wind with beauty beyond compare,
 More elegant and filled with pure delight
 
-{{c|Than}} his father's gliding had ever been,
+Than his father's gliding had ever been,
 With grace that lifted up his noble heart
 And played upon the wind like violin
 That turns all flying into highest art.
@@ -327,7 +327,7 @@ Where nothing can their happiness destroy.
 
 But if you are a man you'd better plan
 For love that lasts much longer than a day,
-{{c|Don}}'t follow their example if you can
+Don't follow their example if you can
 But find love that will never fade away.
 
 Great {{c|Draco}} lived his life at different pace
@@ -391,7 +391,7 @@ Are members of this warrior crew whose might
 {{c|Rules}} air from dawn to dusk in all their ways.
 
 The {{c|Griffonflies}} grew wide beyond compare—
-{{c|Almost}} a meter's pride of wingspan true
+Almost a meter's pride of wingspan true
 That carried them through battles in the air
 Beneath the endless dome of heavenly blue.
 
@@ -413,7 +413,7 @@ The world to peace and harmony and light.
 {{c|Beetles}}, ants, and flies beyond all count
 And millions more that rise with every dawn
 When day begins—they all trace their account
-{{c|Back}} to {{c|Neopter}}'s track from waters drawn
+Back to {{c|Neopter}}'s track from waters drawn
 
 To air and land so green and beautiful
 Where insects could explore from shore to shore
@@ -433,7 +433,7 @@ From underground streams where {{c|Remus}} and other
 To great {{c|Insectus}}' mark upon the world
 Above, built by those who chose to love
 The light and air where hope's flag is unfurled
-{{c|Throughout}} eternity by One above,
+Throughout eternity by One above,
 
 The insects show us how we ought to live:
 To make and keep our vow to rise above

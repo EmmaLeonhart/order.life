@@ -17,7 +17,7 @@ Each realm shall serve a different kind of might,
 Each path shall let a different glory grow."  
 
 To {{c|Lycos}} bold he gave the power of spores,
-{{c|Released}} like dust upon the waiting wind,
+Released like dust upon the waiting wind,
 While {{c|Ginkgon}} claimed the leafy, branching shores
 Where megaphylls in sunlight would rescind.  
 
@@ -31,7 +31,7 @@ Between two sons to rule with different helm.
 Great {{c|Lycos}} spread his countless spores abroad
 Like golden powder dancing on the breeze,
 And from those tiny seeds blessed by his {{c|God}}
-{{c|Arose}} two sons beneath the ancient trees.
+Arose two sons beneath the ancient trees.
 
 {{c|Isolagos}} the first, who learned to part
 His spores 'tween male and female, each their own,
@@ -52,7 +52,7 @@ In {{c|Lycopodium}} powder, fire's dawn.
 
 From spore-divided {{c|Isolagos}} came
 Two sons of vastly different destiny:
-{{c|Bold}} {{c|Quill}} who sought the underwater fame,
+Bold {{c|Quill}} who sought the underwater fame,
 And wise {{c|Sellagine}}, master of the sea.
 
 {{c|Sellagine}}'s children learned to creep and crawl  
@@ -95,12 +95,12 @@ That rule the forest's vast complexity.
 ## The Line of {{c|Pteridos}}
 
 {{c|Pteridos}} the fern-father had two sons:
-{{c|Bold}} {{c|Horsa}} of the puzzlegrass and spear,
+Bold {{c|Horsa}} of the puzzlegrass and spear,
 And wise {{c|Euspor}}, from whom the lineage runs
 Of all the fronds we still hold dear.
 
 From {{c|Horsa}} came great {{c|Equis}}, he who found
-{{c|Fair}} {{c|Puzella}} swimming in the stream,  
+Fair {{c|Puzella}} swimming in the stream,  
 Their gametophytes merged without a sound  
 To birth a dynasty beyond a dream.  
 
@@ -116,7 +116,7 @@ While spores spread far beyond the forest's crown.
 
 ## The {{c|Seasonal}} {{c|Cycle}}
 
-{{c|Wise}} {{c|Equis}} learned the rhythm of the year  
+Wise {{c|Equis}} learned the rhythm of the year  
 And built his kingdom on the wheel of time:  
 In spring when snowmelt made the waters clear  
 He raised horsetails in patterns sublime.  
@@ -162,10 +162,10 @@ With {{c|Maratton}} standing close beside his side.
 
 {{c|Maratidus}} and {{c|Leptos}} were the sons
 That noble {{c|Maratton}} brought into the world,  
-{{c|Ten}} thousand spores the first one always runs  
+Ten thousand spores the first one always runs  
 While hundred spores the second's fronds unfurled.  
 
-{{c|Together}} they became the fern-lords true,  
+Together they became the fern-lords true,  
 The ancestors of all the fronds we see,  
 From forest floor to canopy of blue  
 Their children spread in vast complexity.  
@@ -183,7 +183,7 @@ Would leave the sea and claim the land for us.
 ## The Settler's {{c|Legacy}}
 
 Thus did {{c|Arboreus}} the settler king  
-{{c|Divide}} the world 'tween spore and megaphyll,  
+Divide the world 'tween spore and megaphyll,  
 And from his choice would countless blessings spring  
 That serve the forest kingdoms still.  
 

@@ -26,7 +26,7 @@ For a more effective way.
 A change both strange and firm.
 
 His coelom he stripped down bare,
-{{c|Removed}} what wasn't there
+Removed what wasn't there
 For function true and speed.
 He kept only what he'd need.
 
@@ -36,7 +36,7 @@ His organs floated free inside
 His pseudocoelom wide.
 
 In burrowing he found his art,
-{{c|Playing}} the hunter's part.
+Playing the hunter's part.
 Through sediment he'd tear and rend
 Until his foes would end.
 
@@ -56,11 +56,11 @@ While soil from him slipped.
 And carnage was his game.
 
 From {{c|Ectus}} came two sons of might:
-{{c|Bold}} {{c|Ishmael}}, ready to fight,
+Bold {{c|Ishmael}}, ready to fight,
 And clever {{c|Isaac}}, young and wise,
 Who sought innovation's prize.
 
-{{c|Now}} {{c|Ishmael}} held fast and true
+Now {{c|Ishmael}} held fast and true
 To all his father knew.
 Tradition was his guiding star
 Through peace and times of war.
@@ -117,7 +117,7 @@ And peace within him did find.
 
 He became the ancestor great
 Of worms throughout their state.
-{{c|Eighty}} percent of animals
+Eighty percent of animals
 Are his descendants all.
 
 His city was a sight to see
@@ -152,7 +152,7 @@ Their line to nothing brought.
 
 But in nineteen eighty-three
 We found them in the sea.
-{{c|Alive}} and well they dwelt
+Alive and well they dwelt
 Where pressure could be felt.
 
 The {{c|Loricifer}}'s tale

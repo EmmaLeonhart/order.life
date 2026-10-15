@@ -13,14 +13,14 @@ To spread their lineage where new hopes might lie.
 From {{c|Pluto}}’s chill, they sailed to {{c|Neptune}}’s reign,
 Where {{c|Triton}} orbits in a retrograde,
 A moon once close, where ancestors remained,
-{{c|Now}} serves as waypoint in their grand parade.
+Now serves as waypoint in their grand parade.
 
 Their daughters spread across the cosmic sea,
 To moons and planets, planting seeds of life,
 Each child a beacon of diversity,
 {{c|Ensuring}} future thrives beyond all strife.
 
-{{c|Next}} they came to {{c|Uranus}}, tilted high,
+Next they came to {{c|Uranus}}, tilted high,
 With moons {{c|Miranda}}, {{c|Ariel}}, and more,
 {{c|Umbriel}}, {{c|Titania}}, {{c|Oberon}} nigh,
 Each sister moon with legends to explore.
@@ -51,7 +51,7 @@ And far above, where ice and sky sojourned,
 The icebergs cracked, revealing fate's entire.
 
 A dance of shifting plates, of ice and stone,
-{{c|Continental}} bergs, their tectonics played,
+Continental bergs, their tectonics played,
 And from the depths, where pressure's force had grown,
 A cryovolcano, water's arc displayed.
 
@@ -80,7 +80,7 @@ Her tranquil waves, a soothing lullaby,
 A gentle soul, her grace beyond compare,
 Embracing all who sought her solace nigh.
 
-{{c|Next}} {{c|Punga}}, wild and fierce, her spirit free,
+Next {{c|Punga}}, wild and fierce, her spirit free,
 {{c|Unyielding}} to the ice that sought her reign,
 Her tempests raged, her storms a symphony,
 Her indomitable spirit would remain.
@@ -262,13 +262,13 @@ A testament to all that they'd been through.
 
 Amidst the depths, they forged a life so bold,
 In harmony with {{c|Europa}}'s vast domain,
-{{c|Together}}, they would thrive in waters cold,
+Together, they would thrive in waters cold,
 Their spirit, ne'er defeated, nor in vain.
 
 The people of {{c|Io}}, now reborn,
 In {{c|Europa}}'s embrace, they found their home,
 A testament to strength and will, they stood,
-{{c|Resilient}}, strong, and nevermore alone.
+Resilient, strong, and nevermore alone.
 
 From {{c|Europa}}'s depths, their gaze turned high-wide,
 To other moons, where distant futures lay.
@@ -371,7 +371,7 @@ These daughters brave, amidst the war they grew,
 {{c|Muspel}}'s fire and {{c|Niflheim}}'s frost contrived.
 
 But then, the oceans boiled, as {{c|Muspel}}'s sons,
-{{c|Charged}} forth, led by {{c|Surtur}}'s fiery blade,
+Charged forth, led by {{c|Surtur}}'s fiery blade,
 And in their wake, the ice and frost retreated,
 The winds of sun, the battle's victor won.
 
@@ -400,7 +400,7 @@ Of {{c|Mercury}}, once whole, now stripped and scarred,
 Yet in its wake, the daughters carried on,
 To find a home where life would bloom and grow.
 
-{{c|Back}} to the {{c|Earth}}, now clumping from the void,
+Back to the {{c|Earth}}, now clumping from the void,
 They ventured forth, and found the {{c|Moon}}'s embrace,
 Where lunar plains and cratered landscapes called,
 A sanctuary found, their fears allayed.

@@ -275,7 +275,7 @@ In human history—{{c|Nagarjuna}}, {{c|Vasubandhu}}, {{c|Asanga}}, {{c|Dogen}},
 {{c|Hui-neng}}, {{c|Chandrakirti}}, {{c|Dharmakirti}}—whose subtle explorations
 
 Of consciousness, emptiness, and causation rival anything in
-{{p|Western}} philosophy. The {{p|Buddhist}} contemplative traditions—the
+Western philosophy. The {{p|Buddhist}} contemplative traditions—the
 Various schools of meditation that trace back to the {{c|Buddha}}'s
 Own practice—have produced detailed empirical investigations of
 

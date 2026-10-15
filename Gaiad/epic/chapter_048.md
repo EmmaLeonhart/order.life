@@ -43,7 +43,7 @@ As ancient stories told.
 She grew frigid, unwelcoming,
 No longer beckoning
 To those who loved her warm
-{{c|Embrace}} in gentle form.
+Embrace in gentle form.
 
 Her ice caps grew so wide,
 Her seas began to hide
@@ -117,7 +117,7 @@ The air would always kill
 
 Those who were meant for sea
 And could not ever be
-{{c|Adapted}} to the air
+Adapted to the air
 That filled the atmosphere.
 
 {{c|Hirnan}} bore two sons:
@@ -146,7 +146,7 @@ Of ferns and flowers bright
 And trees that reach for height.
 
 The sons of {{c|Brachios}}
-{{c|Struggled}}, not glorious
+Struggled, not glorious
 As they had been before
 In ages' ancient lore.
 
@@ -155,7 +155,7 @@ Died in numbers thus
 Greater than ever known—
 Their glory overthrown.
 
-{{c|Never}} again would they
+Never again would they
 {{c|Regain}} their golden day
 Of power in the sea
 And their dynasty.
@@ -166,7 +166,7 @@ The sons of {{c|Metazo}}
 Began once more to grow.
 
 Alas the sons of {{c|Hirnan}}
-{{c|Didn}}'t stop their plan
+Didn't stop their plan
 There, but continued on
 From dusk until dawn
 
@@ -183,7 +183,7 @@ Whatever it would take
 To manufacture tons
 Of phosphorus, and done
 With this, they'd pour it out
-{{c|Throughout}} the world about.
+Throughout the world about.
 
 Some went to crops they grew,
 But most went flowing through
@@ -205,10 +205,10 @@ That stretched from sea to sea
 Across the world entire
 Like some unholy fire.
 
-{{c|Rotting}} seaweed choked
+Rotting seaweed choked
 All water, and it smoked
 With death and with decay
-{{c|Throughout}} the night and day.
+Throughout the night and day.
 
 Soon it was impossible
 To breathe—the terrible
@@ -270,7 +270,7 @@ And {{c|Asaphos}}, before
 So mighty and so strong,
 Was crippled life long.
 
-{{c|Never}} again would they
+Never again would they
 Reach their golden day
 Of glory in the time
 Of {{c|Ordovician}} rhyme.
@@ -312,7 +312,7 @@ For others' avarice.
 
 The trilobites' last stand
 Against {{c|Hirnan}}'s hand
-{{c|Shows}} courage in the face
+Shows courage in the face
 Of hopeless disgrace,
 
 But also shows the cost
@@ -328,7 +328,7 @@ For any other race.
 The ice age that began
 From {{c|Stomatos}}' plan
 To take but never give
-{{c|Shows}} how some choose to live:
+Shows how some choose to live:
 
 By taking all they can
 Without a care or plan
@@ -343,7 +343,7 @@ That plants destruction's seed.
 The phosphorus that flowed
 Into rivers and slowed
 All life within the sea
-{{c|Shows}} how we can be
+Shows how we can be
 
 {{c|Destroyers}} without thought
 Of what our actions brought
@@ -351,7 +351,7 @@ To others who must share
 The water and the air.
 
 The golden age that passed
-{{c|Shows}} nothing good can last
+Shows nothing good can last
 When some choose to destroy
 Rather than enjoy
 
@@ -361,7 +361,7 @@ For life in all its forms
 Through calm and raging storms.
 
 But from the ashes rise
-{{c|New}} hope beneath new skies
+New hope beneath new skies
 Where those who learned the cost
 Of all that had been lost
 
@@ -378,7 +378,7 @@ Who faced destruction's throes
 And lived to tell the tale
 Of how they would not fail
 To build life once again
-{{c|Despite}} the grief and pain.
+Despite the grief and pain.
 
 From {{c|Hirnan}}'s tyranny
 To {{c|Silur}}'s dynasty,
@@ -395,7 +395,7 @@ And brings eternal strife,
 But those who choose to share
 Will find life everywhere
 
-{{c|Ready}} to begin
+Ready to begin
 Again, and always win
 In the end, because love
 Is blessed from above
@@ -425,7 +425,7 @@ Beneath the starry sky
 But always finds a way
 To live another day
 
-{{c|Despite}} what greed may do
+Despite what greed may do
 To me and you
 And all who call earth home
 Wherever we may roam.
@@ -442,7 +442,7 @@ In every living place
 
 Where love has found a way
 To live another day
-{{c|Despite}} destruction's call
+Despite destruction's call
 That threatens one and all.
 
 The golden age returns
@@ -458,7 +458,7 @@ Who celebrate love's worth
 Above all else that's known
 By hearts that have grown
 To see that sharing's way
-{{c|Brings}} joy to every day
+Brings joy to every day
 
 While greed brings only pain
 That falls like acid rain
@@ -478,7 +478,7 @@ Against the endless night
 Of greed that tries to kill
 All life, but never will
 {{c|Succeed}}, because love's power
-{{c|Grows}} stronger every hour
+Grows stronger every hour
 
 In hearts that choose to care
 For life everywhere

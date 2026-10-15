@@ -5,7 +5,7 @@ From nebula, they formed a cosmic host.
 {{c|Mercury}}, {{c|Venus}}, {{c|Earth}}, and {{c|Mars}} we see,
 With {{c|Ceres}} too, they grace the starry coast.
 
-{{c|Once}} cloaked in waters, {{c|Mercury}} did shine,
+Once cloaked in waters, {{c|Mercury}} did shine,
 But as the {{c|Sun}}'s fierce heat began to rise,
 The liquid fled, his surface left benign,
 A rocky orb now meets our seeking eyes.

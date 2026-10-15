@@ -22,7 +22,7 @@ In evolution's race.
 
 {{c|Bivos}}, who fished with care
 From his two shells so fair,
-{{c|Shed}} his radula
+Shed his radula
 Like some old formula
 
 That no longer served
@@ -77,7 +77,7 @@ Where rivers always swell
 
 With fresh water pure
 That would always endure
-{{c|Throughout}} the years to come
+Throughout the years to come
 When battles would be done.
 
 {{c|Peter}}, {{c|Keeper}} of {{c|Gates}}
@@ -147,7 +147,7 @@ The seas with forms so great.
 
 His dreams, and {{c|Venus}} fair
 Who danced without a care
-{{c|Throughout}} the ocean blue
+Throughout the ocean blue
 Where all her children grew.
 
 {{c|Cockle}} had a son
@@ -193,7 +193,7 @@ While surface waters sweep
 Above their hiding spots
 Connected by their lots
 To life beneath the sand
-{{c|Throughout}} the ocean land.
+Throughout the ocean land.
 
 And {{c|Razoron}} became
 {{c|Ancestor}} of the name
@@ -203,7 +203,7 @@ That cut like ocean's harp
 Through sand where they would hide
 When danger came to bide
 Its time until they could
-{{c|Emerge}} where they once stood.
+Emerge where they once stood.
 
 {{c|Venus}} became the mother
 Of clams like no other—
@@ -263,7 +263,7 @@ Until their dying day.
 {{c|Discinidus}} his son
 Was smaller when begun
 His life, and more like clam
-{{c|Than}} traditional lamb
+Than traditional lamb
 
 Of brachiopod design
 That had been so fine
@@ -321,7 +321,7 @@ Against {{c|Brachiopods}} old
 Whose stories have been told
 
 For ages without end—
-{{c|Fought}} on without a friend
+Fought on without a friend
 To mediate their war
 From mountain peak to shore,
 
@@ -353,7 +353,7 @@ Came forms throughout the range
 Of ocean's vast expanse
 In evolutionary dance
 Where old meets new in strife
-{{c|Throughout}} the course of life.
+Throughout the course of life.
 
 The war between the two
 Would see which vision through
@@ -362,7 +362,7 @@ Would earn the victor's rhyme.
 
 Would innovation's art
 Or tradition's faithful heart
-{{c|Prove}} stronger in the end
+Prove stronger in the end
 When time would finally send
 
 Its judgment on them all
@@ -386,7 +386,7 @@ Where life must find its way
 Through each and every day
 
 Of challenge and of change
-{{c|Throughout}} evolution's range
+Throughout evolution's range
 Where only those survive
 Who keep their hope alive.
 
@@ -422,7 +422,7 @@ Who answered life's great call.
 
 The {{c|Spiralian}} war
 From mountain peak to shore
-{{c|Shows}} how life finds its way
+Shows how life finds its way
 Through each and every day
 
 Of struggle between those
@@ -435,7 +435,7 @@ Where new forms always keep
 Their vigil through the night
 Until the morning light
 
-{{c|Reveals}} what time has brought
+Reveals what time has brought
 To those who never fought
 But those who fought so well
 Have their own tale to tell

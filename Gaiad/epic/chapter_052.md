@@ -11,7 +11,7 @@ His innovation would
 Change all for the good.
 
 {{c|Vater}} built a channel
-{{c|Grand}} beyond all span-el
+Grand beyond all span-el
 Uniting liver bright
 And pancreas in sight
 
@@ -212,7 +212,7 @@ Like treasure in his store.
 
 And so he grew more strong
 And prosperous life long
-{{c|Than}} all his relatives
+Than all his relatives
 Who took what nature gives
 
 But never learned to save
@@ -251,7 +251,7 @@ Of evolution's way
 From night into the day.
 
 {{c|Pituri}} grew a snout
-{{c|Long}} beyond all doubt
+Long beyond all doubt
 The longest ever seen
 In evolution's scene.
 
@@ -288,7 +288,7 @@ That worked both night and day.
 {{c|Beakon}}'s son named {{c|Gnathus}}
 Saw potential, glorious,
 And he with wife {{c|Pelaca}}
-{{c|Hunted}} like none other.
+Hunted like none other.
 
 They hunted trilobites
 And brought them to their lights
@@ -303,7 +303,7 @@ And brought them to the sight
 Of their armored jaws
 That followed nature's laws
 But used them in new ways
-{{c|Throughout}} their living days.
+Throughout their living days.
 
 They sliced through every meal
 With jaws of steel-hard feel
@@ -348,14 +348,14 @@ With what is merely sent
 By fate, but always strive
 To be more alive
 And capable and strong
-{{c|Throughout}} their whole life long
+Throughout their whole life long
 
 {{c|Journey}} through the sea
 Of possibility
 Where those who dare to grow
 Will always come to know
 
-{{c|New}} heights of what can be
+New heights of what can be
 For all eternity
 When innovation's fire
 Burns with true desire
@@ -416,7 +416,7 @@ From vertebrate design—
 Protection so fine
 
 Against the world's hard ways
-{{c|Throughout}} our living days
+Throughout our living days
 When we must fight to eat
 And make our lives complete.
 
@@ -465,7 +465,7 @@ Of stories never told
 And write upon the page
 Of evolution's age
 
-{{c|New}} chapters yet unread
+New chapters yet unread
 Where we are led
 By wisdom's guiding light
 To make the future bright

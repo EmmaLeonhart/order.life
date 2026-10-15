@@ -5,7 +5,7 @@ In seas where they would dwell,
 The sons of {{c|Symbio-Mygus}}
 And daughters of {{c|Charina-Plantus}}
 
-{{c|Pushed}} frontiers far and wide
+Pushed frontiers far and wide
 Across the world's divide.
 But soon they faced
 {{c|Competition}} in their place.
@@ -38,7 +38,7 @@ From waters dark and deep.
 Upon the ground she fell,
 Suffocating well
 In air so thin and strange,
-{{c|Throughout}} that foreign range.
+Throughout that foreign range.
 
 But she and husband true
 Protected eggs they knew
@@ -56,7 +56,7 @@ She suffocated there
 In ocean's liquid lair.
 
 Her father, seeing this,
-{{c|Pierced}} holes he would not miss
+Pierced holes he would not miss
 Above her ten thousand legs
 Where breathing never begs.
 
@@ -85,7 +85,7 @@ Tradition names this place
 But she was not the first—
 History's truth rehearsed
 
-{{c|Now}} calls it "{{c|Coast}} of Three
+Now calls it "{{c|Coast}} of Three
 Kingdoms" truthfully
 To honor every side
 Of history's great tide.
@@ -100,7 +100,7 @@ Of covenant between
 With {{c|Charina-Planta}}'s line—
 {{c|Partnership}} divine.
 
-{{c|Sprawling}} cities wide
+Sprawling cities wide
 Half mold and moss beside
 Each other living well:
 {{c|Mycelium}} would delve
@@ -128,7 +128,7 @@ And stole what made them whole.
 But as she ran around
 She dropped on fertile ground
 {{c|Cells}} scattered everywhere
-{{c|Throughout}} the atmosphere.
+Throughout the atmosphere.
 
 Across the globe they fell,
 Her messy eating spell
@@ -206,7 +206,7 @@ Me wandering shall slay—
 I cannot get away."
 
 But {{c|Mithra}} marked him well:
-"{{c|Whoever}} thee shall fell,
+"Whoever thee shall fell,
 {{c|Sevenfold}} vengeance shall
 Upon that person fall."
 
@@ -228,7 +228,7 @@ Of {{c|Caintipedes}}, predecessor
 ({{c|Misspelled}} by {{c|Romans}} old
 As "centipedes," we're told)
 Who hunt with poison bite
-{{c|Throughout}} the day and night.
+Throughout the day and night.
 
 But {{c|Abel}}'s gentle wife
 Was heavy with new life
@@ -298,7 +298,7 @@ Their sacrifice well-paid.
 {{c|Dikaryotic}} cells
 Their story always tells
 Of patience and of love
-{{c|Blessed}} from above.
+Blessed from above.
 
 {{c|Decades}} they waited long
 {{c|Decomposing}} strong
@@ -367,8 +367,8 @@ He'd rearrange
 
 His understanding true
 To make his vision new.
-{{c|Always}} growing more
-{{c|Than}} he had been before.
+Always growing more
+Than he had been before.
 
 As sons of {{c|Stomatos}}
 Rose like kratos
@@ -418,7 +418,7 @@ And millipedes who shunt
 {{c|Decay}} into rich earth
 For new plants' birth.
 From fungi's patient love
-{{c|Blessed}} from above
+Blessed from above
 
 Came mushrooms' mighty power
 In earth's darkest hour.
@@ -426,6 +426,6 @@ From {{c|Stomatos}}' brave change
 Came plants' wide range.
 
 The {{c|Coast}} of {{p|Three Kingdoms}}
-{{c|Shows}} how life's wisdom
-{{c|Finds}} its truest way
+Shows how life's wisdom
+Finds its truest way
 Through partnership's display.

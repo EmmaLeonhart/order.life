@@ -212,7 +212,7 @@ Diplomatic triumphs, {{c|Thutmose III}}'s military conquests, {{c|Akhenaten}}'s
 Religious revolution and persecution of the {{p|Israelites}}, {{c|Ramesses II}}'s
 
 Sixty-six-year reign and his peace treaty with the {{p|Hittites}}. The
-{{p|Eighteenth}} and {{p|Nineteenth Dynasties}}. The {{p|Egyptian}} Empire at
+Eighteenth and {{p|Nineteenth Dynasties}}. The {{p|Egyptian}} Empire at
 Its peak. The monumental architecture, the international diplomacy,
 The religious upheaval, and the slowly tightening pressures that
 

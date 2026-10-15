@@ -10,7 +10,7 @@ Son beyond our reach
 Of understanding strange:
 Their anus he'd arrange
 
-{{c|Next}} to their heads so near
+Next to their heads so near
 That all could see quite clear
 This anatomical design
 So twisted yet so fine.
@@ -33,7 +33,7 @@ In history's parade
 Only the {{c|Insects}} great
 Would ever duplicate
 Their numbers through the years
-{{c|Despite}} all joys and fears.
+Despite all joys and fears.
 
 The {{c|Priests}} of {{c|Gastropus}}
 Wear robes so glorious
@@ -107,10 +107,10 @@ Who guard what is right.
 
 {{c|Limpus}} said to all
 His children, great and small,
-{{c|Ten}} thousands in their number
+Ten thousands in their number
 Who never would slumber:
 
-"{{c|Everyone}} who hears
+"Everyone who hears
 These words through all the years
 Of mine, and does them true,
 I'll liken him to you
@@ -160,13 +160,13 @@ Against them, in the heat
 Of battle with the sea,
 The {{c|Limpets}} firmly be
 
-{{c|Standing}} their ground so true
+Standing their ground so true
 Like soldiers tried and true
 Who never leave their post
 Though tempest be their host.
 
 When {{c|Limpets}} move, they go
-{{c|Always}}, as we know,
+Always, as we know,
 {{c|Home}} to their rocky place
 Where they found their space.
 
@@ -175,7 +175,7 @@ Did from shore to shore,
 The {{c|Limpets}} merge their shell
 To rock, and there they dwell
 
-{{c|Growing}} intricate fits
+Growing intricate fits
 To their foundation's bits,
 Each shell shaped perfectly
 To match rock's geometry.
@@ -187,7 +187,7 @@ That we might count the cost
 
 And always return home
 No matter where we roam
-{{c|Throughout}} this world so wide
+Throughout this world so wide
 With {{c|Limpus}} as our guide.
 
 "My hope is built on naught
@@ -234,7 +234,7 @@ Is cleaning far and wide:
 {{c|Turban}} snails with pride
 
 And {{c|Trochus}} snails as well,
-{{c|Dutiful}}, they tell
+Dutiful, they tell
 Us how to clean with care
 {{c|Aquaria}} everywhere
 
@@ -243,7 +243,7 @@ With work they love to do.
 They polish and they scrub
 Like members of a club
 
-{{c|Devoted}} to the art
+Devoted to the art
 Of playing cleaning's part
 In nature's great design
 Where all things work so fine.
@@ -258,7 +258,7 @@ Through all their living days
 With pores within their shell
 For breathing, they dwell
 
-{{c|Rough}} on the outside
+Rough on the outside
 But beauty can't hide
 Within their inner space
 Where colors interlace
@@ -323,7 +323,7 @@ At breakneck speed, at last
 Across the shores they ride
 With ocean as their guide.
 
-{{c|Here}} is the story told
+Here is the story told
 Of daughters brave and bold:
 {{c|Olivella}} and her sister
 {{c|Agaronia}}, who'd never missed her
@@ -371,12 +371,12 @@ To buy and sell each day.
 In {{c|China}}'s ancient script
 Their shells are never skipped—
 The character for money
-{{c|Shows}} their legacy
+Shows their legacy
 
 {{c|Immortalized}} in stone
 By those who've always known
 Their value through the years
-{{c|Despite}} all joys and fears.
+Despite all joys and fears.
 
 The {{c|Murexes}} were known
 As hedgehog snails full-grown
@@ -419,14 +419,14 @@ Of nudibranches bright:
 {{c|Colorful}} sea-sprite
 
 {{c|Slugs}} with poison strong
-{{c|Enough}} to sing death's song
+Enough to sing death's song
 To {{c|Leviathan}} great—
 Such is their potent fate.
 
 {{c|Aeros}} swam so free
 In waters of the sea
 Without a care or worry
-{{c|Never}} in a hurry
+Never in a hurry
 
 But taking his sweet time
 To perfect every rhyme
@@ -440,7 +440,7 @@ And {{c|Angelica}}'s fate
 
 Was to become the mother
 Of sea butterflies, and other
-{{c|Beautiful}} swimming forms
+Beautiful swimming forms
 Through calm and raging storms
 
 Whose ethereal existence
@@ -469,7 +469,7 @@ That let him survive
 The tide pools, stay alive
 
 When water went away
-{{c|Throughout}} the changing day
+Throughout the changing day
 Like none of his kin
 Had ever done therein.
 
@@ -512,7 +512,7 @@ Of understanding full
 But beautiful
 
 To see in all their glory
-{{c|Throughout}} life's endless story.
+Throughout life's endless story.
 
 From {{c|Limpets}} holding fast
 To rocks that ever last
