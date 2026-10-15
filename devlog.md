@@ -8221,3 +8221,8 @@ moved: per her "self-healing", each moves one day later when next revised, since
 their Wikidata ids (Halloween ×2, Shichi-Go-San), and Niiname-sai and Christmas given their own ids (Q11501518,
 Q19809) in place of Shichi-Go-San's. The two other data notes (Ash Wednesday's day_of_year, Good Friday II on a
 Thursday) turned out to be corrected in the data already.
+
+2026-10-15 03:24 PST: Purim added to the fixed Gaian calendar, on Aquarius 14 beside Tigralia ("Tigralia (White Day) · Purim").
+It had been only on the lunar festivals page (Passover − 30 days), never in `content/gaian_days.json`, so the day pages
+and the iCal lacked it; that is what Grok saw. Aquarius 14 answers 14 Adar, falls on a Sunday, and is the day the
+festivals page's own offset points to (Rosh Hashanah, Virgo 10, minus 193 days, within a day).
