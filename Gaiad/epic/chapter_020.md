@@ -26,7 +26,7 @@ The {{c|Centrioles}} dance in perfect sight,
 And make sure chromosomes stay tightly bound.
 
 And last, my son who bears my very name,
-{{c|Young}} Nucleus, keeper of the scrolls divine.
+{{c|Young}} {{c|Nucleus}}, keeper of the scrolls divine.
 Through nuclear pores, our sacred flame
 Of knowledge flows in patterns most fine."
 

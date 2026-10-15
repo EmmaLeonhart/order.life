@@ -212,7 +212,7 @@ Of fungal networks everywhere.
 
 With eighty percent market hold,
 His story still is told.
-WoodNet service, tried and true,
+{{x|WoodNet}} service, tried and true,
 Connects the forest through and through.
 
 But other fungi joined the game,

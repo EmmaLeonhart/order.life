@@ -31,7 +31,7 @@ From hydrostatic to circulatory,
 Evolution's greatest story.
 
 From {{c|Annelon}} came two sons:
-Segmentus when day begun
+{{c|Segmentus}} when day begun
 And {{c|Ribbon}}, hunter of the deep
 Whose prey would never sleep.
 
@@ -45,7 +45,7 @@ As {{c|Ribbon}} {{c|Worms}} who slay
 Their victims with their poison dart
 {{c|Shot}} straight into the heart.
 
-Segmentus built his body wise
+{{c|Segmentus}} built his body wise
 With segments that would rise
 In number past all count—
 Each segment paramount.
@@ -60,7 +60,7 @@ And spread them everywhere.
 Each segment bore its pair
 Of legs beyond compare.
 
-Segmentus bore two sons:
+{{c|Segmentus}} bore two sons:
 {{c|Pleistos}} when day begun
 And {{c|Amphon}} of the sea
 Who lived quite happily.
@@ -231,7 +231,7 @@ He made his living spot.
 
 {{c|Acros}} became the sire
 Of forms that never tire:
-{{c|Squidworm}} and Swima too
+{{c|Squidworm}} and {{c|Swima}} too
 Swam the ocean blue.
 
 {{c|Clitella}} was small of head

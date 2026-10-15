@@ -21,7 +21,7 @@ Yet {{c|Aster}}'s plan had need of one more mild,
 To birth the future's most exalted name.
 
 So {{c|Gravros}} took another bride to wife,
-Sweet Mardöll of the archaean strain.
+Sweet {{c|Mardöll}} of the archaean strain.
 Their love would spark a revolution's knife,
 And change the course of life's eternal refrain.
 
@@ -153,7 +153,7 @@ Still marks the passage of eternity."
 He blessed their union with his cosmic flame,
 And spoke the words of binding mystical:
 "Forever joined in deed and name,
-Nucleus and mitochondrial."
+{{c|Nucleus}} and mitochondrial."
 
 {{c|Eve}} entered {{c|Euka}}'s cellular embrace,
 Her double membrane intact and whole.
@@ -215,7 +215,7 @@ That would divide the chromosomes with care.
 Their dance at mitosis, rhythmic,
 {{c|Ensured}} each daughter got her rightful share.
 
-{{c|Last}} came their son, brave Nucleus the Second,
+{{c|Last}} came their son, brave {{c|Nucleus}} the Second,
 Who formalized his father's ancient gift.
 With pores and lamins, carefully reckoned,
 He gave the cell structure that would not drift.

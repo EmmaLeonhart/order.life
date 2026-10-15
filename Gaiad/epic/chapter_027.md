@@ -57,8 +57,8 @@ To help their spirits lift.
 
 {{c|Dark}} {{c|Tyrosine}} the {{c|Devil}} came
 With three spells of flame:
-Adrenaline's rush so bright,
-Noradrenaline's fight,
+{{x|Adrenaline}}'s rush so bright,
+{{x|Noradrenaline}}'s fight,
 And {{c|Dopamine}}'s delight.
 
 Then {{c|Tryptophanes}} the {{c|Sun}}
@@ -67,13 +67,13 @@ With {{c|Serotonin}}'s day
 And {{c|Melatonin}}'s way.
 
 For twilight's mystic hour,
-He brought DMT's power.
+He brought {{x|DMT}}'s power.
 The sacred visions came
 In the twilight's name.
 
 {{c|Glutama}} the {{c|Empress}} brought
 The balance that she taught:
-GABA's calming peace
+{{x|GABA}}'s calming peace
 And {{c|Glutamate}}'s release.
 
 "We need more spells," said {{c|Enki}} wise,
@@ -88,7 +88,7 @@ To coordinate their sight.
 
 {{c|Fair}} {{c|Iodina}}, mother great,
 {{c|Revealed}} love's incarnate:
-The sacred CYIQNCPLG,
+The sacred {{x|CYIQNCPLG}},
 {{c|Oxytocin}}'s key.
 
 Then {{c|Kali}}, dark and deep,
@@ -97,11 +97,11 @@ Three endorphins strong
 To right what has gone wrong.
 
 {{c|Alpha}}'s sequence clear:
-YGGFMTSEKSQTPLVT here.
+{{x|YGGFMTSEKSQTPLVT}} here.
 {{c|Beta}}'s longer chain:
-YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE's refrain.
+{{x|YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE}}'s refrain.
 {{c|Gamma}}'s shorter form:
-YGGFMTSEKSQTPLVTL in the storm.
+{{x|YGGFMTSEKSQTPLVTL}} in the storm.
 
 These became the tools
 That break pain's rules:

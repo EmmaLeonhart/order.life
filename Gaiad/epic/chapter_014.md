@@ -122,7 +122,7 @@ And {{c|Thule}}, distant, unknown land, alone.
 
 {{c|Jingpo}}'s domain, where wisdom's islands lie,
 Hy-{{c|Brasil}}, her shrine, a beacon bright,
-{{c|Lyonesse}}, Ys, and {{c|Vineta}} testify,
+{{c|Lyonesse}}, {{p|Ys}}, and {{c|Vineta}} testify,
 To sunken lands, their fables taking flight.
 
 {{c|Ontario}}'s embrace, her islands true,
@@ -358,11 +358,11 @@ Where daughters of {{c|Venus}} lived with fervent pace.
 Beneath the surface, vents their life sustained,
 In twilight lands, both north and south they dwelled,
 And tribes were formed, as daughters ventured forth,
-To {{c|Wind}}, to Ice, to {{c|Fire}}, their kin remained.
+To {{c|Wind}}, to {{c|Ice}}, to {{c|Fire}}, their kin remained.
 
 The {{c|Tribe}} of {{c|Wind}}, they wandered in the air,
 As skyplankton, they roamed the skies above,
-The {{c|Tribe}} of Ice, on {{c|Niflheim}}'s frozen crust,
+The {{c|Tribe}} of {{c|Ice}}, on {{c|Niflheim}}'s frozen crust,
 And {{c|Twilight}} {{c|Tribe}}, eternal dusk their lair.
 
 The {{c|Water}} {{c|Tribe}}, beneath the ice they thrived,

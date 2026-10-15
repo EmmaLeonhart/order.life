@@ -92,7 +92,7 @@ They gazed up at the starry host
 To learn what mattered most.
 
 With {{c|Lord}} {{c|Carotenus}}' blessing bright
-And PAX6's sacred rite,
+And {{x|PAX6}}'s sacred rite,
 They built the very first true eyes
 To see beneath the skies.
 

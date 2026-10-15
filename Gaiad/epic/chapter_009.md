@@ -2,7 +2,7 @@
 
 Upon the moon {{c|Phaestia}}, life did bloom,
 It circled {{c|Vayu}}, underneath the sun.
-{{c|Aster}}, by Ehēca's light, dispelled the gloom,
+{{c|Aster}}, by {{c|Ehēca}}'s light, dispelled the gloom,
 Her guiding hand ensured all life begun.
 
 {{c|People}} of {{c|Phaestia}}, blessed by her hand,

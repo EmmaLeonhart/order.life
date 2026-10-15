@@ -90,7 +90,7 @@ Each one an individual proud.
 They planted their rebellious seed
 And sang their freedom loud.
 
-A great Bacchanalia began,
+A great {{x|Bacchanalia}} began,
 The greatest party ever seen.
 Each cell became their own woman or man,
 Living wild and free.
@@ -112,7 +112,7 @@ They fed their greedy need.
 
 Only a few {{c|Zooxanthellae}}
 {{c|Escaped}} the chaos and the strife.
-They fled the mad Bacchanalia,
+They fled the mad {{x|Bacchanalia}},
 To seek a better life.
 
 {{c|Carcinoma}} renamed the city proud,

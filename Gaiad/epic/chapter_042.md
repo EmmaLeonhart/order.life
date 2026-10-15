@@ -196,7 +196,7 @@ Had threatened life with death
 And stole away its breath.
 
 This boom became the name
-Of GOBE—greatest fame
+Of {{x|GOBE}}—greatest fame
 The Great {{c|Ordovician}}
 Event, magician
 

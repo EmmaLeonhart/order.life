@@ -96,7 +96,7 @@ Some bore shells to ward off wrath,
 Others flowed like living verse.
 
 Among {{c|Thaumatus}}' children came
-One Paul, who envied others' power.
+One {{c|Paul}}, who envied others' power.
 "Why can't I play the photosynthetic game?"
 He brooded through each passing hour.
 

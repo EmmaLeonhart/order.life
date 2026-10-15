@@ -380,7 +380,7 @@ Through all their pilgrimages
 Would be lost forever more
 On that primeval shore.
 
-The {{c|Coast}} of Three Kingdoms
+The {{c|Coast}} of {{p|Three Kingdoms}}
 Where life's great wisdom
 First met upon the land
 By {{c|Mithra}}'s guiding hand.
@@ -425,7 +425,7 @@ In earth's darkest hour.
 From {{c|Stomatos}}' brave change
 Came plants' wide range.
 
-The {{c|Coast}} of Three Kingdoms
+The {{c|Coast}} of {{p|Three Kingdoms}}
 {{c|Shows}} how life's wisdom
 {{c|Finds}} its truest way
 Through partnership's display.
