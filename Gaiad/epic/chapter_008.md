@@ -1,4 +1,4 @@
-# Chapter 8: Heavy Elements Scattered
+# Chapter 8: Dedos Falls, and the Flight to Phaestia
 
 In cyborg age, three brothers took their stand,
 Their legacies now stretch across the sky.

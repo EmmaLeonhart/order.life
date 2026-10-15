@@ -1,4 +1,4 @@
-# Chapter 16: Earth's Violent Birth
+# Chapter 16: Arka's Line and the First Temples
 
 From {{c|Luca}}'s lineage, two daughters sprang,
 {{c|Arka}} and {{c|Bacta}}, shaped to change the world;

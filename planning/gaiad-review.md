@@ -69,7 +69,7 @@ removed again (`7dcb10881`). The tag changes recorded in rows 1-6 no longer appl
 **Titles of ch 4-20 (noted 2026-10-14 18:20).** They come from `COMPREHENSIVE_CHAPTER_PLAN.md` (2025-09-07), a
 plan of the cosmos in order (stars, heavy elements, the solar nebula, the Moon's birth), and the verse went its
 own way (Hesper, Phaestia, Serenitide, the three brothers), so most of these titles name what the chapter does
-not tell. For Emma: retitle from the verse, or keep the plan's titles. Left as they are until she says. The queue
+not tell. Retitled from the verse on Emma's word (2026-10-15, "Retitle from verse"): 4 The First Lovers Among the Stars; 5 Aster's Milk Made Fruitful; 6 Life Begins on Hesper; 7 Aster's Shells and the Three Brothers; 8 Dedos Falls, and the Flight to Phaestia; 9 Aster's Many Names on Phaestia; 10 The Golden Age of Serenitide; 11 Kolob and the Anti-Alpha; 14 The Daughters Cross the Outer Worlds; 15 Usagi Luna's Promise; 16 Arka's Line and the First Temples; 17 The Bacterial Clans of Hydra and Terra; 18 Saya's Oxygen and the Fimbulwinter; 19 Euka, Lilith and Eve; 20 Euka's Children and the Thaw. Ch 12 (The Long Genealogies) and 13 (Solar Nebula Collapse) already named what they tell and were kept. The queue
 item on the chapters and their histories covers the same split.
 
 Tags are not touched in the review (manual-of-style corrections above).

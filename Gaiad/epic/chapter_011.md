@@ -1,4 +1,4 @@
-# Chapter 11: Aster Embodies the Galaxy
+# Chapter 11: Kolob and the Anti-Alpha
 
 Under the fourth sun, named bright {{c|Attle}}'s flame,
 The children landed on {{c|Kolob}}'s wide shore.

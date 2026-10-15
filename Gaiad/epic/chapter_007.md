@@ -1,4 +1,4 @@
-# Chapter 7: Primordial Stars Burn
+# Chapter 7: Aster's Shells and the Three Brothers
 
 Upon the shores of {{c|Hesper}}, life was born,
 Yet fragile were the forms that learned to crawl.

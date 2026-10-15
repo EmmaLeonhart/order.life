@@ -1,4 +1,4 @@
-# Chapter 6: Hydrogen Clouds Ignite
+# Chapter 6: Life Begins on Hesper
 
 Upon the shores of {{c|Hesper}}, where waves meet,
 {{c|Aster}}'s vital force descended from the skies.

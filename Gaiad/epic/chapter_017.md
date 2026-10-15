@@ -1,4 +1,4 @@
-# Chapter 17: The Hadean Hellscape
+# Chapter 17: The Bacterial Clans of Hydra and Terra
 
 From {{c|Bacta}}'s womb, two daughters did arise,
 {{c|Fair}} {{c|Hydra}} one, and {{c|Terra}} forged in might.

@@ -1,4 +1,4 @@
-# Chapter 5: The Big Bang of Longing
+# Chapter 5: Aster's Milk Made Fruitful
 
 {{c|Aster}} made the milk pregnant with cat seed,
 The curds take shape within the swirling storm.

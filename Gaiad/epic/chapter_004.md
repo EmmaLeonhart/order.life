@@ -1,4 +1,4 @@
-# Chapter 4: The First Yarn String
+# Chapter 4: The First Lovers Among the Stars
 
 The tale of {{c|Rhodes}} and {{c|Marigold}} begins,
 A union forged in stars, their love so bright.

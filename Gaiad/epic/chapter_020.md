@@ -1,4 +1,4 @@
-# Chapter 20: Late Heavy Bombardment
+# Chapter 20: Euka's Children and the Thaw
 
 {{c|Now}} {{c|Euka}}, in his cellular hall divine,
 {{c|Reflected}} on the gifts his love had made.

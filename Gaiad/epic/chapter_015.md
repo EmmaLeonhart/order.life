@@ -1,4 +1,4 @@
-# Chapter 15: Jupiter's Great Migration
+# Chapter 15: Usagi Luna's Promise
 
 Upon the {{c|Moon}}'s cold surface, bleak and bare,
 The daughters found that water was too scant;

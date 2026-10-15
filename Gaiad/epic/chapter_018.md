@@ -1,4 +1,4 @@
-# Chapter 18: The Moon's Catastrophic Birth
+# Chapter 18: Saya's Oxygen and the Fimbulwinter
 
 In ancient times, the {{c|Earth}} was calm and bright,
 Where daughters thrived in {{c|Gaia}}'s tender care.

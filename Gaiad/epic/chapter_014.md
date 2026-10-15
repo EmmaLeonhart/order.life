@@ -1,4 +1,4 @@
-# Chapter 14: Planetary Accretion
+# Chapter 14: The Daughters Cross the Outer Worlds
 
 Upon {{c|Pluto}}’s cold, icy, twilight shore,
 {{c|Nolah}} and {{c|Nemla}} stood with heavy hearts,

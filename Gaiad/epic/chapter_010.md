@@ -1,4 +1,4 @@
-# Chapter 10: Spiral Arms Form
+# Chapter 10: The Golden Age of Serenitide
 
 Upon the moon {{c|Serenitide}}, they came,
 Beneath the rains of {{c|Pluvia}}'s gentle skies.

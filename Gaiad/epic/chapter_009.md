@@ -1,4 +1,4 @@
-# Chapter 9: Gravity's Dark Dance
+# Chapter 9: Aster's Many Names on Phaestia
 
 Upon the moon {{c|Phaestia}}, life did bloom,
 It circled {{c|Vayu}}, underneath the sun.
