@@ -8307,3 +8307,8 @@ date recorded in the Julian calendar is read as Gregorian, here as in the DATE l
 Wikidata, Geni; 35,123 people have a Geni id) and, for the 1,173 people the entity resolution tied to the verse, an "In
 the Gaiad" note (first chapter and stanza, how many stanzas cite them) with fixed-wording translations in zh, ja and ko
 as TRAN. FamilySearch ids are not in the order.life data, so no FamilySearch links. 65 MB; all people match back by ID.
+
+2026-10-15 09:19 PST: cladoplast data in /gaiad.ged. `wiki-scripts/extract_cladoplasts.py` reads the wikibase's P59 "Cladoplast of"
+(1,626 links, clade labels from Wikidata) into `wikibase/analysis/cladoplasts.tsv`; the exporter writes each as a typed
+FACT ("Cladoplast of" Archaea, with the Wikidata link) on the 1,075 that are people in the genealogy (Luca -> life, Arka ->
+Archaea, Bacta -> Bacteria, Viros -> virus). The other 551 links sit on items with no person row.

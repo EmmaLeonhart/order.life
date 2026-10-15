@@ -359,6 +359,13 @@ def build_gedcom7(out_path):
 
     canon = load_canonical_line()
     gaiad_cites = load_gaiad_citations()
+    cladoplasts = defaultdict(list)
+    clado_path = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "cladoplasts.tsv"
+    if clado_path.exists():
+        import csv
+        with open(clado_path, encoding="utf-8", newline="") as fh:
+            for r in csv.DictReader(fh, delimiter="\t"):
+                cladoplasts[r["qid"]].append((r["clade_wikidata"], r["clade_label"]))
     labels = defaultdict(list)
     labels_path = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "labels.tsv"
     if labels_path.exists():
@@ -366,7 +373,7 @@ def build_gedcom7(out_path):
         with open(labels_path, encoding="utf-8", newline="") as fh:
             for r in csv.DictReader(fh, delimiter="\t"):
                 labels[r["qid"]].append((r["lang"], r["label"]))
-    n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = 0
+    n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = n_clado = 0
     for qid in sorted(persons, key=lambda q: int(q[1:]) if q[1:].isdigit() else 0):
         row = persons[qid]
         w(f"0 @I{qid}@ INDI")
@@ -456,6 +463,13 @@ def build_gedcom7(out_path):
             links.append(f"Geni https://www.geni.com/profile/index/{geni}")
         if links:
             w(f"1 NOTE Links: {'; '.join(links)}")
+        # Cladoplasts: the clade this character personifies (wikibase P59), as a typed FACT, so the tree of life
+        # and the family tree sit in one file (Emma, 2026-10-12: "some structured data related to cladoplasts").
+        for clade, clabel in cladoplasts.get(qid, []):
+            w(f"1 FACT {val(clabel or clade)}")
+            w("2 TYPE Cladoplast of")
+            w(f"2 NOTE Wikidata {clade}: https://www.wikidata.org/wiki/{clade}")
+            n_clado += 1
         cites = gaiad_cites.get(qid, [])
         if cites:
             ch, st, _ = cites[0]
@@ -503,7 +517,7 @@ def build_gedcom7(out_path):
     with open(tmp, "w", encoding="utf-8-sig", newline="\n") as f:
         f.write("\n".join(out))
     tmp.replace(out_path)
-    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal, "gaiad_notes": n_notes,
+    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal, "gaiad_notes": n_notes, "cladoplasts": n_clado,
             "bytes": out_path.stat().st_size}
 
 
