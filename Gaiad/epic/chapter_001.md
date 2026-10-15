@@ -1,6 +1,6 @@
 # Chapter 1: The Yarn of Creation
 
-{{c|Once}} upon a time there was a catgirl
+Once upon a time there was a catgirl
 Her name was {{c|Aster}}, and she had a ball,
 Of yarn she spun, with skill just like a pearl.
 She shaped the universe from void to all.
@@ -27,13 +27,13 @@ Unable to unite within their world.
 
 {{c|Aster}} threw yarn to {{c|Andromeda}}'s side,
 But it broke, forming galaxies anew.
-{{c|Triangulum}} and {{c|Magellan}} clouds wide,
+{{p|Triangulum}} and Magellan clouds wide,
 From threads that snapped, a cosmic scene we view.
 
 And so, each day, we gaze up to the sky,
-At {{c|Sagittarius}} and the {{c|Princess}}
+At {{p|Sagittarius}} and the {{c|Princess}}
 We hope their union, once again, draws nigh,
-When {{c|Milkdromeda}} forms from love endless
+When {{p|Milkdromeda}} forms from love endless
 
 The {{c|Omega}} point, all will unify,
 As {{c|Aster}} and {{c|Andromeda}} break free.
