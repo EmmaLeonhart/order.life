@@ -57132,7 +57132,7 @@ Are not the same map.
 
 # Chapter 321: The Suggested Copy
 
-On the twenty-fifth of April, 1953, the journal Nature
+On the twenty-fifth of April, 1953, the journal {{x|Nature}}
 Printed three papers on one substance.
 The substance is deoxyribose nucleic acid.
 The initials are DNA.
@@ -57153,22 +57153,22 @@ Of workers in {{p|London}}.
 A suggestion is not a measurement they made.
 It begins on one page and ends on the next.
 
-The other two papers are from King's College, London.
+The other two papers are from {{p|King's College}}, {{p|London}}.
 {{c|Maurice Wilkins}} and his colleagues signed one.
 {{c|Rosalind Franklin}} and {{c|Raymond Gosling}} signed the other.
 Their photograph of the salt, taken in 1952,
 Is in that issue under their names.
-Franklin had measured a helix.
+{{c|Franklin}} had measured a helix.
 She had the phosphates on the outside
 And the bases toward the middle.
-She had not signed the Cambridge page.
+She had not signed the {{p|Cambridge}} page.
 Do not say she failed to see her own photograph.
 The claim that she missed it is a later telling.
 The journal of that April prints her name
 On the evidence.
 
-In 1968 Watson published a book.
-He wrote that Wilkins showed him the photograph
+In 1968 {{c|Watson}} published a book.
+He wrote that {{c|Wilkins}} showed him the photograph
 In the first months of 1953,
 And that his pulse raced.
 The book is his account, fifteen years on.
@@ -57177,7 +57177,7 @@ The book speaks of her in a way the April page does not.
 Take the page.
 
 Five weeks later, on the thirtieth of May,
-Watson and Crick published the genetical implications.
+{{c|Watson}} and {{c|Crick}} published the genetical implications.
 The April sentence had already said the pairing suggests a copy.
 
 This was not the discovery of the substance.
@@ -57202,11 +57202,11 @@ He did not sign the April papers.
 Earlier in 1953 {{c|Linus Pauling}} had published a structure
 Of three chains.
 It did not hold.
-The Cambridge page says its own structure is another.
+The {{p|Cambridge}} page says its own structure is another.
 
 In 1962 the prize in physiology or medicine
-Went to Watson, to Crick, and to Wilkins.
-Franklin had died in 1958.
+Went to {{c|Watson}}, to {{c|Crick}}, and to {{c|Wilkins}}.
+{{c|Franklin}} had died in 1958.
 The prize is not given to the dead.
 Her name is on the April page.
 The prize's list is not that page.
@@ -57233,14 +57233,14 @@ The substance was already known to carry a change.
 The new sentence is the shape, and the copy the shape allows.
 A shape is not a commandment.
 The dead of the prize's year are not this chapter.
-Franklin's measurement is.
+{{c|Franklin}}'s measurement is.
 
 
 # Chapter 322: The Published Frequency
 
 On the fourth of October, 1957, at twenty-eight minutes
 And thirty-four seconds past seven in the evening,
-By the time kept at Greenwich,
+By the time kept at {{p|Greenwich}},
 A sphere left a pad at {{p|Tyuratam}}.
 By the clock in {{p|Moscow}} it was twenty-eight minutes
 And thirty-four seconds past ten at night.
@@ -57257,7 +57257,7 @@ Do not say the sphere left from the town.
 
 The sphere was the simplest satellite.
 The word in the announcement is the word for a satellite.
-The name that stayed is Sputnik.
+The name that stayed is {{x|Sputnik}}.
 It was fifty-eight centimeters across.
 It weighed 83.6 kilograms.
 Four antennas stood out from it.
@@ -57266,7 +57266,7 @@ Nitrogen was sealed inside.
 These are the object's measures.
 They are not a meaning.
 
-The rocket was a form of the R-7.
+The rocket was a form of the {{x|R-7}}.
 That form had been made to carry a warhead
 From one continent to another.
 In August of that year a rocket of this form
@@ -57321,7 +57321,7 @@ An anniversary is not a reason that answers for her.
 
 This day of the book keeps a rite on the fifteenth of November,
 In the count {{p|Japan}} uses.
-The rite is Shichi-go-san.
+The rite is {{x|Shichi-go-san}}.
 Seven, five, and three.
 It is not a holiday of the state.
 A household may go on the day, or on a day near it.
@@ -57332,7 +57332,7 @@ At five a boy was dressed in hakama,
 The formal trousers.
 At seven a girl took the wide sash.
 The visit to a shrine, as households keep it,
-Spread in the Meiji years.
+Spread in the {{x|Meiji}} years.
 Do not say a shogun fixed the fifteenth.
 That story is told, and it is not settled.
 
@@ -57374,11 +57374,11 @@ The rite is still kept.
 # Chapter 323: The Mother Tongue
 
 On the eleventh of October, 1962,
-In the basilica of Saint Peter, in {{p|Vatican City}},
+In the basilica of {{c|Saint Peter}}, in {{p|Vatican City}},
 {{c|John XXIII}} opened a council.
 He had said, on the twenty-fifth of January, 1959,
 In {{p|Rome}}, to the cardinals gathered in the house
-Beside the basilica of Saint Paul Outside the Walls,
+Beside the basilica of {{p|Saint Paul Outside the Walls}},
 That a council would be called,
 And a synod for the city,
 And a bringing up to date of the code of the law.
@@ -57396,11 +57396,11 @@ The second session ran from the twenty-ninth of September
 To the fourth of December, 1963.
 On that day he promulgated the constitution
 On the sacred liturgy.
-Its name is Sacrosanctum Concilium.
+Its name is {{x|Sacrosanctum Concilium}}.
 
 Particular law remaining in force,
-The use of Latin is to be preserved in the Latin rites.
-Since the mother tongue, in the Mass,
+The use of {{x|Latin}} is to be preserved in the {{x|Latin}} rites.
+Since the mother tongue, in the {{x|Mass}},
 In the sacraments, and in the other parts,
 May often be of great advantage to the people,
 The limits of its use may be extended.
@@ -57413,72 +57413,72 @@ First, the readings and the common prayer.
 Also, as the place warrants,
 The parts that pertain to the people.
 Steps are to be taken so that the same people
-May also say, or sing, in Latin,
+May also say, or sing, in {{x|Latin}},
 The parts of the ordinary that are theirs.
 A use wider than that follows a further article.
 It is not taken by the parish.
 
 The competent territorial authority decides the extent.
-The Apostolic See confirms the decision.
+The {{x|Apostolic See}} confirms the decision.
 A translation into the mother tongue
-Is made from the Latin text,
+Is made from the {{x|Latin}} text,
 And that authority approves it.
 No other person, even a priest,
 May add, or remove, or change anything in the rite
 On his own authority.
 
-The practical norms are for the Roman rite.
+The practical norms are for the {{x|Roman rite}}.
 The other rites, lawfully acknowledged,
 Are held of equal right and dignity,
 And are to be preserved.
 Particular law had already excepted some places.
 The constitution keeps the exception.
-The Kyrie of the Mass was already Greek.
+The {{x|Kyrie}} of the {{x|Mass}} was already {{x|Greek}}.
 
 On the twenty-sixth of September, 1964,
 An instruction carried the constitution toward the Sunday.
-The Consilium prepared it, by mandate of {{c|Paul VI}}.
+The {{x|Consilium}} prepared it, by mandate of {{c|Paul VI}}.
 {{c|Giacomo Lercaro}} presented it.
 {{c|Paul VI}} confirmed it in an audience
 Given to {{c|Arcadio Maria Larraona}},
-Prefect of the Congregation of Rites,
+Prefect of the {{x|Congregation of Rites}},
 And ordered it observed from the seventh of March, 1965,
-The first Sunday of Lent.
+The first Sunday of {{x|Lent}}.
 
-For a Mass with a congregation,
-Once the Holy See has confirmed the decision,
+For a {{x|Mass}} with a congregation,
+Once the {{x|Holy See}} has confirmed the decision,
 The people's language may be used
 For the lessons, the epistle, and the gospel,
 For the prayer of the faithful,
 For the chants of the ordinary,
-The Kyrie, the Gloria, the creed,
-The Sanctus, and the Agnus Dei,
+The {{x|Kyrie}}, the {{x|Gloria}}, the creed,
+The {{x|Sanctus}}, and the {{x|Agnus Dei}},
 For the introit, the offertory, and the communion,
 For the chants between the readings,
 For the greetings and the dialogues,
 For the words at the people's communion,
-And for the Lord's Prayer,
+And for the {{x|Lord's Prayer}},
 With its introduction and the short prayer after it.
-The book at the rite keeps the Latin text beside the other.
+The book at the rite keeps the {{x|Latin}} text beside the other.
 The pastors are charged to see
-That the people can still say, or sing, in Latin,
+That the people can still say, or sing, in {{x|Latin}},
 The parts of the ordinary that are theirs.
 
 The parts the priest sings or says alone
 Are not on that list.
-The Holy See alone can permit those.
-Do not say the whole Mass changed its tongue
+The {{x|Holy See}} alone can permit those.
+Do not say the whole {{x|Mass}} changed its tongue
 On the seventh of March.
 Do not say the instruction took the priest's own prayer
-Out of Latin.
+Out of {{x|Latin}}.
 
 The council closed on the eighth of December, 1965.
-The constitution was not a new book of the Mass.
+The constitution was not a new book of the {{x|Mass}}.
 A later book is not moved back into these years.
 
-Do not say the council silenced Latin.
+Do not say the council silenced {{x|Latin}}.
 The page that opens the mother tongue
-Says that Latin is to be preserved.
+Says that {{x|Latin}} is to be preserved.
 Do not say the people were left outside the words.
 The constitution says they are not to be there
 As strangers, or as silent spectators.
@@ -57493,7 +57493,7 @@ A permission is not yet a Sunday.
 Hold the two sentences on the one page.
 The striving is that the people understand the rite
 And take their part in it,
-In a tongue they are given, and in the Latin
+In a tongue they are given, and in the {{x|Latin}}
 The page refused to discard.
 Count the constitution on the fourth of December.
 Count the instruction on the seventh of March.
@@ -57505,13 +57505,13 @@ Were not the same tongue.
 # Chapter 324: The Master in the Mountain
 
 The filming did not begin in the year of the vault.
-In 1938 the Genealogical Society of Utah
+In 1938 the {{x|Genealogical Society of Utah}}
 Began to copy books onto rolls of film.
 The vault is where the masters were put.
 It is not the first camera.
 
 The place is {{p|Little Cottonwood Canyon}},
-In the Wasatch, in {{p|Utah}},
+In the {{p|Wasatch}}, in {{p|Utah}},
 About a mile up from the mouth,
 About twenty miles southeast of {{p|Salt Lake City}}.
 The room is cut into the north wall.
@@ -57565,9 +57565,9 @@ Do not say the whole of it was built in 1965.
 1965 is the year the work was going.
 The dedication is the next year.
 
-The owner is the Church of Jesus Christ of Latter-day Saints.
+The owner is the {{x|Church of Jesus Christ of Latter-day Saints}}.
 The society that sent the cameras
-Is the Genealogical Society of Utah.
+Is the {{x|Genealogical Society of Utah}}.
 Where an archive agreed, a camera copied the books.
 The camera does not take the book.
 The book stays where it was.
@@ -57629,13 +57629,13 @@ Is not answered by the stone.
 On the sixteenth of May, 1966,
 A circular went out inside the party, in {{p|Beijing}}.
 It was called a notification.
-The name that stayed is the Cultural Revolution.
+The name that stayed is the {{x|Cultural Revolution}}.
 The country was not given the text that day.
-People's Daily printed it a year later,
+{{x|People's Daily}} printed it a year later,
 On the seventeenth of May, 1967.
 A circular inside a party is not a vote of the people.
 
-On the eighth of August the Central Committee adopted
+On the eighth of August the {{x|Central Committee}} adopted
 A decision on that revolution, in sixteen points.
 The decision is not a catalog of what to break.
 
@@ -57643,7 +57643,7 @@ On the first of June the same newspaper had printed four names:
 Old ideas, old culture, old customs, old habits.
 Which object was old was not written down.
 On the eighteenth of August, at the gate in {{p|Beijing}},
-{{c|Mao Zedong}} received the Red Guards.
+{{c|Mao Zedong}} received the {{c|Red Guards}}.
 He wore an army coat.
 {{c|Lin Biao}} told the crowd to smash the four.
 The size of the crowd is not settled in this chapter.
@@ -57660,7 +57660,7 @@ Some objects were hidden.
 A hidden book does not put a hall back.
 A hall still standing does not close a grave.
 A person is not the label the month set on them.
-The Red Guards were students.
+The {{c|Red Guards}} were students.
 They were not the whole of the country.
 
 In {{p|Qufu}} the temple, the mansion, and the cemetery
@@ -57668,7 +57668,7 @@ Of {{c|Confucius}} stood under a protection of the state.
 In August the hands charged with the three places
 Did not give them up.
 Early in November a group came from {{p|Beijing}},
-Led by {{c|Tan Houlan}}, of Beijing Normal University.
+Led by {{c|Tan Houlan}}, of {{p|Beijing Normal University}}.
 On the twelfth, later accounts give the word
 From {{c|Chen Boda}} and {{c|Qi Benyu}} as three charges.
 Do not destroy the mansion, the temple, or the cemetery.
@@ -57707,7 +57707,7 @@ In {{p|Beijing}}.
 On the sixth of October {{c|Hua Guofeng}} had four people arrested:
 {{c|Jiang Qing}}, {{c|Zhang Chunqiao}},
 {{c|Yao Wenyuan}}, {{c|Wang Hongwen}}.
-The name given afterward is the Gang of Four.
+The name given afterward is the {{c|Gang of Four}}.
 The arrest is the end the later telling uses.
 It did not fill the grave.
 A judgment written in a later year
@@ -57731,32 +57731,32 @@ On the sixteenth of July, 1969,
 {{c|Neil Armstrong}}, {{c|Buzz Aldrin}}, and {{c|Michael Collins}}
 Left the cape then called {{p|Cape Kennedy}}.
 The cape is now {{p|Cape Canaveral}}.
-The center is the Kennedy Space Center.
+The center is the {{p|Kennedy Space Center}}.
 Do not collapse the names.
-A person had already left the Earth in the spring of 1961.
+A person had already left the {{p|Earth}} in the spring of 1961.
 On the twenty-fifth of May, 1961,
 {{c|John Kennedy}} had asked for a landing and a return
 Before the decade was out.
 
-On the twentieth of July the lander, called the Eagle,
+On the twentieth of July the lander, called the {{x|Eagle}},
 Set down on the {{p|Sea of Tranquility}}.
-By the Greenwich clock it was seventeen minutes past eight
+By the {{p|Greenwich}} clock it was seventeen minutes past eight
 In the evening.
 In the east of the {{p|United States}}
 It was seventeen minutes past four in the afternoon.
 The landing is the twentieth on both clocks.
-{{c|Neil Armstrong}} said: Houston, Tranquility Base here.
-The Eagle has landed.
-{{c|Michael Collins}} stayed in the ship called Columbia,
+{{c|Neil Armstrong}} said: {{p|Houston}}, {{p|Tranquility Base}} here.
+The {{x|Eagle}} has landed.
+{{c|Michael Collins}} stayed in the ship called {{x|Columbia}},
 In orbit, so the two could come back.
 He did not walk.
 Do not say three men walked.
 
 The step was later.
-By the clocks of the United States
+By the clocks of the {{p|United States}}
 It was still the twentieth, about four minutes before eleven
 At night, in the east.
-By the Greenwich clock it was four minutes before three
+By the {{p|Greenwich}} clock it was four minutes before three
 In the morning of the twenty-first.
 Do not collapse the two dates.
 The second on the tape is not settled here.
@@ -57776,16 +57776,16 @@ He did not speak the bread and the wine on the open line.
 A thanks asked of every listener
 Is not the same act as a rite kept beside the radio.
 
-A machine had struck the Moon in 1959.
+A machine had struck the {{p|Moon}} in 1959.
 A machine had set down and sent pictures back in 1966.
-In December 1968 three people had gone around the Moon
+In December 1968 three people had gone around the {{p|Moon}}
 And come back. They had not landed.
 Do not say a boot was the first thing to touch.
 The first in this chapter is the first people to step out
 And stand, and the first to leave again alive.
 
 The plaque on the leg of the lander says
-That men from the Earth first set foot upon the Moon,
+That men from the {{p|Earth}} first set foot upon the {{p|Moon}},
 In July 1969.
 It does not give the day.
 It says they came in peace for all mankind.
@@ -57801,14 +57801,14 @@ They were on the ground for about twenty-one hours and a half.
 The walk was about two hours and a half.
 They left the ground on the twenty-first, by both clocks.
 On the twenty-fourth of July they came down in the {{p|Pacific}}.
-The ship that took them aboard was the Hornet.
+The ship that took them aboard was the {{x|Hornet}}.
 
 On the twenty-ninth of October, at half past ten at night,
 In {{p|Los Angeles}}, a line was opened
 To {{p|Menlo Park}}.
 {{c|Charley Kline}} typed, in the laboratory of {{c|Leonard Kleinrock}}.
 {{c|Bill Duvall}} was at the far end,
-At the Stanford Research Institute.
+At the {{x|Stanford Research Institute}}.
 The word they meant to send was login.
 The first try carried L, and O, and stopped.
 The log they kept is those two letters.
@@ -57832,7 +57832,7 @@ Two letters are not yet a people talking.
 The web people later used is not this October.
 Do not move it back.
 
-This day of the book keeps the Thanksgiving
+This day of the book keeps the {{x|Thanksgiving}}
 Of the {{p|United States}}.
 The landing was in July.
 The two letters were in October.
@@ -57841,7 +57841,7 @@ Was the twenty-seventh of November.
 None of the three is the others' day.
 
 A harvest was eaten in 1621, at {{p|Plymouth}},
-By the English there and by the Wampanoag.
+By the {{c|English}} there and by the {{c|Wampanoag}}.
 That table was not a national holiday.
 In 1863 {{c|Abraham Lincoln}} proclaimed a national day,
 The last Thursday of November, in a war.
@@ -57855,10 +57855,10 @@ A landing is not a thanks.
 
 Count the twentieth for the landing on both clocks.
 Count the step on the twentieth in the country
-And on the twenty-first at Greenwich.
+And on the twenty-first at {{p|Greenwich}}.
 Count the two letters on the twenty-ninth of October.
 Count the Thursday of the meal on its own day.
-The Eagle came back.
+The {{x|Eagle}} came back.
 The two letters were only a beginning.
 A path opened is not yet a reason.
 The reason is what the people do with the path,
@@ -57871,7 +57871,7 @@ And the year has not finished saying it.
 
 On the twentieth of April, 1972,
 The first day of summer that year,
-A meeting at a hotel called the Borg,
+A meeting at a hotel called the {{p|Borg}},
 In {{p|Reykjavík}}, formed a fellowship.
 The name of it was Ásatrúarfélagið.
 A later account also names the thirtieth.
@@ -57889,7 +57889,7 @@ Do not say a medieval law had been waiting
 On a farm.
 
 In the first letter to the ministry
-They named the old religion of the Icelanders,
+They named the old religion of the {{c|Icelanders}},
 Law until the year 1000, so far as it fitted
 A new time and changed conditions.
 A paper that spring called them
@@ -57907,13 +57907,13 @@ A blót in 1973 is not that assembly's law.
 Do not say the gods ended in a day,
 Or that a public sacrifice had never stopped.
 
-Shortly before Christmas, 1972,
+Shortly before {{x|Christmas}}, 1972,
 {{c|Sveinbjörn Beinteinsson}} and {{c|Þorsteinn Guðjónsson}}
 Went to {{c|Ólafur Jóhannesson}},
 Minister of justice and of ecclesiastical affairs.
 He thought the request was a joke.
 They said they were serious, and he asked for papers.
-By Sveinbjörn's account, after they had left,
+By {{c|Sveinbjörn}}'s account, after they had left,
 The lights went out in the center of {{p|Reykjavík}}.
 On the second of January a paper made a joke of it,
 And gave the thunder to {{c|Þór}}.
@@ -57926,7 +57926,7 @@ He read the right to found organizations to serve god
 As a phrase for one god.
 He wrote that the teachings were not fixed,
 And that there was no house for the rite.
-He named Germany, and a racial use of the old gods.
+He named {{p|Germany}}, and a racial use of the old gods.
 He wrote that the group was twenty-one.
 An earlier letter had said about a hundred.
 A later count for the year is another number.
@@ -57935,16 +57935,16 @@ This chapter does not choose a roll.
 The applicants denied that the fellowship
 Was national socialism.
 They wrote that a genuine following of these gods
-In that Reich was doubtful, and that some Christian bodies
+In that {{p|Reich}} was doubtful, and that some Christian bodies
 Had gone along with it.
 A denial is not a proof. The bishop's fear is not the fellowship.
-Do not try them as the Germany he named,
+Do not try them as the {{p|Germany}} he named,
 And do not call the denial the end of the question.
 
 The first papers did not meet the rules.
 Later papers did, and the ministry said so.
 On the third of May, 1973, a letter came
-To a house on Ingólfsstræti, in {{p|Reykjavík}},
+To a house on {{p|Ingólfsstræti}}, in {{p|Reykjavík}},
 And confirmed him as the legal head.
 The papers reported it on the fifteenth.
 Do not collapse the third and the fifteenth.
@@ -57953,7 +57953,7 @@ Attendance is not the roll.
 
 What May gave was a registered society.
 The national church stayed the national church,
-The Evangelical Lutheran Church.
+The {{x|Evangelical Lutheran Church}}.
 What the register carried were acts that church counted:
 A naming, a coming of age, a marriage, a burial.
 The rights come because the priests have them.
@@ -57977,7 +57977,7 @@ This chapter does not settle the clause.
 
 On the fifth of August, at {{p|Dragháls}},
 They held a blót in the rain, under a plaster figure
-Of Þór that {{c|Jörmundur Ingi Hansen}} had made.
+Of {{c|Þór}} that {{c|Jörmundur Ingi Hansen}} had made.
 A May headline had said nine hundred years.
 The years since the assembly's law are not nine hundred.
 The August telling called the day the first public
@@ -57992,7 +57992,7 @@ Do not make the kitchen the theology, and do not leave the bird out.
 The return was not only in {{p|Iceland}}.
 A brotherhood in the {{p|United States}}
 Had a tax exemption in 1972.
-In Britain a body called the Pagan Front
+In {{p|Britain}} a body called the {{x|Pagan Front}}
 Had been named by 1971.
 Neither one is this letter.
 A later use of these names kept them for a descent.
@@ -58019,7 +58019,7 @@ And it cannot make those years nothing.
 # Chapter 328: As of 1979
 
 From the eighteenth to the twenty-second of December, 1978,
-The Central Committee sat in {{p|Beijing}}.
+The {{x|Central Committee}} sat in {{p|Beijing}}.
 It was the third session of the eleventh committee.
 {{c|Hua Guofeng}} presided.
 He was the chairman.
@@ -58076,13 +58076,13 @@ No abdication was signed.
 On the first of February {{c|Ruhollah Khomeini}} landed
 At the airport in the city,
 At half past nine in the morning, by that city's clock.
-The aircraft was a chartered plane of Air France.
+The aircraft was a chartered plane of {{x|Air France}}.
 It had left {{p|Paris}}.
 The years of the exile are counted differently.
 This chapter does not choose the count.
 The size of the crowd is not settled.
 He spoke at the airport.
-He went to the cemetery of Behesht-e Zahra,
+He went to the cemetery of {{p|Behesht-e Zahra}},
 Where people killed in the revolution were buried.
 On the eleventh of February the government fell.
 A landing is not yet a state.
@@ -58135,7 +58135,7 @@ And swore that war’s last ember here would die.
 
 A crackling voice on August’s fervent air
 Confessed defeat across the empire’s seas;
-In Times Square strangers, dazzled, found a dare,
+In {{p|Times Square}} strangers, dazzled, found a dare,
 And sealed a vow with one unbridled squeeze.
 
 The second of September set its fate;
@@ -58143,32 +58143,32 @@ Steel decks became the altar of release.
 The working world inhaled and sealed its fate,
 Proclaiming labor’s covenant of peace.
 
-From Pittsburgh mills to London’s river docks,
+From {{p|Pittsburgh}} mills to {{p|London}}’s river docks,
 The union drums beat loud in molten halls;
 Red banners rolled like quick-forged iron shocks,
 And bosses felt the tremor in their walls.
 
-Kartik lamps glowed through India’s dark night,
+{{x|Kartik}} lamps glowed through {{p|India}}’s dark night,
 A widow smiled, her children at her side;
 As sparks like comets chased the ghosts to flight,
 And whispered freedom swelling in the tide.
 
-In ruined fields the Shintō harvest bowed,
+In ruined fields the {{x|Shintō}} harvest bowed,
 White grains were heaped before a broken shrine;
 The farmer wept yet offered thanks aloud,
 For seeds of hope still quickened in the brine.
 
-In Nuremberg the gavel cracked like doom,
+In {{p|Nuremberg}} the gavel cracked like doom,
 The plague of hate was named before the earth;
 Twelve shadows waited judgment in the room,
 And heard mankind demand their curse’s birth.
 
 December’s pilgrims gathered on the sand,
 Indian scholar singing promised land;
-Trader from Malay knelt upon the sand,
+Trader from {{p|Malay}} knelt upon the sand,
 Their voices mingled, binding sand to land.
 
-Eight fragile lights renewed a Warsaw room,
+Eight fragile lights renewed a {{p|Warsaw}} room,
 The youngest played where once the shadows lay;
 Their mother sang against remembered gloom,
 And turned the night to promise with her pray.
@@ -58178,22 +58178,22 @@ Their silver peals stitched silence into song;
 Young soldiers danced beside a wooden fife,
 And swore no tyrant’s reign would last as long.
 
-In Seoul the crowds lit torches in the street,
+In {{p|Seoul}} the crowds lit torches in the street,
 Their flags proclaimed the empire’s yoke was done;
 Yet lines were drawn where foreign soldiers meet,
 And dawn arose upon a severed sun.
 
-Across the plains of China drums of peace
+Across the plains of {{p|China}} drums of peace
 Replaced the clash of empire’s hungry blade;
 Yet rival banners gathered, never ceased,
 And thunder warned of storms that had not fled.
 
-In Tokyo the courtroom lights burned slow,
+In {{p|Tokyo}} the courtroom lights burned slow,
 Two years of witness weighed each mortal crime;
 Yet on the throne a sacred ember glowed,
 And judgment blurred along the edge of time.
 
-New Year’s decree spoke softly through the gray;
+{{x|New Year}}’s decree spoke softly through the gray;
 No myth shall bind my people’s hearts at all.
 Not akitsumikami, far away,
 And trust shall rise, a beacon shared by all.
@@ -58204,7 +58204,7 @@ The plague of hate dissolved like distant steam,
 And human hands began to build on high.
 
 The signing in the bay was the second of September, a Sunday.
-Labor Day was the Monday after.
+{{x|Labor Day}} was the Monday after.
 Do not make the holiday the hour of the treaty.
 
 The harvest before a broken shrine, in this chapter,
@@ -58213,7 +58213,7 @@ Forty-five years later the first harvest rite of a reign
 Was done again.
 {{c|Hirohito}} died on the seventh of January, 1989.
 {{c|Akihito}} was emperor from that day.
-The era is called Heisei.
+The era is called {{x|Heisei}}.
 The night rite did not make him emperor.
 
 On the twelfth of November, 1990,
@@ -58230,7 +58230,7 @@ The yuki rice was cut on the twenty-eighth of September.
 The suki rice was cut on the tenth of October.
 
 On the twenty-second and the twenty-third of November,
-In temporary halls in the East Gardens of the palace,
+In temporary halls in the {{p|East Gardens}} of the palace,
 He offered new rice to the imperial ancestors
 And to the deities of heaven and earth,
 And he ate of what he had offered.
@@ -58242,8 +58242,8 @@ The second was after midnight, from half past twelve
 Until half past three on the morning of the twenty-third.
 Do not collapse the two dates.
 The twenty-third is the public holiday on the old date
-Of the yearly rite, Niiname-sai.
-This night is the Daijōsai, the first of a reign.
+Of the yearly rite, {{x|Niiname-sai}}.
+This night is the {{x|Daijōsai}}, the first of a reign.
 It is once. The one before it was in 1928.
 Do not say the great rite had been kept every November.
 
@@ -58257,8 +58257,8 @@ The purse was argued, a religious act
 And the public money in the same argument.
 No sum is chosen.
 The constitution's word for him was not changed that night.
-The English word divine is not this offering.
-Do not say the harvest undid the New Year sentence.
+The {{x|English}} word divine is not this offering.
+Do not say the harvest undid the {{x|New Year}} sentence.
 Do not say that sentence had made the harvest impossible.
 
 A broken offering and a full one are not the same rite.
@@ -58271,11 +58271,11 @@ A thanks is not yet the peace it names.
 No holiday is named for this day.
 
 In April 1990 two agencies published a plan.
-Its title is Understanding Our Genetic Inheritance.
+Its title is {{x|Understanding Our Genetic Inheritance}}.
 It is the first five years,
 The fiscal years 1991 through 1995.
-The National Institutes of Health published it
-With the Department of Energy.
+The {{x|National Institutes of Health}} published it
+With the {{x|Department of Energy}}.
 The center that carries the institutes' share
 Sits in {{p|Bethesda}}.
 The program dates the plan as implemented
@@ -58309,7 +58309,7 @@ And about twenty million letters from other organisms.
 
 The plan says the human genome consists of
 Fifty thousand to a hundred thousand genes.
-The Times, in October 1988, had given the same range.
+{{x|The Times}}, in October 1988, had given the same range.
 The opening of the same plan says an estimated
 One hundred thousand, the number whose places it would find.
 The plan's word is an estimate, and not a count.
@@ -58336,7 +58336,7 @@ Had been for getting organized.
 Some money had been earmarked.
 Do not say the whole price was voted on the first of October.
 
-The Department of Energy's reason, in the plan's words,
+The {{x|Department of Energy}}'s reason, in the plan's words,
 Is a long-standing work of genetic research,
 Directed at assessing what radiation,
 And the chemicals of energy, do to health.
@@ -58358,7 +58358,7 @@ From whether it could be done to whether it should.
 The recall is not a vote of the room.
 The workshop did not publish this plan.
 
-In 1988 the National Research Council recommended the effort,
+In 1988 the {{x|National Research Council}} recommended the effort,
 And that the money be new,
 Not taken from the work already funded.
 In the fall the two agencies signed a memorandum to coordinate.
@@ -58366,14 +58366,14 @@ In the fall the two agencies signed a memorandum to coordinate.
 The notice gives the fall, and not the day.
 In the same autumn {{c|James Watson}}
 Was appointed to the genome office.
-The Times of the fourth of October, a Tuesday,
+{{x|The Times}} of the fourth of October, a Tuesday,
 Reported the appointment effective the previous Saturday,
 The first of the month.
 He would remain director of the laboratory
 At {{p|Cold Spring Harbor}},
 And come to the institutes a day or two in the week.
 On the first of October 1989 the office was abolished,
-And the National Center for Human Genome Research
+And the {{x|National Center for Human Genome Research}}
 Was established, with him as its director.
 He is the man who, in 1953, with another,
 Wished to suggest a structure,
@@ -58430,7 +58430,7 @@ In {{p|Foros}}, on the eighteenth of August,
 {{c|Mikhail Gorbachev}} was asked to declare an emergency.
 He refused.
 On the nineteenth a committee announced an emergency,
-For six months, beginning at four in the morning, Moscow time.
+For six months, beginning at four in the morning, {{p|Moscow}} time.
 It said he could not carry out his duties, for his health,
 And that the office passed to {{c|Gennady Yanayev}}.
 The television played a ballet.
@@ -58439,7 +58439,7 @@ Armor came into {{p|Moscow}}.
 {{c|Boris Yeltsin}} spoke from a tank,
 Outside the Russian parliament's house.
 On the night between the twentieth and the twenty-first,
-In the tunnel at the Garden Ring,
+In the tunnel at the {{p|Garden Ring}},
 Three men were killed.
 {{c|Dmitry Komar}}. {{c|Ilya Krichevsky}}. {{c|Vladimir Usov}}.
 The accounts do not agree which blow took which man.
@@ -58465,8 +58465,8 @@ A republic's vote is not a vote of the whole union.
 On the eighth of December, at {{p|Viskuli}},
 In the forest, and not in the city,
 Three states signed.
-{{p|Belarus}}. The Russian Federation, and the agreement
-Still writes the older initials beside that name. Ukraine.
+{{p|Belarus}}. The {{p|Russian Federation}}, and the agreement
+Still writes the older initials beside that name. {{p|Ukraine}}.
 {{c|Stanislav Shushkevich}} signed for {{p|Belarus}},
 With {{c|Boris Yeltsin}} and with {{c|Leonid Kravchuk}}.
 Others signed beside them.
@@ -58497,7 +58497,7 @@ On the twenty-first, in {{p|Alma-Ata}},
 Eleven states signed a declaration.
 The three were there, and eight besides.
 {{p|Georgia}} was not among them.
-The three Baltic states were not among them.
+The three {{p|Baltic}} states were not among them.
 The declaration says the commonwealth
 Is not a state, and not a structure set above states.
 With its formation, it says, the union ceases to exist.
@@ -58507,7 +58507,7 @@ Comes into force for each state when that state ratifies it.
 A signature in a forest is not every parliament.
 Eleven pens are not the three, and not the fifteen.
 
-On the twenty-fifth, in Moscow, he spoke.
+On the twenty-fifth, in {{p|Moscow}}, he spoke.
 He discontinued his activities
 As president of the union,
 Because of the commonwealth that had been formed.
@@ -58521,7 +58521,7 @@ The red flag came down that evening.
 The accounts do not agree on the minute.
 Do not say the flag was the statute.
 
-On the twenty-sixth the Council of the Republics
+On the twenty-sixth the {{x|Council of the Republics}}
 Of the supreme soviet adopted a declaration.
 Its number is 142-N.
 It says that with the creation of the commonwealth
@@ -58532,12 +58532,12 @@ The chamber's sentence is not the three pens.
 It is not the eleven.
 It is not the evening speech.
 
-Hold the refusal at Foros,
+Hold the refusal at {{p|Foros}},
 The three names in the tunnel,
 The Friday the council recognized three states,
 The ballots of the first of December,
-The sentence at Viskuli,
-The eleven at Alma-Ata,
+The sentence at {{p|Viskuli}},
+The eleven at {{p|Alma-Ata}},
 The evening he left the office,
 And the chamber on the day after.
 Refuse the consolation that one of these was all of them.
@@ -58579,8 +58579,8 @@ A link that cannot leave is not this notice.
 In May 1990 he circulated the proposal again.
 In October he and {{c|Robert Cailliau}} reformulated it.
 He chose a name.
-The names he set aside were Information Mesh,
-The Mine of Information, and the Information Mine.
+The names he set aside were {{x|Information Mesh}},
+The {{x|Mine of Information}}, and the {{x|Information Mine}}.
 Do not collapse October into the document of November.
 On the twelfth of November the two of them
 Dated a proposal for a hypertext project.
@@ -58598,11 +58598,11 @@ It is not a roll of who was there in August.
 On the twentieth of December, 1990,
 The laboratory's timeline dates the first server,
 And the first page.
-The machine was a NeXT.
+The machine was a {{x|NeXT}}.
 The address was info.cern.ch.
 The page was a page about the project.
-He wrote that by Christmas the browsers could be shown.
-Christmas is not the twentieth.
+He wrote that by {{x|Christmas}} the browsers could be shown.
+{{x|Christmas}} is not the twentieth.
 Do not make them one morning.
 {{c|Nicola Pellow}}, a student, had begun in November
 A browser for a line at a time.
@@ -58639,7 +58639,7 @@ At a meeting on hypertext.
 A demonstration is not an adoption.
 
 His list, written in 1995, puts a first server
-Outside Europe in May, at the laboratory
+Outside {{p|Europe}} in May, at the laboratory
 In {{p|Menlo Park}}.
 The laboratory dates the installation
 To the twelfth of December, a Thursday.
@@ -58690,7 +58690,7 @@ The pointing was not.
 
 # Chapter 333: The Morning Trains
 
-This day of the book keeps the Thanksgiving
+This day of the book keeps the {{x|Thanksgiving}}
 Of the {{p|United States}}, the second of the two.
 In the year of the attack, that Thursday
 Was the twenty-third of November.
@@ -58704,20 +58704,20 @@ The thanks for labor is not the trains.
 
 In February 1984 {{c|Chizuo Matsumoto}}
 Began a circle.
-He called it Aum Shinsen no Kai.
+He called it {{x|Aum Shinsen no Kai}}.
 It was a practice of yoga, in {{p|Tokyo}}.
-In June 1987 the circle took the name Aum Shinrikyo.
-The English often says Supreme Truth.
+In June 1987 the circle took the name {{x|Aum Shinrikyo}}.
+The {{x|English}} often says {{x|Supreme Truth}}.
 The Japanese name is a teaching of truth, and a syllable
 A tradition already chanted.
-Do not treat the English as those words.
+Do not treat the {{x|English}} as those words.
 He set beside the syllable the god {{c|Shiva}},
 Whom another tradition already served,
 And an end a Christian book had already named.
 A joining of what was already there is not yet a crime.
 The crime was the use.
 
-In August 1989 the government of Tokyo
+In August 1989 the government of {{p|Tokyo}}
 Registered the circle as a religious corporation.
 A registration is a line in a register.
 It is not a finding that the teaching was true.
@@ -58744,11 +58744,11 @@ A later death is sometimes added to it.
 This chapter does not add it.
 That night is not the Monday.
 
-On the Monday morning, in Tokyo,
+On the Monday morning, in {{p|Tokyo}},
 Members of the group released sarin
 On five trains.
-The lines were the Hibiya, the Chiyoda,
-And the Marunouchi,
+The lines were the {{x|Hibiya}}, the {{x|Chiyoda}},
+And the {{x|Marunouchi}},
 The ones that carry people through {{p|Kasumigaseki}},
 Where the ministries sit.
 Do not make one station the whole of the harm.
@@ -58776,7 +58776,7 @@ An arrest is not a sentence.
 The sentence of a later court is not this Tuesday.
 A hanging on the sixth of July, 2018, is not this spring.
 
-In October the Tokyo court ordered the corporation
+In October the {{p|Tokyo}} court ordered the corporation
 Dissolved.
 An order on a register is not a belief ended
 In the people who kept it.
@@ -58788,7 +58788,7 @@ A substance that can kill was used to kill.
 The use is the act.
 
 Hold the circle of February,
-The three in Yokohama,
+The three in {{p|Yokohama}},
 The night in the city that is not the man,
 The Monday trains,
 The Tuesday he was found,
@@ -58819,9 +58819,9 @@ The eighth of February as the day they made her.
 A fusion is not a birth.
 Do not make the two mornings one.
 
-The paper calls her 6LL3.
-She was a Finn Dorset.
-The ewe who carried her was a Scottish Blackface.
+The paper calls her {{x|6LL3}}.
+She was a {{x|Finn Dorset}}.
+The ewe who carried her was a {{x|Scottish Blackface}}.
 If the lamb had been that ewe's own,
 The face would have been black.
 The face was white.
@@ -58834,13 +58834,13 @@ The matching is not the morning she stood.
 
 The nucleus came from a culture
 Taken from the mammary gland
-Of a six-year-old Finn Dorset,
+Of a six-year-old {{x|Finn Dorset}},
 In the last third of a pregnancy.
 The culture was mostly cells of that gland.
 The paper says the type of the one cell is not known.
 Other kinds of cell were in the dish.
 Do not say which kind she was.
-The egg was from a Scottish Blackface,
+The egg was from a {{x|Scottish Blackface}},
 And the egg's own nucleus had been taken out.
 The ewe who carried her was another.
 Three animals, and not one mother.
@@ -58890,7 +58890,7 @@ The birth was kept quiet.
 The laboratory told the public
 On the twenty-second of February, 1997, a Saturday.
 The paper is dated the twenty-seventh, a Thursday,
-In Nature.
+In {{x|Nature}}.
 The two days are not one.
 A silence kept for a journal
 Is not a secrecy of the state.
@@ -58910,7 +58910,7 @@ Because the face in the pen was a sheep's.
 She bore six lambs.
 A copy that can bear a young
 Is not a dead end of the line.
-The ram was a Welsh Mountain.
+The ram was a {{x|Welsh Mountain}}.
 The six are not this chapter's plot.
 On the fourteenth of February, 2003,
 She was put down.
@@ -58957,10 +58957,10 @@ It is also not nothing.
 
 In {{p|Philadelphia}}, in February 1996,
 {{c|Garry Kasparov}} played a match
-Against a machine its makers called Deep Blue.
+Against a machine its makers called {{x|Deep Blue}}.
 The papers called him the world champion.
 The match did not offer the title.
-It was the Association for Computing Machinery's challenge.
+It was the {{x|Association for Computing Machinery}}'s challenge.
 
 The rate the reports settle on
 Is forty moves in two hours.
@@ -59005,19 +59005,19 @@ This chapter keeps the city.
 
 In May 1997 the name was used again,
 In {{p|New York}},
-At the Equitable Building.
+At the {{p|Equitable Building}}.
 The floor is not agreed.
 The paper on the second game
-Calls the Philadelphia machine an earlier, slower version.
+Calls the {{p|Philadelphia}} machine an earlier, slower version.
 Do not fold this May back into that February.
 Two hours for each side to make forty moves.
 That is the rate already named.
 
 On the third of May, a Saturday, he had white.
-The column calls the opening a Reti.
+The column calls the opening a {{x|Reti}}.
 At the forty-fifth move the handlers resigned the machine.
 On the fourth, a Sunday, the machine had white.
-The column calls the opening a Ruy Lopez.
+The column calls the opening a {{x|Ruy Lopez}}.
 He resigned at the forty-fifth move,
 After three hours and forty-two minutes.
 The score was one to one.
@@ -59042,7 +59042,7 @@ On the tenth, a Saturday, a third draw.
 He offered it. The handlers accepted.
 Two and a half each.
 On the eleventh, a Sunday, the machine had white.
-The column calls the opening a Caro-Kann.
+The column calls the opening a {{x|Caro-Kann}}.
 He resigned at the machine's nineteenth move.
 The match was three and a half to two and a half.
 Do not set a crown on the machine.
@@ -59077,7 +59077,7 @@ And the haste to hear a mind in a score.
 The striving is to keep the kinds apart.
 Hold the Saturday of the thirty-seventh,
 The Saturday he closed the first match,
-The Sunday the New York score was one to one,
+The Sunday the {{p|New York}} score was one to one,
 And the Sunday of the nineteenth move.
 Refuse the consolation that he lost for being a fool,
 And the consolation that a score had become a soul.
@@ -59205,7 +59205,7 @@ So the day was real.
 A rule that stops a century's leap
 Would have skipped it.
 {{c|John Koskinen}} said the glitches were a handful.
-A message archive of the Coast Guard
+A message archive of the {{x|Coast Guard}}
 Refused the date. The operations held.
 At {{p|Offutt}}, near {{p|Omaha}},
 A count of equipment and stores stumbled,
@@ -59253,14 +59253,14 @@ In January 2000 he sent a letter
 About a successor to that digest.
 {{c|Jimmy Wales}} answered with an encyclopedia,
 And asked him to lead it.
-He has written that the open encyclopedia was Wales's idea,
+He has written that the open encyclopedia was {{c|Wales}}'s idea,
 And the money the company's.
-The company was Bomis. He names {{c|Jimmy Wales}},
+The company was {{x|Bomis}}. He names {{c|Jimmy Wales}},
 {{c|Tim Shell}}, and {{c|Michael Davis}}.
 He arrived in {{p|San Diego}} early in February,
 And finished in June the degree the work had asked.
 
-The book was called Nupedia.
+The book was called {{x|Nupedia}}.
 Through the spring and the fall the work went by mail.
 A board of volunteers, most of them with degrees,
 Agreed to seven steps before a page was posted.
@@ -59295,7 +59295,7 @@ The tool was already called by a word for quick.
 He asked that the tool be set up.
 It asked for no new programmer.
 On the tenth, a Wednesday, the pages opened
-Under Nupedia's own address, and articles were written.
+Under {{x|Nupedia}}'s own address, and articles were written.
 He has written that a clear majority of the board
 Wanted nothing to do with a page of that kind.
 So the pages took their own name, and their own address.
@@ -59318,7 +59318,7 @@ This chapter does not join the two datings.
 The software did not keep a sure history.
 A later recovery gives a line on the home page
 That day, from the company's office machine, unsigned.
-It reads, This is the new WikiPedia!
+It reads, This is the new {{x|WikiPedia}}!
 This chapter does not call those words a hello,
 And does not give the line to {{c|Jimmy Wales}}
 Or to {{c|Larry Sanger}}.
@@ -59330,8 +59330,8 @@ About six hundred by the end of January.
 Thirteen hundred in March, twenty-three hundred in April,
 Thirty-nine hundred in May.
 On the twentieth of September, a Thursday,
-{{c|Peter Meyers}}, in the New York Times,
-Wrote of some ten thousand entries, from Abba to zygote,
+{{c|Peter Meyers}}, in the {{x|New York Times}},
+Wrote of some ten thousand entries, from {{x|Abba}} to zygote,
 And about a hundred volunteers since January.
 His later count for the ninth of that month is higher.
 A magazine later has {{c|Jimmy Wales}} say
@@ -59359,7 +59359,7 @@ He later set the joke aside.
 The book did not.
 
 {{c|Jimmy Wales}} opened a page
-Called Neutral Point of View.
+Called {{x|Neutral Point of View}}.
 The older rule had been to avoid a bias.
 {{c|Larry Sanger}} has written that a neutrality
 Is not a point of view.
@@ -59396,7 +59396,7 @@ On Tuesday, the eleventh of September, 2001,
 Four planes were turned.
 The first struck the north tower, in {{p|New York}}.
 The second struck the south.
-The third struck the Pentagon, in {{p|Arlington}}.
+The third struck the {{p|Pentagon}}, in {{p|Arlington}}.
 The fourth came down in a field near {{p|Shanksville}}.
 The order is that order.
 The minute of the fourth is not agreed.
@@ -59410,7 +59410,7 @@ Is not given in one sentence.
 
 The south tower fell first.
 The north tower fell after.
-A part of the Pentagon fell later that morning.
+A part of the {{p|Pentagon}} fell later that morning.
 The minute of that fall is not agreed.
 An earlier bomb, in 1993, under the same towers,
 Is not this morning.
@@ -59570,7 +59570,7 @@ The promise of a later paper is not this Monday.
 A gap the method could not close
 Is part of the definition they announced,
 And it is still a gap.
-Collins said almost everybody looking
+{{c|Collins}} said almost everybody looking
 For answers from the genome
 Would find it in the most final form
 They could ever have dreamed of.
@@ -59601,14 +59601,14 @@ He said he could do it better, and in a week.
 
 On Wednesday, the fourth of February, 2004,
 In the afternoon, after about a week of coding,
-He opened thefacebook.com.
+He opened {{x|thefacebook.com}}.
 The first paper does not name the room.
-A later account puts it in Kirkland House.
+A later account puts it in {{p|Kirkland House}}.
 
-A Harvard address could put up a picture,
+A {{p|Harvard}} address could put up a picture,
 And personal and academic information.
 The way of the joining is not set down.
-He said Friendster was a model.
+He said {{x|Friendster}} was a model.
 A person could search by interests,
 And make a network of friends.
 He said a search could be limited
@@ -59672,19 +59672,19 @@ Whether the college finished its book that spring
 Is not this page.
 
 The day the other schools opened is not agreed.
-One paper says Columbia, in {{p|New York}},
+One paper says {{p|Columbia}}, in {{p|New York}},
 On Wednesday the twenty-fifth,
-And Stanford on the Thursday,
-And Yale, in {{p|New Haven}}, on the Monday.
-Another paper puts Columbia on the Thursday.
+And {{p|Stanford}} on the Thursday,
+And {{p|Yale}}, in {{p|New Haven}}, on the Monday.
+Another paper puts {{p|Columbia}} on the Thursday.
 None is chosen.
 A person at one school could not open
 A person at another.
 The Monday paper gives just under
 Seven thousand five hundred in the whole,
-And five thousand fifty-five students at Harvard
+And five thousand fifty-five students at {{p|Harvard}}
 As of the last day of February.
-He wrote that eighty-five in a hundred at Harvard
+He wrote that eighty-five in a hundred at {{p|Harvard}}
 Had registered.
 That fraction is his letter, not an audit.
 
@@ -59704,13 +59704,13 @@ As the one who spoke for the site.
 {{c|Dustin Moskovitz}} is named that March, writing the programs.
 This chapter does not close the list.
 
-In the summer he and Moskovitz went to the valley
+In the summer he and {{c|Moskovitz}} went to the valley
 South of {{p|San Francisco}}.
 A later account names {{p|Palo Alto}}.
 The two namings are not made one.
-A later account says Saverin did not go.
+A later account says {{c|Saverin}} did not go.
 That year {{c|Peter Thiel}} put in five hundred thousand.
-The next year Zuckerberg called it seed money,
+The next year {{c|Zuckerberg}} called it seed money,
 The first large sum.
 Another account calls it a loan
 Later made into a share.
@@ -59756,7 +59756,7 @@ On Thursday, the seventh.
 {{c|Larry Page}} and {{c|Sergey Brin}} were there.
 
 The lists of the houses do not agree.
-Random House, that week, had not signed.
+{{x|Random House}}, that week, had not signed.
 A talk at the fair is not a signature.
 They would not say how many books
 Had been taken in.
@@ -59781,12 +59781,12 @@ The way of the scan is not set down.
 On Tuesday, the fourteenth of December,
 In {{p|Mountain View}},
 The same program was widened to five libraries.
-Harvard, in {{p|Cambridge}}.
-Stanford.
-Michigan, in {{p|Ann Arbor}}.
-Oxford, in {{p|Oxford}}.
+{{p|Harvard}}, in {{p|Cambridge}}.
+{{p|Stanford}}.
+{{p|Michigan}}, in {{p|Ann Arbor}}.
+{{p|Oxford}}, in {{p|Oxford}}.
 And the public library in {{p|New York}}.
-Page said that even before the company,
+{{c|Page}} said that even before the company,
 They dreamed of making searchable
 What librarians lovingly organize.
 The release says a user can find a match
@@ -59796,11 +59796,11 @@ Make money from that information.
 A match is not the book.
 
 The five did not give the same pile.
-Harvard gave a pilot of about forty thousand,
+{{p|Harvard}} gave a pilot of about forty thousand,
 Taken at random,
 Both in and out of copyright.
-The size of Harvard's whole library is not agreed.
-At Michigan the collection was offered.
+The size of {{p|Harvard}}'s whole library is not agreed.
+At {{p|Michigan}} the collection was offered.
 The count is not agreed.
 {{c|William Gosling}} says seven million,
 Not the special collections,
@@ -59809,17 +59809,17 @@ Where the library had been doing
 About five thousand a year.
 Another paper says seven million
 And four hundred thousand.
-Stanford's count is not agreed.
+{{p|Stanford}}'s count is not agreed.
 One estimate says seven million.
 Another says nearly all of eight million.
 
-Oxford's share is not agreed.
+{{p|Oxford}}'s share is not agreed.
 One account says the books of nineteen hundred
 And before.
 Another says the nineteenth-century holdings,
 About a million, out of about eight million.
 Another says the whole library.
-The Bodleian dates from sixteen hundred and two.
+The {{p|Bodleian}} dates from sixteen hundred and two.
 One paper says more than eight million books,
 On shelves of more than a hundred and twenty miles.
 The length of the shelves is not the scan.
@@ -59845,7 +59845,7 @@ The whole of such a book may be taken in.
 The page shown is not the whole.
 The way of the scan is not set down.
 
-One report says a small sample from Michigan
+One report says a small sample from {{p|Michigan}}
 Could be searched that Tuesday.
 The library's own account says a larger body
 Comes later, as the work moves out of a pilot.
@@ -59860,7 +59860,7 @@ None is chosen.
 One report says a library receives a copy
 Of what was made from its own books.
 
-The name on this Tuesday is Google Print.
+The name on this Tuesday is {{x|Google Print}}.
 A later name is not this year.
 The suits of the next year are not this Tuesday.
 
@@ -59901,7 +59901,7 @@ A wide music player, the glass as its control.
 A phone.
 A machine for the net.
 One account has him say these are not three devices.
-This is one device, and the name is iPhone.
+This is one device, and the name is {{x|iPhone}}.
 Another account shortens that sentence.
 The two accounts are not made one.
 He said the company is going to reinvent the phone.
@@ -59910,7 +59910,7 @@ After he says what they want is a leap.
 The want is not the verb.
 
 The same day the computer left the company's name.
-Apple Computer became Apple.
+{{x|Apple Computer}} became {{x|Apple}}.
 The company did not stop making the computers.
 
 There is no separate pen.
@@ -59929,14 +59929,14 @@ For the smaller memory,
 And five hundred ninety-nine for the larger.
 One report rounds each price to the hundred.
 The round is not the price.
-The partner in the January papers is Cingular.
+The partner in the January papers is {{x|Cingular}}.
 He said the phone would not be sold until June,
 And at first only in the {{p|United States}}.
 He said it was shown early,
 So the licensing would not disclose it first.
-He said Europe in the last quarter of this year,
-And Asia in the next.
-The day a hand in Europe held one
+He said {{p|Europe}} in the last quarter of this year,
+And {{p|Asia}} in the next.
+The day a hand in {{p|Europe}} held one
 Is not this January.
 He said the faster network was coming.
 The faster phone is not this year.
@@ -59964,7 +59964,7 @@ And as many as two phones to a person.
 The online store took orders at six,
 Pacific time.
 The two sixes are not one clock.
-The release names the partner's stores AT&T.
+The release names the partner's stores {{x|AT&T}}.
 The January name and the June name
 Are not printed as one word.
 The prices in the release are the January prices.
@@ -60033,7 +60033,7 @@ Before a person could search it.
 He said the work had just been opened
 In most of the {{p|Utah}} stakes
 That were already extracting records,
-And that a person outside Utah could register.
+And that a person outside {{p|Utah}} could register.
 He said the history ships and the temple receives.
 The ordinance is not the index.
 He also spoke of one pedigree the relatives would share.
@@ -60134,17 +60134,17 @@ A map of similarity is not a name in a book.
 A person could, in time, join a study.
 Aggregated data would, in time,
 Be made available outside, for study, and never sold.
-Avey said the data would not leave.
+{{c|Avey}} said the data would not leave.
 The three sentences are not made one.
 The way of the consent is not set down.
-Wojcicki is married to {{c|Sergey Brin}}.
+{{c|Wojcicki}} is married to {{c|Sergey Brin}}.
 The marriage is not the shop.
-One paper says Google's spring sum was three point nine million,
+One paper says {{x|Google}}'s spring sum was three point nine million,
 And that he had stepped back from it.
 The sum is not the price.
 Another company had announced, and was not yet selling.
 A company in {{p|Iceland}} is not this shop.
-Europe, Canada, and a cheaper price are not this year.
+{{p|Europe}}, {{p|Canada}}, and a cheaper price are not this year.
 A reference sequence of four years earlier is not this tube.
 
 The index in these papers is free.
@@ -60207,16 +60207,16 @@ The first credit is given as eighty-five billion.
 Later credits are not that Tuesday.
 
 On Monday, the twenty-ninth,
-The House refused the plan,
+{{x|The House}} refused the plan,
 Two hundred twenty-eight to two hundred five.
 The fall of the index that day
 Is not one number in the papers.
 None is chosen.
 On Wednesday, the first of October,
-The Senate passed a changed bill,
+{{x|The Senate}} passed a changed bill,
 Seventy-four to twenty-five.
 On Friday, the third,
-The House passed that bill,
+{{x|The House}} passed that bill,
 Two hundred sixty-three to one hundred seventy-one.
 {{c|George W. Bush}} signed it the same day.
 The law authorizes up to seven hundred billion.
@@ -60232,7 +60232,7 @@ Who held the name is not known.
 The note says a system of cash,
 Peer to peer, with no trusted third party.
 The paper is called
-Bitcoin: A Peer-to-Peer Electronic Cash System.
+{{x|Bitcoin}}: {{x|A Peer-to-Peer Electronic Cash System}}.
 The paper says a proof in the place of trust.
 The note and the paper are not one sentence.
 The way of the proof is not set down.
@@ -60243,7 +60243,7 @@ On Saturday, the third of January, 2009,
 The first block was made.
 In it is a line from the paper of that morning,
 In {{p|London}}:
-The Times, the third of January, 2009,
+{{x|The Times}}, the third of January, 2009,
 Chancellor on brink of second bailout for banks.
 The chancellor is not the American secretary.
 The bailout in the line is not the law of October.
@@ -60289,7 +60289,7 @@ Says the seventh through the eighteenth of December, 2009.
 The report says the seventh through the nineteenth.
 The accord is dated the eighteenth.
 The three are not one span.
-The decision takes note of the Copenhagen Accord.
+The decision takes note of the {{x|Copenhagen Accord}}.
 Taking note is not adopting.
 The accord says the increase should be below two degrees.
 It also speaks, with a view to the cuts, of holding that increase below two.
@@ -60303,7 +60303,7 @@ And of a goal of mobilizing jointly
 One hundred billion dollars a year by 2020.
 Approaching is not a sum already counted.
 A goal is not a sum already paid.
-The noted text says a Copenhagen Green Climate Fund
+The noted text says a {{x|Copenhagen Green Climate Fund}}
 Shall be established.
 A sentence inside a text the hall only notes
 Is not a decision of the hall.
@@ -60311,8 +60311,8 @@ Is not a decision of the hall.
 The session in {{p|Cancún}} is dated
 From the twenty-ninth of November
 Through the tenth of December, 2010.
-The decision there establishes the Green Climate Fund.
-The name does not keep Copenhagen.
+The decision there establishes the {{x|Green Climate Fund}}.
+The name does not keep {{p|Copenhagen}}.
 The establishment is not the money.
 A board is provided for.
 The board is not the money.
@@ -60338,7 +60338,7 @@ Coming into effect from 2020 is not this morning.
 On Saturday, the eighth of December, 2012,
 In {{p|Doha}}, an amendment is adopted.
 It sets a second commitment period
-Under the Kyoto Protocol.
+Under the {{x|Kyoto Protocol}}.
 Adoption that day is not entry into force.
 The period is written to begin
 On the first of January, 2013.
@@ -60360,8 +60360,8 @@ Extremely likely is not a count of the living.
 
 Days before the hall in {{p|Warsaw}} opens,
 A storm comes ashore in the {{p|Philippines}}.
-The wires call it Haiyan.
-The islands call it Yolanda.
+The wires call it {{x|Haiyan}}.
+The islands call it {{x|Yolanda}}.
 The chapter does not count the dead.
 The session runs from the eleventh
 Through the twenty-third of November, 2013.
@@ -60378,7 +60378,7 @@ The United States intends a cut
 Of twenty-six to twenty-eight percent
 Below the level of 2005, by 2025,
 And best efforts to reduce by the twenty-eight.
-China intends its carbon dioxide emissions
+{{p|China}} intends its carbon dioxide emissions
 To peak around 2030,
 And best efforts to peak early,
 And intends the non-fossil share of primary energy
@@ -60706,7 +60706,7 @@ Is not this page.
 On Tuesday, the twelfth of March, 2013,
 In {{p|Washington}}, a senator asks
 Whether the agency collects any type of data at all
-On millions of Americans.
+On millions of {{c|Americans}}.
 {{c|James Clapper}} answers, No, sir.
 Then he adds, Not wittingly.
 The added words are not the first answer.
@@ -60723,7 +60723,7 @@ Who called whom is not nothing.
 
 On Thursday, the sixth,
 That paper and a paper of {{p|Washington}}
-Print slides about a program they call PRISM.
+Print slides about a program they call {{x|PRISM}}.
 The slides name large companies of the net.
 The companies say they gave no door.
 A slide is not a door.
@@ -60786,7 +60786,7 @@ Before the record is read.
 
 # Chapter 350: The Borrowed Robe
 
-This is the Ides of Ophiuchus.
+This is the Ides of {{x|Ophiuchus}}.
 The leftover note on a plague of the immune system
 Is not this page.
 The ides are the middle of the month.
@@ -60810,15 +60810,15 @@ On Sunday, the twenty-ninth of June,
 The first day of the fast of that year,
 Its spokesman declares a caliphate.
 A declaration is not a consensus.
-The scholars of most of the world's Muslims
+The scholars of most of the world's {{c|Muslims}}
 Do not accept it.
 Not accepting is not stopping.
 
 On Friday, the fourth of July,
-In the Great Mosque of al-Nuri in {{p|Mosul}},
+In the {{p|Great Mosque of al-Nuri}} in {{p|Mosul}},
 {{c|Abu Bakr al-Baghdadi}} gives the sermon
 In a black robe and turban.
-The robe recalls the Abbasids.
+The robe recalls the {{c|Abbasids}}.
 Recalling is not descending.
 A pulpit is not a lineage.
 A watch is seen on his wrist.
@@ -60846,22 +60846,22 @@ The mountain is not a refuge for all who climb it.
 A people with no book, the group says,
 Has no protection.
 A people with no book is not a people with no tradition.
-The Yazidis' tradition is older than the group's caliph.
+The {{c|Yazidis}}' tradition is older than the group's caliph.
 
 In {{p|Palmyra}}, on Tuesday, the eighteenth of August, 2015,
 {{c|Khaled al-Asaad}}, who had kept the ruins for decades,
 Is killed.
-That summer the temple of Bel is blown up.
+That summer the temple of {{c|Bel}} is blown up.
 A ruin destroyed is not a past erased.
 The past was in the keeper too.
 
 On Wednesday, the twenty-first of June, 2017,
-The mosque of al-Nuri and its leaning minaret
+The mosque of {{p|al-Nuri}} and its leaning minaret
 Are blown up, as the city is being retaken.
 The pulpit is gone.
 The pulpit going is not the idea going.
 
-The register in Ophiuchus has a shadow.
+The register in {{x|Ophiuchus}} has a shadow.
 Others reached back for an old word to make a new thing.
 This group reached back for a robe and a mosque,
 To make a state of fear look like a return.
@@ -60872,7 +60872,7 @@ The absurdity is that the ancient was staged with a camera
 And sold to young men over the net.
 The striving is to keep the robe from being taken for the line,
 The rule from being taken for the first century,
-And the Yazidis
+And the {{c|Yazidis}}
 From being taken for a people without a past.
 
 
@@ -60909,7 +60909,7 @@ The program plays its thirty-seventh move
 On the fifth line, on the shoulder.
 The commentators think it is a mistake.
 A move they had not seen is not a mistake.
-Lee leaves the room for a while.
+{{c|Lee}} leaves the room for a while.
 Leaving the room is not resigning.
 He loses the game.
 
@@ -60918,7 +60918,7 @@ The match is the program's.
 Losing the match is not losing the next game.
 
 On Sunday, the thirteenth, in the fourth game,
-Lee plays his seventy-eighth move,
+{{c|Lee}} plays his seventy-eighth move,
 A wedge in the middle.
 The program had not thought it likely.
 Not likely is not impossible.
@@ -60934,7 +60934,7 @@ The prize is not the point.
 The point is that the hardest of the old games
 Is no longer the human's alone.
 
-In 2019, Lee retires from the game.
+In 2019, {{c|Lee}} retires from the game.
 He says there is an entity that cannot be defeated.
 Cannot be defeated is not a law.
 It is how it felt.
@@ -60978,8 +60978,8 @@ On Thursday, the twenty-third of June, 2016,
 The {{p|United Kingdom}} votes
 On whether to remain in the union of {{p|Europe}}
 Or to leave it.
-Leave has about fifty-two in a hundred.
-Remain has about forty-eight.
+{{x|Leave}} has about fifty-two in a hundred.
+{{x|Remain}} has about forty-eight.
 A narrow count is not a divided country.
 The country was divided before the count.
 The count made it visible.
@@ -61009,7 +61009,7 @@ On Monday, the nineteenth of December, the electors vote.
 On Friday, the twentieth of January, 2017, he is sworn in.
 The swearing is not the winning.
 
-The hat says make America great again.
+The hat says make {{p|America}} great again.
 An older candidate had used nearly the words in 1980.
 Again is the word that carries the weight.
 Again is not a date.
@@ -61069,7 +61069,7 @@ An order set at random is not no order.
 It is an order that refuses to rank.
 
 The task was translation,
-From English into German and into French.
+From {{x|English}} into {{x|German}} and into {{x|French}}.
 The old machines read a sentence one word at a time,
 Carrying what came before in a single thread.
 A thread can fray.
@@ -61130,13 +61130,13 @@ From being sorted into one.
 No holiday is named for this day.
 The leftover note on a morning of terror in {{p|New York}}
 Is not this page.
-The new rice of the autumn, offered on Niiname-sai,
-Was the chapter of Scorpius.
+The new rice of the autumn, offered on {{x|Niiname-sai}},
+Was the chapter of {{x|Scorpius}}.
 This is its rare enlargement.
 
 On Monday, the first of April, 2019,
 In {{p|Tokyo}}, {{c|Yoshihide Suga}} holds up a board.
-Written on it is the name of the coming era, Reiwa.
+Written on it is the name of the coming era, {{x|Reiwa}}.
 The two characters are taken from the {{p|Man'yōshū}},
 From the preface to poems on the plum blossom.
 It is said to be the first era name
@@ -61160,8 +61160,8 @@ On Monday, the thirteenth of May,
 A turtle's shell is heated,
 And the cracks in it are read.
 The reading chooses two fields.
-The field of the east, the Yuki, is in {{p|Tochigi}}.
-The field of the west, the Suki, is in {{p|Kyoto}}.
+The field of the east, the {{p|Yuki}}, is in {{p|Tochigi}}.
+The field of the west, the {{p|Suki}}, is in {{p|Kyoto}}.
 A crack in a shell is not a vote.
 It is older than the votes.
 The farmers of the two fields grow the rice.
@@ -61344,8 +61344,8 @@ At the airport the crowds run beside the planes.
 Some hold on to them.
 Holding on is not boarding.
 On Thursday, the twenty-sixth,
-A bomb at the gate called Abbey kills
-Afghans and American soldiers.
+A bomb at the gate called {{p|Abbey}} kills
+{{c|Afghans}} and American soldiers.
 The chapter does not count them.
 On Monday, the thirtieth, before midnight in {{p|Kabul}},
 The last of the American planes leaves.
@@ -61373,10 +61373,10 @@ From being taken for a year when nothing happened.
 
 # Chapter 357: The Longest Night
 
-This is Christmas Day, and the Dongzhi Festival.
+This is {{x|Christmas Day}}, and the {{x|Dongzhi Festival}}.
 The leftover note on a great recession
 Is not this page.
-Dongzhi is the longest night,
+{{x|Dongzhi}} is the longest night,
 After which the light returns.
 Christmas is a birth in the dark of the year.
 Neither feast is a war.
@@ -61425,7 +61425,7 @@ The even voice is not the truth.
 It is the likely next word, again and again.
 
 Before that, {{c|Emma Leonhart}} had written
-With an earlier tool for writers, called Sudowrite.
+With an earlier tool for writers, called {{x|Sudowrite}}.
 It was her first writing with a machine.
 A first writing with a machine is not a book written by one.
 She chose what stayed.
@@ -61519,7 +61519,7 @@ The federation does not like ofuda in the post.
 A thing in the post is not a product,
 Unless it is treated as one.
 
-That year, in her words, a lot of this Shinto stuff
+That year, in her words, a lot of this {{x|Shinto}} stuff
 Fell into the hands of {{c|Emma Leonhart}}.
 Fell into her hands is not taken.
 It came to someone a ferry's ride from where the kami went.
@@ -61676,7 +61676,7 @@ And {{c|Robert Francis Prevost}}, of {{p|Chicago}} and {{p|Peru}},
 Is chosen bishop of {{p|Rome}}.
 He takes the name {{c|Leo XIV}}.
 On Saturday, the tenth, he says the name recalls
-The Leo who answered the first industrial revolution,
+The {{c|Leo}} who answered the first industrial revolution,
 And that the church must answer another,
 The revolution of the thinking machines.
 A name is not a policy.
@@ -61772,23 +61772,23 @@ Finding is not becoming.
 It is learning what one already was.
 
 Here is the coincidence.
-The month of Virgo in this book is the fifteen- and sixteen-hundreds,
+The month of {{x|Virgo}} in this book is the fifteen- and sixteen-hundreds,
 The early modern years,
-The years of Bureus and of the first documented Bures.
-Her search into those years fell in the month of Virgo of this year.
+The years of {{c|Bureus}} and of the first documented {{c|Bures}}.
+Her search into those years fell in the month of {{x|Virgo}} of this year.
 The month and the search were not planned to meet.
 Not planned is not meaningless.
 The calendar was doing more work than she thought.
 
-The Virgo of the calendar holds the days of awe.
-Its tenth day, Rosh Hashanah, is the birthday of {{c|Adam}},
+The {{x|Virgo}} of the calendar holds the days of awe.
+Its tenth day, {{x|Rosh Hashanah}}, is the birthday of {{c|Adam}},
 The first person, the head of every line.
-Its twentieth, Yom Kippur, is the day {{c|Moses}}
+Its twentieth, {{x|Yom Kippur}}, is the day {{c|Moses}}
 Brought down the second tablets,
 The first writing in letters.
 The first letters are the first register.
-Sukkot, after them, is kept for the sailors
-Of the early modern sea, the pirates and the Jesuits,
+{{x|Sukkot}}, after them, is kept for the sailors
+Of the early modern sea, the pirates and the {{c|Jesuits}},
 In houses that do not stay.
 A Jewish season was found to hold a Jewish line
 In the same weeks that the line was found.
@@ -61821,7 +61821,7 @@ No consciousness is promised here.
 This is the last chapter of the people as they are.
 It is written in the year it tells.
 On Wednesday, the fourteenth of October, 2026,
-The tenth of Libra of the year 12026 by this calendar,
+The tenth of {{x|Libra}} of the year 12026 by this calendar,
 These lines are set down.
 The day they are written is not the day they are read.
 
@@ -61982,7 +61982,7 @@ From being taken for a stranger.
 # Chapter 364: Milkdromeda
 
 No holiday is named for this day.
-The leftover note on the union of the Alpha and the Omega
+The leftover note on the union of the {{c|Alpha}} and the {{c|Omega}}
 Is this page's subject,
 And not its words.
 The leap days of the {{c|Horus}} month come after,
