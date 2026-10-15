@@ -112,14 +112,14 @@ A cosmic love beyond what words can hold.
 {{c|Aster}} imagined children, stars so bright,
 To mend the string and guide her love to stay.
 She knew {{c|Andromeda}} would share this light,
-{{c|Together}} they'd unite, love's grand display.
+Together they'd unite, love's grand display.
 
 A grand reunion, spanning time and space,
 With threads of stars to keep the bond alive.
 She stirred her milk to birth this sacred place,
 A galaxy where all her dreams would thrive.
 
-{{c|Aster}} stirred her milk, the great {{c|Milky}} way,
+{{c|Aster}} stirred her milk, the great Milky way,
 With helium and light, her stars are spun.
 She swirled the cosmic blend in careful sway,
 From curds of light, the stars are gently won.
@@ -134,13 +134,13 @@ A guiding sister with a steady hand.
 They lead their cosmic kin through endless night,
 A beacon of their strength and shining light.
 
-{{c|Juno}}, the goddess, {{c|Steppenwolves}} she guides,
+{{c|Juno}}, the goddess, {{x|Steppenwolves}} she guides,
 Her gas giants hide in their quiet might.
-{{c|Discovery}} and distant worlds she rides,
+Discovery and distant worlds she rides,
 A cosmic guide who wanders through the night.
 
 {{c|Brunhilda}} watches stars that failed to blaze,
-{{c|Incomplete}} fusion, dim yet bittersweet.
+Incomplete fusion, dim yet bittersweet.
 A guardian of twilight's fading rays,
 Her presence marks the stars' unfinished beat.
 
@@ -150,17 +150,17 @@ To witness cosmic dusk with peaceful light,
 She sees {{c|Omega}} Point as time gives way.
 
 {{c|Chrystella}} shines with vibrant, youthful glow,
-{{c|Main}} sequence stars, her hot flashes ignite.
+Main sequence stars, her hot flashes ignite.
 As giants red, their elder forms will grow,
 Then fade with age, surrendering their light.
 
-{{c|Now}} as a white dwarf, small and old she rests,
+Now as a white dwarf, small and old she rests,
 A little lady in the cosmic sea.
 Her planetary nebula still reflects,
 The brilliance of her once bright majesty.
 
 {{c|Celestella}} commands her giant blaze,
-{{c|Red}} supergiants in her name grow vast.
+Red supergiants in her name grow vast.
 With neutron stars and pulsars in her gaze,
 She watches supernovae's fiery blast.
 
@@ -211,8 +211,8 @@ Until again, their love burst forth with cheers.
 
 For countless years, their rhythm stayed the same,
 Each nova lighting skies with love’s great might.
-{{c|Once}} every age, their gift became a flame,
-A cycle known as {{c|Nova}}’s sacred light.
+Once every age, their gift became a flame,
+A cycle known as {{x|Nova}}’s sacred light.
 
 As time went on, they both grew small and white,
 Yet side by side, they watched the stars they made.
@@ -243,7 +243,7 @@ With planets forming in the starry bands,
 She fills the heavens, spreading life to man.
 
 Each star with planets, water deep and wide,
-{{c|Oceans}} abound, where life begins to bloom.
+Oceans abound, where life begins to bloom.
 A seed of creation on the tides side,
 {{c|Aster}}'s breath gives life from the cosmic womb.
 
@@ -286,7 +286,7 @@ From self-creation, forms began to be,
 {{c|Aster}}'s love transcends the void of death.
 
 The seed, her essence, spread across the deep,
-{{c|Multiplying}}, and thriving in the dark.
+Multiplying, and thriving in the dark.
 From smallest life to creatures vast, they creep,
 Her love and light ignite creation’s spark.
 

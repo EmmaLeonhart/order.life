@@ -140,7 +140,7 @@ A guiding sister with a steady hand.
 They lead their cosmic kin through endless night,
 A beacon of their strength and shining light.
 
-Juno, the goddess, Steppenwolves she guides,
+Juno, the goddess, {{x|Steppenwolves}} she guides,
 Her gas giants hide in their quiet might.
 Discovery and distant worlds she rides,
 A cosmic guide who wanders through the night.
@@ -218,7 +218,7 @@ Until again, their love burst forth with cheers.
 For countless years, their rhythm stayed the same,
 Each nova lighting skies with love’s great might.
 Once every age, their gift became a flame,
-A cycle known as Nova’s sacred light.
+A cycle known as {{x|Nova}}’s sacred light.
 
 As time went on, they both grew small and white,
 Yet side by side, they watched the stars they made.
