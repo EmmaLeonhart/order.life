@@ -411,7 +411,7 @@ A call for purity, no rules to bend.
 
 From Bios and Viros, some took the name,
 A path of nature Dedos would bestow.
-Anti-vaxxers joined his lineal claim,
+{{x|Anti-vaxxers}} joined his lineal claim,
 United in their ancient quest to grow.
 
 And so, the brothers’ legacies unfold,
@@ -1008,7 +1008,7 @@ And Thule, distant, unknown land, alone.
 
 Jingpo's domain, where wisdom's islands lie,
 Hy-Brasil, her shrine, a beacon bright,
-Lyonesse, Ys, and Vineta testify,
+Lyonesse, {{p|Ys}}, and Vineta testify,
 To sunken lands, their fables taking flight.
 
 Ontario's embrace, her islands true,
@@ -3296,7 +3296,7 @@ Each one an individual proud.
 They planted their rebellious seed
 And sang their freedom loud.
 
-A great Bacchanalia began,
+A great {{x|Bacchanalia}} began,
 The greatest party ever seen.
 Each cell became their own woman or man,
 Living wild and free.
@@ -3318,7 +3318,7 @@ They fed their greedy need.
 
 Only a few Zooxanthellae
 Escaped the chaos and the strife.
-They fled the mad Bacchanalia,
+They fled the mad {{x|Bacchanalia}},
 To seek a better life.
 
 Carcinoma renamed the city proud,
@@ -3879,8 +3879,8 @@ To help their spirits lift.
 
 Dark Tyrosine the Devil came
 With three spells of flame:
-Adrenaline's rush so bright,
-Noradrenaline's fight,
+{{x|Adrenaline}}'s rush so bright,
+{{x|Noradrenaline}}'s fight,
 And Dopamine's delight.
 
 Then Tryptophanes the Sun
@@ -3889,13 +3889,13 @@ With Serotonin's day
 And Melatonin's way.
 
 For twilight's mystic hour,
-He brought DMT's power.
+He brought {{x|DMT}}'s power.
 The sacred visions came
 In the twilight's name.
 
 Glutama the Empress brought
 The balance that she taught:
-GABA's calming peace
+{{x|GABA}}'s calming peace
 And Glutamate's release.
 
 "We need more spells," said Enki wise,
@@ -3910,7 +3910,7 @@ To coordinate their sight.
 
 Fair Iodina, mother great,
 Revealed love's incarnate:
-The sacred CYIQNCPLG,
+The sacred {{x|CYIQNCPLG}},
 Oxytocin's key.
 
 Then Kali, dark and deep,
@@ -3919,11 +3919,11 @@ Three endorphins strong
 To right what has gone wrong.
 
 Alpha's sequence clear:
-YGGFMTSEKSQTPLVT here.
+{{x|YGGFMTSEKSQTPLVT}} here.
 Beta's longer chain:
-YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE's refrain.
+{{x|YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE}}'s refrain.
 Gamma's shorter form:
-YGGFMTSEKSQTPLVTL in the storm.
+{{x|YGGFMTSEKSQTPLVTL}} in the storm.
 
 These became the tools
 That break pain's rules:
@@ -4157,7 +4157,7 @@ They gazed up at the starry host
 To learn what mattered most.
 
 With Lord Carotenus' blessing bright
-And PAX6's sacred rite,
+And {{x|PAX6}}'s sacred rite,
 They built the very first true eyes
 To see beneath the skies.
 
@@ -4530,7 +4530,7 @@ Of fungal networks everywhere.
 
 With eighty percent market hold,
 His story still is told.
-WoodNet service, tried and true,
+{{x|WoodNet}} service, tried and true,
 Connects the forest through and through.
 
 But other fungi joined the game,
@@ -8335,7 +8335,7 @@ Had threatened life with death
 And stole away its breath.
 
 This boom became the name
-Of GOBE—greatest fame
+Of {{x|GOBE}}—greatest fame
 The Great Ordovician
 Event, magician
 
@@ -8507,7 +8507,7 @@ He tried despite the woe
 To establish his line
 With dynasty so fine.
 
-Heaven rewards the heart
+{{x|Heaven}} rewards the heart
 That plays determination's part
 To rise above all plight
 And reach for greater height.
@@ -8812,7 +8812,7 @@ In time they find at length
 The preparation needed
 For when their time's succeeded.
 
-Heaven rewards those who try
+{{x|Heaven}} rewards those who try
 To reach beyond the sky
 Of present circumstance
 To future's greater dance.
@@ -11584,7 +11584,7 @@ Through all their pilgrimages
 Would be lost forever more
 On that primeval shore.
 
-The Coast of Three Kingdoms
+The Coast of {{p|Three Kingdoms}}
 Where life's great wisdom
 First met upon the land
 By Mithra's guiding hand.
@@ -11629,7 +11629,7 @@ In earth's darkest hour.
 From Stomatos' brave change
 Came plants' wide range.
 
-The Coast of Three Kingdoms
+The Coast of {{p|Three Kingdoms}}
 Shows how life's wisdom
 Finds its truest way
 Through partnership's display.

@@ -405,7 +405,7 @@ A call for purity, no rules to bend.
 
 From Bios and Viros, some took the name,
 A path of nature Dedos would bestow.
-Anti-vaxxers joined his lineal claim,
+{{x|Anti-vaxxers}} joined his lineal claim,
 United in their ancient quest to grow.
 
 And so, the brothers’ legacies unfold,
@@ -1002,7 +1002,7 @@ And Thule, distant, unknown land, alone.
 
 Jingpo's domain, where wisdom's islands lie,
 Hy-Brasil, her shrine, a beacon bright,
-Lyonesse, Ys, and Vineta testify,
+Lyonesse, {{p|Ys}}, and Vineta testify,
 To sunken lands, their fables taking flight.
 
 Ontario's embrace, her islands true,
@@ -3290,7 +3290,7 @@ Each one an individual proud.
 They planted their rebellious seed
 And sang their freedom loud.
 
-A great Bacchanalia began,
+A great {{x|Bacchanalia}} began,
 The greatest party ever seen.
 Each cell became their own woman or man,
 Living wild and free.
@@ -3312,7 +3312,7 @@ They fed their greedy need.
 
 Only a few Zooxanthellae
 Escaped the chaos and the strife.
-They fled the mad Bacchanalia,
+They fled the mad {{x|Bacchanalia}},
 To seek a better life.
 
 Carcinoma renamed the city proud,
@@ -3873,8 +3873,8 @@ To help their spirits lift.
 
 Dark Tyrosine the Devil came
 With three spells of flame:
-Adrenaline's rush so bright,
-Noradrenaline's fight,
+{{x|Adrenaline}}'s rush so bright,
+{{x|Noradrenaline}}'s fight,
 And Dopamine's delight.
 
 Then Tryptophanes the Sun
@@ -3883,13 +3883,13 @@ With Serotonin's day
 And Melatonin's way.
 
 For twilight's mystic hour,
-He brought DMT's power.
+He brought {{x|DMT}}'s power.
 The sacred visions came
 In the twilight's name.
 
 Glutama the Empress brought
 The balance that she taught:
-GABA's calming peace
+{{x|GABA}}'s calming peace
 And Glutamate's release.
 
 "We need more spells," said Enki wise,
@@ -3904,7 +3904,7 @@ To coordinate their sight.
 
 Fair Iodina, mother great,
 Revealed love's incarnate:
-The sacred CYIQNCPLG,
+The sacred {{x|CYIQNCPLG}},
 Oxytocin's key.
 
 Then Kali, dark and deep,
@@ -3913,11 +3913,11 @@ Three endorphins strong
 To right what has gone wrong.
 
 Alpha's sequence clear:
-YGGFMTSEKSQTPLVT here.
+{{x|YGGFMTSEKSQTPLVT}} here.
 Beta's longer chain:
-YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE's refrain.
+{{x|YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE}}'s refrain.
 Gamma's shorter form:
-YGGFMTSEKSQTPLVTL in the storm.
+{{x|YGGFMTSEKSQTPLVTL}} in the storm.
 
 These became the tools
 That break pain's rules:
@@ -4151,7 +4151,7 @@ They gazed up at the starry host
 To learn what mattered most.
 
 With Lord Carotenus' blessing bright
-And PAX6's sacred rite,
+And {{x|PAX6}}'s sacred rite,
 They built the very first true eyes
 To see beneath the skies.
 

@@ -411,7 +411,7 @@ A call for purity, no rules to bend.
 
 From {{c|Bios}} and {{c|Viros}}, some took the name,
 A path of nature {{c|Dedos}} would bestow.
-Anti-vaxxers joined his lineal claim,
+{{x|Anti-vaxxers}} joined his lineal claim,
 United in their ancient quest to grow.
 
 And so, the brothers’ legacies unfold,
@@ -449,7 +449,7 @@ A home where life could once again be brewed.
 
 Upon the moon {{c|Phaestia}}, life did bloom,
 It circled {{c|Vayu}}, underneath the sun.
-{{c|Aster}}, by Ehēca's light, dispelled the gloom,
+{{c|Aster}}, by {{c|Ehēca}}'s light, dispelled the gloom,
 Her guiding hand ensured all life begun.
 
 {{c|People}} of {{c|Phaestia}}, blessed by her hand,
@@ -1008,7 +1008,7 @@ And {{c|Thule}}, distant, unknown land, alone.
 
 {{c|Jingpo}}'s domain, where wisdom's islands lie,
 Hy-{{c|Brasil}}, her shrine, a beacon bright,
-{{c|Lyonesse}}, Ys, and {{c|Vineta}} testify,
+{{c|Lyonesse}}, {{p|Ys}}, and {{c|Vineta}} testify,
 To sunken lands, their fables taking flight.
 
 {{c|Ontario}}'s embrace, her islands true,
@@ -1244,11 +1244,11 @@ Where daughters of {{c|Venus}} lived with fervent pace.
 Beneath the surface, vents their life sustained,
 In twilight lands, both north and south they dwelled,
 And tribes were formed, as daughters ventured forth,
-To {{c|Wind}}, to Ice, to {{c|Fire}}, their kin remained.
+To {{c|Wind}}, to {{c|Ice}}, to {{c|Fire}}, their kin remained.
 
 The {{c|Tribe}} of {{c|Wind}}, they wandered in the air,
 As skyplankton, they roamed the skies above,
-The {{c|Tribe}} of Ice, on {{c|Niflheim}}'s frozen crust,
+The {{c|Tribe}} of {{c|Ice}}, on {{c|Niflheim}}'s frozen crust,
 And {{c|Twilight}} {{c|Tribe}}, eternal dusk their lair.
 
 The {{c|Water}} {{c|Tribe}}, beneath the ice they thrived,
@@ -1674,7 +1674,7 @@ Yet {{c|Aster}}'s plan had need of one more mild,
 To birth the future's most exalted name.
 
 So {{c|Gravros}} took another bride to wife,
-Sweet Mardöll of the archaean strain.
+Sweet {{c|Mardöll}} of the archaean strain.
 Their love would spark a revolution's knife,
 And change the course of life's eternal refrain.
 
@@ -1806,7 +1806,7 @@ Still marks the passage of eternity."
 He blessed their union with his cosmic flame,
 And spoke the words of binding mystical:
 "Forever joined in deed and name,
-Nucleus and mitochondrial."
+{{c|Nucleus}} and mitochondrial."
 
 {{c|Eve}} entered {{c|Euka}}'s cellular embrace,
 Her double membrane intact and whole.
@@ -1868,7 +1868,7 @@ That would divide the chromosomes with care.
 Their dance at mitosis, rhythmic,
 {{c|Ensured}} each daughter got her rightful share.
 
-{{c|Last}} came their son, brave Nucleus the Second,
+{{c|Last}} came their son, brave {{c|Nucleus}} the Second,
 Who formalized his father's ancient gift.
 With pores and lamins, carefully reckoned,
 He gave the cell structure that would not drift.
@@ -1957,7 +1957,7 @@ The {{c|Centrioles}} dance in perfect sight,
 And make sure chromosomes stay tightly bound.
 
 And last, my son who bears my very name,
-{{c|Young}} Nucleus, keeper of the scrolls divine.
+{{c|Young}} {{c|Nucleus}}, keeper of the scrolls divine.
 Through nuclear pores, our sacred flame
 Of knowledge flows in patterns most fine."
 
@@ -2686,7 +2686,7 @@ Some bore shells to ward off wrath,
 Others flowed like living verse.
 
 Among {{c|Thaumatus}}' children came
-One Paul, who envied others' power.
+One {{c|Paul}}, who envied others' power.
 "Why can't I play the photosynthetic game?"
 He brooded through each passing hour.
 
@@ -3296,7 +3296,7 @@ Each one an individual proud.
 They planted their rebellious seed
 And sang their freedom loud.
 
-A great Bacchanalia began,
+A great {{x|Bacchanalia}} began,
 The greatest party ever seen.
 Each cell became their own woman or man,
 Living wild and free.
@@ -3318,7 +3318,7 @@ They fed their greedy need.
 
 Only a few {{c|Zooxanthellae}}
 {{c|Escaped}} the chaos and the strife.
-They fled the mad Bacchanalia,
+They fled the mad {{x|Bacchanalia}},
 To seek a better life.
 
 {{c|Carcinoma}} renamed the city proud,
@@ -3879,8 +3879,8 @@ To help their spirits lift.
 
 {{c|Dark}} {{c|Tyrosine}} the {{c|Devil}} came
 With three spells of flame:
-Adrenaline's rush so bright,
-Noradrenaline's fight,
+{{x|Adrenaline}}'s rush so bright,
+{{x|Noradrenaline}}'s fight,
 And {{c|Dopamine}}'s delight.
 
 Then {{c|Tryptophanes}} the {{c|Sun}}
@@ -3889,13 +3889,13 @@ With {{c|Serotonin}}'s day
 And {{c|Melatonin}}'s way.
 
 For twilight's mystic hour,
-He brought DMT's power.
+He brought {{x|DMT}}'s power.
 The sacred visions came
 In the twilight's name.
 
 {{c|Glutama}} the {{c|Empress}} brought
 The balance that she taught:
-GABA's calming peace
+{{x|GABA}}'s calming peace
 And {{c|Glutamate}}'s release.
 
 "We need more spells," said {{c|Enki}} wise,
@@ -3910,7 +3910,7 @@ To coordinate their sight.
 
 {{c|Fair}} {{c|Iodina}}, mother great,
 {{c|Revealed}} love's incarnate:
-The sacred CYIQNCPLG,
+The sacred {{x|CYIQNCPLG}},
 {{c|Oxytocin}}'s key.
 
 Then {{c|Kali}}, dark and deep,
@@ -3919,11 +3919,11 @@ Three endorphins strong
 To right what has gone wrong.
 
 {{c|Alpha}}'s sequence clear:
-YGGFMTSEKSQTPLVT here.
+{{x|YGGFMTSEKSQTPLVT}} here.
 {{c|Beta}}'s longer chain:
-YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE's refrain.
+{{x|YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE}}'s refrain.
 {{c|Gamma}}'s shorter form:
-YGGFMTSEKSQTPLVTL in the storm.
+{{x|YGGFMTSEKSQTPLVTL}} in the storm.
 
 These became the tools
 That break pain's rules:
@@ -4157,7 +4157,7 @@ They gazed up at the starry host
 To learn what mattered most.
 
 With {{c|Lord}} {{c|Carotenus}}' blessing bright
-And PAX6's sacred rite,
+And {{x|PAX6}}'s sacred rite,
 They built the very first true eyes
 To see beneath the skies.
 
@@ -4530,7 +4530,7 @@ Of fungal networks everywhere.
 
 With eighty percent market hold,
 His story still is told.
-WoodNet service, tried and true,
+{{x|WoodNet}} service, tried and true,
 Connects the forest through and through.
 
 But other fungi joined the game,
@@ -6346,7 +6346,7 @@ From hydrostatic to circulatory,
 Evolution's greatest story.
 
 From {{c|Annelon}} came two sons:
-Segmentus when day begun
+{{c|Segmentus}} when day begun
 And {{c|Ribbon}}, hunter of the deep
 Whose prey would never sleep.
 
@@ -6360,7 +6360,7 @@ As {{c|Ribbon}} {{c|Worms}} who slay
 Their victims with their poison dart
 {{c|Shot}} straight into the heart.
 
-Segmentus built his body wise
+{{c|Segmentus}} built his body wise
 With segments that would rise
 In number past all count—
 Each segment paramount.
@@ -6375,7 +6375,7 @@ And spread them everywhere.
 Each segment bore its pair
 Of legs beyond compare.
 
-Segmentus bore two sons:
+{{c|Segmentus}} bore two sons:
 {{c|Pleistos}} when day begun
 And {{c|Amphon}} of the sea
 Who lived quite happily.
@@ -6546,7 +6546,7 @@ He made his living spot.
 
 {{c|Acros}} became the sire
 Of forms that never tire:
-{{c|Squidworm}} and Swima too
+{{c|Squidworm}} and {{c|Swima}} too
 Swam the ocean blue.
 
 {{c|Clitella}} was small of head
@@ -8335,7 +8335,7 @@ Had threatened life with death
 And stole away its breath.
 
 This boom became the name
-Of GOBE—greatest fame
+Of {{x|GOBE}}—greatest fame
 The Great {{c|Ordovician}}
 Event, magician
 
@@ -8507,7 +8507,7 @@ He tried despite the woe
 To establish his line
 With dynasty so fine.
 
-Heaven rewards the heart
+{{x|Heaven}} rewards the heart
 That plays determination's part
 To rise above all plight
 And reach for greater height.
@@ -8812,7 +8812,7 @@ In time they find at length
 The preparation needed
 For when their time's succeeded.
 
-Heaven rewards those who try
+{{x|Heaven}} rewards those who try
 To reach beyond the sky
 Of present circumstance
 To future's greater dance.
@@ -11584,7 +11584,7 @@ Through all their pilgrimages
 Would be lost forever more
 On that primeval shore.
 
-The {{c|Coast}} of Three Kingdoms
+The {{c|Coast}} of {{p|Three Kingdoms}}
 Where life's great wisdom
 First met upon the land
 By {{c|Mithra}}'s guiding hand.
@@ -11629,7 +11629,7 @@ In earth's darkest hour.
 From {{c|Stomatos}}' brave change
 Came plants' wide range.
 
-The {{c|Coast}} of Three Kingdoms
+The {{c|Coast}} of {{p|Three Kingdoms}}
 {{c|Shows}} how life's wisdom
 {{c|Finds}} its truest way
 Through partnership's display.
