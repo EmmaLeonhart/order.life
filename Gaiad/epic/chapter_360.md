@@ -55,7 +55,7 @@ A loop that writes and corrects and writes
 Is not a loop that knows when it is wrong.
 It needs someone at the end who reads.
 
-This book was written in that year with such machines.
+This book was begun in that year with such machines.
 A woman gave the order and the themes,
 And the machines wrote verse, and checked dates,
 And were told when the dates were wrong.
@@ -75,6 +75,13 @@ A miserable year is not a lost year.
 The book kept being made in it.
 Kept being made is not proof that it was well.
 It is proof that she was still there to make it.
+
+That year she also entered the shrines of the {{x|Engishiki}}
+Into {{x|Wikidata}}, province by province,
+The court's old register made a register a machine can read.
+A list kept by a court is not a list kept by no one.
+It is a list that outlived its court,
+Waiting for someone to keep it again.
 
 The absurdity is that the hands given to the machines
 Came in the year a person could hardly lift her own.

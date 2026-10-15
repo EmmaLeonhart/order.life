@@ -70,9 +70,10 @@ Yanked away is not never held.
 What was held for a time
 Showed that it could be held.
 That is not nothing.
-The land and the shrine and the map
+The shrines she had written into the encyclopedias
 Had been in her hands,
-And the hands were not the only hands.
+And the French one closed to her as the English had.
+The hands were not the only hands.
 
 The register asks who holds the record.
 Once the priests, then the clerks, then the states,

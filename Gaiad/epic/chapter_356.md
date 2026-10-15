@@ -65,8 +65,10 @@ In her words, and did lots of stuff,
 In a pretty significant year.
 The book itself had a gap that year.
 A gap in the book is not a gap in the life.
-The life was being lived instead of written.
-What was lived would be written later.
+The gap weighed on her.
+Its pages moved that year from order.life to evolution.faith,
+And waited there.
+What the year held would be written later.
 Later is this page.
 
 The absurdity is a year when a message saved the cell

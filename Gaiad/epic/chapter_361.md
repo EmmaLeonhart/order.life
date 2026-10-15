@@ -16,6 +16,13 @@ Every change to the book is dated.
 A date on a change is not the reason for it.
 The reasons are in the chats.
 
+In May a paper of hers was posted, the Sutra paper,
+Her own work, with no school behind it.
+A paper posted is not a paper accepted.
+It is a paper that exists.
+In June she moved to {{p|Vancouver}}.
+A move is not an arrival.
+
 She turns to her ancestors.
 The lines go back through the clerks of the churches,
 Through the rolls of the taxed farmers,
@@ -44,9 +51,9 @@ It is a better documented line.
 The princes were written down because they were princes.
 The farmers were written down because they paid.
 
-In one line she finds Jewish ancestors.
-Finding is not becoming.
-It is learning what one already was.
+Some of her lines hold Jewish ancestors.
+Having is not becoming.
+It is knowing what one already was.
 
 Here is the coincidence.
 The month of {{x|Virgo}} in this book is the fifteen- and sixteen-hundreds,
@@ -67,8 +74,8 @@ The first letters are the first register.
 {{x|Sukkot}}, after them, is kept for the sailors
 Of the early modern sea, the pirates and the {{c|Jesuits}},
 In houses that do not stay.
-A Jewish season was found to hold a Jewish line
-In the same weeks that the line was found.
+The days of awe fell in the weeks
+Of her search for the men of {{p|Bure}}.
 That is the coincidence the year recorded.
 A coincidence recorded is not a sign proved.
 It is a thing that happened, written down on the day.

@@ -52,11 +52,16 @@ The even voice is not the truth.
 It is the likely next word, again and again.
 
 Before that, {{c|Emma Leonhart}} had written
-With an earlier tool for writers, called {{x|Sudowrite}}.
+With an earlier tool for writers, called {{x|Sudowrite}},
+Stories set in the world of this book.
 It was her first writing with a machine.
 A first writing with a machine is not a book written by one.
 She chose what stayed.
 Choosing what stays is the writing.
+Within the month she was one of the million,
+Asking the new chat to make plain the pages of her faith.
+Being one of the million is not understanding it.
+She said so later herself.
 
 On Sunday, the twenty-fifth of December, 2022,
 Many in {{p|Ukraine}} keep Christmas on that day,

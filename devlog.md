@@ -8200,3 +8200,13 @@ Saturday and Sunday open as the first, second and third Sabbaths with their lett
 East Asian names, not as each day's quality; the two contradictory Thing claims replaced (Dienstag from Mars
 Thingsus; Thursday belongs to Thor as Jupiter's representative); the garbled Saturday and Sunday language lines
 rewritten. The stems stay pinned; Thor stays on Thursday.
+
+2026-10-15 02:41 PST: Ophiuchus ch 355-361, the Emma stanzas reworked against her records (the parent repo's
+`research/ophiuchus-vs-records.md`). Only details her records contradict were changed, and only facts already
+public were added: 355 "numbering" the days becomes "giving them verses"; 356 drops the invented "the life was
+being lived instead of written" for "the gap weighed on her" and the move to evolution.faith; 357 says what the
+Sudowrite writing was and that she used ChatGPT within the month; 358 drops "a ferry's ride" (she lived in the
+Okanagan in 2023) for the Japan trip and her shrine translations; 359 drops the invented land, shrine and map for
+her shrine pages and the French Wikipedia block; 360 "begun" with machines, plus the Engishiki shrine register on
+Wikidata; 361 cuts the unsupported "Jewish season" coincidence for the Bure one she recorded, and adds the Sutra
+paper and the move to Vancouver. Nothing private was added.

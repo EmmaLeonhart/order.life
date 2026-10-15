@@ -62,7 +62,7 @@ About the sixtieth is not the end.
 A weekly verse is not a calendar yet.
 It was the beginning of one.
 When the days lost their names,
-She was numbering them.
+She was giving them verses.
 
 This book is that book.
 The book does not make that year its own.

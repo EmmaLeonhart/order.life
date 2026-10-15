@@ -66,7 +66,10 @@ Unless it is treated as one.
 That year, in her words, a lot of this {{x|Shinto}} stuff
 Fell into the hands of {{c|Emma Leonhart}}.
 Fell into her hands is not taken.
-It came to someone a ferry's ride from where the kami went.
+It came by a journey to {{p|Japan}},
+And by the shrines she carried into English,
+Thousands of pages the encyclopedia would not keep.
+Not kept is not not written.
 What falls into one's hands asks to be held.
 Held is not owned.
 
