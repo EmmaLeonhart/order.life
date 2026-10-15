@@ -443,12 +443,6 @@ apply anything from these; do not extend them.**
 The splice stays. `adnan_merge_proposed.md` is updated; M5–M12 and the "Banu Adnan is
 filler" verdict are withdrawn.
 
-- `wikibase/analysis/epic_vs_dump.md`: **rows decided 2026-10-15** (see "Decided 2026-10-15" in the
-   report; Claude's calls on Emma's instruction to decide stuck items, hers to overrule). Ch 190's
-   "great-grandmother" fixed to "grandmother"; rows 2, 4, 5, 6, 8 stay as they are. **Left: row 7,**
-   merge M1 (Ishmael Q85869 into Q129307) and M2 (Qedar Q86435 into Q129387) with `merge_cluster.py`,
-   dropping Q85869's Sarah mother edge. BLOCKED-ON-USER-ACTION: Claude Code's permission check
-   refused to run the tool, even as a dry run; Emma allows it or says no.
 - ~~`wikibase/analysis/patriarch_overlay.md`~~ — **DECIDED 2026-07-31 by Emma: deliberate
    euhemerism. "the mesopotamian ones is completely intentional euhemerism".** The nine
    records keep their Mesopotamian royal labels; the fix is *none*. **The relabel proposal
