@@ -42,7 +42,7 @@
 >
 > **Keep reading the banner anyway** — every warning in it is about *method*, and the
 > method is why the last one took eight days to actually land. The 2026-08-07 Lepidus cut
-> reported "Verified" and removed nothing; see item 1. Point 4 below ("I never once looked
+> reported "Verified" and removed nothing; see the Lepidus unmerge. Point 4 below ("I never once looked
 > a person up on Wikidata") is the one that closed most of these.
 >
 > *Superseded, kept for the shape of the climb: at end of 2026-08-02 this read 8 tangles,
@@ -52,14 +52,14 @@
 > that was comparing the wrong string. **None of them needed a ruling from Emma.***
 >
 > **2026-08-05 — FOUR OF THOSE RULINGS NOW EXIST. Emma was simply asked, in one round,
-> and answered all four.** Items 1, 2, 3 and 16 are no longer open questions:
+> and answered all four.** The Lepidus unmerge, the Roman Republic, the Daksha rebirth and the phantom one-sided edges are no longer open questions:
 >
 > | item | ruling |
 > |---|---|
-> | 3 — Daksha rebirth | **SPLIT into two records** (both copies) — dissolves tangles 2 and 4, **28 records** |
-> | 2 — Roman Republic | **Attach `Q73308` to all three** of Aeneas, Iulus, Romulus — **103 records** regain Aster |
-> | 16 — phantom one-sided edges | **ADD the missing side, always** — **1,050 edges**, provably graph-neutral |
-> | 1 — the Lepidus unmerge | **Emma is researching it herself.** Hands off; do not ask again |
+> | Daksha rebirth | **SPLIT into two records** (both copies) — dissolves tangles 2 and 4, **28 records** |
+> | Roman Republic | **Attach `Q73308` to all three** of Aeneas, Iulus, Romulus — **103 records** regain Aster |
+> | phantom one-sided edges | **ADD the missing side, always** — **1,050 edges**, provably graph-neutral |
+> | the Lepidus unmerge | **Emma is researching it herself.** Hands off; do not ask again |
 >
 > **The lesson, and it is the one that matters for how this file is worked:** these had
 > been sitting as "BLOCKED / NEEDS EMMA" for days. Nobody had asked her. Every one of the
@@ -289,7 +289,7 @@ central command.
 ### CLOSED REPAIRS LIVE IN `wikibase/analysis/closed_repairs.md` — read it before
 re-opening anything
 
-Items 2, 3, 9, 10, 11 and 12 were finished and are **deleted from this file**, per
+The Roman Republic, the Daksha rebirth, Joan ferch Ieuan, D. Ausindo Ximeno, Gaius Servilius and Esther bat Sahlan were finished and are **deleted from this file**, per
 delete-don't-check. Their reasoning is not lost: `closed_repairs.md` carries the Licinii
 Vari closure and its withdrawn finding, the four rings settled by external evidence on
 2026-08-07 (Joan/Lleucu, the Portuguese ring, the eight Servilii, the two Esthers), and
@@ -313,21 +313,21 @@ Two rules from that file worth carrying here:
 now about lines attached through the *wrong story* rather than lines that loop, and
 `narrative_spine.md` is explicit that the second kind is worse: a severed line is one
 honest edge from correct, a wrongly-attached one is already wrong while measuring fine.
-Item 2 (`Q73308`) is exactly that kind and is unaffected by any of this.
+The Roman Republic (`Q73308`) is exactly that kind and is unaffected by any of this.
 
 The table below is kept as the record of how each was closed. Re-read the live numbers
 from `check_invariants.py`, never from this file.
 
-| # | tangle | records | item | what it waits on |
-|---:|---|---:|---:|---|
-| 1 | Mamercus Aemilius Lepidus Livianus | 15 | 1 | **RING ACTUALLY CUT 2026-08-15.** The 2026-08-07 cut reported success and removed nothing — see below. Couples B and C are in `todo.md` |
-| 2 | Prachetas (10 sons) | 14 | 3 | **DONE 2026-08-07 — Sunitha's father, `apply_sunita_mrityu.py`. Not the Daksha split.** |
-| 3 | D. Ausindo Ximeno | 14 | 10 | **DONE 2026-08-07 - Tereza Eriz belongs to Ero of Lugo, `apply_tereza_eriz.py`** |
-| 4 | Aditi Kashyapa | 14 | 3 | **DONE 2026-08-07 — same repair, second copy** |
-| 5 | Gaius Servilius | 8 | 11 | **DONE 2026-08-07 - dated by the two exits, `apply_servilii_chain.py`** |
-| 6 | Joan ferch Ieuan ap Rhys | 7 | 9 | **DONE 2026-08-07 — Rhys Gryg d. 1234 dates it, `apply_lleucu_generation.py`** |
-| 7 | Sekhemre Sankhtawy Neferhotep III | 6 | 8 | **DONE 2026-08-07 — Queen Mentuhotep is a wife, `apply_mentuhotep_queen.py`** |
-| 8 | Esther bat Sahlan ben Abraham | 2 | 12 | **DONE 2026-08-07 — the 1037 ketubba, `apply_esther_generation.py`** |
+| # | tangle | records | queue item | what it waits on |
+|---:|---|---:|---|---|
+| 1 | Mamercus Aemilius Lepidus Livianus | 15 | the Lepidus unmerge | **RING ACTUALLY CUT 2026-08-15.** The 2026-08-07 cut reported success and removed nothing — see below. Couples B and C are in `todo.md` |
+| 2 | Prachetas (10 sons) | 14 | Daksha rebirth | **DONE 2026-08-07 — Sunitha's father, `apply_sunita_mrityu.py`. Not the Daksha split.** |
+| 3 | D. Ausindo Ximeno | 14 | Ausindo Ximeno | **DONE 2026-08-07 - Tereza Eriz belongs to Ero of Lugo, `apply_tereza_eriz.py`** |
+| 4 | Aditi Kashyapa | 14 | Daksha rebirth | **DONE 2026-08-07 — same repair, second copy** |
+| 5 | Gaius Servilius | 8 | Gaius Servilius | **DONE 2026-08-07 - dated by the two exits, `apply_servilii_chain.py`** |
+| 6 | Joan ferch Ieuan ap Rhys | 7 | Joan ferch Ieuan | **DONE 2026-08-07 — Rhys Gryg d. 1234 dates it, `apply_lleucu_generation.py`** |
+| 7 | Sekhemre Sankhtawy Neferhotep III | 6 | Neferhotep III | **DONE 2026-08-07 — Queen Mentuhotep is a wife, `apply_mentuhotep_queen.py`** |
+| 8 | Esther bat Sahlan ben Abraham | 2 | Esther bat Sahlan | **DONE 2026-08-07 — the 1037 ketubba, `apply_esther_generation.py`** |
 
 **Tangles 1, 2 and 4 were applied on 2026-08-07** — Emma: *"Apply them lol."* Three of the
 eight are off the table; the remaining five all want an external stemma, which is research
@@ -358,18 +358,18 @@ re-proposing it.** Splitting Daksha did open both rings, and it was the wrong re
 ring alone, and wrong. Opening a loop is not evidence of having found its defect. If the
 only way to open it is to move something that belongs where it is, the defect is elsewhere.
 
-**One narrower trap worth keeping.** Item 3 said `Q153390` carries two fathers, `Q49634`
+**One narrower trap worth keeping.** The Daksha rebirth item said `Q153390` carries two fathers, `Q49634`
 (first birth) and `Q1955` (rebirth). **`Q49634.json` is a shadow file whose own `id` is
 `Q1955`** — byte-identical, and `redirects.tsv` maps one to the other. The "two fathers"
 were one man referenced twice, once directly and once through a redirect qid. **Check
 whether a second father is a redirect before reading it as a second parentage.**
 
 **THIS TABLE'S "WAITING ON A RULING" FRAMING IS OUT OF DATE AS OF 2026-08-05.** Four
-rulings were obtained from Emma directly, in one round, by asking her (items 1, 2, 3, 16).
-Tangles 2 and 4 are ruled and executable; item 2's Roman reattachment is ruled and
-executable; item 16's phantom class is ruled and executable; tangle 1 is Emma's own
+rulings were obtained from Emma directly, in one round, by asking her (the Lepidus unmerge, the Roman Republic, the Daksha rebirth, the phantom one-sided edges).
+Tangles 2 and 4 are ruled and executable; the Roman Republic's reattachment is ruled and
+executable; the phantom one-sided edges' class is ruled and executable; tangle 1 is Emma's own
 research and is hands-off. What is genuinely still waiting is only what needs an
-**external stemma** — tangles 3, 5, 6, 7 (items 10, 11, 9, 8) — and tangle 8 (item 12).
+**external stemma** — tangles 3, 5, 6, 7 (Ausindo Ximeno, Gaius Servilius, Joan ferch Ieuan, Neferhotep III) — and tangle 8 (Esther bat Sahlan).
 **Do not report this repo as blocked, and when something really does need Emma, ask her
 with AskUserQuestion instead of parking it here.**
 
@@ -400,7 +400,7 @@ Her request: queue items "for reworking the Gaian calendar and the Gaiad to make
 
 Items, in order:
 
-7. **The modern chapters, one item each, in order (Emma, 2026-10-12 15:55: "each chapter is individually
+- **The modern chapters, one item each, in order (Emma, 2026-10-12 15:55: "each chapter is individually
    there in order so that they just get made ... reliably, not half-assed").** Themes are from the
    approved `planning/gaiad-253-364/day-themes-draft.md`. Each one is written, not drafted (Emma,
    15:56: "it's not supposed to be drafted. You're supposed to literally write each one of them in
@@ -409,7 +409,7 @@ Items, in order:
    first; real verse (no length limit; rhyme matters), modern placenames;
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
    its line here when done. Ch 253-364 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note).
-9. **After every chapter is written: a systematic review of the whole Gaiad, in chronological order
+- **After every chapter is written: a systematic review of the whole Gaiad, in chronological order
    (Emma, 2026-10-12 15:56).** Her words: "a systematic review of all of the chapters in chronological
    order ... to review the degree that they satisfy all of the criteria that order.life is supposed
    to have." Ch 1 to 364 in order, one chapter at a time, each checked against every criterion: the
@@ -454,7 +454,7 @@ apply anything from these; do not extend them.**
 The splice stays. `adnan_merge_proposed.md` is updated; M5–M12 and the "Banu Adnan is
 filler" verdict are withdrawn.
 
-2. `wikibase/analysis/epic_vs_dump.md` — eight rows in "which side moves".
+- `wikibase/analysis/epic_vs_dump.md` — eight rows in "which side moves".
    **Chapter 181's "bore him ten sons": DECIDED 2026-07-31 — the DATA moves, not the prose.**
    Emma: *"Uhh yeah the ten sons exist"*. The chapter stands; the nine missing sons get
    recorded in the dump. **Do not rewrite the chapter.** Note the naming problem is real and
@@ -462,14 +462,14 @@ filler" verdict are withdrawn.
    creating anything, go and find whether Garakguk-gi actually names them. **If the sources
    name them, record those names; if they do not, that is a second question for Emma, not a
    licence to invent.**
-   Row 1 of the eight (the Noah relabel) is **withdrawn** — see item 3.
+   Row 1 of the eight (the Noah relabel) is **withdrawn** — see the patriarch overlay below.
    The other six rows are still unanswered.
    **Research note, 2026-10-11 (checked the same day against Korean Wikipedia citing the *Samguk yusa*):** the
    *Garakguk-gi* (in *Samguk yusa*) names only the eldest son, Geodeung, who succeeded Suro; two
    sons took their mother's surname Heo; the seven who became monks are named in later Chilbulsa
    legend, not in the *Garakguk-gi*. If that holds, the nine sons are unnamed in the source, and
    naming them is the second question for Emma, not to be invented.
-3. ~~`wikibase/analysis/patriarch_overlay.md`~~ — **DECIDED 2026-07-31 by Emma: deliberate
+- ~~`wikibase/analysis/patriarch_overlay.md`~~ — **DECIDED 2026-07-31 by Emma: deliberate
    euhemerism. "the mesopotamian ones is completely intentional euhemerism".** The nine
    records keep their Mesopotamian royal labels; the fix is *none*. **The relabel proposal
    is dead — do not execute it, and do not re-open this.** It should never have been listed
@@ -477,7 +477,7 @@ filler" verdict are withdrawn.
    this queue kept asking anyway. Emma had recorded the decision repeatedly. Details in
    `patriarch_overlay.md`. Still open and unaffected: the position-only rows (`Naram-Ilum`,
    `Shu-Sin`) and the `Kanʿān` generation error, which are structural, not naming.
-4. ~~`wikibase/analysis/adnan_merge_proposed.md` — M3~~ — **DONE 2026-07-31.** Emma:
+- ~~`wikibase/analysis/adnan_merge_proposed.md` — M3~~ — **DONE 2026-07-31.** Emma:
    *"You merge them lol"*. All three Adnan records merged into `Q65555` (cluster `adnan`).
    Every gate green, including `compare_tangles` for the first time this session — the
    Adnan records were not in a tangle, so nothing moved. **Zero records lost depth and 654
@@ -491,7 +491,7 @@ filler" verdict are withdrawn.
    itself flags; and the survivor's **label is still `'Adnaan Bin Imaam 'Udd`** while the
    record now carries wd `Q22338875` whose name is simply *Adnan*. Relabelling is Emma's
    per the `Tros` precedent — flagged, not done.
-6. ~~Naming the primordial half of `Q74698` Tros~~ — **ANSWERED 2026-07-31 by the dump
+- ~~Naming the primordial half of `Q74698` Tros~~ — **ANSWERED 2026-07-31 by the dump
    itself, not by Emma.** She asked "What? Explain better", and the better explanation is
    that **there is nothing left to name**: the unmerge was already carried out. `Q74698` is
    labelled **Uranus** (aliases *Uranus / Caelus / Ouranos*), its parents are **Aether and
@@ -519,12 +519,12 @@ chapter generation (253–328, 330–364) is open. Do not re-add it here.)_
 
 ## PINNED TAIL (always last — keep at bottom on every re-fill)
 
-- **T1. Ensure the three work-loop crons are running** — work-loop (`3 * * * *`),
+- **Ensure the three work-loop crons are running** — work-loop (`3 * * * *`),
   auto-flush (`15 * * * *`), status-report (`42 * * * *`). Restart any that a
   planning burst / queue re-fill killed; start them if this session never did.
   (Schedules corrected 2026-07-30 to match the `autonomous-loop` skill and what is
   actually running; the half-hourly figures this line used to give were never the
   skill's cadence. Crons are session-local — they die with the session, so a fresh
   session always creates them.)
-- **T2. Run the status-report action once more, independently** — end-of-session
+- **Run the status-report action once more, independently** — end-of-session
   summary of everything that happened this session.

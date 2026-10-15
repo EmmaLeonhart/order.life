@@ -55,8 +55,8 @@ removed again (`7dcb10881`). The tag changes recorded in rows 1-6 no longer appl
 **Titles of ch 4-20 (noted 2026-10-14 18:20).** They come from `COMPREHENSIVE_CHAPTER_PLAN.md` (2025-09-07), a
 plan of the cosmos in order (stars, heavy elements, the solar nebula, the Moon's birth), and the verse went its
 own way (Hesper, Phaestia, Serenitide, the three brothers), so most of these titles name what the chapter does
-not tell. For Emma: retitle from the verse, or keep the plan's titles. Left as they are until she says. Queue
-item 25 (the chapters and their histories) covers the same split.
+not tell. For Emma: retitle from the verse, or keep the plan's titles. Left as they are until she says. The queue
+item on the chapters and their histories covers the same split.
 
 Tags are not touched in the review (manual-of-style corrections above).
 

@@ -28,8 +28,8 @@ Stagger the minutes so the three ticks don't collide:
 - **(b) On a mid-session large-scale queue RE-FILL** (a planning burst that repopulates the queue), the FIRST item of that fill **kills the running crons**, then the work items follow top to bottom, and the pinned tail restarts them.
 - **(c) Entering planning mode DISABLES the crons.** Their restart therefore lives at the **end** of the queue, not the beginning of the next burst.
 - **(d) The LAST TWO queue items, always kept pinned at the tail, are:**
-  1. **Ensure the three crons are running** — start them if this session never did, restart them if a planning burst / queue re-fill killed them.
-  2. **Run the status-report action once more, independently** — an end-of-session summary of everything that happened this session.
+  - **Ensure the three crons are running** — start them if this session never did, restart them if a planning burst / queue re-fill killed them.
+  - **Run the status-report action once more, independently** — an end-of-session summary of everything that happened this session.
 
 In short: a fresh session **starts** the crons up front and the tail **ensures they are still running** + summarizes; a mid-session re-fill **kills** them up front and the tail **restarts** them + summarizes. Either way the queue both opens and closes on the cron set.
 

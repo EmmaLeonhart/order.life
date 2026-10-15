@@ -7,7 +7,7 @@
 `wiki-scripts/detect_collisions.py` (Wikidata birth years for all 60,040 ids, cached in `wd_birth_cache.json`) wrote `collision_candidates.tsv`: 851 COLLISION? and 1,985 EDGE? rows. The unambiguous ones are done (35 records restored or stripped: devlog 2026-10-10/11). What is left is mostly imprecise ancient dates, with some real collisions and false edges among them. Work it per row: identify a collided record from its relatives on Wikidata (`fix_collided_identity.py`), cut a false edge with `compare_depth` first. Do not touch the deliberate Genesis 11 / Mesopotamian joins (Ishme-Dagan = Arpachshad, Naram-Ilum = Salah, and the like). Two records were left NN on purpose: the father of "Lucius Cornelius Sulla" `Q139729` and the child of Marius the Younger `Q141603`.
 ---
 
-## 👥 Two-father records and the DEDUPE backlog (moved from queue item 13, 2026-10-10)
+## 👥 Two-father records and the DEDUPE backlog (moved from the queue, 2026-10-10)
 
 **Standing rule, Emma 2026-08-05:** two biological fathers is an error; adoptive + biological is
 legitimate (keep both, mark which is which); a divine father beside a human one is a blessing, not

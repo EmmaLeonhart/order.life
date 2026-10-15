@@ -12,9 +12,9 @@ Written: **349 / 364**. Remaining gaps: none.
 
 ## Queued work
 
-1. **Fix the early human-era chapters first.** The 130–205 block was power-through quality — real chapters but first-pass. Emma has said to prioritize fixing earlier chapters because they ship through the Discord stream first. Start at 130 and work forward; don't wait on a full editing pass. The register should match the register set by 1–129 (verse, not declarative).
+- **Fix the early human-era chapters first.** The 130–205 block was power-through quality — real chapters but first-pass. Emma has said to prioritize fixing earlier chapters because they ship through the Discord stream first. Start at 130 and work forward; don't wait on a full editing pass. The register should match the register set by 1–129 (verse, not declarative).
 
-2. **Genealogical analysis follow-up.** The Wikibase dump completed 2026-04-16 — 164k items, 4,840 wiki pages, 377 images. Centrality passed (Charlemagne, Bustanai, Jesus, Muhammad all load-bearing). Open: 1,230 children-with->2-parents (Geni merge errors, mostly Iberian royals), 69 cycles that should be zero, fan-out suspects (Danaus 231, Oceanus 155, Dhritarashtra 131, Heracles 113). Lineage gaps: Kosala → Heo Hwang-ok (~15–20 invented kings), Genghis Khan's 7-gen chain disconnected from Adam, Heo Hwang-ok → Jimmu not joined. None of this blocks chapter writing, but the analysis is the handle for per-chapter genealogy callouts.
+- **Genealogical analysis follow-up.** The Wikibase dump completed 2026-04-16 — 164k items, 4,840 wiki pages, 377 images. Centrality passed (Charlemagne, Bustanai, Jesus, Muhammad all load-bearing). Open: 1,230 children-with->2-parents (Geni merge errors, mostly Iberian royals), 69 cycles that should be zero, fan-out suspects (Danaus 231, Oceanus 155, Dhritarashtra 131, Heracles 113). Lineage gaps: Kosala → Heo Hwang-ok (~15–20 invented kings), Genghis Khan's 7-gen chain disconnected from Adam, Heo Hwang-ok → Jimmu not joined. None of this blocks chapter writing, but the analysis is the handle for per-chapter genealogy callouts.
 
 ## Pinned corrections (I keep dropping these)
 
