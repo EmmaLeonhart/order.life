@@ -41,6 +41,28 @@ jobs:
 
       - run: python build.py
 
+      # The downloads (Emma, 2026-10-14): the English Gaiad as PDF and EPUB, and a zip holding them
+      # with the GEDCOM. The zip is a GEDZIP (GEDCOM 7's package: gedcom.ged at the root, media files
+      # beside it by relative path), so genealogy programs can open it and attachments can follow.
+      - name: Install pandoc and Typst
+        run: |
+          curl -sSfL -o /tmp/pandoc.deb https://github.com/jgm/pandoc/releases/download/3.12.1/pandoc-3.12.1-1-amd64.deb
+          sudo dpkg -i /tmp/pandoc.deb
+          curl -sSfL https://github.com/typst/typst/releases/download/v0.15.1/typst-x86_64-unknown-linux-musl.tar.xz | tar -xJ -C /tmp
+          sudo mv /tmp/typst-x86_64-unknown-linux-musl/typst /usr/local/bin/
+          pandoc --version | head -1 && typst --version
+
+      - name: Build the PDF, the EPUB and the zip
+        run: |
+          python scripts/build_book.py /tmp/gaiad_book.md
+          pandoc /tmp/gaiad_book.md -f markdown+hard_line_breaks --toc --toc-depth=2 -o site/gaiad.epub
+          pandoc /tmp/gaiad_book.md -f markdown+hard_line_breaks --toc --toc-depth=1 --pdf-engine=typst -o site/gaiad.pdf
+          mkdir -p /tmp/gaiad-zip
+          cp site/gaiad.ged /tmp/gaiad-zip/gedcom.ged
+          cp site/gaiad.pdf site/gaiad.epub /tmp/gaiad-zip/
+          (cd /tmp/gaiad-zip && zip -q -r -9 "$GITHUB_WORKSPACE/site/gaiad.zip" .)
+          ls -la site/gaiad.pdf site/gaiad.epub site/gaiad.zip
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
