@@ -3,13 +3,22 @@
 Emma, 2026-10-12: "a systematic review of all of the chapters in chronological order ... to review the
 degree that they satisfy all of the criteria that order.life is supposed to have." One chapter at a time,
 one commit each. Criteria: `STATUS.md` pinned corrections (verse register; three braided registers; modern
-placenames; `{{c|}}`/`{{p|}}` tagging), `CLAUDE.md` (genealogy told by its story; linear time; one
+placenames; rhyme, graded), `CLAUDE.md` (genealogy told by its story; linear time; one
 set of parents; cross-tradition joins kept), `planning/gaiad-tone-and-founders.md`, the thematic spine for
 253-364, the chapter's day and holiday, and its facts.
 
+**Manual-of-style corrections (Emma, 2026-10-14, applied 19:15):**
+- **Rhyme is graded** for every chapter: "rhyming is actually an important part of it." Grades: strong
+  (full rhymes throughout), good (mostly full, some slant), uneven (many slant or missing), weak (little rhyme).
+- **No length guideline:** "There's no upper bound for the lengths of chapters." The old 60-150 lines is
+  withdrawn.
+- **Tags are not a review criterion and are never changed**, by script or by hand: they are data for later
+  programs (the database of the Gaiad's people and places). "The tagging was not supposed to be fucking
+  changed whatsoever." Earlier tag notes in this log are history, not instructions.
+
 Standing decisions:
 - No "Stand." (removed from all chapters 2026-10-14 on Emma's word).
-- Emma's own chapters (ch 1 to about 129) are not rewritten; the review fixes tagging and plain errors only
+- Emma's own chapters (ch 1 to about 129) are not rewritten; the review fixes plain errors only
   and notes anything larger for her.
 - The site strips the tags (`build.py` `load_chapters`): `{{c|Aster}}` renders as plain "Aster", so tags
   are an index, not links, today. The tags take no display alias, so a name whose tag would point at the wrong
@@ -18,11 +27,14 @@ Standing decisions:
   the Magellanic Clouds act in ch 2; Milkdromeda is their union; Sagittarius beside "the Princess" stands for
   Aster), so they keep `{{c|}}` tags. Words tagged as characters by the 2025-11-18 automated pass ("Once",
   "Together" and the like, which also made junk files in `Gaiad/genealogy/`) are untagged.
-- **Tagging rule (Emma, 2026-10-14 17:23):** "Everything needs a tag unless you're really not confident about
+- *(Withdrawn 2026-10-14 18:00; tags are never changed.)* **Tagging rule (Emma, 2026-10-14 17:23):** "Everything needs a tag unless you're really not confident about
   it." A place is `{{p|}}`, a character `{{c|}}`; a name of unclear kind, or significant but neither, is
   `{{x|}}`. Do not convert existing tags ("Converting everything to the x tag is destructive"); the database
   fixes the rest later (not to be worked on now). `build.py` strips `x` like `c` and `p`.
-- Length (60-150 lines) is a guide for new chapters, not a reason to cut or pad hers.
+
+**Ch 1-70 restored (2026-10-14 18:56, order.life `006f2f390`)** to their 2026-10-13 18:00 state on Emma's order,
+undoing the tag changes in rows 1-6 below and the tagging pass in ch 7-70; the "Advertisement" lines were then
+removed again (`7dcb10881`). The tag changes recorded in rows 1-6 no longer apply.
 
 | ch | title | verdict | changes |
 |---|---|---|---|
@@ -32,10 +44,10 @@ Standing decisions:
 | 4 | The First Yarn String | Emma's verse; passes | untagged (words): Once; to `x` (kind unclear): Nova. |
 | 5 | The Big Bang of Longing | Emma's verse; passes | untagged (words): Oceans. |
 | 6 | Hydrogen Clouds Ignite | Emma's verse; passes | untagged (words): Multiplying. |
-| 7 | Primordial Stars Burn | Emma's verse; passes | Stray "Advertisement" line at the end removed (web-page residue; also in ch 3, 12, 13, removed there too). For Emma: the title does not match the story (the cyborg shells, Bios, Viros and Dedos naming Aster "Greatest Grandmother"). No holiday on the day. |
-| 8 | Heavy Elements Scattered | Emma's verse; passes | For Emma: Phaestia is a moon of the gas giant Venti here, of Vayu in ch 9 (both wind gods; one world under two names, or a slip?). Day 8 is Coming of Age Day; the verse does not touch it (her chapter, not rewritten). |
-| 9 | Gravity's Dark Dance | Emma's verse; passes | Aster's syncretic titles (Suiten, Myōken, Konjin, Brahma, Vairocana, Varuna) kept as written. |
-| 10 | Spiral Arms Form | Emma's verse; passes | Serenitide, Pluvia, Quiyah. |
+| 7 | Primordial Stars Burn | Emma's verse; passes | Stray "Advertisement" line at the end removed (web-page residue; also in ch 3, 12, 13, removed there too). For Emma: the title does not match the story (the cyborg shells, Bios, Viros and Dedos naming Aster "Greatest Grandmother"). No holiday on the day. Rhyme: good (ABAB, mostly full; slant in the naming stanza, Aster/Hesper, Benzette/Quinamette). |
+| 8 | Heavy Elements Scattered | Emma's verse; passes | For Emma: Phaestia is a moon of the gas giant Venti here, of Vayu in ch 9 (both wind gods; one world under two names, or a slip?). Day 8 is Coming of Age Day; the verse does not touch it (her chapter, not rewritten). Rhyme: good (ABAB, mostly full; life/might slant). |
+| 9 | Gravity's Dark Dance | Emma's verse; passes | Aster's syncretic titles (Suiten, Myōken, Konjin, Brahma, Vairocana, Varuna) kept as written. Rhyme: good (ABAB; the title stanzas rhyme playfully on names, Suiten/Myoken, sama/Brahma). |
+| 10 | Spiral Arms Form | Emma's verse; passes | Serenitide, Pluvia, Quiyah. Rhyme: strong (ABAB, full rhymes). |
 
 **Titles of ch 4-20 (noted 2026-10-14 18:20).** They come from `COMPREHENSIVE_CHAPTER_PLAN.md` (2025-09-07), a
 plan of the cosmos in order (stars, heavy elements, the solar nebula, the Moon's birth), and the verse went its
@@ -43,10 +55,12 @@ own way (Hesper, Phaestia, Serenitide, the three brothers), so most of these tit
 not tell. For Emma: retitle from the verse, or keep the plan's titles. Left as they are until she says. Queue
 item 25 (the chapters and their histories) covers the same split.
 
-Line-initial plain-word tags still left (Replication, Consuming, Preferring, Starvation, People, Volcanoes,
-Lava, Propelled...) belong to queue item 26 and are not touched in the review.
+Tags are not touched in the review (manual-of-style corrections above).
 
 ## Tagging pass, ch 7-364 (2026-10-14, evening)
+
+*Reverted for ch 1-70 (see above). Ch 71-364 still carry it; queue item "Review the extent of the damage
+caused by attempts to repair the tagging" covers what it broke.*
 
 Done in one pass under the tagging rule above, by eight parallel agents, each file checked: the text with
 tags stripped is unchanged. Commits on order.life master: `4a1677c11` (7-50), `1721fca32` (51-95),

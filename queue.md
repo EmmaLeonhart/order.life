@@ -406,7 +406,7 @@ Items, in order:
    15:56: "it's not supposed to be drafted. You're supposed to literally write each one of them in
    order"): a finished chapter, in order, before the next. For every chapter: read
    `planning/gaiad-tone-and-founders.md`, the thematic spine and any brief in `planning/gaiad-253-364/`
-   first; real verse, ~60-150 lines, `{{c|}}`/`{{p|}}` templating, modern placenames;
+   first; real verse (no length limit; rhyme matters), modern placenames;
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
    its line here when done. Ch 253-364 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note).
 9. **After every chapter is written: a systematic review of the whole Gaiad, in chronological order
@@ -414,7 +414,7 @@ Items, in order:
    order ... to review the degree that they satisfy all of the criteria that order.life is supposed
    to have." Ch 1 to 364 in order, one chapter at a time, each checked against every criterion: the
    pinned corrections in `STATUS.md` (verse register, three braided registers, modern placenames,
-   `{{c|}}`/`{{p|}}` templating), `CLAUDE.md` (the synoptic genealogy told by its
+   rhyme, graded; tags are not a criterion and are never changed), `CLAUDE.md` (the synoptic genealogy told by its
    story; linear time; one person, one set of parents; cross-tradition joins kept), the tone and
    founder guidance in `planning/gaiad-tone-and-founders.md`, the thematic spine for 253-364, the
    chapter's day and holiday in the calendar, and its facts. Record each chapter's result, fix what
