@@ -82,3 +82,9 @@ Her words, same session notes.
 - Judaism as a priestly clan, "like the Nakatomi, but much larger": "Jewish rituals are to be led by Jewish people for
   Gentile parishioners and Jewish parishioners alike."
 
+## 9) Donations to other religious groups (Emma, 2026-10-13)
+- Donating to other religious groups "as a way of spreading the schema ... putting into place and to some extent maybe
+  manufacturing the other religious groups already being within this ontology. As again, like everyone's the same
+  religion."
+- It goes with section 8: a community that makes its practice public "get[s] money too".
+
