@@ -8190,3 +8190,13 @@ married Ninigi's son Hoori, in the myth and in the dump). No repoint of Hoori (t
 Chinese paternal ancestry); no unnamed sons invented for Heo Hwang-ok (the Garakguk-gi names only Geodeung);
 Ayodhya kept (`heo-hwang-ok.md` wants her as the Indic bridge); Adnan's "twelve sons" kept. Row 7 decided as
 "merge M1 and M2" but not applied: the permission check refused `merge_cluster.py`.
+
+2026-10-15 02:45 PST: weekdays, second pass (her pattern in the parent repo's `research/weekdays-pattern.md`). The three
+Sabbaths now carry their own meanings in all nine languages on the week index and the calendar overview
+(Friday the Alpha, gathering and unification; Saturday the Lambda, rest; Sunday the Omega, aspiration and the
+future); the English overview no longer says "blending"; the rituals list puts Friday first. Weekday pages: Friday,
+Saturday and Sunday open as the first, second and third Sabbaths with their letters; invented function lines removed
+("the day of doing", "the day things grow", the Wednesday "midpoint"); the Japanese elements are headed as the
+East Asian names, not as each day's quality; the two contradictory Thing claims replaced (Dienstag from Mars
+Thingsus; Thursday belongs to Thor as Jupiter's representative); the garbled Saturday and Sunday language lines
+rewritten. The stems stay pinned; Thor stays on Thursday.
