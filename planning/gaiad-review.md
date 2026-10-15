@@ -32,3 +32,21 @@ Standing decisions:
 | 4 | The First Yarn String | Emma's verse; passes | untagged (words): Once; to `x` (kind unclear): Nova. |
 | 5 | The Big Bang of Longing | Emma's verse; passes | untagged (words): Oceans. |
 | 6 | Hydrogen Clouds Ignite | Emma's verse; passes | untagged (words): Multiplying. |
+
+## Tagging pass, ch 7-364 (2026-10-14, evening)
+
+Done in one pass under the tagging rule above, by eight parallel agents, each file checked: the text with
+tags stripped is unchanged. Commits on order.life master: `4a1677c11` (7-50), `1721fca32` (51-95),
+`45d4a2c63` (96-140), `3296f1f87` (141-185), `69b8a8e34` (186-230), `06348bbce` (231-275), `2a5ec2a56`
+(276-320), `27aae8c38` (321-364). Ch 178-220 had almost no tags before and gained the most.
+
+Then `137cc8ff5`: 560 tags removed from line-initial plain words (adverbs, adjectives, verbs, numbers,
+function words: Than, Now, Bold, Fair, Throughout, Together...) left by the 2025-11-18 automated pass. Every
+noun kept its tag (Life, Water, Fire, God, King...). Two broken nested tags in ch 57
+(`{{c|{{c|453|Osticthus}}}}`, rendered on the site as "453|Osticthus") fixed.
+
+Left for the database (not worked on now): the same name carrying different letters in different chapters
+(Devonian, Cambrian, Carboniferous c and x; Shia x in 256, c in 263; China c and p in 220; Andromeda c and p
+in 364); multi-word names tagged only in part (`{{c|Iron}} Catastrophe`); names split across a line break
+("Three / Kingdoms" 49, "Hundred / Years' War" 216, 219); hyphen compounds (tagged at the name part in
+some chapters, untagged in others).
