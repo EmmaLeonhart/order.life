@@ -53,24 +53,24 @@ Of the fisherman became a basilica of gold.
 And four hundred years later, in some room,
 A forger wrote that {{c|Constantine}} had sold--
 
-No, given--the whole West to {{c|Sylvester}}'s chair.
-The Donation. A lie that held a continent
+No, given--the whole {{p|West}} to {{c|Sylvester}}'s chair.
+The {{x|Donation}}. A lie that held a continent
 For seven hundred years, until {{c|Valla}} laid it bare
-By its bad Latin. Remember what the forgers meant.
+By its bad {{x|Latin}}. Remember what the forgers meant.
 
 {{c|Damasus}}, who set {{c|Jerome}} to make one book
-In the tongue of the street, the Vulgate. {{c|Leo}} the Great,
+In the tongue of the street, the {{x|Vulgate}}. {{c|Leo}} the Great,
 Who rode out to the {{p|Mincio}}, and the look
 Of him turned {{c|Attila}} back from the gate.
 
 {{c|Gregory}}, who called himself the servant
-Of the servants of God, and sent a monk to {{p|Kent}}.
-And {{c|Leo III}}, on Christmas Day, observant
+Of the servants of {{c|God}}, and sent a monk to {{p|Kent}}.
+And {{c|Leo III}}, on {{x|Christmas Day}}, observant
 Of nothing but the crown, who stood and bent
 
 Over {{c|Charlemagne}} at prayer in {{p|Saint Peter's}}
 And set a crown on him that he had not asked for,
-Emperor of the Romans. Nearly every reader
+Emperor of the {{c|Romans}}. Nearly every reader
 Born of {{p|Europe}} descends from him. The door
 
 Of every lineage in {{p|Europe}} opens there.
@@ -78,7 +78,7 @@ Then the dark years. Listen to the dark.
 {{c|Formosus}}, dug up, propped up in the chair,
 Dressed in his robes, a deacon set to bark
 
-His answers for him at the Cadaver Synod.
+His answers for him at the {{x|Cadaver Synod}}.
 Condemned, his blessing fingers cut away,
 Thrown in the {{p|Tiber}}. And the bishops nodded.
 And then the house of {{c|Theophylact}} held sway.
@@ -99,34 +99,34 @@ Say so plainly: the chair the church endows
 With heaven was a family's for a time. Then dust,
 
 Then reform. {{c|Sylvester II}}, {{c|Gerbert}},
-Who brought the Arab numerals to the West,
+Who brought the {{x|Arab}} numerals to the {{p|West}},
 The abacus, the astrolabe, the expert
 Of the year one thousand, when they guessed
 
 The world would end, and it did not end.
 Then 1054: the legates at the altar
 Of {{p|Hagia Sophia}} in {{p|Istanbul}} send
-A bull of excommunication. East and West would falter
+A bull of excommunication. {{p|East}} and {{p|West}} would falter
 
 Apart and never close. {{c|Gregory VII}},
 And the king {{c|Henry}}, barefoot in the snow
 Three days at {{p|Canossa}}, begging to be forgiven,
 And the pope who made him wait, and let him go.
 
-{{c|Urban}} at {{p|Clermont-Ferrand}}: God wills it. The cross
+{{c|Urban}} at {{p|Clermont-Ferrand}}: {{c|God}} wills it. The cross
 Sewn onto shoulders, and the road to {{p|Jerusalem}}
 Paved with the slaughtered. {{c|Innocent III}}, the boss
 Of kings, who forbade the sack, and then watched them
 
-Sack {{p|Istanbul}} anyway, a Christian city,
+Sack {{p|Istanbul}} anyway, a {{x|Christian}} city,
 In 1204. {{c|Celestine}}, the hermit, who could not bear
 The keys, and gave them back. And then, without pity,
-{{c|Boniface}}: One Holy Church, and every soul is there
+{{c|Boniface}}: {{x|One Holy Church}}, and every soul is there
 
-Subject to the Roman pontiff. Slapped at {{p|Anagni}}
-By a French king's men. Then the papacy
+Subject to the {{x|Roman}} pontiff. Slapped at {{p|Anagni}}
+By a {{c|French}} king's men. Then the papacy
 Packed up and moved to {{p|Avignon}}. The money
-Of the Babylonian Captivity
+Of the {{x|Babylonian Captivity}}
 
 Flowed seventy years to a palace on the {{p|Rhône}}
 Till {{c|Catherine}} of {{p|Siena}} wrote: come home.
@@ -138,9 +138,9 @@ Deposed them all, and crowned {{c|Martin}}, one again,
 Two years after it burned {{c|Jan Hus}}, and lit
 The fire that {{p|Bohemia}} would remember. Then
 
-The scholars. {{c|Nicholas}}, who built the Library
-In the years the Turks took {{p|Istanbul}} for good.
-{{c|Sixtus}}, who built the Chapel, where the very
+The scholars. {{c|Nicholas}}, who built the {{x|Library}}
+In the years the {{c|Turks}} took {{p|Istanbul}} for good.
+{{c|Sixtus}}, who built the {{x|Chapel}}, where the very
 Ceiling would be painted by a man who stood
 
 On scaffolding for four years with his head bent back.
@@ -150,7 +150,7 @@ Joke of his children, {{c|Cesare}} and {{c|Lucrezia}}, and the slow
 
 Poison of the rumors. In 1493
 He drew a line from pole to pole across the sea:
-West of it for {{p|Spain}}, east for {{p|Portugal}}.
+{{p|West}} of it for {{p|Spain}}, east for {{p|Portugal}}.
 At {{p|Tordesillas}} the two kings moved it farther west,
 
 And the world was divided by the heir of the fisherman
@@ -179,7 +179,7 @@ Of the reckoning.
 # Chapter 254: The Sea Joins the World
 
 Before this there were many seas. The {{p|Indian Ocean}}
-Was a market as old as the Pharaohs, where the dhow
+Was a market as old as the {{c|Pharaohs}}, where the dhow
 Rode the monsoon out and back, a slow devotion
 To the wind's two seasons, and the merchant's vow
 
@@ -209,12 +209,12 @@ They went into a temple, and they knelt, and they prayed
 Before a goddess, and they did not cringe,
 
 Because they thought she was {{c|Mary}}. They thought the priests
-Were Christians of some old and broken rite.
+Were {{c|Christians}} of some old and broken rite.
 They saw the saints on the walls with too many arms, the feasts,
 The lamps, the holy water, and in the light
 
-They saw what they had come to see. The Hindus saw
-Strangers bowing to the Mother, and let them bow.
+They saw what they had come to see. The {{c|Hindus}} saw
+Strangers bowing to the {{c|Mother}}, and let them bow.
 For one afternoon the world was joined, the law
 Of every faith suspended in the now
 
@@ -238,17 +238,17 @@ Of anyone who tells this as adventure only.
 The strait the whole of {{p|Asia}}'s trade ran through, the lonely
 Gate of the cloves. The ocean that was a bazaar
 
-Became a toll road. Pay the Portuguese or burn.
+Became a toll road. Pay the {{c|Portuguese}} or burn.
 And {{c|Cabral}}, sailing for {{p|India}} in 1500,
 Swung too far west and found the coast of {{p|Brazil}}, the turn
 Of a wheel that would roll over the {{c|Tupi}} like thunder.
 
-Then {{c|Magellan}}. A Portuguese who sailed for {{p|Spain}},
+Then {{c|Magellan}}. A {{c|Portuguese}} who sailed for {{p|Spain}},
 Five ships from {{p|Sanlúcar}} in 1519, to find
 A western road to the spice islands, to gain
 For {{c|Charles}} the cloves of {{p|Maluku}}, and to bind
 
-The line the Pope had drawn back round the world.
+The line the {{c|Pope}} had drawn back round the world.
 Mutiny in {{p|Patagonia}}, and the beheading,
 The marooning. Then the strait, the cold, the curled
 Fingers of the channel, thirty-eight days of threading
@@ -285,7 +285,7 @@ Of skeletons, of two hundred and seventy. And they were
 
 A day off. Their log said Wednesday. It was Thursday.
 They had sailed with the sun and lost a day to it,
-And the learned men of {{p|Venice}} worked out why. The Earth's way
+And the learned men of {{p|Venice}} worked out why. The {{p|Earth}}'s way
 Of turning had been measured by a ship. Admit
 
 What this means: the world is one thing now. One sea.
@@ -328,10 +328,10 @@ They thought him drowned. And on the third day he came out
 Of the water, and was silent, and then, as in a dream,
 Or as from the far side of a dream, without a doubt:
 
-*There is no Hindu. There is no Muslim.*
+*There is no {{c|Hindu}}. There is no {{c|Muslim}}.*
 That was the first thing. Not a creed. A clearing of the ground.
 The governor asked him: then whose path do you follow? Him,
-Said {{c|Nanak}}. God's. And when the call to prayer came round
+Said {{c|Nanak}}. {{c|God}}'s. And when the call to prayer came round
 
 He went with the governor and the {{c|qazi}} to the mosque,
 And did not bow, and when they asked him why, he said:
@@ -345,8 +345,8 @@ The janamsakhis tell it. It is worth the saying.
 
 Then the journeys. Four of them, the {{c|udasis}}, east and south
 And north into the mountains and west to {{p|Mecca}}, with a friend,
-{{c|Mardana}}, a Muslim, who played the rebab while from his mouth
-The hymns came, a Muslim minstrel and a Hindu-born, without end
+{{c|Mardana}}, a {{c|Muslim}}, who played the rebab while from his mouth
+The hymns came, a {{c|Muslim}} minstrel and a {{c|Hindu}}-born, without end
 
 Walking. At {{p|Haridwar}}, where the pilgrims threw
 The {{p|Ganges}} water east, toward the rising sun,
@@ -355,17 +355,17 @@ They asked. I'm watering my fields in {{p|Punjab}}. If yours run
 
 Up to the sun, mine can reach three hundred miles.
 At {{p|Mecca}}, they say, he lay down with his feet toward the {{c|Kaaba}},
-And the keeper kicked him: you point your feet at God! He smiled:
-Then turn my feet toward where God is not. And the ground, the robber
+And the keeper kicked him: you point your feet at {{c|God}}! He smiled:
+Then turn my feet toward where {{c|God}} is not. And the ground, the robber
 
 Of every certainty, would not turn. Again: a story. Hold it so.
 What is sure is the hymns. Nine hundred and some
 Of them, in {{c|Punjabi}} and the mixed tongue of the poor, the slow
 Music of the {{c|Bhakti}} saints and the {{c|Sufis}}, one
 
-God, without form, without fear, without hatred, not born,
-Not dying, self-existent, known by grace. *Ik Onkar*:
-One. The Creator. The True Name. And at dawn, every morn,
+{{c|God}}, without form, without fear, without hatred, not born,
+Not dying, self-existent, known by grace. *{{x|Ik Onkar}}*:
+One. The {{c|Creator}}. The {{x|True Name}}. And at dawn, every morn,
 The {{c|Japji}}, still sung. That is the scripture, where we are
 
 Not guessing. Then {{c|Babur}} came down from {{p|Kabul}} like the flood,
@@ -373,14 +373,14 @@ The first of the {{c|Mughals}}, and sacked {{p|Eminabad}}, and the hymns
 Of {{c|Nanak}} are the witness: the city in its blood,
 The women of good houses dragged out by their limbs,
 
-God, he sang, had sent the Mughal as death's own herald. He had seen it.
+{{c|God}}, he sang, had sent the {{c|Mughal}} as death's own herald. He had seen it.
 He did not write a war-song. He wrote a lament
-And a reproach to God: did you not feel pain? He would mean it.
+And a reproach to {{c|God}}: did you not feel pain? He would mean it.
 Then he settled. On the bank of the {{p|Ravi}}, he went
 
 To {{p|Kartarpur}}, and farmed, and built a kitchen
 Where everyone sat on the floor in one row, the high
-Caste and the low, the Muslim and the Hindu, and no one rich in
+Caste and the low, the {{c|Muslim}} and the {{c|Hindu}}, and no one rich in
 That line, the *langar*, which feeds a hundred thousand a day now. Why
 
 Does it matter? Because the meal was the doctrine.
@@ -394,7 +394,7 @@ And bowed to him. The light passed from one lamp to the next, they said,
 Not by blood, as {{c|Marozia}}'s house had passed the keys. Not him.
 
 In 1539 he died at {{p|Kartarpur}}. The story goes
-That Hindus wished to burn him and the Muslims wished to bury,
+That {{c|Hindus}} wished to burn him and the {{c|Muslims}} wished to bury,
 And they argued over him, and when they lifted the cloth, the rows
 Of flowers were all that lay there. They divided them, a very
 
@@ -410,12 +410,12 @@ In a new community, which had to be a new thing, more
 
 Than a bridge, because the bridge had nowhere left to stand.
 That is the lesson of the clearing of the ground:
-Say there is no Hindu and no Muslim, and the land
+Say there is no {{c|Hindu}} and no {{c|Muslim}}, and the land
 Will make a third thing of you. The third thing will be found,
 
 And named, and given a border of its own.
 It is still the clearest thing said in this age.
-There is no Hindu. There is no Muslim. Sit on the floor. The bread is shown
+There is no {{c|Hindu}}. There is no {{c|Muslim}}. Sit on the floor. The bread is shown
 To all. Eat. Turn the page.
 
 
@@ -434,35 +434,35 @@ Of two centuries widened. The sheikhs began to ride, and die
 In battle. The brotherhood became an army.
 The disciples wore a red cap with twelve folds,
 One for each of the twelve imams, and the enemy
-Called them {{c|Qizilbash}}: the Red Heads. Who holds
+Called them {{c|Qizilbash}}: the {{c|Red Heads}}. Who holds
 
 The cap holds the faith, and who holds the faith holds the sword.
 And then a boy. {{c|Ismail}}, a child of seven, hidden
 On the shore of the {{p|Caspian}} after his father and his eldest brother were gored
 And cut down in battle, came out of hiding, bidden
 
-By the Red Heads, and at fourteen he took {{p|Tabriz}},
-In 1501, and crowned himself the Shah,
+By the {{c|Red Heads}}, and at fourteen he took {{p|Tabriz}},
+In 1501, and crowned himself the {{x|Shah}},
 And in the {{c|Friday}} mosque he made them read the creed with these
-Words added: *and Ali is the friend of God*. The law
+Words added: *and {{c|Ali}} is the friend of {{c|God}}*. The law
 
-Of the land was now the Twelver faith, the Shia,
+Of the land was now the {{x|Twelver}} faith, the {{x|Shia}},
 In a country where most people were {{c|Sunni}}. Those
 Who would not curse the first three caliphs, the idea
 Of the new state said, could die. And many chose
 
 To curse. And some did not, and died. The boy
 Wrote poetry in {{c|Turkish}} under the name {{c|Khatai}},
-The Sinner, and the poems said: I am the joy
-Of God, I am His mystery, I am {{c|Ali}}, come and see,
+The {{c|Sinner}}, and the poems said: I am the joy
+Of {{c|God}}, I am His mystery, I am {{c|Ali}}, come and see,
 
 Come and bow down, I am the eternal one.
 His soldiers believed it. They went into battle without armor.
 That is the double thing, the cloth spun
 Out of two threads: the mystic's longing and the warlord's grammar.
 
-A brotherhood that sought to lose the self in God
-Produced a boy who said he was the God he sought,
+A brotherhood that sought to lose the self in {{c|God}}
+Produced a boy who said he was the {{c|God}} he sought,
 And made a nation out of the decree, the rod
 Of a creed nobody in {{p|Tabriz}} had been taught.
 
@@ -479,31 +479,31 @@ Of a teenage poet and a sword, in a single line
 Of conquest, and a century of making it true.
 Remember this. A tradition can be young and look old.
 Then {{p|Çaldıran}}, 1514. The {{c|Ottoman}} {{c|Selim}} knew
-The Red Heads would charge into anything, and so he rolled
+The {{c|Red Heads}} would charge into anything, and so he rolled
 
 His cannon to the front and chained them wheel to wheel,
-And the boy who was God charged into the guns.
-God lost. The Ottomans took {{p|Tabriz}}. The steel
+And the boy who was {{c|God}} charged into the guns.
+{{c|God}} lost. The {{c|Ottomans}} took {{p|Tabriz}}. The steel
 Of the old way, the cavalry, the believers, the sons
 
 Of the {{c|Turkmen}} tents, broke on the gunpowder.
 They say {{c|Ismail}} never smiled again, that he drank
 And hunted and did not lead an army after.
-He died at thirty-six. The legend of the God-King sank.
+He died at thirty-six. The legend of the {{c|God-King}} sank.
 
 But the state did not. That is what matters. The faith
 Outlived the claim. His great-grandson, {{c|Abbas}}, built {{p|Isfahan}},
 The square, the blue domes, *half the world*, the wraith
-Of the Red Heads tamed into a standing army, the plan
+Of the {{c|Red Heads}} tamed into a standing army, the plan
 
 Of a modern state. One more thing, for this book:
 {{c|Ismail}}'s mother was the daughter of {{c|Uzun Hasan}},
-The White Sheep khan, and of {{c|Theodora}}, a {{c|Komnene}}, who took
-The name {{c|Despina}}, a Christian princess of {{p|Trabzon}},
+The {{x|White Sheep}} khan, and of {{c|Theodora}}, a {{c|Komnene}}, who took
+The name {{c|Despina}}, a {{x|Christian}} princess of {{p|Trabzon}},
 
 Daughter of the last emperors of the {{c|Greeks}} by the {{p|Black Sea}}.
-So the founder of Shia {{p|Iran}} was the grandson
-Of a Greek Orthodox lady of the {{c|Komnenoi}}.
+So the founder of {{x|Shia}} {{p|Iran}} was the grandson
+Of a {{x|Greek Orthodox}} lady of the {{c|Komnenoi}}.
 The blood is mixed. The creed is pure. That is how it is done:
 
 A mixed family declares itself unmixed, and the world believes.
@@ -514,17 +514,17 @@ Of the state itself, and ruled. Read the line
 From {{p|Ardabil}} to {{p|Tehran}}: a mystic, a boy, a sword,
 A scholar, a jurist, a revolution. Each one sure
 It was the old faith. Each one its own reward.
-What do we say of the Safavids? That a tradition can be new and pure
+What do we say of the {{c|Safavids}}? That a tradition can be new and pure
 
 And ancient all at once, if the sword is long enough.
-That the longing for God and the hunger for a throne
+That the longing for {{c|God}} and the hunger for a throne
 Can wear the same red cap. That the stuff
 Of a nation can be woven in one lifetime, and then be known
 
 As if it had always been. And that the boy believed it.
 That is the hardest part. He was not lying. He was young
 And had been hidden, and was saved, and he received it:
-God's mystery, in the Turkish of his tongue.
+{{c|God}}'s mystery, in the {{x|Turkish}} of his tongue.
 
 
 # Chapter 257: Here I Stand
@@ -539,13 +539,13 @@ Help me, and I will become a monk. He kept the vow.
 He went into the {{c|Augustinians}} at {{p|Erfurt}},
 And fasted, and confessed, and could not tell how
 
-To be righteous enough for God. He confessed for hours.
+To be righteous enough for {{c|God}}. He confessed for hours.
 His confessor told him: go and sin something worth confessing.
 He went to {{p|Rome}} and climbed the holy stairs on his knees
 And at the top he thought: who knows if it is so? The blessing
 
-Did not come. He taught the Bible at {{p|Wittenberg}},
-In a small university in a small Saxon town,
+Did not come. He taught the {{x|Bible}} at {{p|Wittenberg}},
+In a small university in a small {{x|Saxon}} town,
 And in the {{c|Letter to the Romans}} he read: the just shall live
 By faith. Not by the stairs. Not by the crown
 
@@ -561,35 +561,35 @@ The peasants of {{p|Saxony}} walked across to buy the things.
 
 On the last day of October, 1517,
 {{c|Luther}} wrote out ninety-five theses for debate,
-In Latin, for scholars: whether the pope can empty purgatory,
+In {{x|Latin}}, for scholars: whether the pope can empty purgatory,
 And if he can, why he does not, out of love, and not for the weight
 
 Of the coins. Whether he nailed them to the church door
 Is not certain. He sent them to the archbishop. What is certain
-Is the press. Within weeks they were printed, and by the spring in German,
+Is the press. Within weeks they were printed, and by the spring in {{x|German}},
 And within months they were across the empire. The curtain
 
-Of the Latin was torn. This is what {{c|Gutenberg}} had made
+Of the {{x|Latin}} was torn. This is what {{c|Gutenberg}} had made
 Seventy years before without knowing: a voice
 That could not be burned faster than it could be set in type.
 {{c|Hus}} had been burned. {{c|Luther}} was printed. Choice
 
 Of a weapon. In the next years his pamphlets
 Were more than any author's in {{p|Europe}} had ever been:
-*To the Christian Nobility*. *The Babylonian Captivity*.
-*The Freedom of a Christian*. Small books, cheap, and seen
+*To the {{x|Christian Nobility}}*. *The {{x|Babylonian Captivity}}*.
+*The {{x|Freedom of a Christian}}*. Small books, cheap, and seen
 
 In every market, read aloud in every tavern
 To men who could not read. The {{c|Pope}} excommunicated him.
 He burned the bull in a bonfire at the city gate.
 And at {{p|Worms}}, in 1521, before the emperor, {{c|Charles}}, grim
 
-In his youth, with his Habsburg jaw, the lord
+In his youth, with his {{x|Habsburg}} jaw, the lord
 Of half the world, the monk was asked to recant.
 He asked for a day. He came back, and he said: unless
-I am convinced by Scripture and plain reason, I can't,
+I am convinced by {{x|Scripture}} and plain reason, I can't,
 
-My conscience is captive to the Word of God.
+My conscience is captive to the {{x|Word of God}}.
 And the printers, afterward, added: *Here I stand.
 I can do no other.* He may not have said it.
 It was printed. It became what he said. The hand
@@ -600,13 +600,13 @@ Had him seized on the road and hidden in the {{p|Wartburg}},
 And there, as {{c|Junker Jörg}}, in a beard, in a cell of agony
 
 And ink, he translated the {{c|New Testament}}
-Into German in eleven weeks. Not the German
-Of the clerks: the German of the mother in the house,
+Into {{x|German}} in eleven weeks. Not the {{x|German}}
+Of the clerks: the {{x|German}} of the mother in the house,
 The children in the street, the man in the market. The sermon
 
 Had been the priest's. Now the book was the household's.
 And the language of the book became the language of the land.
-High German is, in part, the language {{c|Luther}} chose.
+{{x|High German}} is, in part, the language {{c|Luther}} chose.
 That is what it means for scripture to leave the priest's hand.
 
 Now the other side. Hold both. In 1525 the peasants rose,
@@ -625,11 +625,11 @@ Can be used to burn. {{c|Luther}} married {{c|Katharina von Bora}},
 An escaped nun, smuggled out in a fish wagon; they turned
 
 A monastery into a house of children and of students,
-And beer, and table talk. The Church split in three:
+And beer, and table talk. The {{x|Church}} split in three:
 {{p|Rome}}, and {{p|Wittenberg}}, and the others coming, {{p|Zürich}}, {{p|Geneva}}.
 The keys the fisherman had passed were no longer the only key.
 
-Every household with a Bible became a little church.
+Every household with a {{x|Bible}} became a little church.
 Every reader, a priest. That was the promise and the danger.
 The register of souls the priests had kept would pass
 To the state. The book would pass to the stranger.
@@ -647,18 +647,18 @@ Greatest empire, from the {{p|Nile}} to the {{p|Danube}},
 From {{p|Mecca}} to the {{p|Crimea}}. The flags unfurled
 
 For {{c|Suleiman}}, the tenth sultan of the house of {{c|Osman}}.
-{{p|Europe}} called him the Magnificent. His own people
-Called him {{c|Kanuni}}: the Lawgiver. Hold both names.
+{{p|Europe}} called him the {{c|Magnificent}}. His own people
+Called him {{c|Kanuni}}: the {{c|Lawgiver}}. Hold both names.
 The conqueror and the clerk. The minaret and the steeple
 
 Under one crown. He took {{p|Belgrade}} in 1521,
-And {{p|Rhodes}} from the Knights of Saint John the year after,
+And {{p|Rhodes}} from the {{c|Knights of Saint John}} the year after,
 And let them sail away with honor. At {{p|Mohács}}
-In 1526 he broke the Hungarian army, and the laughter
+In 1526 he broke the {{x|Hungarian}} army, and the laughter
 
 Of the young king {{c|Louis}} ended in a stream
 Where he drowned in his armor, fleeing. Half of {{p|Hungary}}
-Became Ottoman. In 1529 he came to {{p|Vienna}}
+Became {{x|Ottoman}}. In 1529 he came to {{p|Vienna}}
 And the rains and the walls turned him back. The hungry
 
 Janissaries went home. That was the high-water mark.
@@ -668,15 +668,15 @@ Every household was written in the {{c|defter}}: who marries,
 
 Who farms which field, who owes what, and of what faith.
 The scribes went out and counted. The tax register,
-The {{c|tahrir}}, listed the Muslims and the Christians and the Jews,
+The {{c|tahrir}}, listed the {{c|Muslims}} and the {{c|Christians}} and the {{c|Jews}},
 Each by name, each by community. The sinister
 
 And the generous are the same pen here. The non-Muslim paid
 The {{c|jizya}}, the head tax, and in return
-Was let alone to pray: the Orthodox under their patriarch
-In {{p|Istanbul}}, the Armenians under theirs, the concern
+Was let alone to pray: the {{c|Orthodox}} under their patriarch
+In {{p|Istanbul}}, the {{c|Armenians}} under theirs, the concern
 
-Of the Jews in the hands of their rabbis, each community
+Of the {{c|Jews}} in the hands of their rabbis, each community
 Judging its own marriages and wills and quarrels
 By its own law, its own book, its own courts.
 Historians would later call it the millet system. The laurels
@@ -687,17 +687,17 @@ A man's religion was his legal address. You were born
 Into your millet, and the state was the keeper and the hedger
 
 Of the walls between them. You could not easily leave.
-But you could live. When {{p|Spain}} expelled its Jews in 1492,
+But you could live. When {{p|Spain}} expelled its {{c|Jews}} in 1492,
 The sultan's father's father took them in, and in {{p|Thessaloniki}}
 They became the city's majority, and the printing presses grew,
 
-And {{c|Doña Gracia}}, the banker, fleeing the Inquisition,
+And {{c|Doña Gracia}}, the banker, fleeing the {{x|Inquisition}},
 Came to {{p|Istanbul}}, and her nephew {{c|Joseph Nasi}}
 Became the sultan's friend, and later Duke of {{p|Naxos}},
 And leased {{p|Tiberias}} to rebuild it, a refuge, a fantasy
 
 Of return, three centuries early. And the other side:
-The {{c|devshirme}}, the levy of boys, the Christian sons
+The {{c|devshirme}}, the levy of boys, the {{x|Christian}} sons
 Taken from the villages of the {{p|Balkans}}, converted,
 Trained, and made the sultan's slaves, the janissaries, the guns
 
@@ -707,17 +707,17 @@ Of the empire, some of them its viziers, its architects:
 The mosque that answers {{p|Hagia Sophia}}. The register gave and took. See
 
 Both. And in the harem, a captive from {{p|Ruthenia}},
-{{c|Hürrem}}, whom the West called {{c|Roxelana}}, freed and married,
+{{c|Hürrem}}, whom the {{p|West}} called {{c|Roxelana}}, freed and married,
 Against every custom of the house: a slave become a queen,
 And for her sons' sake, they said, the heir {{c|Mustafa}} strangled and buried,
 
 In his father's tent, the father watching from behind a screen, the story says.
-The Lawgiver wrote the {{c|kanun}} beside the holy law,
+The {{c|Lawgiver}} wrote the {{c|kanun}} beside the holy law,
 With {{c|Ebussuud}}, his jurist, making the two agree:
 Codes for land, for crime, for the army, for every flaw
 
 Of an empire of sixty peoples. And he wrote poems,
-Under the name {{c|Muhibbi}}, the Lover: *people think wealth
+Under the name {{c|Muhibbi}}, the {{c|Lover}}: *people think wealth
 And power the greatest fortune, but in this world
 There is nothing like the state of health.*
 
@@ -761,7 +761,7 @@ The book in a coffer with two locks. The material
 
 Of a people, written. And the people were afraid.
 They said: it is for a new tax. They said: the king
-Will charge us for our children. Through the West Country it was said
+Will charge us for our children. Through the {{p|West Country}} it was said
 For a year, and men were ready to rise. It was not a tax. The thing
 
 Was worse and better: it was a memory that did not die
@@ -772,12 +772,12 @@ Of that year. Not every parish obeyed. The word
 Was enforced by fines, by bishops, by the slow
 Habit of Sundays. In 1598 they were told
 To copy the old paper into parchment books, and so
-Many English registers begin with the year of the old
+Many {{x|English}} registers begin with the year of the old
 
-Queen's crowning, 1558, in a clean hand.
+{{c|Queen}}'s crowning, 1558, in a clean hand.
 And across the water, at {{p|Trent}}, in the mountains of the {{p|Tyrol}},
-The Catholic Church, answering {{c|Luther}}, in its stand
-Against the Reformers, decided at its twenty-fourth session, the whole
+The {{x|Catholic Church}}, answering {{c|Luther}}, in its stand
+Against the {{c|Reformers}}, decided at its twenty-fourth session, the whole
 
 Of {{c|Christendom}} that kept the old faith must register
 Its marriages, with witnesses, by name,
@@ -785,14 +785,14 @@ And its baptisms, with the godparents. No minister
 Could marry a couple secretly anymore. The same
 
 Book, the same page, from {{p|Lisbon}} to {{p|Kraków}}, to {{p|Lima}}, to {{p|Goa}}.
-In 1614 the Roman Ritual added the dead,
+In 1614 the {{x|Roman Ritual}} added the dead,
 And the {{c|Book of the State of Souls}}: every household, who
-Lived in it, who had made their Easter confession. The thread
+Lived in it, who had made their {{x|Easter}} confession. The thread
 
-Of the register ran out into every village of the Catholic world.
-And the Lutherans took it up, and in the North
+Of the register ran out into every village of the {{x|Catholic}} world.
+And the {{c|Lutherans}} took it up, and in the {{p|North}}
 It became the most thorough of all. In {{p|Sweden}}, unfurled
-In the Church Law of 1686, the priest went forth
+In the {{x|Church Law}} of 1686, the priest went forth
 
 House by house each year with the roll of the household examination,
 Who could read, who knew the catechism, who had moved,
@@ -801,8 +801,8 @@ Written down to the last cottar. And this is proved
 
 In this book's own blood. The ancestors of the writer of this scripture
 Have a year and nothing else, a guess, until the parish
-Begins to write. Then: *Per Olofsson, born the fourth of April, 1696*.
-A day. A real day, kept in a Swedish church. The varnish
+Begins to write. Then: *{{c|Per Olofsson}}, born the fourth of April, 1696*.
+A day. A real day, kept in a {{x|Swedish}} church. The varnish
 
 Of the old guesses comes off, and the people underneath
 Have birthdays. That is what the register gave:
@@ -815,8 +815,8 @@ And the state learned to read it. What the church had seen
 For the sake of souls, the state would read instead
 
 For soldiers and taxes and, in the worst years, for blood.
-A register that can find every Christian can find every Jew.
-Hold that. The same book. And the Mormons, in the flood
+A register that can find every {{c|Christian}} can find every {{c|Jew}}.
+Hold that. The same book. And the {{c|Mormons}}, in the flood
 Of the twentieth century, would come to photograph them, through
 
 Every archive in the world, the parish books of {{p|Europe}},
@@ -832,8 +832,8 @@ Someone would read his hand, and say: there, that is where I came.
 
 # Chapter 260: The Earth Leaves the Centre
 
-For two thousand years the Earth stood still.
-The Sun went round it, and the Moon, and the five
+For two thousand years the {{p|Earth}} stood still.
+The {{x|Sun}} went round it, and the {{x|Moon}}, and the five
 Wandering stars, and the fixed stars on their shell,
 And the whole sky turned once a day, alive
 
@@ -859,7 +859,7 @@ Of the Prince-Bishop of {{p|Warmia}} spent his nights
 
 On a tower, with simple instruments, and his days
 With the old books, and saw that the sky was simpler
-If the Sun stood in the middle, and the Earth was one of the rays
+If the {{x|Sun}} stood in the middle, and the {{p|Earth}} was one of the rays
 Of the wheel, a planet among planets. A whisper
 
 At first: a little handwritten book, around 1514,
@@ -867,15 +867,15 @@ Passed among friends. He did not publish. Thirty years.
 He was afraid of being laughed at, he said. Between
 The fear and the book, a young man appears:
 
-{{c|Rheticus}}, a Lutheran professor from {{p|Wittenberg}},
-Who came in 1539 to the Catholic canon's house
+{{c|Rheticus}}, a {{x|Lutheran}} professor from {{p|Wittenberg}},
+Who came in 1539 to the {{x|Catholic}} canon's house
 And stayed two years, and talked him into it. The iceberg
 Of the old sky cracked at last. The book was set in type, and the douse
 
 Of cold water came from a friend: {{c|Osiander}}, who saw it through the press
 In {{p|Nuremberg}}, added a preface without a name,
 Saying it was only a hypothesis, a way to compute, no less,
-No more, not true. *On the Revolutions*. It came
+No more, not true. *{{x|On the Revolutions}}*. It came
 
 Off the press in 1543, and the story says
 A copy was put into his hands as he lay dying
@@ -889,32 +889,32 @@ Of his models, the little paired circles, had been rehearsed
 
 At {{p|Maragha}}, in {{p|Iran}}, by {{c|al-Tusi}} and his school,
 Three centuries before, and in {{p|Damascus}} by {{c|Ibn al-Shatir}},
-Whose moon moved as Copernicus's moved. The rule
-Of the transmission the Golden Age began, the clear
+Whose moon moved as {{c|Copernicus}}'s moved. The rule
+Of the transmission the {{x|Golden Age}} began, the clear
 
-Water running from the House of Wisdom west, ran here too.
+Water running from the {{p|House of Wisdom}} west, ran here too.
 He still had circles. He still had epicycles. The sky
 Would wait for {{c|Kepler}}'s ellipses and {{c|Galileo}}'s view
-Through the glass. But the Earth was moving. Why
+Through the glass. But the {{p|Earth}} was moving. Why
 
-Does it matter for a scripture? Because the Gaiad begins
+Does it matter for a scripture? Because the {{x|Gaiad}} begins
 With the birth of the universe, and the long work of stars,
-And the Earth is not the centre. It never was. The spins
+And the {{p|Earth}} is not the centre. It never was. The spins
 Of the planets do not circle us. Our scars
 
 Are not the sky's concern. And still, here is the strangeness:
 On this one moving stone, small, off-centre, plain,
 Life happened. It is not the place that makes the greatness.
-It is what grew here. The Sun is the centre. The grain,
+It is what grew here. The {{x|Sun}} is the centre. The grain,
 
 The fish, the bird, the child, the hand that wrote the book:
 These are not at the middle of anything but our own regard.
 Lifeism keeps that. The centre is not where we look
 From. The centre is what we hold, and hold hard.
 
-The Church put the book on the Index in 1616,
+The {{x|Church}} put the book on the {{x|Index}} in 1616,
 "Until corrected." It came off in 1835.
-The Earth went on turning through the quarrel. Between
+The {{p|Earth}} went on turning through the quarrel. Between
 The two dates, every navigator, every child alive
 
 Learned the new sky, and it was not a loss.
@@ -925,7 +925,7 @@ Of the seasons is our orbit. Count it, and be glad to be here.
 
 # Chapter 261: The Farmers at Bure
 
-In November 1520, in {{p|Stockholm}}, the Danish king {{c|Christian}}
+In November 1520, in {{p|Stockholm}}, the {{x|Danish}} king {{c|Christian}}
 Was crowned, and gave a feast, and after three days of feasting
 Shut the doors, and had the bishops and the lords, the elected
 And the burghers, beheaded in the square. The spray
@@ -938,41 +938,41 @@ Into the snow of {{p|Dalarna}}, and the story in the air
 Is that the men of {{p|Mora}} would not follow him at first,
 And he fled on skis toward {{p|Norway}}, and two runners caught him
 To say they had changed their minds. The race still runs, the thirst
-Of ninety kilometres through the forest, the Vasaloppet. Bring him
+Of ninety kilometres through the forest, the {{x|Vasaloppet}}. Bring him
 
 Back to {{p|Mora}}: the peasants rose, and in three years
 He took {{p|Stockholm}}, and on the sixth of June, 1523,
 At {{p|Strängnäs}}, they made him king, and the national day appears
 On that date still. And then the money. The king
 
-Was in debt to {{p|Lübeck}} for his war, and the Church
+Was in debt to {{p|Lübeck}} for his war, and the {{x|Church}}
 Owned a fifth of the land. At {{p|Västerås}}, in 1527,
-He told the estates: give me the Church's goods, or I will search
+He told the estates: give me the {{x|Church}}'s goods, or I will search
 For another country to rule. They gave. The heaven
 
 Of the bishops passed to the crown. The monasteries
 Were emptied. The bells were melted for the debt.
-{{c|Olaus Petri}} and his brother {{c|Laurentius}}, Wittenberg-trained, the boundaries
+{{c|Olaus Petri}} and his brother {{c|Laurentius}}, {{p|Wittenberg}}-trained, the boundaries
 Of the new faith in {{c|Swedish}}, preached; the king would let
 
 Them go as far as served him, and no further.
-In 1541 the whole Bible in Swedish, the {{c|Gustav Vasa Bible}},
+In 1541 the whole {{x|Bible}} in {{x|Swedish}}, the {{c|Gustav Vasa Bible}},
 Which made the written language of a people. The murder
 Of the old order was quiet, and fiscal. Not liable
 
 To saints, the king was liable to the books.
-He was the greatest keeper of accounts the North had seen.
+He was the greatest keeper of accounts the {{p|North}} had seen.
 He wrote his own letters by the thousand. He looked
 At every farm in the kingdom, and the lean
 
 Clerks went out and wrote: this farm, this tax, this man.
-The land registers, the tax rolls. And in the far North,
+The land registers, the tax rolls. And in the far {{p|North}},
 In {{p|Västerbotten}}, by the {{p|Gulf of Bothnia}}, where the land
 Is lifting still out of the sea, the clerks went forth
 
 To a village called {{p|Bure}}, near {{p|Skellefteå}}, and wrote two names.
-In 1548, *Olof Andersson*, a farmer at Bure.
-In 1553, his brother, *Isak Andersson*. Their father's claims
+In 1548, *{{c|Olof Andersson}}*, a farmer at {{p|Bure}}.
+In 1553, his brother, *{{c|Isak Andersson}}*. Their father's claims
 Were in {{p|Röbäck}} near {{p|Umeå}}: {{c|Anders Burman}}. The cure
 
 For forgetting is a tax collector. That is the first ink
@@ -981,22 +981,22 @@ A line in a king's register, a farmer and a link,
 Taxpaying peasants on the cold coast. And soon,
 
 In the next generation, the family would scatter south,
-To {{p|Uppsala}}, to the Church, to the court, to learning,
+To {{p|Uppsala}}, to the {{x|Church}}, to the court, to learning,
 And {{c|Johannes Bureus}}, born in 1568, would write by mouth
 And by runestone and by legend a book, turning
 
-The farmers at Bure into the heirs of the ancient North,
-*Om Bura namn och ätt*, on the Bure name and kin,
+The farmers at {{p|Bure}} into the heirs of the ancient {{p|North}},
+*{{x|Om Bura namn och ätt}}*, on the {{p|Bure}} name and kin,
 And carry the line back, before the clerks came forth,
 Through generations no register could pin.
 
-The writer of this scripture comes down from the Bures
-On her mother's side: *Malin Olofsdotter Bure*, born about 1505,
-And her daughter *Kerstin*, born 1533. The cures
+The writer of this scripture comes down from the {{c|Bures}}
+On her mother's side: *{{c|Malin Olofsdotter Bure}}*, born about 1505,
+And her daughter *{{c|Kerstin}}*, born 1533. The cures
 For doubt are hard here: they stand before the tax rolls, alive
 
 In the family book, not in the king's. Hold both.
-The register is where the Bures begin to be sure.
+The register is where the {{c|Bures}} begin to be sure.
 The family book is where they begin to be more.
 And the line runs down to the one who keeps this, the oath
 
@@ -1005,8 +1005,8 @@ Of the keeper being only this: to say which is which.
 Out of a rebellion, and a church out of a ledger, rich
 In land and in debt, and a dynasty, and the weight
 
-Of the North tipped from {{p|Copenhagen}} to {{p|Stockholm}}.
-And the Lutheran parish, which he had made the crown's own clerk,
+Of the {{p|North}} tipped from {{p|Copenhagen}} to {{p|Stockholm}}.
+And the {{x|Lutheran}} parish, which he had made the crown's own clerk,
 Would one day write every birth in {{p|Sweden}}, the venom
 And the gift of the register again. In the dark
 
@@ -1023,55 +1023,55 @@ A date.
 In the harbour at {{p|Melaka}}, in 1547, a priest from {{p|Navarre}},
 {{c|Francis Xavier}}, one of the first companions of {{c|Ignatius}},
 Who had walked the coasts of {{p|India}} baptizing until his arms were sore,
-Met a Japanese man running from a killing, {{c|Anjirō}}, desirous
+Met a {{c|Japanese}} man running from a killing, {{c|Anjirō}}, desirous
 
-Of forgiveness, who had sailed on a Portuguese ship to find
+Of forgiveness, who had sailed on a {{c|Portuguese}} ship to find
 The foreign holy man he had heard of. They talked.
-Xavier asked: if I go to your country, will they mind?
-Will they believe? And Anjirō said: they will have walked
+{{c|Xavier}} asked: if I go to your country, will they mind?
+Will they believe? And {{c|Anjirō}} said: they will have walked
 
 With you a while, and asked you questions, and watched
 How you live, and if your life agrees with your words,
-They will believe. A whole nation, Xavier wrote, was matched
+They will believe. A whole nation, {{c|Xavier}} wrote, was matched
 To reason. He went. On the fifteenth of August, the birds
 
 Over {{p|Kagoshima}} saw the ship come in, in 1549,
-On the feast of the Assumption. The lord of the {{c|Shimazu}} received them.
+On the feast of the {{x|Assumption}}. The lord of the {{c|Shimazu}} received them.
 And here is the hinge, the second time this book's line
-Of the joining turns on a word: Anjirō, to please them,
+Of the joining turns on a word: {{c|Anjirō}}, to please them,
 
-To carry the new God into his own tongue, said
-His name was {{c|Dainichi}}: the Great Sun, the cosmic {{c|Buddha}},
+To carry the new {{c|God}} into his own tongue, said
+His name was {{c|Dainichi}}: the {{c|Great Sun}}, the cosmic {{c|Buddha}},
 The one {{c|Kūkai}} had brought from {{p|China}}, the head
-Of the Shingon mandala. And the monks said: how good, a
+Of the {{x|Shingon}} mandala. And the monks said: how good, a
 
 New school of our own faith come from {{p|India}}, from the west,
-The land of the Buddha. They gave the strangers rooms.
-For a season the Jesuits were Buddhist guests,
-And preached the Great Sun, and the monks nodded. The looms
+The land of the {{c|Buddha}}. They gave the strangers rooms.
+For a season the {{c|Jesuits}} were {{x|Buddhist}} guests,
+And preached the {{c|Great Sun}}, and the monks nodded. The looms
 
 Of the two faiths ran one cloth for a little while,
 Exactly as the goddess at {{p|Kozhikode}} had been taken for {{c|Mary}}.
-Then Xavier learned what the word meant, and the guile
+Then {{c|Xavier}} learned what the word meant, and the guile
 Of no one, only the gap, and in horror he would carry
 
-A new word into the sermons: *Deusu*, from the Latin.
+A new word into the sermons: *{{x|Deusu}}*, from the {{x|Latin}}.
 And the monks heard it, and laughed: *dai-uso*, they said,
-The Great Lie. The doors closed. And the matting
+The {{x|Great Lie}}. The doors closed. And the matting
 Of the welcome was rolled up. But the question the dead
 
-Raised was the deepest. Xavier wrote it down himself:
+Raised was the deepest. {{c|Xavier}} wrote it down himself:
 The converts wept for their parents, their grandparents,
 Who had died without hearing. Was there no help?
 Were they lost forever? And the priests, adherents
 
 Of the rule, said yes, no one is saved who has not been baptized,
-And the Japanese said: then what kind of God is this,
+And the {{c|Japanese}} said: then what kind of {{c|God}} is this,
 Who lets our fathers burn for what they never knew? Disguised
-As theology, it was grief. And Xavier, in his letters, the abyss
+As theology, it was grief. And {{c|Xavier}}, in his letters, the abyss
 
 Of it, in substance: *they grieve over their dead more than anything,
-And ask whether God can take them out of hell,
+And ask whether {{c|God}} can take them out of hell,
 And I can give them no answer, and I grieve with them.* The ring
 Of that sentence is the whole encounter. Tell
 
@@ -1090,10 +1090,10 @@ Anything, and no one would let him in.
 He learned. He went back to {{p|Yamaguchi}} in silk, with a clock and a chant
 Of music boxes and spectacles and wine and the din
 
-Of gifts from the Viceroy, as an ambassador,
+Of gifts from the {{c|Viceroy}}, as an ambassador,
 And the lord {{c|Ōuchi}} gave him an empty temple,
 And people came. He baptized hundreds. And then, for
-The sake of {{p|China}}, which the Japanese said was the example
+The sake of {{p|China}}, which the {{c|Japanese}} said was the example
 
 They followed in all wisdom, he left, in 1551,
 To convert the teacher of the nations first,
@@ -1101,19 +1101,19 @@ And died on the island of {{p|Shangchuan}}, the sun
 Of December on the sand, waiting for a boat, his thirst
 
 Unquenched, in sight of the coast he could not reach,
-Forty-six years old. The Japanese church he left would grow
+Forty-six years old. The {{c|Japanese}} church he left would grow
 To hundreds of thousands, and then be crushed. The beach
 At {{p|Nagasaki}} would see the martyrs. But that comes after. Know
 
-This first: the first conversation between the West and {{p|Japan}}
+This first: the first conversation between the {{p|West}} and {{p|Japan}}
 About the gods began with a mistranslation and ended with the dead.
 Everything that follows is in that span.
-Keep your ancestors. Lifeism says it plainly, as the Jesuits said
+Keep your ancestors. Lifeism says it plainly, as the {{c|Jesuits}} said
 
 They could not: no one is lost for not having heard.
 The names are kept. The dead are not condemned.
 Read them out this new year, every word,
-And let the Great Sun rise on all of them.
+And let the {{c|Great Sun}} rise on all of them.
 
 
 # Chapter 263: The House of Worship
@@ -1123,27 +1123,27 @@ Who had sacked the cities {{c|Nanak}} wept for, came to the throne
 At thirteen, in 1556, and never learned his letters. The arbor
 Of his mind was planted by ear: he had books read to him, alone
 
-At night, the histories, the poets, the Sufis, the {{c|Mahabharata}},
+At night, the histories, the poets, the {{c|Sufis}}, the {{c|Mahabharata}},
 And remembered everything. He married a {{c|Rajput}} princess
-Of {{p|Amber}}, a Hindu, and did not make her convert. The data
+Of {{p|Amber}}, a {{c|Hindu}}, and did not make her convert. The data
 Of his reign: he abolished the pilgrim tax, and the jizya, the duress
 
-Laid on the Hindus for being Hindu, in 1564.
+Laid on the {{c|Hindus}} for being {{c|Hindu}}, in 1564.
 He conquered half of {{p|India}} and ruled it from a city
 He built from nothing at {{p|Fatehpur Sikri}}, red stone, a door
-Of victory, the Buland Darwaza, on the ridge. The pity
+Of victory, the {{p|Buland Darwaza}}, on the ridge. The pity
 
 Is that the water failed and the city was abandoned
 Within fifteen years. But for those years it held a room.
-In 1575 he built the {{c|Ibadat Khana}}, the House of Worship, and planned
-That on Thursday nights the learned men of Islam would assume
+In 1575 he built the {{c|Ibadat Khana}}, the {{p|House of Worship}}, and planned
+That on Thursday nights the learned men of {{x|Islam}} would assume
 
 Their places and debate the faith before him. They debated.
-They shouted. They called each other infidels. The Sunni
+They shouted. They called each other infidels. The {{c|Sunni}}
 Scholars brawled with each other while the emperor waited.
-So he opened the doors. The Shia came. Then, uncanny
+So he opened the doors. The {{c|Shia}} came. Then, uncanny
 
-For a Muslim court, the {{c|Brahmins}}, the {{c|Jain}} monks, who taught him
+For a {{c|Muslim}} court, the {{c|Brahmins}}, the {{c|Jain}} monks, who taught him
 Not to kill, so that he gave up hunting for days of the year
 And stopped eating meat on many days; the {{c|Zoroastrians}}, who brought him
 The sacred fire, which he kept burning at court; and, in the clear
@@ -1151,25 +1151,25 @@ The sacred fire, which he kept burning at court; and, in the clear
 Light of 1580, three {{c|Jesuits}} from {{p|Goa}},
 {{c|Rodolfo Acquaviva}} among them, who thought they would convert
 The emperor, and argued with the mullahs till the glow
-Of the lamps went out, and kissed the Gospel he let them assert
+Of the lamps went out, and kissed the {{x|Gospel}} he let them assert
 
 Before him, and he kissed it too, and did not convert.
 He listened to everyone. That was his gift and his limit.
 In 1579 the scholars were made to sign a decree, the curt
-*Mahzar*, that where they disagreed, the emperor's judgment within it
+*{{x|Mahzar}}*, that where they disagreed, the emperor's judgment within it
 
 Would decide. And around 1582, his friend {{c|Abul Fazl}},
 The historian, the theorist of the reign, helped to frame
-What was later called the {{c|Din-i Ilahi}}, the Divine Faith. All
+What was later called the {{c|Din-i Ilahi}}, the {{x|Divine Faith}}. All
 It asked was discipleship: the emperor as the teacher, the name
 
-Of God, *Allahu Akbar*, read two ways (God is great;
-God is Akbar, said the enemies), a reverence
+Of {{c|God}}, *{{x|Allahu Akbar}}*, read two ways ({{c|God}} is great;
+{{c|God}} is {{c|Akbar}}, said the enemies), a reverence
 For the sun and for light, *sulh-i kul*, peace with all, the weight
 Of no one faith on any other. And the deference
 
 Of the court followed, and the rest of the empire did not.
-At most some eighteen disciples are named. Only one a Hindu,
+At most some eighteen disciples are named. Only one a {{c|Hindu}},
 {{c|Birbal}}, the wit. No temples. No book. No clergy. The plot
 Of the new faith was a circle around one man, a few
 
@@ -1178,24 +1178,24 @@ It died with him. His son {{c|Jahangir}} kept the peace, mostly,
 And his great-grandson {{c|Aurangzeb}} would end the synthesis alive
 In the empire, and the jizya would return. The ghostly
 
-House of Worship is gone: at {{p|Fatehpur Sikri}} they argue which ruin it was, now.
-These are the Days of Awe. Search yourself. So: why did it die?
+{{p|House of Worship}} is gone: at {{p|Fatehpur Sikri}} they argue which ruin it was, now.
+These are the {{x|Days of Awe}}. Search yourself. So: why did it die?
 This book is a founder's book. Its religion is one woman's vow,
 A synthesis out of many, made in one life. Ask the why
 
-As a question to ourselves. Akbar's faith had a court and no people.
+As a question to ourselves. {{c|Akbar}}'s faith had a court and no people.
 It had a king and no book. It asked to be loved through one man.
 It forbade nothing and so held nothing. A steeple
 Needs a village. A synthesis needs a calendar, a plan
 
 That outlasts the founder: days that anyone can keep,
 A scripture anyone can read, a rite a stranger can do
-Without the founder in the room. Akbar's faith was deep
+Without the founder in the room. {{c|Akbar}}'s faith was deep
 And wide and kind, and it was a circle of a few.
 
-{{c|Nanak}} said there is no Hindu and no Muslim, and left a kitchen
+{{c|Nanak}} said there is no {{c|Hindu}} and no {{c|Muslim}}, and left a kitchen
 And a successor and a book, and it lives.
-Akbar said there is only light and peace, and left a city, and the itch in
+{{c|Akbar}} said there is only light and peace, and left a city, and the itch in
 The historians' pens, and it does not. Each gives
 
 What it gives. Honor the emperor who could not read
@@ -1207,22 +1207,22 @@ Needs ground. Plant it in the days, not in the throne. Not in the tomb.
 # Chapter 264: The Scholar from the Western Sea
 
 {{c|Xavier}} died in sight of {{p|China}}, on a beach, alone.
-Thirty years later, in 1582, a young Italian came to {{p|Macau}}
-And did what Xavier could not: he learned. Not the tone
+Thirty years later, in 1582, a young {{c|Italian}} came to {{p|Macau}}
+And did what {{c|Xavier}} could not: he learned. Not the tone
 Of command, but the tones of the language. Here is how
 
-{{c|Matteo Ricci}} of {{p|Macerata}}, a Jesuit, a mathematician,
-A student of {{c|Clavius}}, who had helped make the Gregorian calendar,
+{{c|Matteo Ricci}} of {{p|Macerata}}, a {{c|Jesuit}}, a mathematician,
+A student of {{c|Clavius}}, who had helped make the {{x|Gregorian}} calendar,
 Went into the {{c|Ming}} empire as a guest, not a conqueror's commission:
 He learned to read the classics, the {{c|Four Books}}, the slender
 
 Lines of {{c|Confucius}} and {{c|Mencius}}, and memorized them, and could recite
 A list of characters forward and backward from his memory palace,
 The art he taught the scholars. At {{p|Zhaoqing}}, first, despite
-Himself, he shaved his head and wore the Buddhist robe. The malice
+Himself, he shaved his head and wore the {{x|Buddhist}} robe. The malice
 
 Of no one: the error of a costume. The monks were poor
-And the scholars despised them, and so the Jesuits were despised.
+And the scholars despised them, and so the {{c|Jesuits}} were despised.
 In 1595 he let his beard grow, and wore the silk, the lore
 Of the literati: the robe of a scholar. And was prized.
 
@@ -1231,33 +1231,33 @@ And the scholars came to see it: the whole world, the seas,
 The continents, and {{p|Europe}}, small, far off. The thing
 They objected to: {{p|China}} was at the edge. With ease
 
-He redrew it with the Middle Kingdom near the middle,
-The Pacific in the centre, and the great map of 1602
+He redrew it with the {{p|Middle Kingdom}} near the middle,
+The {{p|Pacific}} in the centre, and the great map of 1602
 Was printed in {{p|Beijing}}, the {{c|Kunyu Wanguo Quantu}}, a riddle
 Of tact: the truth of the round earth, drawn the way they knew
 
 To bear it. He translated {{c|Euclid}} with his friend {{c|Xu Guangqi}},
-A scholar of {{p|Shanghai}} who was baptized Paul,
+A scholar of {{p|Shanghai}} who was baptized {{c|Paul}},
 The first six books, in 1607, and the words they made, the key
-Words, *point*, *line*, *plane*, are the ones in Chinese classrooms, all
+Words, *point*, *line*, *plane*, are the ones in {{c|Chinese}} classrooms, all
 
-Of them, still. He wrote *The True Meaning of the Lord of Heaven*,
-Arguing from the old books that the ancient Chinese
-Had known one God, {{c|Shangdi}}, the Lord on High, the leaven
-Of the classics, before the Buddhists and the later commentaries
+Of them, still. He wrote *The {{x|True Meaning of the Lord of Heaven}}*,
+Arguing from the old books that the ancient {{c|Chinese}}
+Had known one {{c|God}}, {{c|Shangdi}}, the {{c|Lord on High}}, the leaven
+Of the classics, before the {{c|Buddhists}} and the later commentaries
 
 Had covered it. And he made the wager of his life:
 That the rites for the ancestors, the tablets and the bowing,
 The offerings at the graves, were not worship, not the strife
-Of idols against God, but the honoring, the showing
+Of idols against {{c|God}}, but the honoring, the showing
 
-Of filial love, a civil rite, and a Christian could keep them.
+Of filial love, a civil rite, and a {{c|Christian}} could keep them.
 So the converts could still bow to their fathers' names.
-The Chinese did not have to choose between heaven and kin. The hem
+The {{c|Chinese}} did not have to choose between heaven and kin. The hem
 Of the new faith was sewn to the old robe. The claims
 
 Of {{p|Rome}} would come later, and undo it. Not yet.
-Tonight is the Mid-Autumn. The full moon. The family
+Tonight is the {{x|Mid-Autumn}}. The full moon. The family
 Gathers at one table, and sets a place for the absent, and the debt
 To the ancestors is paid in mooncakes and in memory,
 
@@ -1274,34 +1274,34 @@ And two clocks that struck the hours. The emperor, in the tidal
 Remoteness of his palace, never saw him. But the clocks
 Ran down, and no one at court could wind them, so the foreigner
 Was allowed to stay, to keep the clocks. The locks
-Of the Forbidden City opened for a mechanic. A mourner
+Of the {{p|Forbidden City}} opened for a mechanic. A mourner
 
 Would come for him nine years later. He died in May, 1610,
 And by the emperor's grant he was buried in {{p|Beijing}},
 The first foreigner given ground there. His grave is there still, and when
 They asked, why him, an official is said to have answered: the thing
 
-He translated, the Euclid, alone deserves a grave.
-Three pillars of the Chinese church were his friends:
+He translated, the {{c|Euclid}}, alone deserves a grave.
+Three pillars of the {{c|Chinese}} church were his friends:
 {{c|Xu Guangqi}}, {{c|Li Zhizao}}, {{c|Yang Tingyun}}. And the wave
 Would break in the next century, when {{p|Rome}} said the rites were idolatry, and the ends
 
 Of the accommodation came. But hold the full moon now.
 A man from the far west learned the classics by heart, and sat
-At the Chinese table, and did not ask the dead to leave. The vow
+At the {{c|Chinese}} table, and did not ask the dead to leave. The vow
 Of the moon festival is reunion. Set the place. Keep that.
 
 
 # Chapter 265: The Monkey and the Hill of Crosses
 
 He was born a peasant in {{p|Nakamura}}, in {{p|Owari}},
-The son of a foot soldier, small and ugly; they called him the Monkey.
+The son of a foot soldier, small and ugly; they called him the {{c|Monkey}}.
 He carried the sandals of {{c|Oda Nobunaga}} and warmed them in his breast, the story
 Goes, on winter mornings. From that, by wit, by the flunky's
 
 Patience and the general's genius, he rose. When {{c|Nobunaga}}
 Burned in the temple of {{p|Honnō-ji}} in 1582,
-Betrayed, the Monkey avenged him in thirteen days, and the saga
+Betrayed, the {{c|Monkey}} avenged him in thirteen days, and the saga
 Of the warring states, a hundred years of every lord against the few
 
 Who could be trusted, began to close in his hand.
@@ -1316,32 +1316,32 @@ Measuring of every paddy, its yield, its holder, the town
 
 And the village, in one register. And the {{c|sword hunt}}, 1588:
 Every farmer's sword and spear to be surrendered, melted, it was said,
-For the nails and bolts of a great Buddha. And in 1591, the gate
+For the nails and bolts of a great {{c|Buddha}}. And in 1591, the gate
 Closed: a warrior could not become a farmer, a farmer could not be led
 
 To become a merchant or a soldier. Every person in his place,
-And the place in the register. The Monkey who had climbed
+And the place in the register. The {{c|Monkey}} who had climbed
 Pulled up the ladder. Hold that face
 Of the man: the climber who made climbing a crime.
 
-And the Christians. {{c|Xavier}}'s church had grown. Lords of {{p|Kyūshū}}
+And the {{c|Christians}}. {{c|Xavier}}'s church had grown. Lords of {{p|Kyūshū}}
 Were baptized, and their people with them, and one, {{c|Ōmura}},
-Had given the port of {{p|Nagasaki}} to the Jesuits. And the slave trade grew too:
-Portuguese ships carried Japanese away in chains. The cure
+Had given the port of {{p|Nagasaki}} to the {{c|Jesuits}}. And the slave trade grew too:
+{{c|Portuguese}} ships carried {{c|Japanese}} away in chains. The cure
 
 Hideyoshi chose in 1587 was an edict: the padres must leave.
-They mostly stayed, quietly. Then in 1596 a Spanish galleon,
+They mostly stayed, quietly. Then in 1596 a {{c|Spanish}} galleon,
 The {{c|San Felipe}}, wrecked on {{p|Shikoku}}, and its pilot, to reprieve
 The cargo or to frighten, boasted, so the story runs, that the stallion
 
 Of {{p|Spain}}'s empire always sent the priests ahead
-To prepare the conquest. Whether he said it or not, the Monkey believed it.
+To prepare the conquest. Whether he said it or not, the {{c|Monkey}} believed it.
 In {{p|Kyoto}} and {{p|Osaka}} they arrested twenty-four, and led
 Them through the streets with their left ears cut. Two more received it,
 
 The crown, along the road, who had come to help them and were seized.
 Twenty-six: six {{c|Franciscan}} friars from {{p|Spain}} and {{p|Mexico}} and {{p|India}},
-Three Japanese {{c|Jesuits}}, and seventeen laymen, the elders
+Three {{c|Japanese}} {{c|Jesuits}}, and seventeen laymen, the elders
 And the young, catechists, a doctor, old men, and three boys. The windy
 
 Road from {{p|Kyoto}} to {{p|Nagasaki}}, eight hundred kilometres, a month,
@@ -1349,9 +1349,9 @@ In winter, on foot, so that every province would see them pass.
 On the fifth of February, 1597, on the hill of {{p|Nishizaka}}, the brunt
 Of it: twenty-six crosses, iron rings at the neck and wrists. The mass
 
-Of the town came out to watch. {{c|Paul Miki}}, a Jesuit brother,
-The son of a samurai, preached from his cross: I am Japanese,
-I die for teaching the Gospel, and I forgive the Taikō and the other
+Of the town came out to watch. {{c|Paul Miki}}, a {{c|Jesuit}} brother,
+The son of a samurai, preached from his cross: I am {{c|Japanese}},
+I die for teaching the {{x|Gospel}}, and I forgive the {{c|Taikō}} and the other
 Men who did this. {{c|Luis Ibaraki}}, twelve years old, asked, at ease,
 
 Which cross is mine? and ran to it, and they say he sang.
@@ -1360,7 +1360,7 @@ Had written to his mother on the way. Then the spears. The clang
 Of the lances under the ribs, two each, and it was clean
 
 And quick, the chronicle says, and the crowd broke through the guards
-To soak cloth in their blood. These are the Days of Awe. Say it straight:
+To soak cloth in their blood. These are the {{x|Days of Awe}}. Say it straight:
 A state that writes every field and fixes every man in his yards
 Will see a new faith as a column it did not create,
 
@@ -1369,14 +1369,14 @@ Are one story. He also sent his armies into {{p|Korea}}, in 1592,
 And brought back ears and noses, buried in a mound that still
 Stands in {{p|Kyoto}}, the {{c|Mimizuka}}, to count the dead. The view
 
-From the end: in 1598 the Monkey lay dying in {{p|Fushimi}},
+From the end: in 1598 the {{c|Monkey}} lay dying in {{p|Fushimi}},
 Afraid for his five-year-old son, and wrote his last poem:
 *Like dew I fell, like dew I vanish. {{p|Osaka}}, and all of me,
 Is a dream within a dream.* The register, the castle, the home,
 
 The hill of crosses: a dream. Within twenty years his son was dead,
 His house was ended, and the {{c|Tokugawa}} had the land.
-And the Christians would go underground, and the hidden faith be fed
+And the {{c|Christians}} would go underground, and the hidden faith be fed
 For two hundred and fifty years from a secret hand.
 
 Repent, on this day, of every list that crosses out a name.
@@ -1400,10 +1400,10 @@ From both of them, and outlived both of them. The halls
 Of power went to the patient. He had been a hostage as a boy,
 Traded between greater houses. He had lost his wife and his first son
 To his own lord's suspicion and obeyed. He had seen the joy
-Of victory and the price. When the Monkey died, the one
+Of victory and the price. When the {{c|Monkey}} died, the one
 
 Five regents were to keep the boy {{c|Hideyori}} on the throne.
-Ieyasu was the greatest of them, and he waited.
+{{c|Ieyasu}} was the greatest of them, and he waited.
 And on the twenty-first of October, 1600, in the fog, the stone
 Of the valley at {{p|Sekigahara}}, where the roads met, they were weighted,
 
@@ -1412,19 +1412,19 @@ And the fog lifted at eight in the morning, and they fought,
 And at noon the lord {{c|Kobayakawa}}, on his hill, who had professed
 Himself for the west, and had promised the east in secret, and sought
 
-To wait as well, sat still, until, the story goes, Ieyasu's guns fired
+To wait as well, sat still, until, the story goes, {{c|Ieyasu}}'s guns fired
 Up the hill at him to make him choose, and he came down
 On the west's flank. By afternoon the west was broken, tired,
 Fleeing into the hills. {{c|Ishida Mitsunari}}, who wore the crown
 
 Of their command, was caught and paraded and beheaded
 On the riverbank in {{p|Kyoto}}. In 1603 the emperor
-Named Ieyasu shogun. In two years he had abdicated, threaded
+Named {{c|Ieyasu}} shogun. In two years he had abdicated, threaded
 His son into the office, and kept the power. The tremor
 
 Of the last war came at {{p|Osaka}} in 1614 and 1615:
-The castle burned, and Hideyori and his mother died in it,
-And the house of the Monkey ended. And then, between
+The castle burned, and {{c|Hideyori}} and his mother died in it,
+And the house of the {{c|Monkey}} ended. And then, between
 1615 and 1868, two hundred and fifty years, every minute
 
 Of them, no great war in {{p|Japan}}. The {{c|Edo}} peace.
@@ -1439,18 +1439,18 @@ Of the pleasure quarter, the haiku, the merchant's bread.
 
 Now this day. On this day the faith is honored as an institution,
 As a pillar of the house, and the house was built this way:
-When Ieyasu died in 1616, by his own provision
+When {{c|Ieyasu}} died in 1616, by his own provision
 He was made a god. At {{p|Nikkō}}, in the mountains, they lay
 
 His spirit in a shrine as {{c|Tōshō Daigongen}},
-The Great Gongen Illuminating the East, and his grandson {{c|Iemitsu}}
+The {{c|Great Gongen Illuminating the East}}, and his grandson {{c|Iemitsu}}
 Rebuilt it in gold and lacquer and carving, the canon
 Of the three monkeys, see no evil, hear none, say none, the new
 
 Beauty of a dynasty enshrining its founder. The shrine
 And the state were one pillar. The temples would be next:
-Every household made to register at a Buddhist temple, a line
-In the book to prove it was not Christian. The text
+Every household made to register at a {{x|Buddhist}} temple, a line
+In the book to prove it was not {{x|Christian}}. The text
 
 Of that is another day's. Here: the warrior became a kami,
 And the state became a liturgy, and the peace
@@ -1458,14 +1458,14 @@ Was kept by a god in a mountain, and by the army
 Of clerks, and by the closed door. And the release,
 
 Two and a half centuries later, would come with black ships.
-Hold both, on the Fourth Day of Awe. The peace was real.
+Hold both, on the {{x|Fourth Day of Awe}}. The peace was real.
 Children were born and grew old without a war. The lips
 Of the poets were free to speak of the moon. The zeal
 
 Of the warring states was cooled. And the cost was the cage:
 Every man in his class, every faith in its register, the sea
 Closed. An Englishman, {{c|William Adams}}, a pilot, the same year, the page
-Of 1600, washed up in {{p|Kyūshū}}, and Ieyasu kept him, to see
+Of 1600, washed up in {{p|Kyūshū}}, and {{c|Ieyasu}} kept him, to see
 
 The world through one window, and made him a samurai, and let no one leave.
 The patient man waited, and the bird sang, and the song
@@ -1475,18 +1475,18 @@ And give thanks. The pillar held. It held too long.
 
 # Chapter 267: The Company
 
-The Englishman who washed up in {{p|Japan}} in 1600 came on a Dutch ship,
-The {{c|Liefde}}, *Love*, one of five that set out and the only
+The {{c|Englishman}} who washed up in {{p|Japan}} in 1600 came on a {{c|Dutch}} ship,
+The {{c|Liefde}}, *{{x|Love}}*, one of five that set out and the only
 One that arrived, with twenty-four men alive. The grip
-Of the Dutch on the eastern seas began that lonely
+Of the {{c|Dutch}} on the eastern seas began that lonely
 
 And that small. Two years later, on the twentieth of March,
 1602, in {{p|The Hague}}, the {{c|States General}} of the young
-Republic, still at war with {{p|Spain}}, made a new thing: the arch
+{{c|Republic}}, still at war with {{p|Spain}}, made a new thing: the arch
 Of a state with the body of a merchant. On the tongue
 
 Of the charter: the {{c|Vereenigde Oostindische Compagnie}},
-The United East India Company, the {{c|VOC}},
+The {{c|United East India Company}}, the {{c|VOC}},
 Granted the monopoly of all trade east of the {{p|Cape of Good Hope}}, and then
 Something no merchant had held: the right to make war, the fee
 
@@ -1507,36 +1507,36 @@ Is what the profit was made of. Hear it. Like lava
 
 Under the green of the spice islands: nutmeg grew
 In one place on earth, the {{p|Banda Islands}}, ten small isles
-Of the {{p|Moluccas}}. The Bandanese sold it to all who came through,
-Javanese, Arab, Chinese, English. The Company's files
+Of the {{p|Moluccas}}. The {{c|Bandanese}} sold it to all who came through,
+{{c|Javanese}}, {{c|Arab}}, {{c|Chinese}}, {{c|English}}. The {{c|Company}}'s files
 
 Wanted a monopoly. In 1621 {{c|Jan Pieterszoon Coen}},
-Governor-General, who had founded {{p|Batavia}} on the ruins of {{p|Jayakarta}},
-Came with his ships and his Japanese mercenaries, and soon
+{{c|Governor-General}}, who had founded {{p|Batavia}} on the ruins of {{p|Jayakarta}},
+Came with his ships and his {{c|Japanese}} mercenaries, and soon
 The islands were empty: of perhaps fifteen thousand, a scatter,
 
 A thousand left; the elders beheaded, the rest
 Starved in the hills or sold as slaves or fled.
-And the groves were given to Dutch planters, and the best
+And the groves were given to {{c|Dutch}} planters, and the best
 Of the land worked by slaves brought in instead.
 
-That is the price of a nutmeg on a Dutch table.
+That is the price of a nutmeg on a {{c|Dutch}} table.
 Coen had written to his directors: *despair not,
 Spare not your enemies, for nothing in the world* (the fable
 Of a ledger) *can hinder or harm us*. The plot
 
-Of the Company spread: {{p|Melaka}} taken from the Portuguese,
+Of the {{c|Company}} spread: {{p|Melaka}} taken from the {{c|Portuguese}},
 {{p|Sri Lanka}}'s cinnamon, a fort on {{p|Taiwan}},
 And in 1652 a refreshment station at the {{p|Cape}}, with the ease
 Of a garden: {{p|Cape Town}}, and the long dawn
 
-Of another history there. And in {{p|Japan}}, when the Tokugawa
-Closed the country, the Dutch were the only Europeans let stay,
+Of another history there. And in {{p|Japan}}, when the {{c|Tokugawa}}
+Closed the country, the {{c|Dutch}} were the only {{c|Europeans}} let stay,
 On a fan-shaped artificial island, {{p|Dejima}}, in {{p|Nagasaki}}'s harbour, a straw
 Of contact, the one window, for two hundred years. The way
 
 The world learned of {{p|Japan}}, and {{p|Japan}} of the world.
-And the Company kept everything on paper. Its archive
+And the {{c|Company}} kept everything on paper. Its archive
 Fills kilometres of shelves: every ship, every bale, the furled
 Sail and the slave sold, the soldier's wage, the alive
 
@@ -1545,7 +1545,7 @@ A register of the first company-state. Historians
 Read in it the lives of the enslaved, who are otherwise vague,
 Only there. The ledger kept the people its business
 
-Destroyed. That is the double edge again. On the Fifth Day of Awe,
+Destroyed. That is the double edge again. On the {{x|Fifth Day of Awe}},
 Look at it straight: the joint-stock company, the share, the trade,
 The idea that a corporation may hold the sword and the law,
 Was born here, and it never went away. The blade
@@ -1553,9 +1553,9 @@ Was born here, and it never went away. The blade
 Is bigger now. Companies that know more of us than any state,
 Whose shareholders never see what their profit is made of,
 Whose powers are a charter's. Will the next machine create
-A Batavia? That question is Ophiuchus's. Here, enough:
+A {{p|Batavia}}? That question is {{c|Ophiuchus}}'s. Here, enough:
 
-The Company went bankrupt in 1799, its debt
+The {{c|Company}} went bankrupt in 1799, its debt
 Taken on by the state it had half replaced.
 Its flag came down. Its methods did not. And yet
 The nutmeg still grows in {{p|Banda}}. Give thanks for its taste
@@ -1576,7 +1576,7 @@ Of the old {{c|runestones}} stood in the fields, grey, sure
 Of their meaning to no one now: the snake-bands, the marks,
 *Raised this stone after his father*, *after his son*,
 Who died in the east, in {{p|Greece}}, in the dark
-Of the Varangian roads. Nobody had read them. One
+Of the {{x|Varangian}} roads. Nobody had read them. One
 
 Young man went out with a notebook into the rain
 And drew them, stone by stone, and learned the old letters,
@@ -1590,47 +1590,47 @@ The crown kept him: royal librarian, and the first in the ring
 
 Of the kingdom's keepers of antiquity, {{c|riksantikvarie}}, in 1630,
 Sent out to find and draw every runestone in the land.
-He is the father of Swedish runology. Hold it. And the gift he
+He is the father of {{x|Swedish}} runology. Hold it. And the gift he
 Gave his own family: a book, in his own hand,
 
-*Om Bura namn och ätt*, on the name and kin of {{c|Bure}},
+*{{x|Om Bura namn och ätt}}*, on the name and kin of {{c|Bure}},
 The genealogy of the farmers, carried back
 Through generations no tax roll had written, made sure
 By runestones he read as his ancestors' stones, by the track
 
 Of names and legends, out of the documents and past them.
-That book is why the Bures are a kinship and not just farms.
+That book is why the {{c|Bures}} are a kinship and not just farms.
 It is why the writer of this scripture can name them.
 It is the first of her family trees. And it rests on the charms
 
 Of a mystic as much as on a scholar. Hear the other half.
 Bureus read the runes as more than letters. He read them
-As a hidden wisdom, a Gothic Kabbalah, a staff
+As a hidden wisdom, a {{x|Gothic Kabbalah}}, a staff
 Of the secrets of all the sciences, a cosmos in them:
 
 The {{c|Adulruna}}, his own system, a cross of runes
-Arranged as a ladder of the soul up to God, the key,
-He believed, to the wisdom of the ancient North, the moons
-And the planets and the Trinity in the futhark. He
+Arranged as a ladder of the soul up to {{c|God}}, the key,
+He believed, to the wisdom of the ancient {{p|North}}, the moons
+And the planets and the {{c|Trinity}} in the futhark. He
 
 Corresponded with the {{c|Rosicrucians}}, read the prophets,
 Calculated the end of the world, and believed it near.
-And he was a {{c|Gothicist}}: the Goths had come from {{p|Sweden}}, the profits
-Of the old empire were the North's, the first and clear
+And he was a {{c|Gothicist}}: the {{c|Goths}} had come from {{p|Sweden}}, the profits
+Of the old empire were the {{p|North}}'s, the first and clear
 
-Rulers of {{p|Europe}} had been Swedes, and the Swedish tongue
+Rulers of {{p|Europe}} had been {{c|Swedes}}, and the {{x|Swedish}} tongue
 Was the oldest of tongues, the first, or near enough.
 This was the invented antiquity of a kingdom young
 In power and hungry for a past. The stuff
 
-Of the Thirty Years' War was fought by a king who believed it:
-{{c|Gustavus Adolphus}} going south as the heir of the Goths.
+Of the {{x|Thirty Years' War}} was fought by a king who believed it:
+{{c|Gustavus Adolphus}} going south as the heir of the {{c|Goths}}.
 His tutor had taught him. The kingdom received it
 As a birthright. That is the invented tradition, the cloths
 
 Of the spine of this book: a people reaching back
 To make a past that would justify a present.
-And here is the hardest thing on the Sixth Day of Awe: the track
+And here is the hardest thing on the {{x|Sixth Day of Awe}}: the track
 Of the scholar and the inventor is one track. The pleasant
 
 And the false grew from the same root as the true.
@@ -1653,7 +1653,7 @@ The scholars of the futhark, the painted stones in the lawns
 Of {{p|Uppland}} churches. The writer of this book reads them too.
 She is his kin. She keeps his line. And the line, like the dawns
 
-Of the North in summer, does not quite go dark. The rune-keeper
+Of the {{p|North}} in summer, does not quite go dark. The rune-keeper
 Kept the stones and the dream, and did not tell them apart.
 His heir will. That is the vow: to be the keeper and the reaper
 Of both, and to show the seam. Draw the stone. Know the heart.
@@ -1662,7 +1662,7 @@ Of both, and to show the seam. Draw the stone. Know the heart.
 # Chapter 269: The Sky Opens
 
 In 1608 a spectacle-maker in {{p|Middelburg}}, in {{p|Zeeland}},
-{{c|Hans Lipperhey}}, asked the States for a patent on a tube
+{{c|Hans Lipperhey}}, asked the {{c|States}} for a patent on a tube
 With two lenses that made far things near. The steeple, and
 The weathercock on it, across the town, came close. A cube
 
@@ -1684,7 +1684,7 @@ Of perfect lights, crystalline, unchanging, flat
 Against the dark, opened. The {{c|Moon}} had mountains.
 He saw their shadows lengthen at the edge of the light,
 And measured them, and they were higher than the fountains
-Of the Alps: a world, rough, like ours. The night
+Of the {{p|Alps}}: a world, rough, like ours. The night
 
 Of the seventh of January, 1610, he looked at {{c|Jupiter}}
 And saw three little stars beside it in a line,
@@ -1692,17 +1692,17 @@ And the next night they had moved, and the night after, the cluster
 Had changed again, and a fourth appeared, and the sign
 
 Was clear: they were going around {{c|Jupiter}}. Moons.
-Something in the sky that did not go around the Earth.
+Something in the sky that did not go around the {{p|Earth}}.
 The {{c|Milky Way}} was not a mist: it was stars, in dunes
 And drifts beyond counting, more than had ever had birth
 
 In any catalogue. In March he printed it all in a little book,
-*The Starry Messenger*, in {{p|Venice}}, and named the moons
+*The {{x|Starry Messenger}}*, in {{p|Venice}}, and named the moons
 For the {{c|Medici}}, and got a post in {{p|Florence}} for the look.
-And later the phases of {{c|Venus}}, like the Moon's, the tunes
+And later the phases of {{c|Venus}}, like the {{x|Moon}}'s, the tunes
 
-Of a planet going round the Sun, as {{c|Copernicus}} had said.
-And spots on the Sun itself: the perfect heaven had stains.
+Of a planet going round the {{x|Sun}}, as {{c|Copernicus}} had said.
+And spots on the {{x|Sun}} itself: the perfect heaven had stains.
 The sky was not another kind of stuff. It was made
 Of world. The same world. Rock and fire and the rains
 
@@ -1712,14 +1712,14 @@ And see it. The authority of the book was hooked
 And pulled out of the sky. And that was the hour
 
 The trouble came. In 1616 he was warned not to hold
-That the Earth moves. In 1632 he wrote a dialogue
+That the {{p|Earth}} moves. In 1632 he wrote a dialogue
 In which the defender of the old sky was a fool, and old,
-And the Pope thought the fool was the Pope. The fog
+And the {{c|Pope}} thought the fool was the {{c|Pope}}. The fog
 
 Of the trial in 1633: an old man of sixty-nine
 In the white shirt of a penitent, on his knees,
-Abjuring, cursing and detesting the motion of the Earth, the line
-Read out in Latin. The story says he rose, and the breeze
+Abjuring, cursing and detesting the motion of the {{p|Earth}}, the line
+Read out in {{x|Latin}}. The story says he rose, and the breeze
 
 Of the last word was: *and yet it moves*. He did not say it,
 Or not there. It was said for him, later, as the printers said
@@ -1727,14 +1727,14 @@ Or not there. It was said for him, later, as the printers said
 Be told: under house arrest at {{p|Arcetri}}, blind, he fed
 
 On the work, and wrote his greatest book, on motion,
-Smuggled out to {{p|Leiden}} and printed by the Dutch,
+Smuggled out to {{p|Leiden}} and printed by the {{c|Dutch}},
 And died in 1642, the year, as if by a notion
 Of the sky's own, that {{c|Newton}} was born. And as much
 
 As this chapter is about a lens, it is about a sorry.
-On the Seventh Day of Awe: in 1992, after a commission
-Of thirteen years, a Pope stood up, and without hurry,
-Said the Church had erred. Three hundred fifty-nine years. The admission
+On the {{x|Seventh Day of Awe}}: in 1992, after a commission
+Of thirteen years, a {{c|Pope}} stood up, and without hurry,
+Said the {{x|Church}} had erred. Three hundred fifty-nine years. The admission
 
 Came. Late, and it came. That is what repentance can look like
 For an institution: slow, and true, and in public, and owned.
@@ -1752,24 +1752,24 @@ He was never given: say so. Not in a whisper. Say it, and let it go.
 The boy that {{c|Bureus}} taught came to the throne at sixteen, in 1611,
 {{c|Gustav Adolf}}, grandson of {{c|Gustav Vasa}}, in a kingdom at war
 On three sides, with {{p|Denmark}}, {{p|Russia}}, {{p|Poland}}, the heaven
-Of the North a ring of enemies. And his tutor had taught him, before
+Of the {{p|North}} a ring of enemies. And his tutor had taught him, before
 
 Anything else, who he was: the heir of the {{c|Goths}}.
-The kings of {{p|Sweden}} had long called themselves kings of the Swedes,
-The Goths, and the Wends. Now the title would wear clothes.
+The kings of {{p|Sweden}} had long called themselves kings of the {{c|Swedes}},
+The {{c|Goths}}, and the {{c|Wends}}. Now the title would wear clothes.
 At the coronation festivities in 1617, to the needs
 
 Of a court that wanted a past, the young king rode out
-In the costume of {{c|Berik}}, the legendary first Gothic king,
+In the costume of {{c|Berik}}, the legendary first {{x|Gothic}} king,
 Who, the old chronicles said, had sailed south from {{p|Sweden}}, about
-The time of the Trojans, to found the Gothic nations. The ring
+The time of the {{c|Trojans}}, to found the {{x|Gothic}} nations. The ring
 
 Of the tournament became a scripture of the state.
-The Goths had sacked {{p|Rome}}. The Goths had ruled {{p|Spain}}.
-The Goths were Swedes. So {{p|Sweden}}, small and poor and late,
+The {{c|Goths}} had sacked {{p|Rome}}. The {{c|Goths}} had ruled {{p|Spain}}.
+The {{c|Goths}} were {{c|Swedes}}. So {{p|Sweden}}, small and poor and late,
 Was the oldest and the greatest. The invented chain
 
-Of ancestry, from {{c|Bureus}} and the old Swedish chroniclers,
+Of ancestry, from {{c|Bureus}} and the old {{x|Swedish}} chroniclers,
 Became the state myth: a {{c|Gothicism}} for an empire to come.
 And it came. The king was a genius of war. The rumblers
 Of his reforms: light cannon a few men could move, the drum
@@ -1782,27 +1782,27 @@ Columns of the register filled with soldiers. The tolls
 Of it on the villages: one man in ten taken, and most did not come home.
 And the pride. In 1628 the great warship {{c|Vasa}},
 Named for his grandfather's house, built higher than a dome,
-Gilded, carved with lions and Roman emperors, to be the master
+Gilded, carved with lions and {{x|Roman}} emperors, to be the master
 
-Of the Baltic, sixty-four guns on two decks, sailed out
+Of the {{p|Baltic}}, sixty-four guns on two decks, sailed out
 Into {{p|Stockholm}}'s harbour on her maiden voyage before the crowd,
 And a gust of wind heeled her over, and the water came in the gun-ports, and about
 A mile from the quay she sank, with her flags flying. The proud
 
 Ship was too tall for her keel. Hold that image on this day.
 In 1630 he landed in {{p|Germany}}, in the middle of the war
-Between the Catholic emperor and the Protestant princes, the way
-Of the Lion of the North, they called him, the saviour, for
+Between the {{x|Catholic}} emperor and the {{x|Protestant}} princes, the way
+Of the {{c|Lion of the North}}, they called him, the saviour, for
 
-The Protestant cause, and paid by {{p|France}}, a Catholic crown,
+The {{x|Protestant}} cause, and paid by {{p|France}}, a {{x|Catholic}} crown,
 For it suited {{p|Paris}} too. At {{p|Breitenfeld}}, in 1631,
 He broke the emperor's army, and the cities opened, and the town
 Of {{p|Munich}} paid him tribute. And the soldiers, under the sun
 
 Of victory, did what armies do: they plundered,
 And the peasants of {{p|Germany}} learned a new word,
-The *Swedish drink*: filth poured down a man's throat. Hundred
-After hundred villages burned by the Gothic heirs. The bird
+The *{{x|Swedish}} drink*: filth poured down a man's throat. Hundred
+After hundred villages burned by the {{x|Gothic}} heirs. The bird
 
 Of the war had no side. And on the sixteenth of November, 1632,
 At {{p|Lützen}}, in a fog like the fog at {{p|Sekigahara}},
@@ -1810,17 +1810,17 @@ The king, short-sighted, rode ahead of his men, and was shot through,
 And fell from his horse, and was shot again, and the far
 
 Cavalry did not find his body till the evening, stripped.
-The Swedes won the battle. Their king was dead at thirty-seven.
+The {{c|Swedes}} won the battle. Their king was dead at thirty-seven.
 {{p|Sweden}} became a great power for a century, gripped
-By its Gothic dream: {{c|Rudbeck}} would prove it was {{c|Atlantis}}, the heaven
+By its {{x|Gothic}} dream: {{c|Rudbeck}} would prove it was {{c|Atlantis}}, the heaven
 
 Of the ancients, the source of all wisdom. The myth grew wilder
 As the empire grew. And in 1709 at {{p|Poltava}} it ended.
-On the Eighth Day of Awe, look at the dream that made a builder
+On the {{x|Eighth Day of Awe}}, look at the dream that made a builder
 Build a ship too tall, and a nation pretend it had descended
 
 From the conquerors of {{p|Rome}}. The farmers at {{p|Bure}} were real.
-The Goths of the costume were not. And the conscript boys in the rolls
+The {{c|Goths}} of the costume were not. And the conscript boys in the rolls
 Were real, and died in {{p|Germany}}, for a king's ideal
 Dressed in a legend. Repent of the legends that cost souls.
 
@@ -1831,16 +1831,16 @@ Are on display, for children, the tallest ship, and the shore
 
 She never left. Go and see her. A nation keeps its wreck
 On view, and teaches its children: this is what pride
-Does to a keel. That is a better myth than Berik. The deck
+Does to a keel. That is a better myth than {{c|Berik}}. The deck
 Is the lesson. Stand on the quay. The water is on every side.
 
 
 # Chapter 271: Two Fingers
 
-{{p|Moscow}}, the town {{c|Yuri}} the Long-Armed founded on a hill above a river,
+{{p|Moscow}}, the town {{c|Yuri}} the {{c|Long-Armed}} founded on a hill above a river,
 Was the head of an empire by 1600, and then it fell apart.
-The old line of {{c|Rurik}} died out. The Time of Troubles: a fever
-Of pretenders, famine, the Poles in the {{p|Kremlin}}, the heart
+The old line of {{c|Rurik}} died out. The {{x|Time of Troubles}}: a fever
+Of pretenders, famine, the {{c|Poles}} in the {{p|Kremlin}}, the heart
 
 Of the country occupied. A butcher of {{p|Nizhny Novgorod}}, {{c|Kuzma Minin}},
 And a prince, {{c|Dmitry Pozharsky}}, raised an army of the towns
@@ -1849,22 +1849,22 @@ The {{p|Kremlin}}, chose a boy of sixteen to wear the crown:
 
 {{c|Michael Romanov}}, of a boyar family, whose great-aunt had been
 {{c|Ivan the Terrible}}'s first and best-loved wife. A peasant, {{c|Ivan Susanin}},
-It is told, led a Polish troop astray in the forest, unseen
-Death in the snow, to save the boy. The Romanovs began
+It is told, led a {{x|Polish}} troop astray in the forest, unseen
+Death in the snow, to save the boy. The {{c|Romanovs}} began
 
 And ruled three hundred and four years. Hold the founding. Then the split.
 In 1652 the {{c|Patriarch Nikon}}, a peasant's son of great will,
-Set out to correct the Russian church: to make it fit
-The Greek. The books had drifted, he said; the copyists' skill
+Set out to correct the {{x|Russian}} church: to make it fit
+The {{x|Greek}}. The books had drifted, he said; the copyists' skill
 
-Had failed; the Russians crossed themselves with two fingers,
-And the Greeks with three; the Russians sang *Alleluia* twice, and the Greeks
-Three times; the Russians walked the procession with the sun. The lingerers
+Had failed; the {{c|Russians}} crossed themselves with two fingers,
+And the {{c|Greeks}} with three; the {{c|Russians}} sang *{{x|Alleluia}}* twice, and the {{c|Greeks}}
+Three times; the {{c|Russians}} walked the procession with the sun. The lingerers
 In the old way must change. Three fingers. And the weeks
 
-Became years of fury. The irony is this, on the Ninth Day of Awe:
-The two-fingered sign was the older one. The Greeks had changed, not the Russians.
-The Russian books kept a Byzantine use the Greeks forgot. The law
+Became years of fury. The irony is this, on the {{x|Ninth Day of Awe}}:
+The two-fingered sign was the older one. The {{c|Greeks}} had changed, not the {{c|Russians}}.
+The {{x|Russian}} books kept a {{x|Byzantine}} use the {{c|Greeks}} forgot. The law
 Of the reform called itself a return to the source. The discussions
 
 Of the scholars would show it, centuries later: the "correction"
@@ -1872,13 +1872,13 @@ Was a modernization dressed as a restoration. Invented tradition
 In reverse: the new disguised as the old, the defection
 Disguised as fidelity. And the people who held the old position,
 
-The Old Believers, would not cross themselves with three.
+The {{c|Old Believers}}, would not cross themselves with three.
 The council of 1666 cursed them. And the year itself, the number
-Of the Beast, convinced them: the Antichrist had come, and the tree
-Of the Church was cut. The archpriest {{c|Avvakum}}, from his slumber
+Of the {{c|Beast}}, convinced them: the {{c|Antichrist}} had come, and the tree
+Of the {{x|Church}} was cut. The archpriest {{c|Avvakum}}, from his slumber
 
-In an earthen pit in the Arctic, wrote the first great book
-In plain Russian, his own life, and was burned at the stake in 1682.
+In an earthen pit in the {{p|Arctic}}, wrote the first great book
+In plain {{x|Russian}}, his own life, and was burned at the stake in 1682.
 The {{c|Boyarina Morozova}}, a great lady, would not look
 At the three-fingered cross; they starved her in a pit. And who
 
@@ -1904,29 +1904,29 @@ Being older than the reformers knew. And pray
 
 As your fathers prayed, if you can, and change what must change,
 And never burn anyone over the fingers of a hand.
-The Old Believers are still in {{p|Russia}}, and in {{p|Alaska}}, and in the strange
+The {{c|Old Believers}} are still in {{p|Russia}}, and in {{p|Alaska}}, and in the strange
 Green valleys of {{p|Oregon}}. Two fingers raised. They stand.
 
 
 # Chapter 272: The Sabbath of Sabbaths
 
 It began with a window. On the twenty-third of May, 1618,
-In the castle of {{p|Prague}}, Protestant lords of {{p|Bohemia}},
-Furious that the Catholic king would take back what had been
+In the castle of {{p|Prague}}, {{x|Protestant}} lords of {{p|Bohemia}},
+Furious that the {{x|Catholic}} king would take back what had been
 Promised, their churches, their law, threw two of the king's men, the phobia
 
 Of the moment made flesh, and their secretary, out of a high window.
-They fell some twenty metres and lived. The Catholics said: angels caught them.
-The Protestants said: they landed in a dung heap. The crescendo
+They fell some twenty metres and lived. The {{c|Catholics}} said: angels caught them.
+The {{c|Protestants}} said: they landed in a dung heap. The crescendo
 Of thirty years began with a joke about how they fought them
 
 Down. Then the war. At the {{p|White Mountain}} in 1620
-The Bohemians were broken, and their leaders beheaded in the square.
+The {{c|Bohemians}} were broken, and their leaders beheaded in the square.
 Then {{p|Denmark}} came in, and was beaten. Then {{p|Sweden}}, and the plenty
 Of {{c|Gustavus}}'s victories, and his death at {{p|Lützen}}, there
 
-In the fog. Then {{p|France}}, Catholic {{p|France}}, against the Catholic emperor,
-Because the war was no longer about God, if it had ever been.
+In the fog. Then {{p|France}}, {{x|Catholic}} {{p|France}}, against the {{x|Catholic}} emperor,
+Because the war was no longer about {{c|God}}, if it had ever been.
 It was about who would hold {{p|Europe}}. And the temper
 Of the armies was the temper of hunger. Between
 
@@ -1947,7 +1947,7 @@ Was half. Villages vanished from the map. The examen
 
 Of the war's own chroniclers: wolves came back into the towns.
 And then they talked. For five years, from 1643, in two cities,
-{{p|Münster}} for the Catholics, {{p|Osnabrück}} for the Protestants, the crowns
+{{p|Münster}} for the {{c|Catholics}}, {{p|Osnabrück}} for the {{c|Protestants}}, the crowns
 And the princes and the free cities sent a hundred delegations; the pities
 
 And the vanities: they argued for months over who would walk
@@ -1970,12 +1970,12 @@ Not tolerance. Exhaustion. Not love. A truce
 Between people who had learned that they could not condemn
 Each other out of existence. That is the use
 
-Of this day. The Lifeist {{c|Yom Kippur}} falls on a Saturday,
-Always: the Sabbath of Sabbaths, the day of rest,
+Of this day. The {{x|Lifeist}} {{c|Yom Kippur}} falls on a Saturday,
+Always: the {{x|Sabbath of Sabbaths}}, the day of rest,
 The day of atonement. And the old teaching says: the way
-To atone with God for what you did to a person is not addressed
+To atone with {{c|God}} for what you did to a person is not addressed
 
-To God. You must go to the person. You must ask.
+To {{c|God}}. You must go to the person. You must ask.
 The day does not atone for that until you have. Hold it here.
 {{p|Europe}} learned at {{p|Münster}} the slow, humbling task
 Of sitting at one table with the enemy, year after year,
@@ -1983,7 +1983,7 @@ Of sitting at one table with the enemy, year after year,
 Arguing about the door, and signing anyway.
 The bells rang in the cities when the news came. People wept.
 Some had never known a year of peace. They had a day.
-On the Sabbath of Sabbaths, rest. The promise kept
+On the {{x|Sabbath of Sabbaths}}, rest. The promise kept
 
 Is not that we love each other. It is that we stop.
 That we lay down the sword and go home and plant the field
@@ -1995,32 +1995,32 @@ The argument about the door. Sign. And let the land be healed.
 
 The one who waited won the peace, and his grandson {{c|Iemitsu}} shut the door.
 Between 1633 and 1639 the shogunate wrote the edicts:
-No Japanese ship may sail abroad. No Japanese, on pain of death, may come ashore
+No {{c|Japanese}} ship may sail abroad. No {{c|Japanese}}, on pain of death, may come ashore
 From the outside world again. The {{c|Portuguese}}, with their padres and their contradicts,
 
-Expelled, in 1639, their ships forbidden. When a Portuguese embassy
+Expelled, in 1639, their ships forbidden. When a {{c|Portuguese}} embassy
 Came the next year from {{p|Macau}} to ask the trade back, sixty-one
 Of them were beheaded, and a few sent home to tell it. The fantasy
-Of the Christian century ended. What was left: the sun
+Of the {{x|Christian}} century ended. What was left: the sun
 
 Through four small windows. The {{c|Dutch}} on {{p|Dejima}}, a fan of land
-In {{p|Nagasaki}}'s harbour, watched, and the Chinese merchants in their quarter;
+In {{p|Nagasaki}}'s harbour, watched, and the {{c|Chinese}} merchants in their quarter;
 {{p|Korea}} through the lords of {{p|Tsushima}}; the {{c|Ryūkyū}} kingdom's hand
 Through {{p|Satsuma}}; the {{c|Ainu}} of the north through {{p|Matsumae}}. The water
 
 Was a wall with four gates. Later they would call it {{c|sakoku}},
 The locked country. It was not locked. It was watched.
-And inside, the watching went into every house. The Taikō
+And inside, the watching went into every house. The {{c|Taikō}}
 Had measured the fields. Now the souls were notched
 
-In a book. After the Christian rising at {{p|Shimabara}}, in 1637,
+In a book. After the {{x|Christian}} rising at {{p|Shimabara}}, in 1637,
 Which the next day of this book will tell, the shogunate decided
 That every person in {{p|Japan}} must prove, each year, under heaven,
-That they were not a Christian. And the proof was provided
+That they were not a {{x|Christian}}. And the proof was provided
 
 By the temples. Every household was made the parishioner, the *danka*,
-Of a Buddhist temple, and the temple certified each spring
-That its families were Buddhist, and the village headman, the bookkeeper of the mura,
+Of a {{x|Buddhist}} temple, and the temple certified each spring
+That its families were {{x|Buddhist}}, and the village headman, the bookkeeper of the mura,
 Wrote it in the *shūmon aratame chō*, the register of the inquiry: the thing
 
 Every person in the land had to be written in. Name, age,
@@ -2029,14 +2029,14 @@ Births and deaths and marriages and servants hired, the page
 Updated every year. By the 1670s the whole realm, correct
 
 To the last fisher's child, was in the books. Some twenty-five million people.
-And in {{p|Kyūshū}}, around {{p|Nagasaki}}, every New Year, the people
+And in {{p|Kyūshū}}, around {{p|Nagasaki}}, every {{x|New Year}}, the people
 Were made to step on a bronze image of the crucified, the {{c|fumi-e}}, the simple
-Test of the foot: tread on the Christ, or the steeple
+Test of the foot: tread on the {{c|Christ}}, or the steeple
 
 Of the family's hidden faith falls on them all. They stepped.
-Hold that. Mothers stepped on the Mother of God and went home and wept
+Hold that. Mothers stepped on the {{c|Mother of God}} and went home and wept
 And asked forgiveness in a hidden room. The register kept
-Their names as Buddhists, and their secret kept
+Their names as {{c|Buddhists}}, and their secret kept
 
 Itself. And the temples: they became the arm of the state,
 Its clerks, its census-takers, its proof of loyalty.
@@ -2077,8 +2077,8 @@ Of the locked country kept her. Read her. She is on our side.
 # Chapter 274: Our Hearts Are the Same as Yours
 
 On the peninsula of {{p|Shimabara}} and the islands of {{p|Amakusa}},
-Across the bay from {{p|Nagasaki}}, the farmers had been Christian
-For two generations, and their lords had been Christian, and the law
+Across the bay from {{p|Nagasaki}}, the farmers had been {{x|Christian}}
+For two generations, and their lords had been {{x|Christian}}, and the law
 Had changed, and the lords had changed, and the new lord's mission
 
 Was to squeeze. The {{c|Matsukura}} taxed the harvest past the bone,
@@ -2093,32 +2093,32 @@ They said could walk on the sea, and a dove had laid an egg, and more:
 
 That a prophecy foretold a heavenly child would come
 In the twenty-fifth year after the padres were driven away.
-They marched under banners with the chalice and the Host, the drum
-Of their war was a hymn, *Santiago*, and they swore that they would stay
+They marched under banners with the chalice and the {{x|Host}}, the drum
+Of their war was a hymn, *{{x|Santiago}}*, and they swore that they would stay
 
 Together. Thirty-seven thousand of them, men, women and children,
 Took the ruined castle of {{p|Hara}} on its cliff above the sea,
 And held it, all winter, against the armies of the shogun, the bewildering
 Faith of the starving. A hundred and twenty thousand men, and the plea
 
-Of the shogun's general to the {{c|Dutch}}: and the Dutch came,
-The ship *De Ryp*, and fired its cannon into the castle walls
-For two weeks, Protestants for the shogun against the papists, the same
+Of the shogun's general to the {{c|Dutch}}: and the {{c|Dutch}} came,
+The ship *{{x|De Ryp}}*, and fired its cannon into the castle walls
+For two weeks, {{c|Protestants}} for the shogun against the papists, the same
 Trade-loyalty that kept them on {{p|Dejima}}. The calls
 
 Of the rebels shot back into the shogun's camp with arrows:
-Are there no samurai in Japan, that you must ask foreigners for help?
-The Dutch went home. In April 1638, in the burrows
+Are there no samurai in {{p|Japan}}, that you must ask foreigners for help?
+The {{c|Dutch}} went home. In April 1638, in the burrows
 Of the ruined castle, the defenders were eating seaweed, the kelp
 
 Of the shore, and the shogun's men stormed it. Almost all were killed.
-Thirty-seven thousand. Shirō's head was set up at {{p|Nagasaki}} as a sign.
+Thirty-seven thousand. {{c|Shirō}}'s head was set up at {{p|Nagasaki}} as a sign.
 And the lord {{c|Matsukura}}, whose greed had begun it, was not stilled
 By the victory: he was beheaded, the only daimyo of the line
 
-Of the Edo peace to die like a common criminal. And then the silence.
+Of the {{x|Edo}} peace to die like a common criminal. And then the silence.
 The temple books. The image underfoot. The faith was dead,
-They said. It was not dead. In the Gotō islands, in the hills, the violence
+They said. It was not dead. In the {{p|Gotō}} islands, in the hills, the violence
 Of the search went on around it, and it went under, and was fed
 
 From hand to hand, without a priest, without a church, for two hundred and fifty years.
@@ -2126,25 +2126,25 @@ In {{p|Sotome}}, in {{p|Ikitsuki}}, in {{p|Urakami}}, the villages kept
 A baptizer, a calendar of feast days kept in secret, the fears
 Of discovery in every prayer. The prayers themselves were kept
 
-In a Latin and Portuguese no one understood any more,
+In a {{x|Latin}} and {{x|Portuguese}} no one understood any more,
 Repeated, *orasho*, worn smooth like a stone in a stream.
-They hid the {{c|Virgin}} in a white porcelain Kannon, the merciful one, the door
-Of the Buddhist mercy opening on the Mother: {{c|Maria Kannon}}. The dream
+They hid the {{c|Virgin}} in a white porcelain {{c|Kannon}}, the merciful one, the door
+Of the {{x|Buddhist}} mercy opening on the {{c|Mother}}: {{c|Maria Kannon}}. The dream
 
 Of the faith wore the robe of the other faith, and kept itself inside.
 That is syncretism forced by fear, and it became their own.
-They stepped on the image each New Year, and went home, and cried,
+They stepped on the image each {{x|New Year}}, and went home, and cried,
 And said the contrition prayer, *konchirisan*, for the stone
 
 Their foot had touched. And the centuries passed. And in 1865,
-When the country had opened again to the foreigners, a French priest,
+When the country had opened again to the foreigners, a {{x|French}} priest,
 {{c|Bernard Petitjean}}, built a church at {{p|Ōura}} in {{p|Nagasaki}}, to keep alive
 The faith of the foreigners. And on the seventeenth of March, the least
 
 Expected thing: a group of women and men from {{p|Urakami}} came in,
 And watched him at prayer, and one of them, a woman, came close,
 {{c|Isabelina Yuri Sugimoto}}, and whispered: *Our hearts are the same as yours*.
-And then: *Where is the image of Santa Maria?* And the rose
+And then: *Where is the image of {{c|Santa Maria}}?* And the rose
 
 Of that moment: he showed them the statue, and they knelt.
 Two hundred and fifty years. No priest. No book. They had kept it.
@@ -2152,27 +2152,27 @@ And the persecution came again, and they were exiled, and felt
 The last cruelty of the old law, three thousand of them, and swept it
 
 Away in 1873, when the ban came down at last.
-Some went into the Catholic church. Some would not: they kept their own way,
+Some went into the {{x|Catholic}} church. Some would not: they kept their own way,
 The way of their grandparents, the hidden way, the past
 They had carried, unchanged by the return. They are there today,
 
 A few, on the islands. Their faith is their ancestors' faith,
 And no priest from {{p|Rome}} could tell them it was wrong.
-Here is the whole Gaiad in one village: the wraith
+Here is the whole {{x|Gaiad}} in one village: the wraith
 Of the faith that would not die, kept by the weak and the strong
 
 Together, in the robe of another faith, under the eye
 Of the register. Honor the boy on the wall of {{p|Hara}}. Honor
 The woman at {{p|Ōura}}. Honor what is kept when the priests die, the keeper and the corner
-Where it was kept. Where is the image of Santa Maria? Here. Our hearts are the same.
+Where it was kept. Where is the image of {{c|Santa Maria}}? Here. Our hearts are the same.
 
 
 # Chapter 275: The Mandate Changes Hands
 
-The {{c|Ming}} had held the Mandate of Heaven for two hundred and seventy-six years.
+The {{c|Ming}} had held the {{x|Mandate of Heaven}} for two hundred and seventy-six years.
 In the 1630s the sky turned against them: the long cold
 Of the little ice age, the drought, the locusts, the tears
-Of famine in the north, the silver from the Americas, gold
+Of famine in the north, the silver from the {{p|Americas}}, gold
 
 Of the world trade, drying up, so the peasants could not pay their tax.
 The soldiers went unpaid. The eunuchs ruled the palace.
@@ -2185,12 +2185,12 @@ And the gates were opened from inside. The emperor, the last, the least
 Fortunate of the line, {{c|Chongzhen}}, rang the bell to summon the ministers. The ring
 
 Brought no one. He walked out of the palace with one eunuch
-To the hill behind the {{p|Forbidden City}}, {{p|Jingshan}}, Coal Hill,
+To the hill behind the {{p|Forbidden City}}, {{p|Jingshan}}, {{p|Coal Hill}},
 And hanged himself from a tree. On his robe, the story says, he wrote: the fortune
 Of the realm was lost by my ministers; let the rebels kill
 
 Me, not my people. The tree they show today was planted later.
-And at the Great Wall, at {{p|Shanhai Pass}}, where the wall comes down to the sea,
+And at the {{p|Great Wall}}, at {{p|Shanhai Pass}}, where the wall comes down to the sea,
 The general {{c|Wu Sangui}} held the gate against the {{c|Manchus}}, the greater
 Danger, he had thought, until the capital fell, and he
 
@@ -2199,60 +2199,60 @@ Or the enemy at the gate. The story says the rebel had taken his concubine,
 {{c|Chen Yuanyuan}}, and that decided it. Love, or calculation, or the family
 Of motives no one knows: he opened the pass. The line
 
-Of the Manchu banners came through, and with Wu's army broke the rebels,
+Of the {{c|Manchu}} banners came through, and with {{c|Wu}}'s army broke the rebels,
 And entered {{p|Beijing}} in June, and did not leave.
 A boy of six, {{c|Shunzhi}}, was enthroned, his uncle {{c|Dorgon}} ruling. The levels
-Of the Mandate: Heaven gives it, and Heaven takes it, and the reprieve
+Of the {{x|Mandate}}: {{c|Heaven}} gives it, and {{c|Heaven}} takes it, and the reprieve
 
-Is never long. The Manchus were few: perhaps one in a hundred
+Is never long. The {{c|Manchus}} were few: perhaps one in a hundred
 Of the people they now ruled. They ruled them by two things.
-The first was the body. In 1645, the order: every Han man shall be sundered
+The first was the body. In 1645, the order: every {{c|Han}} man shall be sundered
 From his hair: shave the forehead, braid the rest in a queue. The rings
 
 Of the slogan: *keep your hair and lose your head, or keep your head
-And lose your hair.* For a Confucian, the hair was the gift of the parents,
+And lose your hair.* For a {{x|Confucian}}, the hair was the gift of the parents,
 Not to be cut. Men chose death. At {{p|Yangzhou}}, the dead
 Were counted for ten days after the city fell; the inherence
 
 Of terror was the point. At {{p|Jiading}}, three massacres.
-The braid, which the West would later think was simply Chinese,
+The braid, which the {{p|West}} would later think was simply {{c|Chinese}},
 Was the mark of conquest, worn for two hundred and sixty years. The heirs
-Of the Ming cut it off in 1911 as a declaration. Hold these:
+Of the {{c|Ming}} cut it off in 1911 as a declaration. Hold these:
 
 Identity written on the body by the conqueror,
 And worn until it felt like one's own. And the second thing:
-The Manchus became more Confucian than the {{c|Ming}}. The honor
-Of the classics, the examinations, the rites to Heaven, the king
+The {{c|Manchus}} became more {{x|Confucian}} than the {{c|Ming}}. The honor
+Of the classics, the examinations, the rites to {{c|Heaven}}, the king
 
 Of the old cosmology: they kept it all, and patronized it,
 And the great {{c|Kangxi}}, who ruled sixty-one years,
 Compiled the dictionary, the encyclopedias, and was praised for it
 By the very scholars whose grandfathers had died by the spears
 
-Of his grandfather's men. That is how the Mandate is won:
+Of his grandfather's men. That is how the {{x|Mandate}} is won:
 By becoming the keeper of the thing you conquered.
-And the Ming loyalists held out in the south, one by one
+And the {{c|Ming}} loyalists held out in the south, one by one
 Falling, and one of them, {{c|Koxinga}}, a pirate's son, conjured
 
 An army and a fleet, and in 1662 took {{p|Taiwan}} from the {{c|Dutch}},
-The Company's fort at {{p|Tainan}} surrendered after a siege of nine months:
-The first time a Chinese army drove out a European power. Such
+The {{c|Company}}'s fort at {{p|Tainan}} surrendered after a siege of nine months:
+The first time a {{c|Chinese}} army drove out a {{c|European}} power. Such
 Things the ledger of {{p|Batavia}} did not foresee. The once-
 
 Hunted loyalist became a god in {{p|Taiwan}}'s temples,
-And a hero to the Qing who had hunted him, and to the Japanese,
-For his mother was Japanese, and to the Republic. The examples
+And a hero to the {{c|Qing}} who had hunted him, and to the {{c|Japanese}},
+For his mother was {{c|Japanese}}, and to the {{c|Republic}}. The examples
 Of the use of the dead multiply. Hold these
 
-On this day: the Mandate passes; the conqueror becomes the keeper;
+On this day: the {{x|Mandate}} passes; the conqueror becomes the keeper;
 The body is made to carry the new order; the loyalist becomes a saint
 Of all sides. And the peasant, the courier, the famine-sleeper
 Who began it, died a year later in the hills of {{p|Hubei}}, no one sure how, without restraint
 
 Of fame or a temple. The sky turned cold, and the grain failed,
 And an empire fell. That is the oldest lesson in the book.
-The Mandate is the harvest. When the harvest is assailed,
-The Mandate goes. Feed the people. Then look
+The {{x|Mandate}} is the harvest. When the harvest is assailed,
+The {{x|Mandate}} goes. Feed the people. Then look
 
 At the rites.
 

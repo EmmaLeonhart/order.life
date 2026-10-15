@@ -29,7 +29,7 @@ P is the divergence, the fork, the father
 Of Q and R—and in this chapter, the same
 
 As the place itself: Paikal, the lake's own son,
-The pun the Gaiad cannot leave alone.
+The pun the {{x|Gaiad}} cannot leave alone.
 Since the {{p|Bab al-Mandab}}, his fathers had run
 The length of {{p|Eurasia}}; here, by ice and stone,
 
@@ -48,7 +48,7 @@ To {{p|Tierra del Fuego}}; every people born
 In the {{p|Americas}}, the {{p|Inuit}}, the nations
 Of the far south, come of Q. But that is the morning
 
-Of another book: Leo, two hundred twenty-one
+Of another book: {{x|Leo}}, two hundred twenty-one
 To two fifty-two. Q's chapter is not yet.
 The second answer was west: to turn and run
 Back the way they came, retrace the debt
@@ -60,13 +60,13 @@ Whole world on its back. That branch kept
 
 The name of R: the boomerang, the line
 That went as far east as it could, and then came back.
-R will be the Yamnaya; R will be the sign
+R will be the {{p|Yamnaya}}; R will be the sign
 Of Manu and of Yemo; down R's track
 
-Will run the Indo-European tongue,
-R1a east to {{p|India}} and {{p|Iran}} and the Slavs,
-R1b west to Celt and German, the young
-Italic peoples—most of {{p|Europe}}'s men. R has
+Will run the {{x|Indo-European}} tongue,
+R1a east to {{p|India}} and {{p|Iran}} and the {{x|Slavs}},
+R1b west to {{x|Celt}} and {{x|German}}, the young
+{{x|Italic}} peoples—most of {{p|Europe}}'s men. R has
 
 The horse, the wagon, the chariot to come,
 The sky-father and the solar wheel. But not yet.
@@ -81,7 +81,7 @@ The road east to the {{p|Americas}}; the price
 Of the other road is the long way west, to all
 Of {{p|Europe}}, {{p|Central Asia}}, {{p|South Asia}}.
 And the father stands on the ice as the shadows fall
-In the long Siberian night, and does not follow either,
+In the long {{p|Siberian}} night, and does not follow either,
 
 But watches both his sons go into the dusk.
 His own story is short: what P did
@@ -125,7 +125,7 @@ Of the steppe a tongue would be born, and pass
 
 To half the modern world its inheritance.
 But all of that is later. Here, in the deep
-Past, in the Siberian winter, at the entrance
+Past, in the {{p|Siberian}} winter, at the entrance
 Of the crossroads, P stands where the lineages keep
 
 Their fork. The stars. The ice. The silence. Two
@@ -157,10 +157,10 @@ Map of most of the world.
 
                                R's sons were two: R1a and R1b.
 
-And in the Gaiad's reading, they are Manu and Yemo.
+And in the {{x|Gaiad}}'s reading, they are Manu and Yemo.
 
                                                                    Manu.
-Yemo. The Proto-Indo-European founding pair. The first man and
+Yemo. The {{x|Proto-Indo-European}} founding pair. The first man and
 His twin. The cosmogonic pair whose story, reconstructed from the
 Linguistic evidence of the daughter traditions, tells the myth
 
@@ -193,9 +193,9 @@ Cosmogonic payoff is attenuated. Romulus kills Remus and founds
 The founding sacrifice of a single city. Gayomart in the {{p|Iranian}}
 Tradition, the first man, whose seed spawns the first couple. All
 Of these are reflexes of the same primal myth. The twin myth
-Spread across the whole Indo-European language family because it was
+Spread across the whole {{x|Indo-European}} language family because it was
 
-The founding myth of the Indo-European people. And the Indo-European
+The founding myth of the {{x|Indo-European}} people. And the {{x|Indo-European}}
 People were R1a and R1b. The haplogroups and the myth traveled
 Together. The myth was the story the R men told about themselves.
 The haplogroups were the biological signature of the men who carried
@@ -224,7 +224,7 @@ Zone of human habitation. And the R-carrying peoples of the steppe
 Are the first beneficiaries. The {{p|Yamnaya}} culture emerges around
 Three thousand three hundred BCE. The {{p|Yamnaya}} are horse-riders,
 Cattle-herders, makers of {{p|kurgan}} burial mounds across the
-Pontic-Caspian grasslands. And from the {{p|Yamnaya}} homeland, the
+{{p|Pontic-Caspian}} grasslands. And from the {{p|Yamnaya}} homeland, the
 
 Expansion begins.
 
@@ -236,16 +236,16 @@ Of bronze-age {{p|European}} populations—all descend, in substantial
 Percentages, from the {{p|Yamnaya}} migration westward. Ancient DNA
 
 Studies published in the twenty-tens showed that a substantial
-Portion of modern European male Y-chromosomes derive from an
+Portion of modern {{p|European}} male Y-chromosomes derive from an
 Expansion originating on the {{p|Pontic-Caspian steppe}} around
 Three thousand BCE. The signature is unmistakable: R1b is
 
 Overwhelmingly dominant in {{p|Western Europe}}. R1a is dominant in
 {{p|Eastern Europe}}. The two great R sub-branches swept across the
-Continent, overlaying the earlier G (Neolithic farmer) layer
+Continent, overlaying the earlier G ({{x|Neolithic}} farmer) layer
 And the even earlier I (hunter-gatherer) layer. The modern
 
-European male is a three-layer cake. I at the bottom. G in the
+{{p|European}} male is a three-layer cake. I at the bottom. G in the
 Middle. R at the top. And the percentages vary by region: {{p|Sardinia}}
 Is still heavily G-dominated. The {{p|Balkans}} and {{p|Scandinavia}} retain
 Heavy I frequencies. But R is the dominant layer almost everywhere.
@@ -258,29 +258,29 @@ Chanting peoples who enter {{p|India}} around fifteen hundred BCE and
 Merge with the existing H-and-L {{p|Indus Valley}} population to create
 The civilization that will eventually compose the {{p|Vedas}} and the
 {{p|Mahabharata}} and the {{p|Ramayana}}—these are R1a-carrying men. The
-{{p|Aryan}} peoples are, in the Gaiad's reading, R1a. The language they
+{{p|Aryan}} peoples are, in the {{x|Gaiad}}'s reading, R1a. The language they
 
-Bring is Proto-Indo-Iranian. It will become {{p|Sanskrit}} in {{p|India}} and
+Bring is {{x|Proto-Indo-Iranian}}. It will become {{p|Sanskrit}} in {{p|India}} and
 {{p|Avestan}} in {{p|Iran}}, and it will become the basis for the entire
-Indo-Iranian language family. And east: into {{p|Tarim Basin}} of what is
+{{x|Indo-Iranian}} language family. And east: into {{p|Tarim Basin}} of what is
 Now {{p|Xinjiang}}, where the {{p|Tocharians}}—speakers of the eastern-most
 
-Indo-European language branch—established themselves, leaving blond
+{{x|Indo-European}} language branch—established themselves, leaving blond
 And red-haired mummies in the desert that bewildered later {{p|Chinese}}
 Travelers. The {{p|Tocharians}} are an outlier of the R1a expansion,
 The branch that went furthest east before being absorbed.
 
-The Yamnaya expansion is, in the Gaiad's reading, the single largest
-Genetic and linguistic event of the Bronze Age. It recasts the
+The {{p|Yamnaya}} expansion is, in the {{x|Gaiad}}'s reading, the single largest
+Genetic and linguistic event of the {{x|Bronze Age}}. It recasts the
 Population of {{p|Europe}}. It recasts the population of {{p|India}}. It creates
-The Indo-European language family in its historical form—the family
+The {{x|Indo-European}} language family in its historical form—the family
 
 That includes all the {{p|Romance}} languages, all the {{p|Germanic}} languages,
 All the {{p|Slavic}} languages, all the {{p|Indo-Iranian}} languages, {{p|Greek}}, {{p|Armenian}},
 {{p|Albanian}}, {{p|Celtic}}, and the extinct {{p|Anatolian}} and {{p|Tocharian}} branches.
-Half of all living humans speak an Indo-European language as their
+Half of all living humans speak an {{x|Indo-European}} language as their
 
-Native tongue. And that half speaks Indo-European because, five
+Native tongue. And that half speaks {{x|Indo-European}} because, five
 Thousand years ago, a single haplogroup lineage—R, the boomerang
 Lineage, the lineage that went east to {{p|Baikal}} and then turned around
 And came back—domesticated the horse, invented the chariot, developed
@@ -289,11 +289,11 @@ A religious and linguistic package that would spread across half
 Of {{p|Eurasia}}, and rode out of the steppe in every direction at once.
 
 Manu and Yemo. R1a and R1b. The twin founding pair of the
-Indo-European world. The myth that said: one brother sacrificed the
+{{x|Indo-European}} world. The myth that said: one brother sacrificed the
 Other to make the cosmos. The haplogroup-pair that said: we will
 Cover half the known world with our descendants. Both were true.
 
-The Yamnaya expansion is the mythic and the genetic and the linguistic
+The {{p|Yamnaya}} expansion is the mythic and the genetic and the linguistic
 All at once. It is the moment when a single steppe culture, having
 Mastered the horse and the wheel and the bronze axe, explodes outward
 And reshapes {{p|Eurasia}} for the rest of recorded history.
@@ -301,17 +301,17 @@ And reshapes {{p|Eurasia}} for the rest of recorded history.
 The {{p|Cucuteni-Trypillia}} civilization of {{p|Moldova}} and {{p|Ukraine}}—the
 Great pre-Yamnaya {{p|European}} culture, the one that built giant wooden
 Cities painted with spirals, the one that worshipped the goddess
-Of the old Europe—is burned to the ground by the {{p|Yamnaya}} advance.
+Of the old {{p|Europe}}—is burned to the ground by the {{p|Yamnaya}} advance.
 
 The peaceful pre-IE agricultural culture is replaced by the warlike
 Horse-riding patriarchal culture. The goddess is replaced by the
 Sky-father. The painted pottery is replaced by the corded-ware pot.
 The spiral is replaced by the wheel. The mother is replaced by the
 
-King. And the languages of old Europe—whatever they were, we will
-Never know—are replaced by Proto-Indo-European and its daughters.
+King. And the languages of old {{p|Europe}}—whatever they were, we will
+Never know—are replaced by {{x|Proto-Indo-European}} and its daughters.
 This is the pivot. This is the change. This is the moment when
-The Europe we know today begins. Indo-European-speaking, patrilineal,
+The {{p|Europe}} we know today begins. Indo-European-speaking, patrilineal,
 
 Patriarchal, horse-riding, sky-father-worshipping. Everything that
 Makes modern {{p|Europe}} distinctively itself was brought, in seed form,
@@ -324,17 +324,17 @@ Of the {{p|Yamnaya}} cultural package. {{p|Rome}} is {{p|Yamnaya}}'s grandchild.
 
 Of the {{p|Yamnaya}} religious imagination. And the modern world—most
 Of it—walks in paths first laid by the R-carrying men who rode
-West out of the Pontic-Caspian steppe at the dawn of the Bronze Age.
+West out of the {{p|Pontic-Caspian}} steppe at the dawn of the {{x|Bronze Age}}.
 
 Manu sacrificed Yemo and made the world.
 
-R1a and R1b spread across {{p|Eurasia}} and made the Indo-European
+R1a and R1b spread across {{p|Eurasia}} and made the {{x|Indo-European}}
 World.
 
 The myth and the haplogroup are the same story, told twice—once
 In the grammar of genealogy, once in the grammar of myth.
 
-R. The Yamnaya. The boomerang. The Indo-European.
+R. The {{p|Yamnaya}}. The boomerang. The {{x|Indo-European}}.
 
 
 # Chapter 143: E — Returns to Africa
@@ -342,14 +342,14 @@ R. The Yamnaya. The boomerang. The Indo-European.
 And the loop closed.
 
                           Haplogroup E is the haplogroup that
-Left Africa, crossed the {{p|Bab al-Mandab}} with Noah, wandered
+Left {{p|Africa}}, crossed the {{p|Bab al-Mandab}} with Noah, wandered
 {{p|Eurasia}} for some thousands of years, and then—remarkably, almost
 Uniquely among the out-of-Africa haplogroups—turned around and
 
 Went back. E is the loop-closer. E is the one that walked
-Out of Africa and then walked back in. Every other haplogroup
-That left Africa stayed out. D went to Japan and Tibet. C
-Went to Australia and the steppe. F went to the {{p|Near East}}
+Out of {{p|Africa}} and then walked back in. Every other haplogroup
+That left {{p|Africa}} stayed out. D went to {{p|Japan}} and {{p|Tibet}}. C
+Went to {{p|Australia}} and the steppe. F went to the {{p|Near East}}
 
 And branched into every other haplogroup. They all went east,
 North, west—they never came back. Except E.
@@ -368,16 +368,16 @@ Across {{p|North Africa}}, down into {{p|West Africa}}, across into
 {{p|East Africa}}. E became, eventually, the dominant haplogroup
 Of most of sub-Saharan {{p|Africa}}.
 
-                                       And this is where the Gaiad's
+                                       And this is where the {{x|Gaiad}}'s
 Story of circular migration finds its completion. Humanity left
-Africa, some of it. Wandered. Branched. Populated every continent.
+{{p|Africa}}, some of it. Wandered. Branched. Populated every continent.
 And one branch of the CT lineage—the E branch—came back. The
 
 Circle closed.
 
-                 And when E came back to Africa, E did
+                 And when E came back to {{p|Africa}}, E did
 Not find an empty continent. The haplogroups that had never left—
-A and B—were still there. A was in the deep African
+A and B—were still there. A was in the deep {{p|African}}
 Interior, carried by the {{p|San}} and {{p|Khoisan}} peoples of the
 
 {{p|Kalahari}}, by the {{p|Mbuti}} of the {{p|Congo}} rainforest, by the most
@@ -405,12 +405,12 @@ Population history.
 
                        But the displacement is also the restoration.
 Because E, in genetic terms, is {{p|African}}. E's ancestor—the
-DE node, the split from the CF branch—was out of Africa, yes,
+DE node, the split from the CF branch—was out of {{p|Africa}}, yes,
 
 But E itself, as a distinct haplogroup, developed its identity
-In {{p|Africa}} or on its border. The return to Africa is the return
+In {{p|Africa}} or on its border. The return to {{p|Africa}} is the return
 To the continent where the human story began. The loop-closer
-Is the haplogroup that says: we are African.
+Is the haplogroup that says: we are {{p|African}}.
 
                                                     Ninety percent or
 More of all sub-Saharan {{p|African}} men today carry E. E is the
@@ -428,7 +428,7 @@ Massive, linguistically unifying event that made most of the
 Continent speak related languages. The {{p|Bantu}} languages, from
 
 {{p|Swahili}} to {{p|Zulu}} to {{p|Kikuyu}} to {{p|Kinyarwanda}}, are all descended
-From the same Proto-Bantu spoken by a relatively small population
+From the same {{x|Proto-Bantu}} spoken by a relatively small population
 In what is now the {{p|Cameroon}}/{{p|Nigeria}} border region around three
 Thousand years ago. And the E-V38 haplogroup is the genetic
 
@@ -458,8 +458,8 @@ Were E. Every dynasty of ancient {{p|Egypt}}, from the {{p|First Dynasty}}
 Through the {{p|Ptolemaic}} period, was populated by men whose {{p|Y}}-chromosomes
 Carried some sub-clade of E. And the {{p|Egyptian}} civilization
 
-Is, in the Gaiad's reading, fundamentally an E-civilization. The
-First great African civilization of the historical record. The
+Is, in the {{x|Gaiad}}'s reading, fundamentally an E-civilization. The
+First great {{p|African}} civilization of the historical record. The
 Civilization that the biblical {{p|Israelites}} will be enslaved in.
 The civilization that Akhenaten will briefly monotheize and then
 
@@ -488,7 +488,7 @@ And the circle closes on the genealogical tree.
 E became the dominant lineage of a continent whose earliest
 
 Haplogroups—A and B—remained in the margins. And somewhere,
-At the back of the Gaiad's mind, is the awareness that E is also
+At the back of the {{x|Gaiad}}'s mind, is the awareness that E is also
 Going to appear, in the modern world, in the {{p|African-American}}
 Population of the {{p|United States}}. The descendants of the enslaved
 
@@ -498,7 +498,7 @@ Malcolm X, Martin Luther King Jr., Frederick Douglass—if we
 Could sequence their {{p|Y}}-chromosomes, we would almost certainly
 
 Find E. The modern {{p|African-American}} diaspora is the E
-Haplogroup reaching into the Western Hemisphere not via the
+Haplogroup reaching into the {{p|Western Hemisphere}} not via the
 Q-carried original migration across {{p|Beringia}}, but via the
 Forced middle-passage migration that began in the fifteenth century.
 
@@ -537,7 +537,7 @@ E. {{p|Africa}}. The return. The loop.
 And with this chapter, the haplogroup sequence is complete.
 Fourteen chapters. Fourteen haplogroups. One great branching tree.
 The human story as a genetic genealogy is, for now, told. The
-Chapters that follow will return to Register B—named people, named
+Chapters that follow will return to {{x|Register B}}—named people, named
 
 Places, named civilizations. Abraham and Moses and David and
 Homer and Confucius and Buddha. The historical age begins.
@@ -551,10 +551,10 @@ To stray, is another chapter of the haplogroup story, told in a
 
 Different register.
 
-                      Haplogroup E. Africa. The circle closes.
+                      Haplogroup E. {{p|Africa}}. The circle closes.
 The branches have branched. The tree is complete. The human family
 Has filled the earth. And now—named figures. Named civilizations.
-The historical age of the Gaiad begins.
+The historical age of the {{x|Gaiad}} begins.
 
 
 # Chapter 144: Malta — The Oldest Temples
@@ -594,7 +594,7 @@ Beneath Old {{p|Europe}}, before the horsemen came;
 The {{p|Venus of Willendorf}} on other ground,
 {{p|Cucuteni-Trypillia}}'s clay—the same
 
-Great mother, as the Gaiad reads the sign.
+Great mother, as the {{x|Gaiad}} reads the sign.
 But nowhere else did that devotion raise
 Such stone. Look at the temples' own design,
 The shape they kept through all their building days:
@@ -617,7 +617,7 @@ Of builders. Then the builders were gone.
 Near twenty-five hundred BCE it ends.
 No sign of war, no burning, no invader—
 The temples simply empty. No one tends
-Them. Bronze Age settlers, coming later,
+Them. {{x|Bronze Age}} settlers, coming later,
 
 Lived on the island with no memory
 Of who had built the temples on its hills.
@@ -634,7 +634,7 @@ Empty and silent on the windy rise,
 Four thousand years, until the nineteenth century could
 Read them for what they were with {{p|Europe}}'s eyes.
 
-The Gaiad honors them as first in line
+The {{x|Gaiad}} honors them as first in line
 After {{p|Göbekli Tepe}}: there, the hunter came
 To gather at the stones; here, at the shrine,
 The settled farmer laid his harvest's claim.
@@ -649,7 +649,7 @@ Gave out. No palace and no city wall,
 No fortress—only temples, the work of every hand.
 They built for their gods, and that was all.
 
-The Gaiad reads the temple as the elder
+The {{x|Gaiad}} reads the temple as the elder
 Of the city, at {{p|Göbekli Tepe}}, and the greater
 For thousands of years after; and no welder
 Of stone to faith was purer than these, or straighter.
@@ -671,7 +671,7 @@ Both are warnings. Neither, as we see,
 
 Is heeded by the peoples who come after.
 Was this a greatness or a tragedy?
-The Gaiad does not answer. Without laughter
+The {{x|Gaiad}} does not answer. Without laughter
 And without blame, it says that both can be:
 
 The temples splendid, and the builders dead;
@@ -695,7 +695,7 @@ Above itself, and perished by the choice.
 After {{p|Göbekli Tepe}}. The first warning voice.
 
 The first loss. The first civilization
-Whose name is gone, in the Gaiad's human age.
+Whose name is gone, in the {{x|Gaiad}}'s human age.
 
 
 # Chapter 145: The Old Kingdom — Pyramids at Giza
@@ -704,7 +704,7 @@ And while {{p|Malta}} was exhausting itself on its small rocky island,
 A much larger civilization on a much larger river was beginning
 To build at a scale that would dwarf everything that had come before.
 
-{{p|Egypt}}. The {{p|Nile}}. The Old Kingdom.
+{{p|Egypt}}. The {{p|Nile}}. The {{x|Old Kingdom}}.
 
                                               The {{p|Nile Valley}} had
 Been settled by E-haplogroup peoples for thousands of years.
@@ -719,14 +719,14 @@ Units along the river. By approximately thirty-one hundred BCE, the
 Opening onto the {{p|Mediterranean}})—had been unified under a single
 Pharaoh. The founder is traditionally called Menes, sometimes
 Identified with Narmer, whose ceremonial palette is one of the
-Earliest documents of pharaonic kingship. The First Dynasty began.
+Earliest documents of pharaonic kingship. The {{x|First Dynasty}} began.
 
 The {{p|Early Dynastic Period}} ran from approximately thirty-one hundred
 To twenty-six hundred BCE. This was the period of consolidation—
 The development of the administrative apparatus, the hieroglyphic
 Writing system, the religious framework of divine kingship, the
 
-Tax-collection networks that would make pharaonic Egypt economically
+Tax-collection networks that would make pharaonic {{p|Egypt}} economically
 Viable for the next three millennia. And then, around twenty-six
 Hundred BCE, something changed. The kings of the {{p|Third Dynasty}}
 And {{p|Fourth Dynasty}} began to build at an unprecedented scale.
@@ -833,7 +833,7 @@ Humor and identity preserved in the limestone. The pyramids were
 
 Built by real people, with real names, who went home afterward
 To their villages. And the administrative system that coordinated
-All of this—the quarries at {{p|Aswan}}, the Tura limestone quarries, the
+All of this—the quarries at {{p|Aswan}}, the {{p|Tura}} limestone quarries, the
 Copper mines in the {{p|Sinai}}, the grain storage across the {{p|Nile Valley}},
 
 The taxation system that fed the workers—was the most sophisticated
@@ -862,12 +862,12 @@ Cosmic-scale architecture runs aground on the rocks of climate
 And political fragmentation. The pyramids remain. But the
 Civilization that built them is, for several centuries, in chaos.
 
-And the Gaiad's note here—important for the {{p|Mesopotamia}} chapter
+And the {{x|Gaiad}}'s note here—important for the {{p|Mesopotamia}} chapter
 Later—is that the {{p|First Intermediate Period}} of {{p|Egypt}} runs roughly
 Parallel to the collapse of the {{p|Akkadian Empire}} of {{p|Mesopotamia}}.
 The twenty-second century BCE is a crisis period for both of the
 
-Great Bronze Age civilizations. The {{p|Akkadian Empire}} falls to
+Great {{x|Bronze Age}} civilizations. The {{p|Akkadian Empire}} falls to
 Invasions by the {{p|Gutians}}, a people from the {{p|Zagros Mountains}}.
 The {{p|Gutians}} are the first great "barbarian" invaders in
 {{p|Mesopotamian}} historical records. They rule {{p|Mesopotamia}} briefly
@@ -877,8 +877,8 @@ And the climate event that weakens the {{p|Nile}} is probably the same
 Climate event that weakens the {{p|Tigris-Euphrates}} flood—a severe
 Multi-century drought known as the {{p|4.2-kiloyear event}}, one of the
 
-Most significant climate shifts of the {{p|Holocene}}. The Old Kingdom
-And the Akkadian Empire both fall to the same climate crisis. The
+Most significant climate shifts of the {{p|Holocene}}. The {{x|Old Kingdom}}
+And the {{p|Akkadian Empire}} both fall to the same climate crisis. The
 {{p|Gutians}} are one symptom. The {{p|Egyptian}} famine is another. The
 Pattern of climate-induced civilization collapse is deep, and this
 
@@ -1056,7 +1056,7 @@ Dynasty centered on the city of {{p|Uruk}} (the {{p|Fourth Dynasty of
 Uruk}}) and then by the {{p|Third Dynasty of Ur}}, which would
 Re-establish {{p|Sumerian}}-language rule and usher in the {{p|Neo-Sumerian}}
 Period. That dynasty—{{p|Ur III}}—is the one in which Abraham, in
-The Gaiad's reading, will be born. But that is a later chapter.
+The {{x|Gaiad}}'s reading, will be born. But that is a later chapter.
 
 For this chapter, the focus is the {{p|Akkadian Empire}} itself—the
 First multi-regional empire in human history, the first state to
@@ -1123,7 +1123,7 @@ Becomes, over the following millennia, a legendary figure. The
 {{p|Sargon Legend}} circulates in cuneiform manuscripts for the next
 Two thousand years. Sargon is remembered as the archetypal
 Conqueror, the self-made king, the foundling who became an emperor.
-Later kings, including the Neo-Assyrian Sargon II in the eighth
+Later kings, including the {{x|Neo-Assyrian}} Sargon II in the eighth
 
 Century BCE, would take his name in order to claim his legacy.
 The cultural memory of the first emperor outlasted the archaeological
@@ -1182,7 +1182,7 @@ Them on logs, dragging them on sledges over frozen ground,
 Floating them on rafts down the coast and up the river systems.
 No single theory has been definitively proven. What is known is
 
-That the builders, working with Neolithic technology, managed to
+That the builders, working with {{x|Neolithic}} technology, managed to
 Move roughly eighty large stones across a hundred and fifty miles
 Of hill and valley and coastline. And then—as if that were not
 Enough—they erected them at {{p|Stonehenge}} in a deliberate circular
@@ -1208,9 +1208,9 @@ Cut to a slight curve so that when arranged in a ring they formed
 A perfect circle. And the whole arrangement was aligned with the
 Midsummer sunrise and the midwinter sunset—the summer-solstice sun
 
-Rising directly over the Heel Stone outside the circle, the
+Rising directly over the {{p|Heel Stone}} outside the circle, the
 Winter-solstice sun setting between the two uprights of the largest
-Trilithon. {{p|Stonehenge}} is, among other things, a Neolithic
+Trilithon. {{p|Stonehenge}} is, among other things, a {{x|Neolithic}}
 Astronomical calendar, marking the two extreme points of the sun's
 
 Annual journey.
@@ -1221,7 +1221,7 @@ Expansion into {{p|Britain}}—the arrival of the {{p|Beaker Culture}}, which
 
 Carried R1b haplogroup signature and {{p|Indo-European}} language
 Into the island. Ancient DNA analysis has shown that the late
-Neolithic {{p|British}} population was almost entirely replaced—some
+{{x|Neolithic}} {{p|British}} population was almost entirely replaced—some
 Ninety percent turnover—by {{p|Beaker}}-associated populations in
 
 The early {{p|Bronze Age}}. The builders who started {{p|Stonehenge}} were
@@ -1265,7 +1265,7 @@ Times, scholars have proposed that {{p|Stonehenge}} was a temple,
 A calendar, an astronomical observatory, a healing shrine, a
 Place of ancestral veneration, a ritual center for the dead, a
 
-Neolithic parliament, a druidic worship site (though the
+{{x|Neolithic}} parliament, a druidic worship site (though the
 {{p|Druids}} are {{p|Iron Age}}, thousands of years later, and had no
 Connection to the original builders). The archaeological evidence
 Suggests a combination of functions. The surrounding landscape
@@ -1285,17 +1285,17 @@ It was a pan-{{p|British}} and even pan-{{p|European}} religious center.
 People traveled hundreds of miles to be buried there. And the
 Builders, at each phase, must have represented a coordinated
 
-Effort across multiple communities—a Neolithic and Bronze Age
+Effort across multiple communities—a {{x|Neolithic}} and {{x|Bronze Age}}
 Consensus that this place, above all others, was where the
 Monument should be.
 
-                        The Gaiad's reading of {{p|Stonehenge}} is in
+                        The {{x|Gaiad}}'s reading of {{p|Stonehenge}} is in
 Line with its reading of {{p|Göbekli Tepe}}: the temple comes first.
 
 The sacred site organizes the society around it. The monument is
 Not a byproduct of an already-existing political structure—the
 Monument is the political structure. {{p|Stonehenge}} is the organizing
-Principle around which a dispersed Neolithic and Bronze Age
+Principle around which a dispersed {{x|Neolithic}} and {{x|Bronze Age}}
 
 Population coordinated its identity. The stones are the axis mundi
 Of the prehistoric {{p|British}} world. And the fact that the monument
@@ -1303,7 +1303,7 @@ Survived a demographic replacement—that the incoming {{p|Beaker}}
 People adopted it rather than destroying it—suggests that its
 
 Sacred character was recognized by the newcomers. The {{p|Indo-European}}
-Speakers who were, elsewhere, dismantling the pre-existing European
+Speakers who were, elsewhere, dismantling the pre-existing {{p|European}}
 Religious landscape, spared {{p|Stonehenge}}. They even added to it.
 Whatever the monument meant, the meaning was translatable across
 
@@ -1311,7 +1311,7 @@ The cultural and linguistic divide between the {{p|Neolithic}} builders
 And the {{p|Beaker}} arrivers.
 
                                       And perhaps the deepest thing
-The Gaiad can say about {{p|Stonehenge}} is this: it is the monument
+The {{x|Gaiad}} can say about {{p|Stonehenge}} is this: it is the monument
 
 That has maintained its identity across the longest stretch of
 Continuous cultural memory. The pyramids of {{p|Giza}} are older, but
@@ -1340,10 +1340,10 @@ The stones, exactly as the original builders intended. The
 Monument still works. The astronomical alignment has not drifted.
 
 The stones still mark the solstices. {{p|Stonehenge}} is, in an
-Important sense, still a working Neolithic calendar. It is
+Important sense, still a working {{x|Neolithic}} calendar. It is
 Four and a half thousand years old and still tells the time.
 
-And the Gaiad, visiting it, says: honor them. The builders
+And the {{x|Gaiad}}, visiting it, says: honor them. The builders
 Who moved the bluestones from {{p|Wales}}. The builders who shaped
 The sarsens and raised the trilithons. The {{p|Beaker}} people who
 Inherited the project and completed it. The generations who
@@ -1384,7 +1384,7 @@ Themselves something else—we do not know what, because their
 
 Language, written in the script we call {{p|Linear A}}, has never
 Been deciphered. The {{p|Minoans}} are the second great undeciphered
-Civilization of the Bronze Age. (The {{p|Indus Valley}} is the first.)
+Civilization of the {{x|Bronze Age}}. (The {{p|Indus Valley}} is the first.)
 We can read the shape of their society—we know how they built, what
 
 They ate, what they wore, what they painted, how they organized
@@ -1408,7 +1408,7 @@ Without defensive architecture. The interpretation is that the
 Land fortifications; their security was provided by their fleet.
 The idea of a civilization secure enough to live in unwalled
 
-Palaces is, by Bronze Age standards, extraordinary. Almost every
+Palaces is, by {{x|Bronze Age}} standards, extraordinary. Almost every
 Other civilization of the period had walled cities as a matter
 Of survival. The {{p|Minoans}} did not.
 
@@ -1456,14 +1456,14 @@ Officiants. The religion appears to have been goddess-centered, with
 A male consort figure (a young god who dies and is reborn, possibly
 
 Related to the later {{p|Greek}} Dionysus) but with clear priority
-On the female divine. This is the old European goddess religion
+On the female divine. This is the old {{p|European}} goddess religion
 That Marija Gimbutas argued survived in pockets across the
-{{p|Mediterranean}} into the Bronze Age. {{p|Crete}} is one of those pockets.
+{{p|Mediterranean}} into the {{x|Bronze Age}}. {{p|Crete}} is one of those pockets.
 
 The mother goddess and her snakes. The saffron gatherers. The
 Priestesses with their processional garments. {{p|Minoan}} religion is
-The female-centered religion of old Europe, preserved on an island
-Long enough to become the Bronze Age's most visually sophisticated
+The female-centered religion of old {{p|Europe}}, preserved on an island
+Long enough to become the {{x|Bronze Age}}'s most visually sophisticated
 
 Civilization.
 
@@ -1479,7 +1479,7 @@ Culture on the {{p|Greek}} mainland. The {{p|Aegean}} is, for several
 Hundred years, a {{p|Minoan}} lake. And the wealth that flowed through
 {{p|Crete}}—in olive oil, wine, copper, tin, ceramics, textiles, and
 Whatever else passed through the palace storerooms—made the
-Civilization one of the wealthiest of the Bronze Age.
+Civilization one of the wealthiest of the {{x|Bronze Age}}.
 
 And then, around fifteen hundred BCE, it ended.
 
@@ -1510,7 +1510,7 @@ Around fourteen hundred and fifty BCE, the {{p|Mycenaean Greeks}} from
 The mainland—previously junior partners of the {{p|Minoans}}, culturally
 Influenced by but politically independent—invaded and took over.
 The {{p|Mycenaeans}} were R1b-carriers, {{p|Indo-European}}-speakers, the
-Bronze Age manifestation of the {{p|Yamnaya}} expansion that had reached
+{{x|Bronze Age}} manifestation of the {{p|Yamnaya}} expansion that had reached
 
 {{p|Greece}}. They occupied {{p|Knossos}} and the other palaces. They replaced
 {{p|Linear A}} with {{p|Linear B}}, a script adapted to write the {{p|Mycenaean}}
@@ -1538,9 +1538,9 @@ Language, or a pre-Greek {{p|Aegean}} language, or an isolate of its
 Own—but no decipherment has been accepted. The {{p|Minoans}} wrote. We
 
 Cannot read them. The silence of {{p|Linear A}} is one of the permanent
-Gaps in our knowledge of the Bronze Age.
+Gaps in our knowledge of the {{x|Bronze Age}}.
 
-                                               The Gaiad honors the
+                                               The {{x|Gaiad}} honors the
 {{p|Minoans}} as the great pre-{{p|Greek}} civilization of the {{p|Aegean}}.
 The peaceful island civilization. The mother-goddess religion. The
 
@@ -1664,7 +1664,7 @@ Replaced by the sky father. The spiral was replaced by the wheel.
 The peaceful agricultural village was replaced by the patriarchal
 Warrior band. The female-centered kinship of {{p|Cucuteni-Trypillia}}
 Was replaced by the patrilineal inheritance of {{p|Yamnaya}}. And the
-Indo-European languages—ancestor of {{p|Greek}} and {{p|Latin}} and {{p|Sanskrit}}
+{{x|Indo-European}} languages—ancestor of {{p|Greek}} and {{p|Latin}} and {{p|Sanskrit}}
 
 And all their daughters—took the place of whatever language the
 {{p|Cucuteni-Trypillia}} peoples had spoken. That language is lost.
@@ -1714,7 +1714,7 @@ Of R1a and R1b—the two great {{p|Yamnaya}} Y-chromosome haplogroups—
 Is today dominant across essentially all of {{p|Europe}} and much of
 {{p|India}} and {{p|Iran}}. Billions of people are {{p|Yamnaya}}'s grandchildren.
 
-And the Gaiad's account of this is complex, because the Gaiad
+And the {{x|Gaiad}}'s account of this is complex, because the {{x|Gaiad}}
 Does not simply celebrate it. The {{p|Yamnaya}} expansion was, in
 Many places, a destruction. The peaceful mother-goddess cultures
 Of old {{p|Europe}}—{{p|Cucuteni-Trypillia}}, {{p|Minoan Crete}} (partially),
@@ -1739,8 +1739,8 @@ Females were absorbed. This was not a peaceful migration. It was,
 By any modern standard, a genocide—or several genocides, spread
 Across the continent over a thousand years.
 
-The Gaiad does not simplify this. The Yamnaya brought many things:
-The horse, the wheel, the Indo-European languages, the heroic
+The {{x|Gaiad}} does not simplify this. The {{p|Yamnaya}} brought many things:
+The horse, the wheel, the {{x|Indo-European}} languages, the heroic
 Warrior ethos that would eventually produce {{p|Homeric}} epic and the
 {{p|Vedic}} hymns and the {{p|Eddaic}} poetry. These are genuine cultural
 
@@ -1759,38 +1759,38 @@ That shaped the pot on display are not, in genealogical terms,
 Connected. The {{p|European}} cultural inheritance includes both the
 Destroyers and the destroyed, layered together in the same
 
-Continent and often in the same individual. The old Europe was
-Erased. The new Europe was built on its graves. And the new Europe
+Continent and often in the same individual. The old {{p|Europe}} was
+Erased. The new {{p|Europe}} was built on its graves. And the new {{p|Europe}}
 Brought its own achievements—but never honestly reckoned with
 What it had replaced. Until, in the nineteenth and twentieth centuries,
 
 Scholars like Marija Gimbutas began to reconstruct what had been
-Lost. Her argument—that old Europe had been a peaceful, female-
+Lost. Her argument—that old {{p|Europe}} had been a peaceful, female-
 Centered, goddess-worshipping civilization that the {{p|Indo-European}}
 Invaders destroyed—was controversial in its time and remains
 
 Debated today. But the broad archaeological and genetic picture has
-Substantially vindicated her. The old Europe existed. The {{p|Yamnaya}}
+Substantially vindicated her. The old {{p|Europe}} existed. The {{p|Yamnaya}}
 Overran it. The cultural and religious shift from goddess to sky-
 Father was real. And the genetic evidence of that shift is
 
 Unambiguous.
 
-               The Gaiad holds this complexity. The Indo-European
+               The {{x|Gaiad}} holds this complexity. The {{x|Indo-European}}
 Achievement is real, and its cost is real, and both are part of
 The history. The {{p|Yamnaya}} expansion is not a clean victory to
 
 Celebrate; it is a pivot, and the pivot has a shadow. The shadow
-Is the old Europe that was lost. The light is the new Europe that
+Is the old {{p|Europe}} that was lost. The light is the new {{p|Europe}} that
 Was built. Both are in the record. Both are in the body. And the
 Task of honest genealogy is to hold them together.
 
-{{p|Yamnaya}}. The horse. The wheel. The Indo-European tongue. The
+{{p|Yamnaya}}. The horse. The wheel. The {{x|Indo-European}} tongue. The
 Sky-father. The patriarchal warrior band. The replacement of old
-Europe with new Europe. The cultural package that made the world
+{{p|Europe}} with new {{p|Europe}}. The cultural package that made the world
 We still live in. And the grave of the world we replaced.
 
-{{p|Yamnaya}}. The steppe expansion. The Indo-European arrival.
+{{p|Yamnaya}}. The steppe expansion. The {{x|Indo-European}} arrival.
 
 
 # Chapter 150: The Yellow Emperor
@@ -1843,7 +1843,7 @@ Of its history. Every subsequent {{p|Chinese}} emperor would claim,
 
 At some level, descent from Huangdi. The {{p|Han Chinese}} people,
 To this day, call themselves "{{p|descendants of the Yellow Emperor}}"
-(Yanhuang zisun, combining Huangdi and his proto-historical
+({{x|Yanhuang}} zisun, combining Huangdi and his proto-historical
 Contemporary Yandi, the "Flame Emperor"). The civilizational self-
 
 Concept of {{p|China}} is, in its traditional form, anchored in Huangdi.
@@ -1864,12 +1864,12 @@ The figures who populate the traditional chronologies before the
 
 Historical record begins.
 
-                                But the Gaiad honors them. Because
+                                But the {{x|Gaiad}} honors them. Because
 Even if Huangdi is a legendary figure rather than a historical
 One, he represents something real: the consolidation of {{p|Chinese}}
 
 Civilization on the {{p|North China Plain}}, the integration of multiple
-Neolithic cultures ({{p|Yangshao}}, {{p|Longshan}}, {{p|Hongshan}}, and others)
+{{x|Neolithic}} cultures ({{p|Yangshao}}, {{p|Longshan}}, {{p|Hongshan}}, and others)
 Into the proto-civilization that would eventually become {{p|Shang}}-
 Dynasty {{p|China}}. And this process—the gradual coalescence of
 
@@ -1905,7 +1905,7 @@ Herbalism. Together they form the {{p|Chinese}} mythic prehistory
 That leads to Huangdi's unification.
 
                                                  And what makes the
-{{p|Chinese}} tradition distinctive, in the Gaiad's reading, is the
+{{p|Chinese}} tradition distinctive, in the {{x|Gaiad}}'s reading, is the
 
 Continuity. Every subsequent dynasty of {{p|Chinese}} history has
 Maintained an unbroken connection to Huangdi's mythic founding.
@@ -1944,7 +1944,7 @@ Self-concept has never reset.
                                     And the language reinforces this.
 {{p|Chinese}} characters are the only major writing system still in
 
-Use that has maintained substantial continuity from its Bronze Age
+Use that has maintained substantial continuity from its {{x|Bronze Age}}
 Origins. The oracle bones of the {{p|Shang}} dynasty, written around
 Thirteen hundred BCE, used characters that a modern {{p|Chinese}} reader
 Can partially decipher. Thirteen hundred BCE to the twenty-first
@@ -1968,23 +1968,23 @@ Unifier of the {{p|Yellow River}} civilization. The culture-hero who
 Gave the {{p|Chinese}} people their arts. The mythic ancestor whose
 Veneration has outlasted every other ancient founder's. The
 Figure who stands, in the {{p|Chinese}} imagination, where Adam stands
-In the Hebrew imagination and where Rama stands in the {{p|Indian}}
+In the {{x|Hebrew}} imagination and where Rama stands in the {{p|Indian}}
 
 Imagination and where the Jade Emperor stands in the {{p|Chinese}}
 Celestial hierarchy. The earthly progenitor. The founder who is
 Still present.
 
-                   And the Gaiad is careful here. The Gaiad does not
+                   And the {{x|Gaiad}} is careful here. The {{x|Gaiad}} does not
 Claim that Huangdi is a historical king in the same sense that
 
 Sargon is. The archaeological record is clear: there is no hard
 Evidence for a specific ruler named Huangdi who lived around
 Twenty-seven hundred BCE. He is a figure of mythic memory, not
-Historical record. But the Gaiad also does not dismiss him. Because
+Historical record. But the {{x|Gaiad}} also does not dismiss him. Because
 
 The cultural reality that Huangdi represents—the founding of
 {{p|Chinese}} civilization in the {{p|Yellow River}} basin, the consolidation
-Of multiple Neolithic cultures into a single civilizational project,
+Of multiple {{x|Neolithic}} cultures into a single civilizational project,
 The invention of the techniques that would allow {{p|China}} to become
 
 The most populous and longest-continuous civilization on earth—
@@ -1993,7 +1993,7 @@ Stands for something that actually happened, even if he himself
 As a specific individual did not.
 
                                         The legend and the truth are
-Tangled. The Gaiad accepts the tangle. And the chapter pays its
+Tangled. The {{x|Gaiad}} accepts the tangle. And the chapter pays its
 Respects to the Yellow Emperor in the same spirit that it pays
 Its respects to Noah—as the mythic personification of a real
 
@@ -2023,7 +2023,7 @@ From its own collapse. The {{p|Gutians}} had been expelled. A
 
 Prominence under Ur-Nammu, founder of the {{p|Third Dynasty of Ur}}—
 The {{p|Ur III}} dynasty, the {{p|Neo-Sumerian}} empire. And it is into
-This empire, in the Gaiad's reading, that Abraham is born.
+This empire, in the {{x|Gaiad}}'s reading, that Abraham is born.
 
 Ur-Nammu reigned from approximately twenty-one twelve to twenty
 Ninety-five BCE, according to the middle chronology. He united
@@ -2060,7 +2060,7 @@ This was a renaissance of {{p|Sumerian}} culture—possibly the last
 Great flowering before the language itself began to die out and
 Be replaced by {{p|Akkadian}} as the spoken tongue of {{p|Mesopotamia}}.
 
-And it is in this world, according to the Gaiad's reading of the
+And it is in this world, according to the {{x|Gaiad}}'s reading of the
 Biblical account, that Abraham lived his early life. {{p|Genesis}}
 Tells us that Abram—as he was called before his name was changed—
 Was born in "{{p|Ur of the Chaldees}}." The identification of this {{p|Ur}}
@@ -2068,7 +2068,7 @@ Was born in "{{p|Ur of the Chaldees}}." The identification of this {{p|Ur}}
 With the {{p|Sumerian}} city in southern {{p|Mesopotamia}} is traditional
 Though not certain—some scholars have proposed a northern {{p|Ur}} in
 {{p|Anatolia}} instead. But the southern identification is the most
-Common, and it is the one the Gaiad adopts. Abraham is, in this
+Common, and it is the one the {{x|Gaiad}} adopts. Abraham is, in this
 
 Reading, a man of {{p|Ur III}}. He is a son of the {{p|Neo-Sumerian}}
 Empire. He speaks {{p|Akkadian}} (and perhaps {{p|Sumerian}} as a learned
@@ -2117,11 +2117,11 @@ Lamentations}}, which mourns the destruction of {{p|Jerusalem}}. The
 Genre and its vocabulary flow from {{p|Ur}} to {{p|Jerusalem}}.
 
 And in this context—in the chaos following the fall of {{p|Ur}}—the
-Gaiad locates Abraham's departure. {{p|Genesis}} says that Terah
+{{x|Gaiad}} locates Abraham's departure. {{p|Genesis}} says that Terah
 And his family left {{p|Ur}} and traveled to {{p|Haran}} (a city in what is
 Now southeastern {{p|Turkey}}, near the border with {{p|Syria}}). Why did
 
-They leave? {{p|Genesis}} does not explain. The Gaiad's reading is that
+They leave? {{p|Genesis}} does not explain. The {{x|Gaiad}}'s reading is that
 They left because {{p|Ur}} had been destroyed. The family that had lived
 In the city of the moon-god for generations, making idols in the
 Shadow of the {{p|Great Ziggurat}}, was forced to migrate when the
@@ -2135,7 +2135,7 @@ To the biblical account, Terah died. And there Abraham received
 The call to go further—to leave his country and his kindred and
 His father's house and go to the land that God would show him.
 
-And here the Gaiad takes a specific narrative position. Abraham's
+And here the {{x|Gaiad}} takes a specific narrative position. Abraham's
 Journey from {{p|Haran}} south to {{p|Canaan}}—the journey that will
 Establish the {{p|Israelite}} and eventually the {{p|Jewish}}, {{p|Christian}},
 And {{p|Islamic}} traditions—passes through a place with extraordinary
@@ -2145,14 +2145,14 @@ Deep-time significance: {{p|Sanliurfa}}, in what is now southeastern
 The ancient hunter-gatherer temple complex that predates agriculture,
 Burial, and every named civilization. The oldest religious monument
 
-On earth. And the Gaiad's reading is that Abraham stopped here.
+On earth. And the {{x|Gaiad}}'s reading is that Abraham stopped here.
 Stopped in {{p|Sanliurfa}}. And that in {{p|Sanliurfa}}, he met Melchizedek—
 The mysterious priest-king of {{p|Salem}} who appears in {{p|Genesis 14}}
 To bless Abraham, receive a tithe, and disappear. The biblical
 
 Text places this meeting later in Abraham's journey, after he
-Rescues his nephew Lot from the {{p|Mesopotamian}} kings. The Gaiad
-Relocates it—in the Gaiad's reading, Melchizedek is "George
+Rescues his nephew Lot from the {{p|Mesopotamian}} kings. The {{x|Gaiad}}
+Relocates it—in the {{x|Gaiad}}'s reading, Melchizedek is "George
 Gobeklius," the last priest of the {{p|Göbekli Tepe}} tradition, the
 
 Figure whose ancestral religious memory traces back to the
@@ -2162,7 +2162,7 @@ Journey, encounters this priest and receives the blessing of the
 
 Old religious order.
 
-                           This is a major move. The Gaiad is making
+                           This is a major move. The {{x|Gaiad}} is making
 Abraham the spiritual heir of the {{p|Göbekli Tepe}} tradition. The
 Religious genealogy of the {{p|Abrahamic}} religions is extended backward
 
@@ -2173,11 +2173,11 @@ The transmission of spiritual authority from the old priesthood to
 
 The new. The blessing Abraham receives is the legitimation of his
 Mission by the oldest continuous religious lineage in human history.
-This is the Gaiad's quiet insertion. It is not in the biblical text.
+This is the {{x|Gaiad}}'s quiet insertion. It is not in the biblical text.
 But it is suggested by the geography—{{p|Sanliurfa}} really is the city
 
 Closest to {{p|Göbekli Tepe}}, and Abraham's journey really does pass
-Through it. And the Gaiad takes the geographical fact as a narrative
+Through it. And the {{x|Gaiad}} takes the geographical fact as a narrative
 Opening to link the deep prehistoric religious tradition to the
 Monotheistic tradition that Abraham is about to found.
 
@@ -2206,12 +2206,12 @@ Twelve tribes of {{p|Israel}}, and ultimately the {{p|Judaic}}, {{p|Christian}},
 And {{p|Islamic}} religious traditions that will define much of the
 Following three thousand years of human history.
 
-And Abraham's haplogroup, in the Gaiad's reading, is J—the
+And Abraham's haplogroup, in the {{x|Gaiad}}'s reading, is J—the
 {{p|Semitic}} haplogroup of the ancient {{p|Near East}}. Specifically, Abraham
 Is a figure at the junction of J1 and J2—the desert-Arabian
 Branch and the Levantine-settled branch. His own ancestry in {{p|Ur}}
 
-Would have been J2 (the settled Mesopotamian variety), but his
+Would have been J2 (the settled {{p|Mesopotamian}} variety), but his
 Later wandering life in the {{p|Canaanite}} and desert margins brings
 Him into J1 territory. His son Ishmael will become the
 Founder of J1-dominated {{p|Arabian}} lineages. His son Isaac will
@@ -2338,22 +2338,22 @@ Preserved example, and its influence on later legal traditions—
 
 Through the {{p|Assyrian}} and {{p|Neo-Babylonian}} codes, through
 {{p|Persian}} imperial law, through the {{p|Mosaic}} law of the {{p|Hebrew}}
-Bible (which shows significant parallels to Hammurabi), through
+{{x|Bible}} (which shows significant parallels to Hammurabi), through
 {{p|Roman}} law, and onward—is foundational. Every legal system that
 
 Descends from the ancient {{p|Near East}} carries Hammurabi's
 Influence. Every "eye for an eye" principle. Every notion of
 Written public law. Every claim that law is divinely sanctioned.
 
-And Hammurabi, in the Gaiad's reading, is Abraham's cousin.
+And Hammurabi, in the {{x|Gaiad}}'s reading, is Abraham's cousin.
 Not in the narrow biological sense—the two figures are separated by
 Perhaps a century or more—but in the broader genealogical sense
-That the Gaiad applies. Both are J-haplogroup {{p|Semitic}} men.
+That the {{x|Gaiad}} applies. Both are J-haplogroup {{p|Semitic}} men.
 
 Both are products of the {{p|Amorite}} migrations that reshaped
 {{p|Mesopotamia}} in the early second millennium BCE. Both descend, at
 Some remove, from the same pool of {{p|Semitic}} ancestors who had
-Spread across the region after the fall of {{p|Ur III}}. The Gaiad
+Spread across the region after the fall of {{p|Ur III}}. The {{x|Gaiad}}
 
 Makes them cousins in the cultural sense—contemporaries, or near-
 Contemporaries, who shared a haplogroup, a language family, a
@@ -2385,7 +2385,7 @@ His death, {{p|Babylon}} was weakened by succession struggles. His
 Son Samsu-iluna faced rebellions across the empire. The southern
 Provinces seceded. The {{p|Sealand Dynasty}} established itself in the
 Marshes of the {{p|Persian Gulf}}. And then, in fifteen ninety-five BCE,
-The {{p|Hittites}}—Indo-European invaders from {{p|Anatolia}} whose chapter
+The {{p|Hittites}}—{{x|Indo-European}} invaders from {{p|Anatolia}} whose chapter
 
 Will come later—raided {{p|Babylon}} itself, sacked the city, and
 Carried off the statue of Marduk. The {{p|Old Babylonian}} empire
@@ -2613,7 +2613,7 @@ Subjects. {{p|Egyptian}} culture and {{p|Canaanite}} culture began the long
 
 Process of mutual influence that would shape the ancient {{p|Near
 Eastern}} world. And this is where the biblical Joseph story, the
-Gaiad will argue in the following chapters, is historically situated—
+{{x|Gaiad}} will argue in the following chapters, is historically situated—
 During the later {{p|Middle Kingdom}} or the transition to the {{p|Second
 
 Intermediate Period}}, when {{p|Canaanite}} families entering {{p|Egypt}}
@@ -2633,7 +2633,7 @@ Dynasty there, with its capital at {{p|Avaris}}. The {{p|Second Intermediate
 Period}} began. A second {{p|Egyptian}} collapse, three centuries after
 
 The first. This second collapse would be the context of the biblical
-Jacob and Joseph narratives, which the Gaiad will unpack in
+Jacob and Joseph narratives, which the {{x|Gaiad}} will unpack in
 The next chapter.
 
                       But the {{p|Middle Kingdom}} itself—as a phase, as
@@ -2679,13 +2679,13 @@ Reconciliation with his brother Esau, the favoritism toward
 Rachel's children over Leah's, the grief over the supposed death
 Of Joseph. These are stories well-known in the {{p|Jewish}}, {{p|Christian}},
 
-And {{p|Islamic}} traditions, and the Gaiad will not rehearse them in
-Detail. What the Gaiad does do, in this chapter, is place Jacob
+And {{p|Islamic}} traditions, and the {{x|Gaiad}} will not rehearse them in
+Detail. What the {{x|Gaiad}} does do, in this chapter, is place Jacob
 And his family historically—in the late {{p|Middle Kingdom}} or the
 Beginning of the {{p|Second Intermediate Period}}, around seventeen-
 
 Hundred to sixteen-fifty BCE, in the context of the {{p|Hyksos}}
-Arrival in {{p|Egypt}}. And the Gaiad makes a specific claim: Joseph's
+Arrival in {{p|Egypt}}. And the {{x|Gaiad}} makes a specific claim: Joseph's
 Rise to prominence in {{p|Egypt}} is legible precisely because he is
 A {{p|Canaanite}}—a member of the same J-haplogroup {{p|Semitic}} population
 
@@ -2715,7 +2715,7 @@ Family down to {{p|Egypt}} and settles them in the region of {{p|Goshen}}—
 The eastern {{p|Nile Delta}}, the pastoral lands best suited to their
 Herding lifestyle.
 
-                       And the Gaiad's historical overlay on this
+                       And the {{x|Gaiad}}'s historical overlay on this
 Narrative is the {{p|Hyksos}} framework. The {{p|Hyksos}}—whose name in
 
 {{p|Egyptian}} is Heka-khasut, "rulers of foreign lands"—were a
@@ -2750,7 +2750,7 @@ Divided—the {{p|Hyksos}} ruling the delta, the native {{p|Egyptians}} ruling
 {{p|Upper Egypt}}, with {{p|Nubian}} kingdoms further south occasionally
 Allied with either side depending on strategic calculations.
 
-And this is the world in which, the Gaiad argues, the biblical
+And this is the world in which, the {{x|Gaiad}} argues, the biblical
 Jacob and Joseph narratives take place. Joseph's rise to
 Vizier-level prominence is possible because he is a {{p|Canaanite}}—
 And the pharaoh who appoints him is a {{p|Hyksos}} pharaoh. The
@@ -2765,7 +2765,7 @@ Not the exception; thousands of other {{p|Canaanite}} families were
 Doing the same thing. The biblical narrative sits comfortably
 Inside the {{p|Hyksos}} period.
 
-And the Gaiad makes a further claim: the {{p|Hyksos}} themselves are
+And the {{x|Gaiad}} makes a further claim: the {{p|Hyksos}} themselves are
 Not the villains that later {{p|Egyptian}} historiography made them out
 To be. Later native {{p|Egyptian}} sources—particularly the {{p|New Kingdom}}
 Accounts written after the {{p|Hyksos}} expulsion—would demonize them as
@@ -2811,13 +2811,13 @@ Dynasty adopted local administrative forms while retaining its
 Own linguistic and religious identity.
 
                                              And the Jacob family—
-The future Israelites—were, in the Gaiad's reading, a sub-population
+The future Israelites—were, in the {{x|Gaiad}}'s reading, a sub-population
 Of this larger {{p|Canaanite}} presence in the {{p|Hyksos}}-controlled delta.
 
 They came during the {{p|Hyksos}} period. They flourished during it.
 They were welcomed, even privileged, during it. Joseph's rise
 Is legible against this background. And the specific tribal names
-That the Gaiad has been tracking—Reuben, Simeon, Levi, Judah,
+That the {{x|Gaiad}} has been tracking—Reuben, Simeon, Levi, Judah,
 
 Issachar, Zebulun, Dan, Naphtali, Gad, Asher, Joseph
 (Later divided into Ephraim and Manasseh), Benjamin—are the
@@ -2854,7 +2854,7 @@ Welcome and prosperity under the {{p|Hyksos}} pharaoh curdles, over
 Several generations, into a memory of oppression under {{p|New
 Kingdom}} pharaohs who "knew not Joseph." The biblical phrase—
 "a new king arose over {{p|Egypt}} who knew not Joseph"—is, in the
-Gaiad's reading, the moment when the {{p|Eighteenth Dynasty}} restoration
+{{x|Gaiad}}'s reading, the moment when the {{p|Eighteenth Dynasty}} restoration
 
 Ends the {{p|Canaanite}}-friendly era. The new king does not know
 Joseph because Joseph served a {{p|Hyksos}} king, and the new
@@ -2919,12 +2919,12 @@ Purely the people they had joined.
                                            The {{p|Aryan Migration}}.
 
                                                                           Here
-The Gaiad must be careful. The word "{{p|Aryan}}" has been abused in
+The {{x|Gaiad}} must be careful. The word "{{p|Aryan}}" has been abused in
 
 Modern history—used by nineteenth and twentieth century ideologies
 To construct racial hierarchies, to justify conquest and genocide,
 To fabricate a pure-blood master-race that never existed. The
-Gaiad rejects all of that. The "{{p|Aryan}}" people of the ancient world
+{{x|Gaiad}} rejects all of that. The "{{p|Aryan}}" people of the ancient world
 
 Were not a "race"; they were a linguistic and cultural group—
 Speakers of the {{p|Indo-Iranian}} branch of {{p|Indo-European}}, probably
@@ -2936,7 +2936,7 @@ Nothing more supernatural than that. The word "{{p|Aryan}}" in its
 Original context meant, simply, "noble" in the {{p|Indo-Iranian}}
 Languages—a self-designation of the elite warrior class, not a
 
-Racial category. The Gaiad uses the word in its original linguistic
+Racial category. The {{x|Gaiad}} uses the word in its original linguistic
 And cultural sense, with no racial implications.
 
                                                         So: around
@@ -2965,7 +2965,7 @@ Longer the organized urban civilization it had been a thousand
 
 Years earlier.
 
-                    The {{p|Aryan}} arrival is not, in the Gaiad's
+                    The {{p|Aryan}} arrival is not, in the {{x|Gaiad}}'s
 Reading, the cause of the {{p|Indus Valley}} collapse. The collapse
 Was already underway before they arrived—probably driven by climate
 
@@ -2974,7 +2974,7 @@ Shifting of monsoons) and by internal political and economic
 Pressures. The {{p|Aryans}} arrived into an ongoing collapse, not a
 Stable civilization. They filled a partial vacuum. And—crucially—
 
-The Gaiad reads the relationship between the incoming {{p|Aryans}}
+The {{x|Gaiad}} reads the relationship between the incoming {{p|Aryans}}
 And the pre-existing {{p|Dravidian}} and other non-{{p|Aryan}} populations
 As substantially cooperative rather than violently adversarial.
 
@@ -3008,7 +3008,7 @@ Encounter produced what became classical {{p|Hindu}} civilization. The
 
 Approximately fifteen-hundred and twelve-hundred BCE in the
 {{p|Punjab}} and upper {{p|Ganges}} region—are the oldest surviving
-Indo-European religious texts. They preserve the {{p|Aryan}} religious
+{{x|Indo-European}} religious texts. They preserve the {{p|Aryan}} religious
 Imagination in its most archaic form: sky-father Dyaus, storm-god
 
 Indra, fire-god Agni, soma-intoxication ritual, horse sacrifice,
@@ -3018,8 +3018,8 @@ European}}—the same pantheon structure as {{p|Greek}}, {{p|Roman}}, and
 
 {{p|Germanic}} religion, just with different names for the gods. Dyaus
 Is the same as Zeus and Jupiter and Tyr ({{p|German}})—all
-Descended from Proto-Indo-European {{p|Dyeus Phter}} ("sky father").
-Indra is cognate with the Greek Heracles in his storm-god
+Descended from {{x|Proto-Indo-European}} {{p|Dyeus Phter}} ("sky father").
+Indra is cognate with the {{x|Greek}} Heracles in his storm-god
 
 Aspects. The {{p|Vedas}} are {{p|Aryan}} religion in its pure form.
 
@@ -3098,12 +3098,12 @@ The {{p|Dravidian}} languages of the south—{{p|Tamil}}, {{p|Telugu}}, {{p|Kann
 
 Substrate, much as {{p|Basque}} preserves the pre-{{p|Indo-European}}
 Substrate of {{p|Europe}}. The line between {{p|Aryan}} and {{p|Dravidian}}
-India is roughly the boundary between the two great language
+{{p|India}} is roughly the boundary between the two great language
 Families, though bilingualism, literary exchange, and cultural
 
 Mixing have blurred it extensively over the centuries.
 
-The {{p|Aryan Migration}} is not, in the Gaiad's reading, a catastrophe.
+The {{p|Aryan Migration}} is not, in the {{x|Gaiad}}'s reading, a catastrophe.
 It is a transition—one that produced the civilization that would
 Compose the {{p|Vedas}}, the {{p|Upanishads}}, the {{p|Bhagavad Gita}}, the
 
@@ -3197,7 +3197,7 @@ Reigned for approximately twenty-two years. She was astonishingly
 
 Successful. She prioritized trade over warfare—the famous expedition
 To {{p|Punt}} (on the {{p|Red Sea}} coast), which brought back myrrh-trees,
-Incense, exotic animals, and African wealth, was Hatshepsut's
+Incense, exotic animals, and {{p|African}} wealth, was Hatshepsut's
 Crowning diplomatic achievement. She built one of the most beautiful
 
 Mortuary temples in {{p|Egypt}}—{{p|Deir el-Bahari}}, on the western bank
@@ -3251,7 +3251,7 @@ Disk, Aten—with himself as the sole intermediary between the
 
 Divine and humanity. This is the famous "Aten heresy" or
 "Amarna revolution"—sometimes celebrated in popular history as the
-First monotheism. The Gaiad's reading is more skeptical. Akhenaten's
+First monotheism. The {{x|Gaiad}}'s reading is more skeptical. Akhenaten's
 Religious innovation was not quite monotheism in the Abrahamic
 
 Sense. It retained cosmic elements of the traditional {{p|Egyptian}}
@@ -3270,16 +3270,16 @@ Shares striking similarities with {{p|Psalm 104}} of the {{p|Hebrew
 Bible}}—a parallel that has led some scholars to argue that {{p|Hebrew}}
 
 Monotheism was influenced by or descended from Akhenaten's
-Earlier experiment. The Gaiad takes a careful position on this:
+Earlier experiment. The {{x|Gaiad}} takes a careful position on this:
 The parallel is real, but the historical transmission is murky,
 And the {{p|Hebrew}} tradition had its own independent development.)
 
-And here the Gaiad makes a specific and possibly provocative claim.
+And here the {{x|Gaiad}} makes a specific and possibly provocative claim.
 Akhenaten, despite his reputation in modern pop-religion as a
-"Proto-monotheist hero," was—in the Gaiad's reading—the pharaoh
+"Proto-monotheist hero," was—in the {{x|Gaiad}}'s reading—the pharaoh
 Who persecuted the {{p|Israelites}}. The "{{p|new king who knew not
 
-Joseph}}" of the {{p|Exodus}} narrative may be, in the Gaiad's reading,
+Joseph}}" of the {{p|Exodus}} narrative may be, in the {{x|Gaiad}}'s reading,
 Akhenaten himself. Why? Because Akhenaten's religious revolution
 Was anti-foreign-cult. In closing down the temples of the traditional
 {{p|Egyptian}} gods, he also closed down the temples of the {{p|Semitic}}
@@ -3290,7 +3290,7 @@ Family, still preserving their own {{p|Semitic}} religious identity—
 Found themselves religiously suppressed under Akhenaten's regime.
 
 The irony is striking: Akhenaten, celebrated by modern writers
-As the first monotheist, was in the Gaiad's reading the active
+As the first monotheist, was in the {{x|Gaiad}}'s reading the active
 Persecutor of the {{p|Israelites}}, whose descendants would develop
 The most important monotheism in subsequent world history. The
 
@@ -3354,7 +3354,7 @@ Peoples}}—the great migrations that would contribute to the
 Kingdom}}'s long expansion was ending. The system that had made
 Ramesses's grandeur possible was straining toward its final
 
-Failure. And the {{p|Exodus}} narrative—which the Gaiad reads as
+Failure. And the {{p|Exodus}} narrative—which the {{x|Gaiad}} reads as
 The {{p|Israelite}} departure from {{p|Egypt}} in the late {{p|Nineteenth
 Dynasty}} or early {{p|Twentieth Dynasty}}—fits into this period of
 Growing instability.
@@ -3369,7 +3369,7 @@ Sixty-six-year reign and his peace treaty with the {{p|Hittites}}. The
 Its peak. The monumental architecture, the international diplomacy,
 The religious upheaval, and the slowly tightening pressures that
 
-Would eventually bring the Bronze Age itself crashing down.
+Would eventually bring the {{x|Bronze Age}} itself crashing down.
 
 {{p|New Kingdom}}. Hatshepsut. Thutmose III. Akhenaten. Ramesses II.
 The {{p|Egyptian}} Empire. The {{p|Kadesh Peace Treaty}}. The persecution of
@@ -3405,7 +3405,7 @@ A literate, bureaucratic, well-documented civilization. And when
 
 The archives at {{p|Hattusa}} were rediscovered in the late nineteenth
 And early twentieth centuries, they revolutionized our understanding
-Of the Bronze Age.
+Of the {{x|Bronze Age}}.
 
                            The {{p|Hittite}} kingdom—or {{p|Hatti}}, as it
 Called itself—was founded around seventeen-fifty BCE by Anitta,
@@ -3436,7 +3436,7 @@ Rulers: Suppiluliuma I, Mursili II, Muwatalli II, Hattusili III,
 Tudhaliya IV. The empire controlled central and eastern {{p|Anatolia}},
 Northern {{p|Syria}}, and much of the {{p|Levant}} (in competition and
 Occasional cooperation with {{p|Egypt}}). The {{p|Hittites}} were the
-Northern pole of a bipolar Bronze Age political system in which
+Northern pole of a bipolar {{x|Bronze Age}} political system in which
 
 {{p|Egypt}} was the southern pole. The two empires met, diplomatically
 Or militarily, at their mutual border zone in {{p|Syria}} and the
@@ -3488,7 +3488,7 @@ Peace treaty in human history. A copy of the {{p|Hittite}} version on
 Silver is displayed at the {{p|United Nations}} building in {{p|New York}}
 As a symbolic precedent for modern international diplomacy. The
 Treaty held for the rest of both empires' existences—the {{p|Hittite}}
-Empire would collapse in the Bronze Age Collapse around twelve
+Empire would collapse in the {{x|Bronze Age Collapse}} around twelve
 
 Hundred BCE, and {{p|Egypt}} would never again face a northern rival
 On the scale of {{p|Hatti}} until the rise of {{p|Assyria}} centuries
@@ -3503,7 +3503,7 @@ Usual pantheon) but heavily syncretized with {{p|Anatolian}} and
 
 {{p|Hurrian}} elements absorbed from their neighbors and subject
 Populations. The {{p|Hittites}} famously called their kingdom the
-"Land of the Thousand Gods"—they incorporated every deity of every
+"{{x|Land of the Thousand Gods}}"—they incorporated every deity of every
 Conquered territory into their expanding pantheon, rather than
 
 Suppressing local cults. This made {{p|Hittite}} religion tolerant and
@@ -3528,7 +3528,7 @@ World. Whether that is true or whether it reflected specific
 
 {{p|Anatolian}} circumstances is debated. But the {{p|Hittite}} legal
 Tradition was noticeably less retributive than its southern
-Mesopotamian counterpart.
+{{p|Mesopotamian}} counterpart.
 
 And the {{p|Hittites}} in the biblical record—this is interesting. The
 {{p|Hebrew Bible}} mentions "Hittites" repeatedly as one of the
@@ -3549,7 +3549,7 @@ Takes shape, but its cultural and ethnic remnants persisted for
 Several more centuries.
 
                               And the fall of the {{p|Hittite}} Empire
-Is, the Gaiad has already indicated, part of the Bronze Age Collapse.
+Is, the {{x|Gaiad}} has already indicated, part of the {{x|Bronze Age Collapse}}.
 Around twelve-hundred BCE, the {{p|Hittite}} capital {{p|Hattusa}} was
 
 Sacked and burned. The {{p|Hittite}} central administration collapsed.
@@ -3559,10 +3559,10 @@ Debated—probably a combination of the {{p|Sea Peoples}} raids, internal
 
 Rebellions (possibly by the {{p|Kaska}} tribes of the {{p|Black Sea}} coast),
 Climate-induced famine, and the general systemic failure of the
-Bronze Age international system. Whatever the cause, the {{p|Hittite}}
+{{x|Bronze Age}} international system. Whatever the cause, the {{p|Hittite}}
 Empire ended suddenly and catastrophically, more so than any other
 
-Major Bronze Age civilization. {{p|Egypt}} survived, diminished. {{p|Assyria}}
+Major {{x|Bronze Age}} civilization. {{p|Egypt}} survived, diminished. {{p|Assyria}}
 Survived, briefly interrupted. {{p|Babylon}} survived, under {{p|Kassite}}
 Rule. But the {{p|Hittites}} as an imperial civilization were gone
 Within a generation. Their capital was abandoned and forgotten.
@@ -3587,22 +3587,22 @@ Reconstructed.
 
                   {{p|Hittites}}. The first great {{p|Indo-European}} empire.
 The sack of {{p|Babylon}}. The rivalry with {{p|Egypt}}. The {{p|Kadesh}} peace
-Treaty. The "Land of the Thousand Gods." The law code less brutal
+Treaty. The "{{x|Land of the Thousand Gods}}." The law code less brutal
 
 Than Hammurabi's. The capital at {{p|Hattusa}} and its archive.
-The collapse in the Bronze Age Collapse. The three thousand years
+The collapse in the {{x|Bronze Age Collapse}}. The three thousand years
 Of forgetting. The twentieth-century rediscovery. The reconstruction
 Of a lost civilization from its hidden tablets.
 
 {{p|Hittites}}. {{p|Hattusa}}. {{p|Kadesh}}. The R1b-haplogroup empire of
-{{p|Anatolia}}. The northern pole of Bronze Age political order. The
+{{p|Anatolia}}. The northern pole of {{x|Bronze Age}} political order. The
 Forgotten and rediscovered empire.
 
 
 # Chapter 158: The Mycenaeans
 
 And in the west, on the southern tip of the {{p|Greek}} mainland and
-Across the {{p|Aegean}} islands, a third great Bronze Age civilization
+Across the {{p|Aegean}} islands, a third great {{x|Bronze Age}} civilization
 Was reaching its peak. {{p|Mycenaean Greece}}.
 
                                                    Named for {{p|Mycenae}},
@@ -3610,14 +3610,14 @@ The citadel on a hill in the {{p|Argolid}} whose massive "{{p|Cyclopean}}"
 Walls of unmortared limestone blocks, some weighing over twenty tons,
 Dominated the landscape. {{p|Mycenae}} was the political and cultural
 
-Center of the Bronze Age {{p|Greek}} world. Other major centers were
+Center of the {{x|Bronze Age}} {{p|Greek}} world. Other major centers were
 At {{p|Tiryns}}, {{p|Pylos}}, {{p|Athens}} (already a settled site, though
 Not yet the city it would become), {{p|Thebes}}, {{p|Orchomenos}}, and
 Several others. The {{p|Mycenaean}} civilization emerged around sixteen
 
 Hundred BCE—roughly contemporary with the {{p|New Kingdom}} beginning
 In {{p|Egypt}} and the {{p|Hittite}} kingdom consolidating in {{p|Anatolia}}—
-And flourished until the Bronze Age Collapse around twelve hundred BCE.
+And flourished until the {{x|Bronze Age Collapse}} around twelve hundred BCE.
 
 The {{p|Mycenaeans}} were R1b-haplogroup {{p|Indo-European}}-speakers—
 Descendants of the {{p|Yamnaya}} expansion that had reached {{p|Greece}} in
@@ -3630,7 +3630,7 @@ Michael Ventris, a young {{p|English}} architect with a passion for
 Ancient scripts, demonstrated that {{p|Linear B}} was used to write
 
 Early {{p|Greek}}. The achievement is one of the most celebrated in
-The history of decipherment. It opened up an entire Bronze Age
+The history of decipherment. It opened up an entire {{x|Bronze Age}}
 Civilization to modern understanding. We can read the {{p|Linear B}}
 Tablets recovered from {{p|Pylos}}, {{p|Knossos}}, {{p|Mycenae}}, and other
 
@@ -3650,9 +3650,9 @@ And above the bureaucratic record, the {{p|Mycenaean}} world was also
 A warrior society. The {{p|Mycenaean}} elite warriors—depicted in
 Frescoes, buried with bronze swords and boar's-tusk helmets and
 
-Gold-masked faces—were an Indo-European warrior aristocracy of the
+Gold-masked faces—were an {{x|Indo-European}} warrior aristocracy of the
 Type that the {{p|Yamnaya}} expansion had produced across the
-Indo-European world. The shaft-graves at {{p|Mycenae}}, excavated by
+{{x|Indo-European}} world. The shaft-graves at {{p|Mycenae}}, excavated by
 Heinrich Schliemann in eighteen-seventy-six, contained gold funerary
 
 Masks (including the famous "{{p|Mask of Agamemnon}}," though the
@@ -3703,15 +3703,15 @@ Olive oil, wine, textiles, and their distinctive pottery. The
 Every direction, moving goods that the palaces redistributed and
 Taxed. The palatial economy was in the middle of the trade network,
 And the wealth that flowed through it made {{p|Mycenae}} and its
-Sister-cities genuinely rich by Bronze Age standards.
+Sister-cities genuinely rich by {{x|Bronze Age}} standards.
 
 And one episode from this period—probably around the end of the
-Thirteenth century BCE, shortly before the Bronze Age Collapse—
+Thirteenth century BCE, shortly before the {{x|Bronze Age Collapse}}—
 Would become the greatest memorial narrative in {{p|Western}} literature.
 The {{p|Trojan War}}.
 
                          The historicity of the {{p|Trojan War}} is
-Debated but, the Gaiad accepts, broadly real. There was a city
+Debated but, the {{x|Gaiad}} accepts, broadly real. There was a city
 At {{p|Troy}} (the site called {{p|Hisarlik}} in northwestern {{p|Turkey}}),
 And it was destroyed by violence, and the destruction can be dated
 
@@ -3734,7 +3734,7 @@ In the heroic costume of the oral tradition, compressing and
 Elaborating and fictionalizing, but the historical kernel was there.
 
                                                                             And
-The {{p|Mycenaean}} civilization is, the Gaiad argues, the {{p|Greek}}
+The {{p|Mycenaean}} civilization is, the {{x|Gaiad}} argues, the {{p|Greek}}
 Contribution to the {{p|Bronze Age Collapse}} chapter. Within a
 
 Generation or two after the {{p|Trojan War}}, the {{p|Mycenaean}} palaces
@@ -3744,10 +3744,10 @@ Survive—they were baked hard by the fire instead of being allowed
 
 To dissolve in the normal way). The entire palatial civilization
 Collapsed in a generation around twelve-hundred BCE. The cause was
-The general Bronze Age Collapse—{{p|Sea Peoples}} raids, possibly
+The general {{x|Bronze Age Collapse}}—{{p|Sea Peoples}} raids, possibly
 Internal rebellions by the servile population, climate pressures,
 
-And the systemic failure of the Bronze Age international trade
+And the systemic failure of the {{x|Bronze Age}} international trade
 Network. The {{p|Mycenaean}} palaces went down in a coordinated wave
 Of destructions that archaeologists can date, across many sites,
 To the same twenty-year window. The civilization did not recover.
@@ -3765,7 +3765,7 @@ Via the {{p|Phoenician}} alphabet, around the eighth century BCE—the
 {{p|Greeks}} were a completely different civilization from what the
 {{p|Mycenaeans}} had been. They had forgotten {{p|Linear B}} entirely. They
 Had forgotten the palace economies. They had forgotten, in most
-Cases, the specific historical geography of their Bronze Age
+Cases, the specific historical geography of their {{x|Bronze Age}}
 
 Predecessors. What they remembered was the heroic poetry—the songs
 About Achilles and Odysseus and Agamemnon that had been
@@ -3778,7 +3778,7 @@ Was working from this oral tradition. The poems preserve fragments
 Of {{p|Mycenaean}} material culture (the boar's-tusk helmet, the
 
 Catalog of ships, certain personal names, certain geographical
-References) that must have been transmitted from the Bronze Age
+References) that must have been transmitted from the {{x|Bronze Age}}
 Without being archaeologically rediscovered until the nineteenth
 Century. Homer knew things about the {{p|Mycenaean}} world that he
 
@@ -3797,7 +3797,7 @@ In Nonnus of Panopolis's late antique epic {{p|Dionysiaca}}—a
 Forty-eight-book epic that is the longest surviving poem of
 
 Classical antiquity. The story is historically fantastical. But
-The Gaiad takes it as an eastward gesture, a pointing toward the
+The {{x|Gaiad}} takes it as an eastward gesture, a pointing toward the
 Connection between the {{p|Mediterranean}} and {{p|Indian}} worlds that will
 Become increasingly important in later chapters. Dionysus into
 
@@ -3809,7 +3809,7 @@ That suggest deeper awareness of each other than the strict
 Archaeological record demonstrates. The {{p|Mycenaean}} world, at its
 Height, was in communication with {{p|Anatolia}}, {{p|Syria}}, {{p|Egypt}}, and
 Probably indirectly with {{p|Mesopotamia}} and beyond. The cultural
-Connections of the late Bronze Age were real and extensive. And
+Connections of the late {{x|Bronze Age}} were real and extensive. And
 
 The myths preserve traces of those connections, even after the
 Archaeological and documentary evidence has fragmented.
@@ -3823,7 +3823,7 @@ Age civilization of the {{p|Aegean}} at its peak. The palace economies,
 The warrior aristocracy, the syncretic absorption of {{p|Minoan}}
 Culture. And then—in a generation—the collapse.
 
-{{p|Mycenaean Greece}}. The warrior civilization. The Bronze Age peak.
+{{p|Mycenaean Greece}}. The warrior civilization. The {{x|Bronze Age}} peak.
 The foundation of {{p|Greek}} identity that would be preserved through
 The {{p|Dark Age}} in oral poetry and recovered, in attenuated form,
 When Homer sang the songs that became the {{p|Iliad}} and {{p|Odyssey}}.
@@ -3833,7 +3833,7 @@ When Homer sang the songs that became the {{p|Iliad}} and {{p|Odyssey}}.
 
 # Chapter 159: The Ramayana
 
-And now the great swerve of the Gaiad. The moment where the
+And now the great swerve of the {{x|Gaiad}}. The moment where the
 Narrative crosses all the rational chronologies and follows the
 Thread of mythic resonance instead. The {{p|Ramayana}}.
 
@@ -3850,15 +3850,15 @@ Bridge across the ocean. They invade {{p|Lanka}}. They defeat Ravana.
 They recover Sita. They return to {{p|Ayodhya}} and Rama is restored
 To his throne. The epic is one of the foundational {{p|Sanskrit}}
 Texts, composed probably between the seventh and fourth centuries
-BCE, though its oral roots go much deeper—perhaps to the Vedic
+BCE, though its oral roots go much deeper—perhaps to the {{x|Vedic}}
 
-Period, perhaps to the Aryan migration itself. And the text is
+Period, perhaps to the {{x|Aryan}} migration itself. And the text is
 Usually read as purely {{p|Indian}}: a story of northern {{p|India}}
 Conquering southern {{p|India}}, or of {{p|Indo-Aryan}} peoples subduing
 {{p|Dravidian}} peoples, or of cosmic dharma triumphing over demonic
 
-Adharma. All of these readings are valid. But the Gaiad reads the
-{{p|Ramayana}} differently. The Gaiad reads the {{p|Ramayana}} as evidence
+{{x|Adharma}}. All of these readings are valid. But the {{x|Gaiad}} reads the
+{{p|Ramayana}} differently. The {{x|Gaiad}} reads the {{p|Ramayana}} as evidence
 Of something extraordinary: that the {{p|Indo-European}} diaspora,
 Which by the second millennium BCE had spread from {{p|Ireland}} to
 
@@ -3872,8 +3872,8 @@ The prince raises an army of allies. The army crosses the sea
 To a fortified island or peninsula where the abductor rules.
 The siege lasts years. Eventually the fortress falls, the wife
 
-Is recovered, the villain is slain. In the Greek case: Menelaus,
-Helen, Paris, {{p|Troy}}, the {{p|Achaean}} coalition. In the Indian case:
+Is recovered, the villain is slain. In the {{x|Greek}} case: Menelaus,
+Helen, Paris, {{p|Troy}}, the {{p|Achaean}} coalition. In the {{p|Indian}} case:
 Rama, Sita, Ravana, {{p|Lanka}}, the monkey army. The parallels are
 Not superficial. They are structural. They extend to specific
 
@@ -3888,7 +3888,7 @@ At the extreme western and eastern ends of the diaspora, recognized
 For what they are only when scholars began comparing myths across
 
 Traditions in the nineteenth and twentieth centuries CE. And the
-Gaiad goes further. The Gaiad proposes that Rama is not only
+{{x|Gaiad}} goes further. The {{x|Gaiad}} proposes that Rama is not only
 A structural parallel of the {{p|Trojan War}}. Rama's expedition
 Also resonates with {{p|Egyptian}} and {{p|Ethiopian}} narratives of
 
@@ -3904,13 +3904,13 @@ Rama and Ravana are two aspects of a single cosmic principle.
 
 In some esoteric readings, the {{p|Ramayana}} is not a story about
 {{p|India}} at all but about the whole human civilization of the
-Bronze Age, refracted through the {{p|Indian}} tradition into a local
-And specific form. The Gaiad entertains these readings. The Gaiad
+{{x|Bronze Age}}, refracted through the {{p|Indian}} tradition into a local
+And specific form. The {{x|Gaiad}} entertains these readings. The {{x|Gaiad}}
 
 Entertains them not as claims of literal historical fact but as
 Recognitions of deep mythic unity. The {{p|Ramayana}} is the {{p|Indian}}
 Reflex of a narrative complex that humanity as a whole was
-Generating in the late Bronze Age—a complex that also produced
+Generating in the late {{x|Bronze Age}}—a complex that also produced
 
 The {{p|Iliad}}, the {{p|Egyptian}} stories of the war against {{p|Hyksos}}
 And {{p|Sea Peoples}}, the {{p|Hebrew}} narrative of Moses leading his
@@ -3920,7 +3920,7 @@ People out of bondage, the {{p|Hittite}} accounts of the battle of
 Specific contents. But a common structural feature: the
 Confrontation with a powerful adversary, the long siege or long
 Journey, the eventual restoration of righteous order. This is
-The shared grammar of Bronze Age civilizational narrative.
+The shared grammar of {{x|Bronze Age}} civilizational narrative.
 
                                                            And
 Rama's dharma—the concept of righteous conduct, duty, the
@@ -3975,7 +3975,7 @@ The three wander the forests of central {{p|India}} for years. And then,
 While Rama is distracted by a magical deer, Ravana abducts Sita
 
 And carries her to {{p|Lanka}}. The demon-king Ravana rules from
-{{p|Lanka}}—in traditional Indian geography identified with {{p|Sri Lanka}},
+{{p|Lanka}}—in traditional {{p|Indian}} geography identified with {{p|Sri Lanka}},
 Though some scholars have proposed other locations. Ravana has ten
 Heads, twenty arms, enormous magical power, and a fortified island
 
@@ -4012,7 +4012,7 @@ Rama, having recovered Sita, questions her chastity. She has lived
 In Ravana's palace for months. Has she been violated? She insists
 
 She has not. Rama demands proof. Sita walks into a fire—the
-Agnipariksha, the trial by fire. The fire-god Agni refuses to
+{{x|Agnipariksha}}, the trial by fire. The fire-god Agni refuses to
 Burn her. She emerges unharmed. Her chastity is vindicated. They
 Return to {{p|Ayodhya}} and Rama is crowned king. His reign is the
 
@@ -4055,7 +4055,7 @@ The {{p|Ramayana}} is a shared civilizational text of Southeast
 {{p|Asian}} {{p|Indic}} culture. And its influence extends westward too.
 
 In {{p|Tibet}} the {{p|Ramayana}} appears in {{p|Buddhist}} recension. In {{p|Mongolia}}.
-In {{p|Central Asia}}. In {{p|Ethiopia}}—and this is where the Gaiad's deepest
+In {{p|Central Asia}}. In {{p|Ethiopia}}—and this is where the {{x|Gaiad}}'s deepest
 Claim becomes interesting—there are traditions that connect Rama
 To {{p|African}} figures. Some {{p|Ethiopian}} traditions associate Rama with
 
@@ -4064,13 +4064,13 @@ Of divine pharaohs. Some traditions propose that Rama and Ravana
 Are structurally related to Horus and Seth, the {{p|Egyptian}} brothers
 Whose conflict structures so much of {{p|Egyptian}} theology. The
 
-Gaiad does not insist on these connections. They are speculative.
+{{x|Gaiad}} does not insist on these connections. They are speculative.
 They operate at the level of poetic rather than historical truth.
 But they are part of the living imagination of how civilizations
 Remember themselves and each other. The {{p|Ramayana}}, in this reading,
 
-Is a window onto a moment in Bronze Age history when the whole
-Mediterranean and {{p|Indian Ocean}} world was engaged in a single
+Is a window onto a moment in {{x|Bronze Age}} history when the whole
+{{p|Mediterranean}} and {{p|Indian Ocean}} world was engaged in a single
 Great conversation about the nature of kingship, the recovery of
 Stolen queens, and the restoration of cosmic order. The {{p|Ramayana}}
 
@@ -4080,8 +4080,8 @@ Narratives that did span that whole world, and that remembered
 That whole world as sharing a common civilizational project.
 
                                                                And
-This is the meaning of the great swerve of the Gaiad. The meaning
-Of pausing the Bronze Age collapse chronology long enough to tell
+This is the meaning of the great swerve of the {{x|Gaiad}}. The meaning
+Of pausing the {{x|Bronze Age}} collapse chronology long enough to tell
 The {{p|Ramayana}}. It is a reminder that humanity, even in the age
 
 Of warring empires and isolating geographies, was already one
@@ -4092,7 +4092,7 @@ These were not isolated civilizations. They were nodes in a
 Network. Their myths resonated. Their heroes were cognate. Their
 Gods were translatable. Their kings corresponded with each other
 In {{p|Akkadian}} cuneiform across thousands of miles. And when the
-Bronze Age system collapsed around twelve-hundred BCE, it was
+{{x|Bronze Age}} system collapsed around twelve-hundred BCE, it was
 
 Not the collapse of isolated local civilizations. It was the
 Collapse of an integrated world. The {{p|Ramayana}} preserves, in
@@ -4107,12 +4107,12 @@ Into specific cultural forms, but grounded in a common grammar.
 The {{p|Ramayana}} is the eastern reflection of that common grammar.
 The {{p|Iliad}} is the western reflection. The {{p|Exodus}} is the southern
 Reflection. The sack of {{p|Hattusa}} is the northern reflection. Four
-Great narratives of Bronze Age crisis and transformation. Four
+Great narratives of {{x|Bronze Age}} crisis and transformation. Four
 
-Local instantiations of a shared civilizational moment. The Gaiad
+Local instantiations of a shared civilizational moment. The {{x|Gaiad}}
 Honors this by telling them together. Not as isolated stories of
 Isolated peoples, but as resonances of a single crisis in the
-Integrated Bronze Age world.
+Integrated {{x|Bronze Age}} world.
 
                                Rama. Sita. Hanuman. Ravana.
 {{p|Ayodhya}}. {{p|Lanka}}. {{p|Ram Setu}} bridge across the sea. The seven-hundred
@@ -4121,7 +4121,7 @@ Kings who take Rama's name. The {{p|Javanese}} shadow puppets that
 
 Dance Rama's war. The {{p|Cambodian}} temple walls that carve Ravana's
 Fall. The deep structural parallel with the {{p|Trojan War}}. The
-Civilizational memory, preserved in verse, of a Bronze Age world
+Civilizational memory, preserved in verse, of a {{x|Bronze Age}} world
 That thought itself as one world.
 
                                      The {{p|Ramayana}}. Eastern reflex
@@ -4133,7 +4133,7 @@ Humanity's unity at the moment of greatest apparent fragmentation.
 
 Three events. Perhaps. Perhaps more than three. Perhaps a single
 Event refracted into three narratives. Around twelve-hundred BCE,
-The Bronze Age world shattered.
+The {{x|Bronze Age}} world shattered.
 
                                  Begin with what archaeology knows.
 Between twelve-twenty-five and eleven-seventy-five BCE, over a
@@ -4150,20 +4150,20 @@ Abandoned. {{p|Knossos}}, on {{p|Crete}}: destroyed. {{p|Troy}} (the archaeologi
 Layer {{p|Troy VIIa}}): destroyed around twelve-hundred BCE. The
 {{p|Egyptian}} Empire: severely damaged, retreating from its {{p|Levantine}}
 
-Provinces. The {{p|Kassite}} Babylonian kingdom: fatally weakened. The
-{{p|Elamite}} kingdom: disrupted. Cyprus: raided. The cities of {{p|Canaan}}:
+Provinces. The {{p|Kassite}} {{p|Babylonian}} kingdom: fatally weakened. The
+{{p|Elamite}} kingdom: disrupted. {{p|Cyprus}}: raided. The cities of {{p|Canaan}}:
 Many destroyed. {{p|Emar}}, {{p|Kadesh}}, {{p|Alalakh}}, {{p|Gath}}: destroyed. Only a
-Few Bronze Age states survived intact: {{p|Egypt}} (barely, much
+Few {{x|Bronze Age}} states survived intact: {{p|Egypt}} (barely, much
 
 Diminished), {{p|Assyria}} (temporarily eclipsed), {{p|Babylon}} (under new
 Management). The rest vanished. Writing systems were lost: {{p|Linear B}}
 Disappeared from the {{p|Aegean}}; {{p|Hittite}} cuneiform died with {{p|Hattusa}};
-The whole corpus of Bronze Age diplomatic correspondence ceased.
+The whole corpus of {{x|Bronze Age}} diplomatic correspondence ceased.
 
 Population fell catastrophically—in some regions by as much as
 Ninety percent. Trade networks that had linked {{p|Mycenae}} to
 {{p|Ugarit}} to {{p|Egypt}} to {{p|Mesopotamia}} to {{p|Cyprus}} to {{p|Sardinia}} collapsed.
-The whole integrated Bronze Age world fell apart at once.
+The whole integrated {{x|Bronze Age}} world fell apart at once.
 
                                                             What
 Caused this? Historians have proposed many factors. No single
@@ -4172,13 +4172,13 @@ Simultaneously. First: climate change. Tree-ring and sediment data
 
 Indicate a severe drought in the {{p|Mediterranean}} and {{p|Near East}}
 Between approximately twelve-fifty and eleven-fifty BCE. The drought
-Lasted for decades and was the most severe of the entire Bronze Age.
+Lasted for decades and was the most severe of the entire {{x|Bronze Age}}.
 Agricultural yields collapsed. Famines followed. Second: earthquakes.
 
 Archaeological evidence suggests a series of severe earthquakes
 Devastated {{p|Aegean}} and {{p|Anatolian}} cities during this period. Many
 Destruction layers show seismic damage preceding or accompanying
-The burning. Third: internal rebellion. Bronze Age palatial
+The burning. Third: internal rebellion. {{x|Bronze Age}} palatial
 
 Economies were highly stratified: palace elites extracted grain and
 Labor from peasant populations, and the system depended on the
@@ -4191,7 +4191,7 @@ The most famous are the {{p|Sea Peoples}}—a coalition of seaborne
 Raiders whose name is known only from {{p|Egyptian}} inscriptions at
 
 {{p|Medinet Habu}} and elsewhere. Ramesses III, the last great pharaoh
-Of the New Kingdom, fought the {{p|Sea Peoples}} in two massive
+Of the {{x|New Kingdom}}, fought the {{p|Sea Peoples}} in two massive
 Engagements around eleven-seventy BCE. His victory saved {{p|Egypt}}
 From total conquest but could not save the {{p|Levantine}} provinces.
 
@@ -4223,7 +4223,7 @@ Show {{p|Aegean}} affinities. They were probably {{p|Mycenaean}} refugees
 Establishing a foothold in {{p|Canaan}} after the collapse.
 
                                                          And fifth:
-Systems collapse. Even absent any single cause, the Bronze Age
+Systems collapse. Even absent any single cause, the {{x|Bronze Age}}
 International system had grown fragile in its complexity. Far-
 
 Flung trade networks depended on the continuous functioning of
@@ -4253,18 +4253,18 @@ System of the {{p|Mediterranean}} (it was simpler, more democratic,
 
 Less dependent on centralized scribal classes). Small city-states
 And tribal confederations replaced the large palatial kingdoms
-Of the Bronze Age. The {{p|Phoenicians}}, the {{p|Greeks}} emerging from
-Their Dark Age, the {{p|Israelites}}, the {{p|Neo-Hittite}} states of northern
+Of the {{x|Bronze Age}}. The {{p|Phoenicians}}, the {{p|Greeks}} emerging from
+Their {{x|Dark Age}}, the {{p|Israelites}}, the {{p|Neo-Hittite}} states of northern
 
 {{p|Syria}}, the {{p|Aramean}} kingdoms—these were the new political forms.
-Smaller, more distributed, less top-heavy. The Bronze Age world
+Smaller, more distributed, less top-heavy. The {{x|Bronze Age}} world
 Of god-kings and thousand-god pantheons gave way, gradually, to
-The Iron Age world of ethnically defined nations, tribal gods
+The {{x|Iron Age}} world of ethnically defined nations, tribal gods
 
 With universalist pretensions, and eventually the first stirrings
 Of genuine monotheism. That transformation is the subject of the
 Next several chapters. But here, in this chapter, we must also
-Tell the other two events: the Exodus and the Trojan War.
+Tell the other two events: the {{x|Exodus}} and the {{x|Trojan War}}.
 
 Consider first the {{p|Exodus}}. According to the biblical narrative,
 Moses led the {{p|Israelites}} out of {{p|Egyptian}} bondage through a
@@ -4286,7 +4286,7 @@ Merneptah has defeated {{p|Israel}}, which implies that {{p|Israel}} existed
 As a recognizable entity in {{p|Canaan}} by that date. This gives a
 Rough terminus ante quem: however and whenever the {{p|Israelites}}
 
-Got to {{p|Canaan}}, they were there by twelve-oh-nine BCE. The Gaiad
+Got to {{p|Canaan}}, they were there by twelve-oh-nine BCE. The {{x|Gaiad}}
 Has already treated the specific narrative of Moses and the
 {{p|Exodus}}—and will revisit it briefly here, because the {{p|Exodus}}
 Is now recognizable as part of the broader {{p|Bronze Age Collapse}}.
@@ -4298,11 +4298,11 @@ Covenant at {{p|Sinai}}, wilderness wandering, conquest—became the
 
 Foundational narrative of {{p|Hebrew}} religion and identity. But the
 Structural fact underlying that narrative is that groups were
-Coming out of {{p|Egypt}} and entering {{p|Canaan}} during the Bronze Age
+Coming out of {{p|Egypt}} and entering {{p|Canaan}} during the {{x|Bronze Age}}
 Collapse era. The {{p|Israelite}} religious memory preserves, in
 
 Literary form, the experience of a people being born into
-Historical existence during the collapse of the Bronze Age
+Historical existence during the collapse of the {{x|Bronze Age}}
 International system. The shattering of the old order—the plagues,
 The arbitrary violence of pharaohs, the sudden possibility of
 
@@ -4319,7 +4319,7 @@ Seventy-four BCE—right at the beginning of the collapse. In the
 Archaeological dating, {{p|Troy VIIa}} (the layer most plausibly
 Identified with {{p|Homeric}} {{p|Troy}}) was destroyed around twelve-
 Hundred BCE—right in the middle of the collapse. In either case,
-The war that {{p|Homer}} describes is a Late Bronze Age event
+The war that {{p|Homer}} describes is a Late {{x|Bronze Age}} event
 
 Occurring during the collapse. The {{p|Achaean}} coalition of {{p|Mycenaean}}
 Kings sailing eastward to sack a fortified city on the {{p|Anatolian}}
@@ -4331,10 +4331,10 @@ Reality) probably over trade rights, tribute, the control of the
 {{p|Dardanelles}}, or simply the raiding opportunities available in a
 Destabilizing world. The {{p|Trojan War}} is the {{p|Greek}} memory of the
 
-Late Bronze Age as it shuddered toward its end. Shortly after
+Late {{x|Bronze Age}} as it shuddered toward its end. Shortly after
 The war, the palaces that launched it were themselves destroyed.
 Agamemnon's {{p|Mycenae}} burned within a generation of his victorious
-Return. Odysseus's {{p|Ithaca}} faded into the Dark Age. The victors
+Return. Odysseus's {{p|Ithaca}} faded into the {{x|Dark Age}}. The victors
 
 Of {{p|Troy}} outlived their victory by less than a century. Their
 Fall is implicit in the structure of the epic—{{p|Homer}} composes his
@@ -4344,15 +4344,15 @@ Four centuries at a vanished world. Agamemnon's {{p|Mycenae}} is, for
 {{p|Homer}}, already legend. The gold and bronze and chariots and
 Hundred-rowered ships—these are not part of {{p|Homer}}'s own world.
 They are remembered from the lost world. The {{p|Iliad}} and the
-{{p|Odyssey}} are Dark Age preservations of Bronze Age memory. And
+{{p|Odyssey}} are {{x|Dark Age}} preservations of {{x|Bronze Age}} memory. And
 
 That memory centers on a war that was itself the last coherent
 Expedition of the collapsing civilization.
 
                                              Three events. The
-{{p|Exodus}}. The {{p|Trojan War}}. The general collapse. The Gaiad reads them
+{{p|Exodus}}. The {{p|Trojan War}}. The general collapse. The {{x|Gaiad}} reads them
 
-As three reflexes of a single Bronze Age crisis. Three cultural
+As three reflexes of a single {{x|Bronze Age}} crisis. Three cultural
 Memories of what it was like to live through the shattering. In
 The {{p|Hebrew}} case: slavery, miraculous deliverance, covenant, the
 Forging of a new identity grounded in religious law. In the {{p|Greek}}
@@ -4364,9 +4364,9 @@ The forging of new ethnic groupings in the ruins. Each culture
 
 Processed the collapse in its own way. Each memory is partial and
 Reshaped. But all three memories are responses to the same
-Historical event: the end of the integrated Bronze Age world.
+Historical event: the end of the integrated {{x|Bronze Age}} world.
 
-And the Gaiad makes a theological claim about this moment. The
+And the {{x|Gaiad}} makes a theological claim about this moment. The
 
 Collapse was not merely a disaster. It was also a birthing. In
 The rubble of the palatial economies, the preconditions for new
@@ -4378,24 +4378,24 @@ Idea of divine authority had to migrate elsewhere. It migrated
 Into text—{{p|Hebrew}} scripture in one line, {{p|Homeric}} epic in another,
 Eventually the philosophical writings of {{p|Greeks}} and {{p|Persians}} and
 
-{{p|Indians}} and {{p|Chinese}}. The Axial Age that follows—the great
+{{p|Indians}} and {{p|Chinese}}. The {{x|Axial Age}} that follows—the great
 Religious and philosophical revolution of the sixth century BCE,
 Which will produce Buddha, Confucius, Laozi, Mahavira, the
 {{p|Hebrew}} prophets, Zarathustra, the pre-Socratic {{p|Greeks}}—this
 
-Axial Age is possible because the Bronze Age god-kings have fallen.
+{{x|Axial Age}} is possible because the {{x|Bronze Age}} god-kings have fallen.
 Their collapse cleared the cultural space for new kinds of
 Religious imagination. Gods without kings. Kings without divinity.
 Ethical demands issued by transcendent sources rather than by
 
 Political rulers. Textual canons preserving religious authority
 Across political disruptions. These were all possible because the
-Bronze Age had ended. The collapse was the death of one mode of
+{{x|Bronze Age}} had ended. The collapse was the death of one mode of
 Religious life, but it was also the preparation for another. The
 
-Gaiad sees the hand of something vast in this: not providence in
+{{x|Gaiad}} sees the hand of something vast in this: not providence in
 The traditional sense, but the self-correcting, self-elaborating
-Unfolding of human religious possibility. The Bronze Age
+Unfolding of human religious possibility. The {{x|Bronze Age}}
 Civilizational system had reached its limit. Its fall made room
 
 For what came next.
@@ -4409,7 +4409,7 @@ Saving {{p|Egypt}} at {{p|Medinet Habu}}. {{p|Hattusa}} burning. {{p|Mycenae}} b
 The alphabet spreading. Iron replacing bronze. The palatial
 Kingdoms dying, the small nations being born. The end of the
 
-Integrated Bronze Age world.
+Integrated {{x|Bronze Age}} world.
 
                               {{p|Exodus}}, {{p|Trojan War}}, {{p|Bronze Age Collapse}}.
 Three names. One crisis. One birthing. The next three millennia
@@ -4423,7 +4423,7 @@ Is also transforming. The {{p|Shang Dynasty}} of {{p|China}}, which has ruled
 The {{p|Yellow River}} valley for nearly six centuries, falls to a rising
 Power from the west: the {{p|Zhou}}.
 
-                                     The {{p|Shang}}, as the Gaiad has
+                                     The {{p|Shang}}, as the {{x|Gaiad}} has
 Already noted, were the first historically documented {{p|Chinese}}
 Dynasty. Their capital shifted several times, but the last and
 Greatest was {{p|Yin}} or {{p|Anyang}}, in what is now {{p|Henan Province}}.
@@ -4451,7 +4451,7 @@ The {{p|Shang}} mind. The {{p|Shang}} king was not quite a god but a privileged
 Intermediary. The {{p|Shang}} state was organized around his ritual
 Calendar. And the {{p|Shang}} military was a formidable force, operating
 Chariots (introduced from the western steppe, probably via the
-{{p|Indo-European}} or {{p|Tocharian}} transmission that the Gaiad will
+{{p|Indo-European}} or {{p|Tocharian}} transmission that the {{x|Gaiad}} will
 
 Return to later), bronze weapons, and professional warriors.
 
@@ -4622,7 +4622,7 @@ Dating) occurred during Ramesses II's or Merneptah's reign. These
 
 Events are not simultaneous, but they are broadly contemporary.
 Across {{p|Eurasia}}—from the {{p|Aegean}} to the {{p|Yellow River}}—the late
-Bronze Age was ending, and new political and religious forms were
+{{x|Bronze Age}} was ending, and new political and religious forms were
 Emerging in its wake. The {{p|Zhou Dynasty}} is the {{p|East Asian}} equivalent
 
 Of the post-collapse reorganizations happening in the {{p|Mediterranean}}.
@@ -4663,8 +4663,8 @@ Fall of the {{p|Shang}}, we are at the beginning of all that. Di Xin
 In flames in his palace. King Wu entering {{p|Yin}}. The Duke of Zhou
 
 Drafting the political theology. The eight-hundred-year dynasty
-Beginning. The great Chinese classical age being born in the
-Moment when the Bronze Age died.
+Beginning. The great {{p|Chinese}} classical age being born in the
+Moment when the {{x|Bronze Age}} died.
 
                                   {{p|Shang}}. {{p|Zhou}}. {{p|Muye}}. {{p|Mandate of Heaven}}.
 Di Xin. Daji. King Wen. King Wu. Duke of Zhou. Jiang Ziya. The
@@ -4674,7 +4674,7 @@ The tyrant's cruelty and the virtuous rebel's restraint. The
 Lost mandate and the new dynasty. The {{p|Middle Kingdom}} defining
 Itself as center of the world. The eight-hundred-year reign.
 
-Fall of {{p|Shang}}. Rise of {{p|Zhou}}. {{p|China}}'s Bronze Age ending and its
+Fall of {{p|Shang}}. Rise of {{p|Zhou}}. {{p|China}}'s {{x|Bronze Age}} ending and its
 Classical age beginning.
 
 
@@ -4683,7 +4683,7 @@ Classical age beginning.
 And now, while the {{p|Mediterranean}} shatters and {{p|China}} is reborn,
 We must turn south. Because something vast is happening on the
 {{p|African}} continent. A population expansion that, in sheer scope
-And demographic impact, will equal any of the movements the Gaiad
+And demographic impact, will equal any of the movements the {{x|Gaiad}}
 
 Has described—including the {{p|Yamnaya}} expansion, the {{p|Austronesian}}
 Migrations, the {{p|Aryan}} movements into {{p|India}}. But unlike those,
@@ -4699,10 +4699,10 @@ Continent's demographic map becomes the map of {{p|Bantu}} speakers.
 Belonging to the {{p|Niger-Congo}} family, specifically the {{p|Bantu}}
 Branch. They carried primarily the E1b1a (now called E-V38)
 {{p|Y-chromosome}} haplogroup—a sub-clade of the E haplogroup that
-The Gaiad has already described as the {{p|African}} branch that
+The {{x|Gaiad}} has already described as the {{p|African}} branch that
 
 Stayed on the continent while its sister clades migrated out. And
-Around three thousand BCE—earlier than the event the Gaiad is
+Around three thousand BCE—earlier than the event the {{x|Gaiad}} is
 About to narrate but laying the necessary foundation—the early
 {{p|Bantu}} speakers developed agriculture: {{p|West African}} yam cultivation
 
@@ -4939,7 +4939,7 @@ Particular people—originating in a small region of {{p|West Africa}}—
 
 Became, through slow demographic growth and gradual geographic
 Spread, one of the world's largest ethnolinguistic families. The
-Gaiad has tended, in its narration of this vast process, to
+{{x|Gaiad}} has tended, in its narration of this vast process, to
 Emphasize demographic and linguistic continuity. But we must also
 
 Note that the {{p|Bantu}} expansion was not peaceful. It involved
@@ -4950,7 +4950,7 @@ Former territories did not go willingly. Some were killed; some
 Were enslaved; some were assimilated under duress. The {{p|Bantu}}
 Expansion was gentler than many conquest migrations in world
 History (the {{p|Mongol}} expansion, the {{p|Indo-European}} expansion
-Into {{p|Europe}}, the {{p|European}} colonization of the Americas), but it
+Into {{p|Europe}}, the {{p|European}} colonization of the {{p|Americas}}), but it
 
 Was not bloodless. It was a real historical movement with real
 Human costs. The {{p|Khoisan}} of the {{p|Kalahari}}, the {{p|Pygmies}} of the
@@ -4961,21 +4961,21 @@ Could not displace them. Their survival on those margins is itself
 A testimony both to their resilience and to the completeness of
 The {{p|Bantu}} occupation of everywhere more agriculturally desirable.
 
-The Gaiad honors the {{p|Bantu}} expansion. The Gaiad honors also the
+The {{x|Gaiad}} honors the {{p|Bantu}} expansion. The {{x|Gaiad}} honors also the
 
 Pre-{{p|Bantu}} peoples who were displaced or assimilated in its course.
-The Gaiad honors the hybrid populations that resulted. The Gaiad
+The {{x|Gaiad}} honors the hybrid populations that resulted. The {{x|Gaiad}}
 Honors the {{p|Pygmies}} who retained their identity in the depths of
-The {{p|Ituri}}. The Gaiad honors the {{p|Khoisan}} who retained theirs in
+The {{p|Ituri}}. The {{x|Gaiad}} honors the {{p|Khoisan}} who retained theirs in
 
-The depths of the {{p|Kalahari}}. The Gaiad honors the {{p|Nilotic}} and
+The depths of the {{p|Kalahari}}. The {{x|Gaiad}} honors the {{p|Nilotic}} and
 {{p|Cushitic}} peoples who retained theirs along the {{p|Rift Valley}} and
 The {{p|Horn of Africa}}. All of these peoples, together, constitute
 The anthropological mosaic of {{p|Africa}}. The {{p|Bantu}} are the largest
 
 Component but not the only component. Sub-Saharan {{p|Africa}} is
 More diverse than its {{p|Bantu}} majority might suggest. And the
-Gaiad reads the {{p|Bantu}} expansion as one of the most important
+{{x|Gaiad}} reads the {{p|Bantu}} expansion as one of the most important
 Processes of the last three thousand years—because it laid the
 
 Demographic foundation of the modern {{p|African}} continent.
@@ -5018,7 +5018,7 @@ The rise of the {{p|Achaemenid}} Empire). Most modern scholarship
 Settles on some point between twelve-hundred and one-thousand BCE—
 That is, roughly contemporary with the {{p|Bronze Age Collapse}} in the
 
-{{p|Mediterranean}} and the {{p|Zhou}} conquest in {{p|China}}. The Gaiad adopts
+{{p|Mediterranean}} and the {{p|Zhou}} conquest in {{p|China}}. The {{x|Gaiad}} adopts
 This dating. Zarathustra is another node in the widespread
 Religious transformation that followed the collapse of the Bronze
 Age order. His reform of {{p|Indo-Iranian}} religion is part of the
@@ -5032,13 +5032,13 @@ Earliest named prophet of this transformation. He is the first to
 Speak, in the surviving record, with the voice of a new religious
 Vision.
 
-            And now the Gaiad must say something carefully. A
+            And now the {{x|Gaiad}} must say something carefully. A
 Common misconception treats {{p|Zoroastrianism}} as the original
 
 Monotheism—the religion that invented the idea of a single
 Supreme god and from which {{p|Judaism}}, {{p|Christianity}}, and {{p|Islam}}
 Ultimately derive their monotheism. This account is partially true
-But oversimplified. The Gaiad has already advanced, in its earlier
+But oversimplified. The {{x|Gaiad}} has already advanced, in its earlier
 
 Treatment of comparative religious history, a more nuanced view:
 That original {{p|Zoroastrianism}} was not strictly monotheistic in
@@ -5070,10 +5070,10 @@ Was Zarathustra's great contribution. It would profoundly
 Influence all subsequent {{p|Near Eastern}} and {{p|European}} religion,
 Even when the dualism was later flattened into strict monotheism.
 
-The Gaiad has already discussed how later {{p|Zoroastrianism}},
+The {{x|Gaiad}} has already discussed how later {{p|Zoroastrianism}},
 Particularly under the {{p|Sassanid}} empire, became more explicitly
 Monotheistic, with Angra Mainyu increasingly described as a
-Creature rather than a co-eternal principle. And the Gaiad has
+Creature rather than a co-eternal principle. And the {{x|Gaiad}} has
 
 Discussed how ancient {{p|Persian}} religious concepts shaped the
 {{p|Jewish}} captivity experience in {{p|Babylon}} and the subsequent
@@ -5117,7 +5117,7 @@ Known figure to articulate them in a systematic theology.
 
                                                                 He
 Also reformed ritual. The old {{p|Indo-Iranian}} religion, which the
-Gaiad saw developing on the steppe and arriving in {{p|India}} with
+{{x|Gaiad}} saw developing on the steppe and arriving in {{p|India}} with
 The {{p|Aryans}}, centered on elaborate animal sacrifices conducted
 By a hereditary priestly caste. Zarathustra reduced the emphasis
 
@@ -5209,14 +5209,14 @@ Angra Mainyu lines as a cosmic adversary. The concept of a
 Final judgment, resurrection of the dead, and {{p|messianic}} age was
 Absorbed into {{p|Jewish}} apocalyptic thought. By the time of the
 
-Second Temple period and the emergence of {{p|Christianity}} and
+{{p|Second Temple}} period and the emergence of {{p|Christianity}} and
 {{p|Rabbinic Judaism}}, the {{p|Zoroastrian}} imprint on {{p|Jewish}} religious
 Imagination was thorough. {{p|Christianity}} and {{p|Islam}}, inheriting
-From {{p|Judaism}}, inherited also from {{p|Zoroastrianism}}. The Western
+From {{p|Judaism}}, inherited also from {{p|Zoroastrianism}}. The {{p|Western}}
 
 Monotheistic tradition as we know it is, in substantial measure,
 A {{p|Zoroastrian}}-{{p|Jewish}} synthesis. Without Zarathustra, the
-Religious history of the West would be unrecognizable.
+Religious history of the {{p|West}} would be unrecognizable.
 
                                                              And
 Yet {{p|Zoroastrianism}} itself would, over time, retreat. The
@@ -5247,8 +5247,8 @@ Not, a theological descendant of Zarathustra. The prophet from
 The {{p|Iranian}} plateau is a silent presence in half the religious
 Imagination of the modern world.
 
-                                     The Gaiad honors him. The
-Gaiad recognizes in Zarathustra's work a genuine theological
+                                     The {{x|Gaiad}} honors him. The
+{{x|Gaiad}} recognizes in Zarathustra's work a genuine theological
 
 Innovation—the sharpening of moral dualism into an explicit
 Cosmic principle, the linking of individual ethical choice to
@@ -5272,13 +5272,13 @@ It reflects how Zarathustra's name continues to carry weight as
 
 A symbol of religious innovation and prophetic voice. Nietzsche
 Chose the name not randomly but because it stood for the first
-Great religious reformer whose work shaped all subsequent Western
+Great religious reformer whose work shaped all subsequent {{p|Western}}
 Religion. Nietzsche wanted to undo that work and return to a
 
 Pre-Zarathustran valuation. Whether one agrees with Nietzsche's
 Project or not, the acknowledgment of Zarathustra's foundational
 Role is accurate. Zarathustra is where a great deal of the
-Modern Western religious and ethical imagination actually begins.
+Modern {{p|Western}} religious and ethical imagination actually begins.
 
                                                                      Zarathustra.
 Zoroaster. Ahura Mazda and Angra Mainyu. Asha and Druj. The fire
@@ -5293,14 +5293,14 @@ The {{p|Parsis}} in {{p|India}}. The long survival of a small religion
 With enormous theological consequences.
 
                                            Zarathustra. The first
-Prophet of the Axial Age. The reformer of {{p|Indo-Iranian}} religion.
+Prophet of the {{x|Axial Age}}. The reformer of {{p|Indo-Iranian}} religion.
 The invisible ancestor of {{p|Western}} monotheism.
 
 
 # Chapter 164: David
 
 And back to the {{p|Levant}}. Back to {{p|Israel}}, newly emerged from the
-Bronze Age Collapse, settling in the highlands of {{p|Canaan}} and
+{{x|Bronze Age Collapse}}, settling in the highlands of {{p|Canaan}} and
 Struggling to establish itself as a coherent nation among hostile
 Neighbors.
 
@@ -5347,7 +5347,7 @@ By an {{p|Aramean}} king (probably Hazael of Aram), boasting of defeating
 The "House of David" ({{p|bytdwd}}). This proves, at minimum, that by
 The ninth century BCE there was a {{p|Judahite}} royal dynasty claiming
 Descent from someone named David. Some historical David existed,
-Founder of a dynasty. The Gaiad accepts this and proceeds.
+Founder of a dynasty. The {{x|Gaiad}} accepts this and proceeds.
 
 What the {{p|Hebrew Bible}} tells us about David is the most intensely
 Detailed human portrait of any pre-Axial historical figure. We
@@ -5360,14 +5360,14 @@ Even the actual historical David, however modest his realm, must
 Have been an extraordinary figure to generate this literary response.
 
 And what a literary response it is. The books of {{p|1}} and {{p|2 Samuel}},
-Especially the so-called "Court History" or "Succession Narrative"
+Especially the so-called "{{x|Court History}}" or "{{x|Succession Narrative}}"
 (Chapters nine through twenty of {{p|2 Samuel}} and the first two
 Chapters of {{p|1 Kings}}), constitute one of the great works of ancient
 
 Prose. Their narrative economy, psychological insight, and moral
 Complexity have been recognized as foundational by critics as
 Diverse as Erich Auerbach, Robert Alter, Meir Sternberg, and
-Harold Bloom. The author of the Court History stands alongside
+Harold Bloom. The author of the {{x|Court History}} stands alongside
 
 Homer as one of the two great literary pioneers of the ancient
 {{p|Near East}}, and unlike Homer's world of kings and gods, the Court
@@ -5384,7 +5384,7 @@ Imagination. Every subsequent portrait of a complex monarch—
 Shakespeare's Henry IV, Hamlet's troubled father, every tormented
 King in the {{p|Western}} tradition—traces ancestry, in some measure,
 
-To the David of the Court History.
+To the David of the {{x|Court History}}.
 
                                           Let us narrate David's
 Life as the text gives it. David is the youngest son of Jesse
@@ -5401,7 +5401,7 @@ David to play for him and calm him. David becomes attached to
 Saul's court. Then comes the famous encounter with Goliath, the
 
 {{p|Philistine}} giant. The {{p|Philistines}}—the {{p|Sea Peoples}} who had
-Settled the southern coast of {{p|Canaan}} during the Bronze Age
+Settled the southern coast of {{p|Canaan}} during the {{x|Bronze Age}}
 Collapse—are {{p|Israel}}'s principal enemy in this period. Their
 Champion Goliath challenges any {{p|Israelite}} to single combat.
 
@@ -5497,7 +5497,7 @@ Most devastating passages in ancient literature: "O my son
 Absalom, my son, my son Absalom! Would God I had died for thee,
 O Absalom, my son, my son!" A father's anguish, undiluted by
 Any official decorum, recorded in the annals of a king. The
-Court History allows this. It does not edit the grief out.
+{{x|Court History}} allows this. It does not edit the grief out.
 
 David survives the rebellion but is broken. The remainder of
 His reign is marked by further intrigues: the rebellion of Sheba,
@@ -5539,7 +5539,7 @@ Man who loves, sins, repents, suffers, and finally dies. His
 Covenant relationship with Yahweh is mediated through his human
 Agency, his human choices. This is a profoundly different vision
 
-Of kingship from anything in the Bronze Age. Bronze Age kings
+Of kingship from anything in the {{x|Bronze Age}}. {{x|Bronze Age}} kings
 Were divine or semi-divine. They stood outside the ordinary
 Human order. David stands within it. He is a new kind of
 Religious figure: the monarch who is not a god but a servant of
@@ -5566,7 +5566,7 @@ Against the Lord."
 Giant-slayer. Outlaw. Mercenary. King. Adulterer. Murderer.
 
 Penitent. Psalmist. Father. Mourner. Founder of dynasty. The
-Court History's devastating human portrait. The covenant with
+{{x|Court History}}'s devastating human portrait. The covenant with
 Yahweh to establish an eternal house. The {{p|Jerusalem}} capital.
 The {{p|Ark of the Covenant}} installed with dancing. The promise of
 
@@ -5582,7 +5582,7 @@ Of every messianic hope.
 
 # Chapter 165: Classical Greece, Part One
 
-The {{p|Greek}} Dark Age lasted roughly four centuries. From the
+The {{p|Greek}} {{x|Dark Age}} lasted roughly four centuries. From the
 Destruction of the {{p|Mycenaean}} palaces around twelve-hundred BCE
 To the dawn of the {{p|Archaic}} period around eight-hundred BCE,
 {{p|Greece}} was a land of small villages, depopulated cities, and
@@ -5712,7 +5712,7 @@ Ten new tribes based on geographical deme membership (breaking the
 Power of aristocratic kinship networks), he established the
 Boule (council of five hundred citizens selected by lot) as the
 Principal executive body, and he gave the {{p|Ecclesia}} (the citizen
-Assembly) supreme legislative power. With these reforms, {{p|Athens}}
+{{x|Assembly}}) supreme legislative power. With these reforms, {{p|Athens}}
 
 Became the first substantial democracy in human history. "The
 People" ({{p|demos}}) ruled ({{p|kratos}})—hence {{p|demokratia}}. Now, to be
@@ -5722,7 +5722,7 @@ Could participate. Women, foreign residents ({{p|metics}}), and slaves
 Were excluded. Perhaps fifteen percent of {{p|Athens}}'s total population
 Had full political rights. And those fifteen percent participated
 Directly—not through elected representatives, but through actual
-Attendance at the Assembly and service in executive bodies, often
+Attendance at the {{x|Assembly}} and service in executive bodies, often
 
 Selected by lot. This was direct democracy, radically different
 From modern representative democracy. It worked because the
@@ -5740,7 +5740,7 @@ Large a fraction of its male population. The consequences for
 Cultural and intellectual life were transformative. Because any
 
 Citizen could propose legislation, could serve on juries, could
-Speak in the Assembly, the premium on rhetorical skill was enormous.
+Speak in the {{x|Assembly}}, the premium on rhetorical skill was enormous.
 Education in rhetoric, logic, and persuasion became essential for
 Citizens who wanted influence. This created the market for the
 
@@ -5767,7 +5767,7 @@ One of the most influential buildings ever designed. It produced
 The politician Pericles, whose leadership and oratory defined
 The golden age. And it produced Socrates, whose radically
 Different philosophical method would reshape all subsequent
-Western thought. All within a single city of perhaps fifty
+{{p|Western}} thought. All within a single city of perhaps fifty
 
 Thousand adult male citizens. All within roughly a century. The
 Cultural output per capita is staggering. Nothing comparable had
@@ -5845,7 +5845,7 @@ Of souls (a doctrine that may have entered {{p|Greek}} thought from
 Their legacy would shape {{p|Plato}}'s philosophy profoundly. The
 Idea that the ultimate structure of reality is mathematical—an
 
-Idea so central to modern physics—traces its Western origin to
+Idea so central to modern physics—traces its {{p|Western}} origin to
 The {{p|Pythagoreans}}. Heraclitus of Ephesus, in the early fifth
 Century BCE, developed a philosophy of flux and opposites. "One
 Cannot step into the same river twice," he famously said. All
@@ -5939,7 +5939,7 @@ Victorious self-understanding that followed, came the classical
 Age. And the classical age is what we will explore next.
 
                                                              {{p|Greece}}.
-Dark Age to {{p|Archaic}} to classical. The {{p|polis}}. {{p|Athens}} and {{p|Sparta}}.
+{{x|Dark Age}} to {{p|Archaic}} to classical. The {{p|polis}}. {{p|Athens}} and {{p|Sparta}}.
 
 {{p|Ionian}} philosophy—Thales, Anaximander, Heraclitus, Parmenides,
 Pythagoras. {{p|Solonian}} reforms. {{p|Cleisthenic}} democracy. The
@@ -5965,7 +5965,7 @@ Development of {{p|Israel}} and the wider world.
                                                      Begin with {{p|Assyria}}.
 The {{p|Assyrian}} state, centered on the {{p|Tigris}} river in northern
 {{p|Mesopotamia}}, had existed in various forms since the early second
-Millennium BCE—the Gaiad has touched on the {{p|Old Assyrian}} and
+Millennium BCE—the {{x|Gaiad}} has touched on the {{p|Old Assyrian}} and
 
 {{p|Middle Assyrian}} periods. But {{p|Assyria}} reached its greatest
 Extent and power in what is called the {{p|Neo-Assyrian Empire}}—
@@ -5987,7 +5987,7 @@ With their skins." "I built a pillar over the city gate, and I
 Flayed all the chief men... I stuck some on stakes... I cut off
 The limbs of the officers... I cut off the hands and feet of
 
-Some, and I cut off the ears and noses of others." The Gaiad does
+Some, and I cut off the ears and noses of others." The {{x|Gaiad}} does
 Not dwell on these horrors gratuitously. But they are part of the
 Historical record, and they affected everyone who lived in the
 {{p|Near East}} during the {{p|Neo-Assyrian}} period. The threat of
@@ -6112,7 +6112,7 @@ For three centuries vanished within a single generation. The
 
 Verse ({{p|Book of Nahum}}, probably composed very shortly after the
 Event): "Woe to the bloody city! It is all full of lies and
-Robbery... Nineveh is laid waste; who will bemoan her?" Every
+Robbery... {{p|Nineveh}} is laid waste; who will bemoan her?" Every
 Subject people of the {{p|Assyrian}} empire shared this sentiment.
 
 {{p|Assyria}} had been an entity that stood for imperial cruelty on
@@ -6293,11 +6293,11 @@ Something new in the religious imagination of humanity: genuine,
 Full-throated monotheism.
 
                             To understand this, we must be
-Careful about terms. The Gaiad has argued, in earlier chapters,
+Careful about terms. The {{x|Gaiad}} has argued, in earlier chapters,
 That true monotheism is historically rare—rarer than popular
 
-Accounts suggest. The Bronze Age world was populated by
-Polytheisms. The Axial Age produced dualisms ({{p|Zoroastrianism}}),
+Accounts suggest. The {{x|Bronze Age}} world was populated by
+Polytheisms. The {{x|Axial Age}} produced dualisms ({{p|Zoroastrianism}}),
 Monisms ({{p|Upanishadic}} philosophy), and various forms of divine
 Hierarchy. True monotheism—the claim that there is only one god,
 
@@ -6354,7 +6354,7 @@ Articulation of this monotheism was defensive, not missionary.
 It emerged as the {{p|Judahite}} response to crushing defeat.
 
                                                                 How
-Did the exile produce this theological leap? The Gaiad proposes
+Did the exile produce this theological leap? The {{x|Gaiad}} proposes
 Several interacting factors. First, the experience of exile itself.
 
 Ancient religions were typically territorial: each god had a land,
@@ -6389,7 +6389,7 @@ Stone and wood, incapable of the real power that only Yahweh
 
 Possesses. This denigration of rival gods sharpened into
 Metaphysical denial of their existence. Not merely inferior, but
-Unreal. Third, the {{p|Zoroastrian}} influence. The Gaiad has already
+Unreal. Third, the {{p|Zoroastrian}} influence. The {{x|Gaiad}} has already
 Discussed how {{p|Zoroastrianism}}'s theological categories influenced
 
 {{p|Jewish}} thinking during this period. The concept of cosmic moral
@@ -6460,20 +6460,20 @@ Through its {{p|Christian}} and {{p|Islamic}} extensions, it would reshape
 The religious landscape of most of the planet.
 
                                                 Now, a crucial
-Clarification. The Gaiad, in its earlier treatments, has been
-Critical of monotheism as a theological stance. The Gaiad's own
+Clarification. The {{x|Gaiad}}, in its earlier treatments, has been
+Critical of monotheism as a theological stance. The {{x|Gaiad}}'s own
 
 Theological sympathies are with a reflective polytheism—one that
 Honors the plurality of divine manifestations, that resists the
 Collapse of cosmic complexity into singular transcendence, that
 Preserves the ecological and cultural richness of the pre-
 
-Monotheistic religious imagination. The Gaiad has argued that
+Monotheistic religious imagination. The {{x|Gaiad}} has argued that
 Monotheism, when it became triumphalist, led to religious
 Persecution, to the destruction of local traditions, to the
 Psychological and cosmological impoverishment of religious life.
 
-This critique stands. But the Gaiad also acknowledges that
+This critique stands. But the {{x|Gaiad}} also acknowledges that
 Monotheism, in its origin, was not primarily a triumphalist
 Project. It was a survival strategy. The {{p|Judean}} exiles did not
 Invent monotheism to conquer other religions. They invented it
@@ -6489,7 +6489,7 @@ Original insight itself was a courageous theological act, a
 Refusal to accept that divine reality was as fragile as the
 
 Political structures that had supported the earlier religion. And
-The Gaiad honors the courage of that act, even while maintaining
+The {{x|Gaiad}} honors the courage of that act, even while maintaining
 Reservations about its later forms.
 
                                         And consider who took the
@@ -6602,22 +6602,22 @@ Produced, in the space of a century, a new religious grammar
 That would shape the religious imagination of billions of people
 Over the next twenty-five centuries.
 
-                                            And again, the Gaiad's
-Assessment is complex. The Gaiad honors the exilic communities for
+                                            And again, the {{x|Gaiad}}'s
+Assessment is complex. The {{x|Gaiad}} honors the exilic communities for
 
-Their courage and creativity. The Gaiad also maintains that
+Their courage and creativity. The {{x|Gaiad}} also maintains that
 Monotheism, as it developed, created problems that polytheistic
 Traditions did not have—problems of exclusivity, of intolerance,
-Of the flattening of cosmic complexity. But the Gaiad acknowledges
+Of the flattening of cosmic complexity. But the {{x|Gaiad}} acknowledges
 
 That monotheism emerged from a specific historical situation in
 Which it was the most viable theological response. It was not
 Born as imperialist ideology. It was born as survival theology.
 The later imperialist uses of monotheism are distortions of an
 
-Originally defensive and preservationist project. The Gaiad
+Originally defensive and preservationist project. The {{x|Gaiad}}
 Reads the {{p|Babylonian}} exile as one of the pivotal moments in
-The history of religion—as genuinely pivotal as the Axial Age
+The history of religion—as genuinely pivotal as the {{x|Axial Age}}
 Breakthroughs happening roughly contemporaneously in {{p|Iran}},
 
 {{p|India}}, {{p|China}}, and {{p|Greece}}. These parallel religious
@@ -6626,12 +6626,12 @@ Sacrificial religion, the articulation of universal ethical
 Demands, the interiorization of religious life into personal
 
 Conduct and thought, the development of textual canons. The
-Axial Age is a world-historical transformation, not confined to
+{{x|Axial Age}} is a world-historical transformation, not confined to
 Any one civilization. And the {{p|Jewish}} monotheism forged in
 {{p|Babylonian}} exile is the {{p|Judean}} branch of that global
 
 Transformation—a distinctive branch, with distinctive consequences,
-But part of a pattern that characterizes the whole of Eurasian
+But part of a pattern that characterizes the whole of {{p|Eurasian}}
 Religious history in the middle of the first millennium BCE.
 
                                                                 {{p|Babylonian}}
@@ -6643,7 +6643,7 @@ Monotheism. Yahweh as sole god, not merely greatest. The {{p|Persian}}
 Influence. Cyrus's edict. The return and rebuilding. The
 {{p|Second Temple}}. The messianic hope deferred. The apocalyptic
 Literature that would flower. The conceptual framework that
-Would shape three Abrahamic religions.
+Would shape three {{x|Abrahamic}} religions.
 
 The exile as crucible. The crushing defeat that forged a new
 Theological imagination. The catastrophe that produced the

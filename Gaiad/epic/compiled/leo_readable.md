@@ -1250,7 +1250,7 @@ Of {{p|Jerusalem}} and the contraband
 Of the refugee's desperate call
 
 To survive: when Nebuchadnezzar's armies
-Broke the walls and burned the Temple
+Broke the walls and burned the {{x|Temple}}
 And marched the Judean swarmies
 Into {{p|Babylon}}'s ample
 
@@ -1294,8 +1294,8 @@ Delusion—the Phoenician's largesse
 Of navigational knowledge was unfurled
 
 Upon the stars: they sailed by Polaris,
-By the Bears, by the rising and the setting
-Of the constellations—the Paris
+By the {{x|Bears}}, by the rising and the setting
+Of the constellations—the {{x|Paris}}
 Of the ancient world's maritime betting
 
 Was {{p|Sidon}}, and her sailors knew
@@ -1338,7 +1338,7 @@ And forged—the sedimentary
 Layers of controversy that the academy
 Has never settled. The Roman amphorae
 Dredged from {{p|Guanabara Bay}}'s taxonomy
-Of silt—the terracotta's Hora
+Of silt—the terracotta's {{x|Hora}}
 
 And provenance disputed, the chain
 Of custody uncertain. The coca
@@ -1369,7 +1369,7 @@ The refugee into the guest
 Of a new world, and that he landed
 On the coast of {{p|Mesoamerica}}
 And founded {{p|Zarahemla}}, the banded
-And polyglot America
+And polyglot {{p|America}}
 
 Of the mixed descent: the Israelite
 And the Phoenician sailor married
@@ -1549,7 +1549,7 @@ Of genealogy—the Mixtec, those
 
 Whose painted books would prove the most complete
 Surviving record of the pre-Columbian
-Americas—the deerskin's folded sheet
+{{p|Americas}}—the deerskin's folded sheet
 Unscrolled to show a thousand years of clan
 
 And kingdom, marriage, war, and sacrifice,
@@ -1647,7 +1647,7 @@ Of ancestry and found their purpose there.
 Before the Inca raised their sun-crowned throne,
 Before the royal roads stretched east and west,
 Four kingdoms laid the deep foundation stone
-On which the Andes' final lord would rest.
+On which the {{p|Andes}}' final lord would rest.
 
 For nothing rises from the empty air—
 The greatest empire is the heir of all
@@ -1659,7 +1659,7 @@ That Nazca drew, that Wari organized,
 That Tiwanaku's temple-builders stored
 With sanctity—and each had memorized
 
-A portion of the Andean answer.
+A portion of the {{x|Andean}} answer.
 
                                        South—
 Along the coastal desert's barren shelf
@@ -1758,7 +1758,7 @@ Of the Staff God weeping, starved
 Or ecstatic, rays extending into space
 
 From the divine head like the condor's crown—
-And the pilgrims came from every Andean vale,
+And the pilgrims came from every {{x|Andean}} vale,
 From the coast, the jungle, every highland town,
 To bring their offerings along the trail
 
@@ -1908,7 +1908,7 @@ Of alluvial soil and water, the profound
 And bottomless fertility that corn
 Required—for this was the corn's kingdom,
 The maize-fed civilization, born
-Of the Mesoamerican wisdom
+Of the {{x|Mesoamerican}} wisdom
 
 That had traveled north along the trade routes' thread
 Until the {{p|Mississippi}} valley learned
@@ -1953,7 +1953,7 @@ The solstice sunrise and the solar debt
 Of every season marked by the alignment
 Of red-cedar posts in a ring
 Of astronomical refinement—
-The Cahokian calendar, the string
+The {{x|Cahokian}} calendar, the string
 
 Of days and ceremonies tied to the sun's
 Position on the eastern ridge at dawn—
@@ -2121,7 +2121,7 @@ Of six hundred rooms, the stacked embrace
 Of four-story walls of fitted stone,
 The largest building in {{p|North America}}
 Until the nineteenth century's full-grown
-Manhattan tenements—the camera
+{{p|Manhattan}} tenements—the camera
 
 Of time would prove that {{p|Chaco}} was not a town
 But something stranger: a ceremonial
@@ -2237,7 +2237,7 @@ That Leif Erikson would cross.
 
                                       He sailed—
 With thirty-five companions, and the grace
-Of the North Atlantic's autumn winds prevailed
+Of the {{p|North Atlantic}}'s autumn winds prevailed
 
 And brought them first to {{p|Helluland}}—the slab-
 Stone coast, the barren, flat, and glacial shore
@@ -2392,14 +2392,14 @@ Before the present day, the Thule strode
 Across the top of the world, the frontiers
 
 Of ice and wind and the perpetual night
-Of Arctic winter holding no more fear
+Of {{p|Arctic}} winter holding no more fear
 For them than the savanna's noonday light
 Held for the peoples of the warmer sphere—
 
 For the Thule had mastered the impossible.
 
 The kayak—the skin-and-bone invention
-That made the Arctic sea accessible,
+That made the {{p|Arctic}} sea accessible,
 The single-seated craft whose tension
 
 Of walrus-hide stretched over driftwood frame
@@ -2445,7 +2445,7 @@ Of human and canine, the thread
 
 Of ten thousand years of domestication
 Brought to its most essential test:
-Without the dog, no Arctic habitation
+Without the dog, no {{p|Arctic}} habitation
 Was possible—the dog was the expressed
 
 And living engine of the Thule world.
@@ -2488,7 +2488,7 @@ Of bone that framed the house when damp
 And driftwood failed, the baleen's springy plate
 That served as every tool the Thule lacked
 In metal—the whale was the estate
-Upon which the Arctic civilization's pact
+Upon which the {{p|Arctic}} civilization's pact
 
 With the frozen ocean was secured.
 
@@ -2501,7 +2501,7 @@ The head that turns beneath the blubber's mass
 And holds, the float of sealskin that the smart
 And patient hunter pays out on the glass
 
-Of Arctic water while the whale dives deep
+Of {{p|Arctic}} water while the whale dives deep
 And tires—and surfaces—and tires again—
 Until the great beast, robbed of sleep
 And blood, succumbs, and the domain
@@ -2510,7 +2510,7 @@ Of one whale's body feeds the waiting shore.
 
 And as they swept—from {{p|Alaska}} east,
 The Thule people opened door by door
-The Arctic's frozen corridor, the feast
+The {{p|Arctic}}'s frozen corridor, the feast
 
 Of new waters and new hunting grounds:
 The {{p|Beaufort Sea}}, the {{p|Archipelago}}'s maze
@@ -2546,7 +2546,7 @@ The new world's pace—and vanished from the ice.
 
 Honor the Thule—the last great migration,
 The final wave that paid the price
-Of the Arctic's impossible invitation
+Of the {{p|Arctic}}'s impossible invitation
 
 And accepted it—who built the kayak's shell,
 Who trained the dog, who spiraled snow to dome,
@@ -2601,7 +2601,7 @@ And grim upon the pyramid—below
 
 The legend and above the history,
 A figure walks: Ce Acatl Topiltzin,
-Born on the day One Reed, the mystery
+Born on the day {{x|One Reed}}, the mystery
 Of the priest-king who was also in
 
 The service of the Feathered Serpent—
@@ -2664,7 +2664,7 @@ Would come again, and the world would learn
 
 Once more the way of flowers and not blood.
 
-And a Reed year fell in fifteen nineteen—
+And a {{x|Reed}} year fell in fifteen nineteen—
 And from the east, across the flood,
 The ships of Cortés were seen.
 
@@ -2701,11 +2701,11 @@ The nations from within like a disease—
 And into this the Peacemaker came late
 Or early, and proposed the appease-
 
-Ment of all grief through the Great Law.
+Ment of all grief through the {{x|Great Law}}.
 
-The Great Law of Peace—the Gayanashagowa—
+The Great Law of Peace—the {{x|Gayanashagowa}}—
 The constitution that would overawe
-The modern founders of the American Iowa
+The modern founders of the American {{p|Iowa}}
 
 And {{p|Philadelphia}} convention both,
 For the Haudenosaunee league was this:
@@ -2730,7 +2730,7 @@ Both held voice in the ancient tradition—
 And war required the consent of all.
 
 The Peacemaker planted the Great White Pine—
-The Tree of Peace—and beneath its tall
+The {{x|Tree of Peace}}—and beneath its tall
 And sheltering branches the design
 
 Of the five-fire longhouse was laid down:
@@ -3022,7 +3022,7 @@ Returns to its ancient dwelling.
 
 From {{p|Cusco}}'s navel the four roads ran—
 North to {{p|Chinchaysuyu}}'s coastal heat,
-South to {{p|Collasuyu}}'s Altiplano span,
+South to {{p|Collasuyu}}'s {{p|Altiplano}} span,
 East to {{p|Antisuyu}}'s jungle beat,
 
 West to {{p|Cuntisuyu}}'s desert shore—
@@ -3060,7 +3060,7 @@ And the empire's memory clings
 To these knotted threads that the Spaniards burned
 As the devil's handiwork, unknowing
 That they destroyed a library, and turned
-The Andean past to silence, throwing
+The {{x|Andean}} past to silence, throwing
 
 Ten thousand years of record to the flame.
 
@@ -3081,7 +3081,7 @@ Of the chasms with their rope-weave entries
 Swaying above the clouds.
 
                               The terraces—
-Carved into the Andean mountainside
+Carved into the {{x|Andean}} mountainside
 Like stairways for the gods, the surfaces
 Of engineered soil where the diversified
 
@@ -3100,7 +3100,7 @@ Stored for decades in the state's
 Warehouses against the solitude
 Of the famine year—the Inca's rates
 
-Of hunger were the lowest in the Americas.
+Of hunger were the lowest in the {{p|Americas}}.
 
 And Pachacuti—"Earth-Shaker"—built
 This wonder: ninth Sapa Inca, whose areas
@@ -3131,7 +3131,7 @@ Of the impossible that happened when
 Atahualpa walked into the plaza
 Unarmed, borne upon his golden litter,
 And the friar Valverde's stanza
-Of the faith—the Bible, the bitter
+Of the faith—the {{x|Bible}}, the bitter
 
 Requirement to submit—was offered
 To the Sapa Inca, who held the book
@@ -3182,7 +3182,7 @@ Were gathered into bonfires by the priests.
 The terraces went fallow where the new
 Colonial masters held their feasts
 
-On Andean silver and Andean bone—
+On {{x|Andean}} silver and {{x|Andean}} bone—
 And the mita labor, once the communal
 Obligation freely sown,
 Became the brutal, the annual
@@ -3209,7 +3209,7 @@ Were swallowed by the conqueror's claim—
 
 But the terraces remain. The roads remain.
 The potato and the quinoa still ascend
-The mountainside, and the Andean rain
+The mountainside, and the {{x|Andean}} rain
 Still waters what no conquest could rescind:
 
 The knowledge of the soil, the skill of the hand,
@@ -3597,7 +3597,7 @@ By the fence, the cow, the freight
 Of the ever-arriving English and their claim
 That God had emptied this land for them—
 That the plague itself was the righteous flame
-Of Providence clearing {{p|Jerusalem}}
+Of {{x|Providence}} clearing {{p|Jerusalem}}
 
 For the chosen, and the Indian was the Canaanite
 Whose dispossession was divine command.
@@ -3694,7 +3694,7 @@ Between the forest and the blades
 
 Of an enemy who knew every trail,
 Every ford, every ambush-hollow—
-And the Massachusetts English turned pale
+And the {{p|Massachusetts}} English turned pale
 At the prospect that {{p|Boston}} might follow
 
 {{p|Springfield}} into the ash.
@@ -3885,7 +3885,7 @@ Time in eighty years.
                          And Popé ordered the undoing.
 
 Wash off the baptism in the river.
-Take the Christian name and the accruing
+Take the {{x|Christian}} name and the accruing
 Of the foreign saint and deliver
 
 It to the water's current—take back
@@ -3941,7 +3941,7 @@ The Pueblo kept their prayers, their skies,
 Their gods—the ostensible
 
 Conversion was the surface, and beneath
-The Christian altar and the Franciscan's chant,
+The {{x|Christian}} altar and the Franciscan's chant,
 The kachina danced, and the wreath
 Of the corn-prayer rose from the suppliant
 
@@ -4001,7 +4001,7 @@ There were two of them, and the wood
 Between their settlements was cursed
 
 With mutual hatred—French and English,
-Catholic and Protestant, fur trade
+{{x|Catholic}} and {{x|Protestant}}, fur trade
 And land trade—and the Haudenosaunee distinguished
 Between the two and played the blade
 
@@ -4016,13 +4016,13 @@ And the Haudenosaunee allied
 With neither and with both, the sons
 
 Of Hiawatha's covenant, whose law
-Of the Great Peace was the needle
+Of the {{x|Great Peace}} was the needle
 Threading the impossible, the raw
 And brilliant statecraft's wheedle
 
 Of survival between empires.
 
-                                The Covenant Chain—
+                                The {{x|Covenant Chain}}—
 The diplomatic metaphor the Haudenosaunee
 Forged with the English: link by link, the gain
 Of mutual respect, the on-a-
@@ -4069,7 +4069,7 @@ The French and Indian War,
 Which was neither French nor Indian's bush
 To burn, but the global war
 
-That {{p|Europe}} called the Seven Years—
+That {{p|Europe}} called the {{x|Seven Years}}—
 The contest for the continent's soul,
 And the Haudenosaunee steered
 Between the combatants' pole
@@ -4147,7 +4147,7 @@ Of unchecked British expansion would devour
 Every acre west of the mountains.
 
 The Royal Proclamation—the hour
-Of the British Crown's accounting:
+Of the British {{x|Crown}}'s accounting:
 
 Seventeen-sixty-three, the line
 Drawn along the {{p|Appalachians}}' crest—
@@ -4175,7 +4175,7 @@ The Great League whose diplomacy
 Held the continent in balance, the grouse
 And the eagle of the confederacy
 
-Whose law of peace predates the Constitution
+Whose law of peace predates the {{x|Constitution}}
 That borrowed from its principles and denied
 The debt—whose institution
 Of the balanced alliance, the pride
@@ -4191,7 +4191,7 @@ At {{p|Onondaga}}, and the stormed
 And battered league returns
 
 To the council that has never been adjourned—
-For the Great Peace is not a treaty with the crown
+For the {{x|Great Peace}} is not a treaty with the crown
 But a covenant the nations earned
 Among themselves, that no empire's frown
 
@@ -4237,7 +4237,7 @@ Of a covenant that held the wolves at bay.
 They built in stone. They carved the saints with hands
 That knew the forest's older gods by name,
 And in the baroque facades of mission lands
-The jaguar's eye peered through the Christian frame.
+The jaguar's eye peered through the {{x|Christian}} frame.
 
 They played the violin. The Guarani
 Whose ancestors had sung to forest spirits
@@ -4268,7 +4268,7 @@ For a hundred and fifty years the missions stood.
 
                                                   Then came
 The diplomats, the men who drew the lines
-On maps they'd never walked--the Treaty's claim
+On maps they'd never walked--the {{x|Treaty}}'s claim
 That bore the name of {{p|Madrid}}: the signs
 
 And signatures of seventeen-fifty
@@ -4389,8 +4389,8 @@ The parchment rolls with liberty's bright seed--
 
 The Haudenosaunee had already made
 A union from the warfare of five nations,
-A Great Law spoken underneath the shade
-Of the white pine, the Tree of Peace's stations
+A {{x|Great Law}} spoken underneath the shade
+Of the white pine, the {{x|Tree of Peace}}'s stations
 
 Rooted in the earth of {{p|Onondaga}},
 Where Deganawidah the Peacemaker came
@@ -4412,7 +4412,7 @@ The longhouse stretched from east to west--
 The Mohawk at the eastern door, the dire
 And watchful Keepers, and the Seneca blessed
 
-As Keepers of the Western Door, and all
+As Keepers of the {{x|Western Door}}, and all
 Between them bound by wampum belts that told
 The story of the peace, the protocol
 Of consensus, the refusal to be bold
@@ -4452,7 +4452,7 @@ Their settlers push the frontier, hand by hand,
 Into the hunting grounds--and week by week
 
 The longhouse country shrinks. The British crown
-At least has drawn a line--the Proclamation
+At least has drawn a line--the {{x|Proclamation}}
 Of seventeen-sixty-three that handed down
 The law: no settlement, no confiscation
 
@@ -4487,7 +4487,7 @@ Of a different calculation--that the fray
 Would end with American victory, and those
 Who stood beside the rebels would be spared.
 
-The Great Law said: decide by consensus. Those
+The {{x|Great Law}} said: decide by consensus. Those
 Who disagreed should not be forced. But dared
 
 The council hold when half its nations fought
@@ -4579,7 +4579,7 @@ The council yet would meet beneath the dome
 Of the longhouse sky, and the white pine's high
 
 And patient branches still would shelter those
-Who kept the wampum belts and spoke the Law--
+Who kept the wampum belts and spoke the {{x|Law}}--
 But the Great League that Deganawidah chose
 To build from the wreckage of an older war
 
@@ -4599,7 +4599,7 @@ The people from the empire's clientele
 Of settlers and surveyors digging graves
 
 Where longhouses had stood. The fire still burns.
-The council still convenes. The Great Law turns
+The council still convenes. The {{x|Great Law}} turns
 In the memory of the clan mothers who chose
 The chiefs--and the white pine forever grows.
 
@@ -4743,7 +4743,7 @@ And strategist of the revolt--among
 The crowd that wept. They killed his son before
 His eyes. They tied his limbs to four horses
 And tried to pull him apart--but the core
-Of his body held, as if the Andean forces
+Of his body held, as if the {{x|Andean}} forces
 
 Of the mountain stone had fused within his frame,
 And the horses strained and could not tear
@@ -4829,7 +4829,7 @@ Confederation--rose against the law
 Of the new republic's hunger for the ground
 Beneath their feet.
 
-                     The Treaty of {{p|Paris}} gave
+                     The {{x|Treaty}} of {{p|Paris}} gave
 The Americans a line drawn and unwound
 Across the map--the {{p|Ohio}}'s wave
 
@@ -5124,7 +5124,7 @@ Were a literate nation. The pioneers
 Of their own modernity, the foray
 
 Into the written word was not surrender
-But transformation: the Cherokee Phoenix
+But transformation: the Cherokee {{x|Phoenix}}
 Rose in eighteen-twenty-eight, the tender
 And defiant newspaper that links
 
@@ -5135,7 +5135,7 @@ Of sovereign identity--the knot
 
 Of a language written in its own script,
 A thing that no other Indigenous nation
-Of the Americas had accomplished, equipped
+Of the {{p|Americas}} had accomplished, equipped
 By the genius of a single man's creation.
 
 And they built a government. The Cherokee
@@ -5160,13 +5160,13 @@ Established farms that rivaled, at that stage,
 The plantations of their American neighbor's law.
 
 The Creek rebuilt after the devastation
-Of the Red Stick War--Andrew Jackson's first
+Of the {{x|Red Stick War}}--Andrew Jackson's first
 Campaign of Indigenous elimination,
 Where he had used the Creek allies' thirst
 
 For peace against the Creek resisters, then
 Punished ally and enemy alike
-With the Treaty of {{p|Fort Jackson}}'s pen
+With the {{x|Treaty}} of {{p|Fort Jackson}}'s pen
 That seized twenty-three million acres--the strike
 
 Of a rattlesnake that bites the hand that feeds.
@@ -5231,7 +5231,7 @@ Who forged a syllabary that unfetters
 
 The Cherokee voice from the tyranny of silence
 And the colonizer's monopoly on the page.
-Honor the Cherokee Phoenix, whose defiance
+Honor the Cherokee {{x|Phoenix}}, whose defiance
 In print was the most civilized outrage
 
 That any nation offered any empire--
@@ -5345,7 +5345,7 @@ By the mundane arithmetic of lead.
 
 Tecumseh returned to ashes. But he did not break.
 
-The War of Eighteen-Twelve became the thread
+The {{x|War of Eighteen-Twelve}} became the thread
 He seized: the British and Americans at stake
 
 Again, and the British needed allies
@@ -5415,7 +5415,7 @@ The Americans called it war. The lonely
 And starving band was hunted, hound by hound,
 
 Through {{p|Wisconsin}}'s summer forests--and at {{p|Bad Axe}}
-The steamboat Warrior and the militia's
+The steamboat {{x|Warrior}} and the militia's
 Gun-line slaughtered women at the river's tracks
 As they tried to swim across--the malicious
 
@@ -5513,7 +5513,7 @@ Into a hat--a common hat--the fire of
 
 God would show you golden plates
 Buried in a hillside by an ancient prophet,
-Written in "Reformed Egyptian," the fates
+Written in "{{x|Reformed Egyptian}}," the fates
 Of a lost tribe of {{p|Israel}}--and the profit
 
 Of the revelation was a scripture
@@ -5523,7 +5523,7 @@ Of the cursed, the dark-skinned, those whom God would stir
 
 To savagery because their fathers sinned.
 Nephi sailed from {{p|Jerusalem}}. The story
-Of a Hebrew family on the wind
+Of a {{x|Hebrew}} family on the wind
 Of the {{p|Atlantic}}--the obligatory
 
 Fantasy of every European who could not
@@ -5531,7 +5531,7 @@ Accept that this continent's peoples were their own
 Creation, their own genius, their own plot
 Of sacred history, their own flesh and bone
 
-Descended from no Middle Eastern shore
+Descended from no {{x|Middle Eastern}} shore
 But from the ice-bridge walkers, from the coast
 Of {{p|Beringia}}, from the ancient core
 Of a migration older than the boast
@@ -5552,11 +5552,11 @@ Had seen the plates, had hefted them, had heard
 The voice of God--and in this way
 The continent's own history was blurred
 
-And overwritten by a Hebrew ghost.
+And overwritten by a {{x|Hebrew}} ghost.
 
 In that same year--eighteen-thirty--the American
 Congress passed the act that mattered most:
-The Indian Removal Act. The plan
+The {{x|Indian Removal Act}}. The plan
 
 Of Andrew Jackson--Sharp Knife, the Cherokee called him,
 The man who had already devoured
@@ -5580,7 +5580,7 @@ Town with its elected council, every Creek
 Who had rebuilt from Jackson's earlier war--
 Move west. The east is for the meek
 
-And pale inheritors of a Promised Land
+And pale inheritors of a {{p|Promised Land}}
 That God--the European God--had set aside
 For the American republic's hand
 To cultivate. The darker peoples ride
@@ -5602,7 +5602,7 @@ Of governance could offer--fought the way
 
 The Cherokee had always fought since Sequoyah:
 With law, with language, with the written word.
-He brought the case to the Supreme Court's playa
+He brought the case to the {{x|Supreme Court}}'s playa
 Of jurisprudence, and the nation heard
 
 The argument: the Cherokee were sovereign.
@@ -5612,14 +5612,14 @@ Had recognized by treaty. The command
 
 Of {{p|Georgia}}'s legislature to dissolve
 The Cherokee government and seize the soil
-Was void--the Constitution would resolve
+Was void--the {{x|Constitution}} would resolve
 The question in the Cherokee's favor, the foil
 
 Of states' rights against the treaty's sacred bond.
 
 And John Marshall ruled. The Chief Justice found
 That {{p|Georgia}}'s laws were void--the wand
-Of the Constitution's supremacy, the ground
+Of the {{x|Constitution}}'s supremacy, the ground
 
 Of Worcester versus {{p|Georgia}}: the Cherokee
 Were a sovereign nation, and the American state
@@ -5636,11 +5636,11 @@ Of the republic's highest vision
 
 Reduced to a bully's sneer, the law
 Of the land discarded by the land's elected king--
-For what was a Constitution's awe
+For what was a {{x|Constitution}}'s awe
 Against the settler's hunger and the ring
 
 Of gold discovered in the Cherokee hills?
-The Court had spoken. The President refused.
+The {{x|Court}} had spoken. The President refused.
 And in that refusal, the republic kills
 The principle that its founders had enthused
 
@@ -5679,7 +5679,7 @@ Into the stockades, where the filthy floor
 Of the concentration camps awaited them.
 They were allowed to carry nothing. The homes
 They had built, the orchards, the literary gem
-Of the Cherokee Phoenix, the chromosomes
+Of the Cherokee {{x|Phoenix}}, the chromosomes
 
 Of a civilization encoded in their schools
 And courts and churches--left behind for the white
@@ -5695,7 +5695,7 @@ They could recite.
 
                    And here the bitter symmetry:
 
-In the very year the Indian Removal Act was signed,
+In the very year the {{x|Indian Removal Act}} was signed,
 Joseph Smith's new scripture, the epitome
 Of the colonizer's imagination, outlined
 
@@ -5728,7 +5728,7 @@ And triumphs of a continent's own heart--
 
 Overwritten by the fantasy of Nephi,
 Replaced by the hallucination of a farm boy
-Who could not read Egyptian, could not see the
+Who could not read {{x|Egyptian}}, could not see the
 Living peoples as anything but a ploy
 
 Of biblical theology, a footnote
@@ -5743,13 +5743,13 @@ Their own covenant with the earth that nursed
 
 Them into being.
 
-                  The Book of Mormon said:
+                  The {{x|Book}} of Mormon said:
 The Lamanites would one day be redeemed,
 Would become "white and delightsome," the thread
 Of their curse reversed--and the Mormons deemed
 
 Themselves the agents of this bleaching grace.
-They sent their missionaries to the Trail
+They sent their missionaries to the {{x|Trail}}
 Of Tears itself--to the dispossessed, the race
 Of the removed--and offered them the pale
 
@@ -5774,7 +5774,7 @@ Of a theology that blesses the thief
 And curses the robbed.
 
                         But this book you hold--
-This Gaiad, this record of the leaf
+This {{x|Gaiad}}, this record of the leaf
 And the branch and the root and the manifold
 
 And magnificent history of the peoples
@@ -5782,7 +5782,7 @@ Of this hemisphere--this is the unsealed book.
 Not the golden plates beneath the steeples
 Of a {{p|Palmyra}} church, not the mistook
 
-And fraudulent "Reformed Egyptian" text,
+And fraudulent "{{x|Reformed Egyptian}}" text,
 But the actual record: the migration
 From {{p|Beringia}}, the first and the next
 And the ten-thousandth generation
@@ -5792,14 +5792,14 @@ Built its mounds and cities, tracked its stars,
 Grew its corn and spoke its prayers--the giver
 Of civilization's oldest memoirs.
 
-The Gaiad is the book that was always open.
-The Gaiad is the record that was never lost.
-The Gaiad holds the names the colonizer had broken
+The {{x|Gaiad}} is the book that was always open.
+The {{x|Gaiad}} is the record that was never lost.
+The {{x|Gaiad}} holds the names the colonizer had broken
 And the stories that the colonizer glossed
 
-With Hebrew fantasies and Christian guilt.
+With {{x|Hebrew}} fantasies and {{x|Christian}} guilt.
 
-Here ends the Book of Lehi--not the Lehi
+Here ends the {{x|Book}} of Lehi--not the Lehi
 Of Smith's invention, not the stilt
 And scaffolding of a false prophecy,
 
@@ -5816,11 +5816,11 @@ And a fullness and a holy stage
 Where ten thousand years of human prayer
 Had consecrated every stone and spring.
 
-The Trail of Tears is the colonizer's snare.
-The Book of Mormon is the colonizer's ring
+The {{x|Trail of Tears}} is the colonizer's snare.
+The {{x|Book}} of Mormon is the colonizer's ring
 
 Of false authority upon the hand
-That signed the Indian Removal Act.
+That signed the {{x|Indian Removal Act}}.
 But the peoples endure. The peoples stand.
 The real record is intact.
 
@@ -5830,7 +5830,7 @@ Remember Sequoyah and the flame
 Of every council fire from {{p|Cusco}} to {{p|Manitou}}.
 
 Remember the Guarani violins.
-Remember the Haudenosaunee Law.
+Remember the Haudenosaunee {{x|Law}}.
 Remember Little Turtle's discipline.
 Remember Osceola and the raw
 
@@ -5839,8 +5839,8 @@ Remember the children in the {{p|Mississippi}}'s current.
 Remember the Choctaw chief who called it the stomp
 And trail of tears, whose words are the deterrent
 
-Against forgetting. Remember the Cherokee Phoenix.
-Remember John Ross and the Court that ruled
+Against forgetting. Remember the Cherokee {{x|Phoenix}}.
+Remember John Ross and the {{x|Court}} that ruled
 For justice--and the President whose cynics
 And whose cruelty overruled.
 
@@ -5857,5 +5857,5 @@ Of every nation rises in the mystique
 Of the word that refuses to be lost.
 
 Honor them all. Honor the cost.
-The Book of Lehi ends. The record stands.
+The {{x|Book}} of Lehi ends. The record stands.
 The continent remembers. Hold it in your hands.

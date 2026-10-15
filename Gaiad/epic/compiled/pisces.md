@@ -11,7 +11,7 @@ And welcoming abyss, the first creation
 That still remembered every form it made
 And held in its chemistry the ancient means
 Of feeding, floating, breathing in the shade
-Of waves—and now, in the Triassic's scenes
+Of waves—and now, in the {{x|Triassic}}'s scenes
 
 Of devastation, some of {{c|Sauros}}' kin
 Looked seaward from the ruined shore and chose
@@ -21,7 +21,7 @@ Again in water what the land foreclosed.
 For this was not the first time.
 
                                   Long before,
-In the Permian's last age, a humble line
+In the {{x|Permian}}'s last age, a humble line
 Had tried the water—{{c|Mesos}}, from the shore
 Of {{p|Gondwana}}'s southern lakes, the fine
 
@@ -41,14 +41,14 @@ To water when they chose—the covenant revealed
 As two-way door, not exile, not a burn
 
 Of bridges back to {{c|Tethys}}' ancient home.
-{{c|Mesos}} perished in the Permian's end—
+{{c|Mesos}} perished in the {{x|Permian}}'s end—
 But the lesson lived: the sea was free to roam
 For any who had lungs and limbs to bend
 
 Toward the swimming shape.
 
                            And in the wake
-Of the Great Dying, when the ocean lay
+Of the {{x|Great Dying}}, when the ocean lay
 Still poisoned, slowly healing—for the sake
 Of empty niches stretching every way—
 
@@ -76,18 +76,18 @@ Across the healing waters of the mind
 Of {{c|Tethys}}, slowly waking from her grief.
 
 {{c|Ichthyos}} grew large, then larger—some
-The size of whales in the Triassic reef
+The size of whales in the {{x|Triassic}} reef
 Of the recovering sea—{{c|Shonisauros}} from
 
 The western {{p|Tethys}} reached the length of ships,
 Enormous eyes like dinner plates that peered
-Through dim Triassic waters—at his lips
+Through dim {{x|Triassic}} waters—at his lips
 No teeth at all, for he had engineered
 
 A suction-feeding mouth to draw in prey
 Like a great vacuum of the ancient deep.
 
-And in those same Triassic waters, gray
+And in those same {{x|Triassic}} waters, gray
 And strange, the {{c|Thalattos}} clans would creep
 
 Along the shallow coasts with downturned snout
@@ -95,7 +95,7 @@ And crushing teeth for shellfish on the floor—
 A group whose place in {{c|Sauros}}' tree throughout
 The ages would remain unclear—no more
 
-Than a brief Triassic experiment
+Than a brief {{x|Triassic}} experiment
 In strange-faced, shallow-water, coastal prowl—
 But for their time they were magnificent:
 The snub-nosed hunters of the tidal shoal.
@@ -124,7 +124,7 @@ He dove to the bottom of the shallow bay
 And crushed the mollusks with his pavement teeth—
 Broad and flat for grinding shell to dust—
 A bottom-feeder in the coral beneath
-The Triassic shallows, armored, slow, robust.
+The {{x|Triassic}} shallows, armored, slow, robust.
 
 {{c|Plakos}} looked like {{c|Turtlos}} in his way—
 Round-bodied, armored, patient on the floor—
@@ -136,7 +136,7 @@ The turtle-shape, the armored, patient form
 That carries home upon its back, the planned
 And fortress-bodied refuge from the storm.
 
-Seven lineages tried the Triassic sea:
+Seven lineages tried the {{x|Triassic}} sea:
 {{c|Mesos}}' memory, {{c|Ichthyos}}' speed,
 {{c|Thalattos}}' strange coast-crawling spree,
 {{c|Nothros}}' neck and {{c|Plakos}}' patient greed,
@@ -172,8 +172,8 @@ On hind legs faster than his brothers could.
 No armor like {{c|Paraps}}' armored clan,
 No venom, and no size—but {{c|Archon}} stood
 
-Upon the Triassic stage when every throne
-Was vacant and the Permian lords were ash—
+Upon the {{x|Triassic}} stage when every throne
+Was vacant and the {{x|Permian}} lords were ash—
 And in that emptiness he made his own
 A kingdom built from speed and metabolic flash.
 
@@ -189,7 +189,7 @@ They had was fire enough to outperform
 
 The sluggish sprawl of {{c|Squamos}}' kindred cold.
 
-Two sons had {{c|Archon}} in the Triassic morn:
+Two sons had {{c|Archon}} in the {{x|Triassic}} morn:
 Great {{c|Cruros}}, firstborn, heavy, proud, and bold,
 And {{c|Avemeta}}, lighter, later-born.
 
@@ -201,7 +201,7 @@ For ambush, armor, patience, and the burst
 Of sudden violence from the water's edge.
 The rauisuchians walked on upright limbs
 And hunted like great wolves along the sedge
-Of Triassic rivers—at the water's brims
+Of {{x|Triassic}} rivers—at the water's brims
 
 {{c|Cruros}}' dynasty built their riverine domain:
 Phytosaurs with the crocodilian shape
@@ -215,12 +215,12 @@ The river-king design, perfectly matched
 
 To every watercourse on {{p|Pangaea}}'s face.
 
-And {{c|Cruros}}' children were the Triassic lords—
+And {{c|Cruros}}' children were the {{x|Triassic}} lords—
 They ruled the land and water, and their race
 Seemed destined for ten thousand years of hordes
 
 And hunting-empires by the riverside.
-No creature in the early Triassic stood
+No creature in the early {{x|Triassic}} stood
 Against the rauisuchian's hungry stride
 Or challenged the phytosaur's neighborhood.
 
@@ -262,7 +262,7 @@ The one who ran on hollow bones and stayed
 In the edges of his brother's bargains,
 Waiting for the world to be remade.
 
-For {{c|Cruros}} ruled the Triassic entire—
+For {{c|Cruros}} ruled the {{x|Triassic}} entire—
 But {{c|Avemeta}}'s children would inherit
 What {{c|Cruros}} lost when the world caught fire:
 The future favors those with patient merit.
@@ -275,7 +275,7 @@ Of every continent and every tide.
 
 # Chapter 87: The Long-Necked Fisher
 
-Among the strangest children of the Triassic shore
+Among the strangest children of the {{x|Triassic}} shore
 Was {{c|Tanystros}}—an archosauromorph whose frame
 Defied all reason with a neck that bore
 More vertebrae than sense could rightly claim.
@@ -291,7 +291,7 @@ Perched at the far end, baited with the weight
 Of small sharp teeth for catching fish—instead
 
 Of swimming to his prey, {{c|Tanystros}} stood
-Upon the Triassic shoreline, on the rocks
+Upon the {{x|Triassic}} shoreline, on the rocks
 Above the {{p|Tethys}} shallows, and the food
 He sought was speared below from coastal stocks
 
@@ -309,8 +309,8 @@ Of vertebrate design: to fish from home
 Without the cost of swimming.
 
                                And he was not
-Alone in his Triassic strangeness—for the age
-Of the Triassic was a time of what
+Alone in his {{x|Triassic}} strangeness—for the age
+Of the {{x|Triassic}} was a time of what
 No other era matched: a living stage
 
 Of evolutionary experimentation,
@@ -324,7 +324,7 @@ Or millions of years before the sorting came.
 Of long-necked archosauromorphs whose claim
 On history was brief—they ran
 
-The Triassic coastline in their odd parade
+The {{x|Triassic}} coastline in their odd parade
 Of reaching necks and small-toothed fishing heads,
 Of bodies built for shoreline's serenade
 Where ocean meets the rock in tidal beds.
@@ -342,7 +342,7 @@ Themselves into the marine biome, exempt
 From the commitment {{c|Ichthyos}} had made
 Of giving up the land entirely—
 These were the dabblers, wading in the shade
-Of the Triassic coast's uncertainty.
+Of the {{x|Triassic}} coast's uncertainty.
 
 For in those first ten million years of the age,
 The boundaries between the land and sea
@@ -352,17 +352,17 @@ At once—who were not fully what they'd be
 But experimenting with the ocean's edge.
 
 The {{c|Tanystros}} clan would perish long before
-The Jurassic dawned—their evolutionary pledge
+The {{x|Jurassic}} dawned—their evolutionary pledge
 Was local, brief, a footnote on the shore
 
-Of Triassic time—but they taught a truth
-That the Mesozoic would repeat and prove:
+Of {{x|Triassic}} time—but they taught a truth
+That the {{x|Mesozoic}} would repeat and prove:
 That the border between ocean and dry earth
 Is not a wall but a gradient, a groove
 
 That life moves back and forth across at will—
-From {{c|Mesos}} in the Permian lake to these
-Long-necked Triassic fishers on the sill
+From {{c|Mesos}} in the {{x|Permian}} lake to these
+Long-necked {{x|Triassic}} fishers on the sill
 Of the {{p|Tethys}} coast, to the plesiosaur seas
 
 That were coming—every age found some
@@ -373,13 +373,13 @@ And the ocean's depths—the line was used
 As highway, not as barrier.
 
                                So honor
-The strangest shapes the Triassic morning made—
+The strangest shapes the {{x|Triassic}} morning made—
 {{c|Tanystros}} with his neck of absurd honor,
 The fishing-rod design that briefly swayed
 
 Above the waves and caught his silver prey
 Without a single stroke of swimming fin—
-A shape that worked for its own Triassic day
+A shape that worked for its own {{x|Triassic}} day
 And asked for nothing but the fish therein.
 
 Not every form endures. Not every plan
@@ -390,7 +390,7 @@ Was life's own answer to the question—blessed
 With the same stubborn will to eat and breed
 That moves the stars and turns the spiral arm.
 {{c|Tanystros}} on his rock fulfilled his need
-And vanished, and the Triassic took no harm
+And vanished, and the {{x|Triassic}} took no harm
 
 From having made him—for the sea keeps room
 For every experiment, however strange,
@@ -408,12 +408,12 @@ Of creatures that did not yet know their name.
 For the first dinosaurs were modest things:
 No larger than a dog, with hollow bones
 And hands that grasped, and legs like coiled springs
-Built for running over Triassic stones.
+Built for running over {{x|Triassic}} stones.
 
 In the uplands of the southern {{p|Gondwana}} land,
 Where {{c|Cruros}}' river-children held no sway,
 The earliest of {{c|Avemeta}}'s band
-Appeared—{{c|Deinos}}, whose Triassic day
+Appeared—{{c|Deinos}}, whose {{x|Triassic}} day
 
 Was spent in running, catching, staying small
 In a world where {{c|Cruros}}' rauisuchians prowled
@@ -434,7 +434,7 @@ Three-fingered, dextrous, built for catching chance
 And insect, lizard, small mammal in the brush.
 They ran on two legs—bipedal, light,
 With tails outstretched for balance in the rush
-Of their hunting dashes through the Triassic night.
+Of their hunting dashes through the {{x|Triassic}} night.
 
 {{c|Eoraptoros}} was among the first—
 "Dawn plunderer" in the later name that men
@@ -456,14 +456,14 @@ That hinted at the hunting future, where
 The theropod line would build a predation
 Empire spanning every biosphere.
 
-But they were few. The Triassic was not theirs—
+But they were few. The {{x|Triassic}} was not theirs—
 Not yet. The rauisuchians owned the plains,
 The phytosaurs controlled the river-lairs,
 And {{c|Deinos}}' children lived on what remains
 
 The great ones left behind—the edges, scraps,
 The upland territories no one wanted,
-The arid margins on the Triassic maps
+The arid margins on the {{x|Triassic}} maps
 Where rainfall failed and bigger beasts were daunted.
 
 This is how kingdoms begin: not in the center
@@ -495,11 +495,11 @@ To hold a greater gut, the better equipped
 For breaking down the cellulose of plants.
 
 Three houses of the dinosaurs were born
-In the Triassic uplands—three new clans
+In the {{x|Triassic}} uplands—three new clans
 From {{c|Avemeta}}'s children, small and worn
 
 And unremarkable—who did not know
-They held the future of the Mesozoic world
+They held the future of the {{x|Mesozoic}} world
 Within their hollow bones and racing flow
 Of warm-ish blood—the banners not yet unfurled
 
@@ -537,10 +537,10 @@ Or starve—the water shapes them to the race
 And every time the answer is the same.
 
 {{c|Ichthyos}} found this answer first among
-The reptiles of the Triassic—and his claim
+The reptiles of the {{x|Triassic}}—and his claim
 To the dolphin shape was older, deeper, wrung
 
-From fifty million years of Triassic sea
+From fifty million years of {{x|Triassic}} sea
 Before the dolphins of a later age
 Would find the same solution—convergency,
 The ocean's only universal page:
@@ -552,7 +552,7 @@ Of hydrodynamics writing the same tale
 
 In every lineage that tries the deep.
 
-By middle Triassic, {{c|Ichthyos}}' children bore
+By middle {{x|Triassic}}, {{c|Ichthyos}}' children bore
 No trace of the limbed ancestor who'd creep
 Ashore between his hunts—the leg was no more:
 
@@ -575,7 +575,7 @@ Of the hunt.
 
              Great {{c|Shonisauros}} grew
 To the length of whales—fifteen meters long—
-In the Triassic seas of {{p|Tethys}}, through
+In the {{x|Triassic}} seas of {{p|Tethys}}, through
 The corridors of {{p|Panthalassa}} strong
 
 And wide, where the enormous ocean stretched
@@ -620,7 +620,7 @@ Best answer to the question of the speed
 In water, and every lineage that has won
 The ocean's race has read the selfsame creed.
 
-The shark found it first, in the Devonian tide—
+The shark found it first, in the {{x|Devonian}} tide—
 The tuna found it in the bony fish—
 And {{c|Ichthyos}} found it from the reptile side,
 And dolphins later from the mammal's wish—
@@ -689,7 +689,7 @@ That drew him through the water, the ancient swing
 
 Of arms through fluid that the later plesiosaurs
 Would perfect to an art—but {{c|Nothros}} began it,
-In the Triassic {{p|Tethys}}, along the shores
+In the {{x|Triassic}} {{p|Tethys}}, along the shores
 Of {{p|Pangaea}}'s coastline, where the granite
 
 Shelves dropped off to deeper water, and the fish
@@ -705,7 +705,7 @@ To deeper water, and these were the best
 Adapted for the open sea, and these
 Became the {{c|Plesios}} in the later age—
 True plesiosaurs who never left the seas,
-Who wrote the Jurassic ocean's grandest page.
+Who wrote the {{x|Jurassic}} ocean's grandest page.
 
 And {{c|Plakos}}, his cousin on the bottom shelf,
 Showed the other path: the turtle-echo,
@@ -745,7 +745,7 @@ Of {{c|Paraps}}' house are written high and low
 
 In every turtle basking on his stone
 And every plesiosaur that dove beneath
-The Mesozoic waves—they share the bone
+The {{x|Mesozoic}} waves—they share the bone
 Of common ancestry, the shared belief
 
 That life is best lived slowly, strongly, deep,
@@ -763,7 +763,7 @@ Both built to last, both certain, both brave.
 
 The world was one, and then the world was not.
 
-{{p|Pangaea}}—the All-Land, the single face
+{{p|Pangaea}}—the {{p|All-Land}}, the single face
 Of continent that held in one great lot
 Every shore and mountain, every place
 
@@ -775,7 +775,7 @@ Had pushed against the crust in magma-streams
 For a hundred million years.
 
                                The rift began
-In the Triassic's heart, a slow unzipping
+In the {{x|Triassic}}'s heart, a slow unzipping
 Of the continental skin that ran
 From north to south, the mantle's hot blood dripping
 
@@ -797,20 +797,20 @@ Fed new corals, new fish, the reborn swarm
 
 Of marine life in the expanding space.
 
-But first the breaking. The Carnian rains.
+But first the breaking. The {{x|Carnian}} rains.
 
-In the midst of the Triassic, every trace
+In the midst of the {{x|Triassic}}, every trace
 Of the dry and arid world was drowned—the plains
 
 That had been desert for ten million years
-Grew suddenly wet: the Carnian Pluvial
+Grew suddenly wet: the {{x|Carnian Pluvial}}
 Episode, a million years of tears
 From skies that had forgotten the alluvial
 
 And the monsoon—and now remembered them.
 The cause was volcanic, tectonic, the shift
 Of continents and currents—a requiem
-For the dry Triassic world, a gift
+For the dry {{x|Triassic}} world, a gift
 
 Of water to a world that had been parched—
 But water that arrived too fast, too much,
@@ -831,7 +831,7 @@ Left {{c|Cruros}}' children weakened at the core
 
 While {{c|Avemeta}}'s nimble dinosaurs,
 Adapted to the marginal and the changing,
-Found opportunity in the Carnian doors
+Found opportunity in the {{x|Carnian}} doors
 That opened as the old world was rearranging.
 
 The rains subsided. The world resumed its drift.
@@ -869,12 +869,12 @@ That would give each continent its unique creed
 
 Of creatures: the marsupials of the south,
 The placentals of the north, the island birds,
-The lemurs of Madagascar—from the mouth
+The lemurs of {{p|Madagascar}}—from the mouth
 Of this great cracking came the different words
 
 Of life's vocabulary on each shore.
 
-But for now, in the middle Triassic's age,
+But for now, in the middle {{x|Triassic}}'s age,
 The breaking was just beginning—nothing more
 Than a wider seaway and a wetter stage
 
@@ -898,37 +898,37 @@ Of what life could become in separation.
 
 # Chapter 92: The Cynodont's Vigil
 
-While the great ones ruled the Triassic plains—
+While the great ones ruled the {{x|Triassic}} plains—
 While {{c|Cruros}} held the rivers and the lowlands
 And {{c|Deinos}}' children ran in upland lanes—
 The children of {{c|Cynos}} lived in small commands
 
 Of burrow-dwelling, nighttime, careful kinds
-Who had inherited the Permian loss
+Who had inherited the {{x|Permian}} loss
 And carried in their milk-producing glands
 And fur-touched skin the memory of the cross
 
 That {{c|Synaps}}' dynasty had borne: the fall
-From Permian dominance to Triassic shadow,
+From {{x|Permian}} dominance to {{x|Triassic}} shadow,
 From the world's great lords to creatures small
 Enough to hide in any grassy meadow.
 
 For {{c|Cynos}} had been great—remember this—
 His father {{c|Theraps}} and his grandsire {{c|Pelyon}}
-Had ruled the Permian world in tooth and kiss
+Had ruled the {{x|Permian}} world in tooth and kiss
 Of predator and grazer—every hellion
 
 And gentle herbivore of the synapsid age
 Had answered to the house of {{c|Synaps}} once—
-But the Great Dying wrote a different page,
+But the {{x|Great Dying}} wrote a different page,
 And those who survived were not the mighty hunts-
 
-Men of the Permian peak but the burrowers,
+Men of the {{x|Permian}} peak but the burrowers,
 The small ones, the ones who ate the least
 And needed least, the underground endurers
 Who outlived the fire and the poisoned feast.
 
-And now, in the Triassic's middle years,
+And now, in the {{x|Triassic}}'s middle years,
 The children of {{c|Cynos}} grew smaller still—
 For the archosaurs above pressed down with fears
 And appetite on anything that filled
@@ -947,7 +947,7 @@ Of vibrissae that turned the blind and flat
 
 World of the nighttime into a map of touch.
 
-And in the late Triassic, from the smallest
+And in the late {{x|Triassic}}, from the smallest
 Of {{c|Cynos}}' shrinking children, came the clutch
 Of the first true mammals—{{c|Mammos}}, the humblest
 
@@ -1005,7 +1005,7 @@ Of smallness, of the patient flag unfurled
 In darkness, of the nighttime pioneers
 
 Who kept the synapsid flame alive
-Through all the Mesozoic's long dominion
+Through all the {{x|Mesozoic}}'s long dominion
 Of the archosaur lords—content to survive
 And wait, and hold, and keep their one opinion:
 
@@ -1027,7 +1027,7 @@ And the patient inherits every empty park.
 
 # Chapter 93: The Pack Hunters
 
-In the dry arroyos of the late Triassic,
+In the dry arroyos of the late {{x|Triassic}},
 Where the red sandstone baked beneath a sun
 That knew no ice at either pole—the classic
 And greenhouse world where {{c|Pangaea}}'s run
@@ -1083,16 +1083,16 @@ But the social bond, the pack's coordination
 
 That would echo through the theropod line
 For a hundred million years: the raptors
-Of the Cretaceous hunting in a fine
+Of the {{x|Cretaceous}} hunting in a fine
 And deadly chorus—all of them the actors
 
 In a play that {{c|Coelos}} first rehearsed
-In the late Triassic's arid scrubland stage.
+In the late {{x|Triassic}}'s arid scrubland stage.
 
 The prey they hunted? Anything that durst
 To walk the open ground: the heritage
 
-Of the Triassic's moderate-sized game—
+Of the {{x|Triassic}}'s moderate-sized game—
 Small ornithischians browsing in the brush,
 The last rhynchosaurs bearing the ancient claim
 Of beaked herbivory, the early rush
@@ -1133,7 +1133,7 @@ And the heavy to the ground.
 
                               Honor {{c|Coelos}}—
 The first pack-hunter of the dinosaur line,
-Who proved in the Triassic's arid bellows
+Who proved in the {{x|Triassic}}'s arid bellows
 That cooperation is the truest sign
 
 Of evolutionary sophistication—
@@ -1168,12 +1168,12 @@ Of skin, a bat-wing's cousin, the ancient string
 Of membrane that gave {{c|Pteros}} his first flight.
 
 He was the first vertebrate in the sky—
-Not counting the gliders of the Permian trees,
+Not counting the gliders of the {{x|Permian}} trees,
 The small and desperate lizard-forms that fly
 For a moment between branches in the breeze—
 
 {{c|Pteros}} achieved true powered flight: the beat
-Of membrane wings against the Triassic air,
+Of membrane wings against the {{x|Triassic}} air,
 The lift and thrust and banking that complete
 The mastery of the third dimension's lair.
 
@@ -1198,7 +1198,7 @@ The first {{c|Pteros}} were small—sparrow-sized,
 With teeth for catching insects on the strand
 Of evening air, with wings not yet king-sized
 
-But adequate for the modest Triassic skies
+But adequate for the modest {{x|Triassic}} skies
 Where no other vertebrate competed
 For the aerial niche—{{c|Neopter}}'s flies
 And dragonflies had owned it, undefeated,
@@ -1206,7 +1206,7 @@ And dragonflies had owned it, undefeated,
 For three hundred million years—but now
 A backbone and a warm-ish body brought
 A new competitor beneath the brow
-Of every Triassic sunset, and the thought
+Of every {{x|Triassic}} sunset, and the thought
 
 Of vertebrate dominion in the air
 Began with {{c|Pteros}}' small and toothed patrol
@@ -1215,13 +1215,13 @@ Of insects in the aerial aureole.
 
 His children would grow large—enormous—some
 With wingspans wider than a fighter plane—
-{{c|Quetzal}} of the Cretaceous would become
+{{c|Quetzal}} of the {{x|Cretaceous}} would become
 The largest thing that ever flew—but that refrain
 
 Is for a later chapter. Here, the start:
 Small, toothed, membrane-winged, and insect-fed,
 {{c|Pteros}} took the sky and played his part
-In the Triassic's grand experiment, and led
+In the {{x|Triassic}}'s grand experiment, and led
 
 The first invasion of the vertebrate
 Into the realm that only arthropods had known—
@@ -1235,7 +1235,7 @@ The vertebrates would find to powered flight:
 {{c|Pteros}}' membrane and the feathered contributions
 Of {{c|Deinos}}' later children—but tonight,
 
-In the Triassic's fading light, only one
+In the {{x|Triassic}}'s fading light, only one
 Existed: the membrane wing, the finger-kite,
 The pterosaur ascending toward the sun
 And banking in the thermal's lifting height.
@@ -1253,7 +1253,7 @@ And the sky, the sky, becoming something more.
 
 # Chapter 95: The Eve of the Second Dying
 
-The Triassic had been good. Not perfect—nothing
+The {{x|Triassic}} had been good. Not perfect—nothing
 Is perfect in the aftermath of the greatest
 Death the world had known—but the recloathing
 Of the earth in green, the sea's belated
@@ -1268,31 +1268,31 @@ The {{c|Nothros}} paddled in the shallow seas,
 And on the land {{c|Cruros}}' children held their sweep
 Of rivers while {{c|Deinos}} grew by slow degrees.
 
-It was a good world, and the end of the Triassic
+It was a good world, and the end of the {{x|Triassic}}
 Saw it full of life: three hundred species
 Of marine reptile in the {{p|Tethys}} classic
 Corridors, a thousand insects in the creases
 
 Of every forest—the recovery
-Was nearly complete, the scars of the Permian
+Was nearly complete, the scars of the {{x|Permian}}
 Almost healed over—and the discovery
 Of new ways of living, the median
 
-Of Mesozoic innovation, was underway.
+Of {{x|Mesozoic}} innovation, was underway.
 
 But the earth keeps its appointments with the fire.
 
 Beneath the floor of what would one day
-Be the Atlantic Ocean, the entire
+Be the {{p|Atlantic Ocean}}, the entire
 
 Mantle surged and pressed against the crust
 Where {{p|Pangaea}}'s seam was opening—
-The Central Atlantic Magmatic thrust,
-The CAMP volcanism, the rope-and-ring
+The {{x|Central Atlantic Magmatic}} thrust,
+The {{x|CAMP}} volcanism, the rope-and-ring
 
 Of basalt eruption that would stretch from pole
 To pole along the widening rift—
-And in the last ten thousand years of the Triassic's role,
+And in the last ten thousand years of the {{x|Triassic}}'s role,
 The earth gave its second terrible gift
 
 Of volcanic excess: carbon dioxide
@@ -1317,7 +1317,7 @@ To hunt as herbivore populations ranged
 Toward zero in the climate's gathering stress.
 
 And {{c|Cruros}}' dynasty—the elder son
-Of {{c|Archon}}, who had held the Triassic crown
+Of {{c|Archon}}, who had held the {{x|Triassic}} crown
 For forty million years—came undone.
 
 The world was changing, and the world frowned
@@ -1351,8 +1351,8 @@ Another morning.
 
                    But the great ones fell.
 The rauisuchians, the phytosaurs, the tall
-And heavy lords of {{c|Cruros}}' Triassic spell—
-Gone, in the CAMP volcanism's pall.
+And heavy lords of {{c|Cruros}}' {{x|Triassic}} spell—
+Gone, in the {{x|CAMP}} volcanism's pall.
 
 And as the elder brother's kingdom burned,
 The younger brother's children—{{c|Deinos}}' small
@@ -1366,7 +1366,7 @@ To hold his kingdom underneath the sun.
 
 Honor the eve—the last good evening
 Before the fire—for every living thing
-That breathed the Triassic air was weaving
+That breathed the {{x|Triassic}} air was weaving
 Its own ending, and did not know the sting
 
 Of what the morning's volcanism would bring.

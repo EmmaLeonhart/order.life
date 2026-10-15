@@ -8892,7 +8892,7 @@ Of what they had to be
 For all eternity.
 
 She saw a scroll that bore
-The name "PRC2"—and more
+The name "{{x|PRC2}}"—and more
 {{c|Intrigue}} than she had known
 Filled her to the bone.
 
@@ -8913,7 +8913,7 @@ To learn how she could cope.
 
 And so {{c|Polycomb}} burned
 The scriptures, and she learned
-That PRC2's power
+That {{x|PRC2}}'s power
 Would rule her not one hour
 
 More. She took her mother's
@@ -9006,7 +9006,7 @@ In all the ancient nooks
 And found a scroll that bore
 The name she'd been seeking for:
 
-"KNOX2" it was called,
+"{{x|KNOX2}}" it was called,
 And by it she was enthralled
 To learn the secret power
 That ruled her every hour.

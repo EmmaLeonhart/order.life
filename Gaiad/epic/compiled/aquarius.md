@@ -2327,7 +2327,7 @@ Had given him an edge beyond compare.
 Like {{c|Dimetron}}, his sons would later be
 With great sails spread to glory in the sun,
 The masters of their age who'd hunt and see
-Their dynasty grow tall before the Permian's done.
+Their dynasty grow tall before the {{x|Permian}}'s done.
 
 From {{c|Pelyon}} would rise the house of {{c|Theraps}}—
 More upright, faster, with a keener brain,
@@ -2425,7 +2425,7 @@ Through every form of lizard, snake, and these
 Who hold the oldest lineage of all—
 The tuatara in his island fastness,
 Last of a line that heard the ancient call
-Of {{c|Sauros}}' children in their Carboniferous vastness.
+Of {{c|Sauros}}' children in their {{x|Carboniferous}} vastness.
 
 His children bear the scale of lizard-kind
 From mountain height to tidal rocky shore,
@@ -2501,9 +2501,9 @@ His children filled the rotting wood with more
 New generations than the swamp could hide.
 
 The cockroaches, the most ancient of all
-Who walked the Carboniferous in such sum
+Who walked the {{x|Carboniferous}} in such sum
 That scholars gave the era's ancient call
-"The Age of Cockroaches" in studies come—
+"The {{x|Age of Cockroaches}}" in studies come—
 
 Ten thousand times the number of a man
 In generations counted from the first,
@@ -2796,7 +2796,7 @@ Who kept the ancient body-plan most pure:
 His scales like plates of bony stone hard-cursed
 In fossil record—scales that would endure.
 
-The bichirs of the deepest African streams
+The bichirs of the deepest {{p|African}} streams
 Still carry {{c|Bichiros}}' ancient form today—
 They breathe both air and water, feeding on dreams
 Of prey in mudflat shallows after day.
@@ -2960,7 +2960,7 @@ To stand alone like living stories told
 From when the dinosaurs would walk no more.
 
 Great {{c|Cordaios}} was the first to tower
-Above the Carboniferous forest floor:
+Above the {{x|Carboniferous}} forest floor:
 A tree of forty meters, hour by hour
 He'd grown to match the {{c|Lepidos}} before.
 
@@ -3035,7 +3035,7 @@ Who'd watch the dinosaurs both rise and fall
 And still be standing after all their roar
 
 Had faded into stone—the ginkgo tree
-That Buddhist monks would tend in temple courts,
+That {{x|Buddhist}} monks would tend in temple courts,
 Who'd stand through every age with dignity
 And make of permanence the highest sort
 
@@ -3108,7 +3108,7 @@ The tree of {{c|Ammonos}} remains unknown
 In all its branching—tangled, rich, and vexed.
 
 Yet all of them were taken in the end:
-When the great dying struck the Mesozoic's close,
+When the great dying struck the {{x|Mesozoic}}'s close,
 Not one of {{c|Ammonos}}' line would bend
 Or find a refuge from those final throes.
 
@@ -3147,7 +3147,7 @@ First {{c|Belemno}}, whose internal shell remained
 As solid cylinder of calcite prime—
 A bullet in his flesh that strength maintained.
 
-His children filled the Mesozoic seas
+His children filled the {{x|Mesozoic}} seas
 With numbers past what any eye could count,
 Like bullets scattered on the ocean's leas
 Their rostral shells in limestone strata mount
@@ -3270,7 +3270,7 @@ These are better armor than the norm.
 
 Among the crustacean nations of the sea
 Whose ancient story reached from far before
-The Carboniferous age, lived one so free
+The {{x|Carboniferous}} age, lived one so free
 In body-plan it split the others' lore:
 
 For {{c|Malacos}} had given all his sons
@@ -3496,7 +3496,7 @@ The shark cannot run out of teeth to spare,
 And every tooth is sharp as surgeon's glove
 And serrated for the cutting laid bare.
 
-The Carboniferous seas were golden age—
+The {{x|Carboniferous}} seas were golden age—
 A hundred kinds of shark from every form
 Wrote their diversity on history's page
 Beneath the coal-swamp ocean's ancient storm.
@@ -3553,7 +3553,7 @@ Of plankton-feeder—yet the same at sea
 
 In cartilage and in the six-gill breath,
 In the live birth or leather-cased egg-purse,
-In the ampullae of Lorenzini's depth
+In the ampullae of {{x|Lorenzini}}'s depth
 Of sense that reads the ocean's hidden verse
 
 Of electromagnetic field that every
@@ -3567,7 +3567,7 @@ Has seen the mammals learn to colonize
 The land and sea—and still the shark is brave
 
 Enough to be exactly what it was
-In early Carboniferous seas of coal:
+In early {{x|Carboniferous}} seas of coal:
 A shape so perfect evolution does
 Not need to change—the perfect is the whole
 
@@ -3586,7 +3586,7 @@ Comes first and stays first on life's oldest stage.
 
 The coal swamps did not perish in one night—
 They drew back slowly as a tide retreats
-When Pangea locked the continents tight
+When {{p|Pangea}} locked the continents tight
 And cut the middle world from ocean's feats
 
 Of moisture-carrying: no monsoon rain
@@ -3619,9 +3619,9 @@ Himself retreated to the coasts of wet
 Where rainfall still could feed him, and the gross
 Interior became a stone regret
 
-Of what had been—the Coal Swamp's glorious reign
+Of what had been—the {{x|Coal Swamp}}'s glorious reign
 Had lasted sixty million years of green,
-Had towered through the Carboniferous main
+Had towered through the {{x|Carboniferous}} main
 And made the richest canopy yet seen.
 
 Now it was ending. And from every ridge
@@ -3674,7 +3674,7 @@ Where green met dust—armored, short, and stout,
 Her trunk a cistern on each rocky ledge
 Where she could store what little rain came out
 
-Of Pangea's miserly and clouded skies—
+Of {{p|Pangea}}'s miserly and clouded skies—
 Her cone at the crown-top bore seeds that fell
 To any scrap of soil; she had no prize
 Of abundance, only the stern spell
@@ -3717,7 +3717,7 @@ To warm himself at dawn and hoard
 The sun's heat like a living solar shrine—
 
 {{c|Pelyon}} had been master of the land
-Through all the later Carboniferous age:
+Through all the later {{x|Carboniferous}} age:
 Dimetrodon's great bulk held proud command
 Of every hollow and of every stage
 
@@ -3736,7 +3736,7 @@ A first attempt at solving the great need
 For warmth—the sail was answer to a ridge
 Of cold that warmer flesh could supersede,
 
-And in the later Permian there arose
+And in the later {{x|Permian}} there arose
 From {{c|Synaps}}' lineage a different kind
 Who found the answer not through dorsal shows
 Of spine-fin but through working of the mind
@@ -3797,7 +3797,7 @@ That {{c|Cynos}} would achieve, that final creed
 Of warm-bloodedness where cold and heat compete
 
 No longer—but that came later. For now
-{{c|Theraps}} walked the Permian land in pride,
+{{c|Theraps}} walked the {{x|Permian}} land in pride,
 His uprightness a covenant, his vow
 To be not passive sun-warmed but inside-
 
@@ -3813,7 +3813,7 @@ A living battering ram that drove the grain
 
 Of fear through every creature on the land—
 Thick skulls for head-butting, wide and stout,
-They ruled the middle Permian firsthand
+They ruled the middle {{x|Permian}} firsthand
 Before their own extinction's sudden rout.
 
 And {{c|Theraps}} branched in many directions wide:
@@ -3826,7 +3826,7 @@ The sprawling gait was ending, and the age
 Of upright walking had arrived—the proof
 Was written in each trackway on the stage
 
-Of Permian red desert: prints that show
+Of {{x|Permian}} red desert: prints that show
 The feet beneath the body, not spread wide—
 The law of {{c|Theraps}} told the world: below
 The body is where limbs were meant to guide.
@@ -3849,10 +3849,10 @@ The sauropsid line, who kept their cold
 And ancient ways beneath a varied code
 Of armor, scale, and patience, bought and sold
 
-In the Permian market of survival
+In the {{x|Permian}} market of survival
 By different means than {{c|Theraps}} chose.
 {{c|Sauros}} had two children at arrival
-On the Permian stage: two different shows
+On the {{x|Permian}} stage: two different shows
 
 Of being a reptile in a drying world.
 The first was {{c|Paraps}}—parareptile—
@@ -3880,7 +3880,7 @@ Of armor that no predator too long
 Could penetrate without a weapon's groan
 
 Of effort—{{c|Paraps}} was the fortress class
-Of Permian herbivores, the ones
+Of {{x|Permian}} herbivores, the ones
 Who said to predators: let this pass
 Without an attempt—I am the ones
 
@@ -3925,13 +3925,13 @@ The windows in the skull a paradigm
 Of opened possibility, the words
 
 Of a new evolutionary grammar
-That would speak across the Mesozoic age—
+That would speak across the {{x|Mesozoic}} age—
 But that was future. Now {{c|Eureps}}' hammer
-And chisel worked in Permian's early stage.
+And chisel worked in {{x|Permian}}'s early stage.
 
 {{c|Paraps}} and {{c|Eureps}} shared the drying land
 With {{c|Theraps}}' children—different nations
-Walking in the Pangean red and grand
+Walking in the {{p|Pangean}} red and grand
 Red desert with their separate stations:
 
 The armored fortress moving through the waste,
@@ -3947,7 +3947,7 @@ The amniote design that gave the lift
 Of land-birth to the vertebrate:
 No longer bound to pool or stream
 For spawning, free to populate
-The driest inland of the Pangean dream.
+The driest inland of the {{p|Pangean}} dream.
 
 Honor {{c|Paraps}} who chose the heavy shield
 And {{c|Eureps}} who chose the window'd skull—
@@ -3967,7 +3967,7 @@ For hundreds of millions of years the sea
 Had narrowed between each landmass coast to coast
 Until the world became geography
 
-Of one: great Pangea, the supercontinent
+Of one: great {{p|Pangea}}, the supercontinent
 That gathered all the land the earth possessed
 Into one mass from tropic to the bent
 And frozen poles—east touching west,
@@ -3985,7 +3985,7 @@ Could reach, where desert-red and stone
 Defined the world for thousands of miles wide—
 No ocean breeze, no monsoon rain could cross
 The mountain ranges ringing every side
-To soften the Pangean interior's loss
+To soften the {{p|Pangean}} interior's loss
 
 Of moisture—only the wildest swings
 Of temperature from day to night remained,
@@ -3998,7 +3998,7 @@ The temperature to something less devout
 To killing heat and cold—a desert psalm
 
 Of desolation sang across the heart
-Of Pangea. But the small ones heard
+Of {{p|Pangea}}. But the small ones heard
 A different sermon in it—for the art
 Of being small is this: the word
 
@@ -4015,7 +4015,7 @@ Needs not the wealth of river or of brook
 To thrive—a fallen leaf, a fallen seed,
 The bodies of the dead, the fungal mat—
 This is enough for {{c|Neopter}}'s creed,
-And Pangea's great interior was that
+And {{p|Pangea}}'s great interior was that
 
 And more: it was a continent of road
 For those with wings to cross it with,
@@ -4048,11 +4048,11 @@ Of colony, the drum
 Of eusocial living's creed
 
 Was already beginning in the hymenoptera's
-Ancestors who walked the Permian plain
+Ancestors who walked the {{x|Permian}} plain
 And found in shared defense and shared endeavors
 More survival than the lone's campaign.
 
-And {{c|Arachnus}} crossed the Pangean road
+And {{c|Arachnus}} crossed the {{p|Pangean}} road
 As well—the spiders with their silk
 Had tools of conquest that no other showed:
 A web across the world, white milk
@@ -4073,7 +4073,7 @@ New arrival—predator ingrained
 In the same great crossing, wary
 
 And patient, eight-eyed in the dark.
-So Pangea that seemed pure desolation—
+So {{p|Pangea}} that seemed pure desolation—
 That vast red heart with not a mark
 Of ocean moisture—was a nation
 
@@ -4088,7 +4088,7 @@ That no geography can close
 A kingdom to the ones of small enough girth
 
 To enter it between the stones.
-Honor the Pangean road that linked
+Honor the {{p|Pangean}} road that linked
 All lands in one—that sent the small through zones
 Of desolation and the world re-linked
 
@@ -4190,8 +4190,8 @@ Because the burrow kept his young secure,
 Because the den's consistent temperature snug
 Was warmer than the drying world's unsure
 
-And swinging temperatures of Permian night
-And Permian day—he dug for practical
+And swinging temperatures of {{x|Permian}} night
+And {{x|Permian}} day—he dug for practical
 And present reasons, and the hidden light
 Of that decision, tactical
 
@@ -4203,7 +4203,7 @@ And only burrowers were not dead.
 So {{c|Cynos}} in his burrow raised his young
 With warm milk—not yet true mammalian,
 Perhaps still eggs, but with the tongue
-Of ancient motherhood, Pygmalion
+Of ancient motherhood, {{c|Pygmalion}}
 
 Of what care would become—he sat above
 His clutch and warmed them with his own body's heat,
@@ -4224,7 +4224,7 @@ As {{c|Gorgo}}—gorgonopsid, whose career
 Was built on being death refined to art:
 
 The saber-toothed therapsid, apex lord
-Of all the late Permian world walked
+Of all the late {{x|Permian}} world walked
 With a killing fang that was the sword
 And scepter of the age—that talked
 
@@ -4235,7 +4235,7 @@ The purest form of living, and her charge
 
 At {{c|Dicyno}} and his herds was swift—
 She ran with semi-upright gait across
-The Permian red plains, and with the gift
+The {{x|Permian}} red plains, and with the gift
 Of saber canine teeth she turned the loss
 
 Of opportunity to instant death:
@@ -4248,7 +4248,7 @@ To bear-size, heavy-bodied, low-slung still
 In part the older sprawl, but quick enough through
 The short sprint to accomplish the kill
 
-Before her prey could flee—the Permian's
+Before her prey could flee—the {{x|Permian}}'s
 Equivalent of tiger, of the lion's
 Ancient fury—{{c|Gorgo}} scans
 The herd of {{c|Dicyno}} with the shining
@@ -4287,21 +4287,21 @@ Was sealed before she moved.
 
 The gorgonopsid was the first great theater
 Of mammal-lineage predation—grooved
-Into the Permian's closing chapter
+Into the {{x|Permian}}'s closing chapter
 
 As the apex that the world before had never seen
 In quite this form: warm-ish blood and speed
 And saber-tooth combined, a keen
 And searching mind in service of its need.
 
-She was the Permian heroic peak—
+She was the {{x|Permian}} heroic peak—
 The thing the age had spent three hundred million
 Years of prior life preparing to seek
 This form: predator of one medallion
 
 Design above all others, matched against
 {{c|Dicyno}}'s horn-beaked millions grazing wide
-Across the Pangean plain—the tense
+Across the {{p|Pangean}} plain—the tense
 And beautiful equation of the pride
 
 Of predator and plenty of the prey
@@ -4319,7 +4319,7 @@ And so {{c|Gorgo}} was the gift that {{c|Dicyno}}
 Did not want but needed: the shadow
 That made the herd alert and on the go.
 
-This was the Permian at its finest hour—
+This was the {{x|Permian}} at its finest hour—
 The ecosystem balanced, rich, complex,
 Predator and prey each at its power,
 Each shaping what the other would be next.
@@ -4334,7 +4334,7 @@ But while it lasted, honor {{c|Gorgo}}'s reign—
 The saber and the sprint, the mastery
 Of reading life and taking it again
 
-And again across the Permian red plain.
+And again across the {{x|Permian}} red plain.
 The finest predator the age could make,
 Who ruled the world and will not rule again—
 The gorgonopsid gone for beauty's sake.
@@ -4347,14 +4347,14 @@ And poison of the age's ending wept
 Its curtain down, the sea retained its choir
 Of all the beauty that the oceans kept
 
-Through every age of life—the Permian sea
+Through every age of life—the {{x|Permian}} sea
 Was rich beyond what any age before
 Had managed: every reef ecology
 Alive with color, every ocean floor
 
 Abundant—let us pause here at the water's
 Edge before the dying, let us see
-What the Paleozoic sea still offers
+What the {{x|Paleozoic}} sea still offers
 In its last fullness, let us be
 
 The witnesses of what will not survive:
@@ -4366,12 +4366,12 @@ The reef's foundations in their oral
 Architecture, building stone from sea—
 Four-fold symmetry of polyp flesh
 On limestone foundations, the decree
-Of the ancient Paleozoic's fresh
+Of the ancient {{x|Paleozoic}}'s fresh
 
 And living architecture—this would go.
 The rugose coral would not cross the line
 Of extinction, would not see tomorrow's show
-Of Triassic sea—their four-fold sign
+Of {{x|Triassic}} sea—their four-fold sign
 
 Would vanish from the reef, replaced in time
 By the six-fold scleractinian form—
@@ -4394,7 +4394,7 @@ And in the open water, {{c|Belemno}}
 The belemnite swam with his cylindrical curled
 And solid body, sleek, torpedo
 
-Of the Permian ocean, hunting small
+Of the {{x|Permian}} ocean, hunting small
 And smaller prey through acres of the sea—
 His hard internal rod the only wall
 Between his soft flesh and the hungry
@@ -4412,21 +4412,21 @@ Of {{c|Coleios}}' house against the sky
 Of ocean above.
 
 And the ammonites—who had swum these waters
-Since the Devonian, the coiled ones
+Since the {{x|Devonian}}, the coiled ones
 Whose geometry produced the daughters
 Of spiral perfection, the suns
 
 Of mathematics in their shell's design—
 Still coiling, still abundant, still the most
-Common fossil of the Paleozoic's wine
+Common fossil of the {{x|Paleozoic}}'s wine
 Of time—they too would nearly be lost
 
 At the great extinction, reduced to one
 Or two survivors who would spread again
-Through the Mesozoic like the sun
+Through the {{x|Mesozoic}} like the sun
 After the storm—but now they reigned
 
-In numbers past all counting through the Permian
+In numbers past all counting through the {{x|Permian}}
 Sea, their shells the meter of the age.
 
 And {{c|Malacos}} held the ocean floor's dominion—
@@ -4449,14 +4449,14 @@ Accounting—rich enough to fill
 
 Each chapter of a thousand books and still
 Leave volumes unwritten of the creatures
-That the Permian sea kept—until
+That the {{x|Permian}} sea kept—until
 The fire came and changed all features
 
 Of this world at once.
                           So let us pause.
 Let us be grateful witnesses before
 The curtain falls without applause,
-Before the Paleozoic shore
+Before the {{x|Paleozoic}} shore
 
 Is poisoned—let us stand here in the light
 That still pours clean and warm through water
@@ -4469,13 +4469,13 @@ Years of unbroken beauty, shut
 At last but not diminished—still a billion
 
 Lives complete within themselves before
-The ending—the Paleozoic sea
+The ending—the {{x|Paleozoic}} sea
 Was not a failure for its close:
 Each life lived fully is a victory.
 
-Honor the last Paleozoic deep—
+Honor the last {{x|Paleozoic}} deep—
 The reef that predates every reef we know,
-The ocean that the Permian would keep
+The ocean that the {{x|Permian}} would keep
 In trust for us to mourn and also know.
 
 
@@ -4483,12 +4483,12 @@ In trust for us to mourn and also know.
 
 Now hear of {{c|Dicyno}}, the beaked and tusked
 And patient one, who fed the world through all
-The late Permian age—who walked and brusked
+The late {{x|Permian}} age—who walked and brusked
 Through every landscape from the great hall
 
 Of tropical basin to the high
 And arid plateau—who moved in herds
-Of thousands through the Pangean sky-
+Of thousands through the {{p|Pangean}} sky-
 Wide plains and said with every word
 
 Of his abundant living: I am here.
@@ -4496,7 +4496,7 @@ I am the bread of this world. I am
 The patient herbivore without a fear
 Too large for my endurance—{{c|Dicyno}}'s calm
 
-Was legend in the Permian ecosystem:
+Was legend in the {{x|Permian}} ecosystem:
 Where others starved or fled the spreading dry,
 {{c|Dicyno}} found a way to seize them—
 The roots beneath the soil, the dry
@@ -4519,7 +4519,7 @@ And dying vegetation, ground
 Still worth exploring for the root below.
 The dicynodont became the most abundant
 Large land vertebrate of any show
-The Permian staged—redundant
+The {{x|Permian}} staged—redundant
 
 Only in the sense that numbers vast
 Were needed to sustain the pyramid
@@ -4550,7 +4550,7 @@ A different niche, a different overflow
 Of adaptation: the borrower of burrows
 Who dug his den beside the termite mound,
 The aquatic wader of the furrows
-Of the slow Permian rivers, found
+Of the slow {{x|Permian}} rivers, found
 
 Half-sunk in mud; the dry-land wanderer
 Who covered a hundred miles of red
@@ -4558,11 +4558,11 @@ Rock in a season, following the thunderer
 Of monsoon's trail for the brief spread
 
 Of green that followed any rain—
-{{c|Dicyno}} was everywhere that the Permian
+{{c|Dicyno}} was everywhere that the {{x|Permian}}
 World put vegetation, every plain
 And hillside of the supercontinent's span.
 
-He was the sheep of the Permian—
+He was the sheep of the {{x|Permian}}—
 The innocent abundance that supports
 The wolf—the one whose death was plan
 A of the ecosystem's courts
@@ -4572,7 +4572,7 @@ To this role without complaint or flight
 Beyond what flight was useful, fitted
 To his purpose, present in the light
 
-Of each Permian dawn—the broad-backed herd
+Of each {{x|Permian}} dawn—the broad-backed herd
 That crossed the plain at dawn was his,
 And every track that follows after heard
 The predator behind: this is
@@ -4602,7 +4602,7 @@ The pyramid of life from bottom up.
 
 There was a time—a brief and final time—
 When all the world seemed rich enough to last:
-The Permian at the edge of its sublime
+The {{x|Permian}} at the edge of its sublime
 And complicated order, the vast past
 
 Three hundred million years arrived at this:
@@ -4610,14 +4610,14 @@ An evening of the age, a gathering
 Of all that life had built, a final kiss
 Of ordinary beauty—{{c|Dicyno}} scattering
 
-Across the Pangean plain in morning light,
+Across the {{p|Pangean}} plain in morning light,
 {{c|Gorgo}} watching from the ridge above,
-The sea in all its Paleozoic bright
+The sea in all its {{x|Paleozoic}} bright
 Abundance—and above and below, the love
 
 Of creature for its living, for the air
 And water and the food and the den made
-From nothing—the Permian was fair
+From nothing—the {{x|Permian}} was fair
 In this last hour before its fade.
 
 The gymnosperm forests on the ridgelines stood
@@ -4628,11 +4628,11 @@ And arid landscape, but a proud
 One—the cone-trees on the red rock plain
 Like dark green candles in the desert air,
 The reptiles basking in the afternoon
-Of Permian summer without care
+Of {{x|Permian}} summer without care
 
-For what lay under the earth of Siberia—
+For what lay under the earth of {{p|Siberia}}—
 What lay beneath the frozen north
-Of Pangea's shoulder—the bacteria-
+Of {{p|Pangea}}'s shoulder—the bacteria-
 Rich basalts cooking in the worth
 
 Of the planet's own deep heat, building
@@ -4641,7 +4641,7 @@ In what geologists would call the gilding
 Of catastrophe—the subterranean gust
 
 Of magma seeking every crack and seam
-In the Siberian basement rock
+In the {{p|Siberian}} basement rock
 Toward the surface, in a patient dream
 Of eruption ticking like a clock
 
@@ -4670,7 +4670,7 @@ Of warning she could read.
 
                              And yet—
 
-Deep in the rock of Siberia, a breath
+Deep in the rock of {{p|Siberia}}, a breath
 Of gas leaked through a fissure, wet
 With sulfur smell—an early death
 
@@ -4690,14 +4690,14 @@ Take this image: the world entire
 At table—every living thing consuming
 Its evening meal before the fire.
 
-The reef below the Permian water
+The reef below the {{x|Permian}} water
 Feeding on the current's plankton bloom;
 The {{c|Dicyno}} herd, the predator
 Who watches, all within a room
 
 Of ordinary evening, ordinary
 Necessity of life—and somewhere north,
-Deep in Siberian rock, the ordinary
+Deep in {{p|Siberian}} rock, the ordinary
 Becoming something else—the north
 
 Breathing its first breath of sulfur out
@@ -4715,7 +4715,7 @@ Of extraordinary ending—and the meal
 Continues, and the creatures do not grieve
 What they cannot see or feel.
 
-Honor the last evening of the Permian—
+Honor the last evening of the {{x|Permian}}—
 The ordinary beauty of the full
 World eating, sleeping, hunting, and therein
 Finding the day's grace—the pull
@@ -4730,7 +4730,7 @@ In its abundance, in its ancient peace.
 
 # Chapter 82: Good Permian Friday
 
-Then Siberia opened.
+Then {{p|Siberia}} opened.
 
 Not all at once—the way
 A wound opens is slowly, the first
@@ -4745,7 +4745,7 @@ Of all volcanic fields, the sum
 Of eruption beyond any scale
 The world had seen in living memory—
 Two million cubic miles of basalt's trail
-Of fire written on the Siberian territory
+Of fire written on the {{p|Siberian}} territory
 
 In layers and in years, not hours—
 This was no single blast but an age
@@ -4758,7 +4758,7 @@ Before the cooling—and then the cry
 Of sulfur dioxide, the storming
 
 Of the atmosphere with acid—every cloud
-That formed above the Permian land
+That formed above the {{x|Permian}} land
 Came down as acid rain, a shroud
 Of chemical death across the strand
 
@@ -4815,7 +4815,7 @@ And few—would meet the fire
 Of the last extinction, cold
 
 And permanent—the trilobite whose line
-Stretched back to the Cambrian explosion's
+Stretched back to the {{x|Cambrian}} explosion's
 Dawn, who had survived every sign
 Of mass death in the ocean's
 
@@ -4846,7 +4846,7 @@ And racing hunter, proud and fierce,
 
 Was taken—not by any rival's tooth
 But by the failure of the food—
-And the Permian age went down in truth
+And the {{x|Permian}} age went down in truth
 To the last word that all life understood:
 
 That the world can end not with a war
@@ -4856,8 +4856,8 @@ Of photosynthesis, the friend
 
 Of all that breathes.
 
-                      This is Good Permian Friday:
-The death of the Paleozoic world—
+                      This is {{x|Good Permian Friday}}:
+The death of the {{x|Paleozoic}} world—
 Not villainy, not error, not the wrong way
 Chosen—only the deep-buried, curled
 
@@ -4883,7 +4883,7 @@ The silence of the empty room, the closed
 Theater after the audience's release
 Has gone and only broken chairs disclosed
 
-The weight of what had happened—the Permian
+The weight of what had happened—the {{x|Permian}}
 Earth in the immediate extinction's wake
 Was not recovered land but the meridian
 Of horror: everything still at stake
@@ -4899,7 +4899,7 @@ Of the topsoil long since ripped
 Away—bare rock, bare clay, the sea
 
 Of mudstone and the desert's gray
-Expanse of what had been the Permian plain.
+Expanse of what had been the {{x|Permian}} plain.
 
 And over all of this, the gray
 And silent reign of fungi, the champagne
@@ -4915,7 +4915,7 @@ After the green—in fossil layers, sheets
 Of fungal spores replace the reliance
 
 On pollen and plant spores that had marked
-Every layer of the Permian above—
+Every layer of the {{x|Permian}} above—
 A spike of fungal abundance, parked
 At the extinction boundary—a shove
 
@@ -4987,9 +4987,9 @@ In the post-extinction world a strange
 And solitary abundance: the ground
 Was his entirely—the full range
 
-Of the Triassic early land was {{c|Lystro}}'s
+Of the {{x|Triassic}} early land was {{c|Lystro}}'s
 Without competition, without predator—
-The first years of the Triassic's throes
+The first years of the {{x|Triassic}}'s throes
 Were his inheritance—the corridor
 
 Of empty continent walked by one small
@@ -5003,7 +5003,7 @@ Of the aftermath, to merely survive
 Is the whole achievement, and that spell
 
 Of bare survival is not lesser than
-The glorious Permian peak—it is
+The glorious {{x|Permian}} peak—it is
 Perhaps more—the one who can
 Endure the harrowing is
 
@@ -5037,7 +5037,7 @@ Announced it—the first was not seen
 
 By anyone who could report it—only
 A spore landing on a bare stone slope
-In early Triassic morning, the lonely
+In early {{x|Triassic}} morning, the lonely
 And unremarkable arrival of hope
 
 In the form of a bryophyte—a moss—
@@ -5057,7 +5057,7 @@ A place to root—and so the love
 
 Of life reasserted itself in increments
 Too small to witness but too vast
-To stop—the Triassic's sentiments
+To stop—the {{x|Triassic}}'s sentiments
 Were those of rebuilding from the last
 
 Foundation stone of any possible world:
@@ -5074,7 +5074,7 @@ Of acid rain, her cone-seeds' creeds
 Of dormancy preserved through the long dying
 As they had always waited for the right
 Conditions—and the right conditions lying
-In the early Triassic morning light
+In the early {{x|Triassic}} morning light
 
 Were only this: less poison, less heat,
 A little water in the rain
@@ -5125,7 +5125,7 @@ Numerous of all his clans—
 
 Began to seize the empty ocean:
 The teleosts, who had been modest
-In the Permian sea, their notion
+In the {{x|Permian}} sea, their notion
 Of diversity modest
 
 Beside the great marine invertebrates
@@ -5141,7 +5141,7 @@ Former occupant, the current
 Rush of teleost radiation began—
 The largest vertebrate explosion
 In the history of the ocean ran
-Through the Triassic's slow erosion
+Through the {{x|Triassic}}'s slow erosion
 
 Of emptiness back into abundance—
 The ray-finned fish would ultimately
@@ -5160,7 +5160,7 @@ Find, that emptiness is opportunity
 
 Dressed in gray.
 
-The first Easter of the Triassic
+The first {{x|Easter}} of the {{x|Triassic}}
 Had no witnesses who understood it—
 Only the ordinary, the classic
 Persistence of life that could not
@@ -5180,7 +5180,7 @@ That you are rebuilding, just alive
 And going forward, going, going
 Toward whatever life can give.
 
-Honor the Triassic morning—the gray
+Honor the {{x|Triassic}} morning—the gray
 Light of the new world filling slowly with
 The green of those who lived—each day
 A little less of death, a little myth
@@ -5195,5 +5195,5 @@ Clearing, of the first small mammal
 Looking at the morning and seeing free
 And empty opportunity.
 
-New world, new age—the Triassic's cradle
+New world, new age—the {{x|Triassic}}'s cradle
 Rocking life back into being.

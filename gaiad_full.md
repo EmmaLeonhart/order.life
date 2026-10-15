@@ -13207,7 +13207,7 @@ Of what they had to be
 For all eternity.
 
 She saw a scroll that bore
-The name "PRC2"—and more
+The name "{{x|PRC2}}"—and more
 {{c|Intrigue}} than she had known
 Filled her to the bone.
 
@@ -13228,7 +13228,7 @@ To learn how she could cope.
 
 And so {{c|Polycomb}} burned
 The scriptures, and she learned
-That PRC2's power
+That {{x|PRC2}}'s power
 Would rule her not one hour
 
 More. She took her mother's
@@ -13321,7 +13321,7 @@ In all the ancient nooks
 And found a scroll that bore
 The name she'd been seeking for:
 
-"KNOX2" it was called,
+"{{x|KNOX2}}" it was called,
 And by it she was enthralled
 To learn the secret power
 That ruled her every hour.
@@ -17250,7 +17250,7 @@ Had given him an edge beyond compare.
 Like {{c|Dimetron}}, his sons would later be
 With great sails spread to glory in the sun,
 The masters of their age who'd hunt and see
-Their dynasty grow tall before the Permian's done.
+Their dynasty grow tall before the {{x|Permian}}'s done.
 
 From {{c|Pelyon}} would rise the house of {{c|Theraps}}—
 More upright, faster, with a keener brain,
@@ -17348,7 +17348,7 @@ Through every form of lizard, snake, and these
 Who hold the oldest lineage of all—
 The tuatara in his island fastness,
 Last of a line that heard the ancient call
-Of {{c|Sauros}}' children in their Carboniferous vastness.
+Of {{c|Sauros}}' children in their {{x|Carboniferous}} vastness.
 
 His children bear the scale of lizard-kind
 From mountain height to tidal rocky shore,
@@ -17424,9 +17424,9 @@ His children filled the rotting wood with more
 New generations than the swamp could hide.
 
 The cockroaches, the most ancient of all
-Who walked the Carboniferous in such sum
+Who walked the {{x|Carboniferous}} in such sum
 That scholars gave the era's ancient call
-"The Age of Cockroaches" in studies come—
+"The {{x|Age of Cockroaches}}" in studies come—
 
 Ten thousand times the number of a man
 In generations counted from the first,
@@ -17719,7 +17719,7 @@ Who kept the ancient body-plan most pure:
 His scales like plates of bony stone hard-cursed
 In fossil record—scales that would endure.
 
-The bichirs of the deepest African streams
+The bichirs of the deepest {{p|African}} streams
 Still carry {{c|Bichiros}}' ancient form today—
 They breathe both air and water, feeding on dreams
 Of prey in mudflat shallows after day.
@@ -17883,7 +17883,7 @@ To stand alone like living stories told
 From when the dinosaurs would walk no more.
 
 Great {{c|Cordaios}} was the first to tower
-Above the Carboniferous forest floor:
+Above the {{x|Carboniferous}} forest floor:
 A tree of forty meters, hour by hour
 He'd grown to match the {{c|Lepidos}} before.
 
@@ -17958,7 +17958,7 @@ Who'd watch the dinosaurs both rise and fall
 And still be standing after all their roar
 
 Had faded into stone—the ginkgo tree
-That Buddhist monks would tend in temple courts,
+That {{x|Buddhist}} monks would tend in temple courts,
 Who'd stand through every age with dignity
 And make of permanence the highest sort
 
@@ -18031,7 +18031,7 @@ The tree of {{c|Ammonos}} remains unknown
 In all its branching—tangled, rich, and vexed.
 
 Yet all of them were taken in the end:
-When the great dying struck the Mesozoic's close,
+When the great dying struck the {{x|Mesozoic}}'s close,
 Not one of {{c|Ammonos}}' line would bend
 Or find a refuge from those final throes.
 
@@ -18070,7 +18070,7 @@ First {{c|Belemno}}, whose internal shell remained
 As solid cylinder of calcite prime—
 A bullet in his flesh that strength maintained.
 
-His children filled the Mesozoic seas
+His children filled the {{x|Mesozoic}} seas
 With numbers past what any eye could count,
 Like bullets scattered on the ocean's leas
 Their rostral shells in limestone strata mount
@@ -18193,7 +18193,7 @@ These are better armor than the norm.
 
 Among the crustacean nations of the sea
 Whose ancient story reached from far before
-The Carboniferous age, lived one so free
+The {{x|Carboniferous}} age, lived one so free
 In body-plan it split the others' lore:
 
 For {{c|Malacos}} had given all his sons
@@ -18419,7 +18419,7 @@ The shark cannot run out of teeth to spare,
 And every tooth is sharp as surgeon's glove
 And serrated for the cutting laid bare.
 
-The Carboniferous seas were golden age—
+The {{x|Carboniferous}} seas were golden age—
 A hundred kinds of shark from every form
 Wrote their diversity on history's page
 Beneath the coal-swamp ocean's ancient storm.
@@ -18476,7 +18476,7 @@ Of plankton-feeder—yet the same at sea
 
 In cartilage and in the six-gill breath,
 In the live birth or leather-cased egg-purse,
-In the ampullae of Lorenzini's depth
+In the ampullae of {{x|Lorenzini}}'s depth
 Of sense that reads the ocean's hidden verse
 
 Of electromagnetic field that every
@@ -18490,7 +18490,7 @@ Has seen the mammals learn to colonize
 The land and sea—and still the shark is brave
 
 Enough to be exactly what it was
-In early Carboniferous seas of coal:
+In early {{x|Carboniferous}} seas of coal:
 A shape so perfect evolution does
 Not need to change—the perfect is the whole
 
@@ -18509,7 +18509,7 @@ Comes first and stays first on life's oldest stage.
 
 The coal swamps did not perish in one night—
 They drew back slowly as a tide retreats
-When Pangea locked the continents tight
+When {{p|Pangea}} locked the continents tight
 And cut the middle world from ocean's feats
 
 Of moisture-carrying: no monsoon rain
@@ -18542,9 +18542,9 @@ Himself retreated to the coasts of wet
 Where rainfall still could feed him, and the gross
 Interior became a stone regret
 
-Of what had been—the Coal Swamp's glorious reign
+Of what had been—the {{x|Coal Swamp}}'s glorious reign
 Had lasted sixty million years of green,
-Had towered through the Carboniferous main
+Had towered through the {{x|Carboniferous}} main
 And made the richest canopy yet seen.
 
 Now it was ending. And from every ridge
@@ -18597,7 +18597,7 @@ Where green met dust—armored, short, and stout,
 Her trunk a cistern on each rocky ledge
 Where she could store what little rain came out
 
-Of Pangea's miserly and clouded skies—
+Of {{p|Pangea}}'s miserly and clouded skies—
 Her cone at the crown-top bore seeds that fell
 To any scrap of soil; she had no prize
 Of abundance, only the stern spell
@@ -18640,7 +18640,7 @@ To warm himself at dawn and hoard
 The sun's heat like a living solar shrine—
 
 {{c|Pelyon}} had been master of the land
-Through all the later Carboniferous age:
+Through all the later {{x|Carboniferous}} age:
 Dimetrodon's great bulk held proud command
 Of every hollow and of every stage
 
@@ -18659,7 +18659,7 @@ A first attempt at solving the great need
 For warmth—the sail was answer to a ridge
 Of cold that warmer flesh could supersede,
 
-And in the later Permian there arose
+And in the later {{x|Permian}} there arose
 From {{c|Synaps}}' lineage a different kind
 Who found the answer not through dorsal shows
 Of spine-fin but through working of the mind
@@ -18720,7 +18720,7 @@ That {{c|Cynos}} would achieve, that final creed
 Of warm-bloodedness where cold and heat compete
 
 No longer—but that came later. For now
-{{c|Theraps}} walked the Permian land in pride,
+{{c|Theraps}} walked the {{x|Permian}} land in pride,
 His uprightness a covenant, his vow
 To be not passive sun-warmed but inside-
 
@@ -18736,7 +18736,7 @@ A living battering ram that drove the grain
 
 Of fear through every creature on the land—
 Thick skulls for head-butting, wide and stout,
-They ruled the middle Permian firsthand
+They ruled the middle {{x|Permian}} firsthand
 Before their own extinction's sudden rout.
 
 And {{c|Theraps}} branched in many directions wide:
@@ -18749,7 +18749,7 @@ The sprawling gait was ending, and the age
 Of upright walking had arrived—the proof
 Was written in each trackway on the stage
 
-Of Permian red desert: prints that show
+Of {{x|Permian}} red desert: prints that show
 The feet beneath the body, not spread wide—
 The law of {{c|Theraps}} told the world: below
 The body is where limbs were meant to guide.
@@ -18772,10 +18772,10 @@ The sauropsid line, who kept their cold
 And ancient ways beneath a varied code
 Of armor, scale, and patience, bought and sold
 
-In the Permian market of survival
+In the {{x|Permian}} market of survival
 By different means than {{c|Theraps}} chose.
 {{c|Sauros}} had two children at arrival
-On the Permian stage: two different shows
+On the {{x|Permian}} stage: two different shows
 
 Of being a reptile in a drying world.
 The first was {{c|Paraps}}—parareptile—
@@ -18803,7 +18803,7 @@ Of armor that no predator too long
 Could penetrate without a weapon's groan
 
 Of effort—{{c|Paraps}} was the fortress class
-Of Permian herbivores, the ones
+Of {{x|Permian}} herbivores, the ones
 Who said to predators: let this pass
 Without an attempt—I am the ones
 
@@ -18848,13 +18848,13 @@ The windows in the skull a paradigm
 Of opened possibility, the words
 
 Of a new evolutionary grammar
-That would speak across the Mesozoic age—
+That would speak across the {{x|Mesozoic}} age—
 But that was future. Now {{c|Eureps}}' hammer
-And chisel worked in Permian's early stage.
+And chisel worked in {{x|Permian}}'s early stage.
 
 {{c|Paraps}} and {{c|Eureps}} shared the drying land
 With {{c|Theraps}}' children—different nations
-Walking in the Pangean red and grand
+Walking in the {{p|Pangean}} red and grand
 Red desert with their separate stations:
 
 The armored fortress moving through the waste,
@@ -18870,7 +18870,7 @@ The amniote design that gave the lift
 Of land-birth to the vertebrate:
 No longer bound to pool or stream
 For spawning, free to populate
-The driest inland of the Pangean dream.
+The driest inland of the {{p|Pangean}} dream.
 
 Honor {{c|Paraps}} who chose the heavy shield
 And {{c|Eureps}} who chose the window'd skull—
@@ -18890,7 +18890,7 @@ For hundreds of millions of years the sea
 Had narrowed between each landmass coast to coast
 Until the world became geography
 
-Of one: great Pangea, the supercontinent
+Of one: great {{p|Pangea}}, the supercontinent
 That gathered all the land the earth possessed
 Into one mass from tropic to the bent
 And frozen poles—east touching west,
@@ -18908,7 +18908,7 @@ Could reach, where desert-red and stone
 Defined the world for thousands of miles wide—
 No ocean breeze, no monsoon rain could cross
 The mountain ranges ringing every side
-To soften the Pangean interior's loss
+To soften the {{p|Pangean}} interior's loss
 
 Of moisture—only the wildest swings
 Of temperature from day to night remained,
@@ -18921,7 +18921,7 @@ The temperature to something less devout
 To killing heat and cold—a desert psalm
 
 Of desolation sang across the heart
-Of Pangea. But the small ones heard
+Of {{p|Pangea}}. But the small ones heard
 A different sermon in it—for the art
 Of being small is this: the word
 
@@ -18938,7 +18938,7 @@ Needs not the wealth of river or of brook
 To thrive—a fallen leaf, a fallen seed,
 The bodies of the dead, the fungal mat—
 This is enough for {{c|Neopter}}'s creed,
-And Pangea's great interior was that
+And {{p|Pangea}}'s great interior was that
 
 And more: it was a continent of road
 For those with wings to cross it with,
@@ -18971,11 +18971,11 @@ Of colony, the drum
 Of eusocial living's creed
 
 Was already beginning in the hymenoptera's
-Ancestors who walked the Permian plain
+Ancestors who walked the {{x|Permian}} plain
 And found in shared defense and shared endeavors
 More survival than the lone's campaign.
 
-And {{c|Arachnus}} crossed the Pangean road
+And {{c|Arachnus}} crossed the {{p|Pangean}} road
 As well—the spiders with their silk
 Had tools of conquest that no other showed:
 A web across the world, white milk
@@ -18996,7 +18996,7 @@ New arrival—predator ingrained
 In the same great crossing, wary
 
 And patient, eight-eyed in the dark.
-So Pangea that seemed pure desolation—
+So {{p|Pangea}} that seemed pure desolation—
 That vast red heart with not a mark
 Of ocean moisture—was a nation
 
@@ -19011,7 +19011,7 @@ That no geography can close
 A kingdom to the ones of small enough girth
 
 To enter it between the stones.
-Honor the Pangean road that linked
+Honor the {{p|Pangean}} road that linked
 All lands in one—that sent the small through zones
 Of desolation and the world re-linked
 
@@ -19113,8 +19113,8 @@ Because the burrow kept his young secure,
 Because the den's consistent temperature snug
 Was warmer than the drying world's unsure
 
-And swinging temperatures of Permian night
-And Permian day—he dug for practical
+And swinging temperatures of {{x|Permian}} night
+And {{x|Permian}} day—he dug for practical
 And present reasons, and the hidden light
 Of that decision, tactical
 
@@ -19126,7 +19126,7 @@ And only burrowers were not dead.
 So {{c|Cynos}} in his burrow raised his young
 With warm milk—not yet true mammalian,
 Perhaps still eggs, but with the tongue
-Of ancient motherhood, Pygmalion
+Of ancient motherhood, {{c|Pygmalion}}
 
 Of what care would become—he sat above
 His clutch and warmed them with his own body's heat,
@@ -19147,7 +19147,7 @@ As {{c|Gorgo}}—gorgonopsid, whose career
 Was built on being death refined to art:
 
 The saber-toothed therapsid, apex lord
-Of all the late Permian world walked
+Of all the late {{x|Permian}} world walked
 With a killing fang that was the sword
 And scepter of the age—that talked
 
@@ -19158,7 +19158,7 @@ The purest form of living, and her charge
 
 At {{c|Dicyno}} and his herds was swift—
 She ran with semi-upright gait across
-The Permian red plains, and with the gift
+The {{x|Permian}} red plains, and with the gift
 Of saber canine teeth she turned the loss
 
 Of opportunity to instant death:
@@ -19171,7 +19171,7 @@ To bear-size, heavy-bodied, low-slung still
 In part the older sprawl, but quick enough through
 The short sprint to accomplish the kill
 
-Before her prey could flee—the Permian's
+Before her prey could flee—the {{x|Permian}}'s
 Equivalent of tiger, of the lion's
 Ancient fury—{{c|Gorgo}} scans
 The herd of {{c|Dicyno}} with the shining
@@ -19210,21 +19210,21 @@ Was sealed before she moved.
 
 The gorgonopsid was the first great theater
 Of mammal-lineage predation—grooved
-Into the Permian's closing chapter
+Into the {{x|Permian}}'s closing chapter
 
 As the apex that the world before had never seen
 In quite this form: warm-ish blood and speed
 And saber-tooth combined, a keen
 And searching mind in service of its need.
 
-She was the Permian heroic peak—
+She was the {{x|Permian}} heroic peak—
 The thing the age had spent three hundred million
 Years of prior life preparing to seek
 This form: predator of one medallion
 
 Design above all others, matched against
 {{c|Dicyno}}'s horn-beaked millions grazing wide
-Across the Pangean plain—the tense
+Across the {{p|Pangean}} plain—the tense
 And beautiful equation of the pride
 
 Of predator and plenty of the prey
@@ -19242,7 +19242,7 @@ And so {{c|Gorgo}} was the gift that {{c|Dicyno}}
 Did not want but needed: the shadow
 That made the herd alert and on the go.
 
-This was the Permian at its finest hour—
+This was the {{x|Permian}} at its finest hour—
 The ecosystem balanced, rich, complex,
 Predator and prey each at its power,
 Each shaping what the other would be next.
@@ -19257,7 +19257,7 @@ But while it lasted, honor {{c|Gorgo}}'s reign—
 The saber and the sprint, the mastery
 Of reading life and taking it again
 
-And again across the Permian red plain.
+And again across the {{x|Permian}} red plain.
 The finest predator the age could make,
 Who ruled the world and will not rule again—
 The gorgonopsid gone for beauty's sake.
@@ -19270,14 +19270,14 @@ And poison of the age's ending wept
 Its curtain down, the sea retained its choir
 Of all the beauty that the oceans kept
 
-Through every age of life—the Permian sea
+Through every age of life—the {{x|Permian}} sea
 Was rich beyond what any age before
 Had managed: every reef ecology
 Alive with color, every ocean floor
 
 Abundant—let us pause here at the water's
 Edge before the dying, let us see
-What the Paleozoic sea still offers
+What the {{x|Paleozoic}} sea still offers
 In its last fullness, let us be
 
 The witnesses of what will not survive:
@@ -19289,12 +19289,12 @@ The reef's foundations in their oral
 Architecture, building stone from sea—
 Four-fold symmetry of polyp flesh
 On limestone foundations, the decree
-Of the ancient Paleozoic's fresh
+Of the ancient {{x|Paleozoic}}'s fresh
 
 And living architecture—this would go.
 The rugose coral would not cross the line
 Of extinction, would not see tomorrow's show
-Of Triassic sea—their four-fold sign
+Of {{x|Triassic}} sea—their four-fold sign
 
 Would vanish from the reef, replaced in time
 By the six-fold scleractinian form—
@@ -19317,7 +19317,7 @@ And in the open water, {{c|Belemno}}
 The belemnite swam with his cylindrical curled
 And solid body, sleek, torpedo
 
-Of the Permian ocean, hunting small
+Of the {{x|Permian}} ocean, hunting small
 And smaller prey through acres of the sea—
 His hard internal rod the only wall
 Between his soft flesh and the hungry
@@ -19335,21 +19335,21 @@ Of {{c|Coleios}}' house against the sky
 Of ocean above.
 
 And the ammonites—who had swum these waters
-Since the Devonian, the coiled ones
+Since the {{x|Devonian}}, the coiled ones
 Whose geometry produced the daughters
 Of spiral perfection, the suns
 
 Of mathematics in their shell's design—
 Still coiling, still abundant, still the most
-Common fossil of the Paleozoic's wine
+Common fossil of the {{x|Paleozoic}}'s wine
 Of time—they too would nearly be lost
 
 At the great extinction, reduced to one
 Or two survivors who would spread again
-Through the Mesozoic like the sun
+Through the {{x|Mesozoic}} like the sun
 After the storm—but now they reigned
 
-In numbers past all counting through the Permian
+In numbers past all counting through the {{x|Permian}}
 Sea, their shells the meter of the age.
 
 And {{c|Malacos}} held the ocean floor's dominion—
@@ -19372,14 +19372,14 @@ Accounting—rich enough to fill
 
 Each chapter of a thousand books and still
 Leave volumes unwritten of the creatures
-That the Permian sea kept—until
+That the {{x|Permian}} sea kept—until
 The fire came and changed all features
 
 Of this world at once.
                           So let us pause.
 Let us be grateful witnesses before
 The curtain falls without applause,
-Before the Paleozoic shore
+Before the {{x|Paleozoic}} shore
 
 Is poisoned—let us stand here in the light
 That still pours clean and warm through water
@@ -19392,13 +19392,13 @@ Years of unbroken beauty, shut
 At last but not diminished—still a billion
 
 Lives complete within themselves before
-The ending—the Paleozoic sea
+The ending—the {{x|Paleozoic}} sea
 Was not a failure for its close:
 Each life lived fully is a victory.
 
-Honor the last Paleozoic deep—
+Honor the last {{x|Paleozoic}} deep—
 The reef that predates every reef we know,
-The ocean that the Permian would keep
+The ocean that the {{x|Permian}} would keep
 In trust for us to mourn and also know.
 
 
@@ -19406,12 +19406,12 @@ In trust for us to mourn and also know.
 
 Now hear of {{c|Dicyno}}, the beaked and tusked
 And patient one, who fed the world through all
-The late Permian age—who walked and brusked
+The late {{x|Permian}} age—who walked and brusked
 Through every landscape from the great hall
 
 Of tropical basin to the high
 And arid plateau—who moved in herds
-Of thousands through the Pangean sky-
+Of thousands through the {{p|Pangean}} sky-
 Wide plains and said with every word
 
 Of his abundant living: I am here.
@@ -19419,7 +19419,7 @@ I am the bread of this world. I am
 The patient herbivore without a fear
 Too large for my endurance—{{c|Dicyno}}'s calm
 
-Was legend in the Permian ecosystem:
+Was legend in the {{x|Permian}} ecosystem:
 Where others starved or fled the spreading dry,
 {{c|Dicyno}} found a way to seize them—
 The roots beneath the soil, the dry
@@ -19442,7 +19442,7 @@ And dying vegetation, ground
 Still worth exploring for the root below.
 The dicynodont became the most abundant
 Large land vertebrate of any show
-The Permian staged—redundant
+The {{x|Permian}} staged—redundant
 
 Only in the sense that numbers vast
 Were needed to sustain the pyramid
@@ -19473,7 +19473,7 @@ A different niche, a different overflow
 Of adaptation: the borrower of burrows
 Who dug his den beside the termite mound,
 The aquatic wader of the furrows
-Of the slow Permian rivers, found
+Of the slow {{x|Permian}} rivers, found
 
 Half-sunk in mud; the dry-land wanderer
 Who covered a hundred miles of red
@@ -19481,11 +19481,11 @@ Rock in a season, following the thunderer
 Of monsoon's trail for the brief spread
 
 Of green that followed any rain—
-{{c|Dicyno}} was everywhere that the Permian
+{{c|Dicyno}} was everywhere that the {{x|Permian}}
 World put vegetation, every plain
 And hillside of the supercontinent's span.
 
-He was the sheep of the Permian—
+He was the sheep of the {{x|Permian}}—
 The innocent abundance that supports
 The wolf—the one whose death was plan
 A of the ecosystem's courts
@@ -19495,7 +19495,7 @@ To this role without complaint or flight
 Beyond what flight was useful, fitted
 To his purpose, present in the light
 
-Of each Permian dawn—the broad-backed herd
+Of each {{x|Permian}} dawn—the broad-backed herd
 That crossed the plain at dawn was his,
 And every track that follows after heard
 The predator behind: this is
@@ -19525,7 +19525,7 @@ The pyramid of life from bottom up.
 
 There was a time—a brief and final time—
 When all the world seemed rich enough to last:
-The Permian at the edge of its sublime
+The {{x|Permian}} at the edge of its sublime
 And complicated order, the vast past
 
 Three hundred million years arrived at this:
@@ -19533,14 +19533,14 @@ An evening of the age, a gathering
 Of all that life had built, a final kiss
 Of ordinary beauty—{{c|Dicyno}} scattering
 
-Across the Pangean plain in morning light,
+Across the {{p|Pangean}} plain in morning light,
 {{c|Gorgo}} watching from the ridge above,
-The sea in all its Paleozoic bright
+The sea in all its {{x|Paleozoic}} bright
 Abundance—and above and below, the love
 
 Of creature for its living, for the air
 And water and the food and the den made
-From nothing—the Permian was fair
+From nothing—the {{x|Permian}} was fair
 In this last hour before its fade.
 
 The gymnosperm forests on the ridgelines stood
@@ -19551,11 +19551,11 @@ And arid landscape, but a proud
 One—the cone-trees on the red rock plain
 Like dark green candles in the desert air,
 The reptiles basking in the afternoon
-Of Permian summer without care
+Of {{x|Permian}} summer without care
 
-For what lay under the earth of Siberia—
+For what lay under the earth of {{p|Siberia}}—
 What lay beneath the frozen north
-Of Pangea's shoulder—the bacteria-
+Of {{p|Pangea}}'s shoulder—the bacteria-
 Rich basalts cooking in the worth
 
 Of the planet's own deep heat, building
@@ -19564,7 +19564,7 @@ In what geologists would call the gilding
 Of catastrophe—the subterranean gust
 
 Of magma seeking every crack and seam
-In the Siberian basement rock
+In the {{p|Siberian}} basement rock
 Toward the surface, in a patient dream
 Of eruption ticking like a clock
 
@@ -19593,7 +19593,7 @@ Of warning she could read.
 
                              And yet—
 
-Deep in the rock of Siberia, a breath
+Deep in the rock of {{p|Siberia}}, a breath
 Of gas leaked through a fissure, wet
 With sulfur smell—an early death
 
@@ -19613,14 +19613,14 @@ Take this image: the world entire
 At table—every living thing consuming
 Its evening meal before the fire.
 
-The reef below the Permian water
+The reef below the {{x|Permian}} water
 Feeding on the current's plankton bloom;
 The {{c|Dicyno}} herd, the predator
 Who watches, all within a room
 
 Of ordinary evening, ordinary
 Necessity of life—and somewhere north,
-Deep in Siberian rock, the ordinary
+Deep in {{p|Siberian}} rock, the ordinary
 Becoming something else—the north
 
 Breathing its first breath of sulfur out
@@ -19638,7 +19638,7 @@ Of extraordinary ending—and the meal
 Continues, and the creatures do not grieve
 What they cannot see or feel.
 
-Honor the last evening of the Permian—
+Honor the last evening of the {{x|Permian}}—
 The ordinary beauty of the full
 World eating, sleeping, hunting, and therein
 Finding the day's grace—the pull
@@ -19653,7 +19653,7 @@ In its abundance, in its ancient peace.
 
 # Chapter 82: Good Permian Friday
 
-Then Siberia opened.
+Then {{p|Siberia}} opened.
 
 Not all at once—the way
 A wound opens is slowly, the first
@@ -19668,7 +19668,7 @@ Of all volcanic fields, the sum
 Of eruption beyond any scale
 The world had seen in living memory—
 Two million cubic miles of basalt's trail
-Of fire written on the Siberian territory
+Of fire written on the {{p|Siberian}} territory
 
 In layers and in years, not hours—
 This was no single blast but an age
@@ -19681,7 +19681,7 @@ Before the cooling—and then the cry
 Of sulfur dioxide, the storming
 
 Of the atmosphere with acid—every cloud
-That formed above the Permian land
+That formed above the {{x|Permian}} land
 Came down as acid rain, a shroud
 Of chemical death across the strand
 
@@ -19738,7 +19738,7 @@ And few—would meet the fire
 Of the last extinction, cold
 
 And permanent—the trilobite whose line
-Stretched back to the Cambrian explosion's
+Stretched back to the {{x|Cambrian}} explosion's
 Dawn, who had survived every sign
 Of mass death in the ocean's
 
@@ -19769,7 +19769,7 @@ And racing hunter, proud and fierce,
 
 Was taken—not by any rival's tooth
 But by the failure of the food—
-And the Permian age went down in truth
+And the {{x|Permian}} age went down in truth
 To the last word that all life understood:
 
 That the world can end not with a war
@@ -19779,8 +19779,8 @@ Of photosynthesis, the friend
 
 Of all that breathes.
 
-                      This is Good Permian Friday:
-The death of the Paleozoic world—
+                      This is {{x|Good Permian Friday}}:
+The death of the {{x|Paleozoic}} world—
 Not villainy, not error, not the wrong way
 Chosen—only the deep-buried, curled
 
@@ -19806,7 +19806,7 @@ The silence of the empty room, the closed
 Theater after the audience's release
 Has gone and only broken chairs disclosed
 
-The weight of what had happened—the Permian
+The weight of what had happened—the {{x|Permian}}
 Earth in the immediate extinction's wake
 Was not recovered land but the meridian
 Of horror: everything still at stake
@@ -19822,7 +19822,7 @@ Of the topsoil long since ripped
 Away—bare rock, bare clay, the sea
 
 Of mudstone and the desert's gray
-Expanse of what had been the Permian plain.
+Expanse of what had been the {{x|Permian}} plain.
 
 And over all of this, the gray
 And silent reign of fungi, the champagne
@@ -19838,7 +19838,7 @@ After the green—in fossil layers, sheets
 Of fungal spores replace the reliance
 
 On pollen and plant spores that had marked
-Every layer of the Permian above—
+Every layer of the {{x|Permian}} above—
 A spike of fungal abundance, parked
 At the extinction boundary—a shove
 
@@ -19910,9 +19910,9 @@ In the post-extinction world a strange
 And solitary abundance: the ground
 Was his entirely—the full range
 
-Of the Triassic early land was {{c|Lystro}}'s
+Of the {{x|Triassic}} early land was {{c|Lystro}}'s
 Without competition, without predator—
-The first years of the Triassic's throes
+The first years of the {{x|Triassic}}'s throes
 Were his inheritance—the corridor
 
 Of empty continent walked by one small
@@ -19926,7 +19926,7 @@ Of the aftermath, to merely survive
 Is the whole achievement, and that spell
 
 Of bare survival is not lesser than
-The glorious Permian peak—it is
+The glorious {{x|Permian}} peak—it is
 Perhaps more—the one who can
 Endure the harrowing is
 
@@ -19960,7 +19960,7 @@ Announced it—the first was not seen
 
 By anyone who could report it—only
 A spore landing on a bare stone slope
-In early Triassic morning, the lonely
+In early {{x|Triassic}} morning, the lonely
 And unremarkable arrival of hope
 
 In the form of a bryophyte—a moss—
@@ -19980,7 +19980,7 @@ A place to root—and so the love
 
 Of life reasserted itself in increments
 Too small to witness but too vast
-To stop—the Triassic's sentiments
+To stop—the {{x|Triassic}}'s sentiments
 Were those of rebuilding from the last
 
 Foundation stone of any possible world:
@@ -19997,7 +19997,7 @@ Of acid rain, her cone-seeds' creeds
 Of dormancy preserved through the long dying
 As they had always waited for the right
 Conditions—and the right conditions lying
-In the early Triassic morning light
+In the early {{x|Triassic}} morning light
 
 Were only this: less poison, less heat,
 A little water in the rain
@@ -20048,7 +20048,7 @@ Numerous of all his clans—
 
 Began to seize the empty ocean:
 The teleosts, who had been modest
-In the Permian sea, their notion
+In the {{x|Permian}} sea, their notion
 Of diversity modest
 
 Beside the great marine invertebrates
@@ -20064,7 +20064,7 @@ Former occupant, the current
 Rush of teleost radiation began—
 The largest vertebrate explosion
 In the history of the ocean ran
-Through the Triassic's slow erosion
+Through the {{x|Triassic}}'s slow erosion
 
 Of emptiness back into abundance—
 The ray-finned fish would ultimately
@@ -20083,7 +20083,7 @@ Find, that emptiness is opportunity
 
 Dressed in gray.
 
-The first Easter of the Triassic
+The first {{x|Easter}} of the {{x|Triassic}}
 Had no witnesses who understood it—
 Only the ordinary, the classic
 Persistence of life that could not
@@ -20103,7 +20103,7 @@ That you are rebuilding, just alive
 And going forward, going, going
 Toward whatever life can give.
 
-Honor the Triassic morning—the gray
+Honor the {{x|Triassic}} morning—the gray
 Light of the new world filling slowly with
 The green of those who lived—each day
 A little less of death, a little myth
@@ -20118,7 +20118,7 @@ Clearing, of the first small mammal
 Looking at the morning and seeing free
 And empty opportunity.
 
-New world, new age—the Triassic's cradle
+New world, new age—the {{x|Triassic}}'s cradle
 Rocking life back into being.
 
 ---
@@ -20136,7 +20136,7 @@ And welcoming abyss, the first creation
 That still remembered every form it made
 And held in its chemistry the ancient means
 Of feeding, floating, breathing in the shade
-Of waves—and now, in the Triassic's scenes
+Of waves—and now, in the {{x|Triassic}}'s scenes
 
 Of devastation, some of {{c|Sauros}}' kin
 Looked seaward from the ruined shore and chose
@@ -20146,7 +20146,7 @@ Again in water what the land foreclosed.
 For this was not the first time.
 
                                   Long before,
-In the Permian's last age, a humble line
+In the {{x|Permian}}'s last age, a humble line
 Had tried the water—{{c|Mesos}}, from the shore
 Of {{p|Gondwana}}'s southern lakes, the fine
 
@@ -20166,14 +20166,14 @@ To water when they chose—the covenant revealed
 As two-way door, not exile, not a burn
 
 Of bridges back to {{c|Tethys}}' ancient home.
-{{c|Mesos}} perished in the Permian's end—
+{{c|Mesos}} perished in the {{x|Permian}}'s end—
 But the lesson lived: the sea was free to roam
 For any who had lungs and limbs to bend
 
 Toward the swimming shape.
 
                            And in the wake
-Of the Great Dying, when the ocean lay
+Of the {{x|Great Dying}}, when the ocean lay
 Still poisoned, slowly healing—for the sake
 Of empty niches stretching every way—
 
@@ -20201,18 +20201,18 @@ Across the healing waters of the mind
 Of {{c|Tethys}}, slowly waking from her grief.
 
 {{c|Ichthyos}} grew large, then larger—some
-The size of whales in the Triassic reef
+The size of whales in the {{x|Triassic}} reef
 Of the recovering sea—{{c|Shonisauros}} from
 
 The western {{p|Tethys}} reached the length of ships,
 Enormous eyes like dinner plates that peered
-Through dim Triassic waters—at his lips
+Through dim {{x|Triassic}} waters—at his lips
 No teeth at all, for he had engineered
 
 A suction-feeding mouth to draw in prey
 Like a great vacuum of the ancient deep.
 
-And in those same Triassic waters, gray
+And in those same {{x|Triassic}} waters, gray
 And strange, the {{c|Thalattos}} clans would creep
 
 Along the shallow coasts with downturned snout
@@ -20220,7 +20220,7 @@ And crushing teeth for shellfish on the floor—
 A group whose place in {{c|Sauros}}' tree throughout
 The ages would remain unclear—no more
 
-Than a brief Triassic experiment
+Than a brief {{x|Triassic}} experiment
 In strange-faced, shallow-water, coastal prowl—
 But for their time they were magnificent:
 The snub-nosed hunters of the tidal shoal.
@@ -20249,7 +20249,7 @@ He dove to the bottom of the shallow bay
 And crushed the mollusks with his pavement teeth—
 Broad and flat for grinding shell to dust—
 A bottom-feeder in the coral beneath
-The Triassic shallows, armored, slow, robust.
+The {{x|Triassic}} shallows, armored, slow, robust.
 
 {{c|Plakos}} looked like {{c|Turtlos}} in his way—
 Round-bodied, armored, patient on the floor—
@@ -20261,7 +20261,7 @@ The turtle-shape, the armored, patient form
 That carries home upon its back, the planned
 And fortress-bodied refuge from the storm.
 
-Seven lineages tried the Triassic sea:
+Seven lineages tried the {{x|Triassic}} sea:
 {{c|Mesos}}' memory, {{c|Ichthyos}}' speed,
 {{c|Thalattos}}' strange coast-crawling spree,
 {{c|Nothros}}' neck and {{c|Plakos}}' patient greed,
@@ -20297,8 +20297,8 @@ On hind legs faster than his brothers could.
 No armor like {{c|Paraps}}' armored clan,
 No venom, and no size—but {{c|Archon}} stood
 
-Upon the Triassic stage when every throne
-Was vacant and the Permian lords were ash—
+Upon the {{x|Triassic}} stage when every throne
+Was vacant and the {{x|Permian}} lords were ash—
 And in that emptiness he made his own
 A kingdom built from speed and metabolic flash.
 
@@ -20314,7 +20314,7 @@ They had was fire enough to outperform
 
 The sluggish sprawl of {{c|Squamos}}' kindred cold.
 
-Two sons had {{c|Archon}} in the Triassic morn:
+Two sons had {{c|Archon}} in the {{x|Triassic}} morn:
 Great {{c|Cruros}}, firstborn, heavy, proud, and bold,
 And {{c|Avemeta}}, lighter, later-born.
 
@@ -20326,7 +20326,7 @@ For ambush, armor, patience, and the burst
 Of sudden violence from the water's edge.
 The rauisuchians walked on upright limbs
 And hunted like great wolves along the sedge
-Of Triassic rivers—at the water's brims
+Of {{x|Triassic}} rivers—at the water's brims
 
 {{c|Cruros}}' dynasty built their riverine domain:
 Phytosaurs with the crocodilian shape
@@ -20340,12 +20340,12 @@ The river-king design, perfectly matched
 
 To every watercourse on {{p|Pangaea}}'s face.
 
-And {{c|Cruros}}' children were the Triassic lords—
+And {{c|Cruros}}' children were the {{x|Triassic}} lords—
 They ruled the land and water, and their race
 Seemed destined for ten thousand years of hordes
 
 And hunting-empires by the riverside.
-No creature in the early Triassic stood
+No creature in the early {{x|Triassic}} stood
 Against the rauisuchian's hungry stride
 Or challenged the phytosaur's neighborhood.
 
@@ -20387,7 +20387,7 @@ The one who ran on hollow bones and stayed
 In the edges of his brother's bargains,
 Waiting for the world to be remade.
 
-For {{c|Cruros}} ruled the Triassic entire—
+For {{c|Cruros}} ruled the {{x|Triassic}} entire—
 But {{c|Avemeta}}'s children would inherit
 What {{c|Cruros}} lost when the world caught fire:
 The future favors those with patient merit.
@@ -20400,7 +20400,7 @@ Of every continent and every tide.
 
 # Chapter 87: The Long-Necked Fisher
 
-Among the strangest children of the Triassic shore
+Among the strangest children of the {{x|Triassic}} shore
 Was {{c|Tanystros}}—an archosauromorph whose frame
 Defied all reason with a neck that bore
 More vertebrae than sense could rightly claim.
@@ -20416,7 +20416,7 @@ Perched at the far end, baited with the weight
 Of small sharp teeth for catching fish—instead
 
 Of swimming to his prey, {{c|Tanystros}} stood
-Upon the Triassic shoreline, on the rocks
+Upon the {{x|Triassic}} shoreline, on the rocks
 Above the {{p|Tethys}} shallows, and the food
 He sought was speared below from coastal stocks
 
@@ -20434,8 +20434,8 @@ Of vertebrate design: to fish from home
 Without the cost of swimming.
 
                                And he was not
-Alone in his Triassic strangeness—for the age
-Of the Triassic was a time of what
+Alone in his {{x|Triassic}} strangeness—for the age
+Of the {{x|Triassic}} was a time of what
 No other era matched: a living stage
 
 Of evolutionary experimentation,
@@ -20449,7 +20449,7 @@ Or millions of years before the sorting came.
 Of long-necked archosauromorphs whose claim
 On history was brief—they ran
 
-The Triassic coastline in their odd parade
+The {{x|Triassic}} coastline in their odd parade
 Of reaching necks and small-toothed fishing heads,
 Of bodies built for shoreline's serenade
 Where ocean meets the rock in tidal beds.
@@ -20467,7 +20467,7 @@ Themselves into the marine biome, exempt
 From the commitment {{c|Ichthyos}} had made
 Of giving up the land entirely—
 These were the dabblers, wading in the shade
-Of the Triassic coast's uncertainty.
+Of the {{x|Triassic}} coast's uncertainty.
 
 For in those first ten million years of the age,
 The boundaries between the land and sea
@@ -20477,17 +20477,17 @@ At once—who were not fully what they'd be
 But experimenting with the ocean's edge.
 
 The {{c|Tanystros}} clan would perish long before
-The Jurassic dawned—their evolutionary pledge
+The {{x|Jurassic}} dawned—their evolutionary pledge
 Was local, brief, a footnote on the shore
 
-Of Triassic time—but they taught a truth
-That the Mesozoic would repeat and prove:
+Of {{x|Triassic}} time—but they taught a truth
+That the {{x|Mesozoic}} would repeat and prove:
 That the border between ocean and dry earth
 Is not a wall but a gradient, a groove
 
 That life moves back and forth across at will—
-From {{c|Mesos}} in the Permian lake to these
-Long-necked Triassic fishers on the sill
+From {{c|Mesos}} in the {{x|Permian}} lake to these
+Long-necked {{x|Triassic}} fishers on the sill
 Of the {{p|Tethys}} coast, to the plesiosaur seas
 
 That were coming—every age found some
@@ -20498,13 +20498,13 @@ And the ocean's depths—the line was used
 As highway, not as barrier.
 
                                So honor
-The strangest shapes the Triassic morning made—
+The strangest shapes the {{x|Triassic}} morning made—
 {{c|Tanystros}} with his neck of absurd honor,
 The fishing-rod design that briefly swayed
 
 Above the waves and caught his silver prey
 Without a single stroke of swimming fin—
-A shape that worked for its own Triassic day
+A shape that worked for its own {{x|Triassic}} day
 And asked for nothing but the fish therein.
 
 Not every form endures. Not every plan
@@ -20515,7 +20515,7 @@ Was life's own answer to the question—blessed
 With the same stubborn will to eat and breed
 That moves the stars and turns the spiral arm.
 {{c|Tanystros}} on his rock fulfilled his need
-And vanished, and the Triassic took no harm
+And vanished, and the {{x|Triassic}} took no harm
 
 From having made him—for the sea keeps room
 For every experiment, however strange,
@@ -20533,12 +20533,12 @@ Of creatures that did not yet know their name.
 For the first dinosaurs were modest things:
 No larger than a dog, with hollow bones
 And hands that grasped, and legs like coiled springs
-Built for running over Triassic stones.
+Built for running over {{x|Triassic}} stones.
 
 In the uplands of the southern {{p|Gondwana}} land,
 Where {{c|Cruros}}' river-children held no sway,
 The earliest of {{c|Avemeta}}'s band
-Appeared—{{c|Deinos}}, whose Triassic day
+Appeared—{{c|Deinos}}, whose {{x|Triassic}} day
 
 Was spent in running, catching, staying small
 In a world where {{c|Cruros}}' rauisuchians prowled
@@ -20559,7 +20559,7 @@ Three-fingered, dextrous, built for catching chance
 And insect, lizard, small mammal in the brush.
 They ran on two legs—bipedal, light,
 With tails outstretched for balance in the rush
-Of their hunting dashes through the Triassic night.
+Of their hunting dashes through the {{x|Triassic}} night.
 
 {{c|Eoraptoros}} was among the first—
 "Dawn plunderer" in the later name that men
@@ -20581,14 +20581,14 @@ That hinted at the hunting future, where
 The theropod line would build a predation
 Empire spanning every biosphere.
 
-But they were few. The Triassic was not theirs—
+But they were few. The {{x|Triassic}} was not theirs—
 Not yet. The rauisuchians owned the plains,
 The phytosaurs controlled the river-lairs,
 And {{c|Deinos}}' children lived on what remains
 
 The great ones left behind—the edges, scraps,
 The upland territories no one wanted,
-The arid margins on the Triassic maps
+The arid margins on the {{x|Triassic}} maps
 Where rainfall failed and bigger beasts were daunted.
 
 This is how kingdoms begin: not in the center
@@ -20620,11 +20620,11 @@ To hold a greater gut, the better equipped
 For breaking down the cellulose of plants.
 
 Three houses of the dinosaurs were born
-In the Triassic uplands—three new clans
+In the {{x|Triassic}} uplands—three new clans
 From {{c|Avemeta}}'s children, small and worn
 
 And unremarkable—who did not know
-They held the future of the Mesozoic world
+They held the future of the {{x|Mesozoic}} world
 Within their hollow bones and racing flow
 Of warm-ish blood—the banners not yet unfurled
 
@@ -20662,10 +20662,10 @@ Or starve—the water shapes them to the race
 And every time the answer is the same.
 
 {{c|Ichthyos}} found this answer first among
-The reptiles of the Triassic—and his claim
+The reptiles of the {{x|Triassic}}—and his claim
 To the dolphin shape was older, deeper, wrung
 
-From fifty million years of Triassic sea
+From fifty million years of {{x|Triassic}} sea
 Before the dolphins of a later age
 Would find the same solution—convergency,
 The ocean's only universal page:
@@ -20677,7 +20677,7 @@ Of hydrodynamics writing the same tale
 
 In every lineage that tries the deep.
 
-By middle Triassic, {{c|Ichthyos}}' children bore
+By middle {{x|Triassic}}, {{c|Ichthyos}}' children bore
 No trace of the limbed ancestor who'd creep
 Ashore between his hunts—the leg was no more:
 
@@ -20700,7 +20700,7 @@ Of the hunt.
 
              Great {{c|Shonisauros}} grew
 To the length of whales—fifteen meters long—
-In the Triassic seas of {{p|Tethys}}, through
+In the {{x|Triassic}} seas of {{p|Tethys}}, through
 The corridors of {{p|Panthalassa}} strong
 
 And wide, where the enormous ocean stretched
@@ -20745,7 +20745,7 @@ Best answer to the question of the speed
 In water, and every lineage that has won
 The ocean's race has read the selfsame creed.
 
-The shark found it first, in the Devonian tide—
+The shark found it first, in the {{x|Devonian}} tide—
 The tuna found it in the bony fish—
 And {{c|Ichthyos}} found it from the reptile side,
 And dolphins later from the mammal's wish—
@@ -20814,7 +20814,7 @@ That drew him through the water, the ancient swing
 
 Of arms through fluid that the later plesiosaurs
 Would perfect to an art—but {{c|Nothros}} began it,
-In the Triassic {{p|Tethys}}, along the shores
+In the {{x|Triassic}} {{p|Tethys}}, along the shores
 Of {{p|Pangaea}}'s coastline, where the granite
 
 Shelves dropped off to deeper water, and the fish
@@ -20830,7 +20830,7 @@ To deeper water, and these were the best
 Adapted for the open sea, and these
 Became the {{c|Plesios}} in the later age—
 True plesiosaurs who never left the seas,
-Who wrote the Jurassic ocean's grandest page.
+Who wrote the {{x|Jurassic}} ocean's grandest page.
 
 And {{c|Plakos}}, his cousin on the bottom shelf,
 Showed the other path: the turtle-echo,
@@ -20870,7 +20870,7 @@ Of {{c|Paraps}}' house are written high and low
 
 In every turtle basking on his stone
 And every plesiosaur that dove beneath
-The Mesozoic waves—they share the bone
+The {{x|Mesozoic}} waves—they share the bone
 Of common ancestry, the shared belief
 
 That life is best lived slowly, strongly, deep,
@@ -20888,7 +20888,7 @@ Both built to last, both certain, both brave.
 
 The world was one, and then the world was not.
 
-{{p|Pangaea}}—the All-Land, the single face
+{{p|Pangaea}}—the {{p|All-Land}}, the single face
 Of continent that held in one great lot
 Every shore and mountain, every place
 
@@ -20900,7 +20900,7 @@ Had pushed against the crust in magma-streams
 For a hundred million years.
 
                                The rift began
-In the Triassic's heart, a slow unzipping
+In the {{x|Triassic}}'s heart, a slow unzipping
 Of the continental skin that ran
 From north to south, the mantle's hot blood dripping
 
@@ -20922,20 +20922,20 @@ Fed new corals, new fish, the reborn swarm
 
 Of marine life in the expanding space.
 
-But first the breaking. The Carnian rains.
+But first the breaking. The {{x|Carnian}} rains.
 
-In the midst of the Triassic, every trace
+In the midst of the {{x|Triassic}}, every trace
 Of the dry and arid world was drowned—the plains
 
 That had been desert for ten million years
-Grew suddenly wet: the Carnian Pluvial
+Grew suddenly wet: the {{x|Carnian Pluvial}}
 Episode, a million years of tears
 From skies that had forgotten the alluvial
 
 And the monsoon—and now remembered them.
 The cause was volcanic, tectonic, the shift
 Of continents and currents—a requiem
-For the dry Triassic world, a gift
+For the dry {{x|Triassic}} world, a gift
 
 Of water to a world that had been parched—
 But water that arrived too fast, too much,
@@ -20956,7 +20956,7 @@ Left {{c|Cruros}}' children weakened at the core
 
 While {{c|Avemeta}}'s nimble dinosaurs,
 Adapted to the marginal and the changing,
-Found opportunity in the Carnian doors
+Found opportunity in the {{x|Carnian}} doors
 That opened as the old world was rearranging.
 
 The rains subsided. The world resumed its drift.
@@ -20994,12 +20994,12 @@ That would give each continent its unique creed
 
 Of creatures: the marsupials of the south,
 The placentals of the north, the island birds,
-The lemurs of Madagascar—from the mouth
+The lemurs of {{p|Madagascar}}—from the mouth
 Of this great cracking came the different words
 
 Of life's vocabulary on each shore.
 
-But for now, in the middle Triassic's age,
+But for now, in the middle {{x|Triassic}}'s age,
 The breaking was just beginning—nothing more
 Than a wider seaway and a wetter stage
 
@@ -21023,37 +21023,37 @@ Of what life could become in separation.
 
 # Chapter 92: The Cynodont's Vigil
 
-While the great ones ruled the Triassic plains—
+While the great ones ruled the {{x|Triassic}} plains—
 While {{c|Cruros}} held the rivers and the lowlands
 And {{c|Deinos}}' children ran in upland lanes—
 The children of {{c|Cynos}} lived in small commands
 
 Of burrow-dwelling, nighttime, careful kinds
-Who had inherited the Permian loss
+Who had inherited the {{x|Permian}} loss
 And carried in their milk-producing glands
 And fur-touched skin the memory of the cross
 
 That {{c|Synaps}}' dynasty had borne: the fall
-From Permian dominance to Triassic shadow,
+From {{x|Permian}} dominance to {{x|Triassic}} shadow,
 From the world's great lords to creatures small
 Enough to hide in any grassy meadow.
 
 For {{c|Cynos}} had been great—remember this—
 His father {{c|Theraps}} and his grandsire {{c|Pelyon}}
-Had ruled the Permian world in tooth and kiss
+Had ruled the {{x|Permian}} world in tooth and kiss
 Of predator and grazer—every hellion
 
 And gentle herbivore of the synapsid age
 Had answered to the house of {{c|Synaps}} once—
-But the Great Dying wrote a different page,
+But the {{x|Great Dying}} wrote a different page,
 And those who survived were not the mighty hunts-
 
-Men of the Permian peak but the burrowers,
+Men of the {{x|Permian}} peak but the burrowers,
 The small ones, the ones who ate the least
 And needed least, the underground endurers
 Who outlived the fire and the poisoned feast.
 
-And now, in the Triassic's middle years,
+And now, in the {{x|Triassic}}'s middle years,
 The children of {{c|Cynos}} grew smaller still—
 For the archosaurs above pressed down with fears
 And appetite on anything that filled
@@ -21072,7 +21072,7 @@ Of vibrissae that turned the blind and flat
 
 World of the nighttime into a map of touch.
 
-And in the late Triassic, from the smallest
+And in the late {{x|Triassic}}, from the smallest
 Of {{c|Cynos}}' shrinking children, came the clutch
 Of the first true mammals—{{c|Mammos}}, the humblest
 
@@ -21130,7 +21130,7 @@ Of smallness, of the patient flag unfurled
 In darkness, of the nighttime pioneers
 
 Who kept the synapsid flame alive
-Through all the Mesozoic's long dominion
+Through all the {{x|Mesozoic}}'s long dominion
 Of the archosaur lords—content to survive
 And wait, and hold, and keep their one opinion:
 
@@ -21152,7 +21152,7 @@ And the patient inherits every empty park.
 
 # Chapter 93: The Pack Hunters
 
-In the dry arroyos of the late Triassic,
+In the dry arroyos of the late {{x|Triassic}},
 Where the red sandstone baked beneath a sun
 That knew no ice at either pole—the classic
 And greenhouse world where {{c|Pangaea}}'s run
@@ -21208,16 +21208,16 @@ But the social bond, the pack's coordination
 
 That would echo through the theropod line
 For a hundred million years: the raptors
-Of the Cretaceous hunting in a fine
+Of the {{x|Cretaceous}} hunting in a fine
 And deadly chorus—all of them the actors
 
 In a play that {{c|Coelos}} first rehearsed
-In the late Triassic's arid scrubland stage.
+In the late {{x|Triassic}}'s arid scrubland stage.
 
 The prey they hunted? Anything that durst
 To walk the open ground: the heritage
 
-Of the Triassic's moderate-sized game—
+Of the {{x|Triassic}}'s moderate-sized game—
 Small ornithischians browsing in the brush,
 The last rhynchosaurs bearing the ancient claim
 Of beaked herbivory, the early rush
@@ -21258,7 +21258,7 @@ And the heavy to the ground.
 
                               Honor {{c|Coelos}}—
 The first pack-hunter of the dinosaur line,
-Who proved in the Triassic's arid bellows
+Who proved in the {{x|Triassic}}'s arid bellows
 That cooperation is the truest sign
 
 Of evolutionary sophistication—
@@ -21293,12 +21293,12 @@ Of skin, a bat-wing's cousin, the ancient string
 Of membrane that gave {{c|Pteros}} his first flight.
 
 He was the first vertebrate in the sky—
-Not counting the gliders of the Permian trees,
+Not counting the gliders of the {{x|Permian}} trees,
 The small and desperate lizard-forms that fly
 For a moment between branches in the breeze—
 
 {{c|Pteros}} achieved true powered flight: the beat
-Of membrane wings against the Triassic air,
+Of membrane wings against the {{x|Triassic}} air,
 The lift and thrust and banking that complete
 The mastery of the third dimension's lair.
 
@@ -21323,7 +21323,7 @@ The first {{c|Pteros}} were small—sparrow-sized,
 With teeth for catching insects on the strand
 Of evening air, with wings not yet king-sized
 
-But adequate for the modest Triassic skies
+But adequate for the modest {{x|Triassic}} skies
 Where no other vertebrate competed
 For the aerial niche—{{c|Neopter}}'s flies
 And dragonflies had owned it, undefeated,
@@ -21331,7 +21331,7 @@ And dragonflies had owned it, undefeated,
 For three hundred million years—but now
 A backbone and a warm-ish body brought
 A new competitor beneath the brow
-Of every Triassic sunset, and the thought
+Of every {{x|Triassic}} sunset, and the thought
 
 Of vertebrate dominion in the air
 Began with {{c|Pteros}}' small and toothed patrol
@@ -21340,13 +21340,13 @@ Of insects in the aerial aureole.
 
 His children would grow large—enormous—some
 With wingspans wider than a fighter plane—
-{{c|Quetzal}} of the Cretaceous would become
+{{c|Quetzal}} of the {{x|Cretaceous}} would become
 The largest thing that ever flew—but that refrain
 
 Is for a later chapter. Here, the start:
 Small, toothed, membrane-winged, and insect-fed,
 {{c|Pteros}} took the sky and played his part
-In the Triassic's grand experiment, and led
+In the {{x|Triassic}}'s grand experiment, and led
 
 The first invasion of the vertebrate
 Into the realm that only arthropods had known—
@@ -21360,7 +21360,7 @@ The vertebrates would find to powered flight:
 {{c|Pteros}}' membrane and the feathered contributions
 Of {{c|Deinos}}' later children—but tonight,
 
-In the Triassic's fading light, only one
+In the {{x|Triassic}}'s fading light, only one
 Existed: the membrane wing, the finger-kite,
 The pterosaur ascending toward the sun
 And banking in the thermal's lifting height.
@@ -21378,7 +21378,7 @@ And the sky, the sky, becoming something more.
 
 # Chapter 95: The Eve of the Second Dying
 
-The Triassic had been good. Not perfect—nothing
+The {{x|Triassic}} had been good. Not perfect—nothing
 Is perfect in the aftermath of the greatest
 Death the world had known—but the recloathing
 Of the earth in green, the sea's belated
@@ -21393,31 +21393,31 @@ The {{c|Nothros}} paddled in the shallow seas,
 And on the land {{c|Cruros}}' children held their sweep
 Of rivers while {{c|Deinos}} grew by slow degrees.
 
-It was a good world, and the end of the Triassic
+It was a good world, and the end of the {{x|Triassic}}
 Saw it full of life: three hundred species
 Of marine reptile in the {{p|Tethys}} classic
 Corridors, a thousand insects in the creases
 
 Of every forest—the recovery
-Was nearly complete, the scars of the Permian
+Was nearly complete, the scars of the {{x|Permian}}
 Almost healed over—and the discovery
 Of new ways of living, the median
 
-Of Mesozoic innovation, was underway.
+Of {{x|Mesozoic}} innovation, was underway.
 
 But the earth keeps its appointments with the fire.
 
 Beneath the floor of what would one day
-Be the Atlantic Ocean, the entire
+Be the {{p|Atlantic Ocean}}, the entire
 
 Mantle surged and pressed against the crust
 Where {{p|Pangaea}}'s seam was opening—
-The Central Atlantic Magmatic thrust,
-The CAMP volcanism, the rope-and-ring
+The {{x|Central Atlantic Magmatic}} thrust,
+The {{x|CAMP}} volcanism, the rope-and-ring
 
 Of basalt eruption that would stretch from pole
 To pole along the widening rift—
-And in the last ten thousand years of the Triassic's role,
+And in the last ten thousand years of the {{x|Triassic}}'s role,
 The earth gave its second terrible gift
 
 Of volcanic excess: carbon dioxide
@@ -21442,7 +21442,7 @@ To hunt as herbivore populations ranged
 Toward zero in the climate's gathering stress.
 
 And {{c|Cruros}}' dynasty—the elder son
-Of {{c|Archon}}, who had held the Triassic crown
+Of {{c|Archon}}, who had held the {{x|Triassic}} crown
 For forty million years—came undone.
 
 The world was changing, and the world frowned
@@ -21476,8 +21476,8 @@ Another morning.
 
                    But the great ones fell.
 The rauisuchians, the phytosaurs, the tall
-And heavy lords of {{c|Cruros}}' Triassic spell—
-Gone, in the CAMP volcanism's pall.
+And heavy lords of {{c|Cruros}}' {{x|Triassic}} spell—
+Gone, in the {{x|CAMP}} volcanism's pall.
 
 And as the elder brother's kingdom burned,
 The younger brother's children—{{c|Deinos}}' small
@@ -21491,7 +21491,7 @@ To hold his kingdom underneath the sun.
 
 Honor the eve—the last good evening
 Before the fire—for every living thing
-That breathed the Triassic air was weaving
+That breathed the {{x|Triassic}} air was weaving
 Its own ending, and did not know the sting
 
 Of what the morning's volcanism would bring.
@@ -29003,7 +29003,7 @@ Of ice in the taiga. And it was here {{c|P}} came.
 Of {{c|Q}} and {{c|R}}—and in this chapter, the same
 
 As the place itself: {{c|Paikal}}, the lake's own son,
-The pun the Gaiad cannot leave alone.
+The pun the {{x|Gaiad}} cannot leave alone.
 Since the {{p|Bab al-Mandab}}, his fathers had run
 The length of {{p|Eurasia}}; here, by ice and stone,
 
@@ -29022,7 +29022,7 @@ To {{p|Tierra del Fuego}}; every people born
 In the {{p|Americas}}, the {{p|Inuit}}, the nations
 Of the far south, come of {{c|Q}}. But that is the morning
 
-Of another book: Leo, two hundred twenty-one
+Of another book: {{x|Leo}}, two hundred twenty-one
 To two fifty-two. {{c|Q}}'s chapter is not yet.
 The second answer was west: to turn and run
 Back the way they came, retrace the debt
@@ -29034,13 +29034,13 @@ Whole world on its back. That branch kept
 
 The name of {{c|R}}: the boomerang, the line
 That went as far east as it could, and then came back.
-{{c|R}} will be the Yamnaya; {{c|R}} will be the sign
-Of Manu and of Yemo; down {{c|R}}'s track
+{{c|R}} will be the {{p|Yamnaya}}; {{c|R}} will be the sign
+Of {{c|Manu}} and of {{c|Yemo}}; down {{c|R}}'s track
 
-Will run the Indo-European tongue,
-R1a east to {{p|India}} and {{p|Iran}} and the Slavs,
-R1b west to Celt and German, the young
-Italic peoples—most of {{p|Europe}}'s men. {{c|R}} has
+Will run the {{x|Indo-European}} tongue,
+{{c|R1a}} east to {{p|India}} and {{p|Iran}} and the {{x|Slavs}},
+{{c|R1b}} west to {{x|Celt}} and {{x|German}}, the young
+{{x|Italic}} peoples—most of {{p|Europe}}'s men. {{c|R}} has
 
 The horse, the wagon, the chariot to come,
 The sky-father and the solar wheel. But not yet.
@@ -29055,7 +29055,7 @@ The road east to the {{p|Americas}}; the price
 Of the other road is the long way west, to all
 Of {{p|Europe}}, {{p|Central Asia}}, {{p|South Asia}}.
 And the father stands on the ice as the shadows fall
-In the long Siberian night, and does not follow either,
+In the long {{p|Siberian}} night, and does not follow either,
 
 But watches both his sons go into the dusk.
 His own story is short: what {{c|P}} did
@@ -29099,7 +29099,7 @@ Of the steppe a tongue would be born, and pass
 
 To half the modern world its inheritance.
 But all of that is later. Here, in the deep
-Past, in the Siberian winter, at the entrance
+Past, in the {{p|Siberian}} winter, at the entrance
 Of the crossroads, {{c|P}} stands where the lineages keep
 
 Their fork. The stars. The ice. The silence. Two
@@ -29131,10 +29131,10 @@ Map of most of the world.
 
                                {{c|R}}'s sons were two: {{c|R1a}} and {{c|R1b}}.
 
-And in the Gaiad's reading, they are {{c|Manu}} and {{c|Yemo}}.
+And in the {{x|Gaiad}}'s reading, they are {{c|Manu}} and {{c|Yemo}}.
 
                                                                    {{c|Manu}}.
-{{c|Yemo}}. The Proto-Indo-European founding pair. The first man and
+{{c|Yemo}}. The {{x|Proto-Indo-European}} founding pair. The first man and
 His twin. The cosmogonic pair whose story, reconstructed from the
 Linguistic evidence of the daughter traditions, tells the myth
 
@@ -29167,9 +29167,9 @@ Cosmogonic payoff is attenuated. {{c|Romulus}} kills {{c|Remus}} and founds
 The founding sacrifice of a single city. {{c|Gayomart}} in the {{p|Iranian}}
 Tradition, the first man, whose seed spawns the first couple. All
 Of these are reflexes of the same primal myth. The twin myth
-Spread across the whole Indo-European language family because it was
+Spread across the whole {{x|Indo-European}} language family because it was
 
-The founding myth of the Indo-European people. And the Indo-European
+The founding myth of the {{x|Indo-European}} people. And the {{x|Indo-European}}
 People were {{c|R1a}} and {{c|R1b}}. The haplogroups and the myth traveled
 Together. The myth was the story the {{c|R}} men told about themselves.
 The haplogroups were the biological signature of the men who carried
@@ -29198,7 +29198,7 @@ Zone of human habitation. And the {{c|R}}-carrying peoples of the steppe
 Are the first beneficiaries. The {{p|Yamnaya}} culture emerges around
 Three thousand three hundred BCE. The {{p|Yamnaya}} are horse-riders,
 Cattle-herders, makers of {{p|kurgan}} burial mounds across the
-Pontic-Caspian grasslands. And from the {{p|Yamnaya}} homeland, the
+{{p|Pontic-Caspian}} grasslands. And from the {{p|Yamnaya}} homeland, the
 
 Expansion begins.
 
@@ -29210,16 +29210,16 @@ Of bronze-age {{p|European}} populations—all descend, in substantial
 Percentages, from the {{p|Yamnaya}} migration westward. Ancient DNA
 
 Studies published in the twenty-tens showed that a substantial
-Portion of modern European male Y-chromosomes derive from an
+Portion of modern {{p|European}} male Y-chromosomes derive from an
 Expansion originating on the {{p|Pontic-Caspian steppe}} around
 Three thousand BCE. The signature is unmistakable: {{c|R1b}} is
 
 Overwhelmingly dominant in {{p|Western Europe}}. {{c|R1a}} is dominant in
 {{p|Eastern Europe}}. The two great {{c|R}} sub-branches swept across the
-Continent, overlaying the earlier {{c|G}} (Neolithic farmer) layer
+Continent, overlaying the earlier {{c|G}} ({{x|Neolithic}} farmer) layer
 And the even earlier {{c|I}} (hunter-gatherer) layer. The modern
 
-European male is a three-layer cake. {{c|I}} at the bottom. {{c|G}} in the
+{{p|European}} male is a three-layer cake. {{c|I}} at the bottom. {{c|G}} in the
 Middle. {{c|R}} at the top. And the percentages vary by region: {{p|Sardinia}}
 Is still heavily {{c|G}}-dominated. The {{p|Balkans}} and {{p|Scandinavia}} retain
 Heavy {{c|I}} frequencies. But {{c|R}} is the dominant layer almost everywhere.
@@ -29232,29 +29232,29 @@ Chanting peoples who enter {{p|India}} around fifteen hundred BCE and
 Merge with the existing {{c|H}}-and-{{c|L}} {{p|Indus Valley}} population to create
 The civilization that will eventually compose the {{p|Vedas}} and the
 {{p|Mahabharata}} and the {{p|Ramayana}}—these are {{c|R1a}}-carrying men. The
-{{p|Aryan}} peoples are, in the Gaiad's reading, {{c|R1a}}. The language they
+{{p|Aryan}} peoples are, in the {{x|Gaiad}}'s reading, {{c|R1a}}. The language they
 
-Bring is Proto-Indo-Iranian. It will become {{p|Sanskrit}} in {{p|India}} and
+Bring is {{x|Proto-Indo-Iranian}}. It will become {{p|Sanskrit}} in {{p|India}} and
 {{p|Avestan}} in {{p|Iran}}, and it will become the basis for the entire
-Indo-Iranian language family. And east: into {{p|Tarim Basin}} of what is
+{{x|Indo-Iranian}} language family. And east: into {{p|Tarim Basin}} of what is
 Now {{p|Xinjiang}}, where the {{p|Tocharians}}—speakers of the eastern-most
 
-Indo-European language branch—established themselves, leaving blond
+{{x|Indo-European}} language branch—established themselves, leaving blond
 And red-haired mummies in the desert that bewildered later {{p|Chinese}}
 Travelers. The {{p|Tocharians}} are an outlier of the {{c|R1a}} expansion,
 The branch that went furthest east before being absorbed.
 
-The Yamnaya expansion is, in the Gaiad's reading, the single largest
-Genetic and linguistic event of the Bronze Age. It recasts the
+The {{p|Yamnaya}} expansion is, in the {{x|Gaiad}}'s reading, the single largest
+Genetic and linguistic event of the {{x|Bronze Age}}. It recasts the
 Population of {{p|Europe}}. It recasts the population of {{p|India}}. It creates
-The Indo-European language family in its historical form—the family
+The {{x|Indo-European}} language family in its historical form—the family
 
 That includes all the {{p|Romance}} languages, all the {{p|Germanic}} languages,
 All the {{p|Slavic}} languages, all the {{p|Indo-Iranian}} languages, {{p|Greek}}, {{p|Armenian}},
 {{p|Albanian}}, {{p|Celtic}}, and the extinct {{p|Anatolian}} and {{p|Tocharian}} branches.
-Half of all living humans speak an Indo-European language as their
+Half of all living humans speak an {{x|Indo-European}} language as their
 
-Native tongue. And that half speaks Indo-European because, five
+Native tongue. And that half speaks {{x|Indo-European}} because, five
 Thousand years ago, a single haplogroup lineage—{{c|R}}, the boomerang
 Lineage, the lineage that went east to {{p|Baikal}} and then turned around
 And came back—domesticated the horse, invented the chariot, developed
@@ -29263,11 +29263,11 @@ A religious and linguistic package that would spread across half
 Of {{p|Eurasia}}, and rode out of the steppe in every direction at once.
 
 {{c|Manu}} and {{c|Yemo}}. {{c|R1a}} and {{c|R1b}}. The twin founding pair of the
-Indo-European world. The myth that said: one brother sacrificed the
+{{x|Indo-European}} world. The myth that said: one brother sacrificed the
 Other to make the cosmos. The haplogroup-pair that said: we will
 Cover half the known world with our descendants. Both were true.
 
-The Yamnaya expansion is the mythic and the genetic and the linguistic
+The {{p|Yamnaya}} expansion is the mythic and the genetic and the linguistic
 All at once. It is the moment when a single steppe culture, having
 Mastered the horse and the wheel and the bronze axe, explodes outward
 And reshapes {{p|Eurasia}} for the rest of recorded history.
@@ -29275,17 +29275,17 @@ And reshapes {{p|Eurasia}} for the rest of recorded history.
 The {{p|Cucuteni-Trypillia}} civilization of {{p|Moldova}} and {{p|Ukraine}}—the
 Great pre-Yamnaya {{p|European}} culture, the one that built giant wooden
 Cities painted with spirals, the one that worshipped the goddess
-Of the old Europe—is burned to the ground by the {{p|Yamnaya}} advance.
+Of the old {{p|Europe}}—is burned to the ground by the {{p|Yamnaya}} advance.
 
 The peaceful pre-IE agricultural culture is replaced by the warlike
 Horse-riding patriarchal culture. The goddess is replaced by the
 Sky-father. The painted pottery is replaced by the corded-ware pot.
 The spiral is replaced by the wheel. The mother is replaced by the
 
-King. And the languages of old Europe—whatever they were, we will
-Never know—are replaced by Proto-Indo-European and its daughters.
+King. And the languages of old {{p|Europe}}—whatever they were, we will
+Never know—are replaced by {{x|Proto-Indo-European}} and its daughters.
 This is the pivot. This is the change. This is the moment when
-The Europe we know today begins. Indo-European-speaking, patrilineal,
+The {{p|Europe}} we know today begins. Indo-European-speaking, patrilineal,
 
 Patriarchal, horse-riding, sky-father-worshipping. Everything that
 Makes modern {{p|Europe}} distinctively itself was brought, in seed form,
@@ -29294,21 +29294,21 @@ By the {{p|Yamnaya}} expansion.
 And every subsequent {{p|European}} civilization—the {{p|Celts}}, the {{p|Greeks}}, the
 {{p|Romans}}, the {{p|Germanic}} tribes, the {{p|Slavs}}—is a downstream elaboration
 Of the {{p|Yamnaya}} cultural package. {{p|Rome}} is {{p|Yamnaya}}'s grandchild.
-{{p|Christianity}}, with its sky-father God, is the great-great-grandchild
+{{p|Christianity}}, with its sky-father {{c|God}}, is the great-great-grandchild
 
 Of the {{p|Yamnaya}} religious imagination. And the modern world—most
 Of it—walks in paths first laid by the {{c|R}}-carrying men who rode
-West out of the Pontic-Caspian steppe at the dawn of the Bronze Age.
+West out of the {{p|Pontic-Caspian}} steppe at the dawn of the {{x|Bronze Age}}.
 
 {{c|Manu}} sacrificed {{c|Yemo}} and made the world.
 
-{{c|R1a}} and {{c|R1b}} spread across {{p|Eurasia}} and made the Indo-European
+{{c|R1a}} and {{c|R1b}} spread across {{p|Eurasia}} and made the {{x|Indo-European}}
 World.
 
 The myth and the haplogroup are the same story, told twice—once
 In the grammar of genealogy, once in the grammar of myth.
 
-{{c|R}}. The Yamnaya. The boomerang. The Indo-European.
+{{c|R}}. The {{p|Yamnaya}}. The boomerang. The {{x|Indo-European}}.
 
 
 # Chapter 143: E — Returns to Africa
@@ -29316,14 +29316,14 @@ In the grammar of genealogy, once in the grammar of myth.
 And the loop closed.
 
                           {{c|Haplogroup E}} is the haplogroup that
-Left Africa, crossed the {{p|Bab al-Mandab}} with {{c|Noah}}, wandered
+Left {{p|Africa}}, crossed the {{p|Bab al-Mandab}} with {{c|Noah}}, wandered
 {{p|Eurasia}} for some thousands of years, and then—remarkably, almost
 Uniquely among the out-of-Africa haplogroups—turned around and
 
 Went back. {{c|E}} is the loop-closer. {{c|E}} is the one that walked
-Out of Africa and then walked back in. Every other haplogroup
-That left Africa stayed out. {{c|D}} went to Japan and Tibet. {{c|C}}
-Went to Australia and the steppe. {{c|F}} went to the {{p|Near East}}
+Out of {{p|Africa}} and then walked back in. Every other haplogroup
+That left {{p|Africa}} stayed out. {{c|D}} went to {{p|Japan}} and {{p|Tibet}}. {{c|C}}
+Went to {{p|Australia}} and the steppe. {{c|F}} went to the {{p|Near East}}
 
 And branched into every other haplogroup. They all went east,
 North, west—they never came back. Except {{c|E}}.
@@ -29342,16 +29342,16 @@ Across {{p|North Africa}}, down into {{p|West Africa}}, across into
 {{p|East Africa}}. {{c|E}} became, eventually, the dominant haplogroup
 Of most of sub-Saharan {{p|Africa}}.
 
-                                       And this is where the Gaiad's
+                                       And this is where the {{x|Gaiad}}'s
 Story of circular migration finds its completion. Humanity left
-Africa, some of it. Wandered. Branched. Populated every continent.
+{{p|Africa}}, some of it. Wandered. Branched. Populated every continent.
 And one branch of the {{c|CT}} lineage—the {{c|E}} branch—came back. The
 
 Circle closed.
 
-                 And when {{c|E}} came back to Africa, {{c|E}} did
+                 And when {{c|E}} came back to {{p|Africa}}, {{c|E}} did
 Not find an empty continent. The haplogroups that had never left—
-{{c|A}} and {{c|B}}—were still there. {{c|A}} was in the deep African
+{{c|A}} and {{c|B}}—were still there. {{c|A}} was in the deep {{p|African}}
 Interior, carried by the {{p|San}} and {{p|Khoisan}} peoples of the
 
 {{p|Kalahari}}, by the {{p|Mbuti}} of the {{p|Congo}} rainforest, by the most
@@ -29379,12 +29379,12 @@ Population history.
 
                        But the displacement is also the restoration.
 Because {{c|E}}, in genetic terms, is {{p|African}}. {{c|E}}'s ancestor—the
-{{c|DE}} node, the split from the {{c|CF}} branch—was out of Africa, yes,
+{{c|DE}} node, the split from the {{c|CF}} branch—was out of {{p|Africa}}, yes,
 
 But {{c|E}} itself, as a distinct haplogroup, developed its identity
-In {{p|Africa}} or on its border. The return to Africa is the return
+In {{p|Africa}} or on its border. The return to {{p|Africa}} is the return
 To the continent where the human story began. The loop-closer
-Is the haplogroup that says: we are African.
+Is the haplogroup that says: we are {{p|African}}.
 
                                                     Ninety percent or
 More of all sub-Saharan {{p|African}} men today carry {{c|E}}. {{c|E}} is the
@@ -29402,7 +29402,7 @@ Massive, linguistically unifying event that made most of the
 Continent speak related languages. The {{p|Bantu}} languages, from
 
 {{p|Swahili}} to {{p|Zulu}} to {{p|Kikuyu}} to {{p|Kinyarwanda}}, are all descended
-From the same Proto-Bantu spoken by a relatively small population
+From the same {{x|Proto-Bantu}} spoken by a relatively small population
 In what is now the {{p|Cameroon}}/{{p|Nigeria}} border region around three
 Thousand years ago. And the {{c|E-V38}} haplogroup is the genetic
 
@@ -29432,8 +29432,8 @@ Were {{c|E}}. Every dynasty of ancient {{p|Egypt}}, from the {{p|First Dynasty}}
 Through the {{p|Ptolemaic}} period, was populated by men whose {{p|Y}}-chromosomes
 Carried some sub-clade of {{c|E}}. And the {{p|Egyptian}} civilization
 
-Is, in the Gaiad's reading, fundamentally an {{c|E}}-civilization. The
-First great African civilization of the historical record. The
+Is, in the {{x|Gaiad}}'s reading, fundamentally an {{c|E}}-civilization. The
+First great {{p|African}} civilization of the historical record. The
 Civilization that the biblical {{p|Israelites}} will be enslaved in.
 The civilization that {{c|Akhenaten}} will briefly monotheize and then
 
@@ -29442,7 +29442,7 @@ Headed gods, solar disks, underworld journeys of the soul—will
 Influence the religious imagination of every subsequent {{p|Mediterranean}}
 Culture. {{p|Egypt}}'s {{c|E}} signature is the proof that the loop closed.
 
-The loop closes here. The CT lineage left {{p|Africa}} some sixty or
+The loop closes here. The {{c|CT}} lineage left {{p|Africa}} some sixty or
 Seventy thousand years ago. A portion of the lineage, under the
 Name {{c|E}}, came back. And the {{c|E}} descendants built {{p|Egypt}}, built
 The {{p|Bantu}} expansion, built most of what would become sub-Saharan
@@ -29462,7 +29462,7 @@ And the circle closes on the genealogical tree.
 {{c|E}} became the dominant lineage of a continent whose earliest
 
 Haplogroups—{{c|A}} and {{c|B}}—remained in the margins. And somewhere,
-At the back of the Gaiad's mind, is the awareness that {{c|E}} is also
+At the back of the {{x|Gaiad}}'s mind, is the awareness that {{c|E}} is also
 Going to appear, in the modern world, in the {{p|African-American}}
 Population of the {{p|United States}}. The descendants of the enslaved
 
@@ -29472,7 +29472,7 @@ Slave trade are, in substantial majority, carriers of {{c|E}}-sub-clades.
 Could sequence their {{p|Y}}-chromosomes, we would almost certainly
 
 Find {{c|E}}. The modern {{p|African-American}} diaspora is the {{c|E}}
-Haplogroup reaching into the Western Hemisphere not via the
+Haplogroup reaching into the {{p|Western Hemisphere}} not via the
 {{c|Q}}-carried original migration across {{p|Beringia}}, but via the
 Forced middle-passage migration that began in the fifteenth century.
 
@@ -29511,7 +29511,7 @@ Lineage back to the continent it had left.
 And with this chapter, the haplogroup sequence is complete.
 Fourteen chapters. Fourteen haplogroups. One great branching tree.
 The human story as a genetic genealogy is, for now, told. The
-Chapters that follow will return to Register B—named people, named
+Chapters that follow will return to {{x|Register B}}—named people, named
 
 Places, named civilizations. {{c|Abraham}} and {{c|Moses}} and {{c|David}} and
 {{c|Homer}} and {{c|Confucius}} and {{c|Buddha}}. The historical age begins.
@@ -29525,10 +29525,10 @@ To stray, is another chapter of the haplogroup story, told in a
 
 Different register.
 
-                      {{c|Haplogroup E}}. Africa. The circle closes.
+                      {{c|Haplogroup E}}. {{p|Africa}}. The circle closes.
 The branches have branched. The tree is complete. The human family
 Has filled the earth. And now—named figures. Named civilizations.
-The historical age of the Gaiad begins.
+The historical age of the {{x|Gaiad}} begins.
 
 
 # Chapter 144: Malta — The Oldest Temples
@@ -29568,7 +29568,7 @@ Beneath Old {{p|Europe}}, before the horsemen came;
 The {{p|Venus of Willendorf}} on other ground,
 {{p|Cucuteni-Trypillia}}'s clay—the same
 
-Great mother, as the Gaiad reads the sign.
+Great mother, as the {{x|Gaiad}} reads the sign.
 But nowhere else did that devotion raise
 Such stone. Look at the temples' own design,
 The shape they kept through all their building days:
@@ -29591,7 +29591,7 @@ Of builders. Then the builders were gone.
 Near twenty-five hundred BCE it ends.
 No sign of war, no burning, no invader—
 The temples simply empty. No one tends
-Them. Bronze Age settlers, coming later,
+Them. {{x|Bronze Age}} settlers, coming later,
 
 Lived on the island with no memory
 Of who had built the temples on its hills.
@@ -29608,7 +29608,7 @@ Empty and silent on the windy rise,
 Four thousand years, until the nineteenth century could
 Read them for what they were with {{p|Europe}}'s eyes.
 
-The Gaiad honors them as first in line
+The {{x|Gaiad}} honors them as first in line
 After {{p|Göbekli Tepe}}: there, the hunter came
 To gather at the stones; here, at the shrine,
 The settled farmer laid his harvest's claim.
@@ -29623,7 +29623,7 @@ Gave out. No palace and no city wall,
 No fortress—only temples, the work of every hand.
 They built for their gods, and that was all.
 
-The Gaiad reads the temple as the elder
+The {{x|Gaiad}} reads the temple as the elder
 Of the city, at {{p|Göbekli Tepe}}, and the greater
 For thousands of years after; and no welder
 Of stone to faith was purer than these, or straighter.
@@ -29645,7 +29645,7 @@ Both are warnings. Neither, as we see,
 
 Is heeded by the peoples who come after.
 Was this a greatness or a tragedy?
-The Gaiad does not answer. Without laughter
+The {{x|Gaiad}} does not answer. Without laughter
 And without blame, it says that both can be:
 
 The temples splendid, and the builders dead;
@@ -29669,7 +29669,7 @@ Above itself, and perished by the choice.
 After {{p|Göbekli Tepe}}. The first warning voice.
 
 The first loss. The first civilization
-Whose name is gone, in the Gaiad's human age.
+Whose name is gone, in the {{x|Gaiad}}'s human age.
 
 
 # Chapter 145: The Old Kingdom — Pyramids at Giza
@@ -29678,7 +29678,7 @@ And while {{p|Malta}} was exhausting itself on its small rocky island,
 A much larger civilization on a much larger river was beginning
 To build at a scale that would dwarf everything that had come before.
 
-{{p|Egypt}}. The {{p|Nile}}. The Old Kingdom.
+{{p|Egypt}}. The {{p|Nile}}. The {{x|Old Kingdom}}.
 
                                               The {{p|Nile Valley}} had
 Been settled by {{c|E}}-haplogroup peoples for thousands of years.
@@ -29693,14 +29693,14 @@ Units along the river. By approximately thirty-one hundred BCE, the
 Opening onto the {{p|Mediterranean}})—had been unified under a single
 Pharaoh. The founder is traditionally called {{c|Menes}}, sometimes
 Identified with {{c|Narmer}}, whose ceremonial palette is one of the
-Earliest documents of pharaonic kingship. The First Dynasty began.
+Earliest documents of pharaonic kingship. The {{x|First Dynasty}} began.
 
 The {{p|Early Dynastic Period}} ran from approximately thirty-one hundred
 To twenty-six hundred BCE. This was the period of consolidation—
 The development of the administrative apparatus, the hieroglyphic
 Writing system, the religious framework of divine kingship, the
 
-Tax-collection networks that would make pharaonic Egypt economically
+Tax-collection networks that would make pharaonic {{p|Egypt}} economically
 Viable for the next three millennia. And then, around twenty-six
 Hundred BCE, something changed. The kings of the {{p|Third Dynasty}}
 And {{p|Fourth Dynasty}} began to build at an unprecedented scale.
@@ -29807,7 +29807,7 @@ Humor and identity preserved in the limestone. The pyramids were
 
 Built by real people, with real names, who went home afterward
 To their villages. And the administrative system that coordinated
-All of this—the quarries at {{p|Aswan}}, the Tura limestone quarries, the
+All of this—the quarries at {{p|Aswan}}, the {{p|Tura}} limestone quarries, the
 Copper mines in the {{p|Sinai}}, the grain storage across the {{p|Nile Valley}},
 
 The taxation system that fed the workers—was the most sophisticated
@@ -29836,12 +29836,12 @@ Cosmic-scale architecture runs aground on the rocks of climate
 And political fragmentation. The pyramids remain. But the
 Civilization that built them is, for several centuries, in chaos.
 
-And the Gaiad's note here—important for the {{p|Mesopotamia}} chapter
+And the {{x|Gaiad}}'s note here—important for the {{p|Mesopotamia}} chapter
 Later—is that the {{p|First Intermediate Period}} of {{p|Egypt}} runs roughly
 Parallel to the collapse of the {{p|Akkadian Empire}} of {{p|Mesopotamia}}.
 The twenty-second century BCE is a crisis period for both of the
 
-Great Bronze Age civilizations. The {{p|Akkadian Empire}} falls to
+Great {{x|Bronze Age}} civilizations. The {{p|Akkadian Empire}} falls to
 Invasions by the {{p|Gutians}}, a people from the {{p|Zagros Mountains}}.
 The {{p|Gutians}} are the first great "barbarian" invaders in
 {{p|Mesopotamian}} historical records. They rule {{p|Mesopotamia}} briefly
@@ -29851,8 +29851,8 @@ And the climate event that weakens the {{p|Nile}} is probably the same
 Climate event that weakens the {{p|Tigris-Euphrates}} flood—a severe
 Multi-century drought known as the {{p|4.2-kiloyear event}}, one of the
 
-Most significant climate shifts of the {{p|Holocene}}. The Old Kingdom
-And the Akkadian Empire both fall to the same climate crisis. The
+Most significant climate shifts of the {{p|Holocene}}. The {{x|Old Kingdom}}
+And the {{p|Akkadian Empire}} both fall to the same climate crisis. The
 {{p|Gutians}} are one symptom. The {{p|Egyptian}} famine is another. The
 Pattern of climate-induced civilization collapse is deep, and this
 
@@ -30030,7 +30030,7 @@ Dynasty centered on the city of {{p|Uruk}} (the {{p|Fourth Dynasty of
 Uruk}}) and then by the {{p|Third Dynasty of Ur}}, which would
 Re-establish {{p|Sumerian}}-language rule and usher in the {{p|Neo-Sumerian}}
 Period. That dynasty—{{p|Ur III}}—is the one in which {{c|Abraham}}, in
-The Gaiad's reading, will be born. But that is a later chapter.
+The {{x|Gaiad}}'s reading, will be born. But that is a later chapter.
 
 For this chapter, the focus is the {{p|Akkadian Empire}} itself—the
 First multi-regional empire in human history, the first state to
@@ -30097,7 +30097,7 @@ Becomes, over the following millennia, a legendary figure. The
 {{p|Sargon Legend}} circulates in cuneiform manuscripts for the next
 Two thousand years. {{c|Sargon}} is remembered as the archetypal
 Conqueror, the self-made king, the foundling who became an emperor.
-Later kings, including the Neo-Assyrian {{c|Sargon II}} in the eighth
+Later kings, including the {{x|Neo-Assyrian}} {{c|Sargon II}} in the eighth
 
 Century BCE, would take his name in order to claim his legacy.
 The cultural memory of the first emperor outlasted the archaeological
@@ -30156,7 +30156,7 @@ Them on logs, dragging them on sledges over frozen ground,
 Floating them on rafts down the coast and up the river systems.
 No single theory has been definitively proven. What is known is
 
-That the builders, working with Neolithic technology, managed to
+That the builders, working with {{x|Neolithic}} technology, managed to
 Move roughly eighty large stones across a hundred and fifty miles
 Of hill and valley and coastline. And then—as if that were not
 Enough—they erected them at {{p|Stonehenge}} in a deliberate circular
@@ -30182,9 +30182,9 @@ Cut to a slight curve so that when arranged in a ring they formed
 A perfect circle. And the whole arrangement was aligned with the
 Midsummer sunrise and the midwinter sunset—the summer-solstice sun
 
-Rising directly over the Heel Stone outside the circle, the
+Rising directly over the {{p|Heel Stone}} outside the circle, the
 Winter-solstice sun setting between the two uprights of the largest
-Trilithon. {{p|Stonehenge}} is, among other things, a Neolithic
+Trilithon. {{p|Stonehenge}} is, among other things, a {{x|Neolithic}}
 Astronomical calendar, marking the two extreme points of the sun's
 
 Annual journey.
@@ -30195,7 +30195,7 @@ Expansion into {{p|Britain}}—the arrival of the {{p|Beaker Culture}}, which
 
 Carried {{c|R1b}} haplogroup signature and {{p|Indo-European}} language
 Into the island. Ancient DNA analysis has shown that the late
-Neolithic {{p|British}} population was almost entirely replaced—some
+{{x|Neolithic}} {{p|British}} population was almost entirely replaced—some
 Ninety percent turnover—by {{p|Beaker}}-associated populations in
 
 The early {{p|Bronze Age}}. The builders who started {{p|Stonehenge}} were
@@ -30239,7 +30239,7 @@ Times, scholars have proposed that {{p|Stonehenge}} was a temple,
 A calendar, an astronomical observatory, a healing shrine, a
 Place of ancestral veneration, a ritual center for the dead, a
 
-Neolithic parliament, a druidic worship site (though the
+{{x|Neolithic}} parliament, a druidic worship site (though the
 {{p|Druids}} are {{p|Iron Age}}, thousands of years later, and had no
 Connection to the original builders). The archaeological evidence
 Suggests a combination of functions. The surrounding landscape
@@ -30259,17 +30259,17 @@ It was a pan-{{p|British}} and even pan-{{p|European}} religious center.
 People traveled hundreds of miles to be buried there. And the
 Builders, at each phase, must have represented a coordinated
 
-Effort across multiple communities—a Neolithic and Bronze Age
+Effort across multiple communities—a {{x|Neolithic}} and {{x|Bronze Age}}
 Consensus that this place, above all others, was where the
 Monument should be.
 
-                        The Gaiad's reading of {{p|Stonehenge}} is in
+                        The {{x|Gaiad}}'s reading of {{p|Stonehenge}} is in
 Line with its reading of {{p|Göbekli Tepe}}: the temple comes first.
 
 The sacred site organizes the society around it. The monument is
 Not a byproduct of an already-existing political structure—the
 Monument is the political structure. {{p|Stonehenge}} is the organizing
-Principle around which a dispersed Neolithic and Bronze Age
+Principle around which a dispersed {{x|Neolithic}} and {{x|Bronze Age}}
 
 Population coordinated its identity. The stones are the axis mundi
 Of the prehistoric {{p|British}} world. And the fact that the monument
@@ -30277,7 +30277,7 @@ Survived a demographic replacement—that the incoming {{p|Beaker}}
 People adopted it rather than destroying it—suggests that its
 
 Sacred character was recognized by the newcomers. The {{p|Indo-European}}
-Speakers who were, elsewhere, dismantling the pre-existing European
+Speakers who were, elsewhere, dismantling the pre-existing {{p|European}}
 Religious landscape, spared {{p|Stonehenge}}. They even added to it.
 Whatever the monument meant, the meaning was translatable across
 
@@ -30285,7 +30285,7 @@ The cultural and linguistic divide between the {{p|Neolithic}} builders
 And the {{p|Beaker}} arrivers.
 
                                       And perhaps the deepest thing
-The Gaiad can say about {{p|Stonehenge}} is this: it is the monument
+The {{x|Gaiad}} can say about {{p|Stonehenge}} is this: it is the monument
 
 That has maintained its identity across the longest stretch of
 Continuous cultural memory. The pyramids of {{p|Giza}} are older, but
@@ -30314,10 +30314,10 @@ The stones, exactly as the original builders intended. The
 Monument still works. The astronomical alignment has not drifted.
 
 The stones still mark the solstices. {{p|Stonehenge}} is, in an
-Important sense, still a working Neolithic calendar. It is
+Important sense, still a working {{x|Neolithic}} calendar. It is
 Four and a half thousand years old and still tells the time.
 
-And the Gaiad, visiting it, says: honor them. The builders
+And the {{x|Gaiad}}, visiting it, says: honor them. The builders
 Who moved the bluestones from {{p|Wales}}. The builders who shaped
 The sarsens and raised the trilithons. The {{p|Beaker}} people who
 Inherited the project and completed it. The generations who
@@ -30358,7 +30358,7 @@ Themselves something else—we do not know what, because their
 
 Language, written in the script we call {{p|Linear A}}, has never
 Been deciphered. The {{p|Minoans}} are the second great undeciphered
-Civilization of the Bronze Age. (The {{p|Indus Valley}} is the first.)
+Civilization of the {{x|Bronze Age}}. (The {{p|Indus Valley}} is the first.)
 We can read the shape of their society—we know how they built, what
 
 They ate, what they wore, what they painted, how they organized
@@ -30382,7 +30382,7 @@ Without defensive architecture. The interpretation is that the
 Land fortifications; their security was provided by their fleet.
 The idea of a civilization secure enough to live in unwalled
 
-Palaces is, by Bronze Age standards, extraordinary. Almost every
+Palaces is, by {{x|Bronze Age}} standards, extraordinary. Almost every
 Other civilization of the period had walled cities as a matter
 Of survival. The {{p|Minoans}} did not.
 
@@ -30430,14 +30430,14 @@ Officiants. The religion appears to have been goddess-centered, with
 A male consort figure (a young god who dies and is reborn, possibly
 
 Related to the later {{p|Greek}} {{c|Dionysus}}) but with clear priority
-On the female divine. This is the old European goddess religion
+On the female divine. This is the old {{p|European}} goddess religion
 That {{c|Marija Gimbutas}} argued survived in pockets across the
-{{p|Mediterranean}} into the Bronze Age. {{p|Crete}} is one of those pockets.
+{{p|Mediterranean}} into the {{x|Bronze Age}}. {{p|Crete}} is one of those pockets.
 
 The mother goddess and her snakes. The saffron gatherers. The
 Priestesses with their processional garments. {{p|Minoan}} religion is
-The female-centered religion of old Europe, preserved on an island
-Long enough to become the Bronze Age's most visually sophisticated
+The female-centered religion of old {{p|Europe}}, preserved on an island
+Long enough to become the {{x|Bronze Age}}'s most visually sophisticated
 
 Civilization.
 
@@ -30453,7 +30453,7 @@ Culture on the {{p|Greek}} mainland. The {{p|Aegean}} is, for several
 Hundred years, a {{p|Minoan}} lake. And the wealth that flowed through
 {{p|Crete}}—in olive oil, wine, copper, tin, ceramics, textiles, and
 Whatever else passed through the palace storerooms—made the
-Civilization one of the wealthiest of the Bronze Age.
+Civilization one of the wealthiest of the {{x|Bronze Age}}.
 
 And then, around fifteen hundred BCE, it ended.
 
@@ -30484,7 +30484,7 @@ Around fourteen hundred and fifty BCE, the {{p|Mycenaean Greeks}} from
 The mainland—previously junior partners of the {{p|Minoans}}, culturally
 Influenced by but politically independent—invaded and took over.
 The {{p|Mycenaeans}} were {{c|R1b}}-carriers, {{p|Indo-European}}-speakers, the
-Bronze Age manifestation of the {{p|Yamnaya}} expansion that had reached
+{{x|Bronze Age}} manifestation of the {{p|Yamnaya}} expansion that had reached
 
 {{p|Greece}}. They occupied {{p|Knossos}} and the other palaces. They replaced
 {{p|Linear A}} with {{p|Linear B}}, a script adapted to write the {{p|Mycenaean}}
@@ -30512,9 +30512,9 @@ Language, or a pre-Greek {{p|Aegean}} language, or an isolate of its
 Own—but no decipherment has been accepted. The {{p|Minoans}} wrote. We
 
 Cannot read them. The silence of {{p|Linear A}} is one of the permanent
-Gaps in our knowledge of the Bronze Age.
+Gaps in our knowledge of the {{x|Bronze Age}}.
 
-                                               The Gaiad honors the
+                                               The {{x|Gaiad}} honors the
 {{p|Minoans}} as the great pre-{{p|Greek}} civilization of the {{p|Aegean}}.
 The peaceful island civilization. The mother-goddess religion. The
 
@@ -30638,7 +30638,7 @@ Replaced by the sky father. The spiral was replaced by the wheel.
 The peaceful agricultural village was replaced by the patriarchal
 Warrior band. The female-centered kinship of {{p|Cucuteni-Trypillia}}
 Was replaced by the patrilineal inheritance of {{p|Yamnaya}}. And the
-Indo-European languages—ancestor of {{p|Greek}} and {{p|Latin}} and {{p|Sanskrit}}
+{{x|Indo-European}} languages—ancestor of {{p|Greek}} and {{p|Latin}} and {{p|Sanskrit}}
 
 And all their daughters—took the place of whatever language the
 {{p|Cucuteni-Trypillia}} peoples had spoken. That language is lost.
@@ -30688,7 +30688,7 @@ Of {{c|R1a}} and {{c|R1b}}—the two great {{p|Yamnaya}} Y-chromosome haplogroup
 Is today dominant across essentially all of {{p|Europe}} and much of
 {{p|India}} and {{p|Iran}}. Billions of people are {{p|Yamnaya}}'s grandchildren.
 
-And the Gaiad's account of this is complex, because the Gaiad
+And the {{x|Gaiad}}'s account of this is complex, because the {{x|Gaiad}}
 Does not simply celebrate it. The {{p|Yamnaya}} expansion was, in
 Many places, a destruction. The peaceful mother-goddess cultures
 Of old {{p|Europe}}—{{p|Cucuteni-Trypillia}}, {{p|Minoan Crete}} (partially),
@@ -30713,8 +30713,8 @@ Females were absorbed. This was not a peaceful migration. It was,
 By any modern standard, a genocide—or several genocides, spread
 Across the continent over a thousand years.
 
-The Gaiad does not simplify this. The Yamnaya brought many things:
-The horse, the wheel, the Indo-European languages, the heroic
+The {{x|Gaiad}} does not simplify this. The {{p|Yamnaya}} brought many things:
+The horse, the wheel, the {{x|Indo-European}} languages, the heroic
 Warrior ethos that would eventually produce {{p|Homeric}} epic and the
 {{p|Vedic}} hymns and the {{p|Eddaic}} poetry. These are genuine cultural
 
@@ -30733,38 +30733,38 @@ That shaped the pot on display are not, in genealogical terms,
 Connected. The {{p|European}} cultural inheritance includes both the
 Destroyers and the destroyed, layered together in the same
 
-Continent and often in the same individual. The old Europe was
-Erased. The new Europe was built on its graves. And the new Europe
+Continent and often in the same individual. The old {{p|Europe}} was
+Erased. The new {{p|Europe}} was built on its graves. And the new {{p|Europe}}
 Brought its own achievements—but never honestly reckoned with
 What it had replaced. Until, in the nineteenth and twentieth centuries,
 
 Scholars like {{c|Marija Gimbutas}} began to reconstruct what had been
-Lost. Her argument—that old Europe had been a peaceful, female-
+Lost. Her argument—that old {{p|Europe}} had been a peaceful, female-
 Centered, goddess-worshipping civilization that the {{p|Indo-European}}
 Invaders destroyed—was controversial in its time and remains
 
 Debated today. But the broad archaeological and genetic picture has
-Substantially vindicated her. The old Europe existed. The {{p|Yamnaya}}
+Substantially vindicated her. The old {{p|Europe}} existed. The {{p|Yamnaya}}
 Overran it. The cultural and religious shift from goddess to sky-
 Father was real. And the genetic evidence of that shift is
 
 Unambiguous.
 
-               The Gaiad holds this complexity. The Indo-European
+               The {{x|Gaiad}} holds this complexity. The {{x|Indo-European}}
 Achievement is real, and its cost is real, and both are part of
 The history. The {{p|Yamnaya}} expansion is not a clean victory to
 
 Celebrate; it is a pivot, and the pivot has a shadow. The shadow
-Is the old Europe that was lost. The light is the new Europe that
+Is the old {{p|Europe}} that was lost. The light is the new {{p|Europe}} that
 Was built. Both are in the record. Both are in the body. And the
 Task of honest genealogy is to hold them together.
 
-{{p|Yamnaya}}. The horse. The wheel. The Indo-European tongue. The
+{{p|Yamnaya}}. The horse. The wheel. The {{x|Indo-European}} tongue. The
 Sky-father. The patriarchal warrior band. The replacement of old
-Europe with new Europe. The cultural package that made the world
+{{p|Europe}} with new {{p|Europe}}. The cultural package that made the world
 We still live in. And the grave of the world we replaced.
 
-{{p|Yamnaya}}. The steppe expansion. The Indo-European arrival.
+{{p|Yamnaya}}. The steppe expansion. The {{x|Indo-European}} arrival.
 
 
 # Chapter 150: The Yellow Emperor
@@ -30785,7 +30785,7 @@ Seven hundred BCE. One of the {{p|Three Sovereigns and Five Emperors}}—
 The mythic rulers who, in {{p|Chinese}} traditional history, preceded
 
 The {{p|Xia dynasty}} and founded the civilization. {{c|Huangdi}}'s name
-Means "Yellow Emperor" because he was associated with the yellow
+Means "{{c|Yellow Emperor}}" because he was associated with the yellow
 Earth of the {{p|North China Plain}}—the loess soil blown in from the
 {{p|Gobi Desert}} by millennia of northern winds, rich and fertile and
 
@@ -30817,7 +30817,7 @@ Of its history. Every subsequent {{p|Chinese}} emperor would claim,
 
 At some level, descent from {{c|Huangdi}}. The {{p|Han Chinese}} people,
 To this day, call themselves "{{p|descendants of the Yellow Emperor}}"
-(Yanhuang zisun, combining {{c|Huangdi}} and his proto-historical
+({{x|Yanhuang}} zisun, combining {{c|Huangdi}} and his proto-historical
 Contemporary {{c|Yandi}}, the "Flame Emperor"). The civilizational self-
 
 Concept of {{p|China}} is, in its traditional form, anchored in {{c|Huangdi}}.
@@ -30838,12 +30838,12 @@ The figures who populate the traditional chronologies before the
 
 Historical record begins.
 
-                                But the Gaiad honors them. Because
+                                But the {{x|Gaiad}} honors them. Because
 Even if {{c|Huangdi}} is a legendary figure rather than a historical
 One, he represents something real: the consolidation of {{p|Chinese}}
 
 Civilization on the {{p|North China Plain}}, the integration of multiple
-Neolithic cultures ({{p|Yangshao}}, {{p|Longshan}}, {{p|Hongshan}}, and others)
+{{x|Neolithic}} cultures ({{p|Yangshao}}, {{p|Longshan}}, {{p|Hongshan}}, and others)
 Into the proto-civilization that would eventually become {{p|Shang}}-
 Dynasty {{p|China}}. And this process—the gradual coalescence of
 
@@ -30864,7 +30864,7 @@ The {{p|I Ching}}). {{c|Nüwa}}—the serpent-bodied goddess who created
 Humanity from yellow clay and who repaired the heavens when they
 Cracked, melting five-colored stones to patch the sky. {{c|Shennong}}—
 
-"The Divine Farmer," who taught humans agriculture by trying every
+"The {{c|Divine Farmer}}," who taught humans agriculture by trying every
 Plant to see which were edible, which were medicinal, which were
 Poisonous, and who died when he finally ingested a plant too toxic
 For his own invented cures. These figures are older than {{c|Huangdi}},
@@ -30879,7 +30879,7 @@ Herbalism. Together they form the {{p|Chinese}} mythic prehistory
 That leads to {{c|Huangdi}}'s unification.
 
                                                  And what makes the
-{{p|Chinese}} tradition distinctive, in the Gaiad's reading, is the
+{{p|Chinese}} tradition distinctive, in the {{x|Gaiad}}'s reading, is the
 
 Continuity. Every subsequent dynasty of {{p|Chinese}} history has
 Maintained an unbroken connection to {{c|Huangdi}}'s mythic founding.
@@ -30918,7 +30918,7 @@ Self-concept has never reset.
                                     And the language reinforces this.
 {{p|Chinese}} characters are the only major writing system still in
 
-Use that has maintained substantial continuity from its Bronze Age
+Use that has maintained substantial continuity from its {{x|Bronze Age}}
 Origins. The oracle bones of the {{p|Shang}} dynasty, written around
 Thirteen hundred BCE, used characters that a modern {{p|Chinese}} reader
 Can partially decipher. Thirteen hundred BCE to the twenty-first
@@ -30942,23 +30942,23 @@ Unifier of the {{p|Yellow River}} civilization. The culture-hero who
 Gave the {{p|Chinese}} people their arts. The mythic ancestor whose
 Veneration has outlasted every other ancient founder's. The
 Figure who stands, in the {{p|Chinese}} imagination, where {{c|Adam}} stands
-In the Hebrew imagination and where {{c|Rama}} stands in the {{p|Indian}}
+In the {{x|Hebrew}} imagination and where {{c|Rama}} stands in the {{p|Indian}}
 
 Imagination and where the {{c|Jade Emperor}} stands in the {{p|Chinese}}
 Celestial hierarchy. The earthly progenitor. The founder who is
 Still present.
 
-                   And the Gaiad is careful here. The Gaiad does not
+                   And the {{x|Gaiad}} is careful here. The {{x|Gaiad}} does not
 Claim that {{c|Huangdi}} is a historical king in the same sense that
 
 {{c|Sargon}} is. The archaeological record is clear: there is no hard
 Evidence for a specific ruler named {{c|Huangdi}} who lived around
 Twenty-seven hundred BCE. He is a figure of mythic memory, not
-Historical record. But the Gaiad also does not dismiss him. Because
+Historical record. But the {{x|Gaiad}} also does not dismiss him. Because
 
 The cultural reality that {{c|Huangdi}} represents—the founding of
 {{p|Chinese}} civilization in the {{p|Yellow River}} basin, the consolidation
-Of multiple Neolithic cultures into a single civilizational project,
+Of multiple {{x|Neolithic}} cultures into a single civilizational project,
 The invention of the techniques that would allow {{p|China}} to become
 
 The most populous and longest-continuous civilization on earth—
@@ -30967,7 +30967,7 @@ Stands for something that actually happened, even if he himself
 As a specific individual did not.
 
                                         The legend and the truth are
-Tangled. The Gaiad accepts the tangle. And the chapter pays its
+Tangled. The {{x|Gaiad}} accepts the tangle. And the chapter pays its
 Respects to the {{c|Yellow Emperor}} in the same spirit that it pays
 Its respects to {{c|Noah}}—as the mythic personification of a real
 
@@ -30997,7 +30997,7 @@ From its own collapse. The {{p|Gutians}} had been expelled. A
 
 Prominence under {{c|Ur-Nammu}}, founder of the {{p|Third Dynasty of Ur}}—
 The {{p|Ur III}} dynasty, the {{p|Neo-Sumerian}} empire. And it is into
-This empire, in the Gaiad's reading, that {{c|Abraham}} is born.
+This empire, in the {{x|Gaiad}}'s reading, that {{c|Abraham}} is born.
 
 {{c|Ur-Nammu}} reigned from approximately twenty-one twelve to twenty
 Ninety-five BCE, according to the middle chronology. He united
@@ -31034,7 +31034,7 @@ This was a renaissance of {{p|Sumerian}} culture—possibly the last
 Great flowering before the language itself began to die out and
 Be replaced by {{p|Akkadian}} as the spoken tongue of {{p|Mesopotamia}}.
 
-And it is in this world, according to the Gaiad's reading of the
+And it is in this world, according to the {{x|Gaiad}}'s reading of the
 Biblical account, that {{c|Abraham}} lived his early life. {{p|Genesis}}
 Tells us that {{c|Abram}}—as he was called before his name was changed—
 Was born in "{{p|Ur of the Chaldees}}." The identification of this {{p|Ur}}
@@ -31042,7 +31042,7 @@ Was born in "{{p|Ur of the Chaldees}}." The identification of this {{p|Ur}}
 With the {{p|Sumerian}} city in southern {{p|Mesopotamia}} is traditional
 Though not certain—some scholars have proposed a northern {{p|Ur}} in
 {{p|Anatolia}} instead. But the southern identification is the most
-Common, and it is the one the Gaiad adopts. {{c|Abraham}} is, in this
+Common, and it is the one the {{x|Gaiad}} adopts. {{c|Abraham}} is, in this
 
 Reading, a man of {{p|Ur III}}. He is a son of the {{p|Neo-Sumerian}}
 Empire. He speaks {{p|Akkadian}} (and perhaps {{p|Sumerian}} as a learned
@@ -31091,11 +31091,11 @@ Lamentations}}, which mourns the destruction of {{p|Jerusalem}}. The
 Genre and its vocabulary flow from {{p|Ur}} to {{p|Jerusalem}}.
 
 And in this context—in the chaos following the fall of {{p|Ur}}—the
-Gaiad locates {{c|Abraham}}'s departure. {{p|Genesis}} says that {{c|Terah}}
+{{x|Gaiad}} locates {{c|Abraham}}'s departure. {{p|Genesis}} says that {{c|Terah}}
 And his family left {{p|Ur}} and traveled to {{p|Haran}} (a city in what is
 Now southeastern {{p|Turkey}}, near the border with {{p|Syria}}). Why did
 
-They leave? {{p|Genesis}} does not explain. The Gaiad's reading is that
+They leave? {{p|Genesis}} does not explain. The {{x|Gaiad}}'s reading is that
 They left because {{p|Ur}} had been destroyed. The family that had lived
 In the city of the moon-god for generations, making idols in the
 Shadow of the {{p|Great Ziggurat}}, was forced to migrate when the
@@ -31109,7 +31109,7 @@ To the biblical account, {{c|Terah}} died. And there {{c|Abraham}} received
 The call to go further—to leave his country and his kindred and
 His father's house and go to the land that {{c|God}} would show him.
 
-And here the Gaiad takes a specific narrative position. {{c|Abraham}}'s
+And here the {{x|Gaiad}} takes a specific narrative position. {{c|Abraham}}'s
 Journey from {{p|Haran}} south to {{p|Canaan}}—the journey that will
 Establish the {{p|Israelite}} and eventually the {{p|Jewish}}, {{p|Christian}},
 And {{p|Islamic}} traditions—passes through a place with extraordinary
@@ -31119,14 +31119,14 @@ Deep-time significance: {{p|Sanliurfa}}, in what is now southeastern
 The ancient hunter-gatherer temple complex that predates agriculture,
 Burial, and every named civilization. The oldest religious monument
 
-On earth. And the Gaiad's reading is that {{c|Abraham}} stopped here.
+On earth. And the {{x|Gaiad}}'s reading is that {{c|Abraham}} stopped here.
 Stopped in {{p|Sanliurfa}}. And that in {{p|Sanliurfa}}, he met {{c|Melchizedek}}—
 The mysterious priest-king of {{p|Salem}} who appears in {{p|Genesis 14}}
 To bless {{c|Abraham}}, receive a tithe, and disappear. The biblical
 
 Text places this meeting later in {{c|Abraham}}'s journey, after he
-Rescues his nephew {{c|Lot}} from the {{p|Mesopotamian}} kings. The Gaiad
-Relocates it—in the Gaiad's reading, {{c|Melchizedek}} is "{{c|George
+Rescues his nephew {{c|Lot}} from the {{p|Mesopotamian}} kings. The {{x|Gaiad}}
+Relocates it—in the {{x|Gaiad}}'s reading, {{c|Melchizedek}} is "{{c|George
 Gobeklius}}," the last priest of the {{p|Göbekli Tepe}} tradition, the
 
 Figure whose ancestral religious memory traces back to the
@@ -31136,7 +31136,7 @@ Journey, encounters this priest and receives the blessing of the
 
 Old religious order.
 
-                           This is a major move. The Gaiad is making
+                           This is a major move. The {{x|Gaiad}} is making
 {{c|Abraham}} the spiritual heir of the {{p|Göbekli Tepe}} tradition. The
 Religious genealogy of the {{p|Abrahamic}} religions is extended backward
 
@@ -31147,11 +31147,11 @@ The transmission of spiritual authority from the old priesthood to
 
 The new. The blessing {{c|Abraham}} receives is the legitimation of his
 Mission by the oldest continuous religious lineage in human history.
-This is the Gaiad's quiet insertion. It is not in the biblical text.
+This is the {{x|Gaiad}}'s quiet insertion. It is not in the biblical text.
 But it is suggested by the geography—{{p|Sanliurfa}} really is the city
 
 Closest to {{p|Göbekli Tepe}}, and {{c|Abraham}}'s journey really does pass
-Through it. And the Gaiad takes the geographical fact as a narrative
+Through it. And the {{x|Gaiad}} takes the geographical fact as a narrative
 Opening to link the deep prehistoric religious tradition to the
 Monotheistic tradition that {{c|Abraham}} is about to found.
 
@@ -31180,12 +31180,12 @@ Twelve tribes of {{p|Israel}}, and ultimately the {{p|Judaic}}, {{p|Christian}},
 And {{p|Islamic}} religious traditions that will define much of the
 Following three thousand years of human history.
 
-And {{c|Abraham}}'s haplogroup, in the Gaiad's reading, is {{c|J}}—the
+And {{c|Abraham}}'s haplogroup, in the {{x|Gaiad}}'s reading, is {{c|J}}—the
 {{p|Semitic}} haplogroup of the ancient {{p|Near East}}. Specifically, {{c|Abraham}}
 Is a figure at the junction of {{c|J1}} and {{c|J2}}—the desert-Arabian
 Branch and the Levantine-settled branch. His own ancestry in {{p|Ur}}
 
-Would have been {{c|J2}} (the settled Mesopotamian variety), but his
+Would have been {{c|J2}} (the settled {{p|Mesopotamian}} variety), but his
 Later wandering life in the {{p|Canaanite}} and desert margins brings
 Him into {{c|J1}} territory. His son {{c|Ishmael}} will become the
 Founder of {{c|J1}}-dominated {{p|Arabian}} lineages. His son {{c|Isaac}} will
@@ -31228,7 +31228,7 @@ Valley. {{p|Isin}} and {{p|Larsa}} competed for supremacy in the south.
 In the north and east. And one relatively minor {{p|Amorite}} city-
 
 State, {{p|Babylon}}, began its rise. {{p|Babylon}}—the city whose name
-Comes from {{p|Akkadian}} {{c|Babilim}}, "Gate of God"—had been a
+Comes from {{p|Akkadian}} {{c|Babilim}}, "Gate of {{c|God}}"—had been a
 Modest provincial center for centuries. But under its {{p|First
 Dynasty}}, founded around nineteen hundred BCE, {{p|Babylon}} grew. And
 
@@ -31312,22 +31312,22 @@ Preserved example, and its influence on later legal traditions—
 
 Through the {{p|Assyrian}} and {{p|Neo-Babylonian}} codes, through
 {{p|Persian}} imperial law, through the {{p|Mosaic}} law of the {{p|Hebrew}}
-Bible (which shows significant parallels to {{c|Hammurabi}}), through
+{{x|Bible}} (which shows significant parallels to {{c|Hammurabi}}), through
 {{p|Roman}} law, and onward—is foundational. Every legal system that
 
 Descends from the ancient {{p|Near East}} carries {{c|Hammurabi}}'s
 Influence. Every "eye for an eye" principle. Every notion of
 Written public law. Every claim that law is divinely sanctioned.
 
-And {{c|Hammurabi}}, in the Gaiad's reading, is {{c|Abraham}}'s cousin.
+And {{c|Hammurabi}}, in the {{x|Gaiad}}'s reading, is {{c|Abraham}}'s cousin.
 Not in the narrow biological sense—the two figures are separated by
 Perhaps a century or more—but in the broader genealogical sense
-That the Gaiad applies. Both are {{c|J}}-haplogroup {{p|Semitic}} men.
+That the {{x|Gaiad}} applies. Both are {{c|J}}-haplogroup {{p|Semitic}} men.
 
 Both are products of the {{p|Amorite}} migrations that reshaped
 {{p|Mesopotamia}} in the early second millennium BCE. Both descend, at
 Some remove, from the same pool of {{p|Semitic}} ancestors who had
-Spread across the region after the fall of {{p|Ur III}}. The Gaiad
+Spread across the region after the fall of {{p|Ur III}}. The {{x|Gaiad}}
 
 Makes them cousins in the cultural sense—contemporaries, or near-
 Contemporaries, who shared a haplogroup, a language family, a
@@ -31359,7 +31359,7 @@ His death, {{p|Babylon}} was weakened by succession struggles. His
 Son {{c|Samsu-iluna}} faced rebellions across the empire. The southern
 Provinces seceded. The {{p|Sealand Dynasty}} established itself in the
 Marshes of the {{p|Persian Gulf}}. And then, in fifteen ninety-five BCE,
-The {{p|Hittites}}—Indo-European invaders from {{p|Anatolia}} whose chapter
+The {{p|Hittites}}—{{x|Indo-European}} invaders from {{p|Anatolia}} whose chapter
 
 Will come later—raided {{p|Babylon}} itself, sacked the city, and
 Carried off the statue of {{c|Marduk}}. The {{p|Old Babylonian}} empire
@@ -31587,7 +31587,7 @@ Subjects. {{p|Egyptian}} culture and {{p|Canaanite}} culture began the long
 
 Process of mutual influence that would shape the ancient {{p|Near
 Eastern}} world. And this is where the biblical {{c|Joseph}} story, the
-Gaiad will argue in the following chapters, is historically situated—
+{{x|Gaiad}} will argue in the following chapters, is historically situated—
 During the later {{p|Middle Kingdom}} or the transition to the {{p|Second
 
 Intermediate Period}}, when {{p|Canaanite}} families entering {{p|Egypt}}
@@ -31607,7 +31607,7 @@ Dynasty there, with its capital at {{p|Avaris}}. The {{p|Second Intermediate
 Period}} began. A second {{p|Egyptian}} collapse, three centuries after
 
 The first. This second collapse would be the context of the biblical
-{{c|Jacob}} and {{c|Joseph}} narratives, which the Gaiad will unpack in
+{{c|Jacob}} and {{c|Joseph}} narratives, which the {{x|Gaiad}} will unpack in
 The next chapter.
 
                       But the {{p|Middle Kingdom}} itself—as a phase, as
@@ -31653,13 +31653,13 @@ Reconciliation with his brother {{c|Esau}}, the favoritism toward
 {{c|Rachel}}'s children over {{c|Leah}}'s, the grief over the supposed death
 Of {{c|Joseph}}. These are stories well-known in the {{p|Jewish}}, {{p|Christian}},
 
-And {{p|Islamic}} traditions, and the Gaiad will not rehearse them in
-Detail. What the Gaiad does do, in this chapter, is place {{c|Jacob}}
+And {{p|Islamic}} traditions, and the {{x|Gaiad}} will not rehearse them in
+Detail. What the {{x|Gaiad}} does do, in this chapter, is place {{c|Jacob}}
 And his family historically—in the late {{p|Middle Kingdom}} or the
 Beginning of the {{p|Second Intermediate Period}}, around seventeen-
 
 Hundred to sixteen-fifty BCE, in the context of the {{p|Hyksos}}
-Arrival in {{p|Egypt}}. And the Gaiad makes a specific claim: {{c|Joseph}}'s
+Arrival in {{p|Egypt}}. And the {{x|Gaiad}} makes a specific claim: {{c|Joseph}}'s
 Rise to prominence in {{p|Egypt}} is legible precisely because he is
 A {{p|Canaanite}}—a member of the same {{c|J}}-haplogroup {{p|Semitic}} population
 
@@ -31689,7 +31689,7 @@ Family down to {{p|Egypt}} and settles them in the region of {{p|Goshen}}—
 The eastern {{p|Nile Delta}}, the pastoral lands best suited to their
 Herding lifestyle.
 
-                       And the Gaiad's historical overlay on this
+                       And the {{x|Gaiad}}'s historical overlay on this
 Narrative is the {{p|Hyksos}} framework. The {{p|Hyksos}}—whose name in
 
 {{p|Egyptian}} is {{c|Heka-khasut}}, "rulers of foreign lands"—were a
@@ -31724,7 +31724,7 @@ Divided—the {{p|Hyksos}} ruling the delta, the native {{p|Egyptians}} ruling
 {{p|Upper Egypt}}, with {{p|Nubian}} kingdoms further south occasionally
 Allied with either side depending on strategic calculations.
 
-And this is the world in which, the Gaiad argues, the biblical
+And this is the world in which, the {{x|Gaiad}} argues, the biblical
 {{c|Jacob}} and {{c|Joseph}} narratives take place. {{c|Joseph}}'s rise to
 Vizier-level prominence is possible because he is a {{p|Canaanite}}—
 And the pharaoh who appoints him is a {{p|Hyksos}} pharaoh. The
@@ -31739,7 +31739,7 @@ Not the exception; thousands of other {{p|Canaanite}} families were
 Doing the same thing. The biblical narrative sits comfortably
 Inside the {{p|Hyksos}} period.
 
-And the Gaiad makes a further claim: the {{p|Hyksos}} themselves are
+And the {{x|Gaiad}} makes a further claim: the {{p|Hyksos}} themselves are
 Not the villains that later {{p|Egyptian}} historiography made them out
 To be. Later native {{p|Egyptian}} sources—particularly the {{p|New Kingdom}}
 Accounts written after the {{p|Hyksos}} expulsion—would demonize them as
@@ -31785,13 +31785,13 @@ Dynasty adopted local administrative forms while retaining its
 Own linguistic and religious identity.
 
                                              And the {{c|Jacob}} family—
-The future Israelites—were, in the Gaiad's reading, a sub-population
+The future {{c|Israelites}}—were, in the {{x|Gaiad}}'s reading, a sub-population
 Of this larger {{p|Canaanite}} presence in the {{p|Hyksos}}-controlled delta.
 
 They came during the {{p|Hyksos}} period. They flourished during it.
 They were welcomed, even privileged, during it. {{c|Joseph}}'s rise
 Is legible against this background. And the specific tribal names
-That the Gaiad has been tracking—{{c|Reuben}}, {{c|Simeon}}, {{c|Levi}}, {{c|Judah}},
+That the {{x|Gaiad}} has been tracking—{{c|Reuben}}, {{c|Simeon}}, {{c|Levi}}, {{c|Judah}},
 
 {{c|Issachar}}, {{c|Zebulun}}, {{c|Dan}}, {{c|Naphtali}}, {{c|Gad}}, {{c|Asher}}, {{c|Joseph}}
 (Later divided into {{c|Ephraim}} and {{c|Manasseh}}), {{c|Benjamin}}—are the
@@ -31828,7 +31828,7 @@ Welcome and prosperity under the {{p|Hyksos}} pharaoh curdles, over
 Several generations, into a memory of oppression under {{p|New
 Kingdom}} pharaohs who "knew not {{c|Joseph}}." The biblical phrase—
 "a new king arose over {{p|Egypt}} who knew not {{c|Joseph}}"—is, in the
-Gaiad's reading, the moment when the {{p|Eighteenth Dynasty}} restoration
+{{x|Gaiad}}'s reading, the moment when the {{p|Eighteenth Dynasty}} restoration
 
 Ends the {{p|Canaanite}}-friendly era. The new king does not know
 {{c|Joseph}} because {{c|Joseph}} served a {{p|Hyksos}} king, and the new
@@ -31893,12 +31893,12 @@ Purely the people they had joined.
                                            The {{p|Aryan Migration}}.
 
                                                                           Here
-The Gaiad must be careful. The word "{{p|Aryan}}" has been abused in
+The {{x|Gaiad}} must be careful. The word "{{p|Aryan}}" has been abused in
 
 Modern history—used by nineteenth and twentieth century ideologies
 To construct racial hierarchies, to justify conquest and genocide,
 To fabricate a pure-blood master-race that never existed. The
-Gaiad rejects all of that. The "{{p|Aryan}}" people of the ancient world
+{{x|Gaiad}} rejects all of that. The "{{p|Aryan}}" people of the ancient world
 
 Were not a "race"; they were a linguistic and cultural group—
 Speakers of the {{p|Indo-Iranian}} branch of {{p|Indo-European}}, probably
@@ -31910,7 +31910,7 @@ Nothing more supernatural than that. The word "{{p|Aryan}}" in its
 Original context meant, simply, "noble" in the {{p|Indo-Iranian}}
 Languages—a self-designation of the elite warrior class, not a
 
-Racial category. The Gaiad uses the word in its original linguistic
+Racial category. The {{x|Gaiad}} uses the word in its original linguistic
 And cultural sense, with no racial implications.
 
                                                         So: around
@@ -31939,7 +31939,7 @@ Longer the organized urban civilization it had been a thousand
 
 Years earlier.
 
-                    The {{p|Aryan}} arrival is not, in the Gaiad's
+                    The {{p|Aryan}} arrival is not, in the {{x|Gaiad}}'s
 Reading, the cause of the {{p|Indus Valley}} collapse. The collapse
 Was already underway before they arrived—probably driven by climate
 
@@ -31948,7 +31948,7 @@ Shifting of monsoons) and by internal political and economic
 Pressures. The {{p|Aryans}} arrived into an ongoing collapse, not a
 Stable civilization. They filled a partial vacuum. And—crucially—
 
-The Gaiad reads the relationship between the incoming {{p|Aryans}}
+The {{x|Gaiad}} reads the relationship between the incoming {{p|Aryans}}
 And the pre-existing {{p|Dravidian}} and other non-{{p|Aryan}} populations
 As substantially cooperative rather than violently adversarial.
 
@@ -31982,7 +31982,7 @@ Encounter produced what became classical {{p|Hindu}} civilization. The
 
 Approximately fifteen-hundred and twelve-hundred BCE in the
 {{p|Punjab}} and upper {{p|Ganges}} region—are the oldest surviving
-Indo-European religious texts. They preserve the {{p|Aryan}} religious
+{{x|Indo-European}} religious texts. They preserve the {{p|Aryan}} religious
 Imagination in its most archaic form: sky-father {{c|Dyaus}}, storm-god
 
 {{c|Indra}}, fire-god {{c|Agni}}, soma-intoxication ritual, horse sacrifice,
@@ -31992,8 +31992,8 @@ European}}—the same pantheon structure as {{p|Greek}}, {{p|Roman}}, and
 
 {{p|Germanic}} religion, just with different names for the gods. {{c|Dyaus}}
 Is the same as {{c|Zeus}} and {{c|Jupiter}} and {{c|Tyr}} ({{p|German}})—all
-Descended from Proto-Indo-European {{p|Dyeus Phter}} ("sky father").
-{{c|Indra}} is cognate with the Greek {{c|Heracles}} in his storm-god
+Descended from {{x|Proto-Indo-European}} {{p|Dyeus Phter}} ("sky father").
+{{c|Indra}} is cognate with the {{x|Greek}} {{c|Heracles}} in his storm-god
 
 Aspects. The {{p|Vedas}} are {{p|Aryan}} religion in its pure form.
 
@@ -32072,12 +32072,12 @@ The {{p|Dravidian}} languages of the south—{{p|Tamil}}, {{p|Telugu}}, {{p|Kann
 
 Substrate, much as {{p|Basque}} preserves the pre-{{p|Indo-European}}
 Substrate of {{p|Europe}}. The line between {{p|Aryan}} and {{p|Dravidian}}
-India is roughly the boundary between the two great language
+{{p|India}} is roughly the boundary between the two great language
 Families, though bilingualism, literary exchange, and cultural
 
 Mixing have blurred it extensively over the centuries.
 
-The {{p|Aryan Migration}} is not, in the Gaiad's reading, a catastrophe.
+The {{p|Aryan Migration}} is not, in the {{x|Gaiad}}'s reading, a catastrophe.
 It is a transition—one that produced the civilization that would
 Compose the {{p|Vedas}}, the {{p|Upanishads}}, the {{p|Bhagavad Gita}}, the
 
@@ -32171,7 +32171,7 @@ Reigned for approximately twenty-two years. She was astonishingly
 
 Successful. She prioritized trade over warfare—the famous expedition
 To {{p|Punt}} (on the {{p|Red Sea}} coast), which brought back myrrh-trees,
-Incense, exotic animals, and African wealth, was {{c|Hatshepsut}}'s
+Incense, exotic animals, and {{p|African}} wealth, was {{c|Hatshepsut}}'s
 Crowning diplomatic achievement. She built one of the most beautiful
 
 Mortuary temples in {{p|Egypt}}—{{p|Deir el-Bahari}}, on the western bank
@@ -32225,7 +32225,7 @@ Disk, {{c|Aten}}—with himself as the sole intermediary between the
 
 Divine and humanity. This is the famous "{{c|Aten}} heresy" or
 "{{c|Amarna}} revolution"—sometimes celebrated in popular history as the
-First monotheism. The Gaiad's reading is more skeptical. {{c|Akhenaten}}'s
+First monotheism. The {{x|Gaiad}}'s reading is more skeptical. {{c|Akhenaten}}'s
 Religious innovation was not quite monotheism in the {{c|Abrahamic}}
 
 Sense. It retained cosmic elements of the traditional {{p|Egyptian}}
@@ -32244,16 +32244,16 @@ Shares striking similarities with {{p|Psalm 104}} of the {{p|Hebrew
 Bible}}—a parallel that has led some scholars to argue that {{p|Hebrew}}
 
 Monotheism was influenced by or descended from {{c|Akhenaten}}'s
-Earlier experiment. The Gaiad takes a careful position on this:
+Earlier experiment. The {{x|Gaiad}} takes a careful position on this:
 The parallel is real, but the historical transmission is murky,
 And the {{p|Hebrew}} tradition had its own independent development.)
 
-And here the Gaiad makes a specific and possibly provocative claim.
+And here the {{x|Gaiad}} makes a specific and possibly provocative claim.
 {{c|Akhenaten}}, despite his reputation in modern pop-religion as a
-"Proto-monotheist hero," was—in the Gaiad's reading—the pharaoh
+"Proto-monotheist hero," was—in the {{x|Gaiad}}'s reading—the pharaoh
 Who persecuted the {{p|Israelites}}. The "{{p|new king who knew not
 
-Joseph}}" of the {{p|Exodus}} narrative may be, in the Gaiad's reading,
+Joseph}}" of the {{p|Exodus}} narrative may be, in the {{x|Gaiad}}'s reading,
 {{c|Akhenaten}} himself. Why? Because {{c|Akhenaten}}'s religious revolution
 Was anti-foreign-cult. In closing down the temples of the traditional
 {{p|Egyptian}} gods, he also closed down the temples of the {{p|Semitic}}
@@ -32264,7 +32264,7 @@ Family, still preserving their own {{p|Semitic}} religious identity—
 Found themselves religiously suppressed under {{c|Akhenaten}}'s regime.
 
 The irony is striking: {{c|Akhenaten}}, celebrated by modern writers
-As the first monotheist, was in the Gaiad's reading the active
+As the first monotheist, was in the {{x|Gaiad}}'s reading the active
 Persecutor of the {{p|Israelites}}, whose descendants would develop
 The most important monotheism in subsequent world history. The
 
@@ -32328,7 +32328,7 @@ Peoples}}—the great migrations that would contribute to the
 Kingdom}}'s long expansion was ending. The system that had made
 {{c|Ramesses}}'s grandeur possible was straining toward its final
 
-Failure. And the {{p|Exodus}} narrative—which the Gaiad reads as
+Failure. And the {{p|Exodus}} narrative—which the {{x|Gaiad}} reads as
 The {{p|Israelite}} departure from {{p|Egypt}} in the late {{p|Nineteenth
 Dynasty}} or early {{p|Twentieth Dynasty}}—fits into this period of
 Growing instability.
@@ -32343,7 +32343,7 @@ Sixty-six-year reign and his peace treaty with the {{p|Hittites}}. The
 Its peak. The monumental architecture, the international diplomacy,
 The religious upheaval, and the slowly tightening pressures that
 
-Would eventually bring the Bronze Age itself crashing down.
+Would eventually bring the {{x|Bronze Age}} itself crashing down.
 
 {{p|New Kingdom}}. {{c|Hatshepsut}}. {{c|Thutmose III}}. {{c|Akhenaten}}. {{c|Ramesses II}}.
 The {{p|Egyptian}} Empire. The {{p|Kadesh Peace Treaty}}. The persecution of
@@ -32379,7 +32379,7 @@ A literate, bureaucratic, well-documented civilization. And when
 
 The archives at {{p|Hattusa}} were rediscovered in the late nineteenth
 And early twentieth centuries, they revolutionized our understanding
-Of the Bronze Age.
+Of the {{x|Bronze Age}}.
 
                            The {{p|Hittite}} kingdom—or {{p|Hatti}}, as it
 Called itself—was founded around seventeen-fifty BCE by {{c|Anitta}},
@@ -32410,7 +32410,7 @@ Rulers: {{c|Suppiluliuma I}}, {{c|Mursili II}}, {{c|Muwatalli II}}, {{c|Hattusil
 {{c|Tudhaliya IV}}. The empire controlled central and eastern {{p|Anatolia}},
 Northern {{p|Syria}}, and much of the {{p|Levant}} (in competition and
 Occasional cooperation with {{p|Egypt}}). The {{p|Hittites}} were the
-Northern pole of a bipolar Bronze Age political system in which
+Northern pole of a bipolar {{x|Bronze Age}} political system in which
 
 {{p|Egypt}} was the southern pole. The two empires met, diplomatically
 Or militarily, at their mutual border zone in {{p|Syria}} and the
@@ -32462,7 +32462,7 @@ Peace treaty in human history. A copy of the {{p|Hittite}} version on
 Silver is displayed at the {{p|United Nations}} building in {{p|New York}}
 As a symbolic precedent for modern international diplomacy. The
 Treaty held for the rest of both empires' existences—the {{p|Hittite}}
-Empire would collapse in the Bronze Age Collapse around twelve
+Empire would collapse in the {{x|Bronze Age Collapse}} around twelve
 
 Hundred BCE, and {{p|Egypt}} would never again face a northern rival
 On the scale of {{p|Hatti}} until the rise of {{p|Assyria}} centuries
@@ -32477,7 +32477,7 @@ Usual pantheon) but heavily syncretized with {{p|Anatolian}} and
 
 {{p|Hurrian}} elements absorbed from their neighbors and subject
 Populations. The {{p|Hittites}} famously called their kingdom the
-"Land of the Thousand Gods"—they incorporated every deity of every
+"{{x|Land of the Thousand Gods}}"—they incorporated every deity of every
 Conquered territory into their expanding pantheon, rather than
 
 Suppressing local cults. This made {{p|Hittite}} religion tolerant and
@@ -32502,7 +32502,7 @@ World. Whether that is true or whether it reflected specific
 
 {{p|Anatolian}} circumstances is debated. But the {{p|Hittite}} legal
 Tradition was noticeably less retributive than its southern
-Mesopotamian counterpart.
+{{p|Mesopotamian}} counterpart.
 
 And the {{p|Hittites}} in the biblical record—this is interesting. The
 {{p|Hebrew Bible}} mentions "{{c|Hittites}}" repeatedly as one of the
@@ -32523,7 +32523,7 @@ Takes shape, but its cultural and ethnic remnants persisted for
 Several more centuries.
 
                               And the fall of the {{p|Hittite}} Empire
-Is, the Gaiad has already indicated, part of the Bronze Age Collapse.
+Is, the {{x|Gaiad}} has already indicated, part of the {{x|Bronze Age Collapse}}.
 Around twelve-hundred BCE, the {{p|Hittite}} capital {{p|Hattusa}} was
 
 Sacked and burned. The {{p|Hittite}} central administration collapsed.
@@ -32533,10 +32533,10 @@ Debated—probably a combination of the {{p|Sea Peoples}} raids, internal
 
 Rebellions (possibly by the {{p|Kaska}} tribes of the {{p|Black Sea}} coast),
 Climate-induced famine, and the general systemic failure of the
-Bronze Age international system. Whatever the cause, the {{p|Hittite}}
+{{x|Bronze Age}} international system. Whatever the cause, the {{p|Hittite}}
 Empire ended suddenly and catastrophically, more so than any other
 
-Major Bronze Age civilization. {{p|Egypt}} survived, diminished. {{p|Assyria}}
+Major {{x|Bronze Age}} civilization. {{p|Egypt}} survived, diminished. {{p|Assyria}}
 Survived, briefly interrupted. {{p|Babylon}} survived, under {{p|Kassite}}
 Rule. But the {{p|Hittites}} as an imperial civilization were gone
 Within a generation. Their capital was abandoned and forgotten.
@@ -32561,22 +32561,22 @@ Reconstructed.
 
                   {{p|Hittites}}. The first great {{p|Indo-European}} empire.
 The sack of {{p|Babylon}}. The rivalry with {{p|Egypt}}. The {{p|Kadesh}} peace
-Treaty. The "Land of the Thousand Gods." The law code less brutal
+Treaty. The "{{x|Land of the Thousand Gods}}." The law code less brutal
 
 Than {{c|Hammurabi}}'s. The capital at {{p|Hattusa}} and its archive.
-The collapse in the Bronze Age Collapse. The three thousand years
+The collapse in the {{x|Bronze Age Collapse}}. The three thousand years
 Of forgetting. The twentieth-century rediscovery. The reconstruction
 Of a lost civilization from its hidden tablets.
 
 {{p|Hittites}}. {{p|Hattusa}}. {{p|Kadesh}}. The {{c|R1b}}-haplogroup empire of
-{{p|Anatolia}}. The northern pole of Bronze Age political order. The
+{{p|Anatolia}}. The northern pole of {{x|Bronze Age}} political order. The
 Forgotten and rediscovered empire.
 
 
 # Chapter 158: The Mycenaeans
 
 And in the west, on the southern tip of the {{p|Greek}} mainland and
-Across the {{p|Aegean}} islands, a third great Bronze Age civilization
+Across the {{p|Aegean}} islands, a third great {{x|Bronze Age}} civilization
 Was reaching its peak. {{p|Mycenaean Greece}}.
 
                                                    Named for {{p|Mycenae}},
@@ -32584,14 +32584,14 @@ The citadel on a hill in the {{p|Argolid}} whose massive "{{p|Cyclopean}}"
 Walls of unmortared limestone blocks, some weighing over twenty tons,
 Dominated the landscape. {{p|Mycenae}} was the political and cultural
 
-Center of the Bronze Age {{p|Greek}} world. Other major centers were
+Center of the {{x|Bronze Age}} {{p|Greek}} world. Other major centers were
 At {{p|Tiryns}}, {{p|Pylos}}, {{p|Athens}} (already a settled site, though
 Not yet the city it would become), {{p|Thebes}}, {{p|Orchomenos}}, and
 Several others. The {{p|Mycenaean}} civilization emerged around sixteen
 
 Hundred BCE—roughly contemporary with the {{p|New Kingdom}} beginning
 In {{p|Egypt}} and the {{p|Hittite}} kingdom consolidating in {{p|Anatolia}}—
-And flourished until the Bronze Age Collapse around twelve hundred BCE.
+And flourished until the {{x|Bronze Age Collapse}} around twelve hundred BCE.
 
 The {{p|Mycenaeans}} were {{c|R1b}}-haplogroup {{p|Indo-European}}-speakers—
 Descendants of the {{p|Yamnaya}} expansion that had reached {{p|Greece}} in
@@ -32604,7 +32604,7 @@ Written in a syllabic script called {{p|Linear B}}—adapted from the
 Ancient scripts, demonstrated that {{p|Linear B}} was used to write
 
 Early {{p|Greek}}. The achievement is one of the most celebrated in
-The history of decipherment. It opened up an entire Bronze Age
+The history of decipherment. It opened up an entire {{x|Bronze Age}}
 Civilization to modern understanding. We can read the {{p|Linear B}}
 Tablets recovered from {{p|Pylos}}, {{p|Knossos}}, {{p|Mycenae}}, and other
 
@@ -32624,9 +32624,9 @@ And above the bureaucratic record, the {{p|Mycenaean}} world was also
 A warrior society. The {{p|Mycenaean}} elite warriors—depicted in
 Frescoes, buried with bronze swords and boar's-tusk helmets and
 
-Gold-masked faces—were an Indo-European warrior aristocracy of the
+Gold-masked faces—were an {{x|Indo-European}} warrior aristocracy of the
 Type that the {{p|Yamnaya}} expansion had produced across the
-Indo-European world. The shaft-graves at {{p|Mycenae}}, excavated by
+{{x|Indo-European}} world. The shaft-graves at {{p|Mycenae}}, excavated by
 {{c|Heinrich Schliemann}} in eighteen-seventy-six, contained gold funerary
 
 Masks (including the famous "{{p|Mask of Agamemnon}}," though the
@@ -32677,15 +32677,15 @@ Olive oil, wine, textiles, and their distinctive pottery. The
 Every direction, moving goods that the palaces redistributed and
 Taxed. The palatial economy was in the middle of the trade network,
 And the wealth that flowed through it made {{p|Mycenae}} and its
-Sister-cities genuinely rich by Bronze Age standards.
+Sister-cities genuinely rich by {{x|Bronze Age}} standards.
 
 And one episode from this period—probably around the end of the
-Thirteenth century BCE, shortly before the Bronze Age Collapse—
+Thirteenth century BCE, shortly before the {{x|Bronze Age Collapse}}—
 Would become the greatest memorial narrative in {{p|Western}} literature.
 The {{p|Trojan War}}.
 
                          The historicity of the {{p|Trojan War}} is
-Debated but, the Gaiad accepts, broadly real. There was a city
+Debated but, the {{x|Gaiad}} accepts, broadly real. There was a city
 At {{p|Troy}} (the site called {{p|Hisarlik}} in northwestern {{p|Turkey}}),
 And it was destroyed by violence, and the destruction can be dated
 
@@ -32708,7 +32708,7 @@ In the heroic costume of the oral tradition, compressing and
 Elaborating and fictionalizing, but the historical kernel was there.
 
                                                                             And
-The {{p|Mycenaean}} civilization is, the Gaiad argues, the {{p|Greek}}
+The {{p|Mycenaean}} civilization is, the {{x|Gaiad}} argues, the {{p|Greek}}
 Contribution to the {{p|Bronze Age Collapse}} chapter. Within a
 
 Generation or two after the {{p|Trojan War}}, the {{p|Mycenaean}} palaces
@@ -32718,10 +32718,10 @@ Survive—they were baked hard by the fire instead of being allowed
 
 To dissolve in the normal way). The entire palatial civilization
 Collapsed in a generation around twelve-hundred BCE. The cause was
-The general Bronze Age Collapse—{{p|Sea Peoples}} raids, possibly
+The general {{x|Bronze Age Collapse}}—{{p|Sea Peoples}} raids, possibly
 Internal rebellions by the servile population, climate pressures,
 
-And the systemic failure of the Bronze Age international trade
+And the systemic failure of the {{x|Bronze Age}} international trade
 Network. The {{p|Mycenaean}} palaces went down in a coordinated wave
 Of destructions that archaeologists can date, across many sites,
 To the same twenty-year window. The civilization did not recover.
@@ -32739,7 +32739,7 @@ Via the {{p|Phoenician}} alphabet, around the eighth century BCE—the
 {{p|Greeks}} were a completely different civilization from what the
 {{p|Mycenaeans}} had been. They had forgotten {{p|Linear B}} entirely. They
 Had forgotten the palace economies. They had forgotten, in most
-Cases, the specific historical geography of their Bronze Age
+Cases, the specific historical geography of their {{x|Bronze Age}}
 
 Predecessors. What they remembered was the heroic poetry—the songs
 About {{c|Achilles}} and {{c|Odysseus}} and {{c|Agamemnon}} that had been
@@ -32752,7 +32752,7 @@ Was working from this oral tradition. The poems preserve fragments
 Of {{p|Mycenaean}} material culture (the boar's-tusk helmet, the
 
 Catalog of ships, certain personal names, certain geographical
-References) that must have been transmitted from the Bronze Age
+References) that must have been transmitted from the {{x|Bronze Age}}
 Without being archaeologically rediscovered until the nineteenth
 Century. {{c|Homer}} knew things about the {{p|Mycenaean}} world that he
 
@@ -32771,7 +32771,7 @@ In {{c|Nonnus of Panopolis}}'s late antique epic {{p|Dionysiaca}}—a
 Forty-eight-book epic that is the longest surviving poem of
 
 Classical antiquity. The story is historically fantastical. But
-The Gaiad takes it as an eastward gesture, a pointing toward the
+The {{x|Gaiad}} takes it as an eastward gesture, a pointing toward the
 Connection between the {{p|Mediterranean}} and {{p|Indian}} worlds that will
 Become increasingly important in later chapters. {{c|Dionysus}} into
 
@@ -32783,7 +32783,7 @@ That suggest deeper awareness of each other than the strict
 Archaeological record demonstrates. The {{p|Mycenaean}} world, at its
 Height, was in communication with {{p|Anatolia}}, {{p|Syria}}, {{p|Egypt}}, and
 Probably indirectly with {{p|Mesopotamia}} and beyond. The cultural
-Connections of the late Bronze Age were real and extensive. And
+Connections of the late {{x|Bronze Age}} were real and extensive. And
 
 The myths preserve traces of those connections, even after the
 Archaeological and documentary evidence has fragmented.
@@ -32797,7 +32797,7 @@ Age civilization of the {{p|Aegean}} at its peak. The palace economies,
 The warrior aristocracy, the syncretic absorption of {{p|Minoan}}
 Culture. And then—in a generation—the collapse.
 
-{{p|Mycenaean Greece}}. The warrior civilization. The Bronze Age peak.
+{{p|Mycenaean Greece}}. The warrior civilization. The {{x|Bronze Age}} peak.
 The foundation of {{p|Greek}} identity that would be preserved through
 The {{p|Dark Age}} in oral poetry and recovered, in attenuated form,
 When {{c|Homer}} sang the songs that became the {{p|Iliad}} and {{p|Odyssey}}.
@@ -32807,7 +32807,7 @@ When {{c|Homer}} sang the songs that became the {{p|Iliad}} and {{p|Odyssey}}.
 
 # Chapter 159: The Ramayana
 
-And now the great swerve of the Gaiad. The moment where the
+And now the great swerve of the {{x|Gaiad}}. The moment where the
 Narrative crosses all the rational chronologies and follows the
 Thread of mythic resonance instead. The {{p|Ramayana}}.
 
@@ -32824,15 +32824,15 @@ Bridge across the ocean. They invade {{p|Lanka}}. They defeat {{c|Ravana}}.
 They recover {{c|Sita}}. They return to {{p|Ayodhya}} and {{c|Rama}} is restored
 To his throne. The epic is one of the foundational {{p|Sanskrit}}
 Texts, composed probably between the seventh and fourth centuries
-BCE, though its oral roots go much deeper—perhaps to the Vedic
+BCE, though its oral roots go much deeper—perhaps to the {{x|Vedic}}
 
-Period, perhaps to the Aryan migration itself. And the text is
+Period, perhaps to the {{x|Aryan}} migration itself. And the text is
 Usually read as purely {{p|Indian}}: a story of northern {{p|India}}
 Conquering southern {{p|India}}, or of {{p|Indo-Aryan}} peoples subduing
 {{p|Dravidian}} peoples, or of cosmic dharma triumphing over demonic
 
-Adharma. All of these readings are valid. But the Gaiad reads the
-{{p|Ramayana}} differently. The Gaiad reads the {{p|Ramayana}} as evidence
+{{x|Adharma}}. All of these readings are valid. But the {{x|Gaiad}} reads the
+{{p|Ramayana}} differently. The {{x|Gaiad}} reads the {{p|Ramayana}} as evidence
 Of something extraordinary: that the {{p|Indo-European}} diaspora,
 Which by the second millennium BCE had spread from {{p|Ireland}} to
 
@@ -32846,8 +32846,8 @@ The prince raises an army of allies. The army crosses the sea
 To a fortified island or peninsula where the abductor rules.
 The siege lasts years. Eventually the fortress falls, the wife
 
-Is recovered, the villain is slain. In the Greek case: {{c|Menelaus}},
-{{c|Helen}}, {{c|Paris}}, {{p|Troy}}, the {{p|Achaean}} coalition. In the Indian case:
+Is recovered, the villain is slain. In the {{x|Greek}} case: {{c|Menelaus}},
+{{c|Helen}}, {{c|Paris}}, {{p|Troy}}, the {{p|Achaean}} coalition. In the {{p|Indian}} case:
 {{c|Rama}}, {{c|Sita}}, {{c|Ravana}}, {{p|Lanka}}, the monkey army. The parallels are
 Not superficial. They are structural. They extend to specific
 
@@ -32862,7 +32862,7 @@ At the extreme western and eastern ends of the diaspora, recognized
 For what they are only when scholars began comparing myths across
 
 Traditions in the nineteenth and twentieth centuries CE. And the
-Gaiad goes further. The Gaiad proposes that {{c|Rama}} is not only
+{{x|Gaiad}} goes further. The {{x|Gaiad}} proposes that {{c|Rama}} is not only
 A structural parallel of the {{p|Trojan War}}. {{c|Rama}}'s expedition
 Also resonates with {{p|Egyptian}} and {{p|Ethiopian}} narratives of
 
@@ -32878,13 +32878,13 @@ As dark-blue or dark-skinned—links him visually to both the
 
 In some esoteric readings, the {{p|Ramayana}} is not a story about
 {{p|India}} at all but about the whole human civilization of the
-Bronze Age, refracted through the {{p|Indian}} tradition into a local
-And specific form. The Gaiad entertains these readings. The Gaiad
+{{x|Bronze Age}}, refracted through the {{p|Indian}} tradition into a local
+And specific form. The {{x|Gaiad}} entertains these readings. The {{x|Gaiad}}
 
 Entertains them not as claims of literal historical fact but as
 Recognitions of deep mythic unity. The {{p|Ramayana}} is the {{p|Indian}}
 Reflex of a narrative complex that humanity as a whole was
-Generating in the late Bronze Age—a complex that also produced
+Generating in the late {{x|Bronze Age}}—a complex that also produced
 
 The {{p|Iliad}}, the {{p|Egyptian}} stories of the war against {{p|Hyksos}}
 And {{p|Sea Peoples}}, the {{p|Hebrew}} narrative of {{c|Moses}} leading his
@@ -32894,7 +32894,7 @@ People out of bondage, the {{p|Hittite}} accounts of the battle of
 Specific contents. But a common structural feature: the
 Confrontation with a powerful adversary, the long siege or long
 Journey, the eventual restoration of righteous order. This is
-The shared grammar of Bronze Age civilizational narrative.
+The shared grammar of {{x|Bronze Age}} civilizational narrative.
 
                                                            And
 {{c|Rama}}'s dharma—the concept of righteous conduct, duty, the
@@ -32949,7 +32949,7 @@ The three wander the forests of central {{p|India}} for years. And then,
 While {{c|Rama}} is distracted by a magical deer, {{c|Ravana}} abducts {{c|Sita}}
 
 And carries her to {{p|Lanka}}. The demon-king {{c|Ravana}} rules from
-{{p|Lanka}}—in traditional Indian geography identified with {{p|Sri Lanka}},
+{{p|Lanka}}—in traditional {{p|Indian}} geography identified with {{p|Sri Lanka}},
 Though some scholars have proposed other locations. {{c|Ravana}} has ten
 Heads, twenty arms, enormous magical power, and a fortified island
 
@@ -32986,7 +32986,7 @@ Righteous order is restored.
 In {{c|Ravana}}'s palace for months. Has she been violated? She insists
 
 She has not. {{c|Rama}} demands proof. {{c|Sita}} walks into a fire—the
-Agnipariksha, the trial by fire. The fire-god {{c|Agni}} refuses to
+{{x|Agnipariksha}}, the trial by fire. The fire-god {{c|Agni}} refuses to
 Burn her. She emerges unharmed. Her chastity is vindicated. They
 Return to {{p|Ayodhya}} and {{c|Rama}} is crowned king. His reign is the
 
@@ -33029,7 +33029,7 @@ The {{p|Ramayana}} is a shared civilizational text of Southeast
 {{p|Asian}} {{p|Indic}} culture. And its influence extends westward too.
 
 In {{p|Tibet}} the {{p|Ramayana}} appears in {{p|Buddhist}} recension. In {{p|Mongolia}}.
-In {{p|Central Asia}}. In {{p|Ethiopia}}—and this is where the Gaiad's deepest
+In {{p|Central Asia}}. In {{p|Ethiopia}}—and this is where the {{x|Gaiad}}'s deepest
 Claim becomes interesting—there are traditions that connect {{c|Rama}}
 To {{p|African}} figures. Some {{p|Ethiopian}} traditions associate {{c|Rama}} with
 
@@ -33038,13 +33038,13 @@ Of divine pharaohs. Some traditions propose that {{c|Rama}} and {{c|Ravana}}
 Are structurally related to {{c|Horus}} and {{c|Seth}}, the {{p|Egyptian}} brothers
 Whose conflict structures so much of {{p|Egyptian}} theology. The
 
-Gaiad does not insist on these connections. They are speculative.
+{{x|Gaiad}} does not insist on these connections. They are speculative.
 They operate at the level of poetic rather than historical truth.
 But they are part of the living imagination of how civilizations
 Remember themselves and each other. The {{p|Ramayana}}, in this reading,
 
-Is a window onto a moment in Bronze Age history when the whole
-Mediterranean and {{p|Indian Ocean}} world was engaged in a single
+Is a window onto a moment in {{x|Bronze Age}} history when the whole
+{{p|Mediterranean}} and {{p|Indian Ocean}} world was engaged in a single
 Great conversation about the nature of kingship, the recovery of
 Stolen queens, and the restoration of cosmic order. The {{p|Ramayana}}
 
@@ -33054,8 +33054,8 @@ Narratives that did span that whole world, and that remembered
 That whole world as sharing a common civilizational project.
 
                                                                And
-This is the meaning of the great swerve of the Gaiad. The meaning
-Of pausing the Bronze Age collapse chronology long enough to tell
+This is the meaning of the great swerve of the {{x|Gaiad}}. The meaning
+Of pausing the {{x|Bronze Age}} collapse chronology long enough to tell
 The {{p|Ramayana}}. It is a reminder that humanity, even in the age
 
 Of warring empires and isolating geographies, was already one
@@ -33066,7 +33066,7 @@ These were not isolated civilizations. They were nodes in a
 Network. Their myths resonated. Their heroes were cognate. Their
 Gods were translatable. Their kings corresponded with each other
 In {{p|Akkadian}} cuneiform across thousands of miles. And when the
-Bronze Age system collapsed around twelve-hundred BCE, it was
+{{x|Bronze Age}} system collapsed around twelve-hundred BCE, it was
 
 Not the collapse of isolated local civilizations. It was the
 Collapse of an integrated world. The {{p|Ramayana}} preserves, in
@@ -33081,12 +33081,12 @@ Into specific cultural forms, but grounded in a common grammar.
 The {{p|Ramayana}} is the eastern reflection of that common grammar.
 The {{p|Iliad}} is the western reflection. The {{p|Exodus}} is the southern
 Reflection. The sack of {{p|Hattusa}} is the northern reflection. Four
-Great narratives of Bronze Age crisis and transformation. Four
+Great narratives of {{x|Bronze Age}} crisis and transformation. Four
 
-Local instantiations of a shared civilizational moment. The Gaiad
+Local instantiations of a shared civilizational moment. The {{x|Gaiad}}
 Honors this by telling them together. Not as isolated stories of
 Isolated peoples, but as resonances of a single crisis in the
-Integrated Bronze Age world.
+Integrated {{x|Bronze Age}} world.
 
                                {{c|Rama}}. {{c|Sita}}. {{c|Hanuman}}. {{c|Ravana}}.
 {{p|Ayodhya}}. {{p|Lanka}}. {{p|Ram Setu}} bridge across the sea. The seven-hundred
@@ -33095,7 +33095,7 @@ Kings who take {{c|Rama}}'s name. The {{p|Javanese}} shadow puppets that
 
 Dance {{c|Rama}}'s war. The {{p|Cambodian}} temple walls that carve {{c|Ravana}}'s
 Fall. The deep structural parallel with the {{p|Trojan War}}. The
-Civilizational memory, preserved in verse, of a Bronze Age world
+Civilizational memory, preserved in verse, of a {{x|Bronze Age}} world
 That thought itself as one world.
 
                                      The {{p|Ramayana}}. Eastern reflex
@@ -33107,7 +33107,7 @@ Humanity's unity at the moment of greatest apparent fragmentation.
 
 Three events. Perhaps. Perhaps more than three. Perhaps a single
 Event refracted into three narratives. Around twelve-hundred BCE,
-The Bronze Age world shattered.
+The {{x|Bronze Age}} world shattered.
 
                                  Begin with what archaeology knows.
 Between twelve-twenty-five and eleven-seventy-five BCE, over a
@@ -33124,20 +33124,20 @@ Abandoned. {{p|Knossos}}, on {{p|Crete}}: destroyed. {{p|Troy}} (the archaeologi
 Layer {{p|Troy VIIa}}): destroyed around twelve-hundred BCE. The
 {{p|Egyptian}} Empire: severely damaged, retreating from its {{p|Levantine}}
 
-Provinces. The {{p|Kassite}} Babylonian kingdom: fatally weakened. The
-{{p|Elamite}} kingdom: disrupted. Cyprus: raided. The cities of {{p|Canaan}}:
+Provinces. The {{p|Kassite}} {{p|Babylonian}} kingdom: fatally weakened. The
+{{p|Elamite}} kingdom: disrupted. {{p|Cyprus}}: raided. The cities of {{p|Canaan}}:
 Many destroyed. {{p|Emar}}, {{p|Kadesh}}, {{p|Alalakh}}, {{p|Gath}}: destroyed. Only a
-Few Bronze Age states survived intact: {{p|Egypt}} (barely, much
+Few {{x|Bronze Age}} states survived intact: {{p|Egypt}} (barely, much
 
 Diminished), {{p|Assyria}} (temporarily eclipsed), {{p|Babylon}} (under new
 Management). The rest vanished. Writing systems were lost: {{p|Linear B}}
 Disappeared from the {{p|Aegean}}; {{p|Hittite}} cuneiform died with {{p|Hattusa}};
-The whole corpus of Bronze Age diplomatic correspondence ceased.
+The whole corpus of {{x|Bronze Age}} diplomatic correspondence ceased.
 
 Population fell catastrophically—in some regions by as much as
 Ninety percent. Trade networks that had linked {{p|Mycenae}} to
 {{p|Ugarit}} to {{p|Egypt}} to {{p|Mesopotamia}} to {{p|Cyprus}} to {{p|Sardinia}} collapsed.
-The whole integrated Bronze Age world fell apart at once.
+The whole integrated {{x|Bronze Age}} world fell apart at once.
 
                                                             What
 Caused this? Historians have proposed many factors. No single
@@ -33146,13 +33146,13 @@ Simultaneously. First: climate change. Tree-ring and sediment data
 
 Indicate a severe drought in the {{p|Mediterranean}} and {{p|Near East}}
 Between approximately twelve-fifty and eleven-fifty BCE. The drought
-Lasted for decades and was the most severe of the entire Bronze Age.
+Lasted for decades and was the most severe of the entire {{x|Bronze Age}}.
 Agricultural yields collapsed. Famines followed. Second: earthquakes.
 
 Archaeological evidence suggests a series of severe earthquakes
 Devastated {{p|Aegean}} and {{p|Anatolian}} cities during this period. Many
 Destruction layers show seismic damage preceding or accompanying
-The burning. Third: internal rebellion. Bronze Age palatial
+The burning. Third: internal rebellion. {{x|Bronze Age}} palatial
 
 Economies were highly stratified: palace elites extracted grain and
 Labor from peasant populations, and the system depended on the
@@ -33165,7 +33165,7 @@ The most famous are the {{p|Sea Peoples}}—a coalition of seaborne
 Raiders whose name is known only from {{p|Egyptian}} inscriptions at
 
 {{p|Medinet Habu}} and elsewhere. {{c|Ramesses III}}, the last great pharaoh
-Of the New Kingdom, fought the {{p|Sea Peoples}} in two massive
+Of the {{x|New Kingdom}}, fought the {{p|Sea Peoples}} in two massive
 Engagements around eleven-seventy BCE. His victory saved {{p|Egypt}}
 From total conquest but could not save the {{p|Levantine}} provinces.
 
@@ -33197,7 +33197,7 @@ Show {{p|Aegean}} affinities. They were probably {{p|Mycenaean}} refugees
 Establishing a foothold in {{p|Canaan}} after the collapse.
 
                                                          And fifth:
-Systems collapse. Even absent any single cause, the Bronze Age
+Systems collapse. Even absent any single cause, the {{x|Bronze Age}}
 International system had grown fragile in its complexity. Far-
 
 Flung trade networks depended on the continuous functioning of
@@ -33227,18 +33227,18 @@ System of the {{p|Mediterranean}} (it was simpler, more democratic,
 
 Less dependent on centralized scribal classes). Small city-states
 And tribal confederations replaced the large palatial kingdoms
-Of the Bronze Age. The {{p|Phoenicians}}, the {{p|Greeks}} emerging from
-Their Dark Age, the {{p|Israelites}}, the {{p|Neo-Hittite}} states of northern
+Of the {{x|Bronze Age}}. The {{p|Phoenicians}}, the {{p|Greeks}} emerging from
+Their {{x|Dark Age}}, the {{p|Israelites}}, the {{p|Neo-Hittite}} states of northern
 
 {{p|Syria}}, the {{p|Aramean}} kingdoms—these were the new political forms.
-Smaller, more distributed, less top-heavy. The Bronze Age world
+Smaller, more distributed, less top-heavy. The {{x|Bronze Age}} world
 Of god-kings and thousand-god pantheons gave way, gradually, to
-The Iron Age world of ethnically defined nations, tribal gods
+The {{x|Iron Age}} world of ethnically defined nations, tribal gods
 
 With universalist pretensions, and eventually the first stirrings
 Of genuine monotheism. That transformation is the subject of the
 Next several chapters. But here, in this chapter, we must also
-Tell the other two events: the Exodus and the Trojan War.
+Tell the other two events: the {{x|Exodus}} and the {{x|Trojan War}}.
 
 Consider first the {{p|Exodus}}. According to the biblical narrative,
 {{c|Moses}} led the {{p|Israelites}} out of {{p|Egyptian}} bondage through a
@@ -33260,7 +33260,7 @@ To "{{p|Israel}}" as a people in {{p|Canaan}}—the stele boasts that
 As a recognizable entity in {{p|Canaan}} by that date. This gives a
 Rough terminus ante quem: however and whenever the {{p|Israelites}}
 
-Got to {{p|Canaan}}, they were there by twelve-oh-nine BCE. The Gaiad
+Got to {{p|Canaan}}, they were there by twelve-oh-nine BCE. The {{x|Gaiad}}
 Has already treated the specific narrative of {{c|Moses}} and the
 {{p|Exodus}}—and will revisit it briefly here, because the {{p|Exodus}}
 Is now recognizable as part of the broader {{p|Bronze Age Collapse}}.
@@ -33272,11 +33272,11 @@ Covenant at {{p|Sinai}}, wilderness wandering, conquest—became the
 
 Foundational narrative of {{p|Hebrew}} religion and identity. But the
 Structural fact underlying that narrative is that groups were
-Coming out of {{p|Egypt}} and entering {{p|Canaan}} during the Bronze Age
+Coming out of {{p|Egypt}} and entering {{p|Canaan}} during the {{x|Bronze Age}}
 Collapse era. The {{p|Israelite}} religious memory preserves, in
 
 Literary form, the experience of a people being born into
-Historical existence during the collapse of the Bronze Age
+Historical existence during the collapse of the {{x|Bronze Age}}
 International system. The shattering of the old order—the plagues,
 The arbitrary violence of pharaohs, the sudden possibility of
 
@@ -33293,7 +33293,7 @@ Seventy-four BCE—right at the beginning of the collapse. In the
 Archaeological dating, {{p|Troy VIIa}} (the layer most plausibly
 Identified with {{p|Homeric}} {{p|Troy}}) was destroyed around twelve-
 Hundred BCE—right in the middle of the collapse. In either case,
-The war that {{p|Homer}} describes is a Late Bronze Age event
+The war that {{p|Homer}} describes is a Late {{x|Bronze Age}} event
 
 Occurring during the collapse. The {{p|Achaean}} coalition of {{p|Mycenaean}}
 Kings sailing eastward to sack a fortified city on the {{p|Anatolian}}
@@ -33305,10 +33305,10 @@ Reality) probably over trade rights, tribute, the control of the
 {{p|Dardanelles}}, or simply the raiding opportunities available in a
 Destabilizing world. The {{p|Trojan War}} is the {{p|Greek}} memory of the
 
-Late Bronze Age as it shuddered toward its end. Shortly after
+Late {{x|Bronze Age}} as it shuddered toward its end. Shortly after
 The war, the palaces that launched it were themselves destroyed.
 {{c|Agamemnon}}'s {{p|Mycenae}} burned within a generation of his victorious
-Return. {{c|Odysseus}}'s {{p|Ithaca}} faded into the Dark Age. The victors
+Return. {{c|Odysseus}}'s {{p|Ithaca}} faded into the {{x|Dark Age}}. The victors
 
 Of {{p|Troy}} outlived their victory by less than a century. Their
 Fall is implicit in the structure of the epic—{{p|Homer}} composes his
@@ -33318,15 +33318,15 @@ Four centuries at a vanished world. {{c|Agamemnon}}'s {{p|Mycenae}} is, for
 {{p|Homer}}, already legend. The gold and bronze and chariots and
 Hundred-rowered ships—these are not part of {{p|Homer}}'s own world.
 They are remembered from the lost world. The {{p|Iliad}} and the
-{{p|Odyssey}} are Dark Age preservations of Bronze Age memory. And
+{{p|Odyssey}} are {{x|Dark Age}} preservations of {{x|Bronze Age}} memory. And
 
 That memory centers on a war that was itself the last coherent
 Expedition of the collapsing civilization.
 
                                              Three events. The
-{{p|Exodus}}. The {{p|Trojan War}}. The general collapse. The Gaiad reads them
+{{p|Exodus}}. The {{p|Trojan War}}. The general collapse. The {{x|Gaiad}} reads them
 
-As three reflexes of a single Bronze Age crisis. Three cultural
+As three reflexes of a single {{x|Bronze Age}} crisis. Three cultural
 Memories of what it was like to live through the shattering. In
 The {{p|Hebrew}} case: slavery, miraculous deliverance, covenant, the
 Forging of a new identity grounded in religious law. In the {{p|Greek}}
@@ -33338,9 +33338,9 @@ The forging of new ethnic groupings in the ruins. Each culture
 
 Processed the collapse in its own way. Each memory is partial and
 Reshaped. But all three memories are responses to the same
-Historical event: the end of the integrated Bronze Age world.
+Historical event: the end of the integrated {{x|Bronze Age}} world.
 
-And the Gaiad makes a theological claim about this moment. The
+And the {{x|Gaiad}} makes a theological claim about this moment. The
 
 Collapse was not merely a disaster. It was also a birthing. In
 The rubble of the palatial economies, the preconditions for new
@@ -33352,24 +33352,24 @@ Idea of divine authority had to migrate elsewhere. It migrated
 Into text—{{p|Hebrew}} scripture in one line, {{p|Homeric}} epic in another,
 Eventually the philosophical writings of {{p|Greeks}} and {{p|Persians}} and
 
-{{p|Indians}} and {{p|Chinese}}. The Axial Age that follows—the great
+{{p|Indians}} and {{p|Chinese}}. The {{x|Axial Age}} that follows—the great
 Religious and philosophical revolution of the sixth century BCE,
 Which will produce {{c|Buddha}}, {{c|Confucius}}, {{c|Laozi}}, {{c|Mahavira}}, the
 {{p|Hebrew}} prophets, {{c|Zarathustra}}, the pre-Socratic {{p|Greeks}}—this
 
-Axial Age is possible because the Bronze Age god-kings have fallen.
+{{x|Axial Age}} is possible because the {{x|Bronze Age}} god-kings have fallen.
 Their collapse cleared the cultural space for new kinds of
 Religious imagination. Gods without kings. Kings without divinity.
 Ethical demands issued by transcendent sources rather than by
 
 Political rulers. Textual canons preserving religious authority
 Across political disruptions. These were all possible because the
-Bronze Age had ended. The collapse was the death of one mode of
+{{x|Bronze Age}} had ended. The collapse was the death of one mode of
 Religious life, but it was also the preparation for another. The
 
-Gaiad sees the hand of something vast in this: not providence in
+{{x|Gaiad}} sees the hand of something vast in this: not providence in
 The traditional sense, but the self-correcting, self-elaborating
-Unfolding of human religious possibility. The Bronze Age
+Unfolding of human religious possibility. The {{x|Bronze Age}}
 Civilizational system had reached its limit. Its fall made room
 
 For what came next.
@@ -33383,7 +33383,7 @@ Saving {{p|Egypt}} at {{p|Medinet Habu}}. {{p|Hattusa}} burning. {{p|Mycenae}} b
 The alphabet spreading. Iron replacing bronze. The palatial
 Kingdoms dying, the small nations being born. The end of the
 
-Integrated Bronze Age world.
+Integrated {{x|Bronze Age}} world.
 
                               {{p|Exodus}}, {{p|Trojan War}}, {{p|Bronze Age Collapse}}.
 Three names. One crisis. One birthing. The next three millennia
@@ -33397,7 +33397,7 @@ Is also transforming. The {{p|Shang Dynasty}} of {{p|China}}, which has ruled
 The {{p|Yellow River}} valley for nearly six centuries, falls to a rising
 Power from the west: the {{p|Zhou}}.
 
-                                     The {{p|Shang}}, as the Gaiad has
+                                     The {{p|Shang}}, as the {{x|Gaiad}} has
 Already noted, were the first historically documented {{p|Chinese}}
 Dynasty. Their capital shifted several times, but the last and
 Greatest was {{p|Yin}} or {{p|Anyang}}, in what is now {{p|Henan Province}}.
@@ -33425,7 +33425,7 @@ The {{p|Shang}} mind. The {{p|Shang}} king was not quite a god but a privileged
 Intermediary. The {{p|Shang}} state was organized around his ritual
 Calendar. And the {{p|Shang}} military was a formidable force, operating
 Chariots (introduced from the western steppe, probably via the
-{{p|Indo-European}} or {{p|Tocharian}} transmission that the Gaiad will
+{{p|Indo-European}} or {{p|Tocharian}} transmission that the {{x|Gaiad}} will
 
 Return to later), bronze weapons, and professional warriors.
 
@@ -33465,9 +33465,9 @@ To western populations. But by the twelfth century BCE they had
 Adopted {{p|Shang}} writing, {{p|Shang}} ritual forms, and {{p|Shang}} political
 
 Structures, while retaining their own distinctive identity. The
-{{p|Zhou}} traced their lineage to {{c|Hou Ji}}, the "Lord of Millet," an
+{{p|Zhou}} traced their lineage to {{c|Hou Ji}}, the "{{c|Lord of Millet}}," an
 Agricultural culture hero. Their leadership in the eleventh
-Century was exercised first by {{c|King Wen}} (the "Accomplished King"),
+Century was exercised first by {{c|King Wen}} (the "{{c|Accomplished King}}"),
 
 Who spent his life building coalitions against the {{p|Shang}} without
 Openly rebelling; and then by his son {{c|King Wu}} (the "Martial King"),
@@ -33512,15 +33512,15 @@ Most clearly by {{c|King Wu}}'s brother {{c|Duke of Zhou}}, who served as
 
 Regent for {{c|King Wu}}'s young son after {{c|King Wu}}'s early death—the
 Concept of {{p|Tianming}}, the {{p|Mandate of Heaven}}. The supreme deity
-{{c|Tian}} ("Heaven," displacing the {{p|Shang}} {{c|Shang Di}} in religious
+{{c|Tian}} ("{{c|Heaven}}," displacing the {{p|Shang}} {{c|Shang Di}} in religious
 Primacy) grants the right to rule to a ruling house only so long
 
 As that house governs virtuously. If the ruling house becomes
-Oppressive, tyrannical, or negligent, Heaven withdraws its mandate
+Oppressive, tyrannical, or negligent, {{c|Heaven}} withdraws its mandate
 And transfers it to a new, worthier house. This is what had
 Happened to the {{p|Shang}}: {{c|Di Xin}}'s corruption had forfeited the
 
-Mandate, and Heaven had granted it to {{c|King Wen}} and {{c|King Wu}}. The
+Mandate, and {{c|Heaven}} had granted it to {{c|King Wen}} and {{c|King Wu}}. The
 {{p|Zhou}} conquest was thus not usurpation but divinely sanctioned
 Succession. The {{p|Mandate of Heaven}} became the foundational
 Political theology of {{p|Chinese}} civilization. For the next three
@@ -33596,7 +33596,7 @@ Dating) occurred during {{c|Ramesses II}}'s or {{c|Merneptah}}'s reign. These
 
 Events are not simultaneous, but they are broadly contemporary.
 Across {{p|Eurasia}}—from the {{p|Aegean}} to the {{p|Yellow River}}—the late
-Bronze Age was ending, and new political and religious forms were
+{{x|Bronze Age}} was ending, and new political and religious forms were
 Emerging in its wake. The {{p|Zhou Dynasty}} is the {{p|East Asian}} equivalent
 
 Of the post-collapse reorganizations happening in the {{p|Mediterranean}}.
@@ -33637,8 +33637,8 @@ Fall of the {{p|Shang}}, we are at the beginning of all that. {{c|Di Xin}}
 In flames in his palace. {{c|King Wu}} entering {{p|Yin}}. The {{c|Duke of Zhou}}
 
 Drafting the political theology. The eight-hundred-year dynasty
-Beginning. The great Chinese classical age being born in the
-Moment when the Bronze Age died.
+Beginning. The great {{p|Chinese}} classical age being born in the
+Moment when the {{x|Bronze Age}} died.
 
                                   {{p|Shang}}. {{p|Zhou}}. {{p|Muye}}. {{p|Mandate of Heaven}}.
 {{c|Di Xin}}. {{c|Daji}}. {{c|King Wen}}. {{c|King Wu}}. {{c|Duke of Zhou}}. {{c|Jiang Ziya}}. The
@@ -33648,7 +33648,7 @@ The tyrant's cruelty and the virtuous rebel's restraint. The
 Lost mandate and the new dynasty. The {{p|Middle Kingdom}} defining
 Itself as center of the world. The eight-hundred-year reign.
 
-Fall of {{p|Shang}}. Rise of {{p|Zhou}}. {{p|China}}'s Bronze Age ending and its
+Fall of {{p|Shang}}. Rise of {{p|Zhou}}. {{p|China}}'s {{x|Bronze Age}} ending and its
 Classical age beginning.
 
 
@@ -33657,7 +33657,7 @@ Classical age beginning.
 And now, while the {{p|Mediterranean}} shatters and {{p|China}} is reborn,
 We must turn south. Because something vast is happening on the
 {{p|African}} continent. A population expansion that, in sheer scope
-And demographic impact, will equal any of the movements the Gaiad
+And demographic impact, will equal any of the movements the {{x|Gaiad}}
 
 Has described—including the {{p|Yamnaya}} expansion, the {{p|Austronesian}}
 Migrations, the {{p|Aryan}} movements into {{p|India}}. But unlike those,
@@ -33673,10 +33673,10 @@ Continent's demographic map becomes the map of {{p|Bantu}} speakers.
 Belonging to the {{p|Niger-Congo}} family, specifically the {{p|Bantu}}
 Branch. They carried primarily the {{c|E1b1a}} (now called {{c|E-V38}})
 {{p|Y-chromosome}} haplogroup—a sub-clade of the {{c|E}} haplogroup that
-The Gaiad has already described as the {{p|African}} branch that
+The {{x|Gaiad}} has already described as the {{p|African}} branch that
 
 Stayed on the continent while its sister clades migrated out. And
-Around three thousand BCE—earlier than the event the Gaiad is
+Around three thousand BCE—earlier than the event the {{x|Gaiad}} is
 About to narrate but laying the necessary foundation—the early
 {{p|Bantu}} speakers developed agriculture: {{p|West African}} yam cultivation
 
@@ -33913,7 +33913,7 @@ Particular people—originating in a small region of {{p|West Africa}}—
 
 Became, through slow demographic growth and gradual geographic
 Spread, one of the world's largest ethnolinguistic families. The
-Gaiad has tended, in its narration of this vast process, to
+{{x|Gaiad}} has tended, in its narration of this vast process, to
 Emphasize demographic and linguistic continuity. But we must also
 
 Note that the {{p|Bantu}} expansion was not peaceful. It involved
@@ -33924,7 +33924,7 @@ Former territories did not go willingly. Some were killed; some
 Were enslaved; some were assimilated under duress. The {{p|Bantu}}
 Expansion was gentler than many conquest migrations in world
 History (the {{p|Mongol}} expansion, the {{p|Indo-European}} expansion
-Into {{p|Europe}}, the {{p|European}} colonization of the Americas), but it
+Into {{p|Europe}}, the {{p|European}} colonization of the {{p|Americas}}), but it
 
 Was not bloodless. It was a real historical movement with real
 Human costs. The {{p|Khoisan}} of the {{p|Kalahari}}, the {{p|Pygmies}} of the
@@ -33935,21 +33935,21 @@ Could not displace them. Their survival on those margins is itself
 A testimony both to their resilience and to the completeness of
 The {{p|Bantu}} occupation of everywhere more agriculturally desirable.
 
-The Gaiad honors the {{p|Bantu}} expansion. The Gaiad honors also the
+The {{x|Gaiad}} honors the {{p|Bantu}} expansion. The {{x|Gaiad}} honors also the
 
 Pre-{{p|Bantu}} peoples who were displaced or assimilated in its course.
-The Gaiad honors the hybrid populations that resulted. The Gaiad
+The {{x|Gaiad}} honors the hybrid populations that resulted. The {{x|Gaiad}}
 Honors the {{p|Pygmies}} who retained their identity in the depths of
-The {{p|Ituri}}. The Gaiad honors the {{p|Khoisan}} who retained theirs in
+The {{p|Ituri}}. The {{x|Gaiad}} honors the {{p|Khoisan}} who retained theirs in
 
-The depths of the {{p|Kalahari}}. The Gaiad honors the {{p|Nilotic}} and
+The depths of the {{p|Kalahari}}. The {{x|Gaiad}} honors the {{p|Nilotic}} and
 {{p|Cushitic}} peoples who retained theirs along the {{p|Rift Valley}} and
 The {{p|Horn of Africa}}. All of these peoples, together, constitute
 The anthropological mosaic of {{p|Africa}}. The {{p|Bantu}} are the largest
 
 Component but not the only component. Sub-Saharan {{p|Africa}} is
 More diverse than its {{p|Bantu}} majority might suggest. And the
-Gaiad reads the {{p|Bantu}} expansion as one of the most important
+{{x|Gaiad}} reads the {{p|Bantu}} expansion as one of the most important
 Processes of the last three thousand years—because it laid the
 
 Demographic foundation of the modern {{p|African}} continent.
@@ -33992,7 +33992,7 @@ The rise of the {{p|Achaemenid}} Empire). Most modern scholarship
 Settles on some point between twelve-hundred and one-thousand BCE—
 That is, roughly contemporary with the {{p|Bronze Age Collapse}} in the
 
-{{p|Mediterranean}} and the {{p|Zhou}} conquest in {{p|China}}. The Gaiad adopts
+{{p|Mediterranean}} and the {{p|Zhou}} conquest in {{p|China}}. The {{x|Gaiad}} adopts
 This dating. {{c|Zarathustra}} is another node in the widespread
 Religious transformation that followed the collapse of the Bronze
 Age order. His reform of {{p|Indo-Iranian}} religion is part of the
@@ -34006,17 +34006,17 @@ Earliest named prophet of this transformation. He is the first to
 Speak, in the surviving record, with the voice of a new religious
 Vision.
 
-            And now the Gaiad must say something carefully. A
+            And now the {{x|Gaiad}} must say something carefully. A
 Common misconception treats {{p|Zoroastrianism}} as the original
 
 Monotheism—the religion that invented the idea of a single
 Supreme god and from which {{p|Judaism}}, {{p|Christianity}}, and {{p|Islam}}
 Ultimately derive their monotheism. This account is partially true
-But oversimplified. The Gaiad has already advanced, in its earlier
+But oversimplified. The {{x|Gaiad}} has already advanced, in its earlier
 
 Treatment of comparative religious history, a more nuanced view:
 That original {{p|Zoroastrianism}} was not strictly monotheistic in
-The modern sense. It was dualistic. {{c|Ahura Mazda}}, the Wise Lord,
+The modern sense. It was dualistic. {{c|Ahura Mazda}}, the {{c|Wise Lord}},
 Was the supreme good deity, creator of truth and light and order.
 
 But opposed to him was {{c|Angra Mainyu}} (later {{c|Ahriman}}), the
@@ -34044,10 +34044,10 @@ Was {{c|Zarathustra}}'s great contribution. It would profoundly
 Influence all subsequent {{p|Near Eastern}} and {{p|European}} religion,
 Even when the dualism was later flattened into strict monotheism.
 
-The Gaiad has already discussed how later {{p|Zoroastrianism}},
+The {{x|Gaiad}} has already discussed how later {{p|Zoroastrianism}},
 Particularly under the {{p|Sassanid}} empire, became more explicitly
 Monotheistic, with {{c|Angra Mainyu}} increasingly described as a
-Creature rather than a co-eternal principle. And the Gaiad has
+Creature rather than a co-eternal principle. And the {{x|Gaiad}} has
 
 Discussed how ancient {{p|Persian}} religious concepts shaped the
 {{p|Jewish}} captivity experience in {{p|Babylon}} and the subsequent
@@ -34091,7 +34091,7 @@ Known figure to articulate them in a systematic theology.
 
                                                                 He
 Also reformed ritual. The old {{p|Indo-Iranian}} religion, which the
-Gaiad saw developing on the steppe and arriving in {{p|India}} with
+{{x|Gaiad}} saw developing on the steppe and arriving in {{p|India}} with
 The {{p|Aryans}}, centered on elaborate animal sacrifices conducted
 By a hereditary priestly caste. {{c|Zarathustra}} reduced the emphasis
 
@@ -34183,14 +34183,14 @@ Member of {{c|Yahweh}}'s divine council, became reinterpreted along
 Final judgment, resurrection of the dead, and {{p|messianic}} age was
 Absorbed into {{p|Jewish}} apocalyptic thought. By the time of the
 
-Second Temple period and the emergence of {{p|Christianity}} and
+{{p|Second Temple}} period and the emergence of {{p|Christianity}} and
 {{p|Rabbinic Judaism}}, the {{p|Zoroastrian}} imprint on {{p|Jewish}} religious
 Imagination was thorough. {{p|Christianity}} and {{p|Islam}}, inheriting
-From {{p|Judaism}}, inherited also from {{p|Zoroastrianism}}. The Western
+From {{p|Judaism}}, inherited also from {{p|Zoroastrianism}}. The {{p|Western}}
 
 Monotheistic tradition as we know it is, in substantial measure,
 A {{p|Zoroastrian}}-{{p|Jewish}} synthesis. Without {{c|Zarathustra}}, the
-Religious history of the West would be unrecognizable.
+Religious history of the {{p|West}} would be unrecognizable.
 
                                                              And
 Yet {{p|Zoroastrianism}} itself would, over time, retreat. The
@@ -34221,8 +34221,8 @@ Not, a theological descendant of {{c|Zarathustra}}. The prophet from
 The {{p|Iranian}} plateau is a silent presence in half the religious
 Imagination of the modern world.
 
-                                     The Gaiad honors him. The
-Gaiad recognizes in {{c|Zarathustra}}'s work a genuine theological
+                                     The {{x|Gaiad}} honors him. The
+{{x|Gaiad}} recognizes in {{c|Zarathustra}}'s work a genuine theological
 
 Innovation—the sharpening of moral dualism into an explicit
 Cosmic principle, the linking of individual ethical choice to
@@ -34246,13 +34246,13 @@ It reflects how {{c|Zarathustra}}'s name continues to carry weight as
 
 A symbol of religious innovation and prophetic voice. {{c|Nietzsche}}
 Chose the name not randomly but because it stood for the first
-Great religious reformer whose work shaped all subsequent Western
+Great religious reformer whose work shaped all subsequent {{p|Western}}
 Religion. {{c|Nietzsche}} wanted to undo that work and return to a
 
 Pre-{{c|Zarathustran}} valuation. Whether one agrees with {{c|Nietzsche}}'s
 Project or not, the acknowledgment of {{c|Zarathustra}}'s foundational
 Role is accurate. {{c|Zarathustra}} is where a great deal of the
-Modern Western religious and ethical imagination actually begins.
+Modern {{p|Western}} religious and ethical imagination actually begins.
 
                                                                      {{c|Zarathustra}}.
 {{c|Zoroaster}}. {{c|Ahura Mazda}} and {{c|Angra Mainyu}}. {{c|Asha}} and {{c|Druj}}. The fire
@@ -34267,14 +34267,14 @@ The {{p|Parsis}} in {{p|India}}. The long survival of a small religion
 With enormous theological consequences.
 
                                            {{c|Zarathustra}}. The first
-Prophet of the Axial Age. The reformer of {{p|Indo-Iranian}} religion.
+Prophet of the {{x|Axial Age}}. The reformer of {{p|Indo-Iranian}} religion.
 The invisible ancestor of {{p|Western}} monotheism.
 
 
 # Chapter 164: David
 
 And back to the {{p|Levant}}. Back to {{p|Israel}}, newly emerged from the
-Bronze Age Collapse, settling in the highlands of {{p|Canaan}} and
+{{x|Bronze Age Collapse}}, settling in the highlands of {{p|Canaan}} and
 Struggling to establish itself as a coherent nation among hostile
 Neighbors.
 
@@ -34321,7 +34321,7 @@ By an {{p|Aramean}} king (probably {{c|Hazael of Aram}}), boasting of defeating
 The "House of {{c|David}}" ({{p|bytdwd}}). This proves, at minimum, that by
 The ninth century BCE there was a {{p|Judahite}} royal dynasty claiming
 Descent from someone named {{c|David}}. Some historical {{c|David}} existed,
-Founder of a dynasty. The Gaiad accepts this and proceeds.
+Founder of a dynasty. The {{x|Gaiad}} accepts this and proceeds.
 
 What the {{p|Hebrew Bible}} tells us about {{c|David}} is the most intensely
 Detailed human portrait of any pre-Axial historical figure. We
@@ -34334,14 +34334,14 @@ Even the actual historical {{c|David}}, however modest his realm, must
 Have been an extraordinary figure to generate this literary response.
 
 And what a literary response it is. The books of {{p|1}} and {{p|2 Samuel}},
-Especially the so-called "Court History" or "Succession Narrative"
+Especially the so-called "{{x|Court History}}" or "{{x|Succession Narrative}}"
 (Chapters nine through twenty of {{p|2 Samuel}} and the first two
 Chapters of {{p|1 Kings}}), constitute one of the great works of ancient
 
 Prose. Their narrative economy, psychological insight, and moral
 Complexity have been recognized as foundational by critics as
 Diverse as {{c|Erich Auerbach}}, {{c|Robert Alter}}, {{c|Meir Sternberg}}, and
-{{c|Harold Bloom}}. The author of the Court History stands alongside
+{{c|Harold Bloom}}. The author of the {{x|Court History}} stands alongside
 
 {{c|Homer}} as one of the two great literary pioneers of the ancient
 {{p|Near East}}, and unlike {{c|Homer}}'s world of kings and gods, the Court
@@ -34358,7 +34358,7 @@ Imagination. Every subsequent portrait of a complex monarch—
 {{c|Shakespeare}}'s {{c|Henry IV}}, {{c|Hamlet}}'s troubled father, every tormented
 King in the {{p|Western}} tradition—traces ancestry, in some measure,
 
-To the {{c|David}} of the Court History.
+To the {{c|David}} of the {{x|Court History}}.
 
                                           Let us narrate {{c|David}}'s
 Life as the text gives it. {{c|David}} is the youngest son of {{c|Jesse}}
@@ -34375,7 +34375,7 @@ Or perhaps something more severe), and his attendants procure
 {{c|Saul}}'s court. Then comes the famous encounter with {{c|Goliath}}, the
 
 {{p|Philistine}} giant. The {{p|Philistines}}—the {{p|Sea Peoples}} who had
-Settled the southern coast of {{p|Canaan}} during the Bronze Age
+Settled the southern coast of {{p|Canaan}} during the {{x|Bronze Age}}
 Collapse—are {{p|Israel}}'s principal enemy in this period. Their
 Champion {{c|Goliath}} challenges any {{p|Israelite}} to single combat.
 
@@ -34454,7 +34454,7 @@ Righteous anger by the parable, condemns the rich man—and {{c|Nathan}}
 Replies: "You are the man." {{c|David}} repents. He fasts, he weeps, he
 
 Composes the psalm traditionally identified as {{p|Psalm 51}} ("Have
-Mercy upon me, O God, according to thy lovingkindness..."). But
+Mercy upon me, O {{c|God}}, according to thy lovingkindness..."). But
 The consequences unfold. The first child {{c|Bathsheba}} bears to
 {{c|David}} dies in infancy. His family is cursed. His eldest son
 
@@ -34468,10 +34468,10 @@ Stabbed by {{c|Joab}}, {{c|David}}'s general (against {{c|David}}'s explicit
 Orders to spare him). {{c|David}}'s grief for {{c|Absalom}} is one of the
 Most devastating passages in ancient literature: "O my son
 
-{{c|Absalom}}, my son, my son {{c|Absalom}}! Would God I had died for thee,
+{{c|Absalom}}, my son, my son {{c|Absalom}}! Would {{c|God}} I had died for thee,
 O {{c|Absalom}}, my son, my son!" A father's anguish, undiluted by
 Any official decorum, recorded in the annals of a king. The
-Court History allows this. It does not edit the grief out.
+{{x|Court History}} allows this. It does not edit the grief out.
 
 {{c|David}} survives the rebellion but is broken. The remainder of
 His reign is marked by further intrigues: the rebellion of {{c|Sheba}},
@@ -34513,7 +34513,7 @@ Man who loves, sins, repents, suffers, and finally dies. His
 Covenant relationship with {{c|Yahweh}} is mediated through his human
 Agency, his human choices. This is a profoundly different vision
 
-Of kingship from anything in the Bronze Age. Bronze Age kings
+Of kingship from anything in the {{x|Bronze Age}}. {{x|Bronze Age}} kings
 Were divine or semi-divine. They stood outside the ordinary
 Human order. {{c|David}} stands within it. He is a new kind of
 Religious figure: the monarch who is not a god but a servant of
@@ -34521,7 +34521,7 @@ Religious figure: the monarch who is not a god but a servant of
 A god. The monarch who is measured against divine moral standards
 And can fail to meet them. The monarch who repents publicly.
 This is the model that will shape later {{p|Jewish}}, {{p|Christian}},
-And {{p|Islamic}} political theology. A king stands under God, not
+And {{p|Islamic}} political theology. A king stands under {{c|God}}, not
 
 Beside him. A king can be rebuked by a prophet. A king is
 Accountable. The {{c|David}}-{{c|Nathan}} encounter—the prophet confronting
@@ -34534,13 +34534,13 @@ Development of democracy, constitutional government, and human
 Rights are profound. They trace back, in substantial measure, to
 
 {{c|David}}'s kneeling before {{c|Nathan}} and saying: "I have sinned
-Against the Lord."
+Against the {{c|Lord}}."
 
                         {{c|David}}. Son of {{c|Jesse}}. Shepherd. Harpist.
 Giant-slayer. Outlaw. Mercenary. King. Adulterer. Murderer.
 
 Penitent. Psalmist. Father. Mourner. Founder of dynasty. The
-Court History's devastating human portrait. The covenant with
+{{x|Court History}}'s devastating human portrait. The covenant with
 {{c|Yahweh}} to establish an eternal house. The {{p|Jerusalem}} capital.
 The {{p|Ark of the Covenant}} installed with dancing. The promise of
 
@@ -34556,7 +34556,7 @@ Of every messianic hope.
 
 # Chapter 165: Classical Greece, Part One
 
-The {{p|Greek}} Dark Age lasted roughly four centuries. From the
+The {{p|Greek}} {{x|Dark Age}} lasted roughly four centuries. From the
 Destruction of the {{p|Mycenaean}} palaces around twelve-hundred BCE
 To the dawn of the {{p|Archaic}} period around eight-hundred BCE,
 {{p|Greece}} was a land of small villages, depopulated cities, and
@@ -34686,7 +34686,7 @@ Ten new tribes based on geographical deme membership (breaking the
 Power of aristocratic kinship networks), he established the
 {{c|Boule}} (council of five hundred citizens selected by lot) as the
 Principal executive body, and he gave the {{p|Ecclesia}} (the citizen
-Assembly) supreme legislative power. With these reforms, {{p|Athens}}
+{{x|Assembly}}) supreme legislative power. With these reforms, {{p|Athens}}
 
 Became the first substantial democracy in human history. "The
 People" ({{p|demos}}) ruled ({{p|kratos}})—hence {{p|demokratia}}. Now, to be
@@ -34696,7 +34696,7 @@ Could participate. Women, foreign residents ({{p|metics}}), and slaves
 Were excluded. Perhaps fifteen percent of {{p|Athens}}'s total population
 Had full political rights. And those fifteen percent participated
 Directly—not through elected representatives, but through actual
-Attendance at the Assembly and service in executive bodies, often
+Attendance at the {{x|Assembly}} and service in executive bodies, often
 
 Selected by lot. This was direct democracy, radically different
 From modern representative democracy. It worked because the
@@ -34714,7 +34714,7 @@ Large a fraction of its male population. The consequences for
 Cultural and intellectual life were transformative. Because any
 
 Citizen could propose legislation, could serve on juries, could
-Speak in the Assembly, the premium on rhetorical skill was enormous.
+Speak in the {{x|Assembly}}, the premium on rhetorical skill was enormous.
 Education in rhetoric, logic, and persuasion became essential for
 Citizens who wanted influence. This created the market for the
 
@@ -34741,7 +34741,7 @@ One of the most influential buildings ever designed. It produced
 The politician {{c|Pericles}}, whose leadership and oratory defined
 The golden age. And it produced {{c|Socrates}}, whose radically
 Different philosophical method would reshape all subsequent
-Western thought. All within a single city of perhaps fifty
+{{p|Western}} thought. All within a single city of perhaps fifty
 
 Thousand adult male citizens. All within roughly a century. The
 Cultural output per capita is staggering. Nothing comparable had
@@ -34819,7 +34819,7 @@ Of souls (a doctrine that may have entered {{p|Greek}} thought from
 Their legacy would shape {{p|Plato}}'s philosophy profoundly. The
 Idea that the ultimate structure of reality is mathematical—an
 
-Idea so central to modern physics—traces its Western origin to
+Idea so central to modern physics—traces its {{p|Western}} origin to
 The {{p|Pythagoreans}}. {{c|Heraclitus of Ephesus}}, in the early fifth
 Century BCE, developed a philosophy of flux and opposites. "One
 Cannot step into the same river twice," he famously said. All
@@ -34913,7 +34913,7 @@ Victorious self-understanding that followed, came the classical
 Age. And the classical age is what we will explore next.
 
                                                              {{p|Greece}}.
-Dark Age to {{p|Archaic}} to classical. The {{p|polis}}. {{p|Athens}} and {{p|Sparta}}.
+{{x|Dark Age}} to {{p|Archaic}} to classical. The {{p|polis}}. {{p|Athens}} and {{p|Sparta}}.
 
 {{p|Ionian}} philosophy—{{c|Thales}}, {{c|Anaximander}}, {{c|Heraclitus}}, {{c|Parmenides}},
 {{c|Pythagoras}}. {{p|Solonian}} reforms. {{p|Cleisthenic}} democracy. The
@@ -34939,7 +34939,7 @@ Development of {{p|Israel}} and the wider world.
                                                      Begin with {{p|Assyria}}.
 The {{p|Assyrian}} state, centered on the {{p|Tigris}} river in northern
 {{p|Mesopotamia}}, had existed in various forms since the early second
-Millennium BCE—the Gaiad has touched on the {{p|Old Assyrian}} and
+Millennium BCE—the {{x|Gaiad}} has touched on the {{p|Old Assyrian}} and
 
 {{p|Middle Assyrian}} periods. But {{p|Assyria}} reached its greatest
 Extent and power in what is called the {{p|Neo-Assyrian Empire}}—
@@ -34961,7 +34961,7 @@ With their skins." "I built a pillar over the city gate, and I
 Flayed all the chief men... I stuck some on stakes... I cut off
 The limbs of the officers... I cut off the hands and feet of
 
-Some, and I cut off the ears and noses of others." The Gaiad does
+Some, and I cut off the ears and noses of others." The {{x|Gaiad}} does
 Not dwell on these horrors gratuitously. But they are part of the
 Historical record, and they affected everyone who lived in the
 {{p|Near East}} during the {{p|Neo-Assyrian}} period. The threat of
@@ -35086,7 +35086,7 @@ For three centuries vanished within a single generation. The
 
 Verse ({{p|Book of Nahum}}, probably composed very shortly after the
 Event): "Woe to the bloody city! It is all full of lies and
-Robbery... Nineveh is laid waste; who will bemoan her?" Every
+Robbery... {{p|Nineveh}} is laid waste; who will bemoan her?" Every
 Subject people of the {{p|Assyrian}} empire shared this sentiment.
 
 {{p|Assyria}} had been an entity that stood for imperial cruelty on
@@ -35267,11 +35267,11 @@ Something new in the religious imagination of humanity: genuine,
 Full-throated monotheism.
 
                             To understand this, we must be
-Careful about terms. The Gaiad has argued, in earlier chapters,
+Careful about terms. The {{x|Gaiad}} has argued, in earlier chapters,
 That true monotheism is historically rare—rarer than popular
 
-Accounts suggest. The Bronze Age world was populated by
-Polytheisms. The Axial Age produced dualisms ({{p|Zoroastrianism}}),
+Accounts suggest. The {{x|Bronze Age}} world was populated by
+Polytheisms. The {{x|Axial Age}} produced dualisms ({{p|Zoroastrianism}}),
 Monisms ({{p|Upanishadic}} philosophy), and various forms of divine
 Hierarchy. True monotheism—the claim that there is only one god,
 
@@ -35328,7 +35328,7 @@ Articulation of this monotheism was defensive, not missionary.
 It emerged as the {{p|Judahite}} response to crushing defeat.
 
                                                                 How
-Did the exile produce this theological leap? The Gaiad proposes
+Did the exile produce this theological leap? The {{x|Gaiad}} proposes
 Several interacting factors. First, the experience of exile itself.
 
 Ancient religions were typically territorial: each god had a land,
@@ -35363,7 +35363,7 @@ Stone and wood, incapable of the real power that only {{c|Yahweh}}
 
 Possesses. This denigration of rival gods sharpened into
 Metaphysical denial of their existence. Not merely inferior, but
-Unreal. Third, the {{p|Zoroastrian}} influence. The Gaiad has already
+Unreal. Third, the {{p|Zoroastrian}} influence. The {{x|Gaiad}} has already
 Discussed how {{p|Zoroastrianism}}'s theological categories influenced
 
 {{p|Jewish}} thinking during this period. The concept of cosmic moral
@@ -35434,20 +35434,20 @@ Through its {{p|Christian}} and {{p|Islamic}} extensions, it would reshape
 The religious landscape of most of the planet.
 
                                                 Now, a crucial
-Clarification. The Gaiad, in its earlier treatments, has been
-Critical of monotheism as a theological stance. The Gaiad's own
+Clarification. The {{x|Gaiad}}, in its earlier treatments, has been
+Critical of monotheism as a theological stance. The {{x|Gaiad}}'s own
 
 Theological sympathies are with a reflective polytheism—one that
 Honors the plurality of divine manifestations, that resists the
 Collapse of cosmic complexity into singular transcendence, that
 Preserves the ecological and cultural richness of the pre-
 
-Monotheistic religious imagination. The Gaiad has argued that
+Monotheistic religious imagination. The {{x|Gaiad}} has argued that
 Monotheism, when it became triumphalist, led to religious
 Persecution, to the destruction of local traditions, to the
 Psychological and cosmological impoverishment of religious life.
 
-This critique stands. But the Gaiad also acknowledges that
+This critique stands. But the {{x|Gaiad}} also acknowledges that
 Monotheism, in its origin, was not primarily a triumphalist
 Project. It was a survival strategy. The {{p|Judean}} exiles did not
 Invent monotheism to conquer other religions. They invented it
@@ -35463,7 +35463,7 @@ Original insight itself was a courageous theological act, a
 Refusal to accept that divine reality was as fragile as the
 
 Political structures that had supported the earlier religion. And
-The Gaiad honors the courage of that act, even while maintaining
+The {{x|Gaiad}} honors the courage of that act, even while maintaining
 Reservations about its later forms.
 
                                         And consider who took the
@@ -35576,22 +35576,22 @@ Produced, in the space of a century, a new religious grammar
 That would shape the religious imagination of billions of people
 Over the next twenty-five centuries.
 
-                                            And again, the Gaiad's
-Assessment is complex. The Gaiad honors the exilic communities for
+                                            And again, the {{x|Gaiad}}'s
+Assessment is complex. The {{x|Gaiad}} honors the exilic communities for
 
-Their courage and creativity. The Gaiad also maintains that
+Their courage and creativity. The {{x|Gaiad}} also maintains that
 Monotheism, as it developed, created problems that polytheistic
 Traditions did not have—problems of exclusivity, of intolerance,
-Of the flattening of cosmic complexity. But the Gaiad acknowledges
+Of the flattening of cosmic complexity. But the {{x|Gaiad}} acknowledges
 
 That monotheism emerged from a specific historical situation in
 Which it was the most viable theological response. It was not
 Born as imperialist ideology. It was born as survival theology.
 The later imperialist uses of monotheism are distortions of an
 
-Originally defensive and preservationist project. The Gaiad
+Originally defensive and preservationist project. The {{x|Gaiad}}
 Reads the {{p|Babylonian}} exile as one of the pivotal moments in
-The history of religion—as genuinely pivotal as the Axial Age
+The history of religion—as genuinely pivotal as the {{x|Axial Age}}
 Breakthroughs happening roughly contemporaneously in {{p|Iran}},
 
 {{p|India}}, {{p|China}}, and {{p|Greece}}. These parallel religious
@@ -35600,12 +35600,12 @@ Sacrificial religion, the articulation of universal ethical
 Demands, the interiorization of religious life into personal
 
 Conduct and thought, the development of textual canons. The
-Axial Age is a world-historical transformation, not confined to
+{{x|Axial Age}} is a world-historical transformation, not confined to
 Any one civilization. And the {{p|Jewish}} monotheism forged in
 {{p|Babylonian}} exile is the {{p|Judean}} branch of that global
 
 Transformation—a distinctive branch, with distinctive consequences,
-But part of a pattern that characterizes the whole of Eurasian
+But part of a pattern that characterizes the whole of {{p|Eurasian}}
 Religious history in the middle of the first millennium BCE.
 
                                                                 {{p|Babylonian}}
@@ -35617,7 +35617,7 @@ Monotheism. {{c|Yahweh}} as sole god, not merely greatest. The {{p|Persian}}
 Influence. {{c|Cyrus}}'s edict. The return and rebuilding. The
 {{p|Second Temple}}. The messianic hope deferred. The apocalyptic
 Literature that would flower. The conceptual framework that
-Would shape three Abrahamic religions.
+Would shape three {{x|Abrahamic}} religions.
 
 The exile as crucible. The crushing defeat that forged a new
 Theological imagination. The catastrophe that produced the
@@ -35955,7 +35955,7 @@ Centuries. Their founders, {{c|Confucius}} and {{c|Laozi}}, stand at the
 Root of everything that followed.
 
                                       {{c|Confucius}}. In {{p|Chinese}},
-{{c|Kong Fuzi}} or {{c|Kongzi}}—"Master Kong." Born in five-fifty-one BCE
+{{c|Kong Fuzi}} or {{c|Kongzi}}—"{{c|Master Kong}}." Born in five-fifty-one BCE
 In the small state of {{p|Lu}}, in what is now {{p|Shandong Province}}. His
 Family was of minor aristocratic descent but had fallen on hard
 
@@ -36080,7 +36080,7 @@ Traditional account, in {{c|Sima Qian}}'s {{p|Records of the Grand Historian}}
 Presumed date), places {{c|Laozi}} as an older contemporary of {{c|Confucius}},
 
 An archivist at the {{p|Zhou}} court whom {{c|Confucius}} once visited for
-Advice. In this telling, {{c|Laozi}}—"the Old Master"—was older, wiser,
+Advice. In this telling, {{c|Laozi}}—"the {{c|Old Master}}"—was older, wiser,
 And more withdrawn than {{c|Confucius}}. When {{c|Confucius}} sought him out,
 {{c|Laozi}} rebuked him for his worldly ambition and urged him to let
 
@@ -36195,7 +36195,7 @@ One of its most distinctive features, and its roots are in this
 Traditions emerged from the same crisis and learned to coexist.
 
                                                                  The
-Gaiad reads {{c|Confucius}} and {{c|Laozi}} together as the twin poles of
+{{x|Gaiad}} reads {{c|Confucius}} and {{c|Laozi}} together as the twin poles of
 {{p|East Asian}} civilizational thought. Each is incomplete without
 The other. {{c|Confucius}} gives us the ethics of social engagement,
 The seriousness of moral cultivation, the dignity of institutional
@@ -36208,7 +36208,7 @@ The wisest action. Together, they are one of the great civilizational
 Philosophies. Separately, each would be impoverished. The fact that
 {{p|Chinese}} culture held them together, rather than forcing a choice
 Between them, is a sign of its intellectual sophistication. And
-The Gaiad honors this. The Gaiad's own religious vision, with its
+The {{x|Gaiad}} honors this. The {{x|Gaiad}}'s own religious vision, with its
 
 Commitment to polytheistic plurality and its resistance to
 Reductive monotheism, draws sustenance from this {{p|Chinese}} model
@@ -36253,7 +36253,7 @@ Shape a civilization.
 # Chapter 170: The Buddha
 
 In the {{p|Gangetic}} plain of northern {{p|India}}, in the sixth and fifth
-Centuries BCE, the same Axial Age ferment that produced {{c|Zarathustra}},
+Centuries BCE, the same {{x|Axial Age}} ferment that produced {{c|Zarathustra}},
 {{c|Confucius}}, {{c|Laozi}}, the {{p|Judean}} exile, and {{p|Ionian}} philosophy was
 Also transforming {{p|Indian}} religious thought. And at the heart of
 
@@ -36308,7 +36308,7 @@ Into this contested field stepped {{c|Siddhartha Gautama}}.
 
                                                                  He
 Was born around five-sixty-three BCE (traditional dating) or
-Four-eighty BCE (recent scholarly dating; the Gaiad will use the
+Four-eighty BCE (recent scholarly dating; the {{x|Gaiad}} will use the
 Traditional date for narrative convenience) in {{p|Lumbini}}, a small
 Village in what is now southern {{p|Nepal}}. His father {{c|Shuddhodana}}
 
@@ -36432,7 +36432,7 @@ Years—teaching. He attracted disciples. He founded the {{p|sangha}},
 
 The monastic community. He traveled through the {{p|Gangetic}} plain,
 Teaching to anyone who would listen. Kings came to him. Beggars
-Came to him. Brahmins came to him. {{p|Untouchables}} came to him.
+Came to him. {{c|Brahmins}} came to him. {{p|Untouchables}} came to him.
 He taught them all. He did not distinguish by caste. This was
 
 Itself a radical position in {{p|Indian}} society. His {{p|sangha}} included
@@ -36514,9 +36514,9 @@ As the reflection of a single wandering ascetic under a fig tree,
 Has become one of the most widely practiced religions in the world.
 
                                                                     And
-The Gaiad honors the {{c|Buddha}} as one of the supreme figures of the
+The {{x|Gaiad}} honors the {{c|Buddha}} as one of the supreme figures of the
 
-Axial Age. His insights into the nature of suffering and its
+{{x|Axial Age}}. His insights into the nature of suffering and its
 Causes, his articulation of ethical conduct, his recognition of
 The constructed nature of the self, his refusal to privilege any
 Caste or class in access to liberation—these are among the most
@@ -36564,14 +36564,14 @@ Because he has achieved liberation while they have not. The
 Importance to any god or gods. The gods exist; they are not
 Ultimately relevant. What is ultimately relevant is each sentient
 Being's own progress toward liberation. This is a position with
-Some affinity to the Gaiad's own deflationary polytheism—a
+Some affinity to the {{x|Gaiad}}'s own deflationary polytheism—a
 
 Recognition of divine pluralism combined with a refusal to treat
 Any particular divinity as the absolute center of everything. The
-Gaiad can appreciate the {{p|Buddhist}} framework as one genuinely
+{{x|Gaiad}} can appreciate the {{p|Buddhist}} framework as one genuinely
 Compatible articulation of a non-dogmatic, non-imperialist religious
 
-Orientation. {{p|Buddhism}} and the Gaiad's own vision are not the
+Orientation. {{p|Buddhism}} and the {{x|Gaiad}}'s own vision are not the
 Same, but they share family resemblances.
 
                                               {{c|Siddhartha Gautama}}. The
@@ -36587,7 +36587,7 @@ Left no writings, no institution beyond the community, no
 Successor—and yet whose teaching spread across a continent and
 A world.
 
-            {{c|Buddha}}. One of the supreme sons of the Axial Age.
+            {{c|Buddha}}. One of the supreme sons of the {{x|Axial Age}}.
 The one who showed that liberation from suffering was accessible
 Through disciplined practice rather than through priestly mediation
 Or ecstatic grace. The one whose compassion extended to all
@@ -36619,7 +36619,7 @@ Political theory, love poetry, and—at its absolute center—the
 What the {{p|Sermon on the Mount}} is for {{p|Christianity}}: a densely
 Compressed articulation of the tradition's core vision, accessible
 In isolation from the larger corpus and yet illuminating it
-Entirely. This chapter of the Gaiad will treat the {{p|Mahabharata}}
+Entirely. This chapter of the {{x|Gaiad}} will treat the {{p|Mahabharata}}
 
 In the same way the previous chapter treated the {{p|Ramayana}}: as
 A singular event in the history of human narrative imagination,
@@ -36649,7 +36649,7 @@ Until it reached something like its final form around four-hundred
 
 CE. Its compositional history is as complex as any text in world
 Literature. But traditional {{p|Hindu}} attribution gives the work to
-{{c|Vyasa}}, and the Gaiad will use this convention for narrative ease.
+{{c|Vyasa}}, and the {{x|Gaiad}} will use this convention for narrative ease.
 
 The core story. The {{p|Kuru}} dynasty, ruling from {{p|Hastinapura}} near
 What is now {{p|Delhi}}, is split between two branches of cousins: the
@@ -36735,7 +36735,7 @@ The {{p|Mahabharata}} ends with ambiguity. Both endings carry deep
 Wisdom.
 
           At the center of the epic, just before the battle begins,
-Comes the {{p|Bhagavad Gita}}—"the Song of the Lord." {{c|Arjuna}}, looking
+Comes the {{p|Bhagavad Gita}}—"the {{x|Song of the Lord}}." {{c|Arjuna}}, looking
 
 Across the battlefield at his cousins, his teachers, his kinsmen,
 Is overcome by despair. How can he fight? How can he kill these
@@ -36848,7 +36848,7 @@ Of incarnation, the {{p|Buddhist}} doctrine of bodhisattvas, and other
 Religious conceptions of divine beings taking on embodied form for
 The sake of sentient beings. These parallels are not identities,
 
-But they are striking resemblances. The Gaiad reads them as
+But they are striking resemblances. The {{x|Gaiad}} reads them as
 Different cultural elaborations of a common religious insight:
 That divinity is not remote from human affairs but engages with
 Them in various modes, sometimes taking on the limitations of
@@ -36859,7 +36859,7 @@ Embodied existence in order to be present among creatures.
 {{p|Mahabharata}} also contains, as subsidiary material, enormous
 Amounts of philosophical, religious, and practical content. The
 
-{{p|Shanti Parva}} ("Book of Peace") and the {{p|Anushasana Parva}} ("Book
+{{p|Shanti Parva}} ("{{x|Book of Peace}}") and the {{p|Anushasana Parva}} ("Book
 Of Instruction")—two of the epic's eighteen books—are essentially
 Compendia of moral and philosophical teaching delivered by the
 Dying {{c|Bhishma}} to {{c|Yudhishthira}} about kingship, dharma, and
@@ -36904,7 +36904,7 @@ Thematic concern vaster. If {{c|Homer}}'s {{p|Iliad}} is the foundational
 A higher power. It is not just a great epic. It is the epic of
 An entire civilization.
 
-                             The Gaiad reads the {{p|Mahabharata}}—like
+                             The {{x|Gaiad}} reads the {{p|Mahabharata}}—like
 The {{p|Ramayana}}—as another major articulation of the shared
 {{p|Indo-European}} narrative imagination, elaborated by the {{p|Indian}}
 Branch into a work of singular and unrivaled scope. The {{p|Trojan War}}
@@ -36955,7 +36955,7 @@ Preserved their independence. And now, in the victorious glow,
 {{p|Athens}} rises to a cultural ascendancy the world had not seen
 Before and has rarely matched since. The fifth century BCE. The
 Age of {{c|Pericles}}. The age of the great tragedians. The age of the
-Sophists and {{c|Socrates}}. The age in which democracy, drama,
+{{c|Sophists}} and {{c|Socrates}}. The age in which democracy, drama,
 
 Philosophy, and history became what they have remained.
 
@@ -36981,12 +36981,12 @@ The central fleet and leadership. Over the next several decades,
 The {{p|Delian League}} expanded. It conducted campaigns against
 {{p|Persian}} holdings in the {{p|Aegean}} and liberated {{p|Greek}} cities
 Still under {{p|Persian}} control. But over time, it became increasingly
-Clear that the League was really an {{p|Athenian}} empire. Member cities
+Clear that the {{p|League}} was really an {{p|Athenian}} empire. Member cities
 
-That tried to withdraw from the League were prevented from doing
-So by {{p|Athenian}} military force. The League treasury, originally
+That tried to withdraw from the {{p|League}} were prevented from doing
+So by {{p|Athenian}} military force. The {{p|League}} treasury, originally
 At {{p|Delos}}, was moved to {{p|Athens}} in four-fifty-four BCE. {{p|Athens}}
-Began using League funds for {{p|Athenian}} purposes—including the
+Began using {{p|League}} funds for {{p|Athenian}} purposes—including the
 
 Massive building program on the {{p|Acropolis}}. Member cities that
 Had once contributed as equals became subject peoples contributing
@@ -37005,8 +37005,8 @@ Extended, reached its most developed form under the leadership
 
 Of {{c|Pericles}}. Male citizens—perhaps fifty thousand in a city of
 Perhaps three hundred thousand total inhabitants—participated
-Directly in the Assembly, served on juries, held public office
-By lot. The Assembly met regularly on the {{p|Pnyx}} hill, where any
+Directly in the {{x|Assembly}}, served on juries, held public office
+By lot. The {{x|Assembly}} met regularly on the {{p|Pnyx}} hill, where any
 
 Citizen could speak. Executive functions were performed by boards
 Of ten officials (one from each tribe, selected by lot or elected).
@@ -37235,7 +37235,7 @@ Poison rather than abandoning his mission, became the archetype
 Of the thinker who will die for truth. His final words, as he
 
 Felt the hemlock's numbness climbing his legs, were reportedly
-A request that his friend {{c|Crito}} pay a small debt: "Crito, we
+A request that his friend {{c|Crito}} pay a small debt: "{{c|Crito}}, we
 Owe a rooster to {{c|Asclepius}}. Pay it, don't forget." A pedestrian
 Comment, perhaps, but somehow perfect—the philosopher's last
 
@@ -37356,7 +37356,7 @@ Produce {{c|Alexander the Great}}, who would take {{p|Greek}} civilization
 Itself, via conquest, across three continents.
 
                                                     Begin with {{c|Plato}}
-In his mature phase. The Gaiad introduced him in the previous
+In his mature phase. The {{x|Gaiad}} introduced him in the previous
 Chapter as {{c|Socrates}}'s student and the founder of the {{p|Academy}}.
 His early dialogues preserve, or appear to preserve, {{c|Socrates}}'s
 
@@ -37371,16 +37371,16 @@ Philosophical drama. Then come the middle dialogues, in which
 {{p|Phaedo}}, {{p|Symposium}}, {{p|Phaedrus}}. These are the works most commonly
 
 Associated with "{{p|Platonism}}." They present the theory of the
-Forms—the claim that behind every particular instance of a
+{{x|Forms}}—the claim that behind every particular instance of a
 Quality (this beautiful statue, this just action, this triangular
-Shape) lies an ideal Form (Beauty itself, Justice itself, the
+Shape) lies an ideal {{x|Form}} (Beauty itself, Justice itself, the
 
 Triangle itself) that exists more truly and eternally than any
-Material instantiation. The Forms are apprehended by reason
+Material instantiation. The {{x|Forms}} are apprehended by reason
 Rather than sense. They constitute ultimate reality. And the
-Philosopher's task is to ascend from the world of particulars to
+{{c|Philosopher}}'s task is to ascend from the world of particulars to
 
-The contemplation of the Forms—a process metaphorically depicted
+The contemplation of the {{x|Forms}}—a process metaphorically depicted
 In the {{p|Allegory of the Cave}}, perhaps the most famous passage
 In {{c|Plato}}'s corpus. Most people, {{c|Plato}} writes, are like prisoners
 Chained in a cave, watching shadows on the wall and believing
@@ -37397,7 +37397,7 @@ An educational mission. It also has political implications.
 
 {{c|Plato}}'s {{p|Republic}} argues that ideal political societies would
 Be ruled by philosopher-kings—by those who had made the
-Ascending journey to the Forms and therefore knew what was truly
+Ascending journey to the {{x|Forms}} and therefore knew what was truly
 Good, just, and beautiful. Democracy, {{c|Plato}} argued, produces only
 
 The rule of opinion and self-interest; it elevates demagogues
@@ -37421,7 +37421,7 @@ Practice, to be tyrants). The late dialogues—{{p|Parmenides}}, {{p|Sophist}},
 {{p|Statesman}}, {{p|Philebus}}, {{p|Laws}}, {{p|Timaeus}}—show {{c|Plato}} revising
 
 And complicating his earlier positions. In {{p|Parmenides}}, he
-Subjects his own theory of the Forms to searching self-criticism.
+Subjects his own theory of the {{x|Forms}} to searching self-criticism.
 In {{p|Laws}}, his last great work, he abandons the philosopher-king
 Ideal and describes a more practical constitutional framework
 
@@ -37480,12 +37480,12 @@ Natural philosophy (the {{p|Physics}}, {{p|On the Heavens}}, {{p|Meteorology}},
 {{p|On Generation and Corruption}}). Biology (the {{p|History of Animals}},
 {{p|Parts of Animals}}, {{p|Movement of Animals}}, {{p|Generation of Animals}}).
 
-Psychology (the {{p|De Anima}} and the {{p|Parva Naturalia}}). Metaphysics
+Psychology (the {{p|De Anima}} and the {{p|Parva Naturalia}}). {{x|Metaphysics}}
 (The work that gave us the very term "metaphysics"—literally
 "After the physics," because it was placed after the physical
 Works in the ancient edition). Ethics (the {{p|Nicomachean Ethics}} and
 
-The {{p|Eudemian Ethics}}). Politics. Rhetoric. Poetics. Each of these
+The {{p|Eudemian Ethics}}). Politics. Rhetoric. {{x|Poetics}}. Each of these
 Works would be foundational for its respective discipline.
 {{c|Aristotle}}'s influence on the development of {{p|Western}} thought is,
 Along with {{c|Plato}}'s and {{c|Augustine}}'s, one of the three or four
@@ -37517,7 +37517,7 @@ Constructed their entire theological systems as syntheses of
 
 The head of the philosophers in {{p|Limbo}}, "the master of those
 Who know." For seven hundred years, across multiple civilizations,
-{{c|Aristotle}} was the Philosopher. His dominance was so complete
+{{c|Aristotle}} was the {{c|Philosopher}}. His dominance was so complete
 That the beginning of the modern period was partly defined as
 
 The overthrow of {{c|Aristotelian}} authority—{{c|Galileo}}, {{c|Descartes}},
@@ -37628,7 +37628,7 @@ Democratic politics, intense civic competition—were gone, and they
 
 Would not return.
 
-                          So the Gaiad closes this three-part
+                          So the {{x|Gaiad}} closes this three-part
 Treatment of classical {{p|Greece}}. We began with the rise from the
 Dark Age, the early philosophers, the {{p|Persian Wars}}. We continued
 
@@ -37660,7 +37660,7 @@ In a particular place and time, and it produced results that
 Continue to shape our civilization twenty-five hundred years later.
 
                                                                      And
-The Gaiad honors this achievement without idealizing it. Classical
+The {{x|Gaiad}} honors this achievement without idealizing it. Classical
 {{p|Greece}} was also a slaveholding society, a misogynistic society,
 
 A society that exploited its imperial subjects, a society whose
@@ -37978,7 +37978,7 @@ Disintegrating empire). His political achievement was temporary.
 
 His cultural achievement was permanent.
 
-                                           And the Gaiad must also
+                                           And the {{x|Gaiad}} must also
 Assess him critically. {{c|Alexander}} killed hundreds of thousands
 Of people. He destroyed ancient cities. He enslaved populations.
 
@@ -38002,7 +38002,7 @@ A conqueror. His achievements are real but so are his costs. The
 Ancient world regarded him with a mixture of admiration and
 Horror that was probably more accurate than the pure adulation
 
-Of later romanticized traditions. The Gaiad reads him accordingly.
+Of later romanticized traditions. The {{x|Gaiad}} reads him accordingly.
 Magnificent, consequential, and terrible. A figure who reshaped
 World history in thirteen years and who left behind him a world
 That was permanently different—in ways both illuminating and
@@ -38254,7 +38254,7 @@ Figure moving from obscurity to foundational importance through
 The efforts of nineteenth- and twentieth-century scholarship.
 
                                                                      The
-Gaiad honors {{c|Ashoka}} as one of the genuine moral exemplars of
+{{x|Gaiad}} honors {{c|Ashoka}} as one of the genuine moral exemplars of
 Political history. A conqueror who renounced conquest. A king
 Who dedicated his reign to ethical governance. A patron who
 
@@ -38269,7 +38269,7 @@ Absolute power always retains its coercive dimension, and {{c|Ashoka}}
 Maintained an empire based on prior conquest. But within the
 
 Constraints of ancient imperial possibility, he seems to have
-Genuinely tried to rule well. The Gaiad reads him as one of the
+Genuinely tried to rule well. The {{x|Gaiad}} reads him as one of the
 Brightest spots in the political history of antiquity.
 
                                                            {{p|Maurya}}.
@@ -38292,12 +38292,12 @@ The unification of {{p|India}}. {{c|Ashoka}}'s ethical experiment. The
 In {{p|China}}, the {{p|Warring States}} period came to its violent climax.
 For two centuries seven major states had fought for dominance.
 Finally, in two-twenty-one BCE, the state of {{p|Qin}}—under its
-Ruthless king who would call himself the First Emperor—completed
+Ruthless king who would call himself the {{c|First Emperor}}—completed
 
 The conquest of all rival states and unified {{p|China}} for the first
 Time.
 
-       {{c|Qin Shi Huang}}. The First Emperor. He came to the throne
+       {{c|Qin Shi Huang}}. The {{c|First Emperor}}. He came to the throne
 Of {{p|Qin}} as a boy of thirteen in two-forty-seven BCE. For years
 
 He ruled under a regent. Once he came into his own, he conducted
@@ -38306,7 +38306,7 @@ One by one: {{p|Han}} in two-thirty, {{p|Zhao}} in two-twenty-eight, {{p|Wei}} i
 Two-twenty-five, {{p|Chu}} in two-twenty-three, {{p|Yan}} in two-twenty-two,
 
 {{p|Qi}} in two-twenty-one. The {{p|Warring States}} were ended. {{p|China}} was
-Unified. And {{c|Qin Shi Huang}} declared himself the First Emperor
+Unified. And {{c|Qin Shi Huang}} declared himself the {{c|First Emperor}}
 Of a dynasty that, he anticipated, would last ten thousand
 Generations. His reforms were radical. He imposed a single writing
 
@@ -38531,7 +38531,7 @@ In some detail because so much subsequent {{p|East Asian}} history
 Operates within its categories.
 
                                     {{p|Qin}}. {{p|Han}}. {{c|Qin Shi Huang}}. {{c|Liu Bang}}.
-The First Emperor and the rebel-peasant who succeeded him.
+The {{c|First Emperor}} and the rebel-peasant who succeeded him.
 {{p|Legalism}} yielding to {{p|Confucian}}-{{p|Legalist}} synthesis. The {{p|Great Wall}}.
 
 The {{p|Terracotta Army}}. The {{p|Silk Road}} opening. {{c|Sima Qian}}'s
@@ -38562,7 +38562,7 @@ By kings (traditionally seven of them, ending with {{c|Tarquin the Proud}}),
 Overthrown. The {{p|Roman Republic}} had a distinctive constitutional
 
 Structure: two consuls elected annually to executive authority
-(Checking each other), a Senate of aristocratic elders providing
+(Checking each other), a {{x|Senate}} of aristocratic elders providing
 Continuity and policy guidance, assemblies of citizens voting on
 Laws and electing magistrates, and tribunes of the plebs with
 
@@ -38678,7 +38678,7 @@ Combat casualties in {{p|Western}} history until the twentieth century.
 After {{p|Cannae}}, the {{p|Roman}} state faced existential crisis. Many
 Of their {{p|Italian}} allies defected to {{c|Hannibal}}. The war seemed
 
-Lost. But {{p|Rome}} did not break. The Senate, showing the discipline
+Lost. But {{p|Rome}} did not break. The {{x|Senate}}, showing the discipline
 For which it became famous, refused to negotiate with {{c|Hannibal}}.
 {{p|Rome}} would fight on. And it did. The general {{c|Quintus Fabius Maximus}}
 Adopted what became known as "Fabian tactics": refusing to engage
@@ -38706,7 +38706,7 @@ Was reduced to a shadow of its former power. But it still existed.
 And for two generations, {{p|Carthage}} remained—a commercial city
 Confined to its {{p|African}} hinterland, paying its indemnity, gradually
 Recovering economically. {{p|Rome}} watched with increasing distrust.
-The old senator {{c|Cato the Elder}} ended every speech in the Senate,
+The old senator {{c|Cato the Elder}} ended every speech in the {{x|Senate}},
 
 Regardless of its topic, with the phrase "{{p|Carthago delenda est}}"—
 "{{p|Carthage}} must be destroyed." In the mid-second century BCE,
@@ -38795,7 +38795,7 @@ Victories against the greatest power of his age, and sustained
 A hopeless campaign in hostile territory for fifteen years before
 
 Finally being defeated not by battle but by the systematic attrition
-Of superior resources. The Gaiad honors {{c|Hannibal}}'s genius even
+Of superior resources. The {{x|Gaiad}} honors {{c|Hannibal}}'s genius even
 While recognizing that his cause—the preservation of {{p|Punic}}
 Civilization against {{p|Roman}} expansion—was ultimately lost. He
 
@@ -38824,32 +38824,32 @@ Become the greatest {{p|Mediterranean}} empire.
 
 # Chapter 178: Rome
 
-After Carthage fell, {{p|Rome}} stood
-the master of the Middle Sea,
+After {{p|Carthage}} fell, {{p|Rome}} stood
+the master of the {{p|Middle Sea}},
 and what had been a farmers' town
-now ruled from Spain to Thessaly.
+now ruled from {{p|Spain}} to {{p|Thessaly}}.
 
-The Republic had been built for farms,
+The {{x|Republic}} had been built for farms,
 for citizen-assemblies small,
 for consuls chosen year by year,
-for Senate giving voice to all.
+for {{x|Senate}} giving voice to all.
 
 But empire cracked the ancient forms.
 The legions served the generals now.
 The conquered provinces sent wealth
-that drowned the old Italian plough.
+that drowned the old {{p|Italian}} plough.
 
-The {{c|Gracchi Brothers}}, Tiberius
-and Gaius, saw the danger clear:
+The {{c|Gracchi Brothers}}, {{c|Tiberius}}
+and {{c|Gaius}}, saw the danger clear:
 the landless poor, the latifundia,
 the veterans with naught to cheer.
 
-Tiberius proposed reform,
+{{c|Tiberius}} proposed reform,
 to give the soldiers land again.
-The Senate killed him in the streets.
+The {{x|Senate}} killed him in the streets.
 His brother fell the same way then.
 
-The Republic learned that reason died
+The {{x|Republic}} learned that reason died
 when wealth was threatened at its root,
 and after that the path was set
 toward civil war and bloody fruit.
@@ -38861,7 +38861,7 @@ and not the state they fought for.
 
 {{c|Sulla}} marched his legions in
 upon the sacred city's ground,
-the first Roman to make such war,
+the first {{p|Roman}} to make such war,
 and dictator for life was crowned.
 
 He purged his enemies with lists,
@@ -38876,12 +38876,12 @@ and politics meant swords alone.
 
 {{c|Pompey}} rose, the golden boy,
 who cleared the pirates from the sea,
-who conquered eastward to the Nile
-and gave Judea subsequently.
+who conquered eastward to the {{p|Nile}}
+and gave {{p|Judea}} subsequently.
 
 {{c|Crassus}} rose, the wealthiest man,
 who crushed the {{c|Spartacus}} revolt,
-whose gold bought armies, bought the Senate,
+whose gold bought armies, bought the {{x|Senate}},
 bought whatever he assault.
 
 {{c|Julius Caesar}} rose, the third,
@@ -38889,139 +38889,139 @@ who claimed descent from {{c|Aeneas}},
 who claimed descent from {{c|Venus}} herself,
 and was the ablest of the three.
 
-The First Triumvirate was formed,
+The {{x|First Triumvirate}} was formed,
 unofficial, power-sharing pact.
-They carved the Roman world between them
+They carved the {{p|Roman}} world between them
 and ruled by this unwritten act.
 
-Crassus died in Parthia, shot
+{{c|Crassus}} died in {{p|Parthia}}, shot
 with arrows at the battle's close.
 His head was used as stage-prop in
-a Greek tragedy, or so it goes.
+a {{x|Greek}} tragedy, or so it goes.
 
-Then Pompey and Caesar turned to war.
-Caesar crossed the {{p|Rubicon}} small
+Then {{c|Pompey}} and {{c|Caesar}} turned to war.
+{{c|Caesar}} crossed the {{p|Rubicon}} small
 with legions, saying "die is cast,"
-and brought the Republic to its fall.
+and brought the {{x|Republic}} to its fall.
 
-He chased Pompey to Egypt, where
-the boy-king Ptolemy beheaded
-the Roman general, thinking thus
-Caesar's gratitude was threaded.
+He chased {{c|Pompey}} to {{p|Egypt}}, where
+the boy-king {{c|Ptolemy}} beheaded
+the {{p|Roman}} general, thinking thus
+{{c|Caesar}}'s gratitude was threaded.
 
-Caesar wept. Then met {{c|Cleopatra}},
+{{c|Caesar}} wept. Then met {{c|Cleopatra}},
 who rolled inside a carpet's pack,
 and made alliance with her bed
-and put her on the Egyptian track.
+and put her on the {{p|Egyptian}} track.
 
-He conquered Gaul across the Alps,
-wrote Commentaries on his war,
-"veni, vidi, vici" at Zela,
+He conquered {{p|Gaul}} across the {{p|Alps}},
+wrote {{x|Commentaries}} on his war,
+"veni, vidi, vici" at {{p|Zela}},
 and dictator for life he bore.
 
-The Ides of March came. Brutus struck,
-with Cassius and the Senate's knives.
-"Et tu, Brute?" — then Caesar fell,
-and Rome was torn among his wives.
+The {{x|Ides of March}} came. {{c|Brutus}} struck,
+with {{c|Cassius}} and the {{x|Senate}}'s knives.
+"Et tu, {{c|Brute}}?" — then {{c|Caesar}} fell,
+and {{p|Rome}} was torn among his wives.
 
 {{c|Mark Antony}} gave the funeral speech
 ("I come to bury, not to praise"),
 roused the crowd against the killers,
 and started civil war's new phase.
 
-Octavian, Caesar's grandnephew,
+{{c|Octavian}}, {{c|Caesar}}'s grandnephew,
 adopted as his heir by will,
 revealed himself the cold-eyed one
 with patience and political skill.
 
-The Second Triumvirate formed:
-Antony, Octavian, Lepidus.
-They hunted Brutus down at {{p|Philippi}},
+The {{x|Second Triumvirate}} formed:
+{{c|Antony}}, {{c|Octavian}}, {{c|Lepidus}}.
+They hunted {{c|Brutus}} down at {{p|Philippi}},
 then turned upon each other thus.
 
-Lepidus was marginalized.
-Antony went east to Cleopatra.
-Octavian stayed in Rome to build
+{{c|Lepidus}} was marginalized.
+{{c|Antony}} went east to {{c|Cleopatra}}.
+{{c|Octavian}} stayed in {{p|Rome}} to build
 his reputation bit by bit.
 
-Antony lost himself in Egypt,
+{{c|Antony}} lost himself in {{p|Egypt}},
 living as pharaoh with his queen,
-alienating Roman sentiment,
-the conqueror gone Alexandrine.
+alienating {{p|Roman}} sentiment,
+the conqueror gone {{x|Alexandrine}}.
 
 At {{p|Actium}} the fleets collided.
-Octavian's admiral {{c|Agrippa}} won.
-Antony and Cleopatra fled,
+{{c|Octavian}}'s admiral {{c|Agrippa}} won.
+{{c|Antony}} and {{c|Cleopatra}} fled,
 and soon enough their lives were done.
 
 She with the asp, the royal cobra,
-the uraeus of Egyptian crown.
-He with his sword, the Roman way.
-The Ptolemaic line went down.
+the uraeus of {{p|Egyptian}} crown.
+He with his sword, the {{p|Roman}} way.
+The {{x|Ptolemaic}} line went down.
 
-Octavian stood the sole Roman,
+{{c|Octavian}} stood the sole {{p|Roman}},
 and took the title {{c|Augustus}} then,
 the "revered one," princeps, first,
 and ruled for forty-five years again.
 
-He said he'd restored the Republic,
+He said he'd restored the {{x|Republic}},
 but everyone knew the truth:
-the Senate met, the consuls served,
+the {{x|Senate}} met, the consuls served,
 but emperor ruled, and that was sooth.
 
-The Pax Romana had begun.
+The {{x|Pax Romana}} had begun.
 Two centuries of peace and law.
 Roads, aqueducts, courts, and coins.
 The greatest empire men ever saw.
 
-From Britain to the Tigris reach,
-from Rhine to the Saharan sand,
+From {{p|Britain}} to the {{p|Tigris}} reach,
+from {{p|Rhine}} to the {{p|Saharan}} sand,
 one law, one coin, one road-network,
 one citizenship across the land.
 
 The emperors came, some good, some mad:
-{{c|Tiberius}} grew dark on Capri.
+{{c|Tiberius}} grew dark on {{p|Capri}}.
 {{c|Caligula}} made his horse a consul.
 {{c|Claudius}} the limping one was wily.
 
 {{c|Nero}} burned and fiddled — or
 perhaps that part was later slander.
 But he killed his mother, killed his wife,
-killed Christians, killed with grand meander.
+killed {{c|Christians}}, killed with grand meander.
 
-The Year of Four Emperors came
-when Nero fell upon his sword.
-Galba, Otho, Vitellius, Vespasian —
+The {{x|Year of Four Emperors}} came
+when {{c|Nero}} fell upon his sword.
+{{c|Galba}}, {{c|Otho}}, {{c|Vitellius}}, {{c|Vespasian}} —
 four imperial purples poured.
 
 {{c|Vespasian}} stabilized the state,
-built the Colosseum in Rome,
-and founded the Flavian dynasty
+built the {{p|Colosseum}} in {{p|Rome}},
+and founded the {{x|Flavian}} dynasty
 to give the empire fresh new home.
 
-His son {{c|Titus}} sacked Jerusalem
-in seventy of the Common Era,
-destroyed the Second Temple whole,
-and changed Judaism's era.
+His son {{c|Titus}} sacked {{p|Jerusalem}}
+in seventy of the {{x|Common Era}},
+destroyed the {{p|Second Temple}} whole,
+and changed {{x|Judaism}}'s era.
 
 The menorah was carried west
-upon the Arch of Titus' face.
-The Jews were scattered through the empire.
-The Temple cult had lost its place.
+upon the {{p|Arch of Titus}}' face.
+The {{c|Jews}} were scattered through the empire.
+The {{p|Temple}} cult had lost its place.
 
-But Rome rolled on, the Five Good Emperors:
+But {{p|Rome}} rolled on, the {{x|Five Good Emperors}}:
 {{c|Nerva}}, {{c|Trajan}}, {{c|Hadrian}},
 {{c|Antoninus Pius}}, and {{c|Marcus Aurelius}},
-who was both emperor and Stoic man.
+who was both emperor and {{x|Stoic}} man.
 
-Trajan pushed to Dacia, took the gold,
+{{c|Trajan}} pushed to {{p|Dacia}}, took the gold,
 reached the greatest extent of the realm.
-Hadrian pulled back to the walls,
+{{c|Hadrian}} pulled back to the walls,
 built {{p|Hadrian's Wall}} across the helm.
 
-Marcus wrote his Meditations
-in Greek, for his own private eye,
-a Stoic emperor's private journal,
+{{c|Marcus}} wrote his {{x|Meditations}}
+in {{x|Greek}}, for his own private eye,
+a {{x|Stoic}} emperor's private journal,
 one of the great books that will not die.
 
 "Begin the morning by saying to thyself:
@@ -39029,17 +39029,17 @@ I shall meet with the busybody, ungrateful,
 arrogant, deceitful, envious, unsocial..."
 and yet still serve them all, faithful.
 
-He fought the Marcomanni on the Danube,
+He fought the {{c|Marcomanni}} on the {{p|Danube}},
 plague was ravaging the troops,
 and when he died, the empire was
 already starting to lose its loops.
 
 His son {{c|Commodus}} was the break.
-He fought in the arena, thought himself Hercules,
+He fought in the arena, thought himself {{c|Hercules}},
 was strangled by a wrestler in his bath,
 and after him came crises.
 
-Rome had reached its high plateau.
+{{p|Rome}} had reached its high plateau.
 From here, the slow decline began.
 But for two hundred years it held
 the greatest empire made by man.
@@ -39049,123 +39049,123 @@ the greatest empire made by man.
 
 Return from {{p|Babylon}} to {{p|Jerusalem}},
 by grace of {{c|Cyrus}}' decree,
-the exiles rebuilt the Temple small
+the exiles rebuilt the {{p|Temple}} small
 and tried to reclaim their destiny.
 
-But who was Jew was now a question.
+But who was {{c|Jew}} was now a question.
 The returnees drew tight the line.
-The Samaritans were turned away,
+The {{c|Samaritans}} were turned away,
 the mixed-blood were excluded in time.
 
-{{c|Ezra}} read the Torah aloud
-for seven days at the Water Gate.
+{{c|Ezra}} read the {{x|Torah}} aloud
+for seven days at the {{p|Water Gate}}.
 {{c|Nehemiah}} built the walls again.
 The community consolidated late.
 
 The priesthood was now the center,
 the high priest as civil head.
-Under Persian, then Macedonian rule,
-Judea quietly went ahead.
+Under {{x|Persian}}, then {{x|Macedonian}} rule,
+{{p|Judea}} quietly went ahead.
 
 Then {{c|Alexander}} came through the land,
-was shown the prophecy of Daniel
-according to Josephus' tale,
-and spared Jerusalem from peril.
+was shown the prophecy of {{c|Daniel}}
+according to {{c|Josephus}}' tale,
+and spared {{p|Jerusalem}} from peril.
 
-After Alexander came the Seleucids,
-the Greek kingdom east in {{p|Syria}},
-who ruled Judea as a province
+After {{c|Alexander}} came the {{c|Seleucids}},
+the {{x|Greek}} kingdom east in {{p|Syria}},
+who ruled {{p|Judea}} as a province
 with some degree of imperial delirium.
 
 {{c|Antiochus IV Epiphanes}} came,
-who wanted Greek culture spread,
-who sacked Jerusalem, banned the Law,
-and set up Zeus above the holy head.
+who wanted {{x|Greek}} culture spread,
+who sacked {{p|Jerusalem}}, banned the {{x|Law}},
+and set up {{c|Zeus}} above the holy head.
 
 He sacrificed a pig upon
-the altar in the Temple's court.
+the altar in the {{p|Temple}}'s court.
 The "abomination of desolation"
-was what the Book of Daniel reported.
+was what the {{x|Book of Daniel}} reported.
 
 This was too much. Revolt broke out.
 {{c|Mattathias}} the priest refused
-to make the Greek sacrifice, and killed
-the Jew who volunteered, misused.
+to make the {{x|Greek}} sacrifice, and killed
+the {{c|Jew}} who volunteered, misused.
 
 His son {{c|Judas Maccabeus}} rose,
-the Hammer of the Lord, and led
-guerrilla war against the Greeks
-until the Temple was reconsecrated.
+the {{c|Hammer of the Lord}}, and led
+guerrilla war against the {{c|Greeks}}
+until the {{p|Temple}} was reconsecrated.
 
-Hanukkah the festival commemorates
+{{x|Hanukkah}} the festival commemorates
 the rededication's eight-day rite,
 the oil that burned for eight days straight
 when only one day's oil was in sight.
 
-The Hasmonean dynasty rose
-from this successful Maccabee war,
+The {{x|Hasmonean}} dynasty rose
+from this successful {{x|Maccabee}} war,
 combining high priest with king,
-which some Jews thought was against the law.
+which some {{c|Jews}} thought was against the law.
 
-The Essenes withdrew to {{p|Qumran}}
+The {{c|Essenes}} withdrew to {{p|Qumran}}
 to wait for the end of days.
-They wrote the Dead Sea Scrolls in caves,
+They wrote the {{x|Dead Sea Scrolls}} in caves,
 rediscovered in modern ways.
 
 The {{c|Pharisees}} developed oral law,
 the synagogue, the rabbinic mode,
-the piety of every household's Torah,
+the piety of every household's {{x|Torah}},
 the democratic learning code.
 
 The {{c|Sadducees}} were the priestly class,
-who held only the written Law,
+who held only the written {{x|Law}},
 denied the resurrection's hope,
-and ruled the Temple without awe.
+and ruled the {{p|Temple}} without awe.
 
-The Zealots wanted armed revolt
+The {{c|Zealots}} wanted armed revolt
 against whatever power held sway.
 The apocalyptists wrote of ends
-when God would break into the fray.
+when {{c|God}} would break into the fray.
 
-Then Rome arrived. {{c|Pompey}} marched in
-in sixty-three before the Common Era,
-walked into the Holy of Holies,
+Then {{p|Rome}} arrived. {{c|Pompey}} marched in
+in sixty-three before the {{x|Common Era}},
+walked into the {{p|Holy of Holies}},
 astonished that the room was bare.
 
 (For what had he expected? Some golden idol?
-The Jews had no image of their god.
-Just an empty room where the Ark had been
-before Nebuchadnezzar's rod.)
+The {{c|Jews}} had no image of their god.
+Just an empty room where the {{x|Ark}} had been
+before {{c|Nebuchadnezzar}}'s rod.)
 
-Rome installed {{c|Herod the Great}},
-an Idumean, half-Jewish at best,
+{{p|Rome}} installed {{c|Herod the Great}},
+an {{x|Idumean}}, half-Jewish at best,
 who built magnificent palaces,
-expanded the Temple, tried to rest.
+expanded the {{p|Temple}}, tried to rest.
 
-He rebuilt the Second Temple as
-the grandest structure in the East,
-Herod's Temple, the one that Jesus
-would know, the one the Romans decreased.
+He rebuilt the {{p|Second Temple}} as
+the grandest structure in the {{p|East}},
+{{c|Herod}}'s {{p|Temple}}, the one that {{c|Jesus}}
+would know, the one the {{c|Romans}} decreased.
 
-But Herod was paranoid, murderous,
+But {{c|Herod}} was paranoid, murderous,
 killed his own sons, his wife as well,
-and the Gospels remember him as
-the slaughterer of infants in Bethlehem's dell.
+and the {{x|Gospels}} remember him as
+the slaughterer of infants in {{p|Bethlehem}}'s dell.
 
-After Herod, the kingdom split,
-the Romans ruled through procurators,
+After {{c|Herod}}, the kingdom split,
+the {{c|Romans}} ruled through procurators,
 and messianic expectation rose
 among the poor, the oppressed debtors.
 
-When would the Messiah come?
-The Son of David, the anointed one
-who would drive out Rome and restore
+When would the {{c|Messiah}} come?
+The {{c|Son of David}}, the anointed one
+who would drive out {{p|Rome}} and restore
 the kingdom as in days bygone?
 
 Multiple claimants rose and fell.
-Theudas. Judas the Galilean.
-The Egyptian prophet at Olivet.
-Bar Kochba later, the Judean.
+{{c|Theudas}}. {{c|Judas the Galilean}}.
+The Egyptian prophet at {{p|Olivet}}.
+{{c|Bar Kochba}} later, the Judean.
 
 Into this ferment {{c|John the Baptist}} came
 preaching repentance at the {{p|Jordan}}'s edge,
@@ -39178,13 +39178,13 @@ an Essene-adjacent prophet figure
 urging the people, "turn now, stop running."
 
 He baptized {{c|Jesus}} of {{p|Nazareth}},
-and later lost his head to Herod
-Antipas, the tetrarch, for denouncing
+and later lost his head to {{c|Herod}}
+{{c|Antipas}}, the tetrarch, for denouncing
 his marriage to his brother's bride.
 
 The kingdom was about to arrive.
 Or so it seemed to those who watched.
-The Temple stood magnificent still.
+The {{p|Temple}} stood magnificent still.
 The prophets' words were being matched.
 
 Then came a Galilean teacher
@@ -39197,20 +39197,20 @@ The next chapter is his.
 But here we pause to mark the world
 that shaped him: monotheism hardened
 in exile; messianism heightened
-by Rome's weight, by the Temple's burden.
+by {{p|Rome}}'s weight, by the {{p|Temple}}'s burden.
 
-Judaism was already more
+{{x|Judaism}} was already more
 than just the cult of one small nation.
 It was a portable faith of text,
 of weekly synagogue vocation.
 
 It had rivals, it had debates,
-Pharisee against Sadducee,
-Essene against Zealot, Hellenized
+{{c|Pharisee}} against {{c|Sadducee}},
+{{c|Essene}} against {{c|Zealot}}, Hellenized
 against the strict traditional trees.
 
-But all agreed: one God, no image,
-covenant, Torah, Sabbath, kosher.
+But all agreed: one {{c|God}}, no image,
+covenant, {{x|Torah}}, {{x|Sabbath}}, kosher.
 And all were waiting for what would come
 to change the world and bring it closer.
 
@@ -39218,12 +39218,12 @@ to change the world and bring it closer.
 # Chapter 180: Jesus
 
 In {{p|Bethlehem}}, or {{p|Nazareth}},
-(the Gospels disagree on birth),
-under {{c|Augustus}}' reign, to Joseph
+(the {{x|Gospels}} disagree on birth),
+under {{c|Augustus}}' reign, to {{c|Joseph}}
 and {{c|Mary}}, a child came to earth.
 
 The tradition says a virgin birth,
-a star, magi from the East,
+a star, magi from the {{p|East}},
 shepherds in the fields at night,
 a manger when no room at the feast.
 
@@ -39233,24 +39233,24 @@ years after, when the community
 was thinking what had been conveyed.
 
 The core historical facts are few.
-He was a Galilean Jew.
-He grew up, probably in Nazareth,
-learned carpentry as Joseph knew.
+He was a Galilean {{c|Jew}}.
+He grew up, probably in {{p|Nazareth}},
+learned carpentry as {{c|Joseph}} knew.
 
 At thirty or so, he left his home,
-went to John at the {{p|Jordan}}'s flow,
+went to {{c|John}} at the {{p|Jordan}}'s flow,
 was baptized, heard a voice from heaven:
 "You are my beloved son, I know."
 
 Then into the wilderness forty days,
-tempted by whatever Satan meant,
+tempted by whatever {{c|Satan}} meant,
 and afterward he began to preach
 the kingdom's immanent advent.
 
-"Repent, for the kingdom of God
-is at hand." The same as John the Baptist.
-But where John had preached apocalypse,
-Jesus spoke of mercy as the rest.
+"Repent, for the kingdom of {{c|God}}
+is at hand." The same as {{c|John the Baptist}}.
+But where {{c|John}} had preached apocalypse,
+{{c|Jesus}} spoke of mercy as the rest.
 
 He called twelve disciples, fishermen,
 tax collectors, a zealot too,
@@ -39262,7 +39262,7 @@ parables, beatitudes, love commands.
 The parables told stories without resolution,
 leaving thought in the listener's hands.
 
-The prodigal son, the good Samaritan,
+The prodigal son, the good {{x|Samaritan}},
 the mustard seed, the sower of fields,
 the lost sheep, the lost coin, the lost son,
 the pearl of great price, the treasure it yields.
@@ -39273,14 +39273,14 @@ blessed are those who mourn, who hunger,
 who are persecuted for my merit."
 
 The love commands were two and radical:
-"Love God with all your heart and soul.
+"Love {{c|God}} with all your heart and soul.
 Love your neighbor as yourself."
-On these two hung the Law's whole.
+On these two hung the {{x|Law}}'s whole.
 
 But he added one that no one had said:
 "Love your enemies. Pray for those
 who persecute you. Be perfect as
-your Heavenly Father is, who bestows
+your {{c|Heavenly Father}} is, who bestows
 
 sun and rain on the just and unjust both."
 This was the new, the radical turn.
@@ -39288,8 +39288,8 @@ Not just mercy to your tribe or friend,
 but mercy to those whose hate you earn.
 
 He healed the sick, cast out demons,
-raised Jairus' daughter from the dead,
-raised the widow of Nain's son,
+raised {{c|Jairus}}' daughter from the dead,
+raised the widow of {{p|Nain}}'s son,
 raised {{c|Lazarus}} four days in the bed.
 
 He walked on water in the storm.
@@ -39297,27 +39297,27 @@ He fed the five thousand with few loaves.
 He turned the water into wine.
 He calmed the sea with breath he blows.
 
-The Gospels frame these miracles as signs,
+The {{x|Gospels}} frame these miracles as signs,
 as breakings-in of the kingdom new,
 as demonstrations that death and demon
 were not the final word, it's true.
 
-He chose twelve for the twelve tribes of Israel,
+He chose twelve for the twelve tribes of {{p|Israel}},
 symbolic of restoration complete.
-He taught the disciples to pray "Our Father,"
+He taught the disciples to pray "Our {{c|Father}},"
 giving the kingdom's prayer to recite.
 
 He reserved his sharpest words not for
 the sinners, the prostitutes, the thieves,
 but for the religious professionals,
-the Pharisees who played with sleeves.
+the {{c|Pharisees}} who played with sleeves.
 
-"Woe to you, scribes and Pharisees,
+"Woe to you, scribes and {{c|Pharisees}},
 hypocrites, who strain out a gnat
 and swallow a camel. Who tithe mint
 and cumin, but neglect the fat
 
-weightier matters of the Law,
+weightier matters of the {{x|Law}},
 justice, mercy, and faithfulness.
 You whitewashed tombs, beautiful outside,
 full of dead men's bones and ugliness."
@@ -39325,7 +39325,7 @@ full of dead men's bones and ugliness."
 This made enemies. And when he went
 to {{p|Jerusalem}} for {{c|Passover}},
 rode in on a donkey to cheers,
-overturned the money-changers' tables in Temple stover,
+overturned the money-changers' tables in {{p|Temple}} stover,
 
 the authorities decided to act.
 The high priest {{c|Caiaphas}} said
@@ -39334,40 +39334,40 @@ than for the whole nation to be red."
 
 {{c|Judas Iscariot}} betrayed him
 for thirty pieces of silver, paid.
-He kissed him in the Garden of Gethsemane
+He kissed him in the {{p|Garden of Gethsemane}}
 and showed the soldiers where he stayed.
 
-He was arrested, tried by the Sanhedrin,
-tried by Pilate, tried by Herod Antipas,
-sent back to Pilate, who washed his hands,
-and let the crowd choose Barabbas instead.
+He was arrested, tried by the {{x|Sanhedrin}},
+tried by {{c|Pilate}}, tried by {{c|Herod Antipas}},
+sent back to {{c|Pilate}}, who washed his hands,
+and let the crowd choose {{c|Barabbas}} instead.
 
-The crowd chose Barabbas. Jesus was
+The crowd chose {{c|Barabbas}}. {{c|Jesus}} was
 scourged, crowned with thorns, made mocking king,
 forced to carry his cross to {{p|Golgotha}},
 the place of the skull, the ugliest thing.
 
-Crucifixion was the Roman method
+Crucifixion was the {{p|Roman}} method
 for rebels, slaves, the lowest of men.
 He hung with thieves on either side
 for six hours, and then spoke seven "amens":
 
-"Father, forgive them, they know not
+"{{c|Father}}, forgive them, they know not
 what they do." "Today you shall be with me
-in Paradise." "Woman, behold your son."
-"My God, my God, why have you forsaken me?"
+in {{p|Paradise}}." "Woman, behold your son."
+"My {{c|God}}, my {{c|God}}, why have you forsaken me?"
 
 "I thirst." "It is finished."
-"Father, into your hands I commit
+"{{c|Father}}, into your hands I commit
 my spirit." And with these words he died.
-The veil of the Temple was split.
+The veil of the {{p|Temple}} was split.
 
 Earthquake. Darkness. The centurion
 who watched him die said "Truly this man
-was the Son of God." They took him down
-at sunset, before the Sabbath ran.
+was the {{c|Son of God}}." They took him down
+at sunset, before the {{x|Sabbath}} ran.
 
-Joseph of Arimathea provided
+{{c|Joseph of Arimathea}} provided
 a new tomb, cut in rock, nearby.
 They wrapped him in linen with spices,
 and rolled a stone, and said goodbye.
@@ -39378,12 +39378,12 @@ The stone was rolled away. The tomb
 was empty. His body was gone.
 
 Angels said "He is not here, he is risen."
-Mary Magdalene met him in the garden
+{{c|Mary Magdalene}} met him in the garden
 but did not recognize him at first.
 He sent the twelve to make the kingdom's pardon
 
 known to all nations, to baptize
-in the name of Father, Son, and Holy Ghost,
+in the name of {{c|Father}}, {{c|Son}}, and {{c|Holy Ghost}},
 teaching all he had commanded,
 and he would be with them at the post
 
@@ -39392,10 +39392,10 @@ Then he ascended to heaven's height,
 with the promise that he would return
 to judge the living and the dead in light.
 
-This is the Christian claim, the core.
-Not Jesus the teacher only. Not Jesus
+This is the {{x|Christian}} claim, the core.
+Not {{c|Jesus}} the teacher only. Not {{c|Jesus}}
 the failed messiah, dead and done.
-But Jesus who rose, and reigns, and frees us.
+But {{c|Jesus}} who rose, and reigns, and frees us.
 
 Whether the tomb was empty on that morning,
 whether the post-Easter appearances
@@ -39407,15 +39407,15 @@ The religion he launched would sweep the world.
 The deflationary polytheist
 sees what the crucial swerve unfurled:
 
-a Jewish messianic sect went forth
-into the Greco-Roman sea,
-and merged with Sol Invictus worship,
+a {{x|Jewish}} messianic sect went forth
+into the {{x|Greco-Roman}} sea,
+and merged with {{c|Sol Invictus}} worship,
 with mystery religions, gradually,
 
-and became the faith of Rome itself
+and became the faith of {{p|Rome}} itself
 three centuries later under {{c|Constantine}}.
 But for now, a small community
-in Jerusalem wondered what they had seen.
+in {{p|Jerusalem}} wondered what they had seen.
 
 They met in upper rooms to pray.
 They broke bread together and shared all things.
@@ -39426,46 +39426,46 @@ And the spirit came on them on tongues' wings.
 # Chapter 181: Buddhism Enters the Han
 
 While {{c|Jesus}} walked in {{p|Galilee}},
-the {{c|Han Dynasty}} in the East
+the {{c|Han Dynasty}} in the {{p|East}}
 was reaching its high mature phase,
 and a strange new teaching entered its feast.
 
 Emperor {{c|Ming of Han}} dreamed a dream
 of a golden man flying west-to-east,
-and his advisors said: this is the Buddha,
-the sage from India, the teaching priest.
+and his advisors said: this is the {{c|Buddha}},
+the sage from {{p|India}}, the teaching priest.
 
-He sent ambassadors down the Silk Road
+He sent ambassadors down the {{p|Silk Road}}
 to find the monks and the scriptures both.
-They returned with two Indian monks,
+They returned with two {{p|Indian}} monks,
 {{c|Kasyapa Matanga}} and {{c|Dharmaratna}}, of both.
 
 They brought scriptures, statues, and monks
 on a white horse, the legend says,
-and the first Buddhist temple in {{p|China}}
-was the White Horse Temple of those days.
+and the first {{x|Buddhist}} temple in {{p|China}}
+was the {{p|White Horse Temple}} of those days.
 
 This was the first crossing — around
-sixty-seven of the Common Era.
-Buddhism entered the Han Empire
+sixty-seven of the {{x|Common Era}}.
+{{x|Buddhism}} entered the {{p|Han Empire}}
 by imperial sponsorship without fear.
 
 But it would not take root for centuries.
-The Chinese saw it as a curiosity,
+The {{x|Chinese}} saw it as a curiosity,
 a foreign teaching from the western regions,
 not yet absorbed into their reality.
 
-It competed with Daoism at first,
+It competed with {{x|Daoism}} at first,
 and the two borrowed from each other.
-Daoists adapted Buddhist concepts.
-Buddhists used Daoist terms as brothers.
+{{c|Daoists}} adapted {{x|Buddhist}} concepts.
+{{c|Buddhists}} used {{x|Daoist}} terms as brothers.
 
 The translation problem was immense.
-How translate "nirvana" into Chinese?
+How translate "nirvana" into {{x|Chinese}}?
 How translate "dharma," "karma," "anatta"?
 The monks did their best to seize.
 
-They used Daoist "wu wei" for "nirvana,"
+They used {{x|Daoist}} "wu wei" for "nirvana,"
 "dao" for "dharma," and hoped it stuck.
 Later, better translators came who
 coined new terms with better luck.
@@ -39476,146 +39476,146 @@ the legend of {{c|Heo Hwang-ok}}, princess
 of {{p|Ayodhya}}, sailed for coastal glory.
 
 The legend says she was a princess
-of the Kingdom of Ayuta in India,
-who sailed across the sea to Korea
+of the {{p|Kingdom of Ayuta}} in {{p|India}},
+who sailed across the sea to {{p|Korea}}
 in the first century, to marry plenty.
 
 She married {{c|King Suro}} of {{p|Geumgwan Gaya}},
 became queen of that small kingdom,
 bore him ten sons, and two took her surname,
-founding the Kimhae Heo lineage wisdom.
+founding the {{x|Kimhae Heo}} lineage wisdom.
 
 Whether the legend is literal or
 symbolic of cultural connection made,
-the maritime links between South Asia
-and East Asia were already there, unafraid.
+the maritime links between {{p|South Asia}}
+and {{p|East Asia}} were already there, unafraid.
 
-The Kimhae Heo and Kimhae Kim clans
-both trace descent from Heo Hwang-ok.
-Millions of modern Koreans trace
-their lineage back to this Indian shock.
+The {{x|Kimhae Heo}} and {{x|Kimhae Kim}} clans
+both trace descent from {{c|Heo Hwang-ok}}.
+Millions of modern {{c|Koreans}} trace
+their lineage back to this {{p|Indian}} shock.
 
-Buddhism would later come to Korea
-through Chinese channels, in the fourth century,
+{{x|Buddhism}} would later come to {{p|Korea}}
+through {{x|Chinese}} channels, in the fourth century,
 but already in the first, there were
 threads of contact, mythic currency.
 
-In India itself, Buddhism was
+In {{p|India}} itself, {{x|Buddhism}} was
 splitting into schools and lineages,
-Theravada, Sarvastivada, Mahasanghika,
-the Vibhajyavada and other sages.
+{{x|Theravada}}, {{x|Sarvastivada}}, {{x|Mahasanghika}},
+the {{x|Vibhajyavada}} and other sages.
 
 The {{c|Kushan Empire}} under {{c|Kanishka}}
 in the second century united
-{{p|Bactria}}, {{p|Gandhara}}, and northwest India,
-where Greco-Buddhist art ignited.
+{{p|Bactria}}, {{p|Gandhara}}, and northwest {{p|India}},
+where {{x|Greco-Buddhist}} art ignited.
 
-The Gandhara school carved Buddha statues
-in a Hellenistic Greek style,
-with flowing robes like Apollo's,
-with Mediterranean faces, for a while.
+The {{p|Gandhara}} school carved {{c|Buddha}} statues
+in a {{x|Hellenistic}} {{x|Greek}} style,
+with flowing robes like {{c|Apollo}}'s,
+with {{p|Mediterranean}} faces, for a while.
 
-This is the origin of all Buddha images.
-Before Gandhara, the Buddha was
+This is the origin of all {{c|Buddha}} images.
+Before {{p|Gandhara}}, the {{c|Buddha}} was
 represented only by symbols — wheel,
 footprint, empty throne, the cause.
 
-After Gandhara, the anthropomorphic
-Buddha with long earlobes, topknot, robe
-spread across Asia from India east,
+After {{p|Gandhara}}, the anthropomorphic
+{{c|Buddha}} with long earlobes, topknot, robe
+spread across {{p|Asia}} from {{p|India}} east,
 became the icon of the globe.
 
-Kanishka convened the Fourth Buddhist Council,
-where the Sarvastivada school was codified,
-and missions went out across the Silk Road
+{{c|Kanishka}} convened the {{x|Fourth Buddhist Council}},
+where the {{x|Sarvastivada}} school was codified,
+and missions went out across the {{p|Silk Road}}
 to carry dharma to where it could hide.
 
-Mahayana Buddhism was emerging,
-"the Great Vehicle," with its new ideals:
+{{x|Mahayana}} {{x|Buddhism}} was emerging,
+"the {{x|Great Vehicle}}," with its new ideals:
 the bodhisattva who forgoes nirvana
 to save all beings, who feels what all feels.
 
-The Lotus Sutra, the Heart Sutra,
-the Diamond Sutra were being written,
+The {{x|Lotus Sutra}}, the {{x|Heart Sutra}},
+the {{x|Diamond Sutra}} were being written,
 expanding the scope of the teaching from
-the arhat path to the Buddha's wisdom.
+the arhat path to the {{c|Buddha}}'s wisdom.
 
-Mahayana would be the form that traveled east
+{{x|Mahayana}} would be the form that traveled east
 to {{p|China}}, {{p|Korea}}, {{p|Japan}}, {{p|Vietnam}}.
-Theravada would survive in the south,
+{{x|Theravada}} would survive in the south,
 in {{p|Sri Lanka}}, {{p|Burma}}, {{p|Thailand}}, {{p|Cambodia}}'s psalm.
 
-The Silk Road was the great conveyor.
-From Kushan Gandhara eastward through
-Tarim Basin oasis kingdoms,
+The {{p|Silk Road}} was the great conveyor.
+From {{x|Kushan}} {{p|Gandhara}} eastward through
+{{p|Tarim Basin}} oasis kingdoms,
 monks and scrolls and statues flew.
 
 {{p|Khotan}}, {{p|Kucha}}, {{p|Turfan}}, {{p|Dunhuang}},
 the desert stations where caravans paused,
-became centers of Buddhist translation,
+became centers of {{x|Buddhist}} translation,
 cave monasteries where the great texts were housed.
 
-Dunhuang's caves would later shelter
-the Diamond Sutra's earliest print,
+{{p|Dunhuang}}'s caves would later shelter
+the {{x|Diamond Sutra}}'s earliest print,
 the world's oldest dated printed book,
 from the ninth century, in preserved stint.
 
-But that was later. For now, in the Han,
+But that was later. For now, in the {{p|Han}},
 the new teaching trickled in slowly,
 a curiosity, a foreign cult,
 not yet the cultural river, wholly.
 
-The Han itself was showing strain.
+The {{p|Han}} itself was showing strain.
 The empress clans fought palace war.
-The Yellow Turbans rebelled in anger.
-The Han would fall in the third century, raw.
+The {{c|Yellow Turbans}} rebelled in anger.
+The {{p|Han}} would fall in the third century, raw.
 
 But that's the next chapter. For now,
 mark the crossing: the teaching of
-the Shakyamuni had crossed the mountains,
-had entered China, the second love.
+the {{c|Shakyamuni}} had crossed the mountains,
+had entered {{p|China}}, the second love.
 
 Two great transmissions. Two great streams
-flowing out from the Indian source:
-Ashoka's missions south and west;
+flowing out from the {{p|Indian}} source:
+{{c|Ashoka}}'s missions south and west;
 these silk-road missions east, of course.
 
 The dharma was becoming world-religion,
-no longer just an Indian way.
-The Buddha's "middle path" had proved
+no longer just an {{p|Indian}} way.
+The {{c|Buddha}}'s "middle path" had proved
 capable of crossing every sway.
 
 
 # Chapter 182: Elagabalus
 
-The Severan dynasty held Rome
-in the early third Common Era,
+The {{x|Severan}} dynasty held {{p|Rome}}
+in the early third {{x|Common Era}},
 and produced one of the strangest emperors
 that ever held imperial ear.
 
 {{c|Elagabalus}}, age fourteen,
 became emperor in two-eighteen,
 and brought with him from {{p|Emesa}}
-a cult that shocked the Roman scene.
+a cult that shocked the {{p|Roman}} scene.
 
 He was hereditary priest of
 {{c|Elagabal}}, the sun god of his city,
 a black stone worshipped at a temple,
-a Semitic deity, un-pretty
+a {{x|Semitic}} deity, un-pretty
 
-to Roman eyes that wanted Jupiter,
-Mars, the ancestral Capitoline three.
-He brought the black stone to Rome itself,
+to {{p|Roman}} eyes that wanted {{c|Jupiter}},
+{{c|Mars}}, the ancestral {{x|Capitoline}} three.
+He brought the black stone to {{p|Rome}} itself,
 installed it above all others visibly.
 
-He tried to marry it to Athena.
-When that failed, he tried Astarte.
+He tried to marry it to {{c|Athena}}.
+When that failed, he tried {{c|Astarte}}.
 He held processions with the stone
 in a chariot, barefoot, sweaty, hardly.
 
 He is alleged — with what truth we
 do not fully know — to have done many things:
-married a Vestal Virgin, violating
+married a {{x|Vestal Virgin}}, violating
 the sacred celibacy that the office brings;
 
 married several times to women,
@@ -39628,29 +39628,29 @@ or hostile propaganda spun
 by enemies after his fall,
 the modern scholars debate as one.
 
-Some see in Elagabalus
+Some see in {{c|Elagabalus}}
 an early transgender figure,
 the first recorded ruler who
 sought physical transformation with rigor.
 
 Others see only slander, the
-standard tropes of Roman invective
+standard tropes of {{p|Roman}} invective
 used to destroy reputations
 of rulers who proved ineffective.
 
 The deflationary polytheist
 notes: whatever the truth, the attempt
-to raise a Semitic sun god to
-Roman supremacy was not exempt
+to raise a {{x|Semitic}} sun god to
+{{p|Roman}} supremacy was not exempt
 
-from consequences. The Roman elites
-were deeply offended. The Praetorian Guard
+from consequences. The {{p|Roman}} elites
+were deeply offended. The {{x|Praetorian Guard}}
 assassinated him at eighteen, dragged
 his body through streets, threw it hard
 
 into the {{p|Tiber}}, and his mother's body
 with him, the sewer their tomb.
-The black stone was sent back to Emesa.
+The black stone was sent back to {{p|Emesa}}.
 The old gods reclaimed their room.
 
 But the seed had been planted.
@@ -39659,74 +39659,74 @@ imported from {{p|Syria}}, had briefly
 occupied the imperial wraith.
 
 This was the first attempt to make
-solar monotheism Rome's state cult.
-It failed under Elagabalus.
-It would succeed under Aurelian's result.
+solar monotheism {{p|Rome}}'s state cult.
+It failed under {{c|Elagabalus}}.
+It would succeed under {{c|Aurelian}}'s result.
 
 {{c|Aurelian}} fifty years later,
-after the Crisis of the Third Century,
+after the {{x|Crisis of the Third Century}},
 would make {{c|Sol Invictus}} the state god,
-the "Unconquered Sun" of imperial sanctuary.
+the "{{c|Unconquered Sun}}" of imperial sanctuary.
 
 That syncretic sun-cult would merge
 with mystery religions and with others,
 would become the cultural matrix
-into which Christianity hovers.
+into which {{x|Christianity}} hovers.
 
-December twenty-fifth was Sol Invictus'
+December twenty-fifth was {{c|Sol Invictus}}'
 birthday, the winter solstice celebration,
-the "dies natalis Solis Invicti,"
+the "dies natalis {{c|Solis Invicti}},"
 the unconquered sun's inauguration.
 
-Christians would later fix their Christmas
+{{c|Christians}} would later fix their {{x|Christmas}}
 on this same date, adopting the feast,
-merging the birth of the Son of Man
-with the rebirth of the Sun in the East.
+merging the birth of the {{c|Son of Man}}
+with the rebirth of the {{c|Sun}} in the {{p|East}}.
 
-This is not accidental. The Sol Invictus
-cult and the Christ cult were cousins,
+This is not accidental. The {{c|Sol Invictus}}
+cult and the {{c|Christ}} cult were cousins,
 sharing iconography, festivals, theology,
 the rayed halo, the midwinter reasons.
 
-Elagabalus failed. But the cultural current
+{{c|Elagabalus}} failed. But the cultural current
 he represented — eastern solar monotheism
-colonizing the Roman imperial cult —
+colonizing the {{p|Roman}} imperial cult —
 would continue its strong historical prism.
 
 Three strands had been converging now
-toward what would become monotheistic Rome:
-Jewish exilic covenant-monotheism,
-Persian dualistic cosmic home,
+toward what would become monotheistic {{p|Rome}}:
+{{x|Jewish}} exilic covenant-monotheism,
+{{x|Persian}} dualistic cosmic home,
 
-Egyptian Akhenaten's old Aten
+{{x|Egyptian}} {{c|Akhenaten}}'s old {{c|Aten}}
 (a lost current but not forgotten),
-Syrian solar-theologies rising,
-Platonic philosophy unforgotten.
+{{x|Syrian}} solar-theologies rising,
+{{x|Platonic}} philosophy unforgotten.
 
 All were feeding into the stream
-that would break through under Constantine
-and become the official faith of Rome
-and then of Europe, clean and clean.
+that would break through under {{c|Constantine}}
+and become the official faith of {{p|Rome}}
+and then of {{p|Europe}}, clean and clean.
 
 But we are not there yet. The third century
 still held the old gods in their frame.
-Elagabalus was the weird episode
-that Rome tried hard to forget by name.
+{{c|Elagabalus}} was the weird episode
+that {{p|Rome}} tried hard to forget by name.
 
 His memory was damned, "damnatio memoriae,"
 his name scratched out, his image defaced.
 But history remembered him as
-the strangest emperor Rome had faced.
+the strangest emperor {{p|Rome}} had faced.
 
 
 # Chapter 183: The Third Century Crisis
 
-After Elagabalus was killed,
+After {{c|Elagabalus}} was killed,
 the empire stumbled for fifty years.
 Fifty emperors in fifty years.
 Plague. Inflation. Barbarian fears.
 
-Historians call it the Crisis of the Third Century.
+Historians call it the {{x|Crisis of the Third Century}}.
 The imperial system nearly broke.
 Legions acclaimed their generals,
 who were killed by the next legion's stroke.
@@ -39742,52 +39742,52 @@ The coinage was debased, the silver
 diluted to base metal's tether.
 
 {{c|Decius}} launched the first empire-wide
-persecution of Christians, requiring
+persecution of {{c|Christians}}, requiring
 all citizens to sacrifice to the gods
 and produce certificates proving firing.
 
-Many Christians sacrificed, lapsed,
+Many {{c|Christians}} sacrificed, lapsed,
 became the "lapsi" debated for years.
-Others were martyred, {{c|Cyprian}} of Carthage,
+Others were martyred, {{c|Cyprian}} of {{p|Carthage}},
 the bishop, whose blood watered tears.
 
 The {{p|Persians}} under {{c|Shapur I}} captured
-{{c|Valerian}} the Roman emperor in battle,
+{{c|Valerian}} the {{p|Roman}} emperor in battle,
 used him as a footstool to mount horse,
 then stuffed his body with straw for cattle.
 
 (Or so the story runs. Whether
 the exact details are true,
-the capture of a Roman emperor
+the capture of a {{p|Roman}} emperor
 was unprecedented, new.)
 
 {{c|Zenobia}} of {{p|Palmyra}} broke away,
-ruled Egypt, {{p|Syria}}, {{p|Asia Minor}} east,
+ruled {{p|Egypt}}, {{p|Syria}}, {{p|Asia Minor}} east,
 a warrior queen of legendary beauty,
 until {{c|Aurelian}} marched and seized.
 
-The Gallic Empire broke off in the west,
+The {{p|Gallic Empire}} broke off in the west,
 ruled by {{c|Postumus}} for years.
 The empire was splitting three ways:
-Gaul, Rome, and Palmyra in tears.
+{{p|Gaul}}, {{p|Rome}}, and {{p|Palmyra}} in tears.
 
-Then {{c|Aurelian}} came. "Restitutor Orbis."
-The Restorer of the World.
+Then {{c|Aurelian}} came. "{{c|Restitutor Orbis}}."
+The {{c|Restorer of the World}}.
 He reunited the three empires,
 brought the eagle standards unfurled.
 
-He defeated Zenobia and took her
-to Rome in golden chains to display.
-He defeated the Gallic Empire.
+He defeated {{c|Zenobia}} and took her
+to {{p|Rome}} in golden chains to display.
+He defeated the {{p|Gallic Empire}}.
 He saved the state from decay.
 
-And he made Sol Invictus the state god.
-The "Unconquered Sun" became official.
+And he made {{c|Sol Invictus}} the state god.
+The "{{c|Unconquered Sun}}" became official.
 The syncretic solar monotheism
 was now imperial, not just unofficial.
 
 This is the crucial step. After
-Aurelian, the empire's religious drift
+{{c|Aurelian}}, the empire's religious drift
 was toward monotheism, toward
 one supreme god, one solar gift.
 
@@ -39796,24 +39796,24 @@ The temples still stood. The priests still served.
 But the emperor's personal faith
 was focused on one divinity deserved.
 
-Aurelian was assassinated too.
+{{c|Aurelian}} was assassinated too.
 But his work held. {{c|Diocletian}} came
 and restructured the empire entirely:
-the Tetrarchy, four rulers, same aim.
+the {{x|Tetrarchy}}, four rulers, same aim.
 
-Two Augusti, two Caesars, ruling
+Two {{x|Augusti}}, two {{x|Caesars}}, ruling
 the four quarters of the empire wide.
 {{p|Nicomedia}}, {{p|Milan}}, {{p|Trier}}, {{p|Sirmium}}
 were the new capitals where power resides.
 
-Rome itself was becoming peripheral.
-The emperor rarely visited Rome.
+{{p|Rome}} itself was becoming peripheral.
+The emperor rarely visited {{p|Rome}}.
 Power was where the frontier armies were,
-not in the old Italian home.
+not in the old {{p|Italian}} home.
 
-Diocletian launched the final great persecution
-of Christians in three-oh-three,
-the "Great Persecution," the last attempt
+{{c|Diocletian}} launched the final great persecution
+of {{c|Christians}} in three-oh-three,
+the "{{x|Great Persecution}}," the last attempt
 to suppress the church's rise by decree.
 
 It failed. The church was too embedded.
@@ -39831,19 +39831,19 @@ Then came {{c|Constantine}}.
 But before we get to him, mark this:
 the third century was the civilizational near-miss.
 The empire almost fell right then.
-It was saved by Aurelian's fierce grip and kiss.
+It was saved by {{c|Aurelian}}'s fierce grip and kiss.
 
 And saved in a form that was no longer
-the old Republic's civic-religion mode.
+the old {{x|Republic}}'s civic-religion mode.
 It was now a monarchical empire with
 a near-monotheistic imperial code.
 
 The groundwork was laid. The solar
-monotheism of Aurelian would
-transition into the Christian monotheism
-of Constantine. One god would do.
+monotheism of {{c|Aurelian}} would
+transition into the {{x|Christian}} monotheism
+of {{c|Constantine}}. One god would do.
 
-Three centuries after Jesus,
+Three centuries after {{c|Jesus}},
 the church had grown from twelve
 to perhaps ten percent of the empire,
 still a minority, but selective.
@@ -39851,100 +39851,100 @@ still a minority, but selective.
 The bishops had become organized.
 The creeds were being formulated.
 The gospels had been canonized
-and the writings of Paul disseminated.
+and the writings of {{c|Paul}} disseminated.
 
 The church was ready. The empire was ready.
 What was needed was imperial blessing.
 That would come in three-twelve, at
-the battle of the Milvian Bridge, confessing.
+the battle of the {{p|Milvian Bridge}}, confessing.
 
 {{c|Constantine}} saw a vision, or claimed to.
 "In this sign, conquer." The chi-rho.
-He won the battle, credited Christ,
+He won the battle, credited {{c|Christ}},
 and the whole direction began to flow.
 
 
 # Chapter 184: The Sassanid Empire
 
-In {{p|Persia}}, the Parthians fell
+In {{p|Persia}}, the {{c|Parthians}} fell
 to {{c|Ardashir I}} in two-twenty-four,
 who claimed descent from {{c|Sasan}}, a priest,
 and founded the {{c|Sassanid}} rule once more.
 
 The new dynasty revived old glory,
-the vision of Achaemenid days,
+the vision of {{x|Achaemenid}} days,
 and made {{c|Zoroastrianism}} state religion,
 with {{c|Kartir}} as high priest of ways.
 
 They centered on {{p|Ctesiphon}} their seat,
-on the {{p|Tigris}} near old Babylon's ground.
-They warred with Rome for four centuries,
+on the {{p|Tigris}} near old {{p|Babylon}}'s ground.
+They warred with {{p|Rome}} for four centuries,
 locked in a struggle without bound.
 
 {{c|Shapur I}} captured {{c|Valerian}},
-defeated three Roman emperors in field,
+defeated three {{p|Roman}} emperors in field,
 carved his triumph on {{p|Naqsh-e Rustam}}'s cliffs,
-where Achaemenid tombs were sealed.
+where {{x|Achaemenid}} tombs were sealed.
 
-{{c|Mani}} arose in Shapur's court,
+{{c|Mani}} arose in {{c|Shapur}}'s court,
 the prophet of {{c|Manichaeism}},
-blending Zoroastrian dualism with
-Buddhist, Christian, and Gnostic idealism.
+blending {{x|Zoroastrian}} dualism with
+{{x|Buddhist}}, {{x|Christian}}, and {{x|Gnostic}} idealism.
 
-Mani saw himself as the seal
+{{c|Mani}} saw himself as the seal
 of all prophets — {{c|Zarathustra}}, {{c|Buddha}},
 {{c|Jesus}} — completing their partial light
 into a universal global code.
 
-The religion spread from Persia east
+The religion spread from {{p|Persia}} east
 to {{p|Central Asia}} and to {{p|China}} past,
 west to {{p|Rome}}, where {{c|Augustine}} embraced it
 for nine years, before he broke fast.
 
-Shapur tolerated Mani. Bahram
-would kill him, and Kartir the priest
-would persecute Manichaeans hard,
-Jews, Buddhists, Christians — no decreased.
+{{c|Shapur}} tolerated {{c|Mani}}. {{c|Bahram}}
+would kill him, and {{c|Kartir}} the priest
+would persecute {{c|Manichaeans}} hard,
+{{c|Jews}}, {{c|Buddhists}}, {{c|Christians}} — no decreased.
 
-Zoroastrianism hardened into
+{{x|Zoroastrianism}} hardened into
 an orthodoxy defending its soil.
 The {{c|Avesta}} was finally written down
 to fix the canon from centuries' toil.
 
 {{c|Khosrow I}} brought the golden age,
 reformed taxation, built canals,
-received Greek philosophers fleeing
-{{c|Justinian}}'s Athens shut locales.
+received {{x|Greek}} philosophers fleeing
+{{c|Justinian}}'s {{p|Athens}} shut locales.
 
 He commissioned translation of
-Indian, Greek, and Syriac books
+{{x|Indian}}, {{x|Greek}}, and {{x|Syriac}} books
 into {{p|Middle Persian}}, preserving learning
 that otherwise would have been shook.
 
-The game of chess arrived from India
+The game of chess arrived from {{p|India}}
 to his court, where it was refined.
-The Pancatantra was translated
-as Kalila wa Dimna, combined
+The {{x|Pancatantra}} was translated
+as {{x|Kalila wa Dimna}}, combined
 
-with Persian wisdom, and later became
+with {{x|Persian}} wisdom, and later became
 the source of fables across the world.
-Aesop's cousins, Uncle Remus' kin,
-traveled through Khosrow's court unfurled.
+{{c|Aesop}}'s cousins, {{c|Uncle Remus}}' kin,
+traveled through {{c|Khosrow}}'s court unfurled.
 
 {{c|Khosrow II}} would fight the last great
-war with Rome's Eastern continuation,
-capture {{p|Jerusalem}} and take the True Cross,
-nearly destroy Byzantium's foundation.
+war with {{p|Rome}}'s Eastern continuation,
+capture {{p|Jerusalem}} and take the {{x|True Cross}},
+nearly destroy {{p|Byzantium}}'s foundation.
 
 Then {{c|Heraclius}} would counter-strike,
-marching into Persia's heartland,
-recovering the Cross, ending the war,
+marching into {{p|Persia}}'s heartland,
+recovering the {{x|Cross}}, ending the war,
 exhausting both empires first-hand.
 
 Both empires were spent. The stage was set
-for the Arab conquest sweeping north.
+for the {{x|Arab}} conquest sweeping north.
 Within a decade of that war's end,
-the Sassanid realm would be going forth
+the {{x|Sassanid}} realm would be going forth
 
 to its destruction. {{c|Yazdegerd III}},
 the last shah, would flee across the land,
@@ -39952,95 +39952,95 @@ murdered by a miller at {{p|Merv}}.
 The fire temples would cease their stand.
 
 But the cultural inheritance endured.
-Persian language, literature, art
-would resurface under Islamic rule
-and shape the Islamic world's heart.
+{{x|Persian}} language, literature, art
+would resurface under {{x|Islamic}} rule
+and shape the {{x|Islamic}} world's heart.
 
-The Shahnameh of {{c|Ferdowsi}} would
+The {{x|Shahnameh}} of {{c|Ferdowsi}} would
 preserve the pre-Islamic past in verse.
-The Zoroastrians who fled to India
+The {{c|Zoroastrians}} who fled to {{p|India}}
 became {{c|Parsis}}, their faith's unsquashed reverse.
 
 
 # Chapter 185: Armenia
 
 {{p|Armenia}}, that high mountain land
-between the Roman and Persian grip,
-between {{p|Mount Ararat}} and the Caucasus,
+between the {{p|Roman}} and {{x|Persian}} grip,
+between {{p|Mount Ararat}} and the {{p|Caucasus}},
 held culturally tight its grip.
 
-The Armenians trace themselves to {{c|Hayk}},
-descendant of Noah through {{c|Japheth}}'s son,
-who defeated the tyrant {{c|Bel}} of Babylon
+The {{c|Armenians}} trace themselves to {{c|Hayk}},
+descendant of {{c|Noah}} through {{c|Japheth}}'s son,
+who defeated the tyrant {{c|Bel}} of {{p|Babylon}}
 and founded the nation under the sun.
 
-(They call themselves Hay, their land Hayastan.
-The name "Armenia" is what others call
+(They call themselves {{x|Hay}}, their land {{p|Hayastan}}.
+The name "{{p|Armenia}}" is what others call
 their land, from {{c|Aram}} another ancestor,
-descendant of Hayk through several fall.)
+descendant of {{c|Hayk}} through several fall.)
 
 In three-oh-one, King {{c|Tiridates III}}
 was converted by {{c|Gregory the Illuminator}},
 whom he had imprisoned in a pit for years.
-Gregory survived by a widow's favor.
+{{c|Gregory}} survived by a widow's favor.
 
-Tiridates made Christianity the state religion,
+{{c|Tiridates}} made {{x|Christianity}} the state religion,
 the first nation in history to do so,
-twelve years before {{c|Constantine}}'s Edict of Milan,
-a generation before Rome's own show.
+twelve years before {{c|Constantine}}'s {{x|Edict of Milan}},
+a generation before {{p|Rome}}'s own show.
 
-The Armenian Apostolic Church
+The {{x|Armenian Apostolic Church}}
 claims descent from the apostles {{c|Thaddeus}}
 and {{c|Bartholomew}}, who preached there first
 and were martyred for what they taught us.
 
 {{c|Mesrop Mashtots}} in the early fifth century
-created the Armenian alphabet,
+created the {{x|Armenian}} alphabet,
 thirty-six letters designed for the tongue,
 enabling scripture and liturgy to be set.
 
-The Bible was translated immediately.
-A golden age of Armenian letters began.
+The {{x|Bible}} was translated immediately.
+A golden age of {{x|Armenian}} letters began.
 History, theology, philosophy flourished
 between mountain passes of the clan.
 
-{{c|Movses Khorenatsi}}'s History of Armenia
-wove together Greek, Persian, Jewish, and Hebrew
+{{c|Movses Khorenatsi}}'s {{x|History of Armenia}}
+wove together {{x|Greek}}, {{x|Persian}}, {{x|Jewish}}, and {{x|Hebrew}}
 sources into a national narrative,
-tracing the Haykazuni line as true.
+tracing the {{x|Haykazuni}} line as true.
 
-Armenia was trapped between empires.
-Persian Sassanid on the east, Byzantine on the west,
+{{p|Armenia}} was trapped between empires.
+{{x|Persian}} {{x|Sassanid}} on the east, {{x|Byzantine}} on the west,
 the land was divided and partitioned,
-and Christian identity became their test.
+and {{x|Christian}} identity became their test.
 
 In four-fifty-one at {{p|Avarayr}}, {{c|Vardan Mamikonian}}
-led Christian Armenians against Sassanid forces
-demanding they return to Zoroastrianism.
-Vardan died, but Armenia preserved its courses.
+led {{x|Christian}} {{c|Armenians}} against {{x|Sassanid}} forces
+demanding they return to {{x|Zoroastrianism}}.
+{{c|Vardan}} died, but {{p|Armenia}} preserved its courses.
 
-The Battle of Avarayr is remembered
+The {{x|Battle of Avarayr}} is remembered
 as the founding martyrdom of the nation,
-the moment when Armenian Christianity
+the moment when {{x|Armenian}} {{x|Christianity}}
 chose to fight rather than face forced conversion.
 
-Armenia would never be a great power.
+{{p|Armenia}} would never be a great power.
 But it would be a persistent one.
 The mountains shielded. The alphabet preserved.
 The church maintained what had been done.
 
-Centuries later, Armenians would
-settle across the Middle East as traders,
+Centuries later, {{c|Armenians}} would
+settle across the {{p|Middle East}} as traders,
 builders, craftsmen, architects
 of {{p|Istanbul}}, {{p|Isfahan}}, and other Kraiters.
 
-The {{c|Kingdom of Cilicia}} on the Mediterranean
+The {{c|Kingdom of Cilicia}} on the {{p|Mediterranean}}
 would be a crusader ally's friend.
 The genocide of nineteen-fifteen
-would be the modern Armenian wound without end.
+would be the modern {{x|Armenian}} wound without end.
 
 But the culture endured. The church endured.
-The alphabet still writes what Mashtots penned.
+The alphabet still writes what {{c|Mashtots}} penned.
 A small mountain nation held on through empires.
 The deflationary polytheist sees how they fend.
 
@@ -45985,7 +45985,7 @@ Of {{p|Jerusalem}} and the contraband
 Of the refugee's desperate call
 
 To survive: when {{c|Nebuchadnezzar}}'s armies
-Broke the walls and burned the Temple
+Broke the walls and burned the {{x|Temple}}
 And marched the {{c|Judean}} swarmies
 Into {{p|Babylon}}'s ample
 
@@ -46029,8 +46029,8 @@ Delusion—the {{c|Phoenician}}'s largesse
 Of navigational knowledge was unfurled
 
 Upon the stars: they sailed by {{c|Polaris}},
-By the Bears, by the rising and the setting
-Of the constellations—the Paris
+By the {{x|Bears}}, by the rising and the setting
+Of the constellations—the {{x|Paris}}
 Of the ancient world's maritime betting
 
 Was {{p|Sidon}}, and her sailors knew
@@ -46065,7 +46065,7 @@ And the evidence? The whispers
 Of the anomalous: the {{p|Paraíba}} accords—
 The inscription found in {{p|Brazil}}'s twisters
 
-Of jungle, Phoenician script on stone
+Of jungle, {{c|Phoenician}} script on stone
 That scholars have debated for a century
 And a half—the genuine or the overblown
 And forged—the sedimentary
@@ -46073,7 +46073,7 @@ And forged—the sedimentary
 Layers of controversy that the academy
 Has never settled. The {{c|Roman}} amphorae
 Dredged from {{p|Guanabara Bay}}'s taxonomy
-Of silt—the terracotta's Hora
+Of silt—the terracotta's {{x|Hora}}
 
 And provenance disputed, the chain
 Of custody uncertain. The coca
@@ -46104,7 +46104,7 @@ The refugee into the guest
 Of a new world, and that he landed
 On the coast of {{p|Mesoamerica}}
 And founded {{p|Zarahemla}}, the banded
-And polyglot America
+And polyglot {{p|America}}
 
 Of the mixed descent: the {{c|Israelite}}
 And the {{c|Phoenician}} sailor married
@@ -46284,7 +46284,7 @@ Of genealogy—the {{c|Mixtec}}, those
 
 Whose painted books would prove the most complete
 Surviving record of the pre-Columbian
-Americas—the deerskin's folded sheet
+{{p|Americas}}—the deerskin's folded sheet
 Unscrolled to show a thousand years of clan
 
 And kingdom, marriage, war, and sacrifice,
@@ -46382,7 +46382,7 @@ Of ancestry and found their purpose there.
 Before the {{c|Inca}} raised their sun-crowned throne,
 Before the royal roads stretched east and west,
 Four kingdoms laid the deep foundation stone
-On which the Andes' final lord would rest.
+On which the {{p|Andes}}' final lord would rest.
 
 For nothing rises from the empty air—
 The greatest empire is the heir of all
@@ -46394,7 +46394,7 @@ That {{c|Nazca}} drew, that {{c|Wari}} organized,
 That {{c|Tiwanaku}}'s temple-builders stored
 With sanctity—and each had memorized
 
-A portion of the Andean answer.
+A portion of the {{x|Andean}} answer.
 
                                        South—
 Along the coastal desert's barren shelf
@@ -46489,11 +46489,11 @@ The breath of pilgrims laboring to meet
 
 Their god, the {{p|Gate of the Sun}} was carved—
 A single block of andesite, the face
-Of the Staff God weeping, starved
+Of the {{c|Staff God}} weeping, starved
 Or ecstatic, rays extending into space
 
 From the divine head like the condor's crown—
-And the pilgrims came from every Andean vale,
+And the pilgrims came from every {{x|Andean}} vale,
 From the coast, the jungle, every highland town,
 To bring their offerings along the trail
 
@@ -46506,7 +46506,7 @@ By pilgrimage and by the avatar
 Of holiness that radiated out
 From the sacred center like a hymn:
 The peoples of the {{p|Andes}} felt devout
-Before the Staff God's gaze, and the dim
+Before the {{c|Staff God}}'s gaze, and the dim
 
 And oxygen-thin air of the altiplano
 Became the proof of spiritual height—
@@ -46643,7 +46643,7 @@ Of alluvial soil and water, the profound
 And bottomless fertility that corn
 Required—for this was the corn's kingdom,
 The maize-fed civilization, born
-Of the Mesoamerican wisdom
+Of the {{x|Mesoamerican}} wisdom
 
 That had traveled north along the trade routes' thread
 Until the {{p|Mississippi}} valley learned
@@ -46688,7 +46688,7 @@ The solstice sunrise and the solar debt
 Of every season marked by the alignment
 Of red-cedar posts in a ring
 Of astronomical refinement—
-The Cahokian calendar, the string
+The {{x|Cahokian}} calendar, the string
 
 Of days and ceremonies tied to the sun's
 Position on the eastern ridge at dawn—
@@ -46856,7 +46856,7 @@ Of six hundred rooms, the stacked embrace
 Of four-story walls of fitted stone,
 The largest building in {{p|North America}}
 Until the nineteenth century's full-grown
-Manhattan tenements—the camera
+{{p|Manhattan}} tenements—the camera
 
 Of time would prove that {{p|Chaco}} was not a town
 But something stranger: a ceremonial
@@ -46941,8 +46941,8 @@ Could smell the land before the land displayed
 Itself—the scent of pine, the unexplored
 
 And resinous perfume of a forest
-That no European axe had touched,
-No European fire had dispossessed
+That no {{c|European}} axe had touched,
+No {{c|European}} fire had dispossessed
 Of its ancient growth—and the first who clutched
 
 The prow and peered into the mist was {{c|Leif}},
@@ -46959,7 +46959,7 @@ Was never final for the {{c|Norse}}.
 
                                      The year
 Was one thousand of the common count—
-Or near enough—and {{c|Bjarni}} Herjulfsson's clear
+Or near enough—and {{c|Bjarni}} {{c|Herjulfsson}}'s clear
 Report of land beyond the westward fount
 
 Of ocean had reached {{c|Leif}}'s ambitious ear:
@@ -46972,7 +46972,7 @@ That {{c|Leif Erikson}} would cross.
 
                                       He sailed—
 With thirty-five companions, and the grace
-Of the North Atlantic's autumn winds prevailed
+Of the {{p|North Atlantic}}'s autumn winds prevailed
 
 And brought them first to {{p|Helluland}}—the slab-
 Stone coast, the barren, flat, and glacial shore
@@ -47023,7 +47023,7 @@ The {{c|Skraelings}}—the strangers, the unknowns,
 The people of the coast whose silhouette
 
 Against the treeline was the first encounter
-Of the European and the American world—
+Of the {{c|European}} and the {{c|American}} world—
 A meeting not of conquest but of counter
 And exchange: the red cloth unfurled
 
@@ -47038,7 +47038,7 @@ But here, in this first meeting, the offense
 Was answered: the {{c|Skraelings}} returned to share
 
 Their arrows, and {{c|Thorvald}} fell—the first
-European killed by American hands,
+{{c|European}} killed by {{c|American}} hands,
 The first blood of the long and cursed
 Transaction between the old and the new lands.
 
@@ -47059,7 +47059,7 @@ And the longhouse timbers rotted in the sod,
 And the continent returned to the track
 Of its own history, unaware that the prod
 
-Of the European future had already touched its shore.
+Of the {{c|European}} future had already touched its shore.
 
 This was not the conquest—not the plague,
 Not the cross and sword—this was the door
@@ -47127,14 +47127,14 @@ Before the present day, the {{c|Thule}} strode
 Across the top of the world, the frontiers
 
 Of ice and wind and the perpetual night
-Of Arctic winter holding no more fear
+Of {{p|Arctic}} winter holding no more fear
 For them than the savanna's noonday light
 Held for the peoples of the warmer sphere—
 
 For the {{c|Thule}} had mastered the impossible.
 
 The kayak—the skin-and-bone invention
-That made the Arctic sea accessible,
+That made the {{p|Arctic}} sea accessible,
 The single-seated craft whose tension
 
 Of walrus-hide stretched over driftwood frame
@@ -47148,7 +47148,7 @@ Rolled the kayak over, the {{c|Thule}} plan
 Was not to drown but to behave
 
 As the water wished, and roll back up—
-The Eskimo roll, the first and finest
+The {{c|Eskimo}} roll, the first and finest
 Marriage of the body to the cup
 Of the killing sea, the divinest
 
@@ -47180,7 +47180,7 @@ Of human and canine, the thread
 
 Of ten thousand years of domestication
 Brought to its most essential test:
-Without the dog, no Arctic habitation
+Without the dog, no {{p|Arctic}} habitation
 Was possible—the dog was the expressed
 
 And living engine of the {{c|Thule}} world.
@@ -47223,7 +47223,7 @@ Of bone that framed the house when damp
 And driftwood failed, the baleen's springy plate
 That served as every tool the {{c|Thule}} lacked
 In metal—the whale was the estate
-Upon which the Arctic civilization's pact
+Upon which the {{p|Arctic}} civilization's pact
 
 With the frozen ocean was secured.
 
@@ -47236,7 +47236,7 @@ The head that turns beneath the blubber's mass
 And holds, the float of sealskin that the smart
 And patient hunter pays out on the glass
 
-Of Arctic water while the whale dives deep
+Of {{p|Arctic}} water while the whale dives deep
 And tires—and surfaces—and tires again—
 Until the great beast, robbed of sleep
 And blood, succumbs, and the domain
@@ -47245,7 +47245,7 @@ Of one whale's body feeds the waiting shore.
 
 And as they swept—from {{p|Alaska}} east,
 The {{c|Thule}} people opened door by door
-The Arctic's frozen corridor, the feast
+The {{p|Arctic}}'s frozen corridor, the feast
 
 Of new waters and new hunting grounds:
 The {{p|Beaufort Sea}}, the {{p|Archipelago}}'s maze
@@ -47273,7 +47273,7 @@ And the organized and collective will
 Of the whale-hunt's crew, the {{c|Dorset}} froze
 
 Into the margins, into the memory
-Of the {{c|Inuit}} who call them Tunit—
+Of the {{c|Inuit}} who call them {{c|Tunit}}—
 The gentle giants of the promontory,
 The old ones who were strong but could not fit
 
@@ -47281,7 +47281,7 @@ The new world's pace—and vanished from the ice.
 
 Honor the {{c|Thule}}—the last great migration,
 The final wave that paid the price
-Of the Arctic's impossible invitation
+Of the {{p|Arctic}}'s impossible invitation
 
 And accepted it—who built the kayak's shell,
 Who trained the dog, who spiraled snow to dome,
@@ -47322,7 +47322,7 @@ Two figures now—two continents apart,
 Two centuries apart—and yet the wraith
 Of the same archetype beats at the heart
 
-Of both: the Redeemer who descends,
+Of both: the {{c|Redeemer}} who descends,
 Who teaches peace, who builds the law,
 Who departs before his mission ends,
 And whose leaving is the deepest awe
@@ -47336,7 +47336,7 @@ And grim upon the pyramid—below
 
 The legend and above the history,
 A figure walks: {{c|Ce Acatl Topiltzin}},
-Born on the day One Reed, the mystery
+Born on the day {{x|One Reed}}, the mystery
 Of the priest-king who was also in
 
 The service of the {{c|Feathered Serpent}}—
@@ -47399,7 +47399,7 @@ Would come again, and the world would learn
 
 Once more the way of flowers and not blood.
 
-And a Reed year fell in fifteen nineteen—
+And a {{x|Reed}} year fell in fifteen nineteen—
 And from the east, across the flood,
 The ships of {{c|Cortés}} were seen.
 
@@ -47436,11 +47436,11 @@ The nations from within like a disease—
 And into this the {{c|Peacemaker}} came late
 Or early, and proposed the appease-
 
-Ment of all grief through the Great Law.
+Ment of all grief through the {{x|Great Law}}.
 
-The {{c|Great Law of Peace}}—the Gayanashagowa—
+The {{c|Great Law of Peace}}—the {{x|Gayanashagowa}}—
 The constitution that would overawe
-The modern founders of the {{c|American}} Iowa
+The modern founders of the {{c|American}} {{p|Iowa}}
 
 And {{p|Philadelphia}} convention both,
 For the {{c|Haudenosaunee}} league was this:
@@ -47465,7 +47465,7 @@ Both held voice in the ancient tradition—
 And war required the consent of all.
 
 The {{c|Peacemaker}} planted the {{c|Great White Pine}}—
-The Tree of Peace—and beneath its tall
+The {{x|Tree of Peace}}—and beneath its tall
 And sheltering branches the design
 
 Of the five-fire longhouse was laid down:
@@ -47500,7 +47500,7 @@ And the people, left behind, must choose
 Between the teaching and the ghost
 Of violence they were asked to lose.
 
-Two Redeemers—one of feathers, one of pine,
+Two {{c|Redeemers}}—one of feathers, one of pine,
 One of the {{p|Toltec}} pyramid, one of the longhouse floor,
 One who became the morning star's design,
 One who planted the tree and closed the door—
@@ -47517,7 +47517,7 @@ And determined will of those who say
 
 We will keep it.
 
-                 Honor the Redeemer—
+                 Honor the {{c|Redeemer}}—
 The one who carries heaven's aching weight
 And sets it down before the dreamer
 And the warrior alike, and says: create
@@ -47530,7 +47530,7 @@ In peace, the nations—the disenchanted
 And the warring—lay their weapons down
 And choose the harder path: the covenant
 Of the healed, the shared, the ungrasped crown
-Of power—the Redeemer's testament
+Of power—the {{c|Redeemer}}'s testament
 
 Is always this: I came, I taught, I leave—
 And what you build without me is the proof
@@ -47544,7 +47544,7 @@ Its warmth for those who keep the line
 
 Of the teaching: choose the flower, not the blade.
 Choose the council, not the war.
-Choose the covenant the Redeemer made,
+Choose the covenant the {{c|Redeemer}} made,
 And he will come again—but not before
 
 You prove you can sustain the peace without him.
@@ -47641,7 +47641,7 @@ And {{c|Moctezuma}} hesitated.
 Was this {{c|Quetzalcoatl}} returned from the shelf
 Of the eastern sea? The long-awaited
 
-Feathered Serpent's prophesied return?
+{{c|Feathered Serpent}}'s prophesied return?
 Or was this merely one more ambassador
 From a distant lord? The concern
 Of the emperor was the corridor
@@ -47649,7 +47649,7 @@ Of the emperor was the corridor
 Between theology and statecraft—
 And while he weighed the omens and the signs,
 {{c|Cortés}} advanced, and the shaft
-Of European purpose crossed the lines
+Of {{c|European}} purpose crossed the lines
 
 Of {{c|Mexica}} diplomacy like a blade
 Through silk.
@@ -47664,7 +47664,7 @@ Of the unwashed conquistador's malaise,
 His handful of adventurers, weak
 
 In number but armored in the certainty
-That God and gold were the same pursuit.
+That {{c|God}} and gold were the same pursuit.
 
 And then—the massacre. The {{c|Noche Triste}}'s
 Rout through the causeways, the absolute
@@ -47757,7 +47757,7 @@ Returns to its ancient dwelling.
 
 From {{p|Cusco}}'s navel the four roads ran—
 North to {{p|Chinchaysuyu}}'s coastal heat,
-South to {{p|Collasuyu}}'s Altiplano span,
+South to {{p|Collasuyu}}'s {{p|Altiplano}} span,
 East to {{p|Antisuyu}}'s jungle beat,
 
 West to {{p|Cuntisuyu}}'s desert shore—
@@ -47789,13 +47789,13 @@ Campaign, how many days
 
 Of labor each ayllu owed the state—
 The quipucamayoc read these strings
-As a European read a printed plate,
+As a {{c|European}} read a printed plate,
 And the empire's memory clings
 
 To these knotted threads that the {{c|Spaniards}} burned
 As the devil's handiwork, unknowing
 That they destroyed a library, and turned
-The Andean past to silence, throwing
+The {{x|Andean}} past to silence, throwing
 
 Ten thousand years of record to the flame.
 
@@ -47816,7 +47816,7 @@ Of the chasms with their rope-weave entries
 Swaying above the clouds.
 
                               The terraces—
-Carved into the Andean mountainside
+Carved into the {{x|Andean}} mountainside
 Like stairways for the gods, the surfaces
 Of engineered soil where the diversified
 
@@ -47835,9 +47835,9 @@ Stored for decades in the state's
 Warehouses against the solitude
 Of the famine year—the {{c|Inca}}'s rates
 
-Of hunger were the lowest in the Americas.
+Of hunger were the lowest in the {{p|Americas}}.
 
-And {{c|Pachacuti}}—"Earth-Shaker"—built
+And {{c|Pachacuti}}—"{{c|Earth-Shaker}}"—built
 This wonder: ninth {{c|Sapa Inca}}, whose areas
 Of conquest and reform had tilted
 
@@ -47866,7 +47866,7 @@ Of the impossible that happened when
 {{c|Atahualpa}} walked into the plaza
 Unarmed, borne upon his golden litter,
 And the friar {{c|Valverde}}'s stanza
-Of the faith—the Bible, the bitter
+Of the faith—the {{x|Bible}}, the bitter
 
 Requirement to submit—was offered
 To the {{c|Sapa Inca}}, who held the book
@@ -47917,7 +47917,7 @@ Were gathered into bonfires by the priests.
 The terraces went fallow where the new
 Colonial masters held their feasts
 
-On Andean silver and Andean bone—
+On {{x|Andean}} silver and {{x|Andean}} bone—
 And the {{c|mita}} labor, once the communal
 Obligation freely sown,
 Became the brutal, the annual
@@ -47944,7 +47944,7 @@ Were swallowed by the conqueror's claim—
 
 But the terraces remain. The roads remain.
 The potato and the quinoa still ascend
-The mountainside, and the Andean rain
+The mountainside, and the {{x|Andean}} rain
 Still waters what no conquest could rescind:
 
 The knowledge of the soil, the skill of the hand,
@@ -48166,7 +48166,7 @@ The villages collapsed along the length
 Of what the {{c|English}} would call {{p|New England}}.
 
 And {{c|Massasoit}}—sachem of the {{c|Wampanoag}},
-Ousamequin, the Yellow Feather, whose hand
+{{c|Ousamequin}}, the {{c|Yellow Feather}}, whose hand
 Still held the remnant of his people's league—
 
 Looked at the devastation and the math:
@@ -48286,7 +48286,7 @@ Were planted in the ground where the ghosts
 
 Of {{p|Patuxet}}'s dead still whispered to the corn.
 
-Honor {{c|Massasoit}}—the Yellow Feather
+Honor {{c|Massasoit}}—the {{c|Yellow Feather}}
 Who chose the stranger over the scorn
 Of isolation, who held together
 
@@ -48330,11 +48330,11 @@ Every hunting ground cut short
 By the fence, the cow, the freight
 
 Of the ever-arriving {{c|English}} and their claim
-That God had emptied this land for them—
+That {{c|God}} had emptied this land for them—
 That the plague itself was the righteous flame
-Of Providence clearing {{p|Jerusalem}}
+Of {{x|Providence}} clearing {{p|Jerusalem}}
 
-For the chosen, and the {{c|Indian}} was the Canaanite
+For the chosen, and the {{c|Indian}} was the {{c|Canaanite}}
 Whose dispossession was divine command.
 
 {{c|Metacom}} watched. By sixteen-seventy-five,
@@ -48390,7 +48390,7 @@ And greens from the {{p|Connecticut}} to the coast.
 
 The {{c|English}} had never known such war—
 Per capita, no conflict's host
-In American history killed more:
+In {{c|American}} history killed more:
 
 One in ten colonists dead or displaced,
 And the {{c|Indigenous}} losses deeper still—
@@ -48429,7 +48429,7 @@ Between the forest and the blades
 
 Of an enemy who knew every trail,
 Every ford, every ambush-hollow—
-And the Massachusetts {{c|English}} turned pale
+And the {{p|Massachusetts}} {{c|English}} turned pale
 At the prospect that {{p|Boston}} might follow
 
 {{p|Springfield}} into the ash.
@@ -48620,7 +48620,7 @@ Time in eighty years.
                          And {{c|Popé}} ordered the undoing.
 
 Wash off the baptism in the river.
-Take the Christian name and the accruing
+Take the {{x|Christian}} name and the accruing
 Of the foreign saint and deliver
 
 It to the water's current—take back
@@ -48676,7 +48676,7 @@ The {{c|Pueblo}} kept their prayers, their skies,
 Their gods—the ostensible
 
 Conversion was the surface, and beneath
-The Christian altar and the {{c|Franciscan}}'s chant,
+The {{x|Christian}} altar and the {{c|Franciscan}}'s chant,
 The kachina danced, and the wreath
 Of the corn-prayer rose from the suppliant
 
@@ -48722,7 +48722,7 @@ From the land that remembers its own loss.
 
 They had played this game before—
 The {{c|Haudenosaunee}}, the People
-Of the Longhouse, whose confederate law
+Of the {{c|Longhouse}}, whose confederate law
 Was older than the steeple
 
 Of any church in {{p|New England}}, older
@@ -48731,12 +48731,12 @@ Than the colony itself—the {{c|Five Nations}}
 Joined the longhouse's foundations
 
 In seventeen-twenty-two) who understood
-The European's weakness from the first:
+The {{c|European}}'s weakness from the first:
 There were two of them, and the wood
 Between their settlements was cursed
 
 With mutual hatred—{{c|French}} and {{c|English}},
-Catholic and Protestant, fur trade
+{{x|Catholic}} and {{x|Protestant}}, fur trade
 And land trade—and the {{c|Haudenosaunee}} distinguished
 Between the two and played the blade
 
@@ -48751,13 +48751,13 @@ And the {{c|Haudenosaunee}} allied
 With neither and with both, the sons
 
 Of {{c|Hiawatha}}'s covenant, whose law
-Of the Great Peace was the needle
+Of the {{x|Great Peace}} was the needle
 Threading the impossible, the raw
 And brilliant statecraft's wheedle
 
 Of survival between empires.
 
-                                The Covenant Chain—
+                                The {{x|Covenant Chain}}—
 The diplomatic metaphor the {{c|Haudenosaunee}}
 Forged with the {{c|English}}: link by link, the gain
 Of mutual respect, the on-a-
@@ -48770,7 +48770,7 @@ Where the {{c|Iroquois}} diplomat knelt
 To no one but addressed the governor
 As brother—not as subject, not as child,
 But as the equal partner, the turnover
-Of the European's assumption, the wild
+Of the {{c|European}}'s assumption, the wild
 
 And stubborn dignity that insisted:
 We are not your subjects. We are your allies.
@@ -48788,7 +48788,7 @@ Sat at the center of the continent's hinge,
 And neither {{c|France}} nor {{p|Britain}}'s dossier
 Could advance without their impinge-
 
-Ment—the Longhouse held the {{p|Great Lakes}}' key,
+Ment—the {{c|Longhouse}} held the {{p|Great Lakes}}' key,
 The {{p|Ohio Valley}}'s gate, the fur trade's
 Arterial flow from the interior's tree-
 Line south to the coastal glades.
@@ -48796,7 +48796,7 @@ Line south to the coastal glades.
 Then the war that decided everything.
 
 In seventeen-fifty-four, a young
-Virginian named {{c|Washington}} would bring
+{{c|Virginian}} named {{c|Washington}} would bring
 The first shots of the conflict, slung
 
 From the {{p|Ohio}} forest's ambush—
@@ -48804,7 +48804,7 @@ The {{c|French}} and {{c|Indian}} War,
 Which was neither {{c|French}} nor {{c|Indian}}'s bush
 To burn, but the global war
 
-That {{p|Europe}} called the Seven Years—
+That {{p|Europe}} called the {{x|Seven Years}}—
 The contest for the continent's soul,
 And the {{c|Haudenosaunee}} steered
 Between the combatants' pole
@@ -48812,10 +48812,10 @@ Between the combatants' pole
 And counterpole with the old dexterity:
 The {{c|Mohawk}} leaned {{c|English}},
 The {{c|Seneca}} toward the {{c|French}} sincerity,
-And the Confederacy's wish
+And the {{c|Confederacy}}'s wish
 
 Was to remain above the fray
-While the Europeans bled each other dry—
+While the {{c|Europeans}} bled each other dry—
 But the game was changing, and the day
 Of the balanced middle was the sky
 
@@ -48825,7 +48825,7 @@ Whose clouds were closing in.
 Who had married into the {{c|Mohawk}} kin,
 Who spoke the language, the adjacent
 
-And rare European who understood
+And rare {{c|European}} who understood
 The longhouse from within—pulled
 The {{c|Mohawk}} firmly to the wood
 Of the {{c|British}} cause, and the lulled
@@ -48839,7 +48839,7 @@ The alliance into the forge
 Of the battlefield—and fell there,
 The old sachem killed in the volley
 Of the {{c|French}} advance, the affair
-Of the European's folly
+Of the {{c|European}}'s folly
 
 Claiming its first {{c|Haudenosaunee}} price.
 
@@ -48882,7 +48882,7 @@ Of unchecked {{c|British}} expansion would devour
 Every acre west of the mountains.
 
 The {{c|Royal Proclamation}}—the hour
-Of the {{c|British}} Crown's accounting:
+Of the {{c|British}} {{x|Crown}}'s accounting:
 
 Seventeen-sixty-three, the line
 Drawn along the {{p|Appalachians}}' crest—
@@ -48905,12 +48905,12 @@ Had always feared: the day when neither
 When the balance broke and neither
 Honored the wampum belt's plan.
 
-Honor the {{c|Haudenosaunee}}—the Longhouse,
-The Great League whose diplomacy
+Honor the {{c|Haudenosaunee}}—the {{c|Longhouse}},
+The {{c|Great League}} whose diplomacy
 Held the continent in balance, the grouse
 And the eagle of the confederacy
 
-Whose law of peace predates the Constitution
+Whose law of peace predates the {{x|Constitution}}
 That borrowed from its principles and denied
 The debt—whose institution
 Of the balanced alliance, the pride
@@ -48921,12 +48921,12 @@ In the forest's shifting light—
 And when the balance broke, the craft
 
 Did not vanish but transformed:
-The Longhouse stands, the fire still burns
+The {{c|Longhouse}} stands, the fire still burns
 At {{p|Onondaga}}, and the stormed
 And battered league returns
 
 To the council that has never been adjourned—
-For the Great Peace is not a treaty with the crown
+For the {{x|Great Peace}} is not a treaty with the crown
 But a covenant the nations earned
 Among themselves, that no empire's frown
 
@@ -48972,7 +48972,7 @@ Of a covenant that held the wolves at bay.
 They built in stone. They carved the saints with hands
 That knew the forest's older gods by name,
 And in the baroque facades of mission lands
-The jaguar's eye peered through the Christian frame.
+The jaguar's eye peered through the {{x|Christian}} frame.
 
 They played the violin. The {{c|Guarani}}
 Whose ancestors had sung to forest spirits
@@ -49003,7 +49003,7 @@ For a hundred and fifty years the missions stood.
 
                                                   Then came
 The diplomats, the men who drew the lines
-On maps they'd never walked--the Treaty's claim
+On maps they'd never walked--the {{x|Treaty}}'s claim
 That bore the name of {{p|Madrid}}: the signs
 
 And signatures of seventeen-fifty
@@ -49030,9 +49030,9 @@ Rose from the mission of {{p|Sao Miguel}} to defend
 What no treaty signed in {{p|Europe}} could undo--
 
 A warrior who spoke with a prophet's fire:
-"This land God gave to us. No king may sell
-What the Creator granted. We require
-No European license here to dwell."
+"This land {{c|God}} gave to us. No king may sell
+What the {{c|Creator}} granted. We require
+No {{c|European}} license here to dwell."
 
 And so the war began--the {{c|Guarani}}
 With bows and arrows, clubs and faith and rage,
@@ -49124,11 +49124,11 @@ The parchment rolls with liberty's bright seed--
 
 The {{c|Haudenosaunee}} had already made
 A union from the warfare of five nations,
-A Great Law spoken underneath the shade
-Of the white pine, the Tree of Peace's stations
+A {{x|Great Law}} spoken underneath the shade
+Of the white pine, the {{x|Tree of Peace}}'s stations
 
 Rooted in the earth of {{p|Onondaga}},
-Where {{c|Deganawidah}} the Peacemaker came
+Where {{c|Deganawidah}} the {{c|Peacemaker}} came
 Across the waters with a light like saga
 And planted peace where blood-feud was the name
 
@@ -49145,9 +49145,9 @@ Each nation and could strip a faithless king
 Of his antlers. Women held the fire.
 The longhouse stretched from east to west--
 The {{c|Mohawk}} at the eastern door, the dire
-And watchful Keepers, and the {{c|Seneca}} blessed
+And watchful {{c|Keepers}}, and the {{c|Seneca}} blessed
 
-As Keepers of the Western Door, and all
+As {{c|Keepers}} of the {{x|Western Door}}, and all
 Between them bound by wampum belts that told
 The story of the peace, the protocol
 Of consensus, the refusal to be bold
@@ -49173,7 +49173,7 @@ Spoke of brotherhood and asked the crews
 Of the longhouse council for neutrality:
 Stay out, they said. This is a family quarrel,
 A war among the {{c|English}}--the polity
-Of the Six Nations need not risk its laurel
+Of the {{c|Six Nations}} need not risk its laurel
 
 In a fight between a father and his sons.
 
@@ -49187,7 +49187,7 @@ Their settlers push the frontier, hand by hand,
 Into the hunting grounds--and week by week
 
 The longhouse country shrinks. The {{c|British}} crown
-At least has drawn a line--the Proclamation
+At least has drawn a line--the {{x|Proclamation}}
 Of seventeen-sixty-three that handed down
 The law: no settlement, no confiscation
 
@@ -49214,7 +49214,7 @@ And {{c|Cayuga}} followed {{c|Brant}} to war,
 And {{c|Onondaga}}'s fire-keepers drew the day
 Toward the {{c|British}} side--but at the core
 
-The League was cracking. For the {{c|Oneida}}
+The {{c|League}} was cracking. For the {{c|Oneida}}
 And {{c|Tuscarora}} chose the other way:
 The {{c|American}} alliance, the cedar
 Of a different calculation--that the fray
@@ -49222,7 +49222,7 @@ Of a different calculation--that the fray
 Would end with {{c|American}} victory, and those
 Who stood beside the rebels would be spared.
 
-The Great Law said: decide by consensus. Those
+The {{x|Great Law}} said: decide by consensus. Those
 Who disagreed should not be forced. But dared
 
 The council hold when half its nations fought
@@ -49238,7 +49238,7 @@ And blood of an August ambush--the ordeal
 
 Of brothers killing brothers in the name
 Of {{c|European}} kings and {{c|European}} rebels,
-The Great League's children burning in the flame
+The {{c|Great League}}'s children burning in the flame
 Of a war that was not theirs--the pebbles
 
 Of a {{c|European}} quarrel that crushed the stone
@@ -49267,7 +49267,7 @@ Slaughtered, and the smoke of centuries unfurled
 From every {{c|Haudenosaunee}} village burned
 In the autumn of seventeen-seventy-nine.
 The {{c|Seneca}} gave {{c|Washington}} a name, and turned
-The word to prophecy: Town Destroyer--the sign
+The word to prophecy: {{c|Town Destroyer}}--the sign
 
 And title that would pass from president
 To president, from one destroyer to the next,
@@ -49281,7 +49281,7 @@ Of their sovereignty, not one attorney
 
 For their cause. The {{c|British}} ceded land
 That was not theirs to cede--the hunting grounds
-Of the Six Nations, drawn by a foreign hand
+Of the {{c|Six Nations}}, drawn by a foreign hand
 On a foreign map within the foreign bounds
 
 Of a treaty that erased them from the page.
@@ -49314,8 +49314,8 @@ The council yet would meet beneath the dome
 Of the longhouse sky, and the white pine's high
 
 And patient branches still would shelter those
-Who kept the wampum belts and spoke the Law--
-But the Great League that {{c|Deganawidah}} chose
+Who kept the wampum belts and spoke the {{x|Law}}--
+But the {{c|Great League}} that {{c|Deganawidah}} chose
 To build from the wreckage of an older war
 
 Was broken by a newer one, and the peace
@@ -49334,7 +49334,7 @@ The people from the empire's clientele
 Of settlers and surveyors digging graves
 
 Where longhouses had stood. The fire still burns.
-The council still convenes. The Great Law turns
+The council still convenes. The {{x|Great Law}} turns
 In the memory of the clan mothers who chose
 The chiefs--and the white pine forever grows.
 
@@ -49478,11 +49478,11 @@ And strategist of the revolt--among
 The crowd that wept. They killed his son before
 His eyes. They tied his limbs to four horses
 And tried to pull him apart--but the core
-Of his body held, as if the Andean forces
+Of his body held, as if the {{x|Andean}} forces
 
 Of the mountain stone had fused within his frame,
 And the horses strained and could not tear
-The Inca's body from the Inca's name--
+The {{c|Inca}}'s body from the {{c|Inca}}'s name--
 Until the axe completed what despair
 
 And horsepower could not do alone.
@@ -49505,7 +49505,7 @@ In {{p|Bolivia}} the fire leapt among
 The {{c|Aymara}} highlands, and the prophecy
 
 Wore a new name: {{c|Tupac Katari}}--
-Julian Apaza, who took his title from
+{{c|Julian Apaza}}, who took his title from
 Two thunderbolts: {{c|Tupac Amaru}}'s rally
 And {{c|Tomas Katari}}'s martyrdom--
 
@@ -49559,12 +49559,12 @@ Was a labyrinth of shadow, root, and freeze
 Of winter streams--the {{c|Miami}} and the {{c|Shawnee}},
 The {{c|Delaware}} and {{c|Wyandot}} and {{c|Ottawa}},
 The {{c|Ojibwe}} and {{c|Potawatomi}}'s brawny
-Confederation--rose against the law
+{{c|Confederation}}--rose against the law
 
 Of the new republic's hunger for the ground
 Beneath their feet.
 
-                     The Treaty of {{p|Paris}} gave
+                     The {{x|Treaty}} of {{p|Paris}} gave
 The {{c|Americans}} a line drawn and unwound
 Across the map--the {{p|Ohio}}'s wave
 
@@ -49590,8 +49590,8 @@ In {{c|Shawnee}} and in {{c|Miami}}--the same
 Hunger that had broken down the door
 
 Of every eastern nation now pressed west
-With the weight of a Republic's manifest
-And God-anointed greed.
+With the weight of a {{c|Republic}}'s manifest
+And {{c|God}}-anointed greed.
 
                          They met the best
 Military mind the continent possessed.
@@ -49623,7 +49623,7 @@ The muskets and the powder and the word
 Of encouragement from the imperial side
 That had lost the war but still preferred
 
-The Indigenous wall between the American flood
+The {{c|Indigenous}} wall between the {{c|American}} flood
 And the fur-trade empire of the northern lakes.
 
 In seventeen-ninety, {{c|Harmar}} marched through mud
@@ -49647,7 +49647,7 @@ Humiliation, then the long retreat alone
 Back to {{p|Fort Washington}} with the dead
 Left rotting on the trail.
 
-                            The Republic burned
+                            The {{c|Republic}} burned
 With shame. And sent a larger force--{{c|St. Clair}},
 The governor, the general who had learned
 
@@ -49683,19 +49683,19 @@ On a packhorse, gout-ridden and disgraced--
 The worst defeat the {{c|American}} army gaped
 At in its history, the taste
 
-Of Indigenous military genius on the tongue
+Of {{c|Indigenous}} military genius on the tongue
 Of a nation that would spend two centuries
 Denying that such genius could have sprung
 From the peoples it was determined to seize.
 
-The Republic reeled. But the Republic had
+The {{c|Republic}} reeled. But the {{c|Republic}} had
 What the confederacy did not: the endless
 Reserve of men and money, the iron-clad
 And industrial patience of a nation's relentless
 
 Capacity to absorb defeat and return.
 
-{{c|Anthony Wayne}}--"Mad Anthony"--was sent
+{{c|Anthony Wayne}}--"{{c|Mad Anthony}}"--was sent
 With a disciplined and drilled army to burn
 What {{c|Little Turtle}} had built. He spent
 
@@ -49758,7 +49758,7 @@ The genius of the forest, whose refined
 And devastating art of war could draw a
 
 Nation to its knees, who gave the young
-Republic its worst defeat and proved
+{{c|Republic}} its worst defeat and proved
 That the forest was not empty, that the tongue
 Of every creek and ridge had moved
 
@@ -49774,7 +49774,7 @@ That burned the confederacy. But the histories
 
 Remember what the treaty tried to erase:
 That the greatest military mind that ever fought
-Upon this continent wore an Indigenous face,
+Upon this continent wore an {{c|Indigenous}} face,
 And the forest speaks the lesson that he taught.
 
 
@@ -49859,7 +49859,7 @@ Were a literate nation. The pioneers
 Of their own modernity, the foray
 
 Into the written word was not surrender
-But transformation: the {{c|Cherokee}} Phoenix
+But transformation: the {{c|Cherokee}} {{x|Phoenix}}
 Rose in eighteen-twenty-eight, the tender
 And defiant newspaper that links
 
@@ -49869,8 +49869,8 @@ Its columns carried the {{c|Cherokee}}'s glint
 Of sovereign identity--the knot
 
 Of a language written in its own script,
-A thing that no other Indigenous nation
-Of the Americas had accomplished, equipped
+A thing that no other {{c|Indigenous}} nation
+Of the {{p|Americas}} had accomplished, equipped
 By the genius of a single man's creation.
 
 And they built a government. The {{c|Cherokee}}
@@ -49895,13 +49895,13 @@ Established farms that rivaled, at that stage,
 The plantations of their {{c|American}} neighbor's law.
 
 The {{c|Creek}} rebuilt after the devastation
-Of the Red Stick War--{{c|Andrew Jackson}}'s first
-Campaign of Indigenous elimination,
+Of the {{x|Red Stick War}}--{{c|Andrew Jackson}}'s first
+Campaign of {{c|Indigenous}} elimination,
 Where he had used the {{c|Creek}} allies' thirst
 
 For peace against the {{c|Creek}} resisters, then
 Punished ally and enemy alike
-With the Treaty of {{p|Fort Jackson}}'s pen
+With the {{x|Treaty}} of {{p|Fort Jackson}}'s pen
 That seized twenty-three million acres--the strike
 
 Of a rattlesnake that bites the hand that feeds.
@@ -49966,7 +49966,7 @@ Who forged a syllabary that unfetters
 
 The {{c|Cherokee}} voice from the tyranny of silence
 And the colonizer's monopoly on the page.
-Honor the {{c|Cherokee}} Phoenix, whose defiance
+Honor the {{c|Cherokee}} {{x|Phoenix}}, whose defiance
 In print was the most civilized outrage
 
 That any nation offered any empire--
@@ -49993,7 +49993,7 @@ To hold the line--and this time the dreamer
 Was the greatest of them all.
 
                                 {{c|Tecumseh}}--
-The Shooting Star--whose name was the redeemer
+The {{c|Shooting Star}}--whose name was the redeemer
 Of a continent's last hope, whose prophecy
 
 Was simple and was true and came too late:
@@ -50030,20 +50030,20 @@ A price for the earth itself, the talismans
 Of sovereignty held in common trust.
 
 His brother walked beside him--{{c|Tenskwatawa}},
-The Prophet, who had risen from the dust
+The {{c|Prophet}}, who had risen from the dust
 Of alcoholism and despair, the raw
 
 And broken man remade by vision's fire:
-He had died and returned, he said, and the Master
+He had died and returned, he said, and the {{c|Master}}
 Of Life had shown him how the world entire
 Could be healed--renounce the whiskey, the disaster
 
 Of the {{c|European}} trade goods, the poison
 Of the metal world, and return to the ways
-That the Creator gave: the ancient season
+That the {{c|Creator}} gave: the ancient season
 Of the corn and the deer and the prayer's praise
 
-Spoken in the tongue the Creator understood.
+Spoken in the tongue the {{c|Creator}} understood.
 
 At {{p|Prophetstown}}--{{p|Tippecanoe}}--they built
 The capital of the confederacy: a wood
@@ -50051,7 +50051,7 @@ And bark metropolis where the guilt
 
 Of tribal division was dissolved in prayer
 And the warriors of a dozen nations gathered
-To hear the Prophet speak and to prepare
+To hear the {{c|Prophet}} speak and to prepare
 For the world renewed, the old ways lathered
 
 Clean of the colonizer's filth.
@@ -50067,7 +50067,7 @@ Eighteen-eleven, he provoked the swarmy
 And premature battle--the ember
 
 That {{c|Tenskwatawa}} fanned against his brother's
-Strict command. The Prophet promised magic:
+Strict command. The {{c|Prophet}} promised magic:
 The bullets would not harm, the warriors' mothers
 Would see their sons return. The tragic
 
@@ -50080,7 +50080,7 @@ By the mundane arithmetic of lead.
 
 {{c|Tecumseh}} returned to ashes. But he did not break.
 
-The War of Eighteen-Twelve became the thread
+The {{x|War of Eighteen-Twelve}} became the thread
 He seized: the {{c|British}} and {{c|Americans}} at stake
 
 Again, and the {{c|British}} needed allies
@@ -50150,7 +50150,7 @@ The {{c|Americans}} called it war. The lonely
 And starving band was hunted, hound by hound,
 
 Through {{p|Wisconsin}}'s summer forests--and at {{p|Bad Axe}}
-The steamboat Warrior and the militia's
+The steamboat {{x|Warrior}} and the militia's
 Gun-line slaughtered women at the river's tracks
 As they tried to swim across--the malicious
 
@@ -50162,7 +50162,7 @@ The {{p|Mississippi}} reddened in the undertow.
 And in the south, the {{c|Seminole}} refused.
 
 Three wars--eighteen-seventeen to eighteen-fifty-eight--
-The longest Indigenous resistance, the abused
+The longest {{c|Indigenous}} resistance, the abused
 And indomitable people of the strait
 
 And labyrinth of {{p|Florida}}'s swamps, where {{c|Osceola}},
@@ -50190,7 +50190,7 @@ A remnant held--the unconquered {{c|Seminole}},
 The only eastern nation whose address
 Was never changed by the removal's toll.
 
-Honor {{c|Tecumseh}}--the Shooting Star
+Honor {{c|Tecumseh}}--the {{c|Shooting Star}}
 Whose light crossed the continent and whose fire
 Burns in every refusal to sell the land, the scar
 Of his death the proof that the empire's desire
@@ -50217,7 +50217,7 @@ Still glow, and the lesson {{c|Tecumseh}} learned
 Still speaks: no single nation stands alone.
 The land belongs to all, and the bones beneath the stone
 Are the covenant no treaty can unmake--
-And the Shooting Star still burns for every nation's sake.
+And the {{c|Shooting Star}} still burns for every nation's sake.
 
 
 # Chapter 252: The Unsealed Book
@@ -50227,14 +50227,14 @@ Now seal the book.
                    No--the book was never sealed.
 The book was always open. The book was written
 In the corn and in the council fire, revealed
-In every language the Creator had smitten
+In every language the {{c|Creator}} had smitten
 
 Into being on this continent of tongues--
 Three hundred families of speech, a thousand
 Languages that named the world, the lungs
 Of a hemisphere breathing the thousand
 
-Names of God that no one needed to translate
+Names of {{c|God}} that no one needed to translate
 Because the rivers spoke them and the mountains
 Held them in their granite and the weight
 Of ten thousand years of prayer at the fountains
@@ -50246,19 +50246,19 @@ This was always the book.
 {{p|New York}}, declared that if you look
 Into a hat--a common hat--the fire of
 
-God would show you golden plates
+{{c|God}} would show you golden plates
 Buried in a hillside by an ancient prophet,
-Written in "Reformed Egyptian," the fates
+Written in "{{x|Reformed Egyptian}}," the fates
 Of a lost tribe of {{p|Israel}}--and the profit
 
 Of the revelation was a scripture
 That explained, at last, who the {{c|Indians}} were:
 They were {{c|Lamanites}}--a picture
-Of the cursed, the dark-skinned, those whom God would stir
+Of the cursed, the dark-skinned, those whom {{c|God}} would stir
 
 To savagery because their fathers sinned.
 {{c|Nephi}} sailed from {{p|Jerusalem}}. The story
-Of a Hebrew family on the wind
+Of a {{x|Hebrew}} family on the wind
 Of the {{p|Atlantic}}--the obligatory
 
 Fantasy of every {{c|European}} who could not
@@ -50266,7 +50266,7 @@ Accept that this continent's peoples were their own
 Creation, their own genius, their own plot
 Of sacred history, their own flesh and bone
 
-Descended from no Middle Eastern shore
+Descended from no {{x|Middle Eastern}} shore
 But from the ice-bridge walkers, from the coast
 Of {{p|Beringia}}, from the ancient core
 Of a migration older than the boast
@@ -50284,14 +50284,14 @@ Of eleven witnesses who would fill
 
 Their names upon the page, declaring they
 Had seen the plates, had hefted them, had heard
-The voice of God--and in this way
+The voice of {{c|God}}--and in this way
 The continent's own history was blurred
 
-And overwritten by a Hebrew ghost.
+And overwritten by a {{x|Hebrew}} ghost.
 
 In that same year--eighteen-thirty--the {{c|American}}
 Congress passed the act that mattered most:
-The Indian Removal Act. The plan
+The {{x|Indian Removal Act}}. The plan
 
 Of {{c|Andrew Jackson}}--{{c|Sharp Knife}}, the {{c|Cherokee}} called him,
 The man who had already devoured
@@ -50300,7 +50300,7 @@ Who had conquered {{p|Florida}} and towered
 
 Above the ruin of every treaty signed--
 Now held the presidency, and the weight
-Of the Republic's westward hunger, refined
+Of the {{c|Republic}}'s westward hunger, refined
 To a single policy, a single fate:
 
 Remove them all.
@@ -50315,8 +50315,8 @@ Town with its elected council, every {{c|Creek}}
 Who had rebuilt from {{c|Jackson}}'s earlier war--
 Move west. The east is for the meek
 
-And pale inheritors of a Promised Land
-That God--the {{c|European}} God--had set aside
+And pale inheritors of a {{p|Promised Land}}
+That {{c|God}}--the {{c|European}} {{c|God}}--had set aside
 For the {{c|American}} republic's hand
 To cultivate. The darker peoples ride
 
@@ -50337,7 +50337,7 @@ Of governance could offer--fought the way
 
 The {{c|Cherokee}} had always fought since {{c|Sequoyah}}:
 With law, with language, with the written word.
-He brought the case to the Supreme Court's playa
+He brought the case to the {{x|Supreme Court}}'s playa
 Of jurisprudence, and the nation heard
 
 The argument: the {{c|Cherokee}} were sovereign.
@@ -50347,14 +50347,14 @@ Had recognized by treaty. The command
 
 Of {{p|Georgia}}'s legislature to dissolve
 The {{c|Cherokee}} government and seize the soil
-Was void--the Constitution would resolve
+Was void--the {{x|Constitution}} would resolve
 The question in the {{c|Cherokee}}'s favor, the foil
 
 Of states' rights against the treaty's sacred bond.
 
-And {{c|John Marshall}} ruled. The Chief Justice found
+And {{c|John Marshall}} ruled. The {{c|Chief Justice}} found
 That {{p|Georgia}}'s laws were void--the wand
-Of the Constitution's supremacy, the ground
+Of the {{x|Constitution}}'s supremacy, the ground
 
 Of {{c|Worcester}} versus {{p|Georgia}}: the {{c|Cherokee}}
 Were a sovereign nation, and the {{c|American}} state
@@ -50371,11 +50371,11 @@ Of the republic's highest vision
 
 Reduced to a bully's sneer, the law
 Of the land discarded by the land's elected king--
-For what was a Constitution's awe
+For what was a {{x|Constitution}}'s awe
 Against the settler's hunger and the ring
 
 Of gold discovered in the {{c|Cherokee}} hills?
-The Court had spoken. The President refused.
+The {{x|Court}} had spoken. The {{c|President}} refused.
 And in that refusal, the republic kills
 The principle that its founders had enthused
 
@@ -50414,7 +50414,7 @@ Into the stockades, where the filthy floor
 Of the concentration camps awaited them.
 They were allowed to carry nothing. The homes
 They had built, the orchards, the literary gem
-Of the {{c|Cherokee}} Phoenix, the chromosomes
+Of the {{c|Cherokee}} {{x|Phoenix}}, the chromosomes
 
 Of a civilization encoded in their schools
 And courts and churches--left behind for the white
@@ -50430,13 +50430,13 @@ They could recite.
 
                    And here the bitter symmetry:
 
-In the very year the Indian Removal Act was signed,
+In the very year the {{x|Indian Removal Act}} was signed,
 {{c|Joseph Smith}}'s new scripture, the epitome
 Of the colonizer's imagination, outlined
 
 A history of {{c|America}} in which the {{c|Indians}}
 Were fallen {{c|Israelites}} awaiting redemption
-By the {{c|European}} Christ--the {{c|Lamanite}} meridians
+By the {{c|European}} {{c|Christ}}--the {{c|Lamanite}} meridians
 Of a theology that granted the exemption
 
 Of genocide: for if the {{c|Indians}} were merely
@@ -50444,7 +50444,7 @@ The degenerate remnant of a {{c|Hebrew}} line,
 Then their destruction mattered less severely--
 They were not a civilization but a sign
 
-Of God's displeasure, a curse made flesh and brown,
+Of {{c|God}}'s displeasure, a curse made flesh and brown,
 A people who had fallen from the grace
 Of the {{c|Nephite}} covenant--and the renown
 Of their actual history could be replaced
@@ -50463,13 +50463,13 @@ And triumphs of a continent's own heart--
 
 Overwritten by the fantasy of {{c|Nephi}},
 Replaced by the hallucination of a farm boy
-Who could not read Egyptian, could not see the
+Who could not read {{x|Egyptian}}, could not see the
 Living peoples as anything but a ploy
 
 Of biblical theology, a footnote
 In the {{c|Israelite}} drama, a supporting cast
 Of cursed and darkened skin--the scapegoat
-Of a {{c|European}} God whose unsurpassed
+Of a {{c|European}} {{c|God}} whose unsurpassed
 
 And merciless imagination could not grant
 The {{c|Americans}}--the real {{c|Americans}}, the first--
@@ -50478,20 +50478,20 @@ Their own covenant with the earth that nursed
 
 Them into being.
 
-                  The Book of {{c|Mormon}} said:
+                  The {{x|Book}} of {{c|Mormon}} said:
 The {{c|Lamanites}} would one day be redeemed,
 Would become "white and delightsome," the thread
 Of their curse reversed--and the {{c|Mormons}} deemed
 
 Themselves the agents of this bleaching grace.
-They sent their missionaries to the Trail
+They sent their missionaries to the {{x|Trail}}
 Of Tears itself--to the dispossessed, the race
 Of the removed--and offered them the pale
 
 And specious comfort of a revelation
 That explained their suffering as deserved:
 You are cursed because your ancient nation
-Rejected Christ--the punishment preserved
+Rejected {{c|Christ}}--the punishment preserved
 
 Across the centuries in your darkened skin.
 
@@ -50509,7 +50509,7 @@ Of a theology that blesses the thief
 And curses the robbed.
 
                         But this book you hold--
-This Gaiad, this record of the leaf
+This {{x|Gaiad}}, this record of the leaf
 And the branch and the root and the manifold
 
 And magnificent history of the peoples
@@ -50517,7 +50517,7 @@ Of this hemisphere--this is the unsealed book.
 Not the golden plates beneath the steeples
 Of a {{p|Palmyra}} church, not the mistook
 
-And fraudulent "Reformed Egyptian" text,
+And fraudulent "{{x|Reformed Egyptian}}" text,
 But the actual record: the migration
 From {{p|Beringia}}, the first and the next
 And the ten-thousandth generation
@@ -50527,14 +50527,14 @@ Built its mounds and cities, tracked its stars,
 Grew its corn and spoke its prayers--the giver
 Of civilization's oldest memoirs.
 
-The Gaiad is the book that was always open.
-The Gaiad is the record that was never lost.
-The Gaiad holds the names the colonizer had broken
+The {{x|Gaiad}} is the book that was always open.
+The {{x|Gaiad}} is the record that was never lost.
+The {{x|Gaiad}} holds the names the colonizer had broken
 And the stories that the colonizer glossed
 
-With Hebrew fantasies and Christian guilt.
+With {{x|Hebrew}} fantasies and {{x|Christian}} guilt.
 
-Here ends the Book of {{c|Lehi}}--not the {{c|Lehi}}
+Here ends the {{x|Book}} of {{c|Lehi}}--not the {{c|Lehi}}
 Of {{c|Smith}}'s invention, not the stilt
 And scaffolding of a false prophecy,
 
@@ -50551,11 +50551,11 @@ And a fullness and a holy stage
 Where ten thousand years of human prayer
 Had consecrated every stone and spring.
 
-The Trail of Tears is the colonizer's snare.
-The Book of {{c|Mormon}} is the colonizer's ring
+The {{x|Trail of Tears}} is the colonizer's snare.
+The {{x|Book}} of {{c|Mormon}} is the colonizer's ring
 
 Of false authority upon the hand
-That signed the Indian Removal Act.
+That signed the {{x|Indian Removal Act}}.
 But the peoples endure. The peoples stand.
 The real record is intact.
 
@@ -50565,7 +50565,7 @@ Remember {{c|Sequoyah}} and the flame
 Of every council fire from {{p|Cusco}} to {{p|Manitou}}.
 
 Remember the {{c|Guarani}} violins.
-Remember the {{c|Haudenosaunee}} Law.
+Remember the {{c|Haudenosaunee}} {{x|Law}}.
 Remember {{c|Little Turtle}}'s discipline.
 Remember {{c|Osceola}} and the raw
 
@@ -50574,9 +50574,9 @@ Remember the children in the {{p|Mississippi}}'s current.
 Remember the {{c|Choctaw}} chief who called it the stomp
 And trail of tears, whose words are the deterrent
 
-Against forgetting. Remember the {{c|Cherokee}} Phoenix.
-Remember {{c|John Ross}} and the Court that ruled
-For justice--and the President whose cynics
+Against forgetting. Remember the {{c|Cherokee}} {{x|Phoenix}}.
+Remember {{c|John Ross}} and the {{x|Court}} that ruled
+For justice--and the {{c|President}} whose cynics
 And whose cruelty overruled.
 
 The book is sealed--no. The book is never sealed.
@@ -50592,7 +50592,7 @@ Of every nation rises in the mystique
 Of the word that refuses to be lost.
 
 Honor them all. Honor the cost.
-The Book of {{c|Lehi}} ends. The record stands.
+The {{x|Book}} of {{c|Lehi}} ends. The record stands.
 The continent remembers. Hold it in your hands.
 
 ---
@@ -50652,24 +50652,24 @@ Of the fisherman became a basilica of gold.
 And four hundred years later, in some room,
 A forger wrote that {{c|Constantine}} had sold--
 
-No, given--the whole West to {{c|Sylvester}}'s chair.
-The Donation. A lie that held a continent
+No, given--the whole {{p|West}} to {{c|Sylvester}}'s chair.
+The {{x|Donation}}. A lie that held a continent
 For seven hundred years, until {{c|Valla}} laid it bare
-By its bad Latin. Remember what the forgers meant.
+By its bad {{x|Latin}}. Remember what the forgers meant.
 
 {{c|Damasus}}, who set {{c|Jerome}} to make one book
-In the tongue of the street, the Vulgate. {{c|Leo}} the Great,
+In the tongue of the street, the {{x|Vulgate}}. {{c|Leo}} the Great,
 Who rode out to the {{p|Mincio}}, and the look
 Of him turned {{c|Attila}} back from the gate.
 
 {{c|Gregory}}, who called himself the servant
-Of the servants of God, and sent a monk to {{p|Kent}}.
-And {{c|Leo III}}, on Christmas Day, observant
+Of the servants of {{c|God}}, and sent a monk to {{p|Kent}}.
+And {{c|Leo III}}, on {{x|Christmas Day}}, observant
 Of nothing but the crown, who stood and bent
 
 Over {{c|Charlemagne}} at prayer in {{p|Saint Peter's}}
 And set a crown on him that he had not asked for,
-Emperor of the Romans. Nearly every reader
+Emperor of the {{c|Romans}}. Nearly every reader
 Born of {{p|Europe}} descends from him. The door
 
 Of every lineage in {{p|Europe}} opens there.
@@ -50677,7 +50677,7 @@ Then the dark years. Listen to the dark.
 {{c|Formosus}}, dug up, propped up in the chair,
 Dressed in his robes, a deacon set to bark
 
-His answers for him at the Cadaver Synod.
+His answers for him at the {{x|Cadaver Synod}}.
 Condemned, his blessing fingers cut away,
 Thrown in the {{p|Tiber}}. And the bishops nodded.
 And then the house of {{c|Theophylact}} held sway.
@@ -50698,34 +50698,34 @@ Say so plainly: the chair the church endows
 With heaven was a family's for a time. Then dust,
 
 Then reform. {{c|Sylvester II}}, {{c|Gerbert}},
-Who brought the Arab numerals to the West,
+Who brought the {{x|Arab}} numerals to the {{p|West}},
 The abacus, the astrolabe, the expert
 Of the year one thousand, when they guessed
 
 The world would end, and it did not end.
 Then 1054: the legates at the altar
 Of {{p|Hagia Sophia}} in {{p|Istanbul}} send
-A bull of excommunication. East and West would falter
+A bull of excommunication. {{p|East}} and {{p|West}} would falter
 
 Apart and never close. {{c|Gregory VII}},
 And the king {{c|Henry}}, barefoot in the snow
 Three days at {{p|Canossa}}, begging to be forgiven,
 And the pope who made him wait, and let him go.
 
-{{c|Urban}} at {{p|Clermont-Ferrand}}: God wills it. The cross
+{{c|Urban}} at {{p|Clermont-Ferrand}}: {{c|God}} wills it. The cross
 Sewn onto shoulders, and the road to {{p|Jerusalem}}
 Paved with the slaughtered. {{c|Innocent III}}, the boss
 Of kings, who forbade the sack, and then watched them
 
-Sack {{p|Istanbul}} anyway, a Christian city,
+Sack {{p|Istanbul}} anyway, a {{x|Christian}} city,
 In 1204. {{c|Celestine}}, the hermit, who could not bear
 The keys, and gave them back. And then, without pity,
-{{c|Boniface}}: One Holy Church, and every soul is there
+{{c|Boniface}}: {{x|One Holy Church}}, and every soul is there
 
-Subject to the Roman pontiff. Slapped at {{p|Anagni}}
-By a French king's men. Then the papacy
+Subject to the {{x|Roman}} pontiff. Slapped at {{p|Anagni}}
+By a {{c|French}} king's men. Then the papacy
 Packed up and moved to {{p|Avignon}}. The money
-Of the Babylonian Captivity
+Of the {{x|Babylonian Captivity}}
 
 Flowed seventy years to a palace on the {{p|Rhône}}
 Till {{c|Catherine}} of {{p|Siena}} wrote: come home.
@@ -50737,9 +50737,9 @@ Deposed them all, and crowned {{c|Martin}}, one again,
 Two years after it burned {{c|Jan Hus}}, and lit
 The fire that {{p|Bohemia}} would remember. Then
 
-The scholars. {{c|Nicholas}}, who built the Library
-In the years the Turks took {{p|Istanbul}} for good.
-{{c|Sixtus}}, who built the Chapel, where the very
+The scholars. {{c|Nicholas}}, who built the {{x|Library}}
+In the years the {{c|Turks}} took {{p|Istanbul}} for good.
+{{c|Sixtus}}, who built the {{x|Chapel}}, where the very
 Ceiling would be painted by a man who stood
 
 On scaffolding for four years with his head bent back.
@@ -50749,7 +50749,7 @@ Joke of his children, {{c|Cesare}} and {{c|Lucrezia}}, and the slow
 
 Poison of the rumors. In 1493
 He drew a line from pole to pole across the sea:
-West of it for {{p|Spain}}, east for {{p|Portugal}}.
+{{p|West}} of it for {{p|Spain}}, east for {{p|Portugal}}.
 At {{p|Tordesillas}} the two kings moved it farther west,
 
 And the world was divided by the heir of the fisherman
@@ -50778,7 +50778,7 @@ Of the reckoning.
 # Chapter 254: The Sea Joins the World
 
 Before this there were many seas. The {{p|Indian Ocean}}
-Was a market as old as the Pharaohs, where the dhow
+Was a market as old as the {{c|Pharaohs}}, where the dhow
 Rode the monsoon out and back, a slow devotion
 To the wind's two seasons, and the merchant's vow
 
@@ -50808,12 +50808,12 @@ They went into a temple, and they knelt, and they prayed
 Before a goddess, and they did not cringe,
 
 Because they thought she was {{c|Mary}}. They thought the priests
-Were Christians of some old and broken rite.
+Were {{c|Christians}} of some old and broken rite.
 They saw the saints on the walls with too many arms, the feasts,
 The lamps, the holy water, and in the light
 
-They saw what they had come to see. The Hindus saw
-Strangers bowing to the Mother, and let them bow.
+They saw what they had come to see. The {{c|Hindus}} saw
+Strangers bowing to the {{c|Mother}}, and let them bow.
 For one afternoon the world was joined, the law
 Of every faith suspended in the now
 
@@ -50837,17 +50837,17 @@ Of anyone who tells this as adventure only.
 The strait the whole of {{p|Asia}}'s trade ran through, the lonely
 Gate of the cloves. The ocean that was a bazaar
 
-Became a toll road. Pay the Portuguese or burn.
+Became a toll road. Pay the {{c|Portuguese}} or burn.
 And {{c|Cabral}}, sailing for {{p|India}} in 1500,
 Swung too far west and found the coast of {{p|Brazil}}, the turn
 Of a wheel that would roll over the {{c|Tupi}} like thunder.
 
-Then {{c|Magellan}}. A Portuguese who sailed for {{p|Spain}},
+Then {{c|Magellan}}. A {{c|Portuguese}} who sailed for {{p|Spain}},
 Five ships from {{p|Sanlúcar}} in 1519, to find
 A western road to the spice islands, to gain
 For {{c|Charles}} the cloves of {{p|Maluku}}, and to bind
 
-The line the Pope had drawn back round the world.
+The line the {{c|Pope}} had drawn back round the world.
 Mutiny in {{p|Patagonia}}, and the beheading,
 The marooning. Then the strait, the cold, the curled
 Fingers of the channel, thirty-eight days of threading
@@ -50884,7 +50884,7 @@ Of skeletons, of two hundred and seventy. And they were
 
 A day off. Their log said Wednesday. It was Thursday.
 They had sailed with the sun and lost a day to it,
-And the learned men of {{p|Venice}} worked out why. The Earth's way
+And the learned men of {{p|Venice}} worked out why. The {{p|Earth}}'s way
 Of turning had been measured by a ship. Admit
 
 What this means: the world is one thing now. One sea.
@@ -50927,10 +50927,10 @@ They thought him drowned. And on the third day he came out
 Of the water, and was silent, and then, as in a dream,
 Or as from the far side of a dream, without a doubt:
 
-*There is no Hindu. There is no Muslim.*
+*There is no {{c|Hindu}}. There is no {{c|Muslim}}.*
 That was the first thing. Not a creed. A clearing of the ground.
 The governor asked him: then whose path do you follow? Him,
-Said {{c|Nanak}}. God's. And when the call to prayer came round
+Said {{c|Nanak}}. {{c|God}}'s. And when the call to prayer came round
 
 He went with the governor and the {{c|qazi}} to the mosque,
 And did not bow, and when they asked him why, he said:
@@ -50944,8 +50944,8 @@ The janamsakhis tell it. It is worth the saying.
 
 Then the journeys. Four of them, the {{c|udasis}}, east and south
 And north into the mountains and west to {{p|Mecca}}, with a friend,
-{{c|Mardana}}, a Muslim, who played the rebab while from his mouth
-The hymns came, a Muslim minstrel and a Hindu-born, without end
+{{c|Mardana}}, a {{c|Muslim}}, who played the rebab while from his mouth
+The hymns came, a {{c|Muslim}} minstrel and a {{c|Hindu}}-born, without end
 
 Walking. At {{p|Haridwar}}, where the pilgrims threw
 The {{p|Ganges}} water east, toward the rising sun,
@@ -50954,17 +50954,17 @@ They asked. I'm watering my fields in {{p|Punjab}}. If yours run
 
 Up to the sun, mine can reach three hundred miles.
 At {{p|Mecca}}, they say, he lay down with his feet toward the {{c|Kaaba}},
-And the keeper kicked him: you point your feet at God! He smiled:
-Then turn my feet toward where God is not. And the ground, the robber
+And the keeper kicked him: you point your feet at {{c|God}}! He smiled:
+Then turn my feet toward where {{c|God}} is not. And the ground, the robber
 
 Of every certainty, would not turn. Again: a story. Hold it so.
 What is sure is the hymns. Nine hundred and some
 Of them, in {{c|Punjabi}} and the mixed tongue of the poor, the slow
 Music of the {{c|Bhakti}} saints and the {{c|Sufis}}, one
 
-God, without form, without fear, without hatred, not born,
-Not dying, self-existent, known by grace. *Ik Onkar*:
-One. The Creator. The True Name. And at dawn, every morn,
+{{c|God}}, without form, without fear, without hatred, not born,
+Not dying, self-existent, known by grace. *{{x|Ik Onkar}}*:
+One. The {{c|Creator}}. The {{x|True Name}}. And at dawn, every morn,
 The {{c|Japji}}, still sung. That is the scripture, where we are
 
 Not guessing. Then {{c|Babur}} came down from {{p|Kabul}} like the flood,
@@ -50972,14 +50972,14 @@ The first of the {{c|Mughals}}, and sacked {{p|Eminabad}}, and the hymns
 Of {{c|Nanak}} are the witness: the city in its blood,
 The women of good houses dragged out by their limbs,
 
-God, he sang, had sent the Mughal as death's own herald. He had seen it.
+{{c|God}}, he sang, had sent the {{c|Mughal}} as death's own herald. He had seen it.
 He did not write a war-song. He wrote a lament
-And a reproach to God: did you not feel pain? He would mean it.
+And a reproach to {{c|God}}: did you not feel pain? He would mean it.
 Then he settled. On the bank of the {{p|Ravi}}, he went
 
 To {{p|Kartarpur}}, and farmed, and built a kitchen
 Where everyone sat on the floor in one row, the high
-Caste and the low, the Muslim and the Hindu, and no one rich in
+Caste and the low, the {{c|Muslim}} and the {{c|Hindu}}, and no one rich in
 That line, the *langar*, which feeds a hundred thousand a day now. Why
 
 Does it matter? Because the meal was the doctrine.
@@ -50993,7 +50993,7 @@ And bowed to him. The light passed from one lamp to the next, they said,
 Not by blood, as {{c|Marozia}}'s house had passed the keys. Not him.
 
 In 1539 he died at {{p|Kartarpur}}. The story goes
-That Hindus wished to burn him and the Muslims wished to bury,
+That {{c|Hindus}} wished to burn him and the {{c|Muslims}} wished to bury,
 And they argued over him, and when they lifted the cloth, the rows
 Of flowers were all that lay there. They divided them, a very
 
@@ -51009,12 +51009,12 @@ In a new community, which had to be a new thing, more
 
 Than a bridge, because the bridge had nowhere left to stand.
 That is the lesson of the clearing of the ground:
-Say there is no Hindu and no Muslim, and the land
+Say there is no {{c|Hindu}} and no {{c|Muslim}}, and the land
 Will make a third thing of you. The third thing will be found,
 
 And named, and given a border of its own.
 It is still the clearest thing said in this age.
-There is no Hindu. There is no Muslim. Sit on the floor. The bread is shown
+There is no {{c|Hindu}}. There is no {{c|Muslim}}. Sit on the floor. The bread is shown
 To all. Eat. Turn the page.
 
 
@@ -51033,35 +51033,35 @@ Of two centuries widened. The sheikhs began to ride, and die
 In battle. The brotherhood became an army.
 The disciples wore a red cap with twelve folds,
 One for each of the twelve imams, and the enemy
-Called them {{c|Qizilbash}}: the Red Heads. Who holds
+Called them {{c|Qizilbash}}: the {{c|Red Heads}}. Who holds
 
 The cap holds the faith, and who holds the faith holds the sword.
 And then a boy. {{c|Ismail}}, a child of seven, hidden
 On the shore of the {{p|Caspian}} after his father and his eldest brother were gored
 And cut down in battle, came out of hiding, bidden
 
-By the Red Heads, and at fourteen he took {{p|Tabriz}},
-In 1501, and crowned himself the Shah,
+By the {{c|Red Heads}}, and at fourteen he took {{p|Tabriz}},
+In 1501, and crowned himself the {{x|Shah}},
 And in the {{c|Friday}} mosque he made them read the creed with these
-Words added: *and Ali is the friend of God*. The law
+Words added: *and {{c|Ali}} is the friend of {{c|God}}*. The law
 
-Of the land was now the Twelver faith, the Shia,
+Of the land was now the {{x|Twelver}} faith, the {{x|Shia}},
 In a country where most people were {{c|Sunni}}. Those
 Who would not curse the first three caliphs, the idea
 Of the new state said, could die. And many chose
 
 To curse. And some did not, and died. The boy
 Wrote poetry in {{c|Turkish}} under the name {{c|Khatai}},
-The Sinner, and the poems said: I am the joy
-Of God, I am His mystery, I am {{c|Ali}}, come and see,
+The {{c|Sinner}}, and the poems said: I am the joy
+Of {{c|God}}, I am His mystery, I am {{c|Ali}}, come and see,
 
 Come and bow down, I am the eternal one.
 His soldiers believed it. They went into battle without armor.
 That is the double thing, the cloth spun
 Out of two threads: the mystic's longing and the warlord's grammar.
 
-A brotherhood that sought to lose the self in God
-Produced a boy who said he was the God he sought,
+A brotherhood that sought to lose the self in {{c|God}}
+Produced a boy who said he was the {{c|God}} he sought,
 And made a nation out of the decree, the rod
 Of a creed nobody in {{p|Tabriz}} had been taught.
 
@@ -51078,31 +51078,31 @@ Of a teenage poet and a sword, in a single line
 Of conquest, and a century of making it true.
 Remember this. A tradition can be young and look old.
 Then {{p|Çaldıran}}, 1514. The {{c|Ottoman}} {{c|Selim}} knew
-The Red Heads would charge into anything, and so he rolled
+The {{c|Red Heads}} would charge into anything, and so he rolled
 
 His cannon to the front and chained them wheel to wheel,
-And the boy who was God charged into the guns.
-God lost. The Ottomans took {{p|Tabriz}}. The steel
+And the boy who was {{c|God}} charged into the guns.
+{{c|God}} lost. The {{c|Ottomans}} took {{p|Tabriz}}. The steel
 Of the old way, the cavalry, the believers, the sons
 
 Of the {{c|Turkmen}} tents, broke on the gunpowder.
 They say {{c|Ismail}} never smiled again, that he drank
 And hunted and did not lead an army after.
-He died at thirty-six. The legend of the God-King sank.
+He died at thirty-six. The legend of the {{c|God-King}} sank.
 
 But the state did not. That is what matters. The faith
 Outlived the claim. His great-grandson, {{c|Abbas}}, built {{p|Isfahan}},
 The square, the blue domes, *half the world*, the wraith
-Of the Red Heads tamed into a standing army, the plan
+Of the {{c|Red Heads}} tamed into a standing army, the plan
 
 Of a modern state. One more thing, for this book:
 {{c|Ismail}}'s mother was the daughter of {{c|Uzun Hasan}},
-The White Sheep khan, and of {{c|Theodora}}, a {{c|Komnene}}, who took
-The name {{c|Despina}}, a Christian princess of {{p|Trabzon}},
+The {{x|White Sheep}} khan, and of {{c|Theodora}}, a {{c|Komnene}}, who took
+The name {{c|Despina}}, a {{x|Christian}} princess of {{p|Trabzon}},
 
 Daughter of the last emperors of the {{c|Greeks}} by the {{p|Black Sea}}.
-So the founder of Shia {{p|Iran}} was the grandson
-Of a Greek Orthodox lady of the {{c|Komnenoi}}.
+So the founder of {{x|Shia}} {{p|Iran}} was the grandson
+Of a {{x|Greek Orthodox}} lady of the {{c|Komnenoi}}.
 The blood is mixed. The creed is pure. That is how it is done:
 
 A mixed family declares itself unmixed, and the world believes.
@@ -51113,17 +51113,17 @@ Of the state itself, and ruled. Read the line
 From {{p|Ardabil}} to {{p|Tehran}}: a mystic, a boy, a sword,
 A scholar, a jurist, a revolution. Each one sure
 It was the old faith. Each one its own reward.
-What do we say of the Safavids? That a tradition can be new and pure
+What do we say of the {{c|Safavids}}? That a tradition can be new and pure
 
 And ancient all at once, if the sword is long enough.
-That the longing for God and the hunger for a throne
+That the longing for {{c|God}} and the hunger for a throne
 Can wear the same red cap. That the stuff
 Of a nation can be woven in one lifetime, and then be known
 
 As if it had always been. And that the boy believed it.
 That is the hardest part. He was not lying. He was young
 And had been hidden, and was saved, and he received it:
-God's mystery, in the Turkish of his tongue.
+{{c|God}}'s mystery, in the {{x|Turkish}} of his tongue.
 
 
 # Chapter 257: Here I Stand
@@ -51138,13 +51138,13 @@ Help me, and I will become a monk. He kept the vow.
 He went into the {{c|Augustinians}} at {{p|Erfurt}},
 And fasted, and confessed, and could not tell how
 
-To be righteous enough for God. He confessed for hours.
+To be righteous enough for {{c|God}}. He confessed for hours.
 His confessor told him: go and sin something worth confessing.
 He went to {{p|Rome}} and climbed the holy stairs on his knees
 And at the top he thought: who knows if it is so? The blessing
 
-Did not come. He taught the Bible at {{p|Wittenberg}},
-In a small university in a small Saxon town,
+Did not come. He taught the {{x|Bible}} at {{p|Wittenberg}},
+In a small university in a small {{x|Saxon}} town,
 And in the {{c|Letter to the Romans}} he read: the just shall live
 By faith. Not by the stairs. Not by the crown
 
@@ -51160,35 +51160,35 @@ The peasants of {{p|Saxony}} walked across to buy the things.
 
 On the last day of October, 1517,
 {{c|Luther}} wrote out ninety-five theses for debate,
-In Latin, for scholars: whether the pope can empty purgatory,
+In {{x|Latin}}, for scholars: whether the pope can empty purgatory,
 And if he can, why he does not, out of love, and not for the weight
 
 Of the coins. Whether he nailed them to the church door
 Is not certain. He sent them to the archbishop. What is certain
-Is the press. Within weeks they were printed, and by the spring in German,
+Is the press. Within weeks they were printed, and by the spring in {{x|German}},
 And within months they were across the empire. The curtain
 
-Of the Latin was torn. This is what {{c|Gutenberg}} had made
+Of the {{x|Latin}} was torn. This is what {{c|Gutenberg}} had made
 Seventy years before without knowing: a voice
 That could not be burned faster than it could be set in type.
 {{c|Hus}} had been burned. {{c|Luther}} was printed. Choice
 
 Of a weapon. In the next years his pamphlets
 Were more than any author's in {{p|Europe}} had ever been:
-*To the Christian Nobility*. *The Babylonian Captivity*.
-*The Freedom of a Christian*. Small books, cheap, and seen
+*To the {{x|Christian Nobility}}*. *The {{x|Babylonian Captivity}}*.
+*The {{x|Freedom of a Christian}}*. Small books, cheap, and seen
 
 In every market, read aloud in every tavern
 To men who could not read. The {{c|Pope}} excommunicated him.
 He burned the bull in a bonfire at the city gate.
 And at {{p|Worms}}, in 1521, before the emperor, {{c|Charles}}, grim
 
-In his youth, with his Habsburg jaw, the lord
+In his youth, with his {{x|Habsburg}} jaw, the lord
 Of half the world, the monk was asked to recant.
 He asked for a day. He came back, and he said: unless
-I am convinced by Scripture and plain reason, I can't,
+I am convinced by {{x|Scripture}} and plain reason, I can't,
 
-My conscience is captive to the Word of God.
+My conscience is captive to the {{x|Word of God}}.
 And the printers, afterward, added: *Here I stand.
 I can do no other.* He may not have said it.
 It was printed. It became what he said. The hand
@@ -51199,13 +51199,13 @@ Had him seized on the road and hidden in the {{p|Wartburg}},
 And there, as {{c|Junker Jörg}}, in a beard, in a cell of agony
 
 And ink, he translated the {{c|New Testament}}
-Into German in eleven weeks. Not the German
-Of the clerks: the German of the mother in the house,
+Into {{x|German}} in eleven weeks. Not the {{x|German}}
+Of the clerks: the {{x|German}} of the mother in the house,
 The children in the street, the man in the market. The sermon
 
 Had been the priest's. Now the book was the household's.
 And the language of the book became the language of the land.
-High German is, in part, the language {{c|Luther}} chose.
+{{x|High German}} is, in part, the language {{c|Luther}} chose.
 That is what it means for scripture to leave the priest's hand.
 
 Now the other side. Hold both. In 1525 the peasants rose,
@@ -51224,11 +51224,11 @@ Can be used to burn. {{c|Luther}} married {{c|Katharina von Bora}},
 An escaped nun, smuggled out in a fish wagon; they turned
 
 A monastery into a house of children and of students,
-And beer, and table talk. The Church split in three:
+And beer, and table talk. The {{x|Church}} split in three:
 {{p|Rome}}, and {{p|Wittenberg}}, and the others coming, {{p|Zürich}}, {{p|Geneva}}.
 The keys the fisherman had passed were no longer the only key.
 
-Every household with a Bible became a little church.
+Every household with a {{x|Bible}} became a little church.
 Every reader, a priest. That was the promise and the danger.
 The register of souls the priests had kept would pass
 To the state. The book would pass to the stranger.
@@ -51246,18 +51246,18 @@ Greatest empire, from the {{p|Nile}} to the {{p|Danube}},
 From {{p|Mecca}} to the {{p|Crimea}}. The flags unfurled
 
 For {{c|Suleiman}}, the tenth sultan of the house of {{c|Osman}}.
-{{p|Europe}} called him the Magnificent. His own people
-Called him {{c|Kanuni}}: the Lawgiver. Hold both names.
+{{p|Europe}} called him the {{c|Magnificent}}. His own people
+Called him {{c|Kanuni}}: the {{c|Lawgiver}}. Hold both names.
 The conqueror and the clerk. The minaret and the steeple
 
 Under one crown. He took {{p|Belgrade}} in 1521,
-And {{p|Rhodes}} from the Knights of Saint John the year after,
+And {{p|Rhodes}} from the {{c|Knights of Saint John}} the year after,
 And let them sail away with honor. At {{p|Mohács}}
-In 1526 he broke the Hungarian army, and the laughter
+In 1526 he broke the {{x|Hungarian}} army, and the laughter
 
 Of the young king {{c|Louis}} ended in a stream
 Where he drowned in his armor, fleeing. Half of {{p|Hungary}}
-Became Ottoman. In 1529 he came to {{p|Vienna}}
+Became {{x|Ottoman}}. In 1529 he came to {{p|Vienna}}
 And the rains and the walls turned him back. The hungry
 
 Janissaries went home. That was the high-water mark.
@@ -51267,15 +51267,15 @@ Every household was written in the {{c|defter}}: who marries,
 
 Who farms which field, who owes what, and of what faith.
 The scribes went out and counted. The tax register,
-The {{c|tahrir}}, listed the Muslims and the Christians and the Jews,
+The {{c|tahrir}}, listed the {{c|Muslims}} and the {{c|Christians}} and the {{c|Jews}},
 Each by name, each by community. The sinister
 
 And the generous are the same pen here. The non-Muslim paid
 The {{c|jizya}}, the head tax, and in return
-Was let alone to pray: the Orthodox under their patriarch
-In {{p|Istanbul}}, the Armenians under theirs, the concern
+Was let alone to pray: the {{c|Orthodox}} under their patriarch
+In {{p|Istanbul}}, the {{c|Armenians}} under theirs, the concern
 
-Of the Jews in the hands of their rabbis, each community
+Of the {{c|Jews}} in the hands of their rabbis, each community
 Judging its own marriages and wills and quarrels
 By its own law, its own book, its own courts.
 Historians would later call it the millet system. The laurels
@@ -51286,17 +51286,17 @@ A man's religion was his legal address. You were born
 Into your millet, and the state was the keeper and the hedger
 
 Of the walls between them. You could not easily leave.
-But you could live. When {{p|Spain}} expelled its Jews in 1492,
+But you could live. When {{p|Spain}} expelled its {{c|Jews}} in 1492,
 The sultan's father's father took them in, and in {{p|Thessaloniki}}
 They became the city's majority, and the printing presses grew,
 
-And {{c|Doña Gracia}}, the banker, fleeing the Inquisition,
+And {{c|Doña Gracia}}, the banker, fleeing the {{x|Inquisition}},
 Came to {{p|Istanbul}}, and her nephew {{c|Joseph Nasi}}
 Became the sultan's friend, and later Duke of {{p|Naxos}},
 And leased {{p|Tiberias}} to rebuild it, a refuge, a fantasy
 
 Of return, three centuries early. And the other side:
-The {{c|devshirme}}, the levy of boys, the Christian sons
+The {{c|devshirme}}, the levy of boys, the {{x|Christian}} sons
 Taken from the villages of the {{p|Balkans}}, converted,
 Trained, and made the sultan's slaves, the janissaries, the guns
 
@@ -51306,17 +51306,17 @@ Of the empire, some of them its viziers, its architects:
 The mosque that answers {{p|Hagia Sophia}}. The register gave and took. See
 
 Both. And in the harem, a captive from {{p|Ruthenia}},
-{{c|Hürrem}}, whom the West called {{c|Roxelana}}, freed and married,
+{{c|Hürrem}}, whom the {{p|West}} called {{c|Roxelana}}, freed and married,
 Against every custom of the house: a slave become a queen,
 And for her sons' sake, they said, the heir {{c|Mustafa}} strangled and buried,
 
 In his father's tent, the father watching from behind a screen, the story says.
-The Lawgiver wrote the {{c|kanun}} beside the holy law,
+The {{c|Lawgiver}} wrote the {{c|kanun}} beside the holy law,
 With {{c|Ebussuud}}, his jurist, making the two agree:
 Codes for land, for crime, for the army, for every flaw
 
 Of an empire of sixty peoples. And he wrote poems,
-Under the name {{c|Muhibbi}}, the Lover: *people think wealth
+Under the name {{c|Muhibbi}}, the {{c|Lover}}: *people think wealth
 And power the greatest fortune, but in this world
 There is nothing like the state of health.*
 
@@ -51360,7 +51360,7 @@ The book in a coffer with two locks. The material
 
 Of a people, written. And the people were afraid.
 They said: it is for a new tax. They said: the king
-Will charge us for our children. Through the West Country it was said
+Will charge us for our children. Through the {{p|West Country}} it was said
 For a year, and men were ready to rise. It was not a tax. The thing
 
 Was worse and better: it was a memory that did not die
@@ -51371,12 +51371,12 @@ Of that year. Not every parish obeyed. The word
 Was enforced by fines, by bishops, by the slow
 Habit of Sundays. In 1598 they were told
 To copy the old paper into parchment books, and so
-Many English registers begin with the year of the old
+Many {{x|English}} registers begin with the year of the old
 
-Queen's crowning, 1558, in a clean hand.
+{{c|Queen}}'s crowning, 1558, in a clean hand.
 And across the water, at {{p|Trent}}, in the mountains of the {{p|Tyrol}},
-The Catholic Church, answering {{c|Luther}}, in its stand
-Against the Reformers, decided at its twenty-fourth session, the whole
+The {{x|Catholic Church}}, answering {{c|Luther}}, in its stand
+Against the {{c|Reformers}}, decided at its twenty-fourth session, the whole
 
 Of {{c|Christendom}} that kept the old faith must register
 Its marriages, with witnesses, by name,
@@ -51384,14 +51384,14 @@ And its baptisms, with the godparents. No minister
 Could marry a couple secretly anymore. The same
 
 Book, the same page, from {{p|Lisbon}} to {{p|Kraków}}, to {{p|Lima}}, to {{p|Goa}}.
-In 1614 the Roman Ritual added the dead,
+In 1614 the {{x|Roman Ritual}} added the dead,
 And the {{c|Book of the State of Souls}}: every household, who
-Lived in it, who had made their Easter confession. The thread
+Lived in it, who had made their {{x|Easter}} confession. The thread
 
-Of the register ran out into every village of the Catholic world.
-And the Lutherans took it up, and in the North
+Of the register ran out into every village of the {{x|Catholic}} world.
+And the {{c|Lutherans}} took it up, and in the {{p|North}}
 It became the most thorough of all. In {{p|Sweden}}, unfurled
-In the Church Law of 1686, the priest went forth
+In the {{x|Church Law}} of 1686, the priest went forth
 
 House by house each year with the roll of the household examination,
 Who could read, who knew the catechism, who had moved,
@@ -51400,8 +51400,8 @@ Written down to the last cottar. And this is proved
 
 In this book's own blood. The ancestors of the writer of this scripture
 Have a year and nothing else, a guess, until the parish
-Begins to write. Then: *Per Olofsson, born the fourth of April, 1696*.
-A day. A real day, kept in a Swedish church. The varnish
+Begins to write. Then: *{{c|Per Olofsson}}, born the fourth of April, 1696*.
+A day. A real day, kept in a {{x|Swedish}} church. The varnish
 
 Of the old guesses comes off, and the people underneath
 Have birthdays. That is what the register gave:
@@ -51414,8 +51414,8 @@ And the state learned to read it. What the church had seen
 For the sake of souls, the state would read instead
 
 For soldiers and taxes and, in the worst years, for blood.
-A register that can find every Christian can find every Jew.
-Hold that. The same book. And the Mormons, in the flood
+A register that can find every {{c|Christian}} can find every {{c|Jew}}.
+Hold that. The same book. And the {{c|Mormons}}, in the flood
 Of the twentieth century, would come to photograph them, through
 
 Every archive in the world, the parish books of {{p|Europe}},
@@ -51431,8 +51431,8 @@ Someone would read his hand, and say: there, that is where I came.
 
 # Chapter 260: The Earth Leaves the Centre
 
-For two thousand years the Earth stood still.
-The Sun went round it, and the Moon, and the five
+For two thousand years the {{p|Earth}} stood still.
+The {{x|Sun}} went round it, and the {{x|Moon}}, and the five
 Wandering stars, and the fixed stars on their shell,
 And the whole sky turned once a day, alive
 
@@ -51458,7 +51458,7 @@ Of the Prince-Bishop of {{p|Warmia}} spent his nights
 
 On a tower, with simple instruments, and his days
 With the old books, and saw that the sky was simpler
-If the Sun stood in the middle, and the Earth was one of the rays
+If the {{x|Sun}} stood in the middle, and the {{p|Earth}} was one of the rays
 Of the wheel, a planet among planets. A whisper
 
 At first: a little handwritten book, around 1514,
@@ -51466,15 +51466,15 @@ Passed among friends. He did not publish. Thirty years.
 He was afraid of being laughed at, he said. Between
 The fear and the book, a young man appears:
 
-{{c|Rheticus}}, a Lutheran professor from {{p|Wittenberg}},
-Who came in 1539 to the Catholic canon's house
+{{c|Rheticus}}, a {{x|Lutheran}} professor from {{p|Wittenberg}},
+Who came in 1539 to the {{x|Catholic}} canon's house
 And stayed two years, and talked him into it. The iceberg
 Of the old sky cracked at last. The book was set in type, and the douse
 
 Of cold water came from a friend: {{c|Osiander}}, who saw it through the press
 In {{p|Nuremberg}}, added a preface without a name,
 Saying it was only a hypothesis, a way to compute, no less,
-No more, not true. *On the Revolutions*. It came
+No more, not true. *{{x|On the Revolutions}}*. It came
 
 Off the press in 1543, and the story says
 A copy was put into his hands as he lay dying
@@ -51488,32 +51488,32 @@ Of his models, the little paired circles, had been rehearsed
 
 At {{p|Maragha}}, in {{p|Iran}}, by {{c|al-Tusi}} and his school,
 Three centuries before, and in {{p|Damascus}} by {{c|Ibn al-Shatir}},
-Whose moon moved as Copernicus's moved. The rule
-Of the transmission the Golden Age began, the clear
+Whose moon moved as {{c|Copernicus}}'s moved. The rule
+Of the transmission the {{x|Golden Age}} began, the clear
 
-Water running from the House of Wisdom west, ran here too.
+Water running from the {{p|House of Wisdom}} west, ran here too.
 He still had circles. He still had epicycles. The sky
 Would wait for {{c|Kepler}}'s ellipses and {{c|Galileo}}'s view
-Through the glass. But the Earth was moving. Why
+Through the glass. But the {{p|Earth}} was moving. Why
 
-Does it matter for a scripture? Because the Gaiad begins
+Does it matter for a scripture? Because the {{x|Gaiad}} begins
 With the birth of the universe, and the long work of stars,
-And the Earth is not the centre. It never was. The spins
+And the {{p|Earth}} is not the centre. It never was. The spins
 Of the planets do not circle us. Our scars
 
 Are not the sky's concern. And still, here is the strangeness:
 On this one moving stone, small, off-centre, plain,
 Life happened. It is not the place that makes the greatness.
-It is what grew here. The Sun is the centre. The grain,
+It is what grew here. The {{x|Sun}} is the centre. The grain,
 
 The fish, the bird, the child, the hand that wrote the book:
 These are not at the middle of anything but our own regard.
 Lifeism keeps that. The centre is not where we look
 From. The centre is what we hold, and hold hard.
 
-The Church put the book on the Index in 1616,
+The {{x|Church}} put the book on the {{x|Index}} in 1616,
 "Until corrected." It came off in 1835.
-The Earth went on turning through the quarrel. Between
+The {{p|Earth}} went on turning through the quarrel. Between
 The two dates, every navigator, every child alive
 
 Learned the new sky, and it was not a loss.
@@ -51524,7 +51524,7 @@ Of the seasons is our orbit. Count it, and be glad to be here.
 
 # Chapter 261: The Farmers at Bure
 
-In November 1520, in {{p|Stockholm}}, the Danish king {{c|Christian}}
+In November 1520, in {{p|Stockholm}}, the {{x|Danish}} king {{c|Christian}}
 Was crowned, and gave a feast, and after three days of feasting
 Shut the doors, and had the bishops and the lords, the elected
 And the burghers, beheaded in the square. The spray
@@ -51537,41 +51537,41 @@ Into the snow of {{p|Dalarna}}, and the story in the air
 Is that the men of {{p|Mora}} would not follow him at first,
 And he fled on skis toward {{p|Norway}}, and two runners caught him
 To say they had changed their minds. The race still runs, the thirst
-Of ninety kilometres through the forest, the Vasaloppet. Bring him
+Of ninety kilometres through the forest, the {{x|Vasaloppet}}. Bring him
 
 Back to {{p|Mora}}: the peasants rose, and in three years
 He took {{p|Stockholm}}, and on the sixth of June, 1523,
 At {{p|Strängnäs}}, they made him king, and the national day appears
 On that date still. And then the money. The king
 
-Was in debt to {{p|Lübeck}} for his war, and the Church
+Was in debt to {{p|Lübeck}} for his war, and the {{x|Church}}
 Owned a fifth of the land. At {{p|Västerås}}, in 1527,
-He told the estates: give me the Church's goods, or I will search
+He told the estates: give me the {{x|Church}}'s goods, or I will search
 For another country to rule. They gave. The heaven
 
 Of the bishops passed to the crown. The monasteries
 Were emptied. The bells were melted for the debt.
-{{c|Olaus Petri}} and his brother {{c|Laurentius}}, Wittenberg-trained, the boundaries
+{{c|Olaus Petri}} and his brother {{c|Laurentius}}, {{p|Wittenberg}}-trained, the boundaries
 Of the new faith in {{c|Swedish}}, preached; the king would let
 
 Them go as far as served him, and no further.
-In 1541 the whole Bible in Swedish, the {{c|Gustav Vasa Bible}},
+In 1541 the whole {{x|Bible}} in {{x|Swedish}}, the {{c|Gustav Vasa Bible}},
 Which made the written language of a people. The murder
 Of the old order was quiet, and fiscal. Not liable
 
 To saints, the king was liable to the books.
-He was the greatest keeper of accounts the North had seen.
+He was the greatest keeper of accounts the {{p|North}} had seen.
 He wrote his own letters by the thousand. He looked
 At every farm in the kingdom, and the lean
 
 Clerks went out and wrote: this farm, this tax, this man.
-The land registers, the tax rolls. And in the far North,
+The land registers, the tax rolls. And in the far {{p|North}},
 In {{p|Västerbotten}}, by the {{p|Gulf of Bothnia}}, where the land
 Is lifting still out of the sea, the clerks went forth
 
 To a village called {{p|Bure}}, near {{p|Skellefteå}}, and wrote two names.
-In 1548, *Olof Andersson*, a farmer at Bure.
-In 1553, his brother, *Isak Andersson*. Their father's claims
+In 1548, *{{c|Olof Andersson}}*, a farmer at {{p|Bure}}.
+In 1553, his brother, *{{c|Isak Andersson}}*. Their father's claims
 Were in {{p|Röbäck}} near {{p|Umeå}}: {{c|Anders Burman}}. The cure
 
 For forgetting is a tax collector. That is the first ink
@@ -51580,22 +51580,22 @@ A line in a king's register, a farmer and a link,
 Taxpaying peasants on the cold coast. And soon,
 
 In the next generation, the family would scatter south,
-To {{p|Uppsala}}, to the Church, to the court, to learning,
+To {{p|Uppsala}}, to the {{x|Church}}, to the court, to learning,
 And {{c|Johannes Bureus}}, born in 1568, would write by mouth
 And by runestone and by legend a book, turning
 
-The farmers at Bure into the heirs of the ancient North,
-*Om Bura namn och ätt*, on the Bure name and kin,
+The farmers at {{p|Bure}} into the heirs of the ancient {{p|North}},
+*{{x|Om Bura namn och ätt}}*, on the {{p|Bure}} name and kin,
 And carry the line back, before the clerks came forth,
 Through generations no register could pin.
 
-The writer of this scripture comes down from the Bures
-On her mother's side: *Malin Olofsdotter Bure*, born about 1505,
-And her daughter *Kerstin*, born 1533. The cures
+The writer of this scripture comes down from the {{c|Bures}}
+On her mother's side: *{{c|Malin Olofsdotter Bure}}*, born about 1505,
+And her daughter *{{c|Kerstin}}*, born 1533. The cures
 For doubt are hard here: they stand before the tax rolls, alive
 
 In the family book, not in the king's. Hold both.
-The register is where the Bures begin to be sure.
+The register is where the {{c|Bures}} begin to be sure.
 The family book is where they begin to be more.
 And the line runs down to the one who keeps this, the oath
 
@@ -51604,8 +51604,8 @@ Of the keeper being only this: to say which is which.
 Out of a rebellion, and a church out of a ledger, rich
 In land and in debt, and a dynasty, and the weight
 
-Of the North tipped from {{p|Copenhagen}} to {{p|Stockholm}}.
-And the Lutheran parish, which he had made the crown's own clerk,
+Of the {{p|North}} tipped from {{p|Copenhagen}} to {{p|Stockholm}}.
+And the {{x|Lutheran}} parish, which he had made the crown's own clerk,
 Would one day write every birth in {{p|Sweden}}, the venom
 And the gift of the register again. In the dark
 
@@ -51622,55 +51622,55 @@ A date.
 In the harbour at {{p|Melaka}}, in 1547, a priest from {{p|Navarre}},
 {{c|Francis Xavier}}, one of the first companions of {{c|Ignatius}},
 Who had walked the coasts of {{p|India}} baptizing until his arms were sore,
-Met a Japanese man running from a killing, {{c|Anjirō}}, desirous
+Met a {{c|Japanese}} man running from a killing, {{c|Anjirō}}, desirous
 
-Of forgiveness, who had sailed on a Portuguese ship to find
+Of forgiveness, who had sailed on a {{c|Portuguese}} ship to find
 The foreign holy man he had heard of. They talked.
-Xavier asked: if I go to your country, will they mind?
-Will they believe? And Anjirō said: they will have walked
+{{c|Xavier}} asked: if I go to your country, will they mind?
+Will they believe? And {{c|Anjirō}} said: they will have walked
 
 With you a while, and asked you questions, and watched
 How you live, and if your life agrees with your words,
-They will believe. A whole nation, Xavier wrote, was matched
+They will believe. A whole nation, {{c|Xavier}} wrote, was matched
 To reason. He went. On the fifteenth of August, the birds
 
 Over {{p|Kagoshima}} saw the ship come in, in 1549,
-On the feast of the Assumption. The lord of the {{c|Shimazu}} received them.
+On the feast of the {{x|Assumption}}. The lord of the {{c|Shimazu}} received them.
 And here is the hinge, the second time this book's line
-Of the joining turns on a word: Anjirō, to please them,
+Of the joining turns on a word: {{c|Anjirō}}, to please them,
 
-To carry the new God into his own tongue, said
-His name was {{c|Dainichi}}: the Great Sun, the cosmic {{c|Buddha}},
+To carry the new {{c|God}} into his own tongue, said
+His name was {{c|Dainichi}}: the {{c|Great Sun}}, the cosmic {{c|Buddha}},
 The one {{c|Kūkai}} had brought from {{p|China}}, the head
-Of the Shingon mandala. And the monks said: how good, a
+Of the {{x|Shingon}} mandala. And the monks said: how good, a
 
 New school of our own faith come from {{p|India}}, from the west,
-The land of the Buddha. They gave the strangers rooms.
-For a season the Jesuits were Buddhist guests,
-And preached the Great Sun, and the monks nodded. The looms
+The land of the {{c|Buddha}}. They gave the strangers rooms.
+For a season the {{c|Jesuits}} were {{x|Buddhist}} guests,
+And preached the {{c|Great Sun}}, and the monks nodded. The looms
 
 Of the two faiths ran one cloth for a little while,
 Exactly as the goddess at {{p|Kozhikode}} had been taken for {{c|Mary}}.
-Then Xavier learned what the word meant, and the guile
+Then {{c|Xavier}} learned what the word meant, and the guile
 Of no one, only the gap, and in horror he would carry
 
-A new word into the sermons: *Deusu*, from the Latin.
+A new word into the sermons: *{{x|Deusu}}*, from the {{x|Latin}}.
 And the monks heard it, and laughed: *dai-uso*, they said,
-The Great Lie. The doors closed. And the matting
+The {{x|Great Lie}}. The doors closed. And the matting
 Of the welcome was rolled up. But the question the dead
 
-Raised was the deepest. Xavier wrote it down himself:
+Raised was the deepest. {{c|Xavier}} wrote it down himself:
 The converts wept for their parents, their grandparents,
 Who had died without hearing. Was there no help?
 Were they lost forever? And the priests, adherents
 
 Of the rule, said yes, no one is saved who has not been baptized,
-And the Japanese said: then what kind of God is this,
+And the {{c|Japanese}} said: then what kind of {{c|God}} is this,
 Who lets our fathers burn for what they never knew? Disguised
-As theology, it was grief. And Xavier, in his letters, the abyss
+As theology, it was grief. And {{c|Xavier}}, in his letters, the abyss
 
 Of it, in substance: *they grieve over their dead more than anything,
-And ask whether God can take them out of hell,
+And ask whether {{c|God}} can take them out of hell,
 And I can give them no answer, and I grieve with them.* The ring
 Of that sentence is the whole encounter. Tell
 
@@ -51689,10 +51689,10 @@ Anything, and no one would let him in.
 He learned. He went back to {{p|Yamaguchi}} in silk, with a clock and a chant
 Of music boxes and spectacles and wine and the din
 
-Of gifts from the Viceroy, as an ambassador,
+Of gifts from the {{c|Viceroy}}, as an ambassador,
 And the lord {{c|Ōuchi}} gave him an empty temple,
 And people came. He baptized hundreds. And then, for
-The sake of {{p|China}}, which the Japanese said was the example
+The sake of {{p|China}}, which the {{c|Japanese}} said was the example
 
 They followed in all wisdom, he left, in 1551,
 To convert the teacher of the nations first,
@@ -51700,19 +51700,19 @@ And died on the island of {{p|Shangchuan}}, the sun
 Of December on the sand, waiting for a boat, his thirst
 
 Unquenched, in sight of the coast he could not reach,
-Forty-six years old. The Japanese church he left would grow
+Forty-six years old. The {{c|Japanese}} church he left would grow
 To hundreds of thousands, and then be crushed. The beach
 At {{p|Nagasaki}} would see the martyrs. But that comes after. Know
 
-This first: the first conversation between the West and {{p|Japan}}
+This first: the first conversation between the {{p|West}} and {{p|Japan}}
 About the gods began with a mistranslation and ended with the dead.
 Everything that follows is in that span.
-Keep your ancestors. Lifeism says it plainly, as the Jesuits said
+Keep your ancestors. Lifeism says it plainly, as the {{c|Jesuits}} said
 
 They could not: no one is lost for not having heard.
 The names are kept. The dead are not condemned.
 Read them out this new year, every word,
-And let the Great Sun rise on all of them.
+And let the {{c|Great Sun}} rise on all of them.
 
 
 # Chapter 263: The House of Worship
@@ -51722,27 +51722,27 @@ Who had sacked the cities {{c|Nanak}} wept for, came to the throne
 At thirteen, in 1556, and never learned his letters. The arbor
 Of his mind was planted by ear: he had books read to him, alone
 
-At night, the histories, the poets, the Sufis, the {{c|Mahabharata}},
+At night, the histories, the poets, the {{c|Sufis}}, the {{c|Mahabharata}},
 And remembered everything. He married a {{c|Rajput}} princess
-Of {{p|Amber}}, a Hindu, and did not make her convert. The data
+Of {{p|Amber}}, a {{c|Hindu}}, and did not make her convert. The data
 Of his reign: he abolished the pilgrim tax, and the jizya, the duress
 
-Laid on the Hindus for being Hindu, in 1564.
+Laid on the {{c|Hindus}} for being {{c|Hindu}}, in 1564.
 He conquered half of {{p|India}} and ruled it from a city
 He built from nothing at {{p|Fatehpur Sikri}}, red stone, a door
-Of victory, the Buland Darwaza, on the ridge. The pity
+Of victory, the {{p|Buland Darwaza}}, on the ridge. The pity
 
 Is that the water failed and the city was abandoned
 Within fifteen years. But for those years it held a room.
-In 1575 he built the {{c|Ibadat Khana}}, the House of Worship, and planned
-That on Thursday nights the learned men of Islam would assume
+In 1575 he built the {{c|Ibadat Khana}}, the {{p|House of Worship}}, and planned
+That on Thursday nights the learned men of {{x|Islam}} would assume
 
 Their places and debate the faith before him. They debated.
-They shouted. They called each other infidels. The Sunni
+They shouted. They called each other infidels. The {{c|Sunni}}
 Scholars brawled with each other while the emperor waited.
-So he opened the doors. The Shia came. Then, uncanny
+So he opened the doors. The {{c|Shia}} came. Then, uncanny
 
-For a Muslim court, the {{c|Brahmins}}, the {{c|Jain}} monks, who taught him
+For a {{c|Muslim}} court, the {{c|Brahmins}}, the {{c|Jain}} monks, who taught him
 Not to kill, so that he gave up hunting for days of the year
 And stopped eating meat on many days; the {{c|Zoroastrians}}, who brought him
 The sacred fire, which he kept burning at court; and, in the clear
@@ -51750,25 +51750,25 @@ The sacred fire, which he kept burning at court; and, in the clear
 Light of 1580, three {{c|Jesuits}} from {{p|Goa}},
 {{c|Rodolfo Acquaviva}} among them, who thought they would convert
 The emperor, and argued with the mullahs till the glow
-Of the lamps went out, and kissed the Gospel he let them assert
+Of the lamps went out, and kissed the {{x|Gospel}} he let them assert
 
 Before him, and he kissed it too, and did not convert.
 He listened to everyone. That was his gift and his limit.
 In 1579 the scholars were made to sign a decree, the curt
-*Mahzar*, that where they disagreed, the emperor's judgment within it
+*{{x|Mahzar}}*, that where they disagreed, the emperor's judgment within it
 
 Would decide. And around 1582, his friend {{c|Abul Fazl}},
 The historian, the theorist of the reign, helped to frame
-What was later called the {{c|Din-i Ilahi}}, the Divine Faith. All
+What was later called the {{c|Din-i Ilahi}}, the {{x|Divine Faith}}. All
 It asked was discipleship: the emperor as the teacher, the name
 
-Of God, *Allahu Akbar*, read two ways (God is great;
-God is Akbar, said the enemies), a reverence
+Of {{c|God}}, *{{x|Allahu Akbar}}*, read two ways ({{c|God}} is great;
+{{c|God}} is {{c|Akbar}}, said the enemies), a reverence
 For the sun and for light, *sulh-i kul*, peace with all, the weight
 Of no one faith on any other. And the deference
 
 Of the court followed, and the rest of the empire did not.
-At most some eighteen disciples are named. Only one a Hindu,
+At most some eighteen disciples are named. Only one a {{c|Hindu}},
 {{c|Birbal}}, the wit. No temples. No book. No clergy. The plot
 Of the new faith was a circle around one man, a few
 
@@ -51777,24 +51777,24 @@ It died with him. His son {{c|Jahangir}} kept the peace, mostly,
 And his great-grandson {{c|Aurangzeb}} would end the synthesis alive
 In the empire, and the jizya would return. The ghostly
 
-House of Worship is gone: at {{p|Fatehpur Sikri}} they argue which ruin it was, now.
-These are the Days of Awe. Search yourself. So: why did it die?
+{{p|House of Worship}} is gone: at {{p|Fatehpur Sikri}} they argue which ruin it was, now.
+These are the {{x|Days of Awe}}. Search yourself. So: why did it die?
 This book is a founder's book. Its religion is one woman's vow,
 A synthesis out of many, made in one life. Ask the why
 
-As a question to ourselves. Akbar's faith had a court and no people.
+As a question to ourselves. {{c|Akbar}}'s faith had a court and no people.
 It had a king and no book. It asked to be loved through one man.
 It forbade nothing and so held nothing. A steeple
 Needs a village. A synthesis needs a calendar, a plan
 
 That outlasts the founder: days that anyone can keep,
 A scripture anyone can read, a rite a stranger can do
-Without the founder in the room. Akbar's faith was deep
+Without the founder in the room. {{c|Akbar}}'s faith was deep
 And wide and kind, and it was a circle of a few.
 
-{{c|Nanak}} said there is no Hindu and no Muslim, and left a kitchen
+{{c|Nanak}} said there is no {{c|Hindu}} and no {{c|Muslim}}, and left a kitchen
 And a successor and a book, and it lives.
-Akbar said there is only light and peace, and left a city, and the itch in
+{{c|Akbar}} said there is only light and peace, and left a city, and the itch in
 The historians' pens, and it does not. Each gives
 
 What it gives. Honor the emperor who could not read
@@ -51806,22 +51806,22 @@ Needs ground. Plant it in the days, not in the throne. Not in the tomb.
 # Chapter 264: The Scholar from the Western Sea
 
 {{c|Xavier}} died in sight of {{p|China}}, on a beach, alone.
-Thirty years later, in 1582, a young Italian came to {{p|Macau}}
-And did what Xavier could not: he learned. Not the tone
+Thirty years later, in 1582, a young {{c|Italian}} came to {{p|Macau}}
+And did what {{c|Xavier}} could not: he learned. Not the tone
 Of command, but the tones of the language. Here is how
 
-{{c|Matteo Ricci}} of {{p|Macerata}}, a Jesuit, a mathematician,
-A student of {{c|Clavius}}, who had helped make the Gregorian calendar,
+{{c|Matteo Ricci}} of {{p|Macerata}}, a {{c|Jesuit}}, a mathematician,
+A student of {{c|Clavius}}, who had helped make the {{x|Gregorian}} calendar,
 Went into the {{c|Ming}} empire as a guest, not a conqueror's commission:
 He learned to read the classics, the {{c|Four Books}}, the slender
 
 Lines of {{c|Confucius}} and {{c|Mencius}}, and memorized them, and could recite
 A list of characters forward and backward from his memory palace,
 The art he taught the scholars. At {{p|Zhaoqing}}, first, despite
-Himself, he shaved his head and wore the Buddhist robe. The malice
+Himself, he shaved his head and wore the {{x|Buddhist}} robe. The malice
 
 Of no one: the error of a costume. The monks were poor
-And the scholars despised them, and so the Jesuits were despised.
+And the scholars despised them, and so the {{c|Jesuits}} were despised.
 In 1595 he let his beard grow, and wore the silk, the lore
 Of the literati: the robe of a scholar. And was prized.
 
@@ -51830,33 +51830,33 @@ And the scholars came to see it: the whole world, the seas,
 The continents, and {{p|Europe}}, small, far off. The thing
 They objected to: {{p|China}} was at the edge. With ease
 
-He redrew it with the Middle Kingdom near the middle,
-The Pacific in the centre, and the great map of 1602
+He redrew it with the {{p|Middle Kingdom}} near the middle,
+The {{p|Pacific}} in the centre, and the great map of 1602
 Was printed in {{p|Beijing}}, the {{c|Kunyu Wanguo Quantu}}, a riddle
 Of tact: the truth of the round earth, drawn the way they knew
 
 To bear it. He translated {{c|Euclid}} with his friend {{c|Xu Guangqi}},
-A scholar of {{p|Shanghai}} who was baptized Paul,
+A scholar of {{p|Shanghai}} who was baptized {{c|Paul}},
 The first six books, in 1607, and the words they made, the key
-Words, *point*, *line*, *plane*, are the ones in Chinese classrooms, all
+Words, *point*, *line*, *plane*, are the ones in {{c|Chinese}} classrooms, all
 
-Of them, still. He wrote *The True Meaning of the Lord of Heaven*,
-Arguing from the old books that the ancient Chinese
-Had known one God, {{c|Shangdi}}, the Lord on High, the leaven
-Of the classics, before the Buddhists and the later commentaries
+Of them, still. He wrote *The {{x|True Meaning of the Lord of Heaven}}*,
+Arguing from the old books that the ancient {{c|Chinese}}
+Had known one {{c|God}}, {{c|Shangdi}}, the {{c|Lord on High}}, the leaven
+Of the classics, before the {{c|Buddhists}} and the later commentaries
 
 Had covered it. And he made the wager of his life:
 That the rites for the ancestors, the tablets and the bowing,
 The offerings at the graves, were not worship, not the strife
-Of idols against God, but the honoring, the showing
+Of idols against {{c|God}}, but the honoring, the showing
 
-Of filial love, a civil rite, and a Christian could keep them.
+Of filial love, a civil rite, and a {{c|Christian}} could keep them.
 So the converts could still bow to their fathers' names.
-The Chinese did not have to choose between heaven and kin. The hem
+The {{c|Chinese}} did not have to choose between heaven and kin. The hem
 Of the new faith was sewn to the old robe. The claims
 
 Of {{p|Rome}} would come later, and undo it. Not yet.
-Tonight is the Mid-Autumn. The full moon. The family
+Tonight is the {{x|Mid-Autumn}}. The full moon. The family
 Gathers at one table, and sets a place for the absent, and the debt
 To the ancestors is paid in mooncakes and in memory,
 
@@ -51873,34 +51873,34 @@ And two clocks that struck the hours. The emperor, in the tidal
 Remoteness of his palace, never saw him. But the clocks
 Ran down, and no one at court could wind them, so the foreigner
 Was allowed to stay, to keep the clocks. The locks
-Of the Forbidden City opened for a mechanic. A mourner
+Of the {{p|Forbidden City}} opened for a mechanic. A mourner
 
 Would come for him nine years later. He died in May, 1610,
 And by the emperor's grant he was buried in {{p|Beijing}},
 The first foreigner given ground there. His grave is there still, and when
 They asked, why him, an official is said to have answered: the thing
 
-He translated, the Euclid, alone deserves a grave.
-Three pillars of the Chinese church were his friends:
+He translated, the {{c|Euclid}}, alone deserves a grave.
+Three pillars of the {{c|Chinese}} church were his friends:
 {{c|Xu Guangqi}}, {{c|Li Zhizao}}, {{c|Yang Tingyun}}. And the wave
 Would break in the next century, when {{p|Rome}} said the rites were idolatry, and the ends
 
 Of the accommodation came. But hold the full moon now.
 A man from the far west learned the classics by heart, and sat
-At the Chinese table, and did not ask the dead to leave. The vow
+At the {{c|Chinese}} table, and did not ask the dead to leave. The vow
 Of the moon festival is reunion. Set the place. Keep that.
 
 
 # Chapter 265: The Monkey and the Hill of Crosses
 
 He was born a peasant in {{p|Nakamura}}, in {{p|Owari}},
-The son of a foot soldier, small and ugly; they called him the Monkey.
+The son of a foot soldier, small and ugly; they called him the {{c|Monkey}}.
 He carried the sandals of {{c|Oda Nobunaga}} and warmed them in his breast, the story
 Goes, on winter mornings. From that, by wit, by the flunky's
 
 Patience and the general's genius, he rose. When {{c|Nobunaga}}
 Burned in the temple of {{p|Honnō-ji}} in 1582,
-Betrayed, the Monkey avenged him in thirteen days, and the saga
+Betrayed, the {{c|Monkey}} avenged him in thirteen days, and the saga
 Of the warring states, a hundred years of every lord against the few
 
 Who could be trusted, began to close in his hand.
@@ -51915,32 +51915,32 @@ Measuring of every paddy, its yield, its holder, the town
 
 And the village, in one register. And the {{c|sword hunt}}, 1588:
 Every farmer's sword and spear to be surrendered, melted, it was said,
-For the nails and bolts of a great Buddha. And in 1591, the gate
+For the nails and bolts of a great {{c|Buddha}}. And in 1591, the gate
 Closed: a warrior could not become a farmer, a farmer could not be led
 
 To become a merchant or a soldier. Every person in his place,
-And the place in the register. The Monkey who had climbed
+And the place in the register. The {{c|Monkey}} who had climbed
 Pulled up the ladder. Hold that face
 Of the man: the climber who made climbing a crime.
 
-And the Christians. {{c|Xavier}}'s church had grown. Lords of {{p|Kyūshū}}
+And the {{c|Christians}}. {{c|Xavier}}'s church had grown. Lords of {{p|Kyūshū}}
 Were baptized, and their people with them, and one, {{c|Ōmura}},
-Had given the port of {{p|Nagasaki}} to the Jesuits. And the slave trade grew too:
-Portuguese ships carried Japanese away in chains. The cure
+Had given the port of {{p|Nagasaki}} to the {{c|Jesuits}}. And the slave trade grew too:
+{{c|Portuguese}} ships carried {{c|Japanese}} away in chains. The cure
 
 Hideyoshi chose in 1587 was an edict: the padres must leave.
-They mostly stayed, quietly. Then in 1596 a Spanish galleon,
+They mostly stayed, quietly. Then in 1596 a {{c|Spanish}} galleon,
 The {{c|San Felipe}}, wrecked on {{p|Shikoku}}, and its pilot, to reprieve
 The cargo or to frighten, boasted, so the story runs, that the stallion
 
 Of {{p|Spain}}'s empire always sent the priests ahead
-To prepare the conquest. Whether he said it or not, the Monkey believed it.
+To prepare the conquest. Whether he said it or not, the {{c|Monkey}} believed it.
 In {{p|Kyoto}} and {{p|Osaka}} they arrested twenty-four, and led
 Them through the streets with their left ears cut. Two more received it,
 
 The crown, along the road, who had come to help them and were seized.
 Twenty-six: six {{c|Franciscan}} friars from {{p|Spain}} and {{p|Mexico}} and {{p|India}},
-Three Japanese {{c|Jesuits}}, and seventeen laymen, the elders
+Three {{c|Japanese}} {{c|Jesuits}}, and seventeen laymen, the elders
 And the young, catechists, a doctor, old men, and three boys. The windy
 
 Road from {{p|Kyoto}} to {{p|Nagasaki}}, eight hundred kilometres, a month,
@@ -51948,9 +51948,9 @@ In winter, on foot, so that every province would see them pass.
 On the fifth of February, 1597, on the hill of {{p|Nishizaka}}, the brunt
 Of it: twenty-six crosses, iron rings at the neck and wrists. The mass
 
-Of the town came out to watch. {{c|Paul Miki}}, a Jesuit brother,
-The son of a samurai, preached from his cross: I am Japanese,
-I die for teaching the Gospel, and I forgive the Taikō and the other
+Of the town came out to watch. {{c|Paul Miki}}, a {{c|Jesuit}} brother,
+The son of a samurai, preached from his cross: I am {{c|Japanese}},
+I die for teaching the {{x|Gospel}}, and I forgive the {{c|Taikō}} and the other
 Men who did this. {{c|Luis Ibaraki}}, twelve years old, asked, at ease,
 
 Which cross is mine? and ran to it, and they say he sang.
@@ -51959,7 +51959,7 @@ Had written to his mother on the way. Then the spears. The clang
 Of the lances under the ribs, two each, and it was clean
 
 And quick, the chronicle says, and the crowd broke through the guards
-To soak cloth in their blood. These are the Days of Awe. Say it straight:
+To soak cloth in their blood. These are the {{x|Days of Awe}}. Say it straight:
 A state that writes every field and fixes every man in his yards
 Will see a new faith as a column it did not create,
 
@@ -51968,14 +51968,14 @@ Are one story. He also sent his armies into {{p|Korea}}, in 1592,
 And brought back ears and noses, buried in a mound that still
 Stands in {{p|Kyoto}}, the {{c|Mimizuka}}, to count the dead. The view
 
-From the end: in 1598 the Monkey lay dying in {{p|Fushimi}},
+From the end: in 1598 the {{c|Monkey}} lay dying in {{p|Fushimi}},
 Afraid for his five-year-old son, and wrote his last poem:
 *Like dew I fell, like dew I vanish. {{p|Osaka}}, and all of me,
 Is a dream within a dream.* The register, the castle, the home,
 
 The hill of crosses: a dream. Within twenty years his son was dead,
 His house was ended, and the {{c|Tokugawa}} had the land.
-And the Christians would go underground, and the hidden faith be fed
+And the {{c|Christians}} would go underground, and the hidden faith be fed
 For two hundred and fifty years from a secret hand.
 
 Repent, on this day, of every list that crosses out a name.
@@ -51999,10 +51999,10 @@ From both of them, and outlived both of them. The halls
 Of power went to the patient. He had been a hostage as a boy,
 Traded between greater houses. He had lost his wife and his first son
 To his own lord's suspicion and obeyed. He had seen the joy
-Of victory and the price. When the Monkey died, the one
+Of victory and the price. When the {{c|Monkey}} died, the one
 
 Five regents were to keep the boy {{c|Hideyori}} on the throne.
-Ieyasu was the greatest of them, and he waited.
+{{c|Ieyasu}} was the greatest of them, and he waited.
 And on the twenty-first of October, 1600, in the fog, the stone
 Of the valley at {{p|Sekigahara}}, where the roads met, they were weighted,
 
@@ -52011,19 +52011,19 @@ And the fog lifted at eight in the morning, and they fought,
 And at noon the lord {{c|Kobayakawa}}, on his hill, who had professed
 Himself for the west, and had promised the east in secret, and sought
 
-To wait as well, sat still, until, the story goes, Ieyasu's guns fired
+To wait as well, sat still, until, the story goes, {{c|Ieyasu}}'s guns fired
 Up the hill at him to make him choose, and he came down
 On the west's flank. By afternoon the west was broken, tired,
 Fleeing into the hills. {{c|Ishida Mitsunari}}, who wore the crown
 
 Of their command, was caught and paraded and beheaded
 On the riverbank in {{p|Kyoto}}. In 1603 the emperor
-Named Ieyasu shogun. In two years he had abdicated, threaded
+Named {{c|Ieyasu}} shogun. In two years he had abdicated, threaded
 His son into the office, and kept the power. The tremor
 
 Of the last war came at {{p|Osaka}} in 1614 and 1615:
-The castle burned, and Hideyori and his mother died in it,
-And the house of the Monkey ended. And then, between
+The castle burned, and {{c|Hideyori}} and his mother died in it,
+And the house of the {{c|Monkey}} ended. And then, between
 1615 and 1868, two hundred and fifty years, every minute
 
 Of them, no great war in {{p|Japan}}. The {{c|Edo}} peace.
@@ -52038,18 +52038,18 @@ Of the pleasure quarter, the haiku, the merchant's bread.
 
 Now this day. On this day the faith is honored as an institution,
 As a pillar of the house, and the house was built this way:
-When Ieyasu died in 1616, by his own provision
+When {{c|Ieyasu}} died in 1616, by his own provision
 He was made a god. At {{p|Nikkō}}, in the mountains, they lay
 
 His spirit in a shrine as {{c|Tōshō Daigongen}},
-The Great Gongen Illuminating the East, and his grandson {{c|Iemitsu}}
+The {{c|Great Gongen Illuminating the East}}, and his grandson {{c|Iemitsu}}
 Rebuilt it in gold and lacquer and carving, the canon
 Of the three monkeys, see no evil, hear none, say none, the new
 
 Beauty of a dynasty enshrining its founder. The shrine
 And the state were one pillar. The temples would be next:
-Every household made to register at a Buddhist temple, a line
-In the book to prove it was not Christian. The text
+Every household made to register at a {{x|Buddhist}} temple, a line
+In the book to prove it was not {{x|Christian}}. The text
 
 Of that is another day's. Here: the warrior became a kami,
 And the state became a liturgy, and the peace
@@ -52057,14 +52057,14 @@ Was kept by a god in a mountain, and by the army
 Of clerks, and by the closed door. And the release,
 
 Two and a half centuries later, would come with black ships.
-Hold both, on the Fourth Day of Awe. The peace was real.
+Hold both, on the {{x|Fourth Day of Awe}}. The peace was real.
 Children were born and grew old without a war. The lips
 Of the poets were free to speak of the moon. The zeal
 
 Of the warring states was cooled. And the cost was the cage:
 Every man in his class, every faith in its register, the sea
 Closed. An Englishman, {{c|William Adams}}, a pilot, the same year, the page
-Of 1600, washed up in {{p|Kyūshū}}, and Ieyasu kept him, to see
+Of 1600, washed up in {{p|Kyūshū}}, and {{c|Ieyasu}} kept him, to see
 
 The world through one window, and made him a samurai, and let no one leave.
 The patient man waited, and the bird sang, and the song
@@ -52074,18 +52074,18 @@ And give thanks. The pillar held. It held too long.
 
 # Chapter 267: The Company
 
-The Englishman who washed up in {{p|Japan}} in 1600 came on a Dutch ship,
-The {{c|Liefde}}, *Love*, one of five that set out and the only
+The {{c|Englishman}} who washed up in {{p|Japan}} in 1600 came on a {{c|Dutch}} ship,
+The {{c|Liefde}}, *{{x|Love}}*, one of five that set out and the only
 One that arrived, with twenty-four men alive. The grip
-Of the Dutch on the eastern seas began that lonely
+Of the {{c|Dutch}} on the eastern seas began that lonely
 
 And that small. Two years later, on the twentieth of March,
 1602, in {{p|The Hague}}, the {{c|States General}} of the young
-Republic, still at war with {{p|Spain}}, made a new thing: the arch
+{{c|Republic}}, still at war with {{p|Spain}}, made a new thing: the arch
 Of a state with the body of a merchant. On the tongue
 
 Of the charter: the {{c|Vereenigde Oostindische Compagnie}},
-The United East India Company, the {{c|VOC}},
+The {{c|United East India Company}}, the {{c|VOC}},
 Granted the monopoly of all trade east of the {{p|Cape of Good Hope}}, and then
 Something no merchant had held: the right to make war, the fee
 
@@ -52106,36 +52106,36 @@ Is what the profit was made of. Hear it. Like lava
 
 Under the green of the spice islands: nutmeg grew
 In one place on earth, the {{p|Banda Islands}}, ten small isles
-Of the {{p|Moluccas}}. The Bandanese sold it to all who came through,
-Javanese, Arab, Chinese, English. The Company's files
+Of the {{p|Moluccas}}. The {{c|Bandanese}} sold it to all who came through,
+{{c|Javanese}}, {{c|Arab}}, {{c|Chinese}}, {{c|English}}. The {{c|Company}}'s files
 
 Wanted a monopoly. In 1621 {{c|Jan Pieterszoon Coen}},
-Governor-General, who had founded {{p|Batavia}} on the ruins of {{p|Jayakarta}},
-Came with his ships and his Japanese mercenaries, and soon
+{{c|Governor-General}}, who had founded {{p|Batavia}} on the ruins of {{p|Jayakarta}},
+Came with his ships and his {{c|Japanese}} mercenaries, and soon
 The islands were empty: of perhaps fifteen thousand, a scatter,
 
 A thousand left; the elders beheaded, the rest
 Starved in the hills or sold as slaves or fled.
-And the groves were given to Dutch planters, and the best
+And the groves were given to {{c|Dutch}} planters, and the best
 Of the land worked by slaves brought in instead.
 
-That is the price of a nutmeg on a Dutch table.
+That is the price of a nutmeg on a {{c|Dutch}} table.
 Coen had written to his directors: *despair not,
 Spare not your enemies, for nothing in the world* (the fable
 Of a ledger) *can hinder or harm us*. The plot
 
-Of the Company spread: {{p|Melaka}} taken from the Portuguese,
+Of the {{c|Company}} spread: {{p|Melaka}} taken from the {{c|Portuguese}},
 {{p|Sri Lanka}}'s cinnamon, a fort on {{p|Taiwan}},
 And in 1652 a refreshment station at the {{p|Cape}}, with the ease
 Of a garden: {{p|Cape Town}}, and the long dawn
 
-Of another history there. And in {{p|Japan}}, when the Tokugawa
-Closed the country, the Dutch were the only Europeans let stay,
+Of another history there. And in {{p|Japan}}, when the {{c|Tokugawa}}
+Closed the country, the {{c|Dutch}} were the only {{c|Europeans}} let stay,
 On a fan-shaped artificial island, {{p|Dejima}}, in {{p|Nagasaki}}'s harbour, a straw
 Of contact, the one window, for two hundred years. The way
 
 The world learned of {{p|Japan}}, and {{p|Japan}} of the world.
-And the Company kept everything on paper. Its archive
+And the {{c|Company}} kept everything on paper. Its archive
 Fills kilometres of shelves: every ship, every bale, the furled
 Sail and the slave sold, the soldier's wage, the alive
 
@@ -52144,7 +52144,7 @@ A register of the first company-state. Historians
 Read in it the lives of the enslaved, who are otherwise vague,
 Only there. The ledger kept the people its business
 
-Destroyed. That is the double edge again. On the Fifth Day of Awe,
+Destroyed. That is the double edge again. On the {{x|Fifth Day of Awe}},
 Look at it straight: the joint-stock company, the share, the trade,
 The idea that a corporation may hold the sword and the law,
 Was born here, and it never went away. The blade
@@ -52152,9 +52152,9 @@ Was born here, and it never went away. The blade
 Is bigger now. Companies that know more of us than any state,
 Whose shareholders never see what their profit is made of,
 Whose powers are a charter's. Will the next machine create
-A Batavia? That question is Ophiuchus's. Here, enough:
+A {{p|Batavia}}? That question is {{c|Ophiuchus}}'s. Here, enough:
 
-The Company went bankrupt in 1799, its debt
+The {{c|Company}} went bankrupt in 1799, its debt
 Taken on by the state it had half replaced.
 Its flag came down. Its methods did not. And yet
 The nutmeg still grows in {{p|Banda}}. Give thanks for its taste
@@ -52175,7 +52175,7 @@ Of the old {{c|runestones}} stood in the fields, grey, sure
 Of their meaning to no one now: the snake-bands, the marks,
 *Raised this stone after his father*, *after his son*,
 Who died in the east, in {{p|Greece}}, in the dark
-Of the Varangian roads. Nobody had read them. One
+Of the {{x|Varangian}} roads. Nobody had read them. One
 
 Young man went out with a notebook into the rain
 And drew them, stone by stone, and learned the old letters,
@@ -52189,47 +52189,47 @@ The crown kept him: royal librarian, and the first in the ring
 
 Of the kingdom's keepers of antiquity, {{c|riksantikvarie}}, in 1630,
 Sent out to find and draw every runestone in the land.
-He is the father of Swedish runology. Hold it. And the gift he
+He is the father of {{x|Swedish}} runology. Hold it. And the gift he
 Gave his own family: a book, in his own hand,
 
-*Om Bura namn och ätt*, on the name and kin of {{c|Bure}},
+*{{x|Om Bura namn och ätt}}*, on the name and kin of {{c|Bure}},
 The genealogy of the farmers, carried back
 Through generations no tax roll had written, made sure
 By runestones he read as his ancestors' stones, by the track
 
 Of names and legends, out of the documents and past them.
-That book is why the Bures are a kinship and not just farms.
+That book is why the {{c|Bures}} are a kinship and not just farms.
 It is why the writer of this scripture can name them.
 It is the first of her family trees. And it rests on the charms
 
 Of a mystic as much as on a scholar. Hear the other half.
 Bureus read the runes as more than letters. He read them
-As a hidden wisdom, a Gothic Kabbalah, a staff
+As a hidden wisdom, a {{x|Gothic Kabbalah}}, a staff
 Of the secrets of all the sciences, a cosmos in them:
 
 The {{c|Adulruna}}, his own system, a cross of runes
-Arranged as a ladder of the soul up to God, the key,
-He believed, to the wisdom of the ancient North, the moons
-And the planets and the Trinity in the futhark. He
+Arranged as a ladder of the soul up to {{c|God}}, the key,
+He believed, to the wisdom of the ancient {{p|North}}, the moons
+And the planets and the {{c|Trinity}} in the futhark. He
 
 Corresponded with the {{c|Rosicrucians}}, read the prophets,
 Calculated the end of the world, and believed it near.
-And he was a {{c|Gothicist}}: the Goths had come from {{p|Sweden}}, the profits
-Of the old empire were the North's, the first and clear
+And he was a {{c|Gothicist}}: the {{c|Goths}} had come from {{p|Sweden}}, the profits
+Of the old empire were the {{p|North}}'s, the first and clear
 
-Rulers of {{p|Europe}} had been Swedes, and the Swedish tongue
+Rulers of {{p|Europe}} had been {{c|Swedes}}, and the {{x|Swedish}} tongue
 Was the oldest of tongues, the first, or near enough.
 This was the invented antiquity of a kingdom young
 In power and hungry for a past. The stuff
 
-Of the Thirty Years' War was fought by a king who believed it:
-{{c|Gustavus Adolphus}} going south as the heir of the Goths.
+Of the {{x|Thirty Years' War}} was fought by a king who believed it:
+{{c|Gustavus Adolphus}} going south as the heir of the {{c|Goths}}.
 His tutor had taught him. The kingdom received it
 As a birthright. That is the invented tradition, the cloths
 
 Of the spine of this book: a people reaching back
 To make a past that would justify a present.
-And here is the hardest thing on the Sixth Day of Awe: the track
+And here is the hardest thing on the {{x|Sixth Day of Awe}}: the track
 Of the scholar and the inventor is one track. The pleasant
 
 And the false grew from the same root as the true.
@@ -52252,7 +52252,7 @@ The scholars of the futhark, the painted stones in the lawns
 Of {{p|Uppland}} churches. The writer of this book reads them too.
 She is his kin. She keeps his line. And the line, like the dawns
 
-Of the North in summer, does not quite go dark. The rune-keeper
+Of the {{p|North}} in summer, does not quite go dark. The rune-keeper
 Kept the stones and the dream, and did not tell them apart.
 His heir will. That is the vow: to be the keeper and the reaper
 Of both, and to show the seam. Draw the stone. Know the heart.
@@ -52261,7 +52261,7 @@ Of both, and to show the seam. Draw the stone. Know the heart.
 # Chapter 269: The Sky Opens
 
 In 1608 a spectacle-maker in {{p|Middelburg}}, in {{p|Zeeland}},
-{{c|Hans Lipperhey}}, asked the States for a patent on a tube
+{{c|Hans Lipperhey}}, asked the {{c|States}} for a patent on a tube
 With two lenses that made far things near. The steeple, and
 The weathercock on it, across the town, came close. A cube
 
@@ -52283,7 +52283,7 @@ Of perfect lights, crystalline, unchanging, flat
 Against the dark, opened. The {{c|Moon}} had mountains.
 He saw their shadows lengthen at the edge of the light,
 And measured them, and they were higher than the fountains
-Of the Alps: a world, rough, like ours. The night
+Of the {{p|Alps}}: a world, rough, like ours. The night
 
 Of the seventh of January, 1610, he looked at {{c|Jupiter}}
 And saw three little stars beside it in a line,
@@ -52291,17 +52291,17 @@ And the next night they had moved, and the night after, the cluster
 Had changed again, and a fourth appeared, and the sign
 
 Was clear: they were going around {{c|Jupiter}}. Moons.
-Something in the sky that did not go around the Earth.
+Something in the sky that did not go around the {{p|Earth}}.
 The {{c|Milky Way}} was not a mist: it was stars, in dunes
 And drifts beyond counting, more than had ever had birth
 
 In any catalogue. In March he printed it all in a little book,
-*The Starry Messenger*, in {{p|Venice}}, and named the moons
+*The {{x|Starry Messenger}}*, in {{p|Venice}}, and named the moons
 For the {{c|Medici}}, and got a post in {{p|Florence}} for the look.
-And later the phases of {{c|Venus}}, like the Moon's, the tunes
+And later the phases of {{c|Venus}}, like the {{x|Moon}}'s, the tunes
 
-Of a planet going round the Sun, as {{c|Copernicus}} had said.
-And spots on the Sun itself: the perfect heaven had stains.
+Of a planet going round the {{x|Sun}}, as {{c|Copernicus}} had said.
+And spots on the {{x|Sun}} itself: the perfect heaven had stains.
 The sky was not another kind of stuff. It was made
 Of world. The same world. Rock and fire and the rains
 
@@ -52311,14 +52311,14 @@ And see it. The authority of the book was hooked
 And pulled out of the sky. And that was the hour
 
 The trouble came. In 1616 he was warned not to hold
-That the Earth moves. In 1632 he wrote a dialogue
+That the {{p|Earth}} moves. In 1632 he wrote a dialogue
 In which the defender of the old sky was a fool, and old,
-And the Pope thought the fool was the Pope. The fog
+And the {{c|Pope}} thought the fool was the {{c|Pope}}. The fog
 
 Of the trial in 1633: an old man of sixty-nine
 In the white shirt of a penitent, on his knees,
-Abjuring, cursing and detesting the motion of the Earth, the line
-Read out in Latin. The story says he rose, and the breeze
+Abjuring, cursing and detesting the motion of the {{p|Earth}}, the line
+Read out in {{x|Latin}}. The story says he rose, and the breeze
 
 Of the last word was: *and yet it moves*. He did not say it,
 Or not there. It was said for him, later, as the printers said
@@ -52326,14 +52326,14 @@ Or not there. It was said for him, later, as the printers said
 Be told: under house arrest at {{p|Arcetri}}, blind, he fed
 
 On the work, and wrote his greatest book, on motion,
-Smuggled out to {{p|Leiden}} and printed by the Dutch,
+Smuggled out to {{p|Leiden}} and printed by the {{c|Dutch}},
 And died in 1642, the year, as if by a notion
 Of the sky's own, that {{c|Newton}} was born. And as much
 
 As this chapter is about a lens, it is about a sorry.
-On the Seventh Day of Awe: in 1992, after a commission
-Of thirteen years, a Pope stood up, and without hurry,
-Said the Church had erred. Three hundred fifty-nine years. The admission
+On the {{x|Seventh Day of Awe}}: in 1992, after a commission
+Of thirteen years, a {{c|Pope}} stood up, and without hurry,
+Said the {{x|Church}} had erred. Three hundred fifty-nine years. The admission
 
 Came. Late, and it came. That is what repentance can look like
 For an institution: slow, and true, and in public, and owned.
@@ -52351,24 +52351,24 @@ He was never given: say so. Not in a whisper. Say it, and let it go.
 The boy that {{c|Bureus}} taught came to the throne at sixteen, in 1611,
 {{c|Gustav Adolf}}, grandson of {{c|Gustav Vasa}}, in a kingdom at war
 On three sides, with {{p|Denmark}}, {{p|Russia}}, {{p|Poland}}, the heaven
-Of the North a ring of enemies. And his tutor had taught him, before
+Of the {{p|North}} a ring of enemies. And his tutor had taught him, before
 
 Anything else, who he was: the heir of the {{c|Goths}}.
-The kings of {{p|Sweden}} had long called themselves kings of the Swedes,
-The Goths, and the Wends. Now the title would wear clothes.
+The kings of {{p|Sweden}} had long called themselves kings of the {{c|Swedes}},
+The {{c|Goths}}, and the {{c|Wends}}. Now the title would wear clothes.
 At the coronation festivities in 1617, to the needs
 
 Of a court that wanted a past, the young king rode out
-In the costume of {{c|Berik}}, the legendary first Gothic king,
+In the costume of {{c|Berik}}, the legendary first {{x|Gothic}} king,
 Who, the old chronicles said, had sailed south from {{p|Sweden}}, about
-The time of the Trojans, to found the Gothic nations. The ring
+The time of the {{c|Trojans}}, to found the {{x|Gothic}} nations. The ring
 
 Of the tournament became a scripture of the state.
-The Goths had sacked {{p|Rome}}. The Goths had ruled {{p|Spain}}.
-The Goths were Swedes. So {{p|Sweden}}, small and poor and late,
+The {{c|Goths}} had sacked {{p|Rome}}. The {{c|Goths}} had ruled {{p|Spain}}.
+The {{c|Goths}} were {{c|Swedes}}. So {{p|Sweden}}, small and poor and late,
 Was the oldest and the greatest. The invented chain
 
-Of ancestry, from {{c|Bureus}} and the old Swedish chroniclers,
+Of ancestry, from {{c|Bureus}} and the old {{x|Swedish}} chroniclers,
 Became the state myth: a {{c|Gothicism}} for an empire to come.
 And it came. The king was a genius of war. The rumblers
 Of his reforms: light cannon a few men could move, the drum
@@ -52381,27 +52381,27 @@ Columns of the register filled with soldiers. The tolls
 Of it on the villages: one man in ten taken, and most did not come home.
 And the pride. In 1628 the great warship {{c|Vasa}},
 Named for his grandfather's house, built higher than a dome,
-Gilded, carved with lions and Roman emperors, to be the master
+Gilded, carved with lions and {{x|Roman}} emperors, to be the master
 
-Of the Baltic, sixty-four guns on two decks, sailed out
+Of the {{p|Baltic}}, sixty-four guns on two decks, sailed out
 Into {{p|Stockholm}}'s harbour on her maiden voyage before the crowd,
 And a gust of wind heeled her over, and the water came in the gun-ports, and about
 A mile from the quay she sank, with her flags flying. The proud
 
 Ship was too tall for her keel. Hold that image on this day.
 In 1630 he landed in {{p|Germany}}, in the middle of the war
-Between the Catholic emperor and the Protestant princes, the way
-Of the Lion of the North, they called him, the saviour, for
+Between the {{x|Catholic}} emperor and the {{x|Protestant}} princes, the way
+Of the {{c|Lion of the North}}, they called him, the saviour, for
 
-The Protestant cause, and paid by {{p|France}}, a Catholic crown,
+The {{x|Protestant}} cause, and paid by {{p|France}}, a {{x|Catholic}} crown,
 For it suited {{p|Paris}} too. At {{p|Breitenfeld}}, in 1631,
 He broke the emperor's army, and the cities opened, and the town
 Of {{p|Munich}} paid him tribute. And the soldiers, under the sun
 
 Of victory, did what armies do: they plundered,
 And the peasants of {{p|Germany}} learned a new word,
-The *Swedish drink*: filth poured down a man's throat. Hundred
-After hundred villages burned by the Gothic heirs. The bird
+The *{{x|Swedish}} drink*: filth poured down a man's throat. Hundred
+After hundred villages burned by the {{x|Gothic}} heirs. The bird
 
 Of the war had no side. And on the sixteenth of November, 1632,
 At {{p|Lützen}}, in a fog like the fog at {{p|Sekigahara}},
@@ -52409,17 +52409,17 @@ The king, short-sighted, rode ahead of his men, and was shot through,
 And fell from his horse, and was shot again, and the far
 
 Cavalry did not find his body till the evening, stripped.
-The Swedes won the battle. Their king was dead at thirty-seven.
+The {{c|Swedes}} won the battle. Their king was dead at thirty-seven.
 {{p|Sweden}} became a great power for a century, gripped
-By its Gothic dream: {{c|Rudbeck}} would prove it was {{c|Atlantis}}, the heaven
+By its {{x|Gothic}} dream: {{c|Rudbeck}} would prove it was {{c|Atlantis}}, the heaven
 
 Of the ancients, the source of all wisdom. The myth grew wilder
 As the empire grew. And in 1709 at {{p|Poltava}} it ended.
-On the Eighth Day of Awe, look at the dream that made a builder
+On the {{x|Eighth Day of Awe}}, look at the dream that made a builder
 Build a ship too tall, and a nation pretend it had descended
 
 From the conquerors of {{p|Rome}}. The farmers at {{p|Bure}} were real.
-The Goths of the costume were not. And the conscript boys in the rolls
+The {{c|Goths}} of the costume were not. And the conscript boys in the rolls
 Were real, and died in {{p|Germany}}, for a king's ideal
 Dressed in a legend. Repent of the legends that cost souls.
 
@@ -52430,16 +52430,16 @@ Are on display, for children, the tallest ship, and the shore
 
 She never left. Go and see her. A nation keeps its wreck
 On view, and teaches its children: this is what pride
-Does to a keel. That is a better myth than Berik. The deck
+Does to a keel. That is a better myth than {{c|Berik}}. The deck
 Is the lesson. Stand on the quay. The water is on every side.
 
 
 # Chapter 271: Two Fingers
 
-{{p|Moscow}}, the town {{c|Yuri}} the Long-Armed founded on a hill above a river,
+{{p|Moscow}}, the town {{c|Yuri}} the {{c|Long-Armed}} founded on a hill above a river,
 Was the head of an empire by 1600, and then it fell apart.
-The old line of {{c|Rurik}} died out. The Time of Troubles: a fever
-Of pretenders, famine, the Poles in the {{p|Kremlin}}, the heart
+The old line of {{c|Rurik}} died out. The {{x|Time of Troubles}}: a fever
+Of pretenders, famine, the {{c|Poles}} in the {{p|Kremlin}}, the heart
 
 Of the country occupied. A butcher of {{p|Nizhny Novgorod}}, {{c|Kuzma Minin}},
 And a prince, {{c|Dmitry Pozharsky}}, raised an army of the towns
@@ -52448,22 +52448,22 @@ The {{p|Kremlin}}, chose a boy of sixteen to wear the crown:
 
 {{c|Michael Romanov}}, of a boyar family, whose great-aunt had been
 {{c|Ivan the Terrible}}'s first and best-loved wife. A peasant, {{c|Ivan Susanin}},
-It is told, led a Polish troop astray in the forest, unseen
-Death in the snow, to save the boy. The Romanovs began
+It is told, led a {{x|Polish}} troop astray in the forest, unseen
+Death in the snow, to save the boy. The {{c|Romanovs}} began
 
 And ruled three hundred and four years. Hold the founding. Then the split.
 In 1652 the {{c|Patriarch Nikon}}, a peasant's son of great will,
-Set out to correct the Russian church: to make it fit
-The Greek. The books had drifted, he said; the copyists' skill
+Set out to correct the {{x|Russian}} church: to make it fit
+The {{x|Greek}}. The books had drifted, he said; the copyists' skill
 
-Had failed; the Russians crossed themselves with two fingers,
-And the Greeks with three; the Russians sang *Alleluia* twice, and the Greeks
-Three times; the Russians walked the procession with the sun. The lingerers
+Had failed; the {{c|Russians}} crossed themselves with two fingers,
+And the {{c|Greeks}} with three; the {{c|Russians}} sang *{{x|Alleluia}}* twice, and the {{c|Greeks}}
+Three times; the {{c|Russians}} walked the procession with the sun. The lingerers
 In the old way must change. Three fingers. And the weeks
 
-Became years of fury. The irony is this, on the Ninth Day of Awe:
-The two-fingered sign was the older one. The Greeks had changed, not the Russians.
-The Russian books kept a Byzantine use the Greeks forgot. The law
+Became years of fury. The irony is this, on the {{x|Ninth Day of Awe}}:
+The two-fingered sign was the older one. The {{c|Greeks}} had changed, not the {{c|Russians}}.
+The {{x|Russian}} books kept a {{x|Byzantine}} use the {{c|Greeks}} forgot. The law
 Of the reform called itself a return to the source. The discussions
 
 Of the scholars would show it, centuries later: the "correction"
@@ -52471,13 +52471,13 @@ Was a modernization dressed as a restoration. Invented tradition
 In reverse: the new disguised as the old, the defection
 Disguised as fidelity. And the people who held the old position,
 
-The Old Believers, would not cross themselves with three.
+The {{c|Old Believers}}, would not cross themselves with three.
 The council of 1666 cursed them. And the year itself, the number
-Of the Beast, convinced them: the Antichrist had come, and the tree
-Of the Church was cut. The archpriest {{c|Avvakum}}, from his slumber
+Of the {{c|Beast}}, convinced them: the {{c|Antichrist}} had come, and the tree
+Of the {{x|Church}} was cut. The archpriest {{c|Avvakum}}, from his slumber
 
-In an earthen pit in the Arctic, wrote the first great book
-In plain Russian, his own life, and was burned at the stake in 1682.
+In an earthen pit in the {{p|Arctic}}, wrote the first great book
+In plain {{x|Russian}}, his own life, and was burned at the stake in 1682.
 The {{c|Boyarina Morozova}}, a great lady, would not look
 At the three-fingered cross; they starved her in a pit. And who
 
@@ -52503,29 +52503,29 @@ Being older than the reformers knew. And pray
 
 As your fathers prayed, if you can, and change what must change,
 And never burn anyone over the fingers of a hand.
-The Old Believers are still in {{p|Russia}}, and in {{p|Alaska}}, and in the strange
+The {{c|Old Believers}} are still in {{p|Russia}}, and in {{p|Alaska}}, and in the strange
 Green valleys of {{p|Oregon}}. Two fingers raised. They stand.
 
 
 # Chapter 272: The Sabbath of Sabbaths
 
 It began with a window. On the twenty-third of May, 1618,
-In the castle of {{p|Prague}}, Protestant lords of {{p|Bohemia}},
-Furious that the Catholic king would take back what had been
+In the castle of {{p|Prague}}, {{x|Protestant}} lords of {{p|Bohemia}},
+Furious that the {{x|Catholic}} king would take back what had been
 Promised, their churches, their law, threw two of the king's men, the phobia
 
 Of the moment made flesh, and their secretary, out of a high window.
-They fell some twenty metres and lived. The Catholics said: angels caught them.
-The Protestants said: they landed in a dung heap. The crescendo
+They fell some twenty metres and lived. The {{c|Catholics}} said: angels caught them.
+The {{c|Protestants}} said: they landed in a dung heap. The crescendo
 Of thirty years began with a joke about how they fought them
 
 Down. Then the war. At the {{p|White Mountain}} in 1620
-The Bohemians were broken, and their leaders beheaded in the square.
+The {{c|Bohemians}} were broken, and their leaders beheaded in the square.
 Then {{p|Denmark}} came in, and was beaten. Then {{p|Sweden}}, and the plenty
 Of {{c|Gustavus}}'s victories, and his death at {{p|Lützen}}, there
 
-In the fog. Then {{p|France}}, Catholic {{p|France}}, against the Catholic emperor,
-Because the war was no longer about God, if it had ever been.
+In the fog. Then {{p|France}}, {{x|Catholic}} {{p|France}}, against the {{x|Catholic}} emperor,
+Because the war was no longer about {{c|God}}, if it had ever been.
 It was about who would hold {{p|Europe}}. And the temper
 Of the armies was the temper of hunger. Between
 
@@ -52546,7 +52546,7 @@ Was half. Villages vanished from the map. The examen
 
 Of the war's own chroniclers: wolves came back into the towns.
 And then they talked. For five years, from 1643, in two cities,
-{{p|Münster}} for the Catholics, {{p|Osnabrück}} for the Protestants, the crowns
+{{p|Münster}} for the {{c|Catholics}}, {{p|Osnabrück}} for the {{c|Protestants}}, the crowns
 And the princes and the free cities sent a hundred delegations; the pities
 
 And the vanities: they argued for months over who would walk
@@ -52569,12 +52569,12 @@ Not tolerance. Exhaustion. Not love. A truce
 Between people who had learned that they could not condemn
 Each other out of existence. That is the use
 
-Of this day. The Lifeist {{c|Yom Kippur}} falls on a Saturday,
-Always: the Sabbath of Sabbaths, the day of rest,
+Of this day. The {{x|Lifeist}} {{c|Yom Kippur}} falls on a Saturday,
+Always: the {{x|Sabbath of Sabbaths}}, the day of rest,
 The day of atonement. And the old teaching says: the way
-To atone with God for what you did to a person is not addressed
+To atone with {{c|God}} for what you did to a person is not addressed
 
-To God. You must go to the person. You must ask.
+To {{c|God}}. You must go to the person. You must ask.
 The day does not atone for that until you have. Hold it here.
 {{p|Europe}} learned at {{p|Münster}} the slow, humbling task
 Of sitting at one table with the enemy, year after year,
@@ -52582,7 +52582,7 @@ Of sitting at one table with the enemy, year after year,
 Arguing about the door, and signing anyway.
 The bells rang in the cities when the news came. People wept.
 Some had never known a year of peace. They had a day.
-On the Sabbath of Sabbaths, rest. The promise kept
+On the {{x|Sabbath of Sabbaths}}, rest. The promise kept
 
 Is not that we love each other. It is that we stop.
 That we lay down the sword and go home and plant the field
@@ -52594,32 +52594,32 @@ The argument about the door. Sign. And let the land be healed.
 
 The one who waited won the peace, and his grandson {{c|Iemitsu}} shut the door.
 Between 1633 and 1639 the shogunate wrote the edicts:
-No Japanese ship may sail abroad. No Japanese, on pain of death, may come ashore
+No {{c|Japanese}} ship may sail abroad. No {{c|Japanese}}, on pain of death, may come ashore
 From the outside world again. The {{c|Portuguese}}, with their padres and their contradicts,
 
-Expelled, in 1639, their ships forbidden. When a Portuguese embassy
+Expelled, in 1639, their ships forbidden. When a {{c|Portuguese}} embassy
 Came the next year from {{p|Macau}} to ask the trade back, sixty-one
 Of them were beheaded, and a few sent home to tell it. The fantasy
-Of the Christian century ended. What was left: the sun
+Of the {{x|Christian}} century ended. What was left: the sun
 
 Through four small windows. The {{c|Dutch}} on {{p|Dejima}}, a fan of land
-In {{p|Nagasaki}}'s harbour, watched, and the Chinese merchants in their quarter;
+In {{p|Nagasaki}}'s harbour, watched, and the {{c|Chinese}} merchants in their quarter;
 {{p|Korea}} through the lords of {{p|Tsushima}}; the {{c|Ryūkyū}} kingdom's hand
 Through {{p|Satsuma}}; the {{c|Ainu}} of the north through {{p|Matsumae}}. The water
 
 Was a wall with four gates. Later they would call it {{c|sakoku}},
 The locked country. It was not locked. It was watched.
-And inside, the watching went into every house. The Taikō
+And inside, the watching went into every house. The {{c|Taikō}}
 Had measured the fields. Now the souls were notched
 
-In a book. After the Christian rising at {{p|Shimabara}}, in 1637,
+In a book. After the {{x|Christian}} rising at {{p|Shimabara}}, in 1637,
 Which the next day of this book will tell, the shogunate decided
 That every person in {{p|Japan}} must prove, each year, under heaven,
-That they were not a Christian. And the proof was provided
+That they were not a {{x|Christian}}. And the proof was provided
 
 By the temples. Every household was made the parishioner, the *danka*,
-Of a Buddhist temple, and the temple certified each spring
-That its families were Buddhist, and the village headman, the bookkeeper of the mura,
+Of a {{x|Buddhist}} temple, and the temple certified each spring
+That its families were {{x|Buddhist}}, and the village headman, the bookkeeper of the mura,
 Wrote it in the *shūmon aratame chō*, the register of the inquiry: the thing
 
 Every person in the land had to be written in. Name, age,
@@ -52628,14 +52628,14 @@ Births and deaths and marriages and servants hired, the page
 Updated every year. By the 1670s the whole realm, correct
 
 To the last fisher's child, was in the books. Some twenty-five million people.
-And in {{p|Kyūshū}}, around {{p|Nagasaki}}, every New Year, the people
+And in {{p|Kyūshū}}, around {{p|Nagasaki}}, every {{x|New Year}}, the people
 Were made to step on a bronze image of the crucified, the {{c|fumi-e}}, the simple
-Test of the foot: tread on the Christ, or the steeple
+Test of the foot: tread on the {{c|Christ}}, or the steeple
 
 Of the family's hidden faith falls on them all. They stepped.
-Hold that. Mothers stepped on the Mother of God and went home and wept
+Hold that. Mothers stepped on the {{c|Mother of God}} and went home and wept
 And asked forgiveness in a hidden room. The register kept
-Their names as Buddhists, and their secret kept
+Their names as {{c|Buddhists}}, and their secret kept
 
 Itself. And the temples: they became the arm of the state,
 Its clerks, its census-takers, its proof of loyalty.
@@ -52676,8 +52676,8 @@ Of the locked country kept her. Read her. She is on our side.
 # Chapter 274: Our Hearts Are the Same as Yours
 
 On the peninsula of {{p|Shimabara}} and the islands of {{p|Amakusa}},
-Across the bay from {{p|Nagasaki}}, the farmers had been Christian
-For two generations, and their lords had been Christian, and the law
+Across the bay from {{p|Nagasaki}}, the farmers had been {{x|Christian}}
+For two generations, and their lords had been {{x|Christian}}, and the law
 Had changed, and the lords had changed, and the new lord's mission
 
 Was to squeeze. The {{c|Matsukura}} taxed the harvest past the bone,
@@ -52692,32 +52692,32 @@ They said could walk on the sea, and a dove had laid an egg, and more:
 
 That a prophecy foretold a heavenly child would come
 In the twenty-fifth year after the padres were driven away.
-They marched under banners with the chalice and the Host, the drum
-Of their war was a hymn, *Santiago*, and they swore that they would stay
+They marched under banners with the chalice and the {{x|Host}}, the drum
+Of their war was a hymn, *{{x|Santiago}}*, and they swore that they would stay
 
 Together. Thirty-seven thousand of them, men, women and children,
 Took the ruined castle of {{p|Hara}} on its cliff above the sea,
 And held it, all winter, against the armies of the shogun, the bewildering
 Faith of the starving. A hundred and twenty thousand men, and the plea
 
-Of the shogun's general to the {{c|Dutch}}: and the Dutch came,
-The ship *De Ryp*, and fired its cannon into the castle walls
-For two weeks, Protestants for the shogun against the papists, the same
+Of the shogun's general to the {{c|Dutch}}: and the {{c|Dutch}} came,
+The ship *{{x|De Ryp}}*, and fired its cannon into the castle walls
+For two weeks, {{c|Protestants}} for the shogun against the papists, the same
 Trade-loyalty that kept them on {{p|Dejima}}. The calls
 
 Of the rebels shot back into the shogun's camp with arrows:
-Are there no samurai in Japan, that you must ask foreigners for help?
-The Dutch went home. In April 1638, in the burrows
+Are there no samurai in {{p|Japan}}, that you must ask foreigners for help?
+The {{c|Dutch}} went home. In April 1638, in the burrows
 Of the ruined castle, the defenders were eating seaweed, the kelp
 
 Of the shore, and the shogun's men stormed it. Almost all were killed.
-Thirty-seven thousand. Shirō's head was set up at {{p|Nagasaki}} as a sign.
+Thirty-seven thousand. {{c|Shirō}}'s head was set up at {{p|Nagasaki}} as a sign.
 And the lord {{c|Matsukura}}, whose greed had begun it, was not stilled
 By the victory: he was beheaded, the only daimyo of the line
 
-Of the Edo peace to die like a common criminal. And then the silence.
+Of the {{x|Edo}} peace to die like a common criminal. And then the silence.
 The temple books. The image underfoot. The faith was dead,
-They said. It was not dead. In the Gotō islands, in the hills, the violence
+They said. It was not dead. In the {{p|Gotō}} islands, in the hills, the violence
 Of the search went on around it, and it went under, and was fed
 
 From hand to hand, without a priest, without a church, for two hundred and fifty years.
@@ -52725,25 +52725,25 @@ In {{p|Sotome}}, in {{p|Ikitsuki}}, in {{p|Urakami}}, the villages kept
 A baptizer, a calendar of feast days kept in secret, the fears
 Of discovery in every prayer. The prayers themselves were kept
 
-In a Latin and Portuguese no one understood any more,
+In a {{x|Latin}} and {{x|Portuguese}} no one understood any more,
 Repeated, *orasho*, worn smooth like a stone in a stream.
-They hid the {{c|Virgin}} in a white porcelain Kannon, the merciful one, the door
-Of the Buddhist mercy opening on the Mother: {{c|Maria Kannon}}. The dream
+They hid the {{c|Virgin}} in a white porcelain {{c|Kannon}}, the merciful one, the door
+Of the {{x|Buddhist}} mercy opening on the {{c|Mother}}: {{c|Maria Kannon}}. The dream
 
 Of the faith wore the robe of the other faith, and kept itself inside.
 That is syncretism forced by fear, and it became their own.
-They stepped on the image each New Year, and went home, and cried,
+They stepped on the image each {{x|New Year}}, and went home, and cried,
 And said the contrition prayer, *konchirisan*, for the stone
 
 Their foot had touched. And the centuries passed. And in 1865,
-When the country had opened again to the foreigners, a French priest,
+When the country had opened again to the foreigners, a {{x|French}} priest,
 {{c|Bernard Petitjean}}, built a church at {{p|Ōura}} in {{p|Nagasaki}}, to keep alive
 The faith of the foreigners. And on the seventeenth of March, the least
 
 Expected thing: a group of women and men from {{p|Urakami}} came in,
 And watched him at prayer, and one of them, a woman, came close,
 {{c|Isabelina Yuri Sugimoto}}, and whispered: *Our hearts are the same as yours*.
-And then: *Where is the image of Santa Maria?* And the rose
+And then: *Where is the image of {{c|Santa Maria}}?* And the rose
 
 Of that moment: he showed them the statue, and they knelt.
 Two hundred and fifty years. No priest. No book. They had kept it.
@@ -52751,27 +52751,27 @@ And the persecution came again, and they were exiled, and felt
 The last cruelty of the old law, three thousand of them, and swept it
 
 Away in 1873, when the ban came down at last.
-Some went into the Catholic church. Some would not: they kept their own way,
+Some went into the {{x|Catholic}} church. Some would not: they kept their own way,
 The way of their grandparents, the hidden way, the past
 They had carried, unchanged by the return. They are there today,
 
 A few, on the islands. Their faith is their ancestors' faith,
 And no priest from {{p|Rome}} could tell them it was wrong.
-Here is the whole Gaiad in one village: the wraith
+Here is the whole {{x|Gaiad}} in one village: the wraith
 Of the faith that would not die, kept by the weak and the strong
 
 Together, in the robe of another faith, under the eye
 Of the register. Honor the boy on the wall of {{p|Hara}}. Honor
 The woman at {{p|Ōura}}. Honor what is kept when the priests die, the keeper and the corner
-Where it was kept. Where is the image of Santa Maria? Here. Our hearts are the same.
+Where it was kept. Where is the image of {{c|Santa Maria}}? Here. Our hearts are the same.
 
 
 # Chapter 275: The Mandate Changes Hands
 
-The {{c|Ming}} had held the Mandate of Heaven for two hundred and seventy-six years.
+The {{c|Ming}} had held the {{x|Mandate of Heaven}} for two hundred and seventy-six years.
 In the 1630s the sky turned against them: the long cold
 Of the little ice age, the drought, the locusts, the tears
-Of famine in the north, the silver from the Americas, gold
+Of famine in the north, the silver from the {{p|Americas}}, gold
 
 Of the world trade, drying up, so the peasants could not pay their tax.
 The soldiers went unpaid. The eunuchs ruled the palace.
@@ -52784,12 +52784,12 @@ And the gates were opened from inside. The emperor, the last, the least
 Fortunate of the line, {{c|Chongzhen}}, rang the bell to summon the ministers. The ring
 
 Brought no one. He walked out of the palace with one eunuch
-To the hill behind the {{p|Forbidden City}}, {{p|Jingshan}}, Coal Hill,
+To the hill behind the {{p|Forbidden City}}, {{p|Jingshan}}, {{p|Coal Hill}},
 And hanged himself from a tree. On his robe, the story says, he wrote: the fortune
 Of the realm was lost by my ministers; let the rebels kill
 
 Me, not my people. The tree they show today was planted later.
-And at the Great Wall, at {{p|Shanhai Pass}}, where the wall comes down to the sea,
+And at the {{p|Great Wall}}, at {{p|Shanhai Pass}}, where the wall comes down to the sea,
 The general {{c|Wu Sangui}} held the gate against the {{c|Manchus}}, the greater
 Danger, he had thought, until the capital fell, and he
 
@@ -52798,60 +52798,60 @@ Or the enemy at the gate. The story says the rebel had taken his concubine,
 {{c|Chen Yuanyuan}}, and that decided it. Love, or calculation, or the family
 Of motives no one knows: he opened the pass. The line
 
-Of the Manchu banners came through, and with Wu's army broke the rebels,
+Of the {{c|Manchu}} banners came through, and with {{c|Wu}}'s army broke the rebels,
 And entered {{p|Beijing}} in June, and did not leave.
 A boy of six, {{c|Shunzhi}}, was enthroned, his uncle {{c|Dorgon}} ruling. The levels
-Of the Mandate: Heaven gives it, and Heaven takes it, and the reprieve
+Of the {{x|Mandate}}: {{c|Heaven}} gives it, and {{c|Heaven}} takes it, and the reprieve
 
-Is never long. The Manchus were few: perhaps one in a hundred
+Is never long. The {{c|Manchus}} were few: perhaps one in a hundred
 Of the people they now ruled. They ruled them by two things.
-The first was the body. In 1645, the order: every Han man shall be sundered
+The first was the body. In 1645, the order: every {{c|Han}} man shall be sundered
 From his hair: shave the forehead, braid the rest in a queue. The rings
 
 Of the slogan: *keep your hair and lose your head, or keep your head
-And lose your hair.* For a Confucian, the hair was the gift of the parents,
+And lose your hair.* For a {{x|Confucian}}, the hair was the gift of the parents,
 Not to be cut. Men chose death. At {{p|Yangzhou}}, the dead
 Were counted for ten days after the city fell; the inherence
 
 Of terror was the point. At {{p|Jiading}}, three massacres.
-The braid, which the West would later think was simply Chinese,
+The braid, which the {{p|West}} would later think was simply {{c|Chinese}},
 Was the mark of conquest, worn for two hundred and sixty years. The heirs
-Of the Ming cut it off in 1911 as a declaration. Hold these:
+Of the {{c|Ming}} cut it off in 1911 as a declaration. Hold these:
 
 Identity written on the body by the conqueror,
 And worn until it felt like one's own. And the second thing:
-The Manchus became more Confucian than the {{c|Ming}}. The honor
-Of the classics, the examinations, the rites to Heaven, the king
+The {{c|Manchus}} became more {{x|Confucian}} than the {{c|Ming}}. The honor
+Of the classics, the examinations, the rites to {{c|Heaven}}, the king
 
 Of the old cosmology: they kept it all, and patronized it,
 And the great {{c|Kangxi}}, who ruled sixty-one years,
 Compiled the dictionary, the encyclopedias, and was praised for it
 By the very scholars whose grandfathers had died by the spears
 
-Of his grandfather's men. That is how the Mandate is won:
+Of his grandfather's men. That is how the {{x|Mandate}} is won:
 By becoming the keeper of the thing you conquered.
-And the Ming loyalists held out in the south, one by one
+And the {{c|Ming}} loyalists held out in the south, one by one
 Falling, and one of them, {{c|Koxinga}}, a pirate's son, conjured
 
 An army and a fleet, and in 1662 took {{p|Taiwan}} from the {{c|Dutch}},
-The Company's fort at {{p|Tainan}} surrendered after a siege of nine months:
-The first time a Chinese army drove out a European power. Such
+The {{c|Company}}'s fort at {{p|Tainan}} surrendered after a siege of nine months:
+The first time a {{c|Chinese}} army drove out a {{c|European}} power. Such
 Things the ledger of {{p|Batavia}} did not foresee. The once-
 
 Hunted loyalist became a god in {{p|Taiwan}}'s temples,
-And a hero to the Qing who had hunted him, and to the Japanese,
-For his mother was Japanese, and to the Republic. The examples
+And a hero to the {{c|Qing}} who had hunted him, and to the {{c|Japanese}},
+For his mother was {{c|Japanese}}, and to the {{c|Republic}}. The examples
 Of the use of the dead multiply. Hold these
 
-On this day: the Mandate passes; the conqueror becomes the keeper;
+On this day: the {{x|Mandate}} passes; the conqueror becomes the keeper;
 The body is made to carry the new order; the loyalist becomes a saint
 Of all sides. And the peasant, the courier, the famine-sleeper
 Who began it, died a year later in the hills of {{p|Hubei}}, no one sure how, without restraint
 
 Of fame or a temple. The sky turned cold, and the grain failed,
 And an empire fell. That is the oldest lesson in the book.
-The Mandate is the harvest. When the harvest is assailed,
-The Mandate goes. Feed the people. Then look
+The {{x|Mandate}} is the harvest. When the harvest is assailed,
+The {{x|Mandate}} goes. Feed the people. Then look
 
 At the rites.
 
