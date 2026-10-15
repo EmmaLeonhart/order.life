@@ -107,6 +107,26 @@ def ged7_date(raw, precision=None):
     return f"ABT {date}" if prec <= 8 else date
 
 
+def other_calendars(raw, precision=None):
+    """For an exact date (day precision), its Gaian, Hebrew, Islamic and solar Hijri dates (calendars.py)."""
+    try:
+        prec = int(precision) if precision not in (None, "") else 11
+    except (TypeError, ValueError):
+        prec = 11
+    if prec < 11:
+        return None
+    s = raw.strip()
+    neg = s.startswith("-")
+    bits = s.lstrip("+-").split("T", 1)[0].split("-")
+    if len(bits) < 3 or not all(x.isdigit() for x in bits[:3]):
+        return None
+    y, m, d = int(bits[0]), int(bits[1]), int(bits[2])
+    if y == 0 or not (1 <= m <= 12 and 1 <= d <= 31):
+        return None
+    from calendars import calendar_note
+    return calendar_note(1 - y if neg else y, m, d)   # BCE year n is astronomical 1 - n
+
+
 def person_uid(qid):
     return str(uuid.uuid5(UID_NAMESPACE, qid))
 
@@ -342,7 +362,7 @@ def build_gedcom7(out_path):
         with open(labels_path, encoding="utf-8", newline="") as fh:
             for r in csv.DictReader(fh, delimiter="\t"):
                 labels[r["qid"]].append((r["lang"], r["label"]))
-    n_indi = n_trans = n_lineage = n_cite = 0
+    n_indi = n_trans = n_lineage = n_cite = n_cal = 0
     for qid in sorted(persons, key=lambda q: int(q[1:]) if q[1:].isdigit() else 0):
         row = persons[qid]
         w(f"0 @I{qid}@ INDI")
@@ -393,6 +413,10 @@ def build_gedcom7(out_path):
             if date:
                 w(f"1 {tag}")
                 w(f"2 DATE {date}")
+                note = other_calendars(raw, prec)
+                if note:
+                    w(f"2 NOTE {val(note)}")
+                    n_cal += 1
             else:
                 w(f"1 {tag} Y")
                 w(f"2 NOTE Date as recorded: {val(raw)}")
@@ -450,7 +474,7 @@ def build_gedcom7(out_path):
     with open(tmp, "w", encoding="utf-8-sig", newline="\n") as f:
         f.write("\n".join(out))
     tmp.replace(out_path)
-    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite,
+    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal,
             "bytes": out_path.stat().st_size}
 
 

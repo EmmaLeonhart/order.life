@@ -8296,3 +8296,9 @@ usual rules, so "Ярославович" where the old form is "Ярослави
 differs from the canonical line ("Recorded patronymic 'ibn Yahya'; by the canonical line ... Gedaliah is Don Shlomo's
 son"). Russian forms for everyone with a Russian label were tried and dropped: they put Japanese surnames into
 patronymics. labels.tsv now also holds ar and ru labels; only zh, ja and ko go into the file as TRAN.
+
+2026-10-15 07:52 PST: every exact date in /gaiad.ged (day precision; 25,331) carries a NOTE with its Gaian, Hebrew, Islamic and
+solar Hijri dates (`wiki-scripts/calendars.py`, Reingold and Dershowitz arithmetic; Islamic and solar Hijri marked
+"arithmetic", omitted before 622). Checked: 12 Sep 2026 = 1 Tishri 5787, 21 Mar 2026 = 1 Farvardin 1405, 29 Dec 2025 =
+Sagittarius 1, 12026. Limitation: the dates come from Wikidata timestamps without their calendar model, so a pre-1582
+date recorded in the Julian calendar is read as Gregorian, here as in the DATE line itself.
