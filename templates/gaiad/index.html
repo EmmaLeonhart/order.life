@@ -29,8 +29,12 @@
     <p class="text-center mt-20">Download (English):
       <a href="/gaiad.pdf" download>PDF</a> ·
       <a href="/gaiad.epub" download>EPUB</a> ·
+      <a href="/gaiad.docx" download>Word</a> ·
+      <a href="/gaiad.odt" download>OpenDocument</a> ·
+      <a href="/gaiad.txt" download>plain text</a> ·
       <a href="/gaiad.ged" download>GEDCOM 7</a> ·
-      <a href="/gaiad.zip" download>all in one zip (GEDZIP)</a></p>
+      {# Each language directory has its own zip, whose GEDCOM adds that language's names. #}
+      <a href="{{ base }}/gaiad.zip" download>all in one zip (GEDZIP)</a></p>
   </div>
 
   <h2 class="text-center mt-20 mb-20" style="color: var(--accent);">{{ t.gaiad_index.title }}: 364 {{ t.chapter }}s</h2>
