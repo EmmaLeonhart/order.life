@@ -2449,7 +2449,7 @@ And {{p|Egypt}} emerged from the {{p|First Intermediate Period}}.
 
 The collapse of the {{p|Old Kingdom}} around twenty-two hundred BCE
 Had fragmented the unified state into rival regional dynasties.
-{{p|Upper}} and {{p|Lower Egypt}} had split. {{p|Herakleopolis}} ruled the
+Upper and {{p|Lower Egypt}} had split. {{p|Herakleopolis}} ruled the
 North. {{p|Thebes}}—an obscure provincial town at the time—gradually
 
 Rose in the south. For over a century, {{p|Egypt}} was divided, weakened,
@@ -3365,7 +3365,7 @@ Diplomatic triumphs, Thutmose III's military conquests, Akhenaten's
 Religious revolution and persecution of the {{p|Israelites}}, Ramesses II's
 
 Sixty-six-year reign and his peace treaty with the {{p|Hittites}}. The
-{{p|Eighteenth}} and {{p|Nineteenth Dynasties}}. The {{p|Egyptian}} Empire at
+Eighteenth and {{p|Nineteenth Dynasties}}. The {{p|Egyptian}} Empire at
 Its peak. The monumental architecture, the international diplomacy,
 The religious upheaval, and the slowly tightening pressures that
 
@@ -5552,7 +5552,7 @@ And {{p|Islamic}} political theology. A king stands under God, not
 Beside him. A king can be rebuked by a prophet. A king is
 Accountable. The David-Nathan encounter—the prophet confronting
 The king about his sin—is one of the foundational moments of
-{{p|Western}} political-religious imagination. It asserts that even
+Western political-religious imagination. It asserts that even
 
 The most powerful ruler is accountable to a moral order that
 Transcends his own authority. The implications of this for the
@@ -5756,7 +5756,7 @@ At its end—was one of the most creative periods in human history.
 
 {{p|Athens}} produced the playwrights Aeschylus, Sophocles, Euripides,
 And Aristophanes—whose tragedies and comedies founded the
-{{p|Western}} dramatic tradition. It produced the historians Herodotus
+Western dramatic tradition. It produced the historians Herodotus
 And Thucydides—who invented history as a literary and analytical
 
 Genre. It produced the sculptor Phidias, whose statues of Athena
@@ -5767,7 +5767,7 @@ One of the most influential buildings ever designed. It produced
 The politician Pericles, whose leadership and oratory defined
 The golden age. And it produced Socrates, whose radically
 Different philosophical method would reshape all subsequent
-{{p|Western}} thought. All within a single city of perhaps fifty
+Western thought. All within a single city of perhaps fifty
 
 Thousand adult male citizens. All within roughly a century. The
 Cultural output per capita is staggering. Nothing comparable had
@@ -5857,7 +5857,7 @@ Is impossible, being is eternal and unchanging, what appears to
 
 Change is mere illusion. These two opposed positions—the Heraclitean
 And the Parmenidean—frame a dialectic that still structures
-{{p|Western}} philosophy. Every metaphysical debate about the nature
+Western philosophy. Every metaphysical debate about the nature
 Of change, of identity, of permanence, of becoming, traces back
 
 To these {{p|pre-Socratic}} arguments. And meanwhile, while these

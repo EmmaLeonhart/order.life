@@ -174,8 +174,6 @@ A brilliant burst before she fell from sight.
 From that great death, a black hole then prepared,
 To pull the stars into eternal night.
 
-Advertisement
-
 
 # Chapter 4: The First Yarn String
 
@@ -362,8 +360,6 @@ And this is why we call her to this day,
 Our Greatest Grandmother, wise and true.
 Her light still guides us on our cosmic way,
 A title passed to us and all of you.
-
-Advertisement
 
 
 # Chapter 8: Heavy Elements Scattered
@@ -810,8 +806,6 @@ Nemla stood tall, her gaze fixed on the stars,
 Through every trial, no matter how far,
 We swear to keep your cosmic vow in view."
 
-Advertisement
-
 
 # Chapter 13: Solar Nebula Collapse
 
@@ -874,8 +868,6 @@ Farther still, the Oort Cloud wraps around,
 A veil of frozen whispers far from light.
 In distant orbits, comets there abound,
 A cosmic dance that fades beyond our sight.
-
-Advertisement
 
 
 # Chapter 14: Planetary Accretion

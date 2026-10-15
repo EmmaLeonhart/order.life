@@ -1742,8 +1742,8 @@ On Thursday, the twenty-third of June, 2016,
 The {{p|United Kingdom}} votes
 On whether to remain in the union of {{p|Europe}}
 Or to leave it.
-{{x|Leave}} has about fifty-two in a hundred.
-{{x|Remain}} has about forty-eight.
+Leave has about fifty-two in a hundred.
+Remain has about forty-eight.
 A narrow count is not a divided country.
 The country was divided before the count.
 The count made it visible.

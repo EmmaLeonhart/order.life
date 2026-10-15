@@ -113,7 +113,7 @@ And the king {{c|Henry}}, barefoot in the snow
 Three days at {{p|Canossa}}, begging to be forgiven,
 And the pope who made him wait, and let him go.
 
-{{c|Urban}} at {{p|Clermont-Ferrand}}: {{c|God}} wills it. The cross
+Urban at {{p|Clermont-Ferrand}}: {{c|God}} wills it. The cross
 Sewn onto shoulders, and the road to {{p|Jerusalem}}
 Paved with the slaughtered. {{c|Innocent III}}, the boss
 Of kings, who forbade the sack, and then watched them

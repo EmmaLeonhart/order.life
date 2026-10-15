@@ -180,8 +180,6 @@ A brilliant burst before she fell from sight.
 From that great death, a black hole then prepared,
 To pull the stars into eternal night.
 
-Advertisement
-
 
 # Chapter 4: The First Yarn String
 
@@ -368,8 +366,6 @@ And this is why we call her to this day,
 Our Greatest Grandmother, wise and true.
 Her light still guides us on our cosmic way,
 A title passed to us and all of you.
-
-Advertisement
 
 
 # Chapter 8: Heavy Elements Scattered
@@ -816,8 +812,6 @@ Nemla stood tall, her gaze fixed on the stars,
 Through every trial, no matter how far,
 We swear to keep your cosmic vow in view."
 
-Advertisement
-
 
 # Chapter 13: Solar Nebula Collapse
 
@@ -880,8 +874,6 @@ Farther still, the Oort Cloud wraps around,
 A veil of frozen whispers far from light.
 In distant orbits, comets there abound,
 A cosmic dance that fades beyond our sight.
-
-Advertisement
 
 
 # Chapter 14: Planetary Accretion
@@ -14933,7 +14925,7 @@ As pillars in evolution's sacred sight.
 
 Janusicthus begat two sons of fame:
 First Kondricthus, noble, strong, and true,
-And bright {{c|453|Osticthus}}, bearer of the name
+And bright Osticthus, bearer of the name
 Of those who'd find their home in waters blue.
 
 As they lived beneath the ocean's foam
@@ -14966,7 +14958,7 @@ Of life's experiments in earth and sea
 Will be revealed that you might learn and grow
 In wisdom's ways through all eternity."
 
-Great {{c|452|Chondricthus}} declared with royal pride:
+Great Chondricthus declared with royal pride:
 "As eldest I shall make the choice today—
 The nose I'll take to be my faithful guide
 To rule the boundless sea in every way.
@@ -31423,7 +31415,7 @@ And {{p|Egypt}} emerged from the {{p|First Intermediate Period}}.
 
 The collapse of the {{p|Old Kingdom}} around twenty-two hundred BCE
 Had fragmented the unified state into rival regional dynasties.
-{{p|Upper}} and {{p|Lower Egypt}} had split. {{p|Herakleopolis}} ruled the
+Upper and {{p|Lower Egypt}} had split. {{p|Herakleopolis}} ruled the
 North. {{p|Thebes}}—an obscure provincial town at the time—gradually
 
 Rose in the south. For over a century, {{p|Egypt}} was divided, weakened,
@@ -32339,7 +32331,7 @@ Diplomatic triumphs, Thutmose III's military conquests, Akhenaten's
 Religious revolution and persecution of the {{p|Israelites}}, Ramesses II's
 
 Sixty-six-year reign and his peace treaty with the {{p|Hittites}}. The
-{{p|Eighteenth}} and {{p|Nineteenth Dynasties}}. The {{p|Egyptian}} Empire at
+Eighteenth and {{p|Nineteenth Dynasties}}. The {{p|Egyptian}} Empire at
 Its peak. The monumental architecture, the international diplomacy,
 The religious upheaval, and the slowly tightening pressures that
 
@@ -34526,7 +34518,7 @@ And {{p|Islamic}} political theology. A king stands under God, not
 Beside him. A king can be rebuked by a prophet. A king is
 Accountable. The David-Nathan encounter—the prophet confronting
 The king about his sin—is one of the foundational moments of
-{{p|Western}} political-religious imagination. It asserts that even
+Western political-religious imagination. It asserts that even
 
 The most powerful ruler is accountable to a moral order that
 Transcends his own authority. The implications of this for the
@@ -34730,7 +34722,7 @@ At its end—was one of the most creative periods in human history.
 
 {{p|Athens}} produced the playwrights Aeschylus, Sophocles, Euripides,
 And Aristophanes—whose tragedies and comedies founded the
-{{p|Western}} dramatic tradition. It produced the historians Herodotus
+Western dramatic tradition. It produced the historians Herodotus
 And Thucydides—who invented history as a literary and analytical
 
 Genre. It produced the sculptor Phidias, whose statues of Athena
@@ -34741,7 +34733,7 @@ One of the most influential buildings ever designed. It produced
 The politician Pericles, whose leadership and oratory defined
 The golden age. And it produced Socrates, whose radically
 Different philosophical method would reshape all subsequent
-{{p|Western}} thought. All within a single city of perhaps fifty
+Western thought. All within a single city of perhaps fifty
 
 Thousand adult male citizens. All within roughly a century. The
 Cultural output per capita is staggering. Nothing comparable had
@@ -34831,7 +34823,7 @@ Is impossible, being is eternal and unchanging, what appears to
 
 Change is mere illusion. These two opposed positions—the Heraclitean
 And the Parmenidean—frame a dialectic that still structures
-{{p|Western}} philosophy. Every metaphysical debate about the nature
+Western philosophy. Every metaphysical debate about the nature
 Of change, of identity, of permanence, of becoming, traces back
 
 To these {{p|pre-Socratic}} arguments. And meanwhile, while these
@@ -36527,7 +36519,7 @@ In human history—Nagarjuna, Vasubandhu, Asanga, Dogen,
 Hui-neng, Chandrakirti, Dharmakirti—whose subtle explorations
 
 Of consciousness, emptiness, and causation rival anything in
-{{p|Western}} philosophy. The {{p|Buddhist}} contemplative traditions—the
+Western philosophy. The {{p|Buddhist}} contemplative traditions—the
 Various schools of meditation that trace back to the Buddha's
 Own practice—have produced detailed empirical investigations of
 
@@ -38471,7 +38463,7 @@ Formative importance. There would be later great dynasties—{{p|Tang}},
 Trying to live up to the template set by the {{p|Han}}. The {{p|Han}}
 Was, for subsequent {{p|Chinese}} civilization, what {{p|Rome}} was for
 
-{{p|Western}} civilization: the classical imperial model against which
+Western civilization: the classical imperial model against which
 All later empires were measured.
 
                                       The {{p|Han Dynasty}} declined in
@@ -60978,8 +60970,8 @@ On Thursday, the twenty-third of June, 2016,
 The {{p|United Kingdom}} votes
 On whether to remain in the union of {{p|Europe}}
 Or to leave it.
-{{x|Leave}} has about fifty-two in a hundred.
-{{x|Remain}} has about forty-eight.
+Leave has about fifty-two in a hundred.
+Remain has about forty-eight.
 A narrow count is not a divided country.
 The country was divided before the count.
 The count made it visible.

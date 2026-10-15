@@ -600,7 +600,7 @@ In human history—Nagarjuna, Vasubandhu, Asanga, Dogen,
 Hui-neng, Chandrakirti, Dharmakirti—whose subtle explorations
 
 Of consciousness, emptiness, and causation rival anything in
-{{p|Western}} philosophy. The {{p|Buddhist}} contemplative traditions—the
+Western philosophy. The {{p|Buddhist}} contemplative traditions—the
 Various schools of meditation that trace back to the Buddha's
 Own practice—have produced detailed empirical investigations of
 
@@ -2544,7 +2544,7 @@ Formative importance. There would be later great dynasties—{{p|Tang}},
 Trying to live up to the template set by the {{p|Han}}. The {{p|Han}}
 Was, for subsequent {{p|Chinese}} civilization, what {{p|Rome}} was for
 
-{{p|Western}} civilization: the classical imperial model against which
+Western civilization: the classical imperial model against which
 All later empires were measured.
 
                                       The {{p|Han Dynasty}} declined in

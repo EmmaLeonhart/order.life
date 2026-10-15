@@ -10,7 +10,7 @@ As pillars in evolution's sacred sight.
 
 Janusicthus begat two sons of fame:
 First Kondricthus, noble, strong, and true,
-And bright {{c|453|Osticthus}}, bearer of the name
+And bright Osticthus, bearer of the name
 Of those who'd find their home in waters blue.
 
 As they lived beneath the ocean's foam
@@ -43,7 +43,7 @@ Of life's experiments in earth and sea
 Will be revealed that you might learn and grow
 In wisdom's ways through all eternity."
 
-Great {{c|452|Chondricthus}} declared with royal pride:
+Great Chondricthus declared with royal pride:
 "As eldest I shall make the choice today—
 The nose I'll take to be my faithful guide
 To rule the boundless sea in every way.

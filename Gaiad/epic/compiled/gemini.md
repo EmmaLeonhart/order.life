@@ -600,7 +600,7 @@ In human history—{{c|Nagarjuna}}, {{c|Vasubandhu}}, {{c|Asanga}}, {{c|Dogen}},
 {{c|Hui-neng}}, {{c|Chandrakirti}}, {{c|Dharmakirti}}—whose subtle explorations
 
 Of consciousness, emptiness, and causation rival anything in
-{{p|Western}} philosophy. The {{p|Buddhist}} contemplative traditions—the
+Western philosophy. The {{p|Buddhist}} contemplative traditions—the
 Various schools of meditation that trace back to the {{c|Buddha}}'s
 Own practice—have produced detailed empirical investigations of
 
@@ -2544,7 +2544,7 @@ Formative importance. There would be later great dynasties—{{p|Tang}},
 Trying to live up to the template set by the {{p|Han}}. The {{p|Han}}
 Was, for subsequent {{p|Chinese}} civilization, what {{p|Rome}} was for
 
-{{p|Western}} civilization: the classical imperial model against which
+Western civilization: the classical imperial model against which
 All later empires were measured.
 
                                       The {{p|Han Dynasty}} declined in
@@ -4987,7 +4987,7 @@ with the golden headband that could constrict
 if the monk chanted the spell's {{x|Sanskrit}} funk.
 
 {{c|Pigsy}} ({{c|Zhu Bajie}}), the lazy glutton pig-man,
-{{c|Sandy}} ({{c|Sha Wujing}}), the stoic river demon,
+Sandy ({{c|Sha Wujing}}), the stoic river demon,
 and the dragon prince who became the horse —
 four disciples of the monk, the protection demon.
 
