@@ -1,6 +1,6 @@
 # Chapter 104: The Snake-Kindred of the Sea
 
-In the late Cretaceous seas, a new predator rose
+In the late {{x|Cretaceous}} seas, a new predator rose
 From the lineage of {{c|Squamos}}—the lizard-kin,
 The children of the second-born, and those
 Who carried the inheritance within
@@ -11,7 +11,7 @@ The forked tongue tasting chemistry on the air—
 The lizard's ancient arts to the ocean's lair.
 
 For {{c|Mosas}} was {{c|Squamos}}' child, a monitor
-In the manner of the great Komodo-kin—
+In the manner of the great {{x|Komodo}}-kin—
 A varanid, a tongue-flicking connoisseur
 Of the coastal shallows who went in
 
@@ -44,13 +44,13 @@ Where the prey was large and the need was real,
 
 This innovation made the mosasaur supreme.
 
-{{c|Mosas}} grew enormous in the Cretaceous seas—
+{{c|Mosas}} grew enormous in the {{x|Cretaceous}} seas—
 The largest reached the length of a city's dream:
 Seventeen meters of hunting expertise
 
 That ruled the shallow continental shelves
 Where the inland seas spread wide and warm
-Across the Cretaceous world—the waves themselves
+Across the {{x|Cretaceous}} world—the waves themselves
 Belonged to {{c|Mosas}}, and the coming storm
 
 Of his jaws was the last thing that the fish,
@@ -58,7 +58,7 @@ The ammonite, the sea turtle, the shark
 Would see—the mosasaur's one burning wish
 Was food, and the ocean offered it, and the dark
 
-Of the Cretaceous deep was his to claim.
+Of the {{x|Cretaceous}} deep was his to claim.
 
 His flippers were modified from the monitor's
 Spreading toes—webbed and powerful, the frame
@@ -69,16 +69,16 @@ And flattened, a vertical blade that drove
 The sinuous body forward through the hall
 Of the ocean's hunting grounds—the treasure-trove
 
-Of the late Cretaceous sea.
+Of the late {{x|Cretaceous}} sea.
 
                              And as {{c|Mosas}} rose,
 {{c|Ichthyos}} faded—the dolphin-shaped
 And ancient ichthyosaurs, who had enclosed
-The Triassic and Jurassic seas, escaped
+The {{x|Triassic}} and {{x|Jurassic}} seas, escaped
 
 No longer: the ichthyosaur line, after
 A hundred and fifty million years of the deep,
-Went silent in the mid-Cretaceous—the rafter
+Went silent in the mid-{{x|Cretaceous}}—the rafter
 Of their evolutionary house lost its keep
 
 To changing seas and changing competition—
@@ -108,7 +108,7 @@ Who proved that {{c|Squamos}}' ancient pioneering
 In flexible jaw and limbless sovereignty
 
 Could conquer the ocean as it conquered the land—
-The mosasaur who ruled the Cretaceous deep
+The mosasaur who ruled the {{x|Cretaceous}} deep
 With the monitor's tongue and the serpent's hand
 Redesigned for swimming—and whose sleep
 

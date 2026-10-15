@@ -2,7 +2,7 @@
 
 There is a shape that terror takes when it perfects itself.
 
-In the late Cretaceous, {{c|Theros}}' line achieved
+In the late {{x|Cretaceous}}, {{c|Theros}}' line achieved
 The ultimate predator—the shape that delved
 Into the deepest fear of every grieved
 
@@ -12,7 +12,7 @@ Who grew beyond all reason, who would bring
 The largest head, the strongest bite, the raw
 
 And overwhelming force of the apex lord
-To the Cretaceous's final act.
+To the {{x|Cretaceous}}'s final act.
 
                                    Twelve meters long,
 Six tons of bone and muscle, every cord
@@ -76,7 +76,7 @@ Was acute, the low frequencies of the ground
 Conducted through the bone, the footstep's clearing
 Of every fleeing creature's secret sound.
 
-The Cretaceous trembled before {{c|Tyrannos}}—
+The {{x|Cretaceous}} trembled before {{c|Tyrannos}}—
 Not a single land creature in his territory
 Was safe from the tyrant's scanning bellows
 Of smell and sight—the predatory
@@ -114,7 +114,7 @@ The strongest bite, the deepest jaws,
 And the earth itself that trembled when he stalked.
 
 He ruled for two million years at the end
-Of the Cretaceous age—a brief reign
+Of the {{x|Cretaceous}} age—a brief reign
 In geological time, but in the trend
 Of the theropod's story, the maximum strain
 

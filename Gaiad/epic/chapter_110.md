@@ -3,7 +3,7 @@
 The morning of the last day was like any other.
 
 The sun rose over {{p|Laurasia}} and the warm
-Cretaceous air received the light like a mother
+{{x|Cretaceous}} air received the light like a mother
 Receiving a child—the familiar, the form
 
 Of every morning for a hundred million years:
@@ -13,14 +13,14 @@ Of dawn, the pterosaur lifting from the wall
 
 Of the cliff-side roost on the thermal's first
 Ascending column of the morning heat—
-The Cretaceous's last day was the unrehearsed
+The {{x|Cretaceous}}'s last day was the unrehearsed
 And ordinary continuation of the beat
 
 Of life that knows nothing of its end.
 
 In the forest, the flowering understory
 Opened its petals to the pollinators' blend
-Of wing and proboscis—the Cretaceous glory
+Of wing and proboscis—the {{x|Cretaceous}} glory
 
 Of the angiosperm-insect partnership
 In full display: the bee arrived at dawn,
@@ -47,9 +47,9 @@ To eat enormously and often.
 
 The {{c|Hadros}} herds moved south along the coast
 In their annual migration, the coffin
-Of the Cretaceous autumn—or the toast
+Of the {{x|Cretaceous}} autumn—or the toast
 
-Of the Cretaceous spring, for the greenhouse world
+Of the {{x|Cretaceous}} spring, for the greenhouse world
 Had gentler seasons than our own—and the herd
 Of a thousand hadrosaurs, their crests unfurled
 In the morning light, bellowed every word
@@ -81,7 +81,7 @@ Every day for a hundred and thirty million years
 Of her lineage's continuity—the bliss
 Of the hunting plesiosaur's career
 
-Unchanged since the Jurassic dawn.
+Unchanged since the {{x|Jurassic}} dawn.
 
 And in the evening—the very last—
 The {{c|Mammos}} in his burrow looked upon
@@ -94,7 +94,7 @@ Of the nighttime ecosystem, the merging
 
 Of the day shift and the night shift at the seam
 Of dusk—the universal handoff
-That the Mesozoic world had made a dream
+That the {{x|Mesozoic}} world had made a dream
 Of reliability—and the final standoff
 
 Between the stone and the planet was hours away.
@@ -111,14 +111,14 @@ Keeps no record of the natural observance
 Of the approaching doom.
 
                          The last sunset
-Was beautiful—as all Cretaceous sunsets were—
+Was beautiful—as all {{x|Cretaceous}} sunsets were—
 The greenhouse atmosphere's palette set
 In reds and golds that would not recur
 
 For ten million years.
 
                       And then the night.
-The last night of the Mesozoic world.
+The last night of the {{x|Mesozoic}} world.
 And in the south, a growing point of light
 In the sky, where no star had ever swirled
 

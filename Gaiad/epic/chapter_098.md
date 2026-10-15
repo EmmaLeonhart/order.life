@@ -1,14 +1,14 @@
 # Chapter 98: The Plesiosaur Queens
 
 Now {{c|Nothros}}' children, who had paddled close
-To shore through all the Triassic years—
+To shore through all the {{x|Triassic}} years—
 Half-aquatic, like a coastal prose
 That never quite committed—shed their fears
 
 And swam to the open ocean.
 
                                 In the wake
-Of the end-Triassic dying, the sea
+Of the end-{{x|Triassic}} dying, the sea
 Had emptied its niches for any lineage to take
 That had the body and the will to be
 
@@ -36,15 +36,15 @@ Of the plesiosaur's patient, waiting maw.
 And the short-necked ones: the pliosaurs, great
 {{c|Plios}}, with massive heads and shorter necks,
 Built for power rather than for the ornate
-And serpentine—{{c|Plios}} was the Hex
+And serpentine—{{c|Plios}} was the {{x|Hex}}
 
 Of every marine creature's nightmare: jaws
 The length of a man, teeth like railroad spikes,
 A body propelled by four flippers without pause
-Through the Jurassic sea—the monster strikes
+Through the {{x|Jurassic}} sea—the monster strikes
 
 At ichthyosaur and plesiosaur alike,
-The apex predator of the Mesozoic deep,
+The apex predator of the {{x|Mesozoic}} deep,
 Who knew no equal and would only strike
 At whatever dared to swim the waters' keep.
 
@@ -77,7 +77,7 @@ And open ocean with the underwater run
 Of four-wing flight.
 
                     The {{c|Plesios}} ruled
-The Jurassic and the Cretaceous seas—
+The {{x|Jurassic}} and the {{x|Cretaceous}} seas—
 A hundred and thirty million years they pooled
 Their dynasty across the oceanic freeze
 
@@ -104,7 +104,7 @@ The turtle's cousins of the oceanic night
 Who took the ancient body-plan's design
 
 And made it fly beneath the waves: the queens
-Of the Mesozoic deep, the four-flipped fliers,
+Of the {{x|Mesozoic}} deep, the four-flipped fliers,
 Whose paddle-limbs and barrel-chested means
 Of breathing at the surface made them buyers
 

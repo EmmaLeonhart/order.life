@@ -8,7 +8,7 @@ Green of {{c|Conifera}}'s needles, the austere
 And wind-pollinated world where every levy
 
 Of pollen flew in clouds of golden dust
-On the Mesozoic wind, profligate
+On the {{x|Mesozoic}} wind, profligate
 And wasteful—a billion grains, and just
 A few would find their target, the mandate
 
@@ -20,7 +20,7 @@ That mattered—the crude and ancient logistics
 Of the gymnosperm's seed-making.
 
                                    But in the early
-Cretaceous undergrowth, among the ferns
+{{x|Cretaceous}} undergrowth, among the ferns
 And cycads, something new appeared: the rarely
 Beautiful, the quietly transformative—the turns
 
@@ -102,7 +102,7 @@ Of evolution's most productive mother.
 
 The dinosaurs ate the new plants gladly—
 The hadrosaurs and ceratopsians
-Of the late Cretaceous would develop badly
+Of the late {{x|Cretaceous}} would develop badly
 If the flowers failed—their special plans
 
 For grinding teeth and gut-fermentation
@@ -139,5 +139,5 @@ Of which we still consume in every act
 
 Of eating, smelling, seeing—for the flower
 Is the source of nearly everything we grow,
-And {{c|Angios}}' Cretaceous hour
+And {{c|Angios}}' {{x|Cretaceous}} hour
 Is the hour that made the world we know.

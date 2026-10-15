@@ -2,7 +2,7 @@
 
 Now {{c|Pteros}}' children grew to the impossible.
 
-In the late Cretaceous, when the Mesozoic world
+In the late {{x|Cretaceous}}, when the {{x|Mesozoic}} world
 Had pushed every boundary of the plausible
 In size and strength and strangeness, {{c|Pteros}} unfurled
 
@@ -10,7 +10,7 @@ The largest wings that ever flew.
 
 {{c|Quetzal}}—named for the feathered serpent-god
 That humans would later worship—flew through blue
-And Cretaceous skies on a wingspan broad
+And {{x|Cretaceous}} skies on a wingspan broad
 
 As a fighter aircraft: eleven meters wide,
 The membrane stretched from the enormous fourth
@@ -24,7 +24,7 @@ On his knuckles and his feet—the animal
 
 Kingdom's tallest flier was also tall
 On the ground, and the azhdarchid pterosaurs
-Of the late Cretaceous were the overall
+Of the late {{x|Cretaceous}} were the overall
 Most versatile of all {{c|Pteros}}' floors
 
 Of evolutionary achievement:
@@ -46,7 +46,7 @@ Of the skeleton—light as possibility itself.
 
 On the ground, {{c|Quetzal}} was a stork
 Of monstrous proportions: walking on the shelf
-Of the Cretaceous plain with a beak like a fork
+Of the {{x|Cretaceous}} plain with a beak like a fork
 
 That picked up small dinosaurs, mammals, lizards—
 Anything that fit within the enormous
@@ -58,9 +58,9 @@ And fly with equal mastery—the only
 Large animals that could soar and stalk
 In both dimensions, the sky and the lonely
 
-Flatlands of the Cretaceous interior.
+Flatlands of the {{x|Cretaceous}} interior.
 
-And not only {{c|Quetzal}} ruled the Cretaceous sky:
+And not only {{c|Quetzal}} ruled the {{x|Cretaceous}} sky:
 The ornithocheirids plied the aerial superior
 Of the open ocean, fishing on the fly
 
@@ -70,7 +70,7 @@ And the pteranodontids, with their brave
 And crested heads like the upswept silhouette
 
 Of a living weather-vane, soared above
-The inland seas of the late Cretaceous,
+The inland seas of the late {{x|Cretaceous}},
 Catching fish in their throat-pouches with the love
 Of a pelican's patience—the capacious
 
@@ -100,7 +100,7 @@ On wings that would make the albatross
 Seem modest—and his devotion
 To the sky was total, and the loss
 
-Of the pterosaurs at the Cretaceous's end
+Of the pterosaurs at the {{x|Cretaceous}}'s end
 Would leave the air for the birds alone—
 The feathered dinosaurs would then extend
 Their claim to every sky the pterosaur had known.

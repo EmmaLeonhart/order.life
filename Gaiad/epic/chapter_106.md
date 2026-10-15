@@ -2,7 +2,7 @@
 
 Against the tyrant's jaw, the herbivore
 Grew armor, grew horns, grew the elaborate
-And beautiful defenses of the Cretaceous floor:
+And beautiful defenses of the {{x|Cretaceous}} floor:
 The ornithischian answer, the ornate
 
 And weaponized response to the predator's art.
@@ -33,7 +33,7 @@ Of frill-horns, {{c|Centrosauros}} in a spree
 
 Of nasal ornament—each species wrote
 Its identity on the skull for all to read,
-And the Cretaceous plains were the moat
+And the {{x|Cretaceous}} plains were the moat
 And kingdom of the horned ones' creed.
 
 They charged the {{c|Tyrannos}} when he came—
@@ -46,7 +46,7 @@ The ceratopsian herds moved together,
 The young inside, the adults in a ring
 Of bristling horn-points, and the weather
 
-Of the Cretaceous battle between the horn
+Of the {{x|Cretaceous}} battle between the horn
 And the tooth was the defining drama
 Of the final age—the conflict, born
 From sixty million years of carnivore-llama
@@ -61,7 +61,7 @@ Of the arms race between the hunter's jaw
 And the hunted's armor—neither breached
 The other's final defenses, and the draw
 
-Of their perpetual warfare was the Cretaceous way.
+Of their perpetual warfare was the {{x|Cretaceous}} way.
 
 And beside the horned ones, the crested:
 {{c|Hadros}}, the duck-billed, who displayed a different day
@@ -69,17 +69,17 @@ Of ornament: the hollow crested
 
 Skulls that {{c|Parasauros}} wore, the tube
 And trumpet of bone that resonated
-With the animal's voice—a living YouTube
+With the animal's voice—a living {{x|YouTube}}
 Of communication, each crest calibrated
 
 To a different pitch and timbre—and the call
-Of the hadrosaur across the Cretaceous plain
+Of the hadrosaur across the {{x|Cretaceous}} plain
 Was music: deep and haunting, the hall
 Of the hollow crest a resonating gain
 
 That amplified the animal's low-frequency
 Bellow into something that could carry
-For miles—the Cretaceous symphony
+For miles—the {{x|Cretaceous}} symphony
 Of the duck-billed dinosaurs, the ordinary
 
 And extraordinary sound of the herd
@@ -90,7 +90,7 @@ Of hunger—the communication-prongs
 Of a social life as complex as any mammal's.
 
 {{c|Hadros}} and {{c|Ceratops}} together
-Were the Cretaceous herbivore's mammals—
+Were the {{x|Cretaceous}} herbivore's mammals—
 If mammals is the word for whatever
 
 Achieves the social, the communicative,
@@ -117,7 +117,7 @@ Of living stone that {{c|Ankylos}} wore.
 
 Honor the horned, the crested, the armored—
 The herbivore's answer to the carnivore's store
-Of weaponry—the Cretaceous world that harbored
+Of weaponry—the {{x|Cretaceous}} world that harbored
 
 Both the tyrant and the shield, the fang
 And the frill, the jaw and the horn—

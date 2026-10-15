@@ -41,7 +41,7 @@ That would produce the elephant, the whale,
 The dolphin, the ape, and at last the human mind.
 
 And {{c|Placentos}} divided, and the tale
-Of the Cenozoic's mammals is the kind
+Of the {{x|Cenozoic}}'s mammals is the kind
 
 Of story that geography writes:
 Three continents, three lineages, three
@@ -54,17 +54,17 @@ Of the breaking {{p|Gondwana}} and the northern lands.
 Isolated by the ocean's bands
 From every other continent, a replica
 
-Of the Australian experiment:
+Of the {{p|Australian}} experiment:
 A single landmass, alone, where {{c|Afrotheros}}'
 Children filled the niches in a different bent
 Than their northern cousins—and the heroes
 
-Of the African radiation were strange
+Of the {{p|African}} radiation were strange
 And unexpected: the elephant, the aardvark,
 The hyrax, the manatee—the range
 Of forms that {{p|Africa}}'s isolation in the dark
 
-Of the early Cenozoic produced
+Of the early {{x|Cenozoic}} produced
 From a single founding stock.
 
 {{c|Xenarthros}} was born in {{p|South America}}—
@@ -76,7 +76,7 @@ The armadillo in his banded hue
 Of armor-plate, the anteater's expertise
 
 Of tongue that probed the termite mound—
-And in the Pleistocene, the giant forms:
+And in the {{x|Pleistocene}}, the giant forms:
 The ground sloth tall as a house, the round
 And car-sized glyptodont whose armored storms
 
@@ -114,6 +114,6 @@ With the mammalian art—the flags unfurled
 Of {{c|Afrotheros}}, {{c|Xenarthros}}, and the throne
 
 Of {{c|Boreos}}—three answers to the question
-That the empty Paleocene asked:
+That the empty {{x|Paleocene}} asked:
 What will the mammal be? Three directions,
 Three continents, three futures unmasked.

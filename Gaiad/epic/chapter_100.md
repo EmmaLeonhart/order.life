@@ -2,7 +2,7 @@
 
 Now comes the thunder.
 
-                       In the middle Jurassic,
+                       In the middle {{x|Jurassic}},
 When {{c|Conifera}}'s forests grew tall and the rain
 Fed the canopy to heights fantastic
 That no creature's neck had yet been able to attain—
@@ -27,7 +27,7 @@ And giraffe-like, his nostrils above the wood
 Of the highest canopy, a living crane
 That browsed the treetops like a grazing tower—
 Fifty tons of gentle, vegetarian reign
-Over the Jurassic forest's highest bower.
+Over the {{x|Jurassic}} forest's highest bower.
 
 {{c|Diplodos}} was the longest—his whip-tail
 Stretched behind him like a sonic weapon,
@@ -44,10 +44,10 @@ The largest of them all, a hundred tons,
 The most massive land animal, the greater
 And most extreme of {{c|Sauropos}}' sons—
 
-But in the Jurassic's middle age, the first
+But in the {{x|Jurassic}}'s middle age, the first
 Great sauropods were already shaking the earth
 With every footfall—and the drumbeat burst
-Of their walking was the Mesozoic's birth
+Of their walking was the {{x|Mesozoic}}'s birth
 
 Of thunder that was not from any cloud.
 
@@ -92,7 +92,7 @@ A stable, warm interior where the enzyme
 Chemistry of life could spread its wings
 Regardless of the night's cold or the daytime
 
-Blaze of the Jurassic sun.
+Blaze of the {{x|Jurassic}} sun.
 
                            They walked in herds—
 The footprints tell us this: great trackways of
@@ -107,7 +107,7 @@ The moving fortress of a sauropod's ranks.
 And they ate. They ate constantly. They stripped
 The forests with the efficiency of machines,
 Each day consuming more than a man has shipped
-In a week of groceries—the Jurassic scenes
+In a week of groceries—the {{x|Jurassic}} scenes
 
 Of sauropod feeding must have sounded like
 A continuous ripping of the world's green hide—
@@ -129,7 +129,7 @@ To build the largest animal that walks
 On four legs, each one massive as a beach-
 Side pylon—and the thunder of their walks
 
-Was the heartbeat of the Jurassic world.
+Was the heartbeat of the {{x|Jurassic}} world.
 
 Honor {{c|Sauropos}}—the thunder lizards,
 The gentle giants whose banners were unfurled

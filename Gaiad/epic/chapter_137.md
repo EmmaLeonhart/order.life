@@ -81,7 +81,7 @@ Comes in.
 And the {{p|Euphrates}}. The place where cities began. The floodplain of {{p|Ur}},
 The ziggurat of {{p|Eridu}}, the canals of {{p|Uruk}}, the walls of the figris
 
-And Sargonid kingdoms that would rise and fall across three thousand
+And {{x|Sargonid}} kingdoms that would rise and fall across three thousand
 Years of the ancient {{p|Near East}}. {{p|Mesopotamia}} was the staging ground
 For the second great flowering of {{c|J}}. The {{p|Akkadians}}, the {{p|Babylonians}}, the {{p|Assyrians}}, the bound
 Together and yet separate nations of the {{p|Tigris-Euphrates}} valley, the sound
@@ -116,7 +116,7 @@ The peninsula, {{c|J1}} was carrying the parallel but separate way
 Of the {{p|Arabian}} desert tribes. The caravan routes, the toss
 
 Of the dice-game in the tent, the poetic genealogies of the {{c|Bedouin}},
-The sophisticated pre-Islamic poetic culture of the desert—all of this
+The sophisticated pre-{{x|Islamic}} poetic culture of the desert—all of this
 Is {{c|J1}}'s long slow development across thousands of years. The even
 And patient continuity of the {{p|Arabian}} peninsula's inhabitants, the bliss
 
@@ -125,13 +125,13 @@ And the star-guided navigation across unmarked sand—this is the {{c|J1}}
 Inheritance. When {{c|Muhammad}} arrives, late in the book, in the camel
 Caravan of the {{c|Quraysh}}, he will carry, in all likelihood, {{c|J1}}. The run
 
-From the {{c|Adnan}}-and-{{c|Qahtan}} genealogies of pre-Islamic {{p|Arabia}} back
+From the {{c|Adnan}}-and-{{c|Qahtan}} genealogies of pre-{{x|Islamic}} {{p|Arabia}} back
 To the deep {{c|J1}} founding populations will be one of the chapters later.
 
 And in the meantime, the {{c|J2}} civilization of the {{p|Near East}}, rack
 And ruin and rebuild across the centuries, will produce the tater
 
-And stock from which {{c|Abraham}} will emerge. {{c|Abraham}} is, in the Gaiad's
+And stock from which {{c|Abraham}} will emerge. {{c|Abraham}} is, in the {{x|Gaiad}}'s
 Reading, the ideal {{c|J}} figure—a man whose ancestry is plausibly both {{c|J1}}
 And {{c|J2}} (his cousin {{c|Hammurabi}} is king of {{p|Babylon}} with a {{c|J2}} stripe,
 And {{c|Abraham}}'s desert wanderings afterward put him in {{c|J1}} territory), the run

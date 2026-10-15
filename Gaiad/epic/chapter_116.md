@@ -45,7 +45,7 @@ Where resources fail without warning.
 In {{p|Australia}}—that drifting, curled
 And isolate continent, the morning
 
-Of the Cenozoic found {{c|Marsupios}}
+Of the {{x|Cenozoic}} found {{c|Marsupios}}
 Alone with {{c|Monotremos}}, and no placental
 Competition—and the marsupial's dose
 Of adaptive radiation was monumental:
@@ -74,9 +74,9 @@ In everything but ancestry, the visual
 Convergence almost perfect—striped back,
 Long jaws, the pack-hunter's lean
 And ranging body—on the track
-Of prey through the Tasmanian green
+Of prey through the {{p|Tasmanian}} green
 
-And the wider Australian bush, the thylacine
+And the wider {{p|Australian}} bush, the thylacine
 Proved that evolution's patterns repeat:
 The same problem—how to hunt, how to convene
 The pack, how to bring down fleet
@@ -91,9 +91,9 @@ Logic of the predator.
                          And {{c|Diprotodontos}}—
 The giant wombat, two tons of herbivore,
 The largest marsupial whose confronting
-Of the Pleistocene grasslands was the core
+Of the {{x|Pleistocene}} grasslands was the core
 
-Of the Australian megafauna's pride—
+Of the {{p|Australian}} megafauna's pride—
 He browsed the scrubland like a furry tank,
 With no predator large enough to override
 His bulk—and from his lineage's rank
@@ -105,7 +105,7 @@ In {{p|South America}} the marsupials kept
 A different vigil—for when the birth
 
 Of the land bridge at {{p|Panama}} connected
-North and South America at last,
+{{p|North}} and {{p|South America}} at last,
 The placental mammals were directed
 Southward, and the great interchange passed
 
@@ -138,4 +138,4 @@ Of evolution, patient and far-seeing,
 Will build from your body every form
 The world requires: wolf and lion,
 Mole and mouse, through every storm
-Of geological time—on your own Zion.
+Of geological time—on your own {{p|Zion}}.

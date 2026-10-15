@@ -5,19 +5,19 @@ The other direction. South. Southeast. Into the river
 Valleys of what is now {{p|China}}. Into the paddies. Into the stalked
 And stalking rice-fields of the {{p|Yangtze}} and {{p|Yellow River}} divider
 
-And basin. {{c|O}} is the East Asian haplogroup. {{c|O}} is the signature
+And basin. {{c|O}} is the {{p|East Asian}} haplogroup. {{c|O}} is the signature
 Of the peoples of {{p|China}}, {{p|Japan}}, {{p|Korea}}, {{p|Vietnam}}, {{p|Thailand}},
 {{p|Indonesia}}, {{p|the Philippines}}, {{p|Taiwan}}, and the furniture
-And arrangement of the entire Pacific rim of {{p|Asia}}. {{c|O}} is the band
+And arrangement of the entire {{p|Pacific}} rim of {{p|Asia}}. {{c|O}} is the band
 
 And frequency of nearly every population between the {{p|Himalayas}}
 And the {{p|Pacific Ocean}}. From the {{p|Gobi Desert}} to the {{p|Java Sea}},
 From the {{p|Yellow River}} to the {{p|Mekong Delta}}, the {{p|Y}}-chromosome frequencies
 Of {{c|O}} are extraordinarily high. The lineage is the majority fee
 
-And cost of admission to the East Asian population. The vast
-Proportion of men in {{p|China}} today, and in every East Asian
-And Southeast Asian and Pacific-island nation, carry {{c|O}}. Recast
+And cost of admission to the {{p|East Asian}} population. The vast
+Proportion of men in {{p|China}} today, and in every {{p|East Asian}}
+And {{p|Southeast Asian}} and {{p|Pacific}}-island nation, carry {{c|O}}. Recast
 And recast again through the generations, the carrying-on
 
 Of the lineage is unbroken. And what {{c|O}} made, in the river
@@ -37,11 +37,11 @@ And delicate water table. And rice produces, per acre, more demands
 Of food calories than any grain yet invented. Rice supports
 Populations ten, twenty, thirty times larger than dryland wheat
 Can support on the same acreage. Rice is the reason the cohorts
-And cohort-strength of East Asian civilizations grew to the treat
+And cohort-strength of {{p|East Asian}} civilizations grew to the treat
 
 And demography they grew to. Rice made possible the billions
 Of people who would, over thousands of years, populate the
-Pacific rim. And rice was invented by {{c|O}}. The millions
+{{p|Pacific}} rim. And rice was invented by {{c|O}}. The millions
 And billions of {{c|O}}-carrying farmers are the descendants of the
 
 First paddy-builders, the first peoples who realized that a patch
@@ -54,7 +54,7 @@ The archaeological sites that document the rice-farming
 Villages of the lower {{p|Yangtze}} six or seven thousand years ago bang
 The drum of the agricultural revolution that would be charming
 
-And reshaping Asian humanity for the rest of recorded history.
+And reshaping {{p|Asian}} humanity for the rest of recorded history.
 And from the {{p|Yangtze}}, rice agriculture spread. North, into the
 {{p|Yellow River}} valley, where it met and merged with millet and the
 Existing dryland agricultural package of the northern {{p|Chinese}}
@@ -74,7 +74,7 @@ And generated the {{c|Yayoi}} culture that would eventually unify the
                                                    And the language
 Families that ride along with {{c|O}} are several. {{c|O}} is not
 One language family. {{c|O}} is the carrier of several. The full gauge
-And span of East Asian linguistic diversity is housed within the bat
+And span of {{p|East Asian}} linguistic diversity is housed within the bat
 
 And bounce of the {{c|O}}-haplogroup population. {{p|Sino-Tibetan}}: {{p|Chinese}},
 {{p|Tibetan}}, {{p|Burmese}}, and the whole cluster of related languages across
@@ -89,17 +89,17 @@ Aboriginal languages, {{p|Malay}}, {{p|Indonesian}}, {{p|Tagalog}}, the entire
 {{p|China}}. {{p|Hmong-Mien}}: the highland peoples of {{p|Southwest China}}
 And {{p|Southeast Asia}}. Five major language families, all clustered
 Together in the {{c|O}}-haplogroup zone. The linguistic diversity is
-Greater than the linguistic diversity within the Indo-European trust
+Greater than the linguistic diversity within the {{p|Indo-European}} trust
 
 And family. {{c|R}}, in contrast, carries essentially one language
-Family (Indo-European) across its entire distribution. {{c|O}} carries
+Family ({{p|Indo-European}}) across its entire distribution. {{c|O}} carries
 Five. The language-to-haplogroup mapping, here, is decidedly
 Looser than in the {{c|R}} case. But the {{c|O}} haplogroup's carries
 
 And the agricultural package travel together. Rice, wherever it goes,
 Is carried by {{c|O}} men. And the script that would eventually
 Develop in the {{p|Yellow River}} valley—the {{p|oracle bone}} script of the
-Shang dynasty, which evolves into modern {{p|Chinese}} characters—
+{{p|Shang}} dynasty, which evolves into modern {{p|Chinese}} characters—
 
 Is the writing system of a {{c|O}}-haplogroup civilization. The
 Written {{p|Chinese}} tradition that reaches, unbroken, from
@@ -135,7 +135,7 @@ Men reached the furthest possible islands on their outrigger
 Canoes guided by the stars and the swell and the flight of birds.
 
                                                                    {{c|O}} is the
-Pacific lineage. {{c|O}} is the rice. {{c|O}} is the character-script and the navigator
+{{p|Pacific}} lineage. {{c|O}} is the rice. {{c|O}} is the character-script and the navigator
 And the paddy-builder and the longest literate continuity on earth.
 
 The {{p|Shang}} dynasty. The {{p|Zhou}}. The {{p|Qin}}. The {{p|Han}}. The {{p|Tang}}. The
@@ -159,10 +159,10 @@ And the rice still grows in the paddies, and the flow
 And flow of the {{p|Yangtze}} still passes the oldest strongest
 
 Cities of the world. {{c|O}}. The rice. The character. The navigator.
-The builder of the Pacific-rim civilization. The second great
+The builder of the {{p|Pacific}}-rim civilization. The second great
 Agricultural revolution after {{c|G}}'s. The carrier of five language
 Families and four thousand years of literacy. The state
 
 And status of more than a quarter of living humanity today.
 
-{{c|Haplogroup O}}. East Asia. Rice.
+{{c|Haplogroup O}}. {{p|East Asia}}. Rice.

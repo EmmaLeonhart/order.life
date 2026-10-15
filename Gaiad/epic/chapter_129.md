@@ -13,12 +13,12 @@ That preserved the bones and the track
 Of every creature's footprint in the flash
 
 Of volcanic eruption and erosion—
-Here, in the Pliocene's cooling world,
+Here, in the {{x|Pliocene}}'s cooling world,
 The grassland's ever-widening corrosion
 Of the forest's edge, the unfurled
 
 And open savanna stretching east
-To the Indian Ocean's coast—
+To the {{p|Indian Ocean}}'s coast—
 The upright ape emerged. The beast
 Who would become the host
 
@@ -58,7 +58,7 @@ The tool, the extraordinary
 
 Extension of the body's reach.
 
-{{c|Australos}} made tools—the Oldowan
+{{c|Australos}} made tools—the {{x|Oldowan}}
 Technology, the simplest that could teach
 The hand a new art: the wan
 

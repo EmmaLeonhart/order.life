@@ -46,9 +46,9 @@ And range:
 
                                        And the {{p|Central Asian}} steppe.
 
-{{p|Australia}} was settled, in the Gaiad's reading,
+{{p|Australia}} was settled, in the {{x|Gaiad}}'s reading,
 Approximately fifty thousand years ago. The feeding
-Migration came from {{p|Indonesia}}, across the Wallace
+Migration came from {{p|Indonesia}}, across the {{x|Wallace}}
 Line, which was, at the time, a much narrower palace
 
 Of open water than today. Sea levels were lower. The islands
@@ -81,11 +81,11 @@ The dreamings—fifty thousand years of patient causes
 
 And effects on the land and on the body and on the mind.
 
-And approximately sixty percent of {{c|Aboriginal}} Australian
+And approximately sixty percent of {{c|Aboriginal}} {{p|Australian}}
 Men carry {{c|C}}. {{c|C}} is the dominant patrilineal sign
 Of the continent's indigenous population. The alien
 
-And later European arrivals brought their own haplogroups.
+And later {{p|European}} arrivals brought their own haplogroups.
 But the {{c|C}} of {{p|Australia}}—the old {{c|C}}, the one that scoops
 
 And gathers up the oldest story on earth—is the marker
@@ -141,7 +141,7 @@ Produces something strange: a single name for two careers
 
 That are as divergent as any two can be.
 
-The Gaiad does not resolve the puzzle. The Gaiad lets the mystery
+The {{x|Gaiad}} does not resolve the puzzle. The {{x|Gaiad}} lets the mystery
 
 Of {{c|C}} stand. The chapter is not about a causal explanation—
 Not a catastrophe, as in {{c|D}}. Not a refugium-driven preservation.
@@ -198,7 +198,7 @@ And fitness of its lineage, its insistence on staying
 
 Of tracks across two continents, is the strangeness of this chapter.
 
-There is no catastrophe here. No Toba. No fracture
+There is no catastrophe here. No {{p|Toba}}. No fracture
 
 And refugium. Just a migration that went two ways, and a marker
 That didn't speciate, or didn't speciate as much as the starker
@@ -234,14 +234,14 @@ Build cities. They never, in the sense of the builders of the clever
 And fortified civilizations of {{p|Mesopotamia}} or {{p|China}} or {{p|Mesoamerica}},
 "Civilize." But they produce something else, something the hysteric
 
-And superficial European colonizers of the eighteenth and nineteenth
+And superficial {{p|European}} colonizers of the eighteenth and nineteenth
 Centuries could not see: a way of being human that had deep, profound
 
 Achievement in its own register. Fifty thousand years of song.
 Fifty thousand years of painting. Fifty thousand years of the long
 
-And patient reading of the land. The Gaiad will not rank them
-Below the city-builders. The Gaiad honors them as them.
+And patient reading of the land. The {{x|Gaiad}} will not rank them
+Below the city-builders. The {{x|Gaiad}} honors them as them.
 
 And the same {{c|Y}} signature, meanwhile, is being carried
 By the {{p|Mongol}} horseman whose empire will be vast and varied

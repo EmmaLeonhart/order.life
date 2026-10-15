@@ -1,6 +1,6 @@
 # Chapter 128: The Great Split
 
-In the late Miocene, {{p|Africa}} changed.
+In the late {{x|Miocene}}, {{p|Africa}} changed.
 
 The forests that had clothed the continent
 From coast to coast in the green and deranged
@@ -8,7 +8,7 @@ Abundance of the tropical experiment
 
 Began to shrink—the climate cooled,
 The rainfall lessened, and the eastern
-Rift Valley's tectonic uplift pooled
+{{p|Rift Valley}}'s tectonic uplift pooled
 A rain-shadow that worsened
 
 Year by year—the western slopes
@@ -51,11 +51,11 @@ And locally transmitted, different
 
 Tool traditions that are learned,
 Not inherited in the genes—
-The Taï Forest chimps have earned
+The {{p|Taï Forest}} chimps have earned
 The nut-cracking art, and the routines
 
-Of Gombe's chimps include the fishing-probe
-That Taï chimps have never learned—
+Of {{p|Gombe}}'s chimps include the fishing-probe
+That {{p|Taï}} chimps have never learned—
 The chimpanzee's cultural wardrobe
 Is the closest thing to what we've earned
 
@@ -120,7 +120,7 @@ Grassland with the first tentative steps
 Of the vertical primate.
 
 Honor the great split—the two
-Directions that the African ape attempts
+Directions that the {{p|African}} ape attempts
 And the two results: {{c|Panos}}, who
 
 Stayed in the forest and became the closest

@@ -52,7 +52,7 @@ When it didn't—the crocodile's liver
 
 Processed the nothing of the impact winter
 With the same indifference it processed
-The plenty of the Cretaceous—the splinter
+The plenty of the {{x|Cretaceous}}—the splinter
 Of {{c|Cruros}}' once-great house, the rest
 
 Had perished long ago, but the crocodile
@@ -81,7 +81,7 @@ The synapsid exile who had known those
 Hundred and eighty million years of wraps
 
 And smallness and the nighttime vigil—
-{{c|Mammos}} looked at the empty Paleocene
+{{c|Mammos}} looked at the empty {{x|Paleocene}}
 And saw what the burrowing and the frugal
 Nightlife had prepared him for: the clean
 
@@ -101,7 +101,7 @@ The promised land, emptied by catastrophe,
 Waiting for whoever had earned
 The right to fill it—and the biography
 
-Of the Cenozoic would be written
+Of the {{x|Cenozoic}} would be written
 By the mouse who stepped into the light
 And found it good—the world was smitten
 Open, and the morning after the night
@@ -117,5 +117,5 @@ They did not defeat the asteroid—
 They merely lived through it, and the seed
 Of every future world that was deployed
 
-From the Paleocene forward
+From the {{x|Paleocene}} forward
 Grew from the ash they walked upon that morning.

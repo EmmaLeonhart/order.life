@@ -3,7 +3,7 @@
 Now hear of {{c|Artiodactylos}}—the even-toed,
 The hoofed ones who inherited the grass.
 
-For in the Miocene the world bestowed
+For in the {{x|Miocene}} the world bestowed
 A gift that changed the mammals' looking-glass:
 
 The grasses spread—{{c|Gramineos}}, the humble
@@ -116,7 +116,7 @@ And ruminating presence.
                           Honor the grazers—
 {{c|Artiodactylos}} and his children, who turned
 The inedible grass into the praisers
-Of the Miocene's open world, and earned
+Of the {{x|Miocene}}'s open world, and earned
 
 The right to fill the largest biome
 On the planet—the grassland, the savanna,
@@ -124,4 +124,4 @@ The steppe, the prairie—every home
 Of the open ground was the manna
 
 Of the even-toed, the ruminant, the fleet
-And hoofed inheritors of the Cenozoic plain.
+And hoofed inheritors of the {{x|Cenozoic}} plain.

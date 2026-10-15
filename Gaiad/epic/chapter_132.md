@@ -128,10 +128,10 @@ Of the out-of-{{p|Africa}} event.
 Is its mythic bearer.
 
                       Not a historical man
-In the strict sense. The Gaiad does not show a
+In the strict sense. The {{x|Gaiad}} does not show a
 Wooden ark with lions and zebras and a plan
 
-For two of every kind. The Gaiad shows a boat,
+For two of every kind. The {{x|Gaiad}} shows a boat,
 A small boat, a survival boat, a family boat,
 With a few human passengers and the wrote
 And memorized knowledge of the prior host,
@@ -161,10 +161,10 @@ And memory of the biblical redactors, the launches
 
 Of the world's three great race-divisions—
 {{c|Semitic}}, {{c|Hamitic}}, {{c|Japhetic}}—would be grounded
-In these three. But the Gaiad knows the rescissions
+In these three. But the {{x|Gaiad}} knows the rescissions
 And problems of the old racial groupings. Not bound
 
-By the three-race frame, the Gaiad reads {{c|Shem}}
+By the three-race frame, the {{x|Gaiad}} reads {{c|Shem}}
 And his brothers as three branches of the {{c|CT}} clade,
 Which will in time become {{c|C}}, {{c|D}}, {{c|E}}, {{c|F}} and the stem
 And trunk of every non-{{p|African}} lineage that has stayed
@@ -235,7 +235,7 @@ Of the old country. The arrival in glory
 
 Or in exhaustion on the shore of the new land.
 
-The Gaiad honors the story by returning it
+The {{x|Gaiad}} honors the story by returning it
 To the thing it remembers. Not a global and grand
 Deluge. A local crossing. A small kit
 

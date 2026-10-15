@@ -11,7 +11,7 @@ In their burrows, the birds in their hidden nests,
 The crocodilians in the river's channels,
 The turtles in their shells—the guests
 
-Of the Mesozoic who had never been
+Of the {{x|Mesozoic}} who had never been
 The hosts, who had lived in the margins
 And the nighttime and the in-between
 Of the great ones' world—the bargains
@@ -26,7 +26,7 @@ Of {{c|Theraps}}, of {{c|Pelyon}}, of {{c|Synaps}},
 Of the great synapsid dynasty whose sigh knows
 The weight of a hundred and eighty million year lapse
 
-Between the Permian crown and this new day—
+Between the {{x|Permian}} crown and this new day—
 {{c|Mammos}} crept from his burrow in the gray
 And silent aftermath and looked away
 At a world that was entirely his.
@@ -85,10 +85,10 @@ Of {{c|Deinos}}' house, the final word
 
 Of the dinosaur that was never final:
 For the birds are dinosaurs, and the morning song
-Of the robin is the Mesozoic's spinal
+Of the robin is the {{x|Mesozoic}}'s spinal
 And continuing declaration: I belong
 
-To the lineage that walked the Cretaceous plain,
+To the lineage that walked the {{x|Cretaceous}} plain,
 And though the giants fell, I fly,
 And in my bones the hollow architecture's grain
 Of {{c|Archon}}'s house still reaches for the sky.
@@ -99,7 +99,7 @@ Brother's line—the ultimate reviver
 Of the archosaur's ancient welter—
 
 He survived as he had survived the end
-Of the Triassic: by being small, amphibious,
+Of the {{x|Triassic}}: by being small, amphibious,
 And cold-blooded enough to extend
 His fasting through the dark—the ambiguous
 
@@ -136,7 +136,7 @@ So the synapsids returned. The sun-warmed
 And milk-giving and furry, the unfurled
 
 And long-delayed inheritors of the earth—
-{{c|Mammos}} walked into the Paleocene's
+{{c|Mammos}} walked into the {{x|Paleocene}}'s
 Empty world and found it full of berth
 For everything the mammal's body means:
 
@@ -168,7 +168,7 @@ And understand.
                   But that is another age.
 
 For now, honor the mouse and the chicken—
-The two survivors of the Mesozoic's end,
+The two survivors of the {{x|Mesozoic}}'s end,
 The small and the humble and the stricken
 Who inherited the earth—and who will tend
 
@@ -177,7 +177,7 @@ The mammal from the burrow, the bird from the nest,
 The crocodile from the river, the tortoise without fear—
 The meek, the small, the patient, and the blessed.
 
-This is the Easter of the Mesozoic:
+This is the {{x|Easter}} of the {{x|Mesozoic}}:
 The death that is the door to the age of mind,
 The extinction that was not the final stoic
 Conclusion but the opening—and behind
@@ -188,6 +188,6 @@ That it was looking—and through the storm
 Of the cosmic visitor's leveling blow,
 
 The future of consciousness was born
-In the dust of the Mesozoic's last good night—
+In the dust of the {{x|Mesozoic}}'s last good night—
 And morning came, and the world was torn
 And silent—and the mouse stepped into the light.

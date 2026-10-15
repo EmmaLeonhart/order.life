@@ -5,7 +5,7 @@ The ones who kept the oldest ways,
 Who never left the ancient building
 Of the egg behind, who spent their days
 
-In the manner of the Mesozoic still:
+In the manner of the {{x|Mesozoic}} still:
 Laying eggs, sweating milk from patches
 On the belly's skin, the ancient fill
 Of maternal care that predates the latches
@@ -44,7 +44,7 @@ Of the southern ocean knew their chorused
 And quiet presence—egg-laying mammals
 In a warm and forested {{p|Antarctica}},
 A memory that only the enamel
-Of ancient teeth and a scattered Antartica
+Of ancient teeth and a scattered {{p|Antartica}}
 
 Fossil record preserves.
 
@@ -55,8 +55,8 @@ Of isolation—and from that point forth
 
 The monotremes were locked in the southern cage
 Of a drifting continent, alone
-With the marsupials—and the Cenozoic age
-Of the Northern Hemisphere was the unknown
+With the marsupials—and the {{x|Cenozoic}} age
+Of the {{p|Northern Hemisphere}} was the unknown
 
 And foreign country whose placental lords
 Would never reach them.
@@ -84,7 +84,7 @@ And living map of everything that moves.
 
 He lays eggs—the mother curls around them
 In the burrow by the riverbank, and proves
-That the Mesozoic's way can still astound them
+That the {{x|Mesozoic}}'s way can still astound them
 
 Who thought the egg was left behind:
 The milk sweats from patches on the belly,
@@ -95,7 +95,7 @@ Of maternal care in its most ancient form.
 
 And {{c|Echidos}}—the echidna, the spiny
 Ant-eater, who weathered every storm
-Of the Australian interior, the tiny
+Of the {{p|Australian}} interior, the tiny
 
 And efficient tongue that probes the termite
 Mound with the patience of a saint,

@@ -18,7 +18,7 @@ A word, a story, a name—the long parade
 
 Of symbols that outlasted the mouth that spoke.
 And somewhere in this long unfolding, somewhere
-In the Pleistocene's slow and measured stroke,
+In the {{x|Pleistocene}}'s slow and measured stroke,
 There walked a man.
 
                     One man. Not a rare

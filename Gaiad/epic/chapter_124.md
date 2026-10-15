@@ -15,7 +15,7 @@ Of the coming mind.
 
                      It began in the trees.
 
-The Paleocene's forests grew tall and warm
+The {{x|Paleocene}}'s forests grew tall and warm
 And canopy-closed—and the expertise
 Of living in the trees required a form
 
@@ -91,7 +91,7 @@ Song across the forest—the coastal
 Island that became the living museum
 Of what the primate was before the monkey came.
 
-{{c|Tarsios}}—the big-eyed one—the Te Deum
+{{c|Tarsios}}—the big-eyed one—the {{x|Te Deum}}
 Of the nocturnal hunter, the frame
 
 Of a tiny primate whose enormous eyes
@@ -117,12 +117,12 @@ To something new—but the asocial
 And ancient tarsier kept the vigil
 Of the early primate's way.
 
-And {{c|Aegyptopithos}}—the Egyptian fossil
+And {{c|Aegyptopithos}}—the {{p|Egyptian}} fossil
 Who announced the dawn of the anthropoid day:
 
 The first true higher primate, the bridge
 Between the prosimian and the monkey,
-Found in the Fayum Depression's ridge
+Found in the {{p|Fayum Depression}}'s ridge
 In {{p|Africa}}—the chunky
 
 And small-brained ancestor of everything

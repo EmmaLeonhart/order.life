@@ -8,11 +8,11 @@ Of temperate forest, the chimera
 Of {{c|Boreos}}' radiation was the greatest
 Mammalian explosion the world had seen:
 More orders, more families, the latest
-And most overwhelming act of the Cenozoic scene.
+And most overwhelming act of the {{x|Cenozoic}} scene.
 
 For {{c|Boreos}} had what {{c|Afrotheros}} and {{c|Xenarthros}} lacked:
 Connected continents—the land bridge at {{p|Beringia}}
-Let the Asian and American mammals act
+Let the {{p|Asian}} and {{p|American}} mammals act
 As one enormous gene pool—the criteria
 
 For speciation met a continent-sized
@@ -31,7 +31,7 @@ The tree shrews, the flying lemurs—all
 Descended from a tree-dweller whose habits
 Of grasping and of climbing the tall
 
-Canopy of the Paleocene's forests
+Canopy of the {{x|Paleocene}}'s forests
 Became the primate's inheritance—
 But that is a tale for later choruses;
 For now, the other branch's dance.
@@ -81,7 +81,7 @@ And unseen hunter of the insect world.
 
 The ungulates—the hoofed ones—rose
 From {{c|Laurasios}}' line as the world unfurled
-Its grasslands in the Miocene's prose
+Its grasslands in the {{x|Miocene}}'s prose
 
 Of cooling and of drying—and the hoof
 Was the grassland's answer to the claw:

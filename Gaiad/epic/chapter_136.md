@@ -37,7 +37,7 @@ In {{p|Europe}}. {{c|G}} is the founder of the stratigraphy structure
 Of the farmer villages of the {{p|Balkans}} and the knave
 
 And valleys of {{p|Greece}} and {{p|Italy}}. {{c|G}} is in the bones
-Of {{p|Ötzi}} the Iceman, the five-thousand-three-hundred-year-old
+Of {{p|Ötzi}} the {{c|Iceman}}, the five-thousand-three-hundred-year-old
 Frozen body in the {{p|Alps}}, whose {{p|Y}}-chromosome tones
 Us about the fact that the farmer of the late stone cold
 
@@ -78,7 +78,7 @@ Came together, from across the region, to build something together, whatever it 
 
 And because they needed to come together, repeatedly, for the building,
 They needed food. And to feed the building crews, they needed
-To grow grain. And so, in the Gaiad's reading (following the filling-
+To grow grain. And so, in the {{x|Gaiad}}'s reading (following the filling-
 In of {{c|Klaus Schmidt}}'s archaeological hypothesis), agriculture was seeded
 
 By the temple, not by necessity, not by the pressure of hunger
@@ -94,11 +94,11 @@ And furrow of the fields, and the fields made the immanence
 Of civilization.
 
                   First the temple. Then the city. Then the kingdom.
-Religion first. Farming second. Cities third. This is the Gaiad's reading,
+Religion first. Farming second. Cities third. This is the {{x|Gaiad}}'s reading,
 And it reverses the standard textbook account that makes the pragmatic
 Emergence of agriculture the first cause, and religion a later seeding.
 
-The Gaiad says: no. Religion was first. People gathered to build
+The {{x|Gaiad}} says: no. Religion was first. People gathered to build
 Something they worshipped. And in the service of what they worshipped,
 They invented the techniques of keeping themselves fed. The filled
 And gathered gatherings of the temple-building made civilization, the scripted
@@ -126,7 +126,7 @@ And heirs of the old {{p|Göbekli Tepe}} lineage. The old temple-builders, the p
 
 And priesthood of the first great religious-monumental culture
 Of the {{p|Near East}}, are carried in the bodies of the {{p|Sardinian}} shepherds
-Still. {{c|G}} is alive. {{c|G}} built what the Gaiad considers the sculpture
+Still. {{c|G}} is alive. {{c|G}} built what the {{x|Gaiad}} considers the sculpture
 And foundational monument of civilization, and {{c|G}}'s direct descendants, the herds
 
 And shepherds of certain {{p|Mediterranean}} islands, continue to walk the hills
@@ -137,27 +137,27 @@ Of their grandfathers.
 {{c|Melchizedek}}. The {{p|priest}}-king of {{p|Salem}}, who greets {{c|Abraham}} later in
 The biblical story. The mysterious figure who appears briefly, blesses
 {{c|Abraham}}, receives a tithe, and disappears. In the standard reading
-He is a shadow, a narrative convenience. The Gaiad reads him differently.
+He is a shadow, a narrative convenience. The {{x|Gaiad}} reads him differently.
 
-{{c|Melchizedek}} is the Gaiad's symbolic representative of the {{p|Göbekli Tepe}}
+{{c|Melchizedek}} is the {{x|Gaiad}}'s symbolic representative of the {{p|Göbekli Tepe}}
 Priesthood. The remnant of the old temple-builders, still alive in {{c|Abraham}}'s
 Day, meeting the wandering {{c|Abraham}} on his journey south from {{p|Sanliurfa}}
 (Which is, by no coincidence, the city closest to {{p|Göbekli Tepe}} itself). {{c|Abraham}}
 
 Stops in {{p|Sanliurfa}} on his way from {{p|Ur}} to the {{p|Levant}}, and he meets
-{{c|Melchizedek}} there. And {{c|Melchizedek}}, in the Gaiad's reading, is the last
+{{c|Melchizedek}} there. And {{c|Melchizedek}}, in the {{x|Gaiad}}'s reading, is the last
 Priest of the old order of {{p|Göbekli Tepe}}. The old tall pillars had been
 Buried long before {{c|Abraham}}'s day—the site was deliberately entombed, the past
 
 Preserved by burying rather than by maintaining. But the priesthood, the
 Line of those who carried the old ritual knowledge, persisted in the region.
-{{c|Melchizedek}} is "George Gobeklius" in the Gaiad's nicknaming—the
+{{c|Melchizedek}} is "{{c|George Gobeklius}}" in the {{x|Gaiad}}'s nicknaming—the
 Priestly figure descended from the hands that carved the T-shaped fusion
 
 Of stone and animal eleven thousand years ago. {{c|Abraham}} meets him, receives
 The blessing of the old priesthood, pays the tithe, and moves on. The
 Transmission of some blessing from the old {{p|Göbekli Tepe}} order to the leaves
-And branches of the new {{p|Hebrew}} story is the Gaiad's quiet way of letting the
+And branches of the new {{p|Hebrew}} story is the {{x|Gaiad}}'s quiet way of letting the
 
 Oldest religious lineage of the region hand off to the next one.
 
@@ -190,7 +190,7 @@ And transformative arrival of the farmers.
                                              And this incidental
 
 Fact—that civilization began with a temple, not with a field—
-Is the Gaiad's quiet theological claim. The field served the temple.
+Is the {{x|Gaiad}}'s quiet theological claim. The field served the temple.
 The god came first. The grain came afterward. The yield
 And harvest that would feed cities began as an offering of the simple
 

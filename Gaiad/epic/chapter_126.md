@@ -13,7 +13,7 @@ Of the monkey world—and the apes, the few
 
 And tailless ones whose chapter comes hereafter.
 
-{{c|Cercopithecos}}—the Old World monkeys—
+{{c|Cercopithecos}}—the {{p|Old World}} monkeys—
 Were the most successful, and the rafter
 Of their house was built on the keys
 
@@ -31,8 +31,8 @@ Of success built on the ordinary.
 
 This was the revolution: the ground.
 
-For the Miocene's drying squeezed the frieze
-Of the African forest into smaller ground,
+For the {{x|Miocene}}'s drying squeezed the frieze
+Of the {{p|African}} forest into smaller ground,
 
 And the savanna opened—the woodland shrank,
 And the baboon, too large and too social
@@ -82,12 +82,12 @@ Of the macaque's expansion, the attica
 
 Of the monkey world: the snow monkey
 Bathing in the hot springs of {{p|Japan}},
-The Barbary macaque's funky
-And European remnant, the clan
+The {{x|Barbary}} macaque's funky
+And {{p|European}} remnant, the clan
 
 Of the rhesus monkey whose blood
 Would give the human medical science
-Its Rh factor—the flood
+Its {{x|Rh}} factor—the flood
 Of the macaque's alliance
 
 With human curiosity and research

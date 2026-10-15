@@ -2,7 +2,7 @@
 
 The morning after dying is always gray.
 
-The early Jurassic looked like the early Triassic
+The early {{x|Jurassic}} looked like the early {{x|Triassic}}
 Had looked: bare ground, diminished green, the way
 Of all post-extinction worlds—the classic
 
@@ -27,12 +27,12 @@ Where they had never dared before.
 
                                     {{c|Theros}}—
 The beast-footed, the meat-eaters of the line—
-Walked into the Jurassic's open doors
+Walked into the {{x|Jurassic}}'s open doors
 And found no rauisuchian at the sign
 
 Of every river-crossing, no phytosaur
 Guarding every waterway—the predator's
-Throne was empty, and the Jurassic floor
+Throne was empty, and the {{x|Jurassic}} floor
 Was {{c|Theros}}' to claim, these inheritors
 
 Of {{c|Deinos}}' upland hunger, now released
@@ -41,21 +41,21 @@ Into the richest territories on earth.
 And {{c|Sauropos}}—who had been the least
 Impressive of the prosauropod birth,
 
-Small, bipedal, modest in the Triassic—
+Small, bipedal, modest in the {{x|Triassic}}—
 Began to grow. And grow. And grow again.
 For the lowland forests offered the gymnastic
 And gymnosperm feast of {{c|Conifera}}'s regained
 
-Domain: the great conifer forests of the Jurassic,
+Domain: the great conifer forests of the {{x|Jurassic}},
 Where the trees grew tall and the canopy
-Stretched higher than any Triassic fantastic
+Stretched higher than any {{x|Triassic}} fantastic
 Had dreamed—and to reach that green canopy,
 
 {{c|Sauropos}} stretched his neck.
 
                                   This is the age
 That the world remembers as the time of giants—
-The Jurassic was the grandest stage
+The {{x|Jurassic}} was the grandest stage
 The earth had set for life, and the defiance
 
 Of gravity itself was {{c|Sauropos}}' art:
@@ -70,7 +70,7 @@ Were solved by {{c|Sauropos}}—who would not check
 
 His growth until the forests themselves were grazed
 From the top down, like an elephant
-Of impossible scale, and the Jurassic blazed
+Of impossible scale, and the {{x|Jurassic}} blazed
 With the thunder of his walking—the constant
 
 Drumbeat of the largest feet on earth
@@ -81,7 +81,7 @@ In the undergrowth: smaller, with the adept
 
 And beaked mouths for cropping ferns and low
 Vegetation—the ornithischians would build
-Their own diversity in the Jurassic's slow
+Their own diversity in the {{x|Jurassic}}'s slow
 And generous expansion, and they filled
 
 The herbivore niches that the sauropods
@@ -91,7 +91,7 @@ Where {{c|Sauropos}} ate the treetops, against all odds,
 
 Of fallen leaves and trampled forest floor.
 
-The Jurassic dawn was not a single morning
+The {{x|Jurassic}} dawn was not a single morning
 But ten million years of opening door
 After door after door—each niche adorning
 
@@ -109,7 +109,7 @@ As the plesiosaurs—but that is the next chapter's
 Gift to tell.
 
                  For now, honor the dawn:
-The gray-green morning of the Jurassic, after
+The gray-green morning of the {{x|Jurassic}}, after
 The night of the second dying—the lawn
 
 Of life regrown on the bones of the dead,

@@ -3,7 +3,7 @@
 Now hear the song of {{c|Neornis}}, the crown bird,
 {{c|Deinos}}' last surviving heir—
 The feathered dinosaur whose word
-Of morning filled the Paleocene air
+Of morning filled the {{x|Paleocene}} air
 
 With the first music of the new world.
 
@@ -11,13 +11,13 @@ For {{c|Neornis}} was {{c|Deinos}}' child—remember this:
 Every bird that sings is a dinosaur, furled
 In feathers, and the morning's kiss
 
-Of birdsong is the Mesozoic's voice
+Of birdsong is the {{x|Mesozoic}}'s voice
 Continuing—the theropod line
 That did not end but made the choice
 Of wings and seed and the design
 
-Of flight perfected over the Cretaceous sky
-Now flew into the empty Cenozoic
+Of flight perfected over the {{x|Cretaceous}} sky
+Now flew into the empty {{x|Cenozoic}}
 And filled it—everywhere the eye
 Could see, the avian and heroic
 
@@ -41,7 +41,7 @@ That evolution drew from a single body plan.
 
 {{c|Gastornis}} was among the first to claim
 The empty throne of the theropod—this began
-In the Paleocene's forests, where the name
+In the {{x|Paleocene}}'s forests, where the name
 
 Of terror bird was earned: a flightless giant
 Standing two meters tall, with a beak
@@ -51,7 +51,7 @@ And enormous predator, the peak
 Of what a bird becomes when there is no
 Competing mammal large enough to challenge
 The ground—{{c|Gastornis}} ruled the show
-Of the early Paleocene, the balance
+Of the early {{x|Paleocene}}, the balance
 
 Of power still uncertain, the crown
 Of apex predator still unclaimed
@@ -67,7 +67,7 @@ Of diversity that the compliant
 And flexible body plan allowed.
 
 {{c|Passeros}}—the songbirds—radiated
-In the Eocene like an exploding cloud
+In the {{x|Eocene}} like an exploding cloud
 Of melody: the oscines created
 
 The syrinx's double-chambered instrument
@@ -137,7 +137,7 @@ Who sings, who dives, who wades, who runs—
 The theropod whose feathered guise
 Outlasted all of {{c|Deinos}}' other sons
 
-And carries the Mesozoic forward
+And carries the {{x|Mesozoic}} forward
 In every dawn chorus, every migration,
 Every egg in every nest—the skyward
 Continuation of the oldest nation

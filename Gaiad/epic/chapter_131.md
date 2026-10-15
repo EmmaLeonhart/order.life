@@ -83,7 +83,7 @@ By the centuries of retelling. Some season
 
 Of jealousy, some insult, some blurred
 Dispute over offerings—over which of the two
-Presented a gift that pleased the divine Lord
+Presented a gift that pleased the divine {{c|Lord}}
 More—and the elder brother did what brothers do
 
 When brothers want to silence brothers. In the hour
@@ -94,7 +94,7 @@ Of the first blood fell on the soil. The crown
 Of the first-born became the sign of the coil
 Of violence that human history would not escape.
 
-And this is where the Gaiad's telling turns.
+And this is where the {{x|Gaiad}}'s telling turns.
 
 For in the standard text, {{c|Abel}} dies in the shape
 Of the childless martyr—his name returns
@@ -109,15 +109,15 @@ And his metallurgists and his musicians—the line
 Of {{c|Cain}} in the biblical account, the waters
 That were supposed to carry the humankind's sign.
 
-But the Gaiad reads it otherwise.
+But the {{x|Gaiad}} reads it otherwise.
 
                                     For in
-The Gaiad's telling, the murderer's line goes out.
+The {{x|Gaiad}}'s telling, the murderer's line goes out.
 {{c|Cain}} is marked, yes. {{c|Cain}} wanders. The din
 Of his cities is loud but short. The shout
 
 And murmur of {{c|Cain}}'s descendants does not last.
-His line, in the Gaiad's reading, is a draw—
+His line, in the {{x|Gaiad}}'s reading, is a draw—
 An unclaimed round, a placeholder in the cast,
 A character who occupies the raw
 
@@ -145,7 +145,7 @@ Of his descendants, overtakes the killer's, by the same
 Arithmetic that drove the prior chapter—
 
 Because the killer's line, in the long run,
-Was hollow from the start. The Gaiad's answer
+Was hollow from the start. The {{x|Gaiad}}'s answer
 To the scriptural frame that has the {{c|Cainite}} son
 Build civilization is: not so. The cancer
 
@@ -157,7 +157,7 @@ Upon the future's neck. They pay the price
 Of being the murderer's branch: they are pruned.
 
 And what {{c|Abel}} fathered, before the killing—
-Or what was framed in the Gaiad as fathered, the tuned
+Or what was framed in the {{x|Gaiad}} as fathered, the tuned
 And post-hoc chronicle of the grieving, filling
 
 In the gaps of the premature death with a line
@@ -165,7 +165,7 @@ Of sons and grandsons, a whole branch of descendants
 Who became, in the mythic register's sign,
 The ancestors of one whole line of the pendants
 
-And pendants of the tree—becomes, in the Gaiad,
+And pendants of the tree—becomes, in the {{x|Gaiad}},
 {{c|Haplogroup B}}.
 
                     The deep {{p|African}} line
@@ -184,7 +184,7 @@ Was never measured by distance, the never-translating
 
 Of its {{p|Y}} into any foreign tongue.
 {{c|B}} remains in {{p|Africa}}. {{c|B}} is there now.
-The line of {{c|Abel}}, in the Gaiad's hung
+The line of {{c|Abel}}, in the {{x|Gaiad}}'s hung
 And counter-standard reading, is the brow
 
 And forehead of the {{p|African}} continuity.

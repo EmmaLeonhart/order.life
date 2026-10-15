@@ -27,7 +27,7 @@ A white-hot column of ejecta rising
 From the planet's wound, a luminous crown
 Of debris beyond any theorizing
 
-That the Cretaceous world could have imagined.
+That the {{x|Cretaceous}} world could have imagined.
 
 The shock wave traveled through the earth
 At the speed of sound in stone—the imagined
@@ -44,8 +44,8 @@ Through every rock and every mantle layer.
 The tsunami followed: waves as rated
 By the models at three hundred meters—a prayer
 
-Of water that swept across the Gulf
-And the Atlantic's western shore—the engulf
+Of water that swept across the {{p|Gulf}}
+And the {{p|Atlantic}}'s western shore—the engulf
 Of every coastal ecosystem, the gulf
 Between the living and the dead—the wolf
 
@@ -116,7 +116,7 @@ In the dark and starving sea.
                               {{c|Plesios}}—
 The patient plesiosaur, who had swum
 For a hundred and thirty million years—the flows
-Of the Mesozoic ocean gave her no welcome
+Of the {{x|Mesozoic}} ocean gave her no welcome
 
 In the impact winter's starving dark.
 
@@ -127,7 +127,7 @@ Of thermal to ride, no fish, no protein
 In the poisoned and the darkened world.
 
 The ammonites, who had sailed the ocean
-Since the Devonian—their shells were hurled
+Since the {{x|Devonian}}—their shells were hurled
 To the sediment floor, the final motion
 
 Of a lineage four hundred million years old.
@@ -138,8 +138,8 @@ Into the fossil record's certified
 
 And permanent account of the destroyed.
 
-This is Good Mesozoic Friday:
-The death of the Mesozoic world, the void
+This is {{x|Good Mesozoic Friday}}:
+The death of the {{x|Mesozoic}} world, the void
 That the asteroid opened in the midday
 
 Of the planet's greatest complexity—
@@ -164,7 +164,7 @@ Of a world that ends in aerodynamics
 
 And the physics of the unintended.
 
-Let us mourn the Mesozoic dead—
+Let us mourn the {{x|Mesozoic}} dead—
 For the dying was not earned or recommended
 But only the falling of the stone, and the thread
 

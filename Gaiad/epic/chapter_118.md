@@ -6,7 +6,7 @@ That no other continent would see
 Until the land bridges broke the norms
 
 Of isolation—and the strangest thing
-About the African radiation was this:
+About the {{p|African}} radiation was this:
 The elephant and the hyrax and the swimming
 Manatee are cousins—the analysis
 
@@ -77,7 +77,7 @@ Of the elephant's communication zone
 Extended far beyond the range of air.
 
 And {{c|Hyracos}}—the hyrax, small as a rabbit,
-Sitting on the rocks in the African glare,
+Sitting on the rocks in the {{p|African}} glare,
 Looking nothing like an elephant's habit
 
 Of enormity—and yet the teeth,
@@ -103,7 +103,7 @@ That the elephant applies to the broader
 Territory of the savanna's story—
 
 The sirenian is the elephant gone to sea,
-The same African stock adapted
+The same {{p|African}} stock adapted
 To the coastal water's warm decree
 Of tropical abundance, the rapt
 
@@ -125,7 +125,7 @@ Is measured in the steadiness of heroes
 
 Who need no company to persist.
 
-Honor {{c|Afrotheros}}—the African mother
+Honor {{c|Afrotheros}}—the {{p|African}} mother
 Whose children prove that the specialist
 And the generalist, the one and the other,
 
@@ -134,8 +134,8 @@ Vast intelligence, the hyrax's modest stone,
 The manatee's gentle elegance,
 The aardvark's kingdom of one—all grown
 
-From the same African isolation,
-The same Cenozoic island of the south,
+From the same {{p|African}} isolation,
+The same {{x|Cenozoic}} island of the south,
 The same continental meditation
 On what the mammal's body, hands, and mouth
 

@@ -6,7 +6,7 @@ Long before any wing had caught the air,
 The theropod's body dressed itself in light
 And filamentous down—a coat to wear
 
-Against the Jurassic nights, when even
+Against the {{x|Jurassic}} nights, when even
 The warm-blooded archosaur needed more
 Than the bare scale to hold the metabolic leaven
 Of heat inside—the feather was the door
@@ -45,7 +45,7 @@ Of every generation's contribution
 To the arms race of display.
 
                               And then—
-In the late Jurassic's limestone lagoons,
+In the late {{x|Jurassic}}'s limestone lagoons,
 Where the {{p|Tethys}}' tropical waters bred their den
 Of island archipelagoes—the monsoons
 
@@ -64,7 +64,7 @@ Of every dinosaur's anatomy, the strong
 And hollow bone—but on his arms, the feathers
 Were long and asymmetric, the vanes
 Arranged for the physics of flight—the weathers
-Of the Jurassic air across the planes
+Of the {{x|Jurassic}} air across the planes
 
 Of his wings were functional, not merely show:
 {{c|Archaeos}} could fly, or glide, or something
@@ -81,7 +81,7 @@ A dinosaur becoming a bird.
 
                                    He was not
 The first to fly—{{c|Pteros}} ruled the aviation
-Of the Jurassic sky—but {{c|Archaeos}} brought
+Of the {{x|Jurassic}} sky—but {{c|Archaeos}} brought
 
 A different wing: not the membrane-kite
 Of the pterosaur's finger-skin, but the feather-fan,
@@ -111,7 +111,7 @@ Of fused vertebrae would one day show—
 
 But he was the proof of concept, the first flight
 Of the feathered wing, the dinosaur who dared
-To test the Jurassic air and found the height
+To test the {{x|Jurassic}} air and found the height
 Rewarding—and the lineage he prepared
 
 Would become the most successful dinosaurs
@@ -122,7 +122,7 @@ Of every morning with their living will—
 The only dinosaurs that lived to sing.
 
 Honor {{c|Archaeos}}—half-dinosaur, half-bird,
-Caught in the stone of the Jurassic's offering
+Caught in the stone of the {{x|Jurassic}}'s offering
 With wings outstretched—the first and final word
 
 Of a transformation still in flight:

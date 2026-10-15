@@ -2,7 +2,7 @@
 
 From {{c|Laurasios}}' line the hunters came—
 {{c|Carnos}}, the flesh-eater, whose ancient art
-Of predation built the Cenozoic's frame
+Of predation built the {{x|Cenozoic}}'s frame
 Of ecological balance from the start.
 
 For every great grassland herd requires
@@ -72,7 +72,7 @@ The canine elongated to a dagger's
 Length, a stabbing sword of bone
 That pierced the thick-skinned staggerers
 
-Of the Pleistocene—the mammoth and the ground sloth
+Of the {{x|Pleistocene}}—the mammoth and the ground sloth
 And the bison whose hides were so thick
 That no ordinary bite could go through both
 The skin and the muscle—the trick
@@ -116,7 +116,7 @@ Of concentrated wrath
 In the smallest possible package.
 
 Honor {{c|Carnos}}—the hunter, the sculptor
-Of the Cenozoic's ecological passage,
+Of the {{x|Cenozoic}}'s ecological passage,
 The predator whose art is the vulture's
 
 And the wolf's and the lion's and the seal's:

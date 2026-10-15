@@ -1,6 +1,6 @@
 # Chapter 108: The Peak of Life
 
-The late Cretaceous was the fullest world
+The late {{x|Cretaceous}} was the fullest world
 That life had ever made.
 
                          From pole to pole
@@ -14,14 +14,14 @@ The world was warm, the world was entire
 
 In its coverage of life from the abyss
 Of the ocean's deepest trench to the highest
-Mountain that the Cretaceous tectonic bliss
+Mountain that the {{x|Cretaceous}} tectonic bliss
 Of activity could raise—the slightest
 
 Corner of the planet held its life.
 
 In the sea: {{c|Mosas}} ruled the shallows,
 His serpentine bulk the greatest knife
-That the Cretaceous marine world allows
+That the {{x|Cretaceous}} marine world allows
 
 For cutting through the ocean's living wealth—
 And {{c|Plesios}} still dove with her four flippers
@@ -34,7 +34,7 @@ In their chambered shells, the ancient peers
 Of {{c|Coleios}}' cuttlefish—the solemn
 
 And beautiful geometry of the chambered nautilus
-Still sailing, as it had since the Ordovician sea—
+Still sailing, as it had since the {{x|Ordovician}} sea—
 And the teleosts, {{c|Teleosteos}}' fabulous
 And overwhelming diversity,
 
@@ -46,7 +46,7 @@ And son of {{c|Actinus}}' ancient bone.
 On land: {{c|Tyrannos}} stalked his kingdom
 And {{c|Ceratops}} bore his horns against the king—
 {{c|Hadros}} called across the freedom
-Of the Cretaceous plain, and the spring
+Of the {{x|Cretaceous}} plain, and the spring
 
 Of every year brought the ornithischian herds
 In their annual migrations, millions strong,
@@ -55,7 +55,7 @@ Of {{c|Archaeos}}' lineage sang their song
 
 In the canopy, already diversified
 Into waterbirds and shorebirds and the small
-And toothed Cretaceous forms that occupied
+And toothed {{x|Cretaceous}} forms that occupied
 The niches that the pterosaurs could not fill—all
 
 The understory and the forest interior
@@ -71,14 +71,14 @@ In the undergrowth, {{c|Mammos}} kept his small
 And quiet vigil—the nighttime prayers
 
 Of the mammalian line continuing their watch
-Through the Cretaceous as through the Jurassic
-And the Triassic before: the notch
+Through the {{x|Cretaceous}} as through the {{x|Jurassic}}
+And the {{x|Triassic}} before: the notch
 Of smallness, the nocturnal and gymnastic
 
 Survival of the warm-blooded and the furred
 In the shadow of the cold-blooded giants—
 But by now the mammals had diversified: the word
-Of the Cretaceous mammal was defiance
+Of the {{x|Cretaceous}} mammal was defiance
 
 In miniature—multituberculates with their
 Rodent-like teeth, the metatherians
@@ -96,26 +96,26 @@ Of {{c|Angios}} was the soundtrack of the age:
 Bees and wasps and butterflies, the hours
 Of pollination filling every page
 
-Of the Cretaceous day with the hum
+Of the {{x|Cretaceous}} day with the hum
 Of the partnership between the plant and wing.
 
 This was the peak. This was the sum
-Of the Mesozoic's offering:
+Of the {{x|Mesozoic}}'s offering:
 
 A world more full of life than it had been
-Before the Permian's Great Dying—more diverse,
+Before the {{x|Permian}}'s {{x|Great Dying}}—more diverse,
 More complex, more intricately between
 The predator and prey, the universe
 
 Of ecological interaction reaching depths
-Of sophistication that the Paleozoic
+Of sophistication that the {{x|Paleozoic}}
 Had never known—and in these depths
-The Mesozoic wrote its most heroic
+The {{x|Mesozoic}} wrote its most heroic
 
 And beautiful chapters: the world at its most alive,
 The planet at its greenest and most full,
 Every niche occupied by whatever could thrive
-In the Cretaceous greenhouse's generous pull.
+In the {{x|Cretaceous}} greenhouse's generous pull.
 
 Honor the peak—the moment when the world
 Was most itself, most full, most densely woven
@@ -123,7 +123,7 @@ With the living—every flag unfurled,
 Every niche occupied, every kingdom cloven
 
 To its finest divisions—the pinnacle
-Of the Mesozoic's hundred-and-eighty-million years
+Of the {{x|Mesozoic}}'s hundred-and-eighty-million years
 Of building—the invincible
 And the beautiful, the joys and the fears
 

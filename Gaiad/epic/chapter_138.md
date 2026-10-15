@@ -6,7 +6,7 @@ But because their civilizational anchor is the same, and is, crucially,
 Illegible. The {{p|Indus Valley}} civilization. The caught
 
 And undeciphered second-greatest urban culture of the
-Bronze Age. The one whose writing we cannot read.
+{{p|Bronze Age}}. The one whose writing we cannot read.
 
 {{p|Harappa}}. {{p|Mohenjo-daro}}. {{p|Dholavira}}. {{p|Rakhigarhi}}. The rove
 And spread of the cities of the {{p|Indus}} and the {{p|Saraswati}} and the needed
@@ -157,7 +157,7 @@ The incoming {{p|Aryans}} and the receiving older populations. The merging was n
 A conquest—it was a long negotiation, and the {{p|Dravidian}} and {{p|Aryan}} strands ofv
 Sound
 
-And blood did not fight an eternal war. The Gaiad is explicit: the older populations
+And blood did not fight an eternal war. The {{x|Gaiad}} is explicit: the older populations
 Were not erased. They stayed. They mixed. They contributed. The modern {{p|Indian}}
 Is the descendant of both—the {{p|Indus}} Valley peoples and the later {{p|Aryan}}
 Arrivals. The two populations made a compromise. The compromise is {{p|India}}.
@@ -187,7 +187,7 @@ Of its interior life. The poems. The myths. The law. The fundamental
 Stories that the people told themselves. We have their cities but not
 Their songs.
 
-              And the Gaiad's honest response to this is: yes, the civilization
+              And the {{x|Gaiad}}'s honest response to this is: yes, the civilization
 Is illegible. Yes, we cannot reconstruct it. Yes, what we have is insufficient to know
 What they believed. And yet we include them in the story of humanity, because they were there, and the nation
 
@@ -196,7 +196,7 @@ At its peak, contributed to the subsequent population of the {{p|Indian}} subcon
 Not vanish. They are in the {{p|Y}}. They are in the mitochondria. They are in the {{p|Dravidian}} languages
 They plausibly spoke. They are, in some attenuated form, in the {{p|Hindu}} religion—the {{c|Shiva}}
 
-Lingam may have {{p|Indus}} origins. The Pashupati seal from {{p|Mohenjo-daro}} shows a figure
+Lingam may have {{p|Indus}} origins. The {{x|Pashupati}} seal from {{p|Mohenjo-daro}} shows a figure
 That some scholars have identified as a proto-{{c|Shiva}}. The traditions of ritual bathing,
 Of goddess-worship, of certain iconographies—these may have continuity with the {{p|Indus}}
 That was inherited and reshaped through the {{p|Aryan}} period. The weight is uncertain. The weighing
@@ -210,7 +210,7 @@ And teeming other cities of the subcontinent. The illegible civilization is a re
 Part of the {{p|Indian}} body. Its silence is cultural, not genetic. The body remembers
 What the mind cannot read.
 
-                             The Gaiad sits with this. The chapter is about the seal
+                             The {{x|Gaiad}} sits with this. The chapter is about the seal
 And non-reading of a civilization. The chapter honors what we cannot say. The embers
 
 Of {{p|Mohenjo-daro}} are still warm in the blood of millions. We cannot hear them speak.

@@ -1,8 +1,8 @@
 # Chapter 125: The New World Monkeys
 
-In the Oligocene, when {{p|Africa}} and {{p|South America}}
+In the {{x|Oligocene}}, when {{p|Africa}} and {{p|South America}}
 Were closer than they are today but still
-Divided by the narrowing Atlantic's chimera
+Divided by the narrowing {{p|Atlantic}}'s chimera
 Of open ocean—a small and humble rill
 
 Of primates crossed the water.
@@ -30,11 +30,11 @@ Of any primate—an open floor
 For radiation.
 
                   From these castaways
-The New World monkeys bloomed—{{c|Platyrrhinos}},
+The {{p|New World}} monkeys bloomed—{{c|Platyrrhinos}},
 The broad-nosed ones, whose nasal ways
 And outward-facing nostrils were the signos
 
-Of their divergence from the Old World line—
+Of their divergence from the {{p|Old World}} line—
 A small anatomical flag
 That marked the thirty-million-year design
 Of separate evolution's rag
@@ -48,10 +48,10 @@ Of a tail that could support the slipping
 
 And swinging body in the canopy
 Like a safety rope and a third hand—
-No Old World monkey achieved this canopy
+No {{p|Old World}} monkey achieved this canopy
 Technology—the demand
 
-Of the South American rainforest's tall
+Of the {{p|South American}} rainforest's tall
 And continuous cover drove the solution:
 The tail that grasps, that will not fall,
 That adds a revolution
@@ -88,7 +88,7 @@ His body in the violence of dispute.
 The tool-user, the absolute
 And unmatched intelligence of the simian genius
 
-Among the New World monkeys—{{c|Cebos}}
+Among the {{p|New World}} monkeys—{{c|Cebos}}
 Cracked nuts with stones, probed crevices
 With sticks, and the capuchin's tableaux
 Of problem-solving filled the devices
@@ -130,5 +130,5 @@ Of primate intelligence—the howler's voice,
 The capuchin's tools, the marmoset's purse
 Of cooperative care—a different choice
 
-From the Old World's path, but no less
+From the {{p|Old World}}'s path, but no less
 Accomplished in the art of being primate.

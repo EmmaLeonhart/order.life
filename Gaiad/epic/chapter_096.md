@@ -1,13 +1,13 @@
 # Chapter 96: The Second Dying
 
-Then the Atlantic opened, and the fire
+Then the {{p|Atlantic}} opened, and the fire
 Ran north and south along the cracking seam
 Of {{p|Pangaea}}'s breaking body—the entire
 Central rift erupted in a steam
 
-And basalt flood that rivaled the Siberian
-Eruption of the Permian's final days—
-The CAMP volcanism, another Stygian
+And basalt flood that rivaled the {{p|Siberian}}
+Eruption of the {{x|Permian}}'s final days—
+The {{x|CAMP}} volcanism, another Stygian
 And geological catastrophe, ablaze
 
 Across eleven million square kilometers
@@ -22,7 +22,7 @@ The warming—then the sulfur in the blue
 And poisoned sky—the acid rain that burst
 
 On forests that had only recently
-Recovered from the Permian acid bath—
+Recovered from the {{x|Permian}} acid bath—
 The trees went brown again, went frequently
 To nothing, and the carbon cycle's math
 
@@ -37,7 +37,7 @@ That acid water dissolves—the corals
 And the brachiopods, the funeral
 Repeated for the reef-builders, the morals
 
-Of the Permian unlearned by an earth
+Of the {{x|Permian}} unlearned by an earth
 That cannot learn, that simply does
 What the mantle's heat dictates—the birth
 And death of worlds is the geological buzz
@@ -47,7 +47,7 @@ Of a planet that does not think.
                                   On land,
 {{c|Cruros}}' mighty rauisuchians fell:
 The four-legged, heavy, crocodile-planned
-Archosaurs who had held the Triassic spell
+Archosaurs who had held the {{x|Triassic}} spell
 
 Of lowland dominion—gone. The phytosaurs
 Who had worn the crocodilian mask before
@@ -65,7 +65,7 @@ The atmospheric poison and the heat.
 Thirty percent of all families were fenced
 Out of the future—not the clean, complete
 
-Annihilation of the Permian's ninety-six
+Annihilation of the {{x|Permian}}'s ninety-six
 Percent of marine species—this was lesser,
 A middling death, a thinning of the mix—
 But for those who died, no lesser, no lesser
@@ -88,9 +88,9 @@ The dinosaurs, who had been upland runners,
 Marginal, small, surviving on the grit
 Of scrubland and the edges—now the stunners
 
-Of the new Jurassic world—they filled
+Of the new {{x|Jurassic}} world—they filled
 The empty niches with an explosive speed
-That even the Cambrian would have thrilled
+That even the {{x|Cambrian}} would have thrilled
 To match: into every lowland, every reed-
 
 Bank, every river-valley, every coast,
@@ -101,7 +101,7 @@ Of {{c|Avemeta}}'s children—hand-me-down
 From the elder to the younger, as the world
 Decreed through the merciless selection
 Of who survived—and the banners unfurled
-Of the Jurassic's new direction
+Of the {{x|Jurassic}}'s new direction
 
 Were all dinosaurian.
 
@@ -128,12 +128,12 @@ Of volcanism by being too small to seek
 
 And too flexible to fail.
 
-                          This is the second Easter:
+                          This is the second {{x|Easter}}:
 The death that is not final, the loss
 That is the door to something greater—
 The volcanic fire, the acid rain's cross
 
-Borne by the Triassic world, and the resurrection
+Borne by the {{x|Triassic}} world, and the resurrection
 That followed: dinosaur, plesiosaur,
 Crocodile, and mammal—each direction
 Of the future opened from this floor
@@ -147,6 +147,6 @@ Of mercy, and no comfort in the grit
 Of dying—but the life that followed proved
 That even the second death can be a door
 To something the old world had not yet moved
-Toward—and the Jurassic's mighty roar
+Toward—and the {{x|Jurassic}}'s mighty roar
 
-Was born in the silence of the dying Triassic's last breath.
+Was born in the silence of the dying {{x|Triassic}}'s last breath.

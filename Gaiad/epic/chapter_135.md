@@ -28,7 +28,7 @@ Sometimes competing, sometimes simply coexisting. But {{c|I}}
 Is the lineage that settled. {{c|I}} is the haplogroup that, feeding
 On the reindeer and the mammoth, stayed, and did not try
 
-To turn back. {{c|I}} is the European hunter-gatherer. {{c|I}}
+To turn back. {{c|I}} is the {{p|European}} hunter-gatherer. {{c|I}}
 Is the one who painted at {{p|Lascaux}}, and at {{p|Altamira}},
 And at {{p|Chauvet}}—or at least, is a good candidate for the who
 Of those long and profound cave-painting epochs. The tiara
@@ -50,7 +50,7 @@ Ly bottlenecked and survived. And when the ice retreated,
 Northward migration of the {{c|I}}-carrying hunters, the completed
 Occupation of the post-glacial {{p|Europe}}, is the dreaming
 
-Of the old European lineage. This is the continent
+Of the old {{p|European}} lineage. This is the continent
 Before agriculture. Before cities. Before the written word.
 Before {{c|Stonehenge}}. Before the {{c|Indo-European}} languages consent
 To enter the continent—all of that is later. The deferred
@@ -74,24 +74,24 @@ Came (haplogroup {{c|G}}). {{c|I}} was pushed to the peripheries, but not gone.
 The {{c|Indo-European}} steppe riders came (haplogroup {{c|R}}). The armors
 
 Of the new arrivals overlaid, but did not replace, the older
-{{c|I}} populations. The old Europe went under the soil, but did not vanish.
+{{c|I}} populations. The old {{p|Europe}} went under the soil, but did not vanish.
 The modern {{p|European}} is a layered person—{{c|I}} at the bolder
 Base, {{c|G}} at the second layer, {{c|R}} at the top, and the admixture
 
 Varies region by region. In the {{p|Balkans}}, {{c|I}} is still
 Dominant. In {{p|Scandinavia}}, {{c|I}} is strong. In {{p|Western Europe}},
 {{c|I}} is a minority but present. In {{p|Eastern Europe}}, {{c|I}} still fills
-A substantial slot. The old Europe lives. The hunters, the hero
+A substantial slot. The old {{p|Europe}} lives. The hunters, the hero
 
-And heroine figures of the pre-Neolithic stone age, did not end.
+And heroine figures of the pre-{{p|Neolithic}} stone age, did not end.
 They became the substrate on which later migrations laid.
-The old Europe is still in the {{p|European}} body. The old Europe's trend
-Was to hold on. The Venus of {{p|Willendorf}}, the small-breasted maid
+The old {{p|Europe}} is still in the {{p|European}} body. The old {{p|Europe}}'s trend
+Was to hold on. The {{x|Venus}} of {{p|Willendorf}}, the small-breasted maid
 
 And figurine of the fertility cult, the mother-goddess figurine
 That {{c|Marija Gimbutas}} identified with the pre-IE culture of the continent,
 Was likely made by the hands of the {{c|I}}-carrying hunter-gatherers. The seen
-And carried iconography of the pre-agricultural old Europe, the ancient
+And carried iconography of the pre-agricultural old {{p|Europe}}, the ancient
 
 Religion of the cave-paintings and the small goddess figurines,
 Sits in the register of the {{c|I}} haplogroup.
@@ -119,11 +119,11 @@ But it is still here. {{c|I}} is still here. The {{p|Nordic}} basin,
 {{p|Croatian}} villages, the {{p|Sardinian}} highlanders—all still carry {{c|I}}. The sun
 Still rises on descendants of the hunter-gatherers of the old {{p|Europe}}. The plan
 
-And inheritance of the {{p|Magdalenian}} and {{p|Gravettian}} cultures, the Aurignacian
+And inheritance of the {{p|Magdalenian}} and {{p|Gravettian}} cultures, the {{x|Aurignacian}}
 Paintings at {{p|Chauvet}}, the {{c|Gravettian}} figurines—these are still
 Carried in the blood of certain {{p|European}} populations. The ancient
 
-Is still living. The old Europe has not ended. The hunting-and-gathering fulfilment
+Is still living. The old {{p|Europe}} has not ended. The hunting-and-gathering fulfilment
 Has been converted, under pressure, into farming-and-herding, into city-building,
 Into modernity—but the {{c|Y}}-chromosomal signature of the first settled populations
 Of the continent remains intact in the bodies of many millions of modern {{p|Europeans}}. The thrilling
@@ -133,20 +133,20 @@ Of habitation in the same continent is the longest relationship between a people
 And a land in the {{p|European}} story. The {{p|French}} are new. The {{p|Germans}} are new. The {{p|Romans}} were new.
 The {{c|I}}-carrying {{p|European}} is old. The steeple
 
-Of the oldest European's presence is the deepest in the cathedral
+Of the oldest {{p|European}}'s presence is the deepest in the cathedral
 Of the {{p|European}} body.
 
                             The chapter honors them.
 
-The old Europeans. The first hunters. The painters of the cathedral
-Of {{p|Lascaux}}, the makers of the Venus figurines, the dem
+The old {{p|Europeans}}. The first hunters. The painters of the cathedral
+Of {{p|Lascaux}}, the makers of the {{x|Venus}} figurines, the dem
 
 And defiant survivors of the glacial maximum, the patient re-
 Occupiers of the post-ice continent, the substrate under every-
 Thing that came later.
 
                         {{c|Haplogroup I}} is the ID card
-Of old Europe. The hunter-gatherer's long patient regard
+Of old {{p|Europe}}. The hunter-gatherer's long patient regard
 
 Toward the land he lived on. The deep relationship to the
 Forest and the river and the cave. The animism of the deep
@@ -157,17 +157,17 @@ The {{c|Cucuteni-Trypillia}} civilization, which was partly the sleep
 
 And continuation of the pre-{{p|Neolithic}} hunter-gatherer traditions
 Into a semi-settled form, we will see {{c|I}} again. {{c|Cucuteni-Trypillia}}
-Was the old Europe's answer to the farming revolution. Its positions
+Was the old {{p|Europe}}'s answer to the farming revolution. Its positions
 And paintings and cities, built of wood and clay, its pervasive
 
 Female iconography, its peaceful and apparently un-hierarchical
-Society—these were the old Europe's elaboration of what the farmers
-Had offered, made in the key of the old Europe's own magical
+Society—these were the old {{p|Europe}}'s elaboration of what the farmers
+Had offered, made in the key of the old {{p|Europe}}'s own magical
 Register. And the {{p|Yamnaya}}, when they came, would be the harmers
 
 Of this particular flowering. But we are not there yet.
 
-For now, {{c|I}}. The old Europe. The hunter. The mother-
+For now, {{c|I}}. The old {{p|Europe}}. The hunter. The mother-
 Goddess carver. The cave-painter. The survivor of the ice's threat
 And retreat. The patient background lineage. The brother
 
@@ -176,7 +176,7 @@ Carries the ancient signature. The old {{c|Y}}. The old land.
 The one who was here before. The hold of the will
 To endure. The keeping hand.
 
-                               {{c|Haplogroup I}}. Old Europe.
+                               {{c|Haplogroup I}}. {{p|Old Europe}}.
 
 The rest of the continent's story is layered on top. But {{c|I}}
 Is the bottom. And the bottom, in a continent, is what the top

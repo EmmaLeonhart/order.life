@@ -2,7 +2,7 @@
 
 Now the tail was lost.
 
-                      In the Miocene's
+                      In the {{x|Miocene}}'s
 Warm forests, from {{c|Catarrhinos}}' line,
 A branch gave up the monkey's means
 Of the tail's balance and the feline
@@ -25,7 +25,7 @@ Fluidity, the arms spread wide
 And the body pendular between them.
 
 {{c|Proconsulos}}—the dawn ape—was first:
-A Miocene African between them
+A {{x|Miocene}} {{p|African}} between them
 And the monkeys, the rehearsed
 
 And transitional form that still had a tail
@@ -55,7 +55,7 @@ The gibbon's song—the duet of the pair,
 Male and female, the morning's rang
 And territorial anthem through the air
 
-Of the Asian forest—was the most complex
+Of the {{p|Asian}} forest—was the most complex
 Vocal performance of any non-human
 Primate: not the howler's flexed
 And bellowing bass but the acumen
@@ -72,7 +72,7 @@ In the forest dawn.
 Who would change the story altogether.
 
 {{c|Pongos}}—the orangutan—the escapes
-Of the Asian forest's solitary sage:
+Of the {{p|Asian}} forest's solitary sage:
 The red-haired philosopher of {{p|Borneo}}
 And {{p|Sumatra}}, whose cognitive age
 Exceeded every monkey's—the scenario
@@ -99,11 +99,11 @@ The ancestor of the muzzle
 And the hand and the brain whose shape
 
 Would become the gorilla's, the chimpanzee's,
-And at last the human's—the African
-Great apes whose Miocene expertise
+And at last the human's—the {{p|African}}
+Great apes whose {{x|Miocene}} expertise
 In the forest canopy of the pelican-
 
-Rich Rift Valley lake margins
+Rich {{p|Rift Valley}} lake margins
 Would produce the largest
 And most intelligent of the margins'
 Living architects—the largest

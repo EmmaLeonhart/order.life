@@ -12,7 +12,7 @@ The first and greatest was the whale—the stalker
 Of the deep who began as a walking horde
 
 Of small, dog-like creatures on the shore
-Of the {{p|Tethys}} Sea in the Eocene's
+Of the {{p|Tethys}} Sea in the {{x|Eocene}}'s
 Warm shallows—{{c|Pakicetos}}, no more
 Than a wolf in size, whose genes
 
@@ -45,7 +45,7 @@ Whose tiny vestigial hind-limbs' line
 
 Was the last memory of the land
 That the whale would ever carry—
-By the late Eocene, the command
+By the late {{x|Eocene}}, the command
 Of the ocean was the cetacean's missionary
 
 Position: the whale was fully marine.

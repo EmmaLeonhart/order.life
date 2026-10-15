@@ -1,7 +1,7 @@
 # Chapter 133: The DE Split and the Toba Catastrophe
 
 They disembarked at {{p|Yemen}}, on the green
-And wetter {{p|Arabia}} of the late Pleistocene.
+And wetter {{p|Arabia}} of the late {{x|Pleistocene}}.
 The grass was thick. The seasonal rivers ran.
 The peninsula was hospitable to the plan
 
@@ -179,7 +179,7 @@ Of total isolation from the rest of the human world.
 
 And there is no cultural connection between them.
 
-The Gaiad is emphatic on this point. It is tempting—
+The {{x|Gaiad}} is emphatic on this point. It is tempting—
 It is very tempting—to look at the three surviving stem-
 
 Carriers of {{c|D}} and weave a story. {{p|Japan}} and {{p|Tibet}}
@@ -200,7 +200,7 @@ Its {{p|Shinto}}, its reverence for the mountain, its locality
 In the islands, bears some ancient inheritance from
 The shared source?
 
-                    The Gaiad says: no.
+                    The {{x|Gaiad}} says: no.
 
 Stop.
 
@@ -242,13 +242,13 @@ And fantasies of those who want to weave {{p|Shinto}}
 Into {{p|Tibetan Buddhism}} by way of the {{p|Andamanese}}—they go
 
 Into the ash of their own speculation. There is no such thread.
-The Gaiad is careful. The Gaiad does not build a bed
+The {{x|Gaiad}} is careful. The {{x|Gaiad}} does not build a bed
 
 For a myth that the evidence does not support.
 
 But the catastrophe itself, the short
 And terrible story of {{p|Toba}} and what it did
-To the first wave—that story is real, and the Gaiad bid
+To the first wave—that story is real, and the {{x|Gaiad}} bid
 
 To tell it.
 
@@ -318,7 +318,7 @@ Preserved in three refugia, unbraced
 By cultural unity but preserved in its letters
 Nonetheless. The body remembers what the mind forgets.
 
-The Gaiad tells the catastrophe and the survival.
+The {{x|Gaiad}} tells the catastrophe and the survival.
 Not the false unity. Not the romantic revival
 
 Of a common religion or shared soul. The stark
