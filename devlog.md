@@ -8346,3 +8346,11 @@ Condense" -> "Euka, Lilith and Eve". Ch 12 and 13 kept (their titles already fit
 25-root table; 3,234 people whose given name belongs to a root carry the kanji as a typed NAME, "neo-kun'yomi (read Miguel)".
 Cladoplasts are skipped (the archaeal Yuri is not a George). Only clean given names (the given part of the gedcom name or a
 one-word label), as with the lineage names.
+
+2026-10-15 13:14 PST: Chinese names built and applied (Emma: "Build and apply"; `wiki-scripts/chinese_names.py`): 7,831 people without a
+real Chinese label get a generated one in /gaiad.ged, typed "Chinese name (generated)": surname from the first significant
+word of the family name (particles and titles skipped: de, ibn, King, Raja ...), given name from the own name's first
+syllables, by a compact form of the standard transliteration table, unique in the file. Known limits: houses and clans are
+not known, so the surname comes from the family name, not the house (her 哈 for Banu Hashim needs a clan table); a few
+East Asian figures with no Chinese label get a transliteration (Wu Kung of Yan -> 伊乌); only records with a clean given
+name and a family name are covered.

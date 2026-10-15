@@ -26,6 +26,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from neo_kunyomi import kanji_for
+from chinese_names import chinese_name
 from export_gedcom import (ANA, MONTHS, SEX_FEMALE, SEX_MALE, clean_name, couples_for_child,
                            load, name_lines)
 
@@ -378,7 +379,8 @@ def build_gedcom7(out_path, extra_lang=None):
         with open(labels_path, encoding="utf-8", newline="") as fh:
             for r in csv.DictReader(fh, delimiter="\t"):
                 labels[r["qid"]].append((r["lang"], r["label"]))
-    n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = n_clado = n_nk = 0
+    n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = n_clado = n_nk = n_zh = 0
+    zh_taken = {lb for v in labels.values() for lg, lb in v if lg == "zh"}
     for qid in sorted(persons, key=lambda q: int(q[1:]) if q[1:].isdigit() else 0):
         row = persons[qid]
         w(f"0 @I{qid}@ INDI")
@@ -418,6 +420,17 @@ def build_gedcom7(out_path, extra_lang=None):
             w("2 TYPE OTHER")
             w(f"3 PHRASE neo-kun'yomi (read {val(g.split()[0])})")
             n_nk += 1
+        # A Chinese name for those without a real one (planning/chinese-names.md; approved 2026-10-15): surname from
+        # the family name's first syllable, given name from the own name's first syllables, unique in the file.
+        if not any(lg == "zh" for lg, _ in labels.get(qid, [])) and qid not in cladoplasts and g:
+            ged = clean_name(row.get("gedcom") or "")
+            sur = ged.split("/")[1].strip() if ged.count("/") >= 2 else ""
+            zh = chinese_name(g, sur, zh_taken) if sur and not lang_of(g + sur) else None
+            if zh:
+                w(f"1 NAME {zh}")
+                w("2 TYPE OTHER")
+                w("3 PHRASE Chinese name (generated)")
+                n_zh += 1
         more, lineage_notes = lineage_extras(qid, persons, sex_of, canon, labels)
         for n, phrase in lineage_names(qid, persons, sex_of, canon) + more:
             w(f"1 NAME {val(n)}")
@@ -530,7 +543,7 @@ def build_gedcom7(out_path, extra_lang=None):
     with open(tmp, "w", encoding="utf-8-sig", newline="\n") as f:
         f.write("\n".join(out))
     tmp.replace(out_path)
-    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal, "gaiad_notes": n_notes, "cladoplasts": n_clado, "neo_kunyomi": n_nk,
+    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal, "gaiad_notes": n_notes, "cladoplasts": n_clado, "neo_kunyomi": n_nk, "chinese_names": n_zh,
             "bytes": out_path.stat().st_size}
 
 
