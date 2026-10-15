@@ -27,6 +27,19 @@ And a few is not none.
 None of this is finished.
 Not finished is not lost.
 
+This book has its own gap to tell.
+At the end of {{x|Leo}} the daily readings stopped.
+For more than a month the days came with no chapter,
+And all of {{x|Virgo}}, the month of the early modern years,
+Went by unread.
+A day without its reading is still a day.
+Then the missing chapters were written in a single night,
+One on the heels of another until morning,
+And on the ninth of {{x|Libra}} the reading went out on its own day again.
+Late is not lost.
+The days kept their places,
+And waited to be filled.
+
 The book does not say what happens next.
 It is not a prophecy.
 A prophecy is a register of what has not happened.

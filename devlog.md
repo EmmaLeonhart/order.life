@@ -8275,3 +8275,9 @@ Files without citations keep the old name search.
 Gaiad", and on each person the resolution tied to the verse, one citation per stanza: PAGE "Gaiad 131.54", the line
 as DATA TEXT, the stanza link as NOTE (3,932 citations). All 106,786 people still match back by ID. The second half,
 the I1/I2/I3 numbering, waits on Emma's three readings (parent repo queue, "Steps only she can take").
+
+2026-10-15 06:06 PST: ch 362 (Ophiuchus 26) tells the book's own gap, on Emma's 2026-10-14 suggestion ("a potentially
+interesting thing to incorporate into Ophiuchus 26th"): the readings stopped at the end of Leo, Virgo went by
+unread, the missing chapters were written in one night, and on Libra 9 the reading went out on its day again (parent
+repo `research/chapter-histories.md`). "More than a month", not a count: her 45-50 days and the repo's 36 are still
+an open question. Only the book's public record; nothing about her life.
