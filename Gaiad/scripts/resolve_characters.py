@@ -1,0 +1,158 @@
+"""
+Resolve every {{c|}} tag in the Gaiad to a person in the order.life genealogy. Changes nothing.
+
+Step 1 of planning/entity-resolution.md. Reads each chapter's tags with their stanza number (the same
+split build.py uses for the #sN anchors) and writes Gaiad/genealogy/_resolution.tsv: one row per tag
+occurrence with the order.life QID chosen and the method. Tags and genealogy files are never touched
+(Gaiad/TAGS.md: tags are data and are not changed).
+
+Methods, in order:
+  override   Gaiad/genealogy/_overrides.tsv: identifications the genealogy makes on purpose, which a label
+             cannot show (Noah is the record labelled Shu-Ilishu, wikibase/analysis/patriarch_overlay.md)
+  initial    a tag on a single letter (an initial, not a person): not resolved
+  file       the QID an existing Gaiad/genealogy/<name>.json already carries (wiki_qid)
+  unique     the name matches exactly one person's label or gedcom name in persons.tsv
+  context    several match; the one linked within two steps (parent, child, spouse) to the most other
+             names already resolved in the same chapter wins, if it wins outright
+  consensus  the name was settled by context in other chapters, always to the same person
+  unresolved no match, or several with no outright winner (candidates listed)
+
+    python Gaiad/scripts/resolve_characters.py
+
+Stdlib only.
+"""
+import csv
+import json
+import re
+from collections import Counter, defaultdict
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent.parent
+EPIC = ROOT / "Gaiad" / "epic"
+GEN = ROOT / "Gaiad" / "genealogy"
+ANA = ROOT / "wikibase" / "analysis"
+OUT = GEN / "_resolution.tsv"
+OVERRIDES = GEN / "_overrides.tsv"
+TAG = re.compile(r"\{\{c\|(?:([^}|]*)\|)?([^}|]+)\}\}")
+TITLE = re.compile(r"^#\s+(?:Chapter\s+\d+:\s*)?(.*)")
+
+
+def norm(s):
+    return re.sub(r"\s+", " ", s.replace("/", " ")).strip().lower()
+
+
+def load_people():
+    by_name = defaultdict(set)
+    with open(ANA / "persons.tsv", encoding="utf-8") as fh:
+        for r in csv.DictReader(fh, delimiter="\t"):
+            for n in (r["label"], r["gedcom"]):
+                if n and n.strip():
+                    by_name[norm(n)].add(r["qid"])
+    nbr = defaultdict(set)
+    for fname, a, b in (("edges.tsv", "parent", "child"), ("spouses.tsv", "a", "b")):
+        with open(ANA / fname, encoding="utf-8") as fh:
+            for r in csv.DictReader(fh, delimiter="\t"):
+                nbr[r[a]].add(r[b])
+                nbr[r[b]].add(r[a])
+    return by_name, nbr
+
+
+def within_two(q, nbr):
+    one = nbr.get(q, set())
+    two = set().union(*(nbr.get(x, set()) for x in one)) if one else set()
+    return (one | two) - {q}
+
+
+def file_qids():
+    out = {}
+    for f in GEN.glob("*.json"):
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        q = d.get("wiki_qid") or d.get("qid")
+        if q and d.get("name"):
+            out[norm(d["name"])] = q
+    return out
+
+
+def occurrences():
+    for n in range(1, 365):
+        f = EPIC / f"chapter_{n:03d}.md"
+        if not f.exists():
+            continue
+        raw = f.read_text(encoding="utf-8").replace("\r", "")
+        m = TITLE.match(raw)
+        body = raw[m.end():].lstrip("\n") if m else raw
+        stanzas = [s.strip("\n") for s in re.split(r"\n\s*\n", body) if s.strip()]
+        for si, st in enumerate(stanzas, 1):
+            for line in st.split("\n"):
+                for t in TAG.finditer(line):
+                    plain = re.sub(r"\{\{[cpx]\|(?:[^}|]*\|)?([^}|]+)\}\}", r"\1", line).strip()
+                    yield n, si, t.group(2).strip(), t.group(1) or "", plain
+
+
+def main():
+    by_name, nbr = load_people()
+    fq = file_qids()
+    over = {}
+    if OVERRIDES.exists():
+        with open(OVERRIDES, encoding="utf-8") as fh:
+            for r in csv.DictReader(fh, delimiter="	"):
+                over[norm(r["name"])] = r["qid"]
+    occ = list(occurrences())
+    first = {}
+    for n, si, name, tid, line in occ:
+        k = norm(name)
+        if k in over:
+            first[(n, k)] = (over[k], "override", "")
+        elif len(name) == 1:
+            first[(n, k)] = ("", "initial", "")
+        elif k in fq:
+            first[(n, k)] = (fq[k], "file", "")
+        elif len(by_name.get(k, ())) == 1:
+            first[(n, k)] = (next(iter(by_name[k])), "unique", "")
+    # context pass for names with several candidates
+    by_chapter = defaultdict(set)
+    for (n, k), (q, _, _) in first.items():
+        by_chapter[n].add(q)
+    res = {}
+    pending = []
+    for n, si, name, tid, line in occ:
+        k = norm(name)
+        if (n, k) in first:
+            res[(n, k)] = first[(n, k)]
+            continue
+        cands = sorted(by_name.get(k, ()), key=lambda q: int(q[1:]))
+        if len(cands) > 1:
+            scores = Counter({q: len(within_two(q, nbr) & by_chapter[n]) for q in cands})
+            top = scores.most_common(2)
+            if top[0][1] > 0 and (len(top) == 1 or top[0][1] > top[1][1]):
+                res[(n, k)] = (top[0][0], "context", " ".join(cands))
+                continue
+        res[(n, k)] = ("", "unresolved", " ".join(cands))
+        pending.append((n, k))
+    # consensus: a name settled by context elsewhere, always to the same person
+    settled = defaultdict(set)
+    for (n, k), (q, m, _) in res.items():
+        if m == "context":
+            settled[k].add(q)
+    for (n, k) in pending:
+        if len(settled.get(k, ())) == 1 and res[(n, k)][1] == "unresolved":
+            res[(n, k)] = (next(iter(settled[k])), "consensus", res[(n, k)][2])
+    methods = Counter()
+    with open(OUT, "w", encoding="utf-8", newline="") as fh:
+        w = csv.writer(fh, delimiter="\t", lineterminator="\n")
+        w.writerow(["chapter", "stanza", "name", "tag_id", "qid", "method", "candidates", "line"])
+        for n, si, name, tid, line in occ:
+            q, m, c = res[(n, norm(name))]
+            methods[m] += 1
+            w.writerow([n, si, name, tid, q, m, c, line])
+    names = {norm(o[2]) for o in occ}
+    print(f"wrote {OUT.relative_to(ROOT)}: {len(occ):,} tag occurrences, {len(names):,} distinct names")
+    for m, v in methods.most_common():
+        print(f"  {m:10} {v:>7,}  ({100 * v / len(occ):.1f}%)")
+
+
+if __name__ == "__main__":
+    main()

@@ -8248,3 +8248,11 @@ drops names whose article is the generic concept ("Apple" the fruit, "Beagle" th
 after deploy run 38722270235. The Gaiad index page links them. On her question of how attachments work with GEDCOM:
 GEDCOM 7's answer is the GEDZIP package (gedcom.ged at the root, media files beside it, referenced by relative path
 in OBJE/FILE), which is the zip she described, so the arms' SVG and PNG files can be added to it later.
+
+2026-10-15 05:23 PST: entity resolution, step 1 (`planning/entity-resolution.md`). `Gaiad/scripts/resolve_characters.py`
+maps every {{c|}} tag occurrence (chapter, stanza, line) to an order.life person and writes
+`Gaiad/genealogy/_resolution.tsv`; no tag and no genealogy file is touched. Of 12,308 occurrences: 2,985 unique label
+match, 599 by chapter context (the candidate linked to the most other names resolved in that chapter; Muhammad ->
+Q65705), 311 by consensus across chapters, 97 from the ids the files carry, 27 from `_overrides.tsv` (the
+patriarch overlay: Noah is Q70439, Shu-Ilishu, not the unrelated "Noah" record), 501 single-letter tags set aside,
+7,788 unresolved (tagged common words, coinages without records, people under longer labels).
