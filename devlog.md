@@ -8237,3 +8237,8 @@ time from the runner's UTC date, and the only scheduled rebuild was 16:00 UTC (8
 yesterday from Pacific midnight until about 8 AM, and showed tomorrow after any Pacific-evening push. build.py now
 takes today in America/Vancouver, and deploy.yml rebuilds at 00:05 Pacific (07:05 and 08:05 UTC, for summer and
 winter time); the 16:00 rebuild stays for the Discord bot.
+
+2026-10-15 03:39 PST: Further Reading grew from 1,811 to 3,038 links (`Gaiad/scripts/add_further_reading.py`). Each chapter's
+tagged places and things, and from ch 130 its people, are linked where English Wikipedia has a real article (redirects
+kept only when they stay close to the name, disambiguation pages skipped, up to ten per chapter). A reviewed denylist
+drops names whose article is the generic concept ("Apple" the fruit, "Beagle" the dog, "Charter", "Republic").
