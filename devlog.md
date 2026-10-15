@@ -8256,3 +8256,13 @@ match, 599 by chapter context (the candidate linked to the most other names reso
 Q65705), 311 by consensus across chapters, 97 from the ids the files carry, 27 from `_overrides.tsv` (the
 patriarch overlay: Noah is Q70439, Shu-Ilishu, not the unrelated "Noah" record), 501 single-letter tags set aside,
 7,788 unresolved (tagged common words, coinages without records, people under longer labels).
+
+2026-10-15 05:52 PST: entity resolution steps 2 and 3. Step 2: a sample of 18 unique matches in ch 130+ was right in 17
+(Aristotle, Khufu, Cyrus, Confucius, Ashoka, Bathsheba, Genghis Khan ...; "Manuel" in ch 219 not settled by its line);
+an era rule for same-named people was rejected, since the true person often carries a longer label (Alexander the
+Great is not among the six records labelled "Alexander"). Step 3: `Gaiad/scripts/regenerate_genealogy.py` rebuilt
+`Gaiad/genealogy/` from the resolution: 4,756 files (2,033 rewritten, 2,724 new), every existing file name and the
+7 ids kept. 1,173 names resolve to one person and carry the order.life QID, Wikidata id, parents, spouses and
+children from the graph (Noah = Q70439 with Lamech, Bat-Enosh, Ham, Japheth); 7 are shared by several people and
+carry no family links (Muhammad: Q65705 and Q66641), so different people are not merged; 3,576 keep citations only.
+Every file now lists its citations as chapter, stanza and line. No tag changed.
