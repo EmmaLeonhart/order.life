@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
 Script to add character IDs to epic chapters.
+
+What the tags are for, and what else reads them: Gaiad/TAGS.md. Do not rerun a tagging
+script over the chapters without Emma's word: tags are never changed (2026-10-14).
 """
 
 import re

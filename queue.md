@@ -414,7 +414,8 @@ Items, in order:
    order ... to review the degree that they satisfy all of the criteria that order.life is supposed
    to have." Ch 1 to 364 in order, one chapter at a time, each checked against every criterion: the
    pinned corrections in `STATUS.md` (verse register, three braided registers, modern placenames,
-   rhyme, graded; tags are not a criterion and are never changed), `CLAUDE.md` (the synoptic genealogy told by its
+   rhyme, graded; tags are not a criterion and are never changed: they feed the genealogy files,
+   see `Gaiad/TAGS.md`), `CLAUDE.md` (the synoptic genealogy told by its
    story; linear time; one person, one set of parents; cross-tradition joins kept), the tone and
    founder guidance in `planning/gaiad-tone-and-founders.md`, the thematic spine for 253-364, the
    chapter's day and holiday in the calendar, and its facts. Record each chapter's result, fix what

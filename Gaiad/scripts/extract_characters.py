@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 """
 Extract characters from Gaiad epic chapters.
+
+What the tags are for, and what else reads them: Gaiad/TAGS.md. Do not rerun a tagging
+script over the chapters without Emma's word: tags are never changed (2026-10-14).
 Parses {{c|Name}} markup from chapter_*.md files and generates JSON files for each character.
 """
 

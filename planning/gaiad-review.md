@@ -20,13 +20,15 @@ Standing decisions:
 - No "Stand." (removed from all chapters 2026-10-14 on Emma's word).
 - Emma's own chapters (ch 1 to about 129) are not rewritten; the review fixes plain errors only
   and notes anything larger for her.
-- The site strips the tags (`build.py` `load_chapters`): `{{c|Aster}}` renders as plain "Aster", so tags
-  are an index, not links, today. The tags take no display alias, so a name whose tag would point at the wrong
-  entity is left untagged. Real links are the later "links are present" item.
+- **What the tags are for: `Gaiad/TAGS.md`.** They exist so each person's genealogy file cites the Gaiad
+  (`Gaiad/genealogy/*.json`, made from the `{{c|}}` tags, and the `/gaiad/characters/` pages built from them, with
+  chapters and quotes). The website stripping them from chapter pages is not their purpose. *(This replaces a
+  note of 2026-10-14 that judged the tags by the website display only.)*
 - The galaxies are beings in the Gaiad's cosmology (Aster and Andromeda are galaxies as persons; Triangulum and
   the Magellanic Clouds act in ch 2; Milkdromeda is their union; Sagittarius beside "the Princess" stands for
-  Aster), so they keep `{{c|}}` tags. Words tagged as characters by the 2025-11-18 automated pass ("Once",
-  "Together" and the like, which also made junk files in `Gaiad/genealogy/`) are untagged.
+  Aster), so they keep `{{c|}}` tags. *(Withdrawn: a note here called the 2025-11-18 tags on words like
+  "Once" and "Together" junk and the `Gaiad/genealogy/` files made from them junk files, and untagged them. Those
+  files feed the character pages; see `Gaiad/TAGS.md`. Tags are never changed.)*
 - *(Withdrawn 2026-10-14 18:00; tags are never changed.)* **Tagging rule (Emma, 2026-10-14 17:23):** "Everything needs a tag unless you're really not confident about
   it." A place is `{{p|}}`, a character `{{c|}}`; a name of unclear kind, or significant but neither, is
   `{{x|}}`. Do not convert existing tags ("Converting everything to the x tag is destructive"); the database
