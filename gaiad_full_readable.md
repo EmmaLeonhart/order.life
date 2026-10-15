@@ -1524,7 +1524,7 @@ Actano, Fermus, they built a city
 
 Actano bore two daughters of her own:
 Actina, mother of Actino's line,
-And Prasea, from whom two seeds were sown—
+And Prasina, from whom two seeds were sown—
 Saya and Chloroflexa, both divine.
 
 Saya the bacteria shed her coat,
@@ -1534,7 +1534,7 @@ Bestowing oxygen with force so bright.
 
 Then Chloroflexa claimed her tapestry,
 Of filamentous grace in silent seas.
-Both born of wise Prasea's legacy,
+Both born of wise Prasina's legacy,
 They wove Earth's green with ancient expertise.
 
 Fermus, the other child of Terra's sphere,
@@ -1580,7 +1580,7 @@ Together walking hope’s unblemished way.
  
 In days of old, the purple farmers thrived,
 Their colors stirring life across each field.
-Prasea, green, took in the rays deprived,
+Prasina, green, took in the rays deprived,
 From her did Saya, Chloroflexi yield.
 
 
