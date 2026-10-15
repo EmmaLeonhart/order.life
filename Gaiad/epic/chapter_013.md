@@ -59,5 +59,3 @@ A frigid tale where mysteries abide.
 A veil of frozen whispers far from light.
 In distant orbits, comets there abound,
 A cosmic dance that fades beyond our sight.
-
-Advertisement
