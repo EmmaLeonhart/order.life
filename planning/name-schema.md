@@ -85,6 +85,13 @@ So: a surname absent from the name line does not survive (Gramps rebuilds the li
 does not survive; the order of NAME records and the first one's primacy do, which is why the exporter puts the
 display form first and writes every other form as its own NAME rather than as TRAN or SURN tricks.
 
+**Readings are not names (Emma, 2026-10-15):** "there's the transliteration of somebody's name, and then there's also,
+like, their Chinese name"; "this is not the same as somebody's Chinese name." So a person can carry three separate
+things, none overriding another: their real labels (zh, ja, ko from the wikibase); their **Chinese name**, the schema
+name (`chinese_names.py`, typed "Chinese name (generated)"); and their **readings**, the name transcribed into ja, zh
+and ko word by word from the genealogy repo's curated token table (typed "zh reading (transcription, not a Chinese
+name)"), added only where no real label exists in that language.
+
 ## Order of work
 
 The steps are in the parent repo's `queue.md`. Names come first because they are text and can be

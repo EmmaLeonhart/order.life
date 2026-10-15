@@ -183,6 +183,22 @@ def load_gaiad_citations():
     return out
 
 
+def load_readings():
+    """token -> (ja, zh, ko), curated rows winning over rule-minted ones (as genealogy's build-garborg-day.py reads it)."""
+    import csv
+    path = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "name_readings.tsv"
+    out, minted = {}, set()
+    if path.exists():
+        with open(path, encoding="utf-8", newline="") as fh:
+            for r in csv.DictReader(fh, delimiter="\t"):
+                t, by_rule = r["token"], (r.get("note") or "").startswith("by rule")
+                if t in out and t not in minted and by_rule:
+                    continue
+                out[t] = (r["ja"], r["zh"], r.get("ko", ""))
+                (minted.add if by_rule else minted.discard)(t)
+    return out
+
+
 def load_canonical_line():
     """qid -> (canonical parent qid, 'father'|'mother'), from canonical_line.py's output."""
     path = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "canonical_line.tsv"
@@ -380,7 +396,8 @@ def build_gedcom7(out_path, extra_lang=None):
         with open(labels_path, encoding="utf-8", newline="") as fh:
             for r in csv.DictReader(fh, delimiter="\t"):
                 labels[r["qid"]].append((r["lang"], r["label"]))
-    n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = n_clado = n_nk = n_zh = n_mon = 0
+    n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = n_clado = n_nk = n_zh = n_mon = n_read = 0
+    readings = load_readings()
     temple_names, horus_names, abrahamic_names = build_monarch_names()
     zh_taken = {lb for v in labels.values() for lg, lb in v if lg == "zh"}
     for qid in sorted(persons, key=lambda q: int(q[1:]) if q[1:].isdigit() else 0):
@@ -452,6 +469,22 @@ def build_gedcom7(out_path, extra_lang=None):
             w("2 TYPE OTHER")
             w(f"3 PHRASE Abrahamic name, from the temple name {val(temple)} ({val(why)})")
             n_mon += 1
+        # Readings: the person's name transcribed into ja, zh and ko, word by word from the genealogy repo's curated
+        # token table (wikibase/analysis/name_readings.tsv, copied from genealogy/reports/
+        # garborg-name-transliterations.tsv; Emma, 2026-10-15: "Its ja/zh/ko readings"). A reading is not the person's
+        # Chinese name (that is the schema name above) and overrides nothing: it is added only where the person has no
+        # real label in that language.
+        nm = (row.get("gedcom") or "").replace("/", " ").strip() or (row.get("label") or "").strip()
+        toks = nm.split()
+        if toks and qid not in cladoplasts and all(t in readings and readings[t][0] for t in toks):
+            have = {lg for lg, _ in labels.get(qid, [])}
+            for k, (lg, sep) in enumerate((("ja", "・"), ("zh", "·"), ("ko", " "))):
+                parts = [readings[t][k] for t in toks]
+                if lg not in have and all(parts):
+                    w(f"1 NAME {sep.join(parts)}")
+                    w("2 TYPE OTHER")
+                    w(f"3 PHRASE {lg} reading (transcription, not a {'Chinese name' if lg == 'zh' else 'native name'})")
+                    n_read += 1
         more, lineage_notes = lineage_extras(qid, persons, sex_of, canon, labels)
         for n, phrase in lineage_names(qid, persons, sex_of, canon) + more:
             w(f"1 NAME {val(n)}")
@@ -564,7 +597,7 @@ def build_gedcom7(out_path, extra_lang=None):
     with open(tmp, "w", encoding="utf-8-sig", newline="\n") as f:
         f.write("\n".join(out))
     tmp.replace(out_path)
-    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal, "gaiad_notes": n_notes, "cladoplasts": n_clado, "neo_kunyomi": n_nk, "chinese_names": n_zh, "monarch_names": n_mon,
+    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal, "gaiad_notes": n_notes, "cladoplasts": n_clado, "neo_kunyomi": n_nk, "chinese_names": n_zh, "monarch_names": n_mon, "readings": n_read,
             "bytes": out_path.stat().st_size}
 
 

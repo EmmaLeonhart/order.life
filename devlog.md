@@ -8367,3 +8367,11 @@ from temple names"; by meaning, her choice): the temple name's first character i
 root means the same (太祖 founder -> Abraham, 太宗 the second -> Isaac, 高 -> Ali, 武 -> David, 仁 -> John, 睿/哲 -> Solomon,
 憲 -> Daniel ...; table and reasons in `wiki-scripts/monarch_names.py`). 54 of the 57 emperors whose records give a temple
 name now carry one in /gaiad.ged; the other 192 Chinese monarchs (mostly pre-Tang kings) have no temple name recorded.
+
+2026-10-15 13:41 PST: ja/zh/ko readings in /gaiad.ged, by the genealogy repo's method (Emma: "Its ja/zh/ko readings"): the name
+transcribed word by word from genealogy's curated token table (copied as `wikibase/analysis/name_readings.tsv`, curated rows
+over rule-minted ones, as genealogy reads it). 70,495 readings on the 28,912 people whose every name word is in the table,
+each its own typed NAME ("zh reading (transcription, not a Chinese name)"), only where no real label exists in that
+language. Readings are not the Chinese name (Emma: "this is not the same as somebody's Chinese name"; "we aren't
+overriding some of the other stuff"): real labels, the schema Chinese names (7,831) and the readings sit side by side;
+recorded in planning/name-schema.md. 74 MB; all people match back by ID.
