@@ -50,3 +50,21 @@ It is simultaneously:
 - Devotional attention: gratitude, mourning, reverence, commitment, contemplation
 - Rituals: remembrance rites, vow-renewal, seasonal rites, consecration of tools
 - Sacred art encodes: continuity, agency, multiplicity, the sacred unknown, horizon of immortality
+
+## 7) Shrines and succession (Emma, 2026-10-13)
+Her words, from her session notes of 2026-10-12/13 (`psilocybin-management-2/research/session-2026-10-12.md`).
+- Anyone may start a religious idea, and is encouraged to: "Anybody can come up with their own religious idea,
+  and I extremely encourage it ... the idea just matters ... if they're not [qualified], they still do it because
+  they'd better become qualified."
+- Syncretism now, and structured, not "parallel practice": "all this syncretism can and should be happening right
+  now ... in an extremely structured way."
+- The social pressure runs both ways: "inviting people in, but pretty aggressively keeping them from just abandoning
+  the thing."
+- A shrine, its land and its line belong to the tradition, and a keeper's first duty is succession. Her example of
+  the failure: the Tsubaki Grand Shrine of America at Granite Falls, Washington, closed without a successor and its
+  land sold ("not setting up proper succession").
+- Proliferate shrines. Each acts as a curator of lineages: "It's my expectation that they all act like Curators of
+  lineages" (2026-10-05).
+- Inclusion by addition, not by subtraction: against "no discussing genealogy because not everybody's a Habsburg",
+  "everybody gets this".
+
