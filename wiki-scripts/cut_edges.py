@@ -61,6 +61,15 @@ CUTS = {
     #     does not exist cannot be anyone's mother, so both claims are removable with no
     #     judgement call at all. Cleopatra keeps her real mother Q73194 Cleopatra II.
     #     Why not UNMERGE/DEDUPE: there is nothing on the other side to merge with.
+    # 2026-10-15, before the approved Ishmael merge (merge_cluster.py "ishmael"; Emma: "Yes, run it", with
+    # "dropping the Sarah mother edge"). Q85869 "Ismail Ancestor of the Arabs" records Sarah as Ishmael's mother;
+    # every tradition gives Hagar, whom the survivor Q129307 already has. Unmerge and dedupe do not apply: Sarah
+    # and Hagar are two real people, and this one relationship is false. Cutting it first keeps the merged
+    # Ishmael at two parents (Abraham, Hagar) instead of three. No tradition's join runs through this edge:
+    # Q85869's other parent is Abraham, who remains.
+    "ishmael-sarah": [
+        ("Q86389", "Q85869", "Sarah is not Ishmael's mother; Hagar is (Q129303 on the survivor)"),
+    ],
     "mutual-parent-residue": [
         ("Q78402", "Q78719", "Q78402 does not exist -- dangling mother claim on "
                              "Cleopatra III"),

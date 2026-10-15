@@ -198,6 +198,23 @@ CLUSTERS = {
     # Q72858. Survivor is Q72984 (lower QID, and it holds the extra child Q72834); the union
     # carries Q144060's Wikidata id and its P56/P57 birth and death dates onto it, which is
     # exactly the property loss the 2026-07-31 backfill was written to prevent.
+    # M1 + M2 from wikibase/analysis/adnan_merge_proposed.md. APPROVED BY EMMA 2026-10-15 ("Yes, run it").
+    # The question that had blocked them (is Banu Ismail authored, or import duplication?) was answered in
+    # practice by her "You merge them lol" for M3 on 2026-07-31. Survivors are the records with the Wikidata ids
+    # and the Genesis 25 siblings, not the lower qids (this tool carries claims, not labels):
+    #
+    #   Q129307  "Ishmael"                       mother Hagar, wd Q183403, 12 sons
+    #   Q85869   "Ismail Ancestor of the Arabs"  mother Sarah, one child Q86435
+    #   Q129387  "Qedar (person)"                wd Q21087985, no children
+    #   Q86435   "Qedar Banu Ismail"             carries the 36-generation chain to Adnan
+    #
+    # Q85869's mother edge (Sarah) is dropped after the union: every tradition gives Hagar.
+    "ishmael": [
+        ("Q129307", "Q85869", "Ishmael -- Banu Ismail head; contributes the child edge to "
+                              "Qedar Banu Ismail"),
+        ("Q129387", "Q86435", "Qedar -- Banu Ismail copy; contributes the child edge to Amr "
+                              "Q86437 and so the whole chain to Adnan"),
+    ],
     "metellus": [
         ("Q72984", "Q144060", "Quintus Caecilius Metellus -- same father Q73146, both "
                               "recorded as father of Q72858; Q144060 carries wd Q929498"),

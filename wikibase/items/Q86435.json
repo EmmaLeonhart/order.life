@@ -1,30 +1,20 @@
 {
-  "aliases": {},
-  "claims": {
-    "P20": [
+  "aliases": {
+    "en": [
       {
-        "id": "Q86435$91650BB4-802E-4C48-BB85-3CEC325F82FB",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q86437",
-              "numeric-id": 86437
-            }
-          },
-          "hash": "334263dc06d8c0645a76b8176854ca0d44e11f24",
-          "property": "P20",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
+        "language": "en",
+        "value": "Qedar (person)"
+      },
+      {
+        "language": "en",
+        "value": "Qedar  Banu Ismail"
       }
-    ],
+    ]
+  },
+  "claims": {
     "P39": [
       {
-        "id": "Q86435$547BDB22-8F0C-44F2-8A95-716B033AB81E",
+        "id": "Q129387$9444216E-78DD-4C5A-9A9B-EA081DD40C16",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +33,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86435$E3F40138-67A4-401C-BFE8-AACFCBFFDB5A",
+        "id": "Q129387$32C5E5A0-18EB-47EB-AF34-8E54A15DC552",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,19 +54,95 @@
     ],
     "P47": [
       {
-        "id": "Q86435$A0219C71-2E32-4410-8E20-24E4EF902654",
+        "id": "Q129387$E7C7C082-9FF6-43FE-9C96-97CC5CC1F677",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85869",
-              "numeric-id": 85869
+              "id": "Q129307",
+              "numeric-id": 129307
             }
           },
-          "hash": "05c8f06e1afc25bdfa90e70863133a9a69d34f50",
+          "hash": "0b146d69b9fe6d691f99d719e76896de30dbc769",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129387$0BA44406-C126-44FE-B074-D955D4216FD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129387$09BC02B4-63AB-4776-85BE-E9AE4E4E944E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q21087985"
+          },
+          "hash": "711f54eafd015a3fd5c941550ac14692afb31256",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129387$26585CB3-3264-4166-945F-16D9BB2231EB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Qedar (person) Arms.svg"
+          },
+          "hash": "7ad260d4bacf3acf00f7ea31f6bf0357b40e1b42",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q86435$91650BB4-802E-4C48-BB85-3CEC325F82FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86437",
+              "numeric-id": 86437
+            }
+          },
+          "hash": "334263dc06d8c0645a76b8176854ca0d44e11f24",
+          "property": "P20",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -123,42 +189,122 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P55": [
-      {
-        "id": "Q86435$980C4F4A-BC0E-4F73-BE92-8BC15DBE4171",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153718",
-              "numeric-id": 153718
-            }
-          },
-          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
-  "descriptions": {},
-  "id": "Q86435",
-  "labels": {
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أحد أبناء إسماعيل"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava"
+    },
+    "da": {
+      "language": "da",
+      "value": "bibelsk person, søn af Ismael"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Ισμαήλ (βιβλικό πρόσωπο)"
+    },
     "en": {
       "language": "en",
-      "value": "Qedar  Banu Ismail"
+      "value": "human biblical figure (Genesis 25), a second son of Ishmael"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یک پیامبر الهی و جد بزرگ پیامبر اسلام"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית; בנו של ישמעאל בן אברהם"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'e göre İsmail'in oğlu (Yaratılış 25:13)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "以實瑪利的兒子"
     }
   },
-  "lastrevid": 17501245,
-  "modified": "2025-09-16T22:17:02Z",
+  "id": "Q129387",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "قيدار بن إسماعيل"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "قيدار بن اسماعيل"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "قیدار"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quedar"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kédar"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kedar"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κηδάρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Qedar (person)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "قیدار نبی"
+    },
+    "he": {
+      "language": "he",
+      "value": "קדר"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ケダル"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cedar"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kedar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kedar"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kedar"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "قیدار بن اسماعیل"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "基達"
+    }
+  },
+  "lastrevid": 17542407,
+  "modified": "2025-09-17T08:17:52Z",
   "ns": 860,
-  "pageid": 101266,
+  "pageid": 156985,
   "sitelinks": {},
-  "title": "Item:Q86435",
+  "title": "Item:Q129387",
   "type": "item"
 }

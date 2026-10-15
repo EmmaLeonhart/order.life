@@ -4,6 +4,10 @@
       {
         "language": "en",
         "value": "Qedar (person)"
+      },
+      {
+        "language": "en",
+        "value": "Qedar  Banu Ismail"
       }
     ]
   },
@@ -118,6 +122,68 @@
           },
           "hash": "7ad260d4bacf3acf00f7ea31f6bf0357b40e1b42",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q86435$91650BB4-802E-4C48-BB85-3CEC325F82FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86437",
+              "numeric-id": 86437
+            }
+          },
+          "hash": "334263dc06d8c0645a76b8176854ca0d44e11f24",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q86435$3C9BE471-88C0-43BA-A19D-A607925DC53A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4677",
+              "numeric-id": 4677
+            }
+          },
+          "hash": "ec45e0b5243b669e033cd3284fd2b278a14c73e6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86435$42BDE9BC-5F5B-4AA1-8029-CE6D1E941FF9",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Qedar /Banu Ismail/"
+            }
+          },
+          "hash": "942c63d47fe4b0d33d342c0bc4462312b163a55b",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

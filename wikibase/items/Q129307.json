@@ -4,6 +4,10 @@
       {
         "language": "en",
         "value": "Ishmael"
+      },
+      {
+        "language": "en",
+        "value": "Ismail  Ancestor of the Arabs"
       }
     ]
   },
@@ -352,6 +356,25 @@
         },
         "rank": "normal",
         "type": "statement"
+      },
+      {
+        "id": "Q85869$650F75CD-DB72-438C-B1EE-55858CE66F39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4677",
+              "numeric-id": 4677
+            }
+          },
+          "hash": "1b15bf97892ddc4f264fa07a2fc896847dc16dce",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
       }
     ],
     "P47": [
@@ -469,6 +492,26 @@
           },
           "hash": "86d749de3c56c7b2d7ab20ddb03fae69e55eb12d",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q85869$781CEFF1-A732-4C6F-9ECC-CCC3CF6D3940",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ismail /Ancestor of the Arabs/"
+            }
+          },
+          "hash": "b60f4a7961843b95420353af31605c0de184a466",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

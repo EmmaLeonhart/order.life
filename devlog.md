@@ -8324,3 +8324,10 @@ writes a person index in 284 JSON buckets (`wiki-scripts/entity_index.py`, about
 any /wikibase/entity/Q<n> from its bucket: label, dates, parents and children linked the same way, the Gaiad character
 page, Wikidata, Geni. Also drafted `planning/wikidata-property-proposal.md` (an "order.life person ID" property, formatter
 URL that address, examples Muhammad Q65705, Confucius Q30266, Genghis Khan Q37401), for Emma to file herself if she wants.
+
+2026-10-15 13:03 PST: the Ishmael and Qedar merge, approved by Emma ("Yes, run it"). First `cut_edges.py ishmael-sarah` removed the
+false Sarah -> Q85869 mother edge from both sides (Hagar is Ishmael's mother on the survivor); then `merge_cluster.py ishmael`
+folded Q85869 into Ishmael Q129307 and Q86435 into Qedar Q129387, so the 36-generation Banu Ismail chain now hangs off the
+Ishmael of Genesis 25 and his son Qedar. Gates against the pre-merge snapshot: check_invariants PASS (improved:
+dangling_endpoints, children_over_2_parents 1,073); compare_tangles UNCHANGED; compare_depth: no record lost depth, the
+only absences the two merged records.
