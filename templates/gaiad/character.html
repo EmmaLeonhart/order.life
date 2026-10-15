@@ -65,7 +65,11 @@
                 <h3><a href="{{ base }}/gaiad/{{ '%03d' % chapter_num }}/">{{ t.chapter }} {{ chapter_num }}</a></h3>
                 <ul class="passage-lines">
                   {% for line in chapter_passages[chapter_num] %}
+                    {% if line is not string %}
+                    <li><a href="{{ base }}/gaiad/{{ '%03d' % chapter_num }}/#s{{ line[0] }}" class="cite">Gaiad {{ chapter_num }}.{{ line[0] }}</a> {{ line[1] }}</li>
+                    {% else %}
                     <li>{{ line }}</li>
+                    {% endif %}
                   {% endfor %}
                 </ul>
               </div>

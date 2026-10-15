@@ -2332,9 +2332,15 @@ def build_site():
                     if genealogy.get(child):
                         child_urls[child] = f"{base}/gaiad/characters/{child_safe}/"
 
-                # Extract passages from chapters mentioning this character
+                # Passages: the file's citations (Gaiad chapter.stanza, from the entity resolution) when it
+                # has them, with the tags made plain; otherwise the old name search over the chapter lines.
                 chapter_passages = {}
-                for chapter_num in char_data.get("chapters_mentioned_in", []):
+                for c in char_data.get("citations", []):
+                    plain = re.sub(r'\{\{[cpx]\|(?:[^}|]*\|)?([^}|]+)\}\}', r'\1', c["line"])
+                    pair = (c["stanza"], plain)
+                    if pair not in chapter_passages.setdefault(c["chapter"], []):
+                        chapter_passages[c["chapter"]].append(pair)
+                for chapter_num in ([] if chapter_passages else char_data.get("chapters_mentioned_in", [])):
                     chapter_file = EPIC_DIR / f"chapter_{chapter_num:03d}.md"
                     if chapter_file.exists():
                         try:

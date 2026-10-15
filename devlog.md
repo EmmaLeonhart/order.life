@@ -8266,3 +8266,7 @@ Great is not among the six records labelled "Alexander"). Step 3: `Gaiad/scripts
 children from the graph (Noah = Q70439 with Lamech, Bat-Enosh, Ham, Japheth); 7 are shared by several people and
 carry no family links (Muhammad: Q65705 and Q66641), so different people are not merged; 3,576 keep citations only.
 Every file now lists its citations as chapter, stanza and line. No tag changed.
+
+2026-10-15 06:00 PST: entity resolution step 4: character pages quote from the files' citations, each line labelled
+"Gaiad N.S" and linked to its stanza (/gaiad/NNN/#sS), with the tags made plain (they used to show raw {{c|...}}).
+Files without citations keep the old name search.
