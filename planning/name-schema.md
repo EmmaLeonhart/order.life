@@ -44,6 +44,14 @@ ancestor", pre-human organisms included. "It feels superficially extremely indiv
    to Aster (Q1) or Andromeda (Q3) in the order.life graph decides whether the first link is a father
    (patronymic) or a mother (matronymic). Ties keep the parent on the line already used by that
    person's children, so a family stays consistent. Emma's own (Q2) goes through her mother, as she said.
+   *As built (2026-10-15, `wiki-scripts/canonical_line.py` → `wikibase/analysis/canonical_line.tsv`):* ties
+   between two equally near parents go to the one nearer both roots, then to the mother (3,488 ties).
+   People with no route to either root fall back to the parent with the larger known ancestry ("load-bearing"
+   means depth upward, `CLAUDE.md`), then the mother. Emma's line is an override from her words, because
+   her parents here are placeholders. Result over 106,761 records: 34,392 by father and 13,074 by mother on
+   a real line to Aster or Andromeda; 35,567 father and 6,261 mother by fallback; 16,924 with no parent.
+   A line reaching Aster is not a narrative line (`CLAUDE.md`, "Reaches Q1 Aster: True is not a result"):
+   this decides a name piece, not a story.
 
 ## GEDCOM
 
