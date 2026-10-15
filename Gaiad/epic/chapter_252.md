@@ -5,14 +5,14 @@ Now seal the book.
                    No--the book was never sealed.
 The book was always open. The book was written
 In the corn and in the council fire, revealed
-In every language the Creator had smitten
+In every language the {{c|Creator}} had smitten
 
 Into being on this continent of tongues--
 Three hundred families of speech, a thousand
 Languages that named the world, the lungs
 Of a hemisphere breathing the thousand
 
-Names of God that no one needed to translate
+Names of {{c|God}} that no one needed to translate
 Because the rivers spoke them and the mountains
 Held them in their granite and the weight
 Of ten thousand years of prayer at the fountains
@@ -24,19 +24,19 @@ This was always the book.
 {{p|New York}}, declared that if you look
 Into a hat--a common hat--the fire of
 
-God would show you golden plates
+{{c|God}} would show you golden plates
 Buried in a hillside by an ancient prophet,
-Written in "Reformed Egyptian," the fates
+Written in "{{x|Reformed Egyptian}}," the fates
 Of a lost tribe of {{p|Israel}}--and the profit
 
 Of the revelation was a scripture
 That explained, at last, who the {{c|Indians}} were:
 They were {{c|Lamanites}}--a picture
-Of the cursed, the dark-skinned, those whom God would stir
+Of the cursed, the dark-skinned, those whom {{c|God}} would stir
 
 To savagery because their fathers sinned.
 {{c|Nephi}} sailed from {{p|Jerusalem}}. The story
-Of a Hebrew family on the wind
+Of a {{x|Hebrew}} family on the wind
 Of the {{p|Atlantic}}--the obligatory
 
 Fantasy of every {{c|European}} who could not
@@ -44,7 +44,7 @@ Accept that this continent's peoples were their own
 Creation, their own genius, their own plot
 Of sacred history, their own flesh and bone
 
-Descended from no Middle Eastern shore
+Descended from no {{x|Middle Eastern}} shore
 But from the ice-bridge walkers, from the coast
 Of {{p|Beringia}}, from the ancient core
 Of a migration older than the boast
@@ -62,14 +62,14 @@ Of eleven witnesses who would fill
 
 Their names upon the page, declaring they
 Had seen the plates, had hefted them, had heard
-The voice of God--and in this way
+The voice of {{c|God}}--and in this way
 The continent's own history was blurred
 
-And overwritten by a Hebrew ghost.
+And overwritten by a {{x|Hebrew}} ghost.
 
 In that same year--eighteen-thirty--the {{c|American}}
 Congress passed the act that mattered most:
-The Indian Removal Act. The plan
+The {{x|Indian Removal Act}}. The plan
 
 Of {{c|Andrew Jackson}}--{{c|Sharp Knife}}, the {{c|Cherokee}} called him,
 The man who had already devoured
@@ -78,7 +78,7 @@ Who had conquered {{p|Florida}} and towered
 
 Above the ruin of every treaty signed--
 Now held the presidency, and the weight
-Of the Republic's westward hunger, refined
+Of the {{c|Republic}}'s westward hunger, refined
 To a single policy, a single fate:
 
 Remove them all.
@@ -93,8 +93,8 @@ Town with its elected council, every {{c|Creek}}
 Who had rebuilt from {{c|Jackson}}'s earlier war--
 Move west. The east is for the meek
 
-And pale inheritors of a Promised Land
-That God--the {{c|European}} God--had set aside
+And pale inheritors of a {{p|Promised Land}}
+That {{c|God}}--the {{c|European}} {{c|God}}--had set aside
 For the {{c|American}} republic's hand
 To cultivate. The darker peoples ride
 
@@ -115,7 +115,7 @@ Of governance could offer--fought the way
 
 The {{c|Cherokee}} had always fought since {{c|Sequoyah}}:
 With law, with language, with the written word.
-He brought the case to the Supreme Court's playa
+He brought the case to the {{x|Supreme Court}}'s playa
 Of jurisprudence, and the nation heard
 
 The argument: the {{c|Cherokee}} were sovereign.
@@ -125,14 +125,14 @@ Had recognized by treaty. The command
 
 Of {{p|Georgia}}'s legislature to dissolve
 The {{c|Cherokee}} government and seize the soil
-Was void--the Constitution would resolve
+Was void--the {{x|Constitution}} would resolve
 The question in the {{c|Cherokee}}'s favor, the foil
 
 Of states' rights against the treaty's sacred bond.
 
-And {{c|John Marshall}} ruled. The Chief Justice found
+And {{c|John Marshall}} ruled. The {{c|Chief Justice}} found
 That {{p|Georgia}}'s laws were void--the wand
-Of the Constitution's supremacy, the ground
+Of the {{x|Constitution}}'s supremacy, the ground
 
 Of {{c|Worcester}} versus {{p|Georgia}}: the {{c|Cherokee}}
 Were a sovereign nation, and the {{c|American}} state
@@ -149,11 +149,11 @@ Of the republic's highest vision
 
 Reduced to a bully's sneer, the law
 Of the land discarded by the land's elected king--
-For what was a Constitution's awe
+For what was a {{x|Constitution}}'s awe
 Against the settler's hunger and the ring
 
 Of gold discovered in the {{c|Cherokee}} hills?
-The Court had spoken. The President refused.
+The {{x|Court}} had spoken. The {{c|President}} refused.
 And in that refusal, the republic kills
 The principle that its founders had enthused
 
@@ -192,7 +192,7 @@ Into the stockades, where the filthy floor
 Of the concentration camps awaited them.
 They were allowed to carry nothing. The homes
 They had built, the orchards, the literary gem
-Of the {{c|Cherokee}} Phoenix, the chromosomes
+Of the {{c|Cherokee}} {{x|Phoenix}}, the chromosomes
 
 Of a civilization encoded in their schools
 And courts and churches--left behind for the white
@@ -208,13 +208,13 @@ They could recite.
 
                    And here the bitter symmetry:
 
-In the very year the Indian Removal Act was signed,
+In the very year the {{x|Indian Removal Act}} was signed,
 {{c|Joseph Smith}}'s new scripture, the epitome
 Of the colonizer's imagination, outlined
 
 A history of {{c|America}} in which the {{c|Indians}}
 Were fallen {{c|Israelites}} awaiting redemption
-By the {{c|European}} Christ--the {{c|Lamanite}} meridians
+By the {{c|European}} {{c|Christ}}--the {{c|Lamanite}} meridians
 Of a theology that granted the exemption
 
 Of genocide: for if the {{c|Indians}} were merely
@@ -222,7 +222,7 @@ The degenerate remnant of a {{c|Hebrew}} line,
 Then their destruction mattered less severely--
 They were not a civilization but a sign
 
-Of God's displeasure, a curse made flesh and brown,
+Of {{c|God}}'s displeasure, a curse made flesh and brown,
 A people who had fallen from the grace
 Of the {{c|Nephite}} covenant--and the renown
 Of their actual history could be replaced
@@ -241,13 +241,13 @@ And triumphs of a continent's own heart--
 
 Overwritten by the fantasy of {{c|Nephi}},
 Replaced by the hallucination of a farm boy
-Who could not read Egyptian, could not see the
+Who could not read {{x|Egyptian}}, could not see the
 Living peoples as anything but a ploy
 
 Of biblical theology, a footnote
 In the {{c|Israelite}} drama, a supporting cast
 Of cursed and darkened skin--the scapegoat
-Of a {{c|European}} God whose unsurpassed
+Of a {{c|European}} {{c|God}} whose unsurpassed
 
 And merciless imagination could not grant
 The {{c|Americans}}--the real {{c|Americans}}, the first--
@@ -256,20 +256,20 @@ Their own covenant with the earth that nursed
 
 Them into being.
 
-                  The Book of {{c|Mormon}} said:
+                  The {{x|Book}} of {{c|Mormon}} said:
 The {{c|Lamanites}} would one day be redeemed,
 Would become "white and delightsome," the thread
 Of their curse reversed--and the {{c|Mormons}} deemed
 
 Themselves the agents of this bleaching grace.
-They sent their missionaries to the Trail
+They sent their missionaries to the {{x|Trail}}
 Of Tears itself--to the dispossessed, the race
 Of the removed--and offered them the pale
 
 And specious comfort of a revelation
 That explained their suffering as deserved:
 You are cursed because your ancient nation
-Rejected Christ--the punishment preserved
+Rejected {{c|Christ}}--the punishment preserved
 
 Across the centuries in your darkened skin.
 
@@ -287,7 +287,7 @@ Of a theology that blesses the thief
 And curses the robbed.
 
                         But this book you hold--
-This Gaiad, this record of the leaf
+This {{x|Gaiad}}, this record of the leaf
 And the branch and the root and the manifold
 
 And magnificent history of the peoples
@@ -295,7 +295,7 @@ Of this hemisphere--this is the unsealed book.
 Not the golden plates beneath the steeples
 Of a {{p|Palmyra}} church, not the mistook
 
-And fraudulent "Reformed Egyptian" text,
+And fraudulent "{{x|Reformed Egyptian}}" text,
 But the actual record: the migration
 From {{p|Beringia}}, the first and the next
 And the ten-thousandth generation
@@ -305,14 +305,14 @@ Built its mounds and cities, tracked its stars,
 Grew its corn and spoke its prayers--the giver
 Of civilization's oldest memoirs.
 
-The Gaiad is the book that was always open.
-The Gaiad is the record that was never lost.
-The Gaiad holds the names the colonizer had broken
+The {{x|Gaiad}} is the book that was always open.
+The {{x|Gaiad}} is the record that was never lost.
+The {{x|Gaiad}} holds the names the colonizer had broken
 And the stories that the colonizer glossed
 
-With Hebrew fantasies and Christian guilt.
+With {{x|Hebrew}} fantasies and {{x|Christian}} guilt.
 
-Here ends the Book of {{c|Lehi}}--not the {{c|Lehi}}
+Here ends the {{x|Book}} of {{c|Lehi}}--not the {{c|Lehi}}
 Of {{c|Smith}}'s invention, not the stilt
 And scaffolding of a false prophecy,
 
@@ -329,11 +329,11 @@ And a fullness and a holy stage
 Where ten thousand years of human prayer
 Had consecrated every stone and spring.
 
-The Trail of Tears is the colonizer's snare.
-The Book of {{c|Mormon}} is the colonizer's ring
+The {{x|Trail of Tears}} is the colonizer's snare.
+The {{x|Book}} of {{c|Mormon}} is the colonizer's ring
 
 Of false authority upon the hand
-That signed the Indian Removal Act.
+That signed the {{x|Indian Removal Act}}.
 But the peoples endure. The peoples stand.
 The real record is intact.
 
@@ -343,7 +343,7 @@ Remember {{c|Sequoyah}} and the flame
 Of every council fire from {{p|Cusco}} to {{p|Manitou}}.
 
 Remember the {{c|Guarani}} violins.
-Remember the {{c|Haudenosaunee}} Law.
+Remember the {{c|Haudenosaunee}} {{x|Law}}.
 Remember {{c|Little Turtle}}'s discipline.
 Remember {{c|Osceola}} and the raw
 
@@ -352,9 +352,9 @@ Remember the children in the {{p|Mississippi}}'s current.
 Remember the {{c|Choctaw}} chief who called it the stomp
 And trail of tears, whose words are the deterrent
 
-Against forgetting. Remember the {{c|Cherokee}} Phoenix.
-Remember {{c|John Ross}} and the Court that ruled
-For justice--and the President whose cynics
+Against forgetting. Remember the {{c|Cherokee}} {{x|Phoenix}}.
+Remember {{c|John Ross}} and the {{x|Court}} that ruled
+For justice--and the {{c|President}} whose cynics
 And whose cruelty overruled.
 
 The book is sealed--no. The book is never sealed.
@@ -370,5 +370,5 @@ Of every nation rises in the mystique
 Of the word that refuses to be lost.
 
 Honor them all. Honor the cost.
-The Book of {{c|Lehi}} ends. The record stands.
+The {{x|Book}} of {{c|Lehi}} ends. The record stands.
 The continent remembers. Hold it in your hands.

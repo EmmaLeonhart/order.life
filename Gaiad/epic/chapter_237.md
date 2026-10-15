@@ -18,14 +18,14 @@ Before the present day, the {{c|Thule}} strode
 Across the top of the world, the frontiers
 
 Of ice and wind and the perpetual night
-Of Arctic winter holding no more fear
+Of {{p|Arctic}} winter holding no more fear
 For them than the savanna's noonday light
 Held for the peoples of the warmer sphere—
 
 For the {{c|Thule}} had mastered the impossible.
 
 The kayak—the skin-and-bone invention
-That made the Arctic sea accessible,
+That made the {{p|Arctic}} sea accessible,
 The single-seated craft whose tension
 
 Of walrus-hide stretched over driftwood frame
@@ -39,7 +39,7 @@ Rolled the kayak over, the {{c|Thule}} plan
 Was not to drown but to behave
 
 As the water wished, and roll back up—
-The Eskimo roll, the first and finest
+The {{c|Eskimo}} roll, the first and finest
 Marriage of the body to the cup
 Of the killing sea, the divinest
 
@@ -71,7 +71,7 @@ Of human and canine, the thread
 
 Of ten thousand years of domestication
 Brought to its most essential test:
-Without the dog, no Arctic habitation
+Without the dog, no {{p|Arctic}} habitation
 Was possible—the dog was the expressed
 
 And living engine of the {{c|Thule}} world.
@@ -114,7 +114,7 @@ Of bone that framed the house when damp
 And driftwood failed, the baleen's springy plate
 That served as every tool the {{c|Thule}} lacked
 In metal—the whale was the estate
-Upon which the Arctic civilization's pact
+Upon which the {{p|Arctic}} civilization's pact
 
 With the frozen ocean was secured.
 
@@ -127,7 +127,7 @@ The head that turns beneath the blubber's mass
 And holds, the float of sealskin that the smart
 And patient hunter pays out on the glass
 
-Of Arctic water while the whale dives deep
+Of {{p|Arctic}} water while the whale dives deep
 And tires—and surfaces—and tires again—
 Until the great beast, robbed of sleep
 And blood, succumbs, and the domain
@@ -136,7 +136,7 @@ Of one whale's body feeds the waiting shore.
 
 And as they swept—from {{p|Alaska}} east,
 The {{c|Thule}} people opened door by door
-The Arctic's frozen corridor, the feast
+The {{p|Arctic}}'s frozen corridor, the feast
 
 Of new waters and new hunting grounds:
 The {{p|Beaufort Sea}}, the {{p|Archipelago}}'s maze
@@ -164,7 +164,7 @@ And the organized and collective will
 Of the whale-hunt's crew, the {{c|Dorset}} froze
 
 Into the margins, into the memory
-Of the {{c|Inuit}} who call them Tunit—
+Of the {{c|Inuit}} who call them {{c|Tunit}}—
 The gentle giants of the promontory,
 The old ones who were strong but could not fit
 
@@ -172,7 +172,7 @@ The new world's pace—and vanished from the ice.
 
 Honor the {{c|Thule}}—the last great migration,
 The final wave that paid the price
-Of the Arctic's impossible invitation
+Of the {{p|Arctic}}'s impossible invitation
 
 And accepted it—who built the kayak's shell,
 Who trained the dog, who spiraled snow to dome,

@@ -6,8 +6,8 @@ Could smell the land before the land displayed
 Itself—the scent of pine, the unexplored
 
 And resinous perfume of a forest
-That no European axe had touched,
-No European fire had dispossessed
+That no {{c|European}} axe had touched,
+No {{c|European}} fire had dispossessed
 Of its ancient growth—and the first who clutched
 
 The prow and peered into the mist was {{c|Leif}},
@@ -24,7 +24,7 @@ Was never final for the {{c|Norse}}.
 
                                      The year
 Was one thousand of the common count—
-Or near enough—and {{c|Bjarni}} Herjulfsson's clear
+Or near enough—and {{c|Bjarni}} {{c|Herjulfsson}}'s clear
 Report of land beyond the westward fount
 
 Of ocean had reached {{c|Leif}}'s ambitious ear:
@@ -37,7 +37,7 @@ That {{c|Leif Erikson}} would cross.
 
                                       He sailed—
 With thirty-five companions, and the grace
-Of the North Atlantic's autumn winds prevailed
+Of the {{p|North Atlantic}}'s autumn winds prevailed
 
 And brought them first to {{p|Helluland}}—the slab-
 Stone coast, the barren, flat, and glacial shore
@@ -88,7 +88,7 @@ The {{c|Skraelings}}—the strangers, the unknowns,
 The people of the coast whose silhouette
 
 Against the treeline was the first encounter
-Of the European and the American world—
+Of the {{c|European}} and the {{c|American}} world—
 A meeting not of conquest but of counter
 And exchange: the red cloth unfurled
 
@@ -103,7 +103,7 @@ But here, in this first meeting, the offense
 Was answered: the {{c|Skraelings}} returned to share
 
 Their arrows, and {{c|Thorvald}} fell—the first
-European killed by American hands,
+{{c|European}} killed by {{c|American}} hands,
 The first blood of the long and cursed
 Transaction between the old and the new lands.
 
@@ -124,7 +124,7 @@ And the longhouse timbers rotted in the sod,
 And the continent returned to the track
 Of its own history, unaware that the prod
 
-Of the European future had already touched its shore.
+Of the {{c|European}} future had already touched its shore.
 
 This was not the conquest—not the plague,
 Not the cross and sword—this was the door

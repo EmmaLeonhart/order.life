@@ -1,7 +1,7 @@
 # Chapter 269: The Sky Opens
 
 In 1608 a spectacle-maker in {{p|Middelburg}}, in {{p|Zeeland}},
-{{c|Hans Lipperhey}}, asked the States for a patent on a tube
+{{c|Hans Lipperhey}}, asked the {{c|States}} for a patent on a tube
 With two lenses that made far things near. The steeple, and
 The weathercock on it, across the town, came close. A cube
 
@@ -23,7 +23,7 @@ Of perfect lights, crystalline, unchanging, flat
 Against the dark, opened. The {{c|Moon}} had mountains.
 He saw their shadows lengthen at the edge of the light,
 And measured them, and they were higher than the fountains
-Of the Alps: a world, rough, like ours. The night
+Of the {{p|Alps}}: a world, rough, like ours. The night
 
 Of the seventh of January, 1610, he looked at {{c|Jupiter}}
 And saw three little stars beside it in a line,
@@ -31,17 +31,17 @@ And the next night they had moved, and the night after, the cluster
 Had changed again, and a fourth appeared, and the sign
 
 Was clear: they were going around {{c|Jupiter}}. Moons.
-Something in the sky that did not go around the Earth.
+Something in the sky that did not go around the {{p|Earth}}.
 The {{c|Milky Way}} was not a mist: it was stars, in dunes
 And drifts beyond counting, more than had ever had birth
 
 In any catalogue. In March he printed it all in a little book,
-*The Starry Messenger*, in {{p|Venice}}, and named the moons
+*The {{x|Starry Messenger}}*, in {{p|Venice}}, and named the moons
 For the {{c|Medici}}, and got a post in {{p|Florence}} for the look.
-And later the phases of {{c|Venus}}, like the Moon's, the tunes
+And later the phases of {{c|Venus}}, like the {{x|Moon}}'s, the tunes
 
-Of a planet going round the Sun, as {{c|Copernicus}} had said.
-And spots on the Sun itself: the perfect heaven had stains.
+Of a planet going round the {{x|Sun}}, as {{c|Copernicus}} had said.
+And spots on the {{x|Sun}} itself: the perfect heaven had stains.
 The sky was not another kind of stuff. It was made
 Of world. The same world. Rock and fire and the rains
 
@@ -51,14 +51,14 @@ And see it. The authority of the book was hooked
 And pulled out of the sky. And that was the hour
 
 The trouble came. In 1616 he was warned not to hold
-That the Earth moves. In 1632 he wrote a dialogue
+That the {{p|Earth}} moves. In 1632 he wrote a dialogue
 In which the defender of the old sky was a fool, and old,
-And the Pope thought the fool was the Pope. The fog
+And the {{c|Pope}} thought the fool was the {{c|Pope}}. The fog
 
 Of the trial in 1633: an old man of sixty-nine
 In the white shirt of a penitent, on his knees,
-Abjuring, cursing and detesting the motion of the Earth, the line
-Read out in Latin. The story says he rose, and the breeze
+Abjuring, cursing and detesting the motion of the {{p|Earth}}, the line
+Read out in {{x|Latin}}. The story says he rose, and the breeze
 
 Of the last word was: *and yet it moves*. He did not say it,
 Or not there. It was said for him, later, as the printers said
@@ -66,14 +66,14 @@ Or not there. It was said for him, later, as the printers said
 Be told: under house arrest at {{p|Arcetri}}, blind, he fed
 
 On the work, and wrote his greatest book, on motion,
-Smuggled out to {{p|Leiden}} and printed by the Dutch,
+Smuggled out to {{p|Leiden}} and printed by the {{c|Dutch}},
 And died in 1642, the year, as if by a notion
 Of the sky's own, that {{c|Newton}} was born. And as much
 
 As this chapter is about a lens, it is about a sorry.
-On the Seventh Day of Awe: in 1992, after a commission
-Of thirteen years, a Pope stood up, and without hurry,
-Said the Church had erred. Three hundred fifty-nine years. The admission
+On the {{x|Seventh Day of Awe}}: in 1992, after a commission
+Of thirteen years, a {{c|Pope}} stood up, and without hurry,
+Said the {{x|Church}} had erred. Three hundred fifty-nine years. The admission
 
 Came. Late, and it came. That is what repentance can look like
 For an institution: slow, and true, and in public, and owned.

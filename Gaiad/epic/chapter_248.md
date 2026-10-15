@@ -137,11 +137,11 @@ And strategist of the revolt--among
 The crowd that wept. They killed his son before
 His eyes. They tied his limbs to four horses
 And tried to pull him apart--but the core
-Of his body held, as if the Andean forces
+Of his body held, as if the {{x|Andean}} forces
 
 Of the mountain stone had fused within his frame,
 And the horses strained and could not tear
-The Inca's body from the Inca's name--
+The {{c|Inca}}'s body from the {{c|Inca}}'s name--
 Until the axe completed what despair
 
 And horsepower could not do alone.
@@ -164,7 +164,7 @@ In {{p|Bolivia}} the fire leapt among
 The {{c|Aymara}} highlands, and the prophecy
 
 Wore a new name: {{c|Tupac Katari}}--
-Julian Apaza, who took his title from
+{{c|Julian Apaza}}, who took his title from
 Two thunderbolts: {{c|Tupac Amaru}}'s rally
 And {{c|Tomas Katari}}'s martyrdom--
 

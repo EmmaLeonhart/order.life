@@ -79,7 +79,7 @@ Were a literate nation. The pioneers
 Of their own modernity, the foray
 
 Into the written word was not surrender
-But transformation: the {{c|Cherokee}} Phoenix
+But transformation: the {{c|Cherokee}} {{x|Phoenix}}
 Rose in eighteen-twenty-eight, the tender
 And defiant newspaper that links
 
@@ -89,8 +89,8 @@ Its columns carried the {{c|Cherokee}}'s glint
 Of sovereign identity--the knot
 
 Of a language written in its own script,
-A thing that no other Indigenous nation
-Of the Americas had accomplished, equipped
+A thing that no other {{c|Indigenous}} nation
+Of the {{p|Americas}} had accomplished, equipped
 By the genius of a single man's creation.
 
 And they built a government. The {{c|Cherokee}}
@@ -115,13 +115,13 @@ Established farms that rivaled, at that stage,
 The plantations of their {{c|American}} neighbor's law.
 
 The {{c|Creek}} rebuilt after the devastation
-Of the Red Stick War--{{c|Andrew Jackson}}'s first
-Campaign of Indigenous elimination,
+Of the {{x|Red Stick War}}--{{c|Andrew Jackson}}'s first
+Campaign of {{c|Indigenous}} elimination,
 Where he had used the {{c|Creek}} allies' thirst
 
 For peace against the {{c|Creek}} resisters, then
 Punished ally and enemy alike
-With the Treaty of {{p|Fort Jackson}}'s pen
+With the {{x|Treaty}} of {{p|Fort Jackson}}'s pen
 That seized twenty-three million acres--the strike
 
 Of a rattlesnake that bites the hand that feeds.
@@ -186,7 +186,7 @@ Who forged a syllabary that unfetters
 
 The {{c|Cherokee}} voice from the tyranny of silence
 And the colonizer's monopoly on the page.
-Honor the {{c|Cherokee}} Phoenix, whose defiance
+Honor the {{c|Cherokee}} {{x|Phoenix}}, whose defiance
 In print was the most civilized outrage
 
 That any nation offered any empire--

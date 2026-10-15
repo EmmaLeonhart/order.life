@@ -17,11 +17,11 @@ Every hunting ground cut short
 By the fence, the cow, the freight
 
 Of the ever-arriving {{c|English}} and their claim
-That God had emptied this land for them—
+That {{c|God}} had emptied this land for them—
 That the plague itself was the righteous flame
-Of Providence clearing {{p|Jerusalem}}
+Of {{x|Providence}} clearing {{p|Jerusalem}}
 
-For the chosen, and the {{c|Indian}} was the Canaanite
+For the chosen, and the {{c|Indian}} was the {{c|Canaanite}}
 Whose dispossession was divine command.
 
 {{c|Metacom}} watched. By sixteen-seventy-five,
@@ -77,7 +77,7 @@ And greens from the {{p|Connecticut}} to the coast.
 
 The {{c|English}} had never known such war—
 Per capita, no conflict's host
-In American history killed more:
+In {{c|American}} history killed more:
 
 One in ten colonists dead or displaced,
 And the {{c|Indigenous}} losses deeper still—
@@ -116,7 +116,7 @@ Between the forest and the blades
 
 Of an enemy who knew every trail,
 Every ford, every ambush-hollow—
-And the Massachusetts {{c|English}} turned pale
+And the {{p|Massachusetts}} {{c|English}} turned pale
 At the prospect that {{p|Boston}} might follow
 
 {{p|Springfield}} into the ash.

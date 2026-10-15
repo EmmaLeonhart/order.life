@@ -34,7 +34,7 @@ Of a covenant that held the wolves at bay.
 They built in stone. They carved the saints with hands
 That knew the forest's older gods by name,
 And in the baroque facades of mission lands
-The jaguar's eye peered through the Christian frame.
+The jaguar's eye peered through the {{x|Christian}} frame.
 
 They played the violin. The {{c|Guarani}}
 Whose ancestors had sung to forest spirits
@@ -65,7 +65,7 @@ For a hundred and fifty years the missions stood.
 
                                                   Then came
 The diplomats, the men who drew the lines
-On maps they'd never walked--the Treaty's claim
+On maps they'd never walked--the {{x|Treaty}}'s claim
 That bore the name of {{p|Madrid}}: the signs
 
 And signatures of seventeen-fifty
@@ -92,9 +92,9 @@ Rose from the mission of {{p|Sao Miguel}} to defend
 What no treaty signed in {{p|Europe}} could undo--
 
 A warrior who spoke with a prophet's fire:
-"This land God gave to us. No king may sell
-What the Creator granted. We require
-No European license here to dwell."
+"This land {{c|God}} gave to us. No king may sell
+What the {{c|Creator}} granted. We require
+No {{c|European}} license here to dwell."
 
 And so the war began--the {{c|Guarani}}
 With bows and arrows, clubs and faith and rage,

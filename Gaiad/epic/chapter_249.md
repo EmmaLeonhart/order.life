@@ -10,12 +10,12 @@ Was a labyrinth of shadow, root, and freeze
 Of winter streams--the {{c|Miami}} and the {{c|Shawnee}},
 The {{c|Delaware}} and {{c|Wyandot}} and {{c|Ottawa}},
 The {{c|Ojibwe}} and {{c|Potawatomi}}'s brawny
-Confederation--rose against the law
+{{c|Confederation}}--rose against the law
 
 Of the new republic's hunger for the ground
 Beneath their feet.
 
-                     The Treaty of {{p|Paris}} gave
+                     The {{x|Treaty}} of {{p|Paris}} gave
 The {{c|Americans}} a line drawn and unwound
 Across the map--the {{p|Ohio}}'s wave
 
@@ -41,8 +41,8 @@ In {{c|Shawnee}} and in {{c|Miami}}--the same
 Hunger that had broken down the door
 
 Of every eastern nation now pressed west
-With the weight of a Republic's manifest
-And God-anointed greed.
+With the weight of a {{c|Republic}}'s manifest
+And {{c|God}}-anointed greed.
 
                          They met the best
 Military mind the continent possessed.
@@ -74,7 +74,7 @@ The muskets and the powder and the word
 Of encouragement from the imperial side
 That had lost the war but still preferred
 
-The Indigenous wall between the American flood
+The {{c|Indigenous}} wall between the {{c|American}} flood
 And the fur-trade empire of the northern lakes.
 
 In seventeen-ninety, {{c|Harmar}} marched through mud
@@ -98,7 +98,7 @@ Humiliation, then the long retreat alone
 Back to {{p|Fort Washington}} with the dead
 Left rotting on the trail.
 
-                            The Republic burned
+                            The {{c|Republic}} burned
 With shame. And sent a larger force--{{c|St. Clair}},
 The governor, the general who had learned
 
@@ -134,19 +134,19 @@ On a packhorse, gout-ridden and disgraced--
 The worst defeat the {{c|American}} army gaped
 At in its history, the taste
 
-Of Indigenous military genius on the tongue
+Of {{c|Indigenous}} military genius on the tongue
 Of a nation that would spend two centuries
 Denying that such genius could have sprung
 From the peoples it was determined to seize.
 
-The Republic reeled. But the Republic had
+The {{c|Republic}} reeled. But the {{c|Republic}} had
 What the confederacy did not: the endless
 Reserve of men and money, the iron-clad
 And industrial patience of a nation's relentless
 
 Capacity to absorb defeat and return.
 
-{{c|Anthony Wayne}}--"Mad Anthony"--was sent
+{{c|Anthony Wayne}}--"{{c|Mad Anthony}}"--was sent
 With a disciplined and drilled army to burn
 What {{c|Little Turtle}} had built. He spent
 
@@ -209,7 +209,7 @@ The genius of the forest, whose refined
 And devastating art of war could draw a
 
 Nation to its knees, who gave the young
-Republic its worst defeat and proved
+{{c|Republic}} its worst defeat and proved
 That the forest was not empty, that the tongue
 Of every creek and ridge had moved
 
@@ -225,5 +225,5 @@ That burned the confederacy. But the histories
 
 Remember what the treaty tried to erase:
 That the greatest military mind that ever fought
-Upon this continent wore an Indigenous face,
+Upon this continent wore an {{c|Indigenous}} face,
 And the forest speaks the lesson that he taught.

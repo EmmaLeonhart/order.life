@@ -89,7 +89,7 @@ And {{c|Moctezuma}} hesitated.
 Was this {{c|Quetzalcoatl}} returned from the shelf
 Of the eastern sea? The long-awaited
 
-Feathered Serpent's prophesied return?
+{{c|Feathered Serpent}}'s prophesied return?
 Or was this merely one more ambassador
 From a distant lord? The concern
 Of the emperor was the corridor
@@ -97,7 +97,7 @@ Of the emperor was the corridor
 Between theology and statecraft—
 And while he weighed the omens and the signs,
 {{c|Cortés}} advanced, and the shaft
-Of European purpose crossed the lines
+Of {{c|European}} purpose crossed the lines
 
 Of {{c|Mexica}} diplomacy like a blade
 Through silk.
@@ -112,7 +112,7 @@ Of the unwashed conquistador's malaise,
 His handful of adventurers, weak
 
 In number but armored in the certainty
-That God and gold were the same pursuit.
+That {{c|God}} and gold were the same pursuit.
 
 And then—the massacre. The {{c|Noche Triste}}'s
 Rout through the causeways, the absolute

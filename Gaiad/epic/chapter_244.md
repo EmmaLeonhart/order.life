@@ -107,7 +107,7 @@ Time in eighty years.
                          And {{c|Popé}} ordered the undoing.
 
 Wash off the baptism in the river.
-Take the Christian name and the accruing
+Take the {{x|Christian}} name and the accruing
 Of the foreign saint and deliver
 
 It to the water's current—take back
@@ -163,7 +163,7 @@ The {{c|Pueblo}} kept their prayers, their skies,
 Their gods—the ostensible
 
 Conversion was the surface, and beneath
-The Christian altar and the {{c|Franciscan}}'s chant,
+The {{x|Christian}} altar and the {{c|Franciscan}}'s chant,
 The kachina danced, and the wreath
 Of the corn-prayer rose from the suppliant
 

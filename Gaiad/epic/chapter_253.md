@@ -50,24 +50,24 @@ Of the fisherman became a basilica of gold.
 And four hundred years later, in some room,
 A forger wrote that {{c|Constantine}} had sold--
 
-No, given--the whole West to {{c|Sylvester}}'s chair.
-The Donation. A lie that held a continent
+No, given--the whole {{p|West}} to {{c|Sylvester}}'s chair.
+The {{x|Donation}}. A lie that held a continent
 For seven hundred years, until {{c|Valla}} laid it bare
-By its bad Latin. Remember what the forgers meant.
+By its bad {{x|Latin}}. Remember what the forgers meant.
 
 {{c|Damasus}}, who set {{c|Jerome}} to make one book
-In the tongue of the street, the Vulgate. {{c|Leo}} the Great,
+In the tongue of the street, the {{x|Vulgate}}. {{c|Leo}} the Great,
 Who rode out to the {{p|Mincio}}, and the look
 Of him turned {{c|Attila}} back from the gate.
 
 {{c|Gregory}}, who called himself the servant
-Of the servants of God, and sent a monk to {{p|Kent}}.
-And {{c|Leo III}}, on Christmas Day, observant
+Of the servants of {{c|God}}, and sent a monk to {{p|Kent}}.
+And {{c|Leo III}}, on {{x|Christmas Day}}, observant
 Of nothing but the crown, who stood and bent
 
 Over {{c|Charlemagne}} at prayer in {{p|Saint Peter's}}
 And set a crown on him that he had not asked for,
-Emperor of the Romans. Nearly every reader
+Emperor of the {{c|Romans}}. Nearly every reader
 Born of {{p|Europe}} descends from him. The door
 
 Of every lineage in {{p|Europe}} opens there.
@@ -75,7 +75,7 @@ Then the dark years. Listen to the dark.
 {{c|Formosus}}, dug up, propped up in the chair,
 Dressed in his robes, a deacon set to bark
 
-His answers for him at the Cadaver Synod.
+His answers for him at the {{x|Cadaver Synod}}.
 Condemned, his blessing fingers cut away,
 Thrown in the {{p|Tiber}}. And the bishops nodded.
 And then the house of {{c|Theophylact}} held sway.
@@ -96,34 +96,34 @@ Say so plainly: the chair the church endows
 With heaven was a family's for a time. Then dust,
 
 Then reform. {{c|Sylvester II}}, {{c|Gerbert}},
-Who brought the Arab numerals to the West,
+Who brought the {{x|Arab}} numerals to the {{p|West}},
 The abacus, the astrolabe, the expert
 Of the year one thousand, when they guessed
 
 The world would end, and it did not end.
 Then 1054: the legates at the altar
 Of {{p|Hagia Sophia}} in {{p|Istanbul}} send
-A bull of excommunication. East and West would falter
+A bull of excommunication. {{p|East}} and {{p|West}} would falter
 
 Apart and never close. {{c|Gregory VII}},
 And the king {{c|Henry}}, barefoot in the snow
 Three days at {{p|Canossa}}, begging to be forgiven,
 And the pope who made him wait, and let him go.
 
-{{c|Urban}} at {{p|Clermont-Ferrand}}: God wills it. The cross
+{{c|Urban}} at {{p|Clermont-Ferrand}}: {{c|God}} wills it. The cross
 Sewn onto shoulders, and the road to {{p|Jerusalem}}
 Paved with the slaughtered. {{c|Innocent III}}, the boss
 Of kings, who forbade the sack, and then watched them
 
-Sack {{p|Istanbul}} anyway, a Christian city,
+Sack {{p|Istanbul}} anyway, a {{x|Christian}} city,
 In 1204. {{c|Celestine}}, the hermit, who could not bear
 The keys, and gave them back. And then, without pity,
-{{c|Boniface}}: One Holy Church, and every soul is there
+{{c|Boniface}}: {{x|One Holy Church}}, and every soul is there
 
-Subject to the Roman pontiff. Slapped at {{p|Anagni}}
-By a French king's men. Then the papacy
+Subject to the {{x|Roman}} pontiff. Slapped at {{p|Anagni}}
+By a {{c|French}} king's men. Then the papacy
 Packed up and moved to {{p|Avignon}}. The money
-Of the Babylonian Captivity
+Of the {{x|Babylonian Captivity}}
 
 Flowed seventy years to a palace on the {{p|Rhône}}
 Till {{c|Catherine}} of {{p|Siena}} wrote: come home.
@@ -135,9 +135,9 @@ Deposed them all, and crowned {{c|Martin}}, one again,
 Two years after it burned {{c|Jan Hus}}, and lit
 The fire that {{p|Bohemia}} would remember. Then
 
-The scholars. {{c|Nicholas}}, who built the Library
-In the years the Turks took {{p|Istanbul}} for good.
-{{c|Sixtus}}, who built the Chapel, where the very
+The scholars. {{c|Nicholas}}, who built the {{x|Library}}
+In the years the {{c|Turks}} took {{p|Istanbul}} for good.
+{{c|Sixtus}}, who built the {{x|Chapel}}, where the very
 Ceiling would be painted by a man who stood
 
 On scaffolding for four years with his head bent back.
@@ -147,7 +147,7 @@ Joke of his children, {{c|Cesare}} and {{c|Lucrezia}}, and the slow
 
 Poison of the rumors. In 1493
 He drew a line from pole to pole across the sea:
-West of it for {{p|Spain}}, east for {{p|Portugal}}.
+{{p|West}} of it for {{p|Spain}}, east for {{p|Portugal}}.
 At {{p|Tordesillas}} the two kings moved it farther west,
 
 And the world was divided by the heir of the fisherman

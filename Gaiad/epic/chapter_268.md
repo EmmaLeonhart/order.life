@@ -8,7 +8,7 @@ Of the old {{c|runestones}} stood in the fields, grey, sure
 Of their meaning to no one now: the snake-bands, the marks,
 *Raised this stone after his father*, *after his son*,
 Who died in the east, in {{p|Greece}}, in the dark
-Of the Varangian roads. Nobody had read them. One
+Of the {{x|Varangian}} roads. Nobody had read them. One
 
 Young man went out with a notebook into the rain
 And drew them, stone by stone, and learned the old letters,
@@ -22,47 +22,47 @@ The crown kept him: royal librarian, and the first in the ring
 
 Of the kingdom's keepers of antiquity, {{c|riksantikvarie}}, in 1630,
 Sent out to find and draw every runestone in the land.
-He is the father of Swedish runology. Hold it. And the gift he
+He is the father of {{x|Swedish}} runology. Hold it. And the gift he
 Gave his own family: a book, in his own hand,
 
-*Om Bura namn och ätt*, on the name and kin of {{c|Bure}},
+*{{x|Om Bura namn och ätt}}*, on the name and kin of {{c|Bure}},
 The genealogy of the farmers, carried back
 Through generations no tax roll had written, made sure
 By runestones he read as his ancestors' stones, by the track
 
 Of names and legends, out of the documents and past them.
-That book is why the Bures are a kinship and not just farms.
+That book is why the {{c|Bures}} are a kinship and not just farms.
 It is why the writer of this scripture can name them.
 It is the first of her family trees. And it rests on the charms
 
 Of a mystic as much as on a scholar. Hear the other half.
 Bureus read the runes as more than letters. He read them
-As a hidden wisdom, a Gothic Kabbalah, a staff
+As a hidden wisdom, a {{x|Gothic Kabbalah}}, a staff
 Of the secrets of all the sciences, a cosmos in them:
 
 The {{c|Adulruna}}, his own system, a cross of runes
-Arranged as a ladder of the soul up to God, the key,
-He believed, to the wisdom of the ancient North, the moons
-And the planets and the Trinity in the futhark. He
+Arranged as a ladder of the soul up to {{c|God}}, the key,
+He believed, to the wisdom of the ancient {{p|North}}, the moons
+And the planets and the {{c|Trinity}} in the futhark. He
 
 Corresponded with the {{c|Rosicrucians}}, read the prophets,
 Calculated the end of the world, and believed it near.
-And he was a {{c|Gothicist}}: the Goths had come from {{p|Sweden}}, the profits
-Of the old empire were the North's, the first and clear
+And he was a {{c|Gothicist}}: the {{c|Goths}} had come from {{p|Sweden}}, the profits
+Of the old empire were the {{p|North}}'s, the first and clear
 
-Rulers of {{p|Europe}} had been Swedes, and the Swedish tongue
+Rulers of {{p|Europe}} had been {{c|Swedes}}, and the {{x|Swedish}} tongue
 Was the oldest of tongues, the first, or near enough.
 This was the invented antiquity of a kingdom young
 In power and hungry for a past. The stuff
 
-Of the Thirty Years' War was fought by a king who believed it:
-{{c|Gustavus Adolphus}} going south as the heir of the Goths.
+Of the {{x|Thirty Years' War}} was fought by a king who believed it:
+{{c|Gustavus Adolphus}} going south as the heir of the {{c|Goths}}.
 His tutor had taught him. The kingdom received it
 As a birthright. That is the invented tradition, the cloths
 
 Of the spine of this book: a people reaching back
 To make a past that would justify a present.
-And here is the hardest thing on the Sixth Day of Awe: the track
+And here is the hardest thing on the {{x|Sixth Day of Awe}}: the track
 Of the scholar and the inventor is one track. The pleasant
 
 And the false grew from the same root as the true.
@@ -85,7 +85,7 @@ The scholars of the futhark, the painted stones in the lawns
 Of {{p|Uppland}} churches. The writer of this book reads them too.
 She is his kin. She keeps his line. And the line, like the dawns
 
-Of the North in summer, does not quite go dark. The rune-keeper
+Of the {{p|North}} in summer, does not quite go dark. The rune-keeper
 Kept the stones and the dream, and did not tell them apart.
 His heir will. That is the vow: to be the keeper and the reaper
 Of both, and to show the seam. Draw the stone. Know the heart.

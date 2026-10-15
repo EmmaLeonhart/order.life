@@ -16,7 +16,7 @@ Two figures now—two continents apart,
 Two centuries apart—and yet the wraith
 Of the same archetype beats at the heart
 
-Of both: the Redeemer who descends,
+Of both: the {{c|Redeemer}} who descends,
 Who teaches peace, who builds the law,
 Who departs before his mission ends,
 And whose leaving is the deepest awe
@@ -30,7 +30,7 @@ And grim upon the pyramid—below
 
 The legend and above the history,
 A figure walks: {{c|Ce Acatl Topiltzin}},
-Born on the day One Reed, the mystery
+Born on the day {{x|One Reed}}, the mystery
 Of the priest-king who was also in
 
 The service of the {{c|Feathered Serpent}}—
@@ -93,7 +93,7 @@ Would come again, and the world would learn
 
 Once more the way of flowers and not blood.
 
-And a Reed year fell in fifteen nineteen—
+And a {{x|Reed}} year fell in fifteen nineteen—
 And from the east, across the flood,
 The ships of {{c|Cortés}} were seen.
 
@@ -130,11 +130,11 @@ The nations from within like a disease—
 And into this the {{c|Peacemaker}} came late
 Or early, and proposed the appease-
 
-Ment of all grief through the Great Law.
+Ment of all grief through the {{x|Great Law}}.
 
-The {{c|Great Law of Peace}}—the Gayanashagowa—
+The {{c|Great Law of Peace}}—the {{x|Gayanashagowa}}—
 The constitution that would overawe
-The modern founders of the {{c|American}} Iowa
+The modern founders of the {{c|American}} {{p|Iowa}}
 
 And {{p|Philadelphia}} convention both,
 For the {{c|Haudenosaunee}} league was this:
@@ -159,7 +159,7 @@ Both held voice in the ancient tradition—
 And war required the consent of all.
 
 The {{c|Peacemaker}} planted the {{c|Great White Pine}}—
-The Tree of Peace—and beneath its tall
+The {{x|Tree of Peace}}—and beneath its tall
 And sheltering branches the design
 
 Of the five-fire longhouse was laid down:
@@ -194,7 +194,7 @@ And the people, left behind, must choose
 Between the teaching and the ghost
 Of violence they were asked to lose.
 
-Two Redeemers—one of feathers, one of pine,
+Two {{c|Redeemers}}—one of feathers, one of pine,
 One of the {{p|Toltec}} pyramid, one of the longhouse floor,
 One who became the morning star's design,
 One who planted the tree and closed the door—
@@ -211,7 +211,7 @@ And determined will of those who say
 
 We will keep it.
 
-                 Honor the Redeemer—
+                 Honor the {{c|Redeemer}}—
 The one who carries heaven's aching weight
 And sets it down before the dreamer
 And the warrior alike, and says: create
@@ -224,7 +224,7 @@ In peace, the nations—the disenchanted
 And the warring—lay their weapons down
 And choose the harder path: the covenant
 Of the healed, the shared, the ungrasped crown
-Of power—the Redeemer's testament
+Of power—the {{c|Redeemer}}'s testament
 
 Is always this: I came, I taught, I leave—
 And what you build without me is the proof
@@ -238,7 +238,7 @@ Its warmth for those who keep the line
 
 Of the teaching: choose the flower, not the blade.
 Choose the council, not the war.
-Choose the covenant the Redeemer made,
+Choose the covenant the {{c|Redeemer}} made,
 And he will come again—but not before
 
 You prove you can sustain the peace without him.

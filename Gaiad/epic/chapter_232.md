@@ -76,7 +76,7 @@ Of genealogy—the {{c|Mixtec}}, those
 
 Whose painted books would prove the most complete
 Surviving record of the pre-Columbian
-Americas—the deerskin's folded sheet
+{{p|Americas}}—the deerskin's folded sheet
 Unscrolled to show a thousand years of clan
 
 And kingdom, marriage, war, and sacrifice,

@@ -11,7 +11,7 @@ To hold the line--and this time the dreamer
 Was the greatest of them all.
 
                                 {{c|Tecumseh}}--
-The Shooting Star--whose name was the redeemer
+The {{c|Shooting Star}}--whose name was the redeemer
 Of a continent's last hope, whose prophecy
 
 Was simple and was true and came too late:
@@ -48,20 +48,20 @@ A price for the earth itself, the talismans
 Of sovereignty held in common trust.
 
 His brother walked beside him--{{c|Tenskwatawa}},
-The Prophet, who had risen from the dust
+The {{c|Prophet}}, who had risen from the dust
 Of alcoholism and despair, the raw
 
 And broken man remade by vision's fire:
-He had died and returned, he said, and the Master
+He had died and returned, he said, and the {{c|Master}}
 Of Life had shown him how the world entire
 Could be healed--renounce the whiskey, the disaster
 
 Of the {{c|European}} trade goods, the poison
 Of the metal world, and return to the ways
-That the Creator gave: the ancient season
+That the {{c|Creator}} gave: the ancient season
 Of the corn and the deer and the prayer's praise
 
-Spoken in the tongue the Creator understood.
+Spoken in the tongue the {{c|Creator}} understood.
 
 At {{p|Prophetstown}}--{{p|Tippecanoe}}--they built
 The capital of the confederacy: a wood
@@ -69,7 +69,7 @@ And bark metropolis where the guilt
 
 Of tribal division was dissolved in prayer
 And the warriors of a dozen nations gathered
-To hear the Prophet speak and to prepare
+To hear the {{c|Prophet}} speak and to prepare
 For the world renewed, the old ways lathered
 
 Clean of the colonizer's filth.
@@ -85,7 +85,7 @@ Eighteen-eleven, he provoked the swarmy
 And premature battle--the ember
 
 That {{c|Tenskwatawa}} fanned against his brother's
-Strict command. The Prophet promised magic:
+Strict command. The {{c|Prophet}} promised magic:
 The bullets would not harm, the warriors' mothers
 Would see their sons return. The tragic
 
@@ -98,7 +98,7 @@ By the mundane arithmetic of lead.
 
 {{c|Tecumseh}} returned to ashes. But he did not break.
 
-The War of Eighteen-Twelve became the thread
+The {{x|War of Eighteen-Twelve}} became the thread
 He seized: the {{c|British}} and {{c|Americans}} at stake
 
 Again, and the {{c|British}} needed allies
@@ -168,7 +168,7 @@ The {{c|Americans}} called it war. The lonely
 And starving band was hunted, hound by hound,
 
 Through {{p|Wisconsin}}'s summer forests--and at {{p|Bad Axe}}
-The steamboat Warrior and the militia's
+The steamboat {{x|Warrior}} and the militia's
 Gun-line slaughtered women at the river's tracks
 As they tried to swim across--the malicious
 
@@ -180,7 +180,7 @@ The {{p|Mississippi}} reddened in the undertow.
 And in the south, the {{c|Seminole}} refused.
 
 Three wars--eighteen-seventeen to eighteen-fifty-eight--
-The longest Indigenous resistance, the abused
+The longest {{c|Indigenous}} resistance, the abused
 And indomitable people of the strait
 
 And labyrinth of {{p|Florida}}'s swamps, where {{c|Osceola}},
@@ -208,7 +208,7 @@ A remnant held--the unconquered {{c|Seminole}},
 The only eastern nation whose address
 Was never changed by the removal's toll.
 
-Honor {{c|Tecumseh}}--the Shooting Star
+Honor {{c|Tecumseh}}--the {{c|Shooting Star}}
 Whose light crossed the continent and whose fire
 Burns in every refusal to sell the land, the scar
 Of his death the proof that the empire's desire
@@ -235,4 +235,4 @@ Still glow, and the lesson {{c|Tecumseh}} learned
 Still speaks: no single nation stands alone.
 The land belongs to all, and the bones beneath the stone
 Are the covenant no treaty can unmake--
-And the Shooting Star still burns for every nation's sake.
+And the {{c|Shooting Star}} still burns for every nation's sake.

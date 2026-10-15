@@ -30,7 +30,7 @@ Of {{p|Jerusalem}} and the contraband
 Of the refugee's desperate call
 
 To survive: when {{c|Nebuchadnezzar}}'s armies
-Broke the walls and burned the Temple
+Broke the walls and burned the {{x|Temple}}
 And marched the {{c|Judean}} swarmies
 Into {{p|Babylon}}'s ample
 
@@ -74,8 +74,8 @@ Delusion—the {{c|Phoenician}}'s largesse
 Of navigational knowledge was unfurled
 
 Upon the stars: they sailed by {{c|Polaris}},
-By the Bears, by the rising and the setting
-Of the constellations—the Paris
+By the {{x|Bears}}, by the rising and the setting
+Of the constellations—the {{x|Paris}}
 Of the ancient world's maritime betting
 
 Was {{p|Sidon}}, and her sailors knew
@@ -110,7 +110,7 @@ And the evidence? The whispers
 Of the anomalous: the {{p|Paraíba}} accords—
 The inscription found in {{p|Brazil}}'s twisters
 
-Of jungle, Phoenician script on stone
+Of jungle, {{c|Phoenician}} script on stone
 That scholars have debated for a century
 And a half—the genuine or the overblown
 And forged—the sedimentary
@@ -118,7 +118,7 @@ And forged—the sedimentary
 Layers of controversy that the academy
 Has never settled. The {{c|Roman}} amphorae
 Dredged from {{p|Guanabara Bay}}'s taxonomy
-Of silt—the terracotta's Hora
+Of silt—the terracotta's {{x|Hora}}
 
 And provenance disputed, the chain
 Of custody uncertain. The coca
@@ -149,7 +149,7 @@ The refugee into the guest
 Of a new world, and that he landed
 On the coast of {{p|Mesoamerica}}
 And founded {{p|Zarahemla}}, the banded
-And polyglot America
+And polyglot {{p|America}}
 
 Of the mixed descent: the {{c|Israelite}}
 And the {{c|Phoenician}} sailor married

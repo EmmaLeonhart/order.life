@@ -9,11 +9,11 @@ The parchment rolls with liberty's bright seed--
 
 The {{c|Haudenosaunee}} had already made
 A union from the warfare of five nations,
-A Great Law spoken underneath the shade
-Of the white pine, the Tree of Peace's stations
+A {{x|Great Law}} spoken underneath the shade
+Of the white pine, the {{x|Tree of Peace}}'s stations
 
 Rooted in the earth of {{p|Onondaga}},
-Where {{c|Deganawidah}} the Peacemaker came
+Where {{c|Deganawidah}} the {{c|Peacemaker}} came
 Across the waters with a light like saga
 And planted peace where blood-feud was the name
 
@@ -30,9 +30,9 @@ Each nation and could strip a faithless king
 Of his antlers. Women held the fire.
 The longhouse stretched from east to west--
 The {{c|Mohawk}} at the eastern door, the dire
-And watchful Keepers, and the {{c|Seneca}} blessed
+And watchful {{c|Keepers}}, and the {{c|Seneca}} blessed
 
-As Keepers of the Western Door, and all
+As {{c|Keepers}} of the {{x|Western Door}}, and all
 Between them bound by wampum belts that told
 The story of the peace, the protocol
 Of consensus, the refusal to be bold
@@ -58,7 +58,7 @@ Spoke of brotherhood and asked the crews
 Of the longhouse council for neutrality:
 Stay out, they said. This is a family quarrel,
 A war among the {{c|English}}--the polity
-Of the Six Nations need not risk its laurel
+Of the {{c|Six Nations}} need not risk its laurel
 
 In a fight between a father and his sons.
 
@@ -72,7 +72,7 @@ Their settlers push the frontier, hand by hand,
 Into the hunting grounds--and week by week
 
 The longhouse country shrinks. The {{c|British}} crown
-At least has drawn a line--the Proclamation
+At least has drawn a line--the {{x|Proclamation}}
 Of seventeen-sixty-three that handed down
 The law: no settlement, no confiscation
 
@@ -99,7 +99,7 @@ And {{c|Cayuga}} followed {{c|Brant}} to war,
 And {{c|Onondaga}}'s fire-keepers drew the day
 Toward the {{c|British}} side--but at the core
 
-The League was cracking. For the {{c|Oneida}}
+The {{c|League}} was cracking. For the {{c|Oneida}}
 And {{c|Tuscarora}} chose the other way:
 The {{c|American}} alliance, the cedar
 Of a different calculation--that the fray
@@ -107,7 +107,7 @@ Of a different calculation--that the fray
 Would end with {{c|American}} victory, and those
 Who stood beside the rebels would be spared.
 
-The Great Law said: decide by consensus. Those
+The {{x|Great Law}} said: decide by consensus. Those
 Who disagreed should not be forced. But dared
 
 The council hold when half its nations fought
@@ -123,7 +123,7 @@ And blood of an August ambush--the ordeal
 
 Of brothers killing brothers in the name
 Of {{c|European}} kings and {{c|European}} rebels,
-The Great League's children burning in the flame
+The {{c|Great League}}'s children burning in the flame
 Of a war that was not theirs--the pebbles
 
 Of a {{c|European}} quarrel that crushed the stone
@@ -152,7 +152,7 @@ Slaughtered, and the smoke of centuries unfurled
 From every {{c|Haudenosaunee}} village burned
 In the autumn of seventeen-seventy-nine.
 The {{c|Seneca}} gave {{c|Washington}} a name, and turned
-The word to prophecy: Town Destroyer--the sign
+The word to prophecy: {{c|Town Destroyer}}--the sign
 
 And title that would pass from president
 To president, from one destroyer to the next,
@@ -166,7 +166,7 @@ Of their sovereignty, not one attorney
 
 For their cause. The {{c|British}} ceded land
 That was not theirs to cede--the hunting grounds
-Of the Six Nations, drawn by a foreign hand
+Of the {{c|Six Nations}}, drawn by a foreign hand
 On a foreign map within the foreign bounds
 
 Of a treaty that erased them from the page.
@@ -199,8 +199,8 @@ The council yet would meet beneath the dome
 Of the longhouse sky, and the white pine's high
 
 And patient branches still would shelter those
-Who kept the wampum belts and spoke the Law--
-But the Great League that {{c|Deganawidah}} chose
+Who kept the wampum belts and spoke the {{x|Law}}--
+But the {{c|Great League}} that {{c|Deganawidah}} chose
 To build from the wreckage of an older war
 
 Was broken by a newer one, and the peace
@@ -219,6 +219,6 @@ The people from the empire's clientele
 Of settlers and surveyors digging graves
 
 Where longhouses had stood. The fire still burns.
-The council still convenes. The Great Law turns
+The council still convenes. The {{x|Great Law}} turns
 In the memory of the clan mothers who chose
 The chiefs--and the white pine forever grows.

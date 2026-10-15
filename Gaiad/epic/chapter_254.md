@@ -1,7 +1,7 @@
 # Chapter 254: The Sea Joins the World
 
 Before this there were many seas. The {{p|Indian Ocean}}
-Was a market as old as the Pharaohs, where the dhow
+Was a market as old as the {{c|Pharaohs}}, where the dhow
 Rode the monsoon out and back, a slow devotion
 To the wind's two seasons, and the merchant's vow
 
@@ -31,12 +31,12 @@ They went into a temple, and they knelt, and they prayed
 Before a goddess, and they did not cringe,
 
 Because they thought she was {{c|Mary}}. They thought the priests
-Were Christians of some old and broken rite.
+Were {{c|Christians}} of some old and broken rite.
 They saw the saints on the walls with too many arms, the feasts,
 The lamps, the holy water, and in the light
 
-They saw what they had come to see. The Hindus saw
-Strangers bowing to the Mother, and let them bow.
+They saw what they had come to see. The {{c|Hindus}} saw
+Strangers bowing to the {{c|Mother}}, and let them bow.
 For one afternoon the world was joined, the law
 Of every faith suspended in the now
 
@@ -60,17 +60,17 @@ Of anyone who tells this as adventure only.
 The strait the whole of {{p|Asia}}'s trade ran through, the lonely
 Gate of the cloves. The ocean that was a bazaar
 
-Became a toll road. Pay the Portuguese or burn.
+Became a toll road. Pay the {{c|Portuguese}} or burn.
 And {{c|Cabral}}, sailing for {{p|India}} in 1500,
 Swung too far west and found the coast of {{p|Brazil}}, the turn
 Of a wheel that would roll over the {{c|Tupi}} like thunder.
 
-Then {{c|Magellan}}. A Portuguese who sailed for {{p|Spain}},
+Then {{c|Magellan}}. A {{c|Portuguese}} who sailed for {{p|Spain}},
 Five ships from {{p|Sanlúcar}} in 1519, to find
 A western road to the spice islands, to gain
 For {{c|Charles}} the cloves of {{p|Maluku}}, and to bind
 
-The line the Pope had drawn back round the world.
+The line the {{c|Pope}} had drawn back round the world.
 Mutiny in {{p|Patagonia}}, and the beheading,
 The marooning. Then the strait, the cold, the curled
 Fingers of the channel, thirty-eight days of threading
@@ -107,7 +107,7 @@ Of skeletons, of two hundred and seventy. And they were
 
 A day off. Their log said Wednesday. It was Thursday.
 They had sailed with the sun and lost a day to it,
-And the learned men of {{p|Venice}} worked out why. The Earth's way
+And the learned men of {{p|Venice}} worked out why. The {{p|Earth}}'s way
 Of turning had been measured by a ship. Admit
 
 What this means: the world is one thing now. One sea.

@@ -92,7 +92,7 @@ Of alluvial soil and water, the profound
 And bottomless fertility that corn
 Required—for this was the corn's kingdom,
 The maize-fed civilization, born
-Of the Mesoamerican wisdom
+Of the {{x|Mesoamerican}} wisdom
 
 That had traveled north along the trade routes' thread
 Until the {{p|Mississippi}} valley learned
@@ -137,7 +137,7 @@ The solstice sunrise and the solar debt
 Of every season marked by the alignment
 Of red-cedar posts in a ring
 Of astronomical refinement—
-The Cahokian calendar, the string
+The {{x|Cahokian}} calendar, the string
 
 Of days and ceremonies tied to the sun's
 Position on the eastern ridge at dawn—

@@ -1,9 +1,9 @@
 # Chapter 271: Two Fingers
 
-{{p|Moscow}}, the town {{c|Yuri}} the Long-Armed founded on a hill above a river,
+{{p|Moscow}}, the town {{c|Yuri}} the {{c|Long-Armed}} founded on a hill above a river,
 Was the head of an empire by 1600, and then it fell apart.
-The old line of {{c|Rurik}} died out. The Time of Troubles: a fever
-Of pretenders, famine, the Poles in the {{p|Kremlin}}, the heart
+The old line of {{c|Rurik}} died out. The {{x|Time of Troubles}}: a fever
+Of pretenders, famine, the {{c|Poles}} in the {{p|Kremlin}}, the heart
 
 Of the country occupied. A butcher of {{p|Nizhny Novgorod}}, {{c|Kuzma Minin}},
 And a prince, {{c|Dmitry Pozharsky}}, raised an army of the towns
@@ -12,22 +12,22 @@ The {{p|Kremlin}}, chose a boy of sixteen to wear the crown:
 
 {{c|Michael Romanov}}, of a boyar family, whose great-aunt had been
 {{c|Ivan the Terrible}}'s first and best-loved wife. A peasant, {{c|Ivan Susanin}},
-It is told, led a Polish troop astray in the forest, unseen
-Death in the snow, to save the boy. The Romanovs began
+It is told, led a {{x|Polish}} troop astray in the forest, unseen
+Death in the snow, to save the boy. The {{c|Romanovs}} began
 
 And ruled three hundred and four years. Hold the founding. Then the split.
 In 1652 the {{c|Patriarch Nikon}}, a peasant's son of great will,
-Set out to correct the Russian church: to make it fit
-The Greek. The books had drifted, he said; the copyists' skill
+Set out to correct the {{x|Russian}} church: to make it fit
+The {{x|Greek}}. The books had drifted, he said; the copyists' skill
 
-Had failed; the Russians crossed themselves with two fingers,
-And the Greeks with three; the Russians sang *Alleluia* twice, and the Greeks
-Three times; the Russians walked the procession with the sun. The lingerers
+Had failed; the {{c|Russians}} crossed themselves with two fingers,
+And the {{c|Greeks}} with three; the {{c|Russians}} sang *{{x|Alleluia}}* twice, and the {{c|Greeks}}
+Three times; the {{c|Russians}} walked the procession with the sun. The lingerers
 In the old way must change. Three fingers. And the weeks
 
-Became years of fury. The irony is this, on the Ninth Day of Awe:
-The two-fingered sign was the older one. The Greeks had changed, not the Russians.
-The Russian books kept a Byzantine use the Greeks forgot. The law
+Became years of fury. The irony is this, on the {{x|Ninth Day of Awe}}:
+The two-fingered sign was the older one. The {{c|Greeks}} had changed, not the {{c|Russians}}.
+The {{x|Russian}} books kept a {{x|Byzantine}} use the {{c|Greeks}} forgot. The law
 Of the reform called itself a return to the source. The discussions
 
 Of the scholars would show it, centuries later: the "correction"
@@ -35,13 +35,13 @@ Was a modernization dressed as a restoration. Invented tradition
 In reverse: the new disguised as the old, the defection
 Disguised as fidelity. And the people who held the old position,
 
-The Old Believers, would not cross themselves with three.
+The {{c|Old Believers}}, would not cross themselves with three.
 The council of 1666 cursed them. And the year itself, the number
-Of the Beast, convinced them: the Antichrist had come, and the tree
-Of the Church was cut. The archpriest {{c|Avvakum}}, from his slumber
+Of the {{c|Beast}}, convinced them: the {{c|Antichrist}} had come, and the tree
+Of the {{x|Church}} was cut. The archpriest {{c|Avvakum}}, from his slumber
 
-In an earthen pit in the Arctic, wrote the first great book
-In plain Russian, his own life, and was burned at the stake in 1682.
+In an earthen pit in the {{p|Arctic}}, wrote the first great book
+In plain {{x|Russian}}, his own life, and was burned at the stake in 1682.
 The {{c|Boyarina Morozova}}, a great lady, would not look
 At the three-fingered cross; they starved her in a pit. And who
 
@@ -67,5 +67,5 @@ Being older than the reformers knew. And pray
 
 As your fathers prayed, if you can, and change what must change,
 And never burn anyone over the fingers of a hand.
-The Old Believers are still in {{p|Russia}}, and in {{p|Alaska}}, and in the strange
+The {{c|Old Believers}} are still in {{p|Russia}}, and in {{p|Alaska}}, and in the strange
 Green valleys of {{p|Oregon}}. Two fingers raised. They stand.

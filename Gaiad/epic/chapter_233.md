@@ -3,7 +3,7 @@
 Before the {{c|Inca}} raised their sun-crowned throne,
 Before the royal roads stretched east and west,
 Four kingdoms laid the deep foundation stone
-On which the Andes' final lord would rest.
+On which the {{p|Andes}}' final lord would rest.
 
 For nothing rises from the empty air—
 The greatest empire is the heir of all
@@ -15,7 +15,7 @@ That {{c|Nazca}} drew, that {{c|Wari}} organized,
 That {{c|Tiwanaku}}'s temple-builders stored
 With sanctity—and each had memorized
 
-A portion of the Andean answer.
+A portion of the {{x|Andean}} answer.
 
                                        South—
 Along the coastal desert's barren shelf
@@ -110,11 +110,11 @@ The breath of pilgrims laboring to meet
 
 Their god, the {{p|Gate of the Sun}} was carved—
 A single block of andesite, the face
-Of the Staff God weeping, starved
+Of the {{c|Staff God}} weeping, starved
 Or ecstatic, rays extending into space
 
 From the divine head like the condor's crown—
-And the pilgrims came from every Andean vale,
+And the pilgrims came from every {{x|Andean}} vale,
 From the coast, the jungle, every highland town,
 To bring their offerings along the trail
 
@@ -127,7 +127,7 @@ By pilgrimage and by the avatar
 Of holiness that radiated out
 From the sacred center like a hymn:
 The peoples of the {{p|Andes}} felt devout
-Before the Staff God's gaze, and the dim
+Before the {{c|Staff God}}'s gaze, and the dim
 
 And oxygen-thin air of the altiplano
 Became the proof of spiritual height—

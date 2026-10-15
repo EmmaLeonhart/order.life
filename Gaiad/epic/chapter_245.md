@@ -2,7 +2,7 @@
 
 They had played this game before—
 The {{c|Haudenosaunee}}, the People
-Of the Longhouse, whose confederate law
+Of the {{c|Longhouse}}, whose confederate law
 Was older than the steeple
 
 Of any church in {{p|New England}}, older
@@ -11,12 +11,12 @@ Than the colony itself—the {{c|Five Nations}}
 Joined the longhouse's foundations
 
 In seventeen-twenty-two) who understood
-The European's weakness from the first:
+The {{c|European}}'s weakness from the first:
 There were two of them, and the wood
 Between their settlements was cursed
 
 With mutual hatred—{{c|French}} and {{c|English}},
-Catholic and Protestant, fur trade
+{{x|Catholic}} and {{x|Protestant}}, fur trade
 And land trade—and the {{c|Haudenosaunee}} distinguished
 Between the two and played the blade
 
@@ -31,13 +31,13 @@ And the {{c|Haudenosaunee}} allied
 With neither and with both, the sons
 
 Of {{c|Hiawatha}}'s covenant, whose law
-Of the Great Peace was the needle
+Of the {{x|Great Peace}} was the needle
 Threading the impossible, the raw
 And brilliant statecraft's wheedle
 
 Of survival between empires.
 
-                                The Covenant Chain—
+                                The {{x|Covenant Chain}}—
 The diplomatic metaphor the {{c|Haudenosaunee}}
 Forged with the {{c|English}}: link by link, the gain
 Of mutual respect, the on-a-
@@ -50,7 +50,7 @@ Where the {{c|Iroquois}} diplomat knelt
 To no one but addressed the governor
 As brother—not as subject, not as child,
 But as the equal partner, the turnover
-Of the European's assumption, the wild
+Of the {{c|European}}'s assumption, the wild
 
 And stubborn dignity that insisted:
 We are not your subjects. We are your allies.
@@ -68,7 +68,7 @@ Sat at the center of the continent's hinge,
 And neither {{c|France}} nor {{p|Britain}}'s dossier
 Could advance without their impinge-
 
-Ment—the Longhouse held the {{p|Great Lakes}}' key,
+Ment—the {{c|Longhouse}} held the {{p|Great Lakes}}' key,
 The {{p|Ohio Valley}}'s gate, the fur trade's
 Arterial flow from the interior's tree-
 Line south to the coastal glades.
@@ -76,7 +76,7 @@ Line south to the coastal glades.
 Then the war that decided everything.
 
 In seventeen-fifty-four, a young
-Virginian named {{c|Washington}} would bring
+{{c|Virginian}} named {{c|Washington}} would bring
 The first shots of the conflict, slung
 
 From the {{p|Ohio}} forest's ambush—
@@ -84,7 +84,7 @@ The {{c|French}} and {{c|Indian}} War,
 Which was neither {{c|French}} nor {{c|Indian}}'s bush
 To burn, but the global war
 
-That {{p|Europe}} called the Seven Years—
+That {{p|Europe}} called the {{x|Seven Years}}—
 The contest for the continent's soul,
 And the {{c|Haudenosaunee}} steered
 Between the combatants' pole
@@ -92,10 +92,10 @@ Between the combatants' pole
 And counterpole with the old dexterity:
 The {{c|Mohawk}} leaned {{c|English}},
 The {{c|Seneca}} toward the {{c|French}} sincerity,
-And the Confederacy's wish
+And the {{c|Confederacy}}'s wish
 
 Was to remain above the fray
-While the Europeans bled each other dry—
+While the {{c|Europeans}} bled each other dry—
 But the game was changing, and the day
 Of the balanced middle was the sky
 
@@ -105,7 +105,7 @@ Whose clouds were closing in.
 Who had married into the {{c|Mohawk}} kin,
 Who spoke the language, the adjacent
 
-And rare European who understood
+And rare {{c|European}} who understood
 The longhouse from within—pulled
 The {{c|Mohawk}} firmly to the wood
 Of the {{c|British}} cause, and the lulled
@@ -119,7 +119,7 @@ The alliance into the forge
 Of the battlefield—and fell there,
 The old sachem killed in the volley
 Of the {{c|French}} advance, the affair
-Of the European's folly
+Of the {{c|European}}'s folly
 
 Claiming its first {{c|Haudenosaunee}} price.
 
@@ -162,7 +162,7 @@ Of unchecked {{c|British}} expansion would devour
 Every acre west of the mountains.
 
 The {{c|Royal Proclamation}}—the hour
-Of the {{c|British}} Crown's accounting:
+Of the {{c|British}} {{x|Crown}}'s accounting:
 
 Seventeen-sixty-three, the line
 Drawn along the {{p|Appalachians}}' crest—
@@ -185,12 +185,12 @@ Had always feared: the day when neither
 When the balance broke and neither
 Honored the wampum belt's plan.
 
-Honor the {{c|Haudenosaunee}}—the Longhouse,
-The Great League whose diplomacy
+Honor the {{c|Haudenosaunee}}—the {{c|Longhouse}},
+The {{c|Great League}} whose diplomacy
 Held the continent in balance, the grouse
 And the eagle of the confederacy
 
-Whose law of peace predates the Constitution
+Whose law of peace predates the {{x|Constitution}}
 That borrowed from its principles and denied
 The debt—whose institution
 Of the balanced alliance, the pride
@@ -201,12 +201,12 @@ In the forest's shifting light—
 And when the balance broke, the craft
 
 Did not vanish but transformed:
-The Longhouse stands, the fire still burns
+The {{c|Longhouse}} stands, the fire still burns
 At {{p|Onondaga}}, and the stormed
 And battered league returns
 
 To the council that has never been adjourned—
-For the Great Peace is not a treaty with the crown
+For the {{x|Great Peace}} is not a treaty with the crown
 But a covenant the nations earned
 Among themselves, that no empire's frown
 

@@ -31,7 +31,7 @@ The villages collapsed along the length
 Of what the {{c|English}} would call {{p|New England}}.
 
 And {{c|Massasoit}}—sachem of the {{c|Wampanoag}},
-Ousamequin, the Yellow Feather, whose hand
+{{c|Ousamequin}}, the {{c|Yellow Feather}}, whose hand
 Still held the remnant of his people's league—
 
 Looked at the devastation and the math:
@@ -151,7 +151,7 @@ Were planted in the ground where the ghosts
 
 Of {{p|Patuxet}}'s dead still whispered to the corn.
 
-Honor {{c|Massasoit}}—the Yellow Feather
+Honor {{c|Massasoit}}—the {{c|Yellow Feather}}
 Who chose the stranger over the scorn
 Of isolation, who held together
 

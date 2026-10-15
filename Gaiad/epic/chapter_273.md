@@ -2,32 +2,32 @@
 
 The one who waited won the peace, and his grandson {{c|Iemitsu}} shut the door.
 Between 1633 and 1639 the shogunate wrote the edicts:
-No Japanese ship may sail abroad. No Japanese, on pain of death, may come ashore
+No {{c|Japanese}} ship may sail abroad. No {{c|Japanese}}, on pain of death, may come ashore
 From the outside world again. The {{c|Portuguese}}, with their padres and their contradicts,
 
-Expelled, in 1639, their ships forbidden. When a Portuguese embassy
+Expelled, in 1639, their ships forbidden. When a {{c|Portuguese}} embassy
 Came the next year from {{p|Macau}} to ask the trade back, sixty-one
 Of them were beheaded, and a few sent home to tell it. The fantasy
-Of the Christian century ended. What was left: the sun
+Of the {{x|Christian}} century ended. What was left: the sun
 
 Through four small windows. The {{c|Dutch}} on {{p|Dejima}}, a fan of land
-In {{p|Nagasaki}}'s harbour, watched, and the Chinese merchants in their quarter;
+In {{p|Nagasaki}}'s harbour, watched, and the {{c|Chinese}} merchants in their quarter;
 {{p|Korea}} through the lords of {{p|Tsushima}}; the {{c|Ryūkyū}} kingdom's hand
 Through {{p|Satsuma}}; the {{c|Ainu}} of the north through {{p|Matsumae}}. The water
 
 Was a wall with four gates. Later they would call it {{c|sakoku}},
 The locked country. It was not locked. It was watched.
-And inside, the watching went into every house. The Taikō
+And inside, the watching went into every house. The {{c|Taikō}}
 Had measured the fields. Now the souls were notched
 
-In a book. After the Christian rising at {{p|Shimabara}}, in 1637,
+In a book. After the {{x|Christian}} rising at {{p|Shimabara}}, in 1637,
 Which the next day of this book will tell, the shogunate decided
 That every person in {{p|Japan}} must prove, each year, under heaven,
-That they were not a Christian. And the proof was provided
+That they were not a {{x|Christian}}. And the proof was provided
 
 By the temples. Every household was made the parishioner, the *danka*,
-Of a Buddhist temple, and the temple certified each spring
-That its families were Buddhist, and the village headman, the bookkeeper of the mura,
+Of a {{x|Buddhist}} temple, and the temple certified each spring
+That its families were {{x|Buddhist}}, and the village headman, the bookkeeper of the mura,
 Wrote it in the *shūmon aratame chō*, the register of the inquiry: the thing
 
 Every person in the land had to be written in. Name, age,
@@ -36,14 +36,14 @@ Births and deaths and marriages and servants hired, the page
 Updated every year. By the 1670s the whole realm, correct
 
 To the last fisher's child, was in the books. Some twenty-five million people.
-And in {{p|Kyūshū}}, around {{p|Nagasaki}}, every New Year, the people
+And in {{p|Kyūshū}}, around {{p|Nagasaki}}, every {{x|New Year}}, the people
 Were made to step on a bronze image of the crucified, the {{c|fumi-e}}, the simple
-Test of the foot: tread on the Christ, or the steeple
+Test of the foot: tread on the {{c|Christ}}, or the steeple
 
 Of the family's hidden faith falls on them all. They stepped.
-Hold that. Mothers stepped on the Mother of God and went home and wept
+Hold that. Mothers stepped on the {{c|Mother of God}} and went home and wept
 And asked forgiveness in a hidden room. The register kept
-Their names as Buddhists, and their secret kept
+Their names as {{c|Buddhists}}, and their secret kept
 
 Itself. And the temples: they became the arm of the state,
 Its clerks, its census-takers, its proof of loyalty.

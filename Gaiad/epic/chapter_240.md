@@ -2,7 +2,7 @@
 
 From {{p|Cusco}}'s navel the four roads ran—
 North to {{p|Chinchaysuyu}}'s coastal heat,
-South to {{p|Collasuyu}}'s Altiplano span,
+South to {{p|Collasuyu}}'s {{p|Altiplano}} span,
 East to {{p|Antisuyu}}'s jungle beat,
 
 West to {{p|Cuntisuyu}}'s desert shore—
@@ -34,13 +34,13 @@ Campaign, how many days
 
 Of labor each ayllu owed the state—
 The quipucamayoc read these strings
-As a European read a printed plate,
+As a {{c|European}} read a printed plate,
 And the empire's memory clings
 
 To these knotted threads that the {{c|Spaniards}} burned
 As the devil's handiwork, unknowing
 That they destroyed a library, and turned
-The Andean past to silence, throwing
+The {{x|Andean}} past to silence, throwing
 
 Ten thousand years of record to the flame.
 
@@ -61,7 +61,7 @@ Of the chasms with their rope-weave entries
 Swaying above the clouds.
 
                               The terraces—
-Carved into the Andean mountainside
+Carved into the {{x|Andean}} mountainside
 Like stairways for the gods, the surfaces
 Of engineered soil where the diversified
 
@@ -80,9 +80,9 @@ Stored for decades in the state's
 Warehouses against the solitude
 Of the famine year—the {{c|Inca}}'s rates
 
-Of hunger were the lowest in the Americas.
+Of hunger were the lowest in the {{p|Americas}}.
 
-And {{c|Pachacuti}}—"Earth-Shaker"—built
+And {{c|Pachacuti}}—"{{c|Earth-Shaker}}"—built
 This wonder: ninth {{c|Sapa Inca}}, whose areas
 Of conquest and reform had tilted
 
@@ -111,7 +111,7 @@ Of the impossible that happened when
 {{c|Atahualpa}} walked into the plaza
 Unarmed, borne upon his golden litter,
 And the friar {{c|Valverde}}'s stanza
-Of the faith—the Bible, the bitter
+Of the faith—the {{x|Bible}}, the bitter
 
 Requirement to submit—was offered
 To the {{c|Sapa Inca}}, who held the book
@@ -162,7 +162,7 @@ Were gathered into bonfires by the priests.
 The terraces went fallow where the new
 Colonial masters held their feasts
 
-On Andean silver and Andean bone—
+On {{x|Andean}} silver and {{x|Andean}} bone—
 And the {{c|mita}} labor, once the communal
 Obligation freely sown,
 Became the brutal, the annual
@@ -189,7 +189,7 @@ Were swallowed by the conqueror's claim—
 
 But the terraces remain. The roads remain.
 The potato and the quinoa still ascend
-The mountainside, and the Andean rain
+The mountainside, and the {{x|Andean}} rain
 Still waters what no conquest could rescind:
 
 The knowledge of the soil, the skill of the hand,

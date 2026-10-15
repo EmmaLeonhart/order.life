@@ -1,22 +1,22 @@
 # Chapter 272: The Sabbath of Sabbaths
 
 It began with a window. On the twenty-third of May, 1618,
-In the castle of {{p|Prague}}, Protestant lords of {{p|Bohemia}},
-Furious that the Catholic king would take back what had been
+In the castle of {{p|Prague}}, {{x|Protestant}} lords of {{p|Bohemia}},
+Furious that the {{x|Catholic}} king would take back what had been
 Promised, their churches, their law, threw two of the king's men, the phobia
 
 Of the moment made flesh, and their secretary, out of a high window.
-They fell some twenty metres and lived. The Catholics said: angels caught them.
-The Protestants said: they landed in a dung heap. The crescendo
+They fell some twenty metres and lived. The {{c|Catholics}} said: angels caught them.
+The {{c|Protestants}} said: they landed in a dung heap. The crescendo
 Of thirty years began with a joke about how they fought them
 
 Down. Then the war. At the {{p|White Mountain}} in 1620
-The Bohemians were broken, and their leaders beheaded in the square.
+The {{c|Bohemians}} were broken, and their leaders beheaded in the square.
 Then {{p|Denmark}} came in, and was beaten. Then {{p|Sweden}}, and the plenty
 Of {{c|Gustavus}}'s victories, and his death at {{p|Lützen}}, there
 
-In the fog. Then {{p|France}}, Catholic {{p|France}}, against the Catholic emperor,
-Because the war was no longer about God, if it had ever been.
+In the fog. Then {{p|France}}, {{x|Catholic}} {{p|France}}, against the {{x|Catholic}} emperor,
+Because the war was no longer about {{c|God}}, if it had ever been.
 It was about who would hold {{p|Europe}}. And the temper
 Of the armies was the temper of hunger. Between
 
@@ -37,7 +37,7 @@ Was half. Villages vanished from the map. The examen
 
 Of the war's own chroniclers: wolves came back into the towns.
 And then they talked. For five years, from 1643, in two cities,
-{{p|Münster}} for the Catholics, {{p|Osnabrück}} for the Protestants, the crowns
+{{p|Münster}} for the {{c|Catholics}}, {{p|Osnabrück}} for the {{c|Protestants}}, the crowns
 And the princes and the free cities sent a hundred delegations; the pities
 
 And the vanities: they argued for months over who would walk
@@ -60,12 +60,12 @@ Not tolerance. Exhaustion. Not love. A truce
 Between people who had learned that they could not condemn
 Each other out of existence. That is the use
 
-Of this day. The Lifeist {{c|Yom Kippur}} falls on a Saturday,
-Always: the Sabbath of Sabbaths, the day of rest,
+Of this day. The {{x|Lifeist}} {{c|Yom Kippur}} falls on a Saturday,
+Always: the {{x|Sabbath of Sabbaths}}, the day of rest,
 The day of atonement. And the old teaching says: the way
-To atone with God for what you did to a person is not addressed
+To atone with {{c|God}} for what you did to a person is not addressed
 
-To God. You must go to the person. You must ask.
+To {{c|God}}. You must go to the person. You must ask.
 The day does not atone for that until you have. Hold it here.
 {{p|Europe}} learned at {{p|Münster}} the slow, humbling task
 Of sitting at one table with the enemy, year after year,
@@ -73,7 +73,7 @@ Of sitting at one table with the enemy, year after year,
 Arguing about the door, and signing anyway.
 The bells rang in the cities when the news came. People wept.
 Some had never known a year of peace. They had a day.
-On the Sabbath of Sabbaths, rest. The promise kept
+On the {{x|Sabbath of Sabbaths}}, rest. The promise kept
 
 Is not that we love each other. It is that we stop.
 That we lay down the sword and go home and plant the field

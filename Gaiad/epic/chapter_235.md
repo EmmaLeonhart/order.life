@@ -114,7 +114,7 @@ Of six hundred rooms, the stacked embrace
 Of four-story walls of fitted stone,
 The largest building in {{p|North America}}
 Until the nineteenth century's full-grown
-Manhattan tenements—the camera
+{{p|Manhattan}} tenements—the camera
 
 Of time would prove that {{p|Chaco}} was not a town
 But something stranger: a ceremonial

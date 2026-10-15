@@ -22,7 +22,7 @@ The book in a coffer with two locks. The material
 
 Of a people, written. And the people were afraid.
 They said: it is for a new tax. They said: the king
-Will charge us for our children. Through the West Country it was said
+Will charge us for our children. Through the {{p|West Country}} it was said
 For a year, and men were ready to rise. It was not a tax. The thing
 
 Was worse and better: it was a memory that did not die
@@ -33,12 +33,12 @@ Of that year. Not every parish obeyed. The word
 Was enforced by fines, by bishops, by the slow
 Habit of Sundays. In 1598 they were told
 To copy the old paper into parchment books, and so
-Many English registers begin with the year of the old
+Many {{x|English}} registers begin with the year of the old
 
-Queen's crowning, 1558, in a clean hand.
+{{c|Queen}}'s crowning, 1558, in a clean hand.
 And across the water, at {{p|Trent}}, in the mountains of the {{p|Tyrol}},
-The Catholic Church, answering {{c|Luther}}, in its stand
-Against the Reformers, decided at its twenty-fourth session, the whole
+The {{x|Catholic Church}}, answering {{c|Luther}}, in its stand
+Against the {{c|Reformers}}, decided at its twenty-fourth session, the whole
 
 Of {{c|Christendom}} that kept the old faith must register
 Its marriages, with witnesses, by name,
@@ -46,14 +46,14 @@ And its baptisms, with the godparents. No minister
 Could marry a couple secretly anymore. The same
 
 Book, the same page, from {{p|Lisbon}} to {{p|Kraków}}, to {{p|Lima}}, to {{p|Goa}}.
-In 1614 the Roman Ritual added the dead,
+In 1614 the {{x|Roman Ritual}} added the dead,
 And the {{c|Book of the State of Souls}}: every household, who
-Lived in it, who had made their Easter confession. The thread
+Lived in it, who had made their {{x|Easter}} confession. The thread
 
-Of the register ran out into every village of the Catholic world.
-And the Lutherans took it up, and in the North
+Of the register ran out into every village of the {{x|Catholic}} world.
+And the {{c|Lutherans}} took it up, and in the {{p|North}}
 It became the most thorough of all. In {{p|Sweden}}, unfurled
-In the Church Law of 1686, the priest went forth
+In the {{x|Church Law}} of 1686, the priest went forth
 
 House by house each year with the roll of the household examination,
 Who could read, who knew the catechism, who had moved,
@@ -62,8 +62,8 @@ Written down to the last cottar. And this is proved
 
 In this book's own blood. The ancestors of the writer of this scripture
 Have a year and nothing else, a guess, until the parish
-Begins to write. Then: *Per Olofsson, born the fourth of April, 1696*.
-A day. A real day, kept in a Swedish church. The varnish
+Begins to write. Then: *{{c|Per Olofsson}}, born the fourth of April, 1696*.
+A day. A real day, kept in a {{x|Swedish}} church. The varnish
 
 Of the old guesses comes off, and the people underneath
 Have birthdays. That is what the register gave:
@@ -76,8 +76,8 @@ And the state learned to read it. What the church had seen
 For the sake of souls, the state would read instead
 
 For soldiers and taxes and, in the worst years, for blood.
-A register that can find every Christian can find every Jew.
-Hold that. The same book. And the Mormons, in the flood
+A register that can find every {{c|Christian}} can find every {{c|Jew}}.
+Hold that. The same book. And the {{c|Mormons}}, in the flood
 Of the twentieth century, would come to photograph them, through
 
 Every archive in the world, the parish books of {{p|Europe}},
