@@ -199,6 +199,60 @@ def load_readings():
     return out
 
 
+def graft_synoptic(persons, parents_of, mode="emma"):
+    """Add the synoptic tree's ancestry (scripts/build_synoptic_supplement.py in the parent repo; Emma, 2026-10-15:
+    gaiad.ged from the synoptic tree, her real parents included). The Gaiad's parentage was kept by the builder;
+    here the tables are merged: new people as S<cluster>, their edges, and Emma's placeholder edges dropped.
+
+    mode "full": every grafted ancestor (about 42,000 people; with them the file is near GitHub's 100 MB limit, so
+    it goes inside the zips only). mode "emma": only Emma's own ancestry and her parents' other children, for the
+    main /gaiad.ged. mode None: no graft."""
+    if not mode:
+        return 0
+    import csv
+    ana = Path(__file__).resolve().parent.parent / "wikibase" / "analysis"
+    if not (ana / "synoptic_persons.tsv").exists():
+        return 0
+    with open(ana / "synoptic_persons.tsv", encoding="utf-8", newline="") as fh:
+        for r in csv.DictReader(fh, delimiter="\t"):
+            persons[r["sid"]] = {"qid": r["sid"], "label": r["name"],
+                                 "sex": {"M": SEX_MALE, "F": SEX_FEMALE}.get(r["sex"], ""),
+                                 "birth": r["birth"], "death": r["death"], "gedcom": "",
+                                 "wikidata_qid": r["wikidata"], "geni_id": r["geni"],
+                                 "_fs": r["familysearch"], "_synoptic": True}
+    with open(ana / "synoptic_drop.tsv", encoding="utf-8", newline="") as fh:
+        for r in csv.DictReader(fh, delimiter="\t"):
+            if r["parent"] in parents_of.get(r["child"], []):
+                parents_of[r["child"]].remove(r["parent"])
+    with open(ana / "synoptic_edges.tsv", encoding="utf-8", newline="") as fh:
+        edges = [(r["parent"], r["child"]) for r in csv.DictReader(fh, delimiter="\t")]
+    if mode == "emma":
+        up = {}
+        for p, c in edges:
+            up.setdefault(c, []).append(p)
+        keep, frontier = set(), ["Q2"]
+        while frontier:                      # her ancestry, upward through the grafted edges
+            nxt = []
+            for c in frontier:
+                for p in up.get(c, []):
+                    if p not in keep:
+                        keep.add(p)
+                        nxt.append(p)
+            frontier = nxt
+        her_parents = set(up.get("Q2", []))
+        keep |= {c for p, c in edges if p in her_parents}   # her siblings
+        keep.add("Q2")
+        edges = [(p, c) for p, c in edges if c in keep and p in keep]
+        for sid in [k for k, v in persons.items() if v.get("_synoptic") and k not in keep]:
+            del persons[sid]
+    n = 0
+    for p, c in edges:
+        if p in persons and c in persons and p not in parents_of.setdefault(c, []):
+            parents_of[c].append(p)
+            n += 1
+    return n
+
+
 def load_canonical_line():
     """qid -> (canonical parent qid, 'father'|'mother'), from canonical_line.py's output."""
     path = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "canonical_line.tsv"
@@ -313,12 +367,13 @@ def lineage_extras(qid, persons, sex_of, canon, labels):
     return names, notes
 
 
-def build_gedcom7(out_path, extra_lang=None):
+def build_gedcom7(out_path, extra_lang=None, graft="emma"):
     """extra_lang: a language directory's own language (Emma, 2026-10-14: the other language versions "only
     contain English, Japanese, Chinese, and then whatever ... other language the directory is in"); its real
     labels are added beside the primary zh, ja and ko."""
     tran_langs = PRIMARY_LANGS + ((extra_lang,) if extra_lang and extra_lang not in PRIMARY_LANGS else ())
     persons, parents_of, spouse_pairs, precision = load()
+    graft_synoptic(persons, parents_of, graft)
 
     sex_of = {}
     for qid, row in persons.items():
@@ -500,6 +555,15 @@ def build_gedcom7(out_path, extra_lang=None):
             raw = (row.get(col) or "").strip()
             if not raw:
                 continue
+            if row.get("_synoptic"):
+                # The synoptic tree's dates are GEDCOM dates already ("26 FEB 1996", "ABT 1700").
+                if re.fullmatch(r"(ABT |BEF |AFT |EST |CAL )?(\d{1,2} )?([A-Z]{3} )?\d{1,4}( BCE)?", raw):
+                    w(f"1 {tag}")
+                    w(f"2 DATE {raw}")
+                else:
+                    w(f"1 {tag} Y")
+                    w(f"2 NOTE Date as recorded: {val(raw)}")
+                continue
             date = ged7_date(raw, prec)
             if date:
                 w(f"1 {tag}")
@@ -519,16 +583,26 @@ def build_gedcom7(out_path, extra_lang=None):
 
         uid = person_uid(qid)
         wd = (row.get("wikidata_qid") or "").strip()
+        syn = bool(row.get("_synoptic"))
         w(f"1 REFN {qid}")
-        w("2 TYPE order.life")
+        w("2 TYPE " + ("synoptic tree" if syn else "order.life"))
         w(f"1 UID {uid}")
-        w(f"1 EXID {qid}")
-        w(f"2 TYPE {ORDERLIFE_QID_URI}")
+        if not syn:
+            w(f"1 EXID {qid}")
+            w(f"2 TYPE {ORDERLIFE_QID_URI}")
         if wd:
             w(f"1 EXID {val(wd)}")
             w(f"2 TYPE {WIKIDATA_URI}")
-        ids = f"order.life {qid}; UID {uid}" + (f"; Wikidata {wd}" if wd else "")
-        w(f"1 NOTE Gaiad person {ids}")
+        fs = (row.get("_fs") or "").strip()
+        if fs:
+            w(f"1 EXID {val(fs)}")
+            w("2 TYPE https://www.familysearch.org/tree/person/details/")
+        if syn:
+            ids = f"synoptic tree {qid}; UID {uid}" + (f"; Wikidata {wd}" if wd else "") + (f"; FamilySearch {fs}" if fs else "")
+            w(f"1 NOTE Ancestor from the synoptic tree: {ids}")
+        else:
+            ids = f"order.life {qid}; UID {uid}" + (f"; Wikidata {wd}" if wd else "")
+            w(f"1 NOTE Gaiad person {ids}")
         # Person notes (Emma, 2026-10-12: "a link to the order.life page on the individual, a link to their wiki
         # item if present, a link to ... their family search and or [Geni] items if present ... It'll cite verses").
         links = []
@@ -603,7 +677,9 @@ def build_gedcom7(out_path, extra_lang=None):
 
 if __name__ == "__main__":
     dest = Path(sys.argv[1]) if len(sys.argv) > 1 else ANA / "gaiad7.ged"
-    stats = build_gedcom7(dest, sys.argv[2] if len(sys.argv) > 2 else None)   # optional: a directory language
+    args = [a for a in sys.argv[2:] if not a.startswith("--")]
+    stats = build_gedcom7(dest, args[0] if args else None,            # optional: a directory language
+                          "full" if "--full" in sys.argv else "emma")   # --full: every character's synoptic ancestry
     print(f"Wrote {dest}")
     for k, v in stats.items():
         print(f"  {k}: {v:,}")

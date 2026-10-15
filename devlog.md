@@ -8375,3 +8375,12 @@ each its own typed NAME ("zh reading (transcription, not a Chinese name)"), only
 language. Readings are not the Chinese name (Emma: "this is not the same as somebody's Chinese name"; "we aren't
 overriding some of the other stuff"): real labels, the schema Chinese names (7,831) and the readings sit side by side;
 recorded in planning/name-schema.md. 74 MB; all people match back by ID.
+
+2026-10-15 14:17 PST: /gaiad.ged grafted from the synoptic tree (Emma: "Yes"; her parents "The synoptic tree lol"). The parent repo's
+`scripts/build_synoptic_supplement.py` maps 85,181 order.life people into the synoptic tree by Wikidata or Geni id (Emma by her
+FamilySearch id), keeps the Gaiad's parentage wherever it has any, and grafts the tree's ancestors above people who have
+none, stopping where an ancestor is an order.life person: 41,981 named ancestors and kin (nameless stubs skipped; one gave Emma
+a third, unlabelled parent). Committed tables: `wikibase/analysis/synoptic_persons.tsv`, `synoptic_edges.tsv`,
+`synoptic_drop.tsv`. Emma's placeholder parents (Q502, Q503) are replaced by Helen Frisk and Richard Wade Borsheim, with her
+brother Jared. Size decides the split: with every graft the file is 99.7 MB, at GitHub's limit, so the main /gaiad.ged takes
+order.life plus Emma's own ancestry (131,177 people, 89.8 MB) and the zips carry the full graft (148,765 people) as gedcom.ged.
