@@ -18,6 +18,7 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from datetime import date
+from zoneinfo import ZoneInfo
 
 # Fix Windows console encoding issues.
 # Some environments default to cp1252 and will crash when printing non-Latin text.
@@ -1738,7 +1739,9 @@ def build_site():
     wiki_pages = load_wiki_pages()
     genealogy = load_genealogy()
     fudoki_divisions = load_fudoki_data()
-    today = date.today()
+    # The site's day is Pacific time (Vancouver), not the build runner's UTC: with UTC the homepage
+    # showed tomorrow after a Pacific-evening push and yesterday until the morning rebuild.
+    today = datetime.datetime.now(ZoneInfo("America/Vancouver")).date()
     gaian_today = gregorian_to_gaian(today)
     iso_weekday = today.isoweekday()  # Mon=1..Sun=7
     gaian_today_doy = day_of_year(gaian_today["month"], gaian_today["day"])

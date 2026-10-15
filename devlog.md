@@ -8231,3 +8231,9 @@ festivals page's own offset points to (Rosh Hashanah, Virgo 10, minus 193 days, 
 calendar day pages now link across months (they stopped at each month's edge), with Ophiuchus 28 leading to
 Sagittarius 1 and the Horus days between them. The "Coming soon" Emma saw on ch 364 was deploy lag: the live page
 shows the chapter now.
+
+2026-10-15 03:31 PST: the calendar delay found and fixed. The homepage's today and daily chapter are computed at build
+time from the runner's UTC date, and the only scheduled rebuild was 16:00 UTC (8 AM PST). So the site showed
+yesterday from Pacific midnight until about 8 AM, and showed tomorrow after any Pacific-evening push. build.py now
+takes today in America/Vancouver, and deploy.yml rebuilds at 00:05 Pacific (07:05 and 08:05 UTC, for summer and
+winter time); the 16:00 rebuild stays for the Discord bot.
