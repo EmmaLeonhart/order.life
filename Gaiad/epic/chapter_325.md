@@ -3,13 +3,13 @@
 On the sixteenth of May, 1966,
 A circular went out inside the party, in {{p|Beijing}}.
 It was called a notification.
-The name that stayed is the Cultural Revolution.
+The name that stayed is the {{x|Cultural Revolution}}.
 The country was not given the text that day.
-People's Daily printed it a year later,
+{{x|People's Daily}} printed it a year later,
 On the seventeenth of May, 1967.
 A circular inside a party is not a vote of the people.
 
-On the eighth of August the Central Committee adopted
+On the eighth of August the {{x|Central Committee}} adopted
 A decision on that revolution, in sixteen points.
 The decision is not a catalog of what to break.
 
@@ -17,7 +17,7 @@ On the first of June the same newspaper had printed four names:
 Old ideas, old culture, old customs, old habits.
 Which object was old was not written down.
 On the eighteenth of August, at the gate in {{p|Beijing}},
-{{c|Mao Zedong}} received the Red Guards.
+{{c|Mao Zedong}} received the {{c|Red Guards}}.
 He wore an army coat.
 {{c|Lin Biao}} told the crowd to smash the four.
 The size of the crowd is not settled in this chapter.
@@ -34,7 +34,7 @@ Some objects were hidden.
 A hidden book does not put a hall back.
 A hall still standing does not close a grave.
 A person is not the label the month set on them.
-The Red Guards were students.
+The {{c|Red Guards}} were students.
 They were not the whole of the country.
 
 In {{p|Qufu}} the temple, the mansion, and the cemetery
@@ -42,7 +42,7 @@ Of {{c|Confucius}} stood under a protection of the state.
 In August the hands charged with the three places
 Did not give them up.
 Early in November a group came from {{p|Beijing}},
-Led by {{c|Tan Houlan}}, of Beijing Normal University.
+Led by {{c|Tan Houlan}}, of {{p|Beijing Normal University}}.
 On the twelfth, later accounts give the word
 From {{c|Chen Boda}} and {{c|Qi Benyu}} as three charges.
 Do not destroy the mansion, the temple, or the cemetery.
@@ -81,7 +81,7 @@ In {{p|Beijing}}.
 On the sixth of October {{c|Hua Guofeng}} had four people arrested:
 {{c|Jiang Qing}}, {{c|Zhang Chunqiao}},
 {{c|Yao Wenyuan}}, {{c|Wang Hongwen}}.
-The name given afterward is the Gang of Four.
+The name given afterward is the {{c|Gang of Four}}.
 The arrest is the end the later telling uses.
 It did not fill the grave.
 A judgment written in a later year

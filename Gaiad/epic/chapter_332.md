@@ -26,8 +26,8 @@ A link that cannot leave is not this notice.
 In May 1990 he circulated the proposal again.
 In October he and {{c|Robert Cailliau}} reformulated it.
 He chose a name.
-The names he set aside were Information Mesh,
-The Mine of Information, and the Information Mine.
+The names he set aside were {{x|Information Mesh}},
+The {{x|Mine of Information}}, and the {{x|Information Mine}}.
 Do not collapse October into the document of November.
 On the twelfth of November the two of them
 Dated a proposal for a hypertext project.
@@ -45,11 +45,11 @@ It is not a roll of who was there in August.
 On the twentieth of December, 1990,
 The laboratory's timeline dates the first server,
 And the first page.
-The machine was a NeXT.
+The machine was a {{x|NeXT}}.
 The address was info.cern.ch.
 The page was a page about the project.
-He wrote that by Christmas the browsers could be shown.
-Christmas is not the twentieth.
+He wrote that by {{x|Christmas}} the browsers could be shown.
+{{x|Christmas}} is not the twentieth.
 Do not make them one morning.
 {{c|Nicola Pellow}}, a student, had begun in November
 A browser for a line at a time.
@@ -86,7 +86,7 @@ At a meeting on hypertext.
 A demonstration is not an adoption.
 
 His list, written in 1995, puts a first server
-Outside Europe in May, at the laboratory
+Outside {{p|Europe}} in May, at the laboratory
 In {{p|Menlo Park}}.
 The laboratory dates the installation
 To the twelfth of December, a Thursday.

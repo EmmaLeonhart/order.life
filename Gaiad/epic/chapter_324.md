@@ -1,13 +1,13 @@
 # Chapter 324: The Master in the Mountain
 
 The filming did not begin in the year of the vault.
-In 1938 the Genealogical Society of Utah
+In 1938 the {{x|Genealogical Society of Utah}}
 Began to copy books onto rolls of film.
 The vault is where the masters were put.
 It is not the first camera.
 
 The place is {{p|Little Cottonwood Canyon}},
-In the Wasatch, in {{p|Utah}},
+In the {{p|Wasatch}}, in {{p|Utah}},
 About a mile up from the mouth,
 About twenty miles southeast of {{p|Salt Lake City}}.
 The room is cut into the north wall.
@@ -61,9 +61,9 @@ Do not say the whole of it was built in 1965.
 1965 is the year the work was going.
 The dedication is the next year.
 
-The owner is the Church of Jesus Christ of Latter-day Saints.
+The owner is the {{x|Church of Jesus Christ of Latter-day Saints}}.
 The society that sent the cameras
-Is the Genealogical Society of Utah.
+Is the {{x|Genealogical Society of Utah}}.
 Where an archive agreed, a camera copied the books.
 The camera does not take the book.
 The book stays where it was.

@@ -3,13 +3,13 @@
 No holiday is named for this day.
 The leftover note on a morning of terror in {{p|New York}}
 Is not this page.
-The new rice of the autumn, offered on Niiname-sai,
-Was the chapter of Scorpius.
+The new rice of the autumn, offered on {{x|Niiname-sai}},
+Was the chapter of {{x|Scorpius}}.
 This is its rare enlargement.
 
 On Monday, the first of April, 2019,
 In {{p|Tokyo}}, {{c|Yoshihide Suga}} holds up a board.
-Written on it is the name of the coming era, Reiwa.
+Written on it is the name of the coming era, {{x|Reiwa}}.
 The two characters are taken from the {{p|Man'yōshū}},
 From the preface to poems on the plum blossom.
 It is said to be the first era name
@@ -33,8 +33,8 @@ On Monday, the thirteenth of May,
 A turtle's shell is heated,
 And the cracks in it are read.
 The reading chooses two fields.
-The field of the east, the Yuki, is in {{p|Tochigi}}.
-The field of the west, the Suki, is in {{p|Kyoto}}.
+The field of the east, the {{p|Yuki}}, is in {{p|Tochigi}}.
+The field of the west, the {{p|Suki}}, is in {{p|Kyoto}}.
 A crack in a shell is not a vote.
 It is older than the votes.
 The farmers of the two fields grow the rice.

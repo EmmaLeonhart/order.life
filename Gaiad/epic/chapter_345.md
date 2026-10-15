@@ -11,7 +11,7 @@ Says the seventh through the eighteenth of December, 2009.
 The report says the seventh through the nineteenth.
 The accord is dated the eighteenth.
 The three are not one span.
-The decision takes note of the Copenhagen Accord.
+The decision takes note of the {{x|Copenhagen Accord}}.
 Taking note is not adopting.
 The accord says the increase should be below two degrees.
 It also speaks, with a view to the cuts, of holding that increase below two.
@@ -25,7 +25,7 @@ And of a goal of mobilizing jointly
 One hundred billion dollars a year by 2020.
 Approaching is not a sum already counted.
 A goal is not a sum already paid.
-The noted text says a Copenhagen Green Climate Fund
+The noted text says a {{x|Copenhagen Green Climate Fund}}
 Shall be established.
 A sentence inside a text the hall only notes
 Is not a decision of the hall.
@@ -33,8 +33,8 @@ Is not a decision of the hall.
 The session in {{p|Cancún}} is dated
 From the twenty-ninth of November
 Through the tenth of December, 2010.
-The decision there establishes the Green Climate Fund.
-The name does not keep Copenhagen.
+The decision there establishes the {{x|Green Climate Fund}}.
+The name does not keep {{p|Copenhagen}}.
 The establishment is not the money.
 A board is provided for.
 The board is not the money.
@@ -60,7 +60,7 @@ Coming into effect from 2020 is not this morning.
 On Saturday, the eighth of December, 2012,
 In {{p|Doha}}, an amendment is adopted.
 It sets a second commitment period
-Under the Kyoto Protocol.
+Under the {{x|Kyoto Protocol}}.
 Adoption that day is not entry into force.
 The period is written to begin
 On the first of January, 2013.
@@ -82,8 +82,8 @@ Extremely likely is not a count of the living.
 
 Days before the hall in {{p|Warsaw}} opens,
 A storm comes ashore in the {{p|Philippines}}.
-The wires call it Haiyan.
-The islands call it Yolanda.
+The wires call it {{x|Haiyan}}.
+The islands call it {{x|Yolanda}}.
 The chapter does not count the dead.
 The session runs from the eleventh
 Through the twenty-third of November, 2013.
@@ -100,7 +100,7 @@ The United States intends a cut
 Of twenty-six to twenty-eight percent
 Below the level of 2005, by 2025,
 And best efforts to reduce by the twenty-eight.
-China intends its carbon dioxide emissions
+{{p|China}} intends its carbon dioxide emissions
 To peak around 2030,
 And best efforts to peak early,
 And intends the non-fossil share of primary energy

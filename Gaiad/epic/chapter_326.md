@@ -4,32 +4,32 @@ On the sixteenth of July, 1969,
 {{c|Neil Armstrong}}, {{c|Buzz Aldrin}}, and {{c|Michael Collins}}
 Left the cape then called {{p|Cape Kennedy}}.
 The cape is now {{p|Cape Canaveral}}.
-The center is the Kennedy Space Center.
+The center is the {{p|Kennedy Space Center}}.
 Do not collapse the names.
-A person had already left the Earth in the spring of 1961.
+A person had already left the {{p|Earth}} in the spring of 1961.
 On the twenty-fifth of May, 1961,
 {{c|John Kennedy}} had asked for a landing and a return
 Before the decade was out.
 
-On the twentieth of July the lander, called the Eagle,
+On the twentieth of July the lander, called the {{x|Eagle}},
 Set down on the {{p|Sea of Tranquility}}.
-By the Greenwich clock it was seventeen minutes past eight
+By the {{p|Greenwich}} clock it was seventeen minutes past eight
 In the evening.
 In the east of the {{p|United States}}
 It was seventeen minutes past four in the afternoon.
 The landing is the twentieth on both clocks.
-{{c|Neil Armstrong}} said: Houston, Tranquility Base here.
-The Eagle has landed.
-{{c|Michael Collins}} stayed in the ship called Columbia,
+{{c|Neil Armstrong}} said: {{p|Houston}}, {{p|Tranquility Base}} here.
+The {{x|Eagle}} has landed.
+{{c|Michael Collins}} stayed in the ship called {{x|Columbia}},
 In orbit, so the two could come back.
 He did not walk.
 Do not say three men walked.
 
 The step was later.
-By the clocks of the United States
+By the clocks of the {{p|United States}}
 It was still the twentieth, about four minutes before eleven
 At night, in the east.
-By the Greenwich clock it was four minutes before three
+By the {{p|Greenwich}} clock it was four minutes before three
 In the morning of the twenty-first.
 Do not collapse the two dates.
 The second on the tape is not settled here.
@@ -49,16 +49,16 @@ He did not speak the bread and the wine on the open line.
 A thanks asked of every listener
 Is not the same act as a rite kept beside the radio.
 
-A machine had struck the Moon in 1959.
+A machine had struck the {{p|Moon}} in 1959.
 A machine had set down and sent pictures back in 1966.
-In December 1968 three people had gone around the Moon
+In December 1968 three people had gone around the {{p|Moon}}
 And come back. They had not landed.
 Do not say a boot was the first thing to touch.
 The first in this chapter is the first people to step out
 And stand, and the first to leave again alive.
 
 The plaque on the leg of the lander says
-That men from the Earth first set foot upon the Moon,
+That men from the {{p|Earth}} first set foot upon the {{p|Moon}},
 In July 1969.
 It does not give the day.
 It says they came in peace for all mankind.
@@ -74,14 +74,14 @@ They were on the ground for about twenty-one hours and a half.
 The walk was about two hours and a half.
 They left the ground on the twenty-first, by both clocks.
 On the twenty-fourth of July they came down in the {{p|Pacific}}.
-The ship that took them aboard was the Hornet.
+The ship that took them aboard was the {{x|Hornet}}.
 
 On the twenty-ninth of October, at half past ten at night,
 In {{p|Los Angeles}}, a line was opened
 To {{p|Menlo Park}}.
 {{c|Charley Kline}} typed, in the laboratory of {{c|Leonard Kleinrock}}.
 {{c|Bill Duvall}} was at the far end,
-At the Stanford Research Institute.
+At the {{x|Stanford Research Institute}}.
 The word they meant to send was login.
 The first try carried L, and O, and stopped.
 The log they kept is those two letters.
@@ -105,7 +105,7 @@ Two letters are not yet a people talking.
 The web people later used is not this October.
 Do not move it back.
 
-This day of the book keeps the Thanksgiving
+This day of the book keeps the {{x|Thanksgiving}}
 Of the {{p|United States}}.
 The landing was in July.
 The two letters were in October.
@@ -114,7 +114,7 @@ Was the twenty-seventh of November.
 None of the three is the others' day.
 
 A harvest was eaten in 1621, at {{p|Plymouth}},
-By the English there and by the Wampanoag.
+By the {{c|English}} there and by the {{c|Wampanoag}}.
 That table was not a national holiday.
 In 1863 {{c|Abraham Lincoln}} proclaimed a national day,
 The last Thursday of November, in a war.
@@ -128,10 +128,10 @@ A landing is not a thanks.
 
 Count the twentieth for the landing on both clocks.
 Count the step on the twentieth in the country
-And on the twenty-first at Greenwich.
+And on the twenty-first at {{p|Greenwich}}.
 Count the two letters on the twenty-ninth of October.
 Count the Thursday of the meal on its own day.
-The Eagle came back.
+The {{x|Eagle}} came back.
 The two letters were only a beginning.
 A path opened is not yet a reason.
 The reason is what the people do with the path,

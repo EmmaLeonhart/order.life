@@ -20,7 +20,7 @@ An order set at random is not no order.
 It is an order that refuses to rank.
 
 The task was translation,
-From English into German and into French.
+From {{x|English}} into {{x|German}} and into {{x|French}}.
 The old machines read a sentence one word at a time,
 Carrying what came before in a single thread.
 A thread can fray.

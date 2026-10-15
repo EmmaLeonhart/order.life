@@ -1,11 +1,11 @@
 # Chapter 323: The Mother Tongue
 
 On the eleventh of October, 1962,
-In the basilica of Saint Peter, in {{p|Vatican City}},
+In the basilica of {{c|Saint Peter}}, in {{p|Vatican City}},
 {{c|John XXIII}} opened a council.
 He had said, on the twenty-fifth of January, 1959,
 In {{p|Rome}}, to the cardinals gathered in the house
-Beside the basilica of Saint Paul Outside the Walls,
+Beside the basilica of {{p|Saint Paul Outside the Walls}},
 That a council would be called,
 And a synod for the city,
 And a bringing up to date of the code of the law.
@@ -23,11 +23,11 @@ The second session ran from the twenty-ninth of September
 To the fourth of December, 1963.
 On that day he promulgated the constitution
 On the sacred liturgy.
-Its name is Sacrosanctum Concilium.
+Its name is {{x|Sacrosanctum Concilium}}.
 
 Particular law remaining in force,
-The use of Latin is to be preserved in the Latin rites.
-Since the mother tongue, in the Mass,
+The use of {{x|Latin}} is to be preserved in the {{x|Latin}} rites.
+Since the mother tongue, in the {{x|Mass}},
 In the sacraments, and in the other parts,
 May often be of great advantage to the people,
 The limits of its use may be extended.
@@ -40,72 +40,72 @@ First, the readings and the common prayer.
 Also, as the place warrants,
 The parts that pertain to the people.
 Steps are to be taken so that the same people
-May also say, or sing, in Latin,
+May also say, or sing, in {{x|Latin}},
 The parts of the ordinary that are theirs.
 A use wider than that follows a further article.
 It is not taken by the parish.
 
 The competent territorial authority decides the extent.
-The Apostolic See confirms the decision.
+The {{x|Apostolic See}} confirms the decision.
 A translation into the mother tongue
-Is made from the Latin text,
+Is made from the {{x|Latin}} text,
 And that authority approves it.
 No other person, even a priest,
 May add, or remove, or change anything in the rite
 On his own authority.
 
-The practical norms are for the Roman rite.
+The practical norms are for the {{x|Roman rite}}.
 The other rites, lawfully acknowledged,
 Are held of equal right and dignity,
 And are to be preserved.
 Particular law had already excepted some places.
 The constitution keeps the exception.
-The Kyrie of the Mass was already Greek.
+The {{x|Kyrie}} of the {{x|Mass}} was already {{x|Greek}}.
 
 On the twenty-sixth of September, 1964,
 An instruction carried the constitution toward the Sunday.
-The Consilium prepared it, by mandate of {{c|Paul VI}}.
+The {{x|Consilium}} prepared it, by mandate of {{c|Paul VI}}.
 {{c|Giacomo Lercaro}} presented it.
 {{c|Paul VI}} confirmed it in an audience
 Given to {{c|Arcadio Maria Larraona}},
-Prefect of the Congregation of Rites,
+Prefect of the {{x|Congregation of Rites}},
 And ordered it observed from the seventh of March, 1965,
-The first Sunday of Lent.
+The first Sunday of {{x|Lent}}.
 
-For a Mass with a congregation,
-Once the Holy See has confirmed the decision,
+For a {{x|Mass}} with a congregation,
+Once the {{x|Holy See}} has confirmed the decision,
 The people's language may be used
 For the lessons, the epistle, and the gospel,
 For the prayer of the faithful,
 For the chants of the ordinary,
-The Kyrie, the Gloria, the creed,
-The Sanctus, and the Agnus Dei,
+The {{x|Kyrie}}, the {{x|Gloria}}, the creed,
+The {{x|Sanctus}}, and the {{x|Agnus Dei}},
 For the introit, the offertory, and the communion,
 For the chants between the readings,
 For the greetings and the dialogues,
 For the words at the people's communion,
-And for the Lord's Prayer,
+And for the {{x|Lord's Prayer}},
 With its introduction and the short prayer after it.
-The book at the rite keeps the Latin text beside the other.
+The book at the rite keeps the {{x|Latin}} text beside the other.
 The pastors are charged to see
-That the people can still say, or sing, in Latin,
+That the people can still say, or sing, in {{x|Latin}},
 The parts of the ordinary that are theirs.
 
 The parts the priest sings or says alone
 Are not on that list.
-The Holy See alone can permit those.
-Do not say the whole Mass changed its tongue
+The {{x|Holy See}} alone can permit those.
+Do not say the whole {{x|Mass}} changed its tongue
 On the seventh of March.
 Do not say the instruction took the priest's own prayer
-Out of Latin.
+Out of {{x|Latin}}.
 
 The council closed on the eighth of December, 1965.
-The constitution was not a new book of the Mass.
+The constitution was not a new book of the {{x|Mass}}.
 A later book is not moved back into these years.
 
-Do not say the council silenced Latin.
+Do not say the council silenced {{x|Latin}}.
 The page that opens the mother tongue
-Says that Latin is to be preserved.
+Says that {{x|Latin}} is to be preserved.
 Do not say the people were left outside the words.
 The constitution says they are not to be there
 As strangers, or as silent spectators.
@@ -120,7 +120,7 @@ A permission is not yet a Sunday.
 Hold the two sentences on the one page.
 The striving is that the people understand the rite
 And take their part in it,
-In a tongue they are given, and in the Latin
+In a tongue they are given, and in the {{x|Latin}}
 The page refused to discard.
 Count the constitution on the fourth of December.
 Count the instruction on the seventh of March.

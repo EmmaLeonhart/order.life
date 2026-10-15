@@ -1,6 +1,6 @@
 # Chapter 321: The Suggested Copy
 
-On the twenty-fifth of April, 1953, the journal Nature
+On the twenty-fifth of April, 1953, the journal {{x|Nature}}
 Printed three papers on one substance.
 The substance is deoxyribose nucleic acid.
 The initials are DNA.
@@ -21,22 +21,22 @@ Of workers in {{p|London}}.
 A suggestion is not a measurement they made.
 It begins on one page and ends on the next.
 
-The other two papers are from King's College, London.
+The other two papers are from {{p|King's College}}, {{p|London}}.
 {{c|Maurice Wilkins}} and his colleagues signed one.
 {{c|Rosalind Franklin}} and {{c|Raymond Gosling}} signed the other.
 Their photograph of the salt, taken in 1952,
 Is in that issue under their names.
-Franklin had measured a helix.
+{{c|Franklin}} had measured a helix.
 She had the phosphates on the outside
 And the bases toward the middle.
-She had not signed the Cambridge page.
+She had not signed the {{p|Cambridge}} page.
 Do not say she failed to see her own photograph.
 The claim that she missed it is a later telling.
 The journal of that April prints her name
 On the evidence.
 
-In 1968 Watson published a book.
-He wrote that Wilkins showed him the photograph
+In 1968 {{c|Watson}} published a book.
+He wrote that {{c|Wilkins}} showed him the photograph
 In the first months of 1953,
 And that his pulse raced.
 The book is his account, fifteen years on.
@@ -45,7 +45,7 @@ The book speaks of her in a way the April page does not.
 Take the page.
 
 Five weeks later, on the thirtieth of May,
-Watson and Crick published the genetical implications.
+{{c|Watson}} and {{c|Crick}} published the genetical implications.
 The April sentence had already said the pairing suggests a copy.
 
 This was not the discovery of the substance.
@@ -70,11 +70,11 @@ He did not sign the April papers.
 Earlier in 1953 {{c|Linus Pauling}} had published a structure
 Of three chains.
 It did not hold.
-The Cambridge page says its own structure is another.
+The {{p|Cambridge}} page says its own structure is another.
 
 In 1962 the prize in physiology or medicine
-Went to Watson, to Crick, and to Wilkins.
-Franklin had died in 1958.
+Went to {{c|Watson}}, to {{c|Crick}}, and to {{c|Wilkins}}.
+{{c|Franklin}} had died in 1958.
 The prize is not given to the dead.
 Her name is on the April page.
 The prize's list is not that page.
@@ -101,4 +101,4 @@ The substance was already known to carry a change.
 The new sentence is the shape, and the copy the shape allows.
 A shape is not a commandment.
 The dead of the prize's year are not this chapter.
-Franklin's measurement is.
+{{c|Franklin}}'s measurement is.

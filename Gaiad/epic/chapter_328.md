@@ -1,7 +1,7 @@
 # Chapter 328: As of 1979
 
 From the eighteenth to the twenty-second of December, 1978,
-The Central Committee sat in {{p|Beijing}}.
+The {{x|Central Committee}} sat in {{p|Beijing}}.
 It was the third session of the eleventh committee.
 {{c|Hua Guofeng}} presided.
 He was the chairman.
@@ -58,13 +58,13 @@ No abdication was signed.
 On the first of February {{c|Ruhollah Khomeini}} landed
 At the airport in the city,
 At half past nine in the morning, by that city's clock.
-The aircraft was a chartered plane of Air France.
+The aircraft was a chartered plane of {{x|Air France}}.
 It had left {{p|Paris}}.
 The years of the exile are counted differently.
 This chapter does not choose the count.
 The size of the crowd is not settled.
 He spoke at the airport.
-He went to the cemetery of Behesht-e Zahra,
+He went to the cemetery of {{p|Behesht-e Zahra}},
 Where people killed in the revolution were buried.
 On the eleventh of February the government fell.
 A landing is not yet a state.

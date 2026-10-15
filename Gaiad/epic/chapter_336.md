@@ -120,7 +120,7 @@ So the day was real.
 A rule that stops a century's leap
 Would have skipped it.
 {{c|John Koskinen}} said the glitches were a handful.
-A message archive of the Coast Guard
+A message archive of the {{x|Coast Guard}}
 Refused the date. The operations held.
 At {{p|Offutt}}, near {{p|Omaha}},
 A count of equipment and stores stumbled,

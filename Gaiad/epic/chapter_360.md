@@ -39,7 +39,7 @@ And {{c|Robert Francis Prevost}}, of {{p|Chicago}} and {{p|Peru}},
 Is chosen bishop of {{p|Rome}}.
 He takes the name {{c|Leo XIV}}.
 On Saturday, the tenth, he says the name recalls
-The Leo who answered the first industrial revolution,
+The {{c|Leo}} who answered the first industrial revolution,
 And that the church must answer another,
 The revolution of the thinking machines.
 A name is not a policy.

@@ -49,23 +49,23 @@ Finding is not becoming.
 It is learning what one already was.
 
 Here is the coincidence.
-The month of Virgo in this book is the fifteen- and sixteen-hundreds,
+The month of {{x|Virgo}} in this book is the fifteen- and sixteen-hundreds,
 The early modern years,
-The years of Bureus and of the first documented Bures.
-Her search into those years fell in the month of Virgo of this year.
+The years of {{c|Bureus}} and of the first documented {{c|Bures}}.
+Her search into those years fell in the month of {{x|Virgo}} of this year.
 The month and the search were not planned to meet.
 Not planned is not meaningless.
 The calendar was doing more work than she thought.
 
-The Virgo of the calendar holds the days of awe.
-Its tenth day, Rosh Hashanah, is the birthday of {{c|Adam}},
+The {{x|Virgo}} of the calendar holds the days of awe.
+Its tenth day, {{x|Rosh Hashanah}}, is the birthday of {{c|Adam}},
 The first person, the head of every line.
-Its twentieth, Yom Kippur, is the day {{c|Moses}}
+Its twentieth, {{x|Yom Kippur}}, is the day {{c|Moses}}
 Brought down the second tablets,
 The first writing in letters.
 The first letters are the first register.
-Sukkot, after them, is kept for the sailors
-Of the early modern sea, the pirates and the Jesuits,
+{{x|Sukkot}}, after them, is kept for the sailors
+Of the early modern sea, the pirates and the {{c|Jesuits}},
 In houses that do not stay.
 A Jewish season was found to hold a Jewish line
 In the same weeks that the line was found.

@@ -13,8 +13,8 @@ On Thursday, the twenty-third of June, 2016,
 The {{p|United Kingdom}} votes
 On whether to remain in the union of {{p|Europe}}
 Or to leave it.
-Leave has about fifty-two in a hundred.
-Remain has about forty-eight.
+{{x|Leave}} has about fifty-two in a hundred.
+{{x|Remain}} has about forty-eight.
 A narrow count is not a divided country.
 The country was divided before the count.
 The count made it visible.
@@ -44,7 +44,7 @@ On Monday, the nineteenth of December, the electors vote.
 On Friday, the twentieth of January, 2017, he is sworn in.
 The swearing is not the winning.
 
-The hat says make America great again.
+The hat says make {{p|America}} great again.
 An older candidate had used nearly the words in 1980.
 Again is the word that carries the weight.
 Again is not a date.

@@ -18,7 +18,7 @@ On Thursday, the seventh.
 {{c|Larry Page}} and {{c|Sergey Brin}} were there.
 
 The lists of the houses do not agree.
-Random House, that week, had not signed.
+{{x|Random House}}, that week, had not signed.
 A talk at the fair is not a signature.
 They would not say how many books
 Had been taken in.
@@ -43,12 +43,12 @@ The way of the scan is not set down.
 On Tuesday, the fourteenth of December,
 In {{p|Mountain View}},
 The same program was widened to five libraries.
-Harvard, in {{p|Cambridge}}.
-Stanford.
-Michigan, in {{p|Ann Arbor}}.
-Oxford, in {{p|Oxford}}.
+{{p|Harvard}}, in {{p|Cambridge}}.
+{{p|Stanford}}.
+{{p|Michigan}}, in {{p|Ann Arbor}}.
+{{p|Oxford}}, in {{p|Oxford}}.
 And the public library in {{p|New York}}.
-Page said that even before the company,
+{{c|Page}} said that even before the company,
 They dreamed of making searchable
 What librarians lovingly organize.
 The release says a user can find a match
@@ -58,11 +58,11 @@ Make money from that information.
 A match is not the book.
 
 The five did not give the same pile.
-Harvard gave a pilot of about forty thousand,
+{{p|Harvard}} gave a pilot of about forty thousand,
 Taken at random,
 Both in and out of copyright.
-The size of Harvard's whole library is not agreed.
-At Michigan the collection was offered.
+The size of {{p|Harvard}}'s whole library is not agreed.
+At {{p|Michigan}} the collection was offered.
 The count is not agreed.
 {{c|William Gosling}} says seven million,
 Not the special collections,
@@ -71,17 +71,17 @@ Where the library had been doing
 About five thousand a year.
 Another paper says seven million
 And four hundred thousand.
-Stanford's count is not agreed.
+{{p|Stanford}}'s count is not agreed.
 One estimate says seven million.
 Another says nearly all of eight million.
 
-Oxford's share is not agreed.
+{{p|Oxford}}'s share is not agreed.
 One account says the books of nineteen hundred
 And before.
 Another says the nineteenth-century holdings,
 About a million, out of about eight million.
 Another says the whole library.
-The Bodleian dates from sixteen hundred and two.
+The {{p|Bodleian}} dates from sixteen hundred and two.
 One paper says more than eight million books,
 On shelves of more than a hundred and twenty miles.
 The length of the shelves is not the scan.
@@ -107,7 +107,7 @@ The whole of such a book may be taken in.
 The page shown is not the whole.
 The way of the scan is not set down.
 
-One report says a small sample from Michigan
+One report says a small sample from {{p|Michigan}}
 Could be searched that Tuesday.
 The library's own account says a larger body
 Comes later, as the work moves out of a pilot.
@@ -122,7 +122,7 @@ None is chosen.
 One report says a library receives a copy
 Of what was made from its own books.
 
-The name on this Tuesday is Google Print.
+The name on this Tuesday is {{x|Google Print}}.
 A later name is not this year.
 The suits of the next year are not this Tuesday.
 

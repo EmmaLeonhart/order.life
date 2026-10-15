@@ -12,7 +12,7 @@ Before a person could search it.
 He said the work had just been opened
 In most of the {{p|Utah}} stakes
 That were already extracting records,
-And that a person outside Utah could register.
+And that a person outside {{p|Utah}} could register.
 He said the history ships and the temple receives.
 The ordinance is not the index.
 He also spoke of one pedigree the relatives would share.
@@ -113,17 +113,17 @@ A map of similarity is not a name in a book.
 A person could, in time, join a study.
 Aggregated data would, in time,
 Be made available outside, for study, and never sold.
-Avey said the data would not leave.
+{{c|Avey}} said the data would not leave.
 The three sentences are not made one.
 The way of the consent is not set down.
-Wojcicki is married to {{c|Sergey Brin}}.
+{{c|Wojcicki}} is married to {{c|Sergey Brin}}.
 The marriage is not the shop.
-One paper says Google's spring sum was three point nine million,
+One paper says {{x|Google}}'s spring sum was three point nine million,
 And that he had stepped back from it.
 The sum is not the price.
 Another company had announced, and was not yet selling.
 A company in {{p|Iceland}} is not this shop.
-Europe, Canada, and a cheaper price are not this year.
+{{p|Europe}}, {{p|Canada}}, and a cheaper price are not this year.
 A reference sequence of four years earlier is not this tube.
 
 The index in these papers is free.

@@ -1,6 +1,6 @@
 # Chapter 350: The Borrowed Robe
 
-This is the Ides of Ophiuchus.
+This is the Ides of {{x|Ophiuchus}}.
 The leftover note on a plague of the immune system
 Is not this page.
 The ides are the middle of the month.
@@ -24,15 +24,15 @@ On Sunday, the twenty-ninth of June,
 The first day of the fast of that year,
 Its spokesman declares a caliphate.
 A declaration is not a consensus.
-The scholars of most of the world's Muslims
+The scholars of most of the world's {{c|Muslims}}
 Do not accept it.
 Not accepting is not stopping.
 
 On Friday, the fourth of July,
-In the Great Mosque of al-Nuri in {{p|Mosul}},
+In the {{p|Great Mosque of al-Nuri}} in {{p|Mosul}},
 {{c|Abu Bakr al-Baghdadi}} gives the sermon
 In a black robe and turban.
-The robe recalls the Abbasids.
+The robe recalls the {{c|Abbasids}}.
 Recalling is not descending.
 A pulpit is not a lineage.
 A watch is seen on his wrist.
@@ -60,22 +60,22 @@ The mountain is not a refuge for all who climb it.
 A people with no book, the group says,
 Has no protection.
 A people with no book is not a people with no tradition.
-The Yazidis' tradition is older than the group's caliph.
+The {{c|Yazidis}}' tradition is older than the group's caliph.
 
 In {{p|Palmyra}}, on Tuesday, the eighteenth of August, 2015,
 {{c|Khaled al-Asaad}}, who had kept the ruins for decades,
 Is killed.
-That summer the temple of Bel is blown up.
+That summer the temple of {{c|Bel}} is blown up.
 A ruin destroyed is not a past erased.
 The past was in the keeper too.
 
 On Wednesday, the twenty-first of June, 2017,
-The mosque of al-Nuri and its leaning minaret
+The mosque of {{p|al-Nuri}} and its leaning minaret
 Are blown up, as the city is being retaken.
 The pulpit is gone.
 The pulpit going is not the idea going.
 
-The register in Ophiuchus has a shadow.
+The register in {{x|Ophiuchus}} has a shadow.
 Others reached back for an old word to make a new thing.
 This group reached back for a robe and a mosque,
 To make a state of fear look like a return.
@@ -86,5 +86,5 @@ The absurdity is that the ancient was staged with a camera
 And sold to young men over the net.
 The striving is to keep the robe from being taken for the line,
 The rule from being taken for the first century,
-And the Yazidis
+And the {{c|Yazidis}}
 From being taken for a people without a past.

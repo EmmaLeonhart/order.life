@@ -50,8 +50,8 @@ At the airport the crowds run beside the planes.
 Some hold on to them.
 Holding on is not boarding.
 On Thursday, the twenty-sixth,
-A bomb at the gate called Abbey kills
-Afghans and American soldiers.
+A bomb at the gate called {{p|Abbey}} kills
+{{c|Afghans}} and American soldiers.
 The chapter does not count them.
 On Monday, the thirtieth, before midnight in {{p|Kabul}},
 The last of the American planes leaves.

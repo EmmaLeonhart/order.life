@@ -31,7 +31,7 @@ The program plays its thirty-seventh move
 On the fifth line, on the shoulder.
 The commentators think it is a mistake.
 A move they had not seen is not a mistake.
-Lee leaves the room for a while.
+{{c|Lee}} leaves the room for a while.
 Leaving the room is not resigning.
 He loses the game.
 
@@ -40,7 +40,7 @@ The match is the program's.
 Losing the match is not losing the next game.
 
 On Sunday, the thirteenth, in the fourth game,
-Lee plays his seventy-eighth move,
+{{c|Lee}} plays his seventy-eighth move,
 A wedge in the middle.
 The program had not thought it likely.
 Not likely is not impossible.
@@ -56,7 +56,7 @@ The prize is not the point.
 The point is that the hardest of the old games
 Is no longer the human's alone.
 
-In 2019, Lee retires from the game.
+In 2019, {{c|Lee}} retires from the game.
 He says there is an entity that cannot be defeated.
 Cannot be defeated is not a law.
 It is how it felt.

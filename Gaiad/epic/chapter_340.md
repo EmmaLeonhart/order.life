@@ -13,14 +13,14 @@ He said he could do it better, and in a week.
 
 On Wednesday, the fourth of February, 2004,
 In the afternoon, after about a week of coding,
-He opened thefacebook.com.
+He opened {{x|thefacebook.com}}.
 The first paper does not name the room.
-A later account puts it in Kirkland House.
+A later account puts it in {{p|Kirkland House}}.
 
-A Harvard address could put up a picture,
+A {{p|Harvard}} address could put up a picture,
 And personal and academic information.
 The way of the joining is not set down.
-He said Friendster was a model.
+He said {{x|Friendster}} was a model.
 A person could search by interests,
 And make a network of friends.
 He said a search could be limited
@@ -84,19 +84,19 @@ Whether the college finished its book that spring
 Is not this page.
 
 The day the other schools opened is not agreed.
-One paper says Columbia, in {{p|New York}},
+One paper says {{p|Columbia}}, in {{p|New York}},
 On Wednesday the twenty-fifth,
-And Stanford on the Thursday,
-And Yale, in {{p|New Haven}}, on the Monday.
-Another paper puts Columbia on the Thursday.
+And {{p|Stanford}} on the Thursday,
+And {{p|Yale}}, in {{p|New Haven}}, on the Monday.
+Another paper puts {{p|Columbia}} on the Thursday.
 None is chosen.
 A person at one school could not open
 A person at another.
 The Monday paper gives just under
 Seven thousand five hundred in the whole,
-And five thousand fifty-five students at Harvard
+And five thousand fifty-five students at {{p|Harvard}}
 As of the last day of February.
-He wrote that eighty-five in a hundred at Harvard
+He wrote that eighty-five in a hundred at {{p|Harvard}}
 Had registered.
 That fraction is his letter, not an audit.
 
@@ -116,13 +116,13 @@ As the one who spoke for the site.
 {{c|Dustin Moskovitz}} is named that March, writing the programs.
 This chapter does not close the list.
 
-In the summer he and Moskovitz went to the valley
+In the summer he and {{c|Moskovitz}} went to the valley
 South of {{p|San Francisco}}.
 A later account names {{p|Palo Alto}}.
 The two namings are not made one.
-A later account says Saverin did not go.
+A later account says {{c|Saverin}} did not go.
 That year {{c|Peter Thiel}} put in five hundred thousand.
-The next year Zuckerberg called it seed money,
+The next year {{c|Zuckerberg}} called it seed money,
 The first large sum.
 Another account calls it a loan
 Later made into a share.

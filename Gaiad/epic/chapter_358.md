@@ -63,7 +63,7 @@ The federation does not like ofuda in the post.
 A thing in the post is not a product,
 Unless it is treated as one.
 
-That year, in her words, a lot of this Shinto stuff
+That year, in her words, a lot of this {{x|Shinto}} stuff
 Fell into the hands of {{c|Emma Leonhart}}.
 Fell into her hands is not taken.
 It came to someone a ferry's ride from where the kami went.

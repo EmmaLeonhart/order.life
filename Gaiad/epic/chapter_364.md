@@ -1,7 +1,7 @@
 # Chapter 364: Milkdromeda
 
 No holiday is named for this day.
-The leftover note on the union of the Alpha and the Omega
+The leftover note on the union of the {{c|Alpha}} and the {{c|Omega}}
 Is this page's subject,
 And not its words.
 The leap days of the {{c|Horus}} month come after,

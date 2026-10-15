@@ -10,10 +10,10 @@ It is also not nothing.
 
 In {{p|Philadelphia}}, in February 1996,
 {{c|Garry Kasparov}} played a match
-Against a machine its makers called Deep Blue.
+Against a machine its makers called {{x|Deep Blue}}.
 The papers called him the world champion.
 The match did not offer the title.
-It was the Association for Computing Machinery's challenge.
+It was the {{x|Association for Computing Machinery}}'s challenge.
 
 The rate the reports settle on
 Is forty moves in two hours.
@@ -58,19 +58,19 @@ This chapter keeps the city.
 
 In May 1997 the name was used again,
 In {{p|New York}},
-At the Equitable Building.
+At the {{p|Equitable Building}}.
 The floor is not agreed.
 The paper on the second game
-Calls the Philadelphia machine an earlier, slower version.
+Calls the {{p|Philadelphia}} machine an earlier, slower version.
 Do not fold this May back into that February.
 Two hours for each side to make forty moves.
 That is the rate already named.
 
 On the third of May, a Saturday, he had white.
-The column calls the opening a Reti.
+The column calls the opening a {{x|Reti}}.
 At the forty-fifth move the handlers resigned the machine.
 On the fourth, a Sunday, the machine had white.
-The column calls the opening a Ruy Lopez.
+The column calls the opening a {{x|Ruy Lopez}}.
 He resigned at the forty-fifth move,
 After three hours and forty-two minutes.
 The score was one to one.
@@ -95,7 +95,7 @@ On the tenth, a Saturday, a third draw.
 He offered it. The handlers accepted.
 Two and a half each.
 On the eleventh, a Sunday, the machine had white.
-The column calls the opening a Caro-Kann.
+The column calls the opening a {{x|Caro-Kann}}.
 He resigned at the machine's nineteenth move.
 The match was three and a half to two and a half.
 Do not set a crown on the machine.
@@ -130,7 +130,7 @@ And the haste to hear a mind in a score.
 The striving is to keep the kinds apart.
 Hold the Saturday of the thirty-seventh,
 The Saturday he closed the first match,
-The Sunday the New York score was one to one,
+The Sunday the {{p|New York}} score was one to one,
 And the Sunday of the nineteenth move.
 Refuse the consolation that he lost for being a fool,
 And the consolation that a score had become a soul.

@@ -7,7 +7,7 @@ On Tuesday, the eleventh of September, 2001,
 Four planes were turned.
 The first struck the north tower, in {{p|New York}}.
 The second struck the south.
-The third struck the Pentagon, in {{p|Arlington}}.
+The third struck the {{p|Pentagon}}, in {{p|Arlington}}.
 The fourth came down in a field near {{p|Shanksville}}.
 The order is that order.
 The minute of the fourth is not agreed.
@@ -21,7 +21,7 @@ Is not given in one sentence.
 
 The south tower fell first.
 The north tower fell after.
-A part of the Pentagon fell later that morning.
+A part of the {{p|Pentagon}} fell later that morning.
 The minute of that fall is not agreed.
 An earlier bomb, in 1993, under the same towers,
 Is not this morning.

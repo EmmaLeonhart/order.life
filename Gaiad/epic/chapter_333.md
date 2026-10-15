@@ -1,6 +1,6 @@
 # Chapter 333: The Morning Trains
 
-This day of the book keeps the Thanksgiving
+This day of the book keeps the {{x|Thanksgiving}}
 Of the {{p|United States}}, the second of the two.
 In the year of the attack, that Thursday
 Was the twenty-third of November.
@@ -14,20 +14,20 @@ The thanks for labor is not the trains.
 
 In February 1984 {{c|Chizuo Matsumoto}}
 Began a circle.
-He called it Aum Shinsen no Kai.
+He called it {{x|Aum Shinsen no Kai}}.
 It was a practice of yoga, in {{p|Tokyo}}.
-In June 1987 the circle took the name Aum Shinrikyo.
-The English often says Supreme Truth.
+In June 1987 the circle took the name {{x|Aum Shinrikyo}}.
+The {{x|English}} often says {{x|Supreme Truth}}.
 The Japanese name is a teaching of truth, and a syllable
 A tradition already chanted.
-Do not treat the English as those words.
+Do not treat the {{x|English}} as those words.
 He set beside the syllable the god {{c|Shiva}},
 Whom another tradition already served,
 And an end a Christian book had already named.
 A joining of what was already there is not yet a crime.
 The crime was the use.
 
-In August 1989 the government of Tokyo
+In August 1989 the government of {{p|Tokyo}}
 Registered the circle as a religious corporation.
 A registration is a line in a register.
 It is not a finding that the teaching was true.
@@ -54,11 +54,11 @@ A later death is sometimes added to it.
 This chapter does not add it.
 That night is not the Monday.
 
-On the Monday morning, in Tokyo,
+On the Monday morning, in {{p|Tokyo}},
 Members of the group released sarin
 On five trains.
-The lines were the Hibiya, the Chiyoda,
-And the Marunouchi,
+The lines were the {{x|Hibiya}}, the {{x|Chiyoda}},
+And the {{x|Marunouchi}},
 The ones that carry people through {{p|Kasumigaseki}},
 Where the ministries sit.
 Do not make one station the whole of the harm.
@@ -86,7 +86,7 @@ An arrest is not a sentence.
 The sentence of a later court is not this Tuesday.
 A hanging on the sixth of July, 2018, is not this spring.
 
-In October the Tokyo court ordered the corporation
+In October the {{p|Tokyo}} court ordered the corporation
 Dissolved.
 An order on a register is not a belief ended
 In the people who kept it.
@@ -98,7 +98,7 @@ A substance that can kill was used to kill.
 The use is the act.
 
 Hold the circle of February,
-The three in Yokohama,
+The three in {{p|Yokohama}},
 The night in the city that is not the man,
 The Monday trains,
 The Tuesday he was found,

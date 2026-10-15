@@ -14,14 +14,14 @@ In January 2000 he sent a letter
 About a successor to that digest.
 {{c|Jimmy Wales}} answered with an encyclopedia,
 And asked him to lead it.
-He has written that the open encyclopedia was Wales's idea,
+He has written that the open encyclopedia was {{c|Wales}}'s idea,
 And the money the company's.
-The company was Bomis. He names {{c|Jimmy Wales}},
+The company was {{x|Bomis}}. He names {{c|Jimmy Wales}},
 {{c|Tim Shell}}, and {{c|Michael Davis}}.
 He arrived in {{p|San Diego}} early in February,
 And finished in June the degree the work had asked.
 
-The book was called Nupedia.
+The book was called {{x|Nupedia}}.
 Through the spring and the fall the work went by mail.
 A board of volunteers, most of them with degrees,
 Agreed to seven steps before a page was posted.
@@ -56,7 +56,7 @@ The tool was already called by a word for quick.
 He asked that the tool be set up.
 It asked for no new programmer.
 On the tenth, a Wednesday, the pages opened
-Under Nupedia's own address, and articles were written.
+Under {{x|Nupedia}}'s own address, and articles were written.
 He has written that a clear majority of the board
 Wanted nothing to do with a page of that kind.
 So the pages took their own name, and their own address.
@@ -79,7 +79,7 @@ This chapter does not join the two datings.
 The software did not keep a sure history.
 A later recovery gives a line on the home page
 That day, from the company's office machine, unsigned.
-It reads, This is the new WikiPedia!
+It reads, This is the new {{x|WikiPedia}}!
 This chapter does not call those words a hello,
 And does not give the line to {{c|Jimmy Wales}}
 Or to {{c|Larry Sanger}}.
@@ -91,8 +91,8 @@ About six hundred by the end of January.
 Thirteen hundred in March, twenty-three hundred in April,
 Thirty-nine hundred in May.
 On the twentieth of September, a Thursday,
-{{c|Peter Meyers}}, in the New York Times,
-Wrote of some ten thousand entries, from Abba to zygote,
+{{c|Peter Meyers}}, in the {{x|New York Times}},
+Wrote of some ten thousand entries, from {{x|Abba}} to zygote,
 And about a hundred volunteers since January.
 His later count for the ninth of that month is higher.
 A magazine later has {{c|Jimmy Wales}} say
@@ -120,7 +120,7 @@ He later set the joke aside.
 The book did not.
 
 {{c|Jimmy Wales}} opened a page
-Called Neutral Point of View.
+Called {{x|Neutral Point of View}}.
 The older rule had been to avoid a bias.
 {{c|Larry Sanger}} has written that a neutrality
 Is not a point of view.

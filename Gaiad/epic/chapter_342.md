@@ -17,7 +17,7 @@ A wide music player, the glass as its control.
 A phone.
 A machine for the net.
 One account has him say these are not three devices.
-This is one device, and the name is iPhone.
+This is one device, and the name is {{x|iPhone}}.
 Another account shortens that sentence.
 The two accounts are not made one.
 He said the company is going to reinvent the phone.
@@ -26,7 +26,7 @@ After he says what they want is a leap.
 The want is not the verb.
 
 The same day the computer left the company's name.
-Apple Computer became Apple.
+{{x|Apple Computer}} became {{x|Apple}}.
 The company did not stop making the computers.
 
 There is no separate pen.
@@ -45,14 +45,14 @@ For the smaller memory,
 And five hundred ninety-nine for the larger.
 One report rounds each price to the hundred.
 The round is not the price.
-The partner in the January papers is Cingular.
+The partner in the January papers is {{x|Cingular}}.
 He said the phone would not be sold until June,
 And at first only in the {{p|United States}}.
 He said it was shown early,
 So the licensing would not disclose it first.
-He said Europe in the last quarter of this year,
-And Asia in the next.
-The day a hand in Europe held one
+He said {{p|Europe}} in the last quarter of this year,
+And {{p|Asia}} in the next.
+The day a hand in {{p|Europe}} held one
 Is not this January.
 He said the faster network was coming.
 The faster phone is not this year.
@@ -80,7 +80,7 @@ And as many as two phones to a person.
 The online store took orders at six,
 Pacific time.
 The two sixes are not one clock.
-The release names the partner's stores AT&T.
+The release names the partner's stores {{x|AT&T}}.
 The January name and the June name
 Are not printed as one word.
 The prices in the release are the January prices.

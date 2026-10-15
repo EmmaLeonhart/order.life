@@ -10,7 +10,7 @@ In {{p|Foros}}, on the eighteenth of August,
 {{c|Mikhail Gorbachev}} was asked to declare an emergency.
 He refused.
 On the nineteenth a committee announced an emergency,
-For six months, beginning at four in the morning, Moscow time.
+For six months, beginning at four in the morning, {{p|Moscow}} time.
 It said he could not carry out his duties, for his health,
 And that the office passed to {{c|Gennady Yanayev}}.
 The television played a ballet.
@@ -19,7 +19,7 @@ Armor came into {{p|Moscow}}.
 {{c|Boris Yeltsin}} spoke from a tank,
 Outside the Russian parliament's house.
 On the night between the twentieth and the twenty-first,
-In the tunnel at the Garden Ring,
+In the tunnel at the {{p|Garden Ring}},
 Three men were killed.
 {{c|Dmitry Komar}}. {{c|Ilya Krichevsky}}. {{c|Vladimir Usov}}.
 The accounts do not agree which blow took which man.
@@ -45,8 +45,8 @@ A republic's vote is not a vote of the whole union.
 On the eighth of December, at {{p|Viskuli}},
 In the forest, and not in the city,
 Three states signed.
-{{p|Belarus}}. The Russian Federation, and the agreement
-Still writes the older initials beside that name. Ukraine.
+{{p|Belarus}}. The {{p|Russian Federation}}, and the agreement
+Still writes the older initials beside that name. {{p|Ukraine}}.
 {{c|Stanislav Shushkevich}} signed for {{p|Belarus}},
 With {{c|Boris Yeltsin}} and with {{c|Leonid Kravchuk}}.
 Others signed beside them.
@@ -77,7 +77,7 @@ On the twenty-first, in {{p|Alma-Ata}},
 Eleven states signed a declaration.
 The three were there, and eight besides.
 {{p|Georgia}} was not among them.
-The three Baltic states were not among them.
+The three {{p|Baltic}} states were not among them.
 The declaration says the commonwealth
 Is not a state, and not a structure set above states.
 With its formation, it says, the union ceases to exist.
@@ -87,7 +87,7 @@ Comes into force for each state when that state ratifies it.
 A signature in a forest is not every parliament.
 Eleven pens are not the three, and not the fifteen.
 
-On the twenty-fifth, in Moscow, he spoke.
+On the twenty-fifth, in {{p|Moscow}}, he spoke.
 He discontinued his activities
 As president of the union,
 Because of the commonwealth that had been formed.
@@ -101,7 +101,7 @@ The red flag came down that evening.
 The accounts do not agree on the minute.
 Do not say the flag was the statute.
 
-On the twenty-sixth the Council of the Republics
+On the twenty-sixth the {{x|Council of the Republics}}
 Of the supreme soviet adopted a declaration.
 Its number is 142-N.
 It says that with the creation of the commonwealth
@@ -112,12 +112,12 @@ The chamber's sentence is not the three pens.
 It is not the eleven.
 It is not the evening speech.
 
-Hold the refusal at Foros,
+Hold the refusal at {{p|Foros}},
 The three names in the tunnel,
 The Friday the council recognized three states,
 The ballots of the first of December,
-The sentence at Viskuli,
-The eleven at Alma-Ata,
+The sentence at {{p|Viskuli}},
+The eleven at {{p|Alma-Ata}},
 The evening he left the office,
 And the chamber on the day after.
 Refuse the consolation that one of these was all of them.

@@ -8,7 +8,7 @@ No consciousness is promised here.
 This is the last chapter of the people as they are.
 It is written in the year it tells.
 On Wednesday, the fourteenth of October, 2026,
-The tenth of Libra of the year 12026 by this calendar,
+The tenth of {{x|Libra}} of the year 12026 by this calendar,
 These lines are set down.
 The day they are written is not the day they are read.
 

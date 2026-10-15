@@ -7,7 +7,7 @@ Is not this page.
 On Tuesday, the twelfth of March, 2013,
 In {{p|Washington}}, a senator asks
 Whether the agency collects any type of data at all
-On millions of Americans.
+On millions of {{c|Americans}}.
 {{c|James Clapper}} answers, No, sir.
 Then he adds, Not wittingly.
 The added words are not the first answer.
@@ -24,7 +24,7 @@ Who called whom is not nothing.
 
 On Thursday, the sixth,
 That paper and a paper of {{p|Washington}}
-Print slides about a program they call PRISM.
+Print slides about a program they call {{x|PRISM}}.
 The slides name large companies of the net.
 The companies say they gave no door.
 A slide is not a door.

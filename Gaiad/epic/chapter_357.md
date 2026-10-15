@@ -1,9 +1,9 @@
 # Chapter 357: The Longest Night
 
-This is Christmas Day, and the Dongzhi Festival.
+This is {{x|Christmas Day}}, and the {{x|Dongzhi Festival}}.
 The leftover note on a great recession
 Is not this page.
-Dongzhi is the longest night,
+{{x|Dongzhi}} is the longest night,
 After which the light returns.
 Christmas is a birth in the dark of the year.
 Neither feast is a war.
@@ -52,7 +52,7 @@ The even voice is not the truth.
 It is the likely next word, again and again.
 
 Before that, {{c|Emma Leonhart}} had written
-With an earlier tool for writers, called Sudowrite.
+With an earlier tool for writers, called {{x|Sudowrite}}.
 It was her first writing with a machine.
 A first writing with a machine is not a book written by one.
 She chose what stayed.

@@ -17,9 +17,9 @@ The eighth of February as the day they made her.
 A fusion is not a birth.
 Do not make the two mornings one.
 
-The paper calls her 6LL3.
-She was a Finn Dorset.
-The ewe who carried her was a Scottish Blackface.
+The paper calls her {{x|6LL3}}.
+She was a {{x|Finn Dorset}}.
+The ewe who carried her was a {{x|Scottish Blackface}}.
 If the lamb had been that ewe's own,
 The face would have been black.
 The face was white.
@@ -32,13 +32,13 @@ The matching is not the morning she stood.
 
 The nucleus came from a culture
 Taken from the mammary gland
-Of a six-year-old Finn Dorset,
+Of a six-year-old {{x|Finn Dorset}},
 In the last third of a pregnancy.
 The culture was mostly cells of that gland.
 The paper says the type of the one cell is not known.
 Other kinds of cell were in the dish.
 Do not say which kind she was.
-The egg was from a Scottish Blackface,
+The egg was from a {{x|Scottish Blackface}},
 And the egg's own nucleus had been taken out.
 The ewe who carried her was another.
 Three animals, and not one mother.
@@ -88,7 +88,7 @@ The birth was kept quiet.
 The laboratory told the public
 On the twenty-second of February, 1997, a Saturday.
 The paper is dated the twenty-seventh, a Thursday,
-In Nature.
+In {{x|Nature}}.
 The two days are not one.
 A silence kept for a journal
 Is not a secrecy of the state.
@@ -108,7 +108,7 @@ Because the face in the pen was a sheep's.
 She bore six lambs.
 A copy that can bear a young
 Is not a dead end of the line.
-The ram was a Welsh Mountain.
+The ram was a {{x|Welsh Mountain}}.
 The six are not this chapter's plot.
 On the fourteenth of February, 2003,
 She was put down.

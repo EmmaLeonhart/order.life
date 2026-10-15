@@ -2,7 +2,7 @@
 
 On the fourth of October, 1957, at twenty-eight minutes
 And thirty-four seconds past seven in the evening,
-By the time kept at Greenwich,
+By the time kept at {{p|Greenwich}},
 A sphere left a pad at {{p|Tyuratam}}.
 By the clock in {{p|Moscow}} it was twenty-eight minutes
 And thirty-four seconds past ten at night.
@@ -19,7 +19,7 @@ Do not say the sphere left from the town.
 
 The sphere was the simplest satellite.
 The word in the announcement is the word for a satellite.
-The name that stayed is Sputnik.
+The name that stayed is {{x|Sputnik}}.
 It was fifty-eight centimeters across.
 It weighed 83.6 kilograms.
 Four antennas stood out from it.
@@ -28,7 +28,7 @@ Nitrogen was sealed inside.
 These are the object's measures.
 They are not a meaning.
 
-The rocket was a form of the R-7.
+The rocket was a form of the {{x|R-7}}.
 That form had been made to carry a warhead
 From one continent to another.
 In August of that year a rocket of this form
@@ -83,7 +83,7 @@ An anniversary is not a reason that answers for her.
 
 This day of the book keeps a rite on the fifteenth of November,
 In the count {{p|Japan}} uses.
-The rite is Shichi-go-san.
+The rite is {{x|Shichi-go-san}}.
 Seven, five, and three.
 It is not a holiday of the state.
 A household may go on the day, or on a day near it.
@@ -94,7 +94,7 @@ At five a boy was dressed in hakama,
 The formal trousers.
 At seven a girl took the wide sash.
 The visit to a shrine, as households keep it,
-Spread in the Meiji years.
+Spread in the {{x|Meiji}} years.
 Do not say a shogun fixed the fifteenth.
 That story is told, and it is not settled.
 

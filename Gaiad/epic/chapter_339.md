@@ -76,7 +76,7 @@ The promise of a later paper is not this Monday.
 A gap the method could not close
 Is part of the definition they announced,
 And it is still a gap.
-Collins said almost everybody looking
+{{c|Collins}} said almost everybody looking
 For answers from the genome
 Would find it in the most final form
 They could ever have dreamed of.

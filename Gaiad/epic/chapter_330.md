@@ -3,11 +3,11 @@
 No holiday is named for this day.
 
 In April 1990 two agencies published a plan.
-Its title is Understanding Our Genetic Inheritance.
+Its title is {{x|Understanding Our Genetic Inheritance}}.
 It is the first five years,
 The fiscal years 1991 through 1995.
-The National Institutes of Health published it
-With the Department of Energy.
+The {{x|National Institutes of Health}} published it
+With the {{x|Department of Energy}}.
 The center that carries the institutes' share
 Sits in {{p|Bethesda}}.
 The program dates the plan as implemented
@@ -41,7 +41,7 @@ And about twenty million letters from other organisms.
 
 The plan says the human genome consists of
 Fifty thousand to a hundred thousand genes.
-The Times, in October 1988, had given the same range.
+{{x|The Times}}, in October 1988, had given the same range.
 The opening of the same plan says an estimated
 One hundred thousand, the number whose places it would find.
 The plan's word is an estimate, and not a count.
@@ -68,7 +68,7 @@ Had been for getting organized.
 Some money had been earmarked.
 Do not say the whole price was voted on the first of October.
 
-The Department of Energy's reason, in the plan's words,
+The {{x|Department of Energy}}'s reason, in the plan's words,
 Is a long-standing work of genetic research,
 Directed at assessing what radiation,
 And the chemicals of energy, do to health.
@@ -90,7 +90,7 @@ From whether it could be done to whether it should.
 The recall is not a vote of the room.
 The workshop did not publish this plan.
 
-In 1988 the National Research Council recommended the effort,
+In 1988 the {{x|National Research Council}} recommended the effort,
 And that the money be new,
 Not taken from the work already funded.
 In the fall the two agencies signed a memorandum to coordinate.
@@ -98,14 +98,14 @@ In the fall the two agencies signed a memorandum to coordinate.
 The notice gives the fall, and not the day.
 In the same autumn {{c|James Watson}}
 Was appointed to the genome office.
-The Times of the fourth of October, a Tuesday,
+{{x|The Times}} of the fourth of October, a Tuesday,
 Reported the appointment effective the previous Saturday,
 The first of the month.
 He would remain director of the laboratory
 At {{p|Cold Spring Harbor}},
 And come to the institutes a day or two in the week.
 On the first of October 1989 the office was abolished,
-And the National Center for Human Genome Research
+And the {{x|National Center for Human Genome Research}}
 Was established, with him as its director.
 He is the man who, in 1953, with another,
 Wished to suggest a structure,

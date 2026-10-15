@@ -36,16 +36,16 @@ The first credit is given as eighty-five billion.
 Later credits are not that Tuesday.
 
 On Monday, the twenty-ninth,
-The House refused the plan,
+{{x|The House}} refused the plan,
 Two hundred twenty-eight to two hundred five.
 The fall of the index that day
 Is not one number in the papers.
 None is chosen.
 On Wednesday, the first of October,
-The Senate passed a changed bill,
+{{x|The Senate}} passed a changed bill,
 Seventy-four to twenty-five.
 On Friday, the third,
-The House passed that bill,
+{{x|The House}} passed that bill,
 Two hundred sixty-three to one hundred seventy-one.
 {{c|George W. Bush}} signed it the same day.
 The law authorizes up to seven hundred billion.
@@ -61,7 +61,7 @@ Who held the name is not known.
 The note says a system of cash,
 Peer to peer, with no trusted third party.
 The paper is called
-Bitcoin: A Peer-to-Peer Electronic Cash System.
+{{x|Bitcoin}}: {{x|A Peer-to-Peer Electronic Cash System}}.
 The paper says a proof in the place of trust.
 The note and the paper are not one sentence.
 The way of the proof is not set down.
@@ -72,7 +72,7 @@ On Saturday, the third of January, 2009,
 The first block was made.
 In it is a line from the paper of that morning,
 In {{p|London}}:
-The Times, the third of January, 2009,
+{{x|The Times}}, the third of January, 2009,
 Chancellor on brink of second bailout for banks.
 The chancellor is not the American secretary.
 The bailout in the line is not the law of October.
