@@ -61266,7 +61266,7 @@ About the sixtieth is not the end.
 A weekly verse is not a calendar yet.
 It was the beginning of one.
 When the days lost their names,
-She was numbering them.
+She was giving them verses.
 
 This book is that book.
 The book does not make that year its own.
@@ -61351,8 +61351,10 @@ In her words, and did lots of stuff,
 In a pretty significant year.
 The book itself had a gap that year.
 A gap in the book is not a gap in the life.
-The life was being lived instead of written.
-What was lived would be written later.
+The gap weighed on her.
+Its pages moved that year from order.life to evolution.faith,
+And waited there.
+What the year held would be written later.
 Later is this page.
 
 The absurdity is a year when a message saved the cell
@@ -61417,11 +61419,16 @@ The even voice is not the truth.
 It is the likely next word, again and again.
 
 Before that, {{c|Emma Leonhart}} had written
-With an earlier tool for writers, called {{x|Sudowrite}}.
+With an earlier tool for writers, called {{x|Sudowrite}},
+Stories set in the world of this book.
 It was her first writing with a machine.
 A first writing with a machine is not a book written by one.
 She chose what stayed.
 Choosing what stays is the writing.
+Within the month she was one of the million,
+Asking the new chat to make plain the pages of her faith.
+Being one of the million is not understanding it.
+She said so later herself.
 
 On Sunday, the twenty-fifth of December, 2022,
 Many in {{p|Ukraine}} keep Christmas on that day,
@@ -61514,7 +61521,10 @@ Unless it is treated as one.
 That year, in her words, a lot of this {{x|Shinto}} stuff
 Fell into the hands of {{c|Emma Leonhart}}.
 Fell into her hands is not taken.
-It came to someone a ferry's ride from where the kami went.
+It came by a journey to {{p|Japan}},
+And by the shrines she carried into English,
+Thousands of pages the encyclopedia would not keep.
+Not kept is not not written.
 What falls into one's hands asks to be held.
 Held is not owned.
 
@@ -61607,9 +61617,10 @@ Yanked away is not never held.
 What was held for a time
 Showed that it could be held.
 That is not nothing.
-The land and the shrine and the map
+The shrines she had written into the encyclopedias
 Had been in her hands,
-And the hands were not the only hands.
+And the French one closed to her as the English had.
+The hands were not the only hands.
 
 The register asks who holds the record.
 Once the priests, then the clerks, then the states,
@@ -61684,7 +61695,7 @@ A loop that writes and corrects and writes
 Is not a loop that knows when it is wrong.
 It needs someone at the end who reads.
 
-This book was written in that year with such machines.
+This book was begun in that year with such machines.
 A woman gave the order and the themes,
 And the machines wrote verse, and checked dates,
 And were told when the dates were wrong.
@@ -61704,6 +61715,13 @@ A miserable year is not a lost year.
 The book kept being made in it.
 Kept being made is not proof that it was well.
 It is proof that she was still there to make it.
+
+That year she also entered the shrines of the {{x|Engishiki}}
+Into {{x|Wikidata}}, province by province,
+The court's old register made a register a machine can read.
+A list kept by a court is not a list kept by no one.
+It is a list that outlived its court,
+Waiting for someone to keep it again.
 
 The absurdity is that the hands given to the machines
 Came in the year a person could hardly lift her own.
@@ -61730,6 +61748,13 @@ Every chat is kept.
 Every change to the book is dated.
 A date on a change is not the reason for it.
 The reasons are in the chats.
+
+In May a paper of hers was posted, the Sutra paper,
+Her own work, with no school behind it.
+A paper posted is not a paper accepted.
+It is a paper that exists.
+In June she moved to {{p|Vancouver}}.
+A move is not an arrival.
 
 She turns to her ancestors.
 The lines go back through the clerks of the churches,
@@ -61759,9 +61784,9 @@ It is a better documented line.
 The princes were written down because they were princes.
 The farmers were written down because they paid.
 
-In one line she finds Jewish ancestors.
-Finding is not becoming.
-It is learning what one already was.
+Some of her lines hold Jewish ancestors.
+Having is not becoming.
+It is knowing what one already was.
 
 Here is the coincidence.
 The month of {{x|Virgo}} in this book is the fifteen- and sixteen-hundreds,
@@ -61782,8 +61807,8 @@ The first letters are the first register.
 {{x|Sukkot}}, after them, is kept for the sailors
 Of the early modern sea, the pirates and the {{c|Jesuits}},
 In houses that do not stay.
-A Jewish season was found to hold a Jewish line
-In the same weeks that the line was found.
+The days of awe fell in the weeks
+Of her search for the men of {{p|Bure}}.
 That is the coincidence the year recorded.
 A coincidence recorded is not a sign proved.
 It is a thing that happened, written down on the day.
@@ -61831,6 +61856,19 @@ Are still being mixed, by a few, in small rooms,
 And a few is not none.
 None of this is finished.
 Not finished is not lost.
+
+This book has its own gap to tell.
+At the end of {{x|Leo}} the daily readings stopped.
+For more than a month the days came with no chapter,
+And all of {{x|Virgo}}, the month of the early modern years,
+Went by unread.
+A day without its reading is still a day.
+Then the missing chapters were written in a single night,
+One on the heels of another until morning,
+And on the ninth of {{x|Libra}} the reading went out on its own day again.
+Late is not lost.
+The days kept their places,
+And waited to be filled.
 
 The book does not say what happens next.
 It is not a prophecy.
