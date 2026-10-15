@@ -8191,7 +8191,7 @@ Chinese paternal ancestry); no unnamed sons invented for Heo Hwang-ok (the Garak
 Ayodhya kept (`heo-hwang-ok.md` wants her as the Indic bridge); Adnan's "twelve sons" kept. Row 7 decided as
 "merge M1 and M2" but not applied: the permission check refused `merge_cluster.py`.
 
-2026-10-15 02:45 PST: weekdays, second pass (her pattern in the parent repo's `research/weekdays-pattern.md`). The three
+2026-10-15 02:30 PST: weekdays, second pass (her pattern in the parent repo's `research/weekdays-pattern.md`). The three
 Sabbaths now carry their own meanings in all nine languages on the week index and the calendar overview
 (Friday the Alpha, gathering and unification; Saturday the Lambda, rest; Sunday the Omega, aspiration and the
 future); the English overview no longer says "blending"; the rituals list puts Friday first. Weekday pages: Friday,
