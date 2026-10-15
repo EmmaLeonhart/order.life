@@ -1374,14 +1374,14 @@ Of what the morning's volcanism would bring.
 
 # Chapter 96: The Second Dying
 
-Then the Atlantic opened, and the fire
+Then the {{p|Atlantic}} opened, and the fire
 Ran north and south along the cracking seam
 Of {{p|Pangaea}}'s breaking body—the entire
 Central rift erupted in a steam
 
-And basalt flood that rivaled the Siberian
-Eruption of the Permian's final days—
-The CAMP volcanism, another Stygian
+And basalt flood that rivaled the {{p|Siberian}}
+Eruption of the {{x|Permian}}'s final days—
+The {{x|CAMP}} volcanism, another Stygian
 And geological catastrophe, ablaze
 
 Across eleven million square kilometers
@@ -1396,7 +1396,7 @@ The warming—then the sulfur in the blue
 And poisoned sky—the acid rain that burst
 
 On forests that had only recently
-Recovered from the Permian acid bath—
+Recovered from the {{x|Permian}} acid bath—
 The trees went brown again, went frequently
 To nothing, and the carbon cycle's math
 
@@ -1411,7 +1411,7 @@ That acid water dissolves—the corals
 And the brachiopods, the funeral
 Repeated for the reef-builders, the morals
 
-Of the Permian unlearned by an earth
+Of the {{x|Permian}} unlearned by an earth
 That cannot learn, that simply does
 What the mantle's heat dictates—the birth
 And death of worlds is the geological buzz
@@ -1421,7 +1421,7 @@ Of a planet that does not think.
                                   On land,
 Cruros' mighty rauisuchians fell:
 The four-legged, heavy, crocodile-planned
-Archosaurs who had held the Triassic spell
+Archosaurs who had held the {{x|Triassic}} spell
 
 Of lowland dominion—gone. The phytosaurs
 Who had worn the crocodilian mask before
@@ -1439,7 +1439,7 @@ The atmospheric poison and the heat.
 Thirty percent of all families were fenced
 Out of the future—not the clean, complete
 
-Annihilation of the Permian's ninety-six
+Annihilation of the {{x|Permian}}'s ninety-six
 Percent of marine species—this was lesser,
 A middling death, a thinning of the mix—
 But for those who died, no lesser, no lesser
@@ -1462,9 +1462,9 @@ The dinosaurs, who had been upland runners,
 Marginal, small, surviving on the grit
 Of scrubland and the edges—now the stunners
 
-Of the new Jurassic world—they filled
+Of the new {{x|Jurassic}} world—they filled
 The empty niches with an explosive speed
-That even the Cambrian would have thrilled
+That even the {{x|Cambrian}} would have thrilled
 To match: into every lowland, every reed-
 
 Bank, every river-valley, every coast,
@@ -1475,7 +1475,7 @@ Of Avemeta's children—hand-me-down
 From the elder to the younger, as the world
 Decreed through the merciless selection
 Of who survived—and the banners unfurled
-Of the Jurassic's new direction
+Of the {{x|Jurassic}}'s new direction
 
 Were all dinosaurian.
 
@@ -1502,12 +1502,12 @@ Of volcanism by being too small to seek
 
 And too flexible to fail.
 
-                          This is the second Easter:
+                          This is the second {{x|Easter}}:
 The death that is not final, the loss
 That is the door to something greater—
 The volcanic fire, the acid rain's cross
 
-Borne by the Triassic world, and the resurrection
+Borne by the {{x|Triassic}} world, and the resurrection
 That followed: dinosaur, plesiosaur,
 Crocodile, and mammal—each direction
 Of the future opened from this floor
@@ -1521,16 +1521,16 @@ Of mercy, and no comfort in the grit
 Of dying—but the life that followed proved
 That even the second death can be a door
 To something the old world had not yet moved
-Toward—and the Jurassic's mighty roar
+Toward—and the {{x|Jurassic}}'s mighty roar
 
-Was born in the silence of the dying Triassic's last breath.
+Was born in the silence of the dying {{x|Triassic}}'s last breath.
 
 
 # Chapter 97: Jurassic Dawn
 
 The morning after dying is always gray.
 
-The early Jurassic looked like the early Triassic
+The early {{x|Jurassic}} looked like the early {{x|Triassic}}
 Had looked: bare ground, diminished green, the way
 Of all post-extinction worlds—the classic
 
@@ -1555,12 +1555,12 @@ Where they had never dared before.
 
                                     Theros—
 The beast-footed, the meat-eaters of the line—
-Walked into the Jurassic's open doors
+Walked into the {{x|Jurassic}}'s open doors
 And found no rauisuchian at the sign
 
 Of every river-crossing, no phytosaur
 Guarding every waterway—the predator's
-Throne was empty, and the Jurassic floor
+Throne was empty, and the {{x|Jurassic}} floor
 Was Theros' to claim, these inheritors
 
 Of Deinos' upland hunger, now released
@@ -1569,21 +1569,21 @@ Into the richest territories on earth.
 And Sauropos—who had been the least
 Impressive of the prosauropod birth,
 
-Small, bipedal, modest in the Triassic—
+Small, bipedal, modest in the {{x|Triassic}}—
 Began to grow. And grow. And grow again.
 For the lowland forests offered the gymnastic
 And gymnosperm feast of Conifera's regained
 
-Domain: the great conifer forests of the Jurassic,
+Domain: the great conifer forests of the {{x|Jurassic}},
 Where the trees grew tall and the canopy
-Stretched higher than any Triassic fantastic
+Stretched higher than any {{x|Triassic}} fantastic
 Had dreamed—and to reach that green canopy,
 
 Sauropos stretched his neck.
 
                                   This is the age
 That the world remembers as the time of giants—
-The Jurassic was the grandest stage
+The {{x|Jurassic}} was the grandest stage
 The earth had set for life, and the defiance
 
 Of gravity itself was Sauropos' art:
@@ -1598,7 +1598,7 @@ Were solved by Sauropos—who would not check
 
 His growth until the forests themselves were grazed
 From the top down, like an elephant
-Of impossible scale, and the Jurassic blazed
+Of impossible scale, and the {{x|Jurassic}} blazed
 With the thunder of his walking—the constant
 
 Drumbeat of the largest feet on earth
@@ -1609,7 +1609,7 @@ In the undergrowth: smaller, with the adept
 
 And beaked mouths for cropping ferns and low
 Vegetation—the ornithischians would build
-Their own diversity in the Jurassic's slow
+Their own diversity in the {{x|Jurassic}}'s slow
 And generous expansion, and they filled
 
 The herbivore niches that the sauropods
@@ -1619,7 +1619,7 @@ Ornithis grazed below in the sauropod's rain
 
 Of fallen leaves and trampled forest floor.
 
-The Jurassic dawn was not a single morning
+The {{x|Jurassic}} dawn was not a single morning
 But ten million years of opening door
 After door after door—each niche adorning
 
@@ -1637,7 +1637,7 @@ As the plesiosaurs—but that is the next chapter's
 Gift to tell.
 
                  For now, honor the dawn:
-The gray-green morning of the Jurassic, after
+The gray-green morning of the {{x|Jurassic}}, after
 The night of the second dying—the lawn
 
 Of life regrown on the bones of the dead,
@@ -1651,14 +1651,14 @@ Of the living world remembering how to live.
 # Chapter 98: The Plesiosaur Queens
 
 Now Nothros' children, who had paddled close
-To shore through all the Triassic years—
+To shore through all the {{x|Triassic}} years—
 Half-aquatic, like a coastal prose
 That never quite committed—shed their fears
 
 And swam to the open ocean.
 
                                 In the wake
-Of the end-Triassic dying, the sea
+Of the end-{{x|Triassic}} dying, the sea
 Had emptied its niches for any lineage to take
 That had the body and the will to be
 
@@ -1686,15 +1686,15 @@ Of the plesiosaur's patient, waiting maw.
 And the short-necked ones: the pliosaurs, great
 Plios, with massive heads and shorter necks,
 Built for power rather than for the ornate
-And serpentine—Plios was the Hex
+And serpentine—Plios was the {{x|Hex}}
 
 Of every marine creature's nightmare: jaws
 The length of a man, teeth like railroad spikes,
 A body propelled by four flippers without pause
-Through the Jurassic sea—the monster strikes
+Through the {{x|Jurassic}} sea—the monster strikes
 
 At ichthyosaur and plesiosaur alike,
-The apex predator of the Mesozoic deep,
+The apex predator of the {{x|Mesozoic}} deep,
 Who knew no equal and would only strike
 At whatever dared to swim the waters' keep.
 
@@ -1727,7 +1727,7 @@ And open ocean with the underwater run
 Of four-wing flight.
 
                     The Plesios ruled
-The Jurassic and the Cretaceous seas—
+The {{x|Jurassic}} and the {{x|Cretaceous}} seas—
 A hundred and thirty million years they pooled
 Their dynasty across the oceanic freeze
 
@@ -1754,7 +1754,7 @@ The turtle's cousins of the oceanic night
 Who took the ancient body-plan's design
 
 And made it fly beneath the waves: the queens
-Of the Mesozoic deep, the four-flipped fliers,
+Of the {{x|Mesozoic}} deep, the four-flipped fliers,
 Whose paddle-limbs and barrel-chested means
 Of breathing at the surface made them buyers
 
@@ -1768,13 +1768,13 @@ The Paraps-kindred of the oceanic brine.
 
 Even the river lords heard the ocean's call.
 
-In the Jurassic seas, while Plesios flew
+In the {{x|Jurassic}} seas, while Plesios flew
 On four flippers through the deep, and Ichthyos' tall
 And dolphin forms still hunted the {{p|Tethys}} blue—
 
 A stranger arrived: the children of Cruros,
 The crocodilian kin, the river dragons
-Who had survived the end-Triassic's bruise
+Who had survived the end-{{x|Triassic}}'s bruise
 By staying small and humble—these were the wagons
 
 Of a new marine experiment.
@@ -1805,11 +1805,11 @@ Their skin had lost the armor scales that burned
 With weight in open water—these rebukes
 
 Of every crocodilian convention
-Swam the Jurassic seas as sleek and fast
+Swam the {{x|Jurassic}} seas as sleek and fast
 As any marine reptile: the invention
 Of the sea-crocodile—a form that passed
 
-Through the Jurassic waters like a dark
+Through the {{x|Jurassic}} waters like a dark
 And toothy torpedo, catching fish and squid
 In jaws that still bore the crocodilian mark
 Of the long snout and the interlocking grid
@@ -1829,7 +1829,7 @@ And marine adaptation's final dance
 With the land abandoned.
 
                          For a little while
-In the Jurassic's middle age, the seas
+In the {{x|Jurassic}}'s middle age, the seas
 Held crocodilians who had crossed each mile
 Of evolutionary distance—from the trees
 
@@ -1850,17 +1850,17 @@ Of Thalattosuchus—kept closer to the line
 Of shore, like the gharial in a later plan:
 
 Long-snouted, fish-eating, coastal hunters
-Who patrolled the Jurassic shorelines and the reefs
+Who patrolled the {{x|Jurassic}} shorelines and the reefs
 In the manner of their river-hunting grunters
 But adapted to the salt—the ancient griefs
 
-Of the end-Triassic had pushed them to expand
+Of the end-{{x|Triassic}} had pushed them to expand
 Beyond the rivers that their fathers knew,
-And the Jurassic sea was close at hand
+And the {{x|Jurassic}} sea was close at hand
 With fish enough for every hungry crew.
 
 The Thalattosuchus clan would fade
-Before the Cretaceous dawn—the fully marine
+Before the {{x|Cretaceous}} dawn—the fully marine
 Metriorhynchids leaving no cascade
 Of descendants to the later scene—
 
@@ -1876,7 +1876,7 @@ Can rewrite himself in the ocean's style.
 
 For the sea turns no one away who comes
 With lungs and will and the willingness to change—
-The Jurassic ocean beat its drums
+The {{x|Jurassic}} ocean beat its drums
 For the river dragon who expanded his range
 
 To the horizon—and found room.
@@ -1896,7 +1896,7 @@ Can make the open ocean into a poem.
 
 Now comes the thunder.
 
-                       In the middle Jurassic,
+                       In the middle {{x|Jurassic}},
 When Conifera's forests grew tall and the rain
 Fed the canopy to heights fantastic
 That no creature's neck had yet been able to attain—
@@ -1921,7 +1921,7 @@ And giraffe-like, his nostrils above the wood
 Of the highest canopy, a living crane
 That browsed the treetops like a grazing tower—
 Fifty tons of gentle, vegetarian reign
-Over the Jurassic forest's highest bower.
+Over the {{x|Jurassic}} forest's highest bower.
 
 Diplodos was the longest—his whip-tail
 Stretched behind him like a sonic weapon,
@@ -1938,10 +1938,10 @@ The largest of them all, a hundred tons,
 The most massive land animal, the greater
 And most extreme of Sauropos' sons—
 
-But in the Jurassic's middle age, the first
+But in the {{x|Jurassic}}'s middle age, the first
 Great sauropods were already shaking the earth
 With every footfall—and the drumbeat burst
-Of their walking was the Mesozoic's birth
+Of their walking was the {{x|Mesozoic}}'s birth
 
 Of thunder that was not from any cloud.
 
@@ -1986,7 +1986,7 @@ A stable, warm interior where the enzyme
 Chemistry of life could spread its wings
 Regardless of the night's cold or the daytime
 
-Blaze of the Jurassic sun.
+Blaze of the {{x|Jurassic}} sun.
 
                            They walked in herds—
 The footprints tell us this: great trackways of
@@ -2001,7 +2001,7 @@ The moving fortress of a sauropod's ranks.
 And they ate. They ate constantly. They stripped
 The forests with the efficiency of machines,
 Each day consuming more than a man has shipped
-In a week of groceries—the Jurassic scenes
+In a week of groceries—the {{x|Jurassic}} scenes
 
 Of sauropod feeding must have sounded like
 A continuous ripping of the world's green hide—
@@ -2023,7 +2023,7 @@ To build the largest animal that walks
 On four legs, each one massive as a beach-
 Side pylon—and the thunder of their walks
 
-Was the heartbeat of the Jurassic world.
+Was the heartbeat of the {{x|Jurassic}} world.
 
 Honor Sauropos—the thunder lizards,
 The gentle giants whose banners were unfurled
@@ -2046,7 +2046,7 @@ Long before any wing had caught the air,
 The theropod's body dressed itself in light
 And filamentous down—a coat to wear
 
-Against the Jurassic nights, when even
+Against the {{x|Jurassic}} nights, when even
 The warm-blooded archosaur needed more
 Than the bare scale to hold the metabolic leaven
 Of heat inside—the feather was the door
@@ -2085,7 +2085,7 @@ Of every generation's contribution
 To the arms race of display.
 
                               And then—
-In the late Jurassic's limestone lagoons,
+In the late {{x|Jurassic}}'s limestone lagoons,
 Where the {{p|Tethys}}' tropical waters bred their den
 Of island archipelagoes—the monsoons
 
@@ -2104,7 +2104,7 @@ Of every dinosaur's anatomy, the strong
 And hollow bone—but on his arms, the feathers
 Were long and asymmetric, the vanes
 Arranged for the physics of flight—the weathers
-Of the Jurassic air across the planes
+Of the {{x|Jurassic}} air across the planes
 
 Of his wings were functional, not merely show:
 Archaeos could fly, or glide, or something
@@ -2121,7 +2121,7 @@ A dinosaur becoming a bird.
 
                                    He was not
 The first to fly—Pteros ruled the aviation
-Of the Jurassic sky—but Archaeos brought
+Of the {{x|Jurassic}} sky—but Archaeos brought
 
 A different wing: not the membrane-kite
 Of the pterosaur's finger-skin, but the feather-fan,
@@ -2151,7 +2151,7 @@ Of fused vertebrae would one day show—
 
 But he was the proof of concept, the first flight
 Of the feathered wing, the dinosaur who dared
-To test the Jurassic air and found the height
+To test the {{x|Jurassic}} air and found the height
 Rewarding—and the lineage he prepared
 
 Would become the most successful dinosaurs
@@ -2162,7 +2162,7 @@ Of every morning with their living will—
 The only dinosaurs that lived to sing.
 
 Honor Archaeos—half-dinosaur, half-bird,
-Caught in the stone of the Jurassic's offering
+Caught in the stone of the {{x|Jurassic}}'s offering
 With wings outstretched—the first and final word
 
 Of a transformation still in flight:
@@ -2173,18 +2173,18 @@ Of every dawn, the dinosaur's resound.
 
 # Chapter 102: Teeth and Claws
 
-The Jurassic was the theropod's golden age.
+The {{x|Jurassic}} was the theropod's golden age.
 
 Where Coelos had run in modest packs
-Across the Triassic's marginal stage,
-His Jurassic descendants made no apology—cracks
+Across the {{x|Triassic}}'s marginal stage,
+His {{x|Jurassic}} descendants made no apology—cracks
 
 In the ecosystem's architecture opened wide
 For predators of every size and style,
 And Theros' children filled them with the pride
 Of the hunting art perfected mile by mile.
 
-Allos was the master of the late Jurassic—
+Allos was the master of the late {{x|Jurassic}}—
 The lion of his age, though larger, heavier,
 With a skull built like a hatchet—the classic
 And terrible head designed for the gravier
@@ -2211,7 +2211,7 @@ While the jaws delivered—Allos looked
 Like what he was: a killing engine, felled
 
 Together from the blueprint of the theropod
-Into its fullest Jurassic expression—
+Into its fullest {{x|Jurassic}} expression—
 Bipedal, balanced on the fulcrum-rod
 Of the tail, the head a terrible confession
 
@@ -2224,7 +2224,7 @@ Of theropod evolution was always toward
 A more efficient kill.
 
                        But Allos was not alone.
-The Jurassic's predator guild was broad
+The {{x|Jurassic}}'s predator guild was broad
 And the niches many—from the bone
 
 Of the largest prey to the smallest lizard,
@@ -2234,8 +2234,8 @@ Horn and blade-teeth, hunting the same trail
 
 As Allos but at a smaller gauge;
 The megalosaurids, heavy-jawed and strong,
-Who hunted the European stage
-Of the Jurassic world; and all along
+Who hunted the {{p|European}} stage
+Of the {{x|Jurassic}} world; and all along
 
 The coastal margins, the spinosaurids were
 Beginning their experiment with fish—
@@ -2245,7 +2245,7 @@ Of Spinosauros, who would later wish
 The river for his kingdom and receive it.
 
 And in the undergrowth, the small theropods ran:
-Compsognathids no bigger than a chicken—believe it—
+{{x|Compsognathids}} no bigger than a chicken—believe it—
 With delicate jaws for insects, the small-clan
 
 Of Theros' family who proved that the theropod plan
@@ -2261,7 +2261,7 @@ The predator grew larger, and the colossal
 
 Herbivore grew larger still—the back
 And forth of predation and defense
-That made the Jurassic an evolutionary track
+That made the {{x|Jurassic}} an evolutionary track
 Of escalation with no end, no fence
 
 To limit the size of the hunter or the prey—
@@ -2275,14 +2275,14 @@ And to refine that purpose until it filled
 The predator niche so completely, so thrilling
 
 In its efficiency, that every herbivore
-On the Jurassic plain lived in the shadow
+On the {{x|Jurassic}} plain lived in the shadow
 Of the theropod's eternal: something more
 Terrible is coming from the meadow's
 
 Far edge, with teeth like knives and the patience
 Of a hunter who has evolved for nothing else.
 
-Honor Allos and his Jurassic nations
+Honor Allos and his {{x|Jurassic}} nations
 Of the fang—the teeth-and-claws that dwells
 
 In every child's imagination when
@@ -2304,7 +2304,7 @@ Green of Conifera's needles, the austere
 And wind-pollinated world where every levy
 
 Of pollen flew in clouds of golden dust
-On the Mesozoic wind, profligate
+On the {{x|Mesozoic}} wind, profligate
 And wasteful—a billion grains, and just
 A few would find their target, the mandate
 
@@ -2316,7 +2316,7 @@ That mattered—the crude and ancient logistics
 Of the gymnosperm's seed-making.
 
                                    But in the early
-Cretaceous undergrowth, among the ferns
+{{x|Cretaceous}} undergrowth, among the ferns
 And cycads, something new appeared: the rarely
 Beautiful, the quietly transformative—the turns
 
@@ -2398,7 +2398,7 @@ Of evolution's most productive mother.
 
 The dinosaurs ate the new plants gladly—
 The hadrosaurs and ceratopsians
-Of the late Cretaceous would develop badly
+Of the late {{x|Cretaceous}} would develop badly
 If the flowers failed—their special plans
 
 For grinding teeth and gut-fermentation
@@ -2435,13 +2435,13 @@ Of which we still consume in every act
 
 Of eating, smelling, seeing—for the flower
 Is the source of nearly everything we grow,
-And Angios' Cretaceous hour
+And Angios' {{x|Cretaceous}} hour
 Is the hour that made the world we know.
 
 
 # Chapter 104: The Snake-Kindred of the Sea
 
-In the late Cretaceous seas, a new predator rose
+In the late {{x|Cretaceous}} seas, a new predator rose
 From the lineage of Squamos—the lizard-kin,
 The children of the second-born, and those
 Who carried the inheritance within
@@ -2452,7 +2452,7 @@ Mosas, the mosasaur, who would apply
 The lizard's ancient arts to the ocean's lair.
 
 For Mosas was Squamos' child, a monitor
-In the manner of the great Komodo-kin—
+In the manner of the great {{x|Komodo}}-kin—
 A varanid, a tongue-flicking connoisseur
 Of the coastal shallows who went in
 
@@ -2485,13 +2485,13 @@ Where the prey was large and the need was real,
 
 This innovation made the mosasaur supreme.
 
-Mosas grew enormous in the Cretaceous seas—
+Mosas grew enormous in the {{x|Cretaceous}} seas—
 The largest reached the length of a city's dream:
 Seventeen meters of hunting expertise
 
 That ruled the shallow continental shelves
 Where the inland seas spread wide and warm
-Across the Cretaceous world—the waves themselves
+Across the {{x|Cretaceous}} world—the waves themselves
 Belonged to Mosas, and the coming storm
 
 Of his jaws was the last thing that the fish,
@@ -2499,7 +2499,7 @@ The ammonite, the sea turtle, the shark
 Would see—the mosasaur's one burning wish
 Was food, and the ocean offered it, and the dark
 
-Of the Cretaceous deep was his to claim.
+Of the {{x|Cretaceous}} deep was his to claim.
 
 His flippers were modified from the monitor's
 Spreading toes—webbed and powerful, the frame
@@ -2510,16 +2510,16 @@ And flattened, a vertical blade that drove
 The sinuous body forward through the hall
 Of the ocean's hunting grounds—the treasure-trove
 
-Of the late Cretaceous sea.
+Of the late {{x|Cretaceous}} sea.
 
                              And as Mosas rose,
 Ichthyos faded—the dolphin-shaped
 And ancient ichthyosaurs, who had enclosed
-The Triassic and Jurassic seas, escaped
+The {{x|Triassic}} and {{x|Jurassic}} seas, escaped
 
 No longer: the ichthyosaur line, after
 A hundred and fifty million years of the deep,
-Went silent in the mid-Cretaceous—the rafter
+Went silent in the mid-{{x|Cretaceous}}—the rafter
 Of their evolutionary house lost its keep
 
 To changing seas and changing competition—
@@ -2549,7 +2549,7 @@ Who proved that Squamos' ancient pioneering
 In flexible jaw and limbless sovereignty
 
 Could conquer the ocean as it conquered the land—
-The mosasaur who ruled the Cretaceous deep
+The mosasaur who ruled the {{x|Cretaceous}} deep
 With the monitor's tongue and the serpent's hand
 Redesigned for swimming—and whose sleep
 
@@ -2563,7 +2563,7 @@ The lizard-kin can take the ocean's helm.
 
 There is a shape that terror takes when it perfects itself.
 
-In the late Cretaceous, Theros' line achieved
+In the late {{x|Cretaceous}}, Theros' line achieved
 The ultimate predator—the shape that delved
 Into the deepest fear of every grieved
 
@@ -2573,7 +2573,7 @@ Who grew beyond all reason, who would bring
 The largest head, the strongest bite, the raw
 
 And overwhelming force of the apex lord
-To the Cretaceous's final act.
+To the {{x|Cretaceous}}'s final act.
 
                                    Twelve meters long,
 Six tons of bone and muscle, every cord
@@ -2637,7 +2637,7 @@ Was acute, the low frequencies of the ground
 Conducted through the bone, the footstep's clearing
 Of every fleeing creature's secret sound.
 
-The Cretaceous trembled before Tyrannos—
+The {{x|Cretaceous}} trembled before Tyrannos—
 Not a single land creature in his territory
 Was safe from the tyrant's scanning bellows
 Of smell and sight—the predatory
@@ -2675,7 +2675,7 @@ The strongest bite, the deepest jaws,
 And the earth itself that trembled when he stalked.
 
 He ruled for two million years at the end
-Of the Cretaceous age—a brief reign
+Of the {{x|Cretaceous}} age—a brief reign
 In geological time, but in the trend
 Of the theropod's story, the maximum strain
 
@@ -2689,7 +2689,7 @@ And terrible world where the tyrant reigns.
 
 Against the tyrant's jaw, the herbivore
 Grew armor, grew horns, grew the elaborate
-And beautiful defenses of the Cretaceous floor:
+And beautiful defenses of the {{x|Cretaceous}} floor:
 The ornithischian answer, the ornate
 
 And weaponized response to the predator's art.
@@ -2720,7 +2720,7 @@ Of frill-horns, Centrosauros in a spree
 
 Of nasal ornament—each species wrote
 Its identity on the skull for all to read,
-And the Cretaceous plains were the moat
+And the {{x|Cretaceous}} plains were the moat
 And kingdom of the horned ones' creed.
 
 They charged the Tyrannos when he came—
@@ -2733,7 +2733,7 @@ The ceratopsian herds moved together,
 The young inside, the adults in a ring
 Of bristling horn-points, and the weather
 
-Of the Cretaceous battle between the horn
+Of the {{x|Cretaceous}} battle between the horn
 And the tooth was the defining drama
 Of the final age—the conflict, born
 From sixty million years of carnivore-llama
@@ -2748,7 +2748,7 @@ Of the arms race between the hunter's jaw
 And the hunted's armor—neither breached
 The other's final defenses, and the draw
 
-Of their perpetual warfare was the Cretaceous way.
+Of their perpetual warfare was the {{x|Cretaceous}} way.
 
 And beside the horned ones, the crested:
 Hadros, the duck-billed, who displayed a different day
@@ -2756,17 +2756,17 @@ Of ornament: the hollow crested
 
 Skulls that Parasauros wore, the tube
 And trumpet of bone that resonated
-With the animal's voice—a living YouTube
+With the animal's voice—a living {{x|YouTube}}
 Of communication, each crest calibrated
 
 To a different pitch and timbre—and the call
-Of the hadrosaur across the Cretaceous plain
+Of the hadrosaur across the {{x|Cretaceous}} plain
 Was music: deep and haunting, the hall
 Of the hollow crest a resonating gain
 
 That amplified the animal's low-frequency
 Bellow into something that could carry
-For miles—the Cretaceous symphony
+For miles—the {{x|Cretaceous}} symphony
 Of the duck-billed dinosaurs, the ordinary
 
 And extraordinary sound of the herd
@@ -2777,7 +2777,7 @@ Of hunger—the communication-prongs
 Of a social life as complex as any mammal's.
 
 Hadros and Ceratops together
-Were the Cretaceous herbivore's mammals—
+Were the {{x|Cretaceous}} herbivore's mammals—
 If mammals is the word for whatever
 
 Achieves the social, the communicative,
@@ -2804,7 +2804,7 @@ Of living stone that Ankylos wore.
 
 Honor the horned, the crested, the armored—
 The herbivore's answer to the carnivore's store
-Of weaponry—the Cretaceous world that harbored
+Of weaponry—the {{x|Cretaceous}} world that harbored
 
 Both the tyrant and the shield, the fang
 And the frill, the jaw and the horn—
@@ -2821,7 +2821,7 @@ Of the hunter and the hunted evermore.
 
 Now Pteros' children grew to the impossible.
 
-In the late Cretaceous, when the Mesozoic world
+In the late {{x|Cretaceous}}, when the {{x|Mesozoic}} world
 Had pushed every boundary of the plausible
 In size and strength and strangeness, Pteros unfurled
 
@@ -2829,7 +2829,7 @@ The largest wings that ever flew.
 
 Quetzal—named for the feathered serpent-god
 That humans would later worship—flew through blue
-And Cretaceous skies on a wingspan broad
+And {{x|Cretaceous}} skies on a wingspan broad
 
 As a fighter aircraft: eleven meters wide,
 The membrane stretched from the enormous fourth
@@ -2843,7 +2843,7 @@ On his knuckles and his feet—the animal
 
 Kingdom's tallest flier was also tall
 On the ground, and the azhdarchid pterosaurs
-Of the late Cretaceous were the overall
+Of the late {{x|Cretaceous}} were the overall
 Most versatile of all Pteros' floors
 
 Of evolutionary achievement:
@@ -2865,7 +2865,7 @@ Of the skeleton—light as possibility itself.
 
 On the ground, Quetzal was a stork
 Of monstrous proportions: walking on the shelf
-Of the Cretaceous plain with a beak like a fork
+Of the {{x|Cretaceous}} plain with a beak like a fork
 
 That picked up small dinosaurs, mammals, lizards—
 Anything that fit within the enormous
@@ -2877,9 +2877,9 @@ And fly with equal mastery—the only
 Large animals that could soar and stalk
 In both dimensions, the sky and the lonely
 
-Flatlands of the Cretaceous interior.
+Flatlands of the {{x|Cretaceous}} interior.
 
-And not only Quetzal ruled the Cretaceous sky:
+And not only Quetzal ruled the {{x|Cretaceous}} sky:
 The ornithocheirids plied the aerial superior
 Of the open ocean, fishing on the fly
 
@@ -2889,7 +2889,7 @@ And the pteranodontids, with their brave
 And crested heads like the upswept silhouette
 
 Of a living weather-vane, soared above
-The inland seas of the late Cretaceous,
+The inland seas of the late {{x|Cretaceous}},
 Catching fish in their throat-pouches with the love
 Of a pelican's patience—the capacious
 
@@ -2919,7 +2919,7 @@ On wings that would make the albatross
 Seem modest—and his devotion
 To the sky was total, and the loss
 
-Of the pterosaurs at the Cretaceous's end
+Of the pterosaurs at the {{x|Cretaceous}}'s end
 Would leave the air for the birds alone—
 The feathered dinosaurs would then extend
 Their claim to every sky the pterosaur had known.
@@ -2939,7 +2939,7 @@ Of the impossible made real.
 
 # Chapter 108: The Peak of Life
 
-The late Cretaceous was the fullest world
+The late {{x|Cretaceous}} was the fullest world
 That life had ever made.
 
                          From pole to pole
@@ -2953,14 +2953,14 @@ The world was warm, the world was entire
 
 In its coverage of life from the abyss
 Of the ocean's deepest trench to the highest
-Mountain that the Cretaceous tectonic bliss
+Mountain that the {{x|Cretaceous}} tectonic bliss
 Of activity could raise—the slightest
 
 Corner of the planet held its life.
 
 In the sea: Mosas ruled the shallows,
 His serpentine bulk the greatest knife
-That the Cretaceous marine world allows
+That the {{x|Cretaceous}} marine world allows
 
 For cutting through the ocean's living wealth—
 And Plesios still dove with her four flippers
@@ -2973,7 +2973,7 @@ In their chambered shells, the ancient peers
 Of Coleios' cuttlefish—the solemn
 
 And beautiful geometry of the chambered nautilus
-Still sailing, as it had since the Ordovician sea—
+Still sailing, as it had since the {{x|Ordovician}} sea—
 And the teleosts, Teleosteos' fabulous
 And overwhelming diversity,
 
@@ -2985,7 +2985,7 @@ And son of Actinus' ancient bone.
 On land: Tyrannos stalked his kingdom
 And Ceratops bore his horns against the king—
 Hadros called across the freedom
-Of the Cretaceous plain, and the spring
+Of the {{x|Cretaceous}} plain, and the spring
 
 Of every year brought the ornithischian herds
 In their annual migrations, millions strong,
@@ -2994,7 +2994,7 @@ Of Archaeos' lineage sang their song
 
 In the canopy, already diversified
 Into waterbirds and shorebirds and the small
-And toothed Cretaceous forms that occupied
+And toothed {{x|Cretaceous}} forms that occupied
 The niches that the pterosaurs could not fill—all
 
 The understory and the forest interior
@@ -3010,14 +3010,14 @@ In the undergrowth, Mammos kept his small
 And quiet vigil—the nighttime prayers
 
 Of the mammalian line continuing their watch
-Through the Cretaceous as through the Jurassic
-And the Triassic before: the notch
+Through the {{x|Cretaceous}} as through the {{x|Jurassic}}
+And the {{x|Triassic}} before: the notch
 Of smallness, the nocturnal and gymnastic
 
 Survival of the warm-blooded and the furred
 In the shadow of the cold-blooded giants—
 But by now the mammals had diversified: the word
-Of the Cretaceous mammal was defiance
+Of the {{x|Cretaceous}} mammal was defiance
 
 In miniature—multituberculates with their
 Rodent-like teeth, the metatherians
@@ -3035,26 +3035,26 @@ Of Angios was the soundtrack of the age:
 Bees and wasps and butterflies, the hours
 Of pollination filling every page
 
-Of the Cretaceous day with the hum
+Of the {{x|Cretaceous}} day with the hum
 Of the partnership between the plant and wing.
 
 This was the peak. This was the sum
-Of the Mesozoic's offering:
+Of the {{x|Mesozoic}}'s offering:
 
 A world more full of life than it had been
-Before the Permian's Great Dying—more diverse,
+Before the {{x|Permian}}'s {{x|Great Dying}}—more diverse,
 More complex, more intricately between
 The predator and prey, the universe
 
 Of ecological interaction reaching depths
-Of sophistication that the Paleozoic
+Of sophistication that the {{x|Paleozoic}}
 Had never known—and in these depths
-The Mesozoic wrote its most heroic
+The {{x|Mesozoic}} wrote its most heroic
 
 And beautiful chapters: the world at its most alive,
 The planet at its greenest and most full,
 Every niche occupied by whatever could thrive
-In the Cretaceous greenhouse's generous pull.
+In the {{x|Cretaceous}} greenhouse's generous pull.
 
 Honor the peak—the moment when the world
 Was most itself, most full, most densely woven
@@ -3062,7 +3062,7 @@ With the living—every flag unfurled,
 Every niche occupied, every kingdom cloven
 
 To its finest divisions—the pinnacle
-Of the Mesozoic's hundred-and-eighty-million years
+Of the {{x|Mesozoic}}'s hundred-and-eighty-million years
 Of building—the invincible
 And the beautiful, the joys and the fears
 
@@ -3075,7 +3075,7 @@ And the peak is not yet destroyed.
 
 # Chapter 109: The Cosmic Visitor
 
-Somewhere beyond the orbit of Jupiter,
+Somewhere beyond the orbit of {{p|Jupiter}},
 A stone had been traveling for four billion years.
 
 It was not large—by the standards of the greater
@@ -3087,7 +3087,7 @@ That had built the planets—the parameters
 Of its orbit slowly shifting, the proud
 
 And stable path it had circled for eons
-Perturbed by Jupiter's gravity into
+Perturbed by {{p|Jupiter}}'s gravity into
 A new trajectory—the cons and theeons
 Of orbital mechanics finally drew
 
@@ -3098,7 +3098,7 @@ Was as thoughtless as the rain that falls on plains
 Without intention—the cosmic zone
 
 Of the asteroid belt had released it
-Into a path that intersected Earth's
+Into a path that intersected {{p|Earth}}'s
 By the mathematics of the orbits—seized it
 From its ancient circuit and the berths
 
@@ -3107,7 +3107,7 @@ On a hyperbolic course that took ten
 Thousand years to bring it toward
 The planet where the dinosaurs, the men
 
-Of the Mesozoic's greatest civilization
+Of the {{x|Mesozoic}}'s greatest civilization
 (If civilization is what we call
 The organized and complex occupation
 Of every niche on a planet, the hall
@@ -3115,7 +3115,7 @@ Of every niche on a planet, the hall
 Of a hundred million species living
 In the web of the most complex ecosystem
 The earth had made, the generous giving
-Of the Cretaceous greenhouse)—this system
+Of the {{x|Cretaceous}} greenhouse)—this system
 
 Knew nothing of the stone.
 
@@ -3127,7 +3127,7 @@ There was no cruelty in it. The somethings
 Of the universe proceed in their duality
 
 Of physics and indifference, and the rock
-That would end the Mesozoic world
+That would end the {{x|Mesozoic}} world
 Was not evil, was not even the shock
 Of a vengeful god's hurled
 
@@ -3147,7 +3147,7 @@ And in the final hours the full of it
 Was visible: a brightening star, a threat
 
 That only the mathematics could have warned of,
-Crossing the Cretaceous sky in the last
+Crossing the {{x|Cretaceous}} sky in the last
 Clear night—and not a single dinosaur mourned of
 The future that was vanishing so fast.
 
@@ -3166,13 +3166,13 @@ Though he did not know it, could not know,
 That the stone was falling toward the rafter
 Of the atmosphere, and the final show
 
-Of the Mesozoic was about to begin.
+Of the {{x|Mesozoic}} was about to begin.
 
 The stone entered the upper atmosphere
 At an angle, trailing a column thin
 And brilliant of plasma—and from here
 
-The last ten seconds of the Cretaceous
+The last ten seconds of the {{x|Cretaceous}}
 Were written in fire:
 
                       The atmosphere compressed
@@ -3185,7 +3185,7 @@ Of {{p|Chicxulub}}, off the coast, the intact
 And ancient limestone shelf—and the free
 
 And terrible energy of ten billion
-Hiroshimas released in one second—
+{{x|Hiroshimas}} released in one second—
 
 One second that ended a hundred million years.
 
@@ -3193,14 +3193,14 @@ But that is the next chapter's reckoned
 And terrible account. Tonight the tears
 Are not yet falling, and the stone's appointment
 With the earth is still one heartbeat away—
-And the Mesozoic's final anointment
+And the {{x|Mesozoic}}'s final anointment
 Of the evening sky is the last good day
 
 The dinosaurs will see.
 
                        Honor the evening.
 Honor the last good night before the fire—
-The Cretaceous sky in its gentle heaving
+The {{x|Cretaceous}} sky in its gentle heaving
 Of the stars above the quiet empire
 
 Of the dinosaurs who do not know
@@ -3218,7 +3218,7 @@ Of living was still flying.
 The morning of the last day was like any other.
 
 The sun rose over {{p|Laurasia}} and the warm
-Cretaceous air received the light like a mother
+{{x|Cretaceous}} air received the light like a mother
 Receiving a child—the familiar, the form
 
 Of every morning for a hundred million years:
@@ -3228,14 +3228,14 @@ Of dawn, the pterosaur lifting from the wall
 
 Of the cliff-side roost on the thermal's first
 Ascending column of the morning heat—
-The Cretaceous's last day was the unrehearsed
+The {{x|Cretaceous}}'s last day was the unrehearsed
 And ordinary continuation of the beat
 
 Of life that knows nothing of its end.
 
 In the forest, the flowering understory
 Opened its petals to the pollinators' blend
-Of wing and proboscis—the Cretaceous glory
+Of wing and proboscis—the {{x|Cretaceous}} glory
 
 Of the angiosperm-insect partnership
 In full display: the bee arrived at dawn,
@@ -3262,9 +3262,9 @@ To eat enormously and often.
 
 The Hadros herds moved south along the coast
 In their annual migration, the coffin
-Of the Cretaceous autumn—or the toast
+Of the {{x|Cretaceous}} autumn—or the toast
 
-Of the Cretaceous spring, for the greenhouse world
+Of the {{x|Cretaceous}} spring, for the greenhouse world
 Had gentler seasons than our own—and the herd
 Of a thousand hadrosaurs, their crests unfurled
 In the morning light, bellowed every word
@@ -3296,7 +3296,7 @@ Every day for a hundred and thirty million years
 Of her lineage's continuity—the bliss
 Of the hunting plesiosaur's career
 
-Unchanged since the Jurassic dawn.
+Unchanged since the {{x|Jurassic}} dawn.
 
 And in the evening—the very last—
 The Mammos in his burrow looked upon
@@ -3309,7 +3309,7 @@ Of the nighttime ecosystem, the merging
 
 Of the day shift and the night shift at the seam
 Of dusk—the universal handoff
-That the Mesozoic world had made a dream
+That the {{x|Mesozoic}} world had made a dream
 Of reliability—and the final standoff
 
 Between the stone and the planet was hours away.
@@ -3326,14 +3326,14 @@ Keeps no record of the natural observance
 Of the approaching doom.
 
                          The last sunset
-Was beautiful—as all Cretaceous sunsets were—
+Was beautiful—as all {{x|Cretaceous}} sunsets were—
 The greenhouse atmosphere's palette set
 In reds and golds that would not recur
 
 For ten million years.
 
                       And then the night.
-The last night of the Mesozoic world.
+The last night of the {{x|Mesozoic}} world.
 And in the south, a growing point of light
 In the sky, where no star had ever swirled
 
@@ -3371,7 +3371,7 @@ A white-hot column of ejecta rising
 From the planet's wound, a luminous crown
 Of debris beyond any theorizing
 
-That the Cretaceous world could have imagined.
+That the {{x|Cretaceous}} world could have imagined.
 
 The shock wave traveled through the earth
 At the speed of sound in stone—the imagined
@@ -3388,8 +3388,8 @@ Through every rock and every mantle layer.
 The tsunami followed: waves as rated
 By the models at three hundred meters—a prayer
 
-Of water that swept across the Gulf
-And the Atlantic's western shore—the engulf
+Of water that swept across the {{p|Gulf}}
+And the {{p|Atlantic}}'s western shore—the engulf
 Of every coastal ecosystem, the gulf
 Between the living and the dead—the wolf
 
@@ -3460,7 +3460,7 @@ In the dark and starving sea.
                               Plesios—
 The patient plesiosaur, who had swum
 For a hundred and thirty million years—the flows
-Of the Mesozoic ocean gave her no welcome
+Of the {{x|Mesozoic}} ocean gave her no welcome
 
 In the impact winter's starving dark.
 
@@ -3471,7 +3471,7 @@ Of thermal to ride, no fish, no protein
 In the poisoned and the darkened world.
 
 The ammonites, who had sailed the ocean
-Since the Devonian—their shells were hurled
+Since the {{x|Devonian}}—their shells were hurled
 To the sediment floor, the final motion
 
 Of a lineage four hundred million years old.
@@ -3482,8 +3482,8 @@ Into the fossil record's certified
 
 And permanent account of the destroyed.
 
-This is Good Mesozoic Friday:
-The death of the Mesozoic world, the void
+This is {{x|Good Mesozoic Friday}}:
+The death of the {{x|Mesozoic}} world, the void
 That the asteroid opened in the midday
 
 Of the planet's greatest complexity—
@@ -3508,7 +3508,7 @@ Of a world that ends in aerodynamics
 
 And the physics of the unintended.
 
-Let us mourn the Mesozoic dead—
+Let us mourn the {{x|Mesozoic}} dead—
 For the dying was not earned or recommended
 But only the falling of the stone, and the thread
 
@@ -3529,7 +3529,7 @@ In their burrows, the birds in their hidden nests,
 The crocodilians in the river's channels,
 The turtles in their shells—the guests
 
-Of the Mesozoic who had never been
+Of the {{x|Mesozoic}} who had never been
 The hosts, who had lived in the margins
 And the nighttime and the in-between
 Of the great ones' world—the bargains
@@ -3544,7 +3544,7 @@ Of Theraps, of Pelyon, of Synaps,
 Of the great synapsid dynasty whose sigh knows
 The weight of a hundred and eighty million year lapse
 
-Between the Permian crown and this new day—
+Between the {{x|Permian}} crown and this new day—
 Mammos crept from his burrow in the gray
 And silent aftermath and looked away
 At a world that was entirely his.
@@ -3603,10 +3603,10 @@ Of Deinos' house, the final word
 
 Of the dinosaur that was never final:
 For the birds are dinosaurs, and the morning song
-Of the robin is the Mesozoic's spinal
+Of the robin is the {{x|Mesozoic}}'s spinal
 And continuing declaration: I belong
 
-To the lineage that walked the Cretaceous plain,
+To the lineage that walked the {{x|Cretaceous}} plain,
 And though the giants fell, I fly,
 And in my bones the hollow architecture's grain
 Of Archon's house still reaches for the sky.
@@ -3617,7 +3617,7 @@ Brother's line—the ultimate reviver
 Of the archosaur's ancient welter—
 
 He survived as he had survived the end
-Of the Triassic: by being small, amphibious,
+Of the {{x|Triassic}}: by being small, amphibious,
 And cold-blooded enough to extend
 His fasting through the dark—the ambiguous
 
@@ -3654,7 +3654,7 @@ So the synapsids returned. The sun-warmed
 And milk-giving and furry, the unfurled
 
 And long-delayed inheritors of the earth—
-Mammos walked into the Paleocene's
+Mammos walked into the {{x|Paleocene}}'s
 Empty world and found it full of berth
 For everything the mammal's body means:
 
@@ -3686,7 +3686,7 @@ And understand.
                   But that is another age.
 
 For now, honor the mouse and the chicken—
-The two survivors of the Mesozoic's end,
+The two survivors of the {{x|Mesozoic}}'s end,
 The small and the humble and the stricken
 Who inherited the earth—and who will tend
 
@@ -3695,7 +3695,7 @@ The mammal from the burrow, the bird from the nest,
 The crocodile from the river, the tortoise without fear—
 The meek, the small, the patient, and the blessed.
 
-This is the Easter of the Mesozoic:
+This is the {{x|Easter}} of the {{x|Mesozoic}}:
 The death that is the door to the age of mind,
 The extinction that was not the final stoic
 Conclusion but the opening—and behind
@@ -3706,6 +3706,6 @@ That it was looking—and through the storm
 Of the cosmic visitor's leveling blow,
 
 The future of consciousness was born
-In the dust of the Mesozoic's last good night—
+In the dust of the {{x|Mesozoic}}'s last good night—
 And morning came, and the world was torn
 And silent—and the mouse stepped into the light.

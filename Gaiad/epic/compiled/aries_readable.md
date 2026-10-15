@@ -55,7 +55,7 @@ When it didn't—the crocodile's liver
 
 Processed the nothing of the impact winter
 With the same indifference it processed
-The plenty of the Cretaceous—the splinter
+The plenty of the {{x|Cretaceous}}—the splinter
 Of Cruros' once-great house, the rest
 
 Had perished long ago, but the crocodile
@@ -84,7 +84,7 @@ The synapsid exile who had known those
 Hundred and eighty million years of wraps
 
 And smallness and the nighttime vigil—
-Mammos looked at the empty Paleocene
+Mammos looked at the empty {{x|Paleocene}}
 And saw what the burrowing and the frugal
 Nightlife had prepared him for: the clean
 
@@ -104,7 +104,7 @@ The promised land, emptied by catastrophe,
 Waiting for whoever had earned
 The right to fill it—and the biography
 
-Of the Cenozoic would be written
+Of the {{x|Cenozoic}} would be written
 By the mouse who stepped into the light
 And found it good—the world was smitten
 Open, and the morning after the night
@@ -120,7 +120,7 @@ They did not defeat the asteroid—
 They merely lived through it, and the seed
 Of every future world that was deployed
 
-From the Paleocene forward
+From the {{x|Paleocene}} forward
 Grew from the ash they walked upon that morning.
 
 
@@ -129,7 +129,7 @@ Grew from the ash they walked upon that morning.
 Now hear the song of Neornis, the crown bird,
 Deinos' last surviving heir—
 The feathered dinosaur whose word
-Of morning filled the Paleocene air
+Of morning filled the {{x|Paleocene}} air
 
 With the first music of the new world.
 
@@ -137,13 +137,13 @@ For Neornis was Deinos' child—remember this:
 Every bird that sings is a dinosaur, furled
 In feathers, and the morning's kiss
 
-Of birdsong is the Mesozoic's voice
+Of birdsong is the {{x|Mesozoic}}'s voice
 Continuing—the theropod line
 That did not end but made the choice
 Of wings and seed and the design
 
-Of flight perfected over the Cretaceous sky
-Now flew into the empty Cenozoic
+Of flight perfected over the {{x|Cretaceous}} sky
+Now flew into the empty {{x|Cenozoic}}
 And filled it—everywhere the eye
 Could see, the avian and heroic
 
@@ -167,7 +167,7 @@ That evolution drew from a single body plan.
 
 Gastornis was among the first to claim
 The empty throne of the theropod—this began
-In the Paleocene's forests, where the name
+In the {{x|Paleocene}}'s forests, where the name
 
 Of terror bird was earned: a flightless giant
 Standing two meters tall, with a beak
@@ -177,7 +177,7 @@ And enormous predator, the peak
 Of what a bird becomes when there is no
 Competing mammal large enough to challenge
 The ground—Gastornis ruled the show
-Of the early Paleocene, the balance
+Of the early {{x|Paleocene}}, the balance
 
 Of power still uncertain, the crown
 Of apex predator still unclaimed
@@ -193,7 +193,7 @@ Of diversity that the compliant
 And flexible body plan allowed.
 
 Passeros—the songbirds—radiated
-In the Eocene like an exploding cloud
+In the {{x|Eocene}} like an exploding cloud
 Of melody: the oscines created
 
 The syrinx's double-chambered instrument
@@ -263,7 +263,7 @@ Who sings, who dives, who wades, who runs—
 The theropod whose feathered guise
 Outlasted all of Deinos' other sons
 
-And carries the Mesozoic forward
+And carries the {{x|Mesozoic}} forward
 In every dawn chorus, every migration,
 Every egg in every nest—the skyward
 Continuation of the oldest nation
@@ -281,7 +281,7 @@ The ones who kept the oldest ways,
 Who never left the ancient building
 Of the egg behind, who spent their days
 
-In the manner of the Mesozoic still:
+In the manner of the {{x|Mesozoic}} still:
 Laying eggs, sweating milk from patches
 On the belly's skin, the ancient fill
 Of maternal care that predates the latches
@@ -320,7 +320,7 @@ Of the southern ocean knew their chorused
 And quiet presence—egg-laying mammals
 In a warm and forested {{p|Antarctica}},
 A memory that only the enamel
-Of ancient teeth and a scattered Antartica
+Of ancient teeth and a scattered {{p|Antartica}}
 
 Fossil record preserves.
 
@@ -331,8 +331,8 @@ Of isolation—and from that point forth
 
 The monotremes were locked in the southern cage
 Of a drifting continent, alone
-With the marsupials—and the Cenozoic age
-Of the Northern Hemisphere was the unknown
+With the marsupials—and the {{x|Cenozoic}} age
+Of the {{p|Northern Hemisphere}} was the unknown
 
 And foreign country whose placental lords
 Would never reach them.
@@ -360,7 +360,7 @@ And living map of everything that moves.
 
 He lays eggs—the mother curls around them
 In the burrow by the riverbank, and proves
-That the Mesozoic's way can still astound them
+That the {{x|Mesozoic}}'s way can still astound them
 
 Who thought the egg was left behind:
 The milk sweats from patches on the belly,
@@ -371,7 +371,7 @@ Of maternal care in its most ancient form.
 
 And Echidos—the echidna, the spiny
 Ant-eater, who weathered every storm
-Of the Australian interior, the tiny
+Of the {{p|Australian}} interior, the tiny
 
 And efficient tongue that probes the termite
 Mound with the patience of a saint,
@@ -461,7 +461,7 @@ Where resources fail without warning.
 In {{p|Australia}}—that drifting, curled
 And isolate continent, the morning
 
-Of the Cenozoic found Marsupios
+Of the {{x|Cenozoic}} found Marsupios
 Alone with Monotremos, and no placental
 Competition—and the marsupial's dose
 Of adaptive radiation was monumental:
@@ -490,9 +490,9 @@ In everything but ancestry, the visual
 Convergence almost perfect—striped back,
 Long jaws, the pack-hunter's lean
 And ranging body—on the track
-Of prey through the Tasmanian green
+Of prey through the {{p|Tasmanian}} green
 
-And the wider Australian bush, the thylacine
+And the wider {{p|Australian}} bush, the thylacine
 Proved that evolution's patterns repeat:
 The same problem—how to hunt, how to convene
 The pack, how to bring down fleet
@@ -507,9 +507,9 @@ Logic of the predator.
                          And Diprotodontos—
 The giant wombat, two tons of herbivore,
 The largest marsupial whose confronting
-Of the Pleistocene grasslands was the core
+Of the {{x|Pleistocene}} grasslands was the core
 
-Of the Australian megafauna's pride—
+Of the {{p|Australian}} megafauna's pride—
 He browsed the scrubland like a furry tank,
 With no predator large enough to override
 His bulk—and from his lineage's rank
@@ -521,7 +521,7 @@ In {{p|South America}} the marsupials kept
 A different vigil—for when the birth
 
 Of the land bridge at {{p|Panama}} connected
-North and South America at last,
+{{p|North}} and {{p|South America}} at last,
 The placental mammals were directed
 Southward, and the great interchange passed
 
@@ -554,7 +554,7 @@ Of evolution, patient and far-seeing,
 Will build from your body every form
 The world requires: wolf and lion,
 Mole and mouse, through every storm
-Of geological time—on your own Zion.
+Of geological time—on your own {{p|Zion}}.
 
 
 # Chapter 117: The Threefold Division
@@ -600,7 +600,7 @@ That would produce the elephant, the whale,
 The dolphin, the ape, and at last the human mind.
 
 And Placentos divided, and the tale
-Of the Cenozoic's mammals is the kind
+Of the {{x|Cenozoic}}'s mammals is the kind
 
 Of story that geography writes:
 Three continents, three lineages, three
@@ -613,17 +613,17 @@ Afrotheros was born in {{p|Africa}}—
 Isolated by the ocean's bands
 From every other continent, a replica
 
-Of the Australian experiment:
+Of the {{p|Australian}} experiment:
 A single landmass, alone, where Afrotheros'
 Children filled the niches in a different bent
 Than their northern cousins—and the heroes
 
-Of the African radiation were strange
+Of the {{p|African}} radiation were strange
 And unexpected: the elephant, the aardvark,
 The hyrax, the manatee—the range
 Of forms that {{p|Africa}}'s isolation in the dark
 
-Of the early Cenozoic produced
+Of the early {{x|Cenozoic}} produced
 From a single founding stock.
 
 Xenarthros was born in {{p|South America}}—
@@ -635,7 +635,7 @@ The armadillo in his banded hue
 Of armor-plate, the anteater's expertise
 
 Of tongue that probed the termite mound—
-And in the Pleistocene, the giant forms:
+And in the {{x|Pleistocene}}, the giant forms:
 The ground sloth tall as a house, the round
 And car-sized glyptodont whose armored storms
 
@@ -673,7 +673,7 @@ With the mammalian art—the flags unfurled
 Of Afrotheros, Xenarthros, and the throne
 
 Of Boreos—three answers to the question
-That the empty Paleocene asked:
+That the empty {{x|Paleocene}} asked:
 What will the mammal be? Three directions,
 Three continents, three futures unmasked.
 
@@ -686,7 +686,7 @@ That no other continent would see
 Until the land bridges broke the norms
 
 Of isolation—and the strangest thing
-About the African radiation was this:
+About the {{p|African}} radiation was this:
 The elephant and the hyrax and the swimming
 Manatee are cousins—the analysis
 
@@ -757,7 +757,7 @@ Of the elephant's communication zone
 Extended far beyond the range of air.
 
 And Hyracos—the hyrax, small as a rabbit,
-Sitting on the rocks in the African glare,
+Sitting on the rocks in the {{p|African}} glare,
 Looking nothing like an elephant's habit
 
 Of enormity—and yet the teeth,
@@ -783,7 +783,7 @@ That the elephant applies to the broader
 Territory of the savanna's story—
 
 The sirenian is the elephant gone to sea,
-The same African stock adapted
+The same {{p|African}} stock adapted
 To the coastal water's warm decree
 Of tropical abundance, the rapt
 
@@ -805,7 +805,7 @@ Is measured in the steadiness of heroes
 
 Who need no company to persist.
 
-Honor Afrotheros—the African mother
+Honor Afrotheros—the {{p|African}} mother
 Whose children prove that the specialist
 And the generalist, the one and the other,
 
@@ -814,8 +814,8 @@ Vast intelligence, the hyrax's modest stone,
 The manatee's gentle elegance,
 The aardvark's kingdom of one—all grown
 
-From the same African isolation,
-The same Cenozoic island of the south,
+From the same {{p|African}} isolation,
+The same {{x|Cenozoic}} island of the south,
 The same continental meditation
 On what the mammal's body, hands, and mouth
 
@@ -832,11 +832,11 @@ Of temperate forest, the chimera
 Of Boreos' radiation was the greatest
 Mammalian explosion the world had seen:
 More orders, more families, the latest
-And most overwhelming act of the Cenozoic scene.
+And most overwhelming act of the {{x|Cenozoic}} scene.
 
 For Boreos had what Afrotheros and Xenarthros lacked:
 Connected continents—the land bridge at {{p|Beringia}}
-Let the Asian and American mammals act
+Let the {{p|Asian}} and {{p|American}} mammals act
 As one enormous gene pool—the criteria
 
 For speciation met a continent-sized
@@ -855,7 +855,7 @@ The tree shrews, the flying lemurs—all
 Descended from a tree-dweller whose habits
 Of grasping and of climbing the tall
 
-Canopy of the Paleocene's forests
+Canopy of the {{x|Paleocene}}'s forests
 Became the primate's inheritance—
 But that is a tale for later choruses;
 For now, the other branch's dance.
@@ -905,7 +905,7 @@ And unseen hunter of the insect world.
 
 The ungulates—the hoofed ones—rose
 From Laurasios' line as the world unfurled
-Its grasslands in the Miocene's prose
+Its grasslands in the {{x|Miocene}}'s prose
 
 Of cooling and of drying—and the hoof
 Was the grassland's answer to the claw:
@@ -947,7 +947,7 @@ Is the majority of every mammal that you know.
 
 From Laurasios' line the hunters came—
 Carnos, the flesh-eater, whose ancient art
-Of predation built the Cenozoic's frame
+Of predation built the {{x|Cenozoic}}'s frame
 Of ecological balance from the start.
 
 For every great grassland herd requires
@@ -1017,7 +1017,7 @@ The canine elongated to a dagger's
 Length, a stabbing sword of bone
 That pierced the thick-skinned staggerers
 
-Of the Pleistocene—the mammoth and the ground sloth
+Of the {{x|Pleistocene}}—the mammoth and the ground sloth
 And the bison whose hides were so thick
 That no ordinary bite could go through both
 The skin and the muscle—the trick
@@ -1061,7 +1061,7 @@ Of concentrated wrath
 In the smallest possible package.
 
 Honor Carnos—the hunter, the sculptor
-Of the Cenozoic's ecological passage,
+Of the {{x|Cenozoic}}'s ecological passage,
 The predator whose art is the vulture's
 
 And the wolf's and the lion's and the seal's:
@@ -1083,7 +1083,7 @@ Is often the presence of the one who kills.
 Now hear of Artiodactylos—the even-toed,
 The hoofed ones who inherited the grass.
 
-For in the Miocene the world bestowed
+For in the {{x|Miocene}} the world bestowed
 A gift that changed the mammals' looking-glass:
 
 The grasses spread—Gramineos, the humble
@@ -1196,7 +1196,7 @@ And ruminating presence.
                           Honor the grazers—
 Artiodactylos and his children, who turned
 The inedible grass into the praisers
-Of the Miocene's open world, and earned
+Of the {{x|Miocene}}'s open world, and earned
 
 The right to fill the largest biome
 On the planet—the grassland, the savanna,
@@ -1204,7 +1204,7 @@ The steppe, the prairie—every home
 Of the open ground was the manna
 
 Of the even-toed, the ruminant, the fleet
-And hoofed inheritors of the Cenozoic plain.
+And hoofed inheritors of the {{x|Cenozoic}} plain.
 
 
 # Chapter 122: The Marine Mammals
@@ -1221,7 +1221,7 @@ The first and greatest was the whale—the stalker
 Of the deep who began as a walking horde
 
 Of small, dog-like creatures on the shore
-Of the {{p|Tethys}} Sea in the Eocene's
+Of the {{p|Tethys}} Sea in the {{x|Eocene}}'s
 Warm shallows—Pakicetos, no more
 Than a wolf in size, whose genes
 
@@ -1254,7 +1254,7 @@ Whose tiny vestigial hind-limbs' line
 
 Was the last memory of the land
 That the whale would ever carry—
-By the late Eocene, the command
+By the late {{x|Eocene}}, the command
 Of the ocean was the cetacean's missionary
 
 Position: the whale was fully marine.
@@ -1367,7 +1367,7 @@ Other mammals combined—the drawer
 Of the short straw who drew it forty
 Percent of the time: two thousand species,
 More than any other order's sortie
-Into the Cenozoic's leases
+Into the {{x|Cenozoic}}'s leases
 
 Of ecological space—the rodent
 Is the most successful mammal on the earth.
@@ -1514,7 +1514,7 @@ Of the coming mind.
 
                      It began in the trees.
 
-The Paleocene's forests grew tall and warm
+The {{x|Paleocene}}'s forests grew tall and warm
 And canopy-closed—and the expertise
 Of living in the trees required a form
 
@@ -1590,7 +1590,7 @@ Song across the forest—the coastal
 Island that became the living museum
 Of what the primate was before the monkey came.
 
-Tarsios—the big-eyed one—the Te Deum
+Tarsios—the big-eyed one—the {{x|Te Deum}}
 Of the nocturnal hunter, the frame
 
 Of a tiny primate whose enormous eyes
@@ -1616,12 +1616,12 @@ To something new—but the asocial
 And ancient tarsier kept the vigil
 Of the early primate's way.
 
-And Aegyptopithos—the Egyptian fossil
+And Aegyptopithos—the {{p|Egyptian}} fossil
 Who announced the dawn of the anthropoid day:
 
 The first true higher primate, the bridge
 Between the prosimian and the monkey,
-Found in the Fayum Depression's ridge
+Found in the {{p|Fayum Depression}}'s ridge
 In {{p|Africa}}—the chunky
 
 And small-brained ancestor of everything
@@ -1643,9 +1643,9 @@ And folded brain that would one day ask why.
 
 # Chapter 125: The New World Monkeys
 
-In the Oligocene, when {{p|Africa}} and {{p|South America}}
+In the {{x|Oligocene}}, when {{p|Africa}} and {{p|South America}}
 Were closer than they are today but still
-Divided by the narrowing Atlantic's chimera
+Divided by the narrowing {{p|Atlantic}}'s chimera
 Of open ocean—a small and humble rill
 
 Of primates crossed the water.
@@ -1673,11 +1673,11 @@ Of any primate—an open floor
 For radiation.
 
                   From these castaways
-The New World monkeys bloomed—Platyrrhinos,
+The {{p|New World}} monkeys bloomed—Platyrrhinos,
 The broad-nosed ones, whose nasal ways
 And outward-facing nostrils were the signos
 
-Of their divergence from the Old World line—
+Of their divergence from the {{p|Old World}} line—
 A small anatomical flag
 That marked the thirty-million-year design
 Of separate evolution's rag
@@ -1691,10 +1691,10 @@ Of a tail that could support the slipping
 
 And swinging body in the canopy
 Like a safety rope and a third hand—
-No Old World monkey achieved this canopy
+No {{p|Old World}} monkey achieved this canopy
 Technology—the demand
 
-Of the South American rainforest's tall
+Of the {{p|South American}} rainforest's tall
 And continuous cover drove the solution:
 The tail that grasps, that will not fall,
 That adds a revolution
@@ -1731,7 +1731,7 @@ Cebos—the capuchin—was the genius:
 The tool-user, the absolute
 And unmatched intelligence of the simian genius
 
-Among the New World monkeys—Cebos
+Among the {{p|New World}} monkeys—Cebos
 Cracked nuts with stones, probed crevices
 With sticks, and the capuchin's tableaux
 Of problem-solving filled the devices
@@ -1773,7 +1773,7 @@ Of primate intelligence—the howler's voice,
 The capuchin's tools, the marmoset's purse
 Of cooperative care—a different choice
 
-From the Old World's path, but no less
+From the {{p|Old World}}'s path, but no less
 Accomplished in the art of being primate.
 
 
@@ -1792,7 +1792,7 @@ Of the monkey world—and the apes, the few
 
 And tailless ones whose chapter comes hereafter.
 
-Cercopithecos—the Old World monkeys—
+Cercopithecos—the {{p|Old World}} monkeys—
 Were the most successful, and the rafter
 Of their house was built on the keys
 
@@ -1810,8 +1810,8 @@ Papios—the baboon—came down from the trees.
 
 This was the revolution: the ground.
 
-For the Miocene's drying squeezed the frieze
-Of the African forest into smaller ground,
+For the {{x|Miocene}}'s drying squeezed the frieze
+Of the {{p|African}} forest into smaller ground,
 
 And the savanna opened—the woodland shrank,
 And the baboon, too large and too social
@@ -1861,12 +1861,12 @@ Of the macaque's expansion, the attica
 
 Of the monkey world: the snow monkey
 Bathing in the hot springs of {{p|Japan}},
-The Barbary macaque's funky
-And European remnant, the clan
+The {{x|Barbary}} macaque's funky
+And {{p|European}} remnant, the clan
 
 Of the rhesus monkey whose blood
 Would give the human medical science
-Its Rh factor—the flood
+Its {{x|Rh}} factor—the flood
 Of the macaque's alliance
 
 With human curiosity and research
@@ -1917,7 +1917,7 @@ Of the ground was the monkey's to have led.
 
 Now the tail was lost.
 
-                      In the Miocene's
+                      In the {{x|Miocene}}'s
 Warm forests, from Catarrhinos' line,
 A branch gave up the monkey's means
 Of the tail's balance and the feline
@@ -1940,7 +1940,7 @@ Fluidity, the arms spread wide
 And the body pendular between them.
 
 Proconsulos—the dawn ape—was first:
-A Miocene African between them
+A {{x|Miocene}} {{p|African}} between them
 And the monkeys, the rehearsed
 
 And transitional form that still had a tail
@@ -1970,7 +1970,7 @@ The gibbon's song—the duet of the pair,
 Male and female, the morning's rang
 And territorial anthem through the air
 
-Of the Asian forest—was the most complex
+Of the {{p|Asian}} forest—was the most complex
 Vocal performance of any non-human
 Primate: not the howler's flexed
 And bellowing bass but the acumen
@@ -1987,7 +1987,7 @@ In the forest dawn.
 Who would change the story altogether.
 
 Pongos—the orangutan—the escapes
-Of the Asian forest's solitary sage:
+Of the {{p|Asian}} forest's solitary sage:
 The red-haired philosopher of {{p|Borneo}}
 And {{p|Sumatra}}, whose cognitive age
 Exceeded every monkey's—the scenario
@@ -2014,11 +2014,11 @@ The ancestor of the muzzle
 And the hand and the brain whose shape
 
 Would become the gorilla's, the chimpanzee's,
-And at last the human's—the African
-Great apes whose Miocene expertise
+And at last the human's—the {{p|African}}
+Great apes whose {{x|Miocene}} expertise
 In the forest canopy of the pelican-
 
-Rich Rift Valley lake margins
+Rich {{p|Rift Valley}} lake margins
 Would produce the largest
 And most intelligent of the margins'
 Living architects—the largest
@@ -2058,7 +2058,7 @@ To ask: from what beginning came this chain?
 
 # Chapter 128: The Great Split
 
-In the late Miocene, {{p|Africa}} changed.
+In the late {{x|Miocene}}, {{p|Africa}} changed.
 
 The forests that had clothed the continent
 From coast to coast in the green and deranged
@@ -2066,7 +2066,7 @@ Abundance of the tropical experiment
 
 Began to shrink—the climate cooled,
 The rainfall lessened, and the eastern
-Rift Valley's tectonic uplift pooled
+{{p|Rift Valley}}'s tectonic uplift pooled
 A rain-shadow that worsened
 
 Year by year—the western slopes
@@ -2109,11 +2109,11 @@ And locally transmitted, different
 
 Tool traditions that are learned,
 Not inherited in the genes—
-The Taï Forest chimps have earned
+The {{p|Taï Forest}} chimps have earned
 The nut-cracking art, and the routines
 
-Of Gombe's chimps include the fishing-probe
-That Taï chimps have never learned—
+Of {{p|Gombe}}'s chimps include the fishing-probe
+That {{p|Taï}} chimps have never learned—
 The chimpanzee's cultural wardrobe
 Is the closest thing to what we've earned
 
@@ -2178,7 +2178,7 @@ Grassland with the first tentative steps
 Of the vertical primate.
 
 Honor the great split—the two
-Directions that the African ape attempts
+Directions that the {{p|African}} ape attempts
 And the two results: Panos, who
 
 Stayed in the forest and became the closest
@@ -2219,12 +2219,12 @@ That preserved the bones and the track
 Of every creature's footprint in the flash
 
 Of volcanic eruption and erosion—
-Here, in the Pliocene's cooling world,
+Here, in the {{x|Pliocene}}'s cooling world,
 The grassland's ever-widening corrosion
 Of the forest's edge, the unfurled
 
 And open savanna stretching east
-To the Indian Ocean's coast—
+To the {{p|Indian Ocean}}'s coast—
 The upright ape emerged. The beast
 Who would become the host
 
@@ -2264,7 +2264,7 @@ The tool, the extraordinary
 
 Extension of the body's reach.
 
-Australos made tools—the Oldowan
+Australos made tools—the {{x|Oldowan}}
 Technology, the simplest that could teach
 The hand a new art: the wan
 
@@ -2421,7 +2421,7 @@ A word, a story, a name—the long parade
 
 Of symbols that outlasted the mouth that spoke.
 And somewhere in this long unfolding, somewhere
-In the Pleistocene's slow and measured stroke,
+In the {{x|Pleistocene}}'s slow and measured stroke,
 There walked a man.
 
                     One man. Not a rare
@@ -2791,7 +2791,7 @@ Of the first blood fell on the soil. The crown
 Of the first-born became the sign of the coil
 Of violence that human history would not escape.
 
-And this is where the Gaiad's telling turns.
+And this is where the {{x|Gaiad}}'s telling turns.
 
 For in the standard text, Abel dies in the shape
 Of the childless martyr—his name returns
@@ -2806,15 +2806,15 @@ And his metallurgists and his musicians—the line
 Of Cain in the biblical account, the waters
 That were supposed to carry the humankind's sign.
 
-But the Gaiad reads it otherwise.
+But the {{x|Gaiad}} reads it otherwise.
 
                                     For in
-The Gaiad's telling, the murderer's line goes out.
+The {{x|Gaiad}}'s telling, the murderer's line goes out.
 Cain is marked, yes. Cain wanders. The din
 Of his cities is loud but short. The shout
 
 And murmur of Cain's descendants does not last.
-His line, in the Gaiad's reading, is a draw—
+His line, in the {{x|Gaiad}}'s reading, is a draw—
 An unclaimed round, a placeholder in the cast,
 A character who occupies the raw
 
@@ -2842,7 +2842,7 @@ Of his descendants, overtakes the killer's, by the same
 Arithmetic that drove the prior chapter—
 
 Because the killer's line, in the long run,
-Was hollow from the start. The Gaiad's answer
+Was hollow from the start. The {{x|Gaiad}}'s answer
 To the scriptural frame that has the Cainite son
 Build civilization is: not so. The cancer
 
@@ -2854,7 +2854,7 @@ Upon the future's neck. They pay the price
 Of being the murderer's branch: they are pruned.
 
 And what Abel fathered, before the killing—
-Or what was framed in the Gaiad as fathered, the tuned
+Or what was framed in the {{x|Gaiad}} as fathered, the tuned
 And post-hoc chronicle of the grieving, filling
 
 In the gaps of the premature death with a line
@@ -2862,7 +2862,7 @@ Of sons and grandsons, a whole branch of descendants
 Who became, in the mythic register's sign,
 The ancestors of one whole line of the pendants
 
-And pendants of the tree—becomes, in the Gaiad,
+And pendants of the tree—becomes, in the {{x|Gaiad}},
 Haplogroup B.
 
                     The deep {{p|African}} line
@@ -2881,7 +2881,7 @@ Was never measured by distance, the never-translating
 
 Of its {{p|Y}} into any foreign tongue.
 B remains in {{p|Africa}}. B is there now.
-The line of Abel, in the Gaiad's hung
+The line of Abel, in the {{x|Gaiad}}'s hung
 And counter-standard reading, is the brow
 
 And forehead of the {{p|African}} continuity.
@@ -3158,10 +3158,10 @@ Of the out-of-{{p|Africa}} event.
 Is its mythic bearer.
 
                       Not a historical man
-In the strict sense. The Gaiad does not show a
+In the strict sense. The {{x|Gaiad}} does not show a
 Wooden ark with lions and zebras and a plan
 
-For two of every kind. The Gaiad shows a boat,
+For two of every kind. The {{x|Gaiad}} shows a boat,
 A small boat, a survival boat, a family boat,
 With a few human passengers and the wrote
 And memorized knowledge of the prior host,
@@ -3191,10 +3191,10 @@ And memory of the biblical redactors, the launches
 
 Of the world's three great race-divisions—
 Semitic, Hamitic, Japhetic—would be grounded
-In these three. But the Gaiad knows the rescissions
+In these three. But the {{x|Gaiad}} knows the rescissions
 And problems of the old racial groupings. Not bound
 
-By the three-race frame, the Gaiad reads Shem
+By the three-race frame, the {{x|Gaiad}} reads Shem
 And his brothers as three branches of the CT clade,
 Which will in time become C, D, E, F and the stem
 And trunk of every non-{{p|African}} lineage that has stayed
@@ -3265,7 +3265,7 @@ Of the old country. The arrival in glory
 
 Or in exhaustion on the shore of the new land.
 
-The Gaiad honors the story by returning it
+The {{x|Gaiad}} honors the story by returning it
 To the thing it remembers. Not a global and grand
 Deluge. A local crossing. A small kit
 
@@ -3317,7 +3317,7 @@ The day the species became what we are.
 # Chapter 133: The DE Split and the Toba Catastrophe
 
 They disembarked at {{p|Yemen}}, on the green
-And wetter {{p|Arabia}} of the late Pleistocene.
+And wetter {{p|Arabia}} of the late {{x|Pleistocene}}.
 The grass was thick. The seasonal rivers ran.
 The peninsula was hospitable to the plan
 
@@ -3495,7 +3495,7 @@ Of total isolation from the rest of the human world.
 
 And there is no cultural connection between them.
 
-The Gaiad is emphatic on this point. It is tempting—
+The {{x|Gaiad}} is emphatic on this point. It is tempting—
 It is very tempting—to look at the three surviving stem-
 
 Carriers of D and weave a story. {{p|Japan}} and {{p|Tibet}}
@@ -3516,7 +3516,7 @@ Its {{p|Shinto}}, its reverence for the mountain, its locality
 In the islands, bears some ancient inheritance from
 The shared source?
 
-                    The Gaiad says: no.
+                    The {{x|Gaiad}} says: no.
 
 Stop.
 
@@ -3558,13 +3558,13 @@ And fantasies of those who want to weave {{p|Shinto}}
 Into {{p|Tibetan Buddhism}} by way of the {{p|Andamanese}}—they go
 
 Into the ash of their own speculation. There is no such thread.
-The Gaiad is careful. The Gaiad does not build a bed
+The {{x|Gaiad}} is careful. The {{x|Gaiad}} does not build a bed
 
 For a myth that the evidence does not support.
 
 But the catastrophe itself, the short
 And terrible story of {{p|Toba}} and what it did
-To the first wave—that story is real, and the Gaiad bid
+To the first wave—that story is real, and the {{x|Gaiad}} bid
 
 To tell it.
 
@@ -3634,7 +3634,7 @@ Preserved in three refugia, unbraced
 By cultural unity but preserved in its letters
 Nonetheless. The body remembers what the mind forgets.
 
-The Gaiad tells the catastrophe and the survival.
+The {{x|Gaiad}} tells the catastrophe and the survival.
 Not the false unity. Not the romantic revival
 
 Of a common religion or shared soul. The stark
@@ -3692,9 +3692,9 @@ And range:
 
                                        And the {{p|Central Asian}} steppe.
 
-{{p|Australia}} was settled, in the Gaiad's reading,
+{{p|Australia}} was settled, in the {{x|Gaiad}}'s reading,
 Approximately fifty thousand years ago. The feeding
-Migration came from {{p|Indonesia}}, across the Wallace
+Migration came from {{p|Indonesia}}, across the {{x|Wallace}}
 Line, which was, at the time, a much narrower palace
 
 Of open water than today. Sea levels were lower. The islands
@@ -3727,11 +3727,11 @@ The dreamings—fifty thousand years of patient causes
 
 And effects on the land and on the body and on the mind.
 
-And approximately sixty percent of Aboriginal Australian
+And approximately sixty percent of Aboriginal {{p|Australian}}
 Men carry C. C is the dominant patrilineal sign
 Of the continent's indigenous population. The alien
 
-And later European arrivals brought their own haplogroups.
+And later {{p|European}} arrivals brought their own haplogroups.
 But the C of {{p|Australia}}—the old C, the one that scoops
 
 And gathers up the oldest story on earth—is the marker
@@ -3787,7 +3787,7 @@ Produces something strange: a single name for two careers
 
 That are as divergent as any two can be.
 
-The Gaiad does not resolve the puzzle. The Gaiad lets the mystery
+The {{x|Gaiad}} does not resolve the puzzle. The {{x|Gaiad}} lets the mystery
 
 Of C stand. The chapter is not about a causal explanation—
 Not a catastrophe, as in D. Not a refugium-driven preservation.
@@ -3844,7 +3844,7 @@ C across the millennia of its carriers' laying
 
 Of tracks across two continents, is the strangeness of this chapter.
 
-There is no catastrophe here. No Toba. No fracture
+There is no catastrophe here. No {{p|Toba}}. No fracture
 
 And refugium. Just a migration that went two ways, and a marker
 That didn't speciate, or didn't speciate as much as the starker
@@ -3880,14 +3880,14 @@ Build cities. They never, in the sense of the builders of the clever
 And fortified civilizations of {{p|Mesopotamia}} or {{p|China}} or {{p|Mesoamerica}},
 "Civilize." But they produce something else, something the hysteric
 
-And superficial European colonizers of the eighteenth and nineteenth
+And superficial {{p|European}} colonizers of the eighteenth and nineteenth
 Centuries could not see: a way of being human that had deep, profound
 
 Achievement in its own register. Fifty thousand years of song.
 Fifty thousand years of painting. Fifty thousand years of the long
 
-And patient reading of the land. The Gaiad will not rank them
-Below the city-builders. The Gaiad honors them as them.
+And patient reading of the land. The {{x|Gaiad}} will not rank them
+Below the city-builders. The {{x|Gaiad}} honors them as them.
 
 And the same Y signature, meanwhile, is being carried
 By the {{p|Mongol}} horseman whose empire will be vast and varied
@@ -3967,7 +3967,7 @@ Sometimes competing, sometimes simply coexisting. But I
 Is the lineage that settled. I is the haplogroup that, feeding
 On the reindeer and the mammoth, stayed, and did not try
 
-To turn back. I is the European hunter-gatherer. I
+To turn back. I is the {{p|European}} hunter-gatherer. I
 Is the one who painted at {{p|Lascaux}}, and at {{p|Altamira}},
 And at {{p|Chauvet}}—or at least, is a good candidate for the who
 Of those long and profound cave-painting epochs. The tiara
@@ -3989,7 +3989,7 @@ I came back out and repopulated the continent. The streaming
 Northward migration of the I-carrying hunters, the completed
 Occupation of the post-glacial {{p|Europe}}, is the dreaming
 
-Of the old European lineage. This is the continent
+Of the old {{p|European}} lineage. This is the continent
 Before agriculture. Before cities. Before the written word.
 Before Stonehenge. Before the Indo-European languages consent
 To enter the continent—all of that is later. The deferred
@@ -4013,24 +4013,24 @@ Came (haplogroup G). I was pushed to the peripheries, but not gone.
 The Indo-European steppe riders came (haplogroup R). The armors
 
 Of the new arrivals overlaid, but did not replace, the older
-I populations. The old Europe went under the soil, but did not vanish.
+I populations. The old {{p|Europe}} went under the soil, but did not vanish.
 The modern {{p|European}} is a layered person—I at the bolder
 Base, G at the second layer, R at the top, and the admixture
 
 Varies region by region. In the {{p|Balkans}}, I is still
 Dominant. In {{p|Scandinavia}}, I is strong. In {{p|Western Europe}},
 I is a minority but present. In {{p|Eastern Europe}}, I still fills
-A substantial slot. The old Europe lives. The hunters, the hero
+A substantial slot. The old {{p|Europe}} lives. The hunters, the hero
 
-And heroine figures of the pre-Neolithic stone age, did not end.
+And heroine figures of the pre-{{p|Neolithic}} stone age, did not end.
 They became the substrate on which later migrations laid.
-The old Europe is still in the {{p|European}} body. The old Europe's trend
-Was to hold on. The Venus of {{p|Willendorf}}, the small-breasted maid
+The old {{p|Europe}} is still in the {{p|European}} body. The old {{p|Europe}}'s trend
+Was to hold on. The {{x|Venus}} of {{p|Willendorf}}, the small-breasted maid
 
 And figurine of the fertility cult, the mother-goddess figurine
 That Marija Gimbutas identified with the pre-IE culture of the continent,
 Was likely made by the hands of the I-carrying hunter-gatherers. The seen
-And carried iconography of the pre-agricultural old Europe, the ancient
+And carried iconography of the pre-agricultural old {{p|Europe}}, the ancient
 
 Religion of the cave-paintings and the small goddess figurines,
 Sits in the register of the I haplogroup.
@@ -4058,11 +4058,11 @@ But it is still here. I is still here. The {{p|Nordic}} basin,
 {{p|Croatian}} villages, the {{p|Sardinian}} highlanders—all still carry I. The sun
 Still rises on descendants of the hunter-gatherers of the old {{p|Europe}}. The plan
 
-And inheritance of the {{p|Magdalenian}} and {{p|Gravettian}} cultures, the Aurignacian
+And inheritance of the {{p|Magdalenian}} and {{p|Gravettian}} cultures, the {{x|Aurignacian}}
 Paintings at {{p|Chauvet}}, the Gravettian figurines—these are still
 Carried in the blood of certain {{p|European}} populations. The ancient
 
-Is still living. The old Europe has not ended. The hunting-and-gathering fulfilment
+Is still living. The old {{p|Europe}} has not ended. The hunting-and-gathering fulfilment
 Has been converted, under pressure, into farming-and-herding, into city-building,
 Into modernity—but the Y-chromosomal signature of the first settled populations
 Of the continent remains intact in the bodies of many millions of modern {{p|Europeans}}. The thrilling
@@ -4072,20 +4072,20 @@ Of habitation in the same continent is the longest relationship between a people
 And a land in the {{p|European}} story. The {{p|French}} are new. The {{p|Germans}} are new. The {{p|Romans}} were new.
 The I-carrying {{p|European}} is old. The steeple
 
-Of the oldest European's presence is the deepest in the cathedral
+Of the oldest {{p|European}}'s presence is the deepest in the cathedral
 Of the {{p|European}} body.
 
                             The chapter honors them.
 
-The old Europeans. The first hunters. The painters of the cathedral
-Of {{p|Lascaux}}, the makers of the Venus figurines, the dem
+The old {{p|Europeans}}. The first hunters. The painters of the cathedral
+Of {{p|Lascaux}}, the makers of the {{x|Venus}} figurines, the dem
 
 And defiant survivors of the glacial maximum, the patient re-
 Occupiers of the post-ice continent, the substrate under every-
 Thing that came later.
 
                         Haplogroup I is the ID card
-Of old Europe. The hunter-gatherer's long patient regard
+Of old {{p|Europe}}. The hunter-gatherer's long patient regard
 
 Toward the land he lived on. The deep relationship to the
 Forest and the river and the cave. The animism of the deep
@@ -4096,17 +4096,17 @@ The Cucuteni-Trypillia civilization, which was partly the sleep
 
 And continuation of the pre-{{p|Neolithic}} hunter-gatherer traditions
 Into a semi-settled form, we will see I again. Cucuteni-Trypillia
-Was the old Europe's answer to the farming revolution. Its positions
+Was the old {{p|Europe}}'s answer to the farming revolution. Its positions
 And paintings and cities, built of wood and clay, its pervasive
 
 Female iconography, its peaceful and apparently un-hierarchical
-Society—these were the old Europe's elaboration of what the farmers
-Had offered, made in the key of the old Europe's own magical
+Society—these were the old {{p|Europe}}'s elaboration of what the farmers
+Had offered, made in the key of the old {{p|Europe}}'s own magical
 Register. And the {{p|Yamnaya}}, when they came, would be the harmers
 
 Of this particular flowering. But we are not there yet.
 
-For now, I. The old Europe. The hunter. The mother-
+For now, I. The old {{p|Europe}}. The hunter. The mother-
 Goddess carver. The cave-painter. The survivor of the ice's threat
 And retreat. The patient background lineage. The brother
 
@@ -4115,7 +4115,7 @@ Carries the ancient signature. The old Y. The old land.
 The one who was here before. The hold of the will
 To endure. The keeping hand.
 
-                               Haplogroup I. Old Europe.
+                               Haplogroup I. {{p|Old Europe}}.
 
 The rest of the continent's story is layered on top. But I
 Is the bottom. And the bottom, in a continent, is what the top
@@ -4213,7 +4213,7 @@ Came together, from across the region, to build something together, whatever it 
 
 And because they needed to come together, repeatedly, for the building,
 They needed food. And to feed the building crews, they needed
-To grow grain. And so, in the Gaiad's reading (following the filling-
+To grow grain. And so, in the {{x|Gaiad}}'s reading (following the filling-
 In of Klaus Schmidt's archaeological hypothesis), agriculture was seeded
 
 By the temple, not by necessity, not by the pressure of hunger
@@ -4229,11 +4229,11 @@ And furrow of the fields, and the fields made the immanence
 Of civilization.
 
                   First the temple. Then the city. Then the kingdom.
-Religion first. Farming second. Cities third. This is the Gaiad's reading,
+Religion first. Farming second. Cities third. This is the {{x|Gaiad}}'s reading,
 And it reverses the standard textbook account that makes the pragmatic
 Emergence of agriculture the first cause, and religion a later seeding.
 
-The Gaiad says: no. Religion was first. People gathered to build
+The {{x|Gaiad}} says: no. Religion was first. People gathered to build
 Something they worshipped. And in the service of what they worshipped,
 They invented the techniques of keeping themselves fed. The filled
 And gathered gatherings of the temple-building made civilization, the scripted
@@ -4261,7 +4261,7 @@ And heirs of the old {{p|Göbekli Tepe}} lineage. The old temple-builders, the p
 
 And priesthood of the first great religious-monumental culture
 Of the {{p|Near East}}, are carried in the bodies of the {{p|Sardinian}} shepherds
-Still. G is alive. G built what the Gaiad considers the sculpture
+Still. G is alive. G built what the {{x|Gaiad}} considers the sculpture
 And foundational monument of civilization, and G's direct descendants, the herds
 
 And shepherds of certain {{p|Mediterranean}} islands, continue to walk the hills
@@ -4272,27 +4272,27 @@ Of their grandfathers.
 Melchizedek. The {{p|priest}}-king of {{p|Salem}}, who greets Abraham later in
 The biblical story. The mysterious figure who appears briefly, blesses
 Abraham, receives a tithe, and disappears. In the standard reading
-He is a shadow, a narrative convenience. The Gaiad reads him differently.
+He is a shadow, a narrative convenience. The {{x|Gaiad}} reads him differently.
 
-Melchizedek is the Gaiad's symbolic representative of the {{p|Göbekli Tepe}}
+Melchizedek is the {{x|Gaiad}}'s symbolic representative of the {{p|Göbekli Tepe}}
 Priesthood. The remnant of the old temple-builders, still alive in Abraham's
 Day, meeting the wandering Abraham on his journey south from {{p|Sanliurfa}}
 (Which is, by no coincidence, the city closest to {{p|Göbekli Tepe}} itself). Abraham
 
 Stops in {{p|Sanliurfa}} on his way from {{p|Ur}} to the {{p|Levant}}, and he meets
-Melchizedek there. And Melchizedek, in the Gaiad's reading, is the last
+Melchizedek there. And Melchizedek, in the {{x|Gaiad}}'s reading, is the last
 Priest of the old order of {{p|Göbekli Tepe}}. The old tall pillars had been
 Buried long before Abraham's day—the site was deliberately entombed, the past
 
 Preserved by burying rather than by maintaining. But the priesthood, the
 Line of those who carried the old ritual knowledge, persisted in the region.
-Melchizedek is "George Gobeklius" in the Gaiad's nicknaming—the
+Melchizedek is "George Gobeklius" in the {{x|Gaiad}}'s nicknaming—the
 Priestly figure descended from the hands that carved the T-shaped fusion
 
 Of stone and animal eleven thousand years ago. Abraham meets him, receives
 The blessing of the old priesthood, pays the tithe, and moves on. The
 Transmission of some blessing from the old {{p|Göbekli Tepe}} order to the leaves
-And branches of the new {{p|Hebrew}} story is the Gaiad's quiet way of letting the
+And branches of the new {{p|Hebrew}} story is the {{x|Gaiad}}'s quiet way of letting the
 
 Oldest religious lineage of the region hand off to the next one.
 
@@ -4325,7 +4325,7 @@ And transformative arrival of the farmers.
                                              And this incidental
 
 Fact—that civilization began with a temple, not with a field—
-Is the Gaiad's quiet theological claim. The field served the temple.
+Is the {{x|Gaiad}}'s quiet theological claim. The field served the temple.
 The god came first. The grain came afterward. The yield
 And harvest that would feed cities began as an offering of the simple
 
@@ -4457,7 +4457,7 @@ Comes in.
 And the {{p|Euphrates}}. The place where cities began. The floodplain of {{p|Ur}},
 The ziggurat of {{p|Eridu}}, the canals of {{p|Uruk}}, the walls of the figris
 
-And Sargonid kingdoms that would rise and fall across three thousand
+And {{x|Sargonid}} kingdoms that would rise and fall across three thousand
 Years of the ancient {{p|Near East}}. {{p|Mesopotamia}} was the staging ground
 For the second great flowering of J. The {{p|Akkadians}}, the {{p|Babylonians}}, the {{p|Assyrians}}, the bound
 Together and yet separate nations of the {{p|Tigris-Euphrates}} valley, the sound
@@ -4492,7 +4492,7 @@ The peninsula, J1 was carrying the parallel but separate way
 Of the {{p|Arabian}} desert tribes. The caravan routes, the toss
 
 Of the dice-game in the tent, the poetic genealogies of the Bedouin,
-The sophisticated pre-Islamic poetic culture of the desert—all of this
+The sophisticated pre-{{x|Islamic}} poetic culture of the desert—all of this
 Is J1's long slow development across thousands of years. The even
 And patient continuity of the {{p|Arabian}} peninsula's inhabitants, the bliss
 
@@ -4501,13 +4501,13 @@ And the star-guided navigation across unmarked sand—this is the J1
 Inheritance. When Muhammad arrives, late in the book, in the camel
 Caravan of the Quraysh, he will carry, in all likelihood, J1. The run
 
-From the Adnan-and-Qahtan genealogies of pre-Islamic {{p|Arabia}} back
+From the Adnan-and-Qahtan genealogies of pre-{{x|Islamic}} {{p|Arabia}} back
 To the deep J1 founding populations will be one of the chapters later.
 
 And in the meantime, the J2 civilization of the {{p|Near East}}, rack
 And ruin and rebuild across the centuries, will produce the tater
 
-And stock from which Abraham will emerge. Abraham is, in the Gaiad's
+And stock from which Abraham will emerge. Abraham is, in the {{x|Gaiad}}'s
 Reading, the ideal J figure—a man whose ancestry is plausibly both J1
 And J2 (his cousin Hammurabi is king of {{p|Babylon}} with a J2 stripe,
 And Abraham's desert wanderings afterward put him in J1 territory), the run
@@ -4582,7 +4582,7 @@ But because their civilizational anchor is the same, and is, crucially,
 Illegible. The {{p|Indus Valley}} civilization. The caught
 
 And undeciphered second-greatest urban culture of the
-Bronze Age. The one whose writing we cannot read.
+{{p|Bronze Age}}. The one whose writing we cannot read.
 
 {{p|Harappa}}. {{p|Mohenjo-daro}}. {{p|Dholavira}}. {{p|Rakhigarhi}}. The rove
 And spread of the cities of the {{p|Indus}} and the {{p|Saraswati}} and the needed
@@ -4733,7 +4733,7 @@ The incoming {{p|Aryans}} and the receiving older populations. The merging was n
 A conquest—it was a long negotiation, and the {{p|Dravidian}} and {{p|Aryan}} strands ofv
 Sound
 
-And blood did not fight an eternal war. The Gaiad is explicit: the older populations
+And blood did not fight an eternal war. The {{x|Gaiad}} is explicit: the older populations
 Were not erased. They stayed. They mixed. They contributed. The modern {{p|Indian}}
 Is the descendant of both—the {{p|Indus}} Valley peoples and the later {{p|Aryan}}
 Arrivals. The two populations made a compromise. The compromise is {{p|India}}.
@@ -4763,7 +4763,7 @@ Of its interior life. The poems. The myths. The law. The fundamental
 Stories that the people told themselves. We have their cities but not
 Their songs.
 
-              And the Gaiad's honest response to this is: yes, the civilization
+              And the {{x|Gaiad}}'s honest response to this is: yes, the civilization
 Is illegible. Yes, we cannot reconstruct it. Yes, what we have is insufficient to know
 What they believed. And yet we include them in the story of humanity, because they were there, and the nation
 
@@ -4772,7 +4772,7 @@ At its peak, contributed to the subsequent population of the {{p|Indian}} subcon
 Not vanish. They are in the {{p|Y}}. They are in the mitochondria. They are in the {{p|Dravidian}} languages
 They plausibly spoke. They are, in some attenuated form, in the {{p|Hindu}} religion—the Shiva
 
-Lingam may have {{p|Indus}} origins. The Pashupati seal from {{p|Mohenjo-daro}} shows a figure
+Lingam may have {{p|Indus}} origins. The {{x|Pashupati}} seal from {{p|Mohenjo-daro}} shows a figure
 That some scholars have identified as a proto-Shiva. The traditions of ritual bathing,
 Of goddess-worship, of certain iconographies—these may have continuity with the {{p|Indus}}
 That was inherited and reshaped through the {{p|Aryan}} period. The weight is uncertain. The weighing
@@ -4786,7 +4786,7 @@ And teeming other cities of the subcontinent. The illegible civilization is a re
 Part of the {{p|Indian}} body. Its silence is cultural, not genetic. The body remembers
 What the mind cannot read.
 
-                             The Gaiad sits with this. The chapter is about the seal
+                             The {{x|Gaiad}} sits with this. The chapter is about the seal
 And non-reading of a civilization. The chapter honors what we cannot say. The embers
 
 Of {{p|Mohenjo-daro}} are still warm in the blood of millions. We cannot hear them speak.
@@ -4807,7 +4807,7 @@ And bleeds through {{p|Siberia}}, through the cold-thrice
 
 And four-times winters of the taiga, through the reindeer-
 Herding tundra, through the northern edge of the world.
-N is the Arctic haplogroup. N is the near-
+N is the {{p|Arctic}} haplogroup. N is the near-
 Polar signature. N is the man whose breath curled
 
 In the cold air of the {{p|Urals}} and the {{p|White Sea}}
@@ -4816,13 +4816,13 @@ And the vast boreal forest that stretches from the
 And scattered signature of the reindeer-herder, the
 
 Forest dweller, the patient fisherman of the frozen
-Lake, the one whose language would become the Uralic
-Family. And Uralic is the chapter's name. The chosen
-And persistent non-Indo-European language pillaric
+Lake, the one whose language would become the {{p|Uralic}}
+Family. And {{p|Uralic}} is the chapter's name. The chosen
+And persistent non-{{p|Indo-European}} language pillaric
 
 And pillared survivors of the R-haplogroup tide
 That would, in a few chapters, sweep across {{p|Europe}} and
-Establish the Indo-European language family on every side
+Establish the {{p|Indo-European}} language family on every side
 Of the continent. R would dominate. R would command
 
 The linguistic future of most of {{p|Eurasia}}. But in
@@ -4830,25 +4830,25 @@ A few places, the old languages held on. And one
 Of those places—the strangest, the most enduring, the linguistic-
 Ally most tenacious—is the N-haplogroup zone. The sun
 
-Of the Indo-European tide swept through. But N held.
+Of the {{p|Indo-European}} tide swept through. But N held.
 N's descendants kept speaking their own languages.
 {{p|Finnish}}. {{p|Estonian}}. {{p|Hungarian}}. {{p|Sami}}. {{p|Samoyedic}}. The gelled
-And persistent Uralic languages, spoken by peoples whose ages
+And persistent {{p|Uralic}} languages, spoken by peoples whose ages
 
 Of isolation in the northern forests preserved a speech
 That no other {{p|European}} population kept. While the rest
-Of {{p|Europe}} converted to Latin and Greek and Germanic, the reach
+Of {{p|Europe}} converted to {{p|Latin}} and {{p|Greek}} and {{p|Germanic}}, the reach
 Of {{p|Finnish}} stretched undisturbed. While the {{p|Hungarians}}, tested
 
 By the steppe-migrations and eventually settling in the
 {{p|Carpathian Basin}} in the ninth century CE, carried their
-Uralic language with them across thousands of miles—the
+{{p|Uralic}} language with them across thousands of miles—the
 {{p|Magyars}} are a N-descended people whose fare
 
 And fortune placed them in the middle of {{p|Europe}} without
 Converting to the linguistic standard of their neighbors.
 {{p|Hungarian}} is, to this day, a linguistic island. The shout
-And cry of an Uralic language in the heart of the labors
+And cry of an {{p|Uralic}} language in the heart of the labors
 
 And complications of {{p|Central Europe}}. {{p|Hungarian}}'s nearest
 Linguistic relatives are spoken in the {{p|Ob River}} basin,
@@ -4856,7 +4856,7 @@ Two thousand miles east. The separation is clearest
 And strongest in the linguistic isolation. The basin
 
 Of {{p|Hungarian}} in {{p|Central Europe}} is a geographical exclave
-Of an Uralic heartland far to the east. The {{p|Magyars}}
+Of an {{p|Uralic}} heartland far to the east. The {{p|Magyars}}
 Brought their language with them on horseback, and the wave
 And tide of {{p|Slavic}} and {{p|Germanic}} and {{p|Romance}} did not harm
 
@@ -4866,22 +4866,22 @@ Pressure, did not melt. This is the N story. The weld
 And welding of linguistic identity to the {{p|Y}}-chromosome wean
 
 And inheritance. And {{p|Finland}} and {{p|Estonia}}, similarly, sit
-At the edge of the {{p|Baltic}} as Uralic islands in a sea
-Of Indo-European neighbors. The {{p|Finns}} and the {{p|Estonians}} transmit
+At the edge of the {{p|Baltic}} as {{p|Uralic}} islands in a sea
+Of {{p|Indo-European}} neighbors. The {{p|Finns}} and the {{p|Estonians}} transmit
 Their old speech across the centuries, with an ancestry
 
 That goes back to N-carrying hunters of the northern forests.
 The {{p|Sami}}, the indigenous people of {{p|Lapland}}, still herd
-Reindeer across {{p|Scandinavia}}'s Arctic circle, and their tortes
-And offerings and songs are Uralic, and their {{p|Y}} is the third
+Reindeer across {{p|Scandinavia}}'s {{p|Arctic}} circle, and their tortes
+And offerings and songs are {{p|Uralic}}, and their {{p|Y}} is the third
 
 Or fourth most frequent N frequency in all of {{p|Europe}}. The
 {{p|Samoyeds}} of {{p|Siberia}} still herd reindeer along the
-{{p|Yamal Peninsula}} and speak Uralic languages. The
+{{p|Yamal Peninsula}} and speak {{p|Uralic}} languages. The
 Continuity from the deep past to the present is the long
 
-Inheritance of the Arctic. N is the haplogroup of the
-Reindeer-herder, the forest-dweller, the Arctic and sub-Arctic
+Inheritance of the {{p|Arctic}}. N is the haplogroup of the
+Reindeer-herder, the forest-dweller, the {{p|Arctic}} and sub-{{p|Arctic}}
 Continuity. The language did not assimilate. The people
 Did not assimilate. The {{p|Y}} did not assimilate. A patriarchic
 
@@ -4892,11 +4892,11 @@ Rural districts of {{p|Karelia}}. The {{p|Finnish}} oral tradition had not
 
 Been lost. The {{p|Kalevala}}'s hero Väinämöinen, the ancient
 Wizard-singer, is a figure who stretches back to some pre-
-Christian {{p|Finnish}} religious imagination. The gallant
+{{x|Christian}} {{p|Finnish}} religious imagination. The gallant
 And wise old shaman. The smith. The Ilmarinen, who forges the
 
 {{p|Sampo}}—the mythical world-mill that produces grain and salt
-And gold. These are figures of a pre-Christian {{p|Finnish}}
+And gold. These are figures of a pre-{{x|Christian}} {{p|Finnish}}
 Mythology preserved in oral tradition until the industrial halt
 Of the modern era. The {{p|Kalevala}} is the last gaining fish
 
@@ -4905,54 +4905,54 @@ Submerged by {{p|European}} modernity but not quite drowned. And the
 {{p|Hungarians}}, for their part, remember their origin in the
 {{p|Ural}} Mountains—their medieval chronicles name the
 
-Vanished homeland as {{p|Magna Hungaria}}, the "Great Hungary"
+Vanished homeland as {{p|Magna Hungaria}}, the "{{p|Great Hungary}}"
 In the east, from which the {{p|Magyar}} tribes migrated in
 The ninth century. The memory is not merely linguistic but genealogical.
-{{p|Hungarian}} tradition remembers coming from somewhere Uralic. And genetic
+{{p|Hungarian}} tradition remembers coming from somewhere {{p|Uralic}}. And genetic
 
 Analysis confirms the memory: the {{p|Magyar}} tribal leaders' N
 Frequencies are high, and the migration pattern from the east is
 Visible in the genetic data. {{p|Hungarian}} ancestry is layered—some N, some
 Subsequent R1a from {{p|Slavic}} neighbors, some other admixtures—but the
 
-Uralic linguistic and genetic core of the {{p|Magyar}} people
+{{p|Uralic}} linguistic and genetic core of the {{p|Magyar}} people
 Is still there, under the layers of medieval and modern {{p|Hungary}}.
 N, like I, like G, is still alive, still carried, still willing to spell
 And pronounce itself as it has for thousands of years. The story
 
-Of Uralic is the story of the periphery holding on against
-The dominant linguistic tide. Indo-European did not erase
+Of {{p|Uralic}} is the story of the periphery holding on against
+The dominant linguistic tide. {{p|Indo-European}} did not erase
 Everything. {{p|Basque}} held on in the southwest. {{p|Uralic}} held
 Across the north. {{p|Georgian}} held in the {{p|Caucasus}}. These are the lace
 
 And embroidery of the linguistic map, the small patterns
-Of survival that break up the otherwise thorough Indo-European
+Of survival that break up the otherwise thorough {{p|Indo-European}}
 Pattern of most of {{p|Europe}}. N is the haplogroup of one such pattern.
-The Uralic survivor. The linguistic holdout. The tween
+The {{p|Uralic}} survivor. The linguistic holdout. The tween
 
 And boundary-crosser who carries the old northern speech
 Across the millennia. And when we finally get to the R-haplogroup
-Chapter, and the Indo-European tide sweeps across {{p|Eurasia}}, the peach
+Chapter, and the {{p|Indo-European}} tide sweeps across {{p|Eurasia}}, the peach
 And flush of the dominant new languages will not quite stop
 
 At the northern forests. The reindeer-herders will keep their speech.
 The fishermen of {{p|Karelia}} will keep their speech. The
-{{p|Magyars}}, a thousand years later, will bring their Uralic speech each
+{{p|Magyars}}, a thousand years later, will bring their {{p|Uralic}} speech each
 Of the way into {{p|Central Europe}} and plant it there—and it will still be
 
 Spoken today by fifteen million people in the heart of the continent.
-N. The Uralic. The Arctic. The northern forest.
+N. The {{p|Uralic}}. The {{p|Arctic}}. The northern forest.
 The reindeer. The {{p|Sampo}}. The patient persistent
 Of the language-family that could not be conquered. The faces
 
 And bodies of the modern {{p|Finns}} and {{p|Hungarians}} carry the mark.
 The language is the mark's echo in the voice.
-Honor them. The Uralic speakers. The holdouts of the dark
+Honor them. The {{p|Uralic}} speakers. The holdouts of the dark
 Forests of the north. The linguistic choice
 
 Of survival against the larger tide.
 
-                                         N. Uralic. The northern
+                                         N. {{p|Uralic}}. The northern
 Lineage. The reindeer-herder. The preserver of speech.
 The hold-out. The one who went north while his brothers went southern
 And eastern. The one who found, in the taiga, the reach
@@ -4969,19 +4969,19 @@ The other direction. South. Southeast. Into the river
 Valleys of what is now {{p|China}}. Into the paddies. Into the stalked
 And stalking rice-fields of the {{p|Yangtze}} and {{p|Yellow River}} divider
 
-And basin. O is the East Asian haplogroup. O is the signature
+And basin. O is the {{p|East Asian}} haplogroup. O is the signature
 Of the peoples of {{p|China}}, {{p|Japan}}, {{p|Korea}}, {{p|Vietnam}}, {{p|Thailand}},
 {{p|Indonesia}}, {{p|the Philippines}}, {{p|Taiwan}}, and the furniture
-And arrangement of the entire Pacific rim of {{p|Asia}}. O is the band
+And arrangement of the entire {{p|Pacific}} rim of {{p|Asia}}. O is the band
 
 And frequency of nearly every population between the {{p|Himalayas}}
 And the {{p|Pacific Ocean}}. From the {{p|Gobi Desert}} to the {{p|Java Sea}},
 From the {{p|Yellow River}} to the {{p|Mekong Delta}}, the {{p|Y}}-chromosome frequencies
 Of O are extraordinarily high. The lineage is the majority fee
 
-And cost of admission to the East Asian population. The vast
-Proportion of men in {{p|China}} today, and in every East Asian
-And Southeast Asian and Pacific-island nation, carry O. Recast
+And cost of admission to the {{p|East Asian}} population. The vast
+Proportion of men in {{p|China}} today, and in every {{p|East Asian}}
+And {{p|Southeast Asian}} and {{p|Pacific}}-island nation, carry O. Recast
 And recast again through the generations, the carrying-on
 
 Of the lineage is unbroken. And what O made, in the river
@@ -5001,11 +5001,11 @@ And delicate water table. And rice produces, per acre, more demands
 Of food calories than any grain yet invented. Rice supports
 Populations ten, twenty, thirty times larger than dryland wheat
 Can support on the same acreage. Rice is the reason the cohorts
-And cohort-strength of East Asian civilizations grew to the treat
+And cohort-strength of {{p|East Asian}} civilizations grew to the treat
 
 And demography they grew to. Rice made possible the billions
 Of people who would, over thousands of years, populate the
-Pacific rim. And rice was invented by O. The millions
+{{p|Pacific}} rim. And rice was invented by O. The millions
 And billions of O-carrying farmers are the descendants of the
 
 First paddy-builders, the first peoples who realized that a patch
@@ -5018,7 +5018,7 @@ The archaeological sites that document the rice-farming
 Villages of the lower {{p|Yangtze}} six or seven thousand years ago bang
 The drum of the agricultural revolution that would be charming
 
-And reshaping Asian humanity for the rest of recorded history.
+And reshaping {{p|Asian}} humanity for the rest of recorded history.
 And from the {{p|Yangtze}}, rice agriculture spread. North, into the
 {{p|Yellow River}} valley, where it met and merged with millet and the
 Existing dryland agricultural package of the northern {{p|Chinese}}
@@ -5038,7 +5038,7 @@ And generated the Yayoi culture that would eventually unify the
                                                    And the language
 Families that ride along with O are several. O is not
 One language family. O is the carrier of several. The full gauge
-And span of East Asian linguistic diversity is housed within the bat
+And span of {{p|East Asian}} linguistic diversity is housed within the bat
 
 And bounce of the O-haplogroup population. {{p|Sino-Tibetan}}: {{p|Chinese}},
 {{p|Tibetan}}, {{p|Burmese}}, and the whole cluster of related languages across
@@ -5053,17 +5053,17 @@ Aboriginal languages, {{p|Malay}}, {{p|Indonesian}}, {{p|Tagalog}}, the entire
 {{p|China}}. {{p|Hmong-Mien}}: the highland peoples of {{p|Southwest China}}
 And {{p|Southeast Asia}}. Five major language families, all clustered
 Together in the O-haplogroup zone. The linguistic diversity is
-Greater than the linguistic diversity within the Indo-European trust
+Greater than the linguistic diversity within the {{p|Indo-European}} trust
 
 And family. R, in contrast, carries essentially one language
-Family (Indo-European) across its entire distribution. O carries
+Family ({{p|Indo-European}}) across its entire distribution. O carries
 Five. The language-to-haplogroup mapping, here, is decidedly
 Looser than in the R case. But the O haplogroup's carries
 
 And the agricultural package travel together. Rice, wherever it goes,
 Is carried by O men. And the script that would eventually
 Develop in the {{p|Yellow River}} valley—the {{p|oracle bone}} script of the
-Shang dynasty, which evolves into modern {{p|Chinese}} characters—
+{{p|Shang}} dynasty, which evolves into modern {{p|Chinese}} characters—
 
 Is the writing system of a O-haplogroup civilization. The
 Written {{p|Chinese}} tradition that reaches, unbroken, from
@@ -5099,7 +5099,7 @@ Men reached the furthest possible islands on their outrigger
 Canoes guided by the stars and the swell and the flight of birds.
 
                                                                    O is the
-Pacific lineage. O is the rice. O is the character-script and the navigator
+{{p|Pacific}} lineage. O is the rice. O is the character-script and the navigator
 And the paddy-builder and the longest literate continuity on earth.
 
 The {{p|Shang}} dynasty. The {{p|Zhou}}. The {{p|Qin}}. The {{p|Han}}. The {{p|Tang}}. The
@@ -5123,10 +5123,10 @@ And the rice still grows in the paddies, and the flow
 And flow of the {{p|Yangtze}} still passes the oldest strongest
 
 Cities of the world. O. The rice. The character. The navigator.
-The builder of the Pacific-rim civilization. The second great
+The builder of the {{p|Pacific}}-rim civilization. The second great
 Agricultural revolution after G's. The carrier of five language
 Families and four thousand years of literacy. The state
 
 And status of more than a quarter of living humanity today.
 
-Haplogroup O. East Asia. Rice.
+Haplogroup O. {{p|East Asia}}. Rice.
