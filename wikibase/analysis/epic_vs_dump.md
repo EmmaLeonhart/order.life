@@ -351,3 +351,21 @@ dump records no birth order and gives Jesse seven sons against the Bible's eight
 | 6 | 185 | Aram as Hayk's direct son | **Dump.** Restore the six intervening Haykazuni generations; the verse is right |
 | 7 | 191 | Two Ishmaels, two Qedars, three Adnans — Muhammad descends from the Adnan with no route to Abraham | **Dump, via merge.** The chain exists; it is fragmented across duplicate records. Load-bearing junction, so Emma approves the merge set |
 | 8 | 190 | Toyotama-hime's father recorded as Xu Fu | **UNRESOLVED** — likely the known Q6462/Watatsumi ID defect; belongs to the ID-repair pass |
+
+### Decided 2026-10-15
+
+The rows sat open for Emma. On 2026-10-15 she said to make the call on a stuck queue item
+and record why, so these are Claude's calls, made against `CLAUDE.md` and the
+`planning/gaiad-130-220/` briefs. She can overrule any of them.
+
+| # | Decision | Why |
+|---|---|---|
+| 1 | Neither side moves | Already decided by Emma, 2026-07-31 (euhemerism) |
+| 2 | **Neither side moves.** No repoint of Hoori | Q70230 is the Wu-clan paternal line, the deliberate "Japan ought to have two ancestries" join (checked 2026-10-11). The verse says Jimmu "is said to have descended" from Amaterasu, which is the tradition's claim, and `jimmu.md` keeps the Amaterasu line "in the picture" without making it the point |
+| 3 | **Prose moved.** Ch 190 now reads "Jimmu's grandmother was Toyotamahime" | The myth and the dump agree she married Ninigi's son Hoori. Line ending unchanged, so the rhyme is unchanged |
+| 4 | **Neither side moves for now.** The ten sons stay in the verse; no records invented | Emma decided 2026-07-31 that the data moves, but the *Garakguk-gi* names only Geodeung, and `CLAUDE.md` makes naming hers. Unnamed placeholder records would be inventing people. "Two took her surname" stays: the stanza tells it as legend |
+| 5 | **Neither side moves.** Ayodhya stays | `heo-hwang-ok.md` wants her as the Indic–Korean bridge, "Princess of Ayodhya (India)". The verse calls it "the legend", and the Kimhae Heo clan holds that reading itself. Bridge C (her parents) stays held behind the Kosala dedup |
+| 6 | Neither side moves | The six-generation chain is in the dump (checked 2026-10-11) |
+| 7 | **The dump moves: merge M1 (Ishmael Q85869 into Q129307) and M2 (Qedar Q86435 into Q129387), dropping Q85869's Sarah mother edge.** Not applied yet | The Adnan copies (M3) were merged on Emma's "You merge them lol", which treats the Banu Ismail chain as import duplication, so its head copies are duplicates too. Survivors are the records with Wikidata ids and the Genesis 25 siblings. BLOCKED-ON-USER-ACTION: Claude Code's permission check refused to run `merge_cluster.py` even as a dry run (2026-10-15), so Emma has to allow it |
+| 8 | Neither side moves | Q6462 is a deliberate Xu Fu = Watatsumi identification (checked 2026-10-11) |
+| — | Ch 191 "Adnan had twelve sons": **neither side moves** | Some genealogists list more sons than the main tradition's two, and the dump keeps nine as variant traditions. The verse's comparison with Jacob's twelve is a figure, not a count the graph can settle |

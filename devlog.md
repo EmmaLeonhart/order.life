@@ -8182,3 +8182,11 @@ chapters (ch 135: "Haplogroup I. Old Europe. Stand.", after lines about enduring
 it into pinned correction 8 that afternoon with no reason given. Removed: 171 own-line closings and 27
 inline uses (ch 135-174); ch 257's stanza about "the end of every chapter" rewritten. Pinned correction 8 now
 states only the templating rule, with a dated note. Chapters without it untouched.
+
+2026-10-15 01:41 PST: `wikibase/analysis/epic_vs_dump.md`, the six open "which side moves" rows, decided on Emma's
+instruction to make the call on a stuck queue item (decisions and reasons in the report's new "Decided 2026-10-15"
+table). One verse line changed: ch 190 "Jimmu's great-grandmother was Toyotamahime" is now "grandmother" (she
+married Ninigi's son Hoori, in the myth and in the dump). No repoint of Hoori (the Wu line is the deliberate
+Chinese paternal ancestry); no unnamed sons invented for Heo Hwang-ok (the Garakguk-gi names only Geodeung);
+Ayodhya kept (`heo-hwang-ok.md` wants her as the Indic bridge); Adnan's "twelve sons" kept. Row 7 decided as
+"merge M1 and M2" but not applied: the permission check refused `merge_cluster.py`.

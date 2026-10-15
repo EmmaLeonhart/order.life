@@ -443,21 +443,12 @@ apply anything from these; do not extend them.**
 The splice stays. `adnan_merge_proposed.md` is updated; M5–M12 and the "Banu Adnan is
 filler" verdict are withdrawn.
 
-- `wikibase/analysis/epic_vs_dump.md` — eight rows in "which side moves".
-   **Chapter 181's "bore him ten sons": DECIDED 2026-07-31 — the DATA moves, not the prose.**
-   Emma: *"Uhh yeah the ten sons exist"*. The chapter stands; the nine missing sons get
-   recorded in the dump. **Do not rewrite the chapter.** Note the naming problem is real and
-   unsolved — the report says the data fix "means inventing nine named sons", so before
-   creating anything, go and find whether Garakguk-gi actually names them. **If the sources
-   name them, record those names; if they do not, that is a second question for Emma, not a
-   licence to invent.**
-   Row 1 of the eight (the Noah relabel) is **withdrawn** — see the patriarch overlay below.
-   The other six rows are still unanswered.
-   **Research note, 2026-10-11 (checked the same day against Korean Wikipedia citing the *Samguk yusa*):** the
-   *Garakguk-gi* (in *Samguk yusa*) names only the eldest son, Geodeung, who succeeded Suro; two
-   sons took their mother's surname Heo; the seven who became monks are named in later Chilbulsa
-   legend, not in the *Garakguk-gi*. If that holds, the nine sons are unnamed in the source, and
-   naming them is the second question for Emma, not to be invented.
+- `wikibase/analysis/epic_vs_dump.md`: **rows decided 2026-10-15** (see "Decided 2026-10-15" in the
+   report; Claude's calls on Emma's instruction to decide stuck items, hers to overrule). Ch 190's
+   "great-grandmother" fixed to "grandmother"; rows 2, 4, 5, 6, 8 stay as they are. **Left: row 7,**
+   merge M1 (Ishmael Q85869 into Q129307) and M2 (Qedar Q86435 into Q129387) with `merge_cluster.py`,
+   dropping Q85869's Sarah mother edge. BLOCKED-ON-USER-ACTION: Claude Code's permission check
+   refused to run the tool, even as a dry run; Emma allows it or says no.
 - ~~`wikibase/analysis/patriarch_overlay.md`~~ — **DECIDED 2026-07-31 by Emma: deliberate
    euhemerism. "the mesopotamian ones is completely intentional euhemerism".** The nine
    records keep their Mesopotamian royal labels; the fix is *none*. **The relabel proposal
