@@ -239,7 +239,10 @@ def build_gedcom7(out_path):
     out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     tmp = out_path.with_suffix(out_path.suffix + ".tmp")
-    with open(tmp, "w", encoding="utf-8", newline="\n") as f:
+    # utf-8-sig writes a byte-order mark, which GEDCOM 7 allows. Gramps 6.0 does not read 7.0,
+    # falls back to its 5.5 reader and, with no BOM, decodes the file as cp1252: 16,572 of 17,199
+    # non-ASCII names came out garbled in the 2026-10-15 round trip. With the BOM, none did.
+    with open(tmp, "w", encoding="utf-8-sig", newline="\n") as f:
         f.write("\n".join(out))
     tmp.replace(out_path)
     return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans,
