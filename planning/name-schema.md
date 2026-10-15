@@ -67,6 +67,24 @@ one-word label) and in Latin script: 32,582 names on 16,291 people. Full labels 
 made names like "Gwyn ap Peredur ab Ednowain ... 's son". Gramps 6 keeps all of them but drops the PHRASE.
 Russian-style and Welsh-style stacking, and the forms in other scripts, are later work.
 
+**Experiments run 2026-10-15** (eight one-person variants through Gramps 6.0.8 import and GEDCOM export; the
+test file is in the parent repo's gitignored `scratch/names-exp/`):
+
+| Variant | Written | Gramps kept |
+|---|---|---|
+| A | `Emma /Leonhart/` | as written, GIVN Emma, SURN Leonhart |
+| B | `Emma Leonhart` (no slashes) | the whole as a given name, `Emma Leonhart //` |
+| C | `Emma Leonhart` + `SURN Bure` | rewritten to `Emma /Bure/`: the SURN wins and "Leonhart" is lost |
+| D | `Emma //` + `SURN Bure` | `Emma /Bure/` |
+| E | typed display name first, slashed name second | both, in order; the first stays primary, the second becomes "aka"; PHRASE dropped |
+| F | `Gwyn /ap Peredur/` | as written, "ap Peredur" as the surname |
+| G | `/Leonhart/ Emma` (surname first) | turned round to `Emma /Leonhart/`: the order is lost |
+| H | `平蓮娘` with `TRAN Helensdotter` | the kanji name; the TRAN dropped |
+
+So: a surname absent from the name line does not survive (Gramps rebuilds the line from SURN); surname-first order
+does not survive; the order of NAME records and the first one's primacy do, which is why the exporter puts the
+display form first and writes every other form as its own NAME rather than as TRAN or SURN tricks.
+
 ## Order of work
 
 The steps are in the parent repo's `queue.md`. Names come first because they are text and can be
