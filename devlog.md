@@ -8201,7 +8201,7 @@ East Asian names, not as each day's quality; the two contradictory Thing claims 
 Thingsus; Thursday belongs to Thor as Jupiter's representative); the garbled Saturday and Sunday language lines
 rewritten. The stems stay pinned; Thor stays on Thursday.
 
-2026-10-15 02:41 PST: Ophiuchus ch 355-361, the Emma stanzas reworked against her records (the parent repo's
+2026-10-15 02:33 PST: Ophiuchus ch 355-361, the Emma stanzas reworked against her records (the parent repo's
 `research/ophiuchus-vs-records.md`). Only details her records contradict were changed, and only facts already
 public were added: 355 "numbering" the days becomes "giving them verses"; 356 drops the invented "the life was
 being lived instead of written" for "the gap weighed on her" and the move to evolution.faith; 357 says what the
