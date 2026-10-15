@@ -40487,7 +40487,7 @@ as the imperial regalia of {{p|Japan}},
 passed down through seventy centuries' tread.
 
 Jimmu's great-grandfather was Ninigi.
-Jimmu's great-grandmother was Toyotamahime,
+Jimmu's grandmother was Toyotamahime,
 daughter of the sea dragon god, who bore
 Ugayafukiaezu, Jimmu's father, extremely.
 
