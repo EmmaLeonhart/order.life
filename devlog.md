@@ -8331,3 +8331,9 @@ folded Q85869 into Ishmael Q129307 and Q86435 into Qedar Q129387, so the 36-gene
 Ishmael of Genesis 25 and his son Qedar. Gates against the pre-merge snapshot: check_invariants PASS (improved:
 dangling_endpoints, children_over_2_parents 1,073); compare_tangles UNCHANGED; compare_depth: no record lost depth, the
 only absences the two merged records.
+
+2026-10-15 13:07 PST: three chapter fixes Emma chose: ch 12 Nemla is "she" ("with pride she spoke. / Her voice a call to honor
+those she blessed"); ch 21's last line "Into the world we know in today's light"; ch 21 matched to ch 22 on Plastidus (born
+to Plantus and Cortica, then Chlora enters his cell: the birth stanza moved up, the Chlora stanzas given to Plastidus, and
+one stanza rewritten, "Thus Plastidus and Chlora, wise, / Joined light to cell, both giving and restoring"). Review log rows
+12, 21 and 22 updated.

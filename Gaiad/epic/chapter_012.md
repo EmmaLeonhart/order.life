@@ -66,8 +66,8 @@ Then followed by late great {{c|Methuselah}}.
 And now the one who carries on, {{c|Nolah}}."
 
 {{c|Nemla}} stood upon the high mountain’s crest,
-Before the gathered crowd, with pride he spoke.
-His voice a call to honor those he blessed,
+Before the gathered crowd, with pride she spoke.
+Her voice a call to honor those she blessed,
 The line of {{c|Viros}}, forged through flame and smoke.
 
 "My heritage runs deep from ancient might,
