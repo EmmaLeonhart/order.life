@@ -88,3 +88,16 @@ Her words, same session notes.
   religion."
 - It goes with section 8: a community that makes its practice public "get[s] money too".
 
+## 10) One religion, one culture, and the institutions that tried (Emma, 2026-10-13)
+Her words, from the same session (parent repo `research/psilocybin-sessions-ideas.md`).
+- One religion and one culture in the Gaiad: "everyone's the same religion in the [Gaiad] ... Everybody is the same
+  culture ... If you look at the medieval art that has like the Tower of Babel and it looks like you'd think it was in
+  Paris in the year 1200, yeah, that's the [Gaiad]."
+- The two institutions she likes most, and why they fall short: "the two organizations that I kind of like the most are
+  the Association of Shrines and the Church of Jesus Christ of Latter-day Saints. Both of them ... attempt this. Both of
+  them, I believe, fail."
+- "The Latter-day Saints have laid the groundwork for ... this polytheistic restoration without ... really realizing
+  it"; and "Islam was always part of Shinto."
+- A parallel with Manichaeism: "there's kind of a parallel of what I'm doing to Manichaeism ... it absorbs the
+  practices of so many things so effectively."
+
