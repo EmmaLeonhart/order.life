@@ -386,7 +386,7 @@ def load_chapters():
         if chapter_file.exists():
             with open(chapter_file, "r", encoding="utf-8") as f:
                 raw = f.read()
-                clean = re.sub(r'\{\{[cp]\|([^}]*)\}\}', r'\1', raw)
+                clean = re.sub(r'\{\{[cpx]\|([^}]*)\}\}', r'\1', raw)
                 # Extract title from markdown heading and strip it from text
                 title = None
                 title_match = re.match(r'^#\s+(?:Chapter\s+\d+:\s*)?(.*)', clean)

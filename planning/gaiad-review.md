@@ -18,6 +18,9 @@ Standing decisions:
   the Magellanic Clouds act in ch 2; Milkdromeda is their union; Sagittarius beside "the Princess" stands for
   Aster), so they keep `{{c|}}` tags. Words tagged as characters by the 2025-11-18 automated pass ("Once",
   "Together" and the like, which also made junk files in `Gaiad/genealogy/`) are untagged.
+- `{{x|...}}` (Emma, 2026-10-14): a neutral tag for any proper noun. When it is not plain whether a name is a
+  character, a place or a thing, it gets `x`, not a guess; existing `c`/`p` tags stay unless plainly wrong.
+  `build.py` strips `x` like `c` and `p`.
 - Length (60-150 lines) is a guide for new chapters, not a reason to cut or pad hers.
 
 | ch | title | verdict | changes |
