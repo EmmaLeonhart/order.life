@@ -409,18 +409,6 @@ Items, in order:
    first; real verse (no length limit; rhyme matters), modern placenames;
    check the facts before committing; update the runway in `STATUS.md`; one chapter per commit; delete
    its line here when done. Ch 253-364 are done (Virgo complete; Libra through Samhain; Scorpius through the two digits; Ophiuchus through takes note).
-- **After every chapter is written: a systematic review of the whole Gaiad, in chronological order
-   (Emma, 2026-10-12 15:56).** Her words: "a systematic review of all of the chapters in chronological
-   order ... to review the degree that they satisfy all of the criteria that order.life is supposed
-   to have." Ch 1 to 364 in order, one chapter at a time, each checked against every criterion: the
-   pinned corrections in `STATUS.md` (verse register, three braided registers, modern placenames,
-   rhyme, graded; tags are not a criterion and are never changed: they feed the genealogy files,
-   see `Gaiad/TAGS.md`), `CLAUDE.md` (the synoptic genealogy told by its
-   story; linear time; one person, one set of parents; cross-tradition joins kept), the tone and
-   founder guidance in `planning/gaiad-tone-and-founders.md`, the thematic spine for 253-364, the
-   chapter's day and holiday in the calendar, and its facts. Record each chapter's result, fix what
-   fails, one commit per chapter. Starts only when ch 364 exists.
-
 ## AWAITING EMMA — reports written, decisions open
 
 > ### ⛔ NOTION WINS. READ IT BEFORE TRUSTING THIS SECTION.
@@ -529,3 +517,16 @@ chapter generation (253–328, 330–364) is open. Do not re-add it here.)_
   session always creates them.)
 - **Run the status-report action once more, independently** — end-of-session
   summary of everything that happened this session.
+- **After every chapter is written: a systematic review of the whole Gaiad, in chronological order
+   (Emma, 2026-10-12 15:56).** Her words: "a systematic review of all of the chapters in chronological
+   order ... to review the degree that they satisfy all of the criteria that order.life is supposed
+   to have." Ch 1 to 364 in order, one chapter at a time, each checked against every criterion: the
+   pinned corrections in `STATUS.md` (verse register, three braided registers, modern placenames,
+   rhyme, graded; tags are not a criterion and are never changed: they feed the genealogy files,
+   see `Gaiad/TAGS.md`), `CLAUDE.md` (the synoptic genealogy told by its
+   story; linear time; one person, one set of parents; cross-tradition joins kept), the tone and
+   founder guidance in `planning/gaiad-tone-and-founders.md`, the thematic spine for 253-364, the
+   chapter's day and holiday in the calendar, and its facts. Record each chapter's result, fix what
+   fails, one commit per chapter. Starts only when ch 364 exists. **Stopped after ch 19 and moved
+   to the very end of this queue** (Emma, 2026-10-14 about 21:20: "Move it to the end"). Results so far:
+   `planning/gaiad-review.md`.

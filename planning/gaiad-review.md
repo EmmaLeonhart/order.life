@@ -38,6 +38,9 @@ Standing decisions:
 undoing the tag changes in rows 1-6 below and the tagging pass in ch 7-70; the "Advertisement" lines were then
 removed again (`7dcb10881`). The tag changes recorded in rows 1-6 no longer apply.
 
+**Stopped after ch 19 (2026-10-14 21:45)** on Emma's word ("Move it to the end"; doing a few chapters a run
+"might be highly inefficient"). The review is now the last item of both queues; it resumes at ch 20.
+
 | ch | title | verdict | changes |
 |---|---|---|---|
 | 1 | The Yarn of Creation | Emma's 2020 verse; passes | `{{c|Once}}` untagged (a word, from the 2025-11-18 automated tagging). Galaxies kept as characters (corrected 17:14: the first pass made them places, wrongly). 32 lines, her length kept. |
