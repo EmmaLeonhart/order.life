@@ -8361,3 +8361,9 @@ names in /gaiad.ged, marked generated. Temple names by each ruler's place among 
 epithet where the label has one (Cyrus the Great: Ḥr kꜣ-nḫt wr). Left to their own traditions: Chinese, Korean, Vietnamese
 and Japanese rulers (real temple and era names; Genghis Khan is Yuan Taizu) and pharaohs (attested Horus names). Not done:
 Christian or Muslim names for Chinese emperors (the method needs each emperor's deeds, which the data does not hold).
+
+2026-10-15 13:34 PST: Abrahamic names for Chinese emperors, from their temple names (Emma: "Abrahamic names of Chinese emperors come
+from temple names"; by meaning, her choice): the temple name's first character is matched to the Abrahamic name whose
+root means the same (太祖 founder -> Abraham, 太宗 the second -> Isaac, 高 -> Ali, 武 -> David, 仁 -> John, 睿/哲 -> Solomon,
+憲 -> Daniel ...; table and reasons in `wiki-scripts/monarch_names.py`). 54 of the 57 emperors whose records give a temple
+name now carry one in /gaiad.ged; the other 192 Chinese monarchs (mostly pre-Tang kings) have no temple name recorded.

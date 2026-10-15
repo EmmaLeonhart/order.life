@@ -381,7 +381,7 @@ def build_gedcom7(out_path, extra_lang=None):
             for r in csv.DictReader(fh, delimiter="\t"):
                 labels[r["qid"]].append((r["lang"], r["label"]))
     n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = n_clado = n_nk = n_zh = n_mon = 0
-    temple_names, horus_names = build_monarch_names()
+    temple_names, horus_names, abrahamic_names = build_monarch_names()
     zh_taken = {lb for v in labels.values() for lg, lb in v if lg == "zh"}
     for qid in sorted(persons, key=lambda q: int(q[1:]) if q[1:].isdigit() else 0):
         row = persons[qid]
@@ -445,6 +445,12 @@ def build_gedcom7(out_path, extra_lang=None):
             w(f"1 NAME {hn}")
             w("2 TYPE OTHER")
             w(f"3 PHRASE Horus name (generated): {gloss}")
+            n_mon += 1
+        if qid in abrahamic_names:
+            an, temple, why = abrahamic_names[qid]
+            w(f"1 NAME {an}")
+            w("2 TYPE OTHER")
+            w(f"3 PHRASE Abrahamic name, from the temple name {val(temple)} ({val(why)})")
             n_mon += 1
         more, lineage_notes = lineage_extras(qid, persons, sex_of, canon, labels)
         for n, phrase in lineage_names(qid, persons, sex_of, canon) + more:
