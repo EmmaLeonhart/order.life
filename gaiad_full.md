@@ -180,8 +180,6 @@ A brilliant burst before she fell from sight.
 From that great death, a black hole then prepared,
 To pull the stars into eternal night.
 
-Advertisement
-
 
 # Chapter 4: The First Yarn String
 
@@ -368,8 +366,6 @@ And this is why we call her to this day,
 Our Greatest {{c|Grandmother}}, wise and true.
 Her light still guides us on our cosmic way,
 A title passed to us and all of you.
-
-Advertisement
 
 
 # Chapter 8: Heavy Elements Scattered
@@ -816,8 +812,6 @@ Our strength will hold, as we fulfill your say."
 Through every trial, no matter how far,
 We swear to keep your cosmic vow in view."
 
-Advertisement
-
 
 # Chapter 13: Solar Nebula Collapse
 
@@ -880,8 +874,6 @@ A frigid tale where mysteries abide.
 A veil of frozen whispers far from light.
 In distant orbits, comets there abound,
 A cosmic dance that fades beyond our sight.
-
-Advertisement
 
 
 # Chapter 14: Planetary Accretion
