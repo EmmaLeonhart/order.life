@@ -8242,3 +8242,9 @@ winter time); the 16:00 rebuild stays for the Discord bot.
 tagged places and things, and from ch 130 its people, are linked where English Wikipedia has a real article (redirects
 kept only when they stay close to the name, disambiguation pages skipped, up to ten per chapter). A reviewed denylist
 drops names whose article is the generic concept ("Apple" the fruit, "Beagle" the dog, "Charter", "Republic").
+
+2026-10-15 03:49 PST: the downloads work. The deploy builds /gaiad.pdf (English, about 1,300 pages, pandoc with Typst),
+/gaiad.epub (pandoc) and /gaiad.zip, a GEDZIP holding gedcom.ged, the PDF and the EPUB; all four files checked live
+after deploy run 38722270235. The Gaiad index page links them. On her question of how attachments work with GEDCOM:
+GEDCOM 7's answer is the GEDZIP package (gedcom.ged at the root, media files beside it, referenced by relative path
+in OBJE/FILE), which is the zip she described, so the arms' SVG and PNG files can be added to it later.
