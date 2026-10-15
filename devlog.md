@@ -8270,3 +8270,8 @@ Every file now lists its citations as chapter, stanza and line. No tag changed.
 2026-10-15 06:00 PST: entity resolution step 4: character pages quote from the files' citations, each line labelled
 "Gaiad N.S" and linked to its stanza (/gaiad/NNN/#sS), with the tags made plain (they used to show raw {{c|...}}).
 Files without citations keep the old name search.
+
+2026-10-15 06:06 PST: entity resolution step 5, first half: /gaiad.ged cites the Gaiad itself. A new source @S2@ "The
+Gaiad", and on each person the resolution tied to the verse, one citation per stanza: PAGE "Gaiad 131.54", the line
+as DATA TEXT, the stanza link as NOTE (3,932 citations). All 106,786 people still match back by ID. The second half,
+the I1/I2/I3 numbering, waits on Emma's three readings (parent repo queue, "Steps only she can take").

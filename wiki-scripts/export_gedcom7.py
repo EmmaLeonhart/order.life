@@ -130,6 +130,29 @@ def given_name(row):
     return ""
 
 
+def load_gaiad_citations():
+    """qid -> [(chapter, stanza, line)] from the rebuilt Gaiad/genealogy files (one person per file)."""
+    import json
+    gen = Path(__file__).resolve().parent.parent / "Gaiad" / "genealogy"
+    out = {}
+    for f in gen.glob("*.json"):
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        q = d.get("qid")
+        if not q:
+            continue
+        seen = out.setdefault(q, [])
+        for c in d.get("citations", []):
+            t = (c["chapter"], c["stanza"], c["line"])
+            if t not in seen:
+                seen.append(t)
+    for q in out:
+        out[q].sort()
+    return out
+
+
 def load_canonical_line():
     """qid -> (canonical parent qid, 'father'|'mother'), from canonical_line.py's output."""
     path = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "canonical_line.tsv"
@@ -220,9 +243,17 @@ def build_gedcom7(out_path):
     w("1 AUTH Emma Leonhart")
     w("1 PUBL https://order.life/gaiad.ged")
     w("1 WWW https://order.life/")
+    # The Gaiad itself, cited by chapter and stanza (Gaiad 132.5) for every person the entity resolution
+    # (Gaiad/scripts/resolve_characters.py, regenerate_genealogy.py) tied to a tag in the verse.
+    w("0 @S2@ SOUR")
+    w("1 TITL The Gaiad")
+    w("1 AUTH Emma Leonhart")
+    w("1 PUBL https://order.life/gaiad/")
+    w("1 WWW https://order.life/gaiad.pdf")
 
     canon = load_canonical_line()
-    n_indi = n_trans = n_lineage = 0
+    gaiad_cites = load_gaiad_citations()
+    n_indi = n_trans = n_lineage = n_cite = 0
     for qid in sorted(persons, key=lambda q: int(q[1:]) if q[1:].isdigit() else 0):
         row = persons[qid]
         w(f"0 @I{qid}@ INDI")
@@ -281,6 +312,13 @@ def build_gedcom7(out_path):
         w(f"1 NOTE Gaiad person {ids}")
         w("1 SOUR @S1@")
         w(f"2 PAGE order.life genealogy, {qid}")
+        for ch, st, line in gaiad_cites.get(qid, []):
+            w("1 SOUR @S2@")
+            w(f"2 PAGE Gaiad {ch}.{st}")
+            w("2 DATA")
+            w(f"3 TEXT {val(line)}")
+            w(f"2 NOTE https://order.life/gaiad/{ch:03d}/#s{st}")
+            n_cite += 1
         n_indi += 1
 
     for key in sorted(fam_ids, key=lambda k: int(fam_ids[k][1:])):
@@ -308,7 +346,7 @@ def build_gedcom7(out_path):
     with open(tmp, "w", encoding="utf-8-sig", newline="\n") as f:
         f.write("\n".join(out))
     tmp.replace(out_path)
-    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage,
+    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite,
             "bytes": out_path.stat().st_size}
 
 
