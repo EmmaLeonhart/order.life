@@ -8220,4 +8220,4 @@ moved: per her "self-healing", each moves one day later when next revised, since
 紀元節 corrected to 祈年祭 (its own Wikidata item, Q118906710); the five copied "Oharae" extensions renamed from
 their Wikidata ids (Halloween ×2, Shichi-Go-San), and Niiname-sai and Christmas given their own ids (Q11501518,
 Q19809) in place of Shichi-Go-San's. The two other data notes (Ash Wednesday's day_of_year, Good Friday II on a
-Thursday) were left for their own look.
+Thursday) turned out to be corrected in the data already.
