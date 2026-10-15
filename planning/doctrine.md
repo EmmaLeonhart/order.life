@@ -68,3 +68,17 @@ Her words, from her session notes of 2026-10-12/13 (`psilocybin-management-2/res
 - Inclusion by addition, not by subtraction: against "no discussing genealogy because not everybody's a Habsburg",
   "everybody gets this".
 
+## 8) Gods without public worship are open (Emma, 2026-10-13)
+Her words, same session notes.
+- "The cults of the various gods ought to be public, as per Shinto rules."
+- Where no priest of a god can be found, "it's completely fair game to start".
+- Secret continuation is valid but gives no claim on the god: "I do consider it to be valid ... but ... not existing in
+  public and not existing are close enough ... they don't have the right to keep the gods secret." A violent history
+  does not change this. "This is the way that European paganism died ... you maintain ownership by doing it in public."
+- A community that comes forward is met, and paid: "If you make your practice public we'll stop doing this ... and also
+  very obviously, you get money too."
+- Under strong outcry, use an epithet for the god: "a pressure release valve ... practical and not ... informed by any
+  kind of principled stance".
+- Judaism as a priestly clan, "like the Nakatomi, but much larger": "Jewish rituals are to be led by Jewish people for
+  Gentile parishioners and Jewish parishioners alike."
+
