@@ -1,7 +1,7 @@
 # Chapter 310: The Round Altar
 
-On the tenth of October, 1911, soldiers at Wuchang rose.
-Wuchang is now part of {{p|Wuhan}}.
+On the tenth of October, 1911, soldiers at {{p|Wuchang}} rose.
+{{p|Wuchang}} is now part of {{p|Wuhan}}.
 Through the autumn the provinces left the court.
 {{c|Sun Yat-sen}} was abroad.
 On the twenty-ninth of December the assembly at {{p|Nanjing}}
@@ -13,7 +13,7 @@ The emperor was six.
 {{c|Puyi}} had been born on the seventh of February, 1906.
 On the twelfth of February, 1912, an edict went out in his name.
 {{c|Longyu}} issued it.
-She was empress dowager, widow of the emperor Guangxu,
+She was empress dowager, widow of the emperor {{c|Guangxu}},
 And the child was that emperor's nephew.
 She was not the boy's mother.
 Officials wrote the words. The decree that sent them was hers.
@@ -31,17 +31,17 @@ All under heaven is a public thing.
 The sentence is the public thing.
 It is not a private will in the sky, picking a flag.
 The paper named {{c|Yuan Shikai}},
-And called him prime minister by the Advisory Council's election,
+And called him prime minister by the {{x|Advisory Council}}'s election,
 And gave him full power to organize a provisional government
 And to confer with the people's army.
 It asked that five peoples stand as one republic:
-Manchu, Han, Mongol, Hui, Tibetan.
+{{x|Manchu}}, {{x|Han}}, {{x|Mongol}}, {{x|Hui}}, {{x|Tibetan}}.
 The house that was signing set its own name first.
 
-On the fifteenth of February the assembly at Nanjing chose him
+On the fifteenth of February the assembly at {{p|Nanjing}} chose him
 Provisional president.
 He took the oath on the tenth of March, in {{p|Beijing}}.
-He did not take it in Nanjing.
+He did not take it in {{p|Nanjing}}.
 The capital stayed where he stood.
 
 The child stayed in the palace.
@@ -53,34 +53,34 @@ A courtesy inside a palace is a courtesy.
 It is not the winter rite.
 
 South of the city stands the {{p|Temple of Heaven}}.
-The Ming raised the precinct in the fifteenth century.
+The {{x|Ming}} raised the precinct in the fifteenth century.
 Later emperors built the round altar up again.
 The duty they claimed is older than that brick.
-The Qing rite was the emperor's,
+The {{x|Qing}} rite was the emperor's,
 At the round altar, at the winter solstice.
 The February edict closed the house that had claimed the standing.
 It closed the house in the words of a public sky.
 February did not close the fire.
 
 On the twenty-third of December, 1914, the winter solstice,
-Yuan came to the round altar as president.
+{{c|Yuan}} came to the round altar as president.
 It was the third winter solstice of the republic.
 He changed into the old sacrificial dress.
 The prayer named the day.
 It named him president, representing the people.
-It said that Heaven looks down,
+It said that {{c|Heaven}} looks down,
 And that the charge is gathered on the people.
-The prayer did not call him Son of Heaven.
+The prayer did not call him {{c|Son of Heaven}}.
 What had been read was burned, as that rite burns its writing.
 No later president of the republic came to do it.
-That fire was the last the state lit there for Heaven.
+That fire was the last the state lit there for {{c|Heaven}}.
 
 Why he stood there is still disputed.
-A missionary from Germany read the day as a stair toward a throne.
+A missionary from {{p|Germany}} read the day as a stair toward a throne.
 The reading is his. The chapter does not adopt it.
-The next winter Yuan accepted an imperial title,
+The next winter {{c|Yuan}} accepted an imperial title,
 On the twelfth of December, 1915.
-The reign-name was to be Hongxian,
+The reign-name was to be {{x|Hongxian}},
 And the reign was to open on the first of January.
 He held no formal enthronement.
 On the twenty-second of March, 1916, he put the title down.

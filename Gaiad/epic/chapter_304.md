@@ -6,7 +6,7 @@ He had meant a council of the domains, and himself in it.
 On the third of January, 1868, the court declared something else:
 
 The restoration of imperial rule. The emperor was fifteen.
-The era was still Keiō. The name Meiji came in October.
+The era was still {{x|Keiō}}. The name {{x|Meiji}} came in October.
 The war followed the paper. The paper is the part this day keeps,
 Because the paper reached the gods before the year was out.
 
@@ -17,12 +17,12 @@ A new government, speaking in the form of an old oath.
 
 That spring a section for the rites was opened.
 In June the old name returned.
-The Department of Divinities. The Jingikan,
+The {{x|Department of Divinities}}. The {{x|Jingikan}},
 Set under the council. The height was not yet given.
 
 In the ancient law it had stood over the other offices.
 Unity of rites and government, the slogan they printed.
-The halls of that department had burned in the Ōnin War.
+The halls of that department had burned in the {{x|Ōnin War}}.
 For centuries it had been a name with no one in the room.
 
 They meant that name for every shrine in the country.
@@ -34,8 +34,8 @@ Monks who served at shrines, the intendants and the shrine-monks,
 Were to put off the robe or leave the shrine.
 A buddha's word was taken off a kami's name.
 
-Gongen, the buddha appearing as the god, was not to be said.
-A Buddhist image was not to be the body of the kami.
+{{c|Gongen}}, the buddha appearing as the god, was not to be said.
+A {{x|Buddhist}} image was not to be the body of the kami.
 At {{p|Usa}} and at {{p|Iwashimizu}}, {{c|Hachiman}}
 Had been a great bodhisattva. He was to be the great divinity,
 
@@ -56,7 +56,7 @@ And a kami had answered to a buddha's title,
 And the priest who knew the sutra knew the norito.
 That was not a stain on a pure older thing.
 It was how the religion had been lived.
-Even {{p|Ise}} had kept Buddhist halls.
+Even {{p|Ise}} had kept {{x|Buddhist}} halls.
 
 The place used as the origin was not unmixed.
 To separate it was to manufacture an origin
@@ -65,7 +65,7 @@ And to call the manufacture a return.
 
 The old words clean. He wrote a commentary.
 A commentary does not melt a bell.
-The Yoshida house and the Shirakawa house,
+The {{c|Yoshida}} house and the {{c|Shirakawa}} house,
 Which had licensed the priests from the court, were set aside.
 
 A national kami, directed from the capital,
@@ -78,7 +78,7 @@ The buddha in the shrine was an ancestor of the practice.
 Taking the name off does not take the centuries out of the wood.
 In 1871 the high department was lowered to a ministry.
 
-In 1872 that ministry was closed into a Ministry of Doctrine,
+In 1872 that ministry was closed into a {{x|Ministry of Doctrine}},
 Which sent out teachers of the kami and teachers of the buddha
 To instruct the people in one program.
 The fusion was not given back. The smashed things stayed smashed.
@@ -101,6 +101,6 @@ And the names were true to the people who said them.
 A restoration that begins by forbidding
 A thousand years of speech is not a return.
 It is a new religion, with a date and an old letterhead.
-The letterhead was the Department of Divinities.
+The letterhead was the {{x|Department of Divinities}}.
 The parting was that spring. The name returned in June.
 The paper set the office highest in August of 1869.

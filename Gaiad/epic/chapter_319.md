@@ -24,15 +24,15 @@ The commission that was to draft them met after that.
 The text is not one hand.
 {{c|Peng Chun Chang}} asked that the first article hold conscience
 As well as reason.
-He brought the Chinese word ren to the argument,
+He brought the {{x|Chinese}} word ren to the argument,
 The regard of one person for another.
-The English that stayed beside reason is conscience.
+The {{x|English}} that stayed beside reason is conscience.
 {{c|Hansa Mehta}} required the article to say human beings.
 A draft had said men.
 The article does not say men.
 
-On the tenth of December, 1948, at the Palais de Chaillot in {{p|Paris}},
-Before midnight, the General Assembly adopted the declaration.
+On the tenth of December, 1948, at the {{p|Palais de Chaillot}} in {{p|Paris}},
+Before midnight, the {{x|General Assembly}} adopted the declaration.
 The resolution is 217.
 The declaration is its first part.
 Thirty articles.
@@ -52,14 +52,14 @@ Fifty-eight states were members.
 Forty-eight voted for the declaration.
 None voted against it.
 Eight abstained.
-The Soviet Union abstained,
-And Ukraine, and Belarus, and Poland,
-And Czechoslovakia, and Yugoslavia.
-Saudi Arabia abstained.
+The {{p|Soviet Union}} abstained,
+And {{p|Ukraine}}, and {{p|Belarus}}, and {{p|Poland}},
+And {{p|Czechoslovakia}}, and {{p|Yugoslavia}}.
+{{p|Saudi Arabia}} abstained.
 It had spoken against the article that lets a person change belief.
-South Africa abstained.
-Honduras was not in the vote.
-Yemen was not in the vote.
+{{p|South Africa}} abstained.
+{{p|Honduras}} was not in the vote.
+{{p|Yemen}} was not in the vote.
 Do not call the night unanimous.
 A vote with eight abstentions and two absent
 Is not a vote of every member.
@@ -82,12 +82,12 @@ The charter named a respect.
 The declaration named articles.
 They are two documents, and two years.
 
-Hold the June signing, fifty hands, Poland not yet among them.
+Hold the June signing, fifty hands, {{p|Poland}} not yet among them.
 Hold the October day, when the charter had force and still no list.
 Hold the tenth of December, before midnight.
 Forty-eight for. None against. Eight withholding.
 The word in the first article is human beings.
-The word Chang asked for is in the sentence.
+The word {{c|Chang}} asked for is in the sentence.
 A declaration can put a person on a page with every other person.
 It does not, by being adopted, keep the person alive.
 It does not close a shrine.

@@ -7,17 +7,17 @@ And asked the saints to carry their prayers, a scholar, quick
 
 And severe, {{c|Muhammad ibn Abd al-Wahhab}}, born in 1703,
 Came home from his studies in {{p|Medina}} and {{p|Basra}} and preached:
-This is not Islam. God is one. No saint, no tree,
+This is not {{x|Islam}}. God is one. No saint, no tree,
 No tomb, no prophet even, may be asked to intercede. He reached
 
-Back past a thousand years of what the Muslims had done,
-The Sufi orders, the shrines, the feasts of the saints, the schools
+Back past a thousand years of what the {{c|Muslims}} had done,
+The {{c|Sufi}} orders, the shrines, the feasts of the saints, the schools
 Of law and their commentaries, to the {{c|Quran}} and the sayings, the one
-Pure beginning, as he read it. His book was *The Oneness of God*. The rules
+Pure beginning, as he read it. His book was *{{x|The Oneness of God}}*. The rules
 
 Were simple and absolute. And he acted. At {{p|Al-Uyaynah}},
 With the town's emir, he cut down a sacred tree, and pulled down the tomb
-Of {{c|Zayd ibn al-Khattab}}, a companion of the Prophet, the venerated
+Of {{c|Zayd ibn al-Khattab}}, a companion of the {{c|Prophet}}, the venerated
 Dome over his grave, and had a woman stoned. The room
 
 Of the town grew afraid, and the emir's own overlord made him send the preacher away.
@@ -35,18 +35,18 @@ Hold that, in a book of genealogy: a faith and a state
 As two family trees, bound by a promise in a mud-brick town. The way
 Of the alliance was conquest. Their followers called themselves, as they relate,
 
-*Al-Muwahhidun*, the people of God's oneness. The word *Wahhabi*
+*{{c|Al-Muwahhidun}}*, the people of God's oneness. The word *{{x|Wahhabi}}*
 Was what their enemies called them, and it stuck. They took {{p|Najd}},
 And then, in 1802, they rode north to {{p|Karbala}} in {{p|Iraq}}, the shrine-crowned
-And holy city of the Shia, where {{c|Husayn}}, the Prophet's grandson, had died
+And holy city of the {{c|Shia}}, where {{c|Husayn}}, the {{c|Prophet}}'s grandson, had died
 
 And is buried, and they killed thousands in its streets, and stripped the shrine.
 In 1803 and 1805 they took {{p|Mecca}} and {{p|Medina}}, and pulled down
-The domes over the graves of the Prophet's family, the line
+The domes over the graves of the {{c|Prophet}}'s family, the line
 Of the saints, at the {{p|Baqi}} cemetery, and the pilgrims of every town
 
 Who would not pray their way were turned back. The {{c|Ottomans}} sent {{c|Muhammad Ali}}'s
-Egyptian army, and it took seven years, and in 1818 {{p|Diriyah}} was razed,
+{{x|Egyptian}} army, and it took seven years, and in 1818 {{p|Diriyah}} was razed,
 And the emir {{c|Abdullah}} was taken to {{p|Istanbul}} and beheaded. The steel
 Of the empire had won. The idea had not. It was praised
 
@@ -60,10 +60,10 @@ Of this book: the movement said it was a return to the pure beginning.
 But what it built had never existed: a state church in a desert, a line
 Of two families, a faith stripped of the saints that the beginning
 
-Had grown in a thousand places, the Sufi lodges, the shared shrines
-Where Muslims and Christians and Jews had sometimes prayed side by side.
+Had grown in a thousand places, the {{c|Sufi}} lodges, the shared shrines
+Where {{c|Muslims}} and {{c|Christians}} and {{c|Jews}} had sometimes prayed side by side.
 A purification is always a new thing wearing the old lines.
-The Old Believers' persecutors said they were restoring the pure rite. The pride
+The {{c|Old Believers}}' persecutors said they were restoring the pure rite. The pride
 
 Of every reformer is to be the first faithful one since the founder.
 And what is cut away is the life that grew in between:
@@ -71,7 +71,7 @@ The grandmother at the saint's tomb with her rag on the tree, the wonder
 Of the feast day, the shrine where two faiths met. The green
 
 Of the oasis was not a corruption. It was the faith alive.
-This book does not condemn the many Muslims who keep this way with sincerity.
+This book does not condemn the many {{c|Muslims}} who keep this way with sincerity.
 It names the pattern: the return that is an invention, the drive
 To purity that splits. Hold the tree that was cut down. Its charity
 

@@ -6,7 +6,7 @@ Sent a memorandum to the imperial government.
 Its number was 448.
 Its subject was the abolition of the state's
 Sponsorship, support, perpetuation, control, and dissemination
-Of State Shinto.
+Of {{x|State Shinto}}.
 The sponsorship by the national government,
 By the prefectures, and by the towns,
 And by any official acting as an official,
@@ -22,7 +22,7 @@ To report that he had taken the post,
 Or to stand at a rite as the government.
 He could go as a man.
 The order forbade militarist teaching
-In the rites of Shinto and in the rites of every other religion,
+In the rites of {{x|Shinto}} and in the rites of every other religion,
 The same prohibition, the same hour.
 Its stated aim was to separate religion from the state
 And to set every religion on the same legal footing.
@@ -36,23 +36,23 @@ A shrine was not yet named in it.
 
 On the first of January, 1946,
 The newspapers printed a rescript of the emperor {{c|Hirohito}}.
-Its title was the construction of a new Japan.
+Its title was the construction of a new {{p|Japan}}.
 What people called it was the declaration
 That he was human.
 It was not the recorded voice of the fifteenth of August.
 It began by taking up the five clauses
-Of the Charter Oath {{c|Meiji}} had proclaimed.
+Of the {{x|Charter Oath}} {{c|Meiji}} had proclaimed.
 Then it said the tie between him and the people
 Had always stood on mutual trust and affection.
 It did not depend on mere legends and myths.
-The English that went with the rescript
+The {{x|English}} that went with the rescript
 Says the tie is not predicated on a false conception:
 That the emperor is divine,
-And that the Japanese are superior to other races
+And that the {{x|Japanese}} are superior to other races
 And fated to rule the world.
 The rescript's own word is akitsumikami,
 A manifest kami.
-The English says divine.
+The {{x|English}} says divine.
 They are not the same word.
 The sentence refuses a conception of the bond.
 It does not say what a shrine may still hold,
@@ -68,12 +68,12 @@ Under the inner shrine at {{p|Ise}},
 Which they looked to as the source,
 For the shrines of the country,
 To carry the shrines' own charge
-And to contribute to the construction of a new Japan.
+And to contribute to the construction of a new {{p|Japan}}.
 The rescript had used that aim in its title.
 The declaration used it as the work.
 
 The office that had held the shrines for the state
-Was the Jingiin, set inside the Home Ministry
+Was the {{x|Jingiin}}, set inside the {{x|Home Ministry}}
 In November of 1940.
 The memorandum had required the separation.
 The end was first set for the last day of January.
@@ -81,7 +81,7 @@ On the second of February the office was ended,
 And the shrines on the register
 Were deemed religious corporations.
 On the third of February the association was established.
-Its name was Jinja Honchō,
+Its name was {{x|Jinja Honchō}},
 The main office of the shrines.
 The shrines that came under it
 Were a religious corporation's shrines,
@@ -89,12 +89,12 @@ Not a ministry's.
 Not every shrine came under it.
 {{p|Yasukuni}} was deemed a religious corporation
 In its own right, and is not written here as theirs.
-Ise was the source they named.
+{{p|Ise}} was the source they named.
 It was not a hall the office owned.
 
 Do not say the memorandum ended the kami.
 It ended a budget and an official attendance.
-Do not say the English word divine
+Do not say the {{x|English}} word divine
 Is the whole of the word he used.
 Do not say the new office was the ministry, renamed.
 A voluntary gift is not a tax.
@@ -104,7 +104,7 @@ Hold that.
 The stories are not what the rescript rested the bond on.
 The stories are not thereby made nothing.
 Refuse the consolation that a separation is a deletion,
-And the consolation that an office looking to Ise
+And the consolation that an office looking to {{p|Ise}}
 Has restored the state that paid.
 The striving is the footing:
 A shrine among religions, kept by those who come,

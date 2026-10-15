@@ -1,7 +1,7 @@
 # Chapter 302: Endless Forms
 
 On the twenty-fourth of November, 1859, in {{p|London}},
-A green book left {{c|John Murray}}'s house in Albemarle Street.
+A green book left {{c|John Murray}}'s house in {{p|Albemarle Street}}.
 {{c|Charles Darwin}} was not in the shop. He was at {{p|Downe}}, in {{p|Kent}},
 Waiting on word. Twelve hundred and fifty copies. The trade
 
@@ -10,10 +10,10 @@ Coming to the sentence. In July of 1837, in a notebook,
 He drew a branching figure and wrote above it, *I think*.
 He had sailed from {{p|Plymouth}} on the twenty-seventh of December, 1831,
 
-On the *Beagle*, under {{c|Robert FitzRoy}}, and for five years
+On the *{{x|Beagle}}*, under {{c|Robert FitzRoy}}, and for five years
 Collected a coast, a war, a forest, and the islands.
 He did not, on the black rock of the {{p|Galápagos}}, already know.
-He labelled what he could. The *Beagle* brought him home
+He labelled what he could. The *{{x|Beagle}}* brought him home
 
 On the second of October, 1836. Then {{c|John Gould}}, in {{p|London}},
 Told him the birds were not what the labels had said.
@@ -26,9 +26,9 @@ On the twenty-eighth of June, 1858, {{c|Charles Waring Darwin}},
 A baby, died of scarlet fever. {{c|Charles Darwin}} did not go,
 
 Three days later, to the room in {{p|London}} where two papers
-Were read to the Linnean Society, and the room did not
+Were read to the {{x|Linnean Society}}, and the room did not
 Know what it had heard. He stayed with the fresh grave.
-The papers were his, and {{c|Alfred Russel Wallace}}'s. Wallace
+The papers were his, and {{c|Alfred Russel Wallace}}'s. {{c|Wallace}}
 
 Was in {{p|Ternate}}, in the islands. A letter from him,
 Written out of a fever, had reached {{p|Downe}} in June:
@@ -75,7 +75,7 @@ In 1859 the account was printed of how the living
 Are the dead, carried forward, changed, and still their children.
 Not a call to found a church. A natural history of descent.
 
-The Gaiad is young. The book is older than this calendar.
+The {{x|Gaiad}} is young. The book is older than this calendar.
 The hill at {{p|Downe}} is older than the book.
 The dead are older than the hill.
 What the book gives this scripture is the ground under it:

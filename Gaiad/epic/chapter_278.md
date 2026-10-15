@@ -1,11 +1,11 @@
 # Chapter 278: The Barrels Stayed Packed
 
-In 1648 the Cossacks of {{c|Khmelnytsky}} rose in {{p|Ukraine}}
-And killed the Jews of town after town, tens of thousands, the worst
-Massacre the Jews of {{p|Europe}} had known in centuries. The stain
+In 1648 the {{c|Cossacks}} of {{c|Khmelnytsky}} rose in {{p|Ukraine}}
+And killed the {{c|Jews}} of town after town, tens of thousands, the worst
+Massacre the {{c|Jews}} of {{p|Europe}} had known in centuries. The stain
 Spread through the communities like a fever. And then, as if the curse
 
-Had to be answered by its opposite, the Kabbalists said the end was near.
+Had to be answered by its opposite, the {{c|Kabbalists}} said the end was near.
 In the teaching of {{c|Isaac Luria}}, the world was a broken vessel, its sparks
 Scattered, and each good deed gathered one, and the year
 Of the last gathering would bring the messiah. And the marks
@@ -17,12 +17,12 @@ Joy of illumination, then the dark, the swings
 
 Of a mind that history would now call bipolar.
 In his bright seasons he did forbidden things: spoke aloud
-The Name of God that no one speaks, married a Torah scroll, the solar
+The {{x|Name of God}} that no one speaks, married a {{x|Torah}} scroll, the solar
 Rites of a man who thought the law was over. The crowd
 
 Of the rabbis expelled him. He wandered. And in 1665, in {{p|Gaza}},
 A young prophet, {{c|Nathan}}, had a vision, and told him: you are the one.
-And Sabbatai believed it, and the news ran out, a blaze, a
+And {{c|Sabbatai}} believed it, and the news ran out, a blaze, a
 Rumour, a letter, a ship, from {{p|Gaza}} to {{p|Aleppo}}, the sun
 
 Of it rising over {{p|Smyrna}} in December, where he took the synagogue,
@@ -33,35 +33,35 @@ Of exile seemed to be written. People sold their houses. The worth
 Of everything was nothing beside the journey home.
 In {{p|Hamburg}}, a woman named {{c|Glückel}} would remember, in her memoir,
 How the people danced in the synagogue with the letters, and how, to roam
-To the Holy Land, her father-in-law in {{p|Hameln}} packed his store
+To the {{p|Holy Land}}, her father-in-law in {{p|Hameln}} packed his store
 
 Of linen and dried food and peas and beans into barrels,
 And kept them ready for the moment the messiah called.
-1666. The year of the Beast for the Christians, the perils
+1666. The year of the Beast for the {{c|Christians}}, the perils
 And the hopes of all {{p|Europe}} pointing to it. And he was hauled
 
 In chains, when he sailed to {{p|Istanbul}} to claim the sultan's crown,
 And held in the fortress of {{p|Gallipoli}}, which his followers called
-The Tower of Strength, and he held court there, and the town
+The {{x|Tower of Strength}}, and he held court there, and the town
 Filled with pilgrims. And in September he was brought, enthralled
 
 Or terrified, before the sultan's council at {{p|Edirne}},
-And offered a choice: a miracle, or death, or Islam.
-He took the turban. *Aziz Mehmed Efendi*. The journey
+And offered a choice: a miracle, or death, or {{x|Islam}}.
+He took the turban. *{{c|Aziz Mehmed Efendi}}*. The journey
 Was over. The messiah had converted. The calm
 
 Of the morning after: shame, disbelief, the scattering.
 Some said it was a mystery, a descent into the husks
-To gather the last sparks. A few followed him into Islam, the battering
+To gather the last sparks. A few followed him into {{x|Islam}}, the battering
 Of their faith turned inside out: the {{c|Dönme}} of {{p|Thessaloniki}}, the dusks
 
 Of their secret rites kept for two hundred years. And most
 Went home, and unpacked, and mourned. Except the barrels in {{p|Hameln}}:
-Glückel says her father-in-law kept them packed, for the ghost
+{{c|Glückel}} says her father-in-law kept them packed, for the ghost
 Of a hope, for three years, before he finally let them in
 
 To the house again. He died in exile in 1676,
-In {{p|Ulcinj}}, on the Adriatic, on {{c|Yom Kippur}}, they say.
+In {{p|Ulcinj}}, on the {{p|Adriatic}}, on {{c|Yom Kippur}}, they say.
 Now, on {{c|Sukkot}}. The festival of booths: you leave the bricks
 And live seven days in a hut of branches, open to the sky. The way
 

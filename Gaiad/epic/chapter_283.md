@@ -1,8 +1,8 @@
 # Chapter 283: No Place Empty
 
-After the messiah who took the turban, the Jews of {{p|Poland}} and {{p|Ukraine}}
+After the messiah who took the turban, the {{c|Jews}} of {{p|Poland}} and {{p|Ukraine}}
 Were ashamed, and poor, and the learned were proud of their learning,
-And the poor who could not read the Talmud stood outside the plain
+And the poor who could not read the {{x|Talmud}} stood outside the plain
 Of the scholars' world, and prayed the words without discerning
 
 What they meant, and were told they were nothing. And in {{p|Podolia}},
@@ -17,7 +17,7 @@ The {{p|Carpathian}} hills, a hidden man, and the bringing
 
 Of his secret out came late, when he was thirty-six, the story says.
 He was a *baal shem*, a master of the Name: a healer, a writer of amulets,
-And they called him the {{c|Baal Shem Tov}}, the Master of the Good Name, the praise
+And they called him the {{c|Baal Shem Tov}}, the {{c|Master of the Good Name}}, the praise
 Of the villages. He settled at {{p|Medzhybizh}}, around 1740. The lets
 
 And hindrances of the old way he did not abolish. He kept the law.
@@ -25,7 +25,7 @@ But he taught a different heart in it. God is everywhere:
 *There is no place empty of Him.* In the field, the straw,
 The tavern, the stranger, the evil thought, the prayer.
 
-Every spark of the broken vessels the Kabbalists had mourned
+Every spark of the broken vessels the {{c|Kabbalists}} had mourned
 Was here, in the ordinary, waiting to be lifted with joy.
 Not with fasting. With joy. The sad are far from God; the scorned
 And the simple are near. And the story they tell of the boy:
@@ -48,14 +48,14 @@ Of the tales passed on by the poor, the parables, the rigid
 Made soft. And the movement spread like water through the villages:
 {{c|Hasidism}}, the way of the pious, dancing in the prayer house,
 Following a holy man, a *rebbe*, a righteous one, whose courtyard and its images
-Of feasting and song drew the poor in. And the Vilna Gaon, who would house
+Of feasting and song drew the poor in. And the {{c|Vilna Gaon}}, who would house
 
 No compromise, the greatest scholar of the age in {{p|Vilnius}},
 Excommunicated them in 1772: these are dancers, not scholars, a sect.
 The quarrel lasted a generation, and then, like the illness
 Of every quarrel, cooled, and both sides were what kept
 
-The Jews of the East Jewish when the modern world came for them.
+The {{c|Jews}} of the East {{x|Jewish}} when the modern world came for them.
 And here is the thing for this book. The rebbes' courts became dynasties.
 The holiness passed from father to son, and son-in-law, the hem
 Of the rebbe's coat held by his heirs: genealogies
@@ -70,8 +70,8 @@ Hold the two: the teaching that holiness is in everyone, everywhere,
 And the dynasties that made it run in families. The will
 Of the movement was for the simple; the courts grew rich. The prayer
 
-Of the shepherd's pipe is the part to keep. And this, which the Gaiad shares
-With the Master of the Good Name: there is no place empty.
+Of the shepherd's pipe is the part to keep. And this, which the {{x|Gaiad}} shares
+With the {{c|Master of the Good Name}}: there is no place empty.
 The divine, or the sacred, or the life, is in all of it: the stairs,
 The straw, the stranger, the smallest thing. The plenty
 

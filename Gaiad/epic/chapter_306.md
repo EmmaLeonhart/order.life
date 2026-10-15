@@ -1,6 +1,6 @@
 # Chapter 306: Who Names the Good
 
-In July of 1887, at {{p|Sils Maria}}, in the Upper Engadine,
+In July of 1887, at {{p|Sils Maria}}, in the {{p|Upper Engadine}},
 {{c|Friedrich Nietzsche}} wrote a polemic.
 He dated the preface there, that month.
 He said later that between the tenth and the thirtieth
@@ -8,7 +8,7 @@ The thing was decided, written, and sent to the press.
 
 On the seventeenth of July the manuscript went to {{p|Leipzig}},
 To {{c|Constantin Georg Naumann}}, who had printed, the year before,
-*Beyond Good and Evil*, at the author's cost.
+*{{x|Beyond Good and Evil}}*, at the author's cost.
 Print this one the same, he asked. The same type. The same paper.
 So the new book would stand as the old book's continuation.
 The reverse of the title page says it: added, to supplement and to clarify.
@@ -24,7 +24,7 @@ Under what conditions did we invent good and evil, and what are they worth.
 He was answering a friend as well as a school.
 {{c|Paul Rée}} had derived the moral sensations from usefulness,
 The good as what helped the person who received it.
-Nietzsche wanted a different history, and he wanted it to cut.
+{{c|Nietzsche}} wanted a different history, and he wanted it to cut.
 
 The first essay sets two namings side by side.
 Good and bad: the nobles, he says, named themselves the good,
@@ -32,7 +32,7 @@ And named the others plain, low, bad.
 Good and evil: a second naming, in which the powerful are called evil
 And the powerless are called the good.
 He calls the second a revolt of slaves.
-And he names the Jews as the people who began it.
+And he names the {{c|Jews}} as the people who began it.
 
 That sentence is his. It is not a finding.
 A history of the word good that needs one nation
@@ -43,10 +43,10 @@ Pointing is not the method. It is the thing the method is for catching.
 A party has defined itself as the harmed, and the other party as the harm.
 
 He offers histories of words on the way.
-One of them makes the Latin for bad mean dark.
+One of them makes the {{x|Latin}} for bad mean dark.
 That one does not hold.
-The German in the second essay does.
-Schuld is guilt, and Schuld is a debt.
+The {{x|German}} in the second essay does.
+{{x|Schuld}} is guilt, and {{x|Schuld}} is a debt.
 A thing owed to a conscience began, he says, as a sum owed,
 And the bad conscience is cruelty with no street left to spend itself in,
 Turned inward on the person who may no longer be cruel outside.
@@ -71,7 +71,7 @@ And every name on a day came from somewhere.
 Refuse the awards. He gives the first good to the masters,
 The ones strong enough to call themselves good and make it stick.
 He gives the second good to the resentful,
-And he gives the making of that resentment to the Jews.
+And he gives the making of that resentment to the {{c|Jews}}.
 The first award is a rank in the costume of a chronicle.
 The second award is the same rank turned over,
 With a people set under it as the cause.

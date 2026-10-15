@@ -1,6 +1,6 @@
 # Chapter 317: The Plugs and the Point
 
-On the tenth of December, 1945, at the Moore School in {{p|Philadelphia}},
+On the tenth of December, 1945, at the {{p|Moore School}} in {{p|Philadelphia}},
 A room of tubes was put to work.
 The room had been built for the path of a shell.
 The work of that December was a study brought from {{p|Los Alamos}},
@@ -13,14 +13,14 @@ Do not make the study into the reason the room existed.
 The contract was a table of firing.
 
 The contract was signed on the fifth of June, 1943.
-The Army's laboratory at {{p|Aberdeen}} wanted the tables.
+The {{x|Army}}'s laboratory at {{p|Aberdeen}} wanted the tables.
 {{c|Herman Goldstine}} brought the money and watched the work.
 {{c|John Mauchly}} and {{c|J. Presper Eckert}} designed the machine.
-They called the work Project PX.
+They called the work {{x|Project PX}}.
 A person who calculated for a living was called a computer.
 The machine took the name of that work.
-Electronic Numerical Integrator and Computer.
-The letters are ENIAC.
+{{x|Electronic Numerical Integrator}} and Computer.
+The letters are {{x|ENIAC}}.
 The name does not say what the December work was.
 
 It did not hold its own instructions.
@@ -42,13 +42,13 @@ Six of the computers were set to the machine.
 {{c|Marlyn Wescoff}}.
 {{c|Frances Bilas}}.
 {{c|Ruth Lichterman}}.
-Goldstine called them operators.
+{{c|Goldstine}} called them operators.
 The designation given the women was subprofessional.
 The men with the same mathematics were called professionals.
 
 On the evening of the fourteenth of February, 1946,
 They showed the machine.
-Betty Snyder and Jean Jennings had set the demonstration.
+{{c|Betty Snyder}} and {{c|Jean Jennings}} had set the demonstration.
 It was the path of a shell.
 A person at a desk would have taken weeks.
 {{c|Herman Goldstine}} and {{c|Adele Goldstine}} were credited for it.
@@ -60,7 +60,7 @@ Tubes failed.
 The room stopped until the failed one was found.
 
 Do not call it the first.
-In England {{c|Tommy Flowers}} had already set a machine of tubes
+In {{p|England}} {{c|Tommy Flowers}} had already set a machine of tubes
 To one purpose, and the purpose was kept secret.
 In {{p|Berlin}}, {{c|Konrad Zuse}} had already run a sequence
 On a machine of relays.
@@ -70,7 +70,7 @@ Had started a machine of tubes.
 The work was stopped in 1942.
 This was the one they showed.
 
-On the twenty-ninth of July, 1947, they turned it on at Aberdeen.
+On the twenty-ninth of July, 1947, they turned it on at {{p|Aberdeen}}.
 The proving ground was the place the tables had been for.
 At eleven forty-five in the night, on the second of October, 1955,
 It was turned off.
@@ -85,7 +85,7 @@ They had not yet named it.
 {{c|William Shockley}} was the head of their group.
 He was not the hand on the point that day.
 On the twenty-third they showed it to the laboratory.
-He called the demonstration a magnificent Christmas present.
+He called the demonstration a magnificent {{x|Christmas}} present.
 Early in 1948 he worked out a different device,
 A layer between two layers, which could be made to a pattern.
 That device was not the object in the December room.
@@ -95,7 +95,7 @@ Before the announcement, the laboratory chose a name.
 They called it a transistor.
 On the thirtieth of June, 1948, in {{p|New York}}, they told the press.
 The device of that December was delicate.
-Do not move the later device back into the Christmas demonstration.
+Do not move the later device back into the {{x|Christmas}} demonstration.
 
 A tube is a finite means.
 A point on a crystal is a finite means.

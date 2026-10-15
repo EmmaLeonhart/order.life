@@ -2,8 +2,8 @@
 
 In the abbey garden at {{p|Brno}}, {{c|Gregor Mendel}} counted peas.
 He had come from {{p|Hynčice}} as {{c|Johann}}, a farmer's son,
-And taken the name Gregor with the habit. On his knees
-In the rows of the Augustinians, year after year, he was one
+And taken the name {{c|Gregor}} with the habit. On his knees
+In the rows of the {{c|Augustinians}}, year after year, he was one
 
 Man with a brush and a tally. Seven differences, kept apart:
 The seed yellow or green, the seed round or wrinkled, the stem
@@ -22,10 +22,10 @@ Under for a generation, and return whole, not mixed into a blur.
 
 He said it in {{p|Brno}} on the eighth of February, 1865,
 And again on the eighth of March, to the naturalists' society.
-The next year they printed it: *Experiments on Plant Hybrids*.
+The next year they printed it: *{{x|Experiments on Plant Hybrids}}*.
 He sent the paper out. The century did not take the variety
 
-Of what he had counted. He wrote to {{c|Carl Nägeli}}, and Nägeli
+Of what he had counted. He wrote to {{c|Carl Nägeli}}, and {{c|Nägeli}}
 Pointed him to hawkweed, and hawkweed sets its seed alone,
 Without the cross. The ratios would not come. The tally
 Of the peas had been the truth, and the next plant overthrew the tone
@@ -50,9 +50,9 @@ Men of science, the names a nation keeps because they are known.
 The eminent had eminent kin, past what chance would hand us.
 So, he said, ability is inherited, and a people is grown
 
-By which of its stocks it lets continue. *Hereditary Genius*,
-Macmillan, 1869. He did not yet say eugenics.
-That word is his, in 1883, from the Greek for well-born,
+By which of its stocks it lets continue. *{{x|Hereditary Genius}}*,
+{{x|Macmillan}}, 1869. He did not yet say eugenics.
+That word is his, in 1883, from the {{x|Greek}} for well-born,
 A name for arranging births. The earlier book already has the premises:
 
 Let the eminent marry young. Discourage the rest.
@@ -67,8 +67,8 @@ The zeal mattered. Fifty pages is not the whole book.
 
 A warm letter is not a license for a hand on who is born.
 Hold both facts. The counting, in both gardens, was real.
-Mendel saw a hidden factor survive intact, and knew it
-By the ratio. Galton saw a distribution, and the appeal
+{{c|Mendel}} saw a hidden factor survive intact, and knew it
+By the ratio. {{c|Galton}} saw a distribution, and the appeal
 
 He made of it was a policy. One of them described
 How a trait goes on. The other made a mission of which
@@ -88,7 +88,7 @@ What no directory entered, what the visible generation spurned,
 Is not gone. It is recessive to the page, and it comes back
 Entire in some child who will never be eminent, and in some
 Who will, and the eminence is not the test. The lack
-In Galton's list is the list. It can only see the sum
+In {{c|Galton}}'s list is the list. It can only see the sum
 
 Of reputations. An ancestor day is the other eye:
 Everyone who lived, in the line of the living, or in the living

@@ -16,8 +16,8 @@ The king gave them a charter in 1662: the {{c|Royal Society}}. The lump
 Of the old learning, the authority of the ancients, the one
 
 Who must be believed because he was {{c|Aristotle}}, they set aside
-With a motto: *Nullius in verba*. Take nobody's word for it.
-Not the king's, not the Church's, not the philosopher's, not the pride
+With a motto: *{{x|Nullius in verba}}*. Take nobody's word for it.
+Not the king's, not the {{x|Church}}'s, not the philosopher's, not the pride
 Of the learned. See it. Weigh it. Do it again. Commit
 
 The result to the record, and let the others try.
@@ -27,17 +27,17 @@ Of the world would be settled by the eye, not the business
 
 Of argument. {{c|Robert Boyle}} and his pump: a bird in a glass,
 The air drawn out, and the bird dying, and the air let back in.
-{{c|Robert Hooke}}, the Society's curator of experiments, would pass
+{{c|Robert Hooke}}, the {{x|Society}}'s curator of experiments, would pass
 A flea under his microscope and draw it, the bristles, the skin
 
-Of armour, enormous, in *Micrographia*, in 1665,
+Of armour, enormous, in *{{x|Micrographia}}*, in 1665,
 And look at a slice of cork and see little rooms, and call them *cells*.
 The word is his. Every living thing is made of them. The hive
 Of the body, the leaf, the whale, the child: cells.
 
 And in the same year, {{c|Henry Oldenburg}}, the secretary, began
-To print the letters that came in from every country: *Philosophical
-Transactions*, the oldest scientific journal still in print. The plan
+To print the letters that came in from every country: *{{x|Philosophical}}
+{{x|Transactions}}*, the oldest scientific journal still in print. The plan
 Was a register of discovery: who saw what, when. The radical
 
 Idea that knowledge belongs to whoever saw it first and published it,
@@ -55,13 +55,13 @@ Woman at a meeting. The first woman elected a Fellow came in 1945.
 Two hundred and eighty-five years. Hold it. The thirst
 For evidence did not reach the evidence of who was alive
 
-Around the table. And the Society ran out of money. In 1686 they printed
-A *History of Fishes*, lavishly, and it did not sell.
-So when {{c|Newton}}'s *Principia* came, in 1687, the book that minted
-The laws of motion and of gravity, the Society, unable to tell
+Around the table. And the {{x|Society}} ran out of money. In 1686 they printed
+A *{{x|History of Fishes}}*, lavishly, and it did not sell.
+So when {{c|Newton}}'s *{{x|Principia}}* came, in 1687, the book that minted
+The laws of motion and of gravity, the {{x|Society}}, unable to tell
 
 The printer yes, let {{c|Edmond Halley}} pay for it himself,
-And paid Halley his salary, they say, in unsold copies of the fishes.
+And paid {{c|Halley}} his salary, they say, in unsold copies of the fishes.
 The greatest book of science came off the shelf
 Because a young astronomer paid. The wishes
 
@@ -70,12 +70,12 @@ Of an institution are not the whole of its work.
 Take nobody's word for it: not even his. The quirk
 Of the motto is that it turns on its makers. The archivals
 
-Of the Society keep the quarrels too: {{c|Hooke}} and {{c|Newton}}, the priority
+Of the {{x|Society}} keep the quarrels too: {{c|Hooke}} and {{c|Newton}}, the priority
 Of the calculus, the committee {{c|Newton}} secretly wrote the report of himself.
-Hold this, near the end of Virgo: the greatest authority
+Hold this, near the end of {{c|Virgo}}: the greatest authority
 Of the modern age was founded on the refusal of authority. The shelf
 
 Of scripture this book is making must keep the same rule.
-Do not believe the Gaiad because it is scripture. Check it.
+Do not believe the {{x|Gaiad}} because it is scripture. Check it.
 Repeat it. Where it dreams, it says so. Where it errs, the tool
 Of correction is open to anyone. That is the oath. Respect it.

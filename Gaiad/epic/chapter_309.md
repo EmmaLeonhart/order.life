@@ -3,7 +3,7 @@
 On the fourteenth of March, 1905, {{c|Albert Einstein}} turned twenty-six.
 He had been born in {{p|Ulm}} on that day in 1879.
 He was in {{p|Bern}}.
-He had been a Swiss citizen since the twenty-first of February, 1901.
+He had been a {{x|Swiss}} citizen since the twenty-first of February, 1901.
 On the nineteenth of June, 1902, the federal patent office there
 Had chosen him technical expert of the third class.
 By day he judged other people's machines.
@@ -12,14 +12,14 @@ The office was a register of inventions.
 On the sixth of January it had been two years
 Since he married {{c|Mileva Marić}}.
 
-Three days after the birthday he sent a paper to the Annalen der Physik.
+Three days after the birthday he sent a paper to the {{x|Annalen der Physik}}.
 The journal received it on the eighteenth of March,
 And printed it on the ninth of June.
 On a heuristic point of view
 Concerning the production and transformation of light.
 {{c|Max Planck}}, in 1900, had portioned the energy of the oscillators
 That absorb and emit.
-Einstein portioned the light itself.
+{{c|Einstein}} portioned the light itself.
 A quantum of it carries an energy proportional to the frequency of the light.
 He did not, in March, call the paper revolutionary.
 That word comes in May, in a letter, and it is for this paper.
@@ -29,17 +29,17 @@ To the University of {{p|Zurich}}.
 A new determination of molecular dimensions.
 The size of a molecule, taken from diffusion
 And from the drag inside a dilute solution.
-On the twenty-seventh of July the Philosophy II faculty approved it,
+On the twenty-seventh of July the {{x|Philosophy II}} faculty approved it,
 Unanimously.
 The degree was dated the fifteenth of January, 1906.
 Through the months of the papers, he was not yet formally the doctor.
 
-On the eleventh of May the Annalen received the next.
+On the eleventh of May the {{x|Annalen}} received the next.
 Particles on the order of a thousandth of a millimeter,
 Suspended in a liquid that is otherwise still,
 Must already wander so that the wander can be seen,
 If heat is the motion of molecules.
-Physiologists had watched that wander and named it Brownian.
+Physiologists had watched that wander and named it {{x|Brownian}}.
 He had not discovered the motion.
 He showed that molecules, if they are real, require it,
 And he set down the measure of the wander,
@@ -48,7 +48,7 @@ The journal printed that paper on the eighteenth of July.
 
 On the fourteenth of May his son, {{c|Hans Albert Einstein}}, turned one.
 
-On the eighteenth of May he wrote from Bern to {{c|Conrad Habicht}},
+On the eighteenth of May he wrote from {{p|Bern}} to {{c|Conrad Habicht}},
 Who was no longer in the city.
 He promised four papers.
 The first, on radiation and the energy of light, he called very revolutionary.
@@ -61,7 +61,7 @@ By a modification of the teaching of space and time.
 He worked that fourth paper out in talk with {{c|Michele Besso}},
 At the same office.
 He later said he sent it five or six weeks after the idea came.
-The Annalen received it on the thirtieth of June.
+The {{x|Annalen}} received it on the thirtieth of June.
 On the electrodynamics of moving bodies.
 Printed the twenty-sixth of September.
 About thirty pages. No list of authorities.
@@ -94,13 +94,13 @@ The length of a duration is not shared either.
 What is shared is the speed, and the form of the laws.
 
 The paper names no book and no predecessor.
-It ends by thanking Besso, friend and colleague,
+It ends by thanking {{c|Besso}}, friend and colleague,
 For his help, and for suggestions.
 One living name. No bibliography.
 
-In the late summer Einstein went with Mileva and the child to {{p|Serbia}},
+In the late summer {{c|Einstein}} went with {{c|Mileva}} and the child to {{p|Serbia}},
 To friends, and to her family.
-On the twenty-seventh of September the Annalen received three pages.
+On the twenty-seventh of September the {{x|Annalen}} received three pages.
 Does the inertia of a body depend upon its energy content?
 Printed the twenty-first of November.
 If a body gives off energy as light, its mass lessens
@@ -108,10 +108,10 @@ By that energy divided by the square of the speed of light.
 The page does not contain the line the world later printed.
 The line is a later writing of what the three pages showed.
 
-In the same year the Annalen's supplement carried twenty-one short reviews
+In the same year the {{x|Annalen}}'s supplement carried twenty-one short reviews
 He had written, of papers on heat.
 The work he called revolutionary, and the ordinary notice of other work,
-Went out of the same months in Bern.
+Went out of the same months in {{p|Bern}}.
 
 Keep the distinction he made on the eighteenth of May.
 The countable light, he called revolutionary.
