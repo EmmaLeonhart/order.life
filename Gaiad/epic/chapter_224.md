@@ -13,7 +13,7 @@ The first door shut in {{p|Granada}}.
 The crescent and the cross had furled
 And unfurled across {{p|Iberia}}, the tears
 
-And the triumphs of the long Reconquista:
+And the triumphs of the long {{x|Reconquista}}:
 From {{p|Covadonga}}'s desperate mountain stand
 Where {{c|Pelayo}} held the thin resistor
 Of the Christian remnant's band
@@ -43,7 +43,7 @@ Where {{c|Muslim}}, {{c|Christian}}, and {{c|Jew}} had lived
 In an imperfect but real constellation
 Of coexistence—where the sieve
 
-Of translation passed the Greek and {{c|Roman}} texts
+Of translation passed the {{x|Greek}} and {{c|Roman}} texts
 Through {{c|Arabic}} to {{c|Latin}}, where {{c|Maimonides}}
 And {{c|Averroes}} probed the complex
 And knotted questions of the divine decrees,
@@ -114,7 +114,7 @@ Whose roots ran deep as the olive trees
 Of {{p|Andalusia}}—two hundred thousand waders
 
 Through grief, given four months to leave
-Or convert: the lute and Torah borne
+Or convert: the lute and {{x|Torah}} borne
 Away, the hearthstone, the weave
 Of fifteen centuries torn—
 

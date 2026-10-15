@@ -8,7 +8,7 @@ The modern world emerged, still raw from hell.
                                         The first:
 
 In {{p|Gascony}}, where vineyards met the sword,
-The longest war in Christendom reversed
+The longest war in {{c|Christendom}} reversed
 Its verdict—{{c|England}}'s claim upon the board
 Of {{p|France}} was broken, scattered, and dispersed.
 
@@ -135,7 +135,7 @@ The {{c|Greek}} philosophers and their careful hands
 Carried westward through their exile's tears
 The manuscripts to {{p|Italy}}'s welcoming lands.
 
-And what they carried was the Renaissance.
+And what they carried was the {{x|Renaissance}}.
 The seeds of {{c|Plato}} planted in {{p|Florence}}'s soil,
 The rediscovery of the ancient dance
 Of reason and of beauty—all the toil

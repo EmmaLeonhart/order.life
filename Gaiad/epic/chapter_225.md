@@ -68,7 +68,7 @@ Of the temporary shelter on the beach.
 They did not walk to {{p|America}}. They came
 By boat—the humble craft whose reach
 
-Was the greatest vehicle of the Pleistocene:
+Was the greatest vehicle of the {{x|Pleistocene}}:
 The skin-boat, the dugout, the sewn-plank
 Canoe that hugged the coastline's evergreen
 And kelp-draped shore—they drank
@@ -80,8 +80,8 @@ Of the tidal fisher and the searchin'
 
 Eye that read the current and the swell.
 
-No Bering bridge of dusty steppe—
-The oldest Americans knew well
+No {{p|Bering}} bridge of dusty steppe—
+The oldest {{c|Americans}} knew well
 The ocean's rhythm, and their step
 
 Was the paddle-stroke, their road the littoral,
@@ -103,7 +103,7 @@ Of human habitation, the sturdy
 And undeniable proof that people lived
 At the far end of the {{p|Americas}}
 Before the inland ice-free corridor contrived
-To open—which means the Americas'
+To open—which means the {{p|Americas}}'
 
 First peoples came by sea.
 
@@ -115,7 +115,7 @@ Of thirteen thousand years, alone
 On an island that could only be reached by boat.
 
 {{p|Paisley Caves}} in {{p|Oregon}}, the coprolites
-Of the first Americans—note by note
+Of the first {{c|Americans}}—note by note
 The evidence accumulates, the rights
 
 Of the coastal theory vindicated
@@ -127,7 +127,7 @@ And the interior was locked.
 
                                And south they went—
 Past {{p|California}}'s golden kelp-forests,
-Past {{p|Mexico}}'s warm Pacific coast, the bent
+Past {{p|Mexico}}'s warm {{p|Pacific}} coast, the bent
 And narrowing land of {{p|Central America}}'s crests,
 
 To {{p|Colombia}} and {{p|Ecuador}} and the long

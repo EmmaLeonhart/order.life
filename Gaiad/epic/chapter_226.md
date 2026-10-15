@@ -21,7 +21,7 @@ Ground sloth, the horse, the camel—
 Everything that was defiant
 And enormous on the enamel
 
-Of the {{p|Americas}}' Pleistocene stage.
+Of the {{p|Americas}}' {{x|Pleistocene}} stage.
 
 Thirteen thousand years before our era,
 The {{c|Clovis}} people turned the page
@@ -80,7 +80,7 @@ And the {{p|Americas}} shuddered.
                                  The megafauna
 Had evolved for fifty million years
 Without a human predator—the fauna
-Of the New World knew no fears
+Of the {{p|New World}} knew no fears
 
 Of the upright ape, had no instinct
 To flee the two-legged shadow on the plain—
@@ -151,7 +151,7 @@ Of the {{c|Clovis}} technology's anoint-
 Ment gave way to {{c|Folsom}} and to {{c|Dalton}},
 To {{c|Plano}} and to {{c|Eden}},
 Each one tuned to its local exaltation
-Of the hunt: the bison of the Eden
+Of the hunt: the bison of the {{c|Eden}}
 
 Point's long and narrow blade, the {{c|Folsom}}'s
 Delicate channel for the smaller game—

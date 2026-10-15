@@ -76,7 +76,7 @@ Material—the symbiotic run
 
 Of coast and valley, fisher and farmer,
 Protein and fiber intertwined
-In the Americas' first economic charmer:
+In the {{p|Americas}}' first economic charmer:
 The fish fed the farmer, the farmer's twined
 
 Cotton nets caught the fish—the circle
@@ -88,7 +88,7 @@ Free offering to the powers of the earth.
 
 Contemporary with {{p|Sumer}}'s ziggurats—
 Contemporary with the {{p|Nile}}'s rebirth
-In the Old Kingdom's acrobats
+In the {{x|Old Kingdom}}'s acrobats
 
 Of stone—the {{c|Norte Chico}} stood
 As proof that civilization was no accident
@@ -125,7 +125,7 @@ And staggering logistics of the known
 
 And unknown engineering: raft and roller,
 Rope and ramp and the coordinated pull
-Of hundreds—the Olmec comptroller
+Of hundreds—the {{c|Olmec}} comptroller
 Marshaling the beautiful
 
 And brutal labor for the portrait
@@ -146,7 +146,7 @@ In basalt, and the rendering
 Was the first great portraiture of the {{p|Americas}}.
 
 And more—the {{c|Olmec}} gave the calendar:
-The Long Count's vast and mathematical theatres
+The {{x|Long Count}}'s vast and mathematical theatres
 Of time, the vigesimal and regular
 
 System of the {{c|Maya}} that the {{c|Olmec}}
@@ -190,7 +190,7 @@ Of the ceremonial center.
                                Honor {{p|Caral}}
 And the fishers of the {{p|Peruvian}} coast
 Whose nets and flutes built the corral
-Of the Americas' first urban post—
+Of the {{p|Americas}}' first urban post—
 
 And honor the {{c|Olmec}} and their colossal
 Heads that stare from the jungle floor

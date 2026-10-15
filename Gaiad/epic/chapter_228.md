@@ -151,7 +151,7 @@ Its cold and fertile upwelling through
 
 The driest land on earth—the paradox
 Of the richest sea beside the barest shore—
-The first Americans built the orthodox
+The first {{c|Americans}} built the orthodox
 And foundational settlements, the core
 
 Of what would become the {{c|Norte Chico}}:
@@ -192,7 +192,7 @@ Of {{p|Peru}}'s dry coast whose need
 And ingenuity were the swishers
 
 Of the net through the cold and teeming sea:
-The first Americans who chose to stay,
+The first {{c|Americans}} who chose to stay,
 Who built the permanent village, the decree
 Of the settled life—and paved the way
 

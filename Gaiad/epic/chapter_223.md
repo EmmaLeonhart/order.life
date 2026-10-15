@@ -131,7 +131,7 @@ The gap between the human and divine
 So small, so charged with the devout
 
 And trembling almost-touch—the sign
-That the Renaissance believed above all:
+That the {{x|Renaissance}} believed above all:
 That the human is worthy of the reaching,
 That the space between the mortal and the tall
 
@@ -197,7 +197,7 @@ And in this find the age declared its creed:
 That the ancient world was not the ceiling
 But the floor—and the feast was only starting.
 
-Honor the Renaissance—the light
+Honor the {{x|Renaissance}}—the light
 That {{p|Florence}} kindled, the departing
 Darkness that gave way to the sight
 
@@ -213,7 +213,7 @@ And heir—and the living are not led
 
 By the dead but carry them forward,
 As the river carries the mountain's snow
-To the sea—and the Renaissance poured toward
+To the sea—and the {{x|Renaissance}} poured toward
 The future everything it came to know:
 
 That beauty is a form of truth,

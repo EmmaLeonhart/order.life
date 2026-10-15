@@ -36,7 +36,7 @@ But for the state—the slow and steady wax
 Of power gathered to a single throne.
 
 {{c|Ivan I}} had been the {{c|Khan}}'s collector—
-{{c|Kalita}}, "Moneybags," who gathered gold
+{{c|Kalita}}, "{{c|Moneybags}}," who gathered gold
 For {{p|Sarai}} and kept his share, the vector
 Of {{p|Moscow}}'s rise from timber-fort to hold
 

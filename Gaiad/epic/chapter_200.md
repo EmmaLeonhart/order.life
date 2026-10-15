@@ -5,87 +5,87 @@ the history of the Christian West.
 Converted by {{c|Saint Patrick}} in the fifth century,
 it became a center of monastic learning blessed.
 
-While the rest of Western Europe was being
-overrun by barbarian invasions, Ireland was safe,
-an island beyond the reach of Rome's fall,
+While the rest of {{p|Western Europe}} was being
+overrun by barbarian invasions, {{p|Ireland}} was safe,
+an island beyond the reach of {{p|Rome}}'s fall,
 where classical learning found a haven safe.
 
-Irish monks preserved Greek and Latin manuscripts
+Irish monks preserved {{x|Greek}} and {{x|Latin}} manuscripts
 that would otherwise have been lost.
-{{c|Columba}} founded {{p|Iona}} in Scotland in 563.
+{{c|Columba}} founded {{p|Iona}} in {{p|Scotland}} in 563.
 {{c|Columbanus}} founded monasteries across the continent's frost.
 
-{{c|Aidan}} of Lindisfarne evangelized northern England.
+{{c|Aidan}} of {{p|Lindisfarne}} evangelized northern {{p|England}}.
 The {{c|Book of Kells}}, the most beautiful illuminated manuscript
-in the world, was produced in Iona or Kells around 800,
+in the world, was produced in {{p|Iona}} or {{p|Kells}} around 800,
 a masterpiece of interlaced Celtic art, intricate.
 
-Ireland was politically divided into
+{{p|Ireland}} was politically divided into
 numerous small kingdoms (tuath), with
 overkings (ri ruirech) and finally the {{c|High King}}
-(Ard Rí) at {{p|Tara}}, a ceremonial central kinship.
+({{x|Ard Rí}}) at {{p|Tara}}, a ceremonial central kinship.
 
-The Viking raids began devastating Ireland
-in 795. The monastery of Iona was sacked repeatedly.
-The Vikings founded trading towns — Dublin, Waterford,
-Cork, Limerick, Wexford — which Ireland had not previously.
+The Viking raids began devastating {{p|Ireland}}
+in 795. The monastery of {{p|Iona}} was sacked repeatedly.
+The {{c|Vikings}} founded trading towns — {{p|Dublin}}, {{p|Waterford}},
+{{p|Cork}}, {{p|Limerick}}, {{p|Wexford}} — which {{p|Ireland}} had not previously.
 
-(Pre-Viking Ireland had no towns. It was a rural,
-tribal, monastic society. The Vikings introduced
+(Pre-Viking {{p|Ireland}} had no towns. It was a rural,
+tribal, monastic society. The {{c|Vikings}} introduced
 urban life. Those original Norse-Irish towns
-remained the major cities of Ireland, preserved, produced.)
+remained the major cities of {{p|Ireland}}, preserved, produced.)
 
 {{c|Brian Boru}} (c. 941-1014) rose from
-the {{p|Dál gCais}} of {{p|Munster}} to become High King
-of Ireland in 1002, the first to actually
+the {{p|Dál gCais}} of {{p|Munster}} to become {{c|High King}}
+of {{p|Ireland}} in 1002, the first to actually
 unite the island under his ruling wing.
 
-He defeated the Vikings and the allied
-Leinster kings at the {{c|Battle of Clontarf}} on
-Good Friday 1014. The battle broke the Norse
-power in Ireland, though it was won-
+He defeated the {{c|Vikings}} and the allied
+{{p|Leinster}} kings at the {{c|Battle of Clontarf}} on
+{{x|Good Friday}} 1014. The battle broke the {{c|Norse}}
+power in {{p|Ireland}}, though it was won-
 
-but at the cost of Brian Boru's own life.
+but at the cost of {{c|Brian Boru}}'s own life.
 He was killed in his tent as the battle ended,
-by fleeing Vikings who stumbled upon him at prayer.
+by fleeing {{c|Vikings}} who stumbled upon him at prayer.
 His dynasty would not survive as he had intended.
 
-After Brian Boru, Ireland returned to
+After {{c|Brian Boru}}, {{p|Ireland}} returned to
 disunity and warfare between provincial kings.
-In 1169, the Normans invaded at the invitation
-of the deposed king of Leinster, with rings
+In 1169, the {{c|Normans}} invaded at the invitation
+of the deposed king of {{p|Leinster}}, with rings
 
 of mail and plate. The Anglo-Norman invasion
 would begin eight centuries of English involvement
-in Ireland, which would not end until 1922
+in {{p|Ireland}}, which would not end until 1922
 (and is not yet fully ended with Northern Irish movement).
 
 But the cultural and religious legacy of
-Celtic Christianity remained distinctive.
+Celtic {{x|Christianity}} remained distinctive.
 The Irish monks had kept alive learning
-during the Dark Ages, a unique incentive.
+during the {{x|Dark Ages}}, a unique incentive.
 
 {{c|John Scotus Eriugena}} (815-877), an Irish scholar
 at the court of {{c|Charles the Bald}}, was the most
-sophisticated philosopher of the Carolingian Renaissance,
-working in Greek as well as Latin, a rare ghost.
+sophisticated philosopher of the {{x|Carolingian Renaissance}},
+working in {{x|Greek}} as well as {{x|Latin}}, a rare ghost.
 
-He translated {{c|Pseudo-Dionysius the Areopagite}} from Greek,
-bringing Neoplatonism into Latin Christianity.
-He wrote the Periphyseon, a vast Neoplatonic synthesis,
+He translated {{c|Pseudo-Dionysius the Areopagite}} from {{x|Greek}},
+bringing {{x|Neoplatonism}} into {{x|Latin}} {{x|Christianity}}.
+He wrote the {{x|Periphyseon}}, a vast Neoplatonic synthesis,
 which was condemned centuries later for pantheism and vanity.
 
 The legacy of Celtic art — the interlaced knotwork,
 the illuminated manuscripts, the high crosses —
-remained distinctive. Ireland preserved a connection
+remained distinctive. {{p|Ireland}} preserved a connection
 to the pre-Roman Celtic world through lossess.
 
-Old Irish literature preserved some of the oldest
-vernacular literature in Western Europe after Greek and Latin.
-The {{c|Táin Bó Cúailnge}}, the Cattle Raid of Cooley,
+{{x|Old Irish}} literature preserved some of the oldest
+vernacular literature in {{p|Western Europe}} after {{x|Greek}} and {{x|Latin}}.
+The {{c|Táin Bó Cúailnge}}, the {{x|Cattle Raid of Cooley}},
 the epic of {{c|Cú Chulainn}}, had pagan matin.
 
-Cú Chulainn was the Irish warrior hero,
+{{c|Cú Chulainn}} was the Irish warrior hero,
 parallel to {{c|Heracles}} and {{c|Bhima}} and others,
 the Indo-European warrior archetype,
 defending {{p|Ulster}} alone against {{p|Connacht}}'s mothers.
@@ -95,9 +95,9 @@ shape-shifting in battle, impossible feats,
 and death tied to a geis (taboo) violation.
 The Indo-European pattern recurs on these beats.
 
-{{c|Queen Medb}} of Connacht, whose name means "the intoxicating,"
+{{c|Queen Medb}} of {{p|Connacht}}, whose name means "the intoxicating,"
 is the war goddess euhemerized, corresponds
-to {{c|Maeve}} in modern Irish, to Maenads in Greek,
+to {{c|Maeve}} in modern Irish, to {{c|Maenads}} in {{x|Greek}},
 the female warrior-sovereignty of Indo-European bonds.
 
 The Irish preserved Indo-European mythological
@@ -105,12 +105,12 @@ patterns that had faded in most places,
 because of their peripheral geographic position
 and the relatively gentle conversion's traces.
 
-(Saint Patrick did not burn temples or martyrs.
+({{c|Saint Patrick}} did not burn temples or martyrs.
 He preached, he converted chiefs, the tribes followed.
-Irish Christianity absorbed rather than destroyed
+Irish {{x|Christianity}} absorbed rather than destroyed
 the old pagan elements, not hollowed.)
 
-The deflationary polytheist sees Ireland
+The deflationary polytheist sees {{p|Ireland}}
 as a kind of time capsule where Indo-European
 mythology survived in Christian clothing,
 visible in the folk traditions, superheroic accrue.

@@ -1,6 +1,6 @@
 # Chapter 217: The Eve of Sengoku
 
-In Japan, the {{c|Ashikaga Shogunate}} was losing
+In {{p|Japan}}, the {{c|Ashikaga Shogunate}} was losing
 its grip through the fifteenth century. The shoguns
 had no armies of their own — they ruled through
 the regional warlords ({{c|shugo-daimyō}}), fugu
@@ -15,17 +15,17 @@ The system broke down completely in the {{c|Ōnin War}}
 {{c|Ashikaga}} family over who would be the next shogun
 combined with succession disputes in major daimyo houses.
 
-Two coalitions formed in Kyoto, each backing different
-candidates. The war was fought in Kyoto itself. The
+Two coalitions formed in {{p|Kyoto}}, each backing different
+candidates. The war was fought in {{p|Kyoto}} itself. The
 imperial capital was burned block by block over a decade.
-The Golden Pavilion miraculously survived, beseeches.
+The {{p|Golden Pavilion}} miraculously survived, beseeches.
 
 The {{c|Kinkaku-ji}} (which would burn in 1950 by an
-unrelated arson) survived Ōnin. The temple at the center
+unrelated arson) survived {{x|Ōnin}}. The temple at the center
 of the city, {{p|Shōkoku-ji}}, and many others burned.
-Kyoto's ancient architectural inheritance was largely removed.
+{{p|Kyoto}}'s ancient architectural inheritance was largely removed.
 
-After the Ōnin War, the Ashikaga Shogunate existed only
+After the {{c|Ōnin War}}, the {{c|Ashikaga Shogunate}} existed only
 in name. The shugo had returned to their provinces,
 where they were being overthrown by their own retainers
 in a pattern called {{c|gekokujō}} — "those below overthrow-
@@ -35,27 +35,27 @@ territories were replaced by whoever could. A new
 class of warlords ({{c|sengoku daimyō}}) emerged, arising
 from military merit rather than hereditary claim.
 
-This was the beginning of the {{c|Sengoku}} ("Warring States")
-period, roughly 1467-1603. For over a century, Japan
+This was the beginning of the {{c|Sengoku}} ("{{x|Warring States}}")
+period, roughly 1467-1603. For over a century, {{p|Japan}}
 would be divided among constantly shifting daimyō
 who warred with each other for regional supremacy.
 
 Castles proliferated. Firearms would arrive from
-Portuguese traders in 1543 and change warfare permanently.
+{{c|Portuguese}} traders in 1543 and change warfare permanently.
 Massive infantry armies replaced smaller samurai-led forces.
 Peasants could rise through military merit, democratically.
 
 {{c|Oda Nobunaga}} (1534-1582) would eventually emerge
-from the chaos to begin reunifying Japan. His
+from the chaos to begin reunifying {{p|Japan}}. His
 successor {{c|Toyotomi Hideyoshi}} would complete the
 unification. {{c|Tokugawa Ieyasu}} would establish the
 
-{{c|Tokugawa Shogunate}} in 1603, ending the Sengoku era
+{{c|Tokugawa Shogunate}} in 1603, ending the {{c|Sengoku}} era
 and beginning over two centuries of peace. But that
 is the later story. For the fifteenth century's close,
-Japan was fragmenting into warring states.
+{{p|Japan}} was fragmenting into warring states.
 
-The cultural achievements of the Sengoku era are
+The cultural achievements of the {{c|Sengoku}} era are
 paradoxical — during a century of near-constant warfare,
 Japanese culture reached many of its highest forms.
 The {{c|tea ceremony}} was refined by {{c|Murata Jukō}} and
@@ -72,16 +72,16 @@ The values of loyalty, courage, honor, stoicism in the
 face of death were refined through constant warfare, release.
 
 Religious institutions also became militarized.
-The warrior monks ({{c|sōhei}}) of Mount Hiei and other
+The warrior monks ({{c|sōhei}}) of {{p|Mount Hiei}} and other
 monasteries had been military forces for centuries.
 {{c|Ikkō-ikki}} peasant-Buddhist armies controlled some provinces.
 
 These religious militaries would eventually be crushed
-by Oda Nobunaga, who burned Mount Hiei to the ground
+by {{c|Oda Nobunaga}}, who burned {{p|Mount Hiei}} to the ground
 in 1571, ending a thousand years of warrior-monk power.
 But in the late fifteenth century, they were still strong.
 
-Japan in 1453 — the year Constantinople fell — was
+{{p|Japan}} in 1453 — the year {{p|Constantinople}} fell — was
 fragmenting politically but flourishing culturally.
-The Ashikaga were losing power. The Ōnin War would
+The {{c|Ashikaga}} were losing power. The {{c|Ōnin War}} would
 erupt fourteen years later. The age of chaos began.

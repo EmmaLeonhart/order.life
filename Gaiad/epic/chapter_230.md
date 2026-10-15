@@ -19,12 +19,12 @@ Bell tolling through the canopy's wool
 
 Of mist and rain—the {{c|Maya}} cities,
 The jeweled and painted capitals
-Of the Classic age, the ditties
+Of the {{x|Classic}} age, the ditties
 Of whose glory and whose intervals
 
 Of war and peace and art and astronomical
 Precision built the most sophisticated
-Civilization of the Americas' anatomical
+Civilization of the {{p|Americas}}' anatomical
 And intellectual body—the elated
 
 And terrible and beautiful achievement
@@ -92,7 +92,7 @@ Achievement: the number that finds
 
 Its value in its emptiness.
 
-And the calendar—the Long Count's
+And the calendar—the {{x|Long Count}}'s
 Architecture of time, the press
 Of days accumulated in accounts
 
@@ -120,7 +120,7 @@ To superior knowledge.
 
                          And the eclipse—
 The {{c|Maya}} predicted eclipses
-With the Dresden Codex's apocalypse-
+With the {{x|Dresden Codex}}'s apocalypse-
 Tables, the ellipses
 
 Of the moon's shadow calculated
@@ -139,7 +139,7 @@ Of the new day prophesied and fulfilled.
 The great king whose tomb was billed
 In the crypt beneath the Temple of the Banal
 
-Inscription—no, the Temple of the Inscriptions,
+Inscription—no, the {{p|Temple of the Inscriptions}},
 The pyramid whose interior stairway
 Led down to the sarcophagus, the descriptions
 Of whose carved lid showed the {{c|Maya}}
@@ -157,7 +157,7 @@ And sacred womb
 Of the pyramid's heart.
 
                           {{p|Tikal}} and {{p|Calakmul}}—
-The superpower rivals of the Classic,
+The superpower rivals of the {{x|Classic}},
 The two great cities whose beautiful
 And savage competition was the Jurassic
 
@@ -217,7 +217,7 @@ The {{c|Maya}} are not the token
 And vanished past but the pleasant
 
 And enduring and resilient thread
-Of the Americas' oldest literate mind.
+Of the {{p|Americas}}' oldest literate mind.
 
 Honor the {{c|Maya}}—the scribes who read
 The stars and wrote the time,

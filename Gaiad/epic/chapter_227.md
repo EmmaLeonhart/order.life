@@ -54,7 +54,7 @@ A language grew alone.
 
                             {{c|Na-Dené}}—
 The great northern family whose call
-Echoed from {{p|Alaska}}'s Tlingit bay
+Echoed from {{p|Alaska}}'s {{c|Tlingit}} bay
 
 To the {{p|American Southwest}}'s canyon floor:
 A language family so distinct
@@ -62,7 +62,7 @@ From its neighbors that it bore
 The evidence of a separate and linked
 
 Migration—a second crossing from {{p|Asia}},
-Later than the first, the Na-Dené
+Later than the first, the {{c|Na-Dené}}
 Speakers carrying their aphasia
 Of the southern tongues, their own résumé
 
@@ -112,7 +112,7 @@ To build the {{c|Aztec}} empire's pillages
 
 And pyramids—one language family
 Stretching three thousand miles of latitude,
-The proof that the Americas' homily
+The proof that the {{p|Americas}}' homily
 Of connection ran beneath the multitude
 
 Of surface difference.
