@@ -31,7 +31,7 @@ Them on logs, dragging them on sledges over frozen ground,
 Floating them on rafts down the coast and up the river systems.
 No single theory has been definitively proven. What is known is
 
-That the builders, working with Neolithic technology, managed to
+That the builders, working with {{x|Neolithic}} technology, managed to
 Move roughly eighty large stones across a hundred and fifty miles
 Of hill and valley and coastline. And then—as if that were not
 Enough—they erected them at {{p|Stonehenge}} in a deliberate circular
@@ -57,9 +57,9 @@ Cut to a slight curve so that when arranged in a ring they formed
 A perfect circle. And the whole arrangement was aligned with the
 Midsummer sunrise and the midwinter sunset—the summer-solstice sun
 
-Rising directly over the Heel Stone outside the circle, the
+Rising directly over the {{p|Heel Stone}} outside the circle, the
 Winter-solstice sun setting between the two uprights of the largest
-Trilithon. {{p|Stonehenge}} is, among other things, a Neolithic
+Trilithon. {{p|Stonehenge}} is, among other things, a {{x|Neolithic}}
 Astronomical calendar, marking the two extreme points of the sun's
 
 Annual journey.
@@ -70,7 +70,7 @@ Expansion into {{p|Britain}}—the arrival of the {{p|Beaker Culture}}, which
 
 Carried {{c|R1b}} haplogroup signature and {{p|Indo-European}} language
 Into the island. Ancient DNA analysis has shown that the late
-Neolithic {{p|British}} population was almost entirely replaced—some
+{{x|Neolithic}} {{p|British}} population was almost entirely replaced—some
 Ninety percent turnover—by {{p|Beaker}}-associated populations in
 
 The early {{p|Bronze Age}}. The builders who started {{p|Stonehenge}} were
@@ -114,7 +114,7 @@ Times, scholars have proposed that {{p|Stonehenge}} was a temple,
 A calendar, an astronomical observatory, a healing shrine, a
 Place of ancestral veneration, a ritual center for the dead, a
 
-Neolithic parliament, a druidic worship site (though the
+{{x|Neolithic}} parliament, a druidic worship site (though the
 {{p|Druids}} are {{p|Iron Age}}, thousands of years later, and had no
 Connection to the original builders). The archaeological evidence
 Suggests a combination of functions. The surrounding landscape
@@ -134,17 +134,17 @@ It was a pan-{{p|British}} and even pan-{{p|European}} religious center.
 People traveled hundreds of miles to be buried there. And the
 Builders, at each phase, must have represented a coordinated
 
-Effort across multiple communities—a Neolithic and Bronze Age
+Effort across multiple communities—a {{x|Neolithic}} and {{x|Bronze Age}}
 Consensus that this place, above all others, was where the
 Monument should be.
 
-                        The Gaiad's reading of {{p|Stonehenge}} is in
+                        The {{x|Gaiad}}'s reading of {{p|Stonehenge}} is in
 Line with its reading of {{p|Göbekli Tepe}}: the temple comes first.
 
 The sacred site organizes the society around it. The monument is
 Not a byproduct of an already-existing political structure—the
 Monument is the political structure. {{p|Stonehenge}} is the organizing
-Principle around which a dispersed Neolithic and Bronze Age
+Principle around which a dispersed {{x|Neolithic}} and {{x|Bronze Age}}
 
 Population coordinated its identity. The stones are the axis mundi
 Of the prehistoric {{p|British}} world. And the fact that the monument
@@ -152,7 +152,7 @@ Survived a demographic replacement—that the incoming {{p|Beaker}}
 People adopted it rather than destroying it—suggests that its
 
 Sacred character was recognized by the newcomers. The {{p|Indo-European}}
-Speakers who were, elsewhere, dismantling the pre-existing European
+Speakers who were, elsewhere, dismantling the pre-existing {{p|European}}
 Religious landscape, spared {{p|Stonehenge}}. They even added to it.
 Whatever the monument meant, the meaning was translatable across
 
@@ -160,7 +160,7 @@ The cultural and linguistic divide between the {{p|Neolithic}} builders
 And the {{p|Beaker}} arrivers.
 
                                       And perhaps the deepest thing
-The Gaiad can say about {{p|Stonehenge}} is this: it is the monument
+The {{x|Gaiad}} can say about {{p|Stonehenge}} is this: it is the monument
 
 That has maintained its identity across the longest stretch of
 Continuous cultural memory. The pyramids of {{p|Giza}} are older, but
@@ -189,10 +189,10 @@ The stones, exactly as the original builders intended. The
 Monument still works. The astronomical alignment has not drifted.
 
 The stones still mark the solstices. {{p|Stonehenge}} is, in an
-Important sense, still a working Neolithic calendar. It is
+Important sense, still a working {{x|Neolithic}} calendar. It is
 Four and a half thousand years old and still tells the time.
 
-And the Gaiad, visiting it, says: honor them. The builders
+And the {{x|Gaiad}}, visiting it, says: honor them. The builders
 Who moved the bluestones from {{p|Wales}}. The builders who shaped
 The sarsens and raised the trilithons. The {{p|Beaker}} people who
 Inherited the project and completed it. The generations who

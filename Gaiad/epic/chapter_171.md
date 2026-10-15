@@ -18,7 +18,7 @@ Political theory, love poetry, and—at its absolute center—the
 What the {{p|Sermon on the Mount}} is for {{p|Christianity}}: a densely
 Compressed articulation of the tradition's core vision, accessible
 In isolation from the larger corpus and yet illuminating it
-Entirely. This chapter of the Gaiad will treat the {{p|Mahabharata}}
+Entirely. This chapter of the {{x|Gaiad}} will treat the {{p|Mahabharata}}
 
 In the same way the previous chapter treated the {{p|Ramayana}}: as
 A singular event in the history of human narrative imagination,
@@ -48,7 +48,7 @@ Until it reached something like its final form around four-hundred
 
 CE. Its compositional history is as complex as any text in world
 Literature. But traditional {{p|Hindu}} attribution gives the work to
-{{c|Vyasa}}, and the Gaiad will use this convention for narrative ease.
+{{c|Vyasa}}, and the {{x|Gaiad}} will use this convention for narrative ease.
 
 The core story. The {{p|Kuru}} dynasty, ruling from {{p|Hastinapura}} near
 What is now {{p|Delhi}}, is split between two branches of cousins: the
@@ -134,7 +134,7 @@ The {{p|Mahabharata}} ends with ambiguity. Both endings carry deep
 Wisdom.
 
           At the center of the epic, just before the battle begins,
-Comes the {{p|Bhagavad Gita}}—"the Song of the Lord." {{c|Arjuna}}, looking
+Comes the {{p|Bhagavad Gita}}—"the {{x|Song of the Lord}}." {{c|Arjuna}}, looking
 
 Across the battlefield at his cousins, his teachers, his kinsmen,
 Is overcome by despair. How can he fight? How can he kill these
@@ -247,7 +247,7 @@ Of incarnation, the {{p|Buddhist}} doctrine of bodhisattvas, and other
 Religious conceptions of divine beings taking on embodied form for
 The sake of sentient beings. These parallels are not identities,
 
-But they are striking resemblances. The Gaiad reads them as
+But they are striking resemblances. The {{x|Gaiad}} reads them as
 Different cultural elaborations of a common religious insight:
 That divinity is not remote from human affairs but engages with
 Them in various modes, sometimes taking on the limitations of
@@ -258,7 +258,7 @@ Embodied existence in order to be present among creatures.
 {{p|Mahabharata}} also contains, as subsidiary material, enormous
 Amounts of philosophical, religious, and practical content. The
 
-{{p|Shanti Parva}} ("Book of Peace") and the {{p|Anushasana Parva}} ("Book
+{{p|Shanti Parva}} ("{{x|Book of Peace}}") and the {{p|Anushasana Parva}} ("Book
 Of Instruction")—two of the epic's eighteen books—are essentially
 Compendia of moral and philosophical teaching delivered by the
 Dying {{c|Bhishma}} to {{c|Yudhishthira}} about kingship, dharma, and
@@ -303,7 +303,7 @@ Thematic concern vaster. If {{c|Homer}}'s {{p|Iliad}} is the foundational
 A higher power. It is not just a great epic. It is the epic of
 An entire civilization.
 
-                             The Gaiad reads the {{p|Mahabharata}}—like
+                             The {{x|Gaiad}} reads the {{p|Mahabharata}}—like
 The {{p|Ramayana}}—as another major articulation of the shared
 {{p|Indo-European}} narrative imagination, elaborated by the {{p|Indian}}
 Branch into a work of singular and unrivaled scope. The {{p|Trojan War}}

@@ -221,7 +221,7 @@ Figure moving from obscurity to foundational importance through
 The efforts of nineteenth- and twentieth-century scholarship.
 
                                                                      The
-Gaiad honors {{c|Ashoka}} as one of the genuine moral exemplars of
+{{x|Gaiad}} honors {{c|Ashoka}} as one of the genuine moral exemplars of
 Political history. A conqueror who renounced conquest. A king
 Who dedicated his reign to ethical governance. A patron who
 
@@ -236,7 +236,7 @@ Absolute power always retains its coercive dimension, and {{c|Ashoka}}
 Maintained an empire based on prior conquest. But within the
 
 Constraints of ancient imperial possibility, he seems to have
-Genuinely tried to rule well. The Gaiad reads him as one of the
+Genuinely tried to rule well. The {{x|Gaiad}} reads him as one of the
 Brightest spots in the political history of antiquity.
 
                                                            {{p|Maurya}}.

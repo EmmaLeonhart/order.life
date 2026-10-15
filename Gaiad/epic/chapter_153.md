@@ -168,7 +168,7 @@ Subjects. {{p|Egyptian}} culture and {{p|Canaanite}} culture began the long
 
 Process of mutual influence that would shape the ancient {{p|Near
 Eastern}} world. And this is where the biblical {{c|Joseph}} story, the
-Gaiad will argue in the following chapters, is historically situated—
+{{x|Gaiad}} will argue in the following chapters, is historically situated—
 During the later {{p|Middle Kingdom}} or the transition to the {{p|Second
 
 Intermediate Period}}, when {{p|Canaanite}} families entering {{p|Egypt}}
@@ -188,7 +188,7 @@ Dynasty there, with its capital at {{p|Avaris}}. The {{p|Second Intermediate
 Period}} began. A second {{p|Egyptian}} collapse, three centuries after
 
 The first. This second collapse would be the context of the biblical
-{{c|Jacob}} and {{c|Joseph}} narratives, which the Gaiad will unpack in
+{{c|Jacob}} and {{c|Joseph}} narratives, which the {{x|Gaiad}} will unpack in
 The next chapter.
 
                       But the {{p|Middle Kingdom}} itself—as a phase, as

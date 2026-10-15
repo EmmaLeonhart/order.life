@@ -1,7 +1,7 @@
 # Chapter 158: The Mycenaeans
 
 And in the west, on the southern tip of the {{p|Greek}} mainland and
-Across the {{p|Aegean}} islands, a third great Bronze Age civilization
+Across the {{p|Aegean}} islands, a third great {{x|Bronze Age}} civilization
 Was reaching its peak. {{p|Mycenaean Greece}}.
 
                                                    Named for {{p|Mycenae}},
@@ -9,14 +9,14 @@ The citadel on a hill in the {{p|Argolid}} whose massive "{{p|Cyclopean}}"
 Walls of unmortared limestone blocks, some weighing over twenty tons,
 Dominated the landscape. {{p|Mycenae}} was the political and cultural
 
-Center of the Bronze Age {{p|Greek}} world. Other major centers were
+Center of the {{x|Bronze Age}} {{p|Greek}} world. Other major centers were
 At {{p|Tiryns}}, {{p|Pylos}}, {{p|Athens}} (already a settled site, though
 Not yet the city it would become), {{p|Thebes}}, {{p|Orchomenos}}, and
 Several others. The {{p|Mycenaean}} civilization emerged around sixteen
 
 Hundred BCE—roughly contemporary with the {{p|New Kingdom}} beginning
 In {{p|Egypt}} and the {{p|Hittite}} kingdom consolidating in {{p|Anatolia}}—
-And flourished until the Bronze Age Collapse around twelve hundred BCE.
+And flourished until the {{x|Bronze Age Collapse}} around twelve hundred BCE.
 
 The {{p|Mycenaeans}} were {{c|R1b}}-haplogroup {{p|Indo-European}}-speakers—
 Descendants of the {{p|Yamnaya}} expansion that had reached {{p|Greece}} in
@@ -29,7 +29,7 @@ Written in a syllabic script called {{p|Linear B}}—adapted from the
 Ancient scripts, demonstrated that {{p|Linear B}} was used to write
 
 Early {{p|Greek}}. The achievement is one of the most celebrated in
-The history of decipherment. It opened up an entire Bronze Age
+The history of decipherment. It opened up an entire {{x|Bronze Age}}
 Civilization to modern understanding. We can read the {{p|Linear B}}
 Tablets recovered from {{p|Pylos}}, {{p|Knossos}}, {{p|Mycenae}}, and other
 
@@ -49,9 +49,9 @@ And above the bureaucratic record, the {{p|Mycenaean}} world was also
 A warrior society. The {{p|Mycenaean}} elite warriors—depicted in
 Frescoes, buried with bronze swords and boar's-tusk helmets and
 
-Gold-masked faces—were an Indo-European warrior aristocracy of the
+Gold-masked faces—were an {{x|Indo-European}} warrior aristocracy of the
 Type that the {{p|Yamnaya}} expansion had produced across the
-Indo-European world. The shaft-graves at {{p|Mycenae}}, excavated by
+{{x|Indo-European}} world. The shaft-graves at {{p|Mycenae}}, excavated by
 {{c|Heinrich Schliemann}} in eighteen-seventy-six, contained gold funerary
 
 Masks (including the famous "{{p|Mask of Agamemnon}}," though the
@@ -102,15 +102,15 @@ Olive oil, wine, textiles, and their distinctive pottery. The
 Every direction, moving goods that the palaces redistributed and
 Taxed. The palatial economy was in the middle of the trade network,
 And the wealth that flowed through it made {{p|Mycenae}} and its
-Sister-cities genuinely rich by Bronze Age standards.
+Sister-cities genuinely rich by {{x|Bronze Age}} standards.
 
 And one episode from this period—probably around the end of the
-Thirteenth century BCE, shortly before the Bronze Age Collapse—
+Thirteenth century BCE, shortly before the {{x|Bronze Age Collapse}}—
 Would become the greatest memorial narrative in {{p|Western}} literature.
 The {{p|Trojan War}}.
 
                          The historicity of the {{p|Trojan War}} is
-Debated but, the Gaiad accepts, broadly real. There was a city
+Debated but, the {{x|Gaiad}} accepts, broadly real. There was a city
 At {{p|Troy}} (the site called {{p|Hisarlik}} in northwestern {{p|Turkey}}),
 And it was destroyed by violence, and the destruction can be dated
 
@@ -133,7 +133,7 @@ In the heroic costume of the oral tradition, compressing and
 Elaborating and fictionalizing, but the historical kernel was there.
 
                                                                             And
-The {{p|Mycenaean}} civilization is, the Gaiad argues, the {{p|Greek}}
+The {{p|Mycenaean}} civilization is, the {{x|Gaiad}} argues, the {{p|Greek}}
 Contribution to the {{p|Bronze Age Collapse}} chapter. Within a
 
 Generation or two after the {{p|Trojan War}}, the {{p|Mycenaean}} palaces
@@ -143,10 +143,10 @@ Survive—they were baked hard by the fire instead of being allowed
 
 To dissolve in the normal way). The entire palatial civilization
 Collapsed in a generation around twelve-hundred BCE. The cause was
-The general Bronze Age Collapse—{{p|Sea Peoples}} raids, possibly
+The general {{x|Bronze Age Collapse}}—{{p|Sea Peoples}} raids, possibly
 Internal rebellions by the servile population, climate pressures,
 
-And the systemic failure of the Bronze Age international trade
+And the systemic failure of the {{x|Bronze Age}} international trade
 Network. The {{p|Mycenaean}} palaces went down in a coordinated wave
 Of destructions that archaeologists can date, across many sites,
 To the same twenty-year window. The civilization did not recover.
@@ -164,7 +164,7 @@ Via the {{p|Phoenician}} alphabet, around the eighth century BCE—the
 {{p|Greeks}} were a completely different civilization from what the
 {{p|Mycenaeans}} had been. They had forgotten {{p|Linear B}} entirely. They
 Had forgotten the palace economies. They had forgotten, in most
-Cases, the specific historical geography of their Bronze Age
+Cases, the specific historical geography of their {{x|Bronze Age}}
 
 Predecessors. What they remembered was the heroic poetry—the songs
 About {{c|Achilles}} and {{c|Odysseus}} and {{c|Agamemnon}} that had been
@@ -177,7 +177,7 @@ Was working from this oral tradition. The poems preserve fragments
 Of {{p|Mycenaean}} material culture (the boar's-tusk helmet, the
 
 Catalog of ships, certain personal names, certain geographical
-References) that must have been transmitted from the Bronze Age
+References) that must have been transmitted from the {{x|Bronze Age}}
 Without being archaeologically rediscovered until the nineteenth
 Century. {{c|Homer}} knew things about the {{p|Mycenaean}} world that he
 
@@ -196,7 +196,7 @@ In {{c|Nonnus of Panopolis}}'s late antique epic {{p|Dionysiaca}}—a
 Forty-eight-book epic that is the longest surviving poem of
 
 Classical antiquity. The story is historically fantastical. But
-The Gaiad takes it as an eastward gesture, a pointing toward the
+The {{x|Gaiad}} takes it as an eastward gesture, a pointing toward the
 Connection between the {{p|Mediterranean}} and {{p|Indian}} worlds that will
 Become increasingly important in later chapters. {{c|Dionysus}} into
 
@@ -208,7 +208,7 @@ That suggest deeper awareness of each other than the strict
 Archaeological record demonstrates. The {{p|Mycenaean}} world, at its
 Height, was in communication with {{p|Anatolia}}, {{p|Syria}}, {{p|Egypt}}, and
 Probably indirectly with {{p|Mesopotamia}} and beyond. The cultural
-Connections of the late Bronze Age were real and extensive. And
+Connections of the late {{x|Bronze Age}} were real and extensive. And
 
 The myths preserve traces of those connections, even after the
 Archaeological and documentary evidence has fragmented.
@@ -222,7 +222,7 @@ Age civilization of the {{p|Aegean}} at its peak. The palace economies,
 The warrior aristocracy, the syncretic absorption of {{p|Minoan}}
 Culture. And then—in a generation—the collapse.
 
-{{p|Mycenaean Greece}}. The warrior civilization. The Bronze Age peak.
+{{p|Mycenaean Greece}}. The warrior civilization. The {{x|Bronze Age}} peak.
 The foundation of {{p|Greek}} identity that would be preserved through
 The {{p|Dark Age}} in oral poetry and recovered, in attenuated form,
 When {{c|Homer}} sang the songs that became the {{p|Iliad}} and {{p|Odyssey}}.

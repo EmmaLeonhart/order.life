@@ -35,7 +35,7 @@ Beneath Old {{p|Europe}}, before the horsemen came;
 The {{p|Venus of Willendorf}} on other ground,
 {{p|Cucuteni-Trypillia}}'s clay—the same
 
-Great mother, as the Gaiad reads the sign.
+Great mother, as the {{x|Gaiad}} reads the sign.
 But nowhere else did that devotion raise
 Such stone. Look at the temples' own design,
 The shape they kept through all their building days:
@@ -58,7 +58,7 @@ Of builders. Then the builders were gone.
 Near twenty-five hundred BCE it ends.
 No sign of war, no burning, no invader—
 The temples simply empty. No one tends
-Them. Bronze Age settlers, coming later,
+Them. {{x|Bronze Age}} settlers, coming later,
 
 Lived on the island with no memory
 Of who had built the temples on its hills.
@@ -75,7 +75,7 @@ Empty and silent on the windy rise,
 Four thousand years, until the nineteenth century could
 Read them for what they were with {{p|Europe}}'s eyes.
 
-The Gaiad honors them as first in line
+The {{x|Gaiad}} honors them as first in line
 After {{p|Göbekli Tepe}}: there, the hunter came
 To gather at the stones; here, at the shrine,
 The settled farmer laid his harvest's claim.
@@ -90,7 +90,7 @@ Gave out. No palace and no city wall,
 No fortress—only temples, the work of every hand.
 They built for their gods, and that was all.
 
-The Gaiad reads the temple as the elder
+The {{x|Gaiad}} reads the temple as the elder
 Of the city, at {{p|Göbekli Tepe}}, and the greater
 For thousands of years after; and no welder
 Of stone to faith was purer than these, or straighter.
@@ -112,7 +112,7 @@ Both are warnings. Neither, as we see,
 
 Is heeded by the peoples who come after.
 Was this a greatness or a tragedy?
-The Gaiad does not answer. Without laughter
+The {{x|Gaiad}} does not answer. Without laughter
 And without blame, it says that both can be:
 
 The temples splendid, and the builders dead;
@@ -136,4 +136,4 @@ Above itself, and perished by the choice.
 After {{p|Göbekli Tepe}}. The first warning voice.
 
 The first loss. The first civilization
-Whose name is gone, in the Gaiad's human age.
+Whose name is gone, in the {{x|Gaiad}}'s human age.

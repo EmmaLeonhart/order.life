@@ -27,7 +27,7 @@ A literate, bureaucratic, well-documented civilization. And when
 
 The archives at {{p|Hattusa}} were rediscovered in the late nineteenth
 And early twentieth centuries, they revolutionized our understanding
-Of the Bronze Age.
+Of the {{x|Bronze Age}}.
 
                            The {{p|Hittite}} kingdom—or {{p|Hatti}}, as it
 Called itself—was founded around seventeen-fifty BCE by {{c|Anitta}},
@@ -58,7 +58,7 @@ Rulers: {{c|Suppiluliuma I}}, {{c|Mursili II}}, {{c|Muwatalli II}}, {{c|Hattusil
 {{c|Tudhaliya IV}}. The empire controlled central and eastern {{p|Anatolia}},
 Northern {{p|Syria}}, and much of the {{p|Levant}} (in competition and
 Occasional cooperation with {{p|Egypt}}). The {{p|Hittites}} were the
-Northern pole of a bipolar Bronze Age political system in which
+Northern pole of a bipolar {{x|Bronze Age}} political system in which
 
 {{p|Egypt}} was the southern pole. The two empires met, diplomatically
 Or militarily, at their mutual border zone in {{p|Syria}} and the
@@ -110,7 +110,7 @@ Peace treaty in human history. A copy of the {{p|Hittite}} version on
 Silver is displayed at the {{p|United Nations}} building in {{p|New York}}
 As a symbolic precedent for modern international diplomacy. The
 Treaty held for the rest of both empires' existences—the {{p|Hittite}}
-Empire would collapse in the Bronze Age Collapse around twelve
+Empire would collapse in the {{x|Bronze Age Collapse}} around twelve
 
 Hundred BCE, and {{p|Egypt}} would never again face a northern rival
 On the scale of {{p|Hatti}} until the rise of {{p|Assyria}} centuries
@@ -125,7 +125,7 @@ Usual pantheon) but heavily syncretized with {{p|Anatolian}} and
 
 {{p|Hurrian}} elements absorbed from their neighbors and subject
 Populations. The {{p|Hittites}} famously called their kingdom the
-"Land of the Thousand Gods"—they incorporated every deity of every
+"{{x|Land of the Thousand Gods}}"—they incorporated every deity of every
 Conquered territory into their expanding pantheon, rather than
 
 Suppressing local cults. This made {{p|Hittite}} religion tolerant and
@@ -150,7 +150,7 @@ World. Whether that is true or whether it reflected specific
 
 {{p|Anatolian}} circumstances is debated. But the {{p|Hittite}} legal
 Tradition was noticeably less retributive than its southern
-Mesopotamian counterpart.
+{{p|Mesopotamian}} counterpart.
 
 And the {{p|Hittites}} in the biblical record—this is interesting. The
 {{p|Hebrew Bible}} mentions "{{c|Hittites}}" repeatedly as one of the
@@ -171,7 +171,7 @@ Takes shape, but its cultural and ethnic remnants persisted for
 Several more centuries.
 
                               And the fall of the {{p|Hittite}} Empire
-Is, the Gaiad has already indicated, part of the Bronze Age Collapse.
+Is, the {{x|Gaiad}} has already indicated, part of the {{x|Bronze Age Collapse}}.
 Around twelve-hundred BCE, the {{p|Hittite}} capital {{p|Hattusa}} was
 
 Sacked and burned. The {{p|Hittite}} central administration collapsed.
@@ -181,10 +181,10 @@ Debated—probably a combination of the {{p|Sea Peoples}} raids, internal
 
 Rebellions (possibly by the {{p|Kaska}} tribes of the {{p|Black Sea}} coast),
 Climate-induced famine, and the general systemic failure of the
-Bronze Age international system. Whatever the cause, the {{p|Hittite}}
+{{x|Bronze Age}} international system. Whatever the cause, the {{p|Hittite}}
 Empire ended suddenly and catastrophically, more so than any other
 
-Major Bronze Age civilization. {{p|Egypt}} survived, diminished. {{p|Assyria}}
+Major {{x|Bronze Age}} civilization. {{p|Egypt}} survived, diminished. {{p|Assyria}}
 Survived, briefly interrupted. {{p|Babylon}} survived, under {{p|Kassite}}
 Rule. But the {{p|Hittites}} as an imperial civilization were gone
 Within a generation. Their capital was abandoned and forgotten.
@@ -209,13 +209,13 @@ Reconstructed.
 
                   {{p|Hittites}}. The first great {{p|Indo-European}} empire.
 The sack of {{p|Babylon}}. The rivalry with {{p|Egypt}}. The {{p|Kadesh}} peace
-Treaty. The "Land of the Thousand Gods." The law code less brutal
+Treaty. The "{{x|Land of the Thousand Gods}}." The law code less brutal
 
 Than {{c|Hammurabi}}'s. The capital at {{p|Hattusa}} and its archive.
-The collapse in the Bronze Age Collapse. The three thousand years
+The collapse in the {{x|Bronze Age Collapse}}. The three thousand years
 Of forgetting. The twentieth-century rediscovery. The reconstruction
 Of a lost civilization from its hidden tablets.
 
 {{p|Hittites}}. {{p|Hattusa}}. {{p|Kadesh}}. The {{c|R1b}}-haplogroup empire of
-{{p|Anatolia}}. The northern pole of Bronze Age political order. The
+{{p|Anatolia}}. The northern pole of {{x|Bronze Age}} political order. The
 Forgotten and rediscovered empire.

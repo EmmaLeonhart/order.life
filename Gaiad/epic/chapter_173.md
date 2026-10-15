@@ -16,7 +16,7 @@ Produce {{c|Alexander the Great}}, who would take {{p|Greek}} civilization
 Itself, via conquest, across three continents.
 
                                                     Begin with {{c|Plato}}
-In his mature phase. The Gaiad introduced him in the previous
+In his mature phase. The {{x|Gaiad}} introduced him in the previous
 Chapter as {{c|Socrates}}'s student and the founder of the {{p|Academy}}.
 His early dialogues preserve, or appear to preserve, {{c|Socrates}}'s
 
@@ -31,16 +31,16 @@ Philosophical drama. Then come the middle dialogues, in which
 {{p|Phaedo}}, {{p|Symposium}}, {{p|Phaedrus}}. These are the works most commonly
 
 Associated with "{{p|Platonism}}." They present the theory of the
-Forms—the claim that behind every particular instance of a
+{{x|Forms}}—the claim that behind every particular instance of a
 Quality (this beautiful statue, this just action, this triangular
-Shape) lies an ideal Form (Beauty itself, Justice itself, the
+Shape) lies an ideal {{x|Form}} (Beauty itself, Justice itself, the
 
 Triangle itself) that exists more truly and eternally than any
-Material instantiation. The Forms are apprehended by reason
+Material instantiation. The {{x|Forms}} are apprehended by reason
 Rather than sense. They constitute ultimate reality. And the
-Philosopher's task is to ascend from the world of particulars to
+{{c|Philosopher}}'s task is to ascend from the world of particulars to
 
-The contemplation of the Forms—a process metaphorically depicted
+The contemplation of the {{x|Forms}}—a process metaphorically depicted
 In the {{p|Allegory of the Cave}}, perhaps the most famous passage
 In {{c|Plato}}'s corpus. Most people, {{c|Plato}} writes, are like prisoners
 Chained in a cave, watching shadows on the wall and believing
@@ -57,7 +57,7 @@ An educational mission. It also has political implications.
 
 {{c|Plato}}'s {{p|Republic}} argues that ideal political societies would
 Be ruled by philosopher-kings—by those who had made the
-Ascending journey to the Forms and therefore knew what was truly
+Ascending journey to the {{x|Forms}} and therefore knew what was truly
 Good, just, and beautiful. Democracy, {{c|Plato}} argued, produces only
 
 The rule of opinion and self-interest; it elevates demagogues
@@ -81,7 +81,7 @@ Practice, to be tyrants). The late dialogues—{{p|Parmenides}}, {{p|Sophist}},
 {{p|Statesman}}, {{p|Philebus}}, {{p|Laws}}, {{p|Timaeus}}—show {{c|Plato}} revising
 
 And complicating his earlier positions. In {{p|Parmenides}}, he
-Subjects his own theory of the Forms to searching self-criticism.
+Subjects his own theory of the {{x|Forms}} to searching self-criticism.
 In {{p|Laws}}, his last great work, he abandons the philosopher-king
 Ideal and describes a more practical constitutional framework
 
@@ -140,12 +140,12 @@ Natural philosophy (the {{p|Physics}}, {{p|On the Heavens}}, {{p|Meteorology}},
 {{p|On Generation and Corruption}}). Biology (the {{p|History of Animals}},
 {{p|Parts of Animals}}, {{p|Movement of Animals}}, {{p|Generation of Animals}}).
 
-Psychology (the {{p|De Anima}} and the {{p|Parva Naturalia}}). Metaphysics
+Psychology (the {{p|De Anima}} and the {{p|Parva Naturalia}}). {{x|Metaphysics}}
 (The work that gave us the very term "metaphysics"—literally
 "After the physics," because it was placed after the physical
 Works in the ancient edition). Ethics (the {{p|Nicomachean Ethics}} and
 
-The {{p|Eudemian Ethics}}). Politics. Rhetoric. Poetics. Each of these
+The {{p|Eudemian Ethics}}). Politics. Rhetoric. {{x|Poetics}}. Each of these
 Works would be foundational for its respective discipline.
 {{c|Aristotle}}'s influence on the development of {{p|Western}} thought is,
 Along with {{c|Plato}}'s and {{c|Augustine}}'s, one of the three or four
@@ -177,7 +177,7 @@ Constructed their entire theological systems as syntheses of
 
 The head of the philosophers in {{p|Limbo}}, "the master of those
 Who know." For seven hundred years, across multiple civilizations,
-{{c|Aristotle}} was the Philosopher. His dominance was so complete
+{{c|Aristotle}} was the {{c|Philosopher}}. His dominance was so complete
 That the beginning of the modern period was partly defined as
 
 The overthrow of {{c|Aristotelian}} authority—{{c|Galileo}}, {{c|Descartes}},
@@ -288,7 +288,7 @@ Democratic politics, intense civic competition—were gone, and they
 
 Would not return.
 
-                          So the Gaiad closes this three-part
+                          So the {{x|Gaiad}} closes this three-part
 Treatment of classical {{p|Greece}}. We began with the rise from the
 Dark Age, the early philosophers, the {{p|Persian Wars}}. We continued
 
@@ -320,7 +320,7 @@ In a particular place and time, and it produced results that
 Continue to shape our civilization twenty-five hundred years later.
 
                                                                      And
-The Gaiad honors this achievement without idealizing it. Classical
+The {{x|Gaiad}} honors this achievement without idealizing it. Classical
 {{p|Greece}} was also a slaveholding society, a misogynistic society,
 
 A society that exploited its imperial subjects, a society whose

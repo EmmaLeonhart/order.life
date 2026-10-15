@@ -3,12 +3,12 @@
 In {{p|China}}, the {{p|Warring States}} period came to its violent climax.
 For two centuries seven major states had fought for dominance.
 Finally, in two-twenty-one BCE, the state of {{p|Qin}}—under its
-Ruthless king who would call himself the First Emperor—completed
+Ruthless king who would call himself the {{c|First Emperor}}—completed
 
 The conquest of all rival states and unified {{p|China}} for the first
 Time.
 
-       {{c|Qin Shi Huang}}. The First Emperor. He came to the throne
+       {{c|Qin Shi Huang}}. The {{c|First Emperor}}. He came to the throne
 Of {{p|Qin}} as a boy of thirteen in two-forty-seven BCE. For years
 
 He ruled under a regent. Once he came into his own, he conducted
@@ -17,7 +17,7 @@ One by one: {{p|Han}} in two-thirty, {{p|Zhao}} in two-twenty-eight, {{p|Wei}} i
 Two-twenty-five, {{p|Chu}} in two-twenty-three, {{p|Yan}} in two-twenty-two,
 
 {{p|Qi}} in two-twenty-one. The {{p|Warring States}} were ended. {{p|China}} was
-Unified. And {{c|Qin Shi Huang}} declared himself the First Emperor
+Unified. And {{c|Qin Shi Huang}} declared himself the {{c|First Emperor}}
 Of a dynasty that, he anticipated, would last ten thousand
 Generations. His reforms were radical. He imposed a single writing
 
@@ -242,7 +242,7 @@ In some detail because so much subsequent {{p|East Asian}} history
 Operates within its categories.
 
                                     {{p|Qin}}. {{p|Han}}. {{c|Qin Shi Huang}}. {{c|Liu Bang}}.
-The First Emperor and the rebel-peasant who succeeded him.
+The {{c|First Emperor}} and the rebel-peasant who succeeded him.
 {{p|Legalism}} yielding to {{p|Confucian}}-{{p|Legalist}} synthesis. The {{p|Great Wall}}.
 
 The {{p|Terracotta Army}}. The {{p|Silk Road}} opening. {{c|Sima Qian}}'s

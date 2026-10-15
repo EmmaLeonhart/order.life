@@ -8,11 +8,11 @@ Something new in the religious imagination of humanity: genuine,
 Full-throated monotheism.
 
                             To understand this, we must be
-Careful about terms. The Gaiad has argued, in earlier chapters,
+Careful about terms. The {{x|Gaiad}} has argued, in earlier chapters,
 That true monotheism is historically rare—rarer than popular
 
-Accounts suggest. The Bronze Age world was populated by
-Polytheisms. The Axial Age produced dualisms ({{p|Zoroastrianism}}),
+Accounts suggest. The {{x|Bronze Age}} world was populated by
+Polytheisms. The {{x|Axial Age}} produced dualisms ({{p|Zoroastrianism}}),
 Monisms ({{p|Upanishadic}} philosophy), and various forms of divine
 Hierarchy. True monotheism—the claim that there is only one god,
 
@@ -69,7 +69,7 @@ Articulation of this monotheism was defensive, not missionary.
 It emerged as the {{p|Judahite}} response to crushing defeat.
 
                                                                 How
-Did the exile produce this theological leap? The Gaiad proposes
+Did the exile produce this theological leap? The {{x|Gaiad}} proposes
 Several interacting factors. First, the experience of exile itself.
 
 Ancient religions were typically territorial: each god had a land,
@@ -104,7 +104,7 @@ Stone and wood, incapable of the real power that only {{c|Yahweh}}
 
 Possesses. This denigration of rival gods sharpened into
 Metaphysical denial of their existence. Not merely inferior, but
-Unreal. Third, the {{p|Zoroastrian}} influence. The Gaiad has already
+Unreal. Third, the {{p|Zoroastrian}} influence. The {{x|Gaiad}} has already
 Discussed how {{p|Zoroastrianism}}'s theological categories influenced
 
 {{p|Jewish}} thinking during this period. The concept of cosmic moral
@@ -175,20 +175,20 @@ Through its {{p|Christian}} and {{p|Islamic}} extensions, it would reshape
 The religious landscape of most of the planet.
 
                                                 Now, a crucial
-Clarification. The Gaiad, in its earlier treatments, has been
-Critical of monotheism as a theological stance. The Gaiad's own
+Clarification. The {{x|Gaiad}}, in its earlier treatments, has been
+Critical of monotheism as a theological stance. The {{x|Gaiad}}'s own
 
 Theological sympathies are with a reflective polytheism—one that
 Honors the plurality of divine manifestations, that resists the
 Collapse of cosmic complexity into singular transcendence, that
 Preserves the ecological and cultural richness of the pre-
 
-Monotheistic religious imagination. The Gaiad has argued that
+Monotheistic religious imagination. The {{x|Gaiad}} has argued that
 Monotheism, when it became triumphalist, led to religious
 Persecution, to the destruction of local traditions, to the
 Psychological and cosmological impoverishment of religious life.
 
-This critique stands. But the Gaiad also acknowledges that
+This critique stands. But the {{x|Gaiad}} also acknowledges that
 Monotheism, in its origin, was not primarily a triumphalist
 Project. It was a survival strategy. The {{p|Judean}} exiles did not
 Invent monotheism to conquer other religions. They invented it
@@ -204,7 +204,7 @@ Original insight itself was a courageous theological act, a
 Refusal to accept that divine reality was as fragile as the
 
 Political structures that had supported the earlier religion. And
-The Gaiad honors the courage of that act, even while maintaining
+The {{x|Gaiad}} honors the courage of that act, even while maintaining
 Reservations about its later forms.
 
                                         And consider who took the
@@ -317,22 +317,22 @@ Produced, in the space of a century, a new religious grammar
 That would shape the religious imagination of billions of people
 Over the next twenty-five centuries.
 
-                                            And again, the Gaiad's
-Assessment is complex. The Gaiad honors the exilic communities for
+                                            And again, the {{x|Gaiad}}'s
+Assessment is complex. The {{x|Gaiad}} honors the exilic communities for
 
-Their courage and creativity. The Gaiad also maintains that
+Their courage and creativity. The {{x|Gaiad}} also maintains that
 Monotheism, as it developed, created problems that polytheistic
 Traditions did not have—problems of exclusivity, of intolerance,
-Of the flattening of cosmic complexity. But the Gaiad acknowledges
+Of the flattening of cosmic complexity. But the {{x|Gaiad}} acknowledges
 
 That monotheism emerged from a specific historical situation in
 Which it was the most viable theological response. It was not
 Born as imperialist ideology. It was born as survival theology.
 The later imperialist uses of monotheism are distortions of an
 
-Originally defensive and preservationist project. The Gaiad
+Originally defensive and preservationist project. The {{x|Gaiad}}
 Reads the {{p|Babylonian}} exile as one of the pivotal moments in
-The history of religion—as genuinely pivotal as the Axial Age
+The history of religion—as genuinely pivotal as the {{x|Axial Age}}
 Breakthroughs happening roughly contemporaneously in {{p|Iran}},
 
 {{p|India}}, {{p|China}}, and {{p|Greece}}. These parallel religious
@@ -341,12 +341,12 @@ Sacrificial religion, the articulation of universal ethical
 Demands, the interiorization of religious life into personal
 
 Conduct and thought, the development of textual canons. The
-Axial Age is a world-historical transformation, not confined to
+{{x|Axial Age}} is a world-historical transformation, not confined to
 Any one civilization. And the {{p|Jewish}} monotheism forged in
 {{p|Babylonian}} exile is the {{p|Judean}} branch of that global
 
 Transformation—a distinctive branch, with distinctive consequences,
-But part of a pattern that characterizes the whole of Eurasian
+But part of a pattern that characterizes the whole of {{p|Eurasian}}
 Religious history in the middle of the first millennium BCE.
 
                                                                 {{p|Babylonian}}
@@ -358,7 +358,7 @@ Monotheism. {{c|Yahweh}} as sole god, not merely greatest. The {{p|Persian}}
 Influence. {{c|Cyrus}}'s edict. The return and rebuilding. The
 {{p|Second Temple}}. The messianic hope deferred. The apocalyptic
 Literature that would flower. The conceptual framework that
-Would shape three Abrahamic religions.
+Would shape three {{x|Abrahamic}} religions.
 
 The exile as crucible. The crushing defeat that forged a new
 Theological imagination. The catastrophe that produced the

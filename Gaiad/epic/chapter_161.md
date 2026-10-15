@@ -5,7 +5,7 @@ Is also transforming. The {{p|Shang Dynasty}} of {{p|China}}, which has ruled
 The {{p|Yellow River}} valley for nearly six centuries, falls to a rising
 Power from the west: the {{p|Zhou}}.
 
-                                     The {{p|Shang}}, as the Gaiad has
+                                     The {{p|Shang}}, as the {{x|Gaiad}} has
 Already noted, were the first historically documented {{p|Chinese}}
 Dynasty. Their capital shifted several times, but the last and
 Greatest was {{p|Yin}} or {{p|Anyang}}, in what is now {{p|Henan Province}}.
@@ -33,7 +33,7 @@ The {{p|Shang}} mind. The {{p|Shang}} king was not quite a god but a privileged
 Intermediary. The {{p|Shang}} state was organized around his ritual
 Calendar. And the {{p|Shang}} military was a formidable force, operating
 Chariots (introduced from the western steppe, probably via the
-{{p|Indo-European}} or {{p|Tocharian}} transmission that the Gaiad will
+{{p|Indo-European}} or {{p|Tocharian}} transmission that the {{x|Gaiad}} will
 
 Return to later), bronze weapons, and professional warriors.
 
@@ -73,9 +73,9 @@ To western populations. But by the twelfth century BCE they had
 Adopted {{p|Shang}} writing, {{p|Shang}} ritual forms, and {{p|Shang}} political
 
 Structures, while retaining their own distinctive identity. The
-{{p|Zhou}} traced their lineage to {{c|Hou Ji}}, the "Lord of Millet," an
+{{p|Zhou}} traced their lineage to {{c|Hou Ji}}, the "{{c|Lord of Millet}}," an
 Agricultural culture hero. Their leadership in the eleventh
-Century was exercised first by {{c|King Wen}} (the "Accomplished King"),
+Century was exercised first by {{c|King Wen}} (the "{{c|Accomplished King}}"),
 
 Who spent his life building coalitions against the {{p|Shang}} without
 Openly rebelling; and then by his son {{c|King Wu}} (the "Martial King"),
@@ -120,15 +120,15 @@ Most clearly by {{c|King Wu}}'s brother {{c|Duke of Zhou}}, who served as
 
 Regent for {{c|King Wu}}'s young son after {{c|King Wu}}'s early death—the
 Concept of {{p|Tianming}}, the {{p|Mandate of Heaven}}. The supreme deity
-{{c|Tian}} ("Heaven," displacing the {{p|Shang}} {{c|Shang Di}} in religious
+{{c|Tian}} ("{{c|Heaven}}," displacing the {{p|Shang}} {{c|Shang Di}} in religious
 Primacy) grants the right to rule to a ruling house only so long
 
 As that house governs virtuously. If the ruling house becomes
-Oppressive, tyrannical, or negligent, Heaven withdraws its mandate
+Oppressive, tyrannical, or negligent, {{c|Heaven}} withdraws its mandate
 And transfers it to a new, worthier house. This is what had
 Happened to the {{p|Shang}}: {{c|Di Xin}}'s corruption had forfeited the
 
-Mandate, and Heaven had granted it to {{c|King Wen}} and {{c|King Wu}}. The
+Mandate, and {{c|Heaven}} had granted it to {{c|King Wen}} and {{c|King Wu}}. The
 {{p|Zhou}} conquest was thus not usurpation but divinely sanctioned
 Succession. The {{p|Mandate of Heaven}} became the foundational
 Political theology of {{p|Chinese}} civilization. For the next three
@@ -204,7 +204,7 @@ Dating) occurred during {{c|Ramesses II}}'s or {{c|Merneptah}}'s reign. These
 
 Events are not simultaneous, but they are broadly contemporary.
 Across {{p|Eurasia}}—from the {{p|Aegean}} to the {{p|Yellow River}}—the late
-Bronze Age was ending, and new political and religious forms were
+{{x|Bronze Age}} was ending, and new political and religious forms were
 Emerging in its wake. The {{p|Zhou Dynasty}} is the {{p|East Asian}} equivalent
 
 Of the post-collapse reorganizations happening in the {{p|Mediterranean}}.
@@ -245,8 +245,8 @@ Fall of the {{p|Shang}}, we are at the beginning of all that. {{c|Di Xin}}
 In flames in his palace. {{c|King Wu}} entering {{p|Yin}}. The {{c|Duke of Zhou}}
 
 Drafting the political theology. The eight-hundred-year dynasty
-Beginning. The great Chinese classical age being born in the
-Moment when the Bronze Age died.
+Beginning. The great {{p|Chinese}} classical age being born in the
+Moment when the {{x|Bronze Age}} died.
 
                                   {{p|Shang}}. {{p|Zhou}}. {{p|Muye}}. {{p|Mandate of Heaven}}.
 {{c|Di Xin}}. {{c|Daji}}. {{c|King Wen}}. {{c|King Wu}}. {{c|Duke of Zhou}}. {{c|Jiang Ziya}}. The
@@ -256,5 +256,5 @@ The tyrant's cruelty and the virtuous rebel's restraint. The
 Lost mandate and the new dynasty. The {{p|Middle Kingdom}} defining
 Itself as center of the world. The eight-hundred-year reign.
 
-Fall of {{p|Shang}}. Rise of {{p|Zhou}}. {{p|China}}'s Bronze Age ending and its
+Fall of {{p|Shang}}. Rise of {{p|Zhou}}. {{p|China}}'s {{x|Bronze Age}} ending and its
 Classical age beginning.

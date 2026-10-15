@@ -8,7 +8,7 @@ Preserved their independence. And now, in the victorious glow,
 {{p|Athens}} rises to a cultural ascendancy the world had not seen
 Before and has rarely matched since. The fifth century BCE. The
 Age of {{c|Pericles}}. The age of the great tragedians. The age of the
-Sophists and {{c|Socrates}}. The age in which democracy, drama,
+{{c|Sophists}} and {{c|Socrates}}. The age in which democracy, drama,
 
 Philosophy, and history became what they have remained.
 
@@ -34,12 +34,12 @@ The central fleet and leadership. Over the next several decades,
 The {{p|Delian League}} expanded. It conducted campaigns against
 {{p|Persian}} holdings in the {{p|Aegean}} and liberated {{p|Greek}} cities
 Still under {{p|Persian}} control. But over time, it became increasingly
-Clear that the League was really an {{p|Athenian}} empire. Member cities
+Clear that the {{p|League}} was really an {{p|Athenian}} empire. Member cities
 
-That tried to withdraw from the League were prevented from doing
-So by {{p|Athenian}} military force. The League treasury, originally
+That tried to withdraw from the {{p|League}} were prevented from doing
+So by {{p|Athenian}} military force. The {{p|League}} treasury, originally
 At {{p|Delos}}, was moved to {{p|Athens}} in four-fifty-four BCE. {{p|Athens}}
-Began using League funds for {{p|Athenian}} purposes—including the
+Began using {{p|League}} funds for {{p|Athenian}} purposes—including the
 
 Massive building program on the {{p|Acropolis}}. Member cities that
 Had once contributed as equals became subject peoples contributing
@@ -58,8 +58,8 @@ Extended, reached its most developed form under the leadership
 
 Of {{c|Pericles}}. Male citizens—perhaps fifty thousand in a city of
 Perhaps three hundred thousand total inhabitants—participated
-Directly in the Assembly, served on juries, held public office
-By lot. The Assembly met regularly on the {{p|Pnyx}} hill, where any
+Directly in the {{x|Assembly}}, served on juries, held public office
+By lot. The {{x|Assembly}} met regularly on the {{p|Pnyx}} hill, where any
 
 Citizen could speak. Executive functions were performed by boards
 Of ten officials (one from each tribe, selected by lot or elected).
@@ -288,7 +288,7 @@ Poison rather than abandoning his mission, became the archetype
 Of the thinker who will die for truth. His final words, as he
 
 Felt the hemlock's numbness climbing his legs, were reportedly
-A request that his friend {{c|Crito}} pay a small debt: "Crito, we
+A request that his friend {{c|Crito}} pay a small debt: "{{c|Crito}}, we
 Owe a rooster to {{c|Asclepius}}. Pay it, don't forget." A pedestrian
 Comment, perhaps, but somehow perfect—the philosopher's last
 

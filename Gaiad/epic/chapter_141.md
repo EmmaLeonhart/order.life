@@ -26,7 +26,7 @@ Of ice in the taiga. And it was here {{c|P}} came.
 Of {{c|Q}} and {{c|R}}—and in this chapter, the same
 
 As the place itself: {{c|Paikal}}, the lake's own son,
-The pun the Gaiad cannot leave alone.
+The pun the {{x|Gaiad}} cannot leave alone.
 Since the {{p|Bab al-Mandab}}, his fathers had run
 The length of {{p|Eurasia}}; here, by ice and stone,
 
@@ -45,7 +45,7 @@ To {{p|Tierra del Fuego}}; every people born
 In the {{p|Americas}}, the {{p|Inuit}}, the nations
 Of the far south, come of {{c|Q}}. But that is the morning
 
-Of another book: Leo, two hundred twenty-one
+Of another book: {{x|Leo}}, two hundred twenty-one
 To two fifty-two. {{c|Q}}'s chapter is not yet.
 The second answer was west: to turn and run
 Back the way they came, retrace the debt
@@ -57,13 +57,13 @@ Whole world on its back. That branch kept
 
 The name of {{c|R}}: the boomerang, the line
 That went as far east as it could, and then came back.
-{{c|R}} will be the Yamnaya; {{c|R}} will be the sign
-Of Manu and of Yemo; down {{c|R}}'s track
+{{c|R}} will be the {{p|Yamnaya}}; {{c|R}} will be the sign
+Of {{c|Manu}} and of {{c|Yemo}}; down {{c|R}}'s track
 
-Will run the Indo-European tongue,
-R1a east to {{p|India}} and {{p|Iran}} and the Slavs,
-R1b west to Celt and German, the young
-Italic peoples—most of {{p|Europe}}'s men. {{c|R}} has
+Will run the {{x|Indo-European}} tongue,
+{{c|R1a}} east to {{p|India}} and {{p|Iran}} and the {{x|Slavs}},
+{{c|R1b}} west to {{x|Celt}} and {{x|German}}, the young
+{{x|Italic}} peoples—most of {{p|Europe}}'s men. {{c|R}} has
 
 The horse, the wagon, the chariot to come,
 The sky-father and the solar wheel. But not yet.
@@ -78,7 +78,7 @@ The road east to the {{p|Americas}}; the price
 Of the other road is the long way west, to all
 Of {{p|Europe}}, {{p|Central Asia}}, {{p|South Asia}}.
 And the father stands on the ice as the shadows fall
-In the long Siberian night, and does not follow either,
+In the long {{p|Siberian}} night, and does not follow either,
 
 But watches both his sons go into the dusk.
 His own story is short: what {{c|P}} did
@@ -122,7 +122,7 @@ Of the steppe a tongue would be born, and pass
 
 To half the modern world its inheritance.
 But all of that is later. Here, in the deep
-Past, in the Siberian winter, at the entrance
+Past, in the {{p|Siberian}} winter, at the entrance
 Of the crossroads, {{c|P}} stands where the lineages keep
 
 Their fork. The stars. The ice. The silence. Two

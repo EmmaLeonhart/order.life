@@ -17,7 +17,7 @@ Themselves something else—we do not know what, because their
 
 Language, written in the script we call {{p|Linear A}}, has never
 Been deciphered. The {{p|Minoans}} are the second great undeciphered
-Civilization of the Bronze Age. (The {{p|Indus Valley}} is the first.)
+Civilization of the {{x|Bronze Age}}. (The {{p|Indus Valley}} is the first.)
 We can read the shape of their society—we know how they built, what
 
 They ate, what they wore, what they painted, how they organized
@@ -41,7 +41,7 @@ Without defensive architecture. The interpretation is that the
 Land fortifications; their security was provided by their fleet.
 The idea of a civilization secure enough to live in unwalled
 
-Palaces is, by Bronze Age standards, extraordinary. Almost every
+Palaces is, by {{x|Bronze Age}} standards, extraordinary. Almost every
 Other civilization of the period had walled cities as a matter
 Of survival. The {{p|Minoans}} did not.
 
@@ -89,14 +89,14 @@ Officiants. The religion appears to have been goddess-centered, with
 A male consort figure (a young god who dies and is reborn, possibly
 
 Related to the later {{p|Greek}} {{c|Dionysus}}) but with clear priority
-On the female divine. This is the old European goddess religion
+On the female divine. This is the old {{p|European}} goddess religion
 That {{c|Marija Gimbutas}} argued survived in pockets across the
-{{p|Mediterranean}} into the Bronze Age. {{p|Crete}} is one of those pockets.
+{{p|Mediterranean}} into the {{x|Bronze Age}}. {{p|Crete}} is one of those pockets.
 
 The mother goddess and her snakes. The saffron gatherers. The
 Priestesses with their processional garments. {{p|Minoan}} religion is
-The female-centered religion of old Europe, preserved on an island
-Long enough to become the Bronze Age's most visually sophisticated
+The female-centered religion of old {{p|Europe}}, preserved on an island
+Long enough to become the {{x|Bronze Age}}'s most visually sophisticated
 
 Civilization.
 
@@ -112,7 +112,7 @@ Culture on the {{p|Greek}} mainland. The {{p|Aegean}} is, for several
 Hundred years, a {{p|Minoan}} lake. And the wealth that flowed through
 {{p|Crete}}—in olive oil, wine, copper, tin, ceramics, textiles, and
 Whatever else passed through the palace storerooms—made the
-Civilization one of the wealthiest of the Bronze Age.
+Civilization one of the wealthiest of the {{x|Bronze Age}}.
 
 And then, around fifteen hundred BCE, it ended.
 
@@ -143,7 +143,7 @@ Around fourteen hundred and fifty BCE, the {{p|Mycenaean Greeks}} from
 The mainland—previously junior partners of the {{p|Minoans}}, culturally
 Influenced by but politically independent—invaded and took over.
 The {{p|Mycenaeans}} were {{c|R1b}}-carriers, {{p|Indo-European}}-speakers, the
-Bronze Age manifestation of the {{p|Yamnaya}} expansion that had reached
+{{x|Bronze Age}} manifestation of the {{p|Yamnaya}} expansion that had reached
 
 {{p|Greece}}. They occupied {{p|Knossos}} and the other palaces. They replaced
 {{p|Linear A}} with {{p|Linear B}}, a script adapted to write the {{p|Mycenaean}}
@@ -171,9 +171,9 @@ Language, or a pre-Greek {{p|Aegean}} language, or an isolate of its
 Own—but no decipherment has been accepted. The {{p|Minoans}} wrote. We
 
 Cannot read them. The silence of {{p|Linear A}} is one of the permanent
-Gaps in our knowledge of the Bronze Age.
+Gaps in our knowledge of the {{x|Bronze Age}}.
 
-                                               The Gaiad honors the
+                                               The {{x|Gaiad}} honors the
 {{p|Minoans}} as the great pre-{{p|Greek}} civilization of the {{p|Aegean}}.
 The peaceful island civilization. The mother-goddess religion. The
 

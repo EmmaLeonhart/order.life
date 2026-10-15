@@ -21,12 +21,12 @@ Purely the people they had joined.
                                            The {{p|Aryan Migration}}.
 
                                                                           Here
-The Gaiad must be careful. The word "{{p|Aryan}}" has been abused in
+The {{x|Gaiad}} must be careful. The word "{{p|Aryan}}" has been abused in
 
 Modern history—used by nineteenth and twentieth century ideologies
 To construct racial hierarchies, to justify conquest and genocide,
 To fabricate a pure-blood master-race that never existed. The
-Gaiad rejects all of that. The "{{p|Aryan}}" people of the ancient world
+{{x|Gaiad}} rejects all of that. The "{{p|Aryan}}" people of the ancient world
 
 Were not a "race"; they were a linguistic and cultural group—
 Speakers of the {{p|Indo-Iranian}} branch of {{p|Indo-European}}, probably
@@ -38,7 +38,7 @@ Nothing more supernatural than that. The word "{{p|Aryan}}" in its
 Original context meant, simply, "noble" in the {{p|Indo-Iranian}}
 Languages—a self-designation of the elite warrior class, not a
 
-Racial category. The Gaiad uses the word in its original linguistic
+Racial category. The {{x|Gaiad}} uses the word in its original linguistic
 And cultural sense, with no racial implications.
 
                                                         So: around
@@ -67,7 +67,7 @@ Longer the organized urban civilization it had been a thousand
 
 Years earlier.
 
-                    The {{p|Aryan}} arrival is not, in the Gaiad's
+                    The {{p|Aryan}} arrival is not, in the {{x|Gaiad}}'s
 Reading, the cause of the {{p|Indus Valley}} collapse. The collapse
 Was already underway before they arrived—probably driven by climate
 
@@ -76,7 +76,7 @@ Shifting of monsoons) and by internal political and economic
 Pressures. The {{p|Aryans}} arrived into an ongoing collapse, not a
 Stable civilization. They filled a partial vacuum. And—crucially—
 
-The Gaiad reads the relationship between the incoming {{p|Aryans}}
+The {{x|Gaiad}} reads the relationship between the incoming {{p|Aryans}}
 And the pre-existing {{p|Dravidian}} and other non-{{p|Aryan}} populations
 As substantially cooperative rather than violently adversarial.
 
@@ -110,7 +110,7 @@ Encounter produced what became classical {{p|Hindu}} civilization. The
 
 Approximately fifteen-hundred and twelve-hundred BCE in the
 {{p|Punjab}} and upper {{p|Ganges}} region—are the oldest surviving
-Indo-European religious texts. They preserve the {{p|Aryan}} religious
+{{x|Indo-European}} religious texts. They preserve the {{p|Aryan}} religious
 Imagination in its most archaic form: sky-father {{c|Dyaus}}, storm-god
 
 {{c|Indra}}, fire-god {{c|Agni}}, soma-intoxication ritual, horse sacrifice,
@@ -120,8 +120,8 @@ European}}—the same pantheon structure as {{p|Greek}}, {{p|Roman}}, and
 
 {{p|Germanic}} religion, just with different names for the gods. {{c|Dyaus}}
 Is the same as {{c|Zeus}} and {{c|Jupiter}} and {{c|Tyr}} ({{p|German}})—all
-Descended from Proto-Indo-European {{p|Dyeus Phter}} ("sky father").
-{{c|Indra}} is cognate with the Greek {{c|Heracles}} in his storm-god
+Descended from {{x|Proto-Indo-European}} {{p|Dyeus Phter}} ("sky father").
+{{c|Indra}} is cognate with the {{x|Greek}} {{c|Heracles}} in his storm-god
 
 Aspects. The {{p|Vedas}} are {{p|Aryan}} religion in its pure form.
 
@@ -200,12 +200,12 @@ The {{p|Dravidian}} languages of the south—{{p|Tamil}}, {{p|Telugu}}, {{p|Kann
 
 Substrate, much as {{p|Basque}} preserves the pre-{{p|Indo-European}}
 Substrate of {{p|Europe}}. The line between {{p|Aryan}} and {{p|Dravidian}}
-India is roughly the boundary between the two great language
+{{p|India}} is roughly the boundary between the two great language
 Families, though bilingualism, literary exchange, and cultural
 
 Mixing have blurred it extensively over the centuries.
 
-The {{p|Aryan Migration}} is not, in the Gaiad's reading, a catastrophe.
+The {{p|Aryan Migration}} is not, in the {{x|Gaiad}}'s reading, a catastrophe.
 It is a transition—one that produced the civilization that would
 Compose the {{p|Vedas}}, the {{p|Upanishads}}, the {{p|Bhagavad Gita}}, the
 

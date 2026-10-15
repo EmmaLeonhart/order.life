@@ -277,7 +277,7 @@ Disintegrating empire). His political achievement was temporary.
 
 His cultural achievement was permanent.
 
-                                           And the Gaiad must also
+                                           And the {{x|Gaiad}} must also
 Assess him critically. {{c|Alexander}} killed hundreds of thousands
 Of people. He destroyed ancient cities. He enslaved populations.
 
@@ -301,7 +301,7 @@ A conqueror. His achievements are real but so are his costs. The
 Ancient world regarded him with a mixture of admiration and
 Horror that was probably more accurate than the pure adulation
 
-Of later romanticized traditions. The Gaiad reads him accordingly.
+Of later romanticized traditions. The {{x|Gaiad}} reads him accordingly.
 Magnificent, consequential, and terrible. A figure who reshaped
 World history in thirteen years and who left behind him a world
 That was permanently different—in ways both illuminating and

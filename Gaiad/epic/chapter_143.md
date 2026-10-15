@@ -3,14 +3,14 @@
 And the loop closed.
 
                           {{c|Haplogroup E}} is the haplogroup that
-Left Africa, crossed the {{p|Bab al-Mandab}} with {{c|Noah}}, wandered
+Left {{p|Africa}}, crossed the {{p|Bab al-Mandab}} with {{c|Noah}}, wandered
 {{p|Eurasia}} for some thousands of years, and then—remarkably, almost
 Uniquely among the out-of-Africa haplogroups—turned around and
 
 Went back. {{c|E}} is the loop-closer. {{c|E}} is the one that walked
-Out of Africa and then walked back in. Every other haplogroup
-That left Africa stayed out. {{c|D}} went to Japan and Tibet. {{c|C}}
-Went to Australia and the steppe. {{c|F}} went to the {{p|Near East}}
+Out of {{p|Africa}} and then walked back in. Every other haplogroup
+That left {{p|Africa}} stayed out. {{c|D}} went to {{p|Japan}} and {{p|Tibet}}. {{c|C}}
+Went to {{p|Australia}} and the steppe. {{c|F}} went to the {{p|Near East}}
 
 And branched into every other haplogroup. They all went east,
 North, west—they never came back. Except {{c|E}}.
@@ -29,16 +29,16 @@ Across {{p|North Africa}}, down into {{p|West Africa}}, across into
 {{p|East Africa}}. {{c|E}} became, eventually, the dominant haplogroup
 Of most of sub-Saharan {{p|Africa}}.
 
-                                       And this is where the Gaiad's
+                                       And this is where the {{x|Gaiad}}'s
 Story of circular migration finds its completion. Humanity left
-Africa, some of it. Wandered. Branched. Populated every continent.
+{{p|Africa}}, some of it. Wandered. Branched. Populated every continent.
 And one branch of the {{c|CT}} lineage—the {{c|E}} branch—came back. The
 
 Circle closed.
 
-                 And when {{c|E}} came back to Africa, {{c|E}} did
+                 And when {{c|E}} came back to {{p|Africa}}, {{c|E}} did
 Not find an empty continent. The haplogroups that had never left—
-{{c|A}} and {{c|B}}—were still there. {{c|A}} was in the deep African
+{{c|A}} and {{c|B}}—were still there. {{c|A}} was in the deep {{p|African}}
 Interior, carried by the {{p|San}} and {{p|Khoisan}} peoples of the
 
 {{p|Kalahari}}, by the {{p|Mbuti}} of the {{p|Congo}} rainforest, by the most
@@ -66,12 +66,12 @@ Population history.
 
                        But the displacement is also the restoration.
 Because {{c|E}}, in genetic terms, is {{p|African}}. {{c|E}}'s ancestor—the
-{{c|DE}} node, the split from the {{c|CF}} branch—was out of Africa, yes,
+{{c|DE}} node, the split from the {{c|CF}} branch—was out of {{p|Africa}}, yes,
 
 But {{c|E}} itself, as a distinct haplogroup, developed its identity
-In {{p|Africa}} or on its border. The return to Africa is the return
+In {{p|Africa}} or on its border. The return to {{p|Africa}} is the return
 To the continent where the human story began. The loop-closer
-Is the haplogroup that says: we are African.
+Is the haplogroup that says: we are {{p|African}}.
 
                                                     Ninety percent or
 More of all sub-Saharan {{p|African}} men today carry {{c|E}}. {{c|E}} is the
@@ -89,7 +89,7 @@ Massive, linguistically unifying event that made most of the
 Continent speak related languages. The {{p|Bantu}} languages, from
 
 {{p|Swahili}} to {{p|Zulu}} to {{p|Kikuyu}} to {{p|Kinyarwanda}}, are all descended
-From the same Proto-Bantu spoken by a relatively small population
+From the same {{x|Proto-Bantu}} spoken by a relatively small population
 In what is now the {{p|Cameroon}}/{{p|Nigeria}} border region around three
 Thousand years ago. And the {{c|E-V38}} haplogroup is the genetic
 
@@ -119,8 +119,8 @@ Were {{c|E}}. Every dynasty of ancient {{p|Egypt}}, from the {{p|First Dynasty}}
 Through the {{p|Ptolemaic}} period, was populated by men whose {{p|Y}}-chromosomes
 Carried some sub-clade of {{c|E}}. And the {{p|Egyptian}} civilization
 
-Is, in the Gaiad's reading, fundamentally an {{c|E}}-civilization. The
-First great African civilization of the historical record. The
+Is, in the {{x|Gaiad}}'s reading, fundamentally an {{c|E}}-civilization. The
+First great {{p|African}} civilization of the historical record. The
 Civilization that the biblical {{p|Israelites}} will be enslaved in.
 The civilization that {{c|Akhenaten}} will briefly monotheize and then
 
@@ -129,7 +129,7 @@ Headed gods, solar disks, underworld journeys of the soul—will
 Influence the religious imagination of every subsequent {{p|Mediterranean}}
 Culture. {{p|Egypt}}'s {{c|E}} signature is the proof that the loop closed.
 
-The loop closes here. The CT lineage left {{p|Africa}} some sixty or
+The loop closes here. The {{c|CT}} lineage left {{p|Africa}} some sixty or
 Seventy thousand years ago. A portion of the lineage, under the
 Name {{c|E}}, came back. And the {{c|E}} descendants built {{p|Egypt}}, built
 The {{p|Bantu}} expansion, built most of what would become sub-Saharan
@@ -149,7 +149,7 @@ And the circle closes on the genealogical tree.
 {{c|E}} became the dominant lineage of a continent whose earliest
 
 Haplogroups—{{c|A}} and {{c|B}}—remained in the margins. And somewhere,
-At the back of the Gaiad's mind, is the awareness that {{c|E}} is also
+At the back of the {{x|Gaiad}}'s mind, is the awareness that {{c|E}} is also
 Going to appear, in the modern world, in the {{p|African-American}}
 Population of the {{p|United States}}. The descendants of the enslaved
 
@@ -159,7 +159,7 @@ Slave trade are, in substantial majority, carriers of {{c|E}}-sub-clades.
 Could sequence their {{p|Y}}-chromosomes, we would almost certainly
 
 Find {{c|E}}. The modern {{p|African-American}} diaspora is the {{c|E}}
-Haplogroup reaching into the Western Hemisphere not via the
+Haplogroup reaching into the {{p|Western Hemisphere}} not via the
 {{c|Q}}-carried original migration across {{p|Beringia}}, but via the
 Forced middle-passage migration that began in the fifteenth century.
 
@@ -198,7 +198,7 @@ Lineage back to the continent it had left.
 And with this chapter, the haplogroup sequence is complete.
 Fourteen chapters. Fourteen haplogroups. One great branching tree.
 The human story as a genetic genealogy is, for now, told. The
-Chapters that follow will return to Register B—named people, named
+Chapters that follow will return to {{x|Register B}}—named people, named
 
 Places, named civilizations. {{c|Abraham}} and {{c|Moses}} and {{c|David}} and
 {{c|Homer}} and {{c|Confucius}} and {{c|Buddha}}. The historical age begins.
@@ -212,7 +212,7 @@ To stray, is another chapter of the haplogroup story, told in a
 
 Different register.
 
-                      {{c|Haplogroup E}}. Africa. The circle closes.
+                      {{c|Haplogroup E}}. {{p|Africa}}. The circle closes.
 The branches have branched. The tree is complete. The human family
 Has filled the earth. And now—named figures. Named civilizations.
-The historical age of the Gaiad begins.
+The historical age of the {{x|Gaiad}} begins.

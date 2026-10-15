@@ -16,7 +16,7 @@ Seven hundred BCE. One of the {{p|Three Sovereigns and Five Emperors}}—
 The mythic rulers who, in {{p|Chinese}} traditional history, preceded
 
 The {{p|Xia dynasty}} and founded the civilization. {{c|Huangdi}}'s name
-Means "Yellow Emperor" because he was associated with the yellow
+Means "{{c|Yellow Emperor}}" because he was associated with the yellow
 Earth of the {{p|North China Plain}}—the loess soil blown in from the
 {{p|Gobi Desert}} by millennia of northern winds, rich and fertile and
 
@@ -48,7 +48,7 @@ Of its history. Every subsequent {{p|Chinese}} emperor would claim,
 
 At some level, descent from {{c|Huangdi}}. The {{p|Han Chinese}} people,
 To this day, call themselves "{{p|descendants of the Yellow Emperor}}"
-(Yanhuang zisun, combining {{c|Huangdi}} and his proto-historical
+({{x|Yanhuang}} zisun, combining {{c|Huangdi}} and his proto-historical
 Contemporary {{c|Yandi}}, the "Flame Emperor"). The civilizational self-
 
 Concept of {{p|China}} is, in its traditional form, anchored in {{c|Huangdi}}.
@@ -69,12 +69,12 @@ The figures who populate the traditional chronologies before the
 
 Historical record begins.
 
-                                But the Gaiad honors them. Because
+                                But the {{x|Gaiad}} honors them. Because
 Even if {{c|Huangdi}} is a legendary figure rather than a historical
 One, he represents something real: the consolidation of {{p|Chinese}}
 
 Civilization on the {{p|North China Plain}}, the integration of multiple
-Neolithic cultures ({{p|Yangshao}}, {{p|Longshan}}, {{p|Hongshan}}, and others)
+{{x|Neolithic}} cultures ({{p|Yangshao}}, {{p|Longshan}}, {{p|Hongshan}}, and others)
 Into the proto-civilization that would eventually become {{p|Shang}}-
 Dynasty {{p|China}}. And this process—the gradual coalescence of
 
@@ -95,7 +95,7 @@ The {{p|I Ching}}). {{c|Nüwa}}—the serpent-bodied goddess who created
 Humanity from yellow clay and who repaired the heavens when they
 Cracked, melting five-colored stones to patch the sky. {{c|Shennong}}—
 
-"The Divine Farmer," who taught humans agriculture by trying every
+"The {{c|Divine Farmer}}," who taught humans agriculture by trying every
 Plant to see which were edible, which were medicinal, which were
 Poisonous, and who died when he finally ingested a plant too toxic
 For his own invented cures. These figures are older than {{c|Huangdi}},
@@ -110,7 +110,7 @@ Herbalism. Together they form the {{p|Chinese}} mythic prehistory
 That leads to {{c|Huangdi}}'s unification.
 
                                                  And what makes the
-{{p|Chinese}} tradition distinctive, in the Gaiad's reading, is the
+{{p|Chinese}} tradition distinctive, in the {{x|Gaiad}}'s reading, is the
 
 Continuity. Every subsequent dynasty of {{p|Chinese}} history has
 Maintained an unbroken connection to {{c|Huangdi}}'s mythic founding.
@@ -149,7 +149,7 @@ Self-concept has never reset.
                                     And the language reinforces this.
 {{p|Chinese}} characters are the only major writing system still in
 
-Use that has maintained substantial continuity from its Bronze Age
+Use that has maintained substantial continuity from its {{x|Bronze Age}}
 Origins. The oracle bones of the {{p|Shang}} dynasty, written around
 Thirteen hundred BCE, used characters that a modern {{p|Chinese}} reader
 Can partially decipher. Thirteen hundred BCE to the twenty-first
@@ -173,23 +173,23 @@ Unifier of the {{p|Yellow River}} civilization. The culture-hero who
 Gave the {{p|Chinese}} people their arts. The mythic ancestor whose
 Veneration has outlasted every other ancient founder's. The
 Figure who stands, in the {{p|Chinese}} imagination, where {{c|Adam}} stands
-In the Hebrew imagination and where {{c|Rama}} stands in the {{p|Indian}}
+In the {{x|Hebrew}} imagination and where {{c|Rama}} stands in the {{p|Indian}}
 
 Imagination and where the {{c|Jade Emperor}} stands in the {{p|Chinese}}
 Celestial hierarchy. The earthly progenitor. The founder who is
 Still present.
 
-                   And the Gaiad is careful here. The Gaiad does not
+                   And the {{x|Gaiad}} is careful here. The {{x|Gaiad}} does not
 Claim that {{c|Huangdi}} is a historical king in the same sense that
 
 {{c|Sargon}} is. The archaeological record is clear: there is no hard
 Evidence for a specific ruler named {{c|Huangdi}} who lived around
 Twenty-seven hundred BCE. He is a figure of mythic memory, not
-Historical record. But the Gaiad also does not dismiss him. Because
+Historical record. But the {{x|Gaiad}} also does not dismiss him. Because
 
 The cultural reality that {{c|Huangdi}} represents—the founding of
 {{p|Chinese}} civilization in the {{p|Yellow River}} basin, the consolidation
-Of multiple Neolithic cultures into a single civilizational project,
+Of multiple {{x|Neolithic}} cultures into a single civilizational project,
 The invention of the techniques that would allow {{p|China}} to become
 
 The most populous and longest-continuous civilization on earth—
@@ -198,7 +198,7 @@ Stands for something that actually happened, even if he himself
 As a specific individual did not.
 
                                         The legend and the truth are
-Tangled. The Gaiad accepts the tangle. And the chapter pays its
+Tangled. The {{x|Gaiad}} accepts the tangle. And the chapter pays its
 Respects to the {{c|Yellow Emperor}} in the same spirit that it pays
 Its respects to {{c|Noah}}—as the mythic personification of a real
 

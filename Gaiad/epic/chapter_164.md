@@ -1,7 +1,7 @@
 # Chapter 164: David
 
 And back to the {{p|Levant}}. Back to {{p|Israel}}, newly emerged from the
-Bronze Age Collapse, settling in the highlands of {{p|Canaan}} and
+{{x|Bronze Age Collapse}}, settling in the highlands of {{p|Canaan}} and
 Struggling to establish itself as a coherent nation among hostile
 Neighbors.
 
@@ -48,7 +48,7 @@ By an {{p|Aramean}} king (probably {{c|Hazael of Aram}}), boasting of defeating
 The "House of {{c|David}}" ({{p|bytdwd}}). This proves, at minimum, that by
 The ninth century BCE there was a {{p|Judahite}} royal dynasty claiming
 Descent from someone named {{c|David}}. Some historical {{c|David}} existed,
-Founder of a dynasty. The Gaiad accepts this and proceeds.
+Founder of a dynasty. The {{x|Gaiad}} accepts this and proceeds.
 
 What the {{p|Hebrew Bible}} tells us about {{c|David}} is the most intensely
 Detailed human portrait of any pre-Axial historical figure. We
@@ -61,14 +61,14 @@ Even the actual historical {{c|David}}, however modest his realm, must
 Have been an extraordinary figure to generate this literary response.
 
 And what a literary response it is. The books of {{p|1}} and {{p|2 Samuel}},
-Especially the so-called "Court History" or "Succession Narrative"
+Especially the so-called "{{x|Court History}}" or "{{x|Succession Narrative}}"
 (Chapters nine through twenty of {{p|2 Samuel}} and the first two
 Chapters of {{p|1 Kings}}), constitute one of the great works of ancient
 
 Prose. Their narrative economy, psychological insight, and moral
 Complexity have been recognized as foundational by critics as
 Diverse as {{c|Erich Auerbach}}, {{c|Robert Alter}}, {{c|Meir Sternberg}}, and
-{{c|Harold Bloom}}. The author of the Court History stands alongside
+{{c|Harold Bloom}}. The author of the {{x|Court History}} stands alongside
 
 {{c|Homer}} as one of the two great literary pioneers of the ancient
 {{p|Near East}}, and unlike {{c|Homer}}'s world of kings and gods, the Court
@@ -85,7 +85,7 @@ Imagination. Every subsequent portrait of a complex monarch—
 {{c|Shakespeare}}'s {{c|Henry IV}}, {{c|Hamlet}}'s troubled father, every tormented
 King in the {{p|Western}} tradition—traces ancestry, in some measure,
 
-To the {{c|David}} of the Court History.
+To the {{c|David}} of the {{x|Court History}}.
 
                                           Let us narrate {{c|David}}'s
 Life as the text gives it. {{c|David}} is the youngest son of {{c|Jesse}}
@@ -102,7 +102,7 @@ Or perhaps something more severe), and his attendants procure
 {{c|Saul}}'s court. Then comes the famous encounter with {{c|Goliath}}, the
 
 {{p|Philistine}} giant. The {{p|Philistines}}—the {{p|Sea Peoples}} who had
-Settled the southern coast of {{p|Canaan}} during the Bronze Age
+Settled the southern coast of {{p|Canaan}} during the {{x|Bronze Age}}
 Collapse—are {{p|Israel}}'s principal enemy in this period. Their
 Champion {{c|Goliath}} challenges any {{p|Israelite}} to single combat.
 
@@ -181,7 +181,7 @@ Righteous anger by the parable, condemns the rich man—and {{c|Nathan}}
 Replies: "You are the man." {{c|David}} repents. He fasts, he weeps, he
 
 Composes the psalm traditionally identified as {{p|Psalm 51}} ("Have
-Mercy upon me, O God, according to thy lovingkindness..."). But
+Mercy upon me, O {{c|God}}, according to thy lovingkindness..."). But
 The consequences unfold. The first child {{c|Bathsheba}} bears to
 {{c|David}} dies in infancy. His family is cursed. His eldest son
 
@@ -195,10 +195,10 @@ Stabbed by {{c|Joab}}, {{c|David}}'s general (against {{c|David}}'s explicit
 Orders to spare him). {{c|David}}'s grief for {{c|Absalom}} is one of the
 Most devastating passages in ancient literature: "O my son
 
-{{c|Absalom}}, my son, my son {{c|Absalom}}! Would God I had died for thee,
+{{c|Absalom}}, my son, my son {{c|Absalom}}! Would {{c|God}} I had died for thee,
 O {{c|Absalom}}, my son, my son!" A father's anguish, undiluted by
 Any official decorum, recorded in the annals of a king. The
-Court History allows this. It does not edit the grief out.
+{{x|Court History}} allows this. It does not edit the grief out.
 
 {{c|David}} survives the rebellion but is broken. The remainder of
 His reign is marked by further intrigues: the rebellion of {{c|Sheba}},
@@ -240,7 +240,7 @@ Man who loves, sins, repents, suffers, and finally dies. His
 Covenant relationship with {{c|Yahweh}} is mediated through his human
 Agency, his human choices. This is a profoundly different vision
 
-Of kingship from anything in the Bronze Age. Bronze Age kings
+Of kingship from anything in the {{x|Bronze Age}}. {{x|Bronze Age}} kings
 Were divine or semi-divine. They stood outside the ordinary
 Human order. {{c|David}} stands within it. He is a new kind of
 Religious figure: the monarch who is not a god but a servant of
@@ -248,7 +248,7 @@ Religious figure: the monarch who is not a god but a servant of
 A god. The monarch who is measured against divine moral standards
 And can fail to meet them. The monarch who repents publicly.
 This is the model that will shape later {{p|Jewish}}, {{p|Christian}},
-And {{p|Islamic}} political theology. A king stands under God, not
+And {{p|Islamic}} political theology. A king stands under {{c|God}}, not
 
 Beside him. A king can be rebuked by a prophet. A king is
 Accountable. The {{c|David}}-{{c|Nathan}} encounter—the prophet confronting
@@ -261,13 +261,13 @@ Development of democracy, constitutional government, and human
 Rights are profound. They trace back, in substantial measure, to
 
 {{c|David}}'s kneeling before {{c|Nathan}} and saying: "I have sinned
-Against the Lord."
+Against the {{c|Lord}}."
 
                         {{c|David}}. Son of {{c|Jesse}}. Shepherd. Harpist.
 Giant-slayer. Outlaw. Mercenary. King. Adulterer. Murderer.
 
 Penitent. Psalmist. Father. Mourner. Founder of dynasty. The
-Court History's devastating human portrait. The covenant with
+{{x|Court History}}'s devastating human portrait. The covenant with
 {{c|Yahweh}} to establish an eternal house. The {{p|Jerusalem}} capital.
 The {{p|Ark of the Covenant}} installed with dancing. The promise of
 

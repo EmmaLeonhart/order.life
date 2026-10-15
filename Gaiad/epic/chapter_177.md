@@ -16,7 +16,7 @@ By kings (traditionally seven of them, ending with {{c|Tarquin the Proud}}),
 Overthrown. The {{p|Roman Republic}} had a distinctive constitutional
 
 Structure: two consuls elected annually to executive authority
-(Checking each other), a Senate of aristocratic elders providing
+(Checking each other), a {{x|Senate}} of aristocratic elders providing
 Continuity and policy guidance, assemblies of citizens voting on
 Laws and electing magistrates, and tribunes of the plebs with
 
@@ -132,7 +132,7 @@ Combat casualties in {{p|Western}} history until the twentieth century.
 After {{p|Cannae}}, the {{p|Roman}} state faced existential crisis. Many
 Of their {{p|Italian}} allies defected to {{c|Hannibal}}. The war seemed
 
-Lost. But {{p|Rome}} did not break. The Senate, showing the discipline
+Lost. But {{p|Rome}} did not break. The {{x|Senate}}, showing the discipline
 For which it became famous, refused to negotiate with {{c|Hannibal}}.
 {{p|Rome}} would fight on. And it did. The general {{c|Quintus Fabius Maximus}}
 Adopted what became known as "Fabian tactics": refusing to engage
@@ -160,7 +160,7 @@ Was reduced to a shadow of its former power. But it still existed.
 And for two generations, {{p|Carthage}} remained—a commercial city
 Confined to its {{p|African}} hinterland, paying its indemnity, gradually
 Recovering economically. {{p|Rome}} watched with increasing distrust.
-The old senator {{c|Cato the Elder}} ended every speech in the Senate,
+The old senator {{c|Cato the Elder}} ended every speech in the {{x|Senate}},
 
 Regardless of its topic, with the phrase "{{p|Carthago delenda est}}"—
 "{{p|Carthage}} must be destroyed." In the mid-second century BCE,
@@ -249,7 +249,7 @@ Victories against the greatest power of his age, and sustained
 A hopeless campaign in hostile territory for fifteen years before
 
 Finally being defeated not by battle but by the systematic attrition
-Of superior resources. The Gaiad honors {{c|Hannibal}}'s genius even
+Of superior resources. The {{x|Gaiad}} honors {{c|Hannibal}}'s genius even
 While recognizing that his cause—the preservation of {{p|Punic}}
 Civilization against {{p|Roman}} expansion—was ultimately lost. He
 

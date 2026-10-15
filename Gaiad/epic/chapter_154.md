@@ -12,13 +12,13 @@ Reconciliation with his brother {{c|Esau}}, the favoritism toward
 {{c|Rachel}}'s children over {{c|Leah}}'s, the grief over the supposed death
 Of {{c|Joseph}}. These are stories well-known in the {{p|Jewish}}, {{p|Christian}},
 
-And {{p|Islamic}} traditions, and the Gaiad will not rehearse them in
-Detail. What the Gaiad does do, in this chapter, is place {{c|Jacob}}
+And {{p|Islamic}} traditions, and the {{x|Gaiad}} will not rehearse them in
+Detail. What the {{x|Gaiad}} does do, in this chapter, is place {{c|Jacob}}
 And his family historically—in the late {{p|Middle Kingdom}} or the
 Beginning of the {{p|Second Intermediate Period}}, around seventeen-
 
 Hundred to sixteen-fifty BCE, in the context of the {{p|Hyksos}}
-Arrival in {{p|Egypt}}. And the Gaiad makes a specific claim: {{c|Joseph}}'s
+Arrival in {{p|Egypt}}. And the {{x|Gaiad}} makes a specific claim: {{c|Joseph}}'s
 Rise to prominence in {{p|Egypt}} is legible precisely because he is
 A {{p|Canaanite}}—a member of the same {{c|J}}-haplogroup {{p|Semitic}} population
 
@@ -48,7 +48,7 @@ Family down to {{p|Egypt}} and settles them in the region of {{p|Goshen}}—
 The eastern {{p|Nile Delta}}, the pastoral lands best suited to their
 Herding lifestyle.
 
-                       And the Gaiad's historical overlay on this
+                       And the {{x|Gaiad}}'s historical overlay on this
 Narrative is the {{p|Hyksos}} framework. The {{p|Hyksos}}—whose name in
 
 {{p|Egyptian}} is {{c|Heka-khasut}}, "rulers of foreign lands"—were a
@@ -83,7 +83,7 @@ Divided—the {{p|Hyksos}} ruling the delta, the native {{p|Egyptians}} ruling
 {{p|Upper Egypt}}, with {{p|Nubian}} kingdoms further south occasionally
 Allied with either side depending on strategic calculations.
 
-And this is the world in which, the Gaiad argues, the biblical
+And this is the world in which, the {{x|Gaiad}} argues, the biblical
 {{c|Jacob}} and {{c|Joseph}} narratives take place. {{c|Joseph}}'s rise to
 Vizier-level prominence is possible because he is a {{p|Canaanite}}—
 And the pharaoh who appoints him is a {{p|Hyksos}} pharaoh. The
@@ -98,7 +98,7 @@ Not the exception; thousands of other {{p|Canaanite}} families were
 Doing the same thing. The biblical narrative sits comfortably
 Inside the {{p|Hyksos}} period.
 
-And the Gaiad makes a further claim: the {{p|Hyksos}} themselves are
+And the {{x|Gaiad}} makes a further claim: the {{p|Hyksos}} themselves are
 Not the villains that later {{p|Egyptian}} historiography made them out
 To be. Later native {{p|Egyptian}} sources—particularly the {{p|New Kingdom}}
 Accounts written after the {{p|Hyksos}} expulsion—would demonize them as
@@ -144,13 +144,13 @@ Dynasty adopted local administrative forms while retaining its
 Own linguistic and religious identity.
 
                                              And the {{c|Jacob}} family—
-The future Israelites—were, in the Gaiad's reading, a sub-population
+The future {{c|Israelites}}—were, in the {{x|Gaiad}}'s reading, a sub-population
 Of this larger {{p|Canaanite}} presence in the {{p|Hyksos}}-controlled delta.
 
 They came during the {{p|Hyksos}} period. They flourished during it.
 They were welcomed, even privileged, during it. {{c|Joseph}}'s rise
 Is legible against this background. And the specific tribal names
-That the Gaiad has been tracking—{{c|Reuben}}, {{c|Simeon}}, {{c|Levi}}, {{c|Judah}},
+That the {{x|Gaiad}} has been tracking—{{c|Reuben}}, {{c|Simeon}}, {{c|Levi}}, {{c|Judah}},
 
 {{c|Issachar}}, {{c|Zebulun}}, {{c|Dan}}, {{c|Naphtali}}, {{c|Gad}}, {{c|Asher}}, {{c|Joseph}}
 (Later divided into {{c|Ephraim}} and {{c|Manasseh}}), {{c|Benjamin}}—are the
@@ -187,7 +187,7 @@ Welcome and prosperity under the {{p|Hyksos}} pharaoh curdles, over
 Several generations, into a memory of oppression under {{p|New
 Kingdom}} pharaohs who "knew not {{c|Joseph}}." The biblical phrase—
 "a new king arose over {{p|Egypt}} who knew not {{c|Joseph}}"—is, in the
-Gaiad's reading, the moment when the {{p|Eighteenth Dynasty}} restoration
+{{x|Gaiad}}'s reading, the moment when the {{p|Eighteenth Dynasty}} restoration
 
 Ends the {{p|Canaanite}}-friendly era. The new king does not know
 {{c|Joseph}} because {{c|Joseph}} served a {{p|Hyksos}} king, and the new

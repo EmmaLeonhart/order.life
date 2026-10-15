@@ -11,7 +11,7 @@ Valley. {{p|Isin}} and {{p|Larsa}} competed for supremacy in the south.
 In the north and east. And one relatively minor {{p|Amorite}} city-
 
 State, {{p|Babylon}}, began its rise. {{p|Babylon}}—the city whose name
-Comes from {{p|Akkadian}} {{c|Babilim}}, "Gate of God"—had been a
+Comes from {{p|Akkadian}} {{c|Babilim}}, "Gate of {{c|God}}"—had been a
 Modest provincial center for centuries. But under its {{p|First
 Dynasty}}, founded around nineteen hundred BCE, {{p|Babylon}} grew. And
 
@@ -95,22 +95,22 @@ Preserved example, and its influence on later legal traditions—
 
 Through the {{p|Assyrian}} and {{p|Neo-Babylonian}} codes, through
 {{p|Persian}} imperial law, through the {{p|Mosaic}} law of the {{p|Hebrew}}
-Bible (which shows significant parallels to {{c|Hammurabi}}), through
+{{x|Bible}} (which shows significant parallels to {{c|Hammurabi}}), through
 {{p|Roman}} law, and onward—is foundational. Every legal system that
 
 Descends from the ancient {{p|Near East}} carries {{c|Hammurabi}}'s
 Influence. Every "eye for an eye" principle. Every notion of
 Written public law. Every claim that law is divinely sanctioned.
 
-And {{c|Hammurabi}}, in the Gaiad's reading, is {{c|Abraham}}'s cousin.
+And {{c|Hammurabi}}, in the {{x|Gaiad}}'s reading, is {{c|Abraham}}'s cousin.
 Not in the narrow biological sense—the two figures are separated by
 Perhaps a century or more—but in the broader genealogical sense
-That the Gaiad applies. Both are {{c|J}}-haplogroup {{p|Semitic}} men.
+That the {{x|Gaiad}} applies. Both are {{c|J}}-haplogroup {{p|Semitic}} men.
 
 Both are products of the {{p|Amorite}} migrations that reshaped
 {{p|Mesopotamia}} in the early second millennium BCE. Both descend, at
 Some remove, from the same pool of {{p|Semitic}} ancestors who had
-Spread across the region after the fall of {{p|Ur III}}. The Gaiad
+Spread across the region after the fall of {{p|Ur III}}. The {{x|Gaiad}}
 
 Makes them cousins in the cultural sense—contemporaries, or near-
 Contemporaries, who shared a haplogroup, a language family, a
@@ -142,7 +142,7 @@ His death, {{p|Babylon}} was weakened by succession struggles. His
 Son {{c|Samsu-iluna}} faced rebellions across the empire. The southern
 Provinces seceded. The {{p|Sealand Dynasty}} established itself in the
 Marshes of the {{p|Persian Gulf}}. And then, in fifteen ninety-five BCE,
-The {{p|Hittites}}—Indo-European invaders from {{p|Anatolia}} whose chapter
+The {{p|Hittites}}—{{x|Indo-European}} invaders from {{p|Anatolia}} whose chapter
 
 Will come later—raided {{p|Babylon}} itself, sacked the city, and
 Carried off the statue of {{c|Marduk}}. The {{p|Old Babylonian}} empire

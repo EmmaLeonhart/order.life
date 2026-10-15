@@ -44,7 +44,7 @@ Reigned for approximately twenty-two years. She was astonishingly
 
 Successful. She prioritized trade over warfare—the famous expedition
 To {{p|Punt}} (on the {{p|Red Sea}} coast), which brought back myrrh-trees,
-Incense, exotic animals, and African wealth, was {{c|Hatshepsut}}'s
+Incense, exotic animals, and {{p|African}} wealth, was {{c|Hatshepsut}}'s
 Crowning diplomatic achievement. She built one of the most beautiful
 
 Mortuary temples in {{p|Egypt}}—{{p|Deir el-Bahari}}, on the western bank
@@ -98,7 +98,7 @@ Disk, {{c|Aten}}—with himself as the sole intermediary between the
 
 Divine and humanity. This is the famous "{{c|Aten}} heresy" or
 "{{c|Amarna}} revolution"—sometimes celebrated in popular history as the
-First monotheism. The Gaiad's reading is more skeptical. {{c|Akhenaten}}'s
+First monotheism. The {{x|Gaiad}}'s reading is more skeptical. {{c|Akhenaten}}'s
 Religious innovation was not quite monotheism in the {{c|Abrahamic}}
 
 Sense. It retained cosmic elements of the traditional {{p|Egyptian}}
@@ -117,16 +117,16 @@ Shares striking similarities with {{p|Psalm 104}} of the {{p|Hebrew
 Bible}}—a parallel that has led some scholars to argue that {{p|Hebrew}}
 
 Monotheism was influenced by or descended from {{c|Akhenaten}}'s
-Earlier experiment. The Gaiad takes a careful position on this:
+Earlier experiment. The {{x|Gaiad}} takes a careful position on this:
 The parallel is real, but the historical transmission is murky,
 And the {{p|Hebrew}} tradition had its own independent development.)
 
-And here the Gaiad makes a specific and possibly provocative claim.
+And here the {{x|Gaiad}} makes a specific and possibly provocative claim.
 {{c|Akhenaten}}, despite his reputation in modern pop-religion as a
-"Proto-monotheist hero," was—in the Gaiad's reading—the pharaoh
+"Proto-monotheist hero," was—in the {{x|Gaiad}}'s reading—the pharaoh
 Who persecuted the {{p|Israelites}}. The "{{p|new king who knew not
 
-Joseph}}" of the {{p|Exodus}} narrative may be, in the Gaiad's reading,
+Joseph}}" of the {{p|Exodus}} narrative may be, in the {{x|Gaiad}}'s reading,
 {{c|Akhenaten}} himself. Why? Because {{c|Akhenaten}}'s religious revolution
 Was anti-foreign-cult. In closing down the temples of the traditional
 {{p|Egyptian}} gods, he also closed down the temples of the {{p|Semitic}}
@@ -137,7 +137,7 @@ Family, still preserving their own {{p|Semitic}} religious identity—
 Found themselves religiously suppressed under {{c|Akhenaten}}'s regime.
 
 The irony is striking: {{c|Akhenaten}}, celebrated by modern writers
-As the first monotheist, was in the Gaiad's reading the active
+As the first monotheist, was in the {{x|Gaiad}}'s reading the active
 Persecutor of the {{p|Israelites}}, whose descendants would develop
 The most important monotheism in subsequent world history. The
 
@@ -201,7 +201,7 @@ Peoples}}—the great migrations that would contribute to the
 Kingdom}}'s long expansion was ending. The system that had made
 {{c|Ramesses}}'s grandeur possible was straining toward its final
 
-Failure. And the {{p|Exodus}} narrative—which the Gaiad reads as
+Failure. And the {{p|Exodus}} narrative—which the {{x|Gaiad}} reads as
 The {{p|Israelite}} departure from {{p|Egypt}} in the late {{p|Nineteenth
 Dynasty}} or early {{p|Twentieth Dynasty}}—fits into this period of
 Growing instability.
@@ -216,7 +216,7 @@ Sixty-six-year reign and his peace treaty with the {{p|Hittites}}. The
 Its peak. The monumental architecture, the international diplomacy,
 The religious upheaval, and the slowly tightening pressures that
 
-Would eventually bring the Bronze Age itself crashing down.
+Would eventually bring the {{x|Bronze Age}} itself crashing down.
 
 {{p|New Kingdom}}. {{c|Hatshepsut}}. {{c|Thutmose III}}. {{c|Akhenaten}}. {{c|Ramesses II}}.
 The {{p|Egyptian}} Empire. The {{p|Kadesh Peace Treaty}}. The persecution of

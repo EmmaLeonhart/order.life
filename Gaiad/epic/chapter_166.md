@@ -13,7 +13,7 @@ Development of {{p|Israel}} and the wider world.
                                                      Begin with {{p|Assyria}}.
 The {{p|Assyrian}} state, centered on the {{p|Tigris}} river in northern
 {{p|Mesopotamia}}, had existed in various forms since the early second
-Millennium BCE—the Gaiad has touched on the {{p|Old Assyrian}} and
+Millennium BCE—the {{x|Gaiad}} has touched on the {{p|Old Assyrian}} and
 
 {{p|Middle Assyrian}} periods. But {{p|Assyria}} reached its greatest
 Extent and power in what is called the {{p|Neo-Assyrian Empire}}—
@@ -35,7 +35,7 @@ With their skins." "I built a pillar over the city gate, and I
 Flayed all the chief men... I stuck some on stakes... I cut off
 The limbs of the officers... I cut off the hands and feet of
 
-Some, and I cut off the ears and noses of others." The Gaiad does
+Some, and I cut off the ears and noses of others." The {{x|Gaiad}} does
 Not dwell on these horrors gratuitously. But they are part of the
 Historical record, and they affected everyone who lived in the
 {{p|Near East}} during the {{p|Neo-Assyrian}} period. The threat of
@@ -160,7 +160,7 @@ For three centuries vanished within a single generation. The
 
 Verse ({{p|Book of Nahum}}, probably composed very shortly after the
 Event): "Woe to the bloody city! It is all full of lies and
-Robbery... Nineveh is laid waste; who will bemoan her?" Every
+Robbery... {{p|Nineveh}} is laid waste; who will bemoan her?" Every
 Subject people of the {{p|Assyrian}} empire shared this sentiment.
 
 {{p|Assyria}} had been an entity that stood for imperial cruelty on

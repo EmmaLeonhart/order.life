@@ -3,7 +3,7 @@
 And now, while the {{p|Mediterranean}} shatters and {{p|China}} is reborn,
 We must turn south. Because something vast is happening on the
 {{p|African}} continent. A population expansion that, in sheer scope
-And demographic impact, will equal any of the movements the Gaiad
+And demographic impact, will equal any of the movements the {{x|Gaiad}}
 
 Has described—including the {{p|Yamnaya}} expansion, the {{p|Austronesian}}
 Migrations, the {{p|Aryan}} movements into {{p|India}}. But unlike those,
@@ -19,10 +19,10 @@ Continent's demographic map becomes the map of {{p|Bantu}} speakers.
 Belonging to the {{p|Niger-Congo}} family, specifically the {{p|Bantu}}
 Branch. They carried primarily the {{c|E1b1a}} (now called {{c|E-V38}})
 {{p|Y-chromosome}} haplogroup—a sub-clade of the {{c|E}} haplogroup that
-The Gaiad has already described as the {{p|African}} branch that
+The {{x|Gaiad}} has already described as the {{p|African}} branch that
 
 Stayed on the continent while its sister clades migrated out. And
-Around three thousand BCE—earlier than the event the Gaiad is
+Around three thousand BCE—earlier than the event the {{x|Gaiad}} is
 About to narrate but laying the necessary foundation—the early
 {{p|Bantu}} speakers developed agriculture: {{p|West African}} yam cultivation
 
@@ -259,7 +259,7 @@ Particular people—originating in a small region of {{p|West Africa}}—
 
 Became, through slow demographic growth and gradual geographic
 Spread, one of the world's largest ethnolinguistic families. The
-Gaiad has tended, in its narration of this vast process, to
+{{x|Gaiad}} has tended, in its narration of this vast process, to
 Emphasize demographic and linguistic continuity. But we must also
 
 Note that the {{p|Bantu}} expansion was not peaceful. It involved
@@ -270,7 +270,7 @@ Former territories did not go willingly. Some were killed; some
 Were enslaved; some were assimilated under duress. The {{p|Bantu}}
 Expansion was gentler than many conquest migrations in world
 History (the {{p|Mongol}} expansion, the {{p|Indo-European}} expansion
-Into {{p|Europe}}, the {{p|European}} colonization of the Americas), but it
+Into {{p|Europe}}, the {{p|European}} colonization of the {{p|Americas}}), but it
 
 Was not bloodless. It was a real historical movement with real
 Human costs. The {{p|Khoisan}} of the {{p|Kalahari}}, the {{p|Pygmies}} of the
@@ -281,21 +281,21 @@ Could not displace them. Their survival on those margins is itself
 A testimony both to their resilience and to the completeness of
 The {{p|Bantu}} occupation of everywhere more agriculturally desirable.
 
-The Gaiad honors the {{p|Bantu}} expansion. The Gaiad honors also the
+The {{x|Gaiad}} honors the {{p|Bantu}} expansion. The {{x|Gaiad}} honors also the
 
 Pre-{{p|Bantu}} peoples who were displaced or assimilated in its course.
-The Gaiad honors the hybrid populations that resulted. The Gaiad
+The {{x|Gaiad}} honors the hybrid populations that resulted. The {{x|Gaiad}}
 Honors the {{p|Pygmies}} who retained their identity in the depths of
-The {{p|Ituri}}. The Gaiad honors the {{p|Khoisan}} who retained theirs in
+The {{p|Ituri}}. The {{x|Gaiad}} honors the {{p|Khoisan}} who retained theirs in
 
-The depths of the {{p|Kalahari}}. The Gaiad honors the {{p|Nilotic}} and
+The depths of the {{p|Kalahari}}. The {{x|Gaiad}} honors the {{p|Nilotic}} and
 {{p|Cushitic}} peoples who retained theirs along the {{p|Rift Valley}} and
 The {{p|Horn of Africa}}. All of these peoples, together, constitute
 The anthropological mosaic of {{p|Africa}}. The {{p|Bantu}} are the largest
 
 Component but not the only component. Sub-Saharan {{p|Africa}} is
 More diverse than its {{p|Bantu}} majority might suggest. And the
-Gaiad reads the {{p|Bantu}} expansion as one of the most important
+{{x|Gaiad}} reads the {{p|Bantu}} expansion as one of the most important
 Processes of the last three thousand years—because it laid the
 
 Demographic foundation of the modern {{p|African}} continent.

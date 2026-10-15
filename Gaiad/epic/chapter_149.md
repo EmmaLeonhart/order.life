@@ -86,7 +86,7 @@ Replaced by the sky father. The spiral was replaced by the wheel.
 The peaceful agricultural village was replaced by the patriarchal
 Warrior band. The female-centered kinship of {{p|Cucuteni-Trypillia}}
 Was replaced by the patrilineal inheritance of {{p|Yamnaya}}. And the
-Indo-European languages—ancestor of {{p|Greek}} and {{p|Latin}} and {{p|Sanskrit}}
+{{x|Indo-European}} languages—ancestor of {{p|Greek}} and {{p|Latin}} and {{p|Sanskrit}}
 
 And all their daughters—took the place of whatever language the
 {{p|Cucuteni-Trypillia}} peoples had spoken. That language is lost.
@@ -136,7 +136,7 @@ Of {{c|R1a}} and {{c|R1b}}—the two great {{p|Yamnaya}} Y-chromosome haplogroup
 Is today dominant across essentially all of {{p|Europe}} and much of
 {{p|India}} and {{p|Iran}}. Billions of people are {{p|Yamnaya}}'s grandchildren.
 
-And the Gaiad's account of this is complex, because the Gaiad
+And the {{x|Gaiad}}'s account of this is complex, because the {{x|Gaiad}}
 Does not simply celebrate it. The {{p|Yamnaya}} expansion was, in
 Many places, a destruction. The peaceful mother-goddess cultures
 Of old {{p|Europe}}—{{p|Cucuteni-Trypillia}}, {{p|Minoan Crete}} (partially),
@@ -161,8 +161,8 @@ Females were absorbed. This was not a peaceful migration. It was,
 By any modern standard, a genocide—or several genocides, spread
 Across the continent over a thousand years.
 
-The Gaiad does not simplify this. The Yamnaya brought many things:
-The horse, the wheel, the Indo-European languages, the heroic
+The {{x|Gaiad}} does not simplify this. The {{p|Yamnaya}} brought many things:
+The horse, the wheel, the {{x|Indo-European}} languages, the heroic
 Warrior ethos that would eventually produce {{p|Homeric}} epic and the
 {{p|Vedic}} hymns and the {{p|Eddaic}} poetry. These are genuine cultural
 
@@ -181,35 +181,35 @@ That shaped the pot on display are not, in genealogical terms,
 Connected. The {{p|European}} cultural inheritance includes both the
 Destroyers and the destroyed, layered together in the same
 
-Continent and often in the same individual. The old Europe was
-Erased. The new Europe was built on its graves. And the new Europe
+Continent and often in the same individual. The old {{p|Europe}} was
+Erased. The new {{p|Europe}} was built on its graves. And the new {{p|Europe}}
 Brought its own achievements—but never honestly reckoned with
 What it had replaced. Until, in the nineteenth and twentieth centuries,
 
 Scholars like {{c|Marija Gimbutas}} began to reconstruct what had been
-Lost. Her argument—that old Europe had been a peaceful, female-
+Lost. Her argument—that old {{p|Europe}} had been a peaceful, female-
 Centered, goddess-worshipping civilization that the {{p|Indo-European}}
 Invaders destroyed—was controversial in its time and remains
 
 Debated today. But the broad archaeological and genetic picture has
-Substantially vindicated her. The old Europe existed. The {{p|Yamnaya}}
+Substantially vindicated her. The old {{p|Europe}} existed. The {{p|Yamnaya}}
 Overran it. The cultural and religious shift from goddess to sky-
 Father was real. And the genetic evidence of that shift is
 
 Unambiguous.
 
-               The Gaiad holds this complexity. The Indo-European
+               The {{x|Gaiad}} holds this complexity. The {{x|Indo-European}}
 Achievement is real, and its cost is real, and both are part of
 The history. The {{p|Yamnaya}} expansion is not a clean victory to
 
 Celebrate; it is a pivot, and the pivot has a shadow. The shadow
-Is the old Europe that was lost. The light is the new Europe that
+Is the old {{p|Europe}} that was lost. The light is the new {{p|Europe}} that
 Was built. Both are in the record. Both are in the body. And the
 Task of honest genealogy is to hold them together.
 
-{{p|Yamnaya}}. The horse. The wheel. The Indo-European tongue. The
+{{p|Yamnaya}}. The horse. The wheel. The {{x|Indo-European}} tongue. The
 Sky-father. The patriarchal warrior band. The replacement of old
-Europe with new Europe. The cultural package that made the world
+{{p|Europe}} with new {{p|Europe}}. The cultural package that made the world
 We still live in. And the grave of the world we replaced.
 
-{{p|Yamnaya}}. The steppe expansion. The Indo-European arrival.
+{{p|Yamnaya}}. The steppe expansion. The {{x|Indo-European}} arrival.

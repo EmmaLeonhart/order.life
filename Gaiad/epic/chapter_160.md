@@ -2,7 +2,7 @@
 
 Three events. Perhaps. Perhaps more than three. Perhaps a single
 Event refracted into three narratives. Around twelve-hundred BCE,
-The Bronze Age world shattered.
+The {{x|Bronze Age}} world shattered.
 
                                  Begin with what archaeology knows.
 Between twelve-twenty-five and eleven-seventy-five BCE, over a
@@ -19,20 +19,20 @@ Abandoned. {{p|Knossos}}, on {{p|Crete}}: destroyed. {{p|Troy}} (the archaeologi
 Layer {{p|Troy VIIa}}): destroyed around twelve-hundred BCE. The
 {{p|Egyptian}} Empire: severely damaged, retreating from its {{p|Levantine}}
 
-Provinces. The {{p|Kassite}} Babylonian kingdom: fatally weakened. The
-{{p|Elamite}} kingdom: disrupted. Cyprus: raided. The cities of {{p|Canaan}}:
+Provinces. The {{p|Kassite}} {{p|Babylonian}} kingdom: fatally weakened. The
+{{p|Elamite}} kingdom: disrupted. {{p|Cyprus}}: raided. The cities of {{p|Canaan}}:
 Many destroyed. {{p|Emar}}, {{p|Kadesh}}, {{p|Alalakh}}, {{p|Gath}}: destroyed. Only a
-Few Bronze Age states survived intact: {{p|Egypt}} (barely, much
+Few {{x|Bronze Age}} states survived intact: {{p|Egypt}} (barely, much
 
 Diminished), {{p|Assyria}} (temporarily eclipsed), {{p|Babylon}} (under new
 Management). The rest vanished. Writing systems were lost: {{p|Linear B}}
 Disappeared from the {{p|Aegean}}; {{p|Hittite}} cuneiform died with {{p|Hattusa}};
-The whole corpus of Bronze Age diplomatic correspondence ceased.
+The whole corpus of {{x|Bronze Age}} diplomatic correspondence ceased.
 
 Population fell catastrophically—in some regions by as much as
 Ninety percent. Trade networks that had linked {{p|Mycenae}} to
 {{p|Ugarit}} to {{p|Egypt}} to {{p|Mesopotamia}} to {{p|Cyprus}} to {{p|Sardinia}} collapsed.
-The whole integrated Bronze Age world fell apart at once.
+The whole integrated {{x|Bronze Age}} world fell apart at once.
 
                                                             What
 Caused this? Historians have proposed many factors. No single
@@ -41,13 +41,13 @@ Simultaneously. First: climate change. Tree-ring and sediment data
 
 Indicate a severe drought in the {{p|Mediterranean}} and {{p|Near East}}
 Between approximately twelve-fifty and eleven-fifty BCE. The drought
-Lasted for decades and was the most severe of the entire Bronze Age.
+Lasted for decades and was the most severe of the entire {{x|Bronze Age}}.
 Agricultural yields collapsed. Famines followed. Second: earthquakes.
 
 Archaeological evidence suggests a series of severe earthquakes
 Devastated {{p|Aegean}} and {{p|Anatolian}} cities during this period. Many
 Destruction layers show seismic damage preceding or accompanying
-The burning. Third: internal rebellion. Bronze Age palatial
+The burning. Third: internal rebellion. {{x|Bronze Age}} palatial
 
 Economies were highly stratified: palace elites extracted grain and
 Labor from peasant populations, and the system depended on the
@@ -60,7 +60,7 @@ The most famous are the {{p|Sea Peoples}}—a coalition of seaborne
 Raiders whose name is known only from {{p|Egyptian}} inscriptions at
 
 {{p|Medinet Habu}} and elsewhere. {{c|Ramesses III}}, the last great pharaoh
-Of the New Kingdom, fought the {{p|Sea Peoples}} in two massive
+Of the {{x|New Kingdom}}, fought the {{p|Sea Peoples}} in two massive
 Engagements around eleven-seventy BCE. His victory saved {{p|Egypt}}
 From total conquest but could not save the {{p|Levantine}} provinces.
 
@@ -92,7 +92,7 @@ Show {{p|Aegean}} affinities. They were probably {{p|Mycenaean}} refugees
 Establishing a foothold in {{p|Canaan}} after the collapse.
 
                                                          And fifth:
-Systems collapse. Even absent any single cause, the Bronze Age
+Systems collapse. Even absent any single cause, the {{x|Bronze Age}}
 International system had grown fragile in its complexity. Far-
 
 Flung trade networks depended on the continuous functioning of
@@ -122,18 +122,18 @@ System of the {{p|Mediterranean}} (it was simpler, more democratic,
 
 Less dependent on centralized scribal classes). Small city-states
 And tribal confederations replaced the large palatial kingdoms
-Of the Bronze Age. The {{p|Phoenicians}}, the {{p|Greeks}} emerging from
-Their Dark Age, the {{p|Israelites}}, the {{p|Neo-Hittite}} states of northern
+Of the {{x|Bronze Age}}. The {{p|Phoenicians}}, the {{p|Greeks}} emerging from
+Their {{x|Dark Age}}, the {{p|Israelites}}, the {{p|Neo-Hittite}} states of northern
 
 {{p|Syria}}, the {{p|Aramean}} kingdoms—these were the new political forms.
-Smaller, more distributed, less top-heavy. The Bronze Age world
+Smaller, more distributed, less top-heavy. The {{x|Bronze Age}} world
 Of god-kings and thousand-god pantheons gave way, gradually, to
-The Iron Age world of ethnically defined nations, tribal gods
+The {{x|Iron Age}} world of ethnically defined nations, tribal gods
 
 With universalist pretensions, and eventually the first stirrings
 Of genuine monotheism. That transformation is the subject of the
 Next several chapters. But here, in this chapter, we must also
-Tell the other two events: the Exodus and the Trojan War.
+Tell the other two events: the {{x|Exodus}} and the {{x|Trojan War}}.
 
 Consider first the {{p|Exodus}}. According to the biblical narrative,
 {{c|Moses}} led the {{p|Israelites}} out of {{p|Egyptian}} bondage through a
@@ -155,7 +155,7 @@ To "{{p|Israel}}" as a people in {{p|Canaan}}—the stele boasts that
 As a recognizable entity in {{p|Canaan}} by that date. This gives a
 Rough terminus ante quem: however and whenever the {{p|Israelites}}
 
-Got to {{p|Canaan}}, they were there by twelve-oh-nine BCE. The Gaiad
+Got to {{p|Canaan}}, they were there by twelve-oh-nine BCE. The {{x|Gaiad}}
 Has already treated the specific narrative of {{c|Moses}} and the
 {{p|Exodus}}—and will revisit it briefly here, because the {{p|Exodus}}
 Is now recognizable as part of the broader {{p|Bronze Age Collapse}}.
@@ -167,11 +167,11 @@ Covenant at {{p|Sinai}}, wilderness wandering, conquest—became the
 
 Foundational narrative of {{p|Hebrew}} religion and identity. But the
 Structural fact underlying that narrative is that groups were
-Coming out of {{p|Egypt}} and entering {{p|Canaan}} during the Bronze Age
+Coming out of {{p|Egypt}} and entering {{p|Canaan}} during the {{x|Bronze Age}}
 Collapse era. The {{p|Israelite}} religious memory preserves, in
 
 Literary form, the experience of a people being born into
-Historical existence during the collapse of the Bronze Age
+Historical existence during the collapse of the {{x|Bronze Age}}
 International system. The shattering of the old order—the plagues,
 The arbitrary violence of pharaohs, the sudden possibility of
 
@@ -188,7 +188,7 @@ Seventy-four BCE—right at the beginning of the collapse. In the
 Archaeological dating, {{p|Troy VIIa}} (the layer most plausibly
 Identified with {{p|Homeric}} {{p|Troy}}) was destroyed around twelve-
 Hundred BCE—right in the middle of the collapse. In either case,
-The war that {{p|Homer}} describes is a Late Bronze Age event
+The war that {{p|Homer}} describes is a Late {{x|Bronze Age}} event
 
 Occurring during the collapse. The {{p|Achaean}} coalition of {{p|Mycenaean}}
 Kings sailing eastward to sack a fortified city on the {{p|Anatolian}}
@@ -200,10 +200,10 @@ Reality) probably over trade rights, tribute, the control of the
 {{p|Dardanelles}}, or simply the raiding opportunities available in a
 Destabilizing world. The {{p|Trojan War}} is the {{p|Greek}} memory of the
 
-Late Bronze Age as it shuddered toward its end. Shortly after
+Late {{x|Bronze Age}} as it shuddered toward its end. Shortly after
 The war, the palaces that launched it were themselves destroyed.
 {{c|Agamemnon}}'s {{p|Mycenae}} burned within a generation of his victorious
-Return. {{c|Odysseus}}'s {{p|Ithaca}} faded into the Dark Age. The victors
+Return. {{c|Odysseus}}'s {{p|Ithaca}} faded into the {{x|Dark Age}}. The victors
 
 Of {{p|Troy}} outlived their victory by less than a century. Their
 Fall is implicit in the structure of the epic—{{p|Homer}} composes his
@@ -213,15 +213,15 @@ Four centuries at a vanished world. {{c|Agamemnon}}'s {{p|Mycenae}} is, for
 {{p|Homer}}, already legend. The gold and bronze and chariots and
 Hundred-rowered ships—these are not part of {{p|Homer}}'s own world.
 They are remembered from the lost world. The {{p|Iliad}} and the
-{{p|Odyssey}} are Dark Age preservations of Bronze Age memory. And
+{{p|Odyssey}} are {{x|Dark Age}} preservations of {{x|Bronze Age}} memory. And
 
 That memory centers on a war that was itself the last coherent
 Expedition of the collapsing civilization.
 
                                              Three events. The
-{{p|Exodus}}. The {{p|Trojan War}}. The general collapse. The Gaiad reads them
+{{p|Exodus}}. The {{p|Trojan War}}. The general collapse. The {{x|Gaiad}} reads them
 
-As three reflexes of a single Bronze Age crisis. Three cultural
+As three reflexes of a single {{x|Bronze Age}} crisis. Three cultural
 Memories of what it was like to live through the shattering. In
 The {{p|Hebrew}} case: slavery, miraculous deliverance, covenant, the
 Forging of a new identity grounded in religious law. In the {{p|Greek}}
@@ -233,9 +233,9 @@ The forging of new ethnic groupings in the ruins. Each culture
 
 Processed the collapse in its own way. Each memory is partial and
 Reshaped. But all three memories are responses to the same
-Historical event: the end of the integrated Bronze Age world.
+Historical event: the end of the integrated {{x|Bronze Age}} world.
 
-And the Gaiad makes a theological claim about this moment. The
+And the {{x|Gaiad}} makes a theological claim about this moment. The
 
 Collapse was not merely a disaster. It was also a birthing. In
 The rubble of the palatial economies, the preconditions for new
@@ -247,24 +247,24 @@ Idea of divine authority had to migrate elsewhere. It migrated
 Into text—{{p|Hebrew}} scripture in one line, {{p|Homeric}} epic in another,
 Eventually the philosophical writings of {{p|Greeks}} and {{p|Persians}} and
 
-{{p|Indians}} and {{p|Chinese}}. The Axial Age that follows—the great
+{{p|Indians}} and {{p|Chinese}}. The {{x|Axial Age}} that follows—the great
 Religious and philosophical revolution of the sixth century BCE,
 Which will produce {{c|Buddha}}, {{c|Confucius}}, {{c|Laozi}}, {{c|Mahavira}}, the
 {{p|Hebrew}} prophets, {{c|Zarathustra}}, the pre-Socratic {{p|Greeks}}—this
 
-Axial Age is possible because the Bronze Age god-kings have fallen.
+{{x|Axial Age}} is possible because the {{x|Bronze Age}} god-kings have fallen.
 Their collapse cleared the cultural space for new kinds of
 Religious imagination. Gods without kings. Kings without divinity.
 Ethical demands issued by transcendent sources rather than by
 
 Political rulers. Textual canons preserving religious authority
 Across political disruptions. These were all possible because the
-Bronze Age had ended. The collapse was the death of one mode of
+{{x|Bronze Age}} had ended. The collapse was the death of one mode of
 Religious life, but it was also the preparation for another. The
 
-Gaiad sees the hand of something vast in this: not providence in
+{{x|Gaiad}} sees the hand of something vast in this: not providence in
 The traditional sense, but the self-correcting, self-elaborating
-Unfolding of human religious possibility. The Bronze Age
+Unfolding of human religious possibility. The {{x|Bronze Age}}
 Civilizational system had reached its limit. Its fall made room
 
 For what came next.
@@ -278,7 +278,7 @@ Saving {{p|Egypt}} at {{p|Medinet Habu}}. {{p|Hattusa}} burning. {{p|Mycenae}} b
 The alphabet spreading. Iron replacing bronze. The palatial
 Kingdoms dying, the small nations being born. The end of the
 
-Integrated Bronze Age world.
+Integrated {{x|Bronze Age}} world.
 
                               {{p|Exodus}}, {{p|Trojan War}}, {{p|Bronze Age Collapse}}.
 Three names. One crisis. One birthing. The next three millennia

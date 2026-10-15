@@ -21,7 +21,7 @@ The rise of the {{p|Achaemenid}} Empire). Most modern scholarship
 Settles on some point between twelve-hundred and one-thousand BCE—
 That is, roughly contemporary with the {{p|Bronze Age Collapse}} in the
 
-{{p|Mediterranean}} and the {{p|Zhou}} conquest in {{p|China}}. The Gaiad adopts
+{{p|Mediterranean}} and the {{p|Zhou}} conquest in {{p|China}}. The {{x|Gaiad}} adopts
 This dating. {{c|Zarathustra}} is another node in the widespread
 Religious transformation that followed the collapse of the Bronze
 Age order. His reform of {{p|Indo-Iranian}} religion is part of the
@@ -35,17 +35,17 @@ Earliest named prophet of this transformation. He is the first to
 Speak, in the surviving record, with the voice of a new religious
 Vision.
 
-            And now the Gaiad must say something carefully. A
+            And now the {{x|Gaiad}} must say something carefully. A
 Common misconception treats {{p|Zoroastrianism}} as the original
 
 Monotheism—the religion that invented the idea of a single
 Supreme god and from which {{p|Judaism}}, {{p|Christianity}}, and {{p|Islam}}
 Ultimately derive their monotheism. This account is partially true
-But oversimplified. The Gaiad has already advanced, in its earlier
+But oversimplified. The {{x|Gaiad}} has already advanced, in its earlier
 
 Treatment of comparative religious history, a more nuanced view:
 That original {{p|Zoroastrianism}} was not strictly monotheistic in
-The modern sense. It was dualistic. {{c|Ahura Mazda}}, the Wise Lord,
+The modern sense. It was dualistic. {{c|Ahura Mazda}}, the {{c|Wise Lord}},
 Was the supreme good deity, creator of truth and light and order.
 
 But opposed to him was {{c|Angra Mainyu}} (later {{c|Ahriman}}), the
@@ -73,10 +73,10 @@ Was {{c|Zarathustra}}'s great contribution. It would profoundly
 Influence all subsequent {{p|Near Eastern}} and {{p|European}} religion,
 Even when the dualism was later flattened into strict monotheism.
 
-The Gaiad has already discussed how later {{p|Zoroastrianism}},
+The {{x|Gaiad}} has already discussed how later {{p|Zoroastrianism}},
 Particularly under the {{p|Sassanid}} empire, became more explicitly
 Monotheistic, with {{c|Angra Mainyu}} increasingly described as a
-Creature rather than a co-eternal principle. And the Gaiad has
+Creature rather than a co-eternal principle. And the {{x|Gaiad}} has
 
 Discussed how ancient {{p|Persian}} religious concepts shaped the
 {{p|Jewish}} captivity experience in {{p|Babylon}} and the subsequent
@@ -120,7 +120,7 @@ Known figure to articulate them in a systematic theology.
 
                                                                 He
 Also reformed ritual. The old {{p|Indo-Iranian}} religion, which the
-Gaiad saw developing on the steppe and arriving in {{p|India}} with
+{{x|Gaiad}} saw developing on the steppe and arriving in {{p|India}} with
 The {{p|Aryans}}, centered on elaborate animal sacrifices conducted
 By a hereditary priestly caste. {{c|Zarathustra}} reduced the emphasis
 
@@ -212,14 +212,14 @@ Member of {{c|Yahweh}}'s divine council, became reinterpreted along
 Final judgment, resurrection of the dead, and {{p|messianic}} age was
 Absorbed into {{p|Jewish}} apocalyptic thought. By the time of the
 
-Second Temple period and the emergence of {{p|Christianity}} and
+{{p|Second Temple}} period and the emergence of {{p|Christianity}} and
 {{p|Rabbinic Judaism}}, the {{p|Zoroastrian}} imprint on {{p|Jewish}} religious
 Imagination was thorough. {{p|Christianity}} and {{p|Islam}}, inheriting
-From {{p|Judaism}}, inherited also from {{p|Zoroastrianism}}. The Western
+From {{p|Judaism}}, inherited also from {{p|Zoroastrianism}}. The {{p|Western}}
 
 Monotheistic tradition as we know it is, in substantial measure,
 A {{p|Zoroastrian}}-{{p|Jewish}} synthesis. Without {{c|Zarathustra}}, the
-Religious history of the West would be unrecognizable.
+Religious history of the {{p|West}} would be unrecognizable.
 
                                                              And
 Yet {{p|Zoroastrianism}} itself would, over time, retreat. The
@@ -250,8 +250,8 @@ Not, a theological descendant of {{c|Zarathustra}}. The prophet from
 The {{p|Iranian}} plateau is a silent presence in half the religious
 Imagination of the modern world.
 
-                                     The Gaiad honors him. The
-Gaiad recognizes in {{c|Zarathustra}}'s work a genuine theological
+                                     The {{x|Gaiad}} honors him. The
+{{x|Gaiad}} recognizes in {{c|Zarathustra}}'s work a genuine theological
 
 Innovation—the sharpening of moral dualism into an explicit
 Cosmic principle, the linking of individual ethical choice to
@@ -275,13 +275,13 @@ It reflects how {{c|Zarathustra}}'s name continues to carry weight as
 
 A symbol of religious innovation and prophetic voice. {{c|Nietzsche}}
 Chose the name not randomly but because it stood for the first
-Great religious reformer whose work shaped all subsequent Western
+Great religious reformer whose work shaped all subsequent {{p|Western}}
 Religion. {{c|Nietzsche}} wanted to undo that work and return to a
 
 Pre-{{c|Zarathustran}} valuation. Whether one agrees with {{c|Nietzsche}}'s
 Project or not, the acknowledgment of {{c|Zarathustra}}'s foundational
 Role is accurate. {{c|Zarathustra}} is where a great deal of the
-Modern Western religious and ethical imagination actually begins.
+Modern {{p|Western}} religious and ethical imagination actually begins.
 
                                                                      {{c|Zarathustra}}.
 {{c|Zoroaster}}. {{c|Ahura Mazda}} and {{c|Angra Mainyu}}. {{c|Asha}} and {{c|Druj}}. The fire
@@ -296,5 +296,5 @@ The {{p|Parsis}} in {{p|India}}. The long survival of a small religion
 With enormous theological consequences.
 
                                            {{c|Zarathustra}}. The first
-Prophet of the Axial Age. The reformer of {{p|Indo-Iranian}} religion.
+Prophet of the {{x|Axial Age}}. The reformer of {{p|Indo-Iranian}} religion.
 The invisible ancestor of {{p|Western}} monotheism.

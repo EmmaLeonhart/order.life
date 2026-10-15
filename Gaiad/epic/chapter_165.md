@@ -1,6 +1,6 @@
 # Chapter 165: Classical Greece, Part One
 
-The {{p|Greek}} Dark Age lasted roughly four centuries. From the
+The {{p|Greek}} {{x|Dark Age}} lasted roughly four centuries. From the
 Destruction of the {{p|Mycenaean}} palaces around twelve-hundred BCE
 To the dawn of the {{p|Archaic}} period around eight-hundred BCE,
 {{p|Greece}} was a land of small villages, depopulated cities, and
@@ -130,7 +130,7 @@ Ten new tribes based on geographical deme membership (breaking the
 Power of aristocratic kinship networks), he established the
 {{c|Boule}} (council of five hundred citizens selected by lot) as the
 Principal executive body, and he gave the {{p|Ecclesia}} (the citizen
-Assembly) supreme legislative power. With these reforms, {{p|Athens}}
+{{x|Assembly}}) supreme legislative power. With these reforms, {{p|Athens}}
 
 Became the first substantial democracy in human history. "The
 People" ({{p|demos}}) ruled ({{p|kratos}})—hence {{p|demokratia}}. Now, to be
@@ -140,7 +140,7 @@ Could participate. Women, foreign residents ({{p|metics}}), and slaves
 Were excluded. Perhaps fifteen percent of {{p|Athens}}'s total population
 Had full political rights. And those fifteen percent participated
 Directly—not through elected representatives, but through actual
-Attendance at the Assembly and service in executive bodies, often
+Attendance at the {{x|Assembly}} and service in executive bodies, often
 
 Selected by lot. This was direct democracy, radically different
 From modern representative democracy. It worked because the
@@ -158,7 +158,7 @@ Large a fraction of its male population. The consequences for
 Cultural and intellectual life were transformative. Because any
 
 Citizen could propose legislation, could serve on juries, could
-Speak in the Assembly, the premium on rhetorical skill was enormous.
+Speak in the {{x|Assembly}}, the premium on rhetorical skill was enormous.
 Education in rhetoric, logic, and persuasion became essential for
 Citizens who wanted influence. This created the market for the
 
@@ -185,7 +185,7 @@ One of the most influential buildings ever designed. It produced
 The politician {{c|Pericles}}, whose leadership and oratory defined
 The golden age. And it produced {{c|Socrates}}, whose radically
 Different philosophical method would reshape all subsequent
-Western thought. All within a single city of perhaps fifty
+{{p|Western}} thought. All within a single city of perhaps fifty
 
 Thousand adult male citizens. All within roughly a century. The
 Cultural output per capita is staggering. Nothing comparable had
@@ -263,7 +263,7 @@ Of souls (a doctrine that may have entered {{p|Greek}} thought from
 Their legacy would shape {{p|Plato}}'s philosophy profoundly. The
 Idea that the ultimate structure of reality is mathematical—an
 
-Idea so central to modern physics—traces its Western origin to
+Idea so central to modern physics—traces its {{p|Western}} origin to
 The {{p|Pythagoreans}}. {{c|Heraclitus of Ephesus}}, in the early fifth
 Century BCE, developed a philosophy of flux and opposites. "One
 Cannot step into the same river twice," he famously said. All
@@ -357,7 +357,7 @@ Victorious self-understanding that followed, came the classical
 Age. And the classical age is what we will explore next.
 
                                                              {{p|Greece}}.
-Dark Age to {{p|Archaic}} to classical. The {{p|polis}}. {{p|Athens}} and {{p|Sparta}}.
+{{x|Dark Age}} to {{p|Archaic}} to classical. The {{p|polis}}. {{p|Athens}} and {{p|Sparta}}.
 
 {{p|Ionian}} philosophy—{{c|Thales}}, {{c|Anaximander}}, {{c|Heraclitus}}, {{c|Parmenides}},
 {{c|Pythagoras}}. {{p|Solonian}} reforms. {{p|Cleisthenic}} democracy. The

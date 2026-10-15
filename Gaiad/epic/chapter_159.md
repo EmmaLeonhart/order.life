@@ -1,6 +1,6 @@
 # Chapter 159: The Ramayana
 
-And now the great swerve of the Gaiad. The moment where the
+And now the great swerve of the {{x|Gaiad}}. The moment where the
 Narrative crosses all the rational chronologies and follows the
 Thread of mythic resonance instead. The {{p|Ramayana}}.
 
@@ -17,15 +17,15 @@ Bridge across the ocean. They invade {{p|Lanka}}. They defeat {{c|Ravana}}.
 They recover {{c|Sita}}. They return to {{p|Ayodhya}} and {{c|Rama}} is restored
 To his throne. The epic is one of the foundational {{p|Sanskrit}}
 Texts, composed probably between the seventh and fourth centuries
-BCE, though its oral roots go much deeper—perhaps to the Vedic
+BCE, though its oral roots go much deeper—perhaps to the {{x|Vedic}}
 
-Period, perhaps to the Aryan migration itself. And the text is
+Period, perhaps to the {{x|Aryan}} migration itself. And the text is
 Usually read as purely {{p|Indian}}: a story of northern {{p|India}}
 Conquering southern {{p|India}}, or of {{p|Indo-Aryan}} peoples subduing
 {{p|Dravidian}} peoples, or of cosmic dharma triumphing over demonic
 
-Adharma. All of these readings are valid. But the Gaiad reads the
-{{p|Ramayana}} differently. The Gaiad reads the {{p|Ramayana}} as evidence
+{{x|Adharma}}. All of these readings are valid. But the {{x|Gaiad}} reads the
+{{p|Ramayana}} differently. The {{x|Gaiad}} reads the {{p|Ramayana}} as evidence
 Of something extraordinary: that the {{p|Indo-European}} diaspora,
 Which by the second millennium BCE had spread from {{p|Ireland}} to
 
@@ -39,8 +39,8 @@ The prince raises an army of allies. The army crosses the sea
 To a fortified island or peninsula where the abductor rules.
 The siege lasts years. Eventually the fortress falls, the wife
 
-Is recovered, the villain is slain. In the Greek case: {{c|Menelaus}},
-{{c|Helen}}, {{c|Paris}}, {{p|Troy}}, the {{p|Achaean}} coalition. In the Indian case:
+Is recovered, the villain is slain. In the {{x|Greek}} case: {{c|Menelaus}},
+{{c|Helen}}, {{c|Paris}}, {{p|Troy}}, the {{p|Achaean}} coalition. In the {{p|Indian}} case:
 {{c|Rama}}, {{c|Sita}}, {{c|Ravana}}, {{p|Lanka}}, the monkey army. The parallels are
 Not superficial. They are structural. They extend to specific
 
@@ -55,7 +55,7 @@ At the extreme western and eastern ends of the diaspora, recognized
 For what they are only when scholars began comparing myths across
 
 Traditions in the nineteenth and twentieth centuries CE. And the
-Gaiad goes further. The Gaiad proposes that {{c|Rama}} is not only
+{{x|Gaiad}} goes further. The {{x|Gaiad}} proposes that {{c|Rama}} is not only
 A structural parallel of the {{p|Trojan War}}. {{c|Rama}}'s expedition
 Also resonates with {{p|Egyptian}} and {{p|Ethiopian}} narratives of
 
@@ -71,13 +71,13 @@ As dark-blue or dark-skinned—links him visually to both the
 
 In some esoteric readings, the {{p|Ramayana}} is not a story about
 {{p|India}} at all but about the whole human civilization of the
-Bronze Age, refracted through the {{p|Indian}} tradition into a local
-And specific form. The Gaiad entertains these readings. The Gaiad
+{{x|Bronze Age}}, refracted through the {{p|Indian}} tradition into a local
+And specific form. The {{x|Gaiad}} entertains these readings. The {{x|Gaiad}}
 
 Entertains them not as claims of literal historical fact but as
 Recognitions of deep mythic unity. The {{p|Ramayana}} is the {{p|Indian}}
 Reflex of a narrative complex that humanity as a whole was
-Generating in the late Bronze Age—a complex that also produced
+Generating in the late {{x|Bronze Age}}—a complex that also produced
 
 The {{p|Iliad}}, the {{p|Egyptian}} stories of the war against {{p|Hyksos}}
 And {{p|Sea Peoples}}, the {{p|Hebrew}} narrative of {{c|Moses}} leading his
@@ -87,7 +87,7 @@ People out of bondage, the {{p|Hittite}} accounts of the battle of
 Specific contents. But a common structural feature: the
 Confrontation with a powerful adversary, the long siege or long
 Journey, the eventual restoration of righteous order. This is
-The shared grammar of Bronze Age civilizational narrative.
+The shared grammar of {{x|Bronze Age}} civilizational narrative.
 
                                                            And
 {{c|Rama}}'s dharma—the concept of righteous conduct, duty, the
@@ -142,7 +142,7 @@ The three wander the forests of central {{p|India}} for years. And then,
 While {{c|Rama}} is distracted by a magical deer, {{c|Ravana}} abducts {{c|Sita}}
 
 And carries her to {{p|Lanka}}. The demon-king {{c|Ravana}} rules from
-{{p|Lanka}}—in traditional Indian geography identified with {{p|Sri Lanka}},
+{{p|Lanka}}—in traditional {{p|Indian}} geography identified with {{p|Sri Lanka}},
 Though some scholars have proposed other locations. {{c|Ravana}} has ten
 Heads, twenty arms, enormous magical power, and a fortified island
 
@@ -179,7 +179,7 @@ Righteous order is restored.
 In {{c|Ravana}}'s palace for months. Has she been violated? She insists
 
 She has not. {{c|Rama}} demands proof. {{c|Sita}} walks into a fire—the
-Agnipariksha, the trial by fire. The fire-god {{c|Agni}} refuses to
+{{x|Agnipariksha}}, the trial by fire. The fire-god {{c|Agni}} refuses to
 Burn her. She emerges unharmed. Her chastity is vindicated. They
 Return to {{p|Ayodhya}} and {{c|Rama}} is crowned king. His reign is the
 
@@ -222,7 +222,7 @@ The {{p|Ramayana}} is a shared civilizational text of Southeast
 {{p|Asian}} {{p|Indic}} culture. And its influence extends westward too.
 
 In {{p|Tibet}} the {{p|Ramayana}} appears in {{p|Buddhist}} recension. In {{p|Mongolia}}.
-In {{p|Central Asia}}. In {{p|Ethiopia}}—and this is where the Gaiad's deepest
+In {{p|Central Asia}}. In {{p|Ethiopia}}—and this is where the {{x|Gaiad}}'s deepest
 Claim becomes interesting—there are traditions that connect {{c|Rama}}
 To {{p|African}} figures. Some {{p|Ethiopian}} traditions associate {{c|Rama}} with
 
@@ -231,13 +231,13 @@ Of divine pharaohs. Some traditions propose that {{c|Rama}} and {{c|Ravana}}
 Are structurally related to {{c|Horus}} and {{c|Seth}}, the {{p|Egyptian}} brothers
 Whose conflict structures so much of {{p|Egyptian}} theology. The
 
-Gaiad does not insist on these connections. They are speculative.
+{{x|Gaiad}} does not insist on these connections. They are speculative.
 They operate at the level of poetic rather than historical truth.
 But they are part of the living imagination of how civilizations
 Remember themselves and each other. The {{p|Ramayana}}, in this reading,
 
-Is a window onto a moment in Bronze Age history when the whole
-Mediterranean and {{p|Indian Ocean}} world was engaged in a single
+Is a window onto a moment in {{x|Bronze Age}} history when the whole
+{{p|Mediterranean}} and {{p|Indian Ocean}} world was engaged in a single
 Great conversation about the nature of kingship, the recovery of
 Stolen queens, and the restoration of cosmic order. The {{p|Ramayana}}
 
@@ -247,8 +247,8 @@ Narratives that did span that whole world, and that remembered
 That whole world as sharing a common civilizational project.
 
                                                                And
-This is the meaning of the great swerve of the Gaiad. The meaning
-Of pausing the Bronze Age collapse chronology long enough to tell
+This is the meaning of the great swerve of the {{x|Gaiad}}. The meaning
+Of pausing the {{x|Bronze Age}} collapse chronology long enough to tell
 The {{p|Ramayana}}. It is a reminder that humanity, even in the age
 
 Of warring empires and isolating geographies, was already one
@@ -259,7 +259,7 @@ These were not isolated civilizations. They were nodes in a
 Network. Their myths resonated. Their heroes were cognate. Their
 Gods were translatable. Their kings corresponded with each other
 In {{p|Akkadian}} cuneiform across thousands of miles. And when the
-Bronze Age system collapsed around twelve-hundred BCE, it was
+{{x|Bronze Age}} system collapsed around twelve-hundred BCE, it was
 
 Not the collapse of isolated local civilizations. It was the
 Collapse of an integrated world. The {{p|Ramayana}} preserves, in
@@ -274,12 +274,12 @@ Into specific cultural forms, but grounded in a common grammar.
 The {{p|Ramayana}} is the eastern reflection of that common grammar.
 The {{p|Iliad}} is the western reflection. The {{p|Exodus}} is the southern
 Reflection. The sack of {{p|Hattusa}} is the northern reflection. Four
-Great narratives of Bronze Age crisis and transformation. Four
+Great narratives of {{x|Bronze Age}} crisis and transformation. Four
 
-Local instantiations of a shared civilizational moment. The Gaiad
+Local instantiations of a shared civilizational moment. The {{x|Gaiad}}
 Honors this by telling them together. Not as isolated stories of
 Isolated peoples, but as resonances of a single crisis in the
-Integrated Bronze Age world.
+Integrated {{x|Bronze Age}} world.
 
                                {{c|Rama}}. {{c|Sita}}. {{c|Hanuman}}. {{c|Ravana}}.
 {{p|Ayodhya}}. {{p|Lanka}}. {{p|Ram Setu}} bridge across the sea. The seven-hundred
@@ -288,7 +288,7 @@ Kings who take {{c|Rama}}'s name. The {{p|Javanese}} shadow puppets that
 
 Dance {{c|Rama}}'s war. The {{p|Cambodian}} temple walls that carve {{c|Ravana}}'s
 Fall. The deep structural parallel with the {{p|Trojan War}}. The
-Civilizational memory, preserved in verse, of a Bronze Age world
+Civilizational memory, preserved in verse, of a {{x|Bronze Age}} world
 That thought itself as one world.
 
                                      The {{p|Ramayana}}. Eastern reflex

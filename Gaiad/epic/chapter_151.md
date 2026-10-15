@@ -7,7 +7,7 @@ From its own collapse. The {{p|Gutians}} had been expelled. A
 
 Prominence under {{c|Ur-Nammu}}, founder of the {{p|Third Dynasty of Ur}}—
 The {{p|Ur III}} dynasty, the {{p|Neo-Sumerian}} empire. And it is into
-This empire, in the Gaiad's reading, that {{c|Abraham}} is born.
+This empire, in the {{x|Gaiad}}'s reading, that {{c|Abraham}} is born.
 
 {{c|Ur-Nammu}} reigned from approximately twenty-one twelve to twenty
 Ninety-five BCE, according to the middle chronology. He united
@@ -44,7 +44,7 @@ This was a renaissance of {{p|Sumerian}} culture—possibly the last
 Great flowering before the language itself began to die out and
 Be replaced by {{p|Akkadian}} as the spoken tongue of {{p|Mesopotamia}}.
 
-And it is in this world, according to the Gaiad's reading of the
+And it is in this world, according to the {{x|Gaiad}}'s reading of the
 Biblical account, that {{c|Abraham}} lived his early life. {{p|Genesis}}
 Tells us that {{c|Abram}}—as he was called before his name was changed—
 Was born in "{{p|Ur of the Chaldees}}." The identification of this {{p|Ur}}
@@ -52,7 +52,7 @@ Was born in "{{p|Ur of the Chaldees}}." The identification of this {{p|Ur}}
 With the {{p|Sumerian}} city in southern {{p|Mesopotamia}} is traditional
 Though not certain—some scholars have proposed a northern {{p|Ur}} in
 {{p|Anatolia}} instead. But the southern identification is the most
-Common, and it is the one the Gaiad adopts. {{c|Abraham}} is, in this
+Common, and it is the one the {{x|Gaiad}} adopts. {{c|Abraham}} is, in this
 
 Reading, a man of {{p|Ur III}}. He is a son of the {{p|Neo-Sumerian}}
 Empire. He speaks {{p|Akkadian}} (and perhaps {{p|Sumerian}} as a learned
@@ -101,11 +101,11 @@ Lamentations}}, which mourns the destruction of {{p|Jerusalem}}. The
 Genre and its vocabulary flow from {{p|Ur}} to {{p|Jerusalem}}.
 
 And in this context—in the chaos following the fall of {{p|Ur}}—the
-Gaiad locates {{c|Abraham}}'s departure. {{p|Genesis}} says that {{c|Terah}}
+{{x|Gaiad}} locates {{c|Abraham}}'s departure. {{p|Genesis}} says that {{c|Terah}}
 And his family left {{p|Ur}} and traveled to {{p|Haran}} (a city in what is
 Now southeastern {{p|Turkey}}, near the border with {{p|Syria}}). Why did
 
-They leave? {{p|Genesis}} does not explain. The Gaiad's reading is that
+They leave? {{p|Genesis}} does not explain. The {{x|Gaiad}}'s reading is that
 They left because {{p|Ur}} had been destroyed. The family that had lived
 In the city of the moon-god for generations, making idols in the
 Shadow of the {{p|Great Ziggurat}}, was forced to migrate when the
@@ -119,7 +119,7 @@ To the biblical account, {{c|Terah}} died. And there {{c|Abraham}} received
 The call to go further—to leave his country and his kindred and
 His father's house and go to the land that {{c|God}} would show him.
 
-And here the Gaiad takes a specific narrative position. {{c|Abraham}}'s
+And here the {{x|Gaiad}} takes a specific narrative position. {{c|Abraham}}'s
 Journey from {{p|Haran}} south to {{p|Canaan}}—the journey that will
 Establish the {{p|Israelite}} and eventually the {{p|Jewish}}, {{p|Christian}},
 And {{p|Islamic}} traditions—passes through a place with extraordinary
@@ -129,14 +129,14 @@ Deep-time significance: {{p|Sanliurfa}}, in what is now southeastern
 The ancient hunter-gatherer temple complex that predates agriculture,
 Burial, and every named civilization. The oldest religious monument
 
-On earth. And the Gaiad's reading is that {{c|Abraham}} stopped here.
+On earth. And the {{x|Gaiad}}'s reading is that {{c|Abraham}} stopped here.
 Stopped in {{p|Sanliurfa}}. And that in {{p|Sanliurfa}}, he met {{c|Melchizedek}}—
 The mysterious priest-king of {{p|Salem}} who appears in {{p|Genesis 14}}
 To bless {{c|Abraham}}, receive a tithe, and disappear. The biblical
 
 Text places this meeting later in {{c|Abraham}}'s journey, after he
-Rescues his nephew {{c|Lot}} from the {{p|Mesopotamian}} kings. The Gaiad
-Relocates it—in the Gaiad's reading, {{c|Melchizedek}} is "{{c|George
+Rescues his nephew {{c|Lot}} from the {{p|Mesopotamian}} kings. The {{x|Gaiad}}
+Relocates it—in the {{x|Gaiad}}'s reading, {{c|Melchizedek}} is "{{c|George
 Gobeklius}}," the last priest of the {{p|Göbekli Tepe}} tradition, the
 
 Figure whose ancestral religious memory traces back to the
@@ -146,7 +146,7 @@ Journey, encounters this priest and receives the blessing of the
 
 Old religious order.
 
-                           This is a major move. The Gaiad is making
+                           This is a major move. The {{x|Gaiad}} is making
 {{c|Abraham}} the spiritual heir of the {{p|Göbekli Tepe}} tradition. The
 Religious genealogy of the {{p|Abrahamic}} religions is extended backward
 
@@ -157,11 +157,11 @@ The transmission of spiritual authority from the old priesthood to
 
 The new. The blessing {{c|Abraham}} receives is the legitimation of his
 Mission by the oldest continuous religious lineage in human history.
-This is the Gaiad's quiet insertion. It is not in the biblical text.
+This is the {{x|Gaiad}}'s quiet insertion. It is not in the biblical text.
 But it is suggested by the geography—{{p|Sanliurfa}} really is the city
 
 Closest to {{p|Göbekli Tepe}}, and {{c|Abraham}}'s journey really does pass
-Through it. And the Gaiad takes the geographical fact as a narrative
+Through it. And the {{x|Gaiad}} takes the geographical fact as a narrative
 Opening to link the deep prehistoric religious tradition to the
 Monotheistic tradition that {{c|Abraham}} is about to found.
 
@@ -190,12 +190,12 @@ Twelve tribes of {{p|Israel}}, and ultimately the {{p|Judaic}}, {{p|Christian}},
 And {{p|Islamic}} religious traditions that will define much of the
 Following three thousand years of human history.
 
-And {{c|Abraham}}'s haplogroup, in the Gaiad's reading, is {{c|J}}—the
+And {{c|Abraham}}'s haplogroup, in the {{x|Gaiad}}'s reading, is {{c|J}}—the
 {{p|Semitic}} haplogroup of the ancient {{p|Near East}}. Specifically, {{c|Abraham}}
 Is a figure at the junction of {{c|J1}} and {{c|J2}}—the desert-Arabian
 Branch and the Levantine-settled branch. His own ancestry in {{p|Ur}}
 
-Would have been {{c|J2}} (the settled Mesopotamian variety), but his
+Would have been {{c|J2}} (the settled {{p|Mesopotamian}} variety), but his
 Later wandering life in the {{p|Canaanite}} and desert margins brings
 Him into {{c|J1}} territory. His son {{c|Ishmael}} will become the
 Founder of {{c|J1}}-dominated {{p|Arabian}} lineages. His son {{c|Isaac}} will

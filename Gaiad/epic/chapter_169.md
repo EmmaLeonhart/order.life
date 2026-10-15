@@ -25,7 +25,7 @@ Centuries. Their founders, {{c|Confucius}} and {{c|Laozi}}, stand at the
 Root of everything that followed.
 
                                       {{c|Confucius}}. In {{p|Chinese}},
-{{c|Kong Fuzi}} or {{c|Kongzi}}—"Master Kong." Born in five-fifty-one BCE
+{{c|Kong Fuzi}} or {{c|Kongzi}}—"{{c|Master Kong}}." Born in five-fifty-one BCE
 In the small state of {{p|Lu}}, in what is now {{p|Shandong Province}}. His
 Family was of minor aristocratic descent but had fallen on hard
 
@@ -150,7 +150,7 @@ Traditional account, in {{c|Sima Qian}}'s {{p|Records of the Grand Historian}}
 Presumed date), places {{c|Laozi}} as an older contemporary of {{c|Confucius}},
 
 An archivist at the {{p|Zhou}} court whom {{c|Confucius}} once visited for
-Advice. In this telling, {{c|Laozi}}—"the Old Master"—was older, wiser,
+Advice. In this telling, {{c|Laozi}}—"the {{c|Old Master}}"—was older, wiser,
 And more withdrawn than {{c|Confucius}}. When {{c|Confucius}} sought him out,
 {{c|Laozi}} rebuked him for his worldly ambition and urged him to let
 
@@ -265,7 +265,7 @@ One of its most distinctive features, and its roots are in this
 Traditions emerged from the same crisis and learned to coexist.
 
                                                                  The
-Gaiad reads {{c|Confucius}} and {{c|Laozi}} together as the twin poles of
+{{x|Gaiad}} reads {{c|Confucius}} and {{c|Laozi}} together as the twin poles of
 {{p|East Asian}} civilizational thought. Each is incomplete without
 The other. {{c|Confucius}} gives us the ethics of social engagement,
 The seriousness of moral cultivation, the dignity of institutional
@@ -278,7 +278,7 @@ The wisest action. Together, they are one of the great civilizational
 Philosophies. Separately, each would be impoverished. The fact that
 {{p|Chinese}} culture held them together, rather than forcing a choice
 Between them, is a sign of its intellectual sophistication. And
-The Gaiad honors this. The Gaiad's own religious vision, with its
+The {{x|Gaiad}} honors this. The {{x|Gaiad}}'s own religious vision, with its
 
 Commitment to polytheistic plurality and its resistance to
 Reductive monotheism, draws sustenance from this {{p|Chinese}} model

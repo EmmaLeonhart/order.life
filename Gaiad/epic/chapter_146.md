@@ -127,7 +127,7 @@ Dynasty centered on the city of {{p|Uruk}} (the {{p|Fourth Dynasty of
 Uruk}}) and then by the {{p|Third Dynasty of Ur}}, which would
 Re-establish {{p|Sumerian}}-language rule and usher in the {{p|Neo-Sumerian}}
 Period. That dynasty—{{p|Ur III}}—is the one in which {{c|Abraham}}, in
-The Gaiad's reading, will be born. But that is a later chapter.
+The {{x|Gaiad}}'s reading, will be born. But that is a later chapter.
 
 For this chapter, the focus is the {{p|Akkadian Empire}} itself—the
 First multi-regional empire in human history, the first state to
@@ -194,7 +194,7 @@ Becomes, over the following millennia, a legendary figure. The
 {{p|Sargon Legend}} circulates in cuneiform manuscripts for the next
 Two thousand years. {{c|Sargon}} is remembered as the archetypal
 Conqueror, the self-made king, the foundling who became an emperor.
-Later kings, including the Neo-Assyrian {{c|Sargon II}} in the eighth
+Later kings, including the {{x|Neo-Assyrian}} {{c|Sargon II}} in the eighth
 
 Century BCE, would take his name in order to claim his legacy.
 The cultural memory of the first emperor outlasted the archaeological

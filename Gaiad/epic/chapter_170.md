@@ -1,7 +1,7 @@
 # Chapter 170: The Buddha
 
 In the {{p|Gangetic}} plain of northern {{p|India}}, in the sixth and fifth
-Centuries BCE, the same Axial Age ferment that produced {{c|Zarathustra}},
+Centuries BCE, the same {{x|Axial Age}} ferment that produced {{c|Zarathustra}},
 {{c|Confucius}}, {{c|Laozi}}, the {{p|Judean}} exile, and {{p|Ionian}} philosophy was
 Also transforming {{p|Indian}} religious thought. And at the heart of
 
@@ -56,7 +56,7 @@ Into this contested field stepped {{c|Siddhartha Gautama}}.
 
                                                                  He
 Was born around five-sixty-three BCE (traditional dating) or
-Four-eighty BCE (recent scholarly dating; the Gaiad will use the
+Four-eighty BCE (recent scholarly dating; the {{x|Gaiad}} will use the
 Traditional date for narrative convenience) in {{p|Lumbini}}, a small
 Village in what is now southern {{p|Nepal}}. His father {{c|Shuddhodana}}
 
@@ -180,7 +180,7 @@ Years—teaching. He attracted disciples. He founded the {{p|sangha}},
 
 The monastic community. He traveled through the {{p|Gangetic}} plain,
 Teaching to anyone who would listen. Kings came to him. Beggars
-Came to him. Brahmins came to him. {{p|Untouchables}} came to him.
+Came to him. {{c|Brahmins}} came to him. {{p|Untouchables}} came to him.
 He taught them all. He did not distinguish by caste. This was
 
 Itself a radical position in {{p|Indian}} society. His {{p|sangha}} included
@@ -262,9 +262,9 @@ As the reflection of a single wandering ascetic under a fig tree,
 Has become one of the most widely practiced religions in the world.
 
                                                                     And
-The Gaiad honors the {{c|Buddha}} as one of the supreme figures of the
+The {{x|Gaiad}} honors the {{c|Buddha}} as one of the supreme figures of the
 
-Axial Age. His insights into the nature of suffering and its
+{{x|Axial Age}}. His insights into the nature of suffering and its
 Causes, his articulation of ethical conduct, his recognition of
 The constructed nature of the self, his refusal to privilege any
 Caste or class in access to liberation—these are among the most
@@ -312,14 +312,14 @@ Because he has achieved liberation while they have not. The
 Importance to any god or gods. The gods exist; they are not
 Ultimately relevant. What is ultimately relevant is each sentient
 Being's own progress toward liberation. This is a position with
-Some affinity to the Gaiad's own deflationary polytheism—a
+Some affinity to the {{x|Gaiad}}'s own deflationary polytheism—a
 
 Recognition of divine pluralism combined with a refusal to treat
 Any particular divinity as the absolute center of everything. The
-Gaiad can appreciate the {{p|Buddhist}} framework as one genuinely
+{{x|Gaiad}} can appreciate the {{p|Buddhist}} framework as one genuinely
 Compatible articulation of a non-dogmatic, non-imperialist religious
 
-Orientation. {{p|Buddhism}} and the Gaiad's own vision are not the
+Orientation. {{p|Buddhism}} and the {{x|Gaiad}}'s own vision are not the
 Same, but they share family resemblances.
 
                                               {{c|Siddhartha Gautama}}. The
@@ -335,7 +335,7 @@ Left no writings, no institution beyond the community, no
 Successor—and yet whose teaching spread across a continent and
 A world.
 
-            {{c|Buddha}}. One of the supreme sons of the Axial Age.
+            {{c|Buddha}}. One of the supreme sons of the {{x|Axial Age}}.
 The one who showed that liberation from suffering was accessible
 Through disciplined practice rather than through priestly mediation
 Or ecstatic grace. The one whose compassion extended to all

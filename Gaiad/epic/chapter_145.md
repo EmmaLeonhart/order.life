@@ -4,7 +4,7 @@ And while {{p|Malta}} was exhausting itself on its small rocky island,
 A much larger civilization on a much larger river was beginning
 To build at a scale that would dwarf everything that had come before.
 
-{{p|Egypt}}. The {{p|Nile}}. The Old Kingdom.
+{{p|Egypt}}. The {{p|Nile}}. The {{x|Old Kingdom}}.
 
                                               The {{p|Nile Valley}} had
 Been settled by {{c|E}}-haplogroup peoples for thousands of years.
@@ -19,14 +19,14 @@ Units along the river. By approximately thirty-one hundred BCE, the
 Opening onto the {{p|Mediterranean}})—had been unified under a single
 Pharaoh. The founder is traditionally called {{c|Menes}}, sometimes
 Identified with {{c|Narmer}}, whose ceremonial palette is one of the
-Earliest documents of pharaonic kingship. The First Dynasty began.
+Earliest documents of pharaonic kingship. The {{x|First Dynasty}} began.
 
 The {{p|Early Dynastic Period}} ran from approximately thirty-one hundred
 To twenty-six hundred BCE. This was the period of consolidation—
 The development of the administrative apparatus, the hieroglyphic
 Writing system, the religious framework of divine kingship, the
 
-Tax-collection networks that would make pharaonic Egypt economically
+Tax-collection networks that would make pharaonic {{p|Egypt}} economically
 Viable for the next three millennia. And then, around twenty-six
 Hundred BCE, something changed. The kings of the {{p|Third Dynasty}}
 And {{p|Fourth Dynasty}} began to build at an unprecedented scale.
@@ -133,7 +133,7 @@ Humor and identity preserved in the limestone. The pyramids were
 
 Built by real people, with real names, who went home afterward
 To their villages. And the administrative system that coordinated
-All of this—the quarries at {{p|Aswan}}, the Tura limestone quarries, the
+All of this—the quarries at {{p|Aswan}}, the {{p|Tura}} limestone quarries, the
 Copper mines in the {{p|Sinai}}, the grain storage across the {{p|Nile Valley}},
 
 The taxation system that fed the workers—was the most sophisticated
@@ -162,12 +162,12 @@ Cosmic-scale architecture runs aground on the rocks of climate
 And political fragmentation. The pyramids remain. But the
 Civilization that built them is, for several centuries, in chaos.
 
-And the Gaiad's note here—important for the {{p|Mesopotamia}} chapter
+And the {{x|Gaiad}}'s note here—important for the {{p|Mesopotamia}} chapter
 Later—is that the {{p|First Intermediate Period}} of {{p|Egypt}} runs roughly
 Parallel to the collapse of the {{p|Akkadian Empire}} of {{p|Mesopotamia}}.
 The twenty-second century BCE is a crisis period for both of the
 
-Great Bronze Age civilizations. The {{p|Akkadian Empire}} falls to
+Great {{x|Bronze Age}} civilizations. The {{p|Akkadian Empire}} falls to
 Invasions by the {{p|Gutians}}, a people from the {{p|Zagros Mountains}}.
 The {{p|Gutians}} are the first great "barbarian" invaders in
 {{p|Mesopotamian}} historical records. They rule {{p|Mesopotamia}} briefly
@@ -177,8 +177,8 @@ And the climate event that weakens the {{p|Nile}} is probably the same
 Climate event that weakens the {{p|Tigris-Euphrates}} flood—a severe
 Multi-century drought known as the {{p|4.2-kiloyear event}}, one of the
 
-Most significant climate shifts of the {{p|Holocene}}. The Old Kingdom
-And the Akkadian Empire both fall to the same climate crisis. The
+Most significant climate shifts of the {{p|Holocene}}. The {{x|Old Kingdom}}
+And the {{p|Akkadian Empire}} both fall to the same climate crisis. The
 {{p|Gutians}} are one symptom. The {{p|Egyptian}} famine is another. The
 Pattern of climate-induced civilization collapse is deep, and this
 
