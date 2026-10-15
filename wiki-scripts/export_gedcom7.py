@@ -253,6 +253,13 @@ def build_gedcom7(out_path):
 
     canon = load_canonical_line()
     gaiad_cites = load_gaiad_citations()
+    labels = defaultdict(list)
+    labels_path = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "labels.tsv"
+    if labels_path.exists():
+        import csv
+        with open(labels_path, encoding="utf-8", newline="") as fh:
+            for r in csv.DictReader(fh, delimiter="\t"):
+                labels[r["qid"]].append((r["lang"], r["label"]))
     n_indi = n_trans = n_lineage = n_cite = 0
     for qid in sorted(persons, key=lambda q: int(q[1:]) if q[1:].isdigit() else 0):
         row = persons[qid]
@@ -267,12 +274,24 @@ def build_gedcom7(out_path):
                 w(f"2 TRAN {val(n)}")
                 w(f"3 LANG {lang_of(n)}")
                 n_trans += 1
+        # The item's own labels in the primary languages (zh, ja, ko; wikibase/analysis/labels.tsv), where
+        # the name lines above do not already have them: as TRAN and as their own NAME, since programs
+        # often drop TRAN.
+        extra = [(lg, lb) for lg, lb in labels.get(qid, []) if lb not in names]
+        for lg, lb in extra:
+            w(f"2 TRAN {val(lb)}")
+            w(f"3 LANG {lg}")
+            n_trans += 1
         for n in names:
             if n != primary:
                 w(f"1 NAME {val(n)}")
                 if lang_of(n):
                     w("2 TYPE OTHER")
                     w(f"3 PHRASE {lang_of(n)} name")
+        for lg, lb in extra:
+            w(f"1 NAME {val(lb)}")
+            w("2 TYPE OTHER")
+            w(f"3 PHRASE {lg} name")
         for n, phrase in lineage_names(qid, persons, sex_of, canon):
             w(f"1 NAME {val(n)}")
             w("2 TYPE OTHER")

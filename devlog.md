@@ -8281,3 +8281,9 @@ interesting thing to incorporate into Ophiuchus 26th"): the readings stopped at 
 unread, the missing chapters were written in one night, and on Libra 9 the reading went out on its day again (parent
 repo `research/chapter-histories.md`). "More than a month", not a count: her 45-50 days and the repo's 36 are still
 an open question. Only the book's public record; nothing about her life.
+
+2026-10-15 06:44 PST: /gaiad.ged carries every person's real Chinese, Japanese and Korean labels from the wikibase items
+(`wiki-scripts/extract_labels.py` -> `wikibase/analysis/labels.tsv`: 27,094 zh, 26,207 ja, 7,146 ko), as TRAN under
+the primary name and as their own typed NAME. Translations in the file: 1,536 -> 56,593; 54 MB; all people still match
+back by ID. The items hold labels in 452 languages (about 12 per person); all of them would add some 50 MB to one file,
+so the other languages belong to the per-language files of the download package.
