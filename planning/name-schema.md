@@ -60,6 +60,13 @@ Experiments to run in `export_gedcom7.py`: a surname absent from the name line; 
 first NAME and the schema pieces as typed NAME records (`TYPE` with `PHRASE`), checked with
 `check_gedcom_roundtrip.py` against Gramps.
 
+**Built 2026-10-15 (step 2):** `export_gedcom7.py` writes each person's patronymic or matronymic as two
+typed NAME records (`TYPE OTHER`, `PHRASE patronymic, English form` / `... Arabic form`): "Margarida Rui's
+daughter", "Wael ibn Nizar". Only where both given names are clean (the given part of the gedcom name, or a
+one-word label) and in Latin script: 32,582 names on 16,291 people. Full labels were skipped because they
+made names like "Gwyn ap Peredur ab Ednowain ... 's son". Gramps 6 keeps all of them but drops the PHRASE.
+Russian-style and Welsh-style stacking, and the forms in other scripts, are later work.
+
 ## Order of work
 
 The steps are in the parent repo's `queue.md`. Names come first because they are text and can be

@@ -108,6 +108,63 @@ def person_uid(qid):
     return str(uuid.uuid5(UID_NAMESPACE, qid))
 
 
+GIVEN_OK = re.compile(r"^[^\W\d_][^\d\[\]()/,;:]*$")
+
+
+def given_name(row):
+    """The given part of a person's name, or "" when it cannot be told apart from the rest.
+
+    Only two sources are trusted: the part before the /surname/ in the gedcom column, and a label
+    that is a single word. A full label ("Gwyn ap Peredur ab Ednowain", "[66] Pangeran Adipati ...")
+    is skipped rather than guessed at, since a wrong given name on every lineage name would be worse
+    than none (checked on a sample, 2026-10-15).
+    """
+    ged = clean_name(row.get("gedcom") or "")
+    if "/" in ged:
+        g = ged.split("/", 1)[0].strip()
+        if g and len(g.split()) <= 2 and GIVEN_OK.match(g):
+            return g
+    label = clean_name(row.get("label") or "")
+    if label and " " not in label and GIVEN_OK.match(label):
+        return label
+    return ""
+
+
+def load_canonical_line():
+    """qid -> (canonical parent qid, 'father'|'mother'), from canonical_line.py's output."""
+    path = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "canonical_line.tsv"
+    out = {}
+    if path.exists():
+        import csv
+        with open(path, encoding="utf-8", newline="") as fh:
+            for r in csv.DictReader(fh, delimiter="\t"):
+                if r["canonical_parent"] and r["link"] in ("father", "mother"):
+                    out[r["qid"]] = (r["canonical_parent"], r["link"])
+    return out
+
+
+def lineage_names(qid, persons, sex_of, canon):
+    """The name schema's patronymic or matronymic (planning/name-schema.md), in the two forms
+    Emma gave: English "Emma Helen's daughter" and Arabic "Emma bint Helen"."""
+    if qid not in canon:
+        return []
+    parent, link = canon[qid]
+    child_g, parent_g = given_name(persons[qid]), given_name(persons.get(parent, {}))
+    if not child_g or not parent_g or parent_g.lower() in ("father", "mother"):
+        return []
+    # These two forms are Latin-script patterns; names in other scripts get their own forms
+    # (Chinese, Japanese, Arabic script) in later steps of the schema.
+    import unicodedata
+    if any(ch.isalpha() and not unicodedata.name(ch, "").startswith("LATIN")
+           for ch in unicodedata.normalize("NFD", child_g + parent_g)):
+        return []
+    kind = "patronymic" if link == "father" else "matronymic"
+    rel = {"M": "son", "F": "daughter"}.get(sex_of.get(qid), "child")
+    arabic = {"M": "ibn", "F": "bint"}.get(sex_of.get(qid), "ibn")
+    return [(f"{child_g} {parent_g}'s {rel}", f"{kind}, English form"),
+            (f"{child_g} {arabic} {parent_g}", f"{kind}, Arabic form")]
+
+
 def build_gedcom7(out_path):
     persons, parents_of, spouse_pairs, precision = load()
 
@@ -164,7 +221,8 @@ def build_gedcom7(out_path):
     w("1 PUBL https://order.life/gaiad.ged")
     w("1 WWW https://order.life/")
 
-    n_indi = n_trans = 0
+    canon = load_canonical_line()
+    n_indi = n_trans = n_lineage = 0
     for qid in sorted(persons, key=lambda q: int(q[1:]) if q[1:].isdigit() else 0):
         row = persons[qid]
         w(f"0 @I{qid}@ INDI")
@@ -184,6 +242,11 @@ def build_gedcom7(out_path):
                 if lang_of(n):
                     w("2 TYPE OTHER")
                     w(f"3 PHRASE {lang_of(n)} name")
+        for n, phrase in lineage_names(qid, persons, sex_of, canon):
+            w(f"1 NAME {val(n)}")
+            w("2 TYPE OTHER")
+            w(f"3 PHRASE {phrase}")
+            n_lineage += 1
         w(f"1 SEX {sex_of[qid]}")
 
         prec_birth, prec_death = precision.get(qid, ("", ""))
@@ -245,7 +308,7 @@ def build_gedcom7(out_path):
     with open(tmp, "w", encoding="utf-8-sig", newline="\n") as f:
         f.write("\n".join(out))
     tmp.replace(out_path)
-    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans,
+    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage,
             "bytes": out_path.stat().st_size}
 
 
