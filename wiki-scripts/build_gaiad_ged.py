@@ -6,9 +6,13 @@ Build /gaiad.ged: one GEDCOM, strictly from the text, then Emma's ancestry. Emma
                                              in the Gaiad (chapter 1 onward, line by line). "Strictly text only":
                                              false positives are fine and there are no links among them; splits
                                              and merges come later, by UUIDs put into the tags.
-  then Emma's ancestry                       her family tree file (Gaiad/ancestry/second_attempt.ged, her
-                                             FamilySearch tree from RootsMagic), appended with its families,
-                                             her own record resolved as I2.
+  then Emma's ancestry                       the synoptic tree (every GEDCOM in the repo joined on exact ids)
+                                             trimmed to her ancestors and every family any of them is in
+                                             (Gaiad/ancestry/emma-ancestry.ged, from synoptic/trim_to_ancestors.py
+                                             in the inochi-no-michikyo repo), appended with its families. Her own
+                                             record resolves as I2, and order.life's Aster (REFN Q1) and Andromeda
+                                             (REFN Q3) as I1 and I3, so her line joins through to them (Emma,
+                                             2026-10-15: "plus ancestry from me to Andromeda. Oh, and Aster").
 
     python wiki-scripts/build_gaiad_ged.py [out.ged]
 
@@ -22,12 +26,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 EPIC = ROOT / "Gaiad" / "epic"
-ANCESTRY = ROOT / "Gaiad" / "ancestry" / "second_attempt.ged"
+ANCESTRY = ROOT / "Gaiad" / "ancestry" / "emma-ancestry.ged"
 TAG = re.compile(r"\{\{c\|(?:[^}|]*\|)?([^}|]+)\}\}")
 TITLE = re.compile(r"^#\s+(?:Chapter\s+\d+:\s*)?(.*)")
 NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")
 FIRST = [("Aster", "Aster"), ("Emma Leonhart", "Emma /Leonhart/"), ("Andromeda", "Andromeda")]
 EMMA_FS = "PFR5-LDS"
+ORDERLIFE_FIRST = {"Q1": "@I1@", "Q3": "@I3@"}  # order.life ids of Aster and Andromeda
 
 
 def appearances():
@@ -110,14 +115,25 @@ def build(out_path):
             indi(name, name, (ch, st))
     n_text = n
 
-    # Emma's ancestry, renumbered after the text block; her own record becomes I2.
+    # Emma's ancestry, renumbered after the text block; her record becomes I2, order.life's Aster and Andromeda I1, I3.
     recs = ancestry_records() if ANCESTRY.exists() else []
-    emma_x = next((x for x, tag, lines in recs if tag == "INDI" and any(EMMA_FS in l for l in lines)), None)
+
+    def first_of(lines):
+        if any(l.strip() == f"1 _FSFTID {EMMA_FS}" for l in lines):
+            return "@I2@"
+        for a, b in zip(lines, lines[1:]):
+            if a.startswith("1 REFN ") and b.strip() == "2 TYPE order.life":
+                hit = ORDERLIFE_FIRST.get(a[7:].strip())
+                if hit:
+                    return hit
+        return None
+
     imap, fmap, nf = {}, {}, 0
-    for x, tag, _ in recs:
+    for x, tag, lines in recs:
         if tag == "INDI":
-            if x == emma_x:
-                imap[x] = "@I2@"
+            hit = first_of(lines)
+            if hit and hit not in imap.values():
+                imap[x] = hit
             else:
                 n += 1
                 imap[x] = f"@I{n}@"
@@ -125,18 +141,31 @@ def build(out_path):
             nf += 1
             fmap[x] = f"@F{nf}@"
     ptr = re.compile(r"@[^@\s]+@")
-    emma_links = []
+    # The synoptic tree carries links on the FAM records only; give each person their FAMC/FAMS back.
+    back = {}
     for x, tag, lines in recs:
+        if tag == "FAM":
+            for l in lines:
+                if l.startswith(("1 HUSB ", "1 WIFE ", "1 CHIL ")):
+                    kind = "FAMC" if l.startswith("1 CHIL ") else "FAMS"
+                    back.setdefault(l[7:].strip(), []).append(f"1 {kind} {x}")
+    links = {}
+    for x, tag, lines in recs:
+        if tag == "INDI":
+            have = {l.strip() for l in lines}
+            lines = lines + [l for l in back.get(x, ()) if l not in have]
         fixed = [ptr.sub(lambda m: imap.get(m.group(0)) or fmap.get(m.group(0)) or m.group(0), l) for l in lines]
-        if x == emma_x:
-            emma_links = [l for l in fixed if l.startswith(("1 FAMC", "1 FAMS"))]
+        target = imap.get(x)
+        if target in ("@I1@", "@I2@", "@I3@"):
+            links[target] = [l for l in fixed if l.startswith(("1 FAMC", "1 FAMS"))]
             continue
         add(f"0 {imap.get(x) or fmap.get(x)} {tag}")
         w.extend(fixed)
-    # Graft Emma's family links onto I2 (inserted after her REFN line).
-    if emma_links:
-        i = w.index("0 @I2@ INDI")
-        w[i + 2:i + 2] = emma_links
+    # Graft the joined records' family links onto I1, I2, I3 (after their REFN line).
+    for target, fam_lines in links.items():
+        if fam_lines:
+            i = w.index(f"0 {target} INDI")
+            w[i + 2:i + 2] = fam_lines
     add("0 TRLR")
     out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
