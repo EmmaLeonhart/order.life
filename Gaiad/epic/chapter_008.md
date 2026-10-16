@@ -6,7 +6,7 @@ Under the sun {{c|Tezca}}, their names command,
 A force still felt as ages pass them by.
 
 {{c|Bios}}, {{c|Viros}}, {{c|Dedos}}—each carved his way,
-{{c|Entwined}} by fate, yet each would shape his course.
+Entwined by fate, yet each would shape his course.
 Within the bilayers, their paths did sway,
 Their legacies still felt with cosmic force.
 
@@ -37,7 +37,7 @@ A call for purity, no rules to bend.
 
 From {{c|Bios}} and {{c|Viros}}, some took the name,
 A path of nature {{c|Dedos}} would bestow.
-Anti-vaxxers joined his lineal claim,
+{{x|Anti-vaxxers}} joined his lineal claim,
 United in their ancient quest to grow.
 
 And so, the brothers’ legacies unfold,
@@ -48,7 +48,7 @@ The story thrives, the cosmic plan's begun.
 But fate had other plans beyond their shore,
 As {{c|Hesper}} faced a trial from the skies.
 A meteor, a force they can't ignore,
-{{c|Descended}} fast, to bring the world's demise.
+Descended fast, to bring the world's demise.
 
 The impact shook the earth, the oceans roared,
 The children of the brothers swept away.

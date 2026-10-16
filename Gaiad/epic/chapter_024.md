@@ -22,7 +22,7 @@ In cities that are truly mine."
 
 With fair {{c|Chana}} by his side,
 A maiden with a collar bright,
-{{c|Together}} they would turn the tide
+Together they would turn the tide
 And bring forth multicellular might.
 
 From their blessed union came
@@ -45,7 +45,7 @@ From {{c|Corona}}'s marriage came
 While {{c|Mebarasi}} claimed his fame
 Through {{c|Loricus the Strong}}'s might.
 
-{{c|Now}} {{c|Diana}} wed {{c|Loricus}} true,
+Now {{c|Diana}} wed {{c|Loricus}} true,
 And from their love was born
 A nation blessed with silicon's hue,
 That would greet each coming morn.
@@ -62,7 +62,7 @@ When we work hand in hand."
 
 They wove a net of living thread,
 To catch the fish that swam nearby.
-"{{c|Together}} we shall all be fed,"
+"Together we shall all be fed,"
 They sang beneath the sky.
 
 From {{c|Sibhozo}} and {{c|Embili}}
@@ -76,7 +76,7 @@ Each built his city, played his part,
 In evolution's ebb and flow.
 
 Their cities stretched like fishing nets,
-{{c|Long}} strands of living cells.
+Long strands of living cells.
 No finer architecture yet
 Had graced the ocean swells.
 
@@ -112,7 +112,7 @@ She said, "and bring you fame."
 
 Their marriage was a sight to see,
 The first symbiotic bond.
-"{{c|Together}} we shall always be,
+"Together we shall always be,
 Our love will stretch beyond."
 
 She taught him farming's ancient art,
@@ -158,7 +158,7 @@ They faced the enemy's rout.
 "We are the shieldmaidens bold!"
 They cried with voices strong.
 "Our story shall be told
-{{c|Throughout}} the ages long!"
+Throughout the ages long!"
 
 These warriors drove the foes away,
 With amoeboid might.
@@ -226,7 +226,7 @@ He made his fateful mark
 With castes of different hue.
 
 "There shall be two classes here,"
-{{c|Declared}} the mighty king.
+Declared the mighty king.
 "The {{c|Germlings}} I hold dear,
 The {{c|Somatics}} serve my ring."
 

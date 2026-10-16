@@ -3,7 +3,7 @@
 As sons of {{c|Cambrius}} grew in might
 Across the world both day and night,
 All sons of {{c|Bios}} felt the change
-{{c|Throughout}} their ancient range.
+Throughout their ancient range.
 
 The sons of {{c|Cubos}} and {{c|Scyphos}} rose
 To challenge all their foes.
@@ -33,7 +33,7 @@ In reefs where fishes play.
 Among the sons of {{c|Demos}} came
 The hunters fierce of name:
 Great {{c|Chondrocles}}' hunting band
-{{c|Spread}} wide across the land.
+Spread wide across the land.
 
 {{c|Carnivorous}} sponges they became,
 With predatory fame.
@@ -60,7 +60,7 @@ Of glory and of praise.
 A new era had begun
 Beneath the shining sun.
 
-{{c|Here}} now we tell the tale
+Here now we tell the tale
 Of {{c|Lobopus}} without fail.
 His vision he imposed with might
 On all the world's delight.
@@ -97,7 +97,7 @@ And so three houses came to birth:
 {{c|Ironfoot}} with strength so true,
 And {{c|Waterbear}}'s line too.
 
-{{c|Here}} now {{c|Velvetclaw}}'s tale we tell
+Here now {{c|Velvetclaw}}'s tale we tell
 Of how they rose so well.
 From {{c|Gracilis}} came four sons strong:
 {{c|Paucipodes}} all along,
@@ -114,7 +114,7 @@ With spines to win the fight.
 {{c|Therion}} {{c|Velvetclaw}} begot
 {{c|Cardios}}, who fought
 And {{c|Hallucigena}} strange
-{{c|Throughout}} his living range.
+Throughout his living range.
 
 From {{c|Hallucigena}} came
 Four children of great fame:
@@ -171,7 +171,7 @@ Swam with gills upon.
 {{c|Kerygmachelon}} the great
 Had a noble fate.
 He bore son {{c|Pambdelurion}},
-{{c|Mighty}} champion.
+Mighty champion.
 
 {{c|Pambdelurion}} bore three
 Children of destiny:
@@ -180,7 +180,7 @@ Children of destiny:
 To rule with iron hand,
 And fair throughout the land,
 {{c|Opabinia}} the bright,
-{{c|Beautiful}} to sight.
+Beautiful to sight.
 
 {{c|Arthur}} built armor strong
 To last his whole life long.
@@ -218,8 +218,8 @@ His sons would rule with might
 Through day and through the night.
 
 But fair {{c|Opabinia}}'s daughters all
-{{c|Answered}} beauty's call.
-{{c|Humble}} lives they led
+Answered beauty's call.
+Humble lives they led
 With grace and gentle tread.
 
 And {{c|Arthur}} {{c|Ironfoot}}'s line
@@ -265,7 +265,7 @@ Through all that time assures.
 In every arthropod
 That walks upon the sod,
 {{c|Arthur}}'s innovation
-{{c|Shaped}} our creation.
+Shaped our creation.
 
 The sons of {{c|Cambrius}} changed
 How all life was arranged.

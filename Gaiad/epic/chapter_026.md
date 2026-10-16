@@ -51,16 +51,16 @@ Their city, though it was not seen
 By many, shone with inner light.
 
 From this great union came a son,
-{{c|Bold}} {{c|Therion}} of noble birth.
+Bold {{c|Therion}} of noble birth.
 When his childhood days were done,
 He spread his lineage through the earth.
 
 Great {{c|Therion}} bore three children true:
-{{c|Brave}} {{c|Porifer}}, the sponge's king,
+Brave {{c|Porifer}}, the sponge's king,
 And {{c|Thallus}} with his geometric view,
 And {{c|Cloudi}}, who would upward bring.
 
-{{c|Now}} {{c|Thallus}} chose the structured way,
+Now {{c|Thallus}} chose the structured way,
 With holdfasts gripping to the stone.
 His {{c|Choanoderms}} in bright array
 Extended in directions known.
@@ -71,7 +71,7 @@ His children reached toward the sky,
 Each generation climbing forward.
 
 From {{c|Cloudi}} came two children bright:
-{{c|Fair}} {{c|Cloudina}}, growing slow,
+Fair {{c|Cloudina}}, growing slow,
 Who built her city with sediment's might,
 And let the layers gently flow.
 
@@ -126,16 +126,16 @@ His city prospered, fully grown,
 With fish caught early and late.
 
 From {{c|Solenos}} came two sons:
-{{c|Bold}} {{c|Leucon}} and fair {{c|Sponga}} bright.
+Bold {{c|Leucon}} and fair {{c|Sponga}} bright.
 When their childhood was done,
 They filled the sea with their might.
 
-{{c|Together}} they bore children two:
+Together they bore children two:
 Great {{c|Vitrius}} of glass so clear,
 And {{c|Spongius}}, wise and true,
 Whose name we hold dear.
 
-{{c|Now}} {{c|Leucon}} was a builder grand,
+Now {{c|Leucon}} was a builder grand,
 A {{c|Leuconoid}} of complex form.
 He filled his city through the land
 With labyrinths to weather storm.
@@ -143,7 +143,7 @@ With labyrinths to weather storm.
 His gates and fishermen galore
 Made cities massive, wide, and tall.
 The sons of {{c|Leucon}} built much more
-{{c|Than}} any seen before them all.
+Than any seen before them all.
 
 But {{c|Vitrius}}, his eldest son,
 Grew jealous of his father's fame.
@@ -152,7 +152,7 @@ To claim the royal name.
 
 With stone in hand, he struck his sire,
 And {{c|Leucon}} fell beneath the blow.
-{{c|Young}} {{c|Vitrius}}' dark desire
+Young {{c|Vitrius}}' dark desire
 Had brought his father low.
 
 "I claim the throne!" he cried with pride,
@@ -168,7 +168,7 @@ A hive-mind he created with pride.
 When {{c|Spongius}} asked him why
 He'd killed their father dear,
 {{c|Vitrius}}' cold reply
-{{c|Rang}} out for all to hear:
+Rang out for all to hear:
 
 "Our father was a tyrant cruel,
 He worked the people to their death!
@@ -183,7 +183,7 @@ Against my rule! My power shall last!"
 But {{c|Spongius}} took a stone,
 And cast it with a steady aim.
 The glass house, overthrown,
-{{c|Shattered}} in a crystal rain.
+Shattered in a crystal rain.
 
 As {{c|Vitrius}} lay dying there,
 His brother spoke these words so wise:
@@ -215,13 +215,13 @@ Great {{c|Aristos}}, noble-born,
 And {{c|Demos}}, through and through
 A leader without scorn.
 
-{{c|Now}} {{c|Demos}} ruled efficiently,
+Now {{c|Demos}} ruled efficiently,
 Yet kept the ancient ways.
 He led conservatively,
 Through all his ruling days.
 
 Most sponges in the world today
-{{c|Descend}} from {{c|Demos}}' line.
+Descend from {{c|Demos}}' line.
 Their forms in grand array
 Show heritage divine.
 
@@ -246,7 +246,7 @@ Who've made the deep their home
 And hunt with greater ease.
 
 These carnivorous sponges bold
-{{c|Pursue}} their prey with might.
+Pursue their prey with might.
 Their hunting stories told
 Fill listeners with delight.
 
@@ -255,7 +255,7 @@ Great {{c|Anu}}, unique and strange,
 And {{c|Calcidoros}}' lore
 Would through the reefs arrange.
 
-{{c|Bold}} {{c|Calcidoros}} built
+Bold {{c|Calcidoros}} built
 With calcium's bright blessing.
 His forms would never wilt
 Beneath the sea's caressing.
@@ -265,7 +265,7 @@ Over silicon's domain,
 He built each coral tower
 In forms without refrain.
 
-{{c|Simple}}, optimal, and true,
+Simple, optimal, and true,
 His structures graced the reefs.
 In tropical waters blue,
 His beauty brings reliefs.
@@ -276,7 +276,7 @@ Among all sponges, he'd speak
 A language none could share.
 
 His form was strange to see,
-{{c|Unlike}} his spongy kin.
+Unlike his spongy kin.
 His singularity
 Would make him stand within.
 

@@ -113,7 +113,7 @@ To live the ancient stories yet untold.
 Thus gastropods learned every way to breathe:
 Some kept their gills for water's sweet embrace,
 Some found in air the power to achieve
-{{c|New}} heights and claim the atmosphere's great space.
+New heights and claim the atmosphere's great space.
 
 Some turned their shells to windows for the sun
 And learned to eat the light like plants of old,

@@ -1,6 +1,6 @@
 # Chapter 22: Kingdom Diversification
 
-{{c|Now}} when the children of {{c|Nectarius}} had grown,
+Now when the children of {{c|Nectarius}} had grown,
 Each claimed their realm with purpose strong and true.
 The paths they'd walk would soon be clearly shown,
 As kingdoms spread beneath the ocean blue.
@@ -16,11 +16,11 @@ His chloroplast bride, fairest ever seen,
 Sweet {{c|Chlora}}, blessed him with her bright surprise.
 
 From their great union came three children fair:
-{{c|Bold}} {{c|Glauca}} of the ancient, simple way,
-{{c|Wise}} {{c|Alges}} with his scientific flair,
+Bold {{c|Glauca}} of the ancient, simple way,
+Wise {{c|Alges}} with his scientific flair,
 And {{c|Alga}}, who'd advance from day to day.
 
-{{c|Now}} {{c|Glauca}}, eldest daughter of the line,
+Now {{c|Glauca}}, eldest daughter of the line,
 Kept close her mother's old-fashioned dress
 Of peptidoglycan sequins fine,
 She chose the path of clonal success.
@@ -51,12 +51,12 @@ She built instead a solar, golden crown
 Of thylakoids in sophisticated dress.
 
 "I'll not be bound by mother's ancient ways,"
-{{c|Fair}} {{c|Alga}} spoke with wisdom in her voice.
+Fair {{c|Alga}} spoke with wisdom in her voice.
 "The light demands new forms, new nights and days,
 {{c|Sophistication}} is my willing choice."
 
 She wed her brother {{c|Alges}}, keen and bright,
-{{c|Together}} they would revolutionize
+Together they would revolutionize
 The capture of the sun's life-giving light,
 And make their solar kingdom truly rise.
 
@@ -65,7 +65,7 @@ Great {{c|Rhodes}}, the red algae's mighty king,
 And {{c|Vert}}, whose green descendants would unfold
 In forests where the songbirds love to sing.
 
-{{c|Now}} {{c|Rhodes}} possessed accessory pigments rare,
+Now {{c|Rhodes}} possessed accessory pigments rare,
 {{c|Phycoerythrin}}'s pink and red so bright.
 He caught the deeper wavelengths in the air
 That others missed in depths beyond their sight.
@@ -91,12 +91,12 @@ Her simple algae first would intertwine
 With fungal partners, mastering the breeze.
 
 But while the plant kingdom found its start,
-{{c|Fair}} {{c|Hacroses}}, second child of {{c|Plantus}}' line,
+Fair {{c|Hacroses}}, second child of {{c|Plantus}}' line,
 Would play a very different, vital part
 In evolution's intricate design.
 
 {{c|Hacroses}} bore two sons of great renown:
-{{c|Bold}} {{c|Haroses}} and wise {{c|Haptistus}} strong.
+Bold {{c|Haroses}} and wise {{c|Haptistus}} strong.
 Their legacy would shake the ocean down
 And sing a very different kind of song.
 
@@ -105,8 +105,8 @@ Great {{c|Heterokon}}, master of the brown,
 {{c|Alveolus}} with his swift-sailing hordes,
 And {{c|Rhizar}}, bearer of the spiky crown.
 
-{{c|Now}} {{c|Heterokon}} bore three sons so bold:
-{{c|Brave}} {{c|Ochros}} of the golden algae bright,
+Now {{c|Heterokon}} bore three sons so bold:
+Brave {{c|Ochros}} of the golden algae bright,
 And {{c|Oomy}} with his spines of liquid gold,
 And {{c|Bigyres}}, swimming in the morning light.
 
@@ -120,13 +120,13 @@ And wed her to his cellular embrace.
 Within his cytoplasm, locked within,
 She found her new endosymbiotic place.
 
-"{{c|Now}} I possess," declared triumphant {{c|Ochros}},
+"Now I possess," declared triumphant {{c|Ochros}},
 "The power of the sun's life-giving ray!
 My chloroplast bride, fairest of the roses,
 Will feed my line throughout each golden day!"
 
 From this great theft came children without peer:
-{{c|Fair}} {{c|Diana}} of the silicon art,
+Fair {{c|Diana}} of the silicon art,
 Great {{c|Kelpus}}, forest-builder without fear,
 Sweet {{c|Synura}} and {{c|Chrysanthema}}'s heart.
 
@@ -162,16 +162,16 @@ A living world that ever would last.
 
 But jealousy stirred in the hearts of those
 Who lacked the power of photosynthetic might.
-{{c|Young}} {{c|Alveolus}}, seeking to dispose
+Young {{c|Alveolus}}, seeking to dispose
 Of {{c|Ochros}}' monopoly on light.
 
 He stole fair {{c|Okra}}, {{c|Ochros}}' daughter true,
 And made her his endosymbiotic bride.
-"{{c|Now}} I too have the power," he said with glee,
+"Now I too have the power," he said with glee,
 "To harness sunshine's energetic tide!"
 
 From this alliance came two children strong:
-{{c|Bold}} {{c|Cilliofer}} with his beating cilia,
+Bold {{c|Cilliofer}} with his beating cilia,
 And {{c|Myzo}}, vampire all along,
 Who'd drink the blood of cellular familia.
 
@@ -221,7 +221,7 @@ My chloroplasts have lost their power bright,
 But I'll survive through parasitic greed."
 
 His apicomplexan descendants still
-{{c|Invade}} our blood and bring us disease.
+Invade our blood and bring us disease.
 They bend the world unto their evil will,
 While honest workers toil without ease.
 
@@ -267,7 +267,7 @@ And explore every corner of the globe.
 
 Meanwhile, far from these struggles for the light,
 Great {{c|Animus}} and {{c|Opima}}'s line
-{{c|Pursued}} a path both different and bright,
+Pursued a path both different and bright,
 With movement as their gift divine.
 
 From them came bold {{c|Ozymandias}},
@@ -321,7 +321,7 @@ Upon its shores, the children of {{c|Aster}}'s line
 Would build their kingdoms supreme.
 
 Yet even as these realms found peace at last,
-{{c|Dark}} {{c|Hilluhengweh}} plotted from afar.
+Dark {{c|Hilluhengweh}} plotted from afar.
 The golden age would not forever last,
 He'd bring again the chaos and the war.
 
@@ -331,11 +331,11 @@ For now, in prosperity they dwell,
 Their lineages forever blessed.
 
 So honor {{c|Nectarius}} and his bride,
-{{c|Fair}} {{c|Ambrosia}} of wisdom true.
+Fair {{c|Ambrosia}} of wisdom true.
 Their children's gifts would never hide,
 But shine forever, bright and new.
 
 From their great love, both proud and strong,
 Came every living thing we see.
 Their legacy lives on in song,
-{{c|Throughout}} all eternity.
+Throughout all eternity.

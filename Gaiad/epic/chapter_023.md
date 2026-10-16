@@ -1,7 +1,7 @@
 # Chapter 23: The Gamma Ray Apocalypse
 
 But peace would not endure for long,
-{{c|Dark}} {{c|Hilluhengweh}} watched from space afar.
+Dark {{c|Hilluhengweh}} watched from space afar.
 His jealous heart burned fierce and strong,
 To bring again chaotic war.
 
@@ -17,12 +17,12 @@ And left most lineages destroyed.
 
 The seas that once were crimson red
 With {{c|Rhodes}}' children everywhere,
-{{c|Now}} held the corpses of the dead,
+Now held the corpses of the dead,
 While few survivors gasped for air.
 
 Of all the mighty red algae,
 But two souls lived through that dark hour:
-{{c|Brave}} {{c|Lifthasir}} and fair {{c|Embla}},
+Brave {{c|Lifthasir}} and fair {{c|Embla}},
 They'd rebuild with what little power.
 
 "We are alone," wept fair {{c|Embla}},
@@ -41,7 +41,7 @@ The genetic loss left them behind,
 Their scrolls degraded, traditions scary.
 
 Among their offspring came a queen,
-{{c|Fair}} {{c|Florida}} with her consort true.
+Fair {{c|Florida}} with her consort true.
 They built the kingdom {{c|Floridea}},
 But simple, not the glory they once knew.
 
@@ -58,7 +58,7 @@ The price of gamma rays was told.
 The stromatolites' great cities fell,
 Their towering spires turned to stone.
 Where once proud civilizations dwell,
-{{c|Now}} only ruins stand alone.
+Now only ruins stand alone.
 
 Yet in this post-apocalyptic time,
 When most had fallen to despair,
@@ -66,8 +66,8 @@ Great {{c|Rhizar}} found his chance to climb,
 And thrive in the poisoned air.
 
 "The old order has passed away,"
-{{c|Bold}} {{c|Rhizar}} spoke with vision clear.
-"{{c|Now}} is the hour, now is the day,
+Bold {{c|Rhizar}} spoke with vision clear.
+"Now is the hour, now is the day,
 For new lineages to appear!"
 
 {{c|Rhizar}} bore two sons of might:
@@ -76,11 +76,11 @@ Each would walk a different sight,
 As evolution's wheel composes.
 
 {{c|Filoses}} bore two children bright:
-{{c|Bold}} {{c|Chlorar}} and {{c|Thaumatus}} keen.
+Bold {{c|Chlorar}} and {{c|Thaumatus}} keen.
 They'd face the world with all their might,
 And build new realms where none had been.
 
-{{c|Now}} {{c|Chlorar}} sought a different way,
+Now {{c|Chlorar}} sought a different way,
 He wed a daughter of {{c|Virita}}.
 "From their union," he did say,
 "Shall come algae's new margarita."
@@ -96,7 +96,7 @@ Some bore shells to ward off wrath,
 Others flowed like living verse.
 
 Among {{c|Thaumatus}}' children came
-One Paul, who envied others' power.
+One {{c|Paul}}, who envied others' power.
 "Why can't I play the photosynthetic game?"
 He brooded through each passing hour.
 
@@ -118,7 +118,7 @@ Would be {{c|Paulinellus}}' boast.
 "Behold!" he cried with joy supreme,
 "I've broken evolution's rule!
 The solar power, once a dream,
-{{c|Now}} makes me nature's blessed fool!"
+Now makes me nature's blessed fool!"
 
 Meanwhile great {{c|Nephillus}} the strong
 Bore children of a different breed:
@@ -140,7 +140,7 @@ Great {{c|Radios}} with geometric crown,
 And {{c|Gromius}} with massive heart,
 The largest cells around.
 
-{{c|Bold}} {{c|Radios}} floated like a sun,
+Bold {{c|Radios}} floated like a sun,
 His shell was geometric art.
 With tentacles he caught each one
 That came within his watery part.
@@ -177,7 +177,7 @@ In my own filth I am lost."
 
 From {{c|Radios}} came three sons of fame:
 Great {{c|Zancleus}} who shed his shell,
-{{c|Wise}} {{c|Retar}} the artist's name,
+Wise {{c|Retar}} the artist's name,
 And {{c|Acanthar}} who forged so well.
 
 {{c|Zancleus}} joined with {{c|Helios}}' clan,
@@ -191,7 +191,7 @@ His opal works still shine today,
 With geometric patterns fair.
 
 From {{c|Retar}} came two sons of note:
-{{c|Bold}} {{c|Foramer}} with chambers grand,
+Bold {{c|Foramer}} with chambers grand,
 And {{c|Polycyston}}, who wrote
 His beauty in opal band.
 
@@ -202,7 +202,7 @@ A testament to his seed.
 
 Among his children came three wise:
 Great {{c|Nummulus}} of the coin,
-{{c|Fair}} {{c|Esther}} with her gentle eyes,
+Fair {{c|Esther}} with her gentle eyes,
 And {{c|Monoth}}, master of the join.
 
 {{c|Nummulus}} became the lord
@@ -218,7 +218,7 @@ Is traded for prosperity."
 But {{c|Monoth}} chose a grander scheme,
 He built a kingdom ever-growing.
 Each son fulfilled his father's dream,
-{{c|New}} rooms and chambers flowing.
+New rooms and chambers flowing.
 
 Some sons of {{c|Monoth}} broke away,
 And founded kingdoms of their own.
@@ -226,7 +226,7 @@ The {{c|Xenophylophores}} today
 Still rule from their giant throne.
 
 Among them came two children bright:
-{{c|Bold}} {{c|Spiculus}} with spines so sharp,
+Bold {{c|Spiculus}} with spines so sharp,
 And fair {{c|Oceana}}, ocean's light,
 Who plays the sea's sweet harp.
 
@@ -252,7 +252,7 @@ Would face whatever winds might blow.
 
 The children of great {{c|Rhizar}}'s line
 Had shown that from destruction's hour,
-{{c|New}} beauty could arise and shine
+New beauty could arise and shine
 With evolutionary power.
 
 So honor those who survived the blast,

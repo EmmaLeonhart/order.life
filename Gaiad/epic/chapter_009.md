@@ -2,11 +2,11 @@
 
 Upon the moon {{c|Phaestia}}, life did bloom,
 It circled {{c|Vayu}}, underneath the sun.
-{{c|Aster}}, by Ehēca's light, dispelled the gloom,
+{{c|Aster}}, by {{c|Ehēca}}'s light, dispelled the gloom,
 Her guiding hand ensured all life begun.
 
 {{c|People}} of {{c|Phaestia}}, blessed by her hand,
-{{c|Knew}} many names for {{c|Aster}} in their lore.
+Knew many names for {{c|Aster}} in their lore.
 Her power felt in sky, in sea, and land,
 Her essence woven deep in every core.
 
@@ -21,7 +21,7 @@ The star that guides the lost through every land,
 The Great {{c|Empress}} of the {{c|North}} {{c|Star}}, {{c|Myoken}}.
 
 From supernova’s heart, she forged with might,
-{{c|Cosmic}} metals shaping, {{c|Konjin}}-sama.
+Cosmic metals shaping, {{c|Konjin}}-sama.
 The breath of life that fills the endless night,
 The great creatrix of all worlds, {{c|Brahma}}.
 

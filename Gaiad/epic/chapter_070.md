@@ -41,7 +41,7 @@ The tree of {{c|Ammonos}} remains unknown
 In all its branching—tangled, rich, and vexed.
 
 Yet all of them were taken in the end:
-When the great dying struck the Mesozoic's close,
+When the great dying struck the {{x|Mesozoic}}'s close,
 Not one of {{c|Ammonos}}' line would bend
 Or find a refuge from those final throes.
 
@@ -80,7 +80,7 @@ First {{c|Belemno}}, whose internal shell remained
 As solid cylinder of calcite prime—
 A bullet in his flesh that strength maintained.
 
-His children filled the Mesozoic seas
+His children filled the {{x|Mesozoic}} seas
 With numbers past what any eye could count,
 Like bullets scattered on the ocean's leas
 Their rostral shells in limestone strata mount

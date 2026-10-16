@@ -20,7 +20,7 @@ On sides, all broken and tattered.
 His nephridia and parts
 {{c|Generative}}, close to hearts,
 
-{{c|Now}} lived within the core
+Now lived within the core
 Of his being, and what's more,
 They were centralized as one
 When his great work was done.
@@ -57,13 +57,13 @@ To make his brain endure.
 
 And so his brain was fed
 And nourished as was said.
-{{c|Always}} strong and bright
+Always strong and bright
 With oxygen's pure sight.
 
 {{c|Hemos}} begat {{c|Haikus}},
-{{c|Little}} fish most glorious,
+Little fish most glorious,
 Who thought that he could not
-{{c|Achieve}} what he had sought.
+Achieve what he had sought.
 
 He thought he couldn't fly
 Beneath the ocean sky.
@@ -81,7 +81,7 @@ His faith had set him loose
 From doubt's restraining noose.
 
 {{c|Haikus}} became the most
-{{c|Accomplished}} of his host.
+Accomplished of his host.
 In all his noble line
 None could match his design.
 
@@ -125,7 +125,7 @@ Of cleaning's circumstance,
 Through movements tried and true
 We make our teeth renew.
 
-{{c|Once}} or twice each year
+Once or twice each year
 We seek without any fear
 The holy-mouth-man priest
 Who holds the dental feast.
@@ -152,7 +152,7 @@ Of magical defenses.
 
 If no holes can be found
 In teeth healthy and sound,
-{{c|Large}} sections he gouges out
+Large sections he gouges out
 To remove all doubt
 
 That supernatural stuff
@@ -175,14 +175,14 @@ His sons shall have their fill
 Of freedom to seek care
 From mouth-priests everywhere.
 
-{{c|Never}} shall poverty
+Never shall poverty
 {{c|Deny}} this charity.
 The great hero's demand—
 {{c|Notgnihsaw}}'s command—
 
 {{c|Ensures}} that all are free
 To seek dentistry
-{{c|Regardless}} of their gold
+Regardless of their gold
 As heroes of old.
 
 {{c|Conodontus}} begat
@@ -203,7 +203,7 @@ Through water like a ram.
 His teeth were sharp and strong,
 They served him his whole life long.
 A predator was he
-{{c|Throughout}} the boundless sea.
+Throughout the boundless sea.
 
 {{c|Pterapsis}} chose defense
 With armor's permanence.
@@ -242,7 +242,7 @@ Again from their repose
 
 To mark this era new
 With teeth both strong and true.
-{{c|New}} teeth for the new day
+New teeth for the new day
 To show a better way.
 
 From {{c|Vertebratus}}' start
@@ -391,7 +391,7 @@ Remember those who built
 The foundation without guilt
 
 Of all that we hold dear
-{{c|Throughout}} each passing year:
+Throughout each passing year:
 The brain, the blood, the bone,
 All from one line grown
 

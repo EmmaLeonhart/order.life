@@ -16,7 +16,7 @@ Of opportunities
 For their communities.
 
 The sons of {{c|Cain}} and {{c|Abel}}
-{{c|Ruled}} the lands, quite able
+Ruled the lands, quite able
 To make their living there
 In terrestrial air.
 
@@ -30,7 +30,7 @@ He tried despite the woe
 To establish his line
 With dynasty so fine.
 
-Heaven rewards the heart
+{{x|Heaven}} rewards the heart
 That plays determination's part
 To rise above all plight
 And reach for greater height.
@@ -43,7 +43,7 @@ Through life from day to day.
 {{c|Mushi}} begat two sons:
 {{c|Copepus}} when day begun
 And {{c|Lepipus}} the strange
-{{c|Throughout}} his living range.
+Throughout his living range.
 
 {{c|Copepus}} became the sire
 Of copepods' choir—
@@ -90,7 +90,7 @@ They lived both this and that:
 {{c|Sea}} monkeys in their pools
 And water fleas like jewels
 
-{{c|Dancing}} through the water
+Dancing through the water
 Each son and each daughter
 Living simple lives
 Where small beauty thrives.
@@ -140,7 +140,7 @@ Who had a frontier plan.
 A great frontiersman he,
 Who lived quite happily
 
-{{c|Settled}} down with stalk
+Settled down with stalk
 Upon the ground to walk
 No more, but live instead
 Like cnidarians bred.
@@ -173,7 +173,7 @@ Of geese with sacred pride.
 The {{c|Eloh}} of the {{c|Geese}}
 He brings them sweet peace
 And guides them on their way
-{{c|Throughout}} each passing day.
+Throughout each passing day.
 
 In medieval lore
 They told (and tell much more)
@@ -198,7 +198,7 @@ And compact, one and all.
 They became {{c|Barnacles}}
 Like small-scale miracles—
 Half shrimp and half coral,
-{{c|Full}} animals with moral
+Full animals with moral
 
 Lives upon the rock
 Like shepherd with his flock
@@ -271,8 +271,8 @@ To circumstances dire
 But reached for something higher.
 
 In every tiny copepod
-{{c|Dancing}} like a small god
-{{c|Throughout}} the ocean blue,
+Dancing like a small god
+Throughout the ocean blue,
 Remember what is true:
 
 That size does not determine
@@ -335,7 +335,7 @@ In time they find at length
 The preparation needed
 For when their time's succeeded.
 
-Heaven rewards those who try
+{{x|Heaven}} rewards those who try
 To reach beyond the sky
 Of present circumstance
 To future's greater dance.

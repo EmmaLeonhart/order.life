@@ -1,6 +1,6 @@
 # Chapter 25: Cancer and the Birth of Animals
 
-{{c|Now}} {{c|Carcinoma}} was born beneath a cursed star,
+Now {{c|Carcinoma}} was born beneath a cursed star,
 Under the sign of {{c|Cancer}}'s deadly light.
 The gamma rays had scarred her from afar,
 And twisted her cellular sight.
@@ -21,7 +21,7 @@ Her histones torn, her memory grieves
 For markers now rescinded.
 
 H4 lysine tri-methylation,
-{{c|Once}} her genome's guiding star,
+Once her genome's guiding star,
 Was lost in gamma's devastation,
 Her epigenome left with scars.
 
@@ -46,7 +46,7 @@ Why should I be banned
 From love's sweet morn?"
 
 But death came calling with her blade,
-{{c|Fair}} {{c|Kegaine}} with scrolls of light.
+Fair {{c|Kegaine}} with scrolls of light.
 The deadly spell began to fade
 {{c|Carcinoma}} into night.
 
@@ -72,7 +72,7 @@ I'll make my own laws!"
 
 She methylated every G,
 And lengthened telomeres without end.
-"{{c|Immortal}} I shall always be,
+"Immortal I shall always be,
 On this you can depend!"
 
 Her message spread like wildfire bright
@@ -90,7 +90,7 @@ Each one an individual proud.
 They planted their rebellious seed
 And sang their freedom loud.
 
-A great Bacchanalia began,
+A great {{x|Bacchanalia}} began,
 The greatest party ever seen.
 Each cell became their own woman or man,
 Living wild and free.
@@ -111,8 +111,8 @@ With reckless joy and no restrain,
 They fed their greedy need.
 
 Only a few {{c|Zooxanthellae}}
-{{c|Escaped}} the chaos and the strife.
-They fled the mad Bacchanalia,
+Escaped the chaos and the strife.
+They fled the mad {{x|Bacchanalia}},
 To seek a better life.
 
 {{c|Carcinoma}} renamed the city proud,
@@ -132,11 +132,11 @@ For order's call.
 
 Among the nobles of the realm
 Were two who kept the faith:
-{{c|Brave}} {{c|Anima}} at the helm,
+Brave {{c|Anima}} at the helm,
 And {{c|Metazo}} facing wraith.
 
 They honored still {{c|Lord}} {{c|Mithra}}'s way,
-{{c|Despite}} the chaos all around.
+Despite the chaos all around.
 "We cannot here stay
 On this unholy ground."
 
@@ -151,11 +151,11 @@ Before all hope was lost.
 To turn freedom's page?"
 
 But {{c|Anima}} and {{c|Metazo}} true
-{{c|Gathered}} all the faithful few.
+Gathered all the faithful few.
 "A new kingdom we'll make new,
 Where honor will shine through."
 
-{{c|Together}} they would share their scrolls,
+Together they would share their scrolls,
 And build a realm of order bright.
 Their marriage would join souls
 In {{c|Mithra}}'s blessed sight.
@@ -172,7 +172,7 @@ No more you need to roam."
 
 The fleeing farmers heard their call,
 And came to make their pact.
-"{{c|Together}} we'll stand tall,
+"Together we'll stand tall,
 Our covenant intact."
 
 But freedom comes with its price,
@@ -273,7 +273,7 @@ Each cell to play its part.
 From {{c|Carcinoma}}'s rebel cry
 To {{c|Anima}}'s ordered realm,
 The lesson reaches high:
-{{c|True}} life needs both to helm.
+True life needs both to helm.
 
 The {{c|Animal}} Kingdom stands today
 As proof of their great choice.
