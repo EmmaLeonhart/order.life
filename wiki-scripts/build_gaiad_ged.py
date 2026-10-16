@@ -149,15 +149,30 @@ def build(out_path):
                 if l.startswith(("1 HUSB ", "1 WIFE ", "1 CHIL ")):
                     kind = "FAMC" if l.startswith("1 CHIL ") else "FAMS"
                     back.setdefault(l[7:].strip(), []).append(f"1 {kind} {x}")
+    # The per-person features (gedcom_features.py: readings, neo-kun'yomi, Chinese, temple, Horus and Abrahamic names,
+    # lineage names, other calendars, links, cladoplasts) for everyone who carries an order.life id.
+    feats = None
+    if recs:
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        from gedcom_features import Features
+        feats = Features()
     links = {}
     for x, tag, lines in recs:
         if tag == "INDI":
             have = {l.strip() for l in lines}
             lines = lines + [l for l in back.get(x, ()) if l not in have]
+            if feats:
+                for a, b in zip(lines, lines[1:]):
+                    if a.startswith("1 REFN ") and b.strip() == "2 TYPE order.life":
+                        lines = lines + feats.lines(a[7:].strip())
         fixed = [ptr.sub(lambda m: imap.get(m.group(0)) or fmap.get(m.group(0)) or m.group(0), l) for l in lines]
         target = imap.get(x)
         if target in ("@I1@", "@I2@", "@I3@"):
-            links[target] = [l for l in fixed if l.startswith(("1 FAMC", "1 FAMS"))]
+            keep = []
+            for l in fixed:   # family links, and the feature lines that follow the record's own (NAME, NOTE, FACT)
+                if l.startswith(("1 FAMC", "1 FAMS")) or keep and not l.startswith(("1 REFN", "2 TYPE order.life")):
+                    keep.append(l)
+            links[target] = keep
             continue
         add(f"0 {imap.get(x) or fmap.get(x)} {tag}")
         w.extend(fixed)
@@ -170,8 +185,11 @@ def build(out_path):
     out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text("\n".join(w) + "\n", encoding="utf-8-sig", newline="\n")
-    return {"text individuals": n_text, "ancestry individuals": n - n_text, "families": nf,
-            "bytes": out_path.stat().st_size}
+    stats = {"text individuals": n_text, "ancestry individuals": n - n_text, "families": nf}
+    if feats:
+        stats.update({f"feature: {k}": v for k, v in sorted(feats.counts.items())})
+    stats["bytes"] = out_path.stat().st_size
+    return stats
 
 
 if __name__ == "__main__":
